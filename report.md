@@ -5,7 +5,7 @@
 | spacenews | 9 | 15 | 26 | 51 |
 | nyt | 1 | 3 | 20 | 42 |
 | breaking_defense | 0 | 1 | 20 | 43 |
-| supercluster | 1 | 1 | 13 | 13 |
+| supercluster | 1 | 1 | 14 | 14 |
 
 # Shown Order
 
@@ -5104,3 +5104,4 @@
 - **Jul 30, 10:25 AM** - Roketsan signs agreement with Indonesia, unveils five missiles and space launch vehicle designs (breaking_defense)
 - **Jul 30, 10:39 AM** - NASA and ISRO Will Launch an Earth Observation Satellite (supercluster)
 - **Jul 30, 10:41 AM** - NASA and ISRO Will Launch an Earth Observation Satellite (supercluster)
+- **Jul 30, 10:43 AM** - NASA and ISRO Will Launch an Earth Observation Satellite (supercluster)
