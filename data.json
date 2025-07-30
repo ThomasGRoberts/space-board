@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-30T00:02:00.335354+00:00",
-    "trigger_count": 2,
-    "current_item_id": "c53cf7298624ce1af471091077966550",
+    "trigger_count": 3,
+    "current_item_id": "e7dffe8a5c0c3663d210d7db80a43c76",
     "data": [
         {
             "id": "3a17aced4e046d7c6d4f2894aba1639b",
@@ -10581,17 +10581,17 @@
             ]
         },
         {
-            "id": "c53cf7298624ce1af471091077966550",
+            "id": "e7dffe8a5c0c3663d210d7db80a43c76",
             "source": "supercluster",
-            "text": "China Will Launch the Long March 8A Rocket",
-            "source_link": "https://www.supercluster.com/launches/long-march-8ay",
+            "text": "NASA and ISRO Will Launch an Earth Observation Satellite",
+            "source_link": "https://www.supercluster.com/launches/nisar",
             "shown": true,
             "type": "launch",
-            "target_datetime": "2025-07-30T07:50:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-07-30T08:49:41.268724Z",
+            "target_datetime": "2025-07-30T12:10:00.000Z",
+            "time_remaining": "0d 03h 18m",
+            "fetched_datetime": "2025-07-30T08:51:35.999139Z",
             "shown_at": [
-                "2025-07-30T08:49:42.260493Z"
+                "2025-07-30T08:51:36.738225Z"
             ]
         }
     ]
