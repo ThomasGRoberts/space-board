@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 14 | 25 | 51 |
+| spacenews | 6 | 13 | 24 | 50 |
 | nyt | 1 | 3 | 20 | 42 |
 | breaking_defense | 0 | 1 | 19 | 41 |
-| supercluster | 1 | 1 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -5096,3 +5096,4 @@
 - **Jul 30, 11:21 AM** - Senate confirms Lohmeier as Air Force No. 2 civilian (breaking_defense)
 - **Jul 30, 11:49 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 30, 12:03 PM** - Lockheed Martin may offer Orion as a commercial service (spacenews)
+- **Jul 30, 01:12 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)

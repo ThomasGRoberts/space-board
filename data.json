@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-30T00:02:00.335354+00:00",
-    "trigger_count": 0,
-    "current_item_id": "e7dffe8a5c0c3663d210d7db80a43c76",
+    "trigger_count": 1,
+    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
     "data": [
         {
             "id": "3a17aced4e046d7c6d4f2894aba1639b",
@@ -10592,15 +10592,18 @@
             ]
         },
         {
-            "id": "e7dffe8a5c0c3663d210d7db80a43c76",
+            "id": "4beba9b243fe616fcb8e7be8d963bbc1",
             "source": "supercluster",
-            "text": "NASA and ISRO Will Launch an Earth Observation Satellite",
-            "source_link": "https://www.supercluster.com/launches/nisar",
-            "shown": false,
+            "text": "SpaceX Will Launch Starlink Satellites from California",
+            "source_link": "https://www.supercluster.com/launches/starlink-13-4",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-07-30T12:10:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-07-30T13:09:10.882230Z"
+            "target_datetime": "2025-07-30T18:39:00.000Z",
+            "time_remaining": "0d 05h 26m",
+            "fetched_datetime": "2025-07-30T13:12:07.197693Z",
+            "shown_at": [
+                "2025-07-30T13:12:08.431882Z"
+            ]
         }
     ]
 }
