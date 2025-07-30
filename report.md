@@ -5,7 +5,7 @@
 | spacenews | 6 | 16 | 24 | 51 |
 | nyt | 0 | 3 | 20 | 40 |
 | breaking_defense | 3 | 3 | 21 | 41 |
-| supercluster | 1 | 1 | 43 | 43 |
+| supercluster | 1 | 1 | 44 | 44 |
 
 # Shown Order
 
@@ -5169,3 +5169,4 @@
 - **Jul 30, 10:29 PM** - Frontgrade Unveils SBC-2A72 with 32GB NAND to Enable High-Performance Edge Computing in Air and Space Platforms (spacenews)
 - **Jul 30, 10:45 PM** - Space Force creates new ‘System Deltas’ to guide missile warning, space-based targeting efforts (breaking_defense)
 - **Jul 30, 10:59 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
+- **Jul 30, 11:02 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
