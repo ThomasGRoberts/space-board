@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 16 | 24 | 52 |
-| nyt | 0 | 3 | 19 | 40 |
+| nyt | 0 | 3 | 20 | 41 |
 | breaking_defense | 1 | 2 | 19 | 40 |
 | supercluster | 2 | 2 | 34 | 34 |
 
@@ -5144,3 +5144,4 @@
 - **Jul 30, 05:33 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Jul 30, 05:35 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Jul 30, 05:37 PM** - Space Pioneer completes launch pad for Tianlong-3 rocket (spacenews)
+- **Jul 30, 05:53 PM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
