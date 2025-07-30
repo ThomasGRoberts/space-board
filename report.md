@@ -5,7 +5,7 @@
 | spacenews | 7 | 15 | 24 | 52 |
 | nyt | 0 | 3 | 19 | 40 |
 | breaking_defense | 1 | 2 | 19 | 40 |
-| supercluster | 1 | 1 | 16 | 16 |
+| supercluster | 1 | 1 | 17 | 17 |
 
 # Shown Order
 
@@ -5129,3 +5129,4 @@
 - **Jul 30, 06:35 PM** - Space – the quiet element behind Midnight Hammer (spacenews)
 - **Jul 30, 06:51 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Jul 30, 06:53 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
+- **Jul 30, 06:55 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
