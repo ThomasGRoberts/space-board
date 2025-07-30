@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 15 | 28 | 52 |
+| spacenews | 10 | 15 | 27 | 52 |
 | nyt | 3 | 3 | 21 | 43 |
 | breaking_defense | 0 | 1 | 20 | 43 |
-| supercluster | 1 | 1 | 4 | 4 |
+| supercluster | 1 | 1 | 5 | 5 |
 
 # Shown Order
 
@@ -5082,3 +5082,4 @@
 - **Jul 30, 05:23 AM** - First Eris launch fails to reach orbit (spacenews)
 - **Jul 30, 05:37 AM** - China Will Launch the Long March 8A Rocket (supercluster)
 - **Jul 30, 05:39 AM** - China Will Launch the Long March 8A Rocket (supercluster)
+- **Jul 30, 05:41 AM** - China Will Launch the Long March 8A Rocket (supercluster)
