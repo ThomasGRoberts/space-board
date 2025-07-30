@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 15 | 28 | 52 |
 | nyt | 2 | 3 | 21 | 43 |
-| breaking_defense | 0 | 1 | 20 | 43 |
+| breaking_defense | 0 | 1 | 21 | 44 |
 | supercluster | 1 | 1 | 23 | 23 |
 
 # Shown Order
@@ -5107,3 +5107,4 @@
 - **Jul 30, 07:41 AM** - China Will Launch the Long March 8A Rocket (supercluster)
 - **Jul 30, 07:43 AM** - China Will Launch the Long March 8A Rocket (supercluster)
 - **Jul 30, 07:45 AM** - China Will Launch the Long March 8A Rocket (supercluster)
+- **Jul 30, 07:47 AM** - Roketsan signs agreement with Indonesia, unveils five missiles and space launch vehicle designs (breaking_defense)
