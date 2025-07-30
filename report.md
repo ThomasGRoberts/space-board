@@ -5,7 +5,7 @@
 | spacenews | 9 | 14 | 26 | 52 |
 | nyt | 3 | 3 | 21 | 44 |
 | supercluster | 1 | 1 | 110 | 110 |
-| breaking_defense | 0 | 1 | 19 | 44 |
+| breaking_defense | 0 | 1 | 20 | 45 |
 
 # Shown Order
 
@@ -5178,3 +5178,4 @@
 - **Jul 30, 01:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 30, 01:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 30, 01:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 30, 01:51 AM** - Space Force eyes ‘novel’ development tools for Golden Dome SBIs (breaking_defense)
