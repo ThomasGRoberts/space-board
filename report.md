@@ -5,7 +5,7 @@
 | spacenews | 6 | 13 | 24 | 50 |
 | nyt | 1 | 3 | 20 | 42 |
 | breaking_defense | 0 | 1 | 19 | 41 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -5098,3 +5098,4 @@
 - **Jul 30, 12:03 PM** - Lockheed Martin may offer Orion as a commercial service (spacenews)
 - **Jul 30, 01:12 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 30, 01:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 30, 01:17 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
