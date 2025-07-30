@@ -5,7 +5,6 @@
 | spacenews | 10 | 15 | 28 | 52 |
 | nyt | 2 | 3 | 21 | 43 |
 | breaking_defense | 0 | 1 | 21 | 43 |
-| supercluster | 1 | 1 | 23 | 23 |
 
 # Shown Order
 
@@ -5074,37 +5073,14 @@
 - **Jul 30, 02:47 AM** - Space Force creates new ‘System Deltas’ to guide missile warning, space-based targeting efforts (breaking_defense)
 - **Jul 30, 03:02 AM** - NASA pauses acquisition of lunar communications ground stations (spacenews)
 - **Jul 30, 03:15 AM** - The First Soda in Space: When NASA Got Caught Up in the Cola Wars (nyt)
-- **Jul 30, 04:37 AM** - China Will Launch the Long March 8A Rocket (supercluster)
-- **Jul 30, 04:39 AM** - China Will Launch the Long March 8A Rocket (supercluster)
 - **Jul 30, 04:41 AM** - Appropriators restore funding for Commerce’s TraCSS spacewatch effort (breaking_defense)
 - **Jul 30, 04:55 AM** - Slingshot unveils AI agent for Space Force training (spacenews)
 - **Jul 30, 05:09 AM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
 - **Jul 30, 05:23 AM** - First Eris launch fails to reach orbit (spacenews)
-- **Jul 30, 05:37 AM** - China Will Launch the Long March 8A Rocket (supercluster)
-- **Jul 30, 05:39 AM** - China Will Launch the Long March 8A Rocket (supercluster)
-- **Jul 30, 05:41 AM** - China Will Launch the Long March 8A Rocket (supercluster)
-- **Jul 30, 05:43 AM** - China Will Launch the Long March 8A Rocket (supercluster)
-- **Jul 30, 05:45 AM** - China Will Launch the Long March 8A Rocket (supercluster)
-- **Jul 30, 05:47 AM** - China Will Launch the Long March 8A Rocket (supercluster)
-- **Jul 30, 05:49 AM** - China Will Launch the Long March 8A Rocket (supercluster)
 - **Jul 30, 05:51 AM** - Space Force eyes ‘novel’ development tools for Golden Dome SBIs (breaking_defense)
 - **Jul 30, 06:05 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 30, 06:19 AM** - Slingshot unveils AI agent for Space Force training (spacenews)
-- **Jul 30, 06:33 AM** - China Will Launch the Long March 8A Rocket (supercluster)
-- **Jul 30, 06:35 AM** - China Will Launch the Long March 8A Rocket (supercluster)
-- **Jul 30, 06:37 AM** - China Will Launch the Long March 8A Rocket (supercluster)
-- **Jul 30, 06:39 AM** - China Will Launch the Long March 8A Rocket (supercluster)
-- **Jul 30, 06:41 AM** - China Will Launch the Long March 8A Rocket (supercluster)
-- **Jul 30, 06:43 AM** - China Will Launch the Long March 8A Rocket (supercluster)
-- **Jul 30, 06:45 AM** - China Will Launch the Long March 8A Rocket (supercluster)
 - **Jul 30, 06:47 AM** - Roketsan signs agreement with Indonesia, unveils five missiles and space launch vehicle designs (breaking_defense)
 - **Jul 30, 07:01 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 30, 07:19 AM** - Frontgrade’s New Radiation-Tolerant, Scalable SpaceStor 4TB MMU Joins MAMBA Modular Space Systems Lineup (spacenews)
-- **Jul 30, 07:33 AM** - China Will Launch the Long March 8A Rocket (supercluster)
-- **Jul 30, 07:35 AM** - China Will Launch the Long March 8A Rocket (supercluster)
-- **Jul 30, 07:37 AM** - China Will Launch the Long March 8A Rocket (supercluster)
-- **Jul 30, 07:39 AM** - China Will Launch the Long March 8A Rocket (supercluster)
-- **Jul 30, 07:41 AM** - China Will Launch the Long March 8A Rocket (supercluster)
-- **Jul 30, 07:43 AM** - China Will Launch the Long March 8A Rocket (supercluster)
-- **Jul 30, 07:45 AM** - China Will Launch the Long March 8A Rocket (supercluster)
 - **Jul 30, 07:47 AM** - Roketsan signs agreement with Indonesia, unveils five missiles and space launch vehicle designs (breaking_defense)
