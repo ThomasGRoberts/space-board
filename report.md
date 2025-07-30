@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 16 | 24 | 51 |
-| nyt | 0 | 3 | 20 | 40 |
+| nyt | 0 | 3 | 21 | 41 |
 | breaking_defense | 3 | 3 | 21 | 41 |
 | supercluster | 1 | 1 | 49 | 49 |
 
@@ -5175,3 +5175,4 @@
 - **Jul 30, 11:07 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Jul 30, 11:09 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Jul 30, 11:11 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
+- **Jul 30, 11:13 PM** - The First Soda in Space: When NASA Got Caught Up in the Cola Wars (nyt)
