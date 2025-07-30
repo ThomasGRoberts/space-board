@@ -5,7 +5,7 @@
 | spacenews | 7 | 15 | 24 | 51 |
 | nyt | 0 | 3 | 18 | 40 |
 | breaking_defense | 2 | 3 | 20 | 41 |
-| supercluster | 1 | 1 | 21 | 21 |
+| supercluster | 1 | 1 | 22 | 22 |
 
 # Shown Order
 
@@ -5138,3 +5138,4 @@
 - **Jul 30, 07:20 PM** - Roketsan signs agreement with Indonesia, unveils five missiles and space launch vehicle designs (breaking_defense)
 - **Jul 30, 07:33 PM** - Space Force makes 5 awards for jam-resistant SATCOM (breaking_defense)
 - **Jul 30, 07:47 PM** - ULA tempers expectations for 2025 launch volume amid transition to Vulcan-centric fleet (spacenews)
+- **Jul 30, 08:02 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
