@@ -5,7 +5,7 @@
 | spacenews | 7 | 15 | 24 | 51 |
 | nyt | 0 | 3 | 18 | 40 |
 | breaking_defense | 2 | 3 | 20 | 41 |
-| supercluster | 1 | 1 | 23 | 23 |
+| supercluster | 1 | 1 | 24 | 24 |
 
 # Shown Order
 
@@ -5140,3 +5140,4 @@
 - **Jul 30, 07:47 PM** - ULA tempers expectations for 2025 launch volume amid transition to Vulcan-centric fleet (spacenews)
 - **Jul 30, 08:02 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Jul 30, 08:03 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
+- **Jul 30, 08:05 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
