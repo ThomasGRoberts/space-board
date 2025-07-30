@@ -5,7 +5,7 @@
 | spacenews | 6 | 16 | 24 | 51 |
 | nyt | 0 | 3 | 20 | 40 |
 | breaking_defense | 3 | 3 | 21 | 41 |
-| supercluster | 1 | 1 | 44 | 44 |
+| supercluster | 1 | 1 | 45 | 45 |
 
 # Shown Order
 
@@ -5170,3 +5170,4 @@
 - **Jul 30, 10:45 PM** - Space Force creates new ‘System Deltas’ to guide missile warning, space-based targeting efforts (breaking_defense)
 - **Jul 30, 10:59 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Jul 30, 11:02 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
+- **Jul 30, 11:03 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
