@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 17 | 23 | 52 |
-| nyt | 1 | 3 | 20 | 41 |
+| spacenews | 7 | 17 | 24 | 53 |
+| nyt | 1 | 3 | 19 | 40 |
 | breaking_defense | 0 | 1 | 19 | 40 |
 | supercluster | 2 | 2 | 27 | 27 |
 
@@ -5132,3 +5132,4 @@
 - **Jul 30, 04:15 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Jul 30, 04:17 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Jul 30, 04:19 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
+- **Jul 30, 04:21 PM** - UK’s Spaceflux is building a catalog to plug space situational awareness gaps (spacenews)
