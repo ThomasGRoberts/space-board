@@ -5,7 +5,7 @@
 | spacenews | 10 | 15 | 28 | 52 |
 | nyt | 2 | 3 | 21 | 43 |
 | breaking_defense | 0 | 1 | 20 | 43 |
-| supercluster | 1 | 1 | 17 | 17 |
+| supercluster | 1 | 1 | 18 | 18 |
 
 # Shown Order
 
@@ -5101,3 +5101,4 @@
 - **Jul 30, 07:01 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 30, 07:19 AM** - Frontgrade’s New Radiation-Tolerant, Scalable SpaceStor 4TB MMU Joins MAMBA Modular Space Systems Lineup (spacenews)
 - **Jul 30, 07:33 AM** - China Will Launch the Long March 8A Rocket (supercluster)
+- **Jul 30, 07:35 AM** - China Will Launch the Long March 8A Rocket (supercluster)
