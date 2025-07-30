@@ -5,7 +5,6 @@
 | spacenews | 8 | 14 | 26 | 52 |
 | nyt | 1 | 3 | 21 | 43 |
 | breaking_defense | 0 | 1 | 20 | 42 |
-| supercluster | 1 | 1 | 25 | 25 |
 
 # Shown Order
 
@@ -5085,39 +5084,14 @@
 - **Jul 30, 07:01 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 30, 07:19 AM** - Frontgrade’s New Radiation-Tolerant, Scalable SpaceStor 4TB MMU Joins MAMBA Modular Space Systems Lineup (spacenews)
 - **Jul 30, 07:47 AM** - Roketsan signs agreement with Indonesia, unveils five missiles and space launch vehicle designs (breaking_defense)
-- **Jul 30, 08:51 AM** - NASA and ISRO Will Launch an Earth Observation Satellite (supercluster)
-- **Jul 30, 08:53 AM** - NASA and ISRO Will Launch an Earth Observation Satellite (supercluster)
-- **Jul 30, 08:55 AM** - NASA and ISRO Will Launch an Earth Observation Satellite (supercluster)
-- **Jul 30, 08:57 AM** - NASA and ISRO Will Launch an Earth Observation Satellite (supercluster)
 - **Jul 30, 08:59 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 30, 09:15 AM** - Space Force selects five firms for ‘Protected Tactical Satcom’ design contracts (spacenews)
 - **Jul 30, 09:29 AM** - Appropriators restore funding for Commerce’s TraCSS spacewatch effort (breaking_defense)
-- **Jul 30, 09:43 AM** - NASA and ISRO Will Launch an Earth Observation Satellite (supercluster)
-- **Jul 30, 09:45 AM** - NASA and ISRO Will Launch an Earth Observation Satellite (supercluster)
-- **Jul 30, 09:47 AM** - NASA and ISRO Will Launch an Earth Observation Satellite (supercluster)
-- **Jul 30, 09:49 AM** - NASA and ISRO Will Launch an Earth Observation Satellite (supercluster)
-- **Jul 30, 09:51 AM** - NASA and ISRO Will Launch an Earth Observation Satellite (supercluster)
-- **Jul 30, 09:53 AM** - NASA and ISRO Will Launch an Earth Observation Satellite (supercluster)
-- **Jul 30, 09:55 AM** - NASA and ISRO Will Launch an Earth Observation Satellite (supercluster)
 - **Jul 30, 09:57 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 30, 10:11 AM** - Why America needs to invest in Vandenberg’s launch cadence (spacenews)
 - **Jul 30, 10:25 AM** - Roketsan signs agreement with Indonesia, unveils five missiles and space launch vehicle designs (breaking_defense)
-- **Jul 30, 10:39 AM** - NASA and ISRO Will Launch an Earth Observation Satellite (supercluster)
-- **Jul 30, 10:41 AM** - NASA and ISRO Will Launch an Earth Observation Satellite (supercluster)
-- **Jul 30, 10:43 AM** - NASA and ISRO Will Launch an Earth Observation Satellite (supercluster)
-- **Jul 30, 10:45 AM** - NASA and ISRO Will Launch an Earth Observation Satellite (supercluster)
-- **Jul 30, 10:47 AM** - NASA and ISRO Will Launch an Earth Observation Satellite (supercluster)
-- **Jul 30, 10:49 AM** - NASA and ISRO Will Launch an Earth Observation Satellite (supercluster)
-- **Jul 30, 10:51 AM** - NASA and ISRO Will Launch an Earth Observation Satellite (supercluster)
 - **Jul 30, 10:53 AM** - The First Soda in Space: When NASA Got Caught Up in the Cola Wars (nyt)
 - **Jul 30, 11:07 AM** - NASA pauses acquisition of lunar communications ground stations (spacenews)
 - **Jul 30, 11:21 AM** - Senate confirms Lohmeier as Air Force No. 2 civilian (breaking_defense)
-- **Jul 30, 11:35 AM** - NASA and ISRO Will Launch an Earth Observation Satellite (supercluster)
-- **Jul 30, 11:37 AM** - NASA and ISRO Will Launch an Earth Observation Satellite (supercluster)
-- **Jul 30, 11:39 AM** - NASA and ISRO Will Launch an Earth Observation Satellite (supercluster)
-- **Jul 30, 11:41 AM** - NASA and ISRO Will Launch an Earth Observation Satellite (supercluster)
-- **Jul 30, 11:43 AM** - NASA and ISRO Will Launch an Earth Observation Satellite (supercluster)
-- **Jul 30, 11:45 AM** - NASA and ISRO Will Launch an Earth Observation Satellite (supercluster)
-- **Jul 30, 11:47 AM** - NASA and ISRO Will Launch an Earth Observation Satellite (supercluster)
 - **Jul 30, 11:49 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 30, 12:03 PM** - Lockheed Martin may offer Orion as a commercial service (spacenews)
