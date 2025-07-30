@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 15 | 26 | 51 |
-| nyt | 1 | 3 | 20 | 42 |
+| spacenews | 9 | 15 | 25 | 51 |
+| nyt | 1 | 3 | 21 | 43 |
 | breaking_defense | 0 | 1 | 20 | 42 |
 | supercluster | 1 | 1 | 11 | 11 |
 
@@ -5099,3 +5099,4 @@
 - **Jul 30, 09:51 AM** - NASA and ISRO Will Launch an Earth Observation Satellite (supercluster)
 - **Jul 30, 09:53 AM** - NASA and ISRO Will Launch an Earth Observation Satellite (supercluster)
 - **Jul 30, 09:55 AM** - NASA and ISRO Will Launch an Earth Observation Satellite (supercluster)
+- **Jul 30, 09:57 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
