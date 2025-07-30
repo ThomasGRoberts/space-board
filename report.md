@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 16 | 24 | 52 |
 | nyt | 0 | 3 | 19 | 41 |
-| breaking_defense | 3 | 3 | 20 | 40 |
+| breaking_defense | 3 | 3 | 21 | 41 |
 | supercluster | 1 | 1 | 35 | 35 |
 
 # Shown Order
@@ -5157,3 +5157,4 @@
 - **Jul 30, 09:11 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Jul 30, 09:13 PM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
 - **Jul 30, 09:29 PM** - China launches new group of Guowang satellites from commercial spaceport (spacenews)
+- **Jul 30, 09:43 PM** - Next X-37B mission to carry quantum sensor, laser link experiments (breaking_defense)
