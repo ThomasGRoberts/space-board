@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 15 | 25 | 51 |
-| nyt | 0 | 3 | 20 | 41 |
-| breaking_defense | 3 | 3 | 22 | 41 |
-| supercluster | 1 | 1 | 49 | 49 |
+| nyt | 0 | 3 | 20 | 40 |
+| breaking_defense | 3 | 3 | 21 | 41 |
+| supercluster | 1 | 1 | 50 | 50 |
 
 # Shown Order
 
@@ -5178,3 +5178,4 @@
 - **Jul 30, 11:13 PM** - The First Soda in Space: When NASA Got Caught Up in the Cola Wars (nyt)
 - **Jul 30, 11:27 PM** - Firefly Aerospace wins fourth lunar lander award (spacenews)
 - **Jul 30, 11:41 PM** - Space Force creates new ‘System Deltas’ to guide missile warning, space-based targeting efforts (breaking_defense)
+- **Jul 30, 11:57 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
