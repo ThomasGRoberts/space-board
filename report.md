@@ -5,7 +5,7 @@
 | spacenews | 7 | 17 | 23 | 52 |
 | nyt | 0 | 3 | 19 | 40 |
 | breaking_defense | 1 | 2 | 20 | 41 |
-| supercluster | 2 | 2 | 27 | 27 |
+| supercluster | 2 | 2 | 28 | 28 |
 
 # Shown Order
 
@@ -5136,3 +5136,4 @@
 - **Jul 30, 04:37 PM** - Space Force eyes ‘novel’ development tools for Golden Dome SBIs (breaking_defense)
 - **Jul 30, 04:53 PM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
 - **Jul 30, 05:09 PM** - It’s more than fuel: Why the Space Force needs in-space servicing, assembly, and manufacturing (breaking_defense)
+- **Jul 30, 05:23 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
