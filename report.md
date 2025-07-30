@@ -5,7 +5,7 @@
 | spacenews | 10 | 15 | 28 | 52 |
 | nyt | 3 | 3 | 21 | 43 |
 | breaking_defense | 0 | 1 | 20 | 43 |
-| supercluster | 1 | 1 | 3 | 3 |
+| supercluster | 1 | 1 | 4 | 4 |
 
 # Shown Order
 
@@ -5081,3 +5081,4 @@
 - **Jul 30, 05:09 AM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
 - **Jul 30, 05:23 AM** - First Eris launch fails to reach orbit (spacenews)
 - **Jul 30, 05:37 AM** - China Will Launch the Long March 8A Rocket (supercluster)
+- **Jul 30, 05:39 AM** - China Will Launch the Long March 8A Rocket (supercluster)
