@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 15 | 23 | 51 |
+| spacenews | 7 | 15 | 24 | 52 |
 | nyt | 0 | 3 | 19 | 40 |
 | breaking_defense | 2 | 3 | 20 | 41 |
 | supercluster | 1 | 1 | 21 | 21 |
@@ -5137,3 +5137,4 @@
 - **Jul 30, 07:05 PM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
 - **Jul 30, 07:20 PM** - Roketsan signs agreement with Indonesia, unveils five missiles and space launch vehicle designs (breaking_defense)
 - **Jul 30, 07:33 PM** - Space Force makes 5 awards for jam-resistant SATCOM (breaking_defense)
+- **Jul 30, 07:47 PM** - ULA tempers expectations for 2025 launch volume amid transition to Vulcan-centric fleet (spacenews)
