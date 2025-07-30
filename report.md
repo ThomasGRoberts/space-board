@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 15 | 26 | 51 |
 | nyt | 2 | 3 | 20 | 42 |
-| breaking_defense | 0 | 1 | 20 | 43 |
+| breaking_defense | 0 | 1 | 20 | 42 |
 | supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
@@ -5085,4 +5085,4 @@
 - **Jul 30, 07:01 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 30, 07:19 AM** - Frontgrade’s New Radiation-Tolerant, Scalable SpaceStor 4TB MMU Joins MAMBA Modular Space Systems Lineup (spacenews)
 - **Jul 30, 07:47 AM** - Roketsan signs agreement with Indonesia, unveils five missiles and space launch vehicle designs (breaking_defense)
-- **Jul 30, 08:45 AM** - China Will Launch the Long March 8A Rocket (supercluster)
+- **Jul 30, 08:47 AM** - China Will Launch the Long March 8A Rocket (supercluster)
