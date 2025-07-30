@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 24 | 52 |
 | nyt | 0 | 3 | 19 | 41 |
-| breaking_defense | 0 | 1 | 19 | 40 |
+| breaking_defense | 1 | 2 | 20 | 41 |
 | supercluster | 2 | 2 | 27 | 27 |
 
 # Shown Order
@@ -5135,3 +5135,4 @@
 - **Jul 30, 04:21 PM** - UK’s Spaceflux is building a catalog to plug space situational awareness gaps (spacenews)
 - **Jul 30, 04:37 PM** - Space Force eyes ‘novel’ development tools for Golden Dome SBIs (breaking_defense)
 - **Jul 30, 04:53 PM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
+- **Jul 30, 05:09 PM** - It’s more than fuel: Why the Space Force needs in-space servicing, assembly, and manufacturing (breaking_defense)

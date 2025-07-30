@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-30T00:02:00.335354+00:00",
-    "trigger_count": 6,
-    "current_item_id": "21ad848fa658c4426fee17ef9efa6d1b",
+    "trigger_count": 0,
+    "current_item_id": "5bf13099ddabb8ee20efb75d961a2c93",
     "data": [
         {
             "id": "3a17aced4e046d7c6d4f2894aba1639b",
@@ -10698,6 +10698,18 @@
                 "2025-07-30T16:15:25.314359Z",
                 "2025-07-30T16:17:43.102067Z",
                 "2025-07-30T16:19:37.961487Z"
+            ]
+        },
+        {
+            "id": "5bf13099ddabb8ee20efb75d961a2c93",
+            "source": "breaking_defense",
+            "text": "It’s more than fuel: Why the Space Force needs in-space servicing, assembly, and manufacturing",
+            "source_link": "https://breakingdefense.com/2025/07/its-more-than-fuel-why-the-space-force-needs-in-space-servicing-assembly-and-manufacturing/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-30T17:09:36.351555Z",
+            "shown_at": [
+                "2025-07-30T17:09:37.054964Z"
             ]
         }
     ]
