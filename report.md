@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 24 | 53 |
 | nyt | 1 | 3 | 20 | 40 |
-| breaking_defense | 0 | 1 | 19 | 40 |
+| breaking_defense | 0 | 1 | 20 | 41 |
 | supercluster | 1 | 1 | 13 | 13 |
 
 # Shown Order
@@ -5116,3 +5116,4 @@
 - **Jul 30, 03:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 30, 03:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 30, 03:09 PM** - Sleepwalking into risk: managing traffic above 60,000 feet (spacenews)
+- **Jul 30, 03:23 PM** - Space Force eyes ‘novel’ development tools for Golden Dome space-based interceptors (breaking_defense)
