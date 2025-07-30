@@ -5,7 +5,7 @@
 | spacenews | 9 | 15 | 26 | 51 |
 | nyt | 1 | 3 | 20 | 42 |
 | breaking_defense | 0 | 1 | 20 | 43 |
-| supercluster | 1 | 1 | 11 | 11 |
+| supercluster | 1 | 1 | 12 | 12 |
 
 # Shown Order
 
@@ -5102,3 +5102,4 @@
 - **Jul 30, 09:57 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 30, 10:11 AM** - Why America needs to invest in Vandenberg’s launch cadence (spacenews)
 - **Jul 30, 10:25 AM** - Roketsan signs agreement with Indonesia, unveils five missiles and space launch vehicle designs (breaking_defense)
+- **Jul 30, 10:39 AM** - NASA and ISRO Will Launch an Earth Observation Satellite (supercluster)
