@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 14 | 26 | 53 |
+| spacenews | 9 | 14 | 26 | 52 |
 | nyt | 3 | 3 | 21 | 44 |
 | breaking_defense | 0 | 1 | 19 | 44 |
 | supercluster | 1 | 1 | 1 | 1 |
@@ -5074,4 +5074,4 @@
 - **Jul 30, 02:47 AM** - Space Force creates new ‘System Deltas’ to guide missile warning, space-based targeting efforts (breaking_defense)
 - **Jul 30, 03:02 AM** - NASA pauses acquisition of lunar communications ground stations (spacenews)
 - **Jul 30, 03:15 AM** - The First Soda in Space: When NASA Got Caught Up in the Cola Wars (nyt)
-- **Jul 30, 03:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 30, 03:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
