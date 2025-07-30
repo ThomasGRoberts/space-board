@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 14 | 26 | 53 |
-| nyt | 3 | 3 | 20 | 44 |
+| nyt | 3 | 3 | 21 | 45 |
 | supercluster | 1 | 1 | 103 | 103 |
 | breaking_defense | 0 | 1 | 20 | 44 |
 
@@ -5170,3 +5170,4 @@
 - **Jul 30, 12:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 30, 12:53 AM** - Appropriators restore funding for Commerce’s TraCSS spacewatch effort (breaking_defense)
 - **Jul 30, 01:07 AM** - Slingshot unveils AI agent for Space Force training (spacenews)
+- **Jul 30, 01:23 AM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
