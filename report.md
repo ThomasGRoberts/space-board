@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 14 | 26 | 51 |
 | nyt | 1 | 3 | 20 | 43 |
-| breaking_defense | 0 | 1 | 20 | 42 |
+| breaking_defense | 0 | 1 | 21 | 43 |
 | supercluster | 1 | 1 | 18 | 18 |
 
 # Shown Order
@@ -5111,3 +5111,4 @@
 - **Jul 30, 10:51 AM** - NASA and ISRO Will Launch an Earth Observation Satellite (supercluster)
 - **Jul 30, 10:53 AM** - The First Soda in Space: When NASA Got Caught Up in the Cola Wars (nyt)
 - **Jul 30, 11:07 AM** - NASA pauses acquisition of lunar communications ground stations (spacenews)
+- **Jul 30, 11:21 AM** - Senate confirms Lohmeier as Air Force No. 2 civilian (breaking_defense)
