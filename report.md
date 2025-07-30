@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 17 | 26 | 53 |
 | nyt | 1 | 3 | 19 | 40 |
-| breaking_defense | 0 | 1 | 18 | 40 |
+| breaking_defense | 0 | 1 | 19 | 41 |
 | supercluster | 1 | 1 | 6 | 6 |
 
 # Shown Order
@@ -5106,3 +5106,4 @@
 - **Jul 30, 01:40 PM** - Space – the quiet element behind Midnight Hammer (spacenews)
 - **Jul 30, 01:55 PM** - GSLV launches NASA-ISRO radar satellite (spacenews)
 - **Jul 30, 02:11 PM** - KSAT and AWS expand alliance in satellite communications (spacenews)
+- **Jul 30, 02:25 PM** - Appropriators restore funding for Commerce’s TraCSS spacewatch effort (breaking_defense)
