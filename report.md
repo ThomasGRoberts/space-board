@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 14 | 26 | 52 |
+| spacenews | 9 | 14 | 26 | 53 |
 | nyt | 3 | 3 | 20 | 44 |
 | supercluster | 1 | 1 | 96 | 96 |
 | breaking_defense | 0 | 1 | 20 | 44 |
@@ -5159,3 +5159,4 @@
 - **Jul 29, 11:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 29, 11:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Jul 29, 11:57 PM** - Appropriators restore funding for Commerce’s TraCSS spacewatch effort (breaking_defense)
+- **Jul 30, 12:11 AM** - SpaceX launch brings SES closer to completing MEO broadband upgrade by 2027 (spacenews)
