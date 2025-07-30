@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 15 | 27 | 52 |
-| nyt | 3 | 3 | 21 | 43 |
+| nyt | 3 | 3 | 22 | 44 |
 | breaking_defense | 0 | 1 | 20 | 43 |
 | supercluster | 1 | 1 | 9 | 9 |
 
@@ -5088,3 +5088,4 @@
 - **Jul 30, 05:47 AM** - China Will Launch the Long March 8A Rocket (supercluster)
 - **Jul 30, 05:49 AM** - China Will Launch the Long March 8A Rocket (supercluster)
 - **Jul 30, 05:51 AM** - Space Force eyes ‘novel’ development tools for Golden Dome SBIs (breaking_defense)
+- **Jul 30, 06:05 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
