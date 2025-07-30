@@ -5,7 +5,7 @@
 | spacenews | 7 | 15 | 23 | 51 |
 | nyt | 0 | 3 | 19 | 41 |
 | breaking_defense | 1 | 2 | 20 | 41 |
-| supercluster | 2 | 2 | 35 | 35 |
+| supercluster | 2 | 2 | 36 | 36 |
 
 # Shown Order
 
@@ -5147,3 +5147,4 @@
 - **Jul 30, 05:53 PM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
 - **Jul 30, 06:07 PM** - Space Force creates new ‘System Deltas’ to guide missile warning, space-based targeting efforts (breaking_defense)
 - **Jul 30, 06:21 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 30, 06:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
