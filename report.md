@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 15 | 26 | 52 |
 | nyt | 1 | 3 | 20 | 42 |
-| breaking_defense | 0 | 1 | 20 | 42 |
+| breaking_defense | 0 | 1 | 21 | 43 |
 | supercluster | 1 | 1 | 4 | 4 |
 
 # Shown Order
@@ -5091,3 +5091,4 @@
 - **Jul 30, 08:57 AM** - NASA and ISRO Will Launch an Earth Observation Satellite (supercluster)
 - **Jul 30, 08:59 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 30, 09:15 AM** - Space Force selects five firms for ‘Protected Tactical Satcom’ design contracts (spacenews)
+- **Jul 30, 09:29 AM** - Appropriators restore funding for Commerce’s TraCSS spacewatch effort (breaking_defense)
