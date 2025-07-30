@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 14 | 26 | 53 |
 | nyt | 3 | 3 | 21 | 44 |
-| supercluster | 1 | 1 | 96 | 96 |
+| supercluster | 1 | 1 | 97 | 97 |
 | breaking_defense | 0 | 1 | 19 | 44 |
 
 # Shown Order
@@ -5161,3 +5161,4 @@
 - **Jul 29, 11:57 PM** - Appropriators restore funding for Commerce’s TraCSS spacewatch effort (breaking_defense)
 - **Jul 30, 12:11 AM** - SpaceX launch brings SES closer to completing MEO broadband upgrade by 2027 (spacenews)
 - **Jul 30, 12:25 AM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
+- **Jul 30, 12:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
