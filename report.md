@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 15 | 23 | 51 |
+| spacenews | 7 | 15 | 24 | 52 |
 | nyt | 0 | 3 | 19 | 40 |
 | breaking_defense | 1 | 2 | 20 | 41 |
 | supercluster | 2 | 2 | 41 | 41 |
@@ -5153,3 +5153,4 @@
 - **Jul 30, 06:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 30, 06:31 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 30, 06:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 30, 06:35 PM** - Space – the quiet element behind Midnight Hammer (spacenews)
