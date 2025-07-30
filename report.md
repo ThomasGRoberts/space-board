@@ -5,7 +5,7 @@
 | spacenews | 9 | 14 | 26 | 53 |
 | nyt | 3 | 3 | 21 | 44 |
 | breaking_defense | 0 | 1 | 19 | 44 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -5075,3 +5075,4 @@
 - **Jul 30, 03:02 AM** - NASA pauses acquisition of lunar communications ground stations (spacenews)
 - **Jul 30, 03:15 AM** - The First Soda in Space: When NASA Got Caught Up in the Cola Wars (nyt)
 - **Jul 30, 03:31 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Jul 30, 03:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
