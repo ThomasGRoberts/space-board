@@ -5,7 +5,7 @@
 | spacenews | 9 | 15 | 26 | 51 |
 | nyt | 2 | 3 | 20 | 42 |
 | breaking_defense | 0 | 1 | 20 | 42 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -5086,3 +5086,4 @@
 - **Jul 30, 07:19 AM** - Frontgrade’s New Radiation-Tolerant, Scalable SpaceStor 4TB MMU Joins MAMBA Modular Space Systems Lineup (spacenews)
 - **Jul 30, 07:47 AM** - Roketsan signs agreement with Indonesia, unveils five missiles and space launch vehicle designs (breaking_defense)
 - **Jul 30, 08:51 AM** - NASA and ISRO Will Launch an Earth Observation Satellite (supercluster)
+- **Jul 30, 08:53 AM** - NASA and ISRO Will Launch an Earth Observation Satellite (supercluster)
