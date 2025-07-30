@@ -5,7 +5,7 @@
 | spacenews | 7 | 15 | 24 | 52 |
 | nyt | 0 | 3 | 19 | 40 |
 | breaking_defense | 1 | 2 | 20 | 41 |
-| supercluster | 2 | 2 | 41 | 41 |
+| supercluster | 1 | 1 | 14 | 14 |
 
 # Shown Order
 
@@ -5096,35 +5096,15 @@
 - **Jul 30, 11:21 AM** - Senate confirms Lohmeier as Air Force No. 2 civilian (breaking_defense)
 - **Jul 30, 11:49 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 30, 12:03 PM** - Lockheed Martin may offer Orion as a commercial service (spacenews)
-- **Jul 30, 01:12 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 30, 01:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 30, 01:17 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 30, 01:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 30, 01:21 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 30, 01:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 30, 01:25 PM** - China launches new group of Guowang satellites from commercial spaceport (spacenews)
 - **Jul 30, 01:40 PM** - Space – the quiet element behind Midnight Hammer (spacenews)
 - **Jul 30, 01:55 PM** - GSLV launches NASA-ISRO radar satellite (spacenews)
 - **Jul 30, 02:11 PM** - KSAT and AWS expand alliance in satellite communications (spacenews)
 - **Jul 30, 02:25 PM** - Appropriators restore funding for Commerce’s TraCSS spacewatch effort (breaking_defense)
 - **Jul 30, 02:39 PM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
-- **Jul 30, 02:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 30, 02:56 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 30, 02:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 30, 03:01 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 30, 03:03 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 30, 03:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 30, 03:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 30, 03:09 PM** - Sleepwalking into risk: managing traffic above 60,000 feet (spacenews)
 - **Jul 30, 03:23 PM** - Space Force eyes ‘novel’ development tools for Golden Dome space-based interceptors (breaking_defense)
 - **Jul 30, 03:37 PM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
-- **Jul 30, 03:51 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 30, 03:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 30, 03:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 30, 03:58 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 30, 04:01 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 30, 04:03 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 30, 04:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 30, 04:07 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Jul 30, 04:09 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Jul 30, 04:11 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
@@ -5146,11 +5126,4 @@
 - **Jul 30, 05:37 PM** - Space Pioneer completes launch pad for Tianlong-3 rocket (spacenews)
 - **Jul 30, 05:53 PM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
 - **Jul 30, 06:07 PM** - Space Force creates new ‘System Deltas’ to guide missile warning, space-based targeting efforts (breaking_defense)
-- **Jul 30, 06:21 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 30, 06:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 30, 06:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 30, 06:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 30, 06:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 30, 06:31 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 30, 06:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 30, 06:35 PM** - Space – the quiet element behind Midnight Hammer (spacenews)
