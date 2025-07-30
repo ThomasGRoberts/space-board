@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 15 | 26 | 51 |
 | nyt | 1 | 3 | 20 | 42 |
-| breaking_defense | 0 | 1 | 20 | 43 |
-| supercluster | 1 | 1 | 6 | 6 |
+| breaking_defense | 0 | 1 | 20 | 42 |
+| supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
 
@@ -5094,3 +5094,4 @@
 - **Jul 30, 09:29 AM** - Appropriators restore funding for Commerce’s TraCSS spacewatch effort (breaking_defense)
 - **Jul 30, 09:43 AM** - NASA and ISRO Will Launch an Earth Observation Satellite (supercluster)
 - **Jul 30, 09:45 AM** - NASA and ISRO Will Launch an Earth Observation Satellite (supercluster)
+- **Jul 30, 09:47 AM** - NASA and ISRO Will Launch an Earth Observation Satellite (supercluster)
