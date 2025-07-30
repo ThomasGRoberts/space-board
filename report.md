@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 15 | 23 | 51 |
 | nyt | 0 | 3 | 19 | 40 |
-| breaking_defense | 1 | 2 | 20 | 41 |
+| breaking_defense | 2 | 3 | 21 | 42 |
 | supercluster | 1 | 1 | 21 | 21 |
 
 # Shown Order
@@ -5136,3 +5136,4 @@
 - **Jul 30, 07:03 PM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Jul 30, 07:05 PM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
 - **Jul 30, 07:20 PM** - Roketsan signs agreement with Indonesia, unveils five missiles and space launch vehicle designs (breaking_defense)
+- **Jul 30, 07:33 PM** - Space Force makes 5 awards for jam-resistant SATCOM (breaking_defense)
