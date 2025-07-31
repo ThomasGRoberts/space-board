@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-31T00:01:54.124362+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7abd243b67c1bab08567db6a5b12620a",
+    "trigger_count": 0,
+    "current_item_id": "c5a8096acaf97aa5410b23f295e7ac2c",
     "data": [
         {
             "id": "7191aa00a7408b35479e86d82685d40e",
@@ -10540,17 +10540,17 @@
             ]
         },
         {
-            "id": "7abd243b67c1bab08567db6a5b12620a",
+            "id": "c5a8096acaf97aa5410b23f295e7ac2c",
             "source": "supercluster",
-            "text": "China Will Launch the Kuaizhou 1A Rocket",
-            "source_link": "https://www.supercluster.com/launches/kuaizhou-1ayg",
+            "text": "SpaceX Will Launch an International Crew to the ISS",
+            "source_link": "https://www.supercluster.com/launches/spacex-crew-11",
             "shown": true,
             "type": "launch",
-            "target_datetime": "2025-07-31T02:00:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-07-31T02:59:45.937332Z",
+            "target_datetime": "2025-07-31T16:09:00.000Z",
+            "time_remaining": "0d 13h 06m",
+            "fetched_datetime": "2025-07-31T03:02:01.710557Z",
             "shown_at": [
-                "2025-07-31T02:59:47.732816Z"
+                "2025-07-31T03:02:03.170275Z"
             ]
         }
     ]
