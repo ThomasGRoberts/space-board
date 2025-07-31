@@ -5,7 +5,7 @@
 | breaking_defense | 3 | 3 | 11 | 30 |
 | spacenews | 2 | 9 | 11 | 34 |
 | nyt | 0 | 1 | 9 | 29 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -5045,3 +5045,4 @@
 - **Jul 31, 01:35 AM** - Space Force makes 5 awards for jam-resistant SATCOM (breaking_defense)
 - **Jul 31, 01:49 AM** - U.S. military X-37B spaceplane prepares for eighth mission  (spacenews)
 - **Jul 31, 04:17 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 31, 04:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
