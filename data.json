@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-31T00:01:54.124362+00:00",
-    "trigger_count": 6,
-    "current_item_id": "daad762d2a8251d716a73a80ce234f7f",
+    "trigger_count": 0,
+    "current_item_id": "3ee44b35e67a1b3e29796dec087cc1ff",
     "data": [
         {
             "id": "7191aa00a7408b35479e86d82685d40e",
@@ -10575,9 +10575,12 @@
             "source": "spacenews",
             "text": "Moog Presents Space Computing Advancements to Enable Next-Generation Missions at Small Satellite Conference",
             "source_link": "https://spacenews.com/moog-presents-space-computing-advancements-to-enable-next-generation-missions-at-small-satellite-conference/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-07-31T16:29:31.868505Z"
+            "fetched_datetime": "2025-07-31T16:29:31.868505Z",
+            "shown_at": [
+                "2025-07-31T16:43:46.014169Z"
+            ]
         },
         {
             "id": "8402441cfff7e19e38e7be29ff9ead51",
