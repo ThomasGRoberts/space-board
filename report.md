@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 3 | 9 | 29 |
 | spacenews | 6 | 13 | 13 | 37 |
 | nyt | 0 | 0 | 9 | 28 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 0 | 0 |
 
 # Shown Order
 
@@ -5052,4 +5052,3 @@
 - **Jul 31, 05:39 PM** - Senate confirms Lohmeier as Air Force No. 2 civilian (breaking_defense)
 - **Jul 31, 06:07 PM** - Canada awards study contracts for lunar utility rover (spacenews)
 - **Jul 31, 06:22 PM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
-- **Jul 31, 06:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
