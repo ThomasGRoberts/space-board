@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-31T00:01:54.124362+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3e9f0b15dfd8c544da7a225c435f99b6",
+    "trigger_count": 0,
+    "current_item_id": "e8fe5fb12735878e43b44bc5641d8de9",
     "data": [
         {
             "id": "7191aa00a7408b35479e86d82685d40e",
@@ -10591,6 +10591,18 @@
             "shown_at": [
                 "2025-05-19T11:51:41.368621Z",
                 "2025-05-23T06:13:41.953506Z"
+            ]
+        },
+        {
+            "id": "e8fe5fb12735878e43b44bc5641d8de9",
+            "source": "spacenews",
+            "text": "Senate Commerce Committee advances Jacobs nomination for NOAA administrator",
+            "source_link": "https://spacenews.com/senate-commerce-committee-advances-jacobs-nomination-for-noaa-administrator/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-31T00:53:18.033185Z",
+            "shown_at": [
+                "2025-07-31T00:53:18.625303Z"
             ]
         }
     ]
