@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 9 | 29 |
 | spacenews | 6 | 13 | 14 | 37 |
-| nyt | 0 | 0 | 8 | 27 |
+| nyt | 0 | 0 | 9 | 28 |
 | supercluster | 1 | 1 | 13 | 13 |
 
 # Shown Order
@@ -5064,3 +5064,4 @@
 - **Jul 31, 06:03 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 31, 06:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 31, 06:07 PM** - Canada awards study contracts for lunar utility rover (spacenews)
+- **Jul 31, 06:22 PM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
