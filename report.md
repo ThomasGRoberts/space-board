@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 3 | 19 | 39 |
-| spacenews | 7 | 16 | 23 | 50 |
-| nyt | 0 | 3 | 17 | 39 |
+| spacenews | 6 | 16 | 22 | 50 |
+| nyt | 0 | 3 | 17 | 38 |
 | supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
@@ -5044,4 +5044,4 @@
 - **Jul 31, 01:21 AM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
 - **Jul 31, 01:35 AM** - Space Force makes 5 awards for jam-resistant SATCOM (breaking_defense)
 - **Jul 31, 01:49 AM** - U.S. military X-37B spaceplane prepares for eighth mission  (spacenews)
-- **Jul 31, 05:21 AM** - SpaceX Will Launch an International Crew to the ISS (supercluster)
+- **Jul 31, 05:23 AM** - SpaceX Will Launch an International Crew to the ISS (supercluster)
