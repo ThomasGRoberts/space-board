@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 10 | 29 |
-| spacenews | 6 | 13 | 13 | 37 |
+| spacenews | 6 | 13 | 14 | 38 |
 | nyt | 0 | 0 | 8 | 27 |
 | supercluster | 1 | 1 | 13 | 13 |
 
@@ -5063,3 +5063,4 @@
 - **Jul 31, 06:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 31, 06:03 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 31, 06:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 31, 06:07 PM** - Canada awards study contracts for lunar utility rover (spacenews)
