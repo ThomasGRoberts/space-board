@@ -1,9 +1,184 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-07-30T00:02:00.335354+00:00",
-    "trigger_count": 1,
+    "last_run_datetime": "2025-07-31T00:01:54.124362+00:00",
+    "trigger_count": 2,
     "current_item_id": "7abd243b67c1bab08567db6a5b12620a",
     "data": [
+        {
+            "id": "7191aa00a7408b35479e86d82685d40e",
+            "source": "breaking_defense",
+            "text": "Here’s the role that space-based interceptors will play in Golden Dome",
+            "source_link": "https://breakingdefense.com/2025/07/heres-the-role-that-space-based-interceptors-will-play-in-golden-dome/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-30T20:43:30.486695Z",
+            "shown_at": [
+                "2025-07-30T20:43:31.166675Z"
+            ]
+        },
+        {
+            "id": "36cc0e77dac0cb18a500224d304dbfad",
+            "source": "spacenews",
+            "text": "NASA acting administrator to meet with head of Roscosmos at KSC",
+            "source_link": "https://spacenews.com/nasa-acting-administrator-to-meet-with-head-of-roscosmos-at-ksc/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-30T20:29:06.849484Z",
+            "shown_at": [
+                "2025-07-30T20:29:07.807682Z"
+            ]
+        },
+        {
+            "id": "e1d33eab8e36fe729986a3a4b7f16a5d",
+            "source": "breaking_defense",
+            "text": "Space Force makes 5 awards for jam-resistant SATCOM",
+            "source_link": "https://breakingdefense.com/2025/07/space-force-makes-5-awards-for-jam-resistant-satcom/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-30T19:33:41.335124Z",
+            "shown_at": [
+                "2025-07-30T19:33:42.344789Z"
+            ]
+        },
+        {
+            "id": "5bf13099ddabb8ee20efb75d961a2c93",
+            "source": "breaking_defense",
+            "text": "It’s more than fuel: Why the Space Force needs in-space servicing, assembly, and manufacturing",
+            "source_link": "https://breakingdefense.com/2025/07/its-more-than-fuel-why-the-space-force-needs-in-space-servicing-assembly-and-manufacturing/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-30T17:09:36.351555Z",
+            "shown_at": [
+                "2025-07-30T17:09:37.054964Z"
+            ]
+        },
+        {
+            "id": "7abd243b67c1bab08567db6a5b12620a",
+            "source": "supercluster",
+            "text": "China Will Launch the Kuaizhou 1A Rocket",
+            "source_link": "https://www.supercluster.com/launches/kuaizhou-1ayg",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-07-31T02:00:00.000Z",
+            "time_remaining": "0d 01h 58m",
+            "fetched_datetime": "2025-07-30T16:07:47.741433Z",
+            "shown_at": [
+                "2025-07-30T16:07:48.212070Z",
+                "2025-07-30T16:09:36.822799Z",
+                "2025-07-30T16:11:49.304076Z",
+                "2025-07-30T16:13:55.305920Z",
+                "2025-07-30T16:15:25.314359Z",
+                "2025-07-30T16:17:43.102067Z",
+                "2025-07-30T16:19:37.961487Z",
+                "2025-07-30T17:23:36.580158Z",
+                "2025-07-30T17:25:42.429852Z",
+                "2025-07-30T17:27:43.219745Z",
+                "2025-07-30T17:29:33.910856Z",
+                "2025-07-30T17:31:50.581751Z",
+                "2025-07-30T17:33:45.808238Z",
+                "2025-07-30T17:35:04.220882Z",
+                "2025-07-30T18:51:15.136780Z",
+                "2025-07-30T18:53:41.627759Z",
+                "2025-07-30T18:55:36.499778Z",
+                "2025-07-30T18:57:42.706826Z",
+                "2025-07-30T18:59:46.187591Z",
+                "2025-07-30T19:02:01.963739Z",
+                "2025-07-30T19:03:35.795469Z",
+                "2025-07-30T20:02:00.131140Z",
+                "2025-07-30T20:03:42.121835Z",
+                "2025-07-30T20:05:46.767027Z",
+                "2025-07-30T20:07:40.574814Z",
+                "2025-07-30T20:09:45.748361Z",
+                "2025-07-30T20:11:53.316551Z",
+                "2025-07-30T20:13:56.103472Z",
+                "2025-07-30T20:57:49.930339Z",
+                "2025-07-30T20:59:20.936401Z",
+                "2025-07-30T21:01:55.374244Z",
+                "2025-07-30T21:05:34.771231Z",
+                "2025-07-30T21:07:16.874543Z",
+                "2025-07-30T21:09:25.590295Z",
+                "2025-07-30T21:11:37.348467Z",
+                "2025-07-30T21:58:29.161464Z",
+                "2025-07-30T22:02:16.903822Z",
+                "2025-07-30T22:05:46.147817Z",
+                "2025-07-30T22:07:40.277949Z",
+                "2025-07-30T22:09:28.456901Z",
+                "2025-07-30T22:11:47.459230Z",
+                "2025-07-30T22:13:43.957267Z",
+                "2025-07-30T22:59:55.168701Z",
+                "2025-07-30T23:02:01.997159Z",
+                "2025-07-30T23:03:57.286549Z",
+                "2025-07-30T23:05:51.208801Z",
+                "2025-07-30T23:07:34.223898Z",
+                "2025-07-30T23:09:47.064828Z",
+                "2025-07-30T23:11:49.944589Z",
+                "2025-07-30T23:57:36.643555Z",
+                "2025-07-30T23:59:36.624528Z",
+                "2025-07-31T00:01:54.826982Z"
+            ]
+        },
+        {
+            "id": "1db3540e53fc188732eee09453b7da30",
+            "source": "spacenews",
+            "text": "KSAT and AWS expand alliance in satellite communications",
+            "source_link": "https://spacenews.com/ksat-and-aws-expand-alliance-in-satellite-communications/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-30T14:11:40.843415Z",
+            "shown_at": [
+                "2025-07-30T14:11:41.406453Z"
+            ]
+        },
+        {
+            "id": "776d5e9c8a84e366f0ad03be316dce99",
+            "source": "spacenews",
+            "text": "GSLV launches NASA-ISRO radar satellite",
+            "source_link": "https://spacenews.com/gslv-launches-nasa-isro-radar-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-30T13:25:26.436782Z",
+            "shown_at": [
+                "2025-07-30T13:55:44.838790Z"
+            ]
+        },
+        {
+            "id": "5a51e6d6941bfdc85fd94d6b2372e148",
+            "source": "spacenews",
+            "text": "Space – the quiet element behind Midnight Hammer",
+            "source_link": "https://spacenews.com/space-the-quiet-element-behind-midnight-hammer/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-30T13:25:26.436740Z",
+            "shown_at": [
+                "2025-07-30T13:40:19.317716Z",
+                "2025-07-30T18:35:50.118388Z"
+            ]
+        },
+        {
+            "id": "385b1c63f3533d23511cf2d61e0676a4",
+            "source": "spacenews",
+            "text": "China launches new group of Guowang satellites from commercial spaceport",
+            "source_link": "https://spacenews.com/china-launches-new-group-of-guowang-satellites-from-commercial-spaceport/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-30T13:25:26.436683Z",
+            "shown_at": [
+                "2025-07-30T13:25:26.937391Z",
+                "2025-07-30T21:29:36.973083Z"
+            ]
+        },
+        {
+            "id": "1795e00a563939c76711d2af61996ef4",
+            "source": "spacenews",
+            "text": "First Eris launch fails to reach orbit",
+            "source_link": "https://spacenews.com/first-eris-launch-fails-to-reach-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-30T05:23:36.404938Z",
+            "shown_at": [
+                "2025-07-30T05:23:37.087166Z"
+            ]
+        },
         {
             "id": "3a17aced4e046d7c6d4f2894aba1639b",
             "source": "spacenews",
@@ -10409,371 +10584,6 @@
             "shown_at": [
                 "2025-05-19T11:51:41.368621Z",
                 "2025-05-23T06:13:41.953506Z"
-            ]
-        },
-        {
-            "id": "4053b2c701a88ad65bb20420016b0f3f",
-            "source": "spacenews",
-            "text": "Capella Space bets on quantum future under IonQ ownership",
-            "source_link": "https://spacenews.com/capella-space-bets-on-quantum-future-under-ionq-ownership/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-18T17:09:40.096992Z",
-            "shown_at": [
-                "2025-05-18T17:09:40.738324Z"
-            ]
-        },
-        {
-            "id": "c36cdc8420311bf639b970eb2fb65f5e",
-            "source": "spacenews",
-            "text": "NGA set to open St. Louis campus in September, aiming to boost public-private geospatial collaboration",
-            "source_link": "https://spacenews.com/nga-set-to-open-st-louis-campus-in-september-aiming-to-boost-public-private-geospatial-collaboration/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-18T13:07:50.445844Z",
-            "shown_at": [
-                "2025-05-18T13:07:51.137888Z"
-            ]
-        },
-        {
-            "id": "0ba648b0c95ab454560ff0e28856ceef",
-            "source": "spacenews",
-            "text": "PSLV launch of Indian radar imaging satellite fails",
-            "source_link": "https://spacenews.com/pslv-launch-of-indian-radar-imaging-satellite-fails/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-18T03:55:32.119222Z",
-            "shown_at": [
-                "2025-05-18T03:55:32.654561Z",
-                "2025-05-19T10:39:28.582462Z"
-            ]
-        },
-        {
-            "id": "6698395e51b4ba25265ad046d12f63cb",
-            "source": "spacenews",
-            "text": "Rocket Lab launches radar imaging satellite for iQPS",
-            "source_link": "https://spacenews.com/rocket-lab-launches-radar-imaging-satellite-for-iqps/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-17T13:57:29.047785Z",
-            "shown_at": [
-                "2025-05-17T13:57:29.592020Z",
-                "2025-05-19T03:41:43.843135Z",
-                "2025-05-23T01:27:40.306384Z",
-                "2025-05-24T06:29:38.582945Z"
-            ]
-        },
-        {
-            "id": "fc49b8c8d480cbd3ff108cbdf3bbcc5c",
-            "source": "spacenews",
-            "text": "Landspace launches 6 satellites with enhanced Zhuque-2 rocket",
-            "source_link": "https://spacenews.com/landspace-launches-6-satellites-with-enhanced-zhuque-2-rocket/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-17T13:29:30.837058Z",
-            "shown_at": [
-                "2025-05-17T13:29:31.535593Z",
-                "2025-05-18T05:51:35.975315Z",
-                "2025-05-19T08:36:13.346969Z",
-                "2025-05-22T06:29:50.367886Z",
-                "2025-05-22T11:02:29.675524Z"
-            ]
-        },
-        {
-            "id": "abd7486501b6797516fb8d605cac115d",
-            "source": "spacenews",
-            "text": "FAA license update brings SpaceX closer to next Starship launch",
-            "source_link": "https://spacenews.com/faa-license-update-brings-spacex-closer-to-next-starship-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-16T17:35:12.533709Z",
-            "shown_at": [
-                "2025-05-16T17:35:13.279884Z",
-                "2025-05-18T16:55:40.668950Z",
-                "2025-05-19T17:43:40.191194Z",
-                "2025-05-21T12:33:08.743367Z",
-                "2025-05-21T17:33:30.302970Z"
-            ]
-        },
-        {
-            "id": "dde87825458b2e9b2bdcf4075a289b00",
-            "source": "breaking_defense",
-            "text": "Lawmakers fret over rumor of White House cuts to NRO commercial imagery budget",
-            "source_link": "https://breakingdefense.com/2025/05/lawmakers-fret-over-rumor-of-white-house-cuts-to-nro-commercial-imagery-budget/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-16T15:13:58.459957Z",
-            "shown_at": [
-                "2025-05-16T15:13:59.947589Z",
-                "2025-05-16T19:59:36.089723Z",
-                "2025-05-17T03:35:33.796511Z",
-                "2025-05-17T07:32:01.695132Z",
-                "2025-05-17T11:22:08.359606Z",
-                "2025-05-17T21:57:33.455347Z",
-                "2025-05-18T11:13:54.355290Z",
-                "2025-05-18T12:09:07.141247Z",
-                "2025-05-18T17:25:40.007711Z",
-                "2025-05-18T22:13:46.824939Z",
-                "2025-05-19T00:08:16.830367Z",
-                "2025-05-19T06:49:37.368832Z",
-                "2025-05-19T09:55:31.627044Z",
-                "2025-05-19T15:51:57.783515Z",
-                "2025-05-20T06:32:09.859382Z",
-                "2025-05-20T13:42:00.345186Z",
-                "2025-05-20T20:55:42.758567Z",
-                "2025-05-21T02:43:51.127829Z",
-                "2025-05-21T12:19:38.754001Z",
-                "2025-05-21T20:05:38.270953Z",
-                "2025-05-22T02:27:36.180566Z",
-                "2025-05-22T06:15:37.195861Z",
-                "2025-05-22T07:13:47.335580Z",
-                "2025-05-22T13:53:44.381842Z",
-                "2025-05-22T21:55:40.126735Z",
-                "2025-05-23T00:45:42.324839Z"
-            ]
-        },
-        {
-            "id": "0fc919d3b1ba63cf16ec57257726d5e0",
-            "source": "nyt",
-            "text": "Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies at 95",
-            "source_link": "https://www.nytimes.com/2025/05/16/science/space/ed-smylie-dead.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-16T14:59:33.782767Z",
-            "shown_at": [
-                "2025-05-16T14:59:34.593044Z",
-                "2025-05-16T17:49:39.345427Z",
-                "2025-05-16T22:35:27.231977Z",
-                "2025-05-16T23:33:48.282830Z",
-                "2025-05-17T10:53:56.625784Z",
-                "2025-05-17T12:45:31.993362Z",
-                "2025-05-17T14:39:30.513295Z",
-                "2025-05-17T21:15:51.120980Z",
-                "2025-05-18T00:05:39.773290Z",
-                "2025-05-18T02:02:12.126498Z",
-                "2025-05-18T06:05:31.668552Z",
-                "2025-05-18T11:41:33.541046Z",
-                "2025-05-19T00:23:42.126313Z",
-                "2025-05-19T04:09:56.665510Z",
-                "2025-05-19T07:05:30.409961Z",
-                "2025-05-19T08:02:11.702350Z",
-                "2025-05-19T14:24:20.133612Z",
-                "2025-05-19T15:37:45.571252Z",
-                "2025-05-20T03:07:51.702023Z",
-                "2025-05-20T07:13:15.687337Z",
-                "2025-05-20T11:05:42.098796Z",
-                "2025-05-20T20:39:25.559882Z",
-                "2025-05-21T06:07:34.793707Z",
-                "2025-05-21T07:03:32.737052Z",
-                "2025-05-21T11:03:32.935607Z",
-                "2025-05-21T12:05:36.130608Z",
-                "2025-05-21T13:37:29.378029Z",
-                "2025-05-21T17:03:53.200106Z",
-                "2025-05-21T22:05:38.324591Z",
-                "2025-05-22T01:59:56.511665Z",
-                "2025-05-22T02:55:26.051004Z",
-                "2025-05-22T05:47:35.180023Z",
-                "2025-05-22T08:39:53.985877Z",
-                "2025-05-22T10:33:32.263592Z",
-                "2025-05-22T14:39:31.712452Z",
-                "2025-05-22T17:29:09.197818Z",
-                "2025-05-22T18:25:27.939352Z",
-                "2025-05-22T19:21:22.151109Z",
-                "2025-05-22T20:17:34.469484Z",
-                "2025-05-22T22:23:37.750045Z",
-                "2025-05-23T02:11:48.409474Z",
-                "2025-05-23T04:05:42.623139Z",
-                "2025-05-23T09:51:48.528579Z",
-                "2025-05-23T12:13:33.518204Z"
-            ]
-        },
-        {
-            "id": "594d907ad49e0d18f20d44551ca98fb9",
-            "source": "spacenews",
-            "text": "SES to demonstrate ‘satellite orchestration’ tech for military communications",
-            "source_link": "https://spacenews.com/ses-to-demonstrate-satellite-orchestration-tech-for-military-communications/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-16T14:45:23.861705Z",
-            "shown_at": [
-                "2025-05-16T14:45:24.658264Z",
-                "2025-05-17T09:41:46.393915Z",
-                "2025-05-18T20:03:43.605598Z",
-                "2025-05-18T20:59:26.852674Z"
-            ]
-        },
-        {
-            "id": "1795e00a563939c76711d2af61996ef4",
-            "source": "spacenews",
-            "text": "First Eris launch fails to reach orbit",
-            "source_link": "https://spacenews.com/first-eris-launch-fails-to-reach-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-30T05:23:36.404938Z",
-            "shown_at": [
-                "2025-07-30T05:23:37.087166Z"
-            ]
-        },
-        {
-            "id": "385b1c63f3533d23511cf2d61e0676a4",
-            "source": "spacenews",
-            "text": "China launches new group of Guowang satellites from commercial spaceport",
-            "source_link": "https://spacenews.com/china-launches-new-group-of-guowang-satellites-from-commercial-spaceport/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-30T13:25:26.436683Z",
-            "shown_at": [
-                "2025-07-30T13:25:26.937391Z",
-                "2025-07-30T21:29:36.973083Z"
-            ]
-        },
-        {
-            "id": "5a51e6d6941bfdc85fd94d6b2372e148",
-            "source": "spacenews",
-            "text": "Space – the quiet element behind Midnight Hammer",
-            "source_link": "https://spacenews.com/space-the-quiet-element-behind-midnight-hammer/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-30T13:25:26.436740Z",
-            "shown_at": [
-                "2025-07-30T13:40:19.317716Z",
-                "2025-07-30T18:35:50.118388Z"
-            ]
-        },
-        {
-            "id": "776d5e9c8a84e366f0ad03be316dce99",
-            "source": "spacenews",
-            "text": "GSLV launches NASA-ISRO radar satellite",
-            "source_link": "https://spacenews.com/gslv-launches-nasa-isro-radar-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-30T13:25:26.436782Z",
-            "shown_at": [
-                "2025-07-30T13:55:44.838790Z"
-            ]
-        },
-        {
-            "id": "1db3540e53fc188732eee09453b7da30",
-            "source": "spacenews",
-            "text": "KSAT and AWS expand alliance in satellite communications",
-            "source_link": "https://spacenews.com/ksat-and-aws-expand-alliance-in-satellite-communications/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-30T14:11:40.843415Z",
-            "shown_at": [
-                "2025-07-30T14:11:41.406453Z"
-            ]
-        },
-        {
-            "id": "7abd243b67c1bab08567db6a5b12620a",
-            "source": "supercluster",
-            "text": "China Will Launch the Kuaizhou 1A Rocket",
-            "source_link": "https://www.supercluster.com/launches/kuaizhou-1ayg",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-07-31T02:00:00.000Z",
-            "time_remaining": "0d 02h 00m",
-            "fetched_datetime": "2025-07-30T16:07:47.741433Z",
-            "shown_at": [
-                "2025-07-30T16:07:48.212070Z",
-                "2025-07-30T16:09:36.822799Z",
-                "2025-07-30T16:11:49.304076Z",
-                "2025-07-30T16:13:55.305920Z",
-                "2025-07-30T16:15:25.314359Z",
-                "2025-07-30T16:17:43.102067Z",
-                "2025-07-30T16:19:37.961487Z",
-                "2025-07-30T17:23:36.580158Z",
-                "2025-07-30T17:25:42.429852Z",
-                "2025-07-30T17:27:43.219745Z",
-                "2025-07-30T17:29:33.910856Z",
-                "2025-07-30T17:31:50.581751Z",
-                "2025-07-30T17:33:45.808238Z",
-                "2025-07-30T17:35:04.220882Z",
-                "2025-07-30T18:51:15.136780Z",
-                "2025-07-30T18:53:41.627759Z",
-                "2025-07-30T18:55:36.499778Z",
-                "2025-07-30T18:57:42.706826Z",
-                "2025-07-30T18:59:46.187591Z",
-                "2025-07-30T19:02:01.963739Z",
-                "2025-07-30T19:03:35.795469Z",
-                "2025-07-30T20:02:00.131140Z",
-                "2025-07-30T20:03:42.121835Z",
-                "2025-07-30T20:05:46.767027Z",
-                "2025-07-30T20:07:40.574814Z",
-                "2025-07-30T20:09:45.748361Z",
-                "2025-07-30T20:11:53.316551Z",
-                "2025-07-30T20:13:56.103472Z",
-                "2025-07-30T20:57:49.930339Z",
-                "2025-07-30T20:59:20.936401Z",
-                "2025-07-30T21:01:55.374244Z",
-                "2025-07-30T21:05:34.771231Z",
-                "2025-07-30T21:07:16.874543Z",
-                "2025-07-30T21:09:25.590295Z",
-                "2025-07-30T21:11:37.348467Z",
-                "2025-07-30T21:58:29.161464Z",
-                "2025-07-30T22:02:16.903822Z",
-                "2025-07-30T22:05:46.147817Z",
-                "2025-07-30T22:07:40.277949Z",
-                "2025-07-30T22:09:28.456901Z",
-                "2025-07-30T22:11:47.459230Z",
-                "2025-07-30T22:13:43.957267Z",
-                "2025-07-30T22:59:55.168701Z",
-                "2025-07-30T23:02:01.997159Z",
-                "2025-07-30T23:03:57.286549Z",
-                "2025-07-30T23:05:51.208801Z",
-                "2025-07-30T23:07:34.223898Z",
-                "2025-07-30T23:09:47.064828Z",
-                "2025-07-30T23:11:49.944589Z",
-                "2025-07-30T23:57:36.643555Z",
-                "2025-07-30T23:59:36.624528Z"
-            ]
-        },
-        {
-            "id": "5bf13099ddabb8ee20efb75d961a2c93",
-            "source": "breaking_defense",
-            "text": "It’s more than fuel: Why the Space Force needs in-space servicing, assembly, and manufacturing",
-            "source_link": "https://breakingdefense.com/2025/07/its-more-than-fuel-why-the-space-force-needs-in-space-servicing-assembly-and-manufacturing/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-30T17:09:36.351555Z",
-            "shown_at": [
-                "2025-07-30T17:09:37.054964Z"
-            ]
-        },
-        {
-            "id": "e1d33eab8e36fe729986a3a4b7f16a5d",
-            "source": "breaking_defense",
-            "text": "Space Force makes 5 awards for jam-resistant SATCOM",
-            "source_link": "https://breakingdefense.com/2025/07/space-force-makes-5-awards-for-jam-resistant-satcom/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-30T19:33:41.335124Z",
-            "shown_at": [
-                "2025-07-30T19:33:42.344789Z"
-            ]
-        },
-        {
-            "id": "36cc0e77dac0cb18a500224d304dbfad",
-            "source": "spacenews",
-            "text": "NASA acting administrator to meet with head of Roscosmos at KSC",
-            "source_link": "https://spacenews.com/nasa-acting-administrator-to-meet-with-head-of-roscosmos-at-ksc/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-30T20:29:06.849484Z",
-            "shown_at": [
-                "2025-07-30T20:29:07.807682Z"
-            ]
-        },
-        {
-            "id": "7191aa00a7408b35479e86d82685d40e",
-            "source": "breaking_defense",
-            "text": "Here’s the role that space-based interceptors will play in Golden Dome",
-            "source_link": "https://breakingdefense.com/2025/07/heres-the-role-that-space-based-interceptors-will-play-in-golden-dome/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-30T20:43:30.486695Z",
-            "shown_at": [
-                "2025-07-30T20:43:31.166675Z"
             ]
         }
     ]
