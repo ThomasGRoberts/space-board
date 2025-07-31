@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 10 | 29 |
 | spacenews | 6 | 13 | 13 | 37 |
-| nyt | 0 | 0 | 9 | 28 |
-| supercluster | 1 | 1 | 7 | 7 |
+| nyt | 0 | 0 | 8 | 28 |
+| supercluster | 1 | 1 | 8 | 8 |
 
 # Shown Order
 
@@ -5057,3 +5057,4 @@
 - **Jul 31, 05:25 PM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
 - **Jul 31, 05:39 PM** - Senate confirms Lohmeier as Air Force No. 2 civilian (breaking_defense)
 - **Jul 31, 05:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 31, 05:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
