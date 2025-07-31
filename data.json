@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-31T00:01:54.124362+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3ee44b35e67a1b3e29796dec087cc1ff",
+    "trigger_count": 0,
+    "current_item_id": "8402441cfff7e19e38e7be29ff9ead51",
     "data": [
         {
             "id": "7191aa00a7408b35479e86d82685d40e",
@@ -10587,9 +10587,12 @@
             "source": "spacenews",
             "text": "Air leak persists on Russian ISS segment",
             "source_link": "https://spacenews.com/air-leak-persists-on-russian-iss-segment/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-07-31T16:29:31.868550Z"
+            "fetched_datetime": "2025-07-31T16:29:31.868550Z",
+            "shown_at": [
+                "2025-07-31T16:57:51.622305Z"
+            ]
         },
         {
             "id": "df1b44dc4ce4b08e5519db2a01ccbf95",

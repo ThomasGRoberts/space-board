@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 3 | 10 | 29 |
-| spacenews | 6 | 13 | 12 | 36 |
+| spacenews | 6 | 13 | 13 | 37 |
 | nyt | 0 | 1 | 8 | 28 |
 | supercluster | 1 | 1 | 6 | 6 |
 
@@ -5052,3 +5052,4 @@
 - **Jul 31, 04:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 31, 04:29 PM** - Frontgrade Launches Compact, Intelligent Power Supply for VNX+ Systems in Aerospace, Defense, and Space (spacenews)
 - **Jul 31, 04:43 PM** - Moog Presents Space Computing Advancements to Enable Next-Generation Missions at Small Satellite Conference (spacenews)
+- **Jul 31, 04:57 PM** - Air leak persists on Russian ISS segment (spacenews)
