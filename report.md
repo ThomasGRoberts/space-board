@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 3 | 21 | 41 |
-| spacenews | 6 | 15 | 24 | 50 |
+| spacenews | 6 | 15 | 25 | 51 |
 | supercluster | 1 | 1 | 56 | 56 |
 | nyt | 0 | 3 | 21 | 41 |
 
@@ -5094,3 +5094,4 @@
 - **Jul 31, 12:07 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Jul 31, 12:09 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Jul 31, 12:11 AM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
+- **Jul 31, 12:25 AM** - SmallSat heads to Salt Lake City as audience expands (spacenews)
