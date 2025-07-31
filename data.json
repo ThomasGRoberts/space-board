@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-07-31T00:01:54.124362+00:00",
-    "trigger_count": 0,
-    "current_item_id": "c5a8096acaf97aa5410b23f295e7ac2c",
+    "trigger_count": 1,
+    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
     "data": [
         {
             "id": "7191aa00a7408b35479e86d82685d40e",
@@ -10540,15 +10540,18 @@
             ]
         },
         {
-            "id": "c5a8096acaf97aa5410b23f295e7ac2c",
+            "id": "4beba9b243fe616fcb8e7be8d963bbc1",
             "source": "supercluster",
-            "text": "SpaceX Will Launch an International Crew to the ISS",
-            "source_link": "https://www.supercluster.com/launches/spacex-crew-11",
-            "shown": false,
+            "text": "SpaceX Will Launch Starlink Satellites from California",
+            "source_link": "https://www.supercluster.com/launches/starlink-13-4",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-07-31T16:09:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-07-31T16:15:38.763525Z"
+            "target_datetime": "2025-07-31T18:35:00.000Z",
+            "time_remaining": "0d 02h 17m",
+            "fetched_datetime": "2025-07-31T16:17:50.202383Z",
+            "shown_at": [
+                "2025-07-31T16:17:50.873939Z"
+            ]
         }
     ]
 }
