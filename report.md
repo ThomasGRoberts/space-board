@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 9 | 29 |
-| spacenews | 6 | 13 | 13 | 37 |
+| spacenews | 6 | 13 | 14 | 38 |
 | nyt | 0 | 0 | 8 | 27 |
 | supercluster | 1 | 1 | 6 | 6 |
 
@@ -5053,3 +5053,4 @@
 - **Jul 31, 04:29 PM** - Frontgrade Launches Compact, Intelligent Power Supply for VNX+ Systems in Aerospace, Defense, and Space (spacenews)
 - **Jul 31, 04:43 PM** - Moog Presents Space Computing Advancements to Enable Next-Generation Missions at Small Satellite Conference (spacenews)
 - **Jul 31, 04:57 PM** - Air leak persists on Russian ISS segment (spacenews)
+- **Jul 31, 05:11 PM** - China launches remote sensing satellite for Pakistan with Kuaizhou-1A rocket (spacenews)
