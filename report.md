@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 3 | 11 | 30 |
-| spacenews | 2 | 9 | 10 | 34 |
+| spacenews | 6 | 13 | 11 | 35 |
 | nyt | 0 | 1 | 9 | 28 |
 | supercluster | 1 | 1 | 6 | 6 |
 
@@ -5050,3 +5050,4 @@
 - **Jul 31, 04:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 31, 04:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 31, 04:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Jul 31, 04:29 PM** - Frontgrade Launches Compact, Intelligent Power Supply for VNX+ Systems in Aerospace, Defense, and Space (spacenews)
