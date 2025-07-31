@@ -5,7 +5,6 @@
 | breaking_defense | 2 | 3 | 9 | 29 |
 | spacenews | 6 | 13 | 14 | 37 |
 | nyt | 0 | 0 | 9 | 28 |
-| supercluster | 1 | 1 | 13 | 13 |
 
 # Shown Order
 
@@ -5044,24 +5043,11 @@
 - **Jul 31, 01:21 AM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
 - **Jul 31, 01:35 AM** - Space Force makes 5 awards for jam-resistant SATCOM (breaking_defense)
 - **Jul 31, 01:49 AM** - U.S. military X-37B spaceplane prepares for eighth mission  (spacenews)
-- **Jul 31, 04:17 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 31, 04:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 31, 04:21 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 31, 04:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 31, 04:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 31, 04:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 31, 04:29 PM** - Frontgrade Launches Compact, Intelligent Power Supply for VNX+ Systems in Aerospace, Defense, and Space (spacenews)
 - **Jul 31, 04:43 PM** - Moog Presents Space Computing Advancements to Enable Next-Generation Missions at Small Satellite Conference (spacenews)
 - **Jul 31, 04:57 PM** - Air leak persists on Russian ISS segment (spacenews)
 - **Jul 31, 05:11 PM** - China launches remote sensing satellite for Pakistan with Kuaizhou-1A rocket (spacenews)
 - **Jul 31, 05:25 PM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
 - **Jul 31, 05:39 PM** - Senate confirms Lohmeier as Air Force No. 2 civilian (breaking_defense)
-- **Jul 31, 05:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 31, 05:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 31, 05:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 31, 05:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 31, 06:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 31, 06:03 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Jul 31, 06:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Jul 31, 06:07 PM** - Canada awards study contracts for lunar utility rover (spacenews)
 - **Jul 31, 06:22 PM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
