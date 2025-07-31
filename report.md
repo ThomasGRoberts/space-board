@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 3 | 20 | 40 |
 | spacenews | 7 | 16 | 25 | 51 |
-| nyt | 0 | 3 | 19 | 40 |
+| nyt | 0 | 3 | 19 | 39 |
 | supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
@@ -5044,4 +5044,4 @@
 - **Jul 31, 01:21 AM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
 - **Jul 31, 01:35 AM** - Space Force makes 5 awards for jam-resistant SATCOM (breaking_defense)
 - **Jul 31, 01:49 AM** - U.S. military X-37B spaceplane prepares for eighth mission  (spacenews)
-- **Jul 31, 02:55 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
+- **Jul 31, 02:57 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
