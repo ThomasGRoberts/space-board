@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 3 | 3 | 21 | 40 |
+| breaking_defense | 3 | 3 | 22 | 41 |
 | spacenews | 6 | 15 | 25 | 51 |
 | supercluster | 1 | 1 | 56 | 56 |
 | nyt | 0 | 3 | 20 | 41 |
@@ -5095,3 +5095,4 @@
 - **Jul 31, 12:09 AM** - China Will Launch the Kuaizhou 1A Rocket (supercluster)
 - **Jul 31, 12:11 AM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
 - **Jul 31, 12:25 AM** - SmallSat heads to Salt Lake City as audience expands (spacenews)
+- **Jul 31, 12:40 AM** - Roketsan signs agreement with Indonesia, unveils five missiles and space launch vehicle designs (breaking_defense)
