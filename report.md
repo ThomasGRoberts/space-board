@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 9 | 29 |
 | spacenews | 6 | 13 | 14 | 37 |
-| nyt | 0 | 0 | 8 | 27 |
+| nyt | 0 | 0 | 9 | 28 |
 | supercluster | 1 | 1 | 6 | 6 |
 
 # Shown Order
@@ -5054,3 +5054,4 @@
 - **Jul 31, 04:43 PM** - Moog Presents Space Computing Advancements to Enable Next-Generation Missions at Small Satellite Conference (spacenews)
 - **Jul 31, 04:57 PM** - Air leak persists on Russian ISS segment (spacenews)
 - **Jul 31, 05:11 PM** - China launches remote sensing satellite for Pakistan with Kuaizhou-1A rocket (spacenews)
+- **Jul 31, 05:25 PM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
