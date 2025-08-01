@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-01T00:02:01.624964+00:00",
-    "trigger_count": 6,
-    "current_item_id": "74f768713c2abae34cbc871cbd847c1a",
+    "trigger_count": 0,
+    "current_item_id": "9c0c1b2f4a6ec3bea50cf85f93a7689c",
     "data": [
         {
             "id": "df1b44dc4ce4b08e5519db2a01ccbf95",
@@ -10545,6 +10545,18 @@
             "shown_at": [
                 "2025-08-01T16:43:32.765937Z",
                 "2025-08-01T16:45:28.108111Z"
+            ]
+        },
+        {
+            "id": "9c0c1b2f4a6ec3bea50cf85f93a7689c",
+            "source": "breaking_defense",
+            "text": "Draft Trump EO would loosen commercial space regs, citing national security links",
+            "source_link": "https://breakingdefense.com/2025/08/draft-trump-eo-loosens-commercial-space-regs-citing-national-security-links/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-01T16:47:21.830040Z",
+            "shown_at": [
+                "2025-08-01T16:47:22.448599Z"
             ]
         }
     ]
