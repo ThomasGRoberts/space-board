@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-01T00:02:01.624964+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6f54e6ecbe97b009a14506966cb842dd",
+    "trigger_count": 0,
+    "current_item_id": "f80d066224f089dffb58bc0c11c68d50",
     "data": [
         {
             "id": "df1b44dc4ce4b08e5519db2a01ccbf95",
@@ -10588,9 +10588,12 @@
             "source": "spacenews",
             "text": "It’s time to unlock inland orbital launch for a resilient U.S. space future",
             "source_link": "https://spacenews.com/its-time-to-unlock-inland-orbital-launch-for-a-resilient-u-s-space-future/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-08-01T17:01:56.553669Z"
+            "fetched_datetime": "2025-08-01T17:01:56.553669Z",
+            "shown_at": [
+                "2025-08-01T17:29:37.562398Z"
+            ]
         },
         {
             "id": "303b016d70ca32a90971d6a66de21d24",
