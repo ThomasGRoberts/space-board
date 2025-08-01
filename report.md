@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 10 | 4 | 17 |
+| spacenews | 4 | 10 | 5 | 18 |
 | breaking_defense | 1 | 3 | 2 | 11 |
 | nyt | 0 | 0 | 1 | 10 |
 | supercluster | 1 | 1 | 9 | 9 |
@@ -5053,3 +5053,4 @@
 - **Aug 01, 06:21 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 01, 06:23 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 01, 06:25 PM** - Space Force makes 5 awards for jam-resistant SATCOM (breaking_defense)
+- **Aug 01, 06:39 PM** - ULA tempers expectations for 2025 launch volume amid transition to Vulcan-centric fleet (spacenews)
