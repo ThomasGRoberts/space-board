@@ -5,7 +5,7 @@
 | spacenews | 5 | 10 | 9 | 19 |
 | breaking_defense | 1 | 1 | 5 | 10 |
 | nyt | 0 | 0 | 5 | 11 |
-| supercluster | 1 | 1 | 30 | 30 |
+| supercluster | 1 | 1 | 31 | 31 |
 
 # Shown Order
 
@@ -5086,3 +5086,4 @@
 - **Aug 01, 09:27 PM** - Space Force selects five firms for ‘Protected Tactical Satcom’ design contracts (spacenews)
 - **Aug 01, 09:41 PM** - EchoStar orders initial MDA satellites for $5 billion LEO constellation (spacenews)
 - **Aug 01, 09:55 PM** - The First Soda in Space: When NASA Got Caught Up in the Cola Wars (nyt)
+- **Aug 01, 10:09 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
