@@ -5,7 +5,7 @@
 | spacenews | 4 | 10 | 6 | 18 |
 | breaking_defense | 1 | 2 | 3 | 10 |
 | nyt | 0 | 0 | 3 | 11 |
-| supercluster | 1 | 1 | 16 | 16 |
+| supercluster | 1 | 1 | 17 | 17 |
 
 # Shown Order
 
@@ -5065,3 +5065,4 @@
 - **Aug 01, 07:21 PM** - Space Force makes 5 awards for jam-resistant SATCOM (breaking_defense)
 - **Aug 01, 07:35 PM** - NASA pauses acquisition of lunar communications ground stations (spacenews)
 - **Aug 01, 07:49 PM** - The First Soda in Space: When NASA Got Caught Up in the Cola Wars (nyt)
+- **Aug 01, 08:03 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
