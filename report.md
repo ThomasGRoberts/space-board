@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 11 | 10 | 19 |
 | breaking_defense | 1 | 1 | 6 | 10 |
-| nyt | 0 | 0 | 5 | 10 |
+| nyt | 0 | 0 | 6 | 11 |
 | supercluster | 1 | 1 | 37 | 37 |
 
 # Shown Order
@@ -5095,3 +5095,4 @@
 - **Aug 01, 10:21 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 01, 10:23 PM** - Roscosmos celebrates meeting of agency leaders that NASA ignored (spacenews)
 - **Aug 01, 10:37 PM** - It’s more than fuel: Why the Space Force needs in-space servicing, assembly, and manufacturing (breaking_defense)
+- **Aug 01, 10:51 PM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
