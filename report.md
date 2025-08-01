@@ -5,7 +5,7 @@
 | spacenews | 4 | 10 | 4 | 18 |
 | breaking_defense | 1 | 3 | 1 | 10 |
 | nyt | 0 | 0 | 2 | 10 |
-| supercluster | 1 | 1 | 3 | 3 |
+| supercluster | 1 | 1 | 4 | 4 |
 
 # Shown Order
 
@@ -5046,3 +5046,4 @@
 - **Aug 01, 05:43 PM** - Albedo wins NRO Stage 2 imagery contract (spacenews)
 - **Aug 01, 05:57 PM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
 - **Aug 01, 06:11 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Aug 01, 06:13 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
