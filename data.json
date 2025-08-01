@@ -1,7 +1,7 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-01T00:02:01.624964+00:00",
-    "trigger_count": 4,
+    "trigger_count": 5,
     "current_item_id": "c5a8096acaf97aa5410b23f295e7ac2c",
     "data": [
         {
@@ -10537,14 +10537,11 @@
             "source": "supercluster",
             "text": "SpaceX Will Launch an International Crew to the ISS",
             "source_link": "https://www.supercluster.com/launches/spacex-crew-11",
-            "shown": true,
+            "shown": false,
             "type": "launch",
             "target_datetime": "2025-08-01T15:43:00.000Z",
             "time_remaining": "",
-            "fetched_datetime": "2025-08-01T15:43:37.832834Z",
-            "shown_at": [
-                "2025-08-01T15:43:38.382360Z"
-            ]
+            "fetched_datetime": "2025-08-01T15:45:43.290308Z"
         }
     ]
 }
