@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 11 | 11 | 19 |
 | breaking_defense | 1 | 1 | 7 | 10 |
-| nyt | 0 | 0 | 6 | 10 |
+| nyt | 0 | 0 | 7 | 11 |
 | supercluster | 1 | 1 | 44 | 44 |
 
 # Shown Order
@@ -5105,3 +5105,4 @@
 - **Aug 01, 11:19 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 01, 11:21 PM** - Canada awards study contracts for lunar utility rover (spacenews)
 - **Aug 01, 11:35 PM** - Here’s the role that space-based interceptors will play in Golden Dome (breaking_defense)
+- **Aug 01, 11:49 PM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
