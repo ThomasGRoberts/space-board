@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 10 | 4 | 17 |
+| spacenews | 4 | 10 | 5 | 18 |
 | breaking_defense | 1 | 3 | 1 | 11 |
 | nyt | 0 | 0 | 1 | 10 |
 | supercluster | 1 | 1 | 2 | 2 |
@@ -5043,3 +5043,4 @@
 - **Aug 01, 05:01 PM** - Crew-11 launches to ISS (spacenews)
 - **Aug 01, 05:15 PM** - Senators raise NASA funding concerns in letter to Duffy (spacenews)
 - **Aug 01, 05:29 PM** - It’s time to unlock inland orbital launch for a resilient U.S. space future (spacenews)
+- **Aug 01, 05:43 PM** - Albedo wins NRO Stage 2 imagery contract (spacenews)

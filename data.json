@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-01T00:02:01.624964+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f80d066224f089dffb58bc0c11c68d50",
+    "trigger_count": 0,
+    "current_item_id": "303b016d70ca32a90971d6a66de21d24",
     "data": [
         {
             "id": "df1b44dc4ce4b08e5519db2a01ccbf95",
@@ -10600,9 +10600,12 @@
             "source": "spacenews",
             "text": "Albedo wins NRO Stage 2 imagery contract",
             "source_link": "https://spacenews.com/albedo-wins-nro-stage-2-imagery-contract/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-08-01T17:01:56.553710Z"
+            "fetched_datetime": "2025-08-01T17:01:56.553710Z",
+            "shown_at": [
+                "2025-08-01T17:43:55.960522Z"
+            ]
         }
     ]
 }
