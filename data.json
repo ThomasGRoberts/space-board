@@ -1,9 +1,69 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-07-31T00:01:54.124362+00:00",
-    "trigger_count": 4,
+    "last_run_datetime": "2025-08-01T00:02:01.624964+00:00",
+    "trigger_count": 5,
     "current_item_id": "c5a8096acaf97aa5410b23f295e7ac2c",
     "data": [
+        {
+            "id": "df1b44dc4ce4b08e5519db2a01ccbf95",
+            "source": "spacenews",
+            "text": "China launches remote sensing satellite for Pakistan with Kuaizhou-1A rocket",
+            "source_link": "https://spacenews.com/china-launches-remote-sensing-satellite-for-pakistan-with-kuaizhou-1a-rocket/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-31T16:29:31.868587Z",
+            "shown_at": [
+                "2025-07-31T17:11:44.512192Z"
+            ]
+        },
+        {
+            "id": "8402441cfff7e19e38e7be29ff9ead51",
+            "source": "spacenews",
+            "text": "Air leak persists on Russian ISS segment",
+            "source_link": "https://spacenews.com/air-leak-persists-on-russian-iss-segment/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-31T16:29:31.868550Z",
+            "shown_at": [
+                "2025-07-31T16:57:51.622305Z"
+            ]
+        },
+        {
+            "id": "3ee44b35e67a1b3e29796dec087cc1ff",
+            "source": "spacenews",
+            "text": "Moog Presents Space Computing Advancements to Enable Next-Generation Missions at Small Satellite Conference",
+            "source_link": "https://spacenews.com/moog-presents-space-computing-advancements-to-enable-next-generation-missions-at-small-satellite-conference/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-31T16:29:31.868505Z",
+            "shown_at": [
+                "2025-07-31T16:43:46.014169Z"
+            ]
+        },
+        {
+            "id": "daad762d2a8251d716a73a80ce234f7f",
+            "source": "spacenews",
+            "text": "Frontgrade Launches Compact, Intelligent Power Supply for VNX+ Systems in Aerospace, Defense, and Space",
+            "source_link": "https://spacenews.com/frontgrade-launches-compact-intelligent-power-supply-for-vnx-systems-in-aerospace-defense-and-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-31T16:29:31.868451Z",
+            "shown_at": [
+                "2025-07-31T16:29:32.506437Z"
+            ]
+        },
+        {
+            "id": "e8fe5fb12735878e43b44bc5641d8de9",
+            "source": "spacenews",
+            "text": "Senate Commerce Committee advances Jacobs nomination for NOAA administrator",
+            "source_link": "https://spacenews.com/senate-commerce-committee-advances-jacobs-nomination-for-noaa-administrator/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-07-31T00:53:18.033185Z",
+            "shown_at": [
+                "2025-07-31T00:53:18.625303Z"
+            ]
+        },
         {
             "id": "7191aa00a7408b35479e86d82685d40e",
             "source": "breaking_defense",
@@ -10473,125 +10533,6 @@
             ]
         },
         {
-            "id": "52d0734f96ef8a012fe202785f5bd184",
-            "source": "spacenews",
-            "text": "Sophia Space raises $3.5 million for orbiting data centers",
-            "source_link": "https://spacenews.com/sophia-space-raises-3-4-million-for-orbiting-data-centers/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-19T13:07:32.343906Z",
-            "shown_at": [
-                "2025-05-19T13:21:50.941818Z",
-                "2025-05-23T14:45:35.132007Z",
-                "2025-05-24T08:23:57.960257Z"
-            ]
-        },
-        {
-            "id": "740dc2695c92cb67d40b28b6a148f37a",
-            "source": "spacenews",
-            "text": "As Washington rethinks broadband strategy, satellite solutions deserve equal consideration",
-            "source_link": "https://spacenews.com/as-washington-rethinks-broadband-strategy-satellite-solutions-deserve-equal-consideration/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-19T13:07:32.343837Z",
-            "shown_at": [
-                "2025-05-19T13:07:33.114173Z",
-                "2025-05-20T06:59:41.558484Z",
-                "2025-05-22T04:37:29.209023Z",
-                "2025-05-25T15:13:48.850193Z",
-                "2025-05-26T06:23:33.895499Z"
-            ]
-        },
-        {
-            "id": "f34056f7d2843500140e067f6094f78c",
-            "source": "spacenews",
-            "text": "China to launch Tianwen-2 asteroid sampling mission on May 28",
-            "source_link": "https://spacenews.com/china-to-launch-tianwen-2-asteroid-sampling-mission-on-may-28/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-19T12:05:50.481286Z",
-            "shown_at": [
-                "2025-05-19T12:05:51.517327Z",
-                "2025-05-21T18:35:10.434152Z",
-                "2025-05-22T12:41:51.457708Z",
-                "2025-05-22T21:27:31.543173Z",
-                "2025-05-23T15:57:49.061692Z"
-            ]
-        },
-        {
-            "id": "8a951ce0a81fa36017956a2d785190c6",
-            "source": "spacenews",
-            "text": "Voyager Technologies files to go public",
-            "source_link": "https://spacenews.com/voyager-technologies-files-to-go-public/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-19T11:51:40.735317Z",
-            "shown_at": [
-                "2025-05-19T11:51:41.368621Z",
-                "2025-05-23T06:13:41.953506Z"
-            ]
-        },
-        {
-            "id": "e8fe5fb12735878e43b44bc5641d8de9",
-            "source": "spacenews",
-            "text": "Senate Commerce Committee advances Jacobs nomination for NOAA administrator",
-            "source_link": "https://spacenews.com/senate-commerce-committee-advances-jacobs-nomination-for-noaa-administrator/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-31T00:53:18.033185Z",
-            "shown_at": [
-                "2025-07-31T00:53:18.625303Z"
-            ]
-        },
-        {
-            "id": "daad762d2a8251d716a73a80ce234f7f",
-            "source": "spacenews",
-            "text": "Frontgrade Launches Compact, Intelligent Power Supply for VNX+ Systems in Aerospace, Defense, and Space",
-            "source_link": "https://spacenews.com/frontgrade-launches-compact-intelligent-power-supply-for-vnx-systems-in-aerospace-defense-and-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-31T16:29:31.868451Z",
-            "shown_at": [
-                "2025-07-31T16:29:32.506437Z"
-            ]
-        },
-        {
-            "id": "3ee44b35e67a1b3e29796dec087cc1ff",
-            "source": "spacenews",
-            "text": "Moog Presents Space Computing Advancements to Enable Next-Generation Missions at Small Satellite Conference",
-            "source_link": "https://spacenews.com/moog-presents-space-computing-advancements-to-enable-next-generation-missions-at-small-satellite-conference/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-31T16:29:31.868505Z",
-            "shown_at": [
-                "2025-07-31T16:43:46.014169Z"
-            ]
-        },
-        {
-            "id": "8402441cfff7e19e38e7be29ff9ead51",
-            "source": "spacenews",
-            "text": "Air leak persists on Russian ISS segment",
-            "source_link": "https://spacenews.com/air-leak-persists-on-russian-iss-segment/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-31T16:29:31.868550Z",
-            "shown_at": [
-                "2025-07-31T16:57:51.622305Z"
-            ]
-        },
-        {
-            "id": "df1b44dc4ce4b08e5519db2a01ccbf95",
-            "source": "spacenews",
-            "text": "China launches remote sensing satellite for Pakistan with Kuaizhou-1A rocket",
-            "source_link": "https://spacenews.com/china-launches-remote-sensing-satellite-for-pakistan-with-kuaizhou-1a-rocket/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-31T16:29:31.868587Z",
-            "shown_at": [
-                "2025-07-31T17:11:44.512192Z"
-            ]
-        },
-        {
             "id": "c5a8096acaf97aa5410b23f295e7ac2c",
             "source": "supercluster",
             "text": "SpaceX Will Launch an International Crew to the ISS",
@@ -10599,10 +10540,10 @@
             "shown": true,
             "type": "launch",
             "target_datetime": "2025-08-01T15:43:00.000Z",
-            "time_remaining": "0d 15h 43m",
-            "fetched_datetime": "2025-07-31T23:59:36.758345Z",
+            "time_remaining": "0d 15h 40m",
+            "fetched_datetime": "2025-08-01T00:02:05.386245Z",
             "shown_at": [
-                "2025-07-31T23:59:37.292573Z"
+                "2025-08-01T00:02:06.115125Z"
             ]
         }
     ]

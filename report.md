@@ -2,17 +2,13 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 3 | 3 | 24 |
 | spacenews | 5 | 11 | 8 | 33 |
+| breaking_defense | 0 | 3 | 3 | 24 |
 | nyt | 0 | 0 | 4 | 24 |
 | supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
-- **May 19, 11:51 AM** - Voyager Technologies files to go public (spacenews)
-- **May 19, 12:05 PM** - China to launch Tianwen-2 asteroid sampling mission on May 28 (spacenews)
-- **May 19, 01:07 PM** - As Washington rethinks broadband strategy, satellite solutions deserve equal consideration (spacenews)
-- **May 19, 01:21 PM** - Sophia Space raises $3.5 million for orbiting data centers (spacenews)
 - **May 19, 01:36 PM** - Commercial radar satellite firm eyes role in U.S. missile defense (spacenews)
 - **May 19, 02:07 PM** - Seraphim picks 10 startups for 15th space accelerator (spacenews)
 - **May 19, 02:41 PM** - Space Force FORGEing ahead with missile warning ground system (breaking_defense)
@@ -28,7 +24,6 @@
 - **May 20, 03:35 AM** - ODNI looking to reform contracting practices: Gabbard (breaking_defense)
 - **May 20, 05:02 AM** - Seraphim picks 10 startups for 15th space accelerator (spacenews)
 - **May 20, 06:02 AM** - SI Imaging Services to offer leasing of high-resolution imaging satellite (spacenews)
-- **May 20, 06:59 AM** - As Washington rethinks broadband strategy, satellite solutions deserve equal consideration (spacenews)
 - **May 20, 09:09 AM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
 - **May 20, 09:23 AM** - ODNI looking to reform contracting practices: Gabbard (breaking_defense)
 - **May 20, 10:07 AM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
@@ -83,7 +78,6 @@
 - **May 21, 04:33 PM** - AI could deliver insights when paired with (the right) humans (spacenews)
 - **May 21, 05:19 PM** - NGA, Space Force ink accord on responsibilities for buying commercial ISR (breaking_defense)
 - **May 21, 06:19 PM** - Space Force FORGEing ahead with missile warning ground system (breaking_defense)
-- **May 21, 06:35 PM** - China to launch Tianwen-2 asteroid sampling mission on May 28 (spacenews)
 - **May 21, 06:49 PM** -  Space Force and NGA move to end turf disputes with new intelligence agreement (spacenews)
 - **May 21, 07:23 PM** - Trump’s Gulf Trip Also Brought Benefits to Elon Musk (nyt)
 - **May 21, 07:37 PM** - Space Force and NGA move to end turf disputes with new intelligence agreement (spacenews)
@@ -106,7 +100,6 @@
 - **May 22, 03:23 AM** - Space Force FORGEing ahead with missile warning ground system (breaking_defense)
 - **May 22, 03:53 AM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
 - **May 22, 04:23 AM** - Building on DoD demos, NOVI plans dual-use imagery constellation (breaking_defense)
-- **May 22, 04:37 AM** - As Washington rethinks broadband strategy, satellite solutions deserve equal consideration (spacenews)
 - **May 22, 04:51 AM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
 - **May 22, 05:19 AM** - Building on DoD demos, NOVI plans dual-use imagery constellation (breaking_defense)
 - **May 22, 06:45 AM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
@@ -121,7 +114,6 @@
 - **May 22, 11:45 AM** - ESA seeks funding for ‘security and resilience’ satellite program (spacenews)
 - **May 22, 11:59 AM** - House narrowly passes reconciliation bill with $150B for defense (breaking_defense)
 - **May 22, 12:27 PM** - Trump’s Gulf Trip Also Brought Benefits to Elon Musk (nyt)
-- **May 22, 12:41 PM** - China to launch Tianwen-2 asteroid sampling mission on May 28 (spacenews)
 - **May 22, 12:55 PM** - House narrowly passes reconciliation bill with $150B for defense (breaking_defense)
 - **May 22, 01:11 PM** - Pentagon boosts budget for Palantir’s AI software in major expansion of Project Maven (spacenews)
 - **May 22, 01:39 PM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
@@ -142,7 +134,6 @@
 - **May 22, 08:32 PM** - Jason Rainbow Appointed Business Intelligence Manager at SpaceNews (spacenews)
 - **May 22, 08:45 PM** - Trump: Golden Dome to cost $175 billion, will be led by Space Force’s Guetlein (breaking_defense)
 - **May 22, 09:13 PM** - Trump’s Gulf Trip Also Brought Benefits to Elon Musk (nyt)
-- **May 22, 09:27 PM** - China to launch Tianwen-2 asteroid sampling mission on May 28 (spacenews)
 - **May 22, 09:41 PM** - Dawn Aerospace begins sales of Aurora suborbital spaceplane (spacenews)
 - **May 22, 10:37 PM** - NASA says long-running budget shortfalls may lead to ISS crew and research reductions (spacenews)
 - **May 22, 10:51 PM** - NGA, Space Force ink accord on responsibilities for buying commercial ISR (breaking_defense)
@@ -164,7 +155,6 @@
 - **May 23, 05:17 AM** - Starfish Space ready to launch docking demonstration mission (spacenews)
 - **May 23, 05:31 AM** - NATO aims to bolster investments in space, intelligence sharing (breaking_defense)
 - **May 23, 05:59 AM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
-- **May 23, 06:13 AM** - Voyager Technologies files to go public (spacenews)
 - **May 23, 06:27 AM** - NATO aims to bolster investments in space, intelligence sharing (breaking_defense)
 - **May 23, 06:57 AM** - Trump’s Gulf Trip Also Brought Benefits to Elon Musk (nyt)
 - **May 23, 07:12 AM** - MDA Space raises SatixFy offer by 43% to counter competing bid (spacenews)
@@ -188,11 +178,9 @@
 - **May 23, 01:47 PM** - Space sponsorship: the next frontier for revenue generation (spacenews)
 - **May 23, 02:02 PM** - ODNI looking to reform contracting practices: Gabbard (breaking_defense)
 - **May 23, 02:32 PM** - There’s Probably No Life on K2-18b After All, Three Studies Conclude (nyt)
-- **May 23, 02:45 PM** - Sophia Space raises $3.5 million for orbiting data centers (spacenews)
 - **May 23, 02:59 PM** - Trump: Golden Dome to cost $175 billion, will be led by Space Force’s Guetlein (breaking_defense)
 - **May 23, 03:28 PM** - Trump’s Gulf Trip Also Brought Benefits to Elon Musk (nyt)
 - **May 23, 03:43 PM** - NGA hopes to award up to 10 Luno commercial analytics task orders this year (breaking_defense)
-- **May 23, 03:57 PM** - China to launch Tianwen-2 asteroid sampling mission on May 28 (spacenews)
 - **May 23, 04:25 PM** - There’s Probably No Life on K2-18b After All, Three Studies Conclude (nyt)
 - **May 23, 04:39 PM** - Space Force FORGEing ahead with missile warning ground system (breaking_defense)
 - **May 23, 04:53 PM** - Commercial radar satellite firm eyes role in U.S. missile defense (spacenews)
@@ -240,7 +228,6 @@
 - **May 24, 07:25 AM** - Ursa, University of Illinois and Palantir win NGA contracts (spacenews)
 - **May 24, 07:39 AM** - Trump: Golden Dome to cost $175 billion, will be led by Space Force’s Guetlein (breaking_defense)
 - **May 24, 07:53 AM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
-- **May 24, 08:23 AM** - Sophia Space raises $3.5 million for orbiting data centers (spacenews)
 - **May 24, 08:37 AM** - NGA, Space Force ink accord on responsibilities for buying commercial ISR (breaking_defense)
 - **May 24, 08:51 AM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
 - **May 24, 09:21 AM** - Ursa, University of Illinois and Palantir win NGA contracts (spacenews)
@@ -273,7 +260,6 @@
 - **May 25, 02:15 PM** - AI could deliver insights when paired with (the right) humans (spacenews)
 - **May 25, 02:29 PM** - ODNI looking to reform contracting practices: Gabbard (breaking_defense)
 - **May 25, 02:57 PM** - Trump’s Gulf Trip Also Brought Benefits to Elon Musk (nyt)
-- **May 25, 03:13 PM** - As Washington rethinks broadband strategy, satellite solutions deserve equal consideration (spacenews)
 - **May 25, 03:27 PM** - Building on DoD demos, NOVI plans dual-use imagery constellation (breaking_defense)
 - **May 25, 03:55 PM** - There’s Probably No Life on K2-18b After All, Three Studies Conclude (nyt)
 - **May 25, 04:09 PM** - Seraphim picks 10 startups for 15th space accelerator (spacenews)
@@ -321,7 +307,6 @@
 - **May 26, 05:27 AM** - Pentagon boosts budget for Palantir’s AI software in major expansion of Project Maven (spacenews)
 - **May 26, 05:41 AM** - AI ‘unchained’: NGA’s Maven tool ‘significantly’ decreasing time to targeting, agency chief says (breaking_defense)
 - **May 26, 06:09 AM** - Trump’s Gulf Trip Also Brought Benefits to Elon Musk (nyt)
-- **May 26, 06:23 AM** - As Washington rethinks broadband strategy, satellite solutions deserve equal consideration (spacenews)
 - **May 26, 06:37 AM** - Building on DoD demos, NOVI plans dual-use imagery constellation (breaking_defense)
 - **May 26, 07:08 AM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
 - **May 26, 07:27 AM** - Senate sets up early June vote on Isaacman nomination to lead NASA (spacenews)
@@ -5052,4 +5037,4 @@
 - **Jul 31, 05:39 PM** - Senate confirms Lohmeier as Air Force No. 2 civilian (breaking_defense)
 - **Jul 31, 06:07 PM** - Canada awards study contracts for lunar utility rover (spacenews)
 - **Jul 31, 06:22 PM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
-- **Jul 31, 11:59 PM** - SpaceX Will Launch an International Crew to the ISS (supercluster)
+- **Aug 01, 12:02 AM** - SpaceX Will Launch an International Crew to the ISS (supercluster)
