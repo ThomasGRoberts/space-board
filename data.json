@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-01T00:02:01.624964+00:00",
-    "trigger_count": 4,
-    "current_item_id": "c5a8096acaf97aa5410b23f295e7ac2c",
+    "trigger_count": 5,
+    "current_item_id": "74f768713c2abae34cbc871cbd847c1a",
     "data": [
         {
             "id": "df1b44dc4ce4b08e5519db2a01ccbf95",
@@ -10533,15 +10533,18 @@
             ]
         },
         {
-            "id": "c5a8096acaf97aa5410b23f295e7ac2c",
+            "id": "74f768713c2abae34cbc871cbd847c1a",
             "source": "supercluster",
-            "text": "SpaceX Will Launch an International Crew to the ISS",
-            "source_link": "https://www.supercluster.com/launches/spacex-crew-11",
-            "shown": false,
+            "text": "Blue Origin Will Launch Crewed Suborbital Flight",
+            "source_link": "https://www.supercluster.com/launches/ns-34",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-08-01T15:43:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-08-01T16:41:40.822364Z"
+            "target_datetime": "2025-08-03T12:30:00.000Z",
+            "time_remaining": "1d 19h 46m",
+            "fetched_datetime": "2025-08-01T16:43:32.183367Z",
+            "shown_at": [
+                "2025-08-01T16:43:32.765937Z"
+            ]
         }
     ]
 }
