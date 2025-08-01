@@ -5,7 +5,7 @@
 | spacenews | 4 | 9 | 7 | 18 |
 | breaking_defense | 1 | 1 | 4 | 10 |
 | nyt | 0 | 0 | 4 | 11 |
-| supercluster | 1 | 1 | 23 | 23 |
+| supercluster | 1 | 1 | 24 | 24 |
 
 # Shown Order
 
@@ -5075,3 +5075,4 @@
 - **Aug 01, 08:18 PM** - It’s more than fuel: Why the Space Force needs in-space servicing, assembly, and manufacturing (breaking_defense)
 - **Aug 01, 08:31 PM** - GSLV launches NASA-ISRO radar satellite (spacenews)
 - **Aug 01, 08:45 PM** - The First Soda in Space: When NASA Got Caught Up in the Cola Wars (nyt)
+- **Aug 01, 08:59 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
