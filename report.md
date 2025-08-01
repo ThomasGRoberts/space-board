@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 10 | 5 | 18 |
 | breaking_defense | 1 | 3 | 1 | 11 |
-| nyt | 0 | 0 | 1 | 9 |
+| nyt | 0 | 0 | 2 | 10 |
 | supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
@@ -5044,3 +5044,4 @@
 - **Aug 01, 05:15 PM** - Senators raise NASA funding concerns in letter to Duffy (spacenews)
 - **Aug 01, 05:29 PM** - It’s time to unlock inland orbital launch for a resilient U.S. space future (spacenews)
 - **Aug 01, 05:43 PM** - Albedo wins NRO Stage 2 imagery contract (spacenews)
+- **Aug 01, 05:57 PM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
