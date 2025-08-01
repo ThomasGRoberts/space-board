@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 11 | 11 | 19 |
-| breaking_defense | 1 | 1 | 6 | 10 |
+| breaking_defense | 1 | 1 | 7 | 11 |
 | nyt | 0 | 0 | 6 | 10 |
 | supercluster | 1 | 1 | 44 | 44 |
 
@@ -5104,3 +5104,4 @@
 - **Aug 01, 11:17 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 01, 11:19 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 01, 11:21 PM** - Canada awards study contracts for lunar utility rover (spacenews)
+- **Aug 01, 11:35 PM** - Here’s the role that space-based interceptors will play in Golden Dome (breaking_defense)
