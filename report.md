@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 10 | 5 | 18 |
 | breaking_defense | 1 | 3 | 2 | 11 |
-| nyt | 0 | 0 | 1 | 10 |
+| nyt | 0 | 0 | 2 | 11 |
 | supercluster | 1 | 1 | 9 | 9 |
 
 # Shown Order
@@ -5054,3 +5054,4 @@
 - **Aug 01, 06:23 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 01, 06:25 PM** - Space Force makes 5 awards for jam-resistant SATCOM (breaking_defense)
 - **Aug 01, 06:39 PM** - ULA tempers expectations for 2025 launch volume amid transition to Vulcan-centric fleet (spacenews)
+- **Aug 01, 06:53 PM** - The First Soda in Space: When NASA Got Caught Up in the Cola Wars (nyt)
