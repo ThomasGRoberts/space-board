@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 10 | 5 | 26 |
 | breaking_defense | 0 | 3 | 1 | 18 |
-| nyt | 0 | 0 | 2 | 18 |
+| nyt | 0 | 0 | 2 | 17 |
 | supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
@@ -5037,4 +5037,4 @@
 - **Jul 31, 05:39 PM** - Senate confirms Lohmeier as Air Force No. 2 civilian (breaking_defense)
 - **Jul 31, 06:07 PM** - Canada awards study contracts for lunar utility rover (spacenews)
 - **Jul 31, 06:22 PM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
-- **Aug 01, 06:59 AM** - SpaceX Will Launch an International Crew to the ISS (supercluster)
+- **Aug 01, 07:02 AM** - SpaceX Will Launch an International Crew to the ISS (supercluster)
