@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-01T00:02:01.624964+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9c0c1b2f4a6ec3bea50cf85f93a7689c",
+    "trigger_count": 0,
+    "current_item_id": "532dc7ea901d9ab703d10ad07842c632",
     "data": [
         {
             "id": "df1b44dc4ce4b08e5519db2a01ccbf95",
@@ -10558,6 +10558,45 @@
             "shown_at": [
                 "2025-08-01T16:47:22.448599Z"
             ]
+        },
+        {
+            "id": "532dc7ea901d9ab703d10ad07842c632",
+            "source": "spacenews",
+            "text": "Crew-11 launches to ISS",
+            "source_link": "https://spacenews.com/crew-11-launches-to-iss/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-01T17:01:56.553543Z",
+            "shown_at": [
+                "2025-08-01T17:01:57.121582Z"
+            ]
+        },
+        {
+            "id": "6f54e6ecbe97b009a14506966cb842dd",
+            "source": "spacenews",
+            "text": "Senators raise NASA funding concerns in letter to Duffy",
+            "source_link": "https://spacenews.com/senators-raise-nasa-funding-concerns-in-letter-to-duffy/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-08-01T17:01:56.553621Z"
+        },
+        {
+            "id": "f80d066224f089dffb58bc0c11c68d50",
+            "source": "spacenews",
+            "text": "It’s time to unlock inland orbital launch for a resilient U.S. space future",
+            "source_link": "https://spacenews.com/its-time-to-unlock-inland-orbital-launch-for-a-resilient-u-s-space-future/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-08-01T17:01:56.553669Z"
+        },
+        {
+            "id": "303b016d70ca32a90971d6a66de21d24",
+            "source": "spacenews",
+            "text": "Albedo wins NRO Stage 2 imagery contract",
+            "source_link": "https://spacenews.com/albedo-wins-nro-stage-2-imagery-contract/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-08-01T17:01:56.553710Z"
         }
     ]
 }
