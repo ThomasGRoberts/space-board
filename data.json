@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-01T00:02:01.624964+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b16fa0f0f4c0ab58076cd21484571139",
+    "trigger_count": 0,
+    "current_item_id": "7548bf2bcb00c14f96e83f36929e5a17",
     "data": [
         {
             "id": "df1b44dc4ce4b08e5519db2a01ccbf95",
@@ -10645,6 +10645,18 @@
             "fetched_datetime": "2025-08-01T17:01:56.553710Z",
             "shown_at": [
                 "2025-08-01T17:43:55.960522Z"
+            ]
+        },
+        {
+            "id": "7548bf2bcb00c14f96e83f36929e5a17",
+            "source": "spacenews",
+            "text": "EchoStar orders initial MDA satellites for $5 billion LEO constellation",
+            "source_link": "https://spacenews.com/echostar-orders-initial-mda-satellites-for-5-billion-leo-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-01T21:41:43.737492Z",
+            "shown_at": [
+                "2025-08-01T21:41:45.087667Z"
             ]
         }
     ]

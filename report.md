@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 9 | 8 | 18 |
+| spacenews | 5 | 10 | 9 | 19 |
 | breaking_defense | 1 | 1 | 5 | 11 |
 | nyt | 0 | 0 | 4 | 10 |
 | supercluster | 1 | 1 | 30 | 30 |
@@ -5084,3 +5084,4 @@
 - **Aug 01, 09:11 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 01, 09:13 PM** - It’s more than fuel: Why the Space Force needs in-space servicing, assembly, and manufacturing (breaking_defense)
 - **Aug 01, 09:27 PM** - Space Force selects five firms for ‘Protected Tactical Satcom’ design contracts (spacenews)
+- **Aug 01, 09:41 PM** - EchoStar orders initial MDA satellites for $5 billion LEO constellation (spacenews)
