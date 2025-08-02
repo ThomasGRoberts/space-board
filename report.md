@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 10 | 14 | 19 |
-| breaking_defense | 1 | 1 | 9 | 10 |
+| breaking_defense | 1 | 1 | 10 | 11 |
 | supercluster | 1 | 1 | 65 | 65 |
 | nyt | 0 | 0 | 9 | 11 |
 
@@ -5074,3 +5074,4 @@
 - **Aug 02, 02:05 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 02, 02:07 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 02, 02:09 AM** - Head of NOAA satellite office placed on administrative leave (spacenews)
+- **Aug 02, 02:23 AM** - Space Force makes 5 awards for jam-resistant SATCOM (breaking_defense)
