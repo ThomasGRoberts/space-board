@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 10 | 17 | 22 |
 | breaking_defense | 1 | 1 | 13 | 14 |
-| supercluster | 1 | 1 | 88 | 88 |
+| supercluster | 1 | 1 | 89 | 89 |
 | nyt | 0 | 0 | 13 | 15 |
 
 # Shown Order
@@ -5108,3 +5108,4 @@
 - **Aug 02, 05:25 AM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
 - **Aug 02, 05:39 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 02, 05:41 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Aug 02, 05:43 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
