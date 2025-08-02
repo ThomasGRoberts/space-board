@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 7 | 27 | 33 |
 | breaking_defense | 0 | 1 | 25 | 28 |
-| supercluster | 0 | 1 | 171 | 192 |
+| supercluster | 0 | 1 | 171 | 193 |
 | nyt | 0 | 0 | 25 | 28 |
 
 # Shown Order
@@ -5258,3 +5258,4 @@
 - **Aug 02, 07:43 PM** - Next X-37B mission to carry quantum sensor, laser link experiments (breaking_defense)
 - **Aug 02, 07:57 PM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
 - **Aug 02, 08:11 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Aug 02, 08:13 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
