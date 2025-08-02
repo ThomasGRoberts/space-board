@@ -5,7 +5,7 @@
 | spacenews | 3 | 7 | 27 | 33 |
 | breaking_defense | 0 | 1 | 25 | 28 |
 | supercluster | 0 | 1 | 175 | 191 |
-| nyt | 0 | 0 | 24 | 27 |
+| nyt | 0 | 0 | 25 | 28 |
 
 # Shown Order
 
@@ -5256,3 +5256,4 @@
 - **Aug 02, 07:15 PM** - Firefly Aerospace wins fourth lunar lander award (spacenews)
 - **Aug 02, 07:29 PM** - Why industry says Golden Dome’s biggest challenge isn’t missiles, it’s data flow (spacenews)
 - **Aug 02, 07:43 PM** - Next X-37B mission to carry quantum sensor, laser link experiments (breaking_defense)
+- **Aug 02, 07:57 PM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
