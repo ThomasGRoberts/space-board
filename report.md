@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 10 | 22 | 27 |
+| spacenews | 6 | 10 | 23 | 28 |
 | breaking_defense | 1 | 1 | 18 | 19 |
 | supercluster | 1 | 1 | 128 | 128 |
 | nyt | 0 | 0 | 18 | 20 |
@@ -5163,3 +5163,4 @@
 - **Aug 02, 10:33 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 02, 10:35 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 02, 10:37 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Aug 02, 10:39 AM** - U.S. military X-37B spaceplane prepares for eighth mission  (spacenews)
