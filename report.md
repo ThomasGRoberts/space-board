@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 10 | 28 | 33 |
 | breaking_defense | 1 | 1 | 24 | 25 |
-| supercluster | 1 | 1 | 163 | 163 |
+| supercluster | 1 | 1 | 164 | 164 |
 | nyt | 0 | 0 | 24 | 26 |
 
 # Shown Order
@@ -5216,3 +5216,4 @@
 - **Aug 02, 03:27 PM** - Air leak persists on Russian ISS segment (spacenews)
 - **Aug 02, 03:41 PM** - Draft Trump EO would loosen commercial space regs, citing national security links (breaking_defense)
 - **Aug 02, 03:55 PM** - The First Soda in Space: When NASA Got Caught Up in the Cola Wars (nyt)
+- **Aug 02, 04:09 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
