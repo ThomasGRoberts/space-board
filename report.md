@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 10 | 17 | 22 |
 | breaking_defense | 1 | 1 | 13 | 14 |
-| supercluster | 1 | 1 | 86 | 86 |
+| supercluster | 1 | 1 | 87 | 87 |
 | nyt | 0 | 0 | 13 | 15 |
 
 # Shown Order
@@ -5106,3 +5106,4 @@
 - **Aug 02, 04:57 AM** - Nearly 4,000 NASA employees opt for voluntary buyouts (spacenews)
 - **Aug 02, 05:11 AM** - Space Force makes 5 awards for jam-resistant SATCOM (breaking_defense)
 - **Aug 02, 05:25 AM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
+- **Aug 02, 05:39 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
