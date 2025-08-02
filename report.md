@@ -5,7 +5,7 @@
 | spacenews | 6 | 10 | 23 | 28 |
 | breaking_defense | 1 | 1 | 19 | 20 |
 | supercluster | 1 | 1 | 128 | 128 |
-| nyt | 0 | 0 | 18 | 20 |
+| nyt | 0 | 0 | 19 | 21 |
 
 # Shown Order
 
@@ -5165,3 +5165,4 @@
 - **Aug 02, 10:37 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 02, 10:39 AM** - U.S. military X-37B spaceplane prepares for eighth mission  (spacenews)
 - **Aug 02, 10:53 AM** - It’s more than fuel: Why the Space Force needs in-space servicing, assembly, and manufacturing (breaking_defense)
+- **Aug 02, 11:07 AM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
