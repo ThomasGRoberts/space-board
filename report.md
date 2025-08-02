@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 10 | 19 | 24 |
 | breaking_defense | 1 | 1 | 15 | 16 |
-| supercluster | 1 | 1 | 100 | 100 |
+| supercluster | 1 | 1 | 101 | 101 |
 | nyt | 0 | 0 | 15 | 17 |
 
 # Shown Order
@@ -5126,3 +5126,4 @@
 - **Aug 02, 06:51 AM** - NASA pauses acquisition of lunar communications ground stations (spacenews)
 - **Aug 02, 07:07 AM** - Next X-37B mission to carry quantum sensor, laser link experiments (breaking_defense)
 - **Aug 02, 07:21 AM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
+- **Aug 02, 07:35 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
