@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 10 | 12 | 18 |
 | breaking_defense | 1 | 1 | 8 | 10 |
-| supercluster | 1 | 1 | 51 | 51 |
+| supercluster | 1 | 1 | 52 | 52 |
 | nyt | 0 | 0 | 8 | 11 |
 
 # Shown Order
@@ -5056,3 +5056,4 @@
 - **Aug 02, 12:17 AM** - Frontgrade’s New Radiation-Tolerant, Scalable SpaceStor 4TB MMU Joins MAMBA Modular Space Systems Lineup (spacenews)
 - **Aug 02, 12:31 AM** - Here’s the role that space-based interceptors will play in Golden Dome (breaking_defense)
 - **Aug 02, 12:45 AM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
+- **Aug 02, 12:59 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
