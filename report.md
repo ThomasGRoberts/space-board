@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 10 | 26 | 31 |
+| spacenews | 6 | 10 | 27 | 32 |
 | breaking_defense | 1 | 1 | 22 | 23 |
 | supercluster | 1 | 1 | 156 | 156 |
 | nyt | 0 | 0 | 22 | 24 |
@@ -5203,3 +5203,4 @@
 - **Aug 02, 02:25 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 02, 02:27 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 02, 02:29 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Aug 02, 02:32 PM** - Qwaltec joins Leanspace Partner Ecosystem to Deliver Next-Gen Spacecraft Operations Solutions for the US Market (spacenews)
