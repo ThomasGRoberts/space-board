@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 10 | 27 | 32 |
 | breaking_defense | 1 | 1 | 23 | 24 |
-| supercluster | 1 | 1 | 157 | 157 |
+| supercluster | 1 | 1 | 158 | 158 |
 | nyt | 0 | 0 | 23 | 25 |
 
 # Shown Order
@@ -5207,3 +5207,4 @@
 - **Aug 02, 02:45 PM** - Draft Trump EO would loosen commercial space regs, citing national security links (breaking_defense)
 - **Aug 02, 02:59 PM** - The First Soda in Space: When NASA Got Caught Up in the Cola Wars (nyt)
 - **Aug 02, 03:13 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Aug 02, 03:15 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
