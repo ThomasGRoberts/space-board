@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 10 | 21 | 26 |
+| spacenews | 6 | 10 | 22 | 27 |
 | breaking_defense | 1 | 1 | 17 | 18 |
 | supercluster | 1 | 1 | 121 | 121 |
 | nyt | 0 | 0 | 17 | 19 |
@@ -5153,3 +5153,4 @@
 - **Aug 02, 09:37 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 02, 09:40 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 02, 09:41 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Aug 02, 09:43 AM** - SmallSat heads to Salt Lake City as audience expands (spacenews)
