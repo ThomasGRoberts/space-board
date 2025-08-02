@@ -5,7 +5,7 @@
 | spacenews | 6 | 10 | 27 | 32 |
 | breaking_defense | 1 | 1 | 23 | 24 |
 | supercluster | 1 | 1 | 156 | 156 |
-| nyt | 0 | 0 | 22 | 24 |
+| nyt | 0 | 0 | 23 | 25 |
 
 # Shown Order
 
@@ -5205,3 +5205,4 @@
 - **Aug 02, 02:29 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 02, 02:32 PM** - Qwaltec joins Leanspace Partner Ecosystem to Deliver Next-Gen Spacecraft Operations Solutions for the US Market (spacenews)
 - **Aug 02, 02:45 PM** - Draft Trump EO would loosen commercial space regs, citing national security links (breaking_defense)
+- **Aug 02, 02:59 PM** - The First Soda in Space: When NASA Got Caught Up in the Cola Wars (nyt)
