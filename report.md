@@ -5,7 +5,7 @@
 | spacenews | 6 | 10 | 16 | 21 |
 | breaking_defense | 1 | 1 | 12 | 13 |
 | supercluster | 1 | 1 | 79 | 79 |
-| nyt | 0 | 0 | 11 | 13 |
+| nyt | 0 | 0 | 12 | 14 |
 
 # Shown Order
 
@@ -5095,3 +5095,4 @@
 - **Aug 02, 03:59 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 02, 04:02 AM** - KSAT and AWS expand alliance in satellite communications (spacenews)
 - **Aug 02, 04:15 AM** - Draft Trump EO would loosen commercial space regs, citing national security links (breaking_defense)
+- **Aug 02, 04:29 AM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
