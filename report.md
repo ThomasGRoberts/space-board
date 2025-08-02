@@ -5,7 +5,7 @@
 | spacenews | 6 | 10 | 15 | 20 |
 | breaking_defense | 1 | 1 | 11 | 12 |
 | supercluster | 1 | 1 | 72 | 72 |
-| nyt | 0 | 0 | 10 | 12 |
+| nyt | 0 | 0 | 11 | 13 |
 
 # Shown Order
 
@@ -5085,3 +5085,4 @@
 - **Aug 02, 03:03 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 02, 03:05 AM** - Roscosmos celebrates meeting of agency leaders that NASA ignored (spacenews)
 - **Aug 02, 03:19 AM** - Space Force makes 5 awards for jam-resistant SATCOM (breaking_defense)
+- **Aug 02, 03:33 AM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
