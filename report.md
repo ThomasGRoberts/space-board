@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 10 | 18 | 23 |
 | breaking_defense | 1 | 1 | 14 | 15 |
-| supercluster | 1 | 1 | 93 | 93 |
+| supercluster | 1 | 1 | 94 | 94 |
 | nyt | 0 | 0 | 14 | 16 |
 
 # Shown Order
@@ -5116,3 +5116,4 @@
 - **Aug 02, 05:53 AM** - Frontgrade Launches Compact, Intelligent Power Supply for VNX+ Systems in Aerospace, Defense, and Space (spacenews)
 - **Aug 02, 06:07 AM** - It’s more than fuel: Why the Space Force needs in-space servicing, assembly, and manufacturing (breaking_defense)
 - **Aug 02, 06:21 AM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
+- **Aug 02, 06:37 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
