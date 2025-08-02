@@ -5,7 +5,7 @@
 | spacenews | 3 | 7 | 27 | 34 |
 | breaking_defense | 0 | 1 | 25 | 29 |
 | supercluster | 0 | 1 | 175 | 198 |
-| nyt | 0 | 0 | 24 | 28 |
+| nyt | 0 | 0 | 25 | 29 |
 
 # Shown Order
 
@@ -5266,3 +5266,4 @@
 - **Aug 02, 08:25 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 02, 08:27 PM** - Moog Presents Space Computing Advancements to Enable Next-Generation Missions at Small Satellite Conference (spacenews)
 - **Aug 02, 08:41 PM** - Space Force makes 5 awards for jam-resistant SATCOM (breaking_defense)
+- **Aug 02, 08:55 PM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
