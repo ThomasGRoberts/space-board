@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 10 | 12 | 18 |
+| spacenews | 6 | 10 | 13 | 19 |
 | breaking_defense | 1 | 1 | 8 | 10 |
 | supercluster | 1 | 1 | 58 | 58 |
 | nyt | 0 | 0 | 8 | 11 |
@@ -5063,3 +5063,4 @@
 - **Aug 02, 01:07 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 02, 01:09 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 02, 01:11 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Aug 02, 01:13 AM** - ULA tempers expectations for 2025 launch volume amid transition to Vulcan-centric fleet (spacenews)
