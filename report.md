@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 7 | 27 | 33 |
+| spacenews | 3 | 7 | 28 | 34 |
 | breaking_defense | 0 | 1 | 24 | 28 |
 | supercluster | 0 | 1 | 175 | 198 |
 | nyt | 0 | 0 | 25 | 28 |
@@ -5264,3 +5264,4 @@
 - **Aug 02, 08:21 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 02, 08:23 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 02, 08:25 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Aug 02, 08:27 PM** - Moog Presents Space Computing Advancements to Enable Next-Generation Missions at Small Satellite Conference (spacenews)
