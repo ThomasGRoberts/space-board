@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 10 | 21 | 26 |
-| breaking_defense | 1 | 1 | 16 | 17 |
+| breaking_defense | 1 | 1 | 17 | 18 |
 | supercluster | 1 | 1 | 114 | 114 |
 | nyt | 0 | 0 | 16 | 18 |
 
@@ -5144,3 +5144,4 @@
 - **Aug 02, 08:41 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 02, 08:43 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 02, 08:45 AM** - Crew-11 launches to ISS (spacenews)
+- **Aug 02, 08:59 AM** - It’s more than fuel: Why the Space Force needs in-space servicing, assembly, and manufacturing (breaking_defense)
