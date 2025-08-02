@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-02T00:02:06.466949+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3a17aced4e046d7c6d4f2894aba1639b",
+    "trigger_count": 0,
+    "current_item_id": "34650f98dde38109a471d015085ac810",
     "data": [
         {
             "id": "5ad0965ef127fa491ec3d136a67bdd53",
@@ -10749,6 +10749,18 @@
                 "2025-05-25T22:59:26.652332Z",
                 "2025-05-26T16:43:37.088735Z",
                 "2025-05-26T18:41:47.431458Z"
+            ]
+        },
+        {
+            "id": "34650f98dde38109a471d015085ac810",
+            "source": "spacenews",
+            "text": "Why industry says Golden Dome’s biggest challenge isn’t missiles, it’s data flow",
+            "source_link": "https://spacenews.com/why-industry-says-golden-domes-biggest-challenge-isnt-missiles-its-data-flow/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-02T19:29:13.726427Z",
+            "shown_at": [
+                "2025-08-02T19:29:14.292619Z"
             ]
         }
     ]

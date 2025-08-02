@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 6 | 27 | 32 |
+| spacenews | 3 | 7 | 28 | 33 |
 | breaking_defense | 0 | 1 | 24 | 27 |
 | supercluster | 0 | 1 | 175 | 191 |
 | nyt | 0 | 0 | 25 | 27 |
@@ -5254,3 +5254,4 @@
 - **Aug 02, 07:11 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 02, 07:13 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 02, 07:15 PM** - Firefly Aerospace wins fourth lunar lander award (spacenews)
+- **Aug 02, 07:29 PM** - Why industry says Golden Dome’s biggest challenge isn’t missiles, it’s data flow (spacenews)
