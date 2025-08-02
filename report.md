@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 10 | 19 | 24 |
-| breaking_defense | 1 | 1 | 14 | 15 |
+| breaking_defense | 1 | 1 | 15 | 16 |
 | supercluster | 1 | 1 | 100 | 100 |
 | nyt | 0 | 0 | 14 | 16 |
 
@@ -5124,3 +5124,4 @@
 - **Aug 02, 06:47 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 02, 06:49 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 02, 06:51 AM** - NASA pauses acquisition of lunar communications ground stations (spacenews)
+- **Aug 02, 07:07 AM** - Next X-37B mission to carry quantum sensor, laser link experiments (breaking_defense)
