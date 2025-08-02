@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 10 | 15 | 20 |
+| spacenews | 6 | 10 | 16 | 21 |
 | breaking_defense | 1 | 1 | 11 | 12 |
 | supercluster | 1 | 1 | 79 | 79 |
 | nyt | 0 | 0 | 11 | 13 |
@@ -5093,3 +5093,4 @@
 - **Aug 02, 03:55 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 02, 03:57 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 02, 03:59 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Aug 02, 04:02 AM** - KSAT and AWS expand alliance in satellite communications (spacenews)
