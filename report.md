@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 11 | 12 | 19 |
-| breaking_defense | 1 | 1 | 7 | 10 |
+| breaking_defense | 1 | 1 | 8 | 11 |
 | supercluster | 1 | 1 | 51 | 51 |
 | nyt | 0 | 0 | 7 | 10 |
 
@@ -5054,3 +5054,4 @@
 - **Aug 02, 12:13 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 02, 12:15 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 02, 12:17 AM** - Frontgrade’s New Radiation-Tolerant, Scalable SpaceStor 4TB MMU Joins MAMBA Modular Space Systems Lineup (spacenews)
+- **Aug 02, 12:31 AM** - Here’s the role that space-based interceptors will play in Golden Dome (breaking_defense)
