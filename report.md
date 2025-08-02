@@ -5,7 +5,7 @@
 | spacenews | 6 | 10 | 13 | 19 |
 | breaking_defense | 1 | 1 | 9 | 10 |
 | supercluster | 1 | 1 | 58 | 58 |
-| nyt | 0 | 0 | 8 | 10 |
+| nyt | 0 | 0 | 9 | 11 |
 
 # Shown Order
 
@@ -5065,3 +5065,4 @@
 - **Aug 02, 01:11 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 02, 01:13 AM** - ULA tempers expectations for 2025 launch volume amid transition to Vulcan-centric fleet (spacenews)
 - **Aug 02, 01:27 AM** - Next X-37B mission to carry quantum sensor, laser link experiments (breaking_defense)
+- **Aug 02, 01:41 AM** - The First Soda in Space: When NASA Got Caught Up in the Cola Wars (nyt)
