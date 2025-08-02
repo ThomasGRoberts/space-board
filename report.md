@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 10 | 18 | 23 |
-| breaking_defense | 1 | 1 | 13 | 14 |
+| breaking_defense | 1 | 1 | 14 | 15 |
 | supercluster | 1 | 1 | 93 | 93 |
 | nyt | 0 | 0 | 13 | 15 |
 
@@ -5114,3 +5114,4 @@
 - **Aug 02, 05:49 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 02, 05:51 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 02, 05:53 AM** - Frontgrade Launches Compact, Intelligent Power Supply for VNX+ Systems in Aerospace, Defense, and Space (spacenews)
+- **Aug 02, 06:07 AM** - It’s more than fuel: Why the Space Force needs in-space servicing, assembly, and manufacturing (breaking_defense)
