@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 6 | 26 | 31 |
 | breaking_defense | 0 | 1 | 25 | 26 |
-| supercluster | 0 | 1 | 175 | 177 |
+| supercluster | 0 | 1 | 176 | 178 |
 | nyt | 0 | 0 | 25 | 27 |
 
 # Shown Order
@@ -5236,3 +5236,4 @@
 - **Aug 02, 05:19 PM** - Frontgrade Unveils SBC-2A72 with 32GB NAND to Enable High-Performance Edge Computing in Air and Space Platforms (spacenews)
 - **Aug 02, 05:33 PM** - Draft Trump EO would loosen commercial space regs, citing national security links (breaking_defense)
 - **Aug 02, 05:47 PM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
+- **Aug 02, 06:02 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
