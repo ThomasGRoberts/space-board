@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 7 | 26 | 35 |
 | breaking_defense | 0 | 1 | 25 | 30 |
-| supercluster | 0 | 1 | 175 | 205 |
+| supercluster | 0 | 1 | 176 | 206 |
 | nyt | 0 | 0 | 25 | 30 |
 
 # Shown Order
@@ -5277,3 +5277,4 @@
 - **Aug 02, 09:23 PM** - Slingshot unveils AI agent for Space Force training (spacenews)
 - **Aug 02, 09:37 PM** - Next X-37B mission to carry quantum sensor, laser link experiments (breaking_defense)
 - **Aug 02, 09:51 PM** - The First Soda in Space: When NASA Got Caught Up in the Cola Wars (nyt)
+- **Aug 02, 10:05 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
