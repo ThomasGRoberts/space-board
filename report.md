@@ -5,7 +5,7 @@
 | spacenews | 6 | 10 | 20 | 25 |
 | breaking_defense | 1 | 1 | 16 | 17 |
 | supercluster | 1 | 1 | 107 | 107 |
-| nyt | 0 | 0 | 15 | 17 |
+| nyt | 0 | 0 | 16 | 18 |
 
 # Shown Order
 
@@ -5135,3 +5135,4 @@
 - **Aug 02, 07:47 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 02, 07:49 AM** - Space Force selects five firms for ‘Protected Tactical Satcom’ design contracts (spacenews)
 - **Aug 02, 08:03 AM** - Next X-37B mission to carry quantum sensor, laser link experiments (breaking_defense)
+- **Aug 02, 08:17 AM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
