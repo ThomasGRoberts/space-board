@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 7 | 27 | 33 |
-| breaking_defense | 0 | 1 | 24 | 27 |
+| breaking_defense | 0 | 1 | 25 | 28 |
 | supercluster | 0 | 1 | 175 | 191 |
 | nyt | 0 | 0 | 25 | 27 |
 
@@ -5255,3 +5255,4 @@
 - **Aug 02, 07:13 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 02, 07:15 PM** - Firefly Aerospace wins fourth lunar lander award (spacenews)
 - **Aug 02, 07:29 PM** - Why industry says Golden Dome’s biggest challenge isn’t missiles, it’s data flow (spacenews)
+- **Aug 02, 07:43 PM** - Next X-37B mission to carry quantum sensor, laser link experiments (breaking_defense)
