@@ -5,7 +5,7 @@
 | spacenews | 6 | 10 | 22 | 27 |
 | breaking_defense | 1 | 1 | 18 | 19 |
 | supercluster | 1 | 1 | 121 | 121 |
-| nyt | 0 | 0 | 17 | 19 |
+| nyt | 0 | 0 | 18 | 20 |
 
 # Shown Order
 
@@ -5155,3 +5155,4 @@
 - **Aug 02, 09:41 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 02, 09:43 AM** - SmallSat heads to Salt Lake City as audience expands (spacenews)
 - **Aug 02, 09:57 AM** - It’s more than fuel: Why the Space Force needs in-space servicing, assembly, and manufacturing (breaking_defense)
+- **Aug 02, 10:11 AM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
