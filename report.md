@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 7 | 27 | 34 |
-| breaking_defense | 0 | 1 | 25 | 29 |
-| supercluster | 0 | 1 | 171 | 200 |
+| breaking_defense | 0 | 1 | 24 | 29 |
+| supercluster | 0 | 1 | 171 | 201 |
 | nyt | 0 | 0 | 25 | 29 |
 
 # Shown Order
@@ -5269,3 +5269,4 @@
 - **Aug 02, 08:55 PM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
 - **Aug 02, 09:09 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 02, 09:11 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Aug 02, 09:13 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
