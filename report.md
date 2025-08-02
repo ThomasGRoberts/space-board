@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 10 | 16 | 21 |
 | breaking_defense | 1 | 1 | 12 | 13 |
-| supercluster | 1 | 1 | 80 | 80 |
+| supercluster | 1 | 1 | 81 | 81 |
 | nyt | 0 | 0 | 12 | 14 |
 
 # Shown Order
@@ -5097,3 +5097,4 @@
 - **Aug 02, 04:15 AM** - Draft Trump EO would loosen commercial space regs, citing national security links (breaking_defense)
 - **Aug 02, 04:29 AM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
 - **Aug 02, 04:43 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Aug 02, 04:45 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
