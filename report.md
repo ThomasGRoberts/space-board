@@ -5,7 +5,7 @@
 | spacenews | 6 | 10 | 14 | 19 |
 | breaking_defense | 1 | 1 | 10 | 11 |
 | supercluster | 1 | 1 | 65 | 65 |
-| nyt | 0 | 0 | 9 | 11 |
+| nyt | 0 | 0 | 10 | 12 |
 
 # Shown Order
 
@@ -5075,3 +5075,4 @@
 - **Aug 02, 02:07 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 02, 02:09 AM** - Head of NOAA satellite office placed on administrative leave (spacenews)
 - **Aug 02, 02:23 AM** - Space Force makes 5 awards for jam-resistant SATCOM (breaking_defense)
+- **Aug 02, 02:37 AM** - The First Soda in Space: When NASA Got Caught Up in the Cola Wars (nyt)
