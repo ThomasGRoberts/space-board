@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 7 | 27 | 34 |
+| spacenews | 3 | 7 | 28 | 35 |
 | breaking_defense | 0 | 1 | 24 | 29 |
 | supercluster | 0 | 1 | 175 | 205 |
 | nyt | 0 | 0 | 25 | 29 |
@@ -5274,3 +5274,4 @@
 - **Aug 02, 09:17 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 02, 09:19 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 02, 09:21 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Aug 02, 09:23 PM** - Slingshot unveils AI agent for Space Force training (spacenews)
