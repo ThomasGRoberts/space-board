@@ -5,7 +5,7 @@
 | spacenews | 6 | 10 | 25 | 30 |
 | breaking_defense | 1 | 1 | 21 | 22 |
 | supercluster | 1 | 1 | 142 | 142 |
-| nyt | 0 | 0 | 20 | 22 |
+| nyt | 0 | 0 | 21 | 23 |
 
 # Shown Order
 
@@ -5185,3 +5185,4 @@
 - **Aug 02, 12:35 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 02, 12:37 PM** - Crew-11 launches to ISS (spacenews)
 - **Aug 02, 12:53 PM** - Draft Trump EO would loosen commercial space regs, citing national security links (breaking_defense)
+- **Aug 02, 01:07 PM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
