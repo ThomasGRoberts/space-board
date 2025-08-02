@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 10 | 28 | 33 |
+| spacenews | 6 | 10 | 29 | 34 |
 | breaking_defense | 1 | 1 | 24 | 25 |
 | supercluster | 1 | 1 | 170 | 170 |
 | nyt | 0 | 0 | 24 | 26 |
@@ -5223,3 +5223,4 @@
 - **Aug 02, 04:17 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 02, 04:19 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 02, 04:21 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Aug 02, 04:23 PM** - Nearly 4,000 NASA employees opt for voluntary buyouts (spacenews)
