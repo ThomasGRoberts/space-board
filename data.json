@@ -1,9 +1,150 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-08-01T00:02:01.624964+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2025-08-02T00:02:06.466949+00:00",
+    "trigger_count": 6,
     "current_item_id": "aced2f4f10e8c9e1faee675e0935519c",
     "data": [
+        {
+            "id": "5ad0965ef127fa491ec3d136a67bdd53",
+            "source": "spacenews",
+            "text": "Roscosmos celebrates meeting of agency leaders that NASA ignored",
+            "source_link": "https://spacenews.com/roscosmos-celebrates-meeting-of-agency-leaders-that-nasa-ignored/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-01T22:23:47.711358Z",
+            "shown_at": [
+                "2025-08-01T22:23:48.673902Z"
+            ]
+        },
+        {
+            "id": "7548bf2bcb00c14f96e83f36929e5a17",
+            "source": "spacenews",
+            "text": "EchoStar orders initial MDA satellites for $5 billion LEO constellation",
+            "source_link": "https://spacenews.com/echostar-orders-initial-mda-satellites-for-5-billion-leo-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-01T21:41:43.737492Z",
+            "shown_at": [
+                "2025-08-01T21:41:45.087667Z"
+            ]
+        },
+        {
+            "id": "303b016d70ca32a90971d6a66de21d24",
+            "source": "spacenews",
+            "text": "Albedo wins NRO Stage 2 imagery contract",
+            "source_link": "https://spacenews.com/albedo-wins-nro-stage-2-imagery-contract/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-01T17:01:56.553710Z",
+            "shown_at": [
+                "2025-08-01T17:43:55.960522Z"
+            ]
+        },
+        {
+            "id": "f80d066224f089dffb58bc0c11c68d50",
+            "source": "spacenews",
+            "text": "It’s time to unlock inland orbital launch for a resilient U.S. space future",
+            "source_link": "https://spacenews.com/its-time-to-unlock-inland-orbital-launch-for-a-resilient-u-s-space-future/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-01T17:01:56.553669Z",
+            "shown_at": [
+                "2025-08-01T17:29:37.562398Z"
+            ]
+        },
+        {
+            "id": "6f54e6ecbe97b009a14506966cb842dd",
+            "source": "spacenews",
+            "text": "Senators raise NASA funding concerns in letter to Duffy",
+            "source_link": "https://spacenews.com/senators-raise-nasa-funding-concerns-in-letter-to-duffy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-01T17:01:56.553621Z",
+            "shown_at": [
+                "2025-08-01T17:15:59.521357Z"
+            ]
+        },
+        {
+            "id": "532dc7ea901d9ab703d10ad07842c632",
+            "source": "spacenews",
+            "text": "Crew-11 launches to ISS",
+            "source_link": "https://spacenews.com/crew-11-launches-to-iss/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-01T17:01:56.553543Z",
+            "shown_at": [
+                "2025-08-01T17:01:57.121582Z"
+            ]
+        },
+        {
+            "id": "9c0c1b2f4a6ec3bea50cf85f93a7689c",
+            "source": "breaking_defense",
+            "text": "Draft Trump EO would loosen commercial space regs, citing national security links",
+            "source_link": "https://breakingdefense.com/2025/08/draft-trump-eo-loosens-commercial-space-regs-citing-national-security-links/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-01T16:47:21.830040Z",
+            "shown_at": [
+                "2025-08-01T16:47:22.448599Z"
+            ]
+        },
+        {
+            "id": "74f768713c2abae34cbc871cbd847c1a",
+            "source": "supercluster",
+            "text": "Blue Origin Will Launch Crewed Suborbital Flight",
+            "source_link": "https://www.supercluster.com/launches/ns-34",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-08-03T12:30:00.000Z",
+            "time_remaining": "1d 13h 10m",
+            "fetched_datetime": "2025-08-01T16:43:32.183367Z",
+            "shown_at": [
+                "2025-08-01T16:43:32.765937Z",
+                "2025-08-01T16:45:28.108111Z",
+                "2025-08-01T18:11:16.589173Z",
+                "2025-08-01T18:13:42.276787Z",
+                "2025-08-01T18:15:48.631586Z",
+                "2025-08-01T18:17:31.631490Z",
+                "2025-08-01T18:19:38.633585Z",
+                "2025-08-01T18:21:46.388589Z",
+                "2025-08-01T18:23:42.718927Z",
+                "2025-08-01T19:07:33.920095Z",
+                "2025-08-01T19:09:46.384430Z",
+                "2025-08-01T19:11:50.114554Z",
+                "2025-08-01T19:13:46.067779Z",
+                "2025-08-01T19:15:40.770045Z",
+                "2025-08-01T19:17:30.859184Z",
+                "2025-08-01T19:20:00.344045Z",
+                "2025-08-01T20:03:32.720652Z",
+                "2025-08-01T20:05:46.059775Z",
+                "2025-08-01T20:07:45.365993Z",
+                "2025-08-01T20:09:42.593774Z",
+                "2025-08-01T20:11:35.786181Z",
+                "2025-08-01T20:13:34.286461Z",
+                "2025-08-01T20:15:32.034207Z",
+                "2025-08-01T20:59:26.336183Z",
+                "2025-08-01T21:01:50.543658Z",
+                "2025-08-01T21:03:29.107530Z",
+                "2025-08-01T21:05:46.620912Z",
+                "2025-08-01T21:07:36.543872Z",
+                "2025-08-01T21:09:43.538691Z",
+                "2025-08-01T21:11:49.688789Z",
+                "2025-08-01T22:09:29.745076Z",
+                "2025-08-01T22:11:53.210918Z",
+                "2025-08-01T22:13:37.534922Z",
+                "2025-08-01T22:15:33.093461Z",
+                "2025-08-01T22:17:26.346125Z",
+                "2025-08-01T22:19:33.872316Z",
+                "2025-08-01T22:21:39.399025Z",
+                "2025-08-01T23:07:36.385183Z",
+                "2025-08-01T23:09:12.918641Z",
+                "2025-08-01T23:11:32.916516Z",
+                "2025-08-01T23:13:23.850522Z",
+                "2025-08-01T23:15:04.799889Z",
+                "2025-08-01T23:17:48.263232Z",
+                "2025-08-01T23:19:40.696118Z"
+            ]
+        },
         {
             "id": "df1b44dc4ce4b08e5519db2a01ccbf95",
             "source": "spacenews",
@@ -10400,295 +10541,6 @@
                 "2025-05-25T22:59:26.652332Z",
                 "2025-05-26T16:43:37.088735Z",
                 "2025-05-26T18:41:47.431458Z"
-            ]
-        },
-        {
-            "id": "585f8c2c7d029d455e452cb814f71793",
-            "source": "spacenews",
-            "text": "NATO allies to pledge capabilities to address growing threats",
-            "source_link": "https://spacenews.com/nato-allies-to-pledge-capabilities-to-address-growing-threats/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-19T19:49:33.386168Z",
-            "shown_at": [
-                "2025-05-19T19:49:34.037301Z",
-                "2025-05-21T23:49:28.817480Z",
-                "2025-05-22T07:27:29.593312Z",
-                "2025-05-25T22:45:25.819107Z"
-            ]
-        },
-        {
-            "id": "4b7a070a488c16f87918546315672f2e",
-            "source": "breaking_defense",
-            "text": "NATO aims to bolster investments in space, intelligence sharing",
-            "source_link": "https://breakingdefense.com/2025/05/nato-aims-to-bolster-investments-in-space-intelligence-sharing/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-19T19:21:43.501175Z",
-            "shown_at": [
-                "2025-05-19T19:21:44.734177Z",
-                "2025-05-20T14:55:33.220359Z",
-                "2025-05-20T15:55:30.571104Z",
-                "2025-05-20T18:03:36.057157Z",
-                "2025-05-21T21:37:31.487157Z",
-                "2025-05-22T16:47:36.202779Z",
-                "2025-05-23T03:37:39.416677Z",
-                "2025-05-23T04:35:47.478338Z",
-                "2025-05-23T05:31:49.107617Z",
-                "2025-05-23T06:27:40.249915Z",
-                "2025-05-23T11:29:29.827415Z",
-                "2025-05-23T12:32:09.433676Z",
-                "2025-05-24T02:53:27.925312Z",
-                "2025-05-24T03:49:37.774681Z",
-                "2025-05-24T04:47:36.683654Z",
-                "2025-05-24T11:29:40.111827Z",
-                "2025-05-24T17:15:38.504365Z",
-                "2025-05-26T01:53:44.486954Z",
-                "2025-05-26T17:41:52.576870Z"
-            ]
-        },
-        {
-            "id": "6f89984d8f386ccbf11b7801b4cae709",
-            "source": "spacenews",
-            "text": "SatVu’s thermal imaging satellite winning over customers despite early setback",
-            "source_link": "https://spacenews.com/satvus-thermal-imaging-satellite-winning-over-customers-despite-early-setback/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-19T18:11:38.805358Z",
-            "shown_at": [
-                "2025-05-19T18:11:39.378761Z",
-                "2025-05-21T21:51:51.300399Z",
-                "2025-05-23T17:51:45.302499Z",
-                "2025-05-23T18:51:46.720650Z"
-            ]
-        },
-        {
-            "id": "6341047b8dc7cb68f28a0a27f3f0b355",
-            "source": "spacenews",
-            "text": "Scientists urge NASA to act on Apophis mission concept",
-            "source_link": "https://spacenews.com/scientists-urge-nasa-to-act-on-apophis-mission-concept/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-19T16:47:11.632619Z",
-            "shown_at": [
-                "2025-05-19T16:47:12.156125Z",
-                "2025-05-21T03:11:37.968025Z",
-                "2025-05-21T09:25:34.419209Z",
-                "2025-05-23T09:05:30.118585Z",
-                "2025-05-24T15:03:42.886011Z"
-            ]
-        },
-        {
-            "id": "dcd882ebaf1c6f263735014a75592f81",
-            "source": "spacenews",
-            "text": "Japan’s iQPS lines up eight SAR launches",
-            "source_link": "https://spacenews.com/japans-iqps-lines-up-eight-sar-launches/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-19T15:23:31.470975Z",
-            "shown_at": [
-                "2025-05-19T15:23:32.138940Z",
-                "2025-05-22T14:09:37.738046Z",
-                "2025-05-23T08:07:45.463930Z"
-            ]
-        },
-        {
-            "id": "104dd17f2cea4dfa1716a9bd33c7517d",
-            "source": "breaking_defense",
-            "text": "Space Force FORGEing ahead with missile warning ground system",
-            "source_link": "https://breakingdefense.com/2025/05/space-force-forgeing-ahead-with-missile-warning-ground-system/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-19T14:41:40.077422Z",
-            "shown_at": [
-                "2025-05-19T14:41:40.678506Z",
-                "2025-05-20T21:53:19.777352Z",
-                "2025-05-21T01:47:29.323875Z",
-                "2025-05-21T05:25:43.124051Z",
-                "2025-05-21T18:19:36.203873Z",
-                "2025-05-22T01:32:07.477082Z",
-                "2025-05-22T03:23:56.055969Z",
-                "2025-05-22T08:11:46.893449Z",
-                "2025-05-23T02:39:34.400820Z",
-                "2025-05-23T09:21:44.007256Z",
-                "2025-05-23T16:39:27.904872Z",
-                "2025-05-24T00:05:57.276162Z",
-                "2025-05-25T20:09:43.846812Z",
-                "2025-05-26T02:49:43.165258Z",
-                "2025-05-26T03:47:58.446115Z",
-                "2025-05-26T11:47:42.824813Z",
-                "2025-05-26T12:47:40.010124Z"
-            ]
-        },
-        {
-            "id": "b26bc66358eaa68de607249acd798e58",
-            "source": "spacenews",
-            "text": "Seraphim picks 10 startups for 15th space accelerator",
-            "source_link": "https://spacenews.com/seraphim-picks-10-startups-for-15th-space-accelerator/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-19T14:07:44.092073Z",
-            "shown_at": [
-                "2025-05-19T14:07:44.805803Z",
-                "2025-05-20T05:02:16.132497Z",
-                "2025-05-25T16:09:38.406759Z",
-                "2025-05-25T18:59:32.532371Z"
-            ]
-        },
-        {
-            "id": "1398fc7ca2b8d5fd3d30f390dd85ab4b",
-            "source": "spacenews",
-            "text": "Commercial radar satellite firm eyes role in U.S. missile defense",
-            "source_link": "https://spacenews.com/commercial-radar-satellite-firm-eyes-role-in-u-s-missile-defense/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-19T13:07:32.343952Z",
-            "shown_at": [
-                "2025-05-19T13:36:34.731444Z",
-                "2025-05-23T16:53:28.158877Z",
-                "2025-05-24T16:01:58.192357Z",
-                "2025-05-26T09:37:27.374368Z"
-            ]
-        },
-        {
-            "id": "74f768713c2abae34cbc871cbd847c1a",
-            "source": "supercluster",
-            "text": "Blue Origin Will Launch Crewed Suborbital Flight",
-            "source_link": "https://www.supercluster.com/launches/ns-34",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-08-03T12:30:00.000Z",
-            "time_remaining": "1d 13h 10m",
-            "fetched_datetime": "2025-08-01T16:43:32.183367Z",
-            "shown_at": [
-                "2025-08-01T16:43:32.765937Z",
-                "2025-08-01T16:45:28.108111Z",
-                "2025-08-01T18:11:16.589173Z",
-                "2025-08-01T18:13:42.276787Z",
-                "2025-08-01T18:15:48.631586Z",
-                "2025-08-01T18:17:31.631490Z",
-                "2025-08-01T18:19:38.633585Z",
-                "2025-08-01T18:21:46.388589Z",
-                "2025-08-01T18:23:42.718927Z",
-                "2025-08-01T19:07:33.920095Z",
-                "2025-08-01T19:09:46.384430Z",
-                "2025-08-01T19:11:50.114554Z",
-                "2025-08-01T19:13:46.067779Z",
-                "2025-08-01T19:15:40.770045Z",
-                "2025-08-01T19:17:30.859184Z",
-                "2025-08-01T19:20:00.344045Z",
-                "2025-08-01T20:03:32.720652Z",
-                "2025-08-01T20:05:46.059775Z",
-                "2025-08-01T20:07:45.365993Z",
-                "2025-08-01T20:09:42.593774Z",
-                "2025-08-01T20:11:35.786181Z",
-                "2025-08-01T20:13:34.286461Z",
-                "2025-08-01T20:15:32.034207Z",
-                "2025-08-01T20:59:26.336183Z",
-                "2025-08-01T21:01:50.543658Z",
-                "2025-08-01T21:03:29.107530Z",
-                "2025-08-01T21:05:46.620912Z",
-                "2025-08-01T21:07:36.543872Z",
-                "2025-08-01T21:09:43.538691Z",
-                "2025-08-01T21:11:49.688789Z",
-                "2025-08-01T22:09:29.745076Z",
-                "2025-08-01T22:11:53.210918Z",
-                "2025-08-01T22:13:37.534922Z",
-                "2025-08-01T22:15:33.093461Z",
-                "2025-08-01T22:17:26.346125Z",
-                "2025-08-01T22:19:33.872316Z",
-                "2025-08-01T22:21:39.399025Z",
-                "2025-08-01T23:07:36.385183Z",
-                "2025-08-01T23:09:12.918641Z",
-                "2025-08-01T23:11:32.916516Z",
-                "2025-08-01T23:13:23.850522Z",
-                "2025-08-01T23:15:04.799889Z",
-                "2025-08-01T23:17:48.263232Z",
-                "2025-08-01T23:19:40.696118Z"
-            ]
-        },
-        {
-            "id": "9c0c1b2f4a6ec3bea50cf85f93a7689c",
-            "source": "breaking_defense",
-            "text": "Draft Trump EO would loosen commercial space regs, citing national security links",
-            "source_link": "https://breakingdefense.com/2025/08/draft-trump-eo-loosens-commercial-space-regs-citing-national-security-links/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-08-01T16:47:21.830040Z",
-            "shown_at": [
-                "2025-08-01T16:47:22.448599Z"
-            ]
-        },
-        {
-            "id": "532dc7ea901d9ab703d10ad07842c632",
-            "source": "spacenews",
-            "text": "Crew-11 launches to ISS",
-            "source_link": "https://spacenews.com/crew-11-launches-to-iss/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-08-01T17:01:56.553543Z",
-            "shown_at": [
-                "2025-08-01T17:01:57.121582Z"
-            ]
-        },
-        {
-            "id": "6f54e6ecbe97b009a14506966cb842dd",
-            "source": "spacenews",
-            "text": "Senators raise NASA funding concerns in letter to Duffy",
-            "source_link": "https://spacenews.com/senators-raise-nasa-funding-concerns-in-letter-to-duffy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-08-01T17:01:56.553621Z",
-            "shown_at": [
-                "2025-08-01T17:15:59.521357Z"
-            ]
-        },
-        {
-            "id": "f80d066224f089dffb58bc0c11c68d50",
-            "source": "spacenews",
-            "text": "It’s time to unlock inland orbital launch for a resilient U.S. space future",
-            "source_link": "https://spacenews.com/its-time-to-unlock-inland-orbital-launch-for-a-resilient-u-s-space-future/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-08-01T17:01:56.553669Z",
-            "shown_at": [
-                "2025-08-01T17:29:37.562398Z"
-            ]
-        },
-        {
-            "id": "303b016d70ca32a90971d6a66de21d24",
-            "source": "spacenews",
-            "text": "Albedo wins NRO Stage 2 imagery contract",
-            "source_link": "https://spacenews.com/albedo-wins-nro-stage-2-imagery-contract/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-08-01T17:01:56.553710Z",
-            "shown_at": [
-                "2025-08-01T17:43:55.960522Z"
-            ]
-        },
-        {
-            "id": "7548bf2bcb00c14f96e83f36929e5a17",
-            "source": "spacenews",
-            "text": "EchoStar orders initial MDA satellites for $5 billion LEO constellation",
-            "source_link": "https://spacenews.com/echostar-orders-initial-mda-satellites-for-5-billion-leo-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-08-01T21:41:43.737492Z",
-            "shown_at": [
-                "2025-08-01T21:41:45.087667Z"
-            ]
-        },
-        {
-            "id": "5ad0965ef127fa491ec3d136a67bdd53",
-            "source": "spacenews",
-            "text": "Roscosmos celebrates meeting of agency leaders that NASA ignored",
-            "source_link": "https://spacenews.com/roscosmos-celebrates-meeting-of-agency-leaders-that-nasa-ignored/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-08-01T22:23:47.711358Z",
-            "shown_at": [
-                "2025-08-01T22:23:48.673902Z"
             ]
         }
     ]
