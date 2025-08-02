@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 10 | 24 | 29 |
 | breaking_defense | 1 | 1 | 20 | 21 |
-| supercluster | 1 | 1 | 135 | 135 |
+| supercluster | 1 | 1 | 136 | 136 |
 | nyt | 0 | 0 | 20 | 22 |
 
 # Shown Order
@@ -5176,3 +5176,4 @@
 - **Aug 02, 11:37 AM** - NASA acting administrator to meet with head of Roscosmos at KSC (spacenews)
 - **Aug 02, 11:51 AM** - Next X-37B mission to carry quantum sensor, laser link experiments (breaking_defense)
 - **Aug 02, 12:07 PM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
+- **Aug 02, 12:22 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
