@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 10 | 21 | 26 |
 | breaking_defense | 1 | 1 | 17 | 18 |
-| supercluster | 1 | 1 | 114 | 114 |
+| supercluster | 1 | 1 | 115 | 115 |
 | nyt | 0 | 0 | 17 | 19 |
 
 # Shown Order
@@ -5146,3 +5146,4 @@
 - **Aug 02, 08:45 AM** - Crew-11 launches to ISS (spacenews)
 - **Aug 02, 08:59 AM** - It’s more than fuel: Why the Space Force needs in-space servicing, assembly, and manufacturing (breaking_defense)
 - **Aug 02, 09:14 AM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
+- **Aug 02, 09:29 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
