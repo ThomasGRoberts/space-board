@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 6 | 27 | 30 |
+| spacenews | 2 | 6 | 28 | 31 |
 | breaking_defense | 0 | 1 | 24 | 26 |
 | supercluster | 0 | 1 | 175 | 177 |
 | nyt | 0 | 0 | 25 | 27 |
@@ -5233,3 +5233,4 @@
 - **Aug 02, 05:13 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 02, 05:15 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 02, 05:17 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Aug 02, 05:19 PM** - Frontgrade Unveils SBC-2A72 with 32GB NAND to Enable High-Performance Edge Computing in Air and Space Platforms (spacenews)
