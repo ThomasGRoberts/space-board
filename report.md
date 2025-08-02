@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 10 | 14 | 19 |
+| spacenews | 6 | 10 | 15 | 20 |
 | breaking_defense | 1 | 1 | 10 | 11 |
 | supercluster | 1 | 1 | 72 | 72 |
 | nyt | 0 | 0 | 10 | 12 |
@@ -5083,3 +5083,4 @@
 - **Aug 02, 02:59 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 02, 03:01 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 02, 03:03 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Aug 02, 03:05 AM** - Roscosmos celebrates meeting of agency leaders that NASA ignored (spacenews)
