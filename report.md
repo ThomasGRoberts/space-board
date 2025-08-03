@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 4 | 24 | 51 |
-| breaking_defense | 0 | 0 | 23 | 48 |
+| spacenews | 1 | 3 | 24 | 50 |
+| breaking_defense | 0 | 0 | 24 | 49 |
 | nyt | 0 | 0 | 24 | 49 |
 | supercluster | 1 | 1 | 57 | 57 |
 
@@ -5179,3 +5179,4 @@
 - **Aug 03, 09:21 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Aug 03, 09:23 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Aug 03, 09:25 PM** - China launches new group of Guowang satellites from commercial spaceport (spacenews)
+- **Aug 03, 09:42 PM** - Draft Trump EO would loosen commercial space regs, citing national security links (breaking_defense)
