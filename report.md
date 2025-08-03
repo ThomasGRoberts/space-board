@@ -5,7 +5,7 @@
 | spacenews | 1 | 7 | 24 | 50 |
 | breaking_defense | 0 | 1 | 24 | 45 |
 | nyt | 0 | 0 | 24 | 45 |
-| supercluster | 1 | 1 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -5097,3 +5097,4 @@
 - **Aug 03, 11:39 AM** - Air leak persists on Russian ISS segment (spacenews)
 - **Aug 03, 11:53 AM** - It’s more than fuel: Why the Space Force needs in-space servicing, assembly, and manufacturing (breaking_defense)
 - **Aug 03, 12:07 PM** - The First Soda in Space: When NASA Got Caught Up in the Cola Wars (nyt)
+- **Aug 03, 01:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
