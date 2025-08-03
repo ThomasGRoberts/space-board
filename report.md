@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 7 | 25 | 48 |
+| spacenews | 1 | 7 | 26 | 49 |
 | breaking_defense | 0 | 1 | 25 | 43 |
 | supercluster | 0 | 1 | 175 | 303 |
 | nyt | 0 | 0 | 25 | 43 |
@@ -5394,3 +5394,4 @@
 - **Aug 03, 10:37 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 03, 10:39 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 03, 10:41 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Aug 03, 10:43 AM** - Sleepwalking into risk: managing traffic above 60,000 feet (spacenews)
