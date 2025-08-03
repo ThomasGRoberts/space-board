@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 25 | 51 |
+| spacenews | 2 | 4 | 24 | 51 |
 | breaking_defense | 0 | 0 | 24 | 49 |
 | nyt | 0 | 0 | 24 | 49 |
-| supercluster | 1 | 1 | 37 | 37 |
+| supercluster | 1 | 1 | 38 | 38 |
 
 # Shown Order
 
@@ -5152,3 +5152,4 @@
 - **Aug 03, 06:47 PM** - It’s more than fuel: Why the Space Force needs in-space servicing, assembly, and manufacturing (breaking_defense)
 - **Aug 03, 07:01 PM** - The First Soda in Space: When NASA Got Caught Up in the Cola Wars (nyt)
 - **Aug 03, 07:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Aug 03, 07:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
