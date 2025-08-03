@@ -1,9 +1,21 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-08-02T00:02:06.466949+00:00",
-    "trigger_count": 1,
+    "last_run_datetime": "2025-08-03T00:01:42.763254+00:00",
+    "trigger_count": 2,
     "current_item_id": "74f768713c2abae34cbc871cbd847c1a",
     "data": [
+        {
+            "id": "34650f98dde38109a471d015085ac810",
+            "source": "spacenews",
+            "text": "Why industry says Golden Dome’s biggest challenge isn’t missiles, it’s data flow",
+            "source_link": "https://spacenews.com/why-industry-says-golden-domes-biggest-challenge-isnt-missiles-its-data-flow/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-02T19:29:13.726427Z",
+            "shown_at": [
+                "2025-08-02T19:29:14.292619Z"
+            ]
+        },
         {
             "id": "5ad0965ef127fa491ec3d136a67bdd53",
             "source": "spacenews",
@@ -106,7 +118,7 @@
             "shown": true,
             "type": "launch",
             "target_datetime": "2025-08-03T12:30:00.000Z",
-            "time_remaining": "0d 12h 30m",
+            "time_remaining": "0d 12h 28m",
             "fetched_datetime": "2025-08-01T16:43:32.183367Z",
             "shown_at": [
                 "2025-08-01T16:43:32.765937Z",
@@ -329,7 +341,8 @@
                 "2025-08-02T23:11:36.182758Z",
                 "2025-08-02T23:13:41.850306Z",
                 "2025-08-02T23:57:39.409655Z",
-                "2025-08-02T23:59:46.938834Z"
+                "2025-08-02T23:59:46.938834Z",
+                "2025-08-03T00:01:43.346597Z"
             ]
         },
         {
@@ -10762,49 +10775,6 @@
             "shown_at": [
                 "2025-05-19T20:31:55.133973Z",
                 "2025-05-23T11:01:58.032711Z"
-            ]
-        },
-        {
-            "id": "f0fe81b6914dcdb528c196dba515b27c",
-            "source": "breaking_defense",
-            "text": "ODNI looking to reform contracting practices: Gabbard",
-            "source_link": "https://breakingdefense.com/2025/05/odni-looking-to-reform-contracting-practices-gabbard/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-19T20:03:30.937396Z",
-            "shown_at": [
-                "2025-05-19T20:03:31.468716Z",
-                "2025-05-20T00:45:30.547984Z",
-                "2025-05-20T03:35:29.251657Z",
-                "2025-05-20T09:23:33.422428Z",
-                "2025-05-21T00:47:38.233357Z",
-                "2025-05-21T07:17:55.277264Z",
-                "2025-05-21T09:11:56.513770Z",
-                "2025-05-21T14:49:27.077451Z",
-                "2025-05-21T23:35:06.850684Z",
-                "2025-05-22T11:17:59.518487Z",
-                "2025-05-22T19:49:30.591618Z",
-                "2025-05-23T07:25:54.536633Z",
-                "2025-05-23T14:02:04.155766Z",
-                "2025-05-24T06:43:56.686611Z",
-                "2025-05-24T09:35:43.750372Z",
-                "2025-05-25T14:29:42.319637Z",
-                "2025-05-25T16:23:38.283940Z",
-                "2025-05-25T22:59:26.652332Z",
-                "2025-05-26T16:43:37.088735Z",
-                "2025-05-26T18:41:47.431458Z"
-            ]
-        },
-        {
-            "id": "34650f98dde38109a471d015085ac810",
-            "source": "spacenews",
-            "text": "Why industry says Golden Dome’s biggest challenge isn’t missiles, it’s data flow",
-            "source_link": "https://spacenews.com/why-industry-says-golden-domes-biggest-challenge-isnt-missiles-its-data-flow/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-08-02T19:29:13.726427Z",
-            "shown_at": [
-                "2025-08-02T19:29:14.292619Z"
             ]
         }
     ]
