@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 7 | 26 | 49 |
+| spacenews | 1 | 7 | 26 | 50 |
 | breaking_defense | 0 | 1 | 25 | 44 |
 | supercluster | 0 | 1 | 175 | 310 |
 | nyt | 0 | 0 | 25 | 44 |
@@ -5404,3 +5404,4 @@
 - **Aug 03, 11:33 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 03, 11:35 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 03, 11:37 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Aug 03, 11:39 AM** - Air leak persists on Russian ISS segment (spacenews)
