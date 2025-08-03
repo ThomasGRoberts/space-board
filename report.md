@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 23 | 50 |
+| spacenews | 1 | 2 | 24 | 50 |
 | breaking_defense | 0 | 0 | 24 | 49 |
 | nyt | 0 | 0 | 24 | 49 |
 | supercluster | 1 | 1 | 64 | 64 |
@@ -5188,3 +5188,4 @@
 - **Aug 03, 10:19 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Aug 03, 10:21 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Aug 03, 10:23 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Aug 03, 10:25 PM** - Space – the quiet element behind Midnight Hammer (spacenews)
