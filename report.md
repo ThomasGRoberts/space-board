@@ -5,7 +5,7 @@
 | spacenews | 1 | 7 | 26 | 43 |
 | breaking_defense | 0 | 1 | 25 | 38 |
 | supercluster | 0 | 1 | 175 | 261 |
-| nyt | 0 | 0 | 24 | 37 |
+| nyt | 0 | 0 | 25 | 38 |
 
 # Shown Order
 
@@ -5336,3 +5336,4 @@
 - **Aug 03, 04:59 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 03, 05:01 AM** - Senate Commerce Committee advances Jacobs nomination for NOAA administrator (spacenews)
 - **Aug 03, 05:17 AM** - Here’s the role that space-based interceptors will play in Golden Dome (breaking_defense)
+- **Aug 03, 05:32 AM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
