@@ -5,7 +5,7 @@
 | spacenews | 1 | 3 | 24 | 50 |
 | breaking_defense | 0 | 0 | 24 | 49 |
 | nyt | 0 | 0 | 24 | 49 |
-| supercluster | 1 | 1 | 57 | 57 |
+| supercluster | 1 | 1 | 58 | 58 |
 
 # Shown Order
 
@@ -5181,3 +5181,4 @@
 - **Aug 03, 09:25 PM** - China launches new group of Guowang satellites from commercial spaceport (spacenews)
 - **Aug 03, 09:42 PM** - Draft Trump EO would loosen commercial space regs, citing national security links (breaking_defense)
 - **Aug 03, 09:57 PM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
+- **Aug 03, 10:11 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
