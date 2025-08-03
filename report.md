@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 26 | 38 |
-| breaking_defense | 0 | 1 | 25 | 32 |
+| breaking_defense | 0 | 1 | 26 | 33 |
 | supercluster | 0 | 1 | 175 | 226 |
 | nyt | 0 | 0 | 25 | 32 |
 
@@ -5285,3 +5285,4 @@
 - **Aug 03, 12:07 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 03, 12:09 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 03, 12:11 AM** - EchoStar orders initial MDA satellites for $5 billion LEO constellation (spacenews)
+- **Aug 03, 12:27 AM** - Space Force makes 5 awards for jam-resistant SATCOM (breaking_defense)
