@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 24 | 51 |
+| spacenews | 2 | 4 | 25 | 52 |
 | breaking_defense | 0 | 0 | 23 | 48 |
 | nyt | 0 | 0 | 24 | 49 |
 | supercluster | 1 | 1 | 36 | 36 |
@@ -5148,3 +5148,4 @@
 - **Aug 03, 06:27 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Aug 03, 06:29 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Aug 03, 06:31 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Aug 03, 06:33 PM** - EchoStar orders initial MDA satellites for $5 billion LEO constellation (spacenews)
