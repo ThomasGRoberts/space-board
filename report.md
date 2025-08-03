@@ -5,7 +5,7 @@
 | spacenews | 1 | 7 | 26 | 50 |
 | breaking_defense | 0 | 1 | 25 | 45 |
 | supercluster | 0 | 1 | 175 | 310 |
-| nyt | 0 | 0 | 25 | 44 |
+| nyt | 0 | 0 | 26 | 45 |
 
 # Shown Order
 
@@ -5406,3 +5406,4 @@
 - **Aug 03, 11:37 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 03, 11:39 AM** - Air leak persists on Russian ISS segment (spacenews)
 - **Aug 03, 11:53 AM** - It’s more than fuel: Why the Space Force needs in-space servicing, assembly, and manufacturing (breaking_defense)
+- **Aug 03, 12:07 PM** - The First Soda in Space: When NASA Got Caught Up in the Cola Wars (nyt)
