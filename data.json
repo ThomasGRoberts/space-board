@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-03T00:01:42.763254+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "1599e822eaa319913461a0dfce35daa7",
     "data": [
         {
             "id": "34650f98dde38109a471d015085ac810",
@@ -10603,6 +10603,18 @@
                 "2025-08-03T14:35:47.619178Z",
                 "2025-08-03T14:37:39.276610Z",
                 "2025-08-03T14:39:28.581268Z"
+            ]
+        },
+        {
+            "id": "1599e822eaa319913461a0dfce35daa7",
+            "source": "spacenews",
+            "text": "Blue Origin flies crypto entrepreneur, five others on 14th crewed New Shepard flight",
+            "source_link": "https://spacenews.com/blue-origin-flies-crypto-entrepreneur-five-others-on-14th-crewed-new-shepard-flight/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-03T14:41:45.561334Z",
+            "shown_at": [
+                "2025-08-03T14:41:47.157329Z"
             ]
         }
     ]
