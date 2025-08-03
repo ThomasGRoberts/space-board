@@ -5,7 +5,7 @@
 | spacenews | 1 | 3 | 24 | 50 |
 | breaking_defense | 0 | 0 | 24 | 49 |
 | nyt | 0 | 0 | 24 | 49 |
-| supercluster | 1 | 1 | 59 | 59 |
+| supercluster | 1 | 1 | 60 | 60 |
 
 # Shown Order
 
@@ -5183,3 +5183,4 @@
 - **Aug 03, 09:57 PM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
 - **Aug 03, 10:11 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Aug 03, 10:13 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Aug 03, 10:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
