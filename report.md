@@ -5,7 +5,7 @@
 | spacenews | 1 | 4 | 24 | 51 |
 | breaking_defense | 0 | 0 | 24 | 49 |
 | nyt | 0 | 0 | 24 | 49 |
-| supercluster | 1 | 1 | 43 | 43 |
+| supercluster | 1 | 1 | 44 | 44 |
 
 # Shown Order
 
@@ -5161,3 +5161,4 @@
 - **Aug 03, 07:32 PM** - Senators raise NASA funding concerns in letter to Duffy (spacenews)
 - **Aug 03, 07:47 PM** - Here’s the role that space-based interceptors will play in Golden Dome (breaking_defense)
 - **Aug 03, 08:01 PM** - The First Soda in Space: When NASA Got Caught Up in the Cola Wars (nyt)
+- **Aug 03, 08:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
