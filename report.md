@@ -5,7 +5,7 @@
 | spacenews | 1 | 7 | 26 | 45 |
 | breaking_defense | 0 | 1 | 25 | 40 |
 | supercluster | 0 | 1 | 175 | 275 |
-| nyt | 0 | 0 | 25 | 39 |
+| nyt | 0 | 0 | 25 | 40 |
 
 # Shown Order
 
@@ -5356,3 +5356,4 @@
 - **Aug 03, 06:53 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 03, 06:55 AM** - KSAT and AWS expand alliance in satellite communications (spacenews)
 - **Aug 03, 07:09 AM** - Here’s the role that space-based interceptors will play in Golden Dome (breaking_defense)
+- **Aug 03, 07:23 AM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
