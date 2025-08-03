@@ -5,7 +5,7 @@
 | spacenews | 1 | 2 | 24 | 50 |
 | breaking_defense | 0 | 0 | 24 | 49 |
 | nyt | 0 | 0 | 24 | 49 |
-| supercluster | 1 | 1 | 64 | 64 |
+| supercluster | 1 | 1 | 65 | 65 |
 
 # Shown Order
 
@@ -5191,3 +5191,4 @@
 - **Aug 03, 10:25 PM** - Space – the quiet element behind Midnight Hammer (spacenews)
 - **Aug 03, 10:39 PM** - It’s more than fuel: Why the Space Force needs in-space servicing, assembly, and manufacturing (breaking_defense)
 - **Aug 03, 10:53 PM** - The First Soda in Space: When NASA Got Caught Up in the Cola Wars (nyt)
+- **Aug 03, 11:07 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
