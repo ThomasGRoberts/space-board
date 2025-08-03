@@ -5,7 +5,7 @@
 | spacenews | 1 | 7 | 26 | 41 |
 | breaking_defense | 0 | 1 | 25 | 36 |
 | supercluster | 0 | 1 | 175 | 247 |
-| nyt | 0 | 0 | 25 | 35 |
+| nyt | 0 | 0 | 26 | 36 |
 
 # Shown Order
 
@@ -5316,3 +5316,4 @@
 - **Aug 03, 03:03 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 03, 03:05 AM** - Air leak persists on Russian ISS segment (spacenews)
 - **Aug 03, 03:19 AM** - Here’s the role that space-based interceptors will play in Golden Dome (breaking_defense)
+- **Aug 03, 03:33 AM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
