@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 26 | 39 |
-| breaking_defense | 0 | 1 | 25 | 33 |
+| breaking_defense | 0 | 1 | 26 | 34 |
 | supercluster | 0 | 1 | 175 | 233 |
 | nyt | 0 | 0 | 25 | 33 |
 
@@ -5295,3 +5295,4 @@
 - **Aug 03, 01:07 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 03, 01:09 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 03, 01:11 AM** - Firefly Aerospace wins fourth lunar lander award (spacenews)
+- **Aug 03, 01:25 AM** - It’s more than fuel: Why the Space Force needs in-space servicing, assembly, and manufacturing (breaking_defense)
