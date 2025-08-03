@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 26 | 49 |
-| breaking_defense | 0 | 1 | 24 | 43 |
+| breaking_defense | 0 | 1 | 25 | 44 |
 | supercluster | 0 | 1 | 175 | 303 |
 | nyt | 0 | 0 | 25 | 43 |
 
@@ -5395,3 +5395,4 @@
 - **Aug 03, 10:39 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 03, 10:41 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 03, 10:43 AM** - Sleepwalking into risk: managing traffic above 60,000 feet (spacenews)
+- **Aug 03, 10:57 AM** - Here’s the role that space-based interceptors will play in Golden Dome (breaking_defense)
