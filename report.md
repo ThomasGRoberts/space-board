@@ -5,7 +5,7 @@
 | spacenews | 1 | 7 | 26 | 42 |
 | breaking_defense | 0 | 1 | 25 | 37 |
 | supercluster | 0 | 1 | 175 | 254 |
-| nyt | 0 | 0 | 24 | 36 |
+| nyt | 0 | 0 | 25 | 37 |
 
 # Shown Order
 
@@ -5326,3 +5326,4 @@
 - **Aug 03, 04:02 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 03, 04:03 AM** - Senators raise NASA funding concerns in letter to Duffy (spacenews)
 - **Aug 03, 04:17 AM** - Draft Trump EO would loosen commercial space regs, citing national security links (breaking_defense)
+- **Aug 03, 04:33 AM** - The First Soda in Space: When NASA Got Caught Up in the Cola Wars (nyt)
