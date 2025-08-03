@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 25 | 51 |
 | breaking_defense | 0 | 1 | 24 | 46 |
-| nyt | 0 | 0 | 23 | 45 |
+| nyt | 0 | 0 | 24 | 46 |
 | supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
@@ -5100,3 +5100,4 @@
 - **Aug 03, 01:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Aug 03, 01:45 PM** - It’s time to unlock inland orbital launch for a resilient U.S. space future (spacenews)
 - **Aug 03, 02:00 PM** - Draft Trump EO would loosen commercial space regs, citing national security links (breaking_defense)
+- **Aug 03, 02:13 PM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
