@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 24 | 50 |
-| breaking_defense | 0 | 0 | 23 | 49 |
+| breaking_defense | 0 | 0 | 24 | 49 |
 | nyt | 0 | 0 | 24 | 49 |
 | supercluster | 1 | 1 | 71 | 71 |
 
@@ -5199,3 +5199,4 @@
 - **Aug 03, 11:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Aug 03, 11:20 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Aug 03, 11:21 PM** - Crew-11 launches to ISS (spacenews)
+- **Aug 03, 11:37 PM** - Next X-37B mission to carry quantum sensor, laser link experiments (breaking_defense)
