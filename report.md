@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 26 | 46 |
-| breaking_defense | 0 | 1 | 24 | 40 |
+| breaking_defense | 0 | 1 | 25 | 41 |
 | supercluster | 0 | 1 | 175 | 282 |
 | nyt | 0 | 0 | 25 | 40 |
 
@@ -5365,3 +5365,4 @@
 - **Aug 03, 07:47 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 03, 07:49 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 03, 07:51 AM** - NASA acting administrator to meet with head of Roscosmos at KSC (spacenews)
+- **Aug 03, 08:07 AM** - Next X-37B mission to carry quantum sensor, laser link experiments (breaking_defense)
