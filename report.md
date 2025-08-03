@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 8 | 25 | 53 |
+| spacenews | 2 | 8 | 24 | 53 |
 | breaking_defense | 0 | 1 | 24 | 48 |
 | nyt | 0 | 0 | 24 | 48 |
-| supercluster | 1 | 1 | 15 | 15 |
+| supercluster | 1 | 1 | 16 | 16 |
 
 # Shown Order
 
@@ -5121,3 +5121,4 @@
 - **Aug 03, 03:41 PM** - House appropriators want TraCSS to rely more on Defense Department (spacenews)
 - **Aug 03, 03:55 PM** - Next X-37B mission to carry quantum sensor, laser link experiments (breaking_defense)
 - **Aug 03, 04:09 PM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
+- **Aug 03, 04:24 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
