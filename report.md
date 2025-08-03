@@ -5,7 +5,7 @@
 | spacenews | 1 | 4 | 24 | 51 |
 | breaking_defense | 0 | 0 | 24 | 49 |
 | nyt | 0 | 0 | 24 | 49 |
-| supercluster | 1 | 1 | 50 | 50 |
+| supercluster | 1 | 1 | 51 | 51 |
 
 # Shown Order
 
@@ -5171,3 +5171,4 @@
 - **Aug 03, 08:29 PM** - Air leak persists on Russian ISS segment (spacenews)
 - **Aug 03, 08:43 PM** - It’s more than fuel: Why the Space Force needs in-space servicing, assembly, and manufacturing (breaking_defense)
 - **Aug 03, 08:57 PM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
+- **Aug 03, 09:11 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
