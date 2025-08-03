@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 26 | 42 |
-| breaking_defense | 0 | 1 | 24 | 36 |
+| breaking_defense | 0 | 1 | 25 | 37 |
 | supercluster | 0 | 1 | 175 | 254 |
 | nyt | 0 | 0 | 25 | 36 |
 
@@ -5325,3 +5325,4 @@
 - **Aug 03, 03:59 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 03, 04:02 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 03, 04:03 AM** - Senators raise NASA funding concerns in letter to Duffy (spacenews)
+- **Aug 03, 04:17 AM** - Draft Trump EO would loosen commercial space regs, citing national security links (breaking_defense)
