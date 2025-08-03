@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 26 | 44 |
-| breaking_defense | 0 | 1 | 24 | 38 |
+| breaking_defense | 0 | 1 | 25 | 39 |
 | supercluster | 0 | 1 | 175 | 268 |
 | nyt | 0 | 0 | 25 | 38 |
 
@@ -5345,3 +5345,4 @@
 - **Aug 03, 05:55 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 03, 05:57 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 03, 05:59 AM** - Canada awards study contracts for lunar utility rover (spacenews)
+- **Aug 03, 06:13 AM** - It’s more than fuel: Why the Space Force needs in-space servicing, assembly, and manufacturing (breaking_defense)
