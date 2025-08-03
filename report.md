@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 25 | 51 |
 | breaking_defense | 0 | 0 | 24 | 49 |
-| nyt | 0 | 0 | 23 | 48 |
+| nyt | 0 | 0 | 24 | 49 |
 | supercluster | 1 | 1 | 36 | 36 |
 
 # Shown Order
@@ -5150,3 +5150,4 @@
 - **Aug 03, 06:31 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Aug 03, 06:33 PM** - EchoStar orders initial MDA satellites for $5 billion LEO constellation (spacenews)
 - **Aug 03, 06:47 PM** - It’s more than fuel: Why the Space Force needs in-space servicing, assembly, and manufacturing (breaking_defense)
+- **Aug 03, 07:01 PM** - The First Soda in Space: When NASA Got Caught Up in the Cola Wars (nyt)
