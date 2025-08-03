@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 7 | 26 | 50 |
+| spacenews | 1 | 7 | 25 | 50 |
 | breaking_defense | 0 | 1 | 25 | 45 |
 | nyt | 0 | 0 | 25 | 45 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -5099,3 +5099,4 @@
 - **Aug 03, 12:07 PM** - The First Soda in Space: When NASA Got Caught Up in the Cola Wars (nyt)
 - **Aug 03, 12:35 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Aug 03, 12:37 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Aug 03, 12:39 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
