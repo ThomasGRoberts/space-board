@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 4 | 24 | 51 |
-| breaking_defense | 0 | 0 | 24 | 49 |
+| breaking_defense | 0 | 0 | 24 | 48 |
 | nyt | 0 | 0 | 24 | 49 |
-| supercluster | 1 | 1 | 52 | 52 |
+| supercluster | 1 | 1 | 53 | 53 |
 
 # Shown Order
 
@@ -5173,3 +5173,4 @@
 - **Aug 03, 08:57 PM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
 - **Aug 03, 09:11 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Aug 03, 09:13 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Aug 03, 09:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
