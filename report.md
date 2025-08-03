@@ -5,7 +5,7 @@
 | spacenews | 2 | 4 | 24 | 51 |
 | breaking_defense | 0 | 0 | 24 | 49 |
 | nyt | 0 | 0 | 24 | 49 |
-| supercluster | 1 | 1 | 29 | 29 |
+| supercluster | 1 | 1 | 30 | 30 |
 
 # Shown Order
 
@@ -5141,3 +5141,4 @@
 - **Aug 03, 05:37 PM** - NASA acting administrator to meet with head of Roscosmos at KSC (spacenews)
 - **Aug 03, 05:51 PM** - Space Force makes 5 awards for jam-resistant SATCOM (breaking_defense)
 - **Aug 03, 06:05 PM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
+- **Aug 03, 06:19 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
