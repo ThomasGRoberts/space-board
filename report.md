@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 8 | 25 | 52 |
+| spacenews | 2 | 8 | 24 | 52 |
 | breaking_defense | 0 | 1 | 24 | 47 |
 | nyt | 0 | 0 | 24 | 47 |
-| supercluster | 1 | 1 | 8 | 8 |
+| supercluster | 1 | 1 | 9 | 9 |
 
 # Shown Order
 
@@ -5111,3 +5111,4 @@
 - **Aug 03, 02:41 PM** - Blue Origin flies crypto entrepreneur, five others on 14th crewed New Shepard flight (spacenews)
 - **Aug 03, 02:56 PM** - Space Force makes 5 awards for jam-resistant SATCOM (breaking_defense)
 - **Aug 03, 03:13 PM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
+- **Aug 03, 03:27 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
