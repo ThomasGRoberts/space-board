@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-04T00:01:54.579252+00:00",
-    "trigger_count": 6,
-    "current_item_id": "303b016d70ca32a90971d6a66de21d24",
+    "trigger_count": 0,
+    "current_item_id": "2a43c90ba1ff5d0726df53e9600356f1",
     "data": [
         {
             "id": "1599e822eaa319913461a0dfce35daa7",
@@ -10886,6 +10886,18 @@
             "fetched_datetime": "2025-08-04T22:02:15.093849Z",
             "shown_at": [
                 "2025-08-04T22:02:15.912306Z"
+            ]
+        },
+        {
+            "id": "2a43c90ba1ff5d0726df53e9600356f1",
+            "source": "spacenews",
+            "text": "Skyrora gets UK launch license as first flight likely slips to 2026",
+            "source_link": "https://spacenews.com/skyrora-gets-uk-launch-license-as-first-flight-likely-slips-to-2026/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-04T23:13:58.833930Z",
+            "shown_at": [
+                "2025-08-04T23:14:00.459004Z"
             ]
         }
     ]
