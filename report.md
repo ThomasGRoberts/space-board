@@ -5,7 +5,7 @@
 | spacenews | 1 | 2 | 24 | 50 |
 | supercluster | 1 | 1 | 92 | 92 |
 | breaking_defense | 0 | 0 | 24 | 49 |
-| nyt | 0 | 0 | 23 | 48 |
+| nyt | 0 | 0 | 24 | 49 |
 
 # Shown Order
 
@@ -5228,3 +5228,4 @@
 - **Aug 04, 02:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Aug 04, 02:13 AM** - Albedo wins NRO Stage 2 imagery contract (spacenews)
 - **Aug 04, 02:27 AM** - It’s more than fuel: Why the Space Force needs in-space servicing, assembly, and manufacturing (breaking_defense)
+- **Aug 04, 02:42 AM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
