@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-04T00:01:54.579252+00:00",
-    "trigger_count": 5,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 6,
+    "current_item_id": "1f61e7d10b2b74e5ba9d76f57b6e1afe",
     "data": [
         {
             "id": "1599e822eaa319913461a0dfce35daa7",
@@ -10629,17 +10629,17 @@
             ]
         },
         {
-            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+            "id": "1f61e7d10b2b74e5ba9d76f57b6e1afe",
             "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from Florida",
-            "source_link": "https://www.supercluster.com/launches/starlink-10-30",
+            "text": "Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS",
+            "source_link": "https://www.supercluster.com/launches/the-harvest-goddess-thrives",
             "shown": true,
             "type": "launch",
-            "target_datetime": "2025-08-04T05:27:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-08-04T06:26:13.317288Z",
+            "target_datetime": "2025-08-05T03:45:00.000Z",
+            "time_remaining": "0d 21h 15m",
+            "fetched_datetime": "2025-08-04T06:29:30.060705Z",
             "shown_at": [
-                "2025-08-04T06:26:14.270756Z"
+                "2025-08-04T06:29:31.173149Z"
             ]
         }
     ]

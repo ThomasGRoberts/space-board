@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 23 | 49 |
 | breaking_defense | 0 | 0 | 22 | 47 |
-| nyt | 0 | 0 | 23 | 47 |
+| nyt | 0 | 0 | 22 | 47 |
 | supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
@@ -5144,4 +5144,4 @@
 - **Aug 04, 04:35 AM** - Space Force makes 5 awards for jam-resistant SATCOM (breaking_defense)
 - **Aug 04, 04:49 AM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
 - **Aug 04, 05:03 AM** - Air leak persists on Russian ISS segment (spacenews)
-- **Aug 04, 06:26 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Aug 04, 06:29 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
