@@ -5,7 +5,7 @@
 | spacenews | 1 | 2 | 24 | 50 |
 | supercluster | 1 | 1 | 85 | 85 |
 | breaking_defense | 0 | 0 | 24 | 49 |
-| nyt | 0 | 0 | 23 | 48 |
+| nyt | 0 | 0 | 24 | 49 |
 
 # Shown Order
 
@@ -5218,3 +5218,4 @@
 - **Aug 04, 01:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Aug 04, 01:17 AM** - Frontgrade Unveils SBC-2A72 with 32GB NAND to Enable High-Performance Edge Computing in Air and Space Platforms (spacenews)
 - **Aug 04, 01:32 AM** - Draft Trump EO would loosen commercial space regs, citing national security links (breaking_defense)
+- **Aug 04, 01:45 AM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
