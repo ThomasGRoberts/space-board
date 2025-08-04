@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 5 | 26 | 50 |
-| breaking_defense | 0 | 0 | 23 | 47 |
+| spacenews | 4 | 5 | 25 | 50 |
+| breaking_defense | 0 | 0 | 24 | 48 |
 | nyt | 0 | 0 | 23 | 47 |
 | supercluster | 1 | 1 | 50 | 50 |
 
@@ -5217,3 +5217,4 @@
 - **Aug 04, 01:41 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Aug 04, 01:43 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Aug 04, 01:45 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
+- **Aug 04, 01:47 PM** - Next X-37B mission to carry quantum sensor, laser link experiments (breaking_defense)
