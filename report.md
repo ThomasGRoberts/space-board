@@ -5,7 +5,7 @@
 | spacenews | 4 | 5 | 26 | 51 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | nyt | 0 | 0 | 23 | 47 |
-| supercluster | 1 | 1 | 43 | 43 |
+| supercluster | 1 | 1 | 44 | 44 |
 
 # Shown Order
 
@@ -5210,3 +5210,4 @@
 - **Aug 04, 12:51 PM** - European companies still in talks to combine their space businesses (spacenews)
 - **Aug 04, 01:05 PM** - Humans to Mars or humans exploring Mars? (spacenews)
 - **Aug 04, 01:19 PM** - Burloak and MDA Bet Big on Additive Manufacturing, Fueling Next-Gen Satellite Constellations (spacenews)
+- **Aug 04, 01:33 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
