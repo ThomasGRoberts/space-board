@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 9 | 28 | 52 |
-| breaking_defense | 1 | 1 | 23 | 47 |
+| breaking_defense | 1 | 1 | 23 | 46 |
 | nyt | 0 | 0 | 22 | 46 |
-| supercluster | 1 | 1 | 107 | 107 |
+| supercluster | 1 | 1 | 108 | 108 |
 
 # Shown Order
 
@@ -5306,3 +5306,4 @@
 - **Aug 04, 11:14 PM** - Skyrora gets UK launch license as first flight likely slips to 2026 (spacenews)
 - **Aug 04, 11:27 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Aug 04, 11:29 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
+- **Aug 04, 11:31 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
