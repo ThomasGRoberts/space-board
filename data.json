@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-04T00:01:54.579252+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c566cc9481d17020bbe3af154a49b714",
+    "trigger_count": 0,
+    "current_item_id": "016ec3564280fa63ff0cd01fe050806b",
     "data": [
         {
             "id": "1599e822eaa319913461a0dfce35daa7",
@@ -10865,6 +10865,18 @@
             "fetched_datetime": "2025-08-04T21:34:05.941615Z",
             "shown_at": [
                 "2025-08-04T21:34:07.047138Z"
+            ]
+        },
+        {
+            "id": "016ec3564280fa63ff0cd01fe050806b",
+            "source": "spacenews",
+            "text": "NASA writes off Lunar Trailblazer mission",
+            "source_link": "https://spacenews.com/nasa-writes-off-lunar-trailblazer-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-04T22:02:15.093849Z",
+            "shown_at": [
+                "2025-08-04T22:02:15.912306Z"
             ]
         }
     ]

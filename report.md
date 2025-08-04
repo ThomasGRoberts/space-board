@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 7 | 27 | 51 |
+| spacenews | 7 | 8 | 28 | 52 |
 | breaking_defense | 1 | 1 | 23 | 47 |
 | nyt | 0 | 0 | 22 | 46 |
 | supercluster | 1 | 1 | 99 | 99 |
@@ -5293,3 +5293,4 @@
 - **Aug 04, 09:19 PM** - Space Force to launch ‘actual’ GMTI sats ‘in the next year’: General (breaking_defense)
 - **Aug 04, 09:34 PM** - Eoptic and Starris establish strategic partnership to develop multispectral satellite imaging payloads (spacenews)
 - **Aug 04, 09:47 PM** - The First Soda in Space: When NASA Got Caught Up in the Cola Wars (nyt)
+- **Aug 04, 10:02 PM** - NASA writes off Lunar Trailblazer mission (spacenews)
