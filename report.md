@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 23 | 49 |
 | breaking_defense | 0 | 0 | 22 | 47 |
-| nyt | 0 | 0 | 23 | 48 |
-| supercluster | 1 | 1 | 22 | 22 |
+| nyt | 0 | 0 | 23 | 47 |
+| supercluster | 1 | 1 | 23 | 23 |
 
 # Shown Order
 
@@ -5178,3 +5178,4 @@
 - **Aug 04, 09:27 AM** - Next X-37B mission to carry quantum sensor, laser link experiments (breaking_defense)
 - **Aug 04, 09:41 AM** - The First Soda in Space: When NASA Got Caught Up in the Cola Wars (nyt)
 - **Aug 04, 09:55 AM** - Slingshot unveils AI agent for Space Force training (spacenews)
+- **Aug 04, 10:13 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
