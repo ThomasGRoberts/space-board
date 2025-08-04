@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 23 | 49 |
 | breaking_defense | 0 | 0 | 23 | 48 |
-| nyt | 0 | 0 | 22 | 47 |
+| nyt | 0 | 0 | 23 | 48 |
 | supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
@@ -5146,3 +5146,4 @@
 - **Aug 04, 05:03 AM** - Air leak persists on Russian ISS segment (spacenews)
 - **Aug 04, 06:29 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Aug 04, 06:32 AM** - Here’s the role that space-based interceptors will play in Golden Dome (breaking_defense)
+- **Aug 04, 06:47 AM** - The First Soda in Space: When NASA Got Caught Up in the Cola Wars (nyt)
