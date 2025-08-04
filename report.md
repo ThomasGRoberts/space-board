@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 24 | 50 |
 | supercluster | 1 | 1 | 78 | 78 |
-| breaking_defense | 0 | 0 | 23 | 48 |
+| breaking_defense | 0 | 0 | 24 | 49 |
 | nyt | 0 | 0 | 24 | 49 |
 
 # Shown Order
@@ -5207,3 +5207,4 @@
 - **Aug 04, 12:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Aug 04, 12:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Aug 04, 12:22 AM** - KSAT and AWS expand alliance in satellite communications (spacenews)
+- **Aug 04, 12:35 AM** - Draft Trump EO would loosen commercial space regs, citing national security links (breaking_defense)
