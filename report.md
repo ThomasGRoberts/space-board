@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 23 | 49 |
 | breaking_defense | 0 | 0 | 22 | 47 |
-| nyt | 0 | 0 | 23 | 47 |
-| supercluster | 1 | 1 | 23 | 23 |
+| nyt | 0 | 0 | 22 | 47 |
+| supercluster | 1 | 1 | 24 | 24 |
 
 # Shown Order
 
@@ -5179,3 +5179,4 @@
 - **Aug 04, 09:41 AM** - The First Soda in Space: When NASA Got Caught Up in the Cola Wars (nyt)
 - **Aug 04, 09:55 AM** - Slingshot unveils AI agent for Space Force training (spacenews)
 - **Aug 04, 10:13 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
+- **Aug 04, 10:15 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
