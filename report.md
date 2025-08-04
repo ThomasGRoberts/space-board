@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 23 | 49 |
 | breaking_defense | 0 | 0 | 22 | 47 |
-| nyt | 0 | 0 | 23 | 48 |
-| supercluster | 1 | 1 | 36 | 36 |
+| nyt | 0 | 0 | 22 | 48 |
+| supercluster | 1 | 1 | 37 | 37 |
 
 # Shown Order
 
@@ -5198,3 +5198,4 @@
 - **Aug 04, 11:25 AM** - It’s more than fuel: Why the Space Force needs in-space servicing, assembly, and manufacturing (breaking_defense)
 - **Aug 04, 11:39 AM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
 - **Aug 04, 11:53 AM** - European companies still in talks to combine their space businesses (spacenews)
+- **Aug 04, 12:07 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
