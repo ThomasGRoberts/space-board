@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 23 | 49 |
-| breaking_defense | 0 | 0 | 22 | 47 |
+| breaking_defense | 0 | 0 | 23 | 48 |
 | nyt | 0 | 0 | 22 | 47 |
 | supercluster | 1 | 1 | 29 | 29 |
 
@@ -5185,3 +5185,4 @@
 - **Aug 04, 10:22 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Aug 04, 10:23 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Aug 04, 10:25 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
+- **Aug 04, 10:27 AM** - Here’s the role that space-based interceptors will play in Golden Dome (breaking_defense)
