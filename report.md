@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 24 | 49 |
+| spacenews | 4 | 5 | 25 | 50 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | nyt | 0 | 0 | 23 | 48 |
 | supercluster | 1 | 1 | 43 | 43 |
@@ -5208,3 +5208,4 @@
 - **Aug 04, 12:23 PM** - Space Force makes 5 awards for jam-resistant SATCOM (breaking_defense)
 - **Aug 04, 12:37 PM** - The First Soda in Space: When NASA Got Caught Up in the Cola Wars (nyt)
 - **Aug 04, 12:51 PM** - European companies still in talks to combine their space businesses (spacenews)
+- **Aug 04, 01:05 PM** - Humans to Mars or humans exploring Mars? (spacenews)

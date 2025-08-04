@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-04T00:01:54.579252+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b38752d5d140fe836f54168ca81daf83",
+    "trigger_count": 0,
+    "current_item_id": "48921885bac583f7b672c72b88c47407",
     "data": [
         {
             "id": "1599e822eaa319913461a0dfce35daa7",
@@ -10715,6 +10715,27 @@
                 "2025-08-04T11:53:46.252096Z",
                 "2025-08-04T12:51:39.139123Z"
             ]
+        },
+        {
+            "id": "48921885bac583f7b672c72b88c47407",
+            "source": "spacenews",
+            "text": "Humans to Mars or humans exploring Mars?",
+            "source_link": "https://spacenews.com/humans-to-mars-or-humans-exploring-mars/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-04T13:05:34.336094Z",
+            "shown_at": [
+                "2025-08-04T13:05:34.982435Z"
+            ]
+        },
+        {
+            "id": "5a2cc52a660ef749443339d8e0942b09",
+            "source": "spacenews",
+            "text": "Burloak and MDA Bet Big on Additive Manufacturing, Fueling Next-Gen Satellite Constellations",
+            "source_link": "https://spacenews.com/burloak-and-mda-bet-big-on-additive-manufacturing-fueling-next-gen-satellite-constellations/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-08-04T13:05:34.336150Z"
         }
     ]
 }
