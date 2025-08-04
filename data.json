@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-04T00:01:54.579252+00:00",
-    "trigger_count": 6,
-    "current_item_id": "aced2f4f10e8c9e1faee675e0935519c",
+    "trigger_count": 0,
+    "current_item_id": "b38752d5d140fe836f54168ca81daf83",
     "data": [
         {
             "id": "1599e822eaa319913461a0dfce35daa7",
@@ -10692,6 +10692,18 @@
                 "2025-08-04T11:19:30.145042Z",
                 "2025-08-04T11:21:55.048898Z",
                 "2025-08-04T11:23:39.650910Z"
+            ]
+        },
+        {
+            "id": "b38752d5d140fe836f54168ca81daf83",
+            "source": "spacenews",
+            "text": "European companies still in talks to combine their space businesses",
+            "source_link": "https://spacenews.com/european-companies-still-in-talks-to-combine-their-space-businesses/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-04T11:53:45.602208Z",
+            "shown_at": [
+                "2025-08-04T11:53:46.252096Z"
             ]
         }
     ]
