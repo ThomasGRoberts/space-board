@@ -5,7 +5,7 @@
 | spacenews | 8 | 9 | 28 | 52 |
 | breaking_defense | 1 | 1 | 23 | 47 |
 | nyt | 0 | 0 | 22 | 46 |
-| supercluster | 1 | 1 | 105 | 105 |
+| supercluster | 1 | 1 | 106 | 106 |
 
 # Shown Order
 
@@ -5304,3 +5304,4 @@
 - **Aug 04, 10:45 PM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
 - **Aug 04, 10:59 PM** - Albedo wins NRO Stage 2 imagery contract (spacenews)
 - **Aug 04, 11:14 PM** - Skyrora gets UK launch license as first flight likely slips to 2026 (spacenews)
+- **Aug 04, 11:27 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
