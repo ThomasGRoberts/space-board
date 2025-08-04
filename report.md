@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 24 | 50 |
-| breaking_defense | 0 | 0 | 24 | 48 |
+| breaking_defense | 0 | 0 | 23 | 48 |
 | nyt | 0 | 0 | 24 | 49 |
-| supercluster | 1 | 1 | 8 | 8 |
+| supercluster | 1 | 1 | 9 | 9 |
 
 # Shown Order
 
@@ -5152,3 +5152,4 @@
 - **Aug 04, 04:49 AM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
 - **Aug 04, 05:03 AM** - Air leak persists on Russian ISS segment (spacenews)
 - **Aug 04, 05:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Aug 04, 05:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
