@@ -3,13 +3,12 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 24 | 50 |
+| supercluster | 1 | 1 | 71 | 71 |
 | breaking_defense | 0 | 0 | 24 | 49 |
 | nyt | 0 | 0 | 24 | 49 |
-| supercluster | 1 | 1 | 71 | 71 |
 
 # Shown Order
 
-- **May 19, 08:31 PM** - Gabbard signals shift in U.S. intelligence collection priorities (spacenews)
 - **May 19, 11:07 PM** - SI Imaging Services to offer leasing of high-resolution imaging satellite (spacenews)
 - **May 20, 06:02 AM** - SI Imaging Services to offer leasing of high-resolution imaging satellite (spacenews)
 - **May 20, 09:09 AM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
@@ -121,7 +120,6 @@
 - **May 23, 10:05 AM** - Trump taps Space Force general to lead $175 billion Golden Dome missile defense program (spacenews)
 - **May 23, 10:19 AM** - NGA, Space Force ink accord on responsibilities for buying commercial ISR (breaking_defense)
 - **May 23, 10:47 AM** - Gulf Deal-Making Spree Also Benefited Elon Musk and His Family (nyt)
-- **May 23, 11:01 AM** - Gabbard signals shift in U.S. intelligence collection priorities (spacenews)
 - **May 23, 11:15 AM** - There’s Probably No Life on K2-18b After All, Three Studies Conclude (nyt)
 - **May 23, 11:57 AM** - Senate sets up early June vote on Isaacman nomination to lead NASA (spacenews)
 - **May 23, 01:02 PM** - Senate sets up early June vote on Isaacman nomination to lead NASA (spacenews)
