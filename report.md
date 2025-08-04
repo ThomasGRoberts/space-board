@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 5 | 26 | 51 |
+| spacenews | 3 | 5 | 26 | 50 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | nyt | 0 | 0 | 23 | 47 |
-| supercluster | 1 | 1 | 57 | 57 |
+| supercluster | 1 | 1 | 58 | 58 |
 
 # Shown Order
 
@@ -5230,3 +5230,4 @@
 - **Aug 04, 02:47 PM** - Here’s the role that space-based interceptors will play in Golden Dome (breaking_defense)
 - **Aug 04, 03:02 PM** - The First Soda in Space: When NASA Got Caught Up in the Cola Wars (nyt)
 - **Aug 04, 03:15 PM** - Blue Origin flies crypto entrepreneur, five others on 14th crewed New Shepard flight (spacenews)
+- **Aug 04, 03:29 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
