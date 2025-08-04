@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 7 | 27 | 51 |
 | breaking_defense | 1 | 1 | 23 | 47 |
-| nyt | 0 | 0 | 22 | 46 |
+| nyt | 0 | 0 | 23 | 47 |
 | supercluster | 1 | 1 | 99 | 99 |
 
 # Shown Order
@@ -5292,3 +5292,4 @@
 - **Aug 04, 09:05 PM** - Here’s the role that space-based interceptors will play in Golden Dome (breaking_defense)
 - **Aug 04, 09:19 PM** - Space Force to launch ‘actual’ GMTI sats ‘in the next year’: General (breaking_defense)
 - **Aug 04, 09:34 PM** - Eoptic and Starris establish strategic partnership to develop multispectral satellite imaging payloads (spacenews)
+- **Aug 04, 09:47 PM** - The First Soda in Space: When NASA Got Caught Up in the Cola Wars (nyt)
