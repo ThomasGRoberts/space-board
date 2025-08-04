@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 8 | 28 | 52 |
+| spacenews | 7 | 8 | 28 | 51 |
 | breaking_defense | 1 | 1 | 23 | 47 |
 | nyt | 0 | 0 | 22 | 46 |
-| supercluster | 1 | 1 | 100 | 100 |
+| supercluster | 1 | 1 | 101 | 101 |
 
 # Shown Order
 
@@ -5295,3 +5295,4 @@
 - **Aug 04, 09:47 PM** - The First Soda in Space: When NASA Got Caught Up in the Cola Wars (nyt)
 - **Aug 04, 10:02 PM** - NASA writes off Lunar Trailblazer mission (spacenews)
 - **Aug 04, 10:19 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
+- **Aug 04, 10:21 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
