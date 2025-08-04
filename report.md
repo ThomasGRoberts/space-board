@@ -5,7 +5,7 @@
 | spacenews | 1 | 2 | 23 | 49 |
 | breaking_defense | 0 | 0 | 22 | 47 |
 | nyt | 0 | 0 | 23 | 48 |
-| supercluster | 1 | 1 | 8 | 8 |
+| supercluster | 1 | 1 | 9 | 9 |
 
 # Shown Order
 
@@ -5158,3 +5158,4 @@
 - **Aug 04, 07:33 AM** - Next X-37B mission to carry quantum sensor, laser link experiments (breaking_defense)
 - **Aug 04, 07:47 AM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
 - **Aug 04, 08:01 AM** - Senators raise NASA funding concerns in letter to Duffy (spacenews)
+- **Aug 04, 08:15 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
