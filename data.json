@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-04T00:01:54.579252+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7191aa00a7408b35479e86d82685d40e",
+    "trigger_count": 0,
+    "current_item_id": "e5fa7862d40c86e7e1c5dbdbf5303e78",
     "data": [
         {
             "id": "1599e822eaa319913461a0dfce35daa7",
@@ -10840,6 +10840,18 @@
             "fetched_datetime": "2025-08-04T17:45:49.892095Z",
             "shown_at": [
                 "2025-08-04T17:59:34.581197Z"
+            ]
+        },
+        {
+            "id": "e5fa7862d40c86e7e1c5dbdbf5303e78",
+            "source": "breaking_defense",
+            "text": "Space Force to launch ‘actual’ GMTI sats ‘in the next year’: General",
+            "source_link": "https://breakingdefense.com/2025/08/space-force-to-launch-actual-gmti-sats-in-the-next-year-general/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-04T21:19:42.659834Z",
+            "shown_at": [
+                "2025-08-04T21:19:43.718527Z"
             ]
         }
     ]
