@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 5 | 26 | 51 |
+| spacenews | 4 | 5 | 26 | 50 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | nyt | 0 | 0 | 23 | 47 |
-| supercluster | 1 | 1 | 44 | 44 |
+| supercluster | 1 | 1 | 45 | 45 |
 
 # Shown Order
 
@@ -5211,3 +5211,4 @@
 - **Aug 04, 01:05 PM** - Humans to Mars or humans exploring Mars? (spacenews)
 - **Aug 04, 01:19 PM** - Burloak and MDA Bet Big on Additive Manufacturing, Fueling Next-Gen Satellite Constellations (spacenews)
 - **Aug 04, 01:33 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
+- **Aug 04, 01:35 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
