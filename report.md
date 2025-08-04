@@ -5,7 +5,7 @@
 | spacenews | 3 | 5 | 26 | 50 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | nyt | 0 | 0 | 23 | 47 |
-| supercluster | 1 | 1 | 71 | 71 |
+| supercluster | 1 | 1 | 72 | 72 |
 
 # Shown Order
 
@@ -5250,3 +5250,4 @@
 - **Aug 04, 04:45 PM** - Draft Trump EO would loosen commercial space regs, citing national security links (breaking_defense)
 - **Aug 04, 04:59 PM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
 - **Aug 04, 05:17 PM** - House appropriators want TraCSS to rely more on Defense Department (spacenews)
+- **Aug 04, 05:31 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
