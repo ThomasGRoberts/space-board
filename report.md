@@ -5,7 +5,7 @@
 | spacenews | 4 | 5 | 26 | 50 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | nyt | 0 | 0 | 23 | 47 |
-| supercluster | 1 | 1 | 52 | 52 |
+| supercluster | 1 | 1 | 53 | 53 |
 
 # Shown Order
 
@@ -5222,3 +5222,4 @@
 - **Aug 04, 02:17 PM** - Senators raise NASA funding concerns in letter to Duffy (spacenews)
 - **Aug 04, 02:32 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Aug 04, 02:35 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
+- **Aug 04, 02:37 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
