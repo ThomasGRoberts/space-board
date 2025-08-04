@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 6 | 26 | 50 |
+| spacenews | 5 | 6 | 27 | 51 |
 | breaking_defense | 0 | 0 | 22 | 46 |
 | nyt | 0 | 0 | 23 | 47 |
 | supercluster | 1 | 1 | 92 | 92 |
@@ -5278,3 +5278,4 @@
 - **Aug 04, 07:45 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Aug 04, 07:47 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Aug 04, 07:49 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
+- **Aug 04, 07:51 PM** - SmallSat heads to Salt Lake City as audience expands (spacenews)
