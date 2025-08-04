@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 24 | 50 |
-| supercluster | 1 | 1 | 93 | 93 |
+| supercluster | 1 | 1 | 94 | 94 |
 | breaking_defense | 0 | 0 | 24 | 49 |
 | nyt | 0 | 0 | 24 | 49 |
 
@@ -5230,3 +5230,4 @@
 - **Aug 04, 02:27 AM** - It’s more than fuel: Why the Space Force needs in-space servicing, assembly, and manufacturing (breaking_defense)
 - **Aug 04, 02:42 AM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
 - **Aug 04, 02:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Aug 04, 02:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
