@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 6 | 26 | 50 |
+| spacenews | 6 | 7 | 27 | 51 |
 | breaking_defense | 1 | 1 | 24 | 48 |
 | nyt | 0 | 0 | 22 | 46 |
 | supercluster | 1 | 1 | 99 | 99 |
@@ -5291,3 +5291,4 @@
 - **Aug 04, 08:51 PM** - Military leaders say integrated space power crucial for national defense (spacenews)
 - **Aug 04, 09:05 PM** - Here’s the role that space-based interceptors will play in Golden Dome (breaking_defense)
 - **Aug 04, 09:19 PM** - Space Force to launch ‘actual’ GMTI sats ‘in the next year’: General (breaking_defense)
+- **Aug 04, 09:34 PM** - Eoptic and Starris establish strategic partnership to develop multispectral satellite imaging payloads (spacenews)
