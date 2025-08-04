@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 8 | 27 | 51 |
-| breaking_defense | 1 | 1 | 23 | 47 |
+| breaking_defense | 1 | 1 | 24 | 48 |
 | nyt | 0 | 0 | 22 | 46 |
 | supercluster | 1 | 1 | 105 | 105 |
 
@@ -5300,3 +5300,4 @@
 - **Aug 04, 10:25 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Aug 04, 10:27 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Aug 04, 10:29 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
+- **Aug 04, 10:31 PM** - Space Force to launch ‘actual’ GMTI sats ‘in the next year’: General (breaking_defense)
