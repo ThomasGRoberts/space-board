@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 5 | 26 | 51 |
+| spacenews | 4 | 5 | 26 | 50 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | nyt | 0 | 0 | 23 | 47 |
-| supercluster | 1 | 1 | 50 | 50 |
+| supercluster | 1 | 1 | 51 | 51 |
 
 # Shown Order
 
@@ -5220,3 +5220,4 @@
 - **Aug 04, 01:47 PM** - Next X-37B mission to carry quantum sensor, laser link experiments (breaking_defense)
 - **Aug 04, 02:02 PM** - The First Soda in Space: When NASA Got Caught Up in the Cola Wars (nyt)
 - **Aug 04, 02:17 PM** - Senators raise NASA funding concerns in letter to Duffy (spacenews)
+- **Aug 04, 02:32 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
