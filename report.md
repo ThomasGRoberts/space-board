@@ -5,7 +5,7 @@
 | spacenews | 1 | 2 | 24 | 50 |
 | breaking_defense | 0 | 0 | 23 | 48 |
 | nyt | 0 | 0 | 24 | 49 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -5143,3 +5143,4 @@
 - **Aug 04, 04:07 AM** - It’s time to unlock inland orbital launch for a resilient U.S. space future (spacenews)
 - **Aug 04, 04:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Aug 04, 04:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Aug 04, 04:25 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
