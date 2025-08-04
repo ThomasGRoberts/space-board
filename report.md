@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 24 | 50 |
-| supercluster | 1 | 1 | 78 | 78 |
+| supercluster | 1 | 1 | 79 | 79 |
 | breaking_defense | 0 | 0 | 24 | 49 |
 | nyt | 0 | 0 | 24 | 49 |
 
@@ -5209,3 +5209,4 @@
 - **Aug 04, 12:22 AM** - KSAT and AWS expand alliance in satellite communications (spacenews)
 - **Aug 04, 12:35 AM** - Draft Trump EO would loosen commercial space regs, citing national security links (breaking_defense)
 - **Aug 04, 12:49 AM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
+- **Aug 04, 01:03 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
