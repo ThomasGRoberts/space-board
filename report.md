@@ -5,7 +5,7 @@
 | spacenews | 5 | 7 | 26 | 51 |
 | breaking_defense | 0 | 0 | 23 | 46 |
 | nyt | 0 | 0 | 23 | 47 |
-| supercluster | 1 | 1 | 78 | 78 |
+| supercluster | 1 | 1 | 79 | 79 |
 
 # Shown Order
 
@@ -5261,3 +5261,4 @@
 - **Aug 04, 05:59 PM** - Long March 12 launches first Guowang satellites developed by private firm (spacenews)
 - **Aug 04, 06:13 PM** - Space Force makes 5 awards for jam-resistant SATCOM (breaking_defense)
 - **Aug 04, 06:27 PM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
+- **Aug 04, 06:41 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
