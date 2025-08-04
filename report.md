@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 24 | 49 |
+| spacenews | 1 | 2 | 24 | 50 |
 | breaking_defense | 0 | 0 | 24 | 49 |
 | nyt | 0 | 0 | 24 | 49 |
 | supercluster | 1 | 1 | 7 | 7 |
@@ -5150,3 +5150,4 @@
 - **Aug 04, 04:34 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Aug 04, 04:35 AM** - Space Force makes 5 awards for jam-resistant SATCOM (breaking_defense)
 - **Aug 04, 04:49 AM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
+- **Aug 04, 05:03 AM** - Air leak persists on Russian ISS segment (spacenews)
