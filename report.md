@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 6 | 27 | 51 |
 | breaking_defense | 0 | 0 | 23 | 47 |
-| nyt | 0 | 0 | 22 | 46 |
+| nyt | 0 | 0 | 23 | 47 |
 | supercluster | 1 | 1 | 92 | 92 |
 
 # Shown Order
@@ -5280,3 +5280,4 @@
 - **Aug 04, 07:49 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Aug 04, 07:51 PM** - SmallSat heads to Salt Lake City as audience expands (spacenews)
 - **Aug 04, 08:07 PM** - It’s more than fuel: Why the Space Force needs in-space servicing, assembly, and manufacturing (breaking_defense)
+- **Aug 04, 08:21 PM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
