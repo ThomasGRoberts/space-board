@@ -5144,4 +5144,4 @@
 - **Aug 04, 04:35 AM** - Space Force makes 5 awards for jam-resistant SATCOM (breaking_defense)
 - **Aug 04, 04:49 AM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
 - **Aug 04, 05:03 AM** - Air leak persists on Russian ISS segment (spacenews)
-- **Aug 04, 06:24 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Aug 04, 06:26 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
