@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 9 | 28 | 52 |
 | breaking_defense | 1 | 1 | 23 | 47 |
-| nyt | 0 | 0 | 21 | 45 |
+| nyt | 0 | 0 | 22 | 46 |
 | supercluster | 1 | 1 | 112 | 112 |
 
 # Shown Order
@@ -5312,3 +5312,4 @@
 - **Aug 04, 11:37 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Aug 04, 11:39 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Aug 04, 11:41 PM** - Space Force makes 5 awards for jam-resistant SATCOM (breaking_defense)
+- **Aug 04, 11:55 PM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
