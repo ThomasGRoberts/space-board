@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 7 | 27 | 51 |
 | breaking_defense | 0 | 0 | 23 | 47 |
-| nyt | 0 | 0 | 22 | 46 |
+| nyt | 0 | 0 | 23 | 47 |
 | supercluster | 1 | 1 | 78 | 78 |
 
 # Shown Order
@@ -5260,3 +5260,4 @@
 - **Aug 04, 05:45 PM** - Military leaders say integrated space power crucial for national defense (spacenews)
 - **Aug 04, 05:59 PM** - Long March 12 launches first Guowang satellites developed by private firm (spacenews)
 - **Aug 04, 06:13 PM** - Space Force makes 5 awards for jam-resistant SATCOM (breaking_defense)
+- **Aug 04, 06:27 PM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
