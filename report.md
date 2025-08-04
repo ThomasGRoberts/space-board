@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 5 | 25 | 50 |
-| breaking_defense | 0 | 0 | 24 | 47 |
-| nyt | 0 | 0 | 23 | 47 |
+| breaking_defense | 0 | 0 | 23 | 47 |
+| nyt | 0 | 0 | 24 | 48 |
 | supercluster | 1 | 1 | 50 | 50 |
 
 # Shown Order
@@ -5218,3 +5218,4 @@
 - **Aug 04, 01:43 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Aug 04, 01:45 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Aug 04, 01:47 PM** - Next X-37B mission to carry quantum sensor, laser link experiments (breaking_defense)
+- **Aug 04, 02:02 PM** - The First Soda in Space: When NASA Got Caught Up in the Cola Wars (nyt)
