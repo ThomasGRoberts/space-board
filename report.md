@@ -5,7 +5,7 @@
 | spacenews | 1 | 2 | 23 | 49 |
 | breaking_defense | 0 | 0 | 22 | 47 |
 | nyt | 0 | 0 | 23 | 48 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -5148,3 +5148,4 @@
 - **Aug 04, 06:32 AM** - Here’s the role that space-based interceptors will play in Golden Dome (breaking_defense)
 - **Aug 04, 06:47 AM** - The First Soda in Space: When NASA Got Caught Up in the Cola Wars (nyt)
 - **Aug 04, 07:02 AM** - Firefly Aerospace wins fourth lunar lander award (spacenews)
+- **Aug 04, 07:18 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
