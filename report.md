@@ -5,7 +5,7 @@
 | spacenews | 7 | 8 | 28 | 52 |
 | breaking_defense | 1 | 1 | 23 | 47 |
 | nyt | 0 | 0 | 22 | 46 |
-| supercluster | 1 | 1 | 99 | 99 |
+| supercluster | 1 | 1 | 100 | 100 |
 
 # Shown Order
 
@@ -5294,3 +5294,4 @@
 - **Aug 04, 09:34 PM** - Eoptic and Starris establish strategic partnership to develop multispectral satellite imaging payloads (spacenews)
 - **Aug 04, 09:47 PM** - The First Soda in Space: When NASA Got Caught Up in the Cola Wars (nyt)
 - **Aug 04, 10:02 PM** - NASA writes off Lunar Trailblazer mission (spacenews)
+- **Aug 04, 10:19 PM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
