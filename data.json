@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-04T00:01:54.579252+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2589238d4f1e8bf401927057ef412ba4",
+    "trigger_count": 0,
+    "current_item_id": "3a8626e98a100a14d3590c953480f01a",
     "data": [
         {
             "id": "1599e822eaa319913461a0dfce35daa7",
@@ -10804,9 +10804,12 @@
             "source": "spacenews",
             "text": "Long March 12 launches first Guowang satellites developed by private firm",
             "source_link": "https://spacenews.com/long-march-12-launches-first-guowang-satellites-developed-by-private-firm/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-08-04T17:45:49.892095Z"
+            "fetched_datetime": "2025-08-04T17:45:49.892095Z",
+            "shown_at": [
+                "2025-08-04T17:59:34.581197Z"
+            ]
         }
     ]
 }
