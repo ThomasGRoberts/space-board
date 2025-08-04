@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 24 | 50 |
 | supercluster | 1 | 1 | 99 | 99 |
-| breaking_defense | 0 | 0 | 23 | 48 |
+| breaking_defense | 0 | 0 | 24 | 49 |
 | nyt | 0 | 0 | 24 | 49 |
 
 # Shown Order
@@ -5237,3 +5237,4 @@
 - **Aug 04, 03:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Aug 04, 03:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Aug 04, 03:09 AM** - Air leak persists on Russian ISS segment (spacenews)
+- **Aug 04, 03:25 AM** - Space Force makes 5 awards for jam-resistant SATCOM (breaking_defense)
