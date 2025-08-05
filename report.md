@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 9 | 28 | 52 |
 | breaking_defense | 1 | 1 | 23 | 47 |
-| supercluster | 1 | 1 | 113 | 113 |
+| supercluster | 1 | 1 | 114 | 114 |
 | nyt | 0 | 0 | 22 | 46 |
 
 # Shown Order
@@ -5201,3 +5201,4 @@
 - **Aug 04, 11:55 PM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
 - **Aug 05, 12:11 AM** - Eoptic and Starris establish strategic partnership to develop multispectral satellite imaging payloads (spacenews)
 - **Aug 05, 12:25 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
+- **Aug 05, 12:27 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
