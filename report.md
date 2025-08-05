@@ -5,7 +5,7 @@
 | spacenews | 9 | 10 | 27 | 51 |
 | breaking_defense | 1 | 1 | 22 | 46 |
 | nyt | 0 | 0 | 20 | 44 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -5100,3 +5100,4 @@
 - **Aug 05, 03:31 AM** - Draft Trump EO would loosen commercial space regs, citing national security links (breaking_defense)
 - **Aug 05, 04:51 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 05, 04:53 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 05, 04:55 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
