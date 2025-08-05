@@ -5,7 +5,7 @@
 | spacenews | 9 | 10 | 28 | 51 |
 | breaking_defense | 1 | 1 | 23 | 46 |
 | nyt | 0 | 0 | 22 | 44 |
-| supercluster | 1 | 1 | 25 | 25 |
+| supercluster | 1 | 1 | 26 | 26 |
 
 # Shown Order
 
@@ -5135,3 +5135,4 @@
 - **Aug 05, 08:03 AM** - Frontgrade Unveils SBC-2A72 with 32GB NAND to Enable High-Performance Edge Computing in Air and Space Platforms (spacenews)
 - **Aug 05, 08:17 AM** - It’s more than fuel: Why the Space Force needs in-space servicing, assembly, and manufacturing (breaking_defense)
 - **Aug 05, 08:32 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 05, 08:33 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
