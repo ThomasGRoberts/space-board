@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-05T00:02:18.684058+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e66ede19fefacad26edc846a43c4686d",
+    "trigger_count": 0,
+    "current_item_id": "fb89d42dc32aafbb80fd54808fe45b8b",
     "data": [
         {
             "id": "2a43c90ba1ff5d0726df53e9600356f1",
@@ -10853,6 +10853,18 @@
             "fetched_datetime": "2025-08-05T21:55:31.288505Z",
             "shown_at": [
                 "2025-08-05T21:55:32.046162Z"
+            ]
+        },
+        {
+            "id": "fb89d42dc32aafbb80fd54808fe45b8b",
+            "source": "spacenews",
+            "text": "Space Command chief calls for orbital gas stations as China tests satellite refueling",
+            "source_link": "https://spacenews.com/space-command-chief-calls-for-orbital-gas-stations-as-china-tests-satellite-refueling/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-05T22:37:36.530533Z",
+            "shown_at": [
+                "2025-08-05T22:37:37.040488Z"
             ]
         }
     ]
