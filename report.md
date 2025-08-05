@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 10 | 28 | 52 |
 | breaking_defense | 1 | 1 | 23 | 47 |
-| supercluster | 1 | 1 | 126 | 126 |
+| supercluster | 1 | 1 | 127 | 127 |
 | nyt | 0 | 0 | 22 | 46 |
 
 # Shown Order
@@ -5220,3 +5220,4 @@
 - **Aug 05, 01:39 AM** - Draft Trump EO would loosen commercial space regs, citing national security links (breaking_defense)
 - **Aug 05, 01:53 AM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
 - **Aug 05, 02:07 AM** - Lockheed Martin targets 2028 demo of space-based missile interceptors (spacenews)
+- **Aug 05, 02:21 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
