@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 13 | 28 | 54 |
-| breaking_defense | 1 | 1 | 23 | 46 |
+| breaking_defense | 1 | 1 | 24 | 47 |
 | nyt | 0 | 0 | 22 | 45 |
 | supercluster | 1 | 1 | 59 | 59 |
 
@@ -5185,3 +5185,4 @@
 - **Aug 05, 12:49 PM** - European companies still in talks to combine their space businesses (spacenews)
 - **Aug 05, 01:05 PM** - Interlune to fly instrument on Astrolab’s FLIP rover (spacenews)
 - **Aug 05, 01:19 PM** - Golden Dome requires non-traditional thinking and an agile approach (spacenews)
+- **Aug 05, 01:33 PM** - Here’s the role that space-based interceptors will play in Golden Dome (breaking_defense)
