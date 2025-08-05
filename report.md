@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 12 | 27 | 52 |
 | breaking_defense | 1 | 1 | 22 | 45 |
-| nyt | 0 | 0 | 21 | 44 |
-| supercluster | 1 | 1 | 68 | 68 |
+| nyt | 0 | 0 | 20 | 44 |
+| supercluster | 1 | 1 | 69 | 69 |
 
 # Shown Order
 
@@ -5198,3 +5198,4 @@
 - **Aug 05, 02:35 PM** - Space Force makes 5 awards for jam-resistant SATCOM (breaking_defense)
 - **Aug 05, 03:50 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 05, 03:56 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 05, 04:02 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
