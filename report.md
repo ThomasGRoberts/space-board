@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 10 | 28 | 52 |
-| breaking_defense | 1 | 1 | 23 | 46 |
-| supercluster | 1 | 1 | 129 | 129 |
+| breaking_defense | 1 | 1 | 22 | 46 |
+| supercluster | 1 | 1 | 130 | 130 |
 | nyt | 0 | 0 | 22 | 46 |
 
 # Shown Order
@@ -5223,3 +5223,4 @@
 - **Aug 05, 02:21 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Aug 05, 02:23 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Aug 05, 02:25 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
+- **Aug 05, 02:27 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
