@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 13 | 28 | 54 |
-| breaking_defense | 1 | 1 | 23 | 46 |
+| breaking_defense | 1 | 1 | 24 | 47 |
 | nyt | 0 | 0 | 22 | 45 |
 | supercluster | 1 | 1 | 66 | 66 |
 
@@ -5195,3 +5195,4 @@
 - **Aug 05, 01:59 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 05, 02:02 PM** - The First Soda in Space: When NASA Got Caught Up in the Cola Wars (nyt)
 - **Aug 05, 02:17 PM** - Senators raise NASA funding concerns in letter to Duffy (spacenews)
+- **Aug 05, 02:35 PM** - Space Force makes 5 awards for jam-resistant SATCOM (breaking_defense)
