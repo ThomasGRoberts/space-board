@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 10 | 27 | 50 |
+| spacenews | 9 | 10 | 28 | 51 |
 | breaking_defense | 1 | 1 | 23 | 46 |
 | nyt | 0 | 0 | 22 | 45 |
 | supercluster | 1 | 1 | 24 | 24 |
@@ -5132,3 +5132,4 @@
 - **Aug 05, 07:45 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 05, 07:47 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 05, 07:49 AM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
+- **Aug 05, 08:03 AM** - Frontgrade Unveils SBC-2A72 with 32GB NAND to Enable High-Performance Edge Computing in Air and Space Platforms (spacenews)
