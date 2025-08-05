@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 26 | 52 |
-| breaking_defense | 2 | 2 | 23 | 46 |
+| breaking_defense | 2 | 2 | 23 | 45 |
 | nyt | 0 | 0 | 19 | 42 |
-| supercluster | 1 | 1 | 87 | 87 |
+| supercluster | 1 | 1 | 88 | 88 |
 
 # Shown Order
 
@@ -5224,3 +5224,4 @@
 - **Aug 05, 06:20 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 05, 06:21 PM** - Draft Trump EO would loosen commercial space regs, citing national security links (breaking_defense)
 - **Aug 05, 06:35 PM** - Senate Commerce Committee advances Jacobs nomination for NOAA administrator (spacenews)
+- **Aug 05, 06:49 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
