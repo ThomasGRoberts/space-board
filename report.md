@@ -5098,4 +5098,4 @@
 - **Aug 05, 02:49 AM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
 - **Aug 05, 03:03 AM** - GSLV launches NASA-ISRO radar satellite (spacenews)
 - **Aug 05, 03:31 AM** - Draft Trump EO would loosen commercial space regs, citing national security links (breaking_defense)
-- **Aug 05, 04:47 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
+- **Aug 05, 04:49 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
