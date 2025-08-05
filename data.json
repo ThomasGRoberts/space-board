@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-05T00:02:18.684058+00:00",
-    "trigger_count": 3,
-    "current_item_id": "1f61e7d10b2b74e5ba9d76f57b6e1afe",
+    "trigger_count": 4,
+    "current_item_id": "b4fa5167b536af8b3aa9516a9232b0aa",
     "data": [
         {
             "id": "2a43c90ba1ff5d0726df53e9600356f1",
@@ -10594,17 +10594,17 @@
             ]
         },
         {
-            "id": "1f61e7d10b2b74e5ba9d76f57b6e1afe",
+            "id": "b4fa5167b536af8b3aa9516a9232b0aa",
             "source": "supercluster",
-            "text": "Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS",
-            "source_link": "https://www.supercluster.com/launches/the-harvest-goddess-thrives",
+            "text": "SpaceX Will Launch Project Kuiper Internet Satellites for Amazon",
+            "source_link": "https://www.supercluster.com/launches/project-kuiper-kf-02",
             "shown": true,
             "type": "launch",
-            "target_datetime": "2025-08-05T03:50:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-08-05T04:49:32.924873Z",
+            "target_datetime": "2025-08-07T14:01:00.000Z",
+            "time_remaining": "2d 09h 09m",
+            "fetched_datetime": "2025-08-05T04:51:57.624595Z",
             "shown_at": [
-                "2025-08-05T04:49:33.585002Z"
+                "2025-08-05T04:51:58.612233Z"
             ]
         }
     ]

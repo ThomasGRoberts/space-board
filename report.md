@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 10 | 27 | 51 |
 | breaking_defense | 1 | 1 | 22 | 46 |
-| nyt | 0 | 0 | 21 | 44 |
+| nyt | 0 | 0 | 20 | 44 |
 | supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
@@ -5098,4 +5098,4 @@
 - **Aug 05, 02:49 AM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
 - **Aug 05, 03:03 AM** - GSLV launches NASA-ISRO radar satellite (spacenews)
 - **Aug 05, 03:31 AM** - Draft Trump EO would loosen commercial space regs, citing national security links (breaking_defense)
-- **Aug 05, 04:49 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
+- **Aug 05, 04:51 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
