@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 10 | 28 | 51 |
-| breaking_defense | 1 | 1 | 24 | 46 |
+| breaking_defense | 1 | 1 | 23 | 46 |
 | nyt | 0 | 0 | 22 | 44 |
-| supercluster | 1 | 1 | 17 | 17 |
+| supercluster | 1 | 1 | 18 | 18 |
 
 # Shown Order
 
@@ -5124,3 +5124,4 @@
 - **Aug 05, 06:51 AM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
 - **Aug 05, 07:05 AM** - Lockheed Martin targets 2028 demo of space-based missile interceptors (spacenews)
 - **Aug 05, 07:19 AM** - Space Force to launch ‘actual’ GMTI sats ‘in the next year’: General (breaking_defense)
+- **Aug 05, 07:35 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
