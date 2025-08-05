@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 25 | 52 |
 | breaking_defense | 2 | 2 | 23 | 45 |
-| nyt | 0 | 0 | 20 | 43 |
-| supercluster | 1 | 1 | 80 | 80 |
+| nyt | 0 | 0 | 20 | 42 |
+| supercluster | 1 | 1 | 81 | 81 |
 
 # Shown Order
 
@@ -5215,3 +5215,4 @@
 - **Aug 05, 05:27 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 05, 05:29 PM** - With Intelsat buy, SES targets European defense market (breaking_defense)
 - **Aug 05, 05:47 PM** - China launches new group of Guowang satellites from commercial spaceport (spacenews)
+- **Aug 05, 06:06 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
