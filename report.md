@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 10 | 27 | 51 |
-| breaking_defense | 1 | 1 | 22 | 45 |
+| breaking_defense | 1 | 1 | 23 | 46 |
 | nyt | 0 | 0 | 21 | 45 |
 | supercluster | 1 | 1 | 3 | 3 |
 
@@ -5103,3 +5103,4 @@
 - **Aug 05, 04:55 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 05, 04:57 AM** - The First Soda in Space: When NASA Got Caught Up in the Cola Wars (nyt)
 - **Aug 05, 05:11 AM** - Moog Presents Space Computing Advancements to Enable Next-Generation Missions at Small Satellite Conference (spacenews)
+- **Aug 05, 05:25 AM** - It’s more than fuel: Why the Space Force needs in-space servicing, assembly, and manufacturing (breaking_defense)
