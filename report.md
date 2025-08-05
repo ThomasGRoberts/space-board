@@ -5,7 +5,7 @@
 | spacenews | 7 | 12 | 26 | 52 |
 | breaking_defense | 4 | 4 | 25 | 47 |
 | nyt | 0 | 0 | 17 | 40 |
-| supercluster | 1 | 1 | 102 | 102 |
+| supercluster | 1 | 1 | 103 | 103 |
 
 # Shown Order
 
@@ -5245,3 +5245,4 @@
 - **Aug 05, 08:17 PM** - Space Force launching sats to ‘enable’ GMTI ahead of mission-dedicated birds in 2028 (breaking_defense)
 - **Aug 05, 08:32 PM** - Golden Dome requires non-traditional thinking and an agile approach (spacenews)
 - **Aug 05, 08:45 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 05, 08:47 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
