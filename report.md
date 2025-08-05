@@ -5,7 +5,7 @@
 | spacenews | 9 | 10 | 28 | 52 |
 | breaking_defense | 1 | 1 | 23 | 47 |
 | nyt | 0 | 0 | 21 | 45 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -5099,3 +5099,4 @@
 - **Aug 05, 03:03 AM** - GSLV launches NASA-ISRO radar satellite (spacenews)
 - **Aug 05, 03:31 AM** - Draft Trump EO would loosen commercial space regs, citing national security links (breaking_defense)
 - **Aug 05, 03:45 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
+- **Aug 05, 03:47 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
