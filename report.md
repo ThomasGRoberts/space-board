@@ -5,7 +5,7 @@
 | spacenews | 9 | 10 | 28 | 51 |
 | breaking_defense | 1 | 1 | 23 | 46 |
 | nyt | 0 | 0 | 22 | 44 |
-| supercluster | 1 | 1 | 10 | 10 |
+| supercluster | 1 | 1 | 11 | 11 |
 
 # Shown Order
 
@@ -5114,3 +5114,4 @@
 - **Aug 05, 05:55 AM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
 - **Aug 05, 06:09 AM** - It’s time to unlock inland orbital launch for a resilient U.S. space future (spacenews)
 - **Aug 05, 06:23 AM** - It’s more than fuel: Why the Space Force needs in-space servicing, assembly, and manufacturing (breaking_defense)
+- **Aug 05, 06:37 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
