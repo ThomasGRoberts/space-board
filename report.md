@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 9 | 28 | 52 |
-| breaking_defense | 1 | 1 | 22 | 46 |
+| breaking_defense | 1 | 1 | 23 | 47 |
 | supercluster | 1 | 1 | 119 | 119 |
 | nyt | 0 | 0 | 22 | 46 |
 
@@ -5207,3 +5207,4 @@
 - **Aug 05, 12:33 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Aug 05, 12:35 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Aug 05, 12:37 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
+- **Aug 05, 12:39 AM** - Space Force makes 5 awards for jam-resistant SATCOM (breaking_defense)
