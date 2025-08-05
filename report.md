@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 10 | 28 | 51 |
-| breaking_defense | 1 | 1 | 23 | 45 |
+| breaking_defense | 1 | 1 | 24 | 46 |
 | nyt | 0 | 0 | 22 | 45 |
 | supercluster | 1 | 1 | 38 | 38 |
 
@@ -5153,3 +5153,4 @@
 - **Aug 05, 09:41 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 05, 09:43 AM** - The First Soda in Space: When NASA Got Caught Up in the Cola Wars (nyt)
 - **Aug 05, 09:57 AM** - China launches remote sensing satellite for Pakistan with Kuaizhou-1A rocket (spacenews)
+- **Aug 05, 10:13 AM** - Space Force to launch ‘actual’ GMTI sats ‘in the next year’: General (breaking_defense)
