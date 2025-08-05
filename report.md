@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 10 | 28 | 52 |
+| spacenews | 9 | 10 | 29 | 53 |
 | breaking_defense | 1 | 1 | 23 | 47 |
 | supercluster | 1 | 1 | 133 | 133 |
 | nyt | 0 | 0 | 22 | 46 |
@@ -5229,3 +5229,4 @@
 - **Aug 05, 02:33 AM** - Rocket Lab Will Launch an Earth-Imaging Satellite for iQPS (supercluster)
 - **Aug 05, 02:35 AM** - Space Force makes 5 awards for jam-resistant SATCOM (breaking_defense)
 - **Aug 05, 02:49 AM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
+- **Aug 05, 03:03 AM** - GSLV launches NASA-ISRO radar satellite (spacenews)
