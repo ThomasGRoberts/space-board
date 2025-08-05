@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-05T00:02:18.684058+00:00",
-    "trigger_count": 6,
-    "current_item_id": "21ad848fa658c4426fee17ef9efa6d1b",
+    "trigger_count": 0,
+    "current_item_id": "a462272fa7c4b009f4b92dd2a143d8ed",
     "data": [
         {
             "id": "2a43c90ba1ff5d0726df53e9600356f1",
@@ -10714,6 +10714,18 @@
                 "2025-05-22T02:41:48.382342Z",
                 "2025-05-27T03:23:33.650675Z",
                 "2025-05-27T14:21:21.216946Z"
+            ]
+        },
+        {
+            "id": "a462272fa7c4b009f4b92dd2a143d8ed",
+            "source": "spacenews",
+            "text": "Lockheed Martin targets 2028 demo of space-based missile interceptors",
+            "source_link": "https://spacenews.com/lockheed-martin-targets-2028-demo-of-space-based-missile-interceptors/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-05T02:07:21.363631Z",
+            "shown_at": [
+                "2025-08-05T02:07:22.276049Z"
             ]
         }
     ]
