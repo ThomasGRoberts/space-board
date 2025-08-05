@@ -5,7 +5,7 @@
 | spacenews | 9 | 11 | 28 | 51 |
 | breaking_defense | 1 | 1 | 24 | 46 |
 | nyt | 0 | 0 | 22 | 44 |
-| supercluster | 1 | 1 | 53 | 53 |
+| supercluster | 1 | 1 | 54 | 54 |
 
 # Shown Order
 
@@ -5175,3 +5175,4 @@
 - **Aug 05, 11:51 AM** - Military leaders say integrated space power crucial for national defense (spacenews)
 - **Aug 05, 12:05 PM** - Here’s the role that space-based interceptors will play in Golden Dome (breaking_defense)
 - **Aug 05, 12:19 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 05, 12:21 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
