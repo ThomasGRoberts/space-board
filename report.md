@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 26 | 53 |
 | breaking_defense | 3 | 4 | 25 | 48 |
-| nyt | 0 | 0 | 15 | 38 |
-| supercluster | 1 | 1 | 124 | 124 |
+| nyt | 0 | 0 | 15 | 37 |
+| supercluster | 1 | 1 | 125 | 125 |
 
 # Shown Order
 
@@ -5273,3 +5273,4 @@
 - **Aug 05, 10:37 PM** - Space Command chief calls for orbital gas stations as China tests satellite refueling (spacenews)
 - **Aug 05, 10:51 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 05, 10:53 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 05, 10:55 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
