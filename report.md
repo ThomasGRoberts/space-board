@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 12 | 25 | 51 |
+| spacenews | 7 | 12 | 26 | 52 |
 | breaking_defense | 4 | 4 | 25 | 48 |
 | nyt | 0 | 0 | 17 | 40 |
 | supercluster | 1 | 1 | 101 | 101 |
@@ -5243,3 +5243,4 @@
 - **Aug 05, 07:59 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 05, 08:02 PM** - Draft Trump EO would loosen commercial space regs, citing national security links (breaking_defense)
 - **Aug 05, 08:17 PM** - Space Force launching sats to ‘enable’ GMTI ahead of mission-dedicated birds in 2028 (breaking_defense)
+- **Aug 05, 08:32 PM** - Golden Dome requires non-traditional thinking and an agile approach (spacenews)
