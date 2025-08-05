@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 10 | 27 | 50 |
+| spacenews | 9 | 10 | 28 | 51 |
 | breaking_defense | 1 | 1 | 23 | 46 |
 | nyt | 0 | 0 | 22 | 45 |
 | supercluster | 1 | 1 | 10 | 10 |
@@ -5112,3 +5112,4 @@
 - **Aug 05, 05:49 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 05, 05:53 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 05, 05:55 AM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
+- **Aug 05, 06:09 AM** - It’s time to unlock inland orbital launch for a resilient U.S. space future (spacenews)
