@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 10 | 27 | 51 |
 | breaking_defense | 1 | 1 | 23 | 46 |
-| nyt | 0 | 0 | 21 | 44 |
+| nyt | 0 | 0 | 22 | 45 |
 | supercluster | 1 | 1 | 10 | 10 |
 
 # Shown Order
@@ -5111,3 +5111,4 @@
 - **Aug 05, 05:47 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 05, 05:49 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 05, 05:53 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 05, 05:55 AM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
