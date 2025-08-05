@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 12 | 27 | 52 |
+| spacenews | 9 | 12 | 26 | 52 |
 | breaking_defense | 1 | 1 | 22 | 45 |
-| nyt | 0 | 0 | 20 | 43 |
+| nyt | 0 | 0 | 21 | 44 |
 | supercluster | 1 | 1 | 73 | 73 |
 
 # Shown Order
@@ -5203,3 +5203,4 @@
 - **Aug 05, 04:07 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 05, 04:10 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 05, 04:14 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 05, 04:17 PM** - The First Soda in Space: When NASA Got Caught Up in the Cola Wars (nyt)
