@@ -5,7 +5,7 @@
 | spacenews | 7 | 12 | 26 | 52 |
 | breaking_defense | 4 | 4 | 25 | 47 |
 | nyt | 0 | 0 | 17 | 40 |
-| supercluster | 1 | 1 | 103 | 103 |
+| supercluster | 1 | 1 | 104 | 104 |
 
 # Shown Order
 
@@ -5246,3 +5246,4 @@
 - **Aug 05, 08:32 PM** - Golden Dome requires non-traditional thinking and an agile approach (spacenews)
 - **Aug 05, 08:45 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 05, 08:47 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 05, 08:49 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
