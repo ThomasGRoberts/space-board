@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 12 | 25 | 52 |
+| spacenews | 7 | 12 | 26 | 53 |
 | breaking_defense | 3 | 3 | 24 | 47 |
 | nyt | 0 | 0 | 18 | 41 |
 | supercluster | 1 | 1 | 94 | 94 |
@@ -5233,3 +5233,4 @@
 - **Aug 05, 07:01 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 05, 07:03 PM** - Here’s the role that space-based interceptors will play in Golden Dome (breaking_defense)
 - **Aug 05, 07:17 PM** - SPACECOM chief doubles down on need for on-orbit mobility (breaking_defense)
+- **Aug 05, 07:32 PM** - Eoptic and Starris establish strategic partnership to develop multispectral satellite imaging payloads (spacenews)
