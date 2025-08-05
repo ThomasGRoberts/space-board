@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 13 | 28 | 54 |
-| breaking_defense | 1 | 1 | 24 | 47 |
+| spacenews | 9 | 13 | 28 | 53 |
+| breaking_defense | 1 | 1 | 23 | 47 |
 | nyt | 0 | 0 | 22 | 45 |
-| supercluster | 1 | 1 | 59 | 59 |
+| supercluster | 1 | 1 | 60 | 60 |
 
 # Shown Order
 
@@ -5186,3 +5186,4 @@
 - **Aug 05, 01:05 PM** - Interlune to fly instrument on Astrolab’s FLIP rover (spacenews)
 - **Aug 05, 01:19 PM** - Golden Dome requires non-traditional thinking and an agile approach (spacenews)
 - **Aug 05, 01:33 PM** - Here’s the role that space-based interceptors will play in Golden Dome (breaking_defense)
+- **Aug 05, 01:47 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
