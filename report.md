@@ -5,7 +5,7 @@
 | spacenews | 9 | 10 | 28 | 51 |
 | breaking_defense | 1 | 1 | 23 | 46 |
 | nyt | 0 | 0 | 22 | 44 |
-| supercluster | 1 | 1 | 32 | 32 |
+| supercluster | 1 | 1 | 33 | 33 |
 
 # Shown Order
 
@@ -5145,3 +5145,4 @@
 - **Aug 05, 08:59 AM** - Roscosmos celebrates meeting of agency leaders that NASA ignored (spacenews)
 - **Aug 05, 09:13 AM** - It’s more than fuel: Why the Space Force needs in-space servicing, assembly, and manufacturing (breaking_defense)
 - **Aug 05, 09:29 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 05, 09:31 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
