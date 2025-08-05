@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-05T00:02:18.684058+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9d9590a6a8f6a4a6b7ea447feccc9af2",
+    "trigger_count": 0,
+    "current_item_id": "6e9b82e1ebe65bfe5e065a9a0c42bfc1",
     "data": [
         {
             "id": "2a43c90ba1ff5d0726df53e9600356f1",
@@ -10833,6 +10833,18 @@
             "shown_at": [
                 "2025-08-05T20:17:37.576030Z",
                 "2025-08-05T20:59:41.681507Z"
+            ]
+        },
+        {
+            "id": "6e9b82e1ebe65bfe5e065a9a0c42bfc1",
+            "source": "spacenews",
+            "text": "Eutelsat’s bright LEO outlook clouded by GEO decline",
+            "source_link": "https://spacenews.com/eutelsats-bright-leo-outlook-clouded-by-geo-decline/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-05T21:55:31.288505Z",
+            "shown_at": [
+                "2025-08-05T21:55:32.046162Z"
             ]
         }
     ]
