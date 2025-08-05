@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-05T00:02:18.684058+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9c0c1b2f4a6ec3bea50cf85f93a7689c",
+    "trigger_count": 0,
+    "current_item_id": "a4d44b46b30d79039fa3091ad7a560e1",
     "data": [
         {
             "id": "2a43c90ba1ff5d0726df53e9600356f1",
@@ -10803,6 +10803,18 @@
             "fetched_datetime": "2025-08-05T19:17:35.813887Z",
             "shown_at": [
                 "2025-08-05T19:17:36.525279Z"
+            ]
+        },
+        {
+            "id": "a4d44b46b30d79039fa3091ad7a560e1",
+            "source": "breaking_defense",
+            "text": "Space Force launching sats to ‘enable’ GMTI ahead of mission-dedicated birds in 2028",
+            "source_link": "https://breakingdefense.com/2025/08/space-force-to-launch-actual-gmti-sats-in-the-next-year-general/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-05T20:17:36.899879Z",
+            "shown_at": [
+                "2025-08-05T20:17:37.576030Z"
             ]
         }
     ]
