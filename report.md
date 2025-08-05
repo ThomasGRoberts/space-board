@@ -5,7 +5,7 @@
 | spacenews | 6 | 14 | 25 | 53 |
 | breaking_defense | 3 | 4 | 26 | 49 |
 | nyt | 0 | 0 | 15 | 37 |
-| supercluster | 1 | 1 | 130 | 130 |
+| supercluster | 1 | 1 | 131 | 131 |
 
 # Shown Order
 
@@ -5281,3 +5281,4 @@
 - **Aug 05, 11:05 PM** - SPACECOM chief doubles down on need for on-orbit mobility (breaking_defense)
 - **Aug 05, 11:19 PM** - First Eris launch fails to reach orbit (spacenews)
 - **Aug 05, 11:33 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 05, 11:35 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
