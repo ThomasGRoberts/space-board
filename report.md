@@ -5,7 +5,7 @@
 | spacenews | 9 | 11 | 28 | 51 |
 | breaking_defense | 1 | 1 | 24 | 46 |
 | nyt | 0 | 0 | 22 | 44 |
-| supercluster | 1 | 1 | 52 | 52 |
+| supercluster | 1 | 1 | 53 | 53 |
 
 # Shown Order
 
@@ -5174,3 +5174,4 @@
 - **Aug 05, 11:37 AM** - The First Soda in Space: When NASA Got Caught Up in the Cola Wars (nyt)
 - **Aug 05, 11:51 AM** - Military leaders say integrated space power crucial for national defense (spacenews)
 - **Aug 05, 12:05 PM** - Here’s the role that space-based interceptors will play in Golden Dome (breaking_defense)
+- **Aug 05, 12:19 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
