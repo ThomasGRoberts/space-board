@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 15 | 21 | 49 |
+| spacenews | 7 | 16 | 22 | 50 |
 | breaking_defense | 3 | 4 | 21 | 44 |
 | supercluster | 0 | 1 | 126 | 185 |
 | nyt | 0 | 0 | 2 | 24 |
@@ -5320,3 +5320,4 @@
 - **Aug 06, 12:43 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 06, 12:46 PM** - With Intelsat buy, SES targets European defense market (breaking_defense)
 - **Aug 06, 01:02 PM** - Moog Presents Space Computing Advancements to Enable Next-Generation Missions at Small Satellite Conference (spacenews)
+- **Aug 06, 01:29 PM** - What’s required to advance DoD enterprise SATCOM (spacenews)

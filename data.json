@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-06T00:02:23.489274+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3ee44b35e67a1b3e29796dec087cc1ff",
+    "trigger_count": 0,
+    "current_item_id": "31fbf3e8062d581069a19a67641d4aeb",
     "data": [
         {
             "id": "fb89d42dc32aafbb80fd54808fe45b8b",
@@ -10859,6 +10859,18 @@
             "fetched_datetime": "2025-08-06T12:11:47.648215Z",
             "shown_at": [
                 "2025-08-06T12:11:48.543431Z"
+            ]
+        },
+        {
+            "id": "31fbf3e8062d581069a19a67641d4aeb",
+            "source": "spacenews",
+            "text": "What’s required to advance DoD enterprise SATCOM",
+            "source_link": "https://spacenews.com/whats-required-to-advance-dod-enterprise-satcom/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-06T13:29:53.100241Z",
+            "shown_at": [
+                "2025-08-06T13:29:53.798988Z"
             ]
         }
     ]
