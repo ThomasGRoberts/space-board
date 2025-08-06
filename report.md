@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 17 | 25 | 51 |
 | breaking_defense | 3 | 4 | 22 | 44 |
-| supercluster | 0 | 1 | 135 | 208 |
+| supercluster | 0 | 1 | 136 | 209 |
 | nyt | 0 | 0 | 0 | 21 |
 
 # Shown Order
@@ -5351,3 +5351,4 @@
 - **Aug 06, 04:03 PM** - It’s time to unlock inland orbital launch for a resilient U.S. space future (spacenews)
 - **Aug 06, 04:17 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 06, 04:19 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 06, 04:21 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
