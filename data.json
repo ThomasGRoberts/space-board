@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-06T00:02:23.489274+00:00",
-    "trigger_count": 6,
-    "current_item_id": "daad762d2a8251d716a73a80ce234f7f",
+    "trigger_count": 0,
+    "current_item_id": "c6818f8f5800f92cf9f56f0c36e7539a",
     "data": [
         {
             "id": "fb89d42dc32aafbb80fd54808fe45b8b",
@@ -10948,6 +10948,18 @@
             "fetched_datetime": "2025-08-06T17:31:59.048465Z",
             "shown_at": [
                 "2025-08-06T17:32:00.288263Z"
+            ]
+        },
+        {
+            "id": "c6818f8f5800f92cf9f56f0c36e7539a",
+            "source": "breaking_defense",
+            "text": "At missile defense conference, the first rule of Golden Dome is don’t talk about Golden Dome",
+            "source_link": "https://breakingdefense.com/2025/08/at-missile-defense-conference-the-first-rule-of-golden-dome-is-dont-talk-about-golden-dome/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-06T18:27:42.087532Z",
+            "shown_at": [
+                "2025-08-06T18:27:43.094986Z"
             ]
         }
     ]
