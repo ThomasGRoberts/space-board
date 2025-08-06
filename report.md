@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 14 | 25 | 53 |
 | breaking_defense | 3 | 4 | 26 | 49 |
-| supercluster | 1 | 1 | 136 | 136 |
+| supercluster | 1 | 1 | 137 | 137 |
 | nyt | 0 | 0 | 14 | 36 |
 
 # Shown Order
@@ -5254,3 +5254,4 @@
 - **Aug 05, 11:45 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 05, 11:47 PM** - With Intelsat buy, SES targets European defense market (breaking_defense)
 - **Aug 06, 12:02 AM** - Space – the quiet element behind Midnight Hammer (spacenews)
+- **Aug 06, 12:33 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
