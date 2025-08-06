@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 15 | 26 | 54 |
+| spacenews | 6 | 15 | 26 | 53 |
 | breaking_defense | 3 | 4 | 26 | 49 |
-| supercluster | 1 | 1 | 166 | 166 |
+| supercluster | 1 | 1 | 167 | 167 |
 | nyt | 0 | 0 | 11 | 32 |
 
 # Shown Order
@@ -5292,3 +5292,4 @@
 - **Aug 06, 03:45 AM** - Senators raise NASA funding concerns in letter to Duffy (spacenews)
 - **Aug 06, 04:02 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 06, 04:05 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 06, 04:08 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
