@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 17 | 24 | 51 |
 | breaking_defense | 3 | 4 | 21 | 44 |
-| supercluster | 0 | 1 | 135 | 201 |
+| supercluster | 0 | 1 | 136 | 202 |
 | nyt | 0 | 0 | 1 | 22 |
 
 # Shown Order
@@ -5342,3 +5342,4 @@
 - **Aug 06, 03:21 PM** - European companies still in talks to combine their space businesses (spacenews)
 - **Aug 06, 03:35 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 06, 03:37 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 06, 03:39 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
