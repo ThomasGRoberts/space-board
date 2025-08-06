@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-06T00:02:23.489274+00:00",
-    "trigger_count": 6,
-    "current_item_id": "016ec3564280fa63ff0cd01fe050806b",
+    "trigger_count": 0,
+    "current_item_id": "518342f687fbbdb361f5af1924c60445",
     "data": [
         {
             "id": "fb89d42dc32aafbb80fd54808fe45b8b",
@@ -10815,6 +10815,27 @@
             "shown_at": [
                 "2025-08-06T01:26:16.565586Z"
             ]
+        },
+        {
+            "id": "518342f687fbbdb361f5af1924c60445",
+            "source": "spacenews",
+            "text": "NASA’s proposed budget eyes human exploration of Mars",
+            "source_link": "https://spacenews.com/nasas-proposed-budget-eyes-human-exploration-of-mars/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-06T11:11:47.450236Z",
+            "shown_at": [
+                "2025-08-06T11:11:48.515403Z"
+            ]
+        },
+        {
+            "id": "aa6ddb86a7195eb1b4fe3fcc7c10b493",
+            "source": "spacenews",
+            "text": "NASA selects shuttle orbiter to move to Houston",
+            "source_link": "https://spacenews.com/nasa-selects-shuttle-orbiter-to-move-to-houston/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-08-06T11:11:47.450295Z"
         }
     ]
 }

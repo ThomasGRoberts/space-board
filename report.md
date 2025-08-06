@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 15 | 22 | 50 |
-| breaking_defense | 3 | 4 | 22 | 45 |
-| supercluster | 0 | 1 | 134 | 178 |
-| nyt | 0 | 0 | 5 | 27 |
+| spacenews | 7 | 17 | 22 | 50 |
+| breaking_defense | 3 | 4 | 21 | 45 |
+| supercluster | 0 | 1 | 133 | 178 |
+| nyt | 0 | 0 | 4 | 26 |
 
 # Shown Order
 
@@ -5308,3 +5308,4 @@
 - **Aug 06, 06:35 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 06, 07:10 AM** - Space Force to launch ‘actual’ GMTI sats ‘in the next year’: General (breaking_defense)
 - **Aug 06, 08:53 AM** - NASA writes off Lunar Trailblazer mission (spacenews)
+- **Aug 06, 11:11 AM** - NASA’s proposed budget eyes human exploration of Mars (spacenews)
