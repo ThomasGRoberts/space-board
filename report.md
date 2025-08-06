@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 15 | 26 | 51 |
+| spacenews | 9 | 15 | 27 | 52 |
 | breaking_defense | 2 | 5 | 21 | 46 |
 | supercluster | 0 | 1 | 147 | 262 |
 | nyt | 0 | 0 | 0 | 17 |
@@ -5420,3 +5420,4 @@
 - **Aug 06, 09:41 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 06, 09:43 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 06, 09:45 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 06, 09:47 PM** - China launches remote sensing satellite for Pakistan with Kuaizhou-1A rocket (spacenews)
