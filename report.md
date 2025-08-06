@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 17 | 25 | 52 |
 | breaking_defense | 3 | 4 | 22 | 44 |
-| supercluster | 0 | 1 | 142 | 215 |
+| supercluster | 0 | 1 | 143 | 216 |
 | nyt | 0 | 0 | 0 | 20 |
 
 # Shown Order
@@ -5360,3 +5360,4 @@
 - **Aug 06, 04:47 PM** - NASA acting administrator to meet with head of Roscosmos at KSC (spacenews)
 - **Aug 06, 05:02 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 06, 05:03 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 06, 05:05 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
