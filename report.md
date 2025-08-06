@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 15 | 25 | 53 |
-| breaking_defense | 3 | 4 | 25 | 48 |
-| supercluster | 0 | 1 | 168 | 178 |
-| nyt | 0 | 0 | 9 | 31 |
+| spacenews | 6 | 15 | 24 | 52 |
+| breaking_defense | 3 | 4 | 26 | 49 |
+| supercluster | 0 | 1 | 161 | 178 |
+| nyt | 0 | 0 | 8 | 30 |
 
 # Shown Order
 
@@ -5306,3 +5306,4 @@
 - **Aug 06, 05:59 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 06, 06:02 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 06, 06:35 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 06, 07:10 AM** - Space Force to launch ‘actual’ GMTI sats ‘in the next year’: General (breaking_defense)
