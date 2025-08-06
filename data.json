@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-06T00:02:23.489274+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7191aa00a7408b35479e86d82685d40e",
+    "trigger_count": 0,
+    "current_item_id": "037c90eabbb683fe31de303a6f352dee",
     "data": [
         {
             "id": "fb89d42dc32aafbb80fd54808fe45b8b",
@@ -10927,6 +10927,18 @@
             "fetched_datetime": "2025-08-06T14:37:52.393676Z",
             "shown_at": [
                 "2025-08-06T14:37:53.326744Z"
+            ]
+        },
+        {
+            "id": "037c90eabbb683fe31de303a6f352dee",
+            "source": "spacenews",
+            "text": "Voyager Technologies emphasizes missile defense and Starlab as key growth drivers",
+            "source_link": "https://spacenews.com/voyager-technologies-emphasizes-missile-defense-and-starlab-as-key-growth-drivers/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-06T17:31:59.048465Z",
+            "shown_at": [
+                "2025-08-06T17:32:00.288263Z"
             ]
         }
     ]
