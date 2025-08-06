@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 16 | 26 | 52 |
 | breaking_defense | 1 | 5 | 22 | 47 |
-| supercluster | 0 | 1 | 146 | 248 |
+| supercluster | 0 | 1 | 145 | 249 |
 | nyt | 0 | 0 | 0 | 17 |
 
 # Shown Order
@@ -5404,3 +5404,4 @@
 - **Aug 06, 08:19 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 06, 08:21 PM** - China launches remote sensing satellite for Pakistan with Kuaizhou-1A rocket (spacenews)
 - **Aug 06, 08:35 PM** - Space Force to launch ‘actual’ GMTI sats ‘in the next year’: General (breaking_defense)
+- **Aug 06, 08:49 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
