@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 17 | 23 | 51 |
 | breaking_defense | 3 | 4 | 20 | 43 |
-| supercluster | 0 | 1 | 126 | 192 |
+| supercluster | 0 | 1 | 127 | 193 |
 | nyt | 0 | 0 | 1 | 23 |
 
 # Shown Order
@@ -5331,3 +5331,4 @@
 - **Aug 06, 02:07 PM** - Space Force makes 5 awards for jam-resistant SATCOM (breaking_defense)
 - **Aug 06, 02:21 PM** - Rocket Lab launches iQPS radar imaging satellite (spacenews)
 - **Aug 06, 02:37 PM** - From boots to orbits: Army develops space skills amid growing battlefield reliance on satellites (spacenews)
+- **Aug 06, 02:51 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
