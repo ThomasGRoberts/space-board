@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 16 | 22 | 50 |
-| breaking_defense | 3 | 4 | 20 | 44 |
-| supercluster | 0 | 1 | 128 | 187 |
+| breaking_defense | 3 | 4 | 20 | 43 |
+| supercluster | 0 | 1 | 127 | 188 |
 | nyt | 0 | 0 | 2 | 24 |
 
 # Shown Order
@@ -5323,3 +5323,4 @@
 - **Aug 06, 01:29 PM** - What’s required to advance DoD enterprise SATCOM (spacenews)
 - **Aug 06, 01:45 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 06, 01:47 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 06, 01:51 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
