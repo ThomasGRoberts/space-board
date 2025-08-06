@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-06T00:02:23.489274+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ea76008b18aec1ab0dbc449373cd32f7",
+    "trigger_count": 0,
+    "current_item_id": "2a344d82404b31f278b9c9c10629419e",
     "data": [
         {
             "id": "fb89d42dc32aafbb80fd54808fe45b8b",
@@ -10880,6 +10880,18 @@
             "fetched_datetime": "2025-08-06T13:29:53.100241Z",
             "shown_at": [
                 "2025-08-06T13:29:53.798988Z"
+            ]
+        },
+        {
+            "id": "2a344d82404b31f278b9c9c10629419e",
+            "source": "spacenews",
+            "text": "From boots to orbits: Army develops space skills amid growing battlefield reliance on satellites",
+            "source_link": "https://spacenews.com/from-boots-to-orbits-army-develops-space-skills-amid-growing-battlefield-reliance-on-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-06T14:37:52.393676Z",
+            "shown_at": [
+                "2025-08-06T14:37:53.326744Z"
             ]
         }
     ]
