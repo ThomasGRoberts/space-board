@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 26 | 51 |
 | breaking_defense | 2 | 5 | 22 | 47 |
-| supercluster | 0 | 1 | 145 | 262 |
+| supercluster | 0 | 1 | 145 | 263 |
 | nyt | 0 | 0 | 0 | 16 |
 
 # Shown Order
@@ -5422,3 +5422,4 @@
 - **Aug 06, 09:45 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 06, 09:47 PM** - China launches remote sensing satellite for Pakistan with Kuaizhou-1A rocket (spacenews)
 - **Aug 06, 10:02 PM** - Draft Trump EO would loosen commercial space regs, citing national security links (breaking_defense)
+- **Aug 06, 10:15 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
