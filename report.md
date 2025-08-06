@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 16 | 26 | 52 |
 | breaking_defense | 2 | 5 | 22 | 46 |
-| supercluster | 0 | 1 | 145 | 255 |
+| supercluster | 0 | 1 | 145 | 256 |
 | nyt | 0 | 0 | 0 | 17 |
 
 # Shown Order
@@ -5413,3 +5413,4 @@
 - **Aug 06, 09:02 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 06, 09:03 PM** - Voyager Technologies emphasizes missile defense and Starlab as key growth drivers (spacenews)
 - **Aug 06, 09:19 PM** - Army crafting a new space policy, moving out on counterspace (breaking_defense)
+- **Aug 06, 09:33 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
