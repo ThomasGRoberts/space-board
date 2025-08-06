@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 15 | 25 | 53 |
 | breaking_defense | 3 | 4 | 25 | 48 |
-| supercluster | 1 | 1 | 144 | 144 |
-| nyt | 0 | 0 | 13 | 35 |
+| supercluster | 1 | 1 | 145 | 145 |
+| nyt | 0 | 0 | 13 | 34 |
 
 # Shown Order
 
@@ -5264,3 +5264,4 @@
 - **Aug 06, 01:02 AM** - Draft Trump EO would loosen commercial space regs, citing national security links (breaking_defense)
 - **Aug 06, 01:26 AM** - Northrop says investments position company for Golden Dome missile defense demand (spacenews)
 - **Aug 06, 01:44 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 06, 01:45 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
