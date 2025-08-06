@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 14 | 25 | 53 |
-| breaking_defense | 3 | 4 | 26 | 49 |
-| supercluster | 1 | 1 | 138 | 138 |
+| breaking_defense | 3 | 4 | 26 | 48 |
+| supercluster | 1 | 1 | 139 | 139 |
 | nyt | 0 | 0 | 14 | 36 |
 
 # Shown Order
@@ -5256,3 +5256,4 @@
 - **Aug 06, 12:02 AM** - Space – the quiet element behind Midnight Hammer (spacenews)
 - **Aug 06, 12:33 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 06, 12:35 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 06, 12:37 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
