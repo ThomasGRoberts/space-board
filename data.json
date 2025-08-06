@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-06T00:02:23.489274+00:00",
-    "trigger_count": 6,
-    "current_item_id": "037c90eabbb683fe31de303a6f352dee",
+    "trigger_count": 0,
+    "current_item_id": "af74076252a10e8c9c5f596ef706a6e6",
     "data": [
         {
             "id": "fb89d42dc32aafbb80fd54808fe45b8b",
@@ -10995,6 +10995,18 @@
             "fetched_datetime": "2025-08-06T18:27:42.087532Z",
             "shown_at": [
                 "2025-08-06T18:27:43.094986Z"
+            ]
+        },
+        {
+            "id": "af74076252a10e8c9c5f596ef706a6e6",
+            "source": "breaking_defense",
+            "text": "Army crafting a new space policy, moving out on counterspace",
+            "source_link": "https://breakingdefense.com/2025/08/army-crafting-a-new-space-policy-moving-out-on-counterspace/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-06T21:19:15.432017Z",
+            "shown_at": [
+                "2025-08-06T21:19:16.193381Z"
             ]
         }
     ]
