@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 16 | 26 | 51 |
-| breaking_defense | 3 | 5 | 22 | 46 |
+| breaking_defense | 3 | 5 | 23 | 46 |
 | supercluster | 0 | 1 | 140 | 234 |
 | nyt | 0 | 0 | 0 | 19 |
 
@@ -5385,3 +5385,4 @@
 - **Aug 06, 06:51 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 06, 06:53 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 06, 06:57 PM** - Long March 12 launches first Guowang satellites developed by private firm (spacenews)
+- **Aug 06, 07:11 PM** - Space Force makes 5 awards for jam-resistant SATCOM (breaking_defense)
