@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 17 | 22 | 50 |
+| spacenews | 7 | 17 | 23 | 51 |
 | breaking_defense | 3 | 4 | 21 | 44 |
-| supercluster | 0 | 1 | 127 | 178 |
+| supercluster | 0 | 1 | 126 | 178 |
 | nyt | 0 | 0 | 4 | 26 |
 
 # Shown Order
@@ -5309,3 +5309,4 @@
 - **Aug 06, 07:10 AM** - Space Force to launch ‘actual’ GMTI sats ‘in the next year’: General (breaking_defense)
 - **Aug 06, 08:53 AM** - NASA writes off Lunar Trailblazer mission (spacenews)
 - **Aug 06, 11:11 AM** - NASA’s proposed budget eyes human exploration of Mars (spacenews)
+- **Aug 06, 11:37 AM** - NASA selects shuttle orbiter to move to Houston (spacenews)
