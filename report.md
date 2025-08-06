@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 17 | 24 | 51 |
+| spacenews | 8 | 17 | 25 | 52 |
 | breaking_defense | 3 | 4 | 23 | 44 |
 | supercluster | 0 | 1 | 140 | 213 |
 | nyt | 0 | 0 | 0 | 21 |
@@ -5357,3 +5357,4 @@
 - **Aug 06, 04:27 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 06, 04:29 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 06, 04:32 PM** - It’s more than fuel: Why the Space Force needs in-space servicing, assembly, and manufacturing (breaking_defense)
+- **Aug 06, 04:47 PM** - NASA acting administrator to meet with head of Roscosmos at KSC (spacenews)
