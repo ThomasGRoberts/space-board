@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 17 | 23 | 51 |
 | breaking_defense | 3 | 4 | 20 | 43 |
-| supercluster | 0 | 1 | 121 | 178 |
+| supercluster | 0 | 1 | 120 | 179 |
 | nyt | 0 | 0 | 3 | 25 |
 
 # Shown Order
@@ -5311,3 +5311,4 @@
 - **Aug 06, 11:11 AM** - NASA’s proposed budget eyes human exploration of Mars (spacenews)
 - **Aug 06, 11:37 AM** - NASA selects shuttle orbiter to move to Houston (spacenews)
 - **Aug 06, 12:11 PM** - NASA revises plans for commercial space station development (spacenews)
+- **Aug 06, 12:32 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
