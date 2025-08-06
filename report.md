@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 16 | 26 | 51 |
-| breaking_defense | 2 | 5 | 22 | 47 |
-| supercluster | 0 | 1 | 141 | 242 |
+| breaking_defense | 2 | 5 | 22 | 46 |
+| supercluster | 0 | 1 | 142 | 243 |
 | nyt | 0 | 0 | 0 | 18 |
 
 # Shown Order
@@ -5396,3 +5396,4 @@
 - **Aug 06, 07:39 PM** - NASA writes off Lunar Trailblazer mission (spacenews)
 - **Aug 06, 07:53 PM** - Draft Trump EO would loosen commercial space regs, citing national security links (breaking_defense)
 - **Aug 06, 08:07 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 06, 08:09 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
