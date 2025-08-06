@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 17 | 25 | 52 |
-| breaking_defense | 3 | 4 | 22 | 44 |
-| supercluster | 0 | 1 | 146 | 220 |
+| breaking_defense | 3 | 4 | 23 | 45 |
+| supercluster | 0 | 1 | 145 | 220 |
 | nyt | 0 | 0 | 0 | 20 |
 
 # Shown Order
@@ -5365,3 +5365,4 @@
 - **Aug 06, 05:09 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 06, 05:11 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 06, 05:13 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 06, 05:16 PM** - Here’s the role that space-based interceptors will play in Golden Dome (breaking_defense)
