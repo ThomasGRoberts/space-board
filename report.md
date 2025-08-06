@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 16 | 25 | 51 |
+| spacenews | 9 | 16 | 26 | 52 |
 | breaking_defense | 2 | 5 | 22 | 46 |
 | supercluster | 0 | 1 | 147 | 241 |
 | nyt | 0 | 0 | 0 | 18 |
@@ -5393,3 +5393,4 @@
 - **Aug 06, 07:33 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 06, 07:35 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 06, 07:37 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 06, 07:39 PM** - NASA writes off Lunar Trailblazer mission (spacenews)
