@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-06T00:02:23.489274+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9c0c1b2f4a6ec3bea50cf85f93a7689c",
+    "trigger_count": 0,
+    "current_item_id": "11c82915080467d236383babb7241a2e",
     "data": [
         {
             "id": "fb89d42dc32aafbb80fd54808fe45b8b",
@@ -10757,6 +10757,18 @@
             "shown_at": [
                 "2025-05-21T15:03:45.050558Z",
                 "2025-05-23T03:21:35.710055Z"
+            ]
+        },
+        {
+            "id": "11c82915080467d236383babb7241a2e",
+            "source": "spacenews",
+            "text": "Northrop says investments position company for Golden Dome missile defense demand",
+            "source_link": "https://spacenews.com/northrop-says-investments-position-company-for-golden-dome-missile-defense-demand/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-06T01:26:15.193904Z",
+            "shown_at": [
+                "2025-08-06T01:26:16.565586Z"
             ]
         }
     ]
