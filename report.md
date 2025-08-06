@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 16 | 25 | 51 |
 | breaking_defense | 3 | 5 | 23 | 46 |
-| supercluster | 0 | 1 | 142 | 229 |
+| supercluster | 0 | 1 | 143 | 230 |
 | nyt | 0 | 0 | 0 | 19 |
 
 # Shown Order
@@ -5379,3 +5379,4 @@
 - **Aug 06, 06:27 PM** - At missile defense conference, the first rule of Golden Dome is don’t talk about Golden Dome (breaking_defense)
 - **Aug 06, 06:41 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 06, 06:43 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 06, 06:45 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
