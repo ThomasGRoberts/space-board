@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 15 | 25 | 53 |
-| breaking_defense | 3 | 4 | 25 | 48 |
+| breaking_defense | 3 | 4 | 26 | 49 |
 | supercluster | 1 | 1 | 150 | 150 |
 | nyt | 0 | 0 | 12 | 34 |
 
@@ -5270,3 +5270,4 @@
 - **Aug 06, 01:51 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 06, 01:53 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 06, 01:55 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 06, 01:57 AM** - With Intelsat buy, SES targets European defense market (breaking_defense)
