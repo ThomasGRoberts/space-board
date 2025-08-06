@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 17 | 23 | 51 |
 | breaking_defense | 3 | 4 | 20 | 43 |
-| supercluster | 0 | 1 | 121 | 180 |
-| nyt | 0 | 0 | 3 | 25 |
+| supercluster | 0 | 1 | 122 | 181 |
+| nyt | 0 | 0 | 2 | 25 |
 
 # Shown Order
 
@@ -5313,3 +5313,4 @@
 - **Aug 06, 12:11 PM** - NASA revises plans for commercial space station development (spacenews)
 - **Aug 06, 12:32 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 06, 12:33 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 06, 12:35 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
