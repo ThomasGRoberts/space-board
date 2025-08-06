@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 15 | 26 | 54 |
 | breaking_defense | 3 | 4 | 26 | 49 |
-| supercluster | 1 | 1 | 165 | 165 |
+| supercluster | 1 | 1 | 166 | 166 |
 | nyt | 0 | 0 | 11 | 32 |
 
 # Shown Order
@@ -5291,3 +5291,4 @@
 - **Aug 06, 03:29 AM** - With Intelsat buy, SES targets European defense market (breaking_defense)
 - **Aug 06, 03:45 AM** - Senators raise NASA funding concerns in letter to Duffy (spacenews)
 - **Aug 06, 04:02 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 06, 04:05 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
