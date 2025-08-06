@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 16 | 22 | 50 |
+| spacenews | 8 | 17 | 23 | 51 |
 | breaking_defense | 3 | 4 | 20 | 44 |
 | supercluster | 0 | 1 | 126 | 178 |
 | nyt | 0 | 0 | 3 | 25 |
@@ -5310,3 +5310,4 @@
 - **Aug 06, 08:53 AM** - NASA writes off Lunar Trailblazer mission (spacenews)
 - **Aug 06, 11:11 AM** - NASA’s proposed budget eyes human exploration of Mars (spacenews)
 - **Aug 06, 11:37 AM** - NASA selects shuttle orbiter to move to Houston (spacenews)
+- **Aug 06, 12:11 PM** - NASA revises plans for commercial space station development (spacenews)
