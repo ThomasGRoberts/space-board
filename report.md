@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 15 | 26 | 51 |
 | breaking_defense | 2 | 5 | 22 | 46 |
-| supercluster | 0 | 1 | 144 | 257 |
+| supercluster | 0 | 1 | 145 | 258 |
 | nyt | 0 | 0 | 0 | 17 |
 
 # Shown Order
@@ -5415,3 +5415,4 @@
 - **Aug 06, 09:19 PM** - Army crafting a new space policy, moving out on counterspace (breaking_defense)
 - **Aug 06, 09:33 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 06, 09:35 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 06, 09:37 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
