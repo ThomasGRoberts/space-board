@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 16 | 21 | 49 |
+| spacenews | 7 | 16 | 22 | 50 |
 | breaking_defense | 3 | 4 | 21 | 44 |
 | supercluster | 0 | 1 | 126 | 192 |
 | nyt | 0 | 0 | 1 | 23 |
@@ -5329,3 +5329,4 @@
 - **Aug 06, 02:02 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 06, 02:05 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 06, 02:07 PM** - Space Force makes 5 awards for jam-resistant SATCOM (breaking_defense)
+- **Aug 06, 02:21 PM** - Rocket Lab launches iQPS radar imaging satellite (spacenews)
