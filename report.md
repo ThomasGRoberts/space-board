@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 15 | 26 | 53 |
-| breaking_defense | 3 | 4 | 27 | 49 |
-| supercluster | 0 | 1 | 170 | 173 |
+| breaking_defense | 3 | 4 | 26 | 49 |
+| supercluster | 0 | 1 | 171 | 174 |
 | nyt | 0 | 0 | 10 | 31 |
 
 # Shown Order
@@ -5301,3 +5301,4 @@
 - **Aug 06, 04:31 AM** - Senate Commerce Committee advances Jacobs nomination for NOAA administrator (spacenews)
 - **Aug 06, 05:18 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 06, 05:22 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 06, 05:33 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
