@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 15 | 26 | 53 |
 | breaking_defense | 3 | 4 | 27 | 49 |
-| supercluster | 0 | 1 | 169 | 172 |
+| supercluster | 0 | 1 | 170 | 173 |
 | nyt | 0 | 0 | 10 | 31 |
 
 # Shown Order
@@ -5300,3 +5300,4 @@
 - **Aug 06, 04:17 AM** - Space Force to launch ‘actual’ GMTI sats ‘in the next year’: General (breaking_defense)
 - **Aug 06, 04:31 AM** - Senate Commerce Committee advances Jacobs nomination for NOAA administrator (spacenews)
 - **Aug 06, 05:18 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 06, 05:22 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
