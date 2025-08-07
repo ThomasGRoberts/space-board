@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 5 | 26 | 49 |
+| breaking_defense | 2 | 5 | 27 | 50 |
 | spacenews | 6 | 12 | 31 | 53 |
 | supercluster | 0 | 0 | 182 | 322 |
 | nyt | 1 | 1 | 9 | 14 |
@@ -5493,3 +5493,4 @@
 - **Aug 07, 09:47 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 07, 09:49 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 07, 09:51 AM** - NASA revises plans for commercial space station development (spacenews)
+- **Aug 07, 10:07 AM** - Space Force to launch ‘actual’ GMTI sats ‘in the next year’: General (breaking_defense)
