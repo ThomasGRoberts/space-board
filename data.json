@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-07T00:02:11.194498+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f8a09df109e742c7314b43291cb17219",
+    "trigger_count": 0,
+    "current_item_id": "d636be7a8a436459717e77c4c1c107e5",
     "data": [
         {
             "id": "af74076252a10e8c9c5f596ef706a6e6",
@@ -10721,6 +10721,18 @@
                 "2025-08-07T20:05:22.498502Z",
                 "2025-08-07T20:07:37.892618Z",
                 "2025-08-07T20:09:43.400378Z"
+            ]
+        },
+        {
+            "id": "d636be7a8a436459717e77c4c1c107e5",
+            "source": "breaking_defense",
+            "text": "Army’s laser weapons ‘pretty mature,’ could ‘contribute’ to next-gen missile defense",
+            "source_link": "https://breakingdefense.com/2025/08/armys-laser-weapons-pretty-mature-could-contribute-to-next-gen-missile-defense/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-07T20:39:31.874874Z",
+            "shown_at": [
+                "2025-08-07T20:39:32.729201Z"
             ]
         }
     ]
