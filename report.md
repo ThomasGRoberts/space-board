@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 5 | 22 | 48 |
 | spacenews | 6 | 12 | 26 | 52 |
-| supercluster | 0 | 1 | 147 | 311 |
+| supercluster | 0 | 1 | 148 | 312 |
 | nyt | 1 | 1 | 3 | 14 |
 
 # Shown Order
@@ -5425,3 +5425,4 @@
 - **Aug 07, 03:13 AM** - Why industry says Golden Dome’s biggest challenge isn’t missiles, it’s data flow (spacenews)
 - **Aug 07, 03:27 AM** - With Intelsat buy, SES targets European defense market (breaking_defense)
 - **Aug 07, 03:41 AM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
+- **Aug 07, 03:55 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
