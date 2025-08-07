@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 5 | 25 | 49 |
 | spacenews | 6 | 12 | 30 | 53 |
 | supercluster | 0 | 0 | 168 | 322 |
-| nyt | 1 | 1 | 7 | 14 |
+| nyt | 1 | 1 | 8 | 15 |
 
 # Shown Order
 
@@ -5474,3 +5474,4 @@
 - **Aug 07, 07:57 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 07, 07:59 AM** - Burloak and MDA Bet Big on Additive Manufacturing, Fueling Next-Gen Satellite Constellations (spacenews)
 - **Aug 07, 08:13 AM** - Army crafting a new space policy, moving out on counterspace (breaking_defense)
+- **Aug 07, 08:27 AM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
