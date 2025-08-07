@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 5 | 30 | 50 |
+| breaking_defense | 2 | 5 | 29 | 50 |
 | spacenews | 2 | 9 | 30 | 52 |
 | nyt | 1 | 1 | 13 | 14 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -5147,3 +5147,4 @@
 - **Aug 07, 01:37 PM** - Rocket Lab launches iQPS radar imaging satellite (spacenews)
 - **Aug 07, 01:51 PM** - Space Force to launch ‘actual’ GMTI sats ‘in the next year’: General (breaking_defense)
 - **Aug 07, 02:07 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 07, 02:09 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
