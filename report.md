@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 5 | 29 | 49 |
 | spacenews | 3 | 11 | 30 | 53 |
-| supercluster | 0 | 0 | 197 | 318 |
+| supercluster | 0 | 0 | 198 | 318 |
 | nyt | 1 | 1 | 12 | 15 |
 
 # Shown Order
@@ -5516,3 +5516,4 @@
 - **Aug 07, 11:59 AM** - SPACECOM chief doubles down on need for on-orbit mobility (breaking_defense)
 - **Aug 07, 12:13 PM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
 - **Aug 07, 12:27 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 07, 12:29 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
