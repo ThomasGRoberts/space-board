@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 3 | 26 | 48 |
 | spacenews | 0 | 7 | 26 | 52 |
 | nyt | 1 | 1 | 22 | 22 |
-| supercluster | 1 | 1 | 65 | 65 |
+| supercluster | 1 | 1 | 66 | 66 |
 
 # Shown Order
 
@@ -5238,3 +5238,4 @@
 - **Aug 07, 10:31 PM** - Army’s laser weapons ‘pretty mature,’ could ‘contribute’ to next-gen missile defense (breaking_defense)
 - **Aug 07, 10:45 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 07, 10:47 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 07, 10:49 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
