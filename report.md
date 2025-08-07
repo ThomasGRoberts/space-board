@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 3 | 27 | 49 |
 | spacenews | 0 | 9 | 27 | 53 |
 | nyt | 1 | 1 | 20 | 20 |
-| supercluster | 1 | 1 | 49 | 49 |
+| supercluster | 1 | 1 | 50 | 50 |
 
 # Shown Order
 
@@ -5216,3 +5216,4 @@
 - **Aug 07, 08:11 PM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
 - **Aug 07, 08:25 PM** - Eoptic and Starris establish strategic partnership to develop multispectral satellite imaging payloads (spacenews)
 - **Aug 07, 08:39 PM** - Army’s laser weapons ‘pretty mature,’ could ‘contribute’ to next-gen missile defense (breaking_defense)
+- **Aug 07, 08:53 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
