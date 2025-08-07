@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-07T00:02:11.194498+00:00",
-    "trigger_count": 6,
-    "current_item_id": "af74076252a10e8c9c5f596ef706a6e6",
+    "trigger_count": 0,
+    "current_item_id": "f320c1d5e31547d5a52c5d95dfafcde7",
     "data": [
         {
             "id": "af74076252a10e8c9c5f596ef706a6e6",
@@ -10899,6 +10899,18 @@
             "shown_at": [
                 "2025-05-22T10:05:50.438044Z",
                 "2025-05-26T22:41:40.748708Z"
+            ]
+        },
+        {
+            "id": "f320c1d5e31547d5a52c5d95dfafcde7",
+            "source": "nyt",
+            "text": "NASA Is Getting Fired Up About a Nuclear Reactor on the Moon",
+            "source_link": "https://www.nytimes.com/2025/08/06/science/nasa-nuclear-reactor-moon.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-07T01:49:34.864531Z",
+            "shown_at": [
+                "2025-08-07T01:49:35.603242Z"
             ]
         }
     ]
