@@ -5,6 +5,7 @@
 | breaking_defense | 2 | 5 | 30 | 50 |
 | spacenews | 2 | 9 | 30 | 52 |
 | nyt | 1 | 1 | 13 | 14 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -5145,3 +5146,4 @@
 - **Aug 07, 01:09 PM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
 - **Aug 07, 01:37 PM** - Rocket Lab launches iQPS radar imaging satellite (spacenews)
 - **Aug 07, 01:51 PM** - Space Force to launch ‘actual’ GMTI sats ‘in the next year’: General (breaking_defense)
+- **Aug 07, 02:07 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
