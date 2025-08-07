@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 5 | 24 | 49 |
 | spacenews | 6 | 12 | 28 | 53 |
-| supercluster | 0 | 0 | 154 | 318 |
+| supercluster | 0 | 0 | 155 | 317 |
 | nyt | 1 | 1 | 6 | 15 |
 
 # Shown Order
@@ -5455,3 +5455,4 @@
 - **Aug 07, 06:06 AM** - Eoptic and Starris establish strategic partnership to develop multispectral satellite imaging payloads (spacenews)
 - **Aug 07, 06:19 AM** - Space Force to launch ‘actual’ GMTI sats ‘in the next year’: General (breaking_defense)
 - **Aug 07, 06:33 AM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
+- **Aug 07, 06:47 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
