@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 4 | 28 | 51 |
 | spacenews | 0 | 9 | 27 | 53 |
 | nyt | 1 | 1 | 18 | 18 |
-| supercluster | 1 | 1 | 35 | 35 |
+| supercluster | 1 | 1 | 36 | 36 |
 
 # Shown Order
 
@@ -5196,3 +5196,4 @@
 - **Aug 07, 06:17 PM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
 - **Aug 07, 06:32 PM** - NASA’s proposed budget eyes human exploration of Mars (spacenews)
 - **Aug 07, 06:45 PM** - Space Force launching sats to ‘enable’ GMTI ahead of mission-dedicated birds in 2028 (breaking_defense)
+- **Aug 07, 06:59 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
