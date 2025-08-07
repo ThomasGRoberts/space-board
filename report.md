@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 5 | 30 | 50 |
 | spacenews | 1 | 9 | 29 | 52 |
 | nyt | 1 | 1 | 14 | 15 |
-| supercluster | 1 | 1 | 7 | 7 |
+| supercluster | 1 | 1 | 8 | 8 |
 
 # Shown Order
 
@@ -5156,3 +5156,4 @@
 - **Aug 07, 02:22 PM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
 - **Aug 07, 02:35 PM** - Why industry says Golden Dome’s biggest challenge isn’t missiles, it’s data flow (spacenews)
 - **Aug 07, 02:49 PM** - With Intelsat buy, SES targets European defense market (breaking_defense)
+- **Aug 07, 03:05 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
