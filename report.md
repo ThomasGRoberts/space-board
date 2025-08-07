@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 3 | 28 | 50 |
+| breaking_defense | 1 | 3 | 27 | 50 |
 | spacenews | 0 | 9 | 27 | 53 |
 | nyt | 1 | 1 | 19 | 19 |
-| supercluster | 1 | 1 | 42 | 42 |
+| supercluster | 1 | 1 | 43 | 43 |
 
 # Shown Order
 
@@ -5206,3 +5206,4 @@
 - **Aug 07, 07:13 PM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
 - **Aug 07, 07:27 PM** - NASA selects shuttle orbiter to move to Houston (spacenews)
 - **Aug 07, 07:41 PM** - At missile defense conference, the first rule of Golden Dome is don’t talk about Golden Dome (breaking_defense)
+- **Aug 07, 07:55 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
