@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 5 | 22 | 48 |
 | spacenews | 6 | 12 | 26 | 52 |
-| supercluster | 0 | 1 | 148 | 305 |
+| supercluster | 0 | 1 | 149 | 306 |
 | nyt | 1 | 1 | 2 | 13 |
 
 # Shown Order
@@ -5416,3 +5416,4 @@
 - **Aug 07, 02:32 AM** - Draft Trump EO would loosen commercial space regs, citing national security links (breaking_defense)
 - **Aug 07, 02:45 AM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
 - **Aug 07, 02:59 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 07, 03:01 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
