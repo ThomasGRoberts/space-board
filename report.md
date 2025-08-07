@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 5 | 27 | 49 |
 | spacenews | 6 | 12 | 31 | 53 |
-| supercluster | 0 | 0 | 182 | 318 |
+| supercluster | 0 | 0 | 183 | 318 |
 | nyt | 1 | 1 | 10 | 15 |
 
 # Shown Order
@@ -5495,3 +5495,4 @@
 - **Aug 07, 09:51 AM** - NASA revises plans for commercial space station development (spacenews)
 - **Aug 07, 10:07 AM** - Space Force to launch ‘actual’ GMTI sats ‘in the next year’: General (breaking_defense)
 - **Aug 07, 10:21 AM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
+- **Aug 07, 10:35 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
