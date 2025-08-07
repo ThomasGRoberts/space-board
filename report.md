@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 5 | 24 | 49 |
+| breaking_defense | 2 | 5 | 25 | 50 |
 | spacenews | 6 | 12 | 30 | 53 |
 | supercluster | 0 | 0 | 168 | 322 |
 | nyt | 1 | 1 | 7 | 14 |
@@ -5473,3 +5473,4 @@
 - **Aug 07, 07:55 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 07, 07:57 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 07, 07:59 AM** - Burloak and MDA Bet Big on Additive Manufacturing, Fueling Next-Gen Satellite Constellations (spacenews)
+- **Aug 07, 08:13 AM** - Army crafting a new space policy, moving out on counterspace (breaking_defense)
