@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 5 | 22 | 48 |
 | spacenews | 6 | 12 | 26 | 52 |
-| supercluster | 0 | 1 | 148 | 312 |
+| supercluster | 0 | 1 | 149 | 313 |
 | nyt | 1 | 1 | 3 | 14 |
 
 # Shown Order
@@ -5426,3 +5426,4 @@
 - **Aug 07, 03:27 AM** - With Intelsat buy, SES targets European defense market (breaking_defense)
 - **Aug 07, 03:41 AM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
 - **Aug 07, 03:55 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 07, 03:57 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
