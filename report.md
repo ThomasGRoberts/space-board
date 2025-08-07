@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 5 | 23 | 49 |
+| breaking_defense | 2 | 5 | 24 | 50 |
 | spacenews | 6 | 12 | 29 | 53 |
 | supercluster | 0 | 0 | 161 | 322 |
 | nyt | 1 | 1 | 6 | 14 |
@@ -5463,3 +5463,4 @@
 - **Aug 07, 06:57 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 07, 06:59 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 07, 07:01 AM** - Lockheed Martin targets 2028 demo of space-based missile interceptors (spacenews)
+- **Aug 07, 07:15 AM** - Space Force to launch ‘actual’ GMTI sats ‘in the next year’: General (breaking_defense)
