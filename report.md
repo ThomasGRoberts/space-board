@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 4 | 28 | 51 |
 | spacenews | 0 | 9 | 28 | 53 |
 | nyt | 1 | 1 | 17 | 17 |
-| supercluster | 1 | 1 | 29 | 29 |
+| supercluster | 1 | 1 | 30 | 30 |
 
 # Shown Order
 
@@ -5187,3 +5187,4 @@
 - **Aug 07, 05:33 PM** - From boots to orbits: Army develops space skills amid growing battlefield reliance on satellites (spacenews)
 - **Aug 07, 05:47 PM** - SPACECOM chief doubles down on need for on-orbit mobility (breaking_defense)
 - **Aug 07, 06:02 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 07, 06:05 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
