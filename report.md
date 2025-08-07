@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 5 | 28 | 49 |
 | spacenews | 4 | 11 | 31 | 53 |
-| supercluster | 0 | 0 | 190 | 318 |
+| supercluster | 0 | 0 | 191 | 319 |
 | nyt | 1 | 1 | 11 | 15 |
 
 # Shown Order
@@ -5506,3 +5506,4 @@
 - **Aug 07, 11:03 AM** - Space Force launching sats to ‘enable’ GMTI ahead of mission-dedicated birds in 2028 (breaking_defense)
 - **Aug 07, 11:17 AM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
 - **Aug 07, 11:32 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 07, 11:33 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
