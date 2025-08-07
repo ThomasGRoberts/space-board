@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 5 | 29 | 49 |
-| spacenews | 4 | 11 | 31 | 53 |
+| spacenews | 3 | 11 | 30 | 53 |
 | supercluster | 0 | 0 | 196 | 322 |
-| nyt | 1 | 1 | 11 | 14 |
+| nyt | 1 | 1 | 12 | 15 |
 
 # Shown Order
 
@@ -5514,3 +5514,4 @@
 - **Aug 07, 11:43 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 07, 11:45 AM** - Moog Presents Space Computing Advancements to Enable Next-Generation Missions at Small Satellite Conference (spacenews)
 - **Aug 07, 11:59 AM** - SPACECOM chief doubles down on need for on-orbit mobility (breaking_defense)
+- **Aug 07, 12:13 PM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
