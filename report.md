@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 3 | 27 | 48 |
+| breaking_defense | 1 | 3 | 26 | 48 |
 | spacenews | 0 | 7 | 26 | 52 |
 | nyt | 1 | 1 | 22 | 22 |
-| supercluster | 1 | 1 | 63 | 63 |
+| supercluster | 1 | 1 | 64 | 64 |
 
 # Shown Order
 
@@ -5236,3 +5236,4 @@
 - **Aug 07, 10:03 PM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
 - **Aug 07, 10:17 PM** - Eutelsat’s bright LEO outlook clouded by GEO decline (spacenews)
 - **Aug 07, 10:31 PM** - Army’s laser weapons ‘pretty mature,’ could ‘contribute’ to next-gen missile defense (breaking_defense)
+- **Aug 07, 10:45 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
