@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 28 | 51 |
 | spacenews | 0 | 9 | 27 | 53 |
-| nyt | 1 | 1 | 17 | 17 |
+| nyt | 1 | 1 | 18 | 18 |
 | supercluster | 1 | 1 | 35 | 35 |
 
 # Shown Order
@@ -5193,3 +5193,4 @@
 - **Aug 07, 06:11 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 07, 06:13 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 07, 06:15 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 07, 06:17 PM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
