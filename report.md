@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 5 | 22 | 48 |
 | spacenews | 6 | 13 | 27 | 52 |
-| supercluster | 0 | 1 | 147 | 297 |
+| supercluster | 0 | 1 | 148 | 298 |
 | nyt | 1 | 1 | 1 | 13 |
 
 # Shown Order
@@ -5405,3 +5405,4 @@
 - **Aug 07, 01:21 AM** - Rocket Lab launches iQPS radar imaging satellite (spacenews)
 - **Aug 07, 01:35 AM** - Army crafting a new space policy, moving out on counterspace (breaking_defense)
 - **Aug 07, 01:49 AM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
+- **Aug 07, 02:03 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
