@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 5 | 22 | 48 |
-| spacenews | 6 | 12 | 26 | 51 |
+| spacenews | 6 | 12 | 27 | 52 |
 | supercluster | 0 | 1 | 154 | 311 |
 | nyt | 1 | 1 | 2 | 13 |
 
@@ -5422,3 +5422,4 @@
 - **Aug 07, 03:07 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 07, 03:09 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 07, 03:11 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 07, 03:13 AM** - Why industry says Golden Dome’s biggest challenge isn’t missiles, it’s data flow (spacenews)
