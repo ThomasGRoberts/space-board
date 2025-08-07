@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 5 | 27 | 49 |
-| spacenews | 6 | 12 | 31 | 53 |
+| spacenews | 6 | 12 | 32 | 54 |
 | supercluster | 0 | 0 | 189 | 322 |
 | nyt | 1 | 1 | 10 | 14 |
 
@@ -5502,3 +5502,4 @@
 - **Aug 07, 10:43 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 07, 10:45 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 07, 10:47 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 07, 10:49 AM** - Albedo wins NRO Stage 2 imagery contract (spacenews)
