@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 5 | 24 | 49 |
 | spacenews | 6 | 12 | 29 | 53 |
-| supercluster | 0 | 0 | 161 | 318 |
+| supercluster | 0 | 0 | 162 | 318 |
 | nyt | 1 | 1 | 7 | 15 |
 
 # Shown Order
@@ -5465,3 +5465,4 @@
 - **Aug 07, 07:01 AM** - Lockheed Martin targets 2028 demo of space-based missile interceptors (spacenews)
 - **Aug 07, 07:15 AM** - Space Force to launch ‘actual’ GMTI sats ‘in the next year’: General (breaking_defense)
 - **Aug 07, 07:29 AM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
+- **Aug 07, 07:43 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
