@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 5 | 28 | 49 |
-| spacenews | 4 | 11 | 30 | 53 |
+| spacenews | 4 | 11 | 31 | 54 |
 | supercluster | 0 | 0 | 196 | 322 |
 | nyt | 1 | 1 | 11 | 14 |
 
@@ -5512,3 +5512,4 @@
 - **Aug 07, 11:39 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 07, 11:41 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 07, 11:43 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 07, 11:45 AM** - Moog Presents Space Computing Advancements to Enable Next-Generation Missions at Small Satellite Conference (spacenews)
