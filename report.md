@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 5 | 22 | 49 |
 | spacenews | 6 | 12 | 26 | 53 |
-| supercluster | 0 | 0 | 148 | 318 |
+| supercluster | 0 | 0 | 149 | 318 |
 | nyt | 1 | 1 | 4 | 15 |
 
 # Shown Order
@@ -5436,3 +5436,4 @@
 - **Aug 07, 04:23 AM** - Army crafting a new space policy, moving out on counterspace (breaking_defense)
 - **Aug 07, 04:37 AM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
 - **Aug 07, 04:52 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 07, 04:53 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
