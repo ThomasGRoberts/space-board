@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 3 | 26 | 47 |
+| breaking_defense | 1 | 3 | 26 | 48 |
 | spacenews | 0 | 7 | 26 | 52 |
 | nyt | 1 | 1 | 23 | 23 |
 | supercluster | 1 | 1 | 70 | 70 |
@@ -5245,3 +5245,4 @@
 - **Aug 07, 10:57 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 07, 10:59 PM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
 - **Aug 07, 11:13 PM** - Blue Origin flies crypto entrepreneur, five others on 14th crewed New Shepard flight (spacenews)
+- **Aug 07, 11:27 PM** - With Intelsat buy, SES targets European defense market (breaking_defense)
