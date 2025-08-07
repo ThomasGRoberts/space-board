@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 5 | 29 | 51 |
 | spacenews | 1 | 9 | 28 | 53 |
 | nyt | 1 | 1 | 15 | 16 |
-| supercluster | 1 | 1 | 15 | 15 |
+| supercluster | 1 | 1 | 16 | 16 |
 
 # Shown Order
 
@@ -5167,3 +5167,4 @@
 - **Aug 07, 03:35 PM** - Albedo wins NRO Stage 2 imagery contract (spacenews)
 - **Aug 07, 03:51 PM** - Draft Trump EO would loosen commercial space regs, citing national security links (breaking_defense)
 - **Aug 07, 04:05 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 07, 04:07 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
