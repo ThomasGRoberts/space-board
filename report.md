@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 3 | 27 | 50 |
 | spacenews | 0 | 9 | 27 | 53 |
 | nyt | 1 | 1 | 19 | 19 |
-| supercluster | 1 | 1 | 43 | 43 |
+| supercluster | 1 | 1 | 44 | 44 |
 
 # Shown Order
 
@@ -5207,3 +5207,4 @@
 - **Aug 07, 07:27 PM** - NASA selects shuttle orbiter to move to Houston (spacenews)
 - **Aug 07, 07:41 PM** - At missile defense conference, the first rule of Golden Dome is don’t talk about Golden Dome (breaking_defense)
 - **Aug 07, 07:55 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 07, 07:57 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
