@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 5 | 29 | 51 |
 | spacenews | 1 | 9 | 28 | 53 |
 | nyt | 1 | 1 | 16 | 16 |
-| supercluster | 1 | 1 | 21 | 21 |
+| supercluster | 1 | 1 | 22 | 22 |
 
 # Shown Order
 
@@ -5176,3 +5176,4 @@
 - **Aug 07, 04:19 PM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
 - **Aug 07, 04:35 PM** - Space Command chief calls for orbital gas stations as China tests satellite refueling (spacenews)
 - **Aug 07, 04:49 PM** - With Intelsat buy, SES targets European defense market (breaking_defense)
+- **Aug 07, 05:05 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
