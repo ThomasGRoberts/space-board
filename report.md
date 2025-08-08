@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 26 | 48 |
-| supercluster | 1 | 1 | 78 | 78 |
+| supercluster | 1 | 1 | 79 | 79 |
 | nyt | 1 | 1 | 24 | 24 |
-| spacenews | 0 | 7 | 26 | 52 |
+| spacenews | 0 | 7 | 25 | 52 |
 
 # Shown Order
 
@@ -5251,3 +5251,4 @@
 - **Aug 08, 12:09 AM** - Lockheed Martin targets 2028 demo of space-based missile interceptors (spacenews)
 - **Aug 08, 12:23 AM** - At missile defense conference, the first rule of Golden Dome is don’t talk about Golden Dome (breaking_defense)
 - **Aug 08, 12:37 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 08, 12:39 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
