@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 24 | 50 |
-| nyt | 3 | 4 | 25 | 48 |
-| spacenews | 0 | 0 | 24 | 50 |
+| nyt | 3 | 4 | 26 | 49 |
+| spacenews | 0 | 0 | 24 | 49 |
 | supercluster | 1 | 1 | 36 | 36 |
 
 # Shown Order
@@ -5277,3 +5277,4 @@
 - **Aug 08, 10:43 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 08, 10:45 PM** - NASA’s proposed budget eyes human exploration of Mars (spacenews)
 - **Aug 08, 10:59 PM** - At missile defense conference, the first rule of Golden Dome is don’t talk about Golden Dome (breaking_defense)
+- **Aug 08, 11:13 PM** - Astronaut James Lovell, Commander of Apollo 13, Dies at 97 (nyt)
