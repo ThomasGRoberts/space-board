@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 2 | 23 | 49 |
 | nyt | 3 | 4 | 26 | 49 |
 | spacenews | 0 | 0 | 23 | 49 |
-| supercluster | 1 | 1 | 37 | 37 |
+| supercluster | 1 | 1 | 38 | 38 |
 
 # Shown Order
 
@@ -5279,3 +5279,4 @@
 - **Aug 08, 10:59 PM** - At missile defense conference, the first rule of Golden Dome is don’t talk about Golden Dome (breaking_defense)
 - **Aug 08, 11:13 PM** - Astronaut James Lovell, Commander of Apollo 13, Dies at 97 (nyt)
 - **Aug 08, 11:27 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 08, 11:29 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
