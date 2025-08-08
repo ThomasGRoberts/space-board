@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 4 | 24 | 54 |
 | nyt | 1 | 2 | 26 | 40 |
 | spacenews | 0 | 1 | 24 | 53 |
-| supercluster | 1 | 1 | 9 | 9 |
+| supercluster | 1 | 1 | 10 | 10 |
 
 # Shown Order
 
@@ -5226,3 +5226,4 @@
 - **Aug 08, 02:39 PM** - Possible Planet Spotted Around Alpha Centauri A by NASA’s James Webb Telescope (nyt)
 - **Aug 08, 02:53 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
 - **Aug 08, 02:55 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
+- **Aug 08, 02:57 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
