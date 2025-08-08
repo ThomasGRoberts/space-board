@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 24 | 52 |
-| nyt | 1 | 2 | 25 | 42 |
+| nyt | 1 | 2 | 24 | 42 |
 | spacenews | 0 | 0 | 24 | 51 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -5227,3 +5227,4 @@
 - **Aug 08, 05:47 PM** - From boots to orbits: Army develops space skills amid growing battlefield reliance on satellites (spacenews)
 - **Aug 08, 06:02 PM** - Army crafting a new space policy, moving out on counterspace (breaking_defense)
 - **Aug 08, 06:15 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 08, 06:17 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
