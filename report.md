@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 24 | 51 |
-| nyt | 1 | 2 | 25 | 43 |
+| nyt | 1 | 2 | 24 | 43 |
 | spacenews | 0 | 0 | 24 | 51 |
-| supercluster | 1 | 1 | 9 | 9 |
+| supercluster | 1 | 1 | 10 | 10 |
 
 # Shown Order
 
@@ -5237,3 +5237,4 @@
 - **Aug 08, 06:43 PM** - Roscosmos celebrates meeting of agency leaders that NASA ignored (spacenews)
 - **Aug 08, 06:57 PM** - How industry is lining up for big Golden Dome business (breaking_defense)
 - **Aug 08, 07:11 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 08, 07:13 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
