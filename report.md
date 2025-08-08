@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 25 | 47 |
-| supercluster | 1 | 1 | 106 | 106 |
+| supercluster | 1 | 1 | 107 | 107 |
 | nyt | 0 | 1 | 25 | 28 |
 | spacenews | 0 | 6 | 25 | 51 |
 
@@ -5291,3 +5291,4 @@
 - **Aug 08, 04:05 AM** - Interlune to fly instrument on Astrolab’s FLIP rover (spacenews)
 - **Aug 08, 04:19 AM** - SPACECOM chief doubles down on need for on-orbit mobility (breaking_defense)
 - **Aug 08, 04:33 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 08, 04:35 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
