@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 24 | 51 |
-| nyt | 2 | 3 | 25 | 45 |
-| spacenews | 0 | 0 | 24 | 51 |
+| nyt | 3 | 4 | 26 | 46 |
+| spacenews | 0 | 0 | 24 | 50 |
 | supercluster | 1 | 1 | 15 | 15 |
 
 # Shown Order
@@ -5247,3 +5247,4 @@
 - **Aug 08, 07:41 PM** - From boots to orbits: Army develops space skills amid growing battlefield reliance on satellites (spacenews)
 - **Aug 08, 07:55 PM** - James A. Lovell Jr., Commander of Apollo 13, Is Dead at 97 (nyt)
 - **Aug 08, 08:09 PM** - Army crafting a new space policy, moving out on counterspace (breaking_defense)
+- **Aug 08, 08:24 PM** - Astronaut James Lovell, Commander of Apollo 13, Dies at 97 (nyt)
