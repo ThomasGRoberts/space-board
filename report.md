@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 25 | 50 |
-| supercluster | 1 | 1 | 135 | 135 |
+| supercluster | 1 | 1 | 136 | 136 |
 | nyt | 0 | 1 | 25 | 32 |
 | spacenews | 0 | 6 | 25 | 55 |
 
@@ -5332,3 +5332,4 @@
 - **Aug 08, 08:05 AM** - Army crafting a new space policy, moving out on counterspace (breaking_defense)
 - **Aug 08, 08:19 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 08, 08:21 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 08, 08:23 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
