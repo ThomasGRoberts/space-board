@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 25 | 54 |
-| supercluster | 1 | 1 | 163 | 163 |
+| supercluster | 1 | 1 | 164 | 164 |
 | nyt | 0 | 1 | 24 | 36 |
 | spacenews | 0 | 3 | 25 | 55 |
 
@@ -5372,3 +5372,4 @@
 - **Aug 08, 11:59 AM** - SPACECOM chief doubles down on need for on-orbit mobility (breaking_defense)
 - **Aug 08, 12:15 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 08, 12:17 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 08, 12:19 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
