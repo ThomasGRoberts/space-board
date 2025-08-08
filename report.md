@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 2 | 23 | 50 |
+| breaking_defense | 1 | 2 | 23 | 49 |
 | nyt | 3 | 4 | 26 | 48 |
-| spacenews | 0 | 0 | 23 | 49 |
+| spacenews | 0 | 0 | 24 | 50 |
 | supercluster | 1 | 1 | 36 | 36 |
 
 # Shown Order
@@ -5275,3 +5275,4 @@
 - **Aug 08, 10:39 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 08, 10:41 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 08, 10:43 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 08, 10:45 PM** - NASA’s proposed budget eyes human exploration of Mars (spacenews)
