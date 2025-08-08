@@ -3,14 +3,12 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 26 | 47 |
-| spacenews | 0 | 7 | 25 | 52 |
-| nyt | 1 | 1 | 24 | 24 |
 | supercluster | 1 | 1 | 77 | 77 |
+| nyt | 1 | 1 | 24 | 24 |
+| spacenews | 0 | 7 | 25 | 52 |
 
 # Shown Order
 
-- **May 22, 10:05 AM** - PiLogic raises $4 million for bespoke satellite AI models (spacenews)
-- **May 22, 11:45 AM** - ESA seeks funding for ‘security and resilience’ satellite program (spacenews)
 - **May 22, 11:59 AM** - House narrowly passes reconciliation bill with $150B for defense (breaking_defense)
 - **May 22, 12:55 PM** - House narrowly passes reconciliation bill with $150B for defense (breaking_defense)
 - **May 22, 01:11 PM** - Pentagon boosts budget for Palantir’s AI software in major expansion of Project Maven (spacenews)
@@ -35,7 +33,6 @@
 - **May 23, 07:33 PM** - Impulse Space to launch SES satellites (spacenews)
 - **May 23, 07:49 PM** - NGA hopes to award up to 10 Luno commercial analytics task orders this year (breaking_defense)
 - **May 23, 09:13 PM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
-- **May 23, 09:27 PM** - ESA seeks funding for ‘security and resilience’ satellite program (spacenews)
 - **May 23, 10:11 PM** - There’s Probably No Life on K2-18b After All, Three Studies Conclude (nyt)
 - **May 23, 11:37 PM** - SpaceX blames Starship Flight 8 mishap on engine hardware failure (spacenews)
 - **May 23, 11:51 PM** - Raytheon secures $380 million contract extension for GPS ground control system (spacenews)
@@ -94,7 +91,6 @@
 - **May 26, 07:23 PM** - What Sonic Detectives Listen for When Rockets Launch (nyt)
 - **May 26, 09:15 PM** - What Sonic Detectives Listen for When Rockets Launch (nyt)
 - **May 26, 09:43 PM** - Dawn Aerospace begins sales of Aurora suborbital spaceplane (spacenews)
-- **May 26, 10:41 PM** - PiLogic raises $4 million for bespoke satellite AI models (spacenews)
 - **May 26, 11:11 PM** - There’s Probably No Life on K2-18b After All, Three Studies Conclude (nyt)
 - **May 26, 11:39 PM** - Sonic Detectives Want to Help SpaceX Listen Up (nyt)
 - **May 26, 11:53 PM** - Space sponsorship: the next frontier for revenue generation (spacenews)
@@ -173,7 +169,6 @@
 - **May 28, 08:02 PM** - Pentagon boosts budget for Palantir’s AI software in major expansion of Project Maven (spacenews)
 - **May 28, 08:17 PM** - Manhattanhenge Is Back for 2025: When, Where and How to Watch (nyt)
 - **May 28, 08:45 PM** - House narrowly passes reconciliation bill with $150B for defense (breaking_defense)
-- **May 28, 08:59 PM** - ESA seeks funding for ‘security and resilience’ satellite program (spacenews)
 - **May 28, 09:15 PM** - China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
 - **May 28, 09:43 PM** - House narrowly passes reconciliation bill with $150B for defense (breaking_defense)
 - **May 28, 09:57 PM** - Space sponsorship: the next frontier for revenue generation (spacenews)
@@ -190,7 +185,6 @@
 - **May 29, 01:25 AM** - Impulse Space to launch SES satellites (spacenews)
 - **May 29, 01:41 AM** - China Launches Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
 - **May 29, 02:39 AM** - AI ‘unchained’: NGA’s Maven tool ‘significantly’ decreasing time to targeting, agency chief says (breaking_defense)
-- **May 29, 02:53 AM** - ESA seeks funding for ‘security and resilience’ satellite program (spacenews)
 - **May 29, 03:07 AM** - There’s Probably No Life on K2-18b After All, Three Studies Conclude (nyt)
 - **May 29, 03:35 AM** - House narrowly passes reconciliation bill with $150B for defense (breaking_defense)
 - **May 29, 03:49 AM** - SpaceNews Names Kamal Flucker as Vice President of Global Sales to Lead International Growth (spacenews)
