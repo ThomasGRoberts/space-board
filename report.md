@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 3 | 25 | 54 |
 | nyt | 0 | 1 | 25 | 38 |
 | spacenews | 0 | 2 | 24 | 54 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -5215,3 +5215,4 @@
 - **Aug 08, 01:29 PM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
 - **Aug 08, 01:43 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
 - **Aug 08, 01:45 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
+- **Aug 08, 01:47 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
