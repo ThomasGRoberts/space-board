@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 2 | 24 | 50 |
+| breaking_defense | 1 | 2 | 23 | 50 |
 | nyt | 3 | 4 | 26 | 47 |
 | spacenews | 0 | 0 | 23 | 50 |
-| supercluster | 1 | 1 | 22 | 22 |
+| supercluster | 1 | 1 | 23 | 23 |
 
 # Shown Order
 
@@ -5258,3 +5258,4 @@
 - **Aug 08, 08:51 PM** - Skyrora gets UK launch license as first flight likely slips to 2026 (spacenews)
 - **Aug 08, 09:05 PM** - Space Force launching sats to ‘enable’ GMTI ahead of mission-dedicated birds in 2028 (breaking_defense)
 - **Aug 08, 09:21 PM** - Astronaut James Lovell, Commander of Apollo 13, Dies at 97 (nyt)
+- **Aug 08, 09:35 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
