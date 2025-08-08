@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 4 | 24 | 52 |
 | nyt | 1 | 2 | 24 | 41 |
 | spacenews | 0 | 1 | 24 | 52 |
-| supercluster | 1 | 1 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -5222,3 +5222,4 @@
 - **Aug 08, 03:37 PM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
 - **Aug 08, 04:07 PM** - Space Command chief calls for orbital gas stations as China tests satellite refueling (spacenews)
 - **Aug 08, 04:21 PM** - SPACECOM chief doubles down on need for on-orbit mobility (breaking_defense)
+- **Aug 08, 05:31 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)

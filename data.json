@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-08T00:02:06.797866+00:00",
-    "trigger_count": 5,
-    "current_item_id": "8c1952d3985da717fab1095874780bcb",
+    "trigger_count": 6,
+    "current_item_id": "b4fa5167b536af8b3aa9516a9232b0aa",
     "data": [
         {
             "id": "d636be7a8a436459717e77c4c1c107e5",
@@ -10729,15 +10729,18 @@
             ]
         },
         {
-            "id": "8c1952d3985da717fab1095874780bcb",
+            "id": "b4fa5167b536af8b3aa9516a9232b0aa",
             "source": "supercluster",
-            "text": "China Will Launch the Jielong-3 Rocket",
-            "source_link": "https://www.supercluster.com/launches/jielong-3n",
-            "shown": false,
+            "text": "SpaceX Will Launch Project Kuiper Internet Satellites for Amazon",
+            "source_link": "https://www.supercluster.com/launches/project-kuiper-kf-02",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-08-08T16:30:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-08-08T17:29:16.495171Z"
+            "target_datetime": "2025-08-09T13:18:00.000Z",
+            "time_remaining": "0d 19h 46m",
+            "fetched_datetime": "2025-08-08T17:31:52.318356Z",
+            "shown_at": [
+                "2025-08-08T17:31:52.932149Z"
+            ]
         }
     ]
 }
