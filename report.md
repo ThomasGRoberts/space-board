@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 24 | 52 |
 | nyt | 1 | 2 | 25 | 42 |
-| spacenews | 0 | 0 | 23 | 51 |
+| spacenews | 0 | 0 | 24 | 52 |
 | supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
@@ -5224,3 +5224,4 @@
 - **Aug 08, 04:21 PM** - SPACECOM chief doubles down on need for on-orbit mobility (breaking_defense)
 - **Aug 08, 05:31 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 08, 05:33 PM** - Possible Planet Spotted Around Alpha Centauri A by NASA’s James Webb Telescope (nyt)
+- **Aug 08, 05:47 PM** - From boots to orbits: Army develops space skills amid growing battlefield reliance on satellites (spacenews)
