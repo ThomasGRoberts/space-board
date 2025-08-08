@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 3 | 25 | 47 |
+| breaking_defense | 1 | 3 | 26 | 48 |
 | supercluster | 1 | 1 | 84 | 84 |
 | nyt | 1 | 1 | 25 | 25 |
-| spacenews | 0 | 7 | 26 | 53 |
+| spacenews | 0 | 7 | 25 | 53 |
 
 # Shown Order
 
@@ -5259,3 +5259,4 @@
 - **Aug 08, 12:49 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 08, 12:51 AM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
 - **Aug 08, 01:07 AM** - Roscosmos celebrates meeting of agency leaders that NASA ignored (spacenews)
+- **Aug 08, 01:21 AM** - With Intelsat buy, SES targets European defense market (breaking_defense)
