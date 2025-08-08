@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 25 | 53 |
-| supercluster | 1 | 1 | 155 | 155 |
-| nyt | 0 | 1 | 25 | 35 |
+| supercluster | 1 | 1 | 156 | 156 |
+| nyt | 0 | 1 | 24 | 35 |
 | spacenews | 0 | 4 | 25 | 56 |
 
 # Shown Order
@@ -5361,3 +5361,4 @@
 - **Aug 08, 10:47 AM** - It’s time to unlock inland orbital launch for a resilient U.S. space future (spacenews)
 - **Aug 08, 11:02 AM** - Space Force to launch ‘actual’ GMTI sats ‘in the next year’: General (breaking_defense)
 - **Aug 08, 11:17 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 08, 11:19 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
