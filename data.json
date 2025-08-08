@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-08T00:02:06.797866+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2a344d82404b31f278b9c9c10629419e",
+    "trigger_count": 0,
+    "current_item_id": "fc13dc320e36cf5d3867cde0052980e4",
     "data": [
         {
             "id": "d636be7a8a436459717e77c4c1c107e5",
@@ -10762,6 +10762,18 @@
                 "2025-08-08T19:19:09.410277Z",
                 "2025-08-08T19:21:48.957372Z",
                 "2025-08-08T19:23:27.683317Z"
+            ]
+        },
+        {
+            "id": "fc13dc320e36cf5d3867cde0052980e4",
+            "source": "nyt",
+            "text": "James A. Lovell Jr., Commander of Apollo 13, Is Dead at 97",
+            "source_link": "https://www.nytimes.com/2025/08/08/science/space/james-a-lovell-jr-dead.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-08T19:55:27.777609Z",
+            "shown_at": [
+                "2025-08-08T19:55:28.749229Z"
             ]
         }
     ]
