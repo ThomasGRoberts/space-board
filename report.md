@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 25 | 54 |
-| nyt | 0 | 1 | 25 | 39 |
-| spacenews | 0 | 2 | 24 | 54 |
+| nyt | 1 | 2 | 26 | 40 |
+| spacenews | 0 | 1 | 24 | 53 |
 | supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
@@ -5223,3 +5223,4 @@
 - **Aug 08, 01:57 PM** - NASA writes off Lunar Trailblazer mission (spacenews)
 - **Aug 08, 02:11 PM** - How industry is lining up for big Golden Dome business (breaking_defense)
 - **Aug 08, 02:25 PM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
+- **Aug 08, 02:39 PM** - Possible Planet Spotted Around Alpha Centauri A by NASA’s James Webb Telescope (nyt)
