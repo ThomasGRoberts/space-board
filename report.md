@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 3 | 25 | 53 |
+| breaking_defense | 1 | 3 | 26 | 54 |
 | supercluster | 1 | 1 | 161 | 161 |
 | nyt | 0 | 1 | 25 | 36 |
 | spacenews | 0 | 4 | 25 | 56 |
@@ -5369,3 +5369,4 @@
 - **Aug 08, 11:29 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 08, 11:31 AM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
 - **Aug 08, 11:45 AM** - Humans to Mars or humans exploring Mars? (spacenews)
+- **Aug 08, 11:59 AM** - SPACECOM chief doubles down on need for on-orbit mobility (breaking_defense)
