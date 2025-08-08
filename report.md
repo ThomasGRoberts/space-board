@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 3 | 25 | 50 |
+| breaking_defense | 1 | 3 | 26 | 51 |
 | supercluster | 1 | 1 | 140 | 140 |
 | nyt | 0 | 1 | 25 | 33 |
 | spacenews | 0 | 6 | 25 | 55 |
@@ -5339,3 +5339,4 @@
 - **Aug 08, 08:32 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 08, 08:35 AM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
 - **Aug 08, 08:49 AM** - It’s time to unlock inland orbital launch for a resilient U.S. space future (spacenews)
+- **Aug 08, 09:05 AM** - At missile defense conference, the first rule of Golden Dome is don’t talk about Golden Dome (breaking_defense)
