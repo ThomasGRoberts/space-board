@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 25 | 53 |
 | nyt | 1 | 2 | 25 | 41 |
-| spacenews | 0 | 1 | 25 | 53 |
-| supercluster | 1 | 1 | 1 | 1 |
+| spacenews | 0 | 1 | 24 | 53 |
+| supercluster | 1 | 1 | 0 | 0 |
 
 # Shown Order
 
@@ -5222,4 +5222,3 @@
 - **Aug 08, 03:37 PM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
 - **Aug 08, 04:07 PM** - Space Command chief calls for orbital gas stations as China tests satellite refueling (spacenews)
 - **Aug 08, 04:21 PM** - SPACECOM chief doubles down on need for on-orbit mobility (breaking_defense)
-- **Aug 08, 04:35 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
