@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 2 | 23 | 49 |
+| breaking_defense | 1 | 2 | 24 | 50 |
 | nyt | 3 | 4 | 26 | 49 |
-| spacenews | 0 | 0 | 24 | 50 |
+| spacenews | 0 | 0 | 24 | 49 |
 | supercluster | 1 | 1 | 43 | 43 |
 
 # Shown Order
@@ -5286,3 +5286,4 @@
 - **Aug 08, 11:37 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 08, 11:39 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 08, 11:41 PM** - Voyager Technologies emphasizes missile defense and Starlab as key growth drivers (spacenews)
+- **Aug 08, 11:55 PM** - Army’s laser weapons ‘pretty mature,’ could ‘contribute’ to next-gen missile defense (breaking_defense)
