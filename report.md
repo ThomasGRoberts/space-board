@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 4 | 23 | 52 |
+| breaking_defense | 2 | 4 | 24 | 52 |
 | nyt | 1 | 2 | 25 | 42 |
 | spacenews | 0 | 0 | 24 | 52 |
 | supercluster | 1 | 1 | 1 | 1 |
@@ -5225,3 +5225,4 @@
 - **Aug 08, 05:31 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 08, 05:33 PM** - Possible Planet Spotted Around Alpha Centauri A by NASA’s James Webb Telescope (nyt)
 - **Aug 08, 05:47 PM** - From boots to orbits: Army develops space skills amid growing battlefield reliance on satellites (spacenews)
+- **Aug 08, 06:02 PM** - Army crafting a new space policy, moving out on counterspace (breaking_defense)
