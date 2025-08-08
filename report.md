@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 4 | 24 | 53 |
-| nyt | 1 | 2 | 26 | 40 |
-| spacenews | 0 | 1 | 25 | 54 |
+| breaking_defense | 2 | 4 | 25 | 54 |
+| nyt | 1 | 2 | 25 | 40 |
+| spacenews | 0 | 1 | 25 | 53 |
 | supercluster | 1 | 1 | 14 | 14 |
 
 # Shown Order
@@ -5232,3 +5232,4 @@
 - **Aug 08, 03:05 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
 - **Aug 08, 03:07 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
 - **Aug 08, 03:09 PM** - Skyrora gets UK launch license as first flight likely slips to 2026 (spacenews)
+- **Aug 08, 03:23 PM** - SPACECOM chief doubles down on need for on-orbit mobility (breaking_defense)
