@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 4 | 24 | 54 |
 | nyt | 1 | 2 | 26 | 40 |
 | spacenews | 0 | 1 | 24 | 53 |
-| supercluster | 1 | 1 | 7 | 7 |
+| supercluster | 1 | 1 | 8 | 8 |
 
 # Shown Order
 
@@ -5224,3 +5224,4 @@
 - **Aug 08, 02:11 PM** - How industry is lining up for big Golden Dome business (breaking_defense)
 - **Aug 08, 02:25 PM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
 - **Aug 08, 02:39 PM** - Possible Planet Spotted Around Alpha Centauri A by NASA’s James Webb Telescope (nyt)
+- **Aug 08, 02:53 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
