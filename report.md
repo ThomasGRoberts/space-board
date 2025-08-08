@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 25 | 48 |
-| supercluster | 1 | 1 | 112 | 112 |
+| supercluster | 1 | 1 | 113 | 113 |
 | nyt | 0 | 1 | 25 | 29 |
 | spacenews | 0 | 6 | 25 | 52 |
 
@@ -5300,3 +5300,4 @@
 - **Aug 08, 04:47 AM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
 - **Aug 08, 05:02 AM** - Why industry says Golden Dome’s biggest challenge isn’t missiles, it’s data flow (spacenews)
 - **Aug 08, 05:15 AM** - At missile defense conference, the first rule of Golden Dome is don’t talk about Golden Dome (breaking_defense)
+- **Aug 08, 05:29 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
