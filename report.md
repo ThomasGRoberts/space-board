@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 24 | 53 |
 | nyt | 1 | 2 | 26 | 41 |
-| spacenews | 0 | 1 | 24 | 52 |
+| spacenews | 0 | 1 | 25 | 53 |
 | supercluster | 1 | 1 | 21 | 21 |
 
 # Shown Order
@@ -5241,3 +5241,4 @@
 - **Aug 08, 03:59 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
 - **Aug 08, 04:02 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
 - **Aug 08, 04:05 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
+- **Aug 08, 04:07 PM** - Space Command chief calls for orbital gas stations as China tests satellite refueling (spacenews)
