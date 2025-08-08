@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 25 | 54 |
-| supercluster | 1 | 1 | 169 | 169 |
+| supercluster | 1 | 1 | 170 | 170 |
 | nyt | 0 | 1 | 24 | 37 |
 | spacenews | 0 | 3 | 25 | 55 |
 
@@ -5381,3 +5381,4 @@
 - **Aug 08, 12:47 PM** - NASA revises plans for commercial space station development (spacenews)
 - **Aug 08, 01:02 PM** - Space Force launching sats to ‘enable’ GMTI ahead of mission-dedicated birds in 2028 (breaking_defense)
 - **Aug 08, 01:15 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 08, 01:17 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
