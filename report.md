@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 25 | 49 |
-| supercluster | 1 | 1 | 119 | 119 |
+| supercluster | 1 | 1 | 120 | 120 |
 | nyt | 0 | 1 | 25 | 30 |
 | spacenews | 0 | 6 | 25 | 53 |
 
@@ -5310,3 +5310,4 @@
 - **Aug 08, 05:43 AM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
 - **Aug 08, 05:57 AM** - Senators raise NASA funding concerns in letter to Duffy (spacenews)
 - **Aug 08, 06:11 AM** - Space Force to launch ‘actual’ GMTI sats ‘in the next year’: General (breaking_defense)
+- **Aug 08, 06:25 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
