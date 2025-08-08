@@ -5,7 +5,6 @@
 | breaking_defense | 2 | 4 | 25 | 54 |
 | nyt | 1 | 2 | 25 | 41 |
 | spacenews | 0 | 1 | 25 | 53 |
-| supercluster | 1 | 1 | 21 | 21 |
 
 # Shown Order
 
@@ -5213,33 +5212,12 @@
 - **Aug 08, 12:47 PM** - NASA revises plans for commercial space station development (spacenews)
 - **Aug 08, 01:02 PM** - Space Force launching sats to ‘enable’ GMTI ahead of mission-dedicated birds in 2028 (breaking_defense)
 - **Aug 08, 01:29 PM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
-- **Aug 08, 01:43 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
-- **Aug 08, 01:45 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
-- **Aug 08, 01:47 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
-- **Aug 08, 01:49 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
-- **Aug 08, 01:51 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
-- **Aug 08, 01:53 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
-- **Aug 08, 01:55 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
 - **Aug 08, 01:57 PM** - NASA writes off Lunar Trailblazer mission (spacenews)
 - **Aug 08, 02:11 PM** - How industry is lining up for big Golden Dome business (breaking_defense)
 - **Aug 08, 02:25 PM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
 - **Aug 08, 02:39 PM** - Possible Planet Spotted Around Alpha Centauri A by NASA’s James Webb Telescope (nyt)
-- **Aug 08, 02:53 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
-- **Aug 08, 02:55 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
-- **Aug 08, 02:57 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
-- **Aug 08, 02:59 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
-- **Aug 08, 03:02 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
-- **Aug 08, 03:05 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
-- **Aug 08, 03:07 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
 - **Aug 08, 03:09 PM** - Skyrora gets UK launch license as first flight likely slips to 2026 (spacenews)
 - **Aug 08, 03:23 PM** - SPACECOM chief doubles down on need for on-orbit mobility (breaking_defense)
 - **Aug 08, 03:37 PM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
-- **Aug 08, 03:51 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
-- **Aug 08, 03:53 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
-- **Aug 08, 03:55 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
-- **Aug 08, 03:57 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
-- **Aug 08, 03:59 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
-- **Aug 08, 04:02 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
-- **Aug 08, 04:05 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
 - **Aug 08, 04:07 PM** - Space Command chief calls for orbital gas stations as China tests satellite refueling (spacenews)
 - **Aug 08, 04:21 PM** - SPACECOM chief doubles down on need for on-orbit mobility (breaking_defense)
