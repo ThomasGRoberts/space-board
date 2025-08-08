@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 23 | 49 |
 | nyt | 3 | 4 | 26 | 49 |
-| spacenews | 0 | 0 | 23 | 49 |
+| spacenews | 0 | 0 | 24 | 50 |
 | supercluster | 1 | 1 | 43 | 43 |
 
 # Shown Order
@@ -5285,3 +5285,4 @@
 - **Aug 08, 11:35 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 08, 11:37 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 08, 11:39 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 08, 11:41 PM** - Voyager Technologies emphasizes missile defense and Starlab as key growth drivers (spacenews)
