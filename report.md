@@ -5,6 +5,7 @@
 | breaking_defense | 1 | 3 | 25 | 54 |
 | nyt | 0 | 1 | 25 | 38 |
 | spacenews | 0 | 2 | 24 | 54 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -5212,3 +5213,4 @@
 - **Aug 08, 12:47 PM** - NASA revises plans for commercial space station development (spacenews)
 - **Aug 08, 01:02 PM** - Space Force launching sats to ‘enable’ GMTI ahead of mission-dedicated birds in 2028 (breaking_defense)
 - **Aug 08, 01:29 PM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
+- **Aug 08, 01:43 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
