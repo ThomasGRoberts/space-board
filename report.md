@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 3 | 25 | 50 |
+| nyt | 3 | 3 | 26 | 51 |
 | supercluster | 1 | 1 | 71 | 71 |
 | breaking_defense | 1 | 2 | 24 | 49 |
 | spacenews | 0 | 0 | 24 | 49 |
@@ -5278,3 +5278,4 @@
 - **Aug 09, 03:27 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 09, 03:29 AM** - Skyrora gets UK launch license as first flight likely slips to 2026 (spacenews)
 - **Aug 09, 03:43 AM** - Army crafting a new space policy, moving out on counterspace (breaking_defense)
+- **Aug 09, 03:57 AM** - Possible Planet Spotted Around Alpha Centauri A by NASA’s James Webb Telescope (nyt)
