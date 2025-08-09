@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 4 | 4 | 26 | 51 |
 | breaking_defense | 0 | 2 | 22 | 47 |
-| spacenews | 0 | 0 | 22 | 47 |
+| spacenews | 0 | 0 | 23 | 48 |
 | supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
@@ -5238,3 +5238,4 @@
 - **Aug 09, 01:07 PM** - Possible Planet Spotted Around Alpha Centauri A by NASA’s James Webb Telescope (nyt)
 - **Aug 09, 02:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 09, 02:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 09, 02:17 PM** - Voyager Technologies emphasizes missile defense and Starlab as key growth drivers (spacenews)
