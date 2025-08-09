@@ -5,7 +5,7 @@
 | nyt | 4 | 4 | 27 | 51 |
 | breaking_defense | 1 | 2 | 23 | 48 |
 | spacenews | 0 | 0 | 23 | 48 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 0 | 0 |
 
 # Shown Order
 
@@ -5236,4 +5236,3 @@
 - **Aug 09, 12:24 PM** - Rocket Lab launches iQPS radar imaging satellite (spacenews)
 - **Aug 09, 12:39 PM** - Army crafting a new space policy, moving out on counterspace (breaking_defense)
 - **Aug 09, 01:07 PM** - Possible Planet Spotted Around Alpha Centauri A by NASA’s James Webb Telescope (nyt)
-- **Aug 09, 01:21 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
