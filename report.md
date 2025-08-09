@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 26 | 51 |
-| supercluster | 1 | 1 | 99 | 99 |
-| breaking_defense | 1 | 2 | 24 | 49 |
+| supercluster | 1 | 1 | 100 | 100 |
+| breaking_defense | 1 | 2 | 23 | 49 |
 | spacenews | 0 | 0 | 23 | 48 |
 
 # Shown Order
@@ -5319,3 +5319,4 @@
 - **Aug 09, 07:22 AM** - Rocket Lab launches iQPS radar imaging satellite (spacenews)
 - **Aug 09, 07:37 AM** - SPACECOM chief doubles down on need for on-orbit mobility (breaking_defense)
 - **Aug 09, 07:51 AM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
+- **Aug 09, 08:05 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
