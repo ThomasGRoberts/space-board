@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 4 | 26 | 50 |
+| nyt | 3 | 4 | 26 | 51 |
 | breaking_defense | 0 | 2 | 24 | 48 |
-| spacenews | 0 | 0 | 24 | 48 |
+| spacenews | 0 | 0 | 24 | 47 |
 | supercluster | 1 | 1 | 23 | 23 |
 
 # Shown Order
@@ -5270,3 +5270,4 @@
 - **Aug 09, 05:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 09, 05:07 PM** - Why industry says Golden Dome’s biggest challenge isn’t missiles, it’s data flow (spacenews)
 - **Aug 09, 05:21 PM** - Space Force launching sats to ‘enable’ GMTI ahead of mission-dedicated birds in 2028 (breaking_defense)
+- **Aug 09, 05:35 PM** - Possible Planet Spotted Around Alpha Centauri A by NASA’s James Webb Telescope (nyt)
