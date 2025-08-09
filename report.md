@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 26 | 51 |
-| supercluster | 1 | 1 | 92 | 92 |
+| supercluster | 1 | 1 | 93 | 93 |
 | breaking_defense | 1 | 2 | 24 | 49 |
 | spacenews | 0 | 0 | 23 | 48 |
 
@@ -5309,3 +5309,4 @@
 - **Aug 09, 06:23 AM** - NASA’s proposed budget eyes human exploration of Mars (spacenews)
 - **Aug 09, 06:39 AM** - Army crafting a new space policy, moving out on counterspace (breaking_defense)
 - **Aug 09, 06:53 AM** - James A. Lovell Jr., Commander of Apollo 13, Is Dead at 97 (nyt)
+- **Aug 09, 07:07 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
