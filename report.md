@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 4 | 25 | 50 |
-| breaking_defense | 0 | 2 | 23 | 47 |
+| breaking_defense | 0 | 2 | 23 | 48 |
 | spacenews | 0 | 0 | 23 | 48 |
 | supercluster | 1 | 1 | 16 | 16 |
 
@@ -5259,3 +5259,4 @@
 - **Aug 09, 04:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 09, 04:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 09, 04:09 PM** - NASA writes off Lunar Trailblazer mission (spacenews)
+- **Aug 09, 04:23 PM** - With Intelsat buy, SES targets European defense market (breaking_defense)
