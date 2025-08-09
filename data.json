@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-09T00:02:03.744873+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b4fa5167b536af8b3aa9516a9232b0aa",
+    "trigger_count": 0,
+    "current_item_id": "f150c97a6f9e6c48486e8ecac2271e8c",
     "data": [
         {
             "id": "5ff92f70188b3a379b0c84382c6d2a0c",
@@ -10831,6 +10831,18 @@
                 "2025-05-26T21:43:47.447199Z",
                 "2025-05-29T12:18:04.252035Z",
                 "2025-05-29T20:05:35.733772Z"
+            ]
+        },
+        {
+            "id": "f150c97a6f9e6c48486e8ecac2271e8c",
+            "source": "nyt",
+            "text": "How to Watch the Perseids, the Strongest Meteor Shower of the Summer",
+            "source_link": "https://www.nytimes.com/2025/08/09/science/perseids-meteor-shower.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-09T09:15:32.692296Z",
+            "shown_at": [
+                "2025-08-09T09:15:33.291217Z"
             ]
         }
     ]
