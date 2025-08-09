@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 4 | 26 | 51 |
 | breaking_defense | 0 | 2 | 23 | 47 |
-| spacenews | 0 | 0 | 23 | 47 |
+| spacenews | 0 | 0 | 24 | 48 |
 | supercluster | 1 | 1 | 23 | 23 |
 
 # Shown Order
@@ -5268,3 +5268,4 @@
 - **Aug 09, 05:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 09, 05:03 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 09, 05:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 09, 05:07 PM** - Why industry says Golden Dome’s biggest challenge isn’t missiles, it’s data flow (spacenews)
