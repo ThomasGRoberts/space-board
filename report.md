@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 4 | 25 | 51 |
 | breaking_defense | 0 | 1 | 24 | 47 |
-| spacenews | 0 | 0 | 24 | 47 |
+| spacenews | 0 | 0 | 25 | 48 |
 | supercluster | 1 | 1 | 58 | 58 |
 
 # Shown Order
@@ -5318,3 +5318,4 @@
 - **Aug 09, 09:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 09, 09:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 09, 09:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 09, 09:49 PM** - Lockheed Martin targets 2028 demo of space-based missile interceptors (spacenews)
