@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 4 | 4 | 26 | 51 |
+| nyt | 4 | 4 | 27 | 52 |
 | supercluster | 1 | 1 | 127 | 127 |
 | breaking_defense | 1 | 2 | 23 | 48 |
 | spacenews | 0 | 0 | 23 | 48 |
@@ -5356,3 +5356,4 @@
 - **Aug 09, 11:05 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 09, 11:07 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 09, 11:09 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 09, 11:11 AM** - Possible Planet Spotted Around Alpha Centauri A by NASA’s James Webb Telescope (nyt)
