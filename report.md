@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 4 | 26 | 50 |
+| nyt | 3 | 4 | 26 | 51 |
 | breaking_defense | 0 | 2 | 24 | 48 |
-| spacenews | 0 | 0 | 24 | 48 |
+| spacenews | 0 | 0 | 24 | 47 |
 | supercluster | 1 | 1 | 37 | 37 |
 
 # Shown Order
@@ -5290,3 +5290,4 @@
 - **Aug 09, 06:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 09, 06:59 PM** - European companies still in talks to combine their space businesses (spacenews)
 - **Aug 09, 07:13 PM** - Space Force to launch ‘actual’ GMTI sats ‘in the next year’: General (breaking_defense)
+- **Aug 09, 07:27 PM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
