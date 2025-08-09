@@ -5,7 +5,7 @@
 | nyt | 4 | 4 | 27 | 51 |
 | supercluster | 1 | 1 | 120 | 120 |
 | breaking_defense | 1 | 2 | 23 | 48 |
-| spacenews | 0 | 0 | 23 | 48 |
+| spacenews | 0 | 0 | 24 | 49 |
 
 # Shown Order
 
@@ -5347,3 +5347,4 @@
 - **Aug 09, 10:08 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 09, 10:11 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 09, 10:13 AM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
+- **Aug 09, 10:27 AM** - Voyager Technologies emphasizes missile defense and Starlab as key growth drivers (spacenews)
