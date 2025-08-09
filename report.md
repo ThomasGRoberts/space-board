@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 4 | 25 | 51 |
-| breaking_defense | 0 | 1 | 24 | 47 |
+| breaking_defense | 0 | 1 | 25 | 48 |
 | spacenews | 0 | 0 | 24 | 48 |
 | supercluster | 1 | 1 | 65 | 65 |
 
@@ -5329,3 +5329,4 @@
 - **Aug 09, 10:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 09, 10:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 09, 10:45 PM** - What’s required to advance DoD enterprise SATCOM (spacenews)
+- **Aug 09, 10:59 PM** - SPACECOM chief doubles down on need for on-orbit mobility (breaking_defense)
