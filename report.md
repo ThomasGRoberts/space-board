@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 4 | 26 | 51 |
-| breaking_defense | 0 | 2 | 24 | 47 |
-| spacenews | 0 | 0 | 23 | 47 |
+| breaking_defense | 0 | 2 | 23 | 47 |
+| spacenews | 0 | 0 | 24 | 48 |
 | supercluster | 1 | 1 | 30 | 30 |
 
 # Shown Order
@@ -5278,3 +5278,4 @@
 - **Aug 09, 05:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 09, 05:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 09, 06:01 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 09, 06:03 PM** - NASA selects shuttle orbiter to move to Houston (spacenews)
