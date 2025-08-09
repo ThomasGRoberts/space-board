@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 3 | 25 | 50 |
+| nyt | 3 | 3 | 26 | 51 |
 | supercluster | 1 | 1 | 106 | 106 |
 | breaking_defense | 1 | 2 | 24 | 49 |
 | spacenews | 0 | 0 | 24 | 49 |
@@ -5328,3 +5328,4 @@
 - **Aug 09, 08:17 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 09, 08:19 AM** - European companies still in talks to combine their space businesses (spacenews)
 - **Aug 09, 08:33 AM** - With Intelsat buy, SES targets European defense market (breaking_defense)
+- **Aug 09, 08:47 AM** - James A. Lovell Jr., Commander of Apollo 13, Is Dead at 97 (nyt)
