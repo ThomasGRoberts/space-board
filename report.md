@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 4 | 25 | 50 |
+| nyt | 1 | 4 | 26 | 51 |
 | breaking_defense | 0 | 1 | 24 | 48 |
 | spacenews | 0 | 0 | 24 | 48 |
 | supercluster | 1 | 1 | 51 | 51 |
@@ -5310,3 +5310,4 @@
 - **Aug 09, 08:51 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 09, 08:53 PM** - Military leaders say integrated space power crucial for national defense (spacenews)
 - **Aug 09, 09:07 PM** - SPACECOM chief doubles down on need for on-orbit mobility (breaking_defense)
+- **Aug 09, 09:21 PM** - Possible Planet Spotted Around Alpha Centauri A by NASA’s James Webb Telescope (nyt)
