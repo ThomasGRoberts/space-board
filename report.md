@@ -5,7 +5,7 @@
 | nyt | 3 | 4 | 25 | 51 |
 | breaking_defense | 0 | 2 | 23 | 47 |
 | spacenews | 0 | 0 | 23 | 47 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -5241,3 +5241,4 @@
 - **Aug 09, 02:17 PM** - Voyager Technologies emphasizes missile defense and Starlab as key growth drivers (spacenews)
 - **Aug 09, 02:31 PM** - Army crafting a new space policy, moving out on counterspace (breaking_defense)
 - **Aug 09, 02:45 PM** - How to Watch the Perseids, the Strongest Meteor Shower of the Summer (nyt)
+- **Aug 09, 02:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
