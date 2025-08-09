@@ -5,7 +5,7 @@
 | nyt | 3 | 4 | 26 | 51 |
 | breaking_defense | 0 | 2 | 24 | 47 |
 | spacenews | 0 | 0 | 23 | 47 |
-| supercluster | 1 | 1 | 24 | 24 |
+| supercluster | 1 | 1 | 25 | 25 |
 
 # Shown Order
 
@@ -5272,3 +5272,4 @@
 - **Aug 09, 05:21 PM** - Space Force launching sats to ‘enable’ GMTI ahead of mission-dedicated birds in 2028 (breaking_defense)
 - **Aug 09, 05:35 PM** - Possible Planet Spotted Around Alpha Centauri A by NASA’s James Webb Telescope (nyt)
 - **Aug 09, 05:49 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 09, 05:51 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
