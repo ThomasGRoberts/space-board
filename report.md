@@ -5,7 +5,7 @@
 | nyt | 3 | 4 | 26 | 51 |
 | breaking_defense | 0 | 2 | 24 | 47 |
 | spacenews | 0 | 0 | 23 | 47 |
-| supercluster | 1 | 1 | 32 | 32 |
+| supercluster | 1 | 1 | 33 | 33 |
 
 # Shown Order
 
@@ -5283,3 +5283,4 @@
 - **Aug 09, 06:31 PM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
 - **Aug 09, 06:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 09, 06:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 09, 06:49 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
