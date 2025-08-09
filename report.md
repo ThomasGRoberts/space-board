@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 4 | 25 | 51 |
-| breaking_defense | 0 | 1 | 24 | 47 |
+| breaking_defense | 0 | 1 | 25 | 48 |
 | spacenews | 0 | 0 | 24 | 48 |
 | supercluster | 1 | 1 | 72 | 72 |
 
@@ -5339,3 +5339,4 @@
 - **Aug 09, 11:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 09, 11:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 09, 11:41 PM** - Northrop says investments position company for Golden Dome missile defense demand (spacenews)
+- **Aug 09, 11:55 PM** - With Intelsat buy, SES targets European defense market (breaking_defense)
