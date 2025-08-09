@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 4 | 4 | 26 | 51 |
 | supercluster | 1 | 1 | 127 | 127 |
-| breaking_defense | 1 | 2 | 23 | 48 |
+| breaking_defense | 1 | 2 | 24 | 49 |
 | spacenews | 0 | 0 | 24 | 49 |
 
 # Shown Order
@@ -5358,3 +5358,4 @@
 - **Aug 09, 11:09 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 09, 11:11 AM** - Possible Planet Spotted Around Alpha Centauri A by NASA’s James Webb Telescope (nyt)
 - **Aug 09, 11:27 AM** - Lockheed Martin targets 2028 demo of space-based missile interceptors (spacenews)
+- **Aug 09, 11:41 AM** - How industry is lining up for big Golden Dome business (breaking_defense)
