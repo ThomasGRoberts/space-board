@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 4 | 4 | 26 | 51 |
 | supercluster | 1 | 1 | 113 | 113 |
-| breaking_defense | 1 | 2 | 23 | 48 |
+| breaking_defense | 1 | 2 | 24 | 49 |
 | spacenews | 0 | 0 | 24 | 49 |
 
 # Shown Order
@@ -5338,3 +5338,4 @@
 - **Aug 09, 09:13 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 09, 09:15 AM** - How to Watch the Perseids, the Strongest Meteor Shower of the Summer (nyt)
 - **Aug 09, 09:29 AM** - Burloak and MDA Bet Big on Additive Manufacturing, Fueling Next-Gen Satellite Constellations (spacenews)
+- **Aug 09, 09:43 AM** - Army’s laser weapons ‘pretty mature,’ could ‘contribute’ to next-gen missile defense (breaking_defense)
