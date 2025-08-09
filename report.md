@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 3 | 26 | 51 |
+| nyt | 3 | 3 | 26 | 50 |
 | supercluster | 1 | 1 | 64 | 64 |
-| breaking_defense | 1 | 2 | 23 | 48 |
+| breaking_defense | 1 | 2 | 24 | 49 |
 | spacenews | 0 | 0 | 24 | 49 |
 
 # Shown Order
@@ -5267,3 +5267,4 @@
 - **Aug 09, 02:27 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 09, 02:29 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 09, 02:31 AM** - Space Command chief calls for orbital gas stations as China tests satellite refueling (spacenews)
+- **Aug 09, 02:45 AM** - How industry is lining up for big Golden Dome business (breaking_defense)
