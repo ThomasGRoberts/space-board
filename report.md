@@ -5,7 +5,7 @@
 | nyt | 4 | 4 | 26 | 51 |
 | breaking_defense | 0 | 2 | 22 | 47 |
 | spacenews | 0 | 0 | 22 | 47 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -5237,3 +5237,4 @@
 - **Aug 09, 12:39 PM** - Army crafting a new space policy, moving out on counterspace (breaking_defense)
 - **Aug 09, 01:07 PM** - Possible Planet Spotted Around Alpha Centauri A by NASA’s James Webb Telescope (nyt)
 - **Aug 09, 02:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 09, 02:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
