@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 4 | 4 | 26 | 51 |
-| supercluster | 1 | 1 | 114 | 114 |
+| supercluster | 1 | 1 | 115 | 115 |
 | breaking_defense | 1 | 2 | 24 | 49 |
 | spacenews | 0 | 0 | 23 | 48 |
 
@@ -5340,3 +5340,4 @@
 - **Aug 09, 09:29 AM** - Burloak and MDA Bet Big on Additive Manufacturing, Fueling Next-Gen Satellite Constellations (spacenews)
 - **Aug 09, 09:43 AM** - Army’s laser weapons ‘pretty mature,’ could ‘contribute’ to next-gen missile defense (breaking_defense)
 - **Aug 09, 09:57 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 09, 09:59 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
