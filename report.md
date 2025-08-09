@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 26 | 51 |
-| supercluster | 1 | 1 | 79 | 79 |
+| supercluster | 1 | 1 | 80 | 80 |
 | breaking_defense | 1 | 2 | 24 | 49 |
 | spacenews | 0 | 0 | 23 | 48 |
 
@@ -5290,3 +5290,4 @@
 - **Aug 09, 04:41 AM** - Space Force to launch ‘actual’ GMTI sats ‘in the next year’: General (breaking_defense)
 - **Aug 09, 04:55 AM** - Astronaut James Lovell, Commander of Apollo 13, Dies at 97 (nyt)
 - **Aug 09, 05:11 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 09, 05:13 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
