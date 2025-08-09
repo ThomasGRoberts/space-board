@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-09T00:02:03.744873+00:00",
-    "trigger_count": 4,
-    "current_item_id": "b4fa5167b536af8b3aa9516a9232b0aa",
+    "trigger_count": 5,
+    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
     "data": [
         {
             "id": "5ff92f70188b3a379b0c84382c6d2a0c",
@@ -10732,15 +10732,18 @@
             ]
         },
         {
-            "id": "b4fa5167b536af8b3aa9516a9232b0aa",
+            "id": "4beba9b243fe616fcb8e7be8d963bbc1",
             "source": "supercluster",
-            "text": "SpaceX Will Launch Project Kuiper Internet Satellites for Amazon",
-            "source_link": "https://www.supercluster.com/launches/project-kuiper-kf-02",
-            "shown": false,
+            "text": "SpaceX Will Launch Starlink Satellites from California",
+            "source_link": "https://www.supercluster.com/launches/starlink-17-4",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-08-09T13:18:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-08-09T14:11:44.854450Z"
+            "target_datetime": "2025-08-10T03:43:00.000Z",
+            "time_remaining": "0d 13h 29m",
+            "fetched_datetime": "2025-08-09T14:13:39.138553Z",
+            "shown_at": [
+                "2025-08-09T14:13:39.807497Z"
+            ]
         }
     ]
 }
