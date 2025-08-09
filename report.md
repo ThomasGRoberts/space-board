@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 4 | 25 | 50 |
-| breaking_defense | 0 | 2 | 22 | 47 |
+| breaking_defense | 0 | 2 | 23 | 48 |
 | spacenews | 0 | 0 | 23 | 48 |
 | supercluster | 1 | 1 | 9 | 9 |
 
@@ -5249,3 +5249,4 @@
 - **Aug 09, 03:09 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 09, 03:11 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 09, 03:13 PM** - Rocket Lab launches iQPS radar imaging satellite (spacenews)
+- **Aug 09, 03:27 PM** - With Intelsat buy, SES targets European defense market (breaking_defense)
