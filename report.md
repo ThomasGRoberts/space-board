@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 4 | 4 | 26 | 51 |
 | supercluster | 1 | 1 | 120 | 120 |
-| breaking_defense | 1 | 2 | 23 | 48 |
+| breaking_defense | 1 | 2 | 24 | 49 |
 | spacenews | 0 | 0 | 24 | 49 |
 
 # Shown Order
@@ -5348,3 +5348,4 @@
 - **Aug 09, 10:11 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 09, 10:13 AM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
 - **Aug 09, 10:27 AM** - Voyager Technologies emphasizes missile defense and Starlab as key growth drivers (spacenews)
+- **Aug 09, 10:41 AM** - At missile defense conference, the first rule of Golden Dome is don’t talk about Golden Dome (breaking_defense)
