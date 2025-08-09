@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 26 | 51 |
 | supercluster | 1 | 1 | 71 | 71 |
-| breaking_defense | 1 | 2 | 23 | 49 |
-| spacenews | 0 | 0 | 23 | 48 |
+| breaking_defense | 1 | 2 | 23 | 48 |
+| spacenews | 0 | 0 | 24 | 49 |
 
 # Shown Order
 
@@ -5276,3 +5276,4 @@
 - **Aug 09, 03:23 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 09, 03:25 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 09, 03:27 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 09, 03:29 AM** - Skyrora gets UK launch license as first flight likely slips to 2026 (spacenews)
