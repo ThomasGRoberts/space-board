@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 4 | 25 | 51 |
-| breaking_defense | 0 | 2 | 24 | 47 |
+| breaking_defense | 0 | 2 | 24 | 48 |
 | spacenews | 0 | 0 | 24 | 48 |
 | supercluster | 1 | 1 | 44 | 44 |
 
@@ -5299,3 +5299,4 @@
 - **Aug 09, 07:51 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 09, 07:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 09, 07:55 PM** - What’s required to advance DoD enterprise SATCOM (spacenews)
+- **Aug 09, 08:11 PM** - With Intelsat buy, SES targets European defense market (breaking_defense)
