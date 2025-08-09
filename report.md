@@ -5,7 +5,7 @@
 | nyt | 1 | 4 | 25 | 51 |
 | breaking_defense | 0 | 1 | 24 | 48 |
 | spacenews | 0 | 0 | 24 | 47 |
-| supercluster | 1 | 1 | 65 | 65 |
+| supercluster | 1 | 1 | 66 | 66 |
 
 # Shown Order
 
@@ -5331,3 +5331,4 @@
 - **Aug 09, 10:45 PM** - What’s required to advance DoD enterprise SATCOM (spacenews)
 - **Aug 09, 10:59 PM** - SPACECOM chief doubles down on need for on-orbit mobility (breaking_defense)
 - **Aug 09, 11:13 PM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
+- **Aug 09, 11:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
