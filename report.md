@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 4 | 25 | 51 |
 | breaking_defense | 0 | 1 | 24 | 47 |
-| spacenews | 0 | 0 | 24 | 47 |
+| spacenews | 0 | 0 | 25 | 48 |
 | supercluster | 1 | 1 | 72 | 72 |
 
 # Shown Order
@@ -5338,3 +5338,4 @@
 - **Aug 09, 11:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 09, 11:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 09, 11:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 09, 11:41 PM** - Northrop says investments position company for Golden Dome missile defense demand (spacenews)
