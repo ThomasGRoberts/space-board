@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 4 | 26 | 51 |
-| supercluster | 1 | 1 | 52 | 52 |
+| supercluster | 1 | 1 | 53 | 53 |
 | breaking_defense | 1 | 2 | 23 | 49 |
 | spacenews | 0 | 0 | 23 | 48 |
 
@@ -5251,3 +5251,4 @@
 - **Aug 09, 01:07 AM** - Astronaut James Lovell, Commander of Apollo 13, Dies at 97 (nyt)
 - **Aug 09, 01:21 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 09, 01:23 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 09, 01:25 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
