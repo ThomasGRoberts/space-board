@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 2 | 2 | 86 | 86 |
 | nyt | 1 | 4 | 25 | 51 |
-| breaking_defense | 0 | 1 | 24 | 47 |
+| breaking_defense | 0 | 1 | 25 | 48 |
 | spacenews | 0 | 0 | 24 | 48 |
 
 # Shown Order
@@ -5354,3 +5354,4 @@
 - **Aug 10, 01:17 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 10, 01:19 AM** - How to Watch the Perseids, the Strongest Meteor Shower of the Summer (nyt)
 - **Aug 10, 01:33 AM** - Eoptic and Starris establish strategic partnership to develop multispectral satellite imaging payloads (spacenews)
+- **Aug 10, 01:47 AM** - Space Force to launch ‘actual’ GMTI sats ‘in the next year’: General (breaking_defense)
