@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 1 | 17 | 42 |
+| nyt | 0 | 1 | 18 | 43 |
 | breaking_defense | 0 | 0 | 18 | 42 |
 | spacenews | 0 | 0 | 18 | 42 |
 | supercluster | 1 | 1 | 6 | 6 |
@@ -5311,3 +5311,4 @@
 - **Aug 10, 08:25 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 10, 08:27 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 10, 08:29 PM** - How industry is lining up for big Golden Dome business (breaking_defense)
+- **Aug 10, 08:43 PM** - James A. Lovell Jr., Commander of Apollo 13, Is Dead at 97 (nyt)
