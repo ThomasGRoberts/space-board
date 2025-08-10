@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 4 | 25 | 51 |
-| breaking_defense | 0 | 1 | 24 | 47 |
+| nyt | 0 | 4 | 24 | 51 |
+| breaking_defense | 0 | 1 | 25 | 48 |
 | spacenews | 0 | 0 | 25 | 48 |
 | supercluster | 1 | 1 | 84 | 84 |
 
@@ -5385,3 +5385,4 @@
 - **Aug 10, 11:39 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 10, 11:41 AM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
 - **Aug 10, 11:55 AM** - Skyrora gets UK launch license as first flight likely slips to 2026 (spacenews)
+- **Aug 10, 12:09 PM** - How industry is lining up for big Golden Dome business (breaking_defense)
