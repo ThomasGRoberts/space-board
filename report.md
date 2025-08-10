@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 18 | 43 |
 | breaking_defense | 0 | 0 | 18 | 42 |
-| spacenews | 0 | 0 | 17 | 41 |
+| spacenews | 0 | 0 | 18 | 42 |
 | supercluster | 1 | 1 | 27 | 27 |
 
 # Shown Order
@@ -5342,3 +5342,4 @@
 - **Aug 10, 11:15 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 10, 11:17 PM** - SPACECOM chief doubles down on need for on-orbit mobility (breaking_defense)
 - **Aug 10, 11:31 PM** - Possible Planet Spotted Around Alpha Centauri A by NASA’s James Webb Telescope (nyt)
+- **Aug 10, 11:45 PM** - Golden Dome requires non-traditional thinking and an agile approach (spacenews)
