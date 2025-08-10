@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 2 | 2 | 86 | 86 |
-| nyt | 1 | 4 | 24 | 50 |
+| nyt | 1 | 4 | 25 | 51 |
 | breaking_defense | 0 | 1 | 24 | 48 |
 | spacenews | 0 | 0 | 24 | 47 |
 
@@ -5352,3 +5352,4 @@
 - **Aug 10, 01:13 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 10, 01:15 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 10, 01:17 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 10, 01:19 AM** - How to Watch the Perseids, the Strongest Meteor Shower of the Summer (nyt)
