@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 4 | 24 | 51 |
 | breaking_defense | 0 | 1 | 25 | 48 |
-| spacenews | 0 | 0 | 25 | 48 |
-| supercluster | 1 | 1 | 85 | 85 |
+| spacenews | 0 | 0 | 24 | 48 |
+| supercluster | 1 | 1 | 86 | 86 |
 
 # Shown Order
 
@@ -5387,3 +5387,4 @@
 - **Aug 10, 11:55 AM** - Skyrora gets UK launch license as first flight likely slips to 2026 (spacenews)
 - **Aug 10, 12:09 PM** - How industry is lining up for big Golden Dome business (breaking_defense)
 - **Aug 10, 12:23 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 10, 12:25 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
