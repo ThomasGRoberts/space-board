@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 4 | 25 | 50 |
+| nyt | 1 | 4 | 24 | 50 |
 | breaking_defense | 0 | 1 | 24 | 48 |
 | spacenews | 0 | 0 | 24 | 48 |
-| supercluster | 1 | 1 | 30 | 30 |
+| supercluster | 1 | 1 | 31 | 31 |
 
 # Shown Order
 
@@ -5308,3 +5308,4 @@
 - **Aug 10, 04:37 AM** - How industry is lining up for big Golden Dome business (breaking_defense)
 - **Aug 10, 04:51 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 10, 04:53 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 10, 04:55 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
