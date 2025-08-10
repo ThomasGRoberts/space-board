@@ -5,7 +5,7 @@
 | nyt | 1 | 4 | 25 | 50 |
 | breaking_defense | 0 | 1 | 24 | 48 |
 | spacenews | 0 | 0 | 24 | 48 |
-| supercluster | 1 | 1 | 36 | 36 |
+| supercluster | 1 | 1 | 37 | 37 |
 
 # Shown Order
 
@@ -5317,3 +5317,4 @@
 - **Aug 10, 05:19 AM** - Voyager Technologies emphasizes missile defense and Starlab as key growth drivers (spacenews)
 - **Aug 10, 05:35 AM** - How industry is lining up for big Golden Dome business (breaking_defense)
 - **Aug 10, 05:49 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 10, 05:51 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
