@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 73 | 73 |
+| supercluster | 1 | 1 | 74 | 74 |
 | nyt | 1 | 4 | 25 | 51 |
 | breaking_defense | 0 | 1 | 24 | 47 |
 | spacenews | 0 | 0 | 24 | 47 |
@@ -5337,3 +5337,4 @@
 - **Aug 09, 11:55 PM** - With Intelsat buy, SES targets European defense market (breaking_defense)
 - **Aug 10, 12:09 AM** - James A. Lovell Jr., Commander of Apollo 13, Is Dead at 97 (nyt)
 - **Aug 10, 12:23 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 10, 12:25 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
