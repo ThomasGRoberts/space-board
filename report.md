@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 4 | 25 | 51 |
 | breaking_defense | 0 | 1 | 24 | 47 |
-| spacenews | 0 | 0 | 24 | 47 |
+| spacenews | 0 | 0 | 25 | 48 |
 | supercluster | 1 | 1 | 28 | 28 |
 
 # Shown Order
@@ -5304,3 +5304,4 @@
 - **Aug 10, 04:05 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 10, 04:07 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 10, 04:09 AM** - How to Watch the Perseids, the Strongest Meteor Shower of the Summer (nyt)
+- **Aug 10, 04:23 AM** - Military leaders say integrated space power crucial for national defense (spacenews)
