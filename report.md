@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 4 | 24 | 51 |
-| breaking_defense | 0 | 1 | 24 | 47 |
-| spacenews | 0 | 0 | 25 | 48 |
-| supercluster | 1 | 1 | 0 | 0 |
+| nyt | 0 | 2 | 18 | 43 |
+| breaking_defense | 0 | 0 | 17 | 41 |
+| spacenews | 0 | 0 | 18 | 42 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -5304,3 +5304,4 @@
 - **Aug 10, 12:09 PM** - How industry is lining up for big Golden Dome business (breaking_defense)
 - **Aug 10, 12:37 PM** - James A. Lovell Jr., Commander of Apollo 13, Is Dead at 97 (nyt)
 - **Aug 10, 12:51 PM** - Interlune to fly instrument on Astrolab’s FLIP rover (spacenews)
+- **Aug 10, 08:17 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
