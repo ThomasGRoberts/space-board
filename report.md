@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 4 | 24 | 51 |
+| nyt | 0 | 4 | 24 | 50 |
 | breaking_defense | 0 | 1 | 25 | 48 |
 | spacenews | 0 | 0 | 24 | 48 |
-| supercluster | 1 | 1 | 80 | 80 |
+| supercluster | 1 | 1 | 81 | 81 |
 
 # Shown Order
 
@@ -5379,3 +5379,4 @@
 - **Aug 10, 11:27 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 10, 11:29 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 10, 11:31 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 10, 11:33 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
