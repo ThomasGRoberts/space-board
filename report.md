@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 79 | 79 |
+| supercluster | 2 | 2 | 80 | 80 |
 | nyt | 1 | 4 | 25 | 50 |
 | breaking_defense | 0 | 1 | 24 | 48 |
 | spacenews | 0 | 0 | 24 | 48 |
@@ -5345,3 +5345,4 @@
 - **Aug 10, 12:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 10, 12:37 AM** - Skyrora gets UK launch license as first flight likely slips to 2026 (spacenews)
 - **Aug 10, 12:51 AM** - Army crafting a new space policy, moving out on counterspace (breaking_defense)
+- **Aug 10, 01:05 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
