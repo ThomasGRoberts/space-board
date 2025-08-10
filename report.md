@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 2 | 2 | 95 | 95 |
-| nyt | 1 | 4 | 25 | 50 |
+| supercluster | 2 | 2 | 96 | 96 |
+| nyt | 1 | 4 | 24 | 50 |
 | breaking_defense | 0 | 1 | 24 | 48 |
 | spacenews | 0 | 0 | 24 | 48 |
 
@@ -5367,3 +5367,4 @@
 - **Aug 10, 02:43 AM** - Space Force launching sats to ‘enable’ GMTI ahead of mission-dedicated birds in 2028 (breaking_defense)
 - **Aug 10, 02:57 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 10, 02:59 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 10, 03:01 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
