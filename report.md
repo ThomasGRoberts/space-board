@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 4 | 25 | 51 |
-| breaking_defense | 0 | 1 | 24 | 48 |
-| spacenews | 0 | 0 | 24 | 47 |
+| breaking_defense | 0 | 1 | 24 | 47 |
+| spacenews | 0 | 0 | 25 | 48 |
 | supercluster | 1 | 1 | 70 | 70 |
 
 # Shown Order
@@ -5364,3 +5364,4 @@
 - **Aug 10, 09:45 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 10, 09:47 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 10, 09:49 AM** - Possible Planet Spotted Around Alpha Centauri A by NASA’s James Webb Telescope (nyt)
+- **Aug 10, 10:03 AM** - Humans to Mars or humans exploring Mars? (spacenews)
