@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 4 | 25 | 51 |
-| breaking_defense | 0 | 1 | 24 | 47 |
+| breaking_defense | 0 | 1 | 25 | 48 |
 | spacenews | 0 | 0 | 24 | 48 |
 | supercluster | 1 | 1 | 42 | 42 |
 
@@ -5325,3 +5325,4 @@
 - **Aug 10, 06:02 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 10, 06:03 AM** - James A. Lovell Jr., Commander of Apollo 13, Is Dead at 97 (nyt)
 - **Aug 10, 06:17 AM** - Humans to Mars or humans exploring Mars? (spacenews)
+- **Aug 10, 06:31 AM** - Army’s laser weapons ‘pretty mature,’ could ‘contribute’ to next-gen missile defense (breaking_defense)
