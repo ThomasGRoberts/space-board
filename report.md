@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 4 | 25 | 51 |
 | breaking_defense | 0 | 1 | 24 | 48 |
-| spacenews | 0 | 0 | 24 | 47 |
+| spacenews | 0 | 0 | 25 | 48 |
 | supercluster | 1 | 1 | 84 | 84 |
 
 # Shown Order
@@ -5384,3 +5384,4 @@
 - **Aug 10, 11:37 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 10, 11:39 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 10, 11:41 AM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
+- **Aug 10, 11:55 AM** - Skyrora gets UK launch license as first flight likely slips to 2026 (spacenews)
