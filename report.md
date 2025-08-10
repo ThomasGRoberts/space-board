@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 4 | 25 | 51 |
-| breaking_defense | 0 | 1 | 24 | 47 |
+| nyt | 0 | 4 | 24 | 51 |
+| breaking_defense | 0 | 1 | 25 | 48 |
 | spacenews | 0 | 0 | 25 | 48 |
 | supercluster | 1 | 1 | 77 | 77 |
 
@@ -5375,3 +5375,4 @@
 - **Aug 10, 10:43 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 10, 10:45 AM** - Possible Planet Spotted Around Alpha Centauri A by NASA’s James Webb Telescope (nyt)
 - **Aug 10, 10:59 AM** - Voyager Technologies emphasizes missile defense and Starlab as key growth drivers (spacenews)
+- **Aug 10, 11:13 AM** - SPACECOM chief doubles down on need for on-orbit mobility (breaking_defense)
