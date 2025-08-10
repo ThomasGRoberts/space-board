@@ -5,7 +5,7 @@
 | nyt | 1 | 4 | 25 | 50 |
 | breaking_defense | 0 | 1 | 24 | 48 |
 | spacenews | 0 | 0 | 24 | 48 |
-| supercluster | 1 | 1 | 22 | 22 |
+| supercluster | 1 | 1 | 23 | 23 |
 
 # Shown Order
 
@@ -5297,3 +5297,4 @@
 - **Aug 10, 03:25 AM** - Space Command chief calls for orbital gas stations as China tests satellite refueling (spacenews)
 - **Aug 10, 03:39 AM** - With Intelsat buy, SES targets European defense market (breaking_defense)
 - **Aug 10, 03:55 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 10, 03:57 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
