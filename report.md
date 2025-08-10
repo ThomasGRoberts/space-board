@@ -5,7 +5,7 @@
 | nyt | 0 | 4 | 24 | 51 |
 | breaking_defense | 0 | 1 | 25 | 48 |
 | spacenews | 0 | 0 | 24 | 48 |
-| supercluster | 1 | 1 | 70 | 70 |
+| supercluster | 1 | 1 | 71 | 71 |
 
 # Shown Order
 
@@ -5366,3 +5366,4 @@
 - **Aug 10, 09:49 AM** - Possible Planet Spotted Around Alpha Centauri A by NASA’s James Webb Telescope (nyt)
 - **Aug 10, 10:03 AM** - Humans to Mars or humans exploring Mars? (spacenews)
 - **Aug 10, 10:17 AM** - Space Force to launch ‘actual’ GMTI sats ‘in the next year’: General (breaking_defense)
+- **Aug 10, 10:31 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
