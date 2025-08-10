@@ -5,7 +5,7 @@
 | nyt | 0 | 1 | 18 | 43 |
 | breaking_defense | 0 | 0 | 17 | 41 |
 | spacenews | 0 | 0 | 18 | 42 |
-| supercluster | 1 | 1 | 8 | 8 |
+| supercluster | 1 | 1 | 9 | 9 |
 
 # Shown Order
 
@@ -5315,3 +5315,4 @@
 - **Aug 10, 08:57 PM** - Long March 12 launches first Guowang satellites developed by private firm (spacenews)
 - **Aug 10, 09:11 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 10, 09:13 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 10, 09:15 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
