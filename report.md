@@ -5,7 +5,7 @@
 | nyt | 1 | 4 | 25 | 50 |
 | breaking_defense | 0 | 1 | 24 | 48 |
 | spacenews | 0 | 0 | 24 | 48 |
-| supercluster | 1 | 1 | 49 | 49 |
+| supercluster | 1 | 1 | 50 | 50 |
 
 # Shown Order
 
@@ -5336,3 +5336,4 @@
 - **Aug 10, 06:59 AM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
 - **Aug 10, 07:13 AM** - Long March 12 launches first Guowang satellites developed by private firm (spacenews)
 - **Aug 10, 07:27 AM** - Space Force to launch ‘actual’ GMTI sats ‘in the next year’: General (breaking_defense)
+- **Aug 10, 07:41 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
