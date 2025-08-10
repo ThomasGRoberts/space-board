@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 18 | 43 |
 | breaking_defense | 0 | 0 | 18 | 42 |
-| spacenews | 0 | 0 | 17 | 41 |
+| spacenews | 0 | 0 | 18 | 42 |
 | supercluster | 1 | 1 | 13 | 13 |
 
 # Shown Order
@@ -5322,3 +5322,4 @@
 - **Aug 10, 09:23 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 10, 09:25 PM** - Space Force launching sats to ‘enable’ GMTI ahead of mission-dedicated birds in 2028 (breaking_defense)
 - **Aug 10, 09:39 PM** - Possible Planet Spotted Around Alpha Centauri A by NASA’s James Webb Telescope (nyt)
+- **Aug 10, 09:53 PM** - NASA writes off Lunar Trailblazer mission (spacenews)
