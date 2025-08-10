@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 2 | 2 | 87 | 87 |
+| supercluster | 2 | 2 | 88 | 88 |
 | nyt | 1 | 4 | 25 | 50 |
 | breaking_defense | 0 | 1 | 24 | 48 |
 | spacenews | 0 | 0 | 24 | 48 |
@@ -5356,3 +5356,4 @@
 - **Aug 10, 01:33 AM** - Eoptic and Starris establish strategic partnership to develop multispectral satellite imaging payloads (spacenews)
 - **Aug 10, 01:47 AM** - Space Force to launch ‘actual’ GMTI sats ‘in the next year’: General (breaking_defense)
 - **Aug 10, 02:02 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 10, 02:03 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
