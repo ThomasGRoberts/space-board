@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 79 | 79 |
 | nyt | 1 | 4 | 25 | 51 |
 | breaking_defense | 0 | 1 | 24 | 47 |
-| spacenews | 0 | 0 | 24 | 47 |
+| spacenews | 0 | 0 | 25 | 48 |
 
 # Shown Order
 
@@ -5343,3 +5343,4 @@
 - **Aug 10, 12:31 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 10, 12:33 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 10, 12:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 10, 12:37 AM** - Skyrora gets UK launch license as first flight likely slips to 2026 (spacenews)
