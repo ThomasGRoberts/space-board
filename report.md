@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 4 | 25 | 51 |
-| breaking_defense | 0 | 1 | 24 | 47 |
+| breaking_defense | 0 | 1 | 25 | 48 |
 | spacenews | 0 | 0 | 24 | 48 |
 | supercluster | 1 | 1 | 35 | 35 |
 
@@ -5315,3 +5315,4 @@
 - **Aug 10, 05:03 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 10, 05:05 AM** - Astronaut James Lovell, Commander of Apollo 13, Dies at 97 (nyt)
 - **Aug 10, 05:19 AM** - Voyager Technologies emphasizes missile defense and Starlab as key growth drivers (spacenews)
+- **Aug 10, 05:35 AM** - How industry is lining up for big Golden Dome business (breaking_defense)
