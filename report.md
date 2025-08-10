@@ -5,7 +5,7 @@
 | nyt | 0 | 4 | 24 | 50 |
 | breaking_defense | 0 | 1 | 25 | 48 |
 | spacenews | 0 | 0 | 24 | 48 |
-| supercluster | 1 | 1 | 64 | 64 |
+| supercluster | 1 | 1 | 65 | 65 |
 
 # Shown Order
 
@@ -5357,3 +5357,4 @@
 - **Aug 10, 09:07 AM** - Eutelsat’s bright LEO outlook clouded by GEO decline (spacenews)
 - **Aug 10, 09:21 AM** - Army’s laser weapons ‘pretty mature,’ could ‘contribute’ to next-gen missile defense (breaking_defense)
 - **Aug 10, 09:35 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 10, 09:37 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
