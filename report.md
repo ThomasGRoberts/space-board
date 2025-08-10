@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 2 | 2 | 100 | 100 |
 | nyt | 1 | 4 | 25 | 51 |
-| breaking_defense | 0 | 1 | 24 | 47 |
+| breaking_defense | 0 | 1 | 25 | 48 |
 | spacenews | 0 | 0 | 24 | 48 |
 
 # Shown Order
@@ -5374,3 +5374,4 @@
 - **Aug 10, 03:09 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 10, 03:11 AM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
 - **Aug 10, 03:25 AM** - Space Command chief calls for orbital gas stations as China tests satellite refueling (spacenews)
+- **Aug 10, 03:39 AM** - With Intelsat buy, SES targets European defense market (breaking_defense)
