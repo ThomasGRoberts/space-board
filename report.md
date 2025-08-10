@@ -2,14 +2,13 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
+| supercluster | 1 | 1 | 72 | 72 |
 | nyt | 1 | 4 | 25 | 50 |
 | breaking_defense | 0 | 1 | 24 | 48 |
 | spacenews | 0 | 0 | 24 | 48 |
-| supercluster | 1 | 1 | 72 | 72 |
 
 # Shown Order
 
-- **May 22, 09:41 PM** - Dawn Aerospace begins sales of Aurora suborbital spaceplane (spacenews)
 - **May 23, 11:15 AM** - There’s Probably No Life on K2-18b After All, Three Studies Conclude (nyt)
 - **May 23, 11:57 AM** - Senate sets up early June vote on Isaacman nomination to lead NASA (spacenews)
 - **May 23, 01:02 PM** - Senate sets up early June vote on Isaacman nomination to lead NASA (spacenews)
@@ -55,7 +54,6 @@
 - **May 26, 10:49 AM** - NGA hopes to award up to 10 Luno commercial analytics task orders this year (breaking_defense)
 - **May 26, 11:19 AM** - Chinese commercial company lands contract to build provincial satellite constellation (spacenews)
 - **May 26, 11:33 AM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
-- **May 26, 12:15 PM** - Dawn Aerospace begins sales of Aurora suborbital spaceplane (spacenews)
 - **May 26, 12:29 PM** - There’s Probably No Life on K2-18b After All, Three Studies Conclude (nyt)
 - **May 26, 01:05 PM** - Mission-ready communications: enhancing defense capabilities with multi-orbit, multi-network systems (spacenews)
 - **May 26, 01:35 PM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
@@ -67,7 +65,6 @@
 - **May 26, 05:55 PM** - Senate sets up early June vote on Isaacman nomination to lead NASA (spacenews)
 - **May 26, 07:23 PM** - What Sonic Detectives Listen for When Rockets Launch (nyt)
 - **May 26, 09:15 PM** - What Sonic Detectives Listen for When Rockets Launch (nyt)
-- **May 26, 09:43 PM** - Dawn Aerospace begins sales of Aurora suborbital spaceplane (spacenews)
 - **May 26, 11:11 PM** - There’s Probably No Life on K2-18b After All, Three Studies Conclude (nyt)
 - **May 26, 11:39 PM** - Sonic Detectives Want to Help SpaceX Listen Up (nyt)
 - **May 26, 11:53 PM** - Space sponsorship: the next frontier for revenue generation (spacenews)
@@ -164,7 +161,6 @@
 - **May 29, 11:05 AM** - Manhattanhenge Is Back for 2025: When, Where and How to Watch (nyt)
 - **May 29, 11:19 AM** - Overcoming conservatism in the autonomous space revolution (spacenews)
 - **May 29, 12:03 PM** - SpaceX to Launch Starship Flight 9: Watch Live Video (nyt)
-- **May 29, 12:18 PM** - Dawn Aerospace begins sales of Aurora suborbital spaceplane (spacenews)
 - **May 29, 12:47 PM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
 - **May 29, 01:02 PM** - Maxar Intelligence taps tech veteran to lead commercial business (spacenews)
 - **May 29, 01:17 PM** - SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth (nyt)
@@ -188,7 +184,6 @@
 - **May 29, 07:23 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **May 29, 07:37 PM** - What Sonic Detectives Listen for When Rockets Launch (nyt)
 - **May 29, 07:51 PM** - Scientists Say They’ve Found a Dwarf Planet Very Far From the Sun (nyt)
-- **May 29, 08:05 PM** - Dawn Aerospace begins sales of Aurora suborbital spaceplane (spacenews)
 - **May 29, 08:33 PM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
 - **May 29, 08:47 PM** - SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth (nyt)
 - **May 29, 09:01 PM** - China launches classified Shijan-26 satellite with Long March 4B rocket (spacenews)
