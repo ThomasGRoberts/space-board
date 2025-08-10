@@ -5,7 +5,7 @@
 | nyt | 0 | 1 | 18 | 43 |
 | breaking_defense | 0 | 0 | 17 | 41 |
 | spacenews | 0 | 0 | 18 | 42 |
-| supercluster | 1 | 1 | 20 | 20 |
+| supercluster | 1 | 1 | 21 | 21 |
 
 # Shown Order
 
@@ -5333,3 +5333,4 @@
 - **Aug 10, 10:21 PM** - Army crafting a new space policy, moving out on counterspace (breaking_defense)
 - **Aug 10, 10:35 PM** - Astronaut James Lovell, Commander of Apollo 13, Dies at 97 (nyt)
 - **Aug 10, 10:49 PM** - NASA selects shuttle orbiter to move to Houston (spacenews)
+- **Aug 10, 11:03 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
