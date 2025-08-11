@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 78 | 78 |
+| supercluster | 1 | 1 | 79 | 79 |
 | nyt | 0 | 1 | 18 | 43 |
-| breaking_defense | 0 | 0 | 17 | 42 |
+| breaking_defense | 0 | 0 | 17 | 41 |
 | spacenews | 0 | 0 | 18 | 42 |
 
 # Shown Order
@@ -5415,3 +5415,4 @@
 - **Aug 11, 06:23 AM** - Rocket Lab launches iQPS radar imaging satellite (spacenews)
 - **Aug 11, 06:37 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 11, 06:39 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 11, 06:41 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
