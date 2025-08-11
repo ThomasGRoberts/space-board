@@ -5,7 +5,7 @@
 | nyt | 0 | 0 | 18 | 42 |
 | breaking_defense | 0 | 0 | 19 | 42 |
 | spacenews | 0 | 0 | 18 | 42 |
-| supercluster | 1 | 1 | 7 | 7 |
+| supercluster | 1 | 1 | 8 | 8 |
 
 # Shown Order
 
@@ -5366,3 +5366,4 @@
 - **Aug 11, 02:05 PM** - Military leaders say integrated space power crucial for national defense (spacenews)
 - **Aug 11, 02:19 PM** - Space Force to launch ‘actual’ GMTI sats ‘in the next year’: General (breaking_defense)
 - **Aug 11, 02:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 11, 02:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
