@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 111 | 111 |
+| supercluster | 1 | 1 | 112 | 112 |
 | nyt | 0 | 0 | 18 | 42 |
 | breaking_defense | 0 | 0 | 17 | 42 |
 | spacenews | 0 | 0 | 18 | 43 |
@@ -5463,3 +5463,4 @@
 - **Aug 11, 10:37 AM** - Space Force launching sats to ‘enable’ GMTI ahead of mission-dedicated birds in 2028 (breaking_defense)
 - **Aug 11, 10:51 AM** - James A. Lovell Jr., Commander of Apollo 13, Is Dead at 97 (nyt)
 - **Aug 11, 11:05 AM** - Eutelsat’s bright LEO outlook clouded by GEO decline (spacenews)
+- **Aug 11, 11:19 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
