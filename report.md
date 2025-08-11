@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 99 | 99 |
+| supercluster | 1 | 1 | 100 | 100 |
 | nyt | 0 | 0 | 18 | 42 |
 | breaking_defense | 0 | 0 | 17 | 42 |
-| spacenews | 0 | 0 | 18 | 43 |
+| spacenews | 0 | 0 | 18 | 42 |
 
 # Shown Order
 
@@ -5445,3 +5445,4 @@
 - **Aug 11, 09:13 AM** - Military leaders say integrated space power crucial for national defense (spacenews)
 - **Aug 11, 09:27 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 11, 09:29 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 11, 09:31 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
