@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 0 | 22 | 42 |
-| breaking_defense | 0 | 0 | 22 | 42 |
+| breaking_defense | 0 | 0 | 23 | 43 |
 | spacenews | 0 | 0 | 22 | 42 |
 | supercluster | 1 | 1 | 34 | 34 |
 
@@ -5404,3 +5404,4 @@
 - **Aug 11, 05:38 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 11, 05:39 PM** - How to Watch the Perseids, the Strongest Meteor Shower of the Summer (nyt)
 - **Aug 11, 05:53 PM** - What’s required to advance DoD enterprise SATCOM (spacenews)
+- **Aug 11, 06:09 PM** - Space Force to launch ‘actual’ GMTI sats ‘in the next year’: General (breaking_defense)
