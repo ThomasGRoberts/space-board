@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 0 | 18 | 42 |
 | breaking_defense | 0 | 0 | 18 | 42 |
-| spacenews | 0 | 0 | 17 | 42 |
+| spacenews | 0 | 0 | 18 | 43 |
 | supercluster | 1 | 1 | 6 | 6 |
 
 # Shown Order
@@ -5363,3 +5363,4 @@
 - **Aug 11, 01:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 11, 01:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 11, 01:49 PM** - James A. Lovell Jr., Commander of Apollo 13, Is Dead at 97 (nyt)
+- **Aug 11, 02:05 PM** - Military leaders say integrated space power crucial for national defense (spacenews)
