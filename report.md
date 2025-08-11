@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 0 | 19 | 41 |
+| nyt | 0 | 0 | 20 | 42 |
 | breaking_defense | 0 | 0 | 20 | 42 |
 | spacenews | 0 | 0 | 19 | 42 |
 | supercluster | 1 | 1 | 20 | 20 |
@@ -5382,3 +5382,4 @@
 - **Aug 11, 03:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 11, 03:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 11, 03:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 11, 03:45 PM** - Possible Planet Spotted Around Alpha Centauri A by NASA’s James Webb Telescope (nyt)
