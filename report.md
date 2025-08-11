@@ -5,7 +5,7 @@
 | nyt | 0 | 0 | 23 | 42 |
 | breaking_defense | 0 | 0 | 24 | 42 |
 | spacenews | 0 | 0 | 23 | 42 |
-| supercluster | 1 | 1 | 41 | 41 |
+| supercluster | 1 | 1 | 42 | 42 |
 
 # Shown Order
 
@@ -5415,3 +5415,4 @@
 - **Aug 11, 06:39 PM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
 - **Aug 11, 06:53 PM** - Interlune to fly instrument on Astrolab’s FLIP rover (spacenews)
 - **Aug 11, 07:07 PM** - At missile defense conference, the first rule of Golden Dome is don’t talk about Golden Dome (breaking_defense)
+- **Aug 11, 07:21 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
