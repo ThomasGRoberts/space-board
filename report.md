@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 0 | 23 | 42 |
 | breaking_defense | 0 | 0 | 23 | 42 |
-| spacenews | 0 | 0 | 22 | 42 |
+| spacenews | 0 | 0 | 23 | 43 |
 | supercluster | 1 | 1 | 41 | 41 |
 
 # Shown Order
@@ -5413,3 +5413,4 @@
 - **Aug 11, 06:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 11, 06:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 11, 06:39 PM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
+- **Aug 11, 06:53 PM** - Interlune to fly instrument on Astrolab’s FLIP rover (spacenews)
