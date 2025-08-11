@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 25 | 42 |
 | breaking_defense | 0 | 0 | 24 | 42 |
 | spacenews | 0 | 0 | 24 | 42 |
-| supercluster | 1 | 1 | 48 | 48 |
+| supercluster | 1 | 1 | 49 | 49 |
 
 # Shown Order
 
@@ -5426,3 +5426,4 @@
 - **Aug 11, 07:51 PM** - Eoptic and Starris establish strategic partnership to develop multispectral satellite imaging payloads (spacenews)
 - **Aug 11, 08:05 PM** - Space Rock That Punched Through Roof Almost Struck Resident (nyt)
 - **Aug 11, 08:19 PM** - Space Force to launch ‘actual’ GMTI sats ‘in the next year’: General (breaking_defense)
+- **Aug 11, 08:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
