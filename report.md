@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 0 | 21 | 42 |
 | breaking_defense | 0 | 0 | 21 | 42 |
-| spacenews | 0 | 0 | 20 | 42 |
+| spacenews | 0 | 0 | 21 | 43 |
 | supercluster | 1 | 1 | 27 | 27 |
 
 # Shown Order
@@ -5393,3 +5393,4 @@
 - **Aug 11, 04:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 11, 04:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 11, 04:42 PM** - Possible Planet Spotted Around Alpha Centauri A by NASA’s James Webb Telescope (nyt)
+- **Aug 11, 04:55 PM** - Golden Dome requires non-traditional thinking and an agile approach (spacenews)
