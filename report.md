@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 104 | 104 |
 | nyt | 0 | 0 | 18 | 43 |
 | breaking_defense | 0 | 0 | 18 | 42 |
-| spacenews | 0 | 0 | 17 | 42 |
+| spacenews | 0 | 0 | 18 | 43 |
 
 # Shown Order
 
@@ -5452,3 +5452,4 @@
 - **Aug 11, 09:39 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 11, 09:41 AM** - At missile defense conference, the first rule of Golden Dome is don’t talk about Golden Dome (breaking_defense)
 - **Aug 11, 09:55 AM** - Possible Planet Spotted Around Alpha Centauri A by NASA’s James Webb Telescope (nyt)
+- **Aug 11, 10:09 AM** - Humans to Mars or humans exploring Mars? (spacenews)
