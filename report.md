@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 41 | 41 |
 | nyt | 0 | 1 | 18 | 43 |
 | breaking_defense | 0 | 0 | 18 | 42 |
-| spacenews | 0 | 0 | 17 | 42 |
+| spacenews | 0 | 0 | 18 | 42 |
 
 # Shown Order
 
@@ -5362,3 +5362,4 @@
 - **Aug 11, 01:07 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 11, 01:09 AM** - At missile defense conference, the first rule of Golden Dome is don’t talk about Golden Dome (breaking_defense)
 - **Aug 11, 01:23 AM** - How to Watch the Perseids, the Strongest Meteor Shower of the Summer (nyt)
+- **Aug 11, 01:37 AM** - From boots to orbits: Army develops space skills amid growing battlefield reliance on satellites (spacenews)
