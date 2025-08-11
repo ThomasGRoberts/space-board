@@ -5,7 +5,7 @@
 | nyt | 0 | 0 | 20 | 42 |
 | breaking_defense | 0 | 0 | 21 | 42 |
 | spacenews | 0 | 0 | 20 | 42 |
-| supercluster | 1 | 1 | 20 | 20 |
+| supercluster | 1 | 1 | 21 | 21 |
 
 # Shown Order
 
@@ -5385,3 +5385,4 @@
 - **Aug 11, 03:45 PM** - Possible Planet Spotted Around Alpha Centauri A by NASA’s James Webb Telescope (nyt)
 - **Aug 11, 03:59 PM** - NASA writes off Lunar Trailblazer mission (spacenews)
 - **Aug 11, 04:13 PM** - Space Force launching sats to ‘enable’ GMTI ahead of mission-dedicated birds in 2028 (breaking_defense)
+- **Aug 11, 04:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
