@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-11T00:01:48.906842+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f8a09df109e742c7314b43291cb17219",
+    "trigger_count": 0,
+    "current_item_id": "aff3401dfd11fbc6b2f37056accb402f",
     "data": [
         {
             "id": "f150c97a6f9e6c48486e8ecac2271e8c",
@@ -10919,6 +10919,18 @@
                 "2025-08-11T19:29:31.421045Z",
                 "2025-08-11T19:31:25.165597Z",
                 "2025-08-11T19:33:41.351069Z"
+            ]
+        },
+        {
+            "id": "aff3401dfd11fbc6b2f37056accb402f",
+            "source": "nyt",
+            "text": "Space Rock That Punched Through Roof Almost Struck Resident",
+            "source_link": "https://www.nytimes.com/2025/08/11/science/meteor-georgia-older-than-earth.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-11T20:05:45.967093Z",
+            "shown_at": [
+                "2025-08-11T20:05:46.596923Z"
             ]
         }
     ]
