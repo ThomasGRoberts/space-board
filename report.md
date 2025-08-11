@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 106 | 106 |
+| supercluster | 1 | 1 | 107 | 107 |
 | nyt | 0 | 0 | 18 | 42 |
 | breaking_defense | 0 | 0 | 17 | 42 |
-| spacenews | 0 | 0 | 18 | 43 |
+| spacenews | 0 | 0 | 18 | 42 |
 
 # Shown Order
 
@@ -5455,3 +5455,4 @@
 - **Aug 11, 10:09 AM** - Humans to Mars or humans exploring Mars? (spacenews)
 - **Aug 11, 10:23 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 11, 10:25 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 11, 10:27 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
