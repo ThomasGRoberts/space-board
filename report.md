@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 24 | 42 |
+| nyt | 1 | 1 | 25 | 43 |
 | breaking_defense | 0 | 0 | 24 | 42 |
 | spacenews | 0 | 0 | 24 | 42 |
 | supercluster | 1 | 1 | 55 | 55 |
@@ -5434,3 +5434,4 @@
 - **Aug 11, 08:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 11, 08:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 11, 08:47 PM** - Golden Dome requires non-traditional thinking and an agile approach (spacenews)
+- **Aug 11, 09:02 PM** - James A. Lovell Jr., Commander of Apollo 13, Is Dead at 97 (nyt)
