@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-11T00:01:48.906842+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a4d44b46b30d79039fa3091ad7a560e1",
+    "trigger_count": 0,
+    "current_item_id": "b4fa5167b536af8b3aa9516a9232b0aa",
     "data": [
         {
             "id": "f150c97a6f9e6c48486e8ecac2271e8c",
@@ -10838,6 +10838,20 @@
                 "2025-05-29T17:21:44.413603Z",
                 "2025-05-29T23:55:29.096362Z",
                 "2025-05-30T07:32:12.256834Z"
+            ]
+        },
+        {
+            "id": "b4fa5167b536af8b3aa9516a9232b0aa",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Project Kuiper Internet Satellites for Amazon",
+            "source_link": "https://www.supercluster.com/launches/project-kuiper-kf-02",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-08-11T12:35:00.000Z",
+            "time_remaining": "",
+            "fetched_datetime": "2025-08-11T12:45:28.722802Z",
+            "shown_at": [
+                "2025-08-11T12:45:29.239279Z"
             ]
         }
     ]
