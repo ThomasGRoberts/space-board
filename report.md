@@ -5,7 +5,7 @@
 | nyt | 0 | 0 | 19 | 42 |
 | breaking_defense | 0 | 0 | 20 | 42 |
 | spacenews | 0 | 0 | 19 | 42 |
-| supercluster | 1 | 1 | 15 | 15 |
+| supercluster | 1 | 1 | 16 | 16 |
 
 # Shown Order
 
@@ -5377,3 +5377,4 @@
 - **Aug 11, 03:17 PM** - Space Force launching sats to ‘enable’ GMTI ahead of mission-dedicated birds in 2028 (breaking_defense)
 - **Aug 11, 03:31 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 11, 03:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 11, 03:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
