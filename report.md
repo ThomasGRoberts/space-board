@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 0 | 21 | 42 |
-| breaking_defense | 0 | 0 | 21 | 42 |
+| breaking_defense | 0 | 0 | 22 | 43 |
 | spacenews | 0 | 0 | 21 | 42 |
 | supercluster | 1 | 1 | 27 | 27 |
 
@@ -5394,3 +5394,4 @@
 - **Aug 11, 04:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 11, 04:42 PM** - Possible Planet Spotted Around Alpha Centauri A by NASA’s James Webb Telescope (nyt)
 - **Aug 11, 04:55 PM** - Golden Dome requires non-traditional thinking and an agile approach (spacenews)
+- **Aug 11, 05:11 PM** - Army crafting a new space policy, moving out on counterspace (breaking_defense)
