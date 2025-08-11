@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 25 | 43 |
-| breaking_defense | 0 | 0 | 24 | 41 |
+| breaking_defense | 0 | 0 | 25 | 42 |
 | spacenews | 0 | 0 | 24 | 42 |
 | supercluster | 1 | 1 | 48 | 48 |
 
@@ -5425,3 +5425,4 @@
 - **Aug 11, 07:35 PM** - James A. Lovell Jr., Commander of Apollo 13, Is Dead at 97 (nyt)
 - **Aug 11, 07:51 PM** - Eoptic and Starris establish strategic partnership to develop multispectral satellite imaging payloads (spacenews)
 - **Aug 11, 08:05 PM** - Space Rock That Punched Through Roof Almost Struck Resident (nyt)
+- **Aug 11, 08:19 PM** - Space Force to launch ‘actual’ GMTI sats ‘in the next year’: General (breaking_defense)
