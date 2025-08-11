@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 118 | 118 |
+| supercluster | 1 | 1 | 119 | 119 |
 | nyt | 0 | 0 | 18 | 42 |
 | breaking_defense | 0 | 0 | 17 | 42 |
 | spacenews | 0 | 0 | 18 | 43 |
@@ -5473,3 +5473,4 @@
 - **Aug 11, 11:33 AM** - At missile defense conference, the first rule of Golden Dome is don’t talk about Golden Dome (breaking_defense)
 - **Aug 11, 11:47 AM** - How to Watch the Perseids, the Strongest Meteor Shower of the Summer (nyt)
 - **Aug 11, 12:02 PM** - Space Command chief calls for orbital gas stations as China tests satellite refueling (spacenews)
+- **Aug 11, 12:17 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
