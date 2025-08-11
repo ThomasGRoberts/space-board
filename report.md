@@ -5,7 +5,7 @@
 | nyt | 0 | 0 | 22 | 42 |
 | breaking_defense | 0 | 0 | 23 | 42 |
 | spacenews | 0 | 0 | 22 | 42 |
-| supercluster | 1 | 1 | 36 | 36 |
+| supercluster | 1 | 1 | 37 | 37 |
 
 # Shown Order
 
@@ -5407,3 +5407,4 @@
 - **Aug 11, 06:09 PM** - Space Force to launch ‘actual’ GMTI sats ‘in the next year’: General (breaking_defense)
 - **Aug 11, 06:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 11, 06:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 11, 06:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
