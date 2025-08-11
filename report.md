@@ -5,7 +5,7 @@
 | nyt | 0 | 0 | 23 | 42 |
 | breaking_defense | 0 | 0 | 24 | 42 |
 | spacenews | 0 | 0 | 23 | 42 |
-| supercluster | 1 | 1 | 43 | 43 |
+| supercluster | 1 | 1 | 44 | 44 |
 
 # Shown Order
 
@@ -5417,3 +5417,4 @@
 - **Aug 11, 07:07 PM** - At missile defense conference, the first rule of Golden Dome is don’t talk about Golden Dome (breaking_defense)
 - **Aug 11, 07:21 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 11, 07:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 11, 07:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
