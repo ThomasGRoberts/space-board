@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 69 | 69 |
-| nyt | 0 | 1 | 17 | 42 |
+| nyt | 0 | 1 | 18 | 43 |
 | breaking_defense | 0 | 0 | 18 | 42 |
 | spacenews | 0 | 0 | 18 | 42 |
 
@@ -5401,3 +5401,4 @@
 - **Aug 11, 04:55 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 11, 04:57 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 11, 04:59 AM** - With Intelsat buy, SES targets European defense market (breaking_defense)
+- **Aug 11, 05:13 AM** - How to Watch the Perseids, the Strongest Meteor Shower of the Summer (nyt)
