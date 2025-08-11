@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 90 | 90 |
 | nyt | 0 | 1 | 18 | 43 |
-| breaking_defense | 0 | 0 | 17 | 41 |
+| breaking_defense | 0 | 0 | 18 | 42 |
 | spacenews | 0 | 0 | 18 | 42 |
 
 # Shown Order
@@ -5430,3 +5430,4 @@
 - **Aug 11, 07:41 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 11, 07:43 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 11, 07:45 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 11, 07:47 AM** - How industry is lining up for big Golden Dome business (breaking_defense)
