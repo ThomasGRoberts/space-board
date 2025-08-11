@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 25 | 43 |
-| breaking_defense | 0 | 0 | 24 | 41 |
+| breaking_defense | 0 | 0 | 25 | 42 |
 | spacenews | 0 | 0 | 24 | 42 |
 | supercluster | 1 | 1 | 69 | 69 |
 
@@ -5455,3 +5455,4 @@
 - **Aug 11, 10:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 11, 10:39 PM** - NASA’s proposed budget eyes human exploration of Mars (spacenews)
 - **Aug 11, 10:53 PM** - Astronaut James Lovell, Commander of Apollo 13, Dies at 97 (nyt)
+- **Aug 11, 11:07 PM** - SPACECOM chief doubles down on need for on-orbit mobility (breaking_defense)
