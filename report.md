@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 69 | 69 |
 | nyt | 0 | 1 | 18 | 43 |
 | breaking_defense | 0 | 0 | 18 | 42 |
-| spacenews | 0 | 0 | 17 | 42 |
+| spacenews | 0 | 0 | 18 | 42 |
 
 # Shown Order
 
@@ -5402,3 +5402,4 @@
 - **Aug 11, 04:57 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 11, 04:59 AM** - With Intelsat buy, SES targets European defense market (breaking_defense)
 - **Aug 11, 05:13 AM** - How to Watch the Perseids, the Strongest Meteor Shower of the Summer (nyt)
+- **Aug 11, 05:27 AM** - Lockheed Martin targets 2028 demo of space-based missile interceptors (spacenews)
