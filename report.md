@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 97 | 97 |
 | nyt | 0 | 1 | 18 | 43 |
 | breaking_defense | 0 | 0 | 18 | 42 |
-| spacenews | 0 | 0 | 17 | 42 |
+| spacenews | 0 | 0 | 18 | 43 |
 
 # Shown Order
 
@@ -5442,3 +5442,4 @@
 - **Aug 11, 08:41 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 11, 08:43 AM** - Army crafting a new space policy, moving out on counterspace (breaking_defense)
 - **Aug 11, 08:57 AM** - Astronaut James Lovell, Commander of Apollo 13, Dies at 97 (nyt)
+- **Aug 11, 09:13 AM** - Military leaders say integrated space power crucial for national defense (spacenews)
