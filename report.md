@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 92 | 92 |
+| supercluster | 1 | 1 | 93 | 93 |
 | nyt | 0 | 1 | 18 | 43 |
-| breaking_defense | 0 | 0 | 17 | 42 |
+| breaking_defense | 0 | 0 | 17 | 41 |
 | spacenews | 0 | 0 | 18 | 42 |
 
 # Shown Order
@@ -5435,3 +5435,4 @@
 - **Aug 11, 08:15 AM** - Lockheed Martin targets 2028 demo of space-based missile interceptors (spacenews)
 - **Aug 11, 08:29 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Aug 11, 08:31 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Aug 11, 08:33 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
