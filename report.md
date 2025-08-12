@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 26 | 47 |
+| nyt | 1 | 1 | 25 | 47 |
 | breaking_defense | 2 | 2 | 26 | 48 |
 | spacenews | 0 | 0 | 25 | 46 |
-| supercluster | 1 | 1 | 121 | 121 |
+| supercluster | 1 | 1 | 122 | 122 |
 
 # Shown Order
 
@@ -5541,3 +5541,4 @@
 - **Aug 12, 05:23 PM** - How to Watch the Perseids, the Strongest Meteor Shower of the Summer (nyt)
 - **Aug 12, 05:37 PM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 05:39 PM** - ULA Will Launch Classified Mission for Space Force (supercluster)
+- **Aug 12, 05:41 PM** - ULA Will Launch Classified Mission for Space Force (supercluster)
