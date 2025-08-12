@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 25 | 43 |
 | breaking_defense | 0 | 0 | 24 | 42 |
 | spacenews | 0 | 0 | 24 | 42 |
-| supercluster | 1 | 1 | 63 | 63 |
+| supercluster | 1 | 1 | 64 | 64 |
 
 # Shown Order
 
@@ -5458,3 +5458,4 @@
 - **Aug 12, 08:59 AM** - Northrop says investments position company for Golden Dome missile defense demand (spacenews)
 - **Aug 12, 09:15 AM** - How to Watch the Perseids, the Strongest Meteor Shower of the Summer (nyt)
 - **Aug 12, 09:29 AM** - How industry is lining up for big Golden Dome business (breaking_defense)
+- **Aug 12, 09:43 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
