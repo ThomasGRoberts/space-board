@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 25 | 43 |
+| nyt | 1 | 1 | 26 | 44 |
 | breaking_defense | 0 | 0 | 25 | 43 |
 | spacenews | 0 | 0 | 26 | 43 |
 | supercluster | 1 | 1 | 98 | 98 |
@@ -5506,3 +5506,4 @@
 - **Aug 12, 01:43 PM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 01:45 PM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 01:47 PM** - From boots to orbits: Army develops space skills amid growing battlefield reliance on satellites (spacenews)
+- **Aug 12, 02:02 PM** - James A. Lovell Jr., Commander of Apollo 13, Is Dead at 97 (nyt)
