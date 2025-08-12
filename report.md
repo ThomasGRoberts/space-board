@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 24 | 42 |
 | supercluster | 2 | 2 | 90 | 90 |
 | breaking_defense | 0 | 0 | 24 | 42 |
-| spacenews | 0 | 0 | 24 | 42 |
+| spacenews | 0 | 0 | 25 | 43 |
 
 # Shown Order
 
@@ -5458,3 +5458,4 @@
 - **Aug 12, 01:21 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 12, 01:23 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 12, 01:25 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 12, 01:27 AM** - Space Command chief calls for orbital gas stations as China tests satellite refueling (spacenews)
