@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-12T00:01:55.050635+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1dca2cc4328aee2aa3c40773308c19fe",
+    "trigger_count": 0,
+    "current_item_id": "fda1cdc976700b7c7f547af46ef3f3c7",
     "data": [
         {
             "id": "aff3401dfd11fbc6b2f37056accb402f",
@@ -11042,6 +11042,18 @@
             "fetched_datetime": "2025-08-12T16:25:46.103163Z",
             "shown_at": [
                 "2025-08-12T16:25:47.125673Z"
+            ]
+        },
+        {
+            "id": "fda1cdc976700b7c7f547af46ef3f3c7",
+            "source": "breaking_defense",
+            "text": "Rocket Lab buys GEOST, further expanding defense footprint",
+            "source_link": "https://breakingdefense.com/2025/08/rocket-lab-buys-geost-further-expanding-defense-footprint/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-12T16:53:47.487660Z",
+            "shown_at": [
+                "2025-08-12T16:53:48.482971Z"
             ]
         }
     ]
