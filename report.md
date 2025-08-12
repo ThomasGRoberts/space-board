@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 25 | 42 |
 | breaking_defense | 0 | 0 | 24 | 42 |
-| spacenews | 0 | 0 | 24 | 42 |
+| spacenews | 0 | 0 | 25 | 43 |
 | supercluster | 1 | 1 | 14 | 14 |
 
 # Shown Order
@@ -5385,3 +5385,4 @@
 - **Aug 12, 02:17 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 02:19 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 02:21 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
+- **Aug 12, 02:23 AM** - Golden Dome requires non-traditional thinking and an agile approach (spacenews)
