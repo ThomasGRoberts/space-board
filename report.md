@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 24 | 42 |
 | breaking_defense | 0 | 0 | 24 | 42 |
-| spacenews | 0 | 0 | 24 | 42 |
+| spacenews | 0 | 0 | 25 | 43 |
 | supercluster | 1 | 1 | 77 | 77 |
 
 # Shown Order
@@ -5475,3 +5475,4 @@
 - **Aug 12, 10:49 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 10:51 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 10:53 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
+- **Aug 12, 10:55 AM** - Northrop says investments position company for Golden Dome missile defense demand (spacenews)
