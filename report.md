@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 25 | 43 |
 | breaking_defense | 0 | 0 | 24 | 42 |
 | spacenews | 0 | 0 | 24 | 42 |
-| supercluster | 1 | 1 | 23 | 23 |
+| supercluster | 1 | 1 | 24 | 24 |
 
 # Shown Order
 
@@ -5400,3 +5400,4 @@
 - **Aug 12, 03:47 AM** - SPACECOM chief doubles down on need for on-orbit mobility (breaking_defense)
 - **Aug 12, 04:02 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 04:05 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
+- **Aug 12, 04:07 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
