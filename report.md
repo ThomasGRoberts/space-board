@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 25 | 48 |
-| breaking_defense | 2 | 2 | 26 | 49 |
+| breaking_defense | 2 | 2 | 27 | 50 |
 | spacenews | 0 | 0 | 25 | 47 |
 | supercluster | 1 | 1 | 133 | 133 |
 
@@ -5556,3 +5556,4 @@
 - **Aug 12, 06:41 PM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 06:43 PM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 06:45 PM** - ULA Will Launch Classified Mission for Space Force (supercluster)
+- **Aug 12, 06:47 PM** - Rocket Lab buys GEOST, further expanding defense footprint (breaking_defense)
