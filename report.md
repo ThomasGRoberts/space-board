@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 25 | 43 |
 | supercluster | 2 | 2 | 90 | 90 |
-| breaking_defense | 0 | 0 | 24 | 41 |
+| breaking_defense | 0 | 0 | 25 | 42 |
 | spacenews | 0 | 0 | 24 | 42 |
 
 # Shown Order
@@ -5460,3 +5460,4 @@
 - **Aug 12, 01:25 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 12, 01:27 AM** - Space Command chief calls for orbital gas stations as China tests satellite refueling (spacenews)
 - **Aug 12, 01:41 AM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
+- **Aug 12, 01:55 AM** - With Intelsat buy, SES targets European defense market (breaking_defense)
