@@ -5,7 +5,7 @@
 | nyt | 0 | 1 | 25 | 50 |
 | breaking_defense | 2 | 2 | 26 | 50 |
 | spacenews | 0 | 0 | 25 | 49 |
-| supercluster | 1 | 1 | 149 | 149 |
+| supercluster | 1 | 1 | 150 | 150 |
 
 # Shown Order
 
@@ -5581,3 +5581,4 @@
 - **Aug 12, 09:11 PM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
 - **Aug 12, 09:25 PM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 09:27 PM** - ULA Will Launch Classified Mission for Space Force (supercluster)
+- **Aug 12, 09:29 PM** - ULA Will Launch Classified Mission for Space Force (supercluster)
