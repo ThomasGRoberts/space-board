@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 25 | 49 |
 | breaking_defense | 2 | 2 | 27 | 51 |
-| spacenews | 0 | 0 | 24 | 49 |
+| spacenews | 0 | 0 | 25 | 49 |
 | supercluster | 1 | 1 | 147 | 147 |
 
 # Shown Order
@@ -5577,3 +5577,4 @@
 - **Aug 12, 08:39 PM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 08:41 PM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 08:43 PM** - How industry is lining up for big Golden Dome business (breaking_defense)
+- **Aug 12, 08:57 PM** - NASA selects shuttle orbiter to move to Houston (spacenews)
