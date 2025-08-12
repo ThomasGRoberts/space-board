@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 25 | 43 |
 | breaking_defense | 0 | 0 | 24 | 42 |
 | spacenews | 0 | 0 | 24 | 42 |
-| supercluster | 1 | 1 | 36 | 36 |
+| supercluster | 1 | 1 | 37 | 37 |
 
 # Shown Order
 
@@ -5419,3 +5419,4 @@
 - **Aug 12, 05:27 AM** - Astronaut James Lovell, Commander of Apollo 13, Dies at 97 (nyt)
 - **Aug 12, 05:41 AM** - At missile defense conference, the first rule of Golden Dome is don’t talk about Golden Dome (breaking_defense)
 - **Aug 12, 05:56 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
+- **Aug 12, 05:57 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
