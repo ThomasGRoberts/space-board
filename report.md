@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 24 | 42 |
+| nyt | 1 | 1 | 25 | 43 |
 | breaking_defense | 0 | 0 | 24 | 42 |
-| spacenews | 0 | 0 | 25 | 42 |
+| spacenews | 0 | 0 | 24 | 42 |
 | supercluster | 1 | 1 | 63 | 63 |
 
 # Shown Order
@@ -5456,3 +5456,4 @@
 - **Aug 12, 08:53 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 08:57 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 08:59 AM** - Northrop says investments position company for Golden Dome missile defense demand (spacenews)
+- **Aug 12, 09:15 AM** - How to Watch the Perseids, the Strongest Meteor Shower of the Summer (nyt)
