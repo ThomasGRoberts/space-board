@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 25 | 42 |
 | breaking_defense | 0 | 0 | 24 | 42 |
-| spacenews | 0 | 0 | 24 | 42 |
+| spacenews | 0 | 0 | 25 | 43 |
 | supercluster | 1 | 1 | 56 | 56 |
 
 # Shown Order
@@ -5445,3 +5445,4 @@
 - **Aug 12, 07:55 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 07:57 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 07:59 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
+- **Aug 12, 08:01 AM** - NASA’s proposed budget eyes human exploration of Mars (spacenews)
