@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 25 | 43 |
-| breaking_defense | 0 | 0 | 24 | 41 |
+| breaking_defense | 0 | 0 | 25 | 42 |
 | spacenews | 0 | 0 | 24 | 42 |
 | supercluster | 1 | 1 | 84 | 84 |
 
@@ -5487,3 +5487,4 @@
 - **Aug 12, 11:49 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 11:51 AM** - Space Command chief calls for orbital gas stations as China tests satellite refueling (spacenews)
 - **Aug 12, 12:07 PM** - Astronaut James Lovell, Commander of Apollo 13, Dies at 97 (nyt)
+- **Aug 12, 12:21 PM** - How industry is lining up for big Golden Dome business (breaking_defense)
