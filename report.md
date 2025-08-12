@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 25 | 49 |
 | breaking_defense | 2 | 2 | 27 | 51 |
-| spacenews | 0 | 0 | 24 | 49 |
+| spacenews | 0 | 0 | 25 | 49 |
 | supercluster | 1 | 1 | 154 | 154 |
 
 # Shown Order
@@ -5587,3 +5587,4 @@
 - **Aug 12, 09:35 PM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 09:37 PM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 09:39 PM** - At missile defense conference, the first rule of Golden Dome is don’t talk about Golden Dome (breaking_defense)
+- **Aug 12, 09:53 PM** - Space Command chief calls for orbital gas stations as China tests satellite refueling (spacenews)
