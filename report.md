@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 25 | 43 |
-| breaking_defense | 0 | 0 | 24 | 41 |
+| breaking_defense | 0 | 0 | 25 | 42 |
 | spacenews | 0 | 0 | 24 | 42 |
 | supercluster | 1 | 1 | 14 | 14 |
 
@@ -5387,3 +5387,4 @@
 - **Aug 12, 02:21 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 02:23 AM** - Golden Dome requires non-traditional thinking and an agile approach (spacenews)
 - **Aug 12, 02:38 AM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
+- **Aug 12, 02:51 AM** - SPACECOM chief doubles down on need for on-orbit mobility (breaking_defense)
