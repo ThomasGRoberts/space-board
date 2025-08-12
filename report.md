@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 25 | 43 |
-| breaking_defense | 0 | 0 | 24 | 41 |
+| breaking_defense | 0 | 0 | 25 | 42 |
 | spacenews | 0 | 0 | 24 | 42 |
 | supercluster | 1 | 1 | 56 | 56 |
 
@@ -5447,3 +5447,4 @@
 - **Aug 12, 07:59 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 08:01 AM** - NASA’s proposed budget eyes human exploration of Mars (spacenews)
 - **Aug 12, 08:15 AM** - James A. Lovell Jr., Commander of Apollo 13, Is Dead at 97 (nyt)
+- **Aug 12, 08:29 AM** - SPACECOM chief doubles down on need for on-orbit mobility (breaking_defense)
