@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 25 | 43 |
 | breaking_defense | 0 | 0 | 24 | 42 |
 | spacenews | 0 | 0 | 24 | 42 |
-| supercluster | 1 | 1 | 30 | 30 |
+| supercluster | 1 | 1 | 31 | 31 |
 
 # Shown Order
 
@@ -5410,3 +5410,4 @@
 - **Aug 12, 04:45 AM** - With Intelsat buy, SES targets European defense market (breaking_defense)
 - **Aug 12, 04:59 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 05:01 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
+- **Aug 12, 05:03 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
