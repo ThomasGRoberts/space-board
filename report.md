@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 26 | 45 |
 | breaking_defense | 0 | 0 | 25 | 45 |
 | spacenews | 0 | 0 | 25 | 44 |
-| supercluster | 1 | 1 | 106 | 106 |
+| supercluster | 1 | 1 | 107 | 107 |
 
 # Shown Order
 
@@ -5519,3 +5519,4 @@
 - **Aug 12, 02:59 PM** - Astronaut James Lovell, Commander of Apollo 13, Dies at 97 (nyt)
 - **Aug 12, 03:13 PM** - Army’s laser weapons ‘pretty mature,’ could ‘contribute’ to next-gen missile defense (breaking_defense)
 - **Aug 12, 03:27 PM** - ULA Will Launch Classified Mission for Space Force (supercluster)
+- **Aug 12, 03:29 PM** - ULA Will Launch Classified Mission for Space Force (supercluster)
