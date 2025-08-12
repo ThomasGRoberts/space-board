@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 25 | 43 |
 | breaking_defense | 0 | 0 | 24 | 42 |
 | spacenews | 0 | 0 | 24 | 42 |
-| supercluster | 1 | 1 | 70 | 70 |
+| supercluster | 1 | 1 | 71 | 71 |
 
 # Shown Order
 
@@ -5468,3 +5468,4 @@
 - **Aug 12, 09:57 AM** - Rocket Lab launches iQPS radar imaging satellite (spacenews)
 - **Aug 12, 10:13 AM** - Possible Planet Spotted Around Alpha Centauri A by NASA’s James Webb Telescope (nyt)
 - **Aug 12, 10:27 AM** - With Intelsat buy, SES targets European defense market (breaking_defense)
+- **Aug 12, 10:41 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
