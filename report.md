@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 26 | 46 |
-| breaking_defense | 0 | 0 | 25 | 45 |
+| breaking_defense | 0 | 0 | 26 | 46 |
 | spacenews | 0 | 0 | 25 | 45 |
 | supercluster | 1 | 1 | 112 | 112 |
 
@@ -5527,3 +5527,4 @@
 - **Aug 12, 03:39 PM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 03:42 PM** - NASA’s proposed budget eyes human exploration of Mars (spacenews)
 - **Aug 12, 03:55 PM** - Space Rock That Punched Through Roof Almost Struck Resident (nyt)
+- **Aug 12, 04:11 PM** - How industry is lining up for big Golden Dome business (breaking_defense)
