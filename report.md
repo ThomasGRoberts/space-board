@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 25 | 44 |
+| nyt | 1 | 1 | 26 | 45 |
 | breaking_defense | 0 | 0 | 25 | 44 |
 | spacenews | 0 | 0 | 26 | 44 |
 | supercluster | 1 | 1 | 105 | 105 |
@@ -5516,3 +5516,4 @@
 - **Aug 12, 02:40 PM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 02:43 PM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 02:45 PM** - Eutelsat’s bright LEO outlook clouded by GEO decline (spacenews)
+- **Aug 12, 02:59 PM** - Astronaut James Lovell, Commander of Apollo 13, Dies at 97 (nyt)
