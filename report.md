@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 25 | 50 |
-| breaking_defense | 2 | 2 | 26 | 51 |
+| breaking_defense | 2 | 2 | 26 | 50 |
 | spacenews | 0 | 0 | 25 | 49 |
-| supercluster | 1 | 1 | 141 | 141 |
+| supercluster | 1 | 1 | 142 | 142 |
 
 # Shown Order
 
@@ -5570,3 +5570,4 @@
 - **Aug 12, 07:59 PM** - NASA revises plans for commercial space station development (spacenews)
 - **Aug 12, 08:13 PM** - Astronaut James Lovell, Commander of Apollo 13, Dies at 97 (nyt)
 - **Aug 12, 08:28 PM** - ULA Will Launch Classified Mission for Space Force (supercluster)
+- **Aug 12, 08:31 PM** - ULA Will Launch Classified Mission for Space Force (supercluster)
