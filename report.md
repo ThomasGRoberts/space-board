@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 26 | 43 |
 | breaking_defense | 0 | 0 | 25 | 43 |
-| spacenews | 0 | 0 | 25 | 42 |
+| spacenews | 0 | 0 | 26 | 43 |
 | supercluster | 1 | 1 | 98 | 98 |
 
 # Shown Order
@@ -5505,3 +5505,4 @@
 - **Aug 12, 01:41 PM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 01:43 PM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 01:45 PM** - ULA Will Launch Classified Mission for Space Force (supercluster)
+- **Aug 12, 01:47 PM** - From boots to orbits: Army develops space skills amid growing battlefield reliance on satellites (spacenews)
