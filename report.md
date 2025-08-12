@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 25 | 43 |
 | breaking_defense | 0 | 0 | 24 | 42 |
 | spacenews | 0 | 0 | 24 | 42 |
-| supercluster | 1 | 1 | 64 | 64 |
+| supercluster | 1 | 1 | 65 | 65 |
 
 # Shown Order
 
@@ -5459,3 +5459,4 @@
 - **Aug 12, 09:15 AM** - How to Watch the Perseids, the Strongest Meteor Shower of the Summer (nyt)
 - **Aug 12, 09:29 AM** - How industry is lining up for big Golden Dome business (breaking_defense)
 - **Aug 12, 09:43 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
+- **Aug 12, 09:45 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
