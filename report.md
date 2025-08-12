@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 25 | 43 |
 | breaking_defense | 0 | 0 | 24 | 42 |
 | spacenews | 0 | 0 | 24 | 42 |
-| supercluster | 1 | 1 | 84 | 84 |
+| supercluster | 1 | 1 | 85 | 85 |
 
 # Shown Order
 
@@ -5488,3 +5488,4 @@
 - **Aug 12, 11:51 AM** - Space Command chief calls for orbital gas stations as China tests satellite refueling (spacenews)
 - **Aug 12, 12:07 PM** - Astronaut James Lovell, Commander of Apollo 13, Dies at 97 (nyt)
 - **Aug 12, 12:21 PM** - How industry is lining up for big Golden Dome business (breaking_defense)
+- **Aug 12, 12:35 PM** - ULA Will Launch Classified Mission for Space Force (supercluster)
