@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 25 | 50 |
-| breaking_defense | 2 | 2 | 26 | 51 |
+| breaking_defense | 2 | 2 | 26 | 50 |
 | spacenews | 0 | 0 | 25 | 49 |
-| supercluster | 1 | 1 | 148 | 148 |
+| supercluster | 1 | 1 | 149 | 149 |
 
 # Shown Order
 
@@ -5580,3 +5580,4 @@
 - **Aug 12, 08:57 PM** - NASA selects shuttle orbiter to move to Houston (spacenews)
 - **Aug 12, 09:11 PM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
 - **Aug 12, 09:25 PM** - ULA Will Launch Classified Mission for Space Force (supercluster)
+- **Aug 12, 09:27 PM** - ULA Will Launch Classified Mission for Space Force (supercluster)
