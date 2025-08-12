@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 26 | 49 |
 | breaking_defense | 2 | 2 | 26 | 50 |
 | spacenews | 0 | 0 | 25 | 48 |
-| supercluster | 1 | 1 | 133 | 133 |
+| supercluster | 1 | 1 | 134 | 134 |
 
 # Shown Order
 
@@ -5559,3 +5559,4 @@
 - **Aug 12, 06:47 PM** - Rocket Lab buys GEOST, further expanding defense footprint (breaking_defense)
 - **Aug 12, 07:01 PM** - Voyager Technologies emphasizes missile defense and Starlab as key growth drivers (spacenews)
 - **Aug 12, 07:15 PM** - James A. Lovell Jr., Commander of Apollo 13, Is Dead at 97 (nyt)
+- **Aug 12, 07:29 PM** - ULA Will Launch Classified Mission for Space Force (supercluster)
