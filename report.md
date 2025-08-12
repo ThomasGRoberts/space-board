@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 25 | 48 |
 | breaking_defense | 2 | 2 | 27 | 50 |
-| spacenews | 0 | 0 | 24 | 47 |
+| spacenews | 0 | 0 | 25 | 48 |
 | supercluster | 1 | 1 | 133 | 133 |
 
 # Shown Order
@@ -5557,3 +5557,4 @@
 - **Aug 12, 06:43 PM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 06:45 PM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 06:47 PM** - Rocket Lab buys GEOST, further expanding defense footprint (breaking_defense)
+- **Aug 12, 07:01 PM** - Voyager Technologies emphasizes missile defense and Starlab as key growth drivers (spacenews)
