@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 1 | 25 | 50 |
-| breaking_defense | 2 | 2 | 26 | 50 |
+| nyt | 0 | 1 | 25 | 49 |
+| breaking_defense | 2 | 2 | 27 | 51 |
 | spacenews | 0 | 0 | 25 | 49 |
 | supercluster | 2 | 2 | 168 | 168 |
 
@@ -5606,3 +5606,4 @@
 - **Aug 12, 11:13 PM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 11:15 PM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 11:17 PM** - Space Rock That Punched Through Roof Almost Struck Resident (nyt)
+- **Aug 12, 11:31 PM** - At missile defense conference, the first rule of Golden Dome is don’t talk about Golden Dome (breaking_defense)
