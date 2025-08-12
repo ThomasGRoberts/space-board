@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 25 | 42 |
 | breaking_defense | 0 | 0 | 24 | 42 |
-| spacenews | 0 | 0 | 24 | 42 |
+| spacenews | 0 | 0 | 25 | 43 |
 | supercluster | 1 | 1 | 28 | 28 |
 
 # Shown Order
@@ -5405,3 +5405,4 @@
 - **Aug 12, 04:11 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 04:13 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 04:15 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
+- **Aug 12, 04:17 AM** - Eutelsat’s bright LEO outlook clouded by GEO decline (spacenews)
