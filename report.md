@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 24 | 42 |
+| nyt | 1 | 1 | 25 | 43 |
 | supercluster | 2 | 2 | 90 | 90 |
 | breaking_defense | 0 | 0 | 24 | 42 |
 | spacenews | 0 | 0 | 24 | 42 |
@@ -5459,3 +5459,4 @@
 - **Aug 12, 01:23 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 12, 01:25 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 12, 01:27 AM** - Space Command chief calls for orbital gas stations as China tests satellite refueling (spacenews)
+- **Aug 12, 01:41 AM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
