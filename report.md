@@ -5,7 +5,7 @@
 | nyt | 0 | 1 | 25 | 50 |
 | breaking_defense | 2 | 2 | 26 | 51 |
 | spacenews | 0 | 0 | 25 | 49 |
-| supercluster | 1 | 1 | 147 | 147 |
+| supercluster | 1 | 1 | 148 | 148 |
 
 # Shown Order
 
@@ -5579,3 +5579,4 @@
 - **Aug 12, 08:43 PM** - How industry is lining up for big Golden Dome business (breaking_defense)
 - **Aug 12, 08:57 PM** - NASA selects shuttle orbiter to move to Houston (spacenews)
 - **Aug 12, 09:11 PM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
+- **Aug 12, 09:25 PM** - ULA Will Launch Classified Mission for Space Force (supercluster)
