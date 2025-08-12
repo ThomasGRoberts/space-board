@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 25 | 43 |
 | breaking_defense | 0 | 0 | 24 | 42 |
 | spacenews | 0 | 0 | 24 | 42 |
-| supercluster | 1 | 1 | 78 | 78 |
+| supercluster | 1 | 1 | 79 | 79 |
 
 # Shown Order
 
@@ -5479,3 +5479,4 @@
 - **Aug 12, 11:09 AM** - James A. Lovell Jr., Commander of Apollo 13, Is Dead at 97 (nyt)
 - **Aug 12, 11:23 AM** - How industry is lining up for big Golden Dome business (breaking_defense)
 - **Aug 12, 11:37 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
+- **Aug 12, 11:39 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
