@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 26 | 48 |
 | breaking_defense | 2 | 2 | 26 | 49 |
 | spacenews | 0 | 0 | 25 | 47 |
-| supercluster | 1 | 1 | 127 | 127 |
+| supercluster | 1 | 1 | 128 | 128 |
 
 # Shown Order
 
@@ -5550,3 +5550,4 @@
 - **Aug 12, 06:05 PM** - From boots to orbits: Army develops space skills amid growing battlefield reliance on satellites (spacenews)
 - **Aug 12, 06:19 PM** - Possible Planet Spotted Around Alpha Centauri A by NASA’s James Webb Telescope (nyt)
 - **Aug 12, 06:33 PM** - ULA Will Launch Classified Mission for Space Force (supercluster)
+- **Aug 12, 06:35 PM** - ULA Will Launch Classified Mission for Space Force (supercluster)
