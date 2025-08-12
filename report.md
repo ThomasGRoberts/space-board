@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 25 | 42 |
+| nyt | 1 | 1 | 24 | 42 |
 | breaking_defense | 0 | 0 | 24 | 42 |
-| spacenews | 0 | 0 | 24 | 42 |
+| spacenews | 0 | 0 | 25 | 43 |
 | supercluster | 1 | 1 | 70 | 70 |
 
 # Shown Order
@@ -5465,3 +5465,4 @@
 - **Aug 12, 09:52 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 09:53 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 09:55 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
+- **Aug 12, 09:57 AM** - Rocket Lab launches iQPS radar imaging satellite (spacenews)
