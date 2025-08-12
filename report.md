@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 24 | 49 |
-| breaking_defense | 2 | 2 | 27 | 51 |
+| breaking_defense | 2 | 2 | 26 | 51 |
 | spacenews | 0 | 0 | 25 | 49 |
-| supercluster | 2 | 2 | 157 | 157 |
+| supercluster | 2 | 2 | 158 | 158 |
 
 # Shown Order
 
@@ -5591,3 +5591,4 @@
 - **Aug 12, 10:07 PM** - Arianespace Will Launch a European Weather Satellite (supercluster)
 - **Aug 12, 10:09 PM** - Arianespace Will Launch a European Weather Satellite (supercluster)
 - **Aug 12, 10:11 PM** - Arianespace Will Launch a European Weather Satellite (supercluster)
+- **Aug 12, 10:13 PM** - Arianespace Will Launch a European Weather Satellite (supercluster)
