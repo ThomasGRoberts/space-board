@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 25 | 43 |
 | supercluster | 1 | 1 | 76 | 76 |
-| breaking_defense | 0 | 0 | 24 | 41 |
+| breaking_defense | 0 | 0 | 25 | 42 |
 | spacenews | 0 | 0 | 24 | 42 |
 
 # Shown Order
@@ -5440,3 +5440,4 @@
 - **Aug 11, 11:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 11, 11:35 PM** - Lockheed Martin targets 2028 demo of space-based missile interceptors (spacenews)
 - **Aug 11, 11:49 PM** - Astronaut James Lovell, Commander of Apollo 13, Dies at 97 (nyt)
+- **Aug 12, 12:03 AM** - At missile defense conference, the first rule of Golden Dome is don’t talk about Golden Dome (breaking_defense)
