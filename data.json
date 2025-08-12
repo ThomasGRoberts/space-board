@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-12T00:01:55.050635+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c6818f8f5800f92cf9f56f0c36e7539a",
+    "trigger_count": 0,
+    "current_item_id": "1dca2cc4328aee2aa3c40773308c19fe",
     "data": [
         {
             "id": "aff3401dfd11fbc6b2f37056accb402f",
@@ -10936,6 +10936,20 @@
                 "2025-05-26T07:27:42.320775Z",
                 "2025-05-26T17:55:46.583638Z",
                 "2025-05-30T07:17:46.556005Z"
+            ]
+        },
+        {
+            "id": "1dca2cc4328aee2aa3c40773308c19fe",
+            "source": "supercluster",
+            "text": "ULA Will Launch Classified Mission for Space Force",
+            "source_link": "https://www.supercluster.com/launches/ussf-106",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-08-12T23:59:00.000Z",
+            "time_remaining": "0d 23h 41m",
+            "fetched_datetime": "2025-08-12T00:17:46.002207Z",
+            "shown_at": [
+                "2025-08-12T00:17:46.895477Z"
             ]
         }
     ]
