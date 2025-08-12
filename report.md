@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 26 | 43 |
 | breaking_defense | 0 | 0 | 25 | 43 |
 | spacenews | 0 | 0 | 25 | 42 |
-| supercluster | 1 | 1 | 93 | 93 |
+| supercluster | 1 | 1 | 94 | 94 |
 
 # Shown Order
 
@@ -5500,3 +5500,4 @@
 - **Aug 12, 01:19 PM** - Army’s laser weapons ‘pretty mature,’ could ‘contribute’ to next-gen missile defense (breaking_defense)
 - **Aug 12, 01:33 PM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 01:35 PM** - ULA Will Launch Classified Mission for Space Force (supercluster)
+- **Aug 12, 01:37 PM** - ULA Will Launch Classified Mission for Space Force (supercluster)
