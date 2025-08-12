@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 25 | 43 |
-| breaking_defense | 0 | 0 | 25 | 42 |
+| breaking_defense | 0 | 0 | 24 | 42 |
 | spacenews | 0 | 0 | 24 | 42 |
-| supercluster | 1 | 1 | 8 | 8 |
+| supercluster | 1 | 1 | 9 | 9 |
 
 # Shown Order
 
@@ -5379,3 +5379,4 @@
 - **Aug 12, 01:41 AM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
 - **Aug 12, 01:55 AM** - With Intelsat buy, SES targets European defense market (breaking_defense)
 - **Aug 12, 02:09 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
+- **Aug 12, 02:11 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
