@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 24 | 42 |
+| nyt | 1 | 1 | 25 | 43 |
 | breaking_defense | 0 | 0 | 24 | 42 |
 | spacenews | 0 | 0 | 24 | 42 |
 | supercluster | 1 | 1 | 77 | 77 |
@@ -5476,3 +5476,4 @@
 - **Aug 12, 10:51 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 10:53 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 10:55 AM** - Northrop says investments position company for Golden Dome missile defense demand (spacenews)
+- **Aug 12, 11:09 AM** - James A. Lovell Jr., Commander of Apollo 13, Is Dead at 97 (nyt)
