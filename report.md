@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 26 | 49 |
+| nyt | 1 | 1 | 25 | 49 |
 | breaking_defense | 2 | 2 | 26 | 50 |
 | spacenews | 0 | 0 | 25 | 48 |
-| supercluster | 1 | 1 | 135 | 135 |
+| supercluster | 1 | 1 | 136 | 136 |
 
 # Shown Order
 
@@ -5561,3 +5561,4 @@
 - **Aug 12, 07:15 PM** - James A. Lovell Jr., Commander of Apollo 13, Is Dead at 97 (nyt)
 - **Aug 12, 07:29 PM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 07:32 PM** - ULA Will Launch Classified Mission for Space Force (supercluster)
+- **Aug 12, 07:35 PM** - ULA Will Launch Classified Mission for Space Force (supercluster)
