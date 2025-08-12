@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 25 | 42 |
 | breaking_defense | 0 | 0 | 24 | 42 |
-| spacenews | 0 | 0 | 24 | 42 |
+| spacenews | 0 | 0 | 25 | 43 |
 | supercluster | 1 | 1 | 49 | 49 |
 
 # Shown Order
@@ -5435,3 +5435,4 @@
 - **Aug 12, 06:59 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 07:01 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 07:03 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
+- **Aug 12, 07:05 AM** - What’s required to advance DoD enterprise SATCOM (spacenews)
