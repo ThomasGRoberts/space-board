@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 24 | 42 |
 | breaking_defense | 0 | 0 | 24 | 42 |
-| spacenews | 0 | 0 | 24 | 42 |
+| spacenews | 0 | 0 | 25 | 43 |
 | supercluster | 1 | 1 | 84 | 84 |
 
 # Shown Order
@@ -5485,3 +5485,4 @@
 - **Aug 12, 11:45 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 11:47 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 11:49 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
+- **Aug 12, 11:51 AM** - Space Command chief calls for orbital gas stations as China tests satellite refueling (spacenews)
