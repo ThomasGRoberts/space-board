@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 25 | 46 |
+| nyt | 1 | 1 | 26 | 47 |
 | breaking_defense | 2 | 2 | 26 | 48 |
 | spacenews | 0 | 0 | 25 | 46 |
 | supercluster | 1 | 1 | 119 | 119 |
@@ -5538,3 +5538,4 @@
 - **Aug 12, 04:51 PM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 04:53 PM** - Rocket Lab buys GEOST, further expanding defense footprint (breaking_defense)
 - **Aug 12, 05:09 PM** - Space Command chief calls for orbital gas stations as China tests satellite refueling (spacenews)
+- **Aug 12, 05:23 PM** - How to Watch the Perseids, the Strongest Meteor Shower of the Summer (nyt)
