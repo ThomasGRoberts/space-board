@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 25 | 43 |
-| breaking_defense | 0 | 0 | 24 | 41 |
+| breaking_defense | 0 | 0 | 25 | 42 |
 | spacenews | 0 | 0 | 24 | 42 |
 | supercluster | 1 | 1 | 28 | 28 |
 
@@ -5407,3 +5407,4 @@
 - **Aug 12, 04:15 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 04:17 AM** - Eutelsat’s bright LEO outlook clouded by GEO decline (spacenews)
 - **Aug 12, 04:31 AM** - Possible Planet Spotted Around Alpha Centauri A by NASA’s James Webb Telescope (nyt)
+- **Aug 12, 04:45 AM** - With Intelsat buy, SES targets European defense market (breaking_defense)
