@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 24 | 42 |
 | supercluster | 2 | 2 | 83 | 83 |
 | breaking_defense | 0 | 0 | 24 | 42 |
-| spacenews | 0 | 0 | 24 | 42 |
+| spacenews | 0 | 0 | 25 | 43 |
 
 # Shown Order
 
@@ -5448,3 +5448,4 @@
 - **Aug 12, 12:25 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 12:27 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 12:29 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
+- **Aug 12, 12:31 AM** - Voyager Technologies emphasizes missile defense and Starlab as key growth drivers (spacenews)
