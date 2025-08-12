@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 25 | 43 |
 | breaking_defense | 0 | 0 | 25 | 42 |
 | spacenews | 0 | 0 | 24 | 42 |
-| supercluster | 1 | 1 | 49 | 49 |
+| supercluster | 1 | 1 | 50 | 50 |
 
 # Shown Order
 
@@ -5438,3 +5438,4 @@
 - **Aug 12, 07:05 AM** - What’s required to advance DoD enterprise SATCOM (spacenews)
 - **Aug 12, 07:20 AM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
 - **Aug 12, 07:33 AM** - With Intelsat buy, SES targets European defense market (breaking_defense)
+- **Aug 12, 07:47 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
