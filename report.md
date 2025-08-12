@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 25 | 49 |
 | breaking_defense | 2 | 2 | 27 | 51 |
-| spacenews | 0 | 0 | 24 | 49 |
+| spacenews | 0 | 0 | 25 | 49 |
 | supercluster | 2 | 2 | 161 | 161 |
 
 # Shown Order
@@ -5597,3 +5597,4 @@
 - **Aug 12, 10:19 PM** - Arianespace Will Launch a European Weather Satellite (supercluster)
 - **Aug 12, 10:22 PM** - Possible Planet Spotted Around Alpha Centauri A by NASA’s James Webb Telescope (nyt)
 - **Aug 12, 10:35 PM** - Army’s laser weapons ‘pretty mature,’ could ‘contribute’ to next-gen missile defense (breaking_defense)
+- **Aug 12, 10:49 PM** - Northrop says investments position company for Golden Dome missile defense demand (spacenews)
