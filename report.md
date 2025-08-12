@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 1 | 24 | 49 |
-| breaking_defense | 2 | 2 | 26 | 51 |
+| nyt | 0 | 1 | 25 | 50 |
+| breaking_defense | 2 | 2 | 26 | 50 |
 | spacenews | 0 | 0 | 25 | 49 |
 | supercluster | 2 | 2 | 161 | 161 |
 
@@ -5595,3 +5595,4 @@
 - **Aug 12, 10:15 PM** - Arianespace Will Launch a European Weather Satellite (supercluster)
 - **Aug 12, 10:17 PM** - Arianespace Will Launch a European Weather Satellite (supercluster)
 - **Aug 12, 10:19 PM** - Arianespace Will Launch a European Weather Satellite (supercluster)
+- **Aug 12, 10:22 PM** - Possible Planet Spotted Around Alpha Centauri A by NASA’s James Webb Telescope (nyt)
