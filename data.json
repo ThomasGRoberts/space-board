@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-12T00:01:55.050635+00:00",
-    "trigger_count": 6,
-    "current_item_id": "163aa1a17e2a944b7fea7dbeaec5c6ea",
+    "trigger_count": 0,
+    "current_item_id": "71c1f630820b537fc09a8e8db9376c3d",
     "data": [
         {
             "id": "aff3401dfd11fbc6b2f37056accb402f",
@@ -11023,6 +11023,18 @@
                 "2025-08-12T15:35:35.639649Z",
                 "2025-08-12T15:37:48.872290Z",
                 "2025-08-12T15:39:30.261550Z"
+            ]
+        },
+        {
+            "id": "71c1f630820b537fc09a8e8db9376c3d",
+            "source": "breaking_defense",
+            "text": "Vulcan’s first Space Force launch to carry long-delayed experimental PNT satellite",
+            "source_link": "https://breakingdefense.com/2025/08/vulcans-first-space-force-launch-to-carry-long-delayed-experimental-pnt-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-12T16:25:46.103163Z",
+            "shown_at": [
+                "2025-08-12T16:25:47.125673Z"
             ]
         }
     ]
