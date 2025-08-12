@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 25 | 43 |
 | breaking_defense | 0 | 0 | 24 | 42 |
 | spacenews | 0 | 0 | 24 | 42 |
-| supercluster | 1 | 1 | 44 | 44 |
+| supercluster | 1 | 1 | 45 | 45 |
 
 # Shown Order
 
@@ -5430,3 +5430,4 @@
 - **Aug 12, 06:37 AM** - How industry is lining up for big Golden Dome business (breaking_defense)
 - **Aug 12, 06:51 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 06:53 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
+- **Aug 12, 06:55 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
