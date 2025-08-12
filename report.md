@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 25 | 42 |
+| nyt | 1 | 1 | 26 | 43 |
 | breaking_defense | 0 | 0 | 24 | 42 |
 | spacenews | 0 | 0 | 25 | 42 |
 | supercluster | 1 | 1 | 91 | 91 |
@@ -5496,3 +5496,4 @@
 - **Aug 12, 12:45 PM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 12:47 PM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 12:49 PM** - Interlune to fly instrument on Astrolab’s FLIP rover (spacenews)
+- **Aug 12, 01:05 PM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
