@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 25 | 42 |
-| supercluster | 2 | 2 | 82 | 82 |
+| nyt | 1 | 1 | 24 | 42 |
+| supercluster | 2 | 2 | 83 | 83 |
 | breaking_defense | 0 | 0 | 24 | 42 |
 | spacenews | 0 | 0 | 24 | 42 |
 
@@ -5447,3 +5447,4 @@
 - **Aug 12, 12:23 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 12:25 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 12:27 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
+- **Aug 12, 12:29 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
