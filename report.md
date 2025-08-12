@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 25 | 43 |
 | breaking_defense | 0 | 0 | 24 | 42 |
 | spacenews | 0 | 0 | 24 | 42 |
-| supercluster | 1 | 1 | 37 | 37 |
+| supercluster | 1 | 1 | 38 | 38 |
 
 # Shown Order
 
@@ -5420,3 +5420,4 @@
 - **Aug 12, 05:41 AM** - At missile defense conference, the first rule of Golden Dome is don’t talk about Golden Dome (breaking_defense)
 - **Aug 12, 05:56 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 05:57 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
+- **Aug 12, 05:59 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
