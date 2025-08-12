@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 25 | 43 |
-| breaking_defense | 0 | 0 | 24 | 41 |
+| breaking_defense | 0 | 0 | 25 | 42 |
 | spacenews | 0 | 0 | 24 | 42 |
 | supercluster | 1 | 1 | 21 | 21 |
 
@@ -5397,3 +5397,4 @@
 - **Aug 12, 03:17 AM** - ULA Will Launch Classified Mission for Space Force (supercluster)
 - **Aug 12, 03:19 AM** - Voyager Technologies emphasizes missile defense and Starlab as key growth drivers (spacenews)
 - **Aug 12, 03:33 AM** - Space Rock That Punched Through Roof Almost Struck Resident (nyt)
+- **Aug 12, 03:47 AM** - SPACECOM chief doubles down on need for on-orbit mobility (breaking_defense)
