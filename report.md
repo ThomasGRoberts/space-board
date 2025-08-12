@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 26 | 46 |
 | breaking_defense | 1 | 1 | 26 | 47 |
 | spacenews | 0 | 0 | 25 | 45 |
-| supercluster | 1 | 1 | 112 | 112 |
+| supercluster | 1 | 1 | 113 | 113 |
 
 # Shown Order
 
@@ -5529,3 +5529,4 @@
 - **Aug 12, 03:55 PM** - Space Rock That Punched Through Roof Almost Struck Resident (nyt)
 - **Aug 12, 04:11 PM** - How industry is lining up for big Golden Dome business (breaking_defense)
 - **Aug 12, 04:25 PM** - Vulcan’s first Space Force launch to carry long-delayed experimental PNT satellite (breaking_defense)
+- **Aug 12, 04:39 PM** - ULA Will Launch Classified Mission for Space Force (supercluster)
