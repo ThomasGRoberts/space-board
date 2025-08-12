@@ -5,7 +5,7 @@
 | nyt | 0 | 1 | 25 | 50 |
 | breaking_defense | 2 | 2 | 26 | 51 |
 | spacenews | 0 | 0 | 25 | 49 |
-| supercluster | 1 | 1 | 140 | 140 |
+| supercluster | 1 | 1 | 141 | 141 |
 
 # Shown Order
 
@@ -5569,3 +5569,4 @@
 - **Aug 12, 07:45 PM** - Rocket Lab buys GEOST, further expanding defense footprint (breaking_defense)
 - **Aug 12, 07:59 PM** - NASA revises plans for commercial space station development (spacenews)
 - **Aug 12, 08:13 PM** - Astronaut James Lovell, Commander of Apollo 13, Dies at 97 (nyt)
+- **Aug 12, 08:28 PM** - ULA Will Launch Classified Mission for Space Force (supercluster)
