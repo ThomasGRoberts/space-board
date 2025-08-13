@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 3 | 24 | 50 |
 | nyt | 0 | 1 | 23 | 49 |
 | spacenews | 0 | 0 | 23 | 48 |
-| supercluster | 1 | 1 | 111 | 111 |
+| supercluster | 1 | 1 | 112 | 112 |
 
 # Shown Order
 
@@ -5591,3 +5591,4 @@
 - **Aug 13, 04:37 PM** - Voyager Technologies emphasizes missile defense and Starlab as key growth drivers (spacenews)
 - **Aug 13, 04:53 PM** - At missile defense conference, the first rule of Golden Dome is don’t talk about Golden Dome (breaking_defense)
 - **Aug 13, 05:12 PM** - How to Watch the Perseids, the Strongest Meteor Shower of the Summer (nyt)
+- **Aug 13, 05:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
