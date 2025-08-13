@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 25 | 50 |
 | nyt | 0 | 1 | 23 | 48 |
-| spacenews | 0 | 0 | 23 | 47 |
+| spacenews | 0 | 0 | 24 | 48 |
 | supercluster | 1 | 1 | 13 | 13 |
 
 # Shown Order
@@ -5448,3 +5448,4 @@
 - **Aug 13, 02:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 13, 03:02 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 13, 03:03 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 13, 03:05 AM** - NASA’s proposed budget eyes human exploration of Mars (spacenews)
