@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 3 | 25 | 52 |
+| breaking_defense | 1 | 3 | 25 | 51 |
 | nyt | 0 | 0 | 24 | 49 |
 | spacenews | 0 | 0 | 20 | 45 |
-| supercluster | 1 | 1 | 139 | 139 |
+| supercluster | 1 | 1 | 140 | 140 |
 
 # Shown Order
 
@@ -5627,3 +5627,4 @@
 - **Aug 13, 07:49 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 13, 07:51 PM** - Vulcan’s first Space Force launch to carry long-delayed experimental PNT satellite (breaking_defense)
 - **Aug 13, 08:05 PM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
+- **Aug 13, 08:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
