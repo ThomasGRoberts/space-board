@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 3 | 25 | 51 |
 | nyt | 0 | 1 | 24 | 49 |
 | spacenews | 0 | 0 | 21 | 46 |
-| supercluster | 1 | 1 | 132 | 132 |
+| supercluster | 1 | 1 | 133 | 133 |
 
 # Shown Order
 
@@ -5618,3 +5618,4 @@
 - **Aug 13, 07:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 13, 07:09 PM** - Army’s laser weapons ‘pretty mature,’ could ‘contribute’ to next-gen missile defense (breaking_defense)
 - **Aug 13, 07:23 PM** - How to Watch the Perseids, the Strongest Meteor Shower of the Summer (nyt)
+- **Aug 13, 07:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
