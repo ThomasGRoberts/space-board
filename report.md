@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 2 | 26 | 50 |
+| breaking_defense | 2 | 2 | 25 | 50 |
 | nyt | 0 | 1 | 23 | 48 |
 | spacenews | 0 | 0 | 23 | 47 |
-| supercluster | 1 | 1 | 13 | 13 |
+| supercluster | 1 | 1 | 14 | 14 |
 
 # Shown Order
 
@@ -5451,3 +5451,4 @@
 - **Aug 13, 03:05 AM** - NASA’s proposed budget eyes human exploration of Mars (spacenews)
 - **Aug 13, 03:21 AM** - How to Watch the Perseids, the Strongest Meteor Shower of the Summer (nyt)
 - **Aug 13, 03:35 AM** - At missile defense conference, the first rule of Golden Dome is don’t talk about Golden Dome (breaking_defense)
+- **Aug 13, 03:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
