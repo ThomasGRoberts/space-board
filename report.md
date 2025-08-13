@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 25 | 49 |
 | nyt | 0 | 1 | 23 | 48 |
-| spacenews | 0 | 0 | 23 | 47 |
+| spacenews | 0 | 0 | 24 | 48 |
 | supercluster | 1 | 1 | 62 | 62 |
 
 # Shown Order
@@ -5518,3 +5518,4 @@
 - **Aug 13, 09:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 13, 09:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 13, 09:52 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 13, 09:55 AM** - What’s required to advance DoD enterprise SATCOM (spacenews)
