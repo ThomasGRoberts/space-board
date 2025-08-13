@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-13T00:01:54.544447+00:00",
-    "trigger_count": 0,
-    "current_item_id": "1dca2cc4328aee2aa3c40773308c19fe",
+    "trigger_count": 1,
+    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
     "data": [
         {
             "id": "fda1cdc976700b7c7f547af46ef3f3c7",
@@ -10917,17 +10917,17 @@
             ]
         },
         {
-            "id": "1dca2cc4328aee2aa3c40773308c19fe",
+            "id": "4beba9b243fe616fcb8e7be8d963bbc1",
             "source": "supercluster",
-            "text": "ULA Will Launch Classified Mission for Space Force",
-            "source_link": "https://www.supercluster.com/launches/ussf-106",
+            "text": "SpaceX Will Launch Starlink Satellites from California",
+            "source_link": "https://www.supercluster.com/launches/starlink-17-4",
             "shown": true,
             "type": "launch",
-            "target_datetime": "2025-08-13T00:56:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-08-13T01:55:33.275178Z",
+            "target_datetime": "2025-08-14T02:05:00.000Z",
+            "time_remaining": "1d 00h 07m",
+            "fetched_datetime": "2025-08-13T01:57:59.533299Z",
             "shown_at": [
-                "2025-08-13T01:55:34.553905Z"
+                "2025-08-13T01:58:00.506796Z"
             ]
         }
     ]
