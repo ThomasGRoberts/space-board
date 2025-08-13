@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 3 | 24 | 51 |
-| nyt | 0 | 1 | 23 | 48 |
-| spacenews | 0 | 0 | 24 | 48 |
+| breaking_defense | 1 | 3 | 24 | 50 |
+| nyt | 0 | 1 | 24 | 49 |
+| spacenews | 0 | 0 | 23 | 48 |
 | supercluster | 1 | 1 | 111 | 111 |
 
 # Shown Order
@@ -5590,3 +5590,4 @@
 - **Aug 13, 04:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 13, 04:37 PM** - Voyager Technologies emphasizes missile defense and Starlab as key growth drivers (spacenews)
 - **Aug 13, 04:53 PM** - At missile defense conference, the first rule of Golden Dome is don’t talk about Golden Dome (breaking_defense)
+- **Aug 13, 05:12 PM** - How to Watch the Perseids, the Strongest Meteor Shower of the Summer (nyt)
