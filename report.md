@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 2 | 25 | 49 |
+| breaking_defense | 2 | 2 | 25 | 50 |
 | nyt | 0 | 1 | 23 | 48 |
 | spacenews | 0 | 0 | 23 | 47 |
 | supercluster | 1 | 1 | 69 | 69 |
@@ -5530,3 +5530,4 @@
 - **Aug 13, 10:51 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 13, 10:53 AM** - NASA selects shuttle orbiter to move to Houston (spacenews)
 - **Aug 13, 11:09 AM** - How to Watch the Perseids, the Strongest Meteor Shower of the Summer (nyt)
+- **Aug 13, 11:24 AM** - How industry is lining up for big Golden Dome business (breaking_defense)
