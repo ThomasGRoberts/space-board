@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 2 | 25 | 49 |
 | nyt | 0 | 1 | 23 | 48 |
 | spacenews | 0 | 0 | 23 | 47 |
-| supercluster | 1 | 1 | 64 | 64 |
+| supercluster | 1 | 1 | 65 | 65 |
 
 # Shown Order
 
@@ -5523,3 +5523,4 @@
 - **Aug 13, 10:25 AM** - Army’s laser weapons ‘pretty mature,’ could ‘contribute’ to next-gen missile defense (breaking_defense)
 - **Aug 13, 10:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 13, 10:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 13, 10:43 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
