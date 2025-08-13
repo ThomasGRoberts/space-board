@@ -2,17 +2,14 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 1 | 24 | 49 |
+| supercluster | 1 | 1 | 9 | 9 |
 | breaking_defense | 2 | 2 | 27 | 51 |
+| nyt | 0 | 1 | 24 | 49 |
 | spacenews | 0 | 0 | 25 | 49 |
-| supercluster | 1 | 1 | 8 | 8 |
 
 # Shown Order
 
-- **May 23, 11:57 AM** - Senate sets up early June vote on Isaacman nomination to lead NASA (spacenews)
-- **May 23, 01:02 PM** - Senate sets up early June vote on Isaacman nomination to lead NASA (spacenews)
 - **May 23, 01:33 PM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
-- **May 23, 01:47 PM** - Space sponsorship: the next frontier for revenue generation (spacenews)
 - **May 23, 03:43 PM** - NGA hopes to award up to 10 Luno commercial analytics task orders this year (breaking_defense)
 - **May 23, 05:23 PM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
 - **May 23, 06:23 PM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
@@ -33,13 +30,11 @@
 - **May 25, 08:51 PM** - SpaceX blames Starship Flight 8 mishap on engine hardware failure (spacenews)
 - **May 25, 09:05 PM** - NGA hopes to award up to 10 Luno commercial analytics task orders this year (breaking_defense)
 - **May 25, 09:33 PM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
-- **May 25, 09:47 PM** - Space sponsorship: the next frontier for revenue generation (spacenews)
 - **May 25, 11:27 PM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
 - **May 26, 02:21 AM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
 - **May 26, 03:17 AM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
 - **May 26, 04:17 AM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
 - **May 26, 05:13 AM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
-- **May 26, 07:27 AM** - Senate sets up early June vote on Isaacman nomination to lead NASA (spacenews)
 - **May 26, 09:09 AM** - What Sonic Detectives Listen for When Rockets Launch (nyt)
 - **May 26, 10:49 AM** - NGA hopes to award up to 10 Luno commercial analytics task orders this year (breaking_defense)
 - **May 26, 11:19 AM** - Chinese commercial company lands contract to build provincial satellite constellation (spacenews)
@@ -48,11 +43,9 @@
 - **May 26, 01:35 PM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
 - **May 26, 02:07 PM** - SpaceX blames Starship Flight 8 mishap on engine hardware failure (spacenews)
 - **May 26, 02:35 PM** - What Sonic Detectives Listen for When Rockets Launch (nyt)
-- **May 26, 05:55 PM** - Senate sets up early June vote on Isaacman nomination to lead NASA (spacenews)
 - **May 26, 07:23 PM** - What Sonic Detectives Listen for When Rockets Launch (nyt)
 - **May 26, 09:15 PM** - What Sonic Detectives Listen for When Rockets Launch (nyt)
 - **May 26, 11:39 PM** - Sonic Detectives Want to Help SpaceX Listen Up (nyt)
-- **May 26, 11:53 PM** - Space sponsorship: the next frontier for revenue generation (spacenews)
 - **May 27, 12:37 AM** - Sonic Detectives Want to Help SpaceX Listen Up (nyt)
 - **May 27, 01:56 AM** - What Sonic Detectives Listen for When Rockets Launch (nyt)
 - **May 27, 03:03 AM** - What Sonic Detectives Listen for When Rockets Launch (nyt)
@@ -62,7 +55,6 @@
 - **May 27, 10:07 AM** - Mission-ready communications: enhancing defense capabilities with multi-orbit, multi-network systems (spacenews)
 - **May 27, 11:45 AM** - Empyreum, Italy’s new satellite platform for the constellation era (spacenews)
 - **May 27, 11:59 AM** - What Sonic Detectives Listen for When Rockets Launch (nyt)
-- **May 27, 12:43 PM** - Space sponsorship: the next frontier for revenue generation (spacenews)
 - **May 27, 12:57 PM** - What Sonic Detectives Listen for When Rockets Launch (nyt)
 - **May 27, 01:25 PM** - EnduroSat raises $49 million to mass produce larger satellites (spacenews)
 - **May 27, 02:51 PM** - Sonic Detectives Want to Help SpaceX Listen Up (nyt)
@@ -110,7 +102,6 @@
 - **May 28, 07:19 PM** - China Launches Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
 - **May 28, 08:17 PM** - Manhattanhenge Is Back for 2025: When, Where and How to Watch (nyt)
 - **May 28, 09:15 PM** - China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
-- **May 28, 09:57 PM** - Space sponsorship: the next frontier for revenue generation (spacenews)
 - **May 28, 10:11 PM** - China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
 - **May 28, 10:53 PM** - China launches Tianwen-2 mission to sample near Earth asteroid (spacenews)
 - **May 28, 11:07 PM** - China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
@@ -194,7 +185,6 @@
 - **May 30, 06:18 AM** - Starship breaks up on reentry after loss of attitude control (spacenews)
 - **May 30, 06:33 AM** - What Sonic Detectives Listen for When Rockets Launch (nyt)
 - **May 30, 07:02 AM** - NGA hopes to award up to 10 Luno commercial analytics task orders this year (breaking_defense)
-- **May 30, 07:17 AM** - Senate sets up early June vote on Isaacman nomination to lead NASA (spacenews)
 - **May 30, 08:02 AM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **May 30, 08:24 AM** - New report details China’s push to dominate artificial intelligence (spacenews)
 - **May 30, 08:43 AM** - China Launches Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
@@ -5448,3 +5438,4 @@
 - **Aug 12, 11:31 PM** - At missile defense conference, the first rule of Golden Dome is don’t talk about Golden Dome (breaking_defense)
 - **Aug 12, 11:45 PM** - NASA revises plans for commercial space station development (spacenews)
 - **Aug 12, 11:59 PM** - Arianespace Will Launch a European Weather Satellite (supercluster)
+- **Aug 13, 12:01 AM** - Arianespace Will Launch a European Weather Satellite (supercluster)
