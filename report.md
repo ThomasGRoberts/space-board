@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 2 | 25 | 50 |
 | nyt | 0 | 1 | 23 | 49 |
 | spacenews | 0 | 0 | 23 | 48 |
-| supercluster | 1 | 1 | 83 | 83 |
+| supercluster | 1 | 1 | 84 | 84 |
 
 # Shown Order
 
@@ -5551,3 +5551,4 @@
 - **Aug 13, 12:49 PM** - What’s required to advance DoD enterprise SATCOM (spacenews)
 - **Aug 13, 01:03 PM** - Space Rock That Punched Through Roof Almost Struck Resident (nyt)
 - **Aug 13, 01:17 PM** - Vulcan’s first Space Force launch to carry long-delayed experimental PNT satellite (breaking_defense)
+- **Aug 13, 01:31 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
