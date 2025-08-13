@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 25 | 52 |
-| nyt | 0 | 0 | 25 | 50 |
+| nyt | 0 | 0 | 25 | 49 |
 | spacenews | 0 | 0 | 19 | 44 |
-| supercluster | 1 | 1 | 146 | 146 |
+| supercluster | 1 | 1 | 147 | 147 |
 
 # Shown Order
 
@@ -5636,3 +5636,4 @@
 - **Aug 13, 08:31 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 13, 08:33 PM** - How NATO nations need to sell the 5 percent spending hike to their own people (breaking_defense)
 - **Aug 13, 08:47 PM** - Possible Planet Spotted Around Alpha Centauri A by NASA’s James Webb Telescope (nyt)
+- **Aug 13, 09:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
