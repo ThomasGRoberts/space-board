@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 25 | 49 |
 | nyt | 0 | 1 | 23 | 48 |
-| spacenews | 0 | 0 | 23 | 47 |
+| spacenews | 0 | 0 | 24 | 48 |
 | supercluster | 1 | 1 | 27 | 27 |
 
 # Shown Order
@@ -5468,3 +5468,4 @@
 - **Aug 13, 04:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 13, 04:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 13, 04:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 13, 05:02 AM** - Voyager Technologies emphasizes missile defense and Starlab as key growth drivers (spacenews)
