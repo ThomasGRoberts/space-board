@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 25 | 49 |
-| nyt | 0 | 1 | 23 | 47 |
+| nyt | 0 | 1 | 24 | 48 |
 | spacenews | 0 | 0 | 23 | 48 |
 | supercluster | 1 | 1 | 55 | 55 |
 
@@ -5509,3 +5509,4 @@
 - **Aug 13, 08:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 13, 08:51 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 13, 08:53 AM** - Voyager Technologies emphasizes missile defense and Starlab as key growth drivers (spacenews)
+- **Aug 13, 09:09 AM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
