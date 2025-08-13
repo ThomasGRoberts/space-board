@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 2 | 25 | 49 |
-| nyt | 0 | 1 | 24 | 48 |
-| spacenews | 0 | 0 | 23 | 48 |
+| breaking_defense | 2 | 2 | 26 | 50 |
+| nyt | 0 | 1 | 23 | 48 |
+| spacenews | 0 | 0 | 23 | 47 |
 | supercluster | 1 | 1 | 20 | 20 |
 
 # Shown Order
@@ -5460,3 +5460,4 @@
 - **Aug 13, 04:01 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 13, 04:03 AM** - From boots to orbits: Army develops space skills amid growing battlefield reliance on satellites (spacenews)
 - **Aug 13, 04:17 AM** - Possible Planet Spotted Around Alpha Centauri A by NASA’s James Webb Telescope (nyt)
+- **Aug 13, 04:32 AM** - Rocket Lab buys GEOST, further expanding defense footprint (breaking_defense)
