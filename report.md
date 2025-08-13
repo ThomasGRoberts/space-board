@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 3 | 25 | 51 |
+| breaking_defense | 1 | 3 | 26 | 52 |
 | nyt | 0 | 0 | 24 | 49 |
 | spacenews | 0 | 0 | 20 | 45 |
 | supercluster | 1 | 1 | 146 | 146 |
@@ -5634,3 +5634,4 @@
 - **Aug 13, 08:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 13, 08:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 13, 08:31 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 13, 08:33 PM** - How NATO nations need to sell the 5 percent spending hike to their own people (breaking_defense)
