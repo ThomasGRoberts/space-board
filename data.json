@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-13T00:01:54.544447+00:00",
-    "trigger_count": 6,
-    "current_item_id": "037c90eabbb683fe31de303a6f352dee",
+    "trigger_count": 0,
+    "current_item_id": "004b4898ec8e44b25d2cf97e1dcf19da",
     "data": [
         {
             "id": "fda1cdc976700b7c7f547af46ef3f3c7",
@@ -11074,6 +11074,18 @@
                 "2025-08-13T15:35:41.128241Z",
                 "2025-08-13T15:37:12.716033Z",
                 "2025-08-13T15:39:46.153861Z"
+            ]
+        },
+        {
+            "id": "004b4898ec8e44b25d2cf97e1dcf19da",
+            "source": "breaking_defense",
+            "text": "How NATO nations need to sell the 5 percent spending hike to their own people",
+            "source_link": "https://breakingdefense.com/2025/08/how-nato-nations-need-to-sell-the-5-percent-spending-hike-to-their-own-people/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-13T15:55:41.749071Z",
+            "shown_at": [
+                "2025-08-13T15:55:42.767736Z"
             ]
         }
     ]
