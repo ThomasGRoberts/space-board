@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 25 | 49 |
-| nyt | 0 | 1 | 23 | 48 |
+| nyt | 0 | 1 | 24 | 49 |
 | spacenews | 0 | 0 | 23 | 48 |
 | supercluster | 1 | 1 | 83 | 83 |
 
@@ -5549,3 +5549,4 @@
 - **Aug 13, 12:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 13, 12:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 13, 12:49 PM** - What’s required to advance DoD enterprise SATCOM (spacenews)
+- **Aug 13, 01:03 PM** - Space Rock That Punched Through Roof Almost Struck Resident (nyt)
