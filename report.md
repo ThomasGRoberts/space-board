@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 2 | 27 | 51 |
 | nyt | 0 | 1 | 25 | 49 |
 | spacenews | 0 | 0 | 24 | 48 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 0 | 0 |
 
 # Shown Order
 
@@ -5432,4 +5432,3 @@
 - **Aug 12, 11:45 PM** - NASA revises plans for commercial space station development (spacenews)
 - **Aug 13, 12:13 AM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
 - **Aug 13, 12:27 AM** - Army’s laser weapons ‘pretty mature,’ could ‘contribute’ to next-gen missile defense (breaking_defense)
-- **Aug 13, 12:41 AM** - Arianespace Will Launch a European Weather Satellite (supercluster)
