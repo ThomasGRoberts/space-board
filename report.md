@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 3 | 26 | 51 |
-| nyt | 0 | 1 | 22 | 48 |
+| nyt | 0 | 1 | 23 | 49 |
 | spacenews | 0 | 0 | 23 | 48 |
 | supercluster | 1 | 1 | 104 | 104 |
 
@@ -5580,3 +5580,4 @@
 - **Aug 13, 03:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 13, 03:42 PM** - Voyager Technologies emphasizes missile defense and Starlab as key growth drivers (spacenews)
 - **Aug 13, 03:55 PM** - How NATO nations need to sell the 5 percent spending hike to their own people (breaking_defense)
+- **Aug 13, 04:09 PM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
