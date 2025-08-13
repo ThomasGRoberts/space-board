@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 2 | 25 | 49 |
+| breaking_defense | 2 | 2 | 26 | 50 |
 | nyt | 0 | 1 | 23 | 48 |
 | spacenews | 0 | 0 | 23 | 47 |
 | supercluster | 1 | 1 | 62 | 62 |
@@ -5520,3 +5520,4 @@
 - **Aug 13, 09:52 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 13, 09:55 AM** - What’s required to advance DoD enterprise SATCOM (spacenews)
 - **Aug 13, 10:12 AM** - Space Rock That Punched Through Roof Almost Struck Resident (nyt)
+- **Aug 13, 10:25 AM** - Army’s laser weapons ‘pretty mature,’ could ‘contribute’ to next-gen missile defense (breaking_defense)
