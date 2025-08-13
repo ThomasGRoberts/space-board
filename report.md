@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 2 | 25 | 50 |
 | nyt | 0 | 1 | 23 | 48 |
 | spacenews | 0 | 0 | 23 | 47 |
-| supercluster | 1 | 1 | 50 | 50 |
+| supercluster | 1 | 1 | 51 | 51 |
 
 # Shown Order
 
@@ -5503,3 +5503,4 @@
 - **Aug 13, 08:23 AM** - Army crafting a new space policy, moving out on counterspace (breaking_defense)
 - **Aug 13, 08:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 13, 08:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 13, 08:43 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
