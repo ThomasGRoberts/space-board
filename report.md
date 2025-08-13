@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 25 | 49 |
 | nyt | 0 | 1 | 23 | 48 |
-| spacenews | 0 | 0 | 23 | 47 |
+| spacenews | 0 | 0 | 24 | 48 |
 | supercluster | 1 | 1 | 48 | 48 |
 
 # Shown Order
@@ -5498,3 +5498,4 @@
 - **Aug 13, 07:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 13, 07:52 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 13, 07:53 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 13, 07:55 AM** - From boots to orbits: Army develops space skills amid growing battlefield reliance on satellites (spacenews)
