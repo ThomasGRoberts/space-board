@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 25 | 49 |
-| nyt | 0 | 1 | 23 | 47 |
+| nyt | 0 | 1 | 24 | 48 |
 | spacenews | 0 | 0 | 23 | 48 |
 | supercluster | 1 | 1 | 48 | 48 |
 
@@ -5499,3 +5499,4 @@
 - **Aug 13, 07:52 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 13, 07:53 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 13, 07:55 AM** - From boots to orbits: Army develops space skills amid growing battlefield reliance on satellites (spacenews)
+- **Aug 13, 08:09 AM** - Astronaut James Lovell, Commander of Apollo 13, Dies at 97 (nyt)
