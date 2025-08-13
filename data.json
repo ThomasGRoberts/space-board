@@ -1,36 +1,9 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-13T00:01:54.544447+00:00",
-    "trigger_count": 4,
+    "trigger_count": 5,
     "current_item_id": "d636be7a8a436459717e77c4c1c107e5",
     "data": [
-        {
-            "id": "5975e51e77772e8fd0fbc68c9e8543f1",
-            "source": "supercluster",
-            "text": "Arianespace Will Launch a European Weather Satellite",
-            "source_link": "https://www.supercluster.com/launches/metop-sg-a1",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-08-13T00:37:00.000Z",
-            "time_remaining": "0d 00h 25m",
-            "fetched_datetime": "2025-08-12T22:07:56.211854Z",
-            "shown_at": [
-                "2025-08-12T22:07:57.469235Z",
-                "2025-08-12T22:09:26.316491Z",
-                "2025-08-12T22:11:36.504492Z",
-                "2025-08-12T22:13:25.752840Z",
-                "2025-08-12T22:15:04.947010Z",
-                "2025-08-12T22:17:28.419543Z",
-                "2025-08-12T22:19:57.859801Z",
-                "2025-08-12T23:59:42.165450Z",
-                "2025-08-13T00:01:55.295531Z",
-                "2025-08-13T00:03:37.567676Z",
-                "2025-08-13T00:05:24.278929Z",
-                "2025-08-13T00:07:35.449666Z",
-                "2025-08-13T00:09:37.905670Z",
-                "2025-08-13T00:11:47.997537Z"
-            ]
-        },
         {
             "id": "fda1cdc976700b7c7f547af46ef3f3c7",
             "source": "breaking_defense",

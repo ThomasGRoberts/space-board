@@ -2,7 +2,6 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 14 | 14 |
 | breaking_defense | 2 | 2 | 27 | 51 |
 | nyt | 0 | 1 | 25 | 49 |
 | spacenews | 0 | 0 | 24 | 49 |
@@ -5424,25 +5423,11 @@
 - **Aug 12, 09:11 PM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
 - **Aug 12, 09:39 PM** - At missile defense conference, the first rule of Golden Dome is don’t talk about Golden Dome (breaking_defense)
 - **Aug 12, 09:53 PM** - Space Command chief calls for orbital gas stations as China tests satellite refueling (spacenews)
-- **Aug 12, 10:07 PM** - Arianespace Will Launch a European Weather Satellite (supercluster)
-- **Aug 12, 10:09 PM** - Arianespace Will Launch a European Weather Satellite (supercluster)
-- **Aug 12, 10:11 PM** - Arianespace Will Launch a European Weather Satellite (supercluster)
-- **Aug 12, 10:13 PM** - Arianespace Will Launch a European Weather Satellite (supercluster)
-- **Aug 12, 10:15 PM** - Arianespace Will Launch a European Weather Satellite (supercluster)
-- **Aug 12, 10:17 PM** - Arianespace Will Launch a European Weather Satellite (supercluster)
-- **Aug 12, 10:19 PM** - Arianespace Will Launch a European Weather Satellite (supercluster)
 - **Aug 12, 10:22 PM** - Possible Planet Spotted Around Alpha Centauri A by NASA’s James Webb Telescope (nyt)
 - **Aug 12, 10:35 PM** - Army’s laser weapons ‘pretty mature,’ could ‘contribute’ to next-gen missile defense (breaking_defense)
 - **Aug 12, 10:49 PM** - Northrop says investments position company for Golden Dome missile defense demand (spacenews)
 - **Aug 12, 11:17 PM** - Space Rock That Punched Through Roof Almost Struck Resident (nyt)
 - **Aug 12, 11:31 PM** - At missile defense conference, the first rule of Golden Dome is don’t talk about Golden Dome (breaking_defense)
 - **Aug 12, 11:45 PM** - NASA revises plans for commercial space station development (spacenews)
-- **Aug 12, 11:59 PM** - Arianespace Will Launch a European Weather Satellite (supercluster)
-- **Aug 13, 12:01 AM** - Arianespace Will Launch a European Weather Satellite (supercluster)
-- **Aug 13, 12:03 AM** - Arianespace Will Launch a European Weather Satellite (supercluster)
-- **Aug 13, 12:05 AM** - Arianespace Will Launch a European Weather Satellite (supercluster)
-- **Aug 13, 12:07 AM** - Arianespace Will Launch a European Weather Satellite (supercluster)
-- **Aug 13, 12:09 AM** - Arianespace Will Launch a European Weather Satellite (supercluster)
-- **Aug 13, 12:11 AM** - Arianespace Will Launch a European Weather Satellite (supercluster)
 - **Aug 13, 12:13 AM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
 - **Aug 13, 12:27 AM** - Army’s laser weapons ‘pretty mature,’ could ‘contribute’ to next-gen missile defense (breaking_defense)
