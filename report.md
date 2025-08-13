@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 2 | 25 | 50 |
+| breaking_defense | 2 | 2 | 26 | 51 |
 | nyt | 0 | 1 | 23 | 49 |
 | spacenews | 0 | 0 | 23 | 48 |
 | supercluster | 1 | 1 | 90 | 90 |
@@ -5560,3 +5560,4 @@
 - **Aug 13, 01:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 13, 01:45 PM** - From boots to orbits: Army develops space skills amid growing battlefield reliance on satellites (spacenews)
 - **Aug 13, 01:59 PM** - Possible Planet Spotted Around Alpha Centauri A by NASA’s James Webb Telescope (nyt)
+- **Aug 13, 02:13 PM** - Army’s laser weapons ‘pretty mature,’ could ‘contribute’ to next-gen missile defense (breaking_defense)
