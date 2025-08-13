@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 24 | 51 |
-| nyt | 0 | 1 | 23 | 48 |
+| nyt | 0 | 1 | 24 | 49 |
 | spacenews | 0 | 0 | 23 | 47 |
 | supercluster | 1 | 1 | 118 | 118 |
 
@@ -5599,3 +5599,4 @@
 - **Aug 13, 05:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 13, 05:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 13, 05:41 PM** - Army’s laser weapons ‘pretty mature,’ could ‘contribute’ to next-gen missile defense (breaking_defense)
+- **Aug 13, 05:55 PM** - James A. Lovell Jr., Commander of Apollo 13, Is Dead at 97 (nyt)
