@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 2 | 25 | 49 |
 | nyt | 0 | 1 | 23 | 48 |
 | spacenews | 0 | 0 | 23 | 47 |
-| supercluster | 1 | 1 | 76 | 76 |
+| supercluster | 1 | 1 | 77 | 77 |
 
 # Shown Order
 
@@ -5541,3 +5541,4 @@
 - **Aug 13, 11:53 AM** - NASA revises plans for commercial space station development (spacenews)
 - **Aug 13, 12:07 PM** - Space Rock That Punched Through Roof Almost Struck Resident (nyt)
 - **Aug 13, 12:21 PM** - At missile defense conference, the first rule of Golden Dome is don’t talk about Golden Dome (breaking_defense)
+- **Aug 13, 12:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
