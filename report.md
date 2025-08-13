@@ -5432,4 +5432,4 @@
 - **Aug 12, 11:45 PM** - NASA revises plans for commercial space station development (spacenews)
 - **Aug 13, 12:13 AM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
 - **Aug 13, 12:27 AM** - Army’s laser weapons ‘pretty mature,’ could ‘contribute’ to next-gen missile defense (breaking_defense)
-- **Aug 13, 01:23 AM** - Arianespace Will Launch a European Weather Satellite (supercluster)
+- **Aug 13, 01:25 AM** - Arianespace Will Launch a European Weather Satellite (supercluster)
