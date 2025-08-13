@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 2 | 25 | 50 |
 | nyt | 0 | 1 | 23 | 48 |
 | spacenews | 0 | 0 | 23 | 47 |
-| supercluster | 1 | 1 | 27 | 27 |
+| supercluster | 1 | 1 | 28 | 28 |
 
 # Shown Order
 
@@ -5471,3 +5471,4 @@
 - **Aug 13, 05:02 AM** - Voyager Technologies emphasizes missile defense and Starlab as key growth drivers (spacenews)
 - **Aug 13, 05:17 AM** - Space Rock That Punched Through Roof Almost Struck Resident (nyt)
 - **Aug 13, 05:31 AM** - Army crafting a new space policy, moving out on counterspace (breaking_defense)
+- **Aug 13, 05:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
