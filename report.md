@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 14 | 14 |
-| breaking_defense | 2 | 2 | 26 | 50 |
-| nyt | 0 | 1 | 25 | 50 |
+| breaking_defense | 2 | 2 | 27 | 51 |
+| nyt | 0 | 1 | 25 | 49 |
 | spacenews | 0 | 0 | 25 | 49 |
 
 # Shown Order
@@ -5445,3 +5445,4 @@
 - **Aug 13, 12:09 AM** - Arianespace Will Launch a European Weather Satellite (supercluster)
 - **Aug 13, 12:11 AM** - Arianespace Will Launch a European Weather Satellite (supercluster)
 - **Aug 13, 12:13 AM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
+- **Aug 13, 12:27 AM** - Army’s laser weapons ‘pretty mature,’ could ‘contribute’ to next-gen missile defense (breaking_defense)
