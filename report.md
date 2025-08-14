@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 29 | 54 |
 | nyt | 0 | 0 | 29 | 52 |
-| spacenews | 0 | 0 | 13 | 37 |
-| supercluster | 1 | 1 | 23 | 23 |
+| spacenews | 0 | 0 | 13 | 36 |
+| supercluster | 1 | 1 | 24 | 24 |
 
 # Shown Order
 
@@ -5508,3 +5508,4 @@
 - **Aug 14, 03:59 AM** - How to Watch the Perseids, the Strongest Meteor Shower of the Summer (nyt)
 - **Aug 14, 04:13 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 14, 04:15 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 14, 04:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
