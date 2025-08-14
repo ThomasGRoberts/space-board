@@ -5,7 +5,7 @@
 | breaking_defense | 0 | 3 | 30 | 55 |
 | nyt | 0 | 0 | 29 | 52 |
 | spacenews | 0 | 0 | 1 | 24 |
-| supercluster | 2 | 2 | 48 | 48 |
+| supercluster | 2 | 2 | 49 | 49 |
 
 # Shown Order
 
@@ -5560,3 +5560,4 @@
 - **Aug 14, 03:47 PM** - How to Watch the Perseids, the Strongest Meteor Shower of the Summer (nyt)
 - **Aug 14, 04:02 PM** - Army’s laser weapons ‘pretty mature,’ could ‘contribute’ to next-gen missile defense (breaking_defense)
 - **Aug 14, 04:17 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
+- **Aug 14, 04:19 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
