@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 1 | 30 | 56 |
+| breaking_defense | 0 | 1 | 31 | 57 |
 | nyt | 1 | 1 | 30 | 55 |
 | spacenews | 0 | 0 | 0 | 17 |
 | supercluster | 2 | 2 | 117 | 117 |
@@ -5648,3 +5648,4 @@
 - **Aug 14, 11:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 14, 11:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 14, 11:09 PM** - How to Watch the Perseids, the Strongest Meteor Shower of the Summer (nyt)
+- **Aug 14, 11:23 PM** - How NATO nations need to sell the 5 percent spending hike to their own people (breaking_defense)
