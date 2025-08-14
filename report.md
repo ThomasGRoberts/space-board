@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 1 | 30 | 56 |
+| breaking_defense | 0 | 1 | 30 | 55 |
 | nyt | 0 | 0 | 30 | 54 |
 | spacenews | 0 | 0 | 0 | 20 |
-| supercluster | 2 | 2 | 91 | 91 |
+| supercluster | 2 | 2 | 92 | 92 |
 
 # Shown Order
 
@@ -5615,3 +5615,4 @@
 - **Aug 14, 08:27 PM** - Vulcan’s first Space Force launch to carry long-delayed experimental PNT satellite (breaking_defense)
 - **Aug 14, 08:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 14, 08:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 14, 08:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
