@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 3 | 29 | 54 |
+| breaking_defense | 1 | 3 | 30 | 55 |
 | nyt | 0 | 0 | 29 | 52 |
 | spacenews | 0 | 0 | 2 | 25 |
 | supercluster | 2 | 2 | 40 | 40 |
@@ -5549,3 +5549,4 @@
 - **Aug 14, 02:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 14, 03:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 14, 03:04 PM** - How to Watch the Perseids, the Strongest Meteor Shower of the Summer (nyt)
+- **Aug 14, 03:17 PM** - Rocket Lab buys GEOST, further expanding defense footprint (breaking_defense)
