@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 3 | 29 | 54 |
 | nyt | 0 | 0 | 29 | 52 |
 | spacenews | 0 | 0 | 7 | 30 |
-| supercluster | 1 | 1 | 43 | 43 |
+| supercluster | 1 | 1 | 44 | 44 |
 
 # Shown Order
 
@@ -5542,3 +5542,4 @@
 - **Aug 14, 10:03 AM** - How industry is lining up for big Golden Dome business (breaking_defense)
 - **Aug 14, 10:17 AM** - Astronaut James Lovell, Commander of Apollo 13, Dies at 97 (nyt)
 - **Aug 14, 10:31 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Aug 14, 10:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
