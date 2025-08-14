@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 26 | 53 |
-| supercluster | 1 | 1 | 182 | 182 |
+| supercluster | 1 | 1 | 183 | 183 |
 | nyt | 0 | 0 | 26 | 51 |
 | spacenews | 0 | 0 | 16 | 40 |
 
@@ -5657,3 +5657,4 @@
 - **Aug 14, 12:08 AM** - Army’s laser weapons ‘pretty mature,’ could ‘contribute’ to next-gen missile defense (breaking_defense)
 - **Aug 14, 12:22 AM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
 - **Aug 14, 12:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 14, 12:37 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
