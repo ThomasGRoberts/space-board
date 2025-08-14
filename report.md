@@ -5487,4 +5487,4 @@
 - **Aug 14, 03:59 AM** - How to Watch the Perseids, the Strongest Meteor Shower of the Summer (nyt)
 - **Aug 14, 04:27 AM** - Rocket Lab buys GEOST, further expanding defense footprint (breaking_defense)
 - **Aug 14, 04:41 AM** - Space Rock That Punched Through Roof Almost Struck Resident (nyt)
-- **Aug 14, 05:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 14, 05:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
