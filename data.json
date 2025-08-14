@@ -1,7 +1,7 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-14T00:01:56.402801+00:00",
-    "trigger_count": 0,
+    "trigger_count": 1,
     "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
     "data": [
         {
@@ -10989,14 +10989,11 @@
             "source": "supercluster",
             "text": "SpaceX Will Launch Starlink Satellites from Florida",
             "source_link": "https://www.supercluster.com/launches/starlink-10-20",
-            "shown": true,
+            "shown": false,
             "type": "launch",
             "target_datetime": "2025-08-14T10:47:00.000Z",
             "time_remaining": "",
-            "fetched_datetime": "2025-08-14T10:59:30.332971Z",
-            "shown_at": [
-                "2025-08-14T10:59:30.957620Z"
-            ]
+            "fetched_datetime": "2025-08-14T11:02:11.190865Z"
         }
     ]
 }
