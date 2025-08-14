@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 1 | 30 | 54 |
-| nyt | 0 | 0 | 29 | 53 |
+| nyt | 0 | 0 | 30 | 54 |
 | spacenews | 0 | 0 | 0 | 23 |
 | supercluster | 2 | 2 | 68 | 68 |
 
@@ -5584,3 +5584,4 @@
 - **Aug 14, 05:57 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **Aug 14, 05:59 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **Aug 14, 06:02 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
+- **Aug 14, 06:03 PM** - Space Rock That Punched Through Roof Almost Struck Resident (nyt)
