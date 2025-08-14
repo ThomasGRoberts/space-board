@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 3 | 30 | 55 |
 | nyt | 0 | 0 | 29 | 52 |
 | spacenews | 0 | 0 | 2 | 25 |
-| supercluster | 2 | 2 | 33 | 33 |
+| supercluster | 2 | 2 | 34 | 34 |
 
 # Shown Order
 
@@ -5541,3 +5541,4 @@
 - **Aug 14, 02:17 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **Aug 14, 02:19 PM** - How to Watch the Perseids, the Strongest Meteor Shower of the Summer (nyt)
 - **Aug 14, 02:34 PM** - How NATO nations need to sell the 5 percent spending hike to their own people (breaking_defense)
+- **Aug 14, 02:49 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
