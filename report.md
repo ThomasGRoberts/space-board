@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 1 | 30 | 56 |
-| nyt | 1 | 1 | 30 | 55 |
+| nyt | 1 | 1 | 29 | 55 |
 | spacenews | 0 | 0 | 0 | 17 |
-| supercluster | 2 | 2 | 118 | 118 |
+| supercluster | 2 | 2 | 119 | 119 |
 
 # Shown Order
 
@@ -5650,3 +5650,4 @@
 - **Aug 14, 11:09 PM** - How to Watch the Perseids, the Strongest Meteor Shower of the Summer (nyt)
 - **Aug 14, 11:23 PM** - How NATO nations need to sell the 5 percent spending hike to their own people (breaking_defense)
 - **Aug 14, 11:37 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
+- **Aug 14, 11:39 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
