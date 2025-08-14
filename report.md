@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 3 | 29 | 54 |
 | nyt | 0 | 0 | 29 | 52 |
 | spacenews | 0 | 0 | 8 | 31 |
-| supercluster | 1 | 1 | 30 | 30 |
+| supercluster | 1 | 1 | 31 | 31 |
 
 # Shown Order
 
@@ -5525,3 +5525,4 @@
 - **Aug 14, 08:51 AM** - How to Watch the Perseids, the Strongest Meteor Shower of the Summer (nyt)
 - **Aug 14, 09:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Aug 14, 09:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Aug 14, 09:09 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
