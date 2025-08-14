@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 1 | 30 | 54 |
+| breaking_defense | 0 | 1 | 31 | 55 |
 | nyt | 0 | 0 | 30 | 54 |
-| spacenews | 0 | 0 | 0 | 22 |
+| spacenews | 0 | 0 | 0 | 21 |
 | supercluster | 2 | 2 | 75 | 75 |
 
 # Shown Order
@@ -5594,3 +5594,4 @@
 - **Aug 14, 06:43 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **Aug 14, 06:45 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **Aug 14, 06:47 PM** - How to Watch the Perseids, the Strongest Meteor Shower of the Summer (nyt)
+- **Aug 14, 07:02 PM** - How industry is lining up for big Golden Dome business (breaking_defense)
