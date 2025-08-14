@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 3 | 29 | 54 |
 | nyt | 0 | 0 | 28 | 51 |
 | spacenews | 0 | 0 | 6 | 29 |
-| supercluster | 1 | 1 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -5500,3 +5500,4 @@
 - **Aug 14, 10:03 AM** - How industry is lining up for big Golden Dome business (breaking_defense)
 - **Aug 14, 10:17 AM** - Astronaut James Lovell, Commander of Apollo 13, Dies at 97 (nyt)
 - **Aug 14, 10:45 AM** - Vulcan’s first Space Force launch to carry long-delayed experimental PNT satellite (breaking_defense)
+- **Aug 14, 11:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
