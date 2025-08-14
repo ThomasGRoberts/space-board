@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 3 | 28 | 53 |
 | nyt | 0 | 0 | 28 | 51 |
 | spacenews | 0 | 0 | 11 | 34 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -5488,3 +5488,4 @@
 - **Aug 14, 04:27 AM** - Rocket Lab buys GEOST, further expanding defense footprint (breaking_defense)
 - **Aug 14, 04:41 AM** - Space Rock That Punched Through Roof Almost Struck Resident (nyt)
 - **Aug 14, 06:10 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Aug 14, 06:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
