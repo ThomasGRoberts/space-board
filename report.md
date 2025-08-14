@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 3 | 29 | 54 |
 | nyt | 0 | 0 | 29 | 52 |
 | spacenews | 0 | 0 | 8 | 31 |
-| supercluster | 1 | 1 | 36 | 36 |
+| supercluster | 1 | 1 | 37 | 37 |
 
 # Shown Order
 
@@ -5533,3 +5533,4 @@
 - **Aug 14, 09:19 AM** - Rocket Lab buys GEOST, further expanding defense footprint (breaking_defense)
 - **Aug 14, 09:35 AM** - How to Watch the Perseids, the Strongest Meteor Shower of the Summer (nyt)
 - **Aug 14, 09:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Aug 14, 09:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
