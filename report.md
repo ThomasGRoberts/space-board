@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 3 | 29 | 54 |
 | nyt | 0 | 0 | 29 | 52 |
 | spacenews | 0 | 0 | 8 | 31 |
-| supercluster | 1 | 1 | 29 | 29 |
+| supercluster | 1 | 1 | 30 | 30 |
 
 # Shown Order
 
@@ -5524,3 +5524,4 @@
 - **Aug 14, 08:37 AM** - How NATO nations need to sell the 5 percent spending hike to their own people (breaking_defense)
 - **Aug 14, 08:51 AM** - How to Watch the Perseids, the Strongest Meteor Shower of the Summer (nyt)
 - **Aug 14, 09:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Aug 14, 09:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
