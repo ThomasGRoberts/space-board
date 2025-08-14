@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 28 | 53 |
 | nyt | 0 | 0 | 28 | 51 |
-| spacenews | 0 | 0 | 16 | 39 |
-| supercluster | 1 | 1 | 2 | 2 |
+| spacenews | 0 | 0 | 15 | 39 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -5481,3 +5481,4 @@
 - **Aug 14, 01:49 AM** - Astronaut James Lovell, Commander of Apollo 13, Dies at 97 (nyt)
 - **Aug 14, 02:05 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 14, 02:07 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 14, 02:09 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
