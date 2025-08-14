@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 3 | 28 | 53 |
 | nyt | 0 | 0 | 28 | 51 |
 | spacenews | 0 | 0 | 10 | 33 |
-| supercluster | 1 | 1 | 15 | 15 |
+| supercluster | 1 | 1 | 16 | 16 |
 
 # Shown Order
 
@@ -5506,3 +5506,4 @@
 - **Aug 14, 07:07 AM** - How industry is lining up for big Golden Dome business (breaking_defense)
 - **Aug 14, 07:21 AM** - Space Rock That Punched Through Roof Almost Struck Resident (nyt)
 - **Aug 14, 07:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Aug 14, 07:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
