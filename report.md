@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 27 | 53 |
 | supercluster | 1 | 1 | 188 | 188 |
-| nyt | 0 | 0 | 26 | 50 |
+| nyt | 0 | 0 | 27 | 51 |
 | spacenews | 0 | 0 | 16 | 40 |
 
 # Shown Order
@@ -5664,3 +5664,4 @@
 - **Aug 14, 12:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 14, 12:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 14, 12:49 AM** - How industry is lining up for big Golden Dome business (breaking_defense)
+- **Aug 14, 01:03 AM** - NASA Is Getting Fired Up About a Nuclear Reactor on the Moon (nyt)
