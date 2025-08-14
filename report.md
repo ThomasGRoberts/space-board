@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 29 | 54 |
-| nyt | 0 | 0 | 28 | 51 |
+| nyt | 0 | 0 | 29 | 52 |
 | spacenews | 0 | 0 | 9 | 32 |
 | supercluster | 1 | 1 | 21 | 21 |
 
@@ -5513,3 +5513,4 @@
 - **Aug 14, 07:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Aug 14, 07:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Aug 14, 07:49 AM** - Army’s laser weapons ‘pretty mature,’ could ‘contribute’ to next-gen missile defense (breaking_defense)
+- **Aug 14, 08:06 AM** - Space Rock That Punched Through Roof Almost Struck Resident (nyt)
