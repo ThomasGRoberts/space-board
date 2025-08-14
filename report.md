@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 30 | 55 |
-| nyt | 0 | 0 | 28 | 51 |
+| nyt | 0 | 0 | 29 | 52 |
 | spacenews | 0 | 0 | 7 | 30 |
 | supercluster | 1 | 1 | 42 | 42 |
 
@@ -5540,3 +5540,4 @@
 - **Aug 14, 09:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Aug 14, 10:02 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Aug 14, 10:03 AM** - How industry is lining up for big Golden Dome business (breaking_defense)
+- **Aug 14, 10:17 AM** - Astronaut James Lovell, Commander of Apollo 13, Dies at 97 (nyt)
