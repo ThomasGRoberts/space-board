@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 3 | 29 | 54 |
+| breaking_defense | 1 | 3 | 28 | 54 |
 | nyt | 0 | 0 | 28 | 51 |
 | spacenews | 0 | 0 | 12 | 35 |
 | supercluster | 1 | 1 | 1 | 1 |
@@ -5487,4 +5487,4 @@
 - **Aug 14, 03:59 AM** - How to Watch the Perseids, the Strongest Meteor Shower of the Summer (nyt)
 - **Aug 14, 04:27 AM** - Rocket Lab buys GEOST, further expanding defense footprint (breaking_defense)
 - **Aug 14, 04:41 AM** - Space Rock That Punched Through Roof Almost Struck Resident (nyt)
-- **Aug 14, 05:31 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 14, 05:33 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
