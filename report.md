@@ -5,7 +5,7 @@
 | breaking_defense | 0 | 1 | 30 | 54 |
 | nyt | 0 | 0 | 30 | 53 |
 | spacenews | 0 | 0 | 0 | 24 |
-| supercluster | 2 | 2 | 54 | 54 |
+| supercluster | 2 | 2 | 55 | 55 |
 
 # Shown Order
 
@@ -5568,3 +5568,4 @@
 - **Aug 14, 04:29 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **Aug 14, 04:32 PM** - Astronaut James Lovell, Commander of Apollo 13, Dies at 97 (nyt)
 - **Aug 14, 04:46 PM** - How industry is lining up for big Golden Dome business (breaking_defense)
+- **Aug 14, 05:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
