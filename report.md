@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 3 | 30 | 55 |
 | nyt | 0 | 0 | 28 | 51 |
 | spacenews | 0 | 0 | 4 | 27 |
-| supercluster | 1 | 1 | 12 | 12 |
+| supercluster | 1 | 1 | 13 | 13 |
 
 # Shown Order
 
@@ -5516,3 +5516,4 @@
 - **Aug 14, 12:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 14, 12:39 PM** - James A. Lovell Jr., Commander of Apollo 13, Is Dead at 97 (nyt)
 - **Aug 14, 12:53 PM** - How industry is lining up for big Golden Dome business (breaking_defense)
+- **Aug 14, 01:10 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
