@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 3 | 28 | 54 |
 | nyt | 0 | 0 | 28 | 51 |
 | spacenews | 0 | 0 | 9 | 32 |
-| supercluster | 1 | 1 | 23 | 23 |
+| supercluster | 1 | 1 | 24 | 24 |
 
 # Shown Order
 
@@ -5516,3 +5516,4 @@
 - **Aug 14, 08:06 AM** - Space Rock That Punched Through Roof Almost Struck Resident (nyt)
 - **Aug 14, 08:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Aug 14, 08:25 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Aug 14, 08:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
