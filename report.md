@@ -3,44 +3,23 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 26 | 53 |
+| supercluster | 1 | 1 | 179 | 179 |
 | nyt | 0 | 0 | 26 | 50 |
 | spacenews | 0 | 0 | 16 | 41 |
-| supercluster | 1 | 1 | 178 | 178 |
 
 # Shown Order
 
-- **May 23, 01:33 PM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
 - **May 23, 03:43 PM** - NGA hopes to award up to 10 Luno commercial analytics task orders this year (breaking_defense)
-- **May 23, 05:23 PM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
-- **May 23, 06:23 PM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
 - **May 23, 07:33 PM** - Impulse Space to launch SES satellites (spacenews)
 - **May 23, 07:49 PM** - NGA hopes to award up to 10 Luno commercial analytics task orders this year (breaking_defense)
-- **May 23, 09:13 PM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
 - **May 23, 11:37 PM** - SpaceX blames Starship Flight 8 mishap on engine hardware failure (spacenews)
 - **May 23, 11:51 PM** - Raytheon secures $380 million contract extension for GPS ground control system (spacenews)
-- **May 24, 12:20 AM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
-- **May 24, 01:15 AM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
-- **May 24, 05:02 AM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
-- **May 24, 05:59 AM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
-- **May 24, 10:47 AM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
-- **May 24, 02:35 PM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
-- **May 25, 05:49 PM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
-- **May 25, 07:41 PM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
-- **May 25, 08:37 PM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
 - **May 25, 08:51 PM** - SpaceX blames Starship Flight 8 mishap on engine hardware failure (spacenews)
 - **May 25, 09:05 PM** - NGA hopes to award up to 10 Luno commercial analytics task orders this year (breaking_defense)
-- **May 25, 09:33 PM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
-- **May 25, 11:27 PM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
-- **May 26, 02:21 AM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
-- **May 26, 03:17 AM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
-- **May 26, 04:17 AM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
-- **May 26, 05:13 AM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
 - **May 26, 09:09 AM** - What Sonic Detectives Listen for When Rockets Launch (nyt)
 - **May 26, 10:49 AM** - NGA hopes to award up to 10 Luno commercial analytics task orders this year (breaking_defense)
 - **May 26, 11:19 AM** - Chinese commercial company lands contract to build provincial satellite constellation (spacenews)
-- **May 26, 11:33 AM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
 - **May 26, 01:05 PM** - Mission-ready communications: enhancing defense capabilities with multi-orbit, multi-network systems (spacenews)
-- **May 26, 01:35 PM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
 - **May 26, 02:07 PM** - SpaceX blames Starship Flight 8 mishap on engine hardware failure (spacenews)
 - **May 26, 02:35 PM** - What Sonic Detectives Listen for When Rockets Launch (nyt)
 - **May 26, 07:23 PM** - What Sonic Detectives Listen for When Rockets Launch (nyt)
@@ -51,7 +30,6 @@
 - **May 27, 03:03 AM** - What Sonic Detectives Listen for When Rockets Launch (nyt)
 - **May 27, 04:19 AM** - Raytheon secures $380 million contract extension for GPS ground control system (spacenews)
 - **May 27, 06:57 AM** - Sonic Detectives Want to Help SpaceX Listen Up (nyt)
-- **May 27, 09:53 AM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
 - **May 27, 10:07 AM** - Mission-ready communications: enhancing defense capabilities with multi-orbit, multi-network systems (spacenews)
 - **May 27, 11:45 AM** - Empyreum, Italy’s new satellite platform for the constellation era (spacenews)
 - **May 27, 11:59 AM** - What Sonic Detectives Listen for When Rockets Launch (nyt)
@@ -72,7 +50,6 @@
 - **May 27, 09:13 PM** - Empyreum, Italy’s new satellite platform for the constellation era (spacenews)
 - **May 27, 09:42 PM** - Sonic Detectives Want to Help SpaceX Listen Up (nyt)
 - **May 27, 10:13 PM** - Rocket Lab to acquire satellite payload manufacturer Geost for $275 million (spacenews)
-- **May 27, 10:47 PM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
 - **May 27, 11:03 PM** - SpaceX to Launch Starship Flight 9: Watch Live Video (nyt)
 - **May 28, 06:07 AM** - Starship breaks up on reentry after loss of attitude control (spacenews)
 - **May 28, 06:21 AM** - SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth (nyt)
@@ -112,7 +89,6 @@
 - **May 29, 01:25 AM** - Impulse Space to launch SES satellites (spacenews)
 - **May 29, 01:41 AM** - China Launches Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
 - **May 29, 03:49 AM** - SpaceNews Names Kamal Flucker as Vice President of Global Sales to Lead International Growth (spacenews)
-- **May 29, 04:05 AM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
 - **May 29, 05:19 AM** - NGA hopes to award up to 10 Luno commercial analytics task orders this year (breaking_defense)
 - **May 29, 05:34 AM** - China launches Tianwen-2 mission to sample near Earth asteroid (spacenews)
 - **May 29, 06:31 AM** - Raytheon secures $380 million contract extension for GPS ground control system (spacenews)
@@ -193,7 +169,6 @@
 - **May 30, 09:46 AM** - New Likely Dwarf Planet Discovered in Remote Region of Solar System (nyt)
 - **May 30, 10:13 AM** - China’s Astronstone raises early funding for stainless steel rocket with “chopstick” recovery (spacenews)
 - **May 30, 10:27 AM** - NGA hopes to award up to 10 Luno commercial analytics task orders this year (breaking_defense)
-- **May 30, 10:41 AM** - New Studies Dismiss Signs of Life on Distant Planet (nyt)
 - **May 30, 11:09 AM** - University of Colorado, Boulder to announce new space policy center (spacenews)
 - **May 30, 11:23 AM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
 - **May 30, 11:37 AM** - Manhattanhenge Is Back for 2025: When, Where and How to Watch (nyt)
@@ -5676,3 +5651,4 @@
 - **Aug 13, 11:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 13, 11:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 13, 11:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 14, 12:01 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
