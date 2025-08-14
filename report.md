@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 1 | 30 | 54 |
+| breaking_defense | 0 | 1 | 31 | 55 |
 | nyt | 0 | 0 | 30 | 54 |
 | spacenews | 0 | 0 | 0 | 22 |
 | supercluster | 2 | 2 | 68 | 68 |
@@ -5585,3 +5585,4 @@
 - **Aug 14, 05:59 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **Aug 14, 06:02 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **Aug 14, 06:03 PM** - Space Rock That Punched Through Roof Almost Struck Resident (nyt)
+- **Aug 14, 06:17 PM** - Army’s laser weapons ‘pretty mature,’ could ‘contribute’ to next-gen missile defense (breaking_defense)
