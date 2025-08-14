@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 1 | 30 | 56 |
-| nyt | 1 | 1 | 30 | 55 |
+| nyt | 1 | 1 | 29 | 55 |
 | spacenews | 0 | 0 | 0 | 18 |
-| supercluster | 2 | 2 | 107 | 107 |
+| supercluster | 2 | 2 | 108 | 108 |
 
 # Shown Order
 
@@ -5635,3 +5635,4 @@
 - **Aug 14, 10:11 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **Aug 14, 10:13 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **Aug 14, 10:15 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
+- **Aug 14, 10:17 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
