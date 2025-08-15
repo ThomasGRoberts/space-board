@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 28 | 56 |
 | supercluster | 2 | 2 | 82 | 82 |
-| breaking_defense | 0 | 1 | 28 | 57 |
+| breaking_defense | 0 | 1 | 29 | 58 |
 | spacenews | 0 | 0 | 0 | 14 |
 
 # Shown Order
@@ -5600,3 +5600,4 @@
 - **Aug 15, 03:09 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 15, 03:11 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 15, 03:13 AM** - How to Watch the Perseids, the Strongest Meteor Shower of the Summer (nyt)
+- **Aug 15, 03:27 AM** - Vulcan’s first Space Force launch to carry long-delayed experimental PNT satellite (breaking_defense)
