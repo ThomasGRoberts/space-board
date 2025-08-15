@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 32 | 62 |
+| nyt | 2 | 2 | 32 | 61 |
 | breaking_defense | 1 | 1 | 31 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 72 | 72 |
+| supercluster | 2 | 2 | 73 | 73 |
 
 # Shown Order
 
@@ -5628,3 +5628,4 @@
 - **Aug 15, 04:53 PM** - Space Rock That Punched Through Roof Almost Struck Resident (nyt)
 - **Aug 15, 05:09 PM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Aug 15, 05:11 PM** - China Will Launch Long March 4C Rocket (supercluster)
+- **Aug 15, 05:13 PM** - China Will Launch Long March 4C Rocket (supercluster)
