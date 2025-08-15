@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 28 | 56 |
+| nyt | 1 | 1 | 29 | 57 |
 | supercluster | 2 | 2 | 96 | 96 |
 | breaking_defense | 0 | 1 | 28 | 57 |
 | spacenews | 0 | 0 | 0 | 13 |
@@ -5617,3 +5617,4 @@
 - **Aug 15, 04:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 15, 04:37 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 15, 04:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 15, 04:41 AM** - Space Rock That Punched Through Roof Almost Struck Resident (nyt)
