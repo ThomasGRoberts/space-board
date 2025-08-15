@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 30 | 58 |
 | supercluster | 2 | 2 | 117 | 117 |
-| breaking_defense | 0 | 1 | 30 | 58 |
+| breaking_defense | 0 | 1 | 31 | 59 |
 | spacenews | 0 | 0 | 0 | 10 |
 
 # Shown Order
@@ -5645,3 +5645,4 @@
 - **Aug 15, 06:43 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 15, 06:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 15, 06:47 AM** - James A. Lovell Jr., Commander of Apollo 13, Is Dead at 97 (nyt)
+- **Aug 15, 07:02 AM** - How NATO nations need to sell the 5 percent spending hike to their own people (breaking_defense)
