@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 28 | 56 |
-| supercluster | 2 | 2 | 83 | 83 |
+| supercluster | 2 | 2 | 84 | 84 |
 | breaking_defense | 0 | 1 | 29 | 57 |
 | spacenews | 0 | 0 | 0 | 14 |
 
@@ -5602,3 +5602,4 @@
 - **Aug 15, 03:13 AM** - How to Watch the Perseids, the Strongest Meteor Shower of the Summer (nyt)
 - **Aug 15, 03:27 AM** - Vulcan’s first Space Force launch to carry long-delayed experimental PNT satellite (breaking_defense)
 - **Aug 15, 03:41 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
+- **Aug 15, 03:43 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
