@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 32 | 61 |
-| supercluster | 1 | 2 | 160 | 182 |
+| nyt | 2 | 2 | 32 | 60 |
+| supercluster | 1 | 2 | 159 | 183 |
 | breaking_defense | 0 | 1 | 31 | 61 |
 | spacenews | 0 | 0 | 0 | 3 |
 
@@ -5730,3 +5730,4 @@
 - **Aug 15, 01:41 PM** - How NATO nations need to sell the 5 percent spending hike to their own people (breaking_defense)
 - **Aug 15, 01:55 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Aug 15, 01:57 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
+- **Aug 15, 01:59 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
