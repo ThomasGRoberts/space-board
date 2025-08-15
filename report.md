@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 29 | 55 |
+| nyt | 1 | 1 | 30 | 56 |
 | supercluster | 2 | 2 | 131 | 131 |
 | breaking_defense | 0 | 1 | 30 | 56 |
 | spacenews | 0 | 0 | 0 | 16 |
@@ -5644,3 +5644,4 @@
 - **Aug 15, 12:31 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **Aug 15, 12:33 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **Aug 15, 12:35 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
+- **Aug 15, 12:37 AM** - James A. Lovell Jr., Commander of Apollo 13, Is Dead at 97 (nyt)
