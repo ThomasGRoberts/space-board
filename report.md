@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 28 | 57 |
 | supercluster | 2 | 2 | 89 | 89 |
-| breaking_defense | 0 | 1 | 28 | 57 |
+| breaking_defense | 0 | 1 | 29 | 58 |
 | spacenews | 0 | 0 | 0 | 13 |
 
 # Shown Order
@@ -5609,3 +5609,4 @@
 - **Aug 15, 03:51 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Aug 15, 03:53 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Aug 15, 03:55 AM** - James A. Lovell Jr., Commander of Apollo 13, Is Dead at 97 (nyt)
+- **Aug 15, 04:09 AM** - How industry is lining up for big Golden Dome business (breaking_defense)
