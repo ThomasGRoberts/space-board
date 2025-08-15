@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 31 | 61 |
+| nyt | 2 | 2 | 32 | 62 |
 | breaking_defense | 2 | 2 | 31 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 98 | 98 |
@@ -5661,3 +5661,4 @@
 - **Aug 15, 07:45 PM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Aug 15, 07:47 PM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Aug 15, 07:49 PM** - China Will Launch Long March 4C Rocket (supercluster)
+- **Aug 15, 07:51 PM** - Astronaut James Lovell, Commander of Apollo 13, Dies at 97 (nyt)
