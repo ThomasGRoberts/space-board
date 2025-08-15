@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 31 | 60 |
 | supercluster | 2 | 2 | 145 | 145 |
-| breaking_defense | 0 | 1 | 29 | 59 |
+| breaking_defense | 0 | 1 | 30 | 60 |
 | spacenews | 0 | 0 | 0 | 7 |
 
 # Shown Order
@@ -5682,3 +5682,4 @@
 - **Aug 15, 09:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 15, 09:51 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 15, 09:53 AM** - Elon Musk’s SpaceX Most Likely Doesn’t Pay Taxes (nyt)
+- **Aug 15, 10:07 AM** - How industry is lining up for big Golden Dome business (breaking_defense)
