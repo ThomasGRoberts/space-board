@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 29 | 56 |
-| supercluster | 2 | 2 | 133 | 133 |
+| supercluster | 2 | 2 | 134 | 134 |
 | breaking_defense | 0 | 1 | 30 | 57 |
 | spacenews | 0 | 0 | 0 | 16 |
 
@@ -5648,3 +5648,4 @@
 - **Aug 15, 12:51 AM** - Rocket Lab buys GEOST, further expanding defense footprint (breaking_defense)
 - **Aug 15, 01:05 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **Aug 15, 01:07 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
+- **Aug 15, 01:09 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
