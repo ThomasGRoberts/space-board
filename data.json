@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-15T00:00:56.344450+00:00",
-    "trigger_count": 6,
-    "current_item_id": "aff3401dfd11fbc6b2f37056accb402f",
+    "trigger_count": 0,
+    "current_item_id": "963f32dc44aef88b0253d5d4e13171a9",
     "data": [
         {
             "id": "1d41e41e37d816710c261bd2769a01c3",
@@ -11172,6 +11172,18 @@
                 "2025-08-15T18:47:45.698576Z",
                 "2025-08-15T18:49:35.541637Z",
                 "2025-08-15T18:51:36.319826Z"
+            ]
+        },
+        {
+            "id": "963f32dc44aef88b0253d5d4e13171a9",
+            "source": "breaking_defense",
+            "text": "Northrop Grumman says first DARC test validates radar tracking capability",
+            "source_link": "https://breakingdefense.com/2025/08/northrop-grumman-says-first-darc-test-validates-radar-tracking-capability/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-15T19:23:46.374681Z",
+            "shown_at": [
+                "2025-08-15T19:23:47.412166Z"
             ]
         }
     ]
