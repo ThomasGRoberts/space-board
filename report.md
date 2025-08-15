@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 32 | 60 |
 | supercluster | 1 | 2 | 161 | 187 |
-| breaking_defense | 0 | 1 | 31 | 61 |
+| breaking_defense | 1 | 2 | 32 | 62 |
 | spacenews | 0 | 0 | 0 | 3 |
 
 # Shown Order
@@ -5735,3 +5735,4 @@
 - **Aug 15, 02:03 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Aug 15, 02:05 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Aug 15, 02:07 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
+- **Aug 15, 02:09 PM** - Mining for DOGE: Defense budget docs show $11B in ‘efficiencies,’ but what are they? (breaking_defense)

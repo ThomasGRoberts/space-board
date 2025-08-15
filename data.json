@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-15T00:00:56.344450+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1b51759bd910f8feff496d0a375975ef",
+    "trigger_count": 0,
+    "current_item_id": "37bc92b6887d5526b5eee48d3525e9e8",
     "data": [
         {
             "id": "1d41e41e37d816710c261bd2769a01c3",
@@ -11243,6 +11243,18 @@
             "shown_at": [
                 "2025-08-15T09:11:46.705359Z",
                 "2025-08-15T09:53:45.370665Z"
+            ]
+        },
+        {
+            "id": "37bc92b6887d5526b5eee48d3525e9e8",
+            "source": "breaking_defense",
+            "text": "Mining for DOGE: Defense budget docs show $11B in ‘efficiencies,’ but what are they?",
+            "source_link": "https://breakingdefense.com/2025/08/mining-for-doge-defense-budget-docs-show-11b-in-efficiencies-but-what-are-they/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-15T14:09:32.720540Z",
+            "shown_at": [
+                "2025-08-15T14:09:33.555280Z"
             ]
         }
     ]
