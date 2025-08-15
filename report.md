@@ -5,7 +5,7 @@
 | nyt | 2 | 2 | 31 | 61 |
 | breaking_defense | 2 | 2 | 32 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 98 | 98 |
+| supercluster | 2 | 2 | 99 | 99 |
 
 # Shown Order
 
@@ -5663,3 +5663,4 @@
 - **Aug 15, 07:49 PM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Aug 15, 07:51 PM** - Astronaut James Lovell, Commander of Apollo 13, Dies at 97 (nyt)
 - **Aug 15, 08:07 PM** - Vulcan’s first Space Force launch to carry long-delayed experimental PNT satellite (breaking_defense)
+- **Aug 15, 08:21 PM** - China Will Launch Long March 4C Rocket (supercluster)
