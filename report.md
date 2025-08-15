@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 28 | 56 |
-| supercluster | 2 | 2 | 69 | 69 |
+| supercluster | 2 | 2 | 70 | 70 |
 | breaking_defense | 0 | 1 | 29 | 57 |
 | spacenews | 0 | 0 | 0 | 15 |
 
@@ -5584,3 +5584,4 @@
 - **Aug 15, 12:37 AM** - James A. Lovell Jr., Commander of Apollo 13, Is Dead at 97 (nyt)
 - **Aug 15, 12:51 AM** - Rocket Lab buys GEOST, further expanding defense footprint (breaking_defense)
 - **Aug 15, 02:16 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
+- **Aug 15, 02:17 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
