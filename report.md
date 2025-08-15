@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 32 | 61 |
-| supercluster | 1 | 2 | 163 | 189 |
+| supercluster | 1 | 2 | 164 | 190 |
 | breaking_defense | 1 | 2 | 31 | 61 |
-| spacenews | 0 | 0 | 0 | 3 |
+| spacenews | 0 | 0 | 0 | 2 |
 
 # Shown Order
 
@@ -5739,3 +5739,4 @@
 - **Aug 15, 02:23 PM** - Elon Musk’s SpaceX Most Likely Doesn’t Pay Taxes (nyt)
 - **Aug 15, 02:38 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 15, 02:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 15, 02:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
