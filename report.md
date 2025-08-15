@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 31 | 61 |
-| breaking_defense | 1 | 1 | 31 | 62 |
+| nyt | 2 | 2 | 32 | 62 |
+| breaking_defense | 1 | 1 | 31 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 91 | 91 |
 
@@ -5652,3 +5652,4 @@
 - **Aug 15, 06:49 PM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Aug 15, 06:51 PM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Aug 15, 06:53 PM** - Vulcan’s first Space Force launch to carry long-delayed experimental PNT satellite (breaking_defense)
+- **Aug 15, 07:09 PM** - Space Rock That Punched Through Roof Almost Struck Resident (nyt)
