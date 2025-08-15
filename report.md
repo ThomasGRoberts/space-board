@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 29 | 55 |
-| supercluster | 2 | 2 | 126 | 126 |
+| supercluster | 2 | 2 | 127 | 127 |
 | breaking_defense | 0 | 1 | 30 | 57 |
 | spacenews | 0 | 0 | 0 | 16 |
 
@@ -5639,3 +5639,4 @@
 - **Aug 15, 12:09 AM** - Vulcan’s first Space Force launch to carry long-delayed experimental PNT satellite (breaking_defense)
 - **Aug 15, 12:23 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **Aug 15, 12:25 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
+- **Aug 15, 12:27 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
