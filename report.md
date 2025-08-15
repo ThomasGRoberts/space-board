@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 2 | 31 | 61 |
-| breaking_defense | 2 | 2 | 31 | 62 |
+| nyt | 1 | 2 | 32 | 62 |
+| breaking_defense | 2 | 2 | 31 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 119 | 119 |
 
@@ -5688,3 +5688,4 @@
 - **Aug 15, 09:57 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Aug 15, 09:59 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Aug 15, 10:02 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
+- **Aug 15, 10:03 PM** - Space Rock That Punched Through Roof Almost Struck Resident (nyt)
