@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 31 | 59 |
 | supercluster | 2 | 2 | 138 | 138 |
-| breaking_defense | 0 | 1 | 29 | 59 |
+| breaking_defense | 0 | 1 | 30 | 59 |
 | spacenews | 0 | 0 | 0 | 8 |
 
 # Shown Order
@@ -5673,3 +5673,4 @@
 - **Aug 15, 08:55 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Aug 15, 08:57 AM** - Space Rock That Punched Through Roof Almost Struck Resident (nyt)
 - **Aug 15, 09:11 AM** - Elon Musk’s SpaceX Most Likely Doesn’t Pay Taxes (nyt)
+- **Aug 15, 09:25 AM** - How NATO nations need to sell the 5 percent spending hike to their own people (breaking_defense)
