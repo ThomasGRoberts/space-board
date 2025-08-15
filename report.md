@@ -5,7 +5,7 @@
 | nyt | 2 | 2 | 32 | 62 |
 | breaking_defense | 1 | 1 | 31 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 70 | 70 |
+| supercluster | 2 | 2 | 71 | 71 |
 
 # Shown Order
 
@@ -5626,3 +5626,4 @@
 - **Aug 15, 04:33 PM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Aug 15, 04:35 PM** - Rocket Lab buys GEOST, further expanding defense footprint (breaking_defense)
 - **Aug 15, 04:53 PM** - Space Rock That Punched Through Roof Almost Struck Resident (nyt)
+- **Aug 15, 05:09 PM** - China Will Launch Long March 4C Rocket (supercluster)
