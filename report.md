@@ -5,7 +5,7 @@
 | nyt | 2 | 2 | 31 | 61 |
 | breaking_defense | 1 | 2 | 32 | 62 |
 | spacenews | 0 | 0 | 0 | 1 |
-| supercluster | 1 | 1 | 56 | 56 |
+| supercluster | 1 | 1 | 57 | 57 |
 
 # Shown Order
 
@@ -5609,3 +5609,4 @@
 - **Aug 15, 02:53 PM** - How NATO nations need to sell the 5 percent spending hike to their own people (breaking_defense)
 - **Aug 15, 03:09 PM** - How to Watch the Perseids, the Strongest Meteor Shower of the Summer (nyt)
 - **Aug 15, 03:37 PM** - Vulcan’s first Space Force launch to carry long-delayed experimental PNT satellite (breaking_defense)
+- **Aug 15, 03:51 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
