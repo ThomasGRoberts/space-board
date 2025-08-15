@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 32 | 60 |
 | supercluster | 2 | 2 | 159 | 159 |
-| breaking_defense | 0 | 1 | 30 | 59 |
+| breaking_defense | 0 | 1 | 31 | 60 |
 | spacenews | 0 | 0 | 0 | 6 |
 
 # Shown Order
@@ -5700,3 +5700,4 @@
 - **Aug 15, 11:13 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 15, 11:15 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 15, 11:17 AM** - Space Rock That Punched Through Roof Almost Struck Resident (nyt)
+- **Aug 15, 11:31 AM** - How industry is lining up for big Golden Dome business (breaking_defense)
