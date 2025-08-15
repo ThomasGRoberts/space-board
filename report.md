@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 32 | 60 |
-| supercluster | 1 | 2 | 160 | 161 |
+| supercluster | 1 | 2 | 160 | 162 |
 | breaking_defense | 0 | 1 | 31 | 60 |
 | spacenews | 0 | 0 | 0 | 6 |
 
@@ -5703,3 +5703,4 @@
 - **Aug 15, 11:31 AM** - How industry is lining up for big Golden Dome business (breaking_defense)
 - **Aug 15, 11:45 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Aug 15, 11:47 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
+- **Aug 15, 11:49 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
