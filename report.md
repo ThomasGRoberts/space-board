@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 31 | 60 |
+| nyt | 2 | 2 | 32 | 61 |
 | supercluster | 1 | 2 | 161 | 187 |
 | breaking_defense | 1 | 2 | 32 | 61 |
 | spacenews | 0 | 0 | 0 | 3 |
@@ -5736,3 +5736,4 @@
 - **Aug 15, 02:05 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Aug 15, 02:07 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Aug 15, 02:09 PM** - Mining for DOGE: Defense budget docs show $11B in ‘efficiencies,’ but what are they? (breaking_defense)
+- **Aug 15, 02:23 PM** - Elon Musk’s SpaceX Most Likely Doesn’t Pay Taxes (nyt)
