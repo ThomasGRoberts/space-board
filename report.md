@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 32 | 61 |
 | supercluster | 1 | 2 | 168 | 201 |
-| breaking_defense | 1 | 2 | 31 | 61 |
+| breaking_defense | 1 | 2 | 32 | 62 |
 | spacenews | 0 | 0 | 0 | 2 |
 
 # Shown Order
@@ -5753,3 +5753,4 @@
 - **Aug 15, 03:32 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 15, 03:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 15, 03:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 15, 03:37 PM** - Vulcan’s first Space Force launch to carry long-delayed experimental PNT satellite (breaking_defense)
