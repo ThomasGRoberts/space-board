@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 28 | 56 |
-| supercluster | 2 | 2 | 91 | 91 |
-| breaking_defense | 0 | 1 | 29 | 58 |
+| supercluster | 2 | 2 | 92 | 92 |
+| breaking_defense | 0 | 1 | 28 | 58 |
 | spacenews | 0 | 0 | 0 | 13 |
 
 # Shown Order
@@ -5612,3 +5612,4 @@
 - **Aug 15, 04:09 AM** - How industry is lining up for big Golden Dome business (breaking_defense)
 - **Aug 15, 04:25 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 15, 04:27 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 15, 04:29 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
