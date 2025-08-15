@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 30 | 58 |
 | supercluster | 2 | 2 | 131 | 131 |
-| breaking_defense | 0 | 1 | 30 | 58 |
+| breaking_defense | 0 | 1 | 31 | 59 |
 | spacenews | 0 | 0 | 0 | 9 |
 
 # Shown Order
@@ -5663,3 +5663,4 @@
 - **Aug 15, 08:09 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 15, 08:12 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 15, 08:15 AM** - How to Watch the Perseids, the Strongest Meteor Shower of the Summer (nyt)
+- **Aug 15, 08:29 AM** - Rocket Lab buys GEOST, further expanding defense footprint (breaking_defense)
