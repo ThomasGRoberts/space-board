@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 31 | 60 |
-| supercluster | 2 | 2 | 153 | 153 |
+| supercluster | 2 | 2 | 154 | 154 |
 | breaking_defense | 0 | 1 | 30 | 60 |
 | spacenews | 0 | 0 | 0 | 6 |
 
@@ -5693,3 +5693,4 @@
 - **Aug 15, 10:35 AM** - Space Rock That Punched Through Roof Almost Struck Resident (nyt)
 - **Aug 15, 10:49 AM** - How NATO nations need to sell the 5 percent spending hike to their own people (breaking_defense)
 - **Aug 15, 11:03 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 15, 11:05 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
