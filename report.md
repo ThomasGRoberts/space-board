@@ -5,7 +5,7 @@
 | nyt | 1 | 2 | 31 | 61 |
 | breaking_defense | 2 | 2 | 32 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 120 | 120 |
+| supercluster | 2 | 2 | 121 | 121 |
 
 # Shown Order
 
@@ -5691,3 +5691,4 @@
 - **Aug 15, 10:03 PM** - Space Rock That Punched Through Roof Almost Struck Resident (nyt)
 - **Aug 15, 10:18 PM** - Mining for DOGE: Defense budget docs show $11B in ‘efficiencies,’ but what are they? (breaking_defense)
 - **Aug 15, 10:31 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
+- **Aug 15, 10:33 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
