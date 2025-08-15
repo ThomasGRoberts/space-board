@@ -5,7 +5,7 @@
 | nyt | 1 | 2 | 31 | 61 |
 | breaking_defense | 2 | 2 | 32 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 126 | 126 |
+| supercluster | 2 | 2 | 127 | 127 |
 
 # Shown Order
 
@@ -5699,3 +5699,4 @@
 - **Aug 15, 10:43 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Aug 15, 10:46 PM** - How to Watch the Perseids, the Strongest Meteor Shower of the Summer (nyt)
 - **Aug 15, 11:02 PM** - Vulcan’s first Space Force launch to carry long-delayed experimental PNT satellite (breaking_defense)
+- **Aug 15, 11:15 PM** - China Will Launch Long March 4C Rocket (supercluster)
