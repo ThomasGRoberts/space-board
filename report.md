@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 31 | 61 |
-| breaking_defense | 1 | 2 | 32 | 62 |
+| breaking_defense | 1 | 1 | 32 | 61 |
 | spacenews | 0 | 0 | 0 | 1 |
-| supercluster | 1 | 1 | 58 | 58 |
+| supercluster | 1 | 1 | 59 | 59 |
 
 # Shown Order
 
@@ -5611,3 +5611,4 @@
 - **Aug 15, 03:37 PM** - Vulcan’s first Space Force launch to carry long-delayed experimental PNT satellite (breaking_defense)
 - **Aug 15, 03:51 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Aug 15, 03:53 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
+- **Aug 15, 03:55 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
