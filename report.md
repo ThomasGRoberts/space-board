@@ -5583,4 +5583,4 @@
 - **Aug 15, 12:09 AM** - Vulcan’s first Space Force launch to carry long-delayed experimental PNT satellite (breaking_defense)
 - **Aug 15, 12:37 AM** - James A. Lovell Jr., Commander of Apollo 13, Is Dead at 97 (nyt)
 - **Aug 15, 12:51 AM** - Rocket Lab buys GEOST, further expanding defense footprint (breaking_defense)
-- **Aug 15, 02:03 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
+- **Aug 15, 02:05 AM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
