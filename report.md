@@ -5,7 +5,7 @@
 | nyt | 2 | 2 | 31 | 61 |
 | breaking_defense | 2 | 2 | 32 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 107 | 107 |
+| supercluster | 2 | 2 | 108 | 108 |
 
 # Shown Order
 
@@ -5674,3 +5674,4 @@
 - **Aug 15, 08:49 PM** - Rocket Lab buys GEOST, further expanding defense footprint (breaking_defense)
 - **Aug 15, 09:05 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Aug 15, 09:07 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
+- **Aug 15, 09:10 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
