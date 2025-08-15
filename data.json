@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-15T00:00:56.344450+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b7459c04e55b4105394c323745e57875",
+    "trigger_count": 0,
+    "current_item_id": "1b51759bd910f8feff496d0a375975ef",
     "data": [
         {
             "id": "1d41e41e37d816710c261bd2769a01c3",
@@ -11070,17 +11070,17 @@
             ]
         },
         {
-            "id": "b7459c04e55b4105394c323745e57875",
+            "id": "1b51759bd910f8feff496d0a375975ef",
             "source": "supercluster",
-            "text": "China Will Launch the ZhuQue-2 Rocket",
-            "source_link": "https://www.supercluster.com/launches/zhuque-2j",
+            "text": "China Will Launch the Kinetica 1 Rocket",
+            "source_link": "https://www.supercluster.com/launches/kinetica-1j",
             "shown": true,
             "type": "launch",
-            "target_datetime": "2025-08-15T01:15:37.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-08-15T02:13:35.485017Z",
+            "target_datetime": "2025-08-16T07:35:00.000Z",
+            "time_remaining": "1d 05h 18m",
+            "fetched_datetime": "2025-08-15T02:16:00.381435Z",
             "shown_at": [
-                "2025-08-15T02:13:36.097930Z"
+                "2025-08-15T02:16:01.152061Z"
             ]
         }
     ]
