@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 32 | 61 |
 | supercluster | 1 | 2 | 161 | 173 |
-| breaking_defense | 0 | 1 | 30 | 60 |
+| breaking_defense | 0 | 1 | 31 | 61 |
 | spacenews | 0 | 0 | 0 | 4 |
 
 # Shown Order
@@ -5718,3 +5718,4 @@
 - **Aug 15, 12:39 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Aug 15, 12:41 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Aug 15, 12:43 PM** - Possible Planet Spotted Around Alpha Centauri A by NASA’s James Webb Telescope (nyt)
+- **Aug 15, 12:57 PM** - How industry is lining up for big Golden Dome business (breaking_defense)
