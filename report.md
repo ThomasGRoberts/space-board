@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 29 | 57 |
 | supercluster | 2 | 2 | 103 | 103 |
-| breaking_defense | 0 | 1 | 29 | 57 |
+| breaking_defense | 0 | 1 | 30 | 58 |
 | spacenews | 0 | 0 | 0 | 12 |
 
 # Shown Order
@@ -5627,3 +5627,4 @@
 - **Aug 15, 05:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 15, 05:21 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 15, 05:23 AM** - Study Finds Planet Around Trappist-1 Star Shows No Signs of Life (nyt)
+- **Aug 15, 05:37 AM** - How industry is lining up for big Golden Dome business (breaking_defense)
