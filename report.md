@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 32 | 62 |
-| breaking_defense | 2 | 2 | 31 | 61 |
+| nyt | 2 | 2 | 32 | 61 |
+| breaking_defense | 2 | 2 | 32 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 105 | 105 |
 
@@ -5671,3 +5671,4 @@
 - **Aug 15, 08:31 PM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Aug 15, 08:33 PM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Aug 15, 08:35 PM** - Study Finds Planet Around Trappist-1 Star Shows No Signs of Life (nyt)
+- **Aug 15, 08:49 PM** - Rocket Lab buys GEOST, further expanding defense footprint (breaking_defense)
