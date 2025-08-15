@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 30 | 56 |
 | supercluster | 2 | 2 | 124 | 124 |
-| breaking_defense | 0 | 1 | 30 | 56 |
+| breaking_defense | 0 | 1 | 30 | 57 |
 | spacenews | 0 | 0 | 0 | 16 |
 
 # Shown Order
@@ -5636,3 +5636,4 @@
 - **Aug 14, 11:49 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **Aug 14, 11:51 PM** - China Will Launch the ZhuQue-2 Rocket (supercluster)
 - **Aug 14, 11:53 PM** - Space Rock That Punched Through Roof Almost Struck Resident (nyt)
+- **Aug 15, 12:09 AM** - Vulcan’s first Space Force launch to carry long-delayed experimental PNT satellite (breaking_defense)
