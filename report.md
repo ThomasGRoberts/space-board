@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 33 | 63 |
-| supercluster | 1 | 2 | 191 | 205 |
+| supercluster | 1 | 2 | 192 | 206 |
 | nyt | 1 | 2 | 33 | 63 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -5771,3 +5771,4 @@
 - **Aug 16, 06:53 AM** - How NATO nations need to sell the 5 percent spending hike to their own people (breaking_defense)
 - **Aug 16, 07:07 AM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Aug 16, 07:09 AM** - China Will Launch Long March 4C Rocket (supercluster)
+- **Aug 16, 07:11 AM** - China Will Launch Long March 4C Rocket (supercluster)
