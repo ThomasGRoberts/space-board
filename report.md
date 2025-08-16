@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 31 | 62 |
-| supercluster | 0 | 1 | 167 | 188 |
-| nyt | 0 | 2 | 31 | 62 |
+| supercluster | 0 | 1 | 168 | 189 |
+| nyt | 0 | 2 | 30 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -5780,3 +5780,4 @@
 - **Aug 16, 05:53 PM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Aug 16, 05:55 PM** - Study Finds Planet Around Trappist-1 Star Shows No Signs of Life (nyt)
 - **Aug 16, 06:09 PM** - Northrop Grumman says first DARC test validates radar tracking capability (breaking_defense)
+- **Aug 16, 06:23 PM** - China Will Launch Long March 4C Rocket (supercluster)
