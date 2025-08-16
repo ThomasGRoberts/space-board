@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 33 | 62 |
 | supercluster | 1 | 2 | 175 | 189 |
-| nyt | 1 | 2 | 33 | 61 |
+| nyt | 1 | 2 | 34 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -5749,3 +5749,4 @@
 - **Aug 16, 05:05 AM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Aug 16, 05:07 AM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Aug 16, 05:09 AM** - China Will Launch Long March 4C Rocket (supercluster)
+- **Aug 16, 05:11 AM** - Elon Musk’s SpaceX Most Likely Doesn’t Pay Taxes (nyt)
