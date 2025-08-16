@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 33 | 62 |
-| supercluster | 2 | 2 | 154 | 154 |
+| supercluster | 2 | 2 | 155 | 155 |
 | nyt | 1 | 2 | 33 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -5706,3 +5706,4 @@
 - **Aug 16, 01:37 AM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Aug 16, 01:39 AM** - How to Watch the Perseids, the Strongest Meteor Shower of the Summer (nyt)
 - **Aug 16, 01:53 AM** - Northrop Grumman says first DARC test validates radar tracking capability (breaking_defense)
+- **Aug 16, 02:07 AM** - China Will Launch Long March 4C Rocket (supercluster)
