@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 2 | 33 | 64 |
-| supercluster | 1 | 1 | 113 | 113 |
+| breaking_defense | 2 | 2 | 33 | 63 |
+| supercluster | 1 | 1 | 114 | 114 |
 | nyt | 1 | 2 | 33 | 63 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -5683,3 +5683,4 @@
 - **Aug 16, 08:09 AM** - Space Rock That Punched Through Roof Almost Struck Resident (nyt)
 - **Aug 16, 08:23 AM** - Northrop Grumman says first DARC test validates radar tracking capability (breaking_defense)
 - **Aug 16, 08:37 AM** - China Will Launch Long March 4C Rocket (supercluster)
+- **Aug 16, 08:39 AM** - China Will Launch Long March 4C Rocket (supercluster)
