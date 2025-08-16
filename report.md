@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 33 | 64 |
-| supercluster | 1 | 1 | 141 | 141 |
+| supercluster | 1 | 1 | 142 | 142 |
 | nyt | 0 | 2 | 32 | 64 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -5719,3 +5719,4 @@
 - **Aug 16, 11:07 AM** - Study Finds Planet Around Trappist-1 Star Shows No Signs of Life (nyt)
 - **Aug 16, 11:24 AM** - How NATO nations need to sell the 5 percent spending hike to their own people (breaking_defense)
 - **Aug 16, 11:37 AM** - China Will Launch Long March 4C Rocket (supercluster)
+- **Aug 16, 11:39 AM** - China Will Launch Long March 4C Rocket (supercluster)
