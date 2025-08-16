@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 31 | 62 |
-| supercluster | 0 | 1 | 169 | 197 |
-| nyt | 0 | 2 | 31 | 62 |
+| supercluster | 0 | 1 | 170 | 198 |
+| nyt | 0 | 2 | 30 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -5791,3 +5791,4 @@
 - **Aug 16, 06:51 PM** - Rocket Lab buys GEOST, further expanding defense footprint (breaking_defense)
 - **Aug 16, 07:07 PM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Aug 16, 07:09 PM** - China Will Launch Long March 4C Rocket (supercluster)
+- **Aug 16, 07:11 PM** - China Will Launch Long March 4C Rocket (supercluster)
