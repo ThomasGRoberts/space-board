@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 32 | 62 |
-| supercluster | 2 | 2 | 141 | 141 |
+| supercluster | 2 | 2 | 142 | 142 |
 | nyt | 1 | 2 | 31 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -5689,3 +5689,4 @@
 - **Aug 16, 12:15 AM** - Space Rock That Punched Through Roof Almost Struck Resident (nyt)
 - **Aug 16, 12:29 AM** - Rocket Lab buys GEOST, further expanding defense footprint (breaking_defense)
 - **Aug 16, 12:43 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
+- **Aug 16, 12:45 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
