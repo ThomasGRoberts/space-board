@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 31 | 61 |
 | supercluster | 2 | 2 | 147 | 147 |
-| nyt | 1 | 2 | 31 | 61 |
+| nyt | 1 | 2 | 32 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -5695,3 +5695,4 @@
 - **Aug 16, 12:51 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Aug 16, 12:53 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Aug 16, 12:55 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
+- **Aug 16, 12:57 AM** - How to Watch the Perseids, the Strongest Meteor Shower of the Summer (nyt)
