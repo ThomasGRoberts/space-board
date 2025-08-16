@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 2 | 31 | 62 |
-| supercluster | 0 | 1 | 168 | 210 |
+| supercluster | 0 | 1 | 169 | 211 |
 | nyt | 0 | 2 | 30 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -5808,3 +5808,4 @@
 - **Aug 16, 08:07 PM** - Study Finds Planet Around Trappist-1 Star Shows No Signs of Life (nyt)
 - **Aug 16, 08:21 PM** - Mining for DOGE: Defense budget docs show $11B in ‘efficiencies,’ but what are they? (breaking_defense)
 - **Aug 16, 08:35 PM** - China Will Launch Long March 4C Rocket (supercluster)
+- **Aug 16, 08:37 PM** - China Will Launch Long March 4C Rocket (supercluster)
