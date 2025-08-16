@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 2 | 31 | 62 |
-| supercluster | 0 | 1 | 182 | 224 |
-| nyt | 0 | 1 | 31 | 62 |
+| supercluster | 0 | 1 | 183 | 225 |
+| nyt | 0 | 1 | 30 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -5826,3 +5826,4 @@
 - **Aug 16, 09:32 PM** - Space Rock That Punched Through Roof Almost Struck Resident (nyt)
 - **Aug 16, 09:47 PM** - Mining for DOGE: Defense budget docs show $11B in ‘efficiencies,’ but what are they? (breaking_defense)
 - **Aug 16, 10:02 PM** - China Will Launch Long March 4C Rocket (supercluster)
+- **Aug 16, 10:05 PM** - China Will Launch Long March 4C Rocket (supercluster)
