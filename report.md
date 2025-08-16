@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 32 | 61 |
 | supercluster | 2 | 2 | 154 | 154 |
-| nyt | 1 | 2 | 32 | 61 |
+| nyt | 1 | 2 | 33 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -5704,3 +5704,4 @@
 - **Aug 16, 01:33 AM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Aug 16, 01:35 AM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Aug 16, 01:37 AM** - China Will Launch Long March 4C Rocket (supercluster)
+- **Aug 16, 01:39 AM** - How to Watch the Perseids, the Strongest Meteor Shower of the Summer (nyt)
