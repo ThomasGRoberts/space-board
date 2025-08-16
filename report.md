@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 31 | 62 |
-| supercluster | 0 | 1 | 169 | 183 |
+| supercluster | 0 | 1 | 170 | 184 |
 | nyt | 0 | 2 | 30 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -5773,3 +5773,4 @@
 - **Aug 16, 05:28 PM** - Northrop Grumman says first DARC test validates radar tracking capability (breaking_defense)
 - **Aug 16, 05:41 PM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Aug 16, 05:43 PM** - China Will Launch Long March 4C Rocket (supercluster)
+- **Aug 16, 05:46 PM** - China Will Launch Long March 4C Rocket (supercluster)
