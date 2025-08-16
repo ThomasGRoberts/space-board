@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 2 | 33 | 61 |
+| breaking_defense | 2 | 2 | 34 | 62 |
 | supercluster | 1 | 2 | 161 | 175 |
-| nyt | 1 | 2 | 33 | 62 |
+| nyt | 1 | 2 | 33 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -5732,3 +5732,4 @@
 - **Aug 16, 03:41 AM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Aug 16, 03:43 AM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Aug 16, 03:45 AM** - Elon Musk’s SpaceX Most Likely Doesn’t Pay Taxes (nyt)
+- **Aug 16, 03:59 AM** - Northrop Grumman says first DARC test validates radar tracking capability (breaking_defense)
