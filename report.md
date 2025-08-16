@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 33 | 63 |
-| supercluster | 1 | 2 | 177 | 191 |
+| supercluster | 1 | 2 | 178 | 192 |
 | nyt | 1 | 2 | 33 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -5753,3 +5753,4 @@
 - **Aug 16, 05:25 AM** - Mining for DOGE: Defense budget docs show $11B in ‘efficiencies,’ but what are they? (breaking_defense)
 - **Aug 16, 05:41 AM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Aug 16, 05:43 AM** - China Will Launch Long March 4C Rocket (supercluster)
+- **Aug 16, 05:45 AM** - China Will Launch Long March 4C Rocket (supercluster)
