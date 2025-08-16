@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 33 | 64 |
-| supercluster | 1 | 2 | 189 | 203 |
+| supercluster | 1 | 2 | 190 | 204 |
 | nyt | 1 | 2 | 33 | 63 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -5769,3 +5769,4 @@
 - **Aug 16, 06:37 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Aug 16, 06:39 AM** - Study Finds Planet Around Trappist-1 Star Shows No Signs of Life (nyt)
 - **Aug 16, 06:53 AM** - How NATO nations need to sell the 5 percent spending hike to their own people (breaking_defense)
+- **Aug 16, 07:07 AM** - China Will Launch Long March 4C Rocket (supercluster)
