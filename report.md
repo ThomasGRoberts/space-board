@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 33 | 62 |
 | supercluster | 1 | 2 | 168 | 182 |
-| nyt | 1 | 2 | 33 | 61 |
+| nyt | 1 | 2 | 34 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -5740,3 +5740,4 @@
 - **Aug 16, 04:21 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Aug 16, 04:23 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Aug 16, 04:25 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
+- **Aug 16, 04:27 AM** - Study Finds Planet Around Trappist-1 Star Shows No Signs of Life (nyt)
