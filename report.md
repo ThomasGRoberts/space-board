@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 2 | 33 | 61 |
+| breaking_defense | 2 | 2 | 34 | 62 |
 | supercluster | 1 | 2 | 168 | 182 |
 | nyt | 1 | 2 | 34 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
@@ -5741,3 +5741,4 @@
 - **Aug 16, 04:23 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Aug 16, 04:25 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Aug 16, 04:27 AM** - Study Finds Planet Around Trappist-1 Star Shows No Signs of Life (nyt)
+- **Aug 16, 04:41 AM** - Northrop Grumman says first DARC test validates radar tracking capability (breaking_defense)
