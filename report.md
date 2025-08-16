@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 2 | 31 | 62 |
+| breaking_defense | 1 | 2 | 32 | 63 |
 | supercluster | 1 | 1 | 167 | 167 |
 | nyt | 0 | 2 | 31 | 63 |
 | spacenews | 0 | 0 | 0 | 0 |
@@ -5752,3 +5752,4 @@
 - **Aug 16, 02:56 PM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Aug 16, 02:57 PM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Aug 16, 03:01 PM** - Space Rock That Punched Through Roof Almost Struck Resident (nyt)
+- **Aug 16, 03:29 PM** - How NATO nations need to sell the 5 percent spending hike to their own people (breaking_defense)
