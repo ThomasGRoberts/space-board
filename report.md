@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 2 | 33 | 63 |
+| breaking_defense | 2 | 2 | 34 | 64 |
 | supercluster | 1 | 1 | 119 | 119 |
 | nyt | 1 | 2 | 33 | 63 |
 | spacenews | 0 | 0 | 0 | 0 |
@@ -5690,3 +5690,4 @@
 - **Aug 16, 08:47 AM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Aug 16, 08:49 AM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Aug 16, 08:51 AM** - Elon Musk’s SpaceX Most Likely Doesn’t Pay Taxes (nyt)
+- **Aug 16, 09:07 AM** - How NATO nations need to sell the 5 percent spending hike to their own people (breaking_defense)
