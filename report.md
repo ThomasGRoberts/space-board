@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 32 | 62 |
-| supercluster | 2 | 2 | 147 | 147 |
+| supercluster | 2 | 2 | 148 | 148 |
 | nyt | 1 | 2 | 32 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -5697,3 +5697,4 @@
 - **Aug 16, 12:55 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Aug 16, 12:57 AM** - How to Watch the Perseids, the Strongest Meteor Shower of the Summer (nyt)
 - **Aug 16, 01:11 AM** - Rocket Lab buys GEOST, further expanding defense footprint (breaking_defense)
+- **Aug 16, 01:25 AM** - China Will Launch Long March 4C Rocket (supercluster)
