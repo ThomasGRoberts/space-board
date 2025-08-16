@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 33 | 62 |
-| supercluster | 1 | 2 | 162 | 176 |
+| supercluster | 1 | 2 | 163 | 177 |
 | nyt | 1 | 2 | 33 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -5734,3 +5734,4 @@
 - **Aug 16, 03:45 AM** - Elon Musk’s SpaceX Most Likely Doesn’t Pay Taxes (nyt)
 - **Aug 16, 03:59 AM** - Northrop Grumman says first DARC test validates radar tracking capability (breaking_defense)
 - **Aug 16, 04:13 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
+- **Aug 16, 04:15 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
