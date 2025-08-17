@@ -5,7 +5,7 @@
 | breaking_defense | 0 | 2 | 29 | 63 |
 | nyt | 0 | 0 | 30 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -5637,3 +5637,4 @@
 - **Aug 17, 10:07 AM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Aug 17, 10:09 AM** - Rocket Lab buys GEOST, further expanding defense footprint (breaking_defense)
 - **Aug 17, 10:23 AM** - Elon Musk’s SpaceX Most Likely Doesn’t Pay Taxes (nyt)
+- **Aug 17, 10:37 AM** - China Will Launch the Long March 6A Rocket (supercluster)
