@@ -5,7 +5,7 @@
 | breaking_defense | 0 | 1 | 31 | 62 |
 | nyt | 0 | 0 | 31 | 63 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 0 | 0 |
 
 # Shown Order
 
@@ -5645,4 +5645,3 @@
 - **Aug 17, 01:13 PM** - Study Finds Planet Around Trappist-1 Star Shows No Signs of Life (nyt)
 - **Aug 17, 01:41 PM** - Rocket Lab buys GEOST, further expanding defense footprint (breaking_defense)
 - **Aug 17, 01:55 PM** - Space Rock That Punched Through Roof Almost Struck Resident (nyt)
-- **Aug 17, 02:15 PM** - China Will Launch the Long March 6A Rocket (supercluster)
