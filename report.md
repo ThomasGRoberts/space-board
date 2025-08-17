@@ -5,7 +5,7 @@
 | breaking_defense | 0 | 1 | 31 | 62 |
 | nyt | 0 | 0 | 31 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 9 | 9 |
+| supercluster | 1 | 1 | 10 | 10 |
 
 # Shown Order
 
@@ -5658,3 +5658,4 @@
 - **Aug 17, 03:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 17, 04:01 PM** - Northrop Grumman says first DARC test validates radar tracking capability (breaking_defense)
 - **Aug 17, 04:15 PM** - Elon Musk’s SpaceX Most Likely Doesn’t Pay Taxes (nyt)
+- **Aug 17, 04:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
