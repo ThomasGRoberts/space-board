@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-17T00:02:05.291656+00:00",
-    "trigger_count": 4,
-    "current_item_id": "fd53316cc3a7f03019564d1dd0cc8bb3",
+    "trigger_count": 5,
+    "current_item_id": "ffaa7870eca5c6ca0634f721fa9b872e",
     "data": [
         {
             "id": "963f32dc44aef88b0253d5d4e13171a9",
@@ -11107,15 +11107,18 @@
             ]
         },
         {
-            "id": "fd53316cc3a7f03019564d1dd0cc8bb3",
+            "id": "ffaa7870eca5c6ca0634f721fa9b872e",
             "source": "supercluster",
-            "text": "China Will Launch Long March 4C Rocket",
-            "source_link": "https://www.supercluster.com/launches/long-march-4clk",
-            "shown": false,
+            "text": "China Will Launch the Long March 6A Rocket",
+            "source_link": "https://www.supercluster.com/launches/long-march-6a1",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-08-17T09:05:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-08-17T10:03:21.980626Z"
+            "target_datetime": "2025-08-17T14:15:00.000Z",
+            "time_remaining": "0d 04h 09m",
+            "fetched_datetime": "2025-08-17T10:05:46.988952Z",
+            "shown_at": [
+                "2025-08-17T10:05:48.544375Z"
+            ]
         }
     ]
 }
