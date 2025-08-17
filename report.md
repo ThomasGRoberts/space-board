@@ -5,7 +5,7 @@
 | breaking_defense | 0 | 1 | 30 | 61 |
 | nyt | 0 | 0 | 30 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -5645,3 +5645,4 @@
 - **Aug 17, 01:13 PM** - Study Finds Planet Around Trappist-1 Star Shows No Signs of Life (nyt)
 - **Aug 17, 01:41 PM** - Rocket Lab buys GEOST, further expanding defense footprint (breaking_defense)
 - **Aug 17, 01:55 PM** - Space Rock That Punched Through Roof Almost Struck Resident (nyt)
+- **Aug 17, 03:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
