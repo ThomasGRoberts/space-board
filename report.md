@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 2 | 29 | 62 |
+| breaking_defense | 0 | 2 | 30 | 63 |
 | nyt | 0 | 0 | 30 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 2 | 2 |
@@ -5635,3 +5635,4 @@
 - **Aug 17, 08:59 AM** - Space Rock That Punched Through Roof Almost Struck Resident (nyt)
 - **Aug 17, 10:05 AM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Aug 17, 10:07 AM** - China Will Launch the Long March 6A Rocket (supercluster)
+- **Aug 17, 10:09 AM** - Rocket Lab buys GEOST, further expanding defense footprint (breaking_defense)
