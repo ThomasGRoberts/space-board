@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 2 | 31 | 62 |
-| supercluster | 0 | 1 | 197 | 253 |
-| nyt | 0 | 1 | 31 | 62 |
+| supercluster | 0 | 1 | 198 | 254 |
+| nyt | 0 | 1 | 30 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -5863,3 +5863,4 @@
 - **Aug 17, 12:39 AM** - Vulcan’s first Space Force launch to carry long-delayed experimental PNT satellite (breaking_defense)
 - **Aug 17, 12:53 AM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Aug 17, 12:55 AM** - China Will Launch Long March 4C Rocket (supercluster)
+- **Aug 17, 12:57 AM** - China Will Launch Long March 4C Rocket (supercluster)
