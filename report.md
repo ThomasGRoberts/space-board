@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 1 | 31 | 62 |
-| nyt | 0 | 0 | 31 | 62 |
+| nyt | 0 | 0 | 32 | 63 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 30 | 30 |
 
@@ -5684,3 +5684,4 @@
 - **Aug 17, 06:03 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 17, 06:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 17, 06:07 PM** - Vulcan’s first Space Force launch to carry long-delayed experimental PNT satellite (breaking_defense)
+- **Aug 17, 06:21 PM** - Elon Musk’s SpaceX Most Likely Doesn’t Pay Taxes (nyt)
