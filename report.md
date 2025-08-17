@@ -5,7 +5,7 @@
 | breaking_defense | 0 | 0 | 31 | 62 |
 | nyt | 0 | 0 | 32 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 45 | 45 |
+| supercluster | 1 | 1 | 46 | 46 |
 
 # Shown Order
 
@@ -5704,3 +5704,4 @@
 - **Aug 17, 07:31 PM** - Vulcan’s first Space Force launch to carry long-delayed experimental PNT satellite (breaking_defense)
 - **Aug 17, 07:47 PM** - Study Finds Planet Around Trappist-1 Star Shows No Signs of Life (nyt)
 - **Aug 17, 08:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 17, 08:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
