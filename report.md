@@ -5,7 +5,7 @@
 | breaking_defense | 0 | 2 | 30 | 63 |
 | nyt | 0 | 0 | 31 | 63 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 30 | 30 |
+| supercluster | 1 | 1 | 31 | 31 |
 
 # Shown Order
 
@@ -5673,3 +5673,4 @@
 - **Aug 17, 12:58 PM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Aug 17, 12:59 PM** - How NATO nations need to sell the 5 percent spending hike to their own people (breaking_defense)
 - **Aug 17, 01:13 PM** - Study Finds Planet Around Trappist-1 Star Shows No Signs of Life (nyt)
+- **Aug 17, 01:27 PM** - China Will Launch the Long March 6A Rocket (supercluster)
