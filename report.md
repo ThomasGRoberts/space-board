@@ -5,7 +5,7 @@
 | breaking_defense | 0 | 0 | 31 | 62 |
 | nyt | 0 | 0 | 32 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 67 | 67 |
+| supercluster | 1 | 1 | 68 | 68 |
 
 # Shown Order
 
@@ -5732,3 +5732,4 @@
 - **Aug 17, 09:55 PM** - Study Finds Planet Around Trappist-1 Star Shows No Signs of Life (nyt)
 - **Aug 17, 10:09 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 17, 10:11 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 17, 10:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
