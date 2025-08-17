@@ -5,7 +5,7 @@
 | breaking_defense | 0 | 0 | 31 | 62 |
 | nyt | 0 | 0 | 32 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 80 | 80 |
+| supercluster | 1 | 1 | 81 | 81 |
 
 # Shown Order
 
@@ -5749,3 +5749,4 @@
 - **Aug 17, 11:05 PM** - Mining for DOGE: Defense budget docs show $11B in ‘efficiencies,’ but what are they? (breaking_defense)
 - **Aug 17, 11:19 PM** - Study Finds Planet Around Trappist-1 Star Shows No Signs of Life (nyt)
 - **Aug 17, 11:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 17, 11:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
