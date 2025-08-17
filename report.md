@@ -5,7 +5,7 @@
 | breaking_defense | 0 | 1 | 31 | 62 |
 | nyt | 0 | 0 | 32 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 38 | 38 |
+| supercluster | 1 | 1 | 39 | 39 |
 
 # Shown Order
 
@@ -5695,3 +5695,4 @@
 - **Aug 17, 06:49 PM** - Northrop Grumman says first DARC test validates radar tracking capability (breaking_defense)
 - **Aug 17, 07:03 PM** - Study Finds Planet Around Trappist-1 Star Shows No Signs of Life (nyt)
 - **Aug 17, 07:17 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 17, 07:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
