@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 2 | 31 | 64 |
 | supercluster | 0 | 1 | 216 | 321 |
-| nyt | 0 | 1 | 30 | 64 |
+| nyt | 0 | 1 | 31 | 64 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -5949,3 +5949,4 @@
 - **Aug 17, 07:27 AM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Aug 17, 07:29 AM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Aug 17, 07:31 AM** - China Will Launch Long March 4C Rocket (supercluster)
+- **Aug 17, 07:33 AM** - Study Finds Planet Around Trappist-1 Star Shows No Signs of Life (nyt)
