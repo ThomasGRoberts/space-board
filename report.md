@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 2 | 30 | 62 |
+| breaking_defense | 0 | 2 | 31 | 63 |
 | supercluster | 0 | 1 | 195 | 251 |
-| nyt | 0 | 1 | 31 | 63 |
+| nyt | 0 | 1 | 31 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -5860,3 +5860,4 @@
 - **Aug 17, 12:21 AM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Aug 17, 12:23 AM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Aug 17, 12:25 AM** - Study Finds Planet Around Trappist-1 Star Shows No Signs of Life (nyt)
+- **Aug 17, 12:39 AM** - Vulcan’s first Space Force launch to carry long-delayed experimental PNT satellite (breaking_defense)
