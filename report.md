@@ -5,7 +5,7 @@
 | breaking_defense | 0 | 2 | 30 | 63 |
 | nyt | 0 | 0 | 31 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 23 | 23 |
+| supercluster | 1 | 1 | 24 | 24 |
 
 # Shown Order
 
@@ -5664,3 +5664,4 @@
 - **Aug 17, 12:15 PM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Aug 17, 12:17 PM** - Rocket Lab buys GEOST, further expanding defense footprint (breaking_defense)
 - **Aug 17, 12:32 PM** - Study Finds Planet Around Trappist-1 Star Shows No Signs of Life (nyt)
+- **Aug 17, 12:45 PM** - China Will Launch the Long March 6A Rocket (supercluster)
