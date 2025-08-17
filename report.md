@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 2 | 31 | 64 |
-| supercluster | 0 | 1 | 213 | 325 |
+| supercluster | 0 | 1 | 214 | 326 |
 | nyt | 0 | 1 | 30 | 64 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -5955,3 +5955,4 @@
 - **Aug 17, 08:05 AM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Aug 17, 08:07 AM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Aug 17, 08:09 AM** - China Will Launch Long March 4C Rocket (supercluster)
+- **Aug 17, 08:11 AM** - China Will Launch Long March 4C Rocket (supercluster)
