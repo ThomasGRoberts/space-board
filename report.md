@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 2 | 31 | 64 |
 | supercluster | 0 | 1 | 216 | 328 |
-| nyt | 0 | 1 | 30 | 63 |
+| nyt | 0 | 1 | 31 | 64 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -5958,3 +5958,4 @@
 - **Aug 17, 08:11 AM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Aug 17, 08:13 AM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Aug 17, 08:15 AM** - China Will Launch Long March 4C Rocket (supercluster)
+- **Aug 17, 08:17 AM** - Space Rock That Punched Through Roof Almost Struck Resident (nyt)
