@@ -5,7 +5,7 @@
 | breaking_defense | 0 | 1 | 31 | 62 |
 | nyt | 0 | 0 | 32 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 31 | 31 |
+| supercluster | 1 | 1 | 32 | 32 |
 
 # Shown Order
 
@@ -5686,3 +5686,4 @@
 - **Aug 17, 06:07 PM** - Vulcan’s first Space Force launch to carry long-delayed experimental PNT satellite (breaking_defense)
 - **Aug 17, 06:21 PM** - Elon Musk’s SpaceX Most Likely Doesn’t Pay Taxes (nyt)
 - **Aug 17, 06:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 17, 06:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
