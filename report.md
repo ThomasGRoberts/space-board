@@ -5,7 +5,7 @@
 | breaking_defense | 0 | 1 | 30 | 61 |
 | nyt | 0 | 0 | 31 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 3 | 3 |
+| supercluster | 1 | 1 | 4 | 4 |
 
 # Shown Order
 
@@ -5650,3 +5650,4 @@
 - **Aug 17, 03:19 PM** - How NATO nations need to sell the 5 percent spending hike to their own people (breaking_defense)
 - **Aug 17, 03:33 PM** - Study Finds Planet Around Trappist-1 Star Shows No Signs of Life (nyt)
 - **Aug 17, 03:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 17, 03:49 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
