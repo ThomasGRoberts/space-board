@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 1 | 31 | 62 |
+| breaking_defense | 0 | 1 | 32 | 63 |
 | nyt | 0 | 0 | 31 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 37 | 37 |
@@ -5692,3 +5692,4 @@
 - **Aug 17, 06:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 17, 06:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 17, 06:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 17, 06:49 PM** - Northrop Grumman says first DARC test validates radar tracking capability (breaking_defense)
