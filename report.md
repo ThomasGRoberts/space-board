@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 2 | 30 | 63 |
+| breaking_defense | 0 | 2 | 31 | 64 |
 | supercluster | 0 | 1 | 202 | 286 |
 | nyt | 0 | 1 | 31 | 64 |
 | spacenews | 0 | 0 | 0 | 0 |
@@ -5905,3 +5905,4 @@
 - **Aug 17, 03:55 AM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Aug 17, 03:57 AM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Aug 17, 03:59 AM** - Elon Musk’s SpaceX Most Likely Doesn’t Pay Taxes (nyt)
+- **Aug 17, 04:13 AM** - Mining for DOGE: Defense budget docs show $11B in ‘efficiencies,’ but what are they? (breaking_defense)
