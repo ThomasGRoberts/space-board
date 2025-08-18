@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 184 | 184 |
 | breaking_defense | 0 | 0 | 33 | 62 |
-| nyt | 0 | 0 | 32 | 62 |
+| nyt | 0 | 0 | 33 | 63 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -5882,3 +5882,4 @@
 - **Aug 18, 09:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 18, 09:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 18, 09:49 AM** - Mining for DOGE: Defense budget docs show $11B in ‘efficiencies,’ but what are they? (breaking_defense)
+- **Aug 18, 10:03 AM** - Space Rock That Punched Through Roof Almost Struck Resident (nyt)
