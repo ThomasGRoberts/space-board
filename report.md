@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 32 | 63 |
-| nyt | 0 | 0 | 31 | 63 |
+| nyt | 0 | 0 | 32 | 64 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 21 | 21 |
 
@@ -5741,3 +5741,4 @@
 - **Aug 18, 07:02 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Aug 18, 07:05 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Aug 18, 07:07 PM** - Vulcan’s first Space Force launch to carry long-delayed experimental PNT satellite (breaking_defense)
+- **Aug 18, 07:21 PM** - Space Rock That Punched Through Roof Almost Struck Resident (nyt)
