@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 1 | 31 | 62 |
 | nyt | 0 | 0 | 32 | 63 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 30 | 30 |
+| supercluster | 1 | 1 | 31 | 31 |
 
 # Shown Order
 
@@ -5753,3 +5753,4 @@
 - **Aug 18, 08:07 PM** - Elon Musk’s SpaceX Most Likely Doesn’t Pay Taxes (nyt)
 - **Aug 18, 08:22 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Aug 18, 08:25 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
+- **Aug 18, 08:27 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
