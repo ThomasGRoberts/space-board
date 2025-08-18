@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 114 | 114 |
 | breaking_defense | 0 | 0 | 31 | 62 |
-| nyt | 0 | 0 | 31 | 62 |
+| nyt | 0 | 0 | 32 | 63 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -5792,3 +5792,4 @@
 - **Aug 18, 02:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 18, 02:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 18, 02:43 AM** - Northrop Grumman says first DARC test validates radar tracking capability (breaking_defense)
+- **Aug 18, 02:59 AM** - Space Rock That Punched Through Roof Almost Struck Resident (nyt)
