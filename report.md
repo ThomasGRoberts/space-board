@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 163 | 163 |
-| breaking_defense | 0 | 0 | 31 | 61 |
+| breaking_defense | 0 | 0 | 32 | 62 |
 | nyt | 0 | 0 | 31 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -5854,3 +5854,4 @@
 - **Aug 18, 07:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 18, 07:37 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 18, 07:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 18, 07:41 AM** - Mining for DOGE: Defense budget docs show $11B in ‘efficiencies,’ but what are they? (breaking_defense)
