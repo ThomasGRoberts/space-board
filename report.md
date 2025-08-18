@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 135 | 135 |
 | breaking_defense | 0 | 0 | 31 | 62 |
-| nyt | 0 | 0 | 31 | 62 |
+| nyt | 0 | 0 | 32 | 63 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -5819,3 +5819,4 @@
 - **Aug 18, 04:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 18, 04:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 18, 04:51 AM** - Rocket Lab buys GEOST, further expanding defense footprint (breaking_defense)
+- **Aug 18, 05:05 AM** - Space Rock That Punched Through Roof Almost Struck Resident (nyt)
