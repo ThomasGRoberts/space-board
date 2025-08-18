@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 32 | 63 |
-| nyt | 0 | 0 | 31 | 63 |
+| nyt | 0 | 0 | 32 | 63 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 35 | 35 |
 
@@ -5759,3 +5759,4 @@
 - **Aug 18, 08:33 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Aug 18, 08:35 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Aug 18, 08:37 PM** - Vulcan’s first Space Force launch to carry long-delayed experimental PNT satellite (breaking_defense)
+- **Aug 18, 08:51 PM** - Elon Musk’s SpaceX Most Likely Doesn’t Pay Taxes (nyt)
