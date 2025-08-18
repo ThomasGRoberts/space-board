@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 94 | 94 |
+| supercluster | 1 | 1 | 95 | 95 |
 | breaking_defense | 0 | 0 | 31 | 62 |
 | nyt | 0 | 0 | 32 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
@@ -5767,3 +5767,4 @@
 - **Aug 18, 12:34 AM** - Mining for DOGE: Defense budget docs show $11B in ‘efficiencies,’ but what are they? (breaking_defense)
 - **Aug 18, 12:47 AM** - Elon Musk’s SpaceX Most Likely Doesn’t Pay Taxes (nyt)
 - **Aug 18, 01:02 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 18, 01:05 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
