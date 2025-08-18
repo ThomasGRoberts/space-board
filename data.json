@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-18T00:02:05.913040+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1b51759bd910f8feff496d0a375975ef",
+    "trigger_count": 0,
+    "current_item_id": "cc7542594944cce52f4fd4c7f05fdeb5",
     "data": [
         {
             "id": "963f32dc44aef88b0253d5d4e13171a9",
@@ -11206,6 +11206,18 @@
                 "2025-08-18T17:35:45.390272Z",
                 "2025-08-18T17:37:51.165068Z",
                 "2025-08-18T17:39:44.577805Z"
+            ]
+        },
+        {
+            "id": "cc7542594944cce52f4fd4c7f05fdeb5",
+            "source": "breaking_defense",
+            "text": "The Army must accelerate counterspace investments",
+            "source_link": "https://breakingdefense.com/2025/08/the-army-must-accelerate-counterspace-investments/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-18T17:41:38.496077Z",
+            "shown_at": [
+                "2025-08-18T17:41:38.997519Z"
             ]
         }
     ]
