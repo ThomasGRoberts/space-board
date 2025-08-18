@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 157 | 157 |
+| supercluster | 1 | 1 | 158 | 158 |
 | breaking_defense | 0 | 0 | 31 | 62 |
 | nyt | 0 | 0 | 32 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
@@ -5848,3 +5848,4 @@
 - **Aug 18, 06:59 AM** - Mining for DOGE: Defense budget docs show $11B in ‘efficiencies,’ but what are they? (breaking_defense)
 - **Aug 18, 07:13 AM** - Space Rock That Punched Through Roof Almost Struck Resident (nyt)
 - **Aug 18, 07:27 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 18, 07:29 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
