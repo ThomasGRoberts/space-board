@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 121 | 121 |
 | breaking_defense | 0 | 0 | 31 | 62 |
-| nyt | 0 | 0 | 31 | 62 |
+| nyt | 0 | 0 | 32 | 63 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -5801,3 +5801,4 @@
 - **Aug 18, 03:23 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 18, 03:25 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 18, 03:27 AM** - Mining for DOGE: Defense budget docs show $11B in ‘efficiencies,’ but what are they? (breaking_defense)
+- **Aug 18, 03:41 AM** - Elon Musk’s SpaceX Most Likely Doesn’t Pay Taxes (nyt)
