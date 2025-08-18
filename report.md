@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 128 | 128 |
 | breaking_defense | 0 | 0 | 31 | 62 |
-| nyt | 0 | 0 | 31 | 62 |
+| nyt | 0 | 0 | 32 | 63 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -5810,3 +5810,4 @@
 - **Aug 18, 04:05 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 18, 04:07 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 18, 04:09 AM** - Rocket Lab buys GEOST, further expanding defense footprint (breaking_defense)
+- **Aug 18, 04:23 AM** - Study Finds Planet Around Trappist-1 Star Shows No Signs of Life (nyt)
