@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 1 | 31 | 62 |
 | nyt | 0 | 0 | 31 | 63 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 62 | 62 |
+| supercluster | 1 | 1 | 63 | 63 |
 
 # Shown Order
 
@@ -5793,3 +5793,4 @@
 - **Aug 18, 11:27 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Aug 18, 11:29 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Aug 18, 11:32 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
+- **Aug 18, 11:35 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
