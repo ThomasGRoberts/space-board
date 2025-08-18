@@ -5715,4 +5715,4 @@
 - **Aug 18, 03:02 PM** - Study Finds Planet Around Trappist-1 Star Shows No Signs of Life (nyt)
 - **Aug 18, 03:29 PM** - Rocket Lab buys GEOST, further expanding defense footprint (breaking_defense)
 - **Aug 18, 03:43 PM** - Space Rock That Punched Through Roof Almost Struck Resident (nyt)
-- **Aug 18, 04:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 18, 04:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
