@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 0 | 1 | 238 | 240 |
-| breaking_defense | 0 | 0 | 33 | 64 |
+| breaking_defense | 0 | 0 | 34 | 65 |
 | nyt | 0 | 0 | 34 | 64 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -5953,3 +5953,4 @@
 - **Aug 18, 03:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 18, 03:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 18, 03:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 18, 03:29 PM** - Rocket Lab buys GEOST, further expanding defense footprint (breaking_defense)
