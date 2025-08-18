@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 205 | 205 |
+| supercluster | 1 | 1 | 206 | 206 |
 | breaking_defense | 0 | 0 | 32 | 62 |
 | nyt | 0 | 0 | 33 | 63 |
 | spacenews | 0 | 0 | 0 | 0 |
@@ -5910,3 +5910,4 @@
 - **Aug 18, 11:53 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 18, 11:56 AM** - How NATO nations need to sell the 5 percent spending hike to their own people (breaking_defense)
 - **Aug 18, 12:11 PM** - Elon Musk’s SpaceX Most Likely Doesn’t Pay Taxes (nyt)
+- **Aug 18, 12:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
