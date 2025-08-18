@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 170 | 170 |
 | breaking_defense | 0 | 0 | 31 | 62 |
-| nyt | 0 | 0 | 31 | 62 |
+| nyt | 0 | 0 | 32 | 63 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -5864,3 +5864,4 @@
 - **Aug 18, 08:21 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 18, 08:23 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 18, 08:25 AM** - How NATO nations need to sell the 5 percent spending hike to their own people (breaking_defense)
+- **Aug 18, 08:39 AM** - Space Rock That Punched Through Roof Almost Struck Resident (nyt)
