@@ -5751,4 +5751,4 @@
 - **Aug 19, 06:33 AM** - Elon Musk’s SpaceX Most Likely Doesn’t Pay Taxes (nyt)
 - **Aug 19, 07:02 AM** - Rocket Lab buys GEOST, further expanding defense footprint (breaking_defense)
 - **Aug 19, 07:15 AM** - Elon Musk’s SpaceX Most Likely Doesn’t Pay Taxes (nyt)
-- **Aug 19, 07:39 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
+- **Aug 19, 07:41 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
