@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 1 | 30 | 62 |
+| breaking_defense | 0 | 1 | 31 | 62 |
 | nyt | 0 | 0 | 30 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 94 | 94 |
@@ -5871,3 +5871,4 @@
 - **Aug 19, 05:59 PM** - Russia Will Launch Biological Research Mission (supercluster)
 - **Aug 19, 06:02 PM** - Russia Will Launch Biological Research Mission (supercluster)
 - **Aug 19, 06:05 PM** - Russia Will Launch Biological Research Mission (supercluster)
+- **Aug 19, 06:07 PM** - Mining for DOGE: Defense budget docs show $11B in ‘efficiencies,’ but what are they? (breaking_defense)
