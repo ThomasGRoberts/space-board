@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-19T00:01:36.943481+00:00",
-    "trigger_count": 3,
-    "current_item_id": "1b51759bd910f8feff496d0a375975ef",
+    "trigger_count": 4,
+    "current_item_id": "8654d9f48ef54485041b6dc54fc6cda9",
     "data": [
         {
             "id": "cc7542594944cce52f4fd4c7f05fdeb5",
@@ -11236,17 +11236,17 @@
             ]
         },
         {
-            "id": "1b51759bd910f8feff496d0a375975ef",
+            "id": "8654d9f48ef54485041b6dc54fc6cda9",
             "source": "supercluster",
-            "text": "China Will Launch the Kinetica 1 Rocket",
-            "source_link": "https://www.supercluster.com/launches/kinetica-1j",
+            "text": "Russia Will Launch Biological Research Mission",
+            "source_link": "https://www.supercluster.com/launches/bion-m-no-2",
             "shown": true,
             "type": "launch",
-            "target_datetime": "2025-08-19T07:35:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-08-19T08:32:22.665549Z",
+            "target_datetime": "2025-08-20T17:13:00.000Z",
+            "time_remaining": "1d 08h 37m",
+            "fetched_datetime": "2025-08-19T08:35:45.485518Z",
             "shown_at": [
-                "2025-08-19T08:32:23.997200Z"
+                "2025-08-19T08:35:46.148994Z"
             ]
         }
     ]
