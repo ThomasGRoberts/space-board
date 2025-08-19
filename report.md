@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 30 | 61 |
 | supercluster | 1 | 1 | 98 | 98 |
-| nyt | 0 | 0 | 30 | 61 |
+| nyt | 0 | 0 | 31 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -5840,3 +5840,4 @@
 - **Aug 19, 04:05 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Aug 19, 04:07 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Aug 19, 04:09 AM** - Vulcan’s first Space Force launch to carry long-delayed experimental PNT satellite (breaking_defense)
+- **Aug 19, 04:23 AM** - Study Finds Planet Around Trappist-1 Star Shows No Signs of Life (nyt)
