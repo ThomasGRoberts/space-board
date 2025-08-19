@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 30 | 61 |
-| supercluster | 1 | 1 | 126 | 126 |
+| supercluster | 1 | 1 | 127 | 127 |
 | nyt | 0 | 0 | 30 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -5877,3 +5877,4 @@
 - **Aug 19, 06:59 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Aug 19, 07:02 AM** - Rocket Lab buys GEOST, further expanding defense footprint (breaking_defense)
 - **Aug 19, 07:15 AM** - Elon Musk’s SpaceX Most Likely Doesn’t Pay Taxes (nyt)
+- **Aug 19, 07:29 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
