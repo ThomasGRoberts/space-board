@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 1 | 28 | 59 |
 | nyt | 0 | 0 | 29 | 60 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -5753,3 +5753,4 @@
 - **Aug 19, 07:15 AM** - Elon Musk’s SpaceX Most Likely Doesn’t Pay Taxes (nyt)
 - **Aug 19, 08:35 AM** - Russia Will Launch Biological Research Mission (supercluster)
 - **Aug 19, 08:37 AM** - Russia Will Launch Biological Research Mission (supercluster)
+- **Aug 19, 08:39 AM** - Russia Will Launch Biological Research Mission (supercluster)
