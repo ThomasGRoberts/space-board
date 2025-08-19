@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 1 | 28 | 61 |
 | nyt | 0 | 0 | 29 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 54 | 54 |
+| supercluster | 1 | 1 | 55 | 55 |
 
 # Shown Order
 
@@ -5821,3 +5821,4 @@
 - **Aug 19, 01:57 PM** - Study Finds Planet Around Trappist-1 Star Shows No Signs of Life (nyt)
 - **Aug 19, 02:13 PM** - Russia Will Launch Biological Research Mission (supercluster)
 - **Aug 19, 02:15 PM** - Russia Will Launch Biological Research Mission (supercluster)
+- **Aug 19, 02:17 PM** - Russia Will Launch Biological Research Mission (supercluster)
