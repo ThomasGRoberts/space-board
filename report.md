@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 1 | 28 | 62 |
 | nyt | 0 | 0 | 29 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 66 | 66 |
+| supercluster | 1 | 1 | 67 | 67 |
 
 # Shown Order
 
@@ -5837,3 +5837,4 @@
 - **Aug 19, 03:11 PM** - Russia Will Launch Biological Research Mission (supercluster)
 - **Aug 19, 03:13 PM** - Northrop Grumman says first DARC test validates radar tracking capability (breaking_defense)
 - **Aug 19, 03:27 PM** - Study Finds Planet Around Trappist-1 Star Shows No Signs of Life (nyt)
+- **Aug 19, 03:42 PM** - Russia Will Launch Biological Research Mission (supercluster)
