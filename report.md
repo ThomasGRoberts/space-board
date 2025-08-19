@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 1 | 30 | 61 |
+| breaking_defense | 1 | 1 | 30 | 62 |
 | supercluster | 1 | 1 | 105 | 105 |
 | nyt | 0 | 0 | 30 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
@@ -5848,3 +5848,4 @@
 - **Aug 19, 04:47 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Aug 19, 04:49 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Aug 19, 04:51 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
+- **Aug 19, 04:53 AM** - Northrop Grumman says first DARC test validates radar tracking capability (breaking_defense)
