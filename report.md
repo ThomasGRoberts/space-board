@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 29 | 61 |
-| nyt | 0 | 0 | 28 | 61 |
+| nyt | 0 | 0 | 29 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 38 | 38 |
 
@@ -5800,3 +5800,4 @@
 - **Aug 19, 12:13 PM** - Russia Will Launch Biological Research Mission (supercluster)
 - **Aug 19, 12:15 PM** - Russia Will Launch Biological Research Mission (supercluster)
 - **Aug 19, 12:17 PM** - Rocket Lab buys GEOST, further expanding defense footprint (breaking_defense)
+- **Aug 19, 12:32 PM** - Elon Musk’s SpaceX Most Likely Doesn’t Pay Taxes (nyt)
