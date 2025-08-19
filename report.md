@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 2 | 31 | 63 |
+| breaking_defense | 1 | 2 | 31 | 62 |
 | nyt | 0 | 0 | 30 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 101 | 101 |
+| supercluster | 1 | 1 | 102 | 102 |
 
 # Shown Order
 
@@ -5883,3 +5883,4 @@
 - **Aug 19, 06:49 PM** - Northrop Grumman says first DARC test validates radar tracking capability (breaking_defense)
 - **Aug 19, 07:03 PM** - 2025 Schriever space wargame last to be planned unilaterally by US (breaking_defense)
 - **Aug 19, 07:17 PM** - Elon Musk’s SpaceX Most Likely Doesn’t Pay Taxes (nyt)
+- **Aug 19, 07:32 PM** - Russia Will Launch Biological Research Mission (supercluster)
