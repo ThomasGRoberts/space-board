@@ -5,7 +5,7 @@
 | breaking_defense | 0 | 1 | 30 | 62 |
 | nyt | 0 | 0 | 31 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 88 | 88 |
+| supercluster | 1 | 1 | 89 | 89 |
 
 # Shown Order
 
@@ -5865,3 +5865,4 @@
 - **Aug 19, 05:23 PM** - How NATO nations need to sell the 5 percent spending hike to their own people (breaking_defense)
 - **Aug 19, 05:37 PM** - Study Finds Planet Around Trappist-1 Star Shows No Signs of Life (nyt)
 - **Aug 19, 05:51 PM** - Russia Will Launch Biological Research Mission (supercluster)
+- **Aug 19, 05:53 PM** - Russia Will Launch Biological Research Mission (supercluster)
