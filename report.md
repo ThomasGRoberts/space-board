@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 31 | 63 |
-| nyt | 0 | 0 | 30 | 61 |
+| nyt | 0 | 0 | 31 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 129 | 129 |
 
@@ -5918,3 +5918,4 @@
 - **Aug 19, 09:55 PM** - Russia Will Launch Biological Research Mission (supercluster)
 - **Aug 19, 09:57 PM** - Russia Will Launch Biological Research Mission (supercluster)
 - **Aug 19, 09:59 PM** - The Army must accelerate counterspace investments (breaking_defense)
+- **Aug 19, 10:13 PM** - Elon Musk’s SpaceX Most Likely Doesn’t Pay Taxes (nyt)
