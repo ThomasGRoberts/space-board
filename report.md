@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 30 | 62 |
-| nyt | 0 | 0 | 29 | 62 |
+| nyt | 0 | 0 | 30 | 63 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 80 | 80 |
 
@@ -5854,3 +5854,4 @@
 - **Aug 19, 04:35 PM** - Russia Will Launch Biological Research Mission (supercluster)
 - **Aug 19, 04:37 PM** - Russia Will Launch Biological Research Mission (supercluster)
 - **Aug 19, 04:39 PM** - Mining for DOGE: Defense budget docs show $11B in ‘efficiencies,’ but what are they? (breaking_defense)
+- **Aug 19, 04:53 PM** - Elon Musk’s SpaceX Most Likely Doesn’t Pay Taxes (nyt)
