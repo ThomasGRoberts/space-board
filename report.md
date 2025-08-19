@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 30 | 61 |
-| supercluster | 1 | 1 | 84 | 84 |
+| supercluster | 1 | 1 | 85 | 85 |
 | nyt | 0 | 0 | 30 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -5823,3 +5823,4 @@
 - **Aug 19, 02:41 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Aug 19, 02:43 AM** - Rocket Lab buys GEOST, further expanding defense footprint (breaking_defense)
 - **Aug 19, 02:57 AM** - Study Finds Planet Around Trappist-1 Star Shows No Signs of Life (nyt)
+- **Aug 19, 03:11 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
