@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 31 | 63 |
-| nyt | 0 | 0 | 30 | 61 |
+| nyt | 0 | 0 | 31 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 108 | 108 |
 
@@ -5891,3 +5891,4 @@
 - **Aug 19, 07:41 PM** - Russia Will Launch Biological Research Mission (supercluster)
 - **Aug 19, 07:43 PM** - Russia Will Launch Biological Research Mission (supercluster)
 - **Aug 19, 07:45 PM** - How NATO nations need to sell the 5 percent spending hike to their own people (breaking_defense)
+- **Aug 19, 07:59 PM** - Elon Musk’s SpaceX Most Likely Doesn’t Pay Taxes (nyt)
