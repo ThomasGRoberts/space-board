@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 30 | 61 |
 | supercluster | 1 | 1 | 105 | 105 |
-| nyt | 0 | 0 | 30 | 61 |
+| nyt | 0 | 0 | 30 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -5849,3 +5849,4 @@
 - **Aug 19, 04:49 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Aug 19, 04:51 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Aug 19, 04:53 AM** - Northrop Grumman says first DARC test validates radar tracking capability (breaking_defense)
+- **Aug 19, 05:07 AM** - Elon Musk’s SpaceX Most Likely Doesn’t Pay Taxes (nyt)
