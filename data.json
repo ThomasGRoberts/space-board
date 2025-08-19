@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-19T00:01:36.943481+00:00",
-    "trigger_count": 6,
-    "current_item_id": "963f32dc44aef88b0253d5d4e13171a9",
+    "trigger_count": 0,
+    "current_item_id": "d728c49739cc22a840d0c0efa9733d0c",
     "data": [
         {
             "id": "cc7542594944cce52f4fd4c7f05fdeb5",
@@ -11376,6 +11376,18 @@
                 "2025-08-19T18:43:28.401000Z",
                 "2025-08-19T18:45:47.944135Z",
                 "2025-08-19T18:47:33.125225Z"
+            ]
+        },
+        {
+            "id": "d728c49739cc22a840d0c0efa9733d0c",
+            "source": "breaking_defense",
+            "text": "2025 Schriever space wargame last to be planned unilaterally by US",
+            "source_link": "https://breakingdefense.com/2025/08/2025-schriever-space-wargame-last-to-be-planned-unilaterally-by-us/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-19T19:03:53.888599Z",
+            "shown_at": [
+                "2025-08-19T19:03:54.671412Z"
             ]
         }
     ]

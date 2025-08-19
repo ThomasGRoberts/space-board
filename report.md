@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 1 | 31 | 62 |
-| nyt | 0 | 0 | 30 | 62 |
+| breaking_defense | 1 | 2 | 32 | 63 |
+| nyt | 0 | 0 | 30 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 101 | 101 |
 
@@ -5881,3 +5881,4 @@
 - **Aug 19, 06:45 PM** - Russia Will Launch Biological Research Mission (supercluster)
 - **Aug 19, 06:47 PM** - Russia Will Launch Biological Research Mission (supercluster)
 - **Aug 19, 06:49 PM** - Northrop Grumman says first DARC test validates radar tracking capability (breaking_defense)
+- **Aug 19, 07:03 PM** - 2025 Schriever space wargame last to be planned unilaterally by US (breaking_defense)
