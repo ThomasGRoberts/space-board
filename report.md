@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 29 | 62 |
-| nyt | 0 | 0 | 28 | 61 |
+| nyt | 0 | 0 | 29 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 59 | 59 |
 
@@ -5827,3 +5827,4 @@
 - **Aug 19, 02:23 PM** - Russia Will Launch Biological Research Mission (supercluster)
 - **Aug 19, 02:25 PM** - Russia Will Launch Biological Research Mission (supercluster)
 - **Aug 19, 02:27 PM** - Vulcan’s first Space Force launch to carry long-delayed experimental PNT satellite (breaking_defense)
+- **Aug 19, 02:43 PM** - Elon Musk’s SpaceX Most Likely Doesn’t Pay Taxes (nyt)
