@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 29 | 61 |
-| nyt | 0 | 0 | 28 | 60 |
+| nyt | 0 | 0 | 29 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 10 | 10 |
 
@@ -5764,3 +5764,4 @@
 - **Aug 19, 09:19 AM** - Russia Will Launch Biological Research Mission (supercluster)
 - **Aug 19, 09:21 AM** - Russia Will Launch Biological Research Mission (supercluster)
 - **Aug 19, 09:23 AM** - Northrop Grumman says first DARC test validates radar tracking capability (breaking_defense)
+- **Aug 19, 09:37 AM** - Elon Musk’s SpaceX Most Likely Doesn’t Pay Taxes (nyt)
