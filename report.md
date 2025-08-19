@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 1 | 28 | 61 |
 | nyt | 0 | 0 | 29 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 32 | 32 |
+| supercluster | 1 | 1 | 33 | 33 |
 
 # Shown Order
 
@@ -5793,3 +5793,4 @@
 - **Aug 19, 11:33 AM** - The Army must accelerate counterspace investments (breaking_defense)
 - **Aug 19, 11:47 AM** - Study Finds Planet Around Trappist-1 Star Shows No Signs of Life (nyt)
 - **Aug 19, 12:02 PM** - Russia Will Launch Biological Research Mission (supercluster)
+- **Aug 19, 12:05 PM** - Russia Will Launch Biological Research Mission (supercluster)
