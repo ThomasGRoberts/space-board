@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 1 | 30 | 62 |
+| breaking_defense | 1 | 1 | 31 | 63 |
 | nyt | 0 | 0 | 30 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 87 | 87 |
@@ -5862,3 +5862,4 @@
 - **Aug 19, 05:17 PM** - Russia Will Launch Biological Research Mission (supercluster)
 - **Aug 19, 05:19 PM** - Russia Will Launch Biological Research Mission (supercluster)
 - **Aug 19, 05:21 PM** - Russia Will Launch Biological Research Mission (supercluster)
+- **Aug 19, 05:23 PM** - How NATO nations need to sell the 5 percent spending hike to their own people (breaking_defense)
