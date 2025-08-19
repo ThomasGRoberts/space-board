@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 31 | 62 |
-| nyt | 0 | 0 | 30 | 62 |
+| nyt | 1 | 1 | 31 | 63 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 136 | 136 |
 
@@ -5928,3 +5928,4 @@
 - **Aug 19, 10:39 PM** - Russia Will Launch Biological Research Mission (supercluster)
 - **Aug 19, 10:41 PM** - Mining for DOGE: Defense budget docs show $11B in ‘efficiencies,’ but what are they? (breaking_defense)
 - **Aug 19, 10:55 PM** - Elon Musk’s SpaceX Most Likely Doesn’t Pay Taxes (nyt)
+- **Aug 19, 11:09 PM** - Origami Bloom Patterns Could Help Build Folding Structures in Space (nyt)

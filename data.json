@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-19T00:01:36.943481+00:00",
-    "trigger_count": 6,
-    "current_item_id": "30d6fb7cb20c54e60f85cf84d3bb1884",
+    "trigger_count": 0,
+    "current_item_id": "1508608cb360eb39e4aced99e0ba518a",
     "data": [
         {
             "id": "cc7542594944cce52f4fd4c7f05fdeb5",
@@ -11434,6 +11434,18 @@
             "shown_at": [
                 "2025-08-19T19:03:54.671412Z",
                 "2025-08-19T20:27:41.436644Z"
+            ]
+        },
+        {
+            "id": "1508608cb360eb39e4aced99e0ba518a",
+            "source": "nyt",
+            "text": "Origami Bloom Patterns Could Help Build Folding Structures in Space",
+            "source_link": "https://www.nytimes.com/2025/08/19/science/origami-bloom-patterns.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-19T23:09:41.453211Z",
+            "shown_at": [
+                "2025-08-19T23:09:42.096183Z"
             ]
         }
     ]
