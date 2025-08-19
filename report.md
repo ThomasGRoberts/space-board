@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 2 | 31 | 63 |
 | nyt | 0 | 0 | 30 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 116 | 116 |
+| supercluster | 1 | 1 | 117 | 117 |
 
 # Shown Order
 
@@ -5902,3 +5902,4 @@
 - **Aug 19, 08:27 PM** - 2025 Schriever space wargame last to be planned unilaterally by US (breaking_defense)
 - **Aug 19, 08:41 PM** - Study Finds Planet Around Trappist-1 Star Shows No Signs of Life (nyt)
 - **Aug 19, 08:55 PM** - Russia Will Launch Biological Research Mission (supercluster)
+- **Aug 19, 08:57 PM** - Russia Will Launch Biological Research Mission (supercluster)
