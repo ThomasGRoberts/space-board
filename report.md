@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 1 | 32 | 63 |
+| breaking_defense | 1 | 1 | 31 | 63 |
 | supercluster | 1 | 1 | 70 | 70 |
-| nyt | 0 | 0 | 31 | 62 |
+| nyt | 0 | 0 | 32 | 63 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -5804,3 +5804,4 @@
 - **Aug 19, 12:17 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Aug 19, 12:19 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Aug 19, 12:21 AM** - The Army must accelerate counterspace investments (breaking_defense)
+- **Aug 19, 12:35 AM** - Study Finds Planet Around Trappist-1 Star Shows No Signs of Life (nyt)
