@@ -5,7 +5,7 @@
 | nyt | 2 | 3 | 30 | 61 |
 | breaking_defense | 0 | 1 | 29 | 60 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 49 | 49 |
+| supercluster | 1 | 1 | 50 | 50 |
 
 # Shown Order
 
@@ -5894,3 +5894,4 @@
 - **Aug 20, 11:12 PM** - Northrop Grumman says first DARC test validates radar tracking capability (breaking_defense)
 - **Aug 20, 11:25 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Aug 20, 11:27 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
+- **Aug 20, 11:29 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
