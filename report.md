@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 31 | 62 |
+| nyt | 1 | 1 | 32 | 63 |
 | breaking_defense | 1 | 2 | 31 | 63 |
 | supercluster | 1 | 1 | 150 | 150 |
 | spacenews | 0 | 0 | 0 | 0 |
@@ -5939,3 +5939,4 @@
 - **Aug 20, 12:15 AM** - Russia Will Launch Biological Research Mission (supercluster)
 - **Aug 20, 12:17 AM** - Russia Will Launch Biological Research Mission (supercluster)
 - **Aug 20, 12:19 AM** - The Army must accelerate counterspace investments (breaking_defense)
+- **Aug 20, 12:33 AM** - Origami Bloom Patterns Could Help Build Folding Structures in Space (nyt)
