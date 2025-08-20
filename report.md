@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 32 | 60 |
-| breaking_defense | 1 | 2 | 31 | 59 |
-| supercluster | 0 | 1 | 211 | 276 |
+| nyt | 3 | 3 | 33 | 61 |
+| breaking_defense | 1 | 2 | 30 | 59 |
+| supercluster | 0 | 1 | 210 | 276 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -6101,3 +6101,4 @@
 - **Aug 20, 03:05 PM** - Russia Will Launch Biological Research Mission (supercluster)
 - **Aug 20, 03:08 PM** - Russia Will Launch Biological Research Mission (supercluster)
 - **Aug 20, 03:11 PM** - Russia Will Launch Biological Research Mission (supercluster)
+- **Aug 20, 03:13 PM** - Onionlike Space Explosion May Be a New Type of Supernova (nyt)
