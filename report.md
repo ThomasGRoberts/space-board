@@ -2,19 +2,16 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 2 | 31 | 62 |
 | nyt | 1 | 1 | 31 | 63 |
-| spacenews | 0 | 0 | 0 | 0 |
+| breaking_defense | 1 | 2 | 31 | 62 |
 | supercluster | 1 | 1 | 143 | 143 |
+| spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
 
-- **May 26, 11:19 AM** - Chinese commercial company lands contract to build provincial satellite constellation (spacenews)
-- **May 26, 01:05 PM** - Mission-ready communications: enhancing defense capabilities with multi-orbit, multi-network systems (spacenews)
 - **May 26, 11:39 PM** - Sonic Detectives Want to Help SpaceX Listen Up (nyt)
 - **May 27, 12:37 AM** - Sonic Detectives Want to Help SpaceX Listen Up (nyt)
 - **May 27, 06:57 AM** - Sonic Detectives Want to Help SpaceX Listen Up (nyt)
-- **May 27, 10:07 AM** - Mission-ready communications: enhancing defense capabilities with multi-orbit, multi-network systems (spacenews)
 - **May 27, 11:45 AM** - Empyreum, Italy’s new satellite platform for the constellation era (spacenews)
 - **May 27, 01:25 PM** - EnduroSat raises $49 million to mass produce larger satellites (spacenews)
 - **May 27, 02:51 PM** - Sonic Detectives Want to Help SpaceX Listen Up (nyt)
@@ -41,7 +38,6 @@
 - **May 28, 12:33 PM** - Air Force Research Laboratory Awards Moog Contract to Develop New Multimode Propulsion System to Enhance Dynamic Space Operations (spacenews)
 - **May 28, 01:01 PM** - Overcoming conservatism in the autonomous space revolution (spacenews)
 - **May 28, 03:12 PM** - China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
-- **May 28, 03:32 PM** - Mission-ready communications: enhancing defense capabilities with multi-orbit, multi-network systems (spacenews)
 - **May 28, 03:59 PM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
 - **May 28, 04:14 PM** - Manhattanhenge Is Back for 2025: When, Where and How to Watch (nyt)
 - **May 28, 04:27 PM** - Air Force Research Laboratory Awards Moog Contract to Develop New Multimode Propulsion System to Enhance Dynamic Space Operations (spacenews)
@@ -84,7 +80,6 @@
 - **May 29, 02:45 PM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
 - **May 29, 02:59 PM** - ExoTerra delivers 21 propulsion modules for SDA satellites (spacenews)
 - **May 29, 03:13 PM** - Sonic Detectives Want to Help SpaceX Listen Up (nyt)
-- **May 29, 03:55 PM** - Chinese commercial company lands contract to build provincial satellite constellation (spacenews)
 - **May 29, 04:40 PM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
 - **May 29, 04:53 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **May 29, 05:07 PM** - Chinese launch startup conducts vertical takeoff and splashdown test (spacenews)
@@ -276,7 +271,6 @@
 - **Jun 01, 03:11 PM** - China’s Astronstone raises early funding for stainless steel rocket with “chopstick” recovery (spacenews)
 - **Jun 01, 03:25 PM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
 - **Jun 01, 03:53 PM** - SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth (nyt)
-- **Jun 01, 04:07 PM** - Chinese commercial company lands contract to build provincial satellite constellation (spacenews)
 - **Jun 01, 04:21 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **Jun 01, 04:49 PM** - New Likely Dwarf Planet Discovered in Remote Region of Solar System (nyt)
 - **Jun 01, 05:03 PM** - Rocket Lab to acquire satellite payload manufacturer Geost for $275 million (spacenews)
@@ -331,7 +325,6 @@
 - **Jun 02, 09:59 AM** - ExoTerra delivers 21 propulsion modules for SDA satellites (spacenews)
 - **Jun 02, 10:27 AM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
 - **Jun 02, 10:41 AM** - Manhattanhenge Is Back for 2025: When, Where and How to Watch (nyt)
-- **Jun 02, 10:55 AM** - Mission-ready communications: enhancing defense capabilities with multi-orbit, multi-network systems (spacenews)
 - **Jun 02, 11:23 AM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **Jun 02, 11:37 AM** - Trump to Withdraw Musk’s Ally as Nominee for Top NASA Job (nyt)
 - **Jun 02, 11:53 AM** - Frontgrade Technologies and VORAGO Announce Strategic Collaboration to Advance Space Computing Solutions for Autonomous Applications (spacenews)
