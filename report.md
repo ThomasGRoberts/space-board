@@ -5,7 +5,7 @@
 | nyt | 3 | 3 | 31 | 61 |
 | breaking_defense | 0 | 1 | 28 | 60 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 14 | 14 |
+| supercluster | 1 | 1 | 15 | 15 |
 
 # Shown Order
 
@@ -5849,3 +5849,4 @@
 - **Aug 20, 07:25 PM** - 2025 Schriever space wargame last to be planned unilaterally by US (breaking_defense)
 - **Aug 20, 07:42 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Aug 20, 07:45 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
+- **Aug 20, 07:47 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
