@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-20T00:00:02.044389+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1508608cb360eb39e4aced99e0ba518a",
+    "trigger_count": 0,
+    "current_item_id": "41632643bd30f0af81cdb2e875441cf3",
     "data": [
         {
             "id": "1508608cb360eb39e4aced99e0ba518a",
@@ -11579,6 +11579,18 @@
                 "2025-05-31T06:09:35.220266Z",
                 "2025-05-31T19:19:36.550856Z",
                 "2025-06-01T08:13:45.559850Z"
+            ]
+        },
+        {
+            "id": "41632643bd30f0af81cdb2e875441cf3",
+            "source": "nyt",
+            "text": "Newly Discovered Moon Around Uranus Was Hiding Outside Its Rings",
+            "source_link": "https://www.nytimes.com/2025/08/20/science/uranus-new-moon.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-20T13:59:49.687718Z",
+            "shown_at": [
+                "2025-08-20T13:59:50.376820Z"
             ]
         }
     ]
