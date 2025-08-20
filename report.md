@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 3 | 30 | 61 |
-| breaking_defense | 1 | 1 | 29 | 60 |
+| nyt | 3 | 3 | 31 | 62 |
+| breaking_defense | 1 | 1 | 29 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 5 | 5 |
 
@@ -5836,3 +5836,4 @@
 - **Aug 20, 06:18 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Aug 20, 06:21 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Aug 20, 06:23 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
+- **Aug 20, 06:25 PM** - Elon Musk’s SpaceX Most Likely Doesn’t Pay Taxes (nyt)
