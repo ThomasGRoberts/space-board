@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 32 | 62 |
+| nyt | 1 | 1 | 33 | 63 |
 | breaking_defense | 1 | 2 | 33 | 63 |
 | supercluster | 1 | 1 | 171 | 171 |
 | spacenews | 0 | 0 | 0 | 0 |
@@ -5966,3 +5966,4 @@
 - **Aug 20, 02:23 AM** - Russia Will Launch Biological Research Mission (supercluster)
 - **Aug 20, 02:25 AM** - Russia Will Launch Biological Research Mission (supercluster)
 - **Aug 20, 02:27 AM** - Mining for DOGE: Defense budget docs show $11B in ‘efficiencies,’ but what are they? (breaking_defense)
+- **Aug 20, 02:42 AM** - Study Finds Planet Around Trappist-1 Star Shows No Signs of Life (nyt)
