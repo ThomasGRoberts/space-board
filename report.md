@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 32 | 61 |
 | breaking_defense | 1 | 2 | 31 | 59 |
-| supercluster | 0 | 1 | 209 | 263 |
+| supercluster | 0 | 1 | 209 | 264 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -6086,3 +6086,4 @@
 - **Aug 20, 01:45 PM** - Origami Bloom Patterns Could Help Build Folding Structures in Space (nyt)
 - **Aug 20, 01:59 PM** - Newly Discovered Moon Around Uranus Was Hiding Outside Its Rings (nyt)
 - **Aug 20, 02:15 PM** - Russia Will Launch Biological Research Mission (supercluster)
+- **Aug 20, 02:17 PM** - Russia Will Launch Biological Research Mission (supercluster)
