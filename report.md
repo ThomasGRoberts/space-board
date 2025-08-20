@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 33 | 63 |
+| nyt | 1 | 1 | 33 | 62 |
 | breaking_defense | 1 | 2 | 32 | 62 |
-| supercluster | 1 | 1 | 200 | 200 |
+| supercluster | 1 | 1 | 201 | 201 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -6004,3 +6004,4 @@
 - **Aug 20, 05:19 AM** - Mining for DOGE: Defense budget docs show $11B in ‘efficiencies,’ but what are they? (breaking_defense)
 - **Aug 20, 05:33 AM** - Origami Bloom Patterns Could Help Build Folding Structures in Space (nyt)
 - **Aug 20, 05:47 AM** - Russia Will Launch Biological Research Mission (supercluster)
+- **Aug 20, 05:49 AM** - Russia Will Launch Biological Research Mission (supercluster)
