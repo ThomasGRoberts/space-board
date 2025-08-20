@@ -5,7 +5,7 @@
 | nyt | 3 | 3 | 31 | 61 |
 | breaking_defense | 1 | 1 | 29 | 60 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 5 | 5 |
+| supercluster | 1 | 1 | 6 | 6 |
 
 # Shown Order
 
@@ -5838,3 +5838,4 @@
 - **Aug 20, 06:23 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Aug 20, 06:25 PM** - Elon Musk’s SpaceX Most Likely Doesn’t Pay Taxes (nyt)
 - **Aug 20, 06:39 PM** - 2025 Schriever space wargame last to be planned unilaterally by US (breaking_defense)
+- **Aug 20, 06:55 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
