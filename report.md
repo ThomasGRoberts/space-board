@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 32 | 61 |
-| breaking_defense | 1 | 2 | 32 | 61 |
-| supercluster | 0 | 1 | 218 | 235 |
+| breaking_defense | 1 | 2 | 32 | 60 |
+| supercluster | 0 | 1 | 219 | 236 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -6049,3 +6049,4 @@
 - **Aug 20, 09:40 AM** - Northrop Grumman says first DARC test validates radar tracking capability (breaking_defense)
 - **Aug 20, 09:59 AM** - Origami Bloom Patterns Could Help Build Folding Structures in Space (nyt)
 - **Aug 20, 10:28 AM** - Russia Will Launch Biological Research Mission (supercluster)
+- **Aug 20, 10:32 AM** - Russia Will Launch Biological Research Mission (supercluster)
