@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 31 | 61 |
-| breaking_defense | 0 | 1 | 28 | 59 |
+| breaking_defense | 0 | 1 | 29 | 60 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 19 | 19 |
 
@@ -5855,3 +5855,4 @@
 - **Aug 20, 07:53 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Aug 20, 07:56 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Aug 20, 08:00 PM** - Onionlike Space Explosion May Be a New Type of Supernova (nyt)
+- **Aug 20, 08:14 PM** - Mining for DOGE: Defense budget docs show $11B in ‘efficiencies,’ but what are they? (breaking_defense)
