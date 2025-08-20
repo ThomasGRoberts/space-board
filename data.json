@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-20T00:00:02.044389+00:00",
-    "trigger_count": 1,
-    "current_item_id": "8654d9f48ef54485041b6dc54fc6cda9",
+    "trigger_count": 2,
+    "current_item_id": "7535b9a7b5d63a2cb985397042e15648",
     "data": [
         {
             "id": "1508608cb360eb39e4aced99e0ba518a",
@@ -11338,15 +11338,18 @@
             ]
         },
         {
-            "id": "8654d9f48ef54485041b6dc54fc6cda9",
+            "id": "7535b9a7b5d63a2cb985397042e15648",
             "source": "supercluster",
-            "text": "Russia Will Launch Biological Research Mission",
-            "source_link": "https://www.supercluster.com/launches/bion-m-no-2",
-            "shown": false,
+            "text": "Russia Will Launch the Angara 1.2 Rocket",
+            "source_link": "https://www.supercluster.com/launches/cosmos1",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-08-20T17:13:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-08-20T18:10:23.911944Z"
+            "target_datetime": "2025-08-21T08:30:00.000Z",
+            "time_remaining": "0d 14h 16m",
+            "fetched_datetime": "2025-08-20T18:13:48.171774Z",
+            "shown_at": [
+                "2025-08-20T18:13:48.922108Z"
+            ]
         }
     ]
 }

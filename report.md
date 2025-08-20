@@ -5,7 +5,7 @@
 | nyt | 3 | 3 | 31 | 61 |
 | breaking_defense | 1 | 1 | 29 | 60 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -5831,3 +5831,4 @@
 - **Aug 20, 04:11 PM** - The Army must accelerate counterspace investments (breaking_defense)
 - **Aug 20, 04:39 PM** - Onionlike Space Explosion May Be a New Type of Supernova (nyt)
 - **Aug 20, 04:53 PM** - Northrop Grumman says first DARC test validates radar tracking capability (breaking_defense)
+- **Aug 20, 06:13 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
