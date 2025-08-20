@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 3 | 31 | 61 |
+| nyt | 3 | 3 | 32 | 62 |
 | breaking_defense | 0 | 1 | 28 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 33 | 33 |
@@ -5872,3 +5872,4 @@
 - **Aug 20, 09:19 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Aug 20, 09:22 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Aug 20, 09:25 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
+- **Aug 20, 09:27 PM** - Origami Bloom Patterns Could Help Build Folding Structures in Space (nyt)
