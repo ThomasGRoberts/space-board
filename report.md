@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 3 | 33 | 61 |
-| breaking_defense | 1 | 2 | 30 | 59 |
+| nyt | 3 | 3 | 32 | 61 |
+| breaking_defense | 1 | 2 | 31 | 60 |
 | supercluster | 0 | 1 | 210 | 276 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -6102,3 +6102,4 @@
 - **Aug 20, 03:08 PM** - Russia Will Launch Biological Research Mission (supercluster)
 - **Aug 20, 03:11 PM** - Russia Will Launch Biological Research Mission (supercluster)
 - **Aug 20, 03:13 PM** - Onionlike Space Explosion May Be a New Type of Supernova (nyt)
+- **Aug 20, 03:28 PM** - Northrop Grumman says first DARC test validates radar tracking capability (breaking_defense)
