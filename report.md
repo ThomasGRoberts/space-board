@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 31 | 61 |
-| breaking_defense | 0 | 1 | 29 | 60 |
+| breaking_defense | 0 | 1 | 28 | 60 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 34 | 34 |
+| supercluster | 1 | 1 | 35 | 35 |
 
 # Shown Order
 
@@ -5875,3 +5875,4 @@
 - **Aug 20, 09:27 PM** - Origami Bloom Patterns Could Help Build Folding Structures in Space (nyt)
 - **Aug 20, 09:43 PM** - Mining for DOGE: Defense budget docs show $11B in ‘efficiencies,’ but what are they? (breaking_defense)
 - **Aug 20, 09:59 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
+- **Aug 20, 10:01 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
