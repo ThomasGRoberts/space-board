@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 3 | 30 | 61 |
-| breaking_defense | 0 | 1 | 28 | 59 |
+| breaking_defense | 0 | 1 | 29 | 60 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 54 | 54 |
 
@@ -5900,3 +5900,4 @@
 - **Aug 20, 11:35 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Aug 20, 11:38 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Aug 20, 11:41 PM** - Newly Discovered Moon Around Uranus Was Hiding Outside Its Rings (nyt)
+- **Aug 20, 11:55 PM** - Northrop Grumman says first DARC test validates radar tracking capability (breaking_defense)
