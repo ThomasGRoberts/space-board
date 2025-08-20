@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 32 | 60 |
 | breaking_defense | 1 | 2 | 31 | 59 |
-| supercluster | 0 | 1 | 210 | 265 |
+| supercluster | 0 | 1 | 209 | 266 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -6088,3 +6088,4 @@
 - **Aug 20, 02:15 PM** - Russia Will Launch Biological Research Mission (supercluster)
 - **Aug 20, 02:17 PM** - Russia Will Launch Biological Research Mission (supercluster)
 - **Aug 20, 02:19 PM** - Russia Will Launch Biological Research Mission (supercluster)
+- **Aug 20, 02:21 PM** - Russia Will Launch Biological Research Mission (supercluster)
