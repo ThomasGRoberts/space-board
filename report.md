@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 32 | 62 |
+| nyt | 1 | 1 | 33 | 63 |
 | breaking_defense | 1 | 2 | 33 | 62 |
 | supercluster | 1 | 1 | 220 | 220 |
 | spacenews | 0 | 0 | 0 | 0 |
@@ -6029,3 +6029,4 @@
 - **Aug 20, 07:25 AM** - Russia Will Launch Biological Research Mission (supercluster)
 - **Aug 20, 07:27 AM** - Russia Will Launch Biological Research Mission (supercluster)
 - **Aug 20, 07:29 AM** - Northrop Grumman says first DARC test validates radar tracking capability (breaking_defense)
+- **Aug 20, 07:47 AM** - Origami Bloom Patterns Could Help Build Folding Structures in Space (nyt)
