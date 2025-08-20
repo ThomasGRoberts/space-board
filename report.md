@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 33 | 63 |
+| nyt | 1 | 1 | 32 | 62 |
 | breaking_defense | 1 | 2 | 32 | 62 |
-| supercluster | 1 | 1 | 193 | 193 |
+| supercluster | 1 | 1 | 194 | 194 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -5995,3 +5995,4 @@
 - **Aug 20, 04:35 AM** - Mining for DOGE: Defense budget docs show $11B in ‘efficiencies,’ but what are they? (breaking_defense)
 - **Aug 20, 04:49 AM** - Study Finds Planet Around Trappist-1 Star Shows No Signs of Life (nyt)
 - **Aug 20, 05:05 AM** - Russia Will Launch Biological Research Mission (supercluster)
+- **Aug 20, 05:07 AM** - Russia Will Launch Biological Research Mission (supercluster)
