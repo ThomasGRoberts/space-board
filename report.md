@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 32 | 61 |
+| nyt | 2 | 2 | 32 | 60 |
 | breaking_defense | 1 | 2 | 31 | 59 |
-| supercluster | 0 | 1 | 209 | 264 |
+| supercluster | 0 | 1 | 210 | 265 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -6087,3 +6087,4 @@
 - **Aug 20, 01:59 PM** - Newly Discovered Moon Around Uranus Was Hiding Outside Its Rings (nyt)
 - **Aug 20, 02:15 PM** - Russia Will Launch Biological Research Mission (supercluster)
 - **Aug 20, 02:17 PM** - Russia Will Launch Biological Research Mission (supercluster)
+- **Aug 20, 02:19 PM** - Russia Will Launch Biological Research Mission (supercluster)
