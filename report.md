@@ -5,7 +5,7 @@
 | nyt | 3 | 3 | 31 | 61 |
 | breaking_defense | 0 | 1 | 28 | 60 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 35 | 35 |
+| supercluster | 1 | 1 | 36 | 36 |
 
 # Shown Order
 
@@ -5876,3 +5876,4 @@
 - **Aug 20, 09:43 PM** - Mining for DOGE: Defense budget docs show $11B in ‘efficiencies,’ but what are they? (breaking_defense)
 - **Aug 20, 09:59 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Aug 20, 10:01 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
+- **Aug 20, 10:03 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
