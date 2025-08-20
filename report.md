@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 32 | 60 |
-| breaking_defense | 1 | 2 | 31 | 59 |
+| breaking_defense | 1 | 2 | 31 | 60 |
 | supercluster | 0 | 1 | 210 | 269 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -6092,3 +6092,4 @@
 - **Aug 20, 02:23 PM** - Russia Will Launch Biological Research Mission (supercluster)
 - **Aug 20, 02:25 PM** - Russia Will Launch Biological Research Mission (supercluster)
 - **Aug 20, 02:27 PM** - Russia Will Launch Biological Research Mission (supercluster)
+- **Aug 20, 02:29 PM** - 2025 Schriever space wargame last to be planned unilaterally by US (breaking_defense)
