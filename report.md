@@ -5,7 +5,7 @@
 | nyt | 3 | 3 | 31 | 61 |
 | breaking_defense | 0 | 1 | 28 | 60 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 41 | 41 |
+| supercluster | 1 | 1 | 42 | 42 |
 
 # Shown Order
 
@@ -5884,3 +5884,4 @@
 - **Aug 20, 10:13 PM** - Study Finds Planet Around Trappist-1 Star Shows No Signs of Life (nyt)
 - **Aug 20, 10:27 PM** - 2025 Schriever space wargame last to be planned unilaterally by US (breaking_defense)
 - **Aug 20, 10:43 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
+- **Aug 20, 10:45 PM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
