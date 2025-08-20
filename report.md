@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 32 | 60 |
+| nyt | 2 | 2 | 33 | 61 |
 | breaking_defense | 1 | 2 | 31 | 60 |
 | supercluster | 0 | 1 | 210 | 269 |
 | spacenews | 0 | 0 | 0 | 0 |
@@ -6093,3 +6093,4 @@
 - **Aug 20, 02:25 PM** - Russia Will Launch Biological Research Mission (supercluster)
 - **Aug 20, 02:27 PM** - Russia Will Launch Biological Research Mission (supercluster)
 - **Aug 20, 02:29 PM** - 2025 Schriever space wargame last to be planned unilaterally by US (breaking_defense)
+- **Aug 20, 02:43 PM** - Elon Musk’s SpaceX Most Likely Doesn’t Pay Taxes (nyt)
