@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 33 | 61 |
+| nyt | 1 | 1 | 34 | 62 |
 | breaking_defense | 1 | 2 | 33 | 62 |
 | supercluster | 0 | 1 | 224 | 227 |
 | spacenews | 0 | 0 | 0 | 0 |
@@ -6038,3 +6038,4 @@
 - **Aug 20, 08:17 AM** - Russia Will Launch Biological Research Mission (supercluster)
 - **Aug 20, 08:19 AM** - Russia Will Launch Biological Research Mission (supercluster)
 - **Aug 20, 08:22 AM** - Northrop Grumman says first DARC test validates radar tracking capability (breaking_defense)
+- **Aug 20, 08:45 AM** - Study Finds Planet Around Trappist-1 Star Shows No Signs of Life (nyt)
