@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 82 | 82 |
-| nyt | 2 | 3 | 30 | 62 |
+| nyt | 2 | 3 | 31 | 63 |
 | breaking_defense | 0 | 1 | 28 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -5915,3 +5915,4 @@
 - **Aug 21, 02:25 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Aug 21, 02:27 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Aug 21, 02:29 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
+- **Aug 21, 02:32 AM** - Onionlike Space Explosion May Be a New Type of Supernova (nyt)
