@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-21T00:02:10.388355+00:00",
-    "trigger_count": 2,
-    "current_item_id": "7535b9a7b5d63a2cb985397042e15648",
+    "trigger_count": 3,
+    "current_item_id": "6faf10dbed5cd0b7f91bcc11f4cee4be",
     "data": [
         {
             "id": "e942581ba80ac133bd050201e7901e4e",
@@ -11335,17 +11335,17 @@
             ]
         },
         {
-            "id": "7535b9a7b5d63a2cb985397042e15648",
+            "id": "6faf10dbed5cd0b7f91bcc11f4cee4be",
             "source": "supercluster",
-            "text": "Russia Will Launch the Angara 1.2 Rocket",
-            "source_link": "https://www.supercluster.com/launches/cosmos1",
+            "text": "SpaceX Will Launch Secret Spaceplane for the Space Force",
+            "source_link": "https://www.supercluster.com/launches/ussf-36-otv-8",
             "shown": true,
             "type": "launch",
-            "target_datetime": "2025-08-21T08:30:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-08-21T09:29:49.151773Z",
+            "target_datetime": "2025-08-22T03:50:00.000Z",
+            "time_remaining": "0d 18h 17m",
+            "fetched_datetime": "2025-08-21T09:32:03.730899Z",
             "shown_at": [
-                "2025-08-21T09:29:50.201495Z"
+                "2025-08-21T09:32:04.527757Z"
             ]
         }
     ]
