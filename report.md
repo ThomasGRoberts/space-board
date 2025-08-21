@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 117 | 117 |
 | nyt | 2 | 3 | 30 | 63 |
-| breaking_defense | 0 | 1 | 28 | 60 |
+| breaking_defense | 0 | 1 | 29 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -5961,3 +5961,4 @@
 - **Aug 21, 06:12 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Aug 21, 06:13 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Aug 21, 06:15 AM** - Origami Bloom Patterns Could Help Build Folding Structures in Space (nyt)
+- **Aug 21, 06:31 AM** - 2025 Schriever space wargame last to be planned unilaterally by US (breaking_defense)
