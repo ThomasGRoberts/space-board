@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 68 | 68 |
+| supercluster | 1 | 1 | 69 | 69 |
 | nyt | 2 | 3 | 30 | 61 |
 | breaking_defense | 0 | 1 | 29 | 60 |
 | spacenews | 0 | 0 | 0 | 0 |
@@ -5899,3 +5899,4 @@
 - **Aug 21, 01:05 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Aug 21, 01:07 AM** - Onionlike Space Explosion May Be a New Type of Supernova (nyt)
 - **Aug 21, 01:21 AM** - Northrop Grumman says first DARC test validates radar tracking capability (breaking_defense)
+- **Aug 21, 01:35 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
