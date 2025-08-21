@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 113 | 113 |
+| supercluster | 1 | 1 | 114 | 114 |
 | nyt | 2 | 3 | 30 | 62 |
 | breaking_defense | 0 | 1 | 28 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
@@ -5956,3 +5956,4 @@
 - **Aug 21, 05:57 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Aug 21, 05:59 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Aug 21, 06:02 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
+- **Aug 21, 06:05 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
