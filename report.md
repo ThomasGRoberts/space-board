@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 3 | 31 | 62 |
-| breaking_defense | 0 | 1 | 30 | 61 |
+| nyt | 2 | 3 | 32 | 63 |
+| breaking_defense | 0 | 1 | 29 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 25 | 25 |
 
@@ -5882,3 +5882,4 @@
 - **Aug 21, 11:49 AM** - SpaceX Will Launch Secret Spaceplane for the Space Force (supercluster)
 - **Aug 21, 11:51 AM** - SpaceX Will Launch Secret Spaceplane for the Space Force (supercluster)
 - **Aug 21, 11:53 AM** - Mining for DOGE: Defense budget docs show $11B in ‘efficiencies,’ but what are they? (breaking_defense)
+- **Aug 21, 12:07 PM** - Elon Musk’s SpaceX Most Likely Doesn’t Pay Taxes (nyt)
