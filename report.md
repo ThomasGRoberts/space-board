@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 3 | 30 | 61 |
-| breaking_defense | 1 | 1 | 31 | 59 |
+| breaking_defense | 1 | 1 | 30 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 96 | 96 |
+| supercluster | 1 | 1 | 97 | 97 |
 
 # Shown Order
 
@@ -5975,3 +5975,4 @@
 - **Aug 21, 08:29 PM** - Onionlike Space Explosion May Be a New Type of Supernova (nyt)
 - **Aug 21, 08:43 PM** - The Army must accelerate counterspace investments (breaking_defense)
 - **Aug 21, 08:57 PM** - SpaceX Will Launch Secret Spaceplane for the Space Force (supercluster)
+- **Aug 21, 08:59 PM** - SpaceX Will Launch Secret Spaceplane for the Space Force (supercluster)
