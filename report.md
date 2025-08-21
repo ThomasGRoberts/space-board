@@ -5,7 +5,7 @@
 | nyt | 2 | 3 | 31 | 63 |
 | breaking_defense | 0 | 1 | 29 | 60 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 18 | 18 |
+| supercluster | 1 | 1 | 19 | 19 |
 
 # Shown Order
 
@@ -5874,3 +5874,4 @@
 - **Aug 21, 11:09 AM** - SpaceX Will Launch Secret Spaceplane for the Space Force (supercluster)
 - **Aug 21, 11:11 AM** - 2025 Schriever space wargame last to be planned unilaterally by US (breaking_defense)
 - **Aug 21, 11:25 AM** - Newly Discovered Moon Around Uranus Was Hiding Outside Its Rings (nyt)
+- **Aug 21, 11:39 AM** - SpaceX Will Launch Secret Spaceplane for the Space Force (supercluster)
