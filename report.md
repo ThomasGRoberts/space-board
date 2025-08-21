@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 2 | 30 | 60 |
+| nyt | 0 | 2 | 31 | 61 |
 | breaking_defense | 1 | 1 | 30 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 123 | 123 |
@@ -6008,3 +6008,4 @@
 - **Aug 21, 11:27 PM** - SpaceX Will Launch Secret Spaceplane for the Space Force (supercluster)
 - **Aug 21, 11:29 PM** - SpaceX Will Launch Secret Spaceplane for the Space Force (supercluster)
 - **Aug 21, 11:32 PM** - SpaceX Will Launch Secret Spaceplane for the Space Force (supercluster)
+- **Aug 21, 11:35 PM** - Origami Bloom Patterns Could Help Build Folding Structures in Space (nyt)
