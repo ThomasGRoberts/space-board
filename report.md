@@ -5,7 +5,7 @@
 | nyt | 1 | 3 | 30 | 62 |
 | breaking_defense | 1 | 2 | 30 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 46 | 46 |
+| supercluster | 1 | 1 | 47 | 47 |
 
 # Shown Order
 
@@ -5911,3 +5911,4 @@
 - **Aug 21, 02:07 PM** - 2025 Schriever space wargame last to be planned unilaterally by US (breaking_defense)
 - **Aug 21, 02:21 PM** - Origami Bloom Patterns Could Help Build Folding Structures in Space (nyt)
 - **Aug 21, 02:37 PM** - Space Guard proponents hope for last-minute Trump intervention (breaking_defense)
+- **Aug 21, 02:51 PM** - SpaceX Will Launch Secret Spaceplane for the Space Force (supercluster)
