@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 3 | 31 | 62 |
+| nyt | 2 | 3 | 32 | 63 |
 | breaking_defense | 0 | 1 | 29 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 39 | 39 |
@@ -5900,3 +5900,4 @@
 - **Aug 21, 01:15 PM** - SpaceX Will Launch Secret Spaceplane for the Space Force (supercluster)
 - **Aug 21, 01:17 PM** - SpaceX Will Launch Secret Spaceplane for the Space Force (supercluster)
 - **Aug 21, 01:19 PM** - Mining for DOGE: Defense budget docs show $11B in ‘efficiencies,’ but what are they? (breaking_defense)
+- **Aug 21, 01:37 PM** - Origami Bloom Patterns Could Help Build Folding Structures in Space (nyt)
