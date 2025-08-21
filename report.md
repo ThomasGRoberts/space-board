@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 3 | 30 | 62 |
+| nyt | 0 | 3 | 31 | 63 |
 | breaking_defense | 1 | 2 | 30 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 60 | 60 |
@@ -5927,3 +5927,4 @@
 - **Aug 21, 03:41 PM** - SpaceX Will Launch Secret Spaceplane for the Space Force (supercluster)
 - **Aug 21, 03:43 PM** - SpaceX Will Launch Secret Spaceplane for the Space Force (supercluster)
 - **Aug 21, 03:47 PM** - SpaceX Will Launch Secret Spaceplane for the Space Force (supercluster)
+- **Aug 21, 03:49 PM** - Study Finds Planet Around Trappist-1 Star Shows No Signs of Life (nyt)
