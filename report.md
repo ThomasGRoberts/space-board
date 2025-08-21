@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 3 | 30 | 61 |
-| breaking_defense | 1 | 1 | 31 | 59 |
+| breaking_defense | 1 | 1 | 30 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 102 | 102 |
+| supercluster | 1 | 1 | 103 | 103 |
 
 # Shown Order
 
@@ -5983,3 +5983,4 @@
 - **Aug 21, 09:09 PM** - SpaceX Will Launch Secret Spaceplane for the Space Force (supercluster)
 - **Aug 21, 09:11 PM** - Elon Musk’s SpaceX Most Likely Doesn’t Pay Taxes (nyt)
 - **Aug 21, 09:27 PM** - Northrop Grumman says first DARC test validates radar tracking capability (breaking_defense)
+- **Aug 21, 09:45 PM** - SpaceX Will Launch Secret Spaceplane for the Space Force (supercluster)
