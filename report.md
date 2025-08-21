@@ -5,7 +5,7 @@
 | nyt | 2 | 3 | 30 | 63 |
 | breaking_defense | 0 | 1 | 28 | 60 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 4 | 4 |
+| supercluster | 1 | 1 | 5 | 5 |
 
 # Shown Order
 
@@ -5856,3 +5856,4 @@
 - **Aug 21, 09:37 AM** - SpaceX Will Launch Secret Spaceplane for the Space Force (supercluster)
 - **Aug 21, 09:39 AM** - Northrop Grumman says first DARC test validates radar tracking capability (breaking_defense)
 - **Aug 21, 09:54 AM** - Study Finds Planet Around Trappist-1 Star Shows No Signs of Life (nyt)
+- **Aug 21, 10:11 AM** - SpaceX Will Launch Secret Spaceplane for the Space Force (supercluster)
