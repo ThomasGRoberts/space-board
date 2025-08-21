@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 3 | 30 | 61 |
-| breaking_defense | 1 | 1 | 30 | 59 |
+| nyt | 0 | 3 | 31 | 62 |
+| breaking_defense | 1 | 1 | 30 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 95 | 95 |
 
@@ -5972,3 +5972,4 @@
 - **Aug 21, 08:23 PM** - SpaceX Will Launch Secret Spaceplane for the Space Force (supercluster)
 - **Aug 21, 08:25 PM** - SpaceX Will Launch Secret Spaceplane for the Space Force (supercluster)
 - **Aug 21, 08:27 PM** - SpaceX Will Launch Secret Spaceplane for the Space Force (supercluster)
+- **Aug 21, 08:29 PM** - Onionlike Space Explosion May Be a New Type of Supernova (nyt)
