@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 104 | 104 |
+| supercluster | 1 | 1 | 105 | 105 |
 | nyt | 2 | 3 | 30 | 62 |
 | breaking_defense | 0 | 1 | 29 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
@@ -5945,3 +5945,4 @@
 - **Aug 21, 04:43 AM** - Onionlike Space Explosion May Be a New Type of Supernova (nyt)
 - **Aug 21, 04:57 AM** - 2025 Schriever space wargame last to be planned unilaterally by US (breaking_defense)
 - **Aug 21, 05:12 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
+- **Aug 21, 05:15 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
