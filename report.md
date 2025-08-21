@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 82 | 82 |
 | nyt | 2 | 3 | 30 | 63 |
-| breaking_defense | 0 | 1 | 28 | 60 |
+| breaking_defense | 0 | 1 | 29 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -5916,3 +5916,4 @@
 - **Aug 21, 02:27 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Aug 21, 02:29 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Aug 21, 02:32 AM** - Onionlike Space Explosion May Be a New Type of Supernova (nyt)
+- **Aug 21, 02:47 AM** - The Army must accelerate counterspace investments (breaking_defense)
