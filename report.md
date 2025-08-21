@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 3 | 30 | 63 |
-| breaking_defense | 0 | 1 | 28 | 60 |
+| nyt | 2 | 3 | 30 | 62 |
+| breaking_defense | 0 | 1 | 29 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 4 | 4 |
 
@@ -5854,3 +5854,4 @@
 - **Aug 21, 09:33 AM** - SpaceX Will Launch Secret Spaceplane for the Space Force (supercluster)
 - **Aug 21, 09:35 AM** - SpaceX Will Launch Secret Spaceplane for the Space Force (supercluster)
 - **Aug 21, 09:37 AM** - SpaceX Will Launch Secret Spaceplane for the Space Force (supercluster)
+- **Aug 21, 09:39 AM** - Northrop Grumman says first DARC test validates radar tracking capability (breaking_defense)
