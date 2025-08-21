@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 103 | 103 |
 | nyt | 2 | 3 | 30 | 63 |
-| breaking_defense | 0 | 1 | 28 | 60 |
+| breaking_defense | 0 | 1 | 29 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -5943,3 +5943,4 @@
 - **Aug 21, 04:39 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Aug 21, 04:41 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Aug 21, 04:43 AM** - Onionlike Space Explosion May Be a New Type of Supernova (nyt)
+- **Aug 21, 04:57 AM** - 2025 Schriever space wargame last to be planned unilaterally by US (breaking_defense)
