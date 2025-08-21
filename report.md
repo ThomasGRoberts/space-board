@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 75 | 75 |
+| supercluster | 1 | 1 | 76 | 76 |
 | nyt | 2 | 3 | 30 | 62 |
 | breaking_defense | 0 | 1 | 29 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
@@ -5908,3 +5908,4 @@
 - **Aug 21, 01:47 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Aug 21, 01:49 AM** - Study Finds Planet Around Trappist-1 Star Shows No Signs of Life (nyt)
 - **Aug 21, 02:03 AM** - Mining for DOGE: Defense budget docs show $11B in ‘efficiencies,’ but what are they? (breaking_defense)
+- **Aug 21, 02:17 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
