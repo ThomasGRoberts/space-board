@@ -5,6 +5,7 @@
 | nyt | 2 | 3 | 31 | 64 |
 | breaking_defense | 0 | 1 | 28 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -5849,3 +5850,4 @@
 - **Aug 21, 07:43 AM** - Study Finds Planet Around Trappist-1 Star Shows No Signs of Life (nyt)
 - **Aug 21, 07:59 AM** - 2025 Schriever space wargame last to be planned unilaterally by US (breaking_defense)
 - **Aug 21, 08:27 AM** - Elon Musk’s SpaceX Most Likely Doesn’t Pay Taxes (nyt)
+- **Aug 21, 08:41 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)

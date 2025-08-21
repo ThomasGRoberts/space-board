@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-21T00:02:10.388355+00:00",
-    "trigger_count": 6,
-    "current_item_id": "30d6fb7cb20c54e60f85cf84d3bb1884",
+    "trigger_count": 0,
+    "current_item_id": "7535b9a7b5d63a2cb985397042e15648",
     "data": [
         {
             "id": "e942581ba80ac133bd050201e7901e4e",
@@ -11332,6 +11332,20 @@
                 "2025-05-30T22:47:33.078764Z",
                 "2025-06-01T07:29:43.472642Z",
                 "2025-06-02T02:29:39.623425Z"
+            ]
+        },
+        {
+            "id": "7535b9a7b5d63a2cb985397042e15648",
+            "source": "supercluster",
+            "text": "Russia Will Launch the Angara 1.2 Rocket",
+            "source_link": "https://www.supercluster.com/launches/cosmos1",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-08-21T08:30:00.000Z",
+            "time_remaining": "",
+            "fetched_datetime": "2025-08-21T08:41:45.313573Z",
+            "shown_at": [
+                "2025-08-21T08:41:45.791783Z"
             ]
         }
     ]
