@@ -5,7 +5,7 @@
 | nyt | 0 | 3 | 30 | 61 |
 | breaking_defense | 1 | 2 | 30 | 60 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 75 | 75 |
+| supercluster | 1 | 1 | 76 | 76 |
 
 # Shown Order
 
@@ -5948,3 +5948,4 @@
 - **Aug 21, 06:17 PM** - Newly Discovered Moon Around Uranus Was Hiding Outside Its Rings (nyt)
 - **Aug 21, 06:32 PM** - The Army must accelerate counterspace investments (breaking_defense)
 - **Aug 21, 06:47 PM** - SpaceX Will Launch Secret Spaceplane for the Space Force (supercluster)
+- **Aug 21, 06:49 PM** - SpaceX Will Launch Secret Spaceplane for the Space Force (supercluster)
