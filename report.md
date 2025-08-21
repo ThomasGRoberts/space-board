@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 96 | 96 |
-| nyt | 2 | 3 | 30 | 62 |
+| nyt | 2 | 3 | 31 | 63 |
 | breaking_defense | 0 | 1 | 28 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -5933,3 +5933,4 @@
 - **Aug 21, 03:55 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Aug 21, 03:57 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
 - **Aug 21, 03:59 AM** - Russia Will Launch the Angara 1.2 Rocket (supercluster)
+- **Aug 21, 04:02 AM** - Newly Discovered Moon Around Uranus Was Hiding Outside Its Rings (nyt)
