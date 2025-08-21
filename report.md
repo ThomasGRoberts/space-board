@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 3 | 30 | 62 |
+| nyt | 2 | 3 | 31 | 63 |
 | breaking_defense | 0 | 1 | 29 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 11 | 11 |
@@ -5864,3 +5864,4 @@
 - **Aug 21, 10:21 AM** - SpaceX Will Launch Secret Spaceplane for the Space Force (supercluster)
 - **Aug 21, 10:24 AM** - SpaceX Will Launch Secret Spaceplane for the Space Force (supercluster)
 - **Aug 21, 10:25 AM** - 2025 Schriever space wargame last to be planned unilaterally by US (breaking_defense)
+- **Aug 21, 10:41 AM** - Elon Musk’s SpaceX Most Likely Doesn’t Pay Taxes (nyt)
