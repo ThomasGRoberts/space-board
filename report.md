@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 3 | 30 | 61 |
-| breaking_defense | 1 | 1 | 31 | 59 |
+| breaking_defense | 1 | 1 | 30 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 88 | 88 |
+| supercluster | 1 | 1 | 89 | 89 |
 
 # Shown Order
 
@@ -5965,3 +5965,4 @@
 - **Aug 21, 07:43 PM** - SpaceX Will Launch Secret Spaceplane for the Space Force (supercluster)
 - **Aug 21, 07:45 PM** - Onionlike Space Explosion May Be a New Type of Supernova (nyt)
 - **Aug 21, 07:59 PM** - 2025 Schriever space wargame last to be planned unilaterally by US (breaking_defense)
+- **Aug 21, 08:15 PM** - SpaceX Will Launch Secret Spaceplane for the Space Force (supercluster)
