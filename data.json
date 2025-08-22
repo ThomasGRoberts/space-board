@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-22T00:02:09.689004+00:00",
-    "trigger_count": 2,
-    "current_item_id": "6faf10dbed5cd0b7f91bcc11f4cee4be",
+    "trigger_count": 3,
+    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
     "data": [
         {
             "id": "ac39431a61e14bd5c5715185fec2c4ec",
@@ -11377,17 +11377,17 @@
             ]
         },
         {
-            "id": "6faf10dbed5cd0b7f91bcc11f4cee4be",
+            "id": "4beba9b243fe616fcb8e7be8d963bbc1",
             "source": "supercluster",
-            "text": "SpaceX Will Launch Secret Spaceplane for the Space Force",
-            "source_link": "https://www.supercluster.com/launches/ussf-36-otv-8",
+            "text": "SpaceX Will Launch Starlink Satellites from California",
+            "source_link": "https://www.supercluster.com/launches/starlink-17-6",
             "shown": true,
             "type": "launch",
-            "target_datetime": "2025-08-22T03:50:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-08-22T04:49:14.255043Z",
+            "target_datetime": "2025-08-22T17:02:00.000Z",
+            "time_remaining": "0d 12h 10m",
+            "fetched_datetime": "2025-08-22T04:51:57.211218Z",
             "shown_at": [
-                "2025-08-22T04:49:14.926566Z"
+                "2025-08-22T04:51:58.617927Z"
             ]
         }
     ]
