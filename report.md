@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 1 | 29 | 57 |
 | nyt | 0 | 2 | 28 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 5 | 5 |
+| supercluster | 1 | 1 | 6 | 6 |
 
 # Shown Order
 
@@ -5899,3 +5899,4 @@
 - **Aug 22, 04:59 AM** - Origami Bloom Patterns Could Help Build Folding Structures in Space (nyt)
 - **Aug 22, 05:15 AM** - 2025 Schriever space wargame last to be planned unilaterally by US (breaking_defense)
 - **Aug 22, 05:29 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 22, 05:31 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
