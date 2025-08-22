@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 30 | 59 |
-| supercluster | 1 | 1 | 139 | 139 |
+| supercluster | 1 | 1 | 140 | 140 |
 | nyt | 0 | 2 | 30 | 60 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -6025,3 +6025,4 @@
 - **Aug 22, 01:17 AM** - The Army must accelerate counterspace investments (breaking_defense)
 - **Aug 22, 01:32 AM** - SpaceX Will Launch Secret Spaceplane for the Space Force (supercluster)
 - **Aug 22, 01:33 AM** - SpaceX Will Launch Secret Spaceplane for the Space Force (supercluster)
+- **Aug 22, 01:35 AM** - SpaceX Will Launch Secret Spaceplane for the Space Force (supercluster)
