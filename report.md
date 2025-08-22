@@ -5,7 +5,7 @@
 | breaking_defense | 0 | 1 | 27 | 57 |
 | nyt | 0 | 0 | 27 | 57 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 89 | 89 |
+| supercluster | 1 | 1 | 90 | 90 |
 
 # Shown Order
 
@@ -6007,3 +6007,4 @@
 - **Aug 22, 03:19 PM** - Onionlike Space Explosion May Be a New Type of Supernova (nyt)
 - **Aug 22, 03:33 PM** - Space Guard proponents hope for last-minute Trump intervention (breaking_defense)
 - **Aug 22, 04:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 22, 04:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
