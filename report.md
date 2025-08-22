@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 1 | 28 | 58 |
 | nyt | 0 | 1 | 27 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 76 | 76 |
+| supercluster | 1 | 1 | 77 | 77 |
 
 # Shown Order
 
@@ -5990,3 +5990,4 @@
 - **Aug 22, 02:07 PM** - The Army must accelerate counterspace investments (breaking_defense)
 - **Aug 22, 02:21 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 22, 02:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 22, 02:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
