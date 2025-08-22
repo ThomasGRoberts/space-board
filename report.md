@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 30 | 59 |
-| supercluster | 1 | 1 | 153 | 153 |
+| supercluster | 1 | 1 | 154 | 154 |
 | nyt | 0 | 2 | 30 | 60 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -6043,3 +6043,4 @@
 - **Aug 22, 02:41 AM** - 2025 Schriever space wargame last to be planned unilaterally by US (breaking_defense)
 - **Aug 22, 02:57 AM** - SpaceX Will Launch Secret Spaceplane for the Space Force (supercluster)
 - **Aug 22, 02:59 AM** - SpaceX Will Launch Secret Spaceplane for the Space Force (supercluster)
+- **Aug 22, 03:02 AM** - SpaceX Will Launch Secret Spaceplane for the Space Force (supercluster)
