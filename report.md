@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 1 | 29 | 57 |
 | nyt | 0 | 2 | 29 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 11 | 11 |
+| supercluster | 1 | 1 | 12 | 12 |
 
 # Shown Order
 
@@ -5907,3 +5907,4 @@
 - **Aug 22, 05:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 22, 05:43 AM** - Elon Musk’s SpaceX Most Likely Doesn’t Pay Taxes (nyt)
 - **Aug 22, 05:57 AM** - The Army must accelerate counterspace investments (breaking_defense)
+- **Aug 22, 06:13 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
