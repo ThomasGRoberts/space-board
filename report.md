@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 30 | 59 |
 | supercluster | 1 | 1 | 151 | 151 |
-| nyt | 0 | 2 | 30 | 60 |
+| nyt | 0 | 2 | 31 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -6039,3 +6039,4 @@
 - **Aug 22, 02:21 AM** - SpaceX Will Launch Secret Spaceplane for the Space Force (supercluster)
 - **Aug 22, 02:23 AM** - SpaceX Will Launch Secret Spaceplane for the Space Force (supercluster)
 - **Aug 22, 02:25 AM** - SpaceX Will Launch Secret Spaceplane for the Space Force (supercluster)
+- **Aug 22, 02:27 AM** - Elon Musk’s SpaceX Most Likely Doesn’t Pay Taxes (nyt)
