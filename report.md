@@ -2,14 +2,13 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 2 | 30 | 60 |
 | breaking_defense | 1 | 1 | 30 | 59 |
-| spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 123 | 123 |
+| nyt | 0 | 2 | 30 | 60 |
+| spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
 
-- **May 27, 01:25 PM** - EnduroSat raises $49 million to mass produce larger satellites (spacenews)
 - **May 27, 03:05 PM** - APIO16 Radiation-Hardened 16-Bit I/O  Expander Sets a New Benchmark for Resilient System Design (spacenews)
 - **May 27, 04:51 PM** - Enpulsion Unveils Nexus, Its Most Powerful Electric Propulsion System to Date (spacenews)
 - **May 27, 06:49 PM** - The real Golden Dome opportunity – defense acquisition reform (spacenews)
@@ -91,7 +90,6 @@
 - **May 29, 11:41 PM** - Rocket Lab to acquire satellite payload manufacturer Geost for $275 million (spacenews)
 - **May 30, 12:23 AM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
 - **May 30, 12:53 AM** - Manhattanhenge Is Back for 2025: When, Where and How to Watch (nyt)
-- **May 30, 01:37 AM** - EnduroSat raises $49 million to mass produce larger satellites (spacenews)
 - **May 30, 01:51 AM** - Scientists Say They’ve Found a Dwarf Planet Very Far From the Sun (nyt)
 - **May 30, 02:34 AM** - With strategic acquisitions, Rocket Lab pursues prime defense contractor status (spacenews)
 - **May 30, 02:47 AM** - New Likely Dwarf Planet Discovered in Remote Region of Solar System (nyt)
@@ -139,7 +137,6 @@
 - **May 30, 09:49 PM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
 - **May 30, 10:05 PM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **May 30, 10:19 PM** - China Launches Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
-- **May 30, 10:47 PM** - EnduroSat raises $49 million to mass produce larger satellites (spacenews)
 - **May 30, 11:01 PM** - NASA budget would cancel dozens of science missions, lay off thousands (spacenews)
 - **May 30, 11:15 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **May 30, 11:59 PM** - Overcoming conservatism in the autonomous space revolution (spacenews)
@@ -227,7 +224,6 @@
 - **Jun 01, 06:33 AM** - SpaceNews Names Kamal Flucker as Vice President of Global Sales to Lead International Growth (spacenews)
 - **Jun 01, 06:47 AM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
 - **Jun 01, 07:15 AM** - China Launches Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
-- **Jun 01, 07:29 AM** - EnduroSat raises $49 million to mass produce larger satellites (spacenews)
 - **Jun 01, 07:43 AM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
 - **Jun 01, 08:27 AM** - Apex announces Comet satellite bus for constellations (spacenews)
 - **Jun 01, 08:43 AM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
@@ -282,7 +278,6 @@
 - **Jun 02, 01:29 AM** - New report details China’s push to dominate artificial intelligence (spacenews)
 - **Jun 02, 01:45 AM** - From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest (breaking_defense)
 - **Jun 02, 02:15 AM** - New Likely Dwarf Planet Discovered in Remote Region of Solar System (nyt)
-- **Jun 02, 02:29 AM** - EnduroSat raises $49 million to mass produce larger satellites (spacenews)
 - **Jun 02, 02:43 AM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
 - **Jun 02, 03:13 AM** - Manhattanhenge Is Back for 2025: When, Where and How to Watch (nyt)
 - **Jun 02, 03:27 AM** - China launches classified Shijan-26 satellite with Long March 4B rocket (spacenews)
