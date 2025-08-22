@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 29 | 57 |
-| nyt | 0 | 2 | 29 | 59 |
+| nyt | 0 | 2 | 28 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 26 | 26 |
+| supercluster | 1 | 1 | 27 | 27 |
 
 # Shown Order
 
@@ -5926,3 +5926,4 @@
 - **Aug 22, 07:11 AM** - Origami Bloom Patterns Could Help Build Folding Structures in Space (nyt)
 - **Aug 22, 07:25 AM** - Space Guard proponents hope for last-minute Trump intervention (breaking_defense)
 - **Aug 22, 07:43 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 22, 07:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
