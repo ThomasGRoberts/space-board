@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 1 | 29 | 57 |
+| breaking_defense | 1 | 1 | 30 | 58 |
 | nyt | 0 | 2 | 29 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 39 | 39 |
@@ -5942,3 +5942,4 @@
 - **Aug 22, 08:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 22, 08:37 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 22, 08:39 AM** - Origami Bloom Patterns Could Help Build Folding Structures in Space (nyt)
+- **Aug 22, 08:53 AM** - Mining for DOGE: Defense budget docs show $11B in ‘efficiencies,’ but what are they? (breaking_defense)
