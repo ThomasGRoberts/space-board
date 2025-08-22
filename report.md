@@ -5892,4 +5892,4 @@
 - **Aug 22, 02:41 AM** - 2025 Schriever space wargame last to be planned unilaterally by US (breaking_defense)
 - **Aug 22, 03:13 AM** - Elon Musk’s SpaceX Most Likely Doesn’t Pay Taxes (nyt)
 - **Aug 22, 03:29 AM** - The Army must accelerate counterspace investments (breaking_defense)
-- **Aug 22, 04:39 AM** - SpaceX Will Launch Secret Spaceplane for the Space Force (supercluster)
+- **Aug 22, 04:41 AM** - SpaceX Will Launch Secret Spaceplane for the Space Force (supercluster)
