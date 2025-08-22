@@ -5920,4 +5920,4 @@
 - **Aug 22, 03:33 PM** - Space Guard proponents hope for last-minute Trump intervention (breaking_defense)
 - **Aug 22, 04:33 PM** - Origami Bloom Patterns Could Help Build Folding Structures in Space (nyt)
 - **Aug 22, 04:47 PM** - Space Guard proponents hope for last-minute Trump intervention (breaking_defense)
-- **Aug 22, 05:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 22, 05:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
