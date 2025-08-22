@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 1 | 30 | 59 |
-| supercluster | 1 | 1 | 157 | 157 |
+| breaking_defense | 1 | 1 | 30 | 58 |
+| supercluster | 1 | 1 | 158 | 158 |
 | nyt | 0 | 2 | 30 | 60 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -6047,3 +6047,4 @@
 - **Aug 22, 03:05 AM** - SpaceX Will Launch Secret Spaceplane for the Space Force (supercluster)
 - **Aug 22, 03:07 AM** - SpaceX Will Launch Secret Spaceplane for the Space Force (supercluster)
 - **Aug 22, 03:09 AM** - SpaceX Will Launch Secret Spaceplane for the Space Force (supercluster)
+- **Aug 22, 03:11 AM** - SpaceX Will Launch Secret Spaceplane for the Space Force (supercluster)
