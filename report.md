@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 29 | 57 |
-| nyt | 0 | 2 | 28 | 58 |
+| nyt | 0 | 2 | 29 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 32 | 32 |
 
@@ -5932,3 +5932,4 @@
 - **Aug 22, 07:51 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 22, 07:53 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 22, 07:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 22, 07:57 AM** - Newly Discovered Moon Around Uranus Was Hiding Outside Its Rings (nyt)
