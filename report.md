@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 29 | 57 |
-| nyt | 0 | 2 | 29 | 59 |
+| nyt | 0 | 2 | 28 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 20 | 20 |
+| supercluster | 1 | 1 | 21 | 21 |
 
 # Shown Order
 
@@ -5918,3 +5918,4 @@
 - **Aug 22, 06:41 AM** - Space Guard proponents hope for last-minute Trump intervention (breaking_defense)
 - **Aug 22, 06:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 22, 06:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 22, 06:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
