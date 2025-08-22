@@ -5,7 +5,7 @@
 | breaking_defense | 0 | 1 | 28 | 58 |
 | nyt | 0 | 1 | 28 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 81 | 81 |
+| supercluster | 1 | 1 | 82 | 82 |
 
 # Shown Order
 
@@ -5997,3 +5997,4 @@
 - **Aug 22, 02:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 22, 02:37 PM** - Newly Discovered Moon Around Uranus Was Hiding Outside Its Rings (nyt)
 - **Aug 22, 02:51 PM** - 2025 Schriever space wargame last to be planned unilaterally by US (breaking_defense)
+- **Aug 22, 03:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
