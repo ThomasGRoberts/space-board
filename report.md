@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 29 | 57 |
-| nyt | 0 | 2 | 29 | 59 |
+| nyt | 0 | 2 | 28 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 33 | 33 |
+| supercluster | 1 | 1 | 34 | 34 |
 
 # Shown Order
 
@@ -5935,3 +5935,4 @@
 - **Aug 22, 07:57 AM** - Newly Discovered Moon Around Uranus Was Hiding Outside Its Rings (nyt)
 - **Aug 22, 08:12 AM** - The Army must accelerate counterspace investments (breaking_defense)
 - **Aug 22, 08:26 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 22, 08:27 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
