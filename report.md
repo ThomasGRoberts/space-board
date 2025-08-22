@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 1 | 27 | 58 |
+| breaking_defense | 0 | 1 | 27 | 57 |
 | nyt | 0 | 0 | 27 | 57 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 27 | 27 |
+| supercluster | 1 | 1 | 28 | 28 |
 
 # Shown Order
 
@@ -5955,3 +5955,4 @@
 - **Aug 22, 08:27 PM** - Onionlike Space Explosion May Be a New Type of Supernova (nyt)
 - **Aug 22, 08:41 PM** - The Army must accelerate counterspace investments (breaking_defense)
 - **Aug 22, 08:55 PM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
+- **Aug 22, 08:57 PM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
