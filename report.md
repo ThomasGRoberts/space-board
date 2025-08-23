@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 152 | 152 |
 | breaking_defense | 0 | 1 | 29 | 58 |
-| nyt | 0 | 0 | 28 | 57 |
+| nyt | 0 | 0 | 29 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -6114,3 +6114,4 @@
 - **Aug 23, 09:47 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
 - **Aug 23, 09:51 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
 - **Aug 23, 09:55 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
+- **Aug 23, 09:57 AM** - Onionlike Space Explosion May Be a New Type of Supernova (nyt)
