@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 124 | 124 |
-| breaking_defense | 0 | 1 | 29 | 57 |
+| breaking_defense | 0 | 1 | 29 | 58 |
 | nyt | 0 | 0 | 29 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -6079,3 +6079,4 @@
 - **Aug 23, 06:25 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
 - **Aug 23, 06:27 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
 - **Aug 23, 06:29 AM** - Onionlike Space Explosion May Be a New Type of Supernova (nyt)
+- **Aug 23, 06:43 AM** - 2025 Schriever space wargame last to be planned unilaterally by US (breaking_defense)
