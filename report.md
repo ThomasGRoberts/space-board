@@ -6115,3 +6115,4 @@
 - **Aug 23, 09:51 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
 - **Aug 23, 09:55 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
 - **Aug 23, 09:57 AM** - Onionlike Space Explosion May Be a New Type of Supernova (nyt)
+- **Aug 23, 10:28 AM** - Space Guard proponents hope for last-minute Trump intervention (breaking_defense)
