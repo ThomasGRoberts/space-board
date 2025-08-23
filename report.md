@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 154 | 154 |
+| supercluster | 1 | 1 | 155 | 155 |
 | breaking_defense | 0 | 1 | 29 | 58 |
 | nyt | 0 | 0 | 29 | 57 |
 | spacenews | 0 | 0 | 0 | 0 |
@@ -6118,3 +6118,4 @@
 - **Aug 23, 10:28 AM** - Space Guard proponents hope for last-minute Trump intervention (breaking_defense)
 - **Aug 23, 10:47 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
 - **Aug 23, 10:49 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
+- **Aug 23, 10:51 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
