@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 117 | 117 |
+| supercluster | 1 | 1 | 118 | 118 |
 | breaking_defense | 0 | 1 | 29 | 58 |
 | nyt | 0 | 0 | 29 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
@@ -6071,3 +6071,4 @@
 - **Aug 23, 05:45 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
 - **Aug 23, 05:47 AM** - Origami Bloom Patterns Could Help Build Folding Structures in Space (nyt)
 - **Aug 23, 06:02 AM** - 2025 Schriever space wargame last to be planned unilaterally by US (breaking_defense)
+- **Aug 23, 06:15 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
