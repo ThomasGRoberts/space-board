@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-23T00:01:56.489705+00:00",
-    "trigger_count": 2,
-    "current_item_id": "e308cd64e2f5a3b4716c086e82769b5a",
+    "trigger_count": 3,
+    "current_item_id": "e53cb8ef2fe713dd7a903a1b27572652",
     "data": [
         {
             "id": "ac39431a61e14bd5c5715185fec2c4ec",
@@ -11473,15 +11473,18 @@
             ]
         },
         {
-            "id": "e308cd64e2f5a3b4716c086e82769b5a",
+            "id": "e53cb8ef2fe713dd7a903a1b27572652",
             "source": "supercluster",
-            "text": "Rocket Will Launch Mission for Confidential Customer",
-            "source_link": "https://www.supercluster.com/launches/live-laugh-launch",
-            "shown": false,
+            "text": "SpaceX Will Launch Cargo and Science to the ISS for NASA",
+            "source_link": "https://www.supercluster.com/launches/spacex-crs-33",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-08-23T22:42:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-08-23T23:41:57.668895Z"
+            "target_datetime": "2025-08-24T06:45:00.000Z",
+            "time_remaining": "0d 07h 01m",
+            "fetched_datetime": "2025-08-23T23:43:35.071981Z",
+            "shown_at": [
+                "2025-08-23T23:43:35.928214Z"
+            ]
         }
     ]
 }
