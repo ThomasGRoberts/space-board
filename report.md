@@ -5,6 +5,7 @@
 | breaking_defense | 0 | 0 | 28 | 55 |
 | nyt | 0 | 0 | 27 | 55 |
 | spacenews | 0 | 0 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -5987,3 +5988,4 @@
 - **Aug 23, 09:43 PM** - 2025 Schriever space wargame last to be planned unilaterally by US (breaking_defense)
 - **Aug 23, 10:11 PM** - Newly Discovered Moon Around Uranus Was Hiding Outside Its Rings (nyt)
 - **Aug 23, 10:25 PM** - The Army must accelerate counterspace investments (breaking_defense)
+- **Aug 23, 10:39 PM** - Rocket Will Launch Mission for Confidential Customer (supercluster)
