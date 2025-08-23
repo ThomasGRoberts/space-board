@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 0 | 26 | 54 |
-| nyt | 0 | 0 | 26 | 54 |
+| nyt | 0 | 0 | 26 | 53 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 18 | 18 |
+| supercluster | 1 | 1 | 19 | 19 |
 
 # Shown Order
 
@@ -5988,3 +5988,4 @@
 - **Aug 23, 03:39 PM** - Rocket Will Launch Mission for Confidential Customer (supercluster)
 - **Aug 23, 03:43 PM** - Rocket Will Launch Mission for Confidential Customer (supercluster)
 - **Aug 23, 03:47 PM** - Rocket Will Launch Mission for Confidential Customer (supercluster)
+- **Aug 23, 03:52 PM** - Rocket Will Launch Mission for Confidential Customer (supercluster)
