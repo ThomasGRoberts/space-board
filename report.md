@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 63 | 63 |
+| supercluster | 1 | 1 | 64 | 64 |
 | breaking_defense | 0 | 1 | 28 | 58 |
 | nyt | 0 | 0 | 27 | 57 |
 | spacenews | 0 | 0 | 0 | 0 |
@@ -6001,3 +6001,4 @@
 - **Aug 23, 12:13 AM** - The Army must accelerate counterspace investments (breaking_defense)
 - **Aug 23, 12:27 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
 - **Aug 23, 12:29 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
+- **Aug 23, 12:32 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
