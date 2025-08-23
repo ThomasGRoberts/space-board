@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 0 | 28 | 55 |
-| nyt | 0 | 0 | 27 | 55 |
+| nyt | 0 | 0 | 27 | 54 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 42 | 42 |
+| supercluster | 1 | 1 | 43 | 43 |
 
 # Shown Order
 
@@ -6020,3 +6020,4 @@
 - **Aug 23, 06:31 PM** - Onionlike Space Explosion May Be a New Type of Supernova (nyt)
 - **Aug 23, 06:45 PM** - Space Guard proponents hope for last-minute Trump intervention (breaking_defense)
 - **Aug 23, 07:02 PM** - Rocket Will Launch Mission for Confidential Customer (supercluster)
+- **Aug 23, 07:05 PM** - Rocket Will Launch Mission for Confidential Customer (supercluster)
