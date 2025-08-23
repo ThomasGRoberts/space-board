@@ -5,7 +5,7 @@
 | breaking_defense | 0 | 0 | 26 | 54 |
 | nyt | 0 | 0 | 26 | 54 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 20 | 20 |
+| supercluster | 1 | 1 | 21 | 21 |
 
 # Shown Order
 
@@ -5992,3 +5992,4 @@
 - **Aug 23, 03:55 PM** - Rocket Will Launch Mission for Confidential Customer (supercluster)
 - **Aug 23, 03:58 PM** - Origami Bloom Patterns Could Help Build Folding Structures in Space (nyt)
 - **Aug 23, 04:28 PM** - 2025 Schriever space wargame last to be planned unilaterally by US (breaking_defense)
+- **Aug 23, 04:53 PM** - Rocket Will Launch Mission for Confidential Customer (supercluster)
