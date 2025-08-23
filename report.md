@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 77 | 77 |
-| breaking_defense | 0 | 1 | 28 | 58 |
+| supercluster | 1 | 1 | 78 | 78 |
+| breaking_defense | 0 | 1 | 27 | 58 |
 | nyt | 0 | 0 | 27 | 57 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -6019,3 +6019,4 @@
 - **Aug 23, 01:41 AM** - 2025 Schriever space wargame last to be planned unilaterally by US (breaking_defense)
 - **Aug 23, 01:57 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
 - **Aug 23, 01:59 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
+- **Aug 23, 02:02 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
