@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 61 | 61 |
-| breaking_defense | 0 | 1 | 27 | 57 |
+| breaking_defense | 0 | 1 | 28 | 58 |
 | nyt | 0 | 0 | 28 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -5998,3 +5998,4 @@
 - **Aug 22, 11:55 PM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
 - **Aug 22, 11:57 PM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
 - **Aug 22, 11:59 PM** - Newly Discovered Moon Around Uranus Was Hiding Outside Its Rings (nyt)
+- **Aug 23, 12:13 AM** - The Army must accelerate counterspace investments (breaking_defense)
