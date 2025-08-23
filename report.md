@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 1 | 29 | 57 |
+| breaking_defense | 0 | 1 | 29 | 56 |
 | nyt | 0 | 0 | 28 | 56 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -5967,3 +5967,4 @@
 - **Aug 23, 11:09 AM** - Origami Bloom Patterns Could Help Build Folding Structures in Space (nyt)
 - **Aug 23, 11:34 AM** - Space Guard proponents hope for last-minute Trump intervention (breaking_defense)
 - **Aug 23, 12:32 PM** - Rocket Will Launch Mission for Confidential Customer (supercluster)
+- **Aug 23, 12:38 PM** - Rocket Will Launch Mission for Confidential Customer (supercluster)
