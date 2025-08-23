@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 103 | 103 |
 | breaking_defense | 0 | 1 | 28 | 57 |
-| nyt | 0 | 0 | 28 | 57 |
+| nyt | 0 | 0 | 29 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -6051,3 +6051,4 @@
 - **Aug 23, 04:15 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
 - **Aug 23, 04:17 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
 - **Aug 23, 04:19 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
+- **Aug 23, 04:21 AM** - Origami Bloom Patterns Could Help Build Folding Structures in Space (nyt)
