@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 0 | 26 | 54 |
+| breaking_defense | 0 | 0 | 27 | 55 |
 | nyt | 0 | 0 | 27 | 54 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 27 | 27 |
@@ -6000,3 +6000,4 @@
 - **Aug 23, 05:03 PM** - Rocket Will Launch Mission for Confidential Customer (supercluster)
 - **Aug 23, 05:05 PM** - Rocket Will Launch Mission for Confidential Customer (supercluster)
 - **Aug 23, 05:07 PM** - Onionlike Space Explosion May Be a New Type of Supernova (nyt)
+- **Aug 23, 05:21 PM** - 2025 Schriever space wargame last to be planned unilaterally by US (breaking_defense)
