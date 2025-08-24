@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 0 | 29 | 56 |
-| nyt | 0 | 0 | 29 | 56 |
+| nyt | 0 | 0 | 30 | 57 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 70 | 70 |
 
@@ -6096,3 +6096,4 @@
 - **Aug 24, 02:21 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
 - **Aug 24, 02:23 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
 - **Aug 24, 02:25 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
+- **Aug 24, 02:27 PM** - Onionlike Space Explosion May Be a New Type of Supernova (nyt)
