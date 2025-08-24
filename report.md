@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 39 | 39 |
 | breaking_defense | 0 | 0 | 26 | 54 |
-| nyt | 0 | 0 | 26 | 53 |
+| nyt | 0 | 0 | 27 | 54 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -6037,3 +6037,4 @@
 - **Aug 24, 03:17 AM** - SpaceX Will Launch Cargo and Science to the ISS for NASA (supercluster)
 - **Aug 24, 03:19 AM** - SpaceX Will Launch Cargo and Science to the ISS for NASA (supercluster)
 - **Aug 24, 03:22 AM** - SpaceX Will Launch Cargo and Science to the ISS for NASA (supercluster)
+- **Aug 24, 03:25 AM** - Onionlike Space Explosion May Be a New Type of Supernova (nyt)
