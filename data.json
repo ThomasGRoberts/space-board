@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-24T00:01:56.452300+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e85dae45d628e06a35ff0f6d44d98cb2",
+    "trigger_count": 0,
+    "current_item_id": "fb99e6f2b8e16ee41c38738aa6ff4b4c",
     "data": [
         {
             "id": "ac39431a61e14bd5c5715185fec2c4ec",
@@ -11662,6 +11662,18 @@
             "fetched_datetime": "2025-08-24T20:35:47.098919Z",
             "shown_at": [
                 "2025-08-24T20:35:47.990889Z"
+            ]
+        },
+        {
+            "id": "fb99e6f2b8e16ee41c38738aa6ff4b4c",
+            "source": "nyt",
+            "text": "SpaceX Scrubs Critical 10th Test Launch of Starship Rocket",
+            "source_link": "https://www.nytimes.com/2025/08/24/science/spacex-starship-launch.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-24T23:27:49.823581Z",
+            "shown_at": [
+                "2025-08-24T23:27:50.470149Z"
             ]
         }
     ]
