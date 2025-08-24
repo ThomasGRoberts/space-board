@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 0 | 31 | 58 |
-| nyt | 0 | 0 | 30 | 58 |
+| nyt | 0 | 0 | 31 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 112 | 112 |
 
@@ -6150,3 +6150,4 @@
 - **Aug 24, 06:37 PM** - China Will Launch the Long March 8A Rocket (supercluster)
 - **Aug 24, 06:39 PM** - China Will Launch the Long March 8A Rocket (supercluster)
 - **Aug 24, 06:41 PM** - China Will Launch the Long March 8A Rocket (supercluster)
+- **Aug 24, 06:43 PM** - Newly Discovered Moon Around Uranus Was Hiding Outside Its Rings (nyt)
