@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 0 | 26 | 55 |
-| nyt | 0 | 0 | 26 | 54 |
+| nyt | 0 | 0 | 25 | 54 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 23 | 23 |
+| supercluster | 2 | 2 | 24 | 24 |
 
 # Shown Order
 
@@ -6037,3 +6037,4 @@
 - **Aug 24, 09:41 AM** - Space Guard proponents hope for last-minute Trump intervention (breaking_defense)
 - **Aug 24, 09:55 AM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
 - **Aug 24, 09:57 AM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
+- **Aug 24, 09:59 AM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
