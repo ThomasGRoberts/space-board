@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 0 | 30 | 57 |
-| nyt | 1 | 1 | 32 | 59 |
+| breaking_defense | 0 | 0 | 31 | 58 |
+| nyt | 1 | 1 | 31 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 77 | 77 |
 
@@ -6121,3 +6121,4 @@
 - **Aug 24, 08:19 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
 - **Aug 24, 08:21 PM** - Onionlike Space Explosion May Be a New Type of Supernova (nyt)
 - **Aug 24, 08:35 PM** - SpaceX Starship 10th Test Flight: How and When to Watch the Launch (nyt)
+- **Aug 24, 08:49 PM** - Space Guard proponents hope for last-minute Trump intervention (breaking_defense)
