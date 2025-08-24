@@ -5,7 +5,7 @@
 | breaking_defense | 0 | 0 | 28 | 56 |
 | nyt | 0 | 0 | 28 | 56 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 49 | 49 |
+| supercluster | 2 | 2 | 50 | 50 |
 
 # Shown Order
 
@@ -6071,3 +6071,4 @@
 - **Aug 24, 12:17 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
 - **Aug 24, 12:19 PM** - Onionlike Space Explosion May Be a New Type of Supernova (nyt)
 - **Aug 24, 12:33 PM** - Space Guard proponents hope for last-minute Trump intervention (breaking_defense)
+- **Aug 24, 12:47 PM** - China Will Launch the Long March 8A Rocket (supercluster)
