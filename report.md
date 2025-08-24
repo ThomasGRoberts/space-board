@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 0 | 30 | 58 |
-| nyt | 1 | 1 | 31 | 58 |
+| nyt | 1 | 1 | 32 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 91 | 91 |
 
@@ -6138,3 +6138,4 @@
 - **Aug 24, 09:55 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
 - **Aug 24, 09:57 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
 - **Aug 24, 09:59 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
+- **Aug 24, 10:02 PM** - Newly Discovered Moon Around Uranus Was Hiding Outside Its Rings (nyt)
