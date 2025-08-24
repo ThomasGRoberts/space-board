@@ -5,7 +5,7 @@
 | breaking_defense | 0 | 0 | 25 | 54 |
 | nyt | 0 | 0 | 25 | 54 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 8 | 8 |
+| supercluster | 2 | 2 | 9 | 9 |
 
 # Shown Order
 
@@ -6018,3 +6018,4 @@
 - **Aug 24, 07:59 AM** - Newly Discovered Moon Around Uranus Was Hiding Outside Its Rings (nyt)
 - **Aug 24, 08:13 AM** - 2025 Schriever space wargame last to be planned unilaterally by US (breaking_defense)
 - **Aug 24, 08:27 AM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
+- **Aug 24, 08:29 AM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
