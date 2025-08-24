@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 60 | 60 |
 | breaking_defense | 0 | 0 | 26 | 55 |
-| nyt | 0 | 0 | 26 | 55 |
+| nyt | 0 | 0 | 27 | 56 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -6064,3 +6064,4 @@
 - **Aug 24, 05:32 AM** - SpaceX Will Launch Cargo and Science to the ISS for NASA (supercluster)
 - **Aug 24, 05:33 AM** - SpaceX Will Launch Cargo and Science to the ISS for NASA (supercluster)
 - **Aug 24, 05:35 AM** - SpaceX Will Launch Cargo and Science to the ISS for NASA (supercluster)
+- **Aug 24, 05:37 AM** - Origami Bloom Patterns Could Help Build Folding Structures in Space (nyt)
