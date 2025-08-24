@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 0 | 30 | 57 |
+| breaking_defense | 0 | 0 | 31 | 58 |
 | nyt | 1 | 1 | 32 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 98 | 98 |
@@ -6148,3 +6148,4 @@
 - **Aug 24, 10:39 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
 - **Aug 24, 10:41 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
 - **Aug 24, 10:43 PM** - Onionlike Space Explosion May Be a New Type of Supernova (nyt)
+- **Aug 24, 10:57 PM** - 2025 Schriever space wargame last to be planned unilaterally by US (breaking_defense)
