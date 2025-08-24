@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 6 | 6 |
+| supercluster | 1 | 1 | 7 | 7 |
 | breaking_defense | 0 | 0 | 26 | 54 |
 | nyt | 0 | 0 | 26 | 53 |
 | spacenews | 0 | 0 | 0 | 0 |
@@ -5996,3 +5996,4 @@
 - **Aug 24, 12:05 AM** - 2025 Schriever space wargame last to be planned unilaterally by US (breaking_defense)
 - **Aug 24, 12:19 AM** - SpaceX Will Launch Cargo and Science to the ISS for NASA (supercluster)
 - **Aug 24, 12:21 AM** - SpaceX Will Launch Cargo and Science to the ISS for NASA (supercluster)
+- **Aug 24, 12:23 AM** - SpaceX Will Launch Cargo and Science to the ISS for NASA (supercluster)
