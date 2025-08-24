@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 0 | 30 | 56 |
+| breaking_defense | 0 | 0 | 29 | 56 |
 | nyt | 0 | 0 | 29 | 56 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 70 | 70 |
+| supercluster | 2 | 2 | 71 | 71 |
 
 # Shown Order
 
@@ -6098,3 +6098,4 @@
 - **Aug 24, 02:25 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
 - **Aug 24, 02:27 PM** - Onionlike Space Explosion May Be a New Type of Supernova (nyt)
 - **Aug 24, 02:43 PM** - The Army must accelerate counterspace investments (breaking_defense)
+- **Aug 24, 02:57 PM** - China Will Launch the Long March 8A Rocket (supercluster)
