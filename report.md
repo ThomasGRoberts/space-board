@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 0 | 26 | 56 |
+| breaking_defense | 0 | 0 | 27 | 57 |
 | nyt | 0 | 0 | 27 | 56 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 42 | 42 |
@@ -6061,3 +6061,4 @@
 - **Aug 24, 11:33 AM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
 - **Aug 24, 11:35 AM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
 - **Aug 24, 11:37 AM** - Origami Bloom Patterns Could Help Build Folding Structures in Space (nyt)
+- **Aug 24, 11:52 AM** - Space Guard proponents hope for last-minute Trump intervention (breaking_defense)
