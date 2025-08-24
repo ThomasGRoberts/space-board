@@ -5,7 +5,7 @@
 | breaking_defense | 0 | 0 | 31 | 59 |
 | nyt | 0 | 0 | 31 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 105 | 105 |
+| supercluster | 2 | 2 | 106 | 106 |
 
 # Shown Order
 
@@ -6143,3 +6143,4 @@
 - **Aug 24, 05:57 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
 - **Aug 24, 05:59 PM** - Newly Discovered Moon Around Uranus Was Hiding Outside Its Rings (nyt)
 - **Aug 24, 06:13 PM** - The Army must accelerate counterspace investments (breaking_defense)
+- **Aug 24, 06:29 PM** - China Will Launch the Long March 8A Rocket (supercluster)
