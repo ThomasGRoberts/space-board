@@ -1,9 +1,26 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-08-23T00:01:56.489705+00:00",
-    "trigger_count": 4,
+    "last_run_datetime": "2025-08-24T00:01:56.452300+00:00",
+    "trigger_count": 5,
     "current_item_id": "1508608cb360eb39e4aced99e0ba518a",
     "data": [
+        {
+            "id": "e53cb8ef2fe713dd7a903a1b27572652",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Cargo and Science to the ISS for NASA",
+            "source_link": "https://www.supercluster.com/launches/spacex-crs-33",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-08-24T06:45:00.000Z",
+            "time_remaining": "0d 06h 55m",
+            "fetched_datetime": "2025-08-23T23:43:35.071981Z",
+            "shown_at": [
+                "2025-08-23T23:43:35.928214Z",
+                "2025-08-23T23:45:49.294168Z",
+                "2025-08-23T23:47:42.164314Z",
+                "2025-08-23T23:49:39.349917Z"
+            ]
+        },
         {
             "id": "ac39431a61e14bd5c5715185fec2c4ec",
             "source": "breaking_defense",
@@ -11471,23 +11488,6 @@
                 "2025-05-31T23:47:42.161682Z",
                 "2025-06-01T03:41:41.777330Z",
                 "2025-06-01T22:41:16.491340Z"
-            ]
-        },
-        {
-            "id": "e53cb8ef2fe713dd7a903a1b27572652",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Cargo and Science to the ISS for NASA",
-            "source_link": "https://www.supercluster.com/launches/spacex-crs-33",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-08-24T06:45:00.000Z",
-            "time_remaining": "0d 06h 55m",
-            "fetched_datetime": "2025-08-23T23:43:35.071981Z",
-            "shown_at": [
-                "2025-08-23T23:43:35.928214Z",
-                "2025-08-23T23:45:49.294168Z",
-                "2025-08-23T23:47:42.164314Z",
-                "2025-08-23T23:49:39.349917Z"
             ]
         }
     ]
