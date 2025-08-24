@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 0 | 29 | 56 |
+| breaking_defense | 0 | 0 | 30 | 57 |
 | nyt | 0 | 0 | 30 | 56 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 77 | 77 |
@@ -6106,3 +6106,4 @@
 - **Aug 24, 03:07 PM** - China Will Launch the Long March 8A Rocket (supercluster)
 - **Aug 24, 03:09 PM** - China Will Launch the Long March 8A Rocket (supercluster)
 - **Aug 24, 03:11 PM** - Origami Bloom Patterns Could Help Build Folding Structures in Space (nyt)
+- **Aug 24, 03:25 PM** - 2025 Schriever space wargame last to be planned unilaterally by US (breaking_defense)
