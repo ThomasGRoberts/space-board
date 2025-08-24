@@ -5,7 +5,7 @@
 | breaking_defense | 0 | 0 | 28 | 56 |
 | nyt | 0 | 0 | 28 | 56 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 51 | 51 |
+| supercluster | 2 | 2 | 52 | 52 |
 
 # Shown Order
 
@@ -6073,3 +6073,4 @@
 - **Aug 24, 12:33 PM** - Space Guard proponents hope for last-minute Trump intervention (breaking_defense)
 - **Aug 24, 12:47 PM** - China Will Launch the Long March 8A Rocket (supercluster)
 - **Aug 24, 12:49 PM** - China Will Launch the Long March 8A Rocket (supercluster)
+- **Aug 24, 12:51 PM** - China Will Launch the Long March 8A Rocket (supercluster)
