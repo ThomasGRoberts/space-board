@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 0 | 27 | 56 |
+| breaking_defense | 0 | 0 | 26 | 56 |
 | nyt | 0 | 0 | 26 | 55 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 41 | 41 |
+| supercluster | 2 | 2 | 42 | 42 |
 
 # Shown Order
 
@@ -6059,3 +6059,4 @@
 - **Aug 24, 11:29 AM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
 - **Aug 24, 11:31 AM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
 - **Aug 24, 11:33 AM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
+- **Aug 24, 11:35 AM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
