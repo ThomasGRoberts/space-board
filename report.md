@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 0 | 30 | 57 |
-| nyt | 0 | 0 | 30 | 56 |
+| nyt | 0 | 0 | 31 | 57 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 91 | 91 |
 
@@ -6123,3 +6123,4 @@
 - **Aug 24, 04:29 PM** - China Will Launch the Long March 8A Rocket (supercluster)
 - **Aug 24, 04:31 PM** - China Will Launch the Long March 8A Rocket (supercluster)
 - **Aug 24, 04:33 PM** - China Will Launch the Long March 8A Rocket (supercluster)
+- **Aug 24, 04:35 PM** - Origami Bloom Patterns Could Help Build Folding Structures in Space (nyt)
