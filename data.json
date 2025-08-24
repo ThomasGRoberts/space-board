@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-24T00:01:56.452300+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e942581ba80ac133bd050201e7901e4e",
+    "trigger_count": 0,
+    "current_item_id": "809b735348c9dd5893a84b791984b3a7",
     "data": [
         {
             "id": "ac39431a61e14bd5c5715185fec2c4ec",
@@ -11615,6 +11615,18 @@
                 "2025-08-24T20:15:33.887354Z",
                 "2025-08-24T20:17:29.737811Z",
                 "2025-08-24T20:19:38.623471Z"
+            ]
+        },
+        {
+            "id": "809b735348c9dd5893a84b791984b3a7",
+            "source": "nyt",
+            "text": "SpaceX Starship 10th Test Flight: How and When to Watch the Launch",
+            "source_link": "https://www.nytimes.com/2025/08/24/science/spacex-starship-launch.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-24T20:35:47.098919Z",
+            "shown_at": [
+                "2025-08-24T20:35:47.990889Z"
             ]
         }
     ]
