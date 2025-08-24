@@ -5,7 +5,7 @@
 | breaking_defense | 0 | 0 | 31 | 57 |
 | nyt | 0 | 0 | 31 | 57 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 93 | 93 |
+| supercluster | 2 | 2 | 94 | 94 |
 
 # Shown Order
 
@@ -6127,3 +6127,4 @@
 - **Aug 24, 04:49 PM** - 2025 Schriever space wargame last to be planned unilaterally by US (breaking_defense)
 - **Aug 24, 05:03 PM** - China Will Launch the Long March 8A Rocket (supercluster)
 - **Aug 24, 05:05 PM** - China Will Launch the Long March 8A Rocket (supercluster)
+- **Aug 24, 05:07 PM** - China Will Launch the Long March 8A Rocket (supercluster)
