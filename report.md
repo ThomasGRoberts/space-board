@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 0 | 31 | 59 |
+| breaking_defense | 0 | 0 | 31 | 58 |
 | nyt | 0 | 0 | 31 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 114 | 114 |
+| supercluster | 2 | 2 | 115 | 115 |
 
 # Shown Order
 
@@ -6154,3 +6154,4 @@
 - **Aug 24, 06:57 PM** - The Army must accelerate counterspace investments (breaking_defense)
 - **Aug 24, 07:11 PM** - China Will Launch the Long March 8A Rocket (supercluster)
 - **Aug 24, 07:13 PM** - China Will Launch the Long March 8A Rocket (supercluster)
+- **Aug 24, 07:15 PM** - China Will Launch the Long March 8A Rocket (supercluster)
