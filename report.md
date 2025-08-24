@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 0 | 30 | 58 |
-| nyt | 1 | 1 | 31 | 58 |
+| nyt | 1 | 1 | 32 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 84 | 84 |
 
@@ -6129,3 +6129,4 @@
 - **Aug 24, 09:13 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
 - **Aug 24, 09:15 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
 - **Aug 24, 09:17 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
+- **Aug 24, 09:19 PM** - Origami Bloom Patterns Could Help Build Folding Structures in Space (nyt)
