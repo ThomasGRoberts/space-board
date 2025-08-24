@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 25 | 25 |
-| breaking_defense | 0 | 0 | 26 | 53 |
+| breaking_defense | 0 | 0 | 27 | 54 |
 | nyt | 0 | 0 | 26 | 54 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -6020,3 +6020,4 @@
 - **Aug 24, 01:53 AM** - SpaceX Will Launch Cargo and Science to the ISS for NASA (supercluster)
 - **Aug 24, 01:55 AM** - SpaceX Will Launch Cargo and Science to the ISS for NASA (supercluster)
 - **Aug 24, 01:57 AM** - Origami Bloom Patterns Could Help Build Folding Structures in Space (nyt)
+- **Aug 24, 02:13 AM** - The Army must accelerate counterspace investments (breaking_defense)
