@@ -5,7 +5,7 @@
 | breaking_defense | 0 | 0 | 31 | 59 |
 | nyt | 0 | 0 | 31 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 113 | 113 |
+| supercluster | 2 | 2 | 114 | 114 |
 
 # Shown Order
 
@@ -6153,3 +6153,4 @@
 - **Aug 24, 06:43 PM** - Newly Discovered Moon Around Uranus Was Hiding Outside Its Rings (nyt)
 - **Aug 24, 06:57 PM** - The Army must accelerate counterspace investments (breaking_defense)
 - **Aug 24, 07:11 PM** - China Will Launch the Long March 8A Rocket (supercluster)
+- **Aug 24, 07:13 PM** - China Will Launch the Long March 8A Rocket (supercluster)
