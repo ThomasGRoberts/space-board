@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-24T00:01:56.452300+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ac39431a61e14bd5c5715185fec2c4ec",
+    "trigger_count": 0,
+    "current_item_id": "e53cb8ef2fe713dd7a903a1b27572652",
     "data": [
         {
             "id": "ac39431a61e14bd5c5715185fec2c4ec",
@@ -11490,6 +11490,20 @@
                 "2025-05-31T23:47:42.161682Z",
                 "2025-06-01T03:41:41.777330Z",
                 "2025-06-01T22:41:16.491340Z"
+            ]
+        },
+        {
+            "id": "e53cb8ef2fe713dd7a903a1b27572652",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Cargo and Science to the ISS for NASA",
+            "source_link": "https://www.supercluster.com/launches/spacex-crs-33",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-08-24T06:45:00.000Z",
+            "time_remaining": "",
+            "fetched_datetime": "2025-08-24T06:47:42.024821Z",
+            "shown_at": [
+                "2025-08-24T06:47:42.679333Z"
             ]
         }
     ]

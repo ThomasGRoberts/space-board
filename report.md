@@ -5,6 +5,7 @@
 | breaking_defense | 0 | 0 | 26 | 55 |
 | nyt | 0 | 0 | 26 | 55 |
 | spacenews | 0 | 0 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -6007,3 +6008,4 @@
 - **Aug 24, 05:51 AM** - 2025 Schriever space wargame last to be planned unilaterally by US (breaking_defense)
 - **Aug 24, 06:19 AM** - Newly Discovered Moon Around Uranus Was Hiding Outside Its Rings (nyt)
 - **Aug 24, 06:33 AM** - Space Guard proponents hope for last-minute Trump intervention (breaking_defense)
+- **Aug 24, 06:47 AM** - SpaceX Will Launch Cargo and Science to the ISS for NASA (supercluster)
