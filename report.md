@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 46 | 46 |
-| breaking_defense | 0 | 0 | 26 | 54 |
+| breaking_defense | 0 | 0 | 27 | 55 |
 | nyt | 0 | 0 | 26 | 55 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -6047,3 +6047,4 @@
 - **Aug 24, 04:07 AM** - SpaceX Will Launch Cargo and Science to the ISS for NASA (supercluster)
 - **Aug 24, 04:09 AM** - SpaceX Will Launch Cargo and Science to the ISS for NASA (supercluster)
 - **Aug 24, 04:11 AM** - Newly Discovered Moon Around Uranus Was Hiding Outside Its Rings (nyt)
+- **Aug 24, 04:25 AM** - The Army must accelerate counterspace investments (breaking_defense)
