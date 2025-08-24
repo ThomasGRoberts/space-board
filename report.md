@@ -5,7 +5,7 @@
 | breaking_defense | 0 | 0 | 29 | 56 |
 | nyt | 0 | 0 | 29 | 56 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 71 | 71 |
+| supercluster | 2 | 2 | 72 | 72 |
 
 # Shown Order
 
@@ -6099,3 +6099,4 @@
 - **Aug 24, 02:27 PM** - Onionlike Space Explosion May Be a New Type of Supernova (nyt)
 - **Aug 24, 02:43 PM** - The Army must accelerate counterspace investments (breaking_defense)
 - **Aug 24, 02:57 PM** - China Will Launch the Long March 8A Rocket (supercluster)
+- **Aug 24, 02:59 PM** - China Will Launch the Long March 8A Rocket (supercluster)
