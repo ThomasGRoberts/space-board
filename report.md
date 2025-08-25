@@ -5,7 +5,7 @@
 | nyt | 2 | 2 | 33 | 58 |
 | breaking_defense | 0 | 0 | 32 | 57 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 77 | 77 |
+| supercluster | 1 | 1 | 78 | 78 |
 
 # Shown Order
 
@@ -6146,3 +6146,4 @@
 - **Aug 25, 07:39 AM** - China Will Launch the Long March 8A Rocket (supercluster)
 - **Aug 25, 07:41 AM** - The Army must accelerate counterspace investments (breaking_defense)
 - **Aug 25, 07:55 AM** - SpaceX Scrubs Critical 10th Test Launch of Starship Rocket (nyt)
+- **Aug 25, 08:09 AM** - China Will Launch the Long March 8A Rocket (supercluster)
