@@ -5,7 +5,6 @@
 | nyt | 4 | 6 | 33 | 65 |
 | breaking_defense | 0 | 0 | 31 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 6 | 6 |
 
 # Shown Order
 
@@ -6109,11 +6108,5 @@
 - **Aug 25, 10:31 PM** - SpaceX Reschedules Scrubbed  10th Test Launch of Starship Rocket (nyt)
 - **Aug 25, 11:01 PM** - Space Guard proponents hope for last-minute Trump intervention (breaking_defense)
 - **Aug 25, 11:15 PM** - SpaceX Starship 10th Test Flight: How and When to Watch the Launch (nyt)
-- **Aug 25, 11:31 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
-- **Aug 25, 11:33 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
-- **Aug 25, 11:35 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
-- **Aug 25, 11:37 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
-- **Aug 25, 11:39 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
-- **Aug 25, 11:41 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
 - **Aug 25, 11:43 PM** - Space Guard proponents hope for last-minute Trump intervention (breaking_defense)
 - **Aug 25, 11:57 PM** - SpaceX Reschedules Scrubbed 10th Test Launch of Starship Rocket (nyt)

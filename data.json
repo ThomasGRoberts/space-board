@@ -1,7 +1,7 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-25T00:11:56.778138+00:00",
-    "trigger_count": 0,
+    "trigger_count": 1,
     "current_item_id": "36ed1ce571794616d3dd8d286145cab1",
     "data": [
         {
@@ -11648,25 +11648,6 @@
             "fetched_datetime": "2025-08-25T21:07:53.661477Z",
             "shown_at": [
                 "2025-08-25T21:07:54.280437Z"
-            ]
-        },
-        {
-            "id": "e85dae45d628e06a35ff0f6d44d98cb2",
-            "source": "supercluster",
-            "text": "SpaceX Will Perform Tenth Flight Test of Starship Super Heavy",
-            "source_link": "https://www.supercluster.com/launches/starship-super-heavy-flight-test-10",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-08-25T23:59:00.000Z",
-            "time_remaining": "0d 00h 17m",
-            "fetched_datetime": "2025-08-25T23:31:55.573930Z",
-            "shown_at": [
-                "2025-08-25T23:31:56.120735Z",
-                "2025-08-25T23:33:41.092998Z",
-                "2025-08-25T23:35:30.237153Z",
-                "2025-08-25T23:37:34.716979Z",
-                "2025-08-25T23:39:24.776950Z",
-                "2025-08-25T23:41:49.532924Z"
             ]
         }
     ]
