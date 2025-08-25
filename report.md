@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 5 | 34 | 65 |
-| breaking_defense | 0 | 0 | 30 | 61 |
+| breaking_defense | 0 | 0 | 31 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 168 | 168 |
 
@@ -6263,3 +6263,4 @@
 - **Aug 25, 05:31 PM** - China Will Launch the Long March 8A Rocket (supercluster)
 - **Aug 25, 05:33 PM** - China Will Launch the Long March 8A Rocket (supercluster)
 - **Aug 25, 05:35 PM** - China Will Launch the Long March 8A Rocket (supercluster)
+- **Aug 25, 05:38 PM** - The Army must accelerate counterspace investments (breaking_defense)
