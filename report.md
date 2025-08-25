@@ -5,7 +5,7 @@
 | nyt | 5 | 5 | 35 | 65 |
 | breaking_defense | 0 | 0 | 31 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 147 | 147 |
+| supercluster | 1 | 1 | 148 | 148 |
 
 # Shown Order
 
@@ -6238,3 +6238,4 @@
 - **Aug 25, 03:10 PM** - SpaceX Reschedules Scrubbed 10th Test Launch of Starship Rocket (nyt)
 - **Aug 25, 03:25 PM** - The Army must accelerate counterspace investments (breaking_defense)
 - **Aug 25, 03:39 PM** - Scientists Find a Quadruple Star System in Our Cosmic Backyard (nyt)
+- **Aug 25, 03:53 PM** - China Will Launch the Long March 8A Rocket (supercluster)
