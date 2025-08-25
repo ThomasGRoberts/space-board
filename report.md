@@ -5,7 +5,7 @@
 | nyt | 5 | 5 | 34 | 65 |
 | breaking_defense | 0 | 0 | 31 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 149 | 149 |
+| supercluster | 1 | 1 | 150 | 150 |
 
 # Shown Order
 
@@ -6240,3 +6240,4 @@
 - **Aug 25, 03:39 PM** - Scientists Find a Quadruple Star System in Our Cosmic Backyard (nyt)
 - **Aug 25, 03:53 PM** - China Will Launch the Long March 8A Rocket (supercluster)
 - **Aug 25, 03:55 PM** - China Will Launch the Long March 8A Rocket (supercluster)
+- **Aug 25, 03:57 PM** - China Will Launch the Long March 8A Rocket (supercluster)
