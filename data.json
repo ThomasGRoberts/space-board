@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-25T00:11:56.778138+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c53cf7298624ce1af471091077966550",
+    "trigger_count": 0,
+    "current_item_id": "36ed1ce571794616d3dd8d286145cab1",
     "data": [
         {
             "id": "fb99e6f2b8e16ee41c38738aa6ff4b4c",
@@ -11734,6 +11734,18 @@
             "fetched_datetime": "2025-08-25T13:12:05.800064Z",
             "shown_at": [
                 "2025-08-25T13:12:07.257342Z"
+            ]
+        },
+        {
+            "id": "36ed1ce571794616d3dd8d286145cab1",
+            "source": "nyt",
+            "text": "SpaceX Reschedules Scrubbed 10th Test Launch of Starship Rocket",
+            "source_link": "https://www.nytimes.com/2025/08/24/science/spacex-starship-launch.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-25T13:43:34.503920Z",
+            "shown_at": [
+                "2025-08-25T13:43:35.119690Z"
             ]
         }
     ]
