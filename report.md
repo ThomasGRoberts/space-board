@@ -5,7 +5,7 @@
 | nyt | 2 | 2 | 32 | 58 |
 | breaking_defense | 0 | 0 | 30 | 57 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 63 | 63 |
+| supercluster | 1 | 1 | 64 | 64 |
 
 # Shown Order
 
@@ -6128,3 +6128,4 @@
 - **Aug 25, 06:13 AM** - China Will Launch the Long March 8A Rocket (supercluster)
 - **Aug 25, 06:15 AM** - Space Guard proponents hope for last-minute Trump intervention (breaking_defense)
 - **Aug 25, 06:30 AM** - SpaceX Scrubs Critical 10th Test Launch of Starship Rocket (nyt)
+- **Aug 25, 06:43 AM** - China Will Launch the Long March 8A Rocket (supercluster)
