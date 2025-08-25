@@ -5,7 +5,7 @@
 | nyt | 2 | 2 | 32 | 58 |
 | breaking_defense | 0 | 0 | 30 | 57 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 42 | 42 |
+| supercluster | 1 | 1 | 43 | 43 |
 
 # Shown Order
 
@@ -6101,3 +6101,4 @@
 - **Aug 25, 03:59 AM** - China Will Launch the Long March 8A Rocket (supercluster)
 - **Aug 25, 04:02 AM** - 2025 Schriever space wargame last to be planned unilaterally by US (breaking_defense)
 - **Aug 25, 04:17 AM** - SpaceX Starship 10th Test Flight: How and When to Watch the Launch (nyt)
+- **Aug 25, 04:33 AM** - China Will Launch the Long March 8A Rocket (supercluster)
