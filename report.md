@@ -5,7 +5,7 @@
 | nyt | 2 | 2 | 33 | 61 |
 | breaking_defense | 0 | 0 | 32 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 120 | 120 |
+| supercluster | 1 | 1 | 121 | 121 |
 
 # Shown Order
 
@@ -6201,3 +6201,4 @@
 - **Aug 25, 11:57 AM** - Space Guard proponents hope for last-minute Trump intervention (breaking_defense)
 - **Aug 25, 12:11 PM** - Onionlike Space Explosion May Be a New Type of Supernova (nyt)
 - **Aug 25, 12:25 PM** - China Will Launch the Long March 8A Rocket (supercluster)
+- **Aug 25, 12:28 PM** - China Will Launch the Long March 8A Rocket (supercluster)
