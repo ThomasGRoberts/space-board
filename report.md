@@ -5,7 +5,7 @@
 | nyt | 5 | 6 | 32 | 64 |
 | breaking_defense | 0 | 0 | 30 | 60 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 8 | 8 |
+| supercluster | 1 | 1 | 9 | 9 |
 
 # Shown Order
 
@@ -6111,3 +6111,4 @@
 - **Aug 25, 08:49 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
 - **Aug 25, 08:52 PM** - 2025 Schriever space wargame last to be planned unilaterally by US (breaking_defense)
 - **Aug 25, 09:07 PM** - SpaceX Starship 10th Test Launch: How and When to Watch the Flight (nyt)
+- **Aug 25, 09:21 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
