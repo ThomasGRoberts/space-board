@@ -1,7 +1,7 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-25T00:11:56.778138+00:00",
-    "trigger_count": 0,
+    "trigger_count": 1,
     "current_item_id": "e85dae45d628e06a35ff0f6d44d98cb2",
     "data": [
         {
@@ -11637,49 +11637,6 @@
             ]
         },
         {
-            "id": "e85dae45d628e06a35ff0f6d44d98cb2",
-            "source": "supercluster",
-            "text": "SpaceX Will Perform Tenth Flight Test of Starship Super Heavy",
-            "source_link": "https://www.supercluster.com/launches/starship-super-heavy-flight-test-10",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-08-25T23:30:00.000Z",
-            "time_remaining": "0d 00h 30m",
-            "fetched_datetime": "2025-08-25T20:05:39.555401Z",
-            "shown_at": [
-                "2025-08-25T20:05:40.629682Z",
-                "2025-08-25T20:37:48.652037Z",
-                "2025-08-25T20:39:42.958060Z",
-                "2025-08-25T20:41:53.323483Z",
-                "2025-08-25T20:43:36.233977Z",
-                "2025-08-25T20:45:51.854178Z",
-                "2025-08-25T20:47:43.978074Z",
-                "2025-08-25T20:49:06.956109Z",
-                "2025-08-25T21:21:59.354784Z",
-                "2025-08-25T21:23:30.647530Z",
-                "2025-08-25T21:25:30.073320Z",
-                "2025-08-25T21:27:43.637375Z",
-                "2025-08-25T21:29:41.678078Z",
-                "2025-08-25T21:31:42.004449Z",
-                "2025-08-25T21:33:36.281849Z",
-                "2025-08-25T22:03:40.658847Z",
-                "2025-08-25T22:05:37.170457Z",
-                "2025-08-25T22:07:37.055518Z",
-                "2025-08-25T22:09:41.140301Z",
-                "2025-08-25T22:11:41.327617Z",
-                "2025-08-25T22:13:42.315382Z",
-                "2025-08-25T22:15:47.379597Z",
-                "2025-08-25T22:47:39.387320Z",
-                "2025-08-25T22:49:29.360561Z",
-                "2025-08-25T22:52:01.206144Z",
-                "2025-08-25T22:53:27.379775Z",
-                "2025-08-25T22:55:45.896057Z",
-                "2025-08-25T22:57:34.890994Z",
-                "2025-08-25T22:59:47.912389Z",
-                "2025-08-25T23:29:38.760210Z"
-            ]
-        },
-        {
             "id": "1b6162b83020ed93f63a8b354b627e94",
             "source": "nyt",
             "text": "SpaceX Starship 10th Test Launch: How and When to Watch the Flight",
@@ -11689,6 +11646,20 @@
             "fetched_datetime": "2025-08-25T21:07:53.661477Z",
             "shown_at": [
                 "2025-08-25T21:07:54.280437Z"
+            ]
+        },
+        {
+            "id": "e85dae45d628e06a35ff0f6d44d98cb2",
+            "source": "supercluster",
+            "text": "SpaceX Will Perform Tenth Flight Test of Starship Super Heavy",
+            "source_link": "https://www.supercluster.com/launches/starship-super-heavy-flight-test-10",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-08-25T23:59:00.000Z",
+            "time_remaining": "0d 00h 27m",
+            "fetched_datetime": "2025-08-25T23:31:55.573930Z",
+            "shown_at": [
+                "2025-08-25T23:31:56.120735Z"
             ]
         }
     ]

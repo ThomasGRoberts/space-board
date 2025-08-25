@@ -5,7 +5,7 @@
 | nyt | 4 | 6 | 32 | 65 |
 | breaking_defense | 0 | 0 | 30 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 30 | 30 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -6099,43 +6099,14 @@
 - **Aug 25, 05:51 PM** - Origami Bloom Patterns Could Help Build Folding Structures in Space (nyt)
 - **Aug 25, 06:21 PM** - Space Guard proponents hope for last-minute Trump intervention (breaking_defense)
 - **Aug 25, 06:35 PM** - SpaceX Reschedules Scrubbed  10th Test Launch of Starship Rocket (nyt)
-- **Aug 25, 08:05 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
 - **Aug 25, 08:07 PM** - 2025 Schriever space wargame last to be planned unilaterally by US (breaking_defense)
 - **Aug 25, 08:23 PM** - SpaceX Scrubs Critical 10th Test Launch of Starship Rocket (nyt)
-- **Aug 25, 08:37 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
-- **Aug 25, 08:39 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
-- **Aug 25, 08:41 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
-- **Aug 25, 08:43 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
-- **Aug 25, 08:45 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
-- **Aug 25, 08:47 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
-- **Aug 25, 08:49 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
 - **Aug 25, 08:52 PM** - 2025 Schriever space wargame last to be planned unilaterally by US (breaking_defense)
 - **Aug 25, 09:07 PM** - SpaceX Starship 10th Test Launch: How and When to Watch the Flight (nyt)
-- **Aug 25, 09:21 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
-- **Aug 25, 09:23 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
-- **Aug 25, 09:25 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
-- **Aug 25, 09:27 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
-- **Aug 25, 09:29 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
-- **Aug 25, 09:31 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
-- **Aug 25, 09:33 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
 - **Aug 25, 09:35 PM** - 2025 Schriever space wargame last to be planned unilaterally by US (breaking_defense)
 - **Aug 25, 09:49 PM** - SpaceX Reschedules Scrubbed  10th Test Launch of Starship Rocket (nyt)
-- **Aug 25, 10:03 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
-- **Aug 25, 10:05 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
-- **Aug 25, 10:07 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
-- **Aug 25, 10:09 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
-- **Aug 25, 10:11 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
-- **Aug 25, 10:13 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
-- **Aug 25, 10:15 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
 - **Aug 25, 10:17 PM** - 2025 Schriever space wargame last to be planned unilaterally by US (breaking_defense)
 - **Aug 25, 10:31 PM** - SpaceX Reschedules Scrubbed  10th Test Launch of Starship Rocket (nyt)
-- **Aug 25, 10:47 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
-- **Aug 25, 10:49 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
-- **Aug 25, 10:52 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
-- **Aug 25, 10:53 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
-- **Aug 25, 10:55 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
-- **Aug 25, 10:57 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
-- **Aug 25, 10:59 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
 - **Aug 25, 11:01 PM** - Space Guard proponents hope for last-minute Trump intervention (breaking_defense)
 - **Aug 25, 11:15 PM** - SpaceX Starship 10th Test Flight: How and When to Watch the Launch (nyt)
-- **Aug 25, 11:29 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
+- **Aug 25, 11:31 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
