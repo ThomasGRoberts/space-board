@@ -1,9 +1,33 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-08-24T00:01:56.452300+00:00",
-    "trigger_count": 6,
-    "current_item_id": "fb99e6f2b8e16ee41c38738aa6ff4b4c",
+    "last_run_datetime": "2025-08-25T00:11:56.778138+00:00",
+    "trigger_count": 0,
+    "current_item_id": "c53cf7298624ce1af471091077966550",
     "data": [
+        {
+            "id": "fb99e6f2b8e16ee41c38738aa6ff4b4c",
+            "source": "nyt",
+            "text": "SpaceX Scrubs Critical 10th Test Launch of Starship Rocket",
+            "source_link": "https://www.nytimes.com/2025/08/24/science/spacex-starship-launch.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-24T23:27:49.823581Z",
+            "shown_at": [
+                "2025-08-24T23:27:50.470149Z"
+            ]
+        },
+        {
+            "id": "809b735348c9dd5893a84b791984b3a7",
+            "source": "nyt",
+            "text": "SpaceX Starship 10th Test Flight: How and When to Watch the Launch",
+            "source_link": "https://www.nytimes.com/2025/08/24/science/spacex-starship-launch.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-24T20:35:47.098919Z",
+            "shown_at": [
+                "2025-08-24T20:35:47.990889Z"
+            ]
+        },
         {
             "id": "ac39431a61e14bd5c5715185fec2c4ec",
             "source": "breaking_defense",
@@ -11519,43 +11543,17 @@
             ]
         },
         {
-            "id": "6d60fec543c4f6e6cd8d15a25c2db6a4",
-            "source": "spacenews",
-            "text": "APIO16 Radiation-Hardened 16-Bit I/O  Expander Sets a New Benchmark for Resilient System Design",
-            "source_link": "https://spacenews.com/apio16-radiation-hardened-16-bit-i-o-expander-sets-a-new-benchmark-for-resilient-system-design/",
+            "id": "c53cf7298624ce1af471091077966550",
+            "source": "supercluster",
+            "text": "China Will Launch the Long March 8A Rocket",
+            "source_link": "https://www.supercluster.com/launches/long-march-8ai",
             "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-27T15:05:51.718652Z",
+            "type": "launch",
+            "target_datetime": "2025-08-25T19:05:00.000Z",
+            "time_remaining": "0d 18h 52m",
+            "fetched_datetime": "2025-08-25T00:12:00.148831Z",
             "shown_at": [
-                "2025-05-27T15:05:52.820505Z",
-                "2025-05-31T02:51:36.456161Z",
-                "2025-05-31T23:47:42.161682Z",
-                "2025-06-01T03:41:41.777330Z",
-                "2025-06-01T22:41:16.491340Z"
-            ]
-        },
-        {
-            "id": "809b735348c9dd5893a84b791984b3a7",
-            "source": "nyt",
-            "text": "SpaceX Starship 10th Test Flight: How and When to Watch the Launch",
-            "source_link": "https://www.nytimes.com/2025/08/24/science/spacex-starship-launch.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-08-24T20:35:47.098919Z",
-            "shown_at": [
-                "2025-08-24T20:35:47.990889Z"
-            ]
-        },
-        {
-            "id": "fb99e6f2b8e16ee41c38738aa6ff4b4c",
-            "source": "nyt",
-            "text": "SpaceX Scrubs Critical 10th Test Launch of Starship Rocket",
-            "source_link": "https://www.nytimes.com/2025/08/24/science/spacex-starship-launch.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-08-24T23:27:49.823581Z",
-            "shown_at": [
-                "2025-08-24T23:27:50.470149Z"
+                "2025-08-25T00:12:00.955119Z"
             ]
         }
     ]

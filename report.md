@@ -2,13 +2,13 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 0 | 31 | 57 |
-| nyt | 2 | 2 | 33 | 59 |
+| nyt | 2 | 2 | 32 | 58 |
+| breaking_defense | 0 | 0 | 30 | 57 |
 | spacenews | 0 | 0 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
-- **May 27, 03:05 PM** - APIO16 Radiation-Hardened 16-Bit I/O  Expander Sets a New Benchmark for Resilient System Design (spacenews)
 - **May 27, 04:51 PM** - Enpulsion Unveils Nexus, Its Most Powerful Electric Propulsion System to Date (spacenews)
 - **May 27, 06:49 PM** - The real Golden Dome opportunity – defense acquisition reform (spacenews)
 - **May 27, 07:21 PM** - ExoTerra delivers 21 propulsion modules for SDA satellites (spacenews)
@@ -147,7 +147,6 @@
 - **May 31, 01:55 AM** - NASA budget would cancel dozens of science missions, lay off thousands (spacenews)
 - **May 31, 02:09 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **May 31, 02:23 AM** - China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
-- **May 31, 02:51 AM** - APIO16 Radiation-Hardened 16-Bit I/O  Expander Sets a New Benchmark for Resilient System Design (spacenews)
 - **May 31, 03:05 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **May 31, 03:19 AM** - SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth (nyt)
 - **May 31, 03:47 AM** - Space One and Space BD to launch satellite for Japanese military (spacenews)
@@ -199,7 +198,6 @@
 - **May 31, 10:07 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **May 31, 10:49 PM** - SpaceNews Names Kamal Flucker as Vice President of Global Sales to Lead International Growth (spacenews)
 - **May 31, 11:03 PM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
-- **May 31, 11:47 PM** - APIO16 Radiation-Hardened 16-Bit I/O  Expander Sets a New Benchmark for Resilient System Design (spacenews)
 - **Jun 01, 12:03 AM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
 - **Jun 01, 12:35 AM** - Manhattanhenge Is Back for 2025: When, Where and How to Watch (nyt)
 - **Jun 01, 12:49 AM** - China launches Tianwen-2 mission to sample near Earth asteroid (spacenews)
@@ -211,7 +209,6 @@
 - **Jun 01, 02:45 AM** - Overcoming conservatism in the autonomous space revolution (spacenews)
 - **Jun 01, 02:59 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **Jun 01, 03:27 AM** - China Launches Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
-- **Jun 01, 03:41 AM** - APIO16 Radiation-Hardened 16-Bit I/O  Expander Sets a New Benchmark for Resilient System Design (spacenews)
 - **Jun 01, 03:55 AM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
 - **Jun 01, 04:26 AM** - Manhattanhenge Is Back for 2025: When, Where and How to Watch (nyt)
 - **Jun 01, 04:42 AM** - Space Force orders two more GPS IIIF satellites for $509.7 million (spacenews)
@@ -265,7 +262,6 @@
 - **Jun 01, 09:43 PM** - New report details China’s push to dominate artificial intelligence (spacenews)
 - **Jun 01, 09:58 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **Jun 01, 10:27 PM** - Trump to Withdraw Musk’s Ally as Nominee for Top NASA Job (nyt)
-- **Jun 01, 10:41 PM** - APIO16 Radiation-Hardened 16-Bit I/O  Expander Sets a New Benchmark for Resilient System Design (spacenews)
 - **Jun 01, 10:55 PM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **Jun 01, 11:23 PM** - Scientists Say They’ve Found a Dwarf Planet Very Far From the Sun (nyt)
 - **Jun 01, 11:37 PM** - SpaceNews Names Kamal Flucker as Vice President of Global Sales to Lead International Growth (spacenews)
@@ -6051,3 +6047,4 @@
 - **Aug 24, 10:43 PM** - Onionlike Space Explosion May Be a New Type of Supernova (nyt)
 - **Aug 24, 10:57 PM** - 2025 Schriever space wargame last to be planned unilaterally by US (breaking_defense)
 - **Aug 24, 11:27 PM** - SpaceX Scrubs Critical 10th Test Launch of Starship Rocket (nyt)
+- **Aug 25, 12:12 AM** - China Will Launch the Long March 8A Rocket (supercluster)
