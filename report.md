@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 6 | 32 | 63 |
-| breaking_defense | 0 | 0 | 30 | 60 |
+| breaking_defense | 0 | 0 | 30 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 15 | 15 |
 
@@ -6118,3 +6118,4 @@
 - **Aug 25, 09:29 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
 - **Aug 25, 09:31 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
 - **Aug 25, 09:33 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
+- **Aug 25, 09:35 PM** - 2025 Schriever space wargame last to be planned unilaterally by US (breaking_defense)
