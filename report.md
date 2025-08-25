@@ -5,7 +5,7 @@
 | nyt | 5 | 5 | 33 | 63 |
 | breaking_defense | 0 | 0 | 29 | 60 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -6099,3 +6099,4 @@
 - **Aug 25, 05:51 PM** - Origami Bloom Patterns Could Help Build Folding Structures in Space (nyt)
 - **Aug 25, 06:21 PM** - Space Guard proponents hope for last-minute Trump intervention (breaking_defense)
 - **Aug 25, 06:35 PM** - SpaceX Reschedules Scrubbed  10th Test Launch of Starship Rocket (nyt)
+- **Aug 25, 08:05 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-25T00:11:56.778138+00:00",
-    "trigger_count": 5,
-    "current_item_id": "c53cf7298624ce1af471091077966550",
+    "trigger_count": 6,
+    "current_item_id": "e85dae45d628e06a35ff0f6d44d98cb2",
     "data": [
         {
             "id": "fb99e6f2b8e16ee41c38738aa6ff4b4c",
@@ -11628,15 +11628,18 @@
             ]
         },
         {
-            "id": "c53cf7298624ce1af471091077966550",
+            "id": "e85dae45d628e06a35ff0f6d44d98cb2",
             "source": "supercluster",
-            "text": "China Will Launch the Long March 8A Rocket",
-            "source_link": "https://www.supercluster.com/launches/long-march-8ai",
-            "shown": false,
+            "text": "SpaceX Will Perform Tenth Flight Test of Starship Super Heavy",
+            "source_link": "https://www.supercluster.com/launches/starship-super-heavy-flight-test-10",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-08-25T19:05:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-08-25T20:03:38.194148Z"
+            "target_datetime": "2025-08-25T23:30:00.000Z",
+            "time_remaining": "0d 03h 24m",
+            "fetched_datetime": "2025-08-25T20:05:39.555401Z",
+            "shown_at": [
+                "2025-08-25T20:05:40.629682Z"
+            ]
         }
     ]
 }
