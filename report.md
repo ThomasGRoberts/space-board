@@ -5,7 +5,7 @@
 | nyt | 3 | 3 | 34 | 62 |
 | breaking_defense | 0 | 0 | 31 | 60 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 126 | 126 |
+| supercluster | 1 | 1 | 127 | 127 |
 
 # Shown Order
 
@@ -6210,3 +6210,4 @@
 - **Aug 25, 12:41 PM** - Space Guard proponents hope for last-minute Trump intervention (breaking_defense)
 - **Aug 25, 12:55 PM** - Origami Bloom Patterns Could Help Build Folding Structures in Space (nyt)
 - **Aug 25, 01:12 PM** - SpaceX Reschedules Scrubbed  10th Test Launch of Starship Rocket (nyt)
+- **Aug 25, 01:27 PM** - China Will Launch the Long March 8A Rocket (supercluster)
