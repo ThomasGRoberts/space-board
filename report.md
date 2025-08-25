@@ -5,7 +5,7 @@
 | nyt | 5 | 6 | 32 | 64 |
 | breaking_defense | 0 | 0 | 30 | 60 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 17 | 17 |
+| supercluster | 1 | 1 | 18 | 18 |
 
 # Shown Order
 
@@ -6122,3 +6122,4 @@
 - **Aug 25, 09:49 PM** - SpaceX Reschedules Scrubbed  10th Test Launch of Starship Rocket (nyt)
 - **Aug 25, 10:03 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
 - **Aug 25, 10:05 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
+- **Aug 25, 10:07 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
