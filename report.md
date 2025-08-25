@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 33 | 58 |
-| breaking_defense | 0 | 0 | 32 | 57 |
+| breaking_defense | 0 | 0 | 31 | 57 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 86 | 86 |
+| supercluster | 1 | 1 | 87 | 87 |
 
 # Shown Order
 
@@ -6157,3 +6157,4 @@
 - **Aug 25, 08:37 AM** - Onionlike Space Explosion May Be a New Type of Supernova (nyt)
 - **Aug 25, 08:51 AM** - China Will Launch the Long March 8A Rocket (supercluster)
 - **Aug 25, 08:53 AM** - China Will Launch the Long March 8A Rocket (supercluster)
+- **Aug 25, 08:55 AM** - China Will Launch the Long March 8A Rocket (supercluster)
