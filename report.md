@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 33 | 58 |
+| nyt | 2 | 2 | 34 | 59 |
 | breaking_defense | 0 | 0 | 32 | 57 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 84 | 84 |
@@ -6154,3 +6154,4 @@
 - **Aug 25, 08:19 AM** - China Will Launch the Long March 8A Rocket (supercluster)
 - **Aug 25, 08:21 AM** - China Will Launch the Long March 8A Rocket (supercluster)
 - **Aug 25, 08:23 AM** - 2025 Schriever space wargame last to be planned unilaterally by US (breaking_defense)
+- **Aug 25, 08:37 AM** - Onionlike Space Explosion May Be a New Type of Supernova (nyt)
