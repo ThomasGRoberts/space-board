@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 7 | 32 | 64 |
-| breaking_defense | 0 | 0 | 31 | 61 |
+| breaking_defense | 0 | 0 | 30 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 0 | 0 |
 
 # Shown Order
 
@@ -6124,4 +6124,3 @@
 - **Aug 26, 10:35 PM** - Space Guard proponents hope for last-minute Trump intervention (breaking_defense)
 - **Aug 26, 11:03 PM** - Onionlike Space Explosion May Be a New Type of Supernova (nyt)
 - **Aug 26, 11:17 PM** - Space Guard proponents hope for last-minute Trump intervention (breaking_defense)
-- **Aug 26, 11:43 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
