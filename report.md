@@ -5,7 +5,7 @@
 | nyt | 2 | 7 | 31 | 66 |
 | breaking_defense | 0 | 0 | 31 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 38 | 38 |
+| supercluster | 1 | 1 | 39 | 39 |
 
 # Shown Order
 
@@ -6147,3 +6147,4 @@
 - **Aug 26, 04:41 PM** - SpaceX Scrubs 10th Starship Test Launch Because of Lousy Weather (nyt)
 - **Aug 26, 04:55 PM** - Space Guard proponents hope for last-minute Trump intervention (breaking_defense)
 - **Aug 26, 05:09 PM** - SpaceX Will Launch Earth Observation Satellite for Luxembourg (supercluster)
+- **Aug 26, 05:12 PM** - SpaceX Will Launch Earth Observation Satellite for Luxembourg (supercluster)
