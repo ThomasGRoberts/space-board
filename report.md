@@ -6126,3 +6126,4 @@
 - **Aug 26, 03:05 PM** - SpaceX Will Launch Earth Observation Satellite for Luxembourg (supercluster)
 - **Aug 26, 03:07 PM** - SpaceX Will Launch Earth Observation Satellite for Luxembourg (supercluster)
 - **Aug 26, 03:09 PM** - SpaceX Will Launch Earth Observation Satellite for Luxembourg (supercluster)
+- **Aug 26, 03:11 PM** - SpaceX Scrubs 10th Starship Test Launch Because of Lousy Weather (nyt)
