@@ -6127,3 +6127,4 @@
 - **Aug 26, 03:07 PM** - SpaceX Will Launch Earth Observation Satellite for Luxembourg (supercluster)
 - **Aug 26, 03:09 PM** - SpaceX Will Launch Earth Observation Satellite for Luxembourg (supercluster)
 - **Aug 26, 03:11 PM** - SpaceX Scrubs 10th Starship Test Launch Because of Lousy Weather (nyt)
+- **Aug 26, 03:25 PM** - 2025 Schriever space wargame last to be planned unilaterally by US (breaking_defense)
