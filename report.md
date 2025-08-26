@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 7 | 34 | 67 |
-| breaking_defense | 0 | 0 | 30 | 62 |
+| breaking_defense | 0 | 0 | 31 | 63 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 98 | 98 |
 
@@ -6188,3 +6188,4 @@
 - **Aug 26, 09:43 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
 - **Aug 26, 09:45 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
 - **Aug 26, 09:47 AM** - SpaceX Scrubs Critical 10th Test Launch of Starship Rocket (nyt)
+- **Aug 26, 10:02 AM** - 2025 Schriever space wargame last to be planned unilaterally by US (breaking_defense)
