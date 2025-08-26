@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 5 | 7 | 33 | 65 |
+| nyt | 5 | 7 | 34 | 66 |
 | breaking_defense | 0 | 0 | 31 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 56 | 56 |
@@ -6133,3 +6133,4 @@
 - **Aug 26, 05:21 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
 - **Aug 26, 05:23 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
 - **Aug 26, 05:25 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
+- **Aug 26, 05:27 AM** - SpaceX Reschedules Scrubbed 10th Test Launch of Starship Rocket (nyt)
