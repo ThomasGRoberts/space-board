@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-26T00:01:50.075681+00:00",
-    "trigger_count": 4,
-    "current_item_id": "27aafd3b2f8e13b0394fd1051b48de77",
+    "trigger_count": 5,
+    "current_item_id": "c9b3cddbdd60cbf47f356cb02185fc6c",
     "data": [
         {
             "id": "1b6162b83020ed93f63a8b354b627e94",
@@ -11604,15 +11604,18 @@
             ]
         },
         {
-            "id": "27aafd3b2f8e13b0394fd1051b48de77",
+            "id": "c9b3cddbdd60cbf47f356cb02185fc6c",
             "source": "supercluster",
-            "text": "Blue Origin Will Launch Uncrewed Suborbital Flight",
-            "source_link": "https://www.supercluster.com/launches/ns-35",
-            "shown": false,
+            "text": "SpaceX Will Launch Earth Observation Satellite for Luxembourg",
+            "source_link": "https://www.supercluster.com/launches/naos",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-08-26T12:30:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-08-26T12:51:38.700035Z"
+            "target_datetime": "2025-08-26T18:53:00.000Z",
+            "time_remaining": "0d 05h 59m",
+            "fetched_datetime": "2025-08-26T12:53:59.671363Z",
+            "shown_at": [
+                "2025-08-26T12:54:01.589968Z"
+            ]
         }
     ]
 }
