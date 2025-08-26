@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 5 | 7 | 34 | 65 |
-| breaking_defense | 0 | 0 | 30 | 61 |
+| nyt | 5 | 7 | 33 | 65 |
+| breaking_defense | 0 | 0 | 31 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 28 | 28 |
 
@@ -6098,3 +6098,4 @@
 - **Aug 26, 02:35 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
 - **Aug 26, 02:37 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
 - **Aug 26, 02:39 AM** - Scientists Find a Quadruple Star System in Our Cosmic Backyard (nyt)
+- **Aug 26, 02:53 AM** - 2025 Schriever space wargame last to be planned unilaterally by US (breaking_defense)
