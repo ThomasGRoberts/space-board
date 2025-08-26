@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 8 | 32 | 65 |
-| breaking_defense | 0 | 0 | 30 | 60 |
+| breaking_defense | 0 | 0 | 31 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 24 | 24 |
 
@@ -6145,3 +6145,4 @@
 - **Aug 26, 10:17 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
 - **Aug 26, 10:19 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
 - **Aug 26, 10:22 PM** - SpaceX Reschedules Scrubbed 10th Test Launch of Starship Rocket (nyt)
+- **Aug 26, 10:35 PM** - Space Guard proponents hope for last-minute Trump intervention (breaking_defense)
