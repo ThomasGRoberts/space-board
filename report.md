@@ -5,7 +5,7 @@
 | nyt | 2 | 7 | 31 | 65 |
 | breaking_defense | 0 | 0 | 31 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 0 | 0 |
 
 # Shown Order
 
@@ -6113,4 +6113,3 @@
 - **Aug 26, 05:39 PM** - 2025 Schriever space wargame last to be planned unilaterally by US (breaking_defense)
 - **Aug 26, 06:11 PM** - SpaceX Scrubs Critical 10th Test Launch of Starship Rocket (nyt)
 - **Aug 26, 06:29 PM** - 2025 Schriever space wargame last to be planned unilaterally by US (breaking_defense)
-- **Aug 26, 06:53 PM** - SpaceX Will Launch Earth Observation Satellite for Luxembourg (supercluster)
