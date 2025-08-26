@@ -5,7 +5,7 @@
 | nyt | 4 | 7 | 32 | 66 |
 | breaking_defense | 0 | 0 | 31 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 3 | 3 |
+| supercluster | 1 | 1 | 4 | 4 |
 
 # Shown Order
 
@@ -6102,3 +6102,4 @@
 - **Aug 26, 12:57 PM** - Newly Discovered Moon Around Uranus Was Hiding Outside Its Rings (nyt)
 - **Aug 26, 01:13 PM** - 2025 Schriever space wargame last to be planned unilaterally by US (breaking_defense)
 - **Aug 26, 01:27 PM** - SpaceX Will Launch Earth Observation Satellite for Luxembourg (supercluster)
+- **Aug 26, 01:29 PM** - SpaceX Will Launch Earth Observation Satellite for Luxembourg (supercluster)
