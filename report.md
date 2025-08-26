@@ -5,7 +5,7 @@
 | nyt | 3 | 7 | 32 | 66 |
 | breaking_defense | 0 | 0 | 31 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 18 | 18 |
+| supercluster | 1 | 1 | 19 | 19 |
 
 # Shown Order
 
@@ -6121,3 +6121,4 @@
 - **Aug 26, 02:41 PM** - 2025 Schriever space wargame last to be planned unilaterally by US (breaking_defense)
 - **Aug 26, 02:55 PM** - SpaceX Will Launch Earth Observation Satellite for Luxembourg (supercluster)
 - **Aug 26, 02:57 PM** - SpaceX Will Launch Earth Observation Satellite for Luxembourg (supercluster)
+- **Aug 26, 02:59 PM** - SpaceX Will Launch Earth Observation Satellite for Luxembourg (supercluster)
