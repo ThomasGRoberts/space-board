@@ -5,7 +5,7 @@
 | nyt | 3 | 8 | 32 | 64 |
 | breaking_defense | 0 | 0 | 31 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 10 | 10 |
+| supercluster | 1 | 1 | 11 | 11 |
 
 # Shown Order
 
@@ -6128,3 +6128,4 @@
 - **Aug 26, 08:53 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
 - **Aug 26, 08:55 PM** - SpaceX Starship Test Launch: How and When to Watch the 10th Test Flight (nyt)
 - **Aug 26, 09:09 PM** - Space Guard proponents hope for last-minute Trump intervention (breaking_defense)
+- **Aug 26, 09:23 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
