@@ -1,7 +1,7 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-26T00:01:50.075681+00:00",
-    "trigger_count": 1,
+    "trigger_count": 2,
     "current_item_id": "27aafd3b2f8e13b0394fd1051b48de77",
     "data": [
         {
@@ -11608,14 +11608,11 @@
             "source": "supercluster",
             "text": "Blue Origin Will Launch Uncrewed Suborbital Flight",
             "source_link": "https://www.supercluster.com/launches/ns-35",
-            "shown": true,
+            "shown": false,
             "type": "launch",
             "target_datetime": "2025-08-26T12:30:00.000Z",
             "time_remaining": "",
-            "fetched_datetime": "2025-08-26T12:32:06.686030Z",
-            "shown_at": [
-                "2025-08-26T12:32:08.028800Z"
-            ]
+            "fetched_datetime": "2025-08-26T12:33:49.151980Z"
         }
     ]
 }
