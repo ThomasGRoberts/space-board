@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 7 | 31 | 66 |
+| nyt | 2 | 7 | 31 | 65 |
 | breaking_defense | 0 | 0 | 31 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 35 | 35 |
+| supercluster | 1 | 1 | 36 | 36 |
 
 # Shown Order
 
@@ -6142,3 +6142,4 @@
 - **Aug 26, 04:29 PM** - SpaceX Will Launch Earth Observation Satellite for Luxembourg (supercluster)
 - **Aug 26, 04:32 PM** - SpaceX Will Launch Earth Observation Satellite for Luxembourg (supercluster)
 - **Aug 26, 04:35 PM** - SpaceX Will Launch Earth Observation Satellite for Luxembourg (supercluster)
+- **Aug 26, 04:37 PM** - SpaceX Will Launch Earth Observation Satellite for Luxembourg (supercluster)
