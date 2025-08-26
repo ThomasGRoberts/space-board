@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 8 | 32 | 64 |
-| breaking_defense | 0 | 0 | 31 | 60 |
+| nyt | 3 | 8 | 33 | 65 |
+| breaking_defense | 0 | 0 | 30 | 60 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 17 | 17 |
 
@@ -6135,3 +6135,4 @@
 - **Aug 26, 09:31 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
 - **Aug 26, 09:33 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
 - **Aug 26, 09:35 PM** - SpaceX Will Perform Tenth Flight Test of Starship Super Heavy (supercluster)
+- **Aug 26, 09:37 PM** - Scientists Find a Quadruple Star System in Our Cosmic Backyard (nyt)
