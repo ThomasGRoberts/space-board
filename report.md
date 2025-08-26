@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 5 | 7 | 33 | 65 |
+| nyt | 5 | 7 | 34 | 66 |
 | breaking_defense | 0 | 0 | 31 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 21 | 21 |
@@ -6088,3 +6088,4 @@
 - **Aug 26, 01:45 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
 - **Aug 26, 01:47 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
 - **Aug 26, 01:49 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
+- **Aug 26, 01:51 AM** - SpaceX Starship 10th Test Launch: How and When to Watch the Flight (nyt)
