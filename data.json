@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-26T00:01:50.075681+00:00",
-    "trigger_count": 6,
-    "current_item_id": "27aafd3b2f8e13b0394fd1051b48de77",
+    "trigger_count": 0,
+    "current_item_id": "ac254ef1f73f5c1d8de43cf66331cd16",
     "data": [
         {
             "id": "1b6162b83020ed93f63a8b354b627e94",
@@ -11576,6 +11576,18 @@
                 "2025-08-26T00:19:31.706820Z",
                 "2025-08-26T00:21:43.437529Z",
                 "2025-08-26T00:23:26.663428Z"
+            ]
+        },
+        {
+            "id": "ac254ef1f73f5c1d8de43cf66331cd16",
+            "source": "nyt",
+            "text": "SpaceX Scrubs 10th Starship Test Launch Because of Lousy Weather",
+            "source_link": "https://www.nytimes.com/2025/08/25/science/spacex-starship-launch.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-26T00:25:47.965469Z",
+            "shown_at": [
+                "2025-08-26T00:25:48.961139Z"
             ]
         }
     ]
