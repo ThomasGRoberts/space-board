@@ -5,7 +5,7 @@
 | nyt | 2 | 7 | 31 | 66 |
 | breaking_defense | 0 | 0 | 31 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 45 | 45 |
+| supercluster | 1 | 1 | 46 | 46 |
 
 # Shown Order
 
@@ -6156,3 +6156,4 @@
 - **Aug 26, 05:25 PM** - Origami Bloom Patterns Could Help Build Folding Structures in Space (nyt)
 - **Aug 26, 05:39 PM** - 2025 Schriever space wargame last to be planned unilaterally by US (breaking_defense)
 - **Aug 26, 05:53 PM** - SpaceX Will Launch Earth Observation Satellite for Luxembourg (supercluster)
+- **Aug 26, 05:56 PM** - SpaceX Will Launch Earth Observation Satellite for Luxembourg (supercluster)
