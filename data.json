@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-26T00:01:50.075681+00:00",
-    "trigger_count": 6,
-    "current_item_id": "809b735348c9dd5893a84b791984b3a7",
+    "trigger_count": 0,
+    "current_item_id": "9edb9e5de8772e0644ee08c97db2886a",
     "data": [
         {
             "id": "1b6162b83020ed93f63a8b354b627e94",
@@ -11634,6 +11634,18 @@
                 "2025-08-26T19:53:34.812640Z",
                 "2025-08-26T19:56:01.364494Z",
                 "2025-08-26T19:57:27.327068Z"
+            ]
+        },
+        {
+            "id": "9edb9e5de8772e0644ee08c97db2886a",
+            "source": "nyt",
+            "text": "Rainer Weiss, Who Gave a Nod to Einstein and the Big Bang, Dies at 92",
+            "source_link": "https://www.nytimes.com/2025/08/26/science/rainer-weiss-dead.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-26T20:13:54.195932Z",
+            "shown_at": [
+                "2025-08-26T20:13:55.237417Z"
             ]
         }
     ]
