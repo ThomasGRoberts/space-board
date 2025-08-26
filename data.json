@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-26T00:01:50.075681+00:00",
-    "trigger_count": 3,
-    "current_item_id": "c9b3cddbdd60cbf47f356cb02185fc6c",
+    "trigger_count": 4,
+    "current_item_id": "e85dae45d628e06a35ff0f6d44d98cb2",
     "data": [
         {
             "id": "1b6162b83020ed93f63a8b354b627e94",
@@ -11620,15 +11620,18 @@
             ]
         },
         {
-            "id": "c9b3cddbdd60cbf47f356cb02185fc6c",
+            "id": "e85dae45d628e06a35ff0f6d44d98cb2",
             "source": "supercluster",
-            "text": "SpaceX Will Launch Earth Observation Satellite for Luxembourg",
-            "source_link": "https://www.supercluster.com/launches/naos",
-            "shown": false,
+            "text": "SpaceX Will Perform Tenth Flight Test of Starship Super Heavy",
+            "source_link": "https://www.supercluster.com/launches/starship-super-heavy-flight-test-10",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-08-26T18:53:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-08-26T19:51:43.284599Z"
+            "target_datetime": "2025-08-26T23:43:00.000Z",
+            "time_remaining": "0d 03h 49m",
+            "fetched_datetime": "2025-08-26T19:53:33.639326Z",
+            "shown_at": [
+                "2025-08-26T19:53:34.812640Z"
+            ]
         }
     ]
 }
