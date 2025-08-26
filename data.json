@@ -1,7 +1,7 @@
 {
     "version": "2",
     "last_run_datetime": "2025-08-26T00:01:50.075681+00:00",
-    "trigger_count": 5,
+    "trigger_count": 6,
     "current_item_id": "e85dae45d628e06a35ff0f6d44d98cb2",
     "data": [
         {
@@ -11629,56 +11629,6 @@
             ]
         },
         {
-            "id": "e85dae45d628e06a35ff0f6d44d98cb2",
-            "source": "supercluster",
-            "text": "SpaceX Will Perform Tenth Flight Test of Starship Super Heavy",
-            "source_link": "https://www.supercluster.com/launches/starship-super-heavy-flight-test-10",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-08-26T23:43:00.000Z",
-            "time_remaining": "0d 00h 01m",
-            "fetched_datetime": "2025-08-26T19:53:33.639326Z",
-            "shown_at": [
-                "2025-08-26T19:53:34.812640Z",
-                "2025-08-26T19:56:01.364494Z",
-                "2025-08-26T19:57:27.327068Z",
-                "2025-08-26T20:41:41.425725Z",
-                "2025-08-26T20:43:12.868779Z",
-                "2025-08-26T20:45:38.190676Z",
-                "2025-08-26T20:47:33.282400Z",
-                "2025-08-26T20:49:36.697859Z",
-                "2025-08-26T20:51:39.395236Z",
-                "2025-08-26T20:53:45.246149Z",
-                "2025-08-26T21:23:41.869888Z",
-                "2025-08-26T21:25:30.320454Z",
-                "2025-08-26T21:27:33.551336Z",
-                "2025-08-26T21:29:32.998270Z",
-                "2025-08-26T21:31:56.429211Z",
-                "2025-08-26T21:33:44.448091Z",
-                "2025-08-26T21:35:18.598233Z",
-                "2025-08-26T22:07:42.257658Z",
-                "2025-08-26T22:09:35.507590Z",
-                "2025-08-26T22:12:01.654836Z",
-                "2025-08-26T22:13:47.814487Z",
-                "2025-08-26T22:15:51.254604Z",
-                "2025-08-26T22:17:37.441856Z",
-                "2025-08-26T22:19:42.678447Z",
-                "2025-08-26T22:49:54.954660Z",
-                "2025-08-26T22:51:25.418837Z",
-                "2025-08-26T22:53:33.660016Z",
-                "2025-08-26T22:55:47.141270Z",
-                "2025-08-26T22:57:34.771150Z",
-                "2025-08-26T22:59:24.499912Z",
-                "2025-08-26T23:01:56.426074Z",
-                "2025-08-26T23:31:52.996414Z",
-                "2025-08-26T23:33:39.002961Z",
-                "2025-08-26T23:35:42.092043Z",
-                "2025-08-26T23:37:43.851403Z",
-                "2025-08-26T23:39:33.404863Z",
-                "2025-08-26T23:41:50.005980Z"
-            ]
-        },
-        {
             "id": "9edb9e5de8772e0644ee08c97db2886a",
             "source": "nyt",
             "text": "Rainer Weiss, Who Gave a Nod to Einstein and the Big Bang, Dies at 92",
@@ -11700,6 +11650,20 @@
             "fetched_datetime": "2025-08-26T20:55:41.944535Z",
             "shown_at": [
                 "2025-08-26T20:55:42.554536Z"
+            ]
+        },
+        {
+            "id": "e85dae45d628e06a35ff0f6d44d98cb2",
+            "source": "supercluster",
+            "text": "SpaceX Will Perform Tenth Flight Test of Starship Super Heavy",
+            "source_link": "https://www.supercluster.com/launches/starship-super-heavy-flight-test-10",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-08-26T23:30:00.000Z",
+            "time_remaining": "",
+            "fetched_datetime": "2025-08-26T23:43:41.327016Z",
+            "shown_at": [
+                "2025-08-26T23:43:41.789273Z"
             ]
         }
     ]
