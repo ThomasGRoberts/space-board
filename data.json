@@ -1,9 +1,65 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-08-25T00:11:56.778138+00:00",
-    "trigger_count": 1,
+    "last_run_datetime": "2025-08-26T00:01:50.075681+00:00",
+    "trigger_count": 2,
     "current_item_id": "36ed1ce571794616d3dd8d286145cab1",
     "data": [
+        {
+            "id": "1b6162b83020ed93f63a8b354b627e94",
+            "source": "nyt",
+            "text": "SpaceX Starship 10th Test Launch: How and When to Watch the Flight",
+            "source_link": "https://www.nytimes.com/2025/08/25/science/spacex-starship-launch.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-25T21:07:53.661477Z",
+            "shown_at": [
+                "2025-08-25T21:07:54.280437Z"
+            ]
+        },
+        {
+            "id": "09c1095afd5f979648fc2286e8de0d8e",
+            "source": "nyt",
+            "text": "Scientists Find a Quadruple Star System in Our Cosmic Backyard",
+            "source_link": "https://www.nytimes.com/2025/08/25/science/quadruple-star-system.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-25T15:39:44.873959Z",
+            "shown_at": [
+                "2025-08-25T15:39:45.633467Z"
+            ]
+        },
+        {
+            "id": "36ed1ce571794616d3dd8d286145cab1",
+            "source": "nyt",
+            "text": "SpaceX Reschedules Scrubbed 10th Test Launch of Starship Rocket",
+            "source_link": "https://www.nytimes.com/2025/08/24/science/spacex-starship-launch.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-25T13:43:34.503920Z",
+            "shown_at": [
+                "2025-08-25T13:43:35.119690Z",
+                "2025-08-25T15:10:00.941684Z",
+                "2025-08-25T23:57:30.566133Z"
+            ]
+        },
+        {
+            "id": "e0fb6c782762454efc647e35d1d2fb53",
+            "source": "nyt",
+            "text": "SpaceX Reschedules Scrubbed  10th Test Launch of Starship Rocket",
+            "source_link": "https://www.nytimes.com/2025/08/24/science/spacex-starship-launch.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-25T13:12:05.800064Z",
+            "shown_at": [
+                "2025-08-25T13:12:07.257342Z",
+                "2025-08-25T14:25:41.294057Z",
+                "2025-08-25T16:23:52.783833Z",
+                "2025-08-25T17:07:47.833777Z",
+                "2025-08-25T18:35:36.306213Z",
+                "2025-08-25T21:49:49.954474Z",
+                "2025-08-25T22:31:53.211181Z"
+            ]
+        },
         {
             "id": "fb99e6f2b8e16ee41c38738aa6ff4b4c",
             "source": "nyt",
@@ -11500,154 +11556,6 @@
                 "2025-06-01T06:33:46.509024Z",
                 "2025-06-01T23:37:23.842487Z",
                 "2025-06-02T05:21:43.828862Z"
-            ]
-        },
-        {
-            "id": "33574346fa92827dc6e43f869cb05f56",
-            "source": "breaking_defense",
-            "text": "From wildfires to battlefield cloud cover, Muon’s multispectral sats pique government interest",
-            "source_link": "https://breakingdefense.com/2025/05/from-wildfires-to-battlefield-cloud-cover-muons-multispectral-sats-pique-government-interest/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-27T19:40:00.042028Z",
-            "shown_at": [
-                "2025-05-27T19:40:01.083269Z",
-                "2025-05-28T15:59:47.839162Z",
-                "2025-05-28T16:55:45.950252Z",
-                "2025-05-29T09:41:34.390713Z",
-                "2025-05-29T12:47:49.097086Z",
-                "2025-05-29T14:45:32.835916Z",
-                "2025-05-29T16:40:05.677389Z",
-                "2025-05-29T20:33:36.106213Z",
-                "2025-05-29T22:29:38.854231Z",
-                "2025-05-30T00:23:44.540227Z",
-                "2025-05-30T03:15:37.807138Z",
-                "2025-05-30T05:07:26.300229Z",
-                "2025-05-30T06:03:26.722938Z",
-                "2025-05-30T09:13:51.374894Z",
-                "2025-05-30T11:23:40.259209Z",
-                "2025-05-30T12:21:39.565486Z",
-                "2025-05-30T16:19:40.417564Z",
-                "2025-05-30T17:15:11.599732Z",
-                "2025-05-31T06:51:14.326528Z",
-                "2025-05-31T10:39:39.419176Z",
-                "2025-05-31T16:11:42.510514Z",
-                "2025-05-31T18:07:32.212779Z",
-                "2025-06-01T02:03:27.651477Z",
-                "2025-06-01T05:51:37.506130Z",
-                "2025-06-01T08:43:30.687539Z",
-                "2025-06-01T10:37:28.589918Z",
-                "2025-06-01T15:25:28.987571Z",
-                "2025-06-01T17:17:37.196165Z",
-                "2025-06-01T20:05:30.982081Z",
-                "2025-06-01T21:01:49.668821Z",
-                "2025-06-02T01:45:38.113132Z",
-                "2025-06-02T10:27:27.277711Z",
-                "2025-06-02T12:51:42.317384Z",
-                "2025-06-02T21:12:11.156092Z",
-                "2025-06-03T12:59:53.414326Z"
-            ]
-        },
-        {
-            "id": "95e4629dcb922b7135c01b555996b3fd",
-            "source": "spacenews",
-            "text": "ExoTerra delivers 21 propulsion modules for SDA satellites",
-            "source_link": "https://spacenews.com/exoterra-delivers-21-propulsion-modules-for-sda-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-27T19:21:45.434648Z",
-            "shown_at": [
-                "2025-05-27T19:21:46.107232Z",
-                "2025-05-29T14:59:33.685562Z",
-                "2025-06-01T01:49:40.459234Z",
-                "2025-06-01T05:37:30.163501Z",
-                "2025-06-01T13:15:46.107869Z",
-                "2025-06-02T09:59:51.243200Z"
-            ]
-        },
-        {
-            "id": "bbdd791a00bd99949be279ec6126dbc9",
-            "source": "spacenews",
-            "text": "The real Golden Dome opportunity – defense acquisition reform",
-            "source_link": "https://spacenews.com/the-real-golden-dome-opportunity-defense-acquisition-reform/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-27T18:49:49.180729Z",
-            "shown_at": [
-                "2025-05-27T18:49:50.267938Z",
-                "2025-05-31T09:29:40.171581Z",
-                "2025-06-03T03:16:06.632165Z"
-            ]
-        },
-        {
-            "id": "bb3aa835fd741a84157b4c4991d96c31",
-            "source": "spacenews",
-            "text": "Enpulsion Unveils Nexus, Its Most Powerful Electric Propulsion System to Date",
-            "source_link": "https://spacenews.com/enpulsion-unveils-nexus-its-most-powerful-electric-propulsion-system-to-date/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-27T16:51:37.631859Z",
-            "shown_at": [
-                "2025-05-27T16:51:38.198300Z",
-                "2025-05-29T07:36:03.436884Z",
-                "2025-06-01T12:15:29.055045Z",
-                "2025-06-03T07:11:45.518937Z"
-            ]
-        },
-        {
-            "id": "e0fb6c782762454efc647e35d1d2fb53",
-            "source": "nyt",
-            "text": "SpaceX Reschedules Scrubbed  10th Test Launch of Starship Rocket",
-            "source_link": "https://www.nytimes.com/2025/08/24/science/spacex-starship-launch.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-08-25T13:12:05.800064Z",
-            "shown_at": [
-                "2025-08-25T13:12:07.257342Z",
-                "2025-08-25T14:25:41.294057Z",
-                "2025-08-25T16:23:52.783833Z",
-                "2025-08-25T17:07:47.833777Z",
-                "2025-08-25T18:35:36.306213Z",
-                "2025-08-25T21:49:49.954474Z",
-                "2025-08-25T22:31:53.211181Z"
-            ]
-        },
-        {
-            "id": "36ed1ce571794616d3dd8d286145cab1",
-            "source": "nyt",
-            "text": "SpaceX Reschedules Scrubbed 10th Test Launch of Starship Rocket",
-            "source_link": "https://www.nytimes.com/2025/08/24/science/spacex-starship-launch.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-08-25T13:43:34.503920Z",
-            "shown_at": [
-                "2025-08-25T13:43:35.119690Z",
-                "2025-08-25T15:10:00.941684Z",
-                "2025-08-25T23:57:30.566133Z"
-            ]
-        },
-        {
-            "id": "09c1095afd5f979648fc2286e8de0d8e",
-            "source": "nyt",
-            "text": "Scientists Find a Quadruple Star System in Our Cosmic Backyard",
-            "source_link": "https://www.nytimes.com/2025/08/25/science/quadruple-star-system.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-08-25T15:39:44.873959Z",
-            "shown_at": [
-                "2025-08-25T15:39:45.633467Z"
-            ]
-        },
-        {
-            "id": "1b6162b83020ed93f63a8b354b627e94",
-            "source": "nyt",
-            "text": "SpaceX Starship 10th Test Launch: How and When to Watch the Flight",
-            "source_link": "https://www.nytimes.com/2025/08/25/science/spacex-starship-launch.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-08-25T21:07:53.661477Z",
-            "shown_at": [
-                "2025-08-25T21:07:54.280437Z"
             ]
         }
     ]
