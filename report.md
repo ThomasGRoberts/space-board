@@ -5,7 +5,7 @@
 | nyt | 4 | 6 | 33 | 65 |
 | breaking_defense | 0 | 0 | 31 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -6064,3 +6064,4 @@
 - **Aug 25, 11:43 PM** - Space Guard proponents hope for last-minute Trump intervention (breaking_defense)
 - **Aug 25, 11:57 PM** - SpaceX Reschedules Scrubbed 10th Test Launch of Starship Rocket (nyt)
 - **Aug 26, 12:11 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
+- **Aug 26, 12:13 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
