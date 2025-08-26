@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 7 | 34 | 67 |
-| breaking_defense | 0 | 0 | 30 | 62 |
+| breaking_defense | 0 | 0 | 31 | 63 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 91 | 91 |
 
@@ -6179,3 +6179,4 @@
 - **Aug 26, 08:59 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
 - **Aug 26, 09:02 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
 - **Aug 26, 09:03 AM** - Scientists Find a Quadruple Star System in Our Cosmic Backyard (nyt)
+- **Aug 26, 09:19 AM** - Space Guard proponents hope for last-minute Trump intervention (breaking_defense)
