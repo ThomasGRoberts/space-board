@@ -5,7 +5,7 @@
 | nyt | 2 | 7 | 30 | 64 |
 | breaking_defense | 0 | 0 | 30 | 60 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -6104,3 +6104,4 @@
 - **Aug 26, 10:35 PM** - Space Guard proponents hope for last-minute Trump intervention (breaking_defense)
 - **Aug 26, 11:03 PM** - Onionlike Space Explosion May Be a New Type of Supernova (nyt)
 - **Aug 26, 11:17 PM** - Space Guard proponents hope for last-minute Trump intervention (breaking_defense)
+- **Aug 27, 12:31 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
