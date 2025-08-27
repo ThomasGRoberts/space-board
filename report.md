@@ -5,7 +5,7 @@
 | nyt | 3 | 8 | 31 | 64 |
 | breaking_defense | 0 | 0 | 29 | 60 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 87 | 87 |
+| supercluster | 1 | 1 | 88 | 88 |
 
 # Shown Order
 
@@ -6218,3 +6218,4 @@
 - **Aug 27, 09:55 AM** - SpaceX Starship 10th Test Flight: How and When to Watch the Launch (nyt)
 - **Aug 27, 10:09 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Aug 27, 10:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Aug 27, 10:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
