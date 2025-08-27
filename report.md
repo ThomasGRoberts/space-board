@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 8 | 31 | 65 |
+| nyt | 3 | 8 | 31 | 64 |
 | breaking_defense | 0 | 0 | 29 | 60 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 65 | 65 |
+| supercluster | 1 | 1 | 66 | 66 |
 
 # Shown Order
 
@@ -6190,3 +6190,4 @@
 - **Aug 27, 07:23 AM** - Space Guard proponents hope for last-minute Trump intervention (breaking_defense)
 - **Aug 27, 07:40 AM** - SpaceX Reschedules Scrubbed  10th Test Launch of Starship Rocket (nyt)
 - **Aug 27, 07:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Aug 27, 07:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
