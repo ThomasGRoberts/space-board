@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 8 | 31 | 64 |
-| breaking_defense | 0 | 0 | 29 | 60 |
+| breaking_defense | 0 | 0 | 30 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 36 | 36 |
 
@@ -6151,3 +6151,4 @@
 - **Aug 27, 04:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Aug 27, 04:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Aug 27, 04:25 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Aug 27, 04:27 AM** - Space Guard proponents hope for last-minute Trump intervention (breaking_defense)
