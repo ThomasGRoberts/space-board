@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 8 | 29 | 62 |
+| nyt | 3 | 8 | 30 | 63 |
 | breaking_defense | 0 | 0 | 29 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 11 | 11 |
@@ -6147,3 +6147,4 @@
 - **Aug 27, 01:02 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Aug 27, 01:03 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Aug 27, 01:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Aug 27, 01:07 PM** - Onionlike Space Explosion May Be a New Type of Supernova (nyt)
