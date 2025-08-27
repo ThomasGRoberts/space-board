@@ -5,7 +5,7 @@
 | nyt | 3 | 5 | 31 | 62 |
 | breaking_defense | 0 | 0 | 30 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 68 | 68 |
+| supercluster | 1 | 1 | 69 | 69 |
 
 # Shown Order
 
@@ -6222,3 +6222,4 @@
 - **Aug 27, 06:59 PM** - SpaceX Starship 10th Test Flight: How and When to Watch the Launch (nyt)
 - **Aug 27, 07:15 PM** - Space Guard proponents hope for last-minute Trump intervention (breaking_defense)
 - **Aug 27, 07:31 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Aug 27, 07:33 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
