@@ -1,9 +1,47 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-08-26T00:01:50.075681+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2025-08-27T00:02:20.349546+00:00",
+    "trigger_count": 6,
     "current_item_id": "e85dae45d628e06a35ff0f6d44d98cb2",
     "data": [
+        {
+            "id": "c3580e91338508e0001d006597e80562",
+            "source": "nyt",
+            "text": "SpaceX Starship Test Launch: How and When to Watch the 10th Test Flight",
+            "source_link": "https://www.nytimes.com/2025/08/26/science/spacex-starship-test-launch.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-26T20:55:41.944535Z",
+            "shown_at": [
+                "2025-08-26T20:55:42.554536Z"
+            ]
+        },
+        {
+            "id": "9edb9e5de8772e0644ee08c97db2886a",
+            "source": "nyt",
+            "text": "Rainer Weiss, Who Gave a Nod to Einstein and the Big Bang, Dies at 92",
+            "source_link": "https://www.nytimes.com/2025/08/26/science/rainer-weiss-dead.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-26T20:13:54.195932Z",
+            "shown_at": [
+                "2025-08-26T20:13:55.237417Z"
+            ]
+        },
+        {
+            "id": "ac254ef1f73f5c1d8de43cf66331cd16",
+            "source": "nyt",
+            "text": "SpaceX Scrubs 10th Starship Test Launch Because of Lousy Weather",
+            "source_link": "https://www.nytimes.com/2025/08/25/science/spacex-starship-launch.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-26T00:25:47.965469Z",
+            "shown_at": [
+                "2025-08-26T00:25:48.961139Z",
+                "2025-08-26T15:11:40.484951Z",
+                "2025-08-26T16:41:53.530056Z"
+            ]
+        },
         {
             "id": "1b6162b83020ed93f63a8b354b627e94",
             "source": "nyt",
@@ -11562,97 +11600,6 @@
             ]
         },
         {
-            "id": "cadca7b8e4b5d22c69f0fda55aeab18a",
-            "source": "spacenews",
-            "text": "Rocket Lab to acquire satellite payload manufacturer Geost for $275 million",
-            "source_link": "https://spacenews.com/rocket-lab-to-acquire-satellite-payload-manufacturer-geost-for-275-million/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-27T22:13:28.628581Z",
-            "shown_at": [
-                "2025-05-27T22:13:29.229702Z",
-                "2025-05-29T18:05:44.944384Z",
-                "2025-05-29T23:41:48.214967Z",
-                "2025-06-01T17:03:37.535888Z",
-                "2025-06-02T04:24:02.247093Z"
-            ]
-        },
-        {
-            "id": "6062dac1da9825d30977516f03d40f35",
-            "source": "nyt",
-            "text": "SpaceX to Launch Starship Flight 9: When and How to Watch",
-            "source_link": "https://www.nytimes.com/2025/05/27/science/spacex-starship-launch-elon-musk-mars.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-27T20:41:38.129772Z",
-            "shown_at": [
-                "2025-05-27T20:41:38.724747Z",
-                "2025-05-28T18:49:42.492481Z",
-                "2025-05-29T08:17:55.964887Z",
-                "2025-05-31T10:53:34.131894Z",
-                "2025-05-31T11:49:41.715348Z",
-                "2025-05-31T18:21:45.640759Z",
-                "2025-06-03T07:25:42.802080Z",
-                "2025-06-03T09:17:44.682339Z"
-            ]
-        },
-        {
-            "id": "cd4f70030ee62c378b60ed53a23f63a2",
-            "source": "spacenews",
-            "text": "SpaceNews Names Kamal Flucker as Vice President of Global Sales to Lead International Growth",
-            "source_link": "https://spacenews.com/spacenews-names-kamal-flucker-as-vice-president-of-global-sales-to-lead-international-growth/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-27T19:53:36.943935Z",
-            "shown_at": [
-                "2025-05-27T19:53:37.675890Z",
-                "2025-05-28T17:25:33.144911Z",
-                "2025-05-29T03:49:30.987076Z",
-                "2025-05-31T22:49:50.866812Z",
-                "2025-06-01T06:33:46.509024Z",
-                "2025-06-01T23:37:23.842487Z",
-                "2025-06-02T05:21:43.828862Z"
-            ]
-        },
-        {
-            "id": "ac254ef1f73f5c1d8de43cf66331cd16",
-            "source": "nyt",
-            "text": "SpaceX Scrubs 10th Starship Test Launch Because of Lousy Weather",
-            "source_link": "https://www.nytimes.com/2025/08/25/science/spacex-starship-launch.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-08-26T00:25:47.965469Z",
-            "shown_at": [
-                "2025-08-26T00:25:48.961139Z",
-                "2025-08-26T15:11:40.484951Z",
-                "2025-08-26T16:41:53.530056Z"
-            ]
-        },
-        {
-            "id": "9edb9e5de8772e0644ee08c97db2886a",
-            "source": "nyt",
-            "text": "Rainer Weiss, Who Gave a Nod to Einstein and the Big Bang, Dies at 92",
-            "source_link": "https://www.nytimes.com/2025/08/26/science/rainer-weiss-dead.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-08-26T20:13:54.195932Z",
-            "shown_at": [
-                "2025-08-26T20:13:55.237417Z"
-            ]
-        },
-        {
-            "id": "c3580e91338508e0001d006597e80562",
-            "source": "nyt",
-            "text": "SpaceX Starship Test Launch: How and When to Watch the 10th Test Flight",
-            "source_link": "https://www.nytimes.com/2025/08/26/science/spacex-starship-test-launch.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-08-26T20:55:41.944535Z",
-            "shown_at": [
-                "2025-08-26T20:55:42.554536Z"
-            ]
-        },
-        {
             "id": "e85dae45d628e06a35ff0f6d44d98cb2",
             "source": "supercluster",
             "text": "SpaceX Will Perform Tenth Flight Test of Starship Super Heavy",
@@ -11661,7 +11608,7 @@
             "type": "launch",
             "target_datetime": "2025-08-26T23:30:00.000Z",
             "time_remaining": "",
-            "fetched_datetime": "2025-08-26T23:59:32.985765Z"
+            "fetched_datetime": "2025-08-27T00:02:23.798466Z"
         }
     ]
 }
