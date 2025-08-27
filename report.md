@@ -5,7 +5,7 @@
 | nyt | 3 | 8 | 31 | 65 |
 | breaking_defense | 0 | 0 | 30 | 60 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -6108,3 +6108,4 @@
 - **Aug 27, 12:33 AM** - SpaceX Scrubs 10th Starship Test Launch Because of Lousy Weather (nyt)
 - **Aug 27, 12:47 AM** - Space Guard proponents hope for last-minute Trump intervention (breaking_defense)
 - **Aug 27, 01:02 AM** - SpaceX Starship Completes Successful Test Flight After Previous Launch Setbacks (nyt)
+- **Aug 27, 01:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
