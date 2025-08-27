@@ -5,7 +5,7 @@
 | nyt | 3 | 8 | 31 | 65 |
 | breaking_defense | 0 | 0 | 30 | 60 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 3 | 3 |
+| supercluster | 1 | 1 | 4 | 4 |
 
 # Shown Order
 
@@ -6110,3 +6110,4 @@
 - **Aug 27, 01:02 AM** - SpaceX Starship Completes Successful Test Flight After Previous Launch Setbacks (nyt)
 - **Aug 27, 01:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Aug 27, 01:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Aug 27, 01:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
