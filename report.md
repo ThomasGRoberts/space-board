@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 4 | 30 | 62 |
-| breaking_defense | 0 | 0 | 31 | 61 |
+| breaking_defense | 0 | 0 | 30 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 96 | 96 |
+| supercluster | 1 | 1 | 97 | 97 |
 
 # Shown Order
 
@@ -6258,3 +6258,4 @@
 - **Aug 27, 10:02 PM** - SpaceX Scrubs 10th Starship Test Launch Because of Lousy Weather (nyt)
 - **Aug 27, 10:17 PM** - Space Guard proponents hope for last-minute Trump intervention (breaking_defense)
 - **Aug 27, 10:34 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Aug 27, 10:36 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
