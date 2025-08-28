@@ -5,7 +5,7 @@
 | nyt | 0 | 3 | 29 | 59 |
 | breaking_defense | 0 | 0 | 30 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 48 | 48 |
+| supercluster | 1 | 1 | 27 | 27 |
 
 # Shown Order
 
@@ -6162,31 +6162,10 @@
 - **Aug 28, 04:23 AM** - Space Guard proponents hope for last-minute Trump intervention (breaking_defense)
 - **Aug 28, 04:53 AM** - SpaceX Scrubs Critical 10th Test Launch of Starship Rocket (nyt)
 - **Aug 28, 05:09 AM** - Space Guard proponents hope for last-minute Trump intervention (breaking_defense)
-- **Aug 28, 06:27 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
-- **Aug 28, 06:29 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
-- **Aug 28, 06:32 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
-- **Aug 28, 06:35 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
-- **Aug 28, 06:37 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
-- **Aug 28, 06:39 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
-- **Aug 28, 06:41 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
 - **Aug 28, 06:43 AM** - SpaceX Scrubs Critical 10th Test Launch of Starship Rocket (nyt)
 - **Aug 28, 06:57 AM** - Space Guard proponents hope for last-minute Trump intervention (breaking_defense)
-- **Aug 28, 07:14 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
-- **Aug 28, 07:17 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
-- **Aug 28, 07:19 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
-- **Aug 28, 07:21 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
-- **Aug 28, 07:23 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
-- **Aug 28, 07:25 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
-- **Aug 28, 07:27 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
 - **Aug 28, 07:29 AM** - SpaceX Reschedules Scrubbed  10th Test Launch of Starship Rocket (nyt)
 - **Aug 28, 07:43 AM** - Space Guard proponents hope for last-minute Trump intervention (breaking_defense)
-- **Aug 28, 07:57 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
-- **Aug 28, 07:59 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
-- **Aug 28, 08:02 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
-- **Aug 28, 08:05 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
-- **Aug 28, 08:07 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
-- **Aug 28, 08:09 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
-- **Aug 28, 08:11 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
 - **Aug 28, 08:14 AM** - SpaceX Starship Test Launch: How and When to Watch the 10th Test Flight (nyt)
 - **Aug 28, 08:27 AM** - Space Guard proponents hope for last-minute Trump intervention (breaking_defense)
 - **Aug 28, 09:13 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
