@@ -6162,4 +6162,4 @@
 - **Aug 28, 04:23 AM** - Space Guard proponents hope for last-minute Trump intervention (breaking_defense)
 - **Aug 28, 04:53 AM** - SpaceX Scrubs Critical 10th Test Launch of Starship Rocket (nyt)
 - **Aug 28, 05:09 AM** - Space Guard proponents hope for last-minute Trump intervention (breaking_defense)
-- **Aug 28, 06:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Aug 28, 06:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
