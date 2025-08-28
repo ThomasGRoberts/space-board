@@ -5,7 +5,7 @@
 | nyt | 0 | 3 | 29 | 60 |
 | breaking_defense | 0 | 0 | 30 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 7 | 7 |
+| supercluster | 1 | 1 | 8 | 8 |
 
 # Shown Order
 
@@ -6171,3 +6171,4 @@
 - **Aug 28, 06:41 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
 - **Aug 28, 06:43 AM** - SpaceX Scrubs Critical 10th Test Launch of Starship Rocket (nyt)
 - **Aug 28, 06:57 AM** - Space Guard proponents hope for last-minute Trump intervention (breaking_defense)
+- **Aug 28, 07:14 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
