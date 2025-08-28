@@ -5,7 +5,7 @@
 | nyt | 0 | 3 | 29 | 59 |
 | breaking_defense | 0 | 0 | 29 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 42 | 42 |
+| supercluster | 2 | 2 | 43 | 43 |
 
 # Shown Order
 
@@ -6216,3 +6216,4 @@
 - **Aug 28, 10:55 AM** - SpaceX Reschedules Scrubbed  10th Test Launch of Starship Rocket (nyt)
 - **Aug 28, 11:28 AM** - Space Guard proponents hope for last-minute Trump intervention (breaking_defense)
 - **Aug 28, 11:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 28, 11:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
