@@ -5,7 +5,7 @@
 | nyt | 0 | 3 | 29 | 60 |
 | breaking_defense | 0 | 0 | 30 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 21 | 21 |
+| supercluster | 2 | 2 | 22 | 22 |
 
 # Shown Order
 
@@ -6189,3 +6189,4 @@
 - **Aug 28, 08:11 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
 - **Aug 28, 08:14 AM** - SpaceX Starship Test Launch: How and When to Watch the 10th Test Flight (nyt)
 - **Aug 28, 08:27 AM** - Space Guard proponents hope for last-minute Trump intervention (breaking_defense)
+- **Aug 28, 08:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
