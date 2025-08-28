@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 130 | 130 |
 | nyt | 0 | 3 | 31 | 62 |
-| breaking_defense | 0 | 0 | 31 | 60 |
+| breaking_defense | 0 | 0 | 32 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -6283,3 +6283,4 @@
 - **Aug 28, 01:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Aug 28, 01:53 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Aug 28, 01:55 AM** - Rainer Weiss, Who Gave a Nod to Einstein and the Big Bang, Dies at 92 (nyt)
+- **Aug 28, 02:09 AM** - Space Guard proponents hope for last-minute Trump intervention (breaking_defense)
