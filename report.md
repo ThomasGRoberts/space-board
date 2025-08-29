@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 0 | 1 | 295 | 426 |
+| supercluster | 0 | 1 | 296 | 427 |
 | nyt | 0 | 0 | 42 | 74 |
 | breaking_defense | 1 | 1 | 5 | 24 |
 | spacenews | 0 | 0 | 0 | 0 |
@@ -6666,3 +6666,4 @@
 - **Aug 29, 09:02 PM** - Stormy weather: DoD faces dearth of data from planned NOAA cuts (breaking_defense)
 - **Aug 29, 09:17 PM** - SpaceX Starship Completes Successful Test Flight After Previous Launch Setbacks (nyt)
 - **Aug 29, 09:32 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 29, 09:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
