@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 0 | 1 | 308 | 404 |
 | nyt | 0 | 0 | 43 | 74 |
-| breaking_defense | 1 | 1 | 1 | 24 |
+| breaking_defense | 1 | 1 | 2 | 25 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -6636,3 +6636,4 @@
 - **Aug 29, 06:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 29, 06:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 29, 06:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 29, 06:47 PM** - Stormy weather: DoD faces dearth of data from planned NOAA cuts (breaking_defense)
