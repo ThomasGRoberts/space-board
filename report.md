@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 0 | 1 | 300 | 327 |
-| nyt | 0 | 0 | 42 | 71 |
+| nyt | 0 | 0 | 43 | 72 |
 | breaking_defense | 0 | 0 | 2 | 32 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -6547,3 +6547,4 @@
 - **Aug 29, 12:32 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 29, 12:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 29, 12:38 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 29, 12:39 PM** - Scientists Find a Quadruple Star System in Our Cosmic Backyard (nyt)
