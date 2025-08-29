@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 0 | 1 | 295 | 322 |
-| nyt | 0 | 0 | 42 | 72 |
+| supercluster | 0 | 1 | 296 | 323 |
+| nyt | 0 | 0 | 42 | 71 |
 | breaking_defense | 0 | 0 | 3 | 32 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -6542,3 +6542,4 @@
 - **Aug 29, 11:58 AM** - Scientists Find a Quadruple Star System in Our Cosmic Backyard (nyt)
 - **Aug 29, 12:17 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 29, 12:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 29, 12:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
