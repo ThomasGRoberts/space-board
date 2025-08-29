@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 0 | 1 | 310 | 378 |
+| supercluster | 0 | 1 | 311 | 379 |
 | nyt | 0 | 0 | 44 | 73 |
 | breaking_defense | 0 | 0 | 0 | 26 |
 | spacenews | 0 | 0 | 0 | 0 |
@@ -6606,3 +6606,4 @@
 - **Aug 29, 04:39 PM** - SpaceX Scrubs Critical 10th Test Launch of Starship Rocket (nyt)
 - **Aug 29, 04:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 29, 04:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 29, 04:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
