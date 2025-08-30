@@ -5,6 +5,7 @@
 | breaking_defense | 1 | 1 | 15 | 25 |
 | nyt | 0 | 0 | 37 | 74 |
 | spacenews | 0 | 0 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -6243,3 +6244,4 @@
 - **Aug 30, 04:10 AM** - SpaceX Starship Completes Successful Test Flight After Previous Launch Setbacks (nyt)
 - **Aug 30, 04:23 AM** - Stormy weather: DoD faces dearth of data from planned NOAA cuts (breaking_defense)
 - **Aug 30, 04:51 AM** - SpaceX Starship 10th Test Launch: How and When to Watch the Flight (nyt)
+- **Aug 30, 05:05 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
