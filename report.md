@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 1 | 20 | 26 |
 | nyt | 0 | 0 | 35 | 75 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 32 | 32 |
+| supercluster | 1 | 1 | 33 | 33 |
 
 # Shown Order
 
@@ -6286,3 +6286,4 @@
 - **Aug 30, 09:19 AM** - SpaceX Scrubs 10th Starship Test Launch Because of Lousy Weather (nyt)
 - **Aug 30, 09:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Aug 30, 09:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Aug 30, 09:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
