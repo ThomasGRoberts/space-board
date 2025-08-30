@@ -2,18 +2,16 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
+| breaking_defense | 1 | 1 | 9 | 25 |
 | supercluster | 0 | 1 | 287 | 453 |
 | nyt | 0 | 0 | 40 | 74 |
-| breaking_defense | 1 | 1 | 8 | 24 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
 
-- **May 28, 06:21 AM** - SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth (nyt)
 - **May 28, 06:35 AM** - Manhattanhenge Is Back for 2025: When, Where and How to Watch (nyt)
 - **May 28, 07:39 AM** - Manhattanhenge Is Back for 2025: When, Where and How to Watch (nyt)
 - **May 28, 08:45 AM** - Apex announces Comet satellite bus for constellations (spacenews)
-- **May 28, 12:17 PM** - SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth (nyt)
 - **May 28, 12:33 PM** - Air Force Research Laboratory Awards Moog Contract to Develop New Multimode Propulsion System to Enhance Dynamic Space Operations (spacenews)
 - **May 28, 01:01 PM** - Overcoming conservatism in the autonomous space revolution (spacenews)
 - **May 28, 03:12 PM** - China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
@@ -41,7 +39,6 @@
 - **May 29, 11:05 AM** - Manhattanhenge Is Back for 2025: When, Where and How to Watch (nyt)
 - **May 29, 11:19 AM** - Overcoming conservatism in the autonomous space revolution (spacenews)
 - **May 29, 01:02 PM** - Maxar Intelligence taps tech veteran to lead commercial business (spacenews)
-- **May 29, 01:17 PM** - SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth (nyt)
 - **May 29, 02:03 PM** - Apex announces Comet satellite bus for constellations (spacenews)
 - **May 29, 02:17 PM** - Manhattanhenge Is Back for 2025: When, Where and How to Watch (nyt)
 - **May 29, 04:53 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
@@ -51,7 +48,6 @@
 - **May 29, 06:55 PM** - Northrop invests $50 million into Firefly for launch vehicle development (spacenews)
 - **May 29, 07:23 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **May 29, 07:51 PM** - Scientists Say They’ve Found a Dwarf Planet Very Far From the Sun (nyt)
-- **May 29, 08:47 PM** - SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth (nyt)
 - **May 29, 09:01 PM** - China launches classified Shijan-26 satellite with Long March 4B rocket (spacenews)
 - **May 29, 09:29 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **May 29, 09:43 PM** - China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
@@ -84,12 +80,10 @@
 - **May 30, 03:19 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **May 30, 03:33 PM** - China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
 - **May 30, 03:47 PM** - Skepticism lingers about cost and business case for IRIS² (spacenews)
-- **May 30, 04:33 PM** - SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth (nyt)
 - **May 30, 06:55 PM** - China launches Tianwen-2 mission to sample near Earth asteroid (spacenews)
 - **May 30, 07:11 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **May 30, 07:55 PM** - Apex announces Comet satellite bus for constellations (spacenews)
 - **May 30, 08:09 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
-- **May 30, 08:38 PM** - SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth (nyt)
 - **May 30, 09:08 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **May 30, 09:35 PM** - SpaceX launches latest GPS III satellite for U.S. military (spacenews)
 - **May 30, 09:49 PM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
@@ -107,7 +101,6 @@
 - **May 31, 02:09 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **May 31, 02:23 AM** - China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
 - **May 31, 03:05 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
-- **May 31, 03:19 AM** - SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth (nyt)
 - **May 31, 03:47 AM** - Space One and Space BD to launch satellite for Japanese military (spacenews)
 - **May 31, 04:02 AM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
 - **May 31, 04:17 AM** - China Launches Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
@@ -128,10 +121,8 @@
 - **May 31, 11:35 AM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
 - **May 31, 12:17 PM** - Overcoming conservatism in the autonomous space revolution (spacenews)
 - **May 31, 12:33 PM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
-- **May 31, 12:47 PM** - SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth (nyt)
 - **May 31, 01:17 PM** - Chinese launch startup conducts vertical takeoff and splashdown test (spacenews)
 - **May 31, 03:15 PM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
-- **May 31, 03:29 PM** - SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth (nyt)
 - **May 31, 04:27 PM** - China Launches Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
 - **May 31, 04:41 PM** - Northrop invests $50 million into Firefly for launch vehicle development (spacenews)
 - **May 31, 05:11 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
@@ -151,7 +142,6 @@
 - **Jun 01, 12:49 AM** - China launches Tianwen-2 mission to sample near Earth asteroid (spacenews)
 - **Jun 01, 01:07 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **Jun 01, 01:35 AM** - China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
-- **Jun 01, 02:31 AM** - SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth (nyt)
 - **Jun 01, 02:45 AM** - Overcoming conservatism in the autonomous space revolution (spacenews)
 - **Jun 01, 02:59 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **Jun 01, 03:27 AM** - China Launches Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
@@ -172,7 +162,6 @@
 - **Jun 01, 11:05 AM** - New Likely Dwarf Planet Discovered in Remote Region of Solar System (nyt)
 - **Jun 01, 11:19 AM** - With strategic acquisitions, Rocket Lab pursues prime defense contractor status (spacenews)
 - **Jun 01, 11:33 AM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
-- **Jun 01, 12:02 PM** - SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth (nyt)
 - **Jun 01, 12:29 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **Jun 01, 01:01 PM** - Northern Lights May Be Visible as Far South as Alabama (nyt)
 - **Jun 01, 01:29 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
@@ -181,10 +170,8 @@
 - **Jun 01, 02:27 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **Jun 01, 02:55 PM** - Manhattanhenge Is Back for 2025: When, Where and How to Watch (nyt)
 - **Jun 01, 03:11 PM** - China’s Astronstone raises early funding for stainless steel rocket with “chopstick” recovery (spacenews)
-- **Jun 01, 03:53 PM** - SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth (nyt)
 - **Jun 01, 04:21 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **Jun 01, 04:49 PM** - New Likely Dwarf Planet Discovered in Remote Region of Solar System (nyt)
-- **Jun 01, 05:45 PM** - SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth (nyt)
 - **Jun 01, 06:13 PM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **Jun 01, 06:41 PM** - China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
 - **Jun 01, 06:55 PM** - Blue Origin performs 12th crewed New Shepard suborbital flight (spacenews)
@@ -259,7 +246,6 @@
 - **Jun 03, 01:21 AM** - SpaceX launches latest GPS III satellite for U.S. military (spacenews)
 - **Jun 03, 02:03 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **Jun 03, 02:17 AM** - Apex announces Comet satellite bus for constellations (spacenews)
-- **Jun 03, 02:32 AM** - SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth (nyt)
 - **Jun 03, 03:02 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **Jun 03, 03:29 AM** - Trump to Withdraw Musk’s Ally as Nominee for Top NASA Job (nyt)
 - **Jun 03, 04:03 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
@@ -293,7 +279,6 @@
 - **Jun 03, 03:15 PM** - Manhattanhenge Is Back for 2025: When, Where and How to Watch (nyt)
 - **Jun 03, 03:29 PM** - Voyager launches IPO with $1.6 billion valuation target (spacenews)
 - **Jun 03, 03:59 PM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
-- **Jun 03, 04:13 PM** - SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth (nyt)
 - **Jun 03, 04:27 PM** - SpaceNews Appoints Laurie Diamond as VP of Business Development to Accelerate Revenue Growth and Strategic Expansion (spacenews)
 - **Jun 03, 04:55 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **Jun 03, 05:09 PM** - New Likely Dwarf Planet Discovered in Remote Region of Solar System (nyt)
@@ -311,7 +296,6 @@
 - **Jun 03, 09:11 PM** - New Likely Dwarf Planet Discovered in Remote Region of Solar System (nyt)
 - **Jun 03, 09:41 PM** - Golden Dome: It’s all about the data (spacenews)
 - **Jun 03, 09:55 PM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
-- **Jun 03, 10:09 PM** - SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth (nyt)
 - **Jun 03, 10:25 PM** - Impulse Space raises $300 million for expansion and new technology development (spacenews)
 - **Jun 03, 10:53 PM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
 - **Jun 03, 11:07 PM** - Trump to Withdraw Musk’s Ally as Nominee for Top NASA Job (nyt)
@@ -6699,3 +6683,4 @@
 - **Aug 29, 11:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 29, 11:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 29, 11:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 30, 12:02 AM** - Stormy weather: DoD faces dearth of data from planned NOAA cuts (breaking_defense)

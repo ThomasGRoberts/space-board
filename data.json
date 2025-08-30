@@ -1,9 +1,29 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-08-29T00:01:58.511882+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "last_run_datetime": "2025-08-30T00:02:01.123925+00:00",
+    "trigger_count": 0,
+    "current_item_id": "1bc10e709b60fae3cbfdc503b966381b",
     "data": [
+        {
+            "id": "1bc10e709b60fae3cbfdc503b966381b",
+            "source": "breaking_defense",
+            "text": "Stormy weather: DoD faces dearth of data from planned NOAA cuts",
+            "source_link": "https://breakingdefense.com/2025/08/stormy-weather-dod-faces-dearth-of-data-from-planned-noaa-cuts/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-08-29T18:05:48.332840Z",
+            "shown_at": [
+                "2025-08-29T18:05:48.972598Z",
+                "2025-08-29T18:47:55.743409Z",
+                "2025-08-29T19:33:40.269238Z",
+                "2025-08-29T20:17:15.754155Z",
+                "2025-08-29T21:02:11.875844Z",
+                "2025-08-29T21:45:54.912034Z",
+                "2025-08-29T22:30:02.942204Z",
+                "2025-08-29T23:15:41.912741Z",
+                "2025-08-30T00:02:06.896352Z"
+            ]
+        },
         {
             "id": "4beba9b243fe616fcb8e7be8d963bbc1",
             "source": "supercluster",
@@ -12159,52 +12179,6 @@
                 "2025-06-04T01:05:42.460429Z",
                 "2025-06-04T02:03:46.233593Z",
                 "2025-06-04T03:03:41.998553Z"
-            ]
-        },
-        {
-            "id": "f05646b67f730049dc1e41a147104422",
-            "source": "nyt",
-            "text": "SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth",
-            "source_link": "https://www.nytimes.com/2025/05/27/science/spacex-starship-launch-elon-musk-mars.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-28T06:21:43.256483Z",
-            "shown_at": [
-                "2025-05-28T06:21:43.841417Z",
-                "2025-05-28T12:17:39.858744Z",
-                "2025-05-29T13:17:34.818092Z",
-                "2025-05-29T20:47:36.709059Z",
-                "2025-05-30T16:33:47.931281Z",
-                "2025-05-30T20:38:18.314613Z",
-                "2025-05-31T03:19:39.703608Z",
-                "2025-05-31T12:47:48.483116Z",
-                "2025-05-31T15:29:46.905881Z",
-                "2025-06-01T02:31:55.370387Z",
-                "2025-06-01T12:02:08.135974Z",
-                "2025-06-01T15:53:46.720189Z",
-                "2025-06-01T17:45:41.153977Z",
-                "2025-06-03T02:32:01.666379Z",
-                "2025-06-03T16:13:40.736653Z",
-                "2025-06-03T22:09:29.333893Z"
-            ]
-        },
-        {
-            "id": "1bc10e709b60fae3cbfdc503b966381b",
-            "source": "breaking_defense",
-            "text": "Stormy weather: DoD faces dearth of data from planned NOAA cuts",
-            "source_link": "https://breakingdefense.com/2025/08/stormy-weather-dod-faces-dearth-of-data-from-planned-noaa-cuts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-08-29T18:05:48.332840Z",
-            "shown_at": [
-                "2025-08-29T18:05:48.972598Z",
-                "2025-08-29T18:47:55.743409Z",
-                "2025-08-29T19:33:40.269238Z",
-                "2025-08-29T20:17:15.754155Z",
-                "2025-08-29T21:02:11.875844Z",
-                "2025-08-29T21:45:54.912034Z",
-                "2025-08-29T22:30:02.942204Z",
-                "2025-08-29T23:15:41.912741Z"
             ]
         }
     ]
