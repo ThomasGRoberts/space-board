@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 1 | 24 | 26 |
 | nyt | 0 | 0 | 34 | 76 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 60 | 60 |
+| supercluster | 1 | 1 | 61 | 61 |
 
 # Shown Order
 
@@ -6322,3 +6322,4 @@
 - **Aug 30, 12:13 PM** - SpaceX Reschedules Scrubbed 10th Test Launch of Starship Rocket (nyt)
 - **Aug 30, 12:27 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Aug 30, 12:29 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Aug 30, 12:32 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
