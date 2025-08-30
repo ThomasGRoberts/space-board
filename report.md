@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 10 | 25 |
-| supercluster | 0 | 1 | 274 | 461 |
-| nyt | 0 | 0 | 40 | 74 |
+| supercluster | 0 | 1 | 275 | 462 |
+| nyt | 0 | 0 | 39 | 74 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -6695,3 +6695,4 @@
 - **Aug 30, 12:45 AM** - Stormy weather: DoD faces dearth of data from planned NOAA cuts (breaking_defense)
 - **Aug 30, 12:59 AM** - SpaceX Reschedules Scrubbed 10th Test Launch of Starship Rocket (nyt)
 - **Aug 30, 01:15 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 30, 01:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
