@@ -5,7 +5,6 @@
 | breaking_defense | 1 | 1 | 15 | 25 |
 | nyt | 0 | 0 | 37 | 74 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 21 | 21 |
 
 # Shown Order
 
@@ -6239,29 +6238,8 @@
 - **Aug 30, 02:13 AM** - Stormy weather: DoD faces dearth of data from planned NOAA cuts (breaking_defense)
 - **Aug 30, 02:27 AM** - SpaceX Starship Completes Successful Test Flight After Previous Launch Setbacks (nyt)
 - **Aug 30, 02:55 AM** - Stormy weather: DoD faces dearth of data from planned NOAA cuts (breaking_defense)
-- **Aug 30, 03:09 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Aug 30, 03:12 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Aug 30, 03:13 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Aug 30, 03:16 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Aug 30, 03:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Aug 30, 03:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Aug 30, 03:21 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 30, 03:23 AM** - SpaceX Reschedules Scrubbed 10th Test Launch of Starship Rocket (nyt)
 - **Aug 30, 03:41 AM** - Stormy weather: DoD faces dearth of data from planned NOAA cuts (breaking_defense)
-- **Aug 30, 03:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Aug 30, 03:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Aug 30, 03:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Aug 30, 04:02 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Aug 30, 04:03 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Aug 30, 04:05 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Aug 30, 04:07 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 30, 04:10 AM** - SpaceX Starship Completes Successful Test Flight After Previous Launch Setbacks (nyt)
 - **Aug 30, 04:23 AM** - Stormy weather: DoD faces dearth of data from planned NOAA cuts (breaking_defense)
-- **Aug 30, 04:37 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Aug 30, 04:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Aug 30, 04:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Aug 30, 04:43 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Aug 30, 04:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Aug 30, 04:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Aug 30, 04:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 30, 04:51 AM** - SpaceX Starship 10th Test Launch: How and When to Watch the Flight (nyt)
