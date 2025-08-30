@@ -5,7 +5,7 @@
 | breaking_defense | 0 | 1 | 31 | 32 |
 | nyt | 0 | 0 | 31 | 75 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 115 | 115 |
+| supercluster | 1 | 1 | 116 | 116 |
 
 # Shown Order
 
@@ -6393,3 +6393,4 @@
 - **Aug 30, 05:51 PM** - Stormy weather: DoD faces dearth of data from planned NOAA cuts (breaking_defense)
 - **Aug 30, 06:07 PM** - SpaceX Reschedules Scrubbed 10th Test Launch of Starship Rocket (nyt)
 - **Aug 30, 06:21 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Aug 30, 06:23 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
