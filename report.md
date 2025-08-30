@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 30 | 30 |
-| nyt | 0 | 0 | 32 | 76 |
+| nyt | 0 | 0 | 32 | 77 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 100 | 100 |
 
@@ -6373,3 +6373,4 @@
 - **Aug 30, 04:23 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Aug 30, 04:25 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Aug 30, 04:27 PM** - Stormy weather: DoD faces dearth of data from planned NOAA cuts (breaking_defense)
+- **Aug 30, 04:41 PM** - SpaceX Scrubs Critical 10th Test Launch of Starship Rocket (nyt)
