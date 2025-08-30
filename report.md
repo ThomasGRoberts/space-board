@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 1 | 17 | 25 |
 | nyt | 0 | 0 | 35 | 75 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 9 | 9 |
+| supercluster | 1 | 1 | 10 | 10 |
 
 # Shown Order
 
@@ -6257,3 +6257,4 @@
 - **Aug 30, 06:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Aug 30, 06:52 AM** - Stormy weather: DoD faces dearth of data from planned NOAA cuts (breaking_defense)
 - **Aug 30, 07:07 AM** - Rainer Weiss, Who Gave a Nod to Einstein and the Big Bang, Dies at 92 (nyt)
+- **Aug 30, 07:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
