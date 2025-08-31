@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 0 | 31 | 62 |
-| nyt | 0 | 0 | 30 | 62 |
+| nyt | 0 | 0 | 31 | 63 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 67 | 67 |
 
@@ -6410,3 +6410,4 @@
 - **Aug 31, 07:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 31, 07:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 31, 07:31 PM** - Stormy weather: DoD faces dearth of data from planned NOAA cuts (breaking_defense)
+- **Aug 31, 07:45 PM** - SpaceX Starship Test Launch: How and When to Watch the 10th Test Flight (nyt)
