@@ -5,7 +5,7 @@
 | breaking_defense | 0 | 0 | 31 | 62 |
 | nyt | 0 | 0 | 31 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 69 | 69 |
+| supercluster | 1 | 1 | 70 | 70 |
 
 # Shown Order
 
@@ -6413,3 +6413,4 @@
 - **Aug 31, 07:45 PM** - SpaceX Starship Test Launch: How and When to Watch the 10th Test Flight (nyt)
 - **Aug 31, 07:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 31, 08:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Aug 31, 08:03 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
