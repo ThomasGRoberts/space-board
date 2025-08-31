@@ -5,7 +5,6 @@
 | breaking_defense | 0 | 1 | 32 | 55 |
 | nyt | 0 | 0 | 32 | 66 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 6 | 6 |
 
 # Shown Order
 
@@ -6322,11 +6321,5 @@
 - **Aug 31, 10:02 AM** - SpaceX Starship 10th Test Launch: How and When to Watch the Flight (nyt)
 - **Aug 31, 10:45 AM** - Stormy weather: DoD faces dearth of data from planned NOAA cuts (breaking_defense)
 - **Aug 31, 10:59 AM** - SpaceX Starship 10th Test Launch: How and When to Watch the Flight (nyt)
-- **Aug 31, 11:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Aug 31, 11:22 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Aug 31, 11:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Aug 31, 11:25 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Aug 31, 11:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Aug 31, 11:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Aug 31, 11:32 AM** - Stormy weather: DoD faces dearth of data from planned NOAA cuts (breaking_defense)
 - **Aug 31, 11:47 AM** - SpaceX Scrubs Critical 10th Test Launch of Starship Rocket (nyt)
