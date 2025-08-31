@@ -5,7 +5,7 @@
 | breaking_defense | 0 | 0 | 31 | 62 |
 | nyt | 0 | 0 | 31 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 74 | 74 |
+| supercluster | 1 | 1 | 75 | 75 |
 
 # Shown Order
 
@@ -6420,3 +6420,4 @@
 - **Aug 31, 08:11 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Aug 31, 08:13 PM** - Stormy weather: DoD faces dearth of data from planned NOAA cuts (breaking_defense)
 - **Aug 31, 08:27 PM** - Scientists Find a Quadruple Star System in Our Cosmic Backyard (nyt)
+- **Aug 31, 08:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
