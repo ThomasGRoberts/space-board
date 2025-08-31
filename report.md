@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 0 | 1 | 225 | 248 |
+| supercluster | 0 | 1 | 226 | 249 |
 | breaking_defense | 0 | 1 | 32 | 51 |
 | nyt | 0 | 0 | 33 | 67 |
 | spacenews | 0 | 0 | 0 | 0 |
@@ -6564,3 +6564,4 @@
 - **Aug 31, 07:59 AM** - Stormy weather: DoD faces dearth of data from planned NOAA cuts (breaking_defense)
 - **Aug 31, 08:15 AM** - Scientists Find a Quadruple Star System in Our Cosmic Backyard (nyt)
 - **Aug 31, 08:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Aug 31, 08:32 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
