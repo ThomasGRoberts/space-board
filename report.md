@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 185 | 185 |
+| supercluster | 1 | 1 | 186 | 186 |
 | breaking_defense | 0 | 1 | 31 | 42 |
 | nyt | 0 | 0 | 31 | 70 |
 | spacenews | 0 | 0 | 0 | 0 |
@@ -6483,3 +6483,4 @@
 - **Aug 31, 01:17 AM** - Stormy weather: DoD faces dearth of data from planned NOAA cuts (breaking_defense)
 - **Aug 31, 01:32 AM** - Rainer Weiss, Who Gave a Nod to Einstein and the Big Bang, Dies at 92 (nyt)
 - **Aug 31, 01:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Aug 31, 01:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
