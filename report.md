@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 0 | 1 | 224 | 326 |
 | breaking_defense | 0 | 0 | 32 | 63 |
-| nyt | 0 | 0 | 32 | 63 |
+| nyt | 0 | 0 | 33 | 63 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -6743,3 +6743,4 @@
 - **Sep 01, 10:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 01, 11:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 01, 11:05 PM** - Stormy weather: DoD faces dearth of data from planned NOAA cuts (breaking_defense)
+- **Sep 01, 11:19 PM** - SpaceX Starship Completes Successful Test Flight After Previous Launch Setbacks (nyt)
