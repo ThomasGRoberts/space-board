@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 201 | 201 |
+| supercluster | 1 | 1 | 202 | 202 |
 | breaking_defense | 0 | 0 | 31 | 63 |
 | nyt | 0 | 0 | 31 | 63 |
 | spacenews | 0 | 0 | 0 | 0 |
@@ -6583,3 +6583,4 @@
 - **Sep 01, 09:42 AM** - Stormy weather: DoD faces dearth of data from planned NOAA cuts (breaking_defense)
 - **Sep 01, 09:57 AM** - SpaceX Scrubs 10th Starship Test Launch Because of Lousy Weather (nyt)
 - **Sep 01, 10:14 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 01, 10:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
