@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 0 | 0 | 229 | 455 |
-| breaking_defense | 0 | 0 | 32 | 64 |
+| supercluster | 0 | 0 | 228 | 455 |
+| breaking_defense | 0 | 0 | 33 | 65 |
 | nyt | 1 | 1 | 33 | 65 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -6932,3 +6932,4 @@
 - **Sep 02, 02:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 02, 02:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 02, 02:32 PM** - Rainer Weiss, Who Gave a Nod to Einstein and the Big Bang, Dies at 92 (nyt)
+- **Sep 02, 02:47 PM** - Stormy weather: DoD faces dearth of data from planned NOAA cuts (breaking_defense)
