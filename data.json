@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-02T00:02:13.402987+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9edb9e5de8772e0644ee08c97db2886a",
+    "trigger_count": 0,
+    "current_item_id": "7ed849107132993e3d3deedb36e4f87d",
     "data": [
         {
             "id": "4beba9b243fe616fcb8e7be8d963bbc1",
@@ -12446,6 +12446,18 @@
                 "2025-09-02T06:27:30.611668Z",
                 "2025-09-02T10:47:53.895400Z",
                 "2025-09-02T11:32:11.961308Z"
+            ]
+        },
+        {
+            "id": "7ed849107132993e3d3deedb36e4f87d",
+            "source": "breaking_defense",
+            "text": "Trump expected to move SPACECOM HQ from Colorado to Alabama",
+            "source_link": "https://breakingdefense.com/2025/09/trump-expected-to-move-spacecom-hq-from-colorado-to-alabama/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-02T15:41:32.403862Z",
+            "shown_at": [
+                "2025-09-02T15:41:38.050460Z"
             ]
         }
     ]
