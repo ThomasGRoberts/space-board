@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 0 | 0 | 223 | 447 |
-| breaking_defense | 1 | 1 | 31 | 63 |
+| breaking_defense | 1 | 1 | 32 | 64 |
 | nyt | 1 | 1 | 32 | 65 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -6949,3 +6949,4 @@
 - **Sep 02, 04:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 02, 04:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 02, 04:22 PM** - The Space Rock Stars of Brazil (nyt)
+- **Sep 02, 04:42 PM** - Trump expected to move SPACECOM HQ from Colorado to Alabama (breaking_defense)
