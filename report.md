@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 0 | 0 | 208 | 435 |
+| supercluster | 0 | 0 | 209 | 435 |
 | breaking_defense | 2 | 2 | 30 | 63 |
 | nyt | 1 | 1 | 31 | 63 |
 | spacenews | 0 | 0 | 0 | 0 |
@@ -6976,3 +6976,4 @@
 - **Sep 02, 07:33 PM** - Rainer Weiss, Who Gave a Nod to Einstein and the Big Bang, Dies at 92 (nyt)
 - **Sep 02, 07:49 PM** - Trump moves SPACECOM HQ from Colorado to Alabama (breaking_defense)
 - **Sep 02, 08:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 02, 08:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
