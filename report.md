@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 0 | 1 | 226 | 335 |
+| supercluster | 0 | 1 | 225 | 336 |
 | breaking_defense | 0 | 0 | 32 | 63 |
 | nyt | 0 | 0 | 32 | 63 |
 | spacenews | 0 | 0 | 0 | 0 |
@@ -6755,3 +6755,4 @@
 - **Sep 02, 12:05 AM** - SpaceX Starship Completes Successful Test Flight After Previous Launch Setbacks (nyt)
 - **Sep 02, 12:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 02, 12:21 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 02, 12:23 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
