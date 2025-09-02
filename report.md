@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 0 | 0 | 214 | 438 |
 | breaking_defense | 2 | 2 | 30 | 62 |
-| nyt | 1 | 1 | 30 | 62 |
+| nyt | 1 | 1 | 31 | 63 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -7009,3 +7009,4 @@
 - **Sep 02, 10:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 02, 10:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 02, 10:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 02, 10:42 PM** - The Space Rock Stars of Brazil (nyt)
