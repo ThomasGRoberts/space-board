@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 0 | 0 | 225 | 449 |
+| supercluster | 0 | 0 | 226 | 450 |
 | breaking_defense | 1 | 1 | 32 | 64 |
-| nyt | 1 | 1 | 32 | 65 |
+| nyt | 1 | 1 | 32 | 64 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -6943,3 +6943,4 @@
 - **Sep 02, 03:41 PM** - Trump expected to move SPACECOM HQ from Colorado to Alabama (breaking_defense)
 - **Sep 02, 03:58 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 02, 04:03 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 02, 04:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
