@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-02T00:02:13.402987+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "312e51691b2ff6cf55413c2aae2c390a",
     "data": [
         {
             "id": "4beba9b243fe616fcb8e7be8d963bbc1",
@@ -12327,6 +12327,18 @@
                 "2025-06-04T01:05:42.460429Z",
                 "2025-06-04T02:03:46.233593Z",
                 "2025-06-04T03:03:41.998553Z"
+            ]
+        },
+        {
+            "id": "312e51691b2ff6cf55413c2aae2c390a",
+            "source": "nyt",
+            "text": "The Space Rock Stars of Brazil",
+            "source_link": "https://www.nytimes.com/2025/09/02/science/brazil-meteorites.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-02T06:27:29.938059Z",
+            "shown_at": [
+                "2025-09-02T06:27:30.611668Z"
             ]
         }
     ]
