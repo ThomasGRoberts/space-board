@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 0 | 1 | 231 | 452 |
 | breaking_defense | 0 | 0 | 32 | 64 |
-| nyt | 1 | 1 | 32 | 64 |
+| nyt | 1 | 1 | 33 | 65 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -6904,3 +6904,4 @@
 - **Sep 02, 12:11 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 02, 12:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 02, 12:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 02, 12:17 PM** - Rainer Weiss, Who Gave a Nod to Einstein and the Big Bang, Dies at 92 (nyt)
