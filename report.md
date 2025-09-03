@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 28 | 60 |
-| nyt | 1 | 2 | 28 | 60 |
+| nyt | 1 | 2 | 29 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 39 | 39 |
 
@@ -6523,3 +6523,4 @@
 - **Sep 03, 04:41 PM** - China Will Launch the Long March 3C Rocket (supercluster)
 - **Sep 03, 04:43 PM** - China Will Launch the Long March 3C Rocket (supercluster)
 - **Sep 03, 04:45 PM** - Stormy weather: DoD faces dearth of data from planned NOAA cuts (breaking_defense)
+- **Sep 03, 04:59 PM** - The Space Rock Stars of Brazil (nyt)
