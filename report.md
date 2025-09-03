@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 2 | 28 | 59 |
 | nyt | 1 | 2 | 29 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 46 | 46 |
+| supercluster | 1 | 1 | 47 | 47 |
 
 # Shown Order
 
@@ -6533,3 +6533,4 @@
 - **Sep 03, 05:29 PM** - China Will Launch the Long March 3C Rocket (supercluster)
 - **Sep 03, 05:32 PM** - Trump moves SPACECOM HQ from Colorado to Alabama (breaking_defense)
 - **Sep 03, 05:47 PM** - The Space Rock Stars of Brazil (nyt)
+- **Sep 03, 06:01 PM** - China Will Launch the Long March 3C Rocket (supercluster)
