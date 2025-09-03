@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 2 | 28 | 61 |
+| breaking_defense | 2 | 2 | 28 | 60 |
 | nyt | 1 | 2 | 29 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 27 | 27 |
+| supercluster | 1 | 1 | 28 | 28 |
 
 # Shown Order
 
@@ -6490,3 +6490,4 @@
 - **Sep 03, 07:39 AM** - Stormy weather: DoD faces dearth of data from planned NOAA cuts (breaking_defense)
 - **Sep 03, 07:55 AM** - Trump Relocates Space Command to Alabama, Reviving a First-Term Plan (nyt)
 - **Sep 03, 08:09 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 03, 08:12 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
