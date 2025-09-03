@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-03T00:02:17.571242+00:00",
-    "trigger_count": 2,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 3,
+    "current_item_id": "a599805d20d36df6d8b29537042946c7",
     "data": [
         {
             "id": "2c6b98d667e05414535b68f1bf5ac76f",
@@ -11969,15 +11969,18 @@
             ]
         },
         {
-            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+            "id": "a599805d20d36df6d8b29537042946c7",
             "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from Florida",
-            "source_link": "https://www.supercluster.com/launches/starlink-10-22",
-            "shown": false,
+            "text": "China Will Launch the Long March 3C Rocket",
+            "source_link": "https://www.supercluster.com/launches/long-march-3cl",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-09-03T11:56:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-09-03T12:55:31.559619Z"
+            "target_datetime": "2025-09-05T02:35:00.000Z",
+            "time_remaining": "1d 13h 37m",
+            "fetched_datetime": "2025-09-03T12:57:35.038530Z",
+            "shown_at": [
+                "2025-09-03T12:57:35.678923Z"
+            ]
         }
     ]
 }
