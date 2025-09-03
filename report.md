@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 2 | 28 | 61 |
 | nyt | 1 | 2 | 29 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 54 | 54 |
+| supercluster | 1 | 1 | 55 | 55 |
 
 # Shown Order
 
@@ -6525,3 +6525,4 @@
 - **Sep 03, 10:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 03, 10:42 AM** - Trump expected to move SPACECOM HQ from Colorado to Alabama (breaking_defense)
 - **Sep 03, 10:55 AM** - Trump Relocates Space Command to Alabama, Reviving a First-Term Plan (nyt)
+- **Sep 03, 11:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
