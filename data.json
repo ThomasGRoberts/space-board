@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-03T00:02:17.571242+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1bc10e709b60fae3cbfdc503b966381b",
+    "trigger_count": 0,
+    "current_item_id": "ea28c9610b5defa3c7c8702806247e18",
     "data": [
         {
             "id": "2c6b98d667e05414535b68f1bf5ac76f",
@@ -11965,6 +11965,18 @@
                 "2025-09-03T05:41:44.888020Z",
                 "2025-09-03T05:43:42.756926Z",
                 "2025-09-03T05:45:36.786218Z"
+            ]
+        },
+        {
+            "id": "ea28c9610b5defa3c7c8702806247e18",
+            "source": "nyt",
+            "text": "Trump Relocates Space Command to Alabama, Reviving a First-Term Plan",
+            "source_link": "https://www.nytimes.com/2025/09/02/us/politics/trump-space-command-alabama-colorado.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-03T06:19:34.298704Z",
+            "shown_at": [
+                "2025-09-03T06:19:34.898427Z"
             ]
         }
     ]
