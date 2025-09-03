@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 2 | 30 | 62 |
+| breaking_defense | 2 | 2 | 31 | 63 |
 | nyt | 1 | 1 | 31 | 63 |
-| supercluster | 0 | 0 | 211 | 436 |
+| supercluster | 0 | 0 | 210 | 434 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -6992,3 +6992,4 @@
 - **Sep 03, 12:09 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 03, 12:11 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 03, 12:13 AM** - SpaceX Starship Completes Successful Test Flight After Previous Launch Setbacks (nyt)
+- **Sep 03, 12:27 AM** - Trump moves SPACECOM HQ from Colorado to Alabama (breaking_defense)
