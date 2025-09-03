@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 29 | 61 |
-| nyt | 1 | 1 | 30 | 62 |
+| nyt | 1 | 1 | 29 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 1 | 1 |
 
@@ -6454,4 +6454,4 @@
 - **Sep 03, 02:43 AM** - Stormy weather: DoD faces dearth of data from planned NOAA cuts (breaking_defense)
 - **Sep 03, 03:15 AM** - The Space Rock Stars of Brazil (nyt)
 - **Sep 03, 03:29 AM** - Stormy weather: DoD faces dearth of data from planned NOAA cuts (breaking_defense)
-- **Sep 03, 04:29 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 03, 04:31 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
