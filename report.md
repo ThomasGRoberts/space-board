@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 2 | 28 | 61 |
+| breaking_defense | 2 | 2 | 28 | 60 |
 | nyt | 1 | 2 | 29 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 42 | 42 |
+| supercluster | 1 | 1 | 43 | 43 |
 
 # Shown Order
 
@@ -6509,3 +6509,4 @@
 - **Sep 03, 09:24 AM** - Trump Relocates Space Command to Alabama, Reviving a First-Term Plan (nyt)
 - **Sep 03, 09:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 03, 09:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 03, 09:42 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
