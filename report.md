@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 30 | 62 |
-| nyt | 1 | 1 | 30 | 63 |
+| nyt | 1 | 1 | 30 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 4 | 4 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -6452,9 +6452,6 @@
 - **Sep 03, 01:57 AM** - Trump moves SPACECOM HQ from Colorado to Alabama (breaking_defense)
 - **Sep 03, 02:30 AM** - The Space Rock Stars of Brazil (nyt)
 - **Sep 03, 02:43 AM** - Stormy weather: DoD faces dearth of data from planned NOAA cuts (breaking_defense)
-- **Sep 03, 03:13 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 03, 03:15 AM** - The Space Rock Stars of Brazil (nyt)
 - **Sep 03, 03:29 AM** - Stormy weather: DoD faces dearth of data from planned NOAA cuts (breaking_defense)
-- **Sep 03, 03:43 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Sep 03, 03:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Sep 03, 03:48 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 03, 03:51 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
