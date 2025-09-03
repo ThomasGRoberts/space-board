@@ -1,9 +1,57 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-09-02T00:02:13.402987+00:00",
-    "trigger_count": 1,
+    "last_run_datetime": "2025-09-03T00:02:17.571242+00:00",
+    "trigger_count": 2,
     "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
     "data": [
+        {
+            "id": "2c6b98d667e05414535b68f1bf5ac76f",
+            "source": "breaking_defense",
+            "text": "Trump moves SPACECOM HQ from Colorado to Alabama",
+            "source_link": "https://breakingdefense.com/2025/09/trump-expected-to-move-spacecom-hq-from-colorado-to-alabama/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-02T19:49:55.126986Z",
+            "shown_at": [
+                "2025-09-02T19:49:55.828660Z"
+            ]
+        },
+        {
+            "id": "7ed849107132993e3d3deedb36e4f87d",
+            "source": "breaking_defense",
+            "text": "Trump expected to move SPACECOM HQ from Colorado to Alabama",
+            "source_link": "https://breakingdefense.com/2025/09/trump-expected-to-move-spacecom-hq-from-colorado-to-alabama/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-02T15:41:32.403862Z",
+            "shown_at": [
+                "2025-09-02T15:41:38.050460Z",
+                "2025-09-02T16:42:24.889738Z",
+                "2025-09-02T17:43:14.908913Z",
+                "2025-09-02T18:44:14.760199Z",
+                "2025-09-02T21:21:55.017773Z",
+                "2025-09-02T22:07:43.374103Z",
+                "2025-09-02T22:56:10.501801Z",
+                "2025-09-02T23:42:04.554941Z"
+            ]
+        },
+        {
+            "id": "312e51691b2ff6cf55413c2aae2c390a",
+            "source": "nyt",
+            "text": "The Space Rock Stars of Brazil",
+            "source_link": "https://www.nytimes.com/2025/09/02/science/brazil-meteorites.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-02T06:27:29.938059Z",
+            "shown_at": [
+                "2025-09-02T06:27:30.611668Z",
+                "2025-09-02T10:47:53.895400Z",
+                "2025-09-02T11:32:11.961308Z",
+                "2025-09-02T16:22:03.648549Z",
+                "2025-09-02T21:49:31.722094Z",
+                "2025-09-02T22:42:02.708108Z"
+            ]
+        },
         {
             "id": "4beba9b243fe616fcb8e7be8d963bbc1",
             "source": "supercluster",
@@ -12,7 +60,7 @@
             "shown": true,
             "type": "launch",
             "target_datetime": "2025-09-03T03:13:00.000Z",
-            "time_remaining": "0d 03h 13m",
+            "time_remaining": "0d 03h 10m",
             "fetched_datetime": "2025-08-31T12:49:36.055584Z",
             "shown_at": [
                 "2025-08-31T12:49:36.661303Z",
@@ -556,7 +604,8 @@
                 "2025-09-02T23:23:43.682989Z",
                 "2025-09-02T23:25:21.029818Z",
                 "2025-09-02T23:56:14.965662Z",
-                "2025-09-02T23:59:24.798583Z"
+                "2025-09-02T23:59:24.798583Z",
+                "2025-09-03T00:02:18.454826Z"
             ]
         },
         {
@@ -12433,123 +12482,6 @@
                 "2025-06-01T02:45:18.220746Z",
                 "2025-06-02T23:25:36.161773Z",
                 "2025-06-04T06:11:56.992932Z"
-            ]
-        },
-        {
-            "id": "4ed1a4998dba43e5157661acdf47c5a8",
-            "source": "spacenews",
-            "text": "Air Force Research Laboratory Awards Moog Contract to Develop New Multimode Propulsion System to Enhance Dynamic Space Operations",
-            "source_link": "https://spacenews.com/air-force-research-laboratory-awards-moog-contract-to-develop-new-multimode-propulsion-system-to-enhance-dynamic-space-operations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-28T12:33:27.962597Z",
-            "shown_at": [
-                "2025-05-28T12:33:28.573321Z",
-                "2025-05-28T16:27:41.607251Z",
-                "2025-06-01T09:25:38.625848Z",
-                "2025-06-02T19:21:48.749322Z"
-            ]
-        },
-        {
-            "id": "3a8cc7519fd954f6172c35d506d96182",
-            "source": "spacenews",
-            "text": "Apex announces Comet satellite bus for constellations",
-            "source_link": "https://spacenews.com/apex-announces-comet-satellite-bus-for-constellations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-28T08:45:40.291260Z",
-            "shown_at": [
-                "2025-05-28T08:45:40.967468Z",
-                "2025-05-29T14:03:49.822699Z",
-                "2025-05-30T19:55:43.532199Z",
-                "2025-06-01T08:27:15.453267Z",
-                "2025-06-03T02:17:35.779476Z"
-            ]
-        },
-        {
-            "id": "f11600bb287bc71564b51960ca0dd748",
-            "source": "nyt",
-            "text": "Manhattanhenge Is Back for 2025: When, Where and How to Watch",
-            "source_link": "https://www.nytimes.com/article/manhattanhenge-2025-time-how-to-watch.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-28T06:21:43.256922Z",
-            "shown_at": [
-                "2025-05-28T06:35:54.106664Z",
-                "2025-05-28T07:39:31.020205Z",
-                "2025-05-28T16:14:03.196956Z",
-                "2025-05-28T20:17:26.239675Z",
-                "2025-05-29T06:47:42.298709Z",
-                "2025-05-29T11:05:35.428804Z",
-                "2025-05-29T14:17:48.793077Z",
-                "2025-05-30T00:53:28.532023Z",
-                "2025-05-30T11:37:50.348661Z",
-                "2025-05-31T08:02:06.473643Z",
-                "2025-06-01T00:35:33.538440Z",
-                "2025-06-01T04:26:18.781895Z",
-                "2025-06-01T09:11:31.598073Z",
-                "2025-06-01T14:55:40.727701Z",
-                "2025-06-01T20:33:32.462753Z",
-                "2025-06-02T01:15:28.955257Z",
-                "2025-06-02T03:13:40.674201Z",
-                "2025-06-02T09:45:37.327781Z",
-                "2025-06-02T10:41:38.310828Z",
-                "2025-06-03T04:32:00.067140Z",
-                "2025-06-03T06:24:01.279119Z",
-                "2025-06-03T08:21:50.797686Z",
-                "2025-06-03T13:13:29.234568Z",
-                "2025-06-03T15:15:50.673901Z",
-                "2025-06-04T01:05:42.460429Z",
-                "2025-06-04T02:03:46.233593Z",
-                "2025-06-04T03:03:41.998553Z"
-            ]
-        },
-        {
-            "id": "312e51691b2ff6cf55413c2aae2c390a",
-            "source": "nyt",
-            "text": "The Space Rock Stars of Brazil",
-            "source_link": "https://www.nytimes.com/2025/09/02/science/brazil-meteorites.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-02T06:27:29.938059Z",
-            "shown_at": [
-                "2025-09-02T06:27:30.611668Z",
-                "2025-09-02T10:47:53.895400Z",
-                "2025-09-02T11:32:11.961308Z",
-                "2025-09-02T16:22:03.648549Z",
-                "2025-09-02T21:49:31.722094Z",
-                "2025-09-02T22:42:02.708108Z"
-            ]
-        },
-        {
-            "id": "7ed849107132993e3d3deedb36e4f87d",
-            "source": "breaking_defense",
-            "text": "Trump expected to move SPACECOM HQ from Colorado to Alabama",
-            "source_link": "https://breakingdefense.com/2025/09/trump-expected-to-move-spacecom-hq-from-colorado-to-alabama/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-02T15:41:32.403862Z",
-            "shown_at": [
-                "2025-09-02T15:41:38.050460Z",
-                "2025-09-02T16:42:24.889738Z",
-                "2025-09-02T17:43:14.908913Z",
-                "2025-09-02T18:44:14.760199Z",
-                "2025-09-02T21:21:55.017773Z",
-                "2025-09-02T22:07:43.374103Z",
-                "2025-09-02T22:56:10.501801Z",
-                "2025-09-02T23:42:04.554941Z"
-            ]
-        },
-        {
-            "id": "2c6b98d667e05414535b68f1bf5ac76f",
-            "source": "breaking_defense",
-            "text": "Trump moves SPACECOM HQ from Colorado to Alabama",
-            "source_link": "https://breakingdefense.com/2025/09/trump-expected-to-move-spacecom-hq-from-colorado-to-alabama/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-02T19:49:55.126986Z",
-            "shown_at": [
-                "2025-09-02T19:49:55.828660Z"
             ]
         }
     ]
