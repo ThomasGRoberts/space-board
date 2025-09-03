@@ -5,6 +5,7 @@
 | breaking_defense | 2 | 2 | 28 | 60 |
 | nyt | 1 | 2 | 29 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -6472,3 +6473,4 @@
 - **Sep 03, 10:55 AM** - Trump Relocates Space Command to Alabama, Reviving a First-Term Plan (nyt)
 - **Sep 03, 11:32 AM** - Trump expected to move SPACECOM HQ from Colorado to Alabama (breaking_defense)
 - **Sep 03, 11:47 AM** - The Space Rock Stars of Brazil (nyt)
+- **Sep 03, 12:02 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
