@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 2 | 28 | 59 |
 | nyt | 1 | 2 | 29 | 60 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 55 | 55 |
+| supercluster | 1 | 1 | 56 | 56 |
 
 # Shown Order
 
@@ -6544,3 +6544,4 @@
 - **Sep 03, 06:29 PM** - The Space Rock Stars of Brazil (nyt)
 - **Sep 03, 06:45 PM** - China Will Launch the Long March 3C Rocket (supercluster)
 - **Sep 03, 06:47 PM** - China Will Launch the Long March 3C Rocket (supercluster)
+- **Sep 03, 06:50 PM** - China Will Launch the Long March 3C Rocket (supercluster)
