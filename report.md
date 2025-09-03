@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 30 | 62 |
 | nyt | 1 | 1 | 31 | 63 |
-| supercluster | 0 | 0 | 207 | 431 |
+| supercluster | 0 | 0 | 208 | 432 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -7020,3 +7020,4 @@
 - **Sep 03, 02:27 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 03, 02:30 AM** - The Space Rock Stars of Brazil (nyt)
 - **Sep 03, 02:43 AM** - Stormy weather: DoD faces dearth of data from planned NOAA cuts (breaking_defense)
+- **Sep 03, 02:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
