@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 109 | 109 |
 | nyt | 1 | 2 | 30 | 60 |
-| breaking_defense | 0 | 2 | 29 | 59 |
+| breaking_defense | 0 | 2 | 30 | 60 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -6605,3 +6605,4 @@
 - **Sep 04, 12:05 AM** - China Will Launch the Long March 3C Rocket (supercluster)
 - **Sep 04, 12:07 AM** - China Will Launch the Long March 3C Rocket (supercluster)
 - **Sep 04, 12:09 AM** - China Will Launch the Long March 3C Rocket (supercluster)
+- **Sep 04, 12:12 AM** - Stormy weather: DoD faces dearth of data from planned NOAA cuts (breaking_defense)
