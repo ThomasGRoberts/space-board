@@ -2,14 +2,13 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 2 | 29 | 59 |
+| supercluster | 1 | 1 | 105 | 105 |
 | nyt | 1 | 2 | 30 | 61 |
+| breaking_defense | 0 | 2 | 29 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 104 | 104 |
 
 # Shown Order
 
-- **May 28, 01:01 PM** - Overcoming conservatism in the autonomous space revolution (spacenews)
 - **May 28, 03:12 PM** - China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
 - **May 28, 05:11 PM** - China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
 - **May 28, 07:05 PM** - China launches Tianwen-2 mission to sample near Earth asteroid (spacenews)
@@ -28,7 +27,6 @@
 - **May 29, 09:55 AM** - China launches Tianwen-2 mission to sample near Earth asteroid (spacenews)
 - **May 29, 10:09 AM** - China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
 - **May 29, 10:23 AM** - Chinese launch startup conducts vertical takeoff and splashdown test (spacenews)
-- **May 29, 11:19 AM** - Overcoming conservatism in the autonomous space revolution (spacenews)
 - **May 29, 01:02 PM** - Maxar Intelligence taps tech veteran to lead commercial business (spacenews)
 - **May 29, 04:53 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **May 29, 05:07 PM** - Chinese launch startup conducts vertical takeoff and splashdown test (spacenews)
@@ -77,7 +75,6 @@
 - **May 30, 10:19 PM** - China Launches Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
 - **May 30, 11:01 PM** - NASA budget would cancel dozens of science missions, lay off thousands (spacenews)
 - **May 30, 11:15 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
-- **May 30, 11:59 PM** - Overcoming conservatism in the autonomous space revolution (spacenews)
 - **May 31, 12:15 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **May 31, 12:29 AM** - China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
 - **May 31, 12:57 AM** - With strategic acquisitions, Rocket Lab pursues prime defense contractor status (spacenews)
@@ -104,7 +101,6 @@
 - **May 31, 09:57 AM** - Scientists Say They’ve Found a Dwarf Planet Very Far From the Sun (nyt)
 - **May 31, 10:25 AM** - Skepticism lingers about cost and business case for IRIS² (spacenews)
 - **May 31, 11:35 AM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
-- **May 31, 12:17 PM** - Overcoming conservatism in the autonomous space revolution (spacenews)
 - **May 31, 12:33 PM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
 - **May 31, 01:17 PM** - Chinese launch startup conducts vertical takeoff and splashdown test (spacenews)
 - **May 31, 03:15 PM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
@@ -126,7 +122,6 @@
 - **Jun 01, 12:49 AM** - China launches Tianwen-2 mission to sample near Earth asteroid (spacenews)
 - **Jun 01, 01:07 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **Jun 01, 01:35 AM** - China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
-- **Jun 01, 02:45 AM** - Overcoming conservatism in the autonomous space revolution (spacenews)
 - **Jun 01, 02:59 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **Jun 01, 03:27 AM** - China Launches Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
 - **Jun 01, 03:55 AM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
@@ -213,7 +208,6 @@
 - **Jun 02, 10:25 PM** - Golden Dome: It’s all about the data (spacenews)
 - **Jun 02, 10:39 PM** - Northern Lights May Be Visible as Far South as Alabama (nyt)
 - **Jun 02, 11:11 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
-- **Jun 02, 11:25 PM** - Overcoming conservatism in the autonomous space revolution (spacenews)
 - **Jun 02, 11:53 PM** - Northern Lights May Be Visible as Far South as Alabama (nyt)
 - **Jun 03, 01:07 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **Jun 03, 01:21 AM** - SpaceX launches latest GPS III satellite for U.S. military (spacenews)
@@ -284,7 +278,6 @@
 - **Jun 04, 05:15 AM** - When Earth fails, space responds  (spacenews)
 - **Jun 04, 05:43 AM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
 - **Jun 04, 05:57 AM** - Trump to Withdraw Musk’s Ally as Nominee for Top NASA Job (nyt)
-- **Jun 04, 06:11 AM** - Overcoming conservatism in the autonomous space revolution (spacenews)
 - **Jun 04, 06:41 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **Jun 04, 06:55 AM** - China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid (nyt)
 - **Jun 04, 07:09 AM** - Astroscale clears critical design review for OneWeb satellite removal demo (spacenews)
@@ -6607,3 +6600,4 @@
 - **Sep 03, 11:43 PM** - The Space Rock Stars of Brazil (nyt)
 - **Sep 03, 11:57 PM** - China Will Launch the Long March 3C Rocket (supercluster)
 - **Sep 03, 11:59 PM** - China Will Launch the Long March 3C Rocket (supercluster)
+- **Sep 04, 12:02 AM** - China Will Launch the Long March 3C Rocket (supercluster)
