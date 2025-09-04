@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 193 | 193 |
-| nyt | 0 | 1 | 30 | 59 |
+| nyt | 0 | 1 | 31 | 60 |
 | breaking_defense | 0 | 2 | 31 | 60 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -6714,3 +6714,4 @@
 - **Sep 04, 09:13 AM** - China Will Launch the Long March 3C Rocket (supercluster)
 - **Sep 04, 09:15 AM** - China Will Launch the Long March 3C Rocket (supercluster)
 - **Sep 04, 09:17 AM** - Trump moves SPACECOM HQ from Colorado to Alabama (breaking_defense)
+- **Sep 04, 09:32 AM** - The Space Rock Stars of Brazil (nyt)
