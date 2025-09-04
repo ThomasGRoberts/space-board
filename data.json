@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-04T00:02:05.642448+00:00",
-    "trigger_count": 6,
-    "current_item_id": "312e51691b2ff6cf55413c2aae2c390a",
+    "trigger_count": 0,
+    "current_item_id": "e48dec2cfc74b160fefd45a971afc3bd",
     "data": [
         {
             "id": "a599805d20d36df6d8b29537042946c7",
@@ -12345,6 +12345,18 @@
                 "2025-06-04T06:55:52.155286Z",
                 "2025-06-04T07:51:39.966745Z",
                 "2025-06-04T10:55:59.208856Z"
+            ]
+        },
+        {
+            "id": "e48dec2cfc74b160fefd45a971afc3bd",
+            "source": "nyt",
+            "text": "Quakes on Mars Reveal New Features of the Planet’s Interior",
+            "source_link": "https://www.nytimes.com/2025/09/04/science/astronomy-geology-mars-quakes.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-04T20:58:08.043349Z",
+            "shown_at": [
+                "2025-09-04T20:58:09.619371Z"
             ]
         }
     ]
