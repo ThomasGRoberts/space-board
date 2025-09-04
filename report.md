@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 0 | 1 | 224 | 235 |
+| supercluster | 0 | 1 | 225 | 236 |
 | nyt | 0 | 1 | 32 | 60 |
 | breaking_defense | 0 | 2 | 32 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
@@ -6769,3 +6769,4 @@
 - **Sep 04, 01:42 PM** - China Will Launch the Long March 3C Rocket (supercluster)
 - **Sep 04, 01:45 PM** - Stormy weather: DoD faces dearth of data from planned NOAA cuts (breaking_defense)
 - **Sep 04, 01:59 PM** - Trump Relocates Space Command to Alabama, Reviving a First-Term Plan (nyt)
+- **Sep 04, 02:18 PM** - China Will Launch the Long March 3C Rocket (supercluster)
