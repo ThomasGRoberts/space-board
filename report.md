@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 0 | 1 | 222 | 251 |
+| supercluster | 0 | 1 | 222 | 252 |
 | nyt | 0 | 1 | 32 | 60 |
 | breaking_defense | 0 | 1 | 32 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
@@ -6789,3 +6789,4 @@
 - **Sep 04, 03:35 PM** - Trump Relocates Space Command to Alabama, Reviving a First-Term Plan (nyt)
 - **Sep 04, 03:49 PM** - China Will Launch the Long March 3C Rocket (supercluster)
 - **Sep 04, 03:51 PM** - China Will Launch the Long March 3C Rocket (supercluster)
+- **Sep 04, 03:53 PM** - China Will Launch the Long March 3C Rocket (supercluster)
