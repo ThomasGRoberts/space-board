@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 30 | 62 |
-| breaking_defense | 0 | 0 | 28 | 60 |
+| breaking_defense | 0 | 0 | 29 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 4 | 4 |
 
@@ -6571,3 +6571,4 @@
 - **Sep 05, 01:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 05, 01:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 05, 01:41 PM** - Quakes on Mars Reveal New Features of the Planet’s Interior (nyt)
+- **Sep 05, 01:55 PM** - Trump expected to move SPACECOM HQ from Colorado to Alabama (breaking_defense)
