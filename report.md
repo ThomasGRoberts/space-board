@@ -6544,4 +6544,4 @@
 - **Sep 05, 01:49 AM** - Trump expected to move SPACECOM HQ from Colorado to Alabama (breaking_defense)
 - **Sep 05, 02:03 AM** - Quakes on Mars Reveal New Features of the Planet’s Interior (nyt)
 - **Sep 05, 02:32 AM** - Trump expected to move SPACECOM HQ from Colorado to Alabama (breaking_defense)
-- **Sep 05, 02:54 AM** - China Will Launch the Long March 3C Rocket (supercluster)
+- **Sep 05, 02:55 AM** - China Will Launch the Long March 3C Rocket (supercluster)
