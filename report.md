@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 3 | 29 | 62 |
-| breaking_defense | 0 | 0 | 29 | 61 |
+| breaking_defense | 0 | 0 | 29 | 60 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 82 | 82 |
+| supercluster | 1 | 1 | 83 | 83 |
 
 # Shown Order
 
@@ -6673,3 +6673,4 @@
 - **Sep 05, 10:15 PM** - Trump moves SPACECOM HQ from Colorado to Alabama (breaking_defense)
 - **Sep 05, 10:29 PM** - Where and When to See the Blood Moon and Total Lunar Eclipse (nyt)
 - **Sep 05, 10:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 05, 10:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
