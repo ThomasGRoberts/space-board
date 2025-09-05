@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 31 | 62 |
 | breaking_defense | 0 | 0 | 31 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 36 | 36 |
+| supercluster | 1 | 1 | 37 | 37 |
 
 # Shown Order
 
@@ -6590,3 +6590,4 @@
 - **Sep 05, 06:55 AM** - Stormy weather: DoD faces dearth of data from planned NOAA cuts (breaking_defense)
 - **Sep 05, 07:12 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 05, 07:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 05, 07:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
