@@ -5,7 +5,7 @@
 | nyt | 3 | 3 | 30 | 62 |
 | breaking_defense | 0 | 0 | 28 | 60 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 48 | 48 |
+| supercluster | 1 | 1 | 49 | 49 |
 
 # Shown Order
 
@@ -6629,3 +6629,4 @@
 - **Sep 05, 06:49 PM** - Trump Relocates Space Command to Alabama, Reviving a First-Term Plan (nyt)
 - **Sep 05, 07:03 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 05, 07:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 05, 07:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
