@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 32 | 63 |
-| breaking_defense | 0 | 0 | 31 | 62 |
+| breaking_defense | 0 | 0 | 32 | 63 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 76 | 76 |
 
@@ -6641,3 +6641,4 @@
 - **Sep 05, 11:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 05, 11:09 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 05, 11:12 AM** - Quakes on Mars Reveal New Features of the Planet’s Interior (nyt)
+- **Sep 05, 11:27 AM** - Stormy weather: DoD faces dearth of data from planned NOAA cuts (breaking_defense)
