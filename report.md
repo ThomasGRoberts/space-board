@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 32 | 62 |
+| nyt | 1 | 1 | 31 | 62 |
 | breaking_defense | 0 | 0 | 31 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 56 | 56 |
+| supercluster | 2 | 2 | 57 | 57 |
 
 # Shown Order
 
@@ -6616,3 +6616,4 @@
 - **Sep 05, 09:00 AM** - Trump Relocates Space Command to Alabama, Reviving a First-Term Plan (nyt)
 - **Sep 05, 09:17 AM** - Trump moves SPACECOM HQ from Colorado to Alabama (breaking_defense)
 - **Sep 05, 09:32 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
+- **Sep 05, 09:33 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
