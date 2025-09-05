@@ -1,9 +1,21 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-09-04T00:02:05.642448+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2025-09-05T00:02:09.263046+00:00",
+    "trigger_count": 4,
     "current_item_id": "ea28c9610b5defa3c7c8702806247e18",
     "data": [
+        {
+            "id": "e48dec2cfc74b160fefd45a971afc3bd",
+            "source": "nyt",
+            "text": "Quakes on Mars Reveal New Features of the Planet’s Interior",
+            "source_link": "https://www.nytimes.com/2025/09/04/science/astronomy-geology-mars-quakes.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-04T20:58:08.043349Z",
+            "shown_at": [
+                "2025-09-04T20:58:09.619371Z"
+            ]
+        },
         {
             "id": "a599805d20d36df6d8b29537042946c7",
             "source": "supercluster",
@@ -12346,53 +12358,6 @@
                 "2025-06-01T00:49:26.659339Z",
                 "2025-06-01T14:13:31.608105Z",
                 "2025-06-02T20:19:51.140492Z"
-            ]
-        },
-        {
-            "id": "2c5b6c1eef6ff8269c9f6d8620d860fb",
-            "source": "nyt",
-            "text": "China to Launch Tianwen-2 Mission to Capture Pieces of Near-Earth Asteroid",
-            "source_link": "https://www.nytimes.com/2025/05/28/science/china-asteroid-tianwen-2.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-28T15:12:15.935313Z",
-            "shown_at": [
-                "2025-05-28T15:12:16.902451Z",
-                "2025-05-28T17:11:46.962605Z",
-                "2025-05-28T21:15:35.948992Z",
-                "2025-05-28T22:11:37.202561Z",
-                "2025-05-28T23:07:30.310736Z",
-                "2025-05-29T10:09:41.616709Z",
-                "2025-05-29T21:43:38.385280Z",
-                "2025-05-30T04:39:33.569308Z",
-                "2025-05-30T15:33:42.009238Z",
-                "2025-05-31T00:29:31.863594Z",
-                "2025-05-31T01:27:58.574860Z",
-                "2025-05-31T02:23:47.196066Z",
-                "2025-06-01T01:35:53.844535Z",
-                "2025-06-01T05:23:24.280803Z",
-                "2025-06-01T18:41:55.600338Z",
-                "2025-06-02T00:19:28.970956Z",
-                "2025-06-02T07:49:31.176406Z",
-                "2025-06-02T13:19:45.012738Z",
-                "2025-06-02T20:37:55.104972Z",
-                "2025-06-03T11:19:46.655523Z",
-                "2025-06-04T03:59:37.283669Z",
-                "2025-06-04T06:55:52.155286Z",
-                "2025-06-04T07:51:39.966745Z",
-                "2025-06-04T10:55:59.208856Z"
-            ]
-        },
-        {
-            "id": "e48dec2cfc74b160fefd45a971afc3bd",
-            "source": "nyt",
-            "text": "Quakes on Mars Reveal New Features of the Planet’s Interior",
-            "source_link": "https://www.nytimes.com/2025/09/04/science/astronomy-geology-mars-quakes.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-04T20:58:08.043349Z",
-            "shown_at": [
-                "2025-09-04T20:58:09.619371Z"
             ]
         }
     ]
