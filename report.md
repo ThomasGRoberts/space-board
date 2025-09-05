@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 30 | 62 |
-| breaking_defense | 0 | 0 | 29 | 60 |
+| breaking_defense | 0 | 0 | 28 | 60 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 39 | 39 |
+| supercluster | 1 | 1 | 40 | 40 |
 
 # Shown Order
 
@@ -6618,3 +6618,4 @@
 - **Sep 05, 05:29 PM** - The Trump Administration Wants to Switch Off Climate Satellites (nyt)
 - **Sep 05, 05:46 PM** - Trump expected to move SPACECOM HQ from Colorado to Alabama (breaking_defense)
 - **Sep 05, 06:01 PM** - Where and When to See the Blood Moon and Total Lunar Eclipse (nyt)
+- **Sep 05, 06:18 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
