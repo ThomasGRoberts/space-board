@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 31 | 62 |
+| nyt | 1 | 1 | 32 | 63 |
 | breaking_defense | 0 | 0 | 31 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 41 | 41 |
@@ -6595,3 +6595,4 @@
 - **Sep 05, 07:22 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 05, 07:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 05, 07:26 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 05, 07:28 AM** - The Space Rock Stars of Brazil (nyt)
