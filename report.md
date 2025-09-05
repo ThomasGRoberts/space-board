@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 29 | 61 |
 | breaking_defense | 0 | 0 | 29 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -6566,3 +6566,4 @@
 - **Sep 05, 10:44 AM** - Trump expected to move SPACECOM HQ from Colorado to Alabama (breaking_defense)
 - **Sep 05, 11:12 AM** - Quakes on Mars Reveal New Features of the Planet’s Interior (nyt)
 - **Sep 05, 11:27 AM** - Stormy weather: DoD faces dearth of data from planned NOAA cuts (breaking_defense)
+- **Sep 05, 01:32 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
