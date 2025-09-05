@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 32 | 62 |
 | breaking_defense | 0 | 0 | 31 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 62 | 62 |
+| supercluster | 2 | 2 | 63 | 63 |
 
 # Shown Order
 
@@ -6624,3 +6624,4 @@
 - **Sep 05, 09:43 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Sep 05, 09:45 AM** - The Space Rock Stars of Brazil (nyt)
 - **Sep 05, 09:59 AM** - Stormy weather: DoD faces dearth of data from planned NOAA cuts (breaking_defense)
+- **Sep 05, 10:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
