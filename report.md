@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 32 | 62 |
 | breaking_defense | 0 | 0 | 31 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 48 | 48 |
+| supercluster | 2 | 2 | 49 | 49 |
 
 # Shown Order
 
@@ -6606,3 +6606,4 @@
 - **Sep 05, 08:12 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 05, 08:13 AM** - Trump Relocates Space Command to Alabama, Reviving a First-Term Plan (nyt)
 - **Sep 05, 08:29 AM** - Stormy weather: DoD faces dearth of data from planned NOAA cuts (breaking_defense)
+- **Sep 05, 08:45 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
