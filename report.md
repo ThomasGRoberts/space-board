@@ -5,7 +5,6 @@
 | nyt | 1 | 1 | 32 | 63 |
 | breaking_defense | 0 | 0 | 31 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 14 | 14 |
 
 # Shown Order
 
@@ -6558,22 +6557,8 @@
 - **Sep 05, 07:44 AM** - Stormy weather: DoD faces dearth of data from planned NOAA cuts (breaking_defense)
 - **Sep 05, 08:13 AM** - Trump Relocates Space Command to Alabama, Reviving a First-Term Plan (nyt)
 - **Sep 05, 08:29 AM** - Stormy weather: DoD faces dearth of data from planned NOAA cuts (breaking_defense)
-- **Sep 05, 08:45 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
-- **Sep 05, 08:47 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
-- **Sep 05, 08:49 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
-- **Sep 05, 08:51 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
-- **Sep 05, 08:53 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
-- **Sep 05, 08:55 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
-- **Sep 05, 08:57 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Sep 05, 09:00 AM** - Trump Relocates Space Command to Alabama, Reviving a First-Term Plan (nyt)
 - **Sep 05, 09:17 AM** - Trump moves SPACECOM HQ from Colorado to Alabama (breaking_defense)
-- **Sep 05, 09:32 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
-- **Sep 05, 09:33 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
-- **Sep 05, 09:35 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
-- **Sep 05, 09:37 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
-- **Sep 05, 09:39 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
-- **Sep 05, 09:42 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
-- **Sep 05, 09:43 AM** - Galactic Energy Will Launch the Ceres-1 Rocket (supercluster)
 - **Sep 05, 09:45 AM** - The Space Rock Stars of Brazil (nyt)
 - **Sep 05, 09:59 AM** - Stormy weather: DoD faces dearth of data from planned NOAA cuts (breaking_defense)
 - **Sep 05, 10:30 AM** - Quakes on Mars Reveal New Features of the Planet’s Interior (nyt)
