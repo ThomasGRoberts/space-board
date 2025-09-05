@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 29 | 61 |
-| breaking_defense | 0 | 0 | 29 | 61 |
+| nyt | 2 | 2 | 30 | 62 |
+| breaking_defense | 0 | 0 | 29 | 60 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 32 | 32 |
 
@@ -6606,3 +6606,4 @@
 - **Sep 05, 04:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 05, 04:42 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 05, 04:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 05, 04:45 PM** - The Trump Administration Wants to Switch Off Climate Satellites (nyt)
