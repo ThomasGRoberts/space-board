@@ -5,7 +5,7 @@
 | nyt | 1 | 2 | 32 | 63 |
 | breaking_defense | 0 | 0 | 31 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 20 | 20 |
+| supercluster | 1 | 1 | 21 | 21 |
 
 # Shown Order
 
@@ -6570,3 +6570,4 @@
 - **Sep 05, 05:12 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 05, 05:14 AM** - The Space Rock Stars of Brazil (nyt)
 - **Sep 05, 05:28 AM** - Stormy weather: DoD faces dearth of data from planned NOAA cuts (breaking_defense)
+- **Sep 05, 05:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
