@@ -5,7 +5,7 @@
 | nyt | 2 | 3 | 29 | 62 |
 | breaking_defense | 0 | 0 | 29 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 81 | 81 |
+| supercluster | 1 | 1 | 82 | 82 |
 
 # Shown Order
 
@@ -6672,3 +6672,4 @@
 - **Sep 05, 10:12 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 05, 10:15 PM** - Trump moves SPACECOM HQ from Colorado to Alabama (breaking_defense)
 - **Sep 05, 10:29 PM** - Where and When to See the Blood Moon and Total Lunar Eclipse (nyt)
+- **Sep 05, 10:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
