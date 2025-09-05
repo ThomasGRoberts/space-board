@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 32 | 62 |
+| nyt | 1 | 1 | 31 | 62 |
 | breaking_defense | 0 | 0 | 31 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 70 | 70 |
+| supercluster | 2 | 2 | 71 | 71 |
 
 # Shown Order
 
@@ -6634,3 +6634,4 @@
 - **Sep 05, 10:30 AM** - Quakes on Mars Reveal New Features of the Planet’s Interior (nyt)
 - **Sep 05, 10:44 AM** - Trump expected to move SPACECOM HQ from Colorado to Alabama (breaking_defense)
 - **Sep 05, 10:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 05, 10:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
