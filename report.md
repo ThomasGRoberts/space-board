@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 33 | 62 |
 | supercluster | 0 | 1 | 224 | 347 |
-| breaking_defense | 0 | 0 | 31 | 61 |
+| breaking_defense | 0 | 0 | 32 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -6888,3 +6888,4 @@
 - **Sep 05, 01:43 AM** - China Will Launch the Long March 3C Rocket (supercluster)
 - **Sep 05, 01:45 AM** - China Will Launch the Long March 3C Rocket (supercluster)
 - **Sep 05, 01:47 AM** - China Will Launch the Long March 3C Rocket (supercluster)
+- **Sep 05, 01:49 AM** - Trump expected to move SPACECOM HQ from Colorado to Alabama (breaking_defense)
