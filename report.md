@@ -5,7 +5,7 @@
 | nyt | 2 | 3 | 29 | 62 |
 | breaking_defense | 0 | 0 | 29 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 89 | 89 |
+| supercluster | 1 | 1 | 90 | 90 |
 
 # Shown Order
 
@@ -6682,3 +6682,4 @@
 - **Sep 05, 10:58 PM** - Trump expected to move SPACECOM HQ from Colorado to Alabama (breaking_defense)
 - **Sep 05, 11:12 PM** - The Space Rock Stars of Brazil (nyt)
 - **Sep 05, 11:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 05, 11:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
