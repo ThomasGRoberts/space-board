@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 31 | 62 |
+| nyt | 1 | 1 | 32 | 63 |
 | breaking_defense | 0 | 0 | 31 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 76 | 76 |
@@ -6640,3 +6640,4 @@
 - **Sep 05, 11:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 05, 11:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 05, 11:09 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 05, 11:12 AM** - Quakes on Mars Reveal New Features of the Planet’s Interior (nyt)
