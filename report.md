@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 32 | 62 |
 | breaking_defense | 0 | 0 | 31 | 62 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 69 | 69 |
+| supercluster | 2 | 2 | 70 | 70 |
 
 # Shown Order
 
@@ -6633,3 +6633,4 @@
 - **Sep 05, 10:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 05, 10:30 AM** - Quakes on Mars Reveal New Features of the Planet’s Interior (nyt)
 - **Sep 05, 10:44 AM** - Trump expected to move SPACECOM HQ from Colorado to Alabama (breaking_defense)
+- **Sep 05, 10:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
