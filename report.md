@@ -5,7 +5,6 @@
 | nyt | 1 | 3 | 33 | 62 |
 | breaking_defense | 0 | 0 | 32 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 14 | 14 |
 
 # Shown Order
 
@@ -6611,21 +6610,7 @@
 - **Sep 06, 02:02 PM** - Quakes on Mars Reveal New Features of the Planet’s Interior (nyt)
 - **Sep 06, 02:33 PM** - Trump moves SPACECOM HQ from Colorado to Alabama (breaking_defense)
 - **Sep 06, 02:47 PM** - Trump Relocates Space Command to Alabama, Reviving a First-Term Plan (nyt)
-- **Sep 06, 03:17 PM** - China Will Launch the Long March 6A Rocket (supercluster)
-- **Sep 06, 03:19 PM** - China Will Launch the Long March 6A Rocket (supercluster)
-- **Sep 06, 03:21 PM** - China Will Launch the Long March 6A Rocket (supercluster)
-- **Sep 06, 03:23 PM** - China Will Launch the Long March 6A Rocket (supercluster)
-- **Sep 06, 03:25 PM** - China Will Launch the Long March 6A Rocket (supercluster)
-- **Sep 06, 03:27 PM** - China Will Launch the Long March 6A Rocket (supercluster)
-- **Sep 06, 03:29 PM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Sep 06, 03:32 PM** - Trump moves SPACECOM HQ from Colorado to Alabama (breaking_defense)
 - **Sep 06, 03:47 PM** - Where and When to See the Blood Moon and Total Lunar Eclipse (nyt)
-- **Sep 06, 04:02 PM** - China Will Launch the Long March 6A Rocket (supercluster)
-- **Sep 06, 04:05 PM** - China Will Launch the Long March 6A Rocket (supercluster)
-- **Sep 06, 04:07 PM** - China Will Launch the Long March 6A Rocket (supercluster)
-- **Sep 06, 04:09 PM** - China Will Launch the Long March 6A Rocket (supercluster)
-- **Sep 06, 04:11 PM** - China Will Launch the Long March 6A Rocket (supercluster)
-- **Sep 06, 04:13 PM** - China Will Launch the Long March 6A Rocket (supercluster)
-- **Sep 06, 04:15 PM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Sep 06, 04:17 PM** - Trump expected to move SPACECOM HQ from Colorado to Alabama (breaking_defense)
 - **Sep 06, 04:32 PM** - Quakes on Mars Reveal New Features of the Planet’s Interior (nyt)
