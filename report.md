@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 3 | 32 | 61 |
+| nyt | 1 | 3 | 33 | 62 |
 | breaking_defense | 0 | 0 | 32 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 14 | 14 |
@@ -6628,3 +6628,4 @@
 - **Sep 06, 04:13 PM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Sep 06, 04:15 PM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Sep 06, 04:17 PM** - Trump expected to move SPACECOM HQ from Colorado to Alabama (breaking_defense)
+- **Sep 06, 04:32 PM** - Quakes on Mars Reveal New Features of the Planet’s Interior (nyt)
