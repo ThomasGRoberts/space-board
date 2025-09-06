@@ -5,7 +5,7 @@
 | nyt | 1 | 3 | 31 | 61 |
 | breaking_defense | 0 | 0 | 31 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -6617,3 +6617,4 @@
 - **Sep 06, 04:32 PM** - Quakes on Mars Reveal New Features of the Planet’s Interior (nyt)
 - **Sep 06, 05:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 06, 05:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 06, 05:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
