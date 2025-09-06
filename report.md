@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 3 | 29 | 62 |
 | supercluster | 1 | 1 | 116 | 116 |
-| breaking_defense | 0 | 0 | 29 | 60 |
+| breaking_defense | 0 | 0 | 29 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -6691,3 +6691,4 @@
 - **Sep 06, 01:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 06, 01:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 06, 01:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 06, 01:52 AM** - Trump expected to move SPACECOM HQ from Colorado to Alabama (breaking_defense)
