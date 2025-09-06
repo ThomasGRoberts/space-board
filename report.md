@@ -2,9 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 3 | 33 | 62 |
+| nyt | 1 | 3 | 32 | 62 |
 | breaking_defense | 0 | 0 | 32 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -6614,3 +6615,4 @@
 - **Sep 06, 03:47 PM** - Where and When to See the Blood Moon and Total Lunar Eclipse (nyt)
 - **Sep 06, 04:17 PM** - Trump expected to move SPACECOM HQ from Colorado to Alabama (breaking_defense)
 - **Sep 06, 04:32 PM** - Quakes on Mars Reveal New Features of the Planet’s Interior (nyt)
+- **Sep 06, 04:45 PM** - China Will Launch the Long March 6A Rocket (supercluster)
