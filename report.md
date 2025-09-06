@@ -5,7 +5,7 @@
 | nyt | 1 | 3 | 32 | 62 |
 | breaking_defense | 0 | 0 | 32 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 8 | 8 |
+| supercluster | 1 | 1 | 9 | 9 |
 
 # Shown Order
 
@@ -6621,3 +6621,4 @@
 - **Sep 06, 03:32 PM** - Trump moves SPACECOM HQ from Colorado to Alabama (breaking_defense)
 - **Sep 06, 03:47 PM** - Where and When to See the Blood Moon and Total Lunar Eclipse (nyt)
 - **Sep 06, 04:02 PM** - China Will Launch the Long March 6A Rocket (supercluster)
+- **Sep 06, 04:05 PM** - China Will Launch the Long March 6A Rocket (supercluster)
