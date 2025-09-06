@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 3 | 32 | 62 |
-| supercluster | 1 | 2 | 226 | 244 |
-| breaking_defense | 0 | 0 | 32 | 61 |
+| supercluster | 1 | 2 | 227 | 245 |
+| breaking_defense | 0 | 0 | 32 | 60 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -6855,3 +6855,4 @@
 - **Sep 06, 03:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 06, 03:17 PM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Sep 06, 03:19 PM** - China Will Launch the Long March 6A Rocket (supercluster)
+- **Sep 06, 03:21 PM** - China Will Launch the Long March 6A Rocket (supercluster)
