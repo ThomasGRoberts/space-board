@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 166 | 166 |
-| nyt | 1 | 3 | 29 | 62 |
+| nyt | 2 | 4 | 30 | 63 |
 | breaking_defense | 0 | 0 | 28 | 60 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -6832,3 +6832,4 @@
 - **Sep 07, 01:45 PM** - Trump moves SPACECOM HQ from Colorado to Alabama (breaking_defense)
 - **Sep 07, 01:59 PM** - The Trump Administration Wants to Switch Off Climate Satellites (nyt)
 - **Sep 07, 02:16 PM** - Live Video: Where and When to See the Blood Moon and Total Lunar Eclipse (nyt)
+- **Sep 07, 02:29 PM** - Live Video: How to Watch the Blood Moon and Total Lunar Eclipse (nyt)
