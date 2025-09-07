@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-07T00:02:16.960949+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e02027c76b8ea4703d9c91f0985cd9e2",
+    "trigger_count": 0,
+    "current_item_id": "20ef45c42e4c39bdcd95defd1eb4d9ac",
     "data": [
         {
             "id": "a64e1add1ac5080b8c0db49a0715367c",
@@ -12326,6 +12326,18 @@
                 "2025-05-30T03:30:04.597420Z",
                 "2025-06-02T11:53:43.631250Z",
                 "2025-06-04T09:02:03.334049Z"
+            ]
+        },
+        {
+            "id": "20ef45c42e4c39bdcd95defd1eb4d9ac",
+            "source": "nyt",
+            "text": "Live Video: Where and When to See the Blood Moon and Total Lunar Eclipse",
+            "source_link": "https://www.nytimes.com/2025/09/05/science/blood-moon-total-lunar-eclipse-where-when.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-07T14:16:00.926680Z",
+            "shown_at": [
+                "2025-09-07T14:16:03.147577Z"
             ]
         }
     ]
