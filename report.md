@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 132 | 132 |
+| supercluster | 1 | 1 | 133 | 133 |
 | nyt | 0 | 2 | 28 | 59 |
 | breaking_defense | 0 | 0 | 28 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
@@ -6787,3 +6787,4 @@
 - **Sep 07, 09:40 AM** - Trump moves SPACECOM HQ from Colorado to Alabama (breaking_defense)
 - **Sep 07, 10:03 AM** - The Trump Administration Wants to Switch Off Climate Satellites (nyt)
 - **Sep 07, 10:27 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
+- **Sep 07, 10:29 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
