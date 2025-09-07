@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 0 | 1 | 205 | 215 |
+| supercluster | 0 | 1 | 203 | 215 |
 | nyt | 2 | 2 | 31 | 61 |
-| breaking_defense | 0 | 0 | 29 | 59 |
+| breaking_defense | 0 | 0 | 30 | 60 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -6894,3 +6894,4 @@
 - **Sep 07, 07:49 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Sep 07, 07:52 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Sep 07, 07:56 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
+- **Sep 07, 07:59 PM** - Trump moves SPACECOM HQ from Colorado to Alabama (breaking_defense)
