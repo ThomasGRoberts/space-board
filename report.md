@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 91 | 91 |
+| supercluster | 1 | 1 | 92 | 92 |
 | nyt | 0 | 2 | 30 | 60 |
 | breaking_defense | 0 | 0 | 30 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
@@ -6734,3 +6734,4 @@
 - **Sep 07, 04:32 AM** - The Trump Administration Wants to Switch Off Climate Satellites (nyt)
 - **Sep 07, 04:47 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Sep 07, 04:49 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
+- **Sep 07, 04:51 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
