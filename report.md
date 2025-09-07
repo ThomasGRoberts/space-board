@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 125 | 125 |
+| supercluster | 1 | 1 | 126 | 126 |
 | nyt | 0 | 2 | 29 | 59 |
 | breaking_defense | 0 | 0 | 29 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
@@ -6778,3 +6778,4 @@
 - **Sep 07, 08:21 AM** - Trump moves SPACECOM HQ from Colorado to Alabama (breaking_defense)
 - **Sep 07, 08:42 AM** - The Space Rock Stars of Brazil (nyt)
 - **Sep 07, 09:13 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
+- **Sep 07, 09:16 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
