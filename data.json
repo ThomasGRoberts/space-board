@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-08T00:02:27.390097+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a64e1add1ac5080b8c0db49a0715367c",
+    "trigger_count": 0,
+    "current_item_id": "735b8ab0d7c55552cdfb9754d2ffda31",
     "data": [
         {
             "id": "c8c0e5da27a7a8935a3ab7ed4809d830",
@@ -12426,6 +12426,18 @@
                 "2025-06-02T17:13:18.413818Z",
                 "2025-06-03T13:27:35.315707Z",
                 "2025-06-04T08:05:51.767790Z"
+            ]
+        },
+        {
+            "id": "735b8ab0d7c55552cdfb9754d2ffda31",
+            "source": "nyt",
+            "text": "Video: Sunday and Monday’s Blood Moon and Total Lunar Eclipse",
+            "source_link": "https://www.nytimes.com/2025/09/05/science/blood-moon-total-lunar-eclipse-where-when.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-08T00:11:56.569415Z",
+            "shown_at": [
+                "2025-09-08T00:11:57.686898Z"
             ]
         }
     ]
