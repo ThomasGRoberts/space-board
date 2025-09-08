@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 5 | 30 | 60 |
 | supercluster | 1 | 1 | 159 | 362 |
-| breaking_defense | 1 | 1 | 29 | 58 |
+| breaking_defense | 1 | 1 | 30 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -7114,3 +7114,4 @@
 - **Sep 08, 08:51 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
 - **Sep 08, 08:53 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
 - **Sep 08, 08:55 PM** - Video: Sunday and Monday’s Blood Moon and Total Lunar Eclipse (nyt)
+- **Sep 08, 09:09 PM** - EXCLUSIVE: Space Development Agency Director Derek Tournear steps down (breaking_defense)
