@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 5 | 29 | 60 |
-| supercluster | 1 | 1 | 164 | 362 |
+| nyt | 3 | 5 | 30 | 61 |
+| supercluster | 1 | 1 | 163 | 362 |
 | breaking_defense | 1 | 1 | 30 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -7122,3 +7122,4 @@
 - **Sep 08, 09:32 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Sep 08, 09:35 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Sep 08, 09:37 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
+- **Sep 08, 09:39 PM** - Live Video: How to Watch the Blood Moon and Total Lunar Eclipse (nyt)
