@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 4 | 30 | 59 |
-| supercluster | 1 | 2 | 203 | 376 |
+| nyt | 2 | 4 | 29 | 59 |
+| supercluster | 1 | 2 | 204 | 377 |
 | breaking_defense | 1 | 1 | 30 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -7096,3 +7096,4 @@
 - **Sep 08, 02:43 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Sep 08, 02:45 PM** - Webb Telescope Studies Hopeful Hint of Earthlike Atmosphere on Trappist-1e Planet (nyt)
 - **Sep 08, 02:59 PM** - Trump expected to move SPACECOM HQ from Colorado to Alabama (breaking_defense)
+- **Sep 08, 03:17 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
