@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 5 | 30 | 60 |
 | supercluster | 1 | 2 | 203 | 397 |
-| breaking_defense | 1 | 1 | 29 | 58 |
+| breaking_defense | 1 | 1 | 30 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -7122,3 +7122,4 @@
 - **Sep 08, 05:15 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
 - **Sep 08, 05:17 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
 - **Sep 08, 05:19 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
+- **Sep 08, 05:21 PM** - Trump moves SPACECOM HQ from Colorado to Alabama (breaking_defense)
