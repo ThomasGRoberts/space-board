@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 31 | 59 |
 | supercluster | 1 | 2 | 203 | 362 |
-| breaking_defense | 1 | 1 | 29 | 57 |
+| breaking_defense | 1 | 1 | 30 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -7077,3 +7077,4 @@
 - **Sep 08, 01:05 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
 - **Sep 08, 01:07 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
 - **Sep 08, 01:09 PM** - Live Video: How to Watch the Blood Moon and Total Lunar Eclipse (nyt)
+- **Sep 08, 01:25 PM** - Trump moves SPACECOM HQ from Colorado to Alabama (breaking_defense)
