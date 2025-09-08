@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 5 | 30 | 61 |
 | supercluster | 1 | 1 | 210 | 413 |
-| breaking_defense | 1 | 1 | 30 | 59 |
+| breaking_defense | 1 | 1 | 31 | 60 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -7149,3 +7149,4 @@
 - **Sep 08, 07:29 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
 - **Sep 08, 07:32 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
 - **Sep 08, 07:33 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
+- **Sep 08, 07:35 PM** - EXCLUSIVE: Space Development Agency Director Derek Tournear steps down (breaking_defense)
