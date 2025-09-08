@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 31 | 59 |
-| supercluster | 1 | 2 | 199 | 356 |
+| supercluster | 1 | 2 | 200 | 357 |
 | breaking_defense | 1 | 1 | 30 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -7070,3 +7070,4 @@
 - **Sep 08, 12:23 PM** - Trump expected to move SPACECOM HQ from Colorado to Alabama (breaking_defense)
 - **Sep 08, 12:39 PM** - EXCLUSIVE: Space Development Agency Director Derek Tournear steps down (breaking_defense)
 - **Sep 08, 12:53 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
+- **Sep 08, 12:55 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
