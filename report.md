@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 3 | 31 | 59 |
+| nyt | 3 | 3 | 32 | 60 |
 | supercluster | 1 | 2 | 203 | 369 |
 | breaking_defense | 1 | 1 | 29 | 57 |
 | spacenews | 0 | 0 | 0 | 0 |
@@ -7085,3 +7085,4 @@
 - **Sep 08, 01:49 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
 - **Sep 08, 01:52 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
 - **Sep 08, 01:55 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
+- **Sep 08, 01:57 PM** - Where and When to See the Blood Moon and Total Lunar Eclipse (nyt)
