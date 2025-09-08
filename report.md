@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 4 | 29 | 59 |
-| supercluster | 1 | 2 | 205 | 378 |
+| supercluster | 1 | 2 | 206 | 379 |
 | breaking_defense | 1 | 1 | 30 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -7098,3 +7098,4 @@
 - **Sep 08, 02:59 PM** - Trump expected to move SPACECOM HQ from Colorado to Alabama (breaking_defense)
 - **Sep 08, 03:17 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
 - **Sep 08, 03:19 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
+- **Sep 08, 03:21 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
