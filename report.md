@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 4 | 30 | 59 |
 | supercluster | 1 | 2 | 203 | 383 |
-| breaking_defense | 1 | 1 | 29 | 57 |
+| breaking_defense | 1 | 1 | 30 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -7104,3 +7104,4 @@
 - **Sep 08, 03:30 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
 - **Sep 08, 03:32 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
 - **Sep 08, 03:35 PM** - The Space Rock Stars of Brazil (nyt)
+- **Sep 08, 03:52 PM** - EXCLUSIVE: Space Development Agency Director Derek Tournear steps down (breaking_defense)
