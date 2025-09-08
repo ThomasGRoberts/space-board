@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 5 | 29 | 60 |
-| supercluster | 1 | 1 | 159 | 356 |
+| supercluster | 1 | 1 | 160 | 356 |
 | breaking_defense | 1 | 1 | 30 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -7133,3 +7133,4 @@
 - **Sep 08, 10:25 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
 - **Sep 08, 10:28 PM** - Live Video: Where and When to See the Blood Moon and Total Lunar Eclipse (nyt)
 - **Sep 08, 10:42 PM** - Trump moves SPACECOM HQ from Colorado to Alabama (breaking_defense)
+- **Sep 08, 11:02 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
