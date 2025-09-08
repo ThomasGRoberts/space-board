@@ -1,9 +1,36 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-09-07T00:02:16.960949+00:00",
-    "trigger_count": 2,
+    "last_run_datetime": "2025-09-08T00:02:27.390097+00:00",
+    "trigger_count": 3,
     "current_item_id": "a64e1add1ac5080b8c0db49a0715367c",
     "data": [
+        {
+            "id": "c8c0e5da27a7a8935a3ab7ed4809d830",
+            "source": "nyt",
+            "text": "Live Video: How to Watch the Blood Moon and Total Lunar Eclipse",
+            "source_link": "https://www.nytimes.com/2025/09/05/science/blood-moon-total-lunar-eclipse-where-when.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-07T14:29:40.206142Z",
+            "shown_at": [
+                "2025-09-07T14:29:40.938618Z"
+            ]
+        },
+        {
+            "id": "20ef45c42e4c39bdcd95defd1eb4d9ac",
+            "source": "nyt",
+            "text": "Live Video: Where and When to See the Blood Moon and Total Lunar Eclipse",
+            "source_link": "https://www.nytimes.com/2025/09/05/science/blood-moon-total-lunar-eclipse-where-when.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-07T14:16:00.926680Z",
+            "shown_at": [
+                "2025-09-07T14:16:03.147577Z",
+                "2025-09-07T18:23:14.912294Z",
+                "2025-09-07T19:19:51.865405Z",
+                "2025-09-07T20:17:44.967922Z"
+            ]
+        },
         {
             "id": "a64e1add1ac5080b8c0db49a0715367c",
             "source": "supercluster",
@@ -12,7 +39,7 @@
             "shown": true,
             "type": "launch",
             "target_datetime": "2025-09-10T14:12:00.000Z",
-            "time_remaining": "2d 14h 12m",
+            "time_remaining": "2d 14h 09m",
             "fetched_datetime": "2025-09-06T19:07:39.272610Z",
             "shown_at": [
                 "2025-09-06T19:07:39.818200Z",
@@ -260,7 +287,8 @@
                 "2025-09-07T23:23:45.100396Z",
                 "2025-09-07T23:56:02.457155Z",
                 "2025-09-07T23:57:31.563621Z",
-                "2025-09-07T23:59:40.007396Z"
+                "2025-09-07T23:59:40.007396Z",
+                "2025-09-08T00:02:29.024250Z"
             ]
         },
         {
@@ -12395,63 +12423,6 @@
                 "2025-06-02T17:13:18.413818Z",
                 "2025-06-03T13:27:35.315707Z",
                 "2025-06-04T08:05:51.767790Z"
-            ]
-        },
-        {
-            "id": "93b0e8648f0264dd6dd6c1236114dcba",
-            "source": "spacenews",
-            "text": "SpaceX to launch another GPS III satellite in record turnaround ",
-            "source_link": "https://spacenews.com/spacex-to-launch-another-gps-iii-satellite-in-record-turnaround/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-28T23:35:28.282017Z",
-            "shown_at": [
-                "2025-05-28T23:35:28.793166Z",
-                "2025-05-31T19:33:41.728615Z",
-                "2025-06-02T16:17:10.622003Z",
-                "2025-06-03T04:17:31.885834Z"
-            ]
-        },
-        {
-            "id": "87e47fa4e83de8d4bddc84537b49b637",
-            "source": "spacenews",
-            "text": "Frontgrade Technologies and VORAGO Announce Strategic Collaboration to Advance Space Computing Solutions for Autonomous Applications",
-            "source_link": "https://spacenews.com/frontgrade-technologies-and-vorago-announce-strategic-collaboration-to-advance-space-computing-solutions-for-autonomous-applications/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-28T23:21:40.358214Z",
-            "shown_at": [
-                "2025-05-28T23:21:40.988256Z",
-                "2025-05-30T03:30:04.597420Z",
-                "2025-06-02T11:53:43.631250Z",
-                "2025-06-04T09:02:03.334049Z"
-            ]
-        },
-        {
-            "id": "20ef45c42e4c39bdcd95defd1eb4d9ac",
-            "source": "nyt",
-            "text": "Live Video: Where and When to See the Blood Moon and Total Lunar Eclipse",
-            "source_link": "https://www.nytimes.com/2025/09/05/science/blood-moon-total-lunar-eclipse-where-when.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-07T14:16:00.926680Z",
-            "shown_at": [
-                "2025-09-07T14:16:03.147577Z",
-                "2025-09-07T18:23:14.912294Z",
-                "2025-09-07T19:19:51.865405Z",
-                "2025-09-07T20:17:44.967922Z"
-            ]
-        },
-        {
-            "id": "c8c0e5da27a7a8935a3ab7ed4809d830",
-            "source": "nyt",
-            "text": "Live Video: How to Watch the Blood Moon and Total Lunar Eclipse",
-            "source_link": "https://www.nytimes.com/2025/09/05/science/blood-moon-total-lunar-eclipse-where-when.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-07T14:29:40.206142Z",
-            "shown_at": [
-                "2025-09-07T14:29:40.938618Z"
             ]
         }
     ]

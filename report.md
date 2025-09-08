@@ -2,15 +2,13 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 0 | 1 | 199 | 246 |
 | nyt | 2 | 2 | 31 | 60 |
+| supercluster | 0 | 1 | 200 | 247 |
 | breaking_defense | 0 | 0 | 28 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
 
-- **May 28, 11:21 PM** - Frontgrade Technologies and VORAGO Announce Strategic Collaboration to Advance Space Computing Solutions for Autonomous Applications (spacenews)
-- **May 28, 11:35 PM** - SpaceX to launch another GPS III satellite in record turnaround  (spacenews)
 - **May 29, 12:25 AM** - Space Force orders two more GPS IIIF satellites for $509.7 million (spacenews)
 - **May 29, 07:49 AM** - Space One and Space BD to launch satellite for Japanese military (spacenews)
 - **May 29, 08:03 AM** - NASA switches to backup propellant line on Psyche spacecraft (spacenews)
@@ -31,7 +29,6 @@
 - **May 30, 01:51 AM** - Scientists Say They’ve Found a Dwarf Planet Very Far From the Sun (nyt)
 - **May 30, 02:34 AM** - With strategic acquisitions, Rocket Lab pursues prime defense contractor status (spacenews)
 - **May 30, 02:47 AM** - New Likely Dwarf Planet Discovered in Remote Region of Solar System (nyt)
-- **May 30, 03:30 AM** - Frontgrade Technologies and VORAGO Announce Strategic Collaboration to Advance Space Computing Solutions for Autonomous Applications (spacenews)
 - **May 30, 03:43 AM** - New Likely Dwarf Planet Discovered in Remote Region of Solar System (nyt)
 - **May 30, 04:11 AM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **May 30, 08:02 AM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
@@ -86,7 +83,6 @@
 - **May 31, 05:39 PM** - When Earth fails, space responds  (spacenews)
 - **May 31, 06:35 PM** - NASA switches to backup propellant line on Psyche spacecraft (spacenews)
 - **May 31, 07:05 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
-- **May 31, 07:33 PM** - SpaceX to launch another GPS III satellite in record turnaround  (spacenews)
 - **May 31, 08:01 PM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **May 31, 09:25 PM** - Trump to Withdraw Musk’s Ally as Nominee for Top NASA Job (nyt)
 - **May 31, 09:39 PM** - White House to withdraw Isaacman nomination to lead NASA (spacenews)
@@ -142,7 +138,6 @@
 - **Jun 02, 09:31 AM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **Jun 02, 11:23 AM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **Jun 02, 11:37 AM** - Trump to Withdraw Musk’s Ally as Nominee for Top NASA Job (nyt)
-- **Jun 02, 11:53 AM** - Frontgrade Technologies and VORAGO Announce Strategic Collaboration to Advance Space Computing Solutions for Autonomous Applications (spacenews)
 - **Jun 02, 12:21 PM** - SpaceNews Appoints Laurie Diamond as Vice President of Business Development to Accelerate Revenue Growth and Strategic Expansion (spacenews)
 - **Jun 02, 12:37 PM** - SpaceNews Appoints Laurie Diamond as VP of Business Development to Accelerate Revenue Growth and Strategic Expansion (spacenews)
 - **Jun 02, 01:05 PM** - Space assets could be held ransom. Will we have any choice but to pay? (spacenews)
@@ -153,7 +148,6 @@
 - **Jun 02, 03:19 PM** - EYCORE – Emerging Polish Space Defence Company Becomes Key Player in Developing National Earth Observation Constellation (spacenews)
 - **Jun 02, 03:33 PM** - Northern Lights May Be Visible as Far South as Alabama (nyt)
 - **Jun 02, 04:02 PM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
-- **Jun 02, 04:17 PM** - SpaceX to launch another GPS III satellite in record turnaround  (spacenews)
 - **Jun 02, 04:31 PM** - Trump to Withdraw Musk’s Ally as Nominee for Top NASA Job (nyt)
 - **Jun 02, 04:59 PM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
 - **Jun 02, 05:13 PM** - Space Force orders two more GPS IIIF satellites for $509.7 million (spacenews)
@@ -176,7 +170,6 @@
 - **Jun 03, 03:02 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **Jun 03, 03:29 AM** - Trump to Withdraw Musk’s Ally as Nominee for Top NASA Job (nyt)
 - **Jun 03, 04:03 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
-- **Jun 03, 04:17 AM** - SpaceX to launch another GPS III satellite in record turnaround  (spacenews)
 - **Jun 03, 05:55 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **Jun 03, 06:09 AM** - South Korea’s Venus-focused cubesat advances as larger missions face NASA cuts (spacenews)
 - **Jun 03, 06:55 AM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
@@ -243,7 +236,6 @@
 - **Jun 04, 08:05 AM** - Space Force orders two more GPS IIIF satellites for $509.7 million (spacenews)
 - **Jun 04, 08:33 AM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
 - **Jun 04, 08:47 AM** - Trump to Withdraw Musk’s Ally as Nominee for Top NASA Job (nyt)
-- **Jun 04, 09:02 AM** - Frontgrade Technologies and VORAGO Announce Strategic Collaboration to Advance Space Computing Solutions for Autonomous Applications (spacenews)
 - **Jun 04, 09:29 AM** - Northrop Grumman pumps $50M into Firefly for medium launch vehicle (breaking_defense)
 - **Jun 04, 09:43 AM** - Northern Lights May Be Visible as Far South as Alabama (nyt)
 - **Jun 04, 09:57 AM** - Astroscale clears critical design review for OneWeb satellite removal demo (spacenews)
@@ -6935,3 +6927,4 @@
 - **Sep 07, 11:56 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Sep 07, 11:57 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Sep 07, 11:59 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
+- **Sep 08, 12:02 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
