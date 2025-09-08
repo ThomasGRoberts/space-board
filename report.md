@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 5 | 30 | 60 |
-| supercluster | 1 | 2 | 202 | 391 |
+| supercluster | 1 | 2 | 202 | 392 |
 | breaking_defense | 1 | 1 | 30 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -7116,3 +7116,4 @@
 - **Sep 08, 04:37 PM** - EXCLUSIVE: Space Development Agency Director Derek Tournear steps down (breaking_defense)
 - **Sep 08, 04:51 PM** - Video: Sunday and Monday’s Blood Moon and Total Lunar Eclipse (nyt)
 - **Sep 08, 05:07 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
+- **Sep 08, 05:09 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
