@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 5 | 30 | 61 |
-| supercluster | 1 | 1 | 165 | 371 |
+| supercluster | 1 | 1 | 162 | 368 |
 | breaking_defense | 1 | 1 | 31 | 60 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -7108,4 +7108,3 @@
 - **Sep 08, 06:51 PM** - Trump moves SPACECOM HQ from Colorado to Alabama (breaking_defense)
 - **Sep 08, 07:07 PM** - Live Video: Where and When to See the Blood Moon and Total Lunar Eclipse (nyt)
 - **Sep 08, 07:35 PM** - EXCLUSIVE: Space Development Agency Director Derek Tournear steps down (breaking_defense)
-- **Sep 08, 07:49 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
