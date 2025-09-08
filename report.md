@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 30 | 60 |
-| supercluster | 0 | 1 | 196 | 306 |
+| supercluster | 0 | 1 | 197 | 307 |
 | breaking_defense | 0 | 0 | 28 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -7005,3 +7005,4 @@
 - **Sep 08, 06:22 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Sep 08, 06:25 AM** - Quakes on Mars Reveal New Features of the Planet’s Interior (nyt)
 - **Sep 08, 06:43 AM** - Trump moves SPACECOM HQ from Colorado to Alabama (breaking_defense)
+- **Sep 08, 06:58 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
