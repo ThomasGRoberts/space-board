@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 5 | 30 | 60 |
-| supercluster | 1 | 2 | 200 | 385 |
+| supercluster | 1 | 2 | 201 | 386 |
 | breaking_defense | 1 | 1 | 30 | 57 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -7108,3 +7108,4 @@
 - **Sep 08, 04:09 PM** - Tech Companies Show Off for Trump’s ‘Golden Dome’ (nyt)
 - **Sep 08, 04:24 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Sep 08, 04:26 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
+- **Sep 08, 04:27 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
