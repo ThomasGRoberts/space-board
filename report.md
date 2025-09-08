@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 5 | 30 | 61 |
-| supercluster | 1 | 2 | 201 | 399 |
+| supercluster | 1 | 2 | 201 | 400 |
 | breaking_defense | 1 | 1 | 30 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -7126,3 +7126,4 @@
 - **Sep 08, 05:37 PM** - The Space Rock Stars of Brazil (nyt)
 - **Sep 08, 05:52 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Sep 08, 05:55 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
+- **Sep 08, 05:57 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
