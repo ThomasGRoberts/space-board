@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 3 | 30 | 59 |
-| supercluster | 1 | 2 | 203 | 369 |
+| supercluster | 1 | 2 | 204 | 370 |
 | breaking_defense | 1 | 1 | 30 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -7087,3 +7087,4 @@
 - **Sep 08, 01:55 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
 - **Sep 08, 01:57 PM** - Where and When to See the Blood Moon and Total Lunar Eclipse (nyt)
 - **Sep 08, 02:15 PM** - Trump expected to move SPACECOM HQ from Colorado to Alabama (breaking_defense)
+- **Sep 08, 02:29 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
