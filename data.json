@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-08T00:02:27.390097+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a64e1add1ac5080b8c0db49a0715367c",
+    "trigger_count": 0,
+    "current_item_id": "9a654260de2604c0d2f7e1d4eda21bdd",
     "data": [
         {
             "id": "c8c0e5da27a7a8935a3ab7ed4809d830",
@@ -12624,6 +12624,18 @@
                 "2025-09-08T13:49:42.689388Z",
                 "2025-09-08T13:52:13.859373Z",
                 "2025-09-08T13:55:31.905619Z"
+            ]
+        },
+        {
+            "id": "9a654260de2604c0d2f7e1d4eda21bdd",
+            "source": "nyt",
+            "text": "Webb Telescope Studies Hopeful Hint of Earthlike Atmosphere on Trappist-1e Planet",
+            "source_link": "https://www.nytimes.com/2025/09/08/science/trappist-1e-star-planet-nitrogen.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-08T14:45:38.792585Z",
+            "shown_at": [
+                "2025-09-08T14:45:40.184593Z"
             ]
         }
     ]
