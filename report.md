@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 4 | 29 | 59 |
-| supercluster | 1 | 2 | 210 | 383 |
+| nyt | 2 | 4 | 30 | 60 |
+| supercluster | 1 | 2 | 208 | 383 |
 | breaking_defense | 1 | 1 | 30 | 57 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -7103,3 +7103,4 @@
 - **Sep 08, 03:26 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
 - **Sep 08, 03:30 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
 - **Sep 08, 03:32 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
+- **Sep 08, 03:35 PM** - The Space Rock Stars of Brazil (nyt)
