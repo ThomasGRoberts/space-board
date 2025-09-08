@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 5 | 29 | 59 |
-| supercluster | 1 | 1 | 161 | 362 |
+| nyt | 3 | 5 | 30 | 60 |
+| supercluster | 1 | 1 | 160 | 362 |
 | breaking_defense | 1 | 1 | 30 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -7140,3 +7140,4 @@
 - **Sep 08, 11:15 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
 - **Sep 08, 11:17 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
 - **Sep 08, 11:19 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
+- **Sep 08, 11:23 PM** - Trump Relocates Space Command to Alabama, Reviving a First-Term Plan (nyt)
