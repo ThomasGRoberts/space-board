@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-08T00:02:27.390097+00:00",
-    "trigger_count": 6,
-    "current_item_id": "83a5579c1b83b1d79b9bf2ec36ec031c",
+    "trigger_count": 0,
+    "current_item_id": "665942231eb4dbb6bd5ca0efbd84ef54",
     "data": [
         {
             "id": "c8c0e5da27a7a8935a3ab7ed4809d830",
@@ -12646,6 +12646,18 @@
             "fetched_datetime": "2025-09-08T14:45:38.792585Z",
             "shown_at": [
                 "2025-09-08T14:45:40.184593Z"
+            ]
+        },
+        {
+            "id": "665942231eb4dbb6bd5ca0efbd84ef54",
+            "source": "nyt",
+            "text": "Tech Companies Show Off for Trump’s ‘Golden Dome’",
+            "source_link": "https://www.nytimes.com/2025/09/08/technology/space-capsules-ai-lasers-tech-golden-dome.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-08T16:09:54.002802Z",
+            "shown_at": [
+                "2025-09-08T16:09:55.158226Z"
             ]
         }
     ]
