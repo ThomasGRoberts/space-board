@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 3 | 31 | 60 |
-| supercluster | 0 | 1 | 204 | 342 |
+| nyt | 3 | 3 | 31 | 59 |
+| supercluster | 0 | 1 | 205 | 343 |
 | breaking_defense | 0 | 0 | 29 | 57 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -7051,3 +7051,4 @@
 - **Sep 08, 10:37 AM** - Video: Sunday and Monday’s Blood Moon and Total Lunar Eclipse (nyt)
 - **Sep 08, 10:51 AM** - Trump expected to move SPACECOM HQ from Colorado to Alabama (breaking_defense)
 - **Sep 08, 11:08 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
+- **Sep 08, 11:11 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
