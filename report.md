@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 5 | 29 | 60 |
-| supercluster | 1 | 1 | 157 | 359 |
+| supercluster | 1 | 1 | 158 | 360 |
 | breaking_defense | 1 | 1 | 30 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -7108,3 +7108,4 @@
 - **Sep 08, 06:51 PM** - Trump moves SPACECOM HQ from Colorado to Alabama (breaking_defense)
 - **Sep 08, 07:07 PM** - Live Video: Where and When to See the Blood Moon and Total Lunar Eclipse (nyt)
 - **Sep 08, 07:35 PM** - EXCLUSIVE: Space Development Agency Director Derek Tournear steps down (breaking_defense)
+- **Sep 08, 08:45 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
