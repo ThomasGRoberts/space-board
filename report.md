@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 5 | 25 | 57 |
 | breaking_defense | 1 | 1 | 26 | 54 |
-| supercluster | 1 | 1 | 99 | 302 |
+| supercluster | 1 | 1 | 100 | 303 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -7172,3 +7172,4 @@
 - **Sep 09, 09:23 AM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
 - **Sep 09, 09:25 AM** - Trump moves SPACECOM HQ from Colorado to Alabama (breaking_defense)
 - **Sep 09, 09:42 AM** - Tech Companies Show Off for Trump’s ‘Golden Dome’ (nyt)
+- **Sep 09, 09:59 AM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
