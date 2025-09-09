@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 5 | 26 | 56 |
 | breaking_defense | 1 | 1 | 27 | 55 |
-| supercluster | 0 | 0 | 104 | 302 |
+| supercluster | 0 | 0 | 104 | 303 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -7110,3 +7110,4 @@
 - **Sep 09, 03:02 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Sep 09, 03:08 AM** - Where and When to See the Blood Moon and Total Lunar Eclipse (nyt)
 - **Sep 09, 03:31 AM** - Trump moves SPACECOM HQ from Colorado to Alabama (breaking_defense)
+- **Sep 09, 03:52 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
