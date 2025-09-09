@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 5 | 25 | 57 |
+| nyt | 2 | 5 | 25 | 56 |
 | breaking_defense | 0 | 1 | 25 | 54 |
-| supercluster | 1 | 1 | 115 | 304 |
+| supercluster | 1 | 1 | 116 | 305 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -7219,3 +7219,4 @@
 - **Sep 09, 01:42 PM** - Where and When to See the Blood Moon and Total Lunar Eclipse (nyt)
 - **Sep 09, 01:57 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
 - **Sep 09, 01:59 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
+- **Sep 09, 02:02 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
