@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 5 | 29 | 59 |
-| breaking_defense | 1 | 1 | 29 | 57 |
-| supercluster | 1 | 1 | 134 | 336 |
+| breaking_defense | 1 | 1 | 30 | 58 |
+| supercluster | 1 | 1 | 133 | 336 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -7113,3 +7113,4 @@
 - **Sep 09, 12:30 AM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
 - **Sep 09, 12:33 AM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
 - **Sep 09, 12:35 AM** - The Space Rock Stars of Brazil (nyt)
+- **Sep 09, 12:55 AM** - EXCLUSIVE: Space Development Agency Director Derek Tournear steps down (breaking_defense)
