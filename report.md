@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 5 | 26 | 57 |
-| breaking_defense | 1 | 1 | 27 | 55 |
-| supercluster | 0 | 0 | 106 | 304 |
+| breaking_defense | 1 | 1 | 27 | 56 |
+| supercluster | 0 | 0 | 106 | 302 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -7109,3 +7109,4 @@
 - **Sep 09, 12:55 AM** - EXCLUSIVE: Space Development Agency Director Derek Tournear steps down (breaking_defense)
 - **Sep 09, 03:02 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Sep 09, 03:08 AM** - Where and When to See the Blood Moon and Total Lunar Eclipse (nyt)
+- **Sep 09, 03:31 AM** - Trump moves SPACECOM HQ from Colorado to Alabama (breaking_defense)
