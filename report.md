@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 3 | 25 | 55 |
 | breaking_defense | 1 | 2 | 26 | 56 |
-| supercluster | 1 | 1 | 157 | 307 |
+| supercluster | 1 | 1 | 158 | 306 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -7310,3 +7310,4 @@
 - **Sep 09, 10:12 PM** - Quakes on Mars Reveal New Features of the Planet’s Interior (nyt)
 - **Sep 09, 10:30 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
 - **Sep 09, 10:32 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
+- **Sep 09, 10:35 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
