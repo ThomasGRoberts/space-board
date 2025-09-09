@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 5 | 28 | 59 |
-| breaking_defense | 1 | 1 | 29 | 58 |
+| nyt | 2 | 5 | 29 | 60 |
+| breaking_defense | 1 | 1 | 29 | 57 |
 | supercluster | 1 | 1 | 140 | 336 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -7112,3 +7112,4 @@
 - **Sep 09, 12:26 AM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
 - **Sep 09, 12:30 AM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
 - **Sep 09, 12:33 AM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
+- **Sep 09, 12:35 AM** - The Space Rock Stars of Brazil (nyt)
