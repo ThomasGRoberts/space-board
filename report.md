@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 5 | 27 | 57 |
 | breaking_defense | 1 | 1 | 28 | 56 |
-| supercluster | 1 | 1 | 117 | 316 |
+| supercluster | 1 | 1 | 115 | 316 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -7107,4 +7107,4 @@
 - **Sep 08, 11:46 PM** - Trump moves SPACECOM HQ from Colorado to Alabama (breaking_defense)
 - **Sep 09, 12:35 AM** - The Space Rock Stars of Brazil (nyt)
 - **Sep 09, 12:55 AM** - EXCLUSIVE: Space Development Agency Director Derek Tournear steps down (breaking_defense)
-- **Sep 09, 02:20 AM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
+- **Sep 09, 02:24 AM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
