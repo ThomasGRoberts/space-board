@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 5 | 28 | 59 |
+| nyt | 2 | 5 | 28 | 58 |
 | breaking_defense | 1 | 1 | 29 | 57 |
-| supercluster | 1 | 1 | 138 | 336 |
+| supercluster | 1 | 1 | 124 | 323 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -7105,19 +7105,6 @@
 - **Sep 08, 10:42 PM** - Trump moves SPACECOM HQ from Colorado to Alabama (breaking_defense)
 - **Sep 08, 11:23 PM** - Trump Relocates Space Command to Alabama, Reviving a First-Term Plan (nyt)
 - **Sep 08, 11:46 PM** - Trump moves SPACECOM HQ from Colorado to Alabama (breaking_defense)
-- **Sep 09, 12:11 AM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
-- **Sep 09, 12:14 AM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
-- **Sep 09, 12:19 AM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
-- **Sep 09, 12:21 AM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
-- **Sep 09, 12:26 AM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
-- **Sep 09, 12:30 AM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
-- **Sep 09, 12:33 AM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
 - **Sep 09, 12:35 AM** - The Space Rock Stars of Brazil (nyt)
 - **Sep 09, 12:55 AM** - EXCLUSIVE: Space Development Agency Director Derek Tournear steps down (breaking_defense)
-- **Sep 09, 01:17 AM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
-- **Sep 09, 01:19 AM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
-- **Sep 09, 01:22 AM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
-- **Sep 09, 01:25 AM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
-- **Sep 09, 01:27 AM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
-- **Sep 09, 01:30 AM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
-- **Sep 09, 01:31 AM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
+- **Sep 09, 01:33 AM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
