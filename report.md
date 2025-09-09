@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 5 | 26 | 57 |
-| breaking_defense | 1 | 1 | 28 | 56 |
-| supercluster | 1 | 1 | 113 | 311 |
+| breaking_defense | 1 | 1 | 27 | 56 |
+| supercluster | 1 | 1 | 113 | 309 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -7107,4 +7107,4 @@
 - **Sep 08, 11:46 PM** - Trump moves SPACECOM HQ from Colorado to Alabama (breaking_defense)
 - **Sep 09, 12:35 AM** - The Space Rock Stars of Brazil (nyt)
 - **Sep 09, 12:55 AM** - EXCLUSIVE: Space Development Agency Director Derek Tournear steps down (breaking_defense)
-- **Sep 09, 02:42 AM** - China Will Launch the Long March 7A Rocket (supercluster)
+- **Sep 09, 02:45 AM** - China Will Launch the Long March 7A Rocket (supercluster)
