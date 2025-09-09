@@ -7107,4 +7107,4 @@
 - **Sep 08, 11:46 PM** - Trump moves SPACECOM HQ from Colorado to Alabama (breaking_defense)
 - **Sep 09, 12:35 AM** - The Space Rock Stars of Brazil (nyt)
 - **Sep 09, 12:55 AM** - EXCLUSIVE: Space Development Agency Director Derek Tournear steps down (breaking_defense)
-- **Sep 09, 02:51 AM** - China Will Launch the Long March 7A Rocket (supercluster)
+- **Sep 09, 02:55 AM** - China Will Launch the Long March 7A Rocket (supercluster)
