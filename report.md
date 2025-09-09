@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 3 | 25 | 54 |
+| nyt | 0 | 3 | 26 | 55 |
 | breaking_defense | 1 | 2 | 26 | 56 |
-| supercluster | 1 | 1 | 148 | 307 |
+| supercluster | 1 | 1 | 148 | 305 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -7289,3 +7289,4 @@
 - **Sep 09, 08:19 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
 - **Sep 09, 08:22 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
 - **Sep 09, 08:25 PM** - EXCLUSIVE: SDA eyeing airborne target tracking satellites demonstration, says Tournear (breaking_defense)
+- **Sep 09, 08:43 PM** - Live Video: Where and When to See the Blood Moon and Total Lunar Eclipse (nyt)
