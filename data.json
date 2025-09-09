@@ -1,9 +1,67 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-09-08T00:02:27.390097+00:00",
-    "trigger_count": 4,
+    "last_run_datetime": "2025-09-09T00:03:49.027538+00:00",
+    "trigger_count": 5,
     "current_item_id": "2c6b98d667e05414535b68f1bf5ac76f",
     "data": [
+        {
+            "id": "665942231eb4dbb6bd5ca0efbd84ef54",
+            "source": "nyt",
+            "text": "Tech Companies Show Off for Trump’s ‘Golden Dome’",
+            "source_link": "https://www.nytimes.com/2025/09/08/technology/space-capsules-ai-lasers-tech-golden-dome.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-08T16:09:54.002802Z",
+            "shown_at": [
+                "2025-09-08T16:09:55.158226Z"
+            ]
+        },
+        {
+            "id": "9a654260de2604c0d2f7e1d4eda21bdd",
+            "source": "nyt",
+            "text": "Webb Telescope Studies Hopeful Hint of Earthlike Atmosphere on Trappist-1e Planet",
+            "source_link": "https://www.nytimes.com/2025/09/08/science/trappist-1e-star-planet-nitrogen.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-08T14:45:38.792585Z",
+            "shown_at": [
+                "2025-09-08T14:45:40.184593Z"
+            ]
+        },
+        {
+            "id": "83a5579c1b83b1d79b9bf2ec36ec031c",
+            "source": "breaking_defense",
+            "text": "EXCLUSIVE: Space Development Agency Director Derek Tournear steps down",
+            "source_link": "https://breakingdefense.com/2025/09/exclusive-space-development-agency-director-derek-tournear-steps-down/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-08T12:39:36.107590Z",
+            "shown_at": [
+                "2025-09-08T12:39:36.851079Z",
+                "2025-09-08T15:52:14.364517Z",
+                "2025-09-08T16:37:42.984771Z",
+                "2025-09-08T18:10:08.668245Z",
+                "2025-09-08T19:35:55.461943Z",
+                "2025-09-08T21:09:57.379352Z"
+            ]
+        },
+        {
+            "id": "735b8ab0d7c55552cdfb9754d2ffda31",
+            "source": "nyt",
+            "text": "Video: Sunday and Monday’s Blood Moon and Total Lunar Eclipse",
+            "source_link": "https://www.nytimes.com/2025/09/05/science/blood-moon-total-lunar-eclipse-where-when.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-08T00:11:56.569415Z",
+            "shown_at": [
+                "2025-09-08T00:11:57.686898Z",
+                "2025-09-08T10:37:39.251456Z",
+                "2025-09-08T12:07:41.386522Z",
+                "2025-09-08T16:51:51.586234Z",
+                "2025-09-08T18:23:45.575756Z",
+                "2025-09-08T20:55:46.974111Z"
+            ]
+        },
         {
             "id": "c8c0e5da27a7a8935a3ab7ed4809d830",
             "source": "nyt",
@@ -12542,158 +12600,6 @@
             "shown_at": [
                 "2025-05-29T13:02:25.553376Z",
                 "2025-06-05T01:41:13.468729Z"
-            ]
-        },
-        {
-            "id": "63549e7f8914fa0ed54082d013d72576",
-            "source": "spacenews",
-            "text": "Chinese launch startup conducts vertical takeoff and splashdown test",
-            "source_link": "https://spacenews.com/chinese-launch-startup-conducts-vertical-takeoff-and-splashdown-test/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-29T10:23:38.847663Z",
-            "shown_at": [
-                "2025-05-29T10:23:39.889796Z",
-                "2025-05-29T17:07:42.561150Z",
-                "2025-05-31T13:17:36.483977Z",
-                "2025-06-04T18:53:12.792882Z"
-            ]
-        },
-        {
-            "id": "509c9b37c5e10a12e35a6cd5fb17a657",
-            "source": "spacenews",
-            "text": "NASA switches to backup propellant line on Psyche spacecraft",
-            "source_link": "https://spacenews.com/nasa-switches-to-backup-propellant-line-on-psyche-spacecraft/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-29T08:03:41.845565Z",
-            "shown_at": [
-                "2025-05-29T08:03:42.564433Z",
-                "2025-05-31T18:35:31.169575Z",
-                "2025-06-02T00:33:39.766616Z"
-            ]
-        },
-        {
-            "id": "34d50720efd7d30f304eb6937aed1608",
-            "source": "spacenews",
-            "text": "Space One and Space BD to launch satellite for Japanese military",
-            "source_link": "https://spacenews.com/space-one-and-space-bd-to-launch-satellite-for-japanese-military/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-29T07:49:26.149256Z",
-            "shown_at": [
-                "2025-05-29T07:49:26.869789Z",
-                "2025-05-30T14:09:21.636383Z",
-                "2025-05-31T03:47:38.634101Z",
-                "2025-05-31T05:41:40.368489Z",
-                "2025-06-02T08:03:56.172925Z",
-                "2025-06-03T20:43:32.672655Z"
-            ]
-        },
-        {
-            "id": "3d0b6776659994da1fabe0d83c1f11b8",
-            "source": "spacenews",
-            "text": "Space Force orders two more GPS IIIF satellites for $509.7 million",
-            "source_link": "https://spacenews.com/space-force-orders-two-more-gps-iiif-satellites-for-509-7-million/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-29T00:25:51.883573Z",
-            "shown_at": [
-                "2025-05-29T00:25:52.862197Z",
-                "2025-06-01T04:42:00.945134Z",
-                "2025-06-02T17:13:18.413818Z",
-                "2025-06-03T13:27:35.315707Z",
-                "2025-06-04T08:05:51.767790Z"
-            ]
-        },
-        {
-            "id": "735b8ab0d7c55552cdfb9754d2ffda31",
-            "source": "nyt",
-            "text": "Video: Sunday and Monday’s Blood Moon and Total Lunar Eclipse",
-            "source_link": "https://www.nytimes.com/2025/09/05/science/blood-moon-total-lunar-eclipse-where-when.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-08T00:11:56.569415Z",
-            "shown_at": [
-                "2025-09-08T00:11:57.686898Z",
-                "2025-09-08T10:37:39.251456Z",
-                "2025-09-08T12:07:41.386522Z",
-                "2025-09-08T16:51:51.586234Z",
-                "2025-09-08T18:23:45.575756Z",
-                "2025-09-08T20:55:46.974111Z"
-            ]
-        },
-        {
-            "id": "83a5579c1b83b1d79b9bf2ec36ec031c",
-            "source": "breaking_defense",
-            "text": "EXCLUSIVE: Space Development Agency Director Derek Tournear steps down",
-            "source_link": "https://breakingdefense.com/2025/09/exclusive-space-development-agency-director-derek-tournear-steps-down/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-08T12:39:36.107590Z",
-            "shown_at": [
-                "2025-09-08T12:39:36.851079Z",
-                "2025-09-08T15:52:14.364517Z",
-                "2025-09-08T16:37:42.984771Z",
-                "2025-09-08T18:10:08.668245Z",
-                "2025-09-08T19:35:55.461943Z",
-                "2025-09-08T21:09:57.379352Z"
-            ]
-        },
-        {
-            "id": "9a654260de2604c0d2f7e1d4eda21bdd",
-            "source": "nyt",
-            "text": "Webb Telescope Studies Hopeful Hint of Earthlike Atmosphere on Trappist-1e Planet",
-            "source_link": "https://www.nytimes.com/2025/09/08/science/trappist-1e-star-planet-nitrogen.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-08T14:45:38.792585Z",
-            "shown_at": [
-                "2025-09-08T14:45:40.184593Z"
-            ]
-        },
-        {
-            "id": "665942231eb4dbb6bd5ca0efbd84ef54",
-            "source": "nyt",
-            "text": "Tech Companies Show Off for Trump’s ‘Golden Dome’",
-            "source_link": "https://www.nytimes.com/2025/09/08/technology/space-capsules-ai-lasers-tech-golden-dome.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-08T16:09:54.002802Z",
-            "shown_at": [
-                "2025-09-08T16:09:55.158226Z"
-            ]
-        },
-        {
-            "id": "c51c255a0c35f76e26dae724adcfe0c3",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch an Indonesian Communications Satellite",
-            "source_link": "https://www.supercluster.com/launches/satelit-nusantara-lima-snl",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-09-09T00:02:00.000Z",
-            "time_remaining": "0d 00h 42m",
-            "fetched_datetime": "2025-09-08T20:45:40.759896Z",
-            "shown_at": [
-                "2025-09-08T20:45:41.904501Z",
-                "2025-09-08T20:47:53.355694Z",
-                "2025-09-08T20:49:50.833645Z",
-                "2025-09-08T20:51:59.760606Z",
-                "2025-09-08T20:53:15.800704Z",
-                "2025-09-08T22:12:13.086050Z",
-                "2025-09-08T22:15:30.218987Z",
-                "2025-09-08T22:17:49.091046Z",
-                "2025-09-08T22:19:39.201435Z",
-                "2025-09-08T22:21:28.841761Z",
-                "2025-09-08T22:23:43.374544Z",
-                "2025-09-08T22:25:42.731021Z",
-                "2025-09-08T23:02:25.103738Z",
-                "2025-09-08T23:05:47.693005Z",
-                "2025-09-08T23:09:45.021708Z",
-                "2025-09-08T23:12:01.309935Z",
-                "2025-09-08T23:15:31.635617Z",
-                "2025-09-08T23:17:47.942911Z",
-                "2025-09-08T23:19:56.647161Z"
             ]
         }
     ]
