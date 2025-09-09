@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 3 | 25 | 55 |
 | breaking_defense | 1 | 2 | 26 | 55 |
-| supercluster | 1 | 1 | 149 | 303 |
+| supercluster | 1 | 1 | 150 | 304 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -7291,3 +7291,4 @@
 - **Sep 09, 08:25 PM** - EXCLUSIVE: SDA eyeing airborne target tracking satellites demonstration, says Tournear (breaking_defense)
 - **Sep 09, 08:43 PM** - Live Video: Where and When to See the Blood Moon and Total Lunar Eclipse (nyt)
 - **Sep 09, 08:57 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
+- **Sep 09, 08:59 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
