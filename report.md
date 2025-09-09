@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 5 | 25 | 56 |
+| nyt | 2 | 5 | 26 | 57 |
 | breaking_defense | 1 | 1 | 26 | 55 |
-| supercluster | 1 | 1 | 100 | 306 |
+| supercluster | 1 | 1 | 99 | 305 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -7180,3 +7180,4 @@
 - **Sep 09, 10:12 AM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
 - **Sep 09, 10:15 AM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
 - **Sep 09, 10:17 AM** - EXCLUSIVE: Space Development Agency Director Derek Tournear steps down (breaking_defense)
+- **Sep 09, 10:36 AM** - Quakes on Mars Reveal New Features of the Planet’s Interior (nyt)
