@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 5 | 25 | 57 |
 | breaking_defense | 1 | 1 | 25 | 54 |
-| supercluster | 1 | 1 | 101 | 304 |
+| supercluster | 1 | 1 | 102 | 305 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -7201,3 +7201,4 @@
 - **Sep 09, 12:07 PM** - Trump Relocates Space Command to Alabama, Reviving a First-Term Plan (nyt)
 - **Sep 09, 12:21 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Sep 09, 12:24 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
+- **Sep 09, 12:25 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
