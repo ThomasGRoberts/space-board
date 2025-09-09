@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 3 | 25 | 54 |
-| breaking_defense | 1 | 2 | 25 | 55 |
+| breaking_defense | 1 | 2 | 26 | 56 |
 | supercluster | 1 | 1 | 120 | 309 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -7234,3 +7234,4 @@
 - **Sep 09, 03:22 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Sep 09, 03:25 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Sep 09, 03:28 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
+- **Sep 09, 03:29 PM** - EXCLUSIVE: Space Development Agency Director Derek Tournear steps down (breaking_defense)
