@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-09T00:03:49.027538+00:00",
-    "trigger_count": 6,
-    "current_item_id": "83a5579c1b83b1d79b9bf2ec36ec031c",
+    "trigger_count": 0,
+    "current_item_id": "8196b3fc8e56a8a69b1a9f50d70db2dd",
     "data": [
         {
             "id": "665942231eb4dbb6bd5ca0efbd84ef54",
@@ -12733,6 +12733,18 @@
                 "2025-09-09T14:07:38.455044Z",
                 "2025-09-09T14:09:52.168100Z",
                 "2025-09-09T14:11:59.959999Z"
+            ]
+        },
+        {
+            "id": "8196b3fc8e56a8a69b1a9f50d70db2dd",
+            "source": "breaking_defense",
+            "text": "EXCLUSIVE: SDA eyeing airborne target tracking satellites demonstration, says Tournear",
+            "source_link": "https://breakingdefense.com/2025/09/exclusive-sda-eyeing-airborne-target-tracking-satellites-demonstration-says-tournear/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-09T14:29:47.202700Z",
+            "shown_at": [
+                "2025-09-09T14:29:47.852230Z"
             ]
         }
     ]

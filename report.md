@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 4 | 25 | 55 |
-| breaking_defense | 0 | 1 | 25 | 55 |
-| supercluster | 1 | 1 | 120 | 309 |
+| nyt | 2 | 3 | 25 | 54 |
+| breaking_defense | 1 | 2 | 26 | 56 |
+| supercluster | 1 | 1 | 119 | 309 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -7225,3 +7225,4 @@
 - **Sep 09, 02:09 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
 - **Sep 09, 02:11 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
 - **Sep 09, 02:13 PM** - EXCLUSIVE: Space Development Agency Director Derek Tournear steps down (breaking_defense)
+- **Sep 09, 02:29 PM** - EXCLUSIVE: SDA eyeing airborne target tracking satellites demonstration, says Tournear (breaking_defense)
