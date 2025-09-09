@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 5 | 25 | 56 |
 | breaking_defense | 1 | 1 | 26 | 54 |
-| supercluster | 1 | 1 | 99 | 296 |
+| supercluster | 1 | 1 | 100 | 296 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -7154,3 +7154,4 @@
 - **Sep 09, 07:45 AM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
 - **Sep 09, 07:47 AM** - EXCLUSIVE: Space Development Agency Director Derek Tournear steps down (breaking_defense)
 - **Sep 09, 08:02 AM** - Webb Telescope Studies Hopeful Hint of Earthlike Atmosphere on Trappist-1e Planet (nyt)
+- **Sep 09, 08:17 AM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
