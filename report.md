@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 5 | 25 | 55 |
+| nyt | 2 | 5 | 25 | 56 |
 | breaking_defense | 1 | 1 | 26 | 54 |
-| supercluster | 0 | 0 | 99 | 299 |
+| supercluster | 0 | 0 | 99 | 298 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -7144,3 +7144,4 @@
 - **Sep 09, 07:09 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Sep 09, 07:12 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Sep 09, 07:15 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
+- **Sep 09, 07:17 AM** - Quakes on Mars Reveal New Features of the Planet’s Interior (nyt)
