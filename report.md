@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 3 | 26 | 55 |
+| nyt | 0 | 3 | 25 | 55 |
 | breaking_defense | 1 | 2 | 26 | 56 |
-| supercluster | 1 | 1 | 155 | 306 |
+| supercluster | 1 | 1 | 156 | 306 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -7308,3 +7308,4 @@
 - **Sep 09, 09:55 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Sep 09, 09:57 PM** - EXCLUSIVE: Space Development Agency Director Derek Tournear steps down (breaking_defense)
 - **Sep 09, 10:12 PM** - Quakes on Mars Reveal New Features of the Planet’s Interior (nyt)
+- **Sep 09, 10:30 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
