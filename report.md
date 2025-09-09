@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 3 | 24 | 54 |
-| breaking_defense | 1 | 2 | 25 | 55 |
+| breaking_defense | 1 | 2 | 26 | 56 |
 | supercluster | 1 | 1 | 141 | 309 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -7279,3 +7279,4 @@
 - **Sep 09, 07:27 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
 - **Sep 09, 07:30 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
 - **Sep 09, 07:32 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
+- **Sep 09, 07:35 PM** - EXCLUSIVE: SDA eyeing airborne target tracking satellites demonstration, says Tournear (breaking_defense)
