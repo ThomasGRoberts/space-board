@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-09T00:03:49.027538+00:00",
-    "trigger_count": 2,
-    "current_item_id": "c51c255a0c35f76e26dae724adcfe0c3",
+    "trigger_count": 3,
+    "current_item_id": "fe2f78fbf26b2640f015faad72790570",
     "data": [
         {
             "id": "665942231eb4dbb6bd5ca0efbd84ef54",
@@ -12605,17 +12605,17 @@
             ]
         },
         {
-            "id": "c51c255a0c35f76e26dae724adcfe0c3",
+            "id": "fe2f78fbf26b2640f015faad72790570",
             "source": "supercluster",
-            "text": "SpaceX Will Launch an Indonesian Communications Satellite",
-            "source_link": "https://www.supercluster.com/launches/satelit-nusantara-lima-snl",
+            "text": "China Will Launch the Long March 7A Rocket",
+            "source_link": "https://www.supercluster.com/launches/long-march-7ajth",
             "shown": true,
             "type": "launch",
-            "target_datetime": "2025-09-09T01:32:00.000Z",
+            "target_datetime": "2025-09-09T02:00:00.000Z",
             "time_remaining": "",
-            "fetched_datetime": "2025-09-09T02:30:02.065628Z",
+            "fetched_datetime": "2025-09-09T02:33:51.318070Z",
             "shown_at": [
-                "2025-09-09T02:30:03.592309Z"
+                "2025-09-09T02:33:52.386732Z"
             ]
         }
     ]
