@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 3 | 24 | 54 |
 | breaking_defense | 1 | 2 | 25 | 55 |
-| supercluster | 1 | 1 | 122 | 304 |
+| supercluster | 1 | 1 | 123 | 305 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -7247,3 +7247,4 @@
 - **Sep 09, 04:33 PM** - Live Video: How to Watch the Blood Moon and Total Lunar Eclipse (nyt)
 - **Sep 09, 04:49 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Sep 09, 04:52 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
+- **Sep 09, 04:53 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
