@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 5 | 25 | 57 |
 | breaking_defense | 0 | 1 | 25 | 54 |
-| supercluster | 1 | 1 | 114 | 303 |
+| supercluster | 1 | 1 | 115 | 304 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -7218,3 +7218,4 @@
 - **Sep 09, 01:27 PM** - Trump expected to move SPACECOM HQ from Colorado to Alabama (breaking_defense)
 - **Sep 09, 01:42 PM** - Where and When to See the Blood Moon and Total Lunar Eclipse (nyt)
 - **Sep 09, 01:57 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
+- **Sep 09, 01:59 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
