@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 5 | 25 | 57 |
-| breaking_defense | 1 | 1 | 26 | 54 |
-| supercluster | 1 | 1 | 100 | 303 |
+| breaking_defense | 1 | 1 | 25 | 54 |
+| supercluster | 1 | 1 | 101 | 304 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -7200,3 +7200,4 @@
 - **Sep 09, 11:53 AM** - Trump moves SPACECOM HQ from Colorado to Alabama (breaking_defense)
 - **Sep 09, 12:07 PM** - Trump Relocates Space Command to Alabama, Reviving a First-Term Plan (nyt)
 - **Sep 09, 12:21 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
+- **Sep 09, 12:24 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
