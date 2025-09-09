@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 5 | 25 | 57 |
 | breaking_defense | 0 | 1 | 25 | 54 |
-| supercluster | 1 | 1 | 106 | 302 |
+| supercluster | 1 | 1 | 107 | 303 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -7208,3 +7208,4 @@
 - **Sep 09, 12:35 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Sep 09, 12:37 PM** - EXCLUSIVE: Space Development Agency Director Derek Tournear steps down (breaking_defense)
 - **Sep 09, 12:54 PM** - Where and When to See the Blood Moon and Total Lunar Eclipse (nyt)
+- **Sep 09, 01:12 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
