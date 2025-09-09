@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 3 | 25 | 55 |
 | breaking_defense | 1 | 2 | 25 | 55 |
-| supercluster | 1 | 1 | 141 | 302 |
+| supercluster | 1 | 1 | 142 | 303 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -7281,3 +7281,4 @@
 - **Sep 09, 07:32 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
 - **Sep 09, 07:35 PM** - EXCLUSIVE: SDA eyeing airborne target tracking satellites demonstration, says Tournear (breaking_defense)
 - **Sep 09, 07:50 PM** - Tech Companies Show Off for Trump’s ‘Golden Dome’ (nyt)
+- **Sep 09, 08:07 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
