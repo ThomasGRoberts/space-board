@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 28 | 54 |
-| nyt | 3 | 3 | 29 | 54 |
+| nyt | 3 | 3 | 28 | 54 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 54 | 54 |
+| supercluster | 2 | 2 | 55 | 55 |
 
 # Shown Order
 
@@ -6841,3 +6841,4 @@
 - **Sep 10, 09:52 PM** - EXCLUSIVE: SDA eyeing airborne target tracking satellites demonstration, says Tournear (breaking_defense)
 - **Sep 10, 10:10 PM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Sep 10, 10:12 PM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
+- **Sep 10, 10:15 PM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
