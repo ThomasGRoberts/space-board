@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 29 | 55 |
-| nyt | 0 | 2 | 29 | 54 |
-| supercluster | 0 | 0 | 152 | 224 |
+| nyt | 0 | 2 | 28 | 53 |
+| supercluster | 0 | 0 | 153 | 224 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -7323,3 +7323,4 @@
 - **Sep 10, 10:02 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Sep 10, 10:05 AM** - EXCLUSIVE: SDA eyeing airborne target tracking satellites demonstration, says Tournear (breaking_defense)
 - **Sep 10, 10:20 AM** - The Trump Administration Wants to Switch Off Climate Satellites (nyt)
+- **Sep 10, 10:38 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
