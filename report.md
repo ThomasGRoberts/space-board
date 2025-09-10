@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 28 | 53 |
-| nyt | 3 | 3 | 28 | 53 |
+| nyt | 3 | 3 | 28 | 52 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 27 | 27 |
+| supercluster | 1 | 1 | 28 | 28 |
 
 # Shown Order
 
@@ -6806,3 +6806,4 @@
 - **Sep 10, 06:50 PM** - EXCLUSIVE: SDA eyeing airborne target tracking satellites demonstration, says Tournear (breaking_defense)
 - **Sep 10, 07:03 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
 - **Sep 10, 07:05 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
+- **Sep 10, 07:07 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
