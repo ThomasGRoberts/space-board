@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-10T00:00:02.973425+00:00",
-    "trigger_count": 2,
-    "current_item_id": "a64e1add1ac5080b8c0db49a0715367c",
+    "trigger_count": 3,
+    "current_item_id": "c51c255a0c35f76e26dae724adcfe0c3",
     "data": [
         {
             "id": "8196b3fc8e56a8a69b1a9f50d70db2dd",
@@ -12242,15 +12242,18 @@
             ]
         },
         {
-            "id": "a64e1add1ac5080b8c0db49a0715367c",
+            "id": "c51c255a0c35f76e26dae724adcfe0c3",
             "source": "supercluster",
-            "text": "SpaceX Will Launch Military Transport Satellites",
-            "source_link": "https://www.supercluster.com/launches/tranche-1-transport-layer-b",
-            "shown": false,
+            "text": "SpaceX Will Launch an Indonesian Communications Satellite",
+            "source_link": "https://www.supercluster.com/launches/satelit-nusantara-lima-snl",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-09-10T14:12:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-09-10T15:09:50.624305Z"
+            "target_datetime": "2025-09-11T00:00:00.000Z",
+            "time_remaining": "0d 08h 47m",
+            "fetched_datetime": "2025-09-10T15:12:07.453749Z",
+            "shown_at": [
+                "2025-09-10T15:12:08.296579Z"
+            ]
         }
     ]
 }
