@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 2 | 27 | 53 |
+| breaking_defense | 1 | 2 | 28 | 54 |
 | nyt | 3 | 3 | 29 | 53 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 25 | 25 |
@@ -6803,3 +6803,4 @@
 - **Sep 10, 06:29 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
 - **Sep 10, 06:32 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
 - **Sep 10, 06:36 PM** - The Trump Administration Wants to Switch Off Climate Satellites (nyt)
+- **Sep 10, 06:50 PM** - EXCLUSIVE: SDA eyeing airborne target tracking satellites demonstration, says Tournear (breaking_defense)
