@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 27 | 55 |
 | nyt | 0 | 2 | 27 | 53 |
-| supercluster | 0 | 0 | 112 | 224 |
+| supercluster | 0 | 0 | 113 | 225 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -7234,3 +7234,4 @@
 - **Sep 10, 02:00 AM** - EXCLUSIVE: SDA eyeing airborne target tracking satellites demonstration, says Tournear (breaking_defense)
 - **Sep 10, 02:17 AM** - Trump Relocates Space Command to Alabama, Reviving a First-Term Plan (nyt)
 - **Sep 10, 02:35 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
+- **Sep 10, 02:38 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
