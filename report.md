@@ -5,6 +5,7 @@
 | breaking_defense | 1 | 1 | 29 | 54 |
 | nyt | 0 | 2 | 28 | 53 |
 | spacenews | 0 | 0 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -6767,3 +6768,4 @@
 - **Sep 10, 01:15 PM** - EXCLUSIVE: SDA eyeing airborne target tracking satellites demonstration, says Tournear (breaking_defense)
 - **Sep 10, 01:33 PM** - Live Video: Where and When to See the Blood Moon and Total Lunar Eclipse (nyt)
 - **Sep 10, 02:06 PM** - EXCLUSIVE: Space Development Agency Director Derek Tournear steps down (breaking_defense)
+- **Sep 10, 02:19 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
