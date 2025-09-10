@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 3 | 28 | 54 |
+| breaking_defense | 2 | 3 | 29 | 54 |
 | nyt | 3 | 3 | 29 | 54 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 59 | 59 |
@@ -6847,3 +6847,4 @@
 - **Sep 10, 10:22 PM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Sep 10, 10:23 PM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Sep 10, 10:25 PM** - Was There Life on Mars? A Rock Found by NASA Keeps Getting More Interesting. (nyt)
+- **Sep 10, 10:42 PM** - Space Development Agency launches first ‘operational’ satellites for data relay (breaking_defense)
