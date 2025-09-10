@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 2 | 28 | 54 |
 | nyt | 2 | 2 | 28 | 52 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 4 | 4 |
+| supercluster | 1 | 1 | 5 | 5 |
 
 # Shown Order
 
@@ -6776,3 +6776,4 @@
 - **Sep 10, 03:36 PM** - Happy 10th Birthday to the Laser Interferometer Gravitational-Wave Observatory. Now Drop Dead. (nyt)
 - **Sep 10, 03:50 PM** - EXCLUSIVE: SDA eyeing airborne target tracking satellites demonstration, says Tournear (breaking_defense)
 - **Sep 10, 04:05 PM** - Space Development Agency launches first ‘operational’ satellites for data relay (breaking_defense)
+- **Sep 10, 04:19 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
