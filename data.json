@@ -1,7 +1,7 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-10T00:00:02.973425+00:00",
-    "trigger_count": 0,
+    "trigger_count": 1,
     "current_item_id": "a64e1add1ac5080b8c0db49a0715367c",
     "data": [
         {
@@ -12246,14 +12246,11 @@
             "source": "supercluster",
             "text": "SpaceX Will Launch Military Transport Satellites",
             "source_link": "https://www.supercluster.com/launches/tranche-1-transport-layer-b",
-            "shown": true,
+            "shown": false,
             "type": "launch",
             "target_datetime": "2025-09-10T14:12:00.000Z",
             "time_remaining": "",
-            "fetched_datetime": "2025-09-10T14:19:53.559309Z",
-            "shown_at": [
-                "2025-09-10T14:19:54.530356Z"
-            ]
+            "fetched_datetime": "2025-09-10T14:22:02.333160Z"
         }
     ]
 }
