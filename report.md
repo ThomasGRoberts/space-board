@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 2 | 28 | 53 |
 | nyt | 3 | 3 | 28 | 53 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 14 | 14 |
+| supercluster | 1 | 1 | 15 | 15 |
 
 # Shown Order
 
@@ -6789,3 +6789,4 @@
 - **Sep 10, 05:25 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
 - **Sep 10, 05:29 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
 - **Sep 10, 05:32 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
+- **Sep 10, 05:35 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
