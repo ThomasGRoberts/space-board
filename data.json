@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-10T00:00:02.973425+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8196b3fc8e56a8a69b1a9f50d70db2dd",
+    "trigger_count": 0,
+    "current_item_id": "a45d020a34ce0a9e04f64fddb0d14c8b",
     "data": [
         {
             "id": "8196b3fc8e56a8a69b1a9f50d70db2dd",
@@ -12281,6 +12281,18 @@
             "fetched_datetime": "2025-09-10T15:19:45.600873Z",
             "shown_at": [
                 "2025-09-10T15:36:02.838695Z"
+            ]
+        },
+        {
+            "id": "a45d020a34ce0a9e04f64fddb0d14c8b",
+            "source": "breaking_defense",
+            "text": "Space Development Agency launches first ‘operational’ satellites for data relay",
+            "source_link": "https://breakingdefense.com/2025/09/space-development-agency-launches-first-operational-satellites-for-data-relay/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-10T16:05:54.804935Z",
+            "shown_at": [
+                "2025-09-10T16:05:55.670740Z"
             ]
         }
     ]
