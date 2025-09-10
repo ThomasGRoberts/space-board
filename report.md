@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 2 | 27 | 54 |
+| breaking_defense | 1 | 2 | 28 | 55 |
 | nyt | 0 | 2 | 27 | 53 |
 | supercluster | 0 | 0 | 124 | 230 |
 | spacenews | 0 | 0 | 0 | 0 |
@@ -7249,3 +7249,4 @@
 - **Sep 10, 03:32 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Sep 10, 03:33 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Sep 10, 03:35 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
+- **Sep 10, 03:37 AM** - EXCLUSIVE: SDA eyeing airborne target tracking satellites demonstration, says Tournear (breaking_defense)
