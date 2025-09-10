@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-10T00:00:02.973425+00:00",
-    "trigger_count": 6,
-    "current_item_id": "423a5908d6d8b6451b7758fdbea3939b",
+    "trigger_count": 0,
+    "current_item_id": "f5f3fd5d4bfe9bdcf135eef8678e7a14",
     "data": [
         {
             "id": "8196b3fc8e56a8a69b1a9f50d70db2dd",
@@ -12275,9 +12275,12 @@
             "source": "nyt",
             "text": "Happy 10th Birthday to the Laser Interferometer Gravitational-Wave Observatory. Now Drop Dead.",
             "source_link": "https://www.nytimes.com/2025/09/10/science/gravitational-waves-ligo-black-holes.html",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-09-10T15:19:45.600873Z"
+            "fetched_datetime": "2025-09-10T15:19:45.600873Z",
+            "shown_at": [
+                "2025-09-10T15:36:02.838695Z"
+            ]
         }
     ]
 }
