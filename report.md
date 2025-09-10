@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 29 | 55 |
-| nyt | 0 | 2 | 28 | 53 |
-| supercluster | 0 | 0 | 131 | 228 |
+| nyt | 0 | 2 | 29 | 54 |
+| supercluster | 0 | 0 | 131 | 227 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -7295,3 +7295,4 @@
 - **Sep 10, 07:35 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Sep 10, 07:38 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Sep 10, 07:39 AM** - EXCLUSIVE: Space Development Agency Director Derek Tournear steps down (breaking_defense)
+- **Sep 10, 07:55 AM** - Webb Telescope Studies Hopeful Hint of Earthlike Atmosphere on Trappist-1e Planet (nyt)
