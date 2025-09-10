@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-10T00:00:02.973425+00:00",
-    "trigger_count": 6,
-    "current_item_id": "735b8ab0d7c55552cdfb9754d2ffda31",
+    "trigger_count": 0,
+    "current_item_id": "9860ae3d4a83222c5f9a687703238330",
     "data": [
         {
             "id": "8196b3fc8e56a8a69b1a9f50d70db2dd",
@@ -12301,6 +12301,18 @@
             "fetched_datetime": "2025-09-10T16:05:54.804935Z",
             "shown_at": [
                 "2025-09-10T16:05:55.670740Z"
+            ]
+        },
+        {
+            "id": "9860ae3d4a83222c5f9a687703238330",
+            "source": "nyt",
+            "text": "NASA Rover Findings ‘Could be the Clearest Sign of Life’ on Mars",
+            "source_link": "https://www.nytimes.com/2025/09/10/science/mars-rock-nasa-perserverance.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-10T16:51:34.595857Z",
+            "shown_at": [
+                "2025-09-10T16:51:35.508249Z"
             ]
         }
     ]
