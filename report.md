@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 28 | 54 |
-| nyt | 3 | 3 | 28 | 54 |
+| nyt | 3 | 3 | 29 | 55 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 66 | 66 |
 
@@ -6855,3 +6855,4 @@
 - **Sep 10, 11:08 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
 - **Sep 10, 11:09 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
 - **Sep 10, 11:12 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
+- **Sep 10, 11:13 PM** - Live Video: How to Watch the Blood Moon and Total Lunar Eclipse (nyt)
