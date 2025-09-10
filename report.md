@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 26 | 56 |
 | nyt | 0 | 3 | 26 | 55 |
-| supercluster | 1 | 1 | 100 | 235 |
+| supercluster | 1 | 1 | 99 | 232 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -7217,4 +7217,3 @@
 - **Sep 09, 11:29 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Sep 09, 11:32 PM** - EXCLUSIVE: SDA eyeing airborne target tracking satellites demonstration, says Tournear (breaking_defense)
 - **Sep 09, 11:50 PM** - Quakes on Mars Reveal New Features of the Planet’s Interior (nyt)
-- **Sep 10, 12:06 AM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
