@@ -5,7 +5,7 @@
 | breaking_defense | 0 | 1 | 28 | 53 |
 | nyt | 0 | 1 | 27 | 52 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -6769,3 +6769,4 @@
 - **Sep 10, 01:33 PM** - Live Video: Where and When to See the Blood Moon and Total Lunar Eclipse (nyt)
 - **Sep 10, 02:06 PM** - EXCLUSIVE: Space Development Agency Director Derek Tournear steps down (breaking_defense)
 - **Sep 10, 03:12 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
+- **Sep 10, 03:13 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
