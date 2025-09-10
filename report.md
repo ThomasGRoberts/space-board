@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 28 | 55 |
 | nyt | 0 | 2 | 28 | 53 |
-| supercluster | 0 | 0 | 124 | 223 |
+| supercluster | 0 | 0 | 124 | 224 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -7260,3 +7260,4 @@
 - **Sep 10, 04:19 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Sep 10, 04:22 AM** - EXCLUSIVE: Space Development Agency Director Derek Tournear steps down (breaking_defense)
 - **Sep 10, 04:39 AM** - The Trump Administration Wants to Switch Off Climate Satellites (nyt)
+- **Sep 10, 04:55 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
