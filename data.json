@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-10T00:00:02.973425+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c51c255a0c35f76e26dae724adcfe0c3",
+    "trigger_count": 0,
+    "current_item_id": "423a5908d6d8b6451b7758fdbea3939b",
     "data": [
         {
             "id": "8196b3fc8e56a8a69b1a9f50d70db2dd",
@@ -12257,6 +12257,27 @@
                 "2025-09-10T15:15:52.933515Z",
                 "2025-09-10T15:17:38.082981Z"
             ]
+        },
+        {
+            "id": "423a5908d6d8b6451b7758fdbea3939b",
+            "source": "nyt",
+            "text": "Was There Life on Mars? A Rock Found by NASA Keeps Getting More Interesting.",
+            "source_link": "https://www.nytimes.com/2025/09/10/science/mars-rock-nasa-perserverance.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-10T15:19:45.600823Z",
+            "shown_at": [
+                "2025-09-10T15:19:46.367944Z"
+            ]
+        },
+        {
+            "id": "f5f3fd5d4bfe9bdcf135eef8678e7a14",
+            "source": "nyt",
+            "text": "Happy 10th Birthday to the Laser Interferometer Gravitational-Wave Observatory. Now Drop Dead.",
+            "source_link": "https://www.nytimes.com/2025/09/10/science/gravitational-waves-ligo-black-holes.html",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-09-10T15:19:45.600873Z"
         }
     ]
 }
