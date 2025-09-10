@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 1 | 27 | 53 |
+| breaking_defense | 0 | 1 | 28 | 54 |
 | nyt | 2 | 3 | 28 | 53 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 4 | 4 |
@@ -6774,3 +6774,4 @@
 - **Sep 10, 03:17 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
 - **Sep 10, 03:19 PM** - Was There Life on Mars? A Rock Found by NASA Keeps Getting More Interesting. (nyt)
 - **Sep 10, 03:36 PM** - Happy 10th Birthday to the Laser Interferometer Gravitational-Wave Observatory. Now Drop Dead. (nyt)
+- **Sep 10, 03:50 PM** - EXCLUSIVE: SDA eyeing airborne target tracking satellites demonstration, says Tournear (breaking_defense)
