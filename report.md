@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 29 | 55 |
 | nyt | 0 | 2 | 28 | 53 |
-| supercluster | 0 | 0 | 124 | 223 |
+| supercluster | 0 | 0 | 125 | 224 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -7278,3 +7278,4 @@
 - **Sep 10, 05:55 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Sep 10, 05:57 AM** - EXCLUSIVE: SDA eyeing airborne target tracking satellites demonstration, says Tournear (breaking_defense)
 - **Sep 10, 06:16 AM** - Webb Telescope Studies Hopeful Hint of Earthlike Atmosphere on Trappist-1e Planet (nyt)
+- **Sep 10, 06:32 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
