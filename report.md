@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 3 | 28 | 55 |
 | nyt | 3 | 3 | 29 | 54 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 66 | 66 |
+| supercluster | 2 | 2 | 67 | 67 |
 
 # Shown Order
 
@@ -6857,3 +6857,4 @@
 - **Sep 10, 11:12 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
 - **Sep 10, 11:13 PM** - Live Video: How to Watch the Blood Moon and Total Lunar Eclipse (nyt)
 - **Sep 10, 11:27 PM** - EXCLUSIVE: SDA eyeing airborne target tracking satellites demonstration, says Tournear (breaking_defense)
+- **Sep 10, 11:43 PM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
