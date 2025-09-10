@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 28 | 54 |
-| nyt | 3 | 3 | 28 | 54 |
+| nyt | 3 | 3 | 29 | 55 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 52 | 52 |
 
@@ -6837,3 +6837,4 @@
 - **Sep 10, 09:29 PM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Sep 10, 09:33 PM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Sep 10, 09:35 PM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
+- **Sep 10, 09:37 PM** - Live Video: Where and When to See the Blood Moon and Total Lunar Eclipse (nyt)
