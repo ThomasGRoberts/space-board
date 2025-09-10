@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 3 | 28 | 54 |
 | nyt | 3 | 3 | 29 | 54 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 53 | 53 |
+| supercluster | 2 | 2 | 54 | 54 |
 
 # Shown Order
 
@@ -6840,3 +6840,4 @@
 - **Sep 10, 09:37 PM** - Live Video: Where and When to See the Blood Moon and Total Lunar Eclipse (nyt)
 - **Sep 10, 09:52 PM** - EXCLUSIVE: SDA eyeing airborne target tracking satellites demonstration, says Tournear (breaking_defense)
 - **Sep 10, 10:10 PM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
+- **Sep 10, 10:12 PM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
