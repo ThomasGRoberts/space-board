@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 2 | 28 | 54 |
 | nyt | 2 | 2 | 28 | 52 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 5 | 5 |
+| supercluster | 1 | 1 | 6 | 6 |
 
 # Shown Order
 
@@ -6777,3 +6777,4 @@
 - **Sep 10, 03:50 PM** - EXCLUSIVE: SDA eyeing airborne target tracking satellites demonstration, says Tournear (breaking_defense)
 - **Sep 10, 04:05 PM** - Space Development Agency launches first ‘operational’ satellites for data relay (breaking_defense)
 - **Sep 10, 04:19 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
+- **Sep 10, 04:21 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
