@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-10T00:00:02.973425+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e48dec2cfc74b160fefd45a971afc3bd",
+    "trigger_count": 0,
+    "current_item_id": "aca09d16585cd250550762e27ddd8215",
     "data": [
         {
             "id": "8196b3fc8e56a8a69b1a9f50d70db2dd",
@@ -12358,6 +12358,18 @@
             "fetched_datetime": "2025-09-10T16:51:34.595857Z",
             "shown_at": [
                 "2025-09-10T16:51:35.508249Z"
+            ]
+        },
+        {
+            "id": "aca09d16585cd250550762e27ddd8215",
+            "source": "breaking_defense",
+            "text": "White House comes out against Senate FY26 NDAA language on DoD spectrum rights",
+            "source_link": "https://breakingdefense.com/2025/09/white-house-comes-out-against-senate-fy26-ndaa-language-on-dod-spectrum-rights/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-10T21:05:59.574621Z",
+            "shown_at": [
+                "2025-09-10T21:06:00.798557Z"
             ]
         }
     ]
