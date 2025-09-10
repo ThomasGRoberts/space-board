@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 2 | 28 | 53 |
+| breaking_defense | 1 | 2 | 29 | 54 |
 | nyt | 3 | 3 | 29 | 54 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 39 | 39 |
@@ -6821,3 +6821,4 @@
 - **Sep 10, 07:57 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
 - **Sep 10, 07:59 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
 - **Sep 10, 08:02 PM** - Live Video: How to Watch the Blood Moon and Total Lunar Eclipse (nyt)
+- **Sep 10, 08:18 PM** - EXCLUSIVE: Space Development Agency Director Derek Tournear steps down (breaking_defense)
