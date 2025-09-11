@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 2 | 30 | 58 |
 | nyt | 2 | 4 | 30 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 0 | 0 |
 
 # Shown Order
 
@@ -6785,4 +6785,3 @@
 - **Sep 11, 02:45 PM** - Space Development Agency launches first ‘operational’ satellites for data relay (breaking_defense)
 - **Sep 11, 03:16 PM** - Tech Companies Show Off for Trump’s ‘Golden Dome’ (nyt)
 - **Sep 11, 03:29 PM** - Space Development Agency launches first ‘operational’ satellites for data relay (breaking_defense)
-- **Sep 11, 03:55 PM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
