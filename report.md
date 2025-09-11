@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 41 | 41 |
+| supercluster | 1 | 1 | 42 | 42 |
 | breaking_defense | 2 | 3 | 30 | 57 |
 | nyt | 3 | 3 | 30 | 57 |
 | spacenews | 0 | 0 | 0 | 0 |
@@ -6794,3 +6794,4 @@
 - **Sep 11, 02:13 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Sep 11, 02:15 AM** - Was There Life on Mars? A Rock Found by NASA Keeps Getting More Interesting. (nyt)
 - **Sep 11, 02:29 AM** - EXCLUSIVE: Space Development Agency Director Derek Tournear steps down (breaking_defense)
+- **Sep 11, 02:45 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
