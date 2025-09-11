@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 134 | 134 |
+| supercluster | 1 | 1 | 135 | 135 |
 | breaking_defense | 2 | 3 | 29 | 58 |
-| nyt | 4 | 4 | 30 | 58 |
+| nyt | 4 | 4 | 29 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -6913,3 +6913,4 @@
 - **Sep 11, 01:12 PM** - Space Development Agency launches first ‘operational’ satellites for data relay (breaking_defense)
 - **Sep 11, 01:30 PM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Sep 11, 01:32 PM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
+- **Sep 11, 01:34 PM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
