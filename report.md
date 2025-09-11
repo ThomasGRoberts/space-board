@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 76 | 76 |
 | breaking_defense | 2 | 3 | 29 | 58 |
-| nyt | 3 | 3 | 30 | 58 |
+| nyt | 3 | 3 | 31 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -6837,3 +6837,4 @@
 - **Sep 11, 05:57 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Sep 11, 05:59 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Sep 11, 06:02 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
+- **Sep 11, 06:03 AM** - Happy 10th Birthday to the Laser Interferometer Gravitational-Wave Observatory. Now Drop Dead. (nyt)
