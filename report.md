@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 62 | 62 |
-| breaking_defense | 2 | 3 | 29 | 57 |
+| breaking_defense | 2 | 3 | 30 | 58 |
 | nyt | 3 | 3 | 30 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -6820,3 +6820,4 @@
 - **Sep 11, 04:28 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Sep 11, 04:32 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Sep 11, 04:35 AM** - The Trump Administration Wants to Switch Off Climate Satellites (nyt)
+- **Sep 11, 04:49 AM** - EXCLUSIVE: SDA eyeing airborne target tracking satellites demonstration, says Tournear (breaking_defense)
