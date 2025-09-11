@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 27 | 27 |
 | breaking_defense | 2 | 3 | 29 | 55 |
-| nyt | 3 | 3 | 29 | 54 |
+| nyt | 3 | 3 | 30 | 55 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -6774,3 +6774,4 @@
 - **Sep 11, 12:39 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Sep 11, 12:42 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Sep 11, 12:43 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
+- **Sep 11, 12:45 AM** - Webb Telescope Studies Hopeful Hint of Earthlike Atmosphere on Trappist-1e Planet (nyt)
