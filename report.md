@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 2 | 29 | 57 |
 | nyt | 1 | 4 | 29 | 57 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 11 | 11 |
+| supercluster | 1 | 1 | 12 | 12 |
 
 # Shown Order
 
@@ -6800,3 +6800,4 @@
 - **Sep 11, 05:49 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
 - **Sep 11, 05:51 PM** - Live Video: How to Watch the Blood Moon and Total Lunar Eclipse (nyt)
 - **Sep 11, 06:07 PM** - Space Development Agency launches first ‘operational’ satellites for data relay (breaking_defense)
+- **Sep 11, 06:22 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
