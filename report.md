@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 20 | 20 |
-| breaking_defense | 2 | 3 | 28 | 54 |
+| breaking_defense | 2 | 3 | 29 | 55 |
 | nyt | 3 | 3 | 29 | 55 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -6766,3 +6766,4 @@
 - **Sep 10, 11:53 PM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Sep 10, 11:55 PM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Sep 10, 11:58 PM** - Tech Companies Show Off for Trump’s ‘Golden Dome’ (nyt)
+- **Sep 11, 12:15 AM** - EXCLUSIVE: SDA eyeing airborne target tracking satellites demonstration, says Tournear (breaking_defense)
