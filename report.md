@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 125 | 125 |
 | breaking_defense | 2 | 3 | 29 | 58 |
-| nyt | 4 | 4 | 29 | 58 |
+| nyt | 4 | 4 | 30 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -6900,3 +6900,4 @@
 - **Sep 11, 11:55 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Sep 11, 11:57 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Sep 11, 12:00 PM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
+- **Sep 11, 12:02 PM** - Was There Life on Mars? A Rock Found by NASA Keeps Getting More Interesting. (nyt)
