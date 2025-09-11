@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 2 | 29 | 57 |
 | nyt | 1 | 4 | 28 | 57 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 34 | 34 |
+| supercluster | 1 | 1 | 35 | 35 |
 
 # Shown Order
 
@@ -6829,3 +6829,4 @@
 - **Sep 11, 08:35 PM** - White House comes out against Senate FY26 NDAA language on DoD spectrum rights (breaking_defense)
 - **Sep 11, 08:50 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
 - **Sep 11, 08:51 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
+- **Sep 11, 08:53 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
