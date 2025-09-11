@@ -1,9 +1,104 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-09-10T00:00:02.973425+00:00",
-    "trigger_count": 0,
+    "last_run_datetime": "2025-09-11T00:02:15.321663+00:00",
+    "trigger_count": 1,
     "current_item_id": "665942231eb4dbb6bd5ca0efbd84ef54",
     "data": [
+        {
+            "id": "ca69bbeb5b26d7b3601ad05220eb8f9f",
+            "source": "supercluster",
+            "text": "Russia Will Launch Resupply Mission to the Space Station",
+            "source_link": "https://www.supercluster.com/launches/progress-ms-32",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-09-11T15:54:00.000Z",
+            "time_remaining": "0d 15h 58m",
+            "fetched_datetime": "2025-09-10T21:23:54.631268Z",
+            "shown_at": [
+                "2025-09-10T21:23:55.155663Z",
+                "2025-09-10T21:25:53.724738Z",
+                "2025-09-10T21:27:35.621176Z",
+                "2025-09-10T21:29:48.117296Z",
+                "2025-09-10T21:33:56.460031Z",
+                "2025-09-10T21:35:49.235986Z",
+                "2025-09-10T22:10:03.414342Z",
+                "2025-09-10T22:12:14.903452Z",
+                "2025-09-10T22:15:40.241577Z",
+                "2025-09-10T22:17:52.431592Z",
+                "2025-09-10T22:19:26.688908Z",
+                "2025-09-10T22:22:11.787310Z",
+                "2025-09-10T22:23:40.396265Z",
+                "2025-09-10T23:43:57.436736Z",
+                "2025-09-10T23:45:57.926339Z",
+                "2025-09-10T23:47:46.360092Z",
+                "2025-09-10T23:49:42.823705Z",
+                "2025-09-10T23:51:47.384139Z",
+                "2025-09-10T23:53:43.714051Z",
+                "2025-09-10T23:55:28.893438Z"
+            ]
+        },
+        {
+            "id": "aca09d16585cd250550762e27ddd8215",
+            "source": "breaking_defense",
+            "text": "White House comes out against Senate FY26 NDAA language on DoD spectrum rights",
+            "source_link": "https://breakingdefense.com/2025/09/white-house-comes-out-against-senate-fy26-ndaa-language-on-dod-spectrum-rights/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-10T21:05:59.574621Z",
+            "shown_at": [
+                "2025-09-10T21:06:00.798557Z"
+            ]
+        },
+        {
+            "id": "9860ae3d4a83222c5f9a687703238330",
+            "source": "nyt",
+            "text": "NASA Rover Findings ‘Could be the Clearest Sign of Life’ on Mars",
+            "source_link": "https://www.nytimes.com/2025/09/10/science/mars-rock-nasa-perserverance.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-10T16:51:34.595857Z",
+            "shown_at": [
+                "2025-09-10T16:51:35.508249Z"
+            ]
+        },
+        {
+            "id": "a45d020a34ce0a9e04f64fddb0d14c8b",
+            "source": "breaking_defense",
+            "text": "Space Development Agency launches first ‘operational’ satellites for data relay",
+            "source_link": "https://breakingdefense.com/2025/09/space-development-agency-launches-first-operational-satellites-for-data-relay/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-10T16:05:54.804935Z",
+            "shown_at": [
+                "2025-09-10T16:05:55.670740Z",
+                "2025-09-10T22:42:26.536842Z"
+            ]
+        },
+        {
+            "id": "f5f3fd5d4bfe9bdcf135eef8678e7a14",
+            "source": "nyt",
+            "text": "Happy 10th Birthday to the Laser Interferometer Gravitational-Wave Observatory. Now Drop Dead.",
+            "source_link": "https://www.nytimes.com/2025/09/10/science/gravitational-waves-ligo-black-holes.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-10T15:19:45.600873Z",
+            "shown_at": [
+                "2025-09-10T15:36:02.838695Z"
+            ]
+        },
+        {
+            "id": "423a5908d6d8b6451b7758fdbea3939b",
+            "source": "nyt",
+            "text": "Was There Life on Mars? A Rock Found by NASA Keeps Getting More Interesting.",
+            "source_link": "https://www.nytimes.com/2025/09/10/science/mars-rock-nasa-perserverance.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-10T15:19:45.600823Z",
+            "shown_at": [
+                "2025-09-10T15:19:46.367944Z",
+                "2025-09-10T22:25:59.146108Z"
+            ]
+        },
         {
             "id": "8196b3fc8e56a8a69b1a9f50d70db2dd",
             "source": "breaking_defense",
@@ -12166,257 +12261,6 @@
                 "2025-05-29T21:01:55.812927Z",
                 "2025-06-02T03:27:43.111026Z",
                 "2025-06-03T23:21:35.069391Z"
-            ]
-        },
-        {
-            "id": "569a6faa56619c56722a1ea8670d8881",
-            "source": "nyt",
-            "text": "Scientists Say They’ve Found a Dwarf Planet Very Far From the Sun",
-            "source_link": "https://www.nytimes.com/2025/05/29/science/dwarf-planet-nine-discovery.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-29T19:51:33.844311Z",
-            "shown_at": [
-                "2025-05-29T19:51:34.442176Z",
-                "2025-05-29T22:57:42.090305Z",
-                "2025-05-30T01:51:42.144998Z",
-                "2025-05-31T07:05:30.461431Z",
-                "2025-05-31T09:57:06.906245Z",
-                "2025-06-01T13:57:33.166530Z",
-                "2025-06-01T23:23:40.084890Z",
-                "2025-06-02T21:43:39.864455Z",
-                "2025-06-03T14:12:16.329988Z",
-                "2025-06-04T04:59:29.002500Z",
-                "2025-06-04T20:03:42.881256Z",
-                "2025-06-04T20:59:33.175579Z",
-                "2025-06-04T21:55:31.893971Z",
-                "2025-06-04T22:51:49.236968Z",
-                "2025-06-05T04:47:37.678013Z",
-                "2025-06-05T17:32:06.669684Z"
-            ]
-        },
-        {
-            "id": "a7f5b63ad95eead4c230a841fde00674",
-            "source": "spacenews",
-            "text": "Northrop invests $50 million into Firefly for launch vehicle development",
-            "source_link": "https://spacenews.com/northrop-invests-50-million-into-firefly-for-launch-vehicle-development/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-29T18:55:13.145570Z",
-            "shown_at": [
-                "2025-05-29T18:55:13.889273Z",
-                "2025-05-31T04:45:45.575588Z",
-                "2025-05-31T16:41:55.419206Z",
-                "2025-06-05T05:29:31.721041Z"
-            ]
-        },
-        {
-            "id": "8361c114f7f3fa253a3d6faeb89db185",
-            "source": "spacenews",
-            "text": "New report details China’s push to dominate artificial intelligence",
-            "source_link": "https://spacenews.com/new-report-details-chinas-push-to-dominate-artificial-intelligence/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-29T18:41:43.861996Z",
-            "shown_at": [
-                "2025-05-29T18:41:44.897113Z",
-                "2025-05-30T08:24:11.843118Z",
-                "2025-05-30T09:29:47.174667Z",
-                "2025-06-01T20:47:52.081962Z",
-                "2025-06-01T21:43:31.795791Z",
-                "2025-06-02T01:29:26.292837Z",
-                "2025-06-04T20:45:29.722385Z"
-            ]
-        },
-        {
-            "id": "97e3c06e920a620b83e681faf81724fd",
-            "source": "nyt",
-            "text": "New Likely Dwarf Planet Discovered in Remote Region of Solar System",
-            "source_link": "https://www.nytimes.com/2025/05/29/science/dwarf-planet-nine-discovery.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-29T18:25:25.122039Z",
-            "shown_at": [
-                "2025-05-29T18:25:25.682148Z",
-                "2025-05-30T02:47:53.565084Z",
-                "2025-05-30T03:43:37.109110Z",
-                "2025-05-30T09:46:03.641116Z",
-                "2025-05-30T14:37:44.293105Z",
-                "2025-05-31T05:13:30.727283Z",
-                "2025-06-01T10:10:13.746592Z",
-                "2025-06-01T11:05:40.139705Z",
-                "2025-06-01T16:49:26.378784Z",
-                "2025-06-02T02:15:33.339650Z",
-                "2025-06-02T14:17:08.420568Z",
-                "2025-06-03T17:09:40.195615Z",
-                "2025-06-03T18:23:31.064213Z",
-                "2025-06-03T21:11:36.869078Z",
-                "2025-06-04T00:07:40.685297Z",
-                "2025-06-04T15:22:01.639852Z",
-                "2025-06-05T01:55:44.270819Z",
-                "2025-06-05T08:35:36.243391Z",
-                "2025-06-05T09:59:24.895955Z"
-            ]
-        },
-        {
-            "id": "c51c255a0c35f76e26dae724adcfe0c3",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch an Indonesian Communications Satellite",
-            "source_link": "https://www.supercluster.com/launches/satelit-nusantara-lima-snl",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-09-11T00:00:00.000Z",
-            "time_remaining": "0d 00h 47m",
-            "fetched_datetime": "2025-09-10T15:12:07.453749Z",
-            "shown_at": [
-                "2025-09-10T15:12:08.296579Z",
-                "2025-09-10T15:13:31.709799Z",
-                "2025-09-10T15:15:52.933515Z",
-                "2025-09-10T15:17:38.082981Z",
-                "2025-09-10T16:19:54.532241Z",
-                "2025-09-10T16:21:56.919531Z",
-                "2025-09-10T16:23:47.960282Z",
-                "2025-09-10T16:26:19.244475Z",
-                "2025-09-10T16:29:52.760803Z",
-                "2025-09-10T16:32:07.875055Z",
-                "2025-09-10T16:33:40.798325Z",
-                "2025-09-10T17:25:36.811099Z",
-                "2025-09-10T17:29:01.243460Z",
-                "2025-09-10T17:32:22.028859Z",
-                "2025-09-10T17:35:44.060418Z",
-                "2025-09-10T17:37:49.437072Z",
-                "2025-09-10T17:39:34.697965Z",
-                "2025-09-10T17:41:59.204484Z",
-                "2025-09-10T18:20:11.873140Z",
-                "2025-09-10T18:21:57.669230Z",
-                "2025-09-10T18:23:44.723913Z",
-                "2025-09-10T18:25:55.402825Z",
-                "2025-09-10T18:27:39.275882Z",
-                "2025-09-10T18:29:39.373958Z",
-                "2025-09-10T18:32:21.880548Z",
-                "2025-09-10T19:03:47.023719Z",
-                "2025-09-10T19:05:35.507571Z",
-                "2025-09-10T19:07:57.218561Z",
-                "2025-09-10T19:09:18.380567Z",
-                "2025-09-10T19:12:07.331461Z",
-                "2025-09-10T19:13:40.078141Z",
-                "2025-09-10T19:15:47.005251Z",
-                "2025-09-10T19:47:49.643121Z",
-                "2025-09-10T19:49:50.749473Z",
-                "2025-09-10T19:52:07.601470Z",
-                "2025-09-10T19:53:49.624111Z",
-                "2025-09-10T19:55:52.277149Z",
-                "2025-09-10T19:57:37.674392Z",
-                "2025-09-10T19:59:39.339687Z",
-                "2025-09-10T20:34:08.244813Z",
-                "2025-09-10T20:35:55.962525Z",
-                "2025-09-10T20:37:44.399931Z",
-                "2025-09-10T20:39:36.279739Z",
-                "2025-09-10T20:42:16.758429Z",
-                "2025-09-10T20:45:47.458081Z",
-                "2025-09-10T20:47:49.030982Z",
-                "2025-09-10T22:57:46.564141Z",
-                "2025-09-10T22:59:41.832152Z",
-                "2025-09-10T23:02:18.346349Z",
-                "2025-09-10T23:05:44.966265Z",
-                "2025-09-10T23:08:07.605144Z",
-                "2025-09-10T23:09:22.290979Z",
-                "2025-09-10T23:12:07.615128Z"
-            ]
-        },
-        {
-            "id": "423a5908d6d8b6451b7758fdbea3939b",
-            "source": "nyt",
-            "text": "Was There Life on Mars? A Rock Found by NASA Keeps Getting More Interesting.",
-            "source_link": "https://www.nytimes.com/2025/09/10/science/mars-rock-nasa-perserverance.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-10T15:19:45.600823Z",
-            "shown_at": [
-                "2025-09-10T15:19:46.367944Z",
-                "2025-09-10T22:25:59.146108Z"
-            ]
-        },
-        {
-            "id": "f5f3fd5d4bfe9bdcf135eef8678e7a14",
-            "source": "nyt",
-            "text": "Happy 10th Birthday to the Laser Interferometer Gravitational-Wave Observatory. Now Drop Dead.",
-            "source_link": "https://www.nytimes.com/2025/09/10/science/gravitational-waves-ligo-black-holes.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-10T15:19:45.600873Z",
-            "shown_at": [
-                "2025-09-10T15:36:02.838695Z"
-            ]
-        },
-        {
-            "id": "a45d020a34ce0a9e04f64fddb0d14c8b",
-            "source": "breaking_defense",
-            "text": "Space Development Agency launches first ‘operational’ satellites for data relay",
-            "source_link": "https://breakingdefense.com/2025/09/space-development-agency-launches-first-operational-satellites-for-data-relay/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-10T16:05:54.804935Z",
-            "shown_at": [
-                "2025-09-10T16:05:55.670740Z",
-                "2025-09-10T22:42:26.536842Z"
-            ]
-        },
-        {
-            "id": "9860ae3d4a83222c5f9a687703238330",
-            "source": "nyt",
-            "text": "NASA Rover Findings ‘Could be the Clearest Sign of Life’ on Mars",
-            "source_link": "https://www.nytimes.com/2025/09/10/science/mars-rock-nasa-perserverance.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-10T16:51:34.595857Z",
-            "shown_at": [
-                "2025-09-10T16:51:35.508249Z"
-            ]
-        },
-        {
-            "id": "aca09d16585cd250550762e27ddd8215",
-            "source": "breaking_defense",
-            "text": "White House comes out against Senate FY26 NDAA language on DoD spectrum rights",
-            "source_link": "https://breakingdefense.com/2025/09/white-house-comes-out-against-senate-fy26-ndaa-language-on-dod-spectrum-rights/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-10T21:05:59.574621Z",
-            "shown_at": [
-                "2025-09-10T21:06:00.798557Z"
-            ]
-        },
-        {
-            "id": "ca69bbeb5b26d7b3601ad05220eb8f9f",
-            "source": "supercluster",
-            "text": "Russia Will Launch Resupply Mission to the Space Station",
-            "source_link": "https://www.supercluster.com/launches/progress-ms-32",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-09-11T15:54:00.000Z",
-            "time_remaining": "0d 15h 58m",
-            "fetched_datetime": "2025-09-10T21:23:54.631268Z",
-            "shown_at": [
-                "2025-09-10T21:23:55.155663Z",
-                "2025-09-10T21:25:53.724738Z",
-                "2025-09-10T21:27:35.621176Z",
-                "2025-09-10T21:29:48.117296Z",
-                "2025-09-10T21:33:56.460031Z",
-                "2025-09-10T21:35:49.235986Z",
-                "2025-09-10T22:10:03.414342Z",
-                "2025-09-10T22:12:14.903452Z",
-                "2025-09-10T22:15:40.241577Z",
-                "2025-09-10T22:17:52.431592Z",
-                "2025-09-10T22:19:26.688908Z",
-                "2025-09-10T22:22:11.787310Z",
-                "2025-09-10T22:23:40.396265Z",
-                "2025-09-10T23:43:57.436736Z",
-                "2025-09-10T23:45:57.926339Z",
-                "2025-09-10T23:47:46.360092Z",
-                "2025-09-10T23:49:42.823705Z",
-                "2025-09-10T23:51:47.384139Z",
-                "2025-09-10T23:53:43.714051Z",
-                "2025-09-10T23:55:28.893438Z"
             ]
         }
     ]
