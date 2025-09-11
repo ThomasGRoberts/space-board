@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 146 | 146 |
-| breaking_defense | 2 | 2 | 29 | 57 |
+| breaking_defense | 2 | 2 | 30 | 58 |
 | nyt | 4 | 4 | 31 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -6928,3 +6928,4 @@
 - **Sep 11, 02:22 PM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Sep 11, 02:25 PM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Sep 11, 02:27 PM** - NASA Rover Findings ‘Could be the Clearest Sign of Life’ on Mars (nyt)
+- **Sep 11, 02:45 PM** - Space Development Agency launches first ‘operational’ satellites for data relay (breaking_defense)
