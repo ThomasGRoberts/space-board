@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 76 | 76 |
-| breaking_defense | 2 | 3 | 29 | 58 |
+| breaking_defense | 2 | 3 | 30 | 59 |
 | nyt | 3 | 3 | 30 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -6838,3 +6838,4 @@
 - **Sep 11, 05:59 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Sep 11, 06:02 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Sep 11, 06:03 AM** - Happy 10th Birthday to the Laser Interferometer Gravitational-Wave Observatory. Now Drop Dead. (nyt)
+- **Sep 11, 06:20 AM** - Space Development Agency launches first ‘operational’ satellites for data relay (breaking_defense)
