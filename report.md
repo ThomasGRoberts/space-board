@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 27 | 27 |
-| breaking_defense | 2 | 3 | 29 | 54 |
+| breaking_defense | 2 | 3 | 30 | 55 |
 | nyt | 3 | 3 | 30 | 55 |
 | spacenews | 0 | 0 | 0 | 0 |
 
@@ -6775,3 +6775,4 @@
 - **Sep 11, 12:42 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Sep 11, 12:43 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Sep 11, 12:45 AM** - Webb Telescope Studies Hopeful Hint of Earthlike Atmosphere on Trappist-1e Planet (nyt)
+- **Sep 11, 12:59 AM** - EXCLUSIVE: SDA eyeing airborne target tracking satellites demonstration, says Tournear (breaking_defense)
