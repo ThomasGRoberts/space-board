@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 34 | 34 |
 | breaking_defense | 2 | 3 | 29 | 55 |
-| nyt | 3 | 3 | 29 | 55 |
+| nyt | 3 | 3 | 30 | 56 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -6783,3 +6783,4 @@
 - **Sep 11, 01:23 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Sep 11, 01:25 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Sep 11, 01:27 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
+- **Sep 11, 01:29 AM** - The Trump Administration Wants to Switch Off Climate Satellites (nyt)
