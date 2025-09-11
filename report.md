@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 132 | 132 |
 | breaking_defense | 2 | 3 | 29 | 58 |
-| nyt | 4 | 4 | 29 | 58 |
+| nyt | 4 | 4 | 30 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -6909,3 +6909,4 @@
 - **Sep 11, 12:47 PM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Sep 11, 12:49 PM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Sep 11, 12:52 PM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
+- **Sep 11, 12:55 PM** - Live Video: Where and When to See the Blood Moon and Total Lunar Eclipse (nyt)
