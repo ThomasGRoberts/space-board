@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 56 | 56 |
+| supercluster | 1 | 1 | 57 | 57 |
 | breaking_defense | 2 | 3 | 30 | 58 |
 | nyt | 3 | 3 | 30 | 57 |
 | spacenews | 0 | 0 | 0 | 0 |
@@ -6813,3 +6813,4 @@
 - **Sep 11, 03:47 AM** - Quakes on Mars Reveal New Features of the Planet’s Interior (nyt)
 - **Sep 11, 04:02 AM** - EXCLUSIVE: SDA eyeing airborne target tracking satellites demonstration, says Tournear (breaking_defense)
 - **Sep 11, 04:18 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
+- **Sep 11, 04:19 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
