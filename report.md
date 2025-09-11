@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 104 | 104 |
 | breaking_defense | 2 | 3 | 30 | 59 |
-| nyt | 3 | 3 | 30 | 58 |
+| nyt | 4 | 4 | 31 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -6873,3 +6873,4 @@
 - **Sep 11, 09:12 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Sep 11, 09:13 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
 - **Sep 11, 09:15 AM** - Russia Will Launch Resupply Mission to the Space Station (supercluster)
+- **Sep 11, 09:17 AM** - NASA Rover Findings ‘Could Be the Clearest Sign of Life’ on Mars (nyt)
