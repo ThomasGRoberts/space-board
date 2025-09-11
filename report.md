@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 2 | 29 | 57 |
 | nyt | 1 | 4 | 29 | 57 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 6 | 6 |
+| supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
 
@@ -6793,3 +6793,4 @@
 - **Sep 11, 05:19 PM** - EXCLUSIVE: Space Development Agency Director Derek Tournear steps down (breaking_defense)
 - **Sep 11, 05:35 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
 - **Sep 11, 05:37 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
+- **Sep 11, 05:39 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
