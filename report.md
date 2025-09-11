@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 29 | 57 |
-| nyt | 1 | 4 | 29 | 57 |
+| nyt | 1 | 4 | 28 | 57 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 32 | 32 |
+| supercluster | 1 | 1 | 33 | 33 |
 
 # Shown Order
 
@@ -6827,3 +6827,4 @@
 - **Sep 11, 08:17 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
 - **Sep 11, 08:19 PM** - Webb Telescope Studies Hopeful Hint of Earthlike Atmosphere on Trappist-1e Planet (nyt)
 - **Sep 11, 08:35 PM** - White House comes out against Senate FY26 NDAA language on DoD spectrum rights (breaking_defense)
+- **Sep 11, 08:50 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
