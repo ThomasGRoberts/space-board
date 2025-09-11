@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 2 | 28 | 56 |
+| breaking_defense | 1 | 2 | 29 | 57 |
 | nyt | 1 | 4 | 29 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 4 | 4 |
@@ -6790,3 +6790,4 @@
 - **Sep 11, 04:59 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
 - **Sep 11, 05:02 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
 - **Sep 11, 05:05 PM** - NASA Rover Findings ‘Could Be the Clearest Sign of Life’ on Mars (nyt)
+- **Sep 11, 05:19 PM** - EXCLUSIVE: Space Development Agency Director Derek Tournear steps down (breaking_defense)
