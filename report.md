@@ -6803,4 +6803,4 @@
 - **Sep 12, 12:12 AM** - Tech Companies Show Off for Trump’s ‘Golden Dome’ (nyt)
 - **Sep 12, 12:27 AM** - Space Development Agency launches first ‘operational’ satellites for data relay (breaking_defense)
 - **Sep 12, 01:16 AM** - Live Video: Where and When to See the Blood Moon and Total Lunar Eclipse (nyt)
-- **Sep 12, 01:42 AM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
+- **Sep 12, 01:44 AM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
