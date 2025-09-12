@@ -5,7 +5,7 @@
 | nyt | 0 | 2 | 29 | 59 |
 | breaking_defense | 0 | 1 | 28 | 57 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 126 | 126 |
+| supercluster | 1 | 1 | 127 | 127 |
 
 # Shown Order
 
@@ -6965,3 +6965,4 @@
 - **Sep 12, 03:49 PM** - Russia Will Launch a Navigation Satellite (supercluster)
 - **Sep 12, 03:52 PM** - EXCLUSIVE: SDA eyeing airborne target tracking satellites demonstration, says Tournear (breaking_defense)
 - **Sep 12, 04:05 PM** - Happy 10th Birthday to the Laser Interferometer Gravitational-Wave Observatory. Now Drop Dead. (nyt)
+- **Sep 12, 04:20 PM** - Russia Will Launch a Navigation Satellite (supercluster)
