@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 4 | 27 | 57 |
-| breaking_defense | 0 | 2 | 26 | 56 |
+| breaking_defense | 0 | 2 | 27 | 57 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 63 | 63 |
 
@@ -6882,3 +6882,4 @@
 - **Sep 12, 08:49 AM** - Russia Will Launch a Navigation Satellite (supercluster)
 - **Sep 12, 08:52 AM** - Russia Will Launch a Navigation Satellite (supercluster)
 - **Sep 12, 08:53 AM** - Russia Will Launch a Navigation Satellite (supercluster)
+- **Sep 12, 08:55 AM** - Space Development Agency launches first ‘operational’ satellites for data relay (breaking_defense)
