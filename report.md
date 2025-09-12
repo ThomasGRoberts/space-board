@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 2 | 30 | 59 |
+| nyt | 1 | 2 | 31 | 60 |
 | breaking_defense | 0 | 0 | 29 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 189 | 189 |
@@ -7046,3 +7046,4 @@
 - **Sep 12, 10:46 PM** - Russia Will Launch a Navigation Satellite (supercluster)
 - **Sep 12, 10:47 PM** - Russia Will Launch a Navigation Satellite (supercluster)
 - **Sep 12, 10:49 PM** - EXCLUSIVE: Space Development Agency Director Derek Tournear steps down (breaking_defense)
+- **Sep 12, 11:05 PM** - NASA Rover Findings ‘Could Be the Clearest Sign of Life’ on Mars (nyt)
