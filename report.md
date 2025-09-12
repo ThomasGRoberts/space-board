@@ -5,7 +5,7 @@
 | nyt | 1 | 4 | 27 | 58 |
 | breaking_defense | 0 | 2 | 27 | 56 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 58 | 58 |
+| supercluster | 1 | 1 | 59 | 59 |
 
 # Shown Order
 
@@ -6877,3 +6877,4 @@
 - **Sep 12, 08:25 AM** - Tech Companies Show Off for Trump’s ‘Golden Dome’ (nyt)
 - **Sep 12, 08:39 AM** - Russia Will Launch a Navigation Satellite (supercluster)
 - **Sep 12, 08:42 AM** - Russia Will Launch a Navigation Satellite (supercluster)
+- **Sep 12, 08:45 AM** - Russia Will Launch a Navigation Satellite (supercluster)
