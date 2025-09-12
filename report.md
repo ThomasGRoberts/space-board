@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 2 | 31 | 59 |
+| nyt | 1 | 2 | 30 | 59 |
 | breaking_defense | 0 | 0 | 29 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 184 | 184 |
+| supercluster | 1 | 1 | 185 | 185 |
 
 # Shown Order
 
@@ -7040,3 +7040,4 @@
 - **Sep 12, 10:16 PM** - Video: Sunday and Monday’s Blood Moon and Total Lunar Eclipse (nyt)
 - **Sep 12, 10:35 PM** - Russia Will Launch a Navigation Satellite (supercluster)
 - **Sep 12, 10:37 PM** - Russia Will Launch a Navigation Satellite (supercluster)
+- **Sep 12, 10:39 PM** - Russia Will Launch a Navigation Satellite (supercluster)
