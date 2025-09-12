@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-12T00:02:24.246814+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c51c255a0c35f76e26dae724adcfe0c3",
+    "trigger_count": 0,
+    "current_item_id": "588326018094c9663c75208551b58a47",
     "data": [
         {
             "id": "da9b5e6f7790f2642f19d7eb3d32227b",
@@ -12288,17 +12288,17 @@
             ]
         },
         {
-            "id": "c51c255a0c35f76e26dae724adcfe0c3",
+            "id": "588326018094c9663c75208551b58a47",
             "source": "supercluster",
-            "text": "SpaceX Will Launch an Indonesian Communications Satellite",
-            "source_link": "https://www.supercluster.com/launches/satelit-nusantara-lima-snl",
+            "text": "Russia Will Launch a Navigation Satellite",
+            "source_link": "https://www.supercluster.com/launches/glonass-k2-18l",
             "shown": true,
             "type": "launch",
-            "target_datetime": "2025-09-12T01:29:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-09-12T02:27:55.867565Z",
+            "target_datetime": "2025-09-13T02:30:00.000Z",
+            "time_remaining": "1d 00h 00m",
+            "fetched_datetime": "2025-09-12T02:29:54.908675Z",
             "shown_at": [
-                "2025-09-12T02:27:56.723227Z"
+                "2025-09-12T02:29:56.076059Z"
             ]
         }
     ]
