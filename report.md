@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 4 | 28 | 58 |
-| breaking_defense | 0 | 2 | 27 | 56 |
+| breaking_defense | 0 | 2 | 28 | 57 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 112 | 112 |
 
@@ -6945,3 +6945,4 @@
 - **Sep 12, 02:17 PM** - Russia Will Launch a Navigation Satellite (supercluster)
 - **Sep 12, 02:19 PM** - Russia Will Launch a Navigation Satellite (supercluster)
 - **Sep 12, 02:21 PM** - Russia Will Launch a Navigation Satellite (supercluster)
+- **Sep 12, 02:23 PM** - EXCLUSIVE: SDA eyeing airborne target tracking satellites demonstration, says Tournear (breaking_defense)
