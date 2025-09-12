@@ -1,36 +1,9 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-12T00:02:24.246814+00:00",
-    "trigger_count": 6,
+    "trigger_count": 0,
     "current_item_id": "c51c255a0c35f76e26dae724adcfe0c3",
     "data": [
-        {
-            "id": "c51c255a0c35f76e26dae724adcfe0c3",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch an Indonesian Communications Satellite",
-            "source_link": "https://www.supercluster.com/launches/satelit-nusantara-lima-snl",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-09-12T00:59:00.000Z",
-            "time_remaining": "0d 00h 00m",
-            "fetched_datetime": "2025-09-11T23:55:21.159721Z",
-            "shown_at": [
-                "2025-09-11T23:55:21.816250Z",
-                "2025-09-11T23:57:55.160061Z",
-                "2025-09-11T23:59:42.631919Z",
-                "2025-09-12T00:02:25.056082Z",
-                "2025-09-12T00:06:08.525135Z",
-                "2025-09-12T00:08:04.044195Z",
-                "2025-09-12T00:09:36.126606Z",
-                "2025-09-12T00:45:46.923955Z",
-                "2025-09-12T00:47:54.036255Z",
-                "2025-09-12T00:49:41.456900Z",
-                "2025-09-12T00:52:06.735204Z",
-                "2025-09-12T00:54:12.858626Z",
-                "2025-09-12T00:56:04.670347Z",
-                "2025-09-12T00:58:06.753422Z"
-            ]
-        },
         {
             "id": "da9b5e6f7790f2642f19d7eb3d32227b",
             "source": "nyt",
@@ -12311,6 +12284,20 @@
                 "2025-06-03T10:09:53.303429Z",
                 "2025-06-04T03:17:27.547816Z",
                 "2025-06-05T03:37:27.645636Z"
+            ]
+        },
+        {
+            "id": "c51c255a0c35f76e26dae724adcfe0c3",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch an Indonesian Communications Satellite",
+            "source_link": "https://www.supercluster.com/launches/satelit-nusantara-lima-snl",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-09-12T01:29:00.000Z",
+            "time_remaining": "0d 00h 29m",
+            "fetched_datetime": "2025-09-12T00:59:43.773160Z",
+            "shown_at": [
+                "2025-09-12T00:59:44.414128Z"
             ]
         }
     ]

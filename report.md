@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 14 | 14 |
 | nyt | 1 | 4 | 28 | 58 |
 | breaking_defense | 0 | 2 | 29 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -6800,19 +6800,6 @@
 - **Sep 11, 10:52 PM** - Space Development Agency launches first ‘operational’ satellites for data relay (breaking_defense)
 - **Sep 11, 11:24 PM** - Tech Companies Show Off for Trump’s ‘Golden Dome’ (nyt)
 - **Sep 11, 11:41 PM** - EXCLUSIVE: SDA eyeing airborne target tracking satellites demonstration, says Tournear (breaking_defense)
-- **Sep 11, 11:55 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
-- **Sep 11, 11:57 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
-- **Sep 11, 11:59 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
-- **Sep 12, 12:02 AM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
-- **Sep 12, 12:06 AM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
-- **Sep 12, 12:08 AM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
-- **Sep 12, 12:09 AM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
 - **Sep 12, 12:12 AM** - Tech Companies Show Off for Trump’s ‘Golden Dome’ (nyt)
 - **Sep 12, 12:27 AM** - Space Development Agency launches first ‘operational’ satellites for data relay (breaking_defense)
-- **Sep 12, 12:45 AM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
-- **Sep 12, 12:47 AM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
-- **Sep 12, 12:49 AM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
-- **Sep 12, 12:52 AM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
-- **Sep 12, 12:54 AM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
-- **Sep 12, 12:56 AM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
-- **Sep 12, 12:58 AM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
+- **Sep 12, 12:59 AM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
