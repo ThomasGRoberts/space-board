@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 4 | 27 | 57 |
+| nyt | 0 | 4 | 28 | 58 |
 | breaking_defense | 0 | 2 | 28 | 57 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 77 | 77 |
@@ -6901,3 +6901,4 @@
 - **Sep 12, 10:23 AM** - Russia Will Launch a Navigation Satellite (supercluster)
 - **Sep 12, 10:25 AM** - Russia Will Launch a Navigation Satellite (supercluster)
 - **Sep 12, 10:27 AM** - Space Development Agency launches first ‘operational’ satellites for data relay (breaking_defense)
+- **Sep 12, 10:42 AM** - Webb Telescope Studies Hopeful Hint of Earthlike Atmosphere on Trappist-1e Planet (nyt)
