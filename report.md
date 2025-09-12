@@ -5,7 +5,7 @@
 | nyt | 1 | 4 | 27 | 57 |
 | breaking_defense | 0 | 2 | 27 | 56 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 29 | 29 |
+| supercluster | 1 | 1 | 30 | 30 |
 
 # Shown Order
 
@@ -6840,3 +6840,4 @@
 - **Sep 12, 05:02 AM** - EXCLUSIVE: SDA eyeing airborne target tracking satellites demonstration, says Tournear (breaking_defense)
 - **Sep 12, 05:18 AM** - Video: Sunday and Monday’s Blood Moon and Total Lunar Eclipse (nyt)
 - **Sep 12, 05:32 AM** - Russia Will Launch a Navigation Satellite (supercluster)
+- **Sep 12, 05:35 AM** - Russia Will Launch a Navigation Satellite (supercluster)
