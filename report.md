@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 9 | 9 |
+| supercluster | 1 | 1 | 10 | 10 |
 | nyt | 1 | 4 | 28 | 58 |
 | breaking_defense | 0 | 2 | 29 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
@@ -6811,3 +6811,4 @@
 - **Sep 12, 12:27 AM** - Space Development Agency launches first ‘operational’ satellites for data relay (breaking_defense)
 - **Sep 12, 12:45 AM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
 - **Sep 12, 12:47 AM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
+- **Sep 12, 12:49 AM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
