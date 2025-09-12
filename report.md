@@ -5,7 +5,7 @@
 | nyt | 1 | 2 | 30 | 59 |
 | breaking_defense | 0 | 1 | 29 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 147 | 147 |
+| supercluster | 1 | 1 | 148 | 148 |
 
 # Shown Order
 
@@ -6993,3 +6993,4 @@
 - **Sep 12, 06:13 PM** - Russia Will Launch a Navigation Satellite (supercluster)
 - **Sep 12, 06:16 PM** - EXCLUSIVE: SDA eyeing airborne target tracking satellites demonstration, says Tournear (breaking_defense)
 - **Sep 12, 06:30 PM** - NASA Rover Findings ‘Could be the Clearest Sign of Life’ on Mars (nyt)
+- **Sep 12, 06:46 PM** - Russia Will Launch a Navigation Satellite (supercluster)
