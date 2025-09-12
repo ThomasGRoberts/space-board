@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-12T00:02:24.246814+00:00",
-    "trigger_count": 6,
-    "current_item_id": "da9b5e6f7790f2642f19d7eb3d32227b",
+    "trigger_count": 0,
+    "current_item_id": "aba0d88b50979e3c04e378e66cf890be",
     "data": [
         {
             "id": "da9b5e6f7790f2642f19d7eb3d32227b",
@@ -12478,6 +12478,18 @@
                 "2025-09-12T17:12:08.827329Z",
                 "2025-09-12T17:13:47.114605Z",
                 "2025-09-12T17:15:45.367884Z"
+            ]
+        },
+        {
+            "id": "aba0d88b50979e3c04e378e66cf890be",
+            "source": "nyt",
+            "text": "A Defender of Darkness in the Darkest Place on Earth",
+            "source_link": "https://www.nytimes.com/2025/09/12/world/americas/chile-astronomer-atacama-light-pollution.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-12T17:45:51.020055Z",
+            "shown_at": [
+                "2025-09-12T17:45:51.590427Z"
             ]
         }
     ]
