@@ -5,7 +5,7 @@
 | nyt | 0 | 4 | 28 | 58 |
 | breaking_defense | 0 | 2 | 27 | 56 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 99 | 99 |
+| supercluster | 1 | 1 | 100 | 100 |
 
 # Shown Order
 
@@ -6930,3 +6930,4 @@
 - **Sep 12, 12:52 PM** - Space Development Agency launches first ‘operational’ satellites for data relay (breaking_defense)
 - **Sep 12, 01:07 PM** - Was There Life on Mars? A Rock Found by NASA Keeps Getting More Interesting. (nyt)
 - **Sep 12, 01:22 PM** - Russia Will Launch a Navigation Satellite (supercluster)
+- **Sep 12, 01:25 PM** - Russia Will Launch a Navigation Satellite (supercluster)
