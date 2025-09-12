@@ -5,7 +5,7 @@
 | nyt | 1 | 2 | 31 | 59 |
 | breaking_defense | 0 | 1 | 29 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 161 | 161 |
+| supercluster | 1 | 1 | 162 | 162 |
 
 # Shown Order
 
@@ -7011,3 +7011,4 @@
 - **Sep 12, 07:45 PM** - Russia Will Launch a Navigation Satellite (supercluster)
 - **Sep 12, 07:47 PM** - EXCLUSIVE: SDA eyeing airborne target tracking satellites demonstration, says Tournear (breaking_defense)
 - **Sep 12, 08:02 PM** - Tech Companies Show Off for Trump’s ‘Golden Dome’ (nyt)
+- **Sep 12, 08:17 PM** - Russia Will Launch a Navigation Satellite (supercluster)
