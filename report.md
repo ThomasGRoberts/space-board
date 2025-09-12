@@ -5,7 +5,7 @@
 | nyt | 1 | 2 | 30 | 59 |
 | breaking_defense | 0 | 1 | 29 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 140 | 140 |
+| supercluster | 1 | 1 | 141 | 141 |
 
 # Shown Order
 
@@ -6984,3 +6984,4 @@
 - **Sep 12, 05:17 PM** - White House comes out against Senate FY26 NDAA language on DoD spectrum rights (breaking_defense)
 - **Sep 12, 05:32 PM** - NASA Rover Findings ‘Could Be the Clearest Sign of Life’ on Mars (nyt)
 - **Sep 12, 05:45 PM** - A Defender of Darkness in the Darkest Place on Earth (nyt)
+- **Sep 12, 05:59 PM** - Russia Will Launch a Navigation Satellite (supercluster)
