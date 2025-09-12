@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 4 | 27 | 57 |
+| nyt | 1 | 4 | 28 | 58 |
 | breaking_defense | 0 | 2 | 27 | 57 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 49 | 49 |
@@ -6865,3 +6865,4 @@
 - **Sep 12, 07:19 AM** - Russia Will Launch a Navigation Satellite (supercluster)
 - **Sep 12, 07:21 AM** - Russia Will Launch a Navigation Satellite (supercluster)
 - **Sep 12, 07:23 AM** - White House comes out against Senate FY26 NDAA language on DoD spectrum rights (breaking_defense)
+- **Sep 12, 07:38 AM** - Live Video: How to Watch the Blood Moon and Total Lunar Eclipse (nyt)
