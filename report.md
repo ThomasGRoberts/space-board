@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 2 | 30 | 59 |
+| nyt | 1 | 2 | 31 | 60 |
 | breaking_defense | 0 | 1 | 29 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 154 | 154 |
@@ -7001,3 +7001,4 @@
 - **Sep 12, 06:57 PM** - Russia Will Launch a Navigation Satellite (supercluster)
 - **Sep 12, 06:59 PM** - Russia Will Launch a Navigation Satellite (supercluster)
 - **Sep 12, 07:02 PM** - EXCLUSIVE: SDA eyeing airborne target tracking satellites demonstration, says Tournear (breaking_defense)
+- **Sep 12, 07:18 PM** - A Defender of Darkness in the Darkest Place on Earth (nyt)
