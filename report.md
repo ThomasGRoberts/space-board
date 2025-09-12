@@ -5,7 +5,7 @@
 | nyt | 1 | 2 | 31 | 59 |
 | breaking_defense | 0 | 0 | 29 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 182 | 182 |
+| supercluster | 1 | 1 | 183 | 183 |
 
 # Shown Order
 
@@ -7038,3 +7038,4 @@
 - **Sep 12, 09:57 PM** - Russia Will Launch a Navigation Satellite (supercluster)
 - **Sep 12, 09:59 PM** - EXCLUSIVE: Space Development Agency Director Derek Tournear steps down (breaking_defense)
 - **Sep 12, 10:16 PM** - Video: Sunday and Monday’s Blood Moon and Total Lunar Eclipse (nyt)
+- **Sep 12, 10:35 PM** - Russia Will Launch a Navigation Satellite (supercluster)
