@@ -2,14 +2,13 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 2 | 29 | 57 |
+| supercluster | 1 | 1 | 4 | 4 |
 | nyt | 1 | 4 | 28 | 57 |
+| breaking_defense | 0 | 2 | 29 | 57 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
-- **May 29, 09:01 PM** - China launches classified Shijan-26 satellite with Long March 4B rocket (spacenews)
 - **May 29, 10:43 PM** - With strategic acquisitions, Rocket Lab pursues prime defense contractor status (spacenews)
 - **May 30, 02:34 AM** - With strategic acquisitions, Rocket Lab pursues prime defense contractor status (spacenews)
 - **May 30, 10:13 AM** - China’s Astronstone raises early funding for stainless steel rocket with “chopstick” recovery (spacenews)
@@ -64,7 +63,6 @@
 - **Jun 01, 11:51 PM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
 - **Jun 02, 12:47 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **Jun 02, 02:43 AM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
-- **Jun 02, 03:27 AM** - China launches classified Shijan-26 satellite with Long March 4B rocket (spacenews)
 - **Jun 02, 03:41 AM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
 - **Jun 02, 04:37 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **Jun 02, 06:33 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
@@ -135,7 +133,6 @@
 - **Jun 03, 10:25 PM** - Impulse Space raises $300 million for expansion and new technology development (spacenews)
 - **Jun 03, 10:53 PM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
 - **Jun 03, 11:07 PM** - Trump to Withdraw Musk’s Ally as Nominee for Top NASA Job (nyt)
-- **Jun 03, 11:21 PM** - China launches classified Shijan-26 satellite with Long March 4B rocket (spacenews)
 - **Jun 03, 11:53 PM** - Space Force awards BAE $1.2B for missile warning sats in MEO (breaking_defense)
 - **Jun 04, 12:21 AM** - China’s Astronstone raises early funding for stainless steel rocket with “chopstick” recovery (spacenews)
 - **Jun 04, 12:49 AM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
@@ -6806,3 +6803,4 @@
 - **Sep 11, 11:55 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
 - **Sep 11, 11:57 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
 - **Sep 11, 11:59 PM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
+- **Sep 12, 12:02 AM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)

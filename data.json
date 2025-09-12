@@ -1,9 +1,41 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-09-11T00:02:15.321663+00:00",
-    "trigger_count": 2,
+    "last_run_datetime": "2025-09-12T00:02:24.246814+00:00",
+    "trigger_count": 3,
     "current_item_id": "c51c255a0c35f76e26dae724adcfe0c3",
     "data": [
+        {
+            "id": "c51c255a0c35f76e26dae724adcfe0c3",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch an Indonesian Communications Satellite",
+            "source_link": "https://www.supercluster.com/launches/satelit-nusantara-lima-snl",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-09-12T00:59:00.000Z",
+            "time_remaining": "0d 00h 56m",
+            "fetched_datetime": "2025-09-11T23:55:21.159721Z",
+            "shown_at": [
+                "2025-09-11T23:55:21.816250Z",
+                "2025-09-11T23:57:55.160061Z",
+                "2025-09-11T23:59:42.631919Z",
+                "2025-09-12T00:02:25.056082Z"
+            ]
+        },
+        {
+            "id": "da9b5e6f7790f2642f19d7eb3d32227b",
+            "source": "nyt",
+            "text": "NASA Rover Findings ‘Could Be the Clearest Sign of Life’ on Mars",
+            "source_link": "https://www.nytimes.com/2025/09/10/science/mars-rock-nasa-perserverance.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-11T09:17:52.369776Z",
+            "shown_at": [
+                "2025-09-11T09:17:53.017619Z",
+                "2025-09-11T09:59:37.160101Z",
+                "2025-09-11T13:43:46.364708Z",
+                "2025-09-11T17:05:48.750433Z"
+            ]
+        },
         {
             "id": "aca09d16585cd250550762e27ddd8215",
             "source": "breaking_defense",
@@ -12267,51 +12299,6 @@
                 "2025-06-03T10:09:53.303429Z",
                 "2025-06-04T03:17:27.547816Z",
                 "2025-06-05T03:37:27.645636Z"
-            ]
-        },
-        {
-            "id": "8386157d6082889d1409de228b679b8f",
-            "source": "spacenews",
-            "text": "China launches classified Shijan-26 satellite with Long March 4B rocket",
-            "source_link": "https://spacenews.com/china-launches-classified-shijan-26-satellite-with-long-march-4b-rocket/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-05-29T21:01:55.200056Z",
-            "shown_at": [
-                "2025-05-29T21:01:55.812927Z",
-                "2025-06-02T03:27:43.111026Z",
-                "2025-06-03T23:21:35.069391Z"
-            ]
-        },
-        {
-            "id": "da9b5e6f7790f2642f19d7eb3d32227b",
-            "source": "nyt",
-            "text": "NASA Rover Findings ‘Could Be the Clearest Sign of Life’ on Mars",
-            "source_link": "https://www.nytimes.com/2025/09/10/science/mars-rock-nasa-perserverance.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-11T09:17:52.369776Z",
-            "shown_at": [
-                "2025-09-11T09:17:53.017619Z",
-                "2025-09-11T09:59:37.160101Z",
-                "2025-09-11T13:43:46.364708Z",
-                "2025-09-11T17:05:48.750433Z"
-            ]
-        },
-        {
-            "id": "c51c255a0c35f76e26dae724adcfe0c3",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch an Indonesian Communications Satellite",
-            "source_link": "https://www.supercluster.com/launches/satelit-nusantara-lima-snl",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-09-12T00:59:00.000Z",
-            "time_remaining": "0d 00h 59m",
-            "fetched_datetime": "2025-09-11T23:55:21.159721Z",
-            "shown_at": [
-                "2025-09-11T23:55:21.816250Z",
-                "2025-09-11T23:57:55.160061Z",
-                "2025-09-11T23:59:42.631919Z"
             ]
         }
     ]
