@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-12T00:02:24.246814+00:00",
-    "trigger_count": 6,
-    "current_item_id": "20ef45c42e4c39bdcd95defd1eb4d9ac",
+    "trigger_count": 0,
+    "current_item_id": "c51c255a0c35f76e26dae724adcfe0c3",
     "data": [
         {
             "id": "da9b5e6f7790f2642f19d7eb3d32227b",
@@ -12285,6 +12285,20 @@
                 "2025-06-03T10:09:53.303429Z",
                 "2025-06-04T03:17:27.547816Z",
                 "2025-06-05T03:37:27.645636Z"
+            ]
+        },
+        {
+            "id": "c51c255a0c35f76e26dae724adcfe0c3",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch an Indonesian Communications Satellite",
+            "source_link": "https://www.supercluster.com/launches/satelit-nusantara-lima-snl",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-09-12T01:29:00.000Z",
+            "time_remaining": "",
+            "fetched_datetime": "2025-09-12T01:32:24.239341Z",
+            "shown_at": [
+                "2025-09-12T01:32:24.787299Z"
             ]
         }
     ]

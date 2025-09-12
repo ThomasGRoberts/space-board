@@ -5,6 +5,7 @@
 | nyt | 1 | 4 | 28 | 58 |
 | breaking_defense | 0 | 2 | 28 | 57 |
 | spacenews | 0 | 0 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -6802,3 +6803,4 @@
 - **Sep 12, 12:12 AM** - Tech Companies Show Off for Trump’s ‘Golden Dome’ (nyt)
 - **Sep 12, 12:27 AM** - Space Development Agency launches first ‘operational’ satellites for data relay (breaking_defense)
 - **Sep 12, 01:16 AM** - Live Video: Where and When to See the Blood Moon and Total Lunar Eclipse (nyt)
+- **Sep 12, 01:32 AM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
