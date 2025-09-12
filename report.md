@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 4 | 27 | 57 |
+| nyt | 0 | 4 | 28 | 58 |
 | breaking_defense | 0 | 2 | 28 | 57 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 91 | 91 |
@@ -6919,3 +6919,4 @@
 - **Sep 12, 11:57 AM** - Russia Will Launch a Navigation Satellite (supercluster)
 - **Sep 12, 11:59 AM** - Russia Will Launch a Navigation Satellite (supercluster)
 - **Sep 12, 12:02 PM** - White House comes out against Senate FY26 NDAA language on DoD spectrum rights (breaking_defense)
+- **Sep 12, 12:19 PM** - Was There Life on Mars? A Rock Found by NASA Keeps Getting More Interesting. (nyt)
