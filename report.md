@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 4 | 27 | 58 |
-| breaking_defense | 0 | 2 | 27 | 56 |
+| nyt | 0 | 4 | 27 | 57 |
+| breaking_defense | 0 | 2 | 26 | 56 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 68 | 68 |
+| supercluster | 1 | 1 | 69 | 69 |
 
 # Shown Order
 
@@ -6889,3 +6889,4 @@
 - **Sep 12, 09:27 AM** - Russia Will Launch a Navigation Satellite (supercluster)
 - **Sep 12, 09:29 AM** - Russia Will Launch a Navigation Satellite (supercluster)
 - **Sep 12, 09:32 AM** - Russia Will Launch a Navigation Satellite (supercluster)
+- **Sep 12, 09:35 AM** - Russia Will Launch a Navigation Satellite (supercluster)
