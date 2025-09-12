@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 7 | 7 |
+| supercluster | 1 | 1 | 8 | 8 |
 | nyt | 1 | 4 | 29 | 58 |
 | breaking_defense | 0 | 2 | 29 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
@@ -6809,3 +6809,4 @@
 - **Sep 12, 12:09 AM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
 - **Sep 12, 12:12 AM** - Tech Companies Show Off for Trump’s ‘Golden Dome’ (nyt)
 - **Sep 12, 12:27 AM** - Space Development Agency launches first ‘operational’ satellites for data relay (breaking_defense)
+- **Sep 12, 12:45 AM** - SpaceX Will Launch an Indonesian Communications Satellite (supercluster)
