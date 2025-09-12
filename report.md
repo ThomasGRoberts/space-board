@@ -5,7 +5,7 @@
 | nyt | 0 | 4 | 27 | 58 |
 | breaking_defense | 0 | 2 | 27 | 56 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 65 | 65 |
+| supercluster | 1 | 1 | 66 | 66 |
 
 # Shown Order
 
@@ -6886,3 +6886,4 @@
 - **Sep 12, 09:09 AM** - Where and When to See the Blood Moon and Total Lunar Eclipse (nyt)
 - **Sep 12, 09:23 AM** - Russia Will Launch a Navigation Satellite (supercluster)
 - **Sep 12, 09:25 AM** - Russia Will Launch a Navigation Satellite (supercluster)
+- **Sep 12, 09:27 AM** - Russia Will Launch a Navigation Satellite (supercluster)
