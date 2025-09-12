@@ -5,7 +5,7 @@
 | nyt | 1 | 4 | 27 | 57 |
 | breaking_defense | 0 | 2 | 27 | 56 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 43 | 43 |
+| supercluster | 1 | 1 | 44 | 44 |
 
 # Shown Order
 
@@ -6858,3 +6858,4 @@
 - **Sep 12, 06:38 AM** - Space Development Agency launches first ‘operational’ satellites for data relay (breaking_defense)
 - **Sep 12, 06:52 AM** - Happy 10th Birthday to the Laser Interferometer Gravitational-Wave Observatory. Now Drop Dead. (nyt)
 - **Sep 12, 07:08 AM** - Russia Will Launch a Navigation Satellite (supercluster)
+- **Sep 12, 07:09 AM** - Russia Will Launch a Navigation Satellite (supercluster)
