@@ -6857,4 +6857,4 @@
 - **Sep 13, 01:17 AM** - Live Video: Where and When to See the Blood Moon and Total Lunar Eclipse (nyt)
 - **Sep 13, 01:49 AM** - White House comes out against Senate FY26 NDAA language on DoD spectrum rights (breaking_defense)
 - **Sep 13, 02:05 AM** - Live Video: How to Watch the Blood Moon and Total Lunar Eclipse (nyt)
-- **Sep 13, 02:45 AM** - Russia Will Launch a Navigation Satellite (supercluster)
+- **Sep 13, 02:47 AM** - Russia Will Launch a Navigation Satellite (supercluster)
