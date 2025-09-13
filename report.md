@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 30 | 60 |
-| breaking_defense | 0 | 0 | 29 | 58 |
+| breaking_defense | 0 | 0 | 30 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 30 | 30 |
 
@@ -6935,3 +6935,4 @@
 - **Sep 13, 09:53 PM** - SpaceX Will Launch the Cygnus Spacecraft to the ISS (supercluster)
 - **Sep 13, 09:55 PM** - SpaceX Will Launch the Cygnus Spacecraft to the ISS (supercluster)
 - **Sep 13, 09:57 PM** - Tech Companies Show Off for Trump’s ‘Golden Dome’ (nyt)
+- **Sep 13, 10:14 PM** - EXCLUSIVE: SDA eyeing airborne target tracking satellites demonstration, says Tournear (breaking_defense)
