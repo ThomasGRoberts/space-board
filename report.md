@@ -5,7 +5,7 @@
 | nyt | 1 | 2 | 31 | 58 |
 | breaking_defense | 0 | 0 | 30 | 57 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 5 | 5 |
+| supercluster | 1 | 1 | 6 | 6 |
 
 # Shown Order
 
@@ -6864,3 +6864,4 @@
 - **Sep 13, 03:22 AM** - EXCLUSIVE: Space Development Agency Director Derek Tournear steps down (breaking_defense)
 - **Sep 13, 03:39 AM** - Video: Sunday and Monday’s Blood Moon and Total Lunar Eclipse (nyt)
 - **Sep 13, 03:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 13, 03:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
