@@ -5,7 +5,7 @@
 | nyt | 1 | 2 | 32 | 59 |
 | breaking_defense | 0 | 0 | 30 | 57 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 48 | 48 |
+| supercluster | 1 | 1 | 49 | 49 |
 
 # Shown Order
 
@@ -6919,3 +6919,4 @@
 - **Sep 13, 08:03 AM** - Tech Companies Show Off for Trump’s ‘Golden Dome’ (nyt)
 - **Sep 13, 08:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 13, 08:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 13, 08:21 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
