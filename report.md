@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 31 | 58 |
-| breaking_defense | 0 | 0 | 30 | 57 |
+| breaking_defense | 0 | 0 | 30 | 56 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -6859,3 +6859,4 @@
 - **Sep 13, 02:05 AM** - Live Video: How to Watch the Blood Moon and Total Lunar Eclipse (nyt)
 - **Sep 13, 03:12 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 13, 03:15 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 13, 03:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
