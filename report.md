@@ -5,7 +5,7 @@
 | nyt | 0 | 1 | 29 | 60 |
 | breaking_defense | 0 | 0 | 30 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 44 | 44 |
+| supercluster | 1 | 1 | 45 | 45 |
 
 # Shown Order
 
@@ -6954,3 +6954,4 @@
 - **Sep 13, 11:27 PM** - SpaceX Will Launch the Cygnus Spacecraft to the ISS (supercluster)
 - **Sep 13, 11:30 PM** - NASA Rover Findings ‘Could Be the Clearest Sign of Life’ on Mars (nyt)
 - **Sep 13, 11:46 PM** - EXCLUSIVE: SDA eyeing airborne target tracking satellites demonstration, says Tournear (breaking_defense)
+- **Sep 13, 11:59 PM** - SpaceX Will Launch the Cygnus Spacecraft to the ISS (supercluster)
