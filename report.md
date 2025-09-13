@@ -5,7 +5,6 @@
 | nyt | 0 | 1 | 30 | 60 |
 | breaking_defense | 0 | 0 | 31 | 60 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 14 | 14 |
 
 # Shown Order
 
@@ -6892,21 +6891,7 @@
 - **Sep 13, 03:27 PM** - Space Development Agency launches first ‘operational’ satellites for data relay (breaking_defense)
 - **Sep 13, 03:44 PM** - Happy 10th Birthday to the Laser Interferometer Gravitational-Wave Observatory. Now Drop Dead. (nyt)
 - **Sep 13, 04:14 PM** - EXCLUSIVE: Space Development Agency Director Derek Tournear steps down (breaking_defense)
-- **Sep 13, 04:30 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Sep 13, 04:32 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Sep 13, 04:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Sep 13, 04:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Sep 13, 04:38 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Sep 13, 04:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Sep 13, 04:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 13, 04:43 PM** - Video: Sunday and Monday’s Blood Moon and Total Lunar Eclipse (nyt)
 - **Sep 13, 04:57 PM** - EXCLUSIVE: SDA eyeing airborne target tracking satellites demonstration, says Tournear (breaking_defense)
-- **Sep 13, 05:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Sep 13, 05:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Sep 13, 05:17 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Sep 13, 05:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Sep 13, 05:21 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Sep 13, 05:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Sep 13, 05:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 13, 05:27 PM** - Tech Companies Show Off for Trump’s ‘Golden Dome’ (nyt)
 - **Sep 13, 05:43 PM** - EXCLUSIVE: Space Development Agency Director Derek Tournear steps down (breaking_defense)
