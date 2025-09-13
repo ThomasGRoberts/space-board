@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 31 | 60 |
-| breaking_defense | 0 | 0 | 30 | 58 |
+| breaking_defense | 0 | 0 | 31 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 123 | 123 |
 
@@ -7014,3 +7014,4 @@
 - **Sep 13, 04:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 13, 04:09 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 13, 04:12 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 13, 04:14 PM** - EXCLUSIVE: Space Development Agency Director Derek Tournear steps down (breaking_defense)
