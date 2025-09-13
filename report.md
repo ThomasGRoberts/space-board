@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 30 | 60 |
-| breaking_defense | 0 | 0 | 29 | 58 |
+| breaking_defense | 0 | 0 | 30 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 37 | 37 |
 
@@ -6944,3 +6944,4 @@
 - **Sep 13, 10:39 PM** - SpaceX Will Launch the Cygnus Spacecraft to the ISS (supercluster)
 - **Sep 13, 10:42 PM** - SpaceX Will Launch the Cygnus Spacecraft to the ISS (supercluster)
 - **Sep 13, 10:45 PM** - A Defender of Darkness in the Darkest Place on Earth (nyt)
+- **Sep 13, 10:59 PM** - White House comes out against Senate FY26 NDAA language on DoD spectrum rights (breaking_defense)
