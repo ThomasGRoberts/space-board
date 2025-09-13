@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 31 | 60 |
+| nyt | 1 | 1 | 32 | 61 |
 | breaking_defense | 0 | 0 | 30 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 7 | 7 |
@@ -6899,3 +6899,4 @@
 - **Sep 13, 04:38 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 13, 04:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 13, 04:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 13, 04:43 PM** - Video: Sunday and Monday’s Blood Moon and Total Lunar Eclipse (nyt)
