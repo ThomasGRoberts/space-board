@@ -5,7 +5,7 @@
 | nyt | 0 | 1 | 29 | 60 |
 | breaking_defense | 0 | 0 | 30 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 24 | 24 |
+| supercluster | 1 | 1 | 25 | 25 |
 
 # Shown Order
 
@@ -6928,3 +6928,4 @@
 - **Sep 13, 09:09 PM** - NASA Rover Findings ‘Could be the Clearest Sign of Life’ on Mars (nyt)
 - **Sep 13, 09:23 PM** - EXCLUSIVE: Space Development Agency Director Derek Tournear steps down (breaking_defense)
 - **Sep 13, 09:42 PM** - SpaceX Will Launch the Cygnus Spacecraft to the ISS (supercluster)
+- **Sep 13, 09:45 PM** - SpaceX Will Launch the Cygnus Spacecraft to the ISS (supercluster)
