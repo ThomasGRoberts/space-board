@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 30 | 59 |
 | supercluster | 1 | 1 | 203 | 203 |
-| breaking_defense | 0 | 0 | 29 | 58 |
+| breaking_defense | 0 | 0 | 30 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -7054,3 +7054,4 @@
 - **Sep 13, 12:12 AM** - Russia Will Launch a Navigation Satellite (supercluster)
 - **Sep 13, 12:13 AM** - Russia Will Launch a Navigation Satellite (supercluster)
 - **Sep 13, 12:15 AM** - Russia Will Launch a Navigation Satellite (supercluster)
+- **Sep 13, 12:17 AM** - Space Development Agency launches first ‘operational’ satellites for data relay (breaking_defense)
