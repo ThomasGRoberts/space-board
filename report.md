@@ -5,7 +5,7 @@
 | nyt | 1 | 2 | 32 | 59 |
 | breaking_defense | 0 | 0 | 30 | 57 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 41 | 41 |
+| supercluster | 1 | 1 | 42 | 42 |
 
 # Shown Order
 
@@ -6910,3 +6910,4 @@
 - **Sep 13, 07:20 AM** - Happy 10th Birthday to the Laser Interferometer Gravitational-Wave Observatory. Now Drop Dead. (nyt)
 - **Sep 13, 07:34 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 13, 07:36 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 13, 07:37 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
