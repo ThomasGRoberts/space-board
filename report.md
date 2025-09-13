@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 31 | 60 |
 | breaking_defense | 0 | 0 | 31 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -6894,3 +6894,4 @@
 - **Sep 13, 04:14 PM** - EXCLUSIVE: Space Development Agency Director Derek Tournear steps down (breaking_defense)
 - **Sep 13, 04:30 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 13, 04:32 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 13, 04:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
