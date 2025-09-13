@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 2 | 31 | 58 |
+| nyt | 1 | 2 | 32 | 59 |
 | breaking_defense | 0 | 0 | 31 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 53 | 53 |
@@ -6925,3 +6925,4 @@
 - **Sep 13, 08:27 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 13, 08:29 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 13, 08:32 AM** - EXCLUSIVE: Space Development Agency Director Derek Tournear steps down (breaking_defense)
+- **Sep 13, 08:47 AM** - Was There Life on Mars? A Rock Found by NASA Keeps Getting More Interesting. (nyt)
