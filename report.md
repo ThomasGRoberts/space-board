@@ -5,7 +5,7 @@
 | nyt | 1 | 2 | 31 | 58 |
 | breaking_defense | 0 | 0 | 30 | 57 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 12 | 12 |
+| supercluster | 1 | 1 | 13 | 13 |
 
 # Shown Order
 
@@ -6873,3 +6873,4 @@
 - **Sep 13, 04:12 AM** - White House comes out against Senate FY26 NDAA language on DoD spectrum rights (breaking_defense)
 - **Sep 13, 04:25 AM** - A Defender of Darkness in the Darkest Place on Earth (nyt)
 - **Sep 13, 04:42 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 13, 04:43 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
