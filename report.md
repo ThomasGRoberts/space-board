@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 32 | 60 |
-| breaking_defense | 0 | 0 | 31 | 58 |
+| breaking_defense | 0 | 0 | 30 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 102 | 102 |
+| supercluster | 1 | 1 | 103 | 103 |
 
 # Shown Order
 
@@ -6989,3 +6989,4 @@
 - **Sep 13, 01:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 13, 01:56 PM** - White House comes out against Senate FY26 NDAA language on DoD spectrum rights (breaking_defense)
 - **Sep 13, 02:12 PM** - Live Video: Where and When to See the Blood Moon and Total Lunar Eclipse (nyt)
+- **Sep 13, 02:26 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
