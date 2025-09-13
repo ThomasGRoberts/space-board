@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 2 | 30 | 59 |
+| nyt | 1 | 2 | 31 | 60 |
 | supercluster | 1 | 1 | 203 | 203 |
 | breaking_defense | 0 | 0 | 29 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
@@ -7055,3 +7055,4 @@
 - **Sep 13, 12:13 AM** - Russia Will Launch a Navigation Satellite (supercluster)
 - **Sep 13, 12:15 AM** - Russia Will Launch a Navigation Satellite (supercluster)
 - **Sep 13, 12:17 AM** - Space Development Agency launches first ‘operational’ satellites for data relay (breaking_defense)
+- **Sep 13, 12:36 AM** - Live Video: How to Watch the Blood Moon and Total Lunar Eclipse (nyt)
