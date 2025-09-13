@@ -5,7 +5,7 @@
 | nyt | 1 | 2 | 31 | 58 |
 | breaking_defense | 0 | 0 | 30 | 57 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -6858,3 +6858,4 @@
 - **Sep 13, 01:49 AM** - White House comes out against Senate FY26 NDAA language on DoD spectrum rights (breaking_defense)
 - **Sep 13, 02:05 AM** - Live Video: How to Watch the Blood Moon and Total Lunar Eclipse (nyt)
 - **Sep 13, 03:12 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 13, 03:15 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
