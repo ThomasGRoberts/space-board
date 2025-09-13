@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 1 | 29 | 59 |
+| nyt | 0 | 1 | 30 | 60 |
 | breaking_defense | 0 | 0 | 30 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 44 | 44 |
@@ -6952,3 +6952,4 @@
 - **Sep 13, 11:23 PM** - SpaceX Will Launch the Cygnus Spacecraft to the ISS (supercluster)
 - **Sep 13, 11:25 PM** - SpaceX Will Launch the Cygnus Spacecraft to the ISS (supercluster)
 - **Sep 13, 11:27 PM** - SpaceX Will Launch the Cygnus Spacecraft to the ISS (supercluster)
+- **Sep 13, 11:30 PM** - NASA Rover Findings ‘Could Be the Clearest Sign of Life’ on Mars (nyt)
