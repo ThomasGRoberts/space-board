@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 32 | 59 |
 | breaking_defense | 0 | 0 | 30 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 68 | 68 |
+| supercluster | 1 | 1 | 69 | 69 |
 
 # Shown Order
 
@@ -6945,3 +6945,4 @@
 - **Sep 13, 10:05 AM** - White House comes out against Senate FY26 NDAA language on DoD spectrum rights (breaking_defense)
 - **Sep 13, 10:20 AM** - NASA Rover Findings ‘Could be the Clearest Sign of Life’ on Mars (nyt)
 - **Sep 13, 10:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 13, 10:37 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
