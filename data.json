@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-13T00:02:29.999370+00:00",
-    "trigger_count": 4,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 5,
+    "current_item_id": "ed3ea3b36cbc7300242fd7d859719280",
     "data": [
         {
             "id": "aba0d88b50979e3c04e378e66cf890be",
@@ -12381,15 +12381,18 @@
             ]
         },
         {
-            "id": "4beba9b243fe616fcb8e7be8d963bbc1",
+            "id": "ed3ea3b36cbc7300242fd7d859719280",
             "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from California",
-            "source_link": "https://www.supercluster.com/launches/starlink-17-10",
-            "shown": false,
+            "text": "SpaceX Will Launch the Cygnus Spacecraft to the ISS",
+            "source_link": "https://www.supercluster.com/launches/crs-ng-23",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-09-13T17:55:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-09-13T18:53:51.817200Z"
+            "target_datetime": "2025-09-14T22:11:00.000Z",
+            "time_remaining": "1d 03h 15m",
+            "fetched_datetime": "2025-09-13T18:55:42.298223Z",
+            "shown_at": [
+                "2025-09-13T18:55:42.813296Z"
+            ]
         }
     ]
 }
