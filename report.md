@@ -5,6 +5,7 @@
 | nyt | 1 | 1 | 31 | 60 |
 | breaking_defense | 0 | 0 | 31 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -6891,3 +6892,4 @@
 - **Sep 13, 03:27 PM** - Space Development Agency launches first ‘operational’ satellites for data relay (breaking_defense)
 - **Sep 13, 03:44 PM** - Happy 10th Birthday to the Laser Interferometer Gravitational-Wave Observatory. Now Drop Dead. (nyt)
 - **Sep 13, 04:14 PM** - EXCLUSIVE: Space Development Agency Director Derek Tournear steps down (breaking_defense)
+- **Sep 13, 04:30 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
