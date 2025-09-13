@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 32 | 59 |
 | breaking_defense | 0 | 0 | 30 | 57 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 61 | 61 |
+| supercluster | 1 | 1 | 62 | 62 |
 
 # Shown Order
 
@@ -6936,3 +6936,4 @@
 - **Sep 13, 09:18 AM** - Space Development Agency launches first ‘operational’ satellites for data relay (breaking_defense)
 - **Sep 13, 09:32 AM** - Video: Sunday and Monday’s Blood Moon and Total Lunar Eclipse (nyt)
 - **Sep 13, 09:48 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 13, 09:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
