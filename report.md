@@ -5,6 +5,7 @@
 | nyt | 0 | 1 | 30 | 60 |
 | breaking_defense | 0 | 0 | 31 | 60 |
 | spacenews | 0 | 0 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -6895,3 +6896,4 @@
 - **Sep 13, 04:57 PM** - EXCLUSIVE: SDA eyeing airborne target tracking satellites demonstration, says Tournear (breaking_defense)
 - **Sep 13, 05:27 PM** - Tech Companies Show Off for Trump’s ‘Golden Dome’ (nyt)
 - **Sep 13, 05:43 PM** - EXCLUSIVE: Space Development Agency Director Derek Tournear steps down (breaking_defense)
+- **Sep 13, 05:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
