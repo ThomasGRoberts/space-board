@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 32 | 59 |
 | breaking_defense | 0 | 0 | 30 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 75 | 75 |
+| supercluster | 1 | 1 | 76 | 76 |
 
 # Shown Order
 
@@ -6954,3 +6954,4 @@
 - **Sep 13, 10:49 AM** - EXCLUSIVE: SDA eyeing airborne target tracking satellites demonstration, says Tournear (breaking_defense)
 - **Sep 13, 11:05 AM** - A Defender of Darkness in the Darkest Place on Earth (nyt)
 - **Sep 13, 11:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 13, 11:21 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
