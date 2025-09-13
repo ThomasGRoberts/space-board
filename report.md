@@ -5,7 +5,7 @@
 | nyt | 1 | 2 | 32 | 59 |
 | breaking_defense | 0 | 0 | 30 | 57 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 32 | 32 |
+| supercluster | 1 | 1 | 33 | 33 |
 
 # Shown Order
 
@@ -6899,3 +6899,4 @@
 - **Sep 13, 06:22 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 13, 06:23 AM** - EXCLUSIVE: SDA eyeing airborne target tracking satellites demonstration, says Tournear (breaking_defense)
 - **Sep 13, 06:38 AM** - NASA Rover Findings ‘Could be the Clearest Sign of Life’ on Mars (nyt)
+- **Sep 13, 06:51 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
