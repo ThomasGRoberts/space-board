@@ -3,25 +3,21 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 31 | 59 |
+| supercluster | 1 | 1 | 197 | 197 |
 | breaking_defense | 0 | 0 | 29 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 196 | 196 |
 
 # Shown Order
 
-- **May 29, 10:43 PM** - With strategic acquisitions, Rocket Lab pursues prime defense contractor status (spacenews)
-- **May 30, 02:34 AM** - With strategic acquisitions, Rocket Lab pursues prime defense contractor status (spacenews)
 - **May 30, 10:13 AM** - China’s Astronstone raises early funding for stainless steel rocket with “chopstick” recovery (spacenews)
 - **May 30, 11:09 AM** - University of Colorado, Boulder to announce new space policy center (spacenews)
 - **May 30, 01:07 PM** - When Earth fails, space responds  (spacenews)
-- **May 30, 03:05 PM** - With strategic acquisitions, Rocket Lab pursues prime defense contractor status (spacenews)
 - **May 30, 03:47 PM** - Skepticism lingers about cost and business case for IRIS² (spacenews)
 - **May 30, 09:35 PM** - SpaceX launches latest GPS III satellite for U.S. military (spacenews)
 - **May 30, 09:49 PM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
 - **May 30, 10:05 PM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **May 30, 11:01 PM** - NASA budget would cancel dozens of science missions, lay off thousands (spacenews)
 - **May 31, 12:15 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
-- **May 31, 12:57 AM** - With strategic acquisitions, Rocket Lab pursues prime defense contractor status (spacenews)
 - **May 31, 01:12 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **May 31, 01:55 AM** - NASA budget would cancel dozens of science missions, lay off thousands (spacenews)
 - **May 31, 02:09 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
@@ -52,7 +48,6 @@
 - **Jun 01, 06:47 AM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
 - **Jun 01, 07:43 AM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
 - **Jun 01, 09:39 AM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
-- **Jun 01, 11:19 AM** - With strategic acquisitions, Rocket Lab pursues prime defense contractor status (spacenews)
 - **Jun 01, 01:01 PM** - Northern Lights May Be Visible as Far South as Alabama (nyt)
 - **Jun 01, 03:11 PM** - China’s Astronstone raises early funding for stainless steel rocket with “chopstick” recovery (spacenews)
 - **Jun 01, 06:13 PM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
@@ -69,7 +64,6 @@
 - **Jun 02, 07:02 AM** - University of Colorado, Boulder to announce new space policy center (spacenews)
 - **Jun 02, 07:34 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **Jun 02, 08:35 AM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
-- **Jun 02, 09:03 AM** - With strategic acquisitions, Rocket Lab pursues prime defense contractor status (spacenews)
 - **Jun 02, 11:37 AM** - Trump to Withdraw Musk’s Ally as Nominee for Top NASA Job (nyt)
 - **Jun 02, 12:21 PM** - SpaceNews Appoints Laurie Diamond as Vice President of Business Development to Accelerate Revenue Growth and Strategic Expansion (spacenews)
 - **Jun 02, 12:37 PM** - SpaceNews Appoints Laurie Diamond as VP of Business Development to Accelerate Revenue Growth and Strategic Expansion (spacenews)
@@ -107,7 +101,6 @@
 - **Jun 03, 08:49 AM** - Russia’s new Cosmos satellite orbiting near US sat; piques ASAT fears (breaking_defense)
 - **Jun 03, 09:03 AM** - Space assets could be held ransom. Will we have any choice but to pay? (spacenews)
 - **Jun 03, 09:47 AM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
-- **Jun 03, 10:09 AM** - With strategic acquisitions, Rocket Lab pursues prime defense contractor status (spacenews)
 - **Jun 03, 10:23 AM** - Trump to Withdraw Musk’s Ally as Nominee for Top NASA Job (nyt)
 - **Jun 03, 10:52 AM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
 - **Jun 03, 11:05 AM** - SpaceNews Appoints Laurie Diamond as VP of Business Development to Accelerate Revenue Growth and Strategic Expansion (spacenews)
@@ -139,7 +132,6 @@
 - **Jun 04, 01:21 AM** - Impulse Space raises $300 million for expansion and new technology development (spacenews)
 - **Jun 04, 01:49 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **Jun 04, 02:17 AM** - Space assets could be held ransom. Will we have any choice but to pay? (spacenews)
-- **Jun 04, 03:17 AM** - With strategic acquisitions, Rocket Lab pursues prime defense contractor status (spacenews)
 - **Jun 04, 03:45 AM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
 - **Jun 04, 04:15 AM** - Space assets could be held ransom. Will we have any choice but to pay? (spacenews)
 - **Jun 04, 04:45 AM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
@@ -188,7 +180,6 @@
 - **Jun 05, 02:11 AM** - Russia’s new Cosmos satellite orbiting near US sat, piques ASAT fears (breaking_defense)
 - **Jun 05, 02:39 AM** - Impulse Space raises $300 million for expansion and new technology development (spacenews)
 - **Jun 05, 02:53 AM** - Trump to Withdraw Musk’s Ally as Nominee for Top NASA Job (nyt)
-- **Jun 05, 03:37 AM** - With strategic acquisitions, Rocket Lab pursues prime defense contractor status (spacenews)
 - **Jun 05, 03:51 AM** - Northern Lights May Be Visible as Far South as Alabama (nyt)
 - **Jun 05, 04:05 AM** - US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders (breaking_defense)
 - **Jun 05, 04:33 AM** - Lockheed Martin launches ‘AI Fight Club’ to test algorithms for warfare (spacenews)
@@ -7056,3 +7047,4 @@
 - **Sep 12, 11:32 PM** - Russia Will Launch a Navigation Satellite (supercluster)
 - **Sep 12, 11:33 PM** - Space Development Agency launches first ‘operational’ satellites for data relay (breaking_defense)
 - **Sep 12, 11:47 PM** - Happy 10th Birthday to the Laser Interferometer Gravitational-Wave Observatory. Now Drop Dead. (nyt)
+- **Sep 13, 12:02 AM** - Russia Will Launch a Navigation Satellite (supercluster)
