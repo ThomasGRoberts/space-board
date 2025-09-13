@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 31 | 59 |
 | supercluster | 1 | 1 | 217 | 217 |
-| breaking_defense | 0 | 0 | 30 | 58 |
+| breaking_defense | 0 | 0 | 31 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -7072,3 +7072,4 @@
 - **Sep 13, 01:42 AM** - Russia Will Launch a Navigation Satellite (supercluster)
 - **Sep 13, 01:43 AM** - Russia Will Launch a Navigation Satellite (supercluster)
 - **Sep 13, 01:45 AM** - Russia Will Launch a Navigation Satellite (supercluster)
+- **Sep 13, 01:49 AM** - White House comes out against Senate FY26 NDAA language on DoD spectrum rights (breaking_defense)
