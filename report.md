@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 31 | 60 |
 | breaking_defense | 0 | 0 | 31 | 60 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 9 | 9 |
+| supercluster | 1 | 1 | 10 | 10 |
 
 # Shown Order
 
@@ -6903,3 +6903,4 @@
 - **Sep 13, 04:57 PM** - EXCLUSIVE: SDA eyeing airborne target tracking satellites demonstration, says Tournear (breaking_defense)
 - **Sep 13, 05:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 13, 05:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 13, 05:17 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
