@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 32 | 60 |
-| breaking_defense | 0 | 0 | 31 | 58 |
+| breaking_defense | 0 | 0 | 30 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 109 | 109 |
+| supercluster | 1 | 1 | 110 | 110 |
 
 # Shown Order
 
@@ -6998,3 +6998,4 @@
 - **Sep 13, 02:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 13, 02:39 PM** - Space Development Agency launches first ‘operational’ satellites for data relay (breaking_defense)
 - **Sep 13, 02:55 PM** - Happy 10th Birthday to the Laser Interferometer Gravitational-Wave Observatory. Now Drop Dead. (nyt)
+- **Sep 13, 03:09 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
