@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 46 | 46 |
+| supercluster | 1 | 1 | 47 | 47 |
 | nyt | 0 | 1 | 29 | 60 |
 | breaking_defense | 0 | 0 | 30 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
@@ -6956,3 +6956,4 @@
 - **Sep 13, 11:46 PM** - EXCLUSIVE: SDA eyeing airborne target tracking satellites demonstration, says Tournear (breaking_defense)
 - **Sep 13, 11:59 PM** - SpaceX Will Launch the Cygnus Spacecraft to the ISS (supercluster)
 - **Sep 14, 12:02 AM** - SpaceX Will Launch the Cygnus Spacecraft to the ISS (supercluster)
+- **Sep 14, 12:05 AM** - SpaceX Will Launch the Cygnus Spacecraft to the ISS (supercluster)
