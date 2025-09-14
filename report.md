@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 0 | 1 | 211 | 220 |
+| supercluster | 0 | 1 | 212 | 221 |
 | nyt | 0 | 0 | 30 | 60 |
-| breaking_defense | 0 | 0 | 31 | 61 |
+| breaking_defense | 0 | 0 | 31 | 60 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -7180,3 +7180,4 @@
 - **Sep 14, 07:12 PM** - Happy 10th Birthday to the Laser Interferometer Gravitational-Wave Observatory. Now Drop Dead. (nyt)
 - **Sep 14, 07:29 PM** - Space Development Agency launches first ‘operational’ satellites for data relay (breaking_defense)
 - **Sep 14, 07:45 PM** - SpaceX Will Launch the Cygnus Spacecraft to the ISS (supercluster)
+- **Sep 14, 07:47 PM** - SpaceX Will Launch the Cygnus Spacecraft to the ISS (supercluster)
