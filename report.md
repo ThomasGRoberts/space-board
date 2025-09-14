@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 72 | 72 |
-| nyt | 0 | 1 | 30 | 62 |
-| breaking_defense | 0 | 0 | 30 | 60 |
+| nyt | 0 | 1 | 30 | 61 |
+| breaking_defense | 0 | 0 | 31 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -6989,3 +6989,4 @@
 - **Sep 14, 02:41 AM** - SpaceX Will Launch the Cygnus Spacecraft to the ISS (supercluster)
 - **Sep 14, 02:43 AM** - SpaceX Will Launch the Cygnus Spacecraft to the ISS (supercluster)
 - **Sep 14, 02:45 AM** - A Defender of Darkness in the Darkest Place on Earth (nyt)
+- **Sep 14, 03:02 AM** - EXCLUSIVE: SDA eyeing airborne target tracking satellites demonstration, says Tournear (breaking_defense)
