@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 114 | 114 |
 | nyt | 0 | 1 | 30 | 62 |
-| breaking_defense | 0 | 0 | 30 | 60 |
+| breaking_defense | 0 | 0 | 31 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -7043,3 +7043,4 @@
 - **Sep 14, 07:16 AM** - SpaceX Will Launch the Cygnus Spacecraft to the ISS (supercluster)
 - **Sep 14, 07:17 AM** - SpaceX Will Launch the Cygnus Spacecraft to the ISS (supercluster)
 - **Sep 14, 07:19 AM** - Video: Sunday and Monday’s Blood Moon and Total Lunar Eclipse (nyt)
+- **Sep 14, 07:36 AM** - Space Development Agency launches first ‘operational’ satellites for data relay (breaking_defense)
