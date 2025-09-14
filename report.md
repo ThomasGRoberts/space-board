@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 121 | 121 |
 | nyt | 0 | 1 | 30 | 62 |
-| breaking_defense | 0 | 0 | 30 | 60 |
+| breaking_defense | 0 | 0 | 31 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -7052,3 +7052,4 @@
 - **Sep 14, 07:59 AM** - SpaceX Will Launch the Cygnus Spacecraft to the ISS (supercluster)
 - **Sep 14, 08:02 AM** - SpaceX Will Launch the Cygnus Spacecraft to the ISS (supercluster)
 - **Sep 14, 08:05 AM** - Live Video: How to Watch the Blood Moon and Total Lunar Eclipse (nyt)
+- **Sep 14, 08:19 AM** - White House comes out against Senate FY26 NDAA language on DoD spectrum rights (breaking_defense)
