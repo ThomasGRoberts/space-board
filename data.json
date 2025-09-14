@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-14T00:02:38.489974+00:00",
-    "trigger_count": 5,
-    "current_item_id": "ed3ea3b36cbc7300242fd7d859719280",
+    "trigger_count": 6,
+    "current_item_id": "de0145ab21fc347fc315e074582c8296",
     "data": [
         {
             "id": "aba0d88b50979e3c04e378e66cf890be",
@@ -12451,15 +12451,18 @@
             ]
         },
         {
-            "id": "ed3ea3b36cbc7300242fd7d859719280",
+            "id": "de0145ab21fc347fc315e074582c8296",
             "source": "supercluster",
-            "text": "SpaceX Will Launch the Cygnus Spacecraft to the ISS",
-            "source_link": "https://www.supercluster.com/launches/crs-ng-23",
-            "shown": false,
+            "text": "China Will Launch the Long March 2C Rocket",
+            "source_link": "https://www.supercluster.com/launches/long-march-2c23",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-09-14T22:11:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-09-14T23:09:49.192856Z"
+            "target_datetime": "2025-09-15T01:20:00.000Z",
+            "time_remaining": "0d 02h 07m",
+            "fetched_datetime": "2025-09-14T23:12:23.721187Z",
+            "shown_at": [
+                "2025-09-14T23:12:24.733068Z"
+            ]
         }
     ]
 }
