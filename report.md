@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 93 | 93 |
-| nyt | 0 | 1 | 30 | 61 |
-| breaking_defense | 0 | 0 | 30 | 61 |
+| nyt | 0 | 1 | 31 | 62 |
+| breaking_defense | 0 | 0 | 30 | 60 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -7015,3 +7015,4 @@
 - **Sep 14, 04:55 AM** - SpaceX Will Launch the Cygnus Spacecraft to the ISS (supercluster)
 - **Sep 14, 04:57 AM** - SpaceX Will Launch the Cygnus Spacecraft to the ISS (supercluster)
 - **Sep 14, 04:59 AM** - SpaceX Will Launch the Cygnus Spacecraft to the ISS (supercluster)
+- **Sep 14, 05:02 AM** - Live Video: How to Watch the Blood Moon and Total Lunar Eclipse (nyt)
