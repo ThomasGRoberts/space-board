@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 0 | 1 | 214 | 216 |
+| supercluster | 0 | 1 | 215 | 217 |
 | nyt | 0 | 0 | 30 | 60 |
-| breaking_defense | 0 | 0 | 31 | 61 |
+| breaking_defense | 0 | 0 | 31 | 60 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -7174,3 +7174,4 @@
 - **Sep 14, 06:57 PM** - SpaceX Will Launch the Cygnus Spacecraft to the ISS (supercluster)
 - **Sep 14, 07:00 PM** - SpaceX Will Launch the Cygnus Spacecraft to the ISS (supercluster)
 - **Sep 14, 07:02 PM** - SpaceX Will Launch the Cygnus Spacecraft to the ISS (supercluster)
+- **Sep 14, 07:05 PM** - SpaceX Will Launch the Cygnus Spacecraft to the ISS (supercluster)
