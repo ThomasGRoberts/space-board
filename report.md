@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 94 | 94 |
+| supercluster | 1 | 1 | 95 | 95 |
 | nyt | 0 | 1 | 30 | 61 |
 | breaking_defense | 0 | 0 | 31 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
@@ -7018,3 +7018,4 @@
 - **Sep 14, 05:02 AM** - Live Video: How to Watch the Blood Moon and Total Lunar Eclipse (nyt)
 - **Sep 14, 05:17 AM** - EXCLUSIVE: SDA eyeing airborne target tracking satellites demonstration, says Tournear (breaking_defense)
 - **Sep 14, 05:33 AM** - SpaceX Will Launch the Cygnus Spacecraft to the ISS (supercluster)
+- **Sep 14, 05:36 AM** - SpaceX Will Launch the Cygnus Spacecraft to the ISS (supercluster)
