@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 163 | 163 |
 | nyt | 0 | 1 | 30 | 61 |
-| breaking_defense | 0 | 0 | 29 | 60 |
+| breaking_defense | 0 | 0 | 30 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -7106,3 +7106,4 @@
 - **Sep 14, 12:55 PM** - SpaceX Will Launch the Cygnus Spacecraft to the ISS (supercluster)
 - **Sep 14, 12:57 PM** - SpaceX Will Launch the Cygnus Spacecraft to the ISS (supercluster)
 - **Sep 14, 01:00 PM** - Video: Sunday and Monday’s Blood Moon and Total Lunar Eclipse (nyt)
+- **Sep 14, 01:15 PM** - EXCLUSIVE: Space Development Agency Director Derek Tournear steps down (breaking_defense)
