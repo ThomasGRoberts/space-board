@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 0 | 1 | 217 | 233 |
-| nyt | 0 | 0 | 30 | 60 |
-| breaking_defense | 0 | 0 | 31 | 60 |
+| nyt | 0 | 0 | 31 | 61 |
+| breaking_defense | 0 | 0 | 30 | 60 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -7195,3 +7195,4 @@
 - **Sep 14, 08:35 PM** - SpaceX Will Launch the Cygnus Spacecraft to the ISS (supercluster)
 - **Sep 14, 08:37 PM** - SpaceX Will Launch the Cygnus Spacecraft to the ISS (supercluster)
 - **Sep 14, 08:39 PM** - SpaceX Will Launch the Cygnus Spacecraft to the ISS (supercluster)
+- **Sep 14, 08:42 PM** - Tech Companies Show Off for Trump’s ‘Golden Dome’ (nyt)
