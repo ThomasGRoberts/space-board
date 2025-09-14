@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 0 | 29 | 59 |
-| breaking_defense | 0 | 0 | 30 | 59 |
+| nyt | 0 | 0 | 29 | 58 |
+| breaking_defense | 0 | 0 | 29 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 3 | 3 |
+| supercluster | 1 | 1 | 4 | 4 |
 
 # Shown Order
 
@@ -6971,3 +6971,4 @@
 - **Sep 14, 11:30 PM** - Space Development Agency launches first ‘operational’ satellites for data relay (breaking_defense)
 - **Sep 14, 11:43 PM** - China Will Launch the Long March 2C Rocket (supercluster)
 - **Sep 14, 11:45 PM** - China Will Launch the Long March 2C Rocket (supercluster)
+- **Sep 14, 11:47 PM** - China Will Launch the Long March 2C Rocket (supercluster)
