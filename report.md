@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 65 | 65 |
 | nyt | 0 | 1 | 29 | 61 |
-| breaking_defense | 0 | 0 | 29 | 60 |
+| breaking_defense | 0 | 0 | 30 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -6980,3 +6980,4 @@
 - **Sep 14, 01:49 AM** - SpaceX Will Launch the Cygnus Spacecraft to the ISS (supercluster)
 - **Sep 14, 01:52 AM** - SpaceX Will Launch the Cygnus Spacecraft to the ISS (supercluster)
 - **Sep 14, 01:55 AM** - NASA Rover Findings ‘Could be the Clearest Sign of Life’ on Mars (nyt)
+- **Sep 14, 02:12 AM** - White House comes out against Senate FY26 NDAA language on DoD spectrum rights (breaking_defense)
