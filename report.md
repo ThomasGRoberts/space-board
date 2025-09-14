@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 0 | 30 | 60 |
-| breaking_defense | 0 | 0 | 31 | 60 |
+| breaking_defense | 0 | 0 | 30 | 60 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 0 | 0 |
 
 # Shown Order
 
@@ -6966,4 +6966,3 @@
 - **Sep 14, 08:57 PM** - Space Development Agency launches first ‘operational’ satellites for data relay (breaking_defense)
 - **Sep 14, 09:25 PM** - NASA Rover Findings ‘Could be the Clearest Sign of Life’ on Mars (nyt)
 - **Sep 14, 09:39 PM** - Space Development Agency launches first ‘operational’ satellites for data relay (breaking_defense)
-- **Sep 14, 10:13 PM** - SpaceX Will Launch the Cygnus Spacecraft to the ISS (supercluster)

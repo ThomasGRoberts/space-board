@@ -1,7 +1,7 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-14T00:02:38.489974+00:00",
-    "trigger_count": 0,
+    "trigger_count": 1,
     "current_item_id": "ed3ea3b36cbc7300242fd7d859719280",
     "data": [
         {
@@ -12455,14 +12455,11 @@
             "source": "supercluster",
             "text": "SpaceX Will Launch the Cygnus Spacecraft to the ISS",
             "source_link": "https://www.supercluster.com/launches/crs-ng-23",
-            "shown": true,
+            "shown": false,
             "type": "launch",
             "target_datetime": "2025-09-14T22:11:00.000Z",
             "time_remaining": "",
-            "fetched_datetime": "2025-09-14T22:13:49.108059Z",
-            "shown_at": [
-                "2025-09-14T22:13:49.677191Z"
-            ]
+            "fetched_datetime": "2025-09-14T22:16:00.297957Z"
         }
     ]
 }
