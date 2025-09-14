@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 192 | 192 |
+| supercluster | 1 | 1 | 193 | 193 |
 | nyt | 0 | 1 | 30 | 61 |
 | breaking_defense | 0 | 0 | 30 | 60 |
 | spacenews | 0 | 0 | 0 | 0 |
@@ -7144,3 +7144,4 @@
 - **Sep 14, 04:06 PM** - Was There Life on Mars? A Rock Found by NASA Keeps Getting More Interesting. (nyt)
 - **Sep 14, 04:22 PM** - EXCLUSIVE: Space Development Agency Director Derek Tournear steps down (breaking_defense)
 - **Sep 14, 04:37 PM** - SpaceX Will Launch the Cygnus Spacecraft to the ISS (supercluster)
+- **Sep 14, 04:39 PM** - SpaceX Will Launch the Cygnus Spacecraft to the ISS (supercluster)
