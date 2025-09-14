@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 149 | 149 |
+| supercluster | 1 | 1 | 150 | 150 |
 | nyt | 0 | 1 | 29 | 61 |
 | breaking_defense | 0 | 0 | 30 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
@@ -7089,3 +7089,4 @@
 - **Sep 14, 11:22 AM** - SpaceX Will Launch the Cygnus Spacecraft to the ISS (supercluster)
 - **Sep 14, 11:23 AM** - Was There Life on Mars? A Rock Found by NASA Keeps Getting More Interesting. (nyt)
 - **Sep 14, 11:40 AM** - White House comes out against Senate FY26 NDAA language on DoD spectrum rights (breaking_defense)
+- **Sep 14, 11:57 AM** - SpaceX Will Launch the Cygnus Spacecraft to the ISS (supercluster)
