@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 0 | 1 | 217 | 240 |
 | nyt | 0 | 0 | 31 | 60 |
-| breaking_defense | 0 | 0 | 30 | 60 |
+| breaking_defense | 0 | 0 | 31 | 61 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -7205,3 +7205,4 @@
 - **Sep 14, 09:22 PM** - SpaceX Will Launch the Cygnus Spacecraft to the ISS (supercluster)
 - **Sep 14, 09:23 PM** - SpaceX Will Launch the Cygnus Spacecraft to the ISS (supercluster)
 - **Sep 14, 09:25 PM** - NASA Rover Findings ‘Could be the Clearest Sign of Life’ on Mars (nyt)
+- **Sep 14, 09:39 PM** - Space Development Agency launches first ‘operational’ satellites for data relay (breaking_defense)
