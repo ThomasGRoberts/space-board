@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 0 | 28 | 58 |
-| breaking_defense | 1 | 1 | 28 | 59 |
+| nyt | 0 | 0 | 27 | 58 |
+| breaking_defense | 1 | 1 | 28 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 148 | 148 |
+| supercluster | 2 | 2 | 149 | 149 |
 
 # Shown Order
 
@@ -7162,3 +7162,4 @@
 - **Sep 15, 06:53 PM** - Was There Life on Mars? A Rock Found by NASA Keeps Getting More Interesting. (nyt)
 - **Sep 15, 07:10 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 15, 07:12 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 15, 07:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
