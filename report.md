@@ -5,7 +5,7 @@
 | nyt | 0 | 0 | 28 | 58 |
 | breaking_defense | 0 | 0 | 28 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 7 | 7 |
+| supercluster | 1 | 1 | 8 | 8 |
 
 # Shown Order
 
@@ -6981,3 +6981,4 @@
 - **Sep 15, 02:36 AM** - A Defender of Darkness in the Darkest Place on Earth (nyt)
 - **Sep 15, 02:49 AM** - EXCLUSIVE: Space Development Agency Director Derek Tournear steps down (breaking_defense)
 - **Sep 15, 03:07 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 15, 03:09 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
