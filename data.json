@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-15T00:02:33.415449+00:00",
-    "trigger_count": 0,
-    "current_item_id": "de0145ab21fc347fc315e074582c8296",
+    "trigger_count": 1,
+    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
     "data": [
         {
             "id": "aba0d88b50979e3c04e378e66cf890be",
@@ -12457,17 +12457,17 @@
             ]
         },
         {
-            "id": "de0145ab21fc347fc315e074582c8296",
+            "id": "4beba9b243fe616fcb8e7be8d963bbc1",
             "source": "supercluster",
-            "text": "China Will Launch the Long March 2C Rocket",
-            "source_link": "https://www.supercluster.com/launches/long-march-2c23",
+            "text": "SpaceX Will Launch Starlink Satellites from California",
+            "source_link": "https://www.supercluster.com/launches/starlink-17-12",
             "shown": true,
             "type": "launch",
-            "target_datetime": "2025-09-15T01:20:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-09-15T02:19:57.532910Z",
+            "target_datetime": "2025-09-17T15:41:00.000Z",
+            "time_remaining": "2d 13h 18m",
+            "fetched_datetime": "2025-09-15T02:22:09.497012Z",
             "shown_at": [
-                "2025-09-15T02:19:58.289055Z"
+                "2025-09-15T02:22:10.050070Z"
             ]
         }
     ]
