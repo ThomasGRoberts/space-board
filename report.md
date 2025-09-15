@@ -5,7 +5,7 @@
 | nyt | 0 | 0 | 28 | 57 |
 | breaking_defense | 0 | 0 | 28 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 69 | 69 |
+| supercluster | 1 | 1 | 70 | 70 |
 
 # Shown Order
 
@@ -7061,3 +7061,4 @@
 - **Sep 15, 09:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 15, 10:00 AM** - A Defender of Darkness in the Darkest Place on Earth (nyt)
 - **Sep 15, 10:17 AM** - Space Development Agency launches first ‘operational’ satellites for data relay (breaking_defense)
+- **Sep 15, 10:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
