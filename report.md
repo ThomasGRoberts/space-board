@@ -5,7 +5,7 @@
 | nyt | 0 | 0 | 28 | 57 |
 | breaking_defense | 0 | 0 | 27 | 57 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 106 | 106 |
+| supercluster | 2 | 2 | 107 | 107 |
 
 # Shown Order
 
@@ -7107,3 +7107,4 @@
 - **Sep 15, 01:57 PM** - A Defender of Darkness in the Darkest Place on Earth (nyt)
 - **Sep 15, 02:13 PM** - China Will Launch the Long March 2C Rocket (supercluster)
 - **Sep 15, 02:15 PM** - China Will Launch the Long March 2C Rocket (supercluster)
+- **Sep 15, 02:17 PM** - China Will Launch the Long March 2C Rocket (supercluster)
