@@ -5,7 +5,7 @@
 | nyt | 0 | 0 | 28 | 57 |
 | breaking_defense | 0 | 0 | 27 | 57 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 98 | 98 |
+| supercluster | 2 | 2 | 99 | 99 |
 
 # Shown Order
 
@@ -7097,3 +7097,4 @@
 - **Sep 15, 12:55 PM** - EXCLUSIVE: SDA eyeing airborne target tracking satellites demonstration, says Tournear (breaking_defense)
 - **Sep 15, 01:12 PM** - Webb Telescope Studies Hopeful Hint of Earthlike Atmosphere on Trappist-1e Planet (nyt)
 - **Sep 15, 01:25 PM** - China Will Launch the Long March 2C Rocket (supercluster)
+- **Sep 15, 01:28 PM** - China Will Launch the Long March 2C Rocket (supercluster)
