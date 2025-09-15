@@ -5,7 +5,7 @@
 | nyt | 0 | 0 | 28 | 58 |
 | breaking_defense | 1 | 1 | 28 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 147 | 147 |
+| supercluster | 2 | 2 | 148 | 148 |
 
 # Shown Order
 
@@ -7161,3 +7161,4 @@
 - **Sep 15, 06:39 PM** - EXCLUSIVE: SDA eyeing airborne target tracking satellites demonstration, says Tournear (breaking_defense)
 - **Sep 15, 06:53 PM** - Was There Life on Mars? A Rock Found by NASA Keeps Getting More Interesting. (nyt)
 - **Sep 15, 07:10 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 15, 07:12 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
