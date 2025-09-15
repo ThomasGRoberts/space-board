@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 15 | 15 |
 | nyt | 0 | 0 | 30 | 59 |
-| breaking_defense | 0 | 0 | 29 | 59 |
+| breaking_defense | 0 | 0 | 30 | 60 |
 | spacenews | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -6986,3 +6986,4 @@
 - **Sep 15, 12:42 AM** - China Will Launch the Long March 2C Rocket (supercluster)
 - **Sep 15, 12:43 AM** - China Will Launch the Long March 2C Rocket (supercluster)
 - **Sep 15, 12:45 AM** - Was There Life on Mars? A Rock Found by NASA Keeps Getting More Interesting. (nyt)
+- **Sep 15, 01:02 AM** - EXCLUSIVE: Space Development Agency Director Derek Tournear steps down (breaking_defense)
