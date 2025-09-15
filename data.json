@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-15T00:02:33.415449+00:00",
-    "trigger_count": 6,
-    "current_item_id": "30566fa655f44cff278d60649aa2511e",
+    "trigger_count": 0,
+    "current_item_id": "8091fd6ab5930f540b7565a0bd9f4304",
     "data": [
         {
             "id": "aba0d88b50979e3c04e378e66cf890be",
@@ -12816,9 +12816,12 @@
             "source": "spacenews",
             "text": "CSO Co., Ltd. — Redefining Earth Observation with Cutting-Edge Camera Systems for Small Satellites",
             "source_link": "https://spacenews.com/cso-co-ltd-redefining-earth-observation-with-cutting-edge-camera-systems-for-small-satellites/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-09-15T21:45:53.309641Z"
+            "fetched_datetime": "2025-09-15T21:45:53.309641Z",
+            "shown_at": [
+                "2025-09-15T23:43:56.077696Z"
+            ]
         }
     ]
 }

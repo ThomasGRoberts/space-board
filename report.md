@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 0 | 26 | 55 |
 | breaking_defense | 1 | 1 | 26 | 56 |
-| spacenews | 9 | 9 | 8 | 8 |
+| spacenews | 9 | 9 | 9 | 9 |
 | supercluster | 2 | 2 | 174 | 174 |
 
 # Shown Order
@@ -7202,3 +7202,4 @@
 - **Sep 15, 10:57 PM** - To lead in space, we must go all-in on our industrial base (spacenews)
 - **Sep 15, 11:13 PM** - Military spending and direct-to-device competition are reshaping the space economy (spacenews)
 - **Sep 15, 11:27 PM** - Falcon 9 launches upgraded Cygnus cargo spacecraft to ISS (spacenews)
+- **Sep 15, 11:43 PM** - CSO Co., Ltd. — Redefining Earth Observation with Cutting-Edge Camera Systems for Small Satellites (spacenews)
