@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-15T00:02:33.415449+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a45d020a34ce0a9e04f64fddb0d14c8b",
+    "trigger_count": 0,
+    "current_item_id": "36444ba5e12f812de4f5846e619ad0cb",
     "data": [
         {
             "id": "aba0d88b50979e3c04e378e66cf890be",
@@ -12621,6 +12621,18 @@
                 "2025-09-15T14:22:03.986114Z",
                 "2025-09-15T14:23:54.885115Z",
                 "2025-09-15T14:25:50.086601Z"
+            ]
+        },
+        {
+            "id": "36444ba5e12f812de4f5846e619ad0cb",
+            "source": "breaking_defense",
+            "text": "EXCLUSIVE: DoD envisions prize competition for boost-phase SBI prototypes",
+            "source_link": "https://breakingdefense.com/2025/09/exclusive-dod-envisions-prize-competition-for-boost-phase-sbi-prototypes/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-15T14:45:58.627712Z",
+            "shown_at": [
+                "2025-09-15T14:45:59.318771Z"
             ]
         }
     ]
