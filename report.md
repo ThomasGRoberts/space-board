@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 16 | 16 |
-| nyt | 0 | 0 | 29 | 59 |
+| nyt | 0 | 0 | 29 | 58 |
 | breaking_defense | 0 | 0 | 30 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -6966,25 +6966,10 @@
 - **Sep 14, 08:57 PM** - Space Development Agency launches first ‘operational’ satellites for data relay (breaking_defense)
 - **Sep 14, 09:25 PM** - NASA Rover Findings ‘Could be the Clearest Sign of Life’ on Mars (nyt)
 - **Sep 14, 09:39 PM** - Space Development Agency launches first ‘operational’ satellites for data relay (breaking_defense)
-- **Sep 14, 11:12 PM** - China Will Launch the Long March 2C Rocket (supercluster)
 - **Sep 14, 11:16 PM** - Happy 10th Birthday to the Laser Interferometer Gravitational-Wave Observatory. Now Drop Dead. (nyt)
 - **Sep 14, 11:30 PM** - Space Development Agency launches first ‘operational’ satellites for data relay (breaking_defense)
-- **Sep 14, 11:43 PM** - China Will Launch the Long March 2C Rocket (supercluster)
-- **Sep 14, 11:45 PM** - China Will Launch the Long March 2C Rocket (supercluster)
-- **Sep 14, 11:47 PM** - China Will Launch the Long March 2C Rocket (supercluster)
-- **Sep 14, 11:49 PM** - China Will Launch the Long March 2C Rocket (supercluster)
-- **Sep 14, 11:52 PM** - China Will Launch the Long March 2C Rocket (supercluster)
-- **Sep 14, 11:53 PM** - China Will Launch the Long March 2C Rocket (supercluster)
-- **Sep 14, 11:55 PM** - China Will Launch the Long March 2C Rocket (supercluster)
 - **Sep 14, 11:58 PM** - Was There Life on Mars? A Rock Found by NASA Keeps Getting More Interesting. (nyt)
 - **Sep 15, 12:15 AM** - White House comes out against Senate FY26 NDAA language on DoD spectrum rights (breaking_defense)
-- **Sep 15, 12:29 AM** - China Will Launch the Long March 2C Rocket (supercluster)
-- **Sep 15, 12:32 AM** - China Will Launch the Long March 2C Rocket (supercluster)
-- **Sep 15, 12:36 AM** - China Will Launch the Long March 2C Rocket (supercluster)
-- **Sep 15, 12:38 AM** - China Will Launch the Long March 2C Rocket (supercluster)
-- **Sep 15, 12:40 AM** - China Will Launch the Long March 2C Rocket (supercluster)
-- **Sep 15, 12:42 AM** - China Will Launch the Long March 2C Rocket (supercluster)
-- **Sep 15, 12:43 AM** - China Will Launch the Long March 2C Rocket (supercluster)
 - **Sep 15, 12:45 AM** - Was There Life on Mars? A Rock Found by NASA Keeps Getting More Interesting. (nyt)
 - **Sep 15, 01:02 AM** - EXCLUSIVE: Space Development Agency Director Derek Tournear steps down (breaking_defense)
-- **Sep 15, 01:17 AM** - China Will Launch the Long March 2C Rocket (supercluster)
+- **Sep 15, 01:20 AM** - China Will Launch the Long March 2C Rocket (supercluster)
