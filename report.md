@@ -6972,4 +6972,4 @@
 - **Sep 15, 12:15 AM** - White House comes out against Senate FY26 NDAA language on DoD spectrum rights (breaking_defense)
 - **Sep 15, 12:45 AM** - Was There Life on Mars? A Rock Found by NASA Keeps Getting More Interesting. (nyt)
 - **Sep 15, 01:02 AM** - EXCLUSIVE: Space Development Agency Director Derek Tournear steps down (breaking_defense)
-- **Sep 15, 01:44 AM** - China Will Launch the Long March 2C Rocket (supercluster)
+- **Sep 15, 01:45 AM** - China Will Launch the Long March 2C Rocket (supercluster)
