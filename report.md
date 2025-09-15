@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 0 | 26 | 55 |
-| breaking_defense | 1 | 1 | 26 | 55 |
+| breaking_defense | 1 | 1 | 27 | 56 |
 | spacenews | 9 | 9 | 9 | 9 |
 | supercluster | 2 | 2 | 174 | 174 |
 
@@ -7203,3 +7203,4 @@
 - **Sep 15, 11:13 PM** - Military spending and direct-to-device competition are reshaping the space economy (spacenews)
 - **Sep 15, 11:27 PM** - Falcon 9 launches upgraded Cygnus cargo spacecraft to ISS (spacenews)
 - **Sep 15, 11:43 PM** - CSO Co., Ltd. — Redefining Earth Observation with Cutting-Edge Camera Systems for Small Satellites (spacenews)
+- **Sep 15, 11:57 PM** - Space Development Agency launches first ‘operational’ satellites for data relay (breaking_defense)
