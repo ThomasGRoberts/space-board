@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 0 | 27 | 56 |
+| nyt | 0 | 0 | 28 | 57 |
 | breaking_defense | 1 | 1 | 28 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 111 | 111 |
@@ -7114,3 +7114,4 @@
 - **Sep 15, 02:25 PM** - China Will Launch the Long March 2C Rocket (supercluster)
 - **Sep 15, 02:29 PM** - Space Development Agency launches first ‘operational’ satellites for data relay (breaking_defense)
 - **Sep 15, 02:45 PM** - EXCLUSIVE: DoD envisions prize competition for boost-phase SBI prototypes (breaking_defense)
+- **Sep 15, 02:59 PM** - Tech Companies Show Off for Trump’s ‘Golden Dome’ (nyt)
