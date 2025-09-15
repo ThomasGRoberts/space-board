@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 0 | 27 | 57 |
+| nyt | 0 | 0 | 28 | 58 |
 | breaking_defense | 0 | 0 | 28 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 76 | 76 |
@@ -7068,3 +7068,4 @@
 - **Sep 15, 10:43 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 15, 10:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 15, 10:48 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 15, 10:49 AM** - Webb Telescope Studies Hopeful Hint of Earthlike Atmosphere on Trappist-1e Planet (nyt)
