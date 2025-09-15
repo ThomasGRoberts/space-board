@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-15T00:02:33.415449+00:00",
-    "trigger_count": 6,
-    "current_item_id": "de0145ab21fc347fc315e074582c8296",
+    "trigger_count": 0,
+    "current_item_id": "dd08942d3fa28fd186474899bed87ad9",
     "data": [
         {
             "id": "aba0d88b50979e3c04e378e66cf890be",
@@ -12714,6 +12714,90 @@
                 "2025-09-15T19:26:09.850600Z",
                 "2025-09-15T20:59:37.041040Z"
             ]
+        },
+        {
+            "id": "dd08942d3fa28fd186474899bed87ad9",
+            "source": "spacenews",
+            "text": "Telesat pitches Lightspeed as stopgap to Europe’s IRIS²",
+            "source_link": "https://spacenews.com/telesat-pitches-lightspeed-as-stopgap-to-europes-iris%c2%b2/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-15T21:45:53.309264Z",
+            "shown_at": [
+                "2025-09-15T21:45:53.878328Z"
+            ]
+        },
+        {
+            "id": "2ce21086cc0180c058fc1b101f936856",
+            "source": "spacenews",
+            "text": "York Space hits milestone with largest satellite delivery yet",
+            "source_link": "https://spacenews.com/york-space-hits-milestone-with-largest-satellite-delivery-yet/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-09-15T21:45:53.309355Z"
+        },
+        {
+            "id": "06aab6960a637c2f616efd392c0caed5",
+            "source": "spacenews",
+            "text": "Swissto12 clears PDR for debut small GEO D2D satellite",
+            "source_link": "https://spacenews.com/swissto12-clears-pdr-for-debut-small-geo-d2d-satellite/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-09-15T21:45:53.309405Z"
+        },
+        {
+            "id": "561252eef21abd8f5be95edb6b845a10",
+            "source": "spacenews",
+            "text": "Launch companies double down on increasing flight rates despite setbacks",
+            "source_link": "https://spacenews.com/launch-companies-double-down-on-increasing-flight-rates-despite-setbacks/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-09-15T21:45:53.309452Z"
+        },
+        {
+            "id": "9c9bb622d8d2936ad15a07ba2938e496",
+            "source": "spacenews",
+            "text": "EchoStar eyes satcom expansion after ‘forced pivot’ from spectrum sales",
+            "source_link": "https://spacenews.com/echostar-eyes-satcom-expansion-after-forced-pivot-from-spectrum-sales/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-09-15T21:45:53.309496Z"
+        },
+        {
+            "id": "20d74da0420dedb4aa17ed9d1ec8e861",
+            "source": "spacenews",
+            "text": "To lead in space, we must go all-in on our industrial base",
+            "source_link": "https://spacenews.com/to-lead-in-space-we-must-go-all-in-on-our-industrial-base/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-09-15T21:45:53.309535Z"
+        },
+        {
+            "id": "60a537300508f6ce1df5b447de88a21d",
+            "source": "spacenews",
+            "text": "Military spending and direct-to-device competition are reshaping the space economy",
+            "source_link": "https://spacenews.com/military-spending-and-direct-to-device-competition-are-reshaping-the-space-economy/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-09-15T21:45:53.309571Z"
+        },
+        {
+            "id": "30566fa655f44cff278d60649aa2511e",
+            "source": "spacenews",
+            "text": "Falcon 9 launches upgraded Cygnus cargo spacecraft to ISS",
+            "source_link": "https://spacenews.com/falcon-9-launches-upgraded-cygnus-cargo-spacecraft-to-iss/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-09-15T21:45:53.309608Z"
+        },
+        {
+            "id": "8091fd6ab5930f540b7565a0bd9f4304",
+            "source": "spacenews",
+            "text": "CSO Co., Ltd. — Redefining Earth Observation with Cutting-Edge Camera Systems for Small Satellites",
+            "source_link": "https://spacenews.com/cso-co-ltd-redefining-earth-observation-with-cutting-edge-camera-systems-for-small-satellites/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-09-15T21:45:53.309641Z"
         }
     ]
 }

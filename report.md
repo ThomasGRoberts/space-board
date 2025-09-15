@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 0 | 27 | 58 |
 | breaking_defense | 1 | 1 | 27 | 58 |
-| spacenews | 0 | 0 | 0 | 0 |
+| spacenews | 9 | 9 | 1 | 1 |
 | supercluster | 2 | 2 | 174 | 174 |
 
 # Shown Order
@@ -7194,3 +7194,4 @@
 - **Sep 15, 09:39 PM** - China Will Launch the Long March 2C Rocket (supercluster)
 - **Sep 15, 09:41 PM** - China Will Launch the Long March 2C Rocket (supercluster)
 - **Sep 15, 09:43 PM** - China Will Launch the Long March 2C Rocket (supercluster)
+- **Sep 15, 09:45 PM** - Telesat pitches Lightspeed as stopgap to Europe’s IRIS² (spacenews)
