@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 0 | 27 | 58 |
+| nyt | 0 | 0 | 27 | 57 |
 | breaking_defense | 1 | 1 | 27 | 58 |
-| spacenews | 9 | 9 | 1 | 1 |
+| spacenews | 9 | 9 | 2 | 2 |
 | supercluster | 2 | 2 | 174 | 174 |
 
 # Shown Order
@@ -7195,3 +7195,4 @@
 - **Sep 15, 09:41 PM** - China Will Launch the Long March 2C Rocket (supercluster)
 - **Sep 15, 09:43 PM** - China Will Launch the Long March 2C Rocket (supercluster)
 - **Sep 15, 09:45 PM** - Telesat pitches Lightspeed as stopgap to Europe’s IRIS² (spacenews)
+- **Sep 15, 10:00 PM** - York Space hits milestone with largest satellite delivery yet (spacenews)

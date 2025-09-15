@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-15T00:02:33.415449+00:00",
-    "trigger_count": 6,
-    "current_item_id": "dd08942d3fa28fd186474899bed87ad9",
+    "trigger_count": 0,
+    "current_item_id": "2ce21086cc0180c058fc1b101f936856",
     "data": [
         {
             "id": "aba0d88b50979e3c04e378e66cf890be",
@@ -12732,9 +12732,12 @@
             "source": "spacenews",
             "text": "York Space hits milestone with largest satellite delivery yet",
             "source_link": "https://spacenews.com/york-space-hits-milestone-with-largest-satellite-delivery-yet/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-09-15T21:45:53.309355Z"
+            "fetched_datetime": "2025-09-15T21:45:53.309355Z",
+            "shown_at": [
+                "2025-09-15T22:00:14.157563Z"
+            ]
         },
         {
             "id": "06aab6960a637c2f616efd392c0caed5",
