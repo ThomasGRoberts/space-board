@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 0 | 28 | 58 |
+| nyt | 0 | 0 | 28 | 57 |
 | breaking_defense | 0 | 0 | 27 | 57 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 97 | 97 |
+| supercluster | 2 | 2 | 98 | 98 |
 
 # Shown Order
 
@@ -7096,3 +7096,4 @@
 - **Sep 15, 12:52 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 15, 12:55 PM** - EXCLUSIVE: SDA eyeing airborne target tracking satellites demonstration, says Tournear (breaking_defense)
 - **Sep 15, 01:12 PM** - Webb Telescope Studies Hopeful Hint of Earthlike Atmosphere on Trappist-1e Planet (nyt)
+- **Sep 15, 01:25 PM** - China Will Launch the Long March 2C Rocket (supercluster)
