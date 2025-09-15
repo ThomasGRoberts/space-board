@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-15T00:02:33.415449+00:00",
-    "trigger_count": 6,
-    "current_item_id": "60a537300508f6ce1df5b447de88a21d",
+    "trigger_count": 0,
+    "current_item_id": "30566fa655f44cff278d60649aa2511e",
     "data": [
         {
             "id": "aba0d88b50979e3c04e378e66cf890be",
@@ -12804,9 +12804,12 @@
             "source": "spacenews",
             "text": "Falcon 9 launches upgraded Cygnus cargo spacecraft to ISS",
             "source_link": "https://spacenews.com/falcon-9-launches-upgraded-cygnus-cargo-spacecraft-to-iss/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-09-15T21:45:53.309608Z"
+            "fetched_datetime": "2025-09-15T21:45:53.309608Z",
+            "shown_at": [
+                "2025-09-15T23:27:59.467903Z"
+            ]
         },
         {
             "id": "8091fd6ab5930f540b7565a0bd9f4304",
