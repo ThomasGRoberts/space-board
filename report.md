@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 0 | 27 | 57 |
-| breaking_defense | 0 | 0 | 28 | 58 |
+| nyt | 0 | 0 | 28 | 58 |
+| breaking_defense | 0 | 0 | 28 | 57 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 90 | 90 |
 
@@ -7086,3 +7086,4 @@
 - **Sep 15, 12:02 PM** - China Will Launch the Long March 2C Rocket (supercluster)
 - **Sep 15, 12:03 PM** - China Will Launch the Long March 2C Rocket (supercluster)
 - **Sep 15, 12:05 PM** - EXCLUSIVE: Space Development Agency Director Derek Tournear steps down (breaking_defense)
+- **Sep 15, 12:22 PM** - NASA Rover Findings ‘Could be the Clearest Sign of Life’ on Mars (nyt)
