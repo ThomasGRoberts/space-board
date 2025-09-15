@@ -5,7 +5,7 @@
 | nyt | 0 | 0 | 28 | 58 |
 | breaking_defense | 1 | 1 | 28 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 139 | 139 |
+| supercluster | 2 | 2 | 140 | 140 |
 
 # Shown Order
 
@@ -7151,3 +7151,4 @@
 - **Sep 15, 05:51 PM** - China Will Launch the Long March 2C Rocket (supercluster)
 - **Sep 15, 05:53 PM** - White House comes out against Senate FY26 NDAA language on DoD spectrum rights (breaking_defense)
 - **Sep 15, 06:09 PM** - NASA Rover Findings ‘Could be the Clearest Sign of Life’ on Mars (nyt)
+- **Sep 15, 06:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
