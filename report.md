@@ -5,7 +5,7 @@
 | nyt | 0 | 0 | 28 | 57 |
 | breaking_defense | 1 | 1 | 28 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 132 | 132 |
+| supercluster | 2 | 2 | 133 | 133 |
 
 # Shown Order
 
@@ -7142,3 +7142,4 @@
 - **Sep 15, 05:05 PM** - China Will Launch the Long March 2C Rocket (supercluster)
 - **Sep 15, 05:07 PM** - EXCLUSIVE: DoD envisions prize competition for boost-phase SBI prototypes (breaking_defense)
 - **Sep 15, 05:23 PM** - A Defender of Darkness in the Darkest Place on Earth (nyt)
+- **Sep 15, 05:37 PM** - China Will Launch the Long March 2C Rocket (supercluster)
