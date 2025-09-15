@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 0 | 27 | 58 |
-| breaking_defense | 1 | 1 | 28 | 58 |
+| breaking_defense | 1 | 1 | 28 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 160 | 160 |
 
@@ -7176,3 +7176,4 @@
 - **Sep 15, 08:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 15, 08:09 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 15, 08:12 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 15, 08:15 PM** - EXCLUSIVE: SDA eyeing airborne target tracking satellites demonstration, says Tournear (breaking_defense)
