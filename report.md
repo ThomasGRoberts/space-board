@@ -5,7 +5,7 @@
 | nyt | 0 | 0 | 28 | 57 |
 | breaking_defense | 1 | 1 | 28 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 125 | 125 |
+| supercluster | 2 | 2 | 126 | 126 |
 
 # Shown Order
 
@@ -7133,3 +7133,4 @@
 - **Sep 15, 04:17 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 15, 04:19 PM** - EXCLUSIVE: DoD envisions prize competition for boost-phase SBI prototypes (breaking_defense)
 - **Sep 15, 04:36 PM** - Happy 10th Birthday to the Laser Interferometer Gravitational-Wave Observatory. Now Drop Dead. (nyt)
+- **Sep 15, 04:50 PM** - China Will Launch the Long March 2C Rocket (supercluster)
