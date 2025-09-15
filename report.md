@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 0 | 27 | 56 |
 | breaking_defense | 1 | 1 | 27 | 56 |
-| spacenews | 9 | 9 | 6 | 6 |
+| spacenews | 9 | 9 | 7 | 7 |
 | supercluster | 2 | 2 | 174 | 174 |
 
 # Shown Order
@@ -7200,3 +7200,4 @@
 - **Sep 15, 10:29 PM** - Launch companies double down on increasing flight rates despite setbacks (spacenews)
 - **Sep 15, 10:43 PM** - EchoStar eyes satcom expansion after ‘forced pivot’ from spectrum sales (spacenews)
 - **Sep 15, 10:57 PM** - To lead in space, we must go all-in on our industrial base (spacenews)
+- **Sep 15, 11:13 PM** - Military spending and direct-to-device competition are reshaping the space economy (spacenews)
