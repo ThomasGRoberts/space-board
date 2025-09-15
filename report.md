@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 0 | 27 | 57 |
 | breaking_defense | 1 | 1 | 27 | 57 |
-| spacenews | 9 | 9 | 3 | 3 |
+| spacenews | 9 | 9 | 4 | 4 |
 | supercluster | 2 | 2 | 174 | 174 |
 
 # Shown Order
@@ -7197,3 +7197,4 @@
 - **Sep 15, 09:45 PM** - Telesat pitches Lightspeed as stopgap to Europe’s IRIS² (spacenews)
 - **Sep 15, 10:00 PM** - York Space hits milestone with largest satellite delivery yet (spacenews)
 - **Sep 15, 10:15 PM** - Swissto12 clears PDR for debut small GEO D2D satellite (spacenews)
+- **Sep 15, 10:29 PM** - Launch companies double down on increasing flight rates despite setbacks (spacenews)

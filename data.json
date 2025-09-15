@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-15T00:02:33.415449+00:00",
-    "trigger_count": 6,
-    "current_item_id": "06aab6960a637c2f616efd392c0caed5",
+    "trigger_count": 0,
+    "current_item_id": "561252eef21abd8f5be95edb6b845a10",
     "data": [
         {
             "id": "aba0d88b50979e3c04e378e66cf890be",
@@ -12756,9 +12756,12 @@
             "source": "spacenews",
             "text": "Launch companies double down on increasing flight rates despite setbacks",
             "source_link": "https://spacenews.com/launch-companies-double-down-on-increasing-flight-rates-despite-setbacks/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-09-15T21:45:53.309452Z"
+            "fetched_datetime": "2025-09-15T21:45:53.309452Z",
+            "shown_at": [
+                "2025-09-15T22:29:52.258241Z"
+            ]
         },
         {
             "id": "9c9bb622d8d2936ad15a07ba2938e496",
