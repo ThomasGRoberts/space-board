@@ -5,7 +5,7 @@
 | nyt | 0 | 0 | 28 | 57 |
 | breaking_defense | 0 | 0 | 28 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -6973,3 +6973,4 @@
 - **Sep 15, 12:45 AM** - Was There Life on Mars? A Rock Found by NASA Keeps Getting More Interesting. (nyt)
 - **Sep 15, 01:02 AM** - EXCLUSIVE: Space Development Agency Director Derek Tournear steps down (breaking_defense)
 - **Sep 15, 02:22 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 15, 02:24 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
