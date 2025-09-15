@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 0 | 28 | 57 |
+| nyt | 0 | 0 | 27 | 57 |
 | breaking_defense | 1 | 1 | 28 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 113 | 113 |
+| supercluster | 2 | 2 | 114 | 114 |
 
 # Shown Order
 
@@ -7117,3 +7117,4 @@
 - **Sep 15, 02:59 PM** - Tech Companies Show Off for Trump’s ‘Golden Dome’ (nyt)
 - **Sep 15, 03:17 PM** - China Will Launch the Long March 2C Rocket (supercluster)
 - **Sep 15, 03:19 PM** - China Will Launch the Long March 2C Rocket (supercluster)
+- **Sep 15, 03:22 PM** - China Will Launch the Long March 2C Rocket (supercluster)
