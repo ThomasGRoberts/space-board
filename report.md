@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 0 | 27 | 57 |
-| breaking_defense | 1 | 1 | 28 | 57 |
+| breaking_defense | 1 | 1 | 29 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 2 | 2 | 118 | 118 |
 
@@ -7122,3 +7122,4 @@
 - **Sep 15, 03:25 PM** - China Will Launch the Long March 2C Rocket (supercluster)
 - **Sep 15, 03:27 PM** - China Will Launch the Long March 2C Rocket (supercluster)
 - **Sep 15, 03:29 PM** - China Will Launch the Long March 2C Rocket (supercluster)
+- **Sep 15, 03:32 PM** - EXCLUSIVE: DoD envisions prize competition for boost-phase SBI prototypes (breaking_defense)
