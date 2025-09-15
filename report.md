@@ -5,7 +5,7 @@
 | nyt | 0 | 0 | 28 | 57 |
 | breaking_defense | 1 | 1 | 28 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 2 | 2 | 112 | 112 |
+| supercluster | 2 | 2 | 113 | 113 |
 
 # Shown Order
 
@@ -7116,3 +7116,4 @@
 - **Sep 15, 02:45 PM** - EXCLUSIVE: DoD envisions prize competition for boost-phase SBI prototypes (breaking_defense)
 - **Sep 15, 02:59 PM** - Tech Companies Show Off for Trump’s ‘Golden Dome’ (nyt)
 - **Sep 15, 03:17 PM** - China Will Launch the Long March 2C Rocket (supercluster)
+- **Sep 15, 03:19 PM** - China Will Launch the Long March 2C Rocket (supercluster)
