@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 0 | 28 | 58 |
-| breaking_defense | 0 | 0 | 28 | 58 |
+| breaking_defense | 0 | 0 | 29 | 59 |
 | spacenews | 0 | 0 | 0 | 0 |
 | supercluster | 1 | 1 | 34 | 34 |
 
@@ -7015,3 +7015,4 @@
 - **Sep 15, 05:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 15, 05:42 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 15, 05:44 AM** - Webb Telescope Studies Hopeful Hint of Earthlike Atmosphere on Trappist-1e Planet (nyt)
+- **Sep 15, 05:57 AM** - EXCLUSIVE: Space Development Agency Director Derek Tournear steps down (breaking_defense)
