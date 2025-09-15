@@ -5,7 +5,7 @@
 | nyt | 0 | 0 | 28 | 57 |
 | breaking_defense | 0 | 0 | 28 | 58 |
 | spacenews | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 62 | 62 |
+| supercluster | 1 | 1 | 63 | 63 |
 
 # Shown Order
 
@@ -7052,3 +7052,4 @@
 - **Sep 15, 09:05 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 15, 09:08 AM** - NASA Rover Findings ‘Could be the Clearest Sign of Life’ on Mars (nyt)
 - **Sep 15, 09:23 AM** - EXCLUSIVE: Space Development Agency Director Derek Tournear steps down (breaking_defense)
+- **Sep 15, 09:42 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
