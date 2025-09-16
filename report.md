@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 10 | 14 | 14 |
 | breaking_defense | 1 | 1 | 25 | 53 |
-| supercluster | 0 | 1 | 125 | 154 |
+| supercluster | 0 | 1 | 125 | 155 |
 | nyt | 0 | 0 | 25 | 53 |
 
 # Shown Order
@@ -7062,3 +7062,4 @@
 - **Sep 16, 05:02 AM** - White House comes out against Senate FY26 NDAA language on DoD spectrum rights (breaking_defense)
 - **Sep 16, 05:18 AM** - Happy 10th Birthday to the Laser Interferometer Gravitational-Wave Observatory. Now Drop Dead. (nyt)
 - **Sep 16, 05:32 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 16, 05:36 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
