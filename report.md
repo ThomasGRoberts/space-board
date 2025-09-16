@@ -5,7 +5,7 @@
 | spacenews | 12 | 12 | 21 | 21 |
 | breaking_defense | 1 | 1 | 23 | 50 |
 | supercluster | 0 | 1 | 105 | 188 |
-| nyt | 0 | 0 | 21 | 49 |
+| nyt | 0 | 0 | 22 | 50 |
 
 # Shown Order
 
@@ -7112,3 +7112,4 @@
 - **Sep 16, 10:57 AM** - To lead in space, we must go all-in on our industrial base (spacenews)
 - **Sep 16, 11:18 AM** - How SpaceX turned a Texas marsh into the world’s most watched spaceport (spacenews)
 - **Sep 16, 11:40 AM** - White House comes out against Senate FY26 NDAA language on DoD spectrum rights (breaking_defense)
+- **Sep 16, 11:58 AM** - Was There Life on Mars? A Rock Found by NASA Keeps Getting More Interesting. (nyt)
