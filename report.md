@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 13 | 21 | 21 |
+| spacenews | 13 | 13 | 22 | 22 |
 | breaking_defense | 1 | 1 | 22 | 49 |
-| supercluster | 0 | 1 | 105 | 188 |
+| supercluster | 0 | 1 | 103 | 188 |
 | nyt | 0 | 0 | 21 | 49 |
 
 # Shown Order
@@ -7113,3 +7113,4 @@
 - **Sep 16, 11:18 AM** - How SpaceX turned a Texas marsh into the world’s most watched spaceport (spacenews)
 - **Sep 16, 11:40 AM** - White House comes out against Senate FY26 NDAA language on DoD spectrum rights (breaking_defense)
 - **Sep 16, 11:58 AM** - Was There Life on Mars? A Rock Found by NASA Keeps Getting More Interesting. (nyt)
+- **Sep 16, 12:42 PM** - Josef Aschbacher on geopolitics and Europe’s changing space debate (spacenews)
