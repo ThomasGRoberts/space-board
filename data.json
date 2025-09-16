@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-16T00:02:31.394552+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "5193470a108e6eca6448eb9dc4a91101",
     "data": [
         {
             "id": "8091fd6ab5930f540b7565a0bd9f4304",
@@ -12707,6 +12707,18 @@
             "fetched_datetime": "2025-09-16T14:50:12.978947Z",
             "shown_at": [
                 "2025-09-16T14:50:13.821881Z"
+            ]
+        },
+        {
+            "id": "5193470a108e6eca6448eb9dc4a91101",
+            "source": "breaking_defense",
+            "text": "House Intel Committee props up FY26 funding for NRO commercial imagery buys",
+            "source_link": "https://breakingdefense.com/2025/09/house-intel-committee-props-up-fy26-funding-for-nro-commercial-imagery-buys/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-16T15:19:56.948093Z",
+            "shown_at": [
+                "2025-09-16T15:19:57.997156Z"
             ]
         }
     ]
