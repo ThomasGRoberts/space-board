@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 14 | 23 | 30 | 38 |
-| breaking_defense | 4 | 5 | 20 | 47 |
-| supercluster | 0 | 1 | 112 | 237 |
+| breaking_defense | 4 | 5 | 20 | 46 |
+| supercluster | 0 | 1 | 113 | 238 |
 | nyt | 1 | 1 | 18 | 44 |
 
 # Shown Order
@@ -7197,3 +7197,4 @@
 - **Sep 16, 10:47 PM** - SpaceX planning first tests of new direct-to-device spectrum next year (spacenews)
 - **Sep 16, 11:02 PM** - The Break Out: A Golden Dome prize pool and Project Octopus [VIDEO] (breaking_defense)
 - **Sep 16, 11:17 PM** - NASA Rover Findings ‘Could Be the Clearest Sign of Life’ on Mars (nyt)
+- **Sep 16, 11:32 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
