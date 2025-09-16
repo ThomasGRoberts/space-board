@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-16T00:02:31.394552+00:00",
-    "trigger_count": 6,
-    "current_item_id": "561252eef21abd8f5be95edb6b845a10",
+    "trigger_count": 0,
+    "current_item_id": "a2da4c81db70691b20601a51cb532fcd",
     "data": [
         {
             "id": "8091fd6ab5930f540b7565a0bd9f4304",
@@ -12798,6 +12798,18 @@
             "fetched_datetime": "2025-09-16T18:55:37.271179Z",
             "shown_at": [
                 "2025-09-16T18:55:41.645384Z"
+            ]
+        },
+        {
+            "id": "a2da4c81db70691b20601a51cb532fcd",
+            "source": "spacenews",
+            "text": "GHGSat announces $34 million in equity and debt financing",
+            "source_link": "https://spacenews.com/ghgsat-announces-34-million-in-equity-and-debt-financing/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-16T19:58:06.233368Z",
+            "shown_at": [
+                "2025-09-16T19:58:08.944073Z"
             ]
         }
     ]
