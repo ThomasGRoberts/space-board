@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 14 | 23 | 36 | 37 |
-| breaking_defense | 4 | 5 | 18 | 45 |
+| spacenews | 14 | 23 | 35 | 37 |
+| breaking_defense | 4 | 5 | 19 | 46 |
 | supercluster | 0 | 1 | 105 | 230 |
 | nyt | 0 | 0 | 16 | 43 |
 
@@ -7185,3 +7185,4 @@
 - **Sep 16, 09:14 PM** - A Defender of Darkness in the Darkest Place on Earth (nyt)
 - **Sep 16, 09:27 PM** - Project Kuiper plots broadband services in five countries by end of March (spacenews)
 - **Sep 16, 09:45 PM** - Impulse Space and Anduril to demonstrate autonomous spacecraft maneuvers in GEO (spacenews)
+- **Sep 16, 10:02 PM** - Space Development Agency launches first ‘operational’ satellites for data relay (breaking_defense)
