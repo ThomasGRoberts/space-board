@@ -5,7 +5,7 @@
 | spacenews | 21 | 21 | 35 | 35 |
 | breaking_defense | 4 | 5 | 18 | 46 |
 | supercluster | 0 | 1 | 105 | 230 |
-| nyt | 0 | 0 | 16 | 43 |
+| nyt | 0 | 0 | 17 | 44 |
 
 # Shown Order
 
@@ -7182,3 +7182,4 @@
 - **Sep 16, 09:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 16, 09:10 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 16, 09:11 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 16, 09:14 PM** - A Defender of Darkness in the Darkest Place on Earth (nyt)
