@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 11 | 17 | 17 |
+| spacenews | 11 | 11 | 18 | 18 |
 | breaking_defense | 1 | 1 | 24 | 52 |
-| supercluster | 0 | 1 | 120 | 174 |
-| nyt | 0 | 0 | 24 | 51 |
+| supercluster | 0 | 1 | 119 | 174 |
+| nyt | 0 | 0 | 23 | 51 |
 
 # Shown Order
 
@@ -7089,3 +7089,4 @@
 - **Sep 16, 08:07 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 16, 08:12 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 16, 08:15 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 16, 08:17 AM** - CSO Co., Ltd. — Redefining Earth Observation with Cutting-Edge Camera Systems for Small Satellites (spacenews)
