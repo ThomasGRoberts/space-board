@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 15 | 15 | 25 | 25 |
-| breaking_defense | 2 | 2 | 20 | 48 |
+| breaking_defense | 2 | 2 | 21 | 49 |
 | supercluster | 0 | 1 | 105 | 195 |
-| nyt | 0 | 0 | 20 | 48 |
+| nyt | 0 | 0 | 20 | 47 |
 
 # Shown Order
 
@@ -7126,3 +7126,4 @@
 - **Sep 16, 01:50 PM** - To lead in space, we must go all-in on our industrial base (spacenews)
 - **Sep 16, 02:03 PM** - Laser communications supplier Mynaric signals recovery after production setbacks (spacenews)
 - **Sep 16, 02:20 PM** - Astro Digital to plug into Star Catcher solar-energy grid (spacenews)
+- **Sep 16, 02:35 PM** - EXCLUSIVE: DoD envisions prize competition for boost-phase SBI prototypes (breaking_defense)
