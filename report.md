@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 19 | 19 | 30 | 30 |
 | breaking_defense | 2 | 3 | 19 | 47 |
-| supercluster | 0 | 1 | 105 | 202 |
+| supercluster | 0 | 1 | 106 | 203 |
 | nyt | 0 | 0 | 18 | 46 |
 
 # Shown Order
@@ -7141,3 +7141,4 @@
 - **Sep 16, 04:02 PM** - SpaceX planning first tests of new direct-to-device spectrum next year (spacenews)
 - **Sep 16, 04:17 PM** - Viasat and Space42 to pool satellite spectrum for direct-to-device services (spacenews)
 - **Sep 16, 04:32 PM** - BlackSky wins second NGA ‘Luno’ contract to track global changes with satellites and AI (spacenews)
+- **Sep 16, 04:52 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
