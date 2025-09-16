@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 19 | 19 | 28 | 28 |
+| spacenews | 19 | 19 | 29 | 29 |
 | breaking_defense | 2 | 3 | 20 | 48 |
 | supercluster | 0 | 1 | 106 | 202 |
 | nyt | 0 | 0 | 19 | 46 |
@@ -7139,3 +7139,4 @@
 - **Sep 16, 03:33 PM** - NASA Rover Findings ‘Could be the Clearest Sign of Life’ on Mars (nyt)
 - **Sep 16, 03:47 PM** - Falcon 9 launches upgraded Cygnus cargo spacecraft to ISS (spacenews)
 - **Sep 16, 04:02 PM** - SpaceX planning first tests of new direct-to-device spectrum next year (spacenews)
+- **Sep 16, 04:17 PM** - Viasat and Space42 to pool satellite spectrum for direct-to-device services (spacenews)
