@@ -5,7 +5,7 @@
 | spacenews | 14 | 23 | 34 | 37 |
 | breaking_defense | 4 | 5 | 19 | 46 |
 | supercluster | 0 | 1 | 105 | 230 |
-| nyt | 0 | 0 | 16 | 43 |
+| nyt | 1 | 1 | 17 | 44 |
 
 # Shown Order
 
@@ -7186,3 +7186,4 @@
 - **Sep 16, 09:27 PM** - Project Kuiper plots broadband services in five countries by end of March (spacenews)
 - **Sep 16, 09:45 PM** - Impulse Space and Anduril to demonstrate autonomous spacecraft maneuvers in GEO (spacenews)
 - **Sep 16, 10:02 PM** - Space Development Agency launches first ‘operational’ satellites for data relay (breaking_defense)
+- **Sep 16, 10:17 PM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
