@@ -5,7 +5,7 @@
 | spacenews | 11 | 11 | 19 | 19 |
 | breaking_defense | 1 | 1 | 24 | 51 |
 | supercluster | 0 | 1 | 112 | 181 |
-| nyt | 0 | 0 | 22 | 50 |
+| nyt | 0 | 0 | 23 | 51 |
 
 # Shown Order
 
@@ -7101,3 +7101,4 @@
 - **Sep 16, 09:32 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 16, 09:35 AM** - Military spending and direct-to-device competition are reshaping the space economy (spacenews)
 - **Sep 16, 09:55 AM** - Space Development Agency launches first ‘operational’ satellites for data relay (breaking_defense)
+- **Sep 16, 10:12 AM** - NASA Rover Findings ‘Could Be the Clearest Sign of Life’ on Mars (nyt)
