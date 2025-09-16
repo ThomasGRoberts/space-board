@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 9 | 10 | 10 |
 | breaking_defense | 1 | 1 | 26 | 55 |
-| supercluster | 1 | 1 | 133 | 133 |
+| supercluster | 1 | 1 | 134 | 134 |
 | nyt | 0 | 0 | 26 | 54 |
 
 # Shown Order
@@ -7031,3 +7031,4 @@
 - **Sep 16, 12:57 AM** - EXCLUSIVE: SDA eyeing airborne target tracking satellites demonstration, says Tournear (breaking_defense)
 - **Sep 16, 02:05 AM** - Happy 10th Birthday to the Laser Interferometer Gravitational-Wave Observatory. Now Drop Dead. (nyt)
 - **Sep 16, 02:07 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 16, 02:10 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
