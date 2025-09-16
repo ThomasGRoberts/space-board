@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 10 | 15 | 15 |
+| spacenews | 10 | 10 | 16 | 16 |
 | breaking_defense | 1 | 1 | 25 | 53 |
 | supercluster | 0 | 1 | 126 | 167 |
 | nyt | 0 | 0 | 24 | 52 |
@@ -7078,3 +7078,4 @@
 - **Sep 16, 06:42 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 16, 06:43 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 16, 06:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 16, 06:48 AM** - EchoStar eyes satcom expansion after ‘forced pivot’ from spectrum sales (spacenews)
