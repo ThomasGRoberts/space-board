@@ -5,7 +5,7 @@
 | spacenews | 9 | 9 | 11 | 11 |
 | breaking_defense | 1 | 1 | 26 | 55 |
 | supercluster | 0 | 1 | 133 | 139 |
-| nyt | 0 | 0 | 25 | 53 |
+| nyt | 0 | 0 | 26 | 54 |
 
 # Shown Order
 
@@ -7039,3 +7039,4 @@
 - **Sep 16, 02:21 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 16, 02:23 AM** - Telesat pitches Lightspeed as stopgap to Europe’s IRIS² (spacenews)
 - **Sep 16, 02:39 AM** - EXCLUSIVE: DoD envisions prize competition for boost-phase SBI prototypes (breaking_defense)
+- **Sep 16, 02:53 AM** - Happy 10th Birthday to the Laser Interferometer Gravitational-Wave Observatory. Now Drop Dead. (nyt)
