@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-16T00:02:31.394552+00:00",
-    "trigger_count": 6,
-    "current_item_id": "20d74da0420dedb4aa17ed9d1ec8e861",
+    "trigger_count": 0,
+    "current_item_id": "47cc5c4451c7a565f4d3c04e0aa87695",
     "data": [
         {
             "id": "8091fd6ab5930f540b7565a0bd9f4304",
@@ -12664,6 +12664,27 @@
             "shown_at": [
                 "2025-09-16T13:00:02.831492Z"
             ]
+        },
+        {
+            "id": "47cc5c4451c7a565f4d3c04e0aa87695",
+            "source": "spacenews",
+            "text": "Laser communications supplier Mynaric signals recovery after production setbacks",
+            "source_link": "https://spacenews.com/laser-communications-supplier-mynaric-signals-recovery-after-production-setbacks/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-16T14:03:44.937408Z",
+            "shown_at": [
+                "2025-09-16T14:03:45.682134Z"
+            ]
+        },
+        {
+            "id": "969cd831bf6026656651370509c4301c",
+            "source": "spacenews",
+            "text": "Astro Digital to plug into Star Catcher solar-energy grid",
+            "source_link": "https://spacenews.com/astro-digital-to-plug-into-star-catcher-solar-energy-grid/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-09-16T14:03:44.937478Z"
         }
     ]
 }
