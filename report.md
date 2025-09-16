@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 16 | 16 | 26 | 26 |
 | breaking_defense | 1 | 2 | 20 | 48 |
-| supercluster | 0 | 1 | 107 | 197 |
+| supercluster | 0 | 1 | 108 | 198 |
 | nyt | 0 | 0 | 19 | 47 |
 
 # Shown Order
@@ -7130,3 +7130,4 @@
 - **Sep 16, 02:50 PM** - SES moves to iterative MEO deployment with K2 Space partnership (spacenews)
 - **Sep 16, 03:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 16, 03:08 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 16, 03:10 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
