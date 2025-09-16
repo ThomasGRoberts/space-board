@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-16T00:02:31.394552+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5e3283b32d0958f6d9f3735eb1386dfa",
+    "trigger_count": 0,
+    "current_item_id": "c79ec3916394e43732a6d959a9e91876",
     "data": [
         {
             "id": "8091fd6ab5930f540b7565a0bd9f4304",
@@ -12642,6 +12642,18 @@
             "fetched_datetime": "2025-09-16T12:22:21.605542Z",
             "shown_at": [
                 "2025-09-16T12:42:18.445326Z"
+            ]
+        },
+        {
+            "id": "c79ec3916394e43732a6d959a9e91876",
+            "source": "breaking_defense",
+            "text": "Anduril, Impulse to demo maneuvering satellite, with sights set on Space Force missions",
+            "source_link": "https://breakingdefense.com/2025/09/anduril-impulse-to-demo-maneuvering-satellite-with-sights-set-on-space-force-missions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-16T13:00:01.781841Z",
+            "shown_at": [
+                "2025-09-16T13:00:02.831492Z"
             ]
         }
     ]
