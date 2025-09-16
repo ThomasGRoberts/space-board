@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-16T00:02:31.394552+00:00",
-    "trigger_count": 6,
-    "current_item_id": "aba0d88b50979e3c04e378e66cf890be",
+    "trigger_count": 0,
+    "current_item_id": "94875c491d428b9eaa2a0c49fccd95f6",
     "data": [
         {
             "id": "8091fd6ab5930f540b7565a0bd9f4304",
@@ -12844,6 +12844,27 @@
             "shown_at": [
                 "2025-09-16T20:43:35.964053Z"
             ]
+        },
+        {
+            "id": "94875c491d428b9eaa2a0c49fccd95f6",
+            "source": "spacenews",
+            "text": "Project Kuiper plots broadband services in five countries by end of March",
+            "source_link": "https://spacenews.com/project-kuiper-plots-broadband-services-in-five-countries-by-end-of-march/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-16T21:27:52.869258Z",
+            "shown_at": [
+                "2025-09-16T21:27:53.895641Z"
+            ]
+        },
+        {
+            "id": "e04d8c9c26a20421d0c0490894b901da",
+            "source": "spacenews",
+            "text": "Impulse Space and Anduril to demonstrate autonomous spacecraft maneuvers in GEO",
+            "source_link": "https://spacenews.com/impulse-space-and-anduril-to-demonstrate-autonomous-spacecraft-maneuvers-in-geo/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-09-16T21:27:52.869325Z"
         }
     ]
 }

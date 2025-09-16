@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 21 | 21 | 35 | 35 |
+| spacenews | 23 | 23 | 36 | 36 |
 | breaking_defense | 4 | 5 | 18 | 46 |
 | supercluster | 0 | 1 | 105 | 230 |
-| nyt | 0 | 0 | 16 | 44 |
+| nyt | 0 | 0 | 16 | 43 |
 
 # Shown Order
 
@@ -7183,3 +7183,4 @@
 - **Sep 16, 09:10 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 16, 09:11 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 16, 09:14 PM** - A Defender of Darkness in the Darkest Place on Earth (nyt)
+- **Sep 16, 09:27 PM** - Project Kuiper plots broadband services in five countries by end of March (spacenews)
