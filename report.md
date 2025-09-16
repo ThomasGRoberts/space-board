@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 14 | 23 | 33 | 37 |
 | breaking_defense | 4 | 5 | 19 | 46 |
-| supercluster | 0 | 1 | 106 | 231 |
+| supercluster | 0 | 1 | 107 | 232 |
 | nyt | 1 | 1 | 17 | 44 |
 
 # Shown Order
@@ -7188,3 +7188,4 @@
 - **Sep 16, 10:02 PM** - Space Development Agency launches first ‘operational’ satellites for data relay (breaking_defense)
 - **Sep 16, 10:17 PM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
 - **Sep 16, 10:32 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 16, 10:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
