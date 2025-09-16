@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-16T00:02:31.394552+00:00",
-    "trigger_count": 6,
-    "current_item_id": "423a5908d6d8b6451b7758fdbea3939b",
+    "trigger_count": 0,
+    "current_item_id": "5e3283b32d0958f6d9f3735eb1386dfa",
     "data": [
         {
             "id": "8091fd6ab5930f540b7565a0bd9f4304",
@@ -12631,6 +12631,15 @@
             "shown_at": [
                 "2025-09-16T11:18:12.483816Z"
             ]
+        },
+        {
+            "id": "5e3283b32d0958f6d9f3735eb1386dfa",
+            "source": "spacenews",
+            "text": "Josef Aschbacher on geopolitics and Europe’s changing space debate",
+            "source_link": "https://spacenews.com/josef-aschbacher-on-geopolitics-and-europes-changing-space-debate/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-09-16T12:22:21.605542Z"
         }
     ]
 }
