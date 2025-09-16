@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 21 | 21 | 35 | 35 |
-| breaking_defense | 3 | 4 | 18 | 46 |
+| breaking_defense | 4 | 5 | 19 | 47 |
 | supercluster | 0 | 1 | 105 | 223 |
-| nyt | 0 | 0 | 16 | 44 |
+| nyt | 0 | 0 | 16 | 43 |
 
 # Shown Order
 
@@ -7174,3 +7174,4 @@
 - **Sep 16, 07:58 PM** - GHGSat announces $34 million in equity and debt financing (spacenews)
 - **Sep 16, 08:11 PM** - EXCLUSIVE: DoD envisions prize competition for boost-phase SBI prototypes (breaking_defense)
 - **Sep 16, 08:26 PM** - Axiom and Spacebilt to establish ISS data center node (spacenews)
+- **Sep 16, 08:43 PM** - The Break Out: A Golden Dome prize pool and Project Octopus [VIDEO] (breaking_defense)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-16T00:02:31.394552+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e67d7ce3d2079b59aeba5b64336f173e",
+    "trigger_count": 0,
+    "current_item_id": "0aca10c978df0ebfa56ebc508b9323ba",
     "data": [
         {
             "id": "8091fd6ab5930f540b7565a0bd9f4304",
@@ -12823,6 +12823,18 @@
             "fetched_datetime": "2025-09-16T20:26:17.882754Z",
             "shown_at": [
                 "2025-09-16T20:26:18.675033Z"
+            ]
+        },
+        {
+            "id": "0aca10c978df0ebfa56ebc508b9323ba",
+            "source": "breaking_defense",
+            "text": "The Break Out: A Golden Dome prize pool and Project Octopus [VIDEO]",
+            "source_link": "https://breakingdefense.com/2025/09/the-break-out-a-golden-dome-prize-pool-and-project-octopus-video/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-16T20:43:34.324020Z",
+            "shown_at": [
+                "2025-09-16T20:43:35.964053Z"
             ]
         }
     ]
