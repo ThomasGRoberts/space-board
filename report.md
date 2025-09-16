@@ -5,7 +5,7 @@
 | spacenews | 9 | 9 | 9 | 9 |
 | breaking_defense | 1 | 1 | 27 | 56 |
 | supercluster | 2 | 2 | 174 | 174 |
-| nyt | 0 | 0 | 25 | 55 |
+| nyt | 0 | 0 | 26 | 56 |
 
 # Shown Order
 
@@ -7068,3 +7068,4 @@
 - **Sep 15, 11:27 PM** - Falcon 9 launches upgraded Cygnus cargo spacecraft to ISS (spacenews)
 - **Sep 15, 11:43 PM** - CSO Co., Ltd. — Redefining Earth Observation with Cutting-Edge Camera Systems for Small Satellites (spacenews)
 - **Sep 15, 11:57 PM** - Space Development Agency launches first ‘operational’ satellites for data relay (breaking_defense)
+- **Sep 16, 12:14 AM** - Happy 10th Birthday to the Laser Interferometer Gravitational-Wave Observatory. Now Drop Dead. (nyt)
