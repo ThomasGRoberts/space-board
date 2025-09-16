@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 9 | 11 | 11 |
-| breaking_defense | 1 | 1 | 26 | 54 |
+| breaking_defense | 1 | 1 | 27 | 55 |
 | supercluster | 0 | 1 | 133 | 139 |
 | nyt | 0 | 0 | 25 | 54 |
 
@@ -7038,3 +7038,4 @@
 - **Sep 16, 02:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 16, 02:21 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 16, 02:23 AM** - Telesat pitches Lightspeed as stopgap to Europe’s IRIS² (spacenews)
+- **Sep 16, 02:39 AM** - EXCLUSIVE: DoD envisions prize competition for boost-phase SBI prototypes (breaking_defense)
