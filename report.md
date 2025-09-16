@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 19 | 19 | 32 | 32 |
-| breaking_defense | 2 | 3 | 18 | 46 |
+| breaking_defense | 3 | 4 | 19 | 47 |
 | supercluster | 0 | 1 | 112 | 216 |
-| nyt | 0 | 0 | 18 | 45 |
+| nyt | 0 | 0 | 17 | 45 |
 
 # Shown Order
 
@@ -7161,3 +7161,4 @@
 - **Sep 16, 06:09 PM** - Anduril, Impulse to demo maneuvering satellite, with sights set on Space Force missions (breaking_defense)
 - **Sep 16, 06:24 PM** - NASA Rover Findings ‘Could be the Clearest Sign of Life’ on Mars (nyt)
 - **Sep 16, 06:40 PM** - Josef Aschbacher on geopolitics and Europe’s changing space debate (spacenews)
+- **Sep 16, 06:55 PM** - The Earth Observation industry’s biggest threat isn’t China, it’s Washington (breaking_defense)
