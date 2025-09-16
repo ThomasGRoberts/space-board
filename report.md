@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 15 | 15 | 24 | 24 |
+| spacenews | 15 | 15 | 25 | 25 |
 | breaking_defense | 2 | 2 | 21 | 48 |
 | supercluster | 0 | 1 | 105 | 195 |
 | nyt | 0 | 0 | 20 | 48 |
@@ -7125,3 +7125,4 @@
 - **Sep 16, 01:35 PM** - NASA Rover Findings ‘Could be the Clearest Sign of Life’ on Mars (nyt)
 - **Sep 16, 01:50 PM** - To lead in space, we must go all-in on our industrial base (spacenews)
 - **Sep 16, 02:03 PM** - Laser communications supplier Mynaric signals recovery after production setbacks (spacenews)
+- **Sep 16, 02:20 PM** - Astro Digital to plug into Star Catcher solar-energy grid (spacenews)

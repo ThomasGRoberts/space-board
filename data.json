@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-16T00:02:31.394552+00:00",
-    "trigger_count": 6,
-    "current_item_id": "47cc5c4451c7a565f4d3c04e0aa87695",
+    "trigger_count": 0,
+    "current_item_id": "969cd831bf6026656651370509c4301c",
     "data": [
         {
             "id": "8091fd6ab5930f540b7565a0bd9f4304",
@@ -12682,9 +12682,12 @@
             "source": "spacenews",
             "text": "Astro Digital to plug into Star Catcher solar-energy grid",
             "source_link": "https://spacenews.com/astro-digital-to-plug-into-star-catcher-solar-energy-grid/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-09-16T14:03:44.937478Z"
+            "fetched_datetime": "2025-09-16T14:03:44.937478Z",
+            "shown_at": [
+                "2025-09-16T14:20:00.430593Z"
+            ]
         }
     ]
 }
