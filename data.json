@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-16T00:02:31.394552+00:00",
-    "trigger_count": 6,
-    "current_item_id": "36444ba5e12f812de4f5846e619ad0cb",
+    "trigger_count": 0,
+    "current_item_id": "6cc7291aa98bc21cd77b49ac71735dc1",
     "data": [
         {
             "id": "8091fd6ab5930f540b7565a0bd9f4304",
@@ -12688,6 +12688,18 @@
             "fetched_datetime": "2025-09-16T14:03:44.937478Z",
             "shown_at": [
                 "2025-09-16T14:20:00.430593Z"
+            ]
+        },
+        {
+            "id": "6cc7291aa98bc21cd77b49ac71735dc1",
+            "source": "spacenews",
+            "text": "SES moves to iterative MEO deployment with K2 Space partnership",
+            "source_link": "https://spacenews.com/ses-moves-to-iterative-meo-deployment-with-k2-space-partnership/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-16T14:50:12.978947Z",
+            "shown_at": [
+                "2025-09-16T14:50:13.821881Z"
             ]
         }
     ]

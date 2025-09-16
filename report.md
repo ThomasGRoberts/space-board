@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 15 | 15 | 25 | 25 |
-| breaking_defense | 1 | 2 | 20 | 49 |
+| spacenews | 16 | 16 | 26 | 26 |
+| breaking_defense | 1 | 2 | 20 | 48 |
 | supercluster | 0 | 1 | 105 | 195 |
 | nyt | 0 | 0 | 20 | 47 |
 
@@ -7127,3 +7127,4 @@
 - **Sep 16, 02:03 PM** - Laser communications supplier Mynaric signals recovery after production setbacks (spacenews)
 - **Sep 16, 02:20 PM** - Astro Digital to plug into Star Catcher solar-energy grid (spacenews)
 - **Sep 16, 02:35 PM** - EXCLUSIVE: DoD envisions prize competition for boost-phase SBI prototypes (breaking_defense)
+- **Sep 16, 02:50 PM** - SES moves to iterative MEO deployment with K2 Space partnership (spacenews)
