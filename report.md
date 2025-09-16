@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 13 | 22 | 22 |
-| breaking_defense | 2 | 2 | 22 | 50 |
-| supercluster | 0 | 1 | 98 | 188 |
+| breaking_defense | 2 | 2 | 22 | 49 |
+| supercluster | 0 | 1 | 99 | 189 |
 | nyt | 0 | 0 | 20 | 48 |
 
 # Shown Order
@@ -7115,3 +7115,4 @@
 - **Sep 16, 11:58 AM** - Was There Life on Mars? A Rock Found by NASA Keeps Getting More Interesting. (nyt)
 - **Sep 16, 12:42 PM** - Josef Aschbacher on geopolitics and Europe’s changing space debate (spacenews)
 - **Sep 16, 01:00 PM** - Anduril, Impulse to demo maneuvering satellite, with sights set on Space Force missions (breaking_defense)
+- **Sep 16, 01:18 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
