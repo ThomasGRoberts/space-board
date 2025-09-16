@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 9 | 13 | 13 |
+| spacenews | 10 | 10 | 14 | 14 |
 | breaking_defense | 1 | 1 | 25 | 53 |
-| supercluster | 0 | 1 | 132 | 153 |
+| supercluster | 0 | 1 | 130 | 153 |
 | nyt | 0 | 0 | 25 | 53 |
 
 # Shown Order
@@ -7058,3 +7058,4 @@
 - **Sep 16, 04:25 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 16, 04:27 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 16, 04:29 AM** - Launch companies double down on increasing flight rates despite setbacks (spacenews)
+- **Sep 16, 04:46 AM** - Isar Aerospace prepares for second Spectrum launch (spacenews)

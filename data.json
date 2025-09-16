@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-16T00:02:31.394552+00:00",
-    "trigger_count": 6,
-    "current_item_id": "561252eef21abd8f5be95edb6b845a10",
+    "trigger_count": 0,
+    "current_item_id": "37a443e58fd9e7e10147f0ab93fac421",
     "data": [
         {
             "id": "8091fd6ab5930f540b7565a0bd9f4304",
@@ -12542,6 +12542,18 @@
                 "2025-06-07T01:05:39.202061Z",
                 "2025-06-07T17:39:13.934517Z",
                 "2025-06-08T06:08:00.983891Z"
+            ]
+        },
+        {
+            "id": "37a443e58fd9e7e10147f0ab93fac421",
+            "source": "spacenews",
+            "text": "Isar Aerospace prepares for second Spectrum launch",
+            "source_link": "https://spacenews.com/isar-aerospace-prepares-for-second-spectrum-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-16T04:46:05.383717Z",
+            "shown_at": [
+                "2025-09-16T04:46:06.875650Z"
             ]
         }
     ]
