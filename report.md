@@ -5,7 +5,7 @@
 | spacenews | 10 | 10 | 15 | 15 |
 | breaking_defense | 1 | 1 | 25 | 53 |
 | supercluster | 0 | 1 | 125 | 160 |
-| nyt | 0 | 0 | 24 | 52 |
+| nyt | 0 | 0 | 25 | 53 |
 
 # Shown Order
 
@@ -7070,3 +7070,4 @@
 - **Sep 16, 05:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 16, 05:47 AM** - To lead in space, we must go all-in on our industrial base (spacenews)
 - **Sep 16, 06:02 AM** - Space Development Agency launches first ‘operational’ satellites for data relay (breaking_defense)
+- **Sep 16, 06:17 AM** - Happy 10th Birthday to the Laser Interferometer Gravitational-Wave Observatory. Now Drop Dead. (nyt)
