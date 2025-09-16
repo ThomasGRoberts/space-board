@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-16T00:02:31.394552+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8c68d5ba0da271003608cbc36d121aac",
+    "trigger_count": 0,
+    "current_item_id": "cf4e969e4e4b4d52fb788e4b37ed4bab",
     "data": [
         {
             "id": "8091fd6ab5930f540b7565a0bd9f4304",
@@ -12752,9 +12752,12 @@
             "source": "spacenews",
             "text": "BlackSky wins second NGA ‘Luno’ contract to track global changes with satellites and AI",
             "source_link": "https://spacenews.com/blacksky-wins-second-nga-luno-contract-to-track-global-changes-with-satellites-and-ai/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-09-16T16:02:29.818877Z"
+            "fetched_datetime": "2025-09-16T16:02:29.818877Z",
+            "shown_at": [
+                "2025-09-16T16:32:28.996379Z"
+            ]
         }
     ]
 }
