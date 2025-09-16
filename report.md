@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 19 | 19 | 30 | 30 |
-| breaking_defense | 2 | 3 | 19 | 47 |
+| breaking_defense | 2 | 3 | 19 | 48 |
 | supercluster | 0 | 1 | 112 | 209 |
 | nyt | 0 | 0 | 18 | 45 |
 
@@ -7148,3 +7148,4 @@
 - **Sep 16, 04:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 16, 05:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 16, 05:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 16, 05:08 PM** - White House comes out against Senate FY26 NDAA language on DoD spectrum rights (breaking_defense)
