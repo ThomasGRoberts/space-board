@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 10 | 14 | 14 |
-| breaking_defense | 1 | 1 | 26 | 54 |
+| breaking_defense | 1 | 1 | 25 | 53 |
 | supercluster | 0 | 1 | 126 | 153 |
-| nyt | 0 | 0 | 24 | 52 |
+| nyt | 0 | 0 | 25 | 53 |
 
 # Shown Order
 
@@ -7060,3 +7060,4 @@
 - **Sep 16, 04:29 AM** - Launch companies double down on increasing flight rates despite setbacks (spacenews)
 - **Sep 16, 04:46 AM** - Isar Aerospace prepares for second Spectrum launch (spacenews)
 - **Sep 16, 05:02 AM** - White House comes out against Senate FY26 NDAA language on DoD spectrum rights (breaking_defense)
+- **Sep 16, 05:18 AM** - Happy 10th Birthday to the Laser Interferometer Gravitational-Wave Observatory. Now Drop Dead. (nyt)
