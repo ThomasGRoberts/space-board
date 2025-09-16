@@ -5,7 +5,7 @@
 | spacenews | 9 | 9 | 10 | 10 |
 | breaking_defense | 1 | 1 | 26 | 55 |
 | supercluster | 2 | 2 | 133 | 133 |
-| nyt | 0 | 0 | 25 | 54 |
+| nyt | 0 | 0 | 25 | 53 |
 
 # Shown Order
 
@@ -7029,4 +7029,4 @@
 - **Sep 16, 12:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 16, 12:42 AM** - York Space hits milestone with largest satellite delivery yet (spacenews)
 - **Sep 16, 12:57 AM** - EXCLUSIVE: SDA eyeing airborne target tracking satellites demonstration, says Tournear (breaking_defense)
-- **Sep 16, 01:52 AM** - China Will Launch the Long March 2C Rocket (supercluster)
+- **Sep 16, 01:57 AM** - China Will Launch the Long March 2C Rocket (supercluster)
