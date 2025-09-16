@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 9 | 12 | 12 |
 | breaking_defense | 1 | 1 | 26 | 54 |
-| supercluster | 0 | 1 | 126 | 146 |
+| supercluster | 0 | 1 | 127 | 147 |
 | nyt | 0 | 0 | 25 | 54 |
 
 # Shown Order
@@ -7050,3 +7050,4 @@
 - **Sep 16, 03:25 AM** - York Space hits milestone with largest satellite delivery yet (spacenews)
 - **Sep 16, 03:42 AM** - White House comes out against Senate FY26 NDAA language on DoD spectrum rights (breaking_defense)
 - **Sep 16, 03:59 AM** - NASA Rover Findings ‘Could be the Clearest Sign of Life’ on Mars (nyt)
+- **Sep 16, 04:15 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
