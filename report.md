@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 11 | 19 | 19 |
 | breaking_defense | 1 | 1 | 23 | 51 |
-| supercluster | 0 | 1 | 113 | 182 |
-| nyt | 0 | 0 | 23 | 51 |
+| supercluster | 0 | 1 | 111 | 183 |
+| nyt | 0 | 0 | 23 | 50 |
 
 # Shown Order
 
@@ -7103,3 +7103,4 @@
 - **Sep 16, 09:55 AM** - Space Development Agency launches first ‘operational’ satellites for data relay (breaking_defense)
 - **Sep 16, 10:12 AM** - NASA Rover Findings ‘Could Be the Clearest Sign of Life’ on Mars (nyt)
 - **Sep 16, 10:34 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 16, 10:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
