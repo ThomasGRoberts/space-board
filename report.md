@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 11 | 18 | 18 |
+| spacenews | 11 | 11 | 19 | 19 |
 | breaking_defense | 1 | 1 | 23 | 51 |
 | supercluster | 0 | 1 | 119 | 181 |
 | nyt | 0 | 0 | 23 | 51 |
@@ -7099,3 +7099,4 @@
 - **Sep 16, 09:27 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 16, 09:29 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 16, 09:32 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 16, 09:35 AM** - Military spending and direct-to-device competition are reshaping the space economy (spacenews)
