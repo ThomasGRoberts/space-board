@@ -5,7 +5,7 @@
 | spacenews | 11 | 11 | 17 | 17 |
 | breaking_defense | 1 | 1 | 25 | 53 |
 | supercluster | 0 | 1 | 119 | 167 |
-| nyt | 0 | 0 | 23 | 51 |
+| nyt | 0 | 0 | 24 | 52 |
 
 # Shown Order
 
@@ -7081,3 +7081,4 @@
 - **Sep 16, 06:48 AM** - EchoStar eyes satcom expansion after ‘forced pivot’ from spectrum sales (spacenews)
 - **Sep 16, 07:03 AM** - SDA picks GMV to build next-generation space safety system (spacenews)
 - **Sep 16, 07:20 AM** - EXCLUSIVE: DoD envisions prize competition for boost-phase SBI prototypes (breaking_defense)
+- **Sep 16, 07:35 AM** - A Defender of Darkness in the Darkest Place on Earth (nyt)
