@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 9 | 10 | 10 |
 | breaking_defense | 1 | 1 | 26 | 55 |
-| supercluster | 2 | 2 | 133 | 133 |
-| nyt | 0 | 0 | 25 | 53 |
+| supercluster | 1 | 1 | 132 | 132 |
+| nyt | 0 | 0 | 26 | 54 |
 
 # Shown Order
 
@@ -7029,4 +7029,4 @@
 - **Sep 16, 12:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 16, 12:42 AM** - York Space hits milestone with largest satellite delivery yet (spacenews)
 - **Sep 16, 12:57 AM** - EXCLUSIVE: SDA eyeing airborne target tracking satellites demonstration, says Tournear (breaking_defense)
-- **Sep 16, 02:02 AM** - China Will Launch the Long March 2C Rocket (supercluster)
+- **Sep 16, 02:05 AM** - Happy 10th Birthday to the Laser Interferometer Gravitational-Wave Observatory. Now Drop Dead. (nyt)
