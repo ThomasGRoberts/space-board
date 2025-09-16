@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 12 | 21 | 21 |
-| breaking_defense | 1 | 1 | 22 | 50 |
+| breaking_defense | 1 | 1 | 23 | 50 |
 | supercluster | 0 | 1 | 105 | 188 |
 | nyt | 0 | 0 | 21 | 49 |
 
@@ -7111,3 +7111,4 @@
 - **Sep 16, 10:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 16, 10:57 AM** - To lead in space, we must go all-in on our industrial base (spacenews)
 - **Sep 16, 11:18 AM** - How SpaceX turned a Texas marsh into the world’s most watched spaceport (spacenews)
+- **Sep 16, 11:40 AM** - White House comes out against Senate FY26 NDAA language on DoD spectrum rights (breaking_defense)
