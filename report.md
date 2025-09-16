@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 19 | 19 | 32 | 32 |
-| breaking_defense | 3 | 4 | 19 | 47 |
+| breaking_defense | 3 | 4 | 18 | 47 |
 | supercluster | 0 | 1 | 112 | 223 |
-| nyt | 0 | 0 | 17 | 44 |
+| nyt | 0 | 0 | 18 | 45 |
 
 # Shown Order
 
@@ -7169,3 +7169,4 @@
 - **Sep 16, 07:22 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 16, 07:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 16, 07:26 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 16, 07:27 PM** - NASA Rover Findings ‘Could be the Clearest Sign of Life’ on Mars (nyt)
