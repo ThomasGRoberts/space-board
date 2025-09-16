@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 21 | 21 | 35 | 35 |
-| breaking_defense | 4 | 5 | 19 | 47 |
-| supercluster | 0 | 1 | 99 | 224 |
+| breaking_defense | 4 | 5 | 18 | 46 |
+| supercluster | 0 | 1 | 100 | 225 |
 | nyt | 0 | 0 | 16 | 43 |
 
 # Shown Order
@@ -7176,3 +7176,4 @@
 - **Sep 16, 08:26 PM** - Axiom and Spacebilt to establish ISS data center node (spacenews)
 - **Sep 16, 08:43 PM** - The Break Out: A Golden Dome prize pool and Project Octopus [VIDEO] (breaking_defense)
 - **Sep 16, 08:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 16, 08:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
