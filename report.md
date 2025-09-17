@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 21 | 37 |
+| nyt | 1 | 1 | 22 | 38 |
 | spacenews | 9 | 23 | 27 | 62 |
 | breaking_defense | 1 | 5 | 22 | 41 |
 | supercluster | 1 | 1 | 38 | 38 |
@@ -6891,3 +6891,4 @@
 - **Sep 17, 09:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 17, 09:42 PM** - House Intel Committee props up FY26 funding for NRO commercial imagery buys (breaking_defense)
 - **Sep 17, 09:58 PM** - ReOrbit raises 45 million euros to increase spacecraft production (spacenews)
+- **Sep 17, 10:12 PM** - A Defender of Darkness in the Darkest Place on Earth (nyt)
