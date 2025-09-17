@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 19 | 44 |
-| spacenews | 14 | 23 | 30 | 42 |
+| spacenews | 15 | 24 | 31 | 43 |
 | breaking_defense | 4 | 5 | 20 | 46 |
 | supercluster | 0 | 0 | 119 | 252 |
 
@@ -7064,3 +7064,4 @@
 - **Sep 17, 02:57 AM** - Falcon 9 launches upgraded Cygnus cargo spacecraft to ISS (spacenews)
 - **Sep 17, 03:13 AM** - Anduril, Impulse to demo maneuvering satellite, with sights set on Space Force missions (breaking_defense)
 - **Sep 17, 03:30 AM** - NASA Rover Findings ‘Could Be the Clearest Sign of Life’ on Mars (nyt)
+- **Sep 17, 03:47 AM** - Thruster issue delays Cygnus arrival at ISS (spacenews)
