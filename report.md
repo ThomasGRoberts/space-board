@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 19 | 43 |
-| spacenews | 14 | 25 | 30 | 47 |
+| spacenews | 14 | 25 | 31 | 48 |
 | breaking_defense | 4 | 5 | 21 | 45 |
 | supercluster | 0 | 0 | 121 | 240 |
 
@@ -7105,3 +7105,4 @@
 - **Sep 17, 07:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 17, 07:42 AM** - House Intel Committee props up FY26 funding for NRO commercial imagery buys (breaking_defense)
 - **Sep 17, 07:56 AM** - A Defender of Darkness in the Darkest Place on Earth (nyt)
+- **Sep 17, 08:12 AM** - EchoStar eyes satcom expansion after ‘forced pivot’ from spectrum sales (spacenews)
