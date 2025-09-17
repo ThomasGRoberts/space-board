@@ -1,9 +1,242 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-09-16T00:02:31.394552+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9c9bb622d8d2936ad15a07ba2938e496",
+    "last_run_datetime": "2025-09-17T00:02:22.917861+00:00",
+    "trigger_count": 0,
+    "current_item_id": "1577846b5aa242801e0842326f614e1c",
     "data": [
+        {
+            "id": "16e90d6a0420cf7c7201c992a2384505",
+            "source": "nyt",
+            "text": "A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards",
+            "source_link": "https://www.nytimes.com/2025/09/16/science/tektites-australia-asteroid-impact.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-16T22:17:41.083019Z",
+            "shown_at": [
+                "2025-09-16T22:17:42.056824Z"
+            ]
+        },
+        {
+            "id": "e04d8c9c26a20421d0c0490894b901da",
+            "source": "spacenews",
+            "text": "Impulse Space and Anduril to demonstrate autonomous spacecraft maneuvers in GEO",
+            "source_link": "https://spacenews.com/impulse-space-and-anduril-to-demonstrate-autonomous-spacecraft-maneuvers-in-geo/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-16T21:27:52.869325Z",
+            "shown_at": [
+                "2025-09-16T21:45:58.556793Z"
+            ]
+        },
+        {
+            "id": "94875c491d428b9eaa2a0c49fccd95f6",
+            "source": "spacenews",
+            "text": "Project Kuiper plots broadband services in five countries by end of March",
+            "source_link": "https://spacenews.com/project-kuiper-plots-broadband-services-in-five-countries-by-end-of-march/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-16T21:27:52.869258Z",
+            "shown_at": [
+                "2025-09-16T21:27:53.895641Z"
+            ]
+        },
+        {
+            "id": "0aca10c978df0ebfa56ebc508b9323ba",
+            "source": "breaking_defense",
+            "text": "The Break Out: A Golden Dome prize pool and Project Octopus [VIDEO]",
+            "source_link": "https://breakingdefense.com/2025/09/the-break-out-a-golden-dome-prize-pool-and-project-octopus-video/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-16T20:43:34.324020Z",
+            "shown_at": [
+                "2025-09-16T20:43:35.964053Z",
+                "2025-09-16T23:02:24.562225Z"
+            ]
+        },
+        {
+            "id": "e67d7ce3d2079b59aeba5b64336f173e",
+            "source": "spacenews",
+            "text": "Axiom and Spacebilt to establish ISS data center node",
+            "source_link": "https://spacenews.com/axiom-and-spacebilt-to-establish-iss-data-center-node/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-16T20:26:17.882754Z",
+            "shown_at": [
+                "2025-09-16T20:26:18.675033Z"
+            ]
+        },
+        {
+            "id": "a2da4c81db70691b20601a51cb532fcd",
+            "source": "spacenews",
+            "text": "GHGSat announces $34 million in equity and debt financing",
+            "source_link": "https://spacenews.com/ghgsat-announces-34-million-in-equity-and-debt-financing/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-16T19:58:06.233368Z",
+            "shown_at": [
+                "2025-09-16T19:58:08.944073Z"
+            ]
+        },
+        {
+            "id": "1577846b5aa242801e0842326f614e1c",
+            "source": "breaking_defense",
+            "text": "The Earth Observation industry’s biggest threat isn’t China, it’s Washington",
+            "source_link": "https://breakingdefense.com/2025/09/the-earth-observation-industrys-biggest-threat-isnt-china-its-washington/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-16T18:55:37.271179Z",
+            "shown_at": [
+                "2025-09-16T18:55:41.645384Z",
+                "2025-09-17T00:02:29.715067Z"
+            ]
+        },
+        {
+            "id": "cf4e969e4e4b4d52fb788e4b37ed4bab",
+            "source": "spacenews",
+            "text": "BlackSky wins second NGA ‘Luno’ contract to track global changes with satellites and AI",
+            "source_link": "https://spacenews.com/blacksky-wins-second-nga-luno-contract-to-track-global-changes-with-satellites-and-ai/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-16T16:02:29.818877Z",
+            "shown_at": [
+                "2025-09-16T16:32:28.996379Z"
+            ]
+        },
+        {
+            "id": "8c68d5ba0da271003608cbc36d121aac",
+            "source": "spacenews",
+            "text": "Viasat and Space42 to pool satellite spectrum for direct-to-device services",
+            "source_link": "https://spacenews.com/viasat-and-space42-to-pool-satellite-spectrum-for-direct-to-device-services/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-16T16:02:29.818831Z",
+            "shown_at": [
+                "2025-09-16T16:17:16.391056Z"
+            ]
+        },
+        {
+            "id": "2a627c99545e7fd9a74b580f095de2f1",
+            "source": "spacenews",
+            "text": "SpaceX planning first tests of new direct-to-device spectrum next year",
+            "source_link": "https://spacenews.com/spacex-planning-first-tests-of-new-direct-to-device-spectrum-next-year/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-16T16:02:29.818772Z",
+            "shown_at": [
+                "2025-09-16T16:02:31.156109Z",
+                "2025-09-16T22:47:53.884317Z"
+            ]
+        },
+        {
+            "id": "5193470a108e6eca6448eb9dc4a91101",
+            "source": "breaking_defense",
+            "text": "House Intel Committee props up FY26 funding for NRO commercial imagery buys",
+            "source_link": "https://breakingdefense.com/2025/09/house-intel-committee-props-up-fy26-funding-for-nro-commercial-imagery-buys/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-16T15:19:56.948093Z",
+            "shown_at": [
+                "2025-09-16T15:19:57.997156Z"
+            ]
+        },
+        {
+            "id": "6cc7291aa98bc21cd77b49ac71735dc1",
+            "source": "spacenews",
+            "text": "SES moves to iterative MEO deployment with K2 Space partnership",
+            "source_link": "https://spacenews.com/ses-moves-to-iterative-meo-deployment-with-k2-space-partnership/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-16T14:50:12.978947Z",
+            "shown_at": [
+                "2025-09-16T14:50:13.821881Z"
+            ]
+        },
+        {
+            "id": "969cd831bf6026656651370509c4301c",
+            "source": "spacenews",
+            "text": "Astro Digital to plug into Star Catcher solar-energy grid",
+            "source_link": "https://spacenews.com/astro-digital-to-plug-into-star-catcher-solar-energy-grid/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-16T14:03:44.937478Z",
+            "shown_at": [
+                "2025-09-16T14:20:00.430593Z"
+            ]
+        },
+        {
+            "id": "47cc5c4451c7a565f4d3c04e0aa87695",
+            "source": "spacenews",
+            "text": "Laser communications supplier Mynaric signals recovery after production setbacks",
+            "source_link": "https://spacenews.com/laser-communications-supplier-mynaric-signals-recovery-after-production-setbacks/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-16T14:03:44.937408Z",
+            "shown_at": [
+                "2025-09-16T14:03:45.682134Z"
+            ]
+        },
+        {
+            "id": "c79ec3916394e43732a6d959a9e91876",
+            "source": "breaking_defense",
+            "text": "Anduril, Impulse to demo maneuvering satellite, with sights set on Space Force missions",
+            "source_link": "https://breakingdefense.com/2025/09/anduril-impulse-to-demo-maneuvering-satellite-with-sights-set-on-space-force-missions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-16T13:00:01.781841Z",
+            "shown_at": [
+                "2025-09-16T13:00:02.831492Z",
+                "2025-09-16T18:09:55.370874Z"
+            ]
+        },
+        {
+            "id": "5e3283b32d0958f6d9f3735eb1386dfa",
+            "source": "spacenews",
+            "text": "Josef Aschbacher on geopolitics and Europe’s changing space debate",
+            "source_link": "https://spacenews.com/josef-aschbacher-on-geopolitics-and-europes-changing-space-debate/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-16T12:22:21.605542Z",
+            "shown_at": [
+                "2025-09-16T12:42:18.445326Z",
+                "2025-09-16T18:40:06.007937Z"
+            ]
+        },
+        {
+            "id": "a192de21bdb3a0fcdaeae2e92107392f",
+            "source": "spacenews",
+            "text": "How SpaceX turned a Texas marsh into the world’s most watched spaceport",
+            "source_link": "https://spacenews.com/how-spacex-turned-a-texas-marsh-into-the-worlds-most-watched-spaceport/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-16T11:18:10.813005Z",
+            "shown_at": [
+                "2025-09-16T11:18:12.483816Z"
+            ]
+        },
+        {
+            "id": "836df4c45dbfd897963d41ab93622a40",
+            "source": "spacenews",
+            "text": "SDA picks GMV to build next-generation space safety system",
+            "source_link": "https://spacenews.com/sda-picks-gmv-to-build-next-generation-space-safety-system/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-16T07:03:50.179932Z",
+            "shown_at": [
+                "2025-09-16T07:03:50.911742Z"
+            ]
+        },
+        {
+            "id": "37a443e58fd9e7e10147f0ab93fac421",
+            "source": "spacenews",
+            "text": "Isar Aerospace prepares for second Spectrum launch",
+            "source_link": "https://spacenews.com/isar-aerospace-prepares-for-second-spectrum-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-16T04:46:05.383717Z",
+            "shown_at": [
+                "2025-09-16T04:46:06.875650Z"
+            ]
+        },
         {
             "id": "8091fd6ab5930f540b7565a0bd9f4304",
             "source": "spacenews",
@@ -12295,609 +12528,6 @@
                 "2025-06-08T10:09:37.548037Z",
                 "2025-06-08T11:05:34.834885Z",
                 "2025-06-10T10:02:14.896325Z"
-            ]
-        },
-        {
-            "id": "80b2a6bb91e060db18ba6bdd015a0da1",
-            "source": "spacenews",
-            "text": "NASA’s budget crisis presents an opportunity for change",
-            "source_link": "https://spacenews.com/nasas-budget-crisis-presents-an-opportunity-for-change/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-04T11:09:51.802017Z",
-            "shown_at": [
-                "2025-06-04T11:09:52.908486Z",
-                "2025-06-04T21:41:41.798465Z",
-                "2025-06-09T05:09:40.441980Z",
-                "2025-06-09T10:51:21.647560Z",
-                "2025-06-09T23:27:47.071814Z",
-                "2025-06-10T07:06:08.471595Z"
-            ]
-        },
-        {
-            "id": "37cf8f06975e421ef678333dca527090",
-            "source": "spacenews",
-            "text": "Maxar inks partnership with Saab for defense applications of geospatial data",
-            "source_link": "https://spacenews.com/maxar-inks-partnership-with-saab-for-defense-applications-of-geospatial-data/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-04T10:41:54.242764Z",
-            "shown_at": [
-                "2025-06-04T10:41:55.210233Z",
-                "2025-06-06T07:39:47.815283Z",
-                "2025-06-07T09:19:14.801626Z"
-            ]
-        },
-        {
-            "id": "4f4f22565f9eca7843f22ad4b54eade9",
-            "source": "spacenews",
-            "text": "Astroscale clears critical design review for OneWeb satellite removal demo",
-            "source_link": "https://spacenews.com/astroscale-clears-critical-design-review-for-oneweb-satellite-removal-demo/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-04T07:09:40.475145Z",
-            "shown_at": [
-                "2025-06-04T07:09:41.170717Z",
-                "2025-06-04T09:57:28.941745Z",
-                "2025-06-05T17:03:43.126234Z",
-                "2025-06-08T09:13:43.679742Z"
-            ]
-        },
-        {
-            "id": "8e33dc43ee5aad33113ae588eed9780f",
-            "source": "spacenews",
-            "text": "Impulse Space raises $300 million for expansion and new technology development",
-            "source_link": "https://spacenews.com/impulse-space-raises-300-million-for-expansion-and-new-technology-development/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-03T22:25:35.891747Z",
-            "shown_at": [
-                "2025-06-03T22:25:36.505395Z",
-                "2025-06-04T01:21:34.688451Z",
-                "2025-06-05T00:43:38.595393Z",
-                "2025-06-05T02:39:55.634461Z",
-                "2025-06-06T20:47:29.304527Z",
-                "2025-06-08T12:59:48.132945Z"
-            ]
-        },
-        {
-            "id": "fcad5bfe2236b769eba2f03892c066a3",
-            "source": "breaking_defense",
-            "text": "Space Force awards BAE $1.2B for missile warning sats in MEO",
-            "source_link": "https://breakingdefense.com/2025/06/space-force-awards-bae-1-2b-for-missile-warning-sats-in-meo/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-03T20:57:42.924033Z",
-            "shown_at": [
-                "2025-06-03T20:57:44.650267Z",
-                "2025-06-03T23:53:52.208517Z",
-                "2025-06-04T07:37:30.786467Z",
-                "2025-06-04T11:54:08.286561Z",
-                "2025-06-04T15:51:37.986017Z",
-                "2025-06-05T01:13:26.947835Z",
-                "2025-06-05T06:55:57.545745Z",
-                "2025-06-05T10:15:38.431490Z",
-                "2025-06-06T01:33:32.605755Z",
-                "2025-06-06T16:31:49.798256Z",
-                "2025-06-06T17:27:50.640737Z",
-                "2025-06-06T20:19:43.253929Z",
-                "2025-06-06T23:37:45.554971Z",
-                "2025-06-07T00:35:57.842950Z",
-                "2025-06-07T02:29:08.800223Z",
-                "2025-06-07T04:39:31.600228Z",
-                "2025-06-07T06:35:44.697580Z",
-                "2025-06-07T07:37:27.148899Z",
-                "2025-06-07T08:33:23.934089Z",
-                "2025-06-07T10:31:42.724481Z",
-                "2025-06-07T18:07:40.994390Z",
-                "2025-06-07T19:05:35.635262Z",
-                "2025-06-08T05:39:30.492320Z",
-                "2025-06-08T08:29:47.377088Z",
-                "2025-06-08T16:02:01.652762Z",
-                "2025-06-08T17:00:45.152122Z",
-                "2025-06-08T17:59:27.656507Z",
-                "2025-06-08T18:55:29.172776Z",
-                "2025-06-08T20:51:14.089412Z",
-                "2025-06-08T21:47:25.527970Z",
-                "2025-06-09T00:38:01.291961Z",
-                "2025-06-09T01:37:43.759554Z",
-                "2025-06-09T04:27:31.626299Z",
-                "2025-06-09T05:23:30.483311Z",
-                "2025-06-09T07:19:13.520684Z",
-                "2025-06-09T13:55:56.703372Z",
-                "2025-06-09T21:35:32.611578Z",
-                "2025-06-09T23:14:05.945288Z",
-                "2025-06-10T01:09:38.015570Z",
-                "2025-06-10T05:51:42.590051Z"
-            ]
-        },
-        {
-            "id": "7894414e46b7abb93c07f56faa8946a8",
-            "source": "spacenews",
-            "text": "Commercial space companies to fund launch range upgrades under $4 billion contract",
-            "source_link": "https://spacenews.com/commercial-space-companies-to-fund-launch-range-upgrades-under-4-billion-contract/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-03T18:51:47.434154Z",
-            "shown_at": [
-                "2025-06-03T18:51:48.371456Z",
-                "2025-06-06T22:55:28.181432Z",
-                "2025-06-06T23:51:44.679056Z",
-                "2025-06-07T07:23:49.854765Z",
-                "2025-06-08T20:37:42.917347Z",
-                "2025-06-09T04:13:34.830109Z",
-                "2025-06-10T02:19:42.629486Z"
-            ]
-        },
-        {
-            "id": "1e63ede54337155328ba00068317c1c9",
-            "source": "spacenews",
-            "text": "The Commercial Space Federation Announces the Creation of the Space Supply Chain Council (S2C2)",
-            "source_link": "https://spacenews.com/the-commercial-space-federation-announces-the-creation-of-the-space-supply-chain-council-s2c2/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-03T18:07:28.591448Z",
-            "shown_at": [
-                "2025-06-03T18:07:29.211430Z",
-                "2025-06-05T16:07:29.191562Z",
-                "2025-06-06T03:43:39.121344Z",
-                "2025-06-08T16:45:46.731953Z",
-                "2025-06-08T18:41:53.688521Z"
-            ]
-        },
-        {
-            "id": "4b5b66d79c910c3bfcf9b8efd169e51a",
-            "source": "spacenews",
-            "text": "Voyager launches IPO with $1.6 billion valuation target",
-            "source_link": "https://spacenews.com/voyager-launches-ipo-with-1-6-billion-valuation-target/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-03T15:29:34.686953Z",
-            "shown_at": [
-                "2025-06-03T15:29:35.376828Z",
-                "2025-06-03T17:25:40.326559Z",
-                "2025-06-08T01:33:21.738211Z",
-                "2025-06-08T07:17:43.017277Z"
-            ]
-        },
-        {
-            "id": "60b8e71dfe609430f6519b032125c2ef",
-            "source": "spacenews",
-            "text": "Rocket Lab launches BlackSky satellite",
-            "source_link": "https://spacenews.com/rocket-lab-launches-blacksky-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-03T11:33:39.414390Z",
-            "shown_at": [
-                "2025-06-03T11:33:40.118764Z",
-                "2025-06-04T16:05:40.295629Z",
-                "2025-06-05T20:29:46.237724Z",
-                "2025-06-09T01:21:53.690425Z",
-                "2025-06-09T08:59:38.565233Z"
-            ]
-        },
-        {
-            "id": "cea7553656eab5955122ca9a70a96b7f",
-            "source": "spacenews",
-            "text": "Golden Dome: It’s all about the data",
-            "source_link": "https://spacenews.com/golden-dome-its-all-about-the-data/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-02T22:25:46.573789Z",
-            "shown_at": [
-                "2025-06-02T22:25:47.835669Z",
-                "2025-06-03T21:41:37.512913Z",
-                "2025-06-07T00:49:52.947219Z"
-            ]
-        },
-        {
-            "id": "bd9854a9f2a4e0b5733e946966cd87c4",
-            "source": "spacenews",
-            "text": "South Korea’s Venus-focused cubesat advances as larger missions face NASA cuts",
-            "source_link": "https://spacenews.com/south-koreas-venus-focused-cubesat-advances-as-larger-missions-face-nasa-cuts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-02T21:27:25.604067Z",
-            "shown_at": [
-                "2025-06-02T21:27:26.214635Z",
-                "2025-06-03T06:09:35.237290Z",
-                "2025-06-08T04:27:48.478524Z",
-                "2025-06-08T14:51:59.689953Z",
-                "2025-06-09T15:09:38.185823Z"
-            ]
-        },
-        {
-            "id": "3f7a56f20982d38ce24bc8d2530f3f1c",
-            "source": "spacenews",
-            "text": "EchoStar bets on TV amid FCC mobile scrutiny",
-            "source_link": "https://spacenews.com/echostar-bets-on-tv-amid-fcc-mobile-scrutiny/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-02T17:27:07.494143Z",
-            "shown_at": [
-                "2025-06-02T17:27:08.136309Z",
-                "2025-06-07T14:01:55.879625Z",
-                "2025-06-08T17:45:36.488437Z",
-                "2025-06-09T17:03:28.430978Z"
-            ]
-        },
-        {
-            "id": "c2e021ddac58a58dde4fe6c23cd960f2",
-            "source": "spacenews",
-            "text": "EYCORE – Emerging Polish Space Defence Company Becomes Key Player in Developing National Earth Observation Constellation",
-            "source_link": "https://spacenews.com/eycore-emerging-polish-space-defence-company-becomes-key-player-in-developing-national-earth-observation-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-02T15:19:51.651712Z",
-            "shown_at": [
-                "2025-06-02T15:19:52.750400Z",
-                "2025-06-05T07:23:32.450358Z",
-                "2025-06-06T15:02:15.648556Z",
-                "2025-06-07T19:47:12.754141Z",
-                "2025-06-08T03:27:30.618077Z"
-            ]
-        },
-        {
-            "id": "04a601e4483e9e952dd3727cc702a09a",
-            "source": "breaking_defense",
-            "text": "US cuts to commercial space imagery could endanger ‘long-term health’ of industry, say insiders",
-            "source_link": "https://breakingdefense.com/2025/06/us-cuts-to-commercial-space-imagery-could-endanger-long-term-health-of-industry-say-insiders/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-02T15:00:02.536702Z",
-            "shown_at": [
-                "2025-06-02T15:00:03.258872Z",
-                "2025-06-02T16:02:19.936025Z",
-                "2025-06-02T19:07:10.613549Z",
-                "2025-06-02T22:11:58.304736Z",
-                "2025-06-03T07:53:33.444820Z",
-                "2025-06-03T09:47:50.861639Z",
-                "2025-06-03T10:52:02.811043Z",
-                "2025-06-04T03:45:44.387763Z",
-                "2025-06-04T04:45:38.638684Z",
-                "2025-06-04T08:33:57.115285Z",
-                "2025-06-04T10:27:32.501143Z",
-                "2025-06-04T16:47:27.204254Z",
-                "2025-06-04T17:43:27.885078Z",
-                "2025-06-05T04:05:29.020607Z",
-                "2025-06-05T17:47:14.007357Z",
-                "2025-06-06T04:27:42.702145Z",
-                "2025-06-06T08:23:55.822240Z",
-                "2025-06-06T10:17:42.865020Z",
-                "2025-06-06T21:17:42.619356Z",
-                "2025-06-07T14:15:50.701435Z",
-                "2025-06-07T16:13:37.696385Z",
-                "2025-06-07T17:11:35.432426Z",
-                "2025-06-07T22:59:25.786326Z",
-                "2025-06-08T01:47:43.811663Z",
-                "2025-06-08T02:45:39.728010Z",
-                "2025-06-08T03:43:27.351215Z",
-                "2025-06-08T04:43:33.751907Z",
-                "2025-06-08T07:32:02.194261Z",
-                "2025-06-08T10:23:33.579519Z",
-                "2025-06-08T13:13:45.359227Z",
-                "2025-06-08T15:05:36.614503Z",
-                "2025-06-09T09:13:42.667636Z",
-                "2025-06-09T12:02:19.933821Z",
-                "2025-06-09T14:53:53.755904Z"
-            ]
-        },
-        {
-            "id": "25abb1fa34d8df018c3c596c3cf3f435",
-            "source": "spacenews",
-            "text": "Space assets could be held ransom. Will we have any choice but to pay?",
-            "source_link": "https://spacenews.com/space-assets-could-be-held-ransom-will-we-have-any-choice-but-to-pay/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-02T13:05:18.852796Z",
-            "shown_at": [
-                "2025-06-02T13:05:19.447622Z",
-                "2025-06-03T09:03:45.970536Z",
-                "2025-06-04T02:17:44.635078Z",
-                "2025-06-04T04:15:17.610422Z",
-                "2025-06-05T06:27:32.078526Z",
-                "2025-06-05T08:21:32.470648Z",
-                "2025-06-05T12:42:05.605870Z",
-                "2025-06-06T12:41:43.644336Z",
-                "2025-06-06T16:02:02.755961Z",
-                "2025-06-07T01:47:50.763347Z"
-            ]
-        },
-        {
-            "id": "04064591b919426f514878c5e753b7c0",
-            "source": "spacenews",
-            "text": "SpaceNews Appoints Laurie Diamond as VP of Business Development to Accelerate Revenue Growth and Strategic Expansion",
-            "source_link": "https://spacenews.com/spacenews-appoints-laurie-diamond-as-vice-president-of-business-development-to-accelerate-revenue-growth-and-strategic-expansion/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-02T12:37:46.275257Z",
-            "shown_at": [
-                "2025-06-02T12:37:47.157554Z",
-                "2025-06-02T14:02:09.846532Z",
-                "2025-06-03T11:05:11.406498Z",
-                "2025-06-03T16:27:46.667002Z",
-                "2025-06-04T17:57:07.690655Z",
-                "2025-06-07T18:51:53.223896Z",
-                "2025-06-07T23:41:31.772230Z"
-            ]
-        },
-        {
-            "id": "faa67bfd062b5246f8c5f87a0a52ff35",
-            "source": "spacenews",
-            "text": "SpaceNews Appoints Laurie Diamond as Vice President of Business Development to Accelerate Revenue Growth and Strategic Expansion",
-            "source_link": "https://spacenews.com/spacenews-appoints-laurie-diamond-as-vice-president-of-business-development-to-accelerate-revenue-growth-and-strategic-expansion/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-02T12:21:53.295964Z",
-            "shown_at": [
-                "2025-06-02T12:21:54.434561Z",
-                "2025-06-02T18:25:41.825297Z",
-                "2025-06-05T23:35:24.503003Z"
-            ]
-        },
-        {
-            "id": "7c62ca9c0cfaf6eeadd1d84951e9c714",
-            "source": "nyt",
-            "text": "Northern Lights May Be Visible as Far South as Alabama",
-            "source_link": "https://www.nytimes.com/2025/06/01/weather/northern-lights-visible-states.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-01T13:01:38.155239Z",
-            "shown_at": [
-                "2025-06-01T13:01:38.691621Z",
-                "2025-06-02T15:33:37.530753Z",
-                "2025-06-02T22:39:37.541495Z",
-                "2025-06-02T23:53:39.511393Z",
-                "2025-06-03T12:15:34.951319Z",
-                "2025-06-04T09:43:43.817257Z",
-                "2025-06-04T12:07:32.874219Z",
-                "2025-06-05T00:57:55.581133Z",
-                "2025-06-05T03:51:43.020832Z",
-                "2025-06-05T05:43:27.616996Z",
-                "2025-06-05T06:41:29.629858Z",
-                "2025-06-05T07:37:29.143742Z",
-                "2025-06-05T10:57:44.522457Z",
-                "2025-06-05T12:09:44.561639Z",
-                "2025-06-05T16:35:32.903549Z",
-                "2025-06-05T22:53:55.459917Z",
-                "2025-06-06T01:47:47.867963Z",
-                "2025-06-06T02:59:28.694968Z",
-                "2025-06-06T16:45:44.389645Z",
-                "2025-06-07T01:05:39.202061Z",
-                "2025-06-07T17:39:13.934517Z",
-                "2025-06-08T06:08:00.983891Z"
-            ]
-        },
-        {
-            "id": "37a443e58fd9e7e10147f0ab93fac421",
-            "source": "spacenews",
-            "text": "Isar Aerospace prepares for second Spectrum launch",
-            "source_link": "https://spacenews.com/isar-aerospace-prepares-for-second-spectrum-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-16T04:46:05.383717Z",
-            "shown_at": [
-                "2025-09-16T04:46:06.875650Z"
-            ]
-        },
-        {
-            "id": "836df4c45dbfd897963d41ab93622a40",
-            "source": "spacenews",
-            "text": "SDA picks GMV to build next-generation space safety system",
-            "source_link": "https://spacenews.com/sda-picks-gmv-to-build-next-generation-space-safety-system/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-16T07:03:50.179932Z",
-            "shown_at": [
-                "2025-09-16T07:03:50.911742Z"
-            ]
-        },
-        {
-            "id": "a192de21bdb3a0fcdaeae2e92107392f",
-            "source": "spacenews",
-            "text": "How SpaceX turned a Texas marsh into the world’s most watched spaceport",
-            "source_link": "https://spacenews.com/how-spacex-turned-a-texas-marsh-into-the-worlds-most-watched-spaceport/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-16T11:18:10.813005Z",
-            "shown_at": [
-                "2025-09-16T11:18:12.483816Z"
-            ]
-        },
-        {
-            "id": "5e3283b32d0958f6d9f3735eb1386dfa",
-            "source": "spacenews",
-            "text": "Josef Aschbacher on geopolitics and Europe’s changing space debate",
-            "source_link": "https://spacenews.com/josef-aschbacher-on-geopolitics-and-europes-changing-space-debate/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-16T12:22:21.605542Z",
-            "shown_at": [
-                "2025-09-16T12:42:18.445326Z",
-                "2025-09-16T18:40:06.007937Z"
-            ]
-        },
-        {
-            "id": "c79ec3916394e43732a6d959a9e91876",
-            "source": "breaking_defense",
-            "text": "Anduril, Impulse to demo maneuvering satellite, with sights set on Space Force missions",
-            "source_link": "https://breakingdefense.com/2025/09/anduril-impulse-to-demo-maneuvering-satellite-with-sights-set-on-space-force-missions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-16T13:00:01.781841Z",
-            "shown_at": [
-                "2025-09-16T13:00:02.831492Z",
-                "2025-09-16T18:09:55.370874Z"
-            ]
-        },
-        {
-            "id": "47cc5c4451c7a565f4d3c04e0aa87695",
-            "source": "spacenews",
-            "text": "Laser communications supplier Mynaric signals recovery after production setbacks",
-            "source_link": "https://spacenews.com/laser-communications-supplier-mynaric-signals-recovery-after-production-setbacks/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-16T14:03:44.937408Z",
-            "shown_at": [
-                "2025-09-16T14:03:45.682134Z"
-            ]
-        },
-        {
-            "id": "969cd831bf6026656651370509c4301c",
-            "source": "spacenews",
-            "text": "Astro Digital to plug into Star Catcher solar-energy grid",
-            "source_link": "https://spacenews.com/astro-digital-to-plug-into-star-catcher-solar-energy-grid/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-16T14:03:44.937478Z",
-            "shown_at": [
-                "2025-09-16T14:20:00.430593Z"
-            ]
-        },
-        {
-            "id": "6cc7291aa98bc21cd77b49ac71735dc1",
-            "source": "spacenews",
-            "text": "SES moves to iterative MEO deployment with K2 Space partnership",
-            "source_link": "https://spacenews.com/ses-moves-to-iterative-meo-deployment-with-k2-space-partnership/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-16T14:50:12.978947Z",
-            "shown_at": [
-                "2025-09-16T14:50:13.821881Z"
-            ]
-        },
-        {
-            "id": "5193470a108e6eca6448eb9dc4a91101",
-            "source": "breaking_defense",
-            "text": "House Intel Committee props up FY26 funding for NRO commercial imagery buys",
-            "source_link": "https://breakingdefense.com/2025/09/house-intel-committee-props-up-fy26-funding-for-nro-commercial-imagery-buys/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-16T15:19:56.948093Z",
-            "shown_at": [
-                "2025-09-16T15:19:57.997156Z"
-            ]
-        },
-        {
-            "id": "2a627c99545e7fd9a74b580f095de2f1",
-            "source": "spacenews",
-            "text": "SpaceX planning first tests of new direct-to-device spectrum next year",
-            "source_link": "https://spacenews.com/spacex-planning-first-tests-of-new-direct-to-device-spectrum-next-year/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-16T16:02:29.818772Z",
-            "shown_at": [
-                "2025-09-16T16:02:31.156109Z",
-                "2025-09-16T22:47:53.884317Z"
-            ]
-        },
-        {
-            "id": "8c68d5ba0da271003608cbc36d121aac",
-            "source": "spacenews",
-            "text": "Viasat and Space42 to pool satellite spectrum for direct-to-device services",
-            "source_link": "https://spacenews.com/viasat-and-space42-to-pool-satellite-spectrum-for-direct-to-device-services/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-16T16:02:29.818831Z",
-            "shown_at": [
-                "2025-09-16T16:17:16.391056Z"
-            ]
-        },
-        {
-            "id": "cf4e969e4e4b4d52fb788e4b37ed4bab",
-            "source": "spacenews",
-            "text": "BlackSky wins second NGA ‘Luno’ contract to track global changes with satellites and AI",
-            "source_link": "https://spacenews.com/blacksky-wins-second-nga-luno-contract-to-track-global-changes-with-satellites-and-ai/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-16T16:02:29.818877Z",
-            "shown_at": [
-                "2025-09-16T16:32:28.996379Z"
-            ]
-        },
-        {
-            "id": "1577846b5aa242801e0842326f614e1c",
-            "source": "breaking_defense",
-            "text": "The Earth Observation industry’s biggest threat isn’t China, it’s Washington",
-            "source_link": "https://breakingdefense.com/2025/09/the-earth-observation-industrys-biggest-threat-isnt-china-its-washington/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-16T18:55:37.271179Z",
-            "shown_at": [
-                "2025-09-16T18:55:41.645384Z"
-            ]
-        },
-        {
-            "id": "a2da4c81db70691b20601a51cb532fcd",
-            "source": "spacenews",
-            "text": "GHGSat announces $34 million in equity and debt financing",
-            "source_link": "https://spacenews.com/ghgsat-announces-34-million-in-equity-and-debt-financing/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-16T19:58:06.233368Z",
-            "shown_at": [
-                "2025-09-16T19:58:08.944073Z"
-            ]
-        },
-        {
-            "id": "e67d7ce3d2079b59aeba5b64336f173e",
-            "source": "spacenews",
-            "text": "Axiom and Spacebilt to establish ISS data center node",
-            "source_link": "https://spacenews.com/axiom-and-spacebilt-to-establish-iss-data-center-node/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-16T20:26:17.882754Z",
-            "shown_at": [
-                "2025-09-16T20:26:18.675033Z"
-            ]
-        },
-        {
-            "id": "0aca10c978df0ebfa56ebc508b9323ba",
-            "source": "breaking_defense",
-            "text": "The Break Out: A Golden Dome prize pool and Project Octopus [VIDEO]",
-            "source_link": "https://breakingdefense.com/2025/09/the-break-out-a-golden-dome-prize-pool-and-project-octopus-video/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-16T20:43:34.324020Z",
-            "shown_at": [
-                "2025-09-16T20:43:35.964053Z",
-                "2025-09-16T23:02:24.562225Z"
-            ]
-        },
-        {
-            "id": "94875c491d428b9eaa2a0c49fccd95f6",
-            "source": "spacenews",
-            "text": "Project Kuiper plots broadband services in five countries by end of March",
-            "source_link": "https://spacenews.com/project-kuiper-plots-broadband-services-in-five-countries-by-end-of-march/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-16T21:27:52.869258Z",
-            "shown_at": [
-                "2025-09-16T21:27:53.895641Z"
-            ]
-        },
-        {
-            "id": "e04d8c9c26a20421d0c0490894b901da",
-            "source": "spacenews",
-            "text": "Impulse Space and Anduril to demonstrate autonomous spacecraft maneuvers in GEO",
-            "source_link": "https://spacenews.com/impulse-space-and-anduril-to-demonstrate-autonomous-spacecraft-maneuvers-in-geo/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-16T21:27:52.869325Z",
-            "shown_at": [
-                "2025-09-16T21:45:58.556793Z"
-            ]
-        },
-        {
-            "id": "16e90d6a0420cf7c7201c992a2384505",
-            "source": "nyt",
-            "text": "A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards",
-            "source_link": "https://www.nytimes.com/2025/09/16/science/tektites-australia-asteroid-impact.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-16T22:17:41.083019Z",
-            "shown_at": [
-                "2025-09-16T22:17:42.056824Z"
             ]
         }
     ]
