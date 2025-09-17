@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-17T00:02:22.917861+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e67d7ce3d2079b59aeba5b64336f173e",
+    "trigger_count": 0,
+    "current_item_id": "8d220e24b940b4fa8f18c191bb157318",
     "data": [
         {
             "id": "16e90d6a0420cf7c7201c992a2384505",
@@ -12452,6 +12452,18 @@
             "fetched_datetime": "2025-09-17T16:15:52.512248Z",
             "shown_at": [
                 "2025-09-17T16:15:53.512067Z"
+            ]
+        },
+        {
+            "id": "8d220e24b940b4fa8f18c191bb157318",
+            "source": "breaking_defense",
+            "text": "Space Force cell explores reorg to push commercial data to military",
+            "source_link": "https://breakingdefense.com/2025/09/space-force-reorganizing-to-add-commercial-space-monitoring-data-analysis-into-operations/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-17T19:35:39.106843Z",
+            "shown_at": [
+                "2025-09-17T19:35:40.072873Z"
             ]
         }
     ]

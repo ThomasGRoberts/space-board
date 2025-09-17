@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 20 | 38 |
 | spacenews | 12 | 31 | 29 | 61 |
-| breaking_defense | 1 | 4 | 22 | 40 |
+| breaking_defense | 2 | 5 | 23 | 41 |
 | supercluster | 1 | 1 | 24 | 24 |
 
 # Shown Order
@@ -6869,3 +6869,4 @@
 - **Sep 17, 07:02 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 17, 07:03 PM** - White House comes out against Senate FY26 NDAA language on DoD spectrum rights (breaking_defense)
 - **Sep 17, 07:22 PM** - Axiom and Spacebilt to establish ISS data center node (spacenews)
+- **Sep 17, 07:35 PM** - Space Force cell explores reorg to push commercial data to military (breaking_defense)
