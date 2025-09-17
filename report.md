@@ -5,7 +5,7 @@
 | nyt | 0 | 1 | 21 | 39 |
 | spacenews | 10 | 24 | 28 | 57 |
 | breaking_defense | 1 | 5 | 22 | 42 |
-| supercluster | 1 | 1 | 45 | 45 |
+| supercluster | 1 | 1 | 46 | 46 |
 
 # Shown Order
 
@@ -6903,3 +6903,4 @@
 - **Sep 17, 10:59 PM** - Isar Aerospace prepares for second Spectrum launch (spacenews)
 - **Sep 17, 11:18 PM** - Space Force chief: Current satellite tracking ‘too slow’ for modern threats (spacenews)
 - **Sep 17, 11:32 PM** - A Defender of Darkness in the Darkest Place on Earth (nyt)
+- **Sep 17, 11:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
