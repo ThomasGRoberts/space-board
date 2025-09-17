@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 1 | 20 | 38 |
+| nyt | 0 | 1 | 21 | 39 |
 | spacenews | 10 | 24 | 28 | 58 |
 | breaking_defense | 1 | 5 | 22 | 42 |
 | supercluster | 1 | 1 | 45 | 45 |
@@ -6902,3 +6902,4 @@
 - **Sep 17, 10:43 PM** - The Earth Observation industry’s biggest threat isn’t China, it’s Washington (breaking_defense)
 - **Sep 17, 10:59 PM** - Isar Aerospace prepares for second Spectrum launch (spacenews)
 - **Sep 17, 11:18 PM** - Space Force chief: Current satellite tracking ‘too slow’ for modern threats (spacenews)
+- **Sep 17, 11:32 PM** - A Defender of Darkness in the Darkest Place on Earth (nyt)
