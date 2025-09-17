@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 19 | 42 |
+| nyt | 1 | 1 | 19 | 41 |
 | spacenews | 15 | 26 | 31 | 50 |
-| breaking_defense | 4 | 5 | 20 | 44 |
+| breaking_defense | 4 | 5 | 21 | 45 |
 | supercluster | 0 | 0 | 126 | 238 |
 
 # Shown Order
@@ -7124,3 +7124,4 @@
 - **Sep 17, 09:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 17, 09:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 17, 09:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 17, 10:02 AM** - Anduril, Impulse to demo maneuvering satellite, with sights set on Space Force missions (breaking_defense)
