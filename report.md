@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 21 | 38 |
 | spacenews | 12 | 32 | 28 | 62 |
 | breaking_defense | 2 | 5 | 22 | 40 |
-| supercluster | 1 | 1 | 25 | 25 |
+| supercluster | 1 | 1 | 26 | 26 |
 
 # Shown Order
 
@@ -6873,3 +6873,4 @@
 - **Sep 17, 07:50 PM** - Space Force accelerates reorganization of acquisition units  (spacenews)
 - **Sep 17, 08:05 PM** - NASA Rover Findings ‘Could Be the Clearest Sign of Life’ on Mars (nyt)
 - **Sep 17, 08:22 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 17, 08:23 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
