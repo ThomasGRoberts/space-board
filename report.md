@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 21 | 39 |
 | spacenews | 12 | 31 | 28 | 60 |
 | breaking_defense | 2 | 4 | 22 | 40 |
-| supercluster | 1 | 1 | 17 | 17 |
+| supercluster | 1 | 1 | 18 | 18 |
 
 # Shown Order
 
@@ -6860,3 +6860,4 @@
 - **Sep 17, 06:00 PM** - EXCLUSIVE: DoD envisions prize competition for boost-phase SBI prototypes (breaking_defense)
 - **Sep 17, 06:17 PM** - Astro Digital to plug into Star Catcher solar-energy grid (spacenews)
 - **Sep 17, 06:32 PM** - A Defender of Darkness in the Darkest Place on Earth (nyt)
+- **Sep 17, 06:48 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
