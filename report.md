@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 21 | 38 |
 | spacenews | 12 | 31 | 28 | 60 |
-| breaking_defense | 1 | 4 | 21 | 40 |
+| breaking_defense | 1 | 4 | 22 | 41 |
 | supercluster | 1 | 1 | 24 | 24 |
 
 # Shown Order
@@ -6867,3 +6867,4 @@
 - **Sep 17, 06:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 17, 07:00 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 17, 07:02 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 17, 07:03 PM** - White House comes out against Senate FY26 NDAA language on DoD spectrum rights (breaking_defense)
