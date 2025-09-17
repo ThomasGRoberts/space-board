@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 20 | 41 |
 | spacenews | 15 | 28 | 32 | 54 |
 | breaking_defense | 3 | 5 | 21 | 43 |
-| supercluster | 0 | 0 | 134 | 232 |
+| supercluster | 0 | 0 | 135 | 233 |
 
 # Shown Order
 
@@ -7149,3 +7149,4 @@
 - **Sep 17, 12:33 PM** - Maxar and Ecopia roll out AI-powered Earth mapping system (spacenews)
 - **Sep 17, 12:48 PM** - Does Europe need a spaceplane? (spacenews)
 - **Sep 17, 01:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 17, 01:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
