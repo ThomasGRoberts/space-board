@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 18 | 43 |
+| nyt | 1 | 1 | 19 | 44 |
 | spacenews | 14 | 24 | 30 | 44 |
 | breaking_defense | 4 | 5 | 21 | 46 |
-| supercluster | 0 | 0 | 125 | 249 |
+| supercluster | 0 | 0 | 124 | 248 |
 
 # Shown Order
 
@@ -7083,3 +7083,4 @@
 - **Sep 17, 05:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 17, 05:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 17, 05:22 AM** - Space Development Agency launches first ‘operational’ satellites for data relay (breaking_defense)
+- **Sep 17, 05:37 AM** - A Defender of Darkness in the Darkest Place on Earth (nyt)
