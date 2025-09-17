@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 19 | 42 |
 | spacenews | 15 | 26 | 32 | 51 |
 | breaking_defense | 4 | 5 | 21 | 44 |
-| supercluster | 0 | 0 | 123 | 232 |
+| supercluster | 0 | 0 | 123 | 233 |
 
 # Shown Order
 
@@ -7127,3 +7127,4 @@
 - **Sep 17, 10:02 AM** - Anduril, Impulse to demo maneuvering satellite, with sights set on Space Force missions (breaking_defense)
 - **Sep 17, 10:17 AM** - NASA Rover Findings ‘Could be the Clearest Sign of Life’ on Mars (nyt)
 - **Sep 17, 10:32 AM** - To lead in space, we must go all-in on our industrial base (spacenews)
+- **Sep 17, 10:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
