@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 19 | 43 |
 | spacenews | 14 | 24 | 30 | 44 |
 | breaking_defense | 4 | 5 | 20 | 46 |
-| supercluster | 0 | 0 | 119 | 245 |
+| supercluster | 0 | 0 | 120 | 246 |
 
 # Shown Order
 
@@ -7075,3 +7075,4 @@
 - **Sep 17, 04:19 AM** - House Intel Committee props up FY26 funding for NRO commercial imagery buys (breaking_defense)
 - **Sep 17, 04:35 AM** - NASA Rover Findings ‘Could be the Clearest Sign of Life’ on Mars (nyt)
 - **Sep 17, 04:52 AM** - Falcon 9 launches upgraded Cygnus cargo spacecraft to ISS (spacenews)
+- **Sep 17, 05:07 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
