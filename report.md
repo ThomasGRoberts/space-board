@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 20 | 40 |
-| spacenews | 14 | 29 | 31 | 55 |
+| spacenews | 14 | 29 | 31 | 56 |
 | breaking_defense | 3 | 5 | 22 | 43 |
 | supercluster | 0 | 0 | 140 | 245 |
 
@@ -7165,3 +7165,4 @@
 - **Sep 17, 02:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 17, 02:17 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 17, 02:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 17, 02:22 PM** - Successful flight on Falcon 9 for EOS-8’’, MECANO ID’s Satellite Ejection System (spacenews)
