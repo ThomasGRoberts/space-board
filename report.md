@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 20 | 40 |
-| spacenews | 14 | 30 | 31 | 57 |
+| nyt | 1 | 1 | 20 | 39 |
+| spacenews | 14 | 30 | 30 | 57 |
 | breaking_defense | 2 | 4 | 21 | 41 |
-| supercluster | 1 | 1 | 4 | 4 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -6834,7 +6834,4 @@
 - **Sep 17, 02:38 PM** - Anduril, Impulse to demo maneuvering satellite, with sights set on Space Force missions (breaking_defense)
 - **Sep 17, 02:52 PM** - Novaspace and the Occitanie Region Launch the Inaugural Space Summit for a Resilient Future in 2026 (spacenews)
 - **Sep 17, 03:10 PM** - NASA Rover Findings ‘Could Be the Clearest Sign of Life’ on Mars (nyt)
-- **Sep 17, 03:42 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Sep 17, 03:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Sep 17, 03:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Sep 17, 03:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 17, 03:50 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
