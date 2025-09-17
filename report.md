@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 21 | 39 |
 | spacenews | 12 | 31 | 28 | 60 |
 | breaking_defense | 2 | 4 | 22 | 40 |
-| supercluster | 1 | 1 | 18 | 18 |
+| supercluster | 1 | 1 | 19 | 19 |
 
 # Shown Order
 
@@ -6861,3 +6861,4 @@
 - **Sep 17, 06:17 PM** - Astro Digital to plug into Star Catcher solar-energy grid (spacenews)
 - **Sep 17, 06:32 PM** - A Defender of Darkness in the Darkest Place on Earth (nyt)
 - **Sep 17, 06:48 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 17, 06:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
