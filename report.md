@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 18 | 42 |
+| nyt | 1 | 1 | 19 | 43 |
 | spacenews | 14 | 25 | 30 | 47 |
 | breaking_defense | 4 | 5 | 21 | 45 |
-| supercluster | 0 | 0 | 126 | 245 |
+| supercluster | 0 | 0 | 125 | 245 |
 
 # Shown Order
 
@@ -7104,3 +7104,4 @@
 - **Sep 17, 07:37 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 17, 07:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 17, 07:42 AM** - House Intel Committee props up FY26 funding for NRO commercial imagery buys (breaking_defense)
+- **Sep 17, 07:56 AM** - A Defender of Darkness in the Darkest Place on Earth (nyt)
