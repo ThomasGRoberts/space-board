@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 21 | 37 |
 | spacenews | 11 | 32 | 28 | 63 |
 | breaking_defense | 1 | 5 | 22 | 40 |
-| supercluster | 1 | 1 | 32 | 32 |
+| supercluster | 1 | 1 | 33 | 33 |
 
 # Shown Order
 
@@ -6883,3 +6883,4 @@
 - **Sep 17, 08:53 PM** - Military spending and direct-to-device competition are reshaping the space economy (spacenews)
 - **Sep 17, 09:09 PM** - NASA Rover Findings ‘Could Be the Clearest Sign of Life’ on Mars (nyt)
 - **Sep 17, 09:23 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 17, 09:25 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
