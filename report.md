@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 21 | 40 |
 | spacenews | 14 | 30 | 31 | 57 |
 | breaking_defense | 2 | 4 | 21 | 42 |
-| supercluster | 0 | 0 | 134 | 246 |
+| supercluster | 0 | 0 | 135 | 247 |
 
 # Shown Order
 
@@ -7170,3 +7170,4 @@
 - **Sep 17, 02:52 PM** - Novaspace and the Occitanie Region Launch the Inaugural Space Summit for a Resilient Future in 2026 (spacenews)
 - **Sep 17, 03:10 PM** - NASA Rover Findings ‘Could Be the Clearest Sign of Life’ on Mars (nyt)
 - **Sep 17, 03:26 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 17, 03:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
