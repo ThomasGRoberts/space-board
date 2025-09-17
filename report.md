@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 19 | 44 |
-| spacenews | 14 | 24 | 29 | 43 |
+| spacenews | 14 | 24 | 30 | 44 |
 | breaking_defense | 4 | 5 | 21 | 46 |
-| supercluster | 0 | 0 | 119 | 248 |
+| supercluster | 0 | 0 | 119 | 247 |
 
 # Shown Order
 
@@ -7074,3 +7074,4 @@
 - **Sep 17, 04:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 17, 04:19 AM** - House Intel Committee props up FY26 funding for NRO commercial imagery buys (breaking_defense)
 - **Sep 17, 04:35 AM** - NASA Rover Findings ‘Could be the Clearest Sign of Life’ on Mars (nyt)
+- **Sep 17, 04:52 AM** - Falcon 9 launches upgraded Cygnus cargo spacecraft to ISS (spacenews)
