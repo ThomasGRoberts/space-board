@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 18 | 43 |
 | spacenews | 15 | 25 | 31 | 46 |
 | breaking_defense | 4 | 5 | 20 | 45 |
-| supercluster | 0 | 0 | 119 | 242 |
+| supercluster | 0 | 0 | 120 | 242 |
 
 # Shown Order
 
@@ -7086,3 +7086,4 @@
 - **Sep 17, 05:37 AM** - A Defender of Darkness in the Darkest Place on Earth (nyt)
 - **Sep 17, 05:53 AM** - CSO Co., Ltd. — Redefining Earth Observation with Cutting-Edge Camera Systems for Small Satellites (spacenews)
 - **Sep 17, 06:09 AM** - Successful flight on Falcon 9 for EOS-8’’, MECANO ID’s Satellite Ejection System (spacenews)
+- **Sep 17, 06:24 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
