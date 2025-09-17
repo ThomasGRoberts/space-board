@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 19 | 40 |
 | spacenews | 16 | 29 | 33 | 55 |
-| breaking_defense | 3 | 5 | 21 | 43 |
+| breaking_defense | 3 | 5 | 22 | 44 |
 | supercluster | 0 | 0 | 133 | 238 |
 
 # Shown Order
@@ -7156,3 +7156,4 @@
 - **Sep 17, 01:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 17, 01:17 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 17, 01:19 PM** - President Trump’s Golden Dome: golden dream or black nightmare? (spacenews)
+- **Sep 17, 01:39 PM** - Anduril, Impulse to demo maneuvering satellite, with sights set on Space Force missions (breaking_defense)
