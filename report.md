@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 18 | 43 |
 | spacenews | 14 | 23 | 30 | 40 |
-| breaking_defense | 4 | 5 | 19 | 45 |
+| breaking_defense | 4 | 5 | 20 | 46 |
 | supercluster | 0 | 1 | 119 | 251 |
 
 # Shown Order
@@ -7042,3 +7042,4 @@
 - **Sep 17, 12:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 17, 12:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 17, 12:52 AM** - How SpaceX turned a Texas marsh into the world’s most watched spaceport (spacenews)
+- **Sep 17, 01:07 AM** - The Earth Observation industry’s biggest threat isn’t China, it’s Washington (breaking_defense)
