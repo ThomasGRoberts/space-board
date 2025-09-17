@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 20 | 40 |
-| spacenews | 15 | 28 | 32 | 54 |
+| spacenews | 16 | 29 | 33 | 55 |
 | breaking_defense | 3 | 5 | 21 | 43 |
-| supercluster | 0 | 0 | 140 | 238 |
+| supercluster | 0 | 0 | 138 | 238 |
 
 # Shown Order
 
@@ -7155,3 +7155,4 @@
 - **Sep 17, 01:12 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 17, 01:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 17, 01:17 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 17, 01:19 PM** - President Trump’s Golden Dome: golden dream or black nightmare? (spacenews)
