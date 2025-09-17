@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 18 | 44 |
 | spacenews | 15 | 24 | 31 | 43 |
 | breaking_defense | 4 | 5 | 20 | 46 |
-| supercluster | 0 | 0 | 121 | 249 |
+| supercluster | 0 | 0 | 122 | 249 |
 
 # Shown Order
 
@@ -7067,3 +7067,4 @@
 - **Sep 17, 03:47 AM** - Thruster issue delays Cygnus arrival at ISS (spacenews)
 - **Sep 17, 04:02 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 17, 04:05 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 17, 04:07 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
