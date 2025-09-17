@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 20 | 40 |
 | spacenews | 14 | 29 | 31 | 55 |
 | breaking_defense | 3 | 5 | 22 | 43 |
-| supercluster | 0 | 0 | 133 | 238 |
+| supercluster | 0 | 0 | 134 | 239 |
 
 # Shown Order
 
@@ -7158,3 +7158,4 @@
 - **Sep 17, 01:19 PM** - President Trump’s Golden Dome: golden dream or black nightmare? (spacenews)
 - **Sep 17, 01:39 PM** - Anduril, Impulse to demo maneuvering satellite, with sights set on Space Force missions (breaking_defense)
 - **Sep 17, 01:53 PM** - NASA Rover Findings ‘Could Be the Clearest Sign of Life’ on Mars (nyt)
+- **Sep 17, 02:08 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
