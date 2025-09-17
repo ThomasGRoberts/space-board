@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 19 | 42 |
 | spacenews | 14 | 25 | 30 | 47 |
 | breaking_defense | 4 | 5 | 20 | 45 |
-| supercluster | 0 | 0 | 121 | 240 |
+| supercluster | 0 | 0 | 122 | 241 |
 
 # Shown Order
 
@@ -7098,3 +7098,4 @@
 - **Sep 17, 07:12 AM** - Viasat and Space42 to pool satellite spectrum for direct-to-device services (spacenews)
 - **Sep 17, 07:26 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 17, 07:27 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 17, 07:29 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
