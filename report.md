@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 19 | 42 |
-| spacenews | 14 | 25 | 30 | 48 |
+| spacenews | 14 | 25 | 31 | 49 |
 | breaking_defense | 4 | 5 | 21 | 45 |
 | supercluster | 0 | 0 | 126 | 238 |
 
@@ -7115,3 +7115,4 @@
 - **Sep 17, 08:42 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 17, 08:43 AM** - EXCLUSIVE: DoD envisions prize competition for boost-phase SBI prototypes (breaking_defense)
 - **Sep 17, 08:57 AM** - A Defender of Darkness in the Darkest Place on Earth (nyt)
+- **Sep 17, 09:12 AM** - EchoStar eyes satcom expansion after ‘forced pivot’ from spectrum sales (spacenews)
