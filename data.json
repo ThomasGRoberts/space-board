@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-17T00:02:22.917861+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9c9bb622d8d2936ad15a07ba2938e496",
+    "trigger_count": 0,
+    "current_item_id": "01d6ca794322216e01816f23dd7376d2",
     "data": [
         {
             "id": "16e90d6a0420cf7c7201c992a2384505",
@@ -12633,6 +12633,18 @@
             "fetched_datetime": "2025-09-17T06:09:52.568997Z",
             "shown_at": [
                 "2025-09-17T06:09:54.287075Z"
+            ]
+        },
+        {
+            "id": "01d6ca794322216e01816f23dd7376d2",
+            "source": "spacenews",
+            "text": "ReOrbit raises 45 million euros to increase spacecraft production",
+            "source_link": "https://spacenews.com/reorbit-raises-45-million-euros-to-increase-spacecraft-production/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-17T09:27:51.098460Z",
+            "shown_at": [
+                "2025-09-17T09:27:52.387961Z"
             ]
         }
     ]
