@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 20 | 42 |
-| spacenews | 14 | 26 | 30 | 51 |
+| spacenews | 14 | 26 | 31 | 52 |
 | breaking_defense | 4 | 5 | 22 | 44 |
-| supercluster | 0 | 0 | 126 | 233 |
+| supercluster | 0 | 0 | 126 | 231 |
 
 # Shown Order
 
@@ -7136,3 +7136,4 @@
 - **Sep 17, 10:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 17, 11:02 AM** - Anduril, Impulse to demo maneuvering satellite, with sights set on Space Force missions (breaking_defense)
 - **Sep 17, 11:17 AM** - A Defender of Darkness in the Darkest Place on Earth (nyt)
+- **Sep 17, 11:32 AM** - BlackSky wins second NGA ‘Luno’ contract to track global changes with satellites and AI (spacenews)
