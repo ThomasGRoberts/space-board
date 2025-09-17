@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 21 | 39 |
-| spacenews | 10 | 24 | 28 | 57 |
+| spacenews | 10 | 24 | 27 | 57 |
 | breaking_defense | 1 | 5 | 22 | 42 |
-| supercluster | 1 | 1 | 46 | 46 |
+| supercluster | 1 | 1 | 47 | 47 |
 
 # Shown Order
 
@@ -6904,3 +6904,4 @@
 - **Sep 17, 11:18 PM** - Space Force chief: Current satellite tracking ‘too slow’ for modern threats (spacenews)
 - **Sep 17, 11:32 PM** - A Defender of Darkness in the Darkest Place on Earth (nyt)
 - **Sep 17, 11:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 17, 11:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
