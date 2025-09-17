@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 20 | 41 |
 | spacenews | 14 | 26 | 31 | 52 |
 | breaking_defense | 4 | 5 | 21 | 44 |
-| supercluster | 0 | 0 | 128 | 233 |
+| supercluster | 0 | 0 | 129 | 234 |
 
 # Shown Order
 
@@ -7139,3 +7139,4 @@
 - **Sep 17, 11:32 AM** - BlackSky wins second NGA ‘Luno’ contract to track global changes with satellites and AI (spacenews)
 - **Sep 17, 11:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 17, 11:50 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 17, 11:52 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
