@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 20 | 38 |
+| nyt | 1 | 1 | 21 | 39 |
 | spacenews | 12 | 31 | 29 | 60 |
 | breaking_defense | 2 | 4 | 22 | 41 |
 | supercluster | 1 | 1 | 17 | 17 |
@@ -6859,3 +6859,4 @@
 - **Sep 17, 05:58 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 17, 06:00 PM** - EXCLUSIVE: DoD envisions prize competition for boost-phase SBI prototypes (breaking_defense)
 - **Sep 17, 06:17 PM** - Astro Digital to plug into Star Catcher solar-energy grid (spacenews)
+- **Sep 17, 06:32 PM** - A Defender of Darkness in the Darkest Place on Earth (nyt)
