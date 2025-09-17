@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 20 | 37 |
+| nyt | 1 | 1 | 21 | 38 |
 | spacenews | 12 | 32 | 28 | 62 |
 | breaking_defense | 2 | 5 | 23 | 41 |
 | supercluster | 1 | 1 | 24 | 24 |
@@ -6871,3 +6871,4 @@
 - **Sep 17, 07:22 PM** - Axiom and Spacebilt to establish ISS data center node (spacenews)
 - **Sep 17, 07:35 PM** - Space Force cell explores reorg to push commercial data to military (breaking_defense)
 - **Sep 17, 07:50 PM** - Space Force accelerates reorganization of acquisition units  (spacenews)
+- **Sep 17, 08:05 PM** - NASA Rover Findings ‘Could Be the Clearest Sign of Life’ on Mars (nyt)
