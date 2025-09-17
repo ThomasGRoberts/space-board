@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 18 | 42 |
 | spacenews | 14 | 25 | 30 | 47 |
-| breaking_defense | 4 | 5 | 20 | 45 |
+| breaking_defense | 4 | 5 | 21 | 46 |
 | supercluster | 0 | 0 | 126 | 245 |
 
 # Shown Order
@@ -7103,3 +7103,4 @@
 - **Sep 17, 07:36 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 17, 07:37 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 17, 07:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 17, 07:42 AM** - House Intel Committee props up FY26 funding for NRO commercial imagery buys (breaking_defense)
