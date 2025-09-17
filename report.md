@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 19 | 41 |
+| nyt | 1 | 1 | 20 | 42 |
 | spacenews | 15 | 26 | 31 | 51 |
 | breaking_defense | 4 | 5 | 22 | 44 |
 | supercluster | 0 | 0 | 126 | 238 |
@@ -7135,3 +7135,4 @@
 - **Sep 17, 10:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 17, 10:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 17, 11:02 AM** - Anduril, Impulse to demo maneuvering satellite, with sights set on Space Force missions (breaking_defense)
+- **Sep 17, 11:17 AM** - A Defender of Darkness in the Darkest Place on Earth (nyt)
