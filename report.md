@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 20 | 40 |
 | spacenews | 14 | 29 | 31 | 56 |
-| breaking_defense | 3 | 5 | 21 | 42 |
+| breaking_defense | 3 | 5 | 22 | 43 |
 | supercluster | 0 | 0 | 140 | 245 |
 
 # Shown Order
@@ -7166,3 +7166,4 @@
 - **Sep 17, 02:17 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 17, 02:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 17, 02:22 PM** - Successful flight on Falcon 9 for EOS-8’’, MECANO ID’s Satellite Ejection System (spacenews)
+- **Sep 17, 02:38 PM** - Anduril, Impulse to demo maneuvering satellite, with sights set on Space Force missions (breaking_defense)
