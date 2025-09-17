@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 19 | 43 |
-| spacenews | 14 | 25 | 29 | 46 |
+| spacenews | 14 | 25 | 30 | 47 |
 | breaking_defense | 4 | 5 | 21 | 45 |
 | supercluster | 0 | 0 | 119 | 243 |
 
@@ -7095,3 +7095,4 @@
 - **Sep 17, 06:38 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 17, 06:39 AM** - White House comes out against Senate FY26 NDAA language on DoD spectrum rights (breaking_defense)
 - **Sep 17, 06:54 AM** - A Defender of Darkness in the Darkest Place on Earth (nyt)
+- **Sep 17, 07:12 AM** - Viasat and Space42 to pool satellite spectrum for direct-to-device services (spacenews)
