@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 19 | 44 |
 | spacenews | 14 | 23 | 30 | 41 |
 | breaking_defense | 4 | 5 | 20 | 47 |
-| supercluster | 0 | 0 | 119 | 252 |
+| supercluster | 0 | 0 | 120 | 253 |
 
 # Shown Order
 
@@ -7054,3 +7054,4 @@
 - **Sep 17, 01:57 AM** - Falcon 9 launches upgraded Cygnus cargo spacecraft to ISS (spacenews)
 - **Sep 17, 02:13 AM** - House Intel Committee props up FY26 funding for NRO commercial imagery buys (breaking_defense)
 - **Sep 17, 02:27 AM** - Was There Life on Mars? A Rock Found by NASA Keeps Getting More Interesting. (nyt)
+- **Sep 17, 02:43 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
