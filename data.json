@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-17T00:02:22.917861+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8091fd6ab5930f540b7565a0bd9f4304",
+    "trigger_count": 0,
+    "current_item_id": "e9a0abd0e4d12f8b8cd8c40ffe2a1034",
     "data": [
         {
             "id": "16e90d6a0420cf7c7201c992a2384505",
@@ -12591,6 +12591,18 @@
             "fetched_datetime": "2025-09-17T03:47:51.931172Z",
             "shown_at": [
                 "2025-09-17T03:47:52.545303Z"
+            ]
+        },
+        {
+            "id": "e9a0abd0e4d12f8b8cd8c40ffe2a1034",
+            "source": "spacenews",
+            "text": "Successful flight on Falcon 9 for EOS-8’’, MECANO ID’s Satellite Ejection System",
+            "source_link": "https://spacenews.com/successful-flight-on-falcon-9-for-eos-8-mecano-ids-satellite-ejection-system/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-17T06:09:52.568997Z",
+            "shown_at": [
+                "2025-09-17T06:09:54.287075Z"
             ]
         }
     ]
