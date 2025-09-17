@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 21 | 39 |
 | spacenews | 12 | 31 | 28 | 58 |
 | breaking_defense | 2 | 4 | 22 | 41 |
-| supercluster | 1 | 1 | 4 | 4 |
+| supercluster | 1 | 1 | 5 | 5 |
 
 # Shown Order
 
@@ -6841,3 +6841,4 @@
 - **Sep 17, 04:15 PM** - Small GEO strategies diverge around vertical integration (spacenews)
 - **Sep 17, 04:29 PM** - NASA Rover Findings ‘Could be the Clearest Sign of Life’ on Mars (nyt)
 - **Sep 17, 04:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 17, 04:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
