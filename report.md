@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 19 | 42 |
 | spacenews | 15 | 26 | 31 | 50 |
 | breaking_defense | 4 | 5 | 21 | 44 |
-| supercluster | 0 | 0 | 119 | 238 |
+| supercluster | 0 | 0 | 120 | 238 |
 
 # Shown Order
 
@@ -7117,3 +7117,4 @@
 - **Sep 17, 08:57 AM** - A Defender of Darkness in the Darkest Place on Earth (nyt)
 - **Sep 17, 09:12 AM** - EchoStar eyes satcom expansion after ‘forced pivot’ from spectrum sales (spacenews)
 - **Sep 17, 09:27 AM** - ReOrbit raises 45 million euros to increase spacecraft production (spacenews)
+- **Sep 17, 09:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
