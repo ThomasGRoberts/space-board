@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 18 | 44 |
 | spacenews | 14 | 23 | 30 | 39 |
 | breaking_defense | 4 | 5 | 20 | 46 |
-| supercluster | 0 | 1 | 115 | 245 |
+| supercluster | 0 | 1 | 116 | 246 |
 
 # Shown Order
 
@@ -7035,3 +7035,4 @@
 - **Sep 17, 12:02 AM** - The Earth Observation industry’s biggest threat isn’t China, it’s Washington (breaking_defense)
 - **Sep 17, 12:19 AM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
 - **Sep 17, 12:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 17, 12:37 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
