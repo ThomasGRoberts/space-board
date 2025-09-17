@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 21 | 40 |
 | spacenews | 14 | 30 | 31 | 57 |
 | breaking_defense | 2 | 4 | 21 | 42 |
-| supercluster | 0 | 0 | 133 | 245 |
+| supercluster | 0 | 0 | 134 | 246 |
 
 # Shown Order
 
@@ -7169,3 +7169,4 @@
 - **Sep 17, 02:38 PM** - Anduril, Impulse to demo maneuvering satellite, with sights set on Space Force missions (breaking_defense)
 - **Sep 17, 02:52 PM** - Novaspace and the Occitanie Region Launch the Inaugural Space Summit for a Resilient Future in 2026 (spacenews)
 - **Sep 17, 03:10 PM** - NASA Rover Findings ‘Could Be the Clearest Sign of Life’ on Mars (nyt)
+- **Sep 17, 03:26 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
