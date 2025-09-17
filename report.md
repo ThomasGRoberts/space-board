@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 18 | 44 |
 | spacenews | 14 | 23 | 31 | 41 |
-| breaking_defense | 4 | 5 | 20 | 46 |
-| supercluster | 0 | 1 | 124 | 258 |
+| breaking_defense | 4 | 5 | 21 | 47 |
+| supercluster | 0 | 1 | 123 | 258 |
 
 # Shown Order
 
@@ -7052,3 +7052,4 @@
 - **Sep 17, 01:52 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 17, 01:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 17, 01:57 AM** - Falcon 9 launches upgraded Cygnus cargo spacecraft to ISS (spacenews)
+- **Sep 17, 02:13 AM** - House Intel Committee props up FY26 funding for NRO commercial imagery buys (breaking_defense)
