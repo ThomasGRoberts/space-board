@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 21 | 37 |
-| spacenews | 11 | 32 | 27 | 62 |
+| spacenews | 11 | 32 | 28 | 63 |
 | breaking_defense | 1 | 5 | 22 | 41 |
 | supercluster | 1 | 1 | 31 | 31 |
 
@@ -6880,3 +6880,4 @@
 - **Sep 17, 08:32 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 17, 08:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 17, 08:39 PM** - EXCLUSIVE: DoD envisions prize competition for boost-phase SBI prototypes (breaking_defense)
+- **Sep 17, 08:53 PM** - Military spending and direct-to-device competition are reshaping the space economy (spacenews)
