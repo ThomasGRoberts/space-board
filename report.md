@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 21 | 39 |
 | spacenews | 12 | 31 | 28 | 59 |
 | breaking_defense | 2 | 4 | 22 | 41 |
-| supercluster | 1 | 1 | 10 | 10 |
+| supercluster | 1 | 1 | 11 | 11 |
 
 # Shown Order
 
@@ -6850,3 +6850,4 @@
 - **Sep 17, 04:58 PM** - The Earth Observation industry’s biggest threat isn’t China, it’s Washington (breaking_defense)
 - **Sep 17, 05:13 PM** - How SpaceX turned a Texas marsh into the world’s most watched spaceport (spacenews)
 - **Sep 17, 05:27 PM** - NASA Rover Findings ‘Could Be the Clearest Sign of Life’ on Mars (nyt)
+- **Sep 17, 05:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
