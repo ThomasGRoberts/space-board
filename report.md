@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 20 | 41 |
-| spacenews | 13 | 26 | 31 | 52 |
+| spacenews | 15 | 28 | 32 | 53 |
 | breaking_defense | 4 | 5 | 22 | 44 |
 | supercluster | 0 | 0 | 133 | 238 |
 
@@ -7146,3 +7146,4 @@
 - **Sep 17, 11:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 17, 12:02 PM** - White House comes out against Senate FY26 NDAA language on DoD spectrum rights (breaking_defense)
 - **Sep 17, 12:17 PM** - NASA Rover Findings ‘Could Be the Clearest Sign of Life’ on Mars (nyt)
+- **Sep 17, 12:33 PM** - Maxar and Ecopia roll out AI-powered Earth mapping system (spacenews)

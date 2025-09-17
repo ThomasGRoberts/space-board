@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-17T00:02:22.917861+00:00",
-    "trigger_count": 6,
-    "current_item_id": "da9b5e6f7790f2642f19d7eb3d32227b",
+    "trigger_count": 0,
+    "current_item_id": "94d659bc7eaee606ffcb621c5bd1572f",
     "data": [
         {
             "id": "16e90d6a0420cf7c7201c992a2384505",
@@ -12675,6 +12675,27 @@
             "shown_at": [
                 "2025-09-17T09:27:52.387961Z"
             ]
+        },
+        {
+            "id": "94d659bc7eaee606ffcb621c5bd1572f",
+            "source": "spacenews",
+            "text": "Maxar and Ecopia roll out AI-powered Earth mapping system",
+            "source_link": "https://spacenews.com/maxar-and-ecopia-roll-out-ai-powered-earth-mapping-system/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-17T12:33:51.759667Z",
+            "shown_at": [
+                "2025-09-17T12:33:53.527602Z"
+            ]
+        },
+        {
+            "id": "89231661c4b661d86a5353b2be3ee25a",
+            "source": "spacenews",
+            "text": "Does Europe need a spaceplane?",
+            "source_link": "https://spacenews.com/does-europe-need-a-spaceplane/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-09-17T12:33:51.759732Z"
         }
     ]
 }
