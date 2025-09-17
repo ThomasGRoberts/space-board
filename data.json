@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-17T00:02:22.917861+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c79ec3916394e43732a6d959a9e91876",
+    "trigger_count": 0,
+    "current_item_id": "4d9e2d80fcf8a3df599606c6bd06fe12",
     "data": [
         {
             "id": "16e90d6a0420cf7c7201c992a2384505",
@@ -12728,6 +12728,18 @@
             "fetched_datetime": "2025-09-17T13:19:50.365531Z",
             "shown_at": [
                 "2025-09-17T13:19:51.223884Z"
+            ]
+        },
+        {
+            "id": "4d9e2d80fcf8a3df599606c6bd06fe12",
+            "source": "spacenews",
+            "text": "Novaspace and the Occitanie Region Launch the Inaugural Space Summit for a Resilient Future in 2026",
+            "source_link": "https://spacenews.com/novaspace-and-the-occitanie-region-launch-the-inaugural-space-summit-for-a-resilient-future-in-2026/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-17T14:52:35.749726Z",
+            "shown_at": [
+                "2025-09-17T14:52:36.611294Z"
             ]
         }
     ]

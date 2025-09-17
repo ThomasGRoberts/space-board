@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 20 | 40 |
-| spacenews | 14 | 29 | 31 | 56 |
+| spacenews | 14 | 30 | 31 | 57 |
 | breaking_defense | 3 | 4 | 22 | 42 |
 | supercluster | 0 | 0 | 140 | 245 |
 
@@ -7167,3 +7167,4 @@
 - **Sep 17, 02:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 17, 02:22 PM** - Successful flight on Falcon 9 for EOS-8’’, MECANO ID’s Satellite Ejection System (spacenews)
 - **Sep 17, 02:38 PM** - Anduril, Impulse to demo maneuvering satellite, with sights set on Space Force missions (breaking_defense)
+- **Sep 17, 02:52 PM** - Novaspace and the Occitanie Region Launch the Inaugural Space Summit for a Resilient Future in 2026 (spacenews)
