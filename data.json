@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-18T00:02:22.832843+00:00",
-    "trigger_count": 6,
-    "current_item_id": "551607b9b1ea261b1410d1f2a40bb6a3",
+    "trigger_count": 0,
+    "current_item_id": "96d452b27f97f8442ff5807a90c63a20",
     "data": [
         {
             "id": "26b554f2644ed219a2f466829006a961",
@@ -12373,9 +12373,12 @@
             "source": "spacenews",
             "text": "Lone Star space: How Texas can revitalize its galactic industry",
             "source_link": "https://spacenews.com/lone-star-space-how-texas-can-revitalize-its-galactic-industry/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-09-18T14:13:41.611459Z"
+            "fetched_datetime": "2025-09-18T14:13:41.611459Z",
+            "shown_at": [
+                "2025-09-18T14:29:38.702012Z"
+            ]
         }
     ]
 }
