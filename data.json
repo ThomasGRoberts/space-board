@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-18T00:02:22.832843+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "48c8216de7821ca9179eed0a3b403a10",
     "data": [
         {
             "id": "26b554f2644ed219a2f466829006a961",
@@ -12447,6 +12447,18 @@
                 "2025-09-18T18:32:26.718414Z",
                 "2025-09-18T18:35:47.426929Z",
                 "2025-09-18T18:37:48.792629Z"
+            ]
+        },
+        {
+            "id": "48c8216de7821ca9179eed0a3b403a10",
+            "source": "breaking_defense",
+            "text": "Beyond ‘potpourri’ of sensors: Saltzman pushes holistic approach to space domain awareness",
+            "source_link": "https://breakingdefense.com/2025/09/beyond-potpourri-of-sensors-saltzman-pushes-holistic-approach-to-space-domain-awareness/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-18T18:39:45.251317Z",
+            "shown_at": [
+                "2025-09-18T18:39:46.024481Z"
             ]
         }
     ]
