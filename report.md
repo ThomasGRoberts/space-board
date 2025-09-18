@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 23 | 27 | 55 |
+| spacenews | 12 | 23 | 28 | 56 |
 | breaking_defense | 2 | 3 | 20 | 42 |
 | nyt | 0 | 1 | 18 | 39 |
 | supercluster | 1 | 1 | 31 | 31 |
@@ -6864,3 +6864,4 @@
 - **Sep 18, 08:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 18, 08:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 18, 09:02 PM** - Anduril, Impulse to demo maneuvering satellite, with sights set on Space Force missions (breaking_defense)
+- **Sep 18, 09:17 PM** - Cygnus arrives at ISS after thruster glitch (spacenews)
