@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-18T00:02:22.832843+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c79ec3916394e43732a6d959a9e91876",
+    "trigger_count": 0,
+    "current_item_id": "e0118b3db003b835c20ecf6ba133cf19",
     "data": [
         {
             "id": "26b554f2644ed219a2f466829006a961",
@@ -12379,6 +12379,18 @@
             "fetched_datetime": "2025-09-18T14:13:41.611459Z",
             "shown_at": [
                 "2025-09-18T14:29:38.702012Z"
+            ]
+        },
+        {
+            "id": "e0118b3db003b835c20ecf6ba133cf19",
+            "source": "spacenews",
+            "text": "New military satcom services program to focus on ‘maneuverable’ small GEO satellites",
+            "source_link": "https://spacenews.com/new-military-satcom-services-program-to-focus-on-maneuverable-small-geo-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-18T15:02:25.694899Z",
+            "shown_at": [
+                "2025-09-18T15:02:26.372109Z"
             ]
         }
     ]
