@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 22 | 27 | 54 |
+| spacenews | 12 | 22 | 28 | 55 |
 | breaking_defense | 2 | 3 | 20 | 42 |
 | nyt | 0 | 0 | 19 | 40 |
 | supercluster | 1 | 1 | 45 | 45 |
@@ -6886,3 +6886,4 @@
 - **Sep 18, 11:20 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 18, 11:22 PM** - The Break Out: A Golden Dome prize pool and Project Octopus [VIDEO] (breaking_defense)
 - **Sep 18, 11:37 PM** - A Defender of Darkness in the Darkest Place on Earth (nyt)
+- **Sep 18, 11:53 PM** - Launch companies double down on increasing flight rates despite setbacks (spacenews)
