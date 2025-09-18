@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 24 | 28 | 58 |
-| breaking_defense | 1 | 5 | 21 | 42 |
+| breaking_defense | 1 | 5 | 22 | 43 |
 | supercluster | 1 | 1 | 87 | 87 |
 | nyt | 0 | 1 | 21 | 39 |
 
@@ -6878,3 +6878,4 @@
 - **Sep 18, 05:22 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 18, 05:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 18, 05:25 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 18, 05:27 AM** - Space Force cell explores reorg to push commercial data to military (breaking_defense)
