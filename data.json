@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-18T00:02:22.832843+00:00",
-    "trigger_count": 6,
-    "current_item_id": "37c8b3805a4e01808513ca2c2514a289",
+    "trigger_count": 0,
+    "current_item_id": "df3a6f3d425137b042290f1a5e5e68cb",
     "data": [
         {
             "id": "26b554f2644ed219a2f466829006a961",
@@ -12460,6 +12460,18 @@
             "fetched_datetime": "2025-09-18T18:39:45.251317Z",
             "shown_at": [
                 "2025-09-18T18:39:46.024481Z"
+            ]
+        },
+        {
+            "id": "df3a6f3d425137b042290f1a5e5e68cb",
+            "source": "spacenews",
+            "text": "Hubble Network raises $70 million to accelerate 60-satellite Bluetooth constellation",
+            "source_link": "https://spacenews.com/hubble-network-raises-70-million-to-accelerate-60-satellite-bluetooth-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-18T19:13:43.059129Z",
+            "shown_at": [
+                "2025-09-18T19:13:43.539947Z"
             ]
         }
     ]
