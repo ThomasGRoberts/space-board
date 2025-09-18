@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 24 | 28 | 57 |
 | breaking_defense | 1 | 5 | 22 | 42 |
-| supercluster | 1 | 1 | 52 | 52 |
+| supercluster | 1 | 1 | 53 | 53 |
 | nyt | 0 | 1 | 21 | 39 |
 
 # Shown Order
@@ -6830,3 +6830,4 @@
 - **Sep 18, 12:02 AM** - The Break Out: A Golden Dome prize pool and Project Octopus [VIDEO] (breaking_defense)
 - **Sep 18, 12:17 AM** - To lead in space, we must go all-in on our industrial base (spacenews)
 - **Sep 18, 12:32 AM** - NASA Rover Findings ‘Could Be the Clearest Sign of Life’ on Mars (nyt)
+- **Sep 18, 12:48 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
