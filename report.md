@@ -5,7 +5,7 @@
 | spacenews | 9 | 24 | 28 | 58 |
 | breaking_defense | 1 | 5 | 22 | 43 |
 | supercluster | 1 | 1 | 80 | 80 |
-| nyt | 0 | 1 | 20 | 39 |
+| nyt | 0 | 1 | 21 | 40 |
 
 # Shown Order
 
@@ -6869,3 +6869,4 @@
 - **Sep 18, 04:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 18, 04:09 AM** - The Break Out: A Golden Dome prize pool and Project Octopus [VIDEO] (breaking_defense)
 - **Sep 18, 04:27 AM** - Axiom and Spacebilt to establish ISS data center node (spacenews)
+- **Sep 18, 04:42 AM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
