@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 24 | 26 | 57 |
+| spacenews | 11 | 25 | 27 | 58 |
 | breaking_defense | 1 | 4 | 20 | 42 |
 | nyt | 0 | 1 | 18 | 39 |
 | supercluster | 1 | 1 | 4 | 4 |
@@ -6819,3 +6819,4 @@
 - **Sep 18, 02:29 PM** - Lone Star space: How Texas can revitalize its galactic industry (spacenews)
 - **Sep 18, 02:47 PM** - Anduril, Impulse to demo maneuvering satellite, with sights set on Space Force missions (breaking_defense)
 - **Sep 18, 03:02 PM** - New military satcom services program to focus on ‘maneuverable’ small GEO satellites (spacenews)
+- **Sep 18, 03:19 PM** - Blue Origin retires New Shepard capsule after payload flight (spacenews)

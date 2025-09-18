@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-18T00:02:22.832843+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e0118b3db003b835c20ecf6ba133cf19",
+    "trigger_count": 0,
+    "current_item_id": "37c8b3805a4e01808513ca2c2514a289",
     "data": [
         {
             "id": "26b554f2644ed219a2f466829006a961",
@@ -12391,6 +12391,18 @@
             "fetched_datetime": "2025-09-18T15:02:25.694899Z",
             "shown_at": [
                 "2025-09-18T15:02:26.372109Z"
+            ]
+        },
+        {
+            "id": "37c8b3805a4e01808513ca2c2514a289",
+            "source": "spacenews",
+            "text": "Blue Origin retires New Shepard capsule after payload flight",
+            "source_link": "https://spacenews.com/blue-origin-retires-new-shepard-capsule-after-payload-flight/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-18T15:19:44.331293Z",
+            "shown_at": [
+                "2025-09-18T15:19:44.863418Z"
             ]
         }
     ]
