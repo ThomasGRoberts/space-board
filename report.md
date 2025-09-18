@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 24 | 27 | 58 |
 | breaking_defense | 1 | 5 | 22 | 42 |
-| supercluster | 1 | 1 | 88 | 88 |
-| nyt | 0 | 1 | 21 | 40 |
+| supercluster | 1 | 1 | 89 | 89 |
+| nyt | 0 | 1 | 21 | 39 |
 
 # Shown Order
 
@@ -6882,3 +6882,4 @@
 - **Sep 18, 05:46 AM** - NASA Rover Findings ‘Could Be the Clearest Sign of Life’ on Mars (nyt)
 - **Sep 18, 05:59 AM** - ReOrbit raises 45 million euros to increase spacecraft production (spacenews)
 - **Sep 18, 06:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 18, 06:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
