@@ -6803,4 +6803,4 @@
 - **Sep 18, 08:37 AM** - House Intel Committee props up FY26 funding for NRO commercial imagery buys (breaking_defense)
 - **Sep 18, 08:52 AM** - A Defender of Darkness in the Darkest Place on Earth (nyt)
 - **Sep 18, 09:06 AM** - Axiom and Spacebilt to establish ISS data center node (spacenews)
-- **Sep 18, 09:46 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 18, 09:48 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
