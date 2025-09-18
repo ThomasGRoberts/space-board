@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-18T00:02:22.832843+00:00",
-    "trigger_count": 6,
-    "current_item_id": "16e90d6a0420cf7c7201c992a2384505",
+    "trigger_count": 0,
+    "current_item_id": "752a18a360c2491304dbdd3e7c3d46c5",
     "data": [
         {
             "id": "26b554f2644ed219a2f466829006a961",
@@ -12365,6 +12365,18 @@
                 "2025-06-12T13:39:39.182721Z",
                 "2025-06-12T15:37:24.331141Z",
                 "2025-06-12T17:33:38.501167Z"
+            ]
+        },
+        {
+            "id": "752a18a360c2491304dbdd3e7c3d46c5",
+            "source": "spacenews",
+            "text": "Arianespace examines options to increase Ariane 6 launch rate",
+            "source_link": "https://spacenews.com/arianespace-examines-options-to-increase-ariane-6-launch-rate/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-18T04:57:53.735843Z",
+            "shown_at": [
+                "2025-09-18T04:57:54.981577Z"
             ]
         }
     ]
