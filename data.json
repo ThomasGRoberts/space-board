@@ -1,9 +1,208 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-09-17T00:02:22.917861+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "last_run_datetime": "2025-09-18T00:02:22.832843+00:00",
+    "trigger_count": 0,
+    "current_item_id": "0aca10c978df0ebfa56ebc508b9323ba",
     "data": [
+        {
+            "id": "26b554f2644ed219a2f466829006a961",
+            "source": "spacenews",
+            "text": "Space Force chief: Current satellite tracking ‘too slow’ for modern threats",
+            "source_link": "https://spacenews.com/space-force-chief-current-satellite-tracking-too-slow-for-modern-threats/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-17T23:18:01.323072Z",
+            "shown_at": [
+                "2025-09-17T23:18:02.785636Z"
+            ]
+        },
+        {
+            "id": "7155a345f495e501f1556cfb20da0fbf",
+            "source": "spacenews",
+            "text": "Space Force accelerates reorganization of acquisition units ",
+            "source_link": "https://spacenews.com/space-force-accelerates-reorganization-of-acquisition-units/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-17T19:50:06.401716Z",
+            "shown_at": [
+                "2025-09-17T19:50:09.847270Z"
+            ]
+        },
+        {
+            "id": "8d220e24b940b4fa8f18c191bb157318",
+            "source": "breaking_defense",
+            "text": "Space Force cell explores reorg to push commercial data to military",
+            "source_link": "https://breakingdefense.com/2025/09/space-force-reorganizing-to-add-commercial-space-monitoring-data-analysis-into-operations/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-17T19:35:39.106843Z",
+            "shown_at": [
+                "2025-09-17T19:35:40.072873Z"
+            ]
+        },
+        {
+            "id": "b9739e41b7dbcaddbb0ef42df2a138ae",
+            "source": "spacenews",
+            "text": "Small GEO strategies diverge around vertical integration",
+            "source_link": "https://spacenews.com/small-geo-strategies-diverge-around-vertical-integration/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-17T16:15:52.512248Z",
+            "shown_at": [
+                "2025-09-17T16:15:53.512067Z"
+            ]
+        },
+        {
+            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Starlink Satellites from Florida",
+            "source_link": "https://www.supercluster.com/launches/starlink-10-61",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-09-18T09:30:00.000Z",
+            "time_remaining": "0d 09h 30m",
+            "fetched_datetime": "2025-09-17T15:50:29.124280Z",
+            "shown_at": [
+                "2025-09-17T15:50:29.958314Z",
+                "2025-09-17T15:54:02.966906Z",
+                "2025-09-17T15:55:50.837870Z",
+                "2025-09-17T16:43:27.578444Z",
+                "2025-09-17T16:45:43.690737Z",
+                "2025-09-17T16:47:46.189331Z",
+                "2025-09-17T16:49:59.839724Z",
+                "2025-09-17T16:52:09.180424Z",
+                "2025-09-17T16:53:49.007973Z",
+                "2025-09-17T16:55:59.110699Z",
+                "2025-09-17T17:43:37.591155Z",
+                "2025-09-17T17:45:57.034058Z",
+                "2025-09-17T17:48:29.614780Z",
+                "2025-09-17T17:51:45.487314Z",
+                "2025-09-17T17:53:37.566513Z",
+                "2025-09-17T17:55:41.618677Z",
+                "2025-09-17T17:58:07.114245Z",
+                "2025-09-17T18:48:03.299243Z",
+                "2025-09-17T18:49:42.821552Z",
+                "2025-09-17T18:52:22.728137Z",
+                "2025-09-17T18:55:46.384486Z",
+                "2025-09-17T18:57:49.505839Z",
+                "2025-09-17T19:00:14.502506Z",
+                "2025-09-17T19:02:10.852504Z",
+                "2025-09-17T20:22:03.753753Z",
+                "2025-09-17T20:23:39.656465Z",
+                "2025-09-17T20:25:38.609595Z",
+                "2025-09-17T20:27:51.397232Z",
+                "2025-09-17T20:29:36.416323Z",
+                "2025-09-17T20:32:29.033335Z",
+                "2025-09-17T20:35:48.774396Z",
+                "2025-09-17T21:23:56.440753Z",
+                "2025-09-17T21:25:48.292247Z",
+                "2025-09-17T21:27:47.410584Z",
+                "2025-09-17T21:29:42.513477Z",
+                "2025-09-17T21:32:24.815794Z",
+                "2025-09-17T21:35:28.286682Z",
+                "2025-09-17T21:37:52.565305Z",
+                "2025-09-17T22:27:56.654961Z",
+                "2025-09-17T22:29:35.289554Z",
+                "2025-09-17T22:32:27.484829Z",
+                "2025-09-17T22:35:40.065525Z",
+                "2025-09-17T22:37:51.681922Z",
+                "2025-09-17T22:39:45.476429Z",
+                "2025-09-17T22:42:03.815172Z",
+                "2025-09-17T23:47:37.199805Z",
+                "2025-09-17T23:49:42.170679Z",
+                "2025-09-17T23:51:59.668503Z",
+                "2025-09-17T23:53:59.593547Z",
+                "2025-09-17T23:56:08.420685Z",
+                "2025-09-17T23:57:36.033681Z",
+                "2025-09-17T23:59:55.226654Z"
+            ]
+        },
+        {
+            "id": "4d9e2d80fcf8a3df599606c6bd06fe12",
+            "source": "spacenews",
+            "text": "Novaspace and the Occitanie Region Launch the Inaugural Space Summit for a Resilient Future in 2026",
+            "source_link": "https://spacenews.com/novaspace-and-the-occitanie-region-launch-the-inaugural-space-summit-for-a-resilient-future-in-2026/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-17T14:52:35.749726Z",
+            "shown_at": [
+                "2025-09-17T14:52:36.611294Z"
+            ]
+        },
+        {
+            "id": "a860915d703158510de8a1cd2c63f1f8",
+            "source": "spacenews",
+            "text": "President Trump’s Golden Dome: golden dream or black nightmare?",
+            "source_link": "https://spacenews.com/president-trumps-golden-dome-golden-dream-or-black-nightmare/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-17T13:19:50.365531Z",
+            "shown_at": [
+                "2025-09-17T13:19:51.223884Z"
+            ]
+        },
+        {
+            "id": "89231661c4b661d86a5353b2be3ee25a",
+            "source": "spacenews",
+            "text": "Does Europe need a spaceplane?",
+            "source_link": "https://spacenews.com/does-europe-need-a-spaceplane/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-17T12:33:51.759732Z",
+            "shown_at": [
+                "2025-09-17T12:48:03.239573Z"
+            ]
+        },
+        {
+            "id": "94d659bc7eaee606ffcb621c5bd1572f",
+            "source": "spacenews",
+            "text": "Maxar and Ecopia roll out AI-powered Earth mapping system",
+            "source_link": "https://spacenews.com/maxar-and-ecopia-roll-out-ai-powered-earth-mapping-system/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-17T12:33:51.759667Z",
+            "shown_at": [
+                "2025-09-17T12:33:53.527602Z"
+            ]
+        },
+        {
+            "id": "01d6ca794322216e01816f23dd7376d2",
+            "source": "spacenews",
+            "text": "ReOrbit raises 45 million euros to increase spacecraft production",
+            "source_link": "https://spacenews.com/reorbit-raises-45-million-euros-to-increase-spacecraft-production/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-17T09:27:51.098460Z",
+            "shown_at": [
+                "2025-09-17T09:27:52.387961Z",
+                "2025-09-17T21:58:08.142253Z"
+            ]
+        },
+        {
+            "id": "e9a0abd0e4d12f8b8cd8c40ffe2a1034",
+            "source": "spacenews",
+            "text": "Successful flight on Falcon 9 for EOS-8’’, MECANO ID’s Satellite Ejection System",
+            "source_link": "https://spacenews.com/successful-flight-on-falcon-9-for-eos-8-mecano-ids-satellite-ejection-system/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-17T06:09:52.568997Z",
+            "shown_at": [
+                "2025-09-17T06:09:54.287075Z",
+                "2025-09-17T14:22:25.853398Z"
+            ]
+        },
+        {
+            "id": "86485718684b71ebb11e32b77acf436b",
+            "source": "spacenews",
+            "text": "Thruster issue delays Cygnus arrival at ISS",
+            "source_link": "https://spacenews.com/thruster-issue-delays-cygnus-arrival-at-iss/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-17T03:47:51.931172Z",
+            "shown_at": [
+                "2025-09-17T03:47:52.545303Z"
+            ]
+        },
         {
             "id": "16e90d6a0420cf7c7201c992a2384505",
             "source": "nyt",
@@ -52,7 +251,8 @@
             "shown_at": [
                 "2025-09-16T20:43:35.964053Z",
                 "2025-09-16T23:02:24.562225Z",
-                "2025-09-17T15:58:11.657750Z"
+                "2025-09-17T15:58:11.657750Z",
+                "2025-09-18T00:02:28.562464Z"
             ]
         },
         {
@@ -12123,409 +12323,6 @@
                 "2025-06-12T13:39:39.182721Z",
                 "2025-06-12T15:37:24.331141Z",
                 "2025-06-12T17:33:38.501167Z"
-            ]
-        },
-        {
-            "id": "bb130b4cc46e286229d248450157a5ab",
-            "source": "nyt",
-            "text": "Live Video: Ispace of Japan’s Resilience Lander Heads to the Moon -- How to Watch",
-            "source_link": "https://www.nytimes.com/2025/06/05/science/moon-landing-ispace-japan.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-05T19:12:59.850895Z",
-            "shown_at": [
-                "2025-06-05T19:13:00.410128Z",
-                "2025-06-06T04:55:36.249008Z",
-                "2025-06-06T10:47:30.737454Z",
-                "2025-06-06T17:42:04.736546Z",
-                "2025-06-07T04:25:43.997135Z",
-                "2025-06-07T08:05:28.409217Z",
-                "2025-06-07T13:48:06.232355Z",
-                "2025-06-07T15:43:40.536730Z",
-                "2025-06-07T20:29:29.214735Z",
-                "2025-06-08T08:59:33.724356Z",
-                "2025-06-08T23:11:42.887599Z",
-                "2025-06-09T04:55:31.313258Z",
-                "2025-06-09T07:47:35.941973Z",
-                "2025-06-09T08:45:31.819012Z",
-                "2025-06-10T00:53:52.432015Z",
-                "2025-06-10T01:51:37.884268Z",
-                "2025-06-10T04:41:51.381707Z",
-                "2025-06-10T07:33:39.923007Z",
-                "2025-06-11T05:37:11.707736Z",
-                "2025-06-11T10:02:20.428620Z",
-                "2025-06-11T22:23:39.141251Z"
-            ]
-        },
-        {
-            "id": "163e9cef1eb485eeb771157d458e1f7c",
-            "source": "nyt",
-            "text": "Ispace of Japan’s Resilience Lander Heads to the Moon: How and When to Watch",
-            "source_link": "https://www.nytimes.com/2025/06/05/science/moon-landing-ispace-japan.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-05T14:39:40.202250Z",
-            "shown_at": [
-                "2025-06-05T14:39:41.295324Z",
-                "2025-06-05T15:37:33.336168Z",
-                "2025-06-06T05:51:47.809295Z",
-                "2025-06-06T07:53:35.929419Z",
-                "2025-06-06T22:41:42.615328Z",
-                "2025-06-07T10:59:31.290264Z",
-                "2025-06-08T05:11:34.593990Z",
-                "2025-06-08T17:31:48.758793Z",
-                "2025-06-08T21:19:36.150247Z",
-                "2025-06-09T15:37:57.499179Z",
-                "2025-06-09T20:51:38.537906Z",
-                "2025-06-09T22:59:27.090713Z",
-                "2025-06-10T10:31:59.016626Z",
-                "2025-06-10T12:25:31.454525Z",
-                "2025-06-10T22:59:29.640003Z",
-                "2025-06-11T08:55:29.727668Z",
-                "2025-06-11T18:41:43.089838Z",
-                "2025-06-11T23:21:44.983121Z"
-            ]
-        },
-        {
-            "id": "39f666bf2df6ac888d49dbb00a0d2d22",
-            "source": "spacenews",
-            "text": "Trump’s push for procurement reform faces familiar hurdles",
-            "source_link": "https://spacenews.com/trumps-push-for-procurement-reform-faces-familiar-hurdles/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-05T14:11:35.142237Z",
-            "shown_at": [
-                "2025-06-05T14:11:35.706461Z",
-                "2025-06-07T17:53:49.969744Z",
-                "2025-06-08T05:25:42.134192Z",
-                "2025-06-08T19:41:45.454501Z",
-                "2025-06-09T12:45:47.227972Z",
-                "2025-06-10T00:25:30.274667Z",
-                "2025-06-11T20:11:36.358361Z",
-                "2025-06-12T03:53:29.559019Z"
-            ]
-        },
-        {
-            "id": "d7f4cba02d2cae40a75f706f52e72fe5",
-            "source": "spacenews",
-            "text": "Hydrosat poised to launch second thermal-infrared satellite",
-            "source_link": "https://spacenews.com/hydrosat-poised-to-launch-second-thermal-infrared-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-05T13:11:40.478270Z",
-            "shown_at": [
-                "2025-06-05T13:11:41.032421Z",
-                "2025-06-06T21:45:41.326402Z",
-                "2025-06-09T02:19:40.885744Z",
-                "2025-06-10T01:23:51.323811Z",
-                "2025-06-11T23:05:30.167997Z"
-            ]
-        },
-        {
-            "id": "2636999d22207ddbdabacbd6ace56262",
-            "source": "spacenews",
-            "text": "NASA withdraws support for conferences",
-            "source_link": "https://spacenews.com/nasa-withdraws-support-for-conferences/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-05T11:41:39.915628Z",
-            "shown_at": [
-                "2025-06-05T11:41:40.510384Z",
-                "2025-06-06T10:33:44.924866Z",
-                "2025-06-07T14:57:55.660361Z",
-                "2025-06-07T20:43:32.628959Z"
-            ]
-        },
-        {
-            "id": "4ce1bf6810b41fc47cd5e48332b741ad",
-            "source": "spacenews",
-            "text": "U.S. satellite firms look abroad as foreign nations seek ‘sovereign’ eyes in the sky",
-            "source_link": "https://spacenews.com/as-foreign-nations-look-forsovereign-eyes-in-the-skyu-s-satellite-firms-focus-abroad/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-05T11:13:55.509484Z",
-            "shown_at": [
-                "2025-06-05T11:13:56.166315Z",
-                "2025-06-06T09:35:45.903551Z",
-                "2025-06-07T06:21:44.255698Z",
-                "2025-06-11T01:06:09.219443Z",
-                "2025-06-11T03:02:11.536107Z"
-            ]
-        },
-        {
-            "id": "87cbf151516d0bc31517a5501fdb2d5b",
-            "source": "spacenews",
-            "text": "Europe’s far-reaching Space Act nears launch",
-            "source_link": "https://spacenews.com/europes-far-reaching-space-act-nears-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-05T09:45:42.202747Z",
-            "shown_at": [
-                "2025-06-05T09:45:42.683564Z",
-                "2025-06-07T10:17:31.936604Z",
-                "2025-06-07T11:13:29.168759Z",
-                "2025-06-08T21:33:24.934434Z",
-                "2025-06-08T23:25:31.115516Z",
-                "2025-06-09T18:29:35.638092Z",
-                "2025-06-10T05:09:52.832103Z"
-            ]
-        },
-        {
-            "id": "71ec98530a5753175610b4ed32c1e142",
-            "source": "spacenews",
-            "text": "Lockheed Martin launches ‘AI Fight Club’ to test algorithms for warfare",
-            "source_link": "https://spacenews.com/lockheed-martin-launches-ai-fight-club-to-test-algorithms-for-warfare/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-04T19:49:51.721931Z",
-            "shown_at": [
-                "2025-06-04T19:49:52.712807Z",
-                "2025-06-05T04:33:31.037776Z",
-                "2025-06-08T06:21:49.323349Z"
-            ]
-        },
-        {
-            "id": "49e2455d1c9af5af34a5039c62498348",
-            "source": "spacenews",
-            "text": "How NASA advisory committees are navigating a new political landscape",
-            "source_link": "https://spacenews.com/how-nasa-advisory-committees-are-navigating-a-new-political-landscape/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-04T14:03:35.185361Z",
-            "shown_at": [
-                "2025-06-04T14:03:36.015957Z",
-                "2025-06-09T08:02:14.521235Z"
-            ]
-        },
-        {
-            "id": "c62019447465a90512312372ecb88630",
-            "source": "spacenews",
-            "text": "Lunar helium-3: separating market from marketing",
-            "source_link": "https://spacenews.com/lunar-helium-3-separating-market-from-marketing/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-04T13:08:07.410199Z",
-            "shown_at": [
-                "2025-06-04T13:08:07.979045Z",
-                "2025-06-04T17:01:43.969161Z",
-                "2025-06-05T15:09:54.223076Z",
-                "2025-06-08T00:37:32.036811Z",
-                "2025-06-09T06:05:56.242835Z",
-                "2025-06-10T03:17:35.157382Z"
-            ]
-        },
-        {
-            "id": "84bae1e2b19773dcb4eb78e5aac19a6f",
-            "source": "spacenews",
-            "text": "Second ispace mission ready for lunar landing attempt",
-            "source_link": "https://spacenews.com/second-ispace-mission-ready-for-lunar-landing-attempt/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-04T11:39:29.266645Z",
-            "shown_at": [
-                "2025-06-04T11:39:29.955631Z",
-                "2025-06-08T10:09:37.548037Z",
-                "2025-06-08T11:05:34.834885Z",
-                "2025-06-10T10:02:14.896325Z"
-            ]
-        },
-        {
-            "id": "86485718684b71ebb11e32b77acf436b",
-            "source": "spacenews",
-            "text": "Thruster issue delays Cygnus arrival at ISS",
-            "source_link": "https://spacenews.com/thruster-issue-delays-cygnus-arrival-at-iss/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-17T03:47:51.931172Z",
-            "shown_at": [
-                "2025-09-17T03:47:52.545303Z"
-            ]
-        },
-        {
-            "id": "e9a0abd0e4d12f8b8cd8c40ffe2a1034",
-            "source": "spacenews",
-            "text": "Successful flight on Falcon 9 for EOS-8’’, MECANO ID’s Satellite Ejection System",
-            "source_link": "https://spacenews.com/successful-flight-on-falcon-9-for-eos-8-mecano-ids-satellite-ejection-system/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-17T06:09:52.568997Z",
-            "shown_at": [
-                "2025-09-17T06:09:54.287075Z",
-                "2025-09-17T14:22:25.853398Z"
-            ]
-        },
-        {
-            "id": "01d6ca794322216e01816f23dd7376d2",
-            "source": "spacenews",
-            "text": "ReOrbit raises 45 million euros to increase spacecraft production",
-            "source_link": "https://spacenews.com/reorbit-raises-45-million-euros-to-increase-spacecraft-production/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-17T09:27:51.098460Z",
-            "shown_at": [
-                "2025-09-17T09:27:52.387961Z",
-                "2025-09-17T21:58:08.142253Z"
-            ]
-        },
-        {
-            "id": "94d659bc7eaee606ffcb621c5bd1572f",
-            "source": "spacenews",
-            "text": "Maxar and Ecopia roll out AI-powered Earth mapping system",
-            "source_link": "https://spacenews.com/maxar-and-ecopia-roll-out-ai-powered-earth-mapping-system/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-17T12:33:51.759667Z",
-            "shown_at": [
-                "2025-09-17T12:33:53.527602Z"
-            ]
-        },
-        {
-            "id": "89231661c4b661d86a5353b2be3ee25a",
-            "source": "spacenews",
-            "text": "Does Europe need a spaceplane?",
-            "source_link": "https://spacenews.com/does-europe-need-a-spaceplane/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-17T12:33:51.759732Z",
-            "shown_at": [
-                "2025-09-17T12:48:03.239573Z"
-            ]
-        },
-        {
-            "id": "a860915d703158510de8a1cd2c63f1f8",
-            "source": "spacenews",
-            "text": "President Trump’s Golden Dome: golden dream or black nightmare?",
-            "source_link": "https://spacenews.com/president-trumps-golden-dome-golden-dream-or-black-nightmare/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-17T13:19:50.365531Z",
-            "shown_at": [
-                "2025-09-17T13:19:51.223884Z"
-            ]
-        },
-        {
-            "id": "4d9e2d80fcf8a3df599606c6bd06fe12",
-            "source": "spacenews",
-            "text": "Novaspace and the Occitanie Region Launch the Inaugural Space Summit for a Resilient Future in 2026",
-            "source_link": "https://spacenews.com/novaspace-and-the-occitanie-region-launch-the-inaugural-space-summit-for-a-resilient-future-in-2026/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-17T14:52:35.749726Z",
-            "shown_at": [
-                "2025-09-17T14:52:36.611294Z"
-            ]
-        },
-        {
-            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from Florida",
-            "source_link": "https://www.supercluster.com/launches/starlink-10-61",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-09-18T09:30:00.000Z",
-            "time_remaining": "0d 09h 30m",
-            "fetched_datetime": "2025-09-17T15:50:29.124280Z",
-            "shown_at": [
-                "2025-09-17T15:50:29.958314Z",
-                "2025-09-17T15:54:02.966906Z",
-                "2025-09-17T15:55:50.837870Z",
-                "2025-09-17T16:43:27.578444Z",
-                "2025-09-17T16:45:43.690737Z",
-                "2025-09-17T16:47:46.189331Z",
-                "2025-09-17T16:49:59.839724Z",
-                "2025-09-17T16:52:09.180424Z",
-                "2025-09-17T16:53:49.007973Z",
-                "2025-09-17T16:55:59.110699Z",
-                "2025-09-17T17:43:37.591155Z",
-                "2025-09-17T17:45:57.034058Z",
-                "2025-09-17T17:48:29.614780Z",
-                "2025-09-17T17:51:45.487314Z",
-                "2025-09-17T17:53:37.566513Z",
-                "2025-09-17T17:55:41.618677Z",
-                "2025-09-17T17:58:07.114245Z",
-                "2025-09-17T18:48:03.299243Z",
-                "2025-09-17T18:49:42.821552Z",
-                "2025-09-17T18:52:22.728137Z",
-                "2025-09-17T18:55:46.384486Z",
-                "2025-09-17T18:57:49.505839Z",
-                "2025-09-17T19:00:14.502506Z",
-                "2025-09-17T19:02:10.852504Z",
-                "2025-09-17T20:22:03.753753Z",
-                "2025-09-17T20:23:39.656465Z",
-                "2025-09-17T20:25:38.609595Z",
-                "2025-09-17T20:27:51.397232Z",
-                "2025-09-17T20:29:36.416323Z",
-                "2025-09-17T20:32:29.033335Z",
-                "2025-09-17T20:35:48.774396Z",
-                "2025-09-17T21:23:56.440753Z",
-                "2025-09-17T21:25:48.292247Z",
-                "2025-09-17T21:27:47.410584Z",
-                "2025-09-17T21:29:42.513477Z",
-                "2025-09-17T21:32:24.815794Z",
-                "2025-09-17T21:35:28.286682Z",
-                "2025-09-17T21:37:52.565305Z",
-                "2025-09-17T22:27:56.654961Z",
-                "2025-09-17T22:29:35.289554Z",
-                "2025-09-17T22:32:27.484829Z",
-                "2025-09-17T22:35:40.065525Z",
-                "2025-09-17T22:37:51.681922Z",
-                "2025-09-17T22:39:45.476429Z",
-                "2025-09-17T22:42:03.815172Z",
-                "2025-09-17T23:47:37.199805Z",
-                "2025-09-17T23:49:42.170679Z",
-                "2025-09-17T23:51:59.668503Z",
-                "2025-09-17T23:53:59.593547Z",
-                "2025-09-17T23:56:08.420685Z",
-                "2025-09-17T23:57:36.033681Z",
-                "2025-09-17T23:59:55.226654Z"
-            ]
-        },
-        {
-            "id": "b9739e41b7dbcaddbb0ef42df2a138ae",
-            "source": "spacenews",
-            "text": "Small GEO strategies diverge around vertical integration",
-            "source_link": "https://spacenews.com/small-geo-strategies-diverge-around-vertical-integration/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-17T16:15:52.512248Z",
-            "shown_at": [
-                "2025-09-17T16:15:53.512067Z"
-            ]
-        },
-        {
-            "id": "8d220e24b940b4fa8f18c191bb157318",
-            "source": "breaking_defense",
-            "text": "Space Force cell explores reorg to push commercial data to military",
-            "source_link": "https://breakingdefense.com/2025/09/space-force-reorganizing-to-add-commercial-space-monitoring-data-analysis-into-operations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-17T19:35:39.106843Z",
-            "shown_at": [
-                "2025-09-17T19:35:40.072873Z"
-            ]
-        },
-        {
-            "id": "7155a345f495e501f1556cfb20da0fbf",
-            "source": "spacenews",
-            "text": "Space Force accelerates reorganization of acquisition units ",
-            "source_link": "https://spacenews.com/space-force-accelerates-reorganization-of-acquisition-units/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-17T19:50:06.401716Z",
-            "shown_at": [
-                "2025-09-17T19:50:09.847270Z"
-            ]
-        },
-        {
-            "id": "26b554f2644ed219a2f466829006a961",
-            "source": "spacenews",
-            "text": "Space Force chief: Current satellite tracking ‘too slow’ for modern threats",
-            "source_link": "https://spacenews.com/space-force-chief-current-satellite-tracking-too-slow-for-modern-threats/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-17T23:18:01.323072Z",
-            "shown_at": [
-                "2025-09-17T23:18:02.785636Z"
             ]
         }
     ]
