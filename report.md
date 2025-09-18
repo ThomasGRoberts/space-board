@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 24 | 27 | 58 |
 | breaking_defense | 1 | 5 | 22 | 42 |
-| supercluster | 1 | 1 | 87 | 87 |
+| supercluster | 1 | 1 | 88 | 88 |
 | nyt | 0 | 1 | 21 | 40 |
 
 # Shown Order
@@ -6881,3 +6881,4 @@
 - **Sep 18, 05:27 AM** - Space Force cell explores reorg to push commercial data to military (breaking_defense)
 - **Sep 18, 05:46 AM** - NASA Rover Findings ‘Could Be the Clearest Sign of Life’ on Mars (nyt)
 - **Sep 18, 05:59 AM** - ReOrbit raises 45 million euros to increase spacecraft production (spacenews)
+- **Sep 18, 06:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
