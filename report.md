@@ -5,7 +5,7 @@
 | spacenews | 11 | 23 | 27 | 56 |
 | breaking_defense | 2 | 4 | 20 | 42 |
 | nyt | 0 | 1 | 19 | 39 |
-| supercluster | 1 | 1 | 4 | 4 |
+| supercluster | 1 | 1 | 5 | 5 |
 
 # Shown Order
 
@@ -6823,3 +6823,4 @@
 - **Sep 18, 03:34 PM** - For Golden Dome to work, it needs to be put to the test (breaking_defense)
 - **Sep 18, 03:49 PM** - Educating customers may be half the battle for nascent hyperspectral sector (spacenews)
 - **Sep 18, 04:04 PM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
+- **Sep 18, 04:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
