@@ -5,7 +5,7 @@
 | spacenews | 8 | 24 | 25 | 57 |
 | breaking_defense | 1 | 4 | 20 | 42 |
 | nyt | 0 | 1 | 19 | 39 |
-| supercluster | 1 | 1 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -6811,3 +6811,4 @@
 - **Sep 18, 12:20 PM** - Cygnus arrives at ISS after thruster glitch (spacenews)
 - **Sep 18, 12:36 PM** - The Earth Observation industry’s biggest threat isn’t China, it’s Washington (breaking_defense)
 - **Sep 18, 12:49 PM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
+- **Sep 18, 02:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
