@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 24 | 27 | 58 |
-| breaking_defense | 1 | 5 | 23 | 43 |
+| spacenews | 10 | 24 | 28 | 59 |
+| breaking_defense | 1 | 5 | 22 | 43 |
 | supercluster | 1 | 1 | 66 | 66 |
 | nyt | 0 | 1 | 21 | 39 |
 
@@ -6848,3 +6848,4 @@
 - **Sep 18, 01:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 18, 01:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 18, 01:59 AM** - House Intel Committee props up FY26 funding for NRO commercial imagery buys (breaking_defense)
+- **Sep 18, 02:15 AM** - Military spending and direct-to-device competition are reshaping the space economy (spacenews)
