@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 21 | 28 | 55 |
 | breaking_defense | 2 | 3 | 20 | 42 |
-| nyt | 0 | 0 | 18 | 39 |
+| nyt | 0 | 0 | 19 | 40 |
 | supercluster | 1 | 1 | 38 | 38 |
 
 # Shown Order
@@ -6875,3 +6875,4 @@
 - **Sep 18, 10:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 18, 10:05 PM** - Beyond ‘potpourri’ of sensors: Saltzman pushes holistic approach to space domain awareness (breaking_defense)
 - **Sep 18, 10:20 PM** - Astro Digital to plug into Star Catcher solar-energy grid (spacenews)
+- **Sep 18, 10:35 PM** - A Defender of Darkness in the Darkest Place on Earth (nyt)
