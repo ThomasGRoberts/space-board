@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 24 | 28 | 58 |
 | breaking_defense | 1 | 5 | 22 | 42 |
-| supercluster | 1 | 1 | 60 | 60 |
+| supercluster | 1 | 1 | 61 | 61 |
 | nyt | 0 | 1 | 21 | 40 |
 
 # Shown Order
@@ -6841,3 +6841,4 @@
 - **Sep 18, 01:17 AM** - CSO Co., Ltd. — Redefining Earth Observation with Cutting-Edge Camera Systems for Small Satellites (spacenews)
 - **Sep 18, 01:32 AM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
 - **Sep 18, 01:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 18, 01:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
