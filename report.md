@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 23 | 27 | 57 |
 | breaking_defense | 1 | 5 | 22 | 42 |
-| supercluster | 1 | 1 | 94 | 94 |
+| supercluster | 1 | 1 | 95 | 95 |
 | nyt | 0 | 1 | 21 | 40 |
 
 # Shown Order
@@ -6891,3 +6891,4 @@
 - **Sep 18, 06:32 AM** - House Intel Committee props up FY26 funding for NRO commercial imagery buys (breaking_defense)
 - **Sep 18, 06:47 AM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
 - **Sep 18, 07:02 AM** - SpaceX planning first tests of new direct-to-device spectrum next year (spacenews)
+- **Sep 18, 07:22 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
