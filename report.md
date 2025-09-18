@@ -5,6 +5,7 @@
 | spacenews | 9 | 24 | 26 | 58 |
 | breaking_defense | 1 | 4 | 21 | 42 |
 | nyt | 0 | 1 | 20 | 40 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -6810,3 +6811,4 @@
 - **Sep 18, 12:20 PM** - Cygnus arrives at ISS after thruster glitch (spacenews)
 - **Sep 18, 12:36 PM** - The Earth Observation industry’s biggest threat isn’t China, it’s Washington (breaking_defense)
 - **Sep 18, 12:49 PM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
+- **Sep 18, 01:07 PM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
