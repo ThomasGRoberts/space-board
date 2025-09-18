@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 23 | 27 | 58 |
+| spacenews | 8 | 23 | 26 | 58 |
 | breaking_defense | 1 | 5 | 22 | 43 |
-| supercluster | 1 | 1 | 110 | 110 |
+| supercluster | 1 | 1 | 111 | 111 |
 | nyt | 0 | 1 | 21 | 40 |
 
 # Shown Order
@@ -6913,3 +6913,4 @@
 - **Sep 18, 09:06 AM** - Axiom and Spacebilt to establish ISS data center node (spacenews)
 - **Sep 18, 09:22 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 18, 09:26 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 18, 09:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
