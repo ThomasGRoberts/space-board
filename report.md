@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 24 | 28 | 57 |
+| spacenews | 10 | 24 | 27 | 57 |
 | breaking_defense | 1 | 5 | 22 | 42 |
-| supercluster | 1 | 1 | 54 | 54 |
+| supercluster | 1 | 1 | 55 | 55 |
 | nyt | 0 | 1 | 21 | 39 |
 
 # Shown Order
@@ -6832,3 +6832,4 @@
 - **Sep 18, 12:32 AM** - NASA Rover Findings ‘Could Be the Clearest Sign of Life’ on Mars (nyt)
 - **Sep 18, 12:48 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 18, 12:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 18, 12:52 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
