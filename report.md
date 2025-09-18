@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 22 | 27 | 55 |
-| breaking_defense | 2 | 3 | 19 | 41 |
+| breaking_defense | 2 | 3 | 20 | 42 |
 | nyt | 0 | 0 | 19 | 39 |
 | supercluster | 1 | 1 | 45 | 45 |
 
@@ -6884,3 +6884,4 @@
 - **Sep 18, 11:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 18, 11:17 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 18, 11:20 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 18, 11:22 PM** - The Break Out: A Golden Dome prize pool and Project Octopus [VIDEO] (breaking_defense)
