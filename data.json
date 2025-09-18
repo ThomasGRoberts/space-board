@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-18T00:02:22.832843+00:00",
-    "trigger_count": 6,
-    "current_item_id": "aba0d88b50979e3c04e378e66cf890be",
+    "trigger_count": 0,
+    "current_item_id": "204a842a7e68b009bf582c4f9971aa4d",
     "data": [
         {
             "id": "26b554f2644ed219a2f466829006a961",
@@ -12514,6 +12514,18 @@
             "fetched_datetime": "2025-09-18T20:17:47.227106Z",
             "shown_at": [
                 "2025-09-18T20:17:47.950819Z"
+            ]
+        },
+        {
+            "id": "204a842a7e68b009bf582c4f9971aa4d",
+            "source": "spacenews",
+            "text": "Launch startup iSpace secures fresh funding as hot fire tests heat up China’s reusable rocket race",
+            "source_link": "https://spacenews.com/launch-startup-ispace-secures-fresh-funding-as-hot-fire-tests-heat-up-chinas-reusable-rocket-race/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-18T22:52:00.911236Z",
+            "shown_at": [
+                "2025-09-18T22:52:01.837950Z"
             ]
         }
     ]

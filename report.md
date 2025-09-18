@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 21 | 28 | 54 |
+| spacenews | 13 | 22 | 29 | 55 |
 | breaking_defense | 2 | 3 | 19 | 42 |
 | nyt | 0 | 0 | 19 | 40 |
 | supercluster | 1 | 1 | 38 | 38 |
@@ -6876,3 +6876,4 @@
 - **Sep 18, 10:05 PM** - Beyond ‘potpourri’ of sensors: Saltzman pushes holistic approach to space domain awareness (breaking_defense)
 - **Sep 18, 10:20 PM** - Astro Digital to plug into Star Catcher solar-energy grid (spacenews)
 - **Sep 18, 10:35 PM** - A Defender of Darkness in the Darkest Place on Earth (nyt)
+- **Sep 18, 10:52 PM** - Launch startup iSpace secures fresh funding as hot fire tests heat up China’s reusable rocket race (spacenews)
