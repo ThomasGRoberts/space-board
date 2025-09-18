@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 23 | 27 | 56 |
 | breaking_defense | 2 | 4 | 20 | 42 |
-| nyt | 0 | 1 | 19 | 39 |
-| supercluster | 1 | 1 | 2 | 2 |
+| nyt | 0 | 1 | 18 | 39 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -6821,3 +6821,4 @@
 - **Sep 18, 04:04 PM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
 - **Sep 18, 04:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 18, 04:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 18, 04:32 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
