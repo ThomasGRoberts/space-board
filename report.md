@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 24 | 27 | 57 |
+| spacenews | 10 | 24 | 28 | 58 |
 | breaking_defense | 1 | 5 | 22 | 42 |
 | supercluster | 1 | 1 | 52 | 52 |
 | nyt | 0 | 1 | 21 | 38 |
@@ -6828,3 +6828,4 @@
 - **Sep 17, 11:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 17, 11:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 18, 12:02 AM** - The Break Out: A Golden Dome prize pool and Project Octopus [VIDEO] (breaking_defense)
+- **Sep 18, 12:17 AM** - To lead in space, we must go all-in on our industrial base (spacenews)
