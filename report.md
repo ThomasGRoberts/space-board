@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 26 | 28 | 58 |
+| spacenews | 12 | 23 | 28 | 57 |
 | breaking_defense | 2 | 4 | 20 | 42 |
-| nyt | 0 | 1 | 18 | 38 |
+| nyt | 0 | 1 | 19 | 39 |
 | supercluster | 1 | 1 | 4 | 4 |
 
 # Shown Order
@@ -6822,3 +6822,4 @@
 - **Sep 18, 03:19 PM** - Blue Origin retires New Shepard capsule after payload flight (spacenews)
 - **Sep 18, 03:34 PM** - For Golden Dome to work, it needs to be put to the test (breaking_defense)
 - **Sep 18, 03:49 PM** - Educating customers may be half the battle for nascent hyperspectral sector (spacenews)
+- **Sep 18, 04:04 PM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
