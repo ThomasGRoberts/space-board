@@ -3,9 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 24 | 26 | 58 |
-| breaking_defense | 1 | 5 | 21 | 43 |
+| breaking_defense | 1 | 4 | 21 | 42 |
 | nyt | 0 | 1 | 20 | 40 |
-| supercluster | 1 | 1 | 14 | 14 |
 
 # Shown Order
 
@@ -6803,24 +6802,10 @@
 - **Sep 18, 08:37 AM** - House Intel Committee props up FY26 funding for NRO commercial imagery buys (breaking_defense)
 - **Sep 18, 08:52 AM** - A Defender of Darkness in the Darkest Place on Earth (nyt)
 - **Sep 18, 09:06 AM** - Axiom and Spacebilt to establish ISS data center node (spacenews)
-- **Sep 18, 10:32 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
-- **Sep 18, 10:33 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
-- **Sep 18, 10:35 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
-- **Sep 18, 10:37 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
-- **Sep 18, 10:39 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
-- **Sep 18, 10:42 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
-- **Sep 18, 10:43 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
 - **Sep 18, 10:46 AM** - Defense and security agencies propel demand for Earth-observation data (spacenews)
 - **Sep 18, 11:00 AM** - Astra plans mid-2026 first launch of Rocket 4 (spacenews)
 - **Sep 18, 11:17 AM** - House Intel Committee props up FY26 funding for NRO commercial imagery buys (breaking_defense)
 - **Sep 18, 11:35 AM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
-- **Sep 18, 11:50 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
-- **Sep 18, 11:51 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
-- **Sep 18, 11:53 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
-- **Sep 18, 11:55 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
-- **Sep 18, 11:57 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
-- **Sep 18, 11:59 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
-- **Sep 18, 12:02 PM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
 - **Sep 18, 12:05 PM** - Maxar and Ecopia roll out AI-powered Earth mapping system (spacenews)
 - **Sep 18, 12:20 PM** - Cygnus arrives at ISS after thruster glitch (spacenews)
 - **Sep 18, 12:36 PM** - The Earth Observation industry’s biggest threat isn’t China, it’s Washington (breaking_defense)
