@@ -5,7 +5,7 @@
 | spacenews | 9 | 24 | 27 | 58 |
 | breaking_defense | 1 | 5 | 22 | 43 |
 | supercluster | 1 | 1 | 94 | 94 |
-| nyt | 0 | 1 | 21 | 39 |
+| nyt | 0 | 1 | 22 | 40 |
 
 # Shown Order
 
@@ -6889,3 +6889,4 @@
 - **Sep 18, 06:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 18, 06:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 18, 06:32 AM** - House Intel Committee props up FY26 funding for NRO commercial imagery buys (breaking_defense)
+- **Sep 18, 06:47 AM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
