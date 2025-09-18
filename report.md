@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 22 | 28 | 55 |
+| spacenews | 12 | 22 | 27 | 55 |
 | breaking_defense | 2 | 3 | 19 | 41 |
-| nyt | 0 | 0 | 19 | 40 |
-| supercluster | 1 | 1 | 44 | 44 |
+| nyt | 0 | 0 | 19 | 39 |
+| supercluster | 1 | 1 | 45 | 45 |
 
 # Shown Order
 
@@ -6883,3 +6883,4 @@
 - **Sep 18, 11:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 18, 11:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 18, 11:17 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 18, 11:20 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
