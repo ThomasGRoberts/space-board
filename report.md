@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 24 | 28 | 58 |
 | breaking_defense | 1 | 5 | 22 | 42 |
-| supercluster | 1 | 1 | 67 | 67 |
+| supercluster | 1 | 1 | 68 | 68 |
 | nyt | 0 | 1 | 21 | 40 |
 
 # Shown Order
@@ -6851,3 +6851,4 @@
 - **Sep 18, 02:15 AM** - Military spending and direct-to-device competition are reshaping the space economy (spacenews)
 - **Sep 18, 02:32 AM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
 - **Sep 18, 02:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 18, 02:52 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
