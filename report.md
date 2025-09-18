@@ -5,7 +5,7 @@
 | spacenews | 11 | 23 | 27 | 56 |
 | breaking_defense | 2 | 4 | 20 | 42 |
 | nyt | 0 | 1 | 19 | 39 |
-| supercluster | 1 | 1 | 8 | 8 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -6811,10 +6811,6 @@
 - **Sep 18, 12:20 PM** - Cygnus arrives at ISS after thruster glitch (spacenews)
 - **Sep 18, 12:36 PM** - The Earth Observation industry’s biggest threat isn’t China, it’s Washington (breaking_defense)
 - **Sep 18, 12:49 PM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
-- **Sep 18, 02:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Sep 18, 02:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Sep 18, 02:08 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Sep 18, 02:11 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 18, 02:13 PM** - Stratospheric pseudo-satellites nearing commercial role in hybrid space networks (spacenews)
 - **Sep 18, 02:29 PM** - Lone Star space: How Texas can revitalize its galactic industry (spacenews)
 - **Sep 18, 02:47 PM** - Anduril, Impulse to demo maneuvering satellite, with sights set on Space Force missions (breaking_defense)
@@ -6823,7 +6819,4 @@
 - **Sep 18, 03:34 PM** - For Golden Dome to work, it needs to be put to the test (breaking_defense)
 - **Sep 18, 03:49 PM** - Educating customers may be half the battle for nascent hyperspectral sector (spacenews)
 - **Sep 18, 04:04 PM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
-- **Sep 18, 04:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Sep 18, 04:22 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Sep 18, 04:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Sep 18, 04:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 18, 04:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
