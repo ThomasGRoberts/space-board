@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-18T00:02:22.832843+00:00",
-    "trigger_count": 6,
-    "current_item_id": "94d659bc7eaee606ffcb621c5bd1572f",
+    "trigger_count": 0,
+    "current_item_id": "a3bd49644f527c36c6a36858ce37cd25",
     "data": [
         {
             "id": "26b554f2644ed219a2f466829006a961",
@@ -12350,6 +12350,18 @@
             "fetched_datetime": "2025-09-18T10:46:01.127988Z",
             "shown_at": [
                 "2025-09-18T11:00:04.564198Z"
+            ]
+        },
+        {
+            "id": "a3bd49644f527c36c6a36858ce37cd25",
+            "source": "spacenews",
+            "text": "Cygnus arrives at ISS after thruster glitch",
+            "source_link": "https://spacenews.com/cygnus-arrives-at-iss-after-thruster-glitch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-18T12:20:01.085190Z",
+            "shown_at": [
+                "2025-09-18T12:20:01.796538Z"
             ]
         }
     ]
