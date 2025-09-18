@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 24 | 28 | 57 |
+| spacenews | 12 | 24 | 28 | 56 |
 | breaking_defense | 2 | 4 | 19 | 42 |
 | nyt | 0 | 1 | 19 | 39 |
-| supercluster | 1 | 1 | 17 | 17 |
+| supercluster | 1 | 1 | 18 | 18 |
 
 # Shown Order
 
@@ -6846,3 +6846,4 @@
 - **Sep 18, 06:57 PM** - Blue Origin retires New Shepard capsule after payload flight (spacenews)
 - **Sep 18, 07:13 PM** - Hubble Network raises $70 million to accelerate 60-satellite Bluetooth constellation (spacenews)
 - **Sep 18, 07:27 PM** - A Defender of Darkness in the Darkest Place on Earth (nyt)
+- **Sep 18, 07:44 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
