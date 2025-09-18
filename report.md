@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 24 | 26 | 57 |
-| breaking_defense | 1 | 5 | 21 | 42 |
+| spacenews | 10 | 24 | 27 | 58 |
+| breaking_defense | 1 | 5 | 20 | 42 |
 | nyt | 0 | 1 | 20 | 39 |
 | supercluster | 1 | 1 | 14 | 14 |
 
@@ -6821,3 +6821,4 @@
 - **Sep 18, 11:57 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
 - **Sep 18, 11:59 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
 - **Sep 18, 12:02 PM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
+- **Sep 18, 12:05 PM** - Maxar and Ecopia roll out AI-powered Earth mapping system (spacenews)
