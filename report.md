@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 24 | 28 | 58 |
 | breaking_defense | 1 | 5 | 22 | 42 |
-| supercluster | 1 | 1 | 82 | 82 |
+| supercluster | 1 | 1 | 83 | 83 |
 | nyt | 0 | 1 | 21 | 40 |
 
 # Shown Order
@@ -6873,3 +6873,4 @@
 - **Sep 18, 04:57 AM** - Arianespace examines options to increase Ariane 6 launch rate (spacenews)
 - **Sep 18, 05:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 18, 05:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 18, 05:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
