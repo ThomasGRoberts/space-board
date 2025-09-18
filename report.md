@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 24 | 28 | 57 |
 | breaking_defense | 3 | 4 | 20 | 42 |
-| nyt | 0 | 1 | 18 | 39 |
+| nyt | 0 | 1 | 19 | 40 |
 | supercluster | 1 | 1 | 17 | 17 |
 
 # Shown Order
@@ -6845,3 +6845,4 @@
 - **Sep 18, 06:39 PM** - Beyond ‘potpourri’ of sensors: Saltzman pushes holistic approach to space domain awareness (breaking_defense)
 - **Sep 18, 06:57 PM** - Blue Origin retires New Shepard capsule after payload flight (spacenews)
 - **Sep 18, 07:13 PM** - Hubble Network raises $70 million to accelerate 60-satellite Bluetooth constellation (spacenews)
+- **Sep 18, 07:27 PM** - A Defender of Darkness in the Darkest Place on Earth (nyt)
