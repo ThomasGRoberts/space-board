@@ -5,7 +5,7 @@
 | spacenews | 8 | 23 | 25 | 57 |
 | breaking_defense | 1 | 5 | 21 | 42 |
 | nyt | 0 | 1 | 20 | 39 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -6805,3 +6805,4 @@
 - **Sep 18, 09:06 AM** - Axiom and Spacebilt to establish ISS data center node (spacenews)
 - **Sep 18, 10:32 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
 - **Sep 18, 10:33 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
+- **Sep 18, 10:35 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
