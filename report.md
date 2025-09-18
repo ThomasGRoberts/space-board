@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 21 | 28 | 55 |
 | breaking_defense | 2 | 3 | 20 | 42 |
-| nyt | 0 | 1 | 18 | 39 |
+| nyt | 0 | 1 | 19 | 40 |
 | supercluster | 1 | 1 | 31 | 31 |
 
 # Shown Order
@@ -6865,3 +6865,4 @@
 - **Sep 18, 08:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 18, 09:02 PM** - Anduril, Impulse to demo maneuvering satellite, with sights set on Space Force missions (breaking_defense)
 - **Sep 18, 09:17 PM** - Cygnus arrives at ISS after thruster glitch (spacenews)
+- **Sep 18, 09:32 PM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
