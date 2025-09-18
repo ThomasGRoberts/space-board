@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 23 | 27 | 57 |
-| breaking_defense | 1 | 5 | 22 | 42 |
+| breaking_defense | 1 | 5 | 23 | 43 |
 | supercluster | 1 | 1 | 101 | 101 |
 | nyt | 0 | 1 | 21 | 39 |
 
@@ -6898,3 +6898,4 @@
 - **Sep 18, 07:32 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 18, 07:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 18, 07:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 18, 07:39 AM** - EXCLUSIVE: DoD envisions prize competition for boost-phase SBI prototypes (breaking_defense)
