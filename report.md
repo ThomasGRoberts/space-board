@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 21 | 27 | 54 |
+| spacenews | 12 | 21 | 28 | 55 |
 | breaking_defense | 2 | 3 | 20 | 42 |
 | nyt | 0 | 0 | 18 | 39 |
 | supercluster | 1 | 1 | 38 | 38 |
@@ -6874,3 +6874,4 @@
 - **Sep 18, 09:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 18, 10:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 18, 10:05 PM** - Beyond ‘potpourri’ of sensors: Saltzman pushes holistic approach to space domain awareness (breaking_defense)
+- **Sep 18, 10:20 PM** - Astro Digital to plug into Star Catcher solar-energy grid (spacenews)
