@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-18T00:02:22.832843+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "551607b9b1ea261b1410d1f2a40bb6a3",
     "data": [
         {
             "id": "26b554f2644ed219a2f466829006a961",
@@ -12355,6 +12355,27 @@
                 "2025-09-18T14:08:22.771531Z",
                 "2025-09-18T14:11:56.772304Z"
             ]
+        },
+        {
+            "id": "551607b9b1ea261b1410d1f2a40bb6a3",
+            "source": "spacenews",
+            "text": "Stratospheric pseudo-satellites nearing commercial role in hybrid space networks",
+            "source_link": "https://spacenews.com/stratospheric-pseudo-satellites-nearing-commercial-role-in-hybrid-space-networks/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-18T14:13:41.611395Z",
+            "shown_at": [
+                "2025-09-18T14:13:42.226754Z"
+            ]
+        },
+        {
+            "id": "96d452b27f97f8442ff5807a90c63a20",
+            "source": "spacenews",
+            "text": "Lone Star space: How Texas can revitalize its galactic industry",
+            "source_link": "https://spacenews.com/lone-star-space-how-texas-can-revitalize-its-galactic-industry/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-09-18T14:13:41.611459Z"
         }
     ]
 }
