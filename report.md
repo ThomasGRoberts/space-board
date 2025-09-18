@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 23 | 27 | 55 |
+| spacenews | 11 | 23 | 28 | 56 |
 | breaking_defense | 3 | 4 | 21 | 42 |
 | nyt | 0 | 1 | 18 | 39 |
 | supercluster | 1 | 1 | 17 | 17 |
@@ -6843,3 +6843,4 @@
 - **Sep 18, 06:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 18, 06:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 18, 06:39 PM** - Beyond ‘potpourri’ of sensors: Saltzman pushes holistic approach to space domain awareness (breaking_defense)
+- **Sep 18, 06:57 PM** - Blue Origin retires New Shepard capsule after payload flight (spacenews)
