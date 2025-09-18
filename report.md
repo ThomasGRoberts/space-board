@@ -5,7 +5,7 @@
 | spacenews | 10 | 24 | 28 | 58 |
 | breaking_defense | 1 | 5 | 22 | 43 |
 | supercluster | 1 | 1 | 73 | 73 |
-| nyt | 0 | 1 | 20 | 39 |
+| nyt | 0 | 1 | 21 | 40 |
 
 # Shown Order
 
@@ -6859,3 +6859,4 @@
 - **Sep 18, 03:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 18, 03:07 AM** - EXCLUSIVE: DoD envisions prize competition for boost-phase SBI prototypes (breaking_defense)
 - **Sep 18, 03:24 AM** - Swissto12 clears PDR for debut small GEO D2D satellite (spacenews)
+- **Sep 18, 03:37 AM** - A Defender of Darkness in the Darkest Place on Earth (nyt)
