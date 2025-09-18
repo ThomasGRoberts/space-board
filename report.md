@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 24 | 27 | 56 |
-| breaking_defense | 2 | 4 | 19 | 42 |
+| spacenews | 11 | 23 | 27 | 55 |
+| breaking_defense | 2 | 4 | 20 | 43 |
 | nyt | 0 | 1 | 19 | 39 |
 | supercluster | 1 | 1 | 24 | 24 |
 
@@ -6853,3 +6853,4 @@
 - **Sep 18, 07:52 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 18, 07:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 18, 07:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 18, 07:59 PM** - Beyond ‘potpourri’ of sensors: Saltzman pushes holistic approach to space domain awareness (breaking_defense)
