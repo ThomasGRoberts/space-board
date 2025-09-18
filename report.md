@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 25 | 27 | 58 |
-| breaking_defense | 1 | 5 | 20 | 42 |
-| nyt | 0 | 1 | 20 | 39 |
+| breaking_defense | 1 | 5 | 21 | 43 |
+| nyt | 0 | 1 | 19 | 39 |
 | supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
@@ -6812,3 +6812,4 @@
 - **Sep 18, 10:43 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
 - **Sep 18, 10:46 AM** - Defense and security agencies propel demand for Earth-observation data (spacenews)
 - **Sep 18, 11:00 AM** - Astra plans mid-2026 first launch of Rocket 4 (spacenews)
+- **Sep 18, 11:17 AM** - House Intel Committee props up FY26 funding for NRO commercial imagery buys (breaking_defense)
