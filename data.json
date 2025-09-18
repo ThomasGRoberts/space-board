@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-18T00:02:22.832843+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2932378e5b9ab18ebbb2ff0eb757d86e",
+    "trigger_count": 0,
+    "current_item_id": "d48fc75c6f9493f6bd54314d73919f40",
     "data": [
         {
             "id": "26b554f2644ed219a2f466829006a961",
@@ -12415,6 +12415,18 @@
             "fetched_datetime": "2025-09-18T15:33:59.726628Z",
             "shown_at": [
                 "2025-09-18T15:34:00.690646Z"
+            ]
+        },
+        {
+            "id": "d48fc75c6f9493f6bd54314d73919f40",
+            "source": "spacenews",
+            "text": "Educating customers may be half the battle for nascent hyperspectral sector",
+            "source_link": "https://spacenews.com/educating-customers-may-be-half-the-battle-for-nascent-hyperspectral-sector/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-18T15:49:56.879679Z",
+            "shown_at": [
+                "2025-09-18T15:49:57.557801Z"
             ]
         }
     ]
