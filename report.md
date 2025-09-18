@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 23 | 26 | 57 |
+| spacenews | 8 | 23 | 25 | 57 |
 | breaking_defense | 1 | 5 | 21 | 42 |
 | nyt | 0 | 1 | 20 | 39 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -6804,3 +6804,4 @@
 - **Sep 18, 08:52 AM** - A Defender of Darkness in the Darkest Place on Earth (nyt)
 - **Sep 18, 09:06 AM** - Axiom and Spacebilt to establish ISS data center node (spacenews)
 - **Sep 18, 10:32 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
+- **Sep 18, 10:33 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
