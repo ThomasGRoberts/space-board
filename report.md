@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 24 | 28 | 59 |
-| breaking_defense | 1 | 5 | 20 | 42 |
+| spacenews | 9 | 24 | 27 | 59 |
+| breaking_defense | 1 | 5 | 21 | 43 |
 | nyt | 0 | 1 | 19 | 39 |
 | supercluster | 1 | 1 | 14 | 14 |
 
@@ -6823,3 +6823,4 @@
 - **Sep 18, 12:02 PM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
 - **Sep 18, 12:05 PM** - Maxar and Ecopia roll out AI-powered Earth mapping system (spacenews)
 - **Sep 18, 12:20 PM** - Cygnus arrives at ISS after thruster glitch (spacenews)
+- **Sep 18, 12:36 PM** - The Earth Observation industry’s biggest threat isn’t China, it’s Washington (breaking_defense)
