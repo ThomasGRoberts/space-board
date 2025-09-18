@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 23 | 27 | 56 |
 | breaking_defense | 2 | 4 | 20 | 42 |
-| nyt | 0 | 1 | 19 | 40 |
-| supercluster | 1 | 1 | 11 | 11 |
+| nyt | 0 | 1 | 19 | 39 |
+| supercluster | 1 | 1 | 12 | 12 |
 
 # Shown Order
 
@@ -6836,3 +6836,4 @@
 - **Sep 18, 05:52 PM** - Space Force accelerates reorganization of acquisition units  (spacenews)
 - **Sep 18, 06:07 PM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
 - **Sep 18, 06:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 18, 06:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
