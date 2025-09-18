@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 24 | 27 | 58 |
-| breaking_defense | 1 | 5 | 22 | 42 |
+| breaking_defense | 1 | 5 | 23 | 43 |
 | supercluster | 1 | 1 | 94 | 94 |
 | nyt | 0 | 1 | 21 | 39 |
 
@@ -6888,3 +6888,4 @@
 - **Sep 18, 06:26 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 18, 06:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 18, 06:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 18, 06:32 AM** - House Intel Committee props up FY26 funding for NRO commercial imagery buys (breaking_defense)
