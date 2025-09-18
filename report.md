@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 25 | 27 | 58 |
-| breaking_defense | 1 | 3 | 20 | 41 |
-| nyt | 0 | 1 | 18 | 39 |
+| breaking_defense | 2 | 4 | 21 | 42 |
+| nyt | 0 | 1 | 18 | 38 |
 | supercluster | 1 | 1 | 4 | 4 |
 
 # Shown Order
@@ -6820,3 +6820,4 @@
 - **Sep 18, 02:47 PM** - Anduril, Impulse to demo maneuvering satellite, with sights set on Space Force missions (breaking_defense)
 - **Sep 18, 03:02 PM** - New military satcom services program to focus on ‘maneuverable’ small GEO satellites (spacenews)
 - **Sep 18, 03:19 PM** - Blue Origin retires New Shepard capsule after payload flight (spacenews)
+- **Sep 18, 03:34 PM** - For Golden Dome to work, it needs to be put to the test (breaking_defense)
