@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-18T00:02:22.832843+00:00",
-    "trigger_count": 6,
-    "current_item_id": "27aafd3b2f8e13b0394fd1051b48de77",
+    "trigger_count": 0,
+    "current_item_id": "ed492672dde41c57fb74642568abd631",
     "data": [
         {
             "id": "26b554f2644ed219a2f466829006a961",
@@ -12317,6 +12317,27 @@
                 "2025-09-18T10:42:03.975926Z",
                 "2025-09-18T10:43:37.239100Z"
             ]
+        },
+        {
+            "id": "ed492672dde41c57fb74642568abd631",
+            "source": "spacenews",
+            "text": "Defense and security agencies propel demand for Earth-observation data",
+            "source_link": "https://spacenews.com/defense-and-security-agencies-propel-demand-for-earth-observation-data/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-18T10:46:01.127931Z",
+            "shown_at": [
+                "2025-09-18T10:46:02.113607Z"
+            ]
+        },
+        {
+            "id": "2328646f00db171a39e4722310c52564",
+            "source": "spacenews",
+            "text": "Astra plans mid-2026 first launch of Rocket 4",
+            "source_link": "https://spacenews.com/astra-plans-mid-2026-first-launch-of-rocket-4/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-09-18T10:46:01.127988Z"
         }
     ]
 }

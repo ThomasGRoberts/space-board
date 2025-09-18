@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 23 | 25 | 57 |
+| spacenews | 10 | 25 | 26 | 58 |
 | breaking_defense | 1 | 5 | 21 | 42 |
 | nyt | 0 | 1 | 20 | 39 |
 | supercluster | 1 | 1 | 7 | 7 |
@@ -6810,3 +6810,4 @@
 - **Sep 18, 10:39 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
 - **Sep 18, 10:42 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
 - **Sep 18, 10:43 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
+- **Sep 18, 10:46 AM** - Defense and security agencies propel demand for Earth-observation data (spacenews)
