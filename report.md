@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 23 | 27 | 57 |
 | breaking_defense | 1 | 5 | 22 | 42 |
-| supercluster | 1 | 1 | 96 | 96 |
+| supercluster | 1 | 1 | 97 | 97 |
 | nyt | 0 | 1 | 21 | 40 |
 
 # Shown Order
@@ -6893,3 +6893,4 @@
 - **Sep 18, 07:02 AM** - SpaceX planning first tests of new direct-to-device spectrum next year (spacenews)
 - **Sep 18, 07:22 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 18, 07:24 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 18, 07:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
