@@ -5,7 +5,7 @@
 | spacenews | 13 | 22 | 28 | 55 |
 | breaking_defense | 2 | 3 | 19 | 41 |
 | nyt | 0 | 0 | 19 | 40 |
-| supercluster | 1 | 1 | 38 | 38 |
+| supercluster | 1 | 1 | 39 | 39 |
 
 # Shown Order
 
@@ -6877,3 +6877,4 @@
 - **Sep 18, 10:20 PM** - Astro Digital to plug into Star Catcher solar-energy grid (spacenews)
 - **Sep 18, 10:35 PM** - A Defender of Darkness in the Darkest Place on Earth (nyt)
 - **Sep 18, 10:52 PM** - Launch startup iSpace secures fresh funding as hot fire tests heat up China’s reusable rocket race (spacenews)
+- **Sep 18, 11:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
