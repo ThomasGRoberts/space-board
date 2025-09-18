@@ -5,7 +5,7 @@
 | spacenews | 10 | 24 | 26 | 57 |
 | breaking_defense | 1 | 5 | 21 | 42 |
 | nyt | 0 | 1 | 20 | 40 |
-| supercluster | 1 | 1 | 9 | 9 |
+| supercluster | 1 | 1 | 10 | 10 |
 
 # Shown Order
 
@@ -6816,3 +6816,4 @@
 - **Sep 18, 11:35 AM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
 - **Sep 18, 11:50 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
 - **Sep 18, 11:51 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
+- **Sep 18, 11:53 AM** - Blue Origin Will Launch Uncrewed Suborbital Flight (supercluster)
