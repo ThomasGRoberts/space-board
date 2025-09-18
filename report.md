@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 23 | 27 | 57 |
+| spacenews | 9 | 23 | 28 | 58 |
 | breaking_defense | 1 | 5 | 22 | 43 |
 | supercluster | 1 | 1 | 108 | 108 |
 | nyt | 0 | 1 | 21 | 40 |
@@ -6910,3 +6910,4 @@
 - **Sep 18, 08:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 18, 08:37 AM** - House Intel Committee props up FY26 funding for NRO commercial imagery buys (breaking_defense)
 - **Sep 18, 08:52 AM** - A Defender of Darkness in the Darkest Place on Earth (nyt)
+- **Sep 18, 09:06 AM** - Axiom and Spacebilt to establish ISS data center node (spacenews)
