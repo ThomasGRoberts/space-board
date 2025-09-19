@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 20 | 28 | 54 |
-| breaking_defense | 2 | 3 | 20 | 42 |
+| breaking_defense | 2 | 3 | 21 | 43 |
 | supercluster | 1 | 1 | 115 | 115 |
 | nyt | 0 | 0 | 19 | 40 |
 
@@ -6801,3 +6801,4 @@
 - **Sep 19, 09:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 19, 09:42 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 19, 09:43 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 19, 09:45 AM** - EXCLUSIVE: DoD envisions prize competition for boost-phase SBI prototypes (breaking_defense)
