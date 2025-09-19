@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 21 | 28 | 55 |
 | breaking_defense | 2 | 3 | 20 | 42 |
-| supercluster | 1 | 1 | 88 | 88 |
+| supercluster | 1 | 1 | 89 | 89 |
 | nyt | 0 | 0 | 19 | 40 |
 
 # Shown Order
@@ -6765,3 +6765,4 @@
 - **Sep 19, 05:55 AM** - SpaceX planning first tests of new direct-to-device spectrum next year (spacenews)
 - **Sep 19, 06:09 AM** - Space Norway and SSTL collaborate on radar satellite program (spacenews)
 - **Sep 19, 06:24 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 19, 06:25 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
