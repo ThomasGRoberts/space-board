@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-19T00:02:00.757293+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5bb94bc417a8e2569563dfce1bb66adf",
+    "trigger_count": 0,
+    "current_item_id": "9f4426659159dc80553afa54bb129335",
     "data": [
         {
             "id": "204a842a7e68b009bf582c4f9971aa4d",
@@ -12252,9 +12252,12 @@
             "source": "spacenews",
             "text": "American leadership at Apophis",
             "source_link": "https://spacenews.com/american-leadership-at-apophis/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-09-19T17:39:58.246032Z"
+            "fetched_datetime": "2025-09-19T17:39:58.246032Z",
+            "shown_at": [
+                "2025-09-19T18:10:28.863082Z"
+            ]
         }
     ]
 }
