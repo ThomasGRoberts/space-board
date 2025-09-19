@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 18 | 20 | 47 |
-| breaking_defense | 1 | 3 | 16 | 35 |
+| breaking_defense | 1 | 3 | 17 | 36 |
 | nyt | 2 | 2 | 17 | 36 |
 | supercluster | 1 | 1 | 17 | 17 |
 
@@ -6718,3 +6718,4 @@
 - **Sep 19, 08:25 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 19, 08:27 PM** - Taiwanese aerospace firm partners with Maxar on GPS-alternative drone navigation (spacenews)
 - **Sep 19, 08:45 PM** - A Tiny Quasi-Moon is Following Earth Around the Sun (nyt)
+- **Sep 19, 09:02 PM** - The Break Out: A Golden Dome prize pool and Project Octopus [VIDEO] (breaking_defense)
