@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 16 | 19 | 46 |
-| breaking_defense | 2 | 4 | 17 | 37 |
+| breaking_defense | 2 | 4 | 16 | 37 |
 | nyt | 0 | 0 | 16 | 34 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -6692,3 +6692,4 @@
 - **Sep 19, 04:22 PM** - SSC to finish ‘system delta’ reorg next month (breaking_defense)
 - **Sep 19, 05:32 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 19, 05:36 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 19, 05:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
