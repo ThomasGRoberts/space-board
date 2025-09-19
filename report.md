@@ -5,7 +5,7 @@
 | spacenews | 5 | 16 | 19 | 46 |
 | breaking_defense | 2 | 4 | 17 | 37 |
 | nyt | 0 | 0 | 16 | 34 |
-| supercluster | 1 | 1 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -6690,3 +6690,4 @@
 - **Sep 19, 10:02 AM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
 - **Sep 19, 04:05 PM** - Taiwanese aerospace firm partners with Maxar on GPS-alternative drone navigation (spacenews)
 - **Sep 19, 04:22 PM** - SSC to finish ‘system delta’ reorg next month (breaking_defense)
+- **Sep 19, 05:32 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-19T00:02:00.757293+00:00",
-    "trigger_count": 3,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 4,
+    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
     "data": [
         {
             "id": "204a842a7e68b009bf582c4f9971aa4d",
@@ -12208,15 +12208,18 @@
             ]
         },
         {
-            "id": "4beba9b243fe616fcb8e7be8d963bbc1",
+            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
             "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from California",
-            "source_link": "https://www.supercluster.com/launches/starlink-17-12",
-            "shown": false,
+            "text": "SpaceX Will Launch Starlink Satellites from Florida",
+            "source_link": "https://www.supercluster.com/launches/starlink-10-27",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-09-19T16:31:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-09-19T17:29:44.214375Z"
+            "target_datetime": "2025-09-21T09:20:00.000Z",
+            "time_remaining": "1d 15h 47m",
+            "fetched_datetime": "2025-09-19T17:32:20.616553Z",
+            "shown_at": [
+                "2025-09-19T17:32:21.466154Z"
+            ]
         }
     ]
 }
