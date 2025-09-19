@@ -2,9 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 17 | 20 | 47 |
+| spacenews | 5 | 17 | 19 | 47 |
 | breaking_defense | 1 | 3 | 17 | 38 |
 | nyt | 0 | 0 | 18 | 36 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -6687,3 +6688,4 @@
 - **Sep 19, 09:15 AM** - Educating customers may be half the battle for nascent hyperspectral sector (spacenews)
 - **Sep 19, 09:45 AM** - EXCLUSIVE: DoD envisions prize competition for boost-phase SBI prototypes (breaking_defense)
 - **Sep 19, 10:02 AM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
+- **Sep 19, 03:50 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
