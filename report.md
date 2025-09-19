@@ -5,7 +5,7 @@
 | spacenews | 12 | 22 | 27 | 55 |
 | breaking_defense | 2 | 3 | 20 | 42 |
 | supercluster | 1 | 1 | 52 | 52 |
-| nyt | 0 | 0 | 18 | 39 |
+| nyt | 0 | 0 | 19 | 40 |
 
 # Shown Order
 
@@ -6711,3 +6711,4 @@
 - **Sep 19, 12:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 19, 12:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 19, 12:22 AM** - Space Force cell explores reorg to push commercial data to military (breaking_defense)
+- **Sep 19, 12:40 AM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
