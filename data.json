@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-19T00:02:00.757293+00:00",
-    "trigger_count": 6,
-    "current_item_id": "16e90d6a0420cf7c7201c992a2384505",
+    "trigger_count": 0,
+    "current_item_id": "c6b02e89da7366b2196e30b507f7ac0a",
     "data": [
         {
             "id": "204a842a7e68b009bf582c4f9971aa4d",
@@ -12258,6 +12258,18 @@
             "fetched_datetime": "2025-09-19T17:39:58.246032Z",
             "shown_at": [
                 "2025-09-19T18:10:28.863082Z"
+            ]
+        },
+        {
+            "id": "c6b02e89da7366b2196e30b507f7ac0a",
+            "source": "nyt",
+            "text": "Earth Has a New ‘Quasi-Moon,’ and It May Be Very Tiny",
+            "source_link": "https://www.nytimes.com/2025/09/19/science/earth-quasi-moon-asteroid.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-19T18:42:09.863954Z",
+            "shown_at": [
+                "2025-09-19T18:42:10.547578Z"
             ]
         }
     ]

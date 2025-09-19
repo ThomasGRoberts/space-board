@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 19 | 21 | 48 |
-| breaking_defense | 2 | 4 | 16 | 36 |
-| nyt | 0 | 0 | 16 | 34 |
+| breaking_defense | 1 | 4 | 15 | 36 |
+| nyt | 1 | 1 | 17 | 35 |
 | supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
@@ -6697,3 +6697,4 @@
 - **Sep 19, 05:56 PM** - Building Saudi Arabia’s space champion (spacenews)
 - **Sep 19, 06:10 PM** - American leadership at Apophis (spacenews)
 - **Sep 19, 06:26 PM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
+- **Sep 19, 06:42 PM** - Earth Has a New ‘Quasi-Moon,’ and It May Be Very Tiny (nyt)
