@@ -4,8 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 16 | 20 | 47 |
 | breaking_defense | 2 | 4 | 18 | 38 |
-| nyt | 0 | 0 | 17 | 36 |
-| supercluster | 1 | 1 | 7 | 7 |
+| nyt | 0 | 0 | 17 | 35 |
 
 # Shown Order
 
@@ -6688,12 +6687,5 @@
 - **Sep 19, 09:15 AM** - Educating customers may be half the battle for nascent hyperspectral sector (spacenews)
 - **Sep 19, 09:45 AM** - EXCLUSIVE: DoD envisions prize competition for boost-phase SBI prototypes (breaking_defense)
 - **Sep 19, 10:02 AM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
-- **Sep 19, 03:50 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Sep 19, 03:52 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Sep 19, 03:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Sep 19, 03:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Sep 19, 03:58 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Sep 19, 03:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Sep 19, 04:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 19, 04:05 PM** - Taiwanese aerospace firm partners with Maxar on GPS-alternative drone navigation (spacenews)
 - **Sep 19, 04:22 PM** - SSC to finish ‘system delta’ reorg next month (breaking_defense)
