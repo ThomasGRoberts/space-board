@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 18 | 20 | 47 |
 | breaking_defense | 1 | 3 | 16 | 36 |
-| nyt | 2 | 2 | 16 | 35 |
+| nyt | 2 | 2 | 17 | 36 |
 | supercluster | 1 | 1 | 38 | 38 |
 
 # Shown Order
@@ -6747,3 +6747,4 @@
 - **Sep 19, 11:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 19, 11:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 19, 11:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 19, 11:49 PM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
