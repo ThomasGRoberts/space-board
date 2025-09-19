@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 18 | 20 | 47 |
 | breaking_defense | 1 | 3 | 16 | 36 |
-| nyt | 2 | 2 | 17 | 35 |
-| supercluster | 1 | 1 | 33 | 33 |
+| nyt | 2 | 2 | 16 | 35 |
+| supercluster | 1 | 1 | 34 | 34 |
 
 # Shown Order
 
@@ -6742,3 +6742,4 @@
 - **Sep 19, 11:19 PM** - Hubble Network raises $70 million to accelerate 60-satellite Bluetooth constellation (spacenews)
 - **Sep 19, 11:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 19, 11:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 19, 11:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
