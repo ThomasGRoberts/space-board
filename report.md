@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 19 | 20 | 48 |
+| spacenews | 7 | 19 | 19 | 48 |
 | breaking_defense | 1 | 4 | 16 | 36 |
 | nyt | 1 | 1 | 17 | 35 |
-| supercluster | 1 | 1 | 4 | 4 |
+| supercluster | 1 | 1 | 5 | 5 |
 
 # Shown Order
 
@@ -6700,3 +6700,4 @@
 - **Sep 19, 06:42 PM** - Earth Has a New ‘Quasi-Moon,’ and It May Be Very Tiny (nyt)
 - **Sep 19, 06:55 PM** - House Intel Committee props up FY26 funding for NRO commercial imagery buys (breaking_defense)
 - **Sep 19, 07:12 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 19, 07:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
