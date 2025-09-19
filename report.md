@@ -5,7 +5,7 @@
 | spacenews | 7 | 18 | 20 | 47 |
 | breaking_defense | 1 | 3 | 16 | 36 |
 | nyt | 2 | 2 | 17 | 35 |
-| supercluster | 1 | 1 | 10 | 10 |
+| supercluster | 1 | 1 | 11 | 11 |
 
 # Shown Order
 
@@ -6709,3 +6709,4 @@
 - **Sep 19, 07:28 PM** - Successful flight on Falcon 9 for EOS-8’’, MECANO ID’s Satellite Ejection System (spacenews)
 - **Sep 19, 07:43 PM** - A Tiny Quasi-Moon is Following Earth Around the Sun (nyt)
 - **Sep 19, 07:58 PM** - The Break Out: A Golden Dome prize pool and Project Octopus [VIDEO] (breaking_defense)
+- **Sep 19, 08:14 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
