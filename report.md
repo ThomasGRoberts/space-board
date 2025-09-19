@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 19 | 20 | 48 |
 | breaking_defense | 1 | 3 | 16 | 36 |
-| nyt | 2 | 2 | 17 | 35 |
-| supercluster | 1 | 1 | 26 | 26 |
+| nyt | 2 | 2 | 16 | 35 |
+| supercluster | 1 | 1 | 27 | 27 |
 
 # Shown Order
 
@@ -6732,3 +6732,4 @@
 - **Sep 19, 10:17 PM** - Building Saudi Arabia’s space champion (spacenews)
 - **Sep 19, 10:32 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 19, 10:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 19, 10:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
