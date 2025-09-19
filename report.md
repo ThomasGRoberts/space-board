@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 16 | 20 | 47 |
-| breaking_defense | 1 | 3 | 17 | 37 |
+| breaking_defense | 2 | 4 | 18 | 38 |
 | nyt | 0 | 0 | 17 | 36 |
 | supercluster | 1 | 1 | 7 | 7 |
 
@@ -6696,3 +6696,4 @@
 - **Sep 19, 03:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 19, 04:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 19, 04:05 PM** - Taiwanese aerospace firm partners with Maxar on GPS-alternative drone navigation (spacenews)
+- **Sep 19, 04:22 PM** - SSC to finish ‘system delta’ reorg next month (breaking_defense)
