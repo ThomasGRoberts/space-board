@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 19 | 19 | 47 |
+| spacenews | 8 | 19 | 20 | 48 |
 | breaking_defense | 2 | 4 | 16 | 37 |
 | nyt | 0 | 0 | 16 | 34 |
 | supercluster | 1 | 1 | 3 | 3 |
@@ -6694,3 +6694,4 @@
 - **Sep 19, 05:36 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 19, 05:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 19, 05:39 PM** - Novaspace Recognizes 2025 Excellence Award Winners in Satellite Connectivity, Earth Observation, and Startup Challenge at World Space Business Week (spacenews)
+- **Sep 19, 05:56 PM** - Building Saudi Arabia’s space champion (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-19T00:02:00.757293+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d7bfbb9f42736e99282cf5e711b94efd",
+    "trigger_count": 0,
+    "current_item_id": "5bb94bc417a8e2569563dfce1bb66adf",
     "data": [
         {
             "id": "204a842a7e68b009bf582c4f9971aa4d",
@@ -12240,9 +12240,12 @@
             "source": "spacenews",
             "text": "Building Saudi Arabia’s space champion",
             "source_link": "https://spacenews.com/building-saudi-arabias-space-champion/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-09-19T17:39:58.245972Z"
+            "fetched_datetime": "2025-09-19T17:39:58.245972Z",
+            "shown_at": [
+                "2025-09-19T17:56:08.773130Z"
+            ]
         },
         {
             "id": "9f4426659159dc80553afa54bb129335",
