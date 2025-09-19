@@ -5,7 +5,7 @@
 | spacenews | 7 | 19 | 20 | 48 |
 | breaking_defense | 1 | 3 | 16 | 36 |
 | nyt | 2 | 2 | 17 | 35 |
-| supercluster | 1 | 1 | 25 | 25 |
+| supercluster | 1 | 1 | 26 | 26 |
 
 # Shown Order
 
@@ -6731,3 +6731,4 @@
 - **Sep 19, 10:02 PM** - Anduril, Impulse to demo maneuvering satellite, with sights set on Space Force missions (breaking_defense)
 - **Sep 19, 10:17 PM** - Building Saudi Arabia’s space champion (spacenews)
 - **Sep 19, 10:32 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 19, 10:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
