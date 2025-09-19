@@ -1,9 +1,239 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-09-18T00:02:22.832843+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2025-09-19T00:02:00.757293+00:00",
+    "trigger_count": 4,
     "current_item_id": "561252eef21abd8f5be95edb6b845a10",
     "data": [
+        {
+            "id": "204a842a7e68b009bf582c4f9971aa4d",
+            "source": "spacenews",
+            "text": "Launch startup iSpace secures fresh funding as hot fire tests heat up China’s reusable rocket race",
+            "source_link": "https://spacenews.com/launch-startup-ispace-secures-fresh-funding-as-hot-fire-tests-heat-up-chinas-reusable-rocket-race/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-18T22:52:00.911236Z",
+            "shown_at": [
+                "2025-09-18T22:52:01.837950Z"
+            ]
+        },
+        {
+            "id": "ecb9bb5f790648031f0462ee8852fbeb",
+            "source": "spacenews",
+            "text": "U.S., UK Space Commands execute first joint satellite maneuvers",
+            "source_link": "https://spacenews.com/u-s-uk-space-commands-execute-first-joint-satellite-maneuvers/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-18T20:17:47.227106Z",
+            "shown_at": [
+                "2025-09-18T20:17:47.950819Z"
+            ]
+        },
+        {
+            "id": "df3a6f3d425137b042290f1a5e5e68cb",
+            "source": "spacenews",
+            "text": "Hubble Network raises $70 million to accelerate 60-satellite Bluetooth constellation",
+            "source_link": "https://spacenews.com/hubble-network-raises-70-million-to-accelerate-60-satellite-bluetooth-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-18T19:13:43.059129Z",
+            "shown_at": [
+                "2025-09-18T19:13:43.539947Z"
+            ]
+        },
+        {
+            "id": "48c8216de7821ca9179eed0a3b403a10",
+            "source": "breaking_defense",
+            "text": "Beyond ‘potpourri’ of sensors: Saltzman pushes holistic approach to space domain awareness",
+            "source_link": "https://breakingdefense.com/2025/09/beyond-potpourri-of-sensors-saltzman-pushes-holistic-approach-to-space-domain-awareness/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-18T18:39:45.251317Z",
+            "shown_at": [
+                "2025-09-18T18:39:46.024481Z",
+                "2025-09-18T19:59:48.247805Z",
+                "2025-09-18T22:05:52.363706Z"
+            ]
+        },
+        {
+            "id": "4beba9b243fe616fcb8e7be8d963bbc1",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Starlink Satellites from California",
+            "source_link": "https://www.supercluster.com/launches/starlink-17-12",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-09-19T15:41:00.000Z",
+            "time_remaining": "0d 16h 20m",
+            "fetched_datetime": "2025-09-18T16:27:14.546939Z",
+            "shown_at": [
+                "2025-09-18T16:27:15.195488Z",
+                "2025-09-18T16:29:27.741658Z",
+                "2025-09-18T16:32:09.708277Z",
+                "2025-09-18T17:22:13.036090Z",
+                "2025-09-18T17:23:53.435043Z",
+                "2025-09-18T17:26:00.904792Z",
+                "2025-09-18T17:27:47.728622Z",
+                "2025-09-18T17:29:58.629700Z",
+                "2025-09-18T17:32:21.033352Z",
+                "2025-09-18T17:35:49.824232Z",
+                "2025-09-18T18:23:50.130457Z",
+                "2025-09-18T18:25:55.240585Z",
+                "2025-09-18T18:27:53.375036Z",
+                "2025-09-18T18:29:52.174513Z",
+                "2025-09-18T18:32:26.718414Z",
+                "2025-09-18T18:35:47.426929Z",
+                "2025-09-18T18:37:48.792629Z",
+                "2025-09-18T19:44:00.893072Z",
+                "2025-09-18T19:45:53.501514Z",
+                "2025-09-18T19:47:29.801034Z",
+                "2025-09-18T19:49:47.351554Z",
+                "2025-09-18T19:52:11.989154Z",
+                "2025-09-18T19:55:45.394806Z",
+                "2025-09-18T19:57:47.633747Z",
+                "2025-09-18T20:47:48.144524Z",
+                "2025-09-18T20:49:39.648481Z",
+                "2025-09-18T20:52:03.777611Z",
+                "2025-09-18T20:53:41.714731Z",
+                "2025-09-18T20:55:48.874896Z",
+                "2025-09-18T20:57:49.840074Z",
+                "2025-09-18T20:59:33.641567Z",
+                "2025-09-18T21:50:03.846445Z",
+                "2025-09-18T21:51:57.869323Z",
+                "2025-09-18T21:53:49.176850Z",
+                "2025-09-18T21:56:04.497055Z",
+                "2025-09-18T21:58:00.131719Z",
+                "2025-09-18T21:59:09.832612Z",
+                "2025-09-18T22:02:24.736444Z",
+                "2025-09-18T23:07:50.066477Z",
+                "2025-09-18T23:09:56.912813Z",
+                "2025-09-18T23:12:10.942524Z",
+                "2025-09-18T23:13:51.087203Z",
+                "2025-09-18T23:15:27.064433Z",
+                "2025-09-18T23:17:23.030830Z",
+                "2025-09-18T23:20:07.329565Z"
+            ]
+        },
+        {
+            "id": "d48fc75c6f9493f6bd54314d73919f40",
+            "source": "spacenews",
+            "text": "Educating customers may be half the battle for nascent hyperspectral sector",
+            "source_link": "https://spacenews.com/educating-customers-may-be-half-the-battle-for-nascent-hyperspectral-sector/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-18T15:49:56.879679Z",
+            "shown_at": [
+                "2025-09-18T15:49:57.557801Z"
+            ]
+        },
+        {
+            "id": "2932378e5b9ab18ebbb2ff0eb757d86e",
+            "source": "breaking_defense",
+            "text": "For Golden Dome to work, it needs to be put to the test",
+            "source_link": "https://breakingdefense.com/2025/09/for-golden-dome-to-work-it-needs-to-be-put-to-the-test/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-18T15:33:59.726628Z",
+            "shown_at": [
+                "2025-09-18T15:34:00.690646Z"
+            ]
+        },
+        {
+            "id": "37c8b3805a4e01808513ca2c2514a289",
+            "source": "spacenews",
+            "text": "Blue Origin retires New Shepard capsule after payload flight",
+            "source_link": "https://spacenews.com/blue-origin-retires-new-shepard-capsule-after-payload-flight/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-18T15:19:44.331293Z",
+            "shown_at": [
+                "2025-09-18T15:19:44.863418Z",
+                "2025-09-18T18:57:48.962473Z"
+            ]
+        },
+        {
+            "id": "e0118b3db003b835c20ecf6ba133cf19",
+            "source": "spacenews",
+            "text": "New military satcom services program to focus on ‘maneuverable’ small GEO satellites",
+            "source_link": "https://spacenews.com/new-military-satcom-services-program-to-focus-on-maneuverable-small-geo-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-18T15:02:25.694899Z",
+            "shown_at": [
+                "2025-09-18T15:02:26.372109Z"
+            ]
+        },
+        {
+            "id": "96d452b27f97f8442ff5807a90c63a20",
+            "source": "spacenews",
+            "text": "Lone Star space: How Texas can revitalize its galactic industry",
+            "source_link": "https://spacenews.com/lone-star-space-how-texas-can-revitalize-its-galactic-industry/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-18T14:13:41.611459Z",
+            "shown_at": [
+                "2025-09-18T14:29:38.702012Z"
+            ]
+        },
+        {
+            "id": "551607b9b1ea261b1410d1f2a40bb6a3",
+            "source": "spacenews",
+            "text": "Stratospheric pseudo-satellites nearing commercial role in hybrid space networks",
+            "source_link": "https://spacenews.com/stratospheric-pseudo-satellites-nearing-commercial-role-in-hybrid-space-networks/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-18T14:13:41.611395Z",
+            "shown_at": [
+                "2025-09-18T14:13:42.226754Z"
+            ]
+        },
+        {
+            "id": "a3bd49644f527c36c6a36858ce37cd25",
+            "source": "spacenews",
+            "text": "Cygnus arrives at ISS after thruster glitch",
+            "source_link": "https://spacenews.com/cygnus-arrives-at-iss-after-thruster-glitch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-18T12:20:01.085190Z",
+            "shown_at": [
+                "2025-09-18T12:20:01.796538Z",
+                "2025-09-18T21:17:58.480008Z"
+            ]
+        },
+        {
+            "id": "2328646f00db171a39e4722310c52564",
+            "source": "spacenews",
+            "text": "Astra plans mid-2026 first launch of Rocket 4",
+            "source_link": "https://spacenews.com/astra-plans-mid-2026-first-launch-of-rocket-4/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-18T10:46:01.127988Z",
+            "shown_at": [
+                "2025-09-18T11:00:04.564198Z"
+            ]
+        },
+        {
+            "id": "ed492672dde41c57fb74642568abd631",
+            "source": "spacenews",
+            "text": "Defense and security agencies propel demand for Earth-observation data",
+            "source_link": "https://spacenews.com/defense-and-security-agencies-propel-demand-for-earth-observation-data/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-18T10:46:01.127931Z",
+            "shown_at": [
+                "2025-09-18T10:46:02.113607Z"
+            ]
+        },
+        {
+            "id": "752a18a360c2491304dbdd3e7c3d46c5",
+            "source": "spacenews",
+            "text": "Arianespace examines options to increase Ariane 6 launch rate",
+            "source_link": "https://spacenews.com/arianespace-examines-options-to-increase-ariane-6-launch-rate/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-18T04:57:53.735843Z",
+            "shown_at": [
+                "2025-09-18T04:57:54.981577Z"
+            ]
+        },
         {
             "id": "26b554f2644ed219a2f466829006a961",
             "source": "spacenews",
@@ -11968,574 +12198,6 @@
                 "2025-06-07T12:09:47.510736Z",
                 "2025-06-08T08:15:32.327407Z",
                 "2025-06-09T16:07:27.988318Z"
-            ]
-        },
-        {
-            "id": "2700b9a7c11b27316aa0de752ad001eb",
-            "source": "spacenews",
-            "text": "The new attack surface: from space to smartphone",
-            "source_link": "https://spacenews.com/the-new-attack-surface-from-space-to-smartphone/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-06T13:09:34.573887Z",
-            "shown_at": [
-                "2025-06-06T13:09:35.252411Z",
-                "2025-06-08T02:31:56.691525Z",
-                "2025-06-12T01:57:36.111044Z"
-            ]
-        },
-        {
-            "id": "efd31b1b42e3f9d50f0d6aa6906adbfa",
-            "source": "spacenews",
-            "text": "Musk-Trump dispute includes threats to SpaceX contracts",
-            "source_link": "https://spacenews.com/musk-trump-dispute-includes-threats-to-spacex-contracts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-06T11:43:36.339990Z",
-            "shown_at": [
-                "2025-06-06T11:43:37.269889Z",
-                "2025-06-07T21:43:31.698638Z",
-                "2025-06-10T10:59:43.245484Z",
-                "2025-06-13T10:23:47.796548Z"
-            ]
-        },
-        {
-            "id": "7548796e1e6f0fc3aa07d5ae492a4645",
-            "source": "spacenews",
-            "text": "Geospatial intelligence companies highlight Earth observation images",
-            "source_link": "https://spacenews.com/geospatial-intelligence-companies-highlight-earth-observation-images/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-06T11:15:29.368181Z",
-            "shown_at": [
-                "2025-06-06T11:15:30.127776Z",
-                "2025-06-08T15:47:52.069525Z"
-            ]
-        },
-        {
-            "id": "b327cb60da7c04c6bf496ec008652b63",
-            "source": "spacenews",
-            "text": "China launches fourth group of Guowang megaconstellation satellites",
-            "source_link": "https://spacenews.com/china-launches-fourth-group-of-guowang-megaconstellation-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-06T08:37:59.001793Z",
-            "shown_at": [
-                "2025-06-06T08:38:00.002907Z",
-                "2025-06-06T17:55:14.077784Z",
-                "2025-06-09T20:23:50.406673Z",
-                "2025-06-09T21:19:50.539991Z",
-                "2025-06-10T04:13:47.145024Z",
-                "2025-06-10T06:05:32.377512Z",
-                "2025-06-10T12:40:02.919903Z",
-                "2025-06-10T23:41:42.396604Z",
-                "2025-06-12T21:11:33.957100Z"
-            ]
-        },
-        {
-            "id": "d346ab8c21ff5341e1f362f9dfbe5a8c",
-            "source": "spacenews",
-            "text": "Second ispace lunar lander presumed lost",
-            "source_link": "https://spacenews.com/second-ispace-lunar-lander-presumed-lost/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-06T02:45:27.876435Z",
-            "shown_at": [
-                "2025-06-06T02:45:28.420557Z",
-                "2025-06-06T16:59:31.667135Z",
-                "2025-06-06T19:51:33.666151Z",
-                "2025-06-07T13:05:52.335248Z",
-                "2025-06-07T15:57:33.477078Z",
-                "2025-06-08T12:02:04.904973Z"
-            ]
-        },
-        {
-            "id": "a9b970e588a75375b964f149b3d8a17e",
-            "source": "nyt",
-            "text": "Ispace of Japan’s Moon Lander Resilience Has Crashed",
-            "source_link": "https://www.nytimes.com/2025/06/05/science/moon-landing-ispace-japan.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-06T00:46:05.260469Z",
-            "shown_at": [
-                "2025-06-06T00:46:06.400739Z",
-                "2025-06-06T06:52:07.238310Z",
-                "2025-06-06T09:49:22.797284Z",
-                "2025-06-06T11:57:49.070158Z",
-                "2025-06-07T11:55:31.578923Z",
-                "2025-06-07T12:51:43.852959Z",
-                "2025-06-07T14:43:49.321088Z",
-                "2025-06-07T19:33:30.516009Z",
-                "2025-06-07T23:27:41.594156Z",
-                "2025-06-08T01:19:42.351122Z",
-                "2025-06-08T03:13:43.058324Z",
-                "2025-06-08T07:03:38.480949Z",
-                "2025-06-08T18:27:38.676955Z",
-                "2025-06-08T19:25:24.926543Z",
-                "2025-06-09T00:09:29.417100Z",
-                "2025-06-09T01:05:51.825252Z",
-                "2025-06-09T02:05:39.564257Z",
-                "2025-06-09T10:37:27.398082Z",
-                "2025-06-09T11:33:43.563826Z",
-                "2025-06-09T12:32:02.251945Z",
-                "2025-06-09T18:57:39.647556Z",
-                "2025-06-09T23:55:36.402062Z",
-                "2025-06-10T14:52:55.950716Z",
-                "2025-06-10T19:17:07.982805Z",
-                "2025-06-11T04:41:50.170041Z",
-                "2025-06-11T15:03:34.133400Z",
-                "2025-06-12T04:07:50.757794Z",
-                "2025-06-12T18:47:38.294685Z"
-            ]
-        },
-        {
-            "id": "5a961ee4c697a7fdc6e9fd2ef418c202",
-            "source": "nyt",
-            "text": "How NASA Would Struggle Without SpaceX if Trump Cancels Musk’s Contracts",
-            "source_link": "https://www.nytimes.com/2025/06/05/science/spacex-nasa-trump-elon-musk.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-06T00:17:28.195165Z",
-            "shown_at": [
-                "2025-06-06T00:17:28.871815Z",
-                "2025-06-06T13:51:34.199683Z",
-                "2025-06-08T09:55:27.037346Z",
-                "2025-06-08T11:47:43.592396Z",
-                "2025-06-09T03:59:28.927568Z",
-                "2025-06-09T14:39:36.369478Z",
-                "2025-06-10T09:33:35.740579Z",
-                "2025-06-10T21:29:10.969755Z",
-                "2025-06-11T01:49:45.295124Z",
-                "2025-06-11T03:45:58.401048Z",
-                "2025-06-12T00:17:21.478527Z",
-                "2025-06-12T02:13:36.816647Z"
-            ]
-        },
-        {
-            "id": "c63dec0de42b1e2c42381c081faa9b69",
-            "source": "nyt",
-            "text": "Marc Garneau, First Canadian in Space, Dies at 76",
-            "source_link": "https://www.nytimes.com/2025/06/05/world/canada/mark-garneau-canadian-astronaut-dead.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-06T00:03:44.968178Z",
-            "shown_at": [
-                "2025-06-06T00:03:45.655299Z",
-                "2025-06-06T03:57:42.977364Z",
-                "2025-06-06T15:47:29.771673Z",
-                "2025-06-07T00:05:40.297867Z",
-                "2025-06-07T18:37:31.298462Z",
-                "2025-06-08T10:51:37.200335Z",
-                "2025-06-08T12:45:31.431574Z",
-                "2025-06-09T03:02:10.420948Z",
-                "2025-06-10T18:21:47.666072Z",
-                "2025-06-12T03:11:45.143609Z",
-                "2025-06-12T05:03:46.626956Z",
-                "2025-06-12T11:01:57.444810Z",
-                "2025-06-12T11:57:32.471466Z"
-            ]
-        },
-        {
-            "id": "b67c29c0906bbf42dec7cd7564c9d6df",
-            "source": "spacenews",
-            "text": "HASC warns White House over delayed defense budget, potential cuts to Space Force funding",
-            "source_link": "https://spacenews.com/hasc-warns-white-house-over-delayed-defense-budget-potential-cuts-to-space-force-funding/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-05T22:39:28.208307Z",
-            "shown_at": [
-                "2025-06-05T22:39:28.836909Z",
-                "2025-06-06T01:19:53.950411Z",
-                "2025-06-06T02:17:39.294416Z",
-                "2025-06-06T06:35:40.619787Z",
-                "2025-06-12T02:57:52.143140Z"
-            ]
-        },
-        {
-            "id": "8afe305d9daf5633f602b010b221b040",
-            "source": "breaking_defense",
-            "text": "Amid Trump, Musk blowup, canceling SpaceX contracts could cripple DoD launch program",
-            "source_link": "https://breakingdefense.com/2025/06/amid-trump-musk-blowup-canceling-spacex-contracts-could-cripple-dod-launch-program/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-05T22:11:43.227328Z",
-            "shown_at": [
-                "2025-06-05T22:11:43.866531Z",
-                "2025-06-06T00:31:47.129114Z",
-                "2025-06-06T06:21:40.638509Z",
-                "2025-06-06T11:29:34.214211Z",
-                "2025-06-06T14:33:17.768982Z",
-                "2025-06-07T03:25:34.194800Z",
-                "2025-06-07T11:27:14.018257Z",
-                "2025-06-07T13:19:34.091503Z",
-                "2025-06-07T15:12:25.000154Z",
-                "2025-06-07T20:02:01.517542Z",
-                "2025-06-07T20:57:43.047274Z",
-                "2025-06-08T06:35:43.142323Z",
-                "2025-06-08T09:27:37.891950Z",
-                "2025-06-08T11:19:40.445297Z",
-                "2025-06-08T12:17:44.810211Z",
-                "2025-06-08T19:55:33.555401Z",
-                "2025-06-08T22:43:35.208139Z",
-                "2025-06-09T02:33:50.099351Z",
-                "2025-06-09T06:19:08.863058Z",
-                "2025-06-09T10:09:15.138274Z",
-                "2025-06-09T11:05:44.271588Z",
-                "2025-06-09T12:59:30.478661Z",
-                "2025-06-09T16:49:40.878604Z",
-                "2025-06-09T19:41:37.536848Z",
-                "2025-06-09T20:37:32.091949Z",
-                "2025-06-10T03:59:41.557820Z",
-                "2025-06-10T06:52:00.950444Z",
-                "2025-06-10T10:45:54.616489Z",
-                "2025-06-10T16:23:40.241897Z",
-                "2025-06-10T17:51:36.765513Z",
-                "2025-06-10T19:59:45.965041Z",
-                "2025-06-11T09:37:13.767115Z",
-                "2025-06-11T17:02:11.390001Z",
-                "2025-06-11T22:51:41.435750Z",
-                "2025-06-12T20:01:54.272723Z"
-            ]
-        },
-        {
-            "id": "ce5695141d773482b3d5f42523455a0f",
-            "source": "spacenews",
-            "text": "Senators unveil bipartisan bill to boost space cooperation with Indo-Pacific allies",
-            "source_link": "https://spacenews.com/senators-unveil-bipartisan-bill-to-boost-space-cooperation-with-indo-pacific-allies/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-05T21:57:29.700871Z",
-            "shown_at": [
-                "2025-06-05T21:57:30.292241Z",
-                "2025-06-07T08:20:12.268915Z",
-                "2025-06-09T07:05:45.112448Z",
-                "2025-06-09T19:25:40.004996Z",
-                "2025-06-10T18:07:11.783346Z",
-                "2025-06-11T17:53:35.137027Z"
-            ]
-        },
-        {
-            "id": "1205bc42e43f3bfd70d9bd3218d40ac0",
-            "source": "nyt",
-            "text": "Ispace of Japan Has Lost Contact With Resilience Moon Lander",
-            "source_link": "https://www.nytimes.com/2025/06/05/science/moon-landing-ispace-japan.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-05T21:45:05.460062Z",
-            "shown_at": [
-                "2025-06-05T21:45:06.982016Z",
-                "2025-06-05T23:49:06.492465Z",
-                "2025-06-06T14:47:38.455485Z",
-                "2025-06-06T18:41:42.623264Z",
-                "2025-06-06T19:37:30.693829Z",
-                "2025-06-06T20:33:46.588958Z",
-                "2025-06-07T02:01:55.503962Z",
-                "2025-06-08T04:13:50.359381Z",
-                "2025-06-08T07:59:32.352419Z",
-                "2025-06-09T13:41:54.835694Z",
-                "2025-06-10T05:37:09.748845Z",
-                "2025-06-10T06:37:27.355850Z",
-                "2025-06-10T23:55:42.553418Z",
-                "2025-06-11T19:57:42.565908Z",
-                "2025-06-12T14:55:50.798430Z"
-            ]
-        },
-        {
-            "id": "3e505b275437a0b927ca5edccff9224d",
-            "source": "nyt",
-            "text": "Status of Ispace of Japan’s Resilience Moon Lander Is Unknown",
-            "source_link": "https://www.nytimes.com/2025/06/05/science/moon-landing-ispace-japan.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-05T19:59:58.837239Z",
-            "shown_at": [
-                "2025-06-05T19:59:59.466586Z",
-                "2025-06-07T07:09:40.706178Z",
-                "2025-06-07T09:05:49.182287Z",
-                "2025-06-07T22:29:50.078825Z",
-                "2025-06-08T00:23:39.576579Z",
-                "2025-06-08T14:37:46.407507Z",
-                "2025-06-08T20:23:45.521117Z",
-                "2025-06-09T06:51:54.148011Z",
-                "2025-06-09T09:41:18.128207Z",
-                "2025-06-09T16:35:44.866606Z",
-                "2025-06-09T18:02:01.476235Z",
-                "2025-06-09T19:55:30.294312Z",
-                "2025-06-10T02:47:47.584802Z",
-                "2025-06-10T17:19:16.957688Z",
-                "2025-06-11T02:47:39.649943Z",
-                "2025-06-12T17:47:36.906082Z",
-                "2025-06-12T19:47:33.929441Z"
-            ]
-        },
-        {
-            "id": "a77de1ee431df090e9c83a6bff481cb3",
-            "source": "breaking_defense",
-            "text": "DoD S-band needed for Golden Dome, border defense threatened by spectrum auction plans: CSIS",
-            "source_link": "https://breakingdefense.com/2025/06/dod-s-band-needed-for-golden-dome-border-defense-threatened-by-spectrum-auction-plans-csis/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-05T19:45:28.993182Z",
-            "shown_at": [
-                "2025-06-05T19:45:29.727182Z",
-                "2025-06-05T23:07:30.495027Z",
-                "2025-06-06T02:31:56.400981Z",
-                "2025-06-06T07:23:39.621979Z",
-                "2025-06-06T19:23:33.715558Z",
-                "2025-06-06T22:27:35.452404Z",
-                "2025-06-07T01:33:28.961196Z",
-                "2025-06-07T09:33:34.150822Z",
-                "2025-06-07T12:23:42.487294Z",
-                "2025-06-07T21:57:26.155472Z",
-                "2025-06-07T23:55:32.037611Z",
-                "2025-06-08T00:51:56.443735Z",
-                "2025-06-08T23:39:16.597772Z",
-                "2025-06-09T03:31:48.369808Z",
-                "2025-06-09T08:17:33.638865Z",
-                "2025-06-09T15:51:40.529423Z",
-                "2025-06-09T18:43:34.639567Z",
-                "2025-06-10T03:02:10.575019Z",
-                "2025-06-10T08:49:48.978082Z",
-                "2025-06-10T14:23:47.937179Z",
-                "2025-06-10T23:13:35.845106Z",
-                "2025-06-11T02:19:42.164324Z",
-                "2025-06-11T19:43:31.126878Z",
-                "2025-06-11T23:49:26.783856Z",
-                "2025-06-12T00:48:01.934189Z",
-                "2025-06-12T05:31:45.651879Z",
-                "2025-06-12T13:39:39.182721Z",
-                "2025-06-12T15:37:24.331141Z",
-                "2025-06-12T17:33:38.501167Z"
-            ]
-        },
-        {
-            "id": "752a18a360c2491304dbdd3e7c3d46c5",
-            "source": "spacenews",
-            "text": "Arianespace examines options to increase Ariane 6 launch rate",
-            "source_link": "https://spacenews.com/arianespace-examines-options-to-increase-ariane-6-launch-rate/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-18T04:57:53.735843Z",
-            "shown_at": [
-                "2025-09-18T04:57:54.981577Z"
-            ]
-        },
-        {
-            "id": "ed492672dde41c57fb74642568abd631",
-            "source": "spacenews",
-            "text": "Defense and security agencies propel demand for Earth-observation data",
-            "source_link": "https://spacenews.com/defense-and-security-agencies-propel-demand-for-earth-observation-data/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-18T10:46:01.127931Z",
-            "shown_at": [
-                "2025-09-18T10:46:02.113607Z"
-            ]
-        },
-        {
-            "id": "2328646f00db171a39e4722310c52564",
-            "source": "spacenews",
-            "text": "Astra plans mid-2026 first launch of Rocket 4",
-            "source_link": "https://spacenews.com/astra-plans-mid-2026-first-launch-of-rocket-4/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-18T10:46:01.127988Z",
-            "shown_at": [
-                "2025-09-18T11:00:04.564198Z"
-            ]
-        },
-        {
-            "id": "a3bd49644f527c36c6a36858ce37cd25",
-            "source": "spacenews",
-            "text": "Cygnus arrives at ISS after thruster glitch",
-            "source_link": "https://spacenews.com/cygnus-arrives-at-iss-after-thruster-glitch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-18T12:20:01.085190Z",
-            "shown_at": [
-                "2025-09-18T12:20:01.796538Z",
-                "2025-09-18T21:17:58.480008Z"
-            ]
-        },
-        {
-            "id": "551607b9b1ea261b1410d1f2a40bb6a3",
-            "source": "spacenews",
-            "text": "Stratospheric pseudo-satellites nearing commercial role in hybrid space networks",
-            "source_link": "https://spacenews.com/stratospheric-pseudo-satellites-nearing-commercial-role-in-hybrid-space-networks/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-18T14:13:41.611395Z",
-            "shown_at": [
-                "2025-09-18T14:13:42.226754Z"
-            ]
-        },
-        {
-            "id": "96d452b27f97f8442ff5807a90c63a20",
-            "source": "spacenews",
-            "text": "Lone Star space: How Texas can revitalize its galactic industry",
-            "source_link": "https://spacenews.com/lone-star-space-how-texas-can-revitalize-its-galactic-industry/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-18T14:13:41.611459Z",
-            "shown_at": [
-                "2025-09-18T14:29:38.702012Z"
-            ]
-        },
-        {
-            "id": "e0118b3db003b835c20ecf6ba133cf19",
-            "source": "spacenews",
-            "text": "New military satcom services program to focus on ‘maneuverable’ small GEO satellites",
-            "source_link": "https://spacenews.com/new-military-satcom-services-program-to-focus-on-maneuverable-small-geo-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-18T15:02:25.694899Z",
-            "shown_at": [
-                "2025-09-18T15:02:26.372109Z"
-            ]
-        },
-        {
-            "id": "37c8b3805a4e01808513ca2c2514a289",
-            "source": "spacenews",
-            "text": "Blue Origin retires New Shepard capsule after payload flight",
-            "source_link": "https://spacenews.com/blue-origin-retires-new-shepard-capsule-after-payload-flight/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-18T15:19:44.331293Z",
-            "shown_at": [
-                "2025-09-18T15:19:44.863418Z",
-                "2025-09-18T18:57:48.962473Z"
-            ]
-        },
-        {
-            "id": "2932378e5b9ab18ebbb2ff0eb757d86e",
-            "source": "breaking_defense",
-            "text": "For Golden Dome to work, it needs to be put to the test",
-            "source_link": "https://breakingdefense.com/2025/09/for-golden-dome-to-work-it-needs-to-be-put-to-the-test/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-18T15:33:59.726628Z",
-            "shown_at": [
-                "2025-09-18T15:34:00.690646Z"
-            ]
-        },
-        {
-            "id": "d48fc75c6f9493f6bd54314d73919f40",
-            "source": "spacenews",
-            "text": "Educating customers may be half the battle for nascent hyperspectral sector",
-            "source_link": "https://spacenews.com/educating-customers-may-be-half-the-battle-for-nascent-hyperspectral-sector/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-18T15:49:56.879679Z",
-            "shown_at": [
-                "2025-09-18T15:49:57.557801Z"
-            ]
-        },
-        {
-            "id": "4beba9b243fe616fcb8e7be8d963bbc1",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from California",
-            "source_link": "https://www.supercluster.com/launches/starlink-17-12",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-09-19T15:41:00.000Z",
-            "time_remaining": "0d 16h 20m",
-            "fetched_datetime": "2025-09-18T16:27:14.546939Z",
-            "shown_at": [
-                "2025-09-18T16:27:15.195488Z",
-                "2025-09-18T16:29:27.741658Z",
-                "2025-09-18T16:32:09.708277Z",
-                "2025-09-18T17:22:13.036090Z",
-                "2025-09-18T17:23:53.435043Z",
-                "2025-09-18T17:26:00.904792Z",
-                "2025-09-18T17:27:47.728622Z",
-                "2025-09-18T17:29:58.629700Z",
-                "2025-09-18T17:32:21.033352Z",
-                "2025-09-18T17:35:49.824232Z",
-                "2025-09-18T18:23:50.130457Z",
-                "2025-09-18T18:25:55.240585Z",
-                "2025-09-18T18:27:53.375036Z",
-                "2025-09-18T18:29:52.174513Z",
-                "2025-09-18T18:32:26.718414Z",
-                "2025-09-18T18:35:47.426929Z",
-                "2025-09-18T18:37:48.792629Z",
-                "2025-09-18T19:44:00.893072Z",
-                "2025-09-18T19:45:53.501514Z",
-                "2025-09-18T19:47:29.801034Z",
-                "2025-09-18T19:49:47.351554Z",
-                "2025-09-18T19:52:11.989154Z",
-                "2025-09-18T19:55:45.394806Z",
-                "2025-09-18T19:57:47.633747Z",
-                "2025-09-18T20:47:48.144524Z",
-                "2025-09-18T20:49:39.648481Z",
-                "2025-09-18T20:52:03.777611Z",
-                "2025-09-18T20:53:41.714731Z",
-                "2025-09-18T20:55:48.874896Z",
-                "2025-09-18T20:57:49.840074Z",
-                "2025-09-18T20:59:33.641567Z",
-                "2025-09-18T21:50:03.846445Z",
-                "2025-09-18T21:51:57.869323Z",
-                "2025-09-18T21:53:49.176850Z",
-                "2025-09-18T21:56:04.497055Z",
-                "2025-09-18T21:58:00.131719Z",
-                "2025-09-18T21:59:09.832612Z",
-                "2025-09-18T22:02:24.736444Z",
-                "2025-09-18T23:07:50.066477Z",
-                "2025-09-18T23:09:56.912813Z",
-                "2025-09-18T23:12:10.942524Z",
-                "2025-09-18T23:13:51.087203Z",
-                "2025-09-18T23:15:27.064433Z",
-                "2025-09-18T23:17:23.030830Z",
-                "2025-09-18T23:20:07.329565Z"
-            ]
-        },
-        {
-            "id": "48c8216de7821ca9179eed0a3b403a10",
-            "source": "breaking_defense",
-            "text": "Beyond ‘potpourri’ of sensors: Saltzman pushes holistic approach to space domain awareness",
-            "source_link": "https://breakingdefense.com/2025/09/beyond-potpourri-of-sensors-saltzman-pushes-holistic-approach-to-space-domain-awareness/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-18T18:39:45.251317Z",
-            "shown_at": [
-                "2025-09-18T18:39:46.024481Z",
-                "2025-09-18T19:59:48.247805Z",
-                "2025-09-18T22:05:52.363706Z"
-            ]
-        },
-        {
-            "id": "df3a6f3d425137b042290f1a5e5e68cb",
-            "source": "spacenews",
-            "text": "Hubble Network raises $70 million to accelerate 60-satellite Bluetooth constellation",
-            "source_link": "https://spacenews.com/hubble-network-raises-70-million-to-accelerate-60-satellite-bluetooth-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-18T19:13:43.059129Z",
-            "shown_at": [
-                "2025-09-18T19:13:43.539947Z"
-            ]
-        },
-        {
-            "id": "ecb9bb5f790648031f0462ee8852fbeb",
-            "source": "spacenews",
-            "text": "U.S., UK Space Commands execute first joint satellite maneuvers",
-            "source_link": "https://spacenews.com/u-s-uk-space-commands-execute-first-joint-satellite-maneuvers/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-18T20:17:47.227106Z",
-            "shown_at": [
-                "2025-09-18T20:17:47.950819Z"
-            ]
-        },
-        {
-            "id": "204a842a7e68b009bf582c4f9971aa4d",
-            "source": "spacenews",
-            "text": "Launch startup iSpace secures fresh funding as hot fire tests heat up China’s reusable rocket race",
-            "source_link": "https://spacenews.com/launch-startup-ispace-secures-fresh-funding-as-hot-fire-tests-heat-up-chinas-reusable-rocket-race/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-18T22:52:00.911236Z",
-            "shown_at": [
-                "2025-09-18T22:52:01.837950Z"
             ]
         }
     ]
