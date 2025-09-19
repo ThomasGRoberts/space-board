@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 22 | 27 | 55 |
+| spacenews | 12 | 22 | 28 | 56 |
 | breaking_defense | 2 | 3 | 20 | 42 |
 | supercluster | 1 | 1 | 66 | 66 |
 | nyt | 0 | 0 | 19 | 40 |
@@ -6732,3 +6732,4 @@
 - **Sep 19, 02:22 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 19, 02:24 AM** - The Earth Observation industry’s biggest threat isn’t China, it’s Washington (breaking_defense)
 - **Sep 19, 02:39 AM** - A Defender of Darkness in the Darkest Place on Earth (nyt)
+- **Sep 19, 02:53 AM** - Stratospheric pseudo-satellites nearing commercial role in hybrid space networks (spacenews)
