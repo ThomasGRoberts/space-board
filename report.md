@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 18 | 19 | 47 |
+| spacenews | 6 | 18 | 20 | 48 |
 | breaking_defense | 1 | 3 | 16 | 36 |
 | nyt | 2 | 2 | 17 | 35 |
 | supercluster | 1 | 1 | 17 | 17 |
@@ -6716,3 +6716,4 @@
 - **Sep 19, 08:21 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 19, 08:23 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 19, 08:25 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 19, 08:27 PM** - Taiwanese aerospace firm partners with Maxar on GPS-alternative drone navigation (spacenews)
