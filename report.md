@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 20 | 28 | 54 |
 | breaking_defense | 2 | 3 | 20 | 42 |
-| supercluster | 1 | 1 | 108 | 108 |
+| supercluster | 1 | 1 | 109 | 109 |
 | nyt | 0 | 0 | 19 | 40 |
 
 # Shown Order
@@ -6794,3 +6794,4 @@
 - **Sep 19, 08:44 AM** - EXCLUSIVE: DoD envisions prize competition for boost-phase SBI prototypes (breaking_defense)
 - **Sep 19, 08:57 AM** - A Defender of Darkness in the Darkest Place on Earth (nyt)
 - **Sep 19, 09:15 AM** - Educating customers may be half the battle for nascent hyperspectral sector (spacenews)
+- **Sep 19, 09:30 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
