@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 22 | 28 | 55 |
 | breaking_defense | 2 | 3 | 19 | 41 |
-| supercluster | 1 | 1 | 52 | 52 |
+| supercluster | 1 | 1 | 53 | 53 |
 | nyt | 0 | 0 | 19 | 40 |
 
 # Shown Order
@@ -6713,3 +6713,4 @@
 - **Sep 19, 12:22 AM** - Space Force cell explores reorg to push commercial data to military (breaking_defense)
 - **Sep 19, 12:40 AM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
 - **Sep 19, 12:54 AM** - Hubble Network raises $70 million to accelerate 60-satellite Bluetooth constellation (spacenews)
+- **Sep 19, 01:10 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
