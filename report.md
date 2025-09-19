@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 19 | 21 | 48 |
 | breaking_defense | 2 | 4 | 16 | 36 |
-| nyt | 0 | 0 | 15 | 34 |
+| nyt | 0 | 0 | 16 | 35 |
 | supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
@@ -6696,3 +6696,4 @@
 - **Sep 19, 05:39 PM** - Novaspace Recognizes 2025 Excellence Award Winners in Satellite Connectivity, Earth Observation, and Startup Challenge at World Space Business Week (spacenews)
 - **Sep 19, 05:56 PM** - Building Saudi Arabia’s space champion (spacenews)
 - **Sep 19, 06:10 PM** - American leadership at Apophis (spacenews)
+- **Sep 19, 06:26 PM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
