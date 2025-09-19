@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 18 | 20 | 48 |
 | breaking_defense | 1 | 3 | 16 | 35 |
-| nyt | 2 | 2 | 16 | 35 |
+| nyt | 2 | 2 | 17 | 36 |
 | supercluster | 1 | 1 | 17 | 17 |
 
 # Shown Order
@@ -6717,3 +6717,4 @@
 - **Sep 19, 08:23 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 19, 08:25 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 19, 08:27 PM** - Taiwanese aerospace firm partners with Maxar on GPS-alternative drone navigation (spacenews)
+- **Sep 19, 08:45 PM** - A Tiny Quasi-Moon is Following Earth Around the Sun (nyt)
