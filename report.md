@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 21 | 27 | 55 |
+| spacenews | 12 | 21 | 28 | 55 |
 | breaking_defense | 2 | 3 | 20 | 42 |
 | supercluster | 1 | 1 | 87 | 87 |
 | nyt | 0 | 0 | 19 | 40 |
@@ -6763,3 +6763,4 @@
 - **Sep 19, 05:23 AM** - Space Force cell explores reorg to push commercial data to military (breaking_defense)
 - **Sep 19, 05:42 AM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
 - **Sep 19, 05:55 AM** - SpaceX planning first tests of new direct-to-device spectrum next year (spacenews)
+- **Sep 19, 06:09 AM** - Space Norway and SSTL collaborate on radar satellite program (spacenews)

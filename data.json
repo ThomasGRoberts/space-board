@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-19T00:02:00.757293+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2a627c99545e7fd9a74b580f095de2f1",
+    "trigger_count": 0,
+    "current_item_id": "9ed6df8dddc713afcd5daf51cd1b92d0",
     "data": [
         {
             "id": "204a842a7e68b009bf582c4f9971aa4d",
@@ -12258,6 +12258,18 @@
                 "2025-06-07T12:09:47.510736Z",
                 "2025-06-08T08:15:32.327407Z",
                 "2025-06-09T16:07:27.988318Z"
+            ]
+        },
+        {
+            "id": "9ed6df8dddc713afcd5daf51cd1b92d0",
+            "source": "spacenews",
+            "text": "Space Norway and SSTL collaborate on radar satellite program",
+            "source_link": "https://spacenews.com/space-norway-and-sstl-collaborate-on-radar-satellite-program/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-19T06:09:56.653149Z",
+            "shown_at": [
+                "2025-09-19T06:09:57.288041Z"
             ]
         }
     ]
