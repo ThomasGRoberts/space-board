@@ -5,7 +5,7 @@
 | spacenews | 12 | 22 | 27 | 55 |
 | breaking_defense | 2 | 3 | 20 | 42 |
 | supercluster | 1 | 1 | 73 | 73 |
-| nyt | 0 | 0 | 19 | 39 |
+| nyt | 0 | 0 | 19 | 40 |
 
 # Shown Order
 
@@ -6741,3 +6741,4 @@
 - **Sep 19, 03:20 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 19, 03:22 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 19, 03:24 AM** - The Break Out: A Golden Dome prize pool and Project Octopus [VIDEO] (breaking_defense)
+- **Sep 19, 03:37 AM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
