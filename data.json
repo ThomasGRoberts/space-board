@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-19T00:02:00.757293+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0aca10c978df0ebfa56ebc508b9323ba",
+    "trigger_count": 0,
+    "current_item_id": "b7607759fd23877445a5203dd27a6aac",
     "data": [
         {
             "id": "204a842a7e68b009bf582c4f9971aa4d",
@@ -12302,6 +12302,18 @@
             "shown_at": [
                 "2025-09-19T19:43:52.681500Z",
                 "2025-09-19T20:45:50.936853Z"
+            ]
+        },
+        {
+            "id": "b7607759fd23877445a5203dd27a6aac",
+            "source": "spacenews",
+            "text": "China promotes direct-to-device satellite services with new guidelines and licensing",
+            "source_link": "https://spacenews.com/china-promotes-direct-to-device-satellite-services-with-new-guidelines-and-licensing/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-19T21:17:39.939423Z",
+            "shown_at": [
+                "2025-09-19T21:17:40.570099Z"
             ]
         }
     ]
