@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 22 | 28 | 55 |
 | breaking_defense | 2 | 3 | 19 | 41 |
-| supercluster | 1 | 1 | 46 | 46 |
+| supercluster | 1 | 1 | 47 | 47 |
 | nyt | 0 | 0 | 19 | 40 |
 
 # Shown Order
@@ -6704,3 +6704,4 @@
 - **Sep 18, 11:37 PM** - A Defender of Darkness in the Darkest Place on Earth (nyt)
 - **Sep 18, 11:53 PM** - Launch companies double down on increasing flight rates despite setbacks (spacenews)
 - **Sep 19, 12:08 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 19, 12:09 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
