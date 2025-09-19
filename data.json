@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-19T00:02:00.757293+00:00",
-    "trigger_count": 6,
-    "current_item_id": "16e90d6a0420cf7c7201c992a2384505",
+    "trigger_count": 0,
+    "current_item_id": "c437029bde5ca1234db3fa027e325136",
     "data": [
         {
             "id": "204a842a7e68b009bf582c4f9971aa4d",
@@ -12310,6 +12310,15 @@
             "shown_at": [
                 "2025-09-19T06:09:57.288041Z"
             ]
+        },
+        {
+            "id": "c437029bde5ca1234db3fa027e325136",
+            "source": "spacenews",
+            "text": "Taiwanese aerospace firm partners with Maxar on GPS-alternative drone navigation",
+            "source_link": "https://spacenews.com/taiwanese-aerospace-firm-partners-with-maxar-on-gps-alternative-drone-navigation/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-09-19T10:17:23.836220Z"
         }
     ]
 }
