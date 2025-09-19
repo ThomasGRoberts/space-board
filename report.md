@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 19 | 20 | 48 |
 | breaking_defense | 1 | 3 | 16 | 35 |
-| nyt | 1 | 1 | 16 | 35 |
+| nyt | 2 | 2 | 17 | 36 |
 | supercluster | 1 | 1 | 10 | 10 |
 
 # Shown Order
@@ -6707,3 +6707,4 @@
 - **Sep 19, 07:23 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 19, 07:25 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 19, 07:28 PM** - Successful flight on Falcon 9 for EOS-8’’, MECANO ID’s Satellite Ejection System (spacenews)
+- **Sep 19, 07:43 PM** - A Tiny Quasi-Moon is Following Earth Around the Sun (nyt)
