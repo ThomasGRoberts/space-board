@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-19T00:02:00.757293+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "d7bfbb9f42736e99282cf5e711b94efd",
     "data": [
         {
             "id": "204a842a7e68b009bf582c4f9971aa4d",
@@ -12222,6 +12222,36 @@
                 "2025-09-19T17:36:04.205248Z",
                 "2025-09-19T17:37:48.680273Z"
             ]
+        },
+        {
+            "id": "d7bfbb9f42736e99282cf5e711b94efd",
+            "source": "spacenews",
+            "text": "Novaspace Recognizes 2025 Excellence Award Winners in Satellite Connectivity, Earth Observation, and Startup Challenge at World Space Business Week",
+            "source_link": "https://spacenews.com/novaspace-recognizes-2025-excellence-award-winners-in-satellite-connectivity-earth-observation-and-startup-challenge-at-world-space-business-week/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-19T17:39:58.245918Z",
+            "shown_at": [
+                "2025-09-19T17:39:59.387320Z"
+            ]
+        },
+        {
+            "id": "5bb94bc417a8e2569563dfce1bb66adf",
+            "source": "spacenews",
+            "text": "Building Saudi Arabia’s space champion",
+            "source_link": "https://spacenews.com/building-saudi-arabias-space-champion/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-09-19T17:39:58.245972Z"
+        },
+        {
+            "id": "9f4426659159dc80553afa54bb129335",
+            "source": "spacenews",
+            "text": "American leadership at Apophis",
+            "source_link": "https://spacenews.com/american-leadership-at-apophis/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-09-19T17:39:58.246032Z"
         }
     ]
 }
