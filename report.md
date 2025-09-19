@@ -5,7 +5,7 @@
 | spacenews | 12 | 20 | 28 | 54 |
 | breaking_defense | 2 | 3 | 21 | 43 |
 | supercluster | 1 | 1 | 115 | 115 |
-| nyt | 0 | 0 | 19 | 40 |
+| nyt | 0 | 0 | 20 | 41 |
 
 # Shown Order
 
@@ -6802,3 +6802,4 @@
 - **Sep 19, 09:42 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 19, 09:43 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 19, 09:45 AM** - EXCLUSIVE: DoD envisions prize competition for boost-phase SBI prototypes (breaking_defense)
+- **Sep 19, 10:02 AM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
