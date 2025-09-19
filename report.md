@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 19 | 20 | 48 |
 | breaking_defense | 1 | 3 | 16 | 36 |
-| nyt | 2 | 2 | 17 | 35 |
-| supercluster | 1 | 1 | 18 | 18 |
+| nyt | 2 | 2 | 16 | 35 |
+| supercluster | 1 | 1 | 19 | 19 |
 
 # Shown Order
 
@@ -6721,3 +6721,4 @@
 - **Sep 19, 09:02 PM** - The Break Out: A Golden Dome prize pool and Project Octopus [VIDEO] (breaking_defense)
 - **Sep 19, 09:17 PM** - China promotes direct-to-device satellite services with new guidelines and licensing (spacenews)
 - **Sep 19, 09:32 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 19, 09:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
