@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 21 | 28 | 55 |
 | breaking_defense | 2 | 3 | 20 | 42 |
-| supercluster | 1 | 1 | 73 | 73 |
+| supercluster | 1 | 1 | 74 | 74 |
 | nyt | 0 | 0 | 19 | 40 |
 
 # Shown Order
@@ -6743,3 +6743,4 @@
 - **Sep 19, 03:24 AM** - The Break Out: A Golden Dome prize pool and Project Octopus [VIDEO] (breaking_defense)
 - **Sep 19, 03:37 AM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
 - **Sep 19, 03:51 AM** - To lead in space, we must go all-in on our industrial base (spacenews)
+- **Sep 19, 04:09 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
