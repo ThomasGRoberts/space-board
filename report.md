@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 10 | 22 | 43 |
-| nyt | 4 | 4 | 24 | 39 |
+| nyt | 4 | 4 | 25 | 40 |
 | supercluster | 0 | 1 | 145 | 148 |
 | breaking_defense | 0 | 2 | 22 | 38 |
 
@@ -6841,3 +6841,4 @@
 - **Sep 20, 05:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 20, 05:46 PM** - Space Norway and SSTL collaborate on radar satellite program (spacenews)
 - **Sep 20, 05:59 PM** - House Intel Committee props up FY26 funding for NRO commercial imagery buys (breaking_defense)
+- **Sep 20, 06:18 PM** - Why the U.S. Might Lose the Space Race (nyt)
