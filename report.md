@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 10 | 23 | 43 |
-| nyt | 4 | 4 | 22 | 39 |
+| nyt | 4 | 4 | 23 | 40 |
 | supercluster | 1 | 1 | 134 | 134 |
 | breaking_defense | 1 | 2 | 21 | 38 |
 
@@ -6821,3 +6821,4 @@
 - **Sep 20, 03:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 20, 03:42 PM** - Isar Aerospace prepares for second Spectrum launch (spacenews)
 - **Sep 20, 03:59 PM** - Anduril, Impulse to demo maneuvering satellite, with sights set on Space Force missions (breaking_defense)
+- **Sep 20, 04:15 PM** - Earth Has a New ‘Quasi-Moon,’ and It May Be Very Tiny (nyt)
