@@ -5,7 +5,7 @@
 | spacenews | 6 | 18 | 19 | 47 |
 | nyt | 2 | 2 | 17 | 36 |
 | supercluster | 1 | 1 | 94 | 94 |
-| breaking_defense | 1 | 3 | 16 | 36 |
+| breaking_defense | 1 | 3 | 17 | 36 |
 
 # Shown Order
 
@@ -6761,3 +6761,4 @@
 - **Sep 20, 08:03 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 20, 08:05 AM** - A Tiny Quasi-Moon is Following Earth Around the Sun (nyt)
 - **Sep 20, 08:24 AM** - Thruster issue delays Cygnus arrival at ISS (spacenews)
+- **Sep 20, 08:40 AM** - EXCLUSIVE: DoD envisions prize competition for boost-phase SBI prototypes (breaking_defense)
