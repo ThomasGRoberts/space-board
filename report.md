@@ -5,7 +5,7 @@
 | spacenews | 5 | 15 | 22 | 46 |
 | nyt | 4 | 4 | 20 | 38 |
 | supercluster | 1 | 1 | 120 | 120 |
-| breaking_defense | 1 | 3 | 18 | 37 |
+| breaking_defense | 1 | 3 | 19 | 38 |
 
 # Shown Order
 
@@ -6800,3 +6800,4 @@
 - **Sep 20, 01:29 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 20, 01:32 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 20, 01:36 PM** - Telesat pitches Lightspeed as stopgap to Europe’s IRIS² (spacenews)
+- **Sep 20, 01:50 PM** - SSC to finish ‘system delta’ reorg next month (breaking_defense)
