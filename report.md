@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 15 | 21 | 45 |
-| nyt | 4 | 4 | 19 | 37 |
+| nyt | 4 | 4 | 20 | 38 |
 | supercluster | 1 | 1 | 113 | 113 |
 | breaking_defense | 1 | 3 | 18 | 37 |
 
@@ -6791,3 +6791,4 @@
 - **Sep 20, 12:23 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 20, 12:26 PM** - Thruster issue delays Cygnus arrival at ISS (spacenews)
 - **Sep 20, 12:46 PM** - House Intel Committee props up FY26 funding for NRO commercial imagery buys (breaking_defense)
+- **Sep 20, 12:59 PM** - A Tiny Quasi-Moon is Following Earth Around the Sun (nyt)
