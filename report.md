@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 10 | 23 | 43 |
-| nyt | 3 | 4 | 23 | 39 |
+| nyt | 3 | 4 | 24 | 40 |
 | supercluster | 0 | 1 | 145 | 155 |
 | breaking_defense | 0 | 1 | 22 | 38 |
 
@@ -6852,3 +6852,4 @@
 - **Sep 20, 06:49 PM** - NASA revives VIPER lunar rover mission with Blue Origin lander award (spacenews)
 - **Sep 20, 07:05 PM** - The Break Out: A Golden Dome prize pool and Project Octopus [VIDEO] (breaking_defense)
 - **Sep 20, 07:20 PM** - NASA safety panel warns Starship lunar lander could be delayed by years (spacenews)
+- **Sep 20, 07:35 PM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
