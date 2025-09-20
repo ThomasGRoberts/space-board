@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 18 | 18 | 46 |
-| nyt | 4 | 4 | 17 | 36 |
+| nyt | 4 | 4 | 18 | 37 |
 | supercluster | 1 | 1 | 94 | 94 |
 | breaking_defense | 1 | 3 | 16 | 36 |
 
@@ -6763,3 +6763,4 @@
 - **Sep 20, 08:24 AM** - Thruster issue delays Cygnus arrival at ISS (spacenews)
 - **Sep 20, 08:40 AM** - EXCLUSIVE: DoD envisions prize competition for boost-phase SBI prototypes (breaking_defense)
 - **Sep 20, 09:04 AM** - Why the U.S. Might Lose the Space Race (nyt)
+- **Sep 20, 09:19 AM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
