@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 10 | 23 | 43 |
 | nyt | 4 | 4 | 23 | 40 |
-| supercluster | 1 | 1 | 134 | 134 |
+| supercluster | 1 | 1 | 135 | 135 |
 | breaking_defense | 0 | 2 | 20 | 38 |
 
 # Shown Order
@@ -6822,3 +6822,4 @@
 - **Sep 20, 03:42 PM** - Isar Aerospace prepares for second Spectrum launch (spacenews)
 - **Sep 20, 03:59 PM** - Anduril, Impulse to demo maneuvering satellite, with sights set on Space Force missions (breaking_defense)
 - **Sep 20, 04:15 PM** - Earth Has a New ‘Quasi-Moon,’ and It May Be Very Tiny (nyt)
+- **Sep 20, 04:30 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
