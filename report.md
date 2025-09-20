@@ -5,7 +5,7 @@
 | spacenews | 6 | 18 | 19 | 47 |
 | nyt | 2 | 2 | 17 | 36 |
 | supercluster | 1 | 1 | 45 | 45 |
-| breaking_defense | 1 | 3 | 16 | 35 |
+| breaking_defense | 1 | 3 | 17 | 36 |
 
 # Shown Order
 
@@ -6690,3 +6690,4 @@
 - **Sep 20, 12:48 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 20, 12:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 20, 12:52 AM** - Earth Has a New ‘Quasi-Moon,’ and It May Be Very Tiny (nyt)
+- **Sep 20, 01:07 AM** - For Golden Dome to work, it needs to be put to the test (breaking_defense)
