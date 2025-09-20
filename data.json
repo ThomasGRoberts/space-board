@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-20T00:02:32.555740+00:00",
-    "trigger_count": 6,
-    "current_item_id": "36444ba5e12f812de4f5846e619ad0cb",
+    "trigger_count": 0,
+    "current_item_id": "c64e04245efe56e3548798cf95fe81d4",
     "data": [
         {
             "id": "b7607759fd23877445a5203dd27a6aac",
@@ -12269,6 +12269,27 @@
             "shown_at": [
                 "2025-09-20T06:22:08.667462Z"
             ]
+        },
+        {
+            "id": "c64e04245efe56e3548798cf95fe81d4",
+            "source": "nyt",
+            "text": "Why the U.S. Might Lose the Space Race",
+            "source_link": "https://www.nytimes.com/video/science/space/100000010400506/why-the-us-might-lose-the-space-race.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-20T09:04:11.710801Z",
+            "shown_at": [
+                "2025-09-20T09:04:12.450614Z"
+            ]
+        },
+        {
+            "id": "d6532bd3f5a0523682051723a64b26eb",
+            "source": "nyt",
+            "text": "U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX",
+            "source_link": "https://www.nytimes.com/2025/09/20/us/politics/spacex-us-moon-race.html",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-09-20T09:04:11.710838Z"
         }
     ]
 }
