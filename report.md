@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 18 | 20 | 47 |
 | nyt | 2 | 2 | 16 | 35 |
-| supercluster | 1 | 1 | 47 | 47 |
+| supercluster | 1 | 1 | 48 | 48 |
 | breaking_defense | 1 | 3 | 16 | 36 |
 
 # Shown Order
@@ -6694,3 +6694,4 @@
 - **Sep 20, 01:22 AM** - SES moves to iterative MEO deployment with K2 Space partnership (spacenews)
 - **Sep 20, 01:38 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 20, 01:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 20, 01:42 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
