@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 23 | 44 |
-| nyt | 4 | 4 | 21 | 39 |
+| nyt | 4 | 4 | 22 | 40 |
 | supercluster | 1 | 1 | 127 | 127 |
 | breaking_defense | 1 | 3 | 20 | 38 |
 
@@ -6811,3 +6811,4 @@
 - **Sep 20, 02:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 20, 02:39 PM** - Viasat and Space42 to pool satellite spectrum for direct-to-device services (spacenews)
 - **Sep 20, 02:54 PM** - For Golden Dome to work, it needs to be put to the test (breaking_defense)
+- **Sep 20, 03:09 PM** - A Tiny Quasi-Moon is Following Earth Around the Sun (nyt)
