@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 11 | 23 | 43 |
+| spacenews | 5 | 11 | 24 | 44 |
 | nyt | 4 | 4 | 22 | 40 |
 | supercluster | 1 | 1 | 134 | 134 |
 | breaking_defense | 1 | 2 | 20 | 37 |
@@ -6819,3 +6819,4 @@
 - **Sep 20, 03:36 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 20, 03:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 20, 03:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 20, 03:42 PM** - Isar Aerospace prepares for second Spectrum launch (spacenews)
