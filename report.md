@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 10 | 23 | 43 |
+| spacenews | 3 | 9 | 24 | 43 |
 | nyt | 2 | 4 | 23 | 40 |
-| supercluster | 0 | 1 | 151 | 162 |
+| supercluster | 0 | 1 | 148 | 162 |
 | breaking_defense | 0 | 1 | 22 | 38 |
 
 # Shown Order
@@ -6861,3 +6861,4 @@
 - **Sep 20, 07:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 20, 08:02 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 20, 08:03 PM** - For Golden Dome to work, it needs to be put to the test (breaking_defense)
+- **Sep 20, 08:19 PM** - Hubble Network raises $70 million to accelerate 60-satellite Bluetooth constellation (spacenews)
