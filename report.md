@@ -5,7 +5,7 @@
 | spacenews | 6 | 18 | 19 | 47 |
 | nyt | 2 | 2 | 17 | 36 |
 | supercluster | 1 | 1 | 80 | 80 |
-| breaking_defense | 1 | 3 | 16 | 35 |
+| breaking_defense | 1 | 3 | 16 | 36 |
 
 # Shown Order
 
@@ -6741,3 +6741,4 @@
 - **Sep 20, 06:02 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 20, 06:05 AM** - Earth Has a New ‘Quasi-Moon,’ and It May Be Very Tiny (nyt)
 - **Sep 20, 06:22 AM** - NASA revives VIPER lunar rover mission with Blue Origin lander award (spacenews)
+- **Sep 20, 06:40 AM** - Space Force cell explores reorg to push commercial data to military (breaking_defense)
