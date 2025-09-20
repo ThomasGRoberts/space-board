@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 10 | 22 | 43 |
+| spacenews | 2 | 10 | 23 | 44 |
 | nyt | 3 | 4 | 23 | 40 |
 | supercluster | 0 | 1 | 152 | 155 |
 | breaking_defense | 0 | 1 | 22 | 37 |
@@ -6849,3 +6849,4 @@
 - **Sep 20, 06:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 20, 06:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 20, 06:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 20, 06:49 PM** - NASA revives VIPER lunar rover mission with Blue Origin lander award (spacenews)
