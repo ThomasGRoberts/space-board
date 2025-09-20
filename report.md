@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 18 | 18 | 46 |
+| spacenews | 6 | 18 | 19 | 47 |
 | nyt | 2 | 2 | 17 | 36 |
 | supercluster | 1 | 1 | 94 | 94 |
 | breaking_defense | 1 | 3 | 16 | 36 |
@@ -6760,3 +6760,4 @@
 - **Sep 20, 08:02 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 20, 08:03 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 20, 08:05 AM** - A Tiny Quasi-Moon is Following Earth Around the Sun (nyt)
+- **Sep 20, 08:24 AM** - Thruster issue delays Cygnus arrival at ISS (spacenews)
