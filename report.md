@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 10 | 24 | 43 |
-| nyt | 4 | 4 | 23 | 39 |
+| nyt | 4 | 4 | 24 | 40 |
 | supercluster | 1 | 1 | 141 | 141 |
 | breaking_defense | 0 | 2 | 21 | 38 |
 
@@ -6831,3 +6831,4 @@
 - **Sep 20, 04:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 20, 04:45 PM** - Axiom and Spacebilt to establish ISS data center node (spacenews)
 - **Sep 20, 05:00 PM** - House Intel Committee props up FY26 funding for NRO commercial imagery buys (breaking_defense)
+- **Sep 20, 05:15 PM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
