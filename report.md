@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 18 | 20 | 47 |
 | nyt | 2 | 2 | 16 | 35 |
-| supercluster | 1 | 1 | 67 | 67 |
+| supercluster | 1 | 1 | 68 | 68 |
 | breaking_defense | 1 | 3 | 16 | 36 |
 
 # Shown Order
@@ -6723,3 +6723,4 @@
 - **Sep 20, 04:12 AM** - EXCLUSIVE: DoD envisions prize competition for boost-phase SBI prototypes (breaking_defense)
 - **Sep 20, 04:32 AM** - Small GEO strategies diverge around vertical integration (spacenews)
 - **Sep 20, 04:48 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 20, 04:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
