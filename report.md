@@ -5,7 +5,7 @@
 | spacenews | 2 | 10 | 23 | 43 |
 | nyt | 3 | 4 | 23 | 40 |
 | supercluster | 0 | 1 | 152 | 155 |
-| breaking_defense | 0 | 1 | 21 | 37 |
+| breaking_defense | 0 | 1 | 22 | 38 |
 
 # Shown Order
 
@@ -6850,3 +6850,4 @@
 - **Sep 20, 06:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 20, 06:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 20, 06:49 PM** - NASA revives VIPER lunar rover mission with Blue Origin lander award (spacenews)
+- **Sep 20, 07:05 PM** - The Break Out: A Golden Dome prize pool and Project Octopus [VIDEO] (breaking_defense)
