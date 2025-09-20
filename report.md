@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 9 | 23 | 43 |
 | nyt | 2 | 4 | 23 | 40 |
-| supercluster | 0 | 1 | 145 | 162 |
+| supercluster | 0 | 1 | 146 | 163 |
 | breaking_defense | 0 | 1 | 22 | 38 |
 
 # Shown Order
@@ -6863,3 +6863,4 @@
 - **Sep 20, 08:03 PM** - For Golden Dome to work, it needs to be put to the test (breaking_defense)
 - **Sep 20, 08:19 PM** - Hubble Network raises $70 million to accelerate 60-satellite Bluetooth constellation (spacenews)
 - **Sep 20, 08:39 PM** - Why the U.S. Might Lose the Space Race (nyt)
+- **Sep 20, 08:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
