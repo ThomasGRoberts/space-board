@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 18 | 19 | 47 |
-| nyt | 4 | 4 | 17 | 37 |
+| nyt | 4 | 4 | 18 | 38 |
 | supercluster | 1 | 1 | 101 | 101 |
 | breaking_defense | 1 | 3 | 16 | 37 |
 
@@ -6773,3 +6773,4 @@
 - **Sep 20, 09:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 20, 09:58 AM** - President Trump’s Golden Dome: golden dream or black nightmare? (spacenews)
 - **Sep 20, 10:18 AM** - SSC to finish ‘system delta’ reorg next month (breaking_defense)
+- **Sep 20, 10:37 AM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
