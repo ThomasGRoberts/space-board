@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 17 | 19 | 46 |
+| spacenews | 6 | 17 | 20 | 47 |
 | nyt | 2 | 2 | 17 | 36 |
 | supercluster | 1 | 1 | 73 | 73 |
 | breaking_defense | 1 | 3 | 16 | 36 |
@@ -6731,3 +6731,4 @@
 - **Sep 20, 05:02 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 20, 05:05 AM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
 - **Sep 20, 05:19 AM** - The Earth Observation industry’s biggest threat isn’t China, it’s Washington (breaking_defense)
+- **Sep 20, 05:35 AM** - How SpaceX turned a Texas marsh into the world’s most watched spaceport (spacenews)
