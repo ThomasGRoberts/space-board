@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 18 | 20 | 47 |
 | nyt | 2 | 2 | 16 | 35 |
-| supercluster | 1 | 1 | 59 | 59 |
+| supercluster | 1 | 1 | 60 | 60 |
 | breaking_defense | 1 | 3 | 16 | 36 |
 
 # Shown Order
@@ -6712,3 +6712,4 @@
 - **Sep 20, 02:55 AM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
 - **Sep 20, 03:11 AM** - EXCLUSIVE: DoD envisions prize competition for boost-phase SBI prototypes (breaking_defense)
 - **Sep 20, 03:27 AM** - Viasat and Space42 to pool satellite spectrum for direct-to-device services (spacenews)
+- **Sep 20, 03:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
