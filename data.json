@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-20T00:02:32.555740+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0aca10c978df0ebfa56ebc508b9323ba",
+    "trigger_count": 0,
+    "current_item_id": "8f10ff8bc1a8195ff014ab6edbd8f367",
     "data": [
         {
             "id": "b7607759fd23877445a5203dd27a6aac",
@@ -12379,6 +12379,18 @@
                 "2025-09-20T10:37:57.964911Z",
                 "2025-09-20T11:45:43.760234Z",
                 "2025-09-20T17:15:43.333836Z"
+            ]
+        },
+        {
+            "id": "8f10ff8bc1a8195ff014ab6edbd8f367",
+            "source": "spacenews",
+            "text": "NASA safety panel warns Starship lunar lander could be delayed by years",
+            "source_link": "https://spacenews.com/nasa-safety-panel-warns-starship-lunar-lander-could-be-delayed-by-years/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-20T19:20:00.078675Z",
+            "shown_at": [
+                "2025-09-20T19:20:00.668277Z"
             ]
         }
     ]

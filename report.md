@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 9 | 23 | 42 |
+| spacenews | 3 | 10 | 24 | 43 |
 | nyt | 3 | 4 | 23 | 40 |
-| supercluster | 0 | 1 | 150 | 155 |
+| supercluster | 0 | 1 | 148 | 155 |
 | breaking_defense | 0 | 1 | 22 | 38 |
 
 # Shown Order
@@ -6851,3 +6851,4 @@
 - **Sep 20, 06:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 20, 06:49 PM** - NASA revives VIPER lunar rover mission with Blue Origin lander award (spacenews)
 - **Sep 20, 07:05 PM** - The Break Out: A Golden Dome prize pool and Project Octopus [VIDEO] (breaking_defense)
+- **Sep 20, 07:20 PM** - NASA safety panel warns Starship lunar lander could be delayed by years (spacenews)
