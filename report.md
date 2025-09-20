@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 17 | 18 | 46 |
+| spacenews | 6 | 18 | 19 | 47 |
 | nyt | 2 | 2 | 17 | 36 |
 | supercluster | 1 | 1 | 80 | 80 |
 | breaking_defense | 1 | 3 | 16 | 36 |
@@ -6740,3 +6740,4 @@
 - **Sep 20, 05:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 20, 06:02 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 20, 06:05 AM** - Earth Has a New ‘Quasi-Moon,’ and It May Be Very Tiny (nyt)
+- **Sep 20, 06:22 AM** - NASA revives VIPER lunar rover mission with Blue Origin lander award (spacenews)
