@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 9 | 23 | 43 |
-| nyt | 2 | 4 | 23 | 39 |
-| supercluster | 0 | 1 | 149 | 169 |
+| nyt | 2 | 4 | 24 | 40 |
+| supercluster | 0 | 1 | 148 | 169 |
 | breaking_defense | 0 | 1 | 22 | 38 |
 
 # Shown Order
@@ -6872,3 +6872,4 @@
 - **Sep 20, 09:07 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 20, 09:09 PM** - Space Force cell explores reorg to push commercial data to military (breaking_defense)
 - **Sep 20, 09:25 PM** - Space Force accelerates reorganization of acquisition units  (spacenews)
+- **Sep 20, 09:41 PM** - Why the U.S. Might Lose the Space Race (nyt)
