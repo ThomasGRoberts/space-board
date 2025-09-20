@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 10 | 22 | 43 |
 | nyt | 4 | 4 | 24 | 40 |
-| supercluster | 0 | 1 | 145 | 148 |
+| supercluster | 0 | 1 | 146 | 149 |
 | breaking_defense | 0 | 2 | 22 | 38 |
 
 # Shown Order
@@ -6842,3 +6842,4 @@
 - **Sep 20, 05:46 PM** - Space Norway and SSTL collaborate on radar satellite program (spacenews)
 - **Sep 20, 05:59 PM** - House Intel Committee props up FY26 funding for NRO commercial imagery buys (breaking_defense)
 - **Sep 20, 06:18 PM** - Why the U.S. Might Lose the Space Race (nyt)
+- **Sep 20, 06:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
