@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 10 | 23 | 43 |
 | nyt | 4 | 4 | 23 | 40 |
-| supercluster | 1 | 1 | 136 | 136 |
-| breaking_defense | 0 | 2 | 20 | 38 |
+| supercluster | 1 | 1 | 137 | 137 |
+| breaking_defense | 0 | 2 | 20 | 37 |
 
 # Shown Order
 
@@ -6824,3 +6824,4 @@
 - **Sep 20, 04:15 PM** - Earth Has a New ‘Quasi-Moon,’ and It May Be Very Tiny (nyt)
 - **Sep 20, 04:30 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 20, 04:32 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 20, 04:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
