@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 16 | 20 | 45 |
 | nyt | 4 | 4 | 19 | 38 |
-| supercluster | 1 | 1 | 109 | 109 |
+| supercluster | 1 | 1 | 110 | 110 |
 | breaking_defense | 1 | 3 | 17 | 37 |
 
 # Shown Order
@@ -6785,3 +6785,4 @@
 - **Sep 20, 11:45 AM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
 - **Sep 20, 12:06 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 20, 12:11 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 20, 12:14 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
