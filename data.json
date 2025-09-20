@@ -1,9 +1,171 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-09-19T00:02:00.757293+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2025-09-20T00:02:32.555740+00:00",
+    "trigger_count": 6,
     "current_item_id": "16e90d6a0420cf7c7201c992a2384505",
     "data": [
+        {
+            "id": "b7607759fd23877445a5203dd27a6aac",
+            "source": "spacenews",
+            "text": "China promotes direct-to-device satellite services with new guidelines and licensing",
+            "source_link": "https://spacenews.com/china-promotes-direct-to-device-satellite-services-with-new-guidelines-and-licensing/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-19T21:17:39.939423Z",
+            "shown_at": [
+                "2025-09-19T21:17:40.570099Z"
+            ]
+        },
+        {
+            "id": "96253db3a9f3fcca238690eaa96c4e95",
+            "source": "nyt",
+            "text": "A Tiny Quasi-Moon is Following Earth Around the Sun",
+            "source_link": "https://www.nytimes.com/2025/09/19/science/earth-quasi-moon-asteroid.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-19T19:43:51.731512Z",
+            "shown_at": [
+                "2025-09-19T19:43:52.681500Z",
+                "2025-09-19T20:45:50.936853Z"
+            ]
+        },
+        {
+            "id": "c6b02e89da7366b2196e30b507f7ac0a",
+            "source": "nyt",
+            "text": "Earth Has a New ‘Quasi-Moon,’ and It May Be Very Tiny",
+            "source_link": "https://www.nytimes.com/2025/09/19/science/earth-quasi-moon-asteroid.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-19T18:42:09.863954Z",
+            "shown_at": [
+                "2025-09-19T18:42:10.547578Z"
+            ]
+        },
+        {
+            "id": "9f4426659159dc80553afa54bb129335",
+            "source": "spacenews",
+            "text": "American leadership at Apophis",
+            "source_link": "https://spacenews.com/american-leadership-at-apophis/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-19T17:39:58.246032Z",
+            "shown_at": [
+                "2025-09-19T18:10:28.863082Z"
+            ]
+        },
+        {
+            "id": "5bb94bc417a8e2569563dfce1bb66adf",
+            "source": "spacenews",
+            "text": "Building Saudi Arabia’s space champion",
+            "source_link": "https://spacenews.com/building-saudi-arabias-space-champion/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-19T17:39:58.245972Z",
+            "shown_at": [
+                "2025-09-19T17:56:08.773130Z",
+                "2025-09-19T22:17:57.735790Z"
+            ]
+        },
+        {
+            "id": "d7bfbb9f42736e99282cf5e711b94efd",
+            "source": "spacenews",
+            "text": "Novaspace Recognizes 2025 Excellence Award Winners in Satellite Connectivity, Earth Observation, and Startup Challenge at World Space Business Week",
+            "source_link": "https://spacenews.com/novaspace-recognizes-2025-excellence-award-winners-in-satellite-connectivity-earth-observation-and-startup-challenge-at-world-space-business-week/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-19T17:39:58.245918Z",
+            "shown_at": [
+                "2025-09-19T17:39:59.387320Z"
+            ]
+        },
+        {
+            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Starlink Satellites from Florida",
+            "source_link": "https://www.supercluster.com/launches/starlink-10-27",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-09-21T09:20:00.000Z",
+            "time_remaining": "1d 09h 32m",
+            "fetched_datetime": "2025-09-19T17:32:20.616553Z",
+            "shown_at": [
+                "2025-09-19T17:32:21.466154Z",
+                "2025-09-19T17:36:04.205248Z",
+                "2025-09-19T17:37:48.680273Z",
+                "2025-09-19T19:12:15.278938Z",
+                "2025-09-19T19:15:53.116956Z",
+                "2025-09-19T19:18:03.706363Z",
+                "2025-09-19T19:19:57.197606Z",
+                "2025-09-19T19:22:04.407163Z",
+                "2025-09-19T19:23:29.398210Z",
+                "2025-09-19T19:25:46.313683Z",
+                "2025-09-19T20:14:00.778370Z",
+                "2025-09-19T20:15:46.353706Z",
+                "2025-09-19T20:17:52.034036Z",
+                "2025-09-19T20:19:44.095529Z",
+                "2025-09-19T20:21:46.578311Z",
+                "2025-09-19T20:23:45.846062Z",
+                "2025-09-19T20:25:48.576265Z",
+                "2025-09-19T21:32:15.118179Z",
+                "2025-09-19T21:35:42.007206Z",
+                "2025-09-19T21:37:59.942157Z",
+                "2025-09-19T21:39:47.685010Z",
+                "2025-09-19T21:42:07.313823Z",
+                "2025-09-19T21:43:46.015062Z",
+                "2025-09-19T21:45:34.896680Z",
+                "2025-09-19T22:32:32.798738Z",
+                "2025-09-19T22:35:43.308824Z",
+                "2025-09-19T22:37:22.536129Z",
+                "2025-09-19T22:39:56.847012Z",
+                "2025-09-19T22:41:52.619733Z",
+                "2025-09-19T22:43:47.265341Z",
+                "2025-09-19T22:45:41.205262Z",
+                "2025-09-19T23:35:55.788641Z",
+                "2025-09-19T23:37:48.518181Z",
+                "2025-09-19T23:39:48.447065Z",
+                "2025-09-19T23:42:02.943672Z",
+                "2025-09-19T23:43:52.452605Z",
+                "2025-09-19T23:45:32.916017Z",
+                "2025-09-19T23:47:47.604165Z"
+            ]
+        },
+        {
+            "id": "dd66fd240c06f5eea95d73f26d4da122",
+            "source": "breaking_defense",
+            "text": "SSC to finish ‘system delta’ reorg next month",
+            "source_link": "https://breakingdefense.com/2025/09/ssc-to-finish-system-delta-reorg-next-month/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-19T16:22:05.759526Z",
+            "shown_at": [
+                "2025-09-19T16:22:15.381443Z"
+            ]
+        },
+        {
+            "id": "c437029bde5ca1234db3fa027e325136",
+            "source": "spacenews",
+            "text": "Taiwanese aerospace firm partners with Maxar on GPS-alternative drone navigation",
+            "source_link": "https://spacenews.com/taiwanese-aerospace-firm-partners-with-maxar-on-gps-alternative-drone-navigation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-19T10:17:23.836220Z",
+            "shown_at": [
+                "2025-09-19T16:05:35.905347Z",
+                "2025-09-19T20:27:52.077597Z"
+            ]
+        },
+        {
+            "id": "9ed6df8dddc713afcd5daf51cd1b92d0",
+            "source": "spacenews",
+            "text": "Space Norway and SSTL collaborate on radar satellite program",
+            "source_link": "https://spacenews.com/space-norway-and-sstl-collaborate-on-radar-satellite-program/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-19T06:09:56.653149Z",
+            "shown_at": [
+                "2025-09-19T06:09:57.288041Z"
+            ]
+        },
         {
             "id": "204a842a7e68b009bf582c4f9971aa4d",
             "source": "spacenews",
@@ -12013,335 +12175,6 @@
                 "2025-06-15T13:42:11.511608Z",
                 "2025-06-15T17:45:45.633896Z",
                 "2025-06-15T21:29:28.852040Z"
-            ]
-        },
-        {
-            "id": "1d328a2d5257515634a41c0e4f64a62c",
-            "source": "spacenews",
-            "text": "House appropriators unveil defense bill, boost Space Force funding",
-            "source_link": "https://spacenews.com/house-appropriators-unveil-defense-bill-boost-space-force-funding/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-09T17:33:39.181571Z",
-            "shown_at": [
-                "2025-06-09T17:33:39.921190Z",
-                "2025-06-11T18:55:54.010084Z",
-                "2025-06-13T20:55:32.760622Z",
-                "2025-06-14T02:17:48.313508Z",
-                "2025-06-14T16:31:41.593622Z",
-                "2025-06-14T17:27:53.922521Z"
-            ]
-        },
-        {
-            "id": "fb33d3340fa27bbc2961154e45f1325c",
-            "source": "spacenews",
-            "text": "A reinvigorated push for nuclear power in space",
-            "source_link": "https://spacenews.com/a-reinvigorated-push-for-nuclear-power-in-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-09T14:09:32.092048Z",
-            "shown_at": [
-                "2025-06-09T14:09:32.819450Z",
-                "2025-06-10T08:02:28.551351Z",
-                "2025-06-15T04:49:20.917309Z",
-                "2025-06-15T05:45:25.905451Z",
-                "2025-06-15T21:43:34.158056Z"
-            ]
-        },
-        {
-            "id": "8cac203d0651985ef85b9e2e971d4f6b",
-            "source": "spacenews",
-            "text": "Is China’s BeiDou a weapon of war?",
-            "source_link": "https://spacenews.com/is-chinas-beidou-a-weapon-of-war/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-09T13:13:48.882715Z",
-            "shown_at": [
-                "2025-06-09T13:13:50.148273Z",
-                "2025-06-11T02:05:40.987547Z",
-                "2025-06-12T16:07:39.845186Z",
-                "2025-06-13T03:11:45.427678Z",
-                "2025-06-14T08:57:28.694343Z",
-                "2025-06-14T15:35:56.967903Z",
-                "2025-06-15T12:03:26.684238Z"
-            ]
-        },
-        {
-            "id": "8a4a62dd93018f2bd12f0f6c314e81b0",
-            "source": "spacenews",
-            "text": "Arkadia Space tests its first hydrogen peroxide thruster in orbit",
-            "source_link": "https://spacenews.com/arkadia-space-tests-its-first-hydrogen-peroxide-thruster-in-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-09T11:47:30.478615Z",
-            "shown_at": [
-                "2025-06-09T11:47:31.087705Z"
-            ]
-        },
-        {
-            "id": "e86be26e5583058a45761417fe482b25",
-            "source": "spacenews",
-            "text": "Starliner future plans still in limbo",
-            "source_link": "https://spacenews.com/starliner-future-plans-still-in-limbo/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-08T22:29:03.677805Z",
-            "shown_at": [
-                "2025-06-08T22:29:04.317388Z",
-                "2025-06-09T00:23:42.813083Z",
-                "2025-06-09T03:18:00.545225Z",
-                "2025-06-09T09:55:38.623844Z",
-                "2025-06-10T19:03:12.862761Z",
-                "2025-06-11T09:23:48.114455Z",
-                "2025-06-12T00:03:49.987907Z",
-                "2025-06-13T14:07:38.187502Z"
-            ]
-        },
-        {
-            "id": "a9c314e3dde7ab19f285248f7370a730",
-            "source": "nyt",
-            "text": "Marc Garneau, First Canadian in Space and Foreign Minister, Dies at 76",
-            "source_link": "https://www.nytimes.com/2025/06/05/world/canada/mark-garneau-canadian-astronaut-dead.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-07T06:05:37.171004Z",
-            "shown_at": [
-                "2025-06-07T06:05:38.149540Z",
-                "2025-06-07T21:29:34.648119Z",
-                "2025-06-08T15:33:35.968936Z",
-                "2025-06-08T22:15:30.800398Z",
-                "2025-06-09T05:51:48.589687Z",
-                "2025-06-09T21:49:29.163977Z",
-                "2025-06-12T05:59:36.919833Z",
-                "2025-06-12T16:51:35.674335Z",
-                "2025-06-13T03:25:44.534381Z",
-                "2025-06-13T06:21:44.223628Z",
-                "2025-06-13T11:19:24.595585Z",
-                "2025-06-13T13:25:33.818389Z",
-                "2025-06-13T15:17:37.043407Z",
-                "2025-06-13T20:27:37.410583Z",
-                "2025-06-13T21:23:36.971161Z",
-                "2025-06-14T02:03:43.477465Z",
-                "2025-06-14T02:59:43.313864Z"
-            ]
-        },
-        {
-            "id": "059b03c033dc6cfd6825851d887a9705",
-            "source": "nyt",
-            "text": "Trump Has Options to Punish Musk Even if His Federal Contracts Continue",
-            "source_link": "https://www.nytimes.com/2025/06/06/us/politics/trump-musk-spacex-contracts.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-06T23:09:30.734403Z",
-            "shown_at": [
-                "2025-06-06T23:09:31.309206Z",
-                "2025-06-07T02:57:37.616280Z",
-                "2025-06-08T02:17:40.466343Z",
-                "2025-06-08T16:31:52.479375Z",
-                "2025-06-10T03:45:41.000147Z",
-                "2025-06-10T08:35:35.250607Z",
-                "2025-06-11T00:51:37.060908Z",
-                "2025-06-12T01:15:39.306851Z",
-                "2025-06-12T12:53:49.963573Z",
-                "2025-06-12T15:51:36.167892Z",
-                "2025-06-12T20:43:28.085957Z",
-                "2025-06-12T21:53:36.031289Z",
-                "2025-06-12T23:47:41.617626Z",
-                "2025-06-13T08:17:36.076361Z",
-                "2025-06-13T09:13:39.591820Z",
-                "2025-06-13T10:09:30.030598Z",
-                "2025-06-13T19:15:46.362293Z"
-            ]
-        },
-        {
-            "id": "a9ffad8471932a95f5536019c81ecbee",
-            "source": "spacenews",
-            "text": "NASA’s ESCAPADE could launch on second New Glenn",
-            "source_link": "https://spacenews.com/nasas-escapade-could-launch-on-second-new-glenn/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-06T21:59:38.509036Z",
-            "shown_at": [
-                "2025-06-06T21:59:39.434092Z",
-                "2025-06-07T22:43:31.356646Z",
-                "2025-06-13T05:11:50.196437Z"
-            ]
-        },
-        {
-            "id": "62cd57d877e46108ccb7298190a51e3d",
-            "source": "spacenews",
-            "text": "Africa’s new space agency presents a unified space front",
-            "source_link": "https://spacenews.com/africas-new-space-agency-presents-a-unified-space-front/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-06T14:05:34.398877Z",
-            "shown_at": [
-                "2025-06-06T14:05:35.098585Z",
-                "2025-06-07T12:09:47.510736Z",
-                "2025-06-08T08:15:32.327407Z",
-                "2025-06-09T16:07:27.988318Z"
-            ]
-        },
-        {
-            "id": "9ed6df8dddc713afcd5daf51cd1b92d0",
-            "source": "spacenews",
-            "text": "Space Norway and SSTL collaborate on radar satellite program",
-            "source_link": "https://spacenews.com/space-norway-and-sstl-collaborate-on-radar-satellite-program/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-19T06:09:56.653149Z",
-            "shown_at": [
-                "2025-09-19T06:09:57.288041Z"
-            ]
-        },
-        {
-            "id": "c437029bde5ca1234db3fa027e325136",
-            "source": "spacenews",
-            "text": "Taiwanese aerospace firm partners with Maxar on GPS-alternative drone navigation",
-            "source_link": "https://spacenews.com/taiwanese-aerospace-firm-partners-with-maxar-on-gps-alternative-drone-navigation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-19T10:17:23.836220Z",
-            "shown_at": [
-                "2025-09-19T16:05:35.905347Z",
-                "2025-09-19T20:27:52.077597Z"
-            ]
-        },
-        {
-            "id": "dd66fd240c06f5eea95d73f26d4da122",
-            "source": "breaking_defense",
-            "text": "SSC to finish ‘system delta’ reorg next month",
-            "source_link": "https://breakingdefense.com/2025/09/ssc-to-finish-system-delta-reorg-next-month/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-19T16:22:05.759526Z",
-            "shown_at": [
-                "2025-09-19T16:22:15.381443Z"
-            ]
-        },
-        {
-            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from Florida",
-            "source_link": "https://www.supercluster.com/launches/starlink-10-27",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-09-21T09:20:00.000Z",
-            "time_remaining": "1d 09h 32m",
-            "fetched_datetime": "2025-09-19T17:32:20.616553Z",
-            "shown_at": [
-                "2025-09-19T17:32:21.466154Z",
-                "2025-09-19T17:36:04.205248Z",
-                "2025-09-19T17:37:48.680273Z",
-                "2025-09-19T19:12:15.278938Z",
-                "2025-09-19T19:15:53.116956Z",
-                "2025-09-19T19:18:03.706363Z",
-                "2025-09-19T19:19:57.197606Z",
-                "2025-09-19T19:22:04.407163Z",
-                "2025-09-19T19:23:29.398210Z",
-                "2025-09-19T19:25:46.313683Z",
-                "2025-09-19T20:14:00.778370Z",
-                "2025-09-19T20:15:46.353706Z",
-                "2025-09-19T20:17:52.034036Z",
-                "2025-09-19T20:19:44.095529Z",
-                "2025-09-19T20:21:46.578311Z",
-                "2025-09-19T20:23:45.846062Z",
-                "2025-09-19T20:25:48.576265Z",
-                "2025-09-19T21:32:15.118179Z",
-                "2025-09-19T21:35:42.007206Z",
-                "2025-09-19T21:37:59.942157Z",
-                "2025-09-19T21:39:47.685010Z",
-                "2025-09-19T21:42:07.313823Z",
-                "2025-09-19T21:43:46.015062Z",
-                "2025-09-19T21:45:34.896680Z",
-                "2025-09-19T22:32:32.798738Z",
-                "2025-09-19T22:35:43.308824Z",
-                "2025-09-19T22:37:22.536129Z",
-                "2025-09-19T22:39:56.847012Z",
-                "2025-09-19T22:41:52.619733Z",
-                "2025-09-19T22:43:47.265341Z",
-                "2025-09-19T22:45:41.205262Z",
-                "2025-09-19T23:35:55.788641Z",
-                "2025-09-19T23:37:48.518181Z",
-                "2025-09-19T23:39:48.447065Z",
-                "2025-09-19T23:42:02.943672Z",
-                "2025-09-19T23:43:52.452605Z",
-                "2025-09-19T23:45:32.916017Z",
-                "2025-09-19T23:47:47.604165Z"
-            ]
-        },
-        {
-            "id": "d7bfbb9f42736e99282cf5e711b94efd",
-            "source": "spacenews",
-            "text": "Novaspace Recognizes 2025 Excellence Award Winners in Satellite Connectivity, Earth Observation, and Startup Challenge at World Space Business Week",
-            "source_link": "https://spacenews.com/novaspace-recognizes-2025-excellence-award-winners-in-satellite-connectivity-earth-observation-and-startup-challenge-at-world-space-business-week/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-19T17:39:58.245918Z",
-            "shown_at": [
-                "2025-09-19T17:39:59.387320Z"
-            ]
-        },
-        {
-            "id": "5bb94bc417a8e2569563dfce1bb66adf",
-            "source": "spacenews",
-            "text": "Building Saudi Arabia’s space champion",
-            "source_link": "https://spacenews.com/building-saudi-arabias-space-champion/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-19T17:39:58.245972Z",
-            "shown_at": [
-                "2025-09-19T17:56:08.773130Z",
-                "2025-09-19T22:17:57.735790Z"
-            ]
-        },
-        {
-            "id": "9f4426659159dc80553afa54bb129335",
-            "source": "spacenews",
-            "text": "American leadership at Apophis",
-            "source_link": "https://spacenews.com/american-leadership-at-apophis/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-19T17:39:58.246032Z",
-            "shown_at": [
-                "2025-09-19T18:10:28.863082Z"
-            ]
-        },
-        {
-            "id": "c6b02e89da7366b2196e30b507f7ac0a",
-            "source": "nyt",
-            "text": "Earth Has a New ‘Quasi-Moon,’ and It May Be Very Tiny",
-            "source_link": "https://www.nytimes.com/2025/09/19/science/earth-quasi-moon-asteroid.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-19T18:42:09.863954Z",
-            "shown_at": [
-                "2025-09-19T18:42:10.547578Z"
-            ]
-        },
-        {
-            "id": "96253db3a9f3fcca238690eaa96c4e95",
-            "source": "nyt",
-            "text": "A Tiny Quasi-Moon is Following Earth Around the Sun",
-            "source_link": "https://www.nytimes.com/2025/09/19/science/earth-quasi-moon-asteroid.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-19T19:43:51.731512Z",
-            "shown_at": [
-                "2025-09-19T19:43:52.681500Z",
-                "2025-09-19T20:45:50.936853Z"
-            ]
-        },
-        {
-            "id": "b7607759fd23877445a5203dd27a6aac",
-            "source": "spacenews",
-            "text": "China promotes direct-to-device satellite services with new guidelines and licensing",
-            "source_link": "https://spacenews.com/china-promotes-direct-to-device-satellite-services-with-new-guidelines-and-licensing/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-19T21:17:39.939423Z",
-            "shown_at": [
-                "2025-09-19T21:17:40.570099Z"
             ]
         }
     ]
