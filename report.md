@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 17 | 20 | 47 |
 | nyt | 2 | 2 | 16 | 35 |
-| supercluster | 1 | 1 | 73 | 73 |
+| supercluster | 1 | 1 | 74 | 74 |
 | breaking_defense | 1 | 3 | 16 | 36 |
 
 # Shown Order
@@ -6732,3 +6732,4 @@
 - **Sep 20, 05:05 AM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
 - **Sep 20, 05:19 AM** - The Earth Observation industry’s biggest threat isn’t China, it’s Washington (breaking_defense)
 - **Sep 20, 05:35 AM** - How SpaceX turned a Texas marsh into the world’s most watched spaceport (spacenews)
+- **Sep 20, 05:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
