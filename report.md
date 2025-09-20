@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 18 | 20 | 47 |
 | nyt | 2 | 2 | 16 | 35 |
-| supercluster | 1 | 1 | 53 | 53 |
+| supercluster | 1 | 1 | 54 | 54 |
 | breaking_defense | 1 | 3 | 16 | 36 |
 
 # Shown Order
@@ -6703,3 +6703,4 @@
 - **Sep 20, 02:11 AM** - House Intel Committee props up FY26 funding for NRO commercial imagery buys (breaking_defense)
 - **Sep 20, 02:25 AM** - Novaspace Recognizes 2025 Excellence Award Winners in Satellite Connectivity, Earth Observation, and Startup Challenge at World Space Business Week (spacenews)
 - **Sep 20, 02:42 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 20, 02:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
