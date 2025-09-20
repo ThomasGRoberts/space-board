@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 16 | 19 | 46 |
 | nyt | 4 | 4 | 18 | 38 |
-| supercluster | 1 | 1 | 101 | 101 |
+| supercluster | 1 | 1 | 102 | 102 |
 | breaking_defense | 1 | 3 | 16 | 37 |
 
 # Shown Order
@@ -6774,3 +6774,4 @@
 - **Sep 20, 09:58 AM** - President Trump’s Golden Dome: golden dream or black nightmare? (spacenews)
 - **Sep 20, 10:18 AM** - SSC to finish ‘system delta’ reorg next month (breaking_defense)
 - **Sep 20, 10:37 AM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
+- **Sep 20, 10:54 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
