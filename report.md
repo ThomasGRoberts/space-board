@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 15 | 21 | 45 |
 | nyt | 4 | 4 | 20 | 38 |
-| supercluster | 1 | 1 | 114 | 114 |
+| supercluster | 1 | 1 | 115 | 115 |
 | breaking_defense | 1 | 3 | 18 | 37 |
 
 # Shown Order
@@ -6793,3 +6793,4 @@
 - **Sep 20, 12:46 PM** - House Intel Committee props up FY26 funding for NRO commercial imagery buys (breaking_defense)
 - **Sep 20, 12:59 PM** - A Tiny Quasi-Moon is Following Earth Around the Sun (nyt)
 - **Sep 20, 01:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 20, 01:19 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
