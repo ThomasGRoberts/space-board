@@ -5,7 +5,7 @@
 | spacenews | 6 | 18 | 19 | 47 |
 | nyt | 2 | 2 | 17 | 36 |
 | supercluster | 1 | 1 | 38 | 38 |
-| breaking_defense | 1 | 3 | 16 | 35 |
+| breaking_defense | 1 | 3 | 17 | 36 |
 
 # Shown Order
 
@@ -6680,3 +6680,4 @@
 - **Sep 19, 11:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 19, 11:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 19, 11:49 PM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
+- **Sep 20, 12:05 AM** - Anduril, Impulse to demo maneuvering satellite, with sights set on Space Force missions (breaking_defense)
