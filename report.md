@@ -5,7 +5,7 @@
 | spacenews | 2 | 10 | 23 | 43 |
 | nyt | 4 | 4 | 24 | 40 |
 | supercluster | 0 | 1 | 145 | 148 |
-| breaking_defense | 0 | 2 | 21 | 37 |
+| breaking_defense | 0 | 2 | 22 | 38 |
 
 # Shown Order
 
@@ -6840,3 +6840,4 @@
 - **Sep 20, 05:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 20, 05:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 20, 05:46 PM** - Space Norway and SSTL collaborate on radar satellite program (spacenews)
+- **Sep 20, 05:59 PM** - House Intel Committee props up FY26 funding for NRO commercial imagery buys (breaking_defense)
