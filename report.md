@@ -5,7 +5,7 @@
 | spacenews | 5 | 10 | 24 | 43 |
 | nyt | 4 | 4 | 23 | 40 |
 | supercluster | 1 | 1 | 141 | 141 |
-| breaking_defense | 0 | 2 | 20 | 37 |
+| breaking_defense | 0 | 2 | 21 | 38 |
 
 # Shown Order
 
@@ -6830,3 +6830,4 @@
 - **Sep 20, 04:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 20, 04:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 20, 04:45 PM** - Axiom and Spacebilt to establish ISS data center node (spacenews)
+- **Sep 20, 05:00 PM** - House Intel Committee props up FY26 funding for NRO commercial imagery buys (breaking_defense)
