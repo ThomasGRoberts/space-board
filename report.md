@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 18 | 19 | 47 |
 | nyt | 2 | 2 | 17 | 36 |
-| supercluster | 1 | 1 | 87 | 87 |
+| supercluster | 1 | 1 | 88 | 88 |
 | breaking_defense | 1 | 3 | 16 | 36 |
 
 # Shown Order
@@ -6752,3 +6752,4 @@
 - **Sep 20, 07:09 AM** - A Tiny Quasi-Moon is Following Earth Around the Sun (nyt)
 - **Sep 20, 07:23 AM** - Does Europe need a spaceplane? (spacenews)
 - **Sep 20, 07:38 AM** - The Earth Observation industry’s biggest threat isn’t China, it’s Washington (breaking_defense)
+- **Sep 20, 07:52 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
