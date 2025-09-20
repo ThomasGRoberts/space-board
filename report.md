@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 10 | 23 | 43 |
 | nyt | 2 | 4 | 23 | 40 |
-| supercluster | 0 | 1 | 145 | 155 |
+| supercluster | 0 | 1 | 146 | 156 |
 | breaking_defense | 0 | 1 | 22 | 38 |
 
 # Shown Order
@@ -6853,3 +6853,4 @@
 - **Sep 20, 07:05 PM** - The Break Out: A Golden Dome prize pool and Project Octopus [VIDEO] (breaking_defense)
 - **Sep 20, 07:20 PM** - NASA safety panel warns Starship lunar lander could be delayed by years (spacenews)
 - **Sep 20, 07:35 PM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
+- **Sep 20, 07:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
