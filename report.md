@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 18 | 20 | 47 |
 | nyt | 2 | 2 | 17 | 35 |
-| supercluster | 1 | 1 | 39 | 39 |
+| supercluster | 1 | 1 | 40 | 40 |
 | breaking_defense | 1 | 3 | 16 | 36 |
 
 # Shown Order
@@ -6683,3 +6683,4 @@
 - **Sep 20, 12:05 AM** - Anduril, Impulse to demo maneuvering satellite, with sights set on Space Force missions (breaking_defense)
 - **Sep 20, 12:20 AM** - Small GEO strategies diverge around vertical integration (spacenews)
 - **Sep 20, 12:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 20, 12:38 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
