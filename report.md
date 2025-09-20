@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 16 | 19 | 46 |
 | nyt | 4 | 4 | 18 | 38 |
-| supercluster | 1 | 1 | 102 | 102 |
+| supercluster | 1 | 1 | 103 | 103 |
 | breaking_defense | 1 | 3 | 16 | 37 |
 
 # Shown Order
@@ -6775,3 +6775,4 @@
 - **Sep 20, 10:18 AM** - SSC to finish ‘system delta’ reorg next month (breaking_defense)
 - **Sep 20, 10:37 AM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
 - **Sep 20, 10:54 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 20, 10:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
