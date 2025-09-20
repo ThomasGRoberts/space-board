@@ -5,7 +5,7 @@
 | spacenews | 5 | 10 | 24 | 43 |
 | nyt | 4 | 4 | 22 | 40 |
 | supercluster | 1 | 1 | 134 | 134 |
-| breaking_defense | 1 | 2 | 20 | 37 |
+| breaking_defense | 1 | 2 | 21 | 38 |
 
 # Shown Order
 
@@ -6820,3 +6820,4 @@
 - **Sep 20, 03:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 20, 03:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 20, 03:42 PM** - Isar Aerospace prepares for second Spectrum launch (spacenews)
+- **Sep 20, 03:59 PM** - Anduril, Impulse to demo maneuvering satellite, with sights set on Space Force missions (breaking_defense)
