@@ -5,7 +5,7 @@
 | spacenews | 5 | 16 | 20 | 46 |
 | nyt | 4 | 4 | 18 | 38 |
 | supercluster | 1 | 1 | 107 | 107 |
-| breaking_defense | 1 | 3 | 16 | 36 |
+| breaking_defense | 1 | 3 | 17 | 37 |
 
 # Shown Order
 
@@ -6781,3 +6781,4 @@
 - **Sep 20, 11:02 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 20, 11:10 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 20, 11:13 AM** - Thruster issue delays Cygnus arrival at ISS (spacenews)
+- **Sep 20, 11:27 AM** - SSC to finish ‘system delta’ reorg next month (breaking_defense)
