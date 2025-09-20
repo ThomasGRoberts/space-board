@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 18 | 20 | 47 |
-| nyt | 2 | 2 | 17 | 35 |
-| supercluster | 1 | 1 | 52 | 52 |
+| nyt | 2 | 2 | 16 | 35 |
+| supercluster | 1 | 1 | 53 | 53 |
 | breaking_defense | 1 | 3 | 16 | 36 |
 
 # Shown Order
@@ -6702,3 +6702,4 @@
 - **Sep 20, 01:52 AM** - A Tiny Quasi-Moon is Following Earth Around the Sun (nyt)
 - **Sep 20, 02:11 AM** - House Intel Committee props up FY26 funding for NRO commercial imagery buys (breaking_defense)
 - **Sep 20, 02:25 AM** - Novaspace Recognizes 2025 Excellence Award Winners in Satellite Connectivity, Earth Observation, and Startup Challenge at World Space Business Week (spacenews)
+- **Sep 20, 02:42 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
