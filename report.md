@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 10 | 24 | 43 |
 | nyt | 4 | 4 | 24 | 40 |
-| supercluster | 1 | 1 | 142 | 142 |
+| supercluster | 1 | 1 | 143 | 143 |
 | breaking_defense | 0 | 2 | 21 | 38 |
 
 # Shown Order
@@ -6833,3 +6833,4 @@
 - **Sep 20, 05:00 PM** - House Intel Committee props up FY26 funding for NRO commercial imagery buys (breaking_defense)
 - **Sep 20, 05:15 PM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
 - **Sep 20, 05:29 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 20, 05:32 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
