@@ -5,7 +5,7 @@
 | spacenews | 6 | 18 | 19 | 47 |
 | nyt | 2 | 2 | 17 | 36 |
 | supercluster | 1 | 1 | 66 | 66 |
-| breaking_defense | 1 | 3 | 16 | 36 |
+| breaking_defense | 1 | 3 | 17 | 36 |
 
 # Shown Order
 
@@ -6720,3 +6720,4 @@
 - **Sep 20, 03:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 20, 03:53 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 20, 03:56 AM** - Earth Has a New ‘Quasi-Moon,’ and It May Be Very Tiny (nyt)
+- **Sep 20, 04:12 AM** - EXCLUSIVE: DoD envisions prize competition for boost-phase SBI prototypes (breaking_defense)
