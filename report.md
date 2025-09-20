@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 18 | 20 | 47 |
-| nyt | 2 | 2 | 17 | 36 |
-| supercluster | 1 | 1 | 38 | 38 |
+| nyt | 2 | 2 | 17 | 35 |
+| supercluster | 1 | 1 | 39 | 39 |
 | breaking_defense | 1 | 3 | 16 | 36 |
 
 # Shown Order
@@ -6682,3 +6682,4 @@
 - **Sep 19, 11:49 PM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
 - **Sep 20, 12:05 AM** - Anduril, Impulse to demo maneuvering satellite, with sights set on Space Force missions (breaking_defense)
 - **Sep 20, 12:20 AM** - Small GEO strategies diverge around vertical integration (spacenews)
+- **Sep 20, 12:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
