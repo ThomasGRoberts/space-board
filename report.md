@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 13 | 22 | 45 |
 | nyt | 4 | 4 | 21 | 39 |
-| supercluster | 1 | 1 | 120 | 120 |
+| supercluster | 1 | 1 | 121 | 121 |
 | breaking_defense | 1 | 3 | 19 | 38 |
 
 # Shown Order
@@ -6802,3 +6802,4 @@
 - **Sep 20, 01:36 PM** - Telesat pitches Lightspeed as stopgap to Europe’s IRIS² (spacenews)
 - **Sep 20, 01:50 PM** - SSC to finish ‘system delta’ reorg next month (breaking_defense)
 - **Sep 20, 02:05 PM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
+- **Sep 20, 02:22 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
