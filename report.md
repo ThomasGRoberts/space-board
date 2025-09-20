@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 23 | 42 |
 | nyt | 2 | 4 | 23 | 40 |
-| supercluster | 0 | 1 | 145 | 176 |
+| supercluster | 0 | 1 | 146 | 177 |
 | breaking_defense | 0 | 1 | 22 | 38 |
 
 # Shown Order
@@ -6883,3 +6883,4 @@
 - **Sep 20, 10:14 PM** - House Intel Committee props up FY26 funding for NRO commercial imagery buys (breaking_defense)
 - **Sep 20, 10:29 PM** - Impulse Space and Anduril to demonstrate autonomous spacecraft maneuvers in GEO (spacenews)
 - **Sep 20, 10:45 PM** - A Tiny Quasi-Moon is Following Earth Around the Sun (nyt)
+- **Sep 20, 10:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
