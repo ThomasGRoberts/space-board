@@ -5,7 +5,7 @@
 | spacenews | 5 | 15 | 21 | 45 |
 | nyt | 4 | 4 | 19 | 38 |
 | supercluster | 1 | 1 | 113 | 113 |
-| breaking_defense | 1 | 3 | 17 | 36 |
+| breaking_defense | 1 | 3 | 18 | 37 |
 
 # Shown Order
 
@@ -6790,3 +6790,4 @@
 - **Sep 20, 12:22 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 20, 12:23 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 20, 12:26 PM** - Thruster issue delays Cygnus arrival at ISS (spacenews)
+- **Sep 20, 12:46 PM** - House Intel Committee props up FY26 funding for NRO commercial imagery buys (breaking_defense)
