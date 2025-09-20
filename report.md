@@ -5,7 +5,7 @@
 | spacenews | 5 | 13 | 23 | 45 |
 | nyt | 4 | 4 | 21 | 39 |
 | supercluster | 1 | 1 | 127 | 127 |
-| breaking_defense | 1 | 3 | 19 | 37 |
+| breaking_defense | 1 | 3 | 20 | 38 |
 
 # Shown Order
 
@@ -6810,3 +6810,4 @@
 - **Sep 20, 02:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 20, 02:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 20, 02:39 PM** - Viasat and Space42 to pool satellite spectrum for direct-to-device services (spacenews)
+- **Sep 20, 02:54 PM** - For Golden Dome to work, it needs to be put to the test (breaking_defense)
