@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 18 | 20 | 47 |
-| nyt | 2 | 2 | 17 | 35 |
-| supercluster | 1 | 1 | 45 | 45 |
+| nyt | 2 | 2 | 16 | 35 |
+| supercluster | 1 | 1 | 46 | 46 |
 | breaking_defense | 1 | 3 | 16 | 36 |
 
 # Shown Order
@@ -6692,3 +6692,4 @@
 - **Sep 20, 12:52 AM** - Earth Has a New ‘Quasi-Moon,’ and It May Be Very Tiny (nyt)
 - **Sep 20, 01:07 AM** - For Golden Dome to work, it needs to be put to the test (breaking_defense)
 - **Sep 20, 01:22 AM** - SES moves to iterative MEO deployment with K2 Space partnership (spacenews)
+- **Sep 20, 01:38 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
