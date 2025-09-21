@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 2 | 22 | 45 |
-| nyt | 0 | 2 | 22 | 46 |
+| nyt | 0 | 2 | 22 | 45 |
 | breaking_defense | 0 | 0 | 22 | 44 |
-| supercluster | 1 | 1 | 67 | 67 |
+| supercluster | 1 | 1 | 68 | 68 |
 
 # Shown Order
 
@@ -6793,3 +6793,4 @@
 - **Sep 21, 09:17 PM** - Hubble Network raises $70 million to accelerate 60-satellite Bluetooth constellation (spacenews)
 - **Sep 21, 09:31 PM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
 - **Sep 21, 09:47 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Sep 21, 09:49 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
