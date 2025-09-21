@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 23 | 46 |
+| spacenews | 1 | 3 | 22 | 46 |
 | nyt | 0 | 4 | 22 | 46 |
 | breaking_defense | 0 | 0 | 22 | 43 |
-| supercluster | 1 | 1 | 40 | 40 |
+| supercluster | 1 | 1 | 41 | 41 |
 
 # Shown Order
 
@@ -6754,3 +6754,4 @@
 - **Sep 21, 05:29 PM** - Earth Has a New ‘Quasi-Moon,’ and It May Be Very Tiny (nyt)
 - **Sep 21, 05:43 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Sep 21, 05:45 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Sep 21, 05:47 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
