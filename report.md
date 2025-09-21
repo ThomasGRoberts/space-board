@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 7 | 23 | 41 |
+| spacenews | 1 | 7 | 22 | 41 |
 | nyt | 2 | 4 | 23 | 40 |
-| supercluster | 0 | 1 | 146 | 233 |
+| supercluster | 0 | 1 | 147 | 234 |
 | breaking_defense | 0 | 1 | 22 | 38 |
 
 # Shown Order
@@ -6920,3 +6920,4 @@
 - **Sep 21, 06:47 AM** - Swissto12 clears PDR for debut small GEO D2D satellite (spacenews)
 - **Sep 21, 07:05 AM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
 - **Sep 21, 07:20 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 21, 07:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
