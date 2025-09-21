@@ -5,7 +5,6 @@
 | spacenews | 1 | 6 | 23 | 42 |
 | nyt | 0 | 4 | 22 | 40 |
 | breaking_defense | 0 | 1 | 22 | 38 |
-| supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
 
@@ -6693,13 +6692,6 @@
 - **Sep 21, 08:39 AM** - Beyond ‘potpourri’ of sensors: Saltzman pushes holistic approach to space domain awareness (breaking_defense)
 - **Sep 21, 08:55 AM** - Lone Star space: How Texas can revitalize its galactic industry (spacenews)
 - **Sep 21, 09:11 AM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
-- **Sep 21, 09:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Sep 21, 09:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Sep 21, 09:31 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Sep 21, 09:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Sep 21, 09:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Sep 21, 09:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Sep 21, 09:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 21, 09:42 AM** - House Intel Committee props up FY26 funding for NRO commercial imagery buys (breaking_defense)
 - **Sep 21, 09:57 AM** - President Trump’s Golden Dome: golden dream or black nightmare? (spacenews)
 - **Sep 21, 10:42 AM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
