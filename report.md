@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 23 | 42 |
 | nyt | 2 | 4 | 23 | 40 |
-| supercluster | 0 | 1 | 145 | 190 |
-| breaking_defense | 0 | 1 | 22 | 38 |
+| supercluster | 0 | 1 | 146 | 191 |
+| breaking_defense | 0 | 1 | 21 | 38 |
 
 # Shown Order
 
@@ -6859,3 +6859,4 @@
 - **Sep 21, 12:20 AM** - The Break Out: A Golden Dome prize pool and Project Octopus [VIDEO] (breaking_defense)
 - **Sep 21, 12:35 AM** - Stratospheric pseudo-satellites nearing commercial role in hybrid space networks (spacenews)
 - **Sep 21, 12:51 AM** - A Tiny Quasi-Moon is Following Earth Around the Sun (nyt)
+- **Sep 21, 01:08 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
