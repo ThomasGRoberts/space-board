@@ -5,6 +5,7 @@
 | spacenews | 1 | 7 | 23 | 41 |
 | nyt | 0 | 4 | 22 | 40 |
 | breaking_defense | 0 | 1 | 22 | 38 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -6692,3 +6693,4 @@
 - **Sep 21, 08:39 AM** - Beyond ‘potpourri’ of sensors: Saltzman pushes holistic approach to space domain awareness (breaking_defense)
 - **Sep 21, 08:55 AM** - Lone Star space: How Texas can revitalize its galactic industry (spacenews)
 - **Sep 21, 09:11 AM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
+- **Sep 21, 09:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
