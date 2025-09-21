@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 7 | 22 | 41 |
+| spacenews | 1 | 7 | 23 | 42 |
 | nyt | 2 | 4 | 23 | 40 |
 | supercluster | 0 | 1 | 152 | 232 |
 | breaking_defense | 0 | 1 | 22 | 38 |
@@ -6917,3 +6917,4 @@
 - **Sep 21, 06:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 21, 06:30 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 21, 06:32 AM** - The Earth Observation industry’s biggest threat isn’t China, it’s Washington (breaking_defense)
+- **Sep 21, 06:47 AM** - Swissto12 clears PDR for debut small GEO D2D satellite (spacenews)
