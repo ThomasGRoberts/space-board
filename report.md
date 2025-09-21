@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 23 | 47 |
-| nyt | 0 | 4 | 21 | 45 |
+| nyt | 0 | 4 | 22 | 46 |
 | breaking_defense | 0 | 0 | 22 | 43 |
 | supercluster | 1 | 1 | 38 | 38 |
 
@@ -6751,3 +6751,4 @@
 - **Sep 21, 04:55 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Sep 21, 04:59 PM** - House Intel Committee props up FY26 funding for NRO commercial imagery buys (breaking_defense)
 - **Sep 21, 05:15 PM** - U.S., UK Space Commands execute first joint satellite maneuvers (spacenews)
+- **Sep 21, 05:29 PM** - Earth Has a New ‘Quasi-Moon,’ and It May Be Very Tiny (nyt)
