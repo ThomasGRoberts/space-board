@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 2 | 22 | 45 |
-| nyt | 0 | 2 | 23 | 46 |
+| nyt | 0 | 2 | 23 | 45 |
 | breaking_defense | 0 | 0 | 22 | 44 |
-| supercluster | 1 | 1 | 81 | 81 |
+| supercluster | 1 | 1 | 82 | 82 |
 
 # Shown Order
 
@@ -6813,3 +6813,4 @@
 - **Sep 21, 11:18 PM** - President Trump’s Golden Dome: golden dream or black nightmare? (spacenews)
 - **Sep 21, 11:32 PM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
 - **Sep 21, 11:47 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Sep 21, 11:49 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
