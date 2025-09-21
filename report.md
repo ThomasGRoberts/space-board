@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 8 | 23 | 43 |
-| nyt | 2 | 4 | 23 | 39 |
+| spacenews | 2 | 8 | 23 | 42 |
+| nyt | 2 | 4 | 23 | 40 |
 | supercluster | 0 | 1 | 145 | 197 |
 | breaking_defense | 0 | 1 | 22 | 38 |
 
@@ -6868,3 +6868,4 @@
 - **Sep 21, 01:20 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 21, 01:22 AM** - Beyond ‘potpourri’ of sensors: Saltzman pushes holistic approach to space domain awareness (breaking_defense)
 - **Sep 21, 01:37 AM** - GHGSat announces $34 million in equity and debt financing (spacenews)
+- **Sep 21, 01:52 AM** - Earth Has a New ‘Quasi-Moon,’ and It May Be Very Tiny (nyt)
