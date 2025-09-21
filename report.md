@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 23 | 42 |
-| nyt | 2 | 4 | 22 | 39 |
+| nyt | 2 | 4 | 23 | 40 |
 | supercluster | 0 | 1 | 145 | 211 |
 | breaking_defense | 0 | 1 | 22 | 38 |
 
@@ -6888,3 +6888,4 @@
 - **Sep 21, 03:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 21, 03:26 AM** - For Golden Dome to work, it needs to be put to the test (breaking_defense)
 - **Sep 21, 03:42 AM** - ReOrbit raises 45 million euros to increase spacecraft production (spacenews)
+- **Sep 21, 03:59 AM** - A Tiny Quasi-Moon is Following Earth Around the Sun (nyt)
