@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 2 | 23 | 45 |
-| nyt | 0 | 2 | 22 | 45 |
+| spacenews | 0 | 2 | 22 | 45 |
+| nyt | 0 | 2 | 23 | 46 |
 | breaking_defense | 0 | 0 | 22 | 44 |
 | supercluster | 1 | 1 | 73 | 73 |
 
@@ -6801,3 +6801,4 @@
 - **Sep 21, 09:59 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Sep 21, 10:02 PM** - The Break Out: A Golden Dome prize pool and Project Octopus [VIDEO] (breaking_defense)
 - **Sep 21, 10:18 PM** - York Space hits milestone with largest satellite delivery yet (spacenews)
+- **Sep 21, 10:32 PM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
