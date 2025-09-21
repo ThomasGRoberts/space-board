@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 8 | 22 | 42 |
+| spacenews | 2 | 8 | 23 | 43 |
 | nyt | 2 | 4 | 23 | 39 |
 | supercluster | 0 | 1 | 152 | 218 |
 | breaking_defense | 0 | 1 | 22 | 38 |
@@ -6897,3 +6897,4 @@
 - **Sep 21, 04:25 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 21, 04:28 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 21, 04:29 AM** - For Golden Dome to work, it needs to be put to the test (breaking_defense)
+- **Sep 21, 04:45 AM** - Small GEO strategies diverge around vertical integration (spacenews)
