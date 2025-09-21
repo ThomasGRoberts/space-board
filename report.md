@@ -5,7 +5,7 @@
 | spacenews | 2 | 8 | 23 | 42 |
 | nyt | 2 | 4 | 23 | 40 |
 | supercluster | 0 | 1 | 152 | 211 |
-| breaking_defense | 0 | 1 | 21 | 38 |
+| breaking_defense | 0 | 1 | 22 | 38 |
 
 # Shown Order
 
@@ -6886,3 +6886,4 @@
 - **Sep 21, 03:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 21, 03:22 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 21, 03:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 21, 03:26 AM** - For Golden Dome to work, it needs to be put to the test (breaking_defense)
