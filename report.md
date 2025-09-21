@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 6 | 23 | 46 |
+| spacenews | 1 | 6 | 22 | 46 |
 | nyt | 0 | 4 | 22 | 44 |
 | breaking_defense | 0 | 1 | 22 | 42 |
-| supercluster | 1 | 1 | 24 | 24 |
+| supercluster | 1 | 1 | 25 | 25 |
 
 # Shown Order
 
@@ -6732,3 +6732,4 @@
 - **Sep 21, 03:01 PM** - SSC to finish ‘system delta’ reorg next month (breaking_defense)
 - **Sep 21, 03:15 PM** - Taiwanese aerospace firm partners with Maxar on GPS-alternative drone navigation (spacenews)
 - **Sep 21, 03:29 PM** - Earth Has a New ‘Quasi-Moon,’ and It May Be Very Tiny (nyt)
+- **Sep 21, 03:44 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
