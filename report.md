@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 2 | 22 | 45 |
 | nyt | 0 | 2 | 22 | 45 |
-| breaking_defense | 0 | 0 | 22 | 44 |
+| breaking_defense | 0 | 0 | 23 | 44 |
 | supercluster | 1 | 1 | 73 | 73 |
 
 # Shown Order
@@ -6799,3 +6799,4 @@
 - **Sep 21, 09:55 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Sep 21, 09:57 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Sep 21, 09:59 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Sep 21, 10:02 PM** - The Break Out: A Golden Dome prize pool and Project Octopus [VIDEO] (breaking_defense)
