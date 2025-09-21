@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 6 | 23 | 43 |
-| nyt | 0 | 4 | 21 | 40 |
+| spacenews | 1 | 6 | 22 | 43 |
+| nyt | 0 | 4 | 22 | 41 |
 | breaking_defense | 0 | 1 | 22 | 39 |
 | supercluster | 1 | 1 | 3 | 3 |
 
@@ -6701,3 +6701,4 @@
 - **Sep 21, 11:57 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Sep 21, 11:59 AM** - For Golden Dome to work, it needs to be put to the test (breaking_defense)
 - **Sep 21, 12:13 PM** - Astro Digital to plug into Star Catcher solar-energy grid (spacenews)
+- **Sep 21, 12:27 PM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
