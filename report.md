@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 3 | 22 | 46 |
-| nyt | 0 | 3 | 22 | 45 |
+| nyt | 0 | 3 | 23 | 46 |
 | breaking_defense | 0 | 0 | 22 | 44 |
 | supercluster | 1 | 1 | 52 | 52 |
 
@@ -6771,3 +6771,4 @@
 - **Sep 21, 06:57 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Sep 21, 06:59 PM** - EXCLUSIVE: DoD envisions prize competition for boost-phase SBI prototypes (breaking_defense)
 - **Sep 21, 07:13 PM** - Swissto12 clears PDR for debut small GEO D2D satellite (spacenews)
+- **Sep 21, 07:27 PM** - A Tiny Quasi-Moon is Following Earth Around the Sun (nyt)
