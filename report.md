@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 7 | 23 | 41 |
+| spacenews | 1 | 7 | 24 | 42 |
 | nyt | 0 | 4 | 22 | 40 |
 | breaking_defense | 0 | 1 | 23 | 38 |
 | supercluster | 1 | 1 | 7 | 7 |
@@ -6701,3 +6701,4 @@
 - **Sep 21, 09:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 21, 09:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 21, 09:42 AM** - House Intel Committee props up FY26 funding for NRO commercial imagery buys (breaking_defense)
+- **Sep 21, 09:57 AM** - President Trump’s Golden Dome: golden dream or black nightmare? (spacenews)
