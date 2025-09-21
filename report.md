@@ -5,7 +5,7 @@
 | spacenews | 0 | 3 | 22 | 45 |
 | nyt | 0 | 2 | 22 | 45 |
 | breaking_defense | 0 | 0 | 22 | 44 |
-| supercluster | 1 | 1 | 53 | 53 |
+| supercluster | 1 | 1 | 54 | 54 |
 
 # Shown Order
 
@@ -6773,3 +6773,4 @@
 - **Sep 21, 07:13 PM** - Swissto12 clears PDR for debut small GEO D2D satellite (spacenews)
 - **Sep 21, 07:27 PM** - A Tiny Quasi-Moon is Following Earth Around the Sun (nyt)
 - **Sep 21, 07:44 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Sep 21, 07:45 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
