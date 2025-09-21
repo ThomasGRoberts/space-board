@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 23 | 41 |
 | nyt | 2 | 4 | 23 | 40 |
-| supercluster | 0 | 1 | 145 | 239 |
+| supercluster | 0 | 1 | 146 | 240 |
 | breaking_defense | 0 | 1 | 22 | 38 |
 
 # Shown Order
@@ -6929,3 +6929,4 @@
 - **Sep 21, 07:38 AM** - SSC to finish ‘system delta’ reorg next month (breaking_defense)
 - **Sep 21, 07:51 AM** - Laser communications supplier Mynaric signals recovery after production setbacks (spacenews)
 - **Sep 21, 08:07 AM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
+- **Sep 21, 08:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
