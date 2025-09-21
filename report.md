@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 3 | 22 | 46 |
-| nyt | 0 | 2 | 22 | 45 |
+| spacenews | 0 | 3 | 22 | 45 |
+| nyt | 0 | 2 | 23 | 46 |
 | breaking_defense | 0 | 0 | 22 | 44 |
 | supercluster | 1 | 1 | 59 | 59 |
 
@@ -6781,3 +6781,4 @@
 - **Sep 21, 07:57 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Sep 21, 07:59 PM** - House Intel Committee props up FY26 funding for NRO commercial imagery buys (breaking_defense)
 - **Sep 21, 08:13 PM** - SpaceX planning first tests of new direct-to-device spectrum next year (spacenews)
+- **Sep 21, 08:27 PM** - A Tiny Quasi-Moon is Following Earth Around the Sun (nyt)
