@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 22 | 42 |
 | nyt | 0 | 4 | 21 | 40 |
-| breaking_defense | 0 | 1 | 21 | 38 |
+| breaking_defense | 0 | 1 | 22 | 39 |
 | supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
@@ -6699,3 +6699,4 @@
 - **Sep 21, 11:53 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Sep 21, 11:55 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Sep 21, 11:57 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Sep 21, 11:59 AM** - For Golden Dome to work, it needs to be put to the test (breaking_defense)
