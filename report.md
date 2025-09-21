@@ -5,7 +5,7 @@
 | spacenews | 1 | 7 | 22 | 41 |
 | nyt | 2 | 4 | 23 | 40 |
 | supercluster | 0 | 1 | 152 | 232 |
-| breaking_defense | 0 | 1 | 22 | 38 |
+| breaking_defense | 0 | 1 | 23 | 39 |
 
 # Shown Order
 
@@ -6916,3 +6916,4 @@
 - **Sep 21, 06:25 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 21, 06:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 21, 06:30 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 21, 06:32 AM** - The Earth Observation industry’s biggest threat isn’t China, it’s Washington (breaking_defense)
