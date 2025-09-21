@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 8 | 23 | 43 |
-| nyt | 2 | 4 | 23 | 39 |
+| spacenews | 2 | 8 | 23 | 42 |
+| nyt | 2 | 4 | 24 | 40 |
 | supercluster | 0 | 1 | 145 | 204 |
 | breaking_defense | 0 | 1 | 22 | 38 |
 
@@ -6878,3 +6878,4 @@
 - **Sep 21, 02:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 21, 02:23 AM** - The Earth Observation industry’s biggest threat isn’t China, it’s Washington (breaking_defense)
 - **Sep 21, 02:39 AM** - GHGSat announces $34 million in equity and debt financing (spacenews)
+- **Sep 21, 02:55 AM** - A Tiny Quasi-Moon is Following Earth Around the Sun (nyt)
