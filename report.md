@@ -5,7 +5,7 @@
 | spacenews | 0 | 3 | 22 | 45 |
 | nyt | 0 | 2 | 22 | 46 |
 | breaking_defense | 0 | 0 | 22 | 44 |
-| supercluster | 1 | 1 | 60 | 60 |
+| supercluster | 1 | 1 | 61 | 61 |
 
 # Shown Order
 
@@ -6783,3 +6783,4 @@
 - **Sep 21, 08:13 PM** - SpaceX planning first tests of new direct-to-device spectrum next year (spacenews)
 - **Sep 21, 08:27 PM** - A Tiny Quasi-Moon is Following Earth Around the Sun (nyt)
 - **Sep 21, 08:44 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Sep 21, 08:45 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
