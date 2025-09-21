@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 23 | 42 |
-| nyt | 2 | 4 | 23 | 39 |
+| nyt | 2 | 4 | 23 | 40 |
 | supercluster | 0 | 1 | 145 | 239 |
 | breaking_defense | 0 | 1 | 22 | 38 |
 
@@ -6928,3 +6928,4 @@
 - **Sep 21, 07:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 21, 07:38 AM** - SSC to finish ‘system delta’ reorg next month (breaking_defense)
 - **Sep 21, 07:51 AM** - Laser communications supplier Mynaric signals recovery after production setbacks (spacenews)
+- **Sep 21, 08:07 AM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
