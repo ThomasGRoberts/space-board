@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 23 | 42 |
 | nyt | 2 | 4 | 23 | 40 |
-| supercluster | 0 | 1 | 146 | 198 |
-| breaking_defense | 0 | 1 | 22 | 38 |
+| supercluster | 0 | 1 | 147 | 199 |
+| breaking_defense | 0 | 1 | 21 | 38 |
 
 # Shown Order
 
@@ -6870,3 +6870,4 @@
 - **Sep 21, 01:37 AM** - GHGSat announces $34 million in equity and debt financing (spacenews)
 - **Sep 21, 01:52 AM** - Earth Has a New ‘Quasi-Moon,’ and It May Be Very Tiny (nyt)
 - **Sep 21, 02:10 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 21, 02:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
