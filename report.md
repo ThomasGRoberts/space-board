@@ -5,7 +5,7 @@
 | spacenews | 1 | 3 | 23 | 46 |
 | nyt | 0 | 4 | 22 | 46 |
 | breaking_defense | 0 | 0 | 22 | 43 |
-| supercluster | 1 | 1 | 38 | 38 |
+| supercluster | 1 | 1 | 39 | 39 |
 
 # Shown Order
 
@@ -6752,3 +6752,4 @@
 - **Sep 21, 04:59 PM** - House Intel Committee props up FY26 funding for NRO commercial imagery buys (breaking_defense)
 - **Sep 21, 05:15 PM** - U.S., UK Space Commands execute first joint satellite maneuvers (spacenews)
 - **Sep 21, 05:29 PM** - Earth Has a New ‘Quasi-Moon,’ and It May Be Very Tiny (nyt)
+- **Sep 21, 05:43 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
