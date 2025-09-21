@@ -5,7 +5,7 @@
 | spacenews | 1 | 6 | 22 | 43 |
 | nyt | 0 | 4 | 22 | 41 |
 | breaking_defense | 0 | 1 | 22 | 39 |
-| supercluster | 1 | 1 | 4 | 4 |
+| supercluster | 1 | 1 | 5 | 5 |
 
 # Shown Order
 
@@ -6703,3 +6703,4 @@
 - **Sep 21, 12:13 PM** - Astro Digital to plug into Star Catcher solar-energy grid (spacenews)
 - **Sep 21, 12:27 PM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
 - **Sep 21, 12:43 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Sep 21, 12:45 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
