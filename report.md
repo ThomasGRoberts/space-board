@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 6 | 22 | 45 |
+| spacenews | 1 | 6 | 23 | 46 |
 | nyt | 0 | 4 | 21 | 43 |
 | breaking_defense | 0 | 1 | 22 | 42 |
 | supercluster | 1 | 1 | 24 | 24 |
@@ -6730,3 +6730,4 @@
 - **Sep 21, 02:57 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Sep 21, 02:59 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Sep 21, 03:01 PM** - SSC to finish ‘system delta’ reorg next month (breaking_defense)
+- **Sep 21, 03:15 PM** - Taiwanese aerospace firm partners with Maxar on GPS-alternative drone navigation (spacenews)
