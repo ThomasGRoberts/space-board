@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 6 | 22 | 43 |
+| spacenews | 1 | 6 | 23 | 44 |
 | nyt | 0 | 4 | 21 | 41 |
 | breaking_defense | 0 | 1 | 22 | 40 |
 | supercluster | 1 | 1 | 10 | 10 |
@@ -6710,3 +6710,4 @@
 - **Sep 21, 12:53 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Sep 21, 12:55 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Sep 21, 12:58 PM** - The Earth Observation industry’s biggest threat isn’t China, it’s Washington (breaking_defense)
+- **Sep 21, 01:13 PM** - Laser communications supplier Mynaric signals recovery after production setbacks (spacenews)
