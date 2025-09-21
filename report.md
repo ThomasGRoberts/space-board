@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 8 | 22 | 42 |
-| nyt | 2 | 4 | 23 | 40 |
+| spacenews | 2 | 8 | 23 | 43 |
+| nyt | 2 | 4 | 23 | 39 |
 | supercluster | 0 | 1 | 152 | 225 |
 | breaking_defense | 0 | 1 | 22 | 38 |
 
@@ -6907,3 +6907,4 @@
 - **Sep 21, 05:25 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 21, 05:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 21, 05:29 AM** - The Earth Observation industry’s biggest threat isn’t China, it’s Washington (breaking_defense)
+- **Sep 21, 05:43 AM** - Axiom and Spacebilt to establish ISS data center node (spacenews)
