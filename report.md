@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 3 | 22 | 45 |
 | nyt | 0 | 2 | 22 | 45 |
-| breaking_defense | 0 | 0 | 22 | 44 |
+| breaking_defense | 0 | 0 | 23 | 45 |
 | supercluster | 1 | 1 | 66 | 66 |
 
 # Shown Order
@@ -6789,3 +6789,4 @@
 - **Sep 21, 08:52 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Sep 21, 08:55 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Sep 21, 08:57 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Sep 21, 08:59 PM** - Beyond ‘potpourri’ of sensors: Saltzman pushes holistic approach to space domain awareness (breaking_defense)
