@@ -5,7 +5,7 @@
 | spacenews | 1 | 6 | 23 | 42 |
 | nyt | 0 | 4 | 22 | 40 |
 | breaking_defense | 0 | 1 | 22 | 38 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 0 | 0 |
 
 # Shown Order
 
@@ -6696,4 +6696,3 @@
 - **Sep 21, 09:42 AM** - House Intel Committee props up FY26 funding for NRO commercial imagery buys (breaking_defense)
 - **Sep 21, 09:57 AM** - President Trump’s Golden Dome: golden dream or black nightmare? (spacenews)
 - **Sep 21, 10:42 AM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
-- **Sep 21, 10:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
