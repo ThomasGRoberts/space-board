@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 23 | 45 |
-| nyt | 0 | 4 | 21 | 46 |
+| nyt | 0 | 4 | 22 | 47 |
 | breaking_defense | 0 | 0 | 22 | 44 |
 | supercluster | 1 | 1 | 45 | 45 |
 
@@ -6761,3 +6761,4 @@
 - **Sep 21, 05:55 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Sep 21, 05:57 PM** - SSC to finish ‘system delta’ reorg next month (breaking_defense)
 - **Sep 21, 06:11 PM** - Josef Aschbacher on geopolitics and Europe’s changing space debate (spacenews)
+- **Sep 21, 06:25 PM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
