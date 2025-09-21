@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 22 | 46 |
 | nyt | 0 | 4 | 22 | 44 |
-| breaking_defense | 0 | 1 | 22 | 42 |
+| breaking_defense | 0 | 1 | 23 | 43 |
 | supercluster | 1 | 1 | 31 | 31 |
 
 # Shown Order
@@ -6739,3 +6739,4 @@
 - **Sep 21, 03:52 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Sep 21, 03:53 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Sep 21, 03:55 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Sep 21, 03:57 PM** - SSC to finish ‘system delta’ reorg next month (breaking_defense)
