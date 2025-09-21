@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 23 | 46 |
-| nyt | 0 | 4 | 21 | 44 |
+| nyt | 0 | 4 | 22 | 45 |
 | breaking_defense | 0 | 0 | 22 | 42 |
 | supercluster | 1 | 1 | 31 | 31 |
 
@@ -6741,3 +6741,4 @@
 - **Sep 21, 03:55 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Sep 21, 03:57 PM** - SSC to finish ‘system delta’ reorg next month (breaking_defense)
 - **Sep 21, 04:13 PM** - EchoStar eyes satcom expansion after ‘forced pivot’ from spectrum sales (spacenews)
+- **Sep 21, 04:27 PM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
