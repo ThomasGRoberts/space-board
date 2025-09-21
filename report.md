@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 22 | 43 |
 | nyt | 0 | 4 | 22 | 41 |
-| breaking_defense | 0 | 1 | 22 | 39 |
-| supercluster | 1 | 1 | 5 | 5 |
+| breaking_defense | 0 | 1 | 21 | 39 |
+| supercluster | 1 | 1 | 6 | 6 |
 
 # Shown Order
 
@@ -6704,3 +6704,4 @@
 - **Sep 21, 12:27 PM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
 - **Sep 21, 12:43 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Sep 21, 12:45 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Sep 21, 12:47 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
