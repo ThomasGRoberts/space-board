@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 23 | 42 |
 | nyt | 2 | 4 | 23 | 40 |
-| supercluster | 0 | 1 | 146 | 219 |
+| supercluster | 0 | 1 | 147 | 220 |
 | breaking_defense | 0 | 1 | 22 | 38 |
 
 # Shown Order
@@ -6900,3 +6900,4 @@
 - **Sep 21, 04:45 AM** - Small GEO strategies diverge around vertical integration (spacenews)
 - **Sep 21, 04:59 AM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
 - **Sep 21, 05:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 21, 05:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
