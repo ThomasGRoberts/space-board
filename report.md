@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 23 | 42 |
 | nyt | 2 | 4 | 23 | 40 |
-| supercluster | 0 | 1 | 145 | 197 |
+| supercluster | 0 | 1 | 146 | 198 |
 | breaking_defense | 0 | 1 | 22 | 38 |
 
 # Shown Order
@@ -6869,3 +6869,4 @@
 - **Sep 21, 01:22 AM** - Beyond ‘potpourri’ of sensors: Saltzman pushes holistic approach to space domain awareness (breaking_defense)
 - **Sep 21, 01:37 AM** - GHGSat announces $34 million in equity and debt financing (spacenews)
 - **Sep 21, 01:52 AM** - Earth Has a New ‘Quasi-Moon,’ and It May Be Very Tiny (nyt)
+- **Sep 21, 02:10 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
