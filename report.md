@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 23 | 42 |
-| nyt | 0 | 4 | 22 | 39 |
+| nyt | 0 | 4 | 23 | 40 |
 | supercluster | 0 | 1 | 152 | 246 |
 | breaking_defense | 0 | 1 | 22 | 38 |
 
@@ -6938,3 +6938,4 @@
 - **Sep 21, 08:38 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 21, 08:39 AM** - Beyond ‘potpourri’ of sensors: Saltzman pushes holistic approach to space domain awareness (breaking_defense)
 - **Sep 21, 08:55 AM** - Lone Star space: How Texas can revitalize its galactic industry (spacenews)
+- **Sep 21, 09:11 AM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
