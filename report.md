@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 3 | 22 | 45 |
-| nyt | 0 | 2 | 22 | 46 |
+| nyt | 0 | 2 | 22 | 45 |
 | breaking_defense | 0 | 0 | 22 | 44 |
-| supercluster | 1 | 1 | 61 | 61 |
+| supercluster | 1 | 1 | 62 | 62 |
 
 # Shown Order
 
@@ -6784,3 +6784,4 @@
 - **Sep 21, 08:27 PM** - A Tiny Quasi-Moon is Following Earth Around the Sun (nyt)
 - **Sep 21, 08:44 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Sep 21, 08:45 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Sep 21, 08:48 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
