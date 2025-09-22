@@ -5,7 +5,7 @@
 | spacenews | 4 | 4 | 22 | 44 |
 | nyt | 1 | 1 | 21 | 44 |
 | breaking_defense | 4 | 4 | 22 | 44 |
-| supercluster | 1 | 1 | 12 | 12 |
+| supercluster | 1 | 1 | 13 | 13 |
 
 # Shown Order
 
@@ -6800,3 +6800,4 @@
 - **Sep 22, 07:49 PM** - Why the U.S. Might Lose the Space Race (nyt)
 - **Sep 22, 08:03 PM** - Space Force will own next-gen neighborhood watch sats, based on commercial tech (breaking_defense)
 - **Sep 22, 08:18 PM** - Falcon 9 launch pushes NRO satellite fleet past 200 in orbit (spacenews)
+- **Sep 22, 08:35 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
