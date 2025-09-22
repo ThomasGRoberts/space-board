@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 6 | 23 | 46 |
-| nyt | 1 | 1 | 21 | 43 |
+| nyt | 1 | 1 | 22 | 44 |
 | breaking_defense | 4 | 4 | 21 | 43 |
 | supercluster | 1 | 1 | 26 | 26 |
 
@@ -6819,3 +6819,4 @@
 - **Sep 22, 10:02 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 22, 10:03 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 22, 10:05 PM** - SES moves to iterative MEO deployment with K2 Space partnership (spacenews)
+- **Sep 22, 10:21 PM** - Earth Has a New ‘Quasi-Moon,’ and It May Be Very Tiny (nyt)
