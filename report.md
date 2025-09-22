@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 124 | 124 |
+| supercluster | 1 | 1 | 125 | 125 |
 | spacenews | 0 | 1 | 22 | 44 |
 | nyt | 0 | 2 | 22 | 45 |
 | breaking_defense | 0 | 0 | 22 | 44 |
@@ -6874,3 +6874,4 @@
 - **Sep 22, 06:02 AM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
 - **Sep 22, 06:28 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Sep 22, 06:29 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Sep 22, 06:32 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
