@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 136 | 136 |
 | spacenews | 0 | 1 | 22 | 45 |
-| nyt | 0 | 2 | 21 | 44 |
+| nyt | 0 | 2 | 22 | 45 |
 | breaking_defense | 0 | 0 | 22 | 44 |
 
 # Shown Order
@@ -6891,3 +6891,4 @@
 - **Sep 22, 07:46 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Sep 22, 07:48 AM** - Space Force cell explores reorg to push commercial data to military (breaking_defense)
 - **Sep 22, 08:07 AM** - Novaspace and the Occitanie Region Launch the Inaugural Space Summit for a Resilient Future in 2026 (spacenews)
+- **Sep 22, 08:22 AM** - Earth Has a New ‘Quasi-Moon,’ and It May Be Very Tiny (nyt)
