@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 0 | 1 | 161 | 164 |
-| spacenews | 1 | 2 | 23 | 46 |
-| nyt | 0 | 0 | 23 | 44 |
+| spacenews | 1 | 2 | 23 | 45 |
+| nyt | 0 | 0 | 23 | 45 |
 | breaking_defense | 0 | 0 | 23 | 45 |
 
 # Shown Order
@@ -6931,3 +6931,4 @@
 - **Sep 22, 11:49 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Sep 22, 11:52 AM** - The Earth Observation industry’s biggest threat isn’t China, it’s Washington (breaking_defense)
 - **Sep 22, 12:08 PM** - Military spending and direct-to-device competition are reshaping the space economy (spacenews)
+- **Sep 22, 12:27 PM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
