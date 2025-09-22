@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 4 | 22 | 44 |
 | nyt | 1 | 1 | 22 | 44 |
-| breaking_defense | 3 | 3 | 21 | 44 |
+| breaking_defense | 3 | 3 | 22 | 44 |
 | supercluster | 1 | 1 | 5 | 5 |
 
 # Shown Order
@@ -6788,3 +6788,4 @@
 - **Sep 22, 06:45 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 22, 06:47 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 22, 06:49 PM** - NASA Picks 10 New Astronauts as Focus Shifts to the Moon and Mars (nyt)
+- **Sep 22, 07:07 PM** - Space Force to get NOAA antennas to supplement Satellite Control Network (breaking_defense)
