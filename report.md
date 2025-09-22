@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 94 | 94 |
 | spacenews | 0 | 2 | 23 | 45 |
-| nyt | 0 | 2 | 22 | 45 |
+| nyt | 0 | 2 | 23 | 46 |
 | breaking_defense | 0 | 0 | 22 | 44 |
 
 # Shown Order
@@ -6831,3 +6831,4 @@
 - **Sep 22, 01:02 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Sep 22, 01:06 AM** - SSC to finish ‘system delta’ reorg next month (breaking_defense)
 - **Sep 22, 01:20 AM** - U.S., UK Space Commands execute first joint satellite maneuvers (spacenews)
+- **Sep 22, 01:35 AM** - A Tiny Quasi-Moon is Following Earth Around the Sun (nyt)
