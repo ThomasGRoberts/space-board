@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 4 | 22 | 44 |
+| spacenews | 6 | 6 | 23 | 45 |
 | nyt | 1 | 1 | 21 | 43 |
 | breaking_defense | 4 | 4 | 22 | 44 |
 | supercluster | 1 | 1 | 19 | 19 |
@@ -6807,3 +6807,4 @@
 - **Sep 22, 08:44 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 22, 08:45 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 22, 08:47 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
+- **Sep 22, 08:49 PM** - Air Force Secretary warns of ‘Sputnik moment’ as U.S. faces China’s rapid military advances (spacenews)
