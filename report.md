@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 6 | 23 | 45 |
+| spacenews | 6 | 6 | 24 | 46 |
 | nyt | 1 | 1 | 21 | 43 |
 | breaking_defense | 4 | 4 | 21 | 44 |
 | supercluster | 1 | 1 | 26 | 26 |
@@ -6818,3 +6818,4 @@
 - **Sep 22, 09:59 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 22, 10:02 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 22, 10:03 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
+- **Sep 22, 10:05 PM** - SES moves to iterative MEO deployment with K2 Space partnership (spacenews)
