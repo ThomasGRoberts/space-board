@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 142 | 142 |
+| supercluster | 1 | 1 | 143 | 143 |
 | spacenews | 0 | 1 | 22 | 44 |
 | nyt | 0 | 2 | 22 | 45 |
 | breaking_defense | 0 | 0 | 21 | 43 |
@@ -6898,3 +6898,4 @@
 - **Sep 22, 08:46 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Sep 22, 08:47 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Sep 22, 08:49 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Sep 22, 08:52 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
