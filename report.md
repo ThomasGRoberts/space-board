@@ -5,7 +5,7 @@
 | spacenews | 6 | 6 | 23 | 45 |
 | nyt | 1 | 1 | 21 | 43 |
 | breaking_defense | 4 | 4 | 22 | 44 |
-| supercluster | 1 | 1 | 19 | 19 |
+| supercluster | 1 | 1 | 20 | 20 |
 
 # Shown Order
 
@@ -6811,3 +6811,4 @@
 - **Sep 22, 09:06 PM** - NASA selects new astronaut class (spacenews)
 - **Sep 22, 09:22 PM** - A Tiny Quasi-Moon is Following Earth Around the Sun (nyt)
 - **Sep 22, 09:35 PM** - For Golden Dome to work, it needs to be put to the test (breaking_defense)
+- **Sep 22, 09:52 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
