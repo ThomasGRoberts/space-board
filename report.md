@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 143 | 143 |
 | spacenews | 0 | 1 | 22 | 45 |
-| nyt | 0 | 0 | 21 | 43 |
+| nyt | 0 | 0 | 22 | 44 |
 | breaking_defense | 0 | 0 | 22 | 44 |
 
 # Shown Order
@@ -6901,3 +6901,4 @@
 - **Sep 22, 08:52 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Sep 22, 08:53 AM** - Beyond ‘potpourri’ of sensors: Saltzman pushes holistic approach to space domain awareness (breaking_defense)
 - **Sep 22, 09:09 AM** - ReOrbit raises 45 million euros to increase spacecraft production (spacenews)
+- **Sep 22, 09:24 AM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
