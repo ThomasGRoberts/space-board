@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 122 | 122 |
+| supercluster | 1 | 1 | 123 | 123 |
 | spacenews | 0 | 1 | 22 | 44 |
 | nyt | 0 | 2 | 22 | 45 |
 | breaking_defense | 0 | 0 | 22 | 44 |
@@ -6872,3 +6872,4 @@
 - **Sep 22, 05:26 AM** - EXCLUSIVE: DoD envisions prize competition for boost-phase SBI prototypes (breaking_defense)
 - **Sep 22, 05:42 AM** - Laser communications supplier Mynaric signals recovery after production setbacks (spacenews)
 - **Sep 22, 06:02 AM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
+- **Sep 22, 06:28 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
