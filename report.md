@@ -5,7 +5,7 @@
 | spacenews | 4 | 4 | 22 | 44 |
 | nyt | 1 | 1 | 21 | 44 |
 | breaking_defense | 4 | 4 | 22 | 44 |
-| supercluster | 1 | 1 | 14 | 14 |
+| supercluster | 1 | 1 | 15 | 15 |
 
 # Shown Order
 
@@ -6802,3 +6802,4 @@
 - **Sep 22, 08:18 PM** - Falcon 9 launch pushes NRO satellite fleet past 200 in orbit (spacenews)
 - **Sep 22, 08:35 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 22, 08:37 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
+- **Sep 22, 08:39 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
