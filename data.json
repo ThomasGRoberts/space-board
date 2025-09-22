@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-22T00:02:21.861690+00:00",
-    "trigger_count": 6,
-    "current_item_id": "cd40800130b8c4b12f1d1876dd1cdc3e",
+    "trigger_count": 0,
+    "current_item_id": "770e05f91c486e46aff0d1a2da86cc62",
     "data": [
         {
             "id": "8f10ff8bc1a8195ff014ab6edbd8f367",
@@ -12382,6 +12382,18 @@
             "fetched_datetime": "2025-09-22T20:03:46.373947Z",
             "shown_at": [
                 "2025-09-22T20:03:46.894028Z"
+            ]
+        },
+        {
+            "id": "770e05f91c486e46aff0d1a2da86cc62",
+            "source": "spacenews",
+            "text": "Falcon 9 launch pushes NRO satellite fleet past 200 in orbit",
+            "source_link": "https://spacenews.com/falcon-9-launch-pushes-nro-satellite-fleet-past-200-in-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-22T20:17:59.379588Z",
+            "shown_at": [
+                "2025-09-22T20:18:00.355417Z"
             ]
         }
     ]
