@@ -5,7 +5,7 @@
 | spacenews | 3 | 3 | 22 | 44 |
 | nyt | 1 | 1 | 21 | 43 |
 | breaking_defense | 3 | 3 | 22 | 44 |
-| supercluster | 1 | 1 | 7 | 7 |
+| supercluster | 1 | 1 | 8 | 8 |
 
 # Shown Order
 
@@ -6792,3 +6792,4 @@
 - **Sep 22, 07:22 PM** - Novaspace Recognizes 2025 Excellence Award Winners in Satellite Connectivity, Earth Observation, and Startup Challenge at World Space Business Week (spacenews)
 - **Sep 22, 07:35 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 22, 07:37 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
+- **Sep 22, 07:39 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
