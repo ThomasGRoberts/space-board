@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 157 | 157 |
 | spacenews | 0 | 1 | 22 | 45 |
 | nyt | 0 | 0 | 22 | 44 |
-| breaking_defense | 0 | 0 | 22 | 44 |
+| breaking_defense | 0 | 0 | 23 | 45 |
 
 # Shown Order
 
@@ -6919,3 +6919,4 @@
 - **Sep 22, 10:45 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Sep 22, 10:47 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Sep 22, 10:50 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Sep 22, 10:51 AM** - House Intel Committee props up FY26 funding for NRO commercial imagery buys (breaking_defense)
