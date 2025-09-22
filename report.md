@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 6 | 23 | 45 |
 | nyt | 1 | 1 | 21 | 44 |
-| breaking_defense | 4 | 4 | 21 | 43 |
+| breaking_defense | 4 | 4 | 22 | 44 |
 | supercluster | 1 | 1 | 19 | 19 |
 
 # Shown Order
@@ -6810,3 +6810,4 @@
 - **Sep 22, 08:49 PM** - Air Force Secretary warns of ‘Sputnik moment’ as U.S. faces China’s rapid military advances (spacenews)
 - **Sep 22, 09:06 PM** - NASA selects new astronaut class (spacenews)
 - **Sep 22, 09:22 PM** - A Tiny Quasi-Moon is Following Earth Around the Sun (nyt)
+- **Sep 22, 09:35 PM** - For Golden Dome to work, it needs to be put to the test (breaking_defense)
