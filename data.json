@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-22T00:02:21.861690+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a04fa8bf15663c491b1ba8c8877b0bef",
+    "trigger_count": 0,
+    "current_item_id": "5f7864cb64715a4a67dfe656919ec076",
     "data": [
         {
             "id": "8f10ff8bc1a8195ff014ab6edbd8f367",
@@ -12420,9 +12420,12 @@
             "source": "spacenews",
             "text": "NASA selects new astronaut class",
             "source_link": "https://spacenews.com/nasa-selects-new-astronaut-class/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-09-22T20:49:42.404229Z"
+            "fetched_datetime": "2025-09-22T20:49:42.404229Z",
+            "shown_at": [
+                "2025-09-22T21:06:04.024477Z"
+            ]
         }
     ]
 }
