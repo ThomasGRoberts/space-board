@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 122 | 122 |
 | spacenews | 0 | 2 | 22 | 45 |
 | nyt | 0 | 2 | 22 | 45 |
-| breaking_defense | 0 | 0 | 22 | 43 |
+| breaking_defense | 0 | 0 | 23 | 44 |
 
 # Shown Order
 
@@ -6869,3 +6869,4 @@
 - **Sep 22, 05:17 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Sep 22, 05:19 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Sep 22, 05:22 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Sep 22, 05:26 AM** - EXCLUSIVE: DoD envisions prize competition for boost-phase SBI prototypes (breaking_defense)
