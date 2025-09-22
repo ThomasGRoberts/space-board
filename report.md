@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 101 | 101 |
+| supercluster | 1 | 1 | 102 | 102 |
 | spacenews | 0 | 2 | 22 | 45 |
-| nyt | 0 | 2 | 22 | 46 |
+| nyt | 0 | 2 | 22 | 45 |
 | breaking_defense | 0 | 0 | 22 | 44 |
 
 # Shown Order
@@ -6842,3 +6842,4 @@
 - **Sep 22, 02:08 AM** - EXCLUSIVE: DoD envisions prize competition for boost-phase SBI prototypes (breaking_defense)
 - **Sep 22, 02:25 AM** - Educating customers may be half the battle for nascent hyperspectral sector (spacenews)
 - **Sep 22, 02:42 AM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
+- **Sep 22, 02:57 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
