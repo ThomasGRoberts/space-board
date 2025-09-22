@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-22T00:02:21.861690+00:00",
-    "trigger_count": 1,
-    "current_item_id": "e41d3412d827e1d1d6b00b4cf3697247",
+    "trigger_count": 2,
+    "current_item_id": "f5e5b027685a644735114adcbaf17faf",
     "data": [
         {
             "id": "8f10ff8bc1a8195ff014ab6edbd8f367",
@@ -12333,15 +12333,18 @@
             ]
         },
         {
-            "id": "e41d3412d827e1d1d6b00b4cf3697247",
+            "id": "f5e5b027685a644735114adcbaf17faf",
             "source": "supercluster",
-            "text": "SpaceX Will Launch Classified NRO Mission",
-            "source_link": "https://www.supercluster.com/launches/nrol-48",
-            "shown": false,
+            "text": "Rocket Lab Will Launch Classified Suborbital Mission",
+            "source_link": "https://www.supercluster.com/launches/jenna",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-09-22T17:38:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-09-22T18:38:01.203265Z"
+            "target_datetime": "2025-09-22T23:45:00.000Z",
+            "time_remaining": "0d 05h 04m",
+            "fetched_datetime": "2025-09-22T18:40:04.342590Z",
+            "shown_at": [
+                "2025-09-22T18:40:05.274422Z"
+            ]
         }
     ]
 }
