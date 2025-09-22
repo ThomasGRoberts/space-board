@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 115 | 115 |
 | spacenews | 0 | 2 | 22 | 45 |
-| nyt | 0 | 2 | 22 | 45 |
+| nyt | 0 | 2 | 23 | 46 |
 | breaking_defense | 0 | 0 | 22 | 44 |
 
 # Shown Order
@@ -6861,3 +6861,4 @@
 - **Sep 22, 04:15 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Sep 22, 04:17 AM** - EXCLUSIVE: DoD envisions prize competition for boost-phase SBI prototypes (breaking_defense)
 - **Sep 22, 04:32 AM** - Astra plans mid-2026 first launch of Rocket 4 (spacenews)
+- **Sep 22, 04:47 AM** - Why the U.S. Might Lose the Space Race (nyt)
