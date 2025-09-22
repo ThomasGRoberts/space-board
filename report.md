@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 164 | 164 |
 | spacenews | 1 | 2 | 23 | 45 |
 | nyt | 0 | 0 | 23 | 44 |
-| breaking_defense | 0 | 0 | 23 | 44 |
+| breaking_defense | 0 | 0 | 24 | 45 |
 
 # Shown Order
 
@@ -6929,3 +6929,4 @@
 - **Sep 22, 11:45 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Sep 22, 11:48 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Sep 22, 11:49 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Sep 22, 11:52 AM** - The Earth Observation industry’s biggest threat isn’t China, it’s Washington (breaking_defense)
