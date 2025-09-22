@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 0 | 1 | 161 | 171 |
 | spacenews | 2 | 3 | 23 | 46 |
-| nyt | 0 | 0 | 23 | 44 |
+| nyt | 0 | 0 | 24 | 45 |
 | breaking_defense | 0 | 0 | 23 | 45 |
 
 # Shown Order
@@ -6941,3 +6941,4 @@
 - **Sep 22, 12:57 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Sep 22, 12:59 PM** - The Earth Observation industry’s biggest threat isn’t China, it’s Washington (breaking_defense)
 - **Sep 22, 01:13 PM** - A double standard about contamination is keeping us from verifying signs of Martian life  (spacenews)
+- **Sep 22, 01:27 PM** - Earth Has a New ‘Quasi-Moon,’ and It May Be Very Tiny (nyt)
