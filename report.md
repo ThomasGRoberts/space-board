@@ -5,6 +5,7 @@
 | spacenews | 3 | 4 | 23 | 46 |
 | nyt | 0 | 0 | 22 | 44 |
 | breaking_defense | 3 | 3 | 23 | 45 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -6781,3 +6782,4 @@
 - **Sep 22, 04:35 PM** - NATO investing $728M in new space capabilities, including a new ‘data lake’ (breaking_defense)
 - **Sep 22, 04:50 PM** - Earth Has a New ‘Quasi-Moon,’ and It May Be Very Tiny (nyt)
 - **Sep 22, 05:22 PM** - Lone Star space: How Texas can revitalize its galactic industry (spacenews)
+- **Sep 22, 05:38 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
