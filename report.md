@@ -5,7 +5,7 @@
 | spacenews | 7 | 7 | 23 | 45 |
 | nyt | 1 | 1 | 21 | 43 |
 | breaking_defense | 4 | 4 | 22 | 44 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -6800,3 +6800,4 @@
 - **Sep 22, 11:39 PM** - NATO investing $728M in new space capabilities, including a new ‘data lake’ (breaking_defense)
 - **Sep 22, 11:56 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 22, 11:57 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
+- **Sep 22, 11:59 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
