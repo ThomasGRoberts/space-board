@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 0 | 1 | 161 | 178 |
-| spacenews | 2 | 3 | 23 | 45 |
+| spacenews | 2 | 3 | 23 | 46 |
 | nyt | 0 | 0 | 23 | 44 |
 | breaking_defense | 0 | 0 | 23 | 45 |
 
@@ -6950,3 +6950,4 @@
 - **Sep 22, 01:55 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Sep 22, 01:58 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Sep 22, 02:00 PM** - SSC to finish ‘system delta’ reorg next month (breaking_defense)
+- **Sep 22, 02:18 PM** - Thruster issue delays Cygnus arrival at ISS (spacenews)
