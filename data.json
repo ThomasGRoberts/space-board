@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-22T00:02:21.861690+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f5e5b027685a644735114adcbaf17faf",
+    "trigger_count": 0,
+    "current_item_id": "0ee610d1ff9ae69ef6e921089e71e702",
     "data": [
         {
             "id": "8f10ff8bc1a8195ff014ab6edbd8f367",
@@ -12348,6 +12348,18 @@
                 "2025-09-22T18:43:41.832575Z",
                 "2025-09-22T18:45:52.935730Z",
                 "2025-09-22T18:47:45.699284Z"
+            ]
+        },
+        {
+            "id": "0ee610d1ff9ae69ef6e921089e71e702",
+            "source": "nyt",
+            "text": "NASA Picks 10 New Astronauts as Focus Shifts to the Moon and Mars",
+            "source_link": "https://www.nytimes.com/2025/09/22/science/nasa-new-astronauts.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-22T18:49:42.952023Z",
+            "shown_at": [
+                "2025-09-22T18:49:43.564201Z"
             ]
         }
     ]
