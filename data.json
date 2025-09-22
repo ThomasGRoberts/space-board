@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-22T00:02:21.861690+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5193470a108e6eca6448eb9dc4a91101",
+    "trigger_count": 0,
+    "current_item_id": "6769c35d9b69eee76bd464f6a584c95e",
     "data": [
         {
             "id": "e41d3412d827e1d1d6b00b4cf3697247",
@@ -12415,6 +12415,18 @@
                 "2025-06-13T21:51:38.971045Z",
                 "2025-06-14T03:13:28.651329Z",
                 "2025-06-14T05:07:35.272279Z"
+            ]
+        },
+        {
+            "id": "6769c35d9b69eee76bd464f6a584c95e",
+            "source": "spacenews",
+            "text": "Quantum Space acquires Phase Four propulsion assets",
+            "source_link": "https://spacenews.com/quantum-space-acquires-phase-four-propulsion-assets/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-22T11:07:51.133086Z",
+            "shown_at": [
+                "2025-09-22T11:07:51.831768Z"
             ]
         }
     ]
