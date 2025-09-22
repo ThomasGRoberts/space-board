@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 108 | 108 |
 | spacenews | 0 | 2 | 22 | 45 |
 | nyt | 0 | 2 | 22 | 45 |
-| breaking_defense | 0 | 0 | 22 | 43 |
+| breaking_defense | 0 | 0 | 23 | 44 |
 
 # Shown Order
 
@@ -6849,3 +6849,4 @@
 - **Sep 22, 03:08 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Sep 22, 03:11 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Sep 22, 03:13 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Sep 22, 03:15 AM** - Anduril, Impulse to demo maneuvering satellite, with sights set on Space Force missions (breaking_defense)
