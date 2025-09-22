@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 0 | 1 | 154 | 185 |
+| supercluster | 0 | 1 | 155 | 186 |
 | spacenews | 3 | 4 | 23 | 45 |
 | nyt | 0 | 0 | 23 | 45 |
 | breaking_defense | 2 | 2 | 23 | 45 |
@@ -6963,3 +6963,4 @@
 - **Sep 22, 03:21 PM** - Moog Breaks Ground on New Propulsion Clean Room to Support Satellite and Missile Growth (spacenews)
 - **Sep 22, 03:35 PM** - NRO needs AI to manage more than 200 (and counting) satellites, director says (breaking_defense)
 - **Sep 22, 03:49 PM** - A Tiny Quasi-Moon is Following Earth Around the Sun (nyt)
+- **Sep 22, 04:05 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
