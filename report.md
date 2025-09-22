@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 6 | 23 | 45 |
 | nyt | 1 | 1 | 21 | 44 |
-| breaking_defense | 4 | 4 | 21 | 43 |
+| breaking_defense | 4 | 4 | 22 | 44 |
 | supercluster | 1 | 1 | 26 | 26 |
 
 # Shown Order
@@ -6820,3 +6820,4 @@
 - **Sep 22, 10:03 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 22, 10:05 PM** - SES moves to iterative MEO deployment with K2 Space partnership (spacenews)
 - **Sep 22, 10:21 PM** - Earth Has a New ‘Quasi-Moon,’ and It May Be Very Tiny (nyt)
+- **Sep 22, 10:37 PM** - For Golden Dome to work, it needs to be put to the test (breaking_defense)
