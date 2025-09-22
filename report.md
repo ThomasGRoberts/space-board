@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 3 | 22 | 44 |
 | nyt | 1 | 1 | 22 | 44 |
-| breaking_defense | 3 | 3 | 21 | 44 |
+| breaking_defense | 4 | 4 | 22 | 44 |
 | supercluster | 1 | 1 | 12 | 12 |
 
 # Shown Order
@@ -6798,3 +6798,4 @@
 - **Sep 22, 07:45 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 22, 07:47 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 22, 07:49 PM** - Why the U.S. Might Lose the Space Race (nyt)
+- **Sep 22, 08:03 PM** - Space Force will own next-gen neighborhood watch sats, based on commercial tech (breaking_defense)
