@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 7 | 23 | 46 |
-| nyt | 1 | 1 | 21 | 43 |
+| nyt | 1 | 1 | 22 | 44 |
 | breaking_defense | 4 | 4 | 21 | 43 |
 | supercluster | 1 | 1 | 33 | 33 |
 
@@ -6829,3 +6829,4 @@
 - **Sep 22, 11:17 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 22, 11:19 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 22, 11:21 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
+- **Sep 22, 11:23 PM** - Why the U.S. Might Lose the Space Race (nyt)
