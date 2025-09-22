@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 88 | 88 |
+| supercluster | 1 | 1 | 89 | 89 |
 | spacenews | 0 | 2 | 22 | 45 |
-| nyt | 0 | 2 | 23 | 46 |
+| nyt | 0 | 2 | 22 | 46 |
 | breaking_defense | 0 | 0 | 22 | 44 |
 
 # Shown Order
@@ -6823,3 +6823,4 @@
 - **Sep 22, 12:20 AM** - Isar Aerospace prepares for second Spectrum launch (spacenews)
 - **Sep 22, 12:33 AM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
 - **Sep 22, 12:50 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Sep 22, 12:51 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
