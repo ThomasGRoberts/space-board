@@ -1,7 +1,7 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-22T00:02:21.861690+00:00",
-    "trigger_count": 0,
+    "trigger_count": 1,
     "current_item_id": "e41d3412d827e1d1d6b00b4cf3697247",
     "data": [
         {
@@ -12337,14 +12337,11 @@
             "source": "supercluster",
             "text": "SpaceX Will Launch Classified NRO Mission",
             "source_link": "https://www.supercluster.com/launches/nrol-48",
-            "shown": true,
+            "shown": false,
             "type": "launch",
             "target_datetime": "2025-09-22T17:38:00.000Z",
             "time_remaining": "",
-            "fetched_datetime": "2025-09-22T17:38:01.806232Z",
-            "shown_at": [
-                "2025-09-22T17:38:02.447988Z"
-            ]
+            "fetched_datetime": "2025-09-22T17:39:55.338994Z"
         }
     ]
 }
