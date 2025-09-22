@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 157 | 157 |
+| supercluster | 1 | 1 | 158 | 158 |
 | spacenews | 1 | 2 | 23 | 45 |
 | nyt | 0 | 0 | 23 | 45 |
 | breaking_defense | 0 | 0 | 23 | 44 |
@@ -6922,3 +6922,4 @@
 - **Sep 22, 10:51 AM** - House Intel Committee props up FY26 funding for NRO commercial imagery buys (breaking_defense)
 - **Sep 22, 11:07 AM** - Quantum Space acquires Phase Four propulsion assets (spacenews)
 - **Sep 22, 11:23 AM** - A Tiny Quasi-Moon is Following Earth Around the Sun (nyt)
+- **Sep 22, 11:37 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
