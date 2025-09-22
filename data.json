@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-22T00:02:21.861690+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e41d3412d827e1d1d6b00b4cf3697247",
+    "trigger_count": 0,
+    "current_item_id": "c41da79840191a0454ada8a166f49fd3",
     "data": [
         {
             "id": "e41d3412d827e1d1d6b00b4cf3697247",
@@ -12488,6 +12488,18 @@
             "fetched_datetime": "2025-09-22T14:34:06.202346Z",
             "shown_at": [
                 "2025-09-22T14:34:06.903466Z"
+            ]
+        },
+        {
+            "id": "c41da79840191a0454ada8a166f49fd3",
+            "source": "spacenews",
+            "text": "Moog Breaks Ground on New Propulsion Clean Room to Support Satellite and Missile Growth",
+            "source_link": "https://spacenews.com/moog-breaks-ground-on-new-propulsion-clean-room-to-support-satellite-and-missile-growth/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-22T15:21:54.296150Z",
+            "shown_at": [
+                "2025-09-22T15:21:55.123611Z"
             ]
         }
     ]
