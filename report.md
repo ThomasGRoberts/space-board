@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 6 | 23 | 45 |
+| spacenews | 7 | 7 | 24 | 46 |
 | nyt | 1 | 1 | 21 | 43 |
 | breaking_defense | 4 | 4 | 22 | 44 |
 | supercluster | 1 | 1 | 26 | 26 |
@@ -6821,3 +6821,4 @@
 - **Sep 22, 10:05 PM** - SES moves to iterative MEO deployment with K2 Space partnership (spacenews)
 - **Sep 22, 10:21 PM** - Earth Has a New ‘Quasi-Moon,’ and It May Be Very Tiny (nyt)
 - **Sep 22, 10:37 PM** - For Golden Dome to work, it needs to be put to the test (breaking_defense)
+- **Sep 22, 10:52 PM** - Lockheed Martin delivers 21 satellites for next launch of U.S. military ‘Transport Layer’ (spacenews)

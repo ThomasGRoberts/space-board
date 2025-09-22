@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-22T00:02:21.861690+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2932378e5b9ab18ebbb2ff0eb757d86e",
+    "trigger_count": 0,
+    "current_item_id": "d08630ee44c69647f62229762b7526cd",
     "data": [
         {
             "id": "8f10ff8bc1a8195ff014ab6edbd8f367",
@@ -12437,6 +12437,18 @@
             "fetched_datetime": "2025-09-22T20:49:42.404229Z",
             "shown_at": [
                 "2025-09-22T21:06:04.024477Z"
+            ]
+        },
+        {
+            "id": "d08630ee44c69647f62229762b7526cd",
+            "source": "spacenews",
+            "text": "Lockheed Martin delivers 21 satellites for next launch of U.S. military ‘Transport Layer’",
+            "source_link": "https://spacenews.com/lockheed-martin-delivers-21-satellites-for-next-launch-of-u-s-military-transport-layer/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-22T22:52:17.603299Z",
+            "shown_at": [
+                "2025-09-22T22:52:18.344264Z"
             ]
         }
     ]
