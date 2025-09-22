@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 0 | 1 | 159 | 192 |
+| supercluster | 0 | 1 | 157 | 192 |
 | spacenews | 3 | 4 | 23 | 45 |
-| nyt | 0 | 0 | 22 | 44 |
+| nyt | 0 | 0 | 23 | 45 |
 | breaking_defense | 3 | 3 | 24 | 46 |
 
 # Shown Order
@@ -6972,3 +6972,4 @@
 - **Sep 22, 04:17 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Sep 22, 04:19 PM** - NASA safety panel warns Starship lunar lander could be delayed by years (spacenews)
 - **Sep 22, 04:35 PM** - NATO investing $728M in new space capabilities, including a new ‘data lake’ (breaking_defense)
+- **Sep 22, 04:50 PM** - Earth Has a New ‘Quasi-Moon,’ and It May Be Very Tiny (nyt)
