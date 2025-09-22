@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 136 | 136 |
 | spacenews | 0 | 1 | 22 | 44 |
 | nyt | 0 | 2 | 22 | 45 |
-| breaking_defense | 0 | 0 | 21 | 43 |
+| breaking_defense | 0 | 0 | 22 | 44 |
 
 # Shown Order
 
@@ -6889,3 +6889,4 @@
 - **Sep 22, 07:39 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Sep 22, 07:42 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Sep 22, 07:46 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
+- **Sep 22, 07:48 AM** - Space Force cell explores reorg to push commercial data to military (breaking_defense)
