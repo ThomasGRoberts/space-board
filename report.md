@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 129 | 129 |
 | spacenews | 0 | 1 | 22 | 45 |
-| nyt | 0 | 2 | 21 | 44 |
+| nyt | 0 | 2 | 22 | 45 |
 | breaking_defense | 0 | 0 | 22 | 44 |
 
 # Shown Order
@@ -6881,3 +6881,4 @@
 - **Sep 22, 06:42 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Sep 22, 06:43 AM** - EXCLUSIVE: DoD envisions prize competition for boost-phase SBI prototypes (breaking_defense)
 - **Sep 22, 06:57 AM** - Does Europe need a spaceplane? (spacenews)
+- **Sep 22, 07:12 AM** - Why the U.S. Might Lose the Space Race (nyt)
