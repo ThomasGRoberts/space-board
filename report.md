@@ -5,7 +5,7 @@
 | supercluster | 0 | 1 | 161 | 192 |
 | spacenews | 3 | 4 | 23 | 46 |
 | nyt | 0 | 0 | 22 | 44 |
-| breaking_defense | 2 | 2 | 23 | 45 |
+| breaking_defense | 3 | 3 | 24 | 46 |
 
 # Shown Order
 
@@ -6971,3 +6971,4 @@
 - **Sep 22, 04:15 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Sep 22, 04:17 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Sep 22, 04:19 PM** - NASA safety panel warns Starship lunar lander could be delayed by years (spacenews)
+- **Sep 22, 04:35 PM** - NATO investing $728M in new space capabilities, including a new ‘data lake’ (breaking_defense)
