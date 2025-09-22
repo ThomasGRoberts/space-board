@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 129 | 129 |
-| spacenews | 0 | 1 | 21 | 44 |
+| spacenews | 0 | 1 | 22 | 45 |
 | nyt | 0 | 2 | 22 | 45 |
 | breaking_defense | 0 | 0 | 22 | 44 |
 
@@ -6880,3 +6880,4 @@
 - **Sep 22, 06:39 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Sep 22, 06:42 AM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Sep 22, 06:43 AM** - EXCLUSIVE: DoD envisions prize competition for boost-phase SBI prototypes (breaking_defense)
+- **Sep 22, 06:57 AM** - Does Europe need a spaceplane? (spacenews)
