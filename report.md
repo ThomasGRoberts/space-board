@@ -5,7 +5,7 @@
 | supercluster | 0 | 1 | 161 | 185 |
 | spacenews | 3 | 4 | 23 | 46 |
 | nyt | 0 | 0 | 22 | 44 |
-| breaking_defense | 1 | 1 | 23 | 45 |
+| breaking_defense | 2 | 2 | 24 | 46 |
 
 # Shown Order
 
@@ -6961,3 +6961,4 @@
 - **Sep 22, 03:18 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Sep 22, 03:20 PM** - SpaceX Will Launch Classified NRO Mission (supercluster)
 - **Sep 22, 03:21 PM** - Moog Breaks Ground on New Propulsion Clean Room to Support Satellite and Missile Growth (spacenews)
+- **Sep 22, 03:35 PM** - NRO needs AI to manage more than 200 (and counting) satellites, director says (breaking_defense)
