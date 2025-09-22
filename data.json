@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-22T00:02:21.861690+00:00",
-    "trigger_count": 6,
-    "current_item_id": "86485718684b71ebb11e32b77acf436b",
+    "trigger_count": 0,
+    "current_item_id": "f7f94516e382bce644eae8cd40e96fd0",
     "data": [
         {
             "id": "e41d3412d827e1d1d6b00b4cf3697247",
@@ -12468,6 +12468,18 @@
             "fetched_datetime": "2025-09-22T13:13:48.688573Z",
             "shown_at": [
                 "2025-09-22T13:13:49.325279Z"
+            ]
+        },
+        {
+            "id": "f7f94516e382bce644eae8cd40e96fd0",
+            "source": "breaking_defense",
+            "text": "Space Force to get NOAA antennas to supplement Satellite Control Network",
+            "source_link": "https://breakingdefense.com/2025/09/space-force-to-get-noaa-antennas-to-supplement-overtasked-satellite-control-network/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-22T14:34:06.202346Z",
+            "shown_at": [
+                "2025-09-22T14:34:06.903466Z"
             ]
         }
     ]
