@@ -5,7 +5,7 @@
 | spacenews | 7 | 7 | 22 | 44 |
 | breaking_defense | 4 | 4 | 21 | 43 |
 | nyt | 1 | 1 | 20 | 42 |
-| supercluster | 1 | 1 | 7 | 7 |
+| supercluster | 1 | 1 | 8 | 8 |
 
 # Shown Order
 
@@ -6720,3 +6720,4 @@
 - **Sep 23, 01:32 AM** - A Tiny Quasi-Moon is Following Earth Around the Sun (nyt)
 - **Sep 23, 01:45 AM** - SSC to finish ‘system delta’ reorg next month (breaking_defense)
 - **Sep 23, 01:59 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
+- **Sep 23, 02:02 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
