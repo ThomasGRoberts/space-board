@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 8 | 22 | 44 |
+| spacenews | 8 | 8 | 23 | 45 |
 | breaking_defense | 4 | 4 | 19 | 42 |
 | nyt | 1 | 1 | 20 | 42 |
 | supercluster | 1 | 1 | 9 | 9 |
@@ -6745,3 +6745,4 @@
 - **Sep 23, 10:21 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Sep 23, 10:24 AM** - NATO investing $728M in new space capabilities, including a new ‘data lake’ (breaking_defense)
 - **Sep 23, 10:39 AM** - Earth Has a New ‘Quasi-Moon,’ and It May Be Very Tiny (nyt)
+- **Sep 23, 10:56 AM** - New military satcom services program to focus on ‘maneuverable’ small GEO satellites (spacenews)
