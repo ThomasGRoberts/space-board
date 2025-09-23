@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-23T00:02:28.276433+00:00",
-    "trigger_count": 4,
-    "current_item_id": "8c1952d3985da717fab1095874780bcb",
+    "trigger_count": 5,
+    "current_item_id": "b4d5802bbb8e7b4ebfcc93cf7000c0e9",
     "data": [
         {
             "id": "d08630ee44c69647f62229762b7526cd",
@@ -12238,17 +12238,17 @@
             ]
         },
         {
-            "id": "8c1952d3985da717fab1095874780bcb",
+            "id": "b4d5802bbb8e7b4ebfcc93cf7000c0e9",
             "source": "supercluster",
-            "text": "China Will Launch the Jielong-3 Rocket",
-            "source_link": "https://www.supercluster.com/launches/jielong-3f",
+            "text": "SpaceX Will Launch Missions for NASA",
+            "source_link": "https://www.supercluster.com/launches/imap-swfo-l1-glide",
             "shown": true,
             "type": "launch",
-            "target_datetime": "2025-09-23T08:15:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-09-23T09:13:49.811819Z",
+            "target_datetime": "2025-09-24T11:30:00.000Z",
+            "time_remaining": "1d 02h 14m",
+            "fetched_datetime": "2025-09-23T09:15:43.894837Z",
             "shown_at": [
-                "2025-09-23T09:13:50.405607Z"
+                "2025-09-23T09:15:44.552302Z"
             ]
         }
     ]
