@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 7 | 22 | 45 |
 | breaking_defense | 4 | 4 | 20 | 42 |
-| nyt | 1 | 1 | 20 | 42 |
+| nyt | 1 | 1 | 21 | 43 |
 | supercluster | 1 | 1 | 6 | 6 |
 
 # Shown Order
@@ -6717,3 +6717,4 @@
 - **Sep 23, 01:12 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
 - **Sep 23, 01:14 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
 - **Sep 23, 01:18 AM** - Educating customers may be half the battle for nascent hyperspectral sector (spacenews)
+- **Sep 23, 01:32 AM** - A Tiny Quasi-Moon is Following Earth Around the Sun (nyt)
