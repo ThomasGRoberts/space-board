@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 8 | 22 | 45 |
+| spacenews | 8 | 9 | 23 | 46 |
 | breaking_defense | 4 | 4 | 19 | 42 |
 | nyt | 1 | 1 | 20 | 42 |
 | supercluster | 1 | 1 | 9 | 9 |
@@ -6746,3 +6746,4 @@
 - **Sep 23, 10:24 AM** - NATO investing $728M in new space capabilities, including a new ‘data lake’ (breaking_defense)
 - **Sep 23, 10:39 AM** - Earth Has a New ‘Quasi-Moon,’ and It May Be Very Tiny (nyt)
 - **Sep 23, 10:56 AM** - New military satcom services program to focus on ‘maneuverable’ small GEO satellites (spacenews)
+- **Sep 23, 11:14 AM** - Terran Orbital Completes Delivery of Satellite Bus Platforms to Lockheed Martin for the Tranche 1 Transport Layer (spacenews)
