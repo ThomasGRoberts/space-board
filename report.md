@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 8 | 23 | 45 |
-| breaking_defense | 4 | 4 | 20 | 42 |
+| breaking_defense | 4 | 4 | 21 | 43 |
 | nyt | 1 | 1 | 20 | 42 |
 | supercluster | 1 | 1 | 13 | 13 |
 
@@ -6729,3 +6729,4 @@
 - **Sep 23, 02:14 AM** - Novaspace Recognizes 2025 Excellence Award Winners in Satellite Connectivity, Earth Observation, and Startup Challenge at World Space Business Week (spacenews)
 - **Sep 23, 02:27 AM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
 - **Sep 23, 02:44 AM** - Scaling up IRIS² to meet evolving demands (spacenews)
+- **Sep 23, 02:57 AM** - SSC to finish ‘system delta’ reorg next month (breaking_defense)
