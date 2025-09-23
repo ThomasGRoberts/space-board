@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 13 | 25 | 47 |
+| spacenews | 7 | 13 | 24 | 47 |
 | breaking_defense | 2 | 6 | 20 | 42 |
 | nyt | 0 | 1 | 20 | 41 |
-| supercluster | 2 | 2 | 66 | 66 |
+| supercluster | 2 | 2 | 67 | 67 |
 
 # Shown Order
 
@@ -6831,3 +6831,4 @@
 - **Sep 23, 08:17 PM** - SSC to finish ‘system delta’ reorg next month (breaking_defense)
 - **Sep 23, 08:32 PM** - Why the U.S. Might Lose the Space Race (nyt)
 - **Sep 23, 08:47 PM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Sep 23, 08:50 PM** - SpaceX Will Launch Missions for NASA (supercluster)
