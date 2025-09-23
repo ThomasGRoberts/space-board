@@ -5,7 +5,7 @@
 | spacenews | 8 | 8 | 23 | 45 |
 | breaking_defense | 4 | 4 | 21 | 43 |
 | nyt | 1 | 1 | 20 | 42 |
-| supercluster | 1 | 1 | 20 | 20 |
+| supercluster | 1 | 1 | 21 | 21 |
 
 # Shown Order
 
@@ -6740,3 +6740,4 @@
 - **Sep 23, 03:27 AM** - NASA Picks 10 New Astronauts as Focus Shifts to the Moon and Mars (nyt)
 - **Sep 23, 03:43 AM** - Lone Star space: How Texas can revitalize its galactic industry (spacenews)
 - **Sep 23, 03:59 AM** - House Intel Committee props up FY26 funding for NRO commercial imagery buys (breaking_defense)
+- **Sep 23, 04:15 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
