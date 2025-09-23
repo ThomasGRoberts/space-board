@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 8 | 23 | 44 |
+| spacenews | 8 | 8 | 24 | 45 |
 | breaking_defense | 4 | 4 | 20 | 42 |
 | nyt | 1 | 1 | 21 | 43 |
 | supercluster | 1 | 1 | 41 | 41 |
@@ -6768,3 +6768,4 @@
 - **Sep 23, 06:37 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
 - **Sep 23, 06:39 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
 - **Sep 23, 06:42 AM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
+- **Sep 23, 06:55 AM** - Falcon 9 launch pushes NRO satellite fleet past 200 in orbit (spacenews)
