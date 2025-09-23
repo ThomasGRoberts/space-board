@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 8 | 23 | 44 |
+| spacenews | 8 | 8 | 24 | 45 |
 | breaking_defense | 4 | 4 | 20 | 42 |
 | nyt | 1 | 1 | 21 | 43 |
 | supercluster | 1 | 1 | 48 | 48 |
@@ -6778,3 +6778,4 @@
 - **Sep 23, 07:39 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
 - **Sep 23, 07:42 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
 - **Sep 23, 07:46 AM** - Earth Has a New ‘Quasi-Moon,’ and It May Be Very Tiny (nyt)
+- **Sep 23, 08:00 AM** - ReOrbit raises 45 million euros to increase spacecraft production (spacenews)
