@@ -5,7 +5,7 @@
 | spacenews | 7 | 14 | 23 | 47 |
 | breaking_defense | 4 | 8 | 21 | 43 |
 | nyt | 0 | 1 | 20 | 41 |
-| supercluster | 2 | 2 | 79 | 79 |
+| supercluster | 2 | 2 | 80 | 80 |
 
 # Shown Order
 
@@ -6851,3 +6851,4 @@
 - **Sep 23, 10:12 PM** - Hubble Network raises $70 million to accelerate 60-satellite Bluetooth constellation (spacenews)
 - **Sep 23, 10:29 PM** - Uncertainty over satellite constellation means alternate-GPS capability up in the air as well: Official (breaking_defense)
 - **Sep 23, 10:43 PM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
+- **Sep 23, 10:57 PM** - SpaceX Will Launch Missions for NASA (supercluster)
