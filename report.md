@@ -5,7 +5,7 @@
 | spacenews | 8 | 9 | 23 | 46 |
 | breaking_defense | 4 | 4 | 19 | 42 |
 | nyt | 1 | 1 | 19 | 42 |
-| supercluster | 1 | 1 | 9 | 9 |
+| supercluster | 1 | 1 | 10 | 10 |
 
 # Shown Order
 
@@ -6747,3 +6747,4 @@
 - **Sep 23, 10:39 AM** - Earth Has a New ‘Quasi-Moon,’ and It May Be Very Tiny (nyt)
 - **Sep 23, 10:56 AM** - New military satcom services program to focus on ‘maneuverable’ small GEO satellites (spacenews)
 - **Sep 23, 11:14 AM** - Terran Orbital Completes Delivery of Satellite Bus Platforms to Lockheed Martin for the Tranche 1 Transport Layer (spacenews)
+- **Sep 23, 11:29 AM** - SpaceX Will Launch Missions for NASA (supercluster)
