@@ -5,7 +5,7 @@
 | spacenews | 8 | 8 | 23 | 45 |
 | breaking_defense | 4 | 4 | 21 | 43 |
 | nyt | 1 | 1 | 20 | 42 |
-| supercluster | 1 | 1 | 27 | 27 |
+| supercluster | 1 | 1 | 28 | 28 |
 
 # Shown Order
 
@@ -6750,3 +6750,4 @@
 - **Sep 23, 04:32 AM** - NASA Picks 10 New Astronauts as Focus Shifts to the Moon and Mars (nyt)
 - **Sep 23, 04:47 AM** - Astra plans mid-2026 first launch of Rocket 4 (spacenews)
 - **Sep 23, 05:02 AM** - NATO investing $728M in new space capabilities, including a new ‘data lake’ (breaking_defense)
+- **Sep 23, 05:17 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
