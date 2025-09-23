@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 12 | 24 | 47 |
+| spacenews | 9 | 12 | 24 | 46 |
 | breaking_defense | 2 | 5 | 19 | 41 |
 | nyt | 1 | 1 | 20 | 42 |
-| supercluster | 2 | 2 | 51 | 51 |
+| supercluster | 2 | 2 | 52 | 52 |
 
 # Shown Order
 
@@ -6808,3 +6808,4 @@
 - **Sep 23, 05:27 PM** - Firefly looks to resume Alpha launches soon (spacenews)
 - **Sep 23, 05:43 PM** - The Break Out: A Golden Dome prize pool and Project Octopus [VIDEO] (breaking_defense)
 - **Sep 23, 05:57 PM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
+- **Sep 23, 06:13 PM** - SpaceX Will Launch Missions for NASA (supercluster)
