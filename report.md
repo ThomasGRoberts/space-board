@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 13 | 26 | 47 |
-| breaking_defense | 2 | 6 | 19 | 41 |
+| breaking_defense | 2 | 6 | 20 | 42 |
 | nyt | 0 | 1 | 19 | 41 |
 | supercluster | 2 | 2 | 65 | 65 |
 
@@ -6828,3 +6828,4 @@
 - **Sep 23, 07:56 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Sep 23, 07:59 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Sep 23, 08:02 PM** - Space Force chief calls for speed over perfection in weapons buying (spacenews)
+- **Sep 23, 08:17 PM** - SSC to finish ‘system delta’ reorg next month (breaking_defense)
