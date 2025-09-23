@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 7 | 22 | 44 |
-| breaking_defense | 4 | 4 | 21 | 43 |
+| breaking_defense | 4 | 4 | 20 | 43 |
 | nyt | 1 | 1 | 20 | 42 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -6712,3 +6712,4 @@
 - **Sep 22, 11:39 PM** - NATO investing $728M in new space capabilities, including a new ‘data lake’ (breaking_defense)
 - **Sep 23, 01:02 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
 - **Sep 23, 01:05 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
+- **Sep 23, 01:07 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
