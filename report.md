@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 24 | 47 |
-| breaking_defense | 4 | 8 | 21 | 42 |
+| breaking_defense | 4 | 8 | 22 | 43 |
 | nyt | 0 | 1 | 19 | 41 |
 | supercluster | 2 | 2 | 86 | 86 |
 
@@ -6859,3 +6859,4 @@
 - **Sep 23, 11:10 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Sep 23, 11:11 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Sep 23, 11:13 PM** - Chinese spacecraft image Maxar remote sensing and U.S. early warning satellites (spacenews)
+- **Sep 23, 11:28 PM** - NRO needs AI to manage more than 200 (and counting) satellites, director says (breaking_defense)
