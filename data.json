@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-23T00:02:28.276433+00:00",
-    "trigger_count": 0,
-    "current_item_id": "f5e5b027685a644735114adcbaf17faf",
+    "trigger_count": 1,
+    "current_item_id": "8c1952d3985da717fab1095874780bcb",
     "data": [
         {
             "id": "d08630ee44c69647f62229762b7526cd",
@@ -12206,15 +12206,18 @@
             ]
         },
         {
-            "id": "f5e5b027685a644735114adcbaf17faf",
+            "id": "8c1952d3985da717fab1095874780bcb",
             "source": "supercluster",
-            "text": "Rocket Lab Will Launch Classified Suborbital Mission",
-            "source_link": "https://www.supercluster.com/launches/jenna",
-            "shown": false,
+            "text": "China Will Launch the Jielong-3 Rocket",
+            "source_link": "https://www.supercluster.com/launches/jielong-3f",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-09-23T00:00:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-09-23T00:59:55.257958Z"
+            "target_datetime": "2025-09-23T08:15:00.000Z",
+            "time_remaining": "0d 07h 12m",
+            "fetched_datetime": "2025-09-23T01:02:19.152257Z",
+            "shown_at": [
+                "2025-09-23T01:02:19.898284Z"
+            ]
         }
     ]
 }
