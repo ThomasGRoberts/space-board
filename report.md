@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 14 | 23 | 47 |
+| spacenews | 8 | 15 | 24 | 48 |
 | breaking_defense | 4 | 8 | 21 | 42 |
 | nyt | 0 | 1 | 20 | 41 |
 | supercluster | 2 | 2 | 86 | 86 |
@@ -6858,3 +6858,4 @@
 - **Sep 23, 11:07 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Sep 23, 11:10 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Sep 23, 11:11 PM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Sep 23, 11:13 PM** - Chinese spacecraft image Maxar remote sensing and U.S. early warning satellites (spacenews)
