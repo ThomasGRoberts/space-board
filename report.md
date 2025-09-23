@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 14 | 23 | 47 |
+| spacenews | 8 | 14 | 24 | 48 |
 | breaking_defense | 4 | 8 | 21 | 42 |
 | nyt | 0 | 1 | 20 | 41 |
 | supercluster | 2 | 2 | 79 | 79 |
@@ -6848,3 +6848,4 @@
 - **Sep 23, 10:05 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
 - **Sep 23, 10:07 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
 - **Sep 23, 10:09 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
+- **Sep 23, 10:12 PM** - Hubble Network raises $70 million to accelerate 60-satellite Bluetooth constellation (spacenews)
