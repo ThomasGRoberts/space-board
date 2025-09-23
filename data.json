@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-23T00:02:28.276433+00:00",
-    "trigger_count": 6,
-    "current_item_id": "16e90d6a0420cf7c7201c992a2384505",
+    "trigger_count": 0,
+    "current_item_id": "36e5808995bd00c33c9dbe6ab482d737",
     "data": [
         {
             "id": "d08630ee44c69647f62229762b7526cd",
@@ -12234,6 +12234,18 @@
                 "2025-09-23T02:07:55.755375Z",
                 "2025-09-23T02:09:40.479528Z",
                 "2025-09-23T02:12:02.079945Z"
+            ]
+        },
+        {
+            "id": "36e5808995bd00c33c9dbe6ab482d737",
+            "source": "spacenews",
+            "text": "Scaling up IRIS² to meet evolving demands",
+            "source_link": "https://spacenews.com/scaling-up-iris%c2%b2-to-meet-evolving-demands/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-23T02:43:58.872967Z",
+            "shown_at": [
+                "2025-09-23T02:44:00.241871Z"
             ]
         }
     ]
