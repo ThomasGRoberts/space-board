@@ -5,7 +5,7 @@
 | spacenews | 8 | 8 | 23 | 44 |
 | breaking_defense | 4 | 4 | 19 | 41 |
 | nyt | 1 | 1 | 20 | 42 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -6736,3 +6736,4 @@
 - **Sep 23, 09:19 AM** - NRO needs AI to manage more than 200 (and counting) satellites, director says (breaking_defense)
 - **Sep 23, 09:37 AM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
 - **Sep 23, 09:53 AM** - NASA selects new astronaut class (spacenews)
+- **Sep 23, 10:09 AM** - SpaceX Will Launch Missions for NASA (supercluster)
