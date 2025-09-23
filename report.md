@@ -5,7 +5,7 @@
 | spacenews | 8 | 14 | 24 | 47 |
 | breaking_defense | 4 | 8 | 21 | 43 |
 | nyt | 0 | 1 | 20 | 41 |
-| supercluster | 2 | 2 | 74 | 74 |
+| supercluster | 2 | 2 | 75 | 75 |
 
 # Shown Order
 
@@ -6843,3 +6843,4 @@
 - **Sep 23, 09:44 PM** - Why the U.S. Might Lose the Space Race (nyt)
 - **Sep 23, 09:57 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
 - **Sep 23, 09:59 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
+- **Sep 23, 10:02 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
