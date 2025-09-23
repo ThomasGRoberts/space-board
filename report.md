@@ -5,7 +5,7 @@
 | spacenews | 8 | 8 | 23 | 45 |
 | breaking_defense | 4 | 4 | 21 | 43 |
 | nyt | 1 | 1 | 20 | 42 |
-| supercluster | 1 | 1 | 14 | 14 |
+| supercluster | 1 | 1 | 15 | 15 |
 
 # Shown Order
 
@@ -6731,3 +6731,4 @@
 - **Sep 23, 02:44 AM** - Scaling up IRIS² to meet evolving demands (spacenews)
 - **Sep 23, 02:57 AM** - SSC to finish ‘system delta’ reorg next month (breaking_defense)
 - **Sep 23, 03:13 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
+- **Sep 23, 03:15 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
