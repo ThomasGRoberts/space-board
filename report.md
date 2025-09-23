@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 13 | 25 | 47 |
 | breaking_defense | 3 | 6 | 20 | 42 |
-| nyt | 0 | 1 | 19 | 41 |
+| nyt | 0 | 1 | 20 | 41 |
 | supercluster | 2 | 2 | 58 | 58 |
 
 # Shown Order
@@ -6819,3 +6819,4 @@
 - **Sep 23, 06:43 PM** - Space Force cell explores reorg to push commercial data to military (breaking_defense)
 - **Sep 23, 06:58 PM** - Space Force chief calls for speed over perfection in weapons buying (spacenews)
 - **Sep 23, 07:12 PM** - Uncertainty over satellite constellation means alternate-GPS capability up in the air as well: Official (breaking_defense)
+- **Sep 23, 07:28 PM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
