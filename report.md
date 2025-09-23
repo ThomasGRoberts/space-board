@@ -5,7 +5,7 @@
 | spacenews | 10 | 11 | 24 | 47 |
 | breaking_defense | 4 | 4 | 19 | 42 |
 | nyt | 1 | 1 | 19 | 42 |
-| supercluster | 2 | 2 | 17 | 17 |
+| supercluster | 2 | 2 | 18 | 18 |
 
 # Shown Order
 
@@ -6759,3 +6759,4 @@
 - **Sep 23, 12:17 PM** - To Protect the Nation, the Golden Dome Must Be Capable of Protecting Itself (spacenews)
 - **Sep 23, 12:32 PM** - A Tiny Quasi-Moon is Following Earth Around the Sun (nyt)
 - **Sep 23, 12:45 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
+- **Sep 23, 12:47 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
