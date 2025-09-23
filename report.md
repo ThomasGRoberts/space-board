@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 11 | 24 | 47 |
+| spacenews | 10 | 12 | 25 | 48 |
 | breaking_defense | 3 | 4 | 18 | 41 |
 | nyt | 1 | 1 | 19 | 42 |
 | supercluster | 2 | 2 | 37 | 37 |
@@ -6785,3 +6785,4 @@
 - **Sep 23, 02:59 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Sep 23, 03:02 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Sep 23, 03:05 PM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Sep 23, 03:07 PM** - Building Missile Defense Readiness through Composites and Domestic Supply Chain Coordination (spacenews)

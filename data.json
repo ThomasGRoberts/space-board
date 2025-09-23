@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-23T00:02:28.276433+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b4d5802bbb8e7b4ebfcc93cf7000c0e9",
+    "trigger_count": 0,
+    "current_item_id": "d6e7686a84b0c96dc7d637028914469c",
     "data": [
         {
             "id": "d08630ee44c69647f62229762b7526cd",
@@ -12348,6 +12348,18 @@
                 "2025-09-23T12:53:39.563595Z",
                 "2025-09-23T12:55:34.438058Z",
                 "2025-09-23T12:58:05.478983Z"
+            ]
+        },
+        {
+            "id": "d6e7686a84b0c96dc7d637028914469c",
+            "source": "spacenews",
+            "text": "Building Missile Defense Readiness through Composites and Domestic Supply Chain Coordination",
+            "source_link": "https://spacenews.com/building-missile-defense-readiness-through-composites-and-domestic-supply-chain-coordination/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-23T15:07:45.322602Z",
+            "shown_at": [
+                "2025-09-23T15:07:45.984798Z"
             ]
         }
     ]
