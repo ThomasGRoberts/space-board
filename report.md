@@ -6731,4 +6731,4 @@
 - **Sep 23, 07:12 AM** - Space Force will own next-gen neighborhood watch sats, based on commercial tech (breaking_defense)
 - **Sep 23, 07:46 AM** - Earth Has a New ‘Quasi-Moon,’ and It May Be Very Tiny (nyt)
 - **Sep 23, 08:00 AM** - ReOrbit raises 45 million euros to increase spacecraft production (spacenews)
-- **Sep 23, 08:51 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
+- **Sep 23, 08:53 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
