@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 12 | 24 | 47 |
-| breaking_defense | 2 | 5 | 18 | 41 |
+| breaking_defense | 2 | 5 | 19 | 42 |
 | nyt | 1 | 1 | 19 | 41 |
 | supercluster | 2 | 2 | 51 | 51 |
 
@@ -6806,3 +6806,4 @@
 - **Sep 23, 05:09 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Sep 23, 05:11 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Sep 23, 05:27 PM** - Firefly looks to resume Alpha launches soon (spacenews)
+- **Sep 23, 05:43 PM** - The Break Out: A Golden Dome prize pool and Project Octopus [VIDEO] (breaking_defense)
