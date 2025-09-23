@@ -5,7 +5,7 @@
 | spacenews | 8 | 8 | 23 | 45 |
 | breaking_defense | 4 | 4 | 20 | 43 |
 | nyt | 1 | 1 | 20 | 42 |
-| supercluster | 1 | 1 | 22 | 22 |
+| supercluster | 1 | 1 | 23 | 23 |
 
 # Shown Order
 
@@ -6742,3 +6742,4 @@
 - **Sep 23, 03:59 AM** - House Intel Committee props up FY26 funding for NRO commercial imagery buys (breaking_defense)
 - **Sep 23, 04:15 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
 - **Sep 23, 04:17 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
+- **Sep 23, 04:20 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
