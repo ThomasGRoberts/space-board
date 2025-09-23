@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 12 | 24 | 47 |
+| spacenews | 9 | 12 | 25 | 48 |
 | breaking_defense | 2 | 4 | 18 | 41 |
 | nyt | 1 | 1 | 19 | 42 |
 | supercluster | 2 | 2 | 44 | 44 |
@@ -6795,3 +6795,4 @@
 - **Sep 23, 04:05 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Sep 23, 04:07 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Sep 23, 04:10 PM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Sep 23, 04:12 PM** - Small GEO strategies diverge around vertical integration (spacenews)
