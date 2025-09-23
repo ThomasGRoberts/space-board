@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 13 | 25 | 47 |
 | breaking_defense | 2 | 6 | 20 | 42 |
-| nyt | 0 | 1 | 19 | 40 |
+| nyt | 0 | 1 | 20 | 41 |
 | supercluster | 2 | 2 | 65 | 65 |
 
 # Shown Order
@@ -6829,3 +6829,4 @@
 - **Sep 23, 07:59 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Sep 23, 08:02 PM** - Space Force chief calls for speed over perfection in weapons buying (spacenews)
 - **Sep 23, 08:17 PM** - SSC to finish ‘system delta’ reorg next month (breaking_defense)
+- **Sep 23, 08:32 PM** - Why the U.S. Might Lose the Space Race (nyt)
