@@ -5,7 +5,7 @@
 | spacenews | 8 | 8 | 23 | 45 |
 | breaking_defense | 4 | 4 | 21 | 43 |
 | nyt | 1 | 1 | 20 | 42 |
-| supercluster | 1 | 1 | 42 | 42 |
+| supercluster | 1 | 1 | 43 | 43 |
 
 # Shown Order
 
@@ -6771,3 +6771,4 @@
 - **Sep 23, 06:55 AM** - Falcon 9 launch pushes NRO satellite fleet past 200 in orbit (spacenews)
 - **Sep 23, 07:12 AM** - Space Force will own next-gen neighborhood watch sats, based on commercial tech (breaking_defense)
 - **Sep 23, 07:28 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
+- **Sep 23, 07:30 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
