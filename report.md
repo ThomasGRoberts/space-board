@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 11 | 23 | 47 |
+| spacenews | 9 | 11 | 24 | 47 |
 | breaking_defense | 4 | 4 | 19 | 42 |
 | nyt | 1 | 1 | 19 | 42 |
 | supercluster | 2 | 2 | 23 | 23 |
@@ -6766,3 +6766,4 @@
 - **Sep 23, 12:55 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
 - **Sep 23, 12:58 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
 - **Sep 23, 12:59 PM** - House Intel Committee props up FY26 funding for NRO commercial imagery buys (breaking_defense)
+- **Sep 23, 01:15 PM** - Does Europe need a spaceplane? (spacenews)
