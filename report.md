@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 24 | 47 |
-| breaking_defense | 4 | 8 | 21 | 43 |
+| breaking_defense | 4 | 8 | 21 | 42 |
 | nyt | 0 | 1 | 20 | 41 |
-| supercluster | 2 | 2 | 75 | 75 |
+| supercluster | 2 | 2 | 76 | 76 |
 
 # Shown Order
 
@@ -6844,3 +6844,4 @@
 - **Sep 23, 09:57 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
 - **Sep 23, 09:59 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
 - **Sep 23, 10:02 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
+- **Sep 23, 10:03 PM** - China Will Launch the Jielong-3 Rocket (supercluster)
