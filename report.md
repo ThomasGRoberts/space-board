@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 8 | 22 | 44 |
+| spacenews | 8 | 8 | 23 | 45 |
 | breaking_defense | 4 | 4 | 20 | 42 |
 | nyt | 1 | 1 | 21 | 43 |
 | supercluster | 1 | 1 | 27 | 27 |
@@ -6748,3 +6748,4 @@
 - **Sep 23, 04:27 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
 - **Sep 23, 04:29 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
 - **Sep 23, 04:32 AM** - NASA Picks 10 New Astronauts as Focus Shifts to the Moon and Mars (nyt)
+- **Sep 23, 04:47 AM** - Astra plans mid-2026 first launch of Rocket 4 (spacenews)
