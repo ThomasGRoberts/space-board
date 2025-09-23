@@ -6775,3 +6775,4 @@
 - **Sep 23, 01:53 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Sep 23, 01:56 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Sep 23, 01:59 PM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Sep 23, 02:02 PM** - Space Force cell explores reorg to push commercial data to military (breaking_defense)
