@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 24 | 47 |
 | breaking_defense | 4 | 8 | 21 | 43 |
-| nyt | 0 | 1 | 19 | 40 |
+| nyt | 0 | 1 | 20 | 41 |
 | supercluster | 2 | 2 | 72 | 72 |
 
 # Shown Order
@@ -6840,3 +6840,4 @@
 - **Sep 23, 09:02 PM** - U.S. military sees China’s reusable rocket push as a space security concern (spacenews)
 - **Sep 23, 09:15 PM** - Photos: Day 2 of AFA’s Air, Space & Cyber Conference (breaking_defense)
 - **Sep 23, 09:29 PM** - Day 2 of AFA’s Air, Space & Cyber Conference [Photos] (breaking_defense)
+- **Sep 23, 09:44 PM** - Why the U.S. Might Lose the Space Race (nyt)
