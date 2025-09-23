@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-23T00:02:28.276433+00:00",
-    "trigger_count": 6,
-    "current_item_id": "48c8216de7821ca9179eed0a3b403a10",
+    "trigger_count": 0,
+    "current_item_id": "8fd8a73f36cac250ae6f6e84f8fcbd92",
     "data": [
         {
             "id": "d08630ee44c69647f62229762b7526cd",
@@ -12283,6 +12283,18 @@
             "fetched_datetime": "2025-09-23T11:14:02.290445Z",
             "shown_at": [
                 "2025-09-23T11:14:02.972145Z"
+            ]
+        },
+        {
+            "id": "8fd8a73f36cac250ae6f6e84f8fcbd92",
+            "source": "spacenews",
+            "text": "Firefly looks to resume Alpha launches soon",
+            "source_link": "https://spacenews.com/firefly-looks-to-resume-alpha-launches-soon/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-23T11:59:54.028288Z",
+            "shown_at": [
+                "2025-09-23T11:59:54.879300Z"
             ]
         }
     ]
