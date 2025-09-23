@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 13 | 25 | 47 |
 | breaking_defense | 3 | 6 | 20 | 42 |
-| nyt | 0 | 1 | 20 | 41 |
-| supercluster | 2 | 2 | 62 | 62 |
+| nyt | 0 | 1 | 19 | 41 |
+| supercluster | 2 | 2 | 63 | 63 |
 
 # Shown Order
 
@@ -6824,3 +6824,4 @@
 - **Sep 23, 07:45 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Sep 23, 07:47 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Sep 23, 07:49 PM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Sep 23, 07:52 PM** - SpaceX Will Launch Missions for NASA (supercluster)
