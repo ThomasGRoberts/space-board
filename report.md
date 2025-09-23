@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 12 | 24 | 47 |
-| breaking_defense | 2 | 4 | 18 | 42 |
+| breaking_defense | 2 | 4 | 18 | 41 |
 | nyt | 1 | 1 | 19 | 42 |
-| supercluster | 2 | 2 | 39 | 39 |
+| supercluster | 2 | 2 | 40 | 40 |
 
 # Shown Order
 
@@ -6790,3 +6790,4 @@
 - **Sep 23, 03:39 PM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
 - **Sep 23, 03:55 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Sep 23, 03:57 PM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Sep 23, 03:59 PM** - SpaceX Will Launch Missions for NASA (supercluster)
