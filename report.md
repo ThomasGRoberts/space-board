@@ -5,7 +5,7 @@
 | spacenews | 7 | 7 | 22 | 44 |
 | breaking_defense | 4 | 4 | 21 | 43 |
 | nyt | 1 | 1 | 20 | 42 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -6711,3 +6711,4 @@
 - **Sep 22, 11:23 PM** - Why the U.S. Might Lose the Space Race (nyt)
 - **Sep 22, 11:39 PM** - NATO investing $728M in new space capabilities, including a new ‘data lake’ (breaking_defense)
 - **Sep 23, 01:02 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
+- **Sep 23, 01:05 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
