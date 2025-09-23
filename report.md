@@ -5,7 +5,7 @@
 | spacenews | 7 | 7 | 23 | 45 |
 | breaking_defense | 4 | 4 | 21 | 44 |
 | nyt | 1 | 1 | 21 | 43 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 0 | 0 |
 
 # Shown Order
 
@@ -6710,4 +6710,3 @@
 - **Sep 22, 10:52 PM** - Lockheed Martin delivers 21 satellites for next launch of U.S. military ‘Transport Layer’ (spacenews)
 - **Sep 22, 11:23 PM** - Why the U.S. Might Lose the Space Race (nyt)
 - **Sep 22, 11:39 PM** - NATO investing $728M in new space capabilities, including a new ‘data lake’ (breaking_defense)
-- **Sep 23, 12:02 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
