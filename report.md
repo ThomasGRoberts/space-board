@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 12 | 24 | 47 |
-| breaking_defense | 2 | 5 | 18 | 42 |
+| breaking_defense | 2 | 5 | 18 | 41 |
 | nyt | 1 | 1 | 19 | 42 |
-| supercluster | 2 | 2 | 45 | 45 |
+| supercluster | 2 | 2 | 46 | 46 |
 
 # Shown Order
 
@@ -6799,3 +6799,4 @@
 - **Sep 23, 04:25 PM** - Space Force working on future operations plan to guide investment (breaking_defense)
 - **Sep 23, 04:43 PM** - Why the U.S. Might Lose the Space Race (nyt)
 - **Sep 23, 04:57 PM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Sep 23, 04:59 PM** - SpaceX Will Launch Missions for NASA (supercluster)
