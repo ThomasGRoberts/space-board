@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 8 | 22 | 44 |
-| breaking_defense | 4 | 4 | 19 | 41 |
+| breaking_defense | 4 | 4 | 20 | 42 |
 | nyt | 1 | 1 | 20 | 41 |
 | supercluster | 1 | 1 | 2 | 2 |
 
@@ -6733,3 +6733,4 @@
 - **Sep 23, 08:00 AM** - ReOrbit raises 45 million euros to increase spacecraft production (spacenews)
 - **Sep 23, 09:15 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Sep 23, 09:17 AM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Sep 23, 09:19 AM** - NRO needs AI to manage more than 200 (and counting) satellites, director says (breaking_defense)
