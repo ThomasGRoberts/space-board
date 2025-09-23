@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 11 | 24 | 47 |
-| breaking_defense | 4 | 4 | 19 | 42 |
-| nyt | 1 | 1 | 19 | 42 |
+| breaking_defense | 3 | 4 | 18 | 42 |
+| nyt | 1 | 1 | 20 | 42 |
 | supercluster | 2 | 2 | 30 | 30 |
 
 # Shown Order
@@ -6777,3 +6777,4 @@
 - **Sep 23, 01:59 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Sep 23, 02:02 PM** - Space Force cell explores reorg to push commercial data to military (breaking_defense)
 - **Sep 23, 02:19 PM** - ReOrbit raises 45 million euros to increase spacecraft production (spacenews)
+- **Sep 23, 02:35 PM** - Why the U.S. Might Lose the Space Race (nyt)
