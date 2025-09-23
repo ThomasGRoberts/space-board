@@ -5,7 +5,7 @@
 | spacenews | 8 | 8 | 23 | 45 |
 | breaking_defense | 4 | 4 | 21 | 43 |
 | nyt | 1 | 1 | 20 | 42 |
-| supercluster | 1 | 1 | 34 | 34 |
+| supercluster | 1 | 1 | 35 | 35 |
 
 # Shown Order
 
@@ -6760,3 +6760,4 @@
 - **Sep 23, 05:35 AM** - NASA Picks 10 New Astronauts as Focus Shifts to the Moon and Mars (nyt)
 - **Sep 23, 05:52 AM** - Astro Digital to plug into Star Catcher solar-energy grid (spacenews)
 - **Sep 23, 06:09 AM** - Space Force to get NOAA antennas to supplement Satellite Control Network (breaking_defense)
+- **Sep 23, 06:26 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
