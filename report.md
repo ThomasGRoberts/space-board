@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 12 | 25 | 47 |
-| breaking_defense | 2 | 5 | 19 | 41 |
+| breaking_defense | 2 | 5 | 20 | 42 |
 | nyt | 1 | 1 | 20 | 41 |
 | supercluster | 2 | 2 | 58 | 58 |
 
@@ -6816,3 +6816,4 @@
 - **Sep 23, 06:25 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Sep 23, 06:27 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Sep 23, 06:29 PM** - Launch startup iSpace secures fresh funding as hot fire tests heat up China’s reusable rocket race (spacenews)
+- **Sep 23, 06:43 PM** - Space Force cell explores reorg to push commercial data to military (breaking_defense)
