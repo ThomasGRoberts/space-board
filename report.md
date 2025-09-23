@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 24 | 47 |
-| breaking_defense | 3 | 7 | 21 | 42 |
+| breaking_defense | 4 | 8 | 22 | 43 |
 | nyt | 0 | 1 | 19 | 41 |
 | supercluster | 2 | 2 | 72 | 72 |
 
@@ -6839,3 +6839,4 @@
 - **Sep 23, 09:00 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Sep 23, 09:02 PM** - U.S. military sees China’s reusable rocket push as a space security concern (spacenews)
 - **Sep 23, 09:15 PM** - Photos: Day 2 of AFA’s Air, Space & Cyber Conference (breaking_defense)
+- **Sep 23, 09:29 PM** - Day 2 of AFA’s Air, Space & Cyber Conference [Photos] (breaking_defense)

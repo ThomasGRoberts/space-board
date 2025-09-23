@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-23T00:02:28.276433+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5fe19d820e9826a382cb5889d7a8c85d",
+    "trigger_count": 0,
+    "current_item_id": "a1d3329c73e1da7fb7f9bf74ed06471d",
     "data": [
         {
             "id": "d08630ee44c69647f62229762b7526cd",
@@ -12468,6 +12468,18 @@
             "fetched_datetime": "2025-09-23T21:15:46.903949Z",
             "shown_at": [
                 "2025-09-23T21:15:47.505287Z"
+            ]
+        },
+        {
+            "id": "a1d3329c73e1da7fb7f9bf74ed06471d",
+            "source": "breaking_defense",
+            "text": "Day 2 of AFA’s Air, Space & Cyber Conference [Photos]",
+            "source_link": "https://breakingdefense.com/2025/09/photos-day-2-of-afas-air-space-cyber-conference/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-23T21:29:42.655893Z",
+            "shown_at": [
+                "2025-09-23T21:29:43.359773Z"
             ]
         }
     ]
