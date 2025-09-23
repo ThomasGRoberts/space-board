@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 12 | 24 | 47 |
 | breaking_defense | 2 | 5 | 18 | 42 |
-| nyt | 1 | 1 | 19 | 41 |
+| nyt | 1 | 1 | 20 | 42 |
 | supercluster | 2 | 2 | 44 | 44 |
 
 # Shown Order
@@ -6797,3 +6797,4 @@
 - **Sep 23, 04:10 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Sep 23, 04:12 PM** - Small GEO strategies diverge around vertical integration (spacenews)
 - **Sep 23, 04:25 PM** - Space Force working on future operations plan to guide investment (breaking_defense)
+- **Sep 23, 04:43 PM** - Why the U.S. Might Lose the Space Race (nyt)
