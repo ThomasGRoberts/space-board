@@ -6805,3 +6805,4 @@
 - **Sep 23, 05:07 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Sep 23, 05:09 PM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Sep 23, 05:11 PM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Sep 23, 05:27 PM** - Firefly looks to resume Alpha launches soon (spacenews)
