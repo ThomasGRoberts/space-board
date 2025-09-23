@@ -5,7 +5,7 @@
 | spacenews | 10 | 13 | 25 | 47 |
 | breaking_defense | 3 | 6 | 20 | 42 |
 | nyt | 0 | 1 | 20 | 41 |
-| supercluster | 2 | 2 | 59 | 59 |
+| supercluster | 2 | 2 | 60 | 60 |
 
 # Shown Order
 
@@ -6821,3 +6821,4 @@
 - **Sep 23, 07:12 PM** - Uncertainty over satellite constellation means alternate-GPS capability up in the air as well: Official (breaking_defense)
 - **Sep 23, 07:28 PM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
 - **Sep 23, 07:43 PM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Sep 23, 07:45 PM** - SpaceX Will Launch Missions for NASA (supercluster)
