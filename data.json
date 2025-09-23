@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-23T00:02:28.276433+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8fd8a73f36cac250ae6f6e84f8fcbd92",
+    "trigger_count": 0,
+    "current_item_id": "71e3492a2479a6cd70f1ca4e6764a64d",
     "data": [
         {
             "id": "d08630ee44c69647f62229762b7526cd",
@@ -12295,6 +12295,18 @@
             "fetched_datetime": "2025-09-23T11:59:54.028288Z",
             "shown_at": [
                 "2025-09-23T11:59:54.879300Z"
+            ]
+        },
+        {
+            "id": "71e3492a2479a6cd70f1ca4e6764a64d",
+            "source": "spacenews",
+            "text": "To Protect the Nation, the Golden Dome Must Be Capable of Protecting Itself",
+            "source_link": "https://spacenews.com/to-protect-the-nation-the-golden-dome-must-be-capable-of-protecting-itself/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-23T12:17:56.194341Z",
+            "shown_at": [
+                "2025-09-23T12:17:57.856085Z"
             ]
         }
     ]

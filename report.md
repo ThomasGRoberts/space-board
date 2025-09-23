@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 10 | 23 | 46 |
+| spacenews | 10 | 11 | 24 | 47 |
 | breaking_defense | 4 | 4 | 19 | 42 |
 | nyt | 1 | 1 | 19 | 42 |
 | supercluster | 1 | 1 | 16 | 16 |
@@ -6756,3 +6756,4 @@
 - **Sep 23, 11:43 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Sep 23, 11:45 AM** - Beyond ‘potpourri’ of sensors: Saltzman pushes holistic approach to space domain awareness (breaking_defense)
 - **Sep 23, 11:59 AM** - Firefly looks to resume Alpha launches soon (spacenews)
+- **Sep 23, 12:17 PM** - To Protect the Nation, the Golden Dome Must Be Capable of Protecting Itself (spacenews)
