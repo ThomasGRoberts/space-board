@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 18 | 26 | 48 |
-| breaking_defense | 4 | 8 | 23 | 42 |
-| supercluster | 0 | 1 | 108 | 114 |
+| breaking_defense | 4 | 8 | 24 | 43 |
+| supercluster | 0 | 1 | 107 | 114 |
 | nyt | 0 | 1 | 21 | 41 |
 
 # Shown Order
@@ -6728,3 +6728,4 @@
 - **Sep 24, 10:12 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Sep 24, 10:13 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Sep 24, 10:16 AM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Sep 24, 10:17 AM** - Day 2 of AFA’s Air, Space & Cyber Conference [Photos] (breaking_defense)
