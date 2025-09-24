@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-24T00:02:18.714574+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0ee610d1ff9ae69ef6e921089e71e702",
+    "trigger_count": 0,
+    "current_item_id": "883a6af360113d75a827ebdd6b03c65b",
     "data": [
         {
             "id": "b34f289639d8635801c1ae2110e0940b",
@@ -12152,6 +12152,18 @@
             "fetched_datetime": "2025-09-24T12:42:11.880347Z",
             "shown_at": [
                 "2025-09-24T12:42:12.989125Z"
+            ]
+        },
+        {
+            "id": "883a6af360113d75a827ebdd6b03c65b",
+            "source": "spacenews",
+            "text": "We’re cluttering Earth’s orbit at record speed. Who’s going to clean it up?",
+            "source_link": "https://spacenews.com/were-cluttering-earths-orbit-at-record-speed-whos-going-to-clean-it-up/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-24T13:13:46.779989Z",
+            "shown_at": [
+                "2025-09-24T13:13:47.409718Z"
             ]
         }
     ]
