@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 19 | 26 | 50 |
 | breaking_defense | 3 | 6 | 22 | 43 |
-| nyt | 1 | 1 | 21 | 41 |
-| supercluster | 1 | 1 | 46 | 46 |
+| nyt | 1 | 1 | 21 | 40 |
+| supercluster | 1 | 1 | 47 | 47 |
 
 # Shown Order
 
@@ -6692,3 +6692,4 @@
 - **Sep 24, 08:38 PM** - NATO investing $728M in new space capabilities, including a new ‘data lake’ (breaking_defense)
 - **Sep 24, 08:52 PM** - ESCAPADE launch on New Glenn planned for late October or early November (spacenews)
 - **Sep 24, 09:10 PM** - Next chapter in space defense: Satellites that never stop moving (spacenews)
+- **Sep 24, 09:23 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
