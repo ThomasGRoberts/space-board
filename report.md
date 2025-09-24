@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 17 | 23 | 47 |
+| spacenews | 8 | 18 | 24 | 48 |
 | breaking_defense | 4 | 8 | 23 | 42 |
 | nyt | 0 | 1 | 20 | 39 |
 | supercluster | 1 | 1 | 4 | 4 |
@@ -6622,3 +6622,4 @@
 - **Sep 24, 12:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 24, 12:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 24, 12:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 24, 12:42 PM** - ESA backs Skynopy to bring adaptive modulation to Earth observation satellites (spacenews)

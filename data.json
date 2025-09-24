@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-24T00:02:18.714574+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "7bdc64940bc451816e21fdb2ec0baa2c",
     "data": [
         {
             "id": "b34f289639d8635801c1ae2110e0940b",
@@ -12139,6 +12139,18 @@
                 "2025-09-24T12:35:49.719699Z",
                 "2025-09-24T12:37:26.862433Z",
                 "2025-09-24T12:39:45.871113Z"
+            ]
+        },
+        {
+            "id": "7bdc64940bc451816e21fdb2ec0baa2c",
+            "source": "spacenews",
+            "text": "ESA backs Skynopy to bring adaptive modulation to Earth observation satellites",
+            "source_link": "https://spacenews.com/esa-backs-skynopy-to-bring-adaptive-modulation-to-earth-observation-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-24T12:42:11.880347Z",
+            "shown_at": [
+                "2025-09-24T12:42:12.989125Z"
             ]
         }
     ]
