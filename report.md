@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 19 | 26 | 50 |
-| breaking_defense | 5 | 7 | 22 | 40 |
+| breaking_defense | 5 | 7 | 23 | 41 |
 | nyt | 1 | 2 | 21 | 40 |
 | supercluster | 1 | 1 | 18 | 18 |
 
@@ -6648,3 +6648,4 @@
 - **Sep 24, 03:42 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 24, 03:43 PM** - A Tiny Quasi-Moon is Following Earth Around the Sun (nyt)
 - **Sep 24, 03:57 PM** - A double standard about contamination is keeping us from verifying signs of Martian life  (spacenews)
+- **Sep 24, 04:11 PM** - For Golden Dome to work, it needs to be put to the test (breaking_defense)
