@@ -5,7 +5,7 @@
 | spacenews | 10 | 20 | 25 | 50 |
 | breaking_defense | 4 | 7 | 23 | 43 |
 | nyt | 1 | 1 | 21 | 41 |
-| supercluster | 1 | 1 | 39 | 39 |
+| supercluster | 1 | 1 | 40 | 40 |
 
 # Shown Order
 
@@ -6680,3 +6680,4 @@
 - **Sep 24, 07:00 PM** - A Tiny Quasi-Moon is Following Earth Around the Sun (nyt)
 - **Sep 24, 07:18 PM** - Novaspace Recognizes 2025 Excellence Award Winners in Satellite Connectivity, Earth Observation, and Startup Challenge at World Space Business Week (spacenews)
 - **Sep 24, 07:33 PM** - Space Force will own next-gen neighborhood watch sats, based on commercial tech (breaking_defense)
+- **Sep 24, 07:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
