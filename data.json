@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-24T00:02:18.714574+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9bf634f59e13e1346a98fd7a6ac874a9",
+    "trigger_count": 0,
+    "current_item_id": "c8313808f7b9d7287332566c7b674f03",
     "data": [
         {
             "id": "b34f289639d8635801c1ae2110e0940b",
@@ -12177,6 +12177,27 @@
             "shown_at": [
                 "2025-09-24T13:27:43.569601Z"
             ]
+        },
+        {
+            "id": "c8313808f7b9d7287332566c7b674f03",
+            "source": "spacenews",
+            "text": "Zeno Power secures americium-241 supply for space nuclear batteries",
+            "source_link": "https://spacenews.com/zeno-power-secures-americium-241-supply-for-space-nuclear-batteries/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-24T13:44:04.499813Z",
+            "shown_at": [
+                "2025-09-24T13:44:05.294211Z"
+            ]
+        },
+        {
+            "id": "2cb9074844c96f35351ddc32a0d012b6",
+            "source": "spacenews",
+            "text": "Falcon 9 launches three space weather missions",
+            "source_link": "https://spacenews.com/falcon-9-launches-three-space-weather-missions/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-09-24T13:44:04.499870Z"
         }
     ]
 }
