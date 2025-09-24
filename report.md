@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 20 | 25 | 50 |
-| breaking_defense | 4 | 7 | 23 | 43 |
-| nyt | 1 | 1 | 21 | 40 |
+| spacenews | 10 | 20 | 24 | 50 |
+| breaking_defense | 4 | 6 | 23 | 42 |
+| nyt | 1 | 1 | 22 | 41 |
 | supercluster | 1 | 1 | 46 | 46 |
 
 # Shown Order
@@ -6687,3 +6687,4 @@
 - **Sep 24, 07:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 24, 07:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 24, 08:02 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 24, 08:06 PM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
