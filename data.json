@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-24T00:02:18.714574+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9daf41d9b1199ab39996f915ac1e1efc",
+    "trigger_count": 0,
+    "current_item_id": "c514b7633629b6476285eeefc3158600",
     "data": [
         {
             "id": "b34f289639d8635801c1ae2110e0940b",
@@ -12307,6 +12307,18 @@
             "fetched_datetime": "2025-09-24T20:52:36.244975Z",
             "shown_at": [
                 "2025-09-24T20:52:36.944217Z"
+            ]
+        },
+        {
+            "id": "c514b7633629b6476285eeefc3158600",
+            "source": "spacenews",
+            "text": "Next chapter in space defense: Satellites that never stop moving",
+            "source_link": "https://spacenews.com/next-chapter-in-space-defense-satellites-that-never-stop-moving/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-24T21:10:02.776281Z",
+            "shown_at": [
+                "2025-09-24T21:10:03.915834Z"
             ]
         }
     ]
