@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-24T00:02:18.714574+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8d220e24b940b4fa8f18c191bb157318",
+    "trigger_count": 0,
+    "current_item_id": "033d6e3b0c46a601327d4fa997d99432",
     "data": [
         {
             "id": "b34f289639d8635801c1ae2110e0940b",
@@ -12242,6 +12242,18 @@
             "fetched_datetime": "2025-09-24T14:14:11.796805Z",
             "shown_at": [
                 "2025-09-24T14:14:12.840681Z"
+            ]
+        },
+        {
+            "id": "033d6e3b0c46a601327d4fa997d99432",
+            "source": "breaking_defense",
+            "text": "In a first, Space Force to require refueling capability for next-gen neighborhood watch sats",
+            "source_link": "https://breakingdefense.com/2025/09/in-shift-space-force-to-require-refueling-capability-for-next-gen-neighborhood-watch-sats/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-24T17:27:54.828010Z",
+            "shown_at": [
+                "2025-09-24T17:27:55.597147Z"
             ]
         }
     ]
