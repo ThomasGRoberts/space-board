@@ -5,7 +5,7 @@
 | spacenews | 9 | 17 | 25 | 48 |
 | breaking_defense | 4 | 8 | 24 | 43 |
 | nyt | 0 | 1 | 21 | 40 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 0 | 0 |
 
 # Shown Order
 
@@ -6618,4 +6618,3 @@
 - **Sep 24, 10:32 AM** - Educating customers may be half the battle for nascent hyperspectral sector (spacenews)
 - **Sep 24, 10:48 AM** - NASA Picks 10 New Astronauts as Focus Shifts to the Moon and Mars (nyt)
 - **Sep 24, 11:17 AM** - NRO needs AI to manage more than 200 (and counting) satellites, director says (breaking_defense)
-- **Sep 24, 11:35 AM** - SpaceX Will Launch Missions for NASA (supercluster)

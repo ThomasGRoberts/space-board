@@ -1,7 +1,7 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-24T00:02:18.714574+00:00",
-    "trigger_count": 0,
+    "trigger_count": 1,
     "current_item_id": "b4d5802bbb8e7b4ebfcc93cf7000c0e9",
     "data": [
         {
@@ -12129,14 +12129,11 @@
             "source": "supercluster",
             "text": "SpaceX Will Launch Missions for NASA",
             "source_link": "https://www.supercluster.com/launches/imap-swfo-l1-glide",
-            "shown": true,
+            "shown": false,
             "type": "launch",
             "target_datetime": "2025-09-24T11:30:00.000Z",
             "time_remaining": "",
-            "fetched_datetime": "2025-09-24T11:35:41.865541Z",
-            "shown_at": [
-                "2025-09-24T11:35:42.354191Z"
-            ]
+            "fetched_datetime": "2025-09-24T11:38:05.775992Z"
         }
     ]
 }
