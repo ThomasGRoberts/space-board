@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 24 | 47 |
+| spacenews | 8 | 15 | 25 | 47 |
 | breaking_defense | 4 | 8 | 21 | 42 |
 | supercluster | 2 | 2 | 93 | 93 |
 | nyt | 0 | 1 | 20 | 41 |
@@ -6678,3 +6678,4 @@
 - **Sep 24, 12:12 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Sep 24, 12:15 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Sep 24, 12:17 AM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Sep 24, 12:20 AM** - U.S. military sees China’s reusable rocket push as a space security concern (spacenews)
