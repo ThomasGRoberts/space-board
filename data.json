@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-24T00:02:18.714574+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c41da79840191a0454ada8a166f49fd3",
+    "trigger_count": 0,
+    "current_item_id": "9a28e1e286c15497ffe0050ab0a150fa",
     "data": [
         {
             "id": "b34f289639d8635801c1ae2110e0940b",
@@ -12196,6 +12196,18 @@
                 "2025-06-15T20:47:32.791641Z",
                 "2025-06-16T15:19:29.213008Z",
                 "2025-06-18T04:05:35.045657Z"
+            ]
+        },
+        {
+            "id": "9a28e1e286c15497ffe0050ab0a150fa",
+            "source": "spacenews",
+            "text": "Blue Origin only bidder for new VIPER lander award",
+            "source_link": "https://spacenews.com/blue-origin-only-bidder-for-new-viper-lander-award/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-24T02:32:24.962243Z",
+            "shown_at": [
+                "2025-09-24T02:32:25.935131Z"
             ]
         }
     ]
