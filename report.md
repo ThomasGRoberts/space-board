@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 18 | 26 | 49 |
 | breaking_defense | 4 | 8 | 23 | 42 |
-| supercluster | 1 | 1 | 100 | 100 |
+| supercluster | 1 | 1 | 101 | 101 |
 | nyt | 0 | 1 | 21 | 41 |
 
 # Shown Order
@@ -6711,3 +6711,4 @@
 - **Sep 24, 07:53 AM** - Uncertainty over satellite constellation means alternate-GPS capability up in the air as well: Official (breaking_defense)
 - **Sep 24, 08:12 AM** - Geespace secures $281 million for IoT constellation and global HQ (spacenews)
 - **Sep 24, 08:56 AM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
+- **Sep 24, 08:59 AM** - SpaceX Will Launch Missions for NASA (supercluster)
