@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 19 | 26 | 50 |
-| breaking_defense | 4 | 6 | 22 | 40 |
+| breaking_defense | 4 | 6 | 23 | 41 |
 | nyt | 1 | 2 | 21 | 40 |
 | supercluster | 1 | 1 | 25 | 25 |
 
@@ -6658,3 +6658,4 @@
 - **Sep 24, 04:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 24, 04:39 PM** - NASA Picks 10 New Astronauts as Focus Shifts to the Moon and Mars (nyt)
 - **Sep 24, 04:55 PM** - U.S. military sees China’s reusable rocket push as a space security concern (spacenews)
+- **Sep 24, 05:12 PM** - Space Force cell explores reorg to push commercial data to military (breaking_defense)
