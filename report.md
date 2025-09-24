@@ -5,7 +5,7 @@
 | spacenews | 10 | 19 | 25 | 49 |
 | breaking_defense | 5 | 7 | 23 | 42 |
 | nyt | 1 | 2 | 21 | 40 |
-| supercluster | 1 | 1 | 26 | 26 |
+| supercluster | 1 | 1 | 27 | 27 |
 
 # Shown Order
 
@@ -6661,3 +6661,4 @@
 - **Sep 24, 05:12 PM** - Space Force cell explores reorg to push commercial data to military (breaking_defense)
 - **Sep 24, 05:27 PM** - In a first, Space Force to require refueling capability for next-gen neighborhood watch sats (breaking_defense)
 - **Sep 24, 05:44 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 24, 05:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
