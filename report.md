@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 17 | 25 | 48 |
+| spacenews | 9 | 17 | 26 | 49 |
 | breaking_defense | 4 | 8 | 22 | 43 |
 | supercluster | 2 | 2 | 135 | 135 |
 | nyt | 0 | 1 | 21 | 41 |
@@ -6742,3 +6742,4 @@
 - **Sep 24, 06:49 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
 - **Sep 24, 06:52 AM** - Space Force cell explores reorg to push commercial data to military (breaking_defense)
 - **Sep 24, 07:08 AM** - Earth Has a New ‘Quasi-Moon,’ and It May Be Very Tiny (nyt)
+- **Sep 24, 07:22 AM** - Building Missile Defense Readiness through Composites and Domestic Supply Chain Coordination (spacenews)
