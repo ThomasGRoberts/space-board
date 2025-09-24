@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 18 | 24 | 48 |
 | breaking_defense | 4 | 8 | 22 | 41 |
-| nyt | 0 | 1 | 21 | 40 |
+| nyt | 1 | 2 | 22 | 41 |
 | supercluster | 1 | 1 | 4 | 4 |
 
 # Shown Order
@@ -6625,3 +6625,4 @@
 - **Sep 24, 12:42 PM** - ESA backs Skynopy to bring adaptive modulation to Earth observation satellites (spacenews)
 - **Sep 24, 12:57 PM** - NASA Picks 10 New Astronauts as Focus Shifts to the Moon and Mars (nyt)
 - **Sep 24, 01:13 PM** - We’re cluttering Earth’s orbit at record speed. Who’s going to clean it up? (spacenews)
+- **Sep 24, 01:27 PM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
