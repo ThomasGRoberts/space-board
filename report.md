@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 18 | 26 | 50 |
-| breaking_defense | 2 | 6 | 22 | 43 |
+| breaking_defense | 2 | 6 | 21 | 43 |
 | nyt | 1 | 1 | 21 | 40 |
-| supercluster | 1 | 1 | 61 | 61 |
+| supercluster | 1 | 1 | 62 | 62 |
 
 # Shown Order
 
@@ -6713,3 +6713,4 @@
 - **Sep 24, 10:56 PM** - NATO investing $728M in new space capabilities, including a new ‘data lake’ (breaking_defense)
 - **Sep 24, 11:12 PM** - Space Norway and SSTL collaborate on radar satellite program (spacenews)
 - **Sep 24, 11:27 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 24, 11:29 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
