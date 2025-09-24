@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 18 | 26 | 49 |
 | breaking_defense | 4 | 8 | 23 | 42 |
-| supercluster | 0 | 1 | 105 | 114 |
+| supercluster | 0 | 1 | 106 | 115 |
 | nyt | 0 | 1 | 21 | 41 |
 
 # Shown Order
@@ -6731,3 +6731,4 @@
 - **Sep 24, 10:17 AM** - Day 2 of AFA’s Air, Space & Cyber Conference [Photos] (breaking_defense)
 - **Sep 24, 10:32 AM** - Educating customers may be half the battle for nascent hyperspectral sector (spacenews)
 - **Sep 24, 10:48 AM** - NASA Picks 10 New Astronauts as Focus Shifts to the Moon and Mars (nyt)
+- **Sep 24, 11:02 AM** - SpaceX Will Launch Missions for NASA (supercluster)
