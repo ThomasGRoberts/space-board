@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-24T00:02:18.714574+00:00",
-    "trigger_count": 2,
-    "current_item_id": "b4d5802bbb8e7b4ebfcc93cf7000c0e9",
+    "trigger_count": 3,
+    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
     "data": [
         {
             "id": "b34f289639d8635801c1ae2110e0940b",
@@ -12125,15 +12125,18 @@
             ]
         },
         {
-            "id": "b4d5802bbb8e7b4ebfcc93cf7000c0e9",
+            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
             "source": "supercluster",
-            "text": "SpaceX Will Launch Missions for NASA",
-            "source_link": "https://www.supercluster.com/launches/imap-swfo-l1-glide",
-            "shown": false,
+            "text": "SpaceX Will Launch Starlink Satellites from Florida",
+            "source_link": "https://www.supercluster.com/launches/starlink-10-15",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-09-24T11:30:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-09-24T12:29:48.791203Z"
+            "target_datetime": "2025-09-25T08:36:00.000Z",
+            "time_remaining": "0d 20h 02m",
+            "fetched_datetime": "2025-09-24T12:33:22.202641Z",
+            "shown_at": [
+                "2025-09-24T12:33:22.855148Z"
+            ]
         }
     ]
 }
