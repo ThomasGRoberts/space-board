@@ -5,7 +5,7 @@
 | spacenews | 11 | 20 | 25 | 49 |
 | breaking_defense | 5 | 9 | 22 | 41 |
 | nyt | 1 | 2 | 21 | 40 |
-| supercluster | 1 | 1 | 4 | 4 |
+| supercluster | 1 | 1 | 5 | 5 |
 
 # Shown Order
 
@@ -6629,3 +6629,4 @@
 - **Sep 24, 01:44 PM** - Zeno Power secures americium-241 supply for space nuclear batteries (spacenews)
 - **Sep 24, 02:00 PM** - Falcon 9 launches three space weather missions (spacenews)
 - **Sep 24, 02:14 PM** - Uncertainty over satellite constellation means alt-GPS capability up in the air: Official (breaking_defense)
+- **Sep 24, 02:29 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
