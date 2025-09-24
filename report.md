@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 19 | 25 | 49 |
 | breaking_defense | 4 | 6 | 22 | 40 |
-| nyt | 1 | 2 | 21 | 40 |
+| nyt | 1 | 2 | 22 | 41 |
 | supercluster | 1 | 1 | 25 | 25 |
 
 # Shown Order
@@ -6656,3 +6656,4 @@
 - **Sep 24, 04:33 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 24, 04:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 24, 04:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 24, 04:39 PM** - NASA Picks 10 New Astronauts as Focus Shifts to the Moon and Mars (nyt)
