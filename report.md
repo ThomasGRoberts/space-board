@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 17 | 26 | 49 |
+| spacenews | 9 | 17 | 26 | 48 |
 | breaking_defense | 4 | 8 | 22 | 42 |
-| supercluster | 2 | 2 | 115 | 115 |
-| nyt | 0 | 1 | 21 | 41 |
+| supercluster | 2 | 2 | 116 | 116 |
+| nyt | 0 | 1 | 20 | 41 |
 
 # Shown Order
 
@@ -6714,3 +6714,4 @@
 - **Sep 24, 04:02 AM** - Why the U.S. Might Lose the Space Race (nyt)
 - **Sep 24, 04:17 AM** - NASA safety panel warns Starship lunar lander could be delayed by years (spacenews)
 - **Sep 24, 04:31 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
+- **Sep 24, 04:33 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
