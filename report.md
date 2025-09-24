@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 18 | 26 | 49 |
 | breaking_defense | 4 | 8 | 23 | 43 |
-| supercluster | 1 | 1 | 100 | 100 |
+| supercluster | 2 | 2 | 101 | 101 |
 | nyt | 0 | 1 | 20 | 40 |
 
 # Shown Order
@@ -6710,3 +6710,4 @@
 - **Sep 24, 07:52 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Sep 24, 07:53 AM** - Uncertainty over satellite constellation means alternate-GPS capability up in the air as well: Official (breaking_defense)
 - **Sep 24, 08:12 AM** - Geespace secures $281 million for IoT constellation and global HQ (spacenews)
+- **Sep 24, 08:28 AM** - China Will Launch the Jielong-3 Rocket (supercluster)

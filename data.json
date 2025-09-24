@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-24T00:02:18.714574+00:00",
-    "trigger_count": 6,
-    "current_item_id": "12a5e942ba1e906bf76443f8348fbf0c",
+    "trigger_count": 0,
+    "current_item_id": "8c1952d3985da717fab1095874780bcb",
     "data": [
         {
             "id": "b34f289639d8635801c1ae2110e0940b",
@@ -12227,6 +12227,20 @@
             "fetched_datetime": "2025-09-24T08:12:15.221928Z",
             "shown_at": [
                 "2025-09-24T08:12:16.609186Z"
+            ]
+        },
+        {
+            "id": "8c1952d3985da717fab1095874780bcb",
+            "source": "supercluster",
+            "text": "China Will Launch the Jielong-3 Rocket",
+            "source_link": "https://www.supercluster.com/launches/jielong-3f",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-09-24T07:55:00.000Z",
+            "time_remaining": "",
+            "fetched_datetime": "2025-09-24T08:28:06.647876Z",
+            "shown_at": [
+                "2025-09-24T08:28:07.353640Z"
             ]
         }
     ]
