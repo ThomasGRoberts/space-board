@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 24 | 47 |
+| spacenews | 8 | 15 | 25 | 47 |
 | breaking_defense | 4 | 8 | 22 | 42 |
 | supercluster | 2 | 2 | 100 | 100 |
 | nyt | 0 | 1 | 21 | 41 |
@@ -6688,3 +6688,4 @@
 - **Sep 24, 01:15 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
 - **Sep 24, 01:17 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
 - **Sep 24, 01:19 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
+- **Sep 24, 01:21 AM** - A double standard about contamination is keeping us from verifying signs of Martian life  (spacenews)
