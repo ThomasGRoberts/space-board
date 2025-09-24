@@ -5,7 +5,7 @@
 | spacenews | 8 | 16 | 25 | 48 |
 | breaking_defense | 4 | 8 | 22 | 43 |
 | supercluster | 2 | 2 | 107 | 107 |
-| nyt | 0 | 1 | 20 | 40 |
+| nyt | 0 | 1 | 21 | 41 |
 
 # Shown Order
 
@@ -6701,3 +6701,4 @@
 - **Sep 24, 02:17 AM** - Moog Breaks Ground on New Propulsion Clean Room to Support Satellite and Missile Growth (spacenews)
 - **Sep 24, 02:32 AM** - Blue Origin only bidder for new VIPER lander award (spacenews)
 - **Sep 24, 02:47 AM** - Space Force will own next-gen neighborhood watch sats, based on commercial tech (breaking_defense)
+- **Sep 24, 03:02 AM** - NASA Picks 10 New Astronauts as Focus Shifts to the Moon and Mars (nyt)
