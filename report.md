@@ -5,7 +5,7 @@
 | spacenews | 10 | 20 | 25 | 50 |
 | breaking_defense | 4 | 7 | 23 | 43 |
 | nyt | 1 | 1 | 21 | 40 |
-| supercluster | 1 | 1 | 41 | 41 |
+| supercluster | 1 | 1 | 42 | 42 |
 
 # Shown Order
 
@@ -6682,3 +6682,4 @@
 - **Sep 24, 07:33 PM** - Space Force will own next-gen neighborhood watch sats, based on commercial tech (breaking_defense)
 - **Sep 24, 07:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 24, 07:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 24, 07:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
