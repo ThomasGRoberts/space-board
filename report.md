@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 17 | 26 | 49 |
 | breaking_defense | 4 | 8 | 22 | 42 |
-| supercluster | 2 | 2 | 114 | 114 |
+| supercluster | 2 | 2 | 115 | 115 |
 | nyt | 0 | 1 | 21 | 41 |
 
 # Shown Order
@@ -6713,3 +6713,4 @@
 - **Sep 24, 03:48 AM** - Day 2 of AFA’s Air, Space & Cyber Conference [Photos] (breaking_defense)
 - **Sep 24, 04:02 AM** - Why the U.S. Might Lose the Space Race (nyt)
 - **Sep 24, 04:17 AM** - NASA safety panel warns Starship lunar lander could be delayed by years (spacenews)
+- **Sep 24, 04:31 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
