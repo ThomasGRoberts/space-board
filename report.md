@@ -5,7 +5,7 @@
 | spacenews | 10 | 18 | 26 | 50 |
 | breaking_defense | 2 | 6 | 21 | 43 |
 | nyt | 1 | 1 | 21 | 40 |
-| supercluster | 1 | 1 | 62 | 62 |
+| supercluster | 1 | 1 | 63 | 63 |
 
 # Shown Order
 
@@ -6714,3 +6714,4 @@
 - **Sep 24, 11:12 PM** - Space Norway and SSTL collaborate on radar satellite program (spacenews)
 - **Sep 24, 11:27 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 24, 11:29 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 24, 11:32 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
