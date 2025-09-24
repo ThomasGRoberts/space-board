@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 17 | 26 | 48 |
+| spacenews | 9 | 17 | 25 | 48 |
 | breaking_defense | 4 | 8 | 23 | 42 |
-| supercluster | 0 | 1 | 111 | 120 |
+| supercluster | 0 | 1 | 112 | 121 |
 | nyt | 0 | 1 | 21 | 41 |
 
 # Shown Order
@@ -6737,3 +6737,4 @@
 - **Sep 24, 11:09 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Sep 24, 11:12 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Sep 24, 11:13 AM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Sep 24, 11:15 AM** - SpaceX Will Launch Missions for NASA (supercluster)
