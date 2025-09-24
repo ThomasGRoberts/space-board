@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 19 | 25 | 50 |
-| breaking_defense | 4 | 6 | 22 | 42 |
+| breaking_defense | 4 | 6 | 23 | 43 |
 | nyt | 1 | 1 | 21 | 41 |
 | supercluster | 1 | 1 | 46 | 46 |
 
@@ -6689,3 +6689,4 @@
 - **Sep 24, 08:02 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 24, 08:06 PM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
 - **Sep 24, 08:22 PM** - Cygnus arrives at ISS after thruster glitch (spacenews)
+- **Sep 24, 08:38 PM** - NATO investing $728M in new space capabilities, including a new ‘data lake’ (breaking_defense)
