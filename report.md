@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 20 | 24 | 50 |
+| spacenews | 10 | 20 | 25 | 51 |
 | breaking_defense | 4 | 7 | 22 | 42 |
 | nyt | 1 | 1 | 22 | 41 |
 | supercluster | 1 | 1 | 39 | 39 |
@@ -6678,3 +6678,4 @@
 - **Sep 24, 06:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 24, 06:56 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 24, 07:00 PM** - A Tiny Quasi-Moon is Following Earth Around the Sun (nyt)
+- **Sep 24, 07:18 PM** - Novaspace Recognizes 2025 Excellence Award Winners in Satellite Connectivity, Earth Observation, and Startup Challenge at World Space Business Week (spacenews)
