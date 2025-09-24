@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 17 | 25 | 48 |
+| spacenews | 9 | 17 | 26 | 49 |
 | breaking_defense | 4 | 8 | 22 | 43 |
 | supercluster | 2 | 2 | 121 | 121 |
 | nyt | 0 | 1 | 21 | 41 |
@@ -6722,3 +6722,4 @@
 - **Sep 24, 04:45 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
 - **Sep 24, 04:47 AM** - Photos: Day 2 of AFA’s Air, Space & Cyber Conference (breaking_defense)
 - **Sep 24, 05:02 AM** - A Tiny Quasi-Moon is Following Earth Around the Sun (nyt)
+- **Sep 24, 05:19 AM** - Arianespace examines options to increase Ariane 6 launch rate (spacenews)
