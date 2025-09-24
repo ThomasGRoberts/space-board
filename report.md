@@ -5,7 +5,7 @@
 | spacenews | 11 | 20 | 25 | 50 |
 | breaking_defense | 5 | 7 | 24 | 43 |
 | nyt | 1 | 2 | 21 | 41 |
-| supercluster | 1 | 1 | 32 | 32 |
+| supercluster | 1 | 1 | 33 | 33 |
 
 # Shown Order
 
@@ -6670,3 +6670,4 @@
 - **Sep 24, 05:57 PM** - Earth Has a New ‘Quasi-Moon,’ and It May Be Very Tiny (nyt)
 - **Sep 24, 06:13 PM** - Space Forge and United Semiconductors to collaborate on space-based semiconductor manufacturing (spacenews)
 - **Sep 24, 06:27 PM** - Uncertainty over satellite constellation means alternate-GPS capability up in the air as well: Official (breaking_defense)
+- **Sep 24, 06:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
