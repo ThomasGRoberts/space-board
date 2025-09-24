@@ -5,7 +5,7 @@
 | spacenews | 11 | 20 | 25 | 50 |
 | breaking_defense | 5 | 7 | 23 | 43 |
 | nyt | 1 | 2 | 21 | 41 |
-| supercluster | 1 | 1 | 34 | 34 |
+| supercluster | 1 | 1 | 35 | 35 |
 
 # Shown Order
 
@@ -6672,3 +6672,4 @@
 - **Sep 24, 06:27 PM** - Uncertainty over satellite constellation means alternate-GPS capability up in the air as well: Official (breaking_defense)
 - **Sep 24, 06:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 24, 06:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 24, 06:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
