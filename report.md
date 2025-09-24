@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 19 | 25 | 49 |
-| breaking_defense | 5 | 7 | 24 | 42 |
+| breaking_defense | 5 | 7 | 23 | 42 |
 | nyt | 1 | 2 | 21 | 40 |
-| supercluster | 1 | 1 | 25 | 25 |
+| supercluster | 1 | 1 | 26 | 26 |
 
 # Shown Order
 
@@ -6660,3 +6660,4 @@
 - **Sep 24, 04:55 PM** - U.S. military sees China’s reusable rocket push as a space security concern (spacenews)
 - **Sep 24, 05:12 PM** - Space Force cell explores reorg to push commercial data to military (breaking_defense)
 - **Sep 24, 05:27 PM** - In a first, Space Force to require refueling capability for next-gen neighborhood watch sats (breaking_defense)
+- **Sep 24, 05:44 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
