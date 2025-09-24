@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-24T00:02:18.714574+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c8313808f7b9d7287332566c7b674f03",
+    "trigger_count": 0,
+    "current_item_id": "2cb9074844c96f35351ddc32a0d012b6",
     "data": [
         {
             "id": "b34f289639d8635801c1ae2110e0940b",
@@ -12195,9 +12195,12 @@
             "source": "spacenews",
             "text": "Falcon 9 launches three space weather missions",
             "source_link": "https://spacenews.com/falcon-9-launches-three-space-weather-missions/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-09-24T13:44:04.499870Z"
+            "fetched_datetime": "2025-09-24T13:44:04.499870Z",
+            "shown_at": [
+                "2025-09-24T14:00:01.477148Z"
+            ]
         }
     ]
 }
