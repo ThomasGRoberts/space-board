@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 19 | 26 | 50 |
-| breaking_defense | 2 | 6 | 21 | 42 |
+| breaking_defense | 2 | 6 | 22 | 43 |
 | nyt | 1 | 1 | 21 | 41 |
 | supercluster | 1 | 1 | 53 | 53 |
 
@@ -6700,3 +6700,4 @@
 - **Sep 24, 09:33 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 24, 09:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 24, 09:37 PM** - NASA Picks 10 New Astronauts as Focus Shifts to the Moon and Mars (nyt)
+- **Sep 24, 09:52 PM** - Uncertainty over satellite constellation means alt-GPS capability up in the air: Official (breaking_defense)
