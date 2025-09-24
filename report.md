@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 25 | 47 |
 | breaking_defense | 4 | 8 | 22 | 42 |
-| supercluster | 2 | 2 | 95 | 95 |
+| supercluster | 2 | 2 | 96 | 96 |
 | nyt | 0 | 1 | 21 | 41 |
 
 # Shown Order
@@ -6683,3 +6683,4 @@
 - **Sep 24, 12:50 AM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
 - **Sep 24, 01:05 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
 - **Sep 24, 01:07 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
+- **Sep 24, 01:11 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
