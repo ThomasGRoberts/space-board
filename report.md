@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 18 | 26 | 49 |
-| breaking_defense | 4 | 8 | 23 | 43 |
-| supercluster | 2 | 2 | 101 | 101 |
-| nyt | 0 | 1 | 20 | 40 |
+| breaking_defense | 4 | 8 | 23 | 42 |
+| supercluster | 1 | 1 | 100 | 100 |
+| nyt | 0 | 1 | 21 | 41 |
 
 # Shown Order
 
@@ -6710,4 +6710,4 @@
 - **Sep 24, 07:52 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Sep 24, 07:53 AM** - Uncertainty over satellite constellation means alternate-GPS capability up in the air as well: Official (breaking_defense)
 - **Sep 24, 08:12 AM** - Geespace secures $281 million for IoT constellation and global HQ (spacenews)
-- **Sep 24, 08:53 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
+- **Sep 24, 08:56 AM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
