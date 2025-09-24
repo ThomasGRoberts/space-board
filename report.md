@@ -5,7 +5,7 @@
 | spacenews | 9 | 17 | 25 | 48 |
 | breaking_defense | 4 | 8 | 22 | 43 |
 | supercluster | 2 | 2 | 114 | 114 |
-| nyt | 0 | 1 | 20 | 40 |
+| nyt | 0 | 1 | 21 | 41 |
 
 # Shown Order
 
@@ -6711,3 +6711,4 @@
 - **Sep 24, 03:43 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
 - **Sep 24, 03:45 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
 - **Sep 24, 03:48 AM** - Day 2 of AFA’s Air, Space & Cyber Conference [Photos] (breaking_defense)
+- **Sep 24, 04:02 AM** - Why the U.S. Might Lose the Space Race (nyt)
