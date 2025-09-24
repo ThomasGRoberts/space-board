@@ -5,7 +5,7 @@
 | spacenews | 8 | 15 | 25 | 47 |
 | breaking_defense | 4 | 8 | 22 | 43 |
 | supercluster | 2 | 2 | 93 | 93 |
-| nyt | 0 | 1 | 20 | 40 |
+| nyt | 0 | 1 | 21 | 41 |
 
 # Shown Order
 
@@ -6680,3 +6680,4 @@
 - **Sep 24, 12:17 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Sep 24, 12:20 AM** - U.S. military sees China’s reusable rocket push as a space security concern (spacenews)
 - **Sep 24, 12:35 AM** - Uncertainty over satellite constellation means alternate-GPS capability up in the air as well: Official (breaking_defense)
+- **Sep 24, 12:50 AM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
