@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 25 | 48 |
-| breaking_defense | 4 | 8 | 22 | 42 |
+| breaking_defense | 4 | 8 | 23 | 43 |
 | supercluster | 2 | 2 | 107 | 107 |
 | nyt | 0 | 1 | 20 | 40 |
 
@@ -6700,3 +6700,4 @@
 - **Sep 24, 02:16 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Sep 24, 02:17 AM** - Moog Breaks Ground on New Propulsion Clean Room to Support Satellite and Missile Growth (spacenews)
 - **Sep 24, 02:32 AM** - Blue Origin only bidder for new VIPER lander award (spacenews)
+- **Sep 24, 02:47 AM** - Space Force will own next-gen neighborhood watch sats, based on commercial tech (breaking_defense)
