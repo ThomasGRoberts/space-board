@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-24T00:02:18.714574+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0ee610d1ff9ae69ef6e921089e71e702",
+    "trigger_count": 0,
+    "current_item_id": "92c67491e45caed41d6bde5638dff1d9",
     "data": [
         {
             "id": "b34f289639d8635801c1ae2110e0940b",
@@ -12210,6 +12210,18 @@
             "fetched_datetime": "2025-09-24T02:32:24.962243Z",
             "shown_at": [
                 "2025-09-24T02:32:25.935131Z"
+            ]
+        },
+        {
+            "id": "92c67491e45caed41d6bde5638dff1d9",
+            "source": "spacenews",
+            "text": "Lynker and NOAA  to create tailored space-weather forecasts",
+            "source_link": "https://spacenews.com/lynker-and-noaa-to-create-tailored-space-weather-forecasts/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-24T03:17:53.079222Z",
+            "shown_at": [
+                "2025-09-24T03:17:54.570777Z"
             ]
         }
     ]

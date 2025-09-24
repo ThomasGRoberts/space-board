@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 25 | 48 |
-| breaking_defense | 4 | 8 | 22 | 43 |
+| spacenews | 9 | 17 | 26 | 49 |
+| breaking_defense | 4 | 8 | 22 | 42 |
 | supercluster | 2 | 2 | 107 | 107 |
 | nyt | 0 | 1 | 21 | 41 |
 
@@ -6702,3 +6702,4 @@
 - **Sep 24, 02:32 AM** - Blue Origin only bidder for new VIPER lander award (spacenews)
 - **Sep 24, 02:47 AM** - Space Force will own next-gen neighborhood watch sats, based on commercial tech (breaking_defense)
 - **Sep 24, 03:02 AM** - NASA Picks 10 New Astronauts as Focus Shifts to the Moon and Mars (nyt)
+- **Sep 24, 03:17 AM** - Lynker and NOAA  to create tailored space-weather forecasts (spacenews)
