@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 18 | 26 | 49 |
 | breaking_defense | 4 | 8 | 23 | 42 |
-| supercluster | 0 | 1 | 105 | 107 |
+| supercluster | 0 | 1 | 106 | 108 |
 | nyt | 0 | 1 | 21 | 41 |
 
 # Shown Order
@@ -6721,3 +6721,4 @@
 - **Sep 24, 09:19 AM** - For Golden Dome to work, it needs to be put to the test (breaking_defense)
 - **Sep 24, 09:33 AM** - Taiwanese aerospace firm partners with Maxar on GPS-alternative drone navigation (spacenews)
 - **Sep 24, 09:47 AM** - Why the U.S. Might Lose the Space Race (nyt)
+- **Sep 24, 10:02 AM** - SpaceX Will Launch Missions for NASA (supercluster)
