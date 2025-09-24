@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 19 | 25 | 49 |
+| spacenews | 11 | 20 | 26 | 50 |
 | breaking_defense | 5 | 7 | 23 | 42 |
 | nyt | 1 | 2 | 21 | 41 |
 | supercluster | 1 | 1 | 32 | 32 |
@@ -6668,3 +6668,4 @@
 - **Sep 24, 05:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 24, 05:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 24, 05:57 PM** - Earth Has a New ‘Quasi-Moon,’ and It May Be Very Tiny (nyt)
+- **Sep 24, 06:13 PM** - Space Forge and United Semiconductors to collaborate on space-based semiconductor manufacturing (spacenews)

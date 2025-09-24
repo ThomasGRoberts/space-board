@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-24T00:02:18.714574+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c6b02e89da7366b2196e30b507f7ac0a",
+    "trigger_count": 0,
+    "current_item_id": "18ba07cb997f2502adc7dcda2ef5a5fb",
     "data": [
         {
             "id": "b34f289639d8635801c1ae2110e0940b",
@@ -12262,6 +12262,18 @@
             "fetched_datetime": "2025-09-24T17:27:54.828010Z",
             "shown_at": [
                 "2025-09-24T17:27:55.597147Z"
+            ]
+        },
+        {
+            "id": "18ba07cb997f2502adc7dcda2ef5a5fb",
+            "source": "spacenews",
+            "text": "Space Forge and United Semiconductors to collaborate on space-based semiconductor manufacturing",
+            "source_link": "https://spacenews.com/space-forge-and-united-semiconductors-to-collaborate-on-space-based-semiconductor-manufacturing/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-24T18:13:49.103624Z",
+            "shown_at": [
+                "2025-09-24T18:13:49.866248Z"
             ]
         }
     ]
