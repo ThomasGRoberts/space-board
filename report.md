@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 20 | 26 | 50 |
-| breaking_defense | 4 | 8 | 21 | 40 |
+| breaking_defense | 5 | 9 | 22 | 41 |
 | nyt | 1 | 2 | 21 | 40 |
 | supercluster | 1 | 1 | 4 | 4 |
 
@@ -6628,3 +6628,4 @@
 - **Sep 24, 01:27 PM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
 - **Sep 24, 01:44 PM** - Zeno Power secures americium-241 supply for space nuclear batteries (spacenews)
 - **Sep 24, 02:00 PM** - Falcon 9 launches three space weather missions (spacenews)
+- **Sep 24, 02:14 PM** - Uncertainty over satellite constellation means alt-GPS capability up in the air: Official (breaking_defense)
