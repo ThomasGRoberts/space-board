@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 17 | 25 | 49 |
+| spacenews | 11 | 18 | 26 | 50 |
 | breaking_defense | 4 | 6 | 23 | 43 |
 | nyt | 1 | 1 | 21 | 41 |
 | supercluster | 1 | 1 | 46 | 46 |
@@ -6690,3 +6690,4 @@
 - **Sep 24, 08:06 PM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
 - **Sep 24, 08:22 PM** - Cygnus arrives at ISS after thruster glitch (spacenews)
 - **Sep 24, 08:38 PM** - NATO investing $728M in new space capabilities, including a new ‘data lake’ (breaking_defense)
+- **Sep 24, 08:52 PM** - ESCAPADE launch on New Glenn planned for late October or early November (spacenews)

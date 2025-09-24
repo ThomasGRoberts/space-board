@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-24T00:02:18.714574+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9101123f5b1d60a5d95938681c45add7",
+    "trigger_count": 0,
+    "current_item_id": "9daf41d9b1199ab39996f915ac1e1efc",
     "data": [
         {
             "id": "b34f289639d8635801c1ae2110e0940b",
@@ -12295,6 +12295,18 @@
             "fetched_datetime": "2025-09-24T18:13:49.103624Z",
             "shown_at": [
                 "2025-09-24T18:13:49.866248Z"
+            ]
+        },
+        {
+            "id": "9daf41d9b1199ab39996f915ac1e1efc",
+            "source": "spacenews",
+            "text": "ESCAPADE launch on New Glenn planned for late October or early November",
+            "source_link": "https://spacenews.com/escapade-launch-on-new-glenn-planned-for-late-october-or-early-november/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-24T20:52:36.244975Z",
+            "shown_at": [
+                "2025-09-24T20:52:36.944217Z"
             ]
         }
     ]
