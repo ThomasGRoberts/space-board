@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 18 | 26 | 48 |
-| breaking_defense | 4 | 8 | 23 | 42 |
-| supercluster | 0 | 1 | 106 | 107 |
+| breaking_defense | 4 | 8 | 23 | 43 |
+| supercluster | 0 | 1 | 105 | 107 |
 | nyt | 0 | 1 | 21 | 41 |
 
 # Shown Order
@@ -6718,3 +6718,4 @@
 - **Sep 24, 09:10 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Sep 24, 09:12 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Sep 24, 09:16 AM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Sep 24, 09:19 AM** - For Golden Dome to work, it needs to be put to the test (breaking_defense)
