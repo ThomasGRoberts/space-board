@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 17 | 26 | 49 |
 | breaking_defense | 4 | 8 | 22 | 43 |
-| supercluster | 2 | 2 | 128 | 128 |
+| supercluster | 2 | 2 | 129 | 129 |
 | nyt | 0 | 1 | 21 | 41 |
 
 # Shown Order
@@ -6733,3 +6733,4 @@
 - **Sep 24, 05:49 AM** - Photos: Day 2 of AFA’s Air, Space & Cyber Conference (breaking_defense)
 - **Sep 24, 06:04 AM** - Earth Has a New ‘Quasi-Moon,’ and It May Be Very Tiny (nyt)
 - **Sep 24, 06:21 AM** - Lynker and NOAA  to create tailored space-weather forecasts (spacenews)
+- **Sep 24, 06:37 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
