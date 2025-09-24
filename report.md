@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 25 | 47 |
 | breaking_defense | 4 | 8 | 22 | 43 |
-| supercluster | 2 | 2 | 93 | 93 |
+| supercluster | 2 | 2 | 94 | 94 |
 | nyt | 0 | 1 | 21 | 41 |
 
 # Shown Order
@@ -6681,3 +6681,4 @@
 - **Sep 24, 12:20 AM** - U.S. military sees China’s reusable rocket push as a space security concern (spacenews)
 - **Sep 24, 12:35 AM** - Uncertainty over satellite constellation means alternate-GPS capability up in the air as well: Official (breaking_defense)
 - **Sep 24, 12:50 AM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
+- **Sep 24, 01:05 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
