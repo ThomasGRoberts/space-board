@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 24 | 47 |
+| spacenews | 8 | 15 | 25 | 48 |
 | breaking_defense | 4 | 8 | 22 | 42 |
 | supercluster | 2 | 2 | 107 | 107 |
 | nyt | 0 | 1 | 21 | 41 |
@@ -6698,3 +6698,4 @@
 - **Sep 24, 02:11 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Sep 24, 02:13 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Sep 24, 02:16 AM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Sep 24, 02:17 AM** - Moog Breaks Ground on New Propulsion Clean Room to Support Satellite and Missile Growth (spacenews)
