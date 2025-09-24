@@ -5,7 +5,7 @@
 | spacenews | 7 | 17 | 23 | 47 |
 | breaking_defense | 4 | 8 | 23 | 42 |
 | nyt | 0 | 1 | 20 | 39 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -6619,3 +6619,4 @@
 - **Sep 24, 10:48 AM** - NASA Picks 10 New Astronauts as Focus Shifts to the Moon and Mars (nyt)
 - **Sep 24, 11:17 AM** - NRO needs AI to manage more than 200 (and counting) satellites, director says (breaking_defense)
 - **Sep 24, 12:33 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 24, 12:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
