@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 18 | 26 | 49 |
 | breaking_defense | 4 | 8 | 23 | 42 |
-| supercluster | 0 | 1 | 107 | 109 |
+| supercluster | 0 | 1 | 108 | 110 |
 | nyt | 0 | 1 | 21 | 41 |
 
 # Shown Order
@@ -6723,3 +6723,4 @@
 - **Sep 24, 09:47 AM** - Why the U.S. Might Lose the Space Race (nyt)
 - **Sep 24, 10:02 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Sep 24, 10:05 AM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Sep 24, 10:07 AM** - SpaceX Will Launch Missions for NASA (supercluster)
