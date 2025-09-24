@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 18 | 26 | 49 |
+| spacenews | 11 | 18 | 27 | 50 |
 | breaking_defense | 2 | 6 | 22 | 43 |
 | nyt | 1 | 1 | 21 | 41 |
 | supercluster | 1 | 1 | 60 | 60 |
@@ -6711,3 +6711,4 @@
 - **Sep 24, 10:36 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 24, 10:40 PM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
 - **Sep 24, 10:56 PM** - NATO investing $728M in new space capabilities, including a new ‘data lake’ (breaking_defense)
+- **Sep 24, 11:12 PM** - Space Norway and SSTL collaborate on radar satellite program (spacenews)
