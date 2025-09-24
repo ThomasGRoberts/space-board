@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 17 | 25 | 48 |
+| spacenews | 9 | 17 | 26 | 49 |
 | breaking_defense | 4 | 8 | 22 | 43 |
 | supercluster | 2 | 2 | 128 | 128 |
 | nyt | 0 | 1 | 21 | 41 |
@@ -6732,3 +6732,4 @@
 - **Sep 24, 05:47 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Sep 24, 05:49 AM** - Photos: Day 2 of AFA’s Air, Space & Cyber Conference (breaking_defense)
 - **Sep 24, 06:04 AM** - Earth Has a New ‘Quasi-Moon,’ and It May Be Very Tiny (nyt)
+- **Sep 24, 06:21 AM** - Lynker and NOAA  to create tailored space-weather forecasts (spacenews)
