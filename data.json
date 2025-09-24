@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-24T00:02:18.714574+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1a763500dc91a5cf28069ffaeb07143b",
+    "trigger_count": 0,
+    "current_item_id": "12a5e942ba1e906bf76443f8348fbf0c",
     "data": [
         {
             "id": "b34f289639d8635801c1ae2110e0940b",
@@ -12215,6 +12215,18 @@
             "shown_at": [
                 "2025-09-24T03:17:54.570777Z",
                 "2025-09-24T06:21:53.207370Z"
+            ]
+        },
+        {
+            "id": "12a5e942ba1e906bf76443f8348fbf0c",
+            "source": "spacenews",
+            "text": "Geespace secures $281 million for IoT constellation and global HQ",
+            "source_link": "https://spacenews.com/geespace-secures-281-million-for-iot-constellation-and-global-hq/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-24T08:12:15.221928Z",
+            "shown_at": [
+                "2025-09-24T08:12:16.609186Z"
             ]
         }
     ]
