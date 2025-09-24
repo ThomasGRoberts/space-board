@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 17 | 26 | 49 |
-| breaking_defense | 4 | 8 | 22 | 42 |
+| breaking_defense | 4 | 8 | 23 | 43 |
 | supercluster | 2 | 2 | 142 | 142 |
 | nyt | 0 | 1 | 20 | 41 |
 
@@ -6750,3 +6750,4 @@
 - **Sep 24, 07:47 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Sep 24, 07:49 AM** - SpaceX Will Launch Missions for NASA (supercluster)
 - **Sep 24, 07:52 AM** - SpaceX Will Launch Missions for NASA (supercluster)
+- **Sep 24, 07:53 AM** - Uncertainty over satellite constellation means alternate-GPS capability up in the air as well: Official (breaking_defense)
