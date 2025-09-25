@@ -5,7 +5,7 @@
 | spacenews | 8 | 17 | 25 | 50 |
 | breaking_defense | 2 | 6 | 21 | 43 |
 | nyt | 1 | 1 | 20 | 41 |
-| supercluster | 1 | 1 | 109 | 109 |
+| supercluster | 1 | 1 | 110 | 110 |
 
 # Shown Order
 
@@ -6710,3 +6710,4 @@
 - **Sep 25, 06:32 AM** - Earth Has a New ‘Quasi-Moon,’ and It May Be Very Tiny (nyt)
 - **Sep 25, 06:48 AM** - Day 2 of AFA’s Air, Space & Cyber Conference [Photos] (breaking_defense)
 - **Sep 25, 07:03 AM** - American leadership at Apophis (spacenews)
+- **Sep 25, 07:22 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
