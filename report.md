@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 18 | 25 | 50 |
-| breaking_defense | 1 | 5 | 19 | 41 |
+| breaking_defense | 1 | 5 | 20 | 42 |
 | nyt | 0 | 1 | 18 | 40 |
 | supercluster | 1 | 1 | 45 | 45 |
 
@@ -6678,3 +6678,4 @@
 - **Sep 25, 08:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 25, 08:10 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 25, 08:11 PM** - Lynker and NOAA  to create tailored space-weather forecasts (spacenews)
+- **Sep 25, 08:27 PM** - Space Force working on future operations plan to guide investment (breaking_defense)
