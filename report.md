@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 17 | 24 | 50 |
-| breaking_defense | 2 | 6 | 21 | 43 |
+| breaking_defense | 2 | 6 | 22 | 44 |
 | nyt | 1 | 1 | 21 | 41 |
 | supercluster | 1 | 1 | 95 | 95 |
 
@@ -6688,3 +6688,4 @@
 - **Sep 25, 04:14 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 25, 04:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 25, 04:19 AM** - A Tiny Quasi-Moon is Following Earth Around the Sun (nyt)
+- **Sep 25, 04:37 AM** - Space Force will own next-gen neighborhood watch sats, based on commercial tech (breaking_defense)
