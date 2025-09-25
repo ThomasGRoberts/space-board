@@ -5,7 +5,7 @@
 | spacenews | 10 | 18 | 26 | 51 |
 | breaking_defense | 2 | 6 | 21 | 43 |
 | nyt | 1 | 1 | 21 | 41 |
-| supercluster | 1 | 1 | 68 | 68 |
+| supercluster | 1 | 1 | 69 | 69 |
 
 # Shown Order
 
@@ -6651,3 +6651,4 @@
 - **Sep 24, 11:59 PM** - Space Force to get NOAA antennas to supplement Satellite Control Network (breaking_defense)
 - **Sep 25, 12:18 AM** - Launch startup iSpace secures fresh funding as hot fire tests heat up China’s reusable rocket race (spacenews)
 - **Sep 25, 12:36 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 25, 12:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
