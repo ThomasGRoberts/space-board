@@ -5,7 +5,7 @@
 | spacenews | 7 | 17 | 24 | 49 |
 | breaking_defense | 1 | 6 | 19 | 43 |
 | nyt | 0 | 1 | 19 | 40 |
-| supercluster | 1 | 1 | 26 | 26 |
+| supercluster | 1 | 1 | 27 | 27 |
 
 # Shown Order
 
@@ -6651,3 +6651,4 @@
 - **Sep 25, 05:18 PM** - U.S. military sees China’s reusable rocket push as a space security concern (spacenews)
 - **Sep 25, 05:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 25, 05:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 25, 05:40 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
