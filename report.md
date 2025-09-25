@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 17 | 23 | 48 |
+| spacenews | 7 | 17 | 24 | 49 |
 | breaking_defense | 2 | 7 | 20 | 43 |
 | nyt | 0 | 1 | 19 | 40 |
 | supercluster | 1 | 1 | 17 | 17 |
@@ -6638,3 +6638,4 @@
 - **Sep 25, 03:42 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 25, 03:45 PM** - SPACECOM discussing expansion of joint space monitoring missions with allies (breaking_defense)
 - **Sep 25, 03:59 PM** - A Tiny Quasi-Moon is Following Earth Around the Sun (nyt)
+- **Sep 25, 04:16 PM** - Geespace secures $281 million for IoT constellation and global HQ (spacenews)
