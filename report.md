@@ -5,7 +5,7 @@
 | spacenews | 6 | 16 | 23 | 49 |
 | breaking_defense | 2 | 4 | 20 | 42 |
 | nyt | 0 | 1 | 19 | 40 |
-| supercluster | 1 | 1 | 60 | 60 |
+| supercluster | 1 | 1 | 61 | 61 |
 
 # Shown Order
 
@@ -6702,3 +6702,4 @@
 - **Sep 25, 10:48 PM** - Space Force will own next-gen neighborhood watch sats, based on commercial tech (breaking_defense)
 - **Sep 25, 11:02 PM** - NASA Picks 10 New Astronauts as Focus Shifts to the Moon and Mars (nyt)
 - **Sep 25, 11:21 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 25, 11:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
