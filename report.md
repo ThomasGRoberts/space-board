@@ -5,7 +5,7 @@
 | spacenews | 6 | 17 | 24 | 49 |
 | breaking_defense | 1 | 6 | 19 | 43 |
 | nyt | 0 | 1 | 19 | 40 |
-| supercluster | 1 | 1 | 31 | 31 |
+| supercluster | 1 | 1 | 32 | 32 |
 
 # Shown Order
 
@@ -6659,3 +6659,4 @@
 - **Sep 25, 05:49 PM** - Beyond ‘potpourri’ of sensors: Saltzman pushes holistic approach to space domain awareness (breaking_defense)
 - **Sep 25, 06:05 PM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
 - **Sep 25, 06:22 PM** - Quantum Space acquires Phase Four propulsion assets (spacenews)
+- **Sep 25, 06:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
