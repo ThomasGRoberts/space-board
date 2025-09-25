@@ -5,7 +5,7 @@
 | spacenews | 8 | 17 | 25 | 50 |
 | breaking_defense | 2 | 6 | 21 | 43 |
 | nyt | 1 | 1 | 20 | 41 |
-| supercluster | 1 | 1 | 97 | 97 |
+| supercluster | 1 | 1 | 98 | 98 |
 
 # Shown Order
 
@@ -6692,3 +6692,4 @@
 - **Sep 25, 04:51 AM** - Space Force chief calls for speed over perfection in weapons buying (spacenews)
 - **Sep 25, 05:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 25, 05:08 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 25, 05:12 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
