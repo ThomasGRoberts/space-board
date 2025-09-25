@@ -5,7 +5,7 @@
 | spacenews | 8 | 17 | 25 | 50 |
 | breaking_defense | 2 | 6 | 20 | 43 |
 | nyt | 1 | 1 | 20 | 41 |
-| supercluster | 1 | 1 | 8 | 8 |
+| supercluster | 1 | 1 | 9 | 9 |
 
 # Shown Order
 
@@ -6619,3 +6619,4 @@
 - **Sep 25, 10:59 AM** - Beyond ‘potpourri’ of sensors: Saltzman pushes holistic approach to space domain awareness (breaking_defense)
 - **Sep 25, 11:17 AM** - Blue Origin only bidder for new VIPER lander award (spacenews)
 - **Sep 25, 11:32 AM** - Redwire to provide solar arrays for Axiom space station module (spacenews)
+- **Sep 25, 11:49 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
