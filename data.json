@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-25T00:02:23.458942+00:00",
-    "trigger_count": 6,
-    "current_item_id": "96253db3a9f3fcca238690eaa96c4e95",
+    "trigger_count": 0,
+    "current_item_id": "707d0b8a76fb08f66bcfa93cb0b2ba33",
     "data": [
         {
             "id": "c514b7633629b6476285eeefc3158600",
@@ -12143,6 +12143,18 @@
                 "2025-09-25T14:19:50.356108Z",
                 "2025-09-25T14:22:04.609044Z",
                 "2025-09-25T14:24:39.840716Z"
+            ]
+        },
+        {
+            "id": "707d0b8a76fb08f66bcfa93cb0b2ba33",
+            "source": "spacenews",
+            "text": "NASA Selects Proteus Space for Novel Rapid Spacecraft Conceptual Design Study",
+            "source_link": "https://spacenews.com/nasa-selects-proteus-space-for-novel-rapid-spacecraft-conceptual-design-study/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-25T14:44:09.734456Z",
+            "shown_at": [
+                "2025-09-25T14:44:10.720286Z"
             ]
         }
     ]
