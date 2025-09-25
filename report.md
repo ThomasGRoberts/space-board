@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 17 | 23 | 49 |
+| spacenews | 7 | 17 | 24 | 50 |
 | breaking_defense | 2 | 6 | 20 | 43 |
 | nyt | 0 | 1 | 19 | 40 |
 | supercluster | 1 | 1 | 24 | 24 |
@@ -6648,3 +6648,4 @@
 - **Sep 25, 04:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 25, 04:48 PM** - NRO needs AI to manage more than 200 (and counting) satellites, director says (breaking_defense)
 - **Sep 25, 05:04 PM** - NASA Picks 10 New Astronauts as Focus Shifts to the Moon and Mars (nyt)
+- **Sep 25, 05:18 PM** - U.S. military sees China’s reusable rocket push as a space security concern (spacenews)
