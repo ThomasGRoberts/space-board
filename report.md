@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 24 | 50 |
-| breaking_defense | 2 | 6 | 21 | 44 |
+| breaking_defense | 2 | 6 | 20 | 43 |
 | nyt | 1 | 1 | 20 | 41 |
 | supercluster | 1 | 1 | 1 | 1 |
 
@@ -6604,4 +6604,4 @@
 - **Sep 25, 07:39 AM** - Why the U.S. Might Lose the Space Race (nyt)
 - **Sep 25, 07:58 AM** - Space Force working on future operations plan to guide investment (breaking_defense)
 - **Sep 25, 08:16 AM** - Geespace secures $281 million for IoT constellation and global HQ (spacenews)
-- **Sep 25, 09:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 25, 09:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
