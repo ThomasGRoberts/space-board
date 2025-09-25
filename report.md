@@ -5,7 +5,7 @@
 | spacenews | 8 | 16 | 25 | 49 |
 | breaking_defense | 2 | 6 | 20 | 42 |
 | nyt | 1 | 1 | 19 | 40 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -6614,3 +6614,4 @@
 - **Sep 25, 12:04 PM** - SatNews and SpaceNews Partner to Launch EU Space Defence Track at SmallSat Europe 2026 (spacenews)
 - **Sep 25, 01:10 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 25, 01:12 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 25, 01:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
