@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 17 | 24 | 50 |
 | breaking_defense | 2 | 6 | 21 | 43 |
-| nyt | 1 | 1 | 20 | 41 |
+| nyt | 1 | 1 | 21 | 42 |
 | supercluster | 1 | 1 | 116 | 116 |
 
 # Shown Order
@@ -6717,3 +6717,4 @@
 - **Sep 25, 07:32 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 25, 07:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 25, 07:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 25, 07:39 AM** - Why the U.S. Might Lose the Space Race (nyt)
