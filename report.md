@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 17 | 24 | 50 |
-| breaking_defense | 2 | 4 | 20 | 41 |
-| nyt | 0 | 1 | 18 | 40 |
+| breaking_defense | 2 | 4 | 21 | 42 |
+| nyt | 0 | 1 | 18 | 39 |
 | supercluster | 1 | 1 | 52 | 52 |
 
 # Shown Order
@@ -6689,3 +6689,4 @@
 - **Sep 25, 09:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 25, 09:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 25, 09:27 PM** - Building Saudi Arabia’s space champion (spacenews)
+- **Sep 25, 09:45 PM** - Photos: Day 2 of AFA’s Air, Space & Cyber Conference (breaking_defense)
