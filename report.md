@@ -5,7 +5,7 @@
 | spacenews | 8 | 18 | 25 | 50 |
 | breaking_defense | 1 | 5 | 19 | 42 |
 | nyt | 0 | 1 | 19 | 40 |
-| supercluster | 1 | 1 | 38 | 38 |
+| supercluster | 1 | 1 | 39 | 39 |
 
 # Shown Order
 
@@ -6670,3 +6670,4 @@
 - **Sep 25, 07:09 PM** - Artemis 2 could launch as soon as February (spacenews)
 - **Sep 25, 07:26 PM** - In a first, Space Force to require refueling capability for next-gen neighborhood watch sats (breaking_defense)
 - **Sep 25, 07:42 PM** - NASA Picks 10 New Astronauts as Focus Shifts to the Moon and Mars (nyt)
+- **Sep 25, 07:56 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
