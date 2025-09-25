@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 25 | 49 |
+| spacenews | 7 | 16 | 24 | 48 |
 | breaking_defense | 2 | 6 | 20 | 42 |
-| nyt | 1 | 1 | 19 | 40 |
+| nyt | 1 | 1 | 20 | 41 |
 | supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
@@ -6615,3 +6615,4 @@
 - **Sep 25, 01:10 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 25, 01:12 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 25, 01:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 25, 01:16 PM** - Why the U.S. Might Lose the Space Race (nyt)
