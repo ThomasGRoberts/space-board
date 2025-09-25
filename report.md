@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 23 | 50 |
 | breaking_defense | 2 | 6 | 20 | 43 |
-| nyt | 1 | 1 | 20 | 40 |
+| nyt | 1 | 1 | 21 | 41 |
 | supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
@@ -6605,3 +6605,4 @@
 - **Sep 25, 07:58 AM** - Space Force working on future operations plan to guide investment (breaking_defense)
 - **Sep 25, 08:16 AM** - Geespace secures $281 million for IoT constellation and global HQ (spacenews)
 - **Sep 25, 09:39 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Sep 25, 09:41 AM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
