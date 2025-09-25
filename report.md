@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 17 | 25 | 49 |
+| spacenews | 8 | 18 | 26 | 50 |
 | breaking_defense | 1 | 6 | 19 | 42 |
 | nyt | 0 | 1 | 18 | 40 |
 | supercluster | 1 | 1 | 38 | 38 |
@@ -6667,3 +6667,4 @@
 - **Sep 25, 06:49 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 25, 06:52 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 25, 06:55 PM** - L3Harris looks to scale production of hybrid satcom radios after successful Air Force tests (spacenews)
+- **Sep 25, 07:09 PM** - Artemis 2 could launch as soon as February (spacenews)

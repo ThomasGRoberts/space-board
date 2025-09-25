@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-25T00:02:23.458942+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7f2e15a576376ee54442561880cbf20e",
+    "trigger_count": 0,
+    "current_item_id": "ff9061b4f2c247a440b3bcaee4035b6c",
     "data": [
         {
             "id": "c514b7633629b6476285eeefc3158600",
@@ -12228,6 +12228,18 @@
             "fetched_datetime": "2025-09-25T18:55:35.690766Z",
             "shown_at": [
                 "2025-09-25T18:55:36.620296Z"
+            ]
+        },
+        {
+            "id": "ff9061b4f2c247a440b3bcaee4035b6c",
+            "source": "spacenews",
+            "text": "Artemis 2 could launch as soon as February",
+            "source_link": "https://spacenews.com/artemis-2-could-launch-as-soon-as-february/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-25T19:09:58.064340Z",
+            "shown_at": [
+                "2025-09-25T19:09:58.766852Z"
             ]
         }
     ]
