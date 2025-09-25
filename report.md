@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 17 | 23 | 49 |
-| breaking_defense | 2 | 6 | 20 | 43 |
+| breaking_defense | 2 | 5 | 20 | 42 |
 | nyt | 0 | 1 | 19 | 40 |
-| supercluster | 1 | 1 | 46 | 46 |
+| supercluster | 1 | 1 | 47 | 47 |
 
 # Shown Order
 
@@ -6682,3 +6682,4 @@
 - **Sep 25, 08:43 PM** - German military to invest $41B in space capabilities (breaking_defense)
 - **Sep 25, 08:58 PM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
 - **Sep 25, 09:14 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 25, 09:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
