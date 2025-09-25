@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 17 | 25 | 50 |
+| spacenews | 8 | 17 | 24 | 50 |
 | breaking_defense | 2 | 6 | 21 | 43 |
 | nyt | 1 | 1 | 20 | 41 |
-| supercluster | 1 | 1 | 110 | 110 |
+| supercluster | 1 | 1 | 111 | 111 |
 
 # Shown Order
 
@@ -6711,3 +6711,4 @@
 - **Sep 25, 06:48 AM** - Day 2 of AFA’s Air, Space & Cyber Conference [Photos] (breaking_defense)
 - **Sep 25, 07:03 AM** - American leadership at Apophis (spacenews)
 - **Sep 25, 07:22 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 25, 07:24 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
