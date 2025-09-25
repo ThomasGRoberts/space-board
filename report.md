@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 17 | 24 | 49 |
-| breaking_defense | 1 | 6 | 19 | 43 |
+| breaking_defense | 1 | 6 | 19 | 42 |
 | nyt | 0 | 1 | 19 | 40 |
-| supercluster | 1 | 1 | 33 | 33 |
+| supercluster | 1 | 1 | 34 | 34 |
 
 # Shown Order
 
@@ -6661,3 +6661,4 @@
 - **Sep 25, 06:22 PM** - Quantum Space acquires Phase Four propulsion assets (spacenews)
 - **Sep 25, 06:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 25, 06:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 25, 06:44 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
