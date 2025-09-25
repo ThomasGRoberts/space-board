@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-25T00:02:23.458942+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "7f2e15a576376ee54442561880cbf20e",
     "data": [
         {
             "id": "c514b7633629b6476285eeefc3158600",
@@ -12216,6 +12216,18 @@
             "fetched_datetime": "2025-09-25T15:45:53.750401Z",
             "shown_at": [
                 "2025-09-25T15:45:54.875740Z"
+            ]
+        },
+        {
+            "id": "7f2e15a576376ee54442561880cbf20e",
+            "source": "spacenews",
+            "text": "L3Harris looks to scale production of hybrid satcom radios after successful Air Force tests",
+            "source_link": "https://spacenews.com/l3harris-looks-to-scale-production-of-hybrid-satcom-radios-after-successful-air-force-tests/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-25T18:55:35.690766Z",
+            "shown_at": [
+                "2025-09-25T18:55:36.620296Z"
             ]
         }
     ]
