@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 18 | 26 | 51 |
-| breaking_defense | 2 | 6 | 22 | 43 |
+| breaking_defense | 2 | 6 | 21 | 43 |
 | nyt | 1 | 1 | 21 | 41 |
-| supercluster | 1 | 1 | 67 | 67 |
+| supercluster | 1 | 1 | 68 | 68 |
 
 # Shown Order
 
@@ -6650,3 +6650,4 @@
 - **Sep 24, 11:46 PM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
 - **Sep 24, 11:59 PM** - Space Force to get NOAA antennas to supplement Satellite Control Network (breaking_defense)
 - **Sep 25, 12:18 AM** - Launch startup iSpace secures fresh funding as hot fire tests heat up China’s reusable rocket race (spacenews)
+- **Sep 25, 12:36 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
