@@ -5,7 +5,7 @@
 | spacenews | 7 | 17 | 24 | 50 |
 | breaking_defense | 2 | 6 | 20 | 43 |
 | nyt | 1 | 1 | 20 | 41 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -6608,3 +6608,4 @@
 - **Sep 25, 09:41 AM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
 - **Sep 25, 09:57 AM** - Space Force working on future operations plan to guide investment (breaking_defense)
 - **Sep 25, 10:13 AM** - Blue Origin only bidder for new VIPER lander award (spacenews)
+- **Sep 25, 10:29 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
