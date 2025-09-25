@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 17 | 25 | 50 |
-| breaking_defense | 2 | 6 | 21 | 44 |
+| breaking_defense | 2 | 6 | 21 | 43 |
 | nyt | 1 | 1 | 21 | 41 |
-| supercluster | 1 | 1 | 81 | 81 |
+| supercluster | 1 | 1 | 82 | 82 |
 
 # Shown Order
 
@@ -6670,3 +6670,4 @@
 - **Sep 25, 02:05 AM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
 - **Sep 25, 02:25 AM** - For Golden Dome to work, it needs to be put to the test (breaking_defense)
 - **Sep 25, 02:42 AM** - Falcon 9 launches three space weather missions (spacenews)
+- **Sep 25, 03:00 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
