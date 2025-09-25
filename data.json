@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-25T00:02:23.458942+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d150ffaeac35fd241ed18387eda8e55a",
+    "trigger_count": 0,
+    "current_item_id": "1ee55f62eab7da398cdd3271593c0a3a",
     "data": [
         {
             "id": "c514b7633629b6476285eeefc3158600",
@@ -12251,6 +12251,18 @@
             "fetched_datetime": "2025-09-25T19:09:58.064340Z",
             "shown_at": [
                 "2025-09-25T19:09:58.766852Z"
+            ]
+        },
+        {
+            "id": "1ee55f62eab7da398cdd3271593c0a3a",
+            "source": "breaking_defense",
+            "text": "German military to invest $41B in space capabilities",
+            "source_link": "https://breakingdefense.com/2025/09/german-military-to-invest-41b-in-space-capabilities/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-25T20:43:26.614355Z",
+            "shown_at": [
+                "2025-09-25T20:43:27.255243Z"
             ]
         }
     ]
