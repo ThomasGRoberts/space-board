@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 17 | 23 | 49 |
+| spacenews | 6 | 17 | 24 | 50 |
 | breaking_defense | 1 | 6 | 20 | 43 |
 | nyt | 0 | 1 | 19 | 40 |
 | supercluster | 1 | 1 | 31 | 31 |
@@ -6658,3 +6658,4 @@
 - **Sep 25, 05:48 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 25, 05:49 PM** - Beyond ‘potpourri’ of sensors: Saltzman pushes holistic approach to space domain awareness (breaking_defense)
 - **Sep 25, 06:05 PM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
+- **Sep 25, 06:22 PM** - Quantum Space acquires Phase Four propulsion assets (spacenews)
