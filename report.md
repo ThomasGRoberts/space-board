@@ -5,7 +5,7 @@
 | spacenews | 7 | 17 | 24 | 49 |
 | breaking_defense | 2 | 6 | 20 | 42 |
 | nyt | 0 | 1 | 19 | 40 |
-| supercluster | 1 | 1 | 17 | 17 |
+| supercluster | 1 | 1 | 18 | 18 |
 
 # Shown Order
 
@@ -6639,3 +6639,4 @@
 - **Sep 25, 03:45 PM** - SPACECOM discussing expansion of joint space monitoring missions with allies (breaking_defense)
 - **Sep 25, 03:59 PM** - A Tiny Quasi-Moon is Following Earth Around the Sun (nyt)
 - **Sep 25, 04:16 PM** - Geespace secures $281 million for IoT constellation and global HQ (spacenews)
+- **Sep 25, 04:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
