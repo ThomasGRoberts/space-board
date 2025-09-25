@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 24 | 49 |
-| breaking_defense | 2 | 6 | 20 | 42 |
+| breaking_defense | 2 | 6 | 21 | 43 |
 | nyt | 0 | 1 | 18 | 39 |
 | supercluster | 1 | 1 | 24 | 24 |
 
@@ -6646,3 +6646,4 @@
 - **Sep 25, 04:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 25, 04:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 25, 04:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 25, 04:48 PM** - NRO needs AI to manage more than 200 (and counting) satellites, director says (breaking_defense)
