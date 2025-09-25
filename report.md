@@ -5,7 +5,7 @@
 | spacenews | 8 | 17 | 25 | 50 |
 | breaking_defense | 2 | 6 | 21 | 43 |
 | nyt | 1 | 1 | 20 | 41 |
-| supercluster | 1 | 1 | 95 | 95 |
+| supercluster | 1 | 1 | 96 | 96 |
 
 # Shown Order
 
@@ -6690,3 +6690,4 @@
 - **Sep 25, 04:19 AM** - A Tiny Quasi-Moon is Following Earth Around the Sun (nyt)
 - **Sep 25, 04:37 AM** - Space Force will own next-gen neighborhood watch sats, based on commercial tech (breaking_defense)
 - **Sep 25, 04:51 AM** - Space Force chief calls for speed over perfection in weapons buying (spacenews)
+- **Sep 25, 05:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
