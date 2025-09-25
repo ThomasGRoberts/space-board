@@ -5,7 +5,7 @@
 | spacenews | 7 | 17 | 24 | 49 |
 | breaking_defense | 1 | 6 | 20 | 42 |
 | nyt | 0 | 1 | 19 | 40 |
-| supercluster | 1 | 1 | 10 | 10 |
+| supercluster | 1 | 1 | 11 | 11 |
 
 # Shown Order
 
@@ -6629,3 +6629,4 @@
 - **Sep 25, 02:44 PM** - NASA Selects Proteus Space for Novel Rapid Spacecraft Conceptual Design Study (spacenews)
 - **Sep 25, 02:57 PM** - Day 2 of AFA’s Air, Space & Cyber Conference [Photos] (breaking_defense)
 - **Sep 25, 03:13 PM** - NASA awards Katalyst Space contract to reboost Swift spacecraft (spacenews)
+- **Sep 25, 03:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
