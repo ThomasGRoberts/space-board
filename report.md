@@ -6604,4 +6604,4 @@
 - **Sep 25, 07:39 AM** - Why the U.S. Might Lose the Space Race (nyt)
 - **Sep 25, 07:58 AM** - Space Force working on future operations plan to guide investment (breaking_defense)
 - **Sep 25, 08:16 AM** - Geespace secures $281 million for IoT constellation and global HQ (spacenews)
-- **Sep 25, 09:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 25, 09:26 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
