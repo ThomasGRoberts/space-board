@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 17 | 24 | 50 |
 | breaking_defense | 2 | 4 | 20 | 42 |
-| nyt | 0 | 1 | 18 | 39 |
+| nyt | 0 | 1 | 19 | 40 |
 | supercluster | 1 | 1 | 52 | 52 |
 
 # Shown Order
@@ -6690,3 +6690,4 @@
 - **Sep 25, 09:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 25, 09:27 PM** - Building Saudi Arabia’s space champion (spacenews)
 - **Sep 25, 09:45 PM** - Photos: Day 2 of AFA’s Air, Space & Cyber Conference (breaking_defense)
+- **Sep 25, 10:00 PM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
