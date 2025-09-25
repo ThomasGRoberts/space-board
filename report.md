@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 18 | 25 | 50 |
-| breaking_defense | 2 | 6 | 21 | 43 |
+| breaking_defense | 2 | 6 | 22 | 44 |
 | nyt | 1 | 1 | 21 | 42 |
 | supercluster | 1 | 1 | 81 | 81 |
 
@@ -6668,3 +6668,4 @@
 - **Sep 25, 01:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 25, 02:02 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 25, 02:05 AM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
+- **Sep 25, 02:25 AM** - For Golden Dome to work, it needs to be put to the test (breaking_defense)
