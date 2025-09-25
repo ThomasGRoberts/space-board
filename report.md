@@ -5,7 +5,7 @@
 | spacenews | 6 | 17 | 23 | 49 |
 | breaking_defense | 2 | 4 | 20 | 42 |
 | nyt | 0 | 1 | 19 | 40 |
-| supercluster | 1 | 1 | 53 | 53 |
+| supercluster | 1 | 1 | 54 | 54 |
 
 # Shown Order
 
@@ -6692,3 +6692,4 @@
 - **Sep 25, 09:45 PM** - Photos: Day 2 of AFA’s Air, Space & Cyber Conference (breaking_defense)
 - **Sep 25, 10:00 PM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
 - **Sep 25, 10:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 25, 10:18 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
