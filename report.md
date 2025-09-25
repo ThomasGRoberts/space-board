@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 17 | 25 | 50 |
 | breaking_defense | 2 | 6 | 21 | 43 |
-| nyt | 1 | 1 | 21 | 41 |
-| supercluster | 1 | 1 | 82 | 82 |
+| nyt | 1 | 1 | 20 | 41 |
+| supercluster | 1 | 1 | 83 | 83 |
 
 # Shown Order
 
@@ -6671,3 +6671,4 @@
 - **Sep 25, 02:25 AM** - For Golden Dome to work, it needs to be put to the test (breaking_defense)
 - **Sep 25, 02:42 AM** - Falcon 9 launches three space weather missions (spacenews)
 - **Sep 25, 03:00 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Sep 25, 03:02 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
