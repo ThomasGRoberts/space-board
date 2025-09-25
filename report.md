@@ -2,9 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 16 | 26 | 50 |
+| spacenews | 9 | 16 | 26 | 49 |
 | breaking_defense | 2 | 6 | 20 | 43 |
 | nyt | 1 | 1 | 20 | 41 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -6611,3 +6612,4 @@
 - **Sep 25, 11:17 AM** - Blue Origin only bidder for new VIPER lander award (spacenews)
 - **Sep 25, 11:32 AM** - Redwire to provide solar arrays for Axiom space station module (spacenews)
 - **Sep 25, 12:04 PM** - SatNews and SpaceNews Partner to Launch EU Space Defence Track at SmallSat Europe 2026 (spacenews)
+- **Sep 25, 12:19 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
