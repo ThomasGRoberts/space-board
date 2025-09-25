@@ -5,7 +5,6 @@
 | spacenews | 9 | 17 | 26 | 50 |
 | breaking_defense | 2 | 6 | 20 | 43 |
 | nyt | 1 | 1 | 20 | 41 |
-| supercluster | 1 | 1 | 15 | 15 |
 
 # Shown Order
 
@@ -6604,26 +6603,11 @@
 - **Sep 25, 07:39 AM** - Why the U.S. Might Lose the Space Race (nyt)
 - **Sep 25, 07:58 AM** - Space Force working on future operations plan to guide investment (breaking_defense)
 - **Sep 25, 08:16 AM** - Geespace secures $281 million for IoT constellation and global HQ (spacenews)
-- **Sep 25, 09:39 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Sep 25, 09:41 AM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
 - **Sep 25, 09:57 AM** - Space Force working on future operations plan to guide investment (breaking_defense)
 - **Sep 25, 10:13 AM** - Blue Origin only bidder for new VIPER lander award (spacenews)
-- **Sep 25, 10:29 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Sep 25, 10:32 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Sep 25, 10:35 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Sep 25, 10:37 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Sep 25, 10:39 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Sep 25, 10:42 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Sep 25, 10:43 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Sep 25, 10:45 AM** - Earth Has a New ‘Quasi-Moon,’ and It May Be Very Tiny (nyt)
 - **Sep 25, 10:59 AM** - Beyond ‘potpourri’ of sensors: Saltzman pushes holistic approach to space domain awareness (breaking_defense)
 - **Sep 25, 11:17 AM** - Blue Origin only bidder for new VIPER lander award (spacenews)
 - **Sep 25, 11:32 AM** - Redwire to provide solar arrays for Axiom space station module (spacenews)
-- **Sep 25, 11:49 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Sep 25, 11:51 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Sep 25, 11:53 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Sep 25, 11:55 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Sep 25, 11:57 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Sep 25, 12:00 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Sep 25, 12:01 PM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Sep 25, 12:04 PM** - SatNews and SpaceNews Partner to Launch EU Space Defence Track at SmallSat Europe 2026 (spacenews)
