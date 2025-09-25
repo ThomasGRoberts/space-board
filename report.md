@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 16 | 23 | 48 |
+| spacenews | 5 | 16 | 24 | 49 |
 | breaking_defense | 2 | 6 | 21 | 43 |
 | nyt | 0 | 1 | 19 | 40 |
 | supercluster | 1 | 1 | 3 | 3 |
@@ -6617,3 +6617,4 @@
 - **Sep 25, 01:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 25, 01:16 PM** - Why the U.S. Might Lose the Space Race (nyt)
 - **Sep 25, 01:32 PM** - Photos: Day 2 of AFA’s Air, Space & Cyber Conference (breaking_defense)
+- **Sep 25, 01:52 PM** - Quantum Space acquires Phase Four propulsion assets (spacenews)
