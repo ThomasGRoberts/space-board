@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 16 | 23 | 48 |
-| breaking_defense | 2 | 6 | 21 | 44 |
+| spacenews | 7 | 16 | 24 | 49 |
+| breaking_defense | 2 | 6 | 20 | 44 |
 | nyt | 1 | 1 | 20 | 41 |
 | supercluster | 1 | 1 | 8 | 8 |
 
@@ -6617,3 +6617,4 @@
 - **Sep 25, 10:43 AM** - ULA Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Sep 25, 10:45 AM** - Earth Has a New ‘Quasi-Moon,’ and It May Be Very Tiny (nyt)
 - **Sep 25, 10:59 AM** - Beyond ‘potpourri’ of sensors: Saltzman pushes holistic approach to space domain awareness (breaking_defense)
+- **Sep 25, 11:17 AM** - Blue Origin only bidder for new VIPER lander award (spacenews)
