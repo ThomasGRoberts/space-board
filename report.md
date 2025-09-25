@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 17 | 24 | 50 |
-| breaking_defense | 2 | 6 | 21 | 43 |
+| breaking_defense | 2 | 6 | 22 | 44 |
 | nyt | 1 | 1 | 21 | 41 |
 | supercluster | 1 | 1 | 102 | 102 |
 
@@ -6698,3 +6698,4 @@
 - **Sep 25, 05:18 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 25, 05:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Sep 25, 05:22 AM** - Why the U.S. Might Lose the Space Race (nyt)
+- **Sep 25, 05:39 AM** - Uncertainty over satellite constellation means alternate-GPS capability up in the air as well: Official (breaking_defense)
