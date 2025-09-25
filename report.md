@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 18 | 26 | 51 |
-| breaking_defense | 2 | 6 | 21 | 44 |
+| breaking_defense | 2 | 6 | 21 | 43 |
 | nyt | 1 | 1 | 21 | 41 |
-| supercluster | 1 | 1 | 74 | 74 |
+| supercluster | 1 | 1 | 75 | 75 |
 
 # Shown Order
 
@@ -6660,3 +6660,4 @@
 - **Sep 25, 12:52 AM** - A Tiny Quasi-Moon is Following Earth Around the Sun (nyt)
 - **Sep 25, 01:10 AM** - Photos: Day 2 of AFA’s Air, Space & Cyber Conference (breaking_defense)
 - **Sep 25, 01:27 AM** - Falcon 9 launches three space weather missions (spacenews)
+- **Sep 25, 01:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
