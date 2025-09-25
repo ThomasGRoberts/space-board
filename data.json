@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-25T00:02:23.458942+00:00",
-    "trigger_count": 6,
-    "current_item_id": "110293b72efbc6c3cf4f5a3972811451",
+    "trigger_count": 0,
+    "current_item_id": "c5e8056c4ec42aefd3ccb0346e45479f",
     "data": [
         {
             "id": "c514b7633629b6476285eeefc3158600",
@@ -12132,6 +12132,18 @@
             "fetched_datetime": "2025-09-25T11:32:24.391501Z",
             "shown_at": [
                 "2025-09-25T11:32:25.364717Z"
+            ]
+        },
+        {
+            "id": "c5e8056c4ec42aefd3ccb0346e45479f",
+            "source": "spacenews",
+            "text": "SatNews and SpaceNews Partner to Launch EU Space Defence Track at SmallSat Europe 2026",
+            "source_link": "https://spacenews.com/satnews-and-spacenews-partner-to-launch-eu-space-defence-track-at-smallsat-europe-2026/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-25T12:04:26.211534Z",
+            "shown_at": [
+                "2025-09-25T12:04:27.620173Z"
             ]
         }
     ]
