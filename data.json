@@ -1,9 +1,248 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-09-24T00:02:18.714574+00:00",
-    "trigger_count": 0,
+    "last_run_datetime": "2025-09-25T00:02:23.458942+00:00",
+    "trigger_count": 1,
     "current_item_id": "f7f94516e382bce644eae8cd40e96fd0",
     "data": [
+        {
+            "id": "c514b7633629b6476285eeefc3158600",
+            "source": "spacenews",
+            "text": "Next chapter in space defense: Satellites that never stop moving",
+            "source_link": "https://spacenews.com/next-chapter-in-space-defense-satellites-that-never-stop-moving/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-24T21:10:02.776281Z",
+            "shown_at": [
+                "2025-09-24T21:10:03.915834Z"
+            ]
+        },
+        {
+            "id": "9daf41d9b1199ab39996f915ac1e1efc",
+            "source": "spacenews",
+            "text": "ESCAPADE launch on New Glenn planned for late October or early November",
+            "source_link": "https://spacenews.com/escapade-launch-on-new-glenn-planned-for-late-october-or-early-november/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-24T20:52:36.244975Z",
+            "shown_at": [
+                "2025-09-24T20:52:36.944217Z"
+            ]
+        },
+        {
+            "id": "18ba07cb997f2502adc7dcda2ef5a5fb",
+            "source": "spacenews",
+            "text": "Space Forge and United Semiconductors to collaborate on space-based semiconductor manufacturing",
+            "source_link": "https://spacenews.com/space-forge-and-united-semiconductors-to-collaborate-on-space-based-semiconductor-manufacturing/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-24T18:13:49.103624Z",
+            "shown_at": [
+                "2025-09-24T18:13:49.866248Z"
+            ]
+        },
+        {
+            "id": "033d6e3b0c46a601327d4fa997d99432",
+            "source": "breaking_defense",
+            "text": "In a first, Space Force to require refueling capability for next-gen neighborhood watch sats",
+            "source_link": "https://breakingdefense.com/2025/09/in-shift-space-force-to-require-refueling-capability-for-next-gen-neighborhood-watch-sats/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-24T17:27:54.828010Z",
+            "shown_at": [
+                "2025-09-24T17:27:55.597147Z"
+            ]
+        },
+        {
+            "id": "d05f2bffadf657406d16c0c93433a5f2",
+            "source": "breaking_defense",
+            "text": "Uncertainty over satellite constellation means alt-GPS capability up in the air: Official",
+            "source_link": "https://breakingdefense.com/2025/09/uncertainty-over-satellite-constellation-means-alternate-gps-capability-up-in-the-air-as-well-official/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-24T14:14:11.796805Z",
+            "shown_at": [
+                "2025-09-24T14:14:12.840681Z",
+                "2025-09-24T21:52:12.914058Z"
+            ]
+        },
+        {
+            "id": "2cb9074844c96f35351ddc32a0d012b6",
+            "source": "spacenews",
+            "text": "Falcon 9 launches three space weather missions",
+            "source_link": "https://spacenews.com/falcon-9-launches-three-space-weather-missions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-24T13:44:04.499870Z",
+            "shown_at": [
+                "2025-09-24T14:00:01.477148Z"
+            ]
+        },
+        {
+            "id": "c8313808f7b9d7287332566c7b674f03",
+            "source": "spacenews",
+            "text": "Zeno Power secures americium-241 supply for space nuclear batteries",
+            "source_link": "https://spacenews.com/zeno-power-secures-americium-241-supply-for-space-nuclear-batteries/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-24T13:44:04.499813Z",
+            "shown_at": [
+                "2025-09-24T13:44:05.294211Z"
+            ]
+        },
+        {
+            "id": "9bf634f59e13e1346a98fd7a6ac874a9",
+            "source": "nyt",
+            "text": "NASA Launches IMAP and Space Weather Missions on SpaceX Rocket",
+            "source_link": "https://www.nytimes.com/2025/09/24/science/imap-nasa-spacex-launch.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-24T13:27:42.737513Z",
+            "shown_at": [
+                "2025-09-24T13:27:43.569601Z",
+                "2025-09-24T22:40:35.025405Z"
+            ]
+        },
+        {
+            "id": "883a6af360113d75a827ebdd6b03c65b",
+            "source": "spacenews",
+            "text": "We’re cluttering Earth’s orbit at record speed. Who’s going to clean it up?",
+            "source_link": "https://spacenews.com/were-cluttering-earths-orbit-at-record-speed-whos-going-to-clean-it-up/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-24T13:13:46.779989Z",
+            "shown_at": [
+                "2025-09-24T13:13:47.409718Z"
+            ]
+        },
+        {
+            "id": "7bdc64940bc451816e21fdb2ec0baa2c",
+            "source": "spacenews",
+            "text": "ESA backs Skynopy to bring adaptive modulation to Earth observation satellites",
+            "source_link": "https://spacenews.com/esa-backs-skynopy-to-bring-adaptive-modulation-to-earth-observation-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-24T12:42:11.880347Z",
+            "shown_at": [
+                "2025-09-24T12:42:12.989125Z"
+            ]
+        },
+        {
+            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Starlink Satellites from Florida",
+            "source_link": "https://www.supercluster.com/launches/starlink-10-15",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-09-25T08:36:00.000Z",
+            "time_remaining": "0d 08h 53m",
+            "fetched_datetime": "2025-09-24T12:33:22.202641Z",
+            "shown_at": [
+                "2025-09-24T12:33:22.855148Z",
+                "2025-09-24T12:35:49.719699Z",
+                "2025-09-24T12:37:26.862433Z",
+                "2025-09-24T12:39:45.871113Z",
+                "2025-09-24T14:29:49.917978Z",
+                "2025-09-24T14:32:09.602168Z",
+                "2025-09-24T14:33:44.168475Z",
+                "2025-09-24T14:36:06.230040Z",
+                "2025-09-24T14:38:02.616955Z",
+                "2025-09-24T14:39:44.571880Z",
+                "2025-09-24T14:42:00.494723Z",
+                "2025-09-24T15:28:04.828264Z",
+                "2025-09-24T15:29:33.159233Z",
+                "2025-09-24T15:32:20.212179Z",
+                "2025-09-24T15:35:29.681156Z",
+                "2025-09-24T15:37:44.202477Z",
+                "2025-09-24T15:39:14.276147Z",
+                "2025-09-24T15:42:00.151336Z",
+                "2025-09-24T16:25:53.539374Z",
+                "2025-09-24T16:27:46.833446Z",
+                "2025-09-24T16:29:14.362250Z",
+                "2025-09-24T16:32:02.869552Z",
+                "2025-09-24T16:33:41.464255Z",
+                "2025-09-24T16:35:33.635556Z",
+                "2025-09-24T16:37:53.837832Z",
+                "2025-09-24T17:44:04.066864Z",
+                "2025-09-24T17:45:57.777276Z",
+                "2025-09-24T17:48:02.840403Z",
+                "2025-09-24T17:49:57.604447Z",
+                "2025-09-24T17:51:56.548616Z",
+                "2025-09-24T17:53:58.517093Z",
+                "2025-09-24T17:55:52.622575Z",
+                "2025-09-24T18:43:39.127956Z",
+                "2025-09-24T18:45:54.187425Z",
+                "2025-09-24T18:47:52.397778Z",
+                "2025-09-24T18:49:41.391238Z",
+                "2025-09-24T18:52:09.681902Z",
+                "2025-09-24T18:53:43.676854Z",
+                "2025-09-24T18:56:03.835822Z",
+                "2025-09-24T19:49:50.188115Z",
+                "2025-09-24T19:51:56.876815Z",
+                "2025-09-24T19:53:47.355157Z",
+                "2025-09-24T19:55:41.769355Z",
+                "2025-09-24T19:57:45.078200Z",
+                "2025-09-24T19:59:48.246961Z",
+                "2025-09-24T20:02:26.434455Z",
+                "2025-09-24T21:23:57.352987Z",
+                "2025-09-24T21:26:06.465484Z",
+                "2025-09-24T21:27:54.093030Z",
+                "2025-09-24T21:30:00.970330Z",
+                "2025-09-24T21:32:07.888870Z",
+                "2025-09-24T21:33:38.553000Z",
+                "2025-09-24T21:35:40.831308Z",
+                "2025-09-24T22:24:06.478073Z",
+                "2025-09-24T22:26:06.200192Z",
+                "2025-09-24T22:27:22.881577Z",
+                "2025-09-24T22:29:57.535867Z",
+                "2025-09-24T22:32:08.911108Z",
+                "2025-09-24T22:33:52.637724Z",
+                "2025-09-24T22:36:26.386402Z",
+                "2025-09-24T23:27:40.605042Z",
+                "2025-09-24T23:29:50.847519Z",
+                "2025-09-24T23:32:27.078490Z",
+                "2025-09-24T23:35:35.074764Z",
+                "2025-09-24T23:37:53.645851Z",
+                "2025-09-24T23:39:35.647127Z",
+                "2025-09-24T23:42:18.464023Z"
+            ]
+        },
+        {
+            "id": "12a5e942ba1e906bf76443f8348fbf0c",
+            "source": "spacenews",
+            "text": "Geespace secures $281 million for IoT constellation and global HQ",
+            "source_link": "https://spacenews.com/geespace-secures-281-million-for-iot-constellation-and-global-hq/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-24T08:12:15.221928Z",
+            "shown_at": [
+                "2025-09-24T08:12:16.609186Z"
+            ]
+        },
+        {
+            "id": "92c67491e45caed41d6bde5638dff1d9",
+            "source": "spacenews",
+            "text": "Lynker and NOAA  to create tailored space-weather forecasts",
+            "source_link": "https://spacenews.com/lynker-and-noaa-to-create-tailored-space-weather-forecasts/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-24T03:17:53.079222Z",
+            "shown_at": [
+                "2025-09-24T03:17:54.570777Z",
+                "2025-09-24T06:21:53.207370Z"
+            ]
+        },
+        {
+            "id": "9a28e1e286c15497ffe0050ab0a150fa",
+            "source": "spacenews",
+            "text": "Blue Origin only bidder for new VIPER lander award",
+            "source_link": "https://spacenews.com/blue-origin-only-bidder-for-new-viper-lander-award/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-24T02:32:24.962243Z",
+            "shown_at": [
+                "2025-09-24T02:32:25.935131Z"
+            ]
+        },
         {
             "id": "b34f289639d8635801c1ae2110e0940b",
             "source": "spacenews",
@@ -11905,449 +12144,6 @@
                 "2025-06-15T07:37:29.993263Z",
                 "2025-06-17T14:13:40.386486Z",
                 "2025-06-19T13:02:18.657170Z"
-            ]
-        },
-        {
-            "id": "c189a376c07ab028f2420311c4e4a7b8",
-            "source": "spacenews",
-            "text": "CAS Space performs Kinetica-2 first stage hot fire test ahead of first launch and cargo demo",
-            "source_link": "https://spacenews.com/cas-space-performs-kinetica-2-first-stage-hot-fire-test-ahead-of-first-launch-and-cargo-demo/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-13T10:37:10.449577Z",
-            "shown_at": [
-                "2025-06-13T10:37:11.056346Z",
-                "2025-06-13T19:43:39.683268Z",
-                "2025-06-14T06:03:29.047035Z",
-                "2025-06-17T19:03:46.439967Z"
-            ]
-        },
-        {
-            "id": "05402b0869716f6d51391d791fa7c726",
-            "source": "spacenews",
-            "text": "French SSA company Look Up raises 50 million euros",
-            "source_link": "https://spacenews.com/french-ssa-company-look-up-raises-50-million-euros/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-13T07:33:42.568754Z",
-            "shown_at": [
-                "2025-06-13T07:33:43.361226Z",
-                "2025-06-15T13:57:44.930073Z",
-                "2025-06-18T16:07:31.484775Z"
-            ]
-        },
-        {
-            "id": "2274623f6672ff39811865814cdb1c4c",
-            "source": "spacenews",
-            "text": "House appropriators advance defense bill, slam White House for budget delay",
-            "source_link": "https://spacenews.com/house-appropriators-advance-defense-bill-slam-white-house-for-budget-delay/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-12T23:19:25.297835Z",
-            "shown_at": [
-                "2025-06-12T23:19:26.052636Z",
-                "2025-06-14T07:02:11.114024Z",
-                "2025-06-17T22:27:09.342764Z",
-                "2025-06-19T07:17:34.155235Z",
-                "2025-06-19T14:27:37.249747Z"
-            ]
-        },
-        {
-            "id": "c724c0dcbe5db1f80dd8a67dbcdf7be9",
-            "source": "spacenews",
-            "text": "Logos nets $50 million to advance plans for more than 4,000 broadband satellites",
-            "source_link": "https://spacenews.com/logos-nets-50-million-to-advance-plans-for-more-than-4000-broadband-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-12T22:21:33.911092Z",
-            "shown_at": [
-                "2025-06-12T22:21:34.423687Z",
-                "2025-06-13T01:14:21.411788Z",
-                "2025-06-15T08:33:37.075426Z",
-                "2025-06-17T09:19:48.991715Z",
-                "2025-06-18T05:03:38.387476Z"
-            ]
-        },
-        {
-            "id": "8c3ce2c6d7f99aecc6386e4d8a1c179c",
-            "source": "spacenews",
-            "text": "NASA indefinitely delays private astronaut mission, citing air leak in Russian module",
-            "source_link": "https://spacenews.com/nasa-indefinitely-delays-private-astronaut-mission-citing-air-leak-in-russian-module/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-12T21:39:39.173566Z",
-            "shown_at": [
-                "2025-06-12T21:39:39.740312Z"
-            ]
-        },
-        {
-            "id": "3dda53c7d0964b35ed25471df76b0e9a",
-            "source": "breaking_defense",
-            "text": "Nine steps to make Golden Dome a true success",
-            "source_link": "https://breakingdefense.com/2025/06/nine-steps-to-make-golden-dome-a-true-success/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-12T18:02:35.410533Z",
-            "shown_at": [
-                "2025-06-12T18:02:36.112341Z",
-                "2025-06-13T00:02:11.815308Z",
-                "2025-06-13T06:51:50.170382Z",
-                "2025-06-13T08:03:43.921908Z",
-                "2025-06-13T17:51:31.308392Z",
-                "2025-06-14T22:39:30.093017Z",
-                "2025-06-15T00:31:50.479258Z",
-                "2025-06-15T02:29:07.465055Z",
-                "2025-06-15T03:25:50.385763Z",
-                "2025-06-15T05:17:33.298402Z",
-                "2025-06-15T20:33:28.735415Z",
-                "2025-06-17T05:47:35.468648Z",
-                "2025-06-17T07:39:31.473871Z",
-                "2025-06-17T09:47:12.540302Z",
-                "2025-06-17T11:02:19.496428Z",
-                "2025-06-18T05:17:34.331463Z",
-                "2025-06-19T01:02:19.248427Z",
-                "2025-06-19T09:11:45.425239Z",
-                "2025-06-19T13:17:31.725133Z",
-                "2025-06-19T16:51:33.563792Z"
-            ]
-        },
-        {
-            "id": "86b4de04833859a3573eabd7802795a6",
-            "source": "spacenews",
-            "text": "Dawn Aerospace sells Aurora suborbital spaceplane to Oklahoma",
-            "source_link": "https://spacenews.com/dawn-aerospace-sells-aurora-suborbital-spaceplane-to-oklahoma/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-12T12:11:42.920363Z",
-            "shown_at": [
-                "2025-06-12T12:11:43.966141Z",
-                "2025-06-12T17:05:37.596093Z",
-                "2025-06-16T19:23:43.848622Z",
-                "2025-06-18T08:39:32.130635Z",
-                "2025-06-19T05:23:52.526994Z"
-            ]
-        },
-        {
-            "id": "8e59ca58892c8f452cd0715e102a8d60",
-            "source": "spacenews",
-            "text": "Muon Space raises $90 million to scale satellite production and acquire propulsion startup",
-            "source_link": "https://spacenews.com/muon-space-raises-90-million-to-scale-satellite-production-and-acquire-propulsion-startup/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-12T11:15:36.358634Z",
-            "shown_at": [
-                "2025-06-12T11:15:37.083067Z",
-                "2025-06-13T11:33:36.696235Z",
-                "2025-06-15T22:39:35.975547Z",
-                "2025-06-17T06:57:49.255616Z",
-                "2025-06-19T06:21:31.871590Z"
-            ]
-        },
-        {
-            "id": "7477596b260237bd0bf2ee93bf2d512b",
-            "source": "spacenews",
-            "text": "Voyager looks to expanded defense and space opportunities as a public company",
-            "source_link": "https://spacenews.com/voyager-looks-to-expanded-defense-and-space-opportunities-as-a-public-company/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-12T08:51:46.305813Z",
-            "shown_at": [
-                "2025-06-12T08:51:46.888476Z",
-                "2025-06-14T11:03:25.403509Z",
-                "2025-06-14T14:36:11.144165Z",
-                "2025-06-14T21:13:28.610602Z",
-                "2025-06-16T03:27:28.392002Z"
-            ]
-        },
-        {
-            "id": "981719485e7e0a72cab690300e0cb58a",
-            "source": "spacenews",
-            "text": "Sierra Space doubles down on defense",
-            "source_link": "https://spacenews.com/sierra-space-doubles-down-on-defense/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-11T22:07:32.255456Z",
-            "shown_at": [
-                "2025-06-11T22:07:33.086497Z",
-                "2025-06-16T16:15:53.336511Z",
-                "2025-06-16T20:19:07.589537Z"
-            ]
-        },
-        {
-            "id": "6522344f467fa9de80e5344b4c99b434",
-            "source": "spacenews",
-            "text": "Electron launches third iQPS satellite in three months",
-            "source_link": "https://spacenews.com/electron-launches-third-iqps-satellite-in-three-months/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-11T21:37:47.339256Z",
-            "shown_at": [
-                "2025-06-11T21:53:37.594216Z",
-                "2025-06-13T07:05:26.442064Z",
-                "2025-06-14T18:23:36.632068Z",
-                "2025-06-14T23:07:46.458545Z",
-                "2025-06-15T06:41:43.317242Z",
-                "2025-06-16T04:25:14.790515Z",
-                "2025-06-16T23:29:40.833908Z",
-                "2025-06-18T00:19:44.678918Z"
-            ]
-        },
-        {
-            "id": "c8005a14ce2d8049da35a6385dbfe3ee",
-            "source": "spacenews",
-            "text": "BAE Systems brings South Korea’s Hanwha into intelligence-gathering constellation",
-            "source_link": "https://spacenews.com/bae-systems-brings-south-koreas-hanwha-into-intelligence-gathering-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-11T21:37:47.339199Z",
-            "shown_at": [
-                "2025-06-11T21:37:48.509964Z",
-                "2025-06-12T04:49:36.666684Z",
-                "2025-06-12T13:11:40.269042Z",
-                "2025-06-14T20:17:11.604619Z",
-                "2025-06-15T19:51:32.686189Z",
-                "2025-06-15T20:47:32.791641Z",
-                "2025-06-16T15:19:29.213008Z",
-                "2025-06-18T04:05:35.045657Z"
-            ]
-        },
-        {
-            "id": "9a28e1e286c15497ffe0050ab0a150fa",
-            "source": "spacenews",
-            "text": "Blue Origin only bidder for new VIPER lander award",
-            "source_link": "https://spacenews.com/blue-origin-only-bidder-for-new-viper-lander-award/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-24T02:32:24.962243Z",
-            "shown_at": [
-                "2025-09-24T02:32:25.935131Z"
-            ]
-        },
-        {
-            "id": "92c67491e45caed41d6bde5638dff1d9",
-            "source": "spacenews",
-            "text": "Lynker and NOAA  to create tailored space-weather forecasts",
-            "source_link": "https://spacenews.com/lynker-and-noaa-to-create-tailored-space-weather-forecasts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-24T03:17:53.079222Z",
-            "shown_at": [
-                "2025-09-24T03:17:54.570777Z",
-                "2025-09-24T06:21:53.207370Z"
-            ]
-        },
-        {
-            "id": "12a5e942ba1e906bf76443f8348fbf0c",
-            "source": "spacenews",
-            "text": "Geespace secures $281 million for IoT constellation and global HQ",
-            "source_link": "https://spacenews.com/geespace-secures-281-million-for-iot-constellation-and-global-hq/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-24T08:12:15.221928Z",
-            "shown_at": [
-                "2025-09-24T08:12:16.609186Z"
-            ]
-        },
-        {
-            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from Florida",
-            "source_link": "https://www.supercluster.com/launches/starlink-10-15",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-09-25T08:36:00.000Z",
-            "time_remaining": "0d 08h 53m",
-            "fetched_datetime": "2025-09-24T12:33:22.202641Z",
-            "shown_at": [
-                "2025-09-24T12:33:22.855148Z",
-                "2025-09-24T12:35:49.719699Z",
-                "2025-09-24T12:37:26.862433Z",
-                "2025-09-24T12:39:45.871113Z",
-                "2025-09-24T14:29:49.917978Z",
-                "2025-09-24T14:32:09.602168Z",
-                "2025-09-24T14:33:44.168475Z",
-                "2025-09-24T14:36:06.230040Z",
-                "2025-09-24T14:38:02.616955Z",
-                "2025-09-24T14:39:44.571880Z",
-                "2025-09-24T14:42:00.494723Z",
-                "2025-09-24T15:28:04.828264Z",
-                "2025-09-24T15:29:33.159233Z",
-                "2025-09-24T15:32:20.212179Z",
-                "2025-09-24T15:35:29.681156Z",
-                "2025-09-24T15:37:44.202477Z",
-                "2025-09-24T15:39:14.276147Z",
-                "2025-09-24T15:42:00.151336Z",
-                "2025-09-24T16:25:53.539374Z",
-                "2025-09-24T16:27:46.833446Z",
-                "2025-09-24T16:29:14.362250Z",
-                "2025-09-24T16:32:02.869552Z",
-                "2025-09-24T16:33:41.464255Z",
-                "2025-09-24T16:35:33.635556Z",
-                "2025-09-24T16:37:53.837832Z",
-                "2025-09-24T17:44:04.066864Z",
-                "2025-09-24T17:45:57.777276Z",
-                "2025-09-24T17:48:02.840403Z",
-                "2025-09-24T17:49:57.604447Z",
-                "2025-09-24T17:51:56.548616Z",
-                "2025-09-24T17:53:58.517093Z",
-                "2025-09-24T17:55:52.622575Z",
-                "2025-09-24T18:43:39.127956Z",
-                "2025-09-24T18:45:54.187425Z",
-                "2025-09-24T18:47:52.397778Z",
-                "2025-09-24T18:49:41.391238Z",
-                "2025-09-24T18:52:09.681902Z",
-                "2025-09-24T18:53:43.676854Z",
-                "2025-09-24T18:56:03.835822Z",
-                "2025-09-24T19:49:50.188115Z",
-                "2025-09-24T19:51:56.876815Z",
-                "2025-09-24T19:53:47.355157Z",
-                "2025-09-24T19:55:41.769355Z",
-                "2025-09-24T19:57:45.078200Z",
-                "2025-09-24T19:59:48.246961Z",
-                "2025-09-24T20:02:26.434455Z",
-                "2025-09-24T21:23:57.352987Z",
-                "2025-09-24T21:26:06.465484Z",
-                "2025-09-24T21:27:54.093030Z",
-                "2025-09-24T21:30:00.970330Z",
-                "2025-09-24T21:32:07.888870Z",
-                "2025-09-24T21:33:38.553000Z",
-                "2025-09-24T21:35:40.831308Z",
-                "2025-09-24T22:24:06.478073Z",
-                "2025-09-24T22:26:06.200192Z",
-                "2025-09-24T22:27:22.881577Z",
-                "2025-09-24T22:29:57.535867Z",
-                "2025-09-24T22:32:08.911108Z",
-                "2025-09-24T22:33:52.637724Z",
-                "2025-09-24T22:36:26.386402Z",
-                "2025-09-24T23:27:40.605042Z",
-                "2025-09-24T23:29:50.847519Z",
-                "2025-09-24T23:32:27.078490Z",
-                "2025-09-24T23:35:35.074764Z",
-                "2025-09-24T23:37:53.645851Z",
-                "2025-09-24T23:39:35.647127Z",
-                "2025-09-24T23:42:18.464023Z"
-            ]
-        },
-        {
-            "id": "7bdc64940bc451816e21fdb2ec0baa2c",
-            "source": "spacenews",
-            "text": "ESA backs Skynopy to bring adaptive modulation to Earth observation satellites",
-            "source_link": "https://spacenews.com/esa-backs-skynopy-to-bring-adaptive-modulation-to-earth-observation-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-24T12:42:11.880347Z",
-            "shown_at": [
-                "2025-09-24T12:42:12.989125Z"
-            ]
-        },
-        {
-            "id": "883a6af360113d75a827ebdd6b03c65b",
-            "source": "spacenews",
-            "text": "We’re cluttering Earth’s orbit at record speed. Who’s going to clean it up?",
-            "source_link": "https://spacenews.com/were-cluttering-earths-orbit-at-record-speed-whos-going-to-clean-it-up/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-24T13:13:46.779989Z",
-            "shown_at": [
-                "2025-09-24T13:13:47.409718Z"
-            ]
-        },
-        {
-            "id": "9bf634f59e13e1346a98fd7a6ac874a9",
-            "source": "nyt",
-            "text": "NASA Launches IMAP and Space Weather Missions on SpaceX Rocket",
-            "source_link": "https://www.nytimes.com/2025/09/24/science/imap-nasa-spacex-launch.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-24T13:27:42.737513Z",
-            "shown_at": [
-                "2025-09-24T13:27:43.569601Z",
-                "2025-09-24T22:40:35.025405Z"
-            ]
-        },
-        {
-            "id": "c8313808f7b9d7287332566c7b674f03",
-            "source": "spacenews",
-            "text": "Zeno Power secures americium-241 supply for space nuclear batteries",
-            "source_link": "https://spacenews.com/zeno-power-secures-americium-241-supply-for-space-nuclear-batteries/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-24T13:44:04.499813Z",
-            "shown_at": [
-                "2025-09-24T13:44:05.294211Z"
-            ]
-        },
-        {
-            "id": "2cb9074844c96f35351ddc32a0d012b6",
-            "source": "spacenews",
-            "text": "Falcon 9 launches three space weather missions",
-            "source_link": "https://spacenews.com/falcon-9-launches-three-space-weather-missions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-24T13:44:04.499870Z",
-            "shown_at": [
-                "2025-09-24T14:00:01.477148Z"
-            ]
-        },
-        {
-            "id": "d05f2bffadf657406d16c0c93433a5f2",
-            "source": "breaking_defense",
-            "text": "Uncertainty over satellite constellation means alt-GPS capability up in the air: Official",
-            "source_link": "https://breakingdefense.com/2025/09/uncertainty-over-satellite-constellation-means-alternate-gps-capability-up-in-the-air-as-well-official/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-24T14:14:11.796805Z",
-            "shown_at": [
-                "2025-09-24T14:14:12.840681Z",
-                "2025-09-24T21:52:12.914058Z"
-            ]
-        },
-        {
-            "id": "033d6e3b0c46a601327d4fa997d99432",
-            "source": "breaking_defense",
-            "text": "In a first, Space Force to require refueling capability for next-gen neighborhood watch sats",
-            "source_link": "https://breakingdefense.com/2025/09/in-shift-space-force-to-require-refueling-capability-for-next-gen-neighborhood-watch-sats/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-24T17:27:54.828010Z",
-            "shown_at": [
-                "2025-09-24T17:27:55.597147Z"
-            ]
-        },
-        {
-            "id": "18ba07cb997f2502adc7dcda2ef5a5fb",
-            "source": "spacenews",
-            "text": "Space Forge and United Semiconductors to collaborate on space-based semiconductor manufacturing",
-            "source_link": "https://spacenews.com/space-forge-and-united-semiconductors-to-collaborate-on-space-based-semiconductor-manufacturing/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-24T18:13:49.103624Z",
-            "shown_at": [
-                "2025-09-24T18:13:49.866248Z"
-            ]
-        },
-        {
-            "id": "9daf41d9b1199ab39996f915ac1e1efc",
-            "source": "spacenews",
-            "text": "ESCAPADE launch on New Glenn planned for late October or early November",
-            "source_link": "https://spacenews.com/escapade-launch-on-new-glenn-planned-for-late-october-or-early-november/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-24T20:52:36.244975Z",
-            "shown_at": [
-                "2025-09-24T20:52:36.944217Z"
-            ]
-        },
-        {
-            "id": "c514b7633629b6476285eeefc3158600",
-            "source": "spacenews",
-            "text": "Next chapter in space defense: Satellites that never stop moving",
-            "source_link": "https://spacenews.com/next-chapter-in-space-defense-satellites-that-never-stop-moving/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-24T21:10:02.776281Z",
-            "shown_at": [
-                "2025-09-24T21:10:03.915834Z"
             ]
         }
     ]
