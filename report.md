@@ -5,7 +5,7 @@
 | spacenews | 6 | 17 | 23 | 49 |
 | breaking_defense | 2 | 6 | 20 | 43 |
 | nyt | 0 | 1 | 19 | 40 |
-| supercluster | 1 | 1 | 45 | 45 |
+| supercluster | 1 | 1 | 46 | 46 |
 
 # Shown Order
 
@@ -6681,3 +6681,4 @@
 - **Sep 25, 08:27 PM** - Space Force working on future operations plan to guide investment (breaking_defense)
 - **Sep 25, 08:43 PM** - German military to invest $41B in space capabilities (breaking_defense)
 - **Sep 25, 08:58 PM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
+- **Sep 25, 09:14 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
