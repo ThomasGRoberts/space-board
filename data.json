@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-26T00:02:04.924162+00:00",
-    "trigger_count": 6,
-    "current_item_id": "033d6e3b0c46a601327d4fa997d99432",
+    "trigger_count": 0,
+    "current_item_id": "a11113ed2dc701adaa4732a82b19729f",
     "data": [
         {
             "id": "1ee55f62eab7da398cdd3271593c0a3a",
@@ -12211,6 +12211,18 @@
             "fetched_datetime": "2025-09-26T11:17:53.087811Z",
             "shown_at": [
                 "2025-09-26T11:17:54.029998Z"
+            ]
+        },
+        {
+            "id": "a11113ed2dc701adaa4732a82b19729f",
+            "source": "spacenews",
+            "text": "New contract signed between the NSSTC and U-Space: A new milestone in UAE-France cooperation in space innovation",
+            "source_link": "https://spacenews.com/new-contract-signed-between-the-nsstc-and-u-space-a-new-milestone-in-uae-france-cooperation-in-space-innovation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-26T15:12:26.837889Z",
+            "shown_at": [
+                "2025-09-26T15:12:27.610457Z"
             ]
         }
     ]
