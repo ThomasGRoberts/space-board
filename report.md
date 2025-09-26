@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 4 | 20 | 41 |
 | spacenews | 7 | 14 | 25 | 48 |
 | nyt | 1 | 2 | 19 | 39 |
-| supercluster | 1 | 1 | 26 | 26 |
+| supercluster | 1 | 1 | 27 | 27 |
 
 # Shown Order
 
@@ -6636,3 +6636,4 @@
 - **Sep 26, 09:40 AM** - Lockheed Martin delivers 21 satellites for next launch of U.S. military ‘Transport Layer’ (spacenews)
 - **Sep 26, 09:56 AM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Sep 26, 09:57 AM** - China Will Launch Long March 4C Rocket (supercluster)
+- **Sep 26, 09:59 AM** - China Will Launch Long March 4C Rocket (supercluster)
