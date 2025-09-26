@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 4 | 19 | 41 |
+| breaking_defense | 2 | 4 | 20 | 42 |
 | spacenews | 7 | 15 | 24 | 48 |
 | nyt | 0 | 1 | 18 | 39 |
 | supercluster | 1 | 1 | 3 | 3 |
@@ -6601,3 +6601,4 @@
 - **Sep 26, 05:29 AM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Sep 26, 05:32 AM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Sep 26, 05:33 AM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
+- **Sep 26, 05:48 AM** - Photos: Day 2 of AFA’s Air, Space & Cyber Conference (breaking_defense)
