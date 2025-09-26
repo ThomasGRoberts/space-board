@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 20 | 41 |
 | spacenews | 7 | 17 | 24 | 50 |
-| supercluster | 1 | 1 | 68 | 68 |
+| supercluster | 1 | 1 | 69 | 69 |
 | nyt | 0 | 1 | 19 | 40 |
 
 # Shown Order
@@ -6654,3 +6654,4 @@
 - **Sep 26, 12:26 AM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
 - **Sep 26, 12:40 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 26, 12:42 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 26, 12:46 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
