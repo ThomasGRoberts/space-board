@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 4 | 20 | 41 |
 | spacenews | 7 | 14 | 25 | 48 |
 | nyt | 1 | 2 | 19 | 39 |
-| supercluster | 1 | 1 | 33 | 33 |
+| supercluster | 1 | 1 | 34 | 34 |
 
 # Shown Order
 
@@ -6646,3 +6646,4 @@
 - **Sep 26, 10:43 AM** - NASA selects new astronaut class (spacenews)
 - **Sep 26, 11:00 AM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Sep 26, 11:03 AM** - China Will Launch Long March 4C Rocket (supercluster)
+- **Sep 26, 11:06 AM** - China Will Launch Long March 4C Rocket (supercluster)
