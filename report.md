@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 4 | 20 | 41 |
 | spacenews | 7 | 15 | 24 | 48 |
 | nyt | 0 | 1 | 18 | 38 |
-| supercluster | 1 | 1 | 8 | 8 |
+| supercluster | 1 | 1 | 9 | 9 |
 
 # Shown Order
 
@@ -6608,3 +6608,4 @@
 - **Sep 26, 06:23 AM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Sep 26, 06:25 AM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Sep 26, 06:27 AM** - China Will Launch Long March 4C Rocket (supercluster)
+- **Sep 26, 06:30 AM** - China Will Launch Long March 4C Rocket (supercluster)
