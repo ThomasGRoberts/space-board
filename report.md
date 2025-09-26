@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 21 | 41 |
 | spacenews | 7 | 14 | 24 | 48 |
-| nyt | 1 | 2 | 19 | 39 |
+| nyt | 1 | 2 | 20 | 40 |
 | supercluster | 1 | 1 | 31 | 31 |
 
 # Shown Order
@@ -6642,3 +6642,4 @@
 - **Sep 26, 10:08 AM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Sep 26, 10:09 AM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Sep 26, 10:11 AM** - In a first, Space Force to require refueling capability for next-gen neighborhood watch sats (breaking_defense)
+- **Sep 26, 10:27 AM** - Earth Has a New ‘Quasi-Moon,’ and It May Be Very Tiny (nyt)
