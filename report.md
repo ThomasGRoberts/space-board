@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 20 | 41 |
-| spacenews | 7 | 15 | 24 | 49 |
+| spacenews | 7 | 15 | 24 | 48 |
 | nyt | 0 | 1 | 18 | 38 |
-| supercluster | 1 | 1 | 12 | 12 |
+| supercluster | 1 | 1 | 13 | 13 |
 
 # Shown Order
 
@@ -6615,3 +6615,4 @@
 - **Sep 26, 07:02 AM** - To Protect the Nation, the Golden Dome Must Be Capable of Protecting Itself (spacenews)
 - **Sep 26, 07:18 AM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Sep 26, 07:21 AM** - China Will Launch Long March 4C Rocket (supercluster)
+- **Sep 26, 07:23 AM** - China Will Launch Long March 4C Rocket (supercluster)
