@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 20 | 42 |
-| spacenews | 7 | 16 | 25 | 49 |
-| supercluster | 1 | 1 | 80 | 80 |
+| spacenews | 7 | 16 | 24 | 49 |
+| supercluster | 1 | 1 | 81 | 81 |
 | nyt | 0 | 1 | 19 | 40 |
 
 # Shown Order
@@ -6672,3 +6672,4 @@
 - **Sep 26, 01:54 AM** - Space Force will own next-gen neighborhood watch sats, based on commercial tech (breaking_defense)
 - **Sep 26, 02:10 AM** - NASA awards Katalyst Space contract to reboost Swift spacecraft (spacenews)
 - **Sep 26, 02:26 AM** - Why the U.S. Might Lose the Space Race (nyt)
+- **Sep 26, 02:42 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
