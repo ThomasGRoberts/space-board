@@ -5,7 +5,7 @@
 | breaking_defense | 0 | 2 | 20 | 40 |
 | spacenews | 6 | 12 | 23 | 47 |
 | nyt | 1 | 1 | 20 | 38 |
-| supercluster | 1 | 1 | 14 | 14 |
+| supercluster | 1 | 1 | 15 | 15 |
 
 # Shown Order
 
@@ -6657,3 +6657,4 @@
 - **Sep 26, 10:13 PM** - ‘Left of launch’ becomes central focus in next-generation missile defense (spacenews)
 - **Sep 26, 10:28 PM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
 - **Sep 26, 10:42 PM** - China Will Launch the Long March 6A Rocket (supercluster)
+- **Sep 26, 10:45 PM** - China Will Launch the Long March 6A Rocket (supercluster)
