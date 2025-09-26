@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 22 | 42 |
 | spacenews | 5 | 12 | 24 | 48 |
-| nyt | 1 | 1 | 20 | 39 |
+| nyt | 1 | 1 | 21 | 40 |
 | supercluster | 1 | 1 | 59 | 59 |
 
 # Shown Order
@@ -6684,3 +6684,4 @@
 - **Sep 26, 02:32 PM** - Building Saudi Arabia’s space champion (spacenews)
 - **Sep 26, 02:53 PM** - In a first, Space Force to require refueling capability for next-gen neighborhood watch sats (breaking_defense)
 - **Sep 26, 03:12 PM** - New contract signed between the NSSTC and U-Space: A new milestone in UAE-France cooperation in space innovation (spacenews)
+- **Sep 26, 03:28 PM** - A Tiny Quasi-Moon is Following Earth Around the Sun (nyt)
