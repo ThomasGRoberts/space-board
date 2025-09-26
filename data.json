@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-26T00:02:04.924162+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ffaa7870eca5c6ca0634f721fa9b872e",
+    "trigger_count": 0,
+    "current_item_id": "93e54b6d2b4605910c09502b1d5f25cd",
     "data": [
         {
             "id": "1ee55f62eab7da398cdd3271593c0a3a",
@@ -12192,6 +12192,18 @@
                 "2025-09-26T20:25:55.249219Z",
                 "2025-09-26T20:28:05.646409Z",
                 "2025-09-26T20:29:53.004321Z"
+            ]
+        },
+        {
+            "id": "93e54b6d2b4605910c09502b1d5f25cd",
+            "source": "spacenews",
+            "text": "Beyond Gravity to supply robotic arms for Swissto12 small GEO satellites",
+            "source_link": "https://spacenews.com/beyond-gravity-to-supply-robotic-arm-thrusters-for-swissto12-small-geos/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-26T20:32:18.362507Z",
+            "shown_at": [
+                "2025-09-26T20:32:19.044624Z"
             ]
         }
     ]
