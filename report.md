@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 2 | 19 | 40 |
+| breaking_defense | 0 | 2 | 20 | 40 |
 | spacenews | 6 | 12 | 23 | 47 |
 | nyt | 1 | 1 | 20 | 38 |
 | supercluster | 1 | 1 | 20 | 20 |
@@ -6663,3 +6663,4 @@
 - **Sep 26, 10:52 PM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Sep 26, 10:53 PM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Sep 26, 10:55 PM** - China Will Launch the Long March 6A Rocket (supercluster)
+- **Sep 26, 10:57 PM** - In a first, Space Force to require refueling capability for next-gen neighborhood watch sats (breaking_defense)
