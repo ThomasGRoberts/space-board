@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 20 | 41 |
 | spacenews | 7 | 17 | 24 | 50 |
-| supercluster | 1 | 1 | 73 | 73 |
+| supercluster | 1 | 1 | 74 | 74 |
 | nyt | 0 | 1 | 19 | 40 |
 
 # Shown Order
@@ -6662,3 +6662,4 @@
 - **Sep 26, 12:56 AM** - Space Force will own next-gen neighborhood watch sats, based on commercial tech (breaking_defense)
 - **Sep 26, 01:10 AM** - Falcon 9 launches three space weather missions (spacenews)
 - **Sep 26, 01:24 AM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
+- **Sep 26, 01:38 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
