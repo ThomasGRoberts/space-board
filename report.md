@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 4 | 21 | 42 |
+| breaking_defense | 2 | 4 | 21 | 41 |
 | spacenews | 7 | 14 | 24 | 48 |
-| nyt | 0 | 1 | 19 | 39 |
+| nyt | 1 | 2 | 20 | 40 |
 | supercluster | 1 | 1 | 24 | 24 |
 
 # Shown Order
@@ -6632,3 +6632,4 @@
 - **Sep 26, 08:42 AM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Sep 26, 08:45 AM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
 - **Sep 26, 08:59 AM** - Space Force to get NOAA antennas to supplement Satellite Control Network (breaking_defense)
+- **Sep 26, 09:20 AM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-26T00:02:04.924162+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f7f94516e382bce644eae8cd40e96fd0",
+    "trigger_count": 0,
+    "current_item_id": "34813b2aa43cc3553bfb941de3722e1e",
     "data": [
         {
             "id": "1ee55f62eab7da398cdd3271593c0a3a",
@@ -12138,6 +12138,18 @@
                 "2025-09-26T08:35:47.593239Z",
                 "2025-09-26T08:39:26.978150Z",
                 "2025-09-26T08:42:43.152080Z"
+            ]
+        },
+        {
+            "id": "34813b2aa43cc3553bfb941de3722e1e",
+            "source": "nyt",
+            "text": "NASA Artemis II Astronauts Aim to Make Space Great for All",
+            "source_link": "https://www.nytimes.com/2025/09/26/science/nasa-astronauts-moon-artemis-ii.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-26T09:20:02.350672Z",
+            "shown_at": [
+                "2025-09-26T09:20:03.874947Z"
             ]
         }
     ]
