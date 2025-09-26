@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 22 | 42 |
 | spacenews | 5 | 12 | 24 | 48 |
-| nyt | 1 | 1 | 20 | 39 |
+| nyt | 1 | 1 | 21 | 40 |
 | supercluster | 1 | 1 | 66 | 66 |
 
 # Shown Order
@@ -6694,3 +6694,4 @@
 - **Sep 26, 03:57 PM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Sep 26, 04:00 PM** - Uncertainty over satellite constellation means alternate-GPS capability up in the air as well: Official (breaking_defense)
 - **Sep 26, 04:18 PM** - Moog Breaks Ground on New Propulsion Clean Room to Support Satellite and Missile Growth (spacenews)
+- **Sep 26, 04:35 PM** - A Tiny Quasi-Moon is Following Earth Around the Sun (nyt)
