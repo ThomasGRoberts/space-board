@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 4 | 20 | 42 |
+| breaking_defense | 2 | 4 | 20 | 41 |
 | spacenews | 7 | 15 | 25 | 49 |
 | nyt | 0 | 1 | 18 | 39 |
 | supercluster | 1 | 1 | 1 | 1 |
@@ -6597,4 +6597,4 @@
 - **Sep 26, 03:27 AM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
 - **Sep 26, 03:57 AM** - Space Force working on future operations plan to guide investment (breaking_defense)
 - **Sep 26, 04:16 AM** - Redwire to provide solar arrays for Axiom space station module (spacenews)
-- **Sep 26, 04:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 26, 04:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
