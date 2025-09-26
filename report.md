@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 4 | 20 | 41 |
+| breaking_defense | 2 | 4 | 21 | 42 |
 | spacenews | 7 | 17 | 24 | 50 |
 | supercluster | 1 | 1 | 73 | 73 |
 | nyt | 0 | 1 | 18 | 39 |
@@ -6659,3 +6659,4 @@
 - **Sep 26, 12:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 26, 12:52 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 26, 12:53 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 26, 12:56 AM** - Space Force will own next-gen neighborhood watch sats, based on commercial tech (breaking_defense)
