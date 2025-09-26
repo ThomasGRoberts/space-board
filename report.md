@@ -5,7 +5,7 @@
 | breaking_defense | 0 | 2 | 20 | 40 |
 | spacenews | 5 | 11 | 22 | 46 |
 | nyt | 1 | 1 | 20 | 39 |
-| supercluster | 1 | 1 | 8 | 8 |
+| supercluster | 1 | 1 | 9 | 9 |
 
 # Shown Order
 
@@ -6647,3 +6647,4 @@
 - **Sep 26, 09:05 PM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
 - **Sep 26, 09:25 PM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Sep 26, 09:28 PM** - China Will Launch the Long March 6A Rocket (supercluster)
+- **Sep 26, 09:32 PM** - China Will Launch the Long March 6A Rocket (supercluster)
