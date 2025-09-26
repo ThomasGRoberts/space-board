@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 4 | 20 | 41 |
 | spacenews | 7 | 14 | 24 | 48 |
 | nyt | 0 | 1 | 18 | 39 |
-| supercluster | 1 | 1 | 18 | 18 |
+| supercluster | 1 | 1 | 19 | 19 |
 
 # Shown Order
 
@@ -6624,3 +6624,4 @@
 - **Sep 26, 07:49 AM** - Space Force will own next-gen neighborhood watch sats, based on commercial tech (breaking_defense)
 - **Sep 26, 08:05 AM** - Novaspace Recognizes 2025 Excellence Award Winners in Satellite Connectivity, Earth Observation, and Startup Challenge at World Space Business Week (spacenews)
 - **Sep 26, 08:22 AM** - China Will Launch Long March 4C Rocket (supercluster)
+- **Sep 26, 08:25 AM** - China Will Launch Long March 4C Rocket (supercluster)
