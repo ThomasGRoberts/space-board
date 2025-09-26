@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 4 | 22 | 42 |
+| breaking_defense | 2 | 4 | 22 | 43 |
 | spacenews | 6 | 13 | 25 | 49 |
 | nyt | 1 | 1 | 20 | 39 |
 | supercluster | 1 | 1 | 52 | 52 |
@@ -6672,3 +6672,4 @@
 - **Sep 26, 01:15 PM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Sep 26, 01:17 PM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Sep 26, 01:19 PM** - Artemis 2 could launch as soon as February (spacenews)
+- **Sep 26, 01:35 PM** - German military to invest $41B in space capabilities (breaking_defense)
