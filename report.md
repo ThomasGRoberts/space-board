@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 21 | 40 |
-| spacenews | 4 | 12 | 22 | 48 |
+| spacenews | 4 | 12 | 22 | 47 |
 | nyt | 1 | 1 | 20 | 38 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -6637,3 +6637,4 @@
 - **Sep 26, 06:43 PM** - Beyond Gravity to supply robotic arm thrusters for Swissto12 small GEOs (spacenews)
 - **Sep 26, 07:00 PM** - A Tiny Quasi-Moon is Following Earth Around the Sun (nyt)
 - **Sep 26, 08:20 PM** - China Will Launch the Long March 6A Rocket (supercluster)
+- **Sep 26, 08:22 PM** - China Will Launch the Long March 6A Rocket (supercluster)
