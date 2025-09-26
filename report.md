@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 4 | 20 | 41 |
+| breaking_defense | 2 | 4 | 21 | 42 |
 | spacenews | 7 | 14 | 25 | 48 |
 | nyt | 1 | 2 | 19 | 39 |
 | supercluster | 1 | 1 | 31 | 31 |
@@ -6641,3 +6641,4 @@
 - **Sep 26, 10:06 AM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Sep 26, 10:08 AM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Sep 26, 10:09 AM** - China Will Launch Long March 4C Rocket (supercluster)
+- **Sep 26, 10:11 AM** - In a first, Space Force to require refueling capability for next-gen neighborhood watch sats (breaking_defense)
