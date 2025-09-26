@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 4 | 21 | 41 |
+| breaking_defense | 2 | 4 | 20 | 41 |
 | spacenews | 7 | 14 | 25 | 48 |
 | nyt | 1 | 2 | 19 | 39 |
-| supercluster | 1 | 1 | 25 | 25 |
+| supercluster | 1 | 1 | 26 | 26 |
 
 # Shown Order
 
@@ -6635,3 +6635,4 @@
 - **Sep 26, 09:20 AM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
 - **Sep 26, 09:40 AM** - Lockheed Martin delivers 21 satellites for next launch of U.S. military ‘Transport Layer’ (spacenews)
 - **Sep 26, 09:56 AM** - China Will Launch Long March 4C Rocket (supercluster)
+- **Sep 26, 09:57 AM** - China Will Launch Long March 4C Rocket (supercluster)
