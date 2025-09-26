@@ -5,7 +5,7 @@
 | breaking_defense | 0 | 2 | 20 | 40 |
 | spacenews | 5 | 11 | 23 | 46 |
 | nyt | 1 | 1 | 20 | 39 |
-| supercluster | 1 | 1 | 6 | 6 |
+| supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
 
@@ -6645,3 +6645,4 @@
 - **Sep 26, 08:32 PM** - Beyond Gravity to supply robotic arms for Swissto12 small GEO satellites (spacenews)
 - **Sep 26, 08:50 PM** - Space Force working on future operations plan to guide investment (breaking_defense)
 - **Sep 26, 09:05 PM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
+- **Sep 26, 09:25 PM** - China Will Launch the Long March 6A Rocket (supercluster)
