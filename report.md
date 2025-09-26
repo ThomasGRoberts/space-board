@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 4 | 21 | 42 |
 | spacenews | 7 | 15 | 25 | 49 |
 | supercluster | 1 | 1 | 87 | 87 |
-| nyt | 0 | 1 | 18 | 39 |
+| nyt | 0 | 1 | 19 | 40 |
 
 # Shown Order
 
@@ -6681,3 +6681,4 @@
 - **Sep 26, 02:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 26, 02:58 AM** - Photos: Day 2 of AFA’s Air, Space & Cyber Conference (breaking_defense)
 - **Sep 26, 03:13 AM** - China promotes direct-to-device satellite services with new guidelines and licensing (spacenews)
+- **Sep 26, 03:27 AM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
