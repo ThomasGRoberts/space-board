@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 21 | 41 |
 | spacenews | 7 | 15 | 24 | 49 |
-| nyt | 1 | 2 | 19 | 39 |
+| nyt | 1 | 2 | 20 | 40 |
 | supercluster | 1 | 1 | 38 | 38 |
 
 # Shown Order
@@ -6653,3 +6653,4 @@
 - **Sep 26, 11:16 AM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Sep 26, 11:17 AM** - Redefining space diplomacy for the 21st century: from orbits to outcomes (spacenews)
 - **Sep 26, 11:32 AM** - NRO needs AI to manage more than 200 (and counting) satellites, director says (breaking_defense)
+- **Sep 26, 11:50 AM** - Why the U.S. Might Lose the Space Race (nyt)
