@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 2 | 20 | 40 |
-| spacenews | 5 | 11 | 23 | 46 |
+| spacenews | 6 | 12 | 24 | 47 |
 | nyt | 1 | 1 | 19 | 38 |
 | supercluster | 1 | 1 | 13 | 13 |
 
@@ -6654,3 +6654,4 @@
 - **Sep 26, 09:42 PM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Sep 26, 09:44 PM** - NASA awards Katalyst Space contract to reboost Swift spacecraft (spacenews)
 - **Sep 26, 09:59 PM** - Space Force working on future operations plan to guide investment (breaking_defense)
+- **Sep 26, 10:13 PM** - ‘Left of launch’ becomes central focus in next-generation missile defense (spacenews)
