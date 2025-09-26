@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 20 | 42 |
-| spacenews | 6 | 16 | 24 | 50 |
+| spacenews | 7 | 17 | 25 | 51 |
 | supercluster | 1 | 1 | 66 | 66 |
 | nyt | 0 | 1 | 18 | 39 |
 
@@ -6650,3 +6650,4 @@
 - **Sep 25, 11:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 25, 11:37 PM** - Lynker and NOAA  to create tailored space-weather forecasts (spacenews)
 - **Sep 25, 11:52 PM** - German military to invest $41B in space capabilities (breaking_defense)
+- **Sep 26, 12:10 AM** - NASA modifies Dream Chaser ISS cargo contract as Sierra Space shifts to defense work (spacenews)
