@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 4 | 21 | 41 |
 | spacenews | 6 | 15 | 23 | 49 |
 | nyt | 1 | 2 | 20 | 40 |
-| supercluster | 1 | 1 | 40 | 40 |
+| supercluster | 1 | 1 | 41 | 41 |
 
 # Shown Order
 
@@ -6656,3 +6656,4 @@
 - **Sep 26, 11:50 AM** - Why the U.S. Might Lose the Space Race (nyt)
 - **Sep 26, 12:06 PM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Sep 26, 12:08 PM** - China Will Launch Long March 4C Rocket (supercluster)
+- **Sep 26, 12:09 PM** - China Will Launch Long March 4C Rocket (supercluster)
