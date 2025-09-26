@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 4 | 20 | 40 |
-| spacenews | 8 | 15 | 25 | 49 |
+| breaking_defense | 2 | 4 | 21 | 41 |
+| spacenews | 7 | 15 | 24 | 49 |
 | nyt | 1 | 2 | 19 | 39 |
 | supercluster | 1 | 1 | 38 | 38 |
 
@@ -6652,3 +6652,4 @@
 - **Sep 26, 11:12 AM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Sep 26, 11:16 AM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Sep 26, 11:17 AM** - Redefining space diplomacy for the 21st century: from orbits to outcomes (spacenews)
+- **Sep 26, 11:32 AM** - NRO needs AI to manage more than 200 (and counting) satellites, director says (breaking_defense)
