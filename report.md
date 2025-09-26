@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 4 | 20 | 41 |
+| breaking_defense | 2 | 4 | 21 | 42 |
 | spacenews | 7 | 15 | 24 | 48 |
 | nyt | 0 | 1 | 18 | 39 |
 | supercluster | 1 | 1 | 17 | 17 |
@@ -6621,3 +6621,4 @@
 - **Sep 26, 07:29 AM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Sep 26, 07:32 AM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Sep 26, 07:35 AM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
+- **Sep 26, 07:49 AM** - Space Force will own next-gen neighborhood watch sats, based on commercial tech (breaking_defense)
