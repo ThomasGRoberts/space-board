@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 4 | 20 | 41 |
+| breaking_defense | 2 | 4 | 21 | 42 |
 | spacenews | 7 | 16 | 24 | 49 |
 | supercluster | 1 | 1 | 87 | 87 |
 | nyt | 0 | 1 | 19 | 40 |
@@ -6679,3 +6679,4 @@
 - **Sep 26, 02:52 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 26, 02:53 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 26, 02:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 26, 02:58 AM** - Photos: Day 2 of AFA’s Air, Space & Cyber Conference (breaking_defense)
