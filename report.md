@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 2 | 22 | 41 |
 | spacenews | 4 | 12 | 23 | 48 |
 | nyt | 1 | 1 | 21 | 39 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 0 | 0 |
 
 # Shown Order
 
@@ -6636,4 +6636,3 @@
 - **Sep 26, 06:28 PM** - U.S. military sees China’s reusable rocket push as a space security concern (spacenews)
 - **Sep 26, 06:43 PM** - Beyond Gravity to supply robotic arm thrusters for Swissto12 small GEOs (spacenews)
 - **Sep 26, 07:00 PM** - A Tiny Quasi-Moon is Following Earth Around the Sun (nyt)
-- **Sep 26, 07:21 PM** - China Will Launch Long March 4C Rocket (supercluster)
