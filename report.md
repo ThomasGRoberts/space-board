@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 4 | 22 | 43 |
 | spacenews | 6 | 11 | 24 | 47 |
 | nyt | 1 | 1 | 21 | 40 |
-| supercluster | 1 | 1 | 52 | 52 |
+| supercluster | 1 | 1 | 53 | 53 |
 
 # Shown Order
 
@@ -6674,3 +6674,4 @@
 - **Sep 26, 01:19 PM** - Artemis 2 could launch as soon as February (spacenews)
 - **Sep 26, 01:35 PM** - German military to invest $41B in space capabilities (breaking_defense)
 - **Sep 26, 01:50 PM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
+- **Sep 26, 02:08 PM** - China Will Launch Long March 4C Rocket (supercluster)
