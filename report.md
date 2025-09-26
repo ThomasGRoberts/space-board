@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 20 | 41 |
 | spacenews | 7 | 15 | 24 | 48 |
-| nyt | 0 | 1 | 17 | 38 |
+| nyt | 0 | 1 | 18 | 39 |
 | supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
@@ -6600,3 +6600,4 @@
 - **Sep 26, 05:27 AM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Sep 26, 05:29 AM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Sep 26, 05:32 AM** - China Will Launch Long March 4C Rocket (supercluster)
+- **Sep 26, 05:33 AM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
