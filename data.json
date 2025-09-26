@@ -1,9 +1,185 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-09-25T00:02:23.458942+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2025-09-26T00:02:04.924162+00:00",
+    "trigger_count": 4,
     "current_item_id": "1ee55f62eab7da398cdd3271593c0a3a",
     "data": [
+        {
+            "id": "1ee55f62eab7da398cdd3271593c0a3a",
+            "source": "breaking_defense",
+            "text": "German military to invest $41B in space capabilities",
+            "source_link": "https://breakingdefense.com/2025/09/german-military-to-invest-41b-in-space-capabilities/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-25T20:43:26.614355Z",
+            "shown_at": [
+                "2025-09-25T20:43:27.255243Z",
+                "2025-09-25T23:52:23.561691Z"
+            ]
+        },
+        {
+            "id": "ff9061b4f2c247a440b3bcaee4035b6c",
+            "source": "spacenews",
+            "text": "Artemis 2 could launch as soon as February",
+            "source_link": "https://spacenews.com/artemis-2-could-launch-as-soon-as-february/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-25T19:09:58.064340Z",
+            "shown_at": [
+                "2025-09-25T19:09:58.766852Z"
+            ]
+        },
+        {
+            "id": "7f2e15a576376ee54442561880cbf20e",
+            "source": "spacenews",
+            "text": "L3Harris looks to scale production of hybrid satcom radios after successful Air Force tests",
+            "source_link": "https://spacenews.com/l3harris-looks-to-scale-production-of-hybrid-satcom-radios-after-successful-air-force-tests/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-25T18:55:35.690766Z",
+            "shown_at": [
+                "2025-09-25T18:55:36.620296Z"
+            ]
+        },
+        {
+            "id": "13b26265dcc9b3a9309d83c973c1c686",
+            "source": "breaking_defense",
+            "text": "SPACECOM discussing expansion of joint space monitoring missions with allies",
+            "source_link": "https://breakingdefense.com/2025/09/spacecom-discussing-expansion-of-joint-space-monitoring-missions-with-allies/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-25T15:45:53.750401Z",
+            "shown_at": [
+                "2025-09-25T15:45:54.875740Z"
+            ]
+        },
+        {
+            "id": "88023ce49dae72742e6127cb79ce3b98",
+            "source": "spacenews",
+            "text": "NASA awards Katalyst Space contract to reboost Swift spacecraft",
+            "source_link": "https://spacenews.com/nasa-awards-katalyst-space-contract-to-reboost-swift-spacecraft/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-25T15:13:43.216878Z",
+            "shown_at": [
+                "2025-09-25T15:13:43.853601Z"
+            ]
+        },
+        {
+            "id": "707d0b8a76fb08f66bcfa93cb0b2ba33",
+            "source": "spacenews",
+            "text": "NASA Selects Proteus Space for Novel Rapid Spacecraft Conceptual Design Study",
+            "source_link": "https://spacenews.com/nasa-selects-proteus-space-for-novel-rapid-spacecraft-conceptual-design-study/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-25T14:44:09.734456Z",
+            "shown_at": [
+                "2025-09-25T14:44:10.720286Z"
+            ]
+        },
+        {
+            "id": "4beba9b243fe616fcb8e7be8d963bbc1",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Starlink Satellites from California",
+            "source_link": "https://www.supercluster.com/launches/starlink-17-11",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-09-26T04:17:00.000Z",
+            "time_remaining": "0d 04h 41m",
+            "fetched_datetime": "2025-09-25T13:10:06.457596Z",
+            "shown_at": [
+                "2025-09-25T13:10:07.615347Z",
+                "2025-09-25T13:12:12.517372Z",
+                "2025-09-25T13:13:43.929754Z",
+                "2025-09-25T14:07:54.821935Z",
+                "2025-09-25T14:09:44.962684Z",
+                "2025-09-25T14:12:38.717603Z",
+                "2025-09-25T14:16:16.591177Z",
+                "2025-09-25T14:19:50.356108Z",
+                "2025-09-25T14:22:04.609044Z",
+                "2025-09-25T14:24:39.840716Z",
+                "2025-09-25T15:29:47.799158Z",
+                "2025-09-25T15:32:04.425025Z",
+                "2025-09-25T15:33:52.448054Z",
+                "2025-09-25T15:35:50.559511Z",
+                "2025-09-25T15:37:45.566470Z",
+                "2025-09-25T15:39:44.815730Z",
+                "2025-09-25T15:42:14.119398Z",
+                "2025-09-25T16:29:35.636968Z",
+                "2025-09-25T16:32:27.409001Z",
+                "2025-09-25T16:37:28.930337Z",
+                "2025-09-25T16:39:59.879818Z",
+                "2025-09-25T16:41:36.193111Z",
+                "2025-09-25T16:43:44.083787Z",
+                "2025-09-25T16:45:37.051737Z",
+                "2025-09-25T17:35:49.178882Z",
+                "2025-09-25T17:37:45.031177Z",
+                "2025-09-25T17:40:05.773162Z",
+                "2025-09-25T17:42:07.160476Z",
+                "2025-09-25T17:44:01.199056Z",
+                "2025-09-25T17:45:44.782831Z",
+                "2025-09-25T17:48:11.214600Z",
+                "2025-09-25T18:39:40.925300Z",
+                "2025-09-25T18:41:50.299361Z",
+                "2025-09-25T18:44:07.129878Z",
+                "2025-09-25T18:45:59.086555Z",
+                "2025-09-25T18:47:59.512376Z",
+                "2025-09-25T18:49:58.093116Z",
+                "2025-09-25T18:52:17.633110Z",
+                "2025-09-25T19:56:02.473696Z",
+                "2025-09-25T19:57:53.335763Z",
+                "2025-09-25T19:59:57.655002Z",
+                "2025-09-25T20:02:25.303100Z",
+                "2025-09-25T20:06:00.064367Z",
+                "2025-09-25T20:07:53.816285Z",
+                "2025-09-25T20:10:03.262551Z",
+                "2025-09-25T21:14:00.495098Z",
+                "2025-09-25T21:15:52.429037Z",
+                "2025-09-25T21:17:43.490345Z",
+                "2025-09-25T21:19:48.946711Z",
+                "2025-09-25T21:22:08.327764Z",
+                "2025-09-25T21:23:49.488011Z",
+                "2025-09-25T21:25:41.673162Z",
+                "2025-09-25T22:15:50.264334Z",
+                "2025-09-25T22:18:00.598841Z",
+                "2025-09-25T22:20:29.999190Z",
+                "2025-09-25T22:22:22.288372Z",
+                "2025-09-25T22:26:01.894006Z",
+                "2025-09-25T22:27:48.571077Z",
+                "2025-09-25T22:30:07.770560Z",
+                "2025-09-25T23:21:23.244926Z",
+                "2025-09-25T23:23:15.210269Z",
+                "2025-09-25T23:25:26.246806Z",
+                "2025-09-25T23:28:00.365245Z",
+                "2025-09-25T23:29:34.111888Z",
+                "2025-09-25T23:32:26.737514Z",
+                "2025-09-25T23:35:51.937243Z"
+            ]
+        },
+        {
+            "id": "c5e8056c4ec42aefd3ccb0346e45479f",
+            "source": "spacenews",
+            "text": "SatNews and SpaceNews Partner to Launch EU Space Defence Track at SmallSat Europe 2026",
+            "source_link": "https://spacenews.com/satnews-and-spacenews-partner-to-launch-eu-space-defence-track-at-smallsat-europe-2026/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-25T12:04:26.211534Z",
+            "shown_at": [
+                "2025-09-25T12:04:27.620173Z"
+            ]
+        },
+        {
+            "id": "ba696fc45bf21c7080df8c406095c4fe",
+            "source": "spacenews",
+            "text": "Redwire to provide solar arrays for Axiom space station module",
+            "source_link": "https://spacenews.com/redwire-to-provide-solar-arrays-for-axiom-space-station-module/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-25T11:32:24.391501Z",
+            "shown_at": [
+                "2025-09-25T11:32:25.364717Z"
+            ]
+        },
         {
             "id": "c514b7633629b6476285eeefc3158600",
             "source": "spacenews",
@@ -11969,330 +12145,6 @@
             "shown_at": [
                 "2025-06-15T09:15:57.699068Z",
                 "2025-06-15T16:05:33.964737Z"
-            ]
-        },
-        {
-            "id": "3ff0133116833b1c1d8dd8dba9deb349",
-            "source": "spacenews",
-            "text": "China launches new seismo-electromagnetic satellite with European partners",
-            "source_link": "https://spacenews.com/china-launches-new-seismo-electromagnetic-satellite-with-european-partners/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-14T19:19:18.858223Z",
-            "shown_at": [
-                "2025-06-14T19:19:19.873603Z",
-                "2025-06-16T00:36:06.195572Z",
-                "2025-06-17T11:32:07.726233Z",
-                "2025-06-17T20:07:55.060863Z",
-                "2025-06-19T20:13:40.882854Z"
-            ]
-        },
-        {
-            "id": "0b6893d057542bf9a13356834810124c",
-            "source": "spacenews",
-            "text": "ESA studying impacts of proposed NASA budget cuts",
-            "source_link": "https://spacenews.com/esa-studying-impacts-of-proposed-nasa-budget-cuts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-14T11:45:38.580333Z",
-            "shown_at": [
-                "2025-06-14T11:45:40.122955Z",
-                "2025-06-15T01:02:14.678829Z",
-                "2025-06-17T03:19:17.721086Z",
-                "2025-06-19T00:33:55.976931Z"
-            ]
-        },
-        {
-            "id": "af4fc6a95b12234c97613b4a497a3011",
-            "source": "spacenews",
-            "text": "American Pacific Corporation Finalizes $100 Million Capacity Expansion with Parent Company Approval",
-            "source_link": "https://spacenews.com/american-pacific-corporation-finalizes-100-million-capacity-expansion-with-parent-company-approval/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-14T00:25:38.571778Z",
-            "shown_at": [
-                "2025-06-14T00:25:39.374363Z",
-                "2025-06-16T07:43:54.538782Z",
-                "2025-06-18T03:07:14.067347Z"
-            ]
-        },
-        {
-            "id": "4ab76bf35f7bcfb07cf922ef08521205",
-            "source": "breaking_defense",
-            "text": "Senate Republicans ‘very close’ to deal to protect key DoD spectrum in reconciliation language",
-            "source_link": "https://breakingdefense.com/2025/06/senate-republicans-very-close-to-deal-to-protect-key-dod-spectrum-in-reconciliation-language/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-13T20:13:29.859868Z",
-            "shown_at": [
-                "2025-06-13T20:13:30.401976Z",
-                "2025-06-13T23:01:59.419381Z",
-                "2025-06-14T12:13:26.513155Z",
-                "2025-06-14T18:51:38.835081Z",
-                "2025-06-15T16:47:37.033121Z",
-                "2025-06-15T18:41:46.471850Z",
-                "2025-06-16T03:13:28.538099Z",
-                "2025-06-16T22:02:14.460934Z",
-                "2025-06-18T01:29:34.808884Z",
-                "2025-06-18T10:51:34.798311Z",
-                "2025-06-18T12:57:42.344517Z",
-                "2025-06-18T17:21:35.751944Z",
-                "2025-06-18T21:13:37.040236Z",
-                "2025-06-19T02:59:44.881907Z",
-                "2025-06-19T05:51:33.289409Z",
-                "2025-06-19T10:09:12.130073Z",
-                "2025-06-19T11:19:28.234055Z",
-                "2025-06-19T22:19:28.593759Z",
-                "2025-06-20T03:15:45.719397Z",
-                "2025-06-20T19:38:00.832936Z"
-            ]
-        },
-        {
-            "id": "872b30856d3ef729bfde541be3ba7ef9",
-            "source": "spacenews",
-            "text": "AST SpaceMobile reaches deal to bankroll Ligado’s Viasat settlement",
-            "source_link": "https://spacenews.com/ast-spacemobile-reaches-deal-to-bankroll-ligados-viasat-settlement/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-13T19:58:13.798887Z",
-            "shown_at": [
-                "2025-06-13T19:58:14.664815Z",
-                "2025-06-17T06:02:02.832559Z",
-                "2025-06-18T02:11:31.448108Z"
-            ]
-        },
-        {
-            "id": "fc00386d581f771b0a553bf5349a91da",
-            "source": "breaking_defense",
-            "text": "Planet Labs inks ‘seven-figure’ deal with NATO for AI-enhanced surveillance capabilities",
-            "source_link": "https://breakingdefense.com/2025/06/planet-labs-inks-seven-figure-deal-with-nato-for-ai-enhanced-surveillance-capabilities/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-13T19:01:59.124583Z",
-            "shown_at": [
-                "2025-06-13T19:01:59.723528Z",
-                "2025-06-13T21:09:37.269150Z",
-                "2025-06-14T17:55:30.406651Z",
-                "2025-06-15T11:49:25.463536Z",
-                "2025-06-16T17:15:53.888224Z",
-                "2025-06-16T21:05:30.182110Z",
-                "2025-06-17T02:07:35.849227Z",
-                "2025-06-17T17:49:40.490131Z",
-                "2025-06-18T07:57:31.457443Z",
-                "2025-06-18T08:53:44.785973Z",
-                "2025-06-18T16:21:44.628179Z",
-                "2025-06-18T22:09:31.739699Z",
-                "2025-06-18T23:05:27.990125Z",
-                "2025-06-20T02:17:25.837140Z",
-                "2025-06-20T10:37:32.623289Z"
-            ]
-        },
-        {
-            "id": "e06f2931b894331aff5be656b136787a",
-            "source": "spacenews",
-            "text": "“The Starlink Effect”: NGSO Services to Dominate Maritime Satellite Communications Market",
-            "source_link": "https://spacenews.com/the-starlink-effect-ngso-services-to-dominate-maritime-satellite-communications-market/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-13T16:41:47.178335Z",
-            "shown_at": [
-                "2025-06-13T16:41:48.199915Z",
-                "2025-06-15T10:11:53.878598Z",
-                "2025-06-17T12:27:45.979398Z",
-                "2025-06-20T10:09:40.186075Z"
-            ]
-        },
-        {
-            "id": "97dadc48476750932c087858e5ccd8da",
-            "source": "spacenews",
-            "text": "Is AI the next frontier in spacecraft design, or just a shiny buzzword?",
-            "source_link": "https://spacenews.com/is-ai-the-next-frontier-in-spacecraft-design-or-just-a-shiny-buzzword/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-13T13:11:53.780665Z",
-            "shown_at": [
-                "2025-06-13T13:11:54.488304Z",
-                "2025-06-13T17:37:36.005715Z",
-                "2025-06-14T12:41:56.796226Z",
-                "2025-06-15T07:37:29.993263Z",
-                "2025-06-17T14:13:40.386486Z",
-                "2025-06-19T13:02:18.657170Z"
-            ]
-        },
-        {
-            "id": "ba696fc45bf21c7080df8c406095c4fe",
-            "source": "spacenews",
-            "text": "Redwire to provide solar arrays for Axiom space station module",
-            "source_link": "https://spacenews.com/redwire-to-provide-solar-arrays-for-axiom-space-station-module/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-25T11:32:24.391501Z",
-            "shown_at": [
-                "2025-09-25T11:32:25.364717Z"
-            ]
-        },
-        {
-            "id": "c5e8056c4ec42aefd3ccb0346e45479f",
-            "source": "spacenews",
-            "text": "SatNews and SpaceNews Partner to Launch EU Space Defence Track at SmallSat Europe 2026",
-            "source_link": "https://spacenews.com/satnews-and-spacenews-partner-to-launch-eu-space-defence-track-at-smallsat-europe-2026/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-25T12:04:26.211534Z",
-            "shown_at": [
-                "2025-09-25T12:04:27.620173Z"
-            ]
-        },
-        {
-            "id": "4beba9b243fe616fcb8e7be8d963bbc1",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from California",
-            "source_link": "https://www.supercluster.com/launches/starlink-17-11",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-09-26T04:17:00.000Z",
-            "time_remaining": "0d 04h 41m",
-            "fetched_datetime": "2025-09-25T13:10:06.457596Z",
-            "shown_at": [
-                "2025-09-25T13:10:07.615347Z",
-                "2025-09-25T13:12:12.517372Z",
-                "2025-09-25T13:13:43.929754Z",
-                "2025-09-25T14:07:54.821935Z",
-                "2025-09-25T14:09:44.962684Z",
-                "2025-09-25T14:12:38.717603Z",
-                "2025-09-25T14:16:16.591177Z",
-                "2025-09-25T14:19:50.356108Z",
-                "2025-09-25T14:22:04.609044Z",
-                "2025-09-25T14:24:39.840716Z",
-                "2025-09-25T15:29:47.799158Z",
-                "2025-09-25T15:32:04.425025Z",
-                "2025-09-25T15:33:52.448054Z",
-                "2025-09-25T15:35:50.559511Z",
-                "2025-09-25T15:37:45.566470Z",
-                "2025-09-25T15:39:44.815730Z",
-                "2025-09-25T15:42:14.119398Z",
-                "2025-09-25T16:29:35.636968Z",
-                "2025-09-25T16:32:27.409001Z",
-                "2025-09-25T16:37:28.930337Z",
-                "2025-09-25T16:39:59.879818Z",
-                "2025-09-25T16:41:36.193111Z",
-                "2025-09-25T16:43:44.083787Z",
-                "2025-09-25T16:45:37.051737Z",
-                "2025-09-25T17:35:49.178882Z",
-                "2025-09-25T17:37:45.031177Z",
-                "2025-09-25T17:40:05.773162Z",
-                "2025-09-25T17:42:07.160476Z",
-                "2025-09-25T17:44:01.199056Z",
-                "2025-09-25T17:45:44.782831Z",
-                "2025-09-25T17:48:11.214600Z",
-                "2025-09-25T18:39:40.925300Z",
-                "2025-09-25T18:41:50.299361Z",
-                "2025-09-25T18:44:07.129878Z",
-                "2025-09-25T18:45:59.086555Z",
-                "2025-09-25T18:47:59.512376Z",
-                "2025-09-25T18:49:58.093116Z",
-                "2025-09-25T18:52:17.633110Z",
-                "2025-09-25T19:56:02.473696Z",
-                "2025-09-25T19:57:53.335763Z",
-                "2025-09-25T19:59:57.655002Z",
-                "2025-09-25T20:02:25.303100Z",
-                "2025-09-25T20:06:00.064367Z",
-                "2025-09-25T20:07:53.816285Z",
-                "2025-09-25T20:10:03.262551Z",
-                "2025-09-25T21:14:00.495098Z",
-                "2025-09-25T21:15:52.429037Z",
-                "2025-09-25T21:17:43.490345Z",
-                "2025-09-25T21:19:48.946711Z",
-                "2025-09-25T21:22:08.327764Z",
-                "2025-09-25T21:23:49.488011Z",
-                "2025-09-25T21:25:41.673162Z",
-                "2025-09-25T22:15:50.264334Z",
-                "2025-09-25T22:18:00.598841Z",
-                "2025-09-25T22:20:29.999190Z",
-                "2025-09-25T22:22:22.288372Z",
-                "2025-09-25T22:26:01.894006Z",
-                "2025-09-25T22:27:48.571077Z",
-                "2025-09-25T22:30:07.770560Z",
-                "2025-09-25T23:21:23.244926Z",
-                "2025-09-25T23:23:15.210269Z",
-                "2025-09-25T23:25:26.246806Z",
-                "2025-09-25T23:28:00.365245Z",
-                "2025-09-25T23:29:34.111888Z",
-                "2025-09-25T23:32:26.737514Z",
-                "2025-09-25T23:35:51.937243Z"
-            ]
-        },
-        {
-            "id": "707d0b8a76fb08f66bcfa93cb0b2ba33",
-            "source": "spacenews",
-            "text": "NASA Selects Proteus Space for Novel Rapid Spacecraft Conceptual Design Study",
-            "source_link": "https://spacenews.com/nasa-selects-proteus-space-for-novel-rapid-spacecraft-conceptual-design-study/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-25T14:44:09.734456Z",
-            "shown_at": [
-                "2025-09-25T14:44:10.720286Z"
-            ]
-        },
-        {
-            "id": "88023ce49dae72742e6127cb79ce3b98",
-            "source": "spacenews",
-            "text": "NASA awards Katalyst Space contract to reboost Swift spacecraft",
-            "source_link": "https://spacenews.com/nasa-awards-katalyst-space-contract-to-reboost-swift-spacecraft/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-25T15:13:43.216878Z",
-            "shown_at": [
-                "2025-09-25T15:13:43.853601Z"
-            ]
-        },
-        {
-            "id": "13b26265dcc9b3a9309d83c973c1c686",
-            "source": "breaking_defense",
-            "text": "SPACECOM discussing expansion of joint space monitoring missions with allies",
-            "source_link": "https://breakingdefense.com/2025/09/spacecom-discussing-expansion-of-joint-space-monitoring-missions-with-allies/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-25T15:45:53.750401Z",
-            "shown_at": [
-                "2025-09-25T15:45:54.875740Z"
-            ]
-        },
-        {
-            "id": "7f2e15a576376ee54442561880cbf20e",
-            "source": "spacenews",
-            "text": "L3Harris looks to scale production of hybrid satcom radios after successful Air Force tests",
-            "source_link": "https://spacenews.com/l3harris-looks-to-scale-production-of-hybrid-satcom-radios-after-successful-air-force-tests/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-25T18:55:35.690766Z",
-            "shown_at": [
-                "2025-09-25T18:55:36.620296Z"
-            ]
-        },
-        {
-            "id": "ff9061b4f2c247a440b3bcaee4035b6c",
-            "source": "spacenews",
-            "text": "Artemis 2 could launch as soon as February",
-            "source_link": "https://spacenews.com/artemis-2-could-launch-as-soon-as-february/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-25T19:09:58.064340Z",
-            "shown_at": [
-                "2025-09-25T19:09:58.766852Z"
-            ]
-        },
-        {
-            "id": "1ee55f62eab7da398cdd3271593c0a3a",
-            "source": "breaking_defense",
-            "text": "German military to invest $41B in space capabilities",
-            "source_link": "https://breakingdefense.com/2025/09/german-military-to-invest-41b-in-space-capabilities/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-25T20:43:26.614355Z",
-            "shown_at": [
-                "2025-09-25T20:43:27.255243Z",
-                "2025-09-25T23:52:23.561691Z"
             ]
         }
     ]
