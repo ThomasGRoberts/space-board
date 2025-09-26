@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 3 | 22 | 42 |
+| breaking_defense | 1 | 3 | 21 | 42 |
 | spacenews | 5 | 12 | 24 | 48 |
-| nyt | 1 | 1 | 21 | 40 |
-| supercluster | 1 | 1 | 59 | 59 |
+| nyt | 1 | 1 | 21 | 39 |
+| supercluster | 1 | 1 | 60 | 60 |
 
 # Shown Order
 
@@ -6685,3 +6685,4 @@
 - **Sep 26, 02:53 PM** - In a first, Space Force to require refueling capability for next-gen neighborhood watch sats (breaking_defense)
 - **Sep 26, 03:12 PM** - New contract signed between the NSSTC and U-Space: A new milestone in UAE-France cooperation in space innovation (spacenews)
 - **Sep 26, 03:28 PM** - A Tiny Quasi-Moon is Following Earth Around the Sun (nyt)
+- **Sep 26, 03:46 PM** - China Will Launch Long March 4C Rocket (supercluster)
