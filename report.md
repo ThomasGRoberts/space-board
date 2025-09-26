@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 2 | 21 | 41 |
 | spacenews | 5 | 12 | 24 | 48 |
 | nyt | 1 | 1 | 21 | 39 |
-| supercluster | 1 | 1 | 74 | 74 |
+| supercluster | 1 | 1 | 75 | 75 |
 
 # Shown Order
 
@@ -6706,3 +6706,4 @@
 - **Sep 26, 05:26 PM** - Falcon 9 launches three space weather missions (spacenews)
 - **Sep 26, 05:42 PM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
 - **Sep 26, 05:58 PM** - China Will Launch Long March 4C Rocket (supercluster)
+- **Sep 26, 06:00 PM** - China Will Launch Long March 4C Rocket (supercluster)
