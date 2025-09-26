@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 20 | 41 |
 | spacenews | 7 | 15 | 24 | 48 |
-| nyt | 0 | 1 | 18 | 38 |
+| nyt | 0 | 1 | 19 | 39 |
 | supercluster | 1 | 1 | 17 | 17 |
 
 # Shown Order
@@ -6620,3 +6620,4 @@
 - **Sep 26, 07:28 AM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Sep 26, 07:29 AM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Sep 26, 07:32 AM** - China Will Launch Long March 4C Rocket (supercluster)
+- **Sep 26, 07:35 AM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
