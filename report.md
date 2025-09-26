@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 4 | 20 | 42 |
 | spacenews | 7 | 17 | 24 | 50 |
 | supercluster | 1 | 1 | 66 | 66 |
-| nyt | 0 | 1 | 18 | 39 |
+| nyt | 0 | 1 | 19 | 40 |
 
 # Shown Order
 
@@ -6651,3 +6651,4 @@
 - **Sep 25, 11:37 PM** - Lynker and NOAA  to create tailored space-weather forecasts (spacenews)
 - **Sep 25, 11:52 PM** - German military to invest $41B in space capabilities (breaking_defense)
 - **Sep 26, 12:10 AM** - NASA modifies Dream Chaser ISS cargo contract as Sierra Space shifts to defense work (spacenews)
+- **Sep 26, 12:26 AM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
