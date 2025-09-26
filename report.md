@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 3 | 22 | 42 |
+| breaking_defense | 1 | 3 | 21 | 42 |
 | spacenews | 5 | 12 | 24 | 48 |
 | nyt | 1 | 1 | 21 | 39 |
-| supercluster | 1 | 1 | 66 | 66 |
+| supercluster | 1 | 1 | 67 | 67 |
 
 # Shown Order
 
@@ -6695,3 +6695,4 @@
 - **Sep 26, 04:00 PM** - Uncertainty over satellite constellation means alternate-GPS capability up in the air as well: Official (breaking_defense)
 - **Sep 26, 04:18 PM** - Moog Breaks Ground on New Propulsion Clean Room to Support Satellite and Missile Growth (spacenews)
 - **Sep 26, 04:35 PM** - A Tiny Quasi-Moon is Following Earth Around the Sun (nyt)
+- **Sep 26, 04:49 PM** - China Will Launch Long March 4C Rocket (supercluster)
