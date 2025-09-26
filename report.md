@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 4 | 20 | 41 |
 | spacenews | 7 | 15 | 24 | 49 |
 | nyt | 0 | 1 | 18 | 38 |
-| supercluster | 1 | 1 | 11 | 11 |
+| supercluster | 1 | 1 | 12 | 12 |
 
 # Shown Order
 
@@ -6614,3 +6614,4 @@
 - **Sep 26, 06:47 AM** - Space Force to get NOAA antennas to supplement Satellite Control Network (breaking_defense)
 - **Sep 26, 07:02 AM** - To Protect the Nation, the Golden Dome Must Be Capable of Protecting Itself (spacenews)
 - **Sep 26, 07:18 AM** - China Will Launch Long March 4C Rocket (supercluster)
+- **Sep 26, 07:21 AM** - China Will Launch Long March 4C Rocket (supercluster)
