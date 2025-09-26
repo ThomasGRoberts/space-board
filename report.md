@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 2 | 19 | 39 |
+| breaking_defense | 0 | 2 | 20 | 40 |
 | spacenews | 5 | 11 | 23 | 47 |
 | nyt | 1 | 1 | 20 | 38 |
 | supercluster | 1 | 1 | 13 | 13 |
@@ -6653,3 +6653,4 @@
 - **Sep 26, 09:39 PM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Sep 26, 09:42 PM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Sep 26, 09:44 PM** - NASA awards Katalyst Space contract to reboost Swift spacecraft (spacenews)
+- **Sep 26, 09:59 PM** - Space Force working on future operations plan to guide investment (breaking_defense)
