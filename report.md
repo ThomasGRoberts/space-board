@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 4 | 20 | 41 |
+| breaking_defense | 2 | 4 | 21 | 42 |
 | spacenews | 7 | 15 | 24 | 48 |
 | nyt | 0 | 1 | 18 | 39 |
 | supercluster | 1 | 1 | 10 | 10 |
@@ -6611,3 +6611,4 @@
 - **Sep 26, 06:30 AM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Sep 26, 06:32 AM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Sep 26, 06:33 AM** - A Tiny Quasi-Moon is Following Earth Around the Sun (nyt)
+- **Sep 26, 06:47 AM** - Space Force to get NOAA antennas to supplement Satellite Control Network (breaking_defense)
