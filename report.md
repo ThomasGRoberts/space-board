@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 22 | 41 |
 | spacenews | 5 | 12 | 24 | 49 |
-| nyt | 1 | 1 | 20 | 39 |
+| nyt | 1 | 1 | 21 | 40 |
 | supercluster | 1 | 1 | 80 | 80 |
 
 # Shown Order
@@ -6715,3 +6715,4 @@
 - **Sep 26, 06:14 PM** - Uncertainty over satellite constellation means alternate-GPS capability up in the air as well: Official (breaking_defense)
 - **Sep 26, 06:28 PM** - U.S. military sees China’s reusable rocket push as a space security concern (spacenews)
 - **Sep 26, 06:43 PM** - Beyond Gravity to supply robotic arm thrusters for Swissto12 small GEOs (spacenews)
+- **Sep 26, 07:00 PM** - A Tiny Quasi-Moon is Following Earth Around the Sun (nyt)
