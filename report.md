@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 21 | 42 |
-| spacenews | 7 | 15 | 24 | 49 |
+| spacenews | 7 | 15 | 25 | 50 |
 | supercluster | 1 | 1 | 94 | 94 |
 | nyt | 0 | 1 | 19 | 39 |
 
@@ -6690,3 +6690,4 @@
 - **Sep 26, 03:53 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 26, 03:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 26, 03:57 AM** - Space Force working on future operations plan to guide investment (breaking_defense)
+- **Sep 26, 04:16 AM** - Redwire to provide solar arrays for Axiom space station module (spacenews)
