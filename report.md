@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 4 | 22 | 42 |
 | spacenews | 6 | 14 | 24 | 49 |
 | nyt | 1 | 2 | 21 | 40 |
-| supercluster | 1 | 1 | 46 | 46 |
+| supercluster | 1 | 1 | 47 | 47 |
 
 # Shown Order
 
@@ -6665,3 +6665,4 @@
 - **Sep 26, 12:36 PM** - German military to invest $41B in space capabilities (breaking_defense)
 - **Sep 26, 12:50 PM** - A Tiny Quasi-Moon is Following Earth Around the Sun (nyt)
 - **Sep 26, 01:05 PM** - China Will Launch Long March 4C Rocket (supercluster)
+- **Sep 26, 01:08 PM** - China Will Launch Long March 4C Rocket (supercluster)
