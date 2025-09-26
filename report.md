@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 20 | 41 |
-| spacenews | 7 | 15 | 24 | 49 |
+| spacenews | 7 | 15 | 24 | 48 |
 | nyt | 0 | 1 | 18 | 38 |
-| supercluster | 1 | 1 | 4 | 4 |
+| supercluster | 1 | 1 | 5 | 5 |
 
 # Shown Order
 
@@ -6604,3 +6604,4 @@
 - **Sep 26, 05:48 AM** - Photos: Day 2 of AFA’s Air, Space & Cyber Conference (breaking_defense)
 - **Sep 26, 06:02 AM** - Next chapter in space defense: Satellites that never stop moving (spacenews)
 - **Sep 26, 06:19 AM** - China Will Launch Long March 4C Rocket (supercluster)
+- **Sep 26, 06:21 AM** - China Will Launch Long March 4C Rocket (supercluster)
