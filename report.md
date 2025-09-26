@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 2 | 20 | 40 |
 | spacenews | 6 | 12 | 24 | 47 |
-| nyt | 1 | 1 | 19 | 38 |
+| nyt | 1 | 1 | 20 | 39 |
 | supercluster | 1 | 1 | 13 | 13 |
 
 # Shown Order
@@ -6655,3 +6655,4 @@
 - **Sep 26, 09:44 PM** - NASA awards Katalyst Space contract to reboost Swift spacecraft (spacenews)
 - **Sep 26, 09:59 PM** - Space Force working on future operations plan to guide investment (breaking_defense)
 - **Sep 26, 10:13 PM** - ‘Left of launch’ becomes central focus in next-generation missile defense (spacenews)
+- **Sep 26, 10:28 PM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
