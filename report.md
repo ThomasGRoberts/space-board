@@ -5,7 +5,7 @@
 | breaking_defense | 1 | 2 | 22 | 41 |
 | spacenews | 4 | 12 | 23 | 49 |
 | nyt | 1 | 1 | 21 | 39 |
-| supercluster | 1 | 1 | 82 | 82 |
+| supercluster | 1 | 1 | 83 | 83 |
 
 # Shown Order
 
@@ -6718,3 +6718,4 @@
 - **Sep 26, 07:00 PM** - A Tiny Quasi-Moon is Following Earth Around the Sun (nyt)
 - **Sep 26, 07:14 PM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Sep 26, 07:15 PM** - China Will Launch Long March 4C Rocket (supercluster)
+- **Sep 26, 07:17 PM** - China Will Launch Long March 4C Rocket (supercluster)
