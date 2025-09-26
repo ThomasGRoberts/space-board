@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 2 | 20 | 40 |
 | spacenews | 6 | 12 | 23 | 47 |
-| nyt | 1 | 1 | 20 | 39 |
-| supercluster | 1 | 1 | 21 | 21 |
+| nyt | 1 | 1 | 20 | 38 |
+| supercluster | 1 | 1 | 22 | 22 |
 
 # Shown Order
 
@@ -6667,3 +6667,4 @@
 - **Sep 26, 11:12 PM** - Geespace secures $281 million for IoT constellation and global HQ (spacenews)
 - **Sep 26, 11:27 PM** - Why the U.S. Might Lose the Space Race (nyt)
 - **Sep 26, 11:45 PM** - China Will Launch the Long March 6A Rocket (supercluster)
+- **Sep 26, 11:47 PM** - China Will Launch the Long March 6A Rocket (supercluster)
