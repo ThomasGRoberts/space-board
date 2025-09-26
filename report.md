@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 2 | 22 | 42 |
-| spacenews | 5 | 11 | 23 | 47 |
+| breaking_defense | 1 | 2 | 22 | 41 |
+| spacenews | 5 | 11 | 24 | 48 |
 | nyt | 1 | 1 | 20 | 39 |
 | supercluster | 1 | 1 | 80 | 80 |
 
@@ -6713,3 +6713,4 @@
 - **Sep 26, 06:09 PM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Sep 26, 06:12 PM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Sep 26, 06:14 PM** - Uncertainty over satellite constellation means alternate-GPS capability up in the air as well: Official (breaking_defense)
+- **Sep 26, 06:28 PM** - U.S. military sees China’s reusable rocket push as a space security concern (spacenews)
