@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 4 | 21 | 41 |
+| breaking_defense | 2 | 4 | 22 | 42 |
 | spacenews | 6 | 15 | 24 | 50 |
 | nyt | 1 | 2 | 20 | 40 |
 | supercluster | 1 | 1 | 45 | 45 |
@@ -6662,3 +6662,4 @@
 - **Sep 26, 12:15 PM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Sep 26, 12:18 PM** - China Will Launch Long March 4C Rocket (supercluster)
 - **Sep 26, 12:20 PM** - Air Force Secretary warns of ‘Sputnik moment’ as U.S. faces China’s rapid military advances (spacenews)
+- **Sep 26, 12:36 PM** - German military to invest $41B in space capabilities (breaking_defense)
