@@ -5,7 +5,7 @@
 | breaking_defense | 2 | 4 | 20 | 41 |
 | spacenews | 7 | 15 | 24 | 48 |
 | nyt | 0 | 1 | 17 | 38 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -6598,3 +6598,4 @@
 - **Sep 26, 03:57 AM** - Space Force working on future operations plan to guide investment (breaking_defense)
 - **Sep 26, 04:16 AM** - Redwire to provide solar arrays for Axiom space station module (spacenews)
 - **Sep 26, 05:27 AM** - China Will Launch Long March 4C Rocket (supercluster)
+- **Sep 26, 05:29 AM** - China Will Launch Long March 4C Rocket (supercluster)
