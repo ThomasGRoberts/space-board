@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-26T00:02:04.924162+00:00",
-    "trigger_count": 6,
-    "current_item_id": "fd53316cc3a7f03019564d1dd0cc8bb3",
+    "trigger_count": 0,
+    "current_item_id": "eed2016f15b3846500ce6af8cb98e056",
     "data": [
         {
             "id": "1ee55f62eab7da398cdd3271593c0a3a",
@@ -12168,6 +12168,18 @@
             "fetched_datetime": "2025-09-26T09:20:02.350672Z",
             "shown_at": [
                 "2025-09-26T09:20:03.874947Z"
+            ]
+        },
+        {
+            "id": "eed2016f15b3846500ce6af8cb98e056",
+            "source": "spacenews",
+            "text": "Redefining space diplomacy for the 21st century: from orbits to outcomes",
+            "source_link": "https://spacenews.com/redefining-space-diplomacy-for-the-21st-century-from-orbits-to-outcomes/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-26T11:17:53.087811Z",
+            "shown_at": [
+                "2025-09-26T11:17:54.029998Z"
             ]
         }
     ]
