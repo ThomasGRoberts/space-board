@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 7 | 22 | 45 |
 | nyt | 0 | 1 | 21 | 42 |
-| breaking_defense | 0 | 1 | 21 | 43 |
+| breaking_defense | 0 | 1 | 22 | 44 |
 | supercluster | 1 | 1 | 38 | 38 |
 
 # Shown Order
@@ -6704,3 +6704,4 @@
 - **Sep 27, 06:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 27, 06:47 PM** - New contract signed between the NSSTC and U-Space: A new milestone in UAE-France cooperation in space innovation (spacenews)
 - **Sep 27, 07:02 PM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
+- **Sep 27, 07:18 PM** - Day 2 of AFA’s Air, Space & Cyber Conference [Photos] (breaking_defense)
