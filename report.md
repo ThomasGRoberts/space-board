@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 7 | 23 | 45 |
 | nyt | 0 | 1 | 22 | 42 |
-| breaking_defense | 0 | 1 | 22 | 43 |
+| breaking_defense | 0 | 1 | 23 | 44 |
 | supercluster | 1 | 1 | 45 | 45 |
 
 # Shown Order
@@ -6714,3 +6714,4 @@
 - **Sep 27, 07:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 27, 07:47 PM** - Falcon 9 launches three space weather missions (spacenews)
 - **Sep 27, 08:05 PM** - NASA Picks 10 New Astronauts as Focus Shifts to the Moon and Mars (nyt)
+- **Sep 27, 08:20 PM** - Space Force will own next-gen neighborhood watch sats, based on commercial tech (breaking_defense)
