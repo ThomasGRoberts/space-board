@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 23 | 48 |
 | supercluster | 1 | 1 | 55 | 55 |
-| nyt | 1 | 1 | 20 | 38 |
+| nyt | 1 | 1 | 21 | 39 |
 | breaking_defense | 0 | 2 | 20 | 41 |
 
 # Shown Order
@@ -6681,3 +6681,4 @@
 - **Sep 27, 03:59 AM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Sep 27, 04:02 AM** - SPACECOM discussing expansion of joint space monitoring missions with allies (breaking_defense)
 - **Sep 27, 04:17 AM** - Scaling up IRIS² to meet evolving demands (spacenews)
+- **Sep 27, 04:32 AM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
