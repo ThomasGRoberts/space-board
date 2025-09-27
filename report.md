@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 23 | 47 |
+| spacenews | 5 | 12 | 24 | 48 |
 | supercluster | 1 | 1 | 69 | 69 |
 | nyt | 1 | 1 | 21 | 39 |
 | breaking_defense | 0 | 2 | 21 | 41 |
@@ -6700,3 +6700,4 @@
 - **Sep 27, 05:59 AM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Sep 27, 06:02 AM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Sep 27, 06:05 AM** - Photos: Day 2 of AFA’s Air, Space & Cyber Conference (breaking_defense)
+- **Sep 27, 06:20 AM** - SatNews and SpaceNews Partner to Launch EU Space Defence Track at SmallSat Europe 2026 (spacenews)
