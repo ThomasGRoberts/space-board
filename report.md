@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 22 | 45 |
 | nyt | 0 | 1 | 22 | 42 |
-| breaking_defense | 0 | 0 | 22 | 42 |
+| breaking_defense | 0 | 0 | 23 | 43 |
 | supercluster | 1 | 1 | 59 | 59 |
 
 # Shown Order
@@ -6734,3 +6734,4 @@
 - **Sep 27, 09:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 27, 10:01 PM** - We’re cluttering Earth’s orbit at record speed. Who’s going to clean it up? (spacenews)
 - **Sep 27, 10:24 PM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
+- **Sep 27, 10:44 PM** - NRO needs AI to manage more than 200 (and counting) satellites, director says (breaking_defense)
