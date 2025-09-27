@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 10 | 24 | 47 |
-| supercluster | 1 | 1 | 107 | 107 |
+| supercluster | 1 | 1 | 108 | 108 |
 | nyt | 0 | 1 | 21 | 41 |
 | breaking_defense | 0 | 2 | 21 | 42 |
 
@@ -6755,3 +6755,4 @@
 - **Sep 27, 12:08 PM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Sep 27, 12:09 PM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Sep 27, 12:12 PM** - China Will Launch the Long March 6A Rocket (supercluster)
+- **Sep 27, 12:14 PM** - China Will Launch the Long March 6A Rocket (supercluster)
