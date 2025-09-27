@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 24 | 48 |
 | supercluster | 1 | 1 | 62 | 62 |
-| nyt | 1 | 1 | 21 | 38 |
+| nyt | 1 | 1 | 21 | 39 |
 | breaking_defense | 0 | 2 | 21 | 41 |
 
 # Shown Order
@@ -6691,3 +6691,4 @@
 - **Sep 27, 05:02 AM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Sep 27, 05:05 AM** - NATO investing $728M in new space capabilities, including a new ‘data lake’ (breaking_defense)
 - **Sep 27, 05:20 AM** - SatNews and SpaceNews Partner to Launch EU Space Defence Track at SmallSat Europe 2026 (spacenews)
+- **Sep 27, 05:35 AM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
