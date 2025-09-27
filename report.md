@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 8 | 23 | 46 |
-| nyt | 0 | 1 | 21 | 41 |
+| nyt | 0 | 1 | 22 | 42 |
 | breaking_defense | 0 | 0 | 22 | 42 |
 | supercluster | 1 | 1 | 52 | 52 |
 
@@ -6723,3 +6723,4 @@
 - **Sep 27, 08:46 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 27, 08:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 27, 08:49 PM** - NASA Marshall director steps down (spacenews)
+- **Sep 27, 09:07 PM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
