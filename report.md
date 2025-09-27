@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 23 | 47 |
-| supercluster | 1 | 1 | 27 | 27 |
+| supercluster | 1 | 1 | 28 | 28 |
 | nyt | 1 | 1 | 20 | 39 |
 | breaking_defense | 0 | 2 | 20 | 40 |
 
@@ -6642,3 +6642,4 @@
 - **Sep 27, 12:00 AM** - Uncertainty over satellite constellation means alt-GPS capability up in the air: Official (breaking_defense)
 - **Sep 27, 12:18 AM** - Lynker and NOAA  to create tailored space-weather forecasts (spacenews)
 - **Sep 27, 12:33 AM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
+- **Sep 27, 12:48 AM** - China Will Launch the Long March 6A Rocket (supercluster)
