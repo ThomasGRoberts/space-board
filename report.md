@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 24 | 48 |
+| spacenews | 5 | 12 | 25 | 49 |
 | supercluster | 1 | 1 | 97 | 97 |
 | nyt | 0 | 1 | 20 | 40 |
 | breaking_defense | 0 | 2 | 21 | 42 |
@@ -6740,3 +6740,4 @@
 - **Sep 27, 10:17 AM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Sep 27, 10:19 AM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Sep 27, 10:22 AM** - Space Force to get NOAA antennas to supplement Satellite Control Network (breaking_defense)
+- **Sep 27, 10:38 AM** - ESCAPADE launch on New Glenn planned for late October or early November (spacenews)
