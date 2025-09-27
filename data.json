@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-27T00:00:00.752876+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "21ade29fe4ef0054161984d6b01c731f",
     "data": [
         {
             "id": "edd23e72fba5a063be31c8a823ff854d",
@@ -12228,6 +12228,18 @@
             "fetched_datetime": "2025-09-27T15:45:46.299666Z",
             "shown_at": [
                 "2025-09-27T15:45:46.985780Z"
+            ]
+        },
+        {
+            "id": "21ade29fe4ef0054161984d6b01c731f",
+            "source": "spacenews",
+            "text": "NASA Marshall director steps down",
+            "source_link": "https://spacenews.com/nasa-marshall-director-steps-down/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-27T20:49:59.329821Z",
+            "shown_at": [
+                "2025-09-27T20:49:59.990418Z"
             ]
         }
     ]
