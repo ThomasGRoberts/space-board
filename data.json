@@ -1,9 +1,134 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-09-26T00:02:04.924162+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ffaa7870eca5c6ca0634f721fa9b872e",
+    "last_run_datetime": "2025-09-27T00:00:00.752876+00:00",
+    "trigger_count": 0,
+    "current_item_id": "d05f2bffadf657406d16c0c93433a5f2",
     "data": [
+        {
+            "id": "edd23e72fba5a063be31c8a823ff854d",
+            "source": "spacenews",
+            "text": "‘Left of launch’ becomes central focus in next-generation missile defense",
+            "source_link": "https://spacenews.com/left-of-launch-becomes-central-focus-in-next-generation-missile-defense/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-26T22:13:52.790948Z",
+            "shown_at": [
+                "2025-09-26T22:13:53.422352Z"
+            ]
+        },
+        {
+            "id": "93e54b6d2b4605910c09502b1d5f25cd",
+            "source": "spacenews",
+            "text": "Beyond Gravity to supply robotic arms for Swissto12 small GEO satellites",
+            "source_link": "https://spacenews.com/beyond-gravity-to-supply-robotic-arm-thrusters-for-swissto12-small-geos/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-26T20:32:18.362507Z",
+            "shown_at": [
+                "2025-09-26T20:32:19.044624Z"
+            ]
+        },
+        {
+            "id": "ffaa7870eca5c6ca0634f721fa9b872e",
+            "source": "supercluster",
+            "text": "China Will Launch the Long March 6A Rocket",
+            "source_link": "https://www.supercluster.com/launches/long-march-6ao",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-09-27T12:39:00.000Z",
+            "time_remaining": "0d 12h 41m",
+            "fetched_datetime": "2025-09-26T20:20:16.088767Z",
+            "shown_at": [
+                "2025-09-26T20:20:17.142973Z",
+                "2025-09-26T20:22:15.188561Z",
+                "2025-09-26T20:23:54.081164Z",
+                "2025-09-26T20:25:55.249219Z",
+                "2025-09-26T20:28:05.646409Z",
+                "2025-09-26T20:29:53.004321Z",
+                "2025-09-26T21:25:32.422761Z",
+                "2025-09-26T21:28:29.043383Z",
+                "2025-09-26T21:32:29.569929Z",
+                "2025-09-26T21:35:37.374128Z",
+                "2025-09-26T21:37:50.127387Z",
+                "2025-09-26T21:39:47.253574Z",
+                "2025-09-26T21:42:03.847574Z",
+                "2025-09-26T22:42:16.545547Z",
+                "2025-09-26T22:45:49.275250Z",
+                "2025-09-26T22:47:31.002482Z",
+                "2025-09-26T22:49:57.307783Z",
+                "2025-09-26T22:52:00.028798Z",
+                "2025-09-26T22:53:49.310638Z",
+                "2025-09-26T22:55:24.722781Z",
+                "2025-09-26T23:45:24.590630Z",
+                "2025-09-26T23:47:39.131855Z",
+                "2025-09-26T23:50:02.458733Z",
+                "2025-09-26T23:51:55.980213Z",
+                "2025-09-26T23:53:43.292067Z",
+                "2025-09-26T23:56:07.804673Z",
+                "2025-09-26T23:57:45.132670Z"
+            ]
+        },
+        {
+            "id": "4ad3636e8b983a90ed341e641ed4e74a",
+            "source": "spacenews",
+            "text": "Beyond Gravity to supply robotic arm thrusters for Swissto12 small GEOs",
+            "source_link": "https://spacenews.com/beyond-gravity-to-supply-robotic-arm-thrusters-for-swissto12-small-geos/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-26T18:43:22.437854Z",
+            "shown_at": [
+                "2025-09-26T18:43:23.110852Z"
+            ]
+        },
+        {
+            "id": "a11113ed2dc701adaa4732a82b19729f",
+            "source": "spacenews",
+            "text": "New contract signed between the NSSTC and U-Space: A new milestone in UAE-France cooperation in space innovation",
+            "source_link": "https://spacenews.com/new-contract-signed-between-the-nsstc-and-u-space-a-new-milestone-in-uae-france-cooperation-in-space-innovation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-26T15:12:26.837889Z",
+            "shown_at": [
+                "2025-09-26T15:12:27.610457Z"
+            ]
+        },
+        {
+            "id": "eed2016f15b3846500ce6af8cb98e056",
+            "source": "spacenews",
+            "text": "Redefining space diplomacy for the 21st century: from orbits to outcomes",
+            "source_link": "https://spacenews.com/redefining-space-diplomacy-for-the-21st-century-from-orbits-to-outcomes/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-26T11:17:53.087811Z",
+            "shown_at": [
+                "2025-09-26T11:17:54.029998Z"
+            ]
+        },
+        {
+            "id": "34813b2aa43cc3553bfb941de3722e1e",
+            "source": "nyt",
+            "text": "NASA Artemis II Astronauts Aim to Make Space Great for All",
+            "source_link": "https://www.nytimes.com/2025/09/26/science/nasa-astronauts-moon-artemis-ii.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-26T09:20:02.350672Z",
+            "shown_at": [
+                "2025-09-26T09:20:03.874947Z",
+                "2025-09-26T21:05:39.593055Z"
+            ]
+        },
+        {
+            "id": "a6c7aec1da9107da55e5fe9ddfa47a34",
+            "source": "spacenews",
+            "text": "NASA modifies Dream Chaser ISS cargo contract as Sierra Space shifts to defense work",
+            "source_link": "https://spacenews.com/nasa-modifies-dream-chaser-iss-cargo-contract-as-sierra-space-shifts-to-defense-work/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-26T00:10:10.696651Z",
+            "shown_at": [
+                "2025-09-26T00:10:11.688100Z"
+            ]
+        },
         {
             "id": "1ee55f62eab7da398cdd3271593c0a3a",
             "source": "breaking_defense",
@@ -171,7 +296,8 @@
             "fetched_datetime": "2025-09-24T14:14:11.796805Z",
             "shown_at": [
                 "2025-09-24T14:14:12.840681Z",
-                "2025-09-24T21:52:12.914058Z"
+                "2025-09-24T21:52:12.914058Z",
+                "2025-09-27T00:00:09.303528Z"
             ]
         },
         {
@@ -12009,242 +12135,6 @@
                 "2025-06-19T02:31:49.730685Z",
                 "2025-06-22T05:23:29.787860Z",
                 "2025-06-22T16:39:38.800524Z"
-            ]
-        },
-        {
-            "id": "13e5153737a4a97f3e0265f29b91b392",
-            "source": "spacenews",
-            "text": "A Modular Future for Earth Observation: How Domino-E is Unlocking Innovation, Sovereignty, and Access",
-            "source_link": "https://spacenews.com/a-modular-future-for-earth-observation-how-domino-e-is-unlocking-innovation-sovereignty-and-access/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-16T12:14:01.379428Z",
-            "shown_at": [
-                "2025-06-16T12:14:02.011935Z",
-                "2025-06-18T07:43:10.203538Z",
-                "2025-06-20T04:39:31.250979Z",
-                "2025-06-20T14:39:48.542835Z",
-                "2025-06-21T06:41:36.582570Z",
-                "2025-06-21T07:37:51.800677Z",
-                "2025-06-22T01:33:42.749147Z",
-                "2025-06-22T04:25:32.859645Z",
-                "2025-06-23T00:25:29.122095Z"
-            ]
-        },
-        {
-            "id": "4ddb3cb71be3c3993ee7f5449942f483",
-            "source": "spacenews",
-            "text": "The administration’s anti-consensus Mars plan will fail",
-            "source_link": "https://spacenews.com/the-administrations-anti-consensus-mars-plan-will-fail/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-16T11:03:31.517863Z",
-            "shown_at": [
-                "2025-06-16T11:03:32.028250Z",
-                "2025-06-18T12:01:59.505837Z",
-                "2025-06-18T18:09:36.927045Z",
-                "2025-06-20T23:07:43.870877Z",
-                "2025-06-21T02:53:35.849506Z",
-                "2025-06-21T18:55:27.757881Z",
-                "2025-06-22T23:29:35.802510Z"
-            ]
-        },
-        {
-            "id": "9922ec1ec26dea274746176bf3e3bafd",
-            "source": "spacenews",
-            "text": "Members of Congress want White House to quickly nominate new NASA administrator",
-            "source_link": "https://spacenews.com/members-of-congress-want-white-house-to-quickly-nominate-new-nasa-administrator/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-16T10:35:23.326160Z",
-            "shown_at": [
-                "2025-06-16T10:35:24.058678Z",
-                "2025-06-20T12:33:54.872112Z",
-                "2025-06-21T22:41:31.271344Z",
-                "2025-06-22T12:54:06.223967Z",
-                "2025-06-22T13:49:49.506183Z",
-                "2025-06-23T02:19:09.568028Z"
-            ]
-        },
-        {
-            "id": "3cb85663f3498cfd34d6879b7c4ac6af",
-            "source": "spacenews",
-            "text": "China’s Cangyu plans mixed-orbit commercial data relay satellite system",
-            "source_link": "https://spacenews.com/chinas-cangyu-plans-mixed-orbit-commercial-data-relay-satellite-system/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-16T06:45:38.928259Z",
-            "shown_at": [
-                "2025-06-16T06:45:39.575129Z",
-                "2025-06-16T22:17:35.051862Z",
-                "2025-06-21T20:49:28.573723Z",
-                "2025-06-22T07:03:48.958142Z",
-                "2025-06-22T15:43:28.344220Z",
-                "2025-06-22T17:36:01.026201Z"
-            ]
-        },
-        {
-            "id": "665a5e0bc106ffced0983e40ca501ae2",
-            "source": "spacenews",
-            "text": "Ursa Major secures $32.9 million contract to supply engines for U.S. military hypersonic tests",
-            "source_link": "https://spacenews.com/ursa-major-secures-32-9-million-contract-to-supply-engines-for-u-s-military-hypersonic-tests/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-16T05:07:33.383563Z",
-            "shown_at": [
-                "2025-06-16T05:07:33.995286Z"
-            ]
-        },
-        {
-            "id": "efc0b99f4eeb64c42e7ac248e0a15631",
-            "source": "spacenews",
-            "text": "ESA moving ahead with ‘resilience from space’ satellite imaging program",
-            "source_link": "https://spacenews.com/esa-moving-ahead-with-resilience-from-space-satellite-imaging-program/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-15T15:09:29.743649Z",
-            "shown_at": [
-                "2025-06-15T15:09:30.392739Z",
-                "2025-06-15T23:37:32.900559Z",
-                "2025-06-16T01:35:36.480959Z"
-            ]
-        },
-        {
-            "id": "d93b1befcc338f06a429c49652262162",
-            "source": "spacenews",
-            "text": "NASA sets new potential launch date for Ax-4 mission to ISS",
-            "source_link": "https://spacenews.com/nasa-sets-new-potential-launch-date-for-ax-4-mission-to-iss/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-15T09:15:56.318276Z",
-            "shown_at": [
-                "2025-06-15T09:15:57.699068Z",
-                "2025-06-15T16:05:33.964737Z"
-            ]
-        },
-        {
-            "id": "a6c7aec1da9107da55e5fe9ddfa47a34",
-            "source": "spacenews",
-            "text": "NASA modifies Dream Chaser ISS cargo contract as Sierra Space shifts to defense work",
-            "source_link": "https://spacenews.com/nasa-modifies-dream-chaser-iss-cargo-contract-as-sierra-space-shifts-to-defense-work/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-26T00:10:10.696651Z",
-            "shown_at": [
-                "2025-09-26T00:10:11.688100Z"
-            ]
-        },
-        {
-            "id": "34813b2aa43cc3553bfb941de3722e1e",
-            "source": "nyt",
-            "text": "NASA Artemis II Astronauts Aim to Make Space Great for All",
-            "source_link": "https://www.nytimes.com/2025/09/26/science/nasa-astronauts-moon-artemis-ii.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-26T09:20:02.350672Z",
-            "shown_at": [
-                "2025-09-26T09:20:03.874947Z",
-                "2025-09-26T21:05:39.593055Z"
-            ]
-        },
-        {
-            "id": "eed2016f15b3846500ce6af8cb98e056",
-            "source": "spacenews",
-            "text": "Redefining space diplomacy for the 21st century: from orbits to outcomes",
-            "source_link": "https://spacenews.com/redefining-space-diplomacy-for-the-21st-century-from-orbits-to-outcomes/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-26T11:17:53.087811Z",
-            "shown_at": [
-                "2025-09-26T11:17:54.029998Z"
-            ]
-        },
-        {
-            "id": "a11113ed2dc701adaa4732a82b19729f",
-            "source": "spacenews",
-            "text": "New contract signed between the NSSTC and U-Space: A new milestone in UAE-France cooperation in space innovation",
-            "source_link": "https://spacenews.com/new-contract-signed-between-the-nsstc-and-u-space-a-new-milestone-in-uae-france-cooperation-in-space-innovation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-26T15:12:26.837889Z",
-            "shown_at": [
-                "2025-09-26T15:12:27.610457Z"
-            ]
-        },
-        {
-            "id": "4ad3636e8b983a90ed341e641ed4e74a",
-            "source": "spacenews",
-            "text": "Beyond Gravity to supply robotic arm thrusters for Swissto12 small GEOs",
-            "source_link": "https://spacenews.com/beyond-gravity-to-supply-robotic-arm-thrusters-for-swissto12-small-geos/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-26T18:43:22.437854Z",
-            "shown_at": [
-                "2025-09-26T18:43:23.110852Z"
-            ]
-        },
-        {
-            "id": "ffaa7870eca5c6ca0634f721fa9b872e",
-            "source": "supercluster",
-            "text": "China Will Launch the Long March 6A Rocket",
-            "source_link": "https://www.supercluster.com/launches/long-march-6ao",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-09-27T12:39:00.000Z",
-            "time_remaining": "0d 12h 41m",
-            "fetched_datetime": "2025-09-26T20:20:16.088767Z",
-            "shown_at": [
-                "2025-09-26T20:20:17.142973Z",
-                "2025-09-26T20:22:15.188561Z",
-                "2025-09-26T20:23:54.081164Z",
-                "2025-09-26T20:25:55.249219Z",
-                "2025-09-26T20:28:05.646409Z",
-                "2025-09-26T20:29:53.004321Z",
-                "2025-09-26T21:25:32.422761Z",
-                "2025-09-26T21:28:29.043383Z",
-                "2025-09-26T21:32:29.569929Z",
-                "2025-09-26T21:35:37.374128Z",
-                "2025-09-26T21:37:50.127387Z",
-                "2025-09-26T21:39:47.253574Z",
-                "2025-09-26T21:42:03.847574Z",
-                "2025-09-26T22:42:16.545547Z",
-                "2025-09-26T22:45:49.275250Z",
-                "2025-09-26T22:47:31.002482Z",
-                "2025-09-26T22:49:57.307783Z",
-                "2025-09-26T22:52:00.028798Z",
-                "2025-09-26T22:53:49.310638Z",
-                "2025-09-26T22:55:24.722781Z",
-                "2025-09-26T23:45:24.590630Z",
-                "2025-09-26T23:47:39.131855Z",
-                "2025-09-26T23:50:02.458733Z",
-                "2025-09-26T23:51:55.980213Z",
-                "2025-09-26T23:53:43.292067Z",
-                "2025-09-26T23:56:07.804673Z",
-                "2025-09-26T23:57:45.132670Z"
-            ]
-        },
-        {
-            "id": "93e54b6d2b4605910c09502b1d5f25cd",
-            "source": "spacenews",
-            "text": "Beyond Gravity to supply robotic arms for Swissto12 small GEO satellites",
-            "source_link": "https://spacenews.com/beyond-gravity-to-supply-robotic-arm-thrusters-for-swissto12-small-geos/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-26T20:32:18.362507Z",
-            "shown_at": [
-                "2025-09-26T20:32:19.044624Z"
-            ]
-        },
-        {
-            "id": "edd23e72fba5a063be31c8a823ff854d",
-            "source": "spacenews",
-            "text": "‘Left of launch’ becomes central focus in next-generation missile defense",
-            "source_link": "https://spacenews.com/left-of-launch-becomes-central-focus-in-next-generation-missile-defense/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-26T22:13:52.790948Z",
-            "shown_at": [
-                "2025-09-26T22:13:53.422352Z"
             ]
         }
     ]
