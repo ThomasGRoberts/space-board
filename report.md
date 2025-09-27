@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 23 | 47 |
-| supercluster | 1 | 1 | 36 | 36 |
+| supercluster | 1 | 1 | 37 | 37 |
 | nyt | 1 | 1 | 20 | 39 |
 | breaking_defense | 0 | 2 | 20 | 40 |
 
@@ -6654,3 +6654,4 @@
 - **Sep 27, 01:32 AM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
 - **Sep 27, 01:48 AM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Sep 27, 01:50 AM** - China Will Launch the Long March 6A Rocket (supercluster)
+- **Sep 27, 01:52 AM** - China Will Launch the Long March 6A Rocket (supercluster)
