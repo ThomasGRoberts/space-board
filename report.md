@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 24 | 49 |
 | supercluster | 1 | 1 | 90 | 90 |
-| nyt | 0 | 1 | 20 | 39 |
+| nyt | 0 | 1 | 21 | 40 |
 | breaking_defense | 0 | 2 | 21 | 42 |
 
 # Shown Order
@@ -6731,3 +6731,4 @@
 - **Sep 27, 09:12 AM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Sep 27, 09:14 AM** - Space Force will own next-gen neighborhood watch sats, based on commercial tech (breaking_defense)
 - **Sep 27, 09:30 AM** - Beyond Gravity to supply robotic arms for Swissto12 small GEO satellites (spacenews)
+- **Sep 27, 09:45 AM** - NASA Picks 10 New Astronauts as Focus Shifts to the Moon and Mars (nyt)
