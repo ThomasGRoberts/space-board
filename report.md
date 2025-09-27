@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 23 | 47 |
 | supercluster | 1 | 1 | 27 | 27 |
-| nyt | 1 | 1 | 19 | 38 |
+| nyt | 1 | 1 | 20 | 39 |
 | breaking_defense | 0 | 2 | 20 | 40 |
 
 # Shown Order
@@ -6641,3 +6641,4 @@
 - **Sep 26, 11:57 PM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Sep 27, 12:00 AM** - Uncertainty over satellite constellation means alt-GPS capability up in the air: Official (breaking_defense)
 - **Sep 27, 12:18 AM** - Lynker and NOAA  to create tailored space-weather forecasts (spacenews)
+- **Sep 27, 12:33 AM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
