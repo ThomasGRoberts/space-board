@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-27T00:00:00.752876+00:00",
-    "trigger_count": 3,
-    "current_item_id": "ffaa7870eca5c6ca0634f721fa9b872e",
+    "trigger_count": 4,
+    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
     "data": [
         {
             "id": "edd23e72fba5a063be31c8a823ff854d",
@@ -12134,15 +12134,18 @@
             ]
         },
         {
-            "id": "ffaa7870eca5c6ca0634f721fa9b872e",
+            "id": "4beba9b243fe616fcb8e7be8d963bbc1",
             "source": "supercluster",
-            "text": "China Will Launch the Long March 6A Rocket",
-            "source_link": "https://www.supercluster.com/launches/long-march-6ao",
-            "shown": false,
+            "text": "SpaceX Will Launch Starlink Satellites from California",
+            "source_link": "https://www.supercluster.com/launches/starlink-11-20",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-09-27T12:39:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-09-27T13:37:52.577568Z"
+            "target_datetime": "2025-09-28T23:32:00.000Z",
+            "time_remaining": "1d 09h 52m",
+            "fetched_datetime": "2025-09-27T13:39:57.565242Z",
+            "shown_at": [
+                "2025-09-27T13:39:58.388165Z"
+            ]
         }
     ]
 }

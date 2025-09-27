@@ -5,7 +5,7 @@
 | spacenews | 4 | 10 | 22 | 47 |
 | nyt | 0 | 1 | 20 | 40 |
 | breaking_defense | 0 | 2 | 20 | 42 |
-| supercluster | 1 | 1 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -6649,3 +6649,4 @@
 - **Sep 27, 11:38 AM** - Geespace secures $281 million for IoT constellation and global HQ (spacenews)
 - **Sep 27, 11:52 AM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
 - **Sep 27, 12:21 PM** - Uncertainty over satellite constellation means alternate-GPS capability up in the air as well: Official (breaking_defense)
+- **Sep 27, 01:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
