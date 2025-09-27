@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 24 | 49 |
 | supercluster | 1 | 1 | 97 | 97 |
-| nyt | 0 | 1 | 20 | 39 |
+| nyt | 0 | 1 | 21 | 40 |
 | breaking_defense | 0 | 2 | 21 | 42 |
 
 # Shown Order
@@ -6741,3 +6741,4 @@
 - **Sep 27, 10:19 AM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Sep 27, 10:22 AM** - Space Force to get NOAA antennas to supplement Satellite Control Network (breaking_defense)
 - **Sep 27, 10:38 AM** - ESCAPADE launch on New Glenn planned for late October or early November (spacenews)
+- **Sep 27, 10:52 AM** - NASA Picks 10 New Astronauts as Focus Shifts to the Moon and Mars (nyt)
