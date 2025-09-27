@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 24 | 48 |
 | supercluster | 1 | 1 | 69 | 69 |
-| nyt | 1 | 1 | 20 | 38 |
+| nyt | 1 | 1 | 21 | 39 |
 | breaking_defense | 0 | 2 | 21 | 41 |
 
 # Shown Order
@@ -6701,3 +6701,4 @@
 - **Sep 27, 06:02 AM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Sep 27, 06:05 AM** - Photos: Day 2 of AFA’s Air, Space & Cyber Conference (breaking_defense)
 - **Sep 27, 06:20 AM** - SatNews and SpaceNews Partner to Launch EU Space Defence Track at SmallSat Europe 2026 (spacenews)
+- **Sep 27, 06:37 AM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
