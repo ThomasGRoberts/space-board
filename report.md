@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 11 | 23 | 47 |
+| spacenews | 4 | 11 | 24 | 48 |
 | supercluster | 1 | 1 | 104 | 104 |
 | nyt | 0 | 1 | 21 | 40 |
 | breaking_defense | 0 | 2 | 21 | 42 |
@@ -6750,3 +6750,4 @@
 - **Sep 27, 11:17 AM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Sep 27, 11:19 AM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Sep 27, 11:22 AM** - Uncertainty over satellite constellation means alt-GPS capability up in the air: Official (breaking_defense)
+- **Sep 27, 11:38 AM** - Geespace secures $281 million for IoT constellation and global HQ (spacenews)
