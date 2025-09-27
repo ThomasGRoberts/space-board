@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 8 | 23 | 45 |
+| spacenews | 3 | 8 | 22 | 45 |
 | nyt | 0 | 1 | 22 | 42 |
-| breaking_defense | 0 | 0 | 23 | 43 |
-| supercluster | 1 | 1 | 54 | 54 |
+| breaking_defense | 0 | 0 | 23 | 42 |
+| supercluster | 1 | 1 | 55 | 55 |
 
 # Shown Order
 
@@ -6727,3 +6727,4 @@
 - **Sep 27, 09:23 PM** - Uncertainty over satellite constellation means alt-GPS capability up in the air: Official (breaking_defense)
 - **Sep 27, 09:42 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 27, 09:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 27, 09:46 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
