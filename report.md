@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 22 | 47 |
+| spacenews | 5 | 12 | 23 | 48 |
 | supercluster | 1 | 1 | 41 | 41 |
 | nyt | 1 | 1 | 20 | 38 |
 | breaking_defense | 0 | 2 | 20 | 41 |
@@ -6660,3 +6660,4 @@
 - **Sep 27, 01:58 AM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Sep 27, 01:59 AM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Sep 27, 02:02 AM** - In a first, Space Force to require refueling capability for next-gen neighborhood watch sats (breaking_defense)
+- **Sep 27, 02:19 AM** - Quantum Space acquires Phase Four propulsion assets (spacenews)
