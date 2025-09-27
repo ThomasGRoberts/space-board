@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 8 | 22 | 45 |
-| nyt | 0 | 1 | 22 | 42 |
-| breaking_defense | 0 | 0 | 23 | 42 |
+| spacenews | 3 | 8 | 23 | 46 |
+| nyt | 0 | 1 | 22 | 41 |
+| breaking_defense | 0 | 0 | 22 | 42 |
 | supercluster | 1 | 1 | 59 | 59 |
 
 # Shown Order
@@ -6732,3 +6732,4 @@
 - **Sep 27, 09:50 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 27, 09:52 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 27, 09:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 27, 10:01 PM** - We’re cluttering Earth’s orbit at record speed. Who’s going to clean it up? (spacenews)
