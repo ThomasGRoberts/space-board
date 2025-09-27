@@ -5,7 +5,7 @@
 | spacenews | 5 | 12 | 23 | 47 |
 | supercluster | 1 | 1 | 48 | 48 |
 | nyt | 1 | 1 | 20 | 39 |
-| breaking_defense | 0 | 2 | 19 | 40 |
+| breaking_defense | 0 | 2 | 20 | 41 |
 
 # Shown Order
 
@@ -6669,3 +6669,4 @@
 - **Sep 27, 02:55 AM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Sep 27, 02:57 AM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Sep 27, 02:59 AM** - China Will Launch the Long March 6A Rocket (supercluster)
+- **Sep 27, 03:02 AM** - NATO investing $728M in new space capabilities, including a new ‘data lake’ (breaking_defense)
