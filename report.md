@@ -5,7 +5,7 @@
 | spacenews | 4 | 9 | 22 | 46 |
 | nyt | 0 | 1 | 21 | 41 |
 | breaking_defense | 0 | 1 | 21 | 43 |
-| supercluster | 1 | 1 | 24 | 24 |
+| supercluster | 1 | 1 | 25 | 25 |
 
 # Shown Order
 
@@ -6685,3 +6685,4 @@
 - **Sep 27, 04:45 PM** - NASA selects new astronaut class (spacenews)
 - **Sep 27, 05:06 PM** - NASA Picks 10 New Astronauts as Focus Shifts to the Moon and Mars (nyt)
 - **Sep 27, 05:20 PM** - Space Force working on future operations plan to guide investment (breaking_defense)
+- **Sep 27, 05:34 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
