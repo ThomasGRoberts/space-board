@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 24 | 49 |
-| supercluster | 1 | 1 | 92 | 92 |
+| supercluster | 1 | 1 | 93 | 93 |
 | nyt | 0 | 1 | 21 | 40 |
 | breaking_defense | 0 | 2 | 21 | 41 |
 
@@ -6734,3 +6734,4 @@
 - **Sep 27, 09:45 AM** - NASA Picks 10 New Astronauts as Focus Shifts to the Moon and Mars (nyt)
 - **Sep 27, 10:04 AM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Sep 27, 10:08 AM** - China Will Launch the Long March 6A Rocket (supercluster)
+- **Sep 27, 10:11 AM** - China Will Launch the Long March 6A Rocket (supercluster)
