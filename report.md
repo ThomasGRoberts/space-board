@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 9 | 21 | 46 |
+| spacenews | 3 | 9 | 22 | 47 |
 | nyt | 0 | 1 | 21 | 41 |
 | breaking_defense | 0 | 1 | 21 | 43 |
 | supercluster | 1 | 1 | 38 | 38 |
@@ -6702,3 +6702,4 @@
 - **Sep 27, 06:42 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 27, 06:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 27, 06:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 27, 06:47 PM** - New contract signed between the NSSTC and U-Space: A new milestone in UAE-France cooperation in space innovation (spacenews)
