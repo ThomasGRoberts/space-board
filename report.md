@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 9 | 23 | 47 |
 | nyt | 0 | 1 | 21 | 41 |
-| breaking_defense | 0 | 1 | 20 | 42 |
+| breaking_defense | 0 | 1 | 21 | 43 |
 | supercluster | 1 | 1 | 31 | 31 |
 
 # Shown Order
@@ -6694,3 +6694,4 @@
 - **Sep 27, 05:46 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 27, 05:48 PM** - Beyond Gravity to supply robotic arm thrusters for Swissto12 small GEOs (spacenews)
 - **Sep 27, 06:02 PM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
+- **Sep 27, 06:17 PM** - Space Force working on future operations plan to guide investment (breaking_defense)
