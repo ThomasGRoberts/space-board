@@ -5,7 +5,7 @@
 | spacenews | 5 | 12 | 23 | 47 |
 | supercluster | 1 | 1 | 34 | 34 |
 | nyt | 1 | 1 | 20 | 38 |
-| breaking_defense | 0 | 2 | 19 | 40 |
+| breaking_defense | 0 | 2 | 20 | 41 |
 
 # Shown Order
 
@@ -6649,3 +6649,4 @@
 - **Sep 27, 12:56 AM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Sep 27, 12:57 AM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Sep 27, 12:59 AM** - China Will Launch the Long March 6A Rocket (supercluster)
+- **Sep 27, 01:01 AM** - Photos: Day 2 of AFA’s Air, Space & Cyber Conference (breaking_defense)
