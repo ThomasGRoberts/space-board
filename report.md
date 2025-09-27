@@ -5,7 +5,7 @@
 | spacenews | 4 | 12 | 23 | 48 |
 | supercluster | 1 | 1 | 104 | 104 |
 | nyt | 0 | 1 | 21 | 40 |
-| breaking_defense | 0 | 2 | 21 | 41 |
+| breaking_defense | 0 | 2 | 22 | 42 |
 
 # Shown Order
 
@@ -6749,3 +6749,4 @@
 - **Sep 27, 11:15 AM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Sep 27, 11:17 AM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Sep 27, 11:19 AM** - China Will Launch the Long March 6A Rocket (supercluster)
+- **Sep 27, 11:22 AM** - Uncertainty over satellite constellation means alt-GPS capability up in the air: Official (breaking_defense)
