@@ -5,7 +5,7 @@
 | spacenews | 4 | 10 | 23 | 47 |
 | nyt | 0 | 1 | 20 | 40 |
 | breaking_defense | 0 | 2 | 21 | 43 |
-| supercluster | 1 | 1 | 3 | 3 |
+| supercluster | 1 | 1 | 4 | 4 |
 
 # Shown Order
 
@@ -6655,3 +6655,4 @@
 - **Sep 27, 01:45 PM** - Falcon 9 launch pushes NRO satellite fleet past 200 in orbit (spacenews)
 - **Sep 27, 02:02 PM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
 - **Sep 27, 02:15 PM** - SPACECOM discussing expansion of joint space monitoring missions with allies (breaking_defense)
+- **Sep 27, 02:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
