@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 10 | 23 | 47 |
+| spacenews | 4 | 10 | 22 | 47 |
 | nyt | 0 | 1 | 20 | 40 |
 | breaking_defense | 0 | 2 | 21 | 43 |
-| supercluster | 1 | 1 | 4 | 4 |
+| supercluster | 1 | 1 | 5 | 5 |
 
 # Shown Order
 
@@ -6656,3 +6656,4 @@
 - **Sep 27, 02:02 PM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
 - **Sep 27, 02:15 PM** - SPACECOM discussing expansion of joint space monitoring missions with allies (breaking_defense)
 - **Sep 27, 02:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 27, 02:32 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
