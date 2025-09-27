@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 7 | 23 | 46 |
-| nyt | 0 | 1 | 21 | 41 |
+| nyt | 0 | 1 | 22 | 42 |
 | breaking_defense | 0 | 1 | 22 | 43 |
 | supercluster | 1 | 1 | 45 | 45 |
 
@@ -6713,3 +6713,4 @@
 - **Sep 27, 07:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 27, 07:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 27, 07:47 PM** - Falcon 9 launches three space weather missions (spacenews)
+- **Sep 27, 08:05 PM** - NASA Picks 10 New Astronauts as Focus Shifts to the Moon and Mars (nyt)
