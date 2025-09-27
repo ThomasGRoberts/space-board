@@ -5,7 +5,7 @@
 | spacenews | 5 | 12 | 24 | 48 |
 | supercluster | 1 | 1 | 97 | 97 |
 | nyt | 0 | 1 | 21 | 40 |
-| breaking_defense | 0 | 2 | 20 | 41 |
+| breaking_defense | 0 | 2 | 21 | 42 |
 
 # Shown Order
 
@@ -6739,3 +6739,4 @@
 - **Sep 27, 10:16 AM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Sep 27, 10:17 AM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Sep 27, 10:19 AM** - China Will Launch the Long March 6A Rocket (supercluster)
+- **Sep 27, 10:22 AM** - Space Force to get NOAA antennas to supplement Satellite Control Network (breaking_defense)
