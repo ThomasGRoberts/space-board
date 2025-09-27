@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 23 | 47 |
 | supercluster | 1 | 1 | 34 | 34 |
-| nyt | 1 | 1 | 19 | 38 |
+| nyt | 1 | 1 | 20 | 39 |
 | breaking_defense | 0 | 2 | 20 | 40 |
 
 # Shown Order
@@ -6651,3 +6651,4 @@
 - **Sep 27, 12:59 AM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Sep 27, 01:01 AM** - Photos: Day 2 of AFA’s Air, Space & Cyber Conference (breaking_defense)
 - **Sep 27, 01:16 AM** - NASA selects new astronaut class (spacenews)
+- **Sep 27, 01:32 AM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
