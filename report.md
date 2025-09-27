@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 24 | 48 |
 | supercluster | 1 | 1 | 76 | 76 |
-| nyt | 1 | 1 | 20 | 39 |
+| nyt | 1 | 1 | 21 | 40 |
 | breaking_defense | 0 | 2 | 21 | 41 |
 
 # Shown Order
@@ -6711,3 +6711,4 @@
 - **Sep 27, 07:05 AM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Sep 27, 07:07 AM** - In a first, Space Force to require refueling capability for next-gen neighborhood watch sats (breaking_defense)
 - **Sep 27, 07:22 AM** - NASA safety panel warns Starship lunar lander could be delayed by years (spacenews)
+- **Sep 27, 07:37 AM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
