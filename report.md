@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 9 | 24 | 46 |
-| supercluster | 0 | 1 | 133 | 194 |
+| supercluster | 0 | 1 | 133 | 195 |
 | nyt | 0 | 0 | 19 | 41 |
 | breaking_defense | 0 | 0 | 19 | 41 |
 
@@ -6923,3 +6923,4 @@
 - **Sep 28, 10:49 PM** - Space Force working on future operations plan to guide investment (breaking_defense)
 - **Sep 28, 11:03 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 28, 11:06 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 28, 11:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
