@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 9 | 21 | 43 |
-| supercluster | 0 | 1 | 137 | 157 |
+| spacenews | 5 | 9 | 22 | 44 |
+| supercluster | 0 | 1 | 135 | 157 |
 | nyt | 0 | 0 | 20 | 40 |
 | breaking_defense | 0 | 0 | 19 | 40 |
 
@@ -6866,3 +6866,4 @@
 - **Sep 28, 04:20 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 28, 04:22 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 28, 04:24 PM** - NASA Picks 10 New Astronauts as Focus Shifts to the Moon and Mars (nyt)
+- **Sep 28, 04:40 PM** - Blue Origin to increase New Shepard flight rate and consider new spaceports (spacenews)
