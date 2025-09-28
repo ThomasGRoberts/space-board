@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 9 | 21 | 44 |
-| supercluster | 0 | 1 | 135 | 145 |
+| spacenews | 5 | 8 | 21 | 43 |
+| supercluster | 0 | 1 | 136 | 146 |
 | nyt | 0 | 0 | 19 | 40 |
-| breaking_defense | 0 | 0 | 20 | 40 |
+| breaking_defense | 0 | 0 | 19 | 40 |
 
 # Shown Order
 
@@ -6850,3 +6850,4 @@
 - **Sep 28, 02:54 PM** - Space Forge and United Semiconductors to collaborate on space-based semiconductor manufacturing (spacenews)
 - **Sep 28, 03:09 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 28, 03:11 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 28, 03:14 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
