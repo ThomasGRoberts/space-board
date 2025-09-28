@@ -5,7 +5,7 @@
 | spacenews | 4 | 8 | 20 | 43 |
 | supercluster | 1 | 1 | 129 | 129 |
 | nyt | 0 | 0 | 19 | 40 |
-| breaking_defense | 0 | 0 | 18 | 40 |
+| breaking_defense | 0 | 0 | 19 | 41 |
 
 # Shown Order
 
@@ -6826,3 +6826,4 @@
 - **Sep 28, 11:58 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 28, 11:59 AM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
 - **Sep 28, 12:15 PM** - Falcon 9 launch pushes NRO satellite fleet past 200 in orbit (spacenews)
+- **Sep 28, 12:32 PM** - Space Force will own next-gen neighborhood watch sats, based on commercial tech (breaking_defense)
