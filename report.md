@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 8 | 19 | 43 |
+| spacenews | 3 | 8 | 20 | 44 |
 | supercluster | 1 | 1 | 94 | 94 |
 | nyt | 0 | 1 | 19 | 40 |
 | breaking_defense | 0 | 0 | 20 | 40 |
@@ -6776,3 +6776,4 @@
 - **Sep 28, 06:28 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 28, 06:30 AM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
 - **Sep 28, 06:48 AM** - NATO investing $728M in new space capabilities, including a new ‘data lake’ (breaking_defense)
+- **Sep 28, 07:02 AM** - New contract signed between the NSSTC and U-Space: A new milestone in UAE-France cooperation in space innovation (spacenews)
