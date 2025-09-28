@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 9 | 20 | 43 |
+| spacenews | 5 | 9 | 21 | 44 |
 | supercluster | 0 | 1 | 133 | 143 |
 | nyt | 0 | 0 | 20 | 40 |
-| breaking_defense | 0 | 0 | 20 | 41 |
+| breaking_defense | 0 | 0 | 20 | 40 |
 
 # Shown Order
 
@@ -6847,3 +6847,4 @@
 - **Sep 28, 02:20 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 28, 02:22 PM** - NASA Picks 10 New Astronauts as Focus Shifts to the Moon and Mars (nyt)
 - **Sep 28, 02:40 PM** - Space Force will own next-gen neighborhood watch sats, based on commercial tech (breaking_defense)
+- **Sep 28, 02:54 PM** - Space Forge and United Semiconductors to collaborate on space-based semiconductor manufacturing (spacenews)
