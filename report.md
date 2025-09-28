@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 9 | 21 | 44 |
 | supercluster | 0 | 1 | 140 | 164 |
-| nyt | 0 | 0 | 19 | 40 |
+| nyt | 0 | 0 | 20 | 41 |
 | breaking_defense | 0 | 0 | 19 | 40 |
 
 # Shown Order
@@ -6875,3 +6875,4 @@
 - **Sep 28, 05:18 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 28, 05:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 28, 05:22 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 28, 05:26 PM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
