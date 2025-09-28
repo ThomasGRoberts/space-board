@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-28T00:05:46.190583+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9bf634f59e13e1346a98fd7a6ac874a9",
+    "trigger_count": 0,
+    "current_item_id": "0ea75bd6e5bbee76f81e80fec8ffa980",
     "data": [
         {
             "id": "21ade29fe4ef0054161984d6b01c731f",
@@ -12384,6 +12384,18 @@
             "fetched_datetime": "2025-09-28T12:48:09.645410Z",
             "shown_at": [
                 "2025-09-28T12:48:10.239154Z"
+            ]
+        },
+        {
+            "id": "0ea75bd6e5bbee76f81e80fec8ffa980",
+            "source": "spacenews",
+            "text": "Galactic Energy secures $336 million, nears debut of new reusable and solid rockets",
+            "source_link": "https://spacenews.com/galactic-energy-secures-336-million-nears-debut-of-new-reusable-and-solid-rockets/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-28T15:39:54.586148Z",
+            "shown_at": [
+                "2025-09-28T15:39:55.640155Z"
             ]
         }
     ]
