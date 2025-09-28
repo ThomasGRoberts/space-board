@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 9 | 20 | 43 |
-| supercluster | 1 | 1 | 102 | 102 |
+| supercluster | 1 | 1 | 103 | 103 |
 | nyt | 0 | 1 | 19 | 40 |
 | breaking_defense | 0 | 0 | 19 | 40 |
 
@@ -6788,3 +6788,4 @@
 - **Sep 28, 07:49 AM** - Blue Origin to increase New Shepard flight rate and consider new spaceports (spacenews)
 - **Sep 28, 08:04 AM** - Day 2 of AFA’s Air, Space & Cyber Conference [Photos] (breaking_defense)
 - **Sep 28, 08:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 28, 08:22 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
