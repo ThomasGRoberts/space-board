@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 9 | 21 | 44 |
-| supercluster | 0 | 1 | 135 | 152 |
+| supercluster | 0 | 1 | 136 | 153 |
 | nyt | 0 | 0 | 19 | 40 |
 | breaking_defense | 0 | 0 | 20 | 40 |
 
@@ -6860,3 +6860,4 @@
 - **Sep 28, 03:54 PM** - In a first, Space Force to require refueling capability for next-gen neighborhood watch sats (breaking_defense)
 - **Sep 28, 04:10 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 28, 04:12 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 28, 04:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
