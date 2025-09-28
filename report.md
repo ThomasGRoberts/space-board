@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 9 | 20 | 43 |
+| spacenews | 5 | 9 | 21 | 44 |
 | supercluster | 0 | 1 | 133 | 136 |
-| nyt | 0 | 0 | 20 | 40 |
+| nyt | 0 | 0 | 20 | 39 |
 | breaking_defense | 0 | 0 | 20 | 40 |
 
 # Shown Order
@@ -6837,3 +6837,4 @@
 - **Sep 28, 01:16 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 28, 01:18 PM** - NASA Picks 10 New Astronauts as Focus Shifts to the Moon and Mars (nyt)
 - **Sep 28, 01:32 PM** - SPACECOM discussing expansion of joint space monitoring missions with allies (breaking_defense)
+- **Sep 28, 01:50 PM** - Lynker and NOAA  to create tailored space-weather forecasts (spacenews)
