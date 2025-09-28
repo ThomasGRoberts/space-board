@@ -3,8 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 9 | 24 | 46 |
-| nyt | 0 | 0 | 20 | 41 |
+| nyt | 0 | 0 | 19 | 41 |
 | breaking_defense | 0 | 0 | 19 | 41 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -6730,3 +6731,4 @@
 - **Sep 28, 10:49 PM** - Space Force working on future operations plan to guide investment (breaking_defense)
 - **Sep 28, 11:17 PM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
 - **Sep 28, 11:31 PM** - IAI’s Game-Changing Communication Satellites: Revolutionizing Global Connectivity (spacenews)
+- **Sep 28, 11:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
