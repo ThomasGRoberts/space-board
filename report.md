@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 8 | 21 | 43 |
-| supercluster | 0 | 1 | 134 | 178 |
+| spacenews | 5 | 8 | 22 | 44 |
+| supercluster | 0 | 1 | 133 | 178 |
 | nyt | 0 | 0 | 20 | 41 |
 | breaking_defense | 0 | 0 | 19 | 41 |
 
@@ -6896,3 +6896,4 @@
 - **Sep 28, 07:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 28, 07:28 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 28, 07:30 PM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
+- **Sep 28, 07:46 PM** - SatNews and SpaceNews Partner to Launch EU Space Defence Track at SmallSat Europe 2026 (spacenews)
