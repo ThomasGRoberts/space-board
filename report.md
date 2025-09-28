@@ -3,14 +3,12 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 22 | 45 |
-| nyt | 0 | 1 | 22 | 42 |
-| breaking_defense | 0 | 0 | 22 | 41 |
 | supercluster | 1 | 1 | 66 | 66 |
+| nyt | 0 | 1 | 22 | 42 |
+| breaking_defense | 0 | 0 | 21 | 41 |
 
 # Shown Order
 
-- **Jun 16, 12:31 PM** - BlackSky unveils wide-area imaging satellite (spacenews)
-- **Jun 16, 01:17 PM** - An international commission to protect space cultural heritage on the moon is needed now (spacenews)
 - **Jun 16, 01:47 PM** - Astroscale secures UK defense contract for space weather, object-tracking mission (spacenews)
 - **Jun 16, 02:19 PM** - China lays foundation for cislunar infrastructure with spacecraft in novel lunar orbits (spacenews)
 - **Jun 16, 03:05 PM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
@@ -28,7 +26,6 @@
 - **Jun 17, 10:31 AM** - The Exploration Company outlines plans for human spaceflight (spacenews)
 - **Jun 17, 01:13 PM** - Desert Works Propulsion Successfully Tests Prototype Cathodes for Turion Space TIE-20 Thruster (spacenews)
 - **Jun 17, 01:57 PM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
-- **Jun 17, 03:13 PM** - An international commission to protect space cultural heritage on the moon is needed now (spacenews)
 - **Jun 17, 03:55 PM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
 - **Jun 17, 05:05 PM** - Desert Works Propulsion Successfully Tests Prototype Cathodes for Turion Space TIE-20 Thruster (spacenews)
 - **Jun 17, 06:03 PM** - Astroscale secures UK defense contract for space weather, object-tracking mission (spacenews)
@@ -77,9 +74,7 @@
 - **Jun 19, 01:33 AM** - Maxar partners with Array Labs to expand 3D imaging technology (spacenews)
 - **Jun 19, 01:47 AM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
 - **Jun 19, 02:02 AM** - Space Force is contracting with SpaceX for new, secretive MILNET SATCOM network (breaking_defense)
-- **Jun 19, 02:31 AM** - BlackSky unveils wide-area imaging satellite (spacenews)
 - **Jun 19, 02:45 AM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
-- **Jun 19, 03:27 AM** - An international commission to protect space cultural heritage on the moon is needed now (spacenews)
 - **Jun 19, 03:41 AM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
 - **Jun 19, 03:57 AM** - Space Force is contracting with SpaceX for new, secretive MILNET SATCOM network (breaking_defense)
 - **Jun 19, 04:25 AM** - Venturi Space announces European lunar rover design (spacenews)
@@ -204,7 +199,6 @@
 - **Jun 21, 03:51 AM** - Firefly announces commercial lunar imagery service (spacenews)
 - **Jun 21, 04:07 AM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
 - **Jun 21, 04:35 AM** - SpaceX Starship Explodes During Test in Texas (nyt)
-- **Jun 21, 04:49 AM** - An international commission to protect space cultural heritage on the moon is needed now (spacenews)
 - **Jun 21, 05:03 AM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
 - **Jun 21, 05:31 AM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
 - **Jun 21, 05:45 AM** - Pentagon struggles to build unified satellite network  (spacenews)
@@ -274,7 +268,6 @@
 - **Jun 22, 03:55 AM** - Commercial ISR satellite operators petition Congress to reverse NRO cuts (breaking_defense)
 - **Jun 22, 04:39 AM** - How Vera Rubin Telescope Scientists Will Deal With 60 Million Billion Bytes of Imagery (nyt)
 - **Jun 22, 04:53 AM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
-- **Jun 22, 05:23 AM** - BlackSky unveils wide-area imaging satellite (spacenews)
 - **Jun 22, 05:37 AM** - How Vera Rubin Telescope Scientists Will Deal With 60 Million Billion Bytes of Imagery (nyt)
 - **Jun 22, 06:49 AM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
 - **Jun 22, 07:17 AM** - A Traveler Waits in the Stars for Those Willing to Learn How to Look (nyt)
@@ -298,12 +291,10 @@
 - **Jun 22, 01:21 PM** - Space Force is contracting with SpaceX for new, secretive MILNET SATCOM network (breaking_defense)
 - **Jun 22, 02:03 PM** - Vera Rubin’s Legacy Lives On in a Troubled Scientific Landscape (nyt)
 - **Jun 22, 02:17 PM** - Chinese sats appear to be attempting first-ever on-orbit refueling, sat tracking firms say (breaking_defense)
-- **Jun 22, 02:45 PM** - An international commission to protect space cultural heritage on the moon is needed now (spacenews)
 - **Jun 22, 02:59 PM** - Vera Rubin’s Legacy Lives On in a Troubled Scientific Landscape (nyt)
 - **Jun 22, 03:15 PM** - Chinese sats appear to be attempting first-ever on-orbit refueling, sat tracking firms say (breaking_defense)
 - **Jun 22, 03:57 PM** - How Vera Rubin Telescope Scientists Will Deal With 60 Million Billion Bytes of Imagery (nyt)
 - **Jun 22, 04:11 PM** - Space Force is contracting with SpaceX for new, secretive MILNET SATCOM network (breaking_defense)
-- **Jun 22, 04:39 PM** - BlackSky unveils wide-area imaging satellite (spacenews)
 - **Jun 22, 04:53 PM** - Vera Rubin’s Legacy Lives On in a Troubled Scientific Landscape (nyt)
 - **Jun 22, 05:07 PM** - Commercial remote sensing: The critical U.S. National Security Space imperative (breaking_defense)
 - **Jun 22, 05:49 PM** - Edward Anders, Who Duped Nazis and Illuminated the Cosmos, Dies at 98 (nyt)
