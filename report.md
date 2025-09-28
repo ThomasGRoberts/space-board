@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 8 | 21 | 44 |
-| supercluster | 0 | 1 | 134 | 179 |
+| supercluster | 0 | 1 | 135 | 180 |
 | nyt | 0 | 0 | 19 | 41 |
 | breaking_defense | 0 | 0 | 19 | 42 |
 
@@ -6899,3 +6899,4 @@
 - **Sep 28, 07:46 PM** - SatNews and SpaceNews Partner to Launch EU Space Defence Track at SmallSat Europe 2026 (spacenews)
 - **Sep 28, 08:02 PM** - NATO investing $728M in new space capabilities, including a new ‘data lake’ (breaking_defense)
 - **Sep 28, 08:22 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 28, 08:24 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
