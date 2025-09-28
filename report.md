@@ -5,7 +5,7 @@
 | spacenews | 4 | 8 | 20 | 43 |
 | supercluster | 1 | 1 | 122 | 122 |
 | nyt | 0 | 0 | 19 | 40 |
-| breaking_defense | 0 | 0 | 18 | 40 |
+| breaking_defense | 0 | 0 | 19 | 41 |
 
 # Shown Order
 
@@ -6816,3 +6816,4 @@
 - **Sep 28, 10:53 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 28, 10:56 AM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
 - **Sep 28, 11:15 AM** - Redefining space diplomacy for the 21st century: from orbits to outcomes (spacenews)
+- **Sep 28, 11:29 AM** - In a first, Space Force to require refueling capability for next-gen neighborhood watch sats (breaking_defense)
