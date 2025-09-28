@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 9 | 21 | 44 |
-| supercluster | 1 | 1 | 129 | 129 |
+| supercluster | 1 | 1 | 130 | 130 |
 | nyt | 0 | 0 | 19 | 39 |
 | breaking_defense | 0 | 0 | 19 | 40 |
 
@@ -6828,3 +6828,4 @@
 - **Sep 28, 12:15 PM** - Falcon 9 launch pushes NRO satellite fleet past 200 in orbit (spacenews)
 - **Sep 28, 12:32 PM** - Space Force will own next-gen neighborhood watch sats, based on commercial tech (breaking_defense)
 - **Sep 28, 12:48 PM** - IAI’s Game-Changing Communication Satellites: Revolutionizing Global Connectivity (spacenews)
+- **Sep 28, 01:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
