@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 9 | 24 | 46 |
-| supercluster | 0 | 1 | 133 | 192 |
+| supercluster | 0 | 1 | 133 | 193 |
 | nyt | 0 | 0 | 19 | 41 |
 | breaking_defense | 0 | 0 | 19 | 41 |
 
@@ -6921,3 +6921,4 @@
 - **Sep 28, 10:21 PM** - Solstar wins NASA contract to develop lunar Wi-Fi systems (spacenews)
 - **Sep 28, 10:35 PM** - Pentagon awards new contracts to boost solid rocket motor output (spacenews)
 - **Sep 28, 10:49 PM** - Space Force working on future operations plan to guide investment (breaking_defense)
+- **Sep 28, 11:03 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
