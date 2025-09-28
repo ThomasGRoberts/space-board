@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-28T00:05:46.190583+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d05f2bffadf657406d16c0c93433a5f2",
+    "trigger_count": 0,
+    "current_item_id": "5715555c208f250168c888e6d12d94d7",
     "data": [
         {
             "id": "21ade29fe4ef0054161984d6b01c731f",
@@ -12241,6 +12241,18 @@
                 "2025-06-18T01:15:26.797530Z",
                 "2025-06-19T16:23:52.556237Z",
                 "2025-06-19T19:17:08.630408Z"
+            ]
+        },
+        {
+            "id": "5715555c208f250168c888e6d12d94d7",
+            "source": "spacenews",
+            "text": "Purdue University to fly dedicated suborbital research mission with Virgin Galactic",
+            "source_link": "https://spacenews.com/purdue-university-to-fly-dedicated-suborbital-research-mission-with-virgin-galactic/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-28T02:24:01.530834Z",
+            "shown_at": [
+                "2025-09-28T02:24:02.307022Z"
             ]
         }
     ]
