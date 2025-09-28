@@ -5,7 +5,7 @@
 | spacenews | 5 | 9 | 21 | 44 |
 | supercluster | 0 | 1 | 133 | 157 |
 | nyt | 0 | 0 | 20 | 40 |
-| breaking_defense | 0 | 0 | 19 | 40 |
+| breaking_defense | 0 | 0 | 20 | 41 |
 
 # Shown Order
 
@@ -6867,3 +6867,4 @@
 - **Sep 28, 04:22 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 28, 04:24 PM** - NASA Picks 10 New Astronauts as Focus Shifts to the Moon and Mars (nyt)
 - **Sep 28, 04:40 PM** - Blue Origin to increase New Shepard flight rate and consider new spaceports (spacenews)
+- **Sep 28, 04:53 PM** - Space Force to get NOAA antennas to supplement Satellite Control Network (breaking_defense)
