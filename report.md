@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 9 | 21 | 43 |
-| supercluster | 0 | 1 | 135 | 164 |
-| nyt | 0 | 0 | 20 | 41 |
+| spacenews | 5 | 9 | 22 | 44 |
+| supercluster | 0 | 1 | 134 | 164 |
+| nyt | 0 | 0 | 20 | 40 |
 | breaking_defense | 0 | 0 | 19 | 40 |
 
 # Shown Order
@@ -6876,3 +6876,4 @@
 - **Sep 28, 05:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 28, 05:22 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 28, 05:26 PM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
+- **Sep 28, 05:44 PM** - IAI’s Game-Changing Communication Satellites: Revolutionizing Global Connectivity (spacenews)
