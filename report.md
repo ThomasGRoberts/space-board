@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 21 | 44 |
 | supercluster | 0 | 1 | 133 | 185 |
-| nyt | 0 | 0 | 20 | 41 |
-| breaking_defense | 0 | 0 | 19 | 41 |
+| nyt | 0 | 0 | 19 | 41 |
+| breaking_defense | 0 | 0 | 20 | 42 |
 
 # Shown Order
 
@@ -6907,3 +6907,4 @@
 - **Sep 28, 08:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 28, 08:38 PM** - NASA Picks 10 New Astronauts as Focus Shifts to the Moon and Mars (nyt)
 - **Sep 28, 08:52 PM** - L3Harris looks to scale production of hybrid satcom radios after successful Air Force tests (spacenews)
+- **Sep 28, 09:08 PM** - German military to invest $41B in space capabilities (breaking_defense)
