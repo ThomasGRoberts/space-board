@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 7 | 21 | 44 |
-| supercluster | 1 | 1 | 66 | 66 |
-| nyt | 0 | 1 | 22 | 41 |
+| supercluster | 1 | 1 | 67 | 67 |
+| nyt | 0 | 1 | 21 | 41 |
 | breaking_defense | 0 | 0 | 22 | 42 |
 
 # Shown Order
@@ -6736,3 +6736,4 @@
 - **Sep 27, 11:21 PM** - Artemis 2 could launch as soon as February (spacenews)
 - **Sep 27, 11:45 PM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
 - **Sep 28, 12:12 AM** - Day 2 of AFA’s Air, Space & Cyber Conference [Photos] (breaking_defense)
+- **Sep 28, 12:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
