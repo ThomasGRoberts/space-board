@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 8 | 19 | 43 |
 | supercluster | 1 | 1 | 129 | 129 |
-| nyt | 0 | 0 | 18 | 39 |
+| nyt | 0 | 0 | 19 | 40 |
 | breaking_defense | 0 | 0 | 19 | 40 |
 
 # Shown Order
@@ -6824,3 +6824,4 @@
 - **Sep 28, 11:53 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 28, 11:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 28, 11:58 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 28, 11:59 AM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
