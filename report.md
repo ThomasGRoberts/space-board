@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 9 | 21 | 44 |
 | supercluster | 0 | 1 | 140 | 171 |
-| nyt | 0 | 0 | 19 | 40 |
+| nyt | 0 | 0 | 20 | 41 |
 | breaking_defense | 0 | 0 | 19 | 40 |
 
 # Shown Order
@@ -6885,3 +6885,4 @@
 - **Sep 28, 06:22 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 28, 06:24 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 28, 06:26 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 28, 06:27 PM** - NASA Picks 10 New Astronauts as Focus Shifts to the Moon and Mars (nyt)
