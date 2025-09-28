@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 8 | 23 | 45 |
+| spacenews | 7 | 9 | 24 | 46 |
 | supercluster | 0 | 1 | 133 | 192 |
 | nyt | 0 | 0 | 19 | 41 |
 | breaking_defense | 0 | 0 | 19 | 41 |
@@ -6919,3 +6919,4 @@
 - **Sep 28, 09:53 PM** - Building Missile Defense Readiness through Composites and Domestic Supply Chain Coordination (spacenews)
 - **Sep 28, 10:08 PM** - Eartheye to offer tasking of satellites looking up and down (spacenews)
 - **Sep 28, 10:21 PM** - Solstar wins NASA contract to develop lunar Wi-Fi systems (spacenews)
+- **Sep 28, 10:35 PM** - Pentagon awards new contracts to boost solid rocket motor output (spacenews)
