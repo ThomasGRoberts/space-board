@@ -5,7 +5,7 @@
 | spacenews | 4 | 9 | 20 | 44 |
 | supercluster | 1 | 1 | 108 | 108 |
 | nyt | 0 | 1 | 19 | 40 |
-| breaking_defense | 0 | 0 | 19 | 39 |
+| breaking_defense | 0 | 0 | 20 | 40 |
 
 # Shown Order
 
@@ -6796,3 +6796,4 @@
 - **Sep 28, 08:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 28, 08:38 AM** - NASA Picks 10 New Astronauts as Focus Shifts to the Moon and Mars (nyt)
 - **Sep 28, 08:54 AM** - Moog Breaks Ground on New Propulsion Clean Room to Support Satellite and Missile Growth (spacenews)
+- **Sep 28, 09:10 AM** - Photos: Day 2 of AFA’s Air, Space & Cyber Conference (breaking_defense)
