@@ -5,7 +5,7 @@
 | spacenews | 5 | 9 | 21 | 43 |
 | supercluster | 1 | 1 | 136 | 136 |
 | nyt | 0 | 0 | 20 | 40 |
-| breaking_defense | 0 | 0 | 19 | 40 |
+| breaking_defense | 0 | 0 | 20 | 41 |
 
 # Shown Order
 
@@ -6836,3 +6836,4 @@
 - **Sep 28, 01:14 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 28, 01:16 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 28, 01:18 PM** - NASA Picks 10 New Astronauts as Focus Shifts to the Moon and Mars (nyt)
+- **Sep 28, 01:32 PM** - SPACECOM discussing expansion of joint space monitoring missions with allies (breaking_defense)
