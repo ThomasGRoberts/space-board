@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 21 | 44 |
-| supercluster | 0 | 1 | 135 | 187 |
+| supercluster | 0 | 1 | 136 | 188 |
 | nyt | 0 | 0 | 19 | 41 |
-| breaking_defense | 0 | 0 | 20 | 42 |
+| breaking_defense | 0 | 0 | 19 | 42 |
 
 # Shown Order
 
@@ -6910,3 +6910,4 @@
 - **Sep 28, 09:08 PM** - German military to invest $41B in space capabilities (breaking_defense)
 - **Sep 28, 09:22 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 28, 09:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 28, 09:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
