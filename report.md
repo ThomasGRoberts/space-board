@@ -5,7 +5,7 @@
 | spacenews | 4 | 9 | 20 | 44 |
 | supercluster | 1 | 1 | 101 | 101 |
 | nyt | 0 | 1 | 19 | 40 |
-| breaking_defense | 0 | 0 | 19 | 39 |
+| breaking_defense | 0 | 0 | 20 | 40 |
 
 # Shown Order
 
@@ -6786,3 +6786,4 @@
 - **Sep 28, 07:32 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 28, 07:33 AM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
 - **Sep 28, 07:49 AM** - Blue Origin to increase New Shepard flight rate and consider new spaceports (spacenews)
+- **Sep 28, 08:04 AM** - Day 2 of AFA’s Air, Space & Cyber Conference [Photos] (breaking_defense)
