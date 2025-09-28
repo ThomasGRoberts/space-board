@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 7 | 21 | 44 |
+| spacenews | 6 | 9 | 22 | 45 |
 | supercluster | 0 | 1 | 133 | 192 |
 | nyt | 0 | 0 | 20 | 42 |
 | breaking_defense | 0 | 0 | 19 | 41 |
@@ -6917,3 +6917,4 @@
 - **Sep 28, 09:36 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 28, 09:38 PM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
 - **Sep 28, 09:53 PM** - Building Missile Defense Readiness through Composites and Domestic Supply Chain Coordination (spacenews)
+- **Sep 28, 10:08 PM** - Eartheye to offer tasking of satellites looking up and down (spacenews)

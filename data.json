@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-28T00:05:46.190583+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d6e7686a84b0c96dc7d637028914469c",
+    "trigger_count": 0,
+    "current_item_id": "46bc313a5c98f71a5539ab12b4c112ac",
     "data": [
         {
             "id": "21ade29fe4ef0054161984d6b01c731f",
@@ -12457,6 +12457,27 @@
             "shown_at": [
                 "2025-09-28T15:39:55.640155Z"
             ]
+        },
+        {
+            "id": "46bc313a5c98f71a5539ab12b4c112ac",
+            "source": "spacenews",
+            "text": "Eartheye to offer tasking of satellites looking up and down",
+            "source_link": "https://spacenews.com/eartheye-to-offer-tasking-of-satellites-looking-up-and-down/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-28T22:08:00.104219Z",
+            "shown_at": [
+                "2025-09-28T22:08:00.873531Z"
+            ]
+        },
+        {
+            "id": "5bbe987069f3dda53347c5b941379aca",
+            "source": "spacenews",
+            "text": "Solstar wins NASA contract to develop lunar Wi-Fi systems",
+            "source_link": "https://spacenews.com/solstar-wins-nasa-contract-to-develop-lunar-wi-fi-systems/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-09-28T22:08:00.104276Z"
         }
     ]
 }
