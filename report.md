@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 9 | 20 | 44 |
-| supercluster | 1 | 1 | 115 | 115 |
+| supercluster | 1 | 1 | 116 | 116 |
 | nyt | 0 | 0 | 19 | 39 |
 | breaking_defense | 0 | 0 | 19 | 40 |
 
@@ -6807,3 +6807,4 @@
 - **Sep 28, 09:46 AM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
 - **Sep 28, 10:00 AM** - Geespace secures $281 million for IoT constellation and global HQ (spacenews)
 - **Sep 28, 10:20 AM** - NRO needs AI to manage more than 200 (and counting) satellites, director says (breaking_defense)
+- **Sep 28, 10:36 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
