@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 8 | 20 | 43 |
-| supercluster | 1 | 1 | 96 | 96 |
+| spacenews | 3 | 8 | 19 | 43 |
+| supercluster | 1 | 1 | 97 | 97 |
 | nyt | 0 | 1 | 19 | 40 |
 | breaking_defense | 0 | 0 | 19 | 40 |
 
@@ -6779,3 +6779,4 @@
 - **Sep 28, 07:02 AM** - New contract signed between the NSSTC and U-Space: A new milestone in UAE-France cooperation in space innovation (spacenews)
 - **Sep 28, 07:20 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 28, 07:21 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 28, 07:24 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
