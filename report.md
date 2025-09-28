@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 8 | 21 | 43 |
-| supercluster | 0 | 1 | 133 | 171 |
+| supercluster | 0 | 1 | 134 | 172 |
 | nyt | 0 | 0 | 19 | 40 |
 | breaking_defense | 0 | 0 | 20 | 41 |
 
@@ -6888,3 +6888,4 @@
 - **Sep 28, 06:27 PM** - NASA Picks 10 New Astronauts as Focus Shifts to the Moon and Mars (nyt)
 - **Sep 28, 06:43 PM** - Firefly looks to resume Alpha launches soon (spacenews)
 - **Sep 28, 07:00 PM** - Photos: Day 2 of AFA’s Air, Space & Cyber Conference (breaking_defense)
+- **Sep 28, 07:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
