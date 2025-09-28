@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 7 | 21 | 44 |
-| supercluster | 1 | 1 | 68 | 68 |
+| supercluster | 1 | 1 | 69 | 69 |
 | nyt | 0 | 1 | 21 | 41 |
 | breaking_defense | 0 | 0 | 22 | 42 |
 
@@ -6738,3 +6738,4 @@
 - **Sep 28, 12:12 AM** - Day 2 of AFA’s Air, Space & Cyber Conference [Photos] (breaking_defense)
 - **Sep 28, 12:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 28, 12:40 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 28, 12:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
