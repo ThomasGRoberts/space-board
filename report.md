@@ -5,7 +5,7 @@
 | spacenews | 3 | 8 | 20 | 43 |
 | supercluster | 1 | 1 | 80 | 80 |
 | nyt | 0 | 1 | 20 | 40 |
-| breaking_defense | 0 | 0 | 20 | 40 |
+| breaking_defense | 0 | 0 | 21 | 41 |
 
 # Shown Order
 
@@ -6755,3 +6755,4 @@
 - **Sep 28, 03:08 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 28, 03:15 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 28, 03:20 AM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
+- **Sep 28, 03:52 AM** - Uncertainty over satellite constellation means alt-GPS capability up in the air: Official (breaking_defense)
