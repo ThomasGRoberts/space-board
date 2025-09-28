@@ -5,7 +5,7 @@
 | spacenews | 7 | 9 | 24 | 46 |
 | supercluster | 0 | 1 | 133 | 192 |
 | nyt | 0 | 0 | 19 | 41 |
-| breaking_defense | 0 | 0 | 18 | 41 |
+| breaking_defense | 0 | 0 | 19 | 42 |
 
 # Shown Order
 
@@ -6920,3 +6920,4 @@
 - **Sep 28, 10:08 PM** - Eartheye to offer tasking of satellites looking up and down (spacenews)
 - **Sep 28, 10:21 PM** - Solstar wins NASA contract to develop lunar Wi-Fi systems (spacenews)
 - **Sep 28, 10:35 PM** - Pentagon awards new contracts to boost solid rocket motor output (spacenews)
+- **Sep 28, 10:49 PM** - Space Force working on future operations plan to guide investment (breaking_defense)
