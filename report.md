@@ -6629,4 +6629,4 @@
 - **Sep 29, 01:15 AM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
 - **Sep 29, 01:43 AM** - Blue Origin to increase New Shepard flight rate and consider new spaceports (spacenews)
 - **Sep 29, 01:57 AM** - Photos: Day 2 of AFA’s Air, Space & Cyber Conference (breaking_defense)
-- **Sep 29, 03:49 AM** - China Will Launch the Long March 2D Rocket (supercluster)
+- **Sep 29, 03:51 AM** - China Will Launch the Long March 2D Rocket (supercluster)
