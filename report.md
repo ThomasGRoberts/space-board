@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 14 | 26 | 47 |
+| spacenews | 9 | 14 | 27 | 48 |
 | nyt | 0 | 0 | 19 | 39 |
 | breaking_defense | 0 | 0 | 20 | 39 |
 | supercluster | 1 | 1 | 95 | 95 |
@@ -6766,3 +6766,4 @@
 - **Sep 29, 06:31 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 29, 06:33 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 29, 06:35 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
+- **Sep 29, 06:37 PM** - Space Forge and United Semiconductors to collaborate on space-based semiconductor manufacturing (spacenews)
