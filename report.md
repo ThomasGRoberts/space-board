@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 10 | 25 | 44 |
-| nyt | 0 | 0 | 19 | 38 |
+| spacenews | 7 | 10 | 24 | 44 |
+| nyt | 0 | 0 | 20 | 39 |
 | breaking_defense | 0 | 0 | 19 | 39 |
 | supercluster | 1 | 1 | 18 | 18 |
 
@@ -6654,3 +6654,4 @@
 - **Sep 29, 06:45 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 29, 06:47 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 29, 06:49 AM** - NASA awards Katalyst Space contract to reboost Swift spacecraft (spacenews)
+- **Sep 29, 07:03 AM** - NASA Picks 10 New Astronauts as Focus Shifts to the Moon and Mars (nyt)
