@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-29T00:02:21.984481+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f5e5b027685a644735114adcbaf17faf",
+    "trigger_count": 0,
+    "current_item_id": "1fb2eae21530e4658c44a85afac8b3b2",
     "data": [
         {
             "id": "2a4d3c26c87f64cf8973f1adc2d7d263",
@@ -12296,6 +12296,18 @@
             "fetched_datetime": "2025-09-29T13:07:52.237676Z",
             "shown_at": [
                 "2025-09-29T13:07:52.846278Z"
+            ]
+        },
+        {
+            "id": "1fb2eae21530e4658c44a85afac8b3b2",
+            "source": "spacenews",
+            "text": "Startup’s radiation shield tech could bring high-performance AI chips to space",
+            "source_link": "https://spacenews.com/startups-radiation-shield-tech-could-bring-high-performance-ai-chips-to-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-29T16:37:45.256038Z",
+            "shown_at": [
+                "2025-09-29T16:37:46.207227Z"
             ]
         }
     ]
