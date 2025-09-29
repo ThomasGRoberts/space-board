@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 13 | 26 | 47 |
-| nyt | 0 | 0 | 20 | 40 |
-| breaking_defense | 0 | 0 | 20 | 39 |
+| nyt | 0 | 0 | 20 | 39 |
+| breaking_defense | 0 | 0 | 20 | 40 |
 | supercluster | 1 | 1 | 109 | 109 |
 
 # Shown Order
@@ -6788,3 +6788,4 @@
 - **Sep 29, 08:35 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 29, 08:37 PM** - China’s Geovis Insighter Technology to launch SSA constellation (spacenews)
 - **Sep 29, 08:53 PM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
+- **Sep 29, 09:09 PM** - German military to invest $41B in space capabilities (breaking_defense)
