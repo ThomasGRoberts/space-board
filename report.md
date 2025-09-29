@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 10 | 24 | 44 |
-| nyt | 0 | 0 | 19 | 38 |
-| breaking_defense | 0 | 0 | 20 | 39 |
+| nyt | 0 | 0 | 20 | 39 |
+| breaking_defense | 0 | 0 | 19 | 39 |
 | supercluster | 1 | 1 | 32 | 32 |
 
 # Shown Order
@@ -6674,3 +6674,4 @@
 - **Sep 29, 08:49 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 29, 08:51 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 29, 08:54 AM** - Air Force Secretary warns of ‘Sputnik moment’ as U.S. faces China’s rapid military advances (spacenews)
+- **Sep 29, 09:12 AM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
