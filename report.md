@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 10 | 24 | 43 |
-| nyt | 0 | 0 | 20 | 39 |
+| nyt | 0 | 0 | 19 | 38 |
 | breaking_defense | 0 | 0 | 20 | 39 |
-| supercluster | 1 | 1 | 34 | 34 |
+| supercluster | 1 | 1 | 35 | 35 |
 
 # Shown Order
 
@@ -6678,3 +6678,4 @@
 - **Sep 29, 09:29 AM** - Space Force working on future operations plan to guide investment (breaking_defense)
 - **Sep 29, 09:43 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 29, 09:45 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
+- **Sep 29, 09:47 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
