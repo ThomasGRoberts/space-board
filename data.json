@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-29T00:02:21.984481+00:00",
-    "trigger_count": 6,
-    "current_item_id": "cd40800130b8c4b12f1d1876dd1cdc3e",
+    "trigger_count": 0,
+    "current_item_id": "5fbcfde3ffbd1a718f01af19719f5127",
     "data": [
         {
             "id": "2a4d3c26c87f64cf8973f1adc2d7d263",
@@ -12247,6 +12247,18 @@
             "fetched_datetime": "2025-09-29T12:23:42.872309Z",
             "shown_at": [
                 "2025-09-29T12:23:43.526671Z"
+            ]
+        },
+        {
+            "id": "5fbcfde3ffbd1a718f01af19719f5127",
+            "source": "spacenews",
+            "text": "A perspective on space: Preparing for 2075",
+            "source_link": "https://spacenews.com/a-perspective-on-space-preparing-for-2075/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-29T13:07:52.237676Z",
+            "shown_at": [
+                "2025-09-29T13:07:52.846278Z"
             ]
         }
     ]

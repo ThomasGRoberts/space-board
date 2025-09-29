@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 13 | 25 | 46 |
+| spacenews | 9 | 14 | 26 | 47 |
 | nyt | 0 | 0 | 20 | 39 |
 | breaking_defense | 0 | 0 | 20 | 39 |
 | supercluster | 1 | 1 | 53 | 53 |
@@ -6708,3 +6708,4 @@
 - **Sep 29, 12:23 PM** - China’s Geovis Insighter Technology to launch SSA constellation (spacenews)
 - **Sep 29, 12:37 PM** - NASA Picks 10 New Astronauts as Focus Shifts to the Moon and Mars (nyt)
 - **Sep 29, 12:51 PM** - Space Force will own next-gen neighborhood watch sats, based on commercial tech (breaking_defense)
+- **Sep 29, 01:07 PM** - A perspective on space: Preparing for 2075 (spacenews)
