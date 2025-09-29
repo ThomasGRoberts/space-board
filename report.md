@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 14 | 26 | 47 |
-| nyt | 0 | 0 | 20 | 40 |
-| breaking_defense | 0 | 0 | 19 | 39 |
+| nyt | 0 | 0 | 20 | 39 |
+| breaking_defense | 0 | 0 | 20 | 40 |
 | supercluster | 1 | 1 | 81 | 81 |
 
 # Shown Order
@@ -6748,3 +6748,4 @@
 - **Sep 29, 04:35 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 29, 04:37 PM** - Startup’s radiation shield tech could bring high-performance AI chips to space (spacenews)
 - **Sep 29, 04:51 PM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
+- **Sep 29, 05:07 PM** - Space Force working on future operations plan to guide investment (breaking_defense)
