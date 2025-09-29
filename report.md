@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 9 | 24 | 45 |
-| nyt | 0 | 0 | 20 | 42 |
+| nyt | 0 | 0 | 20 | 41 |
 | breaking_defense | 0 | 0 | 20 | 41 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -6629,3 +6629,4 @@
 - **Sep 29, 01:15 AM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
 - **Sep 29, 01:29 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 29, 01:32 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 29, 01:33 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
