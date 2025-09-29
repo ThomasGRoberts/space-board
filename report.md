@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 14 | 25 | 46 |
+| spacenews | 9 | 14 | 26 | 47 |
 | nyt | 0 | 0 | 20 | 39 |
 | breaking_defense | 0 | 0 | 20 | 40 |
 | supercluster | 1 | 1 | 67 | 67 |
@@ -6728,3 +6728,4 @@
 - **Sep 29, 02:33 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 29, 02:35 PM** - NASA Picks 10 New Astronauts as Focus Shifts to the Moon and Mars (nyt)
 - **Sep 29, 02:50 PM** - Space Force working on future operations plan to guide investment (breaking_defense)
+- **Sep 29, 03:05 PM** - Redefining space diplomacy for the 21st century: from orbits to outcomes (spacenews)
