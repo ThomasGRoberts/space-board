@@ -5,7 +5,6 @@
 | spacenews | 7 | 9 | 25 | 46 |
 | nyt | 0 | 0 | 20 | 41 |
 | breaking_defense | 0 | 0 | 20 | 41 |
-| supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
 
@@ -6627,12 +6626,5 @@
 - **Sep 29, 12:30 AM** - To Protect the Nation, the Golden Dome Must Be Capable of Protecting Itself (spacenews)
 - **Sep 29, 12:59 AM** - Space Force will own next-gen neighborhood watch sats, based on commercial tech (breaking_defense)
 - **Sep 29, 01:15 AM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
-- **Sep 29, 01:29 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Sep 29, 01:32 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Sep 29, 01:33 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Sep 29, 01:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Sep 29, 01:37 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Sep 29, 01:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Sep 29, 01:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 29, 01:43 AM** - Blue Origin to increase New Shepard flight rate and consider new spaceports (spacenews)
 - **Sep 29, 01:57 AM** - Photos: Day 2 of AFA’s Air, Space & Cyber Conference (breaking_defense)
