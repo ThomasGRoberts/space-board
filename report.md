@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 10 | 24 | 43 |
+| spacenews | 6 | 10 | 25 | 44 |
 | nyt | 0 | 0 | 20 | 38 |
 | breaking_defense | 0 | 0 | 20 | 39 |
 | supercluster | 1 | 1 | 46 | 46 |
@@ -6693,3 +6693,4 @@
 - **Sep 29, 10:49 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 29, 10:51 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 29, 10:53 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
+- **Sep 29, 10:55 AM** - U.S. military sees China’s reusable rocket push as a space security concern (spacenews)
