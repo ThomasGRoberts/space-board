@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 24 | 47 |
-| nyt | 0 | 0 | 20 | 40 |
+| nyt | 0 | 0 | 20 | 39 |
 | breaking_defense | 0 | 0 | 21 | 40 |
-| supercluster | 1 | 1 | 117 | 117 |
+| supercluster | 1 | 1 | 118 | 118 |
 
 # Shown Order
 
@@ -6800,3 +6800,4 @@
 - **Sep 29, 09:53 PM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
 - **Sep 29, 10:07 PM** - Space Force working on future operations plan to guide investment (breaking_defense)
 - **Sep 29, 10:23 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
+- **Sep 29, 10:25 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
