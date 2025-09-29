@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 10 | 24 | 44 |
 | nyt | 0 | 0 | 20 | 39 |
-| breaking_defense | 0 | 0 | 19 | 38 |
+| breaking_defense | 0 | 0 | 20 | 39 |
 | supercluster | 1 | 1 | 25 | 25 |
 
 # Shown Order
@@ -6665,3 +6665,4 @@
 - **Sep 29, 07:49 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 29, 07:51 AM** - IAI’s Game-Changing Communication Satellites: Revolutionizing Global Connectivity (spacenews)
 - **Sep 29, 08:07 AM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
+- **Sep 29, 08:23 AM** - Photos: Day 2 of AFA’s Air, Space & Cyber Conference (breaking_defense)
