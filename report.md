@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 14 | 14 |
 | spacenews | 7 | 9 | 24 | 45 |
-| nyt | 0 | 0 | 21 | 42 |
+| nyt | 0 | 0 | 20 | 42 |
 | breaking_defense | 0 | 0 | 20 | 41 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -6622,22 +6622,9 @@
 - **Sep 28, 10:49 PM** - Space Force working on future operations plan to guide investment (breaking_defense)
 - **Sep 28, 11:17 PM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
 - **Sep 28, 11:31 PM** - IAI’s Game-Changing Communication Satellites: Revolutionizing Global Connectivity (spacenews)
-- **Sep 28, 11:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Sep 28, 11:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Sep 28, 11:49 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Sep 28, 11:51 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Sep 28, 11:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Sep 28, 11:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Sep 28, 11:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 28, 11:59 PM** - Uncertainty over satellite constellation means alternate-GPS capability up in the air as well: Official (breaking_defense)
 - **Sep 29, 12:15 AM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
 - **Sep 29, 12:30 AM** - To Protect the Nation, the Golden Dome Must Be Capable of Protecting Itself (spacenews)
-- **Sep 29, 12:46 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Sep 29, 12:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Sep 29, 12:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Sep 29, 12:51 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Sep 29, 12:53 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Sep 29, 12:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Sep 29, 12:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 29, 12:59 AM** - Space Force will own next-gen neighborhood watch sats, based on commercial tech (breaking_defense)
 - **Sep 29, 01:15 AM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
+- **Sep 29, 01:29 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)

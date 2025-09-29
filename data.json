@@ -1,36 +1,9 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-29T00:02:21.984481+00:00",
-    "trigger_count": 6,
-    "current_item_id": "34813b2aa43cc3553bfb941de3722e1e",
+    "trigger_count": 0,
+    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
     "data": [
-        {
-            "id": "4beba9b243fe616fcb8e7be8d963bbc1",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from California",
-            "source_link": "https://www.supercluster.com/launches/starlink-11-20",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-09-29T01:28:00.000Z",
-            "time_remaining": "0d 00h 30m",
-            "fetched_datetime": "2025-09-28T23:45:45.696065Z",
-            "shown_at": [
-                "2025-09-28T23:45:46.516833Z",
-                "2025-09-28T23:47:51.520551Z",
-                "2025-09-28T23:49:36.720395Z",
-                "2025-09-28T23:51:50.142194Z",
-                "2025-09-28T23:53:34.952000Z",
-                "2025-09-28T23:55:30.345101Z",
-                "2025-09-28T23:57:45.320281Z",
-                "2025-09-29T00:46:05.056742Z",
-                "2025-09-29T00:47:09.478616Z",
-                "2025-09-29T00:49:46.245743Z",
-                "2025-09-29T00:51:40.844458Z",
-                "2025-09-29T00:53:56.247406Z",
-                "2025-09-29T00:55:58.501861Z",
-                "2025-09-29T00:57:51.794431Z"
-            ]
-        },
         {
             "id": "2a4d3c26c87f64cf8973f1adc2d7d263",
             "source": "spacenews",
@@ -12136,6 +12109,20 @@
                 "2025-06-23T04:27:32.507241Z",
                 "2025-06-23T19:41:45.011839Z",
                 "2025-06-24T05:21:47.396530Z"
+            ]
+        },
+        {
+            "id": "4beba9b243fe616fcb8e7be8d963bbc1",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Starlink Satellites from California",
+            "source_link": "https://www.supercluster.com/launches/starlink-11-20",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-09-29T02:04:00.000Z",
+            "time_remaining": "0d 00h 34m",
+            "fetched_datetime": "2025-09-29T01:29:51.913510Z",
+            "shown_at": [
+                "2025-09-29T01:29:52.467114Z"
             ]
         }
     ]
