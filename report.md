@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 14 | 25 | 46 |
+| spacenews | 9 | 14 | 26 | 47 |
 | nyt | 0 | 0 | 20 | 39 |
 | breaking_defense | 0 | 0 | 20 | 40 |
 | supercluster | 1 | 1 | 60 | 60 |
@@ -6718,3 +6718,4 @@
 - **Sep 29, 01:35 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 29, 01:37 PM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
 - **Sep 29, 01:53 PM** - Uncertainty over satellite constellation means alt-GPS capability up in the air: Official (breaking_defense)
+- **Sep 29, 02:07 PM** - Geespace secures $281 million for IoT constellation and global HQ (spacenews)
