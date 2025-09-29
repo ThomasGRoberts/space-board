@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 9 | 24 | 45 |
 | nyt | 0 | 0 | 20 | 40 |
-| breaking_defense | 0 | 0 | 20 | 41 |
+| breaking_defense | 0 | 0 | 20 | 40 |
 | supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
@@ -6629,4 +6629,4 @@
 - **Sep 29, 01:15 AM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
 - **Sep 29, 01:43 AM** - Blue Origin to increase New Shepard flight rate and consider new spaceports (spacenews)
 - **Sep 29, 01:57 AM** - Photos: Day 2 of AFA’s Air, Space & Cyber Conference (breaking_defense)
-- **Sep 29, 03:00 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 29, 03:02 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
