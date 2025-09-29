@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 8 | 8 |
+| supercluster | 1 | 1 | 9 | 9 |
 | spacenews | 7 | 9 | 25 | 46 |
 | nyt | 0 | 0 | 20 | 41 |
 | breaking_defense | 0 | 0 | 19 | 41 |
@@ -6633,3 +6633,4 @@
 - **Sep 29, 12:15 AM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
 - **Sep 29, 12:30 AM** - To Protect the Nation, the Golden Dome Must Be Capable of Protecting Itself (spacenews)
 - **Sep 29, 12:46 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Sep 29, 12:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
