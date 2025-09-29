@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 10 | 24 | 44 |
 | nyt | 0 | 0 | 20 | 39 |
-| breaking_defense | 0 | 0 | 19 | 39 |
+| breaking_defense | 0 | 0 | 20 | 40 |
 | supercluster | 1 | 1 | 4 | 4 |
 
 # Shown Order
@@ -6635,3 +6635,4 @@
 - **Sep 29, 04:11 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 29, 04:14 AM** - Italy’s crossroads: build its own satellites or lean on Starlink while waiting for IRIS² (spacenews)
 - **Sep 29, 04:29 AM** - NASA Picks 10 New Astronauts as Focus Shifts to the Moon and Mars (nyt)
+- **Sep 29, 04:52 AM** - In a first, Space Force to require refueling capability for next-gen neighborhood watch sats (breaking_defense)
