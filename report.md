@@ -5,7 +5,7 @@
 | spacenews | 7 | 10 | 24 | 43 |
 | nyt | 0 | 0 | 19 | 39 |
 | breaking_defense | 0 | 0 | 20 | 39 |
-| supercluster | 1 | 1 | 11 | 11 |
+| supercluster | 1 | 1 | 12 | 12 |
 
 # Shown Order
 
@@ -6646,3 +6646,4 @@
 - **Sep 29, 05:33 AM** - Galactic Energy secures $336 million, nears debut of new reusable and solid rockets (spacenews)
 - **Sep 29, 05:52 AM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
 - **Sep 29, 06:18 AM** - German military to invest $41B in space capabilities (breaking_defense)
+- **Sep 29, 06:34 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
