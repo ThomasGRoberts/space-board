@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 13 | 25 | 46 |
 | nyt | 0 | 0 | 20 | 39 |
-| breaking_defense | 0 | 0 | 19 | 38 |
+| breaking_defense | 0 | 0 | 20 | 39 |
 | supercluster | 1 | 1 | 53 | 53 |
 
 # Shown Order
@@ -6707,3 +6707,4 @@
 - **Sep 29, 12:09 PM** - Moog Completes High-Velocity Propulsion Systems, Begins Next Phase of Spacecraft Integration (spacenews)
 - **Sep 29, 12:23 PM** - China’s Geovis Insighter Technology to launch SSA constellation (spacenews)
 - **Sep 29, 12:37 PM** - NASA Picks 10 New Astronauts as Focus Shifts to the Moon and Mars (nyt)
+- **Sep 29, 12:51 PM** - Space Force will own next-gen neighborhood watch sats, based on commercial tech (breaking_defense)
