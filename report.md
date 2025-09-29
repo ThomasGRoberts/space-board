@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 14 | 26 | 47 |
 | nyt | 0 | 0 | 20 | 39 |
-| breaking_defense | 0 | 0 | 19 | 39 |
+| breaking_defense | 0 | 0 | 20 | 40 |
 | supercluster | 1 | 1 | 95 | 95 |
 
 # Shown Order
@@ -6768,3 +6768,4 @@
 - **Sep 29, 06:35 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 29, 06:37 PM** - Space Forge and United Semiconductors to collaborate on space-based semiconductor manufacturing (spacenews)
 - **Sep 29, 06:53 PM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
+- **Sep 29, 07:07 PM** - German military to invest $41B in space capabilities (breaking_defense)
