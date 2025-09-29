@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 24 | 48 |
-| nyt | 0 | 0 | 21 | 40 |
+| nyt | 0 | 0 | 20 | 40 |
 | breaking_defense | 0 | 0 | 21 | 40 |
-| supercluster | 1 | 1 | 123 | 123 |
+| supercluster | 1 | 1 | 124 | 124 |
 
 # Shown Order
 
@@ -6809,3 +6809,4 @@
 - **Sep 29, 10:37 PM** - Purdue University to fly dedicated suborbital research mission with Virgin Galactic (spacenews)
 - **Sep 29, 10:51 PM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
 - **Sep 29, 11:05 PM** - Uncertainty over satellite constellation means alt-GPS capability up in the air: Official (breaking_defense)
+- **Sep 29, 11:19 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
