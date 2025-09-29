@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 9 | 24 | 45 |
+| spacenews | 6 | 9 | 24 | 44 |
 | nyt | 0 | 0 | 20 | 40 |
 | breaking_defense | 0 | 0 | 20 | 40 |
 | supercluster | 1 | 1 | 1 | 1 |
@@ -6629,4 +6629,4 @@
 - **Sep 29, 01:15 AM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
 - **Sep 29, 01:43 AM** - Blue Origin to increase New Shepard flight rate and consider new spaceports (spacenews)
 - **Sep 29, 01:57 AM** - Photos: Day 2 of AFA’s Air, Space & Cyber Conference (breaking_defense)
-- **Sep 29, 03:16 AM** - China Will Launch the Long March 2D Rocket (supercluster)
+- **Sep 29, 03:19 AM** - China Will Launch the Long March 2D Rocket (supercluster)
