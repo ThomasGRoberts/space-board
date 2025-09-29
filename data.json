@@ -1,9 +1,116 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-09-28T00:05:46.190583+00:00",
-    "trigger_count": 0,
+    "last_run_datetime": "2025-09-29T00:02:21.984481+00:00",
+    "trigger_count": 1,
     "current_item_id": "1a763500dc91a5cf28069ffaeb07143b",
     "data": [
+        {
+            "id": "4beba9b243fe616fcb8e7be8d963bbc1",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Starlink Satellites from California",
+            "source_link": "https://www.supercluster.com/launches/starlink-11-20",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-09-29T01:28:00.000Z",
+            "time_remaining": "0d 01h 30m",
+            "fetched_datetime": "2025-09-28T23:45:45.696065Z",
+            "shown_at": [
+                "2025-09-28T23:45:46.516833Z",
+                "2025-09-28T23:47:51.520551Z",
+                "2025-09-28T23:49:36.720395Z",
+                "2025-09-28T23:51:50.142194Z",
+                "2025-09-28T23:53:34.952000Z",
+                "2025-09-28T23:55:30.345101Z",
+                "2025-09-28T23:57:45.320281Z"
+            ]
+        },
+        {
+            "id": "2a4d3c26c87f64cf8973f1adc2d7d263",
+            "source": "spacenews",
+            "text": "Pentagon awards new contracts to boost solid rocket motor output",
+            "source_link": "https://spacenews.com/pentagon-awards-new-contracts-to-boost-solid-rocket-motor-output/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-28T22:35:45.260986Z",
+            "shown_at": [
+                "2025-09-28T22:35:45.839809Z"
+            ]
+        },
+        {
+            "id": "5bbe987069f3dda53347c5b941379aca",
+            "source": "spacenews",
+            "text": "Solstar wins NASA contract to develop lunar Wi-Fi systems",
+            "source_link": "https://spacenews.com/solstar-wins-nasa-contract-to-develop-lunar-wi-fi-systems/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-28T22:08:00.104276Z",
+            "shown_at": [
+                "2025-09-28T22:21:48.777307Z"
+            ]
+        },
+        {
+            "id": "46bc313a5c98f71a5539ab12b4c112ac",
+            "source": "spacenews",
+            "text": "Eartheye to offer tasking of satellites looking up and down",
+            "source_link": "https://spacenews.com/eartheye-to-offer-tasking-of-satellites-looking-up-and-down/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-28T22:08:00.104219Z",
+            "shown_at": [
+                "2025-09-28T22:08:00.873531Z"
+            ]
+        },
+        {
+            "id": "0ea75bd6e5bbee76f81e80fec8ffa980",
+            "source": "spacenews",
+            "text": "Galactic Energy secures $336 million, nears debut of new reusable and solid rockets",
+            "source_link": "https://spacenews.com/galactic-energy-secures-336-million-nears-debut-of-new-reusable-and-solid-rockets/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-28T15:39:54.586148Z",
+            "shown_at": [
+                "2025-09-28T15:39:55.640155Z"
+            ]
+        },
+        {
+            "id": "27c0c64644890c90c0c0723e5327a825",
+            "source": "spacenews",
+            "text": "IAI’s Game-Changing Communication Satellites: Revolutionizing Global Connectivity",
+            "source_link": "https://spacenews.com/iais-game-changing-communication-satellites-revolutionizing-global-connectivity/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-28T12:48:09.645410Z",
+            "shown_at": [
+                "2025-09-28T12:48:10.239154Z",
+                "2025-09-28T17:44:05.612321Z",
+                "2025-09-28T23:31:52.171309Z"
+            ]
+        },
+        {
+            "id": "d33838610c113f2e532176f7805bc7be",
+            "source": "spacenews",
+            "text": "Blue Origin to increase New Shepard flight rate and consider new spaceports",
+            "source_link": "https://spacenews.com/blue-origin-to-increase-new-shepard-flight-rate-and-consider-new-spaceports/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-28T07:49:48.561903Z",
+            "shown_at": [
+                "2025-09-28T07:49:49.093604Z",
+                "2025-09-28T16:40:08.635494Z"
+            ]
+        },
+        {
+            "id": "5715555c208f250168c888e6d12d94d7",
+            "source": "spacenews",
+            "text": "Purdue University to fly dedicated suborbital research mission with Virgin Galactic",
+            "source_link": "https://spacenews.com/purdue-university-to-fly-dedicated-suborbital-research-mission-with-virgin-galactic/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-28T02:24:01.530834Z",
+            "shown_at": [
+                "2025-09-28T02:24:02.307022Z"
+            ]
+        },
         {
             "id": "21ade29fe4ef0054161984d6b01c731f",
             "source": "spacenews",
@@ -12018,299 +12125,6 @@
                 "2025-06-23T04:27:32.507241Z",
                 "2025-06-23T19:41:45.011839Z",
                 "2025-06-24T05:21:47.396530Z"
-            ]
-        },
-        {
-            "id": "69d92c82022682ea128e9cf0ed21ad2d",
-            "source": "spacenews",
-            "text": "The Exploration Company outlines plans for human spaceflight",
-            "source_link": "https://spacenews.com/the-exploration-company-outlines-plans-for-human-spaceflight/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-17T10:31:45.110284Z",
-            "shown_at": [
-                "2025-06-17T10:31:45.572036Z",
-                "2025-06-19T12:01:50.413340Z",
-                "2025-06-21T01:02:02.285259Z",
-                "2025-06-21T16:03:38.613287Z"
-            ]
-        },
-        {
-            "id": "24f56c189b208e87615c00d93fb8700d",
-            "source": "spacenews",
-            "text": "China conducts pad abort test for crew spacecraft, advancing moon landing plans",
-            "source_link": "https://spacenews.com/china-conducts-pad-abort-test-for-crew-spacecraft-advancing-moon-landing-plans/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-17T08:21:39.534852Z",
-            "shown_at": [
-                "2025-06-17T08:21:40.099935Z",
-                "2025-06-18T21:41:37.758798Z",
-                "2025-06-18T22:37:31.218459Z",
-                "2025-06-20T05:35:33.356775Z",
-                "2025-06-21T23:39:29.076441Z",
-                "2025-06-23T12:29:05.047420Z"
-            ]
-        },
-        {
-            "id": "3cd6997562e02e7bf7ffde9737a3c6cf",
-            "source": "nyt",
-            "text": "A Traveler Waits in the Stars for Those Willing to Learn How to Look",
-            "source_link": "https://www.nytimes.com/2025/06/17/science/astronomy-yahdii-dene-alaska-native.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-17T07:11:42.439546Z",
-            "shown_at": [
-                "2025-06-17T07:11:43.415238Z",
-                "2025-06-17T08:07:39.507169Z",
-                "2025-06-17T19:17:31.893945Z",
-                "2025-06-18T05:47:11.651449Z",
-                "2025-06-18T08:11:40.617404Z",
-                "2025-06-18T09:37:28.370538Z",
-                "2025-06-18T10:35:37.972526Z",
-                "2025-06-18T12:43:38.769174Z",
-                "2025-06-18T15:53:16.717088Z",
-                "2025-06-18T17:53:31.374630Z",
-                "2025-06-18T18:52:00.161328Z",
-                "2025-06-18T19:47:36.258946Z",
-                "2025-06-18T20:57:42.609550Z",
-                "2025-06-18T21:55:29.719167Z",
-                "2025-06-18T22:51:33.626040Z",
-                "2025-06-18T23:49:13.081704Z",
-                "2025-06-19T00:47:30.120754Z",
-                "2025-06-19T01:47:34.491499Z",
-                "2025-06-19T02:45:45.704402Z",
-                "2025-06-19T03:41:10.591843Z",
-                "2025-06-19T04:39:37.256334Z",
-                "2025-06-19T05:37:25.492818Z",
-                "2025-06-19T06:35:26.295076Z",
-                "2025-06-19T07:31:51.387433Z",
-                "2025-06-19T08:55:40.755663Z",
-                "2025-06-19T10:51:15.823040Z",
-                "2025-06-19T11:47:35.509355Z",
-                "2025-06-19T17:05:31.111811Z",
-                "2025-06-19T19:01:35.342403Z",
-                "2025-06-19T19:59:36.859551Z",
-                "2025-06-19T23:35:36.160288Z",
-                "2025-06-20T01:32:01.505195Z",
-                "2025-06-20T03:29:36.634050Z",
-                "2025-06-20T07:31:51.904326Z",
-                "2025-06-20T20:05:42.957829Z",
-                "2025-06-20T21:02:08.352524Z",
-                "2025-06-21T03:37:28.728596Z",
-                "2025-06-21T05:31:52.471929Z",
-                "2025-06-21T18:41:34.462580Z",
-                "2025-06-21T20:07:42.814901Z",
-                "2025-06-21T23:53:09.143974Z",
-                "2025-06-22T07:17:39.713697Z",
-                "2025-06-22T13:07:40.431571Z",
-                "2025-06-23T00:39:44.417331Z",
-                "2025-06-23T03:31:57.385021Z",
-                "2025-06-23T10:37:42.516214Z",
-                "2025-06-23T12:15:33.304235Z",
-                "2025-06-23T15:19:35.690417Z",
-                "2025-06-23T16:19:33.323559Z"
-            ]
-        },
-        {
-            "id": "77fbdc0952e3c8a9756f5aeae8d3bc47",
-            "source": "spacenews",
-            "text": "FCC highlights national security role in satellite licensing reforms",
-            "source_link": "https://spacenews.com/fcc-highlights-national-security-role-in-satellite-licensing-reforms/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-16T22:31:23.180019Z",
-            "shown_at": [
-                "2025-06-16T22:31:23.812151Z",
-                "2025-06-18T17:04:13.796215Z",
-                "2025-06-20T02:46:12.225561Z",
-                "2025-06-22T02:31:47.720421Z",
-                "2025-06-22T11:43:39.535824Z"
-            ]
-        },
-        {
-            "id": "2ac44de8d5a0790bfdd4968fb853d066",
-            "source": "breaking_defense",
-            "text": "Commercial remote sensing: The critical U.S. National Security Space imperative",
-            "source_link": "https://breakingdefense.com/2025/06/commercial-remote-sensing-the-critical-u-s-national-security-space-imperative/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-16T15:05:38.949974Z",
-            "shown_at": [
-                "2025-06-16T15:05:39.991680Z",
-                "2025-06-16T16:02:02.537061Z",
-                "2025-06-16T18:13:55.786839Z",
-                "2025-06-17T01:09:40.292480Z",
-                "2025-06-17T03:05:28.120991Z",
-                "2025-06-17T13:57:41.665987Z",
-                "2025-06-17T15:55:37.547954Z",
-                "2025-06-17T19:51:50.414847Z",
-                "2025-06-17T21:03:30.815022Z",
-                "2025-06-17T22:41:20.581420Z",
-                "2025-06-18T00:33:35.550827Z",
-                "2025-06-18T03:21:46.166158Z",
-                "2025-06-18T14:23:31.101081Z",
-                "2025-06-19T12:15:30.213599Z",
-                "2025-06-19T23:21:33.603041Z",
-                "2025-06-20T07:59:35.166418Z",
-                "2025-06-20T13:57:34.416790Z",
-                "2025-06-21T04:07:50.106479Z",
-                "2025-06-21T05:03:51.584684Z",
-                "2025-06-21T07:51:33.148501Z",
-                "2025-06-21T10:39:45.417051Z",
-                "2025-06-21T16:33:45.771507Z",
-                "2025-06-21T19:23:51.883234Z",
-                "2025-06-22T04:53:43.242752Z",
-                "2025-06-22T06:49:35.593333Z",
-                "2025-06-22T11:29:28.721572Z",
-                "2025-06-22T17:07:38.061028Z",
-                "2025-06-22T23:01:34.165662Z",
-                "2025-06-23T03:45:39.621636Z",
-                "2025-06-23T07:31:49.616417Z",
-                "2025-06-23T08:29:38.854656Z",
-                "2025-06-23T09:27:46.737977Z"
-            ]
-        },
-        {
-            "id": "3cd1e2d845cae5da5b6e76f63aa0f546",
-            "source": "spacenews",
-            "text": "China lays foundation for cislunar infrastructure with spacecraft in novel lunar orbits",
-            "source_link": "https://spacenews.com/china-lays-foundation-for-cislunar-infrastructure-with-spacecraft-in-novel-lunar-orbits/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-16T14:19:28.761031Z",
-            "shown_at": [
-                "2025-06-16T14:19:29.444055Z",
-                "2025-06-16T18:27:30.449304Z",
-                "2025-06-17T10:17:45.444163Z",
-                "2025-06-18T15:11:38.331755Z",
-                "2025-06-19T09:39:39.680357Z",
-                "2025-06-21T13:15:54.043365Z",
-                "2025-06-21T17:03:49.004619Z"
-            ]
-        },
-        {
-            "id": "5fe03bb54c0b1d774de25429de1ae755",
-            "source": "spacenews",
-            "text": "Astroscale secures UK defense contract for space weather, object-tracking mission",
-            "source_link": "https://spacenews.com/astroscale-secures-uk-defense-contract-for-space-weather-object-tracking-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-16T13:47:37.826482Z",
-            "shown_at": [
-                "2025-06-16T13:47:38.608981Z",
-                "2025-06-17T05:02:11.593999Z",
-                "2025-06-17T18:03:36.211332Z",
-                "2025-06-18T01:15:26.797530Z",
-                "2025-06-19T16:23:52.556237Z",
-                "2025-06-19T19:17:08.630408Z"
-            ]
-        },
-        {
-            "id": "5715555c208f250168c888e6d12d94d7",
-            "source": "spacenews",
-            "text": "Purdue University to fly dedicated suborbital research mission with Virgin Galactic",
-            "source_link": "https://spacenews.com/purdue-university-to-fly-dedicated-suborbital-research-mission-with-virgin-galactic/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-28T02:24:01.530834Z",
-            "shown_at": [
-                "2025-09-28T02:24:02.307022Z"
-            ]
-        },
-        {
-            "id": "d33838610c113f2e532176f7805bc7be",
-            "source": "spacenews",
-            "text": "Blue Origin to increase New Shepard flight rate and consider new spaceports",
-            "source_link": "https://spacenews.com/blue-origin-to-increase-new-shepard-flight-rate-and-consider-new-spaceports/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-28T07:49:48.561903Z",
-            "shown_at": [
-                "2025-09-28T07:49:49.093604Z",
-                "2025-09-28T16:40:08.635494Z"
-            ]
-        },
-        {
-            "id": "27c0c64644890c90c0c0723e5327a825",
-            "source": "spacenews",
-            "text": "IAI’s Game-Changing Communication Satellites: Revolutionizing Global Connectivity",
-            "source_link": "https://spacenews.com/iais-game-changing-communication-satellites-revolutionizing-global-connectivity/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-28T12:48:09.645410Z",
-            "shown_at": [
-                "2025-09-28T12:48:10.239154Z",
-                "2025-09-28T17:44:05.612321Z",
-                "2025-09-28T23:31:52.171309Z"
-            ]
-        },
-        {
-            "id": "0ea75bd6e5bbee76f81e80fec8ffa980",
-            "source": "spacenews",
-            "text": "Galactic Energy secures $336 million, nears debut of new reusable and solid rockets",
-            "source_link": "https://spacenews.com/galactic-energy-secures-336-million-nears-debut-of-new-reusable-and-solid-rockets/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-28T15:39:54.586148Z",
-            "shown_at": [
-                "2025-09-28T15:39:55.640155Z"
-            ]
-        },
-        {
-            "id": "46bc313a5c98f71a5539ab12b4c112ac",
-            "source": "spacenews",
-            "text": "Eartheye to offer tasking of satellites looking up and down",
-            "source_link": "https://spacenews.com/eartheye-to-offer-tasking-of-satellites-looking-up-and-down/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-28T22:08:00.104219Z",
-            "shown_at": [
-                "2025-09-28T22:08:00.873531Z"
-            ]
-        },
-        {
-            "id": "5bbe987069f3dda53347c5b941379aca",
-            "source": "spacenews",
-            "text": "Solstar wins NASA contract to develop lunar Wi-Fi systems",
-            "source_link": "https://spacenews.com/solstar-wins-nasa-contract-to-develop-lunar-wi-fi-systems/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-28T22:08:00.104276Z",
-            "shown_at": [
-                "2025-09-28T22:21:48.777307Z"
-            ]
-        },
-        {
-            "id": "2a4d3c26c87f64cf8973f1adc2d7d263",
-            "source": "spacenews",
-            "text": "Pentagon awards new contracts to boost solid rocket motor output",
-            "source_link": "https://spacenews.com/pentagon-awards-new-contracts-to-boost-solid-rocket-motor-output/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-28T22:35:45.260986Z",
-            "shown_at": [
-                "2025-09-28T22:35:45.839809Z"
-            ]
-        },
-        {
-            "id": "4beba9b243fe616fcb8e7be8d963bbc1",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from California",
-            "source_link": "https://www.supercluster.com/launches/starlink-11-20",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-09-29T01:28:00.000Z",
-            "time_remaining": "0d 01h 30m",
-            "fetched_datetime": "2025-09-28T23:45:45.696065Z",
-            "shown_at": [
-                "2025-09-28T23:45:46.516833Z",
-                "2025-09-28T23:47:51.520551Z",
-                "2025-09-28T23:49:36.720395Z",
-                "2025-09-28T23:51:50.142194Z",
-                "2025-09-28T23:53:34.952000Z",
-                "2025-09-28T23:55:30.345101Z",
-                "2025-09-28T23:57:45.320281Z"
             ]
         }
     ]
