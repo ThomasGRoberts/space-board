@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 14 | 25 | 47 |
+| spacenews | 8 | 13 | 25 | 46 |
 | nyt | 0 | 0 | 20 | 40 |
-| breaking_defense | 0 | 0 | 20 | 39 |
+| breaking_defense | 0 | 0 | 21 | 40 |
 | supercluster | 1 | 1 | 74 | 74 |
 
 # Shown Order
@@ -6737,3 +6737,4 @@
 - **Sep 29, 03:29 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 29, 03:31 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 29, 03:33 PM** - NASA Picks 10 New Astronauts as Focus Shifts to the Moon and Mars (nyt)
+- **Sep 29, 03:48 PM** - Day 2 of AFA’s Air, Space & Cyber Conference [Photos] (breaking_defense)
