@@ -5,7 +5,7 @@
 | spacenews | 7 | 10 | 24 | 43 |
 | nyt | 0 | 0 | 19 | 38 |
 | breaking_defense | 0 | 0 | 20 | 39 |
-| supercluster | 1 | 1 | 13 | 13 |
+| supercluster | 1 | 1 | 14 | 14 |
 
 # Shown Order
 
@@ -6648,3 +6648,4 @@
 - **Sep 29, 06:18 AM** - German military to invest $41B in space capabilities (breaking_defense)
 - **Sep 29, 06:34 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 29, 06:37 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
+- **Sep 29, 06:39 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
