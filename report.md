@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 10 | 24 | 43 |
-| nyt | 0 | 0 | 19 | 39 |
+| nyt | 0 | 0 | 19 | 38 |
 | breaking_defense | 0 | 0 | 20 | 39 |
-| supercluster | 1 | 1 | 12 | 12 |
+| supercluster | 1 | 1 | 13 | 13 |
 
 # Shown Order
 
@@ -6647,3 +6647,4 @@
 - **Sep 29, 05:52 AM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
 - **Sep 29, 06:18 AM** - German military to invest $41B in space capabilities (breaking_defense)
 - **Sep 29, 06:34 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
+- **Sep 29, 06:37 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
