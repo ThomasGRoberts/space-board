@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-29T00:02:21.984481+00:00",
-    "trigger_count": 6,
-    "current_item_id": "30c285dfa61cfc57d5d7f01e9766a573",
+    "trigger_count": 0,
+    "current_item_id": "12e913d2f0e4f9a6b36be7401d41ed19",
     "data": [
         {
             "id": "2a4d3c26c87f64cf8973f1adc2d7d263",
@@ -12233,6 +12233,18 @@
             "fetched_datetime": "2025-09-29T12:09:48.604404Z",
             "shown_at": [
                 "2025-09-29T12:09:49.260762Z"
+            ]
+        },
+        {
+            "id": "12e913d2f0e4f9a6b36be7401d41ed19",
+            "source": "spacenews",
+            "text": "China’s Geovis Insighter Technology to launch SSA constellation",
+            "source_link": "https://spacenews.com/chinas-geovis-insighter-technology-to-launch-ssa-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-29T12:23:42.872309Z",
+            "shown_at": [
+                "2025-09-29T12:23:43.526671Z"
             ]
         }
     ]

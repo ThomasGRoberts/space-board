@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 12 | 25 | 45 |
+| spacenews | 9 | 13 | 26 | 46 |
 | nyt | 0 | 0 | 19 | 38 |
-| breaking_defense | 0 | 0 | 20 | 39 |
+| breaking_defense | 0 | 0 | 20 | 38 |
 | supercluster | 1 | 1 | 53 | 53 |
 
 # Shown Order
@@ -6705,3 +6705,4 @@
 - **Sep 29, 12:06 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 29, 12:07 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 29, 12:09 PM** - Moog Completes High-Velocity Propulsion Systems, Begins Next Phase of Spacecraft Integration (spacenews)
+- **Sep 29, 12:23 PM** - China’s Geovis Insighter Technology to launch SSA constellation (spacenews)
