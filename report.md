@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 14 | 26 | 47 |
-| nyt | 0 | 0 | 19 | 39 |
+| nyt | 0 | 0 | 20 | 40 |
 | breaking_defense | 0 | 0 | 20 | 39 |
 | supercluster | 1 | 1 | 102 | 102 |
 
@@ -6777,3 +6777,4 @@
 - **Sep 29, 07:32 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 29, 07:35 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 29, 07:37 PM** - ESCAPADE launch on New Glenn planned for late October or early November (spacenews)
+- **Sep 29, 07:51 PM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
