@@ -5,7 +5,7 @@
 | spacenews | 6 | 13 | 24 | 48 |
 | nyt | 0 | 0 | 20 | 39 |
 | breaking_defense | 0 | 0 | 21 | 40 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -6688,3 +6688,4 @@
 - **Sep 29, 11:05 PM** - Uncertainty over satellite constellation means alt-GPS capability up in the air: Official (breaking_defense)
 - **Sep 29, 11:35 PM** - IAI’s Game-Changing Communication Satellites: Revolutionizing Global Connectivity (spacenews)
 - **Sep 29, 11:49 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
+- **Sep 29, 11:51 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
