@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 13 | 27 | 48 |
-| nyt | 0 | 0 | 19 | 39 |
+| spacenews | 9 | 13 | 26 | 48 |
+| nyt | 0 | 0 | 20 | 40 |
 | breaking_defense | 0 | 0 | 20 | 39 |
 | supercluster | 1 | 1 | 116 | 116 |
 
@@ -6797,3 +6797,4 @@
 - **Sep 29, 09:35 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 29, 09:37 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 29, 09:40 PM** - Redwire to provide solar arrays for Axiom space station module (spacenews)
+- **Sep 29, 09:53 PM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
