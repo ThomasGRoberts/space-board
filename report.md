@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 13 | 26 | 47 |
 | nyt | 0 | 0 | 20 | 39 |
-| breaking_defense | 0 | 0 | 20 | 40 |
-| supercluster | 1 | 1 | 74 | 74 |
+| breaking_defense | 0 | 0 | 20 | 39 |
+| supercluster | 1 | 1 | 75 | 75 |
 
 # Shown Order
 
@@ -6739,3 +6739,4 @@
 - **Sep 29, 03:33 PM** - NASA Picks 10 New Astronauts as Focus Shifts to the Moon and Mars (nyt)
 - **Sep 29, 03:48 PM** - Day 2 of AFA’s Air, Space & Cyber Conference [Photos] (breaking_defense)
 - **Sep 29, 04:02 PM** - NASA selects new astronaut class (spacenews)
+- **Sep 29, 04:18 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
