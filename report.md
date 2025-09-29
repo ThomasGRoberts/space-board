@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 11 | 25 | 44 |
-| nyt | 0 | 0 | 20 | 38 |
+| nyt | 0 | 0 | 19 | 38 |
 | breaking_defense | 0 | 0 | 20 | 39 |
-| supercluster | 1 | 1 | 48 | 48 |
+| supercluster | 1 | 1 | 49 | 49 |
 
 # Shown Order
 
@@ -6699,3 +6699,4 @@
 - **Sep 29, 11:39 AM** - Photos: Day 2 of AFA’s Air, Space & Cyber Conference (breaking_defense)
 - **Sep 29, 11:54 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 29, 11:57 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
+- **Sep 29, 11:59 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
