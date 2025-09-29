@@ -5,7 +5,7 @@
 | spacenews | 6 | 10 | 24 | 43 |
 | nyt | 0 | 0 | 20 | 39 |
 | breaking_defense | 0 | 0 | 20 | 39 |
-| supercluster | 1 | 1 | 40 | 40 |
+| supercluster | 1 | 1 | 41 | 41 |
 
 # Shown Order
 
@@ -6687,3 +6687,4 @@
 - **Sep 29, 10:13 AM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
 - **Sep 29, 10:27 AM** - In a first, Space Force to require refueling capability for next-gen neighborhood watch sats (breaking_defense)
 - **Sep 29, 10:41 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
+- **Sep 29, 10:43 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
