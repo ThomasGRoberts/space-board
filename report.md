@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 11 | 25 | 44 |
+| spacenews | 8 | 12 | 26 | 45 |
 | nyt | 0 | 0 | 19 | 38 |
 | breaking_defense | 0 | 0 | 20 | 39 |
 | supercluster | 1 | 1 | 53 | 53 |
@@ -6704,3 +6704,4 @@
 - **Sep 29, 12:03 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 29, 12:06 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 29, 12:07 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
+- **Sep 29, 12:09 PM** - Moog Completes High-Velocity Propulsion Systems, Begins Next Phase of Spacecraft Integration (spacenews)

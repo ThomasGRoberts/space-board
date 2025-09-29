@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-29T00:02:21.984481+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f5e5b027685a644735114adcbaf17faf",
+    "trigger_count": 0,
+    "current_item_id": "30c285dfa61cfc57d5d7f01e9766a573",
     "data": [
         {
             "id": "2a4d3c26c87f64cf8973f1adc2d7d263",
@@ -12221,6 +12221,18 @@
             "fetched_datetime": "2025-09-29T11:12:01.193289Z",
             "shown_at": [
                 "2025-09-29T11:12:01.917588Z"
+            ]
+        },
+        {
+            "id": "30c285dfa61cfc57d5d7f01e9766a573",
+            "source": "spacenews",
+            "text": "Moog Completes High-Velocity Propulsion Systems, Begins Next Phase of Spacecraft Integration",
+            "source_link": "https://spacenews.com/moog-completes-high-velocity-propulsion-systems-begins-next-phase-of-spacecraft-integration/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-29T12:09:48.604404Z",
+            "shown_at": [
+                "2025-09-29T12:09:49.260762Z"
             ]
         }
     ]
