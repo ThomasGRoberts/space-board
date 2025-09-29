@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 7 | 7 |
-| spacenews | 7 | 9 | 24 | 45 |
+| spacenews | 7 | 9 | 25 | 46 |
 | nyt | 0 | 0 | 20 | 42 |
 | breaking_defense | 0 | 0 | 19 | 41 |
 
@@ -6631,3 +6631,4 @@
 - **Sep 28, 11:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Sep 28, 11:59 PM** - Uncertainty over satellite constellation means alternate-GPS capability up in the air as well: Official (breaking_defense)
 - **Sep 29, 12:15 AM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
+- **Sep 29, 12:30 AM** - To Protect the Nation, the Golden Dome Must Be Capable of Protecting Itself (spacenews)
