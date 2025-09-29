@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-29T00:02:21.984481+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f5e5b027685a644735114adcbaf17faf",
+    "trigger_count": 0,
+    "current_item_id": "5cc649c2ffcf549cd2a7c97ade23ed5d",
     "data": [
         {
             "id": "2a4d3c26c87f64cf8973f1adc2d7d263",
@@ -12128,6 +12128,18 @@
                 "2025-09-29T04:05:37.947515Z",
                 "2025-09-29T04:08:07.863121Z",
                 "2025-09-29T04:11:44.875216Z"
+            ]
+        },
+        {
+            "id": "5cc649c2ffcf549cd2a7c97ade23ed5d",
+            "source": "spacenews",
+            "text": "Italy’s crossroads: build its own satellites or lean on Starlink while waiting for IRIS²",
+            "source_link": "https://spacenews.com/italys-crossroads-build-its-own-satellites-or-lean-on-starlink-while-waiting-for-iris%c2%b2/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-29T04:13:59.911005Z",
+            "shown_at": [
+                "2025-09-29T04:14:00.473406Z"
             ]
         }
     ]

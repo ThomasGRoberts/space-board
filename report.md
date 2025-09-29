@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 9 | 24 | 44 |
+| spacenews | 7 | 10 | 25 | 45 |
 | nyt | 0 | 0 | 19 | 39 |
 | breaking_defense | 0 | 0 | 19 | 39 |
 | supercluster | 1 | 1 | 4 | 4 |
@@ -6633,3 +6633,4 @@
 - **Sep 29, 04:05 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 29, 04:08 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 29, 04:11 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
+- **Sep 29, 04:14 AM** - Italy’s crossroads: build its own satellites or lean on Starlink while waiting for IRIS² (spacenews)
