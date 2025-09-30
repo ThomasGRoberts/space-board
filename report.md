@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 42 | 42 |
 | spacenews | 6 | 13 | 27 | 51 |
-| nyt | 0 | 0 | 22 | 41 |
+| nyt | 0 | 0 | 23 | 42 |
 | breaking_defense | 0 | 0 | 22 | 42 |
 
 # Shown Order
@@ -6690,3 +6690,4 @@
 - **Sep 30, 04:57 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 30, 04:59 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 30, 05:02 AM** - Space Forge and United Semiconductors to collaborate on space-based semiconductor manufacturing (spacenews)
+- **Sep 30, 05:19 AM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
