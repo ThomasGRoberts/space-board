@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 126 | 126 |
 | spacenews | 10 | 19 | 28 | 54 |
 | nyt | 0 | 0 | 21 | 41 |
-| breaking_defense | 3 | 3 | 22 | 42 |
+| breaking_defense | 4 | 4 | 23 | 43 |
 
 # Shown Order
 
@@ -6819,3 +6819,4 @@
 - **Sep 30, 07:26 PM** - Space Force declares ATLAS space domain awareness software ‘operational’ (breaking_defense)
 - **Sep 30, 07:40 PM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
 - **Sep 30, 07:53 PM** - Falcon 9 launches three space weather missions (spacenews)
+- **Sep 30, 08:10 PM** - SASC Dems skeptical of Golden Dome price, feasibility (breaking_defense)

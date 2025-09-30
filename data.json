@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-30T00:02:14.855182+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2cb9074844c96f35351ddc32a0d012b6",
+    "trigger_count": 0,
+    "current_item_id": "6a76238f38c15699af251775566cf83f",
     "data": [
         {
             "id": "f5e5b027685a644735114adcbaf17faf",
@@ -12457,6 +12457,18 @@
             "fetched_datetime": "2025-09-30T19:26:03.742216Z",
             "shown_at": [
                 "2025-09-30T19:26:04.944820Z"
+            ]
+        },
+        {
+            "id": "6a76238f38c15699af251775566cf83f",
+            "source": "breaking_defense",
+            "text": "SASC Dems skeptical of Golden Dome price, feasibility",
+            "source_link": "https://breakingdefense.com/2025/09/sasc-dems-skeptical-of-golden-dome-price-feasibility/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-30T20:10:06.469177Z",
+            "shown_at": [
+                "2025-09-30T20:10:07.526465Z"
             ]
         }
     ]
