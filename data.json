@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-30T00:02:14.855182+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9bf634f59e13e1346a98fd7a6ac874a9",
+    "trigger_count": 0,
+    "current_item_id": "8ab3504e32df79d83b1c8c135deb1062",
     "data": [
         {
             "id": "f5e5b027685a644735114adcbaf17faf",
@@ -12511,6 +12511,18 @@
             "fetched_datetime": "2025-09-30T21:21:53.086833Z",
             "shown_at": [
                 "2025-09-30T21:21:53.892850Z"
+            ]
+        },
+        {
+            "id": "8ab3504e32df79d83b1c8c135deb1062",
+            "source": "spacenews",
+            "text": "Varda Space and Southern Launch agree to more capsule landings in Australia",
+            "source_link": "https://spacenews.com/varda-space-and-southern-launch-agree-to-more-capsule-landings-in-australia/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-30T22:19:41.463514Z",
+            "shown_at": [
+                "2025-09-30T22:19:42.078458Z"
             ]
         }
     ]
