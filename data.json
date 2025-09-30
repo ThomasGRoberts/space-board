@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-30T00:02:14.855182+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f5e5b027685a644735114adcbaf17faf",
+    "trigger_count": 0,
+    "current_item_id": "da04b637cb9aa2d353d1f677a2fe494f",
     "data": [
         {
             "id": "f5e5b027685a644735114adcbaf17faf",
@@ -12154,6 +12154,18 @@
                 "2025-06-24T17:52:00.289170Z",
                 "2025-06-24T20:33:27.616624Z",
                 "2025-06-25T01:35:28.319728Z"
+            ]
+        },
+        {
+            "id": "da04b637cb9aa2d353d1f677a2fe494f",
+            "source": "spacenews",
+            "text": "Report claims NASA taking illegal steps to implement budget proposal",
+            "source_link": "https://spacenews.com/report-claims-nasa-taking-illegal-steps-to-implement-budget-proposal/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-30T01:59:57.865148Z",
+            "shown_at": [
+                "2025-09-30T01:59:58.805617Z"
             ]
         }
     ]

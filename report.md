@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 21 | 21 |
-| spacenews | 6 | 13 | 24 | 49 |
+| spacenews | 7 | 14 | 25 | 50 |
 | nyt | 0 | 0 | 20 | 40 |
-| breaking_defense | 0 | 0 | 21 | 40 |
+| breaking_defense | 0 | 0 | 20 | 40 |
 
 # Shown Order
 
@@ -6659,3 +6659,4 @@
 - **Sep 30, 01:53 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 30, 01:55 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 30, 01:57 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
+- **Sep 30, 01:59 AM** - Report claims NASA taking illegal steps to implement budget proposal (spacenews)
