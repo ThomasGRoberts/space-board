@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 63 | 63 |
 | spacenews | 9 | 15 | 28 | 52 |
-| nyt | 0 | 0 | 22 | 41 |
+| nyt | 0 | 0 | 23 | 42 |
 | breaking_defense | 0 | 0 | 22 | 42 |
 
 # Shown Order
@@ -6722,3 +6722,4 @@
 - **Sep 30, 08:57 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 30, 09:00 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 30, 09:02 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
+- **Sep 30, 09:05 AM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
