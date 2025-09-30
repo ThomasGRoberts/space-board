@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 140 | 140 |
 | spacenews | 13 | 20 | 30 | 54 |
 | nyt | 0 | 0 | 21 | 41 |
-| breaking_defense | 4 | 4 | 22 | 43 |
+| breaking_defense | 4 | 4 | 23 | 44 |
 
 # Shown Order
 
@@ -6841,3 +6841,4 @@
 - **Sep 30, 10:02 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 30, 10:05 PM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
 - **Sep 30, 10:19 PM** - Varda Space and Southern Launch agree to more capsule landings in Australia (spacenews)
+- **Sep 30, 10:33 PM** - In a first, Space Force to require refueling capability for next-gen neighborhood watch sats (breaking_defense)
