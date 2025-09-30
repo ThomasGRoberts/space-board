@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 70 | 70 |
 | spacenews | 10 | 16 | 29 | 53 |
 | nyt | 0 | 0 | 22 | 42 |
-| breaking_defense | 0 | 0 | 21 | 41 |
+| breaking_defense | 0 | 0 | 22 | 42 |
 
 # Shown Order
 
@@ -6734,3 +6734,4 @@
 - **Sep 30, 09:59 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 30, 10:02 AM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
 - **Sep 30, 10:21 AM** - Government contracts lay foundation for circular space economy (spacenews)
+- **Sep 30, 10:35 AM** - In a first, Space Force to require refueling capability for next-gen neighborhood watch sats (breaking_defense)
