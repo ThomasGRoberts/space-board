@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 56 | 56 |
-| spacenews | 9 | 15 | 28 | 52 |
+| spacenews | 9 | 15 | 29 | 53 |
 | nyt | 0 | 0 | 22 | 42 |
 | breaking_defense | 0 | 0 | 22 | 42 |
 
@@ -6714,3 +6714,4 @@
 - **Sep 30, 07:41 AM** - Firefly looks to resume Alpha launches soon (spacenews)
 - **Sep 30, 07:57 AM** - Day 2 of AFA’s Air, Space & Cyber Conference [Photos] (breaking_defense)
 - **Sep 30, 08:11 AM** - Government investment remains key to creating a circular space economy (spacenews)
+- **Sep 30, 08:27 AM** - Firefly Alpha booster destroyed in ground test (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-30T00:02:14.855182+00:00",
-    "trigger_count": 6,
-    "current_item_id": "71f24ccde422a41c18ca414ace4d5dcb",
+    "trigger_count": 0,
+    "current_item_id": "a3f71072ad5d712c4545cf78682a6a84",
     "data": [
         {
             "id": "f5e5b027685a644735114adcbaf17faf",
@@ -12249,9 +12249,12 @@
             "source": "spacenews",
             "text": "Firefly Alpha booster destroyed in ground test",
             "source_link": "https://spacenews.com/firefly-alpha-booster-destroyed-in-ground-test/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-09-30T08:11:31.535987Z"
+            "fetched_datetime": "2025-09-30T08:11:31.535987Z",
+            "shown_at": [
+                "2025-09-30T08:27:43.563813Z"
+            ]
         }
     ]
 }
