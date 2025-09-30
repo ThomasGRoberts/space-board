@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 28 | 28 |
 | spacenews | 7 | 13 | 26 | 50 |
 | nyt | 0 | 0 | 22 | 41 |
-| breaking_defense | 0 | 0 | 21 | 41 |
+| breaking_defense | 0 | 0 | 22 | 42 |
 
 # Shown Order
 
@@ -6671,3 +6671,4 @@
 - **Sep 30, 02:57 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 30, 02:59 AM** - Next chapter in space defense: Satellites that never stop moving (spacenews)
 - **Sep 30, 03:16 AM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
+- **Sep 30, 03:32 AM** - In a first, Space Force to require refueling capability for next-gen neighborhood watch sats (breaking_defense)
