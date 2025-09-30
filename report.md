@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 79 | 79 |
-| spacenews | 11 | 18 | 29 | 54 |
+| supercluster | 1 | 1 | 80 | 80 |
+| spacenews | 10 | 18 | 28 | 54 |
 | nyt | 0 | 0 | 22 | 41 |
 | breaking_defense | 0 | 0 | 22 | 42 |
 
@@ -6748,3 +6748,4 @@
 - **Sep 30, 11:51 AM** - Canadian Space Agency offers funding for dual-use technologies (spacenews)
 - **Sep 30, 12:06 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 30, 12:07 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
+- **Sep 30, 12:09 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
