@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-30T00:02:14.855182+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9bf634f59e13e1346a98fd7a6ac874a9",
+    "trigger_count": 0,
+    "current_item_id": "99e24ebbf1bb2dd12e2a38f2e3683fec",
     "data": [
         {
             "id": "f5e5b027685a644735114adcbaf17faf",
@@ -12272,6 +12272,18 @@
             "fetched_datetime": "2025-09-30T08:11:31.535987Z",
             "shown_at": [
                 "2025-09-30T08:27:43.563813Z"
+            ]
+        },
+        {
+            "id": "99e24ebbf1bb2dd12e2a38f2e3683fec",
+            "source": "spacenews",
+            "text": "Government contracts lay foundation for circular space economy",
+            "source_link": "https://spacenews.com/government-investment-remains-key-to-creating-a-circular-space-economy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-30T10:21:52.188103Z",
+            "shown_at": [
+                "2025-09-30T10:21:52.823924Z"
             ]
         }
     ]
