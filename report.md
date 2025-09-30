@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 35 | 35 |
 | spacenews | 6 | 13 | 26 | 50 |
 | nyt | 0 | 0 | 22 | 42 |
-| breaking_defense | 0 | 0 | 22 | 41 |
+| breaking_defense | 0 | 0 | 23 | 42 |
 
 # Shown Order
 
@@ -6681,3 +6681,4 @@
 - **Sep 30, 04:02 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 30, 04:05 AM** - China’s Geovis Insighter Technology to launch SSA constellation (spacenews)
 - **Sep 30, 04:19 AM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
+- **Sep 30, 04:33 AM** - Photos: Day 2 of AFA’s Air, Space & Cyber Conference (breaking_defense)
