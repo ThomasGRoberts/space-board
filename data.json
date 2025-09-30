@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-30T00:02:14.855182+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a1d3329c73e1da7fb7f9bf74ed06471d",
+    "trigger_count": 0,
+    "current_item_id": "71f24ccde422a41c18ca414ace4d5dcb",
     "data": [
         {
             "id": "f5e5b027685a644735114adcbaf17faf",
@@ -12231,6 +12231,27 @@
             "shown_at": [
                 "2025-09-30T05:33:47.911017Z"
             ]
+        },
+        {
+            "id": "71f24ccde422a41c18ca414ace4d5dcb",
+            "source": "spacenews",
+            "text": "Government investment remains key to creating a circular space economy",
+            "source_link": "https://spacenews.com/government-investment-remains-key-to-creating-a-circular-space-economy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-30T08:11:31.535917Z",
+            "shown_at": [
+                "2025-09-30T08:11:32.157937Z"
+            ]
+        },
+        {
+            "id": "a3f71072ad5d712c4545cf78682a6a84",
+            "source": "spacenews",
+            "text": "Firefly Alpha booster destroyed in ground test",
+            "source_link": "https://spacenews.com/firefly-alpha-booster-destroyed-in-ground-test/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-09-30T08:11:31.535987Z"
         }
     ]
 }
