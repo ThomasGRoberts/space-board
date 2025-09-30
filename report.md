@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 49 | 49 |
 | spacenews | 7 | 14 | 27 | 51 |
-| nyt | 0 | 0 | 22 | 42 |
+| nyt | 0 | 0 | 23 | 43 |
 | breaking_defense | 0 | 0 | 22 | 42 |
 
 # Shown Order
@@ -6700,3 +6700,4 @@
 - **Sep 30, 06:15 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 30, 06:17 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 30, 06:19 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
+- **Sep 30, 06:21 AM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
