@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-30T00:02:14.855182+00:00",
-    "trigger_count": 6,
-    "current_item_id": "933b47492f4c941691333eb3b9237f44",
+    "trigger_count": 0,
+    "current_item_id": "f5e5b027685a644735114adcbaf17faf",
     "data": [
         {
             "id": "1fb2eae21530e4658c44a85afac8b3b2",
@@ -12374,6 +12374,20 @@
             "fetched_datetime": "2025-09-30T22:19:41.463514Z",
             "shown_at": [
                 "2025-09-30T22:19:42.078458Z"
+            ]
+        },
+        {
+            "id": "f5e5b027685a644735114adcbaf17faf",
+            "source": "supercluster",
+            "text": "Rocket Lab Will Launch Classified Suborbital Mission",
+            "source_link": "https://www.supercluster.com/launches/justin",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-09-30T23:45:00.000Z",
+            "time_remaining": "",
+            "fetched_datetime": "2025-09-30T23:51:43.674989Z",
+            "shown_at": [
+                "2025-09-30T23:51:44.251090Z"
             ]
         }
     ]
