@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 91 | 91 |
 | spacenews | 8 | 17 | 27 | 53 |
-| nyt | 0 | 0 | 22 | 41 |
-| breaking_defense | 1 | 1 | 23 | 43 |
+| nyt | 0 | 0 | 23 | 42 |
+| breaking_defense | 1 | 1 | 23 | 42 |
 
 # Shown Order
 
@@ -6764,3 +6764,4 @@
 - **Sep 30, 01:15 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 30, 01:18 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 30, 01:19 PM** - German military to invest $41B in space capabilities (breaking_defense)
+- **Sep 30, 01:33 PM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
