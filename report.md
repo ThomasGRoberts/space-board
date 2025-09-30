@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 133 | 133 |
 | spacenews | 12 | 21 | 30 | 56 |
 | nyt | 0 | 0 | 21 | 41 |
-| breaking_defense | 4 | 4 | 22 | 42 |
+| breaking_defense | 4 | 4 | 23 | 43 |
 
 # Shown Order
 
@@ -6831,3 +6831,4 @@
 - **Sep 30, 08:52 PM** - We’re cluttering Earth’s orbit at record speed. Who’s going to clean it up? (spacenews)
 - **Sep 30, 09:07 PM** - OQ Technology expands satellite IoT services to Australia (spacenews)
 - **Sep 30, 09:21 PM** - Satellite operators seek help from ITU to improve coordination for space safety (spacenews)
+- **Sep 30, 09:35 PM** - German military to invest $41B in space capabilities (breaking_defense)
