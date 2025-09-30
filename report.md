@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 91 | 91 |
-| spacenews | 8 | 17 | 28 | 53 |
+| spacenews | 9 | 18 | 29 | 54 |
 | nyt | 0 | 0 | 22 | 42 |
 | breaking_defense | 1 | 1 | 22 | 42 |
 
@@ -6766,3 +6766,4 @@
 - **Sep 30, 01:19 PM** - German military to invest $41B in space capabilities (breaking_defense)
 - **Sep 30, 01:33 PM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
 - **Sep 30, 01:49 PM** - ESA and Avio to study reusable upper stage (spacenews)
+- **Sep 30, 02:03 PM** - ViaSat-3 F2 delivered to Florida for October launch (spacenews)

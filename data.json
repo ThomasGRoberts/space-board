@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-30T00:02:14.855182+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f906819460bef75178e87b61ef44c855",
+    "trigger_count": 0,
+    "current_item_id": "288b99eb091bf95a4560198cff378411",
     "data": [
         {
             "id": "f5e5b027685a644735114adcbaf17faf",
@@ -12349,6 +12349,18 @@
             "fetched_datetime": "2025-09-30T12:19:30.800159Z",
             "shown_at": [
                 "2025-09-30T12:19:31.455601Z"
+            ]
+        },
+        {
+            "id": "288b99eb091bf95a4560198cff378411",
+            "source": "spacenews",
+            "text": "ViaSat-3 F2 delivered to Florida for October launch",
+            "source_link": "https://spacenews.com/viasat-3-f2-delivered-to-florida-for-october-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-30T14:03:56.851561Z",
+            "shown_at": [
+                "2025-09-30T14:03:57.754340Z"
             ]
         }
     ]
