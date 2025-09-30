@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 105 | 105 |
 | spacenews | 9 | 18 | 28 | 54 |
 | nyt | 0 | 0 | 22 | 41 |
-| breaking_defense | 1 | 1 | 22 | 42 |
+| breaking_defense | 1 | 1 | 23 | 43 |
 
 # Shown Order
 
@@ -6784,3 +6784,4 @@
 - **Sep 30, 03:21 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 30, 03:23 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 30, 03:26 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
+- **Sep 30, 03:29 PM** - Day 2 of AFA’s Air, Space & Cyber Conference [Photos] (breaking_defense)
