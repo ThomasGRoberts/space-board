@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 112 | 112 |
 | spacenews | 8 | 17 | 27 | 53 |
-| nyt | 0 | 0 | 22 | 41 |
+| nyt | 0 | 0 | 23 | 42 |
 | breaking_defense | 1 | 1 | 23 | 43 |
 
 # Shown Order
@@ -6795,3 +6795,4 @@
 - **Sep 30, 04:26 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 30, 04:27 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 30, 04:29 PM** - Day 2 of AFA’s Air, Space & Cyber Conference [Photos] (breaking_defense)
+- **Sep 30, 04:46 PM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
