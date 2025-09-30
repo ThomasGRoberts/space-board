@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 56 | 56 |
-| spacenews | 7 | 14 | 27 | 51 |
+| spacenews | 7 | 14 | 28 | 52 |
 | nyt | 0 | 0 | 23 | 42 |
 | breaking_defense | 0 | 0 | 22 | 42 |
 
@@ -6711,3 +6711,4 @@
 - **Sep 30, 07:22 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 30, 07:25 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 30, 07:27 AM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
+- **Sep 30, 07:41 AM** - Firefly looks to resume Alpha launches soon (spacenews)
