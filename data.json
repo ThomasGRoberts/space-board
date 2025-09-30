@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-30T00:02:14.855182+00:00",
-    "trigger_count": 6,
-    "current_item_id": "883a6af360113d75a827ebdd6b03c65b",
+    "trigger_count": 0,
+    "current_item_id": "f77cd243bba675d3674016dc3ec9a9aa",
     "data": [
         {
             "id": "f5e5b027685a644735114adcbaf17faf",
@@ -12478,6 +12478,18 @@
             "fetched_datetime": "2025-09-30T20:10:06.469177Z",
             "shown_at": [
                 "2025-09-30T20:10:07.526465Z"
+            ]
+        },
+        {
+            "id": "f77cd243bba675d3674016dc3ec9a9aa",
+            "source": "spacenews",
+            "text": "OQ Technology expands satellite IoT services to Australia",
+            "source_link": "https://spacenews.com/oq-technology-expands-satellite-iot-services-to-australia/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-30T21:07:49.404862Z",
+            "shown_at": [
+                "2025-09-30T21:07:50.141739Z"
             ]
         }
     ]
