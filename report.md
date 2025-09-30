@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 39 | 39 |
+| supercluster | 1 | 1 | 40 | 40 |
 | spacenews | 6 | 13 | 26 | 50 |
 | nyt | 0 | 0 | 22 | 42 |
 | breaking_defense | 0 | 0 | 22 | 42 |
@@ -6686,3 +6686,4 @@
 - **Sep 30, 04:49 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 30, 04:52 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 30, 04:53 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
+- **Sep 30, 04:55 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
