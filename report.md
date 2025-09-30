@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 84 | 84 |
 | spacenews | 9 | 18 | 27 | 53 |
-| nyt | 0 | 0 | 22 | 41 |
-| breaking_defense | 1 | 1 | 23 | 43 |
+| nyt | 0 | 0 | 23 | 42 |
+| breaking_defense | 1 | 1 | 23 | 42 |
 
 # Shown Order
 
@@ -6754,3 +6754,4 @@
 - **Sep 30, 12:15 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 30, 12:18 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 30, 12:19 PM** - Space Force creates new intel ‘production’ unit (breaking_defense)
+- **Sep 30, 12:35 PM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
