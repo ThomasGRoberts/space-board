@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-30T00:02:14.855182+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1251851b37a4cf197ad42f03ace24730",
+    "trigger_count": 0,
+    "current_item_id": "120fed75e5c55f11d747215b43cbd6f5",
     "data": [
         {
             "id": "f5e5b027685a644735114adcbaf17faf",
@@ -12403,6 +12403,18 @@
             "fetched_datetime": "2025-09-30T17:40:02.628912Z",
             "shown_at": [
                 "2025-09-30T17:40:03.618647Z"
+            ]
+        },
+        {
+            "id": "120fed75e5c55f11d747215b43cbd6f5",
+            "source": "spacenews",
+            "text": "China set for high-stakes moon program and reusable launch tests to close out 2025",
+            "source_link": "https://spacenews.com/china-set-for-high-stakes-moon-program-and-reusable-launch-tests-to-close-out-2025/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-30T17:53:30.520305Z",
+            "shown_at": [
+                "2025-09-30T17:53:31.317574Z"
             ]
         }
     ]

@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 112 | 112 |
-| spacenews | 8 | 17 | 27 | 53 |
-| nyt | 0 | 0 | 22 | 41 |
+| spacenews | 9 | 18 | 28 | 54 |
+| nyt | 0 | 0 | 21 | 41 |
 | breaking_defense | 2 | 2 | 23 | 43 |
 
 # Shown Order
@@ -6798,3 +6798,4 @@
 - **Sep 30, 04:46 PM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
 - **Sep 30, 05:12 PM** - Galactic Energy secures $336 million, nears debut of new reusable and solid rockets (spacenews)
 - **Sep 30, 05:40 PM** - The Break Out: The highs of AFA and a Trump sartorial mystery [VIDEO] (breaking_defense)
+- **Sep 30, 05:53 PM** - China set for high-stakes moon program and reusable launch tests to close out 2025 (spacenews)
