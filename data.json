@@ -1,9 +1,103 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-09-29T00:02:21.984481+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2025-09-30T00:02:14.855182+00:00",
+    "trigger_count": 6,
     "current_item_id": "f5e5b027685a644735114adcbaf17faf",
     "data": [
+        {
+            "id": "f5e5b027685a644735114adcbaf17faf",
+            "source": "supercluster",
+            "text": "Rocket Lab Will Launch Classified Suborbital Mission",
+            "source_link": "https://www.supercluster.com/launches/justin",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-09-30T23:45:00.000Z",
+            "time_remaining": "0d 23h 42m",
+            "fetched_datetime": "2025-09-29T23:49:55.971558Z",
+            "shown_at": [
+                "2025-09-29T23:49:56.829226Z",
+                "2025-09-29T23:51:36.069868Z",
+                "2025-09-29T23:53:43.244362Z",
+                "2025-09-29T23:55:44.836682Z",
+                "2025-09-29T23:57:46.948040Z",
+                "2025-09-29T23:59:43.157632Z",
+                "2025-09-30T00:02:15.722359Z"
+            ]
+        },
+        {
+            "id": "1fb2eae21530e4658c44a85afac8b3b2",
+            "source": "spacenews",
+            "text": "Startup’s radiation shield tech could bring high-performance AI chips to space",
+            "source_link": "https://spacenews.com/startups-radiation-shield-tech-could-bring-high-performance-ai-chips-to-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-29T16:37:45.256038Z",
+            "shown_at": [
+                "2025-09-29T16:37:46.207227Z"
+            ]
+        },
+        {
+            "id": "5fbcfde3ffbd1a718f01af19719f5127",
+            "source": "spacenews",
+            "text": "A perspective on space: Preparing for 2075",
+            "source_link": "https://spacenews.com/a-perspective-on-space-preparing-for-2075/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-29T13:07:52.237676Z",
+            "shown_at": [
+                "2025-09-29T13:07:52.846278Z"
+            ]
+        },
+        {
+            "id": "12e913d2f0e4f9a6b36be7401d41ed19",
+            "source": "spacenews",
+            "text": "China’s Geovis Insighter Technology to launch SSA constellation",
+            "source_link": "https://spacenews.com/chinas-geovis-insighter-technology-to-launch-ssa-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-29T12:23:42.872309Z",
+            "shown_at": [
+                "2025-09-29T12:23:43.526671Z",
+                "2025-09-29T20:37:31.291005Z"
+            ]
+        },
+        {
+            "id": "30c285dfa61cfc57d5d7f01e9766a573",
+            "source": "spacenews",
+            "text": "Moog Completes High-Velocity Propulsion Systems, Begins Next Phase of Spacecraft Integration",
+            "source_link": "https://spacenews.com/moog-completes-high-velocity-propulsion-systems-begins-next-phase-of-spacecraft-integration/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-29T12:09:48.604404Z",
+            "shown_at": [
+                "2025-09-29T12:09:49.260762Z"
+            ]
+        },
+        {
+            "id": "f906819460bef75178e87b61ef44c855",
+            "source": "spacenews",
+            "text": "ESA and Avio to study reusable upper stage",
+            "source_link": "https://spacenews.com/esa-and-avio-to-study-reusable-upper-stage/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-29T11:12:01.193289Z",
+            "shown_at": [
+                "2025-09-29T11:12:01.917588Z",
+                "2025-09-29T17:35:38.669111Z"
+            ]
+        },
+        {
+            "id": "5cc649c2ffcf549cd2a7c97ade23ed5d",
+            "source": "spacenews",
+            "text": "Italy’s crossroads: build its own satellites or lean on Starlink while waiting for IRIS²",
+            "source_link": "https://spacenews.com/italys-crossroads-build-its-own-satellites-or-lean-on-starlink-while-waiting-for-iris%c2%b2/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-29T04:13:59.911005Z",
+            "shown_at": [
+                "2025-09-29T04:14:00.473406Z"
+            ]
+        },
         {
             "id": "2a4d3c26c87f64cf8973f1adc2d7d263",
             "source": "spacenews",
@@ -12040,220 +12134,6 @@
                 "2025-06-24T17:52:00.289170Z",
                 "2025-06-24T20:33:27.616624Z",
                 "2025-06-25T01:35:28.319728Z"
-            ]
-        },
-        {
-            "id": "a0659d2f02c334faa7fc621f64f38fc8",
-            "source": "spacenews",
-            "text": "Maxar partners with Array Labs to expand 3D imaging technology",
-            "source_link": "https://spacenews.com/maxar-partners-with-array-labs-to-expand-3d-imaging-technology/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-18T12:15:29.083952Z",
-            "shown_at": [
-                "2025-06-18T12:15:29.544170Z",
-                "2025-06-19T01:33:25.089558Z",
-                "2025-06-22T00:37:07.420007Z",
-                "2025-06-22T09:51:46.371491Z"
-            ]
-        },
-        {
-            "id": "2025bf3e328c1ed1045455be9f5bbc87",
-            "source": "spacenews",
-            "text": "Venturi Space announces European lunar rover design",
-            "source_link": "https://spacenews.com/venturi-space-announces-european-lunar-rover-design/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-18T09:09:31.320339Z",
-            "shown_at": [
-                "2025-06-18T09:09:31.884043Z",
-                "2025-06-19T04:25:54.270303Z",
-                "2025-06-22T08:55:14.367409Z",
-                "2025-06-24T16:55:36.456092Z"
-            ]
-        },
-        {
-            "id": "3c5b0dd9a9fd243fb67bd0bae5d28562",
-            "source": "breaking_defense",
-            "text": "Commercial ISR satellite operators petition Congress to reverse NRO cuts",
-            "source_link": "https://breakingdefense.com/2025/06/commercial-isr-satellite-operators-petition-congress-to-reverse-nro-cuts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-17T21:45:47.240948Z",
-            "shown_at": [
-                "2025-06-17T21:45:48.127183Z",
-                "2025-06-18T02:25:46.866173Z",
-                "2025-06-18T18:23:39.118963Z",
-                "2025-06-18T19:19:11.902838Z",
-                "2025-06-19T04:53:10.343768Z",
-                "2025-06-19T08:13:41.726804Z",
-                "2025-06-19T15:55:51.922979Z",
-                "2025-06-20T05:07:46.922852Z",
-                "2025-06-20T09:39:09.358892Z",
-                "2025-06-20T11:49:31.497632Z",
-                "2025-06-20T22:25:33.134240Z",
-                "2025-06-21T00:17:48.731781Z",
-                "2025-06-21T03:09:41.465691Z",
-                "2025-06-21T05:59:30.403988Z",
-                "2025-06-21T09:43:30.582195Z",
-                "2025-06-21T11:35:33.195856Z",
-                "2025-06-21T14:39:31.375245Z",
-                "2025-06-21T20:21:46.110236Z",
-                "2025-06-22T00:09:38.580937Z",
-                "2025-06-22T01:05:49.977849Z",
-                "2025-06-22T02:02:20.754635Z",
-                "2025-06-22T03:55:51.092922Z",
-                "2025-06-22T07:45:40.361408Z",
-                "2025-06-22T10:33:41.969103Z",
-                "2025-06-22T12:25:38.807017Z",
-                "2025-06-22T19:59:29.609665Z",
-                "2025-06-23T06:35:32.212548Z",
-                "2025-06-23T10:23:31.970258Z",
-                "2025-06-23T16:05:36.997741Z",
-                "2025-06-24T05:49:26.971387Z",
-                "2025-06-24T16:41:36.191097Z",
-                "2025-06-24T21:15:36.911217Z"
-            ]
-        },
-        {
-            "id": "c4a345f64b3dc3b73495e2f3b8c3a1ff",
-            "source": "spacenews",
-            "text": "July decision expected on combination of European space companies",
-            "source_link": "https://spacenews.com/july-decision-expected-on-combination-of-european-space-companies/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-17T21:31:50.237417Z",
-            "shown_at": [
-                "2025-06-17T21:31:50.685013Z",
-                "2025-06-17T23:23:47.333703Z",
-                "2025-06-19T23:49:25.865033Z",
-                "2025-06-20T07:45:57.353421Z",
-                "2025-06-24T04:25:29.596375Z"
-            ]
-        },
-        {
-            "id": "acfabfdc31228cf348b19568be2369c2",
-            "source": "spacenews",
-            "text": "CEOs push back on proposed cuts to commercial satellite imaging programs",
-            "source_link": "https://spacenews.com/ceos-push-back-on-proposed-cuts-to-commercial-satellite-imaging-programs/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-17T20:35:40.105423Z",
-            "shown_at": [
-                "2025-06-17T20:35:41.615154Z",
-                "2025-06-20T11:07:30.592665Z"
-            ]
-        },
-        {
-            "id": "c35e64442940b777520fd96f666c9181",
-            "source": "spacenews",
-            "text": "Desert Works Propulsion Successfully Tests Prototype Cathodes for Turion Space TIE-20 Thruster",
-            "source_link": "https://spacenews.com/desert-works-propulsion-successfully-tests-prototype-cathodes-for-turion-space-tie-20-thruster/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-17T13:13:37.411750Z",
-            "shown_at": [
-                "2025-06-17T13:13:37.871593Z",
-                "2025-06-17T17:05:37.998305Z",
-                "2025-06-19T17:19:27.415243Z",
-                "2025-06-21T01:57:27.531924Z",
-                "2025-06-21T17:59:27.762613Z",
-                "2025-06-23T04:27:32.507241Z",
-                "2025-06-23T19:41:45.011839Z",
-                "2025-06-24T05:21:47.396530Z"
-            ]
-        },
-        {
-            "id": "5cc649c2ffcf549cd2a7c97ade23ed5d",
-            "source": "spacenews",
-            "text": "Italy’s crossroads: build its own satellites or lean on Starlink while waiting for IRIS²",
-            "source_link": "https://spacenews.com/italys-crossroads-build-its-own-satellites-or-lean-on-starlink-while-waiting-for-iris%c2%b2/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-29T04:13:59.911005Z",
-            "shown_at": [
-                "2025-09-29T04:14:00.473406Z"
-            ]
-        },
-        {
-            "id": "f906819460bef75178e87b61ef44c855",
-            "source": "spacenews",
-            "text": "ESA and Avio to study reusable upper stage",
-            "source_link": "https://spacenews.com/esa-and-avio-to-study-reusable-upper-stage/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-29T11:12:01.193289Z",
-            "shown_at": [
-                "2025-09-29T11:12:01.917588Z",
-                "2025-09-29T17:35:38.669111Z"
-            ]
-        },
-        {
-            "id": "30c285dfa61cfc57d5d7f01e9766a573",
-            "source": "spacenews",
-            "text": "Moog Completes High-Velocity Propulsion Systems, Begins Next Phase of Spacecraft Integration",
-            "source_link": "https://spacenews.com/moog-completes-high-velocity-propulsion-systems-begins-next-phase-of-spacecraft-integration/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-29T12:09:48.604404Z",
-            "shown_at": [
-                "2025-09-29T12:09:49.260762Z"
-            ]
-        },
-        {
-            "id": "12e913d2f0e4f9a6b36be7401d41ed19",
-            "source": "spacenews",
-            "text": "China’s Geovis Insighter Technology to launch SSA constellation",
-            "source_link": "https://spacenews.com/chinas-geovis-insighter-technology-to-launch-ssa-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-29T12:23:42.872309Z",
-            "shown_at": [
-                "2025-09-29T12:23:43.526671Z",
-                "2025-09-29T20:37:31.291005Z"
-            ]
-        },
-        {
-            "id": "5fbcfde3ffbd1a718f01af19719f5127",
-            "source": "spacenews",
-            "text": "A perspective on space: Preparing for 2075",
-            "source_link": "https://spacenews.com/a-perspective-on-space-preparing-for-2075/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-29T13:07:52.237676Z",
-            "shown_at": [
-                "2025-09-29T13:07:52.846278Z"
-            ]
-        },
-        {
-            "id": "1fb2eae21530e4658c44a85afac8b3b2",
-            "source": "spacenews",
-            "text": "Startup’s radiation shield tech could bring high-performance AI chips to space",
-            "source_link": "https://spacenews.com/startups-radiation-shield-tech-could-bring-high-performance-ai-chips-to-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-29T16:37:45.256038Z",
-            "shown_at": [
-                "2025-09-29T16:37:46.207227Z"
-            ]
-        },
-        {
-            "id": "f5e5b027685a644735114adcbaf17faf",
-            "source": "supercluster",
-            "text": "Rocket Lab Will Launch Classified Suborbital Mission",
-            "source_link": "https://www.supercluster.com/launches/justin",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-09-30T23:45:00.000Z",
-            "time_remaining": "0d 23h 45m",
-            "fetched_datetime": "2025-09-29T23:49:55.971558Z",
-            "shown_at": [
-                "2025-09-29T23:49:56.829226Z",
-                "2025-09-29T23:51:36.069868Z",
-                "2025-09-29T23:53:43.244362Z",
-                "2025-09-29T23:55:44.836682Z",
-                "2025-09-29T23:57:46.948040Z",
-                "2025-09-29T23:59:43.157632Z"
             ]
         }
     ]
