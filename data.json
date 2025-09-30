@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-30T00:02:14.855182+00:00",
-    "trigger_count": 6,
-    "current_item_id": "34813b2aa43cc3553bfb941de3722e1e",
+    "trigger_count": 0,
+    "current_item_id": "b9d29837f8c91fc87f7e0543b380c8f6",
     "data": [
         {
             "id": "f5e5b027685a644735114adcbaf17faf",
@@ -12423,6 +12423,18 @@
             "fetched_datetime": "2025-09-30T17:53:30.520305Z",
             "shown_at": [
                 "2025-09-30T17:53:31.317574Z"
+            ]
+        },
+        {
+            "id": "b9d29837f8c91fc87f7e0543b380c8f6",
+            "source": "spacenews",
+            "text": "SpaceX’s D2D deal spurs space bulls",
+            "source_link": "https://spacenews.com/spacexs-d2d-deal-spurs-space-bulls/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-30T18:39:41.252238Z",
+            "shown_at": [
+                "2025-09-30T18:39:41.836456Z"
             ]
         }
     ]
