@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 98 | 98 |
+| supercluster | 1 | 1 | 99 | 99 |
 | spacenews | 9 | 18 | 28 | 54 |
 | nyt | 0 | 0 | 22 | 42 |
 | breaking_defense | 1 | 1 | 22 | 42 |
@@ -6777,3 +6777,4 @@
 - **Sep 30, 02:31 PM** - In a first, Space Force to require refueling capability for next-gen neighborhood watch sats (breaking_defense)
 - **Sep 30, 02:45 PM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
 - **Sep 30, 02:59 PM** - Space Force chief calls for speed over perfection in weapons buying (spacenews)
+- **Sep 30, 03:13 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
