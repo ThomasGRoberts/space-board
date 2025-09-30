@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 84 | 84 |
+| supercluster | 1 | 1 | 85 | 85 |
 | spacenews | 9 | 17 | 28 | 53 |
 | nyt | 0 | 0 | 22 | 42 |
 | breaking_defense | 1 | 1 | 22 | 42 |
@@ -6756,3 +6756,4 @@
 - **Sep 30, 12:19 PM** - Space Force creates new intel ‘production’ unit (breaking_defense)
 - **Sep 30, 12:35 PM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
 - **Sep 30, 12:49 PM** - NASA modifies Dream Chaser ISS cargo contract as Sierra Space shifts to defense work (spacenews)
+- **Sep 30, 01:05 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
