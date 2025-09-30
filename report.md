@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 133 | 133 |
-| spacenews | 11 | 20 | 29 | 55 |
+| spacenews | 12 | 21 | 30 | 56 |
 | nyt | 0 | 0 | 21 | 41 |
 | breaking_defense | 4 | 4 | 22 | 42 |
 
@@ -6830,3 +6830,4 @@
 - **Sep 30, 08:37 PM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
 - **Sep 30, 08:52 PM** - We’re cluttering Earth’s orbit at record speed. Who’s going to clean it up? (spacenews)
 - **Sep 30, 09:07 PM** - OQ Technology expands satellite IoT services to Australia (spacenews)
+- **Sep 30, 09:21 PM** - Satellite operators seek help from ITU to improve coordination for space safety (spacenews)
