@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-30T00:02:14.855182+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f5e5b027685a644735114adcbaf17faf",
+    "trigger_count": 0,
+    "current_item_id": "987b17430b2a4f5f0ef41d956f18182f",
     "data": [
         {
             "id": "f5e5b027685a644735114adcbaf17faf",
@@ -12443,6 +12443,18 @@
             "fetched_datetime": "2025-09-30T18:39:41.252238Z",
             "shown_at": [
                 "2025-09-30T18:39:41.836456Z"
+            ]
+        },
+        {
+            "id": "987b17430b2a4f5f0ef41d956f18182f",
+            "source": "breaking_defense",
+            "text": "Space Force declares ATLAS space domain awareness software ‘operational’",
+            "source_link": "https://breakingdefense.com/2025/09/space-force-declares-atlas-space-domain-awareness-software-operational/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-30T19:26:03.742216Z",
+            "shown_at": [
+                "2025-09-30T19:26:04.944820Z"
             ]
         }
     ]
