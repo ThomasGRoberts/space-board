@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 21 | 21 |
 | spacenews | 7 | 13 | 25 | 49 |
 | nyt | 0 | 0 | 21 | 41 |
-| breaking_defense | 0 | 0 | 20 | 40 |
+| breaking_defense | 0 | 0 | 21 | 41 |
 
 # Shown Order
 
@@ -6661,3 +6661,4 @@
 - **Sep 30, 01:57 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 30, 01:59 AM** - Report claims NASA taking illegal steps to implement budget proposal (spacenews)
 - **Sep 30, 02:18 AM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
+- **Sep 30, 02:32 AM** - In a first, Space Force to require refueling capability for next-gen neighborhood watch sats (breaking_defense)
