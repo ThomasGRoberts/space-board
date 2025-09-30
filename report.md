@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 86 | 86 |
-| spacenews | 9 | 17 | 28 | 53 |
+| supercluster | 1 | 1 | 87 | 87 |
+| spacenews | 8 | 17 | 27 | 53 |
 | nyt | 0 | 0 | 22 | 42 |
 | breaking_defense | 1 | 1 | 22 | 42 |
 
@@ -6758,3 +6758,4 @@
 - **Sep 30, 12:49 PM** - NASA modifies Dream Chaser ISS cargo contract as Sierra Space shifts to defense work (spacenews)
 - **Sep 30, 01:05 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 30, 01:07 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
+- **Sep 30, 01:09 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
