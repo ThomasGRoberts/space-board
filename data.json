@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-30T00:02:14.855182+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f5e5b027685a644735114adcbaf17faf",
+    "trigger_count": 0,
+    "current_item_id": "933b47492f4c941691333eb3b9237f44",
     "data": [
         {
             "id": "f5e5b027685a644735114adcbaf17faf",
@@ -12325,6 +12325,18 @@
             "fetched_datetime": "2025-09-30T11:51:15.803654Z",
             "shown_at": [
                 "2025-09-30T11:51:16.567103Z"
+            ]
+        },
+        {
+            "id": "933b47492f4c941691333eb3b9237f44",
+            "source": "breaking_defense",
+            "text": "Space Force creates new intel ‘production’ unit",
+            "source_link": "https://breakingdefense.com/2025/09/space-force-creates-new-intel-production-unit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-30T12:19:30.800159Z",
+            "shown_at": [
+                "2025-09-30T12:19:31.455601Z"
             ]
         }
     ]

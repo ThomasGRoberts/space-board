@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 84 | 84 |
 | spacenews | 10 | 18 | 28 | 53 |
 | nyt | 0 | 0 | 22 | 41 |
-| breaking_defense | 0 | 0 | 22 | 42 |
+| breaking_defense | 1 | 1 | 23 | 43 |
 
 # Shown Order
 
@@ -6753,3 +6753,4 @@
 - **Sep 30, 12:13 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 30, 12:15 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 30, 12:18 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
+- **Sep 30, 12:19 PM** - Space Force creates new intel ‘production’ unit (breaking_defense)
