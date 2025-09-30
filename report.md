@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 51 | 51 |
+| supercluster | 1 | 1 | 52 | 52 |
 | spacenews | 7 | 14 | 27 | 51 |
 | nyt | 0 | 0 | 22 | 42 |
 | breaking_defense | 0 | 0 | 23 | 42 |
@@ -6705,3 +6705,4 @@
 - **Sep 30, 06:51 AM** - Uncertainty over satellite constellation means alternate-GPS capability up in the air as well: Official (breaking_defense)
 - **Sep 30, 07:07 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 30, 07:10 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
+- **Sep 30, 07:13 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
