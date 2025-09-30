@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 112 | 112 |
 | spacenews | 8 | 17 | 27 | 54 |
 | nyt | 0 | 0 | 22 | 41 |
-| breaking_defense | 1 | 1 | 22 | 42 |
+| breaking_defense | 2 | 2 | 23 | 43 |
 
 # Shown Order
 
@@ -6797,3 +6797,4 @@
 - **Sep 30, 04:29 PM** - Day 2 of AFA’s Air, Space & Cyber Conference [Photos] (breaking_defense)
 - **Sep 30, 04:46 PM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
 - **Sep 30, 05:12 PM** - Galactic Energy secures $336 million, nears debut of new reusable and solid rockets (spacenews)
+- **Sep 30, 05:40 PM** - The Break Out: The highs of AFA and a Trump sartorial mystery [VIDEO] (breaking_defense)
