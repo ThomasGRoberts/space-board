@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 112 | 112 |
-| spacenews | 8 | 17 | 27 | 53 |
+| spacenews | 8 | 17 | 28 | 54 |
 | nyt | 0 | 0 | 22 | 42 |
 | breaking_defense | 1 | 1 | 22 | 42 |
 
@@ -6796,3 +6796,4 @@
 - **Sep 30, 04:27 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 30, 04:29 PM** - Day 2 of AFA’s Air, Space & Cyber Conference [Photos] (breaking_defense)
 - **Sep 30, 04:46 PM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
+- **Sep 30, 05:12 PM** - Galactic Energy secures $336 million, nears debut of new reusable and solid rockets (spacenews)
