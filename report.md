@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 42 | 42 |
 | spacenews | 7 | 14 | 27 | 52 |
 | nyt | 0 | 0 | 23 | 42 |
-| breaking_defense | 0 | 0 | 22 | 41 |
+| breaking_defense | 0 | 0 | 23 | 42 |
 
 # Shown Order
 
@@ -6692,3 +6692,4 @@
 - **Sep 30, 05:02 AM** - Space Forge and United Semiconductors to collaborate on space-based semiconductor manufacturing (spacenews)
 - **Sep 30, 05:19 AM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
 - **Sep 30, 05:33 AM** - China sends experimental Shiyan-30 satellites into orbit as launch cadence intensifies (spacenews)
+- **Sep 30, 05:51 AM** - Uncertainty over satellite constellation means alt-GPS capability up in the air: Official (breaking_defense)
