@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-09-30T00:02:14.855182+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5fe19d820e9826a382cb5889d7a8c85d",
+    "trigger_count": 0,
+    "current_item_id": "67859ba0e743fa11133310ecb38fc794",
     "data": [
         {
             "id": "f5e5b027685a644735114adcbaf17faf",
@@ -12306,6 +12306,18 @@
             "fetched_datetime": "2025-09-30T11:07:40.871515Z",
             "shown_at": [
                 "2025-09-30T11:07:41.612896Z"
+            ]
+        },
+        {
+            "id": "67859ba0e743fa11133310ecb38fc794",
+            "source": "spacenews",
+            "text": "Canadian Space Agency offers funding for dual-use technologies",
+            "source_link": "https://spacenews.com/canadian-space-agency-offers-funding-for-dual-use-technologies/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-30T11:51:15.803654Z",
+            "shown_at": [
+                "2025-09-30T11:51:16.567103Z"
             ]
         }
     ]
