@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 23 | 23 |
+| supercluster | 1 | 1 | 24 | 24 |
 | spacenews | 7 | 13 | 25 | 49 |
 | nyt | 0 | 0 | 21 | 41 |
 | breaking_defense | 0 | 0 | 21 | 41 |
@@ -6664,3 +6664,4 @@
 - **Sep 30, 02:32 AM** - In a first, Space Force to require refueling capability for next-gen neighborhood watch sats (breaking_defense)
 - **Sep 30, 02:45 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
 - **Sep 30, 02:47 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
+- **Sep 30, 02:49 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
