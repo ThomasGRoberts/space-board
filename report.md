@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 133 | 133 |
+| supercluster | 1 | 1 | 134 | 134 |
 | spacenews | 12 | 21 | 29 | 56 |
 | nyt | 0 | 0 | 21 | 40 |
 | breaking_defense | 4 | 4 | 23 | 43 |
@@ -6832,3 +6832,4 @@
 - **Sep 30, 09:07 PM** - OQ Technology expands satellite IoT services to Australia (spacenews)
 - **Sep 30, 09:21 PM** - Satellite operators seek help from ITU to improve coordination for space safety (spacenews)
 - **Sep 30, 09:35 PM** - German military to invest $41B in space capabilities (breaking_defense)
+- **Sep 30, 09:49 PM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
