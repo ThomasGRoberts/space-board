@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 71 | 71 |
-| spacenews | 10 | 16 | 29 | 53 |
+| supercluster | 1 | 1 | 72 | 72 |
+| spacenews | 10 | 16 | 28 | 53 |
 | nyt | 0 | 0 | 22 | 42 |
 | breaking_defense | 0 | 0 | 22 | 42 |
 
@@ -6736,3 +6736,4 @@
 - **Sep 30, 10:21 AM** - Government contracts lay foundation for circular space economy (spacenews)
 - **Sep 30, 10:35 AM** - In a first, Space Force to require refueling capability for next-gen neighborhood watch sats (breaking_defense)
 - **Sep 30, 10:53 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
+- **Sep 30, 10:56 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
