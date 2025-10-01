@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 15 | 22 | 27 | 55 |
+| spacenews | 15 | 22 | 28 | 56 |
 | breaking_defense | 4 | 4 | 22 | 44 |
 | nyt | 0 | 0 | 19 | 42 |
 | supercluster | 1 | 1 | 36 | 36 |
@@ -6547,3 +6547,4 @@
 - **Oct 01, 06:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 01, 07:02 AM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
 - **Oct 01, 07:26 AM** - Uncertainty over satellite constellation means alt-GPS capability up in the air: Official (breaking_defense)
+- **Oct 01, 07:47 AM** - Purdue University to fly dedicated suborbital research mission with Virgin Galactic (spacenews)
