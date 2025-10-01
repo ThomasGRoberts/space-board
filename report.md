@@ -5,7 +5,7 @@
 | spacenews | 13 | 22 | 27 | 55 |
 | breaking_defense | 3 | 4 | 21 | 43 |
 | nyt | 0 | 0 | 19 | 41 |
-| supercluster | 1 | 1 | 86 | 86 |
+| supercluster | 1 | 1 | 87 | 87 |
 
 # Shown Order
 
@@ -6621,3 +6621,4 @@
 - **Oct 01, 03:16 PM** - NASA Selects Proteus Space for Novel Rapid Spacecraft Conceptual Design Study (spacenews)
 - **Oct 01, 03:35 PM** - German military to invest $41B in space capabilities (breaking_defense)
 - **Oct 01, 03:49 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 01, 03:52 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
