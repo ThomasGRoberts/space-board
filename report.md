@@ -5,7 +5,7 @@
 | spacenews | 12 | 22 | 26 | 54 |
 | breaking_defense | 0 | 4 | 20 | 43 |
 | nyt | 0 | 0 | 20 | 41 |
-| supercluster | 1 | 1 | 113 | 113 |
+| supercluster | 1 | 1 | 114 | 114 |
 
 # Shown Order
 
@@ -6660,3 +6660,4 @@
 - **Oct 01, 07:10 PM** - Eartheye to offer tasking of satellites looking up and down (spacenews)
 - **Oct 01, 07:35 PM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
 - **Oct 01, 07:55 PM** - German military to invest $41B in space capabilities (breaking_defense)
+- **Oct 01, 08:18 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
