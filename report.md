@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 14 | 20 | 28 | 52 |
-| breaking_defense | 4 | 4 | 21 | 42 |
+| breaking_defense | 4 | 4 | 22 | 43 |
 | nyt | 0 | 0 | 20 | 40 |
 | supercluster | 1 | 1 | 1 | 1 |
 
@@ -6495,3 +6495,4 @@
 - **Oct 01, 01:23 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 01, 01:25 AM** - Australian and Japanese organizations join forces on optical communications (spacenews)
 - **Oct 01, 01:40 AM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
+- **Oct 01, 01:55 AM** - SPACECOM discussing expansion of joint space monitoring missions with allies (breaking_defense)
