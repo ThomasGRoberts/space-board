@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 15 | 21 | 28 | 55 |
+| spacenews | 16 | 22 | 29 | 56 |
 | breaking_defense | 4 | 4 | 22 | 44 |
-| nyt | 0 | 0 | 20 | 42 |
+| nyt | 0 | 0 | 19 | 42 |
 | supercluster | 1 | 1 | 22 | 22 |
 
 # Shown Order
@@ -6527,3 +6527,4 @@
 - **Oct 01, 04:37 AM** - Australia and UK extend Space Bridge partnership (spacenews)
 - **Oct 01, 04:52 AM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
 - **Oct 01, 05:07 AM** - SPACECOM discussing expansion of joint space monitoring missions with allies (breaking_defense)
+- **Oct 01, 05:21 AM** - Synspective purchases 10 additional Electron launches (spacenews)

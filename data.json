@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-01T00:02:02.503030+00:00",
-    "trigger_count": 6,
-    "current_item_id": "13b26265dcc9b3a9309d83c973c1c686",
+    "trigger_count": 0,
+    "current_item_id": "fed37a3041cd85e344a6bf911392cc6e",
     "data": [
         {
             "id": "8ab3504e32df79d83b1c8c135deb1062",
@@ -12066,6 +12066,18 @@
             "fetched_datetime": "2025-10-01T04:37:40.592928Z",
             "shown_at": [
                 "2025-10-01T04:37:41.711913Z"
+            ]
+        },
+        {
+            "id": "fed37a3041cd85e344a6bf911392cc6e",
+            "source": "spacenews",
+            "text": "Synspective purchases 10 additional Electron launches",
+            "source_link": "https://spacenews.com/synspective-purchases-10-additional-electron-launches/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-01T05:21:24.072175Z",
+            "shown_at": [
+                "2025-10-01T05:21:24.758471Z"
             ]
         }
     ]
