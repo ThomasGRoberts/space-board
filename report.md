@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 19 | 28 | 52 |
+| spacenews | 14 | 20 | 29 | 53 |
 | breaking_defense | 4 | 4 | 21 | 42 |
 | nyt | 0 | 0 | 19 | 39 |
 | supercluster | 1 | 1 | 1 | 1 |
@@ -6493,3 +6493,4 @@
 - **Sep 30, 11:19 PM** - SpaceX’s D2D deal spurs space bulls (spacenews)
 - **Sep 30, 11:37 PM** - Space Force creates new intel ‘production’ unit (breaking_defense)
 - **Oct 01, 01:23 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 01, 01:25 AM** - Australian and Japanese organizations join forces on optical communications (spacenews)
