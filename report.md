@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 22 | 27 | 55 |
-| breaking_defense | 4 | 4 | 22 | 44 |
+| breaking_defense | 4 | 4 | 21 | 44 |
 | nyt | 0 | 0 | 19 | 41 |
-| supercluster | 1 | 1 | 44 | 44 |
+| supercluster | 1 | 1 | 45 | 45 |
 
 # Shown Order
 
@@ -6559,3 +6559,4 @@
 - **Oct 01, 08:48 AM** - SASC Dems skeptical of Golden Dome price, feasibility (breaking_defense)
 - **Oct 01, 09:03 AM** - Synspective purchases 10 additional Electron launches (spacenews)
 - **Oct 01, 09:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 01, 09:22 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
