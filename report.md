@@ -5,7 +5,7 @@
 | spacenews | 13 | 21 | 27 | 54 |
 | breaking_defense | 3 | 4 | 21 | 44 |
 | nyt | 0 | 0 | 19 | 41 |
-| supercluster | 1 | 1 | 92 | 92 |
+| supercluster | 1 | 1 | 93 | 93 |
 
 # Shown Order
 
@@ -6630,3 +6630,4 @@
 - **Oct 01, 04:07 PM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
 - **Oct 01, 04:21 PM** - Redwire to provide solar arrays for Axiom space station module (spacenews)
 - **Oct 01, 04:37 PM** - SPACECOM discussing expansion of joint space monitoring missions with allies (breaking_defense)
+- **Oct 01, 04:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
