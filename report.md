@@ -5,7 +5,7 @@
 | spacenews | 13 | 20 | 27 | 52 |
 | breaking_defense | 4 | 4 | 22 | 42 |
 | nyt | 0 | 0 | 20 | 40 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -6496,3 +6496,4 @@
 - **Oct 01, 01:25 AM** - Australian and Japanese organizations join forces on optical communications (spacenews)
 - **Oct 01, 01:40 AM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
 - **Oct 01, 01:55 AM** - SPACECOM discussing expansion of joint space monitoring missions with allies (breaking_defense)
+- **Oct 01, 02:11 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
