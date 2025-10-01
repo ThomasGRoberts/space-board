@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 22 | 26 | 54 |
+| spacenews | 13 | 22 | 27 | 55 |
 | breaking_defense | 4 | 4 | 22 | 44 |
 | nyt | 0 | 0 | 20 | 42 |
 | supercluster | 1 | 1 | 43 | 43 |
@@ -6557,3 +6557,4 @@
 - **Oct 01, 08:27 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 01, 08:29 AM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
 - **Oct 01, 08:48 AM** - SASC Dems skeptical of Golden Dome price, feasibility (breaking_defense)
+- **Oct 01, 09:03 AM** - Synspective purchases 10 additional Electron launches (spacenews)
