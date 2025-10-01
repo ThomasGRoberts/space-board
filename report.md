@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 20 | 28 | 53 |
-| breaking_defense | 4 | 4 | 21 | 42 |
+| breaking_defense | 4 | 4 | 22 | 43 |
 | nyt | 0 | 0 | 20 | 41 |
 | supercluster | 1 | 1 | 8 | 8 |
 
@@ -6505,3 +6505,4 @@
 - **Oct 01, 02:23 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 01, 02:25 AM** - Firefly Alpha booster destroyed in ground test (spacenews)
 - **Oct 01, 02:39 AM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
+- **Oct 01, 02:53 AM** - SPACECOM discussing expansion of joint space monitoring missions with allies (breaking_defense)
