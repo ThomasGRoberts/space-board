@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 15 | 22 | 28 | 55 |
+| spacenews | 15 | 22 | 29 | 56 |
 | breaking_defense | 4 | 4 | 22 | 44 |
 | nyt | 0 | 0 | 19 | 42 |
 | supercluster | 1 | 1 | 29 | 29 |
@@ -6537,3 +6537,4 @@
 - **Oct 01, 05:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 01, 05:52 AM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
 - **Oct 01, 06:08 AM** - In a first, Space Force to require refueling capability for next-gen neighborhood watch sats (breaking_defense)
+- **Oct 01, 06:25 AM** - L3Harris looks to scale production of hybrid satcom radios after successful Air Force tests (spacenews)
