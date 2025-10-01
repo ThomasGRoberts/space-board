@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 14 | 22 | 27 | 55 |
 | breaking_defense | 3 | 4 | 21 | 43 |
-| nyt | 0 | 0 | 19 | 41 |
+| nyt | 0 | 0 | 20 | 42 |
 | supercluster | 1 | 1 | 99 | 99 |
 
 # Shown Order
@@ -6638,3 +6638,4 @@
 - **Oct 01, 05:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 01, 05:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 01, 05:09 PM** - What Germany’s $41B investment in space could mean for Europe (spacenews)
+- **Oct 01, 05:23 PM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
