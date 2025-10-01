@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 22 | 24 | 53 |
+| spacenews | 11 | 23 | 25 | 54 |
 | breaking_defense | 1 | 5 | 21 | 44 |
 | nyt | 0 | 0 | 20 | 40 |
 | supercluster | 1 | 1 | 127 | 127 |
@@ -6678,3 +6678,4 @@
 - **Oct 01, 09:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 01, 09:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 01, 09:47 PM** - What’s in a name: Goodbye Maxar, hello Vantor and Lanteris (breaking_defense)
+- **Oct 01, 10:01 PM** - Private mission study a step toward offering Orion as a service (spacenews)

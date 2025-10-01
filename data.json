@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-01T00:02:02.503030+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5ed5a8898868bab27fd7b514067d3b22",
+    "trigger_count": 0,
+    "current_item_id": "35965c29761d65aa00a5b6ad1db7aa80",
     "data": [
         {
             "id": "8ab3504e32df79d83b1c8c135deb1062",
@@ -12294,6 +12294,18 @@
             "fetched_datetime": "2025-10-01T21:47:37.100979Z",
             "shown_at": [
                 "2025-10-01T21:47:38.274066Z"
+            ]
+        },
+        {
+            "id": "35965c29761d65aa00a5b6ad1db7aa80",
+            "source": "spacenews",
+            "text": "Private mission study a step toward offering Orion as a service",
+            "source_link": "https://spacenews.com/private-mission-study-a-step-toward-offering-orion-as-a-service/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-01T22:01:41.338619Z",
+            "shown_at": [
+                "2025-10-01T22:01:41.989235Z"
             ]
         }
     ]
