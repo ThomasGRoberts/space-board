@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 22 | 27 | 55 |
 | breaking_defense | 3 | 4 | 21 | 44 |
-| nyt | 0 | 0 | 20 | 41 |
-| supercluster | 1 | 1 | 79 | 79 |
+| nyt | 0 | 0 | 19 | 41 |
+| supercluster | 1 | 1 | 80 | 80 |
 
 # Shown Order
 
@@ -6611,3 +6611,4 @@
 - **Oct 01, 02:10 PM** - Firefly Alpha booster destroyed in ground test (spacenews)
 - **Oct 01, 02:30 PM** - German military to invest $41B in space capabilities (breaking_defense)
 - **Oct 01, 02:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 01, 02:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
