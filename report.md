@@ -5,7 +5,7 @@
 | spacenews | 14 | 22 | 28 | 55 |
 | breaking_defense | 3 | 4 | 21 | 44 |
 | nyt | 0 | 0 | 19 | 41 |
-| supercluster | 1 | 1 | 71 | 71 |
+| supercluster | 1 | 1 | 72 | 72 |
 
 # Shown Order
 
@@ -6600,3 +6600,4 @@
 - **Oct 01, 12:56 PM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
 - **Oct 01, 01:11 PM** - How time series data is fueling the final frontier (spacenews)
 - **Oct 01, 01:25 PM** - SPACECOM discussing expansion of joint space monitoring missions with allies (breaking_defense)
+- **Oct 01, 01:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
