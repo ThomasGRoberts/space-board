@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 22 | 25 | 54 |
-| breaking_defense | 0 | 4 | 20 | 42 |
+| breaking_defense | 0 | 4 | 21 | 43 |
 | nyt | 0 | 0 | 20 | 41 |
 | supercluster | 1 | 1 | 120 | 120 |
 
@@ -6669,3 +6669,4 @@
 - **Oct 01, 08:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 01, 08:39 PM** - ViaSat-3 F2 delivered to Florida for October launch (spacenews)
 - **Oct 01, 08:53 PM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
+- **Oct 01, 09:14 PM** - The Break Out: The highs of AFA and a Trump sartorial mystery [VIDEO] (breaking_defense)
