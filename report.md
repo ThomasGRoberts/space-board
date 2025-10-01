@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 25 | 25 | 55 |
 | breaking_defense | 1 | 5 | 21 | 43 |
-| nyt | 0 | 0 | 19 | 40 |
+| nyt | 0 | 0 | 20 | 41 |
 | supercluster | 1 | 1 | 134 | 134 |
 
 # Shown Order
@@ -6690,3 +6690,4 @@
 - **Oct 01, 10:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 01, 10:59 PM** - Space Force creates new intel ‘production’ unit (breaking_defense)
 - **Oct 01, 11:13 PM** - States have an obligation to warn satellite operators of cyber threats — IAC paper (spacenews)
+- **Oct 01, 11:27 PM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
