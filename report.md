@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 19 | 28 | 52 |
 | breaking_defense | 4 | 4 | 22 | 42 |
-| nyt | 0 | 0 | 20 | 40 |
+| nyt | 0 | 0 | 19 | 40 |
 | supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
@@ -6492,4 +6492,4 @@
 - **Sep 30, 11:05 PM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
 - **Sep 30, 11:19 PM** - SpaceX’s D2D deal spurs space bulls (spacenews)
 - **Sep 30, 11:37 PM** - Space Force creates new intel ‘production’ unit (breaking_defense)
-- **Oct 01, 01:02 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
+- **Oct 01, 01:05 AM** - Rocket Lab Will Launch Classified Suborbital Mission (supercluster)
