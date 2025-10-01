@@ -5,7 +5,7 @@
 | spacenews | 12 | 25 | 25 | 54 |
 | breaking_defense | 1 | 5 | 20 | 43 |
 | nyt | 0 | 0 | 20 | 41 |
-| supercluster | 1 | 1 | 135 | 135 |
+| supercluster | 1 | 1 | 136 | 136 |
 
 # Shown Order
 
@@ -6692,3 +6692,4 @@
 - **Oct 01, 11:13 PM** - States have an obligation to warn satellite operators of cyber threats — IAC paper (spacenews)
 - **Oct 01, 11:27 PM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
 - **Oct 01, 11:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 01, 11:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
