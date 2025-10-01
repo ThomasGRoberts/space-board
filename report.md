@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 20 | 28 | 54 |
-| breaking_defense | 4 | 4 | 21 | 43 |
+| breaking_defense | 4 | 4 | 22 | 44 |
 | nyt | 0 | 0 | 20 | 42 |
 | supercluster | 1 | 1 | 15 | 15 |
 
@@ -6515,3 +6515,4 @@
 - **Oct 01, 03:24 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 01, 03:27 AM** - Falcon 9 launches three space weather missions (spacenews)
 - **Oct 01, 03:41 AM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
+- **Oct 01, 03:55 AM** - Space Force creates new intel ‘production’ unit (breaking_defense)
