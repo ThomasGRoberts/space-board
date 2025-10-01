@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-01T00:02:02.503030+00:00",
-    "trigger_count": 6,
-    "current_item_id": "be1a3a45aa42870886c84c84fbe3bd7b",
+    "trigger_count": 0,
+    "current_item_id": "5a8ebd152e84300f39198ffcbc0d48fb",
     "data": [
         {
             "id": "8ab3504e32df79d83b1c8c135deb1062",
@@ -12147,9 +12147,12 @@
             "source": "spacenews",
             "text": "Maldives plots $50 million fund for sovereign space capabilities",
             "source_link": "https://spacenews.com/maldives-plots-50-million-fund-for-sovereign-space-capabilities/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-10-01T11:16:00.449376Z"
+            "fetched_datetime": "2025-10-01T11:16:00.449376Z",
+            "shown_at": [
+                "2025-10-01T11:29:51.851248Z"
+            ]
         }
     ]
 }

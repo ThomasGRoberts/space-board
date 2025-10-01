@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 23 | 27 | 55 |
+| spacenews | 13 | 23 | 28 | 56 |
 | breaking_defense | 4 | 4 | 22 | 44 |
 | nyt | 0 | 0 | 19 | 41 |
 | supercluster | 1 | 1 | 57 | 57 |
@@ -6579,3 +6579,4 @@
 - **Oct 01, 10:45 AM** - SASC Dems skeptical of Golden Dome price, feasibility (breaking_defense)
 - **Oct 01, 10:59 AM** - Artemis 2 could launch as soon as February (spacenews)
 - **Oct 01, 11:16 AM** - What’s next for direct-to-device after SpaceX’s blockbuster spectrum deal (spacenews)
+- **Oct 01, 11:29 AM** - Maldives plots $50 million fund for sovereign space capabilities (spacenews)
