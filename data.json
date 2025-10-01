@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-01T00:02:02.503030+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "fd3464aa1a1096b6bb74cc17c94b25d0",
     "data": [
         {
             "id": "8ab3504e32df79d83b1c8c135deb1062",
@@ -12052,6 +12052,18 @@
             "fetched_datetime": "2025-10-01T04:09:55.594207Z",
             "shown_at": [
                 "2025-10-01T04:09:56.371969Z"
+            ]
+        },
+        {
+            "id": "fd3464aa1a1096b6bb74cc17c94b25d0",
+            "source": "spacenews",
+            "text": "Australia and UK extend Space Bridge partnership",
+            "source_link": "https://spacenews.com/australia-and-uk-extend-space-bridge-partnership/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-01T04:37:40.592928Z",
+            "shown_at": [
+                "2025-10-01T04:37:41.711913Z"
             ]
         }
     ]

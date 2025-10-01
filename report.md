@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 14 | 20 | 28 | 54 |
+| spacenews | 15 | 21 | 29 | 55 |
 | breaking_defense | 4 | 4 | 21 | 44 |
 | nyt | 0 | 0 | 19 | 41 |
 | supercluster | 1 | 1 | 22 | 22 |
@@ -6524,3 +6524,4 @@
 - **Oct 01, 04:31 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 01, 04:33 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 01, 04:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 01, 04:37 AM** - Australia and UK extend Space Bridge partnership (spacenews)
