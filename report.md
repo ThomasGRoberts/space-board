@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 23 | 24 | 54 |
+| spacenews | 11 | 24 | 25 | 55 |
 | breaking_defense | 1 | 5 | 21 | 43 |
 | nyt | 0 | 0 | 20 | 41 |
 | supercluster | 1 | 1 | 127 | 127 |
@@ -6680,3 +6680,4 @@
 - **Oct 01, 09:47 PM** - What’s in a name: Goodbye Maxar, hello Vantor and Lanteris (breaking_defense)
 - **Oct 01, 10:01 PM** - Private mission study a step toward offering Orion as a service (spacenews)
 - **Oct 01, 10:15 PM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
+- **Oct 01, 10:31 PM** - Starlink-compatible radios sought for Golden Dome interceptor satellite demo (spacenews)

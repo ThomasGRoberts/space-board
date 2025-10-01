@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-01T00:02:02.503030+00:00",
-    "trigger_count": 6,
-    "current_item_id": "34813b2aa43cc3553bfb941de3722e1e",
+    "trigger_count": 0,
+    "current_item_id": "04148c45920ade3072a7af7f1ca02f37",
     "data": [
         {
             "id": "8ab3504e32df79d83b1c8c135deb1062",
@@ -12307,6 +12307,18 @@
             "fetched_datetime": "2025-10-01T22:01:41.338619Z",
             "shown_at": [
                 "2025-10-01T22:01:41.989235Z"
+            ]
+        },
+        {
+            "id": "04148c45920ade3072a7af7f1ca02f37",
+            "source": "spacenews",
+            "text": "Starlink-compatible radios sought for Golden Dome interceptor satellite demo",
+            "source_link": "https://spacenews.com/starlink-compatible-radios-sought-for-golden-dome-interceptor-satellite-demo/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-01T22:31:48.527151Z",
+            "shown_at": [
+                "2025-10-01T22:31:49.308471Z"
             ]
         }
     ]
