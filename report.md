@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 15 | 21 | 28 | 55 |
-| breaking_defense | 4 | 4 | 21 | 43 |
+| breaking_defense | 4 | 4 | 22 | 44 |
 | nyt | 0 | 0 | 20 | 42 |
 | supercluster | 1 | 1 | 22 | 22 |
 
@@ -6526,3 +6526,4 @@
 - **Oct 01, 04:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 01, 04:37 AM** - Australia and UK extend Space Bridge partnership (spacenews)
 - **Oct 01, 04:52 AM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
+- **Oct 01, 05:07 AM** - SPACECOM discussing expansion of joint space monitoring missions with allies (breaking_defense)
