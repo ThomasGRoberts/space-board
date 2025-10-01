@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-01T00:02:02.503030+00:00",
-    "trigger_count": 6,
-    "current_item_id": "033d6e3b0c46a601327d4fa997d99432",
+    "trigger_count": 0,
+    "current_item_id": "6a9aabb179a50163985663181b72b81e",
     "data": [
         {
             "id": "8ab3504e32df79d83b1c8c135deb1062",
@@ -12161,6 +12161,18 @@
             "fetched_datetime": "2025-10-01T11:16:00.449376Z",
             "shown_at": [
                 "2025-10-01T11:29:51.851248Z"
+            ]
+        },
+        {
+            "id": "6a9aabb179a50163985663181b72b81e",
+            "source": "spacenews",
+            "text": "Maxar retires its name, rebrands as Vantor and Lanteris",
+            "source_link": "https://spacenews.com/maxar-retires-its-name-rebrands-as-vantor-and-lanteris/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-01T12:27:35.751147Z",
+            "shown_at": [
+                "2025-10-01T12:27:36.386068Z"
             ]
         }
     ]
