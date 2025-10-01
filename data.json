@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-01T00:02:02.503030+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "23440e1820f135c61b2557f5fb7fe9e7",
     "data": [
         {
             "id": "8ab3504e32df79d83b1c8c135deb1062",
@@ -12231,6 +12231,18 @@
             "fetched_datetime": "2025-10-01T13:11:37.845443Z",
             "shown_at": [
                 "2025-10-01T13:11:38.861104Z"
+            ]
+        },
+        {
+            "id": "23440e1820f135c61b2557f5fb7fe9e7",
+            "source": "spacenews",
+            "text": "What Germany’s $41B investment in space could mean for Europe",
+            "source_link": "https://spacenews.com/what-germanys-41b-investment-in-space-could-mean-for-europe/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-01T17:09:53.288474Z",
+            "shown_at": [
+                "2025-10-01T17:09:54.260522Z"
             ]
         }
     ]

@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 21 | 27 | 54 |
-| breaking_defense | 3 | 4 | 21 | 44 |
+| spacenews | 14 | 22 | 28 | 55 |
+| breaking_defense | 3 | 4 | 21 | 43 |
 | nyt | 0 | 0 | 19 | 41 |
 | supercluster | 1 | 1 | 99 | 99 |
 
@@ -6637,3 +6637,4 @@
 - **Oct 01, 05:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 01, 05:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 01, 05:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 01, 05:09 PM** - What Germany’s $41B investment in space could mean for Europe (spacenews)
