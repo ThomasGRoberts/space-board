@@ -5,7 +5,7 @@
 | spacenews | 13 | 22 | 27 | 55 |
 | breaking_defense | 4 | 4 | 22 | 44 |
 | nyt | 0 | 0 | 19 | 41 |
-| supercluster | 1 | 1 | 50 | 50 |
+| supercluster | 1 | 1 | 51 | 51 |
 
 # Shown Order
 
@@ -6568,3 +6568,4 @@
 - **Oct 01, 09:35 AM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
 - **Oct 01, 09:49 AM** - Space Force declares ATLAS space domain awareness software ‘operational’ (breaking_defense)
 - **Oct 01, 10:03 AM** - China boosts broadband, IoT and weather satellite fleets with flurry of launches (spacenews)
+- **Oct 01, 10:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
