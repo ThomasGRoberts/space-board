@@ -5,7 +5,7 @@
 | spacenews | 13 | 23 | 28 | 56 |
 | breaking_defense | 4 | 4 | 21 | 43 |
 | nyt | 0 | 0 | 19 | 41 |
-| supercluster | 1 | 1 | 58 | 58 |
+| supercluster | 1 | 1 | 59 | 59 |
 
 # Shown Order
 
@@ -6581,3 +6581,4 @@
 - **Oct 01, 11:16 AM** - What’s next for direct-to-device after SpaceX’s blockbuster spectrum deal (spacenews)
 - **Oct 01, 11:29 AM** - Maldives plots $50 million fund for sovereign space capabilities (spacenews)
 - **Oct 01, 11:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 01, 11:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
