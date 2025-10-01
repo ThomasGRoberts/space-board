@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-01T00:02:02.503030+00:00",
-    "trigger_count": 6,
-    "current_item_id": "933b47492f4c941691333eb3b9237f44",
+    "trigger_count": 0,
+    "current_item_id": "5c1f52d8fab4d9333f3d33b951987fba",
     "data": [
         {
             "id": "8ab3504e32df79d83b1c8c135deb1062",
@@ -12033,6 +12033,18 @@
             "fetched_datetime": "2025-10-01T01:25:51.381374Z",
             "shown_at": [
                 "2025-10-01T01:25:52.443410Z"
+            ]
+        },
+        {
+            "id": "5c1f52d8fab4d9333f3d33b951987fba",
+            "source": "spacenews",
+            "text": "Flexell Space and NPC Spacemind Partner at IAC 2025 on Next-Generation Solar Array Development",
+            "source_link": "https://spacenews.com/flexell-space-and-npc-spacemind-partner-at-iac-2025-on-next-generation-solar-array-development/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-01T04:09:55.594207Z",
+            "shown_at": [
+                "2025-10-01T04:09:56.371969Z"
             ]
         }
     ]
