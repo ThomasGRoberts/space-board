@@ -5,7 +5,7 @@
 | spacenews | 13 | 22 | 27 | 55 |
 | breaking_defense | 4 | 4 | 21 | 44 |
 | nyt | 0 | 0 | 19 | 41 |
-| supercluster | 1 | 1 | 45 | 45 |
+| supercluster | 1 | 1 | 46 | 46 |
 
 # Shown Order
 
@@ -6560,3 +6560,4 @@
 - **Oct 01, 09:03 AM** - Synspective purchases 10 additional Electron launches (spacenews)
 - **Oct 01, 09:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 01, 09:22 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 01, 09:25 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
