@@ -5,7 +5,7 @@
 | spacenews | 13 | 22 | 28 | 55 |
 | breaking_defense | 3 | 4 | 21 | 44 |
 | nyt | 0 | 0 | 19 | 41 |
-| supercluster | 1 | 1 | 65 | 65 |
+| supercluster | 1 | 1 | 66 | 66 |
 
 # Shown Order
 
@@ -6591,3 +6591,4 @@
 - **Oct 01, 12:13 PM** - In a first, Space Force to require refueling capability for next-gen neighborhood watch sats (breaking_defense)
 - **Oct 01, 12:27 PM** - Maxar retires its name, rebrands as Vantor and Lanteris (spacenews)
 - **Oct 01, 12:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 01, 12:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
