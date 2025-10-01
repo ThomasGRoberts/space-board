@@ -1,9 +1,215 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-09-30T00:02:14.855182+00:00",
-    "trigger_count": 4,
+    "last_run_datetime": "2025-10-01T00:02:02.503030+00:00",
+    "trigger_count": 5,
     "current_item_id": "f5e5b027685a644735114adcbaf17faf",
     "data": [
+        {
+            "id": "8ab3504e32df79d83b1c8c135deb1062",
+            "source": "spacenews",
+            "text": "Varda Space and Southern Launch agree to more capsule landings in Australia",
+            "source_link": "https://spacenews.com/varda-space-and-southern-launch-agree-to-more-capsule-landings-in-australia/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-30T22:19:41.463514Z",
+            "shown_at": [
+                "2025-09-30T22:19:42.078458Z"
+            ]
+        },
+        {
+            "id": "a69b12422abb8548867eb676ac761b43",
+            "source": "spacenews",
+            "text": "Satellite operators seek help from ITU to improve coordination for space safety",
+            "source_link": "https://spacenews.com/satellite-operators-seek-help-from-itu-to-improve-coordination-for-space-safety/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-30T21:21:53.086833Z",
+            "shown_at": [
+                "2025-09-30T21:21:53.892850Z"
+            ]
+        },
+        {
+            "id": "f77cd243bba675d3674016dc3ec9a9aa",
+            "source": "spacenews",
+            "text": "OQ Technology expands satellite IoT services to Australia",
+            "source_link": "https://spacenews.com/oq-technology-expands-satellite-iot-services-to-australia/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-30T21:07:49.404862Z",
+            "shown_at": [
+                "2025-09-30T21:07:50.141739Z"
+            ]
+        },
+        {
+            "id": "6a76238f38c15699af251775566cf83f",
+            "source": "breaking_defense",
+            "text": "SASC Dems skeptical of Golden Dome price, feasibility",
+            "source_link": "https://breakingdefense.com/2025/09/sasc-dems-skeptical-of-golden-dome-price-feasibility/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-30T20:10:06.469177Z",
+            "shown_at": [
+                "2025-09-30T20:10:07.526465Z"
+            ]
+        },
+        {
+            "id": "987b17430b2a4f5f0ef41d956f18182f",
+            "source": "breaking_defense",
+            "text": "Space Force declares ATLAS space domain awareness software ‘operational’",
+            "source_link": "https://breakingdefense.com/2025/09/space-force-declares-atlas-space-domain-awareness-software-operational/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-30T19:26:03.742216Z",
+            "shown_at": [
+                "2025-09-30T19:26:04.944820Z"
+            ]
+        },
+        {
+            "id": "b9d29837f8c91fc87f7e0543b380c8f6",
+            "source": "spacenews",
+            "text": "SpaceX’s D2D deal spurs space bulls",
+            "source_link": "https://spacenews.com/spacexs-d2d-deal-spurs-space-bulls/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-30T18:39:41.252238Z",
+            "shown_at": [
+                "2025-09-30T18:39:41.836456Z",
+                "2025-09-30T23:19:34.823236Z"
+            ]
+        },
+        {
+            "id": "120fed75e5c55f11d747215b43cbd6f5",
+            "source": "spacenews",
+            "text": "China set for high-stakes moon program and reusable launch tests to close out 2025",
+            "source_link": "https://spacenews.com/china-set-for-high-stakes-moon-program-and-reusable-launch-tests-to-close-out-2025/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-30T17:53:30.520305Z",
+            "shown_at": [
+                "2025-09-30T17:53:31.317574Z"
+            ]
+        },
+        {
+            "id": "1251851b37a4cf197ad42f03ace24730",
+            "source": "breaking_defense",
+            "text": "The Break Out: The highs of AFA and a Trump sartorial mystery [VIDEO]",
+            "source_link": "https://breakingdefense.com/2025/09/the-break-out-the-highs-of-afa-and-a-trump-sartorial-mystery-video/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-30T17:40:02.628912Z",
+            "shown_at": [
+                "2025-09-30T17:40:03.618647Z"
+            ]
+        },
+        {
+            "id": "288b99eb091bf95a4560198cff378411",
+            "source": "spacenews",
+            "text": "ViaSat-3 F2 delivered to Florida for October launch",
+            "source_link": "https://spacenews.com/viasat-3-f2-delivered-to-florida-for-october-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-30T14:03:56.851561Z",
+            "shown_at": [
+                "2025-09-30T14:03:57.754340Z"
+            ]
+        },
+        {
+            "id": "933b47492f4c941691333eb3b9237f44",
+            "source": "breaking_defense",
+            "text": "Space Force creates new intel ‘production’ unit",
+            "source_link": "https://breakingdefense.com/2025/09/space-force-creates-new-intel-production-unit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-30T12:19:30.800159Z",
+            "shown_at": [
+                "2025-09-30T12:19:31.455601Z",
+                "2025-09-30T23:37:46.858595Z"
+            ]
+        },
+        {
+            "id": "67859ba0e743fa11133310ecb38fc794",
+            "source": "spacenews",
+            "text": "Canadian Space Agency offers funding for dual-use technologies",
+            "source_link": "https://spacenews.com/canadian-space-agency-offers-funding-for-dual-use-technologies/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-30T11:51:15.803654Z",
+            "shown_at": [
+                "2025-09-30T11:51:16.567103Z"
+            ]
+        },
+        {
+            "id": "4f23c2989b18375957702eac71ab2ccc",
+            "source": "spacenews",
+            "text": "Kayhan Space releases free software to speed up satellite visualization",
+            "source_link": "https://spacenews.com/kayhan-space-releases-free-software-to-speed-up-satellite-visualization/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-30T11:07:40.871515Z",
+            "shown_at": [
+                "2025-09-30T11:07:41.612896Z"
+            ]
+        },
+        {
+            "id": "99e24ebbf1bb2dd12e2a38f2e3683fec",
+            "source": "spacenews",
+            "text": "Government contracts lay foundation for circular space economy",
+            "source_link": "https://spacenews.com/government-investment-remains-key-to-creating-a-circular-space-economy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-30T10:21:52.188103Z",
+            "shown_at": [
+                "2025-09-30T10:21:52.823924Z"
+            ]
+        },
+        {
+            "id": "a3f71072ad5d712c4545cf78682a6a84",
+            "source": "spacenews",
+            "text": "Firefly Alpha booster destroyed in ground test",
+            "source_link": "https://spacenews.com/firefly-alpha-booster-destroyed-in-ground-test/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-30T08:11:31.535987Z",
+            "shown_at": [
+                "2025-09-30T08:27:43.563813Z"
+            ]
+        },
+        {
+            "id": "71f24ccde422a41c18ca414ace4d5dcb",
+            "source": "spacenews",
+            "text": "Government investment remains key to creating a circular space economy",
+            "source_link": "https://spacenews.com/government-investment-remains-key-to-creating-a-circular-space-economy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-30T08:11:31.535917Z",
+            "shown_at": [
+                "2025-09-30T08:11:32.157937Z"
+            ]
+        },
+        {
+            "id": "c4f65a21a088a39e9e5bf4159342f03b",
+            "source": "spacenews",
+            "text": "China sends experimental Shiyan-30 satellites into orbit as launch cadence intensifies",
+            "source_link": "https://spacenews.com/china-sends-experimental-shiyan-30-satellites-into-orbit-as-launch-cadence-intensifies/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-30T05:33:47.301514Z",
+            "shown_at": [
+                "2025-09-30T05:33:47.911017Z"
+            ]
+        },
+        {
+            "id": "da04b637cb9aa2d353d1f677a2fe494f",
+            "source": "spacenews",
+            "text": "Report claims NASA taking illegal steps to implement budget proposal",
+            "source_link": "https://spacenews.com/report-claims-nasa-taking-illegal-steps-to-implement-budget-proposal/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-09-30T01:59:57.865148Z",
+            "shown_at": [
+                "2025-09-30T01:59:58.805617Z"
+            ]
+        },
         {
             "id": "1fb2eae21530e4658c44a85afac8b3b2",
             "source": "spacenews",
@@ -11782,601 +11988,6 @@
             ]
         },
         {
-            "id": "ccef5c219030b6c0e59875f2f92afc26",
-            "source": "spacenews",
-            "text": "ESA and EU emphasize good relationship as they press forward on imaging constellation",
-            "source_link": "https://spacenews.com/esa-and-eu-emphasize-good-relationship-as-they-press-forward-on-imaging-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-20T08:55:57.716191Z",
-            "shown_at": [
-                "2025-06-20T08:55:58.838124Z",
-                "2025-06-20T20:19:29.415421Z",
-                "2025-06-21T15:07:35.256004Z",
-                "2025-06-22T07:59:54.841094Z",
-                "2025-06-26T16:01:58.307573Z"
-            ]
-        },
-        {
-            "id": "35bcfe66128625bdf58e69a5e3e742fd",
-            "source": "spacenews",
-            "text": "French government to lead Eutelsat’s $1.56 billion capital boost",
-            "source_link": "https://spacenews.com/french-government-to-lead-eutelsats-1-56-billion-capital-boost/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-19T21:31:53.893908Z",
-            "shown_at": [
-                "2025-06-19T21:31:54.766744Z",
-                "2025-06-20T01:46:23.385571Z",
-                "2025-06-24T19:21:56.681498Z",
-                "2025-06-25T21:25:52.398737Z",
-                "2025-06-26T03:05:27.729292Z"
-            ]
-        },
-        {
-            "id": "6dcfc8391c1117fc268285b4a44541f8",
-            "source": "spacenews",
-            "text": "Moog Now Accepting Orders for Software Development Units for New High-Speed Space Computers",
-            "source_link": "https://spacenews.com/moog-now-accepting-orders-for-software-development-units-for-new-high-speed-space-computers/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-19T20:27:28.331546Z",
-            "shown_at": [
-                "2025-06-19T20:27:28.869443Z",
-                "2025-06-21T00:03:28.035952Z",
-                "2025-06-21T11:21:35.836514Z",
-                "2025-06-24T13:09:37.481383Z"
-            ]
-        },
-        {
-            "id": "70a36534d3d54e13c744417ef4131c5f",
-            "source": "nyt",
-            "text": "Edward Anders, Who Duped Nazis and Illuminated the Cosmos, Dies at 98",
-            "source_link": "https://www.nytimes.com/2025/06/19/science/space/edward-anders-dead.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-19T16:09:29.450016Z",
-            "shown_at": [
-                "2025-06-19T16:09:30.075259Z",
-                "2025-06-19T18:03:40.457225Z",
-                "2025-06-20T06:17:28.549871Z",
-                "2025-06-20T15:08:23.155342Z",
-                "2025-06-20T21:57:43.299270Z",
-                "2025-06-20T22:53:55.213051Z",
-                "2025-06-20T23:49:31.671077Z",
-                "2025-06-21T00:45:25.569428Z",
-                "2025-06-21T01:43:46.337809Z",
-                "2025-06-21T02:39:42.293508Z",
-                "2025-06-21T07:23:49.229816Z",
-                "2025-06-21T09:15:42.636764Z",
-                "2025-06-21T17:45:41.166414Z",
-                "2025-06-21T21:03:39.643613Z",
-                "2025-06-22T00:51:50.014199Z",
-                "2025-06-22T11:01:57.600348Z",
-                "2025-06-22T11:57:42.779577Z",
-                "2025-06-22T17:49:43.006572Z",
-                "2025-06-22T19:45:40.185937Z",
-                "2025-06-23T07:45:33.146115Z",
-                "2025-06-23T09:41:30.101984Z",
-                "2025-06-23T13:25:48.927970Z",
-                "2025-06-23T19:27:32.791861Z",
-                "2025-06-23T22:59:48.537854Z",
-                "2025-06-24T03:43:34.572227Z",
-                "2025-06-24T05:35:37.760317Z",
-                "2025-06-24T15:32:03.622295Z",
-                "2025-06-25T08:55:49.443073Z",
-                "2025-06-25T15:53:09.897070Z",
-                "2025-06-26T05:41:55.918080Z",
-                "2025-06-26T07:39:44.584345Z"
-            ]
-        },
-        {
-            "id": "8c424f0e21b4ca40e79ea4cbdb96490d",
-            "source": "spacenews",
-            "text": "Portal Space Systems to build larger factory for Supernova vehicle",
-            "source_link": "https://spacenews.com/portal-space-systems-to-build-larger-factory-for-supernova-vehicle/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-19T15:23:07.812819Z",
-            "shown_at": [
-                "2025-06-19T15:23:08.471452Z",
-                "2025-06-23T23:41:45.137584Z",
-                "2025-06-24T12:09:39.061144Z"
-            ]
-        },
-        {
-            "id": "6e3ffc7bdb163f56146db0d72f30a3b6",
-            "source": "nyt",
-            "text": "Vera Rubin Observatory Brings Universe’s Darkest Mysteries Into Focus",
-            "source_link": "https://www.nytimes.com/2025/06/19/science/telescope-vera-rubin-dark-matter.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-19T14:13:57.885291Z",
-            "shown_at": [
-                "2025-06-19T14:13:59.239263Z",
-                "2025-06-19T21:09:27.174854Z",
-                "2025-06-19T22:39:27.524834Z",
-                "2025-06-20T02:31:56.130444Z",
-                "2025-06-20T04:25:31.635659Z",
-                "2025-06-20T05:21:14.173373Z",
-                "2025-06-20T12:05:29.483293Z",
-                "2025-06-20T18:11:49.919164Z",
-                "2025-06-20T19:09:31.937652Z",
-                "2025-06-21T06:27:47.516591Z",
-                "2025-06-21T08:19:38.301526Z",
-                "2025-06-21T10:11:10.110449Z",
-                "2025-06-21T12:59:46.182957Z",
-                "2025-06-21T16:49:39.020697Z",
-                "2025-06-22T03:41:49.003724Z",
-                "2025-06-22T20:41:38.319915Z",
-                "2025-06-23T02:33:43.059956Z",
-                "2025-06-23T05:09:43.672225Z",
-                "2025-06-23T06:49:44.512970Z",
-                "2025-06-23T18:32:05.086630Z",
-                "2025-06-24T02:48:06.801517Z",
-                "2025-06-24T04:39:33.691881Z",
-                "2025-06-24T09:49:10.531549Z",
-                "2025-06-24T18:53:34.654999Z",
-                "2025-06-25T12:58:24.830277Z"
-            ]
-        },
-        {
-            "id": "0aaee52738f12e84b51a26ff64fd3be0",
-            "source": "breaking_defense",
-            "text": "Chinese sats appear to be attempting first-ever on-orbit refueling, sat tracking firms say",
-            "source_link": "https://breakingdefense.com/2025/06/chinese-sats-appear-to-be-attempting-first-ever-on-orbit-refueling-sat-tracking-firms-say/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-19T13:59:28.246494Z",
-            "shown_at": [
-                "2025-06-19T13:59:28.873478Z",
-                "2025-06-19T14:55:51.115437Z",
-                "2025-06-19T18:45:38.532490Z",
-                "2025-06-19T20:55:32.032483Z",
-                "2025-06-20T01:17:53.731467Z",
-                "2025-06-20T04:11:48.933923Z",
-                "2025-06-20T06:03:32.809612Z",
-                "2025-06-20T07:02:23.355839Z",
-                "2025-06-20T14:53:45.669228Z",
-                "2025-06-20T21:29:55.511259Z",
-                "2025-06-20T23:21:24.591589Z",
-                "2025-06-21T01:15:42.658734Z",
-                "2025-06-21T06:55:42.291527Z",
-                "2025-06-21T08:47:41.029657Z",
-                "2025-06-21T17:31:42.736823Z",
-                "2025-06-21T18:27:48.583269Z",
-                "2025-06-21T21:17:34.043715Z",
-                "2025-06-21T23:09:43.979188Z",
-                "2025-06-22T02:59:16.033482Z",
-                "2025-06-22T14:17:41.779013Z",
-                "2025-06-22T15:15:45.654120Z",
-                "2025-06-22T23:57:31.729784Z",
-                "2025-06-23T12:01:55.867226Z",
-                "2025-06-23T12:57:30.762868Z",
-                "2025-06-23T17:03:50.731105Z",
-                "2025-06-23T20:09:21.401678Z",
-                "2025-06-24T03:57:36.091290Z",
-                "2025-06-24T04:53:26.282380Z",
-                "2025-06-24T09:07:32.851028Z",
-                "2025-06-24T10:03:45.442356Z",
-                "2025-06-24T19:07:44.336680Z",
-                "2025-06-24T22:15:53.517590Z",
-                "2025-06-25T01:21:30.498286Z",
-                "2025-06-25T09:11:54.107138Z",
-                "2025-06-25T19:55:32.169410Z",
-                "2025-06-25T23:45:33.874131Z",
-                "2025-06-26T07:25:34.993400Z"
-            ]
-        },
-        {
-            "id": "44dbb59c82393e1bd2f0a602c2e98c95",
-            "source": "spacenews",
-            "text": "After Resilience’s moon landing attempt, why openness is key to the lunar economy",
-            "source_link": "https://spacenews.com/after-resiliences-moon-landing-attempt-why-openness-is-key-to-the-lunar-economy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-19T11:05:33.799361Z",
-            "shown_at": [
-                "2025-06-19T11:05:34.476999Z",
-                "2025-06-22T10:47:27.997382Z",
-                "2025-06-24T08:23:38.984334Z"
-            ]
-        },
-        {
-            "id": "f7cce9c990164ca4ddedcf45baabee24",
-            "source": "nyt",
-            "text": "SpaceX Starship Explodes During Test in Texas",
-            "source_link": "https://www.nytimes.com/2025/06/19/us/spacex-rocket-explosion-texas.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-19T07:59:38.657814Z",
-            "shown_at": [
-                "2025-06-19T07:59:39.155051Z",
-                "2025-06-19T09:53:28.597094Z",
-                "2025-06-19T12:45:27.158370Z",
-                "2025-06-19T13:45:09.130192Z",
-                "2025-06-19T15:09:47.643766Z",
-                "2025-06-20T00:31:46.379056Z",
-                "2025-06-20T08:27:45.466877Z",
-                "2025-06-20T09:53:38.017344Z",
-                "2025-06-20T10:51:43.207463Z",
-                "2025-06-20T14:11:44.575130Z",
-                "2025-06-21T04:35:30.582028Z",
-                "2025-06-21T12:03:29.948606Z",
-                "2025-06-21T14:53:27.937087Z",
-                "2025-06-22T01:47:16.128403Z",
-                "2025-06-22T02:45:42.461815Z",
-                "2025-06-22T10:05:41.791056Z",
-                "2025-06-22T18:47:34.132816Z",
-                "2025-06-22T22:47:29.760556Z",
-                "2025-06-23T01:37:06.187118Z",
-                "2025-06-23T08:43:38.239278Z",
-                "2025-06-24T13:37:31.442660Z",
-                "2025-06-24T14:35:47.230097Z",
-                "2025-06-24T16:27:39.870710Z",
-                "2025-06-24T17:23:40.190508Z",
-                "2025-06-24T20:05:49.167213Z",
-                "2025-06-24T23:01:58.073556Z",
-                "2025-06-25T14:55:41.623923Z",
-                "2025-06-26T02:49:25.703230Z"
-            ]
-        },
-        {
-            "id": "3e11e9cebdcb481a10dcf848cb815a13",
-            "source": "spacenews",
-            "text": "Starship destroyed in test stand explosion",
-            "source_link": "https://spacenews.com/starship-destroyed-in-test-stand-explosion/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-19T07:45:44.224401Z",
-            "shown_at": [
-                "2025-06-19T07:45:45.205869Z",
-                "2025-06-19T10:37:35.843672Z",
-                "2025-06-19T22:53:37.918809Z",
-                "2025-06-20T03:43:38.071318Z",
-                "2025-06-23T17:49:35.994972Z",
-                "2025-06-24T15:59:30.368686Z",
-                "2025-06-25T00:39:32.976514Z"
-            ]
-        },
-        {
-            "id": "fab906883cd6a14bbc29dd2308d196da",
-            "source": "spacenews",
-            "text": "Trump officially nominates Space Force Gen. Guetlein to lead ‘Golden Dome’",
-            "source_link": "https://spacenews.com/trump-officially-nominates-space-force-gen-guetlein-to-lead-golden-dome/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-18T23:33:28.681465Z",
-            "shown_at": [
-                "2025-06-18T23:33:29.321564Z",
-                "2025-06-20T08:41:33.374499Z",
-                "2025-06-20T17:56:16.628276Z",
-                "2025-06-20T21:15:47.000529Z",
-                "2025-06-20T22:11:33.899390Z"
-            ]
-        },
-        {
-            "id": "50f7eb897c86e2d6c0625cc1d77b680a",
-            "source": "spacenews",
-            "text": "Firefly announces commercial lunar imagery service",
-            "source_link": "https://spacenews.com/firefly-announces-commercial-lunar-imagery-service/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-18T20:43:32.513491Z",
-            "shown_at": [
-                "2025-06-18T20:43:33.140036Z",
-                "2025-06-19T18:17:52.715963Z",
-                "2025-06-21T03:51:32.637494Z",
-                "2025-06-25T04:39:44.778359Z"
-            ]
-        },
-        {
-            "id": "54daafb68028b71c8d75908aeaa3accd",
-            "source": "breaking_defense",
-            "text": "Space Force is contracting with SpaceX for new, secretive MILNET SATCOM network",
-            "source_link": "https://breakingdefense.com/2025/06/space-force-is-contracting-with-spacex-for-new-secretive-milnet-satcom-network/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-18T20:15:14.028496Z",
-            "shown_at": [
-                "2025-06-18T20:15:14.632077Z",
-                "2025-06-19T00:03:39.988486Z",
-                "2025-06-19T02:02:20.537727Z",
-                "2025-06-19T03:57:26.588710Z",
-                "2025-06-19T06:49:25.759645Z",
-                "2025-06-19T17:49:33.356296Z",
-                "2025-06-19T19:45:39.894886Z",
-                "2025-06-20T00:17:31.946425Z",
-                "2025-06-20T17:00:27.548090Z",
-                "2025-06-20T18:25:57.769862Z",
-                "2025-06-20T20:33:32.347936Z",
-                "2025-06-21T02:11:42.135219Z",
-                "2025-06-21T12:32:07.325314Z",
-                "2025-06-21T13:43:37.290650Z",
-                "2025-06-21T15:35:28.578309Z",
-                "2025-06-21T22:13:41.001008Z",
-                "2025-06-22T08:41:29.444916Z",
-                "2025-06-22T09:37:26.040667Z",
-                "2025-06-22T13:21:58.193608Z",
-                "2025-06-22T16:11:39.129231Z",
-                "2025-06-22T18:03:38.959994Z",
-                "2025-06-22T19:02:09.234365Z",
-                "2025-06-22T20:55:44.951592Z",
-                "2025-06-23T00:53:33.550111Z",
-                "2025-06-23T01:51:46.255803Z",
-                "2025-06-23T02:47:47.191702Z",
-                "2025-06-23T04:41:31.937592Z",
-                "2025-06-23T13:55:44.483064Z",
-                "2025-06-23T15:05:30.731468Z",
-                "2025-06-23T18:17:36.625459Z",
-                "2025-06-23T19:13:36.742634Z",
-                "2025-06-23T23:13:53.176386Z",
-                "2025-06-24T03:01:56.414775Z",
-                "2025-06-24T10:59:07.172591Z",
-                "2025-06-24T11:55:42.852037Z",
-                "2025-06-25T00:25:33.084491Z",
-                "2025-06-25T03:15:39.941247Z",
-                "2025-06-25T14:25:44.114251Z"
-            ]
-        },
-        {
-            "id": "4622d05d9e41ae82b317bedc2e496d85",
-            "source": "spacenews",
-            "text": "Regulators clear Starlink-enabled texting trial in war-torn Ukraine",
-            "source_link": "https://spacenews.com/regulators-clear-starlink-enabled-texting-trial-in-war-torn-ukraine/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-18T19:05:39.698680Z",
-            "shown_at": [
-                "2025-06-18T19:05:40.392891Z",
-                "2025-06-23T03:17:47.496951Z",
-                "2025-06-25T02:31:42.042772Z",
-                "2025-06-25T08:41:37.719117Z"
-            ]
-        },
-        {
-            "id": "2966c98a09fb087beebffe77157cec8d",
-            "source": "spacenews",
-            "text": "Varda to launch its first in-house built spacecraft for on-orbit manufacturing",
-            "source_link": "https://spacenews.com/varda-to-launch-its-first-in-house-designed-spacecraft-for-on-orbit-manufacturing/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-18T14:09:45.305967Z",
-            "shown_at": [
-                "2025-06-18T14:09:45.989558Z",
-                "2025-06-19T08:41:58.214136Z",
-                "2025-06-20T15:39:47.007771Z",
-                "2025-06-21T08:33:31.056560Z",
-                "2025-06-21T14:11:30.100440Z",
-                "2025-06-22T20:27:34.097577Z",
-                "2025-06-24T15:03:55.539764Z"
-            ]
-        },
-        {
-            "id": "b1834d2acfe1b2d8f7f70484259979f3",
-            "source": "spacenews",
-            "text": "Learning from the past: How history can guide space and cyber rules today",
-            "source_link": "https://spacenews.com/learning-from-the-past-how-history-can-guide-space-and-cyber-rules-today/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-18T13:15:47.327620Z",
-            "shown_at": [
-                "2025-06-18T13:15:48.990040Z",
-                "2025-06-20T00:45:29.517673Z",
-                "2025-06-20T06:32:12.587737Z",
-                "2025-06-22T19:31:44.110946Z",
-                "2025-06-24T17:52:00.289170Z",
-                "2025-06-24T20:33:27.616624Z",
-                "2025-06-25T01:35:28.319728Z"
-            ]
-        },
-        {
-            "id": "da04b637cb9aa2d353d1f677a2fe494f",
-            "source": "spacenews",
-            "text": "Report claims NASA taking illegal steps to implement budget proposal",
-            "source_link": "https://spacenews.com/report-claims-nasa-taking-illegal-steps-to-implement-budget-proposal/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-30T01:59:57.865148Z",
-            "shown_at": [
-                "2025-09-30T01:59:58.805617Z"
-            ]
-        },
-        {
-            "id": "c4f65a21a088a39e9e5bf4159342f03b",
-            "source": "spacenews",
-            "text": "China sends experimental Shiyan-30 satellites into orbit as launch cadence intensifies",
-            "source_link": "https://spacenews.com/china-sends-experimental-shiyan-30-satellites-into-orbit-as-launch-cadence-intensifies/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-30T05:33:47.301514Z",
-            "shown_at": [
-                "2025-09-30T05:33:47.911017Z"
-            ]
-        },
-        {
-            "id": "71f24ccde422a41c18ca414ace4d5dcb",
-            "source": "spacenews",
-            "text": "Government investment remains key to creating a circular space economy",
-            "source_link": "https://spacenews.com/government-investment-remains-key-to-creating-a-circular-space-economy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-30T08:11:31.535917Z",
-            "shown_at": [
-                "2025-09-30T08:11:32.157937Z"
-            ]
-        },
-        {
-            "id": "a3f71072ad5d712c4545cf78682a6a84",
-            "source": "spacenews",
-            "text": "Firefly Alpha booster destroyed in ground test",
-            "source_link": "https://spacenews.com/firefly-alpha-booster-destroyed-in-ground-test/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-30T08:11:31.535987Z",
-            "shown_at": [
-                "2025-09-30T08:27:43.563813Z"
-            ]
-        },
-        {
-            "id": "99e24ebbf1bb2dd12e2a38f2e3683fec",
-            "source": "spacenews",
-            "text": "Government contracts lay foundation for circular space economy",
-            "source_link": "https://spacenews.com/government-investment-remains-key-to-creating-a-circular-space-economy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-30T10:21:52.188103Z",
-            "shown_at": [
-                "2025-09-30T10:21:52.823924Z"
-            ]
-        },
-        {
-            "id": "4f23c2989b18375957702eac71ab2ccc",
-            "source": "spacenews",
-            "text": "Kayhan Space releases free software to speed up satellite visualization",
-            "source_link": "https://spacenews.com/kayhan-space-releases-free-software-to-speed-up-satellite-visualization/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-30T11:07:40.871515Z",
-            "shown_at": [
-                "2025-09-30T11:07:41.612896Z"
-            ]
-        },
-        {
-            "id": "67859ba0e743fa11133310ecb38fc794",
-            "source": "spacenews",
-            "text": "Canadian Space Agency offers funding for dual-use technologies",
-            "source_link": "https://spacenews.com/canadian-space-agency-offers-funding-for-dual-use-technologies/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-30T11:51:15.803654Z",
-            "shown_at": [
-                "2025-09-30T11:51:16.567103Z"
-            ]
-        },
-        {
-            "id": "933b47492f4c941691333eb3b9237f44",
-            "source": "breaking_defense",
-            "text": "Space Force creates new intel ‘production’ unit",
-            "source_link": "https://breakingdefense.com/2025/09/space-force-creates-new-intel-production-unit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-30T12:19:30.800159Z",
-            "shown_at": [
-                "2025-09-30T12:19:31.455601Z",
-                "2025-09-30T23:37:46.858595Z"
-            ]
-        },
-        {
-            "id": "288b99eb091bf95a4560198cff378411",
-            "source": "spacenews",
-            "text": "ViaSat-3 F2 delivered to Florida for October launch",
-            "source_link": "https://spacenews.com/viasat-3-f2-delivered-to-florida-for-october-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-30T14:03:56.851561Z",
-            "shown_at": [
-                "2025-09-30T14:03:57.754340Z"
-            ]
-        },
-        {
-            "id": "1251851b37a4cf197ad42f03ace24730",
-            "source": "breaking_defense",
-            "text": "The Break Out: The highs of AFA and a Trump sartorial mystery [VIDEO]",
-            "source_link": "https://breakingdefense.com/2025/09/the-break-out-the-highs-of-afa-and-a-trump-sartorial-mystery-video/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-30T17:40:02.628912Z",
-            "shown_at": [
-                "2025-09-30T17:40:03.618647Z"
-            ]
-        },
-        {
-            "id": "120fed75e5c55f11d747215b43cbd6f5",
-            "source": "spacenews",
-            "text": "China set for high-stakes moon program and reusable launch tests to close out 2025",
-            "source_link": "https://spacenews.com/china-set-for-high-stakes-moon-program-and-reusable-launch-tests-to-close-out-2025/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-30T17:53:30.520305Z",
-            "shown_at": [
-                "2025-09-30T17:53:31.317574Z"
-            ]
-        },
-        {
-            "id": "b9d29837f8c91fc87f7e0543b380c8f6",
-            "source": "spacenews",
-            "text": "SpaceX’s D2D deal spurs space bulls",
-            "source_link": "https://spacenews.com/spacexs-d2d-deal-spurs-space-bulls/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-30T18:39:41.252238Z",
-            "shown_at": [
-                "2025-09-30T18:39:41.836456Z",
-                "2025-09-30T23:19:34.823236Z"
-            ]
-        },
-        {
-            "id": "987b17430b2a4f5f0ef41d956f18182f",
-            "source": "breaking_defense",
-            "text": "Space Force declares ATLAS space domain awareness software ‘operational’",
-            "source_link": "https://breakingdefense.com/2025/09/space-force-declares-atlas-space-domain-awareness-software-operational/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-30T19:26:03.742216Z",
-            "shown_at": [
-                "2025-09-30T19:26:04.944820Z"
-            ]
-        },
-        {
-            "id": "6a76238f38c15699af251775566cf83f",
-            "source": "breaking_defense",
-            "text": "SASC Dems skeptical of Golden Dome price, feasibility",
-            "source_link": "https://breakingdefense.com/2025/09/sasc-dems-skeptical-of-golden-dome-price-feasibility/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-30T20:10:06.469177Z",
-            "shown_at": [
-                "2025-09-30T20:10:07.526465Z"
-            ]
-        },
-        {
-            "id": "f77cd243bba675d3674016dc3ec9a9aa",
-            "source": "spacenews",
-            "text": "OQ Technology expands satellite IoT services to Australia",
-            "source_link": "https://spacenews.com/oq-technology-expands-satellite-iot-services-to-australia/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-30T21:07:49.404862Z",
-            "shown_at": [
-                "2025-09-30T21:07:50.141739Z"
-            ]
-        },
-        {
-            "id": "a69b12422abb8548867eb676ac761b43",
-            "source": "spacenews",
-            "text": "Satellite operators seek help from ITU to improve coordination for space safety",
-            "source_link": "https://spacenews.com/satellite-operators-seek-help-from-itu-to-improve-coordination-for-space-safety/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-30T21:21:53.086833Z",
-            "shown_at": [
-                "2025-09-30T21:21:53.892850Z"
-            ]
-        },
-        {
-            "id": "8ab3504e32df79d83b1c8c135deb1062",
-            "source": "spacenews",
-            "text": "Varda Space and Southern Launch agree to more capsule landings in Australia",
-            "source_link": "https://spacenews.com/varda-space-and-southern-launch-agree-to-more-capsule-landings-in-australia/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-30T22:19:41.463514Z",
-            "shown_at": [
-                "2025-09-30T22:19:42.078458Z"
-            ]
-        },
-        {
             "id": "f5e5b027685a644735114adcbaf17faf",
             "source": "supercluster",
             "text": "Rocket Lab Will Launch Classified Suborbital Mission",
@@ -12385,7 +11996,7 @@
             "type": "launch",
             "target_datetime": "2025-09-30T23:45:00.000Z",
             "time_remaining": "",
-            "fetched_datetime": "2025-09-30T23:59:28.256919Z"
+            "fetched_datetime": "2025-10-01T00:02:05.827798Z"
         }
     ]
 }
