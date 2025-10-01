@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 16 | 22 | 29 | 56 |
+| spacenews | 15 | 22 | 28 | 55 |
 | breaking_defense | 4 | 4 | 22 | 44 |
 | nyt | 0 | 0 | 19 | 42 |
-| supercluster | 1 | 1 | 22 | 22 |
+| supercluster | 1 | 1 | 23 | 23 |
 
 # Shown Order
 
@@ -6528,3 +6528,4 @@
 - **Oct 01, 04:52 AM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
 - **Oct 01, 05:07 AM** - SPACECOM discussing expansion of joint space monitoring missions with allies (breaking_defense)
 - **Oct 01, 05:21 AM** - Synspective purchases 10 additional Electron launches (spacenews)
+- **Oct 01, 05:37 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
