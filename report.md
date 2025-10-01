@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 22 | 27 | 55 |
 | breaking_defense | 2 | 4 | 21 | 43 |
-| nyt | 0 | 0 | 20 | 41 |
+| nyt | 0 | 0 | 21 | 42 |
 | supercluster | 1 | 1 | 106 | 106 |
 
 # Shown Order
@@ -6648,3 +6648,4 @@
 - **Oct 01, 06:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 01, 06:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 01, 06:09 PM** - Eartheye to offer tasking of satellites looking up and down (spacenews)
+- **Oct 01, 06:23 PM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
