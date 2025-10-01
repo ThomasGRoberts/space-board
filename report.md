@@ -5,7 +5,7 @@
 | spacenews | 13 | 22 | 28 | 55 |
 | breaking_defense | 3 | 4 | 21 | 44 |
 | nyt | 0 | 0 | 19 | 41 |
-| supercluster | 1 | 1 | 64 | 64 |
+| supercluster | 1 | 1 | 65 | 65 |
 
 # Shown Order
 
@@ -6590,3 +6590,4 @@
 - **Oct 01, 11:59 AM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
 - **Oct 01, 12:13 PM** - In a first, Space Force to require refueling capability for next-gen neighborhood watch sats (breaking_defense)
 - **Oct 01, 12:27 PM** - Maxar retires its name, rebrands as Vantor and Lanteris (spacenews)
+- **Oct 01, 12:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
