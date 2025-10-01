@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 15 | 21 | 29 | 55 |
 | breaking_defense | 4 | 4 | 21 | 44 |
-| nyt | 0 | 0 | 19 | 41 |
+| nyt | 0 | 0 | 20 | 42 |
 | supercluster | 1 | 1 | 22 | 22 |
 
 # Shown Order
@@ -6525,3 +6525,4 @@
 - **Oct 01, 04:33 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 01, 04:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 01, 04:37 AM** - Australia and UK extend Space Bridge partnership (spacenews)
+- **Oct 01, 04:52 AM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
