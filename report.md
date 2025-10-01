@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 22 | 26 | 54 |
+| spacenews | 13 | 22 | 27 | 55 |
 | breaking_defense | 3 | 4 | 21 | 43 |
 | nyt | 0 | 0 | 20 | 42 |
 | supercluster | 1 | 1 | 92 | 92 |
@@ -6628,3 +6628,4 @@
 - **Oct 01, 04:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 01, 04:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 01, 04:07 PM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
+- **Oct 01, 04:21 PM** - Redwire to provide solar arrays for Axiom space station module (spacenews)
