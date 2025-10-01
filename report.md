@@ -5,7 +5,7 @@
 | spacenews | 11 | 24 | 25 | 54 |
 | breaking_defense | 1 | 5 | 20 | 43 |
 | nyt | 0 | 0 | 20 | 41 |
-| supercluster | 1 | 1 | 127 | 127 |
+| supercluster | 1 | 1 | 128 | 128 |
 
 # Shown Order
 
@@ -6681,3 +6681,4 @@
 - **Oct 01, 10:01 PM** - Private mission study a step toward offering Orion as a service (spacenews)
 - **Oct 01, 10:15 PM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
 - **Oct 01, 10:31 PM** - Starlink-compatible radios sought for Golden Dome interceptor satellite demo (spacenews)
+- **Oct 01, 10:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
