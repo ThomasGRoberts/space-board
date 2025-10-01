@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 14 | 20 | 28 | 53 |
 | breaking_defense | 4 | 4 | 21 | 42 |
-| nyt | 0 | 0 | 19 | 39 |
+| nyt | 0 | 0 | 20 | 40 |
 | supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
@@ -6494,3 +6494,4 @@
 - **Sep 30, 11:37 PM** - Space Force creates new intel ‘production’ unit (breaking_defense)
 - **Oct 01, 01:23 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 01, 01:25 AM** - Australian and Japanese organizations join forces on optical communications (spacenews)
+- **Oct 01, 01:40 AM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
