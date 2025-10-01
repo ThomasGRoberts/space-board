@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 22 | 26 | 54 |
+| spacenews | 13 | 22 | 27 | 55 |
 | breaking_defense | 3 | 4 | 21 | 43 |
 | nyt | 0 | 0 | 20 | 42 |
 | supercluster | 1 | 1 | 85 | 85 |
@@ -6618,3 +6618,4 @@
 - **Oct 01, 02:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 01, 02:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 01, 02:59 PM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
+- **Oct 01, 03:16 PM** - NASA Selects Proteus Space for Novel Rapid Spacecraft Conceptual Design Study (spacenews)
