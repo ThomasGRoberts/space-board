@@ -5,7 +5,7 @@
 | spacenews | 15 | 22 | 28 | 56 |
 | breaking_defense | 4 | 4 | 22 | 44 |
 | nyt | 0 | 0 | 19 | 42 |
-| supercluster | 1 | 1 | 30 | 30 |
+| supercluster | 1 | 1 | 31 | 31 |
 
 # Shown Order
 
@@ -6539,3 +6539,4 @@
 - **Oct 01, 06:08 AM** - In a first, Space Force to require refueling capability for next-gen neighborhood watch sats (breaking_defense)
 - **Oct 01, 06:25 AM** - L3Harris looks to scale production of hybrid satcom radios after successful Air Force tests (spacenews)
 - **Oct 01, 06:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 01, 06:44 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
