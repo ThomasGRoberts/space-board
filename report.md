@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 20 | 27 | 52 |
+| spacenews | 13 | 20 | 28 | 53 |
 | breaking_defense | 4 | 4 | 22 | 42 |
 | nyt | 0 | 0 | 19 | 40 |
 | supercluster | 1 | 1 | 8 | 8 |
@@ -6503,3 +6503,4 @@
 - **Oct 01, 02:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 01, 02:21 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 01, 02:23 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 01, 02:25 AM** - Firefly Alpha booster destroyed in ground test (spacenews)
