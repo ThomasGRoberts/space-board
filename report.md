@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 21 | 27 | 54 |
+| spacenews | 14 | 22 | 28 | 55 |
 | breaking_defense | 3 | 4 | 21 | 43 |
 | nyt | 0 | 0 | 20 | 42 |
 | supercluster | 1 | 1 | 71 | 71 |
@@ -6598,3 +6598,4 @@
 - **Oct 01, 12:51 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 01, 12:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 01, 12:56 PM** - NASA Launches IMAP and Space Weather Missions on SpaceX Rocket (nyt)
+- **Oct 01, 01:11 PM** - How time series data is fueling the final frontier (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-01T00:02:02.503030+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9bf634f59e13e1346a98fd7a6ac874a9",
+    "trigger_count": 0,
+    "current_item_id": "ad1c07672a6bac5b95f5cbaf530d90b1",
     "data": [
         {
             "id": "8ab3504e32df79d83b1c8c135deb1062",
@@ -12181,6 +12181,18 @@
             "fetched_datetime": "2025-10-01T12:27:35.751147Z",
             "shown_at": [
                 "2025-10-01T12:27:36.386068Z"
+            ]
+        },
+        {
+            "id": "ad1c07672a6bac5b95f5cbaf530d90b1",
+            "source": "spacenews",
+            "text": "How time series data is fueling the final frontier",
+            "source_link": "https://spacenews.com/how-time-series-data-is-fueling-the-final-frontier/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-01T13:11:37.845443Z",
+            "shown_at": [
+                "2025-10-01T13:11:38.861104Z"
             ]
         }
     ]
