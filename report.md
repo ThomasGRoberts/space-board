@@ -5,7 +5,7 @@
 | spacenews | 13 | 22 | 27 | 55 |
 | breaking_defense | 4 | 4 | 21 | 44 |
 | nyt | 0 | 0 | 19 | 41 |
-| supercluster | 1 | 1 | 38 | 38 |
+| supercluster | 1 | 1 | 39 | 39 |
 
 # Shown Order
 
@@ -6550,3 +6550,4 @@
 - **Oct 01, 07:47 AM** - Purdue University to fly dedicated suborbital research mission with Virgin Galactic (spacenews)
 - **Oct 01, 08:07 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 01, 08:12 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 01, 08:15 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
