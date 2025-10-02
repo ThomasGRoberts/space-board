@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 26 | 27 | 55 |
-| breaking_defense | 1 | 5 | 22 | 43 |
-| supercluster | 0 | 1 | 148 | 177 |
+| breaking_defense | 1 | 5 | 21 | 43 |
+| supercluster | 0 | 1 | 149 | 178 |
 | nyt | 0 | 0 | 21 | 41 |
 
 # Shown Order
@@ -6610,3 +6610,4 @@
 - **Oct 02, 05:37 AM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
 - **Oct 02, 05:51 AM** - Flexell Space and NPC Spacemind Partner at IAC 2025 on Next-Generation Solar Array Development (spacenews)
 - **Oct 02, 06:07 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 02, 06:11 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
