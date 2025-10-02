@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-02T00:02:57.304882+00:00",
-    "trigger_count": 6,
-    "current_item_id": "79bc20a3bac241f4b32c54e56ee91864",
+    "trigger_count": 0,
+    "current_item_id": "f31f93a3a6d0f7725d07986609daa970",
     "data": [
         {
             "id": "d4812dba0008c0610e1bd4651d6d5b61",
@@ -12198,6 +12198,18 @@
             "fetched_datetime": "2025-10-02T11:02:11.289286Z",
             "shown_at": [
                 "2025-10-02T11:02:12.100965Z"
+            ]
+        },
+        {
+            "id": "f31f93a3a6d0f7725d07986609daa970",
+            "source": "spacenews",
+            "text": "Preparations on track for second New Glenn launch",
+            "source_link": "https://spacenews.com/preparations-on-track-for-second-new-glenn-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-02T11:21:30.998557Z",
+            "shown_at": [
+                "2025-10-02T11:21:31.563450Z"
             ]
         }
     ]

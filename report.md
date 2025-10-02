@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 24 | 27 | 54 |
+| spacenews | 12 | 25 | 28 | 55 |
 | breaking_defense | 1 | 5 | 22 | 44 |
 | supercluster | 0 | 1 | 154 | 211 |
 | nyt | 0 | 0 | 21 | 41 |
@@ -6659,3 +6659,4 @@
 - **Oct 02, 10:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 02, 10:47 AM** - Space Force declares ATLAS space domain awareness software ‘operational’ (breaking_defense)
 - **Oct 02, 11:02 AM** - Will Pentagon procurement reforms really stick this time? (spacenews)
+- **Oct 02, 11:21 AM** - Preparations on track for second New Glenn launch (spacenews)
