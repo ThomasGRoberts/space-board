@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 26 | 27 | 55 |
-| breaking_defense | 1 | 5 | 21 | 43 |
+| breaking_defense | 1 | 5 | 22 | 44 |
 | supercluster | 1 | 1 | 148 | 148 |
 | nyt | 0 | 0 | 21 | 40 |
 
@@ -6565,3 +6565,4 @@
 - **Oct 02, 12:51 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 02, 12:53 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 02, 12:55 AM** - Eartheye to offer tasking of satellites looking up and down (spacenews)
+- **Oct 02, 01:11 AM** - Space Force creates new intel ‘production’ unit (breaking_defense)
