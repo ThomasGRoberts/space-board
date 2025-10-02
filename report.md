@@ -5,7 +5,7 @@
 | spacenews | 9 | 21 | 27 | 53 |
 | breaking_defense | 3 | 4 | 23 | 44 |
 | supercluster | 0 | 1 | 154 | 288 |
-| nyt | 1 | 1 | 22 | 41 |
+| nyt | 1 | 1 | 23 | 42 |
 
 # Shown Order
 
@@ -6772,3 +6772,4 @@
 - **Oct 02, 10:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 02, 10:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 02, 10:59 PM** - NASA modifies Dream Chaser ISS cargo contract as Sierra Space shifts to defense work (spacenews)
+- **Oct 02, 11:15 PM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
