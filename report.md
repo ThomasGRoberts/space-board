@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 27 | 27 | 55 |
 | breaking_defense | 1 | 5 | 21 | 43 |
-| supercluster | 0 | 1 | 148 | 163 |
+| supercluster | 0 | 1 | 149 | 164 |
 | nyt | 0 | 0 | 21 | 41 |
 
 # Shown Order
@@ -6590,3 +6590,4 @@
 - **Oct 02, 03:41 AM** - China and U.S. take initial steps toward space-traffic coordination (spacenews)
 - **Oct 02, 03:55 AM** - The Exploration Company still studying Mission Possible reentry (spacenews)
 - **Oct 02, 04:11 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 02, 04:13 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
