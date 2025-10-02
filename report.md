@@ -5,7 +5,7 @@
 | spacenews | 11 | 22 | 28 | 53 |
 | breaking_defense | 3 | 4 | 23 | 44 |
 | supercluster | 0 | 1 | 154 | 281 |
-| nyt | 1 | 1 | 22 | 41 |
+| nyt | 1 | 1 | 23 | 42 |
 
 # Shown Order
 
@@ -6762,3 +6762,4 @@
 - **Oct 02, 09:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 02, 09:45 PM** - At IAC, global space cooperation meets American space dominance (spacenews)
 - **Oct 02, 09:59 PM** - The spreadsheet behind the Golden Dome sticker shock (spacenews)
+- **Oct 02, 10:13 PM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
