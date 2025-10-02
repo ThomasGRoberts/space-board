@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 27 | 27 | 55 |
 | breaking_defense | 1 | 5 | 22 | 43 |
-| supercluster | 0 | 1 | 147 | 169 |
+| supercluster | 0 | 1 | 148 | 170 |
 | nyt | 0 | 0 | 21 | 41 |
 
 # Shown Order
@@ -6599,3 +6599,4 @@
 - **Oct 02, 04:25 AM** - Space Force declares ATLAS space domain awareness software ‘operational’ (breaking_defense)
 - **Oct 02, 04:39 AM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
 - **Oct 02, 04:53 AM** - China and U.S. take initial steps toward space-traffic coordination (spacenews)
+- **Oct 02, 05:07 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
