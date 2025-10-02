@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 21 | 27 | 52 |
-| breaking_defense | 3 | 4 | 24 | 44 |
+| spacenews | 10 | 21 | 28 | 53 |
+| breaking_defense | 3 | 4 | 23 | 44 |
 | supercluster | 0 | 1 | 154 | 288 |
 | nyt | 1 | 1 | 22 | 42 |
 
@@ -6771,3 +6771,4 @@
 - **Oct 02, 10:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 02, 10:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 02, 10:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 02, 10:59 PM** - NASA modifies Dream Chaser ISS cargo contract as Sierra Space shifts to defense work (spacenews)
