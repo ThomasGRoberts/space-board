@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 26 | 26 | 54 |
+| spacenews | 12 | 26 | 27 | 55 |
 | breaking_defense | 1 | 5 | 22 | 43 |
 | supercluster | 0 | 1 | 154 | 155 |
 | nyt | 0 | 0 | 21 | 41 |
@@ -6574,3 +6574,4 @@
 - **Oct 02, 01:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 02, 01:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 02, 01:51 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 02, 01:54 AM** - Startup’s radiation shield tech could bring high-performance AI chips to space (spacenews)
