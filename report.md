@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 27 | 28 | 56 |
 | breaking_defense | 1 | 5 | 21 | 43 |
-| supercluster | 0 | 1 | 147 | 183 |
+| supercluster | 0 | 1 | 148 | 184 |
 | nyt | 0 | 0 | 21 | 40 |
 
 # Shown Order
@@ -6620,3 +6620,4 @@
 - **Oct 02, 06:39 AM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
 - **Oct 02, 06:56 AM** - Starlink-compatible radios sought for Golden Dome interceptor satellite demo (spacenews)
 - **Oct 02, 07:15 AM** - University of Western Australia unveils optical ground network (spacenews)
+- **Oct 02, 07:31 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
