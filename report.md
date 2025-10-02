@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 27 | 28 | 56 |
 | breaking_defense | 1 | 5 | 21 | 43 |
-| supercluster | 0 | 1 | 149 | 185 |
+| supercluster | 0 | 1 | 150 | 186 |
 | nyt | 0 | 0 | 21 | 40 |
 
 # Shown Order
@@ -6622,3 +6622,4 @@
 - **Oct 02, 07:15 AM** - University of Western Australia unveils optical ground network (spacenews)
 - **Oct 02, 07:31 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 02, 07:33 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 02, 07:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
