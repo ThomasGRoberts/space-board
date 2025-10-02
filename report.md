@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 14 | 27 | 28 | 55 |
+| spacenews | 13 | 27 | 27 | 55 |
 | breaking_defense | 1 | 5 | 21 | 43 |
-| supercluster | 0 | 1 | 147 | 162 |
+| supercluster | 0 | 1 | 148 | 163 |
 | nyt | 0 | 0 | 21 | 41 |
 
 # Shown Order
@@ -6589,3 +6589,4 @@
 - **Oct 02, 03:23 AM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
 - **Oct 02, 03:41 AM** - China and U.S. take initial steps toward space-traffic coordination (spacenews)
 - **Oct 02, 03:55 AM** - The Exploration Company still studying Mission Possible reentry (spacenews)
+- **Oct 02, 04:11 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
