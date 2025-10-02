@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 27 | 28 | 55 |
-| breaking_defense | 1 | 5 | 21 | 43 |
+| breaking_defense | 1 | 5 | 22 | 44 |
 | supercluster | 0 | 1 | 154 | 190 |
 | nyt | 0 | 0 | 21 | 40 |
 
@@ -6627,3 +6627,4 @@
 - **Oct 02, 07:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 02, 07:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 02, 07:43 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 02, 07:45 AM** - SASC Dems skeptical of Golden Dome price, feasibility (breaking_defense)
