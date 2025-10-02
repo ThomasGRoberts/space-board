@@ -5,7 +5,7 @@
 | spacenews | 10 | 23 | 26 | 53 |
 | breaking_defense | 2 | 4 | 23 | 44 |
 | supercluster | 0 | 1 | 154 | 260 |
-| nyt | 0 | 0 | 22 | 42 |
+| nyt | 1 | 1 | 23 | 43 |
 
 # Shown Order
 
@@ -6729,3 +6729,4 @@
 - **Oct 02, 06:03 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 02, 06:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 02, 06:07 PM** - Close the gap: Turn the Franco-German missile early warning into measurable capability (breaking_defense)
+- **Oct 02, 06:21 PM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)

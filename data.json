@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-02T00:02:57.304882+00:00",
-    "trigger_count": 6,
-    "current_item_id": "71ff86e58cb7228de4bb510f6303084b",
+    "trigger_count": 0,
+    "current_item_id": "d855172213ca8d3b9bed11def4fe90f2",
     "data": [
         {
             "id": "d4812dba0008c0610e1bd4651d6d5b61",
@@ -12301,6 +12301,18 @@
             "fetched_datetime": "2025-10-02T18:07:31.846362Z",
             "shown_at": [
                 "2025-10-02T18:07:32.501827Z"
+            ]
+        },
+        {
+            "id": "d855172213ca8d3b9bed11def4fe90f2",
+            "source": "nyt",
+            "text": "What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life",
+            "source_link": "https://www.nytimes.com/2025/10/02/science/brown-dwarf-phosphine-life.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-02T18:21:57.227668Z",
+            "shown_at": [
+                "2025-10-02T18:21:57.928539Z"
             ]
         }
     ]
