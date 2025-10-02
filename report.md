@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 24 | 27 | 54 |
 | breaking_defense | 1 | 4 | 22 | 43 |
-| supercluster | 0 | 1 | 154 | 247 |
+| supercluster | 0 | 1 | 154 | 248 |
 | nyt | 0 | 0 | 22 | 41 |
 
 # Shown Order
@@ -6712,3 +6712,4 @@
 - **Oct 02, 04:23 PM** - What’s in a name: Goodbye Maxar, hello Vantor and Lanteris (breaking_defense)
 - **Oct 02, 04:39 PM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
 - **Oct 02, 04:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 02, 04:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
