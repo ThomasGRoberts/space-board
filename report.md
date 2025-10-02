@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 24 | 27 | 54 |
+| spacenews | 12 | 25 | 28 | 55 |
 | breaking_defense | 1 | 4 | 22 | 43 |
 | supercluster | 0 | 1 | 154 | 225 |
 | nyt | 0 | 0 | 21 | 41 |
@@ -6678,3 +6678,4 @@
 - **Oct 02, 01:01 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 02, 01:03 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 02, 01:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 02, 01:07 PM** - China’s ‘near space’ legal warfare (spacenews)

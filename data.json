@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-02T00:02:57.304882+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "02c45f7e77477ade6aa7d7f72a538cd0",
     "data": [
         {
             "id": "d4812dba0008c0610e1bd4651d6d5b61",
@@ -12228,6 +12228,18 @@
             "fetched_datetime": "2025-10-02T11:21:30.998557Z",
             "shown_at": [
                 "2025-10-02T11:21:31.563450Z"
+            ]
+        },
+        {
+            "id": "02c45f7e77477ade6aa7d7f72a538cd0",
+            "source": "spacenews",
+            "text": "China’s ‘near space’ legal warfare",
+            "source_link": "https://spacenews.com/chinas-near-space-legal-warfare/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-02T13:07:17.846633Z",
+            "shown_at": [
+                "2025-10-02T13:07:18.578124Z"
             ]
         }
     ]
