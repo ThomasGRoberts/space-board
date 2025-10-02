@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 24 | 27 | 53 |
+| spacenews | 11 | 24 | 28 | 54 |
 | breaking_defense | 1 | 4 | 22 | 43 |
 | supercluster | 0 | 1 | 154 | 239 |
 | nyt | 0 | 0 | 21 | 41 |
@@ -6698,3 +6698,4 @@
 - **Oct 02, 02:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 02, 03:01 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 02, 03:04 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 02, 03:08 PM** - Blue Origin to increase New Shepard flight rate and consider new spaceports (spacenews)
