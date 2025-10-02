@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 22 | 27 | 53 |
 | breaking_defense | 2 | 2 | 23 | 43 |
-| supercluster | 0 | 1 | 159 | 274 |
-| nyt | 1 | 1 | 22 | 42 |
+| supercluster | 0 | 1 | 158 | 274 |
+| nyt | 1 | 1 | 23 | 43 |
 
 # Shown Order
 
@@ -6749,3 +6749,4 @@
 - **Oct 02, 08:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 02, 08:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 02, 08:10 PM** - Space Force creates new intel ‘production’ unit (breaking_defense)
+- **Oct 02, 08:27 PM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
