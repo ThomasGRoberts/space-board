@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 24 | 27 | 54 |
-| breaking_defense | 1 | 4 | 22 | 43 |
+| breaking_defense | 1 | 4 | 23 | 44 |
 | supercluster | 0 | 1 | 154 | 253 |
-| nyt | 0 | 0 | 22 | 41 |
+| nyt | 0 | 0 | 21 | 41 |
 
 # Shown Order
 
@@ -6719,3 +6719,4 @@
 - **Oct 02, 05:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 02, 05:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 02, 05:09 PM** - Beyond Gravity to supply robotic arm thrusters for Swissto12 small GEOs (spacenews)
+- **Oct 02, 05:23 PM** - What’s in a name: Goodbye Maxar, hello Vantor and Lanteris (breaking_defense)
