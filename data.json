@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-02T00:02:57.304882+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6b22c12f374e1cb03c1a3719b34476c1",
+    "trigger_count": 0,
+    "current_item_id": "00b6c27d15251b572ad0f2647751a5c6",
     "data": [
         {
             "id": "d4812dba0008c0610e1bd4651d6d5b61",
@@ -12377,6 +12377,18 @@
             "fetched_datetime": "2025-10-02T21:45:40.964794Z",
             "shown_at": [
                 "2025-10-02T21:45:41.739332Z"
+            ]
+        },
+        {
+            "id": "00b6c27d15251b572ad0f2647751a5c6",
+            "source": "spacenews",
+            "text": "The spreadsheet behind the Golden Dome sticker shock",
+            "source_link": "https://spacenews.com/the-spreadsheet-behind-the-golden-dome-sticker-shock/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-02T21:59:38.181125Z",
+            "shown_at": [
+                "2025-10-02T21:59:39.005959Z"
             ]
         }
     ]

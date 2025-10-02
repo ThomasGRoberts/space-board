@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 21 | 28 | 52 |
+| spacenews | 12 | 22 | 29 | 53 |
 | breaking_defense | 3 | 4 | 23 | 44 |
 | supercluster | 0 | 1 | 154 | 281 |
 | nyt | 1 | 1 | 22 | 42 |
@@ -6761,3 +6761,4 @@
 - **Oct 02, 09:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 02, 09:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 02, 09:45 PM** - At IAC, global space cooperation meets American space dominance (spacenews)
+- **Oct 02, 09:59 PM** - The spreadsheet behind the Golden Dome sticker shock (spacenews)
