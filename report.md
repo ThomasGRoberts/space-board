@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 20 | 27 | 51 |
 | breaking_defense | 4 | 4 | 24 | 45 |
-| supercluster | 0 | 1 | 154 | 274 |
+| supercluster | 0 | 1 | 155 | 275 |
 | nyt | 1 | 1 | 22 | 42 |
 
 # Shown Order
@@ -6753,3 +6753,4 @@
 - **Oct 02, 08:42 PM** - Varda Space and Southern Launch agree to more capsule landings in Australia (spacenews)
 - **Oct 02, 08:58 PM** - Space Rapid Capabilities Office to award contracts to put radars on sats to warn of space-bound threats (breaking_defense)
 - **Oct 02, 09:16 PM** - Space Rapid Capabilities Office to put radars on sats to warn of space-bound threats (breaking_defense)
+- **Oct 02, 09:32 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
