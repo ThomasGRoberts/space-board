@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 21 | 28 | 52 |
-| breaking_defense | 3 | 4 | 23 | 44 |
+| breaking_defense | 3 | 4 | 24 | 45 |
 | supercluster | 0 | 1 | 154 | 281 |
 | nyt | 1 | 1 | 22 | 42 |
 
@@ -6763,3 +6763,4 @@
 - **Oct 02, 09:45 PM** - At IAC, global space cooperation meets American space dominance (spacenews)
 - **Oct 02, 09:59 PM** - The spreadsheet behind the Golden Dome sticker shock (spacenews)
 - **Oct 02, 10:13 PM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
+- **Oct 02, 10:29 PM** - Space Rapid Capabilities Office to award contracts to put radars on sats to warn of space-bound threats (breaking_defense)
