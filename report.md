@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 25 | 27 | 55 |
+| spacenews | 12 | 24 | 27 | 54 |
 | breaking_defense | 1 | 5 | 22 | 43 |
-| supercluster | 0 | 1 | 151 | 211 |
+| supercluster | 0 | 1 | 151 | 212 |
 | nyt | 0 | 0 | 22 | 41 |
 
 # Shown Order
@@ -6661,3 +6661,4 @@
 - **Oct 02, 11:02 AM** - Will Pentagon procurement reforms really stick this time? (spacenews)
 - **Oct 02, 11:21 AM** - Preparations on track for second New Glenn launch (spacenews)
 - **Oct 02, 11:35 AM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
+- **Oct 02, 11:52 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
