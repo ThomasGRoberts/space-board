@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 25 | 28 | 54 |
 | breaking_defense | 1 | 5 | 22 | 43 |
-| supercluster | 0 | 1 | 147 | 190 |
-| nyt | 0 | 0 | 22 | 41 |
+| supercluster | 0 | 1 | 148 | 191 |
+| nyt | 0 | 0 | 21 | 41 |
 
 # Shown Order
 
@@ -6630,3 +6630,4 @@
 - **Oct 02, 07:45 AM** - SASC Dems skeptical of Golden Dome price, feasibility (breaking_defense)
 - **Oct 02, 07:59 AM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
 - **Oct 02, 08:17 AM** - Startup’s radiation shield tech could bring high-performance AI chips to space (spacenews)
+- **Oct 02, 08:31 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
