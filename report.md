@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 25 | 28 | 54 |
 | breaking_defense | 1 | 5 | 22 | 43 |
-| supercluster | 0 | 1 | 149 | 199 |
+| supercluster | 0 | 1 | 150 | 200 |
 | nyt | 0 | 0 | 21 | 41 |
 
 # Shown Order
@@ -6642,3 +6642,4 @@
 - **Oct 02, 09:18 AM** - New contract signed between the NSSTC and U-Space: A new milestone in UAE-France cooperation in space innovation (spacenews)
 - **Oct 02, 09:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 02, 09:37 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 02, 09:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
