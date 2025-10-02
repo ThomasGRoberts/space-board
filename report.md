@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 25 | 27 | 54 |
-| breaking_defense | 1 | 5 | 21 | 43 |
+| breaking_defense | 1 | 5 | 22 | 44 |
 | supercluster | 0 | 1 | 154 | 155 |
 | nyt | 0 | 0 | 21 | 41 |
 
@@ -6575,3 +6575,4 @@
 - **Oct 02, 01:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 02, 01:51 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 02, 01:54 AM** - Startup’s radiation shield tech could bring high-performance AI chips to space (spacenews)
+- **Oct 02, 02:11 AM** - Space Force declares ATLAS space domain awareness software ‘operational’ (breaking_defense)
