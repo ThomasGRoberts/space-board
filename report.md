@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 25 | 27 | 54 |
+| spacenews | 12 | 25 | 28 | 55 |
 | breaking_defense | 1 | 5 | 22 | 44 |
 | supercluster | 0 | 1 | 154 | 197 |
 | nyt | 0 | 0 | 22 | 41 |
@@ -6639,3 +6639,4 @@
 - **Oct 02, 08:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 02, 08:47 AM** - What’s in a name: Goodbye Maxar, hello Vantor and Lanteris (breaking_defense)
 - **Oct 02, 09:02 AM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
+- **Oct 02, 09:18 AM** - New contract signed between the NSSTC and U-Space: A new milestone in UAE-France cooperation in space innovation (spacenews)
