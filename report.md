@@ -5,7 +5,7 @@
 | spacenews | 11 | 26 | 26 | 54 |
 | breaking_defense | 1 | 5 | 22 | 44 |
 | supercluster | 0 | 1 | 154 | 183 |
-| nyt | 0 | 0 | 21 | 40 |
+| nyt | 0 | 0 | 22 | 41 |
 
 # Shown Order
 
@@ -6617,3 +6617,4 @@
 - **Oct 02, 06:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 02, 06:21 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 02, 06:23 AM** - SPACECOM discussing expansion of joint space monitoring missions with allies (breaking_defense)
+- **Oct 02, 06:39 AM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
