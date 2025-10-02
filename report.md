@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 27 | 27 | 55 |
+| spacenews | 12 | 27 | 26 | 55 |
 | breaking_defense | 1 | 5 | 22 | 43 |
 | supercluster | 0 | 1 | 147 | 169 |
-| nyt | 0 | 0 | 21 | 40 |
+| nyt | 0 | 0 | 22 | 41 |
 
 # Shown Order
 
@@ -6597,3 +6597,4 @@
 - **Oct 02, 04:21 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 02, 04:23 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 02, 04:25 AM** - Space Force declares ATLAS space domain awareness software ‘operational’ (breaking_defense)
+- **Oct 02, 04:39 AM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
