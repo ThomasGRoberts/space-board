@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 21 | 27 | 52 |
-| breaking_defense | 3 | 3 | 24 | 44 |
+| breaking_defense | 4 | 4 | 24 | 45 |
 | supercluster | 0 | 1 | 154 | 274 |
 | nyt | 1 | 1 | 22 | 42 |
 
@@ -6752,3 +6752,4 @@
 - **Oct 02, 08:27 PM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
 - **Oct 02, 08:42 PM** - Varda Space and Southern Launch agree to more capsule landings in Australia (spacenews)
 - **Oct 02, 08:58 PM** - Space Rapid Capabilities Office to award contracts to put radars on sats to warn of space-bound threats (breaking_defense)
+- **Oct 02, 09:16 PM** - Space Rapid Capabilities Office to put radars on sats to warn of space-bound threats (breaking_defense)
