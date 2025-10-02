@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 25 | 28 | 55 |
+| spacenews | 12 | 25 | 28 | 54 |
 | breaking_defense | 1 | 5 | 22 | 43 |
-| supercluster | 0 | 1 | 148 | 197 |
-| nyt | 0 | 0 | 22 | 41 |
+| supercluster | 0 | 1 | 148 | 198 |
+| nyt | 0 | 0 | 21 | 41 |
 
 # Shown Order
 
@@ -6640,3 +6640,4 @@
 - **Oct 02, 08:47 AM** - What’s in a name: Goodbye Maxar, hello Vantor and Lanteris (breaking_defense)
 - **Oct 02, 09:02 AM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
 - **Oct 02, 09:18 AM** - New contract signed between the NSSTC and U-Space: A new milestone in UAE-France cooperation in space innovation (spacenews)
+- **Oct 02, 09:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
