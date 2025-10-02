@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 22 | 27 | 53 |
-| breaking_defense | 2 | 3 | 23 | 43 |
-| supercluster | 0 | 1 | 156 | 269 |
+| breaking_defense | 2 | 3 | 22 | 43 |
+| supercluster | 0 | 1 | 157 | 270 |
 | nyt | 1 | 1 | 22 | 42 |
 
 # Shown Order
@@ -6743,3 +6743,4 @@
 - **Oct 02, 07:39 PM** - Solstar wins NASA contract to develop lunar Wi-Fi systems (spacenews)
 - **Oct 02, 07:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 02, 07:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 02, 07:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
