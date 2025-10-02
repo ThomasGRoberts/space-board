@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-02T00:02:57.304882+00:00",
-    "trigger_count": 6,
-    "current_item_id": "987b17430b2a4f5f0ef41d956f18182f",
+    "trigger_count": 0,
+    "current_item_id": "79bc20a3bac241f4b32c54e56ee91864",
     "data": [
         {
             "id": "d4812dba0008c0610e1bd4651d6d5b61",
@@ -12186,6 +12186,18 @@
             "fetched_datetime": "2025-10-02T07:15:50.673939Z",
             "shown_at": [
                 "2025-10-02T07:15:51.449136Z"
+            ]
+        },
+        {
+            "id": "79bc20a3bac241f4b32c54e56ee91864",
+            "source": "spacenews",
+            "text": "Will Pentagon procurement reforms really stick this time?",
+            "source_link": "https://spacenews.com/will-pentagon-procurement-reforms-really-stick-this-time/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-02T11:02:11.289286Z",
+            "shown_at": [
+                "2025-10-02T11:02:12.100965Z"
             ]
         }
     ]
