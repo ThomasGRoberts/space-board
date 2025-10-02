@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 26 | 27 | 55 |
-| breaking_defense | 1 | 5 | 22 | 43 |
+| spacenews | 14 | 27 | 28 | 56 |
+| breaking_defense | 1 | 5 | 21 | 43 |
 | supercluster | 0 | 1 | 147 | 162 |
 | nyt | 0 | 0 | 21 | 41 |
 
@@ -6588,3 +6588,4 @@
 - **Oct 02, 03:10 AM** - German military to invest $41B in space capabilities (breaking_defense)
 - **Oct 02, 03:23 AM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
 - **Oct 02, 03:41 AM** - China and U.S. take initial steps toward space-traffic coordination (spacenews)
+- **Oct 02, 03:55 AM** - The Exploration Company still studying Mission Possible reentry (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-02T00:02:57.304882+00:00",
-    "trigger_count": 6,
-    "current_item_id": "51dd6b93facf54848714c15c904a1353",
+    "trigger_count": 0,
+    "current_item_id": "3186fd158b42ea252d5bab58f1c21c30",
     "data": [
         {
             "id": "d4812dba0008c0610e1bd4651d6d5b61",
@@ -12094,6 +12094,18 @@
             "fetched_datetime": "2025-10-02T03:41:55.657176Z",
             "shown_at": [
                 "2025-10-02T03:41:57.106500Z"
+            ]
+        },
+        {
+            "id": "3186fd158b42ea252d5bab58f1c21c30",
+            "source": "spacenews",
+            "text": "The Exploration Company still studying Mission Possible reentry",
+            "source_link": "https://spacenews.com/the-exploration-company-still-studying-mission-possible-reentry/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-02T03:55:55.592537Z",
+            "shown_at": [
+                "2025-10-02T03:55:56.153830Z"
             ]
         }
     ]
