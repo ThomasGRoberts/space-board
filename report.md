@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 27 | 26 | 55 |
-| breaking_defense | 1 | 5 | 21 | 43 |
+| breaking_defense | 1 | 5 | 22 | 44 |
 | supercluster | 0 | 1 | 154 | 176 |
 | nyt | 0 | 0 | 21 | 40 |
 
@@ -6606,3 +6606,4 @@
 - **Oct 02, 05:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 02, 05:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 02, 05:21 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 02, 05:23 AM** - The Break Out: The highs of AFA and a Trump sartorial mystery [VIDEO] (breaking_defense)
