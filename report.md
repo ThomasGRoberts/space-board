@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 26 | 26 | 54 |
+| spacenews | 11 | 26 | 27 | 55 |
 | breaking_defense | 1 | 5 | 22 | 43 |
-| supercluster | 0 | 1 | 150 | 183 |
+| supercluster | 0 | 1 | 148 | 183 |
 | nyt | 0 | 0 | 22 | 41 |
 
 # Shown Order
@@ -6618,3 +6618,4 @@
 - **Oct 02, 06:21 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 02, 06:23 AM** - SPACECOM discussing expansion of joint space monitoring missions with allies (breaking_defense)
 - **Oct 02, 06:39 AM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
+- **Oct 02, 06:56 AM** - Starlink-compatible radios sought for Golden Dome interceptor satellite demo (spacenews)
