@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 24 | 27 | 53 |
+| spacenews | 11 | 24 | 28 | 54 |
 | breaking_defense | 1 | 4 | 22 | 43 |
 | supercluster | 0 | 1 | 154 | 232 |
 | nyt | 0 | 0 | 21 | 41 |
@@ -6688,3 +6688,4 @@
 - **Oct 02, 02:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 02, 02:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 02, 02:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 02, 02:09 PM** - Italy’s crossroads: build its own satellites or lean on Starlink while waiting for IRIS² (spacenews)
