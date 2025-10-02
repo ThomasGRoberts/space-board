@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-02T00:02:57.304882+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "6b22c12f374e1cb03c1a3719b34476c1",
     "data": [
         {
             "id": "d4812dba0008c0610e1bd4651d6d5b61",
@@ -12365,6 +12365,18 @@
             "fetched_datetime": "2025-10-02T21:16:25.990094Z",
             "shown_at": [
                 "2025-10-02T21:16:27.459550Z"
+            ]
+        },
+        {
+            "id": "6b22c12f374e1cb03c1a3719b34476c1",
+            "source": "spacenews",
+            "text": "At IAC, global space cooperation meets American space dominance",
+            "source_link": "https://spacenews.com/at-iac-global-space-cooperation-meets-american-space-dominance/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-02T21:45:40.964794Z",
+            "shown_at": [
+                "2025-10-02T21:45:41.739332Z"
             ]
         }
     ]
