@@ -5,7 +5,7 @@
 | spacenews | 13 | 26 | 26 | 55 |
 | breaking_defense | 1 | 5 | 21 | 43 |
 | supercluster | 1 | 1 | 141 | 141 |
-| nyt | 0 | 0 | 20 | 40 |
+| nyt | 0 | 0 | 21 | 41 |
 
 # Shown Order
 
@@ -6556,3 +6556,4 @@
 - **Oct 01, 11:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 01, 11:55 PM** - ExLabs wins Space Force contract for reconfigurable space platform (spacenews)
 - **Oct 02, 12:11 AM** - Space Force declares ATLAS space domain awareness software ‘operational’ (breaking_defense)
+- **Oct 02, 12:25 AM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
