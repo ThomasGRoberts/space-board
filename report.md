@@ -5,7 +5,7 @@
 | spacenews | 10 | 23 | 26 | 53 |
 | breaking_defense | 2 | 4 | 23 | 44 |
 | supercluster | 0 | 1 | 154 | 260 |
-| nyt | 1 | 1 | 23 | 43 |
+| nyt | 1 | 1 | 22 | 42 |
 
 # Shown Order
 
