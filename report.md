@@ -5,7 +5,7 @@
 | spacenews | 12 | 25 | 27 | 54 |
 | breaking_defense | 1 | 5 | 22 | 44 |
 | supercluster | 0 | 1 | 148 | 162 |
-| nyt | 0 | 0 | 21 | 40 |
+| nyt | 0 | 0 | 22 | 41 |
 
 # Shown Order
 
@@ -6586,3 +6586,4 @@
 - **Oct 02, 02:51 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 02, 02:53 AM** - Startup’s radiation shield tech could bring high-performance AI chips to space (spacenews)
 - **Oct 02, 03:10 AM** - German military to invest $41B in space capabilities (breaking_defense)
+- **Oct 02, 03:23 AM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
