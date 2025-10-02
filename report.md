@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 21 | 27 | 52 |
-| breaking_defense | 3 | 4 | 23 | 44 |
+| breaking_defense | 3 | 4 | 24 | 45 |
 | supercluster | 0 | 1 | 154 | 288 |
-| nyt | 1 | 1 | 23 | 42 |
+| nyt | 1 | 1 | 22 | 42 |
 
 # Shown Order
 
@@ -6773,3 +6773,4 @@
 - **Oct 02, 10:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 02, 10:59 PM** - NASA modifies Dream Chaser ISS cargo contract as Sierra Space shifts to defense work (spacenews)
 - **Oct 02, 11:15 PM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
+- **Oct 02, 11:29 PM** - Space Rapid Capabilities Office to award contracts to put radars on sats to warn of space-bound threats (breaking_defense)
