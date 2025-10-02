@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-02T00:02:57.304882+00:00",
-    "trigger_count": 6,
-    "current_item_id": "04148c45920ade3072a7af7f1ca02f37",
+    "trigger_count": 0,
+    "current_item_id": "c8c54583dd43d8f7cfb5ccc8f44035d4",
     "data": [
         {
             "id": "d4812dba0008c0610e1bd4651d6d5b61",
@@ -12136,6 +12136,18 @@
             "fetched_datetime": "2025-10-02T03:55:55.592537Z",
             "shown_at": [
                 "2025-10-02T03:55:56.153830Z"
+            ]
+        },
+        {
+            "id": "c8c54583dd43d8f7cfb5ccc8f44035d4",
+            "source": "spacenews",
+            "text": "University of Western Australia unveils optical ground network",
+            "source_link": "https://spacenews.com/university-of-western-australia-unveils-optical-ground-network/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-02T07:15:50.673939Z",
+            "shown_at": [
+                "2025-10-02T07:15:51.449136Z"
             ]
         }
     ]

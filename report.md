@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 26 | 27 | 55 |
+| spacenews | 12 | 27 | 28 | 56 |
 | breaking_defense | 1 | 5 | 22 | 43 |
 | supercluster | 0 | 1 | 147 | 183 |
 | nyt | 0 | 0 | 21 | 41 |
@@ -6619,3 +6619,4 @@
 - **Oct 02, 06:23 AM** - SPACECOM discussing expansion of joint space monitoring missions with allies (breaking_defense)
 - **Oct 02, 06:39 AM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
 - **Oct 02, 06:56 AM** - Starlink-compatible radios sought for Golden Dome interceptor satellite demo (spacenews)
+- **Oct 02, 07:15 AM** - University of Western Australia unveils optical ground network (spacenews)
