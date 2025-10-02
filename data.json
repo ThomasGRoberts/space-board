@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-02T00:02:57.304882+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "71ff86e58cb7228de4bb510f6303084b",
     "data": [
         {
             "id": "d4812dba0008c0610e1bd4651d6d5b61",
@@ -12289,6 +12289,18 @@
             "fetched_datetime": "2025-10-02T13:07:17.846633Z",
             "shown_at": [
                 "2025-10-02T13:07:18.578124Z"
+            ]
+        },
+        {
+            "id": "71ff86e58cb7228de4bb510f6303084b",
+            "source": "breaking_defense",
+            "text": "Close the gap: Turn the Franco-German missile early warning into measurable capability",
+            "source_link": "https://breakingdefense.com/2025/10/close-the-gap-turn-the-franco-german-missile-early-warning-into-measurable-capability/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-02T18:07:31.846362Z",
+            "shown_at": [
+                "2025-10-02T18:07:32.501827Z"
             ]
         }
     ]
