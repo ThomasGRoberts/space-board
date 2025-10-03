@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 18 | 25 | 53 |
-| breaking_defense | 1 | 4 | 21 | 44 |
+| breaking_defense | 1 | 4 | 22 | 45 |
 | nyt | 1 | 2 | 21 | 43 |
 | supercluster | 1 | 1 | 41 | 41 |
 
@@ -6456,3 +6456,4 @@
 - **Oct 03, 09:08 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 03, 09:13 PM** - EchoStar clears key regulatory step for spectrum sale to SpaceX (spacenews)
 - **Oct 03, 09:34 PM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
+- **Oct 03, 09:56 PM** - What’s in a name: Goodbye Maxar, hello Vantor and Lanteris (breaking_defense)
