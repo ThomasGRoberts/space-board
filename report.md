@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 20 | 27 | 53 |
-| breaking_defense | 3 | 4 | 23 | 45 |
+| breaking_defense | 3 | 4 | 24 | 46 |
 | nyt | 1 | 1 | 22 | 44 |
 | supercluster | 0 | 0 | 154 | 301 |
 
@@ -6661,3 +6661,4 @@
 - **Oct 03, 12:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 03, 01:02 AM** - Flexell Space and NPC Spacemind Partner at IAC 2025 on Next-Generation Solar Array Development (spacenews)
 - **Oct 03, 01:17 AM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
+- **Oct 03, 01:31 AM** - Space Rapid Capabilities Office to put radars on sats to warn of space-bound threats (breaking_defense)
