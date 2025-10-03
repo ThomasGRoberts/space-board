@@ -5,7 +5,7 @@
 | spacenews | 7 | 17 | 25 | 52 |
 | breaking_defense | 3 | 4 | 23 | 45 |
 | nyt | 2 | 2 | 21 | 43 |
-| supercluster | 1 | 1 | 20 | 20 |
+| supercluster | 1 | 1 | 21 | 21 |
 
 # Shown Order
 
@@ -6425,3 +6425,4 @@
 - **Oct 03, 05:21 PM** - Maldives plots $50 million fund for sovereign space capabilities (spacenews)
 - **Oct 03, 05:36 PM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
 - **Oct 03, 05:51 PM** - The Break Out: The highs of AFA and a Trump sartorial mystery [VIDEO] (breaking_defense)
+- **Oct 03, 06:06 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
