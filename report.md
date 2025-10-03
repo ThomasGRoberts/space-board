@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 18 | 24 | 52 |
+| spacenews | 7 | 18 | 25 | 52 |
 | breaking_defense | 3 | 4 | 23 | 45 |
 | nyt | 2 | 2 | 21 | 42 |
 | supercluster | 1 | 1 | 13 | 13 |
@@ -6412,3 +6412,4 @@
 - **Oct 03, 04:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 03, 04:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 03, 04:19 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 03, 04:22 PM** - SpaceX’s D2D deal spurs space bulls (spacenews)
