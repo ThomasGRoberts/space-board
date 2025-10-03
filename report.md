@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 17 | 24 | 52 |
-| breaking_defense | 1 | 4 | 22 | 45 |
+| breaking_defense | 1 | 4 | 21 | 45 |
 | nyt | 1 | 2 | 20 | 42 |
-| supercluster | 1 | 1 | 43 | 43 |
+| supercluster | 1 | 1 | 44 | 44 |
 
 # Shown Order
 
@@ -6459,3 +6459,4 @@
 - **Oct 03, 09:56 PM** - What’s in a name: Goodbye Maxar, hello Vantor and Lanteris (breaking_defense)
 - **Oct 03, 10:20 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 03, 10:24 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 03, 10:30 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
