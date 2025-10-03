@@ -5,7 +5,7 @@
 | spacenews | 7 | 19 | 26 | 54 |
 | breaking_defense | 3 | 4 | 24 | 46 |
 | nyt | 2 | 2 | 23 | 45 |
-| supercluster | 0 | 0 | 154 | 307 |
+| supercluster | 0 | 0 | 155 | 307 |
 
 # Shown Order
 
@@ -6735,3 +6735,4 @@
 - **Oct 03, 08:39 AM** - Space Rapid Capabilities Office to put radars on sats to warn of space-bound threats (breaking_defense)
 - **Oct 03, 08:54 AM** - HEO looks to expand satellite imaging beyond low Earth orbit (spacenews)
 - **Oct 03, 09:09 AM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
+- **Oct 03, 09:23 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
