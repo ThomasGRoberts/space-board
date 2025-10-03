@@ -5,6 +5,7 @@
 | spacenews | 6 | 17 | 25 | 52 |
 | breaking_defense | 3 | 4 | 24 | 46 |
 | nyt | 2 | 2 | 22 | 43 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -6395,3 +6396,4 @@
 - **Oct 03, 12:19 PM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
 - **Oct 03, 12:47 PM** - Space Rapid Capabilities Office to put radars on sats to warn of space-bound threats (breaking_defense)
 - **Oct 03, 02:02 PM** - NASA’s newest astronauts will have to be willing to wait (spacenews)
+- **Oct 03, 02:18 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
