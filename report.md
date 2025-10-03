@@ -5,7 +5,7 @@
 | spacenews | 7 | 16 | 24 | 51 |
 | breaking_defense | 1 | 4 | 21 | 45 |
 | nyt | 1 | 2 | 20 | 42 |
-| supercluster | 1 | 1 | 47 | 47 |
+| supercluster | 1 | 1 | 48 | 48 |
 
 # Shown Order
 
@@ -6466,3 +6466,4 @@
 - **Oct 03, 10:39 PM** - Gilmour Space plans return to flight next year (spacenews)
 - **Oct 03, 10:59 PM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
 - **Oct 03, 11:21 PM** - Space Rapid Capabilities Office to award contracts to put radars on sats to warn of space-bound threats (breaking_defense)
+- **Oct 03, 11:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
