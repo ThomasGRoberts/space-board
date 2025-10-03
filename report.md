@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 17 | 24 | 51 |
+| spacenews | 7 | 18 | 25 | 52 |
 | breaking_defense | 3 | 4 | 23 | 45 |
 | nyt | 2 | 2 | 21 | 42 |
 | supercluster | 1 | 1 | 6 | 6 |
@@ -6402,3 +6402,4 @@
 - **Oct 03, 03:13 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 03, 03:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 03, 03:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 03, 03:19 PM** - The real space war is being fought in cyberspace (spacenews)
