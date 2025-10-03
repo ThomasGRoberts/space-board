@@ -5,7 +5,7 @@
 | spacenews | 7 | 19 | 27 | 54 |
 | breaking_defense | 3 | 4 | 24 | 46 |
 | nyt | 1 | 1 | 22 | 44 |
-| supercluster | 0 | 0 | 154 | 307 |
+| supercluster | 0 | 0 | 155 | 308 |
 
 # Shown Order
 
@@ -6724,3 +6724,4 @@
 - **Oct 03, 07:23 AM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
 - **Oct 03, 07:39 AM** - Space Force creates new intel ‘production’ unit (breaking_defense)
 - **Oct 03, 07:54 AM** - HEO looks to expand satellite imaging beyond low Earth orbit (spacenews)
+- **Oct 03, 08:11 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
