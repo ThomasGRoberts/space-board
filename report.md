@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 21 | 27 | 54 |
-| breaking_defense | 3 | 4 | 24 | 46 |
+| spacenews | 7 | 21 | 26 | 54 |
+| breaking_defense | 3 | 4 | 24 | 45 |
 | nyt | 1 | 1 | 22 | 43 |
-| supercluster | 0 | 0 | 154 | 301 |
+| supercluster | 0 | 0 | 155 | 302 |
 
 # Shown Order
 
@@ -6683,3 +6683,4 @@
 - **Oct 03, 03:15 AM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
 - **Oct 03, 03:30 AM** - SASC Dems skeptical of Golden Dome price, feasibility (breaking_defense)
 - **Oct 03, 03:43 AM** - Blue Origin to increase New Shepard flight rate and consider new spaceports (spacenews)
+- **Oct 03, 03:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
