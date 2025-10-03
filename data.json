@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-03T00:02:02.680945+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6a76238f38c15699af251775566cf83f",
+    "trigger_count": 0,
+    "current_item_id": "28a184350895a4a15cae8033a5fe1e0d",
     "data": [
         {
             "id": "00b6c27d15251b572ad0f2647751a5c6",
@@ -12018,6 +12018,18 @@
             "fetched_datetime": "2025-10-03T19:31:56.422420Z",
             "shown_at": [
                 "2025-10-03T19:31:57.026798Z"
+            ]
+        },
+        {
+            "id": "28a184350895a4a15cae8033a5fe1e0d",
+            "source": "breaking_defense",
+            "text": "Space Force taps SpaceX, ULA for first set of critical launches beyond FY27",
+            "source_link": "https://breakingdefense.com/2025/10/space-force-taps-spacex-ula-for-first-set-of-critical-launches-beyond-fy27/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-03T20:30:04.166191Z",
+            "shown_at": [
+                "2025-10-03T20:30:06.539158Z"
             ]
         }
     ]
