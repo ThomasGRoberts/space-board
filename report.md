@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 18 | 26 | 52 |
+| spacenews | 7 | 18 | 27 | 53 |
 | breaking_defense | 3 | 4 | 24 | 46 |
-| nyt | 1 | 1 | 23 | 44 |
+| nyt | 1 | 1 | 22 | 44 |
 | supercluster | 0 | 0 | 154 | 308 |
 
 # Shown Order
@@ -6712,3 +6712,4 @@
 - **Oct 03, 06:07 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 03, 06:09 AM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
 - **Oct 03, 06:25 AM** - Close the gap: Turn the Franco-German missile early warning into measurable capability (breaking_defense)
+- **Oct 03, 06:39 AM** - Firefly Alpha booster destroyed in ground test (spacenews)
