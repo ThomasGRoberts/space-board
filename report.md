@@ -5,7 +5,7 @@
 | spacenews | 7 | 18 | 24 | 52 |
 | breaking_defense | 3 | 4 | 23 | 45 |
 | nyt | 2 | 2 | 21 | 42 |
-| supercluster | 1 | 1 | 7 | 7 |
+| supercluster | 1 | 1 | 8 | 8 |
 
 # Shown Order
 
@@ -6406,3 +6406,4 @@
 - **Oct 03, 03:33 PM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
 - **Oct 03, 03:51 PM** - Close the gap: Turn the Franco-German missile early warning into measurable capability (breaking_defense)
 - **Oct 03, 04:07 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 03, 04:09 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
