@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 21 | 27 | 53 |
+| spacenews | 9 | 21 | 28 | 54 |
 | breaking_defense | 3 | 4 | 24 | 46 |
 | nyt | 1 | 1 | 22 | 43 |
-| supercluster | 0 | 0 | 153 | 301 |
+| supercluster | 0 | 0 | 151 | 301 |
 
 # Shown Order
 
@@ -6672,3 +6672,4 @@
 - **Oct 03, 02:13 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 03, 02:15 AM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
 - **Oct 03, 02:29 AM** - Close the gap: Turn the Franco-German missile early warning into measurable capability (breaking_defense)
+- **Oct 03, 02:43 AM** - Kayhan Space releases free software to speed up satellite visualization (spacenews)
