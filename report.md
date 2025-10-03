@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 18 | 25 | 52 |
 | breaking_defense | 3 | 4 | 22 | 45 |
-| nyt | 2 | 2 | 21 | 42 |
+| nyt | 2 | 2 | 22 | 43 |
 | supercluster | 1 | 1 | 13 | 13 |
 
 # Shown Order
@@ -6413,3 +6413,4 @@
 - **Oct 03, 04:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 03, 04:19 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 03, 04:22 PM** - SpaceX’s D2D deal spurs space bulls (spacenews)
+- **Oct 03, 04:35 PM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
