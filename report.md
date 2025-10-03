@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 20 | 26 | 53 |
-| breaking_defense | 3 | 4 | 24 | 45 |
+| breaking_defense | 3 | 4 | 24 | 46 |
 | nyt | 1 | 1 | 23 | 44 |
-| supercluster | 0 | 0 | 154 | 307 |
+| supercluster | 0 | 0 | 154 | 306 |
 
 # Shown Order
 
@@ -6691,3 +6691,4 @@
 - **Oct 03, 04:07 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 03, 04:09 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 03, 04:11 AM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
+- **Oct 03, 04:26 AM** - SASC Dems skeptical of Golden Dome price, feasibility (breaking_defense)
