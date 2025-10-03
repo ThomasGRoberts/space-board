@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 19 | 26 | 52 |
+| spacenews | 7 | 19 | 27 | 53 |
 | breaking_defense | 3 | 4 | 24 | 46 |
 | nyt | 1 | 1 | 22 | 44 |
 | supercluster | 0 | 0 | 154 | 301 |
@@ -6692,3 +6692,4 @@
 - **Oct 03, 04:09 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 03, 04:11 AM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
 - **Oct 03, 04:26 AM** - SASC Dems skeptical of Golden Dome price, feasibility (breaking_defense)
+- **Oct 03, 04:42 AM** - NASA Marshall director steps down (spacenews)
