@@ -5,7 +5,7 @@
 | spacenews | 9 | 21 | 27 | 54 |
 | breaking_defense | 3 | 4 | 24 | 45 |
 | nyt | 1 | 1 | 22 | 43 |
-| supercluster | 0 | 0 | 147 | 301 |
+| supercluster | 0 | 0 | 148 | 302 |
 
 # Shown Order
 
@@ -6673,3 +6673,4 @@
 - **Oct 03, 02:15 AM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
 - **Oct 03, 02:29 AM** - Close the gap: Turn the Franco-German missile early warning into measurable capability (breaking_defense)
 - **Oct 03, 02:43 AM** - Kayhan Space releases free software to speed up satellite visualization (spacenews)
+- **Oct 03, 02:58 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
