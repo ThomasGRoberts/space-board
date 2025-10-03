@@ -5,7 +5,7 @@
 | spacenews | 7 | 17 | 25 | 52 |
 | breaking_defense | 2 | 4 | 23 | 45 |
 | nyt | 1 | 2 | 21 | 43 |
-| supercluster | 1 | 1 | 27 | 27 |
+| supercluster | 1 | 1 | 28 | 28 |
 
 # Shown Order
 
@@ -6435,3 +6435,4 @@
 - **Oct 03, 06:19 PM** - Firefly Alpha booster destroyed in ground test (spacenews)
 - **Oct 03, 06:33 PM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
 - **Oct 03, 06:47 PM** - Space Force declares ATLAS space domain awareness software ‘operational’ (breaking_defense)
+- **Oct 03, 07:02 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
