@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 21 | 27 | 53 |
-| breaking_defense | 3 | 4 | 23 | 45 |
+| breaking_defense | 3 | 4 | 24 | 46 |
 | nyt | 1 | 1 | 22 | 44 |
 | supercluster | 0 | 0 | 154 | 301 |
 
@@ -6681,3 +6681,4 @@
 - **Oct 03, 03:10 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 03, 03:13 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 03, 03:15 AM** - NASA Artemis II Astronauts Aim to Make Space Great for All (nyt)
+- **Oct 03, 03:30 AM** - SASC Dems skeptical of Golden Dome price, feasibility (breaking_defense)
