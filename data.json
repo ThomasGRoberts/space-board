@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-03T00:02:02.680945+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b9d29837f8c91fc87f7e0543b380c8f6",
+    "trigger_count": 0,
+    "current_item_id": "4097f28a569a840207164dfddc9291d5",
     "data": [
         {
             "id": "00b6c27d15251b572ad0f2647751a5c6",
@@ -12004,6 +12004,18 @@
             "fetched_datetime": "2025-10-03T15:19:37.525868Z",
             "shown_at": [
                 "2025-10-03T15:19:38.143324Z"
+            ]
+        },
+        {
+            "id": "4097f28a569a840207164dfddc9291d5",
+            "source": "spacenews",
+            "text": "EchoStar clears key regulatory step for spectrum sale to SpaceX",
+            "source_link": "https://spacenews.com/echostar-clears-key-regulatory-step-for-spectrum-sale-to-spacex/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-03T19:31:56.422420Z",
+            "shown_at": [
+                "2025-10-03T19:31:57.026798Z"
             ]
         }
     ]
