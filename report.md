@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 18 | 27 | 54 |
 | breaking_defense | 3 | 4 | 24 | 46 |
-| nyt | 2 | 2 | 23 | 44 |
+| nyt | 2 | 2 | 24 | 45 |
 | supercluster | 0 | 0 | 154 | 308 |
 
 # Shown Order
@@ -6765,3 +6765,4 @@
 - **Oct 03, 11:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 03, 11:51 AM** - Space Force creates new intel ‘production’ unit (breaking_defense)
 - **Oct 03, 12:05 PM** - Beyond Gravity to supply robotic arm thrusters for Swissto12 small GEOs (spacenews)
+- **Oct 03, 12:19 PM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
