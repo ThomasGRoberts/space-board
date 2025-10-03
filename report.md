@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 18 | 26 | 53 |
 | breaking_defense | 2 | 4 | 22 | 45 |
-| nyt | 1 | 2 | 20 | 42 |
+| nyt | 1 | 2 | 21 | 43 |
 | supercluster | 1 | 1 | 34 | 34 |
 
 # Shown Order
@@ -6444,3 +6444,4 @@
 - **Oct 03, 07:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 03, 07:17 PM** - SpaceX’s D2D deal spurs space bulls (spacenews)
 - **Oct 03, 07:31 PM** - EchoStar clears key regulatory step for spectrum sale to SpaceX (spacenews)
+- **Oct 03, 07:49 PM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
