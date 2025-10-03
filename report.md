@@ -5,7 +5,7 @@
 | spacenews | 6 | 17 | 26 | 53 |
 | breaking_defense | 3 | 4 | 24 | 46 |
 | nyt | 2 | 2 | 24 | 45 |
-| supercluster | 0 | 0 | 155 | 309 |
+| supercluster | 0 | 0 | 156 | 310 |
 
 # Shown Order
 
@@ -6767,3 +6767,4 @@
 - **Oct 03, 12:05 PM** - Beyond Gravity to supply robotic arm thrusters for Swissto12 small GEOs (spacenews)
 - **Oct 03, 12:19 PM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
 - **Oct 03, 12:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 03, 12:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
