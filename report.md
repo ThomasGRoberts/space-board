@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 18 | 26 | 53 |
-| breaking_defense | 2 | 4 | 22 | 44 |
+| breaking_defense | 2 | 4 | 23 | 45 |
 | nyt | 1 | 2 | 21 | 43 |
 | supercluster | 1 | 1 | 34 | 34 |
 
@@ -6445,3 +6445,4 @@
 - **Oct 03, 07:17 PM** - SpaceX’s D2D deal spurs space bulls (spacenews)
 - **Oct 03, 07:31 PM** - EchoStar clears key regulatory step for spectrum sale to SpaceX (spacenews)
 - **Oct 03, 07:49 PM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
+- **Oct 03, 08:07 PM** - SASC Dems skeptical of Golden Dome price, feasibility (breaking_defense)
