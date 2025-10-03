@@ -5,7 +5,7 @@
 | spacenews | 8 | 19 | 27 | 54 |
 | breaking_defense | 3 | 4 | 24 | 46 |
 | nyt | 1 | 1 | 22 | 43 |
-| supercluster | 0 | 0 | 154 | 301 |
+| supercluster | 0 | 0 | 155 | 302 |
 
 # Shown Order
 
@@ -6714,3 +6714,4 @@
 - **Oct 03, 06:25 AM** - Close the gap: Turn the Franco-German missile early warning into measurable capability (breaking_defense)
 - **Oct 03, 06:39 AM** - Firefly Alpha booster destroyed in ground test (spacenews)
 - **Oct 03, 06:53 AM** - Starlab partners unveil full-scale mockup of commercial space station (spacenews)
+- **Oct 03, 07:07 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
