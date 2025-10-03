@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 20 | 27 | 53 |
+| spacenews | 9 | 21 | 28 | 54 |
 | breaking_defense | 3 | 4 | 24 | 46 |
 | nyt | 1 | 1 | 22 | 43 |
-| supercluster | 0 | 0 | 151 | 301 |
+| supercluster | 0 | 0 | 150 | 301 |
 
 # Shown Order
 
@@ -6662,3 +6662,4 @@
 - **Oct 03, 01:02 AM** - Flexell Space and NPC Spacemind Partner at IAC 2025 on Next-Generation Solar Array Development (spacenews)
 - **Oct 03, 01:17 AM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
 - **Oct 03, 01:31 AM** - Space Rapid Capabilities Office to put radars on sats to warn of space-bound threats (breaking_defense)
+- **Oct 03, 01:45 AM** - HEO looks to expand satellite imaging beyond low Earth orbit (spacenews)

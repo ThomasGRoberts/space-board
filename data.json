@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-03T00:02:02.680945+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2cb4164aeaa2eb9c2bab774a7478a745",
+    "trigger_count": 0,
+    "current_item_id": "47564743a6210dfb1735ff515e13af2d",
     "data": [
         {
             "id": "00b6c27d15251b572ad0f2647751a5c6",
@@ -12157,6 +12157,18 @@
                 "2025-07-01T14:25:25.294390Z",
                 "2025-07-01T15:24:38.508749Z",
                 "2025-07-01T19:47:23.431021Z"
+            ]
+        },
+        {
+            "id": "47564743a6210dfb1735ff515e13af2d",
+            "source": "spacenews",
+            "text": "HEO looks to expand satellite imaging beyond low Earth orbit",
+            "source_link": "https://spacenews.com/heo-looks-to-expand-satellite-imaging-beyond-low-earth-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-03T01:45:51.380617Z",
+            "shown_at": [
+                "2025-10-03T01:45:51.992235Z"
             ]
         }
     ]
