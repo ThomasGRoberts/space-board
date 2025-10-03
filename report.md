@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 18 | 25 | 52 |
-| breaking_defense | 3 | 4 | 22 | 44 |
+| breaking_defense | 3 | 4 | 23 | 45 |
 | nyt | 2 | 2 | 21 | 43 |
 | supercluster | 1 | 1 | 6 | 6 |
 
@@ -6404,3 +6404,4 @@
 - **Oct 03, 03:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 03, 03:19 PM** - The real space war is being fought in cyberspace (spacenews)
 - **Oct 03, 03:33 PM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
+- **Oct 03, 03:51 PM** - Close the gap: Turn the Franco-German missile early warning into measurable capability (breaking_defense)
