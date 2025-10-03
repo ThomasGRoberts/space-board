@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 18 | 25 | 52 |
 | breaking_defense | 3 | 5 | 23 | 46 |
-| nyt | 1 | 2 | 20 | 43 |
-| supercluster | 1 | 1 | 36 | 36 |
+| nyt | 1 | 2 | 20 | 42 |
+| supercluster | 1 | 1 | 37 | 37 |
 
 # Shown Order
 
@@ -6449,3 +6449,4 @@
 - **Oct 03, 08:30 PM** - Space Force taps SpaceX, ULA for first set of critical launches beyond FY27 (breaking_defense)
 - **Oct 03, 08:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 03, 08:52 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 03, 08:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
