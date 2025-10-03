@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 19 | 26 | 54 |
-| breaking_defense | 3 | 4 | 24 | 46 |
+| breaking_defense | 3 | 4 | 25 | 47 |
 | nyt | 2 | 2 | 23 | 44 |
-| supercluster | 0 | 0 | 160 | 308 |
+| supercluster | 0 | 0 | 159 | 308 |
 
 # Shown Order
 
@@ -6752,3 +6752,4 @@
 - **Oct 03, 10:31 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 03, 10:33 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 03, 10:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 03, 10:37 AM** - Space Force creates new intel ‘production’ unit (breaking_defense)
