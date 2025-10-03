@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 17 | 24 | 52 |
 | breaking_defense | 1 | 4 | 22 | 45 |
-| nyt | 1 | 2 | 20 | 43 |
-| supercluster | 1 | 1 | 41 | 41 |
+| nyt | 1 | 2 | 20 | 42 |
+| supercluster | 1 | 1 | 42 | 42 |
 
 # Shown Order
 
@@ -6457,3 +6457,4 @@
 - **Oct 03, 09:13 PM** - EchoStar clears key regulatory step for spectrum sale to SpaceX (spacenews)
 - **Oct 03, 09:34 PM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
 - **Oct 03, 09:56 PM** - What’s in a name: Goodbye Maxar, hello Vantor and Lanteris (breaking_defense)
+- **Oct 03, 10:20 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
