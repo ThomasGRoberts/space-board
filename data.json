@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-03T00:02:02.680945+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a3f71072ad5d712c4545cf78682a6a84",
+    "trigger_count": 0,
+    "current_item_id": "defc3d37652d1e6c0a704afafbe4572e",
     "data": [
         {
             "id": "00b6c27d15251b572ad0f2647751a5c6",
@@ -12219,6 +12219,18 @@
             "fetched_datetime": "2025-10-03T01:45:51.380617Z",
             "shown_at": [
                 "2025-10-03T01:45:51.992235Z"
+            ]
+        },
+        {
+            "id": "defc3d37652d1e6c0a704afafbe4572e",
+            "source": "spacenews",
+            "text": "Starlab partners unveil full-scale mockup of commercial space station",
+            "source_link": "https://spacenews.com/starlab-partners-unveil-full-scale-mockup-of-commercial-space-station/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-03T06:53:43.868468Z",
+            "shown_at": [
+                "2025-10-03T06:53:44.624564Z"
             ]
         }
     ]

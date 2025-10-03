@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 18 | 27 | 53 |
+| spacenews | 8 | 19 | 28 | 54 |
 | breaking_defense | 3 | 4 | 24 | 46 |
 | nyt | 1 | 1 | 22 | 44 |
-| supercluster | 0 | 0 | 154 | 304 |
+| supercluster | 0 | 0 | 154 | 303 |
 
 # Shown Order
 
@@ -6713,3 +6713,4 @@
 - **Oct 03, 06:09 AM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
 - **Oct 03, 06:25 AM** - Close the gap: Turn the Franco-German missile early warning into measurable capability (breaking_defense)
 - **Oct 03, 06:39 AM** - Firefly Alpha booster destroyed in ground test (spacenews)
+- **Oct 03, 06:53 AM** - Starlab partners unveil full-scale mockup of commercial space station (spacenews)
