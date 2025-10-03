@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 18 | 27 | 54 |
+| spacenews | 6 | 18 | 26 | 54 |
 | breaking_defense | 3 | 4 | 24 | 46 |
-| nyt | 2 | 2 | 23 | 44 |
+| nyt | 2 | 2 | 24 | 45 |
 | supercluster | 0 | 0 | 154 | 308 |
 
 # Shown Order
@@ -6755,3 +6755,4 @@
 - **Oct 03, 10:37 AM** - Space Force creates new intel ‘production’ unit (breaking_defense)
 - **Oct 03, 10:51 AM** - Startup’s radiation shield tech could bring high-performance AI chips to space (spacenews)
 - **Oct 03, 11:07 AM** - SERVIR lives on through concerted global campaign (spacenews)
+- **Oct 03, 11:22 AM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
