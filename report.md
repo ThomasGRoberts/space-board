@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 21 | 27 | 53 |
-| breaking_defense | 3 | 4 | 23 | 44 |
+| breaking_defense | 3 | 4 | 24 | 45 |
 | nyt | 1 | 1 | 22 | 43 |
 | supercluster | 0 | 1 | 154 | 295 |
 
@@ -6651,3 +6651,4 @@
 - **Oct 02, 11:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 03, 12:02 AM** - Solstar wins NASA contract to develop lunar Wi-Fi systems (spacenews)
 - **Oct 03, 12:17 AM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
+- **Oct 03, 12:31 AM** - Space Rapid Capabilities Office to put radars on sats to warn of space-bound threats (breaking_defense)
