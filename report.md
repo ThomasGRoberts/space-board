@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 19 | 26 | 54 |
-| breaking_defense | 3 | 4 | 24 | 46 |
+| breaking_defense | 3 | 4 | 25 | 47 |
 | nyt | 1 | 1 | 23 | 44 |
-| supercluster | 0 | 0 | 158 | 308 |
+| supercluster | 0 | 0 | 157 | 308 |
 
 # Shown Order
 
@@ -6732,3 +6732,4 @@
 - **Oct 03, 08:21 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 03, 08:23 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 03, 08:25 AM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
+- **Oct 03, 08:39 AM** - Space Rapid Capabilities Office to put radars on sats to warn of space-bound threats (breaking_defense)
