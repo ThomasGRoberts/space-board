@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 25 | 52 |
 | breaking_defense | 3 | 4 | 22 | 45 |
-| nyt | 2 | 2 | 21 | 42 |
+| nyt | 2 | 2 | 22 | 43 |
 | supercluster | 1 | 1 | 20 | 20 |
 
 # Shown Order
@@ -6423,3 +6423,4 @@
 - **Oct 03, 05:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 03, 05:19 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 03, 05:21 PM** - Maldives plots $50 million fund for sovereign space capabilities (spacenews)
+- **Oct 03, 05:36 PM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
