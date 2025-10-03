@@ -1,9 +1,159 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-10-02T00:02:57.304882+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "last_run_datetime": "2025-10-03T00:02:02.680945+00:00",
+    "trigger_count": 0,
+    "current_item_id": "5bbe987069f3dda53347c5b941379aca",
     "data": [
+        {
+            "id": "00b6c27d15251b572ad0f2647751a5c6",
+            "source": "spacenews",
+            "text": "The spreadsheet behind the Golden Dome sticker shock",
+            "source_link": "https://spacenews.com/the-spreadsheet-behind-the-golden-dome-sticker-shock/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-02T21:59:38.181125Z",
+            "shown_at": [
+                "2025-10-02T21:59:39.005959Z"
+            ]
+        },
+        {
+            "id": "6b22c12f374e1cb03c1a3719b34476c1",
+            "source": "spacenews",
+            "text": "At IAC, global space cooperation meets American space dominance",
+            "source_link": "https://spacenews.com/at-iac-global-space-cooperation-meets-american-space-dominance/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-02T21:45:40.964794Z",
+            "shown_at": [
+                "2025-10-02T21:45:41.739332Z"
+            ]
+        },
+        {
+            "id": "2cb4164aeaa2eb9c2bab774a7478a745",
+            "source": "breaking_defense",
+            "text": "Space Rapid Capabilities Office to put radars on sats to warn of space-bound threats",
+            "source_link": "https://breakingdefense.com/2025/10/space-rapid-capabilities-office-to-award-contracts-to-put-radars-on-sats-to-warn-of-space-bound-threats/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-02T21:16:25.990094Z",
+            "shown_at": [
+                "2025-10-02T21:16:27.459550Z"
+            ]
+        },
+        {
+            "id": "5226d61e9f3e3652cce1e9fb6d631ea7",
+            "source": "breaking_defense",
+            "text": "Space Rapid Capabilities Office to award contracts to put radars on sats to warn of space-bound threats",
+            "source_link": "https://breakingdefense.com/2025/10/space-rapid-capabilities-office-to-award-contracts-to-put-radars-on-sats-to-warn-of-space-bound-threats/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-02T20:58:04.753894Z",
+            "shown_at": [
+                "2025-10-02T20:58:05.665848Z",
+                "2025-10-02T22:29:55.225431Z",
+                "2025-10-02T23:29:40.337288Z"
+            ]
+        },
+        {
+            "id": "d855172213ca8d3b9bed11def4fe90f2",
+            "source": "nyt",
+            "text": "What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life",
+            "source_link": "https://www.nytimes.com/2025/10/02/science/brown-dwarf-phosphine-life.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-02T18:21:57.227668Z",
+            "shown_at": [
+                "2025-10-02T18:21:57.928539Z",
+                "2025-10-02T19:25:54.246170Z",
+                "2025-10-02T22:13:42.981444Z",
+                "2025-10-02T23:15:40.387488Z"
+            ]
+        },
+        {
+            "id": "71ff86e58cb7228de4bb510f6303084b",
+            "source": "breaking_defense",
+            "text": "Close the gap: Turn the Franco-German missile early warning into measurable capability",
+            "source_link": "https://breakingdefense.com/2025/10/close-the-gap-turn-the-franco-german-missile-early-warning-into-measurable-capability/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-02T18:07:31.846362Z",
+            "shown_at": [
+                "2025-10-02T18:07:32.501827Z"
+            ]
+        },
+        {
+            "id": "02c45f7e77477ade6aa7d7f72a538cd0",
+            "source": "spacenews",
+            "text": "China’s ‘near space’ legal warfare",
+            "source_link": "https://spacenews.com/chinas-near-space-legal-warfare/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-02T13:07:17.846633Z",
+            "shown_at": [
+                "2025-10-02T13:07:18.578124Z"
+            ]
+        },
+        {
+            "id": "f31f93a3a6d0f7725d07986609daa970",
+            "source": "spacenews",
+            "text": "Preparations on track for second New Glenn launch",
+            "source_link": "https://spacenews.com/preparations-on-track-for-second-new-glenn-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-02T11:21:30.998557Z",
+            "shown_at": [
+                "2025-10-02T11:21:31.563450Z"
+            ]
+        },
+        {
+            "id": "79bc20a3bac241f4b32c54e56ee91864",
+            "source": "spacenews",
+            "text": "Will Pentagon procurement reforms really stick this time?",
+            "source_link": "https://spacenews.com/will-pentagon-procurement-reforms-really-stick-this-time/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-02T11:02:11.289286Z",
+            "shown_at": [
+                "2025-10-02T11:02:12.100965Z"
+            ]
+        },
+        {
+            "id": "c8c54583dd43d8f7cfb5ccc8f44035d4",
+            "source": "spacenews",
+            "text": "University of Western Australia unveils optical ground network",
+            "source_link": "https://spacenews.com/university-of-western-australia-unveils-optical-ground-network/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-02T07:15:50.673939Z",
+            "shown_at": [
+                "2025-10-02T07:15:51.449136Z"
+            ]
+        },
+        {
+            "id": "3186fd158b42ea252d5bab58f1c21c30",
+            "source": "spacenews",
+            "text": "The Exploration Company still studying Mission Possible reentry",
+            "source_link": "https://spacenews.com/the-exploration-company-still-studying-mission-possible-reentry/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-02T03:55:55.592537Z",
+            "shown_at": [
+                "2025-10-02T03:55:56.153830Z"
+            ]
+        },
+        {
+            "id": "51dd6b93facf54848714c15c904a1353",
+            "source": "spacenews",
+            "text": "China and U.S. take initial steps toward space-traffic coordination",
+            "source_link": "https://spacenews.com/china-and-u-s-take-initial-steps-toward-space-traffic-coordination/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-02T03:41:55.657176Z",
+            "shown_at": [
+                "2025-10-02T03:41:57.106500Z",
+                "2025-10-02T04:53:55.428469Z"
+            ]
+        },
         {
             "id": "d4812dba0008c0610e1bd4651d6d5b61",
             "source": "spacenews",
@@ -824,7 +974,8 @@
             "fetched_datetime": "2025-09-28T22:08:00.104276Z",
             "shown_at": [
                 "2025-09-28T22:21:48.777307Z",
-                "2025-10-02T19:39:54.923509Z"
+                "2025-10-02T19:39:54.923509Z",
+                "2025-10-03T00:02:07.592134Z"
             ]
         },
         {
@@ -11994,420 +12145,6 @@
                 "2025-07-01T14:25:25.294390Z",
                 "2025-07-01T15:24:38.508749Z",
                 "2025-07-01T19:47:23.431021Z"
-            ]
-        },
-        {
-            "id": "997846781bf79f4872aa0977976b90e4",
-            "source": "spacenews",
-            "text": "A strategy for peaceful Golden Dome development",
-            "source_link": "https://spacenews.com/a-strategy-for-peaceful-golden-dome-development/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-24T19:35:29.276054Z",
-            "shown_at": [
-                "2025-06-24T19:35:34.473814Z",
-                "2025-06-27T20:19:48.819735Z",
-                "2025-06-28T00:17:40.648760Z",
-                "2025-06-29T02:09:33.848758Z"
-            ]
-        },
-        {
-            "id": "c28fd6b9443dbb1e4b03bfddc79392b1",
-            "source": "spacenews",
-            "text": "Lynk Global’s SPAC merger on the rocks",
-            "source_link": "https://spacenews.com/lynk-globals-spac-merger-on-the-rocks/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-24T18:25:33.334114Z",
-            "shown_at": [
-                "2025-06-24T18:25:33.869753Z",
-                "2025-06-25T10:21:34.151259Z",
-                "2025-06-26T14:03:51.815566Z",
-                "2025-06-29T11:33:43.201754Z"
-            ]
-        },
-        {
-            "id": "c945390398214ad13d1974e693389fb8",
-            "source": "breaking_defense",
-            "text": "Missile Defense Agency’s long-range radar tracks ICBM test target for first time",
-            "source_link": "https://breakingdefense.com/2025/06/missile-defense-agencys-long-range-radar-tracks-icbm-test-target-for-first-time/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-24T18:09:47.345042Z",
-            "shown_at": [
-                "2025-06-24T18:09:48.214415Z",
-                "2025-06-25T04:25:14.777769Z",
-                "2025-06-25T06:19:40.908797Z",
-                "2025-06-25T08:11:09.920503Z",
-                "2025-06-25T10:07:48.181493Z",
-                "2025-06-25T11:17:31.853426Z",
-                "2025-06-26T00:41:49.646463Z",
-                "2025-06-26T01:37:38.010529Z",
-                "2025-06-26T08:37:49.040777Z",
-                "2025-06-26T10:31:30.461097Z",
-                "2025-06-26T12:53:38.606414Z",
-                "2025-06-27T02:55:35.763753Z",
-                "2025-06-27T16:45:49.140268Z",
-                "2025-06-28T01:45:36.590576Z",
-                "2025-06-28T02:41:35.619563Z",
-                "2025-06-28T06:26:09.357455Z",
-                "2025-06-28T09:23:28.124809Z",
-                "2025-06-28T23:49:31.096979Z",
-                "2025-06-29T15:57:53.204184Z",
-                "2025-06-29T18:47:32.549935Z",
-                "2025-06-29T23:31:51.970499Z",
-                "2025-06-30T01:23:55.207863Z",
-                "2025-06-30T17:17:47.361104Z",
-                "2025-06-30T21:43:15.759041Z",
-                "2025-07-01T00:09:27.437531Z",
-                "2025-07-01T02:03:34.686103Z"
-            ]
-        },
-        {
-            "id": "c76f09b56f283057967d83a7b561af26",
-            "source": "breaking_defense",
-            "text": "The Weekly Break Out Ep. 22: How the US hit Iran, and spooky space moves [Video]",
-            "source_link": "https://breakingdefense.com/2025/06/the-weekly-break-out-ep-22-how-the-us-hit-iran-and-spooky-space-moves-video/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-24T14:49:35.246000Z",
-            "shown_at": [
-                "2025-06-24T14:49:35.912424Z",
-                "2025-06-25T02:17:31.127969Z",
-                "2025-06-25T18:44:05.148626Z",
-                "2025-06-25T22:49:08.890865Z",
-                "2025-06-26T02:33:30.090463Z",
-                "2025-06-26T03:33:46.020020Z",
-                "2025-06-26T05:27:41.972508Z",
-                "2025-06-26T09:33:45.127012Z",
-                "2025-06-26T14:49:47.749939Z",
-                "2025-06-27T06:39:29.140373Z",
-                "2025-06-27T18:55:30.230331Z",
-                "2025-06-28T05:29:44.216532Z",
-                "2025-06-28T08:09:50.854401Z",
-                "2025-06-28T10:19:40.518757Z",
-                "2025-06-29T11:05:09.819499Z",
-                "2025-07-01T04:53:29.613036Z",
-                "2025-07-01T05:49:26.078559Z",
-                "2025-07-01T11:33:31.159050Z",
-                "2025-07-01T13:43:40.879225Z"
-            ]
-        },
-        {
-            "id": "68b9910ca6e368cd42b1061c575561ee",
-            "source": "breaking_defense",
-            "text": "US Space Command’s Gen. Whiting talks Golden Dome, EW and China’s space-based kill chain",
-            "source_link": "https://breakingdefense.com/2025/06/us-space-commands-gen-whiting-talks-golden-dome-ew-and-chinas-space-based-kill-chain/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-24T13:53:37.865738Z",
-            "shown_at": [
-                "2025-06-24T13:53:38.606874Z",
-                "2025-06-25T05:21:34.884842Z",
-                "2025-06-25T17:05:38.542247Z",
-                "2025-06-27T17:41:16.990628Z",
-                "2025-06-29T07:21:38.426062Z",
-                "2025-06-30T00:27:35.989379Z",
-                "2025-06-30T06:05:40.163253Z",
-                "2025-06-30T09:52:09.566841Z",
-                "2025-06-30T15:51:35.557522Z",
-                "2025-06-30T19:17:44.904240Z",
-                "2025-06-30T20:43:51.430306Z",
-                "2025-06-30T23:13:41.607817Z"
-            ]
-        },
-        {
-            "id": "b329b7f93e33be7d57a637d36c73e6de",
-            "source": "spacenews",
-            "text": "Threatening the endless frontier of U.S. science",
-            "source_link": "https://spacenews.com/threatening-the-endless-frontier-of-u-s-science/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-24T11:13:32.839716Z",
-            "shown_at": [
-                "2025-06-24T11:13:33.415579Z",
-                "2025-06-25T20:25:38.891246Z",
-                "2025-06-26T00:13:29.370843Z",
-                "2025-06-26T07:53:40.327225Z",
-                "2025-06-26T15:03:35.278429Z",
-                "2025-06-26T21:47:46.754563Z",
-                "2025-06-27T05:57:11.722900Z",
-                "2025-06-27T14:11:48.431601Z",
-                "2025-06-27T15:07:36.594564Z"
-            ]
-        },
-        {
-            "id": "71cc178e124ebe221de87ca1049b3f39",
-            "source": "spacenews",
-            "text": "The Exploration Company claims partial success of Mission Possible reentry spacecraft",
-            "source_link": "https://spacenews.com/the-exploration-company-claims-partial-success-of-mission-possible-reentry-spacecraft/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-24T09:35:34.570211Z",
-            "shown_at": [
-                "2025-06-24T09:35:35.167222Z",
-                "2025-06-28T17:07:32.417519Z",
-                "2025-06-29T08:45:44.358659Z"
-            ]
-        },
-        {
-            "id": "c2752e06d8b56ccdc929b82c1cc0ecdc",
-            "source": "spacenews",
-            "text": "Laser rangefinder problems blamed for second ispace lunar lander crash",
-            "source_link": "https://spacenews.com/laser-rangefinder-problems-blamed-for-second-ispace-lunar-lander-crash/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-24T08:37:30.684475Z",
-            "shown_at": [
-                "2025-06-24T08:37:31.326053Z",
-                "2025-06-27T00:21:44.080308Z",
-                "2025-06-28T11:29:28.744885Z",
-                "2025-06-29T19:59:30.215300Z",
-                "2025-06-29T20:55:27.571086Z",
-                "2025-07-01T00:39:11.413835Z"
-            ]
-        },
-        {
-            "id": "8669a918a3860bf235dee539fcf9fc4d",
-            "source": "spacenews",
-            "text": "York Space launches U.S. military satellite on SpaceX rideshare",
-            "source_link": "https://spacenews.com/york-space-launches-u-s-military-satellite-on-spacex-rideshare/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-23T22:31:40.695258Z",
-            "shown_at": [
-                "2025-06-23T22:45:32.802660Z",
-                "2025-06-24T02:33:29.724882Z",
-                "2025-06-24T03:29:46.511066Z",
-                "2025-06-30T15:05:46.295047Z"
-            ]
-        },
-        {
-            "id": "93b42791c0adffa8191bef61232702e0",
-            "source": "spacenews",
-            "text": "Space Inventor Launches First Danish Arctic Satellite",
-            "source_link": "https://spacenews.com/space-inventor-launches-first-danish-arctic-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-23T22:31:40.695203Z",
-            "shown_at": [
-                "2025-06-23T22:31:41.363079Z",
-                "2025-06-24T21:31:13.989927Z",
-                "2025-06-24T22:29:41.661782Z",
-                "2025-06-25T12:27:35.577728Z",
-                "2025-06-27T07:51:16.396375Z"
-            ]
-        },
-        {
-            "id": "4be5dfd317c8a78de361b7318443412e",
-            "source": "spacenews",
-            "text": "Ukraine and partner countries to raise funds for imagery satellites to lessen reliance on the U.S.",
-            "source_link": "https://spacenews.com/ukraine-and-partner-countries-to-raise-funds-for-imagery-satellites-to-lessen-reliance-on-the-u-s/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-23T20:51:32.939859Z",
-            "shown_at": [
-                "2025-06-23T20:51:33.567407Z",
-                "2025-06-25T11:31:52.626873Z",
-                "2025-06-27T04:05:48.383066Z",
-                "2025-06-27T06:53:36.259981Z",
-                "2025-06-27T11:35:30.197148Z",
-                "2025-06-29T06:53:29.641975Z"
-            ]
-        },
-        {
-            "id": "a2772e6ace4986a566835894690c0000",
-            "source": "breaking_defense",
-            "text": "‘Bunch of SCARS’: Space Force’s Hammett speeds phased array antenna integration",
-            "source_link": "https://breakingdefense.com/2025/06/need-a-bunch-of-scars-space-forces-hammett-speeds-phased-array-antenna-integration/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-23T20:23:42.714623Z",
-            "shown_at": [
-                "2025-06-23T20:23:43.633109Z",
-                "2025-06-23T21:21:33.976124Z",
-                "2025-06-24T00:09:35.880532Z",
-                "2025-06-24T01:09:09.430299Z",
-                "2025-06-24T02:05:30.786766Z",
-                "2025-06-24T06:45:29.230263Z",
-                "2025-06-24T12:53:43.931515Z",
-                "2025-06-24T15:45:35.797580Z",
-                "2025-06-24T17:37:44.489981Z",
-                "2025-06-24T20:19:55.464390Z",
-                "2025-06-24T23:15:55.951728Z",
-                "2025-06-25T12:13:26.338561Z",
-                "2025-06-25T13:29:30.124831Z",
-                "2025-06-26T19:41:34.882154Z",
-                "2025-06-26T20:37:43.344015Z",
-                "2025-06-26T23:11:33.625195Z",
-                "2025-06-27T00:07:32.579256Z",
-                "2025-06-27T03:51:54.937925Z",
-                "2025-06-27T05:43:26.463228Z",
-                "2025-06-27T09:29:39.697867Z",
-                "2025-06-27T11:21:35.224946Z",
-                "2025-06-27T13:43:28.146201Z",
-                "2025-06-28T00:45:33.059299Z",
-                "2025-06-28T16:25:30.255880Z",
-                "2025-06-29T00:46:01.736953Z",
-                "2025-06-29T01:41:43.282462Z",
-                "2025-06-29T08:17:49.329553Z",
-                "2025-06-29T19:45:28.495495Z",
-                "2025-06-29T20:41:59.972845Z",
-                "2025-06-30T03:15:39.910841Z",
-                "2025-06-30T04:11:46.338391Z",
-                "2025-06-30T07:57:35.626663Z",
-                "2025-06-30T13:55:34.110055Z",
-                "2025-06-30T14:52:06.239829Z"
-            ]
-        },
-        {
-            "id": "51dd6b93facf54848714c15c904a1353",
-            "source": "spacenews",
-            "text": "China and U.S. take initial steps toward space-traffic coordination",
-            "source_link": "https://spacenews.com/china-and-u-s-take-initial-steps-toward-space-traffic-coordination/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-02T03:41:55.657176Z",
-            "shown_at": [
-                "2025-10-02T03:41:57.106500Z",
-                "2025-10-02T04:53:55.428469Z"
-            ]
-        },
-        {
-            "id": "3186fd158b42ea252d5bab58f1c21c30",
-            "source": "spacenews",
-            "text": "The Exploration Company still studying Mission Possible reentry",
-            "source_link": "https://spacenews.com/the-exploration-company-still-studying-mission-possible-reentry/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-02T03:55:55.592537Z",
-            "shown_at": [
-                "2025-10-02T03:55:56.153830Z"
-            ]
-        },
-        {
-            "id": "c8c54583dd43d8f7cfb5ccc8f44035d4",
-            "source": "spacenews",
-            "text": "University of Western Australia unveils optical ground network",
-            "source_link": "https://spacenews.com/university-of-western-australia-unveils-optical-ground-network/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-02T07:15:50.673939Z",
-            "shown_at": [
-                "2025-10-02T07:15:51.449136Z"
-            ]
-        },
-        {
-            "id": "79bc20a3bac241f4b32c54e56ee91864",
-            "source": "spacenews",
-            "text": "Will Pentagon procurement reforms really stick this time?",
-            "source_link": "https://spacenews.com/will-pentagon-procurement-reforms-really-stick-this-time/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-02T11:02:11.289286Z",
-            "shown_at": [
-                "2025-10-02T11:02:12.100965Z"
-            ]
-        },
-        {
-            "id": "f31f93a3a6d0f7725d07986609daa970",
-            "source": "spacenews",
-            "text": "Preparations on track for second New Glenn launch",
-            "source_link": "https://spacenews.com/preparations-on-track-for-second-new-glenn-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-02T11:21:30.998557Z",
-            "shown_at": [
-                "2025-10-02T11:21:31.563450Z"
-            ]
-        },
-        {
-            "id": "02c45f7e77477ade6aa7d7f72a538cd0",
-            "source": "spacenews",
-            "text": "China’s ‘near space’ legal warfare",
-            "source_link": "https://spacenews.com/chinas-near-space-legal-warfare/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-02T13:07:17.846633Z",
-            "shown_at": [
-                "2025-10-02T13:07:18.578124Z"
-            ]
-        },
-        {
-            "id": "71ff86e58cb7228de4bb510f6303084b",
-            "source": "breaking_defense",
-            "text": "Close the gap: Turn the Franco-German missile early warning into measurable capability",
-            "source_link": "https://breakingdefense.com/2025/10/close-the-gap-turn-the-franco-german-missile-early-warning-into-measurable-capability/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-02T18:07:31.846362Z",
-            "shown_at": [
-                "2025-10-02T18:07:32.501827Z"
-            ]
-        },
-        {
-            "id": "d855172213ca8d3b9bed11def4fe90f2",
-            "source": "nyt",
-            "text": "What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life",
-            "source_link": "https://www.nytimes.com/2025/10/02/science/brown-dwarf-phosphine-life.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-02T18:21:57.227668Z",
-            "shown_at": [
-                "2025-10-02T18:21:57.928539Z",
-                "2025-10-02T19:25:54.246170Z",
-                "2025-10-02T22:13:42.981444Z",
-                "2025-10-02T23:15:40.387488Z"
-            ]
-        },
-        {
-            "id": "5226d61e9f3e3652cce1e9fb6d631ea7",
-            "source": "breaking_defense",
-            "text": "Space Rapid Capabilities Office to award contracts to put radars on sats to warn of space-bound threats",
-            "source_link": "https://breakingdefense.com/2025/10/space-rapid-capabilities-office-to-award-contracts-to-put-radars-on-sats-to-warn-of-space-bound-threats/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-02T20:58:04.753894Z",
-            "shown_at": [
-                "2025-10-02T20:58:05.665848Z",
-                "2025-10-02T22:29:55.225431Z",
-                "2025-10-02T23:29:40.337288Z"
-            ]
-        },
-        {
-            "id": "2cb4164aeaa2eb9c2bab774a7478a745",
-            "source": "breaking_defense",
-            "text": "Space Rapid Capabilities Office to put radars on sats to warn of space-bound threats",
-            "source_link": "https://breakingdefense.com/2025/10/space-rapid-capabilities-office-to-award-contracts-to-put-radars-on-sats-to-warn-of-space-bound-threats/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-02T21:16:25.990094Z",
-            "shown_at": [
-                "2025-10-02T21:16:27.459550Z"
-            ]
-        },
-        {
-            "id": "6b22c12f374e1cb03c1a3719b34476c1",
-            "source": "spacenews",
-            "text": "At IAC, global space cooperation meets American space dominance",
-            "source_link": "https://spacenews.com/at-iac-global-space-cooperation-meets-american-space-dominance/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-02T21:45:40.964794Z",
-            "shown_at": [
-                "2025-10-02T21:45:41.739332Z"
-            ]
-        },
-        {
-            "id": "00b6c27d15251b572ad0f2647751a5c6",
-            "source": "spacenews",
-            "text": "The spreadsheet behind the Golden Dome sticker shock",
-            "source_link": "https://spacenews.com/the-spreadsheet-behind-the-golden-dome-sticker-shock/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-02T21:59:38.181125Z",
-            "shown_at": [
-                "2025-10-02T21:59:39.005959Z"
             ]
         }
     ]
