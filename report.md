@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 18 | 25 | 52 |
+| spacenews | 8 | 18 | 26 | 53 |
 | breaking_defense | 2 | 5 | 22 | 46 |
 | nyt | 1 | 2 | 20 | 42 |
 | supercluster | 1 | 1 | 41 | 41 |
@@ -6454,3 +6454,4 @@
 - **Oct 03, 08:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 03, 09:02 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 03, 09:08 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 03, 09:13 PM** - EchoStar clears key regulatory step for spectrum sale to SpaceX (spacenews)
