@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 16 | 24 | 51 |
+| spacenews | 7 | 17 | 25 | 52 |
 | breaking_defense | 1 | 4 | 21 | 45 |
 | nyt | 1 | 2 | 20 | 42 |
 | supercluster | 1 | 1 | 47 | 47 |
@@ -6463,3 +6463,4 @@
 - **Oct 03, 10:33 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 03, 10:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 03, 10:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 03, 10:39 PM** - Gilmour Space plans return to flight next year (spacenews)

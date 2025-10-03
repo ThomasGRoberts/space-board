@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-03T00:02:02.680945+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "4513b8525702c620ccb143517856e2b3",
     "data": [
         {
             "id": "00b6c27d15251b572ad0f2647751a5c6",
@@ -12046,6 +12046,18 @@
             "fetched_datetime": "2025-10-03T20:30:04.166191Z",
             "shown_at": [
                 "2025-10-03T20:30:06.539158Z"
+            ]
+        },
+        {
+            "id": "4513b8525702c620ccb143517856e2b3",
+            "source": "spacenews",
+            "text": "Gilmour Space plans return to flight next year",
+            "source_link": "https://spacenews.com/gilmour-space-plans-return-to-flight-next-year/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-03T22:39:52.154267Z",
+            "shown_at": [
+                "2025-10-03T22:39:52.828163Z"
             ]
         }
     ]
