@@ -5,7 +5,7 @@
 | spacenews | 6 | 17 | 24 | 52 |
 | breaking_defense | 3 | 4 | 23 | 45 |
 | nyt | 2 | 2 | 21 | 42 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -6398,3 +6398,4 @@
 - **Oct 03, 02:02 PM** - NASA’s newest astronauts will have to be willing to wait (spacenews)
 - **Oct 03, 03:07 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 03, 03:09 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 03, 03:11 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
