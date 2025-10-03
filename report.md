@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 18 | 25 | 52 |
-| breaking_defense | 3 | 4 | 22 | 44 |
+| breaking_defense | 3 | 4 | 23 | 45 |
 | nyt | 2 | 2 | 21 | 43 |
 | supercluster | 1 | 1 | 13 | 13 |
 
@@ -6414,3 +6414,4 @@
 - **Oct 03, 04:19 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 03, 04:22 PM** - SpaceX’s D2D deal spurs space bulls (spacenews)
 - **Oct 03, 04:35 PM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
+- **Oct 03, 04:49 PM** - Close the gap: Turn the Franco-German missile early warning into measurable capability (breaking_defense)
