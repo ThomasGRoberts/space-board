@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 10 | 22 | 48 |
 | breaking_defense | 0 | 3 | 22 | 45 |
-| supercluster | 0 | 1 | 153 | 187 |
+| supercluster | 0 | 1 | 154 | 188 |
 | nyt | 1 | 2 | 22 | 42 |
 
 # Shown Order
@@ -6560,3 +6560,4 @@
 - **Oct 04, 07:55 PM** - Private mission study a step toward offering Orion as a service (spacenews)
 - **Oct 04, 08:09 PM** - Sync Your Calendar With the Solar System (nyt)
 - **Oct 04, 08:23 PM** - The Break Out: The highs of AFA and a Trump sartorial mystery [VIDEO] (breaking_defense)
+- **Oct 04, 08:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
