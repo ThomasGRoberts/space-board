@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 10 | 23 | 47 |
-| breaking_defense | 1 | 4 | 22 | 45 |
+| spacenews | 3 | 10 | 22 | 47 |
+| breaking_defense | 1 | 4 | 23 | 46 |
 | supercluster | 0 | 1 | 146 | 159 |
 | nyt | 1 | 3 | 22 | 43 |
 
@@ -6519,3 +6519,4 @@
 - **Oct 04, 03:52 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 04, 03:55 PM** - Eartheye to offer tasking of satellites looking up and down (spacenews)
 - **Oct 04, 04:09 PM** - Sync Your Calendar With the Solar System (nyt)
+- **Oct 04, 04:23 PM** - Close the gap: Turn the Franco-German missile early warning into measurable capability (breaking_defense)
