@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-04T00:02:04.415611+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "0f1f314b833468e80995eaf7d440bf97",
     "data": [
         {
             "id": "4513b8525702c620ccb143517856e2b3",
@@ -11862,6 +11862,18 @@
                 "2025-07-02T07:31:52.878784Z",
                 "2025-07-02T08:31:56.455852Z",
                 "2025-07-02T11:23:37.448180Z"
+            ]
+        },
+        {
+            "id": "0f1f314b833468e80995eaf7d440bf97",
+            "source": "nyt",
+            "text": "Sync Your Calendar With the Solar System",
+            "source_link": "https://www.nytimes.com/explain/2025/science/astronomy-space-calendar-events",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-04T00:11:23.690552Z",
+            "shown_at": [
+                "2025-10-04T00:11:24.268747Z"
             ]
         }
     ]

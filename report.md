@@ -5,7 +5,7 @@
 | spacenews | 7 | 15 | 23 | 50 |
 | breaking_defense | 1 | 4 | 21 | 45 |
 | supercluster | 1 | 1 | 54 | 54 |
-| nyt | 1 | 2 | 20 | 42 |
+| nyt | 2 | 3 | 21 | 43 |
 
 # Shown Order
 
@@ -6367,3 +6367,4 @@
 - **Oct 04, 12:02 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 04, 12:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 04, 12:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 04, 12:11 AM** - Sync Your Calendar With the Solar System (nyt)
