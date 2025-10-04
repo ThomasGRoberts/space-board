@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 22 | 48 |
 | breaking_defense | 1 | 4 | 21 | 45 |
-| supercluster | 1 | 1 | 117 | 117 |
+| supercluster | 1 | 1 | 118 | 118 |
 | nyt | 1 | 3 | 19 | 42 |
 
 # Shown Order
@@ -6460,3 +6460,4 @@
 - **Oct 04, 09:47 AM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
 - **Oct 04, 10:05 AM** - Report claims NASA taking illegal steps to implement budget proposal (spacenews)
 - **Oct 04, 10:19 AM** - What’s in a name: Goodbye Maxar, hello Vantor and Lanteris (breaking_defense)
+- **Oct 04, 10:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
