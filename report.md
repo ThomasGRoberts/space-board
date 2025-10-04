@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 23 | 49 |
-| breaking_defense | 1 | 4 | 20 | 44 |
+| breaking_defense | 1 | 4 | 21 | 45 |
 | supercluster | 1 | 1 | 89 | 89 |
 | nyt | 2 | 3 | 20 | 42 |
 
@@ -6419,3 +6419,4 @@
 - **Oct 04, 05:31 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 04, 05:33 AM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
 - **Oct 04, 05:48 AM** - Synspective purchases 10 additional Electron launches (spacenews)
+- **Oct 04, 06:03 AM** - Close the gap: Turn the Franco-German missile early warning into measurable capability (breaking_defense)
