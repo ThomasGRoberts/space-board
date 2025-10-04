@@ -5,7 +5,7 @@
 | spacenews | 1 | 8 | 23 | 47 |
 | breaking_defense | 0 | 1 | 23 | 44 |
 | supercluster | 0 | 1 | 161 | 208 |
-| nyt | 1 | 2 | 22 | 43 |
+| nyt | 1 | 2 | 23 | 44 |
 
 # Shown Order
 
@@ -6588,3 +6588,4 @@
 - **Oct 04, 10:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 04, 10:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 04, 10:53 PM** - Report claims NASA taking illegal steps to implement budget proposal (spacenews)
+- **Oct 04, 11:09 PM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
