@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 23 | 49 |
 | breaking_defense | 1 | 4 | 21 | 45 |
-| supercluster | 1 | 1 | 89 | 89 |
+| supercluster | 1 | 1 | 90 | 90 |
 | nyt | 2 | 3 | 19 | 42 |
 
 # Shown Order
@@ -6420,3 +6420,4 @@
 - **Oct 04, 05:33 AM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
 - **Oct 04, 05:48 AM** - Synspective purchases 10 additional Electron launches (spacenews)
 - **Oct 04, 06:03 AM** - Close the gap: Turn the Franco-German missile early warning into measurable capability (breaking_defense)
+- **Oct 04, 06:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
