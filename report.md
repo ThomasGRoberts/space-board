@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 13 | 22 | 49 |
-| breaking_defense | 1 | 4 | 20 | 44 |
+| breaking_defense | 1 | 4 | 21 | 45 |
 | supercluster | 1 | 1 | 96 | 96 |
 | nyt | 2 | 3 | 20 | 42 |
 
@@ -6429,3 +6429,4 @@
 - **Oct 04, 06:32 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 04, 06:33 AM** - Sync Your Calendar With the Solar System (nyt)
 - **Oct 04, 06:51 AM** - China’s ‘near space’ legal warfare (spacenews)
+- **Oct 04, 07:06 AM** - What’s in a name: Goodbye Maxar, hello Vantor and Lanteris (breaking_defense)
