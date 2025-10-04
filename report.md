@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 10 | 22 | 47 |
+| spacenews | 4 | 10 | 23 | 48 |
 | breaking_defense | 1 | 4 | 22 | 45 |
 | supercluster | 1 | 1 | 152 | 152 |
 | nyt | 1 | 3 | 21 | 42 |
@@ -6507,3 +6507,4 @@
 - **Oct 04, 02:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 04, 02:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 04, 02:52 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 04, 02:56 PM** - Firefly Alpha booster destroyed in ground test (spacenews)
