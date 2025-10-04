@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 10 | 21 | 47 |
+| spacenews | 2 | 10 | 22 | 48 |
 | breaking_defense | 1 | 3 | 23 | 45 |
 | supercluster | 0 | 1 | 153 | 187 |
 | nyt | 1 | 2 | 21 | 42 |
@@ -6557,3 +6557,4 @@
 - **Oct 04, 07:46 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 04, 07:50 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 04, 07:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 04, 07:55 PM** - Private mission study a step toward offering Orion as a service (spacenews)
