@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 10 | 23 | 48 |
 | breaking_defense | 1 | 4 | 22 | 45 |
-| supercluster | 0 | 1 | 153 | 166 |
-| nyt | 1 | 3 | 21 | 42 |
+| supercluster | 0 | 1 | 151 | 166 |
+| nyt | 1 | 3 | 22 | 43 |
 
 # Shown Order
 
@@ -6528,3 +6528,4 @@
 - **Oct 04, 04:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 04, 04:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 04, 04:53 PM** - A perspective on space: Preparing for 2075 (spacenews)
+- **Oct 04, 05:07 PM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
