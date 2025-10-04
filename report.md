@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 23 | 49 |
-| breaking_defense | 1 | 4 | 20 | 44 |
+| breaking_defense | 1 | 4 | 21 | 45 |
 | supercluster | 1 | 1 | 75 | 75 |
 | nyt | 2 | 3 | 20 | 42 |
 
@@ -6399,3 +6399,4 @@
 - **Oct 04, 03:29 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 04, 03:31 AM** - Sync Your Calendar With the Solar System (nyt)
 - **Oct 04, 03:45 AM** - Australian and Japanese organizations join forces on optical communications (spacenews)
+- **Oct 04, 03:59 AM** - Space Force creates new intel ‘production’ unit (breaking_defense)
