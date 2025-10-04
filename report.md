@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 8 | 23 | 47 |
-| breaking_defense | 0 | 1 | 22 | 44 |
+| breaking_defense | 0 | 1 | 23 | 45 |
 | supercluster | 0 | 1 | 161 | 208 |
 | nyt | 1 | 2 | 23 | 43 |
 
@@ -6589,3 +6589,4 @@
 - **Oct 04, 10:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 04, 10:53 PM** - Report claims NASA taking illegal steps to implement budget proposal (spacenews)
 - **Oct 04, 11:09 PM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
+- **Oct 04, 11:23 PM** - Space Force creates new intel ‘production’ unit (breaking_defense)
