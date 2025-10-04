@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 8 | 22 | 47 |
+| spacenews | 1 | 8 | 23 | 48 |
 | breaking_defense | 0 | 1 | 23 | 44 |
 | supercluster | 0 | 1 | 161 | 208 |
 | nyt | 1 | 2 | 23 | 43 |
@@ -6587,3 +6587,4 @@
 - **Oct 04, 10:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 04, 10:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 04, 10:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 04, 10:53 PM** - Report claims NASA taking illegal steps to implement budget proposal (spacenews)
