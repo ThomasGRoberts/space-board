@@ -5,7 +5,7 @@
 | spacenews | 2 | 8 | 23 | 47 |
 | breaking_defense | 0 | 1 | 22 | 44 |
 | supercluster | 0 | 1 | 160 | 201 |
-| nyt | 1 | 2 | 22 | 43 |
+| nyt | 1 | 2 | 23 | 44 |
 
 # Shown Order
 
@@ -6578,3 +6578,4 @@
 - **Oct 04, 09:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 04, 09:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 04, 09:51 PM** - University of Western Australia unveils optical ground network (spacenews)
+- **Oct 04, 10:08 PM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
