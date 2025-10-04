@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 15 | 23 | 50 |
-| breaking_defense | 1 | 4 | 21 | 45 |
-| supercluster | 1 | 1 | 61 | 61 |
+| breaking_defense | 1 | 4 | 21 | 44 |
+| supercluster | 1 | 1 | 62 | 62 |
 | nyt | 2 | 3 | 20 | 42 |
 
 # Shown Order
@@ -6380,3 +6380,4 @@
 - **Oct 04, 01:25 AM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
 - **Oct 04, 01:39 AM** - China sends experimental Shiyan-30 satellites into orbit as launch cadence intensifies (spacenews)
 - **Oct 04, 01:54 AM** - Space Force creates new intel ‘production’ unit (breaking_defense)
+- **Oct 04, 02:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
