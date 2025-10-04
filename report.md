@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 15 | 23 | 50 |
-| breaking_defense | 1 | 4 | 21 | 45 |
-| supercluster | 1 | 1 | 54 | 54 |
+| breaking_defense | 1 | 4 | 21 | 44 |
+| supercluster | 1 | 1 | 55 | 55 |
 | nyt | 2 | 3 | 20 | 42 |
 
 # Shown Order
@@ -6370,3 +6370,4 @@
 - **Oct 04, 12:11 AM** - Sync Your Calendar With the Solar System (nyt)
 - **Oct 04, 12:36 AM** - IAI’s Game-Changing Communication Satellites: Revolutionizing Global Connectivity (spacenews)
 - **Oct 04, 12:55 AM** - Space Rapid Capabilities Office to award contracts to put radars on sats to warn of space-bound threats (breaking_defense)
+- **Oct 04, 01:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
