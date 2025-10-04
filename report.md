@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 10 | 22 | 47 |
 | breaking_defense | 1 | 4 | 23 | 45 |
-| supercluster | 0 | 1 | 148 | 161 |
+| supercluster | 0 | 1 | 149 | 162 |
 | nyt | 1 | 3 | 21 | 42 |
 
 # Shown Order
@@ -6522,3 +6522,4 @@
 - **Oct 04, 04:23 PM** - Close the gap: Turn the Franco-German missile early warning into measurable capability (breaking_defense)
 - **Oct 04, 04:38 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 04, 04:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 04, 04:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
