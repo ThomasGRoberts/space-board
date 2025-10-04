@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 15 | 23 | 50 |
 | breaking_defense | 1 | 4 | 21 | 44 |
-| supercluster | 1 | 1 | 62 | 62 |
+| supercluster | 1 | 1 | 63 | 63 |
 | nyt | 2 | 3 | 20 | 42 |
 
 # Shown Order
@@ -6381,3 +6381,4 @@
 - **Oct 04, 01:39 AM** - China sends experimental Shiyan-30 satellites into orbit as launch cadence intensifies (spacenews)
 - **Oct 04, 01:54 AM** - Space Force creates new intel ‘production’ unit (breaking_defense)
 - **Oct 04, 02:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 04, 02:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
