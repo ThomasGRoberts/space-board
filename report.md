@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 10 | 22 | 47 |
-| breaking_defense | 1 | 4 | 22 | 44 |
+| breaking_defense | 1 | 4 | 23 | 45 |
 | supercluster | 0 | 1 | 146 | 152 |
 | nyt | 1 | 3 | 22 | 43 |
 
@@ -6509,3 +6509,4 @@
 - **Oct 04, 02:52 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 04, 02:56 PM** - Firefly Alpha booster destroyed in ground test (spacenews)
 - **Oct 04, 03:10 PM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
+- **Oct 04, 03:25 PM** - Space Force creates new intel ‘production’ unit (breaking_defense)
