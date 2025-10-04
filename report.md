@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 22 | 49 |
-| breaking_defense | 1 | 4 | 20 | 44 |
+| breaking_defense | 1 | 4 | 21 | 45 |
 | supercluster | 1 | 1 | 110 | 110 |
 | nyt | 1 | 3 | 19 | 42 |
 
@@ -6449,3 +6449,4 @@
 - **Oct 04, 08:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 04, 08:40 AM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
 - **Oct 04, 08:57 AM** - Varda Space and Southern Launch agree to more capsule landings in Australia (spacenews)
+- **Oct 04, 09:15 AM** - What’s in a name: Goodbye Maxar, hello Vantor and Lanteris (breaking_defense)
