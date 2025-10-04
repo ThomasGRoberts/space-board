@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 22 | 48 |
-| breaking_defense | 1 | 4 | 20 | 45 |
+| spacenews | 6 | 13 | 23 | 49 |
+| breaking_defense | 1 | 4 | 20 | 44 |
 | supercluster | 1 | 1 | 124 | 124 |
 | nyt | 1 | 3 | 19 | 42 |
 
@@ -6467,3 +6467,4 @@
 - **Oct 04, 10:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 04, 10:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 04, 10:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 04, 10:49 AM** - SpaceX lands majority of U.S. national security launches awarded for fiscal year 2026 (spacenews)

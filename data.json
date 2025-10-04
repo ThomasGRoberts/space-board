@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-04T00:02:04.415611+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "9622cd20d5ec58af7bb50589c1c43db5",
     "data": [
         {
             "id": "4513b8525702c620ccb143517856e2b3",
@@ -11973,6 +11973,18 @@
                 "2025-10-04T03:31:51.259428Z",
                 "2025-10-04T04:32:33.353273Z",
                 "2025-10-04T06:33:55.283560Z"
+            ]
+        },
+        {
+            "id": "9622cd20d5ec58af7bb50589c1c43db5",
+            "source": "spacenews",
+            "text": "SpaceX lands majority of U.S. national security launches awarded for fiscal year 2026",
+            "source_link": "https://spacenews.com/spacex-lands-majority-of-u-s-national-security-launches-awarded-for-fiscal-year-2026/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-04T10:49:31.567694Z",
+            "shown_at": [
+                "2025-10-04T10:49:32.209379Z"
             ]
         }
     ]
