@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 15 | 23 | 50 |
+| spacenews | 7 | 15 | 24 | 51 |
 | breaking_defense | 1 | 4 | 20 | 44 |
 | supercluster | 1 | 1 | 61 | 61 |
 | nyt | 2 | 3 | 20 | 42 |
@@ -6378,3 +6378,4 @@
 - **Oct 04, 01:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 04, 01:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 04, 01:25 AM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
+- **Oct 04, 01:39 AM** - China sends experimental Shiyan-30 satellites into orbit as launch cadence intensifies (spacenews)
