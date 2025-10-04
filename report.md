@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 10 | 22 | 48 |
 | breaking_defense | 1 | 3 | 23 | 45 |
-| supercluster | 0 | 1 | 146 | 173 |
+| supercluster | 0 | 1 | 147 | 174 |
 | nyt | 1 | 2 | 21 | 42 |
 
 # Shown Order
@@ -6540,3 +6540,4 @@
 - **Oct 04, 05:53 PM** - The spreadsheet behind the Golden Dome sticker shock (spacenews)
 - **Oct 04, 06:07 PM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
 - **Oct 04, 06:21 PM** - SASC Dems skeptical of Golden Dome price, feasibility (breaking_defense)
+- **Oct 04, 06:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
