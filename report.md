@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 8 | 23 | 47 |
+| spacenews | 1 | 8 | 22 | 47 |
 | breaking_defense | 0 | 1 | 23 | 44 |
-| supercluster | 0 | 1 | 155 | 202 |
+| supercluster | 0 | 1 | 156 | 203 |
 | nyt | 1 | 2 | 23 | 43 |
 
 # Shown Order
@@ -6581,3 +6581,4 @@
 - **Oct 04, 10:08 PM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
 - **Oct 04, 10:25 PM** - Space Force taps SpaceX, ULA for first set of critical launches beyond FY27 (breaking_defense)
 - **Oct 04, 10:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 04, 10:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
