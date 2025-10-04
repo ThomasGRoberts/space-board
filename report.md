@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 10 | 22 | 48 |
 | breaking_defense | 0 | 1 | 23 | 44 |
-| supercluster | 0 | 1 | 153 | 194 |
+| supercluster | 0 | 1 | 154 | 195 |
 | nyt | 1 | 2 | 22 | 43 |
 
 # Shown Order
@@ -6570,3 +6570,4 @@
 - **Oct 04, 08:53 PM** - A perspective on space: Preparing for 2075 (spacenews)
 - **Oct 04, 09:09 PM** - Sync Your Calendar With the Solar System (nyt)
 - **Oct 04, 09:23 PM** - Space Force declares ATLAS space domain awareness software ‘operational’ (breaking_defense)
+- **Oct 04, 09:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
