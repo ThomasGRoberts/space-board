@@ -1,9 +1,190 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-10-03T00:02:02.680945+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2025-10-04T00:02:04.415611+00:00",
+    "trigger_count": 4,
     "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
     "data": [
+        {
+            "id": "4513b8525702c620ccb143517856e2b3",
+            "source": "spacenews",
+            "text": "Gilmour Space plans return to flight next year",
+            "source_link": "https://spacenews.com/gilmour-space-plans-return-to-flight-next-year/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-03T22:39:52.154267Z",
+            "shown_at": [
+                "2025-10-03T22:39:52.828163Z"
+            ]
+        },
+        {
+            "id": "28a184350895a4a15cae8033a5fe1e0d",
+            "source": "breaking_defense",
+            "text": "Space Force taps SpaceX, ULA for first set of critical launches beyond FY27",
+            "source_link": "https://breakingdefense.com/2025/10/space-force-taps-spacex-ula-for-first-set-of-critical-launches-beyond-fy27/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-03T20:30:04.166191Z",
+            "shown_at": [
+                "2025-10-03T20:30:06.539158Z"
+            ]
+        },
+        {
+            "id": "4097f28a569a840207164dfddc9291d5",
+            "source": "spacenews",
+            "text": "EchoStar clears key regulatory step for spectrum sale to SpaceX",
+            "source_link": "https://spacenews.com/echostar-clears-key-regulatory-step-for-spectrum-sale-to-spacex/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-03T19:31:56.422420Z",
+            "shown_at": [
+                "2025-10-03T19:31:57.026798Z",
+                "2025-10-03T21:13:33.624622Z"
+            ]
+        },
+        {
+            "id": "85a6130ae8fdc0505e96119eac9a2f50",
+            "source": "spacenews",
+            "text": "The real space war is being fought in cyberspace",
+            "source_link": "https://spacenews.com/the-real-space-war-is-being-fought-in-cyberspace/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-03T15:19:37.525868Z",
+            "shown_at": [
+                "2025-10-03T15:19:38.143324Z"
+            ]
+        },
+        {
+            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Starlink Satellites from Florida",
+            "source_link": "https://www.supercluster.com/launches/starlink-10-59",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-10-06T04:32:00.000Z",
+            "time_remaining": "2d 04h 29m",
+            "fetched_datetime": "2025-10-03T15:07:44.694196Z",
+            "shown_at": [
+                "2025-10-03T15:07:45.380621Z",
+                "2025-10-03T15:09:49.232692Z",
+                "2025-10-03T15:11:50.411620Z",
+                "2025-10-03T15:13:51.490462Z",
+                "2025-10-03T15:15:48.196923Z",
+                "2025-10-03T15:17:09.802607Z",
+                "2025-10-03T16:07:57.700238Z",
+                "2025-10-03T16:09:54.736065Z",
+                "2025-10-03T16:11:55.635327Z",
+                "2025-10-03T16:13:49.046915Z",
+                "2025-10-03T16:15:18.585958Z",
+                "2025-10-03T16:17:41.259765Z",
+                "2025-10-03T16:19:48.240671Z",
+                "2025-10-03T17:05:58.513635Z",
+                "2025-10-03T17:07:34.414783Z",
+                "2025-10-03T17:09:32.229876Z",
+                "2025-10-03T17:12:13.423218Z",
+                "2025-10-03T17:15:55.662205Z",
+                "2025-10-03T17:17:54.946732Z",
+                "2025-10-03T17:19:51.577251Z",
+                "2025-10-03T18:06:00.065095Z",
+                "2025-10-03T18:07:47.365836Z",
+                "2025-10-03T18:09:54.296625Z",
+                "2025-10-03T18:11:48.634672Z",
+                "2025-10-03T18:13:52.167937Z",
+                "2025-10-03T18:15:36.282699Z",
+                "2025-10-03T18:17:38.489737Z",
+                "2025-10-03T19:02:22.226005Z",
+                "2025-10-03T19:05:53.418807Z",
+                "2025-10-03T19:07:49.672897Z",
+                "2025-10-03T19:09:53.816179Z",
+                "2025-10-03T19:11:43.537343Z",
+                "2025-10-03T19:13:53.108365Z",
+                "2025-10-03T19:15:31.902625Z",
+                "2025-10-03T20:49:34.881621Z",
+                "2025-10-03T20:52:45.147159Z",
+                "2025-10-03T20:55:52.015655Z",
+                "2025-10-03T20:57:52.226415Z",
+                "2025-10-03T20:59:55.159182Z",
+                "2025-10-03T21:02:19.653913Z",
+                "2025-10-03T21:08:22.109292Z",
+                "2025-10-03T22:20:50.235456Z",
+                "2025-10-03T22:24:52.384175Z",
+                "2025-10-03T22:30:06.451151Z",
+                "2025-10-03T22:33:31.490645Z",
+                "2025-10-03T22:35:31.666137Z",
+                "2025-10-03T22:37:55.645336Z",
+                "2025-10-03T23:43:56.920535Z",
+                "2025-10-03T23:48:13.588497Z",
+                "2025-10-03T23:54:11.484258Z",
+                "2025-10-03T23:58:52.662062Z",
+                "2025-10-04T00:02:05.115499Z"
+            ]
+        },
+        {
+            "id": "75e1d8b1ce9d3b64814af0fbc0a1d131",
+            "source": "spacenews",
+            "text": "NASA’s newest astronauts will have to be willing to wait",
+            "source_link": "https://spacenews.com/nasas-newest-astronauts-will-have-to-be-willing-to-wait/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-03T14:02:17.503890Z",
+            "shown_at": [
+                "2025-10-03T14:02:18.245361Z"
+            ]
+        },
+        {
+            "id": "b6a3d05fb44f01a207d3b395c48f19a5",
+            "source": "spacenews",
+            "text": "SERVIR lives on through concerted global campaign",
+            "source_link": "https://spacenews.com/servir-lives-on-through-concerted-global-campaign/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-03T11:07:25.826327Z",
+            "shown_at": [
+                "2025-10-03T11:07:26.434577Z"
+            ]
+        },
+        {
+            "id": "99cea9d5c2e664801d6e5fe09032d158",
+            "source": "nyt",
+            "text": "Two Comets Are Moving Into Your Night Skies in October: How to Watch",
+            "source_link": "https://www.nytimes.com/2025/10/03/science/comets-a6-r2-how-to-see.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-03T09:09:19.916477Z",
+            "shown_at": [
+                "2025-10-03T09:09:20.616734Z",
+                "2025-10-03T10:08:02.335488Z",
+                "2025-10-03T12:19:48.496642Z",
+                "2025-10-03T15:33:41.080949Z",
+                "2025-10-03T19:49:50.742716Z",
+                "2025-10-03T21:34:58.990478Z"
+            ]
+        },
+        {
+            "id": "defc3d37652d1e6c0a704afafbe4572e",
+            "source": "spacenews",
+            "text": "Starlab partners unveil full-scale mockup of commercial space station",
+            "source_link": "https://spacenews.com/starlab-partners-unveil-full-scale-mockup-of-commercial-space-station/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-03T06:53:43.868468Z",
+            "shown_at": [
+                "2025-10-03T06:53:44.624564Z"
+            ]
+        },
+        {
+            "id": "47564743a6210dfb1735ff515e13af2d",
+            "source": "spacenews",
+            "text": "HEO looks to expand satellite imaging beyond low Earth orbit",
+            "source_link": "https://spacenews.com/heo-looks-to-expand-satellite-imaging-beyond-low-earth-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-03T01:45:51.380617Z",
+            "shown_at": [
+                "2025-10-03T01:45:51.992235Z",
+                "2025-10-03T07:54:05.968902Z",
+                "2025-10-03T08:54:12.487211Z"
+            ]
+        },
         {
             "id": "00b6c27d15251b572ad0f2647751a5c6",
             "source": "spacenews",
@@ -11679,391 +11860,6 @@
                 "2025-07-02T07:31:52.878784Z",
                 "2025-07-02T08:31:56.455852Z",
                 "2025-07-02T11:23:37.448180Z"
-            ]
-        },
-        {
-            "id": "bbfaa5a5a62e60352424c499bad2d218",
-            "source": "spacenews",
-            "text": "Isar Aerospace raises 150 million euros",
-            "source_link": "https://spacenews.com/isar-aerospace-raises-150-million-euros/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-25T16:23:36.644738Z",
-            "shown_at": [
-                "2025-06-25T16:23:37.789410Z",
-                "2025-06-26T04:03:33.622788Z",
-                "2025-06-29T00:17:49.148933Z"
-            ]
-        },
-        {
-            "id": "b62576a6d35d875d0c833f78b4383817",
-            "source": "breaking_defense",
-            "text": "New NATO commercial space strategy seeks to prompt more investment",
-            "source_link": "https://breakingdefense.com/2025/06/new-nato-commercial-space-strategy-seeks-to-prompt-more-investment/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-25T15:09:38.282028Z",
-            "shown_at": [
-                "2025-06-25T15:09:39.161982Z",
-                "2025-06-25T16:09:43.966174Z",
-                "2025-06-25T20:55:52.364172Z",
-                "2025-06-25T21:53:25.375908Z",
-                "2025-06-26T04:31:50.671242Z",
-                "2025-06-26T06:27:35.084286Z",
-                "2025-06-26T11:55:41.959090Z",
-                "2025-06-26T13:49:25.833913Z",
-                "2025-06-26T15:48:08.069557Z",
-                "2025-06-26T18:41:56.698493Z",
-                "2025-06-26T22:15:34.367313Z",
-                "2025-06-27T01:59:30.171882Z",
-                "2025-06-27T04:47:05.847479Z",
-                "2025-06-27T08:33:10.300911Z",
-                "2025-06-27T14:39:39.648468Z",
-                "2025-06-27T23:49:31.053204Z",
-                "2025-06-28T11:15:51.399149Z",
-                "2025-06-29T02:37:24.891112Z",
-                "2025-06-29T04:31:44.152359Z",
-                "2025-06-29T05:27:47.480090Z",
-                "2025-06-29T06:25:07.721964Z",
-                "2025-06-30T10:53:58.139053Z",
-                "2025-06-30T18:17:39.217741Z",
-                "2025-07-01T07:41:31.966015Z",
-                "2025-07-01T12:47:46.955644Z",
-                "2025-07-01T14:39:13.240752Z",
-                "2025-07-01T20:02:04.910784Z",
-                "2025-07-01T20:59:50.126114Z",
-                "2025-07-02T00:59:26.184206Z",
-                "2025-07-02T02:55:49.324012Z",
-                "2025-07-02T04:51:33.075901Z",
-                "2025-07-02T10:41:37.725713Z",
-                "2025-07-02T12:35:32.060235Z"
-            ]
-        },
-        {
-            "id": "448284e322760c92963c7fdf16930852",
-            "source": "spacenews",
-            "text": "Lux Aeterna emerges from stealth with funds for fully reusable satellite platform",
-            "source_link": "https://spacenews.com/lux-aeterna-emerges-from-stealth-with-funds-for-fully-reusable-satellite-platform/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-25T13:15:27.795142Z",
-            "shown_at": [
-                "2025-06-25T13:15:28.296779Z",
-                "2025-06-26T09:05:28.403720Z",
-                "2025-06-28T12:41:43.933998Z",
-                "2025-06-28T14:33:41.414379Z",
-                "2025-06-29T04:59:31.047920Z",
-                "2025-06-29T10:37:37.844496Z",
-                "2025-07-02T08:02:13.109518Z"
-            ]
-        },
-        {
-            "id": "1c8d68c9e0c32bc668a2b23337703b3e",
-            "source": "spacenews",
-            "text": "Maxar launches intelligence service focused on ‘persistent monitoring’",
-            "source_link": "https://spacenews.com/maxar-launches-intelligence-service-focused-on-persistent-monitoring/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-25T10:35:35.583720Z",
-            "shown_at": [
-                "2025-06-25T10:35:36.830145Z",
-                "2025-06-26T02:05:42.609099Z",
-                "2025-06-26T05:55:35.511016Z",
-                "2025-06-27T21:29:26.078542Z",
-                "2025-06-29T05:55:43.796787Z"
-            ]
-        },
-        {
-            "id": "16b4db6033edbaa0134cb155082a5405",
-            "source": "spacenews",
-            "text": "First Rubin Observatory images released amid concerns about budget cuts",
-            "source_link": "https://spacenews.com/first-rubin-observatory-images-released-amid-concerns-about-budget-cuts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-25T09:25:36.923704Z",
-            "shown_at": [
-                "2025-06-25T09:25:37.465264Z",
-                "2025-06-27T05:01:54.931608Z",
-                "2025-06-30T02:33:33.181571Z",
-                "2025-07-02T00:03:37.216505Z",
-                "2025-07-02T02:14:00.730346Z"
-            ]
-        },
-        {
-            "id": "5f9159e6c84b4b41b41ab08d2e0ab062",
-            "source": "nyt",
-            "text": "Four Astronauts Lift Off on Axiom Mission to the I.S.S.",
-            "source_link": "https://www.nytimes.com/2025/06/25/science/spacex-launch-axiom-mission-4-watch.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-25T07:57:39.528431Z",
-            "shown_at": [
-                "2025-06-25T07:57:41.186677Z",
-                "2025-06-26T15:19:29.011168Z",
-                "2025-06-26T20:09:37.724744Z",
-                "2025-06-26T22:57:33.852457Z",
-                "2025-06-27T02:41:40.831267Z",
-                "2025-06-27T12:17:40.758564Z",
-                "2025-06-27T15:21:37.747713Z",
-                "2025-06-27T16:31:49.640953Z",
-                "2025-06-27T22:39:40.058921Z",
-                "2025-06-28T08:55:44.982296Z",
-                "2025-06-29T20:13:26.448394Z",
-                "2025-06-29T23:59:09.061650Z",
-                "2025-06-30T10:25:33.096922Z",
-                "2025-06-30T11:21:55.561573Z",
-                "2025-06-30T19:02:04.446726Z",
-                "2025-07-01T02:45:46.197792Z",
-                "2025-07-01T07:27:29.724934Z",
-                "2025-07-01T12:33:37.618587Z",
-                "2025-07-02T00:45:39.130579Z"
-            ]
-        },
-        {
-            "id": "e6aed729fc8f122056c8c3496b2aeaf7",
-            "source": "spacenews",
-            "text": "Fourth Axiom Space private astronaut mission launched to ISS",
-            "source_link": "https://spacenews.com/fourth-axiom-space-private-astronaut-mission-launched-to-iss/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-25T07:43:27.168412Z",
-            "shown_at": [
-                "2025-06-25T07:43:27.726053Z",
-                "2025-06-29T21:51:27.814404Z",
-                "2025-07-01T06:17:30.448227Z",
-                "2025-07-01T07:13:37.276709Z"
-            ]
-        },
-        {
-            "id": "4869a0e1213932b3168883f83aad9f5e",
-            "source": "nyt",
-            "text": "SpaceX to Launch Axiom Mission 4: How to Watch",
-            "source_link": "https://www.nytimes.com/2025/06/25/science/spacex-launch-axiom-mission-4-watch.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-25T04:11:41.820497Z",
-            "shown_at": [
-                "2025-06-25T04:11:42.438409Z",
-                "2025-06-25T20:11:34.953946Z",
-                "2025-06-25T23:03:27.884337Z",
-                "2025-06-26T23:53:32.318083Z",
-                "2025-06-27T07:23:38.380474Z",
-                "2025-06-27T09:15:41.295644Z",
-                "2025-06-27T21:43:06.381523Z",
-                "2025-06-28T11:02:06.780762Z",
-                "2025-06-28T14:05:08.574737Z",
-                "2025-06-29T04:45:12.050302Z",
-                "2025-06-29T12:15:58.253920Z",
-                "2025-06-29T23:03:11.346389Z",
-                "2025-06-30T01:51:30.969973Z",
-                "2025-06-30T05:37:29.692058Z",
-                "2025-06-30T15:36:23.585286Z",
-                "2025-06-30T17:02:41.634384Z",
-                "2025-07-01T04:39:31.510262Z",
-                "2025-07-01T13:29:32.247761Z",
-                "2025-07-01T22:23:43.215097Z"
-            ]
-        },
-        {
-            "id": "0f1f314b833468e80995eaf7d440bf97",
-            "source": "nyt",
-            "text": "Sync Your Calendar With the Solar System",
-            "source_link": "https://www.nytimes.com/explain/2025/science/astronomy-space-calendar-events",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-25T00:11:42.747987Z",
-            "shown_at": [
-                "2025-06-25T00:11:43.335908Z",
-                "2025-06-25T01:07:31.336177Z",
-                "2025-06-26T21:05:36.697339Z",
-                "2025-06-27T13:29:35.191163Z",
-                "2025-06-28T13:09:21.062857Z",
-                "2025-06-30T00:55:35.287240Z",
-                "2025-06-30T06:34:01.355120Z",
-                "2025-06-30T20:30:02.476874Z",
-                "2025-07-01T14:25:25.294390Z",
-                "2025-07-01T15:24:38.508749Z",
-                "2025-07-01T19:47:23.431021Z"
-            ]
-        },
-        {
-            "id": "47564743a6210dfb1735ff515e13af2d",
-            "source": "spacenews",
-            "text": "HEO looks to expand satellite imaging beyond low Earth orbit",
-            "source_link": "https://spacenews.com/heo-looks-to-expand-satellite-imaging-beyond-low-earth-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-03T01:45:51.380617Z",
-            "shown_at": [
-                "2025-10-03T01:45:51.992235Z",
-                "2025-10-03T07:54:05.968902Z",
-                "2025-10-03T08:54:12.487211Z"
-            ]
-        },
-        {
-            "id": "defc3d37652d1e6c0a704afafbe4572e",
-            "source": "spacenews",
-            "text": "Starlab partners unveil full-scale mockup of commercial space station",
-            "source_link": "https://spacenews.com/starlab-partners-unveil-full-scale-mockup-of-commercial-space-station/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-03T06:53:43.868468Z",
-            "shown_at": [
-                "2025-10-03T06:53:44.624564Z"
-            ]
-        },
-        {
-            "id": "99cea9d5c2e664801d6e5fe09032d158",
-            "source": "nyt",
-            "text": "Two Comets Are Moving Into Your Night Skies in October: How to Watch",
-            "source_link": "https://www.nytimes.com/2025/10/03/science/comets-a6-r2-how-to-see.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-03T09:09:19.916477Z",
-            "shown_at": [
-                "2025-10-03T09:09:20.616734Z",
-                "2025-10-03T10:08:02.335488Z",
-                "2025-10-03T12:19:48.496642Z",
-                "2025-10-03T15:33:41.080949Z",
-                "2025-10-03T19:49:50.742716Z",
-                "2025-10-03T21:34:58.990478Z"
-            ]
-        },
-        {
-            "id": "b6a3d05fb44f01a207d3b395c48f19a5",
-            "source": "spacenews",
-            "text": "SERVIR lives on through concerted global campaign",
-            "source_link": "https://spacenews.com/servir-lives-on-through-concerted-global-campaign/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-03T11:07:25.826327Z",
-            "shown_at": [
-                "2025-10-03T11:07:26.434577Z"
-            ]
-        },
-        {
-            "id": "75e1d8b1ce9d3b64814af0fbc0a1d131",
-            "source": "spacenews",
-            "text": "NASA’s newest astronauts will have to be willing to wait",
-            "source_link": "https://spacenews.com/nasas-newest-astronauts-will-have-to-be-willing-to-wait/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-03T14:02:17.503890Z",
-            "shown_at": [
-                "2025-10-03T14:02:18.245361Z"
-            ]
-        },
-        {
-            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from Florida",
-            "source_link": "https://www.supercluster.com/launches/starlink-10-59",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-10-06T04:32:00.000Z",
-            "time_remaining": "2d 04h 33m",
-            "fetched_datetime": "2025-10-03T15:07:44.694196Z",
-            "shown_at": [
-                "2025-10-03T15:07:45.380621Z",
-                "2025-10-03T15:09:49.232692Z",
-                "2025-10-03T15:11:50.411620Z",
-                "2025-10-03T15:13:51.490462Z",
-                "2025-10-03T15:15:48.196923Z",
-                "2025-10-03T15:17:09.802607Z",
-                "2025-10-03T16:07:57.700238Z",
-                "2025-10-03T16:09:54.736065Z",
-                "2025-10-03T16:11:55.635327Z",
-                "2025-10-03T16:13:49.046915Z",
-                "2025-10-03T16:15:18.585958Z",
-                "2025-10-03T16:17:41.259765Z",
-                "2025-10-03T16:19:48.240671Z",
-                "2025-10-03T17:05:58.513635Z",
-                "2025-10-03T17:07:34.414783Z",
-                "2025-10-03T17:09:32.229876Z",
-                "2025-10-03T17:12:13.423218Z",
-                "2025-10-03T17:15:55.662205Z",
-                "2025-10-03T17:17:54.946732Z",
-                "2025-10-03T17:19:51.577251Z",
-                "2025-10-03T18:06:00.065095Z",
-                "2025-10-03T18:07:47.365836Z",
-                "2025-10-03T18:09:54.296625Z",
-                "2025-10-03T18:11:48.634672Z",
-                "2025-10-03T18:13:52.167937Z",
-                "2025-10-03T18:15:36.282699Z",
-                "2025-10-03T18:17:38.489737Z",
-                "2025-10-03T19:02:22.226005Z",
-                "2025-10-03T19:05:53.418807Z",
-                "2025-10-03T19:07:49.672897Z",
-                "2025-10-03T19:09:53.816179Z",
-                "2025-10-03T19:11:43.537343Z",
-                "2025-10-03T19:13:53.108365Z",
-                "2025-10-03T19:15:31.902625Z",
-                "2025-10-03T20:49:34.881621Z",
-                "2025-10-03T20:52:45.147159Z",
-                "2025-10-03T20:55:52.015655Z",
-                "2025-10-03T20:57:52.226415Z",
-                "2025-10-03T20:59:55.159182Z",
-                "2025-10-03T21:02:19.653913Z",
-                "2025-10-03T21:08:22.109292Z",
-                "2025-10-03T22:20:50.235456Z",
-                "2025-10-03T22:24:52.384175Z",
-                "2025-10-03T22:30:06.451151Z",
-                "2025-10-03T22:33:31.490645Z",
-                "2025-10-03T22:35:31.666137Z",
-                "2025-10-03T22:37:55.645336Z",
-                "2025-10-03T23:43:56.920535Z",
-                "2025-10-03T23:48:13.588497Z",
-                "2025-10-03T23:54:11.484258Z",
-                "2025-10-03T23:58:52.662062Z"
-            ]
-        },
-        {
-            "id": "85a6130ae8fdc0505e96119eac9a2f50",
-            "source": "spacenews",
-            "text": "The real space war is being fought in cyberspace",
-            "source_link": "https://spacenews.com/the-real-space-war-is-being-fought-in-cyberspace/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-03T15:19:37.525868Z",
-            "shown_at": [
-                "2025-10-03T15:19:38.143324Z"
-            ]
-        },
-        {
-            "id": "4097f28a569a840207164dfddc9291d5",
-            "source": "spacenews",
-            "text": "EchoStar clears key regulatory step for spectrum sale to SpaceX",
-            "source_link": "https://spacenews.com/echostar-clears-key-regulatory-step-for-spectrum-sale-to-spacex/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-03T19:31:56.422420Z",
-            "shown_at": [
-                "2025-10-03T19:31:57.026798Z",
-                "2025-10-03T21:13:33.624622Z"
-            ]
-        },
-        {
-            "id": "28a184350895a4a15cae8033a5fe1e0d",
-            "source": "breaking_defense",
-            "text": "Space Force taps SpaceX, ULA for first set of critical launches beyond FY27",
-            "source_link": "https://breakingdefense.com/2025/10/space-force-taps-spacex-ula-for-first-set-of-critical-launches-beyond-fy27/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-03T20:30:04.166191Z",
-            "shown_at": [
-                "2025-10-03T20:30:06.539158Z"
-            ]
-        },
-        {
-            "id": "4513b8525702c620ccb143517856e2b3",
-            "source": "spacenews",
-            "text": "Gilmour Space plans return to flight next year",
-            "source_link": "https://spacenews.com/gilmour-space-plans-return-to-flight-next-year/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-03T22:39:52.154267Z",
-            "shown_at": [
-                "2025-10-03T22:39:52.828163Z"
             ]
         }
     ]
