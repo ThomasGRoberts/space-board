@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 10 | 22 | 47 |
-| breaking_defense | 1 | 4 | 20 | 44 |
+| breaking_defense | 1 | 4 | 21 | 45 |
 | supercluster | 1 | 1 | 138 | 138 |
 | nyt | 1 | 3 | 20 | 43 |
 
@@ -6489,3 +6489,4 @@
 - **Oct 04, 12:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 04, 12:57 PM** - Eartheye to offer tasking of satellites looking up and down (spacenews)
 - **Oct 04, 01:13 PM** - Sync Your Calendar With the Solar System (nyt)
+- **Oct 04, 01:27 PM** - Space Force declares ATLAS space domain awareness software ‘operational’ (breaking_defense)
