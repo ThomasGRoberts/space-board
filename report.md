@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 23 | 49 |
 | breaking_defense | 1 | 4 | 21 | 45 |
-| supercluster | 1 | 1 | 76 | 76 |
+| supercluster | 1 | 1 | 77 | 77 |
 | nyt | 2 | 3 | 19 | 42 |
 
 # Shown Order
@@ -6401,3 +6401,4 @@
 - **Oct 04, 03:45 AM** - Australian and Japanese organizations join forces on optical communications (spacenews)
 - **Oct 04, 03:59 AM** - Space Force creates new intel ‘production’ unit (breaking_defense)
 - **Oct 04, 04:16 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 04, 04:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
