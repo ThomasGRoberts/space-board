@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 8 | 23 | 47 |
+| spacenews | 1 | 8 | 24 | 48 |
 | breaking_defense | 0 | 1 | 23 | 44 |
 | supercluster | 0 | 1 | 166 | 215 |
 | nyt | 1 | 2 | 23 | 43 |
@@ -6597,3 +6597,4 @@
 - **Oct 04, 11:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 04, 11:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 04, 11:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 04, 11:53 PM** - What Germany’s $41B investment in space could mean for Europe (spacenews)
