@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 10 | 22 | 47 |
-| breaking_defense | 1 | 4 | 21 | 44 |
+| breaking_defense | 1 | 4 | 22 | 45 |
 | supercluster | 1 | 1 | 145 | 145 |
 | nyt | 1 | 3 | 21 | 43 |
 
@@ -6499,3 +6499,4 @@
 - **Oct 04, 01:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 04, 01:56 PM** - Australia and UK extend Space Bridge partnership (spacenews)
 - **Oct 04, 02:12 PM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
+- **Oct 04, 02:25 PM** - Space Rapid Capabilities Office to award contracts to put radars on sats to warn of space-bound threats (breaking_defense)
