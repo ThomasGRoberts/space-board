@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 10 | 23 | 47 |
-| breaking_defense | 1 | 4 | 22 | 45 |
+| spacenews | 3 | 10 | 22 | 47 |
+| breaking_defense | 1 | 4 | 23 | 46 |
 | supercluster | 0 | 1 | 146 | 166 |
 | nyt | 1 | 3 | 22 | 43 |
 
@@ -6529,3 +6529,4 @@
 - **Oct 04, 04:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 04, 04:53 PM** - A perspective on space: Preparing for 2075 (spacenews)
 - **Oct 04, 05:07 PM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
+- **Oct 04, 05:23 PM** - Space Rapid Capabilities Office to award contracts to put radars on sats to warn of space-bound threats (breaking_defense)
