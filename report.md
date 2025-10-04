@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 11 | 21 | 47 |
 | breaking_defense | 1 | 4 | 21 | 45 |
-| supercluster | 1 | 1 | 124 | 124 |
+| supercluster | 1 | 1 | 125 | 125 |
 | nyt | 1 | 3 | 19 | 42 |
 
 # Shown Order
@@ -6470,3 +6470,4 @@
 - **Oct 04, 10:49 AM** - SpaceX lands majority of U.S. national security launches awarded for fiscal year 2026 (spacenews)
 - **Oct 04, 11:09 AM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
 - **Oct 04, 11:25 AM** - Space Force creates new intel ‘production’ unit (breaking_defense)
+- **Oct 04, 11:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
