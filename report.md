@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 15 | 23 | 50 |
 | breaking_defense | 1 | 4 | 21 | 44 |
-| supercluster | 1 | 1 | 68 | 68 |
+| supercluster | 1 | 1 | 69 | 69 |
 | nyt | 2 | 3 | 20 | 42 |
 
 # Shown Order
@@ -6390,3 +6390,4 @@
 - **Oct 04, 02:28 AM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
 - **Oct 04, 02:43 AM** - Galactic Energy secures $336 million, nears debut of new reusable and solid rockets (spacenews)
 - **Oct 04, 02:59 AM** - Space Force declares ATLAS space domain awareness software ‘operational’ (breaking_defense)
+- **Oct 04, 03:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
