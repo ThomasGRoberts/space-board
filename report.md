@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 9 | 22 | 47 |
+| spacenews | 2 | 9 | 23 | 48 |
 | breaking_defense | 0 | 1 | 23 | 44 |
 | supercluster | 0 | 1 | 160 | 201 |
 | nyt | 1 | 2 | 22 | 43 |
@@ -6577,3 +6577,4 @@
 - **Oct 04, 09:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 04, 09:47 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 04, 09:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 04, 09:51 PM** - University of Western Australia unveils optical ground network (spacenews)
