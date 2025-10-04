@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 8 | 23 | 47 |
 | breaking_defense | 0 | 1 | 23 | 44 |
-| supercluster | 0 | 1 | 161 | 208 |
+| supercluster | 0 | 1 | 162 | 209 |
 | nyt | 1 | 2 | 23 | 43 |
 
 # Shown Order
@@ -6590,3 +6590,4 @@
 - **Oct 04, 10:53 PM** - Report claims NASA taking illegal steps to implement budget proposal (spacenews)
 - **Oct 04, 11:09 PM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
 - **Oct 04, 11:23 PM** - Space Force creates new intel ‘production’ unit (breaking_defense)
+- **Oct 04, 11:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
