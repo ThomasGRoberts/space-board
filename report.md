@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 10 | 22 | 47 |
 | breaking_defense | 1 | 4 | 23 | 45 |
-| supercluster | 0 | 1 | 148 | 168 |
+| supercluster | 0 | 1 | 149 | 169 |
 | nyt | 1 | 3 | 21 | 42 |
 
 # Shown Order
@@ -6532,3 +6532,4 @@
 - **Oct 04, 05:23 PM** - Space Rapid Capabilities Office to award contracts to put radars on sats to warn of space-bound threats (breaking_defense)
 - **Oct 04, 05:38 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 04, 05:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 04, 05:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
