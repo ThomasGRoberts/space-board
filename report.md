@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 10 | 22 | 48 |
+| spacenews | 3 | 10 | 22 | 47 |
 | breaking_defense | 1 | 3 | 23 | 45 |
-| supercluster | 0 | 1 | 147 | 174 |
+| supercluster | 0 | 1 | 148 | 175 |
 | nyt | 1 | 2 | 21 | 42 |
 
 # Shown Order
@@ -6541,3 +6541,4 @@
 - **Oct 04, 06:07 PM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
 - **Oct 04, 06:21 PM** - SASC Dems skeptical of Golden Dome price, feasibility (breaking_defense)
 - **Oct 04, 06:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 04, 06:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
