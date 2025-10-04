@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 23 | 49 |
 | breaking_defense | 1 | 4 | 21 | 45 |
-| supercluster | 1 | 1 | 82 | 82 |
+| supercluster | 1 | 1 | 83 | 83 |
 | nyt | 2 | 3 | 19 | 42 |
 
 # Shown Order
@@ -6410,3 +6410,4 @@
 - **Oct 04, 04:32 AM** - Sync Your Calendar With the Solar System (nyt)
 - **Oct 04, 04:47 AM** - How time series data is fueling the final frontier (spacenews)
 - **Oct 04, 05:02 AM** - Space Rapid Capabilities Office to put radars on sats to warn of space-bound threats (breaking_defense)
+- **Oct 04, 05:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
