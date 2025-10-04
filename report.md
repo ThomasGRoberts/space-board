@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 22 | 48 |
 | breaking_defense | 1 | 4 | 21 | 45 |
-| supercluster | 1 | 1 | 96 | 96 |
-| nyt | 2 | 3 | 20 | 42 |
+| supercluster | 1 | 1 | 97 | 97 |
+| nyt | 2 | 3 | 19 | 42 |
 
 # Shown Order
 
@@ -6430,3 +6430,4 @@
 - **Oct 04, 06:33 AM** - Sync Your Calendar With the Solar System (nyt)
 - **Oct 04, 06:51 AM** - China’s ‘near space’ legal warfare (spacenews)
 - **Oct 04, 07:06 AM** - What’s in a name: Goodbye Maxar, hello Vantor and Lanteris (breaking_defense)
+- **Oct 04, 07:24 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
