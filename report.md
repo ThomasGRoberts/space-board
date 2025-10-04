@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 10 | 23 | 48 |
 | breaking_defense | 1 | 3 | 22 | 45 |
-| supercluster | 0 | 1 | 151 | 180 |
-| nyt | 1 | 2 | 21 | 42 |
+| supercluster | 0 | 1 | 150 | 180 |
+| nyt | 1 | 2 | 22 | 43 |
 
 # Shown Order
 
@@ -6548,3 +6548,4 @@
 - **Oct 04, 06:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 04, 06:52 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 04, 06:53 PM** - Synspective purchases 10 additional Electron launches (spacenews)
+- **Oct 04, 07:07 PM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
