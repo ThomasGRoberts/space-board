@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 10 | 23 | 47 |
 | breaking_defense | 1 | 4 | 22 | 45 |
-| supercluster | 0 | 1 | 153 | 159 |
-| nyt | 1 | 3 | 21 | 42 |
+| supercluster | 0 | 1 | 152 | 159 |
+| nyt | 1 | 3 | 22 | 43 |
 
 # Shown Order
 
@@ -6518,3 +6518,4 @@
 - **Oct 04, 03:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 04, 03:52 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 04, 03:55 PM** - Eartheye to offer tasking of satellites looking up and down (spacenews)
+- **Oct 04, 04:09 PM** - Sync Your Calendar With the Solar System (nyt)
