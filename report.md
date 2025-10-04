@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 11 | 21 | 47 |
-| breaking_defense | 1 | 4 | 20 | 44 |
+| breaking_defense | 1 | 4 | 21 | 45 |
 | supercluster | 1 | 1 | 124 | 124 |
 | nyt | 1 | 3 | 19 | 43 |
 
@@ -6469,3 +6469,4 @@
 - **Oct 04, 10:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 04, 10:49 AM** - SpaceX lands majority of U.S. national security launches awarded for fiscal year 2026 (spacenews)
 - **Oct 04, 11:09 AM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
+- **Oct 04, 11:25 AM** - Space Force creates new intel ‘production’ unit (breaking_defense)
