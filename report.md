@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 24 | 47 |
 | nyt | 0 | 2 | 24 | 43 |
-| breaking_defense | 0 | 1 | 23 | 44 |
-| supercluster | 0 | 1 | 162 | 229 |
+| breaking_defense | 0 | 1 | 24 | 45 |
+| supercluster | 0 | 1 | 161 | 229 |
 
 # Shown Order
 
@@ -6595,3 +6595,4 @@
 - **Oct 05, 01:53 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 05, 01:55 AM** - A perspective on space: Preparing for 2075 (spacenews)
 - **Oct 05, 02:11 AM** - Sync Your Calendar With the Solar System (nyt)
+- **Oct 05, 02:25 AM** - The Break Out: The highs of AFA and a Trump sartorial mystery [VIDEO] (breaking_defense)
