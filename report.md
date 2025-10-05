@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 24 | 46 |
 | nyt | 0 | 2 | 24 | 44 |
-| breaking_defense | 0 | 1 | 23 | 44 |
+| breaking_defense | 0 | 1 | 24 | 45 |
 | supercluster | 0 | 1 | 168 | 271 |
 
 # Shown Order
@@ -6655,3 +6655,4 @@
 - **Oct 05, 07:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 05, 07:47 AM** - SERVIR lives on through concerted global campaign (spacenews)
 - **Oct 05, 08:02 AM** - Sync Your Calendar With the Solar System (nyt)
+- **Oct 05, 08:17 AM** - Space Force creates new intel ‘production’ unit (breaking_defense)
