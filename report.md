@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 24 | 47 |
 | nyt | 0 | 1 | 24 | 47 |
-| breaking_defense | 0 | 0 | 24 | 46 |
-| supercluster | 0 | 0 | 168 | 327 |
+| breaking_defense | 0 | 0 | 25 | 47 |
+| supercluster | 0 | 0 | 168 | 326 |
 
 # Shown Order
 
@@ -6795,3 +6795,4 @@
 - **Oct 05, 10:07 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 05, 10:09 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 05, 10:11 PM** - Sync Your Calendar With the Solar System (nyt)
+- **Oct 05, 10:25 PM** - Space Force creates new intel ‘production’ unit (breaking_defense)
