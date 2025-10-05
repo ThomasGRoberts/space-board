@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 2 | 24 | 46 |
+| spacenews | 1 | 3 | 25 | 47 |
 | nyt | 0 | 1 | 24 | 46 |
 | breaking_defense | 0 | 0 | 24 | 46 |
 | supercluster | 0 | 0 | 167 | 321 |
@@ -6776,3 +6776,4 @@
 - **Oct 05, 07:54 PM** - At IAC, global space cooperation meets American space dominance (spacenews)
 - **Oct 05, 08:09 PM** - Sync Your Calendar With the Solar System (nyt)
 - **Oct 05, 08:23 PM** - What’s in a name: Goodbye Maxar, hello Vantor and Lanteris (breaking_defense)
+- **Oct 05, 08:39 PM** - ESA inaugurates new deep space antenna in Australia (spacenews)

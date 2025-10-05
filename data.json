@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-05T00:02:09.275679+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5ed5a8898868bab27fd7b514067d3b22",
+    "trigger_count": 0,
+    "current_item_id": "248fe190c169bd8bd9d3d47d6939356d",
     "data": [
         {
             "id": "9622cd20d5ec58af7bb50589c1c43db5",
@@ -12271,6 +12271,18 @@
                 "2025-06-26T20:51:32.272024Z",
                 "2025-06-27T17:13:36.588544Z",
                 "2025-07-02T20:07:35.180533Z"
+            ]
+        },
+        {
+            "id": "248fe190c169bd8bd9d3d47d6939356d",
+            "source": "spacenews",
+            "text": "ESA inaugurates new deep space antenna in Australia",
+            "source_link": "https://spacenews.com/esa-inaugurates-new-deep-space-antenna-in-australia/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-05T20:39:41.369748Z",
+            "shown_at": [
+                "2025-10-05T20:39:41.933735Z"
             ]
         }
     ]
