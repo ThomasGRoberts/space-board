@@ -5,7 +5,7 @@
 | spacenews | 0 | 5 | 24 | 45 |
 | nyt | 0 | 1 | 24 | 43 |
 | breaking_defense | 0 | 1 | 24 | 45 |
-| supercluster | 0 | 1 | 169 | 300 |
+| supercluster | 0 | 1 | 170 | 301 |
 
 # Shown Order
 
@@ -6697,3 +6697,4 @@
 - **Oct 05, 12:11 PM** - Sync Your Calendar With the Solar System (nyt)
 - **Oct 05, 12:27 PM** - Space Rapid Capabilities Office to award contracts to put radars on sats to warn of space-bound threats (breaking_defense)
 - **Oct 05, 12:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 05, 12:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
