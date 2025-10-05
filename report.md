@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 24 | 47 |
 | nyt | 0 | 2 | 24 | 43 |
-| breaking_defense | 0 | 1 | 23 | 44 |
-| supercluster | 0 | 1 | 165 | 236 |
+| breaking_defense | 0 | 1 | 24 | 45 |
+| supercluster | 0 | 1 | 163 | 236 |
 
 # Shown Order
 
@@ -6605,3 +6605,4 @@
 - **Oct 05, 02:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 05, 02:53 AM** - Maldives plots $50 million fund for sovereign space capabilities (spacenews)
 - **Oct 05, 03:09 AM** - Sync Your Calendar With the Solar System (nyt)
+- **Oct 05, 03:23 AM** - SASC Dems skeptical of Golden Dome price, feasibility (breaking_defense)
