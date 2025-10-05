@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 6 | 23 | 45 |
+| spacenews | 0 | 6 | 24 | 46 |
 | nyt | 0 | 1 | 24 | 43 |
 | breaking_defense | 0 | 1 | 24 | 44 |
 | supercluster | 0 | 1 | 168 | 292 |
@@ -6683,3 +6683,4 @@
 - **Oct 05, 10:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 05, 10:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 05, 10:53 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 05, 10:55 AM** - What’s next for direct-to-device after SpaceX’s blockbuster spectrum deal (spacenews)
