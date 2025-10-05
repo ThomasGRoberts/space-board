@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 5 | 24 | 45 |
+| spacenews | 0 | 5 | 24 | 46 |
 | nyt | 0 | 1 | 24 | 43 |
 | breaking_defense | 0 | 1 | 24 | 44 |
 | supercluster | 0 | 1 | 168 | 306 |
@@ -6703,3 +6703,4 @@
 - **Oct 05, 12:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 05, 12:52 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 05, 12:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 05, 12:57 PM** - ExLabs wins Space Force contract for reconfigurable space platform (spacenews)
