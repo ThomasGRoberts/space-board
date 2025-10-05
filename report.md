@@ -5,7 +5,7 @@
 | spacenews | 1 | 3 | 24 | 47 |
 | nyt | 0 | 1 | 24 | 46 |
 | breaking_defense | 0 | 0 | 24 | 46 |
-| supercluster | 0 | 0 | 163 | 321 |
+| supercluster | 0 | 0 | 164 | 320 |
 
 # Shown Order
 
@@ -6779,3 +6779,4 @@
 - **Oct 05, 08:39 PM** - ESA inaugurates new deep space antenna in Australia (spacenews)
 - **Oct 05, 08:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 05, 08:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 05, 08:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
