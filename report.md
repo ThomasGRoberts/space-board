@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 25 | 48 |
+| spacenews | 2 | 3 | 24 | 48 |
 | nyt | 0 | 1 | 24 | 47 |
 | breaking_defense | 0 | 0 | 24 | 47 |
-| supercluster | 0 | 0 | 163 | 329 |
+| supercluster | 0 | 0 | 164 | 329 |
 
 # Shown Order
 
@@ -6809,3 +6809,4 @@
 - **Oct 05, 11:37 PM** - How time series data is fueling the final frontier (spacenews)
 - **Oct 05, 11:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 05, 11:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 05, 11:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
