@@ -5,7 +5,7 @@
 | spacenews | 0 | 5 | 24 | 45 |
 | nyt | 0 | 1 | 24 | 43 |
 | breaking_defense | 0 | 1 | 24 | 45 |
-| supercluster | 0 | 1 | 168 | 292 |
+| supercluster | 0 | 1 | 169 | 293 |
 
 # Shown Order
 
@@ -6686,3 +6686,4 @@
 - **Oct 05, 10:55 AM** - What’s next for direct-to-device after SpaceX’s blockbuster spectrum deal (spacenews)
 - **Oct 05, 11:14 AM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
 - **Oct 05, 11:27 AM** - Space Rapid Capabilities Office to put radars on sats to warn of space-bound threats (breaking_defense)
+- **Oct 05, 11:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
