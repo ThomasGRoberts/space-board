@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 24 | 47 |
 | nyt | 0 | 2 | 24 | 43 |
-| breaking_defense | 0 | 1 | 23 | 44 |
-| supercluster | 0 | 1 | 168 | 250 |
+| breaking_defense | 0 | 1 | 24 | 45 |
+| supercluster | 0 | 1 | 167 | 250 |
 
 # Shown Order
 
@@ -6625,3 +6625,4 @@
 - **Oct 05, 04:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 05, 04:48 AM** - Will Pentagon procurement reforms really stick this time? (spacenews)
 - **Oct 05, 05:05 AM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
+- **Oct 05, 05:19 AM** - Close the gap: Turn the Franco-German missile early warning into measurable capability (breaking_defense)
