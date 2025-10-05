@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 8 | 24 | 47 |
-| nyt | 1 | 2 | 23 | 43 |
+| nyt | 0 | 2 | 23 | 44 |
 | breaking_defense | 0 | 1 | 23 | 44 |
 | supercluster | 0 | 1 | 161 | 215 |
 
@@ -6574,3 +6574,4 @@
 - **Oct 04, 11:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 04, 11:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 04, 11:53 PM** - What Germany’s $41B investment in space could mean for Europe (spacenews)
+- **Oct 05, 12:11 AM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
