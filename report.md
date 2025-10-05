@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 5 | 24 | 46 |
+| spacenews | 0 | 5 | 24 | 47 |
 | nyt | 0 | 1 | 24 | 44 |
 | breaking_defense | 0 | 1 | 24 | 45 |
 | supercluster | 0 | 1 | 168 | 313 |
@@ -6713,3 +6713,4 @@
 - **Oct 05, 01:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 05, 01:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 05, 01:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 05, 01:57 PM** - Starlab partners unveil full-scale mockup of commercial space station (spacenews)
