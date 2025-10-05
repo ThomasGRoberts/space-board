@@ -5,7 +5,7 @@
 | spacenews | 1 | 6 | 24 | 46 |
 | nyt | 0 | 1 | 24 | 43 |
 | breaking_defense | 0 | 1 | 24 | 44 |
-| supercluster | 0 | 1 | 165 | 285 |
+| supercluster | 0 | 1 | 166 | 286 |
 
 # Shown Order
 
@@ -6676,3 +6676,4 @@
 - **Oct 05, 09:52 AM** - Government contracts lay foundation for circular space economy (spacenews)
 - **Oct 05, 10:11 AM** - Sync Your Calendar With the Solar System (nyt)
 - **Oct 05, 10:27 AM** - Space Force taps SpaceX, ULA for first set of critical launches beyond FY27 (breaking_defense)
+- **Oct 05, 10:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
