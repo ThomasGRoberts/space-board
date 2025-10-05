@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 24 | 47 |
-| nyt | 0 | 2 | 24 | 43 |
+| nyt | 0 | 2 | 23 | 43 |
 | breaking_defense | 0 | 1 | 24 | 44 |
-| supercluster | 0 | 1 | 161 | 250 |
+| supercluster | 0 | 1 | 162 | 251 |
 
 # Shown Order
 
@@ -6626,3 +6626,4 @@
 - **Oct 05, 04:48 AM** - Will Pentagon procurement reforms really stick this time? (spacenews)
 - **Oct 05, 05:05 AM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
 - **Oct 05, 05:19 AM** - Close the gap: Turn the Franco-German missile early warning into measurable capability (breaking_defense)
+- **Oct 05, 05:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
