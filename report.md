@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 24 | 46 |
-| nyt | 0 | 1 | 23 | 42 |
+| nyt | 0 | 1 | 24 | 43 |
 | breaking_defense | 0 | 1 | 24 | 44 |
 | supercluster | 0 | 1 | 168 | 285 |
 
@@ -6674,3 +6674,4 @@
 - **Oct 05, 09:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 05, 09:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 05, 09:52 AM** - Government contracts lay foundation for circular space economy (spacenews)
+- **Oct 05, 10:11 AM** - Sync Your Calendar With the Solar System (nyt)
