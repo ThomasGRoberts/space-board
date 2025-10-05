@@ -5,7 +5,7 @@
 | spacenews | 0 | 2 | 24 | 45 |
 | nyt | 0 | 1 | 24 | 46 |
 | breaking_defense | 0 | 1 | 24 | 47 |
-| supercluster | 0 | 0 | 167 | 314 |
+| supercluster | 0 | 0 | 167 | 315 |
 
 # Shown Order
 
@@ -6766,3 +6766,4 @@
 - **Oct 05, 06:55 PM** - OQ Technology expands satellite IoT services to Australia (spacenews)
 - **Oct 05, 07:11 PM** - Sync Your Calendar With the Solar System (nyt)
 - **Oct 05, 07:25 PM** - What’s in a name: Goodbye Maxar, hello Vantor and Lanteris (breaking_defense)
+- **Oct 05, 07:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
