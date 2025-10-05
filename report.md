@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 3 | 24 | 46 |
 | nyt | 0 | 1 | 24 | 46 |
-| breaking_defense | 0 | 1 | 23 | 46 |
+| breaking_defense | 0 | 1 | 24 | 47 |
 | supercluster | 0 | 0 | 168 | 314 |
 
 # Shown Order
@@ -6745,3 +6745,4 @@
 - **Oct 05, 04:54 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 05, 04:57 PM** - SpaceX lands majority of U.S. national security launches awarded for fiscal year 2026 (spacenews)
 - **Oct 05, 05:13 PM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
+- **Oct 05, 05:27 PM** - Space Rapid Capabilities Office to award contracts to put radars on sats to warn of space-bound threats (breaking_defense)
