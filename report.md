@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 3 | 24 | 47 |
-| nyt | 0 | 1 | 23 | 45 |
+| nyt | 0 | 1 | 24 | 46 |
 | breaking_defense | 0 | 1 | 24 | 46 |
-| supercluster | 0 | 0 | 168 | 319 |
+| supercluster | 0 | 0 | 168 | 318 |
 
 # Shown Order
 
@@ -6734,3 +6734,4 @@
 - **Oct 05, 03:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 05, 03:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 05, 03:59 PM** - Flexell Space and NPC Spacemind Partner at IAC 2025 on Next-Generation Solar Array Development (spacenews)
+- **Oct 05, 04:13 PM** - Sync Your Calendar With the Solar System (nyt)
