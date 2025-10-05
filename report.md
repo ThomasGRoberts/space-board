@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 5 | 24 | 46 |
 | nyt | 0 | 1 | 24 | 44 |
-| breaking_defense | 0 | 1 | 24 | 44 |
+| breaking_defense | 0 | 1 | 24 | 45 |
 | supercluster | 0 | 1 | 168 | 306 |
 
 # Shown Order
@@ -6705,3 +6705,4 @@
 - **Oct 05, 12:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 05, 12:57 PM** - ExLabs wins Space Force contract for reconfigurable space platform (spacenews)
 - **Oct 05, 01:13 PM** - Sync Your Calendar With the Solar System (nyt)
+- **Oct 05, 01:27 PM** - Space Force taps SpaceX, ULA for first set of critical launches beyond FY27 (breaking_defense)
