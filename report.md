@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 6 | 24 | 46 |
+| spacenews | 1 | 6 | 25 | 47 |
 | nyt | 0 | 2 | 23 | 43 |
 | breaking_defense | 0 | 1 | 24 | 44 |
 | supercluster | 0 | 1 | 168 | 271 |
@@ -6653,3 +6653,4 @@
 - **Oct 05, 07:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 05, 07:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 05, 07:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 05, 07:47 AM** - SERVIR lives on through concerted global campaign (spacenews)
