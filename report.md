@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 3 | 24 | 46 |
 | nyt | 0 | 1 | 24 | 46 |
-| breaking_defense | 0 | 1 | 23 | 46 |
+| breaking_defense | 0 | 1 | 24 | 47 |
 | supercluster | 0 | 0 | 168 | 314 |
 
 # Shown Order
@@ -6725,3 +6725,4 @@
 - **Oct 05, 02:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 05, 02:57 PM** - HEO looks to expand satellite imaging beyond low Earth orbit (spacenews)
 - **Oct 05, 03:13 PM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
+- **Oct 05, 03:29 PM** - SASC Dems skeptical of Golden Dome price, feasibility (breaking_defense)
