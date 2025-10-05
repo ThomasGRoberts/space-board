@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 24 | 46 |
+| spacenews | 2 | 4 | 25 | 47 |
 | nyt | 0 | 1 | 24 | 46 |
 | breaking_defense | 0 | 0 | 24 | 47 |
-| supercluster | 0 | 0 | 167 | 321 |
+| supercluster | 0 | 0 | 165 | 321 |
 
 # Shown Order
 
@@ -6786,3 +6786,4 @@
 - **Oct 05, 09:07 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 05, 09:09 PM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
 - **Oct 05, 09:26 PM** - Space Force taps SpaceX, ULA for first set of critical launches beyond FY27 (breaking_defense)
+- **Oct 05, 09:41 PM** - Firefly to acquire defense contractor SciTec in $855 million deal (spacenews)
