@@ -5,7 +5,7 @@
 | spacenews | 0 | 5 | 24 | 45 |
 | nyt | 0 | 1 | 24 | 43 |
 | breaking_defense | 0 | 1 | 24 | 45 |
-| supercluster | 0 | 1 | 169 | 293 |
+| supercluster | 0 | 1 | 169 | 294 |
 
 # Shown Order
 
@@ -6687,3 +6687,4 @@
 - **Oct 05, 11:14 AM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
 - **Oct 05, 11:27 AM** - Space Rapid Capabilities Office to put radars on sats to warn of space-bound threats (breaking_defense)
 - **Oct 05, 11:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 05, 11:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
