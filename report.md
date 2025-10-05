@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 4 | 24 | 46 |
+| spacenews | 0 | 4 | 24 | 47 |
 | nyt | 0 | 1 | 24 | 45 |
 | breaking_defense | 0 | 1 | 24 | 46 |
 | supercluster | 0 | 1 | 168 | 320 |
@@ -6723,3 +6723,4 @@
 - **Oct 05, 02:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 05, 02:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 05, 02:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 05, 02:57 PM** - HEO looks to expand satellite imaging beyond low Earth orbit (spacenews)
