@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 24 | 47 |
-| nyt | 0 | 2 | 23 | 43 |
+| nyt | 0 | 2 | 24 | 44 |
 | breaking_defense | 0 | 1 | 23 | 44 |
 | supercluster | 0 | 1 | 168 | 236 |
 
@@ -6604,3 +6604,4 @@
 - **Oct 05, 02:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 05, 02:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 05, 02:53 AM** - Maldives plots $50 million fund for sovereign space capabilities (spacenews)
+- **Oct 05, 03:09 AM** - Sync Your Calendar With the Solar System (nyt)
