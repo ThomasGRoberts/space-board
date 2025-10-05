@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 8 | 24 | 47 |
+| spacenews | 1 | 8 | 23 | 47 |
 | nyt | 0 | 2 | 23 | 43 |
 | breaking_defense | 0 | 1 | 24 | 44 |
-| supercluster | 0 | 1 | 161 | 222 |
+| supercluster | 0 | 1 | 162 | 223 |
 
 # Shown Order
 
@@ -6586,3 +6586,4 @@
 - **Oct 05, 12:54 AM** - Blue Origin to increase New Shepard flight rate and consider new spaceports (spacenews)
 - **Oct 05, 01:11 AM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
 - **Oct 05, 01:25 AM** - Space Force declares ATLAS space domain awareness software ‘operational’ (breaking_defense)
+- **Oct 05, 01:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
