@@ -5,7 +5,7 @@
 | spacenews | 0 | 3 | 24 | 46 |
 | nyt | 0 | 1 | 24 | 45 |
 | breaking_defense | 0 | 1 | 24 | 47 |
-| supercluster | 0 | 0 | 168 | 315 |
+| supercluster | 0 | 0 | 167 | 316 |
 
 # Shown Order
 
@@ -6737,3 +6737,4 @@
 - **Oct 05, 04:13 PM** - Sync Your Calendar With the Solar System (nyt)
 - **Oct 05, 04:27 PM** - Close the gap: Turn the Franco-German missile early warning into measurable capability (breaking_defense)
 - **Oct 05, 04:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 05, 04:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
