@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 3 | 24 | 47 |
-| nyt | 0 | 1 | 23 | 45 |
+| nyt | 0 | 1 | 24 | 46 |
 | breaking_defense | 0 | 1 | 24 | 46 |
-| supercluster | 0 | 0 | 168 | 317 |
+| supercluster | 0 | 0 | 168 | 316 |
 
 # Shown Order
 
@@ -6764,3 +6764,4 @@
 - **Oct 05, 06:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 05, 06:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 05, 06:55 PM** - OQ Technology expands satellite IoT services to Australia (spacenews)
+- **Oct 05, 07:11 PM** - Sync Your Calendar With the Solar System (nyt)
