@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 4 | 24 | 47 |
-| nyt | 0 | 1 | 23 | 45 |
+| nyt | 0 | 1 | 24 | 46 |
 | breaking_defense | 0 | 1 | 24 | 46 |
-| supercluster | 0 | 0 | 168 | 318 |
+| supercluster | 0 | 0 | 168 | 317 |
 
 # Shown Order
 
@@ -6724,3 +6724,4 @@
 - **Oct 05, 02:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 05, 02:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 05, 02:57 PM** - HEO looks to expand satellite imaging beyond low Earth orbit (spacenews)
+- **Oct 05, 03:13 PM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
