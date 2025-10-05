@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 5 | 24 | 45 |
 | nyt | 0 | 1 | 24 | 43 |
-| breaking_defense | 0 | 1 | 24 | 44 |
+| breaking_defense | 0 | 1 | 25 | 45 |
 | supercluster | 0 | 1 | 168 | 299 |
 
 # Shown Order
@@ -6695,3 +6695,4 @@
 - **Oct 05, 11:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 05, 11:57 AM** - Maldives plots $50 million fund for sovereign space capabilities (spacenews)
 - **Oct 05, 12:11 PM** - Sync Your Calendar With the Solar System (nyt)
+- **Oct 05, 12:27 PM** - Space Rapid Capabilities Office to award contracts to put radars on sats to warn of space-bound threats (breaking_defense)
