@@ -5,7 +5,7 @@
 | spacenews | 1 | 8 | 23 | 47 |
 | nyt | 0 | 2 | 23 | 43 |
 | breaking_defense | 0 | 1 | 24 | 44 |
-| supercluster | 0 | 1 | 161 | 215 |
+| supercluster | 0 | 1 | 162 | 216 |
 
 # Shown Order
 
@@ -6576,3 +6576,4 @@
 - **Oct 04, 11:53 PM** - What Germany’s $41B investment in space could mean for Europe (spacenews)
 - **Oct 05, 12:11 AM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
 - **Oct 05, 12:25 AM** - Space Force creates new intel ‘production’ unit (breaking_defense)
+- **Oct 05, 12:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
