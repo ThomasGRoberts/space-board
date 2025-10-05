@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 8 | 24 | 47 |
-| nyt | 0 | 2 | 23 | 43 |
+| nyt | 0 | 2 | 24 | 44 |
 | breaking_defense | 0 | 1 | 23 | 44 |
-| supercluster | 0 | 1 | 168 | 222 |
+| supercluster | 0 | 1 | 167 | 222 |
 
 # Shown Order
 
@@ -6584,3 +6584,4 @@
 - **Oct 05, 12:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 05, 12:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 05, 12:54 AM** - Blue Origin to increase New Shepard flight rate and consider new spaceports (spacenews)
+- **Oct 05, 01:11 AM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
