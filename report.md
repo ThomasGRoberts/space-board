@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 25 | 47 |
+| spacenews | 1 | 3 | 24 | 47 |
 | nyt | 0 | 1 | 24 | 46 |
 | breaking_defense | 0 | 0 | 24 | 46 |
-| supercluster | 0 | 0 | 161 | 320 |
+| supercluster | 0 | 0 | 162 | 320 |
 
 # Shown Order
 
@@ -6777,3 +6777,4 @@
 - **Oct 05, 08:09 PM** - Sync Your Calendar With the Solar System (nyt)
 - **Oct 05, 08:23 PM** - What’s in a name: Goodbye Maxar, hello Vantor and Lanteris (breaking_defense)
 - **Oct 05, 08:39 PM** - ESA inaugurates new deep space antenna in Australia (spacenews)
+- **Oct 05, 08:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
