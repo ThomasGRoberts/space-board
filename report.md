@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 7 | 24 | 46 |
+| spacenews | 1 | 7 | 24 | 47 |
 | nyt | 0 | 2 | 23 | 43 |
 | breaking_defense | 0 | 1 | 24 | 44 |
 | supercluster | 0 | 1 | 168 | 257 |
@@ -6633,3 +6633,4 @@
 - **Oct 05, 05:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 05, 05:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 05, 05:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 05, 05:49 AM** - Satellite operators seek help from ITU to improve coordination for space safety (spacenews)
