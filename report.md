@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 24 | 47 |
 | nyt | 0 | 2 | 24 | 43 |
-| breaking_defense | 0 | 1 | 23 | 44 |
+| breaking_defense | 0 | 1 | 24 | 45 |
 | supercluster | 0 | 1 | 166 | 257 |
 
 # Shown Order
@@ -6635,3 +6635,4 @@
 - **Oct 05, 05:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 05, 05:49 AM** - Satellite operators seek help from ITU to improve coordination for space safety (spacenews)
 - **Oct 05, 06:05 AM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
+- **Oct 05, 06:21 AM** - The Break Out: The highs of AFA and a Trump sartorial mystery [VIDEO] (breaking_defense)
