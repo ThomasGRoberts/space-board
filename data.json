@@ -1,9 +1,40 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-10-04T00:02:04.415611+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2025-10-05T00:02:09.275679+00:00",
+    "trigger_count": 4,
     "current_item_id": "23440e1820f135c61b2557f5fb7fe9e7",
     "data": [
+        {
+            "id": "9622cd20d5ec58af7bb50589c1c43db5",
+            "source": "spacenews",
+            "text": "SpaceX lands majority of U.S. national security launches awarded for fiscal year 2026",
+            "source_link": "https://spacenews.com/spacex-lands-majority-of-u-s-national-security-launches-awarded-for-fiscal-year-2026/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-04T10:49:31.567694Z",
+            "shown_at": [
+                "2025-10-04T10:49:32.209379Z"
+            ]
+        },
+        {
+            "id": "0f1f314b833468e80995eaf7d440bf97",
+            "source": "nyt",
+            "text": "Sync Your Calendar With the Solar System",
+            "source_link": "https://www.nytimes.com/explain/2025/science/astronomy-space-calendar-events",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-04T00:11:23.690552Z",
+            "shown_at": [
+                "2025-10-04T00:11:24.268747Z",
+                "2025-10-04T03:31:51.259428Z",
+                "2025-10-04T04:32:33.353273Z",
+                "2025-10-04T06:33:55.283560Z",
+                "2025-10-04T13:13:48.867172Z",
+                "2025-10-04T16:09:54.660943Z",
+                "2025-10-04T20:09:32.887595Z",
+                "2025-10-04T21:09:14.745995Z"
+            ]
+        },
         {
             "id": "4513b8525702c620ccb143517856e2b3",
             "source": "spacenews",
@@ -12038,83 +12069,6 @@
                 "2025-06-26T20:51:32.272024Z",
                 "2025-06-27T17:13:36.588544Z",
                 "2025-07-02T20:07:35.180533Z"
-            ]
-        },
-        {
-            "id": "5ce548bdc4fead2dcd04f920c06873ae",
-            "source": "spacenews",
-            "text": "Rocket Lab to launch European navigation tech demo satellites",
-            "source_link": "https://spacenews.com/rocket-lab-to-launch-european-navigation-tech-demo-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-25T19:27:36.128603Z",
-            "shown_at": [
-                "2025-06-25T19:27:36.643670Z",
-                "2025-06-26T06:57:32.182817Z",
-                "2025-06-28T13:37:46.574926Z",
-                "2025-07-01T03:29:44.868732Z"
-            ]
-        },
-        {
-            "id": "a693e5429a4b98e3ec6e939b91b30db9",
-            "source": "nyt",
-            "text": "Fred Espenak, Astrophysicist Known as Mr. Eclipse, Dies at 73",
-            "source_link": "https://www.nytimes.com/2025/06/25/science/space/fred-espenak-dead.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-25T18:59:10.748545Z",
-            "shown_at": [
-                "2025-06-25T18:59:11.297063Z",
-                "2025-06-26T06:42:13.957664Z",
-                "2025-06-26T10:45:35.967086Z",
-                "2025-06-27T00:49:27.859572Z",
-                "2025-06-27T08:19:26.728520Z",
-                "2025-06-27T17:27:32.696749Z",
-                "2025-06-27T18:39:27.568317Z",
-                "2025-06-29T05:41:39.099471Z",
-                "2025-06-29T16:25:29.631778Z",
-                "2025-06-30T13:41:39.582048Z",
-                "2025-06-30T18:02:10.620733Z",
-                "2025-06-30T22:59:47.998738Z",
-                "2025-06-30T23:55:32.129852Z",
-                "2025-07-01T03:43:30.147437Z",
-                "2025-07-01T10:23:47.708494Z",
-                "2025-07-01T11:19:34.302554Z",
-                "2025-07-02T01:42:20.208568Z",
-                "2025-07-02T07:31:52.878784Z",
-                "2025-07-02T08:31:56.455852Z",
-                "2025-07-02T11:23:37.448180Z"
-            ]
-        },
-        {
-            "id": "0f1f314b833468e80995eaf7d440bf97",
-            "source": "nyt",
-            "text": "Sync Your Calendar With the Solar System",
-            "source_link": "https://www.nytimes.com/explain/2025/science/astronomy-space-calendar-events",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-04T00:11:23.690552Z",
-            "shown_at": [
-                "2025-10-04T00:11:24.268747Z",
-                "2025-10-04T03:31:51.259428Z",
-                "2025-10-04T04:32:33.353273Z",
-                "2025-10-04T06:33:55.283560Z",
-                "2025-10-04T13:13:48.867172Z",
-                "2025-10-04T16:09:54.660943Z",
-                "2025-10-04T20:09:32.887595Z",
-                "2025-10-04T21:09:14.745995Z"
-            ]
-        },
-        {
-            "id": "9622cd20d5ec58af7bb50589c1c43db5",
-            "source": "spacenews",
-            "text": "SpaceX lands majority of U.S. national security launches awarded for fiscal year 2026",
-            "source_link": "https://spacenews.com/spacex-lands-majority-of-u-s-national-security-launches-awarded-for-fiscal-year-2026/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-04T10:49:31.567694Z",
-            "shown_at": [
-                "2025-10-04T10:49:32.209379Z"
             ]
         }
     ]
