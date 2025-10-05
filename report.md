@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 24 | 47 |
 | nyt | 0 | 1 | 24 | 46 |
-| breaking_defense | 0 | 0 | 24 | 47 |
-| supercluster | 0 | 0 | 162 | 322 |
+| breaking_defense | 0 | 0 | 24 | 46 |
+| supercluster | 0 | 0 | 163 | 323 |
 
 # Shown Order
 
@@ -6788,3 +6788,4 @@
 - **Oct 05, 09:26 PM** - Space Force taps SpaceX, ULA for first set of critical launches beyond FY27 (breaking_defense)
 - **Oct 05, 09:41 PM** - Firefly to acquire defense contractor SciTec in $855 million deal (spacenews)
 - **Oct 05, 09:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 05, 09:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
