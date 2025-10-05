@@ -5,7 +5,7 @@
 | spacenews | 1 | 6 | 24 | 46 |
 | nyt | 0 | 1 | 24 | 43 |
 | breaking_defense | 0 | 1 | 24 | 45 |
-| supercluster | 0 | 1 | 167 | 278 |
+| supercluster | 0 | 1 | 166 | 279 |
 
 # Shown Order
 
@@ -6666,3 +6666,4 @@
 - **Oct 05, 08:47 AM** - Firefly Alpha booster destroyed in ground test (spacenews)
 - **Oct 05, 09:04 AM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
 - **Oct 05, 09:19 AM** - Space Force declares ATLAS space domain awareness software ‘operational’ (breaking_defense)
+- **Oct 05, 09:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
