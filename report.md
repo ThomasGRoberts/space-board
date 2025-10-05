@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 3 | 24 | 46 |
 | nyt | 0 | 1 | 24 | 46 |
-| breaking_defense | 0 | 1 | 23 | 46 |
+| breaking_defense | 0 | 1 | 24 | 47 |
 | supercluster | 0 | 0 | 168 | 314 |
 
 # Shown Order
@@ -6755,3 +6755,4 @@
 - **Oct 05, 05:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 05, 05:55 PM** - Maldives plots $50 million fund for sovereign space capabilities (spacenews)
 - **Oct 05, 06:11 PM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
+- **Oct 05, 06:25 PM** - Space Rapid Capabilities Office to put radars on sats to warn of space-bound threats (breaking_defense)
