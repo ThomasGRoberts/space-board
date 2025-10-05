@@ -5,7 +5,7 @@
 | spacenews | 1 | 6 | 24 | 46 |
 | nyt | 0 | 2 | 24 | 43 |
 | breaking_defense | 0 | 1 | 24 | 45 |
-| supercluster | 0 | 1 | 164 | 264 |
+| supercluster | 0 | 1 | 163 | 265 |
 
 # Shown Order
 
@@ -6646,3 +6646,4 @@
 - **Oct 05, 06:49 AM** - The Exploration Company still studying Mission Possible reentry (spacenews)
 - **Oct 05, 07:05 AM** - Sync Your Calendar With the Solar System (nyt)
 - **Oct 05, 07:20 AM** - Space Force taps SpaceX, ULA for first set of critical launches beyond FY27 (breaking_defense)
+- **Oct 05, 07:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
