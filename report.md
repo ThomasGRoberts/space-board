@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 5 | 25 | 49 |
+| spacenews | 4 | 6 | 26 | 50 |
 | nyt | 1 | 1 | 24 | 48 |
 | breaking_defense | 1 | 1 | 23 | 47 |
 | supercluster | 1 | 1 | 119 | 119 |
@@ -6608,3 +6608,4 @@
 - **Oct 06, 09:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 06, 09:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 06, 09:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 06, 09:59 PM** - FCC launches ‘Space Month’ to fast-track satellite licensing and spectrum reforms (spacenews)

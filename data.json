@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-06T00:02:31.118531+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "18f6d7393beac0bf51331ef43d1fa15f",
     "data": [
         {
             "id": "400b7e225b4dd4cb231da3647f9aa2d6",
@@ -12158,6 +12158,18 @@
             "fetched_datetime": "2025-10-06T21:15:28.845818Z",
             "shown_at": [
                 "2025-10-06T21:15:29.532884Z"
+            ]
+        },
+        {
+            "id": "18f6d7393beac0bf51331ef43d1fa15f",
+            "source": "spacenews",
+            "text": "FCC launches ‘Space Month’ to fast-track satellite licensing and spectrum reforms",
+            "source_link": "https://spacenews.com/fcc-launches-space-month-to-fast-track-satellite-licensing-and-spectrum-reforms/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-06T21:59:33.884160Z",
+            "shown_at": [
+                "2025-10-06T21:59:34.436431Z"
             ]
         }
     ]
