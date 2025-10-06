@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-06T00:02:31.118531+00:00",
-    "trigger_count": 6,
-    "current_item_id": "005b4027599dcf13113b810f0448d233",
+    "trigger_count": 0,
+    "current_item_id": "b8e5d1326cbd096d33a41031aad6b948",
     "data": [
         {
             "id": "400b7e225b4dd4cb231da3647f9aa2d6",
@@ -12045,6 +12045,18 @@
             "fetched_datetime": "2025-10-06T13:45:38.243642Z",
             "shown_at": [
                 "2025-10-06T13:45:38.886303Z"
+            ]
+        },
+        {
+            "id": "b8e5d1326cbd096d33a41031aad6b948",
+            "source": "nyt",
+            "text": "If Your North Star Is Lost, New Techniques Can Point You South",
+            "source_link": "https://www.nytimes.com/2025/10/06/science/southern-stars-constellation-compass.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-06T13:59:43.116071Z",
+            "shown_at": [
+                "2025-10-06T13:59:43.818236Z"
             ]
         }
     ]
