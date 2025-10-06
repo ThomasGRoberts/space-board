@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-06T00:02:31.118531+00:00",
-    "trigger_count": 6,
-    "current_item_id": "defc3d37652d1e6c0a704afafbe4572e",
+    "trigger_count": 0,
+    "current_item_id": "bc0dff4071d94abf9e0b09b411697fcb",
     "data": [
         {
             "id": "400b7e225b4dd4cb231da3647f9aa2d6",
@@ -12020,6 +12020,18 @@
                 "2025-10-06T12:50:22.434552Z",
                 "2025-10-06T12:53:38.255838Z",
                 "2025-10-06T12:55:46.781554Z"
+            ]
+        },
+        {
+            "id": "bc0dff4071d94abf9e0b09b411697fcb",
+            "source": "spacenews",
+            "text": "Utilize the ISS as a resource: a common sense, fiscally responsible plan leveraging the International Space Station",
+            "source_link": "https://spacenews.com/utilize-the-iss-as-a-resource-a-common-sense-fiscally-responsible-plan-leveraging-the-international-space-station/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-06T13:14:06.416221Z",
+            "shown_at": [
+                "2025-10-06T13:14:07.155419Z"
             ]
         }
     ]
