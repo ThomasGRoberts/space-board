@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 5 | 26 | 50 |
+| spacenews | 3 | 5 | 25 | 50 |
 | nyt | 1 | 1 | 24 | 48 |
 | breaking_defense | 1 | 1 | 23 | 47 |
-| supercluster | 1 | 1 | 112 | 112 |
+| supercluster | 1 | 1 | 113 | 113 |
 
 # Shown Order
 
@@ -6601,3 +6601,4 @@
 - **Oct 06, 09:01 PM** - Firefly to buy SciTec with eye on Golden Dome (breaking_defense)
 - **Oct 06, 09:15 PM** - Laying the foundation for America’s space future (spacenews)
 - **Oct 06, 09:29 PM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
+- **Oct 06, 09:44 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
