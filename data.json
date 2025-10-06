@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-06T00:02:31.118531+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b6a3d05fb44f01a207d3b395c48f19a5",
+    "trigger_count": 0,
+    "current_item_id": "ce085dbf41822e106c9734db3fbd1429",
     "data": [
         {
             "id": "400b7e225b4dd4cb231da3647f9aa2d6",
@@ -12126,6 +12126,18 @@
             "shown_at": [
                 "2025-10-06T13:59:43.818236Z",
                 "2025-10-06T15:02:13.524070Z"
+            ]
+        },
+        {
+            "id": "ce085dbf41822e106c9734db3fbd1429",
+            "source": "breaking_defense",
+            "text": "Firefly to buy SciTec with eye on Golden Dome",
+            "source_link": "https://breakingdefense.com/2025/10/firefly-to-buy-scitec-with-eye-on-golden-dome/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-06T21:01:53.458461Z",
+            "shown_at": [
+                "2025-10-06T21:01:54.204353Z"
             ]
         }
     ]
