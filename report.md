@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 24 | 48 |
 | nyt | 0 | 0 | 24 | 48 |
-| breaking_defense | 0 | 0 | 23 | 47 |
+| breaking_defense | 0 | 0 | 24 | 48 |
 | supercluster | 1 | 1 | 35 | 35 |
 
 # Shown Order
@@ -6486,3 +6486,4 @@
 - **Oct 06, 08:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 06, 08:59 AM** - NASA’s newest astronauts will have to be willing to wait (spacenews)
 - **Oct 06, 09:15 AM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
+- **Oct 06, 09:31 AM** - SASC Dems skeptical of Golden Dome price, feasibility (breaking_defense)
