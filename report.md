@@ -5,7 +5,7 @@
 | spacenews | 4 | 4 | 25 | 49 |
 | nyt | 1 | 1 | 24 | 48 |
 | breaking_defense | 0 | 0 | 23 | 47 |
-| supercluster | 1 | 1 | 98 | 98 |
+| supercluster | 1 | 1 | 99 | 99 |
 
 # Shown Order
 
@@ -6580,3 +6580,4 @@
 - **Oct 06, 06:48 PM** - NASA’s newest astronauts will have to be willing to wait (spacenews)
 - **Oct 06, 07:02 PM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
 - **Oct 06, 07:18 PM** - Space Force taps SpaceX, ULA for first set of critical launches beyond FY27 (breaking_defense)
+- **Oct 06, 07:32 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
