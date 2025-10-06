@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 26 | 50 |
-| nyt | 1 | 1 | 23 | 47 |
+| nyt | 1 | 1 | 24 | 48 |
 | breaking_defense | 1 | 1 | 23 | 47 |
 | supercluster | 1 | 1 | 126 | 126 |
 
@@ -6620,3 +6620,4 @@
 - **Oct 06, 10:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 06, 10:57 PM** - Satellite operators seek help from ITU to improve coordination for space safety (spacenews)
 - **Oct 06, 11:13 PM** - Space Force creates new intel ‘production’ unit (breaking_defense)
+- **Oct 06, 11:27 PM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
