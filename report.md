@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 26 | 50 |
-| nyt | 1 | 1 | 23 | 47 |
+| nyt | 1 | 1 | 24 | 48 |
 | breaking_defense | 1 | 1 | 23 | 47 |
 | supercluster | 1 | 1 | 119 | 119 |
 
@@ -6610,3 +6610,4 @@
 - **Oct 06, 09:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 06, 09:59 PM** - FCC launches ‘Space Month’ to fast-track satellite licensing and spectrum reforms (spacenews)
 - **Oct 06, 10:15 PM** - Firefly to buy SciTec with eye on Golden Dome (breaking_defense)
+- **Oct 06, 10:30 PM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
