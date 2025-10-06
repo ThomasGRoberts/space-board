@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 4 | 25 | 49 |
 | nyt | 1 | 1 | 24 | 48 |
-| breaking_defense | 0 | 0 | 23 | 47 |
+| breaking_defense | 0 | 0 | 24 | 48 |
 | supercluster | 1 | 1 | 77 | 77 |
 
 # Shown Order
@@ -6549,3 +6549,4 @@
 - **Oct 06, 03:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 06, 03:47 PM** - Starlink-compatible radios sought for Golden Dome interceptor satellite demo (spacenews)
 - **Oct 06, 04:02 PM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
+- **Oct 06, 04:17 PM** - Space Rapid Capabilities Office to award contracts to put radars on sats to warn of space-bound threats (breaking_defense)
