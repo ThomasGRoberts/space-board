@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 24 | 48 |
-| nyt | 0 | 0 | 23 | 47 |
+| nyt | 0 | 0 | 24 | 48 |
 | breaking_defense | 0 | 0 | 24 | 47 |
 | supercluster | 1 | 1 | 7 | 7 |
 
@@ -6445,3 +6445,4 @@
 - **Oct 06, 04:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 06, 04:48 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 06, 04:52 AM** - Kayhan Space releases free software to speed up satellite visualization (spacenews)
+- **Oct 06, 05:07 AM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
