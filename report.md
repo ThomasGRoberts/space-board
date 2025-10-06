@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 24 | 48 |
+| spacenews | 2 | 3 | 23 | 48 |
 | nyt | 0 | 0 | 24 | 47 |
 | breaking_defense | 0 | 0 | 24 | 48 |
-| supercluster | 1 | 1 | 30 | 30 |
+| supercluster | 1 | 1 | 31 | 31 |
 
 # Shown Order
 
@@ -6479,3 +6479,4 @@
 - **Oct 06, 08:31 AM** - The Break Out: The highs of AFA and a Trump sartorial mystery [VIDEO] (breaking_defense)
 - **Oct 06, 08:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 06, 08:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 06, 08:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
