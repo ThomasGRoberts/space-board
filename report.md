@@ -5,7 +5,7 @@
 | spacenews | 4 | 4 | 25 | 49 |
 | nyt | 1 | 1 | 24 | 48 |
 | breaking_defense | 0 | 0 | 23 | 47 |
-| supercluster | 1 | 1 | 63 | 63 |
+| supercluster | 1 | 1 | 64 | 64 |
 
 # Shown Order
 
@@ -6530,3 +6530,4 @@
 - **Oct 06, 01:45 PM** - Cubic targets military satcom market with ‘Vector’ terminals (spacenews)
 - **Oct 06, 01:59 PM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
 - **Oct 06, 02:17 PM** - What’s in a name: Goodbye Maxar, hello Vantor and Lanteris (breaking_defense)
+- **Oct 06, 02:32 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
