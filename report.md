@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 4 | 25 | 49 |
+| spacenews | 4 | 5 | 26 | 50 |
 | nyt | 1 | 1 | 23 | 47 |
 | breaking_defense | 1 | 1 | 24 | 48 |
 | supercluster | 1 | 1 | 112 | 112 |
@@ -6599,3 +6599,4 @@
 - **Oct 06, 08:46 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 06, 08:47 PM** - SERVIR lives on through concerted global campaign (spacenews)
 - **Oct 06, 09:01 PM** - Firefly to buy SciTec with eye on Golden Dome (breaking_defense)
+- **Oct 06, 09:15 PM** - Laying the foundation for America’s space future (spacenews)
