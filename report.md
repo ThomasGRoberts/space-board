@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 24 | 47 |
+| spacenews | 2 | 3 | 25 | 48 |
 | nyt | 0 | 0 | 24 | 47 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | supercluster | 0 | 0 | 168 | 329 |
@@ -6808,3 +6808,4 @@
 - **Oct 06, 12:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 06, 12:07 AM** - Sync Your Calendar With the Solar System (nyt)
 - **Oct 06, 12:22 AM** - Space Force taps SpaceX, ULA for first set of critical launches beyond FY27 (breaking_defense)
+- **Oct 06, 12:39 AM** - Government contracts lay foundation for circular space economy (spacenews)
