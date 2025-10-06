@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 26 | 50 |
 | nyt | 1 | 1 | 23 | 47 |
-| breaking_defense | 1 | 1 | 23 | 47 |
+| breaking_defense | 1 | 1 | 24 | 48 |
 | supercluster | 1 | 1 | 126 | 126 |
 
 # Shown Order
@@ -6619,3 +6619,4 @@
 - **Oct 06, 10:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 06, 10:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 06, 10:57 PM** - Satellite operators seek help from ITU to improve coordination for space safety (spacenews)
+- **Oct 06, 11:13 PM** - Space Force creates new intel ‘production’ unit (breaking_defense)
