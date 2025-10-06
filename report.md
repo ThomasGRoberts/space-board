@@ -5,7 +5,7 @@
 | spacenews | 2 | 3 | 25 | 48 |
 | nyt | 0 | 0 | 24 | 47 |
 | breaking_defense | 0 | 0 | 24 | 48 |
-| supercluster | 0 | 0 | 162 | 329 |
+| supercluster | 0 | 0 | 162 | 330 |
 
 # Shown Order
 
@@ -6839,3 +6839,4 @@
 - **Oct 06, 03:07 AM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
 - **Oct 06, 03:21 AM** - Space Force declares ATLAS space domain awareness software ‘operational’ (breaking_defense)
 - **Oct 06, 03:35 AM** - SpaceX’s D2D deal spurs space bulls (spacenews)
+- **Oct 06, 03:50 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
