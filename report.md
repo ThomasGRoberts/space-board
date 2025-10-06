@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 2 | 24 | 48 |
-| nyt | 0 | 0 | 24 | 47 |
+| nyt | 0 | 0 | 25 | 48 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | supercluster | 1 | 1 | 49 | 49 |
 
@@ -6505,3 +6505,4 @@
 - **Oct 06, 10:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 06, 10:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 06, 10:59 AM** - At IAC, global space cooperation meets American space dominance (spacenews)
+- **Oct 06, 11:13 AM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
