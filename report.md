@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 24 | 48 |
 | nyt | 0 | 0 | 24 | 48 |
-| breaking_defense | 0 | 0 | 24 | 47 |
+| breaking_defense | 0 | 0 | 25 | 48 |
 | supercluster | 0 | 0 | 168 | 334 |
 
 # Shown Order
@@ -6847,3 +6847,4 @@
 - **Oct 06, 04:00 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 06, 04:02 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 06, 04:05 AM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
+- **Oct 06, 04:19 AM** - Space Force declares ATLAS space domain awareness software ‘operational’ (breaking_defense)
