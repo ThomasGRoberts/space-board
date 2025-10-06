@@ -5,7 +5,7 @@
 | spacenews | 2 | 3 | 24 | 48 |
 | nyt | 0 | 0 | 24 | 47 |
 | breaking_defense | 0 | 0 | 24 | 48 |
-| supercluster | 1 | 1 | 29 | 29 |
+| supercluster | 1 | 1 | 30 | 30 |
 
 # Shown Order
 
@@ -6478,3 +6478,4 @@
 - **Oct 06, 08:16 AM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
 - **Oct 06, 08:31 AM** - The Break Out: The highs of AFA and a Trump sartorial mystery [VIDEO] (breaking_defense)
 - **Oct 06, 08:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 06, 08:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
