@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 4 | 25 | 49 |
-| nyt | 1 | 1 | 24 | 48 |
+| nyt | 1 | 1 | 25 | 49 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | supercluster | 1 | 1 | 70 | 70 |
 
@@ -6538,3 +6538,4 @@
 - **Oct 06, 02:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 06, 02:45 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 06, 02:47 PM** - Cubic targets military satcom market with ‘Vector’ terminals (spacenews)
+- **Oct 06, 03:02 PM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
