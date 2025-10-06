@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 24 | 48 |
 | nyt | 0 | 0 | 24 | 47 |
-| breaking_defense | 0 | 0 | 24 | 48 |
-| supercluster | 0 | 0 | 163 | 331 |
+| breaking_defense | 0 | 0 | 24 | 47 |
+| supercluster | 0 | 0 | 164 | 332 |
 
 # Shown Order
 
@@ -6811,3 +6811,4 @@
 - **Oct 06, 12:39 AM** - Government contracts lay foundation for circular space economy (spacenews)
 - **Oct 06, 12:53 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 06, 12:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 06, 12:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
