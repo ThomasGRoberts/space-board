@@ -5,7 +5,7 @@
 | spacenews | 2 | 2 | 24 | 48 |
 | nyt | 0 | 0 | 24 | 48 |
 | breaking_defense | 0 | 0 | 24 | 48 |
-| supercluster | 1 | 1 | 57 | 57 |
+| supercluster | 1 | 1 | 58 | 58 |
 
 # Shown Order
 
@@ -6518,3 +6518,4 @@
 - **Oct 06, 12:09 PM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
 - **Oct 06, 12:25 PM** - SASC Dems skeptical of Golden Dome price, feasibility (breaking_defense)
 - **Oct 06, 12:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 06, 12:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
