@@ -5,7 +5,7 @@
 | spacenews | 2 | 3 | 24 | 48 |
 | nyt | 0 | 0 | 24 | 48 |
 | breaking_defense | 0 | 0 | 24 | 48 |
-| supercluster | 1 | 1 | 42 | 42 |
+| supercluster | 1 | 1 | 43 | 43 |
 
 # Shown Order
 
@@ -6497,3 +6497,4 @@
 - **Oct 06, 09:59 AM** - The spreadsheet behind the Golden Dome sticker shock (spacenews)
 - **Oct 06, 10:15 AM** - Sync Your Calendar With the Solar System (nyt)
 - **Oct 06, 10:30 AM** - Space Rapid Capabilities Office to put radars on sats to warn of space-bound threats (breaking_defense)
+- **Oct 06, 10:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
