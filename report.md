@@ -6524,3 +6524,4 @@
 - **Oct 06, 12:50 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 06, 12:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 06, 12:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 06, 12:58 PM** - Starlab partners unveil full-scale mockup of commercial space station (spacenews)
