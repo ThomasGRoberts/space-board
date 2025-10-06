@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 23 | 47 |
+| spacenews | 2 | 3 | 24 | 48 |
 | nyt | 0 | 0 | 24 | 47 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | supercluster | 1 | 1 | 14 | 14 |
@@ -6454,3 +6454,4 @@
 - **Oct 06, 05:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 06, 05:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 06, 05:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 06, 05:53 AM** - States have an obligation to warn satellite operators of cyber threats — IAC paper (spacenews)
