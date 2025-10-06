@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 24 | 48 |
 | nyt | 0 | 0 | 24 | 48 |
-| breaking_defense | 0 | 0 | 23 | 47 |
+| breaking_defense | 0 | 0 | 24 | 48 |
 | supercluster | 1 | 1 | 28 | 28 |
 
 # Shown Order
@@ -6476,3 +6476,4 @@
 - **Oct 06, 07:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 06, 07:59 AM** - ESA and Avio to study reusable upper stage (spacenews)
 - **Oct 06, 08:16 AM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
+- **Oct 06, 08:31 AM** - The Break Out: The highs of AFA and a Trump sartorial mystery [VIDEO] (breaking_defense)
