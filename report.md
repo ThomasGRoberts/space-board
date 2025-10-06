@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 2 | 24 | 48 |
-| nyt | 0 | 0 | 24 | 48 |
+| nyt | 0 | 0 | 25 | 49 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | supercluster | 1 | 1 | 56 | 56 |
 
@@ -6515,3 +6515,4 @@
 - **Oct 06, 11:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 06, 11:53 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 06, 11:55 AM** - China set for high-stakes moon program and reusable launch tests to close out 2025 (spacenews)
+- **Oct 06, 12:09 PM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
