@@ -5,7 +5,7 @@
 | spacenews | 2 | 2 | 24 | 48 |
 | nyt | 0 | 0 | 24 | 48 |
 | breaking_defense | 0 | 0 | 24 | 48 |
-| supercluster | 1 | 1 | 49 | 49 |
+| supercluster | 1 | 1 | 50 | 50 |
 
 # Shown Order
 
@@ -6507,3 +6507,4 @@
 - **Oct 06, 10:59 AM** - At IAC, global space cooperation meets American space dominance (spacenews)
 - **Oct 06, 11:13 AM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
 - **Oct 06, 11:27 AM** - Space Rapid Capabilities Office to award contracts to put radars on sats to warn of space-bound threats (breaking_defense)
+- **Oct 06, 11:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
