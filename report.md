@@ -5,7 +5,7 @@
 | spacenews | 4 | 6 | 25 | 50 |
 | nyt | 1 | 1 | 24 | 48 |
 | breaking_defense | 1 | 1 | 23 | 47 |
-| supercluster | 1 | 1 | 119 | 119 |
+| supercluster | 1 | 1 | 120 | 120 |
 
 # Shown Order
 
@@ -6611,3 +6611,4 @@
 - **Oct 06, 09:59 PM** - FCC launches ‘Space Month’ to fast-track satellite licensing and spectrum reforms (spacenews)
 - **Oct 06, 10:15 PM** - Firefly to buy SciTec with eye on Golden Dome (breaking_defense)
 - **Oct 06, 10:30 PM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
+- **Oct 06, 10:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
