@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 3 | 25 | 49 |
+| spacenews | 4 | 4 | 26 | 50 |
 | nyt | 0 | 0 | 24 | 48 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | supercluster | 1 | 1 | 63 | 63 |
@@ -6527,3 +6527,4 @@
 - **Oct 06, 12:58 PM** - Starlab partners unveil full-scale mockup of commercial space station (spacenews)
 - **Oct 06, 01:14 PM** - Utilize the ISS as a resource: a common sense, fiscally responsible plan leveraging the International Space Station (spacenews)
 - **Oct 06, 01:29 PM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
+- **Oct 06, 01:45 PM** - Cubic targets military satcom market with ‘Vector’ terminals (spacenews)
