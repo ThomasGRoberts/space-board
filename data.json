@@ -1,9 +1,33 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-10-05T00:02:09.275679+00:00",
-    "trigger_count": 4,
+    "last_run_datetime": "2025-10-06T00:02:31.118531+00:00",
+    "trigger_count": 5,
     "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
     "data": [
+        {
+            "id": "400b7e225b4dd4cb231da3647f9aa2d6",
+            "source": "spacenews",
+            "text": "Firefly to acquire defense contractor SciTec in $855 million deal",
+            "source_link": "https://spacenews.com/firefly-to-acquire-defense-contractor-scitec-in-855-million-deal/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-05T21:41:52.786748Z",
+            "shown_at": [
+                "2025-10-05T21:41:53.788684Z"
+            ]
+        },
+        {
+            "id": "248fe190c169bd8bd9d3d47d6939356d",
+            "source": "spacenews",
+            "text": "ESA inaugurates new deep space antenna in Australia",
+            "source_link": "https://spacenews.com/esa-inaugurates-new-deep-space-antenna-in-australia/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-05T20:39:41.369748Z",
+            "shown_at": [
+                "2025-10-05T20:39:41.933735Z"
+            ]
+        },
         {
             "id": "9622cd20d5ec58af7bb50589c1c43db5",
             "source": "spacenews",
@@ -111,7 +135,7 @@
             "shown": true,
             "type": "launch",
             "target_datetime": "2025-10-06T04:32:00.000Z",
-            "time_remaining": "0d 04h 32m",
+            "time_remaining": "0d 04h 29m",
             "fetched_datetime": "2025-10-03T15:07:44.694196Z",
             "shown_at": [
                 "2025-10-03T15:07:45.380621Z",
@@ -494,7 +518,8 @@
                 "2025-10-05T23:53:49.205091Z",
                 "2025-10-05T23:55:43.559239Z",
                 "2025-10-05T23:57:47.494141Z",
-                "2025-10-05T23:59:50.039681Z"
+                "2025-10-05T23:59:50.039681Z",
+                "2025-10-06T00:02:32.217342Z"
             ]
         },
         {
@@ -12275,60 +12300,6 @@
                 "2025-06-30T09:09:31.357614Z",
                 "2025-07-03T03:33:39.214213Z",
                 "2025-07-03T06:29:50.747299Z"
-            ]
-        },
-        {
-            "id": "7c4667771470e6b77901639df3ca1327",
-            "source": "spacenews",
-            "text": "NASA’s acting leadership planning new agency structure",
-            "source_link": "https://spacenews.com/nasas-acting-leadership-planning-new-agency-structure/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-26T11:13:40.362148Z",
-            "shown_at": [
-                "2025-06-26T11:13:41.032178Z",
-                "2025-06-28T09:37:40.159054Z",
-                "2025-06-30T06:19:37.711099Z",
-                "2025-06-30T14:09:39.740825Z"
-            ]
-        },
-        {
-            "id": "c2f145206ded69cd233e519940cabe99",
-            "source": "spacenews",
-            "text": "Chinese scientists push for cubesat swarm mission to fly by infamous asteroid Apophis",
-            "source_link": "https://spacenews.com/chinese-scientists-push-for-cubesat-swarm-mission-to-fly-by-infamous-asteroid-apophis/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-26T08:07:40.602553Z",
-            "shown_at": [
-                "2025-06-26T08:07:41.286243Z",
-                "2025-06-26T20:51:32.272024Z",
-                "2025-06-27T17:13:36.588544Z",
-                "2025-07-02T20:07:35.180533Z"
-            ]
-        },
-        {
-            "id": "248fe190c169bd8bd9d3d47d6939356d",
-            "source": "spacenews",
-            "text": "ESA inaugurates new deep space antenna in Australia",
-            "source_link": "https://spacenews.com/esa-inaugurates-new-deep-space-antenna-in-australia/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-05T20:39:41.369748Z",
-            "shown_at": [
-                "2025-10-05T20:39:41.933735Z"
-            ]
-        },
-        {
-            "id": "400b7e225b4dd4cb231da3647f9aa2d6",
-            "source": "spacenews",
-            "text": "Firefly to acquire defense contractor SciTec in $855 million deal",
-            "source_link": "https://spacenews.com/firefly-to-acquire-defense-contractor-scitec-in-855-million-deal/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-05T21:41:52.786748Z",
-            "shown_at": [
-                "2025-10-05T21:41:53.788684Z"
             ]
         }
     ]

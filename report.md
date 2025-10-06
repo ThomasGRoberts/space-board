@@ -5,12 +5,10 @@
 | spacenews | 2 | 3 | 24 | 48 |
 | nyt | 0 | 1 | 24 | 47 |
 | breaking_defense | 0 | 0 | 24 | 47 |
-| supercluster | 0 | 0 | 166 | 330 |
+| supercluster | 0 | 0 | 167 | 330 |
 
 # Shown Order
 
-- **Jun 26, 08:07 AM** - Chinese scientists push for cubesat swarm mission to fly by infamous asteroid Apophis (spacenews)
-- **Jun 26, 11:13 AM** - NASA’s acting leadership planning new agency structure (spacenews)
 - **Jun 26, 11:27 AM** - First ‘FireSat’ satellite delivers thermal images (spacenews)
 - **Jun 26, 01:07 PM** - Deep tech is driving the next frontier in in-flight connectivity (spacenews)
 - **Jun 26, 04:47 PM** - Technology safeguards agreement enables Firefly launches from Sweden (spacenews)
@@ -18,7 +16,6 @@
 - **Jun 26, 06:56 PM** - Trump’s ‘One Big, Beautiful Bill’ would give Space Force a nearly $40 billion budget (spacenews)
 - **Jun 26, 07:12 PM** - Mysterious Fireball Reported Over South Carolina, Georgia and Tennessee (nyt)
 - **Jun 26, 07:55 PM** - Terran Orbital Implements Alternative Workweek Schedule to Improve Efficiency and Support Employees (spacenews)
-- **Jun 26, 08:51 PM** - Chinese scientists push for cubesat swarm mission to fly by infamous asteroid Apophis (spacenews)
 - **Jun 26, 09:19 PM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
 - **Jun 26, 10:02 PM** - Mysterious Fireball Reported Over South Carolina, Georgia and Tennessee (nyt)
 - **Jun 26, 10:29 PM** - Pentagon to consider SpaceX alternative for Space Force satellite program (spacenews)
@@ -38,7 +35,6 @@
 - **Jun 27, 03:35 PM** - New SLS booster design suffers anomaly during test (spacenews)
 - **Jun 27, 03:49 PM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
 - **Jun 27, 04:17 PM** - The Commercial Space Federation (CSF) Welcomes Starcloud and Volta Space Technologies as New Associate Members (spacenews)
-- **Jun 27, 05:13 PM** - Chinese scientists push for cubesat swarm mission to fly by infamous asteroid Apophis (spacenews)
 - **Jun 27, 05:55 PM** - DARPA’s DRACO nuclear propulsion project ROARs no more (breaking_defense)
 - **Jun 27, 07:51 PM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
 - **Jun 27, 08:33 PM** - EchoStar delays bankruptcy threat after Trump pushes for FCC resolution (spacenews)
@@ -55,7 +51,6 @@
 - **Jun 28, 06:41 AM** - Deep tech is driving the next frontier in in-flight connectivity (spacenews)
 - **Jun 28, 08:25 AM** - Technology safeguards agreement enables Firefly launches from Sweden (spacenews)
 - **Jun 28, 09:09 AM** - Stars Passing Near the Sun Could Cause Planets to Collide or Be Ejected, Paper Says (nyt)
-- **Jun 28, 09:37 AM** - NASA’s acting leadership planning new agency structure (spacenews)
 - **Jun 28, 11:43 AM** - SpaceX scores $81.6 million Space Force contract to launch weather satellite (spacenews)
 - **Jun 28, 12:26 PM** - DARPA’s DRACO nuclear propulsion project ROARs no more (breaking_defense)
 - **Jun 28, 01:23 PM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
@@ -100,7 +95,6 @@
 - **Jun 30, 04:39 AM** - Stars Passing Near the Sun Could Cause Planets to Collide or Be Ejected, Paper Says (nyt)
 - **Jun 30, 05:09 AM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
 - **Jun 30, 05:23 AM** - Final H-2A launches Earth science satellite (spacenews)
-- **Jun 30, 06:19 AM** - NASA’s acting leadership planning new agency structure (spacenews)
 - **Jun 30, 07:01 AM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
 - **Jun 30, 07:15 AM** - Trump’s ‘One Big, Beautiful Bill’ would give Space Force a nearly $40 billion budget (spacenews)
 - **Jun 30, 07:29 AM** - Mysterious Fireball Reported Over South Carolina, Georgia and Tennessee (nyt)
@@ -115,7 +109,6 @@
 - **Jun 30, 12:45 PM** - Stars Passing Near the Sun Could Cause Planets to Collide or Be Ejected, Paper Says (nyt)
 - **Jun 30, 12:59 PM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
 - **Jun 30, 01:13 PM** - Space is hard. There is no excuse for pretending it’s easy. (spacenews)
-- **Jun 30, 02:09 PM** - NASA’s acting leadership planning new agency structure (spacenews)
 - **Jun 30, 04:05 PM** - The Commercial Space Federation (CSF) Welcomes Starcloud and Volta Space Technologies as New Associate Members (spacenews)
 - **Jun 30, 04:19 PM** - Chinese spacecraft begin rendezvous and proximity operations in geostationary orbit (spacenews)
 - **Jun 30, 04:33 PM** - Stanford spinoff EraDrive claims $1 million NASA contract (spacenews)
@@ -218,7 +211,6 @@
 - **Jul 02, 07:11 PM** - Trump’s ‘One Big, Beautiful Bill’ would give Space Force a nearly $40 billion budget (spacenews)
 - **Jul 02, 07:39 PM** - Debris From SpaceX Explosion, Landing in Mexico, Draws Investigation (nyt)
 - **Jul 02, 07:53 PM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
-- **Jul 02, 08:07 PM** - Chinese scientists push for cubesat swarm mission to fly by infamous asteroid Apophis (spacenews)
 - **Jul 02, 08:23 PM** - National Geospatial-Intelligence Agency announces new contract awards under ‘Luno’ program (spacenews)
 - **Jul 02, 08:53 PM** - Debris From SpaceX Explosion, Landing in Mexico, Draws Investigation (nyt)
 - **Jul 02, 09:09 PM** - Space Force ponders shakeup to LEO satellite strategy, potentially hiring SpaceX for data relay (breaking_defense)
@@ -6812,3 +6804,4 @@
 - **Oct 05, 11:55 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 05, 11:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 05, 11:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 06, 12:02 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
