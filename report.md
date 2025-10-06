@@ -5,7 +5,7 @@
 | spacenews | 4 | 4 | 25 | 49 |
 | nyt | 1 | 1 | 24 | 48 |
 | breaking_defense | 0 | 0 | 23 | 47 |
-| supercluster | 1 | 1 | 85 | 85 |
+| supercluster | 1 | 1 | 86 | 86 |
 
 # Shown Order
 
@@ -6561,3 +6561,4 @@
 - **Oct 06, 05:02 PM** - Sync Your Calendar With the Solar System (nyt)
 - **Oct 06, 05:19 PM** - What’s in a name: Goodbye Maxar, hello Vantor and Lanteris (breaking_defense)
 - **Oct 06, 05:33 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 06, 05:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
