@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 23 | 48 |
+| spacenews | 2 | 3 | 24 | 49 |
 | nyt | 0 | 0 | 24 | 47 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | supercluster | 1 | 1 | 42 | 42 |
@@ -6494,3 +6494,4 @@
 - **Oct 06, 09:53 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 06, 09:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 06, 09:57 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 06, 09:59 AM** - The spreadsheet behind the Golden Dome sticker shock (spacenews)
