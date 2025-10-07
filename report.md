@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 6 | 25 | 49 |
+| spacenews | 4 | 6 | 26 | 50 |
 | breaking_defense | 1 | 1 | 22 | 46 |
 | nyt | 1 | 1 | 23 | 47 |
 | supercluster | 1 | 1 | 34 | 34 |
@@ -6490,3 +6490,4 @@
 - **Oct 07, 09:27 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 07, 09:30 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 07, 09:33 AM** - Sync Your Calendar With the Solar System (nyt)
+- **Oct 07, 09:49 AM** - SpaceX’s D2D deal spurs space bulls (spacenews)
