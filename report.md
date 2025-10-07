@@ -5,7 +5,7 @@
 | spacenews | 4 | 6 | 26 | 50 |
 | breaking_defense | 1 | 1 | 23 | 47 |
 | nyt | 1 | 1 | 24 | 48 |
-| supercluster | 1 | 1 | 147 | 147 |
+| supercluster | 1 | 1 | 148 | 148 |
 
 # Shown Order
 
@@ -6585,3 +6585,4 @@
 - **Oct 07, 01:51 AM** - Synspective purchases 10 additional Electron launches (spacenews)
 - **Oct 07, 02:07 AM** - Firefly to buy SciTec with eye on Golden Dome (breaking_defense)
 - **Oct 07, 02:21 AM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
+- **Oct 07, 02:36 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
