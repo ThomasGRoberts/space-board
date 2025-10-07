@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 9 | 26 | 51 |
-| breaking_defense | 1 | 2 | 22 | 45 |
+| breaking_defense | 1 | 2 | 23 | 46 |
 | nyt | 1 | 2 | 23 | 47 |
 | supercluster | 1 | 1 | 125 | 125 |
 
@@ -6625,3 +6625,4 @@
 - **Oct 07, 11:17 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 07, 11:20 PM** - Synspective purchases 10 additional Electron launches (spacenews)
 - **Oct 07, 11:37 PM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
+- **Oct 07, 11:52 PM** - What’s in a name: Goodbye Maxar, hello Vantor and Lanteris (breaking_defense)
