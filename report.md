@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 25 | 49 |
-| breaking_defense | 1 | 1 | 22 | 46 |
+| breaking_defense | 1 | 1 | 23 | 47 |
 | nyt | 1 | 1 | 23 | 47 |
 | supercluster | 1 | 1 | 27 | 27 |
 
@@ -6481,3 +6481,4 @@
 - **Oct 07, 08:31 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 07, 08:34 AM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
 - **Oct 07, 08:47 AM** - The Exploration Company still studying Mission Possible reentry (spacenews)
+- **Oct 07, 09:02 AM** - SASC Dems skeptical of Golden Dome price, feasibility (breaking_defense)
