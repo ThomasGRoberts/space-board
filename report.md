@@ -5,7 +5,7 @@
 | spacenews | 4 | 8 | 25 | 50 |
 | breaking_defense | 1 | 1 | 23 | 47 |
 | nyt | 0 | 1 | 22 | 46 |
-| supercluster | 1 | 1 | 91 | 91 |
+| supercluster | 1 | 1 | 92 | 92 |
 
 # Shown Order
 
@@ -6574,3 +6574,4 @@
 - **Oct 07, 05:49 PM** - ExLabs wins Space Force contract for reconfigurable space platform (spacenews)
 - **Oct 07, 06:06 PM** - Space Rapid Capabilities Office to put radars on sats to warn of space-bound threats (breaking_defense)
 - **Oct 07, 06:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 07, 06:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
