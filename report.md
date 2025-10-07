@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 25 | 49 |
-| breaking_defense | 1 | 1 | 22 | 46 |
+| breaking_defense | 1 | 1 | 23 | 47 |
 | nyt | 1 | 1 | 23 | 47 |
 | supercluster | 1 | 1 | 48 | 48 |
 
@@ -6511,3 +6511,4 @@
 - **Oct 07, 11:31 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 07, 11:33 AM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
 - **Oct 07, 11:47 AM** - ViaSat-3 F2 delivered to Florida for October launch (spacenews)
+- **Oct 07, 12:02 PM** - Space Force declares ATLAS space domain awareness software ‘operational’ (breaking_defense)
