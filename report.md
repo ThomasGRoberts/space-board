@@ -5,7 +5,7 @@
 | spacenews | 4 | 6 | 25 | 49 |
 | breaking_defense | 1 | 1 | 23 | 47 |
 | nyt | 1 | 1 | 22 | 46 |
-| supercluster | 1 | 1 | 43 | 43 |
+| supercluster | 1 | 1 | 44 | 44 |
 
 # Shown Order
 
@@ -6504,3 +6504,4 @@
 - **Oct 07, 11:05 AM** - Close the gap: Turn the Franco-German missile early warning into measurable capability (breaking_defense)
 - **Oct 07, 11:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 07, 11:21 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 07, 11:23 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
