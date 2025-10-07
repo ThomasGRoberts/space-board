@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-07T00:02:07.286386+00:00",
-    "trigger_count": 6,
-    "current_item_id": "bc0dff4071d94abf9e0b09b411697fcb",
+    "trigger_count": 0,
+    "current_item_id": "ec6e3ffbc65a8677e5e9dde5432c0456",
     "data": [
         {
             "id": "18f6d7393beac0bf51331ef43d1fa15f",
@@ -12099,6 +12099,18 @@
             "fetched_datetime": "2025-10-07T14:55:40.678503Z",
             "shown_at": [
                 "2025-10-07T14:55:41.419915Z"
+            ]
+        },
+        {
+            "id": "ec6e3ffbc65a8677e5e9dde5432c0456",
+            "source": "breaking_defense",
+            "text": "Defense to ‘anchor’ exploding satellite market over next decade: NovaSpace",
+            "source_link": "https://breakingdefense.com/2025/10/defense-to-anchor-exploding-satellite-market-over-next-decade-novaspace/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-07T19:09:45.771831Z",
+            "shown_at": [
+                "2025-10-07T19:09:46.418575Z"
             ]
         }
     ]
