@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 6 | 26 | 50 |
+| spacenews | 4 | 6 | 25 | 50 |
 | breaking_defense | 1 | 1 | 23 | 47 |
 | nyt | 1 | 1 | 24 | 48 |
-| supercluster | 1 | 1 | 154 | 154 |
+| supercluster | 1 | 1 | 155 | 155 |
 
 # Shown Order
 
@@ -6595,3 +6595,4 @@
 - **Oct 07, 02:49 AM** - Kayhan Space releases free software to speed up satellite visualization (spacenews)
 - **Oct 07, 03:07 AM** - Space Force declares ATLAS space domain awareness software ‘operational’ (breaking_defense)
 - **Oct 07, 03:22 AM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
+- **Oct 07, 03:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
