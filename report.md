@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 9 | 26 | 51 |
-| breaking_defense | 1 | 2 | 22 | 45 |
+| breaking_defense | 1 | 2 | 23 | 46 |
 | nyt | 1 | 2 | 23 | 47 |
 | supercluster | 1 | 1 | 118 | 118 |
 
@@ -6615,3 +6615,4 @@
 - **Oct 07, 10:02 PM** - Sync Your Calendar With the Solar System (nyt)
 - **Oct 07, 10:17 PM** - Sateliot hails first standards-based IoT connection from LEO to a commercial device (spacenews)
 - **Oct 07, 10:33 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
+- **Oct 07, 10:47 PM** - Close the gap: Turn the Franco-German missile early warning into measurable capability (breaking_defense)
