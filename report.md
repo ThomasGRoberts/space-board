@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 25 | 49 |
 | breaking_defense | 1 | 1 | 22 | 46 |
-| nyt | 1 | 1 | 22 | 46 |
+| nyt | 1 | 1 | 23 | 47 |
 | supercluster | 1 | 1 | 6 | 6 |
 
 # Shown Order
@@ -6449,3 +6449,4 @@
 - **Oct 07, 05:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 07, 05:21 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 07, 05:24 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 07, 05:27 AM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
