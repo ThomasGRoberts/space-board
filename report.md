@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 8 | 25 | 50 |
+| spacenews | 5 | 9 | 26 | 51 |
 | breaking_defense | 2 | 2 | 23 | 46 |
 | nyt | 0 | 1 | 22 | 46 |
 | supercluster | 1 | 1 | 104 | 104 |
@@ -6590,3 +6590,4 @@
 - **Oct 07, 07:32 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 07, 07:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 07, 07:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 07, 07:37 PM** - Senators spar over plans to move shuttle Discovery (spacenews)
