@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 9 | 25 | 51 |
-| breaking_defense | 1 | 2 | 22 | 46 |
+| breaking_defense | 1 | 2 | 23 | 47 |
 | nyt | 0 | 1 | 23 | 46 |
 | supercluster | 1 | 1 | 111 | 111 |
 
@@ -6603,3 +6603,4 @@
 - **Oct 07, 08:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 07, 08:47 PM** - At IAC, global space cooperation meets American space dominance (spacenews)
 - **Oct 07, 09:02 PM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
+- **Oct 07, 09:17 PM** - Space Rapid Capabilities Office to put radars on sats to warn of space-bound threats (breaking_defense)
