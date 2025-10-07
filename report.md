@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 25 | 49 |
-| breaking_defense | 1 | 1 | 22 | 46 |
+| breaking_defense | 1 | 1 | 23 | 47 |
 | nyt | 1 | 1 | 23 | 47 |
 | supercluster | 1 | 1 | 13 | 13 |
 
@@ -6461,3 +6461,4 @@
 - **Oct 07, 06:29 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 07, 06:32 AM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
 - **Oct 07, 06:49 AM** - University of Western Australia unveils optical ground network (spacenews)
+- **Oct 07, 07:04 AM** - Space Rapid Capabilities Office to put radars on sats to warn of space-bound threats (breaking_defense)
