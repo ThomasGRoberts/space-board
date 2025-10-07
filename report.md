@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 6 | 26 | 50 |
+| spacenews | 4 | 6 | 25 | 50 |
 | breaking_defense | 1 | 1 | 23 | 47 |
 | nyt | 1 | 1 | 24 | 48 |
-| supercluster | 1 | 1 | 142 | 142 |
+| supercluster | 1 | 1 | 143 | 143 |
 
 # Shown Order
 
@@ -6577,3 +6577,4 @@
 - **Oct 07, 01:23 AM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
 - **Oct 07, 01:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 07, 01:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 07, 01:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
