@@ -5,7 +5,7 @@
 | spacenews | 4 | 6 | 25 | 49 |
 | breaking_defense | 1 | 1 | 23 | 47 |
 | nyt | 1 | 1 | 22 | 46 |
-| supercluster | 1 | 1 | 50 | 50 |
+| supercluster | 1 | 1 | 51 | 51 |
 
 # Shown Order
 
@@ -6514,3 +6514,4 @@
 - **Oct 07, 12:02 PM** - Space Force declares ATLAS space domain awareness software ‘operational’ (breaking_defense)
 - **Oct 07, 12:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 07, 12:21 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 07, 12:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
