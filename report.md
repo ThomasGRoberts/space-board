@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 8 | 24 | 50 |
+| spacenews | 4 | 8 | 25 | 51 |
 | breaking_defense | 1 | 1 | 23 | 46 |
 | nyt | 0 | 1 | 23 | 47 |
 | supercluster | 1 | 1 | 97 | 97 |
@@ -6581,3 +6581,4 @@
 - **Oct 07, 06:34 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 07, 06:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 07, 06:38 PM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
+- **Oct 07, 06:52 PM** - Utilize the ISS as a resource: a common sense, fiscally responsible plan leveraging the International Space Station (spacenews)
