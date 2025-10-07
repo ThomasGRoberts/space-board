@@ -5,7 +5,7 @@
 | spacenews | 4 | 8 | 25 | 50 |
 | breaking_defense | 1 | 1 | 23 | 47 |
 | nyt | 0 | 1 | 22 | 46 |
-| supercluster | 1 | 1 | 84 | 84 |
+| supercluster | 1 | 1 | 85 | 85 |
 
 # Shown Order
 
@@ -6564,3 +6564,4 @@
 - **Oct 07, 04:51 PM** - FCC launches ‘Space Month’ to fast-track satellite licensing and spectrum reforms (spacenews)
 - **Oct 07, 05:07 PM** - What’s in a name: Goodbye Maxar, hello Vantor and Lanteris (breaking_defense)
 - **Oct 07, 05:21 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 07, 05:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
