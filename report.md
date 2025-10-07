@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 25 | 49 |
 | breaking_defense | 1 | 1 | 23 | 47 |
-| nyt | 1 | 1 | 23 | 46 |
-| supercluster | 1 | 1 | 27 | 27 |
+| nyt | 1 | 1 | 22 | 46 |
+| supercluster | 1 | 1 | 28 | 28 |
 
 # Shown Order
 
@@ -6482,3 +6482,4 @@
 - **Oct 07, 08:34 AM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
 - **Oct 07, 08:47 AM** - The Exploration Company still studying Mission Possible reentry (spacenews)
 - **Oct 07, 09:02 AM** - SASC Dems skeptical of Golden Dome price, feasibility (breaking_defense)
+- **Oct 07, 09:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
