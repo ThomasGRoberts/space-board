@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 8 | 25 | 50 |
+| spacenews | 5 | 8 | 26 | 51 |
 | breaking_defense | 1 | 2 | 23 | 46 |
 | nyt | 0 | 1 | 22 | 46 |
 | supercluster | 1 | 1 | 118 | 118 |
@@ -6611,3 +6611,4 @@
 - **Oct 07, 09:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 07, 09:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 07, 09:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 07, 09:47 PM** - What’s next for direct-to-device after SpaceX’s blockbuster spectrum deal (spacenews)
