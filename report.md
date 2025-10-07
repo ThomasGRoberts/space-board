@@ -5,7 +5,7 @@
 | spacenews | 4 | 8 | 25 | 50 |
 | breaking_defense | 1 | 1 | 23 | 47 |
 | nyt | 0 | 1 | 22 | 46 |
-| supercluster | 1 | 1 | 77 | 77 |
+| supercluster | 1 | 1 | 78 | 78 |
 
 # Shown Order
 
@@ -6554,3 +6554,4 @@
 - **Oct 07, 03:51 PM** - EchoStar clears key regulatory step for spectrum sale to SpaceX (spacenews)
 - **Oct 07, 04:09 PM** - Space Force declares ATLAS space domain awareness software ‘operational’ (breaking_defense)
 - **Oct 07, 04:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 07, 04:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
