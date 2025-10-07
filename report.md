@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 10 | 26 | 51 |
-| breaking_defense | 2 | 2 | 22 | 46 |
+| breaking_defense | 2 | 2 | 23 | 47 |
 | nyt | 0 | 1 | 22 | 46 |
 | supercluster | 1 | 1 | 104 | 104 |
 
@@ -6593,3 +6593,4 @@
 - **Oct 07, 07:37 PM** - Senators spar over plans to move shuttle Discovery (spacenews)
 - **Oct 07, 07:51 PM** - Blue Origin wins $78.2 million contract to expand satellite processing infrastructure at Cape Canaveral (spacenews)
 - **Oct 07, 08:05 PM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
+- **Oct 07, 08:19 PM** - Firefly to buy SciTec with eye on Golden Dome (breaking_defense)
