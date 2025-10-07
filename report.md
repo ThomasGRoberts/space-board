@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 26 | 50 |
 | breaking_defense | 1 | 1 | 24 | 48 |
-| nyt | 1 | 1 | 23 | 47 |
+| nyt | 1 | 1 | 24 | 48 |
 | supercluster | 1 | 1 | 140 | 140 |
 
 # Shown Order
@@ -6574,3 +6574,4 @@
 - **Oct 07, 12:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 07, 12:53 AM** - SpaceX’s D2D deal spurs space bulls (spacenews)
 - **Oct 07, 01:10 AM** - Space Force declares ATLAS space domain awareness software ‘operational’ (breaking_defense)
+- **Oct 07, 01:23 AM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
