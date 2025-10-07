@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 8 | 25 | 50 |
-| breaking_defense | 2 | 2 | 23 | 47 |
+| breaking_defense | 2 | 2 | 23 | 46 |
 | nyt | 0 | 1 | 22 | 46 |
-| supercluster | 1 | 1 | 98 | 98 |
+| supercluster | 1 | 1 | 99 | 99 |
 
 # Shown Order
 
@@ -6584,3 +6584,4 @@
 - **Oct 07, 06:52 PM** - Utilize the ISS as a resource: a common sense, fiscally responsible plan leveraging the International Space Station (spacenews)
 - **Oct 07, 07:09 PM** - Defense to ‘anchor’ exploding satellite market over next decade: NovaSpace (breaking_defense)
 - **Oct 07, 07:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 07, 07:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
