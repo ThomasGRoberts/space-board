@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 25 | 49 |
-| breaking_defense | 1 | 1 | 23 | 47 |
+| breaking_defense | 1 | 1 | 23 | 46 |
 | nyt | 1 | 1 | 22 | 46 |
-| supercluster | 1 | 1 | 29 | 29 |
+| supercluster | 1 | 1 | 30 | 30 |
 
 # Shown Order
 
@@ -6484,3 +6484,4 @@
 - **Oct 07, 09:02 AM** - SASC Dems skeptical of Golden Dome price, feasibility (breaking_defense)
 - **Oct 07, 09:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 07, 09:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 07, 09:21 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
