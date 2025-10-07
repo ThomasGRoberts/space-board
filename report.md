@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 8 | 25 | 50 |
-| breaking_defense | 1 | 1 | 23 | 46 |
+| breaking_defense | 1 | 1 | 24 | 47 |
 | nyt | 0 | 1 | 22 | 47 |
 | supercluster | 1 | 1 | 83 | 83 |
 
@@ -6562,3 +6562,4 @@
 - **Oct 07, 04:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 07, 04:37 PM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
 - **Oct 07, 04:51 PM** - FCC launches ‘Space Month’ to fast-track satellite licensing and spectrum reforms (spacenews)
+- **Oct 07, 05:07 PM** - What’s in a name: Goodbye Maxar, hello Vantor and Lanteris (breaking_defense)
