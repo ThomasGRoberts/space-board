@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 9 | 26 | 52 |
 | breaking_defense | 1 | 2 | 22 | 45 |
-| nyt | 0 | 1 | 22 | 46 |
+| nyt | 1 | 2 | 23 | 47 |
 | supercluster | 1 | 1 | 118 | 118 |
 
 # Shown Order
@@ -6614,3 +6614,4 @@
 - **Oct 07, 09:47 PM** - What’s next for direct-to-device after SpaceX’s blockbuster spectrum deal (spacenews)
 - **Oct 07, 10:02 PM** - Sync Your Calendar With the Solar System (nyt)
 - **Oct 07, 10:17 PM** - Sateliot hails first standards-based IoT connection from LEO to a commercial device (spacenews)
+- **Oct 07, 10:33 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
