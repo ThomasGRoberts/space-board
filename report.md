@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 8 | 24 | 50 |
+| spacenews | 4 | 8 | 25 | 51 |
 | breaking_defense | 1 | 1 | 23 | 46 |
 | nyt | 0 | 1 | 23 | 47 |
 | supercluster | 1 | 1 | 76 | 76 |
@@ -6551,3 +6551,4 @@
 - **Oct 07, 03:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 07, 03:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 07, 03:37 PM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
+- **Oct 07, 03:51 PM** - EchoStar clears key regulatory step for spectrum sale to SpaceX (spacenews)
