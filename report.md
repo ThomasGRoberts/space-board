@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 8 | 25 | 51 |
+| spacenews | 5 | 9 | 26 | 52 |
 | breaking_defense | 1 | 2 | 22 | 46 |
 | nyt | 0 | 1 | 23 | 46 |
 | supercluster | 1 | 1 | 118 | 118 |
@@ -6613,3 +6613,4 @@
 - **Oct 07, 09:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 07, 09:47 PM** - What’s next for direct-to-device after SpaceX’s blockbuster spectrum deal (spacenews)
 - **Oct 07, 10:02 PM** - Sync Your Calendar With the Solar System (nyt)
+- **Oct 07, 10:17 PM** - Sateliot hails first standards-based IoT connection from LEO to a commercial device (spacenews)

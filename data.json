@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-07T00:02:07.286386+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0f1f314b833468e80995eaf7d440bf97",
+    "trigger_count": 0,
+    "current_item_id": "e40e500cb1402a75fc5ddbdb2ec8e4de",
     "data": [
         {
             "id": "18f6d7393beac0bf51331ef43d1fa15f",
@@ -12163,6 +12163,18 @@
             "fetched_datetime": "2025-10-07T19:51:54.167300Z",
             "shown_at": [
                 "2025-10-07T19:51:54.756415Z"
+            ]
+        },
+        {
+            "id": "e40e500cb1402a75fc5ddbdb2ec8e4de",
+            "source": "spacenews",
+            "text": "Sateliot hails first standards-based IoT connection from LEO to a commercial device",
+            "source_link": "https://spacenews.com/sateliot-hails-first-standards-based-iot-connection-from-leo-to-a-commercial-device/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-07T22:17:47.989767Z",
+            "shown_at": [
+                "2025-10-07T22:17:48.678156Z"
             ]
         }
     ]
