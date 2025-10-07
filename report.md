@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 6 | 25 | 49 |
+| spacenews | 4 | 6 | 26 | 50 |
 | breaking_defense | 1 | 1 | 22 | 46 |
 | nyt | 1 | 1 | 23 | 47 |
 | supercluster | 1 | 1 | 41 | 41 |
@@ -6500,3 +6500,4 @@
 - **Oct 07, 10:32 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 07, 10:33 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 07, 10:35 AM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
+- **Oct 07, 10:49 AM** - China set for high-stakes moon program and reusable launch tests to close out 2025 (spacenews)
