@@ -5,7 +5,7 @@
 | spacenews | 6 | 10 | 26 | 51 |
 | breaking_defense | 2 | 2 | 23 | 46 |
 | nyt | 0 | 1 | 22 | 46 |
-| supercluster | 1 | 1 | 104 | 104 |
+| supercluster | 1 | 1 | 105 | 105 |
 
 # Shown Order
 
@@ -6594,3 +6594,4 @@
 - **Oct 07, 07:51 PM** - Blue Origin wins $78.2 million contract to expand satellite processing infrastructure at Cape Canaveral (spacenews)
 - **Oct 07, 08:05 PM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
 - **Oct 07, 08:19 PM** - Firefly to buy SciTec with eye on Golden Dome (breaking_defense)
+- **Oct 07, 08:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
