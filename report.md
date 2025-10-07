@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 9 | 25 | 51 |
 | breaking_defense | 1 | 2 | 23 | 46 |
-| nyt | 0 | 1 | 23 | 46 |
-| supercluster | 1 | 1 | 111 | 111 |
+| nyt | 0 | 1 | 22 | 46 |
+| supercluster | 1 | 1 | 112 | 112 |
 
 # Shown Order
 
@@ -6604,3 +6604,4 @@
 - **Oct 07, 08:47 PM** - At IAC, global space cooperation meets American space dominance (spacenews)
 - **Oct 07, 09:02 PM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
 - **Oct 07, 09:17 PM** - Space Rapid Capabilities Office to put radars on sats to warn of space-bound threats (breaking_defense)
+- **Oct 07, 09:32 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
