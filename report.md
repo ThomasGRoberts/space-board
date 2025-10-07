@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 8 | 25 | 51 |
 | breaking_defense | 1 | 2 | 23 | 46 |
-| nyt | 0 | 1 | 22 | 46 |
+| nyt | 0 | 1 | 23 | 47 |
 | supercluster | 1 | 1 | 118 | 118 |
 
 # Shown Order
@@ -6612,3 +6612,4 @@
 - **Oct 07, 09:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 07, 09:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 07, 09:47 PM** - What’s next for direct-to-device after SpaceX’s blockbuster spectrum deal (spacenews)
+- **Oct 07, 10:02 PM** - Sync Your Calendar With the Solar System (nyt)
