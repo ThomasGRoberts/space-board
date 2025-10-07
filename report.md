@@ -6443,4 +6443,4 @@
 - **Oct 07, 03:22 AM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
 - **Oct 07, 03:53 AM** - Varda Space and Southern Launch agree to more capsule landings in Australia (spacenews)
 - **Oct 07, 04:07 AM** - Firefly to buy SciTec with eye on Golden Dome (breaking_defense)
-- **Oct 07, 04:25 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 07, 04:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
