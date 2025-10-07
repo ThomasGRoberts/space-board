@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 7 | 25 | 50 |
-| breaking_defense | 1 | 1 | 23 | 46 |
+| breaking_defense | 1 | 1 | 24 | 47 |
 | nyt | 0 | 1 | 22 | 47 |
 | supercluster | 1 | 1 | 62 | 62 |
 
@@ -6532,3 +6532,4 @@
 - **Oct 07, 01:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 07, 01:45 PM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
 - **Oct 07, 01:59 PM** - The Exploration Company still studying Mission Possible reentry (spacenews)
+- **Oct 07, 02:13 PM** - Space Force taps SpaceX, ULA for first set of critical launches beyond FY27 (breaking_defense)
