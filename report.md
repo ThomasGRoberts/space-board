@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 6 | 26 | 50 |
+| spacenews | 4 | 6 | 25 | 50 |
 | breaking_defense | 1 | 1 | 23 | 47 |
 | nyt | 1 | 1 | 24 | 48 |
-| supercluster | 1 | 1 | 149 | 149 |
+| supercluster | 1 | 1 | 150 | 150 |
 
 # Shown Order
 
@@ -6587,3 +6587,4 @@
 - **Oct 07, 02:21 AM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
 - **Oct 07, 02:36 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 07, 02:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 07, 02:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
