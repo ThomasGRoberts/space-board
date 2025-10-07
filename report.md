@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 7 | 24 | 50 |
+| spacenews | 4 | 8 | 25 | 51 |
 | breaking_defense | 1 | 1 | 23 | 46 |
 | nyt | 0 | 1 | 23 | 47 |
 | supercluster | 1 | 1 | 69 | 69 |
@@ -6541,3 +6541,4 @@
 - **Oct 07, 02:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 07, 02:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 07, 02:41 PM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
+- **Oct 07, 02:55 PM** - Novaspace Projects $665B in Satellite Build and Launch Activity (spacenews)
