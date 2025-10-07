@@ -5,7 +5,7 @@
 | spacenews | 4 | 6 | 25 | 49 |
 | breaking_defense | 1 | 1 | 23 | 47 |
 | nyt | 1 | 1 | 22 | 46 |
-| supercluster | 1 | 1 | 35 | 35 |
+| supercluster | 1 | 1 | 36 | 36 |
 
 # Shown Order
 
@@ -6493,3 +6493,4 @@
 - **Oct 07, 09:49 AM** - SpaceX’s D2D deal spurs space bulls (spacenews)
 - **Oct 07, 10:04 AM** - Space Force taps SpaceX, ULA for first set of critical launches beyond FY27 (breaking_defense)
 - **Oct 07, 10:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 07, 10:22 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
