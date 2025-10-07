@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 25 | 49 |
-| breaking_defense | 1 | 1 | 22 | 46 |
+| breaking_defense | 1 | 1 | 23 | 47 |
 | nyt | 1 | 1 | 23 | 47 |
 | supercluster | 1 | 1 | 6 | 6 |
 
@@ -6451,3 +6451,4 @@
 - **Oct 07, 05:24 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 07, 05:27 AM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
 - **Oct 07, 05:43 AM** - Varda Space and Southern Launch agree to more capsule landings in Australia (spacenews)
+- **Oct 07, 05:58 AM** - Firefly to buy SciTec with eye on Golden Dome (breaking_defense)
