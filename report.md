@@ -5,7 +5,7 @@
 | spacenews | 4 | 8 | 25 | 50 |
 | breaking_defense | 1 | 1 | 23 | 47 |
 | nyt | 0 | 1 | 22 | 46 |
-| supercluster | 1 | 1 | 70 | 70 |
+| supercluster | 1 | 1 | 71 | 71 |
 
 # Shown Order
 
@@ -6544,3 +6544,4 @@
 - **Oct 07, 02:55 PM** - Novaspace Projects $665B in Satellite Build and Launch Activity (spacenews)
 - **Oct 07, 03:09 PM** - Space Force taps SpaceX, ULA for first set of critical launches beyond FY27 (breaking_defense)
 - **Oct 07, 03:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 07, 03:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
