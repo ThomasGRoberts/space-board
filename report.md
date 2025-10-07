@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 9 | 26 | 52 |
 | breaking_defense | 1 | 2 | 22 | 45 |
-| nyt | 1 | 2 | 22 | 46 |
+| nyt | 1 | 2 | 23 | 47 |
 | supercluster | 1 | 1 | 125 | 125 |
 
 # Shown Order
@@ -6624,3 +6624,4 @@
 - **Oct 07, 11:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 07, 11:17 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 07, 11:20 PM** - Synspective purchases 10 additional Electron launches (spacenews)
+- **Oct 07, 11:37 PM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
