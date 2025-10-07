@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 9 | 25 | 51 |
+| spacenews | 6 | 10 | 26 | 52 |
 | breaking_defense | 2 | 2 | 23 | 46 |
 | nyt | 0 | 1 | 22 | 46 |
 | supercluster | 1 | 1 | 104 | 104 |
@@ -6591,3 +6591,4 @@
 - **Oct 07, 07:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 07, 07:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 07, 07:37 PM** - Senators spar over plans to move shuttle Discovery (spacenews)
+- **Oct 07, 07:51 PM** - Blue Origin wins $78.2 million contract to expand satellite processing infrastructure at Cape Canaveral (spacenews)
