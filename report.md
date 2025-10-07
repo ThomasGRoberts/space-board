@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 26 | 50 |
-| breaking_defense | 1 | 1 | 23 | 47 |
+| breaking_defense | 1 | 1 | 24 | 48 |
 | nyt | 1 | 1 | 24 | 48 |
 | supercluster | 1 | 1 | 154 | 154 |
 
@@ -6593,3 +6593,4 @@
 - **Oct 07, 02:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 07, 02:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 07, 02:49 AM** - Kayhan Space releases free software to speed up satellite visualization (spacenews)
+- **Oct 07, 03:07 AM** - Space Force declares ATLAS space domain awareness software ‘operational’ (breaking_defense)
