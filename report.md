@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 26 | 50 |
-| breaking_defense | 1 | 1 | 23 | 47 |
-| nyt | 1 | 1 | 24 | 48 |
+| breaking_defense | 1 | 1 | 24 | 48 |
+| nyt | 1 | 1 | 23 | 47 |
 | supercluster | 1 | 1 | 161 | 161 |
 
 # Shown Order
@@ -6603,3 +6603,4 @@
 - **Oct 07, 03:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 07, 03:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 07, 03:53 AM** - Varda Space and Southern Launch agree to more capsule landings in Australia (spacenews)
+- **Oct 07, 04:07 AM** - Firefly to buy SciTec with eye on Golden Dome (breaking_defense)
