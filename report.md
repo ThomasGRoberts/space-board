@@ -5,7 +5,7 @@
 | spacenews | 4 | 8 | 25 | 50 |
 | breaking_defense | 2 | 2 | 23 | 47 |
 | nyt | 0 | 1 | 22 | 46 |
-| supercluster | 1 | 1 | 97 | 97 |
+| supercluster | 1 | 1 | 98 | 98 |
 
 # Shown Order
 
@@ -6583,3 +6583,4 @@
 - **Oct 07, 06:38 PM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
 - **Oct 07, 06:52 PM** - Utilize the ISS as a resource: a common sense, fiscally responsible plan leveraging the International Space Station (spacenews)
 - **Oct 07, 07:09 PM** - Defense to ‘anchor’ exploding satellite market over next decade: NovaSpace (breaking_defense)
+- **Oct 07, 07:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
