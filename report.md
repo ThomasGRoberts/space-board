@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 25 | 49 |
 | breaking_defense | 1 | 1 | 22 | 46 |
-| nyt | 1 | 1 | 22 | 46 |
+| nyt | 1 | 1 | 23 | 47 |
 | supercluster | 1 | 1 | 20 | 20 |
 
 # Shown Order
@@ -6469,3 +6469,4 @@
 - **Oct 07, 07:27 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 07, 07:29 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 07, 07:32 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 07, 07:35 AM** - Sync Your Calendar With the Solar System (nyt)
