@@ -5,7 +5,7 @@
 | spacenews | 4 | 6 | 25 | 49 |
 | breaking_defense | 1 | 1 | 23 | 46 |
 | nyt | 1 | 1 | 22 | 46 |
-| supercluster | 1 | 1 | 22 | 22 |
+| supercluster | 1 | 1 | 23 | 23 |
 
 # Shown Order
 
@@ -6474,3 +6474,4 @@
 - **Oct 07, 08:05 AM** - Firefly to buy SciTec with eye on Golden Dome (breaking_defense)
 - **Oct 07, 08:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 07, 08:21 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 07, 08:23 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
