@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 6 | 25 | 49 |
+| spacenews | 5 | 7 | 26 | 50 |
 | breaking_defense | 1 | 1 | 22 | 46 |
 | nyt | 1 | 1 | 23 | 47 |
 | supercluster | 1 | 1 | 55 | 55 |
@@ -6521,3 +6521,4 @@
 - **Oct 07, 12:32 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 07, 12:34 PM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
 - **Oct 07, 12:49 PM** - Will Pentagon procurement reforms really stick this time? (spacenews)
+- **Oct 07, 01:03 PM** - Britain’s space security needs more than government funding (spacenews)

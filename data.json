@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-07T00:02:07.286386+00:00",
-    "trigger_count": 6,
-    "current_item_id": "79bc20a3bac241f4b32c54e56ee91864",
+    "trigger_count": 0,
+    "current_item_id": "cafc167fc34dcc546765079887023f4e",
     "data": [
         {
             "id": "18f6d7393beac0bf51331ef43d1fa15f",
@@ -12016,6 +12016,18 @@
                 "2025-10-07T12:27:47.462522Z",
                 "2025-10-07T12:29:56.138117Z",
                 "2025-10-07T12:32:05.176063Z"
+            ]
+        },
+        {
+            "id": "cafc167fc34dcc546765079887023f4e",
+            "source": "spacenews",
+            "text": "Britain’s space security needs more than government funding",
+            "source_link": "https://spacenews.com/britains-space-security-needs-more-than-government-funding/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-07T13:03:56.660122Z",
+            "shown_at": [
+                "2025-10-07T13:03:57.410040Z"
             ]
         }
     ]
