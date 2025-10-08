@@ -5,7 +5,7 @@
 | nyt | 1 | 2 | 23 | 46 |
 | spacenews | 5 | 9 | 26 | 51 |
 | breaking_defense | 1 | 2 | 22 | 44 |
-| supercluster | 1 | 1 | 30 | 30 |
+| supercluster | 1 | 1 | 31 | 31 |
 
 # Shown Order
 
@@ -6483,3 +6483,4 @@
 - **Oct 08, 09:16 AM** - ESA inaugurates new deep space antenna in Australia (spacenews)
 - **Oct 08, 09:33 AM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
 - **Oct 08, 09:48 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Oct 08, 09:49 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
