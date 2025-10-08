@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 22 | 44 |
 | spacenews | 6 | 10 | 24 | 49 |
-| breaking_defense | 0 | 2 | 20 | 44 |
+| breaking_defense | 0 | 2 | 21 | 45 |
 | supercluster | 1 | 1 | 32 | 32 |
 
 # Shown Order
@@ -6510,3 +6510,4 @@
 - **Oct 08, 06:41 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 08, 06:43 PM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
 - **Oct 08, 06:57 PM** - Space Force taps Muon’s wildfire monitoring satellites for weather imaging (spacenews)
+- **Oct 08, 07:15 PM** - What’s in a name: Goodbye Maxar, hello Vantor and Lanteris (breaking_defense)
