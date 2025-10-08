@@ -5,7 +5,7 @@
 | nyt | 0 | 1 | 21 | 44 |
 | spacenews | 7 | 12 | 24 | 49 |
 | breaking_defense | 1 | 2 | 21 | 44 |
-| supercluster | 1 | 1 | 61 | 61 |
+| supercluster | 1 | 1 | 62 | 62 |
 
 # Shown Order
 
@@ -6554,3 +6554,4 @@
 - **Oct 08, 11:29 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
 - **Oct 08, 11:43 PM** - Firefly to buy SciTec with eye on Golden Dome (breaking_defense)
 - **Oct 08, 11:57 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Oct 08, 11:59 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
