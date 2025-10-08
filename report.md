@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 22 | 44 |
 | spacenews | 6 | 10 | 24 | 49 |
 | breaking_defense | 0 | 2 | 21 | 44 |
-| supercluster | 1 | 1 | 33 | 33 |
+| supercluster | 1 | 1 | 34 | 34 |
 
 # Shown Order
 
@@ -6512,3 +6512,4 @@
 - **Oct 08, 06:57 PM** - Space Force taps Muon’s wildfire monitoring satellites for weather imaging (spacenews)
 - **Oct 08, 07:15 PM** - What’s in a name: Goodbye Maxar, hello Vantor and Lanteris (breaking_defense)
 - **Oct 08, 07:29 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Oct 08, 07:31 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
