@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-08T00:02:13.791534+00:00",
-    "trigger_count": 6,
-    "current_item_id": "de20e96a02cf96a520905a7d22a0bc51",
+    "trigger_count": 0,
+    "current_item_id": "7d19a46a172d8d9ec779e06edaa1efce",
     "data": [
         {
             "id": "2d02361c0b6ff8e5203df7bcd25aea2d",
@@ -12059,6 +12059,18 @@
             "fetched_datetime": "2025-10-08T19:58:04.298706Z",
             "shown_at": [
                 "2025-10-08T19:58:04.991161Z"
+            ]
+        },
+        {
+            "id": "7d19a46a172d8d9ec779e06edaa1efce",
+            "source": "spacenews",
+            "text": "AST SpaceMobile gains Verizon ally amid SpaceX’s direct-to-device push",
+            "source_link": "https://spacenews.com/ast-spacemobile-gains-verizon-ally-amid-spacexs-direct-to-device-push/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-08T20:13:46.653382Z",
+            "shown_at": [
+                "2025-10-08T20:13:47.359201Z"
             ]
         }
     ]
