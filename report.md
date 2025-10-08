@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 22 | 44 |
 | spacenews | 5 | 9 | 24 | 49 |
 | breaking_defense | 1 | 2 | 21 | 44 |
-| supercluster | 1 | 1 | 18 | 18 |
+| supercluster | 1 | 1 | 19 | 19 |
 
 # Shown Order
 
@@ -6491,3 +6491,4 @@
 - **Oct 08, 04:43 PM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
 - **Oct 08, 04:57 PM** - Gilmour Space plans return to flight next year (spacenews)
 - **Oct 08, 05:14 PM** - Defense to ‘anchor’ exploding satellite market over next decade: NovaSpace (breaking_defense)
+- **Oct 08, 05:27 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
