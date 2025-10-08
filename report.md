@@ -5,7 +5,7 @@
 | nyt | 1 | 2 | 23 | 46 |
 | spacenews | 5 | 9 | 26 | 51 |
 | breaking_defense | 1 | 2 | 22 | 44 |
-| supercluster | 1 | 1 | 23 | 23 |
+| supercluster | 1 | 1 | 24 | 24 |
 
 # Shown Order
 
@@ -6473,3 +6473,4 @@
 - **Oct 08, 08:09 AM** - Preparations on track for second New Glenn launch (spacenews)
 - **Oct 08, 08:25 AM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
 - **Oct 08, 08:43 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Oct 08, 08:45 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
