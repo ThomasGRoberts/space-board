@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 23 | 46 |
-| spacenews | 5 | 9 | 25 | 50 |
+| spacenews | 6 | 10 | 26 | 51 |
 | breaking_defense | 1 | 2 | 22 | 44 |
 | supercluster | 1 | 1 | 43 | 43 |
 
@@ -6499,3 +6499,4 @@
 - **Oct 08, 10:57 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Oct 08, 10:59 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Oct 08, 11:01 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Oct 08, 11:04 AM** - Space infrastructure investments surge to five-quarter high (spacenews)

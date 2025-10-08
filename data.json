@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-08T00:02:13.791534+00:00",
-    "trigger_count": 6,
-    "current_item_id": "74f768713c2abae34cbc871cbd847c1a",
+    "trigger_count": 0,
+    "current_item_id": "bb0908144ebd4a8c46608afb71fb715e",
     "data": [
         {
             "id": "2d02361c0b6ff8e5203df7bcd25aea2d",
@@ -11994,6 +11994,18 @@
                 "2025-10-08T10:57:55.994444Z",
                 "2025-10-08T10:59:48.208555Z",
                 "2025-10-08T11:01:58.639238Z"
+            ]
+        },
+        {
+            "id": "bb0908144ebd4a8c46608afb71fb715e",
+            "source": "spacenews",
+            "text": "Space infrastructure investments surge to five-quarter high",
+            "source_link": "https://spacenews.com/space-infrastructure-investments-surge-to-five-quarter-high/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-08T11:04:12.192368Z",
+            "shown_at": [
+                "2025-10-08T11:04:13.548650Z"
             ]
         }
     ]
