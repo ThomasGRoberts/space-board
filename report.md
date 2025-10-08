@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 22 | 44 |
 | spacenews | 7 | 12 | 24 | 50 |
 | breaking_defense | 1 | 2 | 21 | 44 |
-| supercluster | 1 | 1 | 46 | 46 |
+| supercluster | 1 | 1 | 47 | 47 |
 
 # Shown Order
 
@@ -6533,3 +6533,4 @@
 - **Oct 08, 09:13 PM** - EchoStar clears key regulatory step for spectrum sale to SpaceX (spacenews)
 - **Oct 08, 09:27 PM** - Blue Origin flies sixth crewed New Shepard flight of 2025 (spacenews)
 - **Oct 08, 09:43 PM** - Space Force sets up ‘working capital fund’ for commercial space services (spacenews)
+- **Oct 08, 09:57 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
