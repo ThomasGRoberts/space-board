@@ -5,7 +5,7 @@
 | nyt | 1 | 2 | 23 | 46 |
 | spacenews | 5 | 9 | 26 | 51 |
 | breaking_defense | 1 | 2 | 22 | 44 |
-| supercluster | 1 | 1 | 36 | 36 |
+| supercluster | 1 | 1 | 37 | 37 |
 
 # Shown Order
 
@@ -6492,3 +6492,4 @@
 - **Oct 08, 10:02 AM** - Firefly to buy SciTec with eye on Golden Dome (breaking_defense)
 - **Oct 08, 10:17 AM** - Starlink-compatible radios sought for Golden Dome interceptor satellite demo (spacenews)
 - **Oct 08, 10:31 AM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
+- **Oct 08, 10:47 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
