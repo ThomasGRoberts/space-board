@@ -5,7 +5,7 @@
 | nyt | 1 | 2 | 23 | 46 |
 | spacenews | 5 | 9 | 26 | 51 |
 | breaking_defense | 1 | 2 | 22 | 44 |
-| supercluster | 1 | 1 | 8 | 8 |
+| supercluster | 1 | 1 | 9 | 9 |
 
 # Shown Order
 
@@ -6452,3 +6452,4 @@
 - **Oct 08, 05:57 AM** - Close the gap: Turn the Franco-German missile early warning into measurable capability (breaking_defense)
 - **Oct 08, 06:14 AM** - ESA inaugurates new deep space antenna in Australia (spacenews)
 - **Oct 08, 06:29 AM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
+- **Oct 08, 06:45 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
