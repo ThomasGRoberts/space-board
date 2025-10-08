@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 23 | 45 |
 | spacenews | 5 | 11 | 22 | 48 |
-| breaking_defense | 1 | 3 | 21 | 44 |
+| breaking_defense | 1 | 3 | 22 | 45 |
 | supercluster | 1 | 1 | 46 | 46 |
 
 # Shown Order
@@ -6529,3 +6529,4 @@
 - **Oct 08, 08:38 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 08, 08:39 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 08, 08:41 PM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
+- **Oct 08, 08:57 PM** - Firefly to buy SciTec with eye on Golden Dome (breaking_defense)
