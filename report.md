@@ -5,7 +5,7 @@
 | nyt | 1 | 2 | 23 | 46 |
 | spacenews | 5 | 9 | 25 | 51 |
 | breaking_defense | 1 | 2 | 23 | 46 |
-| supercluster | 1 | 1 | 127 | 127 |
+| supercluster | 1 | 1 | 128 | 128 |
 
 # Shown Order
 
@@ -6554,3 +6554,4 @@
 - **Oct 07, 11:52 PM** - What’s in a name: Goodbye Maxar, hello Vantor and Lanteris (breaking_defense)
 - **Oct 08, 12:08 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 08, 12:09 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 08, 12:11 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
