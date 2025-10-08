@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 22 | 44 |
 | spacenews | 5 | 9 | 24 | 49 |
 | breaking_defense | 1 | 2 | 21 | 44 |
-| supercluster | 1 | 1 | 26 | 26 |
+| supercluster | 1 | 1 | 27 | 27 |
 
 # Shown Order
 
@@ -6502,3 +6502,4 @@
 - **Oct 08, 05:59 PM** - The spreadsheet behind the Golden Dome sticker shock (spacenews)
 - **Oct 08, 06:15 PM** - Space Force taps SpaceX, ULA for first set of critical launches beyond FY27 (breaking_defense)
 - **Oct 08, 06:29 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Oct 08, 06:32 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
