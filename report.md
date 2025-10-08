@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 2 | 23 | 45 |
-| spacenews | 6 | 10 | 25 | 50 |
+| nyt | 1 | 2 | 22 | 45 |
+| spacenews | 6 | 9 | 25 | 49 |
 | breaking_defense | 1 | 2 | 22 | 45 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 0 | 0 |
 
 # Shown Order
 
@@ -6464,4 +6464,3 @@
 - **Oct 08, 12:41 PM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
 - **Oct 08, 01:12 PM** - Golden Dome: What’s its story?  (spacenews)
 - **Oct 08, 01:29 PM** - Space Rapid Capabilities Office to put radars on sats to warn of space-bound threats (breaking_defense)
-- **Oct 08, 01:43 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
