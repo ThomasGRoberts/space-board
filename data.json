@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-08T00:02:13.791534+00:00",
-    "trigger_count": 6,
-    "current_item_id": "705bb27584108e7b73554e3a55451f5f",
+    "trigger_count": 0,
+    "current_item_id": "33520b12ca3f63d78fbde44f97788977",
     "data": [
         {
             "id": "2d02361c0b6ff8e5203df7bcd25aea2d",
@@ -12100,9 +12100,12 @@
             "source": "spacenews",
             "text": "Space Force sets up ‘working capital fund’ for commercial space services",
             "source_link": "https://spacenews.com/space-force-sets-up-working-capital-fund-for-commercial-space-services/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-10-08T21:27:51.147249Z"
+            "fetched_datetime": "2025-10-08T21:27:51.147249Z",
+            "shown_at": [
+                "2025-10-08T21:43:43.570231Z"
+            ]
         }
     ]
 }
