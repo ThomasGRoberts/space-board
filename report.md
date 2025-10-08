@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 23 | 46 |
-| spacenews | 5 | 9 | 25 | 51 |
-| breaking_defense | 1 | 2 | 22 | 44 |
+| spacenews | 5 | 9 | 25 | 50 |
+| breaking_defense | 1 | 2 | 23 | 45 |
 | supercluster | 1 | 1 | 36 | 36 |
 
 # Shown Order
@@ -6489,3 +6489,4 @@
 - **Oct 08, 09:55 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Oct 08, 09:57 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Oct 08, 09:59 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Oct 08, 10:02 AM** - Firefly to buy SciTec with eye on Golden Dome (breaking_defense)
