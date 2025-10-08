@@ -5,7 +5,7 @@
 | nyt | 1 | 2 | 23 | 47 |
 | spacenews | 5 | 9 | 25 | 51 |
 | breaking_defense | 1 | 2 | 22 | 45 |
-| supercluster | 1 | 1 | 21 | 21 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -6430,32 +6430,12 @@
 - **Oct 08, 12:21 AM** - Synspective purchases 10 additional Electron launches (spacenews)
 - **Oct 08, 12:38 AM** - Sync Your Calendar With the Solar System (nyt)
 - **Oct 08, 12:54 AM** - Space Rapid Capabilities Office to award contracts to put radars on sats to warn of space-bound threats (breaking_defense)
-- **Oct 08, 01:07 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Oct 08, 01:09 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Oct 08, 01:11 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Oct 08, 01:13 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Oct 08, 01:15 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Oct 08, 01:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Oct 08, 01:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 08, 01:21 AM** - How time series data is fueling the final frontier (spacenews)
 - **Oct 08, 01:35 AM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
 - **Oct 08, 01:49 AM** - Close the gap: Turn the Franco-German missile early warning into measurable capability (breaking_defense)
-- **Oct 08, 02:05 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Oct 08, 02:07 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Oct 08, 02:09 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Oct 08, 02:11 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Oct 08, 02:14 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Oct 08, 02:15 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Oct 08, 02:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 08, 02:19 AM** - Synspective purchases 10 additional Electron launches (spacenews)
 - **Oct 08, 02:37 AM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
 - **Oct 08, 02:52 AM** - Space Rapid Capabilities Office to put radars on sats to warn of space-bound threats (breaking_defense)
-- **Oct 08, 03:09 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Oct 08, 03:11 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Oct 08, 03:13 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Oct 08, 03:15 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Oct 08, 03:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Oct 08, 03:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Oct 08, 03:21 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 08, 03:23 AM** - HEO looks to expand satellite imaging beyond low Earth orbit (spacenews)
 - **Oct 08, 03:40 AM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
+- **Oct 08, 03:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
