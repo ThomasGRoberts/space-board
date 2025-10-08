@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-08T00:02:13.791534+00:00",
-    "trigger_count": 2,
-    "current_item_id": "74f768713c2abae34cbc871cbd847c1a",
+    "trigger_count": 3,
+    "current_item_id": "b4fa5167b536af8b3aa9516a9232b0aa",
     "data": [
         {
             "id": "2d02361c0b6ff8e5203df7bcd25aea2d",
@@ -11971,15 +11971,18 @@
             ]
         },
         {
-            "id": "74f768713c2abae34cbc871cbd847c1a",
+            "id": "b4fa5167b536af8b3aa9516a9232b0aa",
             "source": "supercluster",
-            "text": "Blue Origin Will Launch Crewed Suborbital Flight",
-            "source_link": "https://www.supercluster.com/launches/ns-36",
-            "shown": false,
+            "text": "SpaceX Will Launch Project Kuiper Internet Satellites for Amazon",
+            "source_link": "https://www.supercluster.com/launches/project-kuiper-kf-031",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-10-08T13:40:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-10-08T14:36:05.025806Z"
+            "target_datetime": "2025-10-10T01:34:00.000Z",
+            "time_remaining": "1d 10h 53m",
+            "fetched_datetime": "2025-10-08T14:40:03.562125Z",
+            "shown_at": [
+                "2025-10-08T14:40:04.666696Z"
+            ]
         }
     ]
 }
