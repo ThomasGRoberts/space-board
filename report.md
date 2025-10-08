@@ -5,7 +5,7 @@
 | nyt | 1 | 2 | 23 | 46 |
 | spacenews | 5 | 9 | 26 | 51 |
 | breaking_defense | 1 | 2 | 22 | 44 |
-| supercluster | 1 | 1 | 29 | 29 |
+| supercluster | 1 | 1 | 30 | 30 |
 
 # Shown Order
 
@@ -6482,3 +6482,4 @@
 - **Oct 08, 08:58 AM** - Space Rapid Capabilities Office to award contracts to put radars on sats to warn of space-bound threats (breaking_defense)
 - **Oct 08, 09:16 AM** - ESA inaugurates new deep space antenna in Australia (spacenews)
 - **Oct 08, 09:33 AM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
+- **Oct 08, 09:48 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
