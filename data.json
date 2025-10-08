@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-08T00:02:13.791534+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d855172213ca8d3b9bed11def4fe90f2",
+    "trigger_count": 0,
+    "current_item_id": "1fc0c86f1f3a3eabb1e56408d0fef002",
     "data": [
         {
             "id": "2d02361c0b6ff8e5203df7bcd25aea2d",
@@ -12026,6 +12026,18 @@
                 "2025-10-08T18:37:44.647582Z",
                 "2025-10-08T18:39:22.180222Z",
                 "2025-10-08T18:41:52.908296Z"
+            ]
+        },
+        {
+            "id": "1fc0c86f1f3a3eabb1e56408d0fef002",
+            "source": "spacenews",
+            "text": "Space Force taps Muon’s wildfire monitoring satellites for weather imaging",
+            "source_link": "https://spacenews.com/space-force-taps-muons-wildfire-monitoring-satellites-for-weather-imaging/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-08T18:57:27.661284Z",
+            "shown_at": [
+                "2025-10-08T18:57:28.300608Z"
             ]
         }
     ]
