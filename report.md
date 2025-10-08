@@ -5,7 +5,7 @@
 | nyt | 1 | 2 | 23 | 47 |
 | spacenews | 5 | 9 | 25 | 51 |
 | breaking_defense | 1 | 2 | 22 | 45 |
-| supercluster | 1 | 1 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -6438,3 +6438,4 @@
 - **Oct 08, 02:52 AM** - Space Rapid Capabilities Office to put radars on sats to warn of space-bound threats (breaking_defense)
 - **Oct 08, 03:23 AM** - HEO looks to expand satellite imaging beyond low Earth orbit (spacenews)
 - **Oct 08, 03:40 AM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
+- **Oct 08, 03:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
