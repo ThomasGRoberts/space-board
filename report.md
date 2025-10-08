@@ -5,7 +5,7 @@
 | nyt | 1 | 2 | 23 | 46 |
 | spacenews | 6 | 10 | 25 | 51 |
 | breaking_defense | 1 | 2 | 22 | 44 |
-| supercluster | 1 | 1 | 51 | 51 |
+| supercluster | 1 | 1 | 52 | 52 |
 
 # Shown Order
 
@@ -6513,3 +6513,4 @@
 - **Oct 08, 12:27 PM** - Space Rapid Capabilities Office to award contracts to put radars on sats to warn of space-bound threats (breaking_defense)
 - **Oct 08, 12:41 PM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
 - **Oct 08, 12:55 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Oct 08, 12:57 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
