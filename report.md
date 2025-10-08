@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 22 | 44 |
 | spacenews | 5 | 9 | 24 | 49 |
-| breaking_defense | 1 | 2 | 20 | 44 |
+| breaking_defense | 1 | 2 | 21 | 45 |
 | supercluster | 1 | 1 | 4 | 4 |
 
 # Shown Order
@@ -6470,3 +6470,4 @@
 - **Oct 08, 02:45 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 08, 02:47 PM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
 - **Oct 08, 03:02 PM** - SpaceX lands majority of U.S. national security launches awarded for fiscal year 2026 (spacenews)
+- **Oct 08, 03:15 PM** - Defense to ‘anchor’ exploding satellite market over next decade: NovaSpace (breaking_defense)
