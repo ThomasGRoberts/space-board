@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 2 | 23 | 46 |
-| spacenews | 6 | 10 | 25 | 50 |
+| nyt | 1 | 2 | 23 | 45 |
+| spacenews | 6 | 10 | 26 | 51 |
 | breaking_defense | 1 | 2 | 21 | 44 |
 | supercluster | 1 | 1 | 50 | 50 |
 
@@ -6509,3 +6509,4 @@
 - **Oct 08, 12:02 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Oct 08, 12:05 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Oct 08, 12:07 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Oct 08, 12:09 PM** - ExLabs wins Space Force contract for reconfigurable space platform (spacenews)
