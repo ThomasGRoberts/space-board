@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 22 | 44 |
+| nyt | 1 | 1 | 23 | 45 |
 | spacenews | 5 | 11 | 23 | 49 |
 | breaking_defense | 1 | 3 | 21 | 44 |
 | supercluster | 1 | 1 | 46 | 46 |
@@ -6528,3 +6528,4 @@
 - **Oct 08, 08:35 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 08, 08:38 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 08, 08:39 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Oct 08, 08:41 PM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
