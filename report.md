@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 22 | 44 |
 | spacenews | 5 | 11 | 23 | 49 |
 | breaking_defense | 1 | 3 | 21 | 44 |
-| supercluster | 1 | 1 | 39 | 39 |
+| supercluster | 1 | 1 | 40 | 40 |
 
 # Shown Order
 
@@ -6521,3 +6521,4 @@
 - **Oct 08, 07:43 PM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
 - **Oct 08, 07:58 PM** - Space Force taps Muon for 3 prototype weather satellites (breaking_defense)
 - **Oct 08, 08:13 PM** - AST SpaceMobile gains Verizon ally amid SpaceX’s direct-to-device push (spacenews)
+- **Oct 08, 08:28 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
