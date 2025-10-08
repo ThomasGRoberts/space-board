@@ -5,7 +5,7 @@
 | nyt | 1 | 2 | 23 | 46 |
 | spacenews | 6 | 10 | 25 | 51 |
 | breaking_defense | 1 | 2 | 22 | 44 |
-| supercluster | 1 | 1 | 43 | 43 |
+| supercluster | 1 | 1 | 44 | 44 |
 
 # Shown Order
 
@@ -6502,3 +6502,4 @@
 - **Oct 08, 11:04 AM** - Space infrastructure investments surge to five-quarter high (spacenews)
 - **Oct 08, 11:19 AM** - Defense to ‘anchor’ exploding satellite market over next decade: NovaSpace (breaking_defense)
 - **Oct 08, 11:36 AM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
+- **Oct 08, 11:53 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
