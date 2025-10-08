@@ -5,7 +5,7 @@
 | nyt | 0 | 1 | 21 | 44 |
 | spacenews | 6 | 11 | 24 | 49 |
 | breaking_defense | 1 | 2 | 21 | 44 |
-| supercluster | 1 | 1 | 54 | 54 |
+| supercluster | 1 | 1 | 55 | 55 |
 
 # Shown Order
 
@@ -6544,3 +6544,4 @@
 - **Oct 08, 10:28 PM** - Space Rapid Capabilities Office to award contracts to put radars on sats to warn of space-bound threats (breaking_defense)
 - **Oct 08, 10:45 PM** - The real space war is being fought in cyberspace (spacenews)
 - **Oct 08, 10:59 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Oct 08, 11:02 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
