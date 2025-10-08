@@ -5,7 +5,7 @@
 | nyt | 1 | 2 | 23 | 47 |
 | spacenews | 5 | 9 | 25 | 51 |
 | breaking_defense | 1 | 2 | 23 | 46 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -6431,3 +6431,4 @@
 - **Oct 08, 12:38 AM** - Sync Your Calendar With the Solar System (nyt)
 - **Oct 08, 12:54 AM** - Space Rapid Capabilities Office to award contracts to put radars on sats to warn of space-bound threats (breaking_defense)
 - **Oct 08, 01:07 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 08, 01:09 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
