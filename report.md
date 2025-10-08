@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 22 | 44 |
 | spacenews | 5 | 11 | 23 | 49 |
 | breaking_defense | 1 | 3 | 21 | 44 |
-| supercluster | 1 | 1 | 41 | 41 |
+| supercluster | 1 | 1 | 42 | 42 |
 
 # Shown Order
 
@@ -6523,3 +6523,4 @@
 - **Oct 08, 08:13 PM** - AST SpaceMobile gains Verizon ally amid SpaceX’s direct-to-device push (spacenews)
 - **Oct 08, 08:28 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 08, 08:29 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Oct 08, 08:31 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
