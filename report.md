@@ -6438,4 +6438,4 @@
 - **Oct 08, 02:52 AM** - Space Rapid Capabilities Office to put radars on sats to warn of space-bound threats (breaking_defense)
 - **Oct 08, 03:23 AM** - HEO looks to expand satellite imaging beyond low Earth orbit (spacenews)
 - **Oct 08, 03:40 AM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
-- **Oct 08, 04:16 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 08, 04:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
