@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 22 | 44 |
 | spacenews | 7 | 11 | 24 | 49 |
 | breaking_defense | 1 | 2 | 21 | 44 |
-| supercluster | 1 | 1 | 48 | 48 |
+| supercluster | 1 | 1 | 49 | 49 |
 
 # Shown Order
 
@@ -6535,3 +6535,4 @@
 - **Oct 08, 09:43 PM** - Space Force sets up ‘working capital fund’ for commercial space services (spacenews)
 - **Oct 08, 09:57 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 08, 09:59 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Oct 08, 10:02 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
