@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 23 | 46 |
-| spacenews | 5 | 9 | 25 | 51 |
+| spacenews | 5 | 9 | 25 | 50 |
 | breaking_defense | 1 | 2 | 21 | 44 |
 | supercluster | 1 | 1 | 1 | 1 |
 
@@ -6438,4 +6438,4 @@
 - **Oct 08, 02:52 AM** - Space Rapid Capabilities Office to put radars on sats to warn of space-bound threats (breaking_defense)
 - **Oct 08, 03:23 AM** - HEO looks to expand satellite imaging beyond low Earth orbit (spacenews)
 - **Oct 08, 03:40 AM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
-- **Oct 08, 04:51 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 08, 04:53 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
