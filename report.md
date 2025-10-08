@@ -5,7 +5,7 @@
 | nyt | 1 | 2 | 23 | 46 |
 | spacenews | 5 | 9 | 25 | 51 |
 | breaking_defense | 1 | 2 | 22 | 44 |
-| supercluster | 1 | 1 | 3 | 3 |
+| supercluster | 1 | 1 | 4 | 4 |
 
 # Shown Order
 
@@ -6444,3 +6444,4 @@
 - **Oct 08, 05:29 AM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
 - **Oct 08, 05:43 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Oct 08, 05:45 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Oct 08, 05:47 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
