@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 23 | 45 |
-| spacenews | 5 | 9 | 25 | 50 |
+| spacenews | 5 | 9 | 26 | 51 |
 | breaking_defense | 1 | 2 | 22 | 45 |
 | supercluster | 1 | 1 | 8 | 8 |
 
@@ -6450,3 +6450,4 @@
 - **Oct 08, 05:54 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Oct 08, 05:55 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Oct 08, 05:57 AM** - Close the gap: Turn the Franco-German missile early warning into measurable capability (breaking_defense)
+- **Oct 08, 06:14 AM** - ESA inaugurates new deep space antenna in Australia (spacenews)
