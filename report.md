@@ -5,7 +5,7 @@
 | nyt | 1 | 2 | 23 | 46 |
 | spacenews | 5 | 9 | 26 | 51 |
 | breaking_defense | 1 | 2 | 22 | 44 |
-| supercluster | 1 | 1 | 16 | 16 |
+| supercluster | 1 | 1 | 17 | 17 |
 
 # Shown Order
 
@@ -6463,3 +6463,4 @@
 - **Oct 08, 07:13 AM** - China’s ‘near space’ legal warfare (spacenews)
 - **Oct 08, 07:27 AM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
 - **Oct 08, 07:41 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Oct 08, 07:43 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
