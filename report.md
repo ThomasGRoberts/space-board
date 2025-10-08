@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 23 | 47 |
-| spacenews | 5 | 9 | 26 | 51 |
-| breaking_defense | 1 | 2 | 22 | 45 |
+| spacenews | 5 | 9 | 25 | 51 |
+| breaking_defense | 1 | 2 | 23 | 46 |
 | supercluster | 1 | 1 | 14 | 14 |
 
 # Shown Order
@@ -6449,3 +6449,4 @@
 - **Oct 08, 02:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 08, 02:19 AM** - Synspective purchases 10 additional Electron launches (spacenews)
 - **Oct 08, 02:37 AM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
+- **Oct 08, 02:52 AM** - Space Rapid Capabilities Office to put radars on sats to warn of space-bound threats (breaking_defense)
