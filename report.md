@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 21 | 44 |
-| spacenews | 6 | 11 | 24 | 49 |
-| breaking_defense | 1 | 2 | 21 | 44 |
+| spacenews | 7 | 12 | 25 | 50 |
+| breaking_defense | 1 | 2 | 21 | 43 |
 | supercluster | 1 | 1 | 60 | 60 |
 
 # Shown Order
@@ -6550,3 +6550,4 @@
 - **Oct 08, 11:09 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 08, 11:11 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 08, 11:13 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Oct 08, 11:15 PM** - Stoke Space raises $510 million (spacenews)
