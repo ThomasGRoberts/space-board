@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 2 | 23 | 46 |
-| spacenews | 5 | 9 | 25 | 51 |
-| breaking_defense | 1 | 2 | 22 | 46 |
+| nyt | 1 | 2 | 22 | 46 |
+| spacenews | 5 | 9 | 26 | 52 |
+| breaking_defense | 1 | 2 | 22 | 45 |
 | supercluster | 1 | 1 | 21 | 21 |
 
 # Shown Order
@@ -6457,3 +6457,4 @@
 - **Oct 08, 03:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 08, 03:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 08, 03:21 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 08, 03:23 AM** - HEO looks to expand satellite imaging beyond low Earth orbit (spacenews)
