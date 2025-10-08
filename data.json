@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-08T00:02:13.791534+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4097f28a569a840207164dfddc9291d5",
+    "trigger_count": 0,
+    "current_item_id": "705bb27584108e7b73554e3a55451f5f",
     "data": [
         {
             "id": "2d02361c0b6ff8e5203df7bcd25aea2d",
@@ -12082,6 +12082,27 @@
             "shown_at": [
                 "2025-10-08T20:13:47.359201Z"
             ]
+        },
+        {
+            "id": "705bb27584108e7b73554e3a55451f5f",
+            "source": "spacenews",
+            "text": "Blue Origin flies sixth crewed New Shepard flight of 2025",
+            "source_link": "https://spacenews.com/blue-origin-flies-sixth-crewed-new-shepard-flight-of-2025/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-08T21:27:51.147171Z",
+            "shown_at": [
+                "2025-10-08T21:27:51.975330Z"
+            ]
+        },
+        {
+            "id": "33520b12ca3f63d78fbde44f97788977",
+            "source": "spacenews",
+            "text": "Space Force sets up ‘working capital fund’ for commercial space services",
+            "source_link": "https://spacenews.com/space-force-sets-up-working-capital-fund-for-commercial-space-services/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-10-08T21:27:51.147249Z"
         }
     ]
 }

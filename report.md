@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 22 | 45 |
-| spacenews | 5 | 10 | 23 | 48 |
+| spacenews | 7 | 12 | 24 | 49 |
 | breaking_defense | 1 | 2 | 21 | 44 |
 | supercluster | 1 | 1 | 46 | 46 |
 
@@ -6531,3 +6531,4 @@
 - **Oct 08, 08:41 PM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
 - **Oct 08, 08:57 PM** - Firefly to buy SciTec with eye on Golden Dome (breaking_defense)
 - **Oct 08, 09:13 PM** - EchoStar clears key regulatory step for spectrum sale to SpaceX (spacenews)
+- **Oct 08, 09:27 PM** - Blue Origin flies sixth crewed New Shepard flight of 2025 (spacenews)
