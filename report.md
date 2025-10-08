@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 2 | 23 | 46 |
+| nyt | 1 | 2 | 23 | 45 |
 | spacenews | 6 | 10 | 25 | 50 |
-| breaking_defense | 1 | 2 | 21 | 44 |
+| breaking_defense | 1 | 2 | 22 | 45 |
 | supercluster | 1 | 1 | 57 | 57 |
 
 # Shown Order
@@ -6520,3 +6520,4 @@
 - **Oct 08, 01:08 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Oct 08, 01:09 PM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Oct 08, 01:12 PM** - Golden Dome: What’s its story?  (spacenews)
+- **Oct 08, 01:29 PM** - Space Rapid Capabilities Office to put radars on sats to warn of space-bound threats (breaking_defense)
