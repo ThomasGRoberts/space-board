@@ -5,7 +5,7 @@
 | nyt | 1 | 2 | 23 | 46 |
 | spacenews | 5 | 9 | 26 | 51 |
 | breaking_defense | 1 | 2 | 22 | 44 |
-| supercluster | 1 | 1 | 10 | 10 |
+| supercluster | 1 | 1 | 11 | 11 |
 
 # Shown Order
 
@@ -6454,3 +6454,4 @@
 - **Oct 08, 06:29 AM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
 - **Oct 08, 06:45 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Oct 08, 06:47 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
+- **Oct 08, 06:49 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
