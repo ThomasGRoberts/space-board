@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 23 | 47 |
 | spacenews | 5 | 9 | 26 | 51 |
-| breaking_defense | 1 | 2 | 22 | 45 |
+| breaking_defense | 1 | 2 | 23 | 46 |
 | supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
@@ -6439,3 +6439,4 @@
 - **Oct 08, 01:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 08, 01:21 AM** - How time series data is fueling the final frontier (spacenews)
 - **Oct 08, 01:35 AM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
+- **Oct 08, 01:49 AM** - Close the gap: Turn the Franco-German missile early warning into measurable capability (breaking_defense)
