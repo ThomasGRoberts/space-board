@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 22 | 44 |
 | spacenews | 5 | 9 | 24 | 49 |
 | breaking_defense | 1 | 2 | 21 | 44 |
-| supercluster | 1 | 1 | 12 | 12 |
+| supercluster | 1 | 1 | 13 | 13 |
 
 # Shown Order
 
@@ -6482,3 +6482,4 @@
 - **Oct 08, 03:59 PM** - NASA’s newest astronauts will have to be willing to wait (spacenews)
 - **Oct 08, 04:13 PM** - Close the gap: Turn the Franco-German missile early warning into measurable capability (breaking_defense)
 - **Oct 08, 04:27 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Oct 08, 04:29 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
