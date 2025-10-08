@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 23 | 45 |
 | spacenews | 6 | 10 | 26 | 51 |
-| breaking_defense | 1 | 2 | 21 | 44 |
+| breaking_defense | 1 | 2 | 22 | 45 |
 | supercluster | 1 | 1 | 43 | 43 |
 
 # Shown Order
@@ -6500,3 +6500,4 @@
 - **Oct 08, 10:59 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Oct 08, 11:01 AM** - Blue Origin Will Launch Crewed Suborbital Flight (supercluster)
 - **Oct 08, 11:04 AM** - Space infrastructure investments surge to five-quarter high (spacenews)
+- **Oct 08, 11:19 AM** - Defense to ‘anchor’ exploding satellite market over next decade: NovaSpace (breaking_defense)
