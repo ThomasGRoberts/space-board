@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 10 | 25 | 49 |
 | breaking_defense | 1 | 2 | 23 | 44 |
-| supercluster | 1 | 2 | 164 | 213 |
-| nyt | 0 | 1 | 23 | 45 |
+| supercluster | 1 | 2 | 163 | 213 |
+| nyt | 0 | 1 | 24 | 45 |
 
 # Shown Order
 
@@ -6668,3 +6668,4 @@
 - **Oct 09, 09:45 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 09, 09:47 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 09, 09:50 PM** - The real space war is being fought in cyberspace (spacenews)
+- **Oct 09, 10:07 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
