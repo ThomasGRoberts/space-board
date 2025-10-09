@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 11 | 26 | 50 |
 | breaking_defense | 1 | 2 | 23 | 44 |
-| supercluster | 0 | 1 | 155 | 173 |
-| nyt | 0 | 1 | 23 | 44 |
+| supercluster | 0 | 1 | 156 | 174 |
+| nyt | 0 | 1 | 22 | 44 |
 
 # Shown Order
 
@@ -6612,3 +6612,4 @@
 - **Oct 09, 04:25 PM** - Space Rapid Capabilities Office to put radars on sats to warn of space-bound threats (breaking_defense)
 - **Oct 09, 04:39 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 09, 04:41 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Oct 09, 04:43 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
