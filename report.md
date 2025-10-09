@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 25 | 51 |
-| breaking_defense | 1 | 2 | 23 | 44 |
+| breaking_defense | 1 | 2 | 24 | 45 |
 | supercluster | 1 | 1 | 151 | 151 |
 | nyt | 0 | 1 | 23 | 46 |
 
@@ -6579,3 +6579,4 @@
 - **Oct 09, 11:49 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 09, 11:51 AM** - Cubic targets military satcom market with ‘Vector’ terminals (spacenews)
 - **Oct 09, 12:07 PM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
+- **Oct 09, 12:21 PM** - Firefly to buy SciTec with eye on Golden Dome (breaking_defense)
