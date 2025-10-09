@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 10 | 25 | 49 |
 | breaking_defense | 1 | 2 | 23 | 44 |
-| supercluster | 1 | 2 | 160 | 206 |
+| supercluster | 1 | 2 | 161 | 207 |
 | nyt | 0 | 1 | 23 | 45 |
 
 # Shown Order
@@ -6660,3 +6660,4 @@
 - **Oct 09, 08:51 PM** - Momentus wins two NASA contracts to fly tech demo payloads (spacenews)
 - **Oct 09, 09:05 PM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
 - **Oct 09, 09:19 PM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
+- **Oct 09, 09:33 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
