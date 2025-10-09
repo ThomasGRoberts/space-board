@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 12 | 25 | 51 |
+| spacenews | 7 | 12 | 25 | 50 |
 | breaking_defense | 1 | 2 | 23 | 45 |
-| supercluster | 1 | 1 | 125 | 125 |
+| supercluster | 1 | 1 | 126 | 126 |
 | nyt | 0 | 1 | 22 | 45 |
 
 # Shown Order
@@ -6542,3 +6542,4 @@
 - **Oct 09, 08:27 AM** - Close the gap: Turn the Franco-German missile early warning into measurable capability (breaking_defense)
 - **Oct 09, 08:43 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 09, 08:45 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Oct 09, 08:47 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
