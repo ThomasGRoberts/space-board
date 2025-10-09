@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 25 | 51 |
-| breaking_defense | 1 | 2 | 22 | 44 |
+| breaking_defense | 1 | 2 | 23 | 45 |
 | supercluster | 1 | 1 | 130 | 130 |
 | nyt | 0 | 1 | 23 | 46 |
 
@@ -6549,3 +6549,4 @@
 - **Oct 09, 08:55 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 09, 08:58 AM** - Senators spar over plans to move shuttle Discovery (spacenews)
 - **Oct 09, 09:13 AM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
+- **Oct 09, 09:27 AM** - Firefly to buy SciTec with eye on Golden Dome (breaking_defense)
