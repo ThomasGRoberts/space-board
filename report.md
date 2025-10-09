@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 25 | 51 |
-| breaking_defense | 1 | 2 | 22 | 44 |
+| breaking_defense | 1 | 2 | 23 | 45 |
 | supercluster | 1 | 1 | 144 | 144 |
 | nyt | 0 | 1 | 23 | 46 |
 
@@ -6569,3 +6569,4 @@
 - **Oct 09, 10:53 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 09, 10:56 AM** - Gilmour Space plans return to flight next year (spacenews)
 - **Oct 09, 11:09 AM** - Sync Your Calendar With the Solar System (nyt)
+- **Oct 09, 11:23 AM** - Space Force taps Muon for 3 prototype weather satellites (breaking_defense)
