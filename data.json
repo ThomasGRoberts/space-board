@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-09T00:02:10.470625+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2d02361c0b6ff8e5203df7bcd25aea2d",
+    "trigger_count": 0,
+    "current_item_id": "7faa7af6cca42fd0a87600b323f26658",
     "data": [
         {
             "id": "5ffa5d477af2a1135704a21bc21e2703",
@@ -12220,6 +12220,18 @@
             "fetched_datetime": "2025-10-09T20:51:41.967816Z",
             "shown_at": [
                 "2025-10-09T20:51:42.604096Z"
+            ]
+        },
+        {
+            "id": "7faa7af6cca42fd0a87600b323f26658",
+            "source": "spacenews",
+            "text": "Former U.S. defense officials urge Pentagon to scale up hypersonic weapons to match China, Russia",
+            "source_link": "https://spacenews.com/former-u-s-defense-officials-urge-pentagon-to-scale-up-hypersonic-weapons-to-match-china-russia/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-09T23:19:48.353643Z",
+            "shown_at": [
+                "2025-10-09T23:19:49.405544Z"
             ]
         }
     ]
