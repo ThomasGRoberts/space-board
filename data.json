@@ -1,9 +1,181 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-10-08T00:02:13.791534+00:00",
-    "trigger_count": 1,
+    "last_run_datetime": "2025-10-09T00:02:10.470625+00:00",
+    "trigger_count": 2,
     "current_item_id": "b4fa5167b536af8b3aa9516a9232b0aa",
     "data": [
+        {
+            "id": "5ffa5d477af2a1135704a21bc21e2703",
+            "source": "spacenews",
+            "text": "Stoke Space raises $510 million",
+            "source_link": "https://spacenews.com/stoke-space-raises-510-million/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-08T23:15:07.048215Z",
+            "shown_at": [
+                "2025-10-08T23:15:07.651442Z"
+            ]
+        },
+        {
+            "id": "33520b12ca3f63d78fbde44f97788977",
+            "source": "spacenews",
+            "text": "Space Force sets up ‘working capital fund’ for commercial space services",
+            "source_link": "https://spacenews.com/space-force-sets-up-working-capital-fund-for-commercial-space-services/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-08T21:27:51.147249Z",
+            "shown_at": [
+                "2025-10-08T21:43:43.570231Z"
+            ]
+        },
+        {
+            "id": "705bb27584108e7b73554e3a55451f5f",
+            "source": "spacenews",
+            "text": "Blue Origin flies sixth crewed New Shepard flight of 2025",
+            "source_link": "https://spacenews.com/blue-origin-flies-sixth-crewed-new-shepard-flight-of-2025/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-08T21:27:51.147171Z",
+            "shown_at": [
+                "2025-10-08T21:27:51.975330Z"
+            ]
+        },
+        {
+            "id": "7d19a46a172d8d9ec779e06edaa1efce",
+            "source": "spacenews",
+            "text": "AST SpaceMobile gains Verizon ally amid SpaceX’s direct-to-device push",
+            "source_link": "https://spacenews.com/ast-spacemobile-gains-verizon-ally-amid-spacexs-direct-to-device-push/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-08T20:13:46.653382Z",
+            "shown_at": [
+                "2025-10-08T20:13:47.359201Z"
+            ]
+        },
+        {
+            "id": "de20e96a02cf96a520905a7d22a0bc51",
+            "source": "breaking_defense",
+            "text": "Space Force taps Muon for 3 prototype weather satellites",
+            "source_link": "https://breakingdefense.com/2025/10/space-force-taps-muon-for-3-prototype-weather-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-08T19:58:04.298706Z",
+            "shown_at": [
+                "2025-10-08T19:58:04.991161Z"
+            ]
+        },
+        {
+            "id": "1fc0c86f1f3a3eabb1e56408d0fef002",
+            "source": "spacenews",
+            "text": "Space Force taps Muon’s wildfire monitoring satellites for weather imaging",
+            "source_link": "https://spacenews.com/space-force-taps-muons-wildfire-monitoring-satellites-for-weather-imaging/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-08T18:57:27.661284Z",
+            "shown_at": [
+                "2025-10-08T18:57:28.300608Z"
+            ]
+        },
+        {
+            "id": "b4fa5167b536af8b3aa9516a9232b0aa",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Project Kuiper Internet Satellites for Amazon",
+            "source_link": "https://www.supercluster.com/launches/project-kuiper-kf-031",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-10-10T01:34:00.000Z",
+            "time_remaining": "1d 01h 31m",
+            "fetched_datetime": "2025-10-08T14:40:03.562125Z",
+            "shown_at": [
+                "2025-10-08T14:40:04.666696Z",
+                "2025-10-08T14:41:50.098850Z",
+                "2025-10-08T14:43:40.881679Z",
+                "2025-10-08T14:45:39.832226Z",
+                "2025-10-08T15:29:42.957830Z",
+                "2025-10-08T15:32:07.357972Z",
+                "2025-10-08T15:35:42.116651Z",
+                "2025-10-08T15:37:36.958318Z",
+                "2025-10-08T15:39:43.920914Z",
+                "2025-10-08T15:41:56.602164Z",
+                "2025-10-08T15:43:48.712152Z",
+                "2025-10-08T16:27:55.001780Z",
+                "2025-10-08T16:29:51.491054Z",
+                "2025-10-08T16:32:35.030998Z",
+                "2025-10-08T16:35:47.436264Z",
+                "2025-10-08T16:37:24.853373Z",
+                "2025-10-08T16:39:40.842815Z",
+                "2025-10-08T16:41:55.122304Z",
+                "2025-10-08T17:27:46.633242Z",
+                "2025-10-08T17:29:55.355059Z",
+                "2025-10-08T17:31:46.910852Z",
+                "2025-10-08T17:33:51.930807Z",
+                "2025-10-08T17:35:47.860946Z",
+                "2025-10-08T17:38:01.983856Z",
+                "2025-10-08T17:39:30.943763Z",
+                "2025-10-08T18:29:56.938109Z",
+                "2025-10-08T18:32:02.547060Z",
+                "2025-10-08T18:33:45.336761Z",
+                "2025-10-08T18:35:56.952279Z",
+                "2025-10-08T18:37:44.647582Z",
+                "2025-10-08T18:39:22.180222Z",
+                "2025-10-08T18:41:52.908296Z",
+                "2025-10-08T19:29:54.992244Z",
+                "2025-10-08T19:31:26.151676Z",
+                "2025-10-08T19:33:40.141102Z",
+                "2025-10-08T19:35:47.898438Z",
+                "2025-10-08T19:37:26.907111Z",
+                "2025-10-08T19:39:48.934445Z",
+                "2025-10-08T19:41:17.516095Z",
+                "2025-10-08T20:28:04.386559Z",
+                "2025-10-08T20:29:45.519417Z",
+                "2025-10-08T20:31:26.901256Z",
+                "2025-10-08T20:33:48.999231Z",
+                "2025-10-08T20:35:51.458157Z",
+                "2025-10-08T20:38:02.471094Z",
+                "2025-10-08T20:39:36.232732Z",
+                "2025-10-08T21:57:48.207218Z",
+                "2025-10-08T21:59:49.812329Z",
+                "2025-10-08T22:02:07.284243Z",
+                "2025-10-08T22:06:03.252057Z",
+                "2025-10-08T22:07:38.341169Z",
+                "2025-10-08T22:09:33.168520Z",
+                "2025-10-08T22:11:41.503776Z",
+                "2025-10-08T22:59:45.549289Z",
+                "2025-10-08T23:02:14.164944Z",
+                "2025-10-08T23:05:46.534723Z",
+                "2025-10-08T23:07:32.444195Z",
+                "2025-10-08T23:09:55.548181Z",
+                "2025-10-08T23:11:40.569541Z",
+                "2025-10-08T23:13:47.201922Z",
+                "2025-10-08T23:57:53.154704Z",
+                "2025-10-08T23:59:47.306553Z",
+                "2025-10-09T00:02:11.205983Z"
+            ]
+        },
+        {
+            "id": "51ddd1f800b283b979f7d489cb30997e",
+            "source": "spacenews",
+            "text": "Golden Dome: What’s its story? ",
+            "source_link": "https://spacenews.com/golden-dome-whats-its-story/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-08T13:12:02.122656Z",
+            "shown_at": [
+                "2025-10-08T13:12:02.809672Z"
+            ]
+        },
+        {
+            "id": "bb0908144ebd4a8c46608afb71fb715e",
+            "source": "spacenews",
+            "text": "Space infrastructure investments surge to five-quarter high",
+            "source_link": "https://spacenews.com/space-infrastructure-investments-surge-to-five-quarter-high/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-08T11:04:12.192368Z",
+            "shown_at": [
+                "2025-10-08T11:04:13.548650Z"
+            ]
+        },
         {
             "id": "2d02361c0b6ff8e5203df7bcd25aea2d",
             "source": "nyt",
@@ -11776,368 +11948,6 @@
                 "2025-07-05T16:19:19.904293Z",
                 "2025-07-06T08:18:00.347368Z",
                 "2025-07-06T14:37:37.363851Z"
-            ]
-        },
-        {
-            "id": "87297978ecf738de58e3a5d3bedb75d4",
-            "source": "spacenews",
-            "text": "Blue Origin launches third New Shepard mission within three months",
-            "source_link": "https://spacenews.com/blue-origin-launches-third-new-shepard-mission-within-three-months/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-29T16:11:37.590921Z",
-            "shown_at": [
-                "2025-06-29T16:11:38.209038Z",
-                "2025-07-01T10:09:36.484683Z",
-                "2025-07-02T23:49:39.773412Z",
-                "2025-07-04T04:27:54.425522Z"
-            ]
-        },
-        {
-            "id": "6ae5774d608dc7329247c8b0b87113f1",
-            "source": "spacenews",
-            "text": "Final H-2A launches Earth science satellite",
-            "source_link": "https://spacenews.com/final-h-2a-launches-earth-science-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-29T14:03:46.314148Z",
-            "shown_at": [
-                "2025-06-29T14:03:47.381915Z",
-                "2025-06-30T05:23:29.250387Z",
-                "2025-07-02T10:55:28.347375Z"
-            ]
-        },
-        {
-            "id": "a3502319b219bd4b1c729b356d6226ac",
-            "source": "spacenews",
-            "text": "Rocket Lab launches second Electron within 48 hours",
-            "source_link": "https://spacenews.com/rocket-lab-launches-second-electron-within-48-hours/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-28T15:15:21.460013Z",
-            "shown_at": [
-                "2025-06-28T15:15:22.136072Z",
-                "2025-06-30T03:29:34.101236Z",
-                "2025-06-30T04:25:34.068254Z",
-                "2025-06-30T18:32:28.280327Z",
-                "2025-07-01T12:03:27.990223Z",
-                "2025-07-04T23:15:46.855148Z"
-            ]
-        },
-        {
-            "id": "8aea997dfa0e2b8b7d31ed86b00bd782",
-            "source": "spacenews",
-            "text": "SpaceX scores $81.6 million Space Force contract to launch weather satellite",
-            "source_link": "https://spacenews.com/spacex-scores-81-6-million-space-force-contract-to-launch-weather-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-28T11:43:45.404220Z",
-            "shown_at": [
-                "2025-06-28T11:43:47.131076Z",
-                "2025-06-30T19:31:37.959396Z",
-                "2025-07-03T00:45:40.847695Z",
-                "2025-07-03T02:37:44.160621Z",
-                "2025-07-03T08:07:49.466090Z"
-            ]
-        },
-        {
-            "id": "5e812a44b5713a22296f1855fe4a7a2d",
-            "source": "nyt",
-            "text": "Stars Passing Near the Sun Could Cause Planets to Collide or Be Ejected, Paper Says",
-            "source_link": "https://www.nytimes.com/2025/06/28/science/sun-solar-system-collisions-stars.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-28T09:09:33.598770Z",
-            "shown_at": [
-                "2025-06-28T09:09:34.500641Z",
-                "2025-06-29T01:55:46.690984Z",
-                "2025-06-29T10:23:35.397510Z",
-                "2025-06-30T04:39:25.694895Z",
-                "2025-06-30T08:25:36.513953Z",
-                "2025-06-30T12:45:28.008636Z",
-                "2025-07-01T05:35:28.628043Z",
-                "2025-07-01T09:21:34.978759Z",
-                "2025-07-01T20:45:16.122797Z",
-                "2025-07-02T02:41:36.530347Z",
-                "2025-07-02T10:27:19.817806Z",
-                "2025-07-02T12:19:36.234062Z",
-                "2025-07-02T23:35:54.310098Z",
-                "2025-07-03T04:19:51.504603Z",
-                "2025-07-03T06:15:58.141485Z",
-                "2025-07-03T07:25:38.392521Z",
-                "2025-07-03T09:19:34.186299Z",
-                "2025-07-03T15:06:06.556844Z",
-                "2025-07-03T16:17:40.592571Z",
-                "2025-07-03T18:15:32.463030Z",
-                "2025-07-03T19:27:33.703082Z",
-                "2025-07-04T01:51:53.614850Z",
-                "2025-07-04T03:43:41.752632Z",
-                "2025-07-04T06:33:28.155878Z",
-                "2025-07-04T09:25:52.966704Z",
-                "2025-07-04T14:05:48.169232Z",
-                "2025-07-04T17:51:43.755017Z",
-                "2025-07-04T18:47:27.113050Z",
-                "2025-07-04T22:33:34.135645Z",
-                "2025-07-04T23:29:34.792372Z",
-                "2025-07-05T00:27:55.201384Z",
-                "2025-07-05T03:17:24.964015Z",
-                "2025-07-05T05:09:36.657459Z",
-                "2025-07-05T07:59:31.890896Z"
-            ]
-        },
-        {
-            "id": "cd152e62647f45270200b4f5658f7d90",
-            "source": "spacenews",
-            "text": "EchoStar delays bankruptcy threat after Trump pushes for FCC resolution",
-            "source_link": "https://spacenews.com/echostar-delays-bankruptcy-threat-after-trump-pushes-for-fcc-resolution/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-27T20:33:40.255675Z",
-            "shown_at": [
-                "2025-06-27T20:33:40.698672Z",
-                "2025-06-27T23:21:14.848532Z",
-                "2025-06-29T04:03:30.303173Z",
-                "2025-07-04T20:27:13.064281Z"
-            ]
-        },
-        {
-            "id": "9b2c48e26892f1da369cd767675a3e23",
-            "source": "breaking_defense",
-            "text": "DARPA’s DRACO nuclear propulsion project ROARs no more",
-            "source_link": "https://breakingdefense.com/2025/06/darpas-draco-nuclear-propulsion-project-roars-no-more/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-27T17:55:38.872821Z",
-            "shown_at": [
-                "2025-06-27T17:55:40.028609Z",
-                "2025-06-27T21:01:55.365621Z",
-                "2025-06-27T21:57:07.885027Z",
-                "2025-06-28T03:37:39.179141Z",
-                "2025-06-28T12:26:03.646885Z",
-                "2025-06-28T14:19:42.397978Z",
-                "2025-06-29T10:09:52.050006Z",
-                "2025-06-29T12:01:56.743419Z",
-                "2025-06-29T14:17:30.687414Z",
-                "2025-07-01T01:07:31.363013Z",
-                "2025-07-01T02:59:55.024859Z",
-                "2025-07-01T03:57:24.303070Z",
-                "2025-07-01T06:45:13.913567Z",
-                "2025-07-01T15:53:35.006118Z",
-                "2025-07-01T22:53:37.447414Z",
-                "2025-07-01T23:49:30.198125Z",
-                "2025-07-02T06:47:42.492127Z",
-                "2025-07-02T07:45:32.450146Z",
-                "2025-07-02T08:45:36.981123Z",
-                "2025-07-02T18:55:19.407316Z",
-                "2025-07-02T23:07:39.431454Z",
-                "2025-07-03T00:03:42.702740Z",
-                "2025-07-03T00:59:45.255709Z",
-                "2025-07-03T01:55:37.729308Z",
-                "2025-07-03T04:49:41.796568Z",
-                "2025-07-03T05:45:32.076246Z",
-                "2025-07-03T06:43:38.874429Z",
-                "2025-07-03T07:39:50.798922Z",
-                "2025-07-03T08:35:44.262122Z",
-                "2025-07-03T10:29:37.668885Z",
-                "2025-07-03T11:25:46.595125Z",
-                "2025-07-03T14:23:47.942930Z",
-                "2025-07-03T17:33:49.823289Z",
-                "2025-07-04T00:27:40.774244Z",
-                "2025-07-04T04:13:41.238262Z",
-                "2025-07-04T05:09:37.244788Z",
-                "2025-07-04T07:59:14.387347Z",
-                "2025-07-04T08:55:45.072131Z",
-                "2025-07-04T09:53:43.153579Z",
-                "2025-07-04T12:41:29.164218Z",
-                "2025-07-04T14:33:40.688006Z",
-                "2025-07-04T15:29:47.222377Z"
-            ]
-        },
-        {
-            "id": "9ffbc84b751fdc464e5a452b13e4168e",
-            "source": "spacenews",
-            "text": "The Commercial Space Federation (CSF) Welcomes Starcloud and Volta Space Technologies as New Associate Members",
-            "source_link": "https://spacenews.com/the-commercial-space-federation-csf-welcomes-starcloud-and-volta-space-technologies-as-new-associate-members/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-27T16:17:35.251263Z",
-            "shown_at": [
-                "2025-06-27T16:17:35.953860Z",
-                "2025-06-29T19:01:48.156693Z",
-                "2025-06-30T16:05:32.475255Z",
-                "2025-07-01T22:09:33.022424Z",
-                "2025-07-04T00:41:42.647576Z"
-            ]
-        },
-        {
-            "id": "bb0908144ebd4a8c46608afb71fb715e",
-            "source": "spacenews",
-            "text": "Space infrastructure investments surge to five-quarter high",
-            "source_link": "https://spacenews.com/space-infrastructure-investments-surge-to-five-quarter-high/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-08T11:04:12.192368Z",
-            "shown_at": [
-                "2025-10-08T11:04:13.548650Z"
-            ]
-        },
-        {
-            "id": "51ddd1f800b283b979f7d489cb30997e",
-            "source": "spacenews",
-            "text": "Golden Dome: What’s its story? ",
-            "source_link": "https://spacenews.com/golden-dome-whats-its-story/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-08T13:12:02.122656Z",
-            "shown_at": [
-                "2025-10-08T13:12:02.809672Z"
-            ]
-        },
-        {
-            "id": "b4fa5167b536af8b3aa9516a9232b0aa",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Project Kuiper Internet Satellites for Amazon",
-            "source_link": "https://www.supercluster.com/launches/project-kuiper-kf-031",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-10-10T01:34:00.000Z",
-            "time_remaining": "1d 01h 34m",
-            "fetched_datetime": "2025-10-08T14:40:03.562125Z",
-            "shown_at": [
-                "2025-10-08T14:40:04.666696Z",
-                "2025-10-08T14:41:50.098850Z",
-                "2025-10-08T14:43:40.881679Z",
-                "2025-10-08T14:45:39.832226Z",
-                "2025-10-08T15:29:42.957830Z",
-                "2025-10-08T15:32:07.357972Z",
-                "2025-10-08T15:35:42.116651Z",
-                "2025-10-08T15:37:36.958318Z",
-                "2025-10-08T15:39:43.920914Z",
-                "2025-10-08T15:41:56.602164Z",
-                "2025-10-08T15:43:48.712152Z",
-                "2025-10-08T16:27:55.001780Z",
-                "2025-10-08T16:29:51.491054Z",
-                "2025-10-08T16:32:35.030998Z",
-                "2025-10-08T16:35:47.436264Z",
-                "2025-10-08T16:37:24.853373Z",
-                "2025-10-08T16:39:40.842815Z",
-                "2025-10-08T16:41:55.122304Z",
-                "2025-10-08T17:27:46.633242Z",
-                "2025-10-08T17:29:55.355059Z",
-                "2025-10-08T17:31:46.910852Z",
-                "2025-10-08T17:33:51.930807Z",
-                "2025-10-08T17:35:47.860946Z",
-                "2025-10-08T17:38:01.983856Z",
-                "2025-10-08T17:39:30.943763Z",
-                "2025-10-08T18:29:56.938109Z",
-                "2025-10-08T18:32:02.547060Z",
-                "2025-10-08T18:33:45.336761Z",
-                "2025-10-08T18:35:56.952279Z",
-                "2025-10-08T18:37:44.647582Z",
-                "2025-10-08T18:39:22.180222Z",
-                "2025-10-08T18:41:52.908296Z",
-                "2025-10-08T19:29:54.992244Z",
-                "2025-10-08T19:31:26.151676Z",
-                "2025-10-08T19:33:40.141102Z",
-                "2025-10-08T19:35:47.898438Z",
-                "2025-10-08T19:37:26.907111Z",
-                "2025-10-08T19:39:48.934445Z",
-                "2025-10-08T19:41:17.516095Z",
-                "2025-10-08T20:28:04.386559Z",
-                "2025-10-08T20:29:45.519417Z",
-                "2025-10-08T20:31:26.901256Z",
-                "2025-10-08T20:33:48.999231Z",
-                "2025-10-08T20:35:51.458157Z",
-                "2025-10-08T20:38:02.471094Z",
-                "2025-10-08T20:39:36.232732Z",
-                "2025-10-08T21:57:48.207218Z",
-                "2025-10-08T21:59:49.812329Z",
-                "2025-10-08T22:02:07.284243Z",
-                "2025-10-08T22:06:03.252057Z",
-                "2025-10-08T22:07:38.341169Z",
-                "2025-10-08T22:09:33.168520Z",
-                "2025-10-08T22:11:41.503776Z",
-                "2025-10-08T22:59:45.549289Z",
-                "2025-10-08T23:02:14.164944Z",
-                "2025-10-08T23:05:46.534723Z",
-                "2025-10-08T23:07:32.444195Z",
-                "2025-10-08T23:09:55.548181Z",
-                "2025-10-08T23:11:40.569541Z",
-                "2025-10-08T23:13:47.201922Z",
-                "2025-10-08T23:57:53.154704Z",
-                "2025-10-08T23:59:47.306553Z"
-            ]
-        },
-        {
-            "id": "1fc0c86f1f3a3eabb1e56408d0fef002",
-            "source": "spacenews",
-            "text": "Space Force taps Muon’s wildfire monitoring satellites for weather imaging",
-            "source_link": "https://spacenews.com/space-force-taps-muons-wildfire-monitoring-satellites-for-weather-imaging/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-08T18:57:27.661284Z",
-            "shown_at": [
-                "2025-10-08T18:57:28.300608Z"
-            ]
-        },
-        {
-            "id": "de20e96a02cf96a520905a7d22a0bc51",
-            "source": "breaking_defense",
-            "text": "Space Force taps Muon for 3 prototype weather satellites",
-            "source_link": "https://breakingdefense.com/2025/10/space-force-taps-muon-for-3-prototype-weather-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-08T19:58:04.298706Z",
-            "shown_at": [
-                "2025-10-08T19:58:04.991161Z"
-            ]
-        },
-        {
-            "id": "7d19a46a172d8d9ec779e06edaa1efce",
-            "source": "spacenews",
-            "text": "AST SpaceMobile gains Verizon ally amid SpaceX’s direct-to-device push",
-            "source_link": "https://spacenews.com/ast-spacemobile-gains-verizon-ally-amid-spacexs-direct-to-device-push/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-08T20:13:46.653382Z",
-            "shown_at": [
-                "2025-10-08T20:13:47.359201Z"
-            ]
-        },
-        {
-            "id": "705bb27584108e7b73554e3a55451f5f",
-            "source": "spacenews",
-            "text": "Blue Origin flies sixth crewed New Shepard flight of 2025",
-            "source_link": "https://spacenews.com/blue-origin-flies-sixth-crewed-new-shepard-flight-of-2025/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-08T21:27:51.147171Z",
-            "shown_at": [
-                "2025-10-08T21:27:51.975330Z"
-            ]
-        },
-        {
-            "id": "33520b12ca3f63d78fbde44f97788977",
-            "source": "spacenews",
-            "text": "Space Force sets up ‘working capital fund’ for commercial space services",
-            "source_link": "https://spacenews.com/space-force-sets-up-working-capital-fund-for-commercial-space-services/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-08T21:27:51.147249Z",
-            "shown_at": [
-                "2025-10-08T21:43:43.570231Z"
-            ]
-        },
-        {
-            "id": "5ffa5d477af2a1135704a21bc21e2703",
-            "source": "spacenews",
-            "text": "Stoke Space raises $510 million",
-            "source_link": "https://spacenews.com/stoke-space-raises-510-million/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-08T23:15:07.048215Z",
-            "shown_at": [
-                "2025-10-08T23:15:07.651442Z"
             ]
         }
     ]
