@@ -5,7 +5,7 @@
 | spacenews | 7 | 12 | 24 | 50 |
 | breaking_defense | 1 | 2 | 21 | 43 |
 | supercluster | 1 | 1 | 67 | 67 |
-| nyt | 0 | 1 | 21 | 44 |
+| nyt | 0 | 1 | 22 | 44 |
 
 # Shown Order
 
@@ -6458,3 +6458,4 @@
 - **Oct 09, 12:09 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 09, 12:12 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 09, 12:13 AM** - Preparations on track for second New Glenn launch (spacenews)
+- **Oct 09, 12:27 AM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
