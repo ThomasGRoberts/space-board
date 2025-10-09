@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 25 | 51 |
-| breaking_defense | 1 | 2 | 22 | 44 |
+| breaking_defense | 1 | 2 | 23 | 45 |
 | supercluster | 1 | 1 | 116 | 116 |
-| nyt | 0 | 1 | 23 | 46 |
+| nyt | 0 | 1 | 22 | 46 |
 
 # Shown Order
 
@@ -6529,3 +6529,4 @@
 - **Oct 09, 06:59 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 09, 07:02 AM** - At IAC, global space cooperation meets American space dominance (spacenews)
 - **Oct 09, 07:15 AM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
+- **Oct 09, 07:30 AM** - Space Rapid Capabilities Office to put radars on sats to warn of space-bound threats (breaking_defense)
