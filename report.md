@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 24 | 49 |
 | breaking_defense | 1 | 2 | 21 | 44 |
-| supercluster | 1 | 1 | 74 | 74 |
+| supercluster | 1 | 1 | 75 | 75 |
 | nyt | 0 | 1 | 21 | 44 |
 
 # Shown Order
@@ -6470,3 +6470,4 @@
 - **Oct 09, 01:11 AM** - Will Pentagon procurement reforms really stick this time? (spacenews)
 - **Oct 09, 01:25 AM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
 - **Oct 09, 01:39 AM** - Space Rapid Capabilities Office to award contracts to put radars on sats to warn of space-bound threats (breaking_defense)
+- **Oct 09, 01:53 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
