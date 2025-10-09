@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 25 | 51 |
-| breaking_defense | 1 | 2 | 22 | 44 |
+| breaking_defense | 1 | 2 | 23 | 45 |
 | supercluster | 1 | 1 | 137 | 137 |
 | nyt | 0 | 1 | 23 | 46 |
 
@@ -6559,3 +6559,4 @@
 - **Oct 09, 09:53 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 09, 09:55 AM** - Britain’s space security needs more than government funding (spacenews)
 - **Oct 09, 10:11 AM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
+- **Oct 09, 10:25 AM** - Space Force taps SpaceX, ULA for first set of critical launches beyond FY27 (breaking_defense)
