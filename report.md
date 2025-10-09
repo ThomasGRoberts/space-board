@@ -5,7 +5,7 @@
 | spacenews | 7 | 12 | 24 | 50 |
 | breaking_defense | 1 | 2 | 21 | 43 |
 | supercluster | 1 | 1 | 74 | 74 |
-| nyt | 0 | 1 | 21 | 44 |
+| nyt | 0 | 1 | 22 | 44 |
 
 # Shown Order
 
@@ -6468,3 +6468,4 @@
 - **Oct 09, 01:07 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 09, 01:09 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 09, 01:11 AM** - Will Pentagon procurement reforms really stick this time? (spacenews)
+- **Oct 09, 01:25 AM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
