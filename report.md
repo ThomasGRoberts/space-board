@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 10 | 25 | 49 |
-| breaking_defense | 1 | 2 | 23 | 44 |
+| breaking_defense | 1 | 2 | 24 | 45 |
 | supercluster | 1 | 2 | 160 | 220 |
 | nyt | 0 | 0 | 23 | 45 |
 
@@ -6680,3 +6680,4 @@
 - **Oct 09, 10:51 PM** - Blue Origin flies sixth crewed New Shepard flight of 2025 (spacenews)
 - **Oct 09, 11:05 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
 - **Oct 09, 11:19 PM** - Former U.S. defense officials urge Pentagon to scale up hypersonic weapons to match China, Russia (spacenews)
+- **Oct 09, 11:34 PM** - Defense to ‘anchor’ exploding satellite market over next decade: NovaSpace (breaking_defense)
