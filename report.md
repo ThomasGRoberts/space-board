@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 11 | 25 | 49 |
-| breaking_defense | 1 | 2 | 23 | 44 |
+| spacenews | 6 | 11 | 26 | 50 |
+| breaking_defense | 1 | 2 | 23 | 43 |
 | supercluster | 0 | 1 | 160 | 185 |
 | nyt | 0 | 1 | 23 | 45 |
 
@@ -6628,3 +6628,4 @@
 - **Oct 09, 05:47 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 09, 05:49 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 09, 05:51 PM** - Sync Your Calendar With the Solar System (nyt)
+- **Oct 09, 06:07 PM** - Utilize the ISS as a resource: a common sense, fiscally responsible plan leveraging the International Space Station (spacenews)
