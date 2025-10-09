@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 25 | 51 |
 | breaking_defense | 1 | 2 | 23 | 45 |
-| supercluster | 1 | 1 | 123 | 123 |
+| supercluster | 1 | 1 | 124 | 124 |
 | nyt | 0 | 1 | 22 | 45 |
 
 # Shown Order
@@ -6540,3 +6540,4 @@
 - **Oct 09, 07:59 AM** - Senators spar over plans to move shuttle Discovery (spacenews)
 - **Oct 09, 08:14 AM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
 - **Oct 09, 08:27 AM** - Close the gap: Turn the Franco-German missile early warning into measurable capability (breaking_defense)
+- **Oct 09, 08:43 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
