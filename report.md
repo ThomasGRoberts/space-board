@@ -5,7 +5,7 @@
 | spacenews | 7 | 12 | 24 | 50 |
 | breaking_defense | 1 | 2 | 21 | 43 |
 | supercluster | 1 | 1 | 81 | 81 |
-| nyt | 0 | 1 | 21 | 44 |
+| nyt | 0 | 1 | 22 | 44 |
 
 # Shown Order
 
@@ -6478,3 +6478,4 @@
 - **Oct 09, 02:05 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 09, 02:07 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 09, 02:09 AM** - EchoStar clears key regulatory step for spectrum sale to SpaceX (spacenews)
+- **Oct 09, 02:23 AM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
