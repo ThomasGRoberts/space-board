@@ -5,7 +5,7 @@
 | spacenews | 7 | 12 | 25 | 50 |
 | breaking_defense | 1 | 2 | 21 | 43 |
 | supercluster | 1 | 1 | 88 | 88 |
-| nyt | 0 | 1 | 21 | 44 |
+| nyt | 0 | 1 | 22 | 45 |
 
 # Shown Order
 
@@ -6488,3 +6488,4 @@
 - **Oct 09, 03:02 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 09, 03:03 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 09, 03:05 AM** - Senators spar over plans to move shuttle Discovery (spacenews)
+- **Oct 09, 03:19 AM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
