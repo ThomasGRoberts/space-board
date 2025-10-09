@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 24 | 50 |
-| breaking_defense | 1 | 2 | 21 | 43 |
+| breaking_defense | 1 | 2 | 22 | 44 |
 | supercluster | 1 | 1 | 67 | 67 |
 | nyt | 0 | 1 | 21 | 44 |
 
@@ -6459,3 +6459,4 @@
 - **Oct 09, 12:12 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 09, 12:13 AM** - Preparations on track for second New Glenn launch (spacenews)
 - **Oct 09, 12:27 AM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
+- **Oct 09, 12:41 AM** - Space Rapid Capabilities Office to award contracts to put radars on sats to warn of space-bound threats (breaking_defense)
