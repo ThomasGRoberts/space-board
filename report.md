@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 25 | 51 |
 | breaking_defense | 1 | 2 | 23 | 45 |
-| supercluster | 1 | 1 | 145 | 145 |
+| supercluster | 1 | 1 | 146 | 146 |
 | nyt | 0 | 1 | 22 | 45 |
 
 # Shown Order
@@ -6571,3 +6571,4 @@
 - **Oct 09, 11:09 AM** - Sync Your Calendar With the Solar System (nyt)
 - **Oct 09, 11:23 AM** - Space Force taps Muon for 3 prototype weather satellites (breaking_defense)
 - **Oct 09, 11:37 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Oct 09, 11:39 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
