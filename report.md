@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 25 | 50 |
 | breaking_defense | 1 | 2 | 23 | 45 |
-| supercluster | 1 | 1 | 103 | 103 |
+| supercluster | 1 | 1 | 104 | 104 |
 | nyt | 0 | 1 | 22 | 45 |
 
 # Shown Order
@@ -6511,3 +6511,4 @@
 - **Oct 09, 05:18 AM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
 - **Oct 09, 05:31 AM** - Defense to ‘anchor’ exploding satellite market over next decade: NovaSpace (breaking_defense)
 - **Oct 09, 05:46 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Oct 09, 05:49 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
