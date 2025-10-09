@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 9 | 25 | 48 |
-| breaking_defense | 1 | 2 | 23 | 44 |
+| breaking_defense | 1 | 2 | 24 | 45 |
 | supercluster | 1 | 2 | 160 | 213 |
 | nyt | 0 | 1 | 23 | 45 |
 
@@ -6669,3 +6669,4 @@
 - **Oct 09, 09:47 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 09, 09:50 PM** - The real space war is being fought in cyberspace (spacenews)
 - **Oct 09, 10:07 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
+- **Oct 09, 10:22 PM** - Firefly to buy SciTec with eye on Golden Dome (breaking_defense)
