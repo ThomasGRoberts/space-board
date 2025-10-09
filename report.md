@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 25 | 51 |
-| breaking_defense | 1 | 2 | 22 | 44 |
+| breaking_defense | 1 | 2 | 23 | 45 |
 | supercluster | 1 | 1 | 102 | 102 |
-| nyt | 0 | 1 | 23 | 45 |
+| nyt | 0 | 1 | 22 | 45 |
 
 # Shown Order
 
@@ -6509,3 +6509,4 @@
 - **Oct 09, 04:59 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 09, 05:02 AM** - China’s ‘near space’ legal warfare (spacenews)
 - **Oct 09, 05:18 AM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
+- **Oct 09, 05:31 AM** - Defense to ‘anchor’ exploding satellite market over next decade: NovaSpace (breaking_defense)
