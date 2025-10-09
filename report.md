@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 11 | 25 | 50 |
-| breaking_defense | 1 | 2 | 23 | 44 |
+| breaking_defense | 1 | 2 | 24 | 45 |
 | supercluster | 1 | 1 | 158 | 158 |
 | nyt | 0 | 1 | 23 | 46 |
 
@@ -6589,3 +6589,4 @@
 - **Oct 09, 12:47 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 09, 12:49 PM** - Utilize the ISS as a resource: a common sense, fiscally responsible plan leveraging the International Space Station (spacenews)
 - **Oct 09, 01:05 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
+- **Oct 09, 01:21 PM** - Close the gap: Turn the Franco-German missile early warning into measurable capability (breaking_defense)
