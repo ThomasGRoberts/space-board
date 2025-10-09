@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 10 | 25 | 49 |
 | breaking_defense | 1 | 2 | 23 | 45 |
-| supercluster | 1 | 2 | 161 | 221 |
+| supercluster | 1 | 2 | 162 | 222 |
 | nyt | 0 | 0 | 23 | 44 |
 
 # Shown Order
@@ -6682,3 +6682,4 @@
 - **Oct 09, 11:19 PM** - Former U.S. defense officials urge Pentagon to scale up hypersonic weapons to match China, Russia (spacenews)
 - **Oct 09, 11:34 PM** - Defense to ‘anchor’ exploding satellite market over next decade: NovaSpace (breaking_defense)
 - **Oct 09, 11:48 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Oct 09, 11:49 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
