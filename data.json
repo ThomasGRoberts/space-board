@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-09T00:02:10.470625+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2d02361c0b6ff8e5203df7bcd25aea2d",
+    "trigger_count": 0,
+    "current_item_id": "96cf7a07fc1559da5a0e33e90d330341",
     "data": [
         {
             "id": "5ffa5d477af2a1135704a21bc21e2703",
@@ -12167,6 +12167,18 @@
                 "2025-10-09T19:41:52.661658Z",
                 "2025-10-09T19:43:56.918906Z",
                 "2025-10-09T19:45:36.837693Z"
+            ]
+        },
+        {
+            "id": "96cf7a07fc1559da5a0e33e90d330341",
+            "source": "breaking_defense",
+            "text": "Australian Space Command considers ‘space control’ options: Senior officer",
+            "source_link": "https://breakingdefense.com/2025/10/australian-space-command-considers-space-control-options-senior-officer/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-09T20:07:55.679062Z",
+            "shown_at": [
+                "2025-10-09T20:07:56.527859Z"
             ]
         }
     ]
