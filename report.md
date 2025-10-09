@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 11 | 26 | 50 |
 | breaking_defense | 1 | 1 | 23 | 44 |
-| supercluster | 1 | 2 | 159 | 193 |
+| supercluster | 1 | 2 | 159 | 194 |
 | nyt | 0 | 1 | 23 | 45 |
 
 # Shown Order
@@ -6641,3 +6641,4 @@
 - **Oct 09, 07:03 PM** - Firefly to acquire defense contractor SciTec in $855 million deal (spacenews)
 - **Oct 09, 07:18 PM** - Space Force taps Muon for 3 prototype weather satellites (breaking_defense)
 - **Oct 09, 07:33 PM** - China Will Launch the Gravity-1 Rocket (supercluster)
+- **Oct 09, 07:35 PM** - China Will Launch the Gravity-1 Rocket (supercluster)
