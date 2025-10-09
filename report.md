@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 11 | 26 | 50 |
-| breaking_defense | 1 | 2 | 23 | 45 |
+| breaking_defense | 1 | 2 | 23 | 44 |
 | supercluster | 1 | 1 | 165 | 165 |
-| nyt | 0 | 1 | 23 | 45 |
+| nyt | 0 | 1 | 24 | 46 |
 
 # Shown Order
 
@@ -6598,3 +6598,4 @@
 - **Oct 09, 01:55 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 09, 01:57 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 09, 01:59 PM** - SpaceX lands majority of U.S. national security launches awarded for fiscal year 2026 (spacenews)
+- **Oct 09, 02:16 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
