@@ -5,7 +5,7 @@
 | spacenews | 5 | 10 | 27 | 49 |
 | breaking_defense | 1 | 2 | 22 | 44 |
 | supercluster | 1 | 2 | 160 | 206 |
-| nyt | 0 | 1 | 22 | 44 |
+| nyt | 0 | 1 | 23 | 45 |
 
 # Shown Order
 
@@ -6658,3 +6658,4 @@
 - **Oct 09, 08:47 PM** - China Will Launch the Gravity-1 Rocket (supercluster)
 - **Oct 09, 08:49 PM** - China Will Launch the Gravity-1 Rocket (supercluster)
 - **Oct 09, 08:51 PM** - Momentus wins two NASA contracts to fly tech demo payloads (spacenews)
+- **Oct 09, 09:05 PM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
