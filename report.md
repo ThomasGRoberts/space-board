@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 10 | 25 | 49 |
+| spacenews | 5 | 10 | 26 | 50 |
 | breaking_defense | 1 | 2 | 23 | 44 |
 | supercluster | 0 | 1 | 167 | 171 |
 | nyt | 0 | 1 | 23 | 45 |
@@ -6606,3 +6606,4 @@
 - **Oct 09, 03:10 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 09, 03:23 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 09, 03:26 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Oct 09, 03:28 PM** - Novaspace Projects $665B in Satellite Build and Launch Activity (spacenews)
