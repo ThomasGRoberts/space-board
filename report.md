@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 9 | 26 | 48 |
+| spacenews | 5 | 10 | 27 | 49 |
 | breaking_defense | 1 | 2 | 23 | 44 |
 | supercluster | 1 | 2 | 160 | 206 |
 | nyt | 0 | 1 | 22 | 45 |
@@ -6657,3 +6657,4 @@
 - **Oct 09, 08:45 PM** - China Will Launch the Gravity-1 Rocket (supercluster)
 - **Oct 09, 08:47 PM** - China Will Launch the Gravity-1 Rocket (supercluster)
 - **Oct 09, 08:49 PM** - China Will Launch the Gravity-1 Rocket (supercluster)
+- **Oct 09, 08:51 PM** - Momentus wins two NASA contracts to fly tech demo payloads (spacenews)
