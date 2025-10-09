@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 24 | 49 |
 | breaking_defense | 1 | 2 | 21 | 44 |
-| supercluster | 1 | 1 | 68 | 68 |
+| supercluster | 1 | 1 | 69 | 69 |
 | nyt | 0 | 1 | 21 | 44 |
 
 # Shown Order
@@ -6461,3 +6461,4 @@
 - **Oct 09, 12:27 AM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
 - **Oct 09, 12:41 AM** - Space Rapid Capabilities Office to award contracts to put radars on sats to warn of space-bound threats (breaking_defense)
 - **Oct 09, 12:56 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Oct 09, 12:57 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
