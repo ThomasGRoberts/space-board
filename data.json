@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-09T00:02:10.470625+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0f1f314b833468e80995eaf7d440bf97",
+    "trigger_count": 0,
+    "current_item_id": "a408c35f1381bf8301af9f6bf1d36158",
     "data": [
         {
             "id": "5ffa5d477af2a1135704a21bc21e2703",
@@ -12103,6 +12103,18 @@
                 "2025-07-05T16:19:19.904293Z",
                 "2025-07-06T08:18:00.347368Z",
                 "2025-07-06T14:37:37.363851Z"
+            ]
+        },
+        {
+            "id": "a408c35f1381bf8301af9f6bf1d36158",
+            "source": "spacenews",
+            "text": "Critical Software Invests in Aerospacelab",
+            "source_link": "https://spacenews.com/critical-software-invests-in-aerospacelab/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-09T16:11:43.168223Z",
+            "shown_at": [
+                "2025-10-09T16:11:43.758109Z"
             ]
         }
     ]
