@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 24 | 49 |
-| breaking_defense | 1 | 2 | 22 | 44 |
-| supercluster | 1 | 1 | 82 | 82 |
+| breaking_defense | 1 | 2 | 21 | 44 |
+| supercluster | 1 | 1 | 83 | 83 |
 | nyt | 0 | 1 | 21 | 44 |
 
 # Shown Order
@@ -6481,3 +6481,4 @@
 - **Oct 09, 02:23 AM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
 - **Oct 09, 02:37 AM** - Space Force taps SpaceX, ULA for first set of critical launches beyond FY27 (breaking_defense)
 - **Oct 09, 02:51 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Oct 09, 02:53 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
