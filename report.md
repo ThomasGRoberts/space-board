@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 11 | 26 | 50 |
 | breaking_defense | 1 | 2 | 23 | 44 |
-| supercluster | 0 | 1 | 155 | 171 |
+| supercluster | 0 | 1 | 155 | 172 |
 | nyt | 0 | 1 | 23 | 44 |
 
 # Shown Order
@@ -6610,3 +6610,4 @@
 - **Oct 09, 03:48 PM** - Sync Your Calendar With the Solar System (nyt)
 - **Oct 09, 04:11 PM** - Critical Software Invests in Aerospacelab (spacenews)
 - **Oct 09, 04:25 PM** - Space Rapid Capabilities Office to put radars on sats to warn of space-bound threats (breaking_defense)
+- **Oct 09, 04:39 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
