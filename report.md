@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 11 | 26 | 50 |
 | breaking_defense | 1 | 2 | 23 | 44 |
-| supercluster | 0 | 1 | 156 | 178 |
-| nyt | 0 | 1 | 23 | 45 |
+| supercluster | 0 | 1 | 156 | 179 |
+| nyt | 0 | 1 | 23 | 44 |
 
 # Shown Order
 
@@ -6620,3 +6620,4 @@
 - **Oct 09, 04:53 PM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
 - **Oct 09, 05:09 PM** - Space Force sets up ‘working capital fund’ for commercial space services (spacenews)
 - **Oct 09, 05:23 PM** - Space Rapid Capabilities Office to award contracts to put radars on sats to warn of space-bound threats (breaking_defense)
+- **Oct 09, 05:37 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
