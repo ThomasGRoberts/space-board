@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 11 | 25 | 50 |
 | breaking_defense | 1 | 2 | 23 | 45 |
-| supercluster | 1 | 1 | 158 | 158 |
+| supercluster | 1 | 1 | 159 | 159 |
 | nyt | 0 | 1 | 23 | 46 |
 
 # Shown Order
@@ -6590,3 +6590,4 @@
 - **Oct 09, 12:49 PM** - Utilize the ISS as a resource: a common sense, fiscally responsible plan leveraging the International Space Station (spacenews)
 - **Oct 09, 01:05 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
 - **Oct 09, 01:21 PM** - Close the gap: Turn the Franco-German missile early warning into measurable capability (breaking_defense)
+- **Oct 09, 01:39 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
