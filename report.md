@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 9 | 25 | 48 |
 | breaking_defense | 1 | 2 | 23 | 45 |
-| supercluster | 1 | 2 | 160 | 213 |
+| supercluster | 1 | 2 | 161 | 214 |
 | nyt | 0 | 0 | 23 | 44 |
 
 # Shown Order
@@ -6670,3 +6670,4 @@
 - **Oct 09, 09:50 PM** - The real space war is being fought in cyberspace (spacenews)
 - **Oct 09, 10:07 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
 - **Oct 09, 10:22 PM** - Firefly to buy SciTec with eye on Golden Dome (breaking_defense)
+- **Oct 09, 10:37 PM** - China Will Launch the Gravity-1 Rocket (supercluster)
