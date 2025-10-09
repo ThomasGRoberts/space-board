@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 10 | 25 | 49 |
 | breaking_defense | 1 | 2 | 23 | 44 |
-| supercluster | 1 | 2 | 162 | 208 |
+| supercluster | 1 | 2 | 163 | 209 |
 | nyt | 0 | 1 | 23 | 45 |
 
 # Shown Order
@@ -6662,3 +6662,4 @@
 - **Oct 09, 09:19 PM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
 - **Oct 09, 09:33 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 09, 09:36 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Oct 09, 09:39 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
