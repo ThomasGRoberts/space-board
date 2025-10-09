@@ -5,7 +5,7 @@
 | spacenews | 6 | 11 | 26 | 49 |
 | breaking_defense | 1 | 2 | 23 | 44 |
 | supercluster | 0 | 1 | 160 | 185 |
-| nyt | 0 | 1 | 22 | 44 |
+| nyt | 0 | 1 | 23 | 45 |
 
 # Shown Order
 
@@ -6627,3 +6627,4 @@
 - **Oct 09, 05:45 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 09, 05:47 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 09, 05:49 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Oct 09, 05:51 PM** - Sync Your Calendar With the Solar System (nyt)
