@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 12 | 24 | 49 |
-| breaking_defense | 1 | 2 | 21 | 44 |
+| spacenews | 7 | 12 | 25 | 50 |
+| breaking_defense | 1 | 2 | 21 | 43 |
 | supercluster | 1 | 1 | 74 | 74 |
 | nyt | 0 | 1 | 21 | 44 |
 
@@ -6467,3 +6467,4 @@
 - **Oct 09, 01:05 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 09, 01:07 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 09, 01:09 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Oct 09, 01:11 AM** - Will Pentagon procurement reforms really stick this time? (spacenews)
