@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 25 | 51 |
 | breaking_defense | 1 | 2 | 23 | 45 |
-| supercluster | 1 | 1 | 109 | 109 |
+| supercluster | 1 | 1 | 110 | 110 |
 | nyt | 0 | 1 | 22 | 45 |
 
 # Shown Order
@@ -6520,3 +6520,4 @@
 - **Oct 09, 06:02 AM** - HEO looks to expand satellite imaging beyond low Earth orbit (spacenews)
 - **Oct 09, 06:18 AM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
 - **Oct 09, 06:32 AM** - Space Rapid Capabilities Office to award contracts to put radars on sats to warn of space-bound threats (breaking_defense)
+- **Oct 09, 06:47 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
