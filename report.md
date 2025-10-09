@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 10 | 25 | 49 |
 | breaking_defense | 1 | 2 | 24 | 45 |
-| supercluster | 0 | 1 | 163 | 167 |
+| supercluster | 0 | 1 | 164 | 168 |
 | nyt | 0 | 1 | 23 | 45 |
 
 # Shown Order
@@ -6602,3 +6602,4 @@
 - **Oct 09, 02:30 PM** - Defense to ‘anchor’ exploding satellite market over next decade: NovaSpace (breaking_defense)
 - **Oct 09, 03:01 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 09, 03:05 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Oct 09, 03:08 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
