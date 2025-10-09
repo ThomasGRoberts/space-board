@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 11 | 25 | 49 |
-| breaking_defense | 1 | 2 | 23 | 44 |
+| spacenews | 6 | 11 | 26 | 50 |
+| breaking_defense | 1 | 2 | 23 | 43 |
 | supercluster | 0 | 1 | 160 | 178 |
 | nyt | 0 | 1 | 23 | 45 |
 
@@ -6618,3 +6618,4 @@
 - **Oct 09, 04:50 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 09, 04:51 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 09, 04:53 PM** - What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life (nyt)
+- **Oct 09, 05:09 PM** - Space Force sets up ‘working capital fund’ for commercial space services (spacenews)
