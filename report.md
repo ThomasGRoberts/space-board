@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 9 | 24 | 48 |
-| breaking_defense | 1 | 2 | 23 | 45 |
-| supercluster | 1 | 2 | 165 | 218 |
+| breaking_defense | 1 | 2 | 23 | 44 |
+| supercluster | 1 | 2 | 166 | 219 |
 | nyt | 0 | 0 | 23 | 44 |
 
 # Shown Order
@@ -6675,3 +6675,4 @@
 - **Oct 09, 10:41 PM** - China Will Launch the Gravity-1 Rocket (supercluster)
 - **Oct 09, 10:43 PM** - China Will Launch the Gravity-1 Rocket (supercluster)
 - **Oct 09, 10:45 PM** - China Will Launch the Gravity-1 Rocket (supercluster)
+- **Oct 09, 10:47 PM** - China Will Launch the Gravity-1 Rocket (supercluster)
