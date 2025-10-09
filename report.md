@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 9 | 25 | 48 |
+| spacenews | 4 | 9 | 26 | 49 |
 | breaking_defense | 1 | 2 | 23 | 44 |
 | supercluster | 1 | 2 | 160 | 199 |
 | nyt | 0 | 1 | 23 | 45 |
@@ -6649,3 +6649,4 @@
 - **Oct 09, 07:45 PM** - China Will Launch the Gravity-1 Rocket (supercluster)
 - **Oct 09, 07:47 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
 - **Oct 09, 08:07 PM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
+- **Oct 09, 08:22 PM** - Blue Origin wins $78.2 million contract to expand satellite processing infrastructure at Cape Canaveral (spacenews)
