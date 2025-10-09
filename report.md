@@ -5,7 +5,7 @@
 | spacenews | 6 | 12 | 25 | 51 |
 | breaking_defense | 1 | 2 | 23 | 44 |
 | supercluster | 1 | 1 | 144 | 144 |
-| nyt | 0 | 1 | 22 | 45 |
+| nyt | 0 | 1 | 23 | 46 |
 
 # Shown Order
 
@@ -6568,3 +6568,4 @@
 - **Oct 09, 10:51 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 09, 10:53 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 09, 10:56 AM** - Gilmour Space plans return to flight next year (spacenews)
+- **Oct 09, 11:09 AM** - Sync Your Calendar With the Solar System (nyt)
