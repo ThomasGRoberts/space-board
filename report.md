@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 12 | 24 | 49 |
+| spacenews | 7 | 12 | 25 | 50 |
 | breaking_defense | 1 | 2 | 21 | 44 |
 | supercluster | 1 | 1 | 88 | 88 |
 | nyt | 0 | 1 | 21 | 44 |
@@ -6487,3 +6487,4 @@
 - **Oct 09, 03:00 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 09, 03:02 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 09, 03:03 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Oct 09, 03:05 AM** - Senators spar over plans to move shuttle Discovery (spacenews)
