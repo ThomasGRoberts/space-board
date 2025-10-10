@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 9 | 25 | 50 |
 | breaking_defense | 1 | 2 | 23 | 46 |
-| supercluster | 1 | 1 | 107 | 107 |
+| supercluster | 1 | 1 | 108 | 108 |
 | nyt | 0 | 0 | 23 | 46 |
 
 # Shown Order
@@ -6584,3 +6584,4 @@
 - **Oct 10, 12:19 PM** - Space Force taps SpaceX, ULA for first set of critical launches beyond FY27 (breaking_defense)
 - **Oct 10, 12:35 PM** - China Will Launch the Gravity-1 Rocket (supercluster)
 - **Oct 10, 12:37 PM** - China Will Launch the Gravity-1 Rocket (supercluster)
+- **Oct 10, 12:39 PM** - China Will Launch the Gravity-1 Rocket (supercluster)
