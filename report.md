@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 24 | 49 |
-| breaking_defense | 0 | 1 | 25 | 48 |
-| supercluster | 0 | 1 | 161 | 182 |
+| breaking_defense | 0 | 1 | 24 | 48 |
+| supercluster | 0 | 1 | 162 | 183 |
 | nyt | 0 | 0 | 24 | 47 |
 
 # Shown Order
@@ -6692,3 +6692,4 @@
 - **Oct 10, 10:49 PM** - Novaspace Projects $665B in Satellite Build and Launch Activity (spacenews)
 - **Oct 10, 11:03 PM** - Sync Your Calendar With the Solar System (nyt)
 - **Oct 10, 11:20 PM** - Firefly to buy SciTec with eye on Golden Dome (breaking_defense)
+- **Oct 10, 11:35 PM** - China Will Launch the Gravity-1 Rocket (supercluster)
