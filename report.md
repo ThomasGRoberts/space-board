@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 8 | 25 | 51 |
-| breaking_defense | 0 | 1 | 23 | 46 |
+| breaking_defense | 0 | 1 | 24 | 47 |
 | supercluster | 0 | 1 | 154 | 168 |
 | nyt | 0 | 0 | 24 | 47 |
 
@@ -6671,3 +6671,4 @@
 - **Oct 10, 08:45 PM** - China Will Launch the Gravity-1 Rocket (supercluster)
 - **Oct 10, 08:47 PM** - Blue Origin flies sixth crewed New Shepard flight of 2025 (spacenews)
 - **Oct 10, 09:02 PM** - Sync Your Calendar With the Solar System (nyt)
+- **Oct 10, 09:22 PM** - Firefly to buy SciTec with eye on Golden Dome (breaking_defense)
