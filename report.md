@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 10 | 25 | 49 |
 | breaking_defense | 1 | 2 | 23 | 45 |
-| supercluster | 1 | 1 | 29 | 29 |
+| supercluster | 1 | 1 | 30 | 30 |
 | nyt | 0 | 0 | 23 | 44 |
 
 # Shown Order
@@ -6473,3 +6473,4 @@
 - **Oct 10, 01:15 AM** - Blue Origin wins $78.2 million contract to expand satellite processing infrastructure at Cape Canaveral (spacenews)
 - **Oct 10, 01:29 AM** - Space Force taps Muon for 3 prototype weather satellites (breaking_defense)
 - **Oct 10, 01:43 AM** - China Will Launch the Gravity-1 Rocket (supercluster)
+- **Oct 10, 01:45 AM** - China Will Launch the Gravity-1 Rocket (supercluster)
