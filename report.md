@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 6 | 25 | 50 |
-| breaking_defense | 0 | 1 | 24 | 47 |
+| breaking_defense | 0 | 1 | 25 | 48 |
 | supercluster | 0 | 1 | 161 | 175 |
 | nyt | 0 | 0 | 24 | 47 |
 
@@ -6681,3 +6681,4 @@
 - **Oct 10, 09:51 PM** - China Will Launch the Gravity-1 Rocket (supercluster)
 - **Oct 10, 09:54 PM** - AST SpaceMobile gains Verizon ally amid SpaceX’s direct-to-device push (spacenews)
 - **Oct 10, 10:07 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
+- **Oct 10, 10:21 PM** - Defense to ‘anchor’ exploding satellite market over next decade: NovaSpace (breaking_defense)
