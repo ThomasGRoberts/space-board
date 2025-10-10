@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 10 | 25 | 50 |
 | breaking_defense | 1 | 2 | 23 | 46 |
-| supercluster | 1 | 1 | 84 | 84 |
+| supercluster | 1 | 1 | 85 | 85 |
 | nyt | 0 | 0 | 23 | 45 |
 
 # Shown Order
@@ -6552,3 +6552,4 @@
 - **Oct 10, 08:51 AM** - Sync Your Calendar With the Solar System (nyt)
 - **Oct 10, 09:07 AM** - Senators spar over plans to move shuttle Discovery (spacenews)
 - **Oct 10, 09:23 AM** - Defense to ‘anchor’ exploding satellite market over next decade: NovaSpace (breaking_defense)
+- **Oct 10, 09:37 AM** - China Will Launch the Gravity-1 Rocket (supercluster)
