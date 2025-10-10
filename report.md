@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 10 | 25 | 49 |
 | breaking_defense | 1 | 2 | 23 | 45 |
-| supercluster | 1 | 1 | 36 | 36 |
+| supercluster | 1 | 1 | 37 | 37 |
 | nyt | 0 | 0 | 23 | 44 |
 
 # Shown Order
@@ -6483,3 +6483,4 @@
 - **Oct 10, 02:13 AM** - SpaceX lands majority of U.S. national security launches awarded for fiscal year 2026 (spacenews)
 - **Oct 10, 02:27 AM** - Defense to ‘anchor’ exploding satellite market over next decade: NovaSpace (breaking_defense)
 - **Oct 10, 02:41 AM** - China Will Launch the Gravity-1 Rocket (supercluster)
+- **Oct 10, 02:43 AM** - China Will Launch the Gravity-1 Rocket (supercluster)
