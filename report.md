@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 9 | 25 | 51 |
 | breaking_defense | 1 | 2 | 24 | 47 |
-| supercluster | 1 | 1 | 140 | 140 |
+| supercluster | 1 | 1 | 141 | 141 |
 | nyt | 0 | 0 | 24 | 47 |
 
 # Shown Order
@@ -6632,3 +6632,4 @@
 - **Oct 10, 04:49 PM** - SpaceX lands majority of U.S. national security launches awarded for fiscal year 2026 (spacenews)
 - **Oct 10, 05:05 PM** - Sync Your Calendar With the Solar System (nyt)
 - **Oct 10, 05:21 PM** - Space Force taps Muon for 3 prototype weather satellites (breaking_defense)
+- **Oct 10, 05:39 PM** - China Will Launch the Gravity-1 Rocket (supercluster)
