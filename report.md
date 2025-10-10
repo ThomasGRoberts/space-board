@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 9 | 25 | 50 |
 | breaking_defense | 1 | 2 | 23 | 46 |
-| supercluster | 1 | 1 | 98 | 98 |
+| supercluster | 1 | 1 | 99 | 99 |
 | nyt | 0 | 0 | 23 | 46 |
 
 # Shown Order
@@ -6572,3 +6572,4 @@
 - **Oct 10, 10:51 AM** - Sync Your Calendar With the Solar System (nyt)
 - **Oct 10, 11:07 AM** - Utilize the ISS as a resource: a common sense, fiscally responsible plan leveraging the International Space Station (spacenews)
 - **Oct 10, 11:21 AM** - Defense to ‘anchor’ exploding satellite market over next decade: NovaSpace (breaking_defense)
+- **Oct 10, 11:35 AM** - China Will Launch the Gravity-1 Rocket (supercluster)
