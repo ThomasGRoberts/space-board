@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 9 | 26 | 51 |
-| breaking_defense | 1 | 2 | 23 | 47 |
+| breaking_defense | 1 | 2 | 24 | 47 |
 | supercluster | 1 | 1 | 126 | 126 |
 | nyt | 0 | 0 | 24 | 47 |
 
@@ -6611,3 +6611,4 @@
 - **Oct 10, 02:47 PM** - China Will Launch the Gravity-1 Rocket (supercluster)
 - **Oct 10, 02:49 PM** - FCC launches ‘Space Month’ to fast-track satellite licensing and spectrum reforms (spacenews)
 - **Oct 10, 03:03 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
+- **Oct 10, 03:17 PM** - Defense to ‘anchor’ exploding satellite market over next decade: NovaSpace (breaking_defense)
