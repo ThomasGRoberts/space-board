@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 9 | 25 | 50 |
 | breaking_defense | 1 | 2 | 23 | 46 |
-| supercluster | 1 | 1 | 100 | 100 |
+| supercluster | 1 | 1 | 101 | 101 |
 | nyt | 0 | 0 | 23 | 45 |
 
 # Shown Order
@@ -6574,3 +6574,4 @@
 - **Oct 10, 11:21 AM** - Defense to ‘anchor’ exploding satellite market over next decade: NovaSpace (breaking_defense)
 - **Oct 10, 11:35 AM** - China Will Launch the Gravity-1 Rocket (supercluster)
 - **Oct 10, 11:37 AM** - China Will Launch the Gravity-1 Rocket (supercluster)
+- **Oct 10, 11:39 AM** - China Will Launch the Gravity-1 Rocket (supercluster)
