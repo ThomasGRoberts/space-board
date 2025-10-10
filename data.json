@@ -1,9 +1,92 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-10-09T00:02:10.470625+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b4fa5167b536af8b3aa9516a9232b0aa",
+    "last_run_datetime": "2025-10-10T00:02:08.826452+00:00",
+    "trigger_count": 0,
+    "current_item_id": "99cea9d5c2e664801d6e5fe09032d158",
     "data": [
+        {
+            "id": "7faa7af6cca42fd0a87600b323f26658",
+            "source": "spacenews",
+            "text": "Former U.S. defense officials urge Pentagon to scale up hypersonic weapons to match China, Russia",
+            "source_link": "https://spacenews.com/former-u-s-defense-officials-urge-pentagon-to-scale-up-hypersonic-weapons-to-match-china-russia/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-09T23:19:48.353643Z",
+            "shown_at": [
+                "2025-10-09T23:19:49.405544Z"
+            ]
+        },
+        {
+            "id": "7cca173d4bb4f5355b3260591f507ec6",
+            "source": "spacenews",
+            "text": "Momentus wins two NASA contracts to fly tech demo payloads",
+            "source_link": "https://spacenews.com/momentus-wins-two-nasa-contracts-to-fly-tech-demo-payloads/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-09T20:51:41.967816Z",
+            "shown_at": [
+                "2025-10-09T20:51:42.604096Z"
+            ]
+        },
+        {
+            "id": "96cf7a07fc1559da5a0e33e90d330341",
+            "source": "breaking_defense",
+            "text": "Australian Space Command considers ‘space control’ options: Senior officer",
+            "source_link": "https://breakingdefense.com/2025/10/australian-space-command-considers-space-control-options-senior-officer/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-09T20:07:55.679062Z",
+            "shown_at": [
+                "2025-10-09T20:07:56.527859Z",
+                "2025-10-09T21:19:39.278904Z"
+            ]
+        },
+        {
+            "id": "204d10aaff62bb41356a725be6311f67",
+            "source": "supercluster",
+            "text": "China Will Launch the Gravity-1 Rocket",
+            "source_link": "https://www.supercluster.com/launches/gravity-1",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-10-11T02:15:00.000Z",
+            "time_remaining": "1d 03h 25m",
+            "fetched_datetime": "2025-10-09T19:33:37.265418Z",
+            "shown_at": [
+                "2025-10-09T19:33:37.986444Z",
+                "2025-10-09T19:35:36.764667Z",
+                "2025-10-09T19:37:38.346640Z",
+                "2025-10-09T19:39:36.994268Z",
+                "2025-10-09T19:41:52.661658Z",
+                "2025-10-09T19:43:56.918906Z",
+                "2025-10-09T19:45:36.837693Z",
+                "2025-10-09T20:37:53.004265Z",
+                "2025-10-09T20:39:49.986738Z",
+                "2025-10-09T20:42:01.917671Z",
+                "2025-10-09T20:43:59.268356Z",
+                "2025-10-09T20:45:31.758481Z",
+                "2025-10-09T20:47:36.969361Z",
+                "2025-10-09T20:49:39.789047Z",
+                "2025-10-09T22:37:52.062378Z",
+                "2025-10-09T22:39:45.263171Z",
+                "2025-10-09T22:41:39.623532Z",
+                "2025-10-09T22:43:55.576392Z",
+                "2025-10-09T22:45:55.526744Z",
+                "2025-10-09T22:47:59.025839Z",
+                "2025-10-09T22:49:47.278559Z"
+            ]
+        },
+        {
+            "id": "a408c35f1381bf8301af9f6bf1d36158",
+            "source": "spacenews",
+            "text": "Critical Software Invests in Aerospacelab",
+            "source_link": "https://spacenews.com/critical-software-invests-in-aerospacelab/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-09T16:11:43.168223Z",
+            "shown_at": [
+                "2025-10-09T16:11:43.758109Z"
+            ]
+        },
         {
             "id": "5ffa5d477af2a1135704a21bc21e2703",
             "source": "spacenews",
@@ -779,7 +862,8 @@
                 "2025-10-08T20:41:59.821901Z",
                 "2025-10-09T03:19:40.781686Z",
                 "2025-10-09T05:18:01.877089Z",
-                "2025-10-09T21:05:42.115684Z"
+                "2025-10-09T21:05:42.115684Z",
+                "2025-10-10T00:02:14.823850Z"
             ]
         },
         {
@@ -12079,167 +12163,6 @@
                 "2025-07-07T04:47:33.419560Z",
                 "2025-07-07T05:43:35.154586Z",
                 "2025-07-07T14:43:54.503588Z"
-            ]
-        },
-        {
-            "id": "27a9795afc9f6828ffa44f2615b4a1a5",
-            "source": "spacenews",
-            "text": "Space Force eyes maneuverable satellites and cloud-based control software to outpace threats in orbit",
-            "source_link": "https://spacenews.com/space-force-eyes-maneuverable-satellites-and-cloud-based-control-software-to-outpace-threats-in-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-30T17:31:50.003049Z",
-            "shown_at": [
-                "2025-06-30T17:31:50.983060Z",
-                "2025-07-01T02:31:45.052991Z",
-                "2025-07-02T18:13:40.821771Z",
-                "2025-07-03T11:53:51.966521Z",
-                "2025-07-03T18:01:59.679151Z",
-                "2025-07-04T17:37:37.385576Z"
-            ]
-        },
-        {
-            "id": "74c40c3ff1f1966e7f0767864177a5bb",
-            "source": "spacenews",
-            "text": "Stanford spinoff EraDrive claims $1 million NASA contract",
-            "source_link": "https://spacenews.com/stanford-spinoff-eradrive-claims-1-million-nasa-contract/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-30T16:19:43.126638Z",
-            "shown_at": [
-                "2025-06-30T16:33:39.142915Z",
-                "2025-07-04T19:31:53.825521Z"
-            ]
-        },
-        {
-            "id": "22960889b5b828f24a065dac28aa75bc",
-            "source": "spacenews",
-            "text": "Chinese spacecraft begin rendezvous and proximity operations in geostationary orbit",
-            "source_link": "https://spacenews.com/chinese-spacecraft-begin-rendezvous-and-proximity-operations-in-geostationary-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-30T16:19:43.126583Z",
-            "shown_at": [
-                "2025-06-30T16:19:45.033368Z",
-                "2025-07-02T09:57:56.419698Z"
-            ]
-        },
-        {
-            "id": "4a5f4c5fbed954b181317961532e7181",
-            "source": "spacenews",
-            "text": "Space is hard. There is no excuse for pretending it’s easy.",
-            "source_link": "https://spacenews.com/space-is-hard-there-is-no-excuse-for-pretending-its-easy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-30T13:13:45.257988Z",
-            "shown_at": [
-                "2025-06-30T13:13:46.609709Z",
-                "2025-07-01T01:35:30.150954Z",
-                "2025-07-01T11:05:35.557151Z",
-                "2025-07-02T03:11:51.122367Z",
-                "2025-07-02T05:05:28.349170Z",
-                "2025-07-07T10:27:46.530045Z"
-            ]
-        },
-        {
-            "id": "180ad376beaef2b312002d09637949fa",
-            "source": "spacenews",
-            "text": "Moog Completes Major Building Expansion to Enhance Space Actuation and Avionics Manufacturing Capabilities",
-            "source_link": "https://spacenews.com/moog-completes-major-building-expansion-to-enhance-actuation-and-avionics-manufacturing-capabilities/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-30T12:31:53.917527Z",
-            "shown_at": [
-                "2025-06-30T12:31:54.474172Z",
-                "2025-07-03T12:52:10.109928Z",
-                "2025-07-03T14:51:43.201024Z",
-                "2025-07-04T01:37:44.556153Z",
-                "2025-07-05T16:19:19.904293Z",
-                "2025-07-06T08:18:00.347368Z",
-                "2025-07-06T14:37:37.363851Z"
-            ]
-        },
-        {
-            "id": "a408c35f1381bf8301af9f6bf1d36158",
-            "source": "spacenews",
-            "text": "Critical Software Invests in Aerospacelab",
-            "source_link": "https://spacenews.com/critical-software-invests-in-aerospacelab/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-09T16:11:43.168223Z",
-            "shown_at": [
-                "2025-10-09T16:11:43.758109Z"
-            ]
-        },
-        {
-            "id": "204d10aaff62bb41356a725be6311f67",
-            "source": "supercluster",
-            "text": "China Will Launch the Gravity-1 Rocket",
-            "source_link": "https://www.supercluster.com/launches/gravity-1",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-10-11T02:15:00.000Z",
-            "time_remaining": "1d 03h 25m",
-            "fetched_datetime": "2025-10-09T19:33:37.265418Z",
-            "shown_at": [
-                "2025-10-09T19:33:37.986444Z",
-                "2025-10-09T19:35:36.764667Z",
-                "2025-10-09T19:37:38.346640Z",
-                "2025-10-09T19:39:36.994268Z",
-                "2025-10-09T19:41:52.661658Z",
-                "2025-10-09T19:43:56.918906Z",
-                "2025-10-09T19:45:36.837693Z",
-                "2025-10-09T20:37:53.004265Z",
-                "2025-10-09T20:39:49.986738Z",
-                "2025-10-09T20:42:01.917671Z",
-                "2025-10-09T20:43:59.268356Z",
-                "2025-10-09T20:45:31.758481Z",
-                "2025-10-09T20:47:36.969361Z",
-                "2025-10-09T20:49:39.789047Z",
-                "2025-10-09T22:37:52.062378Z",
-                "2025-10-09T22:39:45.263171Z",
-                "2025-10-09T22:41:39.623532Z",
-                "2025-10-09T22:43:55.576392Z",
-                "2025-10-09T22:45:55.526744Z",
-                "2025-10-09T22:47:59.025839Z",
-                "2025-10-09T22:49:47.278559Z"
-            ]
-        },
-        {
-            "id": "96cf7a07fc1559da5a0e33e90d330341",
-            "source": "breaking_defense",
-            "text": "Australian Space Command considers ‘space control’ options: Senior officer",
-            "source_link": "https://breakingdefense.com/2025/10/australian-space-command-considers-space-control-options-senior-officer/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-09T20:07:55.679062Z",
-            "shown_at": [
-                "2025-10-09T20:07:56.527859Z",
-                "2025-10-09T21:19:39.278904Z"
-            ]
-        },
-        {
-            "id": "7cca173d4bb4f5355b3260591f507ec6",
-            "source": "spacenews",
-            "text": "Momentus wins two NASA contracts to fly tech demo payloads",
-            "source_link": "https://spacenews.com/momentus-wins-two-nasa-contracts-to-fly-tech-demo-payloads/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-09T20:51:41.967816Z",
-            "shown_at": [
-                "2025-10-09T20:51:42.604096Z"
-            ]
-        },
-        {
-            "id": "7faa7af6cca42fd0a87600b323f26658",
-            "source": "spacenews",
-            "text": "Former U.S. defense officials urge Pentagon to scale up hypersonic weapons to match China, Russia",
-            "source_link": "https://spacenews.com/former-u-s-defense-officials-urge-pentagon-to-scale-up-hypersonic-weapons-to-match-china-russia/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-09T23:19:48.353643Z",
-            "shown_at": [
-                "2025-10-09T23:19:49.405544Z"
             ]
         }
     ]
