@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 10 | 25 | 50 |
 | breaking_defense | 1 | 2 | 23 | 46 |
-| supercluster | 1 | 1 | 66 | 66 |
+| supercluster | 1 | 1 | 67 | 67 |
 | nyt | 0 | 0 | 23 | 45 |
 
 # Shown Order
@@ -6525,3 +6525,4 @@
 - **Oct 10, 06:37 AM** - China Will Launch the Gravity-1 Rocket (supercluster)
 - **Oct 10, 06:39 AM** - China Will Launch the Gravity-1 Rocket (supercluster)
 - **Oct 10, 06:41 AM** - China Will Launch the Gravity-1 Rocket (supercluster)
+- **Oct 10, 06:43 AM** - China Will Launch the Gravity-1 Rocket (supercluster)
