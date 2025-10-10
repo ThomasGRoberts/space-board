@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 9 | 25 | 51 |
-| breaking_defense | 1 | 2 | 24 | 46 |
+| breaking_defense | 1 | 2 | 24 | 47 |
 | supercluster | 1 | 1 | 147 | 147 |
 | nyt | 0 | 0 | 24 | 47 |
 
@@ -6641,3 +6641,4 @@
 - **Oct 10, 05:51 PM** - China Will Launch the Gravity-1 Rocket (supercluster)
 - **Oct 10, 05:53 PM** - Sateliot hails first standards-based IoT connection from LEO to a commercial device (spacenews)
 - **Oct 10, 06:09 PM** - Sync Your Calendar With the Solar System (nyt)
+- **Oct 10, 06:23 PM** - Firefly to buy SciTec with eye on Golden Dome (breaking_defense)
