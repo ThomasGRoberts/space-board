@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 9 | 25 | 51 |
 | breaking_defense | 1 | 2 | 24 | 47 |
-| supercluster | 1 | 1 | 148 | 148 |
+| supercluster | 1 | 1 | 149 | 149 |
 | nyt | 0 | 0 | 24 | 47 |
 
 # Shown Order
@@ -6643,3 +6643,4 @@
 - **Oct 10, 06:09 PM** - Sync Your Calendar With the Solar System (nyt)
 - **Oct 10, 06:23 PM** - Firefly to buy SciTec with eye on Golden Dome (breaking_defense)
 - **Oct 10, 06:39 PM** - China Will Launch the Gravity-1 Rocket (supercluster)
+- **Oct 10, 06:41 PM** - China Will Launch the Gravity-1 Rocket (supercluster)
