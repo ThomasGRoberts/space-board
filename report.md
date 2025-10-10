@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 10 | 25 | 50 |
 | breaking_defense | 1 | 2 | 23 | 46 |
-| supercluster | 1 | 1 | 49 | 49 |
+| supercluster | 1 | 1 | 50 | 50 |
 | nyt | 0 | 0 | 23 | 45 |
 
 # Shown Order
@@ -6502,3 +6502,4 @@
 - **Oct 10, 03:55 AM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
 - **Oct 10, 04:12 AM** - SpaceX lands majority of U.S. national security launches awarded for fiscal year 2026 (spacenews)
 - **Oct 10, 04:25 AM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
+- **Oct 10, 04:39 AM** - China Will Launch the Gravity-1 Rocket (supercluster)
