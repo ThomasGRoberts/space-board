@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 10 | 25 | 50 |
-| breaking_defense | 1 | 2 | 23 | 45 |
+| breaking_defense | 1 | 2 | 24 | 46 |
 | supercluster | 1 | 1 | 56 | 56 |
 | nyt | 0 | 0 | 23 | 46 |
 
@@ -6511,3 +6511,4 @@
 - **Oct 10, 04:51 AM** - China Will Launch the Gravity-1 Rocket (supercluster)
 - **Oct 10, 04:53 AM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
 - **Oct 10, 05:10 AM** - Firefly to acquire defense contractor SciTec in $855 million deal (spacenews)
+- **Oct 10, 05:23 AM** - Firefly to buy SciTec with eye on Golden Dome (breaking_defense)
