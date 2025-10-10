@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 8 | 25 | 51 |
 | breaking_defense | 0 | 1 | 24 | 47 |
-| supercluster | 0 | 1 | 155 | 162 |
+| supercluster | 0 | 1 | 156 | 163 |
 | nyt | 0 | 0 | 24 | 47 |
 
 # Shown Order
@@ -6663,3 +6663,4 @@
 - **Oct 10, 08:05 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
 - **Oct 10, 08:19 PM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
 - **Oct 10, 08:33 PM** - China Will Launch the Gravity-1 Rocket (supercluster)
+- **Oct 10, 08:35 PM** - China Will Launch the Gravity-1 Rocket (supercluster)
