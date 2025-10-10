@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 10 | 24 | 49 |
+| spacenews | 3 | 10 | 25 | 50 |
 | breaking_defense | 1 | 2 | 23 | 44 |
 | supercluster | 1 | 2 | 160 | 234 |
 | nyt | 0 | 0 | 24 | 45 |
@@ -6676,3 +6676,4 @@
 - **Oct 10, 12:57 AM** - China Will Launch the Gravity-1 Rocket (supercluster)
 - **Oct 10, 12:59 AM** - China Will Launch the Gravity-1 Rocket (supercluster)
 - **Oct 10, 01:02 AM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
+- **Oct 10, 01:15 AM** - Blue Origin wins $78.2 million contract to expand satellite processing infrastructure at Cape Canaveral (spacenews)
