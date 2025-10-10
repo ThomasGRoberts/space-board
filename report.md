@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 10 | 25 | 49 |
 | breaking_defense | 1 | 2 | 23 | 45 |
-| supercluster | 1 | 1 | 28 | 28 |
+| supercluster | 1 | 1 | 29 | 29 |
 | nyt | 0 | 0 | 23 | 44 |
 
 # Shown Order
@@ -6472,3 +6472,4 @@
 - **Oct 10, 01:02 AM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
 - **Oct 10, 01:15 AM** - Blue Origin wins $78.2 million contract to expand satellite processing infrastructure at Cape Canaveral (spacenews)
 - **Oct 10, 01:29 AM** - Space Force taps Muon for 3 prototype weather satellites (breaking_defense)
+- **Oct 10, 01:43 AM** - China Will Launch the Gravity-1 Rocket (supercluster)
