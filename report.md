@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 10 | 25 | 50 |
-| breaking_defense | 1 | 2 | 23 | 45 |
+| breaking_defense | 1 | 2 | 24 | 46 |
 | supercluster | 1 | 1 | 63 | 63 |
 | nyt | 0 | 0 | 23 | 46 |
 
@@ -6521,3 +6521,4 @@
 - **Oct 10, 05:51 AM** - China Will Launch the Gravity-1 Rocket (supercluster)
 - **Oct 10, 05:53 AM** - Sync Your Calendar With the Solar System (nyt)
 - **Oct 10, 06:07 AM** - Senators spar over plans to move shuttle Discovery (spacenews)
+- **Oct 10, 06:21 AM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
