@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 9 | 25 | 51 |
 | breaking_defense | 1 | 2 | 24 | 47 |
-| supercluster | 1 | 1 | 142 | 142 |
-| nyt | 0 | 0 | 24 | 47 |
+| supercluster | 1 | 1 | 143 | 143 |
+| nyt | 0 | 0 | 24 | 46 |
 
 # Shown Order
 
@@ -6634,3 +6634,4 @@
 - **Oct 10, 05:21 PM** - Space Force taps Muon for 3 prototype weather satellites (breaking_defense)
 - **Oct 10, 05:39 PM** - China Will Launch the Gravity-1 Rocket (supercluster)
 - **Oct 10, 05:42 PM** - China Will Launch the Gravity-1 Rocket (supercluster)
+- **Oct 10, 05:43 PM** - China Will Launch the Gravity-1 Rocket (supercluster)
