@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 10 | 25 | 50 |
 | breaking_defense | 1 | 2 | 23 | 46 |
-| supercluster | 1 | 1 | 65 | 65 |
+| supercluster | 1 | 1 | 66 | 66 |
 | nyt | 0 | 0 | 23 | 45 |
 
 # Shown Order
@@ -6524,3 +6524,4 @@
 - **Oct 10, 06:21 AM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
 - **Oct 10, 06:37 AM** - China Will Launch the Gravity-1 Rocket (supercluster)
 - **Oct 10, 06:39 AM** - China Will Launch the Gravity-1 Rocket (supercluster)
+- **Oct 10, 06:41 AM** - China Will Launch the Gravity-1 Rocket (supercluster)
