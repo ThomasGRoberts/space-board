@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 9 | 25 | 50 |
+| spacenews | 4 | 9 | 26 | 51 |
 | breaking_defense | 1 | 2 | 23 | 46 |
 | supercluster | 1 | 1 | 119 | 119 |
 | nyt | 0 | 0 | 23 | 46 |
@@ -6599,3 +6599,4 @@
 - **Oct 10, 01:45 PM** - China Will Launch the Gravity-1 Rocket (supercluster)
 - **Oct 10, 01:47 PM** - China Will Launch the Gravity-1 Rocket (supercluster)
 - **Oct 10, 01:49 PM** - China Will Launch the Gravity-1 Rocket (supercluster)
+- **Oct 10, 01:52 PM** - Sateliot hails first standards-based IoT connection from LEO to a commercial device (spacenews)
