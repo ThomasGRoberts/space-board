@@ -5,7 +5,7 @@
 | spacenews | 4 | 9 | 26 | 51 |
 | breaking_defense | 1 | 2 | 24 | 47 |
 | supercluster | 1 | 1 | 133 | 133 |
-| nyt | 0 | 0 | 23 | 46 |
+| nyt | 0 | 0 | 24 | 47 |
 
 # Shown Order
 
@@ -6620,3 +6620,4 @@
 - **Oct 10, 03:45 PM** - China Will Launch the Gravity-1 Rocket (supercluster)
 - **Oct 10, 03:47 PM** - China Will Launch the Gravity-1 Rocket (supercluster)
 - **Oct 10, 03:49 PM** - Gilmour Space plans return to flight next year (spacenews)
+- **Oct 10, 04:06 PM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
