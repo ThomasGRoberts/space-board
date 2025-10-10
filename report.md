@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 9 | 24 | 49 |
+| spacenews | 3 | 9 | 25 | 50 |
 | breaking_defense | 1 | 2 | 23 | 46 |
 | supercluster | 1 | 1 | 98 | 98 |
 | nyt | 0 | 0 | 24 | 46 |
@@ -6570,3 +6570,4 @@
 - **Oct 10, 10:47 AM** - China Will Launch the Gravity-1 Rocket (supercluster)
 - **Oct 10, 10:49 AM** - China Will Launch the Gravity-1 Rocket (supercluster)
 - **Oct 10, 10:51 AM** - Sync Your Calendar With the Solar System (nyt)
+- **Oct 10, 11:07 AM** - Utilize the ISS as a resource: a common sense, fiscally responsible plan leveraging the International Space Station (spacenews)
