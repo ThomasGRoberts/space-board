@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 10 | 25 | 50 |
-| breaking_defense | 1 | 2 | 23 | 45 |
+| breaking_defense | 1 | 2 | 24 | 46 |
 | supercluster | 1 | 1 | 70 | 70 |
 | nyt | 0 | 0 | 23 | 46 |
 
@@ -6531,3 +6531,4 @@
 - **Oct 10, 06:49 AM** - China Will Launch the Gravity-1 Rocket (supercluster)
 - **Oct 10, 06:51 AM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
 - **Oct 10, 07:07 AM** - ESA inaugurates new deep space antenna in Australia (spacenews)
+- **Oct 10, 07:21 AM** - Space Force taps Muon for 3 prototype weather satellites (breaking_defense)
