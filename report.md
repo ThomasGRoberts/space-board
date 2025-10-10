@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 10 | 25 | 49 |
 | breaking_defense | 1 | 2 | 23 | 45 |
-| supercluster | 1 | 2 | 160 | 227 |
+| supercluster | 1 | 2 | 161 | 228 |
 | nyt | 0 | 0 | 23 | 44 |
 
 # Shown Order
@@ -6668,3 +6668,4 @@
 - **Oct 10, 12:02 AM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
 - **Oct 10, 12:17 AM** - SERVIR lives on through concerted global campaign (spacenews)
 - **Oct 10, 12:32 AM** - Space Force taps SpaceX, ULA for first set of critical launches beyond FY27 (breaking_defense)
+- **Oct 10, 12:47 AM** - China Will Launch the Gravity-1 Rocket (supercluster)
