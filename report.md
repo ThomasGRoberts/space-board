@@ -5,7 +5,7 @@
 | spacenews | 3 | 8 | 25 | 52 |
 | breaking_defense | 0 | 1 | 24 | 46 |
 | supercluster | 0 | 1 | 154 | 168 |
-| nyt | 0 | 0 | 24 | 46 |
+| nyt | 0 | 0 | 25 | 47 |
 
 # Shown Order
 
@@ -6670,3 +6670,4 @@
 - **Oct 10, 08:43 PM** - China Will Launch the Gravity-1 Rocket (supercluster)
 - **Oct 10, 08:45 PM** - China Will Launch the Gravity-1 Rocket (supercluster)
 - **Oct 10, 08:47 PM** - Blue Origin flies sixth crewed New Shepard flight of 2025 (spacenews)
+- **Oct 10, 09:02 PM** - Sync Your Calendar With the Solar System (nyt)
