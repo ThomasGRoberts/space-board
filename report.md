@@ -5,7 +5,7 @@
 | spacenews | 4 | 9 | 26 | 52 |
 | breaking_defense | 1 | 1 | 24 | 46 |
 | supercluster | 0 | 1 | 154 | 161 |
-| nyt | 0 | 0 | 23 | 46 |
+| nyt | 0 | 0 | 24 | 47 |
 
 # Shown Order
 
@@ -6660,3 +6660,4 @@
 - **Oct 10, 07:45 PM** - China Will Launch the Gravity-1 Rocket (supercluster)
 - **Oct 10, 07:47 PM** - China Will Launch the Gravity-1 Rocket (supercluster)
 - **Oct 10, 07:49 PM** - Planet announces new line of satellites for daily Earth imaging (spacenews)
+- **Oct 10, 08:05 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
