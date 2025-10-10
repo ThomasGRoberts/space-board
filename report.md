@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 9 | 25 | 50 |
 | breaking_defense | 1 | 2 | 23 | 46 |
-| supercluster | 1 | 1 | 112 | 112 |
+| supercluster | 1 | 1 | 113 | 113 |
 | nyt | 0 | 0 | 23 | 46 |
 
 # Shown Order
@@ -6592,3 +6592,4 @@
 - **Oct 10, 12:52 PM** - New Zealand charts continued growth of its space industry (spacenews)
 - **Oct 10, 01:08 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
 - **Oct 10, 01:23 PM** - Space Force taps SpaceX, ULA for first set of critical launches beyond FY27 (breaking_defense)
+- **Oct 10, 01:37 PM** - China Will Launch the Gravity-1 Rocket (supercluster)
