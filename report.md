@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 9 | 25 | 50 |
 | breaking_defense | 1 | 2 | 23 | 46 |
-| supercluster | 1 | 1 | 113 | 113 |
+| supercluster | 1 | 1 | 114 | 114 |
 | nyt | 0 | 0 | 23 | 46 |
 
 # Shown Order
@@ -6593,3 +6593,4 @@
 - **Oct 10, 01:08 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
 - **Oct 10, 01:23 PM** - Space Force taps SpaceX, ULA for first set of critical launches beyond FY27 (breaking_defense)
 - **Oct 10, 01:37 PM** - China Will Launch the Gravity-1 Rocket (supercluster)
+- **Oct 10, 01:39 PM** - China Will Launch the Gravity-1 Rocket (supercluster)
