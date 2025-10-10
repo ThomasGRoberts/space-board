@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 10 | 25 | 49 |
-| breaking_defense | 1 | 2 | 23 | 44 |
+| breaking_defense | 1 | 2 | 24 | 45 |
 | supercluster | 1 | 2 | 160 | 227 |
 | nyt | 0 | 0 | 23 | 45 |
 
@@ -6667,3 +6667,4 @@
 - **Oct 09, 11:59 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 10, 12:02 AM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
 - **Oct 10, 12:17 AM** - SERVIR lives on through concerted global campaign (spacenews)
+- **Oct 10, 12:32 AM** - Space Force taps SpaceX, ULA for first set of critical launches beyond FY27 (breaking_defense)
