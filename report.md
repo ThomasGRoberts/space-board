@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 9 | 25 | 50 |
+| spacenews | 4 | 10 | 25 | 51 |
 | breaking_defense | 1 | 2 | 23 | 46 |
 | supercluster | 1 | 1 | 112 | 112 |
 | nyt | 0 | 0 | 23 | 45 |
@@ -6589,3 +6589,4 @@
 - **Oct 10, 12:45 PM** - China Will Launch the Gravity-1 Rocket (supercluster)
 - **Oct 10, 12:47 PM** - China Will Launch the Gravity-1 Rocket (supercluster)
 - **Oct 10, 12:49 PM** - China Will Launch the Gravity-1 Rocket (supercluster)
+- **Oct 10, 12:52 PM** - New Zealand charts continued growth of its space industry (spacenews)

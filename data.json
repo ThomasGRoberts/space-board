@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-10T00:02:08.826452+00:00",
-    "trigger_count": 6,
-    "current_item_id": "204d10aaff62bb41356a725be6311f67",
+    "trigger_count": 0,
+    "current_item_id": "9e558fa1e70f1b78465c858829ba9a32",
     "data": [
         {
             "id": "7faa7af6cca42fd0a87600b323f26658",
@@ -12073,6 +12073,18 @@
                 "2025-07-07T04:47:33.419560Z",
                 "2025-07-07T05:43:35.154586Z",
                 "2025-07-07T14:43:54.503588Z"
+            ]
+        },
+        {
+            "id": "9e558fa1e70f1b78465c858829ba9a32",
+            "source": "spacenews",
+            "text": "New Zealand charts continued growth of its space industry",
+            "source_link": "https://spacenews.com/new-zealand-charts-continued-growth-of-its-space-industry/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-10T12:52:02.763362Z",
+            "shown_at": [
+                "2025-10-10T12:52:03.758610Z"
             ]
         }
     ]
