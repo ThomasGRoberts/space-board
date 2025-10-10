@@ -5,7 +5,7 @@
 | spacenews | 3 | 9 | 25 | 50 |
 | breaking_defense | 1 | 2 | 23 | 46 |
 | supercluster | 1 | 1 | 105 | 105 |
-| nyt | 0 | 0 | 23 | 45 |
+| nyt | 0 | 0 | 24 | 46 |
 
 # Shown Order
 
@@ -6579,3 +6579,4 @@
 - **Oct 10, 11:43 AM** - China Will Launch the Gravity-1 Rocket (supercluster)
 - **Oct 10, 11:45 AM** - China Will Launch the Gravity-1 Rocket (supercluster)
 - **Oct 10, 11:48 AM** - China Will Launch the Gravity-1 Rocket (supercluster)
+- **Oct 10, 11:51 AM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
