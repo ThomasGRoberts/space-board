@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 10 | 25 | 49 |
-| breaking_defense | 1 | 2 | 23 | 44 |
+| breaking_defense | 1 | 2 | 24 | 45 |
 | supercluster | 1 | 1 | 42 | 42 |
 | nyt | 0 | 0 | 23 | 45 |
 
@@ -6491,3 +6491,4 @@
 - **Oct 10, 02:53 AM** - China Will Launch the Gravity-1 Rocket (supercluster)
 - **Oct 10, 02:55 AM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
 - **Oct 10, 03:12 AM** - Momentus wins two NASA contracts to fly tech demo payloads (spacenews)
+- **Oct 10, 03:25 AM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
