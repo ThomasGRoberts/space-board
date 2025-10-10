@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 10 | 25 | 50 |
 | breaking_defense | 1 | 2 | 23 | 46 |
-| supercluster | 1 | 1 | 63 | 63 |
+| supercluster | 1 | 1 | 64 | 64 |
 | nyt | 0 | 0 | 23 | 45 |
 
 # Shown Order
@@ -6522,3 +6522,4 @@
 - **Oct 10, 05:53 AM** - Sync Your Calendar With the Solar System (nyt)
 - **Oct 10, 06:07 AM** - Senators spar over plans to move shuttle Discovery (spacenews)
 - **Oct 10, 06:21 AM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
+- **Oct 10, 06:37 AM** - China Will Launch the Gravity-1 Rocket (supercluster)
