@@ -5,7 +5,7 @@
 | spacenews | 3 | 10 | 25 | 49 |
 | breaking_defense | 1 | 2 | 23 | 44 |
 | supercluster | 1 | 1 | 42 | 42 |
-| nyt | 0 | 0 | 23 | 44 |
+| nyt | 0 | 0 | 24 | 45 |
 
 # Shown Order
 
@@ -6489,3 +6489,4 @@
 - **Oct 10, 02:49 AM** - China Will Launch the Gravity-1 Rocket (supercluster)
 - **Oct 10, 02:51 AM** - China Will Launch the Gravity-1 Rocket (supercluster)
 - **Oct 10, 02:53 AM** - China Will Launch the Gravity-1 Rocket (supercluster)
+- **Oct 10, 02:55 AM** - Two Comets Are Moving Into Your Night Skies in October: How to Watch (nyt)
