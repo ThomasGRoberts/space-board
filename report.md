@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 10 | 24 | 49 |
+| spacenews | 3 | 10 | 25 | 50 |
 | breaking_defense | 1 | 2 | 23 | 44 |
 | supercluster | 1 | 1 | 35 | 35 |
 | nyt | 0 | 0 | 24 | 45 |
@@ -6480,3 +6480,4 @@
 - **Oct 10, 01:53 AM** - China Will Launch the Gravity-1 Rocket (supercluster)
 - **Oct 10, 01:55 AM** - China Will Launch the Gravity-1 Rocket (supercluster)
 - **Oct 10, 01:57 AM** - Sync Your Calendar With the Solar System (nyt)
+- **Oct 10, 02:13 AM** - SpaceX lands majority of U.S. national security launches awarded for fiscal year 2026 (spacenews)
