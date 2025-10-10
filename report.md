@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 9 | 25 | 51 |
 | breaking_defense | 1 | 2 | 24 | 47 |
-| supercluster | 1 | 1 | 133 | 133 |
+| supercluster | 1 | 1 | 134 | 134 |
 | nyt | 0 | 0 | 24 | 47 |
 
 # Shown Order
@@ -6622,3 +6622,4 @@
 - **Oct 10, 03:49 PM** - Gilmour Space plans return to flight next year (spacenews)
 - **Oct 10, 04:06 PM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
 - **Oct 10, 04:19 PM** - Space Force taps SpaceX, ULA for first set of critical launches beyond FY27 (breaking_defense)
+- **Oct 10, 04:35 PM** - China Will Launch the Gravity-1 Rocket (supercluster)
