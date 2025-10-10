@@ -5,7 +5,7 @@
 | spacenews | 4 | 9 | 25 | 51 |
 | breaking_defense | 1 | 2 | 24 | 47 |
 | supercluster | 1 | 1 | 154 | 154 |
-| nyt | 0 | 0 | 23 | 46 |
+| nyt | 0 | 0 | 24 | 47 |
 
 # Shown Order
 
@@ -6650,3 +6650,4 @@
 - **Oct 10, 06:49 PM** - China Will Launch the Gravity-1 Rocket (supercluster)
 - **Oct 10, 06:51 PM** - China Will Launch the Gravity-1 Rocket (supercluster)
 - **Oct 10, 06:53 PM** - Planet announces new line of satellites for daily Earth imaging (spacenews)
+- **Oct 10, 07:07 PM** - Sync Your Calendar With the Solar System (nyt)
