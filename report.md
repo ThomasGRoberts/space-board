@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 9 | 25 | 50 |
 | breaking_defense | 1 | 2 | 23 | 46 |
-| supercluster | 1 | 1 | 105 | 105 |
+| supercluster | 1 | 1 | 106 | 106 |
 | nyt | 0 | 0 | 23 | 46 |
 
 # Shown Order
@@ -6582,3 +6582,4 @@
 - **Oct 10, 11:51 AM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
 - **Oct 10, 12:05 PM** - Blue Origin wins $78.2 million contract to expand satellite processing infrastructure at Cape Canaveral (spacenews)
 - **Oct 10, 12:19 PM** - Space Force taps SpaceX, ULA for first set of critical launches beyond FY27 (breaking_defense)
+- **Oct 10, 12:35 PM** - China Will Launch the Gravity-1 Rocket (supercluster)
