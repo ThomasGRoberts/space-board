@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-10T00:02:08.826452+00:00",
-    "trigger_count": 6,
-    "current_item_id": "204d10aaff62bb41356a725be6311f67",
+    "trigger_count": 0,
+    "current_item_id": "1a072af33152ccf74692ef830e71d188",
     "data": [
         {
             "id": "7faa7af6cca42fd0a87600b323f26658",
@@ -12144,6 +12144,18 @@
             "fetched_datetime": "2025-10-10T12:52:02.763362Z",
             "shown_at": [
                 "2025-10-10T12:52:03.758610Z"
+            ]
+        },
+        {
+            "id": "1a072af33152ccf74692ef830e71d188",
+            "source": "spacenews",
+            "text": "Planet announces new line of satellites for daily Earth imaging",
+            "source_link": "https://spacenews.com/planet-announces-new-line-of-satellites-for-daily-earth-imaging/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-10T18:53:38.674953Z",
+            "shown_at": [
+                "2025-10-10T18:53:39.791579Z"
             ]
         }
     ]
