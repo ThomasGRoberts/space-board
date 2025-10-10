@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 10 | 25 | 50 |
 | breaking_defense | 1 | 2 | 23 | 46 |
-| supercluster | 1 | 1 | 91 | 91 |
+| supercluster | 1 | 1 | 92 | 92 |
 | nyt | 0 | 0 | 23 | 45 |
 
 # Shown Order
@@ -6562,3 +6562,4 @@
 - **Oct 10, 09:51 AM** - Sync Your Calendar With the Solar System (nyt)
 - **Oct 10, 10:05 AM** - Gilmour Space plans return to flight next year (spacenews)
 - **Oct 10, 10:22 AM** - Space Force taps SpaceX, ULA for first set of critical launches beyond FY27 (breaking_defense)
+- **Oct 10, 10:37 AM** - China Will Launch the Gravity-1 Rocket (supercluster)
