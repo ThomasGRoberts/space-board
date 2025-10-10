@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 10 | 24 | 50 |
+| spacenews | 3 | 10 | 25 | 51 |
 | breaking_defense | 1 | 2 | 23 | 45 |
 | supercluster | 1 | 1 | 84 | 84 |
 | nyt | 0 | 0 | 24 | 46 |
@@ -6550,3 +6550,4 @@
 - **Oct 10, 08:47 AM** - China Will Launch the Gravity-1 Rocket (supercluster)
 - **Oct 10, 08:49 AM** - China Will Launch the Gravity-1 Rocket (supercluster)
 - **Oct 10, 08:51 AM** - Sync Your Calendar With the Solar System (nyt)
+- **Oct 10, 09:07 AM** - Senators spar over plans to move shuttle Discovery (spacenews)
