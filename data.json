@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-11T00:02:01.233646+00:00",
-    "trigger_count": 6,
-    "current_item_id": "de20e96a02cf96a520905a7d22a0bc51",
+    "trigger_count": 0,
+    "current_item_id": "b6e7f08b6410c82c3afa9744f8786f3e",
     "data": [
         {
             "id": "1a072af33152ccf74692ef830e71d188",
@@ -12217,6 +12217,18 @@
             "shown_at": [
                 "2025-10-11T14:41:23.664522Z",
                 "2025-10-11T18:39:27.240821Z"
+            ]
+        },
+        {
+            "id": "b6e7f08b6410c82c3afa9744f8786f3e",
+            "source": "spacenews",
+            "text": "French space defense startup Dark ceases operations",
+            "source_link": "https://spacenews.com/french-space-defense-startup-dark-ceases-operations/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-11T21:27:51.286281Z",
+            "shown_at": [
+                "2025-10-11T21:27:51.916119Z"
             ]
         }
     ]
