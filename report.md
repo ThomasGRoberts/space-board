@@ -5,7 +5,7 @@
 | spacenews | 2 | 5 | 24 | 49 |
 | breaking_defense | 0 | 1 | 23 | 46 |
 | nyt | 0 | 0 | 23 | 47 |
-| supercluster | 1 | 1 | 24 | 24 |
+| supercluster | 1 | 1 | 25 | 25 |
 
 # Shown Order
 
@@ -6543,3 +6543,4 @@
 - **Oct 11, 06:17 AM** - Firefly to buy SciTec with eye on Golden Dome (breaking_defense)
 - **Oct 11, 06:31 AM** - Planet announces new line of satellites for daily Earth imaging (spacenews)
 - **Oct 11, 06:46 AM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
+- **Oct 11, 07:01 AM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
