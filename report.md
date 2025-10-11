@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 24 | 49 |
 | breaking_defense | 0 | 1 | 23 | 46 |
-| nyt | 0 | 0 | 23 | 46 |
+| nyt | 0 | 0 | 24 | 47 |
 | supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
@@ -6512,3 +6512,4 @@
 - **Oct 11, 03:19 AM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
 - **Oct 11, 03:22 AM** - Space Force taps Muon for 3 prototype weather satellites (breaking_defense)
 - **Oct 11, 03:37 AM** - Senators spar over plans to move shuttle Discovery (spacenews)
+- **Oct 11, 03:52 AM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
