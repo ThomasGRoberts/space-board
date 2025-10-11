@@ -5,7 +5,7 @@
 | spacenews | 2 | 5 | 24 | 49 |
 | breaking_defense | 0 | 1 | 23 | 46 |
 | nyt | 0 | 0 | 23 | 47 |
-| supercluster | 1 | 1 | 39 | 39 |
+| supercluster | 1 | 1 | 40 | 40 |
 
 # Shown Order
 
@@ -6564,3 +6564,4 @@
 - **Oct 11, 08:27 AM** - Space infrastructure investments surge to five-quarter high (spacenews)
 - **Oct 11, 08:41 AM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
 - **Oct 11, 08:55 AM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
+- **Oct 11, 08:57 AM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
