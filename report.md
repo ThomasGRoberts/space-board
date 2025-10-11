@@ -5,7 +5,7 @@
 | spacenews | 1 | 4 | 23 | 48 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | nyt | 0 | 0 | 24 | 48 |
-| supercluster | 2 | 2 | 130 | 130 |
+| supercluster | 2 | 2 | 131 | 131 |
 
 # Shown Order
 
@@ -6691,3 +6691,4 @@
 - **Oct 11, 08:31 PM** - Stoke Space raises $510 million (spacenews)
 - **Oct 11, 08:45 PM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
 - **Oct 11, 08:59 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Oct 11, 09:02 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
