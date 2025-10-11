@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 24 | 49 |
 | breaking_defense | 0 | 1 | 24 | 48 |
-| supercluster | 0 | 1 | 168 | 196 |
+| supercluster | 0 | 1 | 169 | 197 |
 | nyt | 0 | 0 | 24 | 47 |
 
 # Shown Order
@@ -6701,3 +6701,4 @@
 - **Oct 11, 12:49 AM** - Space infrastructure investments surge to five-quarter high (spacenews)
 - **Oct 11, 01:06 AM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
 - **Oct 11, 01:23 AM** - Defense to ‘anchor’ exploding satellite market over next decade: NovaSpace (breaking_defense)
+- **Oct 11, 01:37 AM** - China Will Launch the Gravity-1 Rocket (supercluster)
