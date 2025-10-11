@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 24 | 49 |
 | breaking_defense | 0 | 1 | 23 | 46 |
-| nyt | 0 | 0 | 23 | 46 |
+| nyt | 0 | 0 | 24 | 47 |
 | supercluster | 1 | 1 | 38 | 38 |
 
 # Shown Order
@@ -6562,3 +6562,4 @@
 - **Oct 11, 08:11 AM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
 - **Oct 11, 08:14 AM** - Defense to ‘anchor’ exploding satellite market over next decade: NovaSpace (breaking_defense)
 - **Oct 11, 08:27 AM** - Space infrastructure investments surge to five-quarter high (spacenews)
+- **Oct 11, 08:41 AM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
