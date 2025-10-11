@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 5 | 23 | 48 |
+| spacenews | 2 | 5 | 24 | 49 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | nyt | 0 | 0 | 23 | 47 |
 | supercluster | 2 | 2 | 143 | 143 |
@@ -6708,3 +6708,4 @@
 - **Oct 11, 10:10 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 11, 10:13 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 11, 10:16 PM** - Firefly to buy SciTec with eye on Golden Dome (breaking_defense)
+- **Oct 11, 10:31 PM** - Blue Origin wins $78.2 million contract to expand satellite processing infrastructure at Cape Canaveral (spacenews)
