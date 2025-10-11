@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-11T00:02:01.233646+00:00",
-    "trigger_count": 6,
-    "current_item_id": "96cf7a07fc1559da5a0e33e90d330341",
+    "trigger_count": 0,
+    "current_item_id": "11768acac4273c7a6e722e1254304a6b",
     "data": [
         {
             "id": "1a072af33152ccf74692ef830e71d188",
@@ -12136,6 +12136,18 @@
                 "2025-10-11T13:21:54.434240Z",
                 "2025-10-11T13:23:38.811528Z",
                 "2025-10-11T13:26:13.358174Z"
+            ]
+        },
+        {
+            "id": "11768acac4273c7a6e722e1254304a6b",
+            "source": "spacenews",
+            "text": "Huge commercial Chinese solid rocket launches 3 satellites from barge in the Yellow Sea",
+            "source_link": "https://spacenews.com/huge-commercial-chinese-solid-rocket-launches-3-satellites-from-barge-in-the-yellow-sea/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-11T14:41:23.042531Z",
+            "shown_at": [
+                "2025-10-11T14:41:23.664522Z"
             ]
         }
     ]
