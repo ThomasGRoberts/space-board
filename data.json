@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-11T00:02:01.233646+00:00",
-    "trigger_count": 3,
-    "current_item_id": "204d10aaff62bb41356a725be6311f67",
+    "trigger_count": 4,
+    "current_item_id": "bc71db3e0c875dd532b0b21876ed614d",
     "data": [
         {
             "id": "1a072af33152ccf74692ef830e71d188",
@@ -11992,17 +11992,17 @@
             ]
         },
         {
-            "id": "204d10aaff62bb41356a725be6311f67",
+            "id": "bc71db3e0c875dd532b0b21876ed614d",
             "source": "supercluster",
-            "text": "China Will Launch the Gravity-1 Rocket",
-            "source_link": "https://www.supercluster.com/launches/gravity-1",
+            "text": "SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy",
+            "source_link": "https://www.supercluster.com/launches/starship-super-heavy-flight-test-11",
             "shown": true,
             "type": "launch",
-            "target_datetime": "2025-10-11T02:15:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-10-11T03:13:58.373367Z",
+            "target_datetime": "2025-10-13T23:15:00.000Z",
+            "time_remaining": "2d 19h 59m",
+            "fetched_datetime": "2025-10-11T03:15:41.125263Z",
             "shown_at": [
-                "2025-10-11T03:13:59.499766Z"
+                "2025-10-11T03:15:41.815071Z"
             ]
         }
     ]

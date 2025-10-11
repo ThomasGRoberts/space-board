@@ -6507,4 +6507,4 @@
 - **Oct 11, 01:23 AM** - Defense to ‘anchor’ exploding satellite market over next decade: NovaSpace (breaking_defense)
 - **Oct 11, 01:51 AM** - Novaspace Projects $665B in Satellite Build and Launch Activity (spacenews)
 - **Oct 11, 02:07 AM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
-- **Oct 11, 03:13 AM** - China Will Launch the Gravity-1 Rocket (supercluster)
+- **Oct 11, 03:15 AM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
