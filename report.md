@@ -5,7 +5,7 @@
 | spacenews | 2 | 5 | 25 | 50 |
 | breaking_defense | 0 | 1 | 24 | 47 |
 | supercluster | 0 | 1 | 168 | 189 |
-| nyt | 0 | 0 | 24 | 47 |
+| nyt | 0 | 0 | 24 | 48 |
 
 # Shown Order
 
@@ -6689,3 +6689,4 @@
 - **Oct 10, 11:45 PM** - China Will Launch the Gravity-1 Rocket (supercluster)
 - **Oct 10, 11:47 PM** - China Will Launch the Gravity-1 Rocket (supercluster)
 - **Oct 10, 11:49 PM** - Space Force sets up ‘working capital fund’ for commercial space services (spacenews)
+- **Oct 11, 12:03 AM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
