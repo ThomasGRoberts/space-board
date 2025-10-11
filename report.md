@@ -5,7 +5,7 @@
 | spacenews | 2 | 6 | 23 | 49 |
 | breaking_defense | 0 | 1 | 23 | 46 |
 | nyt | 0 | 0 | 23 | 47 |
-| supercluster | 2 | 2 | 87 | 87 |
+| supercluster | 2 | 2 | 88 | 88 |
 
 # Shown Order
 
@@ -6630,3 +6630,4 @@
 - **Oct 11, 02:27 PM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
 - **Oct 11, 02:41 PM** - Huge commercial Chinese solid rocket launches 3 satellites from barge in the Yellow Sea (spacenews)
 - **Oct 11, 02:55 PM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
+- **Oct 11, 03:13 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
