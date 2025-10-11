@@ -6667,3 +6667,4 @@
 - **Oct 11, 06:17 PM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
 - **Oct 11, 06:19 PM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
 - **Oct 11, 06:21 PM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
+- **Oct 11, 06:23 PM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
