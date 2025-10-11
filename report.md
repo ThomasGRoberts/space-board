@@ -5,7 +5,7 @@
 | spacenews | 2 | 5 | 25 | 50 |
 | breaking_defense | 0 | 1 | 24 | 47 |
 | supercluster | 0 | 1 | 168 | 203 |
-| nyt | 0 | 0 | 23 | 47 |
+| nyt | 0 | 0 | 24 | 48 |
 
 # Shown Order
 
@@ -6709,3 +6709,4 @@
 - **Oct 11, 01:48 AM** - China Will Launch the Gravity-1 Rocket (supercluster)
 - **Oct 11, 01:49 AM** - China Will Launch the Gravity-1 Rocket (supercluster)
 - **Oct 11, 01:51 AM** - Novaspace Projects $665B in Satellite Build and Launch Activity (spacenews)
+- **Oct 11, 02:07 AM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
