@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 24 | 49 |
 | breaking_defense | 0 | 1 | 24 | 48 |
-| supercluster | 0 | 1 | 168 | 189 |
+| supercluster | 0 | 1 | 169 | 190 |
 | nyt | 0 | 0 | 24 | 47 |
 
 # Shown Order
@@ -6691,3 +6691,4 @@
 - **Oct 10, 11:49 PM** - Space Force sets up ‘working capital fund’ for commercial space services (spacenews)
 - **Oct 11, 12:03 AM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
 - **Oct 11, 12:17 AM** - Space Force taps Muon for 3 prototype weather satellites (breaking_defense)
+- **Oct 11, 12:35 AM** - China Will Launch the Gravity-1 Rocket (supercluster)
