@@ -5,7 +5,7 @@
 | spacenews | 2 | 5 | 24 | 48 |
 | breaking_defense | 0 | 1 | 23 | 46 |
 | nyt | 0 | 0 | 23 | 47 |
-| supercluster | 1 | 1 | 4 | 4 |
+| supercluster | 1 | 1 | 5 | 5 |
 
 # Shown Order
 
@@ -6514,3 +6514,4 @@
 - **Oct 11, 03:37 AM** - Senators spar over plans to move shuttle Discovery (spacenews)
 - **Oct 11, 03:52 AM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
 - **Oct 11, 04:07 AM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
+- **Oct 11, 04:09 AM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
