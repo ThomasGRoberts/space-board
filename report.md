@@ -5,7 +5,7 @@
 | spacenews | 2 | 5 | 23 | 48 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | nyt | 0 | 0 | 24 | 48 |
-| supercluster | 2 | 2 | 143 | 143 |
+| supercluster | 2 | 2 | 144 | 144 |
 
 # Shown Order
 
@@ -6710,3 +6710,4 @@
 - **Oct 11, 10:16 PM** - Firefly to buy SciTec with eye on Golden Dome (breaking_defense)
 - **Oct 11, 10:31 PM** - Blue Origin wins $78.2 million contract to expand satellite processing infrastructure at Cape Canaveral (spacenews)
 - **Oct 11, 10:45 PM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
+- **Oct 11, 11:02 PM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
