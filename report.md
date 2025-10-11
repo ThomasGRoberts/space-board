@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 24 | 49 |
 | breaking_defense | 0 | 1 | 23 | 46 |
-| nyt | 0 | 0 | 23 | 46 |
+| nyt | 0 | 0 | 24 | 47 |
 | supercluster | 1 | 1 | 45 | 45 |
 
 # Shown Order
@@ -6572,3 +6572,4 @@
 - **Oct 11, 09:09 AM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
 - **Oct 11, 09:12 AM** - Space Force taps Muon for 3 prototype weather satellites (breaking_defense)
 - **Oct 11, 09:26 AM** - Planet announces new line of satellites for daily Earth imaging (spacenews)
+- **Oct 11, 09:41 AM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
