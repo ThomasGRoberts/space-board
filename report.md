@@ -5,7 +5,7 @@
 | spacenews | 2 | 5 | 24 | 49 |
 | breaking_defense | 0 | 1 | 23 | 46 |
 | nyt | 0 | 0 | 23 | 47 |
-| supercluster | 1 | 1 | 17 | 17 |
+| supercluster | 1 | 1 | 18 | 18 |
 
 # Shown Order
 
@@ -6533,3 +6533,4 @@
 - **Oct 11, 05:19 AM** - Defense to ‘anchor’ exploding satellite market over next decade: NovaSpace (breaking_defense)
 - **Oct 11, 05:33 AM** - ESA inaugurates new deep space antenna in Australia (spacenews)
 - **Oct 11, 05:48 AM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
+- **Oct 11, 06:02 AM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
