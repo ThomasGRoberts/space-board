@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 24 | 49 |
 | breaking_defense | 0 | 1 | 23 | 46 |
-| nyt | 0 | 0 | 23 | 46 |
+| nyt | 0 | 0 | 24 | 47 |
 | supercluster | 1 | 1 | 52 | 52 |
 
 # Shown Order
@@ -6582,3 +6582,4 @@
 - **Oct 11, 10:09 AM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
 - **Oct 11, 10:11 AM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
 - **Oct 11, 10:25 AM** - Utilize the ISS as a resource: a common sense, fiscally responsible plan leveraging the International Space Station (spacenews)
+- **Oct 11, 10:39 AM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
