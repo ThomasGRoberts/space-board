@@ -5,7 +5,7 @@
 | spacenews | 2 | 5 | 23 | 48 |
 | breaking_defense | 0 | 1 | 23 | 47 |
 | nyt | 0 | 0 | 23 | 47 |
-| supercluster | 2 | 2 | 109 | 109 |
+| supercluster | 2 | 2 | 110 | 110 |
 
 # Shown Order
 
@@ -6661,3 +6661,4 @@
 - **Oct 11, 05:39 PM** - Blue Origin wins $78.2 million contract to expand satellite processing infrastructure at Cape Canaveral (spacenews)
 - **Oct 11, 05:53 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
 - **Oct 11, 06:09 PM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
+- **Oct 11, 06:11 PM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
