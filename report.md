@@ -5,6 +5,7 @@
 | spacenews | 2 | 5 | 24 | 49 |
 | breaking_defense | 0 | 1 | 24 | 47 |
 | nyt | 0 | 0 | 24 | 48 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -6506,3 +6507,4 @@
 - **Oct 11, 01:23 AM** - Defense to ‘anchor’ exploding satellite market over next decade: NovaSpace (breaking_defense)
 - **Oct 11, 01:51 AM** - Novaspace Projects $665B in Satellite Build and Launch Activity (spacenews)
 - **Oct 11, 02:07 AM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
+- **Oct 11, 02:21 AM** - China Will Launch the Gravity-1 Rocket (supercluster)

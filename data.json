@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-11T00:02:01.233646+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b8e5d1326cbd096d33a41031aad6b948",
+    "trigger_count": 0,
+    "current_item_id": "204d10aaff62bb41356a725be6311f67",
     "data": [
         {
             "id": "1a072af33152ccf74692ef830e71d188",
@@ -11989,6 +11989,20 @@
                 "2025-07-05T17:15:26.229740Z",
                 "2025-07-07T00:57:51.398201Z",
                 "2025-07-07T06:39:09.665692Z"
+            ]
+        },
+        {
+            "id": "204d10aaff62bb41356a725be6311f67",
+            "source": "supercluster",
+            "text": "China Will Launch the Gravity-1 Rocket",
+            "source_link": "https://www.supercluster.com/launches/gravity-1",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-10-11T02:15:00.000Z",
+            "time_remaining": "",
+            "fetched_datetime": "2025-10-11T02:21:40.471843Z",
+            "shown_at": [
+                "2025-10-11T02:21:41.077564Z"
             ]
         }
     ]
