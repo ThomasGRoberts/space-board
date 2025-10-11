@@ -6657,3 +6657,4 @@
 - **Oct 11, 05:17 PM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
 - **Oct 11, 05:19 PM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
 - **Oct 11, 05:21 PM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
+- **Oct 11, 05:23 PM** - Space Force taps Muon for 3 prototype weather satellites (breaking_defense)
