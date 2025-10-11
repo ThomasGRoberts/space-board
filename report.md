@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 6 | 23 | 49 |
+| spacenews | 2 | 5 | 23 | 48 |
 | breaking_defense | 0 | 1 | 23 | 47 |
 | nyt | 0 | 0 | 23 | 47 |
-| supercluster | 2 | 2 | 94 | 94 |
+| supercluster | 2 | 2 | 95 | 95 |
 
 # Shown Order
 
@@ -6640,3 +6640,4 @@
 - **Oct 11, 03:27 PM** - Defense to ‘anchor’ exploding satellite market over next decade: NovaSpace (breaking_defense)
 - **Oct 11, 03:41 PM** - FCC launches ‘Space Month’ to fast-track satellite licensing and spectrum reforms (spacenews)
 - **Oct 11, 03:55 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
+- **Oct 11, 04:11 PM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
