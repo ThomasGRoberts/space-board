@@ -5,7 +5,7 @@
 | spacenews | 1 | 5 | 23 | 48 |
 | breaking_defense | 0 | 1 | 23 | 46 |
 | nyt | 0 | 0 | 23 | 47 |
-| supercluster | 2 | 2 | 80 | 80 |
+| supercluster | 2 | 2 | 81 | 81 |
 
 # Shown Order
 
@@ -6620,3 +6620,4 @@
 - **Oct 11, 01:29 PM** - Firefly to buy SciTec with eye on Golden Dome (breaking_defense)
 - **Oct 11, 01:45 PM** - Momentus wins two NASA contracts to fly tech demo payloads (spacenews)
 - **Oct 11, 01:59 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
+- **Oct 11, 02:13 PM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
