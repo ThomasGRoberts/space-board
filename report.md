@@ -5,7 +5,7 @@
 | spacenews | 2 | 5 | 23 | 48 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | nyt | 0 | 0 | 24 | 48 |
-| supercluster | 2 | 2 | 136 | 136 |
+| supercluster | 2 | 2 | 137 | 137 |
 
 # Shown Order
 
@@ -6700,3 +6700,4 @@
 - **Oct 11, 09:14 PM** - Space Force taps Muon for 3 prototype weather satellites (breaking_defense)
 - **Oct 11, 09:27 PM** - French space defense startup Dark ceases operations (spacenews)
 - **Oct 11, 09:42 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
+- **Oct 11, 09:58 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
