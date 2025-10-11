@@ -5,7 +5,7 @@
 | spacenews | 1 | 5 | 23 | 48 |
 | breaking_defense | 0 | 1 | 23 | 47 |
 | nyt | 0 | 0 | 23 | 47 |
-| supercluster | 2 | 2 | 116 | 116 |
+| supercluster | 2 | 2 | 117 | 117 |
 
 # Shown Order
 
@@ -6671,3 +6671,4 @@
 - **Oct 11, 06:39 PM** - Huge commercial Chinese solid rocket launches 3 satellites from barge in the Yellow Sea (spacenews)
 - **Oct 11, 06:53 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
 - **Oct 11, 07:07 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Oct 11, 07:09 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
