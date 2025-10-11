@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 5 | 24 | 49 |
+| spacenews | 2 | 5 | 25 | 50 |
 | breaking_defense | 0 | 1 | 24 | 47 |
-| supercluster | 0 | 1 | 171 | 203 |
+| supercluster | 0 | 1 | 170 | 203 |
 | nyt | 0 | 0 | 24 | 47 |
 
 # Shown Order
@@ -6708,3 +6708,4 @@
 - **Oct 11, 01:45 AM** - China Will Launch the Gravity-1 Rocket (supercluster)
 - **Oct 11, 01:48 AM** - China Will Launch the Gravity-1 Rocket (supercluster)
 - **Oct 11, 01:49 AM** - China Will Launch the Gravity-1 Rocket (supercluster)
+- **Oct 11, 01:51 AM** - Novaspace Projects $665B in Satellite Build and Launch Activity (spacenews)
