@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 5 | 24 | 49 |
+| spacenews | 1 | 5 | 23 | 49 |
 | breaking_defense | 0 | 1 | 23 | 47 |
-| nyt | 0 | 0 | 23 | 47 |
+| nyt | 0 | 0 | 24 | 47 |
 | supercluster | 2 | 2 | 122 | 122 |
 
 # Shown Order
@@ -6679,3 +6679,4 @@
 - **Oct 11, 07:19 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 11, 07:21 PM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
 - **Oct 11, 07:35 PM** - Cubic targets military satcom market with ‘Vector’ terminals (spacenews)
+- **Oct 11, 07:49 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
