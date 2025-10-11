@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 6 | 23 | 49 |
 | breaking_defense | 0 | 1 | 23 | 47 |
-| nyt | 0 | 0 | 23 | 46 |
+| nyt | 0 | 0 | 24 | 47 |
 | supercluster | 2 | 2 | 94 | 94 |
 
 # Shown Order
@@ -6639,3 +6639,4 @@
 - **Oct 11, 03:25 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 11, 03:27 PM** - Defense to ‘anchor’ exploding satellite market over next decade: NovaSpace (breaking_defense)
 - **Oct 11, 03:41 PM** - FCC launches ‘Space Month’ to fast-track satellite licensing and spectrum reforms (spacenews)
+- **Oct 11, 03:55 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
