@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 23 | 48 |
-| breaking_defense | 0 | 1 | 23 | 46 |
+| breaking_defense | 0 | 1 | 24 | 47 |
 | nyt | 0 | 0 | 23 | 47 |
 | supercluster | 1 | 1 | 45 | 45 |
 
@@ -6570,3 +6570,4 @@
 - **Oct 11, 09:05 AM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
 - **Oct 11, 09:07 AM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
 - **Oct 11, 09:09 AM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
+- **Oct 11, 09:12 AM** - Space Force taps Muon for 3 prototype weather satellites (breaking_defense)
