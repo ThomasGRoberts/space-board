@@ -1,9 +1,34 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-10-10T00:02:08.826452+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2025-10-11T00:02:01.233646+00:00",
+    "trigger_count": 6,
     "current_item_id": "33520b12ca3f63d78fbde44f97788977",
     "data": [
+        {
+            "id": "1a072af33152ccf74692ef830e71d188",
+            "source": "spacenews",
+            "text": "Planet announces new line of satellites for daily Earth imaging",
+            "source_link": "https://spacenews.com/planet-announces-new-line-of-satellites-for-daily-earth-imaging/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-10T18:53:38.674953Z",
+            "shown_at": [
+                "2025-10-10T18:53:39.791579Z",
+                "2025-10-10T19:49:40.613601Z"
+            ]
+        },
+        {
+            "id": "9e558fa1e70f1b78465c858829ba9a32",
+            "source": "spacenews",
+            "text": "New Zealand charts continued growth of its space industry",
+            "source_link": "https://spacenews.com/new-zealand-charts-continued-growth-of-its-space-industry/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-10T12:52:02.763362Z",
+            "shown_at": [
+                "2025-10-10T12:52:03.758610Z"
+            ]
+        },
         {
             "id": "7faa7af6cca42fd0a87600b323f26658",
             "source": "spacenews",
@@ -12159,53 +12184,6 @@
                 "2025-07-05T17:15:26.229740Z",
                 "2025-07-07T00:57:51.398201Z",
                 "2025-07-07T06:39:09.665692Z"
-            ]
-        },
-        {
-            "id": "252d032cb1da2fbeac8fd23a3f0649c0",
-            "source": "spacenews",
-            "text": "NOAA budget proposal seeks to cancel TraCSS",
-            "source_link": "https://spacenews.com/noaa-budget-proposal-seeks-to-cancel-tracss/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-06-30T19:59:38.629519Z",
-            "shown_at": [
-                "2025-06-30T19:59:39.626855Z",
-                "2025-06-30T21:11:38.934629Z",
-                "2025-07-01T13:15:32.783581Z",
-                "2025-07-02T04:07:26.147671Z",
-                "2025-07-03T04:33:29.278893Z",
-                "2025-07-03T05:31:56.526289Z",
-                "2025-07-03T10:57:28.653684Z",
-                "2025-07-07T03:49:15.189383Z",
-                "2025-07-07T04:47:33.419560Z",
-                "2025-07-07T05:43:35.154586Z",
-                "2025-07-07T14:43:54.503588Z"
-            ]
-        },
-        {
-            "id": "9e558fa1e70f1b78465c858829ba9a32",
-            "source": "spacenews",
-            "text": "New Zealand charts continued growth of its space industry",
-            "source_link": "https://spacenews.com/new-zealand-charts-continued-growth-of-its-space-industry/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-10T12:52:02.763362Z",
-            "shown_at": [
-                "2025-10-10T12:52:03.758610Z"
-            ]
-        },
-        {
-            "id": "1a072af33152ccf74692ef830e71d188",
-            "source": "spacenews",
-            "text": "Planet announces new line of satellites for daily Earth imaging",
-            "source_link": "https://spacenews.com/planet-announces-new-line-of-satellites-for-daily-earth-imaging/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-10T18:53:38.674953Z",
-            "shown_at": [
-                "2025-10-10T18:53:39.791579Z",
-                "2025-10-10T19:49:40.613601Z"
             ]
         }
     ]
