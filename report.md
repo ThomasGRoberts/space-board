@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 23 | 48 |
+| spacenews | 2 | 4 | 23 | 47 |
 | supercluster | 2 | 2 | 164 | 164 |
-| breaking_defense | 0 | 0 | 23 | 47 |
+| breaking_defense | 0 | 0 | 24 | 48 |
 | nyt | 0 | 0 | 23 | 47 |
 
 # Shown Order
@@ -6722,3 +6722,4 @@
 - **Oct 12, 01:11 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 12, 01:13 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 12, 01:15 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Oct 12, 01:17 AM** - Firefly to buy SciTec with eye on Golden Dome (breaking_defense)
