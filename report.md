@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 2 | 24 | 47 |
-| supercluster | 0 | 2 | 172 | 318 |
+| spacenews | 0 | 2 | 25 | 48 |
+| supercluster | 0 | 2 | 170 | 318 |
 | breaking_defense | 0 | 0 | 25 | 48 |
 | nyt | 0 | 0 | 24 | 47 |
 
@@ -6943,3 +6943,4 @@
 - **Oct 12, 10:51 PM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
 - **Oct 12, 10:53 PM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
 - **Oct 12, 10:55 PM** - Firefly to buy SciTec with eye on Golden Dome (breaking_defense)
+- **Oct 12, 11:11 PM** - Space Force sets up ‘working capital fund’ for commercial space services (spacenews)
