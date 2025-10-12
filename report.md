@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 24 | 48 |
-| supercluster | 0 | 2 | 168 | 290 |
+| spacenews | 1 | 2 | 24 | 47 |
+| supercluster | 0 | 2 | 169 | 291 |
 | breaking_defense | 0 | 0 | 24 | 47 |
-| nyt | 0 | 0 | 25 | 48 |
+| nyt | 0 | 0 | 24 | 48 |
 
 # Shown Order
 
@@ -6905,3 +6905,4 @@
 - **Oct 12, 07:07 PM** - Firefly to buy SciTec with eye on Golden Dome (breaking_defense)
 - **Oct 12, 07:21 PM** - Firefly to acquire defense contractor SciTec in $855 million deal (spacenews)
 - **Oct 12, 07:35 PM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
+- **Oct 12, 07:49 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
