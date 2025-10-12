@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 24 | 47 |
-| supercluster | 0 | 2 | 169 | 291 |
+| supercluster | 0 | 2 | 170 | 292 |
 | breaking_defense | 0 | 0 | 24 | 47 |
 | nyt | 0 | 0 | 24 | 48 |
 
@@ -6906,3 +6906,4 @@
 - **Oct 12, 07:21 PM** - Firefly to acquire defense contractor SciTec in $855 million deal (spacenews)
 - **Oct 12, 07:35 PM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
 - **Oct 12, 07:49 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Oct 12, 07:51 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
