@@ -5,7 +5,7 @@
 | spacenews | 1 | 2 | 25 | 48 |
 | supercluster | 0 | 2 | 168 | 297 |
 | breaking_defense | 0 | 0 | 24 | 47 |
-| nyt | 0 | 0 | 24 | 47 |
+| nyt | 0 | 0 | 25 | 48 |
 
 # Shown Order
 
@@ -6914,3 +6914,4 @@
 - **Oct 12, 08:02 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 12, 08:03 PM** - Space Force taps Muon for 3 prototype weather satellites (breaking_defense)
 - **Oct 12, 08:17 PM** - Former U.S. defense officials urge Pentagon to scale up hypersonic weapons to match China, Russia (spacenews)
+- **Oct 12, 08:31 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
