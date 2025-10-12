@@ -5,7 +5,7 @@
 | spacenews | 2 | 4 | 24 | 48 |
 | supercluster | 1 | 2 | 175 | 220 |
 | breaking_defense | 0 | 0 | 24 | 47 |
-| nyt | 0 | 0 | 23 | 47 |
+| nyt | 0 | 0 | 24 | 48 |
 
 # Shown Order
 
@@ -6804,3 +6804,4 @@
 - **Oct 12, 09:05 AM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
 - **Oct 12, 09:07 AM** - Defense to ‘anchor’ exploding satellite market over next decade: NovaSpace (breaking_defense)
 - **Oct 12, 09:27 AM** - Novaspace Projects $665B in Satellite Build and Launch Activity (spacenews)
+- **Oct 12, 09:43 AM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
