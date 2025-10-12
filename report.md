@@ -5,7 +5,7 @@
 | spacenews | 1 | 3 | 24 | 48 |
 | supercluster | 0 | 2 | 168 | 262 |
 | breaking_defense | 0 | 0 | 24 | 47 |
-| nyt | 0 | 0 | 24 | 47 |
+| nyt | 0 | 0 | 25 | 48 |
 
 # Shown Order
 
@@ -6864,3 +6864,4 @@
 - **Oct 12, 03:15 PM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
 - **Oct 12, 03:17 PM** - Space Force taps Muon for 3 prototype weather satellites (breaking_defense)
 - **Oct 12, 03:33 PM** - Blue Origin wins $78.2 million contract to expand satellite processing infrastructure at Cape Canaveral (spacenews)
+- **Oct 12, 03:47 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
