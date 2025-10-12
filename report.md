@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 24 | 47 |
+| spacenews | 1 | 3 | 25 | 48 |
 | supercluster | 0 | 2 | 168 | 276 |
 | breaking_defense | 0 | 0 | 24 | 47 |
 | nyt | 0 | 0 | 24 | 47 |
@@ -6883,3 +6883,4 @@
 - **Oct 12, 05:11 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 12, 05:13 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 12, 05:15 PM** - Defense to ‘anchor’ exploding satellite market over next decade: NovaSpace (breaking_defense)
+- **Oct 12, 05:29 PM** - FCC launches ‘Space Month’ to fast-track satellite licensing and spectrum reforms (spacenews)
