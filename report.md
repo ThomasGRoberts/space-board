@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 24 | 48 |
-| supercluster | 2 | 2 | 171 | 171 |
+| supercluster | 2 | 2 | 172 | 172 |
 | breaking_defense | 0 | 0 | 24 | 47 |
-| nyt | 0 | 0 | 24 | 48 |
+| nyt | 0 | 0 | 24 | 47 |
 
 # Shown Order
 
@@ -6735,3 +6735,4 @@
 - **Oct 12, 02:13 AM** - Space Force taps Muon for 3 prototype weather satellites (breaking_defense)
 - **Oct 12, 02:28 AM** - Utilize the ISS as a resource: a common sense, fiscally responsible plan leveraging the International Space Station (spacenews)
 - **Oct 12, 02:43 AM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
+- **Oct 12, 02:57 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
