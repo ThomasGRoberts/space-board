@@ -5,7 +5,7 @@
 | spacenews | 1 | 3 | 24 | 48 |
 | supercluster | 0 | 2 | 168 | 255 |
 | breaking_defense | 0 | 0 | 24 | 47 |
-| nyt | 0 | 0 | 24 | 47 |
+| nyt | 0 | 0 | 25 | 48 |
 
 # Shown Order
 
@@ -6854,3 +6854,4 @@
 - **Oct 12, 02:17 PM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
 - **Oct 12, 02:19 PM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
 - **Oct 12, 02:36 PM** - Sateliot hails first standards-based IoT connection from LEO to a commercial device (spacenews)
+- **Oct 12, 02:49 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
