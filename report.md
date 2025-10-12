@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 24 | 47 |
-| supercluster | 0 | 2 | 175 | 297 |
-| breaking_defense | 0 | 0 | 24 | 47 |
+| supercluster | 0 | 2 | 174 | 297 |
+| breaking_defense | 0 | 0 | 25 | 48 |
 | nyt | 0 | 0 | 24 | 48 |
 
 # Shown Order
@@ -6912,3 +6912,4 @@
 - **Oct 12, 07:57 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 12, 07:59 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 12, 08:02 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Oct 12, 08:03 PM** - Space Force taps Muon for 3 prototype weather satellites (breaking_defense)
