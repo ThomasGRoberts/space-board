@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 23 | 48 |
-| supercluster | 2 | 2 | 159 | 159 |
+| supercluster | 2 | 2 | 160 | 160 |
 | breaking_defense | 0 | 0 | 23 | 47 |
-| nyt | 0 | 0 | 24 | 47 |
+| nyt | 0 | 0 | 23 | 47 |
 
 # Shown Order
 
@@ -6717,3 +6717,4 @@
 - **Oct 12, 12:46 AM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
 - **Oct 12, 01:03 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 12, 01:05 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Oct 12, 01:07 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
