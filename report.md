@@ -3,17 +3,13 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 23 | 48 |
+| supercluster | 2 | 2 | 151 | 151 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | nyt | 0 | 0 | 24 | 48 |
-| supercluster | 2 | 2 | 150 | 150 |
 
 # Shown Order
 
-- **Jun 30, 08:15 PM** - France backs Skynopy’s global expansion with plans for 100+ ground antennas (spacenews)
-- **Jun 30, 09:59 PM** - Cambrian Works Announces Upcoming GigRouter Launch to the International Space Station (spacenews)
-- **Jun 30, 10:13 PM** - Skynopy plans 100+ antenna expansion with strategic backing from France (spacenews)
 - **Jun 30, 10:43 PM** - Liberatech Space to offer custom Earth-observation products for commodity, energy and environmental monitoring (spacenews)
-- **Jul 01, 05:21 AM** - France backs Skynopy’s global expansion with plans for 100+ ground antennas (spacenews)
 - **Jul 01, 12:19 PM** - Introduction of EU Space Act marks start of debate on regulations (spacenews)
 - **Jul 01, 03:09 PM** - Introduction of EU Space Act marks start of debate on regulations (spacenews)
 - **Jul 01, 03:39 PM** - Building the future of SpaceNews (spacenews)
@@ -80,13 +76,10 @@
 - **Jul 04, 11:45 AM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
 - **Jul 04, 11:59 AM** - Open Cosmos buys Portuguese startup to bolster space-based IoT capabilities (spacenews)
 - **Jul 04, 12:13 PM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
-- **Jul 04, 12:55 PM** - France backs Skynopy’s global expansion with plans for 100+ ground antennas (spacenews)
 - **Jul 04, 01:09 PM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
 - **Jul 04, 01:37 PM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
 - **Jul 04, 01:51 PM** - CAPSTONE™ Celebrates Three Years of Groundbreaking Achievements in Lunar Navigation and Autonomy (spacenews)
-- **Jul 04, 02:47 PM** - Skynopy plans 100+ antenna expansion with strategic backing from France (spacenews)
 - **Jul 04, 03:01 PM** - Third Interstellar Object Enters the Solar System (nyt)
-- **Jul 04, 03:43 PM** - France backs Skynopy’s global expansion with plans for 100+ ground antennas (spacenews)
 - **Jul 04, 03:57 PM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
 - **Jul 04, 04:25 PM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
 - **Jul 04, 04:39 PM** - China launches first classified Shiyan-28B experimental satellite (spacenews)
@@ -105,7 +98,6 @@
 - **Jul 04, 10:19 PM** - National Geospatial-Intelligence Agency announces new contract awards under ‘Luno’ program (spacenews)
 - **Jul 04, 11:02 PM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
 - **Jul 04, 11:57 PM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
-- **Jul 05, 12:13 AM** - Cambrian Works Announces Upcoming GigRouter Launch to the International Space Station (spacenews)
 - **Jul 05, 12:55 AM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
 - **Jul 05, 01:11 AM** - Falcon 9 launches European weather satellite (spacenews)
 - **Jul 05, 01:25 AM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
@@ -113,7 +105,6 @@
 - **Jul 05, 02:07 AM** - Boeing ships more O3b mPower satellites with fixes SES might no longer need (spacenews)
 - **Jul 05, 02:21 AM** - Third Interstellar Object Enters the Solar System (nyt)
 - **Jul 05, 02:49 AM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
-- **Jul 05, 03:03 AM** - France backs Skynopy’s global expansion with plans for 100+ ground antennas (spacenews)
 - **Jul 05, 03:45 AM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
 - **Jul 05, 03:59 AM** - Defense Satellites to redefine Global Earth Observation Strategy (spacenews)
 - **Jul 05, 04:13 AM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
@@ -128,7 +119,6 @@
 - **Jul 05, 07:31 AM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
 - **Jul 05, 07:45 AM** - ESA prepares downselect for European Launcher Challenge (spacenews)
 - **Jul 05, 08:27 AM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
-- **Jul 05, 08:41 AM** - France backs Skynopy’s global expansion with plans for 100+ ground antennas (spacenews)
 - **Jul 05, 08:55 AM** - Third Interstellar Object Enters the Solar System (nyt)
 - **Jul 05, 09:23 AM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
 - **Jul 05, 09:37 AM** - Latitude announces new factory and contracts for Zephyr small launcher (spacenews)
@@ -154,7 +144,6 @@
 - **Jul 05, 04:05 PM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
 - **Jul 05, 04:33 PM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
 - **Jul 05, 05:02 PM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
-- **Jul 05, 05:15 PM** - France backs Skynopy’s global expansion with plans for 100+ ground antennas (spacenews)
 - **Jul 05, 05:29 PM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
 - **Jul 05, 05:57 PM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
 - **Jul 05, 06:11 PM** - Latitude announces new factory and contracts for Zephyr small launcher (spacenews)
@@ -253,7 +242,6 @@
 - **Jul 07, 12:01 AM** - This is not the time to cut space-enabled medical research (spacenews)
 - **Jul 07, 12:15 AM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
 - **Jul 07, 12:29 AM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
-- **Jul 07, 12:57 AM** - France backs Skynopy’s global expansion with plans for 100+ ground antennas (spacenews)
 - **Jul 07, 01:11 AM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
 - **Jul 07, 01:25 AM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
 - **Jul 07, 01:55 AM** - Liberatech Space to offer custom Earth-observation products for commodity, energy and environmental monitoring (spacenews)
@@ -268,7 +256,6 @@
 - **Jul 07, 05:15 AM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
 - **Jul 07, 05:57 AM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
 - **Jul 07, 06:11 AM** - Third Interstellar Object Enters the Solar System (nyt)
-- **Jul 07, 06:39 AM** - France backs Skynopy’s global expansion with plans for 100+ ground antennas (spacenews)
 - **Jul 07, 06:53 AM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
 - **Jul 07, 07:07 AM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
 - **Jul 07, 07:37 AM** - Defense Satellites to redefine Global Earth Observation Strategy (spacenews)
@@ -277,14 +264,12 @@
 - **Jul 07, 08:35 AM** - Introduction of EU Space Act marks start of debate on regulations (spacenews)
 - **Jul 07, 08:49 AM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
 - **Jul 07, 09:03 AM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
-- **Jul 07, 09:31 AM** - Cambrian Works Announces Upcoming GigRouter Launch to the International Space Station (spacenews)
 - **Jul 07, 09:45 AM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
 - **Jul 07, 09:59 AM** - Third Interstellar Object Enters the Solar System (nyt)
 - **Jul 07, 10:41 AM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
 - **Jul 07, 10:55 AM** - Trump says it would have been “inappropriate” for Isaacman to lead NASA (spacenews)
 - **Jul 07, 11:09 AM** - Third Interstellar Object, Comet 3I/ATLAS, Is Traveling Through Solar System (nyt)
 - **Jul 07, 11:37 AM** - Congress passes Trump’s reconciliation megabill with $150B for defense (breaking_defense)
-- **Jul 07, 11:51 AM** - Cambrian Works Announces Upcoming GigRouter Launch to the International Space Station (spacenews)
 - **Jul 07, 12:05 PM** - Third Interstellar Object Enters the Solar System (nyt)
 - **Jul 07, 12:33 PM** - Integration, existing weapons and uncertainty: Industry forming its Golden Dome pitch (breaking_defense)
 - **Jul 07, 12:47 PM** - CAPSTONE™ Celebrates Three Years of Groundbreaking Achievements in Lunar Navigation and Autonomy (spacenews)
@@ -6720,3 +6705,4 @@
 - **Oct 11, 11:18 PM** - Defense to ‘anchor’ exploding satellite market over next decade: NovaSpace (breaking_defense)
 - **Oct 11, 11:33 PM** - Laying the foundation for America’s space future (spacenews)
 - **Oct 11, 11:47 PM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
+- **Oct 12, 12:02 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
