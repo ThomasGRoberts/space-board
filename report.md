@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 24 | 47 |
-| supercluster | 0 | 2 | 174 | 269 |
-| breaking_defense | 0 | 0 | 24 | 47 |
+| supercluster | 0 | 2 | 173 | 269 |
+| breaking_defense | 0 | 0 | 25 | 48 |
 | nyt | 0 | 0 | 24 | 47 |
 
 # Shown Order
@@ -6872,3 +6872,4 @@
 - **Oct 12, 04:09 PM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
 - **Oct 12, 04:11 PM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
 - **Oct 12, 04:13 PM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
+- **Oct 12, 04:15 PM** - Firefly to buy SciTec with eye on Golden Dome (breaking_defense)
