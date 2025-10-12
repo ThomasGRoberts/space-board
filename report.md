@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 24 | 47 |
+| spacenews | 2 | 3 | 25 | 48 |
 | supercluster | 0 | 2 | 168 | 248 |
 | breaking_defense | 0 | 0 | 24 | 47 |
 | nyt | 0 | 0 | 24 | 47 |
@@ -6843,3 +6843,4 @@
 - **Oct 12, 01:13 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 12, 01:15 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 12, 01:17 PM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
+- **Oct 12, 01:33 PM** - Former U.S. defense officials urge Pentagon to scale up hypersonic weapons to match China, Russia (spacenews)
