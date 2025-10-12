@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 24 | 48 |
-| supercluster | 1 | 2 | 175 | 206 |
+| supercluster | 1 | 2 | 176 | 207 |
 | breaking_defense | 0 | 0 | 24 | 47 |
 | nyt | 0 | 0 | 24 | 48 |
 
@@ -6785,3 +6785,4 @@
 - **Oct 12, 07:07 AM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
 - **Oct 12, 07:21 AM** - ESA inaugurates new deep space antenna in Australia (spacenews)
 - **Oct 12, 07:35 AM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
+- **Oct 12, 07:49 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
