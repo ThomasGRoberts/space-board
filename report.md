@@ -5,7 +5,7 @@
 | spacenews | 2 | 4 | 24 | 48 |
 | supercluster | 2 | 2 | 164 | 164 |
 | breaking_defense | 0 | 0 | 23 | 47 |
-| nyt | 0 | 0 | 23 | 47 |
+| nyt | 0 | 0 | 24 | 48 |
 
 # Shown Order
 
@@ -6724,3 +6724,4 @@
 - **Oct 12, 01:15 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 12, 01:17 AM** - Firefly to buy SciTec with eye on Golden Dome (breaking_defense)
 - **Oct 12, 01:31 AM** - ESA inaugurates new deep space antenna in Australia (spacenews)
+- **Oct 12, 01:45 AM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
