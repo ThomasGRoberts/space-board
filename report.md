@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 24 | 47 |
-| supercluster | 0 | 2 | 169 | 277 |
+| supercluster | 0 | 2 | 170 | 278 |
 | breaking_defense | 0 | 0 | 24 | 47 |
 | nyt | 0 | 0 | 24 | 48 |
 
@@ -6886,3 +6886,4 @@
 - **Oct 12, 05:29 PM** - FCC launches ‘Space Month’ to fast-track satellite licensing and spectrum reforms (spacenews)
 - **Oct 12, 05:43 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
 - **Oct 12, 05:57 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Oct 12, 05:59 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
