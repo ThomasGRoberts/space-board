@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 24 | 47 |
-| supercluster | 1 | 2 | 174 | 242 |
+| supercluster | 1 | 2 | 175 | 243 |
 | breaking_defense | 0 | 0 | 24 | 47 |
 | nyt | 0 | 0 | 24 | 48 |
 
@@ -6836,3 +6836,4 @@
 - **Oct 12, 12:31 PM** - Novaspace Projects $665B in Satellite Build and Launch Activity (spacenews)
 - **Oct 12, 12:45 PM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
 - **Oct 12, 01:02 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Oct 12, 01:03 PM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
