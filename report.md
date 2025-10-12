@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 24 | 48 |
-| supercluster | 1 | 2 | 176 | 179 |
+| supercluster | 1 | 2 | 177 | 180 |
 | breaking_defense | 0 | 0 | 24 | 47 |
-| nyt | 0 | 0 | 24 | 48 |
+| nyt | 0 | 0 | 24 | 47 |
 
 # Shown Order
 
@@ -6746,3 +6746,4 @@
 - **Oct 12, 03:27 AM** - AST SpaceMobile gains Verizon ally amid SpaceX’s direct-to-device push (spacenews)
 - **Oct 12, 03:41 AM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
 - **Oct 12, 03:55 AM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
+- **Oct 12, 03:57 AM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
