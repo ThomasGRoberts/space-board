@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 2 | 24 | 48 |
-| supercluster | 0 | 2 | 168 | 318 |
+| supercluster | 0 | 2 | 169 | 319 |
 | breaking_defense | 0 | 0 | 24 | 47 |
 | nyt | 0 | 0 | 25 | 48 |
 
@@ -6945,3 +6945,4 @@
 - **Oct 12, 10:55 PM** - Firefly to buy SciTec with eye on Golden Dome (breaking_defense)
 - **Oct 12, 11:11 PM** - Space Force sets up ‘working capital fund’ for commercial space services (spacenews)
 - **Oct 12, 11:25 PM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
+- **Oct 12, 11:39 PM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
