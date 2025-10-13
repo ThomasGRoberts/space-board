@@ -1,7 +1,7 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-13T00:02:07.028218+00:00",
-    "trigger_count": 0,
+    "trigger_count": 1,
     "current_item_id": "bc71db3e0c875dd532b0b21876ed614d",
     "data": [
         {
@@ -12254,14 +12254,11 @@
             "source": "supercluster",
             "text": "SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy",
             "source_link": "https://www.supercluster.com/launches/starship-super-heavy-flight-test-11",
-            "shown": true,
+            "shown": false,
             "type": "launch",
             "target_datetime": "2025-10-13T23:23:00.000Z",
             "time_remaining": "",
-            "fetched_datetime": "2025-10-13T23:27:57.654232Z",
-            "shown_at": [
-                "2025-10-13T23:27:58.248533Z"
-            ]
+            "fetched_datetime": "2025-10-13T23:29:45.131848Z"
         }
     ]
 }
