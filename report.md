@@ -5,7 +5,7 @@
 | spacenews | 1 | 3 | 25 | 49 |
 | supercluster | 0 | 0 | 126 | 203 |
 | breaking_defense | 0 | 0 | 24 | 48 |
-| nyt | 0 | 0 | 24 | 47 |
+| nyt | 0 | 0 | 25 | 48 |
 
 # Shown Order
 
@@ -6925,3 +6925,4 @@
 - **Oct 13, 11:15 AM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
 - **Oct 13, 11:17 AM** - Space Force taps Muon for 3 prototype weather satellites (breaking_defense)
 - **Oct 13, 11:31 AM** - New Zealand charts continued growth of its space industry (spacenews)
+- **Oct 13, 11:45 AM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
