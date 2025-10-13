@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-13T00:02:07.028218+00:00",
-    "trigger_count": 6,
-    "current_item_id": "96cf7a07fc1559da5a0e33e90d330341",
+    "trigger_count": 0,
+    "current_item_id": "e33bce89db8dbeb455749cf0c0721e50",
     "data": [
         {
             "id": "b6e7f08b6410c82c3afa9744f8786f3e",
@@ -12441,6 +12441,18 @@
             "fetched_datetime": "2025-10-13T11:59:17.488268Z",
             "shown_at": [
                 "2025-10-13T11:59:17.926096Z"
+            ]
+        },
+        {
+            "id": "e33bce89db8dbeb455749cf0c0721e50",
+            "source": "spacenews",
+            "text": "Momentus and Solstar to offer communications, transportation and infrastructure in low-Earth orbit",
+            "source_link": "https://spacenews.com/momentus-and-solstar-to-offer-communications-transportation-and-infrastructure-in-low-earth-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-13T12:43:27.663530Z",
+            "shown_at": [
+                "2025-10-13T12:43:28.196344Z"
             ]
         }
     ]

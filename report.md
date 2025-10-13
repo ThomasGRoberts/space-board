@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 25 | 49 |
+| spacenews | 3 | 5 | 26 | 50 |
 | supercluster | 0 | 0 | 126 | 203 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | nyt | 0 | 0 | 24 | 48 |
@@ -6935,3 +6935,4 @@
 - **Oct 13, 12:23 PM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
 - **Oct 13, 12:25 PM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
 - **Oct 13, 12:27 PM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
+- **Oct 13, 12:43 PM** - Momentus and Solstar to offer communications, transportation and infrastructure in low-Earth orbit (spacenews)
