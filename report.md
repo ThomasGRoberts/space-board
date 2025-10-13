@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 25 | 49 |
-| supercluster | 0 | 0 | 99 | 204 |
+| supercluster | 0 | 0 | 100 | 205 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | nyt | 0 | 0 | 24 | 48 |
 
@@ -6857,3 +6857,4 @@
 - **Oct 13, 04:23 AM** - French space defense startup Dark ceases operations (spacenews)
 - **Oct 13, 04:39 AM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
 - **Oct 13, 04:55 AM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
+- **Oct 13, 04:57 AM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
