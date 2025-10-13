@@ -5,7 +5,7 @@
 | spacenews | 1 | 3 | 25 | 49 |
 | supercluster | 0 | 1 | 77 | 185 |
 | breaking_defense | 0 | 0 | 24 | 47 |
-| nyt | 0 | 0 | 24 | 47 |
+| nyt | 0 | 0 | 25 | 48 |
 
 # Shown Order
 
@@ -6815,3 +6815,4 @@
 - **Oct 12, 11:53 PM** - Space Force taps Muon for 3 prototype weather satellites (breaking_defense)
 - **Oct 13, 12:09 AM** - Blue Origin flies sixth crewed New Shepard flight of 2025 (spacenews)
 - **Oct 13, 12:23 AM** - SpaceX prepares for next Starship test flight (spacenews)
+- **Oct 13, 12:37 AM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
