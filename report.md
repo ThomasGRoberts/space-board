@@ -6907,3 +6907,4 @@
 - **Oct 13, 09:32 AM** - Blue Origin flies sixth crewed New Shepard flight of 2025 (spacenews)
 - **Oct 13, 09:47 AM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
 - **Oct 13, 10:02 AM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
+- **Oct 13, 10:05 AM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
