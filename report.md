@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 25 | 49 |
-| supercluster | 0 | 1 | 91 | 199 |
+| supercluster | 0 | 1 | 92 | 200 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | nyt | 0 | 0 | 24 | 48 |
 
@@ -6836,3 +6836,4 @@
 - **Oct 13, 02:09 AM** - Space Force taps Muon for 3 prototype weather satellites (breaking_defense)
 - **Oct 13, 02:23 AM** - Blue Origin wins $78.2 million contract to expand satellite processing infrastructure at Cape Canaveral (spacenews)
 - **Oct 13, 02:38 AM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
+- **Oct 13, 02:53 AM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
