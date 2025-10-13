@@ -6917,3 +6917,4 @@
 - **Oct 13, 10:32 AM** - Cubic targets military satcom market with ‘Vector’ terminals (spacenews)
 - **Oct 13, 10:47 AM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
 - **Oct 13, 11:02 AM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
+- **Oct 13, 11:05 AM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
