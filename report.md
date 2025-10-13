@@ -5,7 +5,7 @@
 | spacenews | 4 | 6 | 26 | 50 |
 | supercluster | 0 | 0 | 133 | 203 |
 | breaking_defense | 0 | 0 | 24 | 48 |
-| nyt | 0 | 0 | 23 | 48 |
+| nyt | 0 | 0 | 24 | 49 |
 
 # Shown Order
 
@@ -6946,3 +6946,4 @@
 - **Oct 13, 01:39 PM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
 - **Oct 13, 01:41 PM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
 - **Oct 13, 01:43 PM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
+- **Oct 13, 01:57 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
