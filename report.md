@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 5 | 26 | 50 |
+| spacenews | 4 | 6 | 27 | 51 |
 | supercluster | 0 | 0 | 126 | 196 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | nyt | 0 | 0 | 24 | 48 |
@@ -6937,3 +6937,4 @@
 - **Oct 13, 12:27 PM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
 - **Oct 13, 12:43 PM** - Momentus and Solstar to offer communications, transportation and infrastructure in low-Earth orbit (spacenews)
 - **Oct 13, 12:57 PM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
+- **Oct 13, 01:13 PM** - Special economic zones for restoring American space dominance (spacenews)

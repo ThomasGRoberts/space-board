@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-13T00:02:07.028218+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b8e5d1326cbd096d33a41031aad6b948",
+    "trigger_count": 0,
+    "current_item_id": "07ccd337dd3aed88c9ac14fa788ae044",
     "data": [
         {
             "id": "b6e7f08b6410c82c3afa9744f8786f3e",
@@ -12454,6 +12454,18 @@
             "fetched_datetime": "2025-10-13T12:43:27.663530Z",
             "shown_at": [
                 "2025-10-13T12:43:28.196344Z"
+            ]
+        },
+        {
+            "id": "07ccd337dd3aed88c9ac14fa788ae044",
+            "source": "spacenews",
+            "text": "Special economic zones for restoring American space dominance",
+            "source_link": "https://spacenews.com/special-economic-zones-for-restoring-american-space-dominance/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-13T13:13:45.037396Z",
+            "shown_at": [
+                "2025-10-13T13:13:45.690941Z"
             ]
         }
     ]
