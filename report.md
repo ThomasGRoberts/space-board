@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 6 | 27 | 51 |
-| supercluster | 0 | 0 | 142 | 205 |
+| supercluster | 0 | 0 | 143 | 206 |
 | breaking_defense | 0 | 0 | 23 | 47 |
-| nyt | 0 | 0 | 24 | 48 |
+| nyt | 0 | 0 | 23 | 48 |
 
 # Shown Order
 
@@ -6991,3 +6991,4 @@
 - **Oct 13, 06:23 PM** - JAXA to launch tech demo satellites on Electron rockets (spacenews)
 - **Oct 13, 06:37 PM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
 - **Oct 13, 06:39 PM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
+- **Oct 13, 06:41 PM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
