@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 7 | 27 | 51 |
-| supercluster | 0 | 0 | 155 | 218 |
+| supercluster | 0 | 0 | 156 | 219 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | nyt | 0 | 0 | 23 | 48 |
 
@@ -7010,3 +7010,4 @@
 - **Oct 13, 08:09 PM** - Space Force taps Muon for 3 prototype weather satellites (breaking_defense)
 - **Oct 13, 08:23 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
 - **Oct 13, 08:37 PM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
+- **Oct 13, 08:39 PM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
