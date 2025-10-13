@@ -5,7 +5,7 @@
 | spacenews | 1 | 3 | 25 | 49 |
 | supercluster | 0 | 0 | 98 | 203 |
 | breaking_defense | 0 | 0 | 24 | 48 |
-| nyt | 0 | 0 | 24 | 48 |
+| nyt | 0 | 0 | 25 | 49 |
 
 # Shown Order
 
@@ -6855,3 +6855,4 @@
 - **Oct 13, 04:07 AM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
 - **Oct 13, 04:09 AM** - Defense to ‘anchor’ exploding satellite market over next decade: NovaSpace (breaking_defense)
 - **Oct 13, 04:23 AM** - French space defense startup Dark ceases operations (spacenews)
+- **Oct 13, 04:39 AM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
