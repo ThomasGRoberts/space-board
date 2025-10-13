@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 26 | 50 |
-| supercluster | 0 | 0 | 121 | 197 |
+| supercluster | 0 | 0 | 121 | 198 |
 | breaking_defense | 0 | 0 | 24 | 47 |
 | nyt | 0 | 0 | 24 | 48 |
 
@@ -6928,3 +6928,4 @@
 - **Oct 13, 11:45 AM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
 - **Oct 13, 11:59 AM** - JAXA to launch tech demo satellites on Electron rockets (spacenews)
 - **Oct 13, 12:14 PM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
+- **Oct 13, 12:16 PM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
