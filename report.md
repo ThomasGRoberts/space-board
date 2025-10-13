@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 7 | 28 | 52 |
+| spacenews | 6 | 7 | 27 | 52 |
 | supercluster | 0 | 0 | 147 | 210 |
-| breaking_defense | 0 | 0 | 23 | 48 |
-| nyt | 0 | 0 | 23 | 47 |
+| breaking_defense | 0 | 0 | 23 | 47 |
+| nyt | 0 | 0 | 24 | 48 |
 
 # Shown Order
 
@@ -6998,3 +6998,4 @@
 - **Oct 13, 06:49 PM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
 - **Oct 13, 06:51 PM** - More layoffs at JPL (spacenews)
 - **Oct 13, 07:07 PM** - Firefly to buy SciTec with eye on Golden Dome (breaking_defense)
+- **Oct 13, 07:22 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
