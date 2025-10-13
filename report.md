@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 25 | 49 |
-| supercluster | 0 | 1 | 93 | 201 |
+| supercluster | 0 | 1 | 94 | 202 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | nyt | 0 | 0 | 24 | 48 |
 
@@ -6838,3 +6838,4 @@
 - **Oct 13, 02:38 AM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
 - **Oct 13, 02:53 AM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
 - **Oct 13, 02:55 AM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
+- **Oct 13, 02:57 AM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
