@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 27 | 51 |
-| supercluster | 0 | 0 | 127 | 197 |
+| supercluster | 0 | 0 | 128 | 198 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | nyt | 0 | 0 | 24 | 48 |
 
@@ -6939,3 +6939,4 @@
 - **Oct 13, 12:57 PM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
 - **Oct 13, 01:13 PM** - Special economic zones for restoring American space dominance (spacenews)
 - **Oct 13, 01:29 PM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
+- **Oct 13, 01:31 PM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
