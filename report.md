@@ -5,7 +5,7 @@
 | spacenews | 1 | 3 | 25 | 49 |
 | supercluster | 0 | 0 | 119 | 203 |
 | breaking_defense | 0 | 0 | 24 | 48 |
-| nyt | 0 | 0 | 23 | 48 |
+| nyt | 0 | 0 | 24 | 48 |
 
 # Shown Order
 
@@ -6885,3 +6885,4 @@
 - **Oct 13, 07:07 AM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
 - **Oct 13, 07:09 AM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
 - **Oct 13, 07:27 AM** - Blue Origin flies sixth crewed New Shepard flight of 2025 (spacenews)
+- **Oct 13, 07:43 AM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
