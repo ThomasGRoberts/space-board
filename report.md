@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 25 | 49 |
-| supercluster | 0 | 0 | 99 | 210 |
-| breaking_defense | 0 | 0 | 24 | 48 |
+| supercluster | 0 | 0 | 98 | 208 |
+| breaking_defense | 0 | 0 | 25 | 49 |
 | nyt | 0 | 0 | 24 | 48 |
 
 # Shown Order
@@ -6853,3 +6853,4 @@
 - **Oct 13, 04:02 AM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
 - **Oct 13, 04:05 AM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
 - **Oct 13, 04:07 AM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
+- **Oct 13, 04:09 AM** - Defense to ‘anchor’ exploding satellite market over next decade: NovaSpace (breaking_defense)
