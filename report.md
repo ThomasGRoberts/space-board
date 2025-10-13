@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 6 | 27 | 51 |
-| supercluster | 0 | 0 | 166 | 231 |
+| spacenews | 7 | 7 | 28 | 52 |
+| supercluster | 0 | 0 | 165 | 231 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | nyt | 0 | 0 | 23 | 47 |
 
@@ -7026,3 +7026,4 @@
 - **Oct 13, 09:43 PM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
 - **Oct 13, 09:45 PM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
 - **Oct 13, 09:47 PM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
+- **Oct 13, 09:49 PM** - Surprise Chinese launch sends Shiyan-31 experimental satellite into orbit (spacenews)
