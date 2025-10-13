@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 25 | 49 |
+| spacenews | 1 | 3 | 25 | 50 |
 | supercluster | 0 | 0 | 112 | 203 |
 | breaking_defense | 0 | 0 | 24 | 48 |
 | nyt | 0 | 0 | 24 | 48 |
@@ -6874,3 +6874,4 @@
 - **Oct 13, 06:07 AM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
 - **Oct 13, 06:09 AM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
 - **Oct 13, 06:11 AM** - Firefly to buy SciTec with eye on Golden Dome (breaking_defense)
+- **Oct 13, 06:25 AM** - New Zealand charts continued growth of its space industry (spacenews)
