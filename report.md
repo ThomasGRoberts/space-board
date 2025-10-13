@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 6 | 27 | 52 |
-| supercluster | 0 | 0 | 140 | 203 |
+| supercluster | 0 | 0 | 141 | 204 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | nyt | 0 | 0 | 24 | 48 |
 
@@ -6989,3 +6989,4 @@
 - **Oct 13, 05:53 PM** - Defense to ‘anchor’ exploding satellite market over next decade: NovaSpace (breaking_defense)
 - **Oct 13, 06:07 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
 - **Oct 13, 06:23 PM** - JAXA to launch tech demo satellites on Electron rockets (spacenews)
+- **Oct 13, 06:37 PM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
