@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 25 | 49 |
-| supercluster | 0 | 1 | 77 | 185 |
+| spacenews | 1 | 3 | 25 | 48 |
+| supercluster | 0 | 1 | 78 | 186 |
 | breaking_defense | 0 | 0 | 24 | 47 |
 | nyt | 0 | 0 | 24 | 48 |
 
@@ -6816,3 +6816,4 @@
 - **Oct 13, 12:09 AM** - Blue Origin flies sixth crewed New Shepard flight of 2025 (spacenews)
 - **Oct 13, 12:23 AM** - SpaceX prepares for next Starship test flight (spacenews)
 - **Oct 13, 12:37 AM** - If Your North Star Is Lost, New Techniques Can Point You South (nyt)
+- **Oct 13, 12:52 AM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
