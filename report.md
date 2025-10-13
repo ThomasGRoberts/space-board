@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 6 | 27 | 51 |
-| supercluster | 0 | 0 | 162 | 225 |
+| supercluster | 0 | 0 | 163 | 226 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | nyt | 0 | 0 | 23 | 48 |
 
@@ -7020,3 +7020,4 @@
 - **Oct 13, 09:08 PM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
 - **Oct 13, 09:21 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
 - **Oct 13, 09:35 PM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
+- **Oct 13, 09:37 PM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
