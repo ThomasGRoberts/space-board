@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 7 | 28 | 52 |
 | supercluster | 0 | 0 | 147 | 210 |
-| breaking_defense | 0 | 0 | 23 | 47 |
+| breaking_defense | 0 | 0 | 23 | 48 |
 | nyt | 0 | 0 | 23 | 47 |
 
 # Shown Order
@@ -6997,3 +6997,4 @@
 - **Oct 13, 06:47 PM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
 - **Oct 13, 06:49 PM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
 - **Oct 13, 06:51 PM** - More layoffs at JPL (spacenews)
+- **Oct 13, 07:07 PM** - Firefly to buy SciTec with eye on Golden Dome (breaking_defense)
