@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 7 | 28 | 52 |
 | supercluster | 0 | 0 | 161 | 231 |
-| breaking_defense | 0 | 0 | 22 | 47 |
+| breaking_defense | 0 | 0 | 23 | 48 |
 | nyt | 0 | 0 | 23 | 47 |
 
 # Shown Order
@@ -7027,3 +7027,4 @@
 - **Oct 13, 09:45 PM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
 - **Oct 13, 09:47 PM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
 - **Oct 13, 09:49 PM** - Surprise Chinese launch sends Shiyan-31 experimental satellite into orbit (spacenews)
+- **Oct 13, 10:06 PM** - Space Force taps Muon for 3 prototype weather satellites (breaking_defense)
