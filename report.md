@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 6 | 27 | 52 |
-| supercluster | 0 | 0 | 134 | 204 |
+| spacenews | 5 | 6 | 27 | 51 |
+| supercluster | 0 | 0 | 135 | 205 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | nyt | 0 | 0 | 24 | 48 |
 
@@ -6980,3 +6980,4 @@
 - **Oct 13, 05:12 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
 - **Oct 13, 05:25 PM** - Former U.S. defense officials urge Pentagon to scale up hypersonic weapons to match China, Russia (spacenews)
 - **Oct 13, 05:39 PM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
+- **Oct 13, 05:41 PM** - SpaceX Will Perform Eleventh Flight Test of Starship Super Heavy (supercluster)
