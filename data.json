@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-13T00:02:07.028218+00:00",
-    "trigger_count": 6,
-    "current_item_id": "705bb27584108e7b73554e3a55451f5f",
+    "trigger_count": 0,
+    "current_item_id": "c8acbd263ae22b6502c383bea44d6eb8",
     "data": [
         {
             "id": "b6e7f08b6410c82c3afa9744f8786f3e",
@@ -12451,6 +12451,18 @@
                 "2025-07-03T10:02:05.581020Z",
                 "2025-07-06T16:29:46.204681Z",
                 "2025-07-07T01:55:48.873784Z"
+            ]
+        },
+        {
+            "id": "c8acbd263ae22b6502c383bea44d6eb8",
+            "source": "spacenews",
+            "text": "SpaceX prepares for next Starship test flight",
+            "source_link": "https://spacenews.com/spacex-prepares-for-next-starship-test-flight/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-13T00:23:37.718134Z",
+            "shown_at": [
+                "2025-10-13T00:23:38.405683Z"
             ]
         }
     ]
