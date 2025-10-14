@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-14T00:02:16.749173+00:00",
-    "trigger_count": 6,
-    "current_item_id": "415c1c02112466f2a5c9eafb89f3128b",
+    "trigger_count": 0,
+    "current_item_id": "49a10d4953d72f907296dbc14f03a7c7",
     "data": [
         {
             "id": "7d721bd0cc18a6fb15209987ba77e1e3",
@@ -12285,6 +12285,27 @@
                 "2025-10-14T11:15:43.703331Z",
                 "2025-10-14T11:17:33.527281Z"
             ]
+        },
+        {
+            "id": "49a10d4953d72f907296dbc14f03a7c7",
+            "source": "spacenews",
+            "text": "SmallSat Education Conference Aerospace Education Event for Educators, Parents, and Students (Middle School, High School, College)",
+            "source_link": "https://spacenews.com/smallsat-education-conference-aerospace-education-event-for-educators-parents-and-students-middle-school-high-school-college/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-14T11:20:06.605664Z",
+            "shown_at": [
+                "2025-10-14T11:20:07.861630Z"
+            ]
+        },
+        {
+            "id": "30bcb385c1fc05c58e7d871d8658cf24",
+            "source": "spacenews",
+            "text": "Announcing the finalists for the 2025 SpaceNews Icon Awards",
+            "source_link": "https://spacenews.com/announcing-the-finalists-for-the-2025-spacenews-icon-awards/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-10-14T11:20:06.605718Z"
         }
     ]
 }
