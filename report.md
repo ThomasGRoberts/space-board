@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 13 | 27 | 54 |
-| breaking_defense | 0 | 0 | 20 | 43 |
+| spacenews | 8 | 13 | 26 | 54 |
+| breaking_defense | 0 | 0 | 21 | 44 |
 | nyt | 0 | 0 | 20 | 44 |
 | supercluster | 1 | 1 | 76 | 76 |
 
@@ -6791,3 +6791,4 @@
 - **Oct 14, 02:21 PM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
 - **Oct 14, 02:23 PM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
 - **Oct 14, 02:25 PM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
+- **Oct 14, 02:27 PM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
