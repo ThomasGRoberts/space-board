@@ -5,7 +5,7 @@
 | spacenews | 7 | 8 | 26 | 51 |
 | breaking_defense | 0 | 0 | 21 | 45 |
 | nyt | 0 | 0 | 21 | 45 |
-| supercluster | 1 | 1 | 7 | 7 |
+| supercluster | 1 | 1 | 8 | 8 |
 
 # Shown Order
 
@@ -6691,3 +6691,4 @@
 - **Oct 14, 03:25 AM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
 - **Oct 14, 03:39 AM** - Stoke Space raises $510 million (spacenews)
 - **Oct 14, 03:53 AM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
+- **Oct 14, 03:55 AM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
