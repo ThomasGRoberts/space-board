@@ -5,7 +5,7 @@
 | spacenews | 7 | 8 | 26 | 52 |
 | breaking_defense | 0 | 0 | 22 | 46 |
 | nyt | 0 | 0 | 22 | 46 |
-| supercluster | 1 | 1 | 4 | 4 |
+| supercluster | 1 | 1 | 5 | 5 |
 
 # Shown Order
 
@@ -6683,3 +6683,4 @@
 - **Oct 14, 12:57 AM** - Starship successfully completes 11th flight test (spacenews)
 - **Oct 14, 01:13 AM** - Defense to ‘anchor’ exploding satellite market over next decade: NovaSpace (breaking_defense)
 - **Oct 14, 01:29 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Oct 14, 01:31 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
