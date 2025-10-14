@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 26 | 54 |
-| breaking_defense | 0 | 0 | 20 | 42 |
+| spacenews | 8 | 15 | 26 | 53 |
+| breaking_defense | 0 | 0 | 19 | 42 |
 | nyt | 0 | 0 | 19 | 42 |
-| supercluster | 1 | 1 | 41 | 41 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -6722,61 +6722,21 @@
 - **Oct 14, 03:39 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
 - **Oct 14, 03:53 PM** - Momentus wins two NASA contracts to fly tech demo payloads (spacenews)
 - **Oct 14, 04:25 PM** - K2 Space announces plans for three-orbit demonstration mission (spacenews)
-- **Oct 14, 05:33 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
-- **Oct 14, 05:35 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
-- **Oct 14, 05:37 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 14, 05:39 PM** - Viasat and Space42’s D2D joint venture finds first mobile partner in UAE (spacenews)
 - **Oct 14, 05:53 PM** - Defense to ‘anchor’ exploding satellite market over next decade: NovaSpace (breaking_defense)
 - **Oct 14, 06:07 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
-- **Oct 14, 06:23 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
-- **Oct 14, 06:25 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
-- **Oct 14, 06:27 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
-- **Oct 14, 06:29 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
-- **Oct 14, 06:31 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
-- **Oct 14, 06:33 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
-- **Oct 14, 06:35 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 14, 06:37 PM** - World Space Week Ends With A Big Announcement (spacenews)
 - **Oct 14, 06:51 PM** - Space Force taps Muon for 3 prototype weather satellites (breaking_defense)
 - **Oct 14, 07:05 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
-- **Oct 14, 07:19 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
-- **Oct 14, 07:21 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
-- **Oct 14, 07:23 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
-- **Oct 14, 07:25 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
-- **Oct 14, 07:27 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
-- **Oct 14, 07:29 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
-- **Oct 14, 07:32 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 14, 07:35 PM** - Space Force sets up ‘working capital fund’ for commercial space services (spacenews)
 - **Oct 14, 07:51 PM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
 - **Oct 14, 08:07 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
-- **Oct 14, 08:23 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
-- **Oct 14, 08:25 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
-- **Oct 14, 08:27 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
-- **Oct 14, 08:29 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
-- **Oct 14, 08:31 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
-- **Oct 14, 08:33 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
-- **Oct 14, 08:35 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 14, 08:37 PM** - Huge commercial Chinese solid rocket launches 3 satellites from barge in the Yellow Sea (spacenews)
 - **Oct 14, 08:51 PM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
 - **Oct 14, 09:05 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
-- **Oct 14, 09:21 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
-- **Oct 14, 09:23 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
-- **Oct 14, 09:26 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
-- **Oct 14, 09:29 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
-- **Oct 14, 09:32 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
-- **Oct 14, 09:33 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
-- **Oct 14, 09:35 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 14, 09:37 PM** - Planet announces new line of satellites for daily Earth imaging (spacenews)
 - **Oct 14, 09:51 PM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
 - **Oct 14, 10:07 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
-- **Oct 14, 10:21 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
-- **Oct 14, 10:24 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
-- **Oct 14, 10:27 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
-- **Oct 14, 10:29 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
-- **Oct 14, 10:31 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
-- **Oct 14, 10:34 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
-- **Oct 14, 10:35 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 14, 10:37 PM** - Starship successfully completes 11th flight test (spacenews)
 - **Oct 14, 10:51 PM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
-- **Oct 14, 11:06 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
-- **Oct 14, 11:09 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
-- **Oct 14, 11:11 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
+- **Oct 14, 11:13 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
