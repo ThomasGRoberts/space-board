@@ -5,7 +5,7 @@
 | spacenews | 9 | 15 | 26 | 54 |
 | breaking_defense | 0 | 0 | 19 | 42 |
 | nyt | 0 | 0 | 20 | 43 |
-| supercluster | 1 | 1 | 11 | 11 |
+| supercluster | 1 | 1 | 12 | 12 |
 
 # Shown Order
 
@@ -6739,3 +6739,4 @@
 - **Oct 14, 06:51 PM** - Space Force taps Muon for 3 prototype weather satellites (breaking_defense)
 - **Oct 14, 07:05 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
 - **Oct 14, 07:19 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
+- **Oct 14, 07:21 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
