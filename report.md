@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 8 | 26 | 51 |
 | breaking_defense | 0 | 0 | 21 | 45 |
-| nyt | 0 | 0 | 21 | 45 |
+| nyt | 0 | 0 | 22 | 46 |
 | supercluster | 1 | 1 | 20 | 20 |
 
 # Shown Order
@@ -6708,3 +6708,4 @@
 - **Oct 14, 04:59 AM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
 - **Oct 14, 05:02 AM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
 - **Oct 14, 05:06 AM** - Space Force taps Muon for 3 prototype weather satellites (breaking_defense)
+- **Oct 14, 05:22 AM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
