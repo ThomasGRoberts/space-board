@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 8 | 25 | 50 |
+| spacenews | 7 | 8 | 26 | 51 |
 | breaking_defense | 0 | 0 | 21 | 45 |
 | nyt | 0 | 0 | 21 | 45 |
 | supercluster | 1 | 1 | 48 | 48 |
@@ -6749,3 +6749,4 @@
 - **Oct 14, 09:17 AM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
 - **Oct 14, 09:19 AM** - Defense to ‘anchor’ exploding satellite market over next decade: NovaSpace (breaking_defense)
 - **Oct 14, 09:35 AM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
+- **Oct 14, 09:50 AM** - Blue Origin flies sixth crewed New Shepard flight of 2025 (spacenews)
