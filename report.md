@@ -5,7 +5,7 @@
 | spacenews | 10 | 15 | 27 | 54 |
 | breaking_defense | 0 | 0 | 19 | 42 |
 | nyt | 0 | 0 | 19 | 43 |
-| supercluster | 1 | 1 | 3 | 3 |
+| supercluster | 1 | 1 | 4 | 4 |
 
 # Shown Order
 
@@ -6728,3 +6728,4 @@
 - **Oct 14, 05:39 PM** - Viasat and Space42’s D2D joint venture finds first mobile partner in UAE (spacenews)
 - **Oct 14, 05:53 PM** - Defense to ‘anchor’ exploding satellite market over next decade: NovaSpace (breaking_defense)
 - **Oct 14, 06:07 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
+- **Oct 14, 06:23 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
