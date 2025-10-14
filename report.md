@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 8 | 26 | 51 |
-| breaking_defense | 0 | 0 | 21 | 45 |
+| breaking_defense | 0 | 0 | 21 | 44 |
 | nyt | 0 | 0 | 21 | 45 |
-| supercluster | 1 | 1 | 35 | 35 |
+| supercluster | 1 | 1 | 36 | 36 |
 
 # Shown Order
 
@@ -6731,3 +6731,4 @@
 - **Oct 14, 07:23 AM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
 - **Oct 14, 07:37 AM** - Space Force sets up ‘working capital fund’ for commercial space services (spacenews)
 - **Oct 14, 07:51 AM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
+- **Oct 14, 08:04 AM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
