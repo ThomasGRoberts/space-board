@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 11 | 27 | 53 |
 | breaking_defense | 0 | 0 | 21 | 44 |
-| nyt | 0 | 0 | 20 | 44 |
+| nyt | 0 | 0 | 21 | 45 |
 | supercluster | 1 | 1 | 62 | 62 |
 
 # Shown Order
@@ -6771,3 +6771,4 @@
 - **Oct 14, 11:35 AM** - Announcing the finalists for the 2025 SpaceNews Icon Awards (spacenews)
 - **Oct 14, 11:54 AM** - Space Pioneer raises $350 million as China’s commercial launch boom accelerates (spacenews)
 - **Oct 14, 12:08 PM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
+- **Oct 14, 12:21 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
