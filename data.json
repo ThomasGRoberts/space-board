@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-14T00:02:16.749173+00:00",
-    "trigger_count": 0,
-    "current_item_id": "b4fa5167b536af8b3aa9516a9232b0aa",
+    "trigger_count": 1,
+    "current_item_id": "415c1c02112466f2a5c9eafb89f3128b",
     "data": [
         {
             "id": "7d721bd0cc18a6fb15209987ba77e1e3",
@@ -12188,17 +12188,17 @@
             ]
         },
         {
-            "id": "b4fa5167b536af8b3aa9516a9232b0aa",
+            "id": "415c1c02112466f2a5c9eafb89f3128b",
             "source": "supercluster",
-            "text": "SpaceX Will Launch Project Kuiper Internet Satellites for Amazon",
-            "source_link": "https://www.supercluster.com/launches/project-kuiper-kf-031",
+            "text": "Rocket Lab Will Launch a Satellite for Synspective",
+            "source_link": "https://www.supercluster.com/launches/owl-new-world",
             "shown": true,
             "type": "launch",
-            "target_datetime": "2025-10-14T01:58:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-10-14T02:55:56.828638Z",
+            "target_datetime": "2025-10-14T16:30:00.000Z",
+            "time_remaining": "0d 13h 31m",
+            "fetched_datetime": "2025-10-14T02:58:43.740920Z",
             "shown_at": [
-                "2025-10-14T02:55:57.723502Z"
+                "2025-10-14T02:58:44.741856Z"
             ]
         }
     ]
