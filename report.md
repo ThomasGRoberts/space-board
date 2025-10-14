@@ -5,7 +5,7 @@
 | spacenews | 9 | 13 | 28 | 54 |
 | breaking_defense | 0 | 0 | 20 | 44 |
 | nyt | 0 | 0 | 20 | 44 |
-| supercluster | 1 | 1 | 69 | 69 |
+| supercluster | 1 | 1 | 70 | 70 |
 
 # Shown Order
 
@@ -6784,3 +6784,4 @@
 - **Oct 14, 01:25 PM** - Space Force taps Muon for 3 prototype weather satellites (breaking_defense)
 - **Oct 14, 01:41 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
 - **Oct 14, 01:55 PM** - Impulse Space announces lunar lander plans (spacenews)
+- **Oct 14, 02:11 PM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
