@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 8 | 27 | 52 |
+| spacenews | 7 | 8 | 26 | 52 |
 | breaking_defense | 0 | 0 | 21 | 45 |
 | nyt | 0 | 0 | 22 | 46 |
 | supercluster | 1 | 1 | 1 | 1 |
@@ -6681,4 +6681,4 @@
 - **Oct 14, 01:13 AM** - Defense to ‘anchor’ exploding satellite market over next decade: NovaSpace (breaking_defense)
 - **Oct 14, 01:43 AM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
 - **Oct 14, 01:57 AM** - Senators spar over plans to move shuttle Discovery (spacenews)
-- **Oct 14, 02:21 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Oct 14, 02:23 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
