@@ -5,7 +5,7 @@
 | spacenews | 8 | 13 | 27 | 54 |
 | breaking_defense | 0 | 0 | 20 | 44 |
 | nyt | 0 | 0 | 21 | 44 |
-| supercluster | 1 | 1 | 76 | 76 |
+| supercluster | 1 | 1 | 77 | 77 |
 
 # Shown Order
 
@@ -6794,3 +6794,4 @@
 - **Oct 14, 02:27 PM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
 - **Oct 14, 02:41 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
 - **Oct 14, 02:57 PM** - Impulse Space announces lunar lander plans (spacenews)
+- **Oct 14, 03:11 PM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
