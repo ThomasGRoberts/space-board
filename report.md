@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 13 | 26 | 53 |
+| spacenews | 8 | 13 | 27 | 54 |
 | breaking_defense | 0 | 0 | 21 | 44 |
 | nyt | 0 | 0 | 21 | 44 |
 | supercluster | 1 | 1 | 83 | 83 |
@@ -6803,3 +6803,4 @@
 - **Oct 14, 03:23 PM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
 - **Oct 14, 03:25 PM** - Defense to ‘anchor’ exploding satellite market over next decade: NovaSpace (breaking_defense)
 - **Oct 14, 03:39 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
+- **Oct 14, 03:53 PM** - Momentus wins two NASA contracts to fly tech demo payloads (spacenews)
