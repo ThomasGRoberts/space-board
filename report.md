@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 7 | 26 | 51 |
+| spacenews | 6 | 7 | 25 | 51 |
 | breaking_defense | 0 | 0 | 22 | 46 |
 | nyt | 0 | 0 | 22 | 46 |
-| supercluster | 1 | 1 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -6675,3 +6675,4 @@
 - **Oct 13, 10:27 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
 - **Oct 13, 10:55 PM** - JAXA to launch tech demo satellites on Electron rockets (spacenews)
 - **Oct 13, 11:12 PM** - Space Force taps Muon for 3 prototype weather satellites (breaking_defense)
+- **Oct 14, 12:23 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
