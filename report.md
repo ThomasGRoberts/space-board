@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 8 | 26 | 51 |
-| breaking_defense | 0 | 0 | 21 | 45 |
+| breaking_defense | 0 | 0 | 21 | 44 |
 | nyt | 0 | 0 | 21 | 45 |
-| supercluster | 1 | 1 | 43 | 43 |
+| supercluster | 1 | 1 | 44 | 44 |
 
 # Shown Order
 
@@ -6742,3 +6742,4 @@
 - **Oct 14, 08:49 AM** - New Zealand charts continued growth of its space industry (spacenews)
 - **Oct 14, 09:05 AM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
 - **Oct 14, 09:07 AM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
+- **Oct 14, 09:09 AM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
