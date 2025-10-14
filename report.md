@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 15 | 26 | 53 |
+| spacenews | 9 | 15 | 27 | 54 |
 | breaking_defense | 0 | 0 | 19 | 42 |
 | nyt | 0 | 0 | 19 | 42 |
 | supercluster | 1 | 1 | 24 | 24 |
@@ -6755,3 +6755,4 @@
 - **Oct 14, 08:31 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 14, 08:33 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 14, 08:35 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
+- **Oct 14, 08:37 PM** - Huge commercial Chinese solid rocket launches 3 satellites from barge in the Yellow Sea (spacenews)
