@@ -5,7 +5,7 @@
 | spacenews | 9 | 13 | 28 | 54 |
 | breaking_defense | 0 | 0 | 20 | 44 |
 | nyt | 0 | 0 | 20 | 44 |
-| supercluster | 1 | 1 | 70 | 70 |
+| supercluster | 1 | 1 | 71 | 71 |
 
 # Shown Order
 
@@ -6785,3 +6785,4 @@
 - **Oct 14, 01:41 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
 - **Oct 14, 01:55 PM** - Impulse Space announces lunar lander plans (spacenews)
 - **Oct 14, 02:11 PM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
+- **Oct 14, 02:13 PM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
