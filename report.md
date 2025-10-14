@@ -5,7 +5,7 @@
 | spacenews | 7 | 8 | 26 | 51 |
 | breaking_defense | 0 | 0 | 21 | 45 |
 | nyt | 0 | 0 | 21 | 45 |
-| supercluster | 1 | 1 | 27 | 27 |
+| supercluster | 1 | 1 | 28 | 28 |
 
 # Shown Order
 
@@ -6720,3 +6720,4 @@
 - **Oct 14, 06:07 AM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
 - **Oct 14, 06:21 AM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
 - **Oct 14, 06:39 AM** - Momentus wins two NASA contracts to fly tech demo payloads (spacenews)
+- **Oct 14, 06:53 AM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
