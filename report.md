@@ -5,7 +5,7 @@
 | spacenews | 9 | 14 | 26 | 53 |
 | breaking_defense | 0 | 0 | 19 | 42 |
 | nyt | 0 | 0 | 19 | 43 |
-| supercluster | 1 | 1 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -6722,3 +6722,4 @@
 - **Oct 14, 03:39 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
 - **Oct 14, 03:53 PM** - Momentus wins two NASA contracts to fly tech demo payloads (spacenews)
 - **Oct 14, 04:25 PM** - K2 Space announces plans for three-orbit demonstration mission (spacenews)
+- **Oct 14, 05:33 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)

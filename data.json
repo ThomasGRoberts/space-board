@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-14T00:02:16.749173+00:00",
-    "trigger_count": 3,
-    "current_item_id": "415c1c02112466f2a5c9eafb89f3128b",
+    "trigger_count": 4,
+    "current_item_id": "a64e1add1ac5080b8c0db49a0715367c",
     "data": [
         {
             "id": "7d721bd0cc18a6fb15209987ba77e1e3",
@@ -12295,15 +12295,18 @@
             ]
         },
         {
-            "id": "415c1c02112466f2a5c9eafb89f3128b",
+            "id": "a64e1add1ac5080b8c0db49a0715367c",
             "source": "supercluster",
-            "text": "Rocket Lab Will Launch a Satellite for Synspective",
-            "source_link": "https://www.supercluster.com/launches/owl-new-world",
-            "shown": false,
+            "text": "SpaceX Will Launch Military Transport Satellites",
+            "source_link": "https://www.supercluster.com/launches/tranche-1-transport-layer-c",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-10-14T16:33:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-10-14T17:31:54.877904Z"
+            "target_datetime": "2025-10-14T23:12:00.000Z",
+            "time_remaining": "0d 05h 38m",
+            "fetched_datetime": "2025-10-14T17:33:30.265097Z",
+            "shown_at": [
+                "2025-10-14T17:33:30.796269Z"
+            ]
         }
     ]
 }
