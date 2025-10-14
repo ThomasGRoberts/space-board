@@ -6681,4 +6681,4 @@
 - **Oct 14, 01:13 AM** - Defense to ‘anchor’ exploding satellite market over next decade: NovaSpace (breaking_defense)
 - **Oct 14, 01:43 AM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
 - **Oct 14, 01:57 AM** - Senators spar over plans to move shuttle Discovery (spacenews)
-- **Oct 14, 02:49 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
+- **Oct 14, 02:52 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
