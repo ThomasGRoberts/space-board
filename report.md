@@ -5,7 +5,7 @@
 | spacenews | 7 | 8 | 26 | 51 |
 | breaking_defense | 0 | 0 | 21 | 44 |
 | nyt | 0 | 0 | 21 | 45 |
-| supercluster | 1 | 1 | 36 | 36 |
+| supercluster | 1 | 1 | 37 | 37 |
 
 # Shown Order
 
@@ -6732,3 +6732,4 @@
 - **Oct 14, 07:37 AM** - Space Force sets up ‘working capital fund’ for commercial space services (spacenews)
 - **Oct 14, 07:51 AM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
 - **Oct 14, 08:04 AM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
+- **Oct 14, 08:08 AM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
