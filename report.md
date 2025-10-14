@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 14 | 26 | 53 |
+| spacenews | 10 | 15 | 27 | 54 |
 | breaking_defense | 0 | 0 | 19 | 42 |
 | nyt | 0 | 0 | 19 | 43 |
 | supercluster | 1 | 1 | 3 | 3 |
@@ -6725,3 +6725,4 @@
 - **Oct 14, 05:33 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 14, 05:35 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 14, 05:37 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
+- **Oct 14, 05:39 PM** - Viasat and Space42’s D2D joint venture finds first mobile partner in UAE (spacenews)
