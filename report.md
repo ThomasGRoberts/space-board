@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 8 | 26 | 51 |
 | breaking_defense | 0 | 0 | 21 | 45 |
-| nyt | 0 | 0 | 21 | 45 |
+| nyt | 0 | 0 | 22 | 46 |
 | supercluster | 1 | 1 | 27 | 27 |
 
 # Shown Order
@@ -6718,3 +6718,4 @@
 - **Oct 14, 06:02 AM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
 - **Oct 14, 06:05 AM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
 - **Oct 14, 06:07 AM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
+- **Oct 14, 06:21 AM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
