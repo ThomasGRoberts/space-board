@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-14T00:02:16.749173+00:00",
-    "trigger_count": 6,
-    "current_item_id": "415c1c02112466f2a5c9eafb89f3128b",
+    "trigger_count": 0,
+    "current_item_id": "5ce391afae8abaff07efa4cd1f56a265",
     "data": [
         {
             "id": "7d721bd0cc18a6fb15209987ba77e1e3",
@@ -12383,6 +12383,18 @@
             "shown_at": [
                 "2025-10-14T13:55:56.212574Z",
                 "2025-10-14T14:57:55.814182Z"
+            ]
+        },
+        {
+            "id": "5ce391afae8abaff07efa4cd1f56a265",
+            "source": "spacenews",
+            "text": "K2 Space announces plans for three-orbit demonstration mission",
+            "source_link": "https://spacenews.com/k2-space-announces-plans-for-three-orbit-demonstration-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-14T16:25:49.694153Z",
+            "shown_at": [
+                "2025-10-14T16:25:50.349754Z"
             ]
         }
     ]

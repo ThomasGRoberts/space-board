@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 13 | 27 | 54 |
+| spacenews | 9 | 14 | 28 | 55 |
 | breaking_defense | 0 | 0 | 20 | 43 |
 | nyt | 0 | 0 | 20 | 44 |
 | supercluster | 1 | 1 | 90 | 90 |
@@ -6811,3 +6811,4 @@
 - **Oct 14, 04:19 PM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
 - **Oct 14, 04:21 PM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
 - **Oct 14, 04:23 PM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
+- **Oct 14, 04:25 PM** - K2 Space announces plans for three-orbit demonstration mission (spacenews)
