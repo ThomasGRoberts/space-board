@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-14T00:02:16.749173+00:00",
-    "trigger_count": 6,
-    "current_item_id": "30bcb385c1fc05c58e7d871d8658cf24",
+    "trigger_count": 0,
+    "current_item_id": "298e2f435c179a292dd2086739bb223e",
     "data": [
         {
             "id": "7d721bd0cc18a6fb15209987ba77e1e3",
@@ -12308,6 +12308,18 @@
             "fetched_datetime": "2025-10-14T11:20:06.605718Z",
             "shown_at": [
                 "2025-10-14T11:35:53.422888Z"
+            ]
+        },
+        {
+            "id": "298e2f435c179a292dd2086739bb223e",
+            "source": "spacenews",
+            "text": "Space Pioneer raises $350 million as China’s commercial launch boom accelerates",
+            "source_link": "https://spacenews.com/space-pioneer-raises-350-million-as-chinas-commercial-launch-boom-accelerates/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-14T11:54:04.032997Z",
+            "shown_at": [
+                "2025-10-14T11:54:05.502873Z"
             ]
         }
     ]
