@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 15 | 26 | 53 |
 | breaking_defense | 0 | 0 | 19 | 42 |
-| nyt | 0 | 0 | 20 | 43 |
-| supercluster | 1 | 1 | 24 | 24 |
+| nyt | 0 | 0 | 19 | 43 |
+| supercluster | 1 | 1 | 25 | 25 |
 
 # Shown Order
 
@@ -6758,3 +6758,4 @@
 - **Oct 14, 08:37 PM** - Huge commercial Chinese solid rocket launches 3 satellites from barge in the Yellow Sea (spacenews)
 - **Oct 14, 08:51 PM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
 - **Oct 14, 09:05 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
+- **Oct 14, 09:21 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
