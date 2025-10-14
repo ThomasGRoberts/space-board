@@ -5,7 +5,7 @@
 | spacenews | 7 | 8 | 26 | 51 |
 | breaking_defense | 0 | 0 | 21 | 45 |
 | nyt | 0 | 0 | 21 | 45 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -6683,3 +6683,4 @@
 - **Oct 14, 01:57 AM** - Senators spar over plans to move shuttle Discovery (spacenews)
 - **Oct 14, 02:58 AM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
 - **Oct 14, 03:01 AM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
+- **Oct 14, 03:03 AM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
