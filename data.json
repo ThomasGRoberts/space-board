@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-14T00:02:16.749173+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1a072af33152ccf74692ef830e71d188",
+    "trigger_count": 0,
+    "current_item_id": "076b8602802e083f2be53e9b9e78dce8",
     "data": [
         {
             "id": "7d721bd0cc18a6fb15209987ba77e1e3",
@@ -12338,6 +12338,18 @@
                 "2025-10-14T23:15:51.512729Z",
                 "2025-10-14T23:18:00.766565Z",
                 "2025-10-14T23:19:33.308492Z"
+            ]
+        },
+        {
+            "id": "076b8602802e083f2be53e9b9e78dce8",
+            "source": "spacenews",
+            "text": "Rocket Lab launches seventh Synspective radar imaging satellite",
+            "source_link": "https://spacenews.com/rocket-lab-launches-seventh-synspective-radar-imaging-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-14T23:35:48.898836Z",
+            "shown_at": [
+                "2025-10-14T23:35:49.455479Z"
             ]
         }
     ]
