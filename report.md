@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 12 | 27 | 53 |
+| spacenews | 9 | 13 | 28 | 54 |
 | breaking_defense | 0 | 0 | 20 | 44 |
 | nyt | 0 | 0 | 21 | 44 |
 | supercluster | 1 | 1 | 69 | 69 |
@@ -6783,3 +6783,4 @@
 - **Oct 14, 01:08 PM** - The Mars moment: Why now is the time to build the future  (spacenews)
 - **Oct 14, 01:25 PM** - Space Force taps Muon for 3 prototype weather satellites (breaking_defense)
 - **Oct 14, 01:41 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
+- **Oct 14, 01:55 PM** - Impulse Space announces lunar lander plans (spacenews)
