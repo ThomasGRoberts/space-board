@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 10 | 26 | 51 |
+| spacenews | 9 | 10 | 27 | 52 |
 | breaking_defense | 0 | 0 | 20 | 44 |
 | nyt | 0 | 0 | 21 | 45 |
 | supercluster | 1 | 1 | 62 | 62 |
@@ -6768,3 +6768,4 @@
 - **Oct 14, 11:15 AM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
 - **Oct 14, 11:17 AM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
 - **Oct 14, 11:20 AM** - SmallSat Education Conference Aerospace Education Event for Educators, Parents, and Students (Middle School, High School, College) (spacenews)
+- **Oct 14, 11:35 AM** - Announcing the finalists for the 2025 SpaceNews Icon Awards (spacenews)

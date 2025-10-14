@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-14T00:02:16.749173+00:00",
-    "trigger_count": 6,
-    "current_item_id": "49a10d4953d72f907296dbc14f03a7c7",
+    "trigger_count": 0,
+    "current_item_id": "30bcb385c1fc05c58e7d871d8658cf24",
     "data": [
         {
             "id": "7d721bd0cc18a6fb15209987ba77e1e3",
@@ -12303,9 +12303,12 @@
             "source": "spacenews",
             "text": "Announcing the finalists for the 2025 SpaceNews Icon Awards",
             "source_link": "https://spacenews.com/announcing-the-finalists-for-the-2025-spacenews-icon-awards/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-10-14T11:20:06.605718Z"
+            "fetched_datetime": "2025-10-14T11:20:06.605718Z",
+            "shown_at": [
+                "2025-10-14T11:35:53.422888Z"
+            ]
         }
     ]
 }
