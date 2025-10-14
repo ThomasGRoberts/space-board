@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 13 | 28 | 54 |
+| spacenews | 9 | 13 | 27 | 54 |
 | breaking_defense | 0 | 0 | 20 | 44 |
 | nyt | 0 | 0 | 20 | 44 |
-| supercluster | 1 | 1 | 71 | 71 |
+| supercluster | 1 | 1 | 72 | 72 |
 
 # Shown Order
 
@@ -6786,3 +6786,4 @@
 - **Oct 14, 01:55 PM** - Impulse Space announces lunar lander plans (spacenews)
 - **Oct 14, 02:11 PM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
 - **Oct 14, 02:13 PM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
+- **Oct 14, 02:16 PM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
