@@ -5,7 +5,6 @@
 | spacenews | 7 | 8 | 27 | 52 |
 | breaking_defense | 0 | 0 | 22 | 46 |
 | nyt | 0 | 0 | 22 | 46 |
-| supercluster | 1 | 1 | 10 | 10 |
 
 # Shown Order
 
@@ -6675,19 +6674,9 @@
 - **Oct 13, 10:27 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
 - **Oct 13, 10:55 PM** - JAXA to launch tech demo satellites on Electron rockets (spacenews)
 - **Oct 13, 11:12 PM** - Space Force taps Muon for 3 prototype weather satellites (breaking_defense)
-- **Oct 14, 12:23 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Oct 14, 12:25 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Oct 14, 12:27 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 14, 12:29 AM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
 - **Oct 14, 12:44 AM** - SpaceX prepares for next Starship test flight (spacenews)
 - **Oct 14, 12:57 AM** - Starship successfully completes 11th flight test (spacenews)
 - **Oct 14, 01:13 AM** - Defense to ‘anchor’ exploding satellite market over next decade: NovaSpace (breaking_defense)
-- **Oct 14, 01:29 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Oct 14, 01:31 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Oct 14, 01:33 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Oct 14, 01:35 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Oct 14, 01:37 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Oct 14, 01:39 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
-- **Oct 14, 01:42 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 14, 01:43 AM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
 - **Oct 14, 01:57 AM** - Senators spar over plans to move shuttle Discovery (spacenews)
