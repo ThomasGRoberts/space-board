@@ -5,7 +5,7 @@
 | spacenews | 7 | 8 | 26 | 51 |
 | breaking_defense | 0 | 0 | 21 | 45 |
 | nyt | 0 | 0 | 21 | 45 |
-| supercluster | 1 | 1 | 56 | 56 |
+| supercluster | 1 | 1 | 57 | 57 |
 
 # Shown Order
 
@@ -6761,3 +6761,4 @@
 - **Oct 14, 10:35 AM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
 - **Oct 14, 10:49 AM** - New Zealand charts continued growth of its space industry (spacenews)
 - **Oct 14, 11:03 AM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
+- **Oct 14, 11:05 AM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
