@@ -5,7 +5,7 @@
 | spacenews | 9 | 15 | 26 | 53 |
 | breaking_defense | 0 | 0 | 19 | 42 |
 | nyt | 0 | 0 | 19 | 43 |
-| supercluster | 1 | 1 | 18 | 18 |
+| supercluster | 1 | 1 | 19 | 19 |
 
 # Shown Order
 
@@ -6749,3 +6749,4 @@
 - **Oct 14, 07:51 PM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
 - **Oct 14, 08:07 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
 - **Oct 14, 08:23 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
+- **Oct 14, 08:25 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
