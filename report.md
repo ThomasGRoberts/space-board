@@ -5,7 +5,7 @@
 | spacenews | 8 | 13 | 27 | 54 |
 | breaking_defense | 0 | 0 | 20 | 44 |
 | nyt | 0 | 0 | 21 | 44 |
-| supercluster | 1 | 1 | 85 | 85 |
+| supercluster | 1 | 1 | 86 | 86 |
 
 # Shown Order
 
@@ -6806,3 +6806,4 @@
 - **Oct 14, 03:53 PM** - Momentus wins two NASA contracts to fly tech demo payloads (spacenews)
 - **Oct 14, 04:11 PM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
 - **Oct 14, 04:13 PM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
+- **Oct 14, 04:15 PM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
