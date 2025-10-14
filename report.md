@@ -5,7 +5,7 @@
 | spacenews | 7 | 8 | 26 | 51 |
 | breaking_defense | 0 | 0 | 21 | 45 |
 | nyt | 0 | 0 | 21 | 45 |
-| supercluster | 1 | 1 | 13 | 13 |
+| supercluster | 1 | 1 | 14 | 14 |
 
 # Shown Order
 
@@ -6700,3 +6700,4 @@
 - **Oct 14, 04:07 AM** - Space Force taps Muon for 3 prototype weather satellites (breaking_defense)
 - **Oct 14, 04:22 AM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
 - **Oct 14, 04:35 AM** - Special economic zones for restoring American space dominance (spacenews)
+- **Oct 14, 04:50 AM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
