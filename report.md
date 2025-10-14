@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 13 | 27 | 54 |
 | breaking_defense | 0 | 0 | 20 | 44 |
-| nyt | 0 | 0 | 21 | 44 |
-| supercluster | 1 | 1 | 79 | 79 |
+| nyt | 0 | 0 | 20 | 44 |
+| supercluster | 1 | 1 | 80 | 80 |
 
 # Shown Order
 
@@ -6797,3 +6797,4 @@
 - **Oct 14, 03:11 PM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
 - **Oct 14, 03:13 PM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
 - **Oct 14, 03:15 PM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
+- **Oct 14, 03:17 PM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
