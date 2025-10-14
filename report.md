@@ -5,7 +5,7 @@
 | spacenews | 9 | 11 | 27 | 52 |
 | breaking_defense | 0 | 0 | 20 | 44 |
 | nyt | 0 | 0 | 21 | 45 |
-| supercluster | 1 | 1 | 62 | 62 |
+| supercluster | 1 | 1 | 63 | 63 |
 
 # Shown Order
 
@@ -6772,3 +6772,4 @@
 - **Oct 14, 11:54 AM** - Space Pioneer raises $350 million as China’s commercial launch boom accelerates (spacenews)
 - **Oct 14, 12:08 PM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
 - **Oct 14, 12:21 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
+- **Oct 14, 12:35 PM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
