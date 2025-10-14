@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 7 | 26 | 51 |
+| spacenews | 7 | 8 | 27 | 52 |
 | breaking_defense | 0 | 0 | 22 | 46 |
 | nyt | 0 | 0 | 22 | 46 |
 | supercluster | 1 | 1 | 3 | 3 |
@@ -6680,3 +6680,4 @@
 - **Oct 14, 12:27 AM** - SpaceX Will Launch Project Kuiper Internet Satellites for Amazon (supercluster)
 - **Oct 14, 12:29 AM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
 - **Oct 14, 12:44 AM** - SpaceX prepares for next Starship test flight (spacenews)
+- **Oct 14, 12:57 AM** - Starship successfully completes 11th flight test (spacenews)
