@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 11 | 27 | 53 |
+| spacenews | 9 | 12 | 28 | 54 |
 | breaking_defense | 0 | 0 | 20 | 44 |
 | nyt | 0 | 0 | 20 | 44 |
 | supercluster | 1 | 1 | 69 | 69 |
@@ -6780,3 +6780,4 @@
 - **Oct 14, 12:45 PM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
 - **Oct 14, 12:47 PM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
 - **Oct 14, 12:49 PM** - Space Force taps Muon’s wildfire monitoring satellites for weather imaging (spacenews)
+- **Oct 14, 01:08 PM** - The Mars moment: Why now is the time to build the future  (spacenews)

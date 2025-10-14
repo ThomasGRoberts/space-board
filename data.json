@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-14T00:02:16.749173+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1fc0c86f1f3a3eabb1e56408d0fef002",
+    "trigger_count": 0,
+    "current_item_id": "5b2aa8a9c454ad1ffbc55dd22e5a7707",
     "data": [
         {
             "id": "7d721bd0cc18a6fb15209987ba77e1e3",
@@ -12330,6 +12330,18 @@
             "fetched_datetime": "2025-10-14T11:54:04.032997Z",
             "shown_at": [
                 "2025-10-14T11:54:05.502873Z"
+            ]
+        },
+        {
+            "id": "5b2aa8a9c454ad1ffbc55dd22e5a7707",
+            "source": "spacenews",
+            "text": "The Mars moment: Why now is the time to build the future ",
+            "source_link": "https://spacenews.com/the-mars-moment-why-now-is-the-time-to-build-the-future/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-14T13:08:05.216659Z",
+            "shown_at": [
+                "2025-10-14T13:08:06.133886Z"
             ]
         }
     ]
