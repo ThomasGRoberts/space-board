@@ -5,7 +5,7 @@
 | spacenews | 9 | 14 | 27 | 54 |
 | breaking_defense | 0 | 0 | 20 | 43 |
 | nyt | 0 | 0 | 20 | 44 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 0 | 0 |
 
 # Shown Order
 
@@ -6722,4 +6722,3 @@
 - **Oct 14, 03:39 PM** - Mars Orbiter Captures Rare Images of Interstellar Comet 3I/ATLAS (nyt)
 - **Oct 14, 03:53 PM** - Momentus wins two NASA contracts to fly tech demo payloads (spacenews)
 - **Oct 14, 04:25 PM** - K2 Space announces plans for three-orbit demonstration mission (spacenews)
-- **Oct 14, 04:39 PM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
