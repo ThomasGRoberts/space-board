@@ -5,7 +5,7 @@
 | spacenews | 7 | 8 | 26 | 51 |
 | breaking_defense | 0 | 0 | 21 | 45 |
 | nyt | 0 | 0 | 21 | 45 |
-| supercluster | 1 | 1 | 50 | 50 |
+| supercluster | 1 | 1 | 51 | 51 |
 
 # Shown Order
 
@@ -6752,3 +6752,4 @@
 - **Oct 14, 09:50 AM** - Blue Origin flies sixth crewed New Shepard flight of 2025 (spacenews)
 - **Oct 14, 10:05 AM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
 - **Oct 14, 10:07 AM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
+- **Oct 14, 10:09 AM** - Rocket Lab Will Launch a Satellite for Synspective (supercluster)
