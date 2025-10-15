@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 30 | 56 |
-| supercluster | 1 | 1 | 60 | 60 |
+| supercluster | 1 | 1 | 61 | 61 |
 | breaking_defense | 0 | 0 | 24 | 45 |
 | nyt | 0 | 0 | 14 | 35 |
 
@@ -6757,3 +6757,4 @@
 - **Oct 15, 05:33 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 15, 05:35 AM** - The Mars moment: Why now is the time to build the future  (spacenews)
 - **Oct 15, 05:49 AM** - Space Force taps Muon for 3 prototype weather satellites (breaking_defense)
+- **Oct 15, 06:05 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
