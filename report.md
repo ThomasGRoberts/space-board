@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 28 | 54 |
-| supercluster | 1 | 1 | 18 | 18 |
+| supercluster | 1 | 1 | 19 | 19 |
 | breaking_defense | 0 | 0 | 21 | 43 |
 | nyt | 0 | 0 | 18 | 40 |
 
@@ -6703,3 +6703,4 @@
 - **Oct 15, 01:07 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 15, 01:09 AM** - Blue Origin flies sixth crewed New Shepard flight of 2025 (spacenews)
 - **Oct 15, 01:23 AM** - Space Force taps Muon for 3 prototype weather satellites (breaking_defense)
+- **Oct 15, 01:37 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
