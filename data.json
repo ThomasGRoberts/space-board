@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-15T00:02:08.595025+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a64e1add1ac5080b8c0db49a0715367c",
+    "trigger_count": 0,
+    "current_item_id": "07425ac6d60fbfbefa6af6d7a8de3050",
     "data": [
         {
             "id": "076b8602802e083f2be53e9b9e78dce8",
@@ -12313,6 +12313,18 @@
                 "2025-07-09T19:29:40.465146Z",
                 "2025-07-09T20:25:33.041808Z",
                 "2025-07-09T22:31:40.743271Z"
+            ]
+        },
+        {
+            "id": "07425ac6d60fbfbefa6af6d7a8de3050",
+            "source": "spacenews",
+            "text": "Polish space company Scanway Space secures U.S., European deals amid international expansion drive",
+            "source_link": "https://spacenews.com/polish-space-company-scanway-space-secures-u-s-european-deals-amid-international-expansion-drive/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-15T10:45:53.609042Z",
+            "shown_at": [
+                "2025-10-15T10:45:55.040019Z"
             ]
         }
     ]
