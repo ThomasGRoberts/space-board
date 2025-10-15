@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 16 | 32 | 58 |
-| supercluster | 1 | 1 | 110 | 110 |
+| supercluster | 1 | 1 | 111 | 111 |
 | breaking_defense | 0 | 0 | 26 | 47 |
 | nyt | 0 | 0 | 9 | 30 |
 
@@ -6821,3 +6821,4 @@
 - **Oct 15, 10:45 AM** - Polish space company Scanway Space secures U.S., European deals amid international expansion drive (spacenews)
 - **Oct 15, 11:00 AM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
 - **Oct 15, 11:13 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
+- **Oct 15, 11:15 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
