@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 30 | 56 |
 | supercluster | 1 | 1 | 53 | 53 |
-| breaking_defense | 0 | 0 | 23 | 44 |
+| breaking_defense | 0 | 0 | 24 | 45 |
 | nyt | 0 | 0 | 15 | 36 |
 
 # Shown Order
@@ -6747,3 +6747,4 @@
 - **Oct 15, 04:43 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 15, 04:45 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 15, 04:47 AM** - Special economic zones for restoring American space dominance (spacenews)
+- **Oct 15, 05:02 AM** - Space Force taps Muon for 3 prototype weather satellites (breaking_defense)
