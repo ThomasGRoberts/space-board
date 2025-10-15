@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-15T00:02:08.595025+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7cca173d4bb4f5355b3260591f507ec6",
+    "trigger_count": 0,
+    "current_item_id": "e1bedc625d5e7acb3fd7a6df824ce45e",
     "data": [
         {
             "id": "076b8602802e083f2be53e9b9e78dce8",
@@ -12363,6 +12363,18 @@
             "fetched_datetime": "2025-10-15T12:13:26.923212Z",
             "shown_at": [
                 "2025-10-15T12:13:27.674379Z"
+            ]
+        },
+        {
+            "id": "e1bedc625d5e7acb3fd7a6df824ce45e",
+            "source": "spacenews",
+            "text": "Beyond the downlink: Why Earth-independent AI is the next moat in space operations",
+            "source_link": "https://spacenews.com/beyond-the-downlink-why-earth-independent-ai-is-the-next-moat-in-space-operations/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-15T13:11:41.141299Z",
+            "shown_at": [
+                "2025-10-15T13:11:42.221634Z"
             ]
         }
     ]

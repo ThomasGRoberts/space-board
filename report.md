@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 15 | 30 | 58 |
+| spacenews | 7 | 16 | 31 | 59 |
 | supercluster | 1 | 1 | 130 | 130 |
 | breaking_defense | 0 | 0 | 27 | 47 |
 | nyt | 0 | 0 | 8 | 28 |
@@ -6846,3 +6846,4 @@
 - **Oct 15, 12:51 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 15, 12:53 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 15, 12:55 PM** - Momentus wins two NASA contracts to fly tech demo payloads (spacenews)
+- **Oct 15, 01:11 PM** - Beyond the downlink: Why Earth-independent AI is the next moat in space operations (spacenews)
