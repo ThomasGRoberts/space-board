@@ -1,9 +1,136 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-10-14T00:02:16.749173+00:00",
-    "trigger_count": 4,
+    "last_run_datetime": "2025-10-15T00:02:08.595025+00:00",
+    "trigger_count": 5,
     "current_item_id": "de20e96a02cf96a520905a7d22a0bc51",
     "data": [
+        {
+            "id": "076b8602802e083f2be53e9b9e78dce8",
+            "source": "spacenews",
+            "text": "Rocket Lab launches seventh Synspective radar imaging satellite",
+            "source_link": "https://spacenews.com/rocket-lab-launches-seventh-synspective-radar-imaging-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-14T23:35:48.898836Z",
+            "shown_at": [
+                "2025-10-14T23:35:49.455479Z"
+            ]
+        },
+        {
+            "id": "a64e1add1ac5080b8c0db49a0715367c",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Military Transport Satellites",
+            "source_link": "https://www.supercluster.com/launches/tranche-1-transport-layer-c",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-10-15T23:03:00.000Z",
+            "time_remaining": "0d 23h 43m",
+            "fetched_datetime": "2025-10-14T23:13:42.042247Z",
+            "shown_at": [
+                "2025-10-14T23:13:42.593898Z",
+                "2025-10-14T23:15:51.512729Z",
+                "2025-10-14T23:18:00.766565Z",
+                "2025-10-14T23:19:33.308492Z"
+            ]
+        },
+        {
+            "id": "e4039d9fe6648bce91a3fc4f204354b1",
+            "source": "spacenews",
+            "text": "Viasat and Space42’s D2D joint venture finds first mobile partner in UAE",
+            "source_link": "https://spacenews.com/viasat-and-space42s-d2d-joint-venture-finds-first-mobile-partner-in-uae/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-14T17:39:46.015972Z",
+            "shown_at": [
+                "2025-10-14T17:39:46.817402Z"
+            ]
+        },
+        {
+            "id": "5ce391afae8abaff07efa4cd1f56a265",
+            "source": "spacenews",
+            "text": "K2 Space announces plans for three-orbit demonstration mission",
+            "source_link": "https://spacenews.com/k2-space-announces-plans-for-three-orbit-demonstration-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-14T16:25:49.694153Z",
+            "shown_at": [
+                "2025-10-14T16:25:50.349754Z"
+            ]
+        },
+        {
+            "id": "097d1f2321cb2a2c6d3d36e3c29e835d",
+            "source": "spacenews",
+            "text": "Impulse Space announces lunar lander plans",
+            "source_link": "https://spacenews.com/impulse-space-announces-lunar-lander-plans/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-14T13:55:54.736180Z",
+            "shown_at": [
+                "2025-10-14T13:55:56.212574Z",
+                "2025-10-14T14:57:55.814182Z"
+            ]
+        },
+        {
+            "id": "5b2aa8a9c454ad1ffbc55dd22e5a7707",
+            "source": "spacenews",
+            "text": "The Mars moment: Why now is the time to build the future ",
+            "source_link": "https://spacenews.com/the-mars-moment-why-now-is-the-time-to-build-the-future/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-14T13:08:05.216659Z",
+            "shown_at": [
+                "2025-10-14T13:08:06.133886Z"
+            ]
+        },
+        {
+            "id": "298e2f435c179a292dd2086739bb223e",
+            "source": "spacenews",
+            "text": "Space Pioneer raises $350 million as China’s commercial launch boom accelerates",
+            "source_link": "https://spacenews.com/space-pioneer-raises-350-million-as-chinas-commercial-launch-boom-accelerates/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-14T11:54:04.032997Z",
+            "shown_at": [
+                "2025-10-14T11:54:05.502873Z"
+            ]
+        },
+        {
+            "id": "30bcb385c1fc05c58e7d871d8658cf24",
+            "source": "spacenews",
+            "text": "Announcing the finalists for the 2025 SpaceNews Icon Awards",
+            "source_link": "https://spacenews.com/announcing-the-finalists-for-the-2025-spacenews-icon-awards/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-14T11:20:06.605718Z",
+            "shown_at": [
+                "2025-10-14T11:35:53.422888Z"
+            ]
+        },
+        {
+            "id": "49a10d4953d72f907296dbc14f03a7c7",
+            "source": "spacenews",
+            "text": "SmallSat Education Conference Aerospace Education Event for Educators, Parents, and Students (Middle School, High School, College)",
+            "source_link": "https://spacenews.com/smallsat-education-conference-aerospace-education-event-for-educators-parents-and-students-middle-school-high-school-college/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-14T11:20:06.605664Z",
+            "shown_at": [
+                "2025-10-14T11:20:07.861630Z"
+            ]
+        },
+        {
+            "id": "50abd32b6eaaf7a7c262a5434e15d883",
+            "source": "spacenews",
+            "text": "Starship successfully completes 11th flight test",
+            "source_link": "https://spacenews.com/starship-successfully-completes-11th-flight-test/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-14T00:57:43.624487Z",
+            "shown_at": [
+                "2025-10-14T00:57:44.138006Z",
+                "2025-10-14T22:37:19.216317Z"
+            ]
+        },
         {
             "id": "7d721bd0cc18a6fb15209987ba77e1e3",
             "source": "spacenews",
@@ -12053,304 +12180,6 @@
                 "2025-07-09T19:29:40.465146Z",
                 "2025-07-09T20:25:33.041808Z",
                 "2025-07-09T22:31:40.743271Z"
-            ]
-        },
-        {
-            "id": "911ee155e8a49d725a45e78173eef1cf",
-            "source": "spacenews",
-            "text": "National Geospatial-Intelligence Agency announces new contract awards under ‘Luno’ program",
-            "source_link": "https://spacenews.com/national-geospatial-intelligence-agency-announces-new-contract-awards-under-luno-program/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-02T20:23:27.581123Z",
-            "shown_at": [
-                "2025-07-02T20:23:28.239170Z",
-                "2025-07-04T22:19:34.886312Z",
-                "2025-07-05T10:33:43.309771Z",
-                "2025-07-06T11:49:29.201948Z",
-                "2025-07-06T13:41:47.290470Z",
-                "2025-07-07T19:31:57.442851Z",
-                "2025-07-08T21:13:48.358686Z",
-                "2025-07-09T15:29:34.751596Z"
-            ]
-        },
-        {
-            "id": "68e0cb1f04dbde993f6a56cf3def9d94",
-            "source": "spacenews",
-            "text": "Defense Satellites to redefine Global Earth Observation Strategy",
-            "source_link": "https://spacenews.com/strategic-demand-for-sovereign-eo-satellites-to-fuel-182-6b-market-surge/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-02T17:11:38.573033Z",
-            "shown_at": [
-                "2025-07-02T17:11:39.412037Z",
-                "2025-07-04T11:03:46.363500Z",
-                "2025-07-05T03:59:47.277538Z",
-                "2025-07-05T19:07:38.190876Z",
-                "2025-07-07T07:37:42.640386Z",
-                "2025-07-07T13:45:38.206267Z"
-            ]
-        },
-        {
-            "id": "80110de2c2ff5576ac43aebed6abef25",
-            "source": "spacenews",
-            "text": "DARPA says decreasing launch costs, new analysis led it to cancel DRACO nuclear propulsion project",
-            "source_link": "https://spacenews.com/darpa-says-decreasing-launch-costs-new-analysis-led-it-to-cancel-draco-nuclear-propulsion-project/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-02T16:55:42.407727Z",
-            "shown_at": [
-                "2025-07-02T16:55:43.084698Z",
-                "2025-07-05T05:53:37.575390Z",
-                "2025-07-06T10:11:33.586551Z",
-                "2025-07-06T20:13:56.166867Z"
-            ]
-        },
-        {
-            "id": "2051afb3468cf3cd213e3178109ac5d2",
-            "source": "spacenews",
-            "text": "Strategic Demand for Sovereign EO Satellites to Fuel $182.6B Market Surge",
-            "source_link": "https://spacenews.com/strategic-demand-for-sovereign-eo-satellites-to-fuel-182-6b-market-surge/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-02T14:20:27.942107Z",
-            "shown_at": [
-                "2025-07-02T14:20:28.575147Z",
-                "2025-07-03T21:49:45.438425Z",
-                "2025-07-04T05:23:46.333228Z",
-                "2025-07-05T04:55:44.282086Z",
-                "2025-07-06T19:17:16.187052Z",
-                "2025-07-07T22:23:31.921478Z"
-            ]
-        },
-        {
-            "id": "788ece09c70781c4e8419c1558c97f46",
-            "source": "spacenews",
-            "text": "Space Force to fund development of Atomic-6 solar power for satellites",
-            "source_link": "https://spacenews.com/space-force-to-fund-development-of-atomic-6-solar-power-for-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-02T13:17:24.545126Z",
-            "shown_at": [
-                "2025-07-02T13:32:08.914558Z",
-                "2025-07-05T22:51:57.448762Z",
-                "2025-07-06T21:09:31.436260Z",
-                "2025-07-07T17:35:45.310093Z",
-                "2025-07-08T03:33:06.506221Z",
-                "2025-07-08T17:12:27.950281Z"
-            ]
-        },
-        {
-            "id": "19c536698e67a581ac047fa1f69af015",
-            "source": "spacenews",
-            "text": "This is not the time to cut space-enabled medical research",
-            "source_link": "https://spacenews.com/this-is-not-the-time-to-cut-space-enabled-medical-research/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-02T13:17:24.545058Z",
-            "shown_at": [
-                "2025-07-02T13:17:25.074168Z",
-                "2025-07-04T18:33:37.134121Z",
-                "2025-07-05T14:24:17.961026Z",
-                "2025-07-05T23:47:54.151368Z",
-                "2025-07-07T00:01:44.391749Z"
-            ]
-        },
-        {
-            "id": "3bc248f3ceaaac7d6a19b3ca73b6abe9",
-            "source": "spacenews",
-            "text": "Boeing ships more O3b mPower satellites with fixes SES might no longer need",
-            "source_link": "https://spacenews.com/boeing-ships-more-o3b-mpower-satellites-with-fixes-ses-might-not-need/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-02T12:49:29.270117Z",
-            "shown_at": [
-                "2025-07-02T12:49:29.910705Z",
-                "2025-07-03T19:13:27.504019Z",
-                "2025-07-05T02:07:40.953041Z",
-                "2025-07-05T20:03:04.483922Z",
-                "2025-07-06T03:33:42.327667Z",
-                "2025-07-06T15:33:30.960006Z",
-                "2025-07-07T23:19:41.418716Z",
-                "2025-07-08T05:27:18.941682Z",
-                "2025-07-09T12:03:55.000017Z"
-            ]
-        },
-        {
-            "id": "aaa278fdf36bdb179aee05e72dd35f47",
-            "source": "spacenews",
-            "text": "Falcon 9 launches European weather satellite",
-            "source_link": "https://spacenews.com/falcon-9-launches-european-weather-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-02T00:17:49.874313Z",
-            "shown_at": [
-                "2025-07-02T00:17:50.879775Z",
-                "2025-07-04T03:29:43.770841Z",
-                "2025-07-05T01:11:37.174111Z",
-                "2025-07-05T15:22:00.897739Z"
-            ]
-        },
-        {
-            "id": "efc5d342279b0b51726611e96bb1deea",
-            "source": "spacenews",
-            "text": "LeoLabs secures U.S. military funding for missile-tracking mobile radar",
-            "source_link": "https://spacenews.com/leolabs-secures-u-s-military-funding-for-missile-tracking-mobile-radar/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-01T23:07:44.737709Z",
-            "shown_at": [
-                "2025-07-01T23:07:45.946302Z",
-                "2025-07-06T01:39:44.529558Z",
-                "2025-07-06T06:23:07.873663Z",
-                "2025-07-06T09:13:46.168948Z",
-                "2025-07-08T12:47:40.020134Z"
-            ]
-        },
-        {
-            "id": "ed9dad23146ad7a41f94107cd52e0fdd",
-            "source": "spacenews",
-            "text": "CAPSTONE™ Celebrates Three Years of Groundbreaking Achievements in Lunar Navigation and Autonomy",
-            "source_link": "https://spacenews.com/capstone-celebrates-three-years-of-groundbreaking-achievements-in-lunar-navigation-and-autonomy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-01T22:39:29.728820Z",
-            "shown_at": [
-                "2025-07-01T22:39:30.278745Z",
-                "2025-07-03T17:05:41.223683Z",
-                "2025-07-03T23:45:35.102639Z",
-                "2025-07-04T13:51:14.967741Z",
-                "2025-07-06T04:31:46.375192Z",
-                "2025-07-07T12:47:36.899046Z",
-                "2025-07-08T02:09:34.041097Z",
-                "2025-07-08T15:11:38.286082Z"
-            ]
-        },
-        {
-            "id": "50abd32b6eaaf7a7c262a5434e15d883",
-            "source": "spacenews",
-            "text": "Starship successfully completes 11th flight test",
-            "source_link": "https://spacenews.com/starship-successfully-completes-11th-flight-test/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-14T00:57:43.624487Z",
-            "shown_at": [
-                "2025-10-14T00:57:44.138006Z",
-                "2025-10-14T22:37:19.216317Z"
-            ]
-        },
-        {
-            "id": "49a10d4953d72f907296dbc14f03a7c7",
-            "source": "spacenews",
-            "text": "SmallSat Education Conference Aerospace Education Event for Educators, Parents, and Students (Middle School, High School, College)",
-            "source_link": "https://spacenews.com/smallsat-education-conference-aerospace-education-event-for-educators-parents-and-students-middle-school-high-school-college/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-14T11:20:06.605664Z",
-            "shown_at": [
-                "2025-10-14T11:20:07.861630Z"
-            ]
-        },
-        {
-            "id": "30bcb385c1fc05c58e7d871d8658cf24",
-            "source": "spacenews",
-            "text": "Announcing the finalists for the 2025 SpaceNews Icon Awards",
-            "source_link": "https://spacenews.com/announcing-the-finalists-for-the-2025-spacenews-icon-awards/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-14T11:20:06.605718Z",
-            "shown_at": [
-                "2025-10-14T11:35:53.422888Z"
-            ]
-        },
-        {
-            "id": "298e2f435c179a292dd2086739bb223e",
-            "source": "spacenews",
-            "text": "Space Pioneer raises $350 million as China’s commercial launch boom accelerates",
-            "source_link": "https://spacenews.com/space-pioneer-raises-350-million-as-chinas-commercial-launch-boom-accelerates/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-14T11:54:04.032997Z",
-            "shown_at": [
-                "2025-10-14T11:54:05.502873Z"
-            ]
-        },
-        {
-            "id": "5b2aa8a9c454ad1ffbc55dd22e5a7707",
-            "source": "spacenews",
-            "text": "The Mars moment: Why now is the time to build the future ",
-            "source_link": "https://spacenews.com/the-mars-moment-why-now-is-the-time-to-build-the-future/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-14T13:08:05.216659Z",
-            "shown_at": [
-                "2025-10-14T13:08:06.133886Z"
-            ]
-        },
-        {
-            "id": "097d1f2321cb2a2c6d3d36e3c29e835d",
-            "source": "spacenews",
-            "text": "Impulse Space announces lunar lander plans",
-            "source_link": "https://spacenews.com/impulse-space-announces-lunar-lander-plans/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-14T13:55:54.736180Z",
-            "shown_at": [
-                "2025-10-14T13:55:56.212574Z",
-                "2025-10-14T14:57:55.814182Z"
-            ]
-        },
-        {
-            "id": "5ce391afae8abaff07efa4cd1f56a265",
-            "source": "spacenews",
-            "text": "K2 Space announces plans for three-orbit demonstration mission",
-            "source_link": "https://spacenews.com/k2-space-announces-plans-for-three-orbit-demonstration-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-14T16:25:49.694153Z",
-            "shown_at": [
-                "2025-10-14T16:25:50.349754Z"
-            ]
-        },
-        {
-            "id": "e4039d9fe6648bce91a3fc4f204354b1",
-            "source": "spacenews",
-            "text": "Viasat and Space42’s D2D joint venture finds first mobile partner in UAE",
-            "source_link": "https://spacenews.com/viasat-and-space42s-d2d-joint-venture-finds-first-mobile-partner-in-uae/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-14T17:39:46.015972Z",
-            "shown_at": [
-                "2025-10-14T17:39:46.817402Z"
-            ]
-        },
-        {
-            "id": "a64e1add1ac5080b8c0db49a0715367c",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Military Transport Satellites",
-            "source_link": "https://www.supercluster.com/launches/tranche-1-transport-layer-c",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-10-15T23:03:00.000Z",
-            "time_remaining": "0d 23h 43m",
-            "fetched_datetime": "2025-10-14T23:13:42.042247Z",
-            "shown_at": [
-                "2025-10-14T23:13:42.593898Z",
-                "2025-10-14T23:15:51.512729Z",
-                "2025-10-14T23:18:00.766565Z",
-                "2025-10-14T23:19:33.308492Z"
-            ]
-        },
-        {
-            "id": "076b8602802e083f2be53e9b9e78dce8",
-            "source": "spacenews",
-            "text": "Rocket Lab launches seventh Synspective radar imaging satellite",
-            "source_link": "https://spacenews.com/rocket-lab-launches-seventh-synspective-radar-imaging-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-14T23:35:48.898836Z",
-            "shown_at": [
-                "2025-10-14T23:35:49.455479Z"
             ]
         }
     ]
