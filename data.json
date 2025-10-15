@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-15T00:02:08.595025+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a64e1add1ac5080b8c0db49a0715367c",
+    "trigger_count": 0,
+    "current_item_id": "fb978f8ca53d5b655cb34a6bec51d3f0",
     "data": [
         {
             "id": "076b8602802e083f2be53e9b9e78dce8",
@@ -12342,6 +12342,18 @@
             "fetched_datetime": "2025-10-15T10:45:53.609042Z",
             "shown_at": [
                 "2025-10-15T10:45:55.040019Z"
+            ]
+        },
+        {
+            "id": "fb978f8ca53d5b655cb34a6bec51d3f0",
+            "source": "spacenews",
+            "text": "Beyond Gravity plans US push after fivefold boost in European solar mechanism output",
+            "source_link": "https://spacenews.com/beyond-gravity-plans-us-push-after-fivefold-boost-in-european-solar-mechanism-output/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-15T12:13:26.923212Z",
+            "shown_at": [
+                "2025-10-15T12:13:27.674379Z"
             ]
         }
     ]
