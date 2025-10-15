@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 16 | 28 | 55 |
-| supercluster | 1 | 1 | 4 | 4 |
+| supercluster | 1 | 1 | 5 | 5 |
 | breaking_defense | 0 | 0 | 20 | 42 |
 | nyt | 0 | 0 | 19 | 41 |
 
@@ -6685,3 +6685,4 @@
 - **Oct 14, 11:21 PM** - Planet announces new line of satellites for daily Earth imaging (spacenews)
 - **Oct 14, 11:35 PM** - Rocket Lab launches seventh Synspective radar imaging satellite (spacenews)
 - **Oct 14, 11:49 PM** - Space Force taps Muon for 3 prototype weather satellites (breaking_defense)
+- **Oct 15, 12:07 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
