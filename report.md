@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 28 | 55 |
-| supercluster | 1 | 1 | 25 | 25 |
+| spacenews | 8 | 15 | 28 | 54 |
+| supercluster | 1 | 1 | 26 | 26 |
 | breaking_defense | 0 | 0 | 22 | 43 |
 | nyt | 0 | 0 | 17 | 39 |
 
@@ -6712,3 +6712,4 @@
 - **Oct 15, 01:49 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 15, 01:51 AM** - Impulse Space announces lunar lander plans (spacenews)
 - **Oct 15, 02:07 AM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
+- **Oct 15, 02:24 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
