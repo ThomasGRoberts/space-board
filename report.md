@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 31 | 57 |
 | supercluster | 1 | 1 | 81 | 81 |
-| breaking_defense | 0 | 0 | 24 | 45 |
+| breaking_defense | 0 | 0 | 25 | 46 |
 | nyt | 0 | 0 | 12 | 33 |
 
 # Shown Order
@@ -6783,3 +6783,4 @@
 - **Oct 15, 07:45 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 15, 07:47 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 15, 07:49 AM** - Critical Software Invests in Aerospacelab (spacenews)
+- **Oct 15, 08:03 AM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
