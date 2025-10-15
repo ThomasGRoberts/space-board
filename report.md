@@ -5,6 +5,7 @@
 | spacenews | 4 | 12 | 31 | 57 |
 | breaking_defense | 1 | 1 | 30 | 49 |
 | nyt | 1 | 1 | 6 | 25 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -6744,3 +6745,4 @@
 - **Oct 15, 10:07 PM** - Special economic zones for restoring American space dominance (spacenews)
 - **Oct 15, 10:41 PM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 15, 10:58 PM** - They’re Ready to Go to Mars (nyt)
+- **Oct 15, 11:15 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
