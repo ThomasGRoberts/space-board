@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 16 | 31 | 58 |
 | supercluster | 1 | 1 | 123 | 123 |
-| breaking_defense | 0 | 0 | 26 | 47 |
+| breaking_defense | 0 | 0 | 27 | 48 |
 | nyt | 0 | 0 | 8 | 29 |
 
 # Shown Order
@@ -6837,3 +6837,4 @@
 - **Oct 15, 12:09 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 15, 12:11 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 15, 12:13 PM** - Beyond Gravity plans US push after fivefold boost in European solar mechanism output (spacenews)
+- **Oct 15, 12:27 PM** - Space Force taps Muon for 3 prototype weather satellites (breaking_defense)
