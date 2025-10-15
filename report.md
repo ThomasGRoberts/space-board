@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 14 | 32 | 59 |
+| spacenews | 5 | 14 | 31 | 59 |
 | supercluster | 1 | 1 | 158 | 158 |
-| breaking_defense | 0 | 0 | 28 | 48 |
+| breaking_defense | 0 | 0 | 29 | 49 |
 | nyt | 0 | 0 | 5 | 25 |
 
 # Shown Order
@@ -6883,3 +6883,4 @@
 - **Oct 15, 04:07 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 15, 04:09 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 15, 04:11 PM** - JAXA to launch tech demo satellites on Electron rockets (spacenews)
+- **Oct 15, 04:25 PM** - Space Force taps Muon for 3 prototype weather satellites (breaking_defense)
