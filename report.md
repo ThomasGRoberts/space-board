@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 16 | 31 | 58 |
-| supercluster | 1 | 1 | 124 | 124 |
+| spacenews | 7 | 15 | 31 | 57 |
+| supercluster | 1 | 1 | 125 | 125 |
 | breaking_defense | 0 | 0 | 27 | 47 |
 | nyt | 0 | 0 | 8 | 29 |
 
@@ -6839,3 +6839,4 @@
 - **Oct 15, 12:13 PM** - Beyond Gravity plans US push after fivefold boost in European solar mechanism output (spacenews)
 - **Oct 15, 12:27 PM** - Space Force taps Muon for 3 prototype weather satellites (breaking_defense)
 - **Oct 15, 12:41 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
+- **Oct 15, 12:43 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
