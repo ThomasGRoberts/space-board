@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 14 | 31 | 58 |
+| spacenews | 4 | 14 | 32 | 59 |
 | supercluster | 1 | 1 | 172 | 172 |
 | breaking_defense | 1 | 1 | 30 | 49 |
-| nyt | 1 | 1 | 5 | 25 |
+| nyt | 1 | 1 | 5 | 24 |
 
 # Shown Order
 
@@ -6902,3 +6902,4 @@
 - **Oct 15, 05:37 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 15, 05:39 PM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 15, 05:53 PM** - They’re Ready to Go to Mars (nyt)
+- **Oct 15, 06:09 PM** - New Zealand charts continued growth of its space industry (spacenews)
