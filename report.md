@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 27 | 54 |
+| spacenews | 8 | 15 | 28 | 55 |
 | supercluster | 1 | 1 | 18 | 18 |
 | breaking_defense | 0 | 0 | 21 | 42 |
 | nyt | 0 | 0 | 18 | 40 |
@@ -6701,3 +6701,4 @@
 - **Oct 15, 01:02 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 15, 01:05 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 15, 01:07 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
+- **Oct 15, 01:09 AM** - Blue Origin flies sixth crewed New Shepard flight of 2025 (spacenews)
