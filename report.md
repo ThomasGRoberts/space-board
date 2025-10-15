@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 32 | 58 |
 | supercluster | 1 | 1 | 102 | 102 |
-| breaking_defense | 0 | 0 | 25 | 46 |
+| breaking_defense | 0 | 0 | 26 | 47 |
 | nyt | 0 | 0 | 10 | 31 |
 
 # Shown Order
@@ -6810,3 +6810,4 @@
 - **Oct 15, 09:55 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 15, 09:57 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 15, 09:59 AM** - Critical Software Invests in Aerospacelab (spacenews)
+- **Oct 15, 10:15 AM** - Space Force taps Muon for 3 prototype weather satellites (breaking_defense)
