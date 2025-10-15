@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 14 | 31 | 58 |
-| supercluster | 1 | 1 | 151 | 151 |
+| supercluster | 1 | 1 | 152 | 152 |
 | breaking_defense | 0 | 0 | 28 | 49 |
 | nyt | 0 | 0 | 5 | 26 |
 
@@ -6875,3 +6875,4 @@
 - **Oct 15, 03:25 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 15, 03:27 PM** - Momentus and Solstar to offer communications, transportation and infrastructure in low-Earth orbit (spacenews)
 - **Oct 15, 03:41 PM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
+- **Oct 15, 03:55 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
