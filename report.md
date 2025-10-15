@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 31 | 57 |
 | supercluster | 1 | 1 | 74 | 74 |
-| breaking_defense | 0 | 0 | 23 | 44 |
+| breaking_defense | 0 | 0 | 24 | 45 |
 | nyt | 0 | 0 | 13 | 34 |
 
 # Shown Order
@@ -6774,3 +6774,4 @@
 - **Oct 15, 06:59 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 15, 07:02 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 15, 07:05 AM** - Space infrastructure investments surge to five-quarter high (spacenews)
+- **Oct 15, 07:19 AM** - Space Force taps Muon for 3 prototype weather satellites (breaking_defense)
