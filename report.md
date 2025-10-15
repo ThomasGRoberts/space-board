@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 30 | 56 |
-| supercluster | 1 | 1 | 55 | 55 |
+| supercluster | 1 | 1 | 56 | 56 |
 | breaking_defense | 0 | 0 | 23 | 44 |
-| nyt | 0 | 0 | 15 | 36 |
+| nyt | 0 | 0 | 14 | 36 |
 
 # Shown Order
 
@@ -6750,3 +6750,4 @@
 - **Oct 15, 05:02 AM** - Space Force taps Muon for 3 prototype weather satellites (breaking_defense)
 - **Oct 15, 05:19 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 15, 05:21 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
+- **Oct 15, 05:23 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
