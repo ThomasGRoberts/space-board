@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 12 | 31 | 57 |
+| spacenews | 4 | 12 | 32 | 58 |
 | supercluster | 1 | 1 | 200 | 200 |
-| breaking_defense | 1 | 1 | 30 | 50 |
+| breaking_defense | 1 | 1 | 30 | 49 |
 | nyt | 1 | 1 | 6 | 25 |
 
 # Shown Order
@@ -6942,3 +6942,4 @@
 - **Oct 15, 09:32 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 15, 09:34 PM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
 - **Oct 15, 09:50 PM** - They’re Ready to Go to Mars (nyt)
+- **Oct 15, 10:07 PM** - Special economic zones for restoring American space dominance (spacenews)
