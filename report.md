@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 15 | 31 | 58 |
 | supercluster | 1 | 1 | 137 | 137 |
-| breaking_defense | 0 | 0 | 27 | 47 |
+| breaking_defense | 0 | 0 | 28 | 48 |
 | nyt | 0 | 0 | 7 | 27 |
 
 # Shown Order
@@ -6856,3 +6856,4 @@
 - **Oct 15, 01:54 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 15, 01:55 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 15, 01:57 PM** - K2 Space announces plans for three-orbit demonstration mission (spacenews)
+- **Oct 15, 02:15 PM** - Space Force taps Muon for 3 prototype weather satellites (breaking_defense)
