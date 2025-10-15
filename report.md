@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 31 | 56 |
 | supercluster | 1 | 1 | 67 | 67 |
-| breaking_defense | 0 | 0 | 23 | 44 |
+| breaking_defense | 0 | 0 | 24 | 45 |
 | nyt | 0 | 0 | 13 | 35 |
 
 # Shown Order
@@ -6765,3 +6765,4 @@
 - **Oct 15, 06:16 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 15, 06:17 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 15, 06:19 AM** - Special economic zones for restoring American space dominance (spacenews)
+- **Oct 15, 06:35 AM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
