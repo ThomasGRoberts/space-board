@@ -5,7 +5,7 @@
 | spacenews | 4 | 13 | 31 | 58 |
 | supercluster | 1 | 1 | 193 | 193 |
 | breaking_defense | 1 | 1 | 31 | 50 |
-| nyt | 1 | 1 | 5 | 24 |
+| nyt | 1 | 1 | 6 | 25 |
 
 # Shown Order
 
@@ -6931,3 +6931,4 @@
 - **Oct 15, 08:32 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 15, 08:33 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 15, 08:35 PM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
+- **Oct 15, 08:49 PM** - They’re Ready to Go to Mars (nyt)
