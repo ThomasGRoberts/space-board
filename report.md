@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 14 | 31 | 58 |
-| supercluster | 1 | 1 | 146 | 146 |
+| supercluster | 1 | 1 | 147 | 147 |
 | breaking_defense | 0 | 0 | 28 | 48 |
-| nyt | 0 | 0 | 6 | 27 |
+| nyt | 0 | 0 | 6 | 26 |
 
 # Shown Order
 
@@ -6868,3 +6868,4 @@
 - **Oct 15, 02:57 PM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
 - **Oct 15, 03:12 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 15, 03:14 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
+- **Oct 15, 03:17 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
