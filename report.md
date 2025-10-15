@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 32 | 57 |
 | supercluster | 1 | 1 | 88 | 88 |
-| breaking_defense | 0 | 0 | 24 | 45 |
+| breaking_defense | 0 | 0 | 25 | 46 |
 | nyt | 0 | 0 | 11 | 32 |
 
 # Shown Order
@@ -6792,3 +6792,4 @@
 - **Oct 15, 08:27 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 15, 08:29 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 15, 08:31 AM** - Starship successfully completes 11th flight test (spacenews)
+- **Oct 15, 08:45 AM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
