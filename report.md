@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 15 | 31 | 58 |
-| supercluster | 1 | 1 | 130 | 130 |
-| breaking_defense | 0 | 0 | 27 | 48 |
+| supercluster | 1 | 1 | 131 | 131 |
+| breaking_defense | 0 | 0 | 27 | 47 |
 | nyt | 0 | 0 | 7 | 28 |
 
 # Shown Order
@@ -6848,3 +6848,4 @@
 - **Oct 15, 12:55 PM** - Momentus wins two NASA contracts to fly tech demo payloads (spacenews)
 - **Oct 15, 01:11 PM** - Beyond the downlink: Why Earth-independent AI is the next moat in space operations (spacenews)
 - **Oct 15, 01:27 PM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
+- **Oct 15, 01:43 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
