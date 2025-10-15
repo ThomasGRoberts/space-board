@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 15 | 31 | 58 |
+| spacenews | 6 | 15 | 31 | 59 |
 | supercluster | 1 | 1 | 137 | 137 |
 | breaking_defense | 0 | 0 | 27 | 47 |
-| nyt | 0 | 0 | 7 | 28 |
+| nyt | 0 | 0 | 7 | 27 |
 
 # Shown Order
 
@@ -6855,3 +6855,4 @@
 - **Oct 15, 01:51 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 15, 01:54 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 15, 01:55 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
+- **Oct 15, 01:57 PM** - K2 Space announces plans for three-orbit demonstration mission (spacenews)
