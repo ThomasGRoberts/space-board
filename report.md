@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 30 | 56 |
 | supercluster | 1 | 1 | 46 | 46 |
-| breaking_defense | 0 | 0 | 22 | 43 |
+| breaking_defense | 0 | 0 | 23 | 44 |
 | nyt | 0 | 0 | 16 | 37 |
 
 # Shown Order
@@ -6738,3 +6738,4 @@
 - **Oct 15, 04:01 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 15, 04:03 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 15, 04:05 AM** - Rocket Lab launches seventh Synspective radar imaging satellite (spacenews)
+- **Oct 15, 04:19 AM** - Space Force taps Muon for 3 prototype weather satellites (breaking_defense)
