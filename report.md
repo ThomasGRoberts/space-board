@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 16 | 32 | 58 |
 | supercluster | 1 | 1 | 109 | 109 |
-| breaking_defense | 0 | 0 | 25 | 46 |
+| breaking_defense | 0 | 0 | 26 | 47 |
 | nyt | 0 | 0 | 9 | 30 |
 
 # Shown Order
@@ -6819,3 +6819,4 @@
 - **Oct 15, 10:41 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 15, 10:43 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 15, 10:45 AM** - Polish space company Scanway Space secures U.S., European deals amid international expansion drive (spacenews)
+- **Oct 15, 11:00 AM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
