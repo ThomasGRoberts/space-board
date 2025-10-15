@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 16 | 30 | 58 |
-| supercluster | 1 | 1 | 116 | 116 |
+| supercluster | 1 | 1 | 117 | 117 |
 | breaking_defense | 0 | 0 | 27 | 47 |
 | nyt | 0 | 0 | 9 | 29 |
 
@@ -6829,3 +6829,4 @@
 - **Oct 15, 11:27 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 15, 11:29 AM** - Former U.S. defense officials urge Pentagon to scale up hypersonic weapons to match China, Russia (spacenews)
 - **Oct 15, 11:43 AM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
+- **Oct 15, 11:58 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
