@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 27 | 54 |
-| supercluster | 1 | 1 | 17 | 17 |
-| breaking_defense | 0 | 0 | 21 | 43 |
+| supercluster | 1 | 1 | 18 | 18 |
+| breaking_defense | 0 | 0 | 21 | 42 |
 | nyt | 0 | 0 | 18 | 40 |
 
 # Shown Order
@@ -6700,3 +6700,4 @@
 - **Oct 15, 12:59 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 15, 01:02 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 15, 01:05 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
+- **Oct 15, 01:07 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
