@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 13 | 31 | 57 |
+| spacenews | 4 | 13 | 32 | 58 |
 | supercluster | 1 | 1 | 193 | 193 |
 | breaking_defense | 1 | 1 | 30 | 50 |
 | nyt | 1 | 1 | 6 | 25 |
@@ -6932,3 +6932,4 @@
 - **Oct 15, 08:33 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 15, 08:35 PM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
 - **Oct 15, 08:49 PM** - They’re Ready to Go to Mars (nyt)
+- **Oct 15, 09:03 PM** - SpaceX prepares for next Starship test flight (spacenews)
