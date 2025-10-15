@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 13 | 31 | 58 |
 | supercluster | 1 | 1 | 186 | 186 |
-| breaking_defense | 1 | 1 | 30 | 49 |
+| breaking_defense | 1 | 1 | 31 | 50 |
 | nyt | 1 | 1 | 5 | 24 |
 
 # Shown Order
@@ -6920,3 +6920,4 @@
 - **Oct 15, 07:33 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 15, 07:35 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 15, 07:37 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
+- **Oct 15, 07:39 PM** - Army budget prioritizes counterspace for first time (breaking_defense)
