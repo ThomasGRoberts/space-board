@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 32 | 57 |
-| supercluster | 1 | 1 | 96 | 96 |
+| supercluster | 1 | 1 | 97 | 97 |
 | breaking_defense | 0 | 0 | 25 | 46 |
-| nyt | 0 | 0 | 10 | 32 |
+| nyt | 0 | 0 | 10 | 31 |
 
 # Shown Order
 
@@ -6803,3 +6803,4 @@
 - **Oct 15, 09:17 AM** - Surprise Chinese launch sends Shiyan-31 experimental satellite into orbit (spacenews)
 - **Oct 15, 09:32 AM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
 - **Oct 15, 09:45 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
+- **Oct 15, 09:47 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
