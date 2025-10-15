@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 14 | 31 | 57 |
-| supercluster | 1 | 1 | 138 | 138 |
+| supercluster | 1 | 1 | 139 | 139 |
 | breaking_defense | 0 | 0 | 27 | 48 |
 | nyt | 0 | 0 | 7 | 27 |
 
@@ -6858,3 +6858,4 @@
 - **Oct 15, 01:57 PM** - K2 Space announces plans for three-orbit demonstration mission (spacenews)
 - **Oct 15, 02:15 PM** - Space Force taps Muon for 3 prototype weather satellites (breaking_defense)
 - **Oct 15, 02:29 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
+- **Oct 15, 02:31 PM** - SpaceX Will Launch Military Transport Satellites (supercluster)
