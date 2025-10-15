@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 29 | 55 |
 | supercluster | 1 | 1 | 32 | 32 |
-| breaking_defense | 0 | 0 | 22 | 43 |
+| breaking_defense | 0 | 0 | 23 | 44 |
 | nyt | 0 | 0 | 17 | 38 |
 
 # Shown Order
@@ -6720,3 +6720,4 @@
 - **Oct 15, 02:33 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 15, 02:35 AM** - SpaceX Will Launch Military Transport Satellites (supercluster)
 - **Oct 15, 02:37 AM** - Space Force taps Muon’s wildfire monitoring satellites for weather imaging (spacenews)
+- **Oct 15, 02:51 AM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
