@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 16 | 24 |
 | breaking_defense | 1 | 1 | 22 | 49 |
 | spacenews | 3 | 10 | 24 | 55 |
-| supercluster | 1 | 1 | 12 | 12 |
+| supercluster | 1 | 1 | 13 | 13 |
 
 # Shown Order
 
@@ -6636,3 +6636,4 @@
 - **Oct 16, 11:49 AM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 16, 12:05 PM** - Momentus and Solstar to offer communications, transportation and infrastructure in low-Earth orbit (spacenews)
 - **Oct 16, 12:19 PM** - They’re Ready to Go to Mars (nyt)
+- **Oct 16, 12:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
