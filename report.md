@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 19 | 24 |
 | breaking_defense | 1 | 1 | 21 | 50 |
 | spacenews | 6 | 11 | 24 | 55 |
-| supercluster | 2 | 2 | 41 | 41 |
+| supercluster | 2 | 2 | 42 | 42 |
 
 # Shown Order
 
@@ -6678,3 +6678,4 @@
 - **Oct 16, 04:17 PM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 16, 04:31 PM** - Momentus and Solstar to offer communications, transportation and infrastructure in low-Earth orbit (spacenews)
 - **Oct 16, 04:45 PM** - China Will Launch the Long March 6A Rocket (supercluster)
+- **Oct 16, 04:47 PM** - China Will Launch the Long March 6A Rocket (supercluster)
