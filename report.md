@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 8 | 25 |
 | breaking_defense | 1 | 1 | 27 | 50 |
-| spacenews | 3 | 11 | 27 | 56 |
+| spacenews | 3 | 11 | 28 | 57 |
 | supercluster | 1 | 1 | 5 | 5 |
 
 # Shown Order
@@ -6603,3 +6603,4 @@
 - **Oct 16, 02:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 16, 02:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 16, 02:43 AM** - They’re Ready to Go to Mars (nyt)
+- **Oct 16, 02:57 AM** - Surprise Chinese launch sends Shiyan-31 experimental satellite into orbit (spacenews)
