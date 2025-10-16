@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 9 | 25 |
 | breaking_defense | 1 | 1 | 27 | 49 |
-| spacenews | 4 | 12 | 27 | 57 |
+| spacenews | 4 | 12 | 28 | 58 |
 | supercluster | 1 | 1 | 12 | 12 |
 
 # Shown Order
@@ -6614,3 +6614,4 @@
 - **Oct 16, 03:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 16, 03:53 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 16, 03:55 AM** - They’re Ready to Go to Mars (nyt)
+- **Oct 16, 04:11 AM** - Beyond the downlink: Why Earth-independent AI is the next moat in space operations (spacenews)
