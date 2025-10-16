@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-16T00:02:09.021335+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7d721bd0cc18a6fb15209987ba77e1e3",
+    "trigger_count": 0,
+    "current_item_id": "e40c55f9824f931bb9aaf0ab064c3306",
     "data": [
         {
             "id": "c1890098138b7a8b6c10db3e6ff1d1cd",
@@ -12110,6 +12110,18 @@
                 "2025-10-16T02:37:32.080226Z",
                 "2025-10-16T02:39:46.846979Z",
                 "2025-10-16T02:41:42.741715Z"
+            ]
+        },
+        {
+            "id": "e40c55f9824f931bb9aaf0ab064c3306",
+            "source": "spacenews",
+            "text": "Axiom Space replaces CEO",
+            "source_link": "https://spacenews.com/axiom-space-replaces-ceo/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-16T03:13:53.983487Z",
+            "shown_at": [
+                "2025-10-16T03:13:54.597636Z"
             ]
         }
     ]

@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 8 | 25 |
-| breaking_defense | 1 | 1 | 27 | 50 |
-| spacenews | 3 | 11 | 28 | 57 |
+| breaking_defense | 1 | 1 | 27 | 49 |
+| spacenews | 4 | 12 | 29 | 58 |
 | supercluster | 1 | 1 | 5 | 5 |
 
 # Shown Order
@@ -6604,3 +6604,4 @@
 - **Oct 16, 02:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 16, 02:43 AM** - They’re Ready to Go to Mars (nyt)
 - **Oct 16, 02:57 AM** - Surprise Chinese launch sends Shiyan-31 experimental satellite into orbit (spacenews)
+- **Oct 16, 03:13 AM** - Axiom Space replaces CEO (spacenews)
