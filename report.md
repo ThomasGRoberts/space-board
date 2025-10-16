@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 7 | 25 |
 | breaking_defense | 1 | 1 | 29 | 50 |
 | spacenews | 3 | 11 | 29 | 56 |
-| supercluster | 1 | 1 | 5 | 5 |
+| supercluster | 1 | 1 | 6 | 6 |
 
 # Shown Order
 
@@ -6600,3 +6600,4 @@
 - **Oct 16, 12:31 AM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 16, 12:45 AM** - They’re Ready to Go to Mars (nyt)
 - **Oct 16, 12:59 AM** - China Will Launch the Long March 8A Rocket (supercluster)
+- **Oct 16, 01:02 AM** - China Will Launch the Long March 8A Rocket (supercluster)
