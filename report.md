@@ -5,7 +5,7 @@
 | nyt | 0 | 1 | 19 | 25 |
 | breaking_defense | 0 | 1 | 20 | 50 |
 | spacenews | 7 | 11 | 25 | 56 |
-| supercluster | 2 | 2 | 84 | 84 |
+| supercluster | 2 | 2 | 85 | 85 |
 
 # Shown Order
 
@@ -6740,3 +6740,4 @@
 - **Oct 16, 10:49 PM** - Momentus and Solstar to offer communications, transportation and infrastructure in low-Earth orbit (spacenews)
 - **Oct 16, 11:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 16, 11:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 16, 11:09 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
