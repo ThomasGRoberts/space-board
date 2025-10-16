@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 6 | 24 |
-| breaking_defense | 1 | 1 | 29 | 49 |
+| breaking_defense | 1 | 1 | 30 | 50 |
 | spacenews | 3 | 12 | 29 | 58 |
 | supercluster | 1 | 1 | 4 | 4 |
 
@@ -6597,3 +6597,4 @@
 - **Oct 16, 12:12 AM** - China Will Launch the Long March 8A Rocket (supercluster)
 - **Oct 16, 12:15 AM** - China Will Launch the Long March 8A Rocket (supercluster)
 - **Oct 16, 12:17 AM** - Impulse Space announces lunar lander plans (spacenews)
+- **Oct 16, 12:31 AM** - Army budget prioritizes counterspace for first time (breaking_defense)
