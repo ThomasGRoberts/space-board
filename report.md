@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 18 | 23 |
+| nyt | 1 | 1 | 19 | 24 |
 | breaking_defense | 1 | 1 | 21 | 49 |
 | spacenews | 6 | 12 | 24 | 55 |
 | supercluster | 2 | 2 | 40 | 40 |
@@ -6674,3 +6674,4 @@
 - **Oct 16, 03:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 16, 03:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 16, 04:00 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 16, 04:02 PM** - They’re Ready to Go to Mars (nyt)
