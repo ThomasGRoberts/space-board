@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 13 | 24 |
 | breaking_defense | 1 | 1 | 26 | 50 |
 | spacenews | 4 | 12 | 26 | 58 |
-| supercluster | 1 | 1 | 40 | 40 |
+| supercluster | 1 | 1 | 41 | 41 |
 
 # Shown Order
 
@@ -6656,3 +6656,4 @@
 - **Oct 16, 07:55 AM** - They’re Ready to Go to Mars (nyt)
 - **Oct 16, 08:11 AM** - Polish space company Scanway Space secures U.S., European deals amid international expansion drive (spacenews)
 - **Oct 16, 08:25 AM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
+- **Oct 16, 08:42 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
