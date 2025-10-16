@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 10 | 24 |
 | breaking_defense | 1 | 1 | 27 | 50 |
 | spacenews | 4 | 12 | 27 | 57 |
-| supercluster | 1 | 1 | 20 | 20 |
+| supercluster | 1 | 1 | 21 | 21 |
 
 # Shown Order
 
@@ -6627,3 +6627,4 @@
 - **Oct 16, 05:13 AM** - SmallSat Education Conference Aerospace Education Event for Educators, Parents, and Students (Middle School, High School, College) (spacenews)
 - **Oct 16, 05:27 AM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 16, 05:42 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 16, 05:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
