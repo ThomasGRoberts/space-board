@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 14 | 25 |
 | breaking_defense | 1 | 1 | 25 | 50 |
-| spacenews | 4 | 12 | 26 | 57 |
+| spacenews | 4 | 12 | 27 | 58 |
 | supercluster | 1 | 1 | 47 | 47 |
 
 # Shown Order
@@ -6664,3 +6664,4 @@
 - **Oct 16, 08:53 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 16, 08:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 16, 08:57 AM** - They’re Ready to Go to Mars (nyt)
+- **Oct 16, 09:14 AM** - French space defense startup Dark ceases operations (spacenews)
