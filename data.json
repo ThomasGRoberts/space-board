@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-16T00:02:09.021335+00:00",
-    "trigger_count": 2,
-    "current_item_id": "a64e1add1ac5080b8c0db49a0715367c",
+    "trigger_count": 3,
+    "current_item_id": "c53cf7298624ce1af471091077966550",
     "data": [
         {
             "id": "c1890098138b7a8b6c10db3e6ff1d1cd",
@@ -12088,15 +12088,18 @@
             ]
         },
         {
-            "id": "a64e1add1ac5080b8c0db49a0715367c",
+            "id": "c53cf7298624ce1af471091077966550",
             "source": "supercluster",
-            "text": "SpaceX Will Launch Military Transport Satellites",
-            "source_link": "https://www.supercluster.com/launches/tranche-1-transport-layer-c",
-            "shown": false,
+            "text": "China Will Launch the Long March 8A Rocket",
+            "source_link": "https://www.supercluster.com/launches/long-march-8a",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-10-15T23:06:12.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-10-16T00:05:48.213505Z"
+            "target_datetime": "2025-10-16T01:30:00.000Z",
+            "time_remaining": "0d 01h 22m",
+            "fetched_datetime": "2025-10-16T00:07:43.162320Z",
+            "shown_at": [
+                "2025-10-16T00:07:44.205344Z"
+            ]
         }
     ]
 }
