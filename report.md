@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 12 | 24 |
 | breaking_defense | 1 | 1 | 26 | 50 |
 | spacenews | 4 | 12 | 27 | 57 |
-| supercluster | 1 | 1 | 35 | 35 |
+| supercluster | 1 | 1 | 36 | 36 |
 
 # Shown Order
 
@@ -6648,3 +6648,4 @@
 - **Oct 16, 07:23 AM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 16, 07:40 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 16, 07:42 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 16, 07:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
