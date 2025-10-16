@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 9 | 24 |
 | breaking_defense | 1 | 1 | 27 | 50 |
 | spacenews | 4 | 12 | 28 | 57 |
-| supercluster | 1 | 1 | 13 | 13 |
+| supercluster | 1 | 1 | 14 | 14 |
 
 # Shown Order
 
@@ -6617,3 +6617,4 @@
 - **Oct 16, 04:11 AM** - Beyond the downlink: Why Earth-independent AI is the next moat in space operations (spacenews)
 - **Oct 16, 04:26 AM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
 - **Oct 16, 04:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 16, 04:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
