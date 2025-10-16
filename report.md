@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 18 | 23 |
 | breaking_defense | 1 | 1 | 21 | 49 |
 | spacenews | 6 | 12 | 24 | 56 |
-| supercluster | 2 | 2 | 34 | 34 |
+| supercluster | 2 | 2 | 35 | 35 |
 
 # Shown Order
 
@@ -6668,3 +6668,4 @@
 - **Oct 16, 03:19 PM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 16, 03:33 PM** - iRocket turns to missiles to fuel reusable launcher ambitions (spacenews)
 - **Oct 16, 03:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 16, 03:49 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
