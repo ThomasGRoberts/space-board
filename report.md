@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 8 | 24 |
 | breaking_defense | 1 | 1 | 27 | 50 |
-| spacenews | 4 | 12 | 28 | 58 |
-| supercluster | 1 | 1 | 5 | 5 |
+| spacenews | 4 | 12 | 28 | 57 |
+| supercluster | 1 | 1 | 6 | 6 |
 
 # Shown Order
 
@@ -6606,3 +6606,4 @@
 - **Oct 16, 02:57 AM** - Surprise Chinese launch sends Shiyan-31 experimental satellite into orbit (spacenews)
 - **Oct 16, 03:13 AM** - Axiom Space replaces CEO (spacenews)
 - **Oct 16, 03:27 AM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
+- **Oct 16, 03:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
