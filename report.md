@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 15 | 24 |
 | breaking_defense | 1 | 1 | 23 | 49 |
-| spacenews | 4 | 11 | 25 | 56 |
-| supercluster | 1 | 1 | 5 | 5 |
+| spacenews | 4 | 11 | 24 | 56 |
+| supercluster | 1 | 1 | 6 | 6 |
 
 # Shown Order
 
@@ -6626,3 +6626,4 @@
 - **Oct 16, 10:41 AM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 16, 10:59 AM** - China launches 12th group of Guowang broadband satellites as rocket milestone highlights accelerating launch rate (spacenews)
 - **Oct 16, 11:16 AM** - They’re Ready to Go to Mars (nyt)
+- **Oct 16, 11:32 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
