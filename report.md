@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 11 | 24 |
-| breaking_defense | 1 | 1 | 26 | 49 |
+| breaking_defense | 1 | 1 | 27 | 50 |
 | spacenews | 4 | 12 | 27 | 58 |
 | supercluster | 1 | 1 | 26 | 26 |
 
@@ -6635,3 +6635,4 @@
 - **Oct 16, 05:54 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 16, 05:55 AM** - They’re Ready to Go to Mars (nyt)
 - **Oct 16, 06:11 AM** - Announcing the finalists for the 2025 SpaceNews Icon Awards (spacenews)
+- **Oct 16, 06:26 AM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
