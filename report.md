@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 1 | 19 | 25 |
+| nyt | 0 | 1 | 19 | 24 |
 | breaking_defense | 0 | 1 | 20 | 50 |
-| spacenews | 7 | 11 | 25 | 56 |
-| supercluster | 2 | 2 | 76 | 76 |
+| spacenews | 7 | 11 | 24 | 56 |
+| supercluster | 2 | 2 | 77 | 77 |
 
 # Shown Order
 
@@ -6729,3 +6729,4 @@
 - **Oct 16, 09:32 PM** - Beyond the downlink: Why Earth-independent AI is the next moat in space operations (spacenews)
 - **Oct 16, 09:52 PM** - SpaceX wins approval for increased Falcon launches from Vandenberg (spacenews)
 - **Oct 16, 10:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 16, 10:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
