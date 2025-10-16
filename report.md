@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 20 | 25 |
 | breaking_defense | 0 | 1 | 21 | 51 |
-| spacenews | 6 | 10 | 23 | 55 |
+| spacenews | 6 | 10 | 24 | 56 |
 | supercluster | 2 | 2 | 75 | 75 |
 
 # Shown Order
@@ -6726,3 +6726,4 @@
 - **Oct 16, 08:58 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 16, 09:00 PM** - They’re Ready to Go to Mars (nyt)
 - **Oct 16, 09:17 PM** - Army budget prioritizes counterspace for first time (breaking_defense)
+- **Oct 16, 09:32 PM** - Beyond the downlink: Why Earth-independent AI is the next moat in space operations (spacenews)
