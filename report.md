@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 17 | 24 |
 | breaking_defense | 1 | 1 | 22 | 50 |
 | spacenews | 3 | 9 | 23 | 54 |
-| supercluster | 2 | 2 | 26 | 26 |
+| supercluster | 2 | 2 | 27 | 27 |
 
 # Shown Order
 
@@ -6655,3 +6655,4 @@
 - **Oct 16, 01:35 PM** - They’re Ready to Go to Mars (nyt)
 - **Oct 16, 01:50 PM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 16, 02:05 PM** - JAXA to launch tech demo satellites on Electron rockets (spacenews)
+- **Oct 16, 02:19 PM** - China Will Launch the Long March 6A Rocket (supercluster)
