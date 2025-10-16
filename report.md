@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 10 | 24 |
+| nyt | 1 | 1 | 11 | 25 |
 | breaking_defense | 1 | 1 | 26 | 50 |
 | spacenews | 4 | 12 | 27 | 57 |
 | supercluster | 1 | 1 | 26 | 26 |
@@ -6633,3 +6633,4 @@
 - **Oct 16, 05:49 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 16, 05:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 16, 05:54 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 16, 05:55 AM** - They’re Ready to Go to Mars (nyt)
