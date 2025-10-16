@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 20 | 25 |
 | breaking_defense | 0 | 1 | 21 | 51 |
-| spacenews | 6 | 10 | 23 | 55 |
+| spacenews | 6 | 10 | 24 | 56 |
 | supercluster | 2 | 2 | 61 | 61 |
 
 # Shown Order
@@ -6706,3 +6706,4 @@
 - **Oct 16, 06:53 PM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Oct 16, 06:55 PM** - They’re Ready to Go to Mars (nyt)
 - **Oct 16, 07:12 PM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
+- **Oct 16, 07:26 PM** - ECAPS Announces Breakthrough Fast-Start Thruster (FAST) Technology (spacenews)
