@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-16T00:02:09.021335+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ffaa7870eca5c6ca0634f721fa9b872e",
+    "trigger_count": 0,
+    "current_item_id": "a3adddadbe9ecd35c4a1f3c6f4cc717f",
     "data": [
         {
             "id": "c1890098138b7a8b6c10db3e6ff1d1cd",
@@ -12215,6 +12215,27 @@
                 "2025-10-16T14:29:42.048923Z",
                 "2025-10-16T14:32:03.817213Z"
             ]
+        },
+        {
+            "id": "a3adddadbe9ecd35c4a1f3c6f4cc717f",
+            "source": "spacenews",
+            "text": "Data Boom, Video Decline Reshapes Satellite Revenues by 2034",
+            "source_link": "https://spacenews.com/data-boom-video-decline-reshapes-satellite-revenues-by-2034/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-16T14:33:56.656887Z",
+            "shown_at": [
+                "2025-10-16T14:33:57.730510Z"
+            ]
+        },
+        {
+            "id": "5a68b444efeb6742500a85feb4c7c895",
+            "source": "spacenews",
+            "text": "ECAPS Announces Breakthrough Fast-Start Thruster (FAST) Technology",
+            "source_link": "https://spacenews.com/ecaps-announces-breakthrough-fast-start-thruster-fast-technology/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-10-16T14:33:56.656941Z"
         }
     ]
 }
