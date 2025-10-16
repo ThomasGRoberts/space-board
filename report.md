@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 20 | 25 |
 | breaking_defense | 0 | 1 | 20 | 51 |
 | spacenews | 6 | 10 | 24 | 55 |
-| supercluster | 2 | 2 | 49 | 49 |
+| supercluster | 2 | 2 | 50 | 50 |
 
 # Shown Order
 
@@ -6689,3 +6689,4 @@
 - **Oct 16, 05:30 PM** - Announcing the finalists for the 2025 SpaceNews Icon Awards (spacenews)
 - **Oct 16, 05:43 PM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Oct 16, 05:45 PM** - China Will Launch the Long March 6A Rocket (supercluster)
+- **Oct 16, 05:47 PM** - China Will Launch the Long March 6A Rocket (supercluster)
