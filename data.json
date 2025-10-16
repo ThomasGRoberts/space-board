@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-16T00:02:09.021335+00:00",
-    "trigger_count": 1,
-    "current_item_id": "c53cf7298624ce1af471091077966550",
+    "trigger_count": 2,
+    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
     "data": [
         {
             "id": "c1890098138b7a8b6c10db3e6ff1d1cd",
@@ -12093,17 +12093,17 @@
             ]
         },
         {
-            "id": "c53cf7298624ce1af471091077966550",
+            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
             "source": "supercluster",
-            "text": "China Will Launch the Long March 8A Rocket",
-            "source_link": "https://www.supercluster.com/launches/long-march-8a",
+            "text": "SpaceX Will Launch Starlink Satellites from Florida",
+            "source_link": "https://www.supercluster.com/launches/starlink-10-52",
             "shown": true,
             "type": "launch",
-            "target_datetime": "2025-10-16T01:30:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-10-16T02:29:17.488521Z",
+            "target_datetime": "2025-10-16T09:27:00.000Z",
+            "time_remaining": "0d 06h 54m",
+            "fetched_datetime": "2025-10-16T02:32:11.181319Z",
             "shown_at": [
-                "2025-10-16T02:29:18.012905Z"
+                "2025-10-16T02:32:12.257031Z"
             ]
         }
     ]
