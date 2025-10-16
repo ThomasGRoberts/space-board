@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 20 | 25 |
 | breaking_defense | 0 | 1 | 21 | 51 |
-| spacenews | 6 | 10 | 23 | 55 |
+| spacenews | 6 | 10 | 24 | 56 |
 | supercluster | 2 | 2 | 54 | 54 |
 
 # Shown Order
@@ -6696,3 +6696,4 @@
 - **Oct 16, 05:55 PM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Oct 16, 05:57 PM** - They’re Ready to Go to Mars (nyt)
 - **Oct 16, 06:13 PM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
+- **Oct 16, 06:27 PM** - Surprise Chinese launch sends Shiyan-31 experimental satellite into orbit (spacenews)
