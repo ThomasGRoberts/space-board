@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 20 | 25 |
-| breaking_defense | 0 | 1 | 21 | 51 |
+| breaking_defense | 0 | 1 | 20 | 51 |
 | spacenews | 6 | 10 | 24 | 55 |
-| supercluster | 2 | 2 | 61 | 61 |
+| supercluster | 2 | 2 | 62 | 62 |
 
 # Shown Order
 
@@ -6707,3 +6707,4 @@
 - **Oct 16, 06:55 PM** - They’re Ready to Go to Mars (nyt)
 - **Oct 16, 07:12 PM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
 - **Oct 16, 07:26 PM** - ECAPS Announces Breakthrough Fast-Start Thruster (FAST) Technology (spacenews)
+- **Oct 16, 07:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
