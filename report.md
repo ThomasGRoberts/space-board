@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 16 | 24 |
 | breaking_defense | 1 | 1 | 23 | 50 |
 | spacenews | 3 | 10 | 23 | 54 |
-| supercluster | 2 | 2 | 20 | 20 |
+| supercluster | 2 | 2 | 21 | 21 |
 
 # Shown Order
 
@@ -6646,3 +6646,4 @@
 - **Oct 16, 12:49 PM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
 - **Oct 16, 01:05 PM** - ‘Space Armor’ to challenge traditional metal shielding on satellites (spacenews)
 - **Oct 16, 01:20 PM** - China Will Launch the Long March 6A Rocket (supercluster)
+- **Oct 16, 01:21 PM** - China Will Launch the Long March 6A Rocket (supercluster)
