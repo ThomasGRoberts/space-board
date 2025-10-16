@@ -5,7 +5,7 @@
 | nyt | 0 | 1 | 20 | 25 |
 | breaking_defense | 0 | 1 | 20 | 51 |
 | spacenews | 6 | 10 | 24 | 55 |
-| supercluster | 2 | 2 | 63 | 63 |
+| supercluster | 2 | 2 | 64 | 64 |
 
 # Shown Order
 
@@ -6709,3 +6709,4 @@
 - **Oct 16, 07:26 PM** - ECAPS Announces Breakthrough Fast-Start Thruster (FAST) Technology (spacenews)
 - **Oct 16, 07:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 16, 07:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 16, 07:43 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
