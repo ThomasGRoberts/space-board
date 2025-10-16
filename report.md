@@ -5,7 +5,6 @@
 | nyt | 1 | 1 | 7 | 25 |
 | breaking_defense | 1 | 1 | 29 | 50 |
 | spacenews | 3 | 11 | 29 | 57 |
-| supercluster | 1 | 1 | 11 | 11 |
 
 # Shown Order
 
@@ -6592,19 +6591,8 @@
 - **Oct 15, 10:07 PM** - Special economic zones for restoring American space dominance (spacenews)
 - **Oct 15, 10:41 PM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 15, 10:58 PM** - They’re Ready to Go to Mars (nyt)
-- **Oct 16, 12:07 AM** - China Will Launch the Long March 8A Rocket (supercluster)
-- **Oct 16, 12:09 AM** - China Will Launch the Long March 8A Rocket (supercluster)
-- **Oct 16, 12:12 AM** - China Will Launch the Long March 8A Rocket (supercluster)
-- **Oct 16, 12:15 AM** - China Will Launch the Long March 8A Rocket (supercluster)
 - **Oct 16, 12:17 AM** - Impulse Space announces lunar lander plans (spacenews)
 - **Oct 16, 12:31 AM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 16, 12:45 AM** - They’re Ready to Go to Mars (nyt)
-- **Oct 16, 12:59 AM** - China Will Launch the Long March 8A Rocket (supercluster)
-- **Oct 16, 01:02 AM** - China Will Launch the Long March 8A Rocket (supercluster)
-- **Oct 16, 01:05 AM** - China Will Launch the Long March 8A Rocket (supercluster)
-- **Oct 16, 01:07 AM** - China Will Launch the Long March 8A Rocket (supercluster)
-- **Oct 16, 01:09 AM** - China Will Launch the Long March 8A Rocket (supercluster)
-- **Oct 16, 01:11 AM** - China Will Launch the Long March 8A Rocket (supercluster)
-- **Oct 16, 01:13 AM** - China Will Launch the Long March 8A Rocket (supercluster)
 - **Oct 16, 01:15 AM** - The Mars moment: Why now is the time to build the future  (spacenews)
 - **Oct 16, 01:29 AM** - Army budget prioritizes counterspace for first time (breaking_defense)
