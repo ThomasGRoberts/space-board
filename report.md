@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 17 | 23 |
 | breaking_defense | 1 | 1 | 22 | 49 |
-| spacenews | 5 | 11 | 23 | 55 |
+| spacenews | 5 | 11 | 24 | 56 |
 | supercluster | 2 | 2 | 33 | 33 |
 
 # Shown Order
@@ -6663,3 +6663,4 @@
 - **Oct 16, 02:29 PM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Oct 16, 02:32 PM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Oct 16, 02:33 PM** - Data Boom, Video Decline Reshapes Satellite Revenues by 2034 (spacenews)
+- **Oct 16, 02:47 PM** - ECAPS Announces Breakthrough Fast-Start Thruster (FAST) Technology (spacenews)
