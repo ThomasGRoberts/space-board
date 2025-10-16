@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 14 | 24 |
 | breaking_defense | 1 | 1 | 23 | 48 |
 | spacenews | 4 | 12 | 25 | 57 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -6620,3 +6620,4 @@
 - **Oct 16, 09:14 AM** - French space defense startup Dark ceases operations (spacenews)
 - **Oct 16, 10:27 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 16, 10:30 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 16, 10:34 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
