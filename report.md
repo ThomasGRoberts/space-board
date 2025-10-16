@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 7 | 24 |
 | breaking_defense | 1 | 1 | 28 | 50 |
 | spacenews | 3 | 11 | 28 | 56 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -6598,3 +6598,4 @@
 - **Oct 16, 01:15 AM** - The Mars moment: Why now is the time to build the future  (spacenews)
 - **Oct 16, 01:29 AM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 16, 02:32 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 16, 02:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
