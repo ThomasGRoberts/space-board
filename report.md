@@ -6618,4 +6618,4 @@
 - **Oct 16, 08:25 AM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
 - **Oct 16, 08:57 AM** - They’re Ready to Go to Mars (nyt)
 - **Oct 16, 09:14 AM** - French space defense startup Dark ceases operations (spacenews)
-- **Oct 16, 09:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 16, 09:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
