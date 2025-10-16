@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 12 | 24 |
 | breaking_defense | 1 | 1 | 26 | 50 |
 | spacenews | 4 | 12 | 27 | 57 |
-| supercluster | 1 | 1 | 34 | 34 |
+| supercluster | 1 | 1 | 35 | 35 |
 
 # Shown Order
 
@@ -6647,3 +6647,4 @@
 - **Oct 16, 07:09 AM** - JAXA to launch tech demo satellites on Electron rockets (spacenews)
 - **Oct 16, 07:23 AM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 16, 07:40 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 16, 07:42 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
