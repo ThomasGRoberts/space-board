@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 10 | 25 |
 | breaking_defense | 1 | 1 | 26 | 49 |
-| spacenews | 4 | 12 | 27 | 57 |
+| spacenews | 4 | 12 | 28 | 58 |
 | supercluster | 1 | 1 | 19 | 19 |
 
 # Shown Order
@@ -6624,3 +6624,4 @@
 - **Oct 16, 04:53 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 16, 04:55 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 16, 04:57 AM** - They’re Ready to Go to Mars (nyt)
+- **Oct 16, 05:13 AM** - SmallSat Education Conference Aerospace Education Event for Educators, Parents, and Students (Middle School, High School, College) (spacenews)
