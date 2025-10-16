@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 16 | 24 |
 | breaking_defense | 1 | 1 | 23 | 50 |
 | spacenews | 3 | 10 | 23 | 54 |
-| supercluster | 1 | 1 | 19 | 19 |
+| supercluster | 2 | 2 | 20 | 20 |
 
 # Shown Order
 
@@ -6645,3 +6645,4 @@
 - **Oct 16, 12:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 16, 12:49 PM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
 - **Oct 16, 01:05 PM** - ‘Space Armor’ to challenge traditional metal shielding on satellites (spacenews)
+- **Oct 16, 01:20 PM** - China Will Launch the Long March 6A Rocket (supercluster)
