@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 13 | 25 |
 | breaking_defense | 1 | 1 | 25 | 50 |
-| spacenews | 4 | 12 | 26 | 57 |
+| spacenews | 4 | 12 | 27 | 58 |
 | supercluster | 1 | 1 | 40 | 40 |
 
 # Shown Order
@@ -6654,3 +6654,4 @@
 - **Oct 16, 07:51 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 16, 07:53 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 16, 07:55 AM** - They’re Ready to Go to Mars (nyt)
+- **Oct 16, 08:11 AM** - Polish space company Scanway Space secures U.S., European deals amid international expansion drive (spacenews)
