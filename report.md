@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 20 | 25 |
-| breaking_defense | 0 | 1 | 20 | 50 |
+| breaking_defense | 0 | 1 | 21 | 51 |
 | spacenews | 6 | 10 | 23 | 55 |
 | supercluster | 2 | 2 | 54 | 54 |
 
@@ -6695,3 +6695,4 @@
 - **Oct 16, 05:53 PM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Oct 16, 05:55 PM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Oct 16, 05:57 PM** - They’re Ready to Go to Mars (nyt)
+- **Oct 16, 06:13 PM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
