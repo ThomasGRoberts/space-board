@@ -5,7 +5,7 @@
 | nyt | 0 | 1 | 19 | 25 |
 | breaking_defense | 0 | 1 | 20 | 50 |
 | spacenews | 7 | 11 | 25 | 56 |
-| supercluster | 2 | 2 | 75 | 75 |
+| supercluster | 2 | 2 | 76 | 76 |
 
 # Shown Order
 
@@ -6728,3 +6728,4 @@
 - **Oct 16, 09:17 PM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 16, 09:32 PM** - Beyond the downlink: Why Earth-independent AI is the next moat in space operations (spacenews)
 - **Oct 16, 09:52 PM** - SpaceX wins approval for increased Falcon launches from Vandenberg (spacenews)
+- **Oct 16, 10:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
