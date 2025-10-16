@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 6 | 25 |
 | breaking_defense | 1 | 1 | 29 | 49 |
 | spacenews | 3 | 12 | 29 | 57 |
-| supercluster | 1 | 1 | 3 | 3 |
+| supercluster | 1 | 1 | 4 | 4 |
 
 # Shown Order
 
@@ -6595,3 +6595,4 @@
 - **Oct 16, 12:07 AM** - China Will Launch the Long March 8A Rocket (supercluster)
 - **Oct 16, 12:09 AM** - China Will Launch the Long March 8A Rocket (supercluster)
 - **Oct 16, 12:12 AM** - China Will Launch the Long March 8A Rocket (supercluster)
+- **Oct 16, 12:15 AM** - China Will Launch the Long March 8A Rocket (supercluster)
