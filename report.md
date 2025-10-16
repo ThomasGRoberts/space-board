@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 14 | 24 |
 | breaking_defense | 1 | 1 | 23 | 48 |
 | spacenews | 4 | 12 | 25 | 57 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -6619,3 +6619,4 @@
 - **Oct 16, 08:57 AM** - They’re Ready to Go to Mars (nyt)
 - **Oct 16, 09:14 AM** - French space defense startup Dark ceases operations (spacenews)
 - **Oct 16, 10:27 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 16, 10:30 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
