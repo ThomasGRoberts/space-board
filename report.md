@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 20 | 25 |
 | breaking_defense | 1 | 1 | 21 | 51 |
-| spacenews | 6 | 11 | 23 | 55 |
+| spacenews | 6 | 11 | 24 | 56 |
 | supercluster | 2 | 2 | 47 | 47 |
 
 # Shown Order
@@ -6686,3 +6686,4 @@
 - **Oct 16, 04:57 PM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Oct 16, 04:59 PM** - They’re Ready to Go to Mars (nyt)
 - **Oct 16, 05:13 PM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
+- **Oct 16, 05:30 PM** - Announcing the finalists for the 2025 SpaceNews Icon Awards (spacenews)
