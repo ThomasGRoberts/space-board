@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 20 | 25 |
 | breaking_defense | 0 | 1 | 21 | 51 |
-| spacenews | 6 | 10 | 23 | 55 |
+| spacenews | 6 | 10 | 24 | 56 |
 | supercluster | 2 | 2 | 68 | 68 |
 
 # Shown Order
@@ -6716,3 +6716,4 @@
 - **Oct 16, 07:51 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 16, 07:54 PM** - They’re Ready to Go to Mars (nyt)
 - **Oct 16, 08:11 PM** - Army budget prioritizes counterspace for first time (breaking_defense)
+- **Oct 16, 08:29 PM** - K2 Space announces plans for three-orbit demonstration mission (spacenews)
