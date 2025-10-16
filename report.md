@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 14 | 25 |
+| nyt | 1 | 1 | 14 | 24 |
 | breaking_defense | 1 | 1 | 24 | 49 |
 | spacenews | 4 | 12 | 26 | 58 |
 | supercluster | 1 | 1 | 1 | 1 |
@@ -6618,4 +6618,4 @@
 - **Oct 16, 08:25 AM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
 - **Oct 16, 08:57 AM** - They’re Ready to Go to Mars (nyt)
 - **Oct 16, 09:14 AM** - French space defense startup Dark ceases operations (spacenews)
-- **Oct 16, 09:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 16, 09:38 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
