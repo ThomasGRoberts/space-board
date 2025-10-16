@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-16T00:02:09.021335+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d82675a8aa3d5448d6da9b04a1881c0c",
+    "trigger_count": 0,
+    "current_item_id": "a341db18f6bb3a85a0d54b6d76735de2",
     "data": [
         {
             "id": "c1890098138b7a8b6c10db3e6ff1d1cd",
@@ -12240,6 +12240,18 @@
             "fetched_datetime": "2025-10-16T14:33:56.656941Z",
             "shown_at": [
                 "2025-10-16T14:47:20.842220Z"
+            ]
+        },
+        {
+            "id": "a341db18f6bb3a85a0d54b6d76735de2",
+            "source": "spacenews",
+            "text": "iRocket turns to missiles to fuel reusable launcher ambitions",
+            "source_link": "https://spacenews.com/irocket-turns-to-missiles-to-fuel-reusable-launcher-ambitions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-16T15:33:53.126144Z",
+            "shown_at": [
+                "2025-10-16T15:33:53.821452Z"
             ]
         }
     ]

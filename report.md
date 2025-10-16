@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 18 | 24 |
 | breaking_defense | 1 | 1 | 22 | 49 |
-| spacenews | 5 | 11 | 23 | 55 |
+| spacenews | 6 | 12 | 24 | 56 |
 | supercluster | 2 | 2 | 33 | 33 |
 
 # Shown Order
@@ -6666,3 +6666,4 @@
 - **Oct 16, 02:47 PM** - ECAPS Announces Breakthrough Fast-Start Thruster (FAST) Technology (spacenews)
 - **Oct 16, 03:05 PM** - They’re Ready to Go to Mars (nyt)
 - **Oct 16, 03:19 PM** - Army budget prioritizes counterspace for first time (breaking_defense)
+- **Oct 16, 03:33 PM** - iRocket turns to missiles to fuel reusable launcher ambitions (spacenews)
