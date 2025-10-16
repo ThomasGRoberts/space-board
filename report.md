@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 20 | 26 |
 | breaking_defense | 0 | 1 | 20 | 50 |
-| spacenews | 7 | 11 | 25 | 55 |
+| spacenews | 8 | 12 | 26 | 56 |
 | supercluster | 2 | 2 | 89 | 89 |
 
 # Shown Order
@@ -6746,3 +6746,4 @@
 - **Oct 16, 11:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 16, 11:17 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 16, 11:19 PM** - They’re Ready to Go to Mars (nyt)
+- **Oct 16, 11:35 PM** - Viasat takes aim at the U.S. military satellite market (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-16T00:02:09.021335+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c1890098138b7a8b6c10db3e6ff1d1cd",
+    "trigger_count": 0,
+    "current_item_id": "6ca45b233456086b27da226f60f1cdf4",
     "data": [
         {
             "id": "c1890098138b7a8b6c10db3e6ff1d1cd",
@@ -12342,6 +12342,18 @@
             "fetched_datetime": "2025-10-16T21:52:03.009722Z",
             "shown_at": [
                 "2025-10-16T21:52:03.757049Z"
+            ]
+        },
+        {
+            "id": "6ca45b233456086b27da226f60f1cdf4",
+            "source": "spacenews",
+            "text": "Viasat takes aim at the U.S. military satellite market",
+            "source_link": "https://spacenews.com/viasat-takes-aim-at-the-u-s-military-satellite-market/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-16T23:35:43.098481Z",
+            "shown_at": [
+                "2025-10-16T23:35:43.646811Z"
             ]
         }
     ]
