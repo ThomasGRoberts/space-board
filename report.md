@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 9 | 24 |
 | breaking_defense | 1 | 1 | 27 | 50 |
-| spacenews | 4 | 12 | 28 | 57 |
-| supercluster | 1 | 1 | 14 | 14 |
+| spacenews | 4 | 12 | 27 | 57 |
+| supercluster | 1 | 1 | 15 | 15 |
 
 # Shown Order
 
@@ -6618,3 +6618,4 @@
 - **Oct 16, 04:26 AM** - Australian Space Command considers ‘space control’ options: Senior officer (breaking_defense)
 - **Oct 16, 04:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 16, 04:45 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 16, 04:47 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
