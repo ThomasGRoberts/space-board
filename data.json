@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-16T00:02:09.021335+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d82675a8aa3d5448d6da9b04a1881c0c",
+    "trigger_count": 0,
+    "current_item_id": "55820a6d7460ee4daa25ed304c2bdb6e",
     "data": [
         {
             "id": "c1890098138b7a8b6c10db3e6ff1d1cd",
@@ -12141,6 +12141,18 @@
                 "2025-10-16T10:34:00.567424Z",
                 "2025-10-16T10:35:46.656999Z",
                 "2025-10-16T10:38:09.704884Z"
+            ]
+        },
+        {
+            "id": "55820a6d7460ee4daa25ed304c2bdb6e",
+            "source": "spacenews",
+            "text": "China launches 12th group of Guowang broadband satellites as rocket milestone highlights accelerating launch rate",
+            "source_link": "https://spacenews.com/china-launches-12th-group-of-guowang-broadband-satellites-as-rocket-milestone-highlights-accelerating-launch-rate/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-16T10:59:43.361503Z",
+            "shown_at": [
+                "2025-10-16T10:59:44.119765Z"
             ]
         }
     ]
