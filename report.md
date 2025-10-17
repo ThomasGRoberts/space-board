@@ -5,7 +5,7 @@
 | spacenews | 7 | 14 | 23 | 47 |
 | supercluster | 0 | 1 | 92 | 139 |
 | nyt | 1 | 1 | 19 | 39 |
-| breaking_defense | 1 | 1 | 19 | 39 |
+| breaking_defense | 1 | 1 | 20 | 40 |
 
 # Shown Order
 
@@ -6681,3 +6681,4 @@
 - **Oct 17, 10:03 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 17, 10:05 PM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
 - **Oct 17, 10:19 PM** - Money is pouring into defense but dual-use is the real sweet spot (spacenews)
+- **Oct 17, 10:35 PM** - Army budget prioritizes counterspace for first time (breaking_defense)
