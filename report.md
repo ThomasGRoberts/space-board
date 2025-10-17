@@ -5,7 +5,7 @@
 | spacenews | 7 | 14 | 23 | 48 |
 | supercluster | 0 | 1 | 92 | 146 |
 | nyt | 1 | 1 | 19 | 39 |
-| breaking_defense | 1 | 1 | 19 | 39 |
+| breaking_defense | 1 | 1 | 20 | 40 |
 
 # Shown Order
 
@@ -6691,3 +6691,4 @@
 - **Oct 17, 11:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 17, 11:05 PM** - They’re Ready to Go to Mars (nyt)
 - **Oct 17, 11:19 PM** - German launch startup HyImpulse raises 45 million euros (spacenews)
+- **Oct 17, 11:33 PM** - No future for Space Futures Command, sources say (breaking_defense)
