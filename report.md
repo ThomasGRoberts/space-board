@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 12 | 27 | 54 |
-| supercluster | 2 | 2 | 131 | 131 |
+| spacenews | 8 | 12 | 26 | 54 |
+| supercluster | 2 | 2 | 132 | 132 |
 | nyt | 0 | 1 | 21 | 32 |
 | breaking_defense | 0 | 1 | 22 | 48 |
 
@@ -6636,3 +6636,4 @@
 - **Oct 17, 05:29 AM** - They’re Ready to Go to Mars (nyt)
 - **Oct 17, 05:45 AM** - Axiom Space replaces CEO (spacenews)
 - **Oct 17, 05:59 AM** - Army budget prioritizes counterspace for first time (breaking_defense)
+- **Oct 17, 06:13 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
