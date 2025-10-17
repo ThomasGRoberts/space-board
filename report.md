@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 11 | 26 | 54 |
 | supercluster | 2 | 2 | 110 | 110 |
-| nyt | 0 | 1 | 21 | 28 |
+| nyt | 0 | 1 | 22 | 29 |
 | breaking_defense | 0 | 1 | 21 | 49 |
 
 # Shown Order
@@ -6602,3 +6602,4 @@
 - **Oct 17, 02:13 AM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Oct 17, 02:15 AM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Oct 17, 02:18 AM** - China Will Launch the Long March 6A Rocket (supercluster)
+- **Oct 17, 02:21 AM** - They’re Ready to Go to Mars (nyt)
