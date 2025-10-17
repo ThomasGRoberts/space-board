@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 14 | 23 | 47 |
-| supercluster | 0 | 1 | 93 | 133 |
+| spacenews | 7 | 14 | 22 | 47 |
+| supercluster | 0 | 1 | 94 | 134 |
 | nyt | 1 | 1 | 19 | 38 |
 | breaking_defense | 1 | 1 | 19 | 39 |
 
@@ -6673,3 +6673,4 @@
 - **Oct 17, 09:23 PM** - Planet Labs wins $12.8 million NGA contract for maritime intelligence in Asia-Pacific (spacenews)
 - **Oct 17, 09:37 PM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 17, 09:51 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 17, 09:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
