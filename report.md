@@ -5,7 +5,7 @@
 | spacenews | 8 | 14 | 23 | 47 |
 | supercluster | 0 | 1 | 92 | 132 |
 | nyt | 1 | 1 | 19 | 39 |
-| breaking_defense | 1 | 1 | 18 | 38 |
+| breaking_defense | 1 | 1 | 19 | 39 |
 
 # Shown Order
 
@@ -6671,3 +6671,4 @@
 - **Oct 17, 09:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 17, 09:09 PM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
 - **Oct 17, 09:23 PM** - Planet Labs wins $12.8 million NGA contract for maritime intelligence in Asia-Pacific (spacenews)
+- **Oct 17, 09:37 PM** - Army budget prioritizes counterspace for first time (breaking_defense)
