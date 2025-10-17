@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-17T00:01:51.743885+00:00",
-    "trigger_count": 6,
-    "current_item_id": "298e2f435c179a292dd2086739bb223e",
+    "trigger_count": 0,
+    "current_item_id": "bac298dda787c837a2dcc11f39f332d9",
     "data": [
         {
             "id": "6ca45b233456086b27da226f60f1cdf4",
@@ -12126,6 +12126,18 @@
             "fetched_datetime": "2025-10-17T11:14:07.138463Z",
             "shown_at": [
                 "2025-10-17T11:14:08.833447Z"
+            ]
+        },
+        {
+            "id": "bac298dda787c837a2dcc11f39f332d9",
+            "source": "breaking_defense",
+            "text": "No future for Space Futures Command, sources say",
+            "source_link": "https://breakingdefense.com/2025/10/no-future-for-space-futures-command-sources-say/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-17T13:12:33.842433Z",
+            "shown_at": [
+                "2025-10-17T13:12:34.715603Z"
             ]
         }
     ]

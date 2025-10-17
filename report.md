@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 11 | 25 | 49 |
+| spacenews | 7 | 10 | 25 | 48 |
 | supercluster | 0 | 1 | 71 | 90 |
 | nyt | 1 | 2 | 21 | 37 |
-| breaking_defense | 0 | 1 | 20 | 43 |
+| breaking_defense | 1 | 2 | 21 | 44 |
 
 # Shown Order
 
@@ -6609,3 +6609,4 @@
 - **Oct 17, 11:54 AM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 17, 12:20 PM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
 - **Oct 17, 12:46 PM** - Space Pioneer raises $350 million as China’s commercial launch boom accelerates (spacenews)
+- **Oct 17, 01:12 PM** - No future for Space Futures Command, sources say (breaking_defense)
