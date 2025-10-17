@@ -5,7 +5,7 @@
 | spacenews | 8 | 11 | 26 | 55 |
 | supercluster | 2 | 2 | 96 | 96 |
 | nyt | 0 | 1 | 20 | 27 |
-| breaking_defense | 0 | 1 | 20 | 49 |
+| breaking_defense | 0 | 1 | 21 | 50 |
 
 # Shown Order
 
@@ -6584,3 +6584,4 @@
 - **Oct 17, 12:17 AM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Oct 17, 12:19 AM** - They’re Ready to Go to Mars (nyt)
 - **Oct 17, 12:36 AM** - Rocket Lab launches seventh Synspective radar imaging satellite (spacenews)
+- **Oct 17, 12:51 AM** - Army budget prioritizes counterspace for first time (breaking_defense)
