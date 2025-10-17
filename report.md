@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 13 | 23 | 46 |
+| spacenews | 8 | 14 | 24 | 47 |
 | supercluster | 0 | 1 | 92 | 132 |
 | nyt | 1 | 1 | 19 | 39 |
 | breaking_defense | 1 | 1 | 18 | 39 |
@@ -6670,3 +6670,4 @@
 - **Oct 17, 09:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 17, 09:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 17, 09:09 PM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
+- **Oct 17, 09:23 PM** - Planet Labs wins $12.8 million NGA contract for maritime intelligence in Asia-Pacific (spacenews)
