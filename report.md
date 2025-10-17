@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 12 | 27 | 54 |
-| supercluster | 2 | 2 | 124 | 124 |
+| spacenews | 8 | 12 | 26 | 54 |
+| supercluster | 2 | 2 | 125 | 125 |
 | nyt | 0 | 1 | 21 | 31 |
 | breaking_defense | 0 | 1 | 22 | 48 |
 
@@ -6626,3 +6626,4 @@
 - **Oct 17, 04:33 AM** - They’re Ready to Go to Mars (nyt)
 - **Oct 17, 04:47 AM** - Impulse Space announces lunar lander plans (spacenews)
 - **Oct 17, 05:01 AM** - Army budget prioritizes counterspace for first time (breaking_defense)
+- **Oct 17, 05:15 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
