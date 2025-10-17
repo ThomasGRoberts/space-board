@@ -5,7 +5,7 @@
 | spacenews | 8 | 12 | 27 | 55 |
 | supercluster | 2 | 2 | 117 | 117 |
 | nyt | 0 | 1 | 21 | 30 |
-| breaking_defense | 0 | 1 | 21 | 48 |
+| breaking_defense | 0 | 1 | 22 | 49 |
 
 # Shown Order
 
@@ -6615,3 +6615,4 @@
 - **Oct 17, 03:22 AM** - They’re Ready to Go to Mars (nyt)
 - **Oct 17, 03:37 AM** - Huge commercial Chinese solid rocket launches 3 satellites from barge in the Yellow Sea (spacenews)
 - **Oct 17, 03:51 AM** - As shutdown continues, science community keeps focus on long-term budget concerns (spacenews)
+- **Oct 17, 04:05 AM** - Army budget prioritizes counterspace for first time (breaking_defense)
