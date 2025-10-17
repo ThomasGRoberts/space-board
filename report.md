@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 23 | 47 |
-| supercluster | 0 | 1 | 92 | 118 |
+| supercluster | 0 | 1 | 91 | 118 |
 | nyt | 1 | 1 | 19 | 39 |
-| breaking_defense | 1 | 1 | 18 | 39 |
+| breaking_defense | 1 | 1 | 19 | 39 |
 
 # Shown Order
 
@@ -6651,3 +6651,4 @@
 - **Oct 17, 07:09 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 17, 07:11 PM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
 - **Oct 17, 07:25 PM** - Viasat and Space42’s D2D joint venture finds first mobile partner in UAE (spacenews)
+- **Oct 17, 07:39 PM** - No future for Space Futures Command, sources say (breaking_defense)
