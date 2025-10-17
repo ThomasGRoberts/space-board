@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 12 | 26 | 50 |
-| supercluster | 0 | 1 | 78 | 84 |
+| supercluster | 0 | 1 | 79 | 85 |
 | nyt | 1 | 2 | 21 | 36 |
 | breaking_defense | 0 | 1 | 21 | 44 |
 
@@ -6600,3 +6600,4 @@
 - **Oct 17, 10:33 AM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 17, 10:53 AM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
 - **Oct 17, 11:14 AM** - First Ariane 64 launch slips to 2026 (spacenews)
+- **Oct 17, 11:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
