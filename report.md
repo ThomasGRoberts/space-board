@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 23 | 47 |
-| supercluster | 0 | 1 | 89 | 126 |
+| supercluster | 0 | 1 | 89 | 127 |
 | nyt | 1 | 1 | 19 | 38 |
 | breaking_defense | 1 | 1 | 19 | 39 |
 
@@ -6663,3 +6663,4 @@
 - **Oct 17, 08:25 PM** - Momentus and Solstar to offer communications, transportation and infrastructure in low-Earth orbit (spacenews)
 - **Oct 17, 08:39 PM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 17, 08:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 17, 08:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
