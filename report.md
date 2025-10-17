@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 11 | 26 | 55 |
-| supercluster | 2 | 2 | 89 | 89 |
+| supercluster | 2 | 2 | 90 | 90 |
 | nyt | 0 | 1 | 20 | 26 |
 | breaking_defense | 0 | 1 | 21 | 50 |
 
@@ -6575,3 +6575,4 @@
 - **Oct 16, 11:19 PM** - They’re Ready to Go to Mars (nyt)
 - **Oct 16, 11:35 PM** - Viasat takes aim at the U.S. military satellite market (spacenews)
 - **Oct 16, 11:49 PM** - Army budget prioritizes counterspace for first time (breaking_defense)
+- **Oct 17, 12:03 AM** - China Will Launch the Long March 6A Rocket (supercluster)
