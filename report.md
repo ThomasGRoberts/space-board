@@ -5,7 +5,7 @@
 | spacenews | 7 | 13 | 23 | 47 |
 | supercluster | 0 | 1 | 85 | 111 |
 | nyt | 1 | 1 | 19 | 39 |
-| breaking_defense | 1 | 1 | 18 | 39 |
+| breaking_defense | 1 | 1 | 19 | 40 |
 
 # Shown Order
 
@@ -6641,3 +6641,4 @@
 - **Oct 17, 05:29 PM** - Special economic zones for restoring American space dominance (spacenews)
 - **Oct 17, 05:52 PM** - They’re Ready to Go to Mars (nyt)
 - **Oct 17, 06:11 PM** - Europe outlines defense flagship programs and confirms European Space Shield by 2026 (spacenews)
+- **Oct 17, 06:33 PM** - Army budget prioritizes counterspace for first time (breaking_defense)
