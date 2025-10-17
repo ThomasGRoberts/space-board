@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 23 | 47 |
+| spacenews | 7 | 13 | 24 | 47 |
 | supercluster | 0 | 1 | 85 | 111 |
 | nyt | 1 | 1 | 19 | 39 |
 | breaking_defense | 1 | 1 | 19 | 39 |
@@ -6640,3 +6640,4 @@
 - **Oct 17, 05:28 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 17, 05:29 PM** - Special economic zones for restoring American space dominance (spacenews)
 - **Oct 17, 05:52 PM** - They’re Ready to Go to Mars (nyt)
+- **Oct 17, 06:11 PM** - Europe outlines defense flagship programs and confirms European Space Shield by 2026 (spacenews)
