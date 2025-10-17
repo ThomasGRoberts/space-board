@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 14 | 22 | 48 |
-| supercluster | 0 | 1 | 93 | 147 |
+| supercluster | 0 | 1 | 94 | 148 |
 | nyt | 1 | 1 | 19 | 39 |
 | breaking_defense | 1 | 1 | 20 | 40 |
 
@@ -6693,3 +6693,4 @@
 - **Oct 17, 11:19 PM** - German launch startup HyImpulse raises 45 million euros (spacenews)
 - **Oct 17, 11:33 PM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 17, 11:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 17, 11:49 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
