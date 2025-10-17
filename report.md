@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 11 | 24 | 48 |
+| spacenews | 6 | 11 | 24 | 47 |
 | supercluster | 0 | 1 | 78 | 97 |
 | nyt | 1 | 2 | 21 | 38 |
-| breaking_defense | 1 | 2 | 20 | 42 |
+| breaking_defense | 1 | 2 | 21 | 43 |
 
 # Shown Order
 
@@ -6619,3 +6619,4 @@
 - **Oct 17, 02:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 17, 02:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 17, 02:22 PM** - They’re Ready to Go to Mars (nyt)
+- **Oct 17, 02:45 PM** - No future for Space Futures Command, sources say (breaking_defense)
