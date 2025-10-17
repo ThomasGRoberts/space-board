@@ -5,7 +5,7 @@
 | spacenews | 8 | 12 | 27 | 54 |
 | supercluster | 2 | 2 | 138 | 138 |
 | nyt | 0 | 1 | 21 | 33 |
-| breaking_defense | 0 | 1 | 21 | 47 |
+| breaking_defense | 0 | 1 | 22 | 48 |
 
 # Shown Order
 
@@ -6645,3 +6645,4 @@
 - **Oct 17, 06:26 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 17, 06:29 AM** - They’re Ready to Go to Mars (nyt)
 - **Oct 17, 06:45 AM** - iRocket turns to missiles to fuel reusable launcher ambitions (spacenews)
+- **Oct 17, 06:59 AM** - Army budget prioritizes counterspace for first time (breaking_defense)
