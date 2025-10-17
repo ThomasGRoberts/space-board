@@ -5,7 +5,7 @@
 | spacenews | 8 | 12 | 27 | 54 |
 | supercluster | 2 | 2 | 124 | 124 |
 | nyt | 0 | 1 | 21 | 31 |
-| breaking_defense | 0 | 1 | 21 | 48 |
+| breaking_defense | 0 | 1 | 22 | 49 |
 
 # Shown Order
 
@@ -6625,3 +6625,4 @@
 - **Oct 17, 04:31 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 17, 04:33 AM** - They’re Ready to Go to Mars (nyt)
 - **Oct 17, 04:47 AM** - Impulse Space announces lunar lander plans (spacenews)
+- **Oct 17, 05:01 AM** - Army budget prioritizes counterspace for first time (breaking_defense)
