@@ -6583,4 +6583,4 @@
 - **Oct 17, 06:29 AM** - They’re Ready to Go to Mars (nyt)
 - **Oct 17, 06:45 AM** - iRocket turns to missiles to fuel reusable launcher ambitions (spacenews)
 - **Oct 17, 06:59 AM** - Army budget prioritizes counterspace for first time (breaking_defense)
-- **Oct 17, 07:57 AM** - China Will Launch the Long March 6A Rocket (supercluster)
+- **Oct 17, 08:01 AM** - China Will Launch the Long March 6A Rocket (supercluster)
