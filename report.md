@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 23 | 47 |
 | supercluster | 0 | 1 | 85 | 111 |
-| nyt | 1 | 2 | 19 | 39 |
+| nyt | 1 | 2 | 20 | 40 |
 | breaking_defense | 1 | 1 | 19 | 39 |
 
 # Shown Order
@@ -6639,3 +6639,4 @@
 - **Oct 17, 05:26 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 17, 05:28 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 17, 05:29 PM** - Special economic zones for restoring American space dominance (spacenews)
+- **Oct 17, 05:52 PM** - They’re Ready to Go to Mars (nyt)
