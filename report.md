@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 11 | 23 | 47 |
+| spacenews | 6 | 12 | 24 | 48 |
 | supercluster | 0 | 1 | 78 | 104 |
 | nyt | 1 | 2 | 19 | 38 |
 | breaking_defense | 1 | 2 | 20 | 41 |
@@ -6628,3 +6628,4 @@
 - **Oct 17, 03:54 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 17, 03:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 17, 04:03 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 17, 04:06 PM** - German launch startup HyImpulse raises 45 million euros (spacenews)

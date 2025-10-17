@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-17T00:01:51.743885+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "1cf6ba07bfab00832554a6b2da658d4e",
     "data": [
         {
             "id": "6ca45b233456086b27da226f60f1cdf4",
@@ -12167,6 +12167,18 @@
             "fetched_datetime": "2025-10-17T13:34:05.212072Z",
             "shown_at": [
                 "2025-10-17T13:34:05.874225Z"
+            ]
+        },
+        {
+            "id": "1cf6ba07bfab00832554a6b2da658d4e",
+            "source": "spacenews",
+            "text": "German launch startup HyImpulse raises 45 million euros",
+            "source_link": "https://spacenews.com/german-launch-startup-hyimpulse-raises-45-million-euros/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-17T16:06:14.240819Z",
+            "shown_at": [
+                "2025-10-17T16:06:14.986580Z"
             ]
         }
     ]
