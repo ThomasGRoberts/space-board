@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 12 | 26 | 53 |
-| supercluster | 1 | 1 | 75 | 75 |
+| supercluster | 2 | 2 | 76 | 76 |
 | nyt | 0 | 1 | 21 | 33 |
 | breaking_defense | 0 | 1 | 22 | 48 |
 
@@ -6583,3 +6583,4 @@
 - **Oct 17, 06:29 AM** - They’re Ready to Go to Mars (nyt)
 - **Oct 17, 06:45 AM** - iRocket turns to missiles to fuel reusable launcher ambitions (spacenews)
 - **Oct 17, 06:59 AM** - Army budget prioritizes counterspace for first time (breaking_defense)
+- **Oct 17, 07:14 AM** - China Will Launch the Long March 6A Rocket (supercluster)
