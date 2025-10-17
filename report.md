@@ -5,7 +5,7 @@
 | spacenews | 8 | 11 | 27 | 54 |
 | supercluster | 2 | 2 | 110 | 110 |
 | nyt | 0 | 1 | 21 | 29 |
-| breaking_defense | 0 | 1 | 21 | 49 |
+| breaking_defense | 0 | 1 | 22 | 50 |
 
 # Shown Order
 
@@ -6604,3 +6604,4 @@
 - **Oct 17, 02:18 AM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Oct 17, 02:21 AM** - They’re Ready to Go to Mars (nyt)
 - **Oct 17, 02:37 AM** - Space Pioneer raises $350 million as China’s commercial launch boom accelerates (spacenews)
+- **Oct 17, 02:51 AM** - Army budget prioritizes counterspace for first time (breaking_defense)
