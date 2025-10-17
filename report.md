@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 12 | 26 | 54 |
-| supercluster | 2 | 2 | 117 | 117 |
+| supercluster | 2 | 2 | 118 | 118 |
 | nyt | 0 | 1 | 21 | 30 |
-| breaking_defense | 0 | 1 | 22 | 49 |
+| breaking_defense | 0 | 1 | 22 | 48 |
 
 # Shown Order
 
@@ -6616,3 +6616,4 @@
 - **Oct 17, 03:37 AM** - Huge commercial Chinese solid rocket launches 3 satellites from barge in the Yellow Sea (spacenews)
 - **Oct 17, 03:51 AM** - As shutdown continues, science community keeps focus on long-term budget concerns (spacenews)
 - **Oct 17, 04:05 AM** - Army budget prioritizes counterspace for first time (breaking_defense)
+- **Oct 17, 04:20 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
