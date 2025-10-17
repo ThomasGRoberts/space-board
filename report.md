@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 11 | 26 | 55 |
-| supercluster | 2 | 2 | 98 | 98 |
+| supercluster | 2 | 2 | 99 | 99 |
 | nyt | 0 | 1 | 20 | 27 |
 | breaking_defense | 0 | 1 | 21 | 50 |
 
@@ -6587,3 +6587,4 @@
 - **Oct 17, 12:51 AM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 17, 01:05 AM** - China Will Launch the Long March 6A Rocket (supercluster)
 - **Oct 17, 01:07 AM** - China Will Launch the Long March 6A Rocket (supercluster)
+- **Oct 17, 01:09 AM** - China Will Launch the Long March 6A Rocket (supercluster)
