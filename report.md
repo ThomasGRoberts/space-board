@@ -5,7 +5,7 @@
 | spacenews | 8 | 12 | 26 | 50 |
 | supercluster | 0 | 1 | 78 | 90 |
 | nyt | 1 | 2 | 21 | 36 |
-| breaking_defense | 0 | 1 | 20 | 43 |
+| breaking_defense | 0 | 1 | 21 | 44 |
 
 # Shown Order
 
@@ -6606,3 +6606,4 @@
 - **Oct 17, 11:42 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 17, 11:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 17, 11:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 17, 11:54 AM** - Army budget prioritizes counterspace for first time (breaking_defense)
