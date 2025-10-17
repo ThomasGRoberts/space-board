@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 11 | 26 | 54 |
-| supercluster | 2 | 2 | 104 | 104 |
+| supercluster | 2 | 2 | 105 | 105 |
 | nyt | 0 | 1 | 21 | 28 |
 | breaking_defense | 0 | 1 | 21 | 50 |
 
@@ -6596,3 +6596,4 @@
 - **Oct 17, 01:35 AM** - More layoffs at JPL (spacenews)
 - **Oct 17, 01:49 AM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 17, 02:05 AM** - China Will Launch the Long March 6A Rocket (supercluster)
+- **Oct 17, 02:07 AM** - China Will Launch the Long March 6A Rocket (supercluster)
