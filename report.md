@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 11 | 25 | 49 |
-| supercluster | 0 | 1 | 73 | 90 |
+| spacenews | 8 | 11 | 26 | 50 |
+| supercluster | 0 | 1 | 72 | 90 |
 | nyt | 1 | 2 | 21 | 37 |
 | breaking_defense | 0 | 1 | 21 | 43 |
 
@@ -6608,3 +6608,4 @@
 - **Oct 17, 11:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 17, 11:54 AM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 17, 12:20 PM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
+- **Oct 17, 12:46 PM** - Space Pioneer raises $350 million as China’s commercial launch boom accelerates (spacenews)
