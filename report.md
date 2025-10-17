@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 23 | 46 |
-| supercluster | 0 | 1 | 78 | 104 |
+| supercluster | 0 | 1 | 79 | 105 |
 | nyt | 1 | 2 | 19 | 39 |
 | breaking_defense | 1 | 2 | 20 | 41 |
 
@@ -6631,3 +6631,4 @@
 - **Oct 17, 04:06 PM** - German launch startup HyImpulse raises 45 million euros (spacenews)
 - **Oct 17, 04:24 PM** - They’re Ready to Go to Mars (nyt)
 - **Oct 17, 04:41 PM** - Army budget prioritizes counterspace for first time (breaking_defense)
+- **Oct 17, 05:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
