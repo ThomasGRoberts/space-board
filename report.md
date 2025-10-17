@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 23 | 47 |
-| supercluster | 0 | 1 | 85 | 111 |
-| nyt | 1 | 1 | 19 | 39 |
+| supercluster | 0 | 1 | 86 | 112 |
+| nyt | 1 | 1 | 18 | 38 |
 | breaking_defense | 1 | 1 | 19 | 39 |
 
 # Shown Order
@@ -6642,3 +6642,4 @@
 - **Oct 17, 05:52 PM** - They’re Ready to Go to Mars (nyt)
 - **Oct 17, 06:11 PM** - Europe outlines defense flagship programs and confirms European Space Shield by 2026 (spacenews)
 - **Oct 17, 06:33 PM** - Army budget prioritizes counterspace for first time (breaking_defense)
+- **Oct 17, 06:56 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
