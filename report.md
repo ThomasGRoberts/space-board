@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 12 | 25 | 51 |
 | supercluster | 1 | 1 | 77 | 77 |
-| nyt | 0 | 1 | 20 | 34 |
+| nyt | 1 | 2 | 21 | 35 |
 | breaking_defense | 0 | 1 | 21 | 46 |
 
 # Shown Order
@@ -6588,3 +6588,4 @@
 - **Oct 17, 08:20 AM** - They’re Ready to Go to Mars (nyt)
 - **Oct 17, 08:41 AM** - K2 Space announces plans for three-orbit demonstration mission (spacenews)
 - **Oct 17, 09:05 AM** - Army budget prioritizes counterspace for first time (breaking_defense)
+- **Oct 17, 09:29 AM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
