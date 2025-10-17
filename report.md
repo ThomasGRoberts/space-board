@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 11 | 23 | 47 |
-| supercluster | 0 | 1 | 80 | 99 |
+| supercluster | 0 | 1 | 81 | 100 |
 | nyt | 1 | 2 | 20 | 38 |
 | breaking_defense | 1 | 2 | 20 | 41 |
 
@@ -6623,3 +6623,4 @@
 - **Oct 17, 03:10 PM** - Beyond Gravity plans US push after fivefold boost in European solar mechanism output (spacenews)
 - **Oct 17, 03:38 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 17, 03:42 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 17, 03:46 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
