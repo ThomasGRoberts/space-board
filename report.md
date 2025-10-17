@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 22 | 47 |
-| supercluster | 0 | 1 | 93 | 140 |
+| supercluster | 0 | 1 | 94 | 141 |
 | nyt | 1 | 1 | 19 | 39 |
 | breaking_defense | 1 | 1 | 19 | 39 |
 
@@ -6683,3 +6683,4 @@
 - **Oct 17, 10:19 PM** - Money is pouring into defense but dual-use is the real sweet spot (spacenews)
 - **Oct 17, 10:35 PM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 17, 10:50 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 17, 10:51 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
