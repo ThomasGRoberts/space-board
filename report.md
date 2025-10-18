@@ -5,7 +5,7 @@
 | spacenews | 6 | 14 | 22 | 49 |
 | breaking_defense | 1 | 1 | 20 | 41 |
 | nyt | 1 | 1 | 19 | 40 |
-| supercluster | 0 | 1 | 114 | 168 |
+| supercluster | 0 | 1 | 115 | 169 |
 
 # Shown Order
 
@@ -6656,3 +6656,4 @@
 - **Oct 18, 02:19 AM** - Planet Labs wins $12.8 million NGA contract for maritime intelligence in Asia-Pacific (spacenews)
 - **Oct 18, 02:33 AM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 18, 02:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 18, 02:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
