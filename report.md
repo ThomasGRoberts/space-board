@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 11 | 23 | 49 |
 | breaking_defense | 0 | 1 | 22 | 43 |
-| nyt | 0 | 1 | 22 | 42 |
+| nyt | 0 | 1 | 23 | 43 |
 | supercluster | 1 | 1 | 161 | 232 |
 
 # Shown Order
@@ -6772,3 +6772,4 @@
 - **Oct 18, 01:33 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Oct 18, 01:35 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Oct 18, 01:37 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
+- **Oct 18, 01:39 PM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
