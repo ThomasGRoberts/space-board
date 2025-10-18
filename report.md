@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 8 | 24 | 47 |
+| spacenews | 3 | 8 | 25 | 48 |
 | breaking_defense | 0 | 1 | 23 | 43 |
 | nyt | 0 | 1 | 24 | 44 |
-| supercluster | 1 | 1 | 166 | 246 |
+| supercluster | 1 | 1 | 165 | 246 |
 
 # Shown Order
 
@@ -6793,3 +6793,4 @@
 - **Oct 18, 03:29 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Oct 18, 03:31 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Oct 18, 03:33 PM** - They’re Ready to Go to Mars (nyt)
+- **Oct 18, 03:47 PM** - Special economic zones for restoring American space dominance (spacenews)
