@@ -5,7 +5,7 @@
 | spacenews | 3 | 11 | 24 | 49 |
 | breaking_defense | 0 | 1 | 23 | 43 |
 | nyt | 0 | 1 | 22 | 43 |
-| supercluster | 1 | 1 | 155 | 233 |
+| supercluster | 1 | 1 | 156 | 234 |
 
 # Shown Order
 
@@ -6776,3 +6776,4 @@
 - **Oct 18, 01:54 PM** - Surprise Chinese launch sends Shiyan-31 experimental satellite into orbit (spacenews)
 - **Oct 18, 02:10 PM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 18, 02:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 18, 02:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
