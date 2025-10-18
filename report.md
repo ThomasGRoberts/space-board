@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 24 | 48 |
-| breaking_defense | 0 | 1 | 24 | 44 |
+| breaking_defense | 0 | 1 | 24 | 43 |
 | nyt | 0 | 1 | 24 | 43 |
-| supercluster | 1 | 1 | 162 | 240 |
+| supercluster | 1 | 1 | 163 | 241 |
 
 # Shown Order
 
@@ -6796,3 +6796,4 @@
 - **Oct 18, 03:47 PM** - Special economic zones for restoring American space dominance (spacenews)
 - **Oct 18, 04:02 PM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 18, 04:17 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 18, 04:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
