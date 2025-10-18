@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 13 | 23 | 49 |
-| breaking_defense | 1 | 1 | 21 | 42 |
+| breaking_defense | 1 | 1 | 22 | 43 |
 | nyt | 0 | 1 | 21 | 42 |
 | supercluster | 0 | 1 | 139 | 223 |
 
@@ -6734,3 +6734,4 @@
 - **Oct 18, 09:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 18, 09:47 AM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
 - **Oct 18, 10:02 AM** - Europe outlines defense flagship programs and confirms European Space Shield by 2026 (spacenews)
+- **Oct 18, 10:15 AM** - No future for Space Futures Command, sources say (breaking_defense)
