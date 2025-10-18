@@ -5,7 +5,7 @@
 | spacenews | 5 | 13 | 23 | 49 |
 | breaking_defense | 1 | 1 | 22 | 43 |
 | nyt | 0 | 1 | 21 | 42 |
-| supercluster | 0 | 0 | 139 | 222 |
+| supercluster | 0 | 0 | 140 | 223 |
 
 # Shown Order
 
@@ -6735,3 +6735,4 @@
 - **Oct 18, 09:47 AM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
 - **Oct 18, 10:02 AM** - Europe outlines defense flagship programs and confirms European Space Shield by 2026 (spacenews)
 - **Oct 18, 10:15 AM** - No future for Space Futures Command, sources say (breaking_defense)
+- **Oct 18, 10:29 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
