@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 8 | 25 | 48 |
-| breaking_defense | 0 | 1 | 25 | 44 |
+| breaking_defense | 0 | 1 | 25 | 43 |
 | nyt | 0 | 1 | 24 | 43 |
-| supercluster | 1 | 1 | 169 | 261 |
+| supercluster | 1 | 1 | 170 | 262 |
 
 # Shown Order
 
@@ -6836,3 +6836,4 @@
 - **Oct 18, 07:41 PM** - Space Pioneer raises $350 million as China’s commercial launch boom accelerates (spacenews)
 - **Oct 18, 07:55 PM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 18, 08:09 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 18, 08:11 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
