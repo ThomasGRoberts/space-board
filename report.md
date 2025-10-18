@@ -5,7 +5,7 @@
 | spacenews | 1 | 8 | 25 | 48 |
 | breaking_defense | 0 | 1 | 25 | 44 |
 | nyt | 0 | 1 | 25 | 43 |
-| supercluster | 1 | 1 | 170 | 261 |
+| supercluster | 1 | 1 | 170 | 262 |
 
 # Shown Order
 
@@ -6846,3 +6846,4 @@
 - **Oct 18, 08:37 PM** - JAXA to launch tech demo satellites on Electron rockets (spacenews)
 - **Oct 18, 08:52 PM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 18, 09:07 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
+- **Oct 18, 09:09 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
