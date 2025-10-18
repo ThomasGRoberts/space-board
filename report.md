@@ -5,7 +5,7 @@
 | spacenews | 4 | 11 | 24 | 49 |
 | breaking_defense | 0 | 1 | 22 | 43 |
 | nyt | 0 | 1 | 22 | 43 |
-| supercluster | 0 | 0 | 154 | 225 |
+| supercluster | 1 | 1 | 155 | 226 |
 
 # Shown Order
 
@@ -6765,3 +6765,4 @@
 - **Oct 18, 12:41 PM** - They’re Ready to Go to Mars (nyt)
 - **Oct 18, 12:55 PM** - Special economic zones for restoring American space dominance (spacenews)
 - **Oct 18, 01:11 PM** - No future for Space Futures Command, sources say (breaking_defense)
+- **Oct 18, 01:26 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
