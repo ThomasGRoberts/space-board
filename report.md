@@ -5,7 +5,7 @@
 | spacenews | 0 | 7 | 25 | 47 |
 | breaking_defense | 0 | 1 | 25 | 44 |
 | nyt | 0 | 1 | 24 | 44 |
-| supercluster | 1 | 1 | 170 | 269 |
+| supercluster | 1 | 1 | 171 | 269 |
 
 # Shown Order
 
@@ -6857,3 +6857,4 @@
 - **Oct 18, 09:49 PM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 18, 10:03 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Oct 18, 10:05 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
+- **Oct 18, 10:07 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
