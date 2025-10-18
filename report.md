@@ -5,7 +5,7 @@
 | spacenews | 0 | 6 | 25 | 47 |
 | breaking_defense | 0 | 1 | 24 | 44 |
 | nyt | 0 | 1 | 25 | 44 |
-| supercluster | 1 | 1 | 29 | 29 |
+| supercluster | 1 | 1 | 30 | 30 |
 
 # Shown Order
 
@@ -6582,3 +6582,4 @@
 - **Oct 18, 11:19 PM** - They’re Ready to Go to Mars (nyt)
 - **Oct 18, 11:33 PM** - SpaceX wins approval for increased Falcon launches from Vandenberg (spacenews)
 - **Oct 18, 11:47 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
+- **Oct 18, 11:49 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
