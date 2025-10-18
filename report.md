@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 9 | 24 | 48 |
-| breaking_defense | 0 | 1 | 23 | 44 |
+| breaking_defense | 0 | 1 | 23 | 43 |
 | nyt | 0 | 1 | 23 | 43 |
-| supercluster | 1 | 1 | 161 | 239 |
+| supercluster | 1 | 1 | 162 | 240 |
 
 # Shown Order
 
@@ -6785,3 +6785,4 @@
 - **Oct 18, 02:37 PM** - They’re Ready to Go to Mars (nyt)
 - **Oct 18, 02:51 PM** - Space Pioneer raises $350 million as China’s commercial launch boom accelerates (spacenews)
 - **Oct 18, 03:06 PM** - Army budget prioritizes counterspace for first time (breaking_defense)
+- **Oct 18, 03:19 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
