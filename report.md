@@ -5,7 +5,7 @@
 | spacenews | 5 | 13 | 22 | 48 |
 | breaking_defense | 1 | 1 | 20 | 41 |
 | nyt | 1 | 1 | 19 | 41 |
-| supercluster | 0 | 1 | 121 | 189 |
+| supercluster | 0 | 1 | 122 | 190 |
 
 # Shown Order
 
@@ -6686,3 +6686,4 @@
 - **Oct 18, 05:11 AM** - Huge commercial Chinese solid rocket launches 3 satellites from barge in the Yellow Sea (spacenews)
 - **Oct 18, 05:25 AM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 18, 05:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 18, 05:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
