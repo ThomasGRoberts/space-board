@@ -5,7 +5,7 @@
 | spacenews | 6 | 14 | 22 | 48 |
 | breaking_defense | 1 | 1 | 20 | 40 |
 | nyt | 1 | 1 | 19 | 39 |
-| supercluster | 0 | 1 | 99 | 153 |
+| supercluster | 0 | 1 | 100 | 154 |
 
 # Shown Order
 
@@ -6635,3 +6635,4 @@
 - **Oct 18, 12:02 AM** - They’re Ready to Go to Mars (nyt)
 - **Oct 18, 12:17 AM** - SpaceX prepares for next Starship test flight (spacenews)
 - **Oct 18, 12:33 AM** - Army budget prioritizes counterspace for first time (breaking_defense)
+- **Oct 18, 12:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
