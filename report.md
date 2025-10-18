@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 11 | 23 | 49 |
+| spacenews | 3 | 11 | 24 | 50 |
 | breaking_defense | 0 | 1 | 22 | 42 |
 | nyt | 0 | 1 | 23 | 43 |
 | supercluster | 1 | 1 | 161 | 232 |
@@ -6773,3 +6773,4 @@
 - **Oct 18, 01:35 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Oct 18, 01:37 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Oct 18, 01:39 PM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
+- **Oct 18, 01:54 PM** - Surprise Chinese launch sends Shiyan-31 experimental satellite into orbit (spacenews)
