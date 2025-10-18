@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 8 | 24 | 47 |
+| spacenews | 0 | 8 | 25 | 48 |
 | breaking_defense | 0 | 1 | 25 | 43 |
 | nyt | 0 | 1 | 25 | 44 |
 | supercluster | 1 | 1 | 175 | 267 |
@@ -6853,3 +6853,4 @@
 - **Oct 18, 09:17 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Oct 18, 09:19 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Oct 18, 09:21 PM** - They’re Ready to Go to Mars (nyt)
+- **Oct 18, 09:35 PM** - Surprise Chinese launch sends Shiyan-31 experimental satellite into orbit (spacenews)
