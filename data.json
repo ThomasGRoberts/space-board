@@ -1,9 +1,115 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-10-17T00:01:51.743885+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "last_run_datetime": "2025-10-18T00:02:15.902318+00:00",
+    "trigger_count": 0,
+    "current_item_id": "c1890098138b7a8b6c10db3e6ff1d1cd",
     "data": [
+        {
+            "id": "807ac3f6f905f0a715265b1c70908e14",
+            "source": "spacenews",
+            "text": "Planet Labs wins $12.8 million NGA contract for maritime intelligence in Asia-Pacific",
+            "source_link": "https://spacenews.com/planet-labs-wins-12-8-million-nga-contract-for-maritime-intelligence-in-asia-pacific/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-17T21:23:33.445775Z",
+            "shown_at": [
+                "2025-10-17T21:23:34.079108Z"
+            ]
+        },
+        {
+            "id": "4e87e1314a18e9469be20d400786083f",
+            "source": "spacenews",
+            "text": "Europe outlines defense flagship programs and confirms European Space Shield by 2026",
+            "source_link": "https://spacenews.com/europe-outlines-defense-flagship-programs-and-confirms-european-space-shield-by-2026/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-17T18:11:49.171669Z",
+            "shown_at": [
+                "2025-10-17T18:11:49.793709Z"
+            ]
+        },
+        {
+            "id": "1cf6ba07bfab00832554a6b2da658d4e",
+            "source": "spacenews",
+            "text": "German launch startup HyImpulse raises 45 million euros",
+            "source_link": "https://spacenews.com/german-launch-startup-hyimpulse-raises-45-million-euros/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-17T16:06:14.240819Z",
+            "shown_at": [
+                "2025-10-17T16:06:14.986580Z",
+                "2025-10-17T23:19:36.411971Z"
+            ]
+        },
+        {
+            "id": "765353017b6e17ebb559758f00e452ad",
+            "source": "spacenews",
+            "text": "Money is pouring into defense but dual-use is the real sweet spot",
+            "source_link": "https://spacenews.com/money-is-pouring-into-defense-but-dual-use-is-the-real-sweet-spot/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-17T13:34:05.212072Z",
+            "shown_at": [
+                "2025-10-17T13:34:05.874225Z",
+                "2025-10-17T22:19:49.791811Z"
+            ]
+        },
+        {
+            "id": "bac298dda787c837a2dcc11f39f332d9",
+            "source": "breaking_defense",
+            "text": "No future for Space Futures Command, sources say",
+            "source_link": "https://breakingdefense.com/2025/10/no-future-for-space-futures-command-sources-say/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-17T13:12:33.842433Z",
+            "shown_at": [
+                "2025-10-17T13:12:34.715603Z",
+                "2025-10-17T14:45:42.674570Z",
+                "2025-10-17T19:39:38.076979Z",
+                "2025-10-17T23:33:40.926928Z"
+            ]
+        },
+        {
+            "id": "44edb46e12f5302b8e3fee5592e5fa95",
+            "source": "spacenews",
+            "text": "First Ariane 64 launch slips to 2026",
+            "source_link": "https://spacenews.com/first-ariane-64-launch-slips-to-2026/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-17T11:14:07.138463Z",
+            "shown_at": [
+                "2025-10-17T11:14:08.833447Z"
+            ]
+        },
+        {
+            "id": "91f2dac40d2e59803571f7bf7661df7b",
+            "source": "nyt",
+            "text": "An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever",
+            "source_link": "https://www.nytimes.com/2025/10/17/science/starfront-observatories-remote-astronomy.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-17T09:29:45.318576Z",
+            "shown_at": [
+                "2025-10-17T09:29:46.722732Z",
+                "2025-10-17T10:53:58.450044Z",
+                "2025-10-17T12:20:55.465451Z",
+                "2025-10-17T19:11:30.771382Z",
+                "2025-10-17T21:09:45.238830Z",
+                "2025-10-17T22:05:42.231057Z"
+            ]
+        },
+        {
+            "id": "824eff72f376d20ec854481a357aa537",
+            "source": "spacenews",
+            "text": "As shutdown continues, science community keeps focus on long-term budget concerns",
+            "source_link": "https://spacenews.com/as-shutdown-continues-science-community-keeps-focus-on-long-term-budget-concerns/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-17T03:51:57.717794Z",
+            "shown_at": [
+                "2025-10-17T03:51:59.131611Z"
+            ]
+        },
         {
             "id": "6ca45b233456086b27da226f60f1cdf4",
             "source": "spacenews",
@@ -316,7 +422,8 @@
                 "2025-10-17T16:24:09.806354Z",
                 "2025-10-17T17:52:00.160516Z",
                 "2025-10-17T20:08:09.980877Z",
-                "2025-10-17T23:05:49.294824Z"
+                "2025-10-17T23:05:49.294824Z",
+                "2025-10-18T00:02:21.622984Z"
             ]
         },
         {
@@ -12021,256 +12128,6 @@
                 "2025-07-12T19:05:42.009855Z",
                 "2025-07-14T04:25:53.192616Z",
                 "2025-07-15T02:55:45.305108Z"
-            ]
-        },
-        {
-            "id": "ea0ed2ad6a4b37313ba0488c41f28727",
-            "source": "spacenews",
-            "text": "Maxar secures $205 million in satellite imaging deals with governments in Middle East and Africa",
-            "source_link": "https://spacenews.com/maxar-secures-205-million-in-satellite-imaging-deals-with-governments-in-middle-east-and-africa/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-08T10:53:39.576677Z",
-            "shown_at": [
-                "2025-07-08T10:53:40.621666Z",
-                "2025-07-09T05:21:40.391460Z",
-                "2025-07-11T05:59:32.607397Z",
-                "2025-07-11T06:59:41.024377Z",
-                "2025-07-12T05:39:39.412405Z",
-                "2025-07-12T15:13:49.202845Z",
-                "2025-07-13T13:17:55.760685Z",
-                "2025-07-15T09:51:43.074541Z"
-            ]
-        },
-        {
-            "id": "3155e29077396f288bc254c0a9e315fe",
-            "source": "spacenews",
-            "text": "Muon Space names new leadership to advance role in government market",
-            "source_link": "https://spacenews.com/muon-space-taps-former-sda-official-to-lead-government-push/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-08T10:25:17.200190Z",
-            "shown_at": [
-                "2025-07-08T10:39:37.942212Z",
-                "2025-07-09T00:35:58.048837Z"
-            ]
-        },
-        {
-            "id": "152a52bd15edb840461fb4611d4ab4eb",
-            "source": "spacenews",
-            "text": "Commercial space industry groups ask Congress to fully fund TraCSS",
-            "source_link": "https://spacenews.com/commercial-space-industry-groups-ask-congress-to-fully-fund-tracss/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-08T10:25:17.200136Z",
-            "shown_at": [
-                "2025-07-08T10:25:17.815052Z",
-                "2025-07-10T03:17:50.646858Z",
-                "2025-07-12T07:35:49.888241Z",
-                "2025-07-12T17:07:36.231584Z",
-                "2025-07-13T08:05:38.352737Z"
-            ]
-        },
-        {
-            "id": "1e12b30c76338c1ca45f07a2ced9f070",
-            "source": "breaking_defense",
-            "text": "Industry lobbies to protect Commerce space office at risk of cuts",
-            "source_link": "https://breakingdefense.com/2025/07/industry-lobbies-to-protect-commerce-space-office-at-risk-of-cuts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-08T10:11:13.173531Z",
-            "shown_at": [
-                "2025-07-08T10:11:13.740488Z",
-                "2025-07-08T15:55:31.584991Z",
-                "2025-07-08T20:17:30.513457Z",
-                "2025-07-09T12:17:48.693819Z",
-                "2025-07-09T22:59:40.087857Z",
-                "2025-07-10T21:39:50.606633Z",
-                "2025-07-11T12:39:38.931088Z",
-                "2025-07-12T00:19:43.456330Z",
-                "2025-07-12T02:17:59.212657Z",
-                "2025-07-12T06:07:50.347297Z",
-                "2025-07-12T09:55:29.504184Z",
-                "2025-07-12T16:53:42.630425Z",
-                "2025-07-14T23:37:38.225525Z",
-                "2025-07-15T07:43:30.586068Z",
-                "2025-07-15T08:41:51.617856Z"
-            ]
-        },
-        {
-            "id": "134ec115330d7e4f65b38b29a92b6293",
-            "source": "spacenews",
-            "text": "ESA selects five companies for next phase of launcher competition",
-            "source_link": "https://spacenews.com/esa-selects-five-companies-for-next-phase-of-launcher-competition/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-08T02:37:15.305917Z",
-            "shown_at": [
-                "2025-07-08T02:37:15.710008Z",
-                "2025-07-09T04:21:18.244309Z",
-                "2025-07-09T23:15:50.264526Z",
-                "2025-07-10T00:11:46.245567Z",
-                "2025-07-10T06:39:54.094492Z",
-                "2025-07-10T21:11:56.551008Z",
-                "2025-07-12T01:35:46.448428Z"
-            ]
-        },
-        {
-            "id": "c02f56eca6b0453734f3708537192516",
-            "source": "spacenews",
-            "text": "Cooperation and consolidation: reshaping Europe’s space industry to last",
-            "source_link": "https://spacenews.com/cooperation-and-consolidation-reshaping-europes-space-industry-to-last/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-07T18:33:32.625490Z",
-            "shown_at": [
-                "2025-07-07T18:33:33.197430Z",
-                "2025-07-07T21:27:33.816248Z",
-                "2025-07-08T11:49:31.678138Z",
-                "2025-07-09T17:09:51.966680Z",
-                "2025-07-10T04:45:43.621448Z",
-                "2025-07-12T04:43:39.676002Z"
-            ]
-        },
-        {
-            "id": "6f49965fb966cecf6a1385998a8d7a00",
-            "source": "breaking_defense",
-            "text": "Integration, existing weapons and uncertainty: In Paris, industry makes its Golden Dome pitch",
-            "source_link": "https://breakingdefense.com/2025/07/in-paris-industry-makes-its-golden-dome-pitch-despite-uncertainty/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-07T16:51:32.648375Z",
-            "shown_at": [
-                "2025-07-07T16:51:33.289785Z",
-                "2025-07-07T17:49:39.704126Z",
-                "2025-07-07T18:47:54.424341Z",
-                "2025-07-07T19:45:39.586513Z",
-                "2025-07-07T22:37:16.301204Z",
-                "2025-07-08T00:31:51.894824Z",
-                "2025-07-08T06:11:43.151071Z",
-                "2025-07-08T11:35:38.131742Z",
-                "2025-07-09T03:39:27.265313Z",
-                "2025-07-09T06:35:55.347668Z",
-                "2025-07-09T16:41:11.838643Z",
-                "2025-07-09T17:37:36.199965Z",
-                "2025-07-09T23:57:36.992036Z",
-                "2025-07-10T00:53:41.448768Z",
-                "2025-07-10T15:31:53.364062Z",
-                "2025-07-11T00:32:08.403965Z",
-                "2025-07-11T14:45:45.251990Z",
-                "2025-07-11T17:34:05.049539Z",
-                "2025-07-12T12:47:53.036823Z",
-                "2025-07-12T17:53:48.278604Z",
-                "2025-07-13T12:47:42.140633Z",
-                "2025-07-13T21:23:06.838072Z",
-                "2025-07-13T22:19:47.284385Z",
-                "2025-07-14T13:17:42.205440Z"
-            ]
-        },
-        {
-            "id": "824eff72f376d20ec854481a357aa537",
-            "source": "spacenews",
-            "text": "As shutdown continues, science community keeps focus on long-term budget concerns",
-            "source_link": "https://spacenews.com/as-shutdown-continues-science-community-keeps-focus-on-long-term-budget-concerns/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-17T03:51:57.717794Z",
-            "shown_at": [
-                "2025-10-17T03:51:59.131611Z"
-            ]
-        },
-        {
-            "id": "91f2dac40d2e59803571f7bf7661df7b",
-            "source": "nyt",
-            "text": "An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever",
-            "source_link": "https://www.nytimes.com/2025/10/17/science/starfront-observatories-remote-astronomy.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-17T09:29:45.318576Z",
-            "shown_at": [
-                "2025-10-17T09:29:46.722732Z",
-                "2025-10-17T10:53:58.450044Z",
-                "2025-10-17T12:20:55.465451Z",
-                "2025-10-17T19:11:30.771382Z",
-                "2025-10-17T21:09:45.238830Z",
-                "2025-10-17T22:05:42.231057Z"
-            ]
-        },
-        {
-            "id": "44edb46e12f5302b8e3fee5592e5fa95",
-            "source": "spacenews",
-            "text": "First Ariane 64 launch slips to 2026",
-            "source_link": "https://spacenews.com/first-ariane-64-launch-slips-to-2026/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-17T11:14:07.138463Z",
-            "shown_at": [
-                "2025-10-17T11:14:08.833447Z"
-            ]
-        },
-        {
-            "id": "bac298dda787c837a2dcc11f39f332d9",
-            "source": "breaking_defense",
-            "text": "No future for Space Futures Command, sources say",
-            "source_link": "https://breakingdefense.com/2025/10/no-future-for-space-futures-command-sources-say/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-17T13:12:33.842433Z",
-            "shown_at": [
-                "2025-10-17T13:12:34.715603Z",
-                "2025-10-17T14:45:42.674570Z",
-                "2025-10-17T19:39:38.076979Z",
-                "2025-10-17T23:33:40.926928Z"
-            ]
-        },
-        {
-            "id": "765353017b6e17ebb559758f00e452ad",
-            "source": "spacenews",
-            "text": "Money is pouring into defense but dual-use is the real sweet spot",
-            "source_link": "https://spacenews.com/money-is-pouring-into-defense-but-dual-use-is-the-real-sweet-spot/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-17T13:34:05.212072Z",
-            "shown_at": [
-                "2025-10-17T13:34:05.874225Z",
-                "2025-10-17T22:19:49.791811Z"
-            ]
-        },
-        {
-            "id": "1cf6ba07bfab00832554a6b2da658d4e",
-            "source": "spacenews",
-            "text": "German launch startup HyImpulse raises 45 million euros",
-            "source_link": "https://spacenews.com/german-launch-startup-hyimpulse-raises-45-million-euros/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-17T16:06:14.240819Z",
-            "shown_at": [
-                "2025-10-17T16:06:14.986580Z",
-                "2025-10-17T23:19:36.411971Z"
-            ]
-        },
-        {
-            "id": "4e87e1314a18e9469be20d400786083f",
-            "source": "spacenews",
-            "text": "Europe outlines defense flagship programs and confirms European Space Shield by 2026",
-            "source_link": "https://spacenews.com/europe-outlines-defense-flagship-programs-and-confirms-european-space-shield-by-2026/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-17T18:11:49.171669Z",
-            "shown_at": [
-                "2025-10-17T18:11:49.793709Z"
-            ]
-        },
-        {
-            "id": "807ac3f6f905f0a715265b1c70908e14",
-            "source": "spacenews",
-            "text": "Planet Labs wins $12.8 million NGA contract for maritime intelligence in Asia-Pacific",
-            "source_link": "https://spacenews.com/planet-labs-wins-12-8-million-nga-contract-for-maritime-intelligence-in-asia-pacific/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-17T21:23:33.445775Z",
-            "shown_at": [
-                "2025-10-17T21:23:34.079108Z"
             ]
         }
     ]
