@@ -5,7 +5,7 @@
 | spacenews | 2 | 8 | 24 | 48 |
 | breaking_defense | 0 | 1 | 24 | 44 |
 | nyt | 0 | 1 | 24 | 43 |
-| supercluster | 1 | 1 | 161 | 239 |
+| supercluster | 1 | 1 | 162 | 240 |
 
 # Shown Order
 
@@ -6795,3 +6795,4 @@
 - **Oct 18, 03:33 PM** - They’re Ready to Go to Mars (nyt)
 - **Oct 18, 03:47 PM** - Special economic zones for restoring American space dominance (spacenews)
 - **Oct 18, 04:02 PM** - No future for Space Futures Command, sources say (breaking_defense)
+- **Oct 18, 04:17 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
