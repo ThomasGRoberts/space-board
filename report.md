@@ -5,7 +5,7 @@
 | spacenews | 4 | 12 | 24 | 49 |
 | breaking_defense | 1 | 1 | 22 | 43 |
 | nyt | 0 | 1 | 21 | 42 |
-| supercluster | 0 | 0 | 148 | 226 |
+| supercluster | 0 | 0 | 149 | 227 |
 
 # Shown Order
 
@@ -6756,3 +6756,4 @@
 - **Oct 18, 11:55 AM** - K2 Space announces plans for three-orbit demonstration mission (spacenews)
 - **Oct 18, 12:11 PM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 18, 12:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 18, 12:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
