@@ -5,7 +5,7 @@
 | spacenews | 6 | 14 | 22 | 49 |
 | breaking_defense | 1 | 1 | 20 | 41 |
 | nyt | 1 | 1 | 19 | 40 |
-| supercluster | 0 | 1 | 113 | 167 |
+| supercluster | 0 | 1 | 114 | 168 |
 
 # Shown Order
 
@@ -6655,3 +6655,4 @@
 - **Oct 18, 02:06 AM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
 - **Oct 18, 02:19 AM** - Planet Labs wins $12.8 million NGA contract for maritime intelligence in Asia-Pacific (spacenews)
 - **Oct 18, 02:33 AM** - No future for Space Futures Command, sources say (breaking_defense)
+- **Oct 18, 02:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
