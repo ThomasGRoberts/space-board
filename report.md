@@ -5,7 +5,7 @@
 | spacenews | 4 | 12 | 23 | 49 |
 | breaking_defense | 1 | 1 | 22 | 43 |
 | nyt | 0 | 1 | 21 | 42 |
-| supercluster | 0 | 0 | 146 | 225 |
+| supercluster | 0 | 0 | 147 | 226 |
 
 # Shown Order
 
@@ -6745,3 +6745,4 @@
 - **Oct 18, 10:43 AM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
 - **Oct 18, 10:57 AM** - First Ariane 64 launch slips to 2026 (spacenews)
 - **Oct 18, 11:13 AM** - No future for Space Futures Command, sources say (breaking_defense)
+- **Oct 18, 11:27 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
