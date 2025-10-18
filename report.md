@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 8 | 24 | 47 |
+| spacenews | 1 | 8 | 25 | 48 |
 | breaking_defense | 0 | 1 | 24 | 43 |
 | nyt | 0 | 1 | 25 | 44 |
 | supercluster | 1 | 1 | 175 | 260 |
@@ -6823,3 +6823,4 @@
 - **Oct 18, 06:21 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 18, 06:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 18, 06:26 PM** - They’re Ready to Go to Mars (nyt)
+- **Oct 18, 06:41 PM** - iRocket turns to missiles to fuel reusable launcher ambitions (spacenews)
