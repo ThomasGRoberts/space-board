@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 8 | 25 | 48 |
 | breaking_defense | 0 | 1 | 25 | 43 |
-| nyt | 0 | 1 | 24 | 43 |
+| nyt | 0 | 1 | 25 | 44 |
 | supercluster | 1 | 1 | 175 | 267 |
 
 # Shown Order
@@ -6852,3 +6852,4 @@
 - **Oct 18, 09:15 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Oct 18, 09:17 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Oct 18, 09:19 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
+- **Oct 18, 09:21 PM** - They’re Ready to Go to Mars (nyt)
