@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 12 | 23 | 49 |
-| breaking_defense | 1 | 1 | 22 | 42 |
+| spacenews | 4 | 12 | 24 | 50 |
+| breaking_defense | 1 | 1 | 21 | 42 |
 | nyt | 0 | 1 | 22 | 43 |
 | supercluster | 0 | 0 | 147 | 225 |
 
@@ -6753,3 +6753,4 @@
 - **Oct 18, 11:37 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 18, 11:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 18, 11:41 AM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
+- **Oct 18, 11:55 AM** - K2 Space announces plans for three-orbit demonstration mission (spacenews)
