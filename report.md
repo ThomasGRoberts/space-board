@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 14 | 22 | 48 |
 | breaking_defense | 1 | 1 | 19 | 40 |
-| nyt | 1 | 1 | 19 | 39 |
+| nyt | 1 | 1 | 20 | 40 |
 | supercluster | 0 | 1 | 106 | 160 |
 
 # Shown Order
@@ -6642,3 +6642,4 @@
 - **Oct 18, 12:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 18, 12:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 18, 12:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 18, 01:01 AM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
