@@ -5,7 +5,7 @@
 | spacenews | 5 | 13 | 23 | 48 |
 | breaking_defense | 1 | 1 | 21 | 42 |
 | nyt | 0 | 1 | 20 | 41 |
-| supercluster | 0 | 1 | 140 | 217 |
+| supercluster | 0 | 1 | 141 | 218 |
 
 # Shown Order
 
@@ -6726,3 +6726,4 @@
 - **Oct 18, 09:05 AM** - As shutdown continues, science community keeps focus on long-term budget concerns (spacenews)
 - **Oct 18, 09:19 AM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 18, 09:33 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 18, 09:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
