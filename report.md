@@ -5,7 +5,7 @@
 | spacenews | 3 | 9 | 24 | 48 |
 | breaking_defense | 0 | 1 | 23 | 43 |
 | nyt | 0 | 1 | 23 | 43 |
-| supercluster | 1 | 1 | 162 | 240 |
+| supercluster | 1 | 1 | 163 | 241 |
 
 # Shown Order
 
@@ -6786,3 +6786,4 @@
 - **Oct 18, 02:51 PM** - Space Pioneer raises $350 million as China’s commercial launch boom accelerates (spacenews)
 - **Oct 18, 03:06 PM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 18, 03:19 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
+- **Oct 18, 03:21 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
