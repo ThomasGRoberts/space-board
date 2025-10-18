@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 13 | 22 | 48 |
-| breaking_defense | 1 | 1 | 19 | 41 |
+| breaking_defense | 1 | 1 | 20 | 42 |
 | nyt | 1 | 1 | 20 | 41 |
-| supercluster | 0 | 1 | 123 | 188 |
+| supercluster | 0 | 1 | 122 | 188 |
 
 # Shown Order
 
@@ -6684,3 +6684,4 @@
 - **Oct 18, 04:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 18, 04:57 AM** - They’re Ready to Go to Mars (nyt)
 - **Oct 18, 05:11 AM** - Huge commercial Chinese solid rocket launches 3 satellites from barge in the Yellow Sea (spacenews)
+- **Oct 18, 05:25 AM** - Army budget prioritizes counterspace for first time (breaking_defense)
