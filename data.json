@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-19T00:02:10.540216+00:00",
-    "trigger_count": 2,
-    "current_item_id": "1b51759bd910f8feff496d0a375975ef",
+    "trigger_count": 3,
+    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
     "data": [
         {
             "id": "807ac3f6f905f0a715265b1c70908e14",
@@ -12050,17 +12050,17 @@
             ]
         },
         {
-            "id": "1b51759bd910f8feff496d0a375975ef",
+            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
             "source": "supercluster",
-            "text": "China Will Launch the Kinetica 1 Rocket",
-            "source_link": "https://www.supercluster.com/launches/kinetica-111",
+            "text": "SpaceX Will Launch Starlink Satellites from Florida",
+            "source_link": "https://www.supercluster.com/launches/starlink-10-17",
             "shown": true,
             "type": "launch",
-            "target_datetime": "2025-10-19T03:30:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-10-19T04:29:51.436641Z",
+            "target_datetime": "2025-10-19T14:52:00.000Z",
+            "time_remaining": "0d 10h 19m",
+            "fetched_datetime": "2025-10-19T04:32:04.300455Z",
             "shown_at": [
-                "2025-10-19T04:29:52.144606Z"
+                "2025-10-19T04:32:04.845753Z"
             ]
         }
     ]
