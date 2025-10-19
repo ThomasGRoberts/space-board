@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 3 | 24 | 47 |
+| spacenews | 0 | 3 | 25 | 48 |
 | breaking_defense | 0 | 0 | 24 | 46 |
 | nyt | 0 | 0 | 24 | 47 |
 | supercluster | 1 | 1 | 67 | 67 |
@@ -6661,3 +6661,4 @@
 - **Oct 19, 01:21 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 19, 01:23 PM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 19, 01:37 PM** - They’re Ready to Go to Mars (nyt)
+- **Oct 19, 01:51 PM** - Axiom Space replaces CEO (spacenews)
