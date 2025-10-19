@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 1 | 22 | 47 |
+| spacenews | 1 | 1 | 22 | 46 |
 | breaking_defense | 0 | 0 | 21 | 46 |
-| nyt | 0 | 0 | 22 | 46 |
-| supercluster | 1 | 1 | 18 | 18 |
+| nyt | 0 | 0 | 21 | 46 |
+| supercluster | 1 | 1 | 19 | 19 |
 
 # Shown Order
 
@@ -6634,3 +6634,4 @@
 - **Oct 19, 10:32 PM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 19, 10:47 PM** - SpaceX wins approval for increased Falcon launches from Vandenberg (spacenews)
 - **Oct 19, 11:01 PM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
+- **Oct 19, 11:21 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
