@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 3 | 24 | 48 |
-| breaking_defense | 0 | 0 | 23 | 46 |
+| breaking_defense | 0 | 0 | 24 | 47 |
 | nyt | 0 | 0 | 24 | 47 |
 | supercluster | 2 | 2 | 14 | 14 |
 
@@ -6612,3 +6612,4 @@
 - **Oct 19, 03:11 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 19, 03:13 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 19, 03:15 PM** - Impulse Space announces lunar lander plans (spacenews)
+- **Oct 19, 03:29 PM** - Army budget prioritizes counterspace for first time (breaking_defense)
