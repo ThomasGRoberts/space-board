@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 5 | 24 | 45 |
 | breaking_defense | 0 | 1 | 24 | 44 |
-| nyt | 0 | 1 | 24 | 43 |
+| nyt | 0 | 1 | 25 | 44 |
 | supercluster | 1 | 1 | 11 | 11 |
 
 # Shown Order
@@ -6580,3 +6580,4 @@
 - **Oct 19, 05:31 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 19, 05:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 19, 05:35 AM** - No future for Space Futures Command, sources say (breaking_defense)
+- **Oct 19, 05:50 AM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
