@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 5 | 24 | 45 |
+| spacenews | 0 | 5 | 25 | 46 |
 | breaking_defense | 0 | 1 | 24 | 43 |
 | nyt | 0 | 1 | 24 | 44 |
 | supercluster | 1 | 1 | 11 | 11 |
@@ -6581,3 +6581,4 @@
 - **Oct 19, 05:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 19, 05:35 AM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 19, 05:50 AM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
+- **Oct 19, 06:03 AM** - Surprise Chinese launch sends Shiyan-31 experimental satellite into orbit (spacenews)
