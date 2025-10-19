@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 5 | 24 | 47 |
-| breaking_defense | 0 | 1 | 24 | 44 |
-| nyt | 0 | 1 | 24 | 45 |
-| supercluster | 1 | 1 | 25 | 25 |
+| breaking_defense | 0 | 1 | 23 | 44 |
+| nyt | 0 | 1 | 24 | 44 |
+| supercluster | 1 | 1 | 26 | 26 |
 
 # Shown Order
 
@@ -6602,3 +6602,4 @@
 - **Oct 19, 07:37 AM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 19, 07:51 AM** - They’re Ready to Go to Mars (nyt)
 - **Oct 19, 08:07 AM** - China launches 12th group of Guowang broadband satellites as rocket milestone highlights accelerating launch rate (spacenews)
+- **Oct 19, 08:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
