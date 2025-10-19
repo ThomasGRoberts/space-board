@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 22 | 47 |
+| spacenews | 1 | 2 | 22 | 46 |
 | breaking_defense | 0 | 0 | 21 | 46 |
 | nyt | 0 | 0 | 21 | 46 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -6608,3 +6608,4 @@
 - **Oct 19, 07:05 PM** - Data Boom, Video Decline Reshapes Satellite Revenues by 2034 (spacenews)
 - **Oct 19, 07:21 PM** - They’re Ready to Go to Mars (nyt)
 - **Oct 19, 08:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 19, 08:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
