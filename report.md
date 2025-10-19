@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 5 | 24 | 46 |
+| spacenews | 0 | 5 | 25 | 47 |
 | breaking_defense | 0 | 1 | 24 | 45 |
 | nyt | 0 | 1 | 24 | 45 |
 | supercluster | 1 | 1 | 32 | 32 |
@@ -6611,3 +6611,4 @@
 - **Oct 19, 08:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 19, 08:35 AM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 19, 08:49 AM** - They’re Ready to Go to Mars (nyt)
+- **Oct 19, 09:05 AM** - Starship successfully completes 11th flight test (spacenews)
