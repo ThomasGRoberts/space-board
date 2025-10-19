@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 23 | 48 |
+| spacenews | 1 | 3 | 24 | 49 |
 | breaking_defense | 0 | 0 | 24 | 47 |
 | nyt | 0 | 0 | 23 | 47 |
 | supercluster | 2 | 2 | 21 | 21 |
@@ -6623,3 +6623,4 @@
 - **Oct 19, 04:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 19, 04:31 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 19, 04:33 PM** - No future for Space Futures Command, sources say (breaking_defense)
+- **Oct 19, 04:55 PM** - German launch startup HyImpulse raises 45 million euros (spacenews)
