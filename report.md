@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 5 | 24 | 47 |
-| breaking_defense | 0 | 1 | 24 | 44 |
+| breaking_defense | 0 | 1 | 23 | 44 |
 | nyt | 0 | 1 | 24 | 45 |
-| supercluster | 1 | 1 | 33 | 33 |
+| supercluster | 1 | 1 | 34 | 34 |
 
 # Shown Order
 
@@ -6613,3 +6613,4 @@
 - **Oct 19, 08:49 AM** - They’re Ready to Go to Mars (nyt)
 - **Oct 19, 09:05 AM** - Starship successfully completes 11th flight test (spacenews)
 - **Oct 19, 09:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 19, 09:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
