@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 1 | 22 | 47 |
 | breaking_defense | 0 | 0 | 21 | 46 |
-| nyt | 0 | 0 | 21 | 46 |
+| nyt | 0 | 0 | 22 | 47 |
 | supercluster | 1 | 1 | 18 | 18 |
 
 # Shown Order
@@ -6633,3 +6633,4 @@
 - **Oct 19, 10:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 19, 10:32 PM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 19, 10:47 PM** - SpaceX wins approval for increased Falcon launches from Vandenberg (spacenews)
+- **Oct 19, 11:01 PM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
