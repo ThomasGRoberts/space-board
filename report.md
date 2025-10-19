@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 35 | 35 |
-| spacenews | 0 | 6 | 24 | 47 |
+| spacenews | 0 | 6 | 25 | 48 |
 | breaking_defense | 0 | 1 | 25 | 44 |
 | nyt | 0 | 1 | 25 | 44 |
 
@@ -6590,3 +6590,4 @@
 - **Oct 18, 11:59 PM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Oct 19, 12:02 AM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 19, 12:17 AM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
+- **Oct 19, 12:32 AM** - Beyond the downlink: Why Earth-independent AI is the next moat in space operations (spacenews)
