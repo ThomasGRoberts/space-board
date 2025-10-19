@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 5 | 24 | 46 |
 | breaking_defense | 0 | 1 | 24 | 45 |
-| nyt | 0 | 1 | 24 | 44 |
+| nyt | 0 | 1 | 25 | 45 |
 | supercluster | 1 | 1 | 32 | 32 |
 
 # Shown Order
@@ -6610,3 +6610,4 @@
 - **Oct 19, 08:32 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 19, 08:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 19, 08:35 AM** - Army budget prioritizes counterspace for first time (breaking_defense)
+- **Oct 19, 08:49 AM** - They’re Ready to Go to Mars (nyt)
