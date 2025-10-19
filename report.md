@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 4 | 24 | 49 |
 | breaking_defense | 0 | 0 | 24 | 47 |
-| nyt | 0 | 0 | 23 | 47 |
+| nyt | 0 | 0 | 24 | 48 |
 | supercluster | 2 | 2 | 14 | 14 |
 
 # Shown Order
@@ -6614,3 +6614,4 @@
 - **Oct 19, 03:15 PM** - Impulse Space announces lunar lander plans (spacenews)
 - **Oct 19, 03:29 PM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 19, 03:44 PM** - China resumes launches for Thousand Sails constellation, CAS Space launches new international payload (spacenews)
+- **Oct 19, 03:57 PM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
