@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 5 | 24 | 46 |
-| breaking_defense | 0 | 1 | 24 | 43 |
+| breaking_defense | 0 | 1 | 23 | 43 |
 | nyt | 0 | 1 | 24 | 44 |
-| supercluster | 1 | 1 | 6 | 6 |
+| supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
 
@@ -6574,3 +6574,4 @@
 - **Oct 19, 05:07 AM** - The Mars moment: Why now is the time to build the future  (spacenews)
 - **Oct 19, 05:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 19, 05:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 19, 05:25 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
