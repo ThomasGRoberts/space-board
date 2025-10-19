@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-19T00:02:10.540216+00:00",
-    "trigger_count": 6,
-    "current_item_id": "91f2dac40d2e59803571f7bf7661df7b",
+    "trigger_count": 0,
+    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
     "data": [
         {
             "id": "807ac3f6f905f0a715265b1c70908e14",
@@ -12088,26 +12088,6 @@
             ]
         },
         {
-            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from Florida",
-            "source_link": "https://www.supercluster.com/launches/starlink-10-17",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-10-19T17:39:00.000Z",
-            "time_remaining": "0d 02h 25m",
-            "fetched_datetime": "2025-10-19T15:02:01.842667Z",
-            "shown_at": [
-                "2025-10-19T15:02:02.568835Z",
-                "2025-10-19T15:03:39.269772Z",
-                "2025-10-19T15:05:13.491522Z",
-                "2025-10-19T15:07:37.501067Z",
-                "2025-10-19T15:09:44.474331Z",
-                "2025-10-19T15:11:37.215947Z",
-                "2025-10-19T15:13:38.679932Z"
-            ]
-        },
-        {
             "id": "6758b6ffeb36e5412f61b7d655861e7c",
             "source": "spacenews",
             "text": "China resumes launches for Thousand Sails constellation, CAS Space launches new international payload",
@@ -12117,6 +12097,20 @@
             "fetched_datetime": "2025-10-19T15:43:59.606965Z",
             "shown_at": [
                 "2025-10-19T15:44:00.549819Z"
+            ]
+        },
+        {
+            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Starlink Satellites from Florida",
+            "source_link": "https://www.supercluster.com/launches/starlink-10-17",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-10-19T17:39:00.000Z",
+            "time_remaining": "",
+            "fetched_datetime": "2025-10-19T17:41:37.018110Z",
+            "shown_at": [
+                "2025-10-19T17:41:37.618691Z"
             ]
         }
     ]
