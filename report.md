@@ -5,7 +5,7 @@
 | spacenews | 0 | 4 | 24 | 48 |
 | breaking_defense | 0 | 1 | 24 | 46 |
 | nyt | 0 | 0 | 24 | 46 |
-| supercluster | 1 | 1 | 60 | 60 |
+| supercluster | 1 | 1 | 61 | 61 |
 
 # Shown Order
 
@@ -6652,3 +6652,4 @@
 - **Oct 19, 12:27 PM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 19, 12:41 PM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
 - **Oct 19, 12:56 PM** - Beyond Gravity plans US push after fivefold boost in European solar mechanism output (spacenews)
+- **Oct 19, 01:09 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
