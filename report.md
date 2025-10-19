@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 1 | 22 | 47 |
+| spacenews | 1 | 1 | 22 | 46 |
 | breaking_defense | 0 | 0 | 21 | 46 |
 | nyt | 0 | 0 | 21 | 46 |
-| supercluster | 1 | 1 | 13 | 13 |
+| supercluster | 1 | 1 | 14 | 14 |
 
 # Shown Order
 
@@ -6626,3 +6626,4 @@
 - **Oct 19, 10:02 PM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
 - **Oct 19, 10:17 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 19, 10:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 19, 10:21 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
