@@ -5,7 +5,7 @@
 | spacenews | 1 | 3 | 24 | 49 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | nyt | 0 | 0 | 24 | 48 |
-| supercluster | 2 | 2 | 21 | 21 |
+| supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
 
@@ -6595,13 +6595,6 @@
 - **Oct 19, 01:23 PM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 19, 01:37 PM** - They’re Ready to Go to Mars (nyt)
 - **Oct 19, 01:51 PM** - Axiom Space replaces CEO (spacenews)
-- **Oct 19, 02:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Oct 19, 02:21 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Oct 19, 02:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Oct 19, 02:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Oct 19, 02:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Oct 19, 02:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Oct 19, 02:31 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 19, 02:33 PM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 19, 02:47 PM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
 - **Oct 19, 03:02 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
@@ -6615,13 +6608,6 @@
 - **Oct 19, 03:29 PM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 19, 03:44 PM** - China resumes launches for Thousand Sails constellation, CAS Space launches new international payload (spacenews)
 - **Oct 19, 03:57 PM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
-- **Oct 19, 04:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Oct 19, 04:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Oct 19, 04:17 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Oct 19, 04:20 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Oct 19, 04:24 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Oct 19, 04:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Oct 19, 04:31 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 19, 04:33 PM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 19, 04:55 PM** - German launch startup HyImpulse raises 45 million euros (spacenews)
 - **Oct 19, 05:18 PM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
