@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 5 | 24 | 48 |
-| breaking_defense | 0 | 1 | 24 | 45 |
+| breaking_defense | 0 | 1 | 23 | 45 |
 | nyt | 0 | 0 | 24 | 45 |
-| supercluster | 1 | 1 | 46 | 46 |
+| supercluster | 1 | 1 | 47 | 47 |
 
 # Shown Order
 
@@ -6632,3 +6632,4 @@
 - **Oct 19, 10:31 AM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 19, 10:46 AM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
 - **Oct 19, 10:59 AM** - Beyond the downlink: Why Earth-independent AI is the next moat in space operations (spacenews)
+- **Oct 19, 11:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
