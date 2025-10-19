@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 5 | 24 | 45 |
 | breaking_defense | 0 | 1 | 24 | 44 |
-| nyt | 0 | 1 | 24 | 43 |
+| nyt | 0 | 1 | 25 | 44 |
 | supercluster | 1 | 1 | 18 | 18 |
 
 # Shown Order
@@ -6590,3 +6590,4 @@
 - **Oct 19, 06:32 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 19, 06:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 19, 06:35 AM** - No future for Space Futures Command, sources say (breaking_defense)
+- **Oct 19, 06:51 AM** - They’re Ready to Go to Mars (nyt)
