@@ -5,7 +5,7 @@
 | spacenews | 0 | 5 | 24 | 46 |
 | breaking_defense | 0 | 1 | 24 | 43 |
 | nyt | 0 | 1 | 24 | 44 |
-| supercluster | 1 | 1 | 18 | 18 |
+| supercluster | 1 | 1 | 19 | 19 |
 
 # Shown Order
 
@@ -6592,3 +6592,4 @@
 - **Oct 19, 06:35 AM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 19, 06:51 AM** - They’re Ready to Go to Mars (nyt)
 - **Oct 19, 07:07 AM** - ‘Space Armor’ to challenge traditional metal shielding on satellites (spacenews)
+- **Oct 19, 07:22 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
