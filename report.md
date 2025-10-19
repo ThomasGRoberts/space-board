@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 37 | 37 |
+| supercluster | 1 | 1 | 38 | 38 |
 | spacenews | 0 | 6 | 25 | 47 |
-| breaking_defense | 0 | 1 | 24 | 44 |
+| breaking_defense | 0 | 1 | 24 | 43 |
 | nyt | 0 | 1 | 25 | 44 |
 
 # Shown Order
@@ -6593,3 +6593,4 @@
 - **Oct 19, 12:32 AM** - Beyond the downlink: Why Earth-independent AI is the next moat in space operations (spacenews)
 - **Oct 19, 12:47 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Oct 19, 12:49 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
+- **Oct 19, 12:51 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
