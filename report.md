@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 5 | 24 | 48 |
+| spacenews | 0 | 4 | 24 | 47 |
 | breaking_defense | 0 | 1 | 23 | 45 |
 | nyt | 0 | 0 | 24 | 45 |
-| supercluster | 1 | 1 | 47 | 47 |
+| supercluster | 1 | 1 | 48 | 48 |
 
 # Shown Order
 
@@ -6633,3 +6633,4 @@
 - **Oct 19, 10:46 AM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
 - **Oct 19, 10:59 AM** - Beyond the downlink: Why Earth-independent AI is the next moat in space operations (spacenews)
 - **Oct 19, 11:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 19, 11:15 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
