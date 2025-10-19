@@ -2,10 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 23 | 48 |
+| spacenews | 1 | 2 | 23 | 47 |
 | breaking_defense | 0 | 0 | 22 | 47 |
 | nyt | 0 | 0 | 23 | 47 |
-| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -6604,7 +6603,6 @@
 - **Oct 19, 04:33 PM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 19, 04:55 PM** - German launch startup HyImpulse raises 45 million euros (spacenews)
 - **Oct 19, 05:18 PM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
-- **Oct 19, 06:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 19, 06:44 PM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 19, 07:05 PM** - Data Boom, Video Decline Reshapes Satellite Revenues by 2034 (spacenews)
 - **Oct 19, 07:21 PM** - They’re Ready to Go to Mars (nyt)
