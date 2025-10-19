@@ -5,7 +5,7 @@
 | spacenews | 0 | 5 | 24 | 46 |
 | breaking_defense | 0 | 1 | 24 | 43 |
 | nyt | 0 | 1 | 24 | 44 |
-| supercluster | 1 | 1 | 4 | 4 |
+| supercluster | 1 | 1 | 5 | 5 |
 
 # Shown Order
 
@@ -6572,3 +6572,4 @@
 - **Oct 19, 04:39 AM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 19, 04:54 AM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
 - **Oct 19, 05:07 AM** - The Mars moment: Why now is the time to build the future  (spacenews)
+- **Oct 19, 05:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
