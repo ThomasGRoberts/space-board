@@ -5,7 +5,7 @@
 | spacenews | 1 | 3 | 24 | 48 |
 | breaking_defense | 0 | 0 | 23 | 47 |
 | nyt | 0 | 0 | 24 | 48 |
-| supercluster | 2 | 2 | 14 | 14 |
+| supercluster | 2 | 2 | 15 | 15 |
 
 # Shown Order
 
@@ -6615,3 +6615,4 @@
 - **Oct 19, 03:29 PM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 19, 03:44 PM** - China resumes launches for Thousand Sails constellation, CAS Space launches new international payload (spacenews)
 - **Oct 19, 03:57 PM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
+- **Oct 19, 04:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
