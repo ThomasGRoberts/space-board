@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-19T00:02:10.540216+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5b2aa8a9c454ad1ffbc55dd22e5a7707",
+    "trigger_count": 0,
+    "current_item_id": "1b51759bd910f8feff496d0a375975ef",
     "data": [
         {
             "id": "807ac3f6f905f0a715265b1c70908e14",
@@ -12047,6 +12047,20 @@
                 "2025-07-12T19:05:42.009855Z",
                 "2025-07-14T04:25:53.192616Z",
                 "2025-07-15T02:55:45.305108Z"
+            ]
+        },
+        {
+            "id": "1b51759bd910f8feff496d0a375975ef",
+            "source": "supercluster",
+            "text": "China Will Launch the Kinetica 1 Rocket",
+            "source_link": "https://www.supercluster.com/launches/kinetica-111",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-10-19T03:30:00.000Z",
+            "time_remaining": "",
+            "fetched_datetime": "2025-10-19T03:43:58.431873Z",
+            "shown_at": [
+                "2025-10-19T03:44:00.076648Z"
             ]
         }
     ]
