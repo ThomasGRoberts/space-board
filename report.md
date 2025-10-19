@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 5 | 24 | 46 |
-| breaking_defense | 0 | 1 | 23 | 43 |
+| breaking_defense | 0 | 1 | 24 | 44 |
 | nyt | 0 | 1 | 24 | 43 |
 | supercluster | 1 | 1 | 4 | 4 |
 
@@ -6569,3 +6569,4 @@
 - **Oct 19, 04:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 19, 04:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 19, 04:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 19, 04:39 AM** - Army budget prioritizes counterspace for first time (breaking_defense)
