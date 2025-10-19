@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 56 | 56 |
-| spacenews | 0 | 6 | 24 | 47 |
+| spacenews | 0 | 6 | 25 | 48 |
 | breaking_defense | 0 | 1 | 25 | 44 |
 | nyt | 0 | 1 | 25 | 44 |
 
@@ -6620,3 +6620,4 @@
 - **Oct 19, 02:59 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
 - **Oct 19, 03:02 AM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 19, 03:15 AM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
+- **Oct 19, 03:29 AM** - The Mars moment: Why now is the time to build the future  (spacenews)
