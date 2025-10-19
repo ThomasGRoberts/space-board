@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-19T00:02:10.540216+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d82675a8aa3d5448d6da9b04a1881c0c",
+    "trigger_count": 0,
+    "current_item_id": "6758b6ffeb36e5412f61b7d655861e7c",
     "data": [
         {
             "id": "807ac3f6f905f0a715265b1c70908e14",
@@ -12121,6 +12121,18 @@
                 "2025-10-19T15:09:44.474331Z",
                 "2025-10-19T15:11:37.215947Z",
                 "2025-10-19T15:13:38.679932Z"
+            ]
+        },
+        {
+            "id": "6758b6ffeb36e5412f61b7d655861e7c",
+            "source": "spacenews",
+            "text": "China resumes launches for Thousand Sails constellation, CAS Space launches new international payload",
+            "source_link": "https://spacenews.com/china-resumes-launches-for-thousand-sails-constellation-cas-space-launches-new-international-payload/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-19T15:43:59.606965Z",
+            "shown_at": [
+                "2025-10-19T15:44:00.549819Z"
             ]
         }
     ]
