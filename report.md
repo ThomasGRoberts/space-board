@@ -6565,4 +6565,4 @@
 - **Oct 19, 03:02 AM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 19, 03:15 AM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
 - **Oct 19, 03:29 AM** - The Mars moment: Why now is the time to build the future  (spacenews)
-- **Oct 19, 04:19 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
+- **Oct 19, 04:21 AM** - China Will Launch the Kinetica 1 Rocket (supercluster)
