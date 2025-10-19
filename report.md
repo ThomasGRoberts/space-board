@@ -5,7 +5,7 @@
 | spacenews | 0 | 5 | 24 | 47 |
 | breaking_defense | 0 | 1 | 23 | 45 |
 | nyt | 0 | 0 | 24 | 45 |
-| supercluster | 1 | 1 | 39 | 39 |
+| supercluster | 1 | 1 | 40 | 40 |
 
 # Shown Order
 
@@ -6622,3 +6622,4 @@
 - **Oct 19, 09:33 AM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 19, 09:47 AM** - They’re Ready to Go to Mars (nyt)
 - **Oct 19, 10:02 AM** - As shutdown continues, science community keeps focus on long-term budget concerns (spacenews)
+- **Oct 19, 10:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
