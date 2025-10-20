@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 39 | 39 |
 | spacenews | 1 | 1 | 22 | 47 |
 | breaking_defense | 0 | 0 | 21 | 46 |
-| nyt | 0 | 0 | 21 | 46 |
+| nyt | 0 | 0 | 22 | 46 |
 
 # Shown Order
 
@@ -6657,3 +6657,4 @@
 - **Oct 20, 01:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 20, 01:37 AM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 20, 01:51 AM** - JAXA to launch tech demo satellites on Electron rockets (spacenews)
+- **Oct 20, 02:07 AM** - They’re Ready to Go to Mars (nyt)
