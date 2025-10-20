@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 53 | 53 |
+| supercluster | 1 | 1 | 54 | 54 |
 | spacenews | 2 | 2 | 22 | 46 |
 | breaking_defense | 0 | 0 | 22 | 46 |
 | nyt | 0 | 0 | 22 | 46 |
@@ -6678,3 +6678,4 @@
 - **Oct 20, 03:35 AM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 20, 03:49 AM** - Innospace gets license for first orbital launch attempt (spacenews)
 - **Oct 20, 04:05 AM** - They’re Ready to Go to Mars (nyt)
+- **Oct 20, 04:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
