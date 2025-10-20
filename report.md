@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 129 | 129 |
+| supercluster | 1 | 1 | 130 | 130 |
 | spacenews | 2 | 3 | 21 | 43 |
 | breaking_defense | 0 | 0 | 20 | 42 |
 | nyt | 0 | 0 | 21 | 43 |
@@ -6790,3 +6790,4 @@
 - **Oct 20, 05:45 PM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 20, 06:18 PM** - Viasat takes aim at the U.S. military satellite market (spacenews)
 - **Oct 20, 06:43 PM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
+- **Oct 20, 06:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
