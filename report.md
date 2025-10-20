@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 124 | 124 |
+| supercluster | 1 | 1 | 125 | 125 |
 | spacenews | 2 | 3 | 20 | 44 |
 | breaking_defense | 0 | 0 | 20 | 43 |
 | nyt | 0 | 0 | 20 | 44 |
@@ -6782,3 +6782,4 @@
 - **Oct 20, 04:29 PM** - Viasat and Space42’s D2D joint venture finds first mobile partner in UAE (spacenews)
 - **Oct 20, 05:00 PM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
 - **Oct 20, 05:17 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 20, 05:21 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
