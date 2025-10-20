@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 100 | 100 |
+| supercluster | 1 | 1 | 101 | 101 |
 | spacenews | 2 | 2 | 21 | 45 |
 | breaking_defense | 0 | 0 | 20 | 44 |
-| nyt | 0 | 0 | 21 | 45 |
+| nyt | 0 | 0 | 20 | 44 |
 
 # Shown Order
 
@@ -6746,3 +6746,4 @@
 - **Oct 20, 11:59 AM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 20, 12:13 PM** - SmallSat Education Conference Aerospace Education Event for Educators, Parents, and Students (Middle School, High School, College) (spacenews)
 - **Oct 20, 12:27 PM** - They’re Ready to Go to Mars (nyt)
+- **Oct 20, 12:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
