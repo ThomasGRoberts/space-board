@@ -1,9 +1,59 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-10-19T00:02:10.540216+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2025-10-20T00:02:09.274241+00:00",
+    "trigger_count": 6,
     "current_item_id": "5ce391afae8abaff07efa4cd1f56a265",
     "data": [
+        {
+            "id": "4beba9b243fe616fcb8e7be8d963bbc1",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Starlink Satellites from California",
+            "source_link": "https://www.supercluster.com/launches/starlink-11-5",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-10-22T14:00:00.000Z",
+            "time_remaining": "2d 14h 26m",
+            "fetched_datetime": "2025-10-19T20:25:41.837393Z",
+            "shown_at": [
+                "2025-10-19T20:25:42.544721Z",
+                "2025-10-19T20:27:49.485793Z",
+                "2025-10-19T20:29:18.268605Z",
+                "2025-10-19T20:31:49.952467Z",
+                "2025-10-19T21:19:59.012894Z",
+                "2025-10-19T21:22:00.653573Z",
+                "2025-10-19T21:23:34.020417Z",
+                "2025-10-19T21:25:53.222893Z",
+                "2025-10-19T21:27:34.941465Z",
+                "2025-10-19T21:29:47.301942Z",
+                "2025-10-19T21:31:50.905143Z",
+                "2025-10-19T22:17:50.322503Z",
+                "2025-10-19T22:19:47.449282Z",
+                "2025-10-19T22:21:42.696126Z",
+                "2025-10-19T22:23:46.818762Z",
+                "2025-10-19T22:25:36.330038Z",
+                "2025-10-19T22:27:46.536808Z",
+                "2025-10-19T22:29:32.890164Z",
+                "2025-10-19T23:21:22.158077Z",
+                "2025-10-19T23:23:58.923628Z",
+                "2025-10-19T23:25:38.022882Z",
+                "2025-10-19T23:27:51.225596Z",
+                "2025-10-19T23:29:48.204337Z",
+                "2025-10-19T23:32:02.931418Z",
+                "2025-10-19T23:33:30.643505Z"
+            ]
+        },
+        {
+            "id": "6758b6ffeb36e5412f61b7d655861e7c",
+            "source": "spacenews",
+            "text": "China resumes launches for Thousand Sails constellation, CAS Space launches new international payload",
+            "source_link": "https://spacenews.com/china-resumes-launches-for-thousand-sails-constellation-cas-space-launches-new-international-payload/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-19T15:43:59.606965Z",
+            "shown_at": [
+                "2025-10-19T15:44:00.549819Z"
+            ]
+        },
         {
             "id": "807ac3f6f905f0a715265b1c70908e14",
             "source": "spacenews",
@@ -12082,73 +12132,6 @@
                 "2025-07-10T07:37:36.482417Z",
                 "2025-07-11T01:02:07.093416Z",
                 "2025-07-13T11:23:50.768459Z"
-            ]
-        },
-        {
-            "id": "6e2288ebd5792341fb4d1641e4e5b759",
-            "source": "spacenews",
-            "text": "Northrop Grumman stakes role in Golden Dome missile shield",
-            "source_link": "https://spacenews.com/northrop-grumman-stakes-role-in-golden-dome-missile-shield/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-08T13:02:10.577822Z",
-            "shown_at": [
-                "2025-07-08T13:02:11.617589Z",
-                "2025-07-09T06:19:45.826160Z",
-                "2025-07-09T18:19:36.401270Z",
-                "2025-07-12T19:05:42.009855Z",
-                "2025-07-14T04:25:53.192616Z",
-                "2025-07-15T02:55:45.305108Z"
-            ]
-        },
-        {
-            "id": "6758b6ffeb36e5412f61b7d655861e7c",
-            "source": "spacenews",
-            "text": "China resumes launches for Thousand Sails constellation, CAS Space launches new international payload",
-            "source_link": "https://spacenews.com/china-resumes-launches-for-thousand-sails-constellation-cas-space-launches-new-international-payload/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-19T15:43:59.606965Z",
-            "shown_at": [
-                "2025-10-19T15:44:00.549819Z"
-            ]
-        },
-        {
-            "id": "4beba9b243fe616fcb8e7be8d963bbc1",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from California",
-            "source_link": "https://www.supercluster.com/launches/starlink-11-5",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-10-22T14:00:00.000Z",
-            "time_remaining": "2d 14h 26m",
-            "fetched_datetime": "2025-10-19T20:25:41.837393Z",
-            "shown_at": [
-                "2025-10-19T20:25:42.544721Z",
-                "2025-10-19T20:27:49.485793Z",
-                "2025-10-19T20:29:18.268605Z",
-                "2025-10-19T20:31:49.952467Z",
-                "2025-10-19T21:19:59.012894Z",
-                "2025-10-19T21:22:00.653573Z",
-                "2025-10-19T21:23:34.020417Z",
-                "2025-10-19T21:25:53.222893Z",
-                "2025-10-19T21:27:34.941465Z",
-                "2025-10-19T21:29:47.301942Z",
-                "2025-10-19T21:31:50.905143Z",
-                "2025-10-19T22:17:50.322503Z",
-                "2025-10-19T22:19:47.449282Z",
-                "2025-10-19T22:21:42.696126Z",
-                "2025-10-19T22:23:46.818762Z",
-                "2025-10-19T22:25:36.330038Z",
-                "2025-10-19T22:27:46.536808Z",
-                "2025-10-19T22:29:32.890164Z",
-                "2025-10-19T23:21:22.158077Z",
-                "2025-10-19T23:23:58.923628Z",
-                "2025-10-19T23:25:38.022882Z",
-                "2025-10-19T23:27:51.225596Z",
-                "2025-10-19T23:29:48.204337Z",
-                "2025-10-19T23:32:02.931418Z",
-                "2025-10-19T23:33:30.643505Z"
             ]
         }
     ]

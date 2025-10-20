@@ -2,14 +2,13 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
+| supercluster | 1 | 1 | 25 | 25 |
 | spacenews | 1 | 1 | 22 | 47 |
 | breaking_defense | 0 | 0 | 22 | 46 |
 | nyt | 0 | 0 | 21 | 46 |
-| supercluster | 1 | 1 | 25 | 25 |
 
 # Shown Order
 
-- **Jul 08, 01:02 PM** - Northrop Grumman stakes role in Golden Dome missile shield (spacenews)
 - **Jul 08, 01:17 PM** - China is practing orbital warfare to win in space (spacenews)
 - **Jul 08, 05:27 PM** - House committee’s NDAA authorizes more money for Ukraine, thwarts troop reductions in Europe (breaking_defense)
 - **Jul 08, 06:37 PM** - House committee’s NDAA authorizes more money for Ukraine, thwarts troop reductions in Europe (breaking_defense)
@@ -26,7 +25,6 @@
 - **Jul 09, 02:41 AM** - Air Force, Space Force seek $16B extra for FY26 ‘unfunded priorities’ (breaking_defense)
 - **Jul 09, 04:36 AM** - From fighters jets to space systems: Military sends lawmakers over $20B-worth of unfunded priorities (breaking_defense)
 - **Jul 09, 05:35 AM** - From fighter jets to space systems: Military sends lawmakers over $20B-worth of unfunded priorities (breaking_defense)
-- **Jul 09, 06:19 AM** - Northrop Grumman stakes role in Golden Dome missile shield (spacenews)
 - **Jul 09, 09:15 AM** - Synspective signs multi-launch agreement with Exolaunch (spacenews)
 - **Jul 09, 11:07 AM** - A new approach to space diplomacy: Hard-hitting calculations outweigh foreign-policy considerations (spacenews)
 - **Jul 09, 01:13 PM** - Defense startups across Europe need a blueprint to compete (spacenews)
@@ -36,7 +34,6 @@
 - **Jul 09, 02:45 PM** - Sens. Fischer, Rounds: Setting the record straight on how we protected defense spectrum in the 5G era (breaking_defense)
 - **Jul 09, 04:13 PM** - EnduroSat USA names former DARPA official as CEO to lead U.S. expansion (spacenews)
 - **Jul 09, 06:05 PM** - From fighter jets to space systems: Military sends lawmakers nearly $50B-worth of unfunded priorities (breaking_defense)
-- **Jul 09, 06:19 PM** - Northrop Grumman stakes role in Golden Dome missile shield (spacenews)
 - **Jul 09, 07:01 PM** - Starlink gets key India approval, but other regulatory hurdles stand in the way of service (spacenews)
 - **Jul 09, 07:15 PM** - From fighter jets to space systems: Military sends lawmakers nearly $50B-worth of unfunded priorities (breaking_defense)
 - **Jul 09, 08:11 PM** - From fighter jets to space systems: Military sends lawmakers over $20B-worth of unfunded priorities (breaking_defense)
@@ -205,7 +202,6 @@
 - **Jul 12, 06:07 PM** - China eyes the moon, Mars and space dominance (spacenews)
 - **Jul 12, 06:35 PM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 12, 06:49 PM** - From fighter jets to space systems: Military sends lawmakers over $20B-worth of unfunded priorities (breaking_defense)
-- **Jul 12, 07:05 PM** - Northrop Grumman stakes role in Golden Dome missile shield (spacenews)
 - **Jul 12, 07:33 PM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 12, 07:47 PM** - From fighter jets to space systems: Military sends lawmakers over $20B-worth of unfunded priorities (breaking_defense)
 - **Jul 12, 08:02 PM** - EnduroSat USA names former DARPA official as CEO to lead U.S. expansion (spacenews)
@@ -299,7 +295,6 @@
 - **Jul 14, 03:29 AM** - Japan’s Interstellar secures $62 million in series F funding (spacenews)
 - **Jul 14, 03:58 AM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 14, 04:11 AM** - Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force (breaking_defense)
-- **Jul 14, 04:25 AM** - Northrop Grumman stakes role in Golden Dome missile shield (spacenews)
 - **Jul 14, 04:53 AM** - Trump Names Sean Duffy as Interim Head of NASA (nyt)
 - **Jul 14, 05:07 AM** - From fighter jets to space systems: Military sends lawmakers nearly $50B-worth of unfunded priorities (breaking_defense)
 - **Jul 14, 05:21 AM** - We’ve lost our ability to be awed by space (spacenews)
@@ -364,7 +359,6 @@
 - **Jul 15, 01:59 AM** - Defense startups across Europe need a blueprint to compete (spacenews)
 - **Jul 15, 02:27 AM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
 - **Jul 15, 02:41 AM** - Sens. Fischer, Rounds: Setting the record straight on how we protected defense spectrum in the 5G era (breaking_defense)
-- **Jul 15, 02:55 AM** - Northrop Grumman stakes role in Golden Dome missile shield (spacenews)
 - **Jul 15, 03:23 AM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
 - **Jul 15, 03:37 AM** - From fighter jets to space systems: Military sends lawmakers nearly $50B-worth of unfunded priorities (breaking_defense)
 - **Jul 15, 03:51 AM** - Budget reconciliation bill includes tax break for spaceport bonds (spacenews)
