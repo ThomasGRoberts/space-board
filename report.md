@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 136 | 136 |
 | spacenews | 2 | 3 | 21 | 43 |
 | breaking_defense | 0 | 0 | 21 | 43 |
-| nyt | 0 | 0 | 20 | 42 |
+| nyt | 0 | 0 | 21 | 43 |
 
 # Shown Order
 
@@ -6799,3 +6799,4 @@
 - **Oct 20, 07:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 20, 07:18 PM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 20, 07:37 PM** - First Ariane 64 launch slips to 2026 (spacenews)
+- **Oct 20, 07:51 PM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
