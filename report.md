@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 121 | 121 |
-| spacenews | 3 | 3 | 21 | 44 |
+| spacenews | 3 | 3 | 22 | 45 |
 | breaking_defense | 0 | 0 | 21 | 45 |
 | nyt | 0 | 0 | 20 | 44 |
 
@@ -6774,3 +6774,4 @@
 - **Oct 20, 02:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 20, 02:49 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 20, 02:51 PM** - No future for Space Futures Command, sources say (breaking_defense)
+- **Oct 20, 03:06 PM** - Polish space company Scanway Space secures U.S., European deals amid international expansion drive (spacenews)
