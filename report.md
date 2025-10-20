@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 94 | 94 |
+| supercluster | 1 | 1 | 95 | 95 |
 | spacenews | 2 | 2 | 21 | 45 |
 | breaking_defense | 0 | 0 | 20 | 44 |
 | nyt | 0 | 0 | 20 | 44 |
@@ -6737,3 +6737,4 @@
 - **Oct 20, 11:17 AM** - Viasat and Space42’s D2D joint venture finds first mobile partner in UAE (spacenews)
 - **Oct 20, 11:31 AM** - They’re Ready to Go to Mars (nyt)
 - **Oct 20, 11:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 20, 11:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
