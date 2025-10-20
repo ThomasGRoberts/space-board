@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 100 | 100 |
 | spacenews | 2 | 2 | 21 | 45 |
 | breaking_defense | 0 | 0 | 21 | 44 |
-| nyt | 0 | 0 | 20 | 44 |
+| nyt | 0 | 0 | 21 | 45 |
 
 # Shown Order
 
@@ -6745,3 +6745,4 @@
 - **Oct 20, 11:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 20, 11:59 AM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 20, 12:13 PM** - SmallSat Education Conference Aerospace Education Event for Educators, Parents, and Students (Middle School, High School, College) (spacenews)
+- **Oct 20, 12:27 PM** - They’re Ready to Go to Mars (nyt)
