@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 40 | 40 |
+| supercluster | 1 | 1 | 41 | 41 |
 | spacenews | 1 | 1 | 22 | 46 |
 | breaking_defense | 0 | 0 | 21 | 46 |
 | nyt | 0 | 0 | 21 | 46 |
@@ -6659,3 +6659,4 @@
 - **Oct 20, 01:51 AM** - JAXA to launch tech demo satellites on Electron rockets (spacenews)
 - **Oct 20, 02:07 AM** - They’re Ready to Go to Mars (nyt)
 - **Oct 20, 02:22 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 20, 02:23 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
