@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-20T00:02:09.274241+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d82675a8aa3d5448d6da9b04a1881c0c",
+    "trigger_count": 0,
+    "current_item_id": "5b027d687c069444e9daa1b521590a89",
     "data": [
         {
             "id": "4beba9b243fe616fcb8e7be8d963bbc1",
@@ -12348,6 +12348,27 @@
             "shown_at": [
                 "2025-10-20T21:02:46.331882Z"
             ]
+        },
+        {
+            "id": "5b027d687c069444e9daa1b521590a89",
+            "source": "nyt",
+            "text": "How to See the Orionids Meteor Shower: Best Time to Watch",
+            "source_link": "https://www.nytimes.com/2025/10/20/science/orionids-meteor-shower.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-20T22:05:52.570261Z",
+            "shown_at": [
+                "2025-10-20T22:05:53.220250Z"
+            ]
+        },
+        {
+            "id": "4ace502aef500636437da881602b1be6",
+            "source": "nyt",
+            "text": "George F. Smoot, Who Showed How the Cosmos Began, Is Dead at 80",
+            "source_link": "https://www.nytimes.com/2025/10/20/science/space/george-f-smoot-dead.html",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-10-20T22:05:52.570307Z"
         }
     ]
 }
