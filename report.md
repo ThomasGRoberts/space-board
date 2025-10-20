@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 123 | 123 |
-| spacenews | 2 | 3 | 20 | 44 |
+| spacenews | 2 | 3 | 21 | 45 |
 | breaking_defense | 0 | 0 | 21 | 44 |
 | nyt | 0 | 0 | 20 | 44 |
 
@@ -6779,3 +6779,4 @@
 - **Oct 20, 03:51 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 20, 03:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 20, 04:01 PM** - Army budget prioritizes counterspace for first time (breaking_defense)
+- **Oct 20, 04:29 PM** - Viasat and Space42’s D2D joint venture finds first mobile partner in UAE (spacenews)
