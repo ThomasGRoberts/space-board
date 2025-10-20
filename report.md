@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 0 | 1 | 132 | 150 |
+| supercluster | 0 | 1 | 133 | 151 |
 | spacenews | 3 | 4 | 21 | 43 |
 | breaking_defense | 0 | 0 | 20 | 41 |
 | nyt | 3 | 3 | 22 | 44 |
@@ -6823,3 +6823,4 @@
 - **Oct 20, 10:22 PM** - George F. Smoot, Who Showed How the Cosmos Began, Is Dead at 80 (nyt)
 - **Oct 20, 10:37 PM** - With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas (nyt)
 - **Oct 20, 10:57 PM** - SmallSat Education Conference Aerospace Education Event for Educators, Parents, and Students (Middle School, High School, College) (spacenews)
+- **Oct 20, 11:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
