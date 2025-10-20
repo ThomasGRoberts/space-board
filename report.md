@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 123 | 123 |
+| supercluster | 1 | 1 | 124 | 124 |
 | spacenews | 2 | 3 | 20 | 44 |
 | breaking_defense | 0 | 0 | 20 | 43 |
 | nyt | 0 | 0 | 21 | 44 |
@@ -6781,3 +6781,4 @@
 - **Oct 20, 04:01 PM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 20, 04:29 PM** - Viasat and Space42’s D2D joint venture finds first mobile partner in UAE (spacenews)
 - **Oct 20, 05:00 PM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
+- **Oct 20, 05:17 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
