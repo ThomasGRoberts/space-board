@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-20T00:02:09.274241+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5b027d687c069444e9daa1b521590a89",
+    "trigger_count": 0,
+    "current_item_id": "4ace502aef500636437da881602b1be6",
     "data": [
         {
             "id": "4beba9b243fe616fcb8e7be8d963bbc1",
@@ -12366,9 +12366,12 @@
             "source": "nyt",
             "text": "George F. Smoot, Who Showed How the Cosmos Began, Is Dead at 80",
             "source_link": "https://www.nytimes.com/2025/10/20/science/space/george-f-smoot-dead.html",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-10-20T22:05:52.570307Z"
+            "fetched_datetime": "2025-10-20T22:05:52.570307Z",
+            "shown_at": [
+                "2025-10-20T22:22:06.676191Z"
+            ]
         }
     ]
 }

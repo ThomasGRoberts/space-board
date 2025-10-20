@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 0 | 1 | 138 | 150 |
+| supercluster | 0 | 1 | 136 | 150 |
 | spacenews | 3 | 4 | 21 | 43 |
 | breaking_defense | 0 | 0 | 21 | 42 |
-| nyt | 2 | 2 | 21 | 42 |
+| nyt | 2 | 2 | 22 | 43 |
 
 # Shown Order
 
@@ -6820,3 +6820,4 @@
 - **Oct 20, 09:49 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 20, 09:51 PM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 20, 10:05 PM** - How to See the Orionids Meteor Shower: Best Time to Watch (nyt)
+- **Oct 20, 10:22 PM** - George F. Smoot, Who Showed How the Cosmos Began, Is Dead at 80 (nyt)
