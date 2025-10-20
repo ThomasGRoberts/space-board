@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-20T00:02:09.274241+00:00",
-    "trigger_count": 6,
-    "current_item_id": "bac298dda787c837a2dcc11f39f332d9",
+    "trigger_count": 0,
+    "current_item_id": "145f876d67ea77ec6818956d3d2c00f9",
     "data": [
         {
             "id": "4beba9b243fe616fcb8e7be8d963bbc1",
@@ -12260,6 +12260,18 @@
             "shown_at": [
                 "2025-10-20T03:49:30.659319Z",
                 "2025-10-20T10:21:50.873779Z"
+            ]
+        },
+        {
+            "id": "145f876d67ea77ec6818956d3d2c00f9",
+            "source": "spacenews",
+            "text": "America needs a ‘Plan B’ to reach the moon first",
+            "source_link": "https://spacenews.com/america-needs-a-plan-b-to-reach-the-moon-first/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-20T13:11:48.370630Z",
+            "shown_at": [
+                "2025-10-20T13:11:49.417556Z"
             ]
         }
     ]
