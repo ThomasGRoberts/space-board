@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 53 | 53 |
-| spacenews | 1 | 1 | 21 | 46 |
+| spacenews | 2 | 2 | 22 | 47 |
 | breaking_defense | 0 | 0 | 22 | 46 |
 | nyt | 0 | 0 | 21 | 46 |
 
@@ -6676,3 +6676,4 @@
 - **Oct 20, 03:29 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 20, 03:32 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 20, 03:35 AM** - Army budget prioritizes counterspace for first time (breaking_defense)
+- **Oct 20, 03:49 AM** - Innospace gets license for first orbital launch attempt (spacenews)
