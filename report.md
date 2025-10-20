@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 86 | 86 |
 | spacenews | 2 | 2 | 21 | 45 |
 | breaking_defense | 0 | 0 | 20 | 44 |
-| nyt | 0 | 0 | 20 | 44 |
+| nyt | 0 | 0 | 21 | 45 |
 
 # Shown Order
 
@@ -6725,3 +6725,4 @@
 - **Oct 20, 10:05 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 20, 10:07 AM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 20, 10:21 AM** - Innospace gets license for first orbital launch attempt (spacenews)
+- **Oct 20, 10:35 AM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
