@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 87 | 87 |
+| supercluster | 1 | 1 | 88 | 88 |
 | spacenews | 2 | 2 | 21 | 45 |
 | breaking_defense | 0 | 0 | 20 | 44 |
 | nyt | 0 | 0 | 20 | 44 |
@@ -6727,3 +6727,4 @@
 - **Oct 20, 10:21 AM** - Innospace gets license for first orbital launch attempt (spacenews)
 - **Oct 20, 10:35 AM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
 - **Oct 20, 10:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 20, 10:51 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
