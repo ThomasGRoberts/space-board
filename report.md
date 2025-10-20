@@ -5,7 +5,7 @@
 | supercluster | 0 | 1 | 132 | 150 |
 | spacenews | 3 | 4 | 21 | 42 |
 | breaking_defense | 0 | 0 | 20 | 42 |
-| nyt | 2 | 2 | 22 | 43 |
+| nyt | 3 | 3 | 23 | 44 |
 
 # Shown Order
 
@@ -6821,3 +6821,4 @@
 - **Oct 20, 09:51 PM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 20, 10:05 PM** - How to See the Orionids Meteor Shower: Best Time to Watch (nyt)
 - **Oct 20, 10:22 PM** - George F. Smoot, Who Showed How the Cosmos Began, Is Dead at 80 (nyt)
+- **Oct 20, 10:37 PM** - With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas (nyt)

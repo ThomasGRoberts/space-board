@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-20T00:02:09.274241+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4ace502aef500636437da881602b1be6",
+    "trigger_count": 0,
+    "current_item_id": "ecf4e78bd573ba46b643b8cc3b26b7bf",
     "data": [
         {
             "id": "4beba9b243fe616fcb8e7be8d963bbc1",
@@ -12371,6 +12371,18 @@
             "fetched_datetime": "2025-10-20T22:05:52.570307Z",
             "shown_at": [
                 "2025-10-20T22:22:06.676191Z"
+            ]
+        },
+        {
+            "id": "ecf4e78bd573ba46b643b8cc3b26b7bf",
+            "source": "nyt",
+            "text": "With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas",
+            "source_link": "https://www.nytimes.com/2025/10/20/science/nasa-moon-lander-spacex.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-20T22:37:43.163161Z",
+            "shown_at": [
+                "2025-10-20T22:37:43.782634Z"
             ]
         }
     ]
