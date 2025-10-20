@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 79 | 79 |
+| supercluster | 1 | 1 | 80 | 80 |
 | spacenews | 2 | 2 | 21 | 45 |
 | breaking_defense | 0 | 0 | 20 | 44 |
 | nyt | 0 | 0 | 20 | 44 |
@@ -6716,3 +6716,4 @@
 - **Oct 20, 08:49 AM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 20, 09:23 AM** - Rocket Lab launches seventh Synspective radar imaging satellite (spacenews)
 - **Oct 20, 09:37 AM** - They’re Ready to Go to Mars (nyt)
+- **Oct 20, 09:51 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
