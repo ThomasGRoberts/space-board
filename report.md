@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 100 | 100 |
-| spacenews | 2 | 2 | 20 | 44 |
-| breaking_defense | 0 | 0 | 21 | 45 |
+| spacenews | 2 | 2 | 21 | 45 |
+| breaking_defense | 0 | 0 | 21 | 44 |
 | nyt | 0 | 0 | 20 | 44 |
 
 # Shown Order
@@ -6744,3 +6744,4 @@
 - **Oct 20, 11:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 20, 11:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 20, 11:59 AM** - Army budget prioritizes counterspace for first time (breaking_defense)
+- **Oct 20, 12:13 PM** - SmallSat Education Conference Aerospace Education Event for Educators, Parents, and Students (Middle School, High School, College) (spacenews)
