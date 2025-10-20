@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 74 | 74 |
-| spacenews | 2 | 2 | 22 | 46 |
+| spacenews | 2 | 2 | 21 | 45 |
 | breaking_defense | 0 | 0 | 21 | 45 |
-| nyt | 0 | 0 | 20 | 44 |
+| nyt | 0 | 0 | 21 | 45 |
 
 # Shown Order
 
@@ -6707,3 +6707,4 @@
 - **Oct 20, 06:30 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 20, 06:33 AM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 20, 06:47 AM** - Data Boom, Video Decline Reshapes Satellite Revenues by 2034 (spacenews)
+- **Oct 20, 08:19 AM** - They’re Ready to Go to Mars (nyt)
