@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 107 | 107 |
 | spacenews | 3 | 3 | 21 | 45 |
-| breaking_defense | 0 | 0 | 21 | 44 |
-| nyt | 0 | 0 | 20 | 44 |
+| breaking_defense | 0 | 0 | 20 | 44 |
+| nyt | 0 | 0 | 21 | 45 |
 
 # Shown Order
 
@@ -6755,3 +6755,4 @@
 - **Oct 20, 12:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 20, 12:57 PM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 20, 01:11 PM** - America needs a ‘Plan B’ to reach the moon first (spacenews)
+- **Oct 20, 01:25 PM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
