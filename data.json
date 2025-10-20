@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-20T00:02:09.274241+00:00",
-    "trigger_count": 6,
-    "current_item_id": "076b8602802e083f2be53e9b9e78dce8",
+    "trigger_count": 0,
+    "current_item_id": "db033cacfa991bcf03d260af6b4705fe",
     "data": [
         {
             "id": "4beba9b243fe616fcb8e7be8d963bbc1",
@@ -12326,6 +12326,18 @@
             "fetched_datetime": "2025-10-20T13:11:48.370630Z",
             "shown_at": [
                 "2025-10-20T13:11:49.417556Z"
+            ]
+        },
+        {
+            "id": "db033cacfa991bcf03d260af6b4705fe",
+            "source": "spacenews",
+            "text": "Duffy says NASA will open Artemis 3 lander contract to competition",
+            "source_link": "https://spacenews.com/duffy-says-nasa-will-open-artemis-3-lander-contract-to-competition/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-20T21:02:45.528779Z",
+            "shown_at": [
+                "2025-10-20T21:02:46.331882Z"
             ]
         }
     ]
