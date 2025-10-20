@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 121 | 121 |
+| supercluster | 1 | 1 | 122 | 122 |
 | spacenews | 2 | 3 | 20 | 44 |
 | breaking_defense | 0 | 0 | 20 | 44 |
 | nyt | 0 | 0 | 21 | 44 |
@@ -6776,3 +6776,4 @@
 - **Oct 20, 02:51 PM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 20, 03:06 PM** - Polish space company Scanway Space secures U.S., European deals amid international expansion drive (spacenews)
 - **Oct 20, 03:34 PM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
+- **Oct 20, 03:51 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
