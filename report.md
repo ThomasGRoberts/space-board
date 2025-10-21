@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 3 | 22 | 44 |
+| nyt | 3 | 3 | 22 | 43 |
 | spacenews | 3 | 4 | 21 | 43 |
-| supercluster | 0 | 1 | 132 | 157 |
+| supercluster | 0 | 1 | 133 | 158 |
 | breaking_defense | 0 | 0 | 20 | 41 |
 
 # Shown Order
@@ -6779,3 +6779,4 @@
 - **Oct 20, 11:31 PM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 20, 11:45 PM** - They’re Ready to Go to Mars (nyt)
 - **Oct 21, 12:02 AM** - ECAPS Announces Breakthrough Fast-Start Thruster (FAST) Technology (spacenews)
+- **Oct 21, 12:18 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
