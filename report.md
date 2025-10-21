@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 20 | 40 |
 | spacenews | 6 | 8 | 22 | 43 |
-| supercluster | 0 | 1 | 123 | 227 |
-| breaking_defense | 0 | 0 | 18 | 38 |
+| supercluster | 0 | 1 | 122 | 227 |
+| breaking_defense | 0 | 0 | 19 | 39 |
 
 # Shown Order
 
@@ -6879,3 +6879,4 @@
 - **Oct 21, 12:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 21, 12:17 PM** - Orion installed on SLS as Artemis 2 preparations continue during shutdown (spacenews)
 - **Oct 21, 12:38 PM** - Starlink mini lasers to link Muon Space satellites for near real-time connectivity (spacenews)
+- **Oct 21, 12:51 PM** - Army budget prioritizes counterspace for first time (breaking_defense)
