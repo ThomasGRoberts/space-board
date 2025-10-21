@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 20 | 41 |
-| spacenews | 7 | 9 | 22 | 43 |
+| spacenews | 7 | 9 | 23 | 44 |
 | supercluster | 0 | 1 | 133 | 262 |
 | breaking_defense | 0 | 0 | 19 | 39 |
 
@@ -6930,3 +6930,4 @@
 - **Oct 21, 06:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 21, 06:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 21, 06:32 PM** - No future for Space Futures Command, sources say (breaking_defense)
+- **Oct 21, 06:52 PM** - Rocket Lab launches seventh Synspective radar imaging satellite (spacenews)
