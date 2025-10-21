@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 20 | 40 |
-| spacenews | 7 | 9 | 22 | 42 |
+| spacenews | 7 | 9 | 23 | 43 |
 | supercluster | 0 | 1 | 126 | 255 |
 | breaking_defense | 0 | 0 | 19 | 39 |
 
@@ -6920,3 +6920,4 @@
 - **Oct 21, 05:21 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 21, 05:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 21, 05:26 PM** - Army budget prioritizes counterspace for first time (breaking_defense)
+- **Oct 21, 05:40 PM** - Polish space company Scanway Space secures U.S., European deals amid international expansion drive (spacenews)
