@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-21T00:02:04.112674+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d82675a8aa3d5448d6da9b04a1881c0c",
+    "trigger_count": 0,
+    "current_item_id": "96bbb825823377972045c4ad1bedd2c7",
     "data": [
         {
             "id": "ecf4e78bd573ba46b643b8cc3b26b7bf",
@@ -12419,6 +12419,18 @@
             "fetched_datetime": "2025-10-21T12:17:51.812114Z",
             "shown_at": [
                 "2025-10-21T12:38:01.151709Z"
+            ]
+        },
+        {
+            "id": "96bbb825823377972045c4ad1bedd2c7",
+            "source": "spacenews",
+            "text": "Taiwan should build a space-enabled kill web, not big warships",
+            "source_link": "https://spacenews.com/taiwan-should-build-a-space-enabled-kill-web-not-big-warships/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-21T13:08:03.477345Z",
+            "shown_at": [
+                "2025-10-21T13:08:04.870141Z"
             ]
         }
     ]

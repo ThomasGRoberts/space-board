@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 20 | 40 |
-| spacenews | 6 | 8 | 22 | 42 |
+| spacenews | 7 | 9 | 23 | 43 |
 | supercluster | 0 | 1 | 120 | 227 |
 | breaking_defense | 0 | 0 | 18 | 39 |
 
@@ -6880,3 +6880,4 @@
 - **Oct 21, 12:17 PM** - Orion installed on SLS as Artemis 2 preparations continue during shutdown (spacenews)
 - **Oct 21, 12:38 PM** - Starlink mini lasers to link Muon Space satellites for near real-time connectivity (spacenews)
 - **Oct 21, 12:51 PM** - Army budget prioritizes counterspace for first time (breaking_defense)
+- **Oct 21, 01:08 PM** - Taiwan should build a space-enabled kill web, not big warships (spacenews)
