@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 21 | 41 |
 | spacenews | 7 | 9 | 23 | 43 |
-| supercluster | 0 | 1 | 126 | 255 |
+| supercluster | 0 | 1 | 127 | 256 |
 | breaking_defense | 0 | 0 | 18 | 39 |
 
 # Shown Order
@@ -6922,3 +6922,4 @@
 - **Oct 21, 05:26 PM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 21, 05:40 PM** - Polish space company Scanway Space secures U.S., European deals amid international expansion drive (spacenews)
 - **Oct 21, 05:57 PM** - With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas (nyt)
+- **Oct 21, 06:14 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
