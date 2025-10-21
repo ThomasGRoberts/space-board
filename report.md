@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 21 | 41 |
 | spacenews | 4 | 6 | 21 | 41 |
-| supercluster | 0 | 1 | 121 | 221 |
+| supercluster | 0 | 1 | 122 | 222 |
 | breaking_defense | 0 | 0 | 18 | 39 |
 
 # Shown Order
@@ -6871,3 +6871,4 @@
 - **Oct 21, 11:26 AM** - George F. Smoot, Who Showed How the Cosmos Began, Is Dead at 80 (nyt)
 - **Oct 21, 11:46 AM** - Beyond Gravity plans US push after fivefold boost in European solar mechanism output (spacenews)
 - **Oct 21, 12:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 21, 12:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
