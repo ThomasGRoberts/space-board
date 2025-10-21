@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 3 | 20 | 41 |
+| nyt | 3 | 3 | 20 | 40 |
 | spacenews | 6 | 9 | 22 | 43 |
-| supercluster | 0 | 1 | 114 | 234 |
+| supercluster | 0 | 1 | 114 | 235 |
 | breaking_defense | 0 | 0 | 18 | 38 |
 
 # Shown Order
@@ -6892,3 +6892,4 @@
 - **Oct 21, 01:56 PM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 21, 02:16 PM** - Landspace begins final preparations for China’s first orbital launch and landing attempt (spacenews)
 - **Oct 21, 02:31 PM** - They’re Ready to Go to Mars (nyt)
+- **Oct 21, 02:49 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
