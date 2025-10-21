@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 22 | 44 |
-| spacenews | 2 | 4 | 20 | 42 |
+| spacenews | 2 | 4 | 21 | 43 |
 | supercluster | 0 | 1 | 132 | 199 |
 | breaking_defense | 0 | 0 | 20 | 42 |
 
@@ -6838,3 +6838,4 @@
 - **Oct 21, 05:32 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 21, 05:34 AM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 21, 05:50 AM** - How to See the Orionids Meteor Shower: Best Time to Watch (nyt)
+- **Oct 21, 06:12 AM** - iRocket turns to missiles to fuel reusable launcher ambitions (spacenews)
