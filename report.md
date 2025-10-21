@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 22 | 44 |
 | spacenews | 2 | 4 | 21 | 43 |
-| supercluster | 0 | 1 | 133 | 193 |
+| supercluster | 0 | 1 | 134 | 194 |
 | breaking_defense | 0 | 0 | 20 | 42 |
 
 # Shown Order
@@ -6830,3 +6830,4 @@
 - **Oct 21, 04:50 AM** - With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas (nyt)
 - **Oct 21, 05:04 AM** - Data Boom, Video Decline Reshapes Satellite Revenues by 2034 (spacenews)
 - **Oct 21, 05:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 21, 05:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
