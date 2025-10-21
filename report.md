@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 23 | 44 |
-| spacenews | 3 | 4 | 20 | 42 |
+| spacenews | 3 | 4 | 21 | 43 |
 | supercluster | 0 | 1 | 132 | 171 |
 | breaking_defense | 0 | 0 | 20 | 42 |
 
@@ -6798,3 +6798,4 @@
 - **Oct 21, 01:29 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 21, 01:31 AM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 21, 01:45 AM** - They’re Ready to Go to Mars (nyt)
+- **Oct 21, 02:02 AM** - Viasat and Space42’s D2D joint venture finds first mobile partner in UAE (spacenews)
