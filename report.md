@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 3 | 21 | 42 |
+| nyt | 3 | 3 | 21 | 41 |
 | spacenews | 7 | 9 | 23 | 43 |
-| supercluster | 0 | 1 | 126 | 262 |
+| supercluster | 0 | 1 | 127 | 263 |
 | breaking_defense | 0 | 0 | 18 | 39 |
 
 # Shown Order
@@ -6932,3 +6932,4 @@
 - **Oct 21, 06:32 PM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 21, 06:52 PM** - Rocket Lab launches seventh Synspective radar imaging satellite (spacenews)
 - **Oct 21, 07:07 PM** - George F. Smoot, Who Showed How the Cosmos Began, Is Dead at 80 (nyt)
+- **Oct 21, 07:24 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
