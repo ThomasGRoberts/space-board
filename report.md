@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 22 | 44 |
 | spacenews | 2 | 4 | 21 | 43 |
-| supercluster | 0 | 1 | 132 | 185 |
+| supercluster | 0 | 1 | 133 | 186 |
 | breaking_defense | 0 | 0 | 20 | 42 |
 
 # Shown Order
@@ -6819,3 +6819,4 @@
 - **Oct 21, 03:29 AM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 21, 03:43 AM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
 - **Oct 21, 03:58 AM** - Polish space company Scanway Space secures U.S., European deals amid international expansion drive (spacenews)
+- **Oct 21, 04:15 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
