@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 20 | 40 |
 | spacenews | 6 | 9 | 22 | 43 |
-| supercluster | 0 | 1 | 119 | 227 |
+| supercluster | 0 | 1 | 119 | 228 |
 | breaking_defense | 0 | 0 | 18 | 38 |
 
 # Shown Order
@@ -6882,3 +6882,4 @@
 - **Oct 21, 12:51 PM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 21, 01:08 PM** - Taiwan should build a space-enabled kill web, not big warships (spacenews)
 - **Oct 21, 01:24 PM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
+- **Oct 21, 01:41 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
