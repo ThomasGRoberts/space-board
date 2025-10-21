@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 21 | 41 |
-| spacenews | 4 | 6 | 21 | 42 |
-| supercluster | 0 | 1 | 120 | 220 |
+| spacenews | 4 | 6 | 21 | 41 |
+| supercluster | 0 | 1 | 121 | 221 |
 | breaking_defense | 0 | 0 | 18 | 39 |
 
 # Shown Order
@@ -6870,3 +6870,4 @@
 - **Oct 21, 11:10 AM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 21, 11:26 AM** - George F. Smoot, Who Showed How the Cosmos Began, Is Dead at 80 (nyt)
 - **Oct 21, 11:46 AM** - Beyond Gravity plans US push after fivefold boost in European solar mechanism output (spacenews)
+- **Oct 21, 12:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
