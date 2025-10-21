@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-21T00:02:04.112674+00:00",
-    "trigger_count": 6,
-    "current_item_id": "bac298dda787c837a2dcc11f39f332d9",
+    "trigger_count": 0,
+    "current_item_id": "5b3720e22fdc22d561c0379f145bc47c",
     "data": [
         {
             "id": "ecf4e78bd573ba46b643b8cc3b26b7bf",
@@ -12450,6 +12450,18 @@
             "fetched_datetime": "2025-10-21T13:08:03.477345Z",
             "shown_at": [
                 "2025-10-21T13:08:04.870141Z"
+            ]
+        },
+        {
+            "id": "5b3720e22fdc22d561c0379f145bc47c",
+            "source": "spacenews",
+            "text": "Analysts question Germany’s request for defensive and inspector satellites",
+            "source_link": "https://spacenews.com/analysts-question-germanys-request-for-defensive-and-inspector-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-21T15:24:01.394164Z",
+            "shown_at": [
+                "2025-10-21T15:24:02.169353Z"
             ]
         }
     ]
