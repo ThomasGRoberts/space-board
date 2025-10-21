@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 21 | 41 |
 | spacenews | 4 | 6 | 21 | 42 |
-| supercluster | 0 | 1 | 127 | 213 |
+| supercluster | 0 | 1 | 126 | 214 |
 | breaking_defense | 0 | 0 | 19 | 39 |
 
 # Shown Order
@@ -6860,3 +6860,4 @@
 - **Oct 21, 10:03 AM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 21, 10:23 AM** - They’re Ready to Go to Mars (nyt)
 - **Oct 21, 10:37 AM** - China launches 12th group of Guowang broadband satellites as rocket milestone highlights accelerating launch rate (spacenews)
+- **Oct 21, 10:52 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
