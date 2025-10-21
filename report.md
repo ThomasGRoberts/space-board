@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 23 | 44 |
-| spacenews | 3 | 4 | 20 | 42 |
+| spacenews | 3 | 4 | 21 | 43 |
 | supercluster | 0 | 1 | 132 | 178 |
 | breaking_defense | 0 | 0 | 20 | 42 |
 
@@ -6808,3 +6808,4 @@
 - **Oct 21, 02:32 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 21, 02:33 AM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 21, 02:47 AM** - With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas (nyt)
+- **Oct 21, 03:01 AM** - China launches 12th group of Guowang broadband satellites as rocket milestone highlights accelerating launch rate (spacenews)
