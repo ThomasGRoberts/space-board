@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 22 | 43 |
-| spacenews | 2 | 4 | 20 | 42 |
+| spacenews | 3 | 5 | 21 | 43 |
 | supercluster | 0 | 1 | 132 | 206 |
 | breaking_defense | 0 | 0 | 19 | 41 |
 
@@ -6846,3 +6846,4 @@
 - **Oct 21, 06:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 21, 07:02 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 21, 07:09 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 21, 07:14 AM** - Belgian startup Nxgsat raises early funds for virtual 5G satellite modem (spacenews)
