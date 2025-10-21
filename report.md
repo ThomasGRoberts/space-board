@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 22 | 44 |
 | spacenews | 3 | 4 | 21 | 43 |
-| supercluster | 0 | 1 | 133 | 172 |
+| supercluster | 0 | 1 | 134 | 173 |
 | breaking_defense | 0 | 0 | 20 | 41 |
 
 # Shown Order
@@ -6800,3 +6800,4 @@
 - **Oct 21, 01:45 AM** - They’re Ready to Go to Mars (nyt)
 - **Oct 21, 02:02 AM** - Viasat and Space42’s D2D joint venture finds first mobile partner in UAE (spacenews)
 - **Oct 21, 02:18 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 21, 02:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
