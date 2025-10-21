@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 20 | 41 |
 | spacenews | 7 | 9 | 22 | 42 |
-| supercluster | 0 | 1 | 119 | 241 |
+| supercluster | 0 | 1 | 120 | 242 |
 | breaking_defense | 0 | 0 | 18 | 38 |
 
 # Shown Order
@@ -6902,3 +6902,4 @@
 - **Oct 21, 03:07 PM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 21, 03:24 PM** - Analysts question Germany’s request for defensive and inspector satellites (spacenews)
 - **Oct 21, 03:40 PM** - With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas (nyt)
+- **Oct 21, 03:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
