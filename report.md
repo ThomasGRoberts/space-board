@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 21 | 42 |
 | spacenews | 6 | 9 | 22 | 44 |
-| supercluster | 0 | 0 | 133 | 268 |
+| supercluster | 0 | 0 | 134 | 268 |
 | breaking_defense | 0 | 0 | 19 | 40 |
 
 # Shown Order
@@ -6952,3 +6952,4 @@
 - **Oct 21, 08:40 PM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 21, 08:58 PM** - SpaceX wins approval for increased Falcon launches from Vandenberg (spacenews)
 - **Oct 21, 09:12 PM** - They’re Ready to Go to Mars (nyt)
+- **Oct 21, 09:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
