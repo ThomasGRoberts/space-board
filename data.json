@@ -1,9 +1,82 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-10-20T00:02:09.274241+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c1890098138b7a8b6c10db3e6ff1d1cd",
+    "last_run_datetime": "2025-10-21T00:02:04.112674+00:00",
+    "trigger_count": 0,
+    "current_item_id": "5a68b444efeb6742500a85feb4c7c895",
     "data": [
+        {
+            "id": "ecf4e78bd573ba46b643b8cc3b26b7bf",
+            "source": "nyt",
+            "text": "With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas",
+            "source_link": "https://www.nytimes.com/2025/10/20/science/nasa-moon-lander-spacex.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-20T22:37:43.163161Z",
+            "shown_at": [
+                "2025-10-20T22:37:43.782634Z"
+            ]
+        },
+        {
+            "id": "4ace502aef500636437da881602b1be6",
+            "source": "nyt",
+            "text": "George F. Smoot, Who Showed How the Cosmos Began, Is Dead at 80",
+            "source_link": "https://www.nytimes.com/2025/10/20/science/space/george-f-smoot-dead.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-20T22:05:52.570307Z",
+            "shown_at": [
+                "2025-10-20T22:22:06.676191Z"
+            ]
+        },
+        {
+            "id": "5b027d687c069444e9daa1b521590a89",
+            "source": "nyt",
+            "text": "How to See the Orionids Meteor Shower: Best Time to Watch",
+            "source_link": "https://www.nytimes.com/2025/10/20/science/orionids-meteor-shower.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-20T22:05:52.570261Z",
+            "shown_at": [
+                "2025-10-20T22:05:53.220250Z"
+            ]
+        },
+        {
+            "id": "db033cacfa991bcf03d260af6b4705fe",
+            "source": "spacenews",
+            "text": "Duffy says NASA will open Artemis 3 lander contract to competition",
+            "source_link": "https://spacenews.com/duffy-says-nasa-will-open-artemis-3-lander-contract-to-competition/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-20T21:02:45.528779Z",
+            "shown_at": [
+                "2025-10-20T21:02:46.331882Z"
+            ]
+        },
+        {
+            "id": "145f876d67ea77ec6818956d3d2c00f9",
+            "source": "spacenews",
+            "text": "America needs a ‘Plan B’ to reach the moon first",
+            "source_link": "https://spacenews.com/america-needs-a-plan-b-to-reach-the-moon-first/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-20T13:11:48.370630Z",
+            "shown_at": [
+                "2025-10-20T13:11:49.417556Z"
+            ]
+        },
+        {
+            "id": "d9b171d1f67753c0967cc0f1b0061ad6",
+            "source": "spacenews",
+            "text": "Innospace gets license for first orbital launch attempt",
+            "source_link": "https://spacenews.com/innospace-gets-license-for-first-orbital-launch-attempt/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-20T03:49:30.125817Z",
+            "shown_at": [
+                "2025-10-20T03:49:30.659319Z",
+                "2025-10-20T10:21:50.873779Z"
+            ]
+        },
         {
             "id": "4beba9b243fe616fcb8e7be8d963bbc1",
             "source": "supercluster",
@@ -426,7 +499,8 @@
             "fetched_datetime": "2025-10-16T14:33:56.656941Z",
             "shown_at": [
                 "2025-10-16T14:47:20.842220Z",
-                "2025-10-16T19:26:00.117900Z"
+                "2025-10-16T19:26:00.117900Z",
+                "2025-10-21T00:02:10.119429Z"
             ]
         },
         {
@@ -12200,199 +12274,6 @@
                 "2025-07-14T01:11:58.648605Z",
                 "2025-07-14T15:17:57.539796Z",
                 "2025-07-15T17:33:45.749881Z"
-            ]
-        },
-        {
-            "id": "294df233f2f736b2d1b9b98d0260c2a4",
-            "source": "spacenews",
-            "text": "China is practicing orbital warfare to win in space",
-            "source_link": "https://spacenews.com/china-is-practing-orbital-warfare-to-win-in-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-08T20:03:37.337994Z",
-            "shown_at": [
-                "2025-07-08T20:03:38.283443Z",
-                "2025-07-11T10:45:58.371561Z",
-                "2025-07-12T12:19:37.210058Z",
-                "2025-07-13T20:39:46.209130Z"
-            ]
-        },
-        {
-            "id": "c249e6564a773ad7d80ebb0ef76de6db",
-            "source": "breaking_defense",
-            "text": "From fighters jets to space systems: Military sends lawmakers over $20B-worth of unfunded priorities",
-            "source_link": "https://breakingdefense.com/2025/07/from-fighters-jets-to-space-systems-military-sends-lawmakers-over-20b-worth-of-unfunded-priorities/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-08T19:19:27.282463Z",
-            "shown_at": [
-                "2025-07-08T19:19:27.901259Z",
-                "2025-07-09T04:36:01.589506Z",
-                "2025-07-10T06:11:45.867742Z",
-                "2025-07-10T13:19:45.756895Z",
-                "2025-07-10T16:27:28.590079Z",
-                "2025-07-11T03:35:13.198386Z",
-                "2025-07-11T20:27:48.321757Z",
-                "2025-07-12T05:11:40.137964Z",
-                "2025-07-13T03:21:38.943718Z",
-                "2025-07-13T09:59:35.720775Z",
-                "2025-07-13T14:43:47.227075Z",
-                "2025-07-14T19:07:51.847167Z"
-            ]
-        },
-        {
-            "id": "afeb6f72cf6d3adea1a337daf288f16d",
-            "source": "spacenews",
-            "text": "Space Force unveils first international strategy, while GAO flags barriers to space cooperation",
-            "source_link": "https://spacenews.com/space-force-unveils-first-international-strategy-while-gao-flags-barriers-to-space-cooperation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-08T19:05:43.490620Z",
-            "shown_at": [
-                "2025-07-08T19:05:44.238315Z",
-                "2025-07-13T01:43:40.645220Z",
-                "2025-07-14T15:03:31.781716Z"
-            ]
-        },
-        {
-            "id": "c3f0e75e3fdc2a038662f232a0e1f92f",
-            "source": "breaking_defense",
-            "text": "Air Force, Space Force seek $16B extra for FY26 ‘unfunded priorities’",
-            "source_link": "https://breakingdefense.com/2025/07/air-force-space-force-seek-16b-extra-for-fy26-unfunded-priorities/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-08T18:51:49.903652Z",
-            "shown_at": [
-                "2025-07-08T18:51:51.254417Z",
-                "2025-07-09T02:41:46.215209Z",
-                "2025-07-09T14:31:57.480481Z",
-                "2025-07-10T12:19:30.621819Z",
-                "2025-07-10T22:35:50.132038Z",
-                "2025-07-11T18:33:37.647110Z",
-                "2025-07-11T19:31:55.103489Z",
-                "2025-07-12T03:19:40.605249Z",
-                "2025-07-13T07:51:44.634201Z",
-                "2025-07-13T15:41:38.477816Z",
-                "2025-07-13T19:29:56.650734Z",
-                "2025-07-14T06:03:42.907029Z",
-                "2025-07-14T18:12:01.596933Z",
-                "2025-07-15T05:35:40.716401Z",
-                "2025-07-15T11:02:08.780326Z"
-            ]
-        },
-        {
-            "id": "e8cf2938ced36644a4db391b21f0a5ca",
-            "source": "breaking_defense",
-            "text": "House committee’s NDAA authorizes more money for Ukraine, thwarts troop reductions in Europe",
-            "source_link": "https://breakingdefense.com/2025/07/house-committees-ndaa-authorizes-more-money-for-ukraine-thwarts-troop-reductions-in-europe/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-08T17:27:28.706078Z",
-            "shown_at": [
-                "2025-07-08T17:27:29.273631Z",
-                "2025-07-08T18:37:44.237411Z",
-                "2025-07-09T13:29:44.491967Z",
-                "2025-07-10T14:20:11.888700Z",
-                "2025-07-10T23:33:44.727851Z",
-                "2025-07-11T01:29:47.220421Z",
-                "2025-07-11T22:23:48.938276Z",
-                "2025-07-12T11:49:41.093449Z",
-                "2025-07-13T00:33:06.755940Z",
-                "2025-07-13T10:55:46.483724Z",
-                "2025-07-13T17:37:24.862328Z",
-                "2025-07-14T02:13:41.363713Z",
-                "2025-07-14T09:05:27.945824Z",
-                "2025-07-14T10:57:24.994916Z",
-                "2025-07-14T14:17:40.205249Z",
-                "2025-07-14T21:15:46.121058Z"
-            ]
-        },
-        {
-            "id": "f567bddee458e472a0c9255a31595193",
-            "source": "spacenews",
-            "text": "China is practing orbital warfare to win in space",
-            "source_link": "https://spacenews.com/china-is-practing-orbital-warfare-to-win-in-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-08T13:02:10.577881Z",
-            "shown_at": [
-                "2025-07-08T13:17:41.585878Z",
-                "2025-07-10T07:37:36.482417Z",
-                "2025-07-11T01:02:07.093416Z",
-                "2025-07-13T11:23:50.768459Z"
-            ]
-        },
-        {
-            "id": "d9b171d1f67753c0967cc0f1b0061ad6",
-            "source": "spacenews",
-            "text": "Innospace gets license for first orbital launch attempt",
-            "source_link": "https://spacenews.com/innospace-gets-license-for-first-orbital-launch-attempt/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-20T03:49:30.125817Z",
-            "shown_at": [
-                "2025-10-20T03:49:30.659319Z",
-                "2025-10-20T10:21:50.873779Z"
-            ]
-        },
-        {
-            "id": "145f876d67ea77ec6818956d3d2c00f9",
-            "source": "spacenews",
-            "text": "America needs a ‘Plan B’ to reach the moon first",
-            "source_link": "https://spacenews.com/america-needs-a-plan-b-to-reach-the-moon-first/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-20T13:11:48.370630Z",
-            "shown_at": [
-                "2025-10-20T13:11:49.417556Z"
-            ]
-        },
-        {
-            "id": "db033cacfa991bcf03d260af6b4705fe",
-            "source": "spacenews",
-            "text": "Duffy says NASA will open Artemis 3 lander contract to competition",
-            "source_link": "https://spacenews.com/duffy-says-nasa-will-open-artemis-3-lander-contract-to-competition/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-20T21:02:45.528779Z",
-            "shown_at": [
-                "2025-10-20T21:02:46.331882Z"
-            ]
-        },
-        {
-            "id": "5b027d687c069444e9daa1b521590a89",
-            "source": "nyt",
-            "text": "How to See the Orionids Meteor Shower: Best Time to Watch",
-            "source_link": "https://www.nytimes.com/2025/10/20/science/orionids-meteor-shower.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-20T22:05:52.570261Z",
-            "shown_at": [
-                "2025-10-20T22:05:53.220250Z"
-            ]
-        },
-        {
-            "id": "4ace502aef500636437da881602b1be6",
-            "source": "nyt",
-            "text": "George F. Smoot, Who Showed How the Cosmos Began, Is Dead at 80",
-            "source_link": "https://www.nytimes.com/2025/10/20/science/space/george-f-smoot-dead.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-20T22:05:52.570307Z",
-            "shown_at": [
-                "2025-10-20T22:22:06.676191Z"
-            ]
-        },
-        {
-            "id": "ecf4e78bd573ba46b643b8cc3b26b7bf",
-            "source": "nyt",
-            "text": "With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas",
-            "source_link": "https://www.nytimes.com/2025/10/20/science/nasa-moon-lander-spacex.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-20T22:37:43.163161Z",
-            "shown_at": [
-                "2025-10-20T22:37:43.782634Z"
             ]
         }
     ]
