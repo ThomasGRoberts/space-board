@@ -5,7 +5,7 @@
 | nyt | 3 | 3 | 22 | 43 |
 | spacenews | 3 | 5 | 21 | 43 |
 | supercluster | 0 | 1 | 132 | 206 |
-| breaking_defense | 0 | 0 | 19 | 40 |
+| breaking_defense | 0 | 0 | 20 | 41 |
 
 # Shown Order
 
@@ -6847,3 +6847,4 @@
 - **Oct 21, 07:02 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 21, 07:09 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 21, 07:14 AM** - Belgian startup Nxgsat raises early funds for virtual 5G satellite modem (spacenews)
+- **Oct 21, 07:51 AM** - No future for Space Futures Command, sources say (breaking_defense)
