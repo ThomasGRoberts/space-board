@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-21T00:02:04.112674+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a445cd5f094f203914d0e18a7c697f74",
+    "trigger_count": 0,
+    "current_item_id": "bcc18a9382129c2eb2060514fe037e4e",
     "data": [
         {
             "id": "ecf4e78bd573ba46b643b8cc3b26b7bf",
@@ -12413,9 +12413,12 @@
             "source": "spacenews",
             "text": "Starlink mini lasers to link Muon Space satellites for near real-time connectivity",
             "source_link": "https://spacenews.com/starlink-mini-lasers-to-link-muon-space-satellites-for-near-real-time-connectivity/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-10-21T12:17:51.812114Z"
+            "fetched_datetime": "2025-10-21T12:17:51.812114Z",
+            "shown_at": [
+                "2025-10-21T12:38:01.151709Z"
+            ]
         }
     ]
 }

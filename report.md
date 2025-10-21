@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 20 | 41 |
-| spacenews | 6 | 8 | 21 | 42 |
+| spacenews | 6 | 8 | 22 | 43 |
 | supercluster | 0 | 1 | 127 | 227 |
 | breaking_defense | 0 | 0 | 18 | 38 |
 
@@ -6878,3 +6878,4 @@
 - **Oct 21, 12:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 21, 12:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 21, 12:17 PM** - Orion installed on SLS as Artemis 2 preparations continue during shutdown (spacenews)
+- **Oct 21, 12:38 PM** - Starlink mini lasers to link Muon Space satellites for near real-time connectivity (spacenews)
