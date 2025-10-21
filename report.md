@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 3 | 22 | 44 |
+| nyt | 3 | 3 | 22 | 43 |
 | spacenews | 2 | 4 | 20 | 43 |
-| supercluster | 0 | 1 | 127 | 201 |
+| supercluster | 0 | 1 | 128 | 202 |
 | breaking_defense | 0 | 0 | 19 | 41 |
 
 # Shown Order
@@ -6841,3 +6841,4 @@
 - **Oct 21, 06:12 AM** - iRocket turns to missiles to fuel reusable launcher ambitions (spacenews)
 - **Oct 21, 06:46 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 21, 06:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 21, 06:52 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
