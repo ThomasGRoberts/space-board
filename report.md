@@ -6972,3 +6972,4 @@
 - **Oct 21, 10:39 PM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 21, 10:56 PM** - Money is pouring into defense but dual-use is the real sweet spot (spacenews)
 - **Oct 21, 11:13 PM** - With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas (nyt)
+- **Oct 21, 11:28 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
