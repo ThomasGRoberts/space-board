@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 10 | 24 | 45 |
-| nyt | 0 | 3 | 20 | 42 |
-| supercluster | 0 | 0 | 133 | 265 |
+| spacenews | 7 | 10 | 24 | 44 |
+| nyt | 0 | 3 | 19 | 42 |
+| supercluster | 0 | 0 | 134 | 266 |
 | breaking_defense | 0 | 0 | 19 | 39 |
 
 # Shown Order
@@ -6962,3 +6962,4 @@
 - **Oct 22, 02:02 AM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 22, 02:20 AM** - With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas (nyt)
 - **Oct 22, 02:33 AM** - German launch startup HyImpulse raises 45 million euros (spacenews)
+- **Oct 22, 02:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
