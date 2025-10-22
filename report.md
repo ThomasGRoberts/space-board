@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 22 | 44 |
+| spacenews | 6 | 13 | 23 | 45 |
 | nyt | 1 | 4 | 20 | 41 |
 | breaking_defense | 0 | 0 | 18 | 37 |
 | supercluster | 1 | 1 | 37 | 37 |
@@ -6730,3 +6730,4 @@
 - **Oct 22, 08:27 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
 - **Oct 22, 08:29 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
 - **Oct 22, 08:32 PM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
+- **Oct 22, 08:54 PM** - Viasat takes aim at the U.S. military satellite market (spacenews)
