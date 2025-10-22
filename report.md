@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 23 | 45 |
+| spacenews | 7 | 13 | 24 | 46 |
 | nyt | 0 | 3 | 21 | 41 |
-| supercluster | 0 | 0 | 140 | 263 |
-| breaking_defense | 0 | 0 | 21 | 39 |
+| supercluster | 0 | 0 | 140 | 261 |
+| breaking_defense | 0 | 0 | 20 | 39 |
 
 # Shown Order
 
@@ -7043,3 +7043,4 @@
 - **Oct 22, 11:36 AM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 22, 11:52 AM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
 - **Oct 22, 12:12 PM** - Taiwan should build a space-enabled kill web, not big warships (spacenews)
+- **Oct 22, 12:53 PM** - Vantor satellites track space objects in ‘blind spots’ inaccessible to military ground sensors (spacenews)
