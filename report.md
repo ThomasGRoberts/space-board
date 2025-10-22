@@ -5,7 +5,7 @@
 | spacenews | 6 | 13 | 22 | 44 |
 | nyt | 1 | 4 | 19 | 39 |
 | breaking_defense | 0 | 0 | 19 | 37 |
-| supercluster | 1 | 1 | 9 | 9 |
+| supercluster | 1 | 1 | 10 | 10 |
 
 # Shown Order
 
@@ -6692,3 +6692,4 @@
 - **Oct 22, 04:26 PM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
 - **Oct 22, 04:43 PM** - Vantor satellites track space objects in ‘blind spots’ inaccessible to military ground sensors (spacenews)
 - **Oct 22, 04:59 PM** - No future for Space Futures Command, sources say (breaking_defense)
+- **Oct 22, 05:15 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
