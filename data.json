@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-22T00:02:22.165580+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f90312d78b44f1de4ae6ea210d3ae1d8",
+    "trigger_count": 0,
+    "current_item_id": "33fcd6d7238a83b6905574344753ff41",
     "data": [
         {
             "id": "5b3720e22fdc22d561c0379f145bc47c",
@@ -12595,6 +12595,15 @@
             "shown_at": [
                 "2025-10-22T12:53:54.599059Z"
             ]
+        },
+        {
+            "id": "33fcd6d7238a83b6905574344753ff41",
+            "source": "nyt",
+            "text": "SpaceX, Sued by Cards Against Humanity, Settles Trespassing Case",
+            "source_link": "https://www.nytimes.com/2025/10/21/us/spacex-cards-against-humanity-lawsuit-settlement.html",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-10-22T13:21:56.954791Z"
         }
     ]
 }
