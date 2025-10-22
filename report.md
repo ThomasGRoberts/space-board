@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 22 | 45 |
-| nyt | 1 | 2 | 19 | 39 |
+| spacenews | 7 | 13 | 23 | 46 |
+| nyt | 1 | 1 | 19 | 38 |
 | breaking_defense | 0 | 0 | 19 | 38 |
 | supercluster | 2 | 2 | 51 | 51 |
 
@@ -6749,3 +6749,4 @@
 - **Oct 22, 10:18 PM** - China Will Launch the Long March 5 Rocket (supercluster)
 - **Oct 22, 10:21 PM** - China Will Launch the Long March 5 Rocket (supercluster)
 - **Oct 22, 10:24 PM** - No future for Space Futures Command, sources say (breaking_defense)
+- **Oct 22, 10:37 PM** - Lockheed Martin Ventures invests in rocket propulsion startup Venus Aerospace (spacenews)
