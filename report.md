@@ -6941,3 +6941,4 @@
 - **Oct 21, 11:43 PM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 21, 11:57 PM** - As shutdown continues, science community keeps focus on long-term budget concerns (spacenews)
 - **Oct 22, 12:14 AM** - How to See the Orionids Meteor Shower: Best Time to Watch (nyt)
+- **Oct 22, 12:29 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
