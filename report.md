@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 22 | 44 |
+| spacenews | 6 | 13 | 23 | 45 |
 | nyt | 1 | 4 | 20 | 41 |
 | breaking_defense | 0 | 0 | 18 | 37 |
 | supercluster | 1 | 1 | 30 | 30 |
@@ -6720,3 +6720,4 @@
 - **Oct 22, 07:32 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
 - **Oct 22, 07:33 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
 - **Oct 22, 07:35 PM** - How to See the Orionids Meteor Shower: Best Time to Watch (nyt)
+- **Oct 22, 07:49 PM** - Belgian startup Nxgsat raises early funds for virtual 5G satellite modem (spacenews)
