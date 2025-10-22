@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 21 | 43 |
+| spacenews | 6 | 13 | 22 | 44 |
 | nyt | 1 | 4 | 20 | 39 |
 | breaking_defense | 0 | 0 | 18 | 36 |
 | supercluster | 1 | 1 | 2 | 2 |
@@ -6680,3 +6680,4 @@
 - **Oct 22, 03:17 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
 - **Oct 22, 03:19 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
 - **Oct 22, 03:21 PM** - SpaceX, Sued by Cards Against Humanity, Settles Trespassing Case (nyt)
+- **Oct 22, 03:37 PM** - The lunar mining gold rush is coming – and success requires bridging two worlds  (spacenews)
