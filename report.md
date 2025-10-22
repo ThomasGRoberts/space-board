@@ -5,7 +5,7 @@
 | spacenews | 6 | 13 | 22 | 44 |
 | nyt | 1 | 4 | 19 | 39 |
 | breaking_defense | 0 | 0 | 19 | 37 |
-| supercluster | 1 | 1 | 11 | 11 |
+| supercluster | 1 | 1 | 12 | 12 |
 
 # Shown Order
 
@@ -6694,3 +6694,4 @@
 - **Oct 22, 04:59 PM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 22, 05:15 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
 - **Oct 22, 05:17 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
+- **Oct 22, 05:20 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
