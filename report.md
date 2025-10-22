@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 10 | 24 | 45 |
 | nyt | 0 | 3 | 19 | 42 |
-| supercluster | 0 | 0 | 134 | 266 |
+| supercluster | 0 | 0 | 135 | 267 |
 | breaking_defense | 0 | 0 | 19 | 39 |
 
 # Shown Order
@@ -6953,3 +6953,4 @@
 - **Oct 22, 01:19 AM** - With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas (nyt)
 - **Oct 22, 01:33 AM** - Samara Aerospace pointing technology to be tested in orbit (spacenews)
 - **Oct 22, 01:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 22, 01:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
