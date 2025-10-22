@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 11 | 24 | 45 |
-| nyt | 0 | 3 | 21 | 42 |
-| supercluster | 0 | 0 | 141 | 273 |
+| nyt | 0 | 3 | 20 | 42 |
+| supercluster | 0 | 0 | 142 | 274 |
 | breaking_defense | 0 | 0 | 20 | 40 |
 
 # Shown Order
@@ -7013,3 +7013,4 @@
 - **Oct 22, 07:47 AM** - With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas (nyt)
 - **Oct 22, 08:02 AM** - Lynk Global and Omnispace to merge in race for direct-to-device satellite spectrum (spacenews)
 - **Oct 22, 08:26 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 22, 08:29 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
