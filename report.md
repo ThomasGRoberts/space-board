@@ -5,7 +5,7 @@
 | spacenews | 6 | 12 | 22 | 45 |
 | nyt | 1 | 2 | 19 | 40 |
 | breaking_defense | 0 | 0 | 18 | 37 |
-| supercluster | 2 | 2 | 50 | 50 |
+| supercluster | 2 | 2 | 51 | 51 |
 
 # Shown Order
 
@@ -6747,3 +6747,4 @@
 - **Oct 22, 10:12 PM** - China Will Launch the Long March 5 Rocket (supercluster)
 - **Oct 22, 10:15 PM** - China Will Launch the Long March 5 Rocket (supercluster)
 - **Oct 22, 10:18 PM** - China Will Launch the Long March 5 Rocket (supercluster)
+- **Oct 22, 10:21 PM** - China Will Launch the Long March 5 Rocket (supercluster)
