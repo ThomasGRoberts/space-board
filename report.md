@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 10 | 24 | 44 |
-| nyt | 0 | 3 | 19 | 42 |
-| supercluster | 0 | 0 | 135 | 267 |
+| nyt | 0 | 3 | 19 | 41 |
+| supercluster | 0 | 0 | 136 | 268 |
 | breaking_defense | 0 | 0 | 19 | 39 |
 
 # Shown Order
@@ -6994,3 +6994,4 @@
 - **Oct 22, 05:44 AM** - Data Boom, Video Decline Reshapes Satellite Revenues by 2034 (spacenews)
 - **Oct 22, 05:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 22, 06:02 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 22, 06:05 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
