@@ -5,7 +5,7 @@
 | spacenews | 6 | 12 | 22 | 44 |
 | nyt | 1 | 4 | 20 | 41 |
 | breaking_defense | 0 | 0 | 18 | 37 |
-| supercluster | 1 | 1 | 37 | 37 |
+| supercluster | 2 | 2 | 38 | 38 |
 
 # Shown Order
 
@@ -6731,3 +6731,4 @@
 - **Oct 22, 08:29 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
 - **Oct 22, 08:32 PM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
 - **Oct 22, 08:54 PM** - Viasat takes aim at the U.S. military satellite market (spacenews)
+- **Oct 22, 09:07 PM** - China Will Launch the Long March 5 Rocket (supercluster)

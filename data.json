@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-22T00:02:22.165580+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6ca45b233456086b27da226f60f1cdf4",
+    "trigger_count": 0,
+    "current_item_id": "34d96be8961537fe131abf01d84d57c0",
     "data": [
         {
             "id": "5b3720e22fdc22d561c0379f145bc47c",
@@ -12303,6 +12303,20 @@
             "fetched_datetime": "2025-10-22T15:37:52.620037Z",
             "shown_at": [
                 "2025-10-22T15:37:53.352342Z"
+            ]
+        },
+        {
+            "id": "34d96be8961537fe131abf01d84d57c0",
+            "source": "supercluster",
+            "text": "China Will Launch the Long March 5 Rocket",
+            "source_link": "https://www.supercluster.com/launches/long-march-5",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-10-23T14:30:00.000Z",
+            "time_remaining": "0d 17h 22m",
+            "fetched_datetime": "2025-10-22T21:07:55.276016Z",
+            "shown_at": [
+                "2025-10-22T21:07:55.846447Z"
             ]
         }
     ]
