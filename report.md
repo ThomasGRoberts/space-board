@@ -5,7 +5,7 @@
 | spacenews | 6 | 12 | 23 | 44 |
 | nyt | 1 | 4 | 20 | 40 |
 | breaking_defense | 0 | 0 | 19 | 37 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -6678,3 +6678,4 @@
 - **Oct 22, 12:12 PM** - Taiwan should build a space-enabled kill web, not big warships (spacenews)
 - **Oct 22, 12:53 PM** - Vantor satellites track space objects in ‘blind spots’ inaccessible to military ground sensors (spacenews)
 - **Oct 22, 02:10 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 22, 02:12 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
