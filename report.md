@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 22 | 45 |
+| spacenews | 6 | 13 | 22 | 44 |
 | nyt | 1 | 4 | 19 | 40 |
 | breaking_defense | 0 | 0 | 19 | 37 |
-| supercluster | 1 | 1 | 17 | 17 |
+| supercluster | 1 | 1 | 18 | 18 |
 
 # Shown Order
 
@@ -6703,3 +6703,4 @@
 - **Oct 22, 05:45 PM** - Taiwan should build a space-enabled kill web, not big warships (spacenews)
 - **Oct 22, 05:59 PM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 22, 06:17 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
+- **Oct 22, 06:19 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
