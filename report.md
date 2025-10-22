@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 22 | 44 |
-| nyt | 1 | 4 | 19 | 39 |
+| nyt | 1 | 4 | 20 | 40 |
 | breaking_defense | 0 | 0 | 18 | 37 |
 | supercluster | 1 | 1 | 16 | 16 |
 
@@ -6699,3 +6699,4 @@
 - **Oct 22, 05:23 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
 - **Oct 22, 05:25 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
 - **Oct 22, 05:27 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
+- **Oct 22, 05:29 PM** - How to See the Orionids Meteor Shower: Best Time to Watch (nyt)
