@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 10 | 24 | 44 |
+| spacenews | 7 | 10 | 23 | 44 |
 | nyt | 0 | 3 | 20 | 42 |
-| supercluster | 0 | 0 | 135 | 267 |
+| supercluster | 0 | 0 | 136 | 268 |
 | breaking_defense | 0 | 0 | 20 | 39 |
 
 # Shown Order
@@ -7004,3 +7004,4 @@
 - **Oct 22, 06:51 AM** - ‘Space Armor’ to challenge traditional metal shielding on satellites (spacenews)
 - **Oct 22, 07:09 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 22, 07:14 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 22, 07:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
