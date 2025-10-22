@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 12 | 25 | 46 |
+| spacenews | 8 | 12 | 25 | 45 |
 | nyt | 0 | 3 | 21 | 42 |
-| supercluster | 0 | 0 | 140 | 267 |
+| supercluster | 0 | 0 | 141 | 268 |
 | breaking_defense | 0 | 0 | 20 | 39 |
 
 # Shown Order
@@ -7033,3 +7033,4 @@
 - **Oct 22, 10:27 AM** - They’re Ready to Go to Mars (nyt)
 - **Oct 22, 10:41 AM** - China launches 12th group of Guowang broadband satellites as rocket milestone highlights accelerating launch rate (spacenews)
 - **Oct 22, 10:55 AM** - Musk criticizes Duffy amid NASA leadership debate (spacenews)
+- **Oct 22, 11:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
