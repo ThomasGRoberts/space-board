@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 9 | 23 | 44 |
+| spacenews | 7 | 10 | 24 | 45 |
 | nyt | 0 | 3 | 20 | 42 |
-| supercluster | 0 | 0 | 133 | 267 |
+| supercluster | 0 | 0 | 133 | 266 |
 | breaking_defense | 0 | 0 | 19 | 40 |
 
 # Shown Order
@@ -6951,3 +6951,4 @@
 - **Oct 22, 12:45 AM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 22, 01:02 AM** - ECAPS Announces Breakthrough Fast-Start Thruster (FAST) Technology (spacenews)
 - **Oct 22, 01:19 AM** - With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas (nyt)
+- **Oct 22, 01:33 AM** - Samara Aerospace pointing technology to be tested in orbit (spacenews)
