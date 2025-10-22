@@ -5,7 +5,7 @@
 | spacenews | 6 | 12 | 22 | 43 |
 | nyt | 1 | 4 | 19 | 39 |
 | breaking_defense | 0 | 0 | 18 | 36 |
-| supercluster | 1 | 1 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -6677,3 +6677,4 @@
 - **Oct 22, 11:52 AM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
 - **Oct 22, 12:12 PM** - Taiwan should build a space-enabled kill web, not big warships (spacenews)
 - **Oct 22, 12:53 PM** - Vantor satellites track space objects in ‘blind spots’ inaccessible to military ground sensors (spacenews)
+- **Oct 22, 03:17 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
