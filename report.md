@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 11 | 24 | 45 |
 | nyt | 0 | 3 | 20 | 42 |
-| supercluster | 0 | 0 | 142 | 274 |
+| supercluster | 0 | 0 | 143 | 275 |
 | breaking_defense | 0 | 0 | 20 | 40 |
 
 # Shown Order
@@ -7014,3 +7014,4 @@
 - **Oct 22, 08:02 AM** - Lynk Global and Omnispace to merge in race for direct-to-device satellite spectrum (spacenews)
 - **Oct 22, 08:26 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 22, 08:29 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 22, 08:33 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
