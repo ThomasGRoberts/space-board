@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 22 | 45 |
 | nyt | 1 | 4 | 20 | 40 |
-| breaking_defense | 0 | 0 | 18 | 37 |
+| breaking_defense | 0 | 0 | 19 | 38 |
 | supercluster | 1 | 1 | 30 | 30 |
 
 # Shown Order
@@ -6721,3 +6721,4 @@
 - **Oct 22, 07:33 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
 - **Oct 22, 07:35 PM** - How to See the Orionids Meteor Shower: Best Time to Watch (nyt)
 - **Oct 22, 07:49 PM** - Belgian startup Nxgsat raises early funds for virtual 5G satellite modem (spacenews)
+- **Oct 22, 08:03 PM** - No future for Space Futures Command, sources say (breaking_defense)
