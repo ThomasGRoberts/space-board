@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 23 | 46 |
-| nyt | 1 | 1 | 19 | 38 |
+| nyt | 1 | 1 | 20 | 39 |
 | breaking_defense | 0 | 0 | 18 | 38 |
 | supercluster | 2 | 2 | 51 | 51 |
 
@@ -6750,3 +6750,4 @@
 - **Oct 22, 10:21 PM** - China Will Launch the Long March 5 Rocket (supercluster)
 - **Oct 22, 10:24 PM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 22, 10:37 PM** - Lockheed Martin Ventures invests in rocket propulsion startup Venus Aerospace (spacenews)
+- **Oct 22, 10:51 PM** - George F. Smoot, Who Showed How the Cosmos Began, Is Dead at 80 (nyt)
