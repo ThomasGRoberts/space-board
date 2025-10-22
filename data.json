@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-22T00:02:22.165580+00:00",
-    "trigger_count": 6,
-    "current_item_id": "55820a6d7460ee4daa25ed304c2bdb6e",
+    "trigger_count": 0,
+    "current_item_id": "9f71018df73e26073aa151687a86f5fc",
     "data": [
         {
             "id": "5b3720e22fdc22d561c0379f145bc47c",
@@ -12560,6 +12560,18 @@
             "fetched_datetime": "2025-10-22T08:02:15.919480Z",
             "shown_at": [
                 "2025-10-22T08:02:16.447038Z"
+            ]
+        },
+        {
+            "id": "9f71018df73e26073aa151687a86f5fc",
+            "source": "spacenews",
+            "text": "Musk criticizes Duffy amid NASA leadership debate",
+            "source_link": "https://spacenews.com/musk-criticizes-duffy-amid-nasa-leadership-debate/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-22T10:55:46.724186Z",
+            "shown_at": [
+                "2025-10-22T10:55:47.758494Z"
             ]
         }
     ]
