@@ -5,7 +5,7 @@
 | spacenews | 6 | 13 | 22 | 45 |
 | nyt | 1 | 4 | 19 | 40 |
 | breaking_defense | 0 | 0 | 19 | 37 |
-| supercluster | 1 | 1 | 23 | 23 |
+| supercluster | 1 | 1 | 24 | 24 |
 
 # Shown Order
 
@@ -6712,3 +6712,4 @@
 - **Oct 22, 06:34 PM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
 - **Oct 22, 06:48 PM** - America needs a ‘Plan B’ to reach the moon first (spacenews)
 - **Oct 22, 07:07 PM** - No future for Space Futures Command, sources say (breaking_defense)
+- **Oct 22, 07:22 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
