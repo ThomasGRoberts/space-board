@@ -5,7 +5,7 @@
 | spacenews | 7 | 13 | 22 | 45 |
 | nyt | 1 | 1 | 20 | 39 |
 | breaking_defense | 0 | 0 | 18 | 38 |
-| supercluster | 2 | 2 | 52 | 52 |
+| supercluster | 2 | 2 | 53 | 53 |
 
 # Shown Order
 
@@ -6752,3 +6752,4 @@
 - **Oct 22, 10:37 PM** - Lockheed Martin Ventures invests in rocket propulsion startup Venus Aerospace (spacenews)
 - **Oct 22, 10:51 PM** - George F. Smoot, Who Showed How the Cosmos Began, Is Dead at 80 (nyt)
 - **Oct 22, 11:08 PM** - China Will Launch the Long March 5 Rocket (supercluster)
+- **Oct 22, 11:09 PM** - China Will Launch the Long March 5 Rocket (supercluster)
