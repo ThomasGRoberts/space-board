@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 22 | 45 |
-| nyt | 1 | 4 | 20 | 41 |
+| nyt | 1 | 2 | 20 | 40 |
 | breaking_defense | 0 | 0 | 18 | 37 |
-| supercluster | 2 | 2 | 44 | 44 |
+| supercluster | 2 | 2 | 45 | 45 |
 
 # Shown Order
 
@@ -6741,3 +6741,4 @@
 - **Oct 22, 09:22 PM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 22, 09:35 PM** - George F. Smoot, Who Showed How the Cosmos Began, Is Dead at 80 (nyt)
 - **Oct 22, 09:50 PM** - Vantor satellites track space objects in ‘blind spots’ inaccessible to military ground sensors (spacenews)
+- **Oct 22, 10:05 PM** - China Will Launch the Long March 5 Rocket (supercluster)
