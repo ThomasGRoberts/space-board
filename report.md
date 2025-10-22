@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 21 | 44 |
+| spacenews | 6 | 13 | 22 | 45 |
 | nyt | 1 | 4 | 20 | 40 |
-| breaking_defense | 0 | 0 | 18 | 37 |
+| breaking_defense | 0 | 0 | 18 | 36 |
 | supercluster | 1 | 1 | 16 | 16 |
 
 # Shown Order
@@ -6700,3 +6700,4 @@
 - **Oct 22, 05:25 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
 - **Oct 22, 05:27 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
 - **Oct 22, 05:29 PM** - How to See the Orionids Meteor Shower: Best Time to Watch (nyt)
+- **Oct 22, 05:45 PM** - Taiwan should build a space-enabled kill web, not big warships (spacenews)
