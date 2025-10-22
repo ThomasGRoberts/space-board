@@ -5,7 +5,7 @@
 | spacenews | 6 | 12 | 22 | 44 |
 | nyt | 1 | 4 | 20 | 41 |
 | breaking_defense | 0 | 0 | 18 | 37 |
-| supercluster | 2 | 2 | 39 | 39 |
+| supercluster | 2 | 2 | 40 | 40 |
 
 # Shown Order
 
@@ -6733,3 +6733,4 @@
 - **Oct 22, 08:54 PM** - Viasat takes aim at the U.S. military satellite market (spacenews)
 - **Oct 22, 09:07 PM** - China Will Launch the Long March 5 Rocket (supercluster)
 - **Oct 22, 09:09 PM** - China Will Launch the Long March 5 Rocket (supercluster)
+- **Oct 22, 09:11 PM** - China Will Launch the Long March 5 Rocket (supercluster)
