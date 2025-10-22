@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 22 | 45 |
 | nyt | 1 | 4 | 19 | 40 |
-| breaking_defense | 0 | 0 | 18 | 36 |
+| breaking_defense | 0 | 0 | 19 | 37 |
 | supercluster | 1 | 1 | 16 | 16 |
 
 # Shown Order
@@ -6701,3 +6701,4 @@
 - **Oct 22, 05:27 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
 - **Oct 22, 05:29 PM** - How to See the Orionids Meteor Shower: Best Time to Watch (nyt)
 - **Oct 22, 05:45 PM** - Taiwan should build a space-enabled kill web, not big warships (spacenews)
+- **Oct 22, 05:59 PM** - No future for Space Futures Command, sources say (breaking_defense)
