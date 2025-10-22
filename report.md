@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 12 | 24 | 45 |
-| nyt | 0 | 3 | 20 | 41 |
-| supercluster | 0 | 0 | 147 | 271 |
+| nyt | 0 | 3 | 21 | 42 |
+| supercluster | 0 | 0 | 147 | 270 |
 | breaking_defense | 0 | 0 | 21 | 40 |
 
 # Shown Order
@@ -7041,3 +7041,4 @@
 - **Oct 22, 11:28 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 22, 11:32 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 22, 11:36 AM** - Army budget prioritizes counterspace for first time (breaking_defense)
+- **Oct 22, 11:52 AM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
