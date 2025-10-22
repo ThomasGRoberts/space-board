@@ -7022,3 +7022,4 @@
 - **Oct 22, 08:51 AM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 22, 09:12 AM** - With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas (nyt)
 - **Oct 22, 09:34 AM** - Data Boom, Video Decline Reshapes Satellite Revenues by 2034 (spacenews)
+- **Oct 22, 09:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
