@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 9 | 23 | 44 |
+| spacenews | 8 | 10 | 24 | 45 |
 | nyt | 0 | 3 | 20 | 42 |
 | supercluster | 0 | 0 | 133 | 265 |
 | breaking_defense | 0 | 0 | 19 | 39 |
@@ -6981,3 +6981,4 @@
 - **Oct 22, 04:07 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 22, 04:09 AM** - Army budget prioritizes counterspace for first time (breaking_defense)
 - **Oct 22, 04:28 AM** - They’re Ready to Go to Mars (nyt)
+- **Oct 22, 04:43 AM** - Startup takes on space-based missile defense — with its own cash (spacenews)
