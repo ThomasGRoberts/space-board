@@ -5,7 +5,7 @@
 | spacenews | 6 | 12 | 22 | 45 |
 | nyt | 1 | 2 | 20 | 40 |
 | breaking_defense | 0 | 0 | 18 | 37 |
-| supercluster | 2 | 2 | 45 | 45 |
+| supercluster | 2 | 2 | 46 | 46 |
 
 # Shown Order
 
@@ -6742,3 +6742,4 @@
 - **Oct 22, 09:35 PM** - George F. Smoot, Who Showed How the Cosmos Began, Is Dead at 80 (nyt)
 - **Oct 22, 09:50 PM** - Vantor satellites track space objects in ‘blind spots’ inaccessible to military ground sensors (spacenews)
 - **Oct 22, 10:05 PM** - China Will Launch the Long March 5 Rocket (supercluster)
+- **Oct 22, 10:07 PM** - China Will Launch the Long March 5 Rocket (supercluster)
