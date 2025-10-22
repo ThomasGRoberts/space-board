@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 21 | 43 |
+| spacenews | 6 | 13 | 22 | 44 |
 | nyt | 1 | 4 | 20 | 40 |
 | breaking_defense | 0 | 0 | 18 | 36 |
 | supercluster | 1 | 1 | 9 | 9 |
@@ -6690,3 +6690,4 @@
 - **Oct 22, 04:21 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
 - **Oct 22, 04:23 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
 - **Oct 22, 04:26 PM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
+- **Oct 22, 04:43 PM** - Vantor satellites track space objects in ‘blind spots’ inaccessible to military ground sensors (spacenews)
