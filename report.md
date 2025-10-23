@@ -5,7 +5,7 @@
 | spacenews | 7 | 13 | 25 | 47 |
 | nyt | 0 | 1 | 23 | 42 |
 | breaking_defense | 1 | 1 | 22 | 40 |
-| supercluster | 1 | 1 | 4 | 4 |
+| supercluster | 1 | 1 | 5 | 5 |
 
 # Shown Order
 
@@ -6571,3 +6571,4 @@
 - **Oct 23, 03:38 PM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 23, 03:51 PM** - Planet Labs wins $12.8 million NGA contract for maritime intelligence in Asia-Pacific (spacenews)
 - **Oct 23, 04:06 PM** - George F. Smoot, Who Showed How the Cosmos Began, Is Dead at 80 (nyt)
+- **Oct 23, 04:19 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
