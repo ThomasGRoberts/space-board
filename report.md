@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 24 | 47 |
-| supercluster | 1 | 1 | 49 | 49 |
+| supercluster | 1 | 1 | 50 | 50 |
 | nyt | 1 | 1 | 19 | 39 |
 | breaking_defense | 0 | 0 | 18 | 38 |
 
@@ -6583,3 +6583,4 @@
 - **Oct 23, 03:47 AM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 23, 04:02 AM** - With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas (nyt)
 - **Oct 23, 04:17 AM** - Planet Labs wins $12.8 million NGA contract for maritime intelligence in Asia-Pacific (spacenews)
+- **Oct 23, 04:32 AM** - China Will Launch the Long March 5 Rocket (supercluster)
