@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 22 | 45 |
-| supercluster | 2 | 2 | 58 | 58 |
+| supercluster | 2 | 2 | 59 | 59 |
 | nyt | 1 | 1 | 20 | 39 |
 | breaking_defense | 0 | 0 | 18 | 38 |
 
@@ -6578,3 +6578,4 @@
 - **Oct 22, 11:21 PM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 22, 11:37 PM** - Lockheed Martin Ventures invests in rocket propulsion startup Venus Aerospace (spacenews)
 - **Oct 22, 11:53 PM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
+- **Oct 23, 12:09 AM** - China Will Launch the Long March 5 Rocket (supercluster)
