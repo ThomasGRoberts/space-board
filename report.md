@@ -5,7 +5,7 @@
 | spacenews | 8 | 14 | 25 | 47 |
 | nyt | 0 | 1 | 22 | 42 |
 | breaking_defense | 2 | 2 | 23 | 41 |
-| supercluster | 1 | 1 | 25 | 25 |
+| supercluster | 1 | 1 | 26 | 26 |
 
 # Shown Order
 
@@ -6602,3 +6602,4 @@
 - **Oct 23, 06:57 PM** - China expands classified geostationary satellite series with Long March 5 launch (spacenews)
 - **Oct 23, 07:13 PM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
 - **Oct 23, 07:28 PM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
+- **Oct 23, 07:41 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
