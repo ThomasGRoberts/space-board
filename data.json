@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-23T00:02:08.321097+00:00",
-    "trigger_count": 6,
-    "current_item_id": "bac298dda787c837a2dcc11f39f332d9",
+    "trigger_count": 0,
+    "current_item_id": "55948067f1eda857883822d36bdd4bf7",
     "data": [
         {
             "id": "6198a6ddd3478a7d47316d9788e972a9",
@@ -12221,6 +12221,18 @@
             "fetched_datetime": "2025-10-23T11:51:55.861954Z",
             "shown_at": [
                 "2025-10-23T11:51:56.834983Z"
+            ]
+        },
+        {
+            "id": "55948067f1eda857883822d36bdd4bf7",
+            "source": "spacenews",
+            "text": "The next space race will be won at night",
+            "source_link": "https://spacenews.com/the-next-space-race-will-be-won-at-night/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-23T13:07:44.841660Z",
+            "shown_at": [
+                "2025-10-23T13:07:45.514519Z"
             ]
         }
     ]
