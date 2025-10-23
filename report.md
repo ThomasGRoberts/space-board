@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 15 | 26 | 48 |
-| nyt | 0 | 1 | 22 | 41 |
+| nyt | 0 | 1 | 22 | 42 |
 | breaking_defense | 2 | 2 | 23 | 42 |
 | supercluster | 1 | 1 | 39 | 39 |
 
@@ -6622,3 +6622,4 @@
 - **Oct 23, 08:53 PM** - Airbus, Leonardo and Thales agree to combine space businesses (spacenews)
 - **Oct 23, 09:10 PM** - SatLeo prepares to launch first thermal-imaging payload (spacenews)
 - **Oct 23, 09:23 PM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
+- **Oct 23, 09:38 PM** - With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas (nyt)
