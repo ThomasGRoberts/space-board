@@ -5,7 +5,7 @@
 | spacenews | 9 | 15 | 25 | 48 |
 | nyt | 0 | 1 | 22 | 42 |
 | breaking_defense | 2 | 2 | 23 | 41 |
-| supercluster | 1 | 1 | 39 | 39 |
+| supercluster | 1 | 1 | 40 | 40 |
 
 # Shown Order
 
@@ -6623,3 +6623,4 @@
 - **Oct 23, 09:10 PM** - SatLeo prepares to launch first thermal-imaging payload (spacenews)
 - **Oct 23, 09:23 PM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
 - **Oct 23, 09:38 PM** - With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas (nyt)
+- **Oct 23, 09:53 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
