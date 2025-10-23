@@ -5,7 +5,7 @@
 | spacenews | 7 | 13 | 22 | 45 |
 | supercluster | 2 | 2 | 72 | 72 |
 | nyt | 1 | 1 | 19 | 39 |
-| breaking_defense | 0 | 0 | 18 | 38 |
+| breaking_defense | 0 | 0 | 19 | 39 |
 
 # Shown Order
 
@@ -6595,3 +6595,4 @@
 - **Oct 23, 01:22 AM** - China Will Launch the Long March 5 Rocket (supercluster)
 - **Oct 23, 01:23 AM** - China Will Launch the Long March 5 Rocket (supercluster)
 - **Oct 23, 01:25 AM** - China Will Launch the Long March 5 Rocket (supercluster)
+- **Oct 23, 01:27 AM** - No future for Space Futures Command, sources say (breaking_defense)
