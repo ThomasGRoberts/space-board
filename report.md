@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 23 | 46 |
 | supercluster | 2 | 2 | 65 | 65 |
-| nyt | 1 | 1 | 19 | 38 |
+| nyt | 1 | 1 | 20 | 39 |
 | breaking_defense | 0 | 0 | 18 | 38 |
 
 # Shown Order
@@ -6587,3 +6587,4 @@
 - **Oct 23, 12:21 AM** - China Will Launch the Long March 5 Rocket (supercluster)
 - **Oct 23, 12:23 AM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 23, 12:41 AM** - Landspace begins final preparations for China’s first orbital launch and landing attempt (spacenews)
+- **Oct 23, 12:57 AM** - George F. Smoot, Who Showed How the Cosmos Began, Is Dead at 80 (nyt)
