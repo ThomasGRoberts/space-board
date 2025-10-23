@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 15 | 23 | 47 |
 | supercluster | 1 | 1 | 70 | 70 |
-| nyt | 1 | 1 | 19 | 39 |
+| nyt | 1 | 1 | 20 | 40 |
 | breaking_defense | 0 | 0 | 19 | 39 |
 
 # Shown Order
@@ -6611,3 +6611,4 @@
 - **Oct 23, 06:45 AM** - China Will Launch the Long March 5 Rocket (supercluster)
 - **Oct 23, 06:47 AM** - China Will Launch the Long March 5 Rocket (supercluster)
 - **Oct 23, 06:49 AM** - No future for Space Futures Command, sources say (breaking_defense)
+- **Oct 23, 07:06 AM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
