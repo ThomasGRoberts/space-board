@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 25 | 47 |
-| nyt | 0 | 1 | 22 | 41 |
+| nyt | 0 | 1 | 23 | 42 |
 | breaking_defense | 1 | 1 | 22 | 41 |
 | supercluster | 1 | 1 | 11 | 11 |
 
@@ -6580,3 +6580,4 @@
 - **Oct 23, 04:32 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
 - **Oct 23, 04:35 PM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
 - **Oct 23, 04:49 PM** - SpaceX wins approval for increased Falcon launches from Vandenberg (spacenews)
+- **Oct 23, 05:08 PM** - How to See the Orionids Meteor Shower: Best Time to Watch (nyt)
