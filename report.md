@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 22 | 45 |
-| supercluster | 1 | 1 | 35 | 35 |
+| supercluster | 1 | 1 | 36 | 36 |
 | nyt | 1 | 1 | 20 | 39 |
 | breaking_defense | 0 | 0 | 18 | 38 |
 
@@ -6561,3 +6561,4 @@
 - **Oct 23, 01:27 AM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 23, 01:42 AM** - Europe outlines defense flagship programs and confirms European Space Shield by 2026 (spacenews)
 - **Oct 23, 01:55 AM** - How to See the Orionids Meteor Shower: Best Time to Watch (nyt)
+- **Oct 23, 02:10 AM** - China Will Launch the Long March 5 Rocket (supercluster)
