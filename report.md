@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 15 | 25 | 48 |
+| spacenews | 9 | 15 | 25 | 47 |
 | nyt | 0 | 1 | 22 | 42 |
 | breaking_defense | 2 | 2 | 23 | 41 |
-| supercluster | 1 | 1 | 41 | 41 |
+| supercluster | 1 | 1 | 42 | 42 |
 
 # Shown Order
 
@@ -6625,3 +6625,4 @@
 - **Oct 23, 09:38 PM** - With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas (nyt)
 - **Oct 23, 09:53 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
 - **Oct 23, 09:56 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
+- **Oct 23, 09:57 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
