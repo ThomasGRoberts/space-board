@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-23T00:02:08.321097+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7166589deb826f0e3b29fe39e82683a3",
+    "trigger_count": 0,
+    "current_item_id": "f5d13af9828e10a7c420355f667287bb",
     "data": [
         {
             "id": "6198a6ddd3478a7d47316d9788e972a9",
@@ -12234,6 +12234,18 @@
             "fetched_datetime": "2025-10-23T21:09:59.270467Z",
             "shown_at": [
                 "2025-10-23T21:10:00.677095Z"
+            ]
+        },
+        {
+            "id": "f5d13af9828e10a7c420355f667287bb",
+            "source": "nyt",
+            "text": "Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract",
+            "source_link": "https://www.nytimes.com/2025/10/23/us/politics/elon-musk-duffy-nasa.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-23T23:11:57.030960Z",
+            "shown_at": [
+                "2025-10-23T23:11:57.918461Z"
             ]
         }
     ]
