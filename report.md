@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 25 | 49 |
-| supercluster | 1 | 1 | 92 | 92 |
+| supercluster | 1 | 1 | 93 | 93 |
 | nyt | 1 | 1 | 20 | 41 |
 | breaking_defense | 0 | 0 | 19 | 40 |
 
@@ -6644,3 +6644,4 @@
 - **Oct 23, 10:05 AM** - With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas (nyt)
 - **Oct 23, 10:19 AM** - Orion installed on SLS as Artemis 2 preparations continue during shutdown (spacenews)
 - **Oct 23, 10:33 AM** - China Will Launch the Long March 5 Rocket (supercluster)
+- **Oct 23, 10:35 AM** - China Will Launch the Long March 5 Rocket (supercluster)
