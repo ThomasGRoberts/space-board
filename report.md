@@ -5,7 +5,7 @@
 | spacenews | 8 | 14 | 25 | 47 |
 | nyt | 0 | 1 | 23 | 42 |
 | breaking_defense | 1 | 1 | 22 | 41 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 0 | 0 |
 
 # Shown Order
 
@@ -6564,4 +6564,3 @@
 - **Oct 23, 01:49 PM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
 - **Oct 23, 02:06 PM** - As shutdown continues, science community keeps focus on long-term budget concerns (spacenews)
 - **Oct 23, 02:22 PM** - George F. Smoot, Who Showed How the Cosmos Began, Is Dead at 80 (nyt)
-- **Oct 23, 02:35 PM** - China Will Launch the Long March 5 Rocket (supercluster)
