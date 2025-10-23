@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 25 | 48 |
+| spacenews | 8 | 15 | 25 | 47 |
 | nyt | 1 | 2 | 22 | 42 |
 | breaking_defense | 2 | 2 | 23 | 41 |
-| supercluster | 1 | 1 | 55 | 55 |
+| supercluster | 1 | 1 | 56 | 56 |
 
 # Shown Order
 
@@ -6645,3 +6645,4 @@
 - **Oct 23, 11:40 PM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
 - **Oct 23, 11:55 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
 - **Oct 23, 11:57 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
+- **Oct 23, 11:59 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
