@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 22 | 45 |
-| supercluster | 2 | 2 | 66 | 66 |
+| supercluster | 2 | 2 | 67 | 67 |
 | nyt | 1 | 1 | 20 | 39 |
 | breaking_defense | 0 | 0 | 18 | 38 |
 
@@ -6589,3 +6589,4 @@
 - **Oct 23, 12:41 AM** - Landspace begins final preparations for China’s first orbital launch and landing attempt (spacenews)
 - **Oct 23, 12:57 AM** - George F. Smoot, Who Showed How the Cosmos Began, Is Dead at 80 (nyt)
 - **Oct 23, 01:13 AM** - China Will Launch the Long March 5 Rocket (supercluster)
+- **Oct 23, 01:15 AM** - China Will Launch the Long March 5 Rocket (supercluster)
