@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 14 | 24 | 47 |
+| spacenews | 8 | 14 | 25 | 48 |
 | supercluster | 1 | 1 | 119 | 119 |
 | nyt | 0 | 1 | 22 | 42 |
 | breaking_defense | 1 | 1 | 22 | 41 |
@@ -6681,3 +6681,4 @@
 - **Oct 23, 01:45 PM** - China Will Launch the Long March 5 Rocket (supercluster)
 - **Oct 23, 01:47 PM** - China Will Launch the Long March 5 Rocket (supercluster)
 - **Oct 23, 01:49 PM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
+- **Oct 23, 02:06 PM** - As shutdown continues, science community keeps focus on long-term budget concerns (spacenews)
