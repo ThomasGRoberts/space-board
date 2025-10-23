@@ -5,7 +5,7 @@
 | spacenews | 7 | 13 | 25 | 47 |
 | nyt | 0 | 1 | 23 | 42 |
 | breaking_defense | 1 | 1 | 22 | 41 |
-| supercluster | 1 | 1 | 18 | 18 |
+| supercluster | 1 | 1 | 19 | 19 |
 
 # Shown Order
 
@@ -6591,3 +6591,4 @@
 - **Oct 23, 05:37 PM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 23, 05:53 PM** - China resumes launches for Thousand Sails constellation, CAS Space launches new international payload (spacenews)
 - **Oct 23, 06:10 PM** - How to See the Orionids Meteor Shower: Best Time to Watch (nyt)
+- **Oct 23, 06:26 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
