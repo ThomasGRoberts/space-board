@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 15 | 26 | 48 |
 | nyt | 0 | 1 | 22 | 41 |
-| breaking_defense | 2 | 2 | 23 | 41 |
+| breaking_defense | 2 | 2 | 23 | 42 |
 | supercluster | 1 | 1 | 46 | 46 |
 
 # Shown Order
@@ -6631,3 +6631,4 @@
 - **Oct 23, 10:05 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
 - **Oct 23, 10:07 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
 - **Oct 23, 10:09 PM** - Starlink mini lasers to link Muon Space satellites for near real-time connectivity (spacenews)
+- **Oct 23, 10:24 PM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
