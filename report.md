@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 24 | 47 |
-| supercluster | 1 | 1 | 113 | 113 |
+| supercluster | 1 | 1 | 114 | 114 |
 | nyt | 0 | 1 | 22 | 42 |
 | breaking_defense | 1 | 1 | 21 | 41 |
 
@@ -6674,3 +6674,4 @@
 - **Oct 23, 01:07 PM** - The next space race will be won at night (spacenews)
 - **Oct 23, 01:21 PM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
 - **Oct 23, 01:35 PM** - China Will Launch the Long March 5 Rocket (supercluster)
+- **Oct 23, 01:37 PM** - China Will Launch the Long March 5 Rocket (supercluster)
