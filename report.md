@@ -5,7 +5,7 @@
 | spacenews | 8 | 13 | 25 | 46 |
 | nyt | 0 | 1 | 22 | 42 |
 | breaking_defense | 1 | 1 | 22 | 40 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -6565,3 +6565,4 @@
 - **Oct 23, 02:06 PM** - As shutdown continues, science community keeps focus on long-term budget concerns (spacenews)
 - **Oct 23, 02:22 PM** - George F. Smoot, Who Showed How the Cosmos Began, Is Dead at 80 (nyt)
 - **Oct 23, 03:30 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
+- **Oct 23, 03:32 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
