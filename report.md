@@ -5,7 +5,7 @@
 | spacenews | 8 | 16 | 24 | 48 |
 | supercluster | 1 | 1 | 105 | 105 |
 | nyt | 1 | 1 | 21 | 41 |
-| breaking_defense | 0 | 0 | 19 | 40 |
+| breaking_defense | 1 | 1 | 20 | 41 |
 
 # Shown Order
 
@@ -6660,3 +6660,4 @@
 - **Oct 23, 11:45 AM** - China Will Launch the Long March 5 Rocket (supercluster)
 - **Oct 23, 11:47 AM** - China Will Launch the Long March 5 Rocket (supercluster)
 - **Oct 23, 11:50 AM** - China Will Launch the Long March 5 Rocket (supercluster)
+- **Oct 23, 11:51 AM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
