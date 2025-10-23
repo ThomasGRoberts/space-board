@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 15 | 25 | 47 |
+| spacenews | 9 | 15 | 26 | 48 |
 | nyt | 0 | 1 | 22 | 42 |
 | breaking_defense | 2 | 2 | 23 | 41 |
 | supercluster | 1 | 1 | 46 | 46 |
@@ -6630,3 +6630,4 @@
 - **Oct 23, 10:02 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
 - **Oct 23, 10:05 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
 - **Oct 23, 10:07 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
+- **Oct 23, 10:09 PM** - Starlink mini lasers to link Muon Space satellites for near real-time connectivity (spacenews)
