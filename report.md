@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 14 | 24 | 47 |
+| spacenews | 8 | 14 | 24 | 46 |
 | nyt | 0 | 1 | 22 | 42 |
 | breaking_defense | 2 | 2 | 23 | 41 |
-| supercluster | 1 | 1 | 31 | 31 |
+| supercluster | 1 | 1 | 32 | 32 |
 
 # Shown Order
 
@@ -6608,3 +6608,4 @@
 - **Oct 23, 07:47 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
 - **Oct 23, 07:49 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
 - **Oct 23, 07:51 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
+- **Oct 23, 07:53 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
