@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 22 | 46 |
 | supercluster | 1 | 1 | 42 | 42 |
-| nyt | 1 | 1 | 19 | 38 |
+| nyt | 1 | 1 | 20 | 39 |
 | breaking_defense | 0 | 0 | 19 | 38 |
 
 # Shown Order
@@ -6570,3 +6570,4 @@
 - **Oct 23, 02:21 AM** - China Will Launch the Long March 5 Rocket (supercluster)
 - **Oct 23, 02:24 AM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 23, 02:38 AM** - As shutdown continues, science community keeps focus on long-term budget concerns (spacenews)
+- **Oct 23, 02:51 AM** - With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas (nyt)
