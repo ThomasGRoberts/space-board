@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 14 | 24 | 46 |
+| spacenews | 8 | 14 | 25 | 47 |
 | nyt | 0 | 1 | 22 | 42 |
 | breaking_defense | 2 | 2 | 23 | 41 |
 | supercluster | 1 | 1 | 32 | 32 |
@@ -6609,3 +6609,4 @@
 - **Oct 23, 07:49 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
 - **Oct 23, 07:51 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
 - **Oct 23, 07:53 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
+- **Oct 23, 07:55 PM** - Quantum Space to launch first spacecraft in mid-2026 (spacenews)
