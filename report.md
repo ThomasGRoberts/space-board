@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 25 | 48 |
-| supercluster | 1 | 1 | 84 | 84 |
+| spacenews | 8 | 15 | 24 | 48 |
+| supercluster | 1 | 1 | 85 | 85 |
 | nyt | 1 | 1 | 20 | 41 |
 | breaking_defense | 0 | 0 | 19 | 40 |
 
@@ -6633,3 +6633,4 @@
 - **Oct 23, 08:49 AM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 23, 09:06 AM** - How to See the Orionids Meteor Shower: Best Time to Watch (nyt)
 - **Oct 23, 09:22 AM** - Airbus, Leonardo and Thales agree to combine space businesses (spacenews)
+- **Oct 23, 09:36 AM** - China Will Launch the Long March 5 Rocket (supercluster)
