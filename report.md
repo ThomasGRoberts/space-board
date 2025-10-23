@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 15 | 23 | 46 |
+| spacenews | 7 | 15 | 24 | 47 |
 | supercluster | 1 | 1 | 63 | 63 |
 | nyt | 1 | 1 | 20 | 39 |
 | breaking_defense | 0 | 0 | 19 | 38 |
@@ -6602,3 +6602,4 @@
 - **Oct 23, 05:47 AM** - China Will Launch the Long March 5 Rocket (supercluster)
 - **Oct 23, 05:49 AM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 23, 06:05 AM** - How to See the Orionids Meteor Shower: Best Time to Watch (nyt)
+- **Oct 23, 06:21 AM** - China resumes launches for Thousand Sails constellation, CAS Space launches new international payload (spacenews)
