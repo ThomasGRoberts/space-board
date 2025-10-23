@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-23T00:02:08.321097+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ecf4e78bd573ba46b643b8cc3b26b7bf",
+    "trigger_count": 0,
+    "current_item_id": "3cb8cf09e1972ce55692f7b3587c696c",
     "data": [
         {
             "id": "6198a6ddd3478a7d47316d9788e972a9",
@@ -12056,6 +12056,27 @@
                 "2025-07-14T19:51:38.897087Z",
                 "2025-07-16T00:02:25.911480Z"
             ]
+        },
+        {
+            "id": "3cb8cf09e1972ce55692f7b3587c696c",
+            "source": "spacenews",
+            "text": "Hungary signs Artemis Accords",
+            "source_link": "https://spacenews.com/hungary-signs-artemis-accords/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-23T03:05:36.249362Z",
+            "shown_at": [
+                "2025-10-23T03:05:36.919137Z"
+            ]
+        },
+        {
+            "id": "8ee4ba25b370e351b091df39144d51c8",
+            "source": "spacenews",
+            "text": "Quantum Space to launch first spacecraft in mid-2026",
+            "source_link": "https://spacenews.com/quantum-space-to-launch-first-spacecraft-in-mid-2026/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-10-23T03:05:36.249417Z"
         }
     ]
 }

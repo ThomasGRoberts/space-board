@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 22 | 45 |
+| spacenews | 8 | 15 | 23 | 46 |
 | supercluster | 1 | 1 | 42 | 42 |
 | nyt | 1 | 1 | 20 | 39 |
 | breaking_defense | 0 | 0 | 19 | 38 |
@@ -6571,3 +6571,4 @@
 - **Oct 23, 02:24 AM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 23, 02:38 AM** - As shutdown continues, science community keeps focus on long-term budget concerns (spacenews)
 - **Oct 23, 02:51 AM** - With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas (nyt)
+- **Oct 23, 03:05 AM** - Hungary signs Artemis Accords (spacenews)
