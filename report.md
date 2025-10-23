@@ -5,7 +5,7 @@
 | spacenews | 8 | 14 | 25 | 47 |
 | nyt | 0 | 1 | 22 | 42 |
 | breaking_defense | 2 | 2 | 23 | 41 |
-| supercluster | 1 | 1 | 26 | 26 |
+| supercluster | 1 | 1 | 27 | 27 |
 
 # Shown Order
 
@@ -6603,3 +6603,4 @@
 - **Oct 23, 07:13 PM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
 - **Oct 23, 07:28 PM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
 - **Oct 23, 07:41 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
+- **Oct 23, 07:43 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
