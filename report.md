@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 25 | 47 |
+| spacenews | 8 | 15 | 26 | 48 |
 | nyt | 1 | 2 | 23 | 42 |
 | breaking_defense | 2 | 2 | 22 | 41 |
 | supercluster | 1 | 1 | 53 | 53 |
@@ -6641,3 +6641,4 @@
 - **Oct 23, 11:06 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
 - **Oct 23, 11:09 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
 - **Oct 23, 11:11 PM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
+- **Oct 23, 11:26 PM** - The lunar mining gold rush is coming – and success requires bridging two worlds  (spacenews)
