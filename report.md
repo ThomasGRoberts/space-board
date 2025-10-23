@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 24 | 47 |
-| supercluster | 1 | 1 | 72 | 72 |
+| supercluster | 1 | 1 | 73 | 73 |
 | nyt | 1 | 1 | 20 | 40 |
 | breaking_defense | 0 | 0 | 18 | 39 |
 
@@ -6615,3 +6615,4 @@
 - **Oct 23, 07:19 AM** - Ion-X to supply upgraded thruster for Univity’s VLEO 5G constellation (spacenews)
 - **Oct 23, 07:33 AM** - China Will Launch the Long March 5 Rocket (supercluster)
 - **Oct 23, 07:35 AM** - China Will Launch the Long March 5 Rocket (supercluster)
+- **Oct 23, 07:37 AM** - China Will Launch the Long March 5 Rocket (supercluster)
