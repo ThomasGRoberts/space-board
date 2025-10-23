@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 25 | 48 |
+| spacenews | 8 | 15 | 25 | 47 |
 | nyt | 0 | 1 | 22 | 42 |
 | breaking_defense | 2 | 2 | 23 | 41 |
-| supercluster | 1 | 1 | 48 | 48 |
+| supercluster | 1 | 1 | 49 | 49 |
 
 # Shown Order
 
@@ -6635,3 +6635,4 @@
 - **Oct 23, 10:39 PM** - George F. Smoot, Who Showed How the Cosmos Began, Is Dead at 80 (nyt)
 - **Oct 23, 10:53 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
 - **Oct 23, 10:55 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
+- **Oct 23, 10:58 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
