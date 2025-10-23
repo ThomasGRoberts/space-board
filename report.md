@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 13 | 24 | 46 |
+| spacenews | 7 | 13 | 25 | 47 |
 | nyt | 0 | 1 | 22 | 42 |
 | breaking_defense | 1 | 1 | 23 | 41 |
 | supercluster | 1 | 1 | 18 | 18 |
@@ -6589,3 +6589,4 @@
 - **Oct 23, 05:32 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
 - **Oct 23, 05:35 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
 - **Oct 23, 05:37 PM** - No future for Space Futures Command, sources say (breaking_defense)
+- **Oct 23, 05:53 PM** - China resumes launches for Thousand Sails constellation, CAS Space launches new international payload (spacenews)
