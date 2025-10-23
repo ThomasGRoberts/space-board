@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 22 | 46 |
 | supercluster | 1 | 1 | 35 | 35 |
-| nyt | 1 | 1 | 19 | 38 |
+| nyt | 1 | 1 | 20 | 39 |
 | breaking_defense | 0 | 0 | 19 | 38 |
 
 # Shown Order
@@ -6560,3 +6560,4 @@
 - **Oct 23, 01:25 AM** - China Will Launch the Long March 5 Rocket (supercluster)
 - **Oct 23, 01:27 AM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 23, 01:42 AM** - Europe outlines defense flagship programs and confirms European Space Shield by 2026 (spacenews)
+- **Oct 23, 01:55 AM** - How to See the Orionids Meteor Shower: Best Time to Watch (nyt)
