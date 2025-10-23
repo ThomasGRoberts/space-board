@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 25 | 48 |
-| nyt | 1 | 2 | 23 | 42 |
+| nyt | 1 | 2 | 22 | 42 |
 | breaking_defense | 2 | 2 | 23 | 41 |
-| supercluster | 1 | 1 | 53 | 53 |
+| supercluster | 1 | 1 | 54 | 54 |
 
 # Shown Order
 
@@ -6643,3 +6643,4 @@
 - **Oct 23, 11:11 PM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
 - **Oct 23, 11:26 PM** - The lunar mining gold rush is coming – and success requires bridging two worlds  (spacenews)
 - **Oct 23, 11:40 PM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
+- **Oct 23, 11:55 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
