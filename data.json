@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-23T00:02:08.321097+00:00",
-    "trigger_count": 2,
-    "current_item_id": "34d96be8961537fe131abf01d84d57c0",
+    "trigger_count": 3,
+    "current_item_id": "7166589deb826f0e3b29fe39e82683a3",
     "data": [
         {
             "id": "6198a6ddd3478a7d47316d9788e972a9",
@@ -12115,15 +12115,18 @@
             ]
         },
         {
-            "id": "34d96be8961537fe131abf01d84d57c0",
+            "id": "7166589deb826f0e3b29fe39e82683a3",
             "source": "supercluster",
-            "text": "China Will Launch the Long March 5 Rocket",
-            "source_link": "https://www.supercluster.com/launches/long-march-5",
-            "shown": false,
+            "text": "SpaceX Will Launch a Communications Satellite for Spain",
+            "source_link": "https://www.supercluster.com/launches/spainsat-next-generation-ii",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-10-23T14:30:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-10-23T15:27:41.419766Z"
+            "target_datetime": "2025-10-24T01:30:00.000Z",
+            "time_remaining": "0d 09h 59m",
+            "fetched_datetime": "2025-10-23T15:30:07.755824Z",
+            "shown_at": [
+                "2025-10-23T15:30:09.543415Z"
+            ]
         }
     ]
 }
