@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-23T00:02:08.321097+00:00",
-    "trigger_count": 6,
-    "current_item_id": "75a5a081f933a9d073ac8d47a67d926b",
+    "trigger_count": 0,
+    "current_item_id": "d59d017df20c7a981ee1eafcdc9cff15",
     "data": [
         {
             "id": "6198a6ddd3478a7d47316d9788e972a9",
@@ -12172,6 +12172,18 @@
             "fetched_datetime": "2025-10-23T18:57:37.662116Z",
             "shown_at": [
                 "2025-10-23T18:57:38.229691Z"
+            ]
+        },
+        {
+            "id": "d59d017df20c7a981ee1eafcdc9cff15",
+            "source": "breaking_defense",
+            "text": "Europe’s strategic autonomy push fuels space mega-merger",
+            "source_link": "https://breakingdefense.com/2025/10/europes-strategic-autonomy-push-fuels-space-mega-merger/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-23T19:13:48.113057Z",
+            "shown_at": [
+                "2025-10-23T19:13:48.841483Z"
             ]
         }
     ]
