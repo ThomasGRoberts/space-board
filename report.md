@@ -5,7 +5,7 @@
 | spacenews | 8 | 15 | 25 | 48 |
 | nyt | 0 | 1 | 22 | 42 |
 | breaking_defense | 2 | 2 | 23 | 41 |
-| supercluster | 1 | 1 | 47 | 47 |
+| supercluster | 1 | 1 | 48 | 48 |
 
 # Shown Order
 
@@ -6634,3 +6634,4 @@
 - **Oct 23, 10:24 PM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
 - **Oct 23, 10:39 PM** - George F. Smoot, Who Showed How the Cosmos Began, Is Dead at 80 (nyt)
 - **Oct 23, 10:53 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
+- **Oct 23, 10:55 PM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
