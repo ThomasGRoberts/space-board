@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 15 | 24 | 47 |
-| supercluster | 1 | 1 | 57 | 57 |
+| supercluster | 1 | 1 | 58 | 58 |
 | nyt | 1 | 1 | 19 | 39 |
-| breaking_defense | 0 | 0 | 18 | 38 |
+| breaking_defense | 0 | 0 | 18 | 37 |
 
 # Shown Order
 
@@ -6594,3 +6594,4 @@
 - **Oct 23, 05:02 AM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
 - **Oct 23, 05:19 AM** - Orion installed on SLS as Artemis 2 preparations continue during shutdown (spacenews)
 - **Oct 23, 05:33 AM** - China Will Launch the Long March 5 Rocket (supercluster)
+- **Oct 23, 05:36 AM** - China Will Launch the Long March 5 Rocket (supercluster)
