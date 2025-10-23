@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 24 | 47 |
-| supercluster | 1 | 1 | 42 | 42 |
+| supercluster | 1 | 1 | 43 | 43 |
 | nyt | 1 | 1 | 19 | 39 |
 | breaking_defense | 0 | 0 | 18 | 37 |
 
@@ -6573,3 +6573,4 @@
 - **Oct 23, 02:51 AM** - With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas (nyt)
 - **Oct 23, 03:05 AM** - Hungary signs Artemis Accords (spacenews)
 - **Oct 23, 03:19 AM** - Quantum Space to launch first spacecraft in mid-2026 (spacenews)
+- **Oct 23, 03:33 AM** - China Will Launch the Long March 5 Rocket (supercluster)
