@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 23 | 48 |
+| spacenews | 8 | 14 | 24 | 48 |
 | supercluster | 1 | 1 | 105 | 105 |
 | nyt | 1 | 1 | 21 | 42 |
 | breaking_defense | 1 | 1 | 20 | 41 |
@@ -6662,3 +6662,4 @@
 - **Oct 23, 11:50 AM** - China Will Launch the Long March 5 Rocket (supercluster)
 - **Oct 23, 11:51 AM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
 - **Oct 23, 12:05 PM** - George F. Smoot, Who Showed How the Cosmos Began, Is Dead at 80 (nyt)
+- **Oct 23, 12:19 PM** - America needs a ‘Plan B’ to reach the moon first (spacenews)
