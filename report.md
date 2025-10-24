@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 2 | 21 | 41 |
+| nyt | 1 | 2 | 22 | 42 |
 | spacenews | 7 | 14 | 25 | 48 |
 | breaking_defense | 2 | 2 | 22 | 41 |
 | supercluster | 1 | 1 | 41 | 41 |
@@ -6581,3 +6581,4 @@
 - **Oct 24, 07:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 24, 07:47 AM** - America needs a ‘Plan B’ to reach the moon first (spacenews)
 - **Oct 24, 08:02 AM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
+- **Oct 24, 08:19 AM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
