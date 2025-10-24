@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-24T00:02:11.418258+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "becc4eed5af3443d904a3cd6035f4633",
     "data": [
         {
             "id": "f5d13af9828e10a7c420355f667287bb",
@@ -12158,6 +12158,18 @@
             "fetched_datetime": "2025-10-24T09:37:43.052364Z",
             "shown_at": [
                 "2025-10-24T09:37:43.641189Z"
+            ]
+        },
+        {
+            "id": "becc4eed5af3443d904a3cd6035f4633",
+            "source": "spacenews",
+            "text": "A soft power strategy to preserve non-sovereignty from Chinese land claims on the moon ",
+            "source_link": "https://spacenews.com/a-soft-power-strategy-to-preserve-non-sovereignty-from-chinese-land-claims-on-the-moon/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-24T13:13:57.552233Z",
+            "shown_at": [
+                "2025-10-24T13:13:58.627127Z"
             ]
         }
     ]

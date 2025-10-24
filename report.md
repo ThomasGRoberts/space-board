@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 22 | 43 |
-| spacenews | 5 | 13 | 24 | 48 |
+| spacenews | 6 | 14 | 25 | 49 |
 | breaking_defense | 1 | 2 | 21 | 42 |
 | supercluster | 1 | 1 | 76 | 76 |
 
@@ -6630,3 +6630,4 @@
 - **Oct 24, 01:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 24, 01:09 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 24, 01:12 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 24, 01:13 PM** - A soft power strategy to preserve non-sovereignty from Chinese land claims on the moon  (spacenews)
