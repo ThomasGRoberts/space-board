@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-24T00:02:11.418258+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b266e022578febcaacd96671272ffffe",
+    "trigger_count": 0,
+    "current_item_id": "159ef9433f54f24566bce25736fc9a8d",
     "data": [
         {
             "id": "f5d13af9828e10a7c420355f667287bb",
@@ -12074,6 +12074,18 @@
                 "2025-07-12T18:07:51.517174Z",
                 "2025-07-17T17:27:46.767283Z",
                 "2025-07-18T10:59:33.786904Z"
+            ]
+        },
+        {
+            "id": "159ef9433f54f24566bce25736fc9a8d",
+            "source": "spacenews",
+            "text": "Iridium pulls $1 billion 2030 service revenue goal amid SpaceX’s D2D push",
+            "source_link": "https://spacenews.com/iridium-pulls-1-billion-2030-service-revenue-goal-amid-spacexs-d2d-push/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-24T00:43:46.801095Z",
+            "shown_at": [
+                "2025-10-24T00:43:47.493034Z"
             ]
         }
     ]

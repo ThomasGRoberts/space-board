@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 23 | 42 |
-| spacenews | 8 | 15 | 26 | 48 |
+| spacenews | 9 | 16 | 26 | 49 |
 | breaking_defense | 2 | 2 | 22 | 41 |
 | supercluster | 1 | 1 | 60 | 60 |
 
@@ -6579,3 +6579,4 @@
 - **Oct 24, 12:09 AM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
 - **Oct 24, 12:12 AM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
 - **Oct 24, 12:27 AM** - Belgian startup Nxgsat raises early funds for virtual 5G satellite modem (spacenews)
+- **Oct 24, 12:43 AM** - Iridium pulls $1 billion 2030 service revenue goal amid SpaceX’s D2D push (spacenews)
