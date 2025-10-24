@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 22 | 44 |
+| nyt | 1 | 1 | 23 | 45 |
 | spacenews | 6 | 14 | 26 | 51 |
 | breaking_defense | 1 | 2 | 22 | 45 |
 | supercluster | 1 | 1 | 111 | 111 |
@@ -6683,3 +6683,4 @@
 - **Oct 24, 06:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 24, 06:32 PM** - Belgian startup Nxgsat raises early funds for virtual 5G satellite modem (spacenews)
 - **Oct 24, 06:47 PM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
+- **Oct 24, 07:02 PM** - George F. Smoot, Who Showed How the Cosmos Began, Is Dead at 80 (nyt)
