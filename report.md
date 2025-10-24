@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 22 | 44 |
 | spacenews | 6 | 14 | 25 | 49 |
 | breaking_defense | 1 | 2 | 21 | 43 |
-| supercluster | 1 | 1 | 76 | 76 |
+| supercluster | 1 | 1 | 77 | 77 |
 
 # Shown Order
 
@@ -6633,3 +6633,4 @@
 - **Oct 24, 01:13 PM** - A soft power strategy to preserve non-sovereignty from Chinese land claims on the moon  (spacenews)
 - **Oct 24, 01:28 PM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
 - **Oct 24, 01:47 PM** - How to See the Orionids Meteor Shower: Best Time to Watch (nyt)
+- **Oct 24, 02:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
