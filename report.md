@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 22 | 44 |
+| nyt | 1 | 1 | 23 | 45 |
 | spacenews | 5 | 14 | 26 | 51 |
 | breaking_defense | 0 | 2 | 22 | 45 |
 | supercluster | 1 | 1 | 132 | 132 |
@@ -6713,3 +6713,4 @@
 - **Oct 24, 09:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 24, 09:41 PM** - Quantum Space to launch first spacecraft in mid-2026 (spacenews)
 - **Oct 24, 09:55 PM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
+- **Oct 24, 10:09 PM** - How to See the Orionids Meteor Shower: Best Time to Watch (nyt)
