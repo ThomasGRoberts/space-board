@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 21 | 41 |
 | spacenews | 8 | 15 | 25 | 48 |
-| breaking_defense | 2 | 2 | 21 | 40 |
+| breaking_defense | 2 | 2 | 22 | 41 |
 | supercluster | 1 | 1 | 20 | 20 |
 
 # Shown Order
@@ -6550,3 +6550,4 @@
 - **Oct 24, 04:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 24, 04:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 24, 04:51 AM** - Vantor satellites track space objects in ‘blind spots’ inaccessible to military ground sensors (spacenews)
+- **Oct 24, 05:05 AM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
