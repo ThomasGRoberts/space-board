@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 22 | 44 |
-| spacenews | 6 | 14 | 26 | 51 |
+| nyt | 1 | 1 | 23 | 45 |
+| spacenews | 5 | 14 | 25 | 51 |
 | breaking_defense | 0 | 2 | 22 | 45 |
 | supercluster | 1 | 1 | 125 | 125 |
 
@@ -6703,3 +6703,4 @@
 - **Oct 24, 08:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 24, 08:41 PM** - Global Defense Satcom Commercial Service Revenues Positioned to Skyrocket Past $8.6 Billion by 2034 (spacenews)
 - **Oct 24, 08:55 PM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
+- **Oct 24, 09:11 PM** - How to See the Orionids Meteor Shower: Best Time to Watch (nyt)
