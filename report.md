@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 22 | 44 |
+| nyt | 1 | 1 | 23 | 45 |
 | spacenews | 6 | 14 | 26 | 51 |
 | breaking_defense | 0 | 2 | 22 | 44 |
 | supercluster | 1 | 1 | 118 | 118 |
@@ -6693,3 +6693,4 @@
 - **Oct 24, 07:32 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 24, 07:35 PM** - Planet Labs wins $12.8 million NGA contract for maritime intelligence in Asia-Pacific (spacenews)
 - **Oct 24, 07:50 PM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
+- **Oct 24, 08:08 PM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
