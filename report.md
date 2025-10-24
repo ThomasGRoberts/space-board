@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 22 | 44 |
+| nyt | 1 | 1 | 23 | 45 |
 | spacenews | 7 | 14 | 26 | 51 |
 | breaking_defense | 1 | 2 | 22 | 44 |
 | supercluster | 1 | 1 | 104 | 104 |
@@ -6673,3 +6673,4 @@
 - **Oct 24, 05:16 PM** - Belgian startup Nxgsat raises early funds for virtual 5G satellite modem (spacenews)
 - **Oct 24, 05:34 PM** - Global Defense Satcom Commercial Service Revenues Positioned to Skyrocket Past $8.6 Billion by 2034 (spacenews)
 - **Oct 24, 05:47 PM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
+- **Oct 24, 06:02 PM** - With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas (nyt)
