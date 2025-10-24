@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 22 | 45 |
-| spacenews | 6 | 14 | 25 | 50 |
+| spacenews | 6 | 14 | 26 | 51 |
 | breaking_defense | 1 | 2 | 22 | 44 |
 | supercluster | 1 | 1 | 90 | 90 |
 
@@ -6650,3 +6650,4 @@
 - **Oct 24, 03:10 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 24, 03:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 24, 03:16 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 24, 03:18 PM** - America needs a ‘Plan B’ to reach the moon first (spacenews)
