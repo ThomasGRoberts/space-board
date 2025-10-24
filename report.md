@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 22 | 42 |
-| spacenews | 7 | 15 | 24 | 49 |
+| spacenews | 7 | 15 | 25 | 50 |
 | breaking_defense | 2 | 2 | 22 | 41 |
 | supercluster | 1 | 1 | 55 | 55 |
 
@@ -6602,3 +6602,4 @@
 - **Oct 24, 10:03 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 24, 10:06 AM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
 - **Oct 24, 10:24 AM** - How to See the Orionids Meteor Shower: Best Time to Watch (nyt)
+- **Oct 24, 10:39 AM** - Startup takes on space-based missile defense — with its own cash (spacenews)
