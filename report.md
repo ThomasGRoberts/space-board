@@ -5,7 +5,7 @@
 | nyt | 1 | 2 | 22 | 42 |
 | spacenews | 6 | 14 | 25 | 49 |
 | breaking_defense | 1 | 2 | 21 | 41 |
-| supercluster | 1 | 1 | 62 | 62 |
+| supercluster | 1 | 1 | 63 | 63 |
 
 # Shown Order
 
@@ -6613,3 +6613,4 @@
 - **Oct 24, 11:13 AM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
 - **Oct 24, 11:27 AM** - SpaceX, Sued by Cards Against Humanity, Settles Trespassing Case (nyt)
 - **Oct 24, 11:42 AM** - America needs a ‘Plan B’ to reach the moon first (spacenews)
+- **Oct 24, 11:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
