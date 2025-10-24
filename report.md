@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 2 | 22 | 42 |
+| nyt | 1 | 2 | 22 | 41 |
 | spacenews | 8 | 15 | 24 | 48 |
 | breaking_defense | 2 | 2 | 22 | 40 |
-| supercluster | 1 | 1 | 29 | 29 |
+| supercluster | 1 | 1 | 30 | 30 |
 
 # Shown Order
 
@@ -6564,3 +6564,4 @@
 - **Oct 24, 06:19 AM** - With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas (nyt)
 - **Oct 24, 06:33 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 24, 06:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 24, 06:38 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
