@@ -5,6 +5,7 @@
 | nyt | 1 | 2 | 23 | 42 |
 | spacenews | 9 | 15 | 26 | 47 |
 | breaking_defense | 2 | 2 | 22 | 41 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -6521,3 +6522,4 @@
 - **Oct 24, 12:43 AM** - Iridium pulls $1 billion 2030 service revenue goal amid SpaceX’s D2D push (spacenews)
 - **Oct 24, 12:57 AM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
 - **Oct 24, 01:25 AM** - SpaceX, Sued by Cards Against Humanity, Settles Trespassing Case (nyt)
+- **Oct 24, 01:41 AM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
