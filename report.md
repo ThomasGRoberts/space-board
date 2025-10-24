@@ -5,7 +5,7 @@
 | nyt | 1 | 2 | 22 | 41 |
 | spacenews | 8 | 15 | 24 | 48 |
 | breaking_defense | 2 | 2 | 22 | 40 |
-| supercluster | 1 | 1 | 20 | 20 |
+| supercluster | 1 | 1 | 21 | 21 |
 
 # Shown Order
 
@@ -6552,3 +6552,4 @@
 - **Oct 24, 04:51 AM** - Vantor satellites track space objects in ‘blind spots’ inaccessible to military ground sensors (spacenews)
 - **Oct 24, 05:05 AM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
 - **Oct 24, 05:19 AM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
+- **Oct 24, 05:33 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
