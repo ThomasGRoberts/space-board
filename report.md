@@ -5,7 +5,7 @@
 | nyt | 1 | 2 | 22 | 41 |
 | spacenews | 8 | 16 | 24 | 47 |
 | breaking_defense | 2 | 2 | 22 | 40 |
-| supercluster | 1 | 1 | 6 | 6 |
+| supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
 
@@ -6532,3 +6532,4 @@
 - **Oct 24, 02:55 AM** - ESA finalizing ministerial package (spacenews)
 - **Oct 24, 03:12 AM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
 - **Oct 24, 03:25 AM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
+- **Oct 24, 03:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
