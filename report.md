@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 2 | 22 | 42 |
+| nyt | 1 | 2 | 21 | 42 |
 | spacenews | 7 | 15 | 25 | 49 |
-| breaking_defense | 2 | 2 | 21 | 41 |
+| breaking_defense | 2 | 2 | 22 | 42 |
 | supercluster | 1 | 1 | 55 | 55 |
 
 # Shown Order
@@ -6600,3 +6600,4 @@
 - **Oct 24, 09:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 24, 10:02 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 24, 10:03 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 24, 10:06 AM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
