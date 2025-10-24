@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 21 | 41 |
 | spacenews | 8 | 16 | 25 | 48 |
-| breaking_defense | 2 | 2 | 21 | 40 |
+| breaking_defense | 2 | 2 | 22 | 41 |
 | supercluster | 1 | 1 | 13 | 13 |
 
 # Shown Order
@@ -6540,3 +6540,4 @@
 - **Oct 24, 03:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 24, 03:51 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 24, 03:53 AM** - Iridium pulls $1 billion 2030 service revenue goal amid SpaceX’s D2D push (spacenews)
+- **Oct 24, 04:09 AM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
