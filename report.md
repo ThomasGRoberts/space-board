@@ -5,7 +5,7 @@
 | nyt | 1 | 2 | 22 | 43 |
 | spacenews | 6 | 13 | 25 | 48 |
 | breaking_defense | 1 | 2 | 21 | 42 |
-| supercluster | 1 | 1 | 70 | 70 |
+| supercluster | 1 | 1 | 71 | 71 |
 
 # Shown Order
 
@@ -6624,3 +6624,4 @@
 - **Oct 24, 12:27 PM** - With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas (nyt)
 - **Oct 24, 12:43 PM** - Lockheed Martin Ventures invests in rocket propulsion startup Venus Aerospace (spacenews)
 - **Oct 24, 12:58 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 24, 12:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
