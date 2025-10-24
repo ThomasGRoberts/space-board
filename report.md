@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 2 | 21 | 40 |
+| nyt | 1 | 2 | 22 | 41 |
 | spacenews | 8 | 16 | 24 | 48 |
 | breaking_defense | 2 | 2 | 22 | 40 |
 | supercluster | 1 | 1 | 6 | 6 |
@@ -6531,3 +6531,4 @@
 - **Oct 24, 02:42 AM** - Startup takes on space-based missile defense — with its own cash (spacenews)
 - **Oct 24, 02:55 AM** - ESA finalizing ministerial package (spacenews)
 - **Oct 24, 03:12 AM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
+- **Oct 24, 03:25 AM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
