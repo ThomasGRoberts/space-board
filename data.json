@@ -1,9 +1,218 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-10-23T00:02:08.321097+00:00",
-    "trigger_count": 2,
+    "last_run_datetime": "2025-10-24T00:02:11.418258+00:00",
+    "trigger_count": 3,
     "current_item_id": "7166589deb826f0e3b29fe39e82683a3",
     "data": [
+        {
+            "id": "f5d13af9828e10a7c420355f667287bb",
+            "source": "nyt",
+            "text": "Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract",
+            "source_link": "https://www.nytimes.com/2025/10/23/us/politics/elon-musk-duffy-nasa.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-23T23:11:57.030960Z",
+            "shown_at": [
+                "2025-10-23T23:11:57.918461Z"
+            ]
+        },
+        {
+            "id": "7f3e856b56705cf06a6110e9f7790812",
+            "source": "spacenews",
+            "text": "SatLeo prepares to launch first thermal-imaging payload",
+            "source_link": "https://spacenews.com/satleo-prepares-to-launch-first-thermal-imaging-payload/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-23T21:09:59.270467Z",
+            "shown_at": [
+                "2025-10-23T21:10:00.677095Z"
+            ]
+        },
+        {
+            "id": "d59d017df20c7a981ee1eafcdc9cff15",
+            "source": "breaking_defense",
+            "text": "Europe’s strategic autonomy push fuels space mega-merger",
+            "source_link": "https://breakingdefense.com/2025/10/europes-strategic-autonomy-push-fuels-space-mega-merger/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-23T19:13:48.113057Z",
+            "shown_at": [
+                "2025-10-23T19:13:48.841483Z",
+                "2025-10-23T23:40:01.814168Z"
+            ]
+        },
+        {
+            "id": "75a5a081f933a9d073ac8d47a67d926b",
+            "source": "spacenews",
+            "text": "China expands classified geostationary satellite series with Long March 5 launch",
+            "source_link": "https://spacenews.com/china-expands-classified-geostationary-satellite-series-with-long-march-5-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-23T18:57:37.662116Z",
+            "shown_at": [
+                "2025-10-23T18:57:38.229691Z"
+            ]
+        },
+        {
+            "id": "7166589deb826f0e3b29fe39e82683a3",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch a Communications Satellite for Spain",
+            "source_link": "https://www.supercluster.com/launches/spainsat-next-generation-ii",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-10-24T01:30:00.000Z",
+            "time_remaining": "0d 01h 27m",
+            "fetched_datetime": "2025-10-23T15:30:07.755824Z",
+            "shown_at": [
+                "2025-10-23T15:30:09.543415Z",
+                "2025-10-23T15:32:04.559443Z",
+                "2025-10-23T15:33:54.260426Z",
+                "2025-10-23T15:35:55.173278Z",
+                "2025-10-23T16:19:42.301599Z",
+                "2025-10-23T16:21:58.769463Z",
+                "2025-10-23T16:23:47.177858Z",
+                "2025-10-23T16:26:03.806440Z",
+                "2025-10-23T16:27:51.772725Z",
+                "2025-10-23T16:30:07.388063Z",
+                "2025-10-23T16:32:15.116933Z",
+                "2025-10-23T17:22:00.176955Z",
+                "2025-10-23T17:23:57.124108Z",
+                "2025-10-23T17:25:50.186044Z",
+                "2025-10-23T17:27:46.250445Z",
+                "2025-10-23T17:29:41.184454Z",
+                "2025-10-23T17:32:05.586602Z",
+                "2025-10-23T17:35:50.530924Z",
+                "2025-10-23T18:26:15.601220Z",
+                "2025-10-23T18:29:45.078285Z",
+                "2025-10-23T18:32:06.615297Z",
+                "2025-10-23T18:35:57.726122Z",
+                "2025-10-23T18:37:39.115266Z",
+                "2025-10-23T18:39:37.543756Z",
+                "2025-10-23T18:41:57.055304Z",
+                "2025-10-23T19:41:52.850245Z",
+                "2025-10-23T19:43:40.446938Z",
+                "2025-10-23T19:45:40.168588Z",
+                "2025-10-23T19:47:46.855688Z",
+                "2025-10-23T19:49:59.126746Z",
+                "2025-10-23T19:51:54.737122Z",
+                "2025-10-23T19:53:52.562832Z",
+                "2025-10-23T20:40:03.836663Z",
+                "2025-10-23T20:42:00.499763Z",
+                "2025-10-23T20:43:57.456924Z",
+                "2025-10-23T20:45:57.877459Z",
+                "2025-10-23T20:47:51.883995Z",
+                "2025-10-23T20:49:42.819074Z",
+                "2025-10-23T20:51:51.669164Z",
+                "2025-10-23T21:53:55.180986Z",
+                "2025-10-23T21:56:01.686029Z",
+                "2025-10-23T21:57:36.893724Z",
+                "2025-10-23T21:59:46.130438Z",
+                "2025-10-23T22:02:27.699526Z",
+                "2025-10-23T22:05:44.316234Z",
+                "2025-10-23T22:07:46.360446Z",
+                "2025-10-23T22:53:54.250313Z",
+                "2025-10-23T22:55:45.265313Z",
+                "2025-10-23T22:58:01.412644Z",
+                "2025-10-23T22:59:55.406410Z",
+                "2025-10-23T23:02:35.297095Z",
+                "2025-10-23T23:06:09.716589Z",
+                "2025-10-23T23:09:46.949037Z",
+                "2025-10-23T23:55:57.534463Z",
+                "2025-10-23T23:57:44.723792Z",
+                "2025-10-23T23:59:44.801604Z",
+                "2025-10-24T00:02:12.218123Z"
+            ]
+        },
+        {
+            "id": "55948067f1eda857883822d36bdd4bf7",
+            "source": "spacenews",
+            "text": "The next space race will be won at night",
+            "source_link": "https://spacenews.com/the-next-space-race-will-be-won-at-night/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-23T13:07:44.841660Z",
+            "shown_at": [
+                "2025-10-23T13:07:45.514519Z"
+            ]
+        },
+        {
+            "id": "babe85a0a2d8013d6655cd055c75fd3b",
+            "source": "breaking_defense",
+            "text": "Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact",
+            "source_link": "https://breakingdefense.com/2025/10/europes-space-merger-blasts-off-airbus-leonardo-thales-sign-pivotal-milestone-pact/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-23T11:51:55.861954Z",
+            "shown_at": [
+                "2025-10-23T11:51:56.834983Z",
+                "2025-10-23T13:49:57.509266Z",
+                "2025-10-23T16:35:47.162632Z",
+                "2025-10-23T21:23:53.848936Z",
+                "2025-10-23T22:24:07.451062Z"
+            ]
+        },
+        {
+            "id": "939865b18dd70b339b1e1ddeb2af5454",
+            "source": "spacenews",
+            "text": "Europe must build its own critical infrastructure",
+            "source_link": "https://spacenews.com/europe-must-build-its-own-critical-infrastructure/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-23T11:21:52.156297Z",
+            "shown_at": [
+                "2025-10-23T11:21:52.700079Z"
+            ]
+        },
+        {
+            "id": "7ec8948a0b5b4511de0cc3fb03f27a76",
+            "source": "spacenews",
+            "text": "Airbus, Leonardo and Thales agree to combine space businesses",
+            "source_link": "https://spacenews.com/airbus-leonardo-and-thales-agree-to-combine-space-businesses/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-23T09:22:00.712899Z",
+            "shown_at": [
+                "2025-10-23T09:22:02.785644Z",
+                "2025-10-23T20:53:51.375918Z"
+            ]
+        },
+        {
+            "id": "c6382da1ea8d0651249a93334c7c9d65",
+            "source": "spacenews",
+            "text": "Ion-X to supply upgraded thruster for Univity’s VLEO 5G constellation",
+            "source_link": "https://spacenews.com/ion-x-to-supply-upgraded-thruster-for-univitys-vleo-5g-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-23T07:19:49.118102Z",
+            "shown_at": [
+                "2025-10-23T07:19:49.703023Z"
+            ]
+        },
+        {
+            "id": "8ee4ba25b370e351b091df39144d51c8",
+            "source": "spacenews",
+            "text": "Quantum Space to launch first spacecraft in mid-2026",
+            "source_link": "https://spacenews.com/quantum-space-to-launch-first-spacecraft-in-mid-2026/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-23T03:05:36.249417Z",
+            "shown_at": [
+                "2025-10-23T03:19:27.884559Z",
+                "2025-10-23T19:55:51.161624Z"
+            ]
+        },
+        {
+            "id": "3cb8cf09e1972ce55692f7b3587c696c",
+            "source": "spacenews",
+            "text": "Hungary signs Artemis Accords",
+            "source_link": "https://spacenews.com/hungary-signs-artemis-accords/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-23T03:05:36.249362Z",
+            "shown_at": [
+                "2025-10-23T03:05:36.919137Z"
+            ]
+        },
         {
             "id": "6198a6ddd3478a7d47316d9788e972a9",
             "source": "spacenews",
@@ -11860,397 +12069,6 @@
                 "2025-07-12T18:07:51.517174Z",
                 "2025-07-17T17:27:46.767283Z",
                 "2025-07-18T10:59:33.786904Z"
-            ]
-        },
-        {
-            "id": "057eec77fc42b4e21cf52d65f4b320f5",
-            "source": "spacenews",
-            "text": "NASA considering flying only cargo on next Starliner mission",
-            "source_link": "https://spacenews.com/nasa-considering-flying-only-cargo-on-next-starliner-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-11T11:13:39.767290Z",
-            "shown_at": [
-                "2025-07-11T11:13:41.207224Z",
-                "2025-07-12T10:23:31.229835Z",
-                "2025-07-17T10:40:13.071249Z"
-            ]
-        },
-        {
-            "id": "42263d136a513504b96d1418970dd455",
-            "source": "spacenews",
-            "text": "Senate spending bill that overrides proposed NASA cuts held up in committee",
-            "source_link": "https://spacenews.com/senate-spending-bill-that-overrides-proposed-nasa-cuts-held-up-in-committee/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-11T02:11:35.272987Z",
-            "shown_at": [
-                "2025-07-11T02:11:36.011661Z",
-                "2025-07-15T17:03:47.322792Z",
-                "2025-07-17T06:27:44.373735Z"
-            ]
-        },
-        {
-            "id": "8783523f2b43a25da64f837dbf1bcf86",
-            "source": "breaking_defense",
-            "text": "Who’s Who in Defense: Dr. Troy Meink, Secretary of the Air Force",
-            "source_link": "https://breakingdefense.com/2025/07/whos-who-in-defense-dr-troy-meink-secretary-of-the-air-force/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-10T20:43:25.961834Z",
-            "shown_at": [
-                "2025-07-10T20:43:26.562301Z",
-                "2025-07-11T06:32:05.673507Z",
-                "2025-07-11T08:23:43.825571Z",
-                "2025-07-11T09:19:35.233060Z",
-                "2025-07-11T11:43:42.101155Z",
-                "2025-07-12T08:03:48.696107Z",
-                "2025-07-12T14:59:32.465955Z",
-                "2025-07-13T01:29:49.946336Z",
-                "2025-07-13T23:15:37.992139Z",
-                "2025-07-14T03:11:42.648633Z",
-                "2025-07-14T04:11:55.492743Z",
-                "2025-07-15T00:35:31.841187Z",
-                "2025-07-15T01:31:54.584004Z",
-                "2025-07-15T06:45:40.713438Z",
-                "2025-07-15T09:37:07.975750Z",
-                "2025-07-15T12:02:23.803754Z",
-                "2025-07-15T13:29:39.070628Z",
-                "2025-07-15T14:29:52.951944Z",
-                "2025-07-15T16:21:53.857296Z",
-                "2025-07-15T18:32:08.087660Z",
-                "2025-07-15T20:25:40.132120Z",
-                "2025-07-15T21:23:59.596882Z",
-                "2025-07-16T00:19:49.828216Z",
-                "2025-07-16T03:07:47.074089Z",
-                "2025-07-16T05:55:25.399678Z",
-                "2025-07-16T10:41:40.199642Z",
-                "2025-07-16T11:37:47.191398Z",
-                "2025-07-16T16:39:15.229647Z",
-                "2025-07-16T17:35:12.428387Z",
-                "2025-07-16T19:47:41.960726Z",
-                "2025-07-17T05:17:47.491481Z",
-                "2025-07-17T09:01:39.924227Z",
-                "2025-07-17T16:29:47.001720Z",
-                "2025-07-17T17:55:46.253136Z",
-                "2025-07-17T18:51:44.566667Z"
-            ]
-        },
-        {
-            "id": "39e40886dc6da4c2c192cd174561e39f",
-            "source": "spacenews",
-            "text": "Space industry sticks with single-use satellite model despite new technologies",
-            "source_link": "https://spacenews.com/space-industry-sticks-with-single-use-satellite-model-despite-new-technologies/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-10T16:13:50.196727Z",
-            "shown_at": [
-                "2025-07-10T16:13:50.816936Z",
-                "2025-07-11T18:47:38.412571Z",
-                "2025-07-14T13:59:35.734871Z",
-                "2025-07-15T05:49:50.204977Z",
-                "2025-07-16T22:21:45.218655Z"
-            ]
-        },
-        {
-            "id": "4675c9a1d969e91ffa7d68dd105e54c2",
-            "source": "spacenews",
-            "text": "Moog Highlights Advancements in High-Speed Processor at IEEE Space Computing Conference",
-            "source_link": "https://spacenews.com/moog-highlights-advancements-in-high-speed-processor-at-ieee-space-computing-conference/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-10T15:17:47.198030Z",
-            "shown_at": [
-                "2025-07-10T15:17:47.832588Z",
-                "2025-07-12T23:51:46.314965Z",
-                "2025-07-13T21:37:16.919022Z"
-            ]
-        },
-        {
-            "id": "b4b3d88cb067094874c67db8f34471b9",
-            "source": "spacenews",
-            "text": "UK joins Eutelsat capital boost to maintain strategic LEO stake",
-            "source_link": "https://spacenews.com/uk-joins-eutelsat-capital-boost-to-maintain-strategic-leo-stake/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-10T14:05:44.117845Z",
-            "shown_at": [
-                "2025-07-10T14:05:44.887902Z",
-                "2025-07-10T23:03:45.279943Z",
-                "2025-07-11T01:57:38.077983Z",
-                "2025-07-12T21:03:43.283851Z",
-                "2025-07-12T22:55:45.631131Z",
-                "2025-07-13T15:55:39.440450Z"
-            ]
-        },
-        {
-            "id": "bf9da67f3b1e2615a49bef9e3d5a7c9e",
-            "source": "spacenews",
-            "text": "A reflection on the European space industry in 2024",
-            "source_link": "https://spacenews.com/a-reflection-on-the-european-space-industry-in-2024/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-10T13:05:41.410801Z",
-            "shown_at": [
-                "2025-07-10T13:05:42.391443Z",
-                "2025-07-11T00:02:15.973670Z",
-                "2025-07-12T06:35:35.789230Z",
-                "2025-07-13T14:15:44.647738Z"
-            ]
-        },
-        {
-            "id": "1ae1d4be53a512e9de72c1db089d88fa",
-            "source": "spacenews",
-            "text": "Investors double down on space infrastructure as exits return",
-            "source_link": "https://spacenews.com/investors-double-down-on-space-infrastructure-as-exits-return/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-10T12:05:31.500557Z",
-            "shown_at": [
-                "2025-07-10T12:05:32.053752Z",
-                "2025-07-10T20:02:04.378002Z",
-                "2025-07-11T14:59:51.107506Z",
-                "2025-07-11T17:47:52.134511Z",
-                "2025-07-12T13:17:48.306283Z",
-                "2025-07-16T19:33:52.263643Z",
-                "2025-07-17T00:15:28.993319Z"
-            ]
-        },
-        {
-            "id": "2fdb7fc9fa4df01e98a05e8bd5e7b183",
-            "source": "spacenews",
-            "text": "China’s orbital maneuvers blur the line between peaceful and provocative",
-            "source_link": "https://spacenews.com/chinas-orbital-maneuvers-blur-the-line-between-peaceful-and-provocative/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-10T11:09:25.743422Z",
-            "shown_at": [
-                "2025-07-10T11:09:26.397621Z",
-                "2025-07-11T04:05:37.924657Z",
-                "2025-07-11T16:52:05.795814Z"
-            ]
-        },
-        {
-            "id": "12512a69e7be99bfdd88a35518637fd3",
-            "source": "spacenews",
-            "text": "Orienspace targets 2025 test flight of Gravity-2 after engine test",
-            "source_link": "https://spacenews.com/orienspace-targets-2025-test-flight-of-gravity-2-after-engine-test/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-10T10:41:33.836857Z",
-            "shown_at": [
-                "2025-07-10T10:41:34.439905Z",
-                "2025-07-12T08:31:50.654924Z",
-                "2025-07-14T19:51:38.897087Z",
-                "2025-07-16T00:02:25.911480Z"
-            ]
-        },
-        {
-            "id": "3cb8cf09e1972ce55692f7b3587c696c",
-            "source": "spacenews",
-            "text": "Hungary signs Artemis Accords",
-            "source_link": "https://spacenews.com/hungary-signs-artemis-accords/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-23T03:05:36.249362Z",
-            "shown_at": [
-                "2025-10-23T03:05:36.919137Z"
-            ]
-        },
-        {
-            "id": "8ee4ba25b370e351b091df39144d51c8",
-            "source": "spacenews",
-            "text": "Quantum Space to launch first spacecraft in mid-2026",
-            "source_link": "https://spacenews.com/quantum-space-to-launch-first-spacecraft-in-mid-2026/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-23T03:05:36.249417Z",
-            "shown_at": [
-                "2025-10-23T03:19:27.884559Z",
-                "2025-10-23T19:55:51.161624Z"
-            ]
-        },
-        {
-            "id": "c6382da1ea8d0651249a93334c7c9d65",
-            "source": "spacenews",
-            "text": "Ion-X to supply upgraded thruster for Univity’s VLEO 5G constellation",
-            "source_link": "https://spacenews.com/ion-x-to-supply-upgraded-thruster-for-univitys-vleo-5g-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-23T07:19:49.118102Z",
-            "shown_at": [
-                "2025-10-23T07:19:49.703023Z"
-            ]
-        },
-        {
-            "id": "7ec8948a0b5b4511de0cc3fb03f27a76",
-            "source": "spacenews",
-            "text": "Airbus, Leonardo and Thales agree to combine space businesses",
-            "source_link": "https://spacenews.com/airbus-leonardo-and-thales-agree-to-combine-space-businesses/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-23T09:22:00.712899Z",
-            "shown_at": [
-                "2025-10-23T09:22:02.785644Z",
-                "2025-10-23T20:53:51.375918Z"
-            ]
-        },
-        {
-            "id": "939865b18dd70b339b1e1ddeb2af5454",
-            "source": "spacenews",
-            "text": "Europe must build its own critical infrastructure",
-            "source_link": "https://spacenews.com/europe-must-build-its-own-critical-infrastructure/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-23T11:21:52.156297Z",
-            "shown_at": [
-                "2025-10-23T11:21:52.700079Z"
-            ]
-        },
-        {
-            "id": "babe85a0a2d8013d6655cd055c75fd3b",
-            "source": "breaking_defense",
-            "text": "Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact",
-            "source_link": "https://breakingdefense.com/2025/10/europes-space-merger-blasts-off-airbus-leonardo-thales-sign-pivotal-milestone-pact/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-23T11:51:55.861954Z",
-            "shown_at": [
-                "2025-10-23T11:51:56.834983Z",
-                "2025-10-23T13:49:57.509266Z",
-                "2025-10-23T16:35:47.162632Z",
-                "2025-10-23T21:23:53.848936Z",
-                "2025-10-23T22:24:07.451062Z"
-            ]
-        },
-        {
-            "id": "55948067f1eda857883822d36bdd4bf7",
-            "source": "spacenews",
-            "text": "The next space race will be won at night",
-            "source_link": "https://spacenews.com/the-next-space-race-will-be-won-at-night/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-23T13:07:44.841660Z",
-            "shown_at": [
-                "2025-10-23T13:07:45.514519Z"
-            ]
-        },
-        {
-            "id": "7166589deb826f0e3b29fe39e82683a3",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch a Communications Satellite for Spain",
-            "source_link": "https://www.supercluster.com/launches/spainsat-next-generation-ii",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-10-24T01:30:00.000Z",
-            "time_remaining": "0d 01h 30m",
-            "fetched_datetime": "2025-10-23T15:30:07.755824Z",
-            "shown_at": [
-                "2025-10-23T15:30:09.543415Z",
-                "2025-10-23T15:32:04.559443Z",
-                "2025-10-23T15:33:54.260426Z",
-                "2025-10-23T15:35:55.173278Z",
-                "2025-10-23T16:19:42.301599Z",
-                "2025-10-23T16:21:58.769463Z",
-                "2025-10-23T16:23:47.177858Z",
-                "2025-10-23T16:26:03.806440Z",
-                "2025-10-23T16:27:51.772725Z",
-                "2025-10-23T16:30:07.388063Z",
-                "2025-10-23T16:32:15.116933Z",
-                "2025-10-23T17:22:00.176955Z",
-                "2025-10-23T17:23:57.124108Z",
-                "2025-10-23T17:25:50.186044Z",
-                "2025-10-23T17:27:46.250445Z",
-                "2025-10-23T17:29:41.184454Z",
-                "2025-10-23T17:32:05.586602Z",
-                "2025-10-23T17:35:50.530924Z",
-                "2025-10-23T18:26:15.601220Z",
-                "2025-10-23T18:29:45.078285Z",
-                "2025-10-23T18:32:06.615297Z",
-                "2025-10-23T18:35:57.726122Z",
-                "2025-10-23T18:37:39.115266Z",
-                "2025-10-23T18:39:37.543756Z",
-                "2025-10-23T18:41:57.055304Z",
-                "2025-10-23T19:41:52.850245Z",
-                "2025-10-23T19:43:40.446938Z",
-                "2025-10-23T19:45:40.168588Z",
-                "2025-10-23T19:47:46.855688Z",
-                "2025-10-23T19:49:59.126746Z",
-                "2025-10-23T19:51:54.737122Z",
-                "2025-10-23T19:53:52.562832Z",
-                "2025-10-23T20:40:03.836663Z",
-                "2025-10-23T20:42:00.499763Z",
-                "2025-10-23T20:43:57.456924Z",
-                "2025-10-23T20:45:57.877459Z",
-                "2025-10-23T20:47:51.883995Z",
-                "2025-10-23T20:49:42.819074Z",
-                "2025-10-23T20:51:51.669164Z",
-                "2025-10-23T21:53:55.180986Z",
-                "2025-10-23T21:56:01.686029Z",
-                "2025-10-23T21:57:36.893724Z",
-                "2025-10-23T21:59:46.130438Z",
-                "2025-10-23T22:02:27.699526Z",
-                "2025-10-23T22:05:44.316234Z",
-                "2025-10-23T22:07:46.360446Z",
-                "2025-10-23T22:53:54.250313Z",
-                "2025-10-23T22:55:45.265313Z",
-                "2025-10-23T22:58:01.412644Z",
-                "2025-10-23T22:59:55.406410Z",
-                "2025-10-23T23:02:35.297095Z",
-                "2025-10-23T23:06:09.716589Z",
-                "2025-10-23T23:09:46.949037Z",
-                "2025-10-23T23:55:57.534463Z",
-                "2025-10-23T23:57:44.723792Z",
-                "2025-10-23T23:59:44.801604Z"
-            ]
-        },
-        {
-            "id": "75a5a081f933a9d073ac8d47a67d926b",
-            "source": "spacenews",
-            "text": "China expands classified geostationary satellite series with Long March 5 launch",
-            "source_link": "https://spacenews.com/china-expands-classified-geostationary-satellite-series-with-long-march-5-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-23T18:57:37.662116Z",
-            "shown_at": [
-                "2025-10-23T18:57:38.229691Z"
-            ]
-        },
-        {
-            "id": "d59d017df20c7a981ee1eafcdc9cff15",
-            "source": "breaking_defense",
-            "text": "Europe’s strategic autonomy push fuels space mega-merger",
-            "source_link": "https://breakingdefense.com/2025/10/europes-strategic-autonomy-push-fuels-space-mega-merger/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-23T19:13:48.113057Z",
-            "shown_at": [
-                "2025-10-23T19:13:48.841483Z",
-                "2025-10-23T23:40:01.814168Z"
-            ]
-        },
-        {
-            "id": "7f3e856b56705cf06a6110e9f7790812",
-            "source": "spacenews",
-            "text": "SatLeo prepares to launch first thermal-imaging payload",
-            "source_link": "https://spacenews.com/satleo-prepares-to-launch-first-thermal-imaging-payload/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-23T21:09:59.270467Z",
-            "shown_at": [
-                "2025-10-23T21:10:00.677095Z"
-            ]
-        },
-        {
-            "id": "f5d13af9828e10a7c420355f667287bb",
-            "source": "nyt",
-            "text": "Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract",
-            "source_link": "https://www.nytimes.com/2025/10/23/us/politics/elon-musk-duffy-nasa.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-23T23:11:57.030960Z",
-            "shown_at": [
-                "2025-10-23T23:11:57.918461Z"
             ]
         }
     ]
