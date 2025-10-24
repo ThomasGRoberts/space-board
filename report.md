@@ -5,7 +5,7 @@
 | nyt | 1 | 1 | 22 | 45 |
 | spacenews | 7 | 14 | 26 | 51 |
 | breaking_defense | 1 | 2 | 22 | 44 |
-| supercluster | 1 | 1 | 104 | 104 |
+| supercluster | 1 | 1 | 105 | 105 |
 
 # Shown Order
 
@@ -6674,3 +6674,4 @@
 - **Oct 24, 05:34 PM** - Global Defense Satcom Commercial Service Revenues Positioned to Skyrocket Past $8.6 Billion by 2034 (spacenews)
 - **Oct 24, 05:47 PM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
 - **Oct 24, 06:02 PM** - With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas (nyt)
+- **Oct 24, 06:17 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
