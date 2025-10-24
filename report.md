@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 21 | 44 |
 | spacenews | 6 | 14 | 25 | 50 |
-| breaking_defense | 1 | 2 | 21 | 43 |
+| breaking_defense | 1 | 2 | 22 | 44 |
 | supercluster | 1 | 1 | 83 | 83 |
 
 # Shown Order
@@ -6641,3 +6641,4 @@
 - **Oct 24, 02:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 24, 02:16 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 24, 02:18 PM** - Analysts question Germany’s request for defensive and inspector satellites (spacenews)
+- **Oct 24, 02:33 PM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
