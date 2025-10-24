@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-24T00:02:11.418258+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5b027d687c069444e9daa1b521590a89",
+    "trigger_count": 0,
+    "current_item_id": "b569f3e6916012cdf224e0d1dc2db4ca",
     "data": [
         {
             "id": "f5d13af9828e10a7c420355f667287bb",
@@ -12109,6 +12109,18 @@
                 "2025-10-24T02:55:53.168777Z",
                 "2025-10-24T06:50:00.600225Z",
                 "2025-10-24T08:52:00.348454Z"
+            ]
+        },
+        {
+            "id": "b569f3e6916012cdf224e0d1dc2db4ca",
+            "source": "spacenews",
+            "text": "Chinese launch firms Space Pioneer and Galactic Energy move toward IPOs",
+            "source_link": "https://spacenews.com/chinese-launch-firms-space-pioneer-and-galactic-energy-move-toward-ipos/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-24T09:37:43.052364Z",
+            "shown_at": [
+                "2025-10-24T09:37:43.641189Z"
             ]
         }
     ]

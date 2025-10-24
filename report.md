@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 22 | 42 |
-| spacenews | 6 | 14 | 24 | 48 |
+| spacenews | 7 | 15 | 25 | 49 |
 | breaking_defense | 2 | 2 | 22 | 41 |
 | supercluster | 1 | 1 | 48 | 48 |
 
@@ -6592,3 +6592,4 @@
 - **Oct 24, 08:52 AM** - ESA finalizing ministerial package (spacenews)
 - **Oct 24, 09:07 AM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
 - **Oct 24, 09:21 AM** - How to See the Orionids Meteor Shower: Best Time to Watch (nyt)
+- **Oct 24, 09:37 AM** - Chinese launch firms Space Pioneer and Galactic Energy move toward IPOs (spacenews)
