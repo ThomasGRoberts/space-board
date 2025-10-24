@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 23 | 45 |
 | spacenews | 5 | 14 | 25 | 51 |
-| breaking_defense | 0 | 2 | 22 | 45 |
-| supercluster | 1 | 1 | 133 | 133 |
+| breaking_defense | 0 | 2 | 21 | 44 |
+| supercluster | 1 | 1 | 134 | 134 |
 
 # Shown Order
 
@@ -6715,3 +6715,4 @@
 - **Oct 24, 09:55 PM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
 - **Oct 24, 10:09 PM** - How to See the Orionids Meteor Shower: Best Time to Watch (nyt)
 - **Oct 24, 10:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 24, 10:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
