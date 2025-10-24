@@ -5,7 +5,7 @@
 | nyt | 1 | 2 | 22 | 42 |
 | spacenews | 7 | 15 | 24 | 48 |
 | breaking_defense | 2 | 2 | 22 | 40 |
-| supercluster | 1 | 1 | 34 | 34 |
+| supercluster | 1 | 1 | 35 | 35 |
 
 # Shown Order
 
@@ -6572,3 +6572,4 @@
 - **Oct 24, 06:50 AM** - ESA finalizing ministerial package (spacenews)
 - **Oct 24, 07:04 AM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
 - **Oct 24, 07:19 AM** - How to See the Orionids Meteor Shower: Best Time to Watch (nyt)
+- **Oct 24, 07:33 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
