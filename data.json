@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-24T00:02:11.418258+00:00",
-    "trigger_count": 0,
-    "current_item_id": "7166589deb826f0e3b29fe39e82683a3",
+    "trigger_count": 1,
+    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
     "data": [
         {
             "id": "f5d13af9828e10a7c420355f667287bb",
@@ -12018,17 +12018,17 @@
             ]
         },
         {
-            "id": "7166589deb826f0e3b29fe39e82683a3",
+            "id": "4beba9b243fe616fcb8e7be8d963bbc1",
             "source": "supercluster",
-            "text": "SpaceX Will Launch a Communications Satellite for Spain",
-            "source_link": "https://www.supercluster.com/launches/spainsat-next-generation-ii",
+            "text": "SpaceX Will Launch Starlink Satellites from California",
+            "source_link": "https://www.supercluster.com/launches/starlink-11-12",
             "shown": true,
             "type": "launch",
-            "target_datetime": "2025-10-24T01:30:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-10-24T02:27:53.472087Z",
+            "target_datetime": "2025-10-25T14:00:00.000Z",
+            "time_remaining": "1d 11h 29m",
+            "fetched_datetime": "2025-10-24T02:30:11.251774Z",
             "shown_at": [
-                "2025-10-24T02:27:54.256380Z"
+                "2025-10-24T02:30:12.242514Z"
             ]
         }
     ]
