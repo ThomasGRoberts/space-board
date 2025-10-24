@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 22 | 41 |
-| spacenews | 9 | 15 | 25 | 47 |
+| spacenews | 9 | 15 | 25 | 46 |
 | breaking_defense | 2 | 2 | 21 | 40 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -6524,3 +6524,4 @@
 - **Oct 24, 01:25 AM** - SpaceX, Sued by Cards Against Humanity, Settles Trespassing Case (nyt)
 - **Oct 24, 02:30 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 24, 02:31 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 24, 02:33 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
