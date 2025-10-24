@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 22 | 44 |
 | spacenews | 6 | 14 | 26 | 51 |
-| breaking_defense | 1 | 2 | 22 | 44 |
+| breaking_defense | 1 | 2 | 23 | 45 |
 | supercluster | 1 | 1 | 90 | 90 |
 
 # Shown Order
@@ -6651,3 +6651,4 @@
 - **Oct 24, 03:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 24, 03:16 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 24, 03:18 PM** - America needs a ‘Plan B’ to reach the moon first (spacenews)
+- **Oct 24, 03:33 PM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
