@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 22 | 45 |
-| spacenews | 6 | 14 | 26 | 51 |
+| spacenews | 6 | 14 | 27 | 52 |
 | breaking_defense | 0 | 2 | 21 | 44 |
 | supercluster | 1 | 1 | 118 | 118 |
 
@@ -6691,3 +6691,4 @@
 - **Oct 24, 07:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 24, 07:28 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 24, 07:32 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 24, 07:35 PM** - Planet Labs wins $12.8 million NGA contract for maritime intelligence in Asia-Pacific (spacenews)
