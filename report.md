@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 22 | 44 |
 | spacenews | 6 | 13 | 26 | 51 |
-| breaking_defense | 1 | 2 | 22 | 44 |
+| breaking_defense | 1 | 2 | 23 | 45 |
 | supercluster | 1 | 1 | 97 | 97 |
 
 # Shown Order
@@ -6661,3 +6661,4 @@
 - **Oct 24, 04:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 24, 04:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 24, 04:17 PM** - A soft power strategy to preserve non-sovereignty from Chinese land claims on the moon  (spacenews)
+- **Oct 24, 04:32 PM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
