@@ -5,7 +5,7 @@
 | nyt | 1 | 2 | 22 | 42 |
 | spacenews | 9 | 16 | 26 | 48 |
 | breaking_defense | 2 | 2 | 23 | 41 |
-| supercluster | 1 | 1 | 60 | 60 |
+| supercluster | 1 | 1 | 61 | 61 |
 
 # Shown Order
 
@@ -6581,3 +6581,4 @@
 - **Oct 24, 12:27 AM** - Belgian startup Nxgsat raises early funds for virtual 5G satellite modem (spacenews)
 - **Oct 24, 12:43 AM** - Iridium pulls $1 billion 2030 service revenue goal amid SpaceX’s D2D push (spacenews)
 - **Oct 24, 12:57 AM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
+- **Oct 24, 01:11 AM** - SpaceX Will Launch a Communications Satellite for Spain (supercluster)
