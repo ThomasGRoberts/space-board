@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 22 | 45 |
 | spacenews | 5 | 13 | 26 | 51 |
-| breaking_defense | 0 | 2 | 21 | 44 |
+| breaking_defense | 0 | 2 | 22 | 45 |
 | supercluster | 1 | 1 | 146 | 146 |
 
 # Shown Order
@@ -6732,3 +6732,4 @@
 - **Oct 24, 11:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 24, 11:36 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 24, 11:37 PM** - The next space race will be won at night (spacenews)
+- **Oct 24, 11:51 PM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
