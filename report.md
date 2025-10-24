@@ -5,7 +5,7 @@
 | nyt | 1 | 2 | 22 | 42 |
 | spacenews | 7 | 14 | 25 | 48 |
 | breaking_defense | 2 | 2 | 21 | 41 |
-| supercluster | 1 | 1 | 57 | 57 |
+| supercluster | 1 | 1 | 58 | 58 |
 
 # Shown Order
 
@@ -6605,3 +6605,4 @@
 - **Oct 24, 10:39 AM** - Startup takes on space-based missile defense — with its own cash (spacenews)
 - **Oct 24, 10:54 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 24, 10:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 24, 10:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
