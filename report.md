@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 21 | 44 |
+| nyt | 1 | 1 | 22 | 45 |
 | spacenews | 6 | 14 | 25 | 50 |
 | breaking_defense | 1 | 2 | 22 | 44 |
 | supercluster | 1 | 1 | 83 | 83 |
@@ -6642,3 +6642,4 @@
 - **Oct 24, 02:16 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 24, 02:18 PM** - Analysts question Germany’s request for defensive and inspector satellites (spacenews)
 - **Oct 24, 02:33 PM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
+- **Oct 24, 02:48 PM** - With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas (nyt)
