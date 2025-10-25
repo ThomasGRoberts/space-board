@@ -5,7 +5,7 @@
 | spacenews | 0 | 6 | 23 | 49 |
 | nyt | 0 | 1 | 22 | 45 |
 | breaking_defense | 0 | 0 | 23 | 44 |
-| supercluster | 1 | 1 | 29 | 29 |
+| supercluster | 1 | 1 | 30 | 30 |
 
 # Shown Order
 
@@ -6579,3 +6579,4 @@
 - **Oct 25, 07:11 PM** - Japan Will Launch Cargo Spacecraft to ISS (supercluster)
 - **Oct 25, 07:13 PM** - Japan Will Launch Cargo Spacecraft to ISS (supercluster)
 - **Oct 25, 07:15 PM** - Japan Will Launch Cargo Spacecraft to ISS (supercluster)
+- **Oct 25, 07:17 PM** - Japan Will Launch Cargo Spacecraft to ISS (supercluster)
