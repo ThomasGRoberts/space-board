@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 13 | 25 | 51 |
-| supercluster | 1 | 1 | 153 | 153 |
-| nyt | 0 | 1 | 23 | 45 |
+| supercluster | 1 | 1 | 154 | 154 |
+| nyt | 0 | 1 | 22 | 45 |
 | breaking_defense | 0 | 2 | 22 | 45 |
 
 # Shown Order
@@ -6653,3 +6653,4 @@
 - **Oct 25, 12:37 AM** - Chinese launch firms Space Pioneer and Galactic Energy move toward IPOs (spacenews)
 - **Oct 25, 12:53 AM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
 - **Oct 25, 01:11 AM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
+- **Oct 25, 01:26 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
