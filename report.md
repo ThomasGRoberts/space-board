@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 7 | 22 | 49 |
+| spacenews | 0 | 7 | 23 | 50 |
 | nyt | 0 | 1 | 23 | 45 |
 | breaking_defense | 0 | 1 | 23 | 45 |
 | supercluster | 1 | 1 | 24 | 24 |
@@ -6572,3 +6572,4 @@
 - **Oct 25, 06:21 PM** - Japan Will Launch Cargo Spacecraft to ISS (supercluster)
 - **Oct 25, 06:23 PM** - Japan Will Launch Cargo Spacecraft to ISS (supercluster)
 - **Oct 25, 06:25 PM** - How to See the Orionids Meteor Shower: Best Time to Watch (nyt)
+- **Oct 25, 06:39 PM** - Vantor satellites track space objects in ‘blind spots’ inaccessible to military ground sensors (spacenews)
