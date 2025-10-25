@@ -5,7 +5,7 @@
 | spacenews | 1 | 7 | 24 | 49 |
 | nyt | 0 | 1 | 22 | 44 |
 | breaking_defense | 0 | 1 | 23 | 45 |
-| supercluster | 1 | 1 | 4 | 4 |
+| supercluster | 1 | 1 | 5 | 5 |
 
 # Shown Order
 
@@ -6545,3 +6545,4 @@
 - **Oct 25, 03:41 PM** - Orion installed on SLS as Artemis 2 preparations continue during shutdown (spacenews)
 - **Oct 25, 03:56 PM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
 - **Oct 25, 04:12 PM** - Japan Will Launch Cargo Spacecraft to ISS (supercluster)
+- **Oct 25, 04:15 PM** - Japan Will Launch Cargo Spacecraft to ISS (supercluster)
