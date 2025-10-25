@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 9 | 25 | 49 |
-| supercluster | 0 | 1 | 161 | 216 |
+| supercluster | 0 | 1 | 162 | 217 |
 | nyt | 0 | 1 | 23 | 45 |
 | breaking_defense | 0 | 2 | 23 | 45 |
 
@@ -6743,3 +6743,4 @@
 - **Oct 25, 09:45 AM** - Lockheed Martin Ventures invests in rocket propulsion startup Venus Aerospace (spacenews)
 - **Oct 25, 09:59 AM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
 - **Oct 25, 10:14 AM** - With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas (nyt)
+- **Oct 25, 10:28 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
