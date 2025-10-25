@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 5 | 23 | 49 |
 | nyt | 0 | 1 | 23 | 45 |
-| breaking_defense | 0 | 0 | 23 | 44 |
+| breaking_defense | 0 | 0 | 23 | 45 |
 | supercluster | 1 | 1 | 45 | 45 |
 
 # Shown Order
@@ -6603,3 +6603,4 @@
 - **Oct 25, 09:23 PM** - Japan Will Launch Cargo Spacecraft to ISS (supercluster)
 - **Oct 25, 09:25 PM** - SpaceX, Sued by Cards Against Humanity, Settles Trespassing Case (nyt)
 - **Oct 25, 09:39 PM** - Global Defense Satcom Commercial Service Revenues Positioned to Skyrocket Past $8.6 Billion by 2034 (spacenews)
+- **Oct 25, 09:55 PM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
