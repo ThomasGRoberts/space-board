@@ -5,7 +5,7 @@
 | spacenews | 0 | 6 | 23 | 49 |
 | nyt | 0 | 1 | 23 | 45 |
 | breaking_defense | 0 | 0 | 23 | 45 |
-| supercluster | 1 | 1 | 31 | 31 |
+| supercluster | 1 | 1 | 32 | 32 |
 
 # Shown Order
 
@@ -6584,3 +6584,4 @@
 - **Oct 25, 07:21 PM** - With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas (nyt)
 - **Oct 25, 07:35 PM** - Europe must build its own critical infrastructure (spacenews)
 - **Oct 25, 07:49 PM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
+- **Oct 25, 08:05 PM** - Japan Will Launch Cargo Spacecraft to ISS (supercluster)
