@@ -5,7 +5,7 @@
 | spacenews | 3 | 11 | 25 | 50 |
 | supercluster | 0 | 1 | 161 | 181 |
 | nyt | 0 | 1 | 23 | 45 |
-| breaking_defense | 0 | 2 | 23 | 44 |
+| breaking_defense | 0 | 2 | 24 | 45 |
 
 # Shown Order
 
@@ -6691,3 +6691,4 @@
 - **Oct 25, 04:37 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 25, 04:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 25, 04:41 AM** - Orion installed on SLS as Artemis 2 preparations continue during shutdown (spacenews)
+- **Oct 25, 04:56 AM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
