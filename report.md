@@ -5,7 +5,7 @@
 | spacenews | 0 | 5 | 23 | 48 |
 | nyt | 0 | 1 | 22 | 45 |
 | breaking_defense | 0 | 0 | 23 | 45 |
-| supercluster | 1 | 1 | 47 | 47 |
+| supercluster | 1 | 1 | 48 | 48 |
 
 # Shown Order
 
@@ -6606,3 +6606,4 @@
 - **Oct 25, 09:55 PM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
 - **Oct 25, 10:12 PM** - Japan Will Launch Cargo Spacecraft to ISS (supercluster)
 - **Oct 25, 10:13 PM** - Japan Will Launch Cargo Spacecraft to ISS (supercluster)
+- **Oct 25, 10:15 PM** - Japan Will Launch Cargo Spacecraft to ISS (supercluster)
