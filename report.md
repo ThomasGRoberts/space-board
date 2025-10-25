@@ -5,7 +5,7 @@
 | spacenews | 3 | 10 | 25 | 50 |
 | supercluster | 0 | 1 | 161 | 209 |
 | nyt | 0 | 1 | 23 | 45 |
-| breaking_defense | 0 | 2 | 23 | 44 |
+| breaking_defense | 0 | 2 | 24 | 45 |
 
 # Shown Order
 
@@ -6731,3 +6731,4 @@
 - **Oct 25, 08:38 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 25, 08:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 25, 08:41 AM** - Startup takes on space-based missile defense — with its own cash (spacenews)
+- **Oct 25, 08:55 AM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
