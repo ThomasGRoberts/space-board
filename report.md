@@ -5,7 +5,7 @@
 | spacenews | 4 | 13 | 26 | 51 |
 | supercluster | 1 | 1 | 160 | 160 |
 | nyt | 0 | 1 | 22 | 45 |
-| breaking_defense | 0 | 2 | 22 | 44 |
+| breaking_defense | 0 | 2 | 23 | 45 |
 
 # Shown Order
 
@@ -6661,3 +6661,4 @@
 - **Oct 25, 01:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 25, 01:37 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 25, 01:39 AM** - Hungary signs Artemis Accords (spacenews)
+- **Oct 25, 01:55 AM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
