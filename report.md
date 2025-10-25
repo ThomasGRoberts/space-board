@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 11 | 25 | 49 |
-| supercluster | 0 | 1 | 161 | 181 |
+| supercluster | 0 | 1 | 162 | 182 |
 | nyt | 0 | 1 | 23 | 45 |
 | breaking_defense | 0 | 2 | 23 | 45 |
 
@@ -6693,3 +6693,4 @@
 - **Oct 25, 04:41 AM** - Orion installed on SLS as Artemis 2 preparations continue during shutdown (spacenews)
 - **Oct 25, 04:56 AM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
 - **Oct 25, 05:11 AM** - George F. Smoot, Who Showed How the Cosmos Began, Is Dead at 80 (nyt)
+- **Oct 25, 05:25 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
