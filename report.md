@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 5 | 23 | 48 |
-| nyt | 0 | 1 | 23 | 46 |
+| spacenews | 0 | 5 | 24 | 49 |
+| nyt | 0 | 1 | 23 | 45 |
 | breaking_defense | 0 | 0 | 23 | 44 |
 | supercluster | 1 | 1 | 45 | 45 |
 
@@ -6602,3 +6602,4 @@
 - **Oct 25, 09:21 PM** - Japan Will Launch Cargo Spacecraft to ISS (supercluster)
 - **Oct 25, 09:23 PM** - Japan Will Launch Cargo Spacecraft to ISS (supercluster)
 - **Oct 25, 09:25 PM** - SpaceX, Sued by Cards Against Humanity, Settles Trespassing Case (nyt)
+- **Oct 25, 09:39 PM** - Global Defense Satcom Commercial Service Revenues Positioned to Skyrocket Past $8.6 Billion by 2034 (spacenews)
