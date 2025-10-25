@@ -5,7 +5,7 @@
 | spacenews | 1 | 7 | 23 | 49 |
 | nyt | 0 | 1 | 22 | 44 |
 | breaking_defense | 0 | 1 | 23 | 45 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -6540,3 +6540,4 @@
 - **Oct 25, 01:55 PM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
 - **Oct 25, 03:21 PM** - Japan Will Launch Cargo Spacecraft to ISS (supercluster)
 - **Oct 25, 03:23 PM** - Japan Will Launch Cargo Spacecraft to ISS (supercluster)
+- **Oct 25, 03:25 PM** - Japan Will Launch Cargo Spacecraft to ISS (supercluster)
