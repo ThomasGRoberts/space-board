@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 5 | 23 | 49 |
 | nyt | 0 | 1 | 23 | 45 |
-| breaking_defense | 0 | 0 | 22 | 44 |
+| breaking_defense | 0 | 0 | 23 | 45 |
 | supercluster | 1 | 1 | 52 | 52 |
 
 # Shown Order
@@ -6613,3 +6613,4 @@
 - **Oct 25, 10:25 PM** - Japan Will Launch Cargo Spacecraft to ISS (supercluster)
 - **Oct 25, 10:27 PM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
 - **Oct 25, 10:43 PM** - Startup takes on space-based missile defense — with its own cash (spacenews)
+- **Oct 25, 10:57 PM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
