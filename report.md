@@ -5,7 +5,7 @@
 | spacenews | 4 | 13 | 25 | 51 |
 | supercluster | 1 | 1 | 153 | 153 |
 | nyt | 0 | 1 | 22 | 45 |
-| breaking_defense | 0 | 2 | 22 | 44 |
+| breaking_defense | 0 | 2 | 23 | 45 |
 
 # Shown Order
 
@@ -6651,3 +6651,4 @@
 - **Oct 25, 12:33 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 25, 12:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 25, 12:37 AM** - Chinese launch firms Space Pioneer and Galactic Energy move toward IPOs (spacenews)
+- **Oct 25, 12:53 AM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
