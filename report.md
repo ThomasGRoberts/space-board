@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 6 | 23 | 49 |
-| nyt | 0 | 1 | 22 | 45 |
+| nyt | 0 | 1 | 23 | 46 |
 | breaking_defense | 0 | 0 | 23 | 44 |
 | supercluster | 1 | 1 | 31 | 31 |
 
@@ -6581,3 +6581,4 @@
 - **Oct 25, 07:15 PM** - Japan Will Launch Cargo Spacecraft to ISS (supercluster)
 - **Oct 25, 07:17 PM** - Japan Will Launch Cargo Spacecraft to ISS (supercluster)
 - **Oct 25, 07:19 PM** - Japan Will Launch Cargo Spacecraft to ISS (supercluster)
+- **Oct 25, 07:21 PM** - With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas (nyt)
