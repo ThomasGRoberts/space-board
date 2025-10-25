@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 11 | 25 | 49 |
-| supercluster | 0 | 1 | 163 | 188 |
+| spacenews | 3 | 11 | 26 | 50 |
+| supercluster | 0 | 1 | 162 | 188 |
 | nyt | 0 | 1 | 23 | 45 |
 | breaking_defense | 0 | 2 | 23 | 45 |
 
@@ -6700,3 +6700,4 @@
 - **Oct 25, 05:37 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 25, 05:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 25, 05:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 25, 05:43 AM** - Vantor satellites track space objects in ‘blind spots’ inaccessible to military ground sensors (spacenews)
