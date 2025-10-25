@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 11 | 25 | 49 |
-| supercluster | 0 | 1 | 161 | 167 |
+| supercluster | 0 | 1 | 162 | 168 |
 | nyt | 0 | 1 | 23 | 45 |
 | breaking_defense | 0 | 2 | 23 | 45 |
 
@@ -6673,3 +6673,4 @@
 - **Oct 25, 02:43 AM** - America needs a ‘Plan B’ to reach the moon first (spacenews)
 - **Oct 25, 02:58 AM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
 - **Oct 25, 03:13 AM** - SpaceX, Sued by Cards Against Humanity, Settles Trespassing Case (nyt)
+- **Oct 25, 03:27 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
