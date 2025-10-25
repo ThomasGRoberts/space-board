@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 13 | 25 | 51 |
+| spacenews | 4 | 13 | 26 | 52 |
 | supercluster | 1 | 1 | 160 | 160 |
 | nyt | 0 | 1 | 22 | 45 |
 | breaking_defense | 0 | 2 | 22 | 44 |
@@ -6660,3 +6660,4 @@
 - **Oct 25, 01:33 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 25, 01:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 25, 01:37 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 25, 01:39 AM** - Hungary signs Artemis Accords (spacenews)
