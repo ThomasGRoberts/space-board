@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 7 | 25 | 49 |
+| spacenews | 1 | 7 | 24 | 49 |
 | nyt | 0 | 1 | 23 | 45 |
 | breaking_defense | 0 | 1 | 24 | 45 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 0 | 0 |
 
 # Shown Order
 
@@ -6538,4 +6538,3 @@
 - **Oct 25, 01:11 PM** - George F. Smoot, Who Showed How the Cosmos Began, Is Dead at 80 (nyt)
 - **Oct 25, 01:41 PM** - Startup takes on space-based missile defense — with its own cash (spacenews)
 - **Oct 25, 01:55 PM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
-- **Oct 25, 02:17 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
