@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 25 | 50 |
-| supercluster | 0 | 1 | 162 | 230 |
-| nyt | 0 | 1 | 23 | 44 |
+| supercluster | 0 | 1 | 161 | 230 |
+| nyt | 0 | 1 | 24 | 45 |
 | breaking_defense | 0 | 1 | 24 | 45 |
 
 # Shown Order
@@ -6762,3 +6762,4 @@
 - **Oct 25, 11:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 25, 11:43 AM** - Starlink mini lasers to link Muon Space satellites for near real-time connectivity (spacenews)
 - **Oct 25, 11:57 AM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
+- **Oct 25, 12:13 PM** - With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas (nyt)
