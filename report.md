@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 23 | 49 |
-| nyt | 0 | 1 | 22 | 44 |
+| nyt | 0 | 1 | 23 | 45 |
 | breaking_defense | 0 | 1 | 23 | 45 |
 | supercluster | 1 | 1 | 3 | 3 |
 
@@ -6541,3 +6541,4 @@
 - **Oct 25, 03:21 PM** - Japan Will Launch Cargo Spacecraft to ISS (supercluster)
 - **Oct 25, 03:23 PM** - Japan Will Launch Cargo Spacecraft to ISS (supercluster)
 - **Oct 25, 03:25 PM** - Japan Will Launch Cargo Spacecraft to ISS (supercluster)
+- **Oct 25, 03:27 PM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
