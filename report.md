@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 13 | 26 | 51 |
 | supercluster | 1 | 1 | 146 | 146 |
-| nyt | 0 | 1 | 22 | 44 |
+| nyt | 0 | 1 | 23 | 45 |
 | breaking_defense | 0 | 2 | 22 | 45 |
 
 # Shown Order
@@ -6642,3 +6642,4 @@
 - **Oct 24, 11:36 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 24, 11:37 PM** - The next space race will be won at night (spacenews)
 - **Oct 24, 11:51 PM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
+- **Oct 25, 12:07 AM** - George F. Smoot, Who Showed How the Cosmos Began, Is Dead at 80 (nyt)
