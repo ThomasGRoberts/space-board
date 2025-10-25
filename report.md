@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 11 | 26 | 50 |
+| spacenews | 3 | 11 | 25 | 50 |
 | supercluster | 0 | 1 | 161 | 174 |
 | nyt | 0 | 1 | 23 | 45 |
-| breaking_defense | 0 | 2 | 23 | 44 |
+| breaking_defense | 0 | 2 | 24 | 45 |
 
 # Shown Order
 
@@ -6681,3 +6681,4 @@
 - **Oct 25, 03:37 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 25, 03:40 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 25, 03:42 AM** - Duffy says NASA will open Artemis 3 lander contract to competition (spacenews)
+- **Oct 25, 03:55 AM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
