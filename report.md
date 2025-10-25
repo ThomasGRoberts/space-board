@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 5 | 23 | 48 |
-| nyt | 0 | 1 | 23 | 45 |
+| nyt | 0 | 1 | 22 | 45 |
 | breaking_defense | 0 | 0 | 23 | 45 |
-| supercluster | 1 | 1 | 39 | 39 |
+| supercluster | 1 | 1 | 40 | 40 |
 
 # Shown Order
 
@@ -6595,3 +6595,4 @@
 - **Oct 25, 08:38 PM** - Europe must build its own critical infrastructure (spacenews)
 - **Oct 25, 08:55 PM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
 - **Oct 25, 09:11 PM** - Japan Will Launch Cargo Spacecraft to ISS (supercluster)
+- **Oct 25, 09:13 PM** - Japan Will Launch Cargo Spacecraft to ISS (supercluster)
