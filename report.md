@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 10 | 25 | 49 |
-| supercluster | 0 | 1 | 161 | 202 |
+| supercluster | 0 | 1 | 162 | 203 |
 | nyt | 0 | 1 | 23 | 45 |
 | breaking_defense | 0 | 2 | 23 | 45 |
 
@@ -6723,3 +6723,4 @@
 - **Oct 25, 07:45 AM** - ESA finalizing ministerial package (spacenews)
 - **Oct 25, 07:59 AM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
 - **Oct 25, 08:14 AM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
+- **Oct 25, 08:27 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
