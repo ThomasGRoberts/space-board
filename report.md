@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 7 | 24 | 49 |
+| spacenews | 1 | 7 | 23 | 49 |
 | nyt | 0 | 1 | 22 | 44 |
 | breaking_defense | 0 | 1 | 23 | 45 |
-| supercluster | 1 | 1 | 5 | 5 |
+| supercluster | 1 | 1 | 6 | 6 |
 
 # Shown Order
 
@@ -6546,3 +6546,4 @@
 - **Oct 25, 03:56 PM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
 - **Oct 25, 04:12 PM** - Japan Will Launch Cargo Spacecraft to ISS (supercluster)
 - **Oct 25, 04:15 PM** - Japan Will Launch Cargo Spacecraft to ISS (supercluster)
+- **Oct 25, 04:18 PM** - Japan Will Launch Cargo Spacecraft to ISS (supercluster)
