@@ -5,7 +5,7 @@
 | spacenews | 1 | 7 | 24 | 49 |
 | nyt | 0 | 1 | 22 | 44 |
 | breaking_defense | 0 | 1 | 23 | 45 |
-| supercluster | 1 | 1 | 10 | 10 |
+| supercluster | 1 | 1 | 11 | 11 |
 
 # Shown Order
 
@@ -6554,3 +6554,4 @@
 - **Oct 25, 04:27 PM** - How to See the Orionids Meteor Shower: Best Time to Watch (nyt)
 - **Oct 25, 04:43 PM** - Lynk Global and Omnispace to merge in race for direct-to-device satellite spectrum (spacenews)
 - **Oct 25, 04:58 PM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
+- **Oct 25, 05:13 PM** - Japan Will Launch Cargo Spacecraft to ISS (supercluster)
