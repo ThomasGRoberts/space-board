@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 13 | 25 | 51 |
+| spacenews | 5 | 13 | 26 | 52 |
 | supercluster | 1 | 1 | 153 | 153 |
 | nyt | 0 | 1 | 22 | 45 |
 | breaking_defense | 0 | 2 | 22 | 44 |
@@ -6650,3 +6650,4 @@
 - **Oct 25, 12:31 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 25, 12:33 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 25, 12:35 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 25, 12:37 AM** - Chinese launch firms Space Pioneer and Galactic Energy move toward IPOs (spacenews)
