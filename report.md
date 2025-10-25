@@ -5,7 +5,7 @@
 | spacenews | 0 | 5 | 23 | 49 |
 | nyt | 0 | 0 | 22 | 44 |
 | breaking_defense | 0 | 0 | 23 | 45 |
-| supercluster | 1 | 1 | 53 | 53 |
+| supercluster | 1 | 1 | 54 | 54 |
 
 # Shown Order
 
@@ -6615,3 +6615,4 @@
 - **Oct 25, 10:43 PM** - Startup takes on space-based missile defense — with its own cash (spacenews)
 - **Oct 25, 10:57 PM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
 - **Oct 25, 11:13 PM** - Japan Will Launch Cargo Spacecraft to ISS (supercluster)
+- **Oct 25, 11:16 PM** - Japan Will Launch Cargo Spacecraft to ISS (supercluster)
