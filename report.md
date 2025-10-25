@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 7 | 23 | 49 |
-| nyt | 0 | 1 | 22 | 45 |
+| nyt | 0 | 1 | 22 | 44 |
 | breaking_defense | 0 | 1 | 23 | 45 |
-| supercluster | 1 | 1 | 17 | 17 |
+| supercluster | 1 | 1 | 18 | 18 |
 
 # Shown Order
 
@@ -6564,3 +6564,4 @@
 - **Oct 25, 05:27 PM** - How to See the Orionids Meteor Shower: Best Time to Watch (nyt)
 - **Oct 25, 05:41 PM** - China resumes launches for Thousand Sails constellation, CAS Space launches new international payload (spacenews)
 - **Oct 25, 05:55 PM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
+- **Oct 25, 06:11 PM** - Japan Will Launch Cargo Spacecraft to ISS (supercluster)
