@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 11 | 25 | 50 |
 | supercluster | 0 | 1 | 161 | 174 |
-| nyt | 0 | 1 | 23 | 44 |
-| breaking_defense | 0 | 2 | 24 | 45 |
+| nyt | 0 | 1 | 24 | 45 |
+| breaking_defense | 0 | 2 | 23 | 45 |
 
 # Shown Order
 
@@ -6682,3 +6682,4 @@
 - **Oct 25, 03:40 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 25, 03:42 AM** - Duffy says NASA will open Artemis 3 lander contract to competition (spacenews)
 - **Oct 25, 03:55 AM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
+- **Oct 25, 04:11 AM** - SpaceX, Sued by Cards Against Humanity, Settles Trespassing Case (nyt)
