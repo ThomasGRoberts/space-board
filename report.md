@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 24 | 49 |
-| supercluster | 0 | 1 | 161 | 237 |
+| supercluster | 0 | 1 | 162 | 238 |
 | nyt | 0 | 1 | 24 | 45 |
 | breaking_defense | 0 | 1 | 24 | 45 |
 
@@ -6773,3 +6773,4 @@
 - **Oct 25, 12:43 PM** - Starlink mini lasers to link Muon Space satellites for near real-time connectivity (spacenews)
 - **Oct 25, 12:57 PM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
 - **Oct 25, 01:11 PM** - George F. Smoot, Who Showed How the Cosmos Began, Is Dead at 80 (nyt)
+- **Oct 25, 01:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
