@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 8 | 25 | 49 |
+| spacenews | 2 | 8 | 25 | 50 |
 | supercluster | 0 | 1 | 168 | 237 |
 | nyt | 0 | 1 | 23 | 45 |
 | breaking_defense | 0 | 1 | 23 | 45 |
@@ -6770,3 +6770,4 @@
 - **Oct 25, 12:37 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 25, 12:39 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 25, 12:42 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 25, 12:43 PM** - Starlink mini lasers to link Muon Space satellites for near real-time connectivity (spacenews)
