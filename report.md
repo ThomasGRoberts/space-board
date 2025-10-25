@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 9 | 25 | 50 |
-| supercluster | 0 | 1 | 165 | 216 |
+| supercluster | 0 | 1 | 164 | 216 |
 | nyt | 0 | 1 | 23 | 45 |
-| breaking_defense | 0 | 2 | 23 | 44 |
+| breaking_defense | 0 | 2 | 24 | 45 |
 
 # Shown Order
 
@@ -6741,3 +6741,4 @@
 - **Oct 25, 09:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 25, 09:44 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 25, 09:45 AM** - Lockheed Martin Ventures invests in rocket propulsion startup Venus Aerospace (spacenews)
+- **Oct 25, 09:59 AM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
