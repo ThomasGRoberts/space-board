@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 9 | 25 | 50 |
 | supercluster | 0 | 1 | 161 | 223 |
-| nyt | 0 | 1 | 23 | 44 |
+| nyt | 0 | 1 | 24 | 45 |
 | breaking_defense | 0 | 2 | 23 | 45 |
 
 # Shown Order
@@ -6752,3 +6752,4 @@
 - **Oct 25, 10:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 25, 10:43 AM** - Startup takes on space-based missile defense — with its own cash (spacenews)
 - **Oct 25, 10:57 AM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
+- **Oct 25, 11:15 AM** - George F. Smoot, Who Showed How the Cosmos Began, Is Dead at 80 (nyt)
