@@ -5,7 +5,7 @@
 | spacenews | 2 | 3 | 23 | 47 |
 | nyt | 0 | 0 | 21 | 45 |
 | breaking_defense | 0 | 0 | 22 | 45 |
-| supercluster | 1 | 1 | 81 | 81 |
+| supercluster | 1 | 1 | 82 | 82 |
 
 # Shown Order
 
@@ -6683,3 +6683,4 @@
 - **Oct 26, 12:50 PM** - George F. Smoot, Who Showed How the Cosmos Began, Is Dead at 80 (nyt)
 - **Oct 26, 01:07 PM** - Kymeta to supply flat-panel satellite antennas to U.S. Army (spacenews)
 - **Oct 26, 01:22 PM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
+- **Oct 26, 01:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
