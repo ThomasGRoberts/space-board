@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 22 | 47 |
+| spacenews | 2 | 3 | 23 | 48 |
 | nyt | 0 | 0 | 22 | 45 |
 | breaking_defense | 0 | 0 | 21 | 45 |
 | supercluster | 1 | 1 | 88 | 88 |
@@ -6691,3 +6691,4 @@
 - **Oct 26, 01:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 26, 01:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 26, 01:53 PM** - With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas (nyt)
+- **Oct 26, 02:07 PM** - Airbus, Leonardo and Thales agree to combine space businesses (spacenews)
