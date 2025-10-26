@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 3 | 23 | 46 |
+| spacenews | 3 | 3 | 24 | 47 |
 | nyt | 0 | 0 | 21 | 44 |
 | breaking_defense | 0 | 0 | 22 | 45 |
 | supercluster | 1 | 1 | 47 | 47 |
@@ -6673,3 +6673,4 @@
 - **Oct 26, 10:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 26, 10:07 PM** - How to See the Orionids Meteor Shower: Best Time to Watch (nyt)
 - **Oct 26, 10:22 PM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
+- **Oct 26, 10:38 PM** - Analysts question Germany’s request for defensive and inspector satellites (spacenews)
