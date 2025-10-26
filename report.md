@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 4 | 23 | 48 |
-| nyt | 0 | 0 | 21 | 44 |
+| spacenews | 1 | 3 | 23 | 47 |
+| nyt | 0 | 0 | 22 | 45 |
 | breaking_defense | 0 | 0 | 22 | 45 |
 | supercluster | 1 | 1 | 60 | 60 |
 
@@ -6650,3 +6650,4 @@
 - **Oct 26, 09:20 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 26, 09:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 26, 09:25 AM** - Landspace begins final preparations for China’s first orbital launch and landing attempt (spacenews)
+- **Oct 26, 09:39 AM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
