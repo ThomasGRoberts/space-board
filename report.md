@@ -5,7 +5,7 @@
 | spacenews | 0 | 4 | 22 | 47 |
 | nyt | 0 | 0 | 22 | 44 |
 | breaking_defense | 0 | 0 | 22 | 44 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -6566,3 +6566,4 @@
 - **Oct 25, 11:41 PM** - China expands classified geostationary satellite series with Long March 5 launch (spacenews)
 - **Oct 25, 11:55 PM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
 - **Oct 26, 01:02 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 26, 01:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
