@@ -5,7 +5,7 @@
 | spacenews | 3 | 3 | 23 | 46 |
 | nyt | 0 | 0 | 21 | 44 |
 | breaking_defense | 0 | 0 | 22 | 44 |
-| supercluster | 1 | 1 | 12 | 12 |
+| supercluster | 1 | 1 | 13 | 13 |
 
 # Shown Order
 
@@ -6624,3 +6624,4 @@
 - **Oct 26, 05:10 PM** - With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas (nyt)
 - **Oct 26, 05:23 PM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
 - **Oct 26, 05:39 PM** - Belgian startup Nxgsat raises early funds for virtual 5G satellite modem (spacenews)
+- **Oct 26, 05:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
