@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 5 | 23 | 49 |
+| spacenews | 1 | 5 | 23 | 48 |
 | nyt | 0 | 0 | 22 | 45 |
-| breaking_defense | 0 | 0 | 22 | 45 |
+| breaking_defense | 0 | 0 | 23 | 46 |
 | supercluster | 1 | 1 | 11 | 11 |
 
 # Shown Order
@@ -6581,3 +6581,4 @@
 - **Oct 26, 02:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 26, 02:16 AM** - Quantum Space to launch first spacecraft in mid-2026 (spacenews)
 - **Oct 26, 02:29 AM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
+- **Oct 26, 02:43 AM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
