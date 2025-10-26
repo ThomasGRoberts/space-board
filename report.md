@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 4 | 22 | 48 |
 | nyt | 0 | 0 | 22 | 45 |
-| breaking_defense | 0 | 0 | 22 | 45 |
+| breaking_defense | 0 | 0 | 23 | 46 |
 | supercluster | 1 | 1 | 18 | 18 |
 
 # Shown Order
@@ -6591,3 +6591,4 @@
 - **Oct 26, 03:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 26, 03:15 AM** - Vantor satellites track space objects in ‘blind spots’ inaccessible to military ground sensors (spacenews)
 - **Oct 26, 03:29 AM** - George F. Smoot, Who Showed How the Cosmos Began, Is Dead at 80 (nyt)
+- **Oct 26, 03:46 AM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
