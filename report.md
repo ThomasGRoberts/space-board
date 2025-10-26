@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 4 | 22 | 47 |
+| spacenews | 1 | 4 | 23 | 48 |
 | nyt | 0 | 0 | 21 | 44 |
 | breaking_defense | 0 | 0 | 22 | 45 |
 | supercluster | 1 | 1 | 53 | 53 |
@@ -6639,3 +6639,4 @@
 - **Oct 26, 08:22 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 26, 08:24 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 26, 08:26 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 26, 08:28 AM** - The lunar mining gold rush is coming – and success requires bridging two worlds  (spacenews)
