@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 5 | 23 | 48 |
+| spacenews | 1 | 5 | 22 | 48 |
 | nyt | 0 | 0 | 22 | 44 |
-| breaking_defense | 0 | 0 | 22 | 44 |
+| breaking_defense | 0 | 0 | 23 | 45 |
 | supercluster | 1 | 1 | 4 | 4 |
 
 # Shown Order
@@ -6571,3 +6571,4 @@
 - **Oct 26, 01:10 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 26, 01:11 AM** - H3 launches first HTV-X cargo spacecraft (spacenews)
 - **Oct 26, 01:25 AM** - SpaceX, Sued by Cards Against Humanity, Settles Trespassing Case (nyt)
+- **Oct 26, 01:41 AM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
