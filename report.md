@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 3 | 23 | 46 |
 | nyt | 0 | 0 | 21 | 44 |
-| breaking_defense | 0 | 0 | 21 | 44 |
+| breaking_defense | 0 | 0 | 22 | 45 |
 | supercluster | 1 | 1 | 26 | 26 |
 
 # Shown Order
@@ -6642,3 +6642,4 @@
 - **Oct 26, 07:03 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 26, 07:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 26, 07:08 PM** - George F. Smoot, Who Showed How the Cosmos Began, Is Dead at 80 (nyt)
+- **Oct 26, 07:25 PM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
