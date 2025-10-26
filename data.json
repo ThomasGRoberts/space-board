@@ -1,7 +1,7 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-26T00:02:13.625519+00:00",
-    "trigger_count": 0,
+    "trigger_count": 1,
     "current_item_id": "3af3ad8dea4beaf1c4352d0a16294605",
     "data": [
         {
@@ -12054,14 +12054,11 @@
             "source": "supercluster",
             "text": "Japan Will Launch Cargo Spacecraft to ISS",
             "source_link": "https://www.supercluster.com/launches/htv-x1",
-            "shown": true,
+            "shown": false,
             "type": "launch",
             "target_datetime": "2025-10-26T00:00:00.000Z",
             "time_remaining": "",
-            "fetched_datetime": "2025-10-26T00:11:48.764704Z",
-            "shown_at": [
-                "2025-10-26T00:11:49.461052Z"
-            ]
+            "fetched_datetime": "2025-10-26T00:13:56.031888Z"
         }
     ]
 }

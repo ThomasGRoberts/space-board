@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 5 | 23 | 49 |
-| nyt | 0 | 0 | 22 | 45 |
+| nyt | 0 | 0 | 22 | 44 |
 | breaking_defense | 0 | 0 | 23 | 45 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 0 | 0 |
 
 # Shown Order
 
@@ -6565,4 +6565,3 @@
 - **Oct 25, 11:27 PM** - With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas (nyt)
 - **Oct 25, 11:41 PM** - China expands classified geostationary satellite series with Long March 5 launch (spacenews)
 - **Oct 25, 11:55 PM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
-- **Oct 26, 12:11 AM** - Japan Will Launch Cargo Spacecraft to ISS (supercluster)
