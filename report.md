@@ -5,7 +5,7 @@
 | spacenews | 2 | 3 | 23 | 47 |
 | nyt | 0 | 0 | 21 | 45 |
 | breaking_defense | 0 | 0 | 22 | 45 |
-| supercluster | 1 | 1 | 82 | 82 |
+| supercluster | 1 | 1 | 83 | 83 |
 
 # Shown Order
 
@@ -6684,3 +6684,4 @@
 - **Oct 26, 01:07 PM** - Kymeta to supply flat-panel satellite antennas to U.S. Army (spacenews)
 - **Oct 26, 01:22 PM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
 - **Oct 26, 01:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 26, 01:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
