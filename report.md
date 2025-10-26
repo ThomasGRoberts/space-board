@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 4 | 22 | 47 |
 | nyt | 0 | 0 | 22 | 45 |
-| breaking_defense | 0 | 0 | 22 | 45 |
+| breaking_defense | 0 | 0 | 23 | 46 |
 | supercluster | 1 | 1 | 46 | 46 |
 
 # Shown Order
@@ -6631,3 +6631,4 @@
 - **Oct 26, 07:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 26, 07:29 AM** - Landspace begins final preparations for China’s first orbital launch and landing attempt (spacenews)
 - **Oct 26, 07:43 AM** - With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas (nyt)
+- **Oct 26, 07:57 AM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
