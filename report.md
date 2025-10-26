@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 4 | 23 | 48 |
-| nyt | 0 | 0 | 21 | 44 |
+| nyt | 0 | 0 | 22 | 45 |
 | breaking_defense | 0 | 0 | 22 | 45 |
 | supercluster | 1 | 1 | 39 | 39 |
 
@@ -6620,3 +6620,4 @@
 - **Oct 26, 06:20 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 26, 06:22 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 26, 06:26 AM** - Global Defense Satcom Commercial Service Revenues Positioned to Skyrocket Past $8.6 Billion by 2034 (spacenews)
+- **Oct 26, 06:43 AM** - With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas (nyt)
