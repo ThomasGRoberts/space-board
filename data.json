@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-26T00:02:13.625519+00:00",
-    "trigger_count": 2,
-    "current_item_id": "3af3ad8dea4beaf1c4352d0a16294605",
+    "trigger_count": 3,
+    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
     "data": [
         {
             "id": "cf074f6b8eb6c0f4a98113fdabf45ed7",
@@ -12050,15 +12050,18 @@
             ]
         },
         {
-            "id": "3af3ad8dea4beaf1c4352d0a16294605",
+            "id": "e4477b32d7fadfa13ea2873abcb7bd3c",
             "source": "supercluster",
-            "text": "Japan Will Launch Cargo Spacecraft to ISS",
-            "source_link": "https://www.supercluster.com/launches/htv-x1",
-            "shown": false,
+            "text": "SpaceX Will Launch Starlink Satellites from Florida",
+            "source_link": "https://www.supercluster.com/launches/starlink-10-21",
+            "shown": true,
             "type": "launch",
-            "target_datetime": "2025-10-26T00:00:00.000Z",
-            "time_remaining": "",
-            "fetched_datetime": "2025-10-26T00:59:33.485281Z"
+            "target_datetime": "2025-10-26T14:40:00.000Z",
+            "time_remaining": "0d 13h 37m",
+            "fetched_datetime": "2025-10-26T01:02:29.919381Z",
+            "shown_at": [
+                "2025-10-26T01:02:30.810475Z"
+            ]
         }
     ]
 }
