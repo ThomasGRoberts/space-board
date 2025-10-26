@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 4 | 22 | 47 |
 | nyt | 0 | 0 | 22 | 45 |
-| breaking_defense | 0 | 0 | 22 | 45 |
+| breaking_defense | 0 | 0 | 23 | 46 |
 | supercluster | 1 | 1 | 53 | 53 |
 
 # Shown Order
@@ -6641,3 +6641,4 @@
 - **Oct 26, 08:26 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 26, 08:28 AM** - The lunar mining gold rush is coming – and success requires bridging two worlds  (spacenews)
 - **Oct 26, 08:41 AM** - SpaceX, Sued by Cards Against Humanity, Settles Trespassing Case (nyt)
+- **Oct 26, 08:55 AM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
