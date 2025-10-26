@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 3 | 23 | 45 |
+| spacenews | 3 | 3 | 23 | 46 |
 | nyt | 0 | 0 | 21 | 44 |
 | breaking_defense | 0 | 0 | 22 | 45 |
 | supercluster | 1 | 1 | 19 | 19 |
@@ -6633,3 +6633,4 @@
 - **Oct 26, 06:07 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 26, 06:10 PM** - How to See the Orionids Meteor Shower: Best Time to Watch (nyt)
 - **Oct 26, 06:25 PM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
+- **Oct 26, 06:40 PM** - Iridium pulls $1 billion 2030 service revenue goal amid SpaceX’s D2D push (spacenews)
