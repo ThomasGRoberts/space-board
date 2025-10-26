@@ -5,7 +5,7 @@
 | spacenews | 1 | 4 | 22 | 47 |
 | nyt | 0 | 0 | 22 | 45 |
 | breaking_defense | 0 | 0 | 22 | 45 |
-| supercluster | 1 | 1 | 32 | 32 |
+| supercluster | 1 | 1 | 33 | 33 |
 
 # Shown Order
 
@@ -6612,3 +6612,4 @@
 - **Oct 26, 05:21 AM** - America needs a ‘Plan B’ to reach the moon first (spacenews)
 - **Oct 26, 05:40 AM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
 - **Oct 26, 05:53 AM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
+- **Oct 26, 06:09 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
