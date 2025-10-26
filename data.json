@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-26T00:02:13.625519+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4ace502aef500636437da881602b1be6",
+    "trigger_count": 0,
+    "current_item_id": "ee5f8998e77b85a8ef835bf750cb236b",
     "data": [
         {
             "id": "cf074f6b8eb6c0f4a98113fdabf45ed7",
@@ -12187,6 +12187,18 @@
             "fetched_datetime": "2025-10-26T01:11:47.034381Z",
             "shown_at": [
                 "2025-10-26T01:11:47.761355Z"
+            ]
+        },
+        {
+            "id": "ee5f8998e77b85a8ef835bf750cb236b",
+            "source": "spacenews",
+            "text": "Kymeta to supply flat-panel satellite antennas to U.S. Army",
+            "source_link": "https://spacenews.com/kymeta-to-supply-flat-panel-satellite-antennas-to-u-s-army/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-26T13:07:45.521501Z",
+            "shown_at": [
+                "2025-10-26T13:07:46.062196Z"
             ]
         }
     ]
