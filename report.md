@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 22 | 47 |
-| nyt | 0 | 0 | 21 | 44 |
+| nyt | 0 | 0 | 22 | 45 |
 | breaking_defense | 0 | 0 | 22 | 45 |
 | supercluster | 1 | 1 | 74 | 74 |
 
@@ -6670,3 +6670,4 @@
 - **Oct 26, 11:24 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 26, 11:25 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 26, 11:28 AM** - China resumes launches for Thousand Sails constellation, CAS Space launches new international payload (spacenews)
+- **Oct 26, 11:45 AM** - How to See the Orionids Meteor Shower: Best Time to Watch (nyt)
