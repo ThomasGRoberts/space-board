@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 3 | 23 | 46 |
-| nyt | 0 | 0 | 21 | 43 |
+| nyt | 0 | 0 | 22 | 44 |
 | breaking_defense | 0 | 0 | 21 | 44 |
 | supercluster | 1 | 1 | 26 | 26 |
 
@@ -6641,3 +6641,4 @@
 - **Oct 26, 07:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 26, 07:03 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 26, 07:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 26, 07:08 PM** - George F. Smoot, Who Showed How the Cosmos Began, Is Dead at 80 (nyt)
