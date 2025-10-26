@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-26T00:02:13.625519+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "ae4f38d3012bb26cdb26e01253d1b91d",
     "data": [
         {
             "id": "cf074f6b8eb6c0f4a98113fdabf45ed7",
@@ -12064,6 +12064,18 @@
                 "2025-10-26T01:05:47.110318Z",
                 "2025-10-26T01:07:46.813733Z",
                 "2025-10-26T01:10:02.508003Z"
+            ]
+        },
+        {
+            "id": "ae4f38d3012bb26cdb26e01253d1b91d",
+            "source": "spacenews",
+            "text": "H3 launches first HTV-X cargo spacecraft",
+            "source_link": "https://spacenews.com/h3-launches-first-htv-x-cargo-spacecraft/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-26T01:11:47.034381Z",
+            "shown_at": [
+                "2025-10-26T01:11:47.761355Z"
             ]
         }
     ]

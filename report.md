@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 4 | 22 | 47 |
+| spacenews | 1 | 5 | 23 | 48 |
 | nyt | 0 | 0 | 22 | 44 |
 | breaking_defense | 0 | 0 | 22 | 44 |
 | supercluster | 1 | 1 | 4 | 4 |
@@ -6569,3 +6569,4 @@
 - **Oct 26, 01:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 26, 01:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 26, 01:10 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 26, 01:11 AM** - H3 launches first HTV-X cargo spacecraft (spacenews)
