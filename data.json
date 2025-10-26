@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-26T00:02:13.625519+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "41b4bb93af8d1b14b5168519fb567dc4",
     "data": [
         {
             "id": "cf074f6b8eb6c0f4a98113fdabf45ed7",
@@ -12127,6 +12127,18 @@
                 "2025-10-26T14:45:50.390173Z",
                 "2025-10-26T14:47:52.573200Z",
                 "2025-10-26T14:49:43.222187Z"
+            ]
+        },
+        {
+            "id": "41b4bb93af8d1b14b5168519fb567dc4",
+            "source": "spacenews",
+            "text": "Astrobotic delays Griffin-1 lander mission to mid-2026",
+            "source_link": "https://spacenews.com/astrobotic-delays-griffin-1-lander-mission-to-mid-2026/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-26T14:51:26.787121Z",
+            "shown_at": [
+                "2025-10-26T14:51:27.453055Z"
             ]
         }
     ]
