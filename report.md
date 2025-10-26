@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 22 | 47 |
 | nyt | 0 | 0 | 22 | 45 |
-| breaking_defense | 0 | 0 | 22 | 45 |
+| breaking_defense | 0 | 0 | 22 | 46 |
 | supercluster | 1 | 1 | 74 | 74 |
 
 # Shown Order
@@ -6671,3 +6671,4 @@
 - **Oct 26, 11:25 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 26, 11:28 AM** - China resumes launches for Thousand Sails constellation, CAS Space launches new international payload (spacenews)
 - **Oct 26, 11:45 AM** - How to See the Orionids Meteor Shower: Best Time to Watch (nyt)
+- **Oct 26, 12:00 PM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
