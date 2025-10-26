@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 4 | 23 | 48 |
-| nyt | 0 | 0 | 21 | 44 |
+| nyt | 0 | 0 | 22 | 45 |
 | breaking_defense | 0 | 0 | 22 | 45 |
 | supercluster | 1 | 1 | 18 | 18 |
 
@@ -6590,3 +6590,4 @@
 - **Oct 26, 03:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 26, 03:13 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 26, 03:15 AM** - Vantor satellites track space objects in ‘blind spots’ inaccessible to military ground sensors (spacenews)
+- **Oct 26, 03:29 AM** - George F. Smoot, Who Showed How the Cosmos Began, Is Dead at 80 (nyt)
