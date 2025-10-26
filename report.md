@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 4 | 22 | 48 |
 | nyt | 0 | 0 | 22 | 45 |
-| breaking_defense | 0 | 0 | 22 | 45 |
+| breaking_defense | 0 | 0 | 23 | 46 |
 | supercluster | 1 | 1 | 25 | 25 |
 
 # Shown Order
@@ -6601,3 +6601,4 @@
 - **Oct 26, 04:17 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 26, 04:19 AM** - Belgian startup Nxgsat raises early funds for virtual 5G satellite modem (spacenews)
 - **Oct 26, 04:35 AM** - How to See the Orionids Meteor Shower: Best Time to Watch (nyt)
+- **Oct 26, 04:50 AM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
