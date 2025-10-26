@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 3 | 23 | 46 |
-| nyt | 0 | 0 | 21 | 44 |
+| nyt | 0 | 0 | 22 | 45 |
 | breaking_defense | 0 | 0 | 21 | 44 |
 | supercluster | 1 | 1 | 40 | 40 |
 
@@ -6661,3 +6661,4 @@
 - **Oct 26, 09:01 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 26, 09:03 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 26, 09:05 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 26, 09:07 PM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
