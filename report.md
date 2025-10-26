@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 4 | 23 | 46 |
+| spacenews | 3 | 4 | 24 | 47 |
 | nyt | 0 | 0 | 21 | 44 |
 | breaking_defense | 0 | 0 | 22 | 44 |
 | supercluster | 1 | 1 | 5 | 5 |
@@ -6613,3 +6613,4 @@
 - **Oct 26, 04:09 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 26, 04:12 PM** - SpaceX, Sued by Cards Against Humanity, Settles Trespassing Case (nyt)
 - **Oct 26, 04:27 PM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
+- **Oct 26, 04:42 PM** - Iridium pulls $1 billion 2030 service revenue goal amid SpaceX’s D2D push (spacenews)
