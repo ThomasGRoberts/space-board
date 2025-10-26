@@ -5,7 +5,7 @@
 | spacenews | 3 | 4 | 23 | 47 |
 | nyt | 0 | 0 | 21 | 43 |
 | breaking_defense | 0 | 0 | 22 | 44 |
-| supercluster | 1 | 1 | 6 | 6 |
+| supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
 
@@ -6615,3 +6615,4 @@
 - **Oct 26, 04:27 PM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
 - **Oct 26, 04:42 PM** - Iridium pulls $1 billion 2030 service revenue goal amid SpaceX’s D2D push (spacenews)
 - **Oct 26, 04:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 26, 04:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
