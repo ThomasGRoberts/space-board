@@ -5,7 +5,7 @@
 | spacenews | 2 | 3 | 23 | 47 |
 | nyt | 0 | 0 | 22 | 45 |
 | breaking_defense | 0 | 0 | 22 | 45 |
-| supercluster | 1 | 1 | 88 | 88 |
+| supercluster | 1 | 1 | 89 | 89 |
 
 # Shown Order
 
@@ -6693,3 +6693,4 @@
 - **Oct 26, 01:53 PM** - With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas (nyt)
 - **Oct 26, 02:07 PM** - Airbus, Leonardo and Thales agree to combine space businesses (spacenews)
 - **Oct 26, 02:21 PM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
+- **Oct 26, 02:38 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
