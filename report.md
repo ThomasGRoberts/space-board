@@ -5,7 +5,7 @@
 | spacenews | 1 | 3 | 22 | 47 |
 | nyt | 0 | 0 | 22 | 45 |
 | breaking_defense | 0 | 0 | 22 | 46 |
-| supercluster | 1 | 1 | 67 | 67 |
+| supercluster | 1 | 1 | 68 | 68 |
 
 # Shown Order
 
@@ -6662,3 +6662,4 @@
 - **Oct 26, 10:23 AM** - Iridium pulls $1 billion 2030 service revenue goal amid SpaceX’s D2D push (spacenews)
 - **Oct 26, 10:40 AM** - SpaceX, Sued by Cards Against Humanity, Settles Trespassing Case (nyt)
 - **Oct 26, 10:54 AM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
+- **Oct 26, 11:12 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
