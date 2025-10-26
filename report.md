@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 22 | 47 |
+| spacenews | 1 | 3 | 23 | 48 |
 | nyt | 0 | 0 | 21 | 44 |
 | breaking_defense | 0 | 0 | 22 | 45 |
 | supercluster | 1 | 1 | 81 | 81 |
@@ -6679,3 +6679,4 @@
 - **Oct 26, 12:27 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 26, 12:29 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 26, 12:31 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 26, 12:33 PM** - Taiwan should build a space-enabled kill web, not big warships (spacenews)
