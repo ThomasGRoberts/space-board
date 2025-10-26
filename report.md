@@ -5,7 +5,7 @@
 | spacenews | 3 | 3 | 23 | 46 |
 | nyt | 0 | 0 | 21 | 44 |
 | breaking_defense | 0 | 0 | 22 | 45 |
-| supercluster | 1 | 1 | 33 | 33 |
+| supercluster | 1 | 1 | 34 | 34 |
 
 # Shown Order
 
@@ -6654,3 +6654,4 @@
 - **Oct 26, 08:09 PM** - With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas (nyt)
 - **Oct 26, 08:23 PM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
 - **Oct 26, 08:39 PM** - China expands classified geostationary satellite series with Long March 5 launch (spacenews)
+- **Oct 26, 08:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
