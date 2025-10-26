@@ -5,7 +5,7 @@
 | spacenews | 3 | 3 | 23 | 46 |
 | nyt | 0 | 0 | 21 | 44 |
 | breaking_defense | 0 | 0 | 22 | 44 |
-| supercluster | 1 | 1 | 55 | 55 |
+| supercluster | 1 | 1 | 56 | 56 |
 
 # Shown Order
 
@@ -6685,3 +6685,4 @@
 - **Oct 26, 11:21 PM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
 - **Oct 26, 11:36 PM** - Ion-X to supply upgraded thruster for Univity’s VLEO 5G constellation (spacenews)
 - **Oct 26, 11:52 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 26, 11:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
