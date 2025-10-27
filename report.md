@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 152 | 152 |
-| spacenews | 7 | 9 | 26 | 49 |
-| nyt | 0 | 0 | 21 | 43 |
+| spacenews | 6 | 9 | 25 | 49 |
+| nyt | 0 | 0 | 22 | 44 |
 | breaking_defense | 0 | 0 | 21 | 43 |
 
 # Shown Order
@@ -6810,3 +6810,4 @@
 - **Oct 27, 02:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 27, 02:15 PM** - ESA finalizing ministerial package (spacenews)
 - **Oct 27, 02:29 PM** - MTN carves out private networks for Starlink’s business users (spacenews)
+- **Oct 27, 02:52 PM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
