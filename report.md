@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 117 | 117 |
 | spacenews | 4 | 5 | 24 | 47 |
-| nyt | 0 | 0 | 22 | 43 |
+| nyt | 0 | 0 | 23 | 44 |
 | breaking_defense | 0 | 0 | 22 | 44 |
 
 # Shown Order
@@ -6757,3 +6757,4 @@
 - **Oct 27, 08:18 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 27, 08:19 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 27, 08:21 AM** - H3 launches first HTV-X cargo spacecraft (spacenews)
+- **Oct 27, 08:39 AM** - With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas (nyt)
