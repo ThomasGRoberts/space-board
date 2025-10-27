@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 0 | 1 | 161 | 173 |
 | spacenews | 6 | 9 | 26 | 49 |
-| nyt | 0 | 0 | 22 | 43 |
+| nyt | 0 | 0 | 23 | 44 |
 | breaking_defense | 0 | 0 | 22 | 44 |
 
 # Shown Order
@@ -6840,3 +6840,4 @@
 - **Oct 27, 05:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 27, 05:31 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 27, 05:33 PM** - The next space race will be won at night (spacenews)
+- **Oct 27, 05:48 PM** - How to See the Orionids Meteor Shower: Best Time to Watch (nyt)
