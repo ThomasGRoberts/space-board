@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 124 | 124 |
 | spacenews | 4 | 5 | 24 | 46 |
-| nyt | 0 | 0 | 21 | 43 |
+| nyt | 0 | 0 | 22 | 44 |
 | breaking_defense | 0 | 0 | 22 | 44 |
 
 # Shown Order
@@ -6767,3 +6767,4 @@
 - **Oct 27, 09:25 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 27, 09:28 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 27, 09:32 AM** - China expands classified geostationary satellite series with Long March 5 launch (spacenews)
+- **Oct 27, 09:49 AM** - How to See the Orionids Meteor Shower: Best Time to Watch (nyt)
