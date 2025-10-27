@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-27T00:02:22.478175+00:00",
-    "trigger_count": 6,
-    "current_item_id": "187828d02ddde449b2698d3f9672f892",
+    "trigger_count": 0,
+    "current_item_id": "60eaff9516292ab9e3fe50664ceafb50",
     "data": [
         {
             "id": "4beba9b243fe616fcb8e7be8d963bbc1",
@@ -12294,6 +12294,18 @@
             "fetched_datetime": "2025-10-27T05:09:34.747981Z",
             "shown_at": [
                 "2025-10-27T05:09:35.344457Z"
+            ]
+        },
+        {
+            "id": "60eaff9516292ab9e3fe50664ceafb50",
+            "source": "spacenews",
+            "text": "China launches new Gaofen-14 stereo mapping satellite",
+            "source_link": "https://spacenews.com/china-launches-new-gaofen-14-stereo-mapping-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-27T10:50:01.735878Z",
+            "shown_at": [
+                "2025-10-27T10:50:02.167281Z"
             ]
         }
     ]
