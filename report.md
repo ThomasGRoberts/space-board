@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 104 | 104 |
+| supercluster | 1 | 1 | 105 | 105 |
 | spacenews | 4 | 5 | 24 | 46 |
 | nyt | 0 | 0 | 22 | 44 |
-| breaking_defense | 0 | 0 | 22 | 45 |
+| breaking_defense | 0 | 0 | 22 | 44 |
 
 # Shown Order
 
@@ -6740,3 +6740,4 @@
 - **Oct 27, 06:31 AM** - With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas (nyt)
 - **Oct 27, 06:45 AM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
 - **Oct 27, 07:02 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 27, 07:03 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
