@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 152 | 152 |
+| supercluster | 1 | 1 | 153 | 153 |
 | spacenews | 6 | 9 | 25 | 49 |
-| nyt | 0 | 0 | 22 | 44 |
+| nyt | 0 | 0 | 22 | 43 |
 | breaking_defense | 0 | 0 | 22 | 44 |
 
 # Shown Order
@@ -6812,3 +6812,4 @@
 - **Oct 27, 02:29 PM** - MTN carves out private networks for Starlink’s business users (spacenews)
 - **Oct 27, 02:52 PM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
 - **Oct 27, 03:10 PM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
+- **Oct 27, 03:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
