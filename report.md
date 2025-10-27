@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 76 | 76 |
+| supercluster | 1 | 1 | 77 | 77 |
 | spacenews | 2 | 3 | 24 | 46 |
 | nyt | 0 | 0 | 22 | 44 |
 | breaking_defense | 0 | 0 | 22 | 45 |
@@ -6700,3 +6700,4 @@
 - **Oct 27, 02:21 AM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
 - **Oct 27, 02:35 AM** - Landspace begins final preparations for China’s first orbital launch and landing attempt (spacenews)
 - **Oct 27, 02:51 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 27, 02:53 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
