@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 0 | 1 | 154 | 187 |
+| supercluster | 0 | 1 | 155 | 188 |
 | spacenews | 6 | 9 | 26 | 49 |
 | nyt | 0 | 0 | 22 | 44 |
 | breaking_defense | 0 | 0 | 23 | 44 |
@@ -6862,3 +6862,4 @@
 - **Oct 27, 07:29 PM** - Space is a warfighting domain. We need wartime urgency for procurement reform. (spacenews)
 - **Oct 27, 07:44 PM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
 - **Oct 27, 07:59 PM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
+- **Oct 27, 08:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
