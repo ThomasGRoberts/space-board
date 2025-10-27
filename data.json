@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-27T00:02:22.478175+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4ace502aef500636437da881602b1be6",
+    "trigger_count": 0,
+    "current_item_id": "e9093eee3150cfc21d4f662f753cd494",
     "data": [
         {
             "id": "4beba9b243fe616fcb8e7be8d963bbc1",
@@ -12212,6 +12212,18 @@
                 "2025-07-20T14:13:49.673125Z",
                 "2025-07-20T19:02:08.636595Z",
                 "2025-07-21T00:58:08.702159Z"
+            ]
+        },
+        {
+            "id": "e9093eee3150cfc21d4f662f753cd494",
+            "source": "spacenews",
+            "text": "From Analyst to AI Orchestrator: Evolving Roles in the Age of Autonomy",
+            "source_link": "https://spacenews.com/from-analyst-to-ai-orchestrator-evolving-roles-in-the-age-of-autonomy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-27T04:25:51.910033Z",
+            "shown_at": [
+                "2025-10-27T04:25:52.873110Z"
             ]
         }
     ]
