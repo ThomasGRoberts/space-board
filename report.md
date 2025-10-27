@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 145 | 145 |
 | spacenews | 6 | 8 | 25 | 48 |
 | nyt | 0 | 0 | 22 | 43 |
-| breaking_defense | 0 | 0 | 21 | 43 |
+| breaking_defense | 0 | 0 | 22 | 44 |
 
 # Shown Order
 
@@ -6800,3 +6800,4 @@
 - **Oct 27, 01:09 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 27, 01:11 PM** - Space is a warfighting domain. We need wartime urgency for procurement reform. (spacenews)
 - **Oct 27, 01:27 PM** - How to See the Orionids Meteor Shower: Best Time to Watch (nyt)
+- **Oct 27, 01:41 PM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
