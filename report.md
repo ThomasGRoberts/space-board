@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 10 | 26 | 50 |
-| nyt | 0 | 0 | 22 | 43 |
+| nyt | 0 | 0 | 23 | 44 |
 | breaking_defense | 0 | 0 | 22 | 44 |
 | supercluster | 1 | 1 | 14 | 14 |
 
@@ -6696,3 +6696,4 @@
 - **Oct 27, 10:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 27, 10:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 27, 10:27 PM** - Startup takes on space-based missile defense — with its own cash (spacenews)
+- **Oct 27, 10:41 PM** - SpaceX, Sued by Cards Against Humanity, Settles Trespassing Case (nyt)
