@@ -5,7 +5,7 @@
 | spacenews | 7 | 10 | 26 | 49 |
 | nyt | 0 | 0 | 22 | 44 |
 | breaking_defense | 0 | 0 | 23 | 44 |
-| supercluster | 1 | 1 | 15 | 15 |
+| supercluster | 1 | 1 | 16 | 16 |
 
 # Shown Order
 
@@ -6699,3 +6699,4 @@
 - **Oct 27, 10:41 PM** - SpaceX, Sued by Cards Against Humanity, Settles Trespassing Case (nyt)
 - **Oct 27, 10:56 PM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
 - **Oct 27, 11:11 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 27, 11:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
