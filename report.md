@@ -2,27 +2,19 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
+| supercluster | 1 | 1 | 60 | 60 |
 | spacenews | 3 | 3 | 23 | 46 |
 | nyt | 0 | 0 | 21 | 44 |
 | breaking_defense | 0 | 0 | 21 | 44 |
-| supercluster | 1 | 1 | 59 | 59 |
 
 # Shown Order
 
-- **Jul 13, 12:47 AM** - Firefly Aerospace files to go public (spacenews)
-- **Jul 13, 08:33 AM** - Senate Armed Services’ defense bill includes mandates on space launch, missile defense, spectrum protection (spacenews)
-- **Jul 13, 12:19 PM** - Senate Armed Services’ defense bill includes mandates on space launch, missile defense, spectrum protection (spacenews)
-- **Jul 13, 02:57 PM** - Congress to push Pentagon to fund commercial satellite intelligence program (spacenews)
 - **Jul 14, 11:11 AM** - China enters race for LEO broadband dominance (spacenews)
 - **Jul 14, 11:53 AM** - Industry doubts effectiveness of new launch licensing fees (spacenews)
-- **Jul 14, 12:49 PM** - Congress to push Pentagon to fund commercial satellite intelligence program (spacenews)
 - **Jul 14, 01:03 PM** - Securing the new high ground: tackling export loopholes in space tech (spacenews)
 - **Jul 14, 01:45 PM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
 - **Jul 14, 02:47 PM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
-- **Jul 14, 04:59 PM** - Firefly Aerospace files to go public (spacenews)
 - **Jul 14, 05:41 PM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
-- **Jul 14, 05:55 PM** - Senate Armed Services’ defense bill includes mandates on space launch, missile defense, spectrum protection (spacenews)
-- **Jul 14, 06:53 PM** - Firefly Aerospace files to go public (spacenews)
 - **Jul 14, 08:33 PM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
 - **Jul 14, 08:47 PM** - China enters race for LEO broadband dominance (spacenews)
 - **Jul 14, 09:01 PM** - House bill rejects overall NASA budget cuts but shifts funding to exploration (spacenews)
@@ -40,7 +32,6 @@
 - **Jul 15, 12:59 PM** - Space Force MILNET constellation emerges as top ‘unfunded priority’ (spacenews)
 - **Jul 15, 01:15 PM** - Open letter from the Global Space Council: Governments must address a growing crisis in our orbits (spacenews)
 - **Jul 15, 01:59 PM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
-- **Jul 15, 02:14 PM** - Senate Armed Services’ defense bill includes mandates on space launch, missile defense, spectrum protection (spacenews)
 - **Jul 15, 03:11 PM** - Europe’s Space Act shows it’s getting serious about space policy (spacenews)
 - **Jul 15, 04:49 PM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
 - **Jul 15, 05:17 PM** - Frontgrade Introduces the Industry’s Highest-Density, Space-Grade Managed NAND with eMMC 5.1 Interface (spacenews)
@@ -50,9 +41,7 @@
 - **Jul 15, 10:05 PM** - Europe’s Space Act shows it’s getting serious about space policy (spacenews)
 - **Jul 15, 11:05 PM** - Support from satellite services grows to 18% of UK GDP (spacenews)
 - **Jul 16, 01:02 AM** - Europe’s Space Act shows it’s getting serious about space policy (spacenews)
-- **Jul 16, 01:57 AM** - Firefly Aerospace files to go public (spacenews)
 - **Jul 16, 03:21 AM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
-- **Jul 16, 04:31 AM** - Congress to push Pentagon to fund commercial satellite intelligence program (spacenews)
 - **Jul 16, 07:23 AM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
 - **Jul 16, 07:37 AM** - House Armed Services Committee advances FY26 NDAA  (spacenews)
 - **Jul 16, 08:33 AM** - Securing the new high ground: tackling export loopholes in space tech (spacenews)
@@ -90,7 +79,6 @@
 - **Jul 17, 03:09 AM** - Europe’s Space Act shows it’s getting serious about space policy (spacenews)
 - **Jul 17, 03:23 AM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
 - **Jul 17, 04:21 AM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
-- **Jul 17, 05:03 AM** - Congress to push Pentagon to fund commercial satellite intelligence program (spacenews)
 - **Jul 17, 05:31 AM** - SES closes Intelsat deal and sets course for rapid transformation (spacenews)
 - **Jul 17, 05:59 AM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
 - **Jul 17, 06:13 AM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
@@ -121,7 +109,6 @@
 - **Jul 17, 09:12 PM** - China launches Tianzhou-9 to Tiangong space station with record cargo and upgraded EVA suits (spacenews)
 - **Jul 17, 09:39 PM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
 - **Jul 17, 09:55 PM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
-- **Jul 17, 10:12 PM** - Senate Armed Services’ defense bill includes mandates on space launch, missile defense, spectrum protection (spacenews)
 - **Jul 17, 10:41 PM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
 - **Jul 17, 10:55 PM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
 - **Jul 17, 11:11 PM** - House Armed Services Committee advances FY26 NDAA  (spacenews)
@@ -198,7 +185,6 @@
 - **Jul 19, 01:03 AM** - Senate appropriators reject proposal to cancel TraCSS (spacenews)
 - **Jul 19, 01:31 AM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
 - **Jul 19, 01:45 AM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
-- **Jul 19, 01:59 AM** - Firefly Aerospace files to go public (spacenews)
 - **Jul 19, 02:27 AM** - Trump taps new Air Force, Space Force No. 2s (breaking_defense)
 - **Jul 19, 02:41 AM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
 - **Jul 19, 02:55 AM** - Falcon 9 launches Project Kuiper satellites (spacenews)
@@ -262,7 +248,6 @@
 - **Jul 19, 10:43 PM** - China conducts structural tests for Long March 10 human spaceflight rocket (spacenews)
 - **Jul 19, 10:57 PM** - Space Force begins testing of first OCX software blocks for GPS sats (breaking_defense)
 - **Jul 19, 11:13 PM** - Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race (nyt)
-- **Jul 19, 11:41 PM** - Senate Armed Services’ defense bill includes mandates on space launch, missile defense, spectrum protection (spacenews)
 - **Jul 19, 11:55 PM** - Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites (breaking_defense)
 - **Jul 20, 12:11 AM** - New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found (nyt)
 - **Jul 20, 12:39 AM** - Support from satellite services grows to 18% of UK GDP (spacenews)
@@ -6689,3 +6674,4 @@
 - **Oct 26, 11:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 26, 11:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 26, 11:59 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 27, 12:02 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
