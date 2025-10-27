@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 110 | 110 |
+| supercluster | 1 | 1 | 111 | 111 |
 | spacenews | 4 | 5 | 24 | 46 |
 | nyt | 0 | 0 | 22 | 44 |
 | breaking_defense | 0 | 0 | 22 | 44 |
@@ -6749,3 +6749,4 @@
 - **Oct 27, 07:17 AM** - A soft power strategy to preserve non-sovereignty from Chinese land claims on the moon  (spacenews)
 - **Oct 27, 07:32 AM** - SpaceX, Sued by Cards Against Humanity, Settles Trespassing Case (nyt)
 - **Oct 27, 07:50 AM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
+- **Oct 27, 08:08 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
