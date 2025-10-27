@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 0 | 1 | 161 | 166 |
 | spacenews | 6 | 9 | 26 | 49 |
-| nyt | 0 | 0 | 22 | 43 |
+| nyt | 0 | 0 | 23 | 44 |
 | breaking_defense | 0 | 0 | 22 | 44 |
 
 # Shown Order
@@ -6830,3 +6830,4 @@
 - **Oct 27, 04:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 27, 04:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 27, 04:37 PM** - Airbus, Leonardo and Thales agree to combine space businesses (spacenews)
+- **Oct 27, 04:51 PM** - SpaceX, Sued by Cards Against Humanity, Settles Trespassing Case (nyt)
