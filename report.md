@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 68 | 68 |
 | spacenews | 3 | 3 | 24 | 46 |
-| nyt | 0 | 0 | 22 | 44 |
+| nyt | 0 | 0 | 23 | 45 |
 | breaking_defense | 0 | 0 | 22 | 44 |
 
 # Shown Order
@@ -6686,3 +6686,4 @@
 - **Oct 27, 01:02 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 27, 01:05 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 27, 01:07 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 27, 01:09 AM** - SpaceX, Sued by Cards Against Humanity, Settles Trespassing Case (nyt)
