@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 110 | 110 |
 | spacenews | 4 | 5 | 24 | 46 |
 | nyt | 0 | 0 | 22 | 44 |
-| breaking_defense | 0 | 0 | 22 | 44 |
+| breaking_defense | 0 | 0 | 23 | 45 |
 
 # Shown Order
 
@@ -6748,3 +6748,4 @@
 - **Oct 27, 07:16 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 27, 07:17 AM** - A soft power strategy to preserve non-sovereignty from Chinese land claims on the moon  (spacenews)
 - **Oct 27, 07:32 AM** - SpaceX, Sued by Cards Against Humanity, Settles Trespassing Case (nyt)
+- **Oct 27, 07:50 AM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
