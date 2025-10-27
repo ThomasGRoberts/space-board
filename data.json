@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-27T00:02:22.478175+00:00",
-    "trigger_count": 6,
-    "current_item_id": "becc4eed5af3443d904a3cd6035f4633",
+    "trigger_count": 0,
+    "current_item_id": "6e4a7c619f2a5ddc2767d5dda083031a",
     "data": [
         {
             "id": "4beba9b243fe616fcb8e7be8d963bbc1",
@@ -12316,6 +12316,18 @@
             "fetched_datetime": "2025-10-27T10:50:01.735878Z",
             "shown_at": [
                 "2025-10-27T10:50:02.167281Z"
+            ]
+        },
+        {
+            "id": "6e4a7c619f2a5ddc2767d5dda083031a",
+            "source": "spacenews",
+            "text": "Iridium unveils chip to bring GPS protection to mass-market devices",
+            "source_link": "https://spacenews.com/iridium-unveils-chip-to-bring-gps-protection-to-mass-market-devices/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-27T12:09:55.509460Z",
+            "shown_at": [
+                "2025-10-27T12:09:56.925282Z"
             ]
         }
     ]
