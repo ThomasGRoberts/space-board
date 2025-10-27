@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-27T00:02:22.478175+00:00",
-    "trigger_count": 6,
-    "current_item_id": "290507aff350849cd2a0fbaf6c00c58b",
+    "trigger_count": 0,
+    "current_item_id": "73e856e3b5056bac432cfc5add49e9bc",
     "data": [
         {
             "id": "4beba9b243fe616fcb8e7be8d963bbc1",
@@ -12359,6 +12359,18 @@
             "fetched_datetime": "2025-10-27T13:11:48.824281Z",
             "shown_at": [
                 "2025-10-27T13:11:49.565258Z"
+            ]
+        },
+        {
+            "id": "73e856e3b5056bac432cfc5add49e9bc",
+            "source": "spacenews",
+            "text": "MTN carves out private networks for Starlink’s business users",
+            "source_link": "https://spacenews.com/mtn-carves-out-private-networks-for-starlinks-business-users/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-27T14:29:48.251354Z",
+            "shown_at": [
+                "2025-10-27T14:29:48.895621Z"
             ]
         }
     ]
