@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 61 | 61 |
-| spacenews | 3 | 3 | 23 | 45 |
+| spacenews | 3 | 3 | 24 | 46 |
 | nyt | 0 | 0 | 22 | 44 |
 | breaking_defense | 0 | 0 | 22 | 45 |
 
@@ -6678,3 +6678,4 @@
 - **Oct 27, 12:05 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 27, 12:08 AM** - George F. Smoot, Who Showed How the Cosmos Began, Is Dead at 80 (nyt)
 - **Oct 27, 12:25 AM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
+- **Oct 27, 12:39 AM** - Musk criticizes Duffy amid NASA leadership debate (spacenews)
