@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 138 | 138 |
 | spacenews | 6 | 7 | 26 | 48 |
-| nyt | 0 | 0 | 21 | 42 |
+| nyt | 0 | 0 | 22 | 43 |
 | breaking_defense | 0 | 0 | 21 | 43 |
 
 # Shown Order
@@ -6789,3 +6789,4 @@
 - **Oct 27, 11:50 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 27, 11:51 AM** - A soft power strategy to preserve non-sovereignty from Chinese land claims on the moon  (spacenews)
 - **Oct 27, 12:09 PM** - Iridium unveils chip to bring GPS protection to mass-market devices (spacenews)
+- **Oct 27, 12:25 PM** - How to See the Orionids Meteor Shower: Best Time to Watch (nyt)
