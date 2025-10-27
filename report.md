@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 131 | 131 |
 | spacenews | 5 | 6 | 25 | 47 |
 | nyt | 0 | 0 | 22 | 43 |
-| breaking_defense | 0 | 0 | 21 | 43 |
+| breaking_defense | 0 | 0 | 22 | 44 |
 
 # Shown Order
 
@@ -6779,3 +6779,4 @@
 - **Oct 27, 10:35 AM** - Startup takes on space-based missile defense — with its own cash (spacenews)
 - **Oct 27, 10:50 AM** - China launches new Gaofen-14 stereo mapping satellite (spacenews)
 - **Oct 27, 11:05 AM** - How to See the Orionids Meteor Shower: Best Time to Watch (nyt)
+- **Oct 27, 11:22 AM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
