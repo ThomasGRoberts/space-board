@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 0 | 1 | 161 | 166 |
-| spacenews | 6 | 9 | 26 | 49 |
+| spacenews | 6 | 9 | 27 | 50 |
 | nyt | 0 | 0 | 22 | 43 |
 | breaking_defense | 0 | 0 | 22 | 44 |
 
@@ -6829,3 +6829,4 @@
 - **Oct 27, 04:31 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 27, 04:33 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 27, 04:35 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 27, 04:37 PM** - Airbus, Leonardo and Thales agree to combine space businesses (spacenews)
