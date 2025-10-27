@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 0 | 1 | 161 | 187 |
-| spacenews | 6 | 9 | 26 | 49 |
+| spacenews | 6 | 9 | 27 | 50 |
 | nyt | 0 | 0 | 22 | 43 |
 | breaking_defense | 0 | 0 | 22 | 44 |
 
@@ -6859,3 +6859,4 @@
 - **Oct 27, 07:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 27, 07:26 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 27, 07:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 27, 07:29 PM** - Space is a warfighting domain. We need wartime urgency for procurement reform. (spacenews)
