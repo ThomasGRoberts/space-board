@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 103 | 103 |
-| spacenews | 4 | 5 | 24 | 47 |
-| nyt | 0 | 0 | 23 | 44 |
-| breaking_defense | 0 | 0 | 22 | 44 |
+| spacenews | 4 | 5 | 24 | 46 |
+| nyt | 0 | 0 | 22 | 44 |
+| breaking_defense | 0 | 0 | 23 | 45 |
 
 # Shown Order
 
@@ -6738,3 +6738,4 @@
 - **Oct 27, 06:10 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 27, 06:13 AM** - Vantor satellites track space objects in ‘blind spots’ inaccessible to military ground sensors (spacenews)
 - **Oct 27, 06:31 AM** - With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas (nyt)
+- **Oct 27, 06:45 AM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
