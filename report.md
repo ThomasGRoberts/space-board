@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 1 | 1 | 96 | 96 |
 | spacenews | 4 | 5 | 24 | 47 |
-| nyt | 0 | 0 | 22 | 43 |
+| nyt | 0 | 0 | 23 | 44 |
 | breaking_defense | 0 | 0 | 22 | 44 |
 
 # Shown Order
@@ -6727,3 +6727,4 @@
 - **Oct 27, 05:05 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 27, 05:07 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 27, 05:09 AM** - HEO’s satellite-to-satellite imaging uncovers secrets of Chinese tech-test spacecraft (spacenews)
+- **Oct 27, 05:25 AM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
