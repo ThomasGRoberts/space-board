@@ -5,7 +5,7 @@
 | supercluster | 1 | 1 | 75 | 75 |
 | spacenews | 2 | 3 | 23 | 46 |
 | nyt | 0 | 0 | 23 | 44 |
-| breaking_defense | 0 | 0 | 22 | 44 |
+| breaking_defense | 0 | 0 | 23 | 45 |
 
 # Shown Order
 
@@ -6697,3 +6697,4 @@
 - **Oct 27, 02:02 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 27, 02:05 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 27, 02:07 AM** - With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas (nyt)
+- **Oct 27, 02:21 AM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
