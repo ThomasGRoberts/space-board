@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 0 | 1 | 160 | 194 |
+| supercluster | 0 | 1 | 159 | 194 |
 | spacenews | 6 | 9 | 26 | 49 |
 | nyt | 0 | 0 | 23 | 44 |
-| breaking_defense | 0 | 0 | 22 | 44 |
+| breaking_defense | 0 | 0 | 23 | 44 |
 
 # Shown Order
 
@@ -6871,3 +6871,4 @@
 - **Oct 27, 08:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 27, 08:29 PM** - The next space race will be won at night (spacenews)
 - **Oct 27, 08:43 PM** - How to See the Orionids Meteor Shower: Best Time to Watch (nyt)
+- **Oct 27, 08:57 PM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
