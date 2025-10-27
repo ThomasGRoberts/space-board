@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | supercluster | 0 | 1 | 161 | 180 |
 | spacenews | 6 | 9 | 26 | 49 |
-| nyt | 0 | 0 | 22 | 43 |
+| nyt | 0 | 0 | 23 | 44 |
 | breaking_defense | 0 | 0 | 22 | 44 |
 
 # Shown Order
@@ -6850,3 +6850,4 @@
 - **Oct 27, 06:28 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 27, 06:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 27, 06:32 PM** - Chinese launch firms Space Pioneer and Galactic Energy move toward IPOs (spacenews)
+- **Oct 27, 06:45 PM** - How to See the Orionids Meteor Shower: Best Time to Watch (nyt)
