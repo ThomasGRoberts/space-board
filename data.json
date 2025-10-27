@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-27T00:02:22.478175+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "b0ac4e4661a98dae154e7b43d4bca04c",
     "data": [
         {
             "id": "41b4bb93af8d1b14b5168519fb567dc4",
@@ -12246,6 +12246,18 @@
                 "2025-10-27T21:23:40.675857Z",
                 "2025-10-27T21:25:54.205452Z",
                 "2025-10-27T21:27:33.368344Z"
+            ]
+        },
+        {
+            "id": "b0ac4e4661a98dae154e7b43d4bca04c",
+            "source": "spacenews",
+            "text": "Voyager Technologies Acquires ExoTerra Resources",
+            "source_link": "https://spacenews.com/voyager-technologies-acquires-exoterra-resources/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-27T21:29:41.113785Z",
+            "shown_at": [
+                "2025-10-27T21:29:41.876128Z"
             ]
         }
     ]
