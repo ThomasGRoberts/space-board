@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| supercluster | 1 | 1 | 83 | 83 |
+| supercluster | 1 | 1 | 84 | 84 |
 | spacenews | 2 | 3 | 24 | 46 |
 | nyt | 0 | 0 | 22 | 44 |
 | breaking_defense | 0 | 0 | 22 | 44 |
@@ -6710,3 +6710,4 @@
 - **Oct 27, 03:21 AM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
 - **Oct 27, 03:38 AM** - Orion installed on SLS as Artemis 2 preparations continue during shutdown (spacenews)
 - **Oct 27, 03:56 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 27, 03:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
