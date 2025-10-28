@@ -5,7 +5,7 @@
 | spacenews | 3 | 10 | 24 | 50 |
 | nyt | 0 | 0 | 24 | 45 |
 | breaking_defense | 0 | 0 | 23 | 44 |
-| supercluster | 1 | 1 | 89 | 89 |
+| supercluster | 1 | 1 | 90 | 90 |
 
 # Shown Order
 
@@ -6727,3 +6727,4 @@
 - **Oct 28, 02:09 PM** - SpaceX, Sued by Cards Against Humanity, Settles Trespassing Case (nyt)
 - **Oct 28, 02:25 PM** - Iridium unveils chip to bring GPS protection to mass-market devices (spacenews)
 - **Oct 28, 02:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 28, 02:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
