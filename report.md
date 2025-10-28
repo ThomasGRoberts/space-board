@@ -5,7 +5,7 @@
 | spacenews | 7 | 9 | 26 | 49 |
 | nyt | 0 | 0 | 22 | 44 |
 | breaking_defense | 0 | 0 | 21 | 44 |
-| supercluster | 1 | 1 | 12 | 12 |
+| supercluster | 1 | 1 | 13 | 13 |
 
 # Shown Order
 
@@ -6616,3 +6616,4 @@
 - **Oct 28, 03:02 AM** - Airbus, Leonardo and Thales agree to combine space businesses (spacenews)
 - **Oct 28, 03:17 AM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
 - **Oct 28, 03:31 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 28, 03:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
