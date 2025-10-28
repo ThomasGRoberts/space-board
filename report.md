@@ -5,7 +5,7 @@
 | spacenews | 4 | 10 | 24 | 50 |
 | nyt | 0 | 0 | 24 | 46 |
 | breaking_defense | 0 | 0 | 23 | 45 |
-| supercluster | 1 | 1 | 102 | 102 |
+| supercluster | 1 | 1 | 103 | 103 |
 
 # Shown Order
 
@@ -6746,3 +6746,4 @@
 - **Oct 28, 04:03 PM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
 - **Oct 28, 04:19 PM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
 - **Oct 28, 04:35 PM** - Slingshot sells first sensors in UK deal as more nations seek space-tracking sovereignty (spacenews)
+- **Oct 28, 04:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
