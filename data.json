@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-28T00:02:23.571720+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a6a5c79ca90de3d69b1a364954f8422e",
+    "trigger_count": 0,
+    "current_item_id": "963c7a2dafc6db136f1cae750392bb3c",
     "data": [
         {
             "id": "b0ac4e4661a98dae154e7b43d4bca04c",
@@ -12322,9 +12322,12 @@
             "source": "spacenews",
             "text": "Cambrian Works Announces Partnership with Aptos Orbital to Integrate the GigRouter and Aptos Terminal",
             "source_link": "https://spacenews.com/cambrian-works-announces-partnership-with-aptos-orbital-to-integrate-the-gigrouter-and-aptos-terminal/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-10-28T19:39:34.919875Z"
+            "fetched_datetime": "2025-10-28T19:39:34.919875Z",
+            "shown_at": [
+                "2025-10-28T19:53:50.336861Z"
+            ]
         }
     ]
 }

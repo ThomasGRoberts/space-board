@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 24 | 50 |
+| spacenews | 6 | 12 | 25 | 51 |
 | nyt | 0 | 0 | 23 | 46 |
 | breaking_defense | 0 | 0 | 23 | 45 |
 | supercluster | 1 | 1 | 123 | 123 |
@@ -6776,3 +6776,4 @@
 - **Oct 28, 07:06 PM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
 - **Oct 28, 07:23 PM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
 - **Oct 28, 07:39 PM** - FCC proposes ‘licensing assembly line’ to accelerate satellite approvals (spacenews)
+- **Oct 28, 07:53 PM** - Cambrian Works Announces Partnership with Aptos Orbital to Integrate the GigRouter and Aptos Terminal (spacenews)
