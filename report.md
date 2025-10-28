@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 25 | 51 |
-| nyt | 0 | 0 | 23 | 46 |
+| nyt | 0 | 0 | 23 | 45 |
 | breaking_defense | 0 | 0 | 22 | 45 |
-| supercluster | 1 | 1 | 123 | 123 |
+| supercluster | 1 | 1 | 124 | 124 |
 
 # Shown Order
 
@@ -6777,3 +6777,4 @@
 - **Oct 28, 07:23 PM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
 - **Oct 28, 07:39 PM** - FCC proposes ‘licensing assembly line’ to accelerate satellite approvals (spacenews)
 - **Oct 28, 07:53 PM** - Cambrian Works Announces Partnership with Aptos Orbital to Integrate the GigRouter and Aptos Terminal (spacenews)
+- **Oct 28, 08:09 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
