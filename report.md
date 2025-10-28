@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 9 | 26 | 49 |
-| nyt | 0 | 0 | 22 | 45 |
+| nyt | 0 | 0 | 22 | 44 |
 | breaking_defense | 0 | 0 | 21 | 44 |
-| supercluster | 1 | 1 | 11 | 11 |
+| supercluster | 1 | 1 | 12 | 12 |
 
 # Shown Order
 
@@ -6615,3 +6615,4 @@
 - **Oct 28, 02:47 AM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
 - **Oct 28, 03:02 AM** - Airbus, Leonardo and Thales agree to combine space businesses (spacenews)
 - **Oct 28, 03:17 AM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
+- **Oct 28, 03:31 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
