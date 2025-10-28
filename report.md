@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 10 | 24 | 50 |
-| nyt | 0 | 0 | 24 | 46 |
+| nyt | 0 | 0 | 23 | 46 |
 | breaking_defense | 0 | 0 | 23 | 45 |
-| supercluster | 1 | 1 | 104 | 104 |
+| supercluster | 1 | 1 | 105 | 105 |
 
 # Shown Order
 
@@ -6748,3 +6748,4 @@
 - **Oct 28, 04:35 PM** - Slingshot sells first sensors in UK deal as more nations seek space-tracking sovereignty (spacenews)
 - **Oct 28, 04:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 28, 04:51 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 28, 04:53 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
