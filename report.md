@@ -5,7 +5,7 @@
 | spacenews | 6 | 12 | 25 | 51 |
 | nyt | 0 | 0 | 23 | 45 |
 | breaking_defense | 0 | 0 | 22 | 45 |
-| supercluster | 1 | 1 | 124 | 124 |
+| supercluster | 1 | 1 | 125 | 125 |
 
 # Shown Order
 
@@ -6778,3 +6778,4 @@
 - **Oct 28, 07:39 PM** - FCC proposes ‘licensing assembly line’ to accelerate satellite approvals (spacenews)
 - **Oct 28, 07:53 PM** - Cambrian Works Announces Partnership with Aptos Orbital to Integrate the GigRouter and Aptos Terminal (spacenews)
 - **Oct 28, 08:09 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 28, 08:11 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
