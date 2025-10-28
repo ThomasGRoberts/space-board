@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 9 | 26 | 49 |
+| spacenews | 6 | 9 | 25 | 49 |
 | nyt | 0 | 0 | 22 | 45 |
 | breaking_defense | 0 | 0 | 22 | 44 |
-| supercluster | 1 | 1 | 18 | 18 |
+| supercluster | 1 | 1 | 19 | 19 |
 
 # Shown Order
 
@@ -6625,3 +6625,4 @@
 - **Oct 28, 03:45 AM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
 - **Oct 28, 04:00 AM** - Lynk Global and Omnispace to merge in race for direct-to-device satellite spectrum (spacenews)
 - **Oct 28, 04:14 AM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
+- **Oct 28, 04:27 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
