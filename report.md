@@ -5,7 +5,7 @@
 | spacenews | 6 | 10 | 26 | 50 |
 | nyt | 0 | 0 | 22 | 45 |
 | breaking_defense | 0 | 0 | 22 | 44 |
-| supercluster | 1 | 1 | 25 | 25 |
+| supercluster | 1 | 1 | 26 | 26 |
 
 # Shown Order
 
@@ -6636,3 +6636,4 @@
 - **Oct 28, 04:55 AM** - Landspace begins final preparations for China’s first orbital launch and landing attempt (spacenews)
 - **Oct 28, 05:09 AM** - SpaceX, Sued by Cards Against Humanity, Settles Trespassing Case (nyt)
 - **Oct 28, 05:23 AM** - Malaysia and the Philippines sign Artemis Accords (spacenews)
+- **Oct 28, 05:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
