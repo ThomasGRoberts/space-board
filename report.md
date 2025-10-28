@@ -5,7 +5,7 @@
 | spacenews | 6 | 10 | 26 | 50 |
 | nyt | 0 | 0 | 22 | 45 |
 | breaking_defense | 0 | 0 | 22 | 44 |
-| supercluster | 1 | 1 | 34 | 34 |
+| supercluster | 1 | 1 | 35 | 35 |
 
 # Shown Order
 
@@ -6648,3 +6648,4 @@
 - **Oct 28, 06:19 AM** - Lockheed Martin Ventures invests in rocket propulsion startup Venus Aerospace (spacenews)
 - **Oct 28, 06:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 28, 06:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 28, 06:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
