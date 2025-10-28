@@ -5,7 +5,7 @@
 | spacenews | 6 | 10 | 26 | 50 |
 | nyt | 0 | 0 | 23 | 45 |
 | breaking_defense | 0 | 0 | 22 | 44 |
-| supercluster | 1 | 1 | 53 | 53 |
+| supercluster | 1 | 1 | 54 | 54 |
 
 # Shown Order
 
@@ -6676,3 +6676,4 @@
 - **Oct 28, 08:53 AM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
 - **Oct 28, 09:09 AM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
 - **Oct 28, 09:23 AM** - From Analyst to AI Orchestrator: Evolving Roles in the Age of Autonomy (spacenews)
+- **Oct 28, 09:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
