@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-28T00:02:23.571720+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f5d13af9828e10a7c420355f667287bb",
+    "trigger_count": 0,
+    "current_item_id": "cc31225124706aed20f70f08f0e162fe",
     "data": [
         {
             "id": "b0ac4e4661a98dae154e7b43d4bca04c",
@@ -12262,6 +12262,18 @@
             "fetched_datetime": "2025-10-28T11:19:35.458984Z",
             "shown_at": [
                 "2025-10-28T11:19:36.126811Z"
+            ]
+        },
+        {
+            "id": "cc31225124706aed20f70f08f0e162fe",
+            "source": "spacenews",
+            "text": "Slingshot sells first sensors in UK deal as more nations seek space-tracking sovereignty",
+            "source_link": "https://spacenews.com/slingshot-sells-first-sensors-in-uk-deal-as-more-nations-seek-space-tracking-sovereignty/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-28T16:35:35.915572Z",
+            "shown_at": [
+                "2025-10-28T16:35:36.660972Z"
             ]
         }
     ]
