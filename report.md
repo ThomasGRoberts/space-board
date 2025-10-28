@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 10 | 26 | 49 |
-| supercluster | 1 | 1 | 22 | 22 |
 | nyt | 0 | 0 | 22 | 44 |
 | breaking_defense | 0 | 0 | 23 | 44 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -6587,34 +6587,13 @@
 - **Oct 27, 08:29 PM** - The next space race will be won at night (spacenews)
 - **Oct 27, 08:43 PM** - How to See the Orionids Meteor Shower: Best Time to Watch (nyt)
 - **Oct 27, 08:57 PM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
-- **Oct 27, 09:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Oct 27, 09:17 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Oct 27, 09:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Oct 27, 09:21 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Oct 27, 09:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Oct 27, 09:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Oct 27, 09:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 27, 09:29 PM** - Voyager Technologies Acquires ExoTerra Resources (spacenews)
 - **Oct 27, 09:43 PM** - George F. Smoot, Who Showed How the Cosmos Began, Is Dead at 80 (nyt)
 - **Oct 27, 09:57 PM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
-- **Oct 27, 10:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Oct 27, 10:15 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Oct 27, 10:17 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Oct 27, 10:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Oct 27, 10:21 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Oct 27, 10:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Oct 27, 10:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 27, 10:27 PM** - Startup takes on space-based missile defense — with its own cash (spacenews)
 - **Oct 27, 10:41 PM** - SpaceX, Sued by Cards Against Humanity, Settles Trespassing Case (nyt)
 - **Oct 27, 10:56 PM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
-- **Oct 27, 11:11 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Oct 27, 11:13 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Oct 27, 11:16 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Oct 27, 11:17 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Oct 27, 11:19 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Oct 27, 11:22 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Oct 27, 11:23 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 27, 11:25 PM** - Airbus, Leonardo and Thales agree to combine space businesses (spacenews)
 - **Oct 27, 11:39 PM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
 - **Oct 27, 11:53 PM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
-- **Oct 28, 12:09 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 28, 12:11 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
