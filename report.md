@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 10 | 26 | 50 |
-| nyt | 0 | 0 | 22 | 45 |
+| nyt | 0 | 0 | 22 | 44 |
 | breaking_defense | 0 | 0 | 22 | 44 |
-| supercluster | 1 | 1 | 27 | 27 |
+| supercluster | 1 | 1 | 28 | 28 |
 
 # Shown Order
 
@@ -6638,3 +6638,4 @@
 - **Oct 28, 05:23 AM** - Malaysia and the Philippines sign Artemis Accords (spacenews)
 - **Oct 28, 05:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 28, 05:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 28, 05:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
