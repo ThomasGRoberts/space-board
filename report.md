@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 10 | 24 | 49 |
+| spacenews | 4 | 10 | 25 | 50 |
 | nyt | 0 | 0 | 24 | 45 |
 | breaking_defense | 0 | 0 | 23 | 44 |
 | supercluster | 1 | 1 | 88 | 88 |
@@ -6725,3 +6725,4 @@
 - **Oct 28, 01:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 28, 01:51 PM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
 - **Oct 28, 02:09 PM** - SpaceX, Sued by Cards Against Humanity, Settles Trespassing Case (nyt)
+- **Oct 28, 02:25 PM** - Iridium unveils chip to bring GPS protection to mass-market devices (spacenews)
