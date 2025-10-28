@@ -1,9 +1,129 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-10-27T00:02:22.478175+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2025-10-28T00:02:23.571720+00:00",
+    "trigger_count": 4,
     "current_item_id": "d59d017df20c7a981ee1eafcdc9cff15",
     "data": [
+        {
+            "id": "b0ac4e4661a98dae154e7b43d4bca04c",
+            "source": "spacenews",
+            "text": "Voyager Technologies Acquires ExoTerra Resources",
+            "source_link": "https://spacenews.com/voyager-technologies-acquires-exoterra-resources/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-27T21:29:41.113785Z",
+            "shown_at": [
+                "2025-10-27T21:29:41.876128Z"
+            ]
+        },
+        {
+            "id": "4beba9b243fe616fcb8e7be8d963bbc1",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Starlink Satellites from California",
+            "source_link": "https://www.supercluster.com/launches/starlink-11-21",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-10-28T00:10:00.000Z",
+            "time_remaining": "0d 00h 46m",
+            "fetched_datetime": "2025-10-27T21:15:40.066431Z",
+            "shown_at": [
+                "2025-10-27T21:15:40.794320Z",
+                "2025-10-27T21:17:27.539347Z",
+                "2025-10-27T21:19:34.089396Z",
+                "2025-10-27T21:21:15.821166Z",
+                "2025-10-27T21:23:40.675857Z",
+                "2025-10-27T21:25:54.205452Z",
+                "2025-10-27T21:27:33.368344Z",
+                "2025-10-27T22:13:47.213890Z",
+                "2025-10-27T22:15:47.234978Z",
+                "2025-10-27T22:17:44.893357Z",
+                "2025-10-27T22:19:50.864361Z",
+                "2025-10-27T22:21:56.533138Z",
+                "2025-10-27T22:23:34.588472Z",
+                "2025-10-27T22:25:41.135957Z",
+                "2025-10-27T23:11:45.525205Z",
+                "2025-10-27T23:13:36.855164Z",
+                "2025-10-27T23:16:05.497651Z",
+                "2025-10-27T23:17:31.322115Z",
+                "2025-10-27T23:19:39.505803Z",
+                "2025-10-27T23:22:00.120257Z",
+                "2025-10-27T23:23:41.396264Z"
+            ]
+        },
+        {
+            "id": "73e856e3b5056bac432cfc5add49e9bc",
+            "source": "spacenews",
+            "text": "MTN carves out private networks for Starlink’s business users",
+            "source_link": "https://spacenews.com/mtn-carves-out-private-networks-for-starlinks-business-users/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-27T14:29:48.251354Z",
+            "shown_at": [
+                "2025-10-27T14:29:48.895621Z"
+            ]
+        },
+        {
+            "id": "ae34eaf18238e78728835427007264b6",
+            "source": "spacenews",
+            "text": "Space is a warfighting domain. We need wartime urgency for procurement reform.",
+            "source_link": "https://spacenews.com/space-is-a-warfighting-domain-we-need-wartime-urgency-for-procurement-reform/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-27T13:11:48.824281Z",
+            "shown_at": [
+                "2025-10-27T13:11:49.565258Z",
+                "2025-10-27T19:29:46.337652Z"
+            ]
+        },
+        {
+            "id": "6e4a7c619f2a5ddc2767d5dda083031a",
+            "source": "spacenews",
+            "text": "Iridium unveils chip to bring GPS protection to mass-market devices",
+            "source_link": "https://spacenews.com/iridium-unveils-chip-to-bring-gps-protection-to-mass-market-devices/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-27T12:09:55.509460Z",
+            "shown_at": [
+                "2025-10-27T12:09:56.925282Z"
+            ]
+        },
+        {
+            "id": "60eaff9516292ab9e3fe50664ceafb50",
+            "source": "spacenews",
+            "text": "China launches new Gaofen-14 stereo mapping satellite",
+            "source_link": "https://spacenews.com/china-launches-new-gaofen-14-stereo-mapping-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-27T10:50:01.735878Z",
+            "shown_at": [
+                "2025-10-27T10:50:02.167281Z"
+            ]
+        },
+        {
+            "id": "d4acba5953f0960b69128b6fc4f81d15",
+            "source": "spacenews",
+            "text": "HEO’s satellite-to-satellite imaging uncovers secrets of Chinese tech-test spacecraft",
+            "source_link": "https://spacenews.com/heos-satellite-to-satellite-imaging-uncovers-secrets-of-chinese-tech-test-spacecraft/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-27T05:09:34.747981Z",
+            "shown_at": [
+                "2025-10-27T05:09:35.344457Z",
+                "2025-10-27T15:41:48.911127Z"
+            ]
+        },
+        {
+            "id": "e9093eee3150cfc21d4f662f753cd494",
+            "source": "spacenews",
+            "text": "From Analyst to AI Orchestrator: Evolving Roles in the Age of Autonomy",
+            "source_link": "https://spacenews.com/from-analyst-to-ai-orchestrator-evolving-roles-in-the-age-of-autonomy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-27T04:25:51.910033Z",
+            "shown_at": [
+                "2025-10-27T04:25:52.873110Z"
+            ]
+        },
         {
             "id": "41b4bb93af8d1b14b5168519fb567dc4",
             "source": "spacenews",
@@ -11992,294 +12112,6 @@
                 "2025-07-17T03:09:47.009434Z",
                 "2025-07-17T20:15:45.783834Z",
                 "2025-07-18T00:09:36.971835Z"
-            ]
-        },
-        {
-            "id": "9b033d7567a7ae6d6b6b7415843b122c",
-            "source": "spacenews",
-            "text": "China launches Tianzhou-9 to Tiangong space station with record cargo and upgraded EVA suits",
-            "source_link": "https://spacenews.com/china-launches-tianzhou-9-to-tiangong-space-station-with-record-cargo-and-upgraded-eva-suits/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-14T22:55:40.819261Z",
-            "shown_at": [
-                "2025-07-14T23:09:39.712523Z",
-                "2025-07-15T04:53:34.256976Z",
-                "2025-07-17T21:12:04.288431Z",
-                "2025-07-18T14:51:38.849232Z",
-                "2025-07-20T01:40:01.934721Z"
-            ]
-        },
-        {
-            "id": "117d778027569f1ec6e2021fa70295ba",
-            "source": "spacenews",
-            "text": "SES to close Intelsat deal July 17 after clearing all regulatory approvals",
-            "source_link": "https://spacenews.com/ses-to-close-intelsat-deal-july-17-after-clearing-all-regulatory-approvals/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-14T22:55:40.819208Z",
-            "shown_at": [
-                "2025-07-14T22:55:41.714344Z",
-                "2025-07-19T09:21:51.634113Z",
-                "2025-07-20T06:27:34.997112Z",
-                "2025-07-21T14:18:06.433929Z",
-                "2025-07-21T19:17:50.171736Z"
-            ]
-        },
-        {
-            "id": "62a15926a215155f26a88a24543b1855",
-            "source": "spacenews",
-            "text": "House bill rejects overall NASA budget cuts but shifts funding to exploration",
-            "source_link": "https://spacenews.com/house-bill-rejects-overall-nasa-budget-cuts-but-shifts-funding-to-exploration/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-14T21:01:55.452967Z",
-            "shown_at": [
-                "2025-07-14T21:01:56.979966Z",
-                "2025-07-15T18:17:33.452694Z",
-                "2025-07-20T23:56:14.351835Z"
-            ]
-        },
-        {
-            "id": "d1abf248c99405ea19fa0801bdcb5ca6",
-            "source": "nyt",
-            "text": "Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race",
-            "source_link": "https://www.nytimes.com/2025/07/14/science/apollo-soyuz-test-project-1975-anniversary.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-14T13:45:43.479308Z",
-            "shown_at": [
-                "2025-07-14T13:45:44.987365Z",
-                "2025-07-14T14:47:31.913564Z",
-                "2025-07-14T17:41:48.059374Z",
-                "2025-07-14T20:33:57.115418Z",
-                "2025-07-14T23:23:35.045113Z",
-                "2025-07-15T02:27:45.667994Z",
-                "2025-07-15T03:23:41.995349Z",
-                "2025-07-15T05:21:46.397218Z",
-                "2025-07-15T08:27:54.669424Z",
-                "2025-07-15T13:59:38.069777Z",
-                "2025-07-15T16:49:36.325271Z",
-                "2025-07-15T18:59:34.341249Z",
-                "2025-07-15T20:53:46.026737Z",
-                "2025-07-16T03:21:55.622766Z",
-                "2025-07-16T07:23:41.134697Z",
-                "2025-07-16T10:27:56.849906Z",
-                "2025-07-16T19:19:41.665509Z",
-                "2025-07-16T21:11:39.595044Z",
-                "2025-07-16T22:07:37.923247Z",
-                "2025-07-17T07:51:41.140527Z",
-                "2025-07-17T22:55:36.006196Z",
-                "2025-07-18T03:43:29.256959Z",
-                "2025-07-18T12:57:30.365670Z",
-                "2025-07-18T15:07:44.565338Z",
-                "2025-07-18T16:59:31.114268Z",
-                "2025-07-18T22:57:48.012958Z",
-                "2025-07-19T00:49:47.048288Z",
-                "2025-07-19T05:15:40.198907Z",
-                "2025-07-19T07:11:52.489163Z",
-                "2025-07-19T09:07:36.747429Z",
-                "2025-07-19T11:17:38.506651Z",
-                "2025-07-19T12:13:44.709150Z",
-                "2025-07-19T14:17:29.949671Z",
-                "2025-07-19T16:15:37.176037Z",
-                "2025-07-19T17:11:27.752141Z",
-                "2025-07-19T19:23:35.737853Z",
-                "2025-07-19T20:22:00.708371Z",
-                "2025-07-19T22:15:41.465682Z",
-                "2025-07-19T23:13:59.464727Z",
-                "2025-07-20T02:09:51.733758Z",
-                "2025-07-20T03:07:49.506078Z",
-                "2025-07-20T04:03:41.419994Z",
-                "2025-07-20T05:03:37.039461Z",
-                "2025-07-20T07:53:53.205960Z",
-                "2025-07-20T08:55:46.226861Z",
-                "2025-07-20T11:45:33.991013Z",
-                "2025-07-20T13:43:41.287193Z",
-                "2025-07-20T14:42:51.006488Z",
-                "2025-07-20T15:43:38.731666Z",
-                "2025-07-20T17:37:57.121371Z",
-                "2025-07-20T18:33:48.282965Z",
-                "2025-07-20T20:33:41.748764Z",
-                "2025-07-20T22:29:55.312703Z",
-                "2025-07-21T02:23:44.143737Z",
-                "2025-07-21T03:20:27.646829Z",
-                "2025-07-21T04:18:41.064862Z",
-                "2025-07-21T05:17:55.542332Z",
-                "2025-07-21T06:17:50.511482Z",
-                "2025-07-21T07:30:19.399101Z",
-                "2025-07-21T10:32:00.789577Z",
-                "2025-07-21T11:27:50.006668Z",
-                "2025-07-21T12:24:07.172010Z"
-            ]
-        },
-        {
-            "id": "20cfbf0513bce829651e483167d833a0",
-            "source": "spacenews",
-            "text": "Securing the new high ground: tackling export loopholes in space tech",
-            "source_link": "https://spacenews.com/securing-the-new-high-ground-tackling-export-loopholes-in-space-tech/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-14T13:03:34.662422Z",
-            "shown_at": [
-                "2025-07-14T13:03:35.270750Z",
-                "2025-07-16T08:33:30.124340Z",
-                "2025-07-16T21:25:38.511742Z",
-                "2025-07-18T19:23:45.609852Z"
-            ]
-        },
-        {
-            "id": "e9e5fd69eb55455ab68db4729437381d",
-            "source": "spacenews",
-            "text": "Industry doubts effectiveness of new launch licensing fees",
-            "source_link": "https://spacenews.com/industry-doubts-effectiveness-of-new-launch-licensing-fees/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-14T11:53:41.158089Z",
-            "shown_at": [
-                "2025-07-14T11:53:41.806094Z",
-                "2025-07-16T10:13:18.804445Z",
-                "2025-07-16T14:17:31.222354Z",
-                "2025-07-17T02:09:31.272928Z"
-            ]
-        },
-        {
-            "id": "ba758aadfd792c324669fb62b5e6264f",
-            "source": "spacenews",
-            "text": "China enters race for LEO broadband dominance",
-            "source_link": "https://spacenews.com/china-enters-race-for-leo-broadband-dominance/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-14T11:11:38.639981Z",
-            "shown_at": [
-                "2025-07-14T11:11:39.223826Z",
-                "2025-07-14T20:47:41.670337Z",
-                "2025-07-16T18:35:41.820218Z",
-                "2025-07-18T08:05:37.016460Z",
-                "2025-07-18T23:11:55.689710Z",
-                "2025-07-20T14:13:49.673125Z",
-                "2025-07-20T19:02:08.636595Z",
-                "2025-07-21T00:58:08.702159Z"
-            ]
-        },
-        {
-            "id": "e9093eee3150cfc21d4f662f753cd494",
-            "source": "spacenews",
-            "text": "From Analyst to AI Orchestrator: Evolving Roles in the Age of Autonomy",
-            "source_link": "https://spacenews.com/from-analyst-to-ai-orchestrator-evolving-roles-in-the-age-of-autonomy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-27T04:25:51.910033Z",
-            "shown_at": [
-                "2025-10-27T04:25:52.873110Z"
-            ]
-        },
-        {
-            "id": "d4acba5953f0960b69128b6fc4f81d15",
-            "source": "spacenews",
-            "text": "HEO’s satellite-to-satellite imaging uncovers secrets of Chinese tech-test spacecraft",
-            "source_link": "https://spacenews.com/heos-satellite-to-satellite-imaging-uncovers-secrets-of-chinese-tech-test-spacecraft/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-27T05:09:34.747981Z",
-            "shown_at": [
-                "2025-10-27T05:09:35.344457Z",
-                "2025-10-27T15:41:48.911127Z"
-            ]
-        },
-        {
-            "id": "60eaff9516292ab9e3fe50664ceafb50",
-            "source": "spacenews",
-            "text": "China launches new Gaofen-14 stereo mapping satellite",
-            "source_link": "https://spacenews.com/china-launches-new-gaofen-14-stereo-mapping-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-27T10:50:01.735878Z",
-            "shown_at": [
-                "2025-10-27T10:50:02.167281Z"
-            ]
-        },
-        {
-            "id": "6e4a7c619f2a5ddc2767d5dda083031a",
-            "source": "spacenews",
-            "text": "Iridium unveils chip to bring GPS protection to mass-market devices",
-            "source_link": "https://spacenews.com/iridium-unveils-chip-to-bring-gps-protection-to-mass-market-devices/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-27T12:09:55.509460Z",
-            "shown_at": [
-                "2025-10-27T12:09:56.925282Z"
-            ]
-        },
-        {
-            "id": "ae34eaf18238e78728835427007264b6",
-            "source": "spacenews",
-            "text": "Space is a warfighting domain. We need wartime urgency for procurement reform.",
-            "source_link": "https://spacenews.com/space-is-a-warfighting-domain-we-need-wartime-urgency-for-procurement-reform/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-27T13:11:48.824281Z",
-            "shown_at": [
-                "2025-10-27T13:11:49.565258Z",
-                "2025-10-27T19:29:46.337652Z"
-            ]
-        },
-        {
-            "id": "73e856e3b5056bac432cfc5add49e9bc",
-            "source": "spacenews",
-            "text": "MTN carves out private networks for Starlink’s business users",
-            "source_link": "https://spacenews.com/mtn-carves-out-private-networks-for-starlinks-business-users/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-27T14:29:48.251354Z",
-            "shown_at": [
-                "2025-10-27T14:29:48.895621Z"
-            ]
-        },
-        {
-            "id": "4beba9b243fe616fcb8e7be8d963bbc1",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from California",
-            "source_link": "https://www.supercluster.com/launches/starlink-11-21",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-10-28T00:10:00.000Z",
-            "time_remaining": "0d 00h 46m",
-            "fetched_datetime": "2025-10-27T21:15:40.066431Z",
-            "shown_at": [
-                "2025-10-27T21:15:40.794320Z",
-                "2025-10-27T21:17:27.539347Z",
-                "2025-10-27T21:19:34.089396Z",
-                "2025-10-27T21:21:15.821166Z",
-                "2025-10-27T21:23:40.675857Z",
-                "2025-10-27T21:25:54.205452Z",
-                "2025-10-27T21:27:33.368344Z",
-                "2025-10-27T22:13:47.213890Z",
-                "2025-10-27T22:15:47.234978Z",
-                "2025-10-27T22:17:44.893357Z",
-                "2025-10-27T22:19:50.864361Z",
-                "2025-10-27T22:21:56.533138Z",
-                "2025-10-27T22:23:34.588472Z",
-                "2025-10-27T22:25:41.135957Z",
-                "2025-10-27T23:11:45.525205Z",
-                "2025-10-27T23:13:36.855164Z",
-                "2025-10-27T23:16:05.497651Z",
-                "2025-10-27T23:17:31.322115Z",
-                "2025-10-27T23:19:39.505803Z",
-                "2025-10-27T23:22:00.120257Z",
-                "2025-10-27T23:23:41.396264Z"
-            ]
-        },
-        {
-            "id": "b0ac4e4661a98dae154e7b43d4bca04c",
-            "source": "spacenews",
-            "text": "Voyager Technologies Acquires ExoTerra Resources",
-            "source_link": "https://spacenews.com/voyager-technologies-acquires-exoterra-resources/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-27T21:29:41.113785Z",
-            "shown_at": [
-                "2025-10-27T21:29:41.876128Z"
             ]
         }
     ]
