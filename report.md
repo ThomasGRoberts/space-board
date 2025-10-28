@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 10 | 25 | 50 |
 | nyt | 0 | 0 | 23 | 45 |
-| breaking_defense | 0 | 0 | 23 | 44 |
-| supercluster | 1 | 1 | 84 | 84 |
+| breaking_defense | 0 | 0 | 22 | 44 |
+| supercluster | 1 | 1 | 85 | 85 |
 
 # Shown Order
 
@@ -6719,3 +6719,4 @@
 - **Oct 28, 01:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 28, 01:39 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 28, 01:41 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 28, 01:43 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
