@@ -5,7 +5,7 @@
 | spacenews | 5 | 11 | 25 | 50 |
 | nyt | 0 | 0 | 23 | 45 |
 | breaking_defense | 0 | 0 | 23 | 44 |
-| supercluster | 1 | 1 | 75 | 75 |
+| supercluster | 1 | 1 | 76 | 76 |
 
 # Shown Order
 
@@ -6707,3 +6707,4 @@
 - **Oct 28, 12:05 PM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
 - **Oct 28, 12:20 PM** - Malaysia and the Philippines sign Artemis Accords (spacenews)
 - **Oct 28, 12:35 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 28, 12:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
