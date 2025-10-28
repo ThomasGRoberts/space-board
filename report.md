@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 9 | 25 | 49 |
 | nyt | 0 | 0 | 22 | 44 |
-| breaking_defense | 0 | 0 | 21 | 44 |
+| breaking_defense | 0 | 0 | 21 | 43 |
 | supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
@@ -6598,4 +6598,4 @@
 - **Oct 27, 11:53 PM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
 - **Oct 28, 12:25 AM** - Ion-X to supply upgraded thruster for Univity’s VLEO 5G constellation (spacenews)
 - **Oct 28, 12:39 AM** - SpaceX, Sued by Cards Against Humanity, Settles Trespassing Case (nyt)
-- **Oct 28, 01:39 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 28, 01:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
