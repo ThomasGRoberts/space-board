@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-28T00:02:23.571720+00:00",
-    "trigger_count": 6,
-    "current_item_id": "33fcd6d7238a83b6905574344753ff41",
+    "trigger_count": 0,
+    "current_item_id": "075a6bd68f1ea4a6b986f1c072d9940d",
     "data": [
         {
             "id": "b0ac4e4661a98dae154e7b43d4bca04c",
@@ -12130,6 +12130,18 @@
                 "2025-10-28T04:35:33.096940Z",
                 "2025-10-28T04:37:36.969375Z",
                 "2025-10-28T04:39:56.207637Z"
+            ]
+        },
+        {
+            "id": "075a6bd68f1ea4a6b986f1c072d9940d",
+            "source": "spacenews",
+            "text": "Malaysia and the Philippines sign Artemis Accords",
+            "source_link": "https://spacenews.com/malaysia-and-the-philippines-sign-artemis-accords/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-28T05:23:47.626676Z",
+            "shown_at": [
+                "2025-10-28T05:23:48.175981Z"
             ]
         }
     ]
