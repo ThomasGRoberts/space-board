@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 10 | 26 | 49 |
+| spacenews | 7 | 10 | 27 | 50 |
 | nyt | 0 | 0 | 22 | 44 |
 | breaking_defense | 0 | 0 | 23 | 44 |
 | supercluster | 1 | 1 | 6 | 6 |
@@ -6602,3 +6602,4 @@
 - **Oct 28, 12:17 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 28, 12:20 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 28, 12:23 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 28, 12:25 AM** - Ion-X to supply upgraded thruster for Univity’s VLEO 5G constellation (spacenews)
