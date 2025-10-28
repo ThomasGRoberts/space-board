@@ -5,7 +5,7 @@
 | spacenews | 6 | 10 | 26 | 50 |
 | nyt | 0 | 0 | 22 | 45 |
 | breaking_defense | 0 | 0 | 22 | 44 |
-| supercluster | 1 | 1 | 40 | 40 |
+| supercluster | 1 | 1 | 41 | 41 |
 
 # Shown Order
 
@@ -6657,3 +6657,4 @@
 - **Oct 28, 07:07 AM** - SpaceX, Sued by Cards Against Humanity, Settles Trespassing Case (nyt)
 - **Oct 28, 07:22 AM** - Ion-X to supply upgraded thruster for Univity’s VLEO 5G constellation (spacenews)
 - **Oct 28, 07:39 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 28, 07:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
