@@ -5,7 +5,7 @@
 | spacenews | 7 | 9 | 26 | 49 |
 | nyt | 0 | 0 | 22 | 44 |
 | breaking_defense | 0 | 0 | 21 | 44 |
-| supercluster | 1 | 1 | 5 | 5 |
+| supercluster | 1 | 1 | 6 | 6 |
 
 # Shown Order
 
@@ -6606,3 +6606,4 @@
 - **Oct 28, 02:05 AM** - Landspace begins final preparations for China’s first orbital launch and landing attempt (spacenews)
 - **Oct 28, 02:19 AM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
 - **Oct 28, 02:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 28, 02:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
