@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-28T00:02:23.571720+00:00",
-    "trigger_count": 6,
-    "current_item_id": "babe85a0a2d8013d6655cd055c75fd3b",
+    "trigger_count": 0,
+    "current_item_id": "071a836b189a77e9136153483d0f1452",
     "data": [
         {
             "id": "b0ac4e4661a98dae154e7b43d4bca04c",
@@ -12365,6 +12365,18 @@
             "fetched_datetime": "2025-10-28T19:39:34.919875Z",
             "shown_at": [
                 "2025-10-28T19:53:50.336861Z"
+            ]
+        },
+        {
+            "id": "071a836b189a77e9136153483d0f1452",
+            "source": "spacenews",
+            "text": "Shutdown could soon slow preparations for Artemis 2",
+            "source_link": "https://spacenews.com/shutdown-could-soon-slow-preparations-for-artemis-2/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-28T23:29:54.397330Z",
+            "shown_at": [
+                "2025-10-28T23:29:55.136945Z"
             ]
         }
     ]
