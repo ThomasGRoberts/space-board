@@ -5,7 +5,7 @@
 | spacenews | 6 | 10 | 27 | 50 |
 | nyt | 0 | 0 | 23 | 45 |
 | breaking_defense | 0 | 0 | 22 | 44 |
-| supercluster | 1 | 1 | 60 | 60 |
+| supercluster | 1 | 1 | 61 | 61 |
 
 # Shown Order
 
@@ -6686,3 +6686,4 @@
 - **Oct 28, 09:53 AM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
 - **Oct 28, 10:07 AM** - SpaceX, Sued by Cards Against Humanity, Settles Trespassing Case (nyt)
 - **Oct 28, 10:21 AM** - A soft power strategy to preserve non-sovereignty from Chinese land claims on the moon  (spacenews)
+- **Oct 28, 10:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
