@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 9 | 25 | 49 |
+| spacenews | 7 | 9 | 26 | 50 |
 | nyt | 0 | 0 | 22 | 44 |
 | breaking_defense | 0 | 0 | 22 | 44 |
 | supercluster | 1 | 1 | 18 | 18 |
@@ -6623,3 +6623,4 @@
 - **Oct 28, 03:41 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 28, 03:43 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 28, 03:45 AM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
+- **Oct 28, 04:00 AM** - Lynk Global and Omnispace to merge in race for direct-to-device satellite spectrum (spacenews)
