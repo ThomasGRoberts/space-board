@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 25 | 51 |
-| nyt | 0 | 0 | 23 | 46 |
+| nyt | 0 | 0 | 23 | 45 |
 | breaking_defense | 0 | 0 | 22 | 45 |
-| supercluster | 1 | 1 | 139 | 139 |
+| supercluster | 1 | 1 | 140 | 140 |
 
 # Shown Order
 
@@ -6799,3 +6799,4 @@
 - **Oct 28, 09:49 PM** - Airbus, Leonardo and Thales agree to combine space businesses (spacenews)
 - **Oct 28, 10:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 28, 10:07 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 28, 10:09 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
