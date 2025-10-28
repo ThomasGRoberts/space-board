@@ -5,7 +5,7 @@
 | spacenews | 5 | 12 | 25 | 51 |
 | nyt | 0 | 0 | 23 | 46 |
 | breaking_defense | 0 | 0 | 22 | 45 |
-| supercluster | 1 | 1 | 145 | 145 |
+| supercluster | 1 | 1 | 146 | 146 |
 
 # Shown Order
 
@@ -6808,3 +6808,4 @@
 - **Oct 28, 10:33 PM** - SpaceX, Sued by Cards Against Humanity, Settles Trespassing Case (nyt)
 - **Oct 28, 10:47 PM** - MTN carves out private networks for Starlink’s business users (spacenews)
 - **Oct 28, 11:01 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 28, 11:03 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
