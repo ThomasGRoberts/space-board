@@ -5,7 +5,7 @@
 | spacenews | 6 | 13 | 25 | 51 |
 | nyt | 0 | 0 | 23 | 46 |
 | breaking_defense | 0 | 0 | 22 | 45 |
-| supercluster | 1 | 1 | 152 | 152 |
+| supercluster | 1 | 1 | 153 | 153 |
 
 # Shown Order
 
@@ -6818,3 +6818,4 @@
 - **Oct 28, 11:29 PM** - Shutdown could soon slow preparations for Artemis 2 (spacenews)
 - **Oct 28, 11:43 PM** - SpaceX, Sued by Cards Against Humanity, Settles Trespassing Case (nyt)
 - **Oct 28, 11:57 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 28, 11:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
