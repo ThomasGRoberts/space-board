@@ -5,7 +5,7 @@
 | spacenews | 6 | 11 | 26 | 50 |
 | nyt | 0 | 0 | 23 | 45 |
 | breaking_defense | 0 | 0 | 22 | 44 |
-| supercluster | 1 | 1 | 69 | 69 |
+| supercluster | 1 | 1 | 70 | 70 |
 
 # Shown Order
 
@@ -6698,3 +6698,4 @@
 - **Oct 28, 11:19 AM** - Federating Europe’s Earth Observation Ground Segment: The DOMINO-E Proof of Concept (spacenews)
 - **Oct 28, 11:33 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 28, 11:35 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 28, 11:37 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
