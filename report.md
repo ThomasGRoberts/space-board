@@ -5,7 +5,7 @@
 | spacenews | 3 | 9 | 24 | 50 |
 | nyt | 0 | 0 | 24 | 46 |
 | breaking_defense | 0 | 0 | 23 | 45 |
-| supercluster | 1 | 1 | 95 | 95 |
+| supercluster | 1 | 1 | 96 | 96 |
 
 # Shown Order
 
@@ -6736,3 +6736,4 @@
 - **Oct 28, 02:59 PM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
 - **Oct 28, 03:17 PM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
 - **Oct 28, 03:32 PM** - MTN carves out private networks for Starlink’s business users (spacenews)
+- **Oct 28, 03:49 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
