@@ -5,7 +5,7 @@
 | spacenews | 4 | 10 | 25 | 50 |
 | nyt | 0 | 0 | 23 | 45 |
 | breaking_defense | 0 | 0 | 23 | 44 |
-| supercluster | 1 | 1 | 81 | 81 |
+| supercluster | 1 | 1 | 82 | 82 |
 
 # Shown Order
 
@@ -6716,3 +6716,4 @@
 - **Oct 28, 12:51 PM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
 - **Oct 28, 01:08 PM** - SpaceX, Sued by Cards Against Humanity, Settles Trespassing Case (nyt)
 - **Oct 28, 01:23 PM** - MTN carves out private networks for Starlink’s business users (spacenews)
+- **Oct 28, 01:37 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
