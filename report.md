@@ -5,7 +5,7 @@
 | spacenews | 5 | 12 | 25 | 51 |
 | nyt | 0 | 0 | 23 | 46 |
 | breaking_defense | 0 | 0 | 22 | 45 |
-| supercluster | 1 | 1 | 137 | 137 |
+| supercluster | 1 | 1 | 138 | 138 |
 
 # Shown Order
 
@@ -6797,3 +6797,4 @@
 - **Oct 28, 09:21 PM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
 - **Oct 28, 09:35 PM** - SpaceX, Sued by Cards Against Humanity, Settles Trespassing Case (nyt)
 - **Oct 28, 09:49 PM** - Airbus, Leonardo and Thales agree to combine space businesses (spacenews)
+- **Oct 28, 10:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
