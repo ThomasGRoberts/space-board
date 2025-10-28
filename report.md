@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 10 | 24 | 50 |
-| nyt | 0 | 0 | 24 | 46 |
+| nyt | 0 | 0 | 23 | 46 |
 | breaking_defense | 0 | 0 | 23 | 45 |
-| supercluster | 1 | 1 | 109 | 109 |
+| supercluster | 1 | 1 | 110 | 110 |
 
 # Shown Order
 
@@ -6756,3 +6756,4 @@
 - **Oct 28, 05:05 PM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
 - **Oct 28, 05:21 PM** - SpaceX, Sued by Cards Against Humanity, Settles Trespassing Case (nyt)
 - **Oct 28, 05:35 PM** - China launches new Gaofen-14 stereo mapping satellite (spacenews)
+- **Oct 28, 05:50 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
