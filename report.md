@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 25 | 51 |
-| nyt | 0 | 0 | 22 | 45 |
+| nyt | 0 | 0 | 23 | 46 |
 | breaking_defense | 0 | 0 | 23 | 45 |
 | supercluster | 1 | 1 | 151 | 151 |
 
@@ -6816,3 +6816,4 @@
 - **Oct 28, 11:13 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 28, 11:15 PM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
 - **Oct 28, 11:29 PM** - Shutdown could soon slow preparations for Artemis 2 (spacenews)
+- **Oct 28, 11:43 PM** - SpaceX, Sued by Cards Against Humanity, Settles Trespassing Case (nyt)
