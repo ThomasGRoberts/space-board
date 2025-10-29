@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 27 | 53 |
-| supercluster | 0 | 1 | 163 | 230 |
+| supercluster | 0 | 1 | 164 | 231 |
 | nyt | 0 | 0 | 23 | 46 |
 | breaking_defense | 0 | 0 | 23 | 45 |
 
@@ -6900,3 +6900,4 @@
 - **Oct 29, 11:06 AM** - ESA outlines plans for space security program (spacenews)
 - **Oct 29, 11:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 29, 11:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 29, 11:25 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
