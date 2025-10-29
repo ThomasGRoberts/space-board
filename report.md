@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 14 | 26 | 51 |
+| spacenews | 7 | 14 | 27 | 52 |
 | supercluster | 0 | 1 | 161 | 172 |
 | nyt | 0 | 0 | 24 | 46 |
 | breaking_defense | 0 | 0 | 23 | 45 |
@@ -6815,3 +6815,4 @@
 - **Oct 29, 02:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 29, 02:21 AM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
 - **Oct 29, 02:35 AM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
+- **Oct 29, 02:49 AM** - Iridium pulls $1 billion 2030 service revenue goal amid SpaceX’s D2D push (spacenews)
