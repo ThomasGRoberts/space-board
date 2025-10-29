@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 14 | 28 | 53 |
-| supercluster | 0 | 1 | 161 | 228 |
+| spacenews | 8 | 14 | 27 | 53 |
+| supercluster | 0 | 1 | 162 | 229 |
 | nyt | 0 | 0 | 23 | 46 |
 | breaking_defense | 0 | 0 | 23 | 46 |
 
@@ -6898,3 +6898,4 @@
 - **Oct 29, 10:37 AM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
 - **Oct 29, 10:51 AM** - Space is a warfighting domain. We need wartime urgency for procurement reform. (spacenews)
 - **Oct 29, 11:06 AM** - ESA outlines plans for space security program (spacenews)
+- **Oct 29, 11:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
