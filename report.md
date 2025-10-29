@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 24 | 49 |
 | nyt | 0 | 0 | 21 | 44 |
-| breaking_defense | 0 | 0 | 21 | 43 |
+| breaking_defense | 0 | 0 | 22 | 44 |
 | supercluster | 1 | 1 | 14 | 14 |
 
 # Shown Order
@@ -6702,3 +6702,4 @@
 - **Oct 29, 07:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 29, 07:50 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 29, 07:55 PM** - Europe must build its own critical infrastructure (spacenews)
+- **Oct 29, 08:22 PM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
