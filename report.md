@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 24 | 48 |
-| nyt | 0 | 0 | 20 | 44 |
+| nyt | 0 | 0 | 21 | 44 |
 | breaking_defense | 0 | 0 | 21 | 44 |
 | supercluster | 1 | 1 | 14 | 14 |
 
@@ -6703,3 +6703,4 @@
 - **Oct 29, 07:50 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 29, 07:55 PM** - Europe must build its own critical infrastructure (spacenews)
 - **Oct 29, 08:22 PM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
+- **Oct 29, 08:43 PM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
