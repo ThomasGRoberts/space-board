@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 27 | 53 |
-| supercluster | 0 | 1 | 162 | 222 |
+| supercluster | 0 | 1 | 163 | 223 |
 | nyt | 0 | 0 | 23 | 46 |
 | breaking_defense | 0 | 0 | 23 | 45 |
 
@@ -6888,3 +6888,4 @@
 - **Oct 29, 09:39 AM** - SpaceX, Sued by Cards Against Humanity, Settles Trespassing Case (nyt)
 - **Oct 29, 09:53 AM** - Europe must build its own critical infrastructure (spacenews)
 - **Oct 29, 10:09 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 29, 10:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
