@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-29T00:02:24.567087+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f5d13af9828e10a7c420355f667287bb",
+    "trigger_count": 0,
+    "current_item_id": "7ef640d8f23ca9a6718c2c56520709ca",
     "data": [
         {
             "id": "071a836b189a77e9136153483d0f1452",
@@ -12254,6 +12254,18 @@
                 "2025-10-29T19:43:00.999495Z",
                 "2025-10-29T19:47:05.096632Z",
                 "2025-10-29T19:50:53.134790Z"
+            ]
+        },
+        {
+            "id": "7ef640d8f23ca9a6718c2c56520709ca",
+            "source": "spacenews",
+            "text": "Saudi Arabia’s stc Group commits $175 million prepayment in AST SpaceMobile deal",
+            "source_link": "https://spacenews.com/saudi-arabias-stc-group-commits-175-million-prepayment-in-ast-spacemobile-deal/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-29T21:05:59.247889Z",
+            "shown_at": [
+                "2025-10-29T21:06:00.354829Z"
             ]
         }
     ]
