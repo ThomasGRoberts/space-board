@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-29T00:02:24.567087+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f5d13af9828e10a7c420355f667287bb",
+    "trigger_count": 0,
+    "current_item_id": "9f8b51584a892aecc198eabf210e25c6",
     "data": [
         {
             "id": "071a836b189a77e9136153483d0f1452",
@@ -12341,6 +12341,18 @@
             "fetched_datetime": "2025-10-29T00:57:44.181726Z",
             "shown_at": [
                 "2025-10-29T00:57:44.797506Z"
+            ]
+        },
+        {
+            "id": "9f8b51584a892aecc198eabf210e25c6",
+            "source": "spacenews",
+            "text": "Rising demand and falling costs clear path for satellite servicing",
+            "source_link": "https://spacenews.com/rising-demand-and-falling-costs-clear-path-for-satellite-servicing/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-29T04:47:38.069503Z",
+            "shown_at": [
+                "2025-10-29T04:47:38.777293Z"
             ]
         }
     ]
