@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 25 | 51 |
 | supercluster | 1 | 1 | 158 | 158 |
-| nyt | 0 | 0 | 22 | 45 |
+| nyt | 0 | 0 | 23 | 46 |
 | breaking_defense | 0 | 0 | 23 | 45 |
 
 # Shown Order
@@ -6794,3 +6794,4 @@
 - **Oct 29, 12:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 29, 12:13 AM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
 - **Oct 29, 12:27 AM** - The lunar mining gold rush is coming – and success requires bridging two worlds  (spacenews)
+- **Oct 29, 12:41 AM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
