@@ -5,7 +5,7 @@
 | spacenews | 9 | 14 | 25 | 49 |
 | nyt | 0 | 0 | 20 | 43 |
 | breaking_defense | 0 | 0 | 20 | 43 |
-| supercluster | 1 | 1 | 21 | 21 |
+| supercluster | 1 | 1 | 22 | 22 |
 
 # Shown Order
 
@@ -6716,3 +6716,4 @@
 - **Oct 29, 09:55 PM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
 - **Oct 29, 10:10 PM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
 - **Oct 29, 10:27 PM** - Space sector’s cybersecurity dilemma: Pay now or pay later (spacenews)
+- **Oct 29, 10:46 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
