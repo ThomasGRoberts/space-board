@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 13 | 25 | 51 |
-| supercluster | 0 | 1 | 168 | 207 |
+| spacenews | 7 | 13 | 26 | 52 |
+| supercluster | 0 | 1 | 166 | 207 |
 | nyt | 0 | 0 | 24 | 46 |
 | breaking_defense | 0 | 0 | 24 | 46 |
 
@@ -6865,3 +6865,4 @@
 - **Oct 29, 07:09 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 29, 07:11 AM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
 - **Oct 29, 07:25 AM** - SpaceX, Sued by Cards Against Humanity, Settles Trespassing Case (nyt)
+- **Oct 29, 07:41 AM** - Federating Europe’s Earth Observation Ground Segment: The DOMINO-E Proof of Concept (spacenews)
