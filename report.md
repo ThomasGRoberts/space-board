@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 26 | 52 |
-| supercluster | 1 | 1 | 158 | 158 |
+| supercluster | 1 | 1 | 159 | 159 |
 | nyt | 0 | 0 | 23 | 45 |
 | breaking_defense | 0 | 0 | 23 | 45 |
 
@@ -6796,3 +6796,4 @@
 - **Oct 29, 12:27 AM** - The lunar mining gold rush is coming – and success requires bridging two worlds  (spacenews)
 - **Oct 29, 12:41 AM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
 - **Oct 29, 12:57 AM** - Trump nominee: Closer Space Force-NRO integration ‘worth considering’ (spacenews)
+- **Oct 29, 01:12 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
