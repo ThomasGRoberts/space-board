@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 26 | 52 |
-| supercluster | 0 | 1 | 163 | 195 |
-| nyt | 0 | 0 | 24 | 46 |
+| supercluster | 0 | 1 | 164 | 196 |
+| nyt | 0 | 0 | 23 | 46 |
 | breaking_defense | 0 | 0 | 23 | 45 |
 
 # Shown Order
@@ -6848,3 +6848,4 @@
 - **Oct 29, 05:45 AM** - Astrobotic delays Griffin-1 lander mission to mid-2026 (spacenews)
 - **Oct 29, 05:59 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 29, 06:02 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 29, 06:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
