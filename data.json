@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-29T00:02:24.567087+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "154f5873b5db96500b7ae5423d14caab",
     "data": [
         {
             "id": "071a836b189a77e9136153483d0f1452",
@@ -12273,6 +12273,18 @@
             "fetched_datetime": "2025-10-29T21:05:59.247889Z",
             "shown_at": [
                 "2025-10-29T21:06:00.354829Z"
+            ]
+        },
+        {
+            "id": "154f5873b5db96500b7ae5423d14caab",
+            "source": "spacenews",
+            "text": "Investors gravitate toward space firms with defense applications",
+            "source_link": "https://spacenews.com/investors-gravitate-toward-space-firms-with-defense-applications/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-29T21:39:28.897003Z",
+            "shown_at": [
+                "2025-10-29T21:39:29.419891Z"
             ]
         }
     ]
