@@ -5,7 +5,7 @@
 | spacenews | 9 | 12 | 27 | 51 |
 | nyt | 0 | 0 | 24 | 47 |
 | breaking_defense | 0 | 0 | 23 | 46 |
-| supercluster | 1 | 1 | 22 | 22 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -6675,34 +6675,13 @@
 - **Oct 29, 12:03 PM** - SatLeo prepares to launch first thermal-imaging payload (spacenews)
 - **Oct 29, 12:31 PM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
 - **Oct 29, 12:45 PM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
-- **Oct 29, 12:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Oct 29, 01:02 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Oct 29, 01:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Oct 29, 01:07 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Oct 29, 01:09 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Oct 29, 01:11 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Oct 29, 01:13 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 29, 01:15 PM** - Let’s not allow the ‘Golden Age’ of space exploration to turn into fool’s gold (spacenews)
 - **Oct 29, 01:29 PM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
 - **Oct 29, 01:45 PM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
-- **Oct 29, 01:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Oct 29, 02:02 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Oct 29, 02:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Oct 29, 02:07 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Oct 29, 02:09 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Oct 29, 02:11 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Oct 29, 02:13 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 29, 02:15 PM** - Iridium pulls $1 billion 2030 service revenue goal amid SpaceX’s D2D push (spacenews)
 - **Oct 29, 02:31 PM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
 - **Oct 29, 02:46 PM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
-- **Oct 29, 03:03 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Oct 29, 03:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Oct 29, 03:07 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Oct 29, 03:09 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Oct 29, 03:11 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Oct 29, 03:13 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
-- **Oct 29, 03:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 29, 03:17 PM** - Pentagon nominee: Closer Space Force-NRO integration ‘worth considering’ (spacenews)
 - **Oct 29, 03:32 PM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
 - **Oct 29, 03:49 PM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
-- **Oct 29, 04:14 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 29, 04:16 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
