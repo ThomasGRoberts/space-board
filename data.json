@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-29T00:02:24.567087+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e4477b32d7fadfa13ea2873abcb7bd3c",
+    "trigger_count": 0,
+    "current_item_id": "5c02e0f9d0a9ed2b3adc08ba6200e30c",
     "data": [
         {
             "id": "071a836b189a77e9136153483d0f1452",
@@ -12221,6 +12221,18 @@
                 "2025-10-29T13:09:45.087605Z",
                 "2025-10-29T13:11:47.842125Z",
                 "2025-10-29T13:13:42.402532Z"
+            ]
+        },
+        {
+            "id": "5c02e0f9d0a9ed2b3adc08ba6200e30c",
+            "source": "spacenews",
+            "text": "Let’s not allow the ‘Golden Age’ of space exploration to turn into fool’s gold",
+            "source_link": "https://spacenews.com/lets-not-allow-the-golden-age-of-space-exploration-to-turn-into-fools-gold/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-29T13:15:38.409272Z",
+            "shown_at": [
+                "2025-10-29T13:15:39.073534Z"
             ]
         }
     ]
