@@ -5,7 +5,7 @@
 | spacenews | 7 | 14 | 26 | 52 |
 | supercluster | 1 | 1 | 165 | 165 |
 | nyt | 0 | 0 | 23 | 45 |
-| breaking_defense | 0 | 0 | 23 | 45 |
+| breaking_defense | 0 | 0 | 24 | 45 |
 
 # Shown Order
 
@@ -6803,3 +6803,4 @@
 - **Oct 29, 01:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 29, 01:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 29, 01:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 29, 01:25 AM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
