@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 26 | 52 |
-| supercluster | 0 | 1 | 163 | 174 |
-| nyt | 0 | 0 | 24 | 46 |
+| supercluster | 0 | 1 | 164 | 175 |
+| nyt | 0 | 0 | 24 | 45 |
 | breaking_defense | 0 | 0 | 23 | 45 |
 
 # Shown Order
@@ -6818,3 +6818,4 @@
 - **Oct 29, 02:49 AM** - Iridium pulls $1 billion 2030 service revenue goal amid SpaceX’s D2D push (spacenews)
 - **Oct 29, 03:05 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 29, 03:07 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 29, 03:09 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
