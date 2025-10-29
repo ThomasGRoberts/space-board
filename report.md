@@ -5,7 +5,7 @@
 | spacenews | 7 | 13 | 24 | 49 |
 | nyt | 0 | 0 | 21 | 44 |
 | breaking_defense | 0 | 0 | 20 | 43 |
-| supercluster | 1 | 1 | 14 | 14 |
+| supercluster | 1 | 1 | 15 | 15 |
 
 # Shown Order
 
@@ -6705,3 +6705,4 @@
 - **Oct 29, 08:22 PM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
 - **Oct 29, 08:43 PM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
 - **Oct 29, 09:06 PM** - Saudi Arabia’s stc Group commits $175 million prepayment in AST SpaceMobile deal (spacenews)
+- **Oct 29, 09:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
