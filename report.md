@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 24 | 49 |
 | nyt | 0 | 0 | 20 | 43 |
-| breaking_defense | 0 | 0 | 20 | 43 |
-| supercluster | 1 | 1 | 29 | 29 |
+| breaking_defense | 0 | 0 | 20 | 42 |
+| supercluster | 1 | 1 | 30 | 30 |
 
 # Shown Order
 
@@ -6727,3 +6727,4 @@
 - **Oct 29, 11:25 PM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
 - **Oct 29, 11:39 PM** - H3 launches first HTV-X cargo spacecraft (spacenews)
 - **Oct 29, 11:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 29, 11:55 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
