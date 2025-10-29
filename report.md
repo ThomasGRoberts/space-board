@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 27 | 53 |
-| supercluster | 0 | 1 | 161 | 214 |
-| nyt | 0 | 0 | 24 | 46 |
+| supercluster | 0 | 1 | 162 | 215 |
+| nyt | 0 | 0 | 23 | 46 |
 | breaking_defense | 0 | 0 | 23 | 45 |
 
 # Shown Order
@@ -6877,3 +6877,4 @@
 - **Oct 29, 08:27 AM** - SpaceX, Sued by Cards Against Humanity, Settles Trespassing Case (nyt)
 - **Oct 29, 08:41 AM** - Malaysia and the Philippines sign Artemis Accords (spacenews)
 - **Oct 29, 08:55 AM** - Pentagon nominee: Closer Space Force-NRO integration ‘worth considering’ (spacenews)
+- **Oct 29, 09:11 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
