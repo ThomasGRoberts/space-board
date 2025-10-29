@@ -5,6 +5,7 @@
 | spacenews | 8 | 13 | 27 | 52 |
 | nyt | 0 | 0 | 24 | 47 |
 | breaking_defense | 0 | 0 | 23 | 46 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -6674,3 +6675,4 @@
 - **Oct 29, 12:03 PM** - SatLeo prepares to launch first thermal-imaging payload (spacenews)
 - **Oct 29, 12:31 PM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
 - **Oct 29, 12:45 PM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
+- **Oct 29, 12:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
