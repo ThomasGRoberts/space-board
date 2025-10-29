@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 12 | 28 | 52 |
+| spacenews | 9 | 12 | 27 | 52 |
 | nyt | 0 | 0 | 23 | 47 |
-| breaking_defense | 0 | 0 | 23 | 46 |
+| breaking_defense | 0 | 0 | 24 | 47 |
 | supercluster | 1 | 1 | 21 | 21 |
 
 # Shown Order
@@ -6703,3 +6703,4 @@
 - **Oct 29, 03:13 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 29, 03:15 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 29, 03:17 PM** - Pentagon nominee: Closer Space Force-NRO integration ‘worth considering’ (spacenews)
+- **Oct 29, 03:32 PM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
