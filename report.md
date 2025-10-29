@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 12 | 25 | 49 |
-| nyt | 0 | 0 | 21 | 44 |
+| nyt | 0 | 0 | 22 | 45 |
 | breaking_defense | 0 | 0 | 22 | 45 |
 | supercluster | 1 | 1 | 7 | 7 |
 
@@ -6693,3 +6693,4 @@
 - **Oct 29, 06:00 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 29, 06:05 PM** - Astrobotic delays Griffin-1 lander mission to mid-2026 (spacenews)
 - **Oct 29, 06:33 PM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
+- **Oct 29, 06:59 PM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
