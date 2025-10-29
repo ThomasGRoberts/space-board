@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 13 | 24 | 49 |
+| spacenews | 7 | 12 | 24 | 48 |
 | nyt | 0 | 0 | 21 | 44 |
 | breaking_defense | 0 | 0 | 20 | 43 |
-| supercluster | 1 | 1 | 16 | 16 |
+| supercluster | 1 | 1 | 17 | 17 |
 
 # Shown Order
 
@@ -6707,3 +6707,4 @@
 - **Oct 29, 09:06 PM** - Saudi Arabia’s stc Group commits $175 million prepayment in AST SpaceMobile deal (spacenews)
 - **Oct 29, 09:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 29, 09:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 29, 09:29 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
