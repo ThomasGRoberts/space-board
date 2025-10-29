@@ -5,7 +5,7 @@
 | spacenews | 8 | 13 | 27 | 52 |
 | nyt | 0 | 0 | 24 | 47 |
 | breaking_defense | 0 | 0 | 23 | 46 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -6677,3 +6677,4 @@
 - **Oct 29, 12:45 PM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
 - **Oct 29, 12:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 29, 01:02 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 29, 01:05 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
