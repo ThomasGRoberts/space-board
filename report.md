@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 14 | 27 | 53 |
+| spacenews | 8 | 14 | 26 | 53 |
 | supercluster | 0 | 1 | 168 | 221 |
 | nyt | 0 | 0 | 23 | 46 |
-| breaking_defense | 0 | 0 | 23 | 45 |
+| breaking_defense | 0 | 0 | 24 | 46 |
 
 # Shown Order
 
@@ -6884,3 +6884,4 @@
 - **Oct 29, 09:19 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 29, 09:21 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 29, 09:23 AM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 29, 09:25 AM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
