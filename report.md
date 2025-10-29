@@ -5,7 +5,7 @@
 | spacenews | 9 | 13 | 27 | 52 |
 | nyt | 0 | 0 | 24 | 47 |
 | breaking_defense | 0 | 0 | 23 | 46 |
-| supercluster | 1 | 1 | 7 | 7 |
+| supercluster | 1 | 1 | 8 | 8 |
 
 # Shown Order
 
@@ -6685,3 +6685,4 @@
 - **Oct 29, 01:15 PM** - Let’s not allow the ‘Golden Age’ of space exploration to turn into fool’s gold (spacenews)
 - **Oct 29, 01:29 PM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
 - **Oct 29, 01:45 PM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
+- **Oct 29, 01:59 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
