@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-29T00:02:24.567087+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f5d13af9828e10a7c420355f667287bb",
+    "trigger_count": 0,
+    "current_item_id": "79d3d3d358446301f92bc8cfd88c71a6",
     "data": [
         {
             "id": "071a836b189a77e9136153483d0f1452",
@@ -12287,6 +12287,18 @@
             "fetched_datetime": "2025-10-29T21:39:28.897003Z",
             "shown_at": [
                 "2025-10-29T21:39:29.419891Z"
+            ]
+        },
+        {
+            "id": "79d3d3d358446301f92bc8cfd88c71a6",
+            "source": "spacenews",
+            "text": "Space sector’s cybersecurity dilemma: Pay now or pay later",
+            "source_link": "https://spacenews.com/space-sectors-cybersecurity-dilemma-pay-now-or-pay-later/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-29T22:27:53.329006Z",
+            "shown_at": [
+                "2025-10-29T22:27:54.111513Z"
             ]
         }
     ]

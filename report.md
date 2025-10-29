@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 13 | 24 | 49 |
+| spacenews | 9 | 14 | 25 | 49 |
 | nyt | 0 | 0 | 21 | 44 |
 | breaking_defense | 0 | 0 | 20 | 43 |
 | supercluster | 1 | 1 | 21 | 21 |
@@ -6715,3 +6715,4 @@
 - **Oct 29, 09:39 PM** - Investors gravitate toward space firms with defense applications (spacenews)
 - **Oct 29, 09:55 PM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
 - **Oct 29, 10:10 PM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
+- **Oct 29, 10:27 PM** - Space sector’s cybersecurity dilemma: Pay now or pay later (spacenews)
