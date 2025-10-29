@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-29T00:02:24.567087+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f5d13af9828e10a7c420355f667287bb",
+    "trigger_count": 0,
+    "current_item_id": "e99ac4a06ca70a5975b14964169cab32",
     "data": [
         {
             "id": "071a836b189a77e9136153483d0f1452",
@@ -12290,6 +12290,18 @@
                 "2025-07-20T00:39:41.476503Z",
                 "2025-07-20T02:39:43.807783Z",
                 "2025-07-22T07:41:44.715848Z"
+            ]
+        },
+        {
+            "id": "e99ac4a06ca70a5975b14964169cab32",
+            "source": "spacenews",
+            "text": "Trump nominee: Closer Space Force-NRO integration ‘worth considering’",
+            "source_link": "https://spacenews.com/trump-nominee-closer-space-force-nro-integration-worth-considering/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-29T00:57:44.181726Z",
+            "shown_at": [
+                "2025-10-29T00:57:44.797506Z"
             ]
         }
     ]
