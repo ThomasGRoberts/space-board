@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-29T00:02:24.567087+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ae34eaf18238e78728835427007264b6",
+    "trigger_count": 0,
+    "current_item_id": "eeb9aacbbe2211056cfa6ee1e3ed667c",
     "data": [
         {
             "id": "071a836b189a77e9136153483d0f1452",
@@ -12425,6 +12425,18 @@
             "fetched_datetime": "2025-10-29T08:55:17.449412Z",
             "shown_at": [
                 "2025-10-29T08:55:17.958795Z"
+            ]
+        },
+        {
+            "id": "eeb9aacbbe2211056cfa6ee1e3ed667c",
+            "source": "spacenews",
+            "text": "ESA outlines plans for space security program",
+            "source_link": "https://spacenews.com/esa-outlines-plans-for-space-security-program/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-29T11:06:06.935217Z",
+            "shown_at": [
+                "2025-10-29T11:06:08.266833Z"
             ]
         }
     ]
