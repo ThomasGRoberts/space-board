@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 12 | 25 | 49 |
+| spacenews | 8 | 12 | 26 | 50 |
 | nyt | 0 | 0 | 22 | 45 |
-| breaking_defense | 0 | 0 | 22 | 45 |
+| breaking_defense | 0 | 0 | 22 | 44 |
 | supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
@@ -6691,3 +6691,4 @@
 - **Oct 29, 05:53 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 29, 05:57 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 29, 06:00 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 29, 06:05 PM** - Astrobotic delays Griffin-1 lander mission to mid-2026 (spacenews)
