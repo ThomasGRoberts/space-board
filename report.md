@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 12 | 26 | 50 |
+| spacenews | 8 | 12 | 25 | 49 |
 | nyt | 0 | 0 | 22 | 46 |
 | breaking_defense | 0 | 0 | 22 | 45 |
-| supercluster | 1 | 1 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -6684,3 +6684,4 @@
 - **Oct 29, 03:17 PM** - Pentagon nominee: Closer Space Force-NRO integration ‘worth considering’ (spacenews)
 - **Oct 29, 03:32 PM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
 - **Oct 29, 03:49 PM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
+- **Oct 29, 05:36 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
