@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 13 | 28 | 52 |
-| supercluster | 0 | 1 | 163 | 237 |
+| spacenews | 8 | 13 | 27 | 52 |
+| supercluster | 0 | 1 | 164 | 238 |
 | nyt | 0 | 0 | 23 | 47 |
 | breaking_defense | 0 | 0 | 23 | 46 |
 
@@ -6910,3 +6910,4 @@
 - **Oct 29, 12:03 PM** - SatLeo prepares to launch first thermal-imaging payload (spacenews)
 - **Oct 29, 12:17 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
 - **Oct 29, 12:19 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
+- **Oct 29, 12:21 PM** - SpaceX Will Launch Starlink Satellites from Florida (supercluster)
