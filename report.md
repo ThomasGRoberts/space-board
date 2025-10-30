@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 19 | 28 | 53 |
-| supercluster | 1 | 2 | 148 | 155 |
+| supercluster | 1 | 2 | 149 | 156 |
 | nyt | 0 | 0 | 21 | 43 |
 | breaking_defense | 2 | 2 | 22 | 43 |
 
@@ -6805,3 +6805,4 @@
 - **Oct 30, 06:43 PM** - Malaysia and the Philippines sign Artemis Accords (spacenews)
 - **Oct 30, 06:57 PM** - Missile threats at scale: Turning Golden Dome into reality (breaking_defense)
 - **Oct 30, 07:12 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
+- **Oct 30, 07:13 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
