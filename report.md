@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 14 | 23 | 49 |
+| spacenews | 7 | 14 | 24 | 50 |
 | supercluster | 1 | 1 | 49 | 49 |
 | nyt | 0 | 0 | 21 | 44 |
 | breaking_defense | 0 | 0 | 20 | 44 |
@@ -6647,3 +6647,4 @@
 - **Oct 30, 02:01 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 30, 02:03 AM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
 - **Oct 30, 02:17 AM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
+- **Oct 30, 02:32 AM** - H3 launches first HTV-X cargo spacecraft (spacenews)
