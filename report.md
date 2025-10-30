@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 19 | 28 | 53 |
 | supercluster | 1 | 2 | 154 | 161 |
-| nyt | 0 | 0 | 21 | 43 |
+| nyt | 0 | 0 | 22 | 43 |
 | breaking_defense | 2 | 2 | 22 | 43 |
 
 # Shown Order
@@ -6811,3 +6811,4 @@
 - **Oct 30, 07:19 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Oct 30, 07:21 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Oct 30, 07:23 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
+- **Oct 30, 07:25 PM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
