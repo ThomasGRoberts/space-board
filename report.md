@@ -5,7 +5,7 @@
 | spacenews | 7 | 14 | 24 | 50 |
 | supercluster | 1 | 1 | 91 | 91 |
 | nyt | 0 | 0 | 20 | 43 |
-| breaking_defense | 0 | 0 | 19 | 43 |
+| breaking_defense | 0 | 0 | 20 | 44 |
 
 # Shown Order
 
@@ -6706,3 +6706,4 @@
 - **Oct 30, 07:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 30, 07:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 30, 08:02 AM** - HEO’s satellite-to-satellite imaging uncovers secrets of Chinese tech-test spacecraft (spacenews)
+- **Oct 30, 08:19 AM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
