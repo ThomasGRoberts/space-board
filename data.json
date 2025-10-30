@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-30T00:02:28.583459+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ec2b07bef1dbc61020a429ef87eee841",
+    "trigger_count": 0,
+    "current_item_id": "b0a225a113dc9621426386cad3fbdcdc",
     "data": [
         {
             "id": "79d3d3d358446301f92bc8cfd88c71a6",
@@ -12313,6 +12313,18 @@
             "fetched_datetime": "2025-10-30T13:17:46.747887Z",
             "shown_at": [
                 "2025-10-30T13:33:53.678907Z"
+            ]
+        },
+        {
+            "id": "b0a225a113dc9621426386cad3fbdcdc",
+            "source": "breaking_defense",
+            "text": "Missile threats at scale: Turning Golden Dome into reality",
+            "source_link": "https://breakingdefense.com/2025/10/missile-threats-at-scale-turning-golden-dome-into-reality/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-30T13:47:47.971642Z",
+            "shown_at": [
+                "2025-10-30T13:47:48.802287Z"
             ]
         }
     ]

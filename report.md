@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 18 | 25 | 52 |
 | supercluster | 1 | 1 | 119 | 119 |
-| nyt | 0 | 0 | 20 | 43 |
-| breaking_defense | 0 | 0 | 19 | 43 |
+| nyt | 0 | 0 | 19 | 43 |
+| breaking_defense | 1 | 1 | 20 | 44 |
 
 # Shown Order
 
@@ -6752,3 +6752,4 @@
 - **Oct 30, 01:01 PM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
 - **Oct 30, 01:17 PM** - Confronting China’s pervasive maritime gray zone campaign (spacenews)
 - **Oct 30, 01:33 PM** - Momentus Vigoride-7 to fly DPhi Space hosted payload platform (spacenews)
+- **Oct 30, 01:47 PM** - Missile threats at scale: Turning Golden Dome into reality (breaking_defense)
