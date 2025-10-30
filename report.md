@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 20 | 30 | 55 |
 | nyt | 0 | 0 | 22 | 42 |
-| breaking_defense | 2 | 2 | 22 | 42 |
+| breaking_defense | 2 | 2 | 23 | 43 |
 | supercluster | 1 | 1 | 35 | 35 |
 
 # Shown Order
@@ -6693,3 +6693,4 @@
 - **Oct 30, 08:59 PM** - EnduroSat raises $104 million to scale production of larger small satellites (spacenews)
 - **Oct 30, 09:17 PM** - Golden Dome hype meets information vacuum as industry awaits Pentagon direction (spacenews)
 - **Oct 30, 09:31 PM** - Interest rate cut further fuels space investor optimism amid talk of returning SPACs (spacenews)
+- **Oct 30, 09:47 PM** - US nuclear arsenal currently safe, reliable: STRATCOM nominee (breaking_defense)
