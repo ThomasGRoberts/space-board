@@ -5,7 +5,7 @@
 | spacenews | 11 | 19 | 28 | 53 |
 | supercluster | 1 | 2 | 147 | 154 |
 | nyt | 0 | 0 | 22 | 43 |
-| breaking_defense | 2 | 2 | 21 | 43 |
+| breaking_defense | 2 | 2 | 22 | 44 |
 
 # Shown Order
 
@@ -6803,3 +6803,4 @@
 - **Oct 30, 06:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 30, 06:29 PM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
 - **Oct 30, 06:43 PM** - Malaysia and the Philippines sign Artemis Accords (spacenews)
+- **Oct 30, 06:57 PM** - Missile threats at scale: Turning Golden Dome into reality (breaking_defense)
