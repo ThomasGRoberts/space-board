@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 14 | 23 | 49 |
+| spacenews | 7 | 14 | 24 | 50 |
 | supercluster | 1 | 1 | 84 | 84 |
 | nyt | 0 | 0 | 20 | 44 |
 | breaking_defense | 0 | 0 | 20 | 43 |
@@ -6695,3 +6695,4 @@
 - **Oct 30, 06:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 30, 06:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 30, 06:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 30, 07:02 AM** - Saudi Arabia’s stc Group commits $175 million prepayment in AST SpaceMobile deal (spacenews)
