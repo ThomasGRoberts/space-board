@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 24 | 50 |
-| supercluster | 1 | 1 | 57 | 57 |
+| supercluster | 1 | 1 | 58 | 58 |
 | nyt | 0 | 0 | 20 | 44 |
 | breaking_defense | 0 | 0 | 20 | 43 |
 
@@ -6659,3 +6659,4 @@
 - **Oct 30, 03:17 AM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
 - **Oct 30, 03:31 AM** - China launches new Gaofen-14 stereo mapping satellite (spacenews)
 - **Oct 30, 03:46 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 30, 03:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
