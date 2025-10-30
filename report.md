@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 24 | 51 |
 | supercluster | 1 | 1 | 119 | 119 |
-| nyt | 0 | 0 | 19 | 43 |
+| nyt | 0 | 0 | 20 | 44 |
 | breaking_defense | 0 | 0 | 20 | 43 |
 
 # Shown Order
@@ -6749,3 +6749,4 @@
 - **Oct 30, 12:15 PM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
 - **Oct 30, 12:32 PM** - China targets 2026 for first Long March 10 launch, new lunar crew spacecraft flight (spacenews)
 - **Oct 30, 12:47 PM** - Former NASA administrators call for changes in Artemis lunar lander architecture (spacenews)
+- **Oct 30, 01:01 PM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
