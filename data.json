@@ -1,9 +1,152 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-10-29T00:02:24.567087+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2025-10-30T00:02:28.583459+00:00",
+    "trigger_count": 4,
     "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
     "data": [
+        {
+            "id": "79d3d3d358446301f92bc8cfd88c71a6",
+            "source": "spacenews",
+            "text": "Space sector’s cybersecurity dilemma: Pay now or pay later",
+            "source_link": "https://spacenews.com/space-sectors-cybersecurity-dilemma-pay-now-or-pay-later/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-29T22:27:53.329006Z",
+            "shown_at": [
+                "2025-10-29T22:27:54.111513Z"
+            ]
+        },
+        {
+            "id": "154f5873b5db96500b7ae5423d14caab",
+            "source": "spacenews",
+            "text": "Investors gravitate toward space firms with defense applications",
+            "source_link": "https://spacenews.com/investors-gravitate-toward-space-firms-with-defense-applications/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-29T21:39:28.897003Z",
+            "shown_at": [
+                "2025-10-29T21:39:29.419891Z"
+            ]
+        },
+        {
+            "id": "7ef640d8f23ca9a6718c2c56520709ca",
+            "source": "spacenews",
+            "text": "Saudi Arabia’s stc Group commits $175 million prepayment in AST SpaceMobile deal",
+            "source_link": "https://spacenews.com/saudi-arabias-stc-group-commits-175-million-prepayment-in-ast-spacemobile-deal/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-29T21:05:59.247889Z",
+            "shown_at": [
+                "2025-10-29T21:06:00.354829Z"
+            ]
+        },
+        {
+            "id": "4beba9b243fe616fcb8e7be8d963bbc1",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Starlink Satellites from California",
+            "source_link": "https://www.supercluster.com/launches/starlink-11-23",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-10-30T20:06:00.000Z",
+            "time_remaining": "0d 20h 03m",
+            "fetched_datetime": "2025-10-29T17:36:52.578747Z",
+            "shown_at": [
+                "2025-10-29T17:36:53.293881Z",
+                "2025-10-29T17:40:58.292202Z",
+                "2025-10-29T17:44:55.955774Z",
+                "2025-10-29T17:49:10.058331Z",
+                "2025-10-29T17:53:05.116720Z",
+                "2025-10-29T17:57:01.996906Z",
+                "2025-10-29T18:00:58.537617Z",
+                "2025-10-29T19:27:07.961498Z",
+                "2025-10-29T19:30:49.291732Z",
+                "2025-10-29T19:34:33.997343Z",
+                "2025-10-29T19:39:24.450842Z",
+                "2025-10-29T19:43:00.999495Z",
+                "2025-10-29T19:47:05.096632Z",
+                "2025-10-29T19:50:53.134790Z",
+                "2025-10-29T21:25:49.743569Z",
+                "2025-10-29T21:27:36.416376Z",
+                "2025-10-29T21:29:58.403259Z",
+                "2025-10-29T21:31:57.521432Z",
+                "2025-10-29T21:33:36.708221Z",
+                "2025-10-29T21:35:33.850751Z",
+                "2025-10-29T21:37:29.453902Z",
+                "2025-10-29T22:46:13.316398Z",
+                "2025-10-29T22:50:16.441099Z",
+                "2025-10-29T22:53:38.544364Z",
+                "2025-10-29T22:55:28.716483Z",
+                "2025-10-29T22:58:21.434665Z",
+                "2025-10-29T23:03:17.458502Z",
+                "2025-10-29T23:05:43.032384Z",
+                "2025-10-29T23:53:40.985114Z",
+                "2025-10-29T23:55:51.769416Z",
+                "2025-10-29T23:57:46.234173Z",
+                "2025-10-29T23:59:35.186128Z",
+                "2025-10-30T00:02:29.311078Z"
+            ]
+        },
+        {
+            "id": "5c02e0f9d0a9ed2b3adc08ba6200e30c",
+            "source": "spacenews",
+            "text": "Let’s not allow the ‘Golden Age’ of space exploration to turn into fool’s gold",
+            "source_link": "https://spacenews.com/lets-not-allow-the-golden-age-of-space-exploration-to-turn-into-fools-gold/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-29T13:15:38.409272Z",
+            "shown_at": [
+                "2025-10-29T13:15:39.073534Z"
+            ]
+        },
+        {
+            "id": "eeb9aacbbe2211056cfa6ee1e3ed667c",
+            "source": "spacenews",
+            "text": "ESA outlines plans for space security program",
+            "source_link": "https://spacenews.com/esa-outlines-plans-for-space-security-program/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-29T11:06:06.935217Z",
+            "shown_at": [
+                "2025-10-29T11:06:08.266833Z"
+            ]
+        },
+        {
+            "id": "51900a79a899e7dca027811d9c83fc94",
+            "source": "spacenews",
+            "text": "Pentagon nominee: Closer Space Force-NRO integration ‘worth considering’",
+            "source_link": "https://spacenews.com/trump-nominee-closer-space-force-nro-integration-worth-considering/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-29T08:55:17.449412Z",
+            "shown_at": [
+                "2025-10-29T08:55:17.958795Z",
+                "2025-10-29T15:17:39.766559Z"
+            ]
+        },
+        {
+            "id": "9f8b51584a892aecc198eabf210e25c6",
+            "source": "spacenews",
+            "text": "Rising demand and falling costs clear path for satellite servicing",
+            "source_link": "https://spacenews.com/rising-demand-and-falling-costs-clear-path-for-satellite-servicing/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-29T04:47:38.069503Z",
+            "shown_at": [
+                "2025-10-29T04:47:38.777293Z"
+            ]
+        },
+        {
+            "id": "e99ac4a06ca70a5975b14964169cab32",
+            "source": "spacenews",
+            "text": "Trump nominee: Closer Space Force-NRO integration ‘worth considering’",
+            "source_link": "https://spacenews.com/trump-nominee-closer-space-force-nro-integration-worth-considering/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-29T00:57:44.181726Z",
+            "shown_at": [
+                "2025-10-29T00:57:44.797506Z"
+            ]
+        },
         {
             "id": "071a836b189a77e9136153483d0f1452",
             "source": "spacenews",
@@ -11975,344 +12118,6 @@
                 "2025-07-23T06:11:33.282620Z",
                 "2025-07-23T11:01:52.960265Z",
                 "2025-07-23T15:11:32.305747Z"
-            ]
-        },
-        {
-            "id": "7b9547733468a29a3f01e748803d910d",
-            "source": "nyt",
-            "text": "New Clue to How Matter Outlasted Antimatter at the Big Bang Is Found",
-            "source_link": "https://www.nytimes.com/2025/07/16/science/antimatter-lhcb-baryons.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-16T15:13:46.412227Z",
-            "shown_at": [
-                "2025-07-16T15:13:47.028524Z",
-                "2025-07-16T17:07:33.650496Z",
-                "2025-07-16T20:15:54.290775Z",
-                "2025-07-16T23:03:37.972130Z",
-                "2025-07-17T02:53:45.265664Z",
-                "2025-07-17T05:59:41.884344Z",
-                "2025-07-17T08:47:28.285866Z",
-                "2025-07-17T10:57:40.581591Z",
-                "2025-07-17T15:59:57.920246Z",
-                "2025-07-17T19:05:43.688319Z",
-                "2025-07-17T20:01:51.661614Z",
-                "2025-07-17T20:57:25.612400Z",
-                "2025-07-17T21:55:24.161650Z",
-                "2025-07-17T23:55:49.142489Z",
-                "2025-07-18T01:51:46.455708Z",
-                "2025-07-18T08:47:39.909608Z",
-                "2025-07-18T09:47:30.453491Z",
-                "2025-07-18T11:43:52.694667Z",
-                "2025-07-18T14:07:48.723840Z",
-                "2025-07-18T16:04:05.860018Z",
-                "2025-07-18T17:57:39.228290Z",
-                "2025-07-18T19:09:41.036856Z",
-                "2025-07-18T20:07:45.183536Z",
-                "2025-07-18T21:05:35.531082Z",
-                "2025-07-18T22:01:59.644506Z",
-                "2025-07-18T23:53:49.683742Z",
-                "2025-07-19T01:45:45.374279Z",
-                "2025-07-19T02:41:54.436171Z",
-                "2025-07-19T03:37:34.917798Z",
-                "2025-07-19T06:11:39.309514Z",
-                "2025-07-19T08:09:46.682232Z",
-                "2025-07-19T10:19:44.234982Z",
-                "2025-07-19T13:13:42.583282Z",
-                "2025-07-19T15:15:31.055918Z",
-                "2025-07-19T18:13:40.314771Z",
-                "2025-07-19T21:17:35.787348Z",
-                "2025-07-20T00:11:41.114697Z",
-                "2025-07-20T01:09:33.163928Z",
-                "2025-07-20T05:59:41.367565Z",
-                "2025-07-20T06:55:37.606956Z",
-                "2025-07-20T09:53:51.989833Z",
-                "2025-07-20T10:49:36.106184Z",
-                "2025-07-20T12:44:07.861276Z",
-                "2025-07-20T16:41:48.615427Z",
-                "2025-07-20T19:32:07.082556Z",
-                "2025-07-20T21:33:43.508034Z",
-                "2025-07-20T23:25:58.082556Z",
-                "2025-07-21T00:27:45.759111Z",
-                "2025-07-21T01:25:55.531566Z",
-                "2025-07-21T08:37:33.103407Z",
-                "2025-07-21T09:36:13.988428Z",
-                "2025-07-21T14:03:41.290596Z",
-                "2025-07-21T15:27:18.322688Z",
-                "2025-07-21T16:27:48.277084Z",
-                "2025-07-21T17:23:31.448451Z",
-                "2025-07-21T18:33:15.698835Z",
-                "2025-07-21T20:27:57.372379Z",
-                "2025-07-21T23:35:36.118232Z",
-                "2025-07-22T00:35:45.260892Z",
-                "2025-07-22T01:31:55.276909Z",
-                "2025-07-22T08:53:25.751069Z",
-                "2025-07-22T10:49:33.983156Z",
-                "2025-07-22T11:45:33.039659Z",
-                "2025-07-22T13:09:47.023817Z",
-                "2025-07-22T18:09:08.557499Z",
-                "2025-07-22T23:31:59.773735Z",
-                "2025-07-23T00:29:38.930625Z",
-                "2025-07-23T05:27:37.490178Z",
-                "2025-07-23T06:25:34.854550Z",
-                "2025-07-23T09:37:46.766701Z",
-                "2025-07-23T10:33:39.967861Z",
-                "2025-07-23T11:32:00.527556Z",
-                "2025-07-23T14:23:53.183087Z"
-            ]
-        },
-        {
-            "id": "34041d9b0231430200543fba97931ba3",
-            "source": "spacenews",
-            "text": "Solestial wins $1.2 million SpaceWERX contract",
-            "source_link": "https://spacenews.com/solestial-wins-1-2-million-spacewerx-contract/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-16T13:05:25.853105Z",
-            "shown_at": [
-                "2025-07-16T13:19:39.734988Z",
-                "2025-07-20T18:05:47.084153Z"
-            ]
-        },
-        {
-            "id": "d344da11cd4abdd94025e46db4bbfb22",
-            "source": "spacenews",
-            "text": "The urgent need for new rules of the road in space and cyber",
-            "source_link": "https://spacenews.com/the-urgent-need-for-new-rules-of-the-road-in-space-and-cyber/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-16T13:05:25.853039Z",
-            "shown_at": [
-                "2025-07-16T13:05:26.548197Z",
-                "2025-07-20T12:13:51.122419Z",
-                "2025-07-22T04:51:35.789882Z"
-            ]
-        },
-        {
-            "id": "6f1c5acfcd46cd355db90830407beaa0",
-            "source": "spacenews",
-            "text": "Falcon 9 launches Project Kuiper satellites",
-            "source_link": "https://spacenews.com/falcon-9-launches-project-kuiper-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-16T12:07:32.908542Z",
-            "shown_at": [
-                "2025-07-16T12:07:33.611549Z",
-                "2025-07-18T05:02:12.361209Z",
-                "2025-07-19T02:55:33.230595Z",
-                "2025-07-22T18:51:40.250342Z"
-            ]
-        },
-        {
-            "id": "2d6033562ae13e242a204623720cfadf",
-            "source": "spacenews",
-            "text": "Protestors rally behind NASA in the face of budget cuts and layoffs",
-            "source_link": "https://spacenews.com/protestors-rally-behind-nasa-in-the-face-of-budget-cuts-and-layoffs/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-16T11:09:33.523277Z",
-            "shown_at": [
-                "2025-07-16T11:09:34.127341Z",
-                "2025-07-16T17:21:47.612049Z",
-                "2025-07-19T03:51:55.300657Z",
-                "2025-07-19T15:31:59.572022Z",
-                "2025-07-20T07:23:27.517721Z",
-                "2025-07-21T08:03:14.893895Z",
-                "2025-07-22T08:39:30.354485Z"
-            ]
-        },
-        {
-            "id": "41c3d55a928d2ff7372ee82fe4603cbb",
-            "source": "spacenews",
-            "text": "New study calls for rapid development of space nuclear power systems",
-            "source_link": "https://spacenews.com/new-study-calls-for-rapid-development-of-space-nuclear-power-systems/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-16T09:15:29.016346Z",
-            "shown_at": [
-                "2025-07-16T09:15:29.673797Z",
-                "2025-07-18T10:02:48.026224Z",
-                "2025-07-21T04:47:38.815957Z",
-                "2025-07-22T01:59:35.922929Z",
-                "2025-07-22T05:47:55.214004Z",
-                "2025-07-22T21:03:53.067473Z"
-            ]
-        },
-        {
-            "id": "ad3400d2a0a6766d6cb45f76c509fd46",
-            "source": "spacenews",
-            "text": "House Armed Services Committee advances FY26 NDAA ",
-            "source_link": "https://spacenews.com/house-armed-services-committee-advances-fy26-ndaa/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-16T07:37:24.466083Z",
-            "shown_at": [
-                "2025-07-16T07:37:25.040281Z",
-                "2025-07-17T16:14:03.761045Z",
-                "2025-07-17T23:11:43.289539Z",
-                "2025-07-19T00:07:35.316890Z",
-                "2025-07-19T08:23:48.662589Z",
-                "2025-07-21T20:13:50.376009Z",
-                "2025-07-22T00:05:54.427667Z",
-                "2025-07-23T05:43:42.333948Z"
-            ]
-        },
-        {
-            "id": "99806d394311ba36967e5a13c79660ba",
-            "source": "spacenews",
-            "text": "Support from satellite services grows to 18% of UK GDP",
-            "source_link": "https://spacenews.com/support-from-satellite-services-grows-to-18-of-uk-gdp/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-15T23:05:26.343764Z",
-            "shown_at": [
-                "2025-07-15T23:05:26.845434Z",
-                "2025-07-19T10:33:49.043209Z",
-                "2025-07-20T00:39:41.476503Z",
-                "2025-07-20T02:39:43.807783Z",
-                "2025-07-22T07:41:44.715848Z"
-            ]
-        },
-        {
-            "id": "e99ac4a06ca70a5975b14964169cab32",
-            "source": "spacenews",
-            "text": "Trump nominee: Closer Space Force-NRO integration ‘worth considering’",
-            "source_link": "https://spacenews.com/trump-nominee-closer-space-force-nro-integration-worth-considering/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-29T00:57:44.181726Z",
-            "shown_at": [
-                "2025-10-29T00:57:44.797506Z"
-            ]
-        },
-        {
-            "id": "9f8b51584a892aecc198eabf210e25c6",
-            "source": "spacenews",
-            "text": "Rising demand and falling costs clear path for satellite servicing",
-            "source_link": "https://spacenews.com/rising-demand-and-falling-costs-clear-path-for-satellite-servicing/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-29T04:47:38.069503Z",
-            "shown_at": [
-                "2025-10-29T04:47:38.777293Z"
-            ]
-        },
-        {
-            "id": "51900a79a899e7dca027811d9c83fc94",
-            "source": "spacenews",
-            "text": "Pentagon nominee: Closer Space Force-NRO integration ‘worth considering’",
-            "source_link": "https://spacenews.com/trump-nominee-closer-space-force-nro-integration-worth-considering/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-29T08:55:17.449412Z",
-            "shown_at": [
-                "2025-10-29T08:55:17.958795Z",
-                "2025-10-29T15:17:39.766559Z"
-            ]
-        },
-        {
-            "id": "eeb9aacbbe2211056cfa6ee1e3ed667c",
-            "source": "spacenews",
-            "text": "ESA outlines plans for space security program",
-            "source_link": "https://spacenews.com/esa-outlines-plans-for-space-security-program/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-29T11:06:06.935217Z",
-            "shown_at": [
-                "2025-10-29T11:06:08.266833Z"
-            ]
-        },
-        {
-            "id": "5c02e0f9d0a9ed2b3adc08ba6200e30c",
-            "source": "spacenews",
-            "text": "Let’s not allow the ‘Golden Age’ of space exploration to turn into fool’s gold",
-            "source_link": "https://spacenews.com/lets-not-allow-the-golden-age-of-space-exploration-to-turn-into-fools-gold/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-29T13:15:38.409272Z",
-            "shown_at": [
-                "2025-10-29T13:15:39.073534Z"
-            ]
-        },
-        {
-            "id": "4beba9b243fe616fcb8e7be8d963bbc1",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Starlink Satellites from California",
-            "source_link": "https://www.supercluster.com/launches/starlink-11-23",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-10-30T20:06:00.000Z",
-            "time_remaining": "0d 20h 06m",
-            "fetched_datetime": "2025-10-29T17:36:52.578747Z",
-            "shown_at": [
-                "2025-10-29T17:36:53.293881Z",
-                "2025-10-29T17:40:58.292202Z",
-                "2025-10-29T17:44:55.955774Z",
-                "2025-10-29T17:49:10.058331Z",
-                "2025-10-29T17:53:05.116720Z",
-                "2025-10-29T17:57:01.996906Z",
-                "2025-10-29T18:00:58.537617Z",
-                "2025-10-29T19:27:07.961498Z",
-                "2025-10-29T19:30:49.291732Z",
-                "2025-10-29T19:34:33.997343Z",
-                "2025-10-29T19:39:24.450842Z",
-                "2025-10-29T19:43:00.999495Z",
-                "2025-10-29T19:47:05.096632Z",
-                "2025-10-29T19:50:53.134790Z",
-                "2025-10-29T21:25:49.743569Z",
-                "2025-10-29T21:27:36.416376Z",
-                "2025-10-29T21:29:58.403259Z",
-                "2025-10-29T21:31:57.521432Z",
-                "2025-10-29T21:33:36.708221Z",
-                "2025-10-29T21:35:33.850751Z",
-                "2025-10-29T21:37:29.453902Z",
-                "2025-10-29T22:46:13.316398Z",
-                "2025-10-29T22:50:16.441099Z",
-                "2025-10-29T22:53:38.544364Z",
-                "2025-10-29T22:55:28.716483Z",
-                "2025-10-29T22:58:21.434665Z",
-                "2025-10-29T23:03:17.458502Z",
-                "2025-10-29T23:05:43.032384Z",
-                "2025-10-29T23:53:40.985114Z",
-                "2025-10-29T23:55:51.769416Z",
-                "2025-10-29T23:57:46.234173Z",
-                "2025-10-29T23:59:35.186128Z"
-            ]
-        },
-        {
-            "id": "7ef640d8f23ca9a6718c2c56520709ca",
-            "source": "spacenews",
-            "text": "Saudi Arabia’s stc Group commits $175 million prepayment in AST SpaceMobile deal",
-            "source_link": "https://spacenews.com/saudi-arabias-stc-group-commits-175-million-prepayment-in-ast-spacemobile-deal/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-29T21:05:59.247889Z",
-            "shown_at": [
-                "2025-10-29T21:06:00.354829Z"
-            ]
-        },
-        {
-            "id": "154f5873b5db96500b7ae5423d14caab",
-            "source": "spacenews",
-            "text": "Investors gravitate toward space firms with defense applications",
-            "source_link": "https://spacenews.com/investors-gravitate-toward-space-firms-with-defense-applications/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-29T21:39:28.897003Z",
-            "shown_at": [
-                "2025-10-29T21:39:29.419891Z"
-            ]
-        },
-        {
-            "id": "79d3d3d358446301f92bc8cfd88c71a6",
-            "source": "spacenews",
-            "text": "Space sector’s cybersecurity dilemma: Pay now or pay later",
-            "source_link": "https://spacenews.com/space-sectors-cybersecurity-dilemma-pay-now-or-pay-later/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-29T22:27:53.329006Z",
-            "shown_at": [
-                "2025-10-29T22:27:54.111513Z"
             ]
         }
     ]
