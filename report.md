@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 23 | 50 |
+| spacenews | 8 | 16 | 24 | 51 |
 | supercluster | 1 | 1 | 119 | 119 |
-| nyt | 0 | 0 | 20 | 43 |
+| nyt | 0 | 0 | 19 | 43 |
 | breaking_defense | 0 | 0 | 20 | 44 |
 
 # Shown Order
@@ -6748,3 +6748,4 @@
 - **Oct 30, 11:57 AM** - Slingshot sells first sensors in UK deal as more nations seek space-tracking sovereignty (spacenews)
 - **Oct 30, 12:15 PM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
 - **Oct 30, 12:32 PM** - China targets 2026 for first Long March 10 launch, new lunar crew spacecraft flight (spacenews)
+- **Oct 30, 12:47 PM** - Former NASA administrators call for changes in Artemis lunar lander architecture (spacenews)
