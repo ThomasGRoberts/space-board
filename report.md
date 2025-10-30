@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 14 | 22 | 49 |
+| spacenews | 7 | 15 | 23 | 50 |
 | supercluster | 1 | 1 | 112 | 112 |
 | nyt | 0 | 0 | 20 | 44 |
 | breaking_defense | 0 | 0 | 20 | 43 |
@@ -6735,3 +6735,4 @@
 - **Oct 30, 10:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 30, 10:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 30, 10:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 30, 11:02 AM** - PDC Unveils Osiris Computer Module Featuring Microchip’s PIC64-HPSC for Next-Gen Space Missions (spacenews)

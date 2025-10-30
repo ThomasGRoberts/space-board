@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-30T00:02:28.583459+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "1a336b8433c6d2f27c531cb573b636b1",
     "data": [
         {
             "id": "79d3d3d358446301f92bc8cfd88c71a6",
@@ -12241,6 +12241,18 @@
             "fetched_datetime": "2025-10-30T04:55:35.765927Z",
             "shown_at": [
                 "2025-10-30T04:55:36.527275Z"
+            ]
+        },
+        {
+            "id": "1a336b8433c6d2f27c531cb573b636b1",
+            "source": "spacenews",
+            "text": "PDC Unveils Osiris Computer Module Featuring Microchip’s PIC64-HPSC for Next-Gen Space Missions",
+            "source_link": "https://spacenews.com/pdc-unveils-osiris-computer-module-featuring-microchips-pic64-hpsc-for-next-gen-space-missions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-30T11:02:03.051931Z",
+            "shown_at": [
+                "2025-10-30T11:02:03.658279Z"
             ]
         }
     ]
