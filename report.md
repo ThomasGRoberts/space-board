@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 20 | 30 | 54 |
-| nyt | 0 | 0 | 21 | 42 |
-| breaking_defense | 2 | 2 | 22 | 42 |
+| nyt | 0 | 0 | 21 | 41 |
+| breaking_defense | 2 | 2 | 23 | 43 |
 | supercluster | 1 | 1 | 49 | 49 |
 
 # Shown Order
@@ -6712,3 +6712,4 @@
 - **Oct 30, 11:17 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Oct 30, 11:19 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Oct 30, 11:21 PM** - Saudi Arabia’s stc Group commits $175 million prepayment in AST SpaceMobile deal (spacenews)
+- **Oct 30, 11:44 PM** - Missile threats at scale: Turning Golden Dome into reality (breaking_defense)
