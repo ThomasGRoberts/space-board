@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 20 | 29 | 54 |
+| spacenews | 12 | 21 | 30 | 55 |
 | nyt | 0 | 0 | 22 | 42 |
 | breaking_defense | 2 | 2 | 22 | 42 |
 | supercluster | 1 | 1 | 42 | 42 |
@@ -6702,3 +6702,4 @@
 - **Oct 30, 10:17 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Oct 30, 10:19 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Oct 30, 10:21 PM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
+- **Oct 30, 10:37 PM** - China’s StarDetect raises Series A funding to expand on-orbit computing and space domain awareness services (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-30T00:02:28.583459+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f5d13af9828e10a7c420355f667287bb",
+    "trigger_count": 0,
+    "current_item_id": "cfa6dbc3c7b1d5092ba1f53a4f5d05d9",
     "data": [
         {
             "id": "79d3d3d358446301f92bc8cfd88c71a6",
@@ -12340,6 +12340,18 @@
             "fetched_datetime": "2025-10-30T21:31:51.714720Z",
             "shown_at": [
                 "2025-10-30T21:31:52.515934Z"
+            ]
+        },
+        {
+            "id": "cfa6dbc3c7b1d5092ba1f53a4f5d05d9",
+            "source": "spacenews",
+            "text": "China’s StarDetect raises Series A funding to expand on-orbit computing and space domain awareness services",
+            "source_link": "https://spacenews.com/chinas-stardetect-raises-series-a-funding-to-expand-on-orbit-computing-and-space-domain-awareness-services/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-30T22:37:39.609208Z",
+            "shown_at": [
+                "2025-10-30T22:37:40.261600Z"
             ]
         }
     ]
