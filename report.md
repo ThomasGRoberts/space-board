@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 21 | 30 | 54 |
 | nyt | 0 | 0 | 22 | 42 |
-| breaking_defense | 2 | 2 | 23 | 43 |
-| supercluster | 1 | 1 | 43 | 43 |
+| breaking_defense | 2 | 2 | 22 | 43 |
+| supercluster | 1 | 1 | 44 | 44 |
 
 # Shown Order
 
@@ -6705,3 +6705,4 @@
 - **Oct 30, 10:37 PM** - China’s StarDetect raises Series A funding to expand on-orbit computing and space domain awareness services (spacenews)
 - **Oct 30, 10:51 PM** - Missile threats at scale: Turning Golden Dome into reality (breaking_defense)
 - **Oct 30, 11:07 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
+- **Oct 30, 11:09 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
