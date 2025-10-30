@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 24 | 50 |
-| supercluster | 1 | 1 | 65 | 65 |
+| supercluster | 1 | 1 | 66 | 66 |
 | nyt | 0 | 0 | 20 | 44 |
 | breaking_defense | 0 | 0 | 20 | 43 |
 
@@ -6670,3 +6670,4 @@
 - **Oct 30, 04:27 AM** - SatLeo prepares to launch first thermal-imaging payload (spacenews)
 - **Oct 30, 04:41 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 30, 04:43 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 30, 04:45 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
