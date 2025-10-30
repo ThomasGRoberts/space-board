@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-30T00:02:28.583459+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a4915b7764e2d1d87ef522de436c0036",
+    "trigger_count": 0,
+    "current_item_id": "ec2b07bef1dbc61020a429ef87eee841",
     "data": [
         {
             "id": "79d3d3d358446301f92bc8cfd88c71a6",
@@ -12308,9 +12308,12 @@
             "source": "spacenews",
             "text": "Momentus Vigoride-7 to fly DPhi Space hosted payload platform",
             "source_link": "https://spacenews.com/momentus-vigoride-7-to-fly-dphi-space-hosted-payload-platform/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-10-30T13:17:46.747887Z"
+            "fetched_datetime": "2025-10-30T13:17:46.747887Z",
+            "shown_at": [
+                "2025-10-30T13:33:53.678907Z"
+            ]
         }
     ]
 }
