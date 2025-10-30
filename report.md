@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 19 | 27 | 53 |
-| supercluster | 1 | 2 | 140 | 147 |
+| supercluster | 1 | 2 | 141 | 148 |
 | nyt | 0 | 0 | 21 | 43 |
 | breaking_defense | 2 | 2 | 22 | 43 |
 
@@ -6794,3 +6794,4 @@
 - **Oct 30, 05:29 PM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
 - **Oct 30, 05:45 PM** - Slingshot sells first sensors in UK deal as more nations seek space-tracking sovereignty (spacenews)
 - **Oct 30, 05:59 PM** - US nuclear arsenal currently safe, reliable: STRATCOM nominee (breaking_defense)
+- **Oct 30, 06:16 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
