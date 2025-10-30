@@ -5,7 +5,7 @@
 | spacenews | 11 | 19 | 27 | 53 |
 | supercluster | 2 | 2 | 140 | 140 |
 | nyt | 0 | 0 | 20 | 43 |
-| breaking_defense | 1 | 1 | 20 | 43 |
+| breaking_defense | 2 | 2 | 21 | 44 |
 
 # Shown Order
 
@@ -6783,3 +6783,4 @@
 - **Oct 30, 04:17 PM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
 - **Oct 30, 04:31 PM** - Pentagon turns to ‘government-owned, commercially-operated’ satellites amid conflict risks (spacenews)
 - **Oct 30, 04:48 PM** - Momentus Vigoride 7 to fly DPhi Space hosted payload platform (spacenews)
+- **Oct 30, 05:02 PM** - US nuclear arsenal currently safe, reliable: STRATCOM nominee (breaking_defense)
