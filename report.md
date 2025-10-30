@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 21 | 30 | 54 |
 | nyt | 0 | 0 | 22 | 42 |
-| breaking_defense | 2 | 2 | 22 | 42 |
+| breaking_defense | 2 | 2 | 23 | 43 |
 | supercluster | 1 | 1 | 42 | 42 |
 
 # Shown Order
@@ -6703,3 +6703,4 @@
 - **Oct 30, 10:19 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Oct 30, 10:21 PM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
 - **Oct 30, 10:37 PM** - China’s StarDetect raises Series A funding to expand on-orbit computing and space domain awareness services (spacenews)
+- **Oct 30, 10:51 PM** - Missile threats at scale: Turning Golden Dome into reality (breaking_defense)
