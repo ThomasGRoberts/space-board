@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 24 | 51 |
+| spacenews | 9 | 18 | 24 | 52 |
 | supercluster | 1 | 1 | 119 | 119 |
 | nyt | 0 | 0 | 20 | 43 |
 | breaking_defense | 0 | 0 | 20 | 43 |
@@ -6750,3 +6750,4 @@
 - **Oct 30, 12:32 PM** - China targets 2026 for first Long March 10 launch, new lunar crew spacecraft flight (spacenews)
 - **Oct 30, 12:47 PM** - Former NASA administrators call for changes in Artemis lunar lander architecture (spacenews)
 - **Oct 30, 01:01 PM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
+- **Oct 30, 01:17 PM** - Confronting China’s pervasive maritime gray zone campaign (spacenews)
