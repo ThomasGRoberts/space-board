@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-30T00:02:28.583459+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d59d017df20c7a981ee1eafcdc9cff15",
+    "trigger_count": 0,
+    "current_item_id": "7ccdc09b01a76db5fab7dcca489b4940",
     "data": [
         {
             "id": "79d3d3d358446301f92bc8cfd88c71a6",
@@ -12335,6 +12335,20 @@
             "fetched_datetime": "2025-10-30T13:47:47.971642Z",
             "shown_at": [
                 "2025-10-30T13:47:48.802287Z"
+            ]
+        },
+        {
+            "id": "7ccdc09b01a76db5fab7dcca489b4940",
+            "source": "supercluster",
+            "text": "China Will Launch Crew to Tiangong Space Station",
+            "source_link": "https://www.supercluster.com/launches/shenzhou-21",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-10-31T15:44:00.000Z",
+            "time_remaining": "1d 00h 41m",
+            "fetched_datetime": "2025-10-30T15:02:04.000972Z",
+            "shown_at": [
+                "2025-10-30T15:02:04.669639Z"
             ]
         }
     ]
