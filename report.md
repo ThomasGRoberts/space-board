@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 18 | 25 | 52 |
-| supercluster | 2 | 2 | 133 | 133 |
+| supercluster | 2 | 2 | 134 | 134 |
 | nyt | 0 | 0 | 19 | 43 |
 | breaking_defense | 1 | 1 | 20 | 44 |
 
@@ -6773,3 +6773,4 @@
 - **Oct 30, 03:15 PM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
 - **Oct 30, 03:29 PM** - A soft power strategy to preserve non-sovereignty from Chinese land claims on the moon  (spacenews)
 - **Oct 30, 03:45 PM** - Missile threats at scale: Turning Golden Dome into reality (breaking_defense)
+- **Oct 30, 04:02 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
