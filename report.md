@@ -5,7 +5,7 @@
 | spacenews | 12 | 20 | 30 | 54 |
 | nyt | 0 | 0 | 22 | 42 |
 | breaking_defense | 2 | 2 | 22 | 43 |
-| supercluster | 1 | 1 | 35 | 35 |
+| supercluster | 1 | 1 | 36 | 36 |
 
 # Shown Order
 
@@ -6694,3 +6694,4 @@
 - **Oct 30, 09:17 PM** - Golden Dome hype meets information vacuum as industry awaits Pentagon direction (spacenews)
 - **Oct 30, 09:31 PM** - Interest rate cut further fuels space investor optimism amid talk of returning SPACs (spacenews)
 - **Oct 30, 09:47 PM** - US nuclear arsenal currently safe, reliable: STRATCOM nominee (breaking_defense)
+- **Oct 30, 10:05 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
