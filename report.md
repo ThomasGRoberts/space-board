@@ -5,7 +5,7 @@
 | spacenews | 6 | 14 | 22 | 50 |
 | supercluster | 1 | 1 | 119 | 119 |
 | nyt | 0 | 0 | 20 | 43 |
-| breaking_defense | 0 | 0 | 20 | 43 |
+| breaking_defense | 0 | 0 | 21 | 44 |
 
 # Shown Order
 
@@ -6746,3 +6746,4 @@
 - **Oct 30, 11:53 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 30, 11:55 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 30, 11:57 AM** - Slingshot sells first sensors in UK deal as more nations seek space-tracking sovereignty (spacenews)
+- **Oct 30, 12:15 PM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
