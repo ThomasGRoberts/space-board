@@ -5,7 +5,7 @@
 | spacenews | 6 | 15 | 22 | 50 |
 | supercluster | 1 | 1 | 112 | 112 |
 | nyt | 0 | 0 | 20 | 43 |
-| breaking_defense | 0 | 0 | 20 | 43 |
+| breaking_defense | 0 | 0 | 21 | 44 |
 
 # Shown Order
 
@@ -6736,3 +6736,4 @@
 - **Oct 30, 10:57 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 30, 10:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 30, 11:02 AM** - PDC Unveils Osiris Computer Module Featuring Microchip’s PIC64-HPSC for Next-Gen Space Missions (spacenews)
+- **Oct 30, 11:15 AM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
