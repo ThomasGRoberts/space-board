@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 24 | 49 |
 | supercluster | 1 | 1 | 84 | 84 |
-| nyt | 0 | 0 | 19 | 43 |
+| nyt | 0 | 0 | 20 | 44 |
 | breaking_defense | 0 | 0 | 20 | 44 |
 
 # Shown Order
@@ -6697,3 +6697,4 @@
 - **Oct 30, 06:59 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 30, 07:02 AM** - Saudi Arabia’s stc Group commits $175 million prepayment in AST SpaceMobile deal (spacenews)
 - **Oct 30, 07:17 AM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
+- **Oct 30, 07:32 AM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
