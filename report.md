@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 19 | 27 | 52 |
-| supercluster | 1 | 2 | 145 | 147 |
+| spacenews | 11 | 19 | 28 | 53 |
+| supercluster | 1 | 2 | 144 | 147 |
 | nyt | 0 | 0 | 21 | 43 |
 | breaking_defense | 2 | 2 | 21 | 43 |
 
@@ -6792,3 +6792,4 @@
 - **Oct 30, 05:25 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Oct 30, 05:27 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Oct 30, 05:29 PM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
+- **Oct 30, 05:45 PM** - Slingshot sells first sensors in UK deal as more nations seek space-tracking sovereignty (spacenews)
