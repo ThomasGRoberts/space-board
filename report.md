@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 18 | 25 | 52 |
-| supercluster | 2 | 2 | 128 | 128 |
+| supercluster | 2 | 2 | 129 | 129 |
 | nyt | 0 | 0 | 19 | 43 |
 | breaking_defense | 1 | 1 | 20 | 43 |
 
@@ -6765,3 +6765,4 @@
 - **Oct 30, 02:47 PM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
 - **Oct 30, 03:02 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Oct 30, 03:03 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
+- **Oct 30, 03:05 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
