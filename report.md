@@ -5,7 +5,7 @@
 | spacenews | 11 | 19 | 28 | 53 |
 | supercluster | 1 | 2 | 141 | 147 |
 | nyt | 0 | 0 | 21 | 43 |
-| breaking_defense | 2 | 2 | 21 | 43 |
+| breaking_defense | 2 | 2 | 22 | 44 |
 
 # Shown Order
 
@@ -6793,3 +6793,4 @@
 - **Oct 30, 05:27 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Oct 30, 05:29 PM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
 - **Oct 30, 05:45 PM** - Slingshot sells first sensors in UK deal as more nations seek space-tracking sovereignty (spacenews)
+- **Oct 30, 05:59 PM** - US nuclear arsenal currently safe, reliable: STRATCOM nominee (breaking_defense)
