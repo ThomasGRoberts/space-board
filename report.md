@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 14 | 23 | 49 |
-| supercluster | 1 | 1 | 100 | 100 |
+| supercluster | 1 | 1 | 101 | 101 |
 | nyt | 0 | 0 | 20 | 44 |
 | breaking_defense | 0 | 0 | 20 | 44 |
 
@@ -6720,3 +6720,4 @@
 - **Oct 30, 09:33 AM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
 - **Oct 30, 09:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 30, 09:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 30, 09:51 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
