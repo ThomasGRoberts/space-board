@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 21 | 30 | 54 |
+| spacenews | 12 | 21 | 31 | 55 |
 | nyt | 0 | 0 | 22 | 42 |
 | breaking_defense | 2 | 2 | 22 | 42 |
 | supercluster | 1 | 1 | 49 | 49 |
@@ -6711,3 +6711,4 @@
 - **Oct 30, 11:15 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Oct 30, 11:17 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Oct 30, 11:19 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
+- **Oct 30, 11:21 PM** - Saudi Arabia’s stc Group commits $175 million prepayment in AST SpaceMobile deal (spacenews)
