@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 19 | 30 | 54 |
+| spacenews | 13 | 20 | 31 | 55 |
 | nyt | 0 | 0 | 22 | 43 |
 | breaking_defense | 2 | 2 | 22 | 42 |
 | supercluster | 1 | 1 | 35 | 35 |
@@ -6692,3 +6692,4 @@
 - **Oct 30, 08:43 PM** - Chinese launch firms Space Pioneer and Galactic Energy move toward IPOs (spacenews)
 - **Oct 30, 08:59 PM** - EnduroSat raises $104 million to scale production of larger small satellites (spacenews)
 - **Oct 30, 09:17 PM** - Golden Dome hype meets information vacuum as industry awaits Pentagon direction (spacenews)
+- **Oct 30, 09:31 PM** - Interest rate cut further fuels space investor optimism amid talk of returning SPACs (spacenews)
