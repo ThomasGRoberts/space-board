@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-30T00:02:28.583459+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b569f3e6916012cdf224e0d1dc2db4ca",
+    "trigger_count": 0,
+    "current_item_id": "2debd9a568ea911cbdb823bdb4c08872",
     "data": [
         {
             "id": "79d3d3d358446301f92bc8cfd88c71a6",
@@ -12296,6 +12296,27 @@
                 "2025-10-30T17:59:49.548231Z",
                 "2025-10-30T19:53:44.079556Z"
             ]
+        },
+        {
+            "id": "2debd9a568ea911cbdb823bdb4c08872",
+            "source": "spacenews",
+            "text": "EnduroSat raises $104 million to scale production of larger small satellites",
+            "source_link": "https://spacenews.com/endurosat-raises-104-million-to-scale-production-of-larger-small-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-30T20:59:30.372296Z",
+            "shown_at": [
+                "2025-10-30T20:59:31.011373Z"
+            ]
+        },
+        {
+            "id": "e1a0830266149197c32f86f49fb82e7e",
+            "source": "spacenews",
+            "text": "Golden Dome hype meets information vacuum as industry awaits Pentagon direction",
+            "source_link": "https://spacenews.com/golden-dome-hype-meets-information-vacuum-as-industry-awaits-pentagon-direction/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-10-30T20:59:30.372351Z"
         }
     ]
 }

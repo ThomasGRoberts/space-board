@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 17 | 29 | 52 |
+| spacenews | 13 | 19 | 30 | 53 |
 | nyt | 0 | 0 | 22 | 43 |
 | breaking_defense | 2 | 2 | 22 | 43 |
 | supercluster | 1 | 1 | 35 | 35 |
@@ -6690,3 +6690,4 @@
 - **Oct 30, 08:23 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Oct 30, 08:27 PM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
 - **Oct 30, 08:43 PM** - Chinese launch firms Space Pioneer and Galactic Energy move toward IPOs (spacenews)
+- **Oct 30, 08:59 PM** - EnduroSat raises $104 million to scale production of larger small satellites (spacenews)
