@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 14 | 23 | 50 |
+| spacenews | 7 | 15 | 24 | 51 |
 | supercluster | 1 | 1 | 70 | 70 |
 | nyt | 0 | 0 | 20 | 44 |
 | breaking_defense | 0 | 0 | 20 | 43 |
@@ -6675,3 +6675,4 @@
 - **Oct 30, 04:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 30, 04:51 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 30, 04:53 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 30, 04:55 AM** - Quantum’s promise for near and long-term space applications (spacenews)

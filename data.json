@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-30T00:02:28.583459+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4beba9b243fe616fcb8e7be8d963bbc1",
+    "trigger_count": 0,
+    "current_item_id": "b549f6db6200283dc9b51b86b60747da",
     "data": [
         {
             "id": "79d3d3d358446301f92bc8cfd88c71a6",
@@ -12170,6 +12170,18 @@
                 "2025-07-23T06:11:33.282620Z",
                 "2025-07-23T11:01:52.960265Z",
                 "2025-07-23T15:11:32.305747Z"
+            ]
+        },
+        {
+            "id": "b549f6db6200283dc9b51b86b60747da",
+            "source": "spacenews",
+            "text": "Quantum’s promise for near and long-term space applications",
+            "source_link": "https://spacenews.com/quantums-promise-for-near-and-long-term-space-applications/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-30T04:55:35.765927Z",
+            "shown_at": [
+                "2025-10-30T04:55:36.527275Z"
             ]
         }
     ]
