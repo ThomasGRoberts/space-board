@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-30T00:02:28.583459+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d59d017df20c7a981ee1eafcdc9cff15",
+    "trigger_count": 0,
+    "current_item_id": "55fd68d443108113d2f4f515b57e912a",
     "data": [
         {
             "id": "79d3d3d358446301f92bc8cfd88c71a6",
@@ -12265,6 +12265,27 @@
             "shown_at": [
                 "2025-10-30T11:02:03.658279Z"
             ]
+        },
+        {
+            "id": "55fd68d443108113d2f4f515b57e912a",
+            "source": "spacenews",
+            "text": "China targets 2026 for first Long March 10 launch, new lunar crew spacecraft flight",
+            "source_link": "https://spacenews.com/china-targets-2026-for-first-long-march-10-launch-new-lunar-crew-spacecraft-flight/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-30T12:32:06.653933Z",
+            "shown_at": [
+                "2025-10-30T12:32:07.346675Z"
+            ]
+        },
+        {
+            "id": "70623a7989edf7cd77ae45e4d903d95b",
+            "source": "spacenews",
+            "text": "Former NASA administrators call for changes in Artemis lunar lander architecture",
+            "source_link": "https://spacenews.com/former-nasa-administrators-call-for-changes-in-artemis-lunar-lander-architecture/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-10-30T12:32:06.653994Z"
         }
     ]
 }
