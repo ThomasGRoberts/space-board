@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 14 | 24 | 50 |
-| supercluster | 1 | 1 | 51 | 51 |
+| spacenews | 7 | 14 | 23 | 50 |
+| supercluster | 1 | 1 | 52 | 52 |
 | nyt | 0 | 0 | 20 | 44 |
 | breaking_defense | 0 | 0 | 20 | 43 |
 
@@ -6650,3 +6650,4 @@
 - **Oct 30, 02:32 AM** - H3 launches first HTV-X cargo spacecraft (spacenews)
 - **Oct 30, 02:47 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 30, 02:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 30, 02:51 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
