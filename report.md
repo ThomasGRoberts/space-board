@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 19 | 27 | 52 |
+| spacenews | 11 | 19 | 28 | 53 |
 | supercluster | 1 | 2 | 147 | 154 |
 | nyt | 0 | 0 | 22 | 43 |
 | breaking_defense | 2 | 2 | 21 | 43 |
@@ -6802,3 +6802,4 @@
 - **Oct 30, 06:25 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 30, 06:27 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 30, 06:29 PM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
+- **Oct 30, 06:43 PM** - Malaysia and the Philippines sign Artemis Accords (spacenews)
