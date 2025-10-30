@@ -5,7 +5,7 @@
 | spacenews | 7 | 14 | 24 | 50 |
 | supercluster | 1 | 1 | 77 | 77 |
 | nyt | 0 | 0 | 20 | 43 |
-| breaking_defense | 0 | 0 | 20 | 43 |
+| breaking_defense | 0 | 0 | 21 | 44 |
 
 # Shown Order
 
@@ -6686,3 +6686,4 @@
 - **Oct 30, 05:49 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 30, 05:52 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 30, 05:53 AM** - China launches new Gaofen-14 stereo mapping satellite (spacenews)
+- **Oct 30, 06:11 AM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
