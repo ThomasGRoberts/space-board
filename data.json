@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-30T00:02:28.583459+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f5d13af9828e10a7c420355f667287bb",
+    "trigger_count": 0,
+    "current_item_id": "766cff55200f0e36d061dd867806913c",
     "data": [
         {
             "id": "79d3d3d358446301f92bc8cfd88c71a6",
@@ -12367,6 +12367,27 @@
                 "2025-10-30T16:13:53.816175Z",
                 "2025-10-30T16:15:28.175630Z"
             ]
+        },
+        {
+            "id": "766cff55200f0e36d061dd867806913c",
+            "source": "spacenews",
+            "text": "Pentagon turns to ‘government-owned, commercially-operated’ satellites amid conflict risks",
+            "source_link": "https://spacenews.com/pentagon-turns-to-government-owned-commercially-operated-satellites-amid-conflict-risks/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-30T16:31:51.492769Z",
+            "shown_at": [
+                "2025-10-30T16:31:52.314137Z"
+            ]
+        },
+        {
+            "id": "1fd76708c103c560f71f14c5bbb0187b",
+            "source": "spacenews",
+            "text": "Momentus Vigoride 7 to fly DPhi Space hosted payload platform",
+            "source_link": "https://spacenews.com/momentus-vigoride-7-to-fly-dphi-space-hosted-payload-platform/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2025-10-30T16:31:51.493018Z"
         }
     ]
 }
