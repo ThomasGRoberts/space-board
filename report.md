@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 24 | 49 |
 | supercluster | 1 | 1 | 35 | 35 |
-| nyt | 0 | 0 | 20 | 43 |
+| nyt | 0 | 0 | 21 | 44 |
 | breaking_defense | 0 | 0 | 20 | 43 |
 
 # Shown Order
@@ -6626,3 +6626,4 @@
 - **Oct 30, 12:06 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 30, 12:07 AM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 30, 12:09 AM** - Europe’s strategic autonomy push fuels space mega-merger (breaking_defense)
+- **Oct 30, 12:24 AM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
