@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 18 | 25 | 52 |
-| supercluster | 1 | 1 | 119 | 119 |
+| supercluster | 1 | 1 | 120 | 120 |
 | nyt | 0 | 0 | 19 | 43 |
 | breaking_defense | 1 | 1 | 20 | 43 |
 
@@ -6753,3 +6753,4 @@
 - **Oct 30, 01:17 PM** - Confronting China’s pervasive maritime gray zone campaign (spacenews)
 - **Oct 30, 01:33 PM** - Momentus Vigoride-7 to fly DPhi Space hosted payload platform (spacenews)
 - **Oct 30, 01:47 PM** - Missile threats at scale: Turning Golden Dome into reality (breaking_defense)
+- **Oct 30, 02:02 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
