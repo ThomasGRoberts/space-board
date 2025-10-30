@@ -5,7 +5,7 @@
 | spacenews | 11 | 17 | 28 | 52 |
 | nyt | 0 | 0 | 22 | 43 |
 | breaking_defense | 2 | 2 | 23 | 44 |
-| supercluster | 1 | 1 | 28 | 28 |
+| supercluster | 1 | 1 | 29 | 29 |
 
 # Shown Order
 
@@ -6681,3 +6681,4 @@
 - **Oct 30, 07:25 PM** - Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract (nyt)
 - **Oct 30, 07:39 PM** - H3 launches first HTV-X cargo spacecraft (spacenews)
 - **Oct 30, 07:53 PM** - US nuclear arsenal currently safe, reliable: STRATCOM nominee (breaking_defense)
+- **Oct 30, 08:09 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
