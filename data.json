@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-31T00:03:38.721289+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f4e3dac983ec8b8f8fd090b73986143a",
+    "trigger_count": 0,
+    "current_item_id": "3e218b5f2ab3d8b1f29964fbabfb55cc",
     "data": [
         {
             "id": "cfa6dbc3c7b1d5092ba1f53a4f5d05d9",
@@ -12127,6 +12127,18 @@
             "fetched_datetime": "2025-10-31T10:13:50.777601Z",
             "shown_at": [
                 "2025-10-31T10:13:51.490414Z"
+            ]
+        },
+        {
+            "id": "3e218b5f2ab3d8b1f29964fbabfb55cc",
+            "source": "breaking_defense",
+            "text": "Hegseth’s acquisition reform speech: What might come – and what’s already underway.",
+            "source_link": "https://breakingdefense.com/2025/10/hegseth-defense-industry-speech-acquisition-reform-what-to-expect/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-31T12:07:16.298282Z",
+            "shown_at": [
+                "2025-10-31T12:07:16.979676Z"
             ]
         }
     ]
