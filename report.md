@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 19 | 30 | 54 |
+| spacenews | 12 | 19 | 30 | 53 |
 | breaking_defense | 2 | 2 | 23 | 43 |
-| supercluster | 1 | 1 | 72 | 72 |
+| supercluster | 1 | 1 | 73 | 73 |
 | nyt | 0 | 0 | 18 | 38 |
 
 # Shown Order
@@ -6533,3 +6533,4 @@
 - **Oct 31, 02:23 AM** - Missile threats at scale: Turning Golden Dome into reality (breaking_defense)
 - **Oct 31, 02:45 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Oct 31, 02:47 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
+- **Oct 31, 02:53 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
