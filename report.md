@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 18 | 27 | 52 |
 | breaking_defense | 2 | 3 | 24 | 43 |
-| supercluster | 0 | 1 | 149 | 156 |
+| supercluster | 0 | 1 | 150 | 157 |
 | nyt | 0 | 0 | 6 | 26 |
 
 # Shown Order
@@ -6643,3 +6643,4 @@
 - **Oct 31, 03:02 PM** - Hegseth’s acquisition reform speech: What might come – and what’s already underway. (breaking_defense)
 - **Oct 31, 03:27 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Oct 31, 03:35 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
+- **Oct 31, 03:43 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
