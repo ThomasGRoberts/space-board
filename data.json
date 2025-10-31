@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-31T00:03:38.721289+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f4e3dac983ec8b8f8fd090b73986143a",
+    "trigger_count": 0,
+    "current_item_id": "7ee665fb74288950b0b6de58b31d4b73",
     "data": [
         {
             "id": "cfa6dbc3c7b1d5092ba1f53a4f5d05d9",
@@ -12098,6 +12098,18 @@
                 "2025-07-22T16:43:29.180356Z",
                 "2025-07-23T16:16:09.138751Z",
                 "2025-07-24T17:21:52.180876Z"
+            ]
+        },
+        {
+            "id": "7ee665fb74288950b0b6de58b31d4b73",
+            "source": "spacenews",
+            "text": "European Commission weighs inviting Ukraine to Europe’s GOVSATCOM platform",
+            "source_link": "https://spacenews.com/european-commission-weighs-inviting-ukraine-to-europes-govsatcom-platform/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-31T10:13:50.777601Z",
+            "shown_at": [
+                "2025-10-31T10:13:51.490414Z"
             ]
         }
     ]
