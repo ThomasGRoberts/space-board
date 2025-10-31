@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 18 | 26 | 52 |
+| spacenews | 7 | 18 | 26 | 53 |
 | breaking_defense | 2 | 3 | 23 | 43 |
 | nyt | 0 | 0 | 5 | 25 |
 | supercluster | 1 | 1 | 2 | 2 |
@@ -6489,3 +6489,4 @@
 - **Oct 31, 03:02 PM** - Hegseth’s acquisition reform speech: What might come – and what’s already underway. (breaking_defense)
 - **Oct 31, 04:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 31, 04:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 31, 04:53 PM** - China launches new Gaofen-14 stereo mapping satellite (spacenews)
