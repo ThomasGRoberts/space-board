@@ -5,7 +5,7 @@
 | spacenews | 9 | 18 | 27 | 52 |
 | breaking_defense | 2 | 3 | 23 | 43 |
 | nyt | 0 | 0 | 6 | 25 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 0 | 0 |
 
 # Shown Order
 
@@ -6487,4 +6487,3 @@
 - **Oct 31, 01:27 PM** - Interest rate cut further fuels space investor optimism amid talk of returning SPACs (spacenews)
 - **Oct 31, 02:23 PM** - Resources, reactors and rivalries will decide the new moon race (spacenews)
 - **Oct 31, 03:02 PM** - Hegseth’s acquisition reform speech: What might come – and what’s already underway. (breaking_defense)
-- **Oct 31, 03:59 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
