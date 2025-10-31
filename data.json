@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-31T00:03:38.721289+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b0a225a113dc9621426386cad3fbdcdc",
+    "trigger_count": 0,
+    "current_item_id": "436a99d02105dc2a3708845521239c9e",
     "data": [
         {
             "id": "cfa6dbc3c7b1d5092ba1f53a4f5d05d9",
@@ -12030,6 +12030,18 @@
             "shown_at": [
                 "2025-10-31T16:45:36.762550Z",
                 "2025-10-31T16:47:51.787248Z"
+            ]
+        },
+        {
+            "id": "436a99d02105dc2a3708845521239c9e",
+            "source": "spacenews",
+            "text": "For clues to the future of military space, look in the air",
+            "source_link": "https://spacenews.com/for-clues-to-the-future-of-military-space-look-in-the-air/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-31T19:02:14.405667Z",
+            "shown_at": [
+                "2025-10-31T19:02:15.221994Z"
             ]
         }
     ]
