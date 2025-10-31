@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 18 | 31 | 54 |
 | breaking_defense | 2 | 2 | 23 | 43 |
-| supercluster | 1 | 1 | 127 | 127 |
-| nyt | 0 | 0 | 11 | 31 |
+| supercluster | 1 | 1 | 128 | 128 |
+| nyt | 0 | 0 | 10 | 31 |
 
 # Shown Order
 
@@ -6605,3 +6605,4 @@
 - **Oct 31, 09:49 AM** - US nuclear arsenal currently safe, reliable: STRATCOM nominee (breaking_defense)
 - **Oct 31, 10:13 AM** - European Commission weighs inviting Ukraine to Europe’s GOVSATCOM platform (spacenews)
 - **Oct 31, 10:29 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
+- **Oct 31, 10:35 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
