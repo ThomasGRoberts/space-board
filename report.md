@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 18 | 29 | 53 |
 | breaking_defense | 3 | 3 | 24 | 44 |
-| supercluster | 1 | 1 | 142 | 142 |
+| supercluster | 1 | 1 | 143 | 143 |
 | nyt | 0 | 0 | 9 | 28 |
 
 # Shown Order
@@ -6625,3 +6625,4 @@
 - **Oct 31, 12:29 PM** - Blue Origin test-fires New Glenn ahead of second launch (spacenews)
 - **Oct 31, 12:55 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Oct 31, 12:57 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
+- **Oct 31, 12:59 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
