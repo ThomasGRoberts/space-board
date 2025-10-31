@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 18 | 30 | 54 |
-| breaking_defense | 2 | 2 | 22 | 43 |
+| breaking_defense | 2 | 2 | 23 | 44 |
 | supercluster | 1 | 1 | 98 | 98 |
 | nyt | 0 | 0 | 15 | 35 |
 
@@ -6566,3 +6566,4 @@
 - **Oct 31, 05:53 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Oct 31, 05:55 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Oct 31, 05:57 AM** - Shutdown could soon slow preparations for Artemis 2 (spacenews)
+- **Oct 31, 06:13 AM** - Missile threats at scale: Turning Golden Dome into reality (breaking_defense)
