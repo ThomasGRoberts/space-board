@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 19 | 30 | 53 |
+| spacenews | 12 | 19 | 31 | 54 |
 | breaking_defense | 2 | 2 | 22 | 43 |
 | supercluster | 1 | 1 | 77 | 77 |
 | nyt | 0 | 0 | 18 | 38 |
@@ -6538,3 +6538,4 @@
 - **Oct 31, 02:59 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Oct 31, 03:02 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Oct 31, 03:05 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
+- **Oct 31, 03:09 AM** - Malaysia and the Philippines sign Artemis Accords (spacenews)
