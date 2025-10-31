@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 18 | 29 | 53 |
 | breaking_defense | 3 | 3 | 24 | 44 |
-| supercluster | 1 | 1 | 140 | 140 |
+| supercluster | 1 | 1 | 141 | 141 |
 | nyt | 0 | 0 | 9 | 28 |
 
 # Shown Order
@@ -6623,3 +6623,4 @@
 - **Oct 31, 11:45 AM** - US nuclear arsenal currently safe, reliable: STRATCOM nominee (breaking_defense)
 - **Oct 31, 12:07 PM** - Hegseth’s acquisition reform speech: What might come – and what’s already underway. (breaking_defense)
 - **Oct 31, 12:29 PM** - Blue Origin test-fires New Glenn ahead of second launch (spacenews)
+- **Oct 31, 12:55 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
