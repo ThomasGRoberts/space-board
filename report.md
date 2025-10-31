@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 18 | 30 | 54 |
 | breaking_defense | 2 | 2 | 23 | 43 |
-| supercluster | 1 | 1 | 106 | 106 |
+| supercluster | 1 | 1 | 107 | 107 |
 | nyt | 0 | 0 | 14 | 33 |
 
 # Shown Order
@@ -6577,3 +6577,4 @@
 - **Oct 31, 06:45 AM** - Cambrian Works Announces Partnership with Aptos Orbital to Integrate the GigRouter and Aptos Terminal (spacenews)
 - **Oct 31, 07:05 AM** - US nuclear arsenal currently safe, reliable: STRATCOM nominee (breaking_defense)
 - **Oct 31, 07:27 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
+- **Oct 31, 07:29 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
