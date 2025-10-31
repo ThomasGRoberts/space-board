@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 17 | 28 | 52 |
+| spacenews | 8 | 17 | 29 | 53 |
 | breaking_defense | 3 | 3 | 25 | 45 |
 | supercluster | 1 | 1 | 147 | 147 |
 | nyt | 0 | 0 | 8 | 28 |
@@ -6631,3 +6631,4 @@
 - **Oct 31, 01:07 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Oct 31, 01:09 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Oct 31, 01:11 PM** - US nuclear arsenal currently safe, reliable: STRATCOM nominee (breaking_defense)
+- **Oct 31, 01:27 PM** - Interest rate cut further fuels space investor optimism amid talk of returning SPACs (spacenews)
