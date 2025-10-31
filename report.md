@@ -4,8 +4,8 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 18 | 30 | 54 |
 | breaking_defense | 2 | 2 | 23 | 43 |
-| supercluster | 1 | 1 | 99 | 99 |
-| nyt | 0 | 0 | 15 | 35 |
+| supercluster | 1 | 1 | 100 | 100 |
+| nyt | 0 | 0 | 14 | 34 |
 
 # Shown Order
 
@@ -6568,3 +6568,4 @@
 - **Oct 31, 05:57 AM** - Shutdown could soon slow preparations for Artemis 2 (spacenews)
 - **Oct 31, 06:13 AM** - Missile threats at scale: Turning Golden Dome into reality (breaking_defense)
 - **Oct 31, 06:29 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
+- **Oct 31, 06:32 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
