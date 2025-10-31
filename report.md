@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 19 | 30 | 54 |
 | breaking_defense | 2 | 2 | 23 | 43 |
-| supercluster | 1 | 1 | 70 | 70 |
+| supercluster | 1 | 1 | 71 | 71 |
 | nyt | 0 | 0 | 18 | 38 |
 
 # Shown Order
@@ -6531,3 +6531,4 @@
 - **Oct 31, 02:07 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Oct 31, 02:09 AM** - Global Defense Satcom Commercial Service Revenues Positioned to Skyrocket Past $8.6 Billion by 2034 (spacenews)
 - **Oct 31, 02:23 AM** - Missile threats at scale: Turning Golden Dome into reality (breaking_defense)
+- **Oct 31, 02:45 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
