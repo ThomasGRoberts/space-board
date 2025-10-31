@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 19 | 30 | 54 |
 | breaking_defense | 2 | 2 | 23 | 43 |
-| supercluster | 1 | 1 | 77 | 77 |
+| supercluster | 1 | 1 | 78 | 78 |
 | nyt | 0 | 0 | 17 | 37 |
 
 # Shown Order
@@ -6540,3 +6540,4 @@
 - **Oct 31, 03:05 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Oct 31, 03:09 AM** - Malaysia and the Philippines sign Artemis Accords (spacenews)
 - **Oct 31, 03:29 AM** - US nuclear arsenal currently safe, reliable: STRATCOM nominee (breaking_defense)
+- **Oct 31, 03:47 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
