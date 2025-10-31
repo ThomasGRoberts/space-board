@@ -1,9 +1,250 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-10-30T00:02:28.583459+00:00",
-    "trigger_count": 1,
+    "last_run_datetime": "2025-10-31T00:03:38.721289+00:00",
+    "trigger_count": 2,
     "current_item_id": "7ccdc09b01a76db5fab7dcca489b4940",
     "data": [
+        {
+            "id": "cfa6dbc3c7b1d5092ba1f53a4f5d05d9",
+            "source": "spacenews",
+            "text": "China’s StarDetect raises Series A funding to expand on-orbit computing and space domain awareness services",
+            "source_link": "https://spacenews.com/chinas-stardetect-raises-series-a-funding-to-expand-on-orbit-computing-and-space-domain-awareness-services/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-30T22:37:39.609208Z",
+            "shown_at": [
+                "2025-10-30T22:37:40.261600Z"
+            ]
+        },
+        {
+            "id": "8a20a573290761de104bb40637b59209",
+            "source": "spacenews",
+            "text": "Interest rate cut further fuels space investor optimism amid talk of returning SPACs",
+            "source_link": "https://spacenews.com/interest-rate-cut-further-fuels-space-investor-optimism-amid-talk-of-returning-spacs/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-30T21:31:51.714720Z",
+            "shown_at": [
+                "2025-10-30T21:31:52.515934Z"
+            ]
+        },
+        {
+            "id": "e1a0830266149197c32f86f49fb82e7e",
+            "source": "spacenews",
+            "text": "Golden Dome hype meets information vacuum as industry awaits Pentagon direction",
+            "source_link": "https://spacenews.com/golden-dome-hype-meets-information-vacuum-as-industry-awaits-pentagon-direction/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-30T20:59:30.372351Z",
+            "shown_at": [
+                "2025-10-30T21:17:22.074066Z"
+            ]
+        },
+        {
+            "id": "2debd9a568ea911cbdb823bdb4c08872",
+            "source": "spacenews",
+            "text": "EnduroSat raises $104 million to scale production of larger small satellites",
+            "source_link": "https://spacenews.com/endurosat-raises-104-million-to-scale-production-of-larger-small-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-30T20:59:30.372296Z",
+            "shown_at": [
+                "2025-10-30T20:59:31.011373Z"
+            ]
+        },
+        {
+            "id": "f4e3dac983ec8b8f8fd090b73986143a",
+            "source": "breaking_defense",
+            "text": "US nuclear arsenal currently safe, reliable: STRATCOM nominee",
+            "source_link": "https://breakingdefense.com/2025/10/us-nuclear-arsenal-currently-safe-reliable-stratcom-nominee/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-30T17:02:05.412018Z",
+            "shown_at": [
+                "2025-10-30T17:02:06.002542Z",
+                "2025-10-30T17:59:49.548231Z",
+                "2025-10-30T19:53:44.079556Z",
+                "2025-10-30T21:47:28.957331Z"
+            ]
+        },
+        {
+            "id": "1fd76708c103c560f71f14c5bbb0187b",
+            "source": "spacenews",
+            "text": "Momentus Vigoride 7 to fly DPhi Space hosted payload platform",
+            "source_link": "https://spacenews.com/momentus-vigoride-7-to-fly-dphi-space-hosted-payload-platform/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-30T16:31:51.493018Z",
+            "shown_at": [
+                "2025-10-30T16:48:05.083279Z"
+            ]
+        },
+        {
+            "id": "766cff55200f0e36d061dd867806913c",
+            "source": "spacenews",
+            "text": "Pentagon turns to ‘government-owned, commercially-operated’ satellites amid conflict risks",
+            "source_link": "https://spacenews.com/pentagon-turns-to-government-owned-commercially-operated-satellites-amid-conflict-risks/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-30T16:31:51.492769Z",
+            "shown_at": [
+                "2025-10-30T16:31:52.314137Z"
+            ]
+        },
+        {
+            "id": "7ccdc09b01a76db5fab7dcca489b4940",
+            "source": "supercluster",
+            "text": "China Will Launch Crew to Tiangong Space Station",
+            "source_link": "https://www.supercluster.com/launches/shenzhou-21",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-10-31T15:44:00.000Z",
+            "time_remaining": "0d 15h 40m",
+            "fetched_datetime": "2025-10-30T15:02:04.000972Z",
+            "shown_at": [
+                "2025-10-30T15:02:04.669639Z",
+                "2025-10-30T15:03:41.915593Z",
+                "2025-10-30T15:05:38.635689Z",
+                "2025-10-30T15:07:44.322180Z",
+                "2025-10-30T15:09:32.093334Z",
+                "2025-10-30T15:11:55.197394Z",
+                "2025-10-30T15:14:00.063450Z",
+                "2025-10-30T16:02:08.781427Z",
+                "2025-10-30T16:05:33.330829Z",
+                "2025-10-30T16:07:13.792084Z",
+                "2025-10-30T16:09:40.560494Z",
+                "2025-10-30T16:11:31.342863Z",
+                "2025-10-30T16:13:53.816175Z",
+                "2025-10-30T16:15:28.175630Z",
+                "2025-10-30T17:15:47.793369Z",
+                "2025-10-30T17:17:25.903328Z",
+                "2025-10-30T17:19:28.200276Z",
+                "2025-10-30T17:21:34.716243Z",
+                "2025-10-30T17:23:12.836659Z",
+                "2025-10-30T17:25:39.222681Z",
+                "2025-10-30T17:27:33.091826Z",
+                "2025-10-30T19:12:00.949782Z",
+                "2025-10-30T19:13:40.816927Z",
+                "2025-10-30T19:15:52.563091Z",
+                "2025-10-30T19:17:50.137148Z",
+                "2025-10-30T19:19:40.172105Z",
+                "2025-10-30T19:21:40.854883Z",
+                "2025-10-30T19:23:42.307810Z",
+                "2025-10-30T20:09:45.143780Z",
+                "2025-10-30T20:11:46.074471Z",
+                "2025-10-30T20:13:43.889457Z",
+                "2025-10-30T20:15:45.973581Z",
+                "2025-10-30T20:18:06.241377Z",
+                "2025-10-30T20:21:47.347747Z",
+                "2025-10-30T20:23:25.154457Z",
+                "2025-10-30T22:05:42.169626Z",
+                "2025-10-30T22:07:31.809783Z",
+                "2025-10-30T22:11:43.936415Z",
+                "2025-10-30T22:13:51.063214Z",
+                "2025-10-30T22:15:36.899666Z",
+                "2025-10-30T22:17:30.348243Z",
+                "2025-10-30T22:19:44.332497Z",
+                "2025-10-30T23:07:54.759722Z",
+                "2025-10-30T23:09:50.003376Z",
+                "2025-10-30T23:11:31.138688Z",
+                "2025-10-30T23:13:37.635536Z",
+                "2025-10-30T23:15:39.290645Z",
+                "2025-10-30T23:17:43.950752Z",
+                "2025-10-30T23:19:43.444050Z",
+                "2025-10-30T23:57:40.879871Z",
+                "2025-10-30T23:59:46.996913Z",
+                "2025-10-31T00:03:39.505998Z"
+            ]
+        },
+        {
+            "id": "b0a225a113dc9621426386cad3fbdcdc",
+            "source": "breaking_defense",
+            "text": "Missile threats at scale: Turning Golden Dome into reality",
+            "source_link": "https://breakingdefense.com/2025/10/missile-threats-at-scale-turning-golden-dome-into-reality/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-30T13:47:47.971642Z",
+            "shown_at": [
+                "2025-10-30T13:47:48.802287Z",
+                "2025-10-30T15:45:45.749365Z",
+                "2025-10-30T18:57:54.376688Z",
+                "2025-10-30T22:51:55.044600Z",
+                "2025-10-30T23:44:01.283845Z"
+            ]
+        },
+        {
+            "id": "ec2b07bef1dbc61020a429ef87eee841",
+            "source": "spacenews",
+            "text": "Momentus Vigoride-7 to fly DPhi Space hosted payload platform",
+            "source_link": "https://spacenews.com/momentus-vigoride-7-to-fly-dphi-space-hosted-payload-platform/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-30T13:17:46.747887Z",
+            "shown_at": [
+                "2025-10-30T13:33:53.678907Z"
+            ]
+        },
+        {
+            "id": "a4915b7764e2d1d87ef522de436c0036",
+            "source": "spacenews",
+            "text": "Confronting China’s pervasive maritime gray zone campaign",
+            "source_link": "https://spacenews.com/confronting-chinas-pervasive-maritime-gray-zone-campaign/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-30T13:17:46.747804Z",
+            "shown_at": [
+                "2025-10-30T13:17:48.144750Z"
+            ]
+        },
+        {
+            "id": "70623a7989edf7cd77ae45e4d903d95b",
+            "source": "spacenews",
+            "text": "Former NASA administrators call for changes in Artemis lunar lander architecture",
+            "source_link": "https://spacenews.com/former-nasa-administrators-call-for-changes-in-artemis-lunar-lander-architecture/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-30T12:32:06.653994Z",
+            "shown_at": [
+                "2025-10-30T12:47:35.269766Z"
+            ]
+        },
+        {
+            "id": "55fd68d443108113d2f4f515b57e912a",
+            "source": "spacenews",
+            "text": "China targets 2026 for first Long March 10 launch, new lunar crew spacecraft flight",
+            "source_link": "https://spacenews.com/china-targets-2026-for-first-long-march-10-launch-new-lunar-crew-spacecraft-flight/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-30T12:32:06.653933Z",
+            "shown_at": [
+                "2025-10-30T12:32:07.346675Z"
+            ]
+        },
+        {
+            "id": "1a336b8433c6d2f27c531cb573b636b1",
+            "source": "spacenews",
+            "text": "PDC Unveils Osiris Computer Module Featuring Microchip’s PIC64-HPSC for Next-Gen Space Missions",
+            "source_link": "https://spacenews.com/pdc-unveils-osiris-computer-module-featuring-microchips-pic64-hpsc-for-next-gen-space-missions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-30T11:02:03.051931Z",
+            "shown_at": [
+                "2025-10-30T11:02:03.658279Z",
+                "2025-10-30T14:33:37.211652Z"
+            ]
+        },
+        {
+            "id": "b549f6db6200283dc9b51b86b60747da",
+            "source": "spacenews",
+            "text": "Quantum’s promise for near and long-term space applications",
+            "source_link": "https://spacenews.com/quantums-promise-for-near-and-long-term-space-applications/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-30T04:55:35.765927Z",
+            "shown_at": [
+                "2025-10-30T04:55:36.527275Z"
+            ]
+        },
         {
             "id": "79d3d3d358446301f92bc8cfd88c71a6",
             "source": "spacenews",
@@ -11761,609 +12002,6 @@
                 "2025-07-22T16:43:29.180356Z",
                 "2025-07-23T16:16:09.138751Z",
                 "2025-07-24T17:21:52.180876Z"
-            ]
-        },
-        {
-            "id": "6b1541c9661824a2a09336c984170589",
-            "source": "spacenews",
-            "text": "Polish space company SatRev launches Omani ground station amid international expansion",
-            "source_link": "https://spacenews.com/polish-space-company-satrev-launches-omani-ground-station-amid-international-expansion/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-18T18:13:36.593987Z",
-            "shown_at": [
-                "2025-07-18T18:13:37.302967Z",
-                "2025-07-23T00:43:51.641736Z",
-                "2025-07-24T22:29:29.394217Z"
-            ]
-        },
-        {
-            "id": "5b7948c90b07d1143c763781a315ef8f",
-            "source": "spacenews",
-            "text": "China conducts structural tests for Long March 10 human spaceflight rocket",
-            "source_link": "https://spacenews.com/china-conducts-structural-tests-for-long-march-10-human-spaceflight-rocket/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-18T13:53:37.321249Z",
-            "shown_at": [
-                "2025-07-18T13:53:37.946497Z",
-                "2025-07-19T07:26:00.879330Z",
-                "2025-07-19T22:43:09.699669Z",
-                "2025-07-22T10:33:34.976930Z",
-                "2025-07-24T05:07:58.534803Z",
-                "2025-07-25T09:15:45.955925Z"
-            ]
-        },
-        {
-            "id": "5f2a6ccd6a7af1aa57db70647803b5a7",
-            "source": "spacenews",
-            "text": "York Space parent company to acquire ground systems operator Atlas Space",
-            "source_link": "https://spacenews.com/york-space-parent-company-to-acquire-ground-systems-operator-atlas-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-18T13:11:43.746098Z",
-            "shown_at": [
-                "2025-07-18T13:11:44.416316Z",
-                "2025-07-20T10:21:27.188880Z",
-                "2025-07-20T22:01:58.382805Z",
-                "2025-07-21T09:05:50.001398Z",
-                "2025-07-21T22:11:50.685281Z",
-                "2025-07-22T03:55:44.897462Z",
-                "2025-07-22T14:47:44.948530Z",
-                "2025-07-23T06:41:30.519507Z",
-                "2025-07-24T23:27:49.617817Z",
-                "2025-07-25T00:25:09.480029Z",
-                "2025-07-25T05:13:42.129759Z"
-            ]
-        },
-        {
-            "id": "a00c403f06a3b931b8772be560b5cfef",
-            "source": "spacenews",
-            "text": "House Democrats accuse NASA of illegal impoundment of funds",
-            "source_link": "https://spacenews.com/house-democrats-accuse-nasa-of-illegal-impoundment-of-funds/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-18T12:13:31.313101Z",
-            "shown_at": [
-                "2025-07-18T12:13:31.994423Z",
-                "2025-07-19T11:31:53.625700Z",
-                "2025-07-20T16:11:45.299006Z",
-                "2025-07-22T06:43:49.797262Z",
-                "2025-07-22T17:41:36.768773Z",
-                "2025-07-22T22:45:43.046561Z",
-                "2025-07-24T03:13:21.442810Z"
-            ]
-        },
-        {
-            "id": "1930ca9dbbe95939578f84a613050cdb",
-            "source": "spacenews",
-            "text": "Senate confirms Guetlein to lead Golden Dome",
-            "source_link": "https://spacenews.com/senate-confirms-guetlein-to-lead-golden-dome/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-18T06:02:01.588570Z",
-            "shown_at": [
-                "2025-07-18T06:02:02.110103Z",
-                "2025-07-19T06:25:47.076842Z",
-                "2025-07-20T08:24:11.306652Z",
-                "2025-07-21T15:43:48.197461Z",
-                "2025-07-24T12:57:40.884726Z"
-            ]
-        },
-        {
-            "id": "4f2cfb8155e895b3dca8b19d79b8243d",
-            "source": "spacenews",
-            "text": "ESCAPADE to launch on second New Glenn",
-            "source_link": "https://spacenews.com/escapade-to-launch-on-second-new-glenn/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-18T01:05:48.189950Z",
-            "shown_at": [
-                "2025-07-18T01:05:49.288082Z",
-                "2025-07-19T05:30:02.688405Z",
-                "2025-07-19T19:51:29.618496Z",
-                "2025-07-21T11:55:41.465177Z",
-                "2025-07-22T02:55:34.712769Z",
-                "2025-07-24T07:01:55.040750Z",
-                "2025-07-24T09:51:51.883330Z"
-            ]
-        },
-        {
-            "id": "5be19af273272338db2f8de0c7c33774",
-            "source": "breaking_defense",
-            "text": "Space Force begins testing of first OCX software blocks for GPS sats",
-            "source_link": "https://breakingdefense.com/2025/07/space-force-begins-testing-of-first-ocx-software-blocks-for-gps-sats/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-17T16:57:36.233825Z",
-            "shown_at": [
-                "2025-07-17T16:57:37.243598Z",
-                "2025-07-17T20:43:50.938058Z",
-                "2025-07-18T01:37:47.841025Z",
-                "2025-07-18T02:33:50.006960Z",
-                "2025-07-18T11:29:39.869569Z",
-                "2025-07-18T13:39:39.307121Z",
-                "2025-07-18T23:39:42.507602Z",
-                "2025-07-19T06:55:30.224676Z",
-                "2025-07-19T11:02:19.244714Z",
-                "2025-07-19T16:57:35.711647Z",
-                "2025-07-19T22:57:45.487119Z",
-                "2025-07-20T01:53:47.055218Z",
-                "2025-07-20T03:49:38.384754Z",
-                "2025-07-20T05:45:37.680379Z",
-                "2025-07-20T08:39:36.157607Z",
-                "2025-07-20T10:35:53.643538Z",
-                "2025-07-20T16:27:51.870721Z",
-                "2025-07-20T20:18:00.367075Z",
-                "2025-07-21T00:12:14.482960Z",
-                "2025-07-21T01:12:19.096931Z",
-                "2025-07-21T04:02:23.658711Z",
-                "2025-07-21T07:12:45.723601Z",
-                "2025-07-21T09:21:57.700484Z",
-                "2025-07-21T11:13:50.403186Z",
-                "2025-07-21T12:09:14.845500Z",
-                "2025-07-21T14:31:46.444707Z",
-                "2025-07-21T18:05:43.212701Z",
-                "2025-07-22T02:41:41.723766Z",
-                "2025-07-22T03:41:41.002714Z",
-                "2025-07-22T10:19:46.533515Z",
-                "2025-07-22T15:31:53.375047Z",
-                "2025-07-22T19:33:35.581225Z",
-                "2025-07-22T23:15:36.753853Z",
-                "2025-07-23T02:21:41.905298Z",
-                "2025-07-23T21:39:38.812068Z",
-                "2025-07-23T22:37:33.843186Z",
-                "2025-07-24T01:32:10.307048Z",
-                "2025-07-24T16:54:06.520634Z"
-            ]
-        },
-        {
-            "id": "2c39837a196929550e1edbc841bc87d7",
-            "source": "spacenews",
-            "text": "Lyles concerned about sweeping changes to advisory committees",
-            "source_link": "https://spacenews.com/lyles-concerned-about-sweeping-changes-to-advisory-committees/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-17T12:55:54.106517Z",
-            "shown_at": [
-                "2025-07-17T12:55:54.735832Z",
-                "2025-07-18T17:43:37.174898Z",
-                "2025-07-22T19:47:37.414794Z",
-                "2025-07-23T01:53:43.955366Z",
-                "2025-07-23T22:07:54.524625Z"
-            ]
-        },
-        {
-            "id": "7bbbc429a4efacd0d578427c89fc9681",
-            "source": "spacenews",
-            "text": "Duffy just getting started as acting NASA administrator",
-            "source_link": "https://spacenews.com/duffy-just-getting-started-as-acting-nasa-administrator/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-17T11:13:36.604180Z",
-            "shown_at": [
-                "2025-07-17T11:13:37.150050Z",
-                "2025-07-18T20:23:39.145795Z",
-                "2025-07-18T22:15:44.758884Z",
-                "2025-07-19T13:29:52.340357Z",
-                "2025-07-19T17:26:11.470625Z",
-                "2025-07-19T21:48:01.270337Z",
-                "2025-07-20T05:31:35.229790Z",
-                "2025-07-20T13:13:34.756906Z",
-                "2025-07-20T19:59:35.158436Z",
-                "2025-07-24T00:05:49.262640Z",
-                "2025-07-24T10:49:48.643605Z"
-            ]
-        },
-        {
-            "id": "809488640a406fcf5e413bcfac25cb7a",
-            "source": "spacenews",
-            "text": "HTR makes available engineering models of full-metal elastic Lunar wheels",
-            "source_link": "https://spacenews.com/htr-makes-available-engineering-models-of-full-metal-elastic-lunar-wheels/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-17T09:43:37.679955Z",
-            "shown_at": [
-                "2025-07-17T09:43:38.310624Z",
-                "2025-07-18T02:05:58.286779Z",
-                "2025-07-20T15:14:39.704809Z",
-                "2025-07-22T09:37:38.274120Z"
-            ]
-        },
-        {
-            "id": "9b8fe1731cae6a6f9150b46170b236bf",
-            "source": "spacenews",
-            "text": "Space Force sets guidelines prioritizing military missions as launch demand surges",
-            "source_link": "https://spacenews.com/space-force-sets-guidelines-prioritizing-military-missions-as-launch-demand-surges/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-17T07:23:33.335410Z",
-            "shown_at": [
-                "2025-07-17T07:23:33.925511Z",
-                "2025-07-17T08:19:42.822063Z",
-                "2025-07-17T09:15:50.011668Z",
-                "2025-07-20T04:34:08.332974Z",
-                "2025-07-23T07:41:41.878300Z"
-            ]
-        },
-        {
-            "id": "f789379272b220892780c4d001a61129",
-            "source": "spacenews",
-            "text": "SES closes Intelsat deal and sets course for rapid transformation",
-            "source_link": "https://spacenews.com/ses-closes-intelsat-deal-and-sets-course-for-rapid-transformation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-17T05:31:58.174284Z",
-            "shown_at": [
-                "2025-07-17T05:31:59.764037Z",
-                "2025-07-18T11:57:37.152810Z"
-            ]
-        },
-        {
-            "id": "6db14a2de15805c820460e7ac43d4570",
-            "source": "breaking_defense",
-            "text": "Trump taps new Air Force, Space Force No. 2s",
-            "source_link": "https://breakingdefense.com/2025/07/trump-taps-new-air-force-space-force-no-2s/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-16T20:43:29.438962Z",
-            "shown_at": [
-                "2025-07-16T20:43:30.131179Z",
-                "2025-07-16T23:31:48.470956Z",
-                "2025-07-17T00:31:52.137608Z",
-                "2025-07-17T01:27:30.470095Z",
-                "2025-07-17T03:23:45.716864Z",
-                "2025-07-17T06:13:51.711178Z",
-                "2025-07-17T07:09:57.649425Z",
-                "2025-07-17T08:05:51.627469Z",
-                "2025-07-17T10:12:02.447186Z",
-                "2025-07-17T15:31:59.819470Z",
-                "2025-07-17T21:39:41.019672Z",
-                "2025-07-17T22:41:57.610246Z",
-                "2025-07-17T23:41:43.320262Z",
-                "2025-07-18T00:37:33.232035Z",
-                "2025-07-18T04:25:29.094509Z",
-                "2025-07-18T05:32:07.717829Z",
-                "2025-07-18T06:33:58.333619Z",
-                "2025-07-18T07:37:34.468211Z",
-                "2025-07-18T08:33:45.898643Z",
-                "2025-07-18T09:32:04.573711Z",
-                "2025-07-18T10:31:49.732412Z",
-                "2025-07-18T12:43:44.383216Z",
-                "2025-07-18T14:37:37.760949Z",
-                "2025-07-18T15:35:35.654098Z",
-                "2025-07-18T17:29:27.373012Z",
-                "2025-07-18T21:47:40.323672Z",
-                "2025-07-18T22:43:26.932547Z",
-                "2025-07-19T00:35:17.076682Z",
-                "2025-07-19T02:27:43.409616Z",
-                "2025-07-19T03:23:40.376436Z",
-                "2025-07-19T05:01:59.564523Z",
-                "2025-07-19T11:59:51.398342Z",
-                "2025-07-19T12:58:21.243319Z",
-                "2025-07-19T13:59:44.996033Z",
-                "2025-07-19T14:59:45.489510Z",
-                "2025-07-19T17:57:29.681451Z",
-                "2025-07-19T21:03:37.404175Z",
-                "2025-07-20T04:49:19.662792Z",
-                "2025-07-20T07:37:43.329486Z",
-                "2025-07-20T13:27:45.126506Z",
-                "2025-07-20T18:20:13.490918Z",
-                "2025-07-20T22:15:50.065801Z",
-                "2025-07-20T23:11:49.771373Z",
-                "2025-07-21T03:05:56.299384Z",
-                "2025-07-21T08:22:01.073021Z",
-                "2025-07-21T16:13:32.075440Z",
-                "2025-07-21T17:09:12.208493Z",
-                "2025-07-21T21:57:30.356313Z",
-                "2025-07-21T23:49:56.698652Z",
-                "2025-07-22T09:23:16.947812Z",
-                "2025-07-22T12:41:38.952158Z",
-                "2025-07-22T17:27:58.207678Z",
-                "2025-07-23T03:21:50.821511Z",
-                "2025-07-23T04:17:41.976015Z",
-                "2025-07-23T18:03:47.685568Z"
-            ]
-        },
-        {
-            "id": "d7c74070667165036bcb15b50a1e4921",
-            "source": "breaking_defense",
-            "text": "Resolute Space exercise focuses Guardians on countering ‘realistic’ threats to satellites",
-            "source_link": "https://breakingdefense.com/2025/07/resolute-space-exercise-focuses-guardians-on-countering-realistic-threats-to-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-16T17:49:38.210119Z",
-            "shown_at": [
-                "2025-07-16T17:49:38.858069Z",
-                "2025-07-16T18:49:41.200683Z",
-                "2025-07-16T21:39:31.108513Z",
-                "2025-07-16T22:35:51.921272Z",
-                "2025-07-17T02:25:51.537226Z",
-                "2025-07-17T04:21:38.819406Z",
-                "2025-07-17T19:47:30.987591Z",
-                "2025-07-18T03:29:45.378412Z",
-                "2025-07-18T16:31:59.530308Z",
-                "2025-07-18T18:55:53.053115Z",
-                "2025-07-18T19:51:47.227418Z",
-                "2025-07-18T20:51:48.599296Z",
-                "2025-07-19T01:31:56.200247Z",
-                "2025-07-19T05:57:29.309690Z",
-                "2025-07-19T07:53:37.508390Z",
-                "2025-07-19T08:51:23.890896Z",
-                "2025-07-19T09:49:27.006763Z",
-                "2025-07-19T16:02:06.282853Z",
-                "2025-07-19T19:09:33.915464Z",
-                "2025-07-19T20:07:36.268187Z",
-                "2025-07-19T22:02:01.103815Z",
-                "2025-07-19T23:55:23.972100Z",
-                "2025-07-20T00:54:27.979916Z",
-                "2025-07-20T02:53:40.625931Z",
-                "2025-07-20T06:41:35.827408Z",
-                "2025-07-20T09:39:39.051795Z",
-                "2025-07-20T11:31:59.788902Z",
-                "2025-07-20T12:28:00.161865Z",
-                "2025-07-20T14:27:49.287724Z",
-                "2025-07-20T15:29:36.677721Z",
-                "2025-07-20T17:23:34.611613Z",
-                "2025-07-20T19:17:45.722410Z",
-                "2025-07-20T21:19:49.120028Z",
-                "2025-07-21T02:09:49.656682Z",
-                "2025-07-21T05:02:21.100256Z",
-                "2025-07-21T06:03:58.183925Z",
-                "2025-07-21T10:17:16.362216Z",
-                "2025-07-21T13:35:48.728405Z",
-                "2025-07-21T19:59:44.092876Z",
-                "2025-07-21T22:53:33.844612Z",
-                "2025-07-22T01:45:43.373137Z",
-                "2025-07-22T04:37:52.600998Z",
-                "2025-07-22T06:29:42.061379Z",
-                "2025-07-22T07:27:45.474646Z",
-                "2025-07-22T11:17:17.713471Z",
-                "2025-07-23T00:15:45.277676Z",
-                "2025-07-23T05:13:55.391243Z",
-                "2025-07-23T06:11:33.282620Z",
-                "2025-07-23T11:01:52.960265Z",
-                "2025-07-23T15:11:32.305747Z"
-            ]
-        },
-        {
-            "id": "b549f6db6200283dc9b51b86b60747da",
-            "source": "spacenews",
-            "text": "Quantum’s promise for near and long-term space applications",
-            "source_link": "https://spacenews.com/quantums-promise-for-near-and-long-term-space-applications/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-30T04:55:35.765927Z",
-            "shown_at": [
-                "2025-10-30T04:55:36.527275Z"
-            ]
-        },
-        {
-            "id": "1a336b8433c6d2f27c531cb573b636b1",
-            "source": "spacenews",
-            "text": "PDC Unveils Osiris Computer Module Featuring Microchip’s PIC64-HPSC for Next-Gen Space Missions",
-            "source_link": "https://spacenews.com/pdc-unveils-osiris-computer-module-featuring-microchips-pic64-hpsc-for-next-gen-space-missions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-30T11:02:03.051931Z",
-            "shown_at": [
-                "2025-10-30T11:02:03.658279Z",
-                "2025-10-30T14:33:37.211652Z"
-            ]
-        },
-        {
-            "id": "55fd68d443108113d2f4f515b57e912a",
-            "source": "spacenews",
-            "text": "China targets 2026 for first Long March 10 launch, new lunar crew spacecraft flight",
-            "source_link": "https://spacenews.com/china-targets-2026-for-first-long-march-10-launch-new-lunar-crew-spacecraft-flight/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-30T12:32:06.653933Z",
-            "shown_at": [
-                "2025-10-30T12:32:07.346675Z"
-            ]
-        },
-        {
-            "id": "70623a7989edf7cd77ae45e4d903d95b",
-            "source": "spacenews",
-            "text": "Former NASA administrators call for changes in Artemis lunar lander architecture",
-            "source_link": "https://spacenews.com/former-nasa-administrators-call-for-changes-in-artemis-lunar-lander-architecture/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-30T12:32:06.653994Z",
-            "shown_at": [
-                "2025-10-30T12:47:35.269766Z"
-            ]
-        },
-        {
-            "id": "a4915b7764e2d1d87ef522de436c0036",
-            "source": "spacenews",
-            "text": "Confronting China’s pervasive maritime gray zone campaign",
-            "source_link": "https://spacenews.com/confronting-chinas-pervasive-maritime-gray-zone-campaign/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-30T13:17:46.747804Z",
-            "shown_at": [
-                "2025-10-30T13:17:48.144750Z"
-            ]
-        },
-        {
-            "id": "ec2b07bef1dbc61020a429ef87eee841",
-            "source": "spacenews",
-            "text": "Momentus Vigoride-7 to fly DPhi Space hosted payload platform",
-            "source_link": "https://spacenews.com/momentus-vigoride-7-to-fly-dphi-space-hosted-payload-platform/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-30T13:17:46.747887Z",
-            "shown_at": [
-                "2025-10-30T13:33:53.678907Z"
-            ]
-        },
-        {
-            "id": "b0a225a113dc9621426386cad3fbdcdc",
-            "source": "breaking_defense",
-            "text": "Missile threats at scale: Turning Golden Dome into reality",
-            "source_link": "https://breakingdefense.com/2025/10/missile-threats-at-scale-turning-golden-dome-into-reality/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-30T13:47:47.971642Z",
-            "shown_at": [
-                "2025-10-30T13:47:48.802287Z",
-                "2025-10-30T15:45:45.749365Z",
-                "2025-10-30T18:57:54.376688Z",
-                "2025-10-30T22:51:55.044600Z",
-                "2025-10-30T23:44:01.283845Z"
-            ]
-        },
-        {
-            "id": "7ccdc09b01a76db5fab7dcca489b4940",
-            "source": "supercluster",
-            "text": "China Will Launch Crew to Tiangong Space Station",
-            "source_link": "https://www.supercluster.com/launches/shenzhou-21",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-10-31T15:44:00.000Z",
-            "time_remaining": "0d 15h 44m",
-            "fetched_datetime": "2025-10-30T15:02:04.000972Z",
-            "shown_at": [
-                "2025-10-30T15:02:04.669639Z",
-                "2025-10-30T15:03:41.915593Z",
-                "2025-10-30T15:05:38.635689Z",
-                "2025-10-30T15:07:44.322180Z",
-                "2025-10-30T15:09:32.093334Z",
-                "2025-10-30T15:11:55.197394Z",
-                "2025-10-30T15:14:00.063450Z",
-                "2025-10-30T16:02:08.781427Z",
-                "2025-10-30T16:05:33.330829Z",
-                "2025-10-30T16:07:13.792084Z",
-                "2025-10-30T16:09:40.560494Z",
-                "2025-10-30T16:11:31.342863Z",
-                "2025-10-30T16:13:53.816175Z",
-                "2025-10-30T16:15:28.175630Z",
-                "2025-10-30T17:15:47.793369Z",
-                "2025-10-30T17:17:25.903328Z",
-                "2025-10-30T17:19:28.200276Z",
-                "2025-10-30T17:21:34.716243Z",
-                "2025-10-30T17:23:12.836659Z",
-                "2025-10-30T17:25:39.222681Z",
-                "2025-10-30T17:27:33.091826Z",
-                "2025-10-30T19:12:00.949782Z",
-                "2025-10-30T19:13:40.816927Z",
-                "2025-10-30T19:15:52.563091Z",
-                "2025-10-30T19:17:50.137148Z",
-                "2025-10-30T19:19:40.172105Z",
-                "2025-10-30T19:21:40.854883Z",
-                "2025-10-30T19:23:42.307810Z",
-                "2025-10-30T20:09:45.143780Z",
-                "2025-10-30T20:11:46.074471Z",
-                "2025-10-30T20:13:43.889457Z",
-                "2025-10-30T20:15:45.973581Z",
-                "2025-10-30T20:18:06.241377Z",
-                "2025-10-30T20:21:47.347747Z",
-                "2025-10-30T20:23:25.154457Z",
-                "2025-10-30T22:05:42.169626Z",
-                "2025-10-30T22:07:31.809783Z",
-                "2025-10-30T22:11:43.936415Z",
-                "2025-10-30T22:13:51.063214Z",
-                "2025-10-30T22:15:36.899666Z",
-                "2025-10-30T22:17:30.348243Z",
-                "2025-10-30T22:19:44.332497Z",
-                "2025-10-30T23:07:54.759722Z",
-                "2025-10-30T23:09:50.003376Z",
-                "2025-10-30T23:11:31.138688Z",
-                "2025-10-30T23:13:37.635536Z",
-                "2025-10-30T23:15:39.290645Z",
-                "2025-10-30T23:17:43.950752Z",
-                "2025-10-30T23:19:43.444050Z",
-                "2025-10-30T23:57:40.879871Z",
-                "2025-10-30T23:59:46.996913Z"
-            ]
-        },
-        {
-            "id": "766cff55200f0e36d061dd867806913c",
-            "source": "spacenews",
-            "text": "Pentagon turns to ‘government-owned, commercially-operated’ satellites amid conflict risks",
-            "source_link": "https://spacenews.com/pentagon-turns-to-government-owned-commercially-operated-satellites-amid-conflict-risks/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-30T16:31:51.492769Z",
-            "shown_at": [
-                "2025-10-30T16:31:52.314137Z"
-            ]
-        },
-        {
-            "id": "1fd76708c103c560f71f14c5bbb0187b",
-            "source": "spacenews",
-            "text": "Momentus Vigoride 7 to fly DPhi Space hosted payload platform",
-            "source_link": "https://spacenews.com/momentus-vigoride-7-to-fly-dphi-space-hosted-payload-platform/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-30T16:31:51.493018Z",
-            "shown_at": [
-                "2025-10-30T16:48:05.083279Z"
-            ]
-        },
-        {
-            "id": "f4e3dac983ec8b8f8fd090b73986143a",
-            "source": "breaking_defense",
-            "text": "US nuclear arsenal currently safe, reliable: STRATCOM nominee",
-            "source_link": "https://breakingdefense.com/2025/10/us-nuclear-arsenal-currently-safe-reliable-stratcom-nominee/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-30T17:02:05.412018Z",
-            "shown_at": [
-                "2025-10-30T17:02:06.002542Z",
-                "2025-10-30T17:59:49.548231Z",
-                "2025-10-30T19:53:44.079556Z",
-                "2025-10-30T21:47:28.957331Z"
-            ]
-        },
-        {
-            "id": "2debd9a568ea911cbdb823bdb4c08872",
-            "source": "spacenews",
-            "text": "EnduroSat raises $104 million to scale production of larger small satellites",
-            "source_link": "https://spacenews.com/endurosat-raises-104-million-to-scale-production-of-larger-small-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-30T20:59:30.372296Z",
-            "shown_at": [
-                "2025-10-30T20:59:31.011373Z"
-            ]
-        },
-        {
-            "id": "e1a0830266149197c32f86f49fb82e7e",
-            "source": "spacenews",
-            "text": "Golden Dome hype meets information vacuum as industry awaits Pentagon direction",
-            "source_link": "https://spacenews.com/golden-dome-hype-meets-information-vacuum-as-industry-awaits-pentagon-direction/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-30T20:59:30.372351Z",
-            "shown_at": [
-                "2025-10-30T21:17:22.074066Z"
-            ]
-        },
-        {
-            "id": "8a20a573290761de104bb40637b59209",
-            "source": "spacenews",
-            "text": "Interest rate cut further fuels space investor optimism amid talk of returning SPACs",
-            "source_link": "https://spacenews.com/interest-rate-cut-further-fuels-space-investor-optimism-amid-talk-of-returning-spacs/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-30T21:31:51.714720Z",
-            "shown_at": [
-                "2025-10-30T21:31:52.515934Z"
-            ]
-        },
-        {
-            "id": "cfa6dbc3c7b1d5092ba1f53a4f5d05d9",
-            "source": "spacenews",
-            "text": "China’s StarDetect raises Series A funding to expand on-orbit computing and space domain awareness services",
-            "source_link": "https://spacenews.com/chinas-stardetect-raises-series-a-funding-to-expand-on-orbit-computing-and-space-domain-awareness-services/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-30T22:37:39.609208Z",
-            "shown_at": [
-                "2025-10-30T22:37:40.261600Z"
             ]
         }
     ]
