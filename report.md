@@ -5,7 +5,7 @@
 | spacenews | 7 | 18 | 26 | 52 |
 | breaking_defense | 2 | 3 | 23 | 43 |
 | nyt | 0 | 0 | 5 | 25 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -6488,3 +6488,4 @@
 - **Oct 31, 02:23 PM** - Resources, reactors and rivalries will decide the new moon race (spacenews)
 - **Oct 31, 03:02 PM** - Hegseth’s acquisition reform speech: What might come – and what’s already underway. (breaking_defense)
 - **Oct 31, 04:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
+- **Oct 31, 04:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
