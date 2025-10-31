@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 19 | 30 | 54 |
+| spacenews | 12 | 19 | 31 | 54 |
 | breaking_defense | 2 | 2 | 23 | 43 |
 | supercluster | 1 | 1 | 63 | 63 |
 | nyt | 0 | 0 | 20 | 40 |
@@ -6520,3 +6520,4 @@
 - **Oct 31, 12:53 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Oct 31, 12:55 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Oct 31, 12:57 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
+- **Oct 31, 01:00 AM** - Federating Europe’s Earth Observation Ground Segment: The DOMINO-E Proof of Concept (spacenews)
