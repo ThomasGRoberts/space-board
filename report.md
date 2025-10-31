@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 18 | 29 | 53 |
+| spacenews | 11 | 18 | 30 | 54 |
 | breaking_defense | 2 | 2 | 23 | 43 |
 | supercluster | 1 | 1 | 98 | 98 |
 | nyt | 0 | 0 | 15 | 35 |
@@ -6565,3 +6565,4 @@
 - **Oct 31, 05:51 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Oct 31, 05:53 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Oct 31, 05:55 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
+- **Oct 31, 05:57 AM** - Shutdown could soon slow preparations for Artemis 2 (spacenews)
