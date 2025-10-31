@@ -2,10 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 19 | 24 | 52 |
+| spacenews | 8 | 19 | 23 | 52 |
 | breaking_defense | 1 | 3 | 20 | 42 |
-| nyt | 0 | 0 | 1 | 24 |
-| supercluster | 1 | 1 | 2 | 2 |
+| nyt | 0 | 0 | 1 | 23 |
 
 # Shown Order
 
@@ -6487,8 +6486,6 @@
 - **Oct 31, 01:27 PM** - Interest rate cut further fuels space investor optimism amid talk of returning SPACs (spacenews)
 - **Oct 31, 02:23 PM** - Resources, reactors and rivalries will decide the new moon race (spacenews)
 - **Oct 31, 03:02 PM** - Hegseth’s acquisition reform speech: What might come – and what’s already underway. (breaking_defense)
-- **Oct 31, 04:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
-- **Oct 31, 04:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 31, 04:53 PM** - China launches new Gaofen-14 stereo mapping satellite (spacenews)
 - **Oct 31, 06:03 PM** - Missile threats at scale: Turning Golden Dome into reality (breaking_defense)
 - **Oct 31, 07:02 PM** - For clues to the future of military space, look in the air (spacenews)
