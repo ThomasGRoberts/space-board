@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 18 | 25 | 53 |
-| breaking_defense | 1 | 3 | 22 | 43 |
+| breaking_defense | 1 | 3 | 22 | 44 |
 | nyt | 0 | 0 | 4 | 25 |
 | supercluster | 1 | 1 | 2 | 2 |
 
@@ -6490,3 +6490,4 @@
 - **Oct 31, 04:45 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 31, 04:47 PM** - SpaceX Will Launch Starlink Satellites from California (supercluster)
 - **Oct 31, 04:53 PM** - China launches new Gaofen-14 stereo mapping satellite (spacenews)
+- **Oct 31, 06:03 PM** - Missile threats at scale: Turning Golden Dome into reality (breaking_defense)
