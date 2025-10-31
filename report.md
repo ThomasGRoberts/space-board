@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 18 | 31 | 54 |
-| breaking_defense | 2 | 2 | 23 | 43 |
+| breaking_defense | 2 | 2 | 24 | 44 |
 | supercluster | 1 | 1 | 119 | 119 |
 | nyt | 0 | 0 | 12 | 32 |
 
@@ -6593,3 +6593,4 @@
 - **Oct 31, 08:25 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Oct 31, 08:27 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Oct 31, 08:29 AM** - Iridium unveils chip to bring GPS protection to mass-market devices (spacenews)
+- **Oct 31, 08:47 AM** - Missile threats at scale: Turning Golden Dome into reality (breaking_defense)
