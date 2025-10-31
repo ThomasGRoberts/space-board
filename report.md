@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 19 | 31 | 54 |
-| breaking_defense | 2 | 2 | 22 | 42 |
+| breaking_defense | 2 | 2 | 23 | 43 |
 | supercluster | 1 | 1 | 84 | 84 |
 | nyt | 0 | 0 | 16 | 37 |
 
@@ -6548,3 +6548,4 @@
 - **Oct 31, 04:01 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Oct 31, 04:03 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Oct 31, 04:05 AM** - Space is a warfighting domain. We need wartime urgency for procurement reform. (spacenews)
+- **Oct 31, 04:21 AM** - US nuclear arsenal currently safe, reliable: STRATCOM nominee (breaking_defense)
