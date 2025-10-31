@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 19 | 30 | 53 |
+| spacenews | 12 | 19 | 31 | 54 |
 | breaking_defense | 2 | 2 | 22 | 43 |
 | supercluster | 1 | 1 | 70 | 70 |
 | nyt | 0 | 0 | 19 | 39 |
@@ -6529,3 +6529,4 @@
 - **Oct 31, 02:02 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Oct 31, 02:05 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Oct 31, 02:07 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
+- **Oct 31, 02:09 AM** - Global Defense Satcom Commercial Service Revenues Positioned to Skyrocket Past $8.6 Billion by 2034 (spacenews)
