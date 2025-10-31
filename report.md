@@ -3,9 +3,9 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 18 | 30 | 54 |
-| breaking_defense | 2 | 2 | 22 | 42 |
+| breaking_defense | 2 | 2 | 23 | 43 |
 | supercluster | 1 | 1 | 91 | 91 |
-| nyt | 0 | 0 | 16 | 36 |
+| nyt | 0 | 0 | 15 | 36 |
 
 # Shown Order
 
@@ -6557,3 +6557,4 @@
 - **Oct 31, 04:57 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Oct 31, 04:59 AM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Oct 31, 05:02 AM** - H3 launches first HTV-X cargo spacecraft (spacenews)
+- **Oct 31, 05:24 AM** - Missile threats at scale: Turning Golden Dome into reality (breaking_defense)
