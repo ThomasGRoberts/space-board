@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-31T00:03:38.721289+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3e218b5f2ab3d8b1f29964fbabfb55cc",
+    "trigger_count": 0,
+    "current_item_id": "f19becc101554f538c7396b40ef0b9af",
     "data": [
         {
             "id": "cfa6dbc3c7b1d5092ba1f53a4f5d05d9",
@@ -12139,6 +12139,18 @@
             "fetched_datetime": "2025-10-31T12:07:16.298282Z",
             "shown_at": [
                 "2025-10-31T12:07:16.979676Z"
+            ]
+        },
+        {
+            "id": "f19becc101554f538c7396b40ef0b9af",
+            "source": "spacenews",
+            "text": "Blue Origin test-fires New Glenn ahead of second launch",
+            "source_link": "https://spacenews.com/blue-origin-test-fires-new-glenn-ahead-of-second-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-31T12:29:28.668744Z",
+            "shown_at": [
+                "2025-10-31T12:29:29.289488Z"
             ]
         }
     ]
