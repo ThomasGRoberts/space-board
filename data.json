@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-10-31T00:03:38.721289+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7ccdc09b01a76db5fab7dcca489b4940",
+    "trigger_count": 0,
+    "current_item_id": "1b444cc2232923a90b8935c557350917",
     "data": [
         {
             "id": "cfa6dbc3c7b1d5092ba1f53a4f5d05d9",
@@ -12167,6 +12167,18 @@
             "fetched_datetime": "2025-10-31T12:29:28.668744Z",
             "shown_at": [
                 "2025-10-31T12:29:29.289488Z"
+            ]
+        },
+        {
+            "id": "1b444cc2232923a90b8935c557350917",
+            "source": "spacenews",
+            "text": "Resources, reactors and rivalries will decide the new moon race",
+            "source_link": "https://spacenews.com/resources-reactors-and-rivalries-will-decide-the-new-moon-race/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-31T14:23:36.196760Z",
+            "shown_at": [
+                "2025-10-31T14:23:36.889526Z"
             ]
         }
     ]
