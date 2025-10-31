@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 18 | 28 | 53 |
-| breaking_defense | 2 | 3 | 23 | 43 |
+| breaking_defense | 2 | 3 | 24 | 44 |
 | supercluster | 1 | 1 | 154 | 154 |
 | nyt | 0 | 0 | 7 | 26 |
 
@@ -6640,3 +6640,4 @@
 - **Oct 31, 02:15 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Oct 31, 02:17 PM** - China Will Launch Crew to Tiangong Space Station (supercluster)
 - **Oct 31, 02:23 PM** - Resources, reactors and rivalries will decide the new moon race (spacenews)
+- **Oct 31, 03:02 PM** - Hegseth’s acquisition reform speech: What might come – and what’s already underway. (breaking_defense)
