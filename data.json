@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-12-26T20:34:25.275815+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0369a52ea12575c3033189f758e294ac",
+    "trigger_count": 0,
+    "current_item_id": "ced5c3cda305c59e05fec051318bc41c",
     "data": [
         {
             "id": "436a99d02105dc2a3708845521239c9e",
@@ -12022,9 +12022,12 @@
             "source": "spacenews",
             "text": "Perseverance continues science mission amid uncertainty about Mars Sample Return",
             "source_link": "https://spacenews.com/perseverance-continues-science-mission-amid-uncertainty-about-mars-sample-return/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-12-26T22:16:10.489116Z"
+            "fetched_datetime": "2025-12-26T22:16:10.489116Z",
+            "shown_at": [
+                "2025-12-26T22:49:59.710118Z"
+            ]
         }
     ]
 }
