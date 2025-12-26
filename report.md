@@ -5,7 +5,7 @@
 | spacenews | 2 | 2 | 2 | 2 |
 | breaking_defense | 1 | 1 | 1 | 1 |
 | nyt | 1 | 1 | 1 | 1 |
-| supercluster | 1 | 1 | 8 | 8 |
+| supercluster | 1 | 1 | 9 | 9 |
 
 # Shown Order
 
@@ -6478,3 +6478,4 @@
 - **Dec 26, 10:16 PM** - Former ULA chief Bruno joins Blue Origin (spacenews)
 - **Dec 26, 10:49 PM** - Perseverance continues science mission amid uncertainty about Mars Sample Return (spacenews)
 - **Dec 26, 11:26 PM** - SpaceX Will Launch Italian Earth Observation Satellite (supercluster)
+- **Dec 26, 11:31 PM** - SpaceX Will Launch Italian Earth Observation Satellite (supercluster)
