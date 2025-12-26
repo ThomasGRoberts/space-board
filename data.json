@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-12-26T20:34:25.275815+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e5a0917bfdde42612a3a7eabff117808",
+    "trigger_count": 0,
+    "current_item_id": "28b43666e7b33f7965746854b1eb7963",
     "data": [
         {
             "id": "436a99d02105dc2a3708845521239c9e",
@@ -11991,6 +11991,18 @@
             "fetched_datetime": "2025-12-26T21:10:27.503147Z",
             "shown_at": [
                 "2025-12-26T21:10:28.151596Z"
+            ]
+        },
+        {
+            "id": "28b43666e7b33f7965746854b1eb7963",
+            "source": "breaking_defense",
+            "text": "Tory Bruno to lead new Blue Origin national security unit",
+            "source_link": "https://breakingdefense.com/2025/12/tory-bruno-to-lead-new-blue-origin-national-security-unit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-12-26T21:44:07.195518Z",
+            "shown_at": [
+                "2025-12-26T21:44:07.856020Z"
             ]
         }
     ]
