@@ -1,9 +1,70 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-10-31T00:03:38.721289+00:00",
-    "trigger_count": 6,
-    "current_item_id": "436a99d02105dc2a3708845521239c9e",
+    "last_run_datetime": "2025-12-26T20:34:25.275815+00:00",
+    "trigger_count": 0,
+    "current_item_id": "5a3cb71321b8640cfc1b808f28913ea9",
     "data": [
+        {
+            "id": "436a99d02105dc2a3708845521239c9e",
+            "source": "spacenews",
+            "text": "For clues to the future of military space, look in the air",
+            "source_link": "https://spacenews.com/for-clues-to-the-future-of-military-space-look-in-the-air/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-31T19:02:14.405667Z",
+            "shown_at": [
+                "2025-10-31T19:02:15.221994Z"
+            ]
+        },
+        {
+            "id": "1b444cc2232923a90b8935c557350917",
+            "source": "spacenews",
+            "text": "Resources, reactors and rivalries will decide the new moon race",
+            "source_link": "https://spacenews.com/resources-reactors-and-rivalries-will-decide-the-new-moon-race/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-31T14:23:36.196760Z",
+            "shown_at": [
+                "2025-10-31T14:23:36.889526Z"
+            ]
+        },
+        {
+            "id": "f19becc101554f538c7396b40ef0b9af",
+            "source": "spacenews",
+            "text": "Blue Origin test-fires New Glenn ahead of second launch",
+            "source_link": "https://spacenews.com/blue-origin-test-fires-new-glenn-ahead-of-second-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-31T12:29:28.668744Z",
+            "shown_at": [
+                "2025-10-31T12:29:29.289488Z"
+            ]
+        },
+        {
+            "id": "3e218b5f2ab3d8b1f29964fbabfb55cc",
+            "source": "breaking_defense",
+            "text": "Hegseth’s acquisition reform speech: What might come – and what’s already underway.",
+            "source_link": "https://breakingdefense.com/2025/10/hegseth-defense-industry-speech-acquisition-reform-what-to-expect/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-31T12:07:16.298282Z",
+            "shown_at": [
+                "2025-10-31T12:07:16.979676Z",
+                "2025-10-31T15:02:02.105499Z"
+            ]
+        },
+        {
+            "id": "7ee665fb74288950b0b6de58b31d4b73",
+            "source": "spacenews",
+            "text": "European Commission weighs inviting Ukraine to Europe’s GOVSATCOM platform",
+            "source_link": "https://spacenews.com/european-commission-weighs-inviting-ukraine-to-europes-govsatcom-platform/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-10-31T10:13:50.777601Z",
+            "shown_at": [
+                "2025-10-31T10:13:51.490414Z"
+            ]
+        },
         {
             "id": "cfa6dbc3c7b1d5092ba1f53a4f5d05d9",
             "source": "spacenews",
@@ -11901,132 +11962,17 @@
             ]
         },
         {
-            "id": "bab1feb385016ed68395222a1403eb03",
-            "source": "spacenews",
-            "text": "How China will own the moon — unless we act now",
-            "source_link": "https://spacenews.com/how-china-will-own-the-moon-unless-we-act-now/",
+            "id": "5a3cb71321b8640cfc1b808f28913ea9",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Italian Earth Observation Satellite",
+            "source_link": "https://www.supercluster.com/launches/csg-3",
             "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-20T11:17:45.433982Z",
+            "type": "launch",
+            "target_datetime": "2025-12-28T02:08:00.000Z",
+            "time_remaining": "1d 05h 33m",
+            "fetched_datetime": "2025-12-26T20:34:29.447500Z",
             "shown_at": [
-                "2025-07-20T11:17:46.653109Z",
-                "2025-07-20T17:09:48.400614Z",
-                "2025-07-21T02:52:04.977643Z",
-                "2025-07-22T13:51:39.309917Z",
-                "2025-07-22T15:45:43.256757Z",
-                "2025-07-23T20:29:34.572669Z",
-                "2025-07-27T01:27:21.552279Z"
-            ]
-        },
-        {
-            "id": "ff826e2ca7dbd10f80eb77ffe6f5f215",
-            "source": "spacenews",
-            "text": "Senate appropriators fund dozens of threatened NASA science missions",
-            "source_link": "https://spacenews.com/senate-appropriators-fund-dozens-of-threatened-nasa-science-missions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-19T20:49:45.004335Z",
-            "shown_at": [
-                "2025-07-19T20:49:46.349503Z",
-                "2025-07-21T06:54:03.540402Z",
-                "2025-07-23T03:49:36.809841Z",
-                "2025-07-24T08:53:50.868286Z",
-                "2025-07-24T13:53:37.172593Z",
-                "2025-07-26T01:34:07.648872Z"
-            ]
-        },
-        {
-            "id": "b5f7f1631c859faefa1e8061c893bbb5",
-            "source": "spacenews",
-            "text": "Space Force accepts delivery of GPS control system after years of delays",
-            "source_link": "https://spacenews.com/space-force-accepts-delivery-of-gps-control-system-after-years-of-delays/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-19T18:55:07.841840Z",
-            "shown_at": [
-                "2025-07-19T18:55:08.407810Z",
-                "2025-07-21T03:47:48.672842Z",
-                "2025-07-24T02:02:13.615553Z"
-            ]
-        },
-        {
-            "id": "d3d0269228b0043973ea7d32b8b81604",
-            "source": "spacenews",
-            "text": "Senate appropriators reject proposal to cancel TraCSS",
-            "source_link": "https://spacenews.com/senate-appropriators-reject-proposal-to-cancel-tracss/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-18T18:27:45.125906Z",
-            "shown_at": [
-                "2025-07-18T18:27:45.748416Z",
-                "2025-07-19T01:03:32.704763Z",
-                "2025-07-20T21:03:48.741863Z",
-                "2025-07-21T17:37:42.157194Z",
-                "2025-07-21T23:07:38.901674Z",
-                "2025-07-22T16:43:29.180356Z",
-                "2025-07-23T16:16:09.138751Z",
-                "2025-07-24T17:21:52.180876Z"
-            ]
-        },
-        {
-            "id": "7ee665fb74288950b0b6de58b31d4b73",
-            "source": "spacenews",
-            "text": "European Commission weighs inviting Ukraine to Europe’s GOVSATCOM platform",
-            "source_link": "https://spacenews.com/european-commission-weighs-inviting-ukraine-to-europes-govsatcom-platform/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-31T10:13:50.777601Z",
-            "shown_at": [
-                "2025-10-31T10:13:51.490414Z"
-            ]
-        },
-        {
-            "id": "3e218b5f2ab3d8b1f29964fbabfb55cc",
-            "source": "breaking_defense",
-            "text": "Hegseth’s acquisition reform speech: What might come – and what’s already underway.",
-            "source_link": "https://breakingdefense.com/2025/10/hegseth-defense-industry-speech-acquisition-reform-what-to-expect/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-31T12:07:16.298282Z",
-            "shown_at": [
-                "2025-10-31T12:07:16.979676Z",
-                "2025-10-31T15:02:02.105499Z"
-            ]
-        },
-        {
-            "id": "f19becc101554f538c7396b40ef0b9af",
-            "source": "spacenews",
-            "text": "Blue Origin test-fires New Glenn ahead of second launch",
-            "source_link": "https://spacenews.com/blue-origin-test-fires-new-glenn-ahead-of-second-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-31T12:29:28.668744Z",
-            "shown_at": [
-                "2025-10-31T12:29:29.289488Z"
-            ]
-        },
-        {
-            "id": "1b444cc2232923a90b8935c557350917",
-            "source": "spacenews",
-            "text": "Resources, reactors and rivalries will decide the new moon race",
-            "source_link": "https://spacenews.com/resources-reactors-and-rivalries-will-decide-the-new-moon-race/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-31T14:23:36.196760Z",
-            "shown_at": [
-                "2025-10-31T14:23:36.889526Z"
-            ]
-        },
-        {
-            "id": "436a99d02105dc2a3708845521239c9e",
-            "source": "spacenews",
-            "text": "For clues to the future of military space, look in the air",
-            "source_link": "https://spacenews.com/for-clues-to-the-future-of-military-space-look-in-the-air/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-31T19:02:14.405667Z",
-            "shown_at": [
-                "2025-10-31T19:02:15.221994Z"
+                "2025-12-26T20:34:30.723793Z"
             ]
         }
     ]

@@ -2,29 +2,19 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 19 | 23 | 52 |
-| breaking_defense | 1 | 3 | 20 | 42 |
-| nyt | 0 | 0 | 1 | 23 |
+| spacenews | 0 | 0 | 0 | 0 |
+| breaking_defense | 0 | 0 | 0 | 0 |
+| nyt | 0 | 0 | 0 | 0 |
+| supercluster | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
-- **Jul 18, 06:27 PM** - Senate appropriators reject proposal to cancel TraCSS (spacenews)
-- **Jul 19, 01:03 AM** - Senate appropriators reject proposal to cancel TraCSS (spacenews)
-- **Jul 19, 06:55 PM** - Space Force accepts delivery of GPS control system after years of delays (spacenews)
-- **Jul 19, 08:49 PM** - Senate appropriators fund dozens of threatened NASA science missions (spacenews)
-- **Jul 20, 11:17 AM** - How China will own the moon — unless we act now (spacenews)
-- **Jul 20, 05:09 PM** - How China will own the moon — unless we act now (spacenews)
-- **Jul 20, 09:03 PM** - Senate appropriators reject proposal to cancel TraCSS (spacenews)
-- **Jul 21, 02:52 AM** - How China will own the moon — unless we act now (spacenews)
-- **Jul 21, 03:47 AM** - Space Force accepts delivery of GPS control system after years of delays (spacenews)
-- **Jul 21, 06:54 AM** - Senate appropriators fund dozens of threatened NASA science missions (spacenews)
 - **Jul 21, 10:03 AM** - Tendeg secures repeat order for twelve large deployable antennas from Capella Space (spacenews)
 - **Jul 21, 01:07 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
 - **Jul 21, 01:21 PM** - Zero-gravity flights elevate new perspectives for a better space future (spacenews)
 - **Jul 21, 02:45 PM** - Space Force rehearses mobilization of private satellite assets during orbital emergencies (spacenews)
 - **Jul 21, 03:13 PM** - Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS (breaking_defense)
 - **Jul 21, 04:41 PM** - Tendeg secures repeat order for twelve large deployable antennas from Capella Space (spacenews)
-- **Jul 21, 05:37 PM** - Senate appropriators reject proposal to cancel TraCSS (spacenews)
 - **Jul 21, 06:19 PM** - NRO extends data contract with Hydrosat to leverage thermal infrared satellite imagery (spacenews)
 - **Jul 21, 07:02 PM** - Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS (breaking_defense)
 - **Jul 21, 07:31 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
@@ -32,7 +22,6 @@
 - **Jul 21, 09:09 PM** - Lynk Global breaks up with Slam Corp and settles legal dispute (spacenews)
 - **Jul 21, 09:43 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
 - **Jul 21, 10:39 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
-- **Jul 21, 11:07 PM** - Senate appropriators reject proposal to cancel TraCSS (spacenews)
 - **Jul 22, 12:49 AM** - Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS (breaking_defense)
 - **Jul 22, 01:03 AM** - NASA Goddard director to step down (spacenews)
 - **Jul 22, 02:14 AM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
@@ -50,14 +39,11 @@
 - **Jul 22, 12:27 PM** - NISAR set to launch July 30 (spacenews)
 - **Jul 22, 12:55 PM** - How SpaceX upended traditional launch markets – and what’s next (spacenews)
 - **Jul 22, 01:37 PM** - Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS (breaking_defense)
-- **Jul 22, 01:51 PM** - How China will own the moon — unless we act now (spacenews)
 - **Jul 22, 02:05 PM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
 - **Jul 22, 02:33 PM** - Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS (breaking_defense)
 - **Jul 22, 03:03 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
-- **Jul 22, 03:45 PM** - How China will own the moon — unless we act now (spacenews)
 - **Jul 22, 03:59 PM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
 - **Jul 22, 04:29 PM** - Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS (breaking_defense)
-- **Jul 22, 04:43 PM** - Senate appropriators reject proposal to cancel TraCSS (spacenews)
 - **Jul 22, 04:57 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
 - **Jul 22, 05:55 PM** - Space Force to select multiple companies for new geostationary satellite surveillance network (spacenews)
 - **Jul 22, 06:37 PM** - Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS (breaking_defense)
@@ -74,7 +60,6 @@
 - **Jul 23, 02:35 AM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
 - **Jul 23, 02:49 AM** - Tendeg secures repeat order for twelve large deployable antennas from Capella Space (spacenews)
 - **Jul 23, 03:35 AM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
-- **Jul 23, 03:49 AM** - Senate appropriators fund dozens of threatened NASA science missions (spacenews)
 - **Jul 23, 04:31 AM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
 - **Jul 23, 04:45 AM** - NRO extends data contract with Hydrosat to leverage thermal infrared satellite imagery (spacenews)
 - **Jul 23, 07:11 AM** - Northrop back at work on Sentinel ICBM missile silo design: CEO (breaking_defense)
@@ -98,7 +83,6 @@
 - **Jul 23, 02:57 PM** - China tightens quality oversight over commercial space projects (spacenews)
 - **Jul 23, 03:27 PM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
 - **Jul 23, 04:02 PM** - Global military space spending growth trend continues in 2024, topping $60B (breaking_defense)
-- **Jul 23, 04:16 PM** - Senate appropriators reject proposal to cancel TraCSS (spacenews)
 - **Jul 23, 04:32 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
 - **Jul 23, 05:03 PM** - Northrop back at work on Sentinel ICBM missile silo design: CEO (breaking_defense)
 - **Jul 23, 05:19 PM** - How SpaceX upended traditional launch markets – and what’s next (spacenews)
@@ -107,7 +91,6 @@
 - **Jul 23, 07:31 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
 - **Jul 23, 07:45 PM** - Northrop back at work on Sentinel ICBM missile silo design: CEO (breaking_defense)
 - **Jul 23, 08:15 PM** - Space Force eyes ‘novel’ development tools for Golden Dome SBIs (breaking_defense)
-- **Jul 23, 08:29 PM** - How China will own the moon — unless we act now (spacenews)
 - **Jul 23, 08:43 PM** - Space Force eyes ‘novel’ development tools for Golden Dome space-based interceptors (breaking_defense)
 - **Jul 23, 08:57 PM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
 - **Jul 23, 09:12 PM** - Launch startup iRocket agrees to merge with Wilbur Ross-backed SPAC (spacenews)
@@ -120,7 +103,6 @@
 - **Jul 24, 12:47 AM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
 - **Jul 24, 01:02 AM** - Tendeg secures repeat order for twelve large deployable antennas from Capella Space (spacenews)
 - **Jul 24, 01:47 AM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
-- **Jul 24, 02:02 AM** - Space Force accepts delivery of GPS control system after years of delays (spacenews)
 - **Jul 24, 02:17 AM** - House appropriators interested in alternatives to SLS EUS upper stage (spacenews)
 - **Jul 24, 02:45 AM** - Global military space spending growth trend continues in 2024, topping $60B (breaking_defense)
 - **Jul 24, 02:59 AM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
@@ -139,7 +121,6 @@
 - **Jul 24, 07:57 AM** - SpaceX launch brings SES closer to completing MEO broadband upgrade by 2027 (spacenews)
 - **Jul 24, 08:25 AM** - Space Force eyes ‘novel’ development tools for Golden Dome SBIs (breaking_defense)
 - **Jul 24, 08:39 AM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
-- **Jul 24, 08:53 AM** - Senate appropriators fund dozens of threatened NASA science missions (spacenews)
 - **Jul 24, 09:23 AM** - Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS (breaking_defense)
 - **Jul 24, 09:37 AM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
 - **Jul 24, 10:21 AM** - Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS (breaking_defense)
@@ -152,7 +133,6 @@
 - **Jul 24, 12:44 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
 - **Jul 24, 01:25 PM** - Northrop back at work on Sentinel ICBM missile silo design: CEO (breaking_defense)
 - **Jul 24, 01:39 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
-- **Jul 24, 01:53 PM** - Senate appropriators fund dozens of threatened NASA science missions (spacenews)
 - **Jul 24, 02:23 PM** - Space Force eyes ‘novel’ development tools for Golden Dome SBIs (breaking_defense)
 - **Jul 24, 02:37 PM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
 - **Jul 24, 02:52 PM** - AST SpaceMobile seeks approval to give first responders a direct satellite link (spacenews)
@@ -162,7 +142,6 @@
 - **Jul 24, 04:09 PM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
 - **Jul 24, 04:25 PM** - Falcon 9 launches NASA TRACERS space science mission (spacenews)
 - **Jul 24, 05:07 PM** - Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter (nyt)
-- **Jul 24, 05:21 PM** - Senate appropriators reject proposal to cancel TraCSS (spacenews)
 - **Jul 24, 05:49 PM** - Space Force creates new ‘System Deltas’ to guide missile warning, space-based targeting efforts (breaking_defense)
 - **Jul 24, 06:17 PM** - Senate confirms Lohmeier as Air Force No. 2 civilian (breaking_defense)
 - **Jul 24, 06:31 PM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
@@ -254,7 +233,6 @@
 - **Jul 26, 12:35 AM** - Lockheed Martin may offer Orion as a commercial service (spacenews)
 - **Jul 26, 12:49 AM** - Space Force eyes ‘novel’ development tools for Golden Dome space-based interceptors (breaking_defense)
 - **Jul 26, 01:05 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
-- **Jul 26, 01:34 AM** - Senate appropriators fund dozens of threatened NASA science missions (spacenews)
 - **Jul 26, 01:47 AM** - Global military space spending growth trend continues in 2024, topping $60B (breaking_defense)
 - **Jul 26, 02:02 AM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
 - **Jul 26, 03:15 AM** - How SpaceX upended traditional launch markets – and what’s next (spacenews)
@@ -326,7 +304,6 @@
 - **Jul 27, 12:31 AM** - Vega launches Earth science, imaging spacecraft (spacenews)
 - **Jul 27, 12:45 AM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
 - **Jul 27, 01:13 AM** - Space Force eyes ‘novel’ development tools for Golden Dome SBIs (breaking_defense)
-- **Jul 27, 01:27 AM** - How China will own the moon — unless we act now (spacenews)
 - **Jul 27, 01:41 AM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
 - **Jul 27, 02:09 AM** - Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS (breaking_defense)
 - **Jul 27, 02:23 AM** - Lynk Global breaks up with Slam Corp and settles legal dispute (spacenews)
@@ -6489,3 +6466,4 @@
 - **Oct 31, 04:53 PM** - China launches new Gaofen-14 stereo mapping satellite (spacenews)
 - **Oct 31, 06:03 PM** - Missile threats at scale: Turning Golden Dome into reality (breaking_defense)
 - **Oct 31, 07:02 PM** - For clues to the future of military space, look in the air (spacenews)
+- **Dec 26, 08:34 PM** - SpaceX Will Launch Italian Earth Observation Satellite (supercluster)
