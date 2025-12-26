@@ -5,7 +5,7 @@
 | spacenews | 0 | 0 | 0 | 0 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 | nyt | 0 | 0 | 0 | 0 |
-| supercluster | 1 | 1 | 2 | 2 |
+| supercluster | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -6468,3 +6468,4 @@
 - **Oct 31, 07:02 PM** - For clues to the future of military space, look in the air (spacenews)
 - **Dec 26, 08:34 PM** - SpaceX Will Launch Italian Earth Observation Satellite (supercluster)
 - **Dec 26, 08:39 PM** - SpaceX Will Launch Italian Earth Observation Satellite (supercluster)
+- **Dec 26, 08:44 PM** - SpaceX Will Launch Italian Earth Observation Satellite (supercluster)
