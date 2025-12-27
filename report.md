@@ -5,7 +5,7 @@
 | spacenews | 2 | 2 | 6 | 6 |
 | breaking_defense | 1 | 1 | 5 | 5 |
 | nyt | 2 | 2 | 6 | 6 |
-| supercluster | 1 | 1 | 37 | 37 |
+| supercluster | 1 | 1 | 38 | 38 |
 
 # Shown Order
 
@@ -6412,3 +6412,4 @@
 - **Dec 27, 09:09 AM** - Perseverance continues science mission amid uncertainty about Mars Sample Return (spacenews)
 - **Dec 27, 09:44 AM** - SpaceX Will Launch Italian Earth Observation Satellite (supercluster)
 - **Dec 27, 09:54 AM** - SpaceX Will Launch Italian Earth Observation Satellite (supercluster)
+- **Dec 27, 09:59 AM** - SpaceX Will Launch Italian Earth Observation Satellite (supercluster)
