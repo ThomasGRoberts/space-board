@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 2 | 9 | 11 |
-| breaking_defense | 0 | 1 | 9 | 10 |
+| breaking_defense | 0 | 1 | 10 | 11 |
 | nyt | 1 | 2 | 11 | 12 |
 | supercluster | 0 | 1 | 70 | 77 |
 
@@ -6468,3 +6468,4 @@
 - **Dec 27, 10:14 PM** - SpaceX Will Launch Italian Earth Observation Satellite (supercluster)
 - **Dec 27, 10:19 PM** - SpaceX Will Launch Italian Earth Observation Satellite (supercluster)
 - **Dec 27, 10:24 PM** - This City’s Best Winter Show Is in Its Pitch-Dark Skies (nyt)
+- **Dec 27, 10:59 PM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
