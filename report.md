@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 2 | 10 | 10 |
 | breaking_defense | 1 | 1 | 9 | 9 |
-| nyt | 2 | 2 | 10 | 10 |
+| nyt | 2 | 2 | 11 | 11 |
 | supercluster | 1 | 1 | 70 | 70 |
 
 # Shown Order
@@ -6457,3 +6457,4 @@
 - **Dec 27, 07:43 PM** - SpaceX Will Launch Italian Earth Observation Satellite (supercluster)
 - **Dec 27, 07:48 PM** - SpaceX Will Launch Italian Earth Observation Satellite (supercluster)
 - **Dec 27, 07:53 PM** - SpaceX Will Launch Italian Earth Observation Satellite (supercluster)
+- **Dec 27, 07:58 PM** - This City’s Best Winter Show Is in Its Pitch-Dark Skies (nyt)
