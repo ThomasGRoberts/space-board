@@ -1,9 +1,85 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-12-26T20:34:25.275815+00:00",
-    "trigger_count": 0,
+    "last_run_datetime": "2025-12-27T00:04:22.774817+00:00",
+    "trigger_count": 1,
     "current_item_id": "e5a0917bfdde42612a3a7eabff117808",
     "data": [
+        {
+            "id": "ced5c3cda305c59e05fec051318bc41c",
+            "source": "spacenews",
+            "text": "Perseverance continues science mission amid uncertainty about Mars Sample Return",
+            "source_link": "https://spacenews.com/perseverance-continues-science-mission-amid-uncertainty-about-mars-sample-return/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-12-26T22:16:10.489116Z",
+            "shown_at": [
+                "2025-12-26T22:49:59.710118Z"
+            ]
+        },
+        {
+            "id": "0369a52ea12575c3033189f758e294ac",
+            "source": "spacenews",
+            "text": "Former ULA chief Bruno joins Blue Origin",
+            "source_link": "https://spacenews.com/former-ula-chief-bruno-joins-blue-origin/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-12-26T22:16:10.489046Z",
+            "shown_at": [
+                "2025-12-26T22:16:11.041608Z"
+            ]
+        },
+        {
+            "id": "28b43666e7b33f7965746854b1eb7963",
+            "source": "breaking_defense",
+            "text": "Tory Bruno to lead new Blue Origin national security unit",
+            "source_link": "https://breakingdefense.com/2025/12/tory-bruno-to-lead-new-blue-origin-national-security-unit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-12-26T21:44:07.195518Z",
+            "shown_at": [
+                "2025-12-26T21:44:07.856020Z"
+            ]
+        },
+        {
+            "id": "e5a0917bfdde42612a3a7eabff117808",
+            "source": "nyt",
+            "text": "This City’s Best Winter Show Is in Its Pitch-Dark Skies",
+            "source_link": "https://www.nytimes.com/card/2025/12/21/science/space/arizona-dark-sky-astronomy",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-12-26T21:10:27.503147Z",
+            "shown_at": [
+                "2025-12-26T21:10:28.151596Z",
+                "2025-12-26T23:59:28.064617Z"
+            ]
+        },
+        {
+            "id": "5a3cb71321b8640cfc1b808f28913ea9",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Italian Earth Observation Satellite",
+            "source_link": "https://www.supercluster.com/launches/csg-3",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-12-28T02:08:00.000Z",
+            "time_remaining": "1d 02h 13m",
+            "fetched_datetime": "2025-12-26T20:34:29.447500Z",
+            "shown_at": [
+                "2025-12-26T20:34:30.723793Z",
+                "2025-12-26T20:39:45.296795Z",
+                "2025-12-26T20:44:07.198408Z",
+                "2025-12-26T20:50:02.099884Z",
+                "2025-12-26T20:54:44.912668Z",
+                "2025-12-26T20:59:55.471398Z",
+                "2025-12-26T21:04:49.987203Z",
+                "2025-12-26T23:26:09.589600Z",
+                "2025-12-26T23:31:59.845468Z",
+                "2025-12-26T23:35:53.704238Z",
+                "2025-12-26T23:40:07.755629Z",
+                "2025-12-26T23:44:07.116284Z",
+                "2025-12-26T23:49:56.863454Z",
+                "2025-12-26T23:54:01.946026Z"
+            ]
+        },
         {
             "id": "436a99d02105dc2a3708845521239c9e",
             "source": "spacenews",
@@ -11796,245 +11872,6 @@
             "shown_at": [
                 "2025-07-21T18:19:41.410763Z",
                 "2025-07-23T04:45:45.380671Z"
-            ]
-        },
-        {
-            "id": "0fda968937eed9e67c1b0f447aeb3ac3",
-            "source": "breaking_defense",
-            "text": "Passive ground-based sensor networks could bolster air, missile defense resilience: CSIS",
-            "source_link": "https://breakingdefense.com/2025/07/passive-ground-based-sensor-networks-could-bolster-air-missile-defense-resilience-csis/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-21T15:13:33.392349Z",
-            "shown_at": [
-                "2025-07-21T15:13:33.935812Z",
-                "2025-07-21T19:02:09.334330Z",
-                "2025-07-21T20:55:51.151957Z",
-                "2025-07-22T00:49:17.046389Z",
-                "2025-07-22T05:33:40.929530Z",
-                "2025-07-22T08:25:34.295772Z",
-                "2025-07-22T13:37:33.186778Z",
-                "2025-07-22T14:33:48.586393Z",
-                "2025-07-22T16:29:52.584309Z",
-                "2025-07-22T18:37:50.552414Z",
-                "2025-07-22T22:17:52.848468Z",
-                "2025-07-23T01:25:56.369109Z",
-                "2025-07-23T09:07:46.579467Z",
-                "2025-07-23T10:05:38.728860Z",
-                "2025-07-23T11:59:36.964925Z",
-                "2025-07-23T12:55:47.716087Z",
-                "2025-07-24T06:33:54.892939Z",
-                "2025-07-24T09:23:32.325733Z",
-                "2025-07-24T10:21:50.941038Z",
-                "2025-07-25T01:09:39.801773Z",
-                "2025-07-25T08:05:56.481431Z",
-                "2025-07-25T22:53:50.183303Z",
-                "2025-07-25T23:52:02.151617Z",
-                "2025-07-26T03:29:51.421401Z",
-                "2025-07-26T04:28:00.882850Z",
-                "2025-07-26T15:31:53.095755Z",
-                "2025-07-27T02:09:54.513674Z",
-                "2025-07-27T03:05:23.434118Z",
-                "2025-07-27T06:55:23.753120Z",
-                "2025-07-27T11:37:41.243485Z",
-                "2025-07-27T14:25:34.867908Z",
-                "2025-07-27T17:17:54.057817Z"
-            ]
-        },
-        {
-            "id": "7446d89fbc2e491a5593ae67ec751261",
-            "source": "spacenews",
-            "text": "Space Force rehearses mobilization of private satellite assets during orbital emergencies",
-            "source_link": "https://spacenews.com/space-force-rehearses-mobilization-of-private-satellite-assets-during-orbital-emergencies/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-21T14:45:51.163964Z",
-            "shown_at": [
-                "2025-07-21T14:45:51.920626Z",
-                "2025-07-23T09:21:35.435786Z",
-                "2025-07-25T02:20:05.745892Z",
-                "2025-07-27T16:03:44.560841Z"
-            ]
-        },
-        {
-            "id": "737ac28ee189cc08e71526a06a7e3e79",
-            "source": "spacenews",
-            "text": "Zero-gravity flights elevate new perspectives for a better space future",
-            "source_link": "https://spacenews.com/zero-gravity-flights-elevate-new-perspectives-for-a-better-space-future/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-21T13:21:37.646450Z",
-            "shown_at": [
-                "2025-07-21T13:21:38.194129Z",
-                "2025-07-27T14:11:48.152272Z",
-                "2025-07-28T10:29:54.367434Z"
-            ]
-        },
-        {
-            "id": "0aa99a6d3f7f198948cf068ccd6bc548",
-            "source": "nyt",
-            "text": "Hundreds of NASA Employees Condemn Trump Administration Cuts in Public Letter",
-            "source_link": "https://www.nytimes.com/2025/07/21/science/nasa-formal-dissent-letter-trump.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-21T13:07:31.246897Z",
-            "shown_at": [
-                "2025-07-21T13:07:31.984156Z",
-                "2025-07-21T19:31:59.185710Z",
-                "2025-07-21T21:43:27.419611Z",
-                "2025-07-21T22:39:31.722739Z",
-                "2025-07-22T05:05:57.327280Z",
-                "2025-07-22T07:55:57.044627Z",
-                "2025-07-22T15:03:17.957386Z",
-                "2025-07-22T16:57:09.975723Z",
-                "2025-07-22T19:05:53.883591Z",
-                "2025-07-22T20:32:10.591661Z",
-                "2025-07-23T01:39:29.755332Z",
-                "2025-07-23T03:35:52.717306Z",
-                "2025-07-23T04:31:47.472383Z",
-                "2025-07-23T07:26:27.735452Z",
-                "2025-07-23T12:28:03.390927Z",
-                "2025-07-23T13:25:46.737929Z",
-                "2025-07-23T16:32:00.007478Z",
-                "2025-07-23T17:33:34.526321Z",
-                "2025-07-23T19:31:57.883098Z",
-                "2025-07-23T21:53:47.479398Z",
-                "2025-07-23T23:51:32.299814Z",
-                "2025-07-24T00:47:41.946694Z",
-                "2025-07-24T02:59:39.978276Z",
-                "2025-07-24T08:39:31.544481Z",
-                "2025-07-24T09:37:34.185021Z",
-                "2025-07-24T11:47:42.978441Z",
-                "2025-07-24T12:44:00.560916Z",
-                "2025-07-24T13:39:34.717866Z",
-                "2025-07-24T17:07:50.783992Z",
-                "2025-07-24T20:51:41.422814Z",
-                "2025-07-24T21:47:33.131163Z",
-                "2025-07-24T22:45:46.134340Z",
-                "2025-07-24T23:41:45.139854Z",
-                "2025-07-25T04:32:00.826482Z",
-                "2025-07-25T11:59:40.616314Z",
-                "2025-07-25T12:55:38.772698Z",
-                "2025-07-25T17:21:42.262637Z",
-                "2025-07-26T00:07:42.540971Z",
-                "2025-07-26T03:43:40.566992Z",
-                "2025-07-26T04:41:48.975135Z",
-                "2025-07-26T06:35:36.129875Z",
-                "2025-07-26T12:01:56.372439Z",
-                "2025-07-26T17:37:41.293592Z",
-                "2025-07-26T19:29:38.636812Z",
-                "2025-07-26T21:27:32.675330Z",
-                "2025-07-26T22:25:43.409842Z",
-                "2025-07-27T07:23:29.656446Z",
-                "2025-07-27T09:17:41.278562Z",
-                "2025-07-27T11:09:40.414846Z",
-                "2025-07-27T12:05:48.145244Z",
-                "2025-07-27T13:01:51.585997Z",
-                "2025-07-27T13:57:40.753370Z",
-                "2025-07-27T14:53:59.373301Z",
-                "2025-07-27T17:45:35.818864Z",
-                "2025-07-27T21:37:12.483549Z",
-                "2025-07-27T22:37:40.055378Z",
-                "2025-07-27T23:37:52.277147Z",
-                "2025-07-28T04:21:57.222691Z",
-                "2025-07-28T07:17:16.599381Z",
-                "2025-07-28T08:15:57.788266Z",
-                "2025-07-28T11:29:37.231688Z",
-                "2025-07-28T12:27:57.637792Z"
-            ]
-        },
-        {
-            "id": "c4ba8933dc6958354f3f78eb8cb6c080",
-            "source": "spacenews",
-            "text": "Tendeg secures repeat order for twelve large deployable antennas from Capella Space",
-            "source_link": "https://spacenews.com/tendeg-gets-capella-space-repeat-order-of-twelve-large-deployable-antennas/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-21T10:03:30.022264Z",
-            "shown_at": [
-                "2025-07-21T10:03:30.613945Z",
-                "2025-07-21T16:41:32.814360Z",
-                "2025-07-22T11:32:00.854282Z",
-                "2025-07-23T02:49:42.325012Z",
-                "2025-07-24T01:02:20.206805Z",
-                "2025-07-24T06:05:51.309102Z",
-                "2025-07-28T01:45:42.932635Z"
-            ]
-        },
-        {
-            "id": "5a3cb71321b8640cfc1b808f28913ea9",
-            "source": "supercluster",
-            "text": "SpaceX Will Launch Italian Earth Observation Satellite",
-            "source_link": "https://www.supercluster.com/launches/csg-3",
-            "shown": true,
-            "type": "launch",
-            "target_datetime": "2025-12-28T02:08:00.000Z",
-            "time_remaining": "1d 02h 13m",
-            "fetched_datetime": "2025-12-26T20:34:29.447500Z",
-            "shown_at": [
-                "2025-12-26T20:34:30.723793Z",
-                "2025-12-26T20:39:45.296795Z",
-                "2025-12-26T20:44:07.198408Z",
-                "2025-12-26T20:50:02.099884Z",
-                "2025-12-26T20:54:44.912668Z",
-                "2025-12-26T20:59:55.471398Z",
-                "2025-12-26T21:04:49.987203Z",
-                "2025-12-26T23:26:09.589600Z",
-                "2025-12-26T23:31:59.845468Z",
-                "2025-12-26T23:35:53.704238Z",
-                "2025-12-26T23:40:07.755629Z",
-                "2025-12-26T23:44:07.116284Z",
-                "2025-12-26T23:49:56.863454Z",
-                "2025-12-26T23:54:01.946026Z"
-            ]
-        },
-        {
-            "id": "e5a0917bfdde42612a3a7eabff117808",
-            "source": "nyt",
-            "text": "This City’s Best Winter Show Is in Its Pitch-Dark Skies",
-            "source_link": "https://www.nytimes.com/card/2025/12/21/science/space/arizona-dark-sky-astronomy",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-12-26T21:10:27.503147Z",
-            "shown_at": [
-                "2025-12-26T21:10:28.151596Z",
-                "2025-12-26T23:59:28.064617Z"
-            ]
-        },
-        {
-            "id": "28b43666e7b33f7965746854b1eb7963",
-            "source": "breaking_defense",
-            "text": "Tory Bruno to lead new Blue Origin national security unit",
-            "source_link": "https://breakingdefense.com/2025/12/tory-bruno-to-lead-new-blue-origin-national-security-unit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-12-26T21:44:07.195518Z",
-            "shown_at": [
-                "2025-12-26T21:44:07.856020Z"
-            ]
-        },
-        {
-            "id": "0369a52ea12575c3033189f758e294ac",
-            "source": "spacenews",
-            "text": "Former ULA chief Bruno joins Blue Origin",
-            "source_link": "https://spacenews.com/former-ula-chief-bruno-joins-blue-origin/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-12-26T22:16:10.489046Z",
-            "shown_at": [
-                "2025-12-26T22:16:11.041608Z"
-            ]
-        },
-        {
-            "id": "ced5c3cda305c59e05fec051318bc41c",
-            "source": "spacenews",
-            "text": "Perseverance continues science mission amid uncertainty about Mars Sample Return",
-            "source_link": "https://spacenews.com/perseverance-continues-science-mission-amid-uncertainty-about-mars-sample-return/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-12-26T22:16:10.489116Z",
-            "shown_at": [
-                "2025-12-26T22:49:59.710118Z"
             ]
         }
     ]
