@@ -2,10 +2,10 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 2 | 11 | 13 |
+| nyt | 1 | 2 | 10 | 13 |
 | spacenews | 0 | 2 | 10 | 13 |
 | breaking_defense | 0 | 1 | 10 | 12 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -6395,3 +6395,4 @@
 - **Dec 28, 01:19 AM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
 - **Dec 28, 01:54 AM** - Perseverance continues science mission amid uncertainty about Mars Sample Return (spacenews)
 - **Dec 28, 02:31 AM** - SpaceX Will Launch Italian Earth Observation Satellite (supercluster)
+- **Dec 28, 02:39 AM** - SpaceX Will Launch Italian Earth Observation Satellite (supercluster)
