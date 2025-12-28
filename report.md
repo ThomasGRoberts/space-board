@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 2 | 10 | 15 |
-| spacenews | 0 | 2 | 10 | 14 |
+| spacenews | 0 | 2 | 11 | 15 |
 | breaking_defense | 0 | 1 | 10 | 14 |
 | supercluster | 1 | 1 | 14 | 14 |
 
@@ -6413,3 +6413,4 @@
 - **Dec 28, 05:24 AM** - SpaceX Will Launch Italian Earth Observation Satellite (supercluster)
 - **Dec 28, 05:28 AM** - Before This Physicist Studied the Stars, He Was One (nyt)
 - **Dec 28, 06:04 AM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
+- **Dec 28, 06:39 AM** - Former ULA chief Bruno joins Blue Origin (spacenews)
