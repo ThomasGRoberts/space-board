@@ -1,9 +1,22 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-12-27T00:04:22.774817+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2025-12-28T00:04:41.983553+00:00",
+    "trigger_count": 6,
     "current_item_id": "ced5c3cda305c59e05fec051318bc41c",
     "data": [
+        {
+            "id": "02b321b9d0f1a37376f57740537f1af0",
+            "source": "nyt",
+            "text": "Before This Physicist Studied the Stars, He Was One",
+            "source_link": "https://www.nytimes.com/2025/12/27/world/europe/brian-cox-astronomy-profile.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-12-27T05:34:25.509464Z",
+            "shown_at": [
+                "2025-12-27T05:34:26.238708Z",
+                "2025-12-27T17:29:06.379560Z"
+            ]
+        },
         {
             "id": "ced5c3cda305c59e05fec051318bc41c",
             "source": "spacenews",
@@ -11950,32 +11963,6 @@
                 "2025-07-25T16:51:40.186338Z",
                 "2025-07-27T02:23:45.882859Z",
                 "2025-07-28T05:35:39.287781Z"
-            ]
-        },
-        {
-            "id": "ac0a93ca4ae905b3a559eb2c84c12643",
-            "source": "spacenews",
-            "text": "NRO extends data contract with Hydrosat to leverage thermal infrared satellite imagery",
-            "source_link": "https://spacenews.com/nro-extends-data-contract-with-hydrosat-to-leverage-thermal-infrared-satellite-imagery/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-21T18:19:40.846469Z",
-            "shown_at": [
-                "2025-07-21T18:19:41.410763Z",
-                "2025-07-23T04:45:45.380671Z"
-            ]
-        },
-        {
-            "id": "02b321b9d0f1a37376f57740537f1af0",
-            "source": "nyt",
-            "text": "Before This Physicist Studied the Stars, He Was One",
-            "source_link": "https://www.nytimes.com/2025/12/27/world/europe/brian-cox-astronomy-profile.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-12-27T05:34:25.509464Z",
-            "shown_at": [
-                "2025-12-27T05:34:26.238708Z",
-                "2025-12-27T17:29:06.379560Z"
             ]
         }
     ]

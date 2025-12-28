@@ -2,14 +2,13 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
+| nyt | 1 | 2 | 10 | 12 |
 | spacenews | 0 | 2 | 10 | 12 |
 | breaking_defense | 0 | 1 | 10 | 11 |
-| nyt | 1 | 2 | 11 | 12 |
 | supercluster | 0 | 1 | 63 | 77 |
 
 # Shown Order
 
-- **Jul 21, 06:19 PM** - NRO extends data contract with Hydrosat to leverage thermal infrared satellite imagery (spacenews)
 - **Jul 21, 09:09 PM** - Lynk Global breaks up with Slam Corp and settles legal dispute (spacenews)
 - **Jul 22, 01:03 AM** - NASA Goddard director to step down (spacenews)
 - **Jul 22, 02:14 AM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
@@ -30,7 +29,6 @@
 - **Jul 22, 11:45 PM** - Space Force to select multiple companies for new geostationary satellite surveillance network (spacenews)
 - **Jul 23, 12:57 AM** - Moran wants to expedite passage of spending bill for NASA (spacenews)
 - **Jul 23, 02:35 AM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
-- **Jul 23, 04:45 AM** - NRO extends data contract with Hydrosat to leverage thermal infrared satellite imagery (spacenews)
 - **Jul 23, 07:11 AM** - Northrop back at work on Sentinel ICBM missile silo design: CEO (breaking_defense)
 - **Jul 23, 08:09 AM** - Northrop back at work on Sentinel ICBM missile silo design: CEO (breaking_defense)
 - **Jul 23, 08:23 AM** - Golden Dome chief outlines plan to deliver U.S. homeland missile defense in three years (spacenews)
