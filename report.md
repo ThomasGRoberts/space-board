@@ -5,7 +5,7 @@
 | nyt | 1 | 2 | 10 | 14 |
 | spacenews | 0 | 2 | 10 | 14 |
 | breaking_defense | 0 | 1 | 10 | 13 |
-| supercluster | 1 | 1 | 13 | 13 |
+| supercluster | 1 | 1 | 14 | 14 |
 
 # Shown Order
 
@@ -6410,3 +6410,4 @@
 - **Dec 28, 05:09 AM** - SpaceX Will Launch Italian Earth Observation Satellite (supercluster)
 - **Dec 28, 05:14 AM** - SpaceX Will Launch Italian Earth Observation Satellite (supercluster)
 - **Dec 28, 05:19 AM** - SpaceX Will Launch Italian Earth Observation Satellite (supercluster)
+- **Dec 28, 05:24 AM** - SpaceX Will Launch Italian Earth Observation Satellite (supercluster)
