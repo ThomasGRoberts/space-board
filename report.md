@@ -5,7 +5,7 @@
 | nyt | 1 | 2 | 10 | 12 |
 | spacenews | 0 | 2 | 10 | 12 |
 | breaking_defense | 0 | 1 | 10 | 11 |
-| supercluster | 0 | 1 | 63 | 77 |
+| supercluster | 0 | 1 | 64 | 78 |
 
 # Shown Order
 
@@ -6468,3 +6468,4 @@
 - **Dec 27, 10:24 PM** - This City’s Best Winter Show Is in Its Pitch-Dark Skies (nyt)
 - **Dec 27, 10:59 PM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
 - **Dec 27, 11:34 PM** - Perseverance continues science mission amid uncertainty about Mars Sample Return (spacenews)
+- **Dec 28, 12:09 AM** - SpaceX Will Launch Italian Earth Observation Satellite (supercluster)
