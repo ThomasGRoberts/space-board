@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 2 | 9 | 17 |
+| nyt | 0 | 2 | 10 | 18 |
 | spacenews | 0 | 2 | 10 | 17 |
 | breaking_defense | 0 | 1 | 10 | 16 |
 | supercluster | 1 | 1 | 35 | 35 |
@@ -6441,3 +6441,4 @@
 - **Dec 28, 12:49 PM** - SpaceX Will Launch Italian Earth Observation Satellite (supercluster)
 - **Dec 28, 12:54 PM** - SpaceX Will Launch Italian Earth Observation Satellite (supercluster)
 - **Dec 28, 12:59 PM** - SpaceX Will Launch Italian Earth Observation Satellite (supercluster)
+- **Dec 28, 01:04 PM** - This City’s Best Winter Show Is in Its Pitch-Dark Skies (nyt)
