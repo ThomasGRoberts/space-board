@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 1 | 9 | 19 |
 | nyt | 0 | 1 | 10 | 21 |
-| breaking_defense | 0 | 0 | 9 | 19 |
+| breaking_defense | 0 | 0 | 10 | 20 |
 | supercluster | 2 | 2 | 12 | 12 |
 
 # Shown Order
@@ -6429,3 +6429,4 @@
 - **Dec 29, 03:39 AM** - China Will Launch Long March 4B Rocket (supercluster)
 - **Dec 29, 03:44 AM** - China Will Launch Long March 4B Rocket (supercluster)
 - **Dec 29, 03:49 AM** - Before This Physicist Studied the Stars, He Was One (nyt)
+- **Dec 29, 04:24 AM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
