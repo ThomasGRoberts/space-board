@@ -5,7 +5,7 @@
 | spacenews | 1 | 1 | 9 | 19 |
 | nyt | 0 | 0 | 10 | 20 |
 | breaking_defense | 0 | 0 | 9 | 19 |
-| supercluster | 1 | 1 | 15 | 15 |
+| supercluster | 1 | 1 | 16 | 16 |
 
 # Shown Order
 
@@ -6438,3 +6438,4 @@
 - **Dec 29, 07:59 AM** - Synspective tapped to provide satellite imagery for Japan’s new military constellation (spacenews)
 - **Dec 29, 08:34 AM** - This City’s Best Winter Show Is in Its Pitch-Dark Skies (nyt)
 - **Dec 29, 09:09 AM** - China Will Launch Long March 4B Rocket (supercluster)
+- **Dec 29, 09:14 AM** - China Will Launch Long March 4B Rocket (supercluster)
