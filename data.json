@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-12-29T00:05:04.137532+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0369a52ea12575c3033189f758e294ac",
+    "trigger_count": 0,
+    "current_item_id": "5a3cb71321b8640cfc1b808f28913ea9",
     "data": [
         {
             "id": "95c2fc9709b6ea7f1d1d6e744d3d111e",
@@ -11898,6 +11898,20 @@
                 "2025-07-27T09:03:44.207011Z",
                 "2025-07-27T13:15:31.121094Z",
                 "2025-07-27T17:59:56.669260Z"
+            ]
+        },
+        {
+            "id": "5a3cb71321b8640cfc1b808f28913ea9",
+            "source": "supercluster",
+            "text": "SpaceX Will Launch Italian Earth Observation Satellite",
+            "source_link": "https://www.supercluster.com/launches/csg-3",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-12-29T02:08:00.000Z",
+            "time_remaining": "",
+            "fetched_datetime": "2025-12-29T02:39:02.195087Z",
+            "shown_at": [
+                "2025-12-29T02:39:03.151392Z"
             ]
         }
     ]
