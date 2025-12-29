@@ -5,7 +5,7 @@
 | spacenews | 1 | 1 | 10 | 20 |
 | nyt | 0 | 0 | 10 | 20 |
 | breaking_defense | 0 | 0 | 9 | 19 |
-| supercluster | 1 | 1 | 22 | 22 |
+| supercluster | 1 | 1 | 23 | 23 |
 
 # Shown Order
 
@@ -6448,3 +6448,4 @@
 - **Dec 29, 10:19 AM** - Synspective tapped to provide satellite imagery for Japan’s new military constellation (spacenews)
 - **Dec 29, 10:54 AM** - Before This Physicist Studied the Stars, He Was One (nyt)
 - **Dec 29, 11:29 AM** - China Will Launch Long March 4B Rocket (supercluster)
+- **Dec 29, 11:34 AM** - China Will Launch Long March 4B Rocket (supercluster)
