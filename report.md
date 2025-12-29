@@ -5,7 +5,7 @@
 | spacenews | 1 | 1 | 10 | 20 |
 | nyt | 0 | 0 | 10 | 20 |
 | breaking_defense | 0 | 0 | 9 | 19 |
-| supercluster | 2 | 2 | 19 | 19 |
+| supercluster | 1 | 1 | 7 | 7 |
 
 # Shown Order
 
@@ -6416,11 +6416,6 @@
 - **Dec 29, 12:54 AM** - Before This Physicist Studied the Stars, He Was One (nyt)
 - **Dec 29, 01:29 AM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
 - **Dec 29, 02:04 AM** - Former ULA chief Bruno joins Blue Origin (spacenews)
-- **Dec 29, 02:49 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
-- **Dec 29, 02:54 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
-- **Dec 29, 02:59 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
-- **Dec 29, 03:04 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
-- **Dec 29, 03:09 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
 - **Dec 29, 03:14 AM** - China Will Launch Long March 4B Rocket (supercluster)
 - **Dec 29, 03:19 AM** - China Will Launch Long March 4B Rocket (supercluster)
 - **Dec 29, 03:24 AM** - China Will Launch Long March 4B Rocket (supercluster)
@@ -6431,11 +6426,4 @@
 - **Dec 29, 03:49 AM** - Before This Physicist Studied the Stars, He Was One (nyt)
 - **Dec 29, 04:24 AM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
 - **Dec 29, 04:59 AM** - Synspective tapped to provide satellite imagery for Japan’s new military constellation (spacenews)
-- **Dec 29, 05:39 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
-- **Dec 29, 05:45 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
-- **Dec 29, 05:49 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
-- **Dec 29, 05:54 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
-- **Dec 29, 05:59 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
-- **Dec 29, 06:04 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
-- **Dec 29, 06:08 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
 - **Dec 29, 06:14 AM** - This City’s Best Winter Show Is in Its Pitch-Dark Skies (nyt)
