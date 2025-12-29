@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-12-29T00:05:04.137532+00:00",
-    "trigger_count": 6,
-    "current_item_id": "28b43666e7b33f7965746854b1eb7963",
+    "trigger_count": 0,
+    "current_item_id": "6ba7b15f1878a37840dcd7417088e155",
     "data": [
         {
             "id": "95c2fc9709b6ea7f1d1d6e744d3d111e",
@@ -11950,6 +11950,18 @@
                 "2025-12-29T11:49:32.521661Z",
                 "2025-12-29T11:54:15.087984Z",
                 "2025-12-29T11:59:06.248819Z"
+            ]
+        },
+        {
+            "id": "6ba7b15f1878a37840dcd7417088e155",
+            "source": "spacenews",
+            "text": "China hits 90 launches as Guowang deployment continues, Fengyun-4C heads to GEO",
+            "source_link": "https://spacenews.com/china-hits-90-launches-as-guowang-deployment-continues-fengyun-4c-heads-to-geo/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-12-29T12:39:06.514210Z",
+            "shown_at": [
+                "2025-12-29T12:39:07.266155Z"
             ]
         }
     ]

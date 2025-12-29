@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 1 | 9 | 19 |
+| spacenews | 2 | 2 | 10 | 20 |
 | nyt | 0 | 0 | 10 | 20 |
 | breaking_defense | 0 | 0 | 10 | 20 |
 | supercluster | 1 | 1 | 28 | 28 |
@@ -6455,3 +6455,4 @@
 - **Dec 29, 11:54 AM** - China Will Launch Long March 4B Rocket (supercluster)
 - **Dec 29, 11:59 AM** - China Will Launch Long March 4B Rocket (supercluster)
 - **Dec 29, 12:04 PM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
+- **Dec 29, 12:39 PM** - China hits 90 launches as Guowang deployment continues, Fengyun-4C heads to GEO (spacenews)
