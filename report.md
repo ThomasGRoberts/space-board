@@ -5,7 +5,7 @@
 | spacenews | 2 | 2 | 10 | 20 |
 | nyt | 0 | 0 | 10 | 20 |
 | breaking_defense | 0 | 0 | 9 | 19 |
-| supercluster | 1 | 1 | 30 | 30 |
+| supercluster | 1 | 1 | 31 | 31 |
 
 # Shown Order
 
@@ -6459,3 +6459,4 @@
 - **Dec 29, 01:14 PM** - This City’s Best Winter Show Is in Its Pitch-Dark Skies (nyt)
 - **Dec 29, 01:49 PM** - China Will Launch Long March 4B Rocket (supercluster)
 - **Dec 29, 01:54 PM** - China Will Launch Long March 4B Rocket (supercluster)
+- **Dec 29, 01:58 PM** - China Will Launch Long March 4B Rocket (supercluster)
