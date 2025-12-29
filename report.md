@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 1 | 10 | 20 |
-| nyt | 0 | 0 | 9 | 19 |
-| breaking_defense | 0 | 0 | 9 | 20 |
+| nyt | 0 | 0 | 10 | 20 |
+| breaking_defense | 0 | 0 | 9 | 19 |
 | supercluster | 1 | 1 | 14 | 14 |
 
 # Shown Order
@@ -6436,3 +6436,4 @@
 - **Dec 29, 07:19 AM** - China Will Launch Long March 4B Rocket (supercluster)
 - **Dec 29, 07:24 AM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
 - **Dec 29, 07:59 AM** - Synspective tapped to provide satellite imagery for Japan’s new military constellation (spacenews)
+- **Dec 29, 08:34 AM** - This City’s Best Winter Show Is in Its Pitch-Dark Skies (nyt)
