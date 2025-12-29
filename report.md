@@ -5,7 +5,7 @@
 | spacenews | 1 | 1 | 10 | 20 |
 | nyt | 0 | 1 | 10 | 20 |
 | breaking_defense | 0 | 0 | 10 | 20 |
-| supercluster | 1 | 1 | 1 | 1 |
+| supercluster | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -6417,3 +6417,4 @@
 - **Dec 29, 01:29 AM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
 - **Dec 29, 02:04 AM** - Former ULA chief Bruno joins Blue Origin (spacenews)
 - **Dec 29, 02:49 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
+- **Dec 29, 02:54 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
