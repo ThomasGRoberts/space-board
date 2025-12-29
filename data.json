@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-12-29T00:05:04.137532+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8c1952d3985da717fab1095874780bcb",
+    "trigger_count": 0,
+    "current_item_id": "0a3cca0936ca667b17b5b881a08b3f3a",
     "data": [
         {
             "id": "95c2fc9709b6ea7f1d1d6e744d3d111e",
@@ -11916,6 +11916,20 @@
                 "2025-12-29T02:59:10.154218Z",
                 "2025-12-29T03:04:45.883410Z",
                 "2025-12-29T03:09:04.754903Z"
+            ]
+        },
+        {
+            "id": "0a3cca0936ca667b17b5b881a08b3f3a",
+            "source": "supercluster",
+            "text": "China Will Launch Long March 4B Rocket",
+            "source_link": "https://www.supercluster.com/launches/long-march-4b22",
+            "shown": true,
+            "type": "launch",
+            "target_datetime": "2025-12-30T04:10:00.000Z",
+            "time_remaining": "1d 00h 55m",
+            "fetched_datetime": "2025-12-29T03:14:09.025469Z",
+            "shown_at": [
+                "2025-12-29T03:14:09.549260Z"
             ]
         }
     ]
