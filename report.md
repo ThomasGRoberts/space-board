@@ -6416,4 +6416,4 @@
 - **Dec 29, 12:54 AM** - Before This Physicist Studied the Stars, He Was One (nyt)
 - **Dec 29, 01:29 AM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
 - **Dec 29, 02:04 AM** - Former ULA chief Bruno joins Blue Origin (spacenews)
-- **Dec 29, 02:44 AM** - SpaceX Will Launch Italian Earth Observation Satellite (supercluster)
+- **Dec 29, 02:49 AM** - China Will Launch the Jielong-3 Rocket (supercluster)
