@@ -5,7 +5,7 @@
 | spacenews | 2 | 2 | 10 | 20 |
 | nyt | 0 | 0 | 10 | 20 |
 | breaking_defense | 0 | 0 | 9 | 19 |
-| supercluster | 1 | 1 | 28 | 28 |
+| supercluster | 1 | 1 | 29 | 29 |
 
 # Shown Order
 
@@ -6457,3 +6457,4 @@
 - **Dec 29, 12:04 PM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
 - **Dec 29, 12:39 PM** - China hits 90 launches as Guowang deployment continues, Fengyun-4C heads to GEO (spacenews)
 - **Dec 29, 01:14 PM** - This City’s Best Winter Show Is in Its Pitch-Dark Skies (nyt)
+- **Dec 29, 01:49 PM** - China Will Launch Long March 4B Rocket (supercluster)
