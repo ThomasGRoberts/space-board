@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 1 | 10 | 20 |
 | supercluster | 1 | 1 | 70 | 70 |
-| nyt | 0 | 1 | 9 | 20 |
+| nyt | 0 | 1 | 10 | 21 |
 | breaking_defense | 0 | 0 | 10 | 19 |
 
 # Shown Order
@@ -6483,3 +6483,4 @@
 - **Dec 29, 12:39 AM** - SpaceX Will Launch Italian Earth Observation Satellite (supercluster)
 - **Dec 29, 12:44 AM** - SpaceX Will Launch Italian Earth Observation Satellite (supercluster)
 - **Dec 29, 12:49 AM** - SpaceX Will Launch Italian Earth Observation Satellite (supercluster)
+- **Dec 29, 12:54 AM** - Before This Physicist Studied the Stars, He Was One (nyt)
