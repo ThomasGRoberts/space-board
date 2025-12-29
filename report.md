@@ -2,14 +2,13 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 1 | 10 | 20 |
 | spacenews | 1 | 1 | 10 | 20 |
-| breaking_defense | 0 | 0 | 10 | 20 |
 | supercluster | 1 | 1 | 63 | 63 |
+| nyt | 0 | 1 | 10 | 20 |
+| breaking_defense | 0 | 0 | 10 | 20 |
 
 # Shown Order
 
-- **Jul 21, 09:09 PM** - Lynk Global breaks up with Slam Corp and settles legal dispute (spacenews)
 - **Jul 22, 01:03 AM** - NASA Goddard director to step down (spacenews)
 - **Jul 22, 02:14 AM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
 - **Jul 22, 03:09 AM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
@@ -33,8 +32,6 @@
 - **Jul 23, 08:09 AM** - Northrop back at work on Sentinel ICBM missile silo design: CEO (breaking_defense)
 - **Jul 23, 08:23 AM** - Golden Dome chief outlines plan to deliver U.S. homeland missile defense in three years (spacenews)
 - **Jul 23, 08:37 AM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
-- **Jul 23, 10:19 AM** - Lynk Global breaks up with Slam Corp and settles legal dispute (spacenews)
-- **Jul 23, 11:15 AM** - Lynk Global breaks up with Slam Corp and settles legal dispute (spacenews)
 - **Jul 23, 12:13 PM** - SpaceX launch brings SES closer to completing MEO broadband upgrade by 2027 (spacenews)
 - **Jul 23, 01:09 PM** - Why America needs to invest in Vandenberg’s launch cadence (spacenews)
 - **Jul 23, 01:55 PM** - Northrop back at work on Sentinel ICBM missile silo design: CEO (breaking_defense)
@@ -92,7 +89,6 @@
 - **Jul 24, 07:41 PM** - UK’s Spaceflux is building a catalog to plug space situational awareness gaps (spacenews)
 - **Jul 24, 07:55 PM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
 - **Jul 24, 08:23 PM** - Northrop back at work on Sentinel ICBM missile silo design: CEO (breaking_defense)
-- **Jul 24, 08:38 PM** - Lynk Global breaks up with Slam Corp and settles legal dispute (spacenews)
 - **Jul 24, 09:19 PM** - Space Force eyes ‘novel’ development tools for Golden Dome space-based interceptors (breaking_defense)
 - **Jul 24, 09:33 PM** - UK’s Spaceflux is building a catalog to plug space situational awareness gaps (spacenews)
 - **Jul 24, 10:15 PM** - Northrop back at work on Sentinel ICBM missile silo design: CEO (breaking_defense)
@@ -107,7 +103,6 @@
 - **Jul 25, 03:17 AM** - Space Pioneer completes launch pad for Tianlong-3 rocket (spacenews)
 - **Jul 25, 03:33 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 25, 04:03 AM** - Space Force eyes ‘novel’ development tools for Golden Dome SBIs (breaking_defense)
-- **Jul 25, 04:17 AM** - Lynk Global breaks up with Slam Corp and settles legal dispute (spacenews)
 - **Jul 25, 04:59 AM** - Global military space spending growth trend continues in 2024, topping $60B (breaking_defense)
 - **Jul 25, 05:27 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 25, 07:07 AM** - Global military space spending growth trend continues in 2024, topping $60B (breaking_defense)
@@ -137,7 +132,6 @@
 - **Jul 25, 03:51 PM** - UK’s Spaceflux is building a catalog to plug space situational awareness gaps (spacenews)
 - **Jul 25, 04:09 PM** - Space Force creates new ‘System Deltas’ to guide missile warning, space-based targeting efforts (breaking_defense)
 - **Jul 25, 04:23 PM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
-- **Jul 25, 04:51 PM** - Lynk Global breaks up with Slam Corp and settles legal dispute (spacenews)
 - **Jul 25, 05:07 PM** - Global military space spending growth trend continues in 2024, topping $60B (breaking_defense)
 - **Jul 25, 05:50 PM** - Golden Dome chief outlines plan to deliver U.S. homeland missile defense in three years (spacenews)
 - **Jul 25, 06:05 PM** - Senate confirms Lohmeier as Air Force No. 2 civilian (breaking_defense)
@@ -221,7 +215,6 @@
 - **Jul 27, 12:45 AM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
 - **Jul 27, 01:13 AM** - Space Force eyes ‘novel’ development tools for Golden Dome SBIs (breaking_defense)
 - **Jul 27, 01:41 AM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
-- **Jul 27, 02:23 AM** - Lynk Global breaks up with Slam Corp and settles legal dispute (spacenews)
 - **Jul 27, 02:37 AM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
 - **Jul 27, 03:19 AM** - Lockheed Martin may offer Orion as a commercial service (spacenews)
 - **Jul 27, 03:35 AM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
@@ -281,7 +274,6 @@
 - **Jul 28, 04:35 AM** - Vega launches Earth science, imaging spacecraft (spacenews)
 - **Jul 28, 04:49 AM** - Roketsan signs agreement with Indonesia, unveils five missiles and space launch vehicle designs (breaking_defense)
 - **Jul 28, 05:19 AM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
-- **Jul 28, 05:35 AM** - Lynk Global breaks up with Slam Corp and settles legal dispute (spacenews)
 - **Jul 28, 05:49 AM** - Global military space spending growth trend continues in 2024, topping $60B (breaking_defense)
 - **Jul 28, 06:19 AM** - When Betelgeuse Explodes, It’s Going to Take Out Another Star (nyt)
 - **Jul 28, 06:33 AM** - Nearly 4,000 NASA employees opt for voluntary buyouts (spacenews)
