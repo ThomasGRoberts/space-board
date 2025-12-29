@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 1 | 10 | 20 |
-| nyt | 0 | 1 | 9 | 20 |
-| breaking_defense | 0 | 0 | 10 | 19 |
+| nyt | 0 | 1 | 10 | 21 |
+| breaking_defense | 0 | 0 | 9 | 19 |
 | supercluster | 2 | 2 | 12 | 12 |
 
 # Shown Order
@@ -6428,3 +6428,4 @@
 - **Dec 29, 03:34 AM** - China Will Launch Long March 4B Rocket (supercluster)
 - **Dec 29, 03:39 AM** - China Will Launch Long March 4B Rocket (supercluster)
 - **Dec 29, 03:44 AM** - China Will Launch Long March 4B Rocket (supercluster)
+- **Dec 29, 03:49 AM** - Before This Physicist Studied the Stars, He Was One (nyt)
