@@ -5,7 +5,7 @@
 | spacenews | 2 | 3 | 6 | 15 |
 | nyt | 0 | 0 | 6 | 16 |
 | breaking_defense | 0 | 0 | 5 | 15 |
-| supercluster | 1 | 1 | 5 | 5 |
+| supercluster | 1 | 1 | 6 | 6 |
 
 # Shown Order
 
@@ -6377,3 +6377,4 @@
 - **Dec 30, 05:39 AM** - Former ULA chief Bruno joins Blue Origin (spacenews)
 - **Dec 30, 06:19 AM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
 - **Dec 30, 06:54 AM** - Before This Physicist Studied the Stars, He Was One (nyt)
+- **Dec 30, 07:29 AM** - China Will Launch the Long March 7A Rocket (supercluster)
