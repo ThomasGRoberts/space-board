@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 4 | 7 | 16 |
 | nyt | 1 | 1 | 6 | 16 |
-| breaking_defense | 0 | 0 | 4 | 14 |
+| breaking_defense | 0 | 0 | 5 | 15 |
 | supercluster | 1 | 1 | 19 | 19 |
 
 # Shown Order
@@ -6397,3 +6397,4 @@
 - **Dec 30, 10:59 AM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Dec 30, 11:04 AM** - Space Events 2026: NASA’s Artemis II Moon Mission, Summer Eclipse and More (nyt)
 - **Dec 30, 11:39 AM** - Synspective tapped to provide satellite imagery for Japan’s new military constellation (spacenews)
+- **Dec 30, 12:14 PM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
