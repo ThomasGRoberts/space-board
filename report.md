@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 6 | 16 |
-| supercluster | 1 | 1 | 41 | 41 |
+| supercluster | 0 | 1 | 41 | 42 |
 | nyt | 0 | 0 | 6 | 15 |
 | breaking_defense | 0 | 0 | 5 | 15 |
 
@@ -6408,3 +6408,4 @@
 - **Dec 30, 02:58 AM** - China Will Launch Long March 4B Rocket (supercluster)
 - **Dec 30, 03:04 AM** - China Will Launch Long March 4B Rocket (supercluster)
 - **Dec 30, 03:09 AM** - China Will Launch Long March 4B Rocket (supercluster)
+- **Dec 30, 03:14 AM** - China Will Launch Long March 4B Rocket (supercluster)
