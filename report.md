@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 4 | 8 | 16 |
 | nyt | 1 | 1 | 7 | 16 |
-| breaking_defense | 0 | 0 | 6 | 14 |
+| breaking_defense | 0 | 0 | 7 | 15 |
 | supercluster | 1 | 1 | 40 | 40 |
 
 # Shown Order
@@ -6427,3 +6427,4 @@
 - **Dec 30, 06:04 PM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Dec 30, 06:09 PM** - This City’s Best Winter Show Is in Its Pitch-Dark Skies (nyt)
 - **Dec 30, 06:44 PM** - Perseverance continues science mission amid uncertainty about Mars Sample Return (spacenews)
+- **Dec 30, 07:19 PM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
