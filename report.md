@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 4 | 6 | 16 |
+| spacenews | 1 | 4 | 7 | 17 |
 | nyt | 1 | 1 | 6 | 16 |
 | breaking_defense | 0 | 0 | 5 | 14 |
 | supercluster | 1 | 1 | 33 | 33 |
@@ -6416,3 +6416,4 @@
 - **Dec 30, 03:39 PM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Dec 30, 03:44 PM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Dec 30, 03:49 PM** - This City’s Best Winter Show Is in Its Pitch-Dark Skies (nyt)
+- **Dec 30, 04:24 PM** - Synspective tapped to provide satellite imagery for Japan’s new military constellation (spacenews)
