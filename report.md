@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 6 | 15 |
+| spacenews | 2 | 3 | 6 | 16 |
 | supercluster | 1 | 1 | 35 | 35 |
 | nyt | 0 | 0 | 6 | 16 |
 | breaking_defense | 0 | 0 | 5 | 15 |
@@ -6401,3 +6401,4 @@
 - **Dec 29, 02:24 PM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
 - **Dec 29, 02:59 PM** - Perseverance continues science mission amid uncertainty about Mars Sample Return (spacenews)
 - **Dec 29, 03:36 PM** - This City’s Best Winter Show Is in Its Pitch-Dark Skies (nyt)
+- **Dec 30, 02:09 AM** - Proposal to dismantle NCAR would have space science impacts (spacenews)
