@@ -5,7 +5,7 @@
 | spacenews | 2 | 5 | 9 | 17 |
 | nyt | 1 | 1 | 7 | 15 |
 | breaking_defense | 0 | 0 | 7 | 15 |
-| supercluster | 1 | 1 | 40 | 40 |
+| supercluster | 1 | 1 | 41 | 41 |
 
 # Shown Order
 
@@ -6429,3 +6429,4 @@
 - **Dec 30, 06:44 PM** - Perseverance continues science mission amid uncertainty about Mars Sample Return (spacenews)
 - **Dec 30, 07:19 PM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
 - **Dec 30, 07:54 PM** - ESA confirms data breach (spacenews)
+- **Dec 30, 08:29 PM** - China Will Launch the Long March 7A Rocket (supercluster)
