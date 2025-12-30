@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 6 | 15 |
+| spacenews | 3 | 4 | 7 | 16 |
 | nyt | 1 | 1 | 6 | 16 |
 | breaking_defense | 0 | 0 | 5 | 14 |
 | supercluster | 1 | 1 | 12 | 12 |
@@ -6386,3 +6386,4 @@
 - **Dec 30, 07:59 AM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Dec 30, 08:04 AM** - Space Events 2026: NASA’s Artemis II Moon Mission, Summer Eclipse and More (nyt)
 - **Dec 30, 08:39 AM** - Former ULA chief Bruno joins Blue Origin (spacenews)
+- **Dec 30, 09:14 AM** - Isaacman opens door to alternatives to moving shuttle Discovery to Houston (spacenews)
