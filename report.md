@@ -5,7 +5,7 @@
 | spacenews | 3 | 4 | 6 | 16 |
 | nyt | 1 | 1 | 6 | 15 |
 | breaking_defense | 0 | 0 | 5 | 15 |
-| supercluster | 1 | 1 | 12 | 12 |
+| supercluster | 1 | 1 | 13 | 13 |
 
 # Shown Order
 
@@ -6388,3 +6388,4 @@
 - **Dec 30, 08:39 AM** - Former ULA chief Bruno joins Blue Origin (spacenews)
 - **Dec 30, 09:14 AM** - Isaacman opens door to alternatives to moving shuttle Discovery to Houston (spacenews)
 - **Dec 30, 09:50 AM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
+- **Dec 30, 10:29 AM** - China Will Launch the Long March 7A Rocket (supercluster)
