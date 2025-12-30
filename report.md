@@ -5,7 +5,7 @@
 | spacenews | 2 | 4 | 6 | 16 |
 | nyt | 1 | 1 | 6 | 16 |
 | breaking_defense | 0 | 0 | 5 | 15 |
-| supercluster | 1 | 1 | 27 | 27 |
+| supercluster | 1 | 1 | 28 | 28 |
 
 # Shown Order
 
@@ -6409,3 +6409,4 @@
 - **Dec 30, 01:59 PM** - Synspective tapped to provide satellite imagery for Japan’s new military constellation (spacenews)
 - **Dec 30, 02:39 PM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
 - **Dec 30, 03:14 PM** - China Will Launch the Long March 7A Rocket (supercluster)
+- **Dec 30, 03:18 PM** - China Will Launch the Long March 7A Rocket (supercluster)
