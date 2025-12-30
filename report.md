@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 6 | 16 |
-| supercluster | 1 | 1 | 36 | 36 |
+| supercluster | 1 | 1 | 37 | 37 |
 | nyt | 0 | 0 | 6 | 16 |
 | breaking_defense | 0 | 0 | 5 | 15 |
 
@@ -6403,3 +6403,4 @@
 - **Dec 29, 03:36 PM** - This City’s Best Winter Show Is in Its Pitch-Dark Skies (nyt)
 - **Dec 30, 02:09 AM** - Proposal to dismantle NCAR would have space science impacts (spacenews)
 - **Dec 30, 02:44 AM** - China Will Launch Long March 4B Rocket (supercluster)
+- **Dec 30, 02:49 AM** - China Will Launch Long March 4B Rocket (supercluster)
