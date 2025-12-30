@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 9 | 17 |
-| nyt | 1 | 1 | 7 | 15 |
+| nyt | 1 | 1 | 8 | 16 |
 | breaking_defense | 0 | 0 | 7 | 14 |
 | supercluster | 1 | 1 | 47 | 47 |
 
@@ -6436,3 +6436,4 @@
 - **Dec 30, 08:49 PM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Dec 30, 08:54 PM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Dec 30, 08:58 PM** - China Will Launch the Long March 7A Rocket (supercluster)
+- **Dec 30, 09:04 PM** - Before This Physicist Studied the Stars, He Was One (nyt)
