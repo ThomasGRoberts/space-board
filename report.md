@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 6 | 16 |
 | nyt | 0 | 0 | 5 | 15 |
-| breaking_defense | 0 | 0 | 5 | 14 |
+| breaking_defense | 0 | 0 | 6 | 15 |
 | supercluster | 1 | 1 | 5 | 5 |
 
 # Shown Order
@@ -6375,3 +6375,4 @@
 - **Dec 30, 05:29 AM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Dec 30, 05:34 AM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Dec 30, 05:39 AM** - Former ULA chief Bruno joins Blue Origin (spacenews)
+- **Dec 30, 06:19 AM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
