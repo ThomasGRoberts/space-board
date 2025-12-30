@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 4 | 7 | 16 |
 | nyt | 1 | 1 | 6 | 16 |
-| breaking_defense | 0 | 0 | 5 | 14 |
+| breaking_defense | 0 | 0 | 5 | 15 |
 | supercluster | 1 | 1 | 12 | 12 |
 
 # Shown Order
@@ -6387,3 +6387,4 @@
 - **Dec 30, 08:04 AM** - Space Events 2026: NASA’s Artemis II Moon Mission, Summer Eclipse and More (nyt)
 - **Dec 30, 08:39 AM** - Former ULA chief Bruno joins Blue Origin (spacenews)
 - **Dec 30, 09:14 AM** - Isaacman opens door to alternatives to moving shuttle Discovery to Houston (spacenews)
+- **Dec 30, 09:50 AM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
