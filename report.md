@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 4 | 8 | 16 |
+| spacenews | 2 | 5 | 9 | 17 |
 | nyt | 1 | 1 | 7 | 16 |
 | breaking_defense | 0 | 0 | 7 | 15 |
 | supercluster | 1 | 1 | 40 | 40 |
@@ -6428,3 +6428,4 @@
 - **Dec 30, 06:09 PM** - This City’s Best Winter Show Is in Its Pitch-Dark Skies (nyt)
 - **Dec 30, 06:44 PM** - Perseverance continues science mission amid uncertainty about Mars Sample Return (spacenews)
 - **Dec 30, 07:19 PM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
+- **Dec 30, 07:54 PM** - ESA confirms data breach (spacenews)

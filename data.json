@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-12-30T00:04:26.354527+00:00",
-    "trigger_count": 6,
-    "current_item_id": "28b43666e7b33f7965746854b1eb7963",
+    "trigger_count": 0,
+    "current_item_id": "a8706baf7435c9590f3542dfcd3c1fca",
     "data": [
         {
             "id": "0f73a0b5a8199bcebfcf68bb609cff10",
@@ -11945,6 +11945,18 @@
             "fetched_datetime": "2025-12-30T09:14:09.537631Z",
             "shown_at": [
                 "2025-12-30T09:14:10.350756Z"
+            ]
+        },
+        {
+            "id": "a8706baf7435c9590f3542dfcd3c1fca",
+            "source": "spacenews",
+            "text": "ESA confirms data breach",
+            "source_link": "https://spacenews.com/esa-confirms-data-breach/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-12-30T19:54:10.563626Z",
+            "shown_at": [
+                "2025-12-30T19:54:11.207802Z"
             ]
         }
     ]
