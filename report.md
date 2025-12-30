@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 9 | 16 |
+| spacenews | 2 | 4 | 10 | 17 |
 | nyt | 1 | 1 | 8 | 16 |
 | breaking_defense | 0 | 0 | 8 | 15 |
 | supercluster | 1 | 1 | 47 | 47 |
@@ -6438,3 +6438,4 @@
 - **Dec 30, 08:58 PM** - China Will Launch the Long March 7A Rocket (supercluster)
 - **Dec 30, 09:04 PM** - Before This Physicist Studied the Stars, He Was One (nyt)
 - **Dec 30, 09:39 PM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
+- **Dec 30, 10:14 PM** - Synspective tapped to provide satellite imagery for Japan’s new military constellation (spacenews)
