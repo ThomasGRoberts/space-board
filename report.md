@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 6 | 15 |
+| spacenews | 2 | 3 | 5 | 15 |
 | nyt | 0 | 0 | 6 | 16 |
 | breaking_defense | 0 | 0 | 5 | 15 |
 | supercluster | 1 | 1 | 1 | 1 |
@@ -6369,4 +6369,4 @@
 - **Dec 30, 02:09 AM** - Proposal to dismantle NCAR would have space science impacts (spacenews)
 - **Dec 30, 03:19 AM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
 - **Dec 30, 03:54 AM** - Before This Physicist Studied the Stars, He Was One (nyt)
-- **Dec 30, 04:58 AM** - China Will Launch Long March 4B Rocket (supercluster)
+- **Dec 30, 05:04 AM** - China Will Launch Long March 4B Rocket (supercluster)
