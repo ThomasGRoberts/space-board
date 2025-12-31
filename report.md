@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 6 | 14 | 22 |
-| nyt | 0 | 1 | 10 | 17 |
+| nyt | 0 | 1 | 11 | 18 |
 | breaking_defense | 1 | 1 | 11 | 18 |
 
 # Shown Order
@@ -6409,3 +6409,4 @@
 - **Dec 31, 05:44 PM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
 - **Dec 31, 06:19 PM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
 - **Dec 31, 06:54 PM** - ESA confirms data breach (spacenews)
+- **Dec 31, 07:29 PM** - Before This Physicist Studied the Stars, He Was One (nyt)
