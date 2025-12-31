@@ -3,14 +3,11 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 5 | 11 | 17 |
-| nyt | 1 | 1 | 8 | 15 |
+| nyt | 1 | 1 | 9 | 16 |
 | breaking_defense | 0 | 0 | 8 | 14 |
 
 # Shown Order
 
-- **Jul 22, 12:13 PM** - AST SpaceMobile seeks approval to give first responders a direct satellite link (spacenews)
-- **Jul 22, 12:27 PM** - NISAR set to launch July 30 (spacenews)
-- **Jul 22, 12:55 PM** - How SpaceX upended traditional launch markets – and what’s next (spacenews)
 - **Jul 22, 05:55 PM** - Space Force to select multiple companies for new geostationary satellite surveillance network (spacenews)
 - **Jul 22, 08:02 PM** - Space Development Agency’s satellite network reaching ‘make-or-break’ moment (spacenews)
 - **Jul 22, 08:17 PM** - Northrop back at work on Sentinel ICBM missile silo design: CEO (breaking_defense)
@@ -26,7 +23,6 @@
 - **Jul 23, 02:57 PM** - China tightens quality oversight over commercial space projects (spacenews)
 - **Jul 23, 04:02 PM** - Global military space spending growth trend continues in 2024, topping $60B (breaking_defense)
 - **Jul 23, 05:03 PM** - Northrop back at work on Sentinel ICBM missile silo design: CEO (breaking_defense)
-- **Jul 23, 05:19 PM** - How SpaceX upended traditional launch markets – and what’s next (spacenews)
 - **Jul 23, 07:17 PM** - Why America needs to invest in Vandenberg’s launch cadence (spacenews)
 - **Jul 23, 07:45 PM** - Northrop back at work on Sentinel ICBM missile silo design: CEO (breaking_defense)
 - **Jul 23, 08:15 PM** - Space Force eyes ‘novel’ development tools for Golden Dome SBIs (breaking_defense)
@@ -50,7 +46,6 @@
 - **Jul 24, 12:29 PM** - Space Force eyes ‘novel’ development tools for Golden Dome space-based interceptors (breaking_defense)
 - **Jul 24, 01:25 PM** - Northrop back at work on Sentinel ICBM missile silo design: CEO (breaking_defense)
 - **Jul 24, 02:23 PM** - Space Force eyes ‘novel’ development tools for Golden Dome SBIs (breaking_defense)
-- **Jul 24, 02:52 PM** - AST SpaceMobile seeks approval to give first responders a direct satellite link (spacenews)
 - **Jul 24, 03:11 PM** - Lockheed Martin may offer Orion as a commercial service (spacenews)
 - **Jul 24, 03:25 PM** - Tyvak International, a Terran Orbital Company, Leads Groundbreaking 5G Satellite Demonstration Mission for ESA (spacenews)
 - **Jul 24, 03:53 PM** - Space Force eyes ‘novel’ development tools for Golden Dome space-based interceptors (breaking_defense)
@@ -121,7 +116,6 @@
 - **Jul 26, 12:49 AM** - Space Force eyes ‘novel’ development tools for Golden Dome space-based interceptors (breaking_defense)
 - **Jul 26, 01:05 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 26, 01:47 AM** - Global military space spending growth trend continues in 2024, topping $60B (breaking_defense)
-- **Jul 26, 03:15 AM** - How SpaceX upended traditional launch markets – and what’s next (spacenews)
 - **Jul 26, 04:11 AM** - China tightens quality oversight over commercial space projects (spacenews)
 - **Jul 26, 05:09 AM** - Lockheed Martin may offer Orion as a commercial service (spacenews)
 - **Jul 26, 05:23 AM** - Space Force eyes ‘novel’ development tools for Golden Dome space-based interceptors (breaking_defense)
@@ -158,11 +152,9 @@
 - **Jul 26, 07:15 PM** - Northrop back at work on Sentinel ICBM missile silo design: CEO (breaking_defense)
 - **Jul 26, 07:57 PM** - Spire Global launches new space-based intelligence products for defense market (spacenews)
 - **Jul 26, 08:13 PM** - Global military space spending growth trend continues in 2024, topping $60B (breaking_defense)
-- **Jul 26, 08:57 PM** - AST SpaceMobile seeks approval to give first responders a direct satellite link (spacenews)
 - **Jul 26, 09:13 PM** - Roketsan signs agreement with Indonesia, unveils five missiles and space launch vehicle designs (breaking_defense)
 - **Jul 26, 09:41 PM** - Head of NOAA satellite office placed on administrative leave (spacenews)
 - **Jul 26, 10:09 PM** - Space Force eyes ‘novel’ development tools for Golden Dome SBIs (breaking_defense)
-- **Jul 26, 10:39 PM** - NISAR set to launch July 30 (spacenews)
 - **Jul 26, 11:07 PM** - Space Force eyes ‘novel’ development tools for Golden Dome SBIs (breaking_defense)
 - **Jul 26, 11:35 PM** - Golden Dome chief outlines plan to deliver U.S. homeland missile defense in three years (spacenews)
 - **Jul 26, 11:49 PM** - Nearly 4,000 NASA employees opt for voluntary buyouts (spacenews)
@@ -171,12 +163,10 @@
 - **Jul 27, 01:13 AM** - Space Force eyes ‘novel’ development tools for Golden Dome SBIs (breaking_defense)
 - **Jul 27, 03:19 AM** - Lockheed Martin may offer Orion as a commercial service (spacenews)
 - **Jul 27, 05:02 AM** - Northrop back at work on Sentinel ICBM missile silo design: CEO (breaking_defense)
-- **Jul 27, 05:17 AM** - How SpaceX upended traditional launch markets – and what’s next (spacenews)
 - **Jul 27, 05:31 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 27, 05:59 AM** - Global military space spending growth trend continues in 2024, topping $60B (breaking_defense)
 - **Jul 27, 06:13 AM** - Moran wants to expedite passage of spending bill for NASA (spacenews)
 - **Jul 27, 06:27 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
-- **Jul 27, 07:09 AM** - AST SpaceMobile seeks approval to give first responders a direct satellite link (spacenews)
 - **Jul 27, 07:51 AM** - Space Force eyes ‘novel’ development tools for Golden Dome space-based interceptors (breaking_defense)
 - **Jul 27, 08:05 AM** - Vega launches Earth science, imaging spacecraft (spacenews)
 - **Jul 27, 08:19 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
@@ -193,7 +183,6 @@
 - **Jul 27, 04:19 PM** - Northrop back at work on Sentinel ICBM missile silo design: CEO (breaking_defense)
 - **Jul 27, 05:02 PM** - Spire Global launches new space-based intelligence products for defense market (spacenews)
 - **Jul 27, 06:13 PM** - Northrop back at work on Sentinel ICBM missile silo design: CEO (breaking_defense)
-- **Jul 27, 06:55 PM** - How SpaceX upended traditional launch markets – and what’s next (spacenews)
 - **Jul 27, 07:09 PM** - Senate confirms Lohmeier as Air Force No. 2 civilian (breaking_defense)
 - **Jul 27, 07:51 PM** - China tightens quality oversight over commercial space projects (spacenews)
 - **Jul 27, 08:07 PM** - Global military space spending growth trend continues in 2024, topping $60B (breaking_defense)
@@ -210,7 +199,6 @@
 - **Jul 28, 01:02 AM** - Roketsan signs agreement with Indonesia, unveils five missiles and space launch vehicle designs (breaking_defense)
 - **Jul 28, 01:59 AM** - Appropriators restore funding for Commerce’s TraCSS spacewatch effort (breaking_defense)
 - **Jul 28, 02:27 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
-- **Jul 28, 02:41 AM** - AST SpaceMobile seeks approval to give first responders a direct satellite link (spacenews)
 - **Jul 28, 02:55 AM** - Appropriators restore funding for Commerce’s TraCSS spacewatch effort (breaking_defense)
 - **Jul 28, 03:25 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 28, 03:39 AM** - Blue Origin to fly first Blue Ring spacecraft in spring 2026 (spacenews)
@@ -271,7 +259,6 @@
 - **Jul 29, 03:09 AM** - Industry warns of severe consequences from ISS funding cuts (spacenews)
 - **Jul 29, 03:23 AM** - Roketsan signs agreement with Indonesia, unveils five missiles and space launch vehicle designs (breaking_defense)
 - **Jul 29, 05:23 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
-- **Jul 29, 05:39 AM** - NISAR set to launch July 30 (spacenews)
 - **Jul 29, 05:59 AM** - Next X-37B mission to carry quantum sensor, laser link experiments (breaking_defense)
 - **Jul 29, 06:23 AM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
 - **Jul 29, 06:53 AM** - SmallSat heads to Salt Lake City as audience expands (spacenews)
@@ -6392,3 +6379,4 @@
 - **Dec 30, 09:39 PM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
 - **Dec 30, 10:14 PM** - Synspective tapped to provide satellite imagery for Japan’s new military constellation (spacenews)
 - **Dec 30, 11:44 PM** - Space Force offers new Vandenberg launch site (spacenews)
+- **Dec 31, 12:04 AM** - Space Events 2026: NASA’s Artemis II Moon Mission, Summer Eclipse and More (nyt)
