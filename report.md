@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 5 | 11 | 17 |
+| spacenews | 3 | 5 | 12 | 18 |
 | nyt | 1 | 1 | 9 | 15 |
 | breaking_defense | 0 | 0 | 9 | 15 |
 
@@ -6381,3 +6381,4 @@
 - **Dec 30, 11:44 PM** - Space Force offers new Vandenberg launch site (spacenews)
 - **Dec 31, 12:04 AM** - Space Events 2026: NASA’s Artemis II Moon Mission, Summer Eclipse and More (nyt)
 - **Dec 31, 12:39 AM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
+- **Dec 31, 01:14 AM** - Former ULA chief Bruno joins Blue Origin (spacenews)
