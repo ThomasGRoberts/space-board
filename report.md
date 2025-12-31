@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 13 | 19 |
 | nyt | 1 | 1 | 11 | 17 |
-| breaking_defense | 0 | 0 | 10 | 15 |
+| breaking_defense | 0 | 0 | 11 | 16 |
 
 # Shown Order
 
@@ -6392,3 +6392,4 @@
 - **Dec 31, 05:59 AM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
 - **Dec 31, 06:34 AM** - Space Forge generates plasma for LEO semiconductor material production (spacenews)
 - **Dec 31, 07:09 AM** - Space Events 2026: NASA’s Artemis II Moon Mission, Summer Eclipse and More (nyt)
+- **Dec 31, 07:44 AM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
