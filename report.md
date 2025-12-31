@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 5 | 11 | 17 |
 | nyt | 1 | 1 | 9 | 16 |
-| breaking_defense | 0 | 0 | 8 | 14 |
+| breaking_defense | 0 | 0 | 9 | 15 |
 
 # Shown Order
 
@@ -6380,3 +6380,4 @@
 - **Dec 30, 10:14 PM** - Synspective tapped to provide satellite imagery for Japan’s new military constellation (spacenews)
 - **Dec 30, 11:44 PM** - Space Force offers new Vandenberg launch site (spacenews)
 - **Dec 31, 12:04 AM** - Space Events 2026: NASA’s Artemis II Moon Mission, Summer Eclipse and More (nyt)
+- **Dec 31, 12:39 AM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
