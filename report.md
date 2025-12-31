@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 6 | 14 | 20 |
+| spacenews | 5 | 6 | 14 | 21 |
 | nyt | 0 | 1 | 10 | 16 |
 | breaking_defense | 0 | 0 | 11 | 16 |
 
@@ -6404,3 +6404,4 @@
 - **Dec 31, 02:44 PM** - Proposal to dismantle NCAR would have space science impacts (spacenews)
 - **Dec 31, 03:19 PM** - This City’s Best Winter Show Is in Its Pitch-Dark Skies (nyt)
 - **Dec 31, 03:54 PM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
+- **Dec 31, 04:29 PM** - Space Force offers new Vandenberg launch site (spacenews)
