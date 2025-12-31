@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 6 | 14 | 21 |
 | nyt | 0 | 1 | 11 | 17 |
-| breaking_defense | 0 | 0 | 10 | 16 |
+| breaking_defense | 0 | 0 | 11 | 17 |
 
 # Shown Order
 
@@ -6406,3 +6406,4 @@
 - **Dec 31, 03:54 PM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
 - **Dec 31, 04:29 PM** - Space Force offers new Vandenberg launch site (spacenews)
 - **Dec 31, 05:04 PM** - Before This Physicist Studied the Stars, He Was One (nyt)
+- **Dec 31, 05:44 PM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
