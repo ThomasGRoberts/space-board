@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 14 | 23 |
-| nyt | 0 | 1 | 10 | 18 |
+| nyt | 0 | 1 | 11 | 19 |
 | breaking_defense | 1 | 1 | 12 | 19 |
 
 # Shown Order
@@ -6412,3 +6412,4 @@
 - **Dec 31, 07:29 PM** - Before This Physicist Studied the Stars, He Was One (nyt)
 - **Dec 31, 08:04 PM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
 - **Dec 31, 08:39 PM** - China caps record year for orbital launches with Tianhui-7 and Shijian-29 technology test missions (spacenews)
+- **Dec 31, 09:14 PM** - Before This Physicist Studied the Stars, He Was One (nyt)
