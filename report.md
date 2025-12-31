@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 7 | 13 | 20 |
+| spacenews | 5 | 7 | 14 | 21 |
 | nyt | 0 | 1 | 10 | 16 |
-| breaking_defense | 0 | 0 | 11 | 15 |
+| breaking_defense | 0 | 0 | 10 | 15 |
 
 # Shown Order
 
@@ -6401,3 +6401,4 @@
 - **Dec 31, 12:59 PM** - China to debut reusable Long March 10-derived rocket in first half of 2026 (spacenews)
 - **Dec 31, 01:34 PM** - Before This Physicist Studied the Stars, He Was One (nyt)
 - **Dec 31, 02:09 PM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
+- **Dec 31, 02:44 PM** - Proposal to dismantle NCAR would have space science impacts (spacenews)
