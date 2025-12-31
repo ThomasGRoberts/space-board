@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 13 | 22 |
 | nyt | 0 | 1 | 11 | 18 |
-| breaking_defense | 1 | 1 | 11 | 18 |
+| breaking_defense | 1 | 1 | 12 | 19 |
 
 # Shown Order
 
@@ -6410,3 +6410,4 @@
 - **Dec 31, 06:19 PM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
 - **Dec 31, 06:54 PM** - ESA confirms data breach (spacenews)
 - **Dec 31, 07:29 PM** - Before This Physicist Studied the Stars, He Was One (nyt)
+- **Dec 31, 08:04 PM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
