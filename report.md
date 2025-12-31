@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 5 | 12 | 18 |
 | nyt | 1 | 1 | 11 | 17 |
-| breaking_defense | 0 | 0 | 10 | 15 |
+| breaking_defense | 0 | 0 | 11 | 16 |
 
 # Shown Order
 
@@ -6389,3 +6389,4 @@
 - **Dec 31, 04:09 AM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
 - **Dec 31, 04:44 AM** - China hits 90 launches as Guowang deployment continues, Fengyun-4C heads to GEO (spacenews)
 - **Dec 31, 05:24 AM** - Before This Physicist Studied the Stars, He Was One (nyt)
+- **Dec 31, 05:59 AM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
