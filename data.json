@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-12-31T00:04:14.941171+00:00",
-    "trigger_count": 6,
-    "current_item_id": "28b43666e7b33f7965746854b1eb7963",
+    "trigger_count": 0,
+    "current_item_id": "efead351ef93d26af40e82e046ea9557",
     "data": [
         {
             "id": "ea592fcc18316915e0fd83eb7edf5ac8",
@@ -11934,6 +11934,18 @@
             "fetched_datetime": "2025-12-31T12:59:01.781941Z",
             "shown_at": [
                 "2025-12-31T12:59:02.537005Z"
+            ]
+        },
+        {
+            "id": "efead351ef93d26af40e82e046ea9557",
+            "source": "breaking_defense",
+            "text": "Europe’s time to shine in space? 2026 preview",
+            "source_link": "https://breakingdefense.com/2025/12/europes-time-to-shine-in-space-2026-preview/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-12-31T18:19:28.202530Z",
+            "shown_at": [
+                "2025-12-31T18:19:29.006803Z"
             ]
         }
     ]
