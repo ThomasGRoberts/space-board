@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 5 | 12 | 18 |
+| spacenews | 4 | 6 | 13 | 19 |
 | nyt | 1 | 1 | 11 | 16 |
 | breaking_defense | 0 | 0 | 10 | 16 |
 
@@ -6390,3 +6390,4 @@
 - **Dec 31, 04:44 AM** - China hits 90 launches as Guowang deployment continues, Fengyun-4C heads to GEO (spacenews)
 - **Dec 31, 05:24 AM** - Before This Physicist Studied the Stars, He Was One (nyt)
 - **Dec 31, 05:59 AM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
+- **Dec 31, 06:34 AM** - Space Forge generates plasma for LEO semiconductor material production (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-12-31T00:04:14.941171+00:00",
-    "trigger_count": 6,
-    "current_item_id": "28b43666e7b33f7965746854b1eb7963",
+    "trigger_count": 0,
+    "current_item_id": "e17855fdcda683499dde5d5200fcf454",
     "data": [
         {
             "id": "ea592fcc18316915e0fd83eb7edf5ac8",
@@ -11884,6 +11884,18 @@
                 "2025-07-23T14:09:45.367091Z",
                 "2025-07-25T11:15:50.537431Z",
                 "2025-07-29T09:57:38.128793Z"
+            ]
+        },
+        {
+            "id": "e17855fdcda683499dde5d5200fcf454",
+            "source": "spacenews",
+            "text": "Space Forge generates plasma for LEO semiconductor material production",
+            "source_link": "https://spacenews.com/space-forge-generates-plasma-for-leo-semiconductor-material-production/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-12-31T06:34:24.977294Z",
+            "shown_at": [
+                "2025-12-31T06:34:25.765299Z"
             ]
         }
     ]
