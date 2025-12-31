@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 6 | 13 | 19 |
+| spacenews | 5 | 7 | 14 | 20 |
 | nyt | 0 | 1 | 10 | 16 |
 | breaking_defense | 0 | 0 | 10 | 15 |
 
@@ -6398,3 +6398,4 @@
 - **Dec 31, 09:29 AM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
 - **Dec 31, 10:04 AM** - Space Forge generates plasma for LEO semiconductor material production (spacenews)
 - **Dec 31, 10:38 AM** - China caps record year for orbital launches with Tianhui-7 and Shijian-29 technology test missions (spacenews)
+- **Dec 31, 12:59 PM** - China to debut reusable Long March 10-derived rocket in first half of 2026 (spacenews)

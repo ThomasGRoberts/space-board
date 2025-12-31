@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-12-31T00:04:14.941171+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e5a0917bfdde42612a3a7eabff117808",
+    "trigger_count": 0,
+    "current_item_id": "d835a0c0316a5c2bd0dc7abaf5651b17",
     "data": [
         {
             "id": "ea592fcc18316915e0fd83eb7edf5ac8",
@@ -11914,6 +11914,18 @@
             "fetched_datetime": "2025-12-31T10:38:58.657957Z",
             "shown_at": [
                 "2025-12-31T10:38:59.756445Z"
+            ]
+        },
+        {
+            "id": "d835a0c0316a5c2bd0dc7abaf5651b17",
+            "source": "spacenews",
+            "text": "China to debut reusable Long March 10-derived rocket in first half of 2026",
+            "source_link": "https://spacenews.com/china-to-debut-reusable-long-march-10-derived-rocket-in-first-half-of-2026/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-12-31T12:59:01.781941Z",
+            "shown_at": [
+                "2025-12-31T12:59:02.537005Z"
             ]
         }
     ]
