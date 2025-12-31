@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 5 | 12 | 18 |
 | nyt | 1 | 1 | 10 | 16 |
-| breaking_defense | 0 | 0 | 9 | 15 |
+| breaking_defense | 0 | 0 | 10 | 16 |
 
 # Shown Order
 
@@ -6386,3 +6386,4 @@
 - **Dec 31, 02:24 AM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
 - **Dec 31, 02:59 AM** - Former ULA chief Bruno joins Blue Origin (spacenews)
 - **Dec 31, 03:34 AM** - This City’s Best Winter Show Is in Its Pitch-Dark Skies (nyt)
+- **Dec 31, 04:09 AM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
