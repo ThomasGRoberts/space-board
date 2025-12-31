@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 13 | 19 |
-| nyt | 1 | 1 | 10 | 16 |
+| nyt | 1 | 1 | 11 | 17 |
 | breaking_defense | 0 | 0 | 10 | 16 |
 
 # Shown Order
@@ -6391,3 +6391,4 @@
 - **Dec 31, 05:24 AM** - Before This Physicist Studied the Stars, He Was One (nyt)
 - **Dec 31, 05:59 AM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
 - **Dec 31, 06:34 AM** - Space Forge generates plasma for LEO semiconductor material production (spacenews)
+- **Dec 31, 07:09 AM** - Space Events 2026: NASA’s Artemis II Moon Mission, Summer Eclipse and More (nyt)
