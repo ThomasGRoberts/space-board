@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 6 | 13 | 18 |
+| spacenews | 4 | 6 | 14 | 19 |
 | nyt | 0 | 1 | 10 | 17 |
 | breaking_defense | 0 | 0 | 11 | 16 |
 
@@ -6393,3 +6393,4 @@
 - **Dec 31, 06:34 AM** - Space Forge generates plasma for LEO semiconductor material production (spacenews)
 - **Dec 31, 07:09 AM** - Space Events 2026: NASA’s Artemis II Moon Mission, Summer Eclipse and More (nyt)
 - **Dec 31, 07:44 AM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
+- **Dec 31, 08:19 AM** - Space Force offers new Vandenberg launch site (spacenews)
