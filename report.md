@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 5 | 12 | 18 |
-| nyt | 1 | 1 | 10 | 16 |
+| nyt | 1 | 1 | 11 | 17 |
 | breaking_defense | 0 | 0 | 9 | 15 |
 
 # Shown Order
@@ -6385,3 +6385,4 @@
 - **Dec 31, 01:49 AM** - This City’s Best Winter Show Is in Its Pitch-Dark Skies (nyt)
 - **Dec 31, 02:24 AM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
 - **Dec 31, 02:59 AM** - Former ULA chief Bruno joins Blue Origin (spacenews)
+- **Dec 31, 03:34 AM** - This City’s Best Winter Show Is in Its Pitch-Dark Skies (nyt)
