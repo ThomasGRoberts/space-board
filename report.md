@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 5 | 13 | 18 |
-| nyt | 1 | 1 | 10 | 16 |
+| nyt | 1 | 1 | 11 | 17 |
 | breaking_defense | 0 | 0 | 10 | 15 |
 
 # Shown Order
@@ -6388,3 +6388,4 @@
 - **Dec 31, 03:34 AM** - This City’s Best Winter Show Is in Its Pitch-Dark Skies (nyt)
 - **Dec 31, 04:09 AM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
 - **Dec 31, 04:44 AM** - China hits 90 launches as Guowang deployment continues, Fengyun-4C heads to GEO (spacenews)
+- **Dec 31, 05:24 AM** - Before This Physicist Studied the Stars, He Was One (nyt)
