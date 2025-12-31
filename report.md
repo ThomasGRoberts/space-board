@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 6 | 13 | 19 |
+| spacenews | 4 | 7 | 14 | 20 |
 | nyt | 0 | 1 | 11 | 17 |
 | breaking_defense | 0 | 0 | 11 | 16 |
 
@@ -6397,3 +6397,4 @@
 - **Dec 31, 08:54 AM** - This City’s Best Winter Show Is in Its Pitch-Dark Skies (nyt)
 - **Dec 31, 09:29 AM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
 - **Dec 31, 10:04 AM** - Space Forge generates plasma for LEO semiconductor material production (spacenews)
+- **Dec 31, 10:38 AM** - China caps record year for orbital launches with Tianhui-7 and Shijian-29 technology test missions (spacenews)

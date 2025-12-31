@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2025-12-31T00:04:14.941171+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e17855fdcda683499dde5d5200fcf454",
+    "trigger_count": 0,
+    "current_item_id": "11c68aef8097933529231f77a92581c0",
     "data": [
         {
             "id": "ea592fcc18316915e0fd83eb7edf5ac8",
@@ -11902,6 +11902,18 @@
             "shown_at": [
                 "2025-12-31T06:34:25.765299Z",
                 "2025-12-31T10:04:43.453366Z"
+            ]
+        },
+        {
+            "id": "11c68aef8097933529231f77a92581c0",
+            "source": "spacenews",
+            "text": "China caps record year for orbital launches with Tianhui-7 and Shijian-29 technology test missions",
+            "source_link": "https://spacenews.com/china-caps-record-year-for-orbital-launches-with-tianhui-7-and-shijian-29-technology-test-missions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-12-31T10:38:58.657957Z",
+            "shown_at": [
+                "2025-12-31T10:38:59.756445Z"
             ]
         }
     ]
