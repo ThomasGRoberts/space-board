@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 7 | 14 | 27 |
 | breaking_defense | 1 | 1 | 13 | 24 |
-| nyt | 1 | 1 | 12 | 22 |
+| nyt | 1 | 1 | 13 | 23 |
 
 # Shown Order
 
@@ -6395,3 +6395,4 @@
 - **Jan 01, 10:14 AM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
 - **Jan 01, 10:49 AM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
 - **Jan 01, 11:29 AM** - Heliophysics missions move toward operations (spacenews)
+- **Jan 01, 12:04 PM** - Space Events 2026: NASA’s Artemis II Moon Mission, Summer Eclipse and More (nyt)
