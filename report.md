@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 8 | 14 | 26 |
+| spacenews | 5 | 8 | 15 | 27 |
 | breaking_defense | 1 | 1 | 12 | 22 |
 | nyt | 0 | 1 | 11 | 21 |
 
@@ -6382,3 +6382,4 @@
 - **Jan 01, 02:34 AM** - Space Forge generates plasma for LEO semiconductor material production (spacenews)
 - **Jan 01, 03:09 AM** - Before This Physicist Studied the Stars, He Was One (nyt)
 - **Jan 01, 03:44 AM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
+- **Jan 01, 04:19 AM** - Proposal to dismantle NCAR would have space science impacts (spacenews)
