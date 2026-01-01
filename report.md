@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 8 | 14 | 26 |
 | breaking_defense | 1 | 1 | 12 | 21 |
-| nyt | 0 | 1 | 11 | 20 |
+| nyt | 0 | 1 | 12 | 21 |
 
 # Shown Order
 
@@ -6377,3 +6377,4 @@
 - **Dec 31, 11:34 PM** - Heliophysics missions move toward operations (spacenews)
 - **Jan 01, 12:09 AM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
 - **Jan 01, 12:49 AM** - Landspace targets $1 billion for reusable rockets as IPO application accepted (spacenews)
+- **Jan 01, 01:24 AM** - This City’s Best Winter Show Is in Its Pitch-Dark Skies (nyt)
