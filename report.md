@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 8 | 14 | 27 |
-| breaking_defense | 1 | 1 | 12 | 22 |
+| breaking_defense | 1 | 1 | 13 | 23 |
 | nyt | 0 | 1 | 11 | 22 |
 
 # Shown Order
@@ -6387,3 +6387,4 @@
 - **Jan 01, 05:34 AM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
 - **Jan 01, 06:10 AM** - Proposal to dismantle NCAR would have space science impacts (spacenews)
 - **Jan 01, 06:44 AM** - Space Events 2026: NASA’s Artemis II Moon Mission, Summer Eclipse and More (nyt)
+- **Jan 01, 07:19 AM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
