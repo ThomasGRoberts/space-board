@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 6 | 13 | 28 |
+| spacenews | 1 | 5 | 14 | 28 |
 | breaking_defense | 0 | 1 | 14 | 26 |
 | nyt | 1 | 1 | 13 | 25 |
 
@@ -6415,3 +6415,4 @@
 - **Jan 01, 10:04 PM** - China to debut reusable Long March 10-derived rocket in first half of 2026 (spacenews)
 - **Jan 01, 10:39 PM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
 - **Jan 01, 11:14 PM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
+- **Jan 01, 11:49 PM** - Proposal to dismantle NCAR would have space science impacts (spacenews)
