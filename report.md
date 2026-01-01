@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 8 | 14 | 25 |
+| spacenews | 5 | 8 | 15 | 26 |
 | breaking_defense | 1 | 1 | 12 | 22 |
 | nyt | 0 | 1 | 11 | 21 |
 
@@ -6379,3 +6379,4 @@
 - **Jan 01, 12:49 AM** - Landspace targets $1 billion for reusable rockets as IPO application accepted (spacenews)
 - **Jan 01, 01:24 AM** - This City’s Best Winter Show Is in Its Pitch-Dark Skies (nyt)
 - **Jan 01, 01:59 AM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
+- **Jan 01, 02:34 AM** - Space Forge generates plasma for LEO semiconductor material production (spacenews)
