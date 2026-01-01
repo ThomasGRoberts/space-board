@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 8 | 14 | 26 |
 | breaking_defense | 1 | 1 | 12 | 22 |
-| nyt | 0 | 1 | 11 | 21 |
+| nyt | 0 | 1 | 12 | 22 |
 
 # Shown Order
 
@@ -6380,3 +6380,4 @@
 - **Jan 01, 01:24 AM** - This City’s Best Winter Show Is in Its Pitch-Dark Skies (nyt)
 - **Jan 01, 01:59 AM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
 - **Jan 01, 02:34 AM** - Space Forge generates plasma for LEO semiconductor material production (spacenews)
+- **Jan 01, 03:09 AM** - Before This Physicist Studied the Stars, He Was One (nyt)
