@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 6 | 14 | 28 |
+| spacenews | 2 | 6 | 15 | 29 |
 | breaking_defense | 0 | 1 | 13 | 25 |
 | nyt | 1 | 1 | 13 | 24 |
 
@@ -6412,3 +6412,4 @@
 - **Jan 01, 08:19 PM** - Space Forge generates plasma for LEO semiconductor material production (spacenews)
 - **Jan 01, 08:54 PM** - Before This Physicist Studied the Stars, He Was One (nyt)
 - **Jan 01, 09:29 PM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
+- **Jan 01, 10:04 PM** - China to debut reusable Long March 10-derived rocket in first half of 2026 (spacenews)
