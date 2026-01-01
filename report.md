@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 6 | 14 | 28 |
 | breaking_defense | 0 | 1 | 13 | 25 |
-| nyt | 1 | 1 | 13 | 24 |
+| nyt | 1 | 1 | 14 | 25 |
 
 # Shown Order
 
@@ -6410,3 +6410,4 @@
 - **Jan 01, 07:04 PM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
 - **Jan 01, 07:39 PM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
 - **Jan 01, 08:19 PM** - Space Forge generates plasma for LEO semiconductor material production (spacenews)
+- **Jan 01, 08:54 PM** - Before This Physicist Studied the Stars, He Was One (nyt)
