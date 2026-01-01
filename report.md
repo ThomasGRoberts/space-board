@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 8 | 14 | 27 |
 | breaking_defense | 1 | 1 | 12 | 22 |
-| nyt | 0 | 1 | 11 | 22 |
+| nyt | 0 | 1 | 12 | 23 |
 
 # Shown Order
 
@@ -6386,3 +6386,4 @@
 - **Jan 01, 04:54 AM** - Space Events 2026: NASA’s Artemis II Moon Mission, Summer Eclipse and More (nyt)
 - **Jan 01, 05:34 AM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
 - **Jan 01, 06:10 AM** - Proposal to dismantle NCAR would have space science impacts (spacenews)
+- **Jan 01, 06:44 AM** - Space Events 2026: NASA’s Artemis II Moon Mission, Summer Eclipse and More (nyt)
