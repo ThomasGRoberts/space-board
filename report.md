@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 7 | 13 | 27 |
+| spacenews | 2 | 7 | 14 | 28 |
 | breaking_defense | 1 | 1 | 14 | 25 |
 | nyt | 1 | 1 | 13 | 23 |
 
@@ -6403,3 +6403,4 @@
 - **Jan 01, 02:59 PM** - China caps record year for orbital launches with Tianhui-7 and Shijian-29 technology test missions (spacenews)
 - **Jan 01, 03:34 PM** - Before This Physicist Studied the Stars, He Was One (nyt)
 - **Jan 01, 04:09 PM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
+- **Jan 01, 04:44 PM** - China caps record year for orbital launches with Tianhui-7 and Shijian-29 technology test missions (spacenews)
