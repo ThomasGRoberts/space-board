@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 6 | 14 | 28 |
 | breaking_defense | 0 | 1 | 13 | 25 |
-| nyt | 1 | 1 | 13 | 24 |
+| nyt | 1 | 1 | 14 | 25 |
 
 # Shown Order
 
@@ -6413,3 +6413,4 @@
 - **Jan 01, 08:54 PM** - Before This Physicist Studied the Stars, He Was One (nyt)
 - **Jan 01, 09:29 PM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
 - **Jan 01, 10:04 PM** - China to debut reusable Long March 10-derived rocket in first half of 2026 (spacenews)
+- **Jan 01, 10:39 PM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
