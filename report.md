@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 7 | 14 | 26 |
+| spacenews | 4 | 7 | 15 | 27 |
 | breaking_defense | 1 | 1 | 12 | 24 |
 | nyt | 0 | 0 | 11 | 22 |
 
@@ -6391,3 +6391,4 @@
 - **Jan 01, 07:54 AM** - Landspace targets $1 billion for reusable rockets as IPO application accepted (spacenews)
 - **Jan 01, 08:29 AM** - Space Events 2026: NASA’s Artemis II Moon Mission, Summer Eclipse and More (nyt)
 - **Jan 01, 09:04 AM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
+- **Jan 01, 09:39 AM** - Perseverance continues science mission amid uncertainty about Mars Sample Return (spacenews)
