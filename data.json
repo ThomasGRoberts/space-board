@@ -1,9 +1,73 @@
 {
     "version": "2",
-    "last_run_datetime": "2025-12-31T00:04:14.941171+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2026-01-01T00:04:33.126373+00:00",
+    "trigger_count": 6,
     "current_item_id": "ddf52662058b214649a83fe8aba5a9f7",
     "data": [
+        {
+            "id": "ddf52662058b214649a83fe8aba5a9f7",
+            "source": "spacenews",
+            "text": "Heliophysics missions move toward operations",
+            "source_link": "https://spacenews.com/heliophysics-missions-move-toward-operations/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-12-31T23:34:19.688044Z",
+            "shown_at": [
+                "2025-12-31T23:34:20.293547Z"
+            ]
+        },
+        {
+            "id": "efead351ef93d26af40e82e046ea9557",
+            "source": "breaking_defense",
+            "text": "Europe’s time to shine in space? 2026 preview",
+            "source_link": "https://breakingdefense.com/2025/12/europes-time-to-shine-in-space-2026-preview/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-12-31T18:19:28.202530Z",
+            "shown_at": [
+                "2025-12-31T18:19:29.006803Z",
+                "2025-12-31T20:04:21.360995Z"
+            ]
+        },
+        {
+            "id": "d835a0c0316a5c2bd0dc7abaf5651b17",
+            "source": "spacenews",
+            "text": "China to debut reusable Long March 10-derived rocket in first half of 2026",
+            "source_link": "https://spacenews.com/china-to-debut-reusable-long-march-10-derived-rocket-in-first-half-of-2026/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-12-31T12:59:01.781941Z",
+            "shown_at": [
+                "2025-12-31T12:59:02.537005Z"
+            ]
+        },
+        {
+            "id": "11c68aef8097933529231f77a92581c0",
+            "source": "spacenews",
+            "text": "China caps record year for orbital launches with Tianhui-7 and Shijian-29 technology test missions",
+            "source_link": "https://spacenews.com/china-caps-record-year-for-orbital-launches-with-tianhui-7-and-shijian-29-technology-test-missions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-12-31T10:38:58.657957Z",
+            "shown_at": [
+                "2025-12-31T10:38:59.756445Z",
+                "2025-12-31T20:39:10.932157Z",
+                "2025-12-31T22:24:09.182214Z"
+            ]
+        },
+        {
+            "id": "e17855fdcda683499dde5d5200fcf454",
+            "source": "spacenews",
+            "text": "Space Forge generates plasma for LEO semiconductor material production",
+            "source_link": "https://spacenews.com/space-forge-generates-plasma-for-leo-semiconductor-material-production/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2025-12-31T06:34:24.977294Z",
+            "shown_at": [
+                "2025-12-31T06:34:25.765299Z",
+                "2025-12-31T10:04:43.453366Z"
+            ]
+        },
         {
             "id": "ea592fcc18316915e0fd83eb7edf5ac8",
             "source": "spacenews",
@@ -11805,167 +11869,6 @@
                 "2025-07-29T02:13:45.681476Z",
                 "2025-07-29T12:55:30.125983Z",
                 "2025-07-30T00:11:55.156187Z"
-            ]
-        },
-        {
-            "id": "e2cb9be1e092a5bbfc689f8cfab19605",
-            "source": "spacenews",
-            "text": "Golden Dome chief outlines plan to deliver U.S. homeland missile defense in three years",
-            "source_link": "https://spacenews.com/golden-dome-chief-outlines-plan-to-deliver-u-s-homeland-missile-defense-in-three-years/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-23T08:23:06.482317Z",
-            "shown_at": [
-                "2025-07-23T08:23:07.270350Z",
-                "2025-07-25T17:50:19.733225Z",
-                "2025-07-26T23:35:43.457960Z"
-            ]
-        },
-        {
-            "id": "d81e88865afc63db24388a8f8173af58",
-            "source": "spacenews",
-            "text": "Moran wants to expedite passage of spending bill for NASA",
-            "source_link": "https://spacenews.com/moran-wants-to-expedite-passage-of-spending-bill-for-nasa/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-23T00:57:53.530212Z",
-            "shown_at": [
-                "2025-07-23T00:57:54.706284Z",
-                "2025-07-25T07:21:41.198380Z",
-                "2025-07-26T07:03:47.625087Z",
-                "2025-07-27T06:13:30.165918Z",
-                "2025-07-28T14:07:58.851545Z"
-            ]
-        },
-        {
-            "id": "5abc1118462280fe033397db5a8a0123",
-            "source": "breaking_defense",
-            "text": "Northrop back at work on Sentinel ICBM missile silo design: CEO",
-            "source_link": "https://breakingdefense.com/2025/07/northrop-back-at-work-on-sentinel-icbm-missile-silo-design-ceo/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-22T20:17:44.175443Z",
-            "shown_at": [
-                "2025-07-22T20:17:45.386971Z",
-                "2025-07-23T07:11:42.198439Z",
-                "2025-07-23T08:09:33.250999Z",
-                "2025-07-23T13:55:32.799667Z",
-                "2025-07-23T17:03:35.378059Z",
-                "2025-07-23T19:45:35.082170Z",
-                "2025-07-23T23:35:46.274036Z",
-                "2025-07-24T13:25:56.742068Z",
-                "2025-07-24T20:23:40.724840Z",
-                "2025-07-24T22:15:56.332209Z",
-                "2025-07-25T00:11:41.477414Z",
-                "2025-07-26T16:27:35.361661Z",
-                "2025-07-26T18:19:35.397554Z",
-                "2025-07-26T19:15:54.571996Z",
-                "2025-07-27T05:02:07.773590Z",
-                "2025-07-27T15:22:07.180123Z",
-                "2025-07-27T16:19:37.119655Z",
-                "2025-07-27T18:13:36.195131Z",
-                "2025-07-27T22:08:12.302358Z",
-                "2025-07-28T07:47:40.548512Z",
-                "2025-07-28T23:27:34.572393Z",
-                "2025-07-29T08:19:48.966512Z",
-                "2025-07-29T12:27:41.318118Z",
-                "2025-07-29T16:47:36.197950Z"
-            ]
-        },
-        {
-            "id": "c46392af6f65b2b55336f8886837be33",
-            "source": "spacenews",
-            "text": "Space Development Agency’s satellite network reaching ‘make-or-break’ moment",
-            "source_link": "https://spacenews.com/space-development-agencys-satellite-network-reaching-make-or-break-moment/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-22T20:02:09.598141Z",
-            "shown_at": [
-                "2025-07-22T20:02:10.180698Z",
-                "2025-07-26T14:21:46.859569Z",
-                "2025-07-27T11:23:47.504168Z",
-                "2025-07-29T10:57:37.515242Z",
-                "2025-07-29T19:13:34.778521Z"
-            ]
-        },
-        {
-            "id": "1f29ed6bd96008da27ce0bb5495bb472",
-            "source": "spacenews",
-            "text": "Space Force to select multiple companies for new geostationary satellite surveillance network",
-            "source_link": "https://spacenews.com/space-force-to-select-multiple-companies-for-new-geostationary-satellite-surveillance-network/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-22T17:55:37.831446Z",
-            "shown_at": [
-                "2025-07-22T17:55:38.511818Z",
-                "2025-07-22T23:45:14.898028Z",
-                "2025-07-23T14:09:45.367091Z",
-                "2025-07-25T11:15:50.537431Z",
-                "2025-07-29T09:57:38.128793Z"
-            ]
-        },
-        {
-            "id": "e17855fdcda683499dde5d5200fcf454",
-            "source": "spacenews",
-            "text": "Space Forge generates plasma for LEO semiconductor material production",
-            "source_link": "https://spacenews.com/space-forge-generates-plasma-for-leo-semiconductor-material-production/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-12-31T06:34:24.977294Z",
-            "shown_at": [
-                "2025-12-31T06:34:25.765299Z",
-                "2025-12-31T10:04:43.453366Z"
-            ]
-        },
-        {
-            "id": "11c68aef8097933529231f77a92581c0",
-            "source": "spacenews",
-            "text": "China caps record year for orbital launches with Tianhui-7 and Shijian-29 technology test missions",
-            "source_link": "https://spacenews.com/china-caps-record-year-for-orbital-launches-with-tianhui-7-and-shijian-29-technology-test-missions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-12-31T10:38:58.657957Z",
-            "shown_at": [
-                "2025-12-31T10:38:59.756445Z",
-                "2025-12-31T20:39:10.932157Z",
-                "2025-12-31T22:24:09.182214Z"
-            ]
-        },
-        {
-            "id": "d835a0c0316a5c2bd0dc7abaf5651b17",
-            "source": "spacenews",
-            "text": "China to debut reusable Long March 10-derived rocket in first half of 2026",
-            "source_link": "https://spacenews.com/china-to-debut-reusable-long-march-10-derived-rocket-in-first-half-of-2026/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-12-31T12:59:01.781941Z",
-            "shown_at": [
-                "2025-12-31T12:59:02.537005Z"
-            ]
-        },
-        {
-            "id": "efead351ef93d26af40e82e046ea9557",
-            "source": "breaking_defense",
-            "text": "Europe’s time to shine in space? 2026 preview",
-            "source_link": "https://breakingdefense.com/2025/12/europes-time-to-shine-in-space-2026-preview/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-12-31T18:19:28.202530Z",
-            "shown_at": [
-                "2025-12-31T18:19:29.006803Z",
-                "2025-12-31T20:04:21.360995Z"
-            ]
-        },
-        {
-            "id": "ddf52662058b214649a83fe8aba5a9f7",
-            "source": "spacenews",
-            "text": "Heliophysics missions move toward operations",
-            "source_link": "https://spacenews.com/heliophysics-missions-move-toward-operations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-12-31T23:34:19.688044Z",
-            "shown_at": [
-                "2025-12-31T23:34:20.293547Z"
             ]
         }
     ]
