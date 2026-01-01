@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-01T00:04:33.126373+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ced5c3cda305c59e05fec051318bc41c",
+    "trigger_count": 0,
+    "current_item_id": "6512fcf1c990076a5108036ccf27524c",
     "data": [
         {
             "id": "ddf52662058b214649a83fe8aba5a9f7",
@@ -11897,6 +11897,18 @@
             "shown_at": [
                 "2026-01-01T00:49:20.260580Z",
                 "2026-01-01T07:54:49.536178Z"
+            ]
+        },
+        {
+            "id": "6512fcf1c990076a5108036ccf27524c",
+            "source": "nyt",
+            "text": "Even the Sky May Not Be the Limit for A.I. Data Centers",
+            "source_link": "https://www.nytimes.com/2026/01/01/technology/space-data-centers-ai.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-01T10:14:09.907208Z",
+            "shown_at": [
+                "2026-01-01T10:14:10.617428Z"
             ]
         }
     ]
