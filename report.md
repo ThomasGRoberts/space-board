@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 8 | 14 | 26 |
-| breaking_defense | 1 | 1 | 12 | 21 |
+| breaking_defense | 1 | 1 | 13 | 22 |
 | nyt | 0 | 1 | 11 | 22 |
 
 # Shown Order
@@ -6381,3 +6381,4 @@
 - **Jan 01, 01:59 AM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
 - **Jan 01, 02:34 AM** - Space Forge generates plasma for LEO semiconductor material production (spacenews)
 - **Jan 01, 03:09 AM** - Before This Physicist Studied the Stars, He Was One (nyt)
+- **Jan 01, 03:44 AM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
