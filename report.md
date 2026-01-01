@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 7 | 14 | 28 |
 | breaking_defense | 1 | 1 | 14 | 24 |
-| nyt | 1 | 1 | 12 | 23 |
+| nyt | 1 | 1 | 13 | 24 |
 
 # Shown Order
 
@@ -6404,3 +6404,4 @@
 - **Jan 01, 03:34 PM** - Before This Physicist Studied the Stars, He Was One (nyt)
 - **Jan 01, 04:09 PM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
 - **Jan 01, 04:44 PM** - China caps record year for orbital launches with Tianhui-7 and Shijian-29 technology test missions (spacenews)
+- **Jan 01, 05:19 PM** - Before This Physicist Studied the Stars, He Was One (nyt)
