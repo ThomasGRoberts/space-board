@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 14 | 25 |
-| breaking_defense | 1 | 1 | 12 | 20 |
+| breaking_defense | 1 | 1 | 13 | 21 |
 | nyt | 0 | 1 | 11 | 20 |
 
 # Shown Order
@@ -6375,3 +6375,4 @@
 - **Dec 31, 10:24 PM** - China caps record year for orbital launches with Tianhui-7 and Shijian-29 technology test missions (spacenews)
 - **Dec 31, 10:59 PM** - Space Events 2026: NASA’s Artemis II Moon Mission, Summer Eclipse and More (nyt)
 - **Dec 31, 11:34 PM** - Heliophysics missions move toward operations (spacenews)
+- **Jan 01, 12:09 AM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
