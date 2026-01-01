@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 8 | 14 | 27 |
 | breaking_defense | 1 | 1 | 12 | 22 |
-| nyt | 0 | 1 | 11 | 21 |
+| nyt | 0 | 1 | 12 | 22 |
 
 # Shown Order
 
@@ -6383,3 +6383,4 @@
 - **Jan 01, 03:09 AM** - Before This Physicist Studied the Stars, He Was One (nyt)
 - **Jan 01, 03:44 AM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
 - **Jan 01, 04:19 AM** - Proposal to dismantle NCAR would have space science impacts (spacenews)
+- **Jan 01, 04:54 AM** - Space Events 2026: NASA’s Artemis II Moon Mission, Summer Eclipse and More (nyt)
