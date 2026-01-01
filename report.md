@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 7 | 13 | 27 |
-| breaking_defense | 1 | 1 | 12 | 23 |
+| breaking_defense | 1 | 1 | 13 | 24 |
 | nyt | 1 | 1 | 12 | 23 |
 
 # Shown Order
@@ -6393,3 +6393,4 @@
 - **Jan 01, 09:04 AM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
 - **Jan 01, 09:39 AM** - Perseverance continues science mission amid uncertainty about Mars Sample Return (spacenews)
 - **Jan 01, 10:14 AM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
+- **Jan 01, 10:49 AM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
