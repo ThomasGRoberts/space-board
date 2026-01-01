@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 7 | 14 | 28 |
 | breaking_defense | 1 | 1 | 14 | 24 |
-| nyt | 1 | 1 | 12 | 22 |
+| nyt | 1 | 1 | 13 | 23 |
 
 # Shown Order
 
@@ -6398,3 +6398,4 @@
 - **Jan 01, 12:04 PM** - Space Events 2026: NASA’s Artemis II Moon Mission, Summer Eclipse and More (nyt)
 - **Jan 01, 12:39 PM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
 - **Jan 01, 01:15 PM** - Former ULA chief Bruno joins Blue Origin (spacenews)
+- **Jan 01, 01:49 PM** - This City’s Best Winter Show Is in Its Pitch-Dark Skies (nyt)
