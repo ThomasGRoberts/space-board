@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 7 | 14 | 25 |
+| spacenews | 5 | 8 | 15 | 26 |
 | breaking_defense | 1 | 1 | 12 | 21 |
 | nyt | 0 | 1 | 11 | 20 |
 
@@ -6376,3 +6376,4 @@
 - **Dec 31, 10:59 PM** - Space Events 2026: NASA’s Artemis II Moon Mission, Summer Eclipse and More (nyt)
 - **Dec 31, 11:34 PM** - Heliophysics missions move toward operations (spacenews)
 - **Jan 01, 12:09 AM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
+- **Jan 01, 12:49 AM** - Landspace targets $1 billion for reusable rockets as IPO application accepted (spacenews)
