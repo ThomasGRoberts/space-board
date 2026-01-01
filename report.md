@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 7 | 14 | 28 |
-| breaking_defense | 0 | 1 | 13 | 24 |
+| breaking_defense | 0 | 1 | 14 | 25 |
 | nyt | 1 | 1 | 13 | 24 |
 
 # Shown Order
@@ -6408,3 +6408,4 @@
 - **Jan 01, 05:54 PM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
 - **Jan 01, 06:29 PM** - ESA confirms data breach (spacenews)
 - **Jan 01, 07:04 PM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
+- **Jan 01, 07:39 PM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
