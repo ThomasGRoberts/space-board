@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 6 | 14 | 28 |
-| breaking_defense | 0 | 1 | 13 | 25 |
+| breaking_defense | 0 | 1 | 14 | 26 |
 | nyt | 1 | 1 | 13 | 24 |
 
 # Shown Order
@@ -6411,3 +6411,4 @@
 - **Jan 01, 07:39 PM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
 - **Jan 01, 08:19 PM** - Space Forge generates plasma for LEO semiconductor material production (spacenews)
 - **Jan 01, 08:54 PM** - Before This Physicist Studied the Stars, He Was One (nyt)
+- **Jan 01, 09:29 PM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
