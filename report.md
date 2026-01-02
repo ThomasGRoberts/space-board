@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 1 | 13 | 27 |
+| nyt | 0 | 1 | 13 | 26 |
 | spacenews | 1 | 3 | 14 | 28 |
-| breaking_defense | 1 | 1 | 13 | 26 |
+| breaking_defense | 1 | 1 | 14 | 27 |
 
 # Shown Order
 
@@ -6438,3 +6438,4 @@
 - **Jan 02, 07:29 PM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
 - **Jan 02, 08:04 PM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
 - **Jan 02, 08:38 PM** - Space Force offers new Vandenberg launch site (spacenews)
+- **Jan 02, 09:14 PM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
