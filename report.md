@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 14 | 25 |
 | spacenews | 0 | 5 | 13 | 28 |
-| breaking_defense | 0 | 1 | 13 | 25 |
+| breaking_defense | 0 | 1 | 14 | 26 |
 
 # Shown Order
 
@@ -6410,3 +6410,4 @@
 - **Jan 02, 02:44 AM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
 - **Jan 02, 03:19 AM** - Space Force offers new Vandenberg launch site (spacenews)
 - **Jan 02, 03:54 AM** - Before This Physicist Studied the Stars, He Was One (nyt)
+- **Jan 02, 04:29 AM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
