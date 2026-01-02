@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 13 | 25 |
-| spacenews | 0 | 5 | 13 | 27 |
+| spacenews | 0 | 5 | 14 | 28 |
 | breaking_defense | 0 | 1 | 14 | 26 |
 
 # Shown Order
@@ -6405,3 +6405,4 @@
 - **Jan 01, 11:49 PM** - Proposal to dismantle NCAR would have space science impacts (spacenews)
 - **Jan 02, 12:24 AM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
 - **Jan 02, 12:58 AM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
+- **Jan 02, 01:34 AM** - China hits 90 launches as Guowang deployment continues, Fengyun-4C heads to GEO (spacenews)
