@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 1 | 13 | 26 |
-| spacenews | 2 | 4 | 14 | 29 |
+| nyt | 0 | 1 | 14 | 27 |
+| spacenews | 2 | 4 | 14 | 28 |
 | breaking_defense | 1 | 1 | 13 | 26 |
 
 # Shown Order
@@ -6440,3 +6440,4 @@
 - **Jan 02, 08:38 PM** - Space Force offers new Vandenberg launch site (spacenews)
 - **Jan 02, 09:14 PM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
 - **Jan 02, 09:49 PM** - Terran Orbital Selected by Lockheed Martin to Provide Satellite Buses for SDA’s Tranche 3 Tracking Layer (spacenews)
+- **Jan 02, 10:24 PM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
