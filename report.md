@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 14 | 27 |
 | spacenews | 0 | 2 | 13 | 27 |
-| breaking_defense | 0 | 1 | 13 | 27 |
+| breaking_defense | 0 | 1 | 14 | 28 |
 
 # Shown Order
 
@@ -6425,3 +6425,4 @@
 - **Jan 02, 11:34 AM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
 - **Jan 02, 12:09 PM** - Synspective tapped to provide satellite imagery for Japan’s new military constellation (spacenews)
 - **Jan 02, 12:49 PM** - Space Events 2026: NASA’s Artemis II Moon Mission, Summer Eclipse and More (nyt)
+- **Jan 02, 01:24 PM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
