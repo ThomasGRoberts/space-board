@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 13 | 25 |
-| spacenews | 0 | 5 | 13 | 27 |
+| spacenews | 0 | 5 | 14 | 28 |
 | breaking_defense | 0 | 1 | 14 | 26 |
 
 # Shown Order
@@ -6411,3 +6411,4 @@
 - **Jan 02, 03:19 AM** - Space Force offers new Vandenberg launch site (spacenews)
 - **Jan 02, 03:54 AM** - Before This Physicist Studied the Stars, He Was One (nyt)
 - **Jan 02, 04:29 AM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
+- **Jan 02, 05:04 AM** - Isaacman opens door to alternatives to moving shuttle Discovery to Houston (spacenews)
