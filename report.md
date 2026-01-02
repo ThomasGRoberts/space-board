@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 14 | 27 |
 | spacenews | 0 | 2 | 13 | 27 |
-| breaking_defense | 0 | 1 | 13 | 27 |
+| breaking_defense | 0 | 1 | 14 | 28 |
 
 # Shown Order
 
@@ -6428,3 +6428,4 @@
 - **Jan 02, 01:24 PM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
 - **Jan 02, 02:04 PM** - Space Forge generates plasma for LEO semiconductor material production (spacenews)
 - **Jan 02, 02:39 PM** - This City’s Best Winter Show Is in Its Pitch-Dark Skies (nyt)
+- **Jan 02, 03:14 PM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
