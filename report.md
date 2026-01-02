@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 14 | 27 |
-| spacenews | 0 | 2 | 13 | 28 |
+| spacenews | 1 | 3 | 14 | 28 |
 | breaking_defense | 1 | 1 | 13 | 26 |
 
 # Shown Order
@@ -6434,3 +6434,4 @@
 - **Jan 02, 04:59 PM** - US-European relations will define the next year: 2026 preview (breaking_defense)
 - **Jan 02, 05:39 PM** - Proposal to dismantle NCAR would have space science impacts (spacenews)
 - **Jan 02, 06:14 PM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
+- **Jan 02, 06:54 PM** - SpaceX to lower orbits of some Starlink satellites (spacenews)

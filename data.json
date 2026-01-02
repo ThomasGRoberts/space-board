@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-02T00:04:33.931072+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6512fcf1c990076a5108036ccf27524c",
+    "trigger_count": 0,
+    "current_item_id": "c570aa1519a1bd7d52e8d9b0adec7c65",
     "data": [
         {
             "id": "6512fcf1c990076a5108036ccf27524c",
@@ -11939,6 +11939,18 @@
             "fetched_datetime": "2026-01-02T16:59:01.477527Z",
             "shown_at": [
                 "2026-01-02T16:59:04.215461Z"
+            ]
+        },
+        {
+            "id": "c570aa1519a1bd7d52e8d9b0adec7c65",
+            "source": "spacenews",
+            "text": "SpaceX to lower orbits of some Starlink satellites",
+            "source_link": "https://spacenews.com/spacex-to-lower-orbits-of-some-starlink-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-02T18:54:43.491683Z",
+            "shown_at": [
+                "2026-01-02T18:54:44.273297Z"
             ]
         }
     ]
