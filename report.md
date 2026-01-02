@@ -2,30 +2,24 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
+| nyt | 1 | 1 | 13 | 24 |
 | spacenews | 1 | 5 | 14 | 28 |
 | breaking_defense | 0 | 1 | 14 | 26 |
-| nyt | 1 | 1 | 13 | 25 |
 
 # Shown Order
 
-- **Jul 23, 12:13 PM** - SpaceX launch brings SES closer to completing MEO broadband upgrade by 2027 (spacenews)
-- **Jul 23, 01:09 PM** - Why America needs to invest in Vandenberg’s launch cadence (spacenews)
 - **Jul 23, 02:57 PM** - China tightens quality oversight over commercial space projects (spacenews)
 - **Jul 23, 04:02 PM** - Global military space spending growth trend continues in 2024, topping $60B (breaking_defense)
-- **Jul 23, 07:17 PM** - Why America needs to invest in Vandenberg’s launch cadence (spacenews)
 - **Jul 23, 08:15 PM** - Space Force eyes ‘novel’ development tools for Golden Dome SBIs (breaking_defense)
 - **Jul 23, 08:43 PM** - Space Force eyes ‘novel’ development tools for Golden Dome space-based interceptors (breaking_defense)
 - **Jul 23, 09:12 PM** - Launch startup iRocket agrees to merge with Wilbur Ross-backed SPAC (spacenews)
-- **Jul 23, 11:08 PM** - SpaceX launch brings SES closer to completing MEO broadband upgrade by 2027 (spacenews)
 - **Jul 24, 12:33 AM** - Global military space spending growth trend continues in 2024, topping $60B (breaking_defense)
 - **Jul 24, 02:17 AM** - House appropriators interested in alternatives to SLS EUS upper stage (spacenews)
 - **Jul 24, 02:45 AM** - Global military space spending growth trend continues in 2024, topping $60B (breaking_defense)
 - **Jul 24, 03:41 AM** - Space Force eyes ‘novel’ development tools for Golden Dome SBIs (breaking_defense)
-- **Jul 24, 04:09 AM** - Why America needs to invest in Vandenberg’s launch cadence (spacenews)
 - **Jul 24, 04:39 AM** - Space Force eyes ‘novel’ development tools for Golden Dome space-based interceptors (breaking_defense)
 - **Jul 24, 05:35 AM** - Global military space spending growth trend continues in 2024, topping $60B (breaking_defense)
 - **Jul 24, 07:29 AM** - Space Force eyes ‘novel’ development tools for Golden Dome SBIs (breaking_defense)
-- **Jul 24, 07:57 AM** - SpaceX launch brings SES closer to completing MEO broadband upgrade by 2027 (spacenews)
 - **Jul 24, 08:25 AM** - Space Force eyes ‘novel’ development tools for Golden Dome SBIs (breaking_defense)
 - **Jul 24, 11:19 AM** - Space Pioneer completes launch pad for Tianlong-3 rocket (spacenews)
 - **Jul 24, 11:33 AM** - Space Force eyes ‘novel’ development tools for Golden Dome space-based interceptors (breaking_defense)
@@ -154,7 +148,6 @@
 - **Jul 27, 07:09 PM** - Senate confirms Lohmeier as Air Force No. 2 civilian (breaking_defense)
 - **Jul 27, 07:51 PM** - China tightens quality oversight over commercial space projects (spacenews)
 - **Jul 27, 08:07 PM** - Global military space spending growth trend continues in 2024, topping $60B (breaking_defense)
-- **Jul 27, 08:53 PM** - Why America needs to invest in Vandenberg’s launch cadence (spacenews)
 - **Jul 27, 09:07 PM** - Space Force eyes ‘novel’ development tools for Golden Dome space-based interceptors (breaking_defense)
 - **Jul 27, 09:51 PM** - House appropriators interested in alternatives to SLS EUS upper stage (spacenews)
 - **Jul 27, 10:51 PM** - ULA tempers expectations for 2025 launch volume amid transition to Vulcan-centric fleet (spacenews)
@@ -217,7 +210,6 @@
 - **Jul 29, 01:09 AM** - Space Pioneer completes launch pad for Tianlong-3 rocket (spacenews)
 - **Jul 29, 01:26 AM** - Appropriators restore funding for Commerce’s TraCSS spacewatch effort (breaking_defense)
 - **Jul 29, 01:57 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
-- **Jul 29, 02:13 AM** - SpaceX launch brings SES closer to completing MEO broadband upgrade by 2027 (spacenews)
 - **Jul 29, 02:27 AM** - Senate confirms Lohmeier as Air Force No. 2 civilian (breaking_defense)
 - **Jul 29, 02:55 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 29, 03:09 AM** - Industry warns of severe consequences from ISS funding cuts (spacenews)
@@ -228,7 +220,6 @@
 - **Jul 29, 06:53 AM** - SmallSat heads to Salt Lake City as audience expands (spacenews)
 - **Jul 29, 07:07 AM** - Space Force creates new ‘System Deltas’ to guide missile warning, space-based targeting efforts (breaking_defense)
 - **Jul 29, 07:22 AM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
-- **Jul 29, 07:51 AM** - Why America needs to invest in Vandenberg’s launch cadence (spacenews)
 - **Jul 29, 08:05 AM** - Qwaltec joins Leanspace Partner Ecosystem to Deliver Next-Gen Spacecraft Operations Solutions for the US Market (spacenews)
 - **Jul 29, 08:33 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 29, 09:02 AM** - Tyvak International, a Terran Orbital Company, Leads Groundbreaking 5G Satellite Demonstration Mission for ESA (spacenews)
@@ -240,7 +231,6 @@
 - **Jul 29, 11:27 AM** - Roketsan signs agreement with Indonesia, unveils five missiles and space launch vehicle designs (breaking_defense)
 - **Jul 29, 11:55 AM** - NASA pauses acquisition of lunar communications ground stations (spacenews)
 - **Jul 29, 12:13 PM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
-- **Jul 29, 12:55 PM** - SpaceX launch brings SES closer to completing MEO broadband upgrade by 2027 (spacenews)
 - **Jul 29, 01:09 PM** - Canada awards study contracts for lunar utility rover (spacenews)
 - **Jul 29, 01:23 PM** - Slingshot unveils AI agent for Space Force training (spacenews)
 - **Jul 29, 01:37 PM** - China’s iSpace returns to flight with successful orbital solid rocket launch  (spacenews)
@@ -270,13 +260,11 @@
 - **Jul 29, 10:55 PM** - Firefly Aerospace wins fourth lunar lander award (spacenews)
 - **Jul 29, 11:35 PM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
 - **Jul 29, 11:57 PM** - Appropriators restore funding for Commerce’s TraCSS spacewatch effort (breaking_defense)
-- **Jul 30, 12:11 AM** - SpaceX launch brings SES closer to completing MEO broadband upgrade by 2027 (spacenews)
 - **Jul 30, 12:25 AM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
 - **Jul 30, 12:53 AM** - Appropriators restore funding for Commerce’s TraCSS spacewatch effort (breaking_defense)
 - **Jul 30, 01:07 AM** - Slingshot unveils AI agent for Space Force training (spacenews)
 - **Jul 30, 01:23 AM** - When Coke and Pepsi Fought for Soft Drink Supremacy in Space (nyt)
 - **Jul 30, 01:51 AM** - Space Force eyes ‘novel’ development tools for Golden Dome SBIs (breaking_defense)
-- **Jul 30, 02:06 AM** - Why America needs to invest in Vandenberg’s launch cadence (spacenews)
 - **Jul 30, 02:19 AM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
 - **Jul 30, 02:47 AM** - Space Force creates new ‘System Deltas’ to guide missile warning, space-based targeting efforts (breaking_defense)
 - **Jul 30, 03:02 AM** - NASA pauses acquisition of lunar communications ground stations (spacenews)
@@ -296,7 +284,6 @@
 - **Jul 30, 09:15 AM** - Space Force selects five firms for ‘Protected Tactical Satcom’ design contracts (spacenews)
 - **Jul 30, 09:29 AM** - Appropriators restore funding for Commerce’s TraCSS spacewatch effort (breaking_defense)
 - **Jul 30, 09:57 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
-- **Jul 30, 10:11 AM** - Why America needs to invest in Vandenberg’s launch cadence (spacenews)
 - **Jul 30, 10:25 AM** - Roketsan signs agreement with Indonesia, unveils five missiles and space launch vehicle designs (breaking_defense)
 - **Jul 30, 10:53 AM** - The First Soda in Space: When NASA Got Caught Up in the Cola Wars (nyt)
 - **Jul 30, 11:07 AM** - NASA pauses acquisition of lunar communications ground stations (spacenews)
