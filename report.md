@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 13 | 25 |
-| spacenews | 0 | 4 | 13 | 27 |
+| spacenews | 0 | 4 | 14 | 28 |
 | breaking_defense | 0 | 1 | 14 | 26 |
 
 # Shown Order
@@ -6420,3 +6420,4 @@
 - **Jan 02, 08:39 AM** - Heliophysics missions move toward operations (spacenews)
 - **Jan 02, 09:14 AM** - Space Events 2026: NASA’s Artemis II Moon Mission, Summer Eclipse and More (nyt)
 - **Jan 02, 09:49 AM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
+- **Jan 02, 10:24 AM** - Landspace targets $1 billion for reusable rockets as IPO application accepted (spacenews)
