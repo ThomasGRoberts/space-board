@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 1 | 13 | 26 |
+| nyt | 0 | 1 | 14 | 27 |
 | spacenews | 0 | 2 | 14 | 28 |
 | breaking_defense | 0 | 1 | 13 | 27 |
 
@@ -6430,3 +6430,4 @@
 - **Jan 02, 02:39 PM** - This City’s Best Winter Show Is in Its Pitch-Dark Skies (nyt)
 - **Jan 02, 03:14 PM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
 - **Jan 02, 03:49 PM** - Synspective tapped to provide satellite imagery for Japan’s new military constellation (spacenews)
+- **Jan 02, 04:24 PM** - This City’s Best Winter Show Is in Its Pitch-Dark Skies (nyt)
