@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 14 | 26 |
 | spacenews | 0 | 3 | 13 | 27 |
-| breaking_defense | 0 | 1 | 13 | 26 |
+| breaking_defense | 0 | 1 | 14 | 27 |
 
 # Shown Order
 
@@ -6422,3 +6422,4 @@
 - **Jan 02, 09:49 AM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
 - **Jan 02, 10:24 AM** - Landspace targets $1 billion for reusable rockets as IPO application accepted (spacenews)
 - **Jan 02, 10:59 AM** - This City’s Best Winter Show Is in Its Pitch-Dark Skies (nyt)
+- **Jan 02, 11:34 AM** - Tory Bruno to lead new Blue Origin national security unit (breaking_defense)
