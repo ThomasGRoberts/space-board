@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 2 | 14 | 27 |
+| spacenews | 2 | 2 | 15 | 28 |
 | breaking_defense | 1 | 1 | 13 | 27 |
 | nyt | 0 | 1 | 13 | 27 |
 
@@ -6400,3 +6400,4 @@
 - **Jan 02, 11:34 PM** - ESA confirms data breach (spacenews)
 - **Jan 03, 12:09 AM** - Space Events 2026: NASA’s Artemis II Moon Mission, Summer Eclipse and More (nyt)
 - **Jan 03, 12:44 AM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
+- **Jan 03, 01:19 AM** - Isaacman opens door to alternatives to moving shuttle Discovery to Houston (spacenews)
