@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-03T00:04:24.016219+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7384ff6db4ede96dac525a00fac46d63",
+    "trigger_count": 0,
+    "current_item_id": "25e379d6b7e32656062319c45933da2a",
     "data": [
         {
             "id": "eae9c516e87a78f8a463d1cbd89a1891",
@@ -11938,6 +11938,27 @@
                 "2026-01-03T10:09:03.846162Z",
                 "2026-01-03T11:54:04.775952Z"
             ]
+        },
+        {
+            "id": "25e379d6b7e32656062319c45933da2a",
+            "source": "spacenews",
+            "text": "New Spanish communications satellite suffers ‘space particle’ impact",
+            "source_link": "https://spacenews.com/new-spanish-communications-satellite-suffers-space-particle-impact/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-03T22:09:03.149135Z",
+            "shown_at": [
+                "2026-01-03T22:09:03.810864Z"
+            ]
+        },
+        {
+            "id": "f04f30d0e434ddcf91b7575fc83347d8",
+            "source": "spacenews",
+            "text": "SpaceX launches next second-generation Italian COSMO-SkyMed satellite",
+            "source_link": "https://spacenews.com/spacex-launches-next-second-generation-italian-cosmo-skymed-satellite/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-01-03T22:09:03.149213Z"
         }
     ]
 }

@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 12 | 26 |
+| spacenews | 3 | 5 | 13 | 27 |
 | breaking_defense | 0 | 1 | 12 | 25 |
 | nyt | 0 | 0 | 13 | 26 |
 
@@ -6432,3 +6432,4 @@
 - **Jan 03, 08:24 PM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
 - **Jan 03, 08:59 PM** - SpaceX to lower orbits of some Starlink satellites (spacenews)
 - **Jan 03, 09:34 PM** - Space Events 2026: NASA’s Artemis II Moon Mission, Summer Eclipse and More (nyt)
+- **Jan 03, 10:09 PM** - New Spanish communications satellite suffers ‘space particle’ impact (spacenews)
