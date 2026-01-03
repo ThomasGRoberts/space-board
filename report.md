@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 12 | 26 |
+| spacenews | 2 | 3 | 13 | 27 |
 | breaking_defense | 0 | 1 | 13 | 26 |
-| nyt | 0 | 0 | 12 | 26 |
+| nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -6427,3 +6427,4 @@
 - **Jan 03, 04:01 PM** - Landspace targets $1 billion for reusable rockets as IPO application accepted (spacenews)
 - **Jan 03, 05:01 PM** - Space Events 2026: NASA’s Artemis II Moon Mission, Summer Eclipse and More (nyt)
 - **Jan 03, 06:09 PM** - US-European relations will define the next year: 2026 preview (breaking_defense)
+- **Jan 03, 07:09 PM** - SpaceX to lower orbits of some Starlink satellites (spacenews)
