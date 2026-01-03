@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 3 | 13 | 27 |
+| spacenews | 3 | 3 | 14 | 28 |
 | breaking_defense | 1 | 1 | 13 | 27 |
 | nyt | 0 | 0 | 13 | 26 |
 
@@ -6424,3 +6424,4 @@
 - **Jan 03, 01:39 PM** - China hits 90 launches as Guowang deployment continues, Fengyun-4C heads to GEO (spacenews)
 - **Jan 03, 02:14 PM** - Space Events 2026: NASA’s Artemis II Moon Mission, Summer Eclipse and More (nyt)
 - **Jan 03, 03:05 PM** - US-European relations will define the next year: 2026 preview (breaking_defense)
+- **Jan 03, 04:01 PM** - Landspace targets $1 billion for reusable rockets as IPO application accepted (spacenews)
