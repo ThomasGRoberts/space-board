@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 13 | 27 |
 | breaking_defense | 0 | 1 | 12 | 25 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -6431,3 +6431,4 @@
 - **Jan 03, 07:49 PM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
 - **Jan 03, 08:24 PM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
 - **Jan 03, 08:59 PM** - SpaceX to lower orbits of some Starlink satellites (spacenews)
+- **Jan 03, 09:34 PM** - Space Events 2026: NASA’s Artemis II Moon Mission, Summer Eclipse and More (nyt)
