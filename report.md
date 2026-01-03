@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 13 | 27 |
-| breaking_defense | 0 | 1 | 12 | 25 |
+| spacenews | 2 | 3 | 13 | 26 |
+| breaking_defense | 0 | 1 | 13 | 26 |
 | nyt | 0 | 0 | 12 | 26 |
 
 # Shown Order
@@ -6429,3 +6429,4 @@
 - **Jan 03, 06:09 PM** - US-European relations will define the next year: 2026 preview (breaking_defense)
 - **Jan 03, 07:09 PM** - SpaceX to lower orbits of some Starlink satellites (spacenews)
 - **Jan 03, 07:49 PM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
+- **Jan 03, 08:24 PM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
