@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 3 | 14 | 27 |
+| spacenews | 3 | 3 | 15 | 28 |
 | breaking_defense | 1 | 1 | 13 | 27 |
 | nyt | 0 | 0 | 13 | 27 |
 
@@ -6421,3 +6421,4 @@
 - **Jan 03, 11:54 AM** - Eartheye Space reveals contract with Asia-Pacific customer (spacenews)
 - **Jan 03, 12:29 PM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
 - **Jan 03, 01:04 PM** - US-European relations will define the next year: 2026 preview (breaking_defense)
+- **Jan 03, 01:39 PM** - China hits 90 launches as Guowang deployment continues, Fengyun-4C heads to GEO (spacenews)
