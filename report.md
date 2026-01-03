@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 2 | 14 | 28 |
-| breaking_defense | 1 | 1 | 13 | 26 |
+| breaking_defense | 1 | 1 | 14 | 27 |
 | nyt | 0 | 1 | 13 | 27 |
 
 # Shown Order
@@ -6402,3 +6402,4 @@
 - **Jan 03, 12:44 AM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
 - **Jan 03, 01:19 AM** - Isaacman opens door to alternatives to moving shuttle Discovery to Houston (spacenews)
 - **Jan 03, 01:54 AM** - Space Events 2026: NASA’s Artemis II Moon Mission, Summer Eclipse and More (nyt)
+- **Jan 03, 02:29 AM** - US-European relations will define the next year: 2026 preview (breaking_defense)
