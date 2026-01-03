@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 14 | 28 |
-| breaking_defense | 1 | 1 | 13 | 27 |
-| nyt | 0 | 1 | 13 | 26 |
+| breaking_defense | 1 | 1 | 13 | 26 |
+| nyt | 0 | 1 | 14 | 27 |
 
 # Shown Order
 
@@ -6398,3 +6398,4 @@
 - **Jan 02, 10:24 PM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
 - **Jan 02, 10:59 PM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
 - **Jan 02, 11:34 PM** - ESA confirms data breach (spacenews)
+- **Jan 03, 12:09 AM** - Space Events 2026: NASA’s Artemis II Moon Mission, Summer Eclipse and More (nyt)
