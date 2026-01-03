@@ -1,9 +1,45 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-01-02T00:04:33.931072+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2026-01-03T00:04:24.016219+00:00",
+    "trigger_count": 6,
     "current_item_id": "a8706baf7435c9590f3542dfcd3c1fca",
     "data": [
+        {
+            "id": "eae9c516e87a78f8a463d1cbd89a1891",
+            "source": "spacenews",
+            "text": "Terran Orbital Selected by Lockheed Martin to Provide Satellite Buses for SDA’s Tranche 3 Tracking Layer",
+            "source_link": "https://spacenews.com/terran-orbital-selected-by-lockheed-martin-to-provide-satellite-buses-for-sdas-tranche-3-tracking-layer/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-02T21:49:16.125629Z",
+            "shown_at": [
+                "2026-01-02T21:49:16.963999Z"
+            ]
+        },
+        {
+            "id": "c570aa1519a1bd7d52e8d9b0adec7c65",
+            "source": "spacenews",
+            "text": "SpaceX to lower orbits of some Starlink satellites",
+            "source_link": "https://spacenews.com/spacex-to-lower-orbits-of-some-starlink-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-02T18:54:43.491683Z",
+            "shown_at": [
+                "2026-01-02T18:54:44.273297Z"
+            ]
+        },
+        {
+            "id": "032d8d20fd0c68d7c49c5d76826ec989",
+            "source": "breaking_defense",
+            "text": "US-European relations will define the next year: 2026 preview",
+            "source_link": "https://breakingdefense.com/2026/01/us-european-relations-will-define-the-next-year-2026-preview/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-02T16:59:01.477527Z",
+            "shown_at": [
+                "2026-01-02T16:59:04.215461Z"
+            ]
+        },
         {
             "id": "6512fcf1c990076a5108036ccf27524c",
             "source": "nyt",
@@ -11856,120 +11892,6 @@
                 "2025-07-29T10:29:50.126300Z",
                 "2025-07-29T17:45:44.638871Z",
                 "2025-07-30T15:23:30.870363Z"
-            ]
-        },
-        {
-            "id": "f9ce1f3d3a521282ded313ed1b25b196",
-            "source": "breaking_defense",
-            "text": "Space Force eyes ‘novel’ development tools for Golden Dome SBIs",
-            "source_link": "https://breakingdefense.com/2025/07/space-force-eyes-novel-development-tools-for-golden-dome-sbis/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-23T20:15:40.881845Z",
-            "shown_at": [
-                "2025-07-23T20:15:41.515781Z",
-                "2025-07-24T03:41:48.574947Z",
-                "2025-07-24T07:29:20.116707Z",
-                "2025-07-24T08:25:45.881917Z",
-                "2025-07-24T14:23:35.058282Z",
-                "2025-07-25T04:03:32.686385Z",
-                "2025-07-25T10:02:16.166342Z",
-                "2025-07-26T11:45:41.944875Z",
-                "2025-07-26T22:09:43.098165Z",
-                "2025-07-26T23:07:48.129077Z",
-                "2025-07-27T01:13:33.844993Z",
-                "2025-07-27T08:48:13.540286Z",
-                "2025-07-28T03:53:44.632161Z",
-                "2025-07-28T10:43:43.890848Z",
-                "2025-07-28T15:33:43.698717Z",
-                "2025-07-28T21:19:20.040187Z",
-                "2025-07-30T01:51:33.367246Z",
-                "2025-07-30T05:51:47.019681Z",
-                "2025-07-30T16:37:48.948881Z"
-            ]
-        },
-        {
-            "id": "84485b1e1e64dd1a5c288bb57c329027",
-            "source": "breaking_defense",
-            "text": "Global military space spending growth trend continues in 2024, topping $60B",
-            "source_link": "https://breakingdefense.com/2025/07/global-military-space-spending-growth-trend-continues-in-2024-topping-60b/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-23T16:02:00.059305Z",
-            "shown_at": [
-                "2025-07-23T16:02:01.310427Z",
-                "2025-07-24T00:33:49.133987Z",
-                "2025-07-24T02:45:51.854943Z",
-                "2025-07-24T05:35:43.482577Z",
-                "2025-07-25T02:05:38.275587Z",
-                "2025-07-25T04:59:33.051978Z",
-                "2025-07-25T07:07:55.365453Z",
-                "2025-07-25T17:07:32.168988Z",
-                "2025-07-26T01:47:41.341529Z",
-                "2025-07-26T07:17:21.572979Z",
-                "2025-07-26T20:13:45.927480Z",
-                "2025-07-27T05:59:36.380397Z",
-                "2025-07-27T20:07:35.859810Z",
-                "2025-07-28T00:05:53.664182Z",
-                "2025-07-28T05:49:45.505392Z",
-                "2025-07-28T08:45:57.891014Z",
-                "2025-07-28T16:33:38.290660Z",
-                "2025-07-29T19:43:32.776897Z",
-                "2025-07-29T20:39:34.261325Z",
-                "2025-07-29T21:51:38.485112Z"
-            ]
-        },
-        {
-            "id": "bc6b3587fb91b24ad605bed7e7862b41",
-            "source": "spacenews",
-            "text": "China tightens quality oversight over commercial space projects",
-            "source_link": "https://spacenews.com/china-tightens-quality-oversight-over-commercial-space-projects/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-23T14:57:48.416660Z",
-            "shown_at": [
-                "2025-07-23T14:57:49.471259Z",
-                "2025-07-25T22:39:42.587301Z",
-                "2025-07-26T04:11:45.851827Z",
-                "2025-07-26T17:09:30.909657Z",
-                "2025-07-27T19:51:32.906727Z",
-                "2025-07-28T18:57:46.681949Z"
-            ]
-        },
-        {
-            "id": "032d8d20fd0c68d7c49c5d76826ec989",
-            "source": "breaking_defense",
-            "text": "US-European relations will define the next year: 2026 preview",
-            "source_link": "https://breakingdefense.com/2026/01/us-european-relations-will-define-the-next-year-2026-preview/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-02T16:59:01.477527Z",
-            "shown_at": [
-                "2026-01-02T16:59:04.215461Z"
-            ]
-        },
-        {
-            "id": "c570aa1519a1bd7d52e8d9b0adec7c65",
-            "source": "spacenews",
-            "text": "SpaceX to lower orbits of some Starlink satellites",
-            "source_link": "https://spacenews.com/spacex-to-lower-orbits-of-some-starlink-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-02T18:54:43.491683Z",
-            "shown_at": [
-                "2026-01-02T18:54:44.273297Z"
-            ]
-        },
-        {
-            "id": "eae9c516e87a78f8a463d1cbd89a1891",
-            "source": "spacenews",
-            "text": "Terran Orbital Selected by Lockheed Martin to Provide Satellite Buses for SDA’s Tranche 3 Tracking Layer",
-            "source_link": "https://spacenews.com/terran-orbital-selected-by-lockheed-martin-to-provide-satellite-buses-for-sdas-tranche-3-tracking-layer/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-02T21:49:16.125629Z",
-            "shown_at": [
-                "2026-01-02T21:49:16.963999Z"
             ]
         }
     ]
