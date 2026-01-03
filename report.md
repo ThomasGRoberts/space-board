@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 2 | 14 | 27 |
+| spacenews | 3 | 3 | 15 | 28 |
 | breaking_defense | 1 | 1 | 13 | 27 |
 | nyt | 0 | 1 | 13 | 27 |
 
@@ -6406,3 +6406,4 @@
 - **Jan 03, 03:04 AM** - Space Forge generates plasma for LEO semiconductor material production (spacenews)
 - **Jan 03, 03:39 AM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
 - **Jan 03, 04:14 AM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
+- **Jan 03, 04:49 AM** - Eartheye Space reveals contract with Asia-Pacific customer (spacenews)

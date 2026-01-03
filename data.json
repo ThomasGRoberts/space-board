@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-03T00:04:24.016219+00:00",
-    "trigger_count": 6,
-    "current_item_id": "efead351ef93d26af40e82e046ea9557",
+    "trigger_count": 0,
+    "current_item_id": "952c0a250e665cf8a5d88a14b4ea5283",
     "data": [
         {
             "id": "eae9c516e87a78f8a463d1cbd89a1891",
@@ -11900,6 +11900,18 @@
                 "2025-07-29T10:29:50.126300Z",
                 "2025-07-29T17:45:44.638871Z",
                 "2025-07-30T15:23:30.870363Z"
+            ]
+        },
+        {
+            "id": "952c0a250e665cf8a5d88a14b4ea5283",
+            "source": "spacenews",
+            "text": "Eartheye Space reveals contract with Asia-Pacific customer",
+            "source_link": "https://spacenews.com/eartheye-space-reveals-contract-with-asia-pacific-customer/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-03T04:49:06.548768Z",
+            "shown_at": [
+                "2026-01-03T04:49:07.212932Z"
             ]
         }
     ]
