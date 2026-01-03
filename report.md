@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 3 | 14 | 28 |
 | breaking_defense | 1 | 1 | 13 | 27 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -6419,3 +6419,4 @@
 - **Jan 03, 10:44 AM** - Space Events 2026: NASA’s Artemis II Moon Mission, Summer Eclipse and More (nyt)
 - **Jan 03, 11:19 AM** - US-European relations will define the next year: 2026 preview (breaking_defense)
 - **Jan 03, 11:54 AM** - Eartheye Space reveals contract with Asia-Pacific customer (spacenews)
+- **Jan 03, 12:29 PM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
