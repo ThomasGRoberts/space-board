@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 3 | 14 | 28 |
 | breaking_defense | 1 | 1 | 13 | 27 |
-| nyt | 0 | 1 | 13 | 26 |
+| nyt | 0 | 1 | 14 | 27 |
 
 # Shown Order
 
@@ -6413,3 +6413,4 @@
 - **Jan 03, 07:09 AM** - Space Events 2026: NASA’s Artemis II Moon Mission, Summer Eclipse and More (nyt)
 - **Jan 03, 07:44 AM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
 - **Jan 03, 08:20 AM** - China hits 90 launches as Guowang deployment continues, Fengyun-4C heads to GEO (spacenews)
+- **Jan 03, 08:59 AM** - Space Events 2026: NASA’s Artemis II Moon Mission, Summer Eclipse and More (nyt)
