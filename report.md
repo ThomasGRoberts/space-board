@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 15 | 29 |
 | breaking_defense | 0 | 1 | 11 | 25 |
-| nyt | 0 | 0 | 11 | 24 |
+| nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -6432,3 +6432,4 @@
 - **Jan 04, 01:23 PM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
 - **Jan 04, 01:59 PM** - US-European relations will define the next year: 2026 preview (breaking_defense)
 - **Jan 04, 02:39 PM** - Synspective tapped to provide satellite imagery for Japan’s new military constellation (spacenews)
+- **Jan 04, 03:14 PM** - Space Events 2026: NASA’s Artemis II Moon Mission, Summer Eclipse and More (nyt)
