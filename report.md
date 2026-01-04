@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 16 | 29 |
 | breaking_defense | 0 | 0 | 12 | 25 |
-| nyt | 0 | 0 | 12 | 24 |
+| nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
 
@@ -6441,3 +6441,4 @@
 - **Jan 04, 06:44 PM** - Space Events 2026: NASA’s Artemis II Moon Mission, Summer Eclipse and More (nyt)
 - **Jan 04, 07:19 PM** - US-European relations will define the next year: 2026 preview (breaking_defense)
 - **Jan 04, 07:54 PM** - Terran Orbital Selected by Lockheed Martin to Provide Satellite Buses for SDA’s Tranche 3 Tracking Layer (spacenews)
+- **Jan 04, 08:29 PM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
