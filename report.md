@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 15 | 29 |
-| breaking_defense | 0 | 1 | 12 | 25 |
-| nyt | 0 | 0 | 12 | 24 |
+| breaking_defense | 0 | 0 | 12 | 24 |
+| nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
 
@@ -6435,3 +6435,4 @@
 - **Jan 04, 03:14 PM** - Space Events 2026: NASA’s Artemis II Moon Mission, Summer Eclipse and More (nyt)
 - **Jan 04, 03:49 PM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
 - **Jan 04, 04:24 PM** - China hits 90 launches as Guowang deployment continues, Fengyun-4C heads to GEO (spacenews)
+- **Jan 04, 04:59 PM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
