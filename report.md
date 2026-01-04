@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 7 | 15 | 28 |
+| spacenews | 4 | 7 | 16 | 29 |
 | breaking_defense | 0 | 0 | 13 | 25 |
 | nyt | 0 | 0 | 12 | 25 |
 
@@ -6437,3 +6437,4 @@
 - **Jan 04, 04:24 PM** - China hits 90 launches as Guowang deployment continues, Fengyun-4C heads to GEO (spacenews)
 - **Jan 04, 04:59 PM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
 - **Jan 04, 05:34 PM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
+- **Jan 04, 06:08 PM** - SpaceX launches next second-generation Italian COSMO-SkyMed satellite (spacenews)
