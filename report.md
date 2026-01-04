@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 5 | 14 | 28 |
+| spacenews | 2 | 5 | 15 | 29 |
 | breaking_defense | 0 | 0 | 13 | 25 |
 | nyt | 0 | 0 | 13 | 25 |
 
@@ -6446,3 +6446,4 @@
 - **Jan 04, 09:39 PM** - China hits 90 launches as Guowang deployment continues, Fengyun-4C heads to GEO (spacenews)
 - **Jan 04, 10:14 PM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
 - **Jan 04, 10:54 PM** - US-European relations will define the next year: 2026 preview (breaking_defense)
+- **Jan 04, 11:29 PM** - Space Force offers new Vandenberg launch site (spacenews)
