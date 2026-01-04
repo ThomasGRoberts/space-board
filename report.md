@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 6 | 14 | 28 |
+| spacenews | 4 | 6 | 15 | 29 |
 | breaking_defense | 0 | 1 | 11 | 24 |
 | nyt | 0 | 0 | 12 | 25 |
 
@@ -6414,3 +6414,4 @@
 - **Jan 04, 02:54 AM** - Heliophysics missions move toward operations (spacenews)
 - **Jan 04, 03:29 AM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
 - **Jan 04, 04:04 AM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
+- **Jan 04, 04:39 AM** - New Spanish communications satellite suffers ‘space particle’ impact (spacenews)
