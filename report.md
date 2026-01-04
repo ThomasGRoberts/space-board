@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 16 | 29 |
 | breaking_defense | 0 | 0 | 12 | 25 |
-| nyt | 0 | 0 | 12 | 24 |
+| nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
 
@@ -6438,3 +6438,4 @@
 - **Jan 04, 04:59 PM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
 - **Jan 04, 05:34 PM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
 - **Jan 04, 06:08 PM** - SpaceX launches next second-generation Italian COSMO-SkyMed satellite (spacenews)
+- **Jan 04, 06:44 PM** - Space Events 2026: NASA’s Artemis II Moon Mission, Summer Eclipse and More (nyt)
