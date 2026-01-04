@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 6 | 15 | 28 |
+| spacenews | 4 | 6 | 16 | 29 |
 | breaking_defense | 0 | 0 | 13 | 25 |
-| nyt | 0 | 0 | 13 | 25 |
+| nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -6440,3 +6440,4 @@
 - **Jan 04, 06:08 PM** - SpaceX launches next second-generation Italian COSMO-SkyMed satellite (spacenews)
 - **Jan 04, 06:44 PM** - Space Events 2026: NASA’s Artemis II Moon Mission, Summer Eclipse and More (nyt)
 - **Jan 04, 07:19 PM** - US-European relations will define the next year: 2026 preview (breaking_defense)
+- **Jan 04, 07:54 PM** - Terran Orbital Selected by Lockheed Martin to Provide Satellite Buses for SDA’s Tranche 3 Tracking Layer (spacenews)
