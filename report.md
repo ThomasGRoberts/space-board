@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 14 | 28 |
 | breaking_defense | 0 | 1 | 12 | 25 |
-| nyt | 0 | 0 | 11 | 24 |
+| nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -6413,3 +6413,4 @@
 - **Jan 04, 02:19 AM** - Space Events 2026: NASA’s Artemis II Moon Mission, Summer Eclipse and More (nyt)
 - **Jan 04, 02:54 AM** - Heliophysics missions move toward operations (spacenews)
 - **Jan 04, 03:29 AM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
+- **Jan 04, 04:04 AM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
