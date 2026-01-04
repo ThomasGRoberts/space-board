@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 15 | 28 |
-| breaking_defense | 0 | 0 | 12 | 25 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -6439,3 +6439,4 @@
 - **Jan 04, 05:34 PM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
 - **Jan 04, 06:08 PM** - SpaceX launches next second-generation Italian COSMO-SkyMed satellite (spacenews)
 - **Jan 04, 06:44 PM** - Space Events 2026: NASA’s Artemis II Moon Mission, Summer Eclipse and More (nyt)
+- **Jan 04, 07:19 PM** - US-European relations will define the next year: 2026 preview (breaking_defense)
