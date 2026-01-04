@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 5 | 16 | 28 |
+| spacenews | 2 | 5 | 15 | 28 |
 | breaking_defense | 0 | 0 | 13 | 25 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -6444,3 +6444,4 @@
 - **Jan 04, 08:29 PM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
 - **Jan 04, 09:04 PM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
 - **Jan 04, 09:39 PM** - China hits 90 launches as Guowang deployment continues, Fengyun-4C heads to GEO (spacenews)
+- **Jan 04, 10:14 PM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
