@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 6 | 16 | 28 |
-| breaking_defense | 0 | 0 | 12 | 25 |
+| spacenews | 4 | 6 | 15 | 28 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -6442,3 +6442,4 @@
 - **Jan 04, 07:19 PM** - US-European relations will define the next year: 2026 preview (breaking_defense)
 - **Jan 04, 07:54 PM** - Terran Orbital Selected by Lockheed Martin to Provide Satellite Buses for SDA’s Tranche 3 Tracking Layer (spacenews)
 - **Jan 04, 08:29 PM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
+- **Jan 04, 09:04 PM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
