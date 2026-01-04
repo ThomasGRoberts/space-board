@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 15 | 29 |
 | breaking_defense | 0 | 1 | 11 | 24 |
-| nyt | 0 | 0 | 11 | 24 |
+| nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -6417,3 +6417,4 @@
 - **Jan 04, 04:39 AM** - New Spanish communications satellite suffers ‘space particle’ impact (spacenews)
 - **Jan 04, 05:14 AM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
 - **Jan 04, 05:49 AM** - Space Force begins base network overhaul as cybersecurity demands grow (spacenews)
+- **Jan 04, 06:24 AM** - Space Events 2026: NASA’s Artemis II Moon Mission, Summer Eclipse and More (nyt)
