@@ -1,9 +1,47 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-01-03T00:04:24.016219+00:00",
-    "trigger_count": 1,
+    "last_run_datetime": "2026-01-04T00:04:31.602510+00:00",
+    "trigger_count": 2,
     "current_item_id": "7384ff6db4ede96dac525a00fac46d63",
     "data": [
+        {
+            "id": "f04f30d0e434ddcf91b7575fc83347d8",
+            "source": "spacenews",
+            "text": "SpaceX launches next second-generation Italian COSMO-SkyMed satellite",
+            "source_link": "https://spacenews.com/spacex-launches-next-second-generation-italian-cosmo-skymed-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-03T22:09:03.149213Z",
+            "shown_at": [
+                "2026-01-03T22:44:45.786004Z"
+            ]
+        },
+        {
+            "id": "25e379d6b7e32656062319c45933da2a",
+            "source": "spacenews",
+            "text": "New Spanish communications satellite suffers ‘space particle’ impact",
+            "source_link": "https://spacenews.com/new-spanish-communications-satellite-suffers-space-particle-impact/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-03T22:09:03.149135Z",
+            "shown_at": [
+                "2026-01-03T22:09:03.810864Z"
+            ]
+        },
+        {
+            "id": "952c0a250e665cf8a5d88a14b4ea5283",
+            "source": "spacenews",
+            "text": "Eartheye Space reveals contract with Asia-Pacific customer",
+            "source_link": "https://spacenews.com/eartheye-space-reveals-contract-with-asia-pacific-customer/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-03T04:49:06.548768Z",
+            "shown_at": [
+                "2026-01-03T04:49:07.212932Z",
+                "2026-01-03T10:09:03.846162Z",
+                "2026-01-03T11:54:04.775952Z"
+            ]
+        },
         {
             "id": "eae9c516e87a78f8a463d1cbd89a1891",
             "source": "spacenews",
@@ -11863,106 +11901,6 @@
                 "2025-07-28T16:05:47.901008Z",
                 "2025-07-29T01:09:42.865166Z",
                 "2025-07-30T17:37:52.338312Z"
-            ]
-        },
-        {
-            "id": "6e2e6ce107d37d21f113295eba996441",
-            "source": "spacenews",
-            "text": "House appropriators interested in alternatives to SLS EUS upper stage",
-            "source_link": "https://spacenews.com/house-appropriators-interested-in-alternatives-to-sls-eus-upper-stage/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-24T02:17:43.992999Z",
-            "shown_at": [
-                "2025-07-24T02:17:45.458700Z",
-                "2025-07-25T01:23:49.431928Z",
-                "2025-07-26T09:37:40.232335Z",
-                "2025-07-27T21:51:54.099341Z",
-                "2025-07-28T17:02:11.247529Z",
-                "2025-07-28T22:59:33.214620Z"
-            ]
-        },
-        {
-            "id": "30d0bf64f851455603f0862edcfbf49b",
-            "source": "spacenews",
-            "text": "Launch startup iRocket agrees to merge with Wilbur Ross-backed SPAC",
-            "source_link": "https://spacenews.com/launch-startup-irocket-agrees-to-merge-with-wilbur-ross-backed-spac/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-23T21:12:01.834743Z",
-            "shown_at": [
-                "2025-07-23T21:12:02.907455Z",
-                "2025-07-25T08:19:34.235221Z",
-                "2025-07-25T14:55:29.366634Z",
-                "2025-07-26T07:59:49.901015Z",
-                "2025-07-28T12:13:36.795111Z"
-            ]
-        },
-        {
-            "id": "ce54d65dabf8fe2fbb85cf26b50a232a",
-            "source": "breaking_defense",
-            "text": "Space Force eyes ‘novel’ development tools for Golden Dome space-based interceptors",
-            "source_link": "https://breakingdefense.com/2025/07/space-force-eyes-novel-development-tools-for-golden-dome-sbis/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-23T20:43:42.367127Z",
-            "shown_at": [
-                "2025-07-23T20:43:43.058026Z",
-                "2025-07-24T04:39:49.353887Z",
-                "2025-07-24T11:33:51.787627Z",
-                "2025-07-24T12:29:47.424543Z",
-                "2025-07-24T15:53:52.649917Z",
-                "2025-07-24T21:19:32.175686Z",
-                "2025-07-25T19:59:45.404703Z",
-                "2025-07-26T00:49:58.397314Z",
-                "2025-07-26T05:23:46.331737Z",
-                "2025-07-26T12:43:41.587312Z",
-                "2025-07-27T07:51:41.143691Z",
-                "2025-07-27T09:59:34.441465Z",
-                "2025-07-27T13:29:34.857837Z",
-                "2025-07-27T21:07:39.096560Z",
-                "2025-07-28T12:42:04.618441Z",
-                "2025-07-29T10:29:50.126300Z",
-                "2025-07-29T17:45:44.638871Z",
-                "2025-07-30T15:23:30.870363Z"
-            ]
-        },
-        {
-            "id": "952c0a250e665cf8a5d88a14b4ea5283",
-            "source": "spacenews",
-            "text": "Eartheye Space reveals contract with Asia-Pacific customer",
-            "source_link": "https://spacenews.com/eartheye-space-reveals-contract-with-asia-pacific-customer/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-03T04:49:06.548768Z",
-            "shown_at": [
-                "2026-01-03T04:49:07.212932Z",
-                "2026-01-03T10:09:03.846162Z",
-                "2026-01-03T11:54:04.775952Z"
-            ]
-        },
-        {
-            "id": "25e379d6b7e32656062319c45933da2a",
-            "source": "spacenews",
-            "text": "New Spanish communications satellite suffers ‘space particle’ impact",
-            "source_link": "https://spacenews.com/new-spanish-communications-satellite-suffers-space-particle-impact/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-03T22:09:03.149135Z",
-            "shown_at": [
-                "2026-01-03T22:09:03.810864Z"
-            ]
-        },
-        {
-            "id": "f04f30d0e434ddcf91b7575fc83347d8",
-            "source": "spacenews",
-            "text": "SpaceX launches next second-generation Italian COSMO-SkyMed satellite",
-            "source_link": "https://spacenews.com/spacex-launches-next-second-generation-italian-cosmo-skymed-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-03T22:09:03.149213Z",
-            "shown_at": [
-                "2026-01-03T22:44:45.786004Z"
             ]
         }
     ]
