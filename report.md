@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 14 | 28 |
-| breaking_defense | 0 | 1 | 11 | 24 |
+| breaking_defense | 0 | 1 | 12 | 25 |
 | nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
@@ -6409,3 +6409,4 @@
 - **Jan 03, 11:54 PM** - Space Events 2026: NASA’s Artemis II Moon Mission, Summer Eclipse and More (nyt)
 - **Jan 04, 12:29 AM** - New Spanish communications satellite suffers ‘space particle’ impact (spacenews)
 - **Jan 04, 01:09 AM** - SpaceX, China drive new record for orbital launches in 2025 (spacenews)
+- **Jan 04, 01:44 AM** - US-European relations will define the next year: 2026 preview (breaking_defense)
