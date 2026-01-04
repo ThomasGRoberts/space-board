@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 14 | 29 |
-| breaking_defense | 0 | 1 | 11 | 24 |
+| breaking_defense | 0 | 1 | 12 | 25 |
 | nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
@@ -6430,3 +6430,4 @@
 - **Jan 04, 12:14 PM** - US-European relations will define the next year: 2026 preview (breaking_defense)
 - **Jan 04, 12:49 PM** - Eartheye Space reveals contract with Asia-Pacific customer (spacenews)
 - **Jan 04, 01:23 PM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
+- **Jan 04, 01:59 PM** - US-European relations will define the next year: 2026 preview (breaking_defense)
