@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-05T00:04:28.814084+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5c6c33d10ac72e5cfc16ff267b90ba35",
+    "trigger_count": 0,
+    "current_item_id": "50050b83310a76d94c7df3c95b56a8fa",
     "data": [
         {
             "id": "df1fb964e857f85b03823c95e3fb6b18",
@@ -11985,6 +11985,18 @@
             "fetched_datetime": "2026-01-05T13:59:22.970246Z",
             "shown_at": [
                 "2026-01-05T14:34:28.118323Z"
+            ]
+        },
+        {
+            "id": "50050b83310a76d94c7df3c95b56a8fa",
+            "source": "spacenews",
+            "text": "No more free rides: it’s time to pay for space safety",
+            "source_link": "https://spacenews.com/no-more-free-rides-its-time-to-pay-for-space-safety/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-05T15:08:57.711899Z",
+            "shown_at": [
+                "2026-01-05T15:08:58.364107Z"
             ]
         }
     ]
