@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 4 | 13 | 27 |
+| spacenews | 0 | 4 | 14 | 28 |
 | breaking_defense | 0 | 0 | 14 | 25 |
 | nyt | 0 | 0 | 13 | 25 |
 
@@ -6448,3 +6448,4 @@
 - **Jan 05, 04:54 AM** - Space Forge generates plasma for LEO semiconductor material production (spacenews)
 - **Jan 05, 05:29 AM** - Space Events 2026: NASA’s Artemis II Moon Mission, Summer Eclipse and More (nyt)
 - **Jan 05, 06:05 AM** - US-European relations will define the next year: 2026 preview (breaking_defense)
+- **Jan 05, 06:44 AM** - New Spanish communications satellite suffers ‘space particle’ impact (spacenews)
