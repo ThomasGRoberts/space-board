@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-05T00:04:28.814084+00:00",
-    "trigger_count": 6,
-    "current_item_id": "efead351ef93d26af40e82e046ea9557",
+    "trigger_count": 0,
+    "current_item_id": "a9424266043a86fea35833a639459b79",
     "data": [
         {
             "id": "df1fb964e857f85b03823c95e3fb6b18",
@@ -12013,6 +12013,27 @@
             "shown_at": [
                 "2026-01-05T15:44:16.482896Z"
             ]
+        },
+        {
+            "id": "a9424266043a86fea35833a639459b79",
+            "source": "spacenews",
+            "text": "Minibus provides $24.4 billion for NASA for fiscal year 2026",
+            "source_link": "https://spacenews.com/minibus-provides-24-4-billion-for-nasa-for-fiscal-year-2026/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-05T18:05:14.594923Z",
+            "shown_at": [
+                "2026-01-05T18:05:15.395532Z"
+            ]
+        },
+        {
+            "id": "ed07231f2ef3d80b7dadefad7d5ae58e",
+            "source": "spacenews",
+            "text": "ARCHE ORBITAL SYSTEMS Signs Strategic MoU with MSRO to Advance National Space Capabilities for the Maldives",
+            "source_link": "https://spacenews.com/arche-orbital-systems-signs-strategic-mou-with-msro-to-advance-national-space-capabilities-for-the-maldives/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-01-05T18:05:14.594976Z"
         }
     ]
 }

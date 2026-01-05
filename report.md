@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 7 | 14 | 29 |
+| spacenews | 5 | 9 | 15 | 30 |
 | breaking_defense | 2 | 2 | 12 | 25 |
 | nyt | 0 | 0 | 10 | 22 |
 
@@ -6463,3 +6463,4 @@
 - **Jan 05, 04:19 PM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
 - **Jan 05, 04:54 PM** - Heliophysics missions move toward operations (spacenews)
 - **Jan 05, 05:29 PM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
+- **Jan 05, 06:05 PM** - Minibus provides $24.4 billion for NASA for fiscal year 2026 (spacenews)
