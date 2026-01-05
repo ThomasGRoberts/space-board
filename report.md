@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 4 | 14 | 28 |
 | breaking_defense | 0 | 0 | 13 | 25 |
-| nyt | 0 | 0 | 13 | 24 |
+| nyt | 0 | 0 | 14 | 25 |
 
 # Shown Order
 
@@ -6446,3 +6446,4 @@
 - **Jan 05, 03:39 AM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
 - **Jan 05, 04:19 AM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
 - **Jan 05, 04:54 AM** - Space Forge generates plasma for LEO semiconductor material production (spacenews)
+- **Jan 05, 05:29 AM** - Space Events 2026: NASA’s Artemis II Moon Mission, Summer Eclipse and More (nyt)
