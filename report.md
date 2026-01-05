@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 4 | 12 | 26 |
-| breaking_defense | 1 | 1 | 13 | 24 |
+| spacenews | 2 | 6 | 13 | 27 |
+| breaking_defense | 1 | 1 | 12 | 24 |
 | nyt | 0 | 0 | 11 | 23 |
 
 # Shown Order
@@ -6456,3 +6456,4 @@
 - **Jan 05, 09:49 AM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
 - **Jan 05, 10:24 AM** - Space Forge generates plasma for LEO semiconductor material production (spacenews)
 - **Jan 05, 11:00 AM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
+- **Jan 05, 01:59 PM** - China’s astronauts complete cave training amid preparations for moon missions (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-05T00:04:28.814084+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7384ff6db4ede96dac525a00fac46d63",
+    "trigger_count": 0,
+    "current_item_id": "2feacb5a5507ea9d8e4cf4a995b1eaad",
     "data": [
         {
             "id": "df1fb964e857f85b03823c95e3fb6b18",
@@ -11962,6 +11962,27 @@
             "shown_at": [
                 "2026-01-05T09:14:38.882441Z"
             ]
+        },
+        {
+            "id": "2feacb5a5507ea9d8e4cf4a995b1eaad",
+            "source": "spacenews",
+            "text": "China’s astronauts complete cave training amid preparations for moon missions",
+            "source_link": "https://spacenews.com/chinas-astronauts-complete-cave-training-amid-preparations-for-moon-missions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-05T13:59:22.970189Z",
+            "shown_at": [
+                "2026-01-05T13:59:23.961654Z"
+            ]
+        },
+        {
+            "id": "5c6c33d10ac72e5cfc16ff267b90ba35",
+            "source": "spacenews",
+            "text": "L3Harris to sell majority stake in space propulsion unit to AE Industrial",
+            "source_link": "https://spacenews.com/l3harris-to-sell-majority-stake-in-space-propulsion-unit-to-ae-industrial-for-845-million/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-01-05T13:59:22.970246Z"
         }
     ]
 }
