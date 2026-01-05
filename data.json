@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-05T00:04:28.814084+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a9424266043a86fea35833a639459b79",
+    "trigger_count": 0,
+    "current_item_id": "1015c59b68cd81eca1fac22e2a7801ae",
     "data": [
         {
             "id": "df1fb964e857f85b03823c95e3fb6b18",
@@ -12034,6 +12034,15 @@
             "shown": false,
             "type": "news",
             "fetched_datetime": "2026-01-05T18:05:14.594976Z"
+        },
+        {
+            "id": "1015c59b68cd81eca1fac22e2a7801ae",
+            "source": "breaking_defense",
+            "text": "Grok for DoD and subs for North Korea: What you missed in defense over the break",
+            "source_link": "https://breakingdefense.com/2026/01/grok-for-dod-and-subs-for-north-korea-what-you-missed-in-defense-over-the-break/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-01-05T18:44:04.264334Z"
         }
     ]
 }
