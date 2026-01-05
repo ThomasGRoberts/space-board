@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-05T00:04:28.814084+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a8706baf7435c9590f3542dfcd3c1fca",
+    "trigger_count": 0,
+    "current_item_id": "974267a0d87a1ade1f90e6db3ff4d518",
     "data": [
         {
             "id": "df1fb964e857f85b03823c95e3fb6b18",
@@ -11946,6 +11946,18 @@
                 "2025-07-26T05:09:38.993928Z",
                 "2025-07-27T03:19:10.843054Z",
                 "2025-07-30T12:03:58.545530Z"
+            ]
+        },
+        {
+            "id": "974267a0d87a1ade1f90e6db3ff4d518",
+            "source": "breaking_defense",
+            "text": "The year that was and the year that will be, according to our reporters",
+            "source_link": "https://breakingdefense.com/2026/01/the-year-that-was-and-the-year-that-will-be-according-to-our-reporters/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-05T09:14:38.153568Z",
+            "shown_at": [
+                "2026-01-05T09:14:38.882441Z"
             ]
         }
     ]

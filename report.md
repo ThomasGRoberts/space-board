@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 4 | 14 | 28 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| breaking_defense | 1 | 1 | 14 | 26 |
 | nyt | 0 | 0 | 13 | 24 |
 
 # Shown Order
@@ -6452,3 +6452,4 @@
 - **Jan 05, 07:19 AM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
 - **Jan 05, 07:54 AM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
 - **Jan 05, 08:34 AM** - ESA confirms data breach (spacenews)
+- **Jan 05, 09:14 AM** - The year that was and the year that will be, according to our reporters (breaking_defense)
