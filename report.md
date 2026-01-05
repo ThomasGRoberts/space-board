@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 6 | 13 | 27 |
+| spacenews | 2 | 6 | 14 | 28 |
 | breaking_defense | 1 | 1 | 12 | 24 |
 | nyt | 0 | 0 | 11 | 22 |
 
@@ -6457,3 +6457,4 @@
 - **Jan 05, 10:24 AM** - Space Forge generates plasma for LEO semiconductor material production (spacenews)
 - **Jan 05, 11:00 AM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
 - **Jan 05, 01:59 PM** - China’s astronauts complete cave training amid preparations for moon missions (spacenews)
+- **Jan 05, 02:34 PM** - L3Harris to sell majority stake in space propulsion unit to AE Industrial (spacenews)
