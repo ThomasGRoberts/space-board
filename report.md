@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 4 | 13 | 27 |
+| spacenews | 0 | 4 | 14 | 28 |
 | breaking_defense | 1 | 1 | 14 | 25 |
 | nyt | 0 | 0 | 13 | 25 |
 
@@ -6454,3 +6454,4 @@
 - **Jan 05, 08:34 AM** - ESA confirms data breach (spacenews)
 - **Jan 05, 09:14 AM** - The year that was and the year that will be, according to our reporters (breaking_defense)
 - **Jan 05, 09:49 AM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
+- **Jan 05, 10:24 AM** - Space Forge generates plasma for LEO semiconductor material production (spacenews)
