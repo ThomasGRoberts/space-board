@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 7 | 13 | 28 |
+| spacenews | 3 | 7 | 14 | 29 |
 | breaking_defense | 2 | 2 | 12 | 24 |
 | nyt | 0 | 0 | 11 | 23 |
 
@@ -6461,3 +6461,4 @@
 - **Jan 05, 03:08 PM** - No more free rides: it’s time to pay for space safety (spacenews)
 - **Jan 05, 03:44 PM** - Service acquisition leaders: Why this time will be different for defense acquisition (breaking_defense)
 - **Jan 05, 04:19 PM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
+- **Jan 05, 04:54 PM** - Heliophysics missions move toward operations (spacenews)
