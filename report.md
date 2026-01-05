@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 14 | 28 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 | nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -6438,3 +6438,4 @@
 - **Jan 04, 10:54 PM** - US-European relations will define the next year: 2026 preview (breaking_defense)
 - **Jan 04, 11:29 PM** - Space Force offers new Vandenberg launch site (spacenews)
 - **Jan 05, 12:04 AM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
+- **Jan 05, 12:39 AM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
