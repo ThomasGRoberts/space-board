@@ -1,9 +1,33 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-01-04T00:04:31.602510+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ea592fcc18316915e0fd83eb7edf5ac8",
+    "last_run_datetime": "2026-01-05T00:04:28.814084+00:00",
+    "trigger_count": 0,
+    "current_item_id": "6512fcf1c990076a5108036ccf27524c",
     "data": [
+        {
+            "id": "df1fb964e857f85b03823c95e3fb6b18",
+            "source": "spacenews",
+            "text": "Space Force begins base network overhaul as cybersecurity demands grow",
+            "source_link": "https://spacenews.com/space-force-begins-base-network-overhaul-as-cybersecurity-demands-grow/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-04T05:49:04.069917Z",
+            "shown_at": [
+                "2026-01-04T05:49:04.597491Z"
+            ]
+        },
+        {
+            "id": "49e7cd471b14efa5503e8a096d24d7d0",
+            "source": "spacenews",
+            "text": "SpaceX, China drive new record for orbital launches in 2025",
+            "source_link": "https://spacenews.com/spacex-china-drive-new-record-for-orbital-launches-in-2025/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-04T01:09:15.184344Z",
+            "shown_at": [
+                "2026-01-04T01:09:15.863849Z"
+            ]
+        },
         {
             "id": "f04f30d0e434ddcf91b7575fc83347d8",
             "source": "spacenews",
@@ -118,7 +142,8 @@
                 "2026-01-04T13:23:59.410817Z",
                 "2026-01-04T16:59:04.225021Z",
                 "2026-01-04T20:29:13.376899Z",
-                "2026-01-04T22:14:34.834840Z"
+                "2026-01-04T22:14:34.834840Z",
+                "2026-01-05T00:04:34.437545Z"
             ]
         },
         {
@@ -11907,62 +11932,6 @@
                 "2025-07-26T05:09:38.993928Z",
                 "2025-07-27T03:19:10.843054Z",
                 "2025-07-30T12:03:58.545530Z"
-            ]
-        },
-        {
-            "id": "16f127bc606953c576adace9a96b1979",
-            "source": "spacenews",
-            "text": "Falcon 9 launches NASA TRACERS space science mission",
-            "source_link": "https://spacenews.com/falcon-9-launches-nasa-tracers-space-science-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-24T12:02:03.615477Z",
-            "shown_at": [
-                "2025-07-24T12:02:04.177669Z",
-                "2025-07-24T16:25:57.369258Z",
-                "2025-07-26T06:05:42.276484Z"
-            ]
-        },
-        {
-            "id": "be66261ac6e16153a5b9a2b30e8d18c1",
-            "source": "spacenews",
-            "text": "Space Pioneer completes launch pad for Tianlong-3 rocket",
-            "source_link": "https://spacenews.com/space-pioneer-completes-launch-pad-for-tianlong-3-rocket/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-24T11:19:41.812329Z",
-            "shown_at": [
-                "2025-07-24T11:19:42.430670Z",
-                "2025-07-25T03:17:13.914104Z",
-                "2025-07-25T12:41:13.231569Z",
-                "2025-07-25T18:50:03.374770Z",
-                "2025-07-28T16:05:47.901008Z",
-                "2025-07-29T01:09:42.865166Z",
-                "2025-07-30T17:37:52.338312Z"
-            ]
-        },
-        {
-            "id": "49e7cd471b14efa5503e8a096d24d7d0",
-            "source": "spacenews",
-            "text": "SpaceX, China drive new record for orbital launches in 2025",
-            "source_link": "https://spacenews.com/spacex-china-drive-new-record-for-orbital-launches-in-2025/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-04T01:09:15.184344Z",
-            "shown_at": [
-                "2026-01-04T01:09:15.863849Z"
-            ]
-        },
-        {
-            "id": "df1fb964e857f85b03823c95e3fb6b18",
-            "source": "spacenews",
-            "text": "Space Force begins base network overhaul as cybersecurity demands grow",
-            "source_link": "https://spacenews.com/space-force-begins-base-network-overhaul-as-cybersecurity-demands-grow/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-04T05:49:04.069917Z",
-            "shown_at": [
-                "2026-01-04T05:49:04.597491Z"
             ]
         }
     ]

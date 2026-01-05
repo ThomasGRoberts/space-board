@@ -4,15 +4,12 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 15 | 28 |
 | breaking_defense | 0 | 0 | 13 | 25 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
-- **Jul 24, 11:19 AM** - Space Pioneer completes launch pad for Tianlong-3 rocket (spacenews)
-- **Jul 24, 12:02 PM** - Falcon 9 launches NASA TRACERS space science mission (spacenews)
 - **Jul 24, 03:11 PM** - Lockheed Martin may offer Orion as a commercial service (spacenews)
 - **Jul 24, 03:25 PM** - Tyvak International, a Terran Orbital Company, Leads Groundbreaking 5G Satellite Demonstration Mission for ESA (spacenews)
-- **Jul 24, 04:25 PM** - Falcon 9 launches NASA TRACERS space science mission (spacenews)
 - **Jul 24, 05:49 PM** - Space Force creates new ‘System Deltas’ to guide missile warning, space-based targeting efforts (breaking_defense)
 - **Jul 24, 06:17 PM** - Senate confirms Lohmeier as Air Force No. 2 civilian (breaking_defense)
 - **Jul 24, 06:45 PM** - Spire Global launches new space-based intelligence products for defense market (spacenews)
@@ -24,7 +21,6 @@
 - **Jul 25, 12:39 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 25, 02:33 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 25, 03:02 AM** - Senate confirms Lohmeier as Air Force No. 2 civilian (breaking_defense)
-- **Jul 25, 03:17 AM** - Space Pioneer completes launch pad for Tianlong-3 rocket (spacenews)
 - **Jul 25, 03:33 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 25, 05:27 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 25, 07:37 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
@@ -34,7 +30,6 @@
 - **Jul 25, 11:29 AM** - Industry warns of severe consequences from ISS funding cuts (spacenews)
 - **Jul 25, 11:45 AM** - Senegal signs the Artemis Accords (spacenews)
 - **Jul 25, 12:13 PM** - Appropriators restore funding for Commerce’s TraCSS spacewatch effort (breaking_defense)
-- **Jul 25, 12:41 PM** - Space Pioneer completes launch pad for Tianlong-3 rocket (spacenews)
 - **Jul 25, 01:09 PM** - Space Force creates new ‘System Deltas’ to guide missile warning, space-based targeting efforts (breaking_defense)
 - **Jul 25, 01:41 PM** - Senegal signs the Artemis Accords (spacenews)
 - **Jul 25, 01:55 PM** - Blue Origin to fly first Blue Ring spacecraft in spring 2026 (spacenews)
@@ -45,7 +40,6 @@
 - **Jul 25, 04:09 PM** - Space Force creates new ‘System Deltas’ to guide missile warning, space-based targeting efforts (breaking_defense)
 - **Jul 25, 06:05 PM** - Senate confirms Lohmeier as Air Force No. 2 civilian (breaking_defense)
 - **Jul 25, 06:19 PM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
-- **Jul 25, 06:50 PM** - Space Pioneer completes launch pad for Tianlong-3 rocket (spacenews)
 - **Jul 25, 07:03 PM** - Appropriators restore funding for Commerce’s TraCSS spacewatch effort (breaking_defense)
 - **Jul 25, 07:18 PM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 25, 07:45 PM** - UK’s Spaceflux is building a catalog to plug space situational awareness gaps (spacenews)
@@ -61,7 +55,6 @@
 - **Jul 26, 01:05 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 26, 05:09 AM** - Lockheed Martin may offer Orion as a commercial service (spacenews)
 - **Jul 26, 05:37 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
-- **Jul 26, 06:05 AM** - Falcon 9 launches NASA TRACERS space science mission (spacenews)
 - **Jul 26, 06:19 AM** - Space Force creates new ‘System Deltas’ to guide missile warning, space-based targeting efforts (breaking_defense)
 - **Jul 26, 08:13 AM** - Appropriators restore funding for Commerce’s TraCSS spacewatch effort (breaking_defense)
 - **Jul 26, 09:51 AM** - Appropriators restore funding for Commerce’s TraCSS spacewatch effort (breaking_defense)
@@ -126,7 +119,6 @@
 - **Jul 28, 02:35 PM** - Appropriators restore funding for Commerce’s TraCSS spacewatch effort (breaking_defense)
 - **Jul 28, 03:05 PM** - Sleepwalking into risk: managing traffic above 60,000 feet (spacenews)
 - **Jul 28, 03:19 PM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
-- **Jul 28, 04:05 PM** - Space Pioneer completes launch pad for Tianlong-3 rocket (spacenews)
 - **Jul 28, 04:19 PM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 28, 05:31 PM** - Roketsan signs agreement with Indonesia, unveils five missiles and space launch vehicle designs (breaking_defense)
 - **Jul 28, 05:45 PM** - U.S. military X-37B spaceplane prepares for eighth mission  (spacenews)
@@ -142,7 +134,6 @@
 - **Jul 28, 11:13 PM** - SmallSat heads to Salt Lake City as audience expands (spacenews)
 - **Jul 29, 12:09 AM** - SmallSat heads to Salt Lake City as audience expands (spacenews)
 - **Jul 29, 12:25 AM** - Next X-37B mission to carry quantum sensor, laser link experiments (breaking_defense)
-- **Jul 29, 01:09 AM** - Space Pioneer completes launch pad for Tianlong-3 rocket (spacenews)
 - **Jul 29, 01:26 AM** - Appropriators restore funding for Commerce’s TraCSS spacewatch effort (breaking_defense)
 - **Jul 29, 01:57 AM** - Hints of Life on Exoplanet K2-18b Recede Even Further (nyt)
 - **Jul 29, 02:27 AM** - Senate confirms Lohmeier as Air Force No. 2 civilian (breaking_defense)
@@ -229,7 +220,6 @@
 - **Jul 30, 04:21 PM** - UK’s Spaceflux is building a catalog to plug space situational awareness gaps (spacenews)
 - **Jul 30, 04:53 PM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
 - **Jul 30, 05:09 PM** - It’s more than fuel: Why the Space Force needs in-space servicing, assembly, and manufacturing (breaking_defense)
-- **Jul 30, 05:37 PM** - Space Pioneer completes launch pad for Tianlong-3 rocket (spacenews)
 - **Jul 30, 05:53 PM** - How to Watch Twin Meteor Showers Peak on the Same Night (nyt)
 - **Jul 30, 06:07 PM** - Space Force creates new ‘System Deltas’ to guide missile warning, space-based targeting efforts (breaking_defense)
 - **Jul 30, 06:35 PM** - Space – the quiet element behind Midnight Hammer (spacenews)
@@ -6447,3 +6437,4 @@
 - **Jan 04, 10:14 PM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
 - **Jan 04, 10:54 PM** - US-European relations will define the next year: 2026 preview (breaking_defense)
 - **Jan 04, 11:29 PM** - Space Force offers new Vandenberg launch site (spacenews)
+- **Jan 05, 12:04 AM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
