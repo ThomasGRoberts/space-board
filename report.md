@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 4 | 13 | 28 |
-| breaking_defense | 0 | 0 | 13 | 24 |
+| breaking_defense | 0 | 0 | 14 | 25 |
 | nyt | 0 | 0 | 14 | 25 |
 
 # Shown Order
@@ -6450,3 +6450,4 @@
 - **Jan 05, 06:05 AM** - US-European relations will define the next year: 2026 preview (breaking_defense)
 - **Jan 05, 06:44 AM** - New Spanish communications satellite suffers ‘space particle’ impact (spacenews)
 - **Jan 05, 07:19 AM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
+- **Jan 05, 07:54 AM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
