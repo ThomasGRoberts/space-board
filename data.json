@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-05T00:04:28.814084+00:00",
-    "trigger_count": 6,
-    "current_item_id": "50050b83310a76d94c7df3c95b56a8fa",
+    "trigger_count": 0,
+    "current_item_id": "9bd70400a6604394d266ee4c1a9988d1",
     "data": [
         {
             "id": "df1fb964e857f85b03823c95e3fb6b18",
@@ -11997,6 +11997,18 @@
             "fetched_datetime": "2026-01-05T15:08:57.711899Z",
             "shown_at": [
                 "2026-01-05T15:08:58.364107Z"
+            ]
+        },
+        {
+            "id": "9bd70400a6604394d266ee4c1a9988d1",
+            "source": "breaking_defense",
+            "text": "Service acquisition leaders: Why this time will be different for defense acquisition",
+            "source_link": "https://breakingdefense.com/2026/01/defense-acquisition-reform-dale-white-robert-collins-army-seiko-okano-navy-stephen-purdy-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-05T15:44:15.836711Z",
+            "shown_at": [
+                "2026-01-05T15:44:16.482896Z"
             ]
         }
     ]

@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 7 | 14 | 29 |
-| breaking_defense | 1 | 1 | 12 | 23 |
+| breaking_defense | 2 | 2 | 13 | 24 |
 | nyt | 0 | 0 | 10 | 22 |
 
 # Shown Order
@@ -6459,3 +6459,4 @@
 - **Jan 05, 01:59 PM** - China’s astronauts complete cave training amid preparations for moon missions (spacenews)
 - **Jan 05, 02:34 PM** - L3Harris to sell majority stake in space propulsion unit to AE Industrial (spacenews)
 - **Jan 05, 03:08 PM** - No more free rides: it’s time to pay for space safety (spacenews)
+- **Jan 05, 03:44 PM** - Service acquisition leaders: Why this time will be different for defense acquisition (breaking_defense)
