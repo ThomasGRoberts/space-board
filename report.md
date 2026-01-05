@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 4 | 13 | 28 |
-| breaking_defense | 0 | 0 | 13 | 24 |
+| breaking_defense | 0 | 0 | 14 | 25 |
 | nyt | 0 | 0 | 14 | 25 |
 
 # Shown Order
@@ -6447,3 +6447,4 @@
 - **Jan 05, 04:19 AM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
 - **Jan 05, 04:54 AM** - Space Forge generates plasma for LEO semiconductor material production (spacenews)
 - **Jan 05, 05:29 AM** - Space Events 2026: NASA’s Artemis II Moon Mission, Summer Eclipse and More (nyt)
+- **Jan 05, 06:05 AM** - US-European relations will define the next year: 2026 preview (breaking_defense)
