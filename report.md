@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 4 | 9 | 22 |
 | spacenews | 6 | 6 | 12 | 24 |
-| nyt | 0 | 0 | 6 | 17 |
+| nyt | 0 | 0 | 7 | 18 |
 
 # Shown Order
 
@@ -6385,3 +6385,4 @@
 - **Jan 06, 12:06 PM** - Landspace targets $1 billion for reusable rockets as IPO application accepted (spacenews)
 - **Jan 06, 12:44 PM** - Grok for DoD and subs for North Korea: What you missed in defense over the break (breaking_defense)
 - **Jan 06, 01:19 PM** - Is the race for moon missions lunacy? (spacenews)
+- **Jan 06, 01:54 PM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
