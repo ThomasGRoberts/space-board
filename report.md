@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 3 | 4 | 9 | 21 |
+| breaking_defense | 3 | 4 | 10 | 22 |
 | spacenews | 4 | 6 | 11 | 24 |
 | nyt | 0 | 0 | 7 | 18 |
 
@@ -6386,3 +6386,4 @@
 - **Jan 06, 12:44 PM** - Grok for DoD and subs for North Korea: What you missed in defense over the break (breaking_defense)
 - **Jan 06, 01:19 PM** - Is the race for moon missions lunacy? (spacenews)
 - **Jan 06, 01:54 PM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
+- **Jan 06, 02:29 PM** - Service acquisition leaders: Why this time will be different for defense acquisition (breaking_defense)
