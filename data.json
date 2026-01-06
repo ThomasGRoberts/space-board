@@ -1,9 +1,99 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-01-05T00:04:28.814084+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2026-01-06T00:04:26.241571+00:00",
+    "trigger_count": 6,
     "current_item_id": "1015c59b68cd81eca1fac22e2a7801ae",
     "data": [
+        {
+            "id": "1015c59b68cd81eca1fac22e2a7801ae",
+            "source": "breaking_defense",
+            "text": "Grok for DoD and subs for North Korea: What you missed in defense over the break",
+            "source_link": "https://breakingdefense.com/2026/01/grok-for-dod-and-subs-for-north-korea-what-you-missed-in-defense-over-the-break/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-01-05T18:44:04.264334Z"
+        },
+        {
+            "id": "ed07231f2ef3d80b7dadefad7d5ae58e",
+            "source": "spacenews",
+            "text": "ARCHE ORBITAL SYSTEMS Signs Strategic MoU with MSRO to Advance National Space Capabilities for the Maldives",
+            "source_link": "https://spacenews.com/arche-orbital-systems-signs-strategic-mou-with-msro-to-advance-national-space-capabilities-for-the-maldives/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-01-05T18:05:14.594976Z"
+        },
+        {
+            "id": "a9424266043a86fea35833a639459b79",
+            "source": "spacenews",
+            "text": "Minibus provides $24.4 billion for NASA for fiscal year 2026",
+            "source_link": "https://spacenews.com/minibus-provides-24-4-billion-for-nasa-for-fiscal-year-2026/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-05T18:05:14.594923Z",
+            "shown_at": [
+                "2026-01-05T18:05:15.395532Z"
+            ]
+        },
+        {
+            "id": "9bd70400a6604394d266ee4c1a9988d1",
+            "source": "breaking_defense",
+            "text": "Service acquisition leaders: Why this time will be different for defense acquisition",
+            "source_link": "https://breakingdefense.com/2026/01/defense-acquisition-reform-dale-white-robert-collins-army-seiko-okano-navy-stephen-purdy-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-05T15:44:15.836711Z",
+            "shown_at": [
+                "2026-01-05T15:44:16.482896Z"
+            ]
+        },
+        {
+            "id": "50050b83310a76d94c7df3c95b56a8fa",
+            "source": "spacenews",
+            "text": "No more free rides: it’s time to pay for space safety",
+            "source_link": "https://spacenews.com/no-more-free-rides-its-time-to-pay-for-space-safety/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-05T15:08:57.711899Z",
+            "shown_at": [
+                "2026-01-05T15:08:58.364107Z"
+            ]
+        },
+        {
+            "id": "5c6c33d10ac72e5cfc16ff267b90ba35",
+            "source": "spacenews",
+            "text": "L3Harris to sell majority stake in space propulsion unit to AE Industrial",
+            "source_link": "https://spacenews.com/l3harris-to-sell-majority-stake-in-space-propulsion-unit-to-ae-industrial-for-845-million/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-05T13:59:22.970246Z",
+            "shown_at": [
+                "2026-01-05T14:34:28.118323Z"
+            ]
+        },
+        {
+            "id": "2feacb5a5507ea9d8e4cf4a995b1eaad",
+            "source": "spacenews",
+            "text": "China’s astronauts complete cave training amid preparations for moon missions",
+            "source_link": "https://spacenews.com/chinas-astronauts-complete-cave-training-amid-preparations-for-moon-missions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-05T13:59:22.970189Z",
+            "shown_at": [
+                "2026-01-05T13:59:23.961654Z"
+            ]
+        },
+        {
+            "id": "974267a0d87a1ade1f90e6db3ff4d518",
+            "source": "breaking_defense",
+            "text": "The year that was and the year that will be, according to our reporters",
+            "source_link": "https://breakingdefense.com/2026/01/the-year-that-was-and-the-year-that-will-be-according-to-our-reporters/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-05T09:14:38.153568Z",
+            "shown_at": [
+                "2026-01-05T09:14:38.882441Z"
+            ]
+        },
         {
             "id": "df1fb964e857f85b03823c95e3fb6b18",
             "source": "spacenews",
@@ -11767,282 +11857,6 @@
                 "2025-07-27T12:19:42.197745Z",
                 "2025-07-28T09:31:56.076690Z"
             ]
-        },
-        {
-            "id": "52d9ef65caa675f7397f13756d73f6a5",
-            "source": "spacenews",
-            "text": "Industry warns of severe consequences from ISS funding cuts",
-            "source_link": "https://spacenews.com/industry-warns-of-severe-consequences-from-iss-funding-cuts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-25T11:29:51.306299Z",
-            "shown_at": [
-                "2025-07-25T11:29:53.023271Z",
-                "2025-07-25T21:42:17.749548Z",
-                "2025-07-25T23:37:42.205747Z",
-                "2025-07-26T19:01:58.314208Z",
-                "2025-07-29T03:09:41.858670Z"
-            ]
-        },
-        {
-            "id": "9b6b9a31a9df57999108f630bdfe0cdb",
-            "source": "spacenews",
-            "text": "UK’s Spaceflux is building a catalog to plug space situational awareness gaps",
-            "source_link": "https://spacenews.com/uks-spaceflux-is-building-a-catalog-to-plug-space-situational-awareness-gaps/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-24T19:41:24.321316Z",
-            "shown_at": [
-                "2025-07-24T19:41:24.941446Z",
-                "2025-07-24T21:33:23.242975Z",
-                "2025-07-25T10:17:41.947811Z",
-                "2025-07-25T15:51:56.833432Z",
-                "2025-07-25T19:45:47.288274Z",
-                "2025-07-26T13:25:35.119882Z",
-                "2025-07-30T16:21:57.661035Z"
-            ]
-        },
-        {
-            "id": "8bdff672751142344d6bc64b26721cdc",
-            "source": "nyt",
-            "text": "Hints of Life on Exoplanet K2-18b Recede Even Further",
-            "source_link": "https://www.nytimes.com/2025/07/24/science/astronomy-k218b-biosignature-life.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-24T18:59:47.229641Z",
-            "shown_at": [
-                "2025-07-24T18:59:48.272354Z",
-                "2025-07-25T00:39:38.887982Z",
-                "2025-07-25T02:33:16.861190Z",
-                "2025-07-25T03:33:48.089604Z",
-                "2025-07-25T05:27:14.656572Z",
-                "2025-07-25T07:37:45.431386Z",
-                "2025-07-25T14:25:34.080604Z",
-                "2025-07-25T18:19:42.181613Z",
-                "2025-07-25T19:18:00.482660Z",
-                "2025-07-25T20:13:45.469759Z",
-                "2025-07-25T21:13:56.989120Z",
-                "2025-07-25T23:07:50.880485Z",
-                "2025-07-26T01:05:45.120698Z",
-                "2025-07-26T05:37:42.118145Z",
-                "2025-07-26T10:05:38.165139Z",
-                "2025-07-26T12:57:39.479669Z",
-                "2025-07-26T14:49:33.865967Z",
-                "2025-07-26T15:45:51.034806Z",
-                "2025-07-27T05:31:49.602722Z",
-                "2025-07-27T06:27:52.604982Z",
-                "2025-07-27T08:19:50.457284Z",
-                "2025-07-27T15:49:39.509320Z",
-                "2025-07-28T00:33:50.193535Z",
-                "2025-07-28T02:27:44.611961Z",
-                "2025-07-28T03:25:22.623801Z",
-                "2025-07-28T10:15:38.174279Z",
-                "2025-07-28T13:25:44.285904Z",
-                "2025-07-28T15:19:57.477228Z",
-                "2025-07-28T16:19:42.367963Z",
-                "2025-07-28T18:29:55.364030Z",
-                "2025-07-29T01:57:55.761740Z",
-                "2025-07-29T02:55:56.709856Z",
-                "2025-07-29T05:23:39.187556Z",
-                "2025-07-29T08:33:44.596112Z",
-                "2025-07-29T13:51:43.536023Z",
-                "2025-07-29T15:23:35.866481Z",
-                "2025-07-30T06:05:38.593828Z",
-                "2025-07-30T07:01:57.691345Z",
-                "2025-07-30T08:59:22.731808Z",
-                "2025-07-30T09:57:38.971963Z",
-                "2025-07-30T11:49:46.969368Z",
-                "2025-07-30T20:15:48.192079Z"
-            ]
-        },
-        {
-            "id": "8bce3111ea88b99cc6f06f38d8912a79",
-            "source": "spacenews",
-            "text": "Spire Global launches new space-based intelligence products for defense market",
-            "source_link": "https://spacenews.com/spire-global-launches-new-space-based-intelligence-products-for-defense-market/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-24T18:45:31.959554Z",
-            "shown_at": [
-                "2025-07-24T18:45:32.690781Z",
-                "2025-07-26T10:33:35.152153Z",
-                "2025-07-26T19:57:47.408962Z",
-                "2025-07-27T17:02:11.400992Z",
-                "2025-07-28T07:33:42.141667Z",
-                "2025-07-28T08:29:14.866633Z"
-            ]
-        },
-        {
-            "id": "b95290bc82e745ae594a4d7148b32e54",
-            "source": "breaking_defense",
-            "text": "Senate confirms Lohmeier as Air Force No. 2 civilian",
-            "source_link": "https://breakingdefense.com/2025/07/senate-confirms-lohmeier-as-air-force-no-2-civilian/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-24T18:17:52.737275Z",
-            "shown_at": [
-                "2025-07-24T18:17:53.517091Z",
-                "2025-07-24T19:27:43.021293Z",
-                "2025-07-24T23:13:50.275956Z",
-                "2025-07-25T03:02:12.815236Z",
-                "2025-07-25T18:05:46.349833Z",
-                "2025-07-27T00:17:52.522406Z",
-                "2025-07-27T19:09:49.356794Z",
-                "2025-07-27T23:05:28.583294Z",
-                "2025-07-28T09:45:47.046109Z",
-                "2025-07-29T02:27:59.084862Z",
-                "2025-07-30T11:21:36.300233Z",
-                "2025-07-31T17:39:33.379022Z"
-            ]
-        },
-        {
-            "id": "97fa637b958af765d43d570af8a9c4ca",
-            "source": "breaking_defense",
-            "text": "Space Force creates new ‘System Deltas’ to guide missile warning, space-based targeting efforts",
-            "source_link": "https://breakingdefense.com/2025/07/space-force-creates-new-system-deltas-to-guide-missile-warning-space-based-targeting-efforts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-24T17:49:35.512534Z",
-            "shown_at": [
-                "2025-07-24T17:49:36.086675Z",
-                "2025-07-25T09:02:07.758162Z",
-                "2025-07-25T11:02:02.438149Z",
-                "2025-07-25T13:09:39.344205Z",
-                "2025-07-25T16:09:19.127689Z",
-                "2025-07-25T20:57:33.980474Z",
-                "2025-07-26T06:19:55.377866Z",
-                "2025-07-26T14:35:29.953898Z",
-                "2025-07-28T06:47:51.568183Z",
-                "2025-07-28T11:45:17.706626Z",
-                "2025-07-28T13:39:53.448602Z",
-                "2025-07-29T07:07:39.616049Z",
-                "2025-07-29T18:45:21.888863Z",
-                "2025-07-30T02:47:44.451048Z",
-                "2025-07-30T18:07:49.929087Z",
-                "2025-07-30T22:45:41.497121Z",
-                "2025-07-30T23:41:53.041066Z"
-            ]
-        },
-        {
-            "id": "4144fd437d34428d94b63b616ed35508",
-            "source": "spacenews",
-            "text": "Tyvak International, a Terran Orbital Company, Leads Groundbreaking 5G Satellite Demonstration Mission for ESA",
-            "source_link": "https://spacenews.com/tyvak-international-a-terran-orbital-company-leads-groundbreaking-5g-satellite-demonstration-mission-for-esa/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-24T15:25:55.895572Z",
-            "shown_at": [
-                "2025-07-24T15:25:56.668710Z",
-                "2025-07-26T12:30:05.033266Z",
-                "2025-07-27T23:51:58.901582Z",
-                "2025-07-29T09:02:05.267926Z"
-            ]
-        },
-        {
-            "id": "56ef224dd5fd1fb472ff214833573a4b",
-            "source": "spacenews",
-            "text": "Lockheed Martin may offer Orion as a commercial service",
-            "source_link": "https://spacenews.com/lockheed-martin-may-offer-orion-as-a-commercial-service/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-24T15:11:47.008069Z",
-            "shown_at": [
-                "2025-07-24T15:11:47.633114Z",
-                "2025-07-26T00:35:40.299782Z",
-                "2025-07-26T05:09:38.993928Z",
-                "2025-07-27T03:19:10.843054Z",
-                "2025-07-30T12:03:58.545530Z"
-            ]
-        },
-        {
-            "id": "974267a0d87a1ade1f90e6db3ff4d518",
-            "source": "breaking_defense",
-            "text": "The year that was and the year that will be, according to our reporters",
-            "source_link": "https://breakingdefense.com/2026/01/the-year-that-was-and-the-year-that-will-be-according-to-our-reporters/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-05T09:14:38.153568Z",
-            "shown_at": [
-                "2026-01-05T09:14:38.882441Z"
-            ]
-        },
-        {
-            "id": "2feacb5a5507ea9d8e4cf4a995b1eaad",
-            "source": "spacenews",
-            "text": "China’s astronauts complete cave training amid preparations for moon missions",
-            "source_link": "https://spacenews.com/chinas-astronauts-complete-cave-training-amid-preparations-for-moon-missions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-05T13:59:22.970189Z",
-            "shown_at": [
-                "2026-01-05T13:59:23.961654Z"
-            ]
-        },
-        {
-            "id": "5c6c33d10ac72e5cfc16ff267b90ba35",
-            "source": "spacenews",
-            "text": "L3Harris to sell majority stake in space propulsion unit to AE Industrial",
-            "source_link": "https://spacenews.com/l3harris-to-sell-majority-stake-in-space-propulsion-unit-to-ae-industrial-for-845-million/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-05T13:59:22.970246Z",
-            "shown_at": [
-                "2026-01-05T14:34:28.118323Z"
-            ]
-        },
-        {
-            "id": "50050b83310a76d94c7df3c95b56a8fa",
-            "source": "spacenews",
-            "text": "No more free rides: it’s time to pay for space safety",
-            "source_link": "https://spacenews.com/no-more-free-rides-its-time-to-pay-for-space-safety/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-05T15:08:57.711899Z",
-            "shown_at": [
-                "2026-01-05T15:08:58.364107Z"
-            ]
-        },
-        {
-            "id": "9bd70400a6604394d266ee4c1a9988d1",
-            "source": "breaking_defense",
-            "text": "Service acquisition leaders: Why this time will be different for defense acquisition",
-            "source_link": "https://breakingdefense.com/2026/01/defense-acquisition-reform-dale-white-robert-collins-army-seiko-okano-navy-stephen-purdy-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-05T15:44:15.836711Z",
-            "shown_at": [
-                "2026-01-05T15:44:16.482896Z"
-            ]
-        },
-        {
-            "id": "a9424266043a86fea35833a639459b79",
-            "source": "spacenews",
-            "text": "Minibus provides $24.4 billion for NASA for fiscal year 2026",
-            "source_link": "https://spacenews.com/minibus-provides-24-4-billion-for-nasa-for-fiscal-year-2026/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-05T18:05:14.594923Z",
-            "shown_at": [
-                "2026-01-05T18:05:15.395532Z"
-            ]
-        },
-        {
-            "id": "ed07231f2ef3d80b7dadefad7d5ae58e",
-            "source": "spacenews",
-            "text": "ARCHE ORBITAL SYSTEMS Signs Strategic MoU with MSRO to Advance National Space Capabilities for the Maldives",
-            "source_link": "https://spacenews.com/arche-orbital-systems-signs-strategic-mou-with-msro-to-advance-national-space-capabilities-for-the-maldives/",
-            "shown": false,
-            "type": "news",
-            "fetched_datetime": "2026-01-05T18:05:14.594976Z"
-        },
-        {
-            "id": "1015c59b68cd81eca1fac22e2a7801ae",
-            "source": "breaking_defense",
-            "text": "Grok for DoD and subs for North Korea: What you missed in defense over the break",
-            "source_link": "https://breakingdefense.com/2026/01/grok-for-dod-and-subs-for-north-korea-what-you-missed-in-defense-over-the-break/",
-            "shown": false,
-            "type": "news",
-            "fetched_datetime": "2026-01-05T18:44:04.264334Z"
         }
     ]
 }
