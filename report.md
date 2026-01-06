@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 4 | 9 | 20 |
+| breaking_defense | 1 | 4 | 10 | 21 |
 | spacenews | 3 | 8 | 11 | 25 |
 | nyt | 0 | 0 | 8 | 17 |
 
@@ -6394,3 +6394,4 @@
 - **Jan 06, 05:44 PM** - China caps record year for orbital launches with Tianhui-7 and Shijian-29 technology test missions (spacenews)
 - **Jan 06, 06:19 PM** - Willy Ley’s Long-Awaited Journey to Orbit: Honoring a Space Pioneer on Celestis’ Serenity and Destiny Flights (spacenews)
 - **Jan 06, 06:59 PM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
+- **Jan 06, 07:34 PM** - Service acquisition leaders: Why this time will be different for defense acquisition (breaking_defense)
