@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 4 | 4 | 8 | 22 |
-| spacenews | 5 | 5 | 10 | 23 |
+| spacenews | 5 | 5 | 11 | 24 |
 | nyt | 0 | 0 | 5 | 18 |
 
 # Shown Order
@@ -6376,3 +6376,4 @@
 - **Jan 06, 06:43 AM** - Landspace targets $1 billion for reusable rockets as IPO application accepted (spacenews)
 - **Jan 06, 07:19 AM** - Service acquisition leaders: Why this time will be different for defense acquisition (breaking_defense)
 - **Jan 06, 07:54 AM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
+- **Jan 06, 08:30 AM** - China caps record year for orbital launches with Tianhui-7 and Shijian-29 technology test missions (spacenews)
