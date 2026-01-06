@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-06T00:04:26.241571+00:00",
-    "trigger_count": 6,
-    "current_item_id": "11c68aef8097933529231f77a92581c0",
+    "trigger_count": 0,
+    "current_item_id": "370ee09ca15b70cbf755084585f89962",
     "data": [
         {
             "id": "1015c59b68cd81eca1fac22e2a7801ae",
@@ -11919,6 +11919,18 @@
             "fetched_datetime": "2026-01-06T15:39:03.214012Z",
             "shown_at": [
                 "2026-01-06T15:39:07.365166Z"
+            ]
+        },
+        {
+            "id": "370ee09ca15b70cbf755084585f89962",
+            "source": "spacenews",
+            "text": "Willy Ley’s Long-Awaited Journey to Orbit: Honoring a Space Pioneer on Celestis’ Serenity and Destiny Flights",
+            "source_link": "https://spacenews.com/willy-leys-long-awaited-journey-to-orbit-honoring-a-space-pioneer-on-celestis-serenity-and-destiny-flights/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-06T18:19:29.150490Z",
+            "shown_at": [
+                "2026-01-06T18:19:31.257679Z"
             ]
         }
     ]
