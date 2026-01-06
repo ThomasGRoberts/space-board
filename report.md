@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 4 | 9 | 22 |
-| spacenews | 5 | 5 | 11 | 23 |
+| spacenews | 6 | 6 | 12 | 24 |
 | nyt | 0 | 0 | 6 | 18 |
 
 # Shown Order
@@ -6384,3 +6384,4 @@
 - **Jan 06, 11:29 AM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
 - **Jan 06, 12:06 PM** - Landspace targets $1 billion for reusable rockets as IPO application accepted (spacenews)
 - **Jan 06, 12:44 PM** - Grok for DoD and subs for North Korea: What you missed in defense over the break (breaking_defense)
+- **Jan 06, 01:19 PM** - Is the race for moon missions lunacy? (spacenews)
