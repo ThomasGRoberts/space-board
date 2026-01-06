@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 4 | 4 | 8 | 21 |
+| breaking_defense | 4 | 4 | 9 | 22 |
 | spacenews | 5 | 6 | 10 | 24 |
 | nyt | 0 | 0 | 5 | 18 |
 
@@ -6371,3 +6371,4 @@
 - **Jan 06, 03:39 AM** - L3Harris hones DoD focus with sale of civil space propulsion unit (breaking_defense)
 - **Jan 06, 04:19 AM** - Space Events 2026: NASA’s Artemis II Moon Mission, Summer Eclipse and More (nyt)
 - **Jan 06, 04:54 AM** - Heliophysics missions move toward operations (spacenews)
+- **Jan 06, 05:28 AM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
