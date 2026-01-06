@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 4 | 8 | 22 |
 | spacenews | 5 | 5 | 10 | 23 |
-| nyt | 0 | 0 | 5 | 18 |
+| nyt | 0 | 0 | 6 | 19 |
 
 # Shown Order
 
@@ -6381,3 +6381,4 @@
 - **Jan 06, 09:43 AM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
 - **Jan 06, 10:19 AM** - No more free rides: it’s time to pay for space safety (spacenews)
 - **Jan 06, 10:54 AM** - L3Harris hones DoD focus with sale of civil space propulsion unit (breaking_defense)
+- **Jan 06, 11:29 AM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
