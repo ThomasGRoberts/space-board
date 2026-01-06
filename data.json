@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-06T00:04:26.241571+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a9424266043a86fea35833a639459b79",
+    "trigger_count": 0,
+    "current_item_id": "5f940cc4178afa3d95712903647c337d",
     "data": [
         {
             "id": "1015c59b68cd81eca1fac22e2a7801ae",
@@ -11904,6 +11904,18 @@
             "fetched_datetime": "2026-01-06T13:19:18.189701Z",
             "shown_at": [
                 "2026-01-06T13:19:18.899605Z"
+            ]
+        },
+        {
+            "id": "5f940cc4178afa3d95712903647c337d",
+            "source": "spacenews",
+            "text": "Space cyber compliance: managing requirements for today and tomorrow",
+            "source_link": "https://spacenews.com/space-cyber-compliance-managing-requirements-for-today-and-tomorrow/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-06T15:39:03.214012Z",
+            "shown_at": [
+                "2026-01-06T15:39:07.365166Z"
             ]
         }
     ]

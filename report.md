@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 4 | 10 | 22 |
-| spacenews | 3 | 6 | 10 | 24 |
+| spacenews | 4 | 7 | 11 | 25 |
 | nyt | 0 | 0 | 7 | 17 |
 
 # Shown Order
@@ -6388,3 +6388,4 @@
 - **Jan 06, 01:54 PM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
 - **Jan 06, 02:29 PM** - Service acquisition leaders: Why this time will be different for defense acquisition (breaking_defense)
 - **Jan 06, 03:04 PM** - Minibus provides $24.4 billion for NASA for fiscal year 2026 (spacenews)
+- **Jan 06, 03:39 PM** - Space cyber compliance: managing requirements for today and tomorrow (spacenews)
