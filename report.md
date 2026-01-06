@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 4 | 4 | 9 | 22 |
 | spacenews | 5 | 5 | 10 | 23 |
-| nyt | 0 | 0 | 4 | 18 |
+| nyt | 0 | 0 | 5 | 19 |
 
 # Shown Order
 
@@ -6375,3 +6375,4 @@
 - **Jan 06, 06:05 AM** - Space Events 2026: NASA’s Artemis II Moon Mission, Summer Eclipse and More (nyt)
 - **Jan 06, 06:43 AM** - Landspace targets $1 billion for reusable rockets as IPO application accepted (spacenews)
 - **Jan 06, 07:19 AM** - Service acquisition leaders: Why this time will be different for defense acquisition (breaking_defense)
+- **Jan 06, 07:54 AM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
