@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 4 | 9 | 21 |
-| spacenews | 4 | 7 | 10 | 24 |
+| spacenews | 4 | 7 | 11 | 25 |
 | nyt | 0 | 0 | 7 | 17 |
 
 # Shown Order
@@ -6391,3 +6391,4 @@
 - **Jan 06, 03:39 PM** - Space cyber compliance: managing requirements for today and tomorrow (spacenews)
 - **Jan 06, 04:19 PM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
 - **Jan 06, 05:06 PM** - The year that was and the year that will be, according to our reporters (breaking_defense)
+- **Jan 06, 05:44 PM** - China caps record year for orbital launches with Tianhui-7 and Shijian-29 technology test missions (spacenews)
