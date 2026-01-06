@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-06T00:04:26.241571+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ed07231f2ef3d80b7dadefad7d5ae58e",
+    "trigger_count": 0,
+    "current_item_id": "aa6ab18d464b613deb32de55d788b11d",
     "data": [
         {
             "id": "1015c59b68cd81eca1fac22e2a7801ae",
@@ -11862,6 +11862,18 @@
                 "2025-07-26T18:05:30.877677Z",
                 "2025-07-27T12:19:42.197745Z",
                 "2025-07-28T09:31:56.076690Z"
+            ]
+        },
+        {
+            "id": "aa6ab18d464b613deb32de55d788b11d",
+            "source": "breaking_defense",
+            "text": "L3Harris hones DoD focus with sale of civil space propulsion unit",
+            "source_link": "https://breakingdefense.com/2026/01/l3harris-hones-dod-focus-with-sale-of-civil-space-propulsion-unit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-06T03:39:17.440516Z",
+            "shown_at": [
+                "2026-01-06T03:39:18.167406Z"
             ]
         }
     ]

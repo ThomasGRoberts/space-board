@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 3 | 3 | 8 | 21 |
+| breaking_defense | 4 | 4 | 9 | 22 |
 | spacenews | 5 | 6 | 10 | 24 |
-| nyt | 0 | 0 | 5 | 18 |
+| nyt | 0 | 0 | 4 | 18 |
 
 # Shown Order
 
@@ -6368,3 +6368,4 @@
 - **Jan 05, 06:05 PM** - Minibus provides $24.4 billion for NASA for fiscal year 2026 (spacenews)
 - **Jan 06, 02:29 AM** - Grok for DoD and subs for North Korea: What you missed in defense over the break (breaking_defense)
 - **Jan 06, 03:04 AM** - ARCHE ORBITAL SYSTEMS Signs Strategic MoU with MSRO to Advance National Space Capabilities for the Maldives (spacenews)
+- **Jan 06, 03:39 AM** - L3Harris hones DoD focus with sale of civil space propulsion unit (breaking_defense)
