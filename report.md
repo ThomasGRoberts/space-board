@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 4 | 10 | 21 |
 | spacenews | 3 | 8 | 12 | 25 |
-| nyt | 0 | 0 | 8 | 16 |
+| nyt | 0 | 0 | 9 | 17 |
 
 # Shown Order
 
@@ -6396,3 +6396,4 @@
 - **Jan 06, 06:59 PM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
 - **Jan 06, 07:34 PM** - Service acquisition leaders: Why this time will be different for defense acquisition (breaking_defense)
 - **Jan 06, 08:14 PM** - Landspace targets $1 billion for reusable rockets as IPO application accepted (spacenews)
+- **Jan 06, 08:49 PM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
