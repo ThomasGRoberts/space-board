@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 4 | 8 | 22 |
-| spacenews | 5 | 5 | 10 | 23 |
+| spacenews | 5 | 5 | 11 | 24 |
 | nyt | 0 | 0 | 5 | 18 |
 
 # Shown Order
@@ -6379,3 +6379,4 @@
 - **Jan 06, 08:30 AM** - China caps record year for orbital launches with Tianhui-7 and Shijian-29 technology test missions (spacenews)
 - **Jan 06, 09:09 AM** - The year that was and the year that will be, according to our reporters (breaking_defense)
 - **Jan 06, 09:43 AM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
+- **Jan 06, 10:19 AM** - No more free rides: it’s time to pay for space safety (spacenews)
