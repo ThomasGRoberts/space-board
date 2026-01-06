@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 3 | 3 | 8 | 21 |
+| breaking_defense | 3 | 3 | 9 | 22 |
 | spacenews | 5 | 6 | 10 | 24 |
 | nyt | 0 | 0 | 5 | 18 |
 
@@ -6366,3 +6366,4 @@
 - **Jan 05, 04:54 PM** - Heliophysics missions move toward operations (spacenews)
 - **Jan 05, 05:29 PM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
 - **Jan 05, 06:05 PM** - Minibus provides $24.4 billion for NASA for fiscal year 2026 (spacenews)
+- **Jan 06, 02:29 AM** - Grok for DoD and subs for North Korea: What you missed in defense over the break (breaking_defense)
