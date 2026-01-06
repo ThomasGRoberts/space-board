@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 4 | 11 | 21 |
 | spacenews | 3 | 8 | 13 | 25 |
-| nyt | 0 | 0 | 9 | 16 |
+| nyt | 0 | 0 | 10 | 17 |
 
 # Shown Order
 
@@ -6399,3 +6399,4 @@
 - **Jan 06, 08:49 PM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
 - **Jan 06, 09:24 PM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
 - **Jan 06, 09:59 PM** - Space Force offers new Vandenberg launch site (spacenews)
+- **Jan 06, 10:34 PM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
