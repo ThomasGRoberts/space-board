@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 4 | 8 | 22 |
 | spacenews | 5 | 5 | 10 | 23 |
-| nyt | 0 | 0 | 5 | 18 |
+| nyt | 0 | 0 | 6 | 19 |
 
 # Shown Order
 
@@ -6378,3 +6378,4 @@
 - **Jan 06, 07:54 AM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
 - **Jan 06, 08:30 AM** - China caps record year for orbital launches with Tianhui-7 and Shijian-29 technology test missions (spacenews)
 - **Jan 06, 09:09 AM** - The year that was and the year that will be, according to our reporters (breaking_defense)
+- **Jan 06, 09:43 AM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
