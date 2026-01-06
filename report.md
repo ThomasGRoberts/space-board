@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 4 | 11 | 21 |
-| spacenews | 3 | 8 | 12 | 24 |
+| spacenews | 3 | 8 | 13 | 25 |
 | nyt | 0 | 0 | 9 | 17 |
 
 # Shown Order
@@ -6398,3 +6398,4 @@
 - **Jan 06, 08:14 PM** - Landspace targets $1 billion for reusable rockets as IPO application accepted (spacenews)
 - **Jan 06, 08:49 PM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
 - **Jan 06, 09:24 PM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
+- **Jan 06, 09:59 PM** - Space Force offers new Vandenberg launch site (spacenews)
