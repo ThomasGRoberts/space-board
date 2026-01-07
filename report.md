@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 9 | 15 | 25 |
 | breaking_defense | 0 | 3 | 12 | 20 |
-| nyt | 0 | 0 | 12 | 17 |
+| nyt | 0 | 0 | 13 | 18 |
 
 # Shown Order
 
@@ -6371,3 +6371,4 @@
 - **Jan 07, 07:39 AM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
 - **Jan 07, 08:14 AM** - Willy Ley’s Long-Awaited Journey to Orbit: Honoring a Space Pioneer on Celestis’ Serenity and Destiny Flights (spacenews)
 - **Jan 07, 08:59 AM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
+- **Jan 07, 09:34 AM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
