@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 8 | 14 | 25 |
 | breaking_defense | 1 | 4 | 12 | 21 |
-| nyt | 0 | 0 | 10 | 16 |
+| nyt | 0 | 0 | 11 | 17 |
 
 # Shown Order
 
@@ -6356,3 +6356,4 @@
 - **Jan 06, 10:34 PM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
 - **Jan 06, 11:09 PM** - Service acquisition leaders: Why this time will be different for defense acquisition (breaking_defense)
 - **Jan 06, 11:44 PM** - Heliophysics missions move toward operations (spacenews)
+- **Jan 07, 12:19 AM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
