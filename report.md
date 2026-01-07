@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 11 | 17 | 28 |
-| breaking_defense | 0 | 2 | 11 | 20 |
+| breaking_defense | 0 | 2 | 12 | 21 |
 | nyt | 0 | 0 | 11 | 18 |
 
 # Shown Order
@@ -6383,3 +6383,4 @@
 - **Jan 07, 02:59 PM** - Service acquisition leaders: Why this time will be different for defense acquisition (breaking_defense)
 - **Jan 07, 03:34 PM** - Space Force moves to standardize satellites with ‘Handle 2.0’ contract (spacenews)
 - **Jan 07, 04:09 PM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
+- **Jan 07, 04:44 PM** - The year that was and the year that will be, according to our reporters (breaking_defense)
