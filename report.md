@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 10 | 16 | 28 |
-| breaking_defense | 0 | 1 | 11 | 21 |
+| breaking_defense | 0 | 1 | 12 | 22 |
 | nyt | 0 | 0 | 12 | 20 |
 
 # Shown Order
@@ -6389,3 +6389,4 @@
 - **Jan 07, 06:34 PM** - The year that was and the year that will be, according to our reporters (breaking_defense)
 - **Jan 07, 07:09 PM** - Terran Orbital Appoints Michael Vishion as Vice President of Program Management (spacenews)
 - **Jan 07, 07:44 PM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
+- **Jan 07, 08:24 PM** - US-European relations will define the next year: 2026 preview (breaking_defense)
