@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-07T00:04:36.287312+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6512fcf1c990076a5108036ccf27524c",
+    "trigger_count": 0,
+    "current_item_id": "93d3ed05925a5383567218918f4601f9",
     "data": [
         {
             "id": "370ee09ca15b70cbf755084585f89962",
@@ -11851,6 +11851,18 @@
                 "2025-07-26T21:41:41.342607Z",
                 "2025-07-29T20:11:50.037351Z",
                 "2025-08-02T02:09:29.611746Z"
+            ]
+        },
+        {
+            "id": "93d3ed05925a5383567218918f4601f9",
+            "source": "spacenews",
+            "text": "NASA works to extend Swift’s life ahead of reboost mission",
+            "source_link": "https://spacenews.com/nasa-works-to-extend-swifts-life-ahead-of-reboost-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-07T00:59:11.449200Z",
+            "shown_at": [
+                "2026-01-07T00:59:12.100120Z"
             ]
         }
     ]

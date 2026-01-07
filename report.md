@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 8 | 14 | 25 |
+| spacenews | 4 | 9 | 15 | 26 |
 | breaking_defense | 1 | 4 | 12 | 20 |
 | nyt | 0 | 0 | 11 | 17 |
 
@@ -6357,3 +6357,4 @@
 - **Jan 06, 11:09 PM** - Service acquisition leaders: Why this time will be different for defense acquisition (breaking_defense)
 - **Jan 06, 11:44 PM** - Heliophysics missions move toward operations (spacenews)
 - **Jan 07, 12:19 AM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
+- **Jan 07, 12:59 AM** - NASA works to extend Swift’s life ahead of reboost mission (spacenews)
