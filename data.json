@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-07T00:04:36.287312+00:00",
-    "trigger_count": 6,
-    "current_item_id": "974267a0d87a1ade1f90e6db3ff4d518",
+    "trigger_count": 0,
+    "current_item_id": "2d0439cc78e5931109ad00369e10f75f",
     "data": [
         {
             "id": "370ee09ca15b70cbf755084585f89962",
@@ -11944,6 +11944,18 @@
             "fetched_datetime": "2026-01-07T15:34:24.752892Z",
             "shown_at": [
                 "2026-01-07T15:34:25.489228Z"
+            ]
+        },
+        {
+            "id": "2d0439cc78e5931109ad00369e10f75f",
+            "source": "spacenews",
+            "text": "Terran Orbital Appoints Michael Vishion as Vice President of Program Management",
+            "source_link": "https://spacenews.com/terran-orbital-appoints-michael-vishion-as-vice-president-of-program-management/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-07T17:19:44.201223Z",
+            "shown_at": [
+                "2026-01-07T17:19:45.243825Z"
             ]
         }
     ]
