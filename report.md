@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 9 | 15 | 25 |
 | breaking_defense | 0 | 4 | 12 | 21 |
-| nyt | 0 | 0 | 12 | 16 |
+| nyt | 0 | 0 | 13 | 17 |
 
 # Shown Order
 
@@ -6365,3 +6365,4 @@
 - **Jan 07, 03:59 AM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
 - **Jan 07, 04:34 AM** - SpaceX to lower orbits of some Starlink satellites (spacenews)
 - **Jan 07, 05:14 AM** - L3Harris hones DoD focus with sale of civil space propulsion unit (breaking_defense)
+- **Jan 07, 05:54 AM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
