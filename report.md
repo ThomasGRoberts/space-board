@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 9 | 15 | 25 |
 | breaking_defense | 0 | 3 | 12 | 20 |
-| nyt | 0 | 0 | 12 | 17 |
+| nyt | 0 | 0 | 13 | 18 |
 
 # Shown Order
 
@@ -6374,3 +6374,4 @@
 - **Jan 07, 09:34 AM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
 - **Jan 07, 10:09 AM** - Minibus provides $24.4 billion for NASA for fiscal year 2026 (spacenews)
 - **Jan 07, 10:49 AM** - L3Harris hones DoD focus with sale of civil space propulsion unit (breaking_defense)
+- **Jan 07, 11:24 AM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
