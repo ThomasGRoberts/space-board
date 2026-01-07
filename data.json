@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-07T00:04:36.287312+00:00",
-    "trigger_count": 6,
-    "current_item_id": "032d8d20fd0c68d7c49c5d76826ec989",
+    "trigger_count": 0,
+    "current_item_id": "0f78f0f1ee6a27704de5ea6cf82e0d7d",
     "data": [
         {
             "id": "370ee09ca15b70cbf755084585f89962",
@@ -11961,6 +11961,18 @@
             "shown_at": [
                 "2026-01-07T17:19:45.243825Z",
                 "2026-01-07T19:09:13.273056Z"
+            ]
+        },
+        {
+            "id": "0f78f0f1ee6a27704de5ea6cf82e0d7d",
+            "source": "breaking_defense",
+            "text": "‘Overwatch’ from space, cyber ops foundational to Maduro mission",
+            "source_link": "https://breakingdefense.com/2026/01/overwatch-from-space-cyber-ops-foundational-to-maduro-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-07T20:58:59.314449Z",
+            "shown_at": [
+                "2026-01-07T20:59:00.077641Z"
             ]
         }
     ]
