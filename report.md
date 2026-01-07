@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 9 | 15 | 25 |
 | breaking_defense | 0 | 4 | 12 | 21 |
-| nyt | 0 | 0 | 12 | 16 |
+| nyt | 0 | 0 | 13 | 17 |
 
 # Shown Order
 
@@ -6368,3 +6368,4 @@
 - **Jan 07, 05:54 AM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
 - **Jan 07, 06:29 AM** - NASA works to extend Swift’s life ahead of reboost mission (spacenews)
 - **Jan 07, 07:04 AM** - The year that was and the year that will be, according to our reporters (breaking_defense)
+- **Jan 07, 07:39 AM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
