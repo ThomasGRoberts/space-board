@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 10 | 17 | 28 |
+| spacenews | 7 | 11 | 18 | 29 |
 | breaking_defense | 0 | 3 | 11 | 20 |
 | nyt | 0 | 0 | 11 | 18 |
 
@@ -6379,3 +6379,4 @@
 - **Jan 07, 12:34 PM** - SkyFi expands virtual constellation with Vantor satellite imagery (spacenews)
 - **Jan 07, 01:08 PM** - 2026 Outlook: Can Acquisition Reform Deliver for Military Space? (spacenews)
 - **Jan 07, 01:49 PM** - NASA seeks to accelerate development of Habitable Worlds Observatory (spacenews)
+- **Jan 07, 02:24 PM** - SpaceX’s IPO will make space investment far less niche (spacenews)
