@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 10 | 17 | 27 |
+| spacenews | 8 | 11 | 18 | 28 |
 | breaking_defense | 0 | 3 | 11 | 21 |
 | nyt | 0 | 0 | 11 | 18 |
 
@@ -6381,3 +6381,4 @@
 - **Jan 07, 01:49 PM** - NASA seeks to accelerate development of Habitable Worlds Observatory (spacenews)
 - **Jan 07, 02:24 PM** - SpaceX’s IPO will make space investment far less niche (spacenews)
 - **Jan 07, 02:59 PM** - Service acquisition leaders: Why this time will be different for defense acquisition (breaking_defense)
+- **Jan 07, 03:34 PM** - Space Force moves to standardize satellites with ‘Handle 2.0’ contract (spacenews)
