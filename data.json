@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-07T00:04:36.287312+00:00",
-    "trigger_count": 6,
-    "current_item_id": "46237a214997ad204e43083d010d465f",
+    "trigger_count": 0,
+    "current_item_id": "a742d4157b0b4a5501baf9aaa0fa80a8",
     "data": [
         {
             "id": "370ee09ca15b70cbf755084585f89962",
@@ -11900,9 +11900,12 @@
             "source": "spacenews",
             "text": "2026 Outlook: Can Acquisition Reform Deliver for Military Space?",
             "source_link": "https://spacenews.com/the-pentagon-will-feel-the-pressure-to-finally-realize-commercial-first/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-01-07T12:34:10.266275Z"
+            "fetched_datetime": "2026-01-07T12:34:10.266275Z",
+            "shown_at": [
+                "2026-01-07T13:08:54.392047Z"
+            ]
         }
     ]
 }
