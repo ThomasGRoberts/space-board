@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 10 | 16 | 29 |
+| spacenews | 7 | 10 | 17 | 30 |
 | breaking_defense | 1 | 2 | 12 | 24 |
 | nyt | 0 | 0 | 11 | 21 |
 
@@ -6394,3 +6394,4 @@
 - **Jan 07, 09:34 PM** - No more free rides: it’s time to pay for space safety (spacenews)
 - **Jan 07, 10:09 PM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
 - **Jan 07, 10:44 PM** - US-European relations will define the next year: 2026 preview (breaking_defense)
+- **Jan 07, 11:19 PM** - SpaceX to lower orbits of some Starlink satellites (spacenews)
