@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-07T00:04:36.287312+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a9424266043a86fea35833a639459b79",
+    "trigger_count": 0,
+    "current_item_id": "46237a214997ad204e43083d010d465f",
     "data": [
         {
             "id": "370ee09ca15b70cbf755084585f89962",
@@ -11882,6 +11882,27 @@
                 "2026-01-07T00:59:12.100120Z",
                 "2026-01-07T06:29:20.945297Z"
             ]
+        },
+        {
+            "id": "46237a214997ad204e43083d010d465f",
+            "source": "spacenews",
+            "text": "SkyFi expands virtual constellation with Vantor satellite imagery",
+            "source_link": "https://spacenews.com/skyfi-expands-virtual-constellation-with-vantor-satellite-imagery/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-07T12:34:10.266198Z",
+            "shown_at": [
+                "2026-01-07T12:34:10.849348Z"
+            ]
+        },
+        {
+            "id": "a742d4157b0b4a5501baf9aaa0fa80a8",
+            "source": "spacenews",
+            "text": "2026 Outlook: Can Acquisition Reform Deliver for Military Space?",
+            "source_link": "https://spacenews.com/the-pentagon-will-feel-the-pressure-to-finally-realize-commercial-first/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-01-07T12:34:10.266275Z"
         }
     ]
 }
