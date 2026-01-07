@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 10 | 16 | 28 |
+| spacenews | 7 | 10 | 17 | 29 |
 | breaking_defense | 1 | 2 | 12 | 23 |
 | nyt | 0 | 0 | 11 | 20 |
 
@@ -6391,3 +6391,4 @@
 - **Jan 07, 07:44 PM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
 - **Jan 07, 08:24 PM** - US-European relations will define the next year: 2026 preview (breaking_defense)
 - **Jan 07, 08:59 PM** - ‘Overwatch’ from space, cyber ops foundational to Maduro mission (breaking_defense)
+- **Jan 07, 09:34 PM** - No more free rides: it’s time to pay for space safety (spacenews)
