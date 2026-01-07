@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 9 | 15 | 25 |
-| breaking_defense | 0 | 4 | 12 | 20 |
+| breaking_defense | 0 | 4 | 13 | 21 |
 | nyt | 0 | 0 | 12 | 17 |
 
 # Shown Order
@@ -6367,3 +6367,4 @@
 - **Jan 07, 05:14 AM** - L3Harris hones DoD focus with sale of civil space propulsion unit (breaking_defense)
 - **Jan 07, 05:54 AM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
 - **Jan 07, 06:29 AM** - NASA works to extend Swift’s life ahead of reboost mission (spacenews)
+- **Jan 07, 07:04 AM** - The year that was and the year that will be, according to our reporters (breaking_defense)
