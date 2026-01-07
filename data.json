@@ -1,9 +1,58 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-01-06T00:04:26.241571+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2026-01-07T00:04:36.287312+00:00",
+    "trigger_count": 4,
     "current_item_id": "ddf52662058b214649a83fe8aba5a9f7",
     "data": [
+        {
+            "id": "370ee09ca15b70cbf755084585f89962",
+            "source": "spacenews",
+            "text": "Willy Ley’s Long-Awaited Journey to Orbit: Honoring a Space Pioneer on Celestis’ Serenity and Destiny Flights",
+            "source_link": "https://spacenews.com/willy-leys-long-awaited-journey-to-orbit-honoring-a-space-pioneer-on-celestis-serenity-and-destiny-flights/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-06T18:19:29.150490Z",
+            "shown_at": [
+                "2026-01-06T18:19:31.257679Z"
+            ]
+        },
+        {
+            "id": "5f940cc4178afa3d95712903647c337d",
+            "source": "spacenews",
+            "text": "Space cyber compliance: managing requirements for today and tomorrow",
+            "source_link": "https://spacenews.com/space-cyber-compliance-managing-requirements-for-today-and-tomorrow/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-06T15:39:03.214012Z",
+            "shown_at": [
+                "2026-01-06T15:39:07.365166Z"
+            ]
+        },
+        {
+            "id": "64c475b446b52474b8cceaf9d35d80c1",
+            "source": "spacenews",
+            "text": "Is the race for moon missions lunacy?",
+            "source_link": "https://spacenews.com/is-the-race-for-moon-missions-lunacy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-06T13:19:18.189701Z",
+            "shown_at": [
+                "2026-01-06T13:19:18.899605Z"
+            ]
+        },
+        {
+            "id": "aa6ab18d464b613deb32de55d788b11d",
+            "source": "breaking_defense",
+            "text": "L3Harris hones DoD focus with sale of civil space propulsion unit",
+            "source_link": "https://breakingdefense.com/2026/01/l3harris-hones-dod-focus-with-sale-of-civil-space-propulsion-unit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-06T03:39:17.440516Z",
+            "shown_at": [
+                "2026-01-06T03:39:18.167406Z",
+                "2026-01-06T10:54:58.664565Z"
+            ]
+        },
         {
             "id": "1015c59b68cd81eca1fac22e2a7801ae",
             "source": "breaking_defense",
@@ -11801,145 +11850,6 @@
                 "2025-07-26T21:41:41.342607Z",
                 "2025-07-29T20:11:50.037351Z",
                 "2025-08-02T02:09:29.611746Z"
-            ]
-        },
-        {
-            "id": "3e9f0b15dfd8c544da7a225c435f99b6",
-            "source": "breaking_defense",
-            "text": "Roketsan signs agreement with Indonesia, unveils five missiles and space launch vehicle designs",
-            "source_link": "https://breakingdefense.com/2025/07/roketsan-signs-agreement-with-indonesia-unveils-five-missiles-and-space-launch-vehicle-designs/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-25T14:11:56.206358Z",
-            "shown_at": [
-                "2025-07-25T14:11:57.678123Z",
-                "2025-07-25T21:57:34.808961Z",
-                "2025-07-26T17:23:45.544193Z",
-                "2025-07-26T21:13:42.128826Z",
-                "2025-07-28T01:02:15.139346Z",
-                "2025-07-28T04:49:46.468217Z",
-                "2025-07-28T17:31:54.750154Z",
-                "2025-07-28T19:39:38.533615Z",
-                "2025-07-29T03:23:47.363934Z",
-                "2025-07-29T11:27:40.441970Z",
-                "2025-07-30T06:47:19.877851Z",
-                "2025-07-30T07:47:34.454326Z",
-                "2025-07-30T10:25:36.442247Z",
-                "2025-07-30T19:20:03.128624Z",
-                "2025-07-31T00:40:02.302727Z"
-            ]
-        },
-        {
-            "id": "e91edee18a6bc585424eadebdf5cd6b6",
-            "source": "spacenews",
-            "text": "Blue Origin to fly first Blue Ring spacecraft in spring 2026",
-            "source_link": "https://spacenews.com/blue-origin-to-fly-first-blue-ring-spacecraft-in-spring-2026/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-25T13:55:57.125759Z",
-            "shown_at": [
-                "2025-07-25T13:55:57.706599Z",
-                "2025-07-25T20:43:54.134467Z",
-                "2025-07-26T11:31:51.132346Z",
-                "2025-07-28T00:47:45.338043Z",
-                "2025-07-28T03:39:53.676226Z"
-            ]
-        },
-        {
-            "id": "41fa3386559d2fa2ac8afc76a5897235",
-            "source": "breaking_defense",
-            "text": "Appropriators restore funding for Commerce’s TraCSS spacewatch effort",
-            "source_link": "https://breakingdefense.com/2025/07/appropriators-restore-funding-for-commerces-tracss-spacewatch-effort/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-25T12:13:45.804700Z",
-            "shown_at": [
-                "2025-07-25T12:13:46.326861Z",
-                "2025-07-25T15:09:59.770960Z",
-                "2025-07-25T19:03:34.225793Z",
-                "2025-07-26T08:13:36.850577Z",
-                "2025-07-26T09:51:48.147946Z",
-                "2025-07-26T10:49:32.637525Z",
-                "2025-07-26T13:39:32.127475Z",
-                "2025-07-27T12:33:39.700633Z",
-                "2025-07-28T01:59:46.543223Z",
-                "2025-07-28T02:55:52.095095Z",
-                "2025-07-28T14:35:29.038771Z",
-                "2025-07-28T18:43:33.385977Z",
-                "2025-07-28T22:15:41.696129Z",
-                "2025-07-29T01:26:09.715158Z",
-                "2025-07-29T15:51:31.550716Z",
-                "2025-07-29T23:57:35.770808Z",
-                "2025-07-30T00:53:38.601828Z",
-                "2025-07-30T04:41:58.214440Z",
-                "2025-07-30T09:29:38.877238Z",
-                "2025-07-30T14:25:41.427155Z"
-            ]
-        },
-        {
-            "id": "a3beaf4f681eb02e95d2c225b4a3c16a",
-            "source": "spacenews",
-            "text": "Senegal signs the Artemis Accords",
-            "source_link": "https://spacenews.com/senegal-signs-the-artemis-accords/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-25T11:45:52.106768Z",
-            "shown_at": [
-                "2025-07-25T11:45:53.380911Z",
-                "2025-07-25T13:41:47.541112Z",
-                "2025-07-26T16:13:28.138866Z",
-                "2025-07-26T18:05:30.877677Z",
-                "2025-07-27T12:19:42.197745Z",
-                "2025-07-28T09:31:56.076690Z"
-            ]
-        },
-        {
-            "id": "aa6ab18d464b613deb32de55d788b11d",
-            "source": "breaking_defense",
-            "text": "L3Harris hones DoD focus with sale of civil space propulsion unit",
-            "source_link": "https://breakingdefense.com/2026/01/l3harris-hones-dod-focus-with-sale-of-civil-space-propulsion-unit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-06T03:39:17.440516Z",
-            "shown_at": [
-                "2026-01-06T03:39:18.167406Z",
-                "2026-01-06T10:54:58.664565Z"
-            ]
-        },
-        {
-            "id": "64c475b446b52474b8cceaf9d35d80c1",
-            "source": "spacenews",
-            "text": "Is the race for moon missions lunacy?",
-            "source_link": "https://spacenews.com/is-the-race-for-moon-missions-lunacy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-06T13:19:18.189701Z",
-            "shown_at": [
-                "2026-01-06T13:19:18.899605Z"
-            ]
-        },
-        {
-            "id": "5f940cc4178afa3d95712903647c337d",
-            "source": "spacenews",
-            "text": "Space cyber compliance: managing requirements for today and tomorrow",
-            "source_link": "https://spacenews.com/space-cyber-compliance-managing-requirements-for-today-and-tomorrow/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-06T15:39:03.214012Z",
-            "shown_at": [
-                "2026-01-06T15:39:07.365166Z"
-            ]
-        },
-        {
-            "id": "370ee09ca15b70cbf755084585f89962",
-            "source": "spacenews",
-            "text": "Willy Ley’s Long-Awaited Journey to Orbit: Honoring a Space Pioneer on Celestis’ Serenity and Destiny Flights",
-            "source_link": "https://spacenews.com/willy-leys-long-awaited-journey-to-orbit-honoring-a-space-pioneer-on-celestis-serenity-and-destiny-flights/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-06T18:19:29.150490Z",
-            "shown_at": [
-                "2026-01-06T18:19:31.257679Z"
             ]
         }
     ]
