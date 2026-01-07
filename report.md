@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 12 | 17 | 28 |
 | breaking_defense | 0 | 2 | 11 | 20 |
-| nyt | 0 | 0 | 11 | 18 |
+| nyt | 0 | 0 | 12 | 19 |
 
 # Shown Order
 
@@ -6385,3 +6385,4 @@
 - **Jan 07, 04:09 PM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
 - **Jan 07, 04:44 PM** - The year that was and the year that will be, according to our reporters (breaking_defense)
 - **Jan 07, 05:19 PM** - Terran Orbital Appoints Michael Vishion as Vice President of Program Management (spacenews)
+- **Jan 07, 05:55 PM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
