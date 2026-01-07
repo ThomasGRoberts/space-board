@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 11 | 17 | 28 |
 | breaking_defense | 0 | 2 | 11 | 20 |
-| nyt | 0 | 0 | 11 | 18 |
+| nyt | 0 | 0 | 12 | 19 |
 
 # Shown Order
 
@@ -6382,3 +6382,4 @@
 - **Jan 07, 02:24 PM** - SpaceX’s IPO will make space investment far less niche (spacenews)
 - **Jan 07, 02:59 PM** - Service acquisition leaders: Why this time will be different for defense acquisition (breaking_defense)
 - **Jan 07, 03:34 PM** - Space Force moves to standardize satellites with ‘Handle 2.0’ contract (spacenews)
+- **Jan 07, 04:09 PM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
