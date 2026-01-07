@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 9 | 15 | 25 |
-| breaking_defense | 1 | 4 | 12 | 20 |
+| breaking_defense | 1 | 4 | 13 | 21 |
 | nyt | 0 | 0 | 12 | 17 |
 
 # Shown Order
@@ -6361,3 +6361,4 @@
 - **Jan 07, 01:34 AM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
 - **Jan 07, 02:09 AM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
 - **Jan 07, 02:49 AM** - China caps record year for orbital launches with Tianhui-7 and Shijian-29 technology test missions (spacenews)
+- **Jan 07, 03:24 AM** - Europe’s time to shine in space? 2026 preview (breaking_defense)
