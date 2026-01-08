@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 13 | 25 |
-| spacenews | 7 | 11 | 17 | 32 |
+| spacenews | 7 | 11 | 18 | 33 |
 | nyt | 0 | 0 | 10 | 22 |
 
 # Shown Order
@@ -6380,3 +6380,4 @@
 - **Jan 08, 10:04 AM** - Service acquisition leaders: Why this time will be different for defense acquisition (breaking_defense)
 - **Jan 08, 10:39 AM** - Space cyber compliance: managing requirements for today and tomorrow (spacenews)
 - **Jan 08, 11:14 AM** - The year that was and the year that will be, according to our reporters (breaking_defense)
+- **Jan 08, 11:49 AM** - L3Harris to sell majority stake in space propulsion unit to AE Industrial (spacenews)
