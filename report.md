@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 2 | 12 | 24 |
+| breaking_defense | 1 | 2 | 13 | 25 |
 | spacenews | 9 | 16 | 18 | 34 |
 | nyt | 2 | 2 | 10 | 21 |
 
@@ -6400,3 +6400,4 @@
 - **Jan 08, 09:54 PM** - APPLICATIONS OPEN FOR COHORT 4 OF SDA TAP LAB – CATALYST CAMPUS MINI ACCELERATOR (spacenews)
 - **Jan 08, 10:29 PM** - NASA May Return Early From International Space Station After Medical Issue (nyt)
 - **Jan 08, 11:24 PM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
+- **Jan 08, 11:59 PM** - Grok for DoD and subs for North Korea: What you missed in defense over the break (breaking_defense)
