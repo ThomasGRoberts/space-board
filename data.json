@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-08T00:04:37.575501+00:00",
-    "trigger_count": 6,
-    "current_item_id": "60331ad5c205b96d2024c8f91706b7f3",
+    "trigger_count": 0,
+    "current_item_id": "bff4fb0ddf3d38269caa56f414f29d50",
     "data": [
         {
             "id": "0f78f0f1ee6a27704de5ea6cf82e0d7d",
@@ -11930,9 +11930,12 @@
             "source": "spacenews",
             "text": "The ‘space tax’ on your self-driving car",
             "source_link": "https://spacenews.com/the-space-tax-on-your-self-driving-car/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-01-08T14:09:00.083590Z"
+            "fetched_datetime": "2026-01-08T14:09:00.083590Z",
+            "shown_at": [
+                "2026-01-08T14:44:14.013230Z"
+            ]
         }
     ]
 }

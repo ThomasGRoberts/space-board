@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 14 | 24 |
-| spacenews | 7 | 14 | 16 | 34 |
+| spacenews | 7 | 14 | 17 | 35 |
 | nyt | 0 | 0 | 10 | 21 |
 
 # Shown Order
@@ -6385,3 +6385,4 @@
 - **Jan 08, 12:59 PM** - Medical issue could force early end of Crew-11 ISS mission (spacenews)
 - **Jan 08, 01:34 PM** - L3Harris hones DoD focus with sale of civil space propulsion unit (breaking_defense)
 - **Jan 08, 02:09 PM** - Vulcan to open 2026 with national security launch (spacenews)
+- **Jan 08, 02:44 PM** - The ‘space tax’ on your self-driving car (spacenews)
