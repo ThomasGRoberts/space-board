@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 1 | 12 | 24 |
-| spacenews | 7 | 11 | 17 | 32 |
+| breaking_defense | 1 | 1 | 13 | 25 |
+| spacenews | 7 | 11 | 16 | 32 |
 | nyt | 0 | 0 | 11 | 23 |
 
 # Shown Order
@@ -6371,3 +6371,4 @@
 - **Jan 08, 04:49 AM** - L3Harris to sell majority stake in space propulsion unit to AE Industrial (spacenews)
 - **Jan 08, 05:24 AM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
 - **Jan 08, 05:59 AM** - NASA continues to work toward February launch of Artemis 2 (spacenews)
+- **Jan 08, 06:34 AM** - Grok for DoD and subs for North Korea: What you missed in defense over the break (breaking_defense)
