@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 14 | 25 |
 | spacenews | 8 | 15 | 18 | 35 |
-| nyt | 1 | 1 | 8 | 20 |
+| nyt | 1 | 1 | 9 | 21 |
 
 # Shown Order
 
@@ -6394,3 +6394,4 @@
 - **Jan 08, 06:24 PM** - China holds the GPS advantage over the US. Here’s why, and how to solve it. (breaking_defense)
 - **Jan 08, 06:59 PM** - 2026 will clarify Europe’s new priorities for space (spacenews)
 - **Jan 08, 07:34 PM** - Roman Space Telescope on track for September launch (spacenews)
+- **Jan 08, 08:09 PM** - NASA May Return Early From International Space Station After Medical Issue (nyt)
