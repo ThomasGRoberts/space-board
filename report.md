@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 1 | 14 | 25 |
+| breaking_defense | 1 | 1 | 15 | 26 |
 | spacenews | 6 | 13 | 17 | 34 |
 | nyt | 0 | 0 | 9 | 20 |
 
@@ -6388,3 +6388,4 @@
 - **Jan 08, 02:44 PM** - The ‘space tax’ on your self-driving car (spacenews)
 - **Jan 08, 03:19 PM** - Grok for DoD and subs for North Korea: What you missed in defense over the break (breaking_defense)
 - **Jan 08, 03:54 PM** - L3Harris to sell majority stake in space propulsion unit to AE Industrial (spacenews)
+- **Jan 08, 04:29 PM** - Grok for DoD and subs for North Korea: What you missed in defense over the break (breaking_defense)
