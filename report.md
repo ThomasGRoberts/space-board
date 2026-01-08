@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 13 | 25 |
 | spacenews | 7 | 11 | 16 | 31 |
-| nyt | 0 | 0 | 11 | 23 |
+| nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
 
@@ -6375,3 +6375,4 @@
 - **Jan 08, 07:09 AM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
 - **Jan 08, 07:44 AM** - Space cyber compliance: managing requirements for today and tomorrow (spacenews)
 - **Jan 08, 08:19 AM** - US-European relations will define the next year: 2026 preview (breaking_defense)
+- **Jan 08, 08:54 AM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
