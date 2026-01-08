@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-08T00:04:37.575501+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6512fcf1c990076a5108036ccf27524c",
+    "trigger_count": 0,
+    "current_item_id": "f85a5d32a6cd32a1012e255b1374464c",
     "data": [
         {
             "id": "0f78f0f1ee6a27704de5ea6cf82e0d7d",
@@ -11864,6 +11864,18 @@
                 "2025-08-04T09:27:41.838491Z",
                 "2025-08-04T13:47:56.512278Z",
                 "2025-08-04T19:09:29.370306Z"
+            ]
+        },
+        {
+            "id": "f85a5d32a6cd32a1012e255b1374464c",
+            "source": "spacenews",
+            "text": "NASA continues to work toward February launch of Artemis 2",
+            "source_link": "https://spacenews.com/nasa-continues-to-work-toward-february-launch-of-artemis-2/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-08T05:59:17.716689Z",
+            "shown_at": [
+                "2026-01-08T05:59:18.474415Z"
             ]
         }
     ]
