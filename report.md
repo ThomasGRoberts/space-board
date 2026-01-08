@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 2 | 12 | 25 |
+| breaking_defense | 1 | 2 | 13 | 26 |
 | spacenews | 6 | 10 | 16 | 31 |
 | nyt | 0 | 0 | 11 | 23 |
 
@@ -6364,3 +6364,4 @@
 - **Jan 08, 12:39 AM** - Service acquisition leaders: Why this time will be different for defense acquisition (breaking_defense)
 - **Jan 08, 01:14 AM** - SpaceX, China drive new record for orbital launches in 2025 (spacenews)
 - **Jan 08, 01:49 AM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
+- **Jan 08, 02:24 AM** - Service acquisition leaders: Why this time will be different for defense acquisition (breaking_defense)
