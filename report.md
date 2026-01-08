@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 12 | 25 |
 | spacenews | 6 | 10 | 16 | 31 |
-| nyt | 0 | 0 | 11 | 22 |
+| nyt | 0 | 0 | 12 | 23 |
 
 # Shown Order
 
@@ -6363,3 +6363,4 @@
 - **Jan 08, 12:04 AM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
 - **Jan 08, 12:39 AM** - Service acquisition leaders: Why this time will be different for defense acquisition (breaking_defense)
 - **Jan 08, 01:14 AM** - SpaceX, China drive new record for orbital launches in 2025 (spacenews)
+- **Jan 08, 01:49 AM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
