@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 2 | 13 | 25 |
+| breaking_defense | 2 | 2 | 14 | 26 |
 | spacenews | 8 | 15 | 18 | 34 |
 | nyt | 1 | 1 | 9 | 21 |
 
@@ -6395,3 +6395,4 @@
 - **Jan 08, 06:59 PM** - 2026 will clarify Europe’s new priorities for space (spacenews)
 - **Jan 08, 07:34 PM** - Roman Space Telescope on track for September launch (spacenews)
 - **Jan 08, 08:09 PM** - NASA May Return Early From International Space Station After Medical Issue (nyt)
+- **Jan 08, 08:44 PM** - Grok for DoD and subs for North Korea: What you missed in defense over the break (breaking_defense)
