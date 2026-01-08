@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-08T00:04:37.575501+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0b0faf03a0803943accf6e1e8794a8f2",
+    "trigger_count": 0,
+    "current_item_id": "a830f3e2d8c60b2af80141054e812239",
     "data": [
         {
             "id": "0f78f0f1ee6a27704de5ea6cf82e0d7d",
@@ -11898,6 +11898,18 @@
             "fetched_datetime": "2026-01-08T12:24:32.375082Z",
             "shown_at": [
                 "2026-01-08T12:24:33.225328Z"
+            ]
+        },
+        {
+            "id": "a830f3e2d8c60b2af80141054e812239",
+            "source": "spacenews",
+            "text": "Medical issue could force early end of Crew-11 ISS mission",
+            "source_link": "https://spacenews.com/medical-issue-could-force-early-end-of-crew-11-iss-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-08T12:59:07.248032Z",
+            "shown_at": [
+                "2026-01-08T12:59:07.863647Z"
             ]
         }
     ]
