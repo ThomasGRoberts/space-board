@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 14 | 26 |
-| spacenews | 7 | 14 | 17 | 34 |
+| spacenews | 8 | 15 | 18 | 35 |
 | nyt | 1 | 1 | 9 | 20 |
 
 # Shown Order
@@ -6393,3 +6393,4 @@
 - **Jan 08, 05:45 PM** - Private group unveils plans for large space telescope (spacenews)
 - **Jan 08, 06:24 PM** - China holds the GPS advantage over the US. Here’s why, and how to solve it. (breaking_defense)
 - **Jan 08, 06:59 PM** - 2026 will clarify Europe’s new priorities for space (spacenews)
+- **Jan 08, 07:34 PM** - Roman Space Telescope on track for September launch (spacenews)
