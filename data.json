@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-08T00:04:37.575501+00:00",
-    "trigger_count": 6,
-    "current_item_id": "79e1e6e29d5c062a2b184cba02c56afc",
+    "trigger_count": 0,
+    "current_item_id": "5a6008158863c1593ef29fea2717dc20",
     "data": [
         {
             "id": "0f78f0f1ee6a27704de5ea6cf82e0d7d",
@@ -11969,9 +11969,12 @@
             "source": "spacenews",
             "text": "2026 will clarify Europe’s new priorities for space",
             "source_link": "https://spacenews.com/2026-will-clarify-europes-new-priorities-for-space/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-01-08T17:45:11.348746Z"
+            "fetched_datetime": "2026-01-08T17:45:11.348746Z",
+            "shown_at": [
+                "2026-01-08T18:59:43.532213Z"
+            ]
         },
         {
             "id": "79e1e6e29d5c062a2b184cba02c56afc",
