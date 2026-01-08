@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 12 | 25 |
 | spacenews | 6 | 10 | 16 | 31 |
-| nyt | 0 | 0 | 11 | 23 |
+| nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
 
@@ -6366,3 +6366,4 @@
 - **Jan 08, 01:49 AM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
 - **Jan 08, 02:24 AM** - Service acquisition leaders: Why this time will be different for defense acquisition (breaking_defense)
 - **Jan 08, 02:59 AM** - Terran Orbital Selected by Lockheed Martin to Provide Satellite Buses for SDA’s Tranche 3 Tracking Layer (spacenews)
+- **Jan 08, 03:34 AM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
