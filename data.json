@@ -1,9 +1,107 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-01-07T00:04:36.287312+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c570aa1519a1bd7d52e8d9b0adec7c65",
+    "last_run_datetime": "2026-01-08T00:04:37.575501+00:00",
+    "trigger_count": 0,
+    "current_item_id": "6512fcf1c990076a5108036ccf27524c",
     "data": [
+        {
+            "id": "0f78f0f1ee6a27704de5ea6cf82e0d7d",
+            "source": "breaking_defense",
+            "text": "‘Overwatch’ from space, cyber ops foundational to Maduro mission",
+            "source_link": "https://breakingdefense.com/2026/01/overwatch-from-space-cyber-ops-foundational-to-maduro-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-07T20:58:59.314449Z",
+            "shown_at": [
+                "2026-01-07T20:59:00.077641Z"
+            ]
+        },
+        {
+            "id": "2d0439cc78e5931109ad00369e10f75f",
+            "source": "spacenews",
+            "text": "Terran Orbital Appoints Michael Vishion as Vice President of Program Management",
+            "source_link": "https://spacenews.com/terran-orbital-appoints-michael-vishion-as-vice-president-of-program-management/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-07T17:19:44.201223Z",
+            "shown_at": [
+                "2026-01-07T17:19:45.243825Z",
+                "2026-01-07T19:09:13.273056Z"
+            ]
+        },
+        {
+            "id": "696a1018e81c14b7285e57337fc63ef8",
+            "source": "spacenews",
+            "text": "Space Force moves to standardize satellites with ‘Handle 2.0’ contract",
+            "source_link": "https://spacenews.com/space-force-moves-to-standardize-satellites-with-handle-2-0-contract/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-07T15:34:24.752892Z",
+            "shown_at": [
+                "2026-01-07T15:34:25.489228Z"
+            ]
+        },
+        {
+            "id": "0496f5d097500a9029cd7484ff0c0841",
+            "source": "spacenews",
+            "text": "SpaceX’s IPO will make space investment far less niche",
+            "source_link": "https://spacenews.com/spacexs-ipo-will-make-space-investment-far-less-niche/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-07T14:24:21.451364Z",
+            "shown_at": [
+                "2026-01-07T14:24:22.271199Z"
+            ]
+        },
+        {
+            "id": "10e8546d9ae76c19dee5fcdb6e70779c",
+            "source": "spacenews",
+            "text": "NASA seeks to accelerate development of Habitable Worlds Observatory",
+            "source_link": "https://spacenews.com/nasa-seeks-to-accelerate-development-of-habitable-worlds-observatory/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-07T13:49:52.852684Z",
+            "shown_at": [
+                "2026-01-07T13:49:53.763132Z"
+            ]
+        },
+        {
+            "id": "a742d4157b0b4a5501baf9aaa0fa80a8",
+            "source": "spacenews",
+            "text": "2026 Outlook: Can Acquisition Reform Deliver for Military Space?",
+            "source_link": "https://spacenews.com/the-pentagon-will-feel-the-pressure-to-finally-realize-commercial-first/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-07T12:34:10.266275Z",
+            "shown_at": [
+                "2026-01-07T13:08:54.392047Z"
+            ]
+        },
+        {
+            "id": "46237a214997ad204e43083d010d465f",
+            "source": "spacenews",
+            "text": "SkyFi expands virtual constellation with Vantor satellite imagery",
+            "source_link": "https://spacenews.com/skyfi-expands-virtual-constellation-with-vantor-satellite-imagery/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-07T12:34:10.266198Z",
+            "shown_at": [
+                "2026-01-07T12:34:10.849348Z"
+            ]
+        },
+        {
+            "id": "93d3ed05925a5383567218918f4601f9",
+            "source": "spacenews",
+            "text": "NASA works to extend Swift’s life ahead of reboost mission",
+            "source_link": "https://spacenews.com/nasa-works-to-extend-swifts-life-ahead-of-reboost-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-07T00:59:11.449200Z",
+            "shown_at": [
+                "2026-01-07T00:59:12.100120Z",
+                "2026-01-07T06:29:20.945297Z"
+            ]
+        },
         {
             "id": "370ee09ca15b70cbf755084585f89962",
             "source": "spacenews",
@@ -338,7 +436,8 @@
                 "2026-01-07T16:09:08.039423Z",
                 "2026-01-07T17:55:28.811059Z",
                 "2026-01-07T19:44:10.677104Z",
-                "2026-01-07T22:09:14.382270Z"
+                "2026-01-07T22:09:14.382270Z",
+                "2026-01-08T00:04:43.208056Z"
             ]
         },
         {
@@ -11756,227 +11855,6 @@
                 "2025-08-04T09:27:41.838491Z",
                 "2025-08-04T13:47:56.512278Z",
                 "2025-08-04T19:09:29.370306Z"
-            ]
-        },
-        {
-            "id": "f16859df8e74d28da5072293c6de6cee",
-            "source": "spacenews",
-            "text": "House appropriators want TraCSS to rely more on Defense Department",
-            "source_link": "https://spacenews.com/house-appropriators-want-tracss-to-rely-more-on-defense-department/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-28T17:59:31.033747Z",
-            "shown_at": [
-                "2025-07-28T17:59:31.657204Z",
-                "2025-08-03T15:41:40.945361Z",
-                "2025-08-04T17:17:46.702896Z"
-            ]
-        },
-        {
-            "id": "5a7a01c70870d5c7e0a988c995f87570",
-            "source": "spacenews",
-            "text": "U.S. military X-37B spaceplane prepares for eighth mission ",
-            "source_link": "https://spacenews.com/u-s-military-x-37b-spaceplane-prepares-for-eighth-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-28T17:45:31.224259Z",
-            "shown_at": [
-                "2025-07-28T17:45:31.805602Z",
-                "2025-07-31T01:49:44.744441Z",
-                "2025-08-02T10:39:52.345860Z",
-                "2025-08-02T18:17:37.827004Z",
-                "2025-08-03T08:49:40.804355Z"
-            ]
-        },
-        {
-            "id": "cc8e775408567391a2489af6f687f5bd",
-            "source": "spacenews",
-            "text": "Sleepwalking into risk: managing traffic above 60,000 feet",
-            "source_link": "https://spacenews.com/sleepwalking-into-risk-managing-traffic-above-60000-feet/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-28T13:11:45.087669Z",
-            "shown_at": [
-                "2025-07-28T13:11:46.387705Z",
-                "2025-07-28T15:05:46.527898Z",
-                "2025-07-28T20:49:35.970140Z",
-                "2025-07-30T15:09:49.469036Z",
-                "2025-08-03T10:43:45.412680Z"
-            ]
-        },
-        {
-            "id": "5c13ac1b600220db2e6aa3627b685dbb",
-            "source": "spacenews",
-            "text": "China adds new satellites to Guowang constellation, eyes accelerated launch rate",
-            "source_link": "https://spacenews.com/china-adds-new-satellites-to-guowang-constellation-eyes-accelerated-launch-rate/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-28T11:15:26.051014Z",
-            "shown_at": [
-                "2025-07-28T11:15:26.556855Z",
-                "2025-07-28T22:01:58.387608Z",
-                "2025-07-29T16:05:47.557654Z"
-            ]
-        },
-        {
-            "id": "61964b0b73c77d66d7693c1362ee742a",
-            "source": "spacenews",
-            "text": "ULA tempers expectations for 2025 launch volume amid transition to Vulcan-centric fleet",
-            "source_link": "https://spacenews.com/ula-tempers-expectations-for-2025-launch-volume-amid-transition-to-vulcan-centric-fleet/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-27T09:31:53.060575Z",
-            "shown_at": [
-                "2025-07-27T09:31:53.649996Z",
-                "2025-07-27T22:51:56.633795Z",
-                "2025-07-28T19:53:38.835125Z",
-                "2025-07-30T19:47:30.092329Z",
-                "2025-08-01T18:39:34.256033Z",
-                "2025-08-02T01:13:31.555417Z"
-            ]
-        },
-        {
-            "id": "8ca3b32dd1587aee15dc9b7a22356e5f",
-            "source": "spacenews",
-            "text": "Vega launches Earth science, imaging spacecraft",
-            "source_link": "https://spacenews.com/vega-launches-earth-science-imaging-spacecraft/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-27T00:31:43.955466Z",
-            "shown_at": [
-                "2025-07-27T00:31:44.598377Z",
-                "2025-07-27T08:05:54.888610Z",
-                "2025-07-28T04:35:50.530952Z",
-                "2025-07-29T17:17:45.703269Z"
-            ]
-        },
-        {
-            "id": "a493dd9188bb5d570f1fcbf6a9a554df",
-            "source": "spacenews",
-            "text": "Nearly 4,000 NASA employees opt for voluntary buyouts",
-            "source_link": "https://spacenews.com/nearly-4000-nasa-employees-opt-for-voluntary-buyouts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-26T23:49:28.687424Z",
-            "shown_at": [
-                "2025-07-26T23:49:29.192690Z",
-                "2025-07-27T15:07:37.614136Z",
-                "2025-07-28T06:33:43.157121Z",
-                "2025-08-02T04:57:41.231647Z",
-                "2025-08-02T16:23:38.223453Z",
-                "2025-08-02T23:15:30.203497Z"
-            ]
-        },
-        {
-            "id": "f030d39a6877756b16fc6a6693595cc3",
-            "source": "spacenews",
-            "text": "Head of NOAA satellite office placed on administrative leave",
-            "source_link": "https://spacenews.com/head-of-noaa-satellite-office-placed-on-administrative-leave/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-26T21:41:40.669604Z",
-            "shown_at": [
-                "2025-07-26T21:41:41.342607Z",
-                "2025-07-29T20:11:50.037351Z",
-                "2025-08-02T02:09:29.611746Z"
-            ]
-        },
-        {
-            "id": "93d3ed05925a5383567218918f4601f9",
-            "source": "spacenews",
-            "text": "NASA works to extend Swift’s life ahead of reboost mission",
-            "source_link": "https://spacenews.com/nasa-works-to-extend-swifts-life-ahead-of-reboost-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-07T00:59:11.449200Z",
-            "shown_at": [
-                "2026-01-07T00:59:12.100120Z",
-                "2026-01-07T06:29:20.945297Z"
-            ]
-        },
-        {
-            "id": "46237a214997ad204e43083d010d465f",
-            "source": "spacenews",
-            "text": "SkyFi expands virtual constellation with Vantor satellite imagery",
-            "source_link": "https://spacenews.com/skyfi-expands-virtual-constellation-with-vantor-satellite-imagery/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-07T12:34:10.266198Z",
-            "shown_at": [
-                "2026-01-07T12:34:10.849348Z"
-            ]
-        },
-        {
-            "id": "a742d4157b0b4a5501baf9aaa0fa80a8",
-            "source": "spacenews",
-            "text": "2026 Outlook: Can Acquisition Reform Deliver for Military Space?",
-            "source_link": "https://spacenews.com/the-pentagon-will-feel-the-pressure-to-finally-realize-commercial-first/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-07T12:34:10.266275Z",
-            "shown_at": [
-                "2026-01-07T13:08:54.392047Z"
-            ]
-        },
-        {
-            "id": "10e8546d9ae76c19dee5fcdb6e70779c",
-            "source": "spacenews",
-            "text": "NASA seeks to accelerate development of Habitable Worlds Observatory",
-            "source_link": "https://spacenews.com/nasa-seeks-to-accelerate-development-of-habitable-worlds-observatory/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-07T13:49:52.852684Z",
-            "shown_at": [
-                "2026-01-07T13:49:53.763132Z"
-            ]
-        },
-        {
-            "id": "0496f5d097500a9029cd7484ff0c0841",
-            "source": "spacenews",
-            "text": "SpaceX’s IPO will make space investment far less niche",
-            "source_link": "https://spacenews.com/spacexs-ipo-will-make-space-investment-far-less-niche/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-07T14:24:21.451364Z",
-            "shown_at": [
-                "2026-01-07T14:24:22.271199Z"
-            ]
-        },
-        {
-            "id": "696a1018e81c14b7285e57337fc63ef8",
-            "source": "spacenews",
-            "text": "Space Force moves to standardize satellites with ‘Handle 2.0’ contract",
-            "source_link": "https://spacenews.com/space-force-moves-to-standardize-satellites-with-handle-2-0-contract/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-07T15:34:24.752892Z",
-            "shown_at": [
-                "2026-01-07T15:34:25.489228Z"
-            ]
-        },
-        {
-            "id": "2d0439cc78e5931109ad00369e10f75f",
-            "source": "spacenews",
-            "text": "Terran Orbital Appoints Michael Vishion as Vice President of Program Management",
-            "source_link": "https://spacenews.com/terran-orbital-appoints-michael-vishion-as-vice-president-of-program-management/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-07T17:19:44.201223Z",
-            "shown_at": [
-                "2026-01-07T17:19:45.243825Z",
-                "2026-01-07T19:09:13.273056Z"
-            ]
-        },
-        {
-            "id": "0f78f0f1ee6a27704de5ea6cf82e0d7d",
-            "source": "breaking_defense",
-            "text": "‘Overwatch’ from space, cyber ops foundational to Maduro mission",
-            "source_link": "https://breakingdefense.com/2026/01/overwatch-from-space-cyber-ops-foundational-to-maduro-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-07T20:58:59.314449Z",
-            "shown_at": [
-                "2026-01-07T20:59:00.077641Z"
             ]
         }
     ]
