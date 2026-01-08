@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 13 | 25 |
-| spacenews | 6 | 10 | 15 | 30 |
+| spacenews | 6 | 10 | 16 | 31 |
 | nyt | 0 | 0 | 11 | 22 |
 
 # Shown Order
@@ -6362,3 +6362,4 @@
 - **Jan 07, 11:19 PM** - SpaceX to lower orbits of some Starlink satellites (spacenews)
 - **Jan 08, 12:04 AM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
 - **Jan 08, 12:39 AM** - Service acquisition leaders: Why this time will be different for defense acquisition (breaking_defense)
+- **Jan 08, 01:14 AM** - SpaceX, China drive new record for orbital launches in 2025 (spacenews)
