@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 1 | 12 | 24 |
-| spacenews | 7 | 11 | 17 | 32 |
+| breaking_defense | 1 | 1 | 13 | 25 |
+| spacenews | 7 | 11 | 16 | 32 |
 | nyt | 0 | 0 | 11 | 23 |
 
 # Shown Order
@@ -6374,3 +6374,4 @@
 - **Jan 08, 06:34 AM** - Grok for DoD and subs for North Korea: What you missed in defense over the break (breaking_defense)
 - **Jan 08, 07:09 AM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
 - **Jan 08, 07:44 AM** - Space cyber compliance: managing requirements for today and tomorrow (spacenews)
+- **Jan 08, 08:19 AM** - US-European relations will define the next year: 2026 preview (breaking_defense)
