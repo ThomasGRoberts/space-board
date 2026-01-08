@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 13 | 25 |
-| spacenews | 6 | 10 | 15 | 31 |
+| spacenews | 6 | 10 | 16 | 32 |
 | nyt | 0 | 0 | 11 | 23 |
 
 # Shown Order
@@ -6368,3 +6368,4 @@
 - **Jan 08, 02:59 AM** - Terran Orbital Selected by Lockheed Martin to Provide Satellite Buses for SDA’s Tranche 3 Tracking Layer (spacenews)
 - **Jan 08, 03:34 AM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
 - **Jan 08, 04:09 AM** - Service acquisition leaders: Why this time will be different for defense acquisition (breaking_defense)
+- **Jan 08, 04:49 AM** - L3Harris to sell majority stake in space propulsion unit to AE Industrial (spacenews)
