@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 1 | 13 | 24 |
+| breaking_defense | 1 | 1 | 14 | 25 |
 | spacenews | 7 | 14 | 17 | 34 |
 | nyt | 0 | 0 | 10 | 21 |
 
@@ -6386,3 +6386,4 @@
 - **Jan 08, 01:34 PM** - L3Harris hones DoD focus with sale of civil space propulsion unit (breaking_defense)
 - **Jan 08, 02:09 PM** - Vulcan to open 2026 with national security launch (spacenews)
 - **Jan 08, 02:44 PM** - The ‘space tax’ on your self-driving car (spacenews)
+- **Jan 08, 03:19 PM** - Grok for DoD and subs for North Korea: What you missed in defense over the break (breaking_defense)
