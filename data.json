@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-08T00:04:37.575501+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1015c59b68cd81eca1fac22e2a7801ae",
+    "trigger_count": 0,
+    "current_item_id": "ad4cac486bc6f2e7f99ec0739042b443",
     "data": [
         {
             "id": "0f78f0f1ee6a27704de5ea6cf82e0d7d",
@@ -11938,6 +11938,18 @@
             "fetched_datetime": "2026-01-08T14:09:00.083590Z",
             "shown_at": [
                 "2026-01-08T14:44:14.013230Z"
+            ]
+        },
+        {
+            "id": "ad4cac486bc6f2e7f99ec0739042b443",
+            "source": "nyt",
+            "text": "NASA May Return Early From International Space Station After Medical Issue",
+            "source_link": "https://www.nytimes.com/2026/01/08/science/space/nasa-astronaut-medical-problem.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-08T17:05:07.318010Z",
+            "shown_at": [
+                "2026-01-08T17:05:08.630791Z"
             ]
         }
     ]

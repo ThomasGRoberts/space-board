@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 14 | 26 |
 | spacenews | 6 | 13 | 17 | 34 |
-| nyt | 0 | 0 | 9 | 20 |
+| nyt | 1 | 1 | 10 | 21 |
 
 # Shown Order
 
@@ -6389,3 +6389,4 @@
 - **Jan 08, 03:19 PM** - Grok for DoD and subs for North Korea: What you missed in defense over the break (breaking_defense)
 - **Jan 08, 03:54 PM** - L3Harris to sell majority stake in space propulsion unit to AE Industrial (spacenews)
 - **Jan 08, 04:29 PM** - Grok for DoD and subs for North Korea: What you missed in defense over the break (breaking_defense)
+- **Jan 08, 05:05 PM** - NASA May Return Early From International Space Station After Medical Issue (nyt)
