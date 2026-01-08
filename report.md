@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 13 | 25 |
-| spacenews | 7 | 11 | 16 | 31 |
+| spacenews | 7 | 11 | 17 | 32 |
 | nyt | 0 | 0 | 11 | 23 |
 
 # Shown Order
@@ -6378,3 +6378,4 @@
 - **Jan 08, 08:54 AM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
 - **Jan 08, 09:29 AM** - New Spanish communications satellite suffers ‘space particle’ impact (spacenews)
 - **Jan 08, 10:04 AM** - Service acquisition leaders: Why this time will be different for defense acquisition (breaking_defense)
+- **Jan 08, 10:39 AM** - Space cyber compliance: managing requirements for today and tomorrow (spacenews)
