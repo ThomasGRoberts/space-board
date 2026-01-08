@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 13 | 25 |
 | spacenews | 9 | 16 | 19 | 35 |
-| nyt | 1 | 1 | 8 | 20 |
+| nyt | 1 | 1 | 9 | 21 |
 
 # Shown Order
 
@@ -6398,3 +6398,4 @@
 - **Jan 08, 08:44 PM** - Grok for DoD and subs for North Korea: What you missed in defense over the break (breaking_defense)
 - **Jan 08, 09:19 PM** - Private group unveils plans for large space telescope (spacenews)
 - **Jan 08, 09:54 PM** - APPLICATIONS OPEN FOR COHORT 4 OF SDA TAP LAB – CATALYST CAMPUS MINI ACCELERATOR (spacenews)
+- **Jan 08, 10:29 PM** - NASA May Return Early From International Space Station After Medical Issue (nyt)
