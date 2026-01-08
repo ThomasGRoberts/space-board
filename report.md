@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 12 | 24 |
-| spacenews | 7 | 11 | 16 | 31 |
+| spacenews | 7 | 11 | 17 | 32 |
 | nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
@@ -6376,3 +6376,4 @@
 - **Jan 08, 07:44 AM** - Space cyber compliance: managing requirements for today and tomorrow (spacenews)
 - **Jan 08, 08:19 AM** - US-European relations will define the next year: 2026 preview (breaking_defense)
 - **Jan 08, 08:54 AM** - Even the Sky May Not Be the Limit for A.I. Data Centers (nyt)
+- **Jan 08, 09:29 AM** - New Spanish communications satellite suffers ‘space particle’ impact (spacenews)
