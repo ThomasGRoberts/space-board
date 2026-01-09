@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 3 | 9 | 20 |
+| nyt | 3 | 3 | 10 | 21 |
 | spacenews | 8 | 15 | 18 | 34 |
-| breaking_defense | 1 | 2 | 13 | 25 |
+| breaking_defense | 1 | 2 | 12 | 25 |
 
 # Shown Order
 
@@ -6234,3 +6234,4 @@
 - **Jan 09, 06:34 AM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
 - **Jan 09, 07:09 AM** - ‘Overwatch’ from space, cyber ops foundational to Maduro mission (breaking_defense)
 - **Jan 09, 07:49 AM** - China’s astronauts complete cave training amid preparations for moon missions (spacenews)
+- **Jan 09, 08:24 AM** - NASA May Return Early From International Space Station After Medical Issue (nyt)
