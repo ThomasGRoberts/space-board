@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 9 | 20 |
-| spacenews | 9 | 15 | 19 | 34 |
+| nyt | 3 | 3 | 10 | 21 |
+| spacenews | 9 | 15 | 18 | 34 |
 | breaking_defense | 1 | 2 | 12 | 25 |
 
 # Shown Order
@@ -6222,3 +6222,4 @@
 - **Jan 08, 11:24 PM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
 - **Jan 08, 11:59 PM** - Grok for DoD and subs for North Korea: What you missed in defense over the break (breaking_defense)
 - **Jan 09, 12:34 AM** - ARCHE ORBITAL SYSTEMS Signs Strategic MoU with MSRO to Advance National Space Capabilities for the Maldives (spacenews)
+- **Jan 09, 01:14 AM** - Scientists Discover Cloud-9, a Starless ‘Galaxy That Wasn’t’ (nyt)
