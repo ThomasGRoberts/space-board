@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 9 | 20 |
-| spacenews | 9 | 15 | 18 | 34 |
-| breaking_defense | 1 | 2 | 13 | 25 |
+| spacenews | 9 | 15 | 19 | 35 |
+| breaking_defense | 1 | 2 | 12 | 25 |
 
 # Shown Order
 
@@ -6224,3 +6224,4 @@
 - **Jan 09, 12:34 AM** - ARCHE ORBITAL SYSTEMS Signs Strategic MoU with MSRO to Advance National Space Capabilities for the Maldives (spacenews)
 - **Jan 09, 01:14 AM** - Scientists Discover Cloud-9, a Starless ‘Galaxy That Wasn’t’ (nyt)
 - **Jan 09, 01:49 AM** - The year that was and the year that will be, according to our reporters (breaking_defense)
+- **Jan 09, 02:24 AM** - Eartheye Space reveals contract with Asia-Pacific customer (spacenews)
