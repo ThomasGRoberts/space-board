@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-09T00:04:30.839160+00:00",
-    "trigger_count": 6,
-    "current_item_id": "974267a0d87a1ade1f90e6db3ff4d518",
+    "trigger_count": 0,
+    "current_item_id": "8c8524e4e90258061eb826533bb13f14",
     "data": [
         {
             "id": "16e19aeaa65c5f54640a4632a1e017b2",
@@ -11759,6 +11759,15 @@
             "shown_at": [
                 "2026-01-09T11:24:12.962314Z"
             ]
+        },
+        {
+            "id": "8c8524e4e90258061eb826533bb13f14",
+            "source": "spacenews",
+            "text": "The U.S. will seize space leadership – or China will take it",
+            "source_link": "https://spacenews.com/the-u-s-will-seize-space-leadership-or-china-will-take-it/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-01-09T13:14:15.873498Z"
         }
     ]
 }
