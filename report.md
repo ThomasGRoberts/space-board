@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 10 | 21 |
 | spacenews | 8 | 15 | 17 | 34 |
-| breaking_defense | 1 | 2 | 12 | 25 |
+| breaking_defense | 1 | 2 | 13 | 25 |
 
 # Shown Order
 
@@ -6238,3 +6238,4 @@
 - **Jan 09, 09:00 AM** - US-European relations will define the next year: 2026 preview (breaking_defense)
 - **Jan 09, 09:34 AM** - ARCHE ORBITAL SYSTEMS Signs Strategic MoU with MSRO to Advance National Space Capabilities for the Maldives (spacenews)
 - **Jan 09, 10:14 AM** - NASA May Return Early From International Space Station After Medical Issue (nyt)
+- **Jan 09, 10:49 AM** - US-European relations will define the next year: 2026 preview (breaking_defense)
