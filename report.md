@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 9 | 21 |
-| spacenews | 8 | 15 | 17 | 34 |
+| spacenews | 8 | 15 | 18 | 35 |
 | breaking_defense | 1 | 2 | 13 | 25 |
 
 # Shown Order
@@ -6236,3 +6236,4 @@
 - **Jan 09, 07:49 AM** - China’s astronauts complete cave training amid preparations for moon missions (spacenews)
 - **Jan 09, 08:24 AM** - NASA May Return Early From International Space Station After Medical Issue (nyt)
 - **Jan 09, 09:00 AM** - US-European relations will define the next year: 2026 preview (breaking_defense)
+- **Jan 09, 09:34 AM** - ARCHE ORBITAL SYSTEMS Signs Strategic MoU with MSRO to Advance National Space Capabilities for the Maldives (spacenews)
