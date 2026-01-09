@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 11 | 21 |
-| spacenews | 8 | 16 | 16 | 34 |
-| breaking_defense | 1 | 2 | 12 | 25 |
+| spacenews | 8 | 14 | 16 | 33 |
+| breaking_defense | 1 | 2 | 13 | 26 |
 
 # Shown Order
 
@@ -6241,3 +6241,4 @@
 - **Jan 09, 10:49 AM** - US-European relations will define the next year: 2026 preview (breaking_defense)
 - **Jan 09, 11:24 AM** - Rhea Space Activity applies optical navigation to military rendezvous missions (spacenews)
 - **Jan 09, 11:59 AM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
+- **Jan 09, 12:35 PM** - The year that was and the year that will be, according to our reporters (breaking_defense)
