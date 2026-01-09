@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 10 | 21 |
 | spacenews | 9 | 15 | 18 | 34 |
-| breaking_defense | 1 | 2 | 12 | 24 |
+| breaking_defense | 1 | 2 | 13 | 25 |
 
 # Shown Order
 
@@ -6223,3 +6223,4 @@
 - **Jan 08, 11:59 PM** - Grok for DoD and subs for North Korea: What you missed in defense over the break (breaking_defense)
 - **Jan 09, 12:34 AM** - ARCHE ORBITAL SYSTEMS Signs Strategic MoU with MSRO to Advance National Space Capabilities for the Maldives (spacenews)
 - **Jan 09, 01:14 AM** - Scientists Discover Cloud-9, a Starless ‘Galaxy That Wasn’t’ (nyt)
+- **Jan 09, 01:49 AM** - The year that was and the year that will be, according to our reporters (breaking_defense)
