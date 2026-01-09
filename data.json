@@ -1,9 +1,156 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-01-08T00:04:37.575501+00:00",
-    "trigger_count": 0,
+    "last_run_datetime": "2026-01-09T00:04:30.839160+00:00",
+    "trigger_count": 1,
     "current_item_id": "1015c59b68cd81eca1fac22e2a7801ae",
     "data": [
+        {
+            "id": "16e19aeaa65c5f54640a4632a1e017b2",
+            "source": "nyt",
+            "text": "NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue",
+            "source_link": "https://www.nytimes.com/2026/01/08/science/nasa-astronaut-medical-problem.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-08T23:24:11.763291Z",
+            "shown_at": [
+                "2026-01-08T23:24:12.431864Z"
+            ]
+        },
+        {
+            "id": "6d304e8b4e5cf99241ffb755d712de69",
+            "source": "spacenews",
+            "text": "APPLICATIONS OPEN FOR COHORT 4 OF SDA TAP LAB – CATALYST CAMPUS MINI ACCELERATOR",
+            "source_link": "https://spacenews.com/applications-open-for-cohort-4-of-sda-tap-lab-catalyst-campus-mini-accelerator/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-08T21:54:22.426739Z",
+            "shown_at": [
+                "2026-01-08T21:54:23.283682Z"
+            ]
+        },
+        {
+            "id": "8ef2adec57c43802daf816744391d784",
+            "source": "spacenews",
+            "text": "Roman Space Telescope on track for September launch",
+            "source_link": "https://spacenews.com/roman-space-telescope-on-track-for-september-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-08T19:34:24.655749Z",
+            "shown_at": [
+                "2026-01-08T19:34:25.360288Z"
+            ]
+        },
+        {
+            "id": "79e1e6e29d5c062a2b184cba02c56afc",
+            "source": "breaking_defense",
+            "text": "China holds the GPS advantage over the US. Here’s why, and how to solve it.",
+            "source_link": "https://breakingdefense.com/2026/01/china-gps-advantage-taiwan-altpnt/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-08T18:24:12.877319Z",
+            "shown_at": [
+                "2026-01-08T18:24:13.674861Z"
+            ]
+        },
+        {
+            "id": "5a6008158863c1593ef29fea2717dc20",
+            "source": "spacenews",
+            "text": "2026 will clarify Europe’s new priorities for space",
+            "source_link": "https://spacenews.com/2026-will-clarify-europes-new-priorities-for-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-08T17:45:11.348746Z",
+            "shown_at": [
+                "2026-01-08T18:59:43.532213Z"
+            ]
+        },
+        {
+            "id": "567cb14485d3c52f269bb5ddbdf6afb4",
+            "source": "spacenews",
+            "text": "Private group unveils plans for large space telescope",
+            "source_link": "https://spacenews.com/private-group-unveils-plans-for-large-space-telescope/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-08T17:45:11.348642Z",
+            "shown_at": [
+                "2026-01-08T17:45:12.303105Z",
+                "2026-01-08T21:19:05.614626Z"
+            ]
+        },
+        {
+            "id": "ad4cac486bc6f2e7f99ec0739042b443",
+            "source": "nyt",
+            "text": "NASA May Return Early From International Space Station After Medical Issue",
+            "source_link": "https://www.nytimes.com/2026/01/08/science/space/nasa-astronaut-medical-problem.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-08T17:05:07.318010Z",
+            "shown_at": [
+                "2026-01-08T17:05:08.630791Z",
+                "2026-01-08T20:09:18.786060Z",
+                "2026-01-08T22:29:01.402407Z"
+            ]
+        },
+        {
+            "id": "bff4fb0ddf3d38269caa56f414f29d50",
+            "source": "spacenews",
+            "text": "The ‘space tax’ on your self-driving car",
+            "source_link": "https://spacenews.com/the-space-tax-on-your-self-driving-car/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-08T14:09:00.083590Z",
+            "shown_at": [
+                "2026-01-08T14:44:14.013230Z"
+            ]
+        },
+        {
+            "id": "60331ad5c205b96d2024c8f91706b7f3",
+            "source": "spacenews",
+            "text": "Vulcan to open 2026 with national security launch",
+            "source_link": "https://spacenews.com/vulcan-to-open-2026-with-national-security-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-08T14:09:00.083532Z",
+            "shown_at": [
+                "2026-01-08T14:09:00.872540Z"
+            ]
+        },
+        {
+            "id": "a830f3e2d8c60b2af80141054e812239",
+            "source": "spacenews",
+            "text": "Medical issue could force early end of Crew-11 ISS mission",
+            "source_link": "https://spacenews.com/medical-issue-could-force-early-end-of-crew-11-iss-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-08T12:59:07.248032Z",
+            "shown_at": [
+                "2026-01-08T12:59:07.863647Z"
+            ]
+        },
+        {
+            "id": "0b0faf03a0803943accf6e1e8794a8f2",
+            "source": "spacenews",
+            "text": "Interplanetary science needs a commercial backbone",
+            "source_link": "https://spacenews.com/interplanetary-science-needs-a-commercial-backbone/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-08T12:24:32.375082Z",
+            "shown_at": [
+                "2026-01-08T12:24:33.225328Z"
+            ]
+        },
+        {
+            "id": "f85a5d32a6cd32a1012e255b1374464c",
+            "source": "spacenews",
+            "text": "NASA continues to work toward February launch of Artemis 2",
+            "source_link": "https://spacenews.com/nasa-continues-to-work-toward-february-launch-of-artemis-2/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-08T05:59:17.716689Z",
+            "shown_at": [
+                "2026-01-08T05:59:18.474415Z"
+            ]
+        },
         {
             "id": "0f78f0f1ee6a27704de5ea6cf82e0d7d",
             "source": "breaking_defense",
@@ -11568,465 +11715,6 @@
                 "2025-08-01T21:27:43.883660Z",
                 "2025-08-02T07:49:46.964810Z",
                 "2025-08-04T08:57:45.121660Z"
-            ]
-        },
-        {
-            "id": "c566cc9481d17020bbe3af154a49b714",
-            "source": "nyt",
-            "text": "The First Soda in Space: When NASA Got Caught Up in the Cola Wars",
-            "source_link": "https://www.nytimes.com/2025/07/29/science/coke-pepsi-nasa-space-shuttle.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-29T17:03:30.142782Z",
-            "shown_at": [
-                "2025-07-29T17:03:30.737961Z",
-                "2025-07-29T19:57:40.466635Z",
-                "2025-07-30T03:15:49.229251Z",
-                "2025-07-30T10:53:48.756801Z",
-                "2025-07-30T23:13:42.117707Z",
-                "2025-08-01T18:53:52.897591Z",
-                "2025-08-01T19:49:33.781167Z",
-                "2025-08-01T20:45:41.374467Z",
-                "2025-08-01T21:55:47.076984Z",
-                "2025-08-02T01:41:40.426264Z",
-                "2025-08-02T02:37:42.238861Z",
-                "2025-08-02T14:59:47.395294Z",
-                "2025-08-02T15:55:38.290208Z",
-                "2025-08-02T21:51:44.412216Z",
-                "2025-08-02T22:47:15.861406Z",
-                "2025-08-03T02:37:39.732284Z",
-                "2025-08-03T04:33:43.290482Z",
-                "2025-08-03T08:21:39.701448Z",
-                "2025-08-03T11:11:58.782865Z",
-                "2025-08-03T12:07:38.674471Z",
-                "2025-08-03T19:01:54.373083Z",
-                "2025-08-03T20:01:57.697717Z",
-                "2025-08-03T22:53:46.143179Z",
-                "2025-08-04T06:47:43.318565Z",
-                "2025-08-04T08:43:31.159743Z",
-                "2025-08-04T09:41:44.695797Z",
-                "2025-08-04T12:37:47.978463Z",
-                "2025-08-04T14:02:14.691007Z",
-                "2025-08-04T15:02:00.602481Z",
-                "2025-08-04T19:23:10.807635Z",
-                "2025-08-04T21:47:43.051289Z",
-                "2025-08-05T00:55:36.546865Z",
-                "2025-08-05T04:57:53.272260Z",
-                "2025-08-05T08:45:48.242455Z",
-                "2025-08-05T09:43:39.172599Z",
-                "2025-08-05T10:41:41.761404Z",
-                "2025-08-05T11:37:41.762129Z",
-                "2025-08-05T12:34:01.058891Z",
-                "2025-08-05T14:02:16.280131Z",
-                "2025-08-05T16:17:35.346625Z"
-            ]
-        },
-        {
-            "id": "442676294a603c504dfc3b803969acf8",
-            "source": "spacenews",
-            "text": "Frontgrade’s New Radiation-Tolerant, Scalable SpaceStor 4TB MMU Joins MAMBA Modular Space Systems Lineup",
-            "source_link": "https://spacenews.com/frontgrades-new-radiation-tolerant-scalable-spacestor-4tb-mmu-joins-mamba-modular-space-systems-lineup/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-29T15:07:30.188274Z",
-            "shown_at": [
-                "2025-07-29T15:07:30.871714Z",
-                "2025-07-30T07:19:46.529911Z",
-                "2025-08-02T00:17:45.821213Z"
-            ]
-        },
-        {
-            "id": "92ddd7cdd70f88b42c9cb475e1679c0e",
-            "source": "spacenews",
-            "text": "Frontgrade Unveils SBC-2A72 with 32GB NAND to Enable High-Performance Edge Computing in Air and Space Platforms",
-            "source_link": "https://spacenews.com/frontgrade-unveils-sbc-2a72-with-32gb-nand-to-enable-high-performance-edge-computing-in-air-and-space-platforms/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-29T14:53:34.440957Z",
-            "shown_at": [
-                "2025-07-29T14:53:35.169006Z",
-                "2025-07-30T22:29:35.659177Z",
-                "2025-08-02T17:19:38.280379Z",
-                "2025-08-04T01:17:34.424340Z",
-                "2025-08-05T08:03:52.300053Z"
-            ]
-        },
-        {
-            "id": "60fe1f67f3517915f6649498ea435a1d",
-            "source": "spacenews",
-            "text": "China’s iSpace returns to flight with successful orbital solid rocket launch ",
-            "source_link": "https://spacenews.com/chinas-ispace-returns-to-flight-with-successful-orbital-solid-rocket-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-29T13:37:42.352558Z",
-            "shown_at": [
-                "2025-07-29T13:37:42.966201Z"
-            ]
-        },
-        {
-            "id": "d8118b39ae7cb8e7377e7c9bc8d9ea57",
-            "source": "spacenews",
-            "text": "Slingshot unveils AI agent for Space Force training",
-            "source_link": "https://spacenews.com/slingshot-unveils-ai-agent-for-space-force-training/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-29T13:09:57.142973Z",
-            "shown_at": [
-                "2025-07-29T13:23:42.860605Z",
-                "2025-07-30T01:07:31.889423Z",
-                "2025-07-30T04:55:11.255915Z",
-                "2025-07-30T06:19:34.982715Z",
-                "2025-08-02T21:23:37.424963Z",
-                "2025-08-04T09:55:33.519588Z",
-                "2025-08-04T16:15:42.212106Z"
-            ]
-        },
-        {
-            "id": "0863551588beec614035334492fafcfa",
-            "source": "spacenews",
-            "text": "Canada awards study contracts for lunar utility rover",
-            "source_link": "https://spacenews.com/canada-awards-study-contracts-for-lunar-utility-rover/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-29T13:09:57.142919Z",
-            "shown_at": [
-                "2025-07-29T13:09:58.366440Z",
-                "2025-07-31T18:07:39.817934Z",
-                "2025-08-01T23:21:49.132083Z",
-                "2025-08-03T02:09:37.259173Z",
-                "2025-08-03T05:59:34.223998Z"
-            ]
-        },
-        {
-            "id": "b947f3bdd0f3b355246123266e8614f4",
-            "source": "spacenews",
-            "text": "NASA pauses acquisition of lunar communications ground stations",
-            "source_link": "https://spacenews.com/nasa-pauses-acquisition-of-lunar-communications-ground-stations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-29T11:55:33.019392Z",
-            "shown_at": [
-                "2025-07-29T11:55:34.055261Z",
-                "2025-07-30T03:02:02.064127Z",
-                "2025-07-30T11:07:29.229020Z",
-                "2025-08-01T19:35:36.493309Z",
-                "2025-08-02T06:51:58.462850Z"
-            ]
-        },
-        {
-            "id": "21ad848fa658c4426fee17ef9efa6d1b",
-            "source": "nyt",
-            "text": "How to Watch Twin Meteor Showers Peak on the Same Night",
-            "source_link": "https://www.nytimes.com/2025/07/29/science/meteor-shower-july-august-2025.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-29T09:15:42.166804Z",
-            "shown_at": [
-                "2025-07-29T09:15:43.889298Z",
-                "2025-07-29T11:13:45.927469Z",
-                "2025-07-30T02:19:37.997853Z",
-                "2025-07-30T05:09:52.014957Z",
-                "2025-07-30T14:39:50.278751Z",
-                "2025-07-30T15:37:41.219684Z",
-                "2025-07-30T16:53:31.371238Z",
-                "2025-07-30T17:53:31.826408Z",
-                "2025-07-30T21:13:41.446797Z",
-                "2025-07-30T22:15:54.219788Z",
-                "2025-07-31T00:11:49.749354Z",
-                "2025-07-31T01:21:56.390242Z",
-                "2025-08-02T08:17:51.084978Z",
-                "2025-08-02T09:14:09.666537Z",
-                "2025-08-02T10:11:50.030284Z",
-                "2025-08-02T12:07:50.872759Z",
-                "2025-08-02T13:07:51.917483Z",
-                "2025-08-02T17:47:51.173362Z",
-                "2025-08-02T18:45:55.232442Z",
-                "2025-08-02T20:55:49.323982Z",
-                "2025-08-03T00:42:11.539323Z",
-                "2025-08-03T01:39:34.689633Z",
-                "2025-08-03T06:27:04.630485Z",
-                "2025-08-03T07:23:41.358689Z",
-                "2025-08-03T09:17:46.001219Z",
-                "2025-08-03T10:13:43.234574Z",
-                "2025-08-03T15:13:28.981317Z",
-                "2025-08-03T16:09:36.609344Z",
-                "2025-08-03T17:09:46.720850Z",
-                "2025-08-03T21:57:34.356146Z",
-                "2025-08-04T00:49:47.846364Z",
-                "2025-08-04T02:42:06.577524Z",
-                "2025-08-04T03:39:37.986778Z",
-                "2025-08-04T04:49:48.017630Z",
-                "2025-08-04T16:01:59.559923Z",
-                "2025-08-04T16:59:39.308739Z",
-                "2025-08-04T18:27:45.145621Z",
-                "2025-08-04T22:45:32.017801Z",
-                "2025-08-05T01:53:50.250586Z",
-                "2025-08-05T05:55:41.511954Z",
-                "2025-08-05T06:51:43.423226Z",
-                "2025-08-05T07:49:38.064163Z"
-            ]
-        },
-        {
-            "id": "5ca86eb07a291ac3b1194917567f7e2d",
-            "source": "spacenews",
-            "text": "Qwaltec joins Leanspace Partner Ecosystem to Deliver Next-Gen Spacecraft Operations Solutions for the US Market",
-            "source_link": "https://spacenews.com/qwaltec-joins-leanspace-partner-ecosystem-to-deliver-next-gen-spacecraft-operations-solutions-for-the-us-market/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-29T08:05:40.435158Z",
-            "shown_at": [
-                "2025-07-29T08:05:41.093731Z",
-                "2025-07-29T18:15:36.788921Z",
-                "2025-08-02T14:32:04.046886Z",
-                "2025-08-04T10:55:29.240312Z"
-            ]
-        },
-        {
-            "id": "aced2f4f10e8c9e1faee675e0935519c",
-            "source": "nyt",
-            "text": "When Coke and Pepsi Fought for Soft Drink Supremacy in Space",
-            "source_link": "https://www.nytimes.com/2025/07/29/science/coke-pepsi-nasa-space-shuttle.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-29T06:23:44.934066Z",
-            "shown_at": [
-                "2025-07-29T06:23:45.673207Z",
-                "2025-07-29T07:22:01.742849Z",
-                "2025-07-29T10:15:20.166689Z",
-                "2025-07-29T12:13:39.073892Z",
-                "2025-07-29T16:19:42.756916Z",
-                "2025-07-29T17:59:42.108255Z",
-                "2025-07-29T18:59:52.677206Z",
-                "2025-07-29T21:09:46.780329Z",
-                "2025-07-29T23:35:46.320842Z",
-                "2025-07-30T00:25:55.355205Z",
-                "2025-07-30T01:23:39.284490Z",
-                "2025-07-30T19:05:45.793939Z",
-                "2025-07-31T17:25:48.247539Z",
-                "2025-07-31T18:22:51.310463Z",
-                "2025-08-01T17:57:43.544772Z",
-                "2025-08-01T22:51:39.345947Z",
-                "2025-08-01T23:49:36.535075Z",
-                "2025-08-02T00:45:22.877139Z",
-                "2025-08-02T03:33:52.004516Z",
-                "2025-08-02T04:29:30.641122Z",
-                "2025-08-02T05:25:14.579207Z",
-                "2025-08-02T06:21:32.505192Z",
-                "2025-08-02T07:21:42.327229Z",
-                "2025-08-02T11:07:50.550050Z",
-                "2025-08-02T14:03:41.745881Z",
-                "2025-08-02T16:51:42.830680Z",
-                "2025-08-02T19:57:32.657463Z",
-                "2025-08-02T23:43:12.434117Z",
-                "2025-08-03T03:33:31.886381Z",
-                "2025-08-03T05:32:04.440516Z",
-                "2025-08-03T14:13:32.420627Z",
-                "2025-08-03T18:05:29.813386Z",
-                "2025-08-03T20:57:29.369118Z",
-                "2025-08-03T23:51:50.418712Z",
-                "2025-08-04T01:45:35.576647Z",
-                "2025-08-04T07:47:49.154772Z",
-                "2025-08-04T10:41:45.646896Z",
-                "2025-08-04T11:39:40.158827Z",
-                "2025-08-04T20:21:49.164548Z",
-                "2025-08-04T23:55:50.062400Z",
-                "2025-08-05T02:49:43.867870Z"
-            ]
-        },
-        {
-            "id": "2a5993099e74b5240e9f4d480d0e19d8",
-            "source": "spacenews",
-            "text": "SmallSat heads to Salt Lake City as audience expands",
-            "source_link": "https://spacenews.com/smallsat-heads-to-salt-lake-city-as-audience-expands/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-28T23:13:56.457331Z",
-            "shown_at": [
-                "2025-07-28T23:13:57.891023Z",
-                "2025-07-29T00:09:41.850926Z",
-                "2025-07-29T06:53:41.837454Z",
-                "2025-07-29T14:36:11.859792Z",
-                "2025-07-31T00:25:45.938261Z",
-                "2025-08-02T09:43:17.957859Z",
-                "2025-08-04T19:51:52.033669Z"
-            ]
-        },
-        {
-            "id": "10354c8dad57835365306bd8fc98500a",
-            "source": "breaking_defense",
-            "text": "Next X-37B mission to carry quantum sensor, laser link experiments",
-            "source_link": "https://breakingdefense.com/2025/07/next-x-37b-mission-to-carry-quantum-sensor-laser-link-experiments/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-28T20:21:56.936787Z",
-            "shown_at": [
-                "2025-07-28T20:21:58.030012Z",
-                "2025-07-29T00:25:47.306480Z",
-                "2025-07-29T05:59:54.525198Z",
-                "2025-07-29T09:29:59.344044Z",
-                "2025-07-29T14:21:55.280441Z",
-                "2025-07-30T21:43:35.191628Z",
-                "2025-08-02T01:27:58.808211Z",
-                "2025-08-02T07:07:54.819999Z",
-                "2025-08-02T08:03:40.504470Z",
-                "2025-08-02T11:51:41.014071Z",
-                "2025-08-02T18:31:51.347400Z",
-                "2025-08-02T19:43:48.412275Z",
-                "2025-08-02T21:37:35.942924Z",
-                "2025-08-03T08:07:41.853887Z",
-                "2025-08-03T15:55:51.948209Z",
-                "2025-08-03T23:37:34.976780Z",
-                "2025-08-04T07:33:56.409646Z",
-                "2025-08-04T09:27:41.838491Z",
-                "2025-08-04T13:47:56.512278Z",
-                "2025-08-04T19:09:29.370306Z"
-            ]
-        },
-        {
-            "id": "f85a5d32a6cd32a1012e255b1374464c",
-            "source": "spacenews",
-            "text": "NASA continues to work toward February launch of Artemis 2",
-            "source_link": "https://spacenews.com/nasa-continues-to-work-toward-february-launch-of-artemis-2/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-08T05:59:17.716689Z",
-            "shown_at": [
-                "2026-01-08T05:59:18.474415Z"
-            ]
-        },
-        {
-            "id": "0b0faf03a0803943accf6e1e8794a8f2",
-            "source": "spacenews",
-            "text": "Interplanetary science needs a commercial backbone",
-            "source_link": "https://spacenews.com/interplanetary-science-needs-a-commercial-backbone/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-08T12:24:32.375082Z",
-            "shown_at": [
-                "2026-01-08T12:24:33.225328Z"
-            ]
-        },
-        {
-            "id": "a830f3e2d8c60b2af80141054e812239",
-            "source": "spacenews",
-            "text": "Medical issue could force early end of Crew-11 ISS mission",
-            "source_link": "https://spacenews.com/medical-issue-could-force-early-end-of-crew-11-iss-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-08T12:59:07.248032Z",
-            "shown_at": [
-                "2026-01-08T12:59:07.863647Z"
-            ]
-        },
-        {
-            "id": "60331ad5c205b96d2024c8f91706b7f3",
-            "source": "spacenews",
-            "text": "Vulcan to open 2026 with national security launch",
-            "source_link": "https://spacenews.com/vulcan-to-open-2026-with-national-security-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-08T14:09:00.083532Z",
-            "shown_at": [
-                "2026-01-08T14:09:00.872540Z"
-            ]
-        },
-        {
-            "id": "bff4fb0ddf3d38269caa56f414f29d50",
-            "source": "spacenews",
-            "text": "The ‘space tax’ on your self-driving car",
-            "source_link": "https://spacenews.com/the-space-tax-on-your-self-driving-car/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-08T14:09:00.083590Z",
-            "shown_at": [
-                "2026-01-08T14:44:14.013230Z"
-            ]
-        },
-        {
-            "id": "ad4cac486bc6f2e7f99ec0739042b443",
-            "source": "nyt",
-            "text": "NASA May Return Early From International Space Station After Medical Issue",
-            "source_link": "https://www.nytimes.com/2026/01/08/science/space/nasa-astronaut-medical-problem.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-08T17:05:07.318010Z",
-            "shown_at": [
-                "2026-01-08T17:05:08.630791Z",
-                "2026-01-08T20:09:18.786060Z",
-                "2026-01-08T22:29:01.402407Z"
-            ]
-        },
-        {
-            "id": "567cb14485d3c52f269bb5ddbdf6afb4",
-            "source": "spacenews",
-            "text": "Private group unveils plans for large space telescope",
-            "source_link": "https://spacenews.com/private-group-unveils-plans-for-large-space-telescope/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-08T17:45:11.348642Z",
-            "shown_at": [
-                "2026-01-08T17:45:12.303105Z",
-                "2026-01-08T21:19:05.614626Z"
-            ]
-        },
-        {
-            "id": "5a6008158863c1593ef29fea2717dc20",
-            "source": "spacenews",
-            "text": "2026 will clarify Europe’s new priorities for space",
-            "source_link": "https://spacenews.com/2026-will-clarify-europes-new-priorities-for-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-08T17:45:11.348746Z",
-            "shown_at": [
-                "2026-01-08T18:59:43.532213Z"
-            ]
-        },
-        {
-            "id": "79e1e6e29d5c062a2b184cba02c56afc",
-            "source": "breaking_defense",
-            "text": "China holds the GPS advantage over the US. Here’s why, and how to solve it.",
-            "source_link": "https://breakingdefense.com/2026/01/china-gps-advantage-taiwan-altpnt/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-08T18:24:12.877319Z",
-            "shown_at": [
-                "2026-01-08T18:24:13.674861Z"
-            ]
-        },
-        {
-            "id": "8ef2adec57c43802daf816744391d784",
-            "source": "spacenews",
-            "text": "Roman Space Telescope on track for September launch",
-            "source_link": "https://spacenews.com/roman-space-telescope-on-track-for-september-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-08T19:34:24.655749Z",
-            "shown_at": [
-                "2026-01-08T19:34:25.360288Z"
-            ]
-        },
-        {
-            "id": "6d304e8b4e5cf99241ffb755d712de69",
-            "source": "spacenews",
-            "text": "APPLICATIONS OPEN FOR COHORT 4 OF SDA TAP LAB – CATALYST CAMPUS MINI ACCELERATOR",
-            "source_link": "https://spacenews.com/applications-open-for-cohort-4-of-sda-tap-lab-catalyst-campus-mini-accelerator/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-08T21:54:22.426739Z",
-            "shown_at": [
-                "2026-01-08T21:54:23.283682Z"
-            ]
-        },
-        {
-            "id": "16e19aeaa65c5f54640a4632a1e017b2",
-            "source": "nyt",
-            "text": "NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue",
-            "source_link": "https://www.nytimes.com/2026/01/08/science/nasa-astronaut-medical-problem.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-08T23:24:11.763291Z",
-            "shown_at": [
-                "2026-01-08T23:24:12.431864Z"
             ]
         }
     ]
