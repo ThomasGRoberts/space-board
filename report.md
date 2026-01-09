@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 9 | 20 |
-| spacenews | 8 | 15 | 17 | 34 |
+| spacenews | 8 | 15 | 18 | 35 |
 | breaking_defense | 1 | 2 | 13 | 25 |
 
 # Shown Order
@@ -6233,3 +6233,4 @@
 - **Jan 09, 05:59 AM** - NASA works to extend Swift’s life ahead of reboost mission (spacenews)
 - **Jan 09, 06:34 AM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
 - **Jan 09, 07:09 AM** - ‘Overwatch’ from space, cyber ops foundational to Maduro mission (breaking_defense)
+- **Jan 09, 07:49 AM** - China’s astronauts complete cave training amid preparations for moon missions (spacenews)
