@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 10 | 21 |
 | spacenews | 8 | 15 | 18 | 34 |
-| breaking_defense | 1 | 2 | 12 | 25 |
+| breaking_defense | 1 | 2 | 13 | 25 |
 
 # Shown Order
 
@@ -6232,3 +6232,4 @@
 - **Jan 09, 05:24 AM** - China holds the GPS advantage over the US. Here’s why, and how to solve it. (breaking_defense)
 - **Jan 09, 05:59 AM** - NASA works to extend Swift’s life ahead of reboost mission (spacenews)
 - **Jan 09, 06:34 AM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
+- **Jan 09, 07:09 AM** - ‘Overwatch’ from space, cyber ops foundational to Maduro mission (breaking_defense)
