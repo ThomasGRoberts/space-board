@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 3 | 9 | 20 |
-| spacenews | 9 | 15 | 19 | 34 |
+| nyt | 3 | 3 | 10 | 21 |
+| spacenews | 9 | 15 | 18 | 34 |
 | breaking_defense | 1 | 2 | 12 | 25 |
 
 # Shown Order
@@ -6228,3 +6228,4 @@
 - **Jan 09, 02:59 AM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
 - **Jan 09, 03:34 AM** - US-European relations will define the next year: 2026 preview (breaking_defense)
 - **Jan 09, 04:09 AM** - Minibus provides $24.4 billion for NASA for fiscal year 2026 (spacenews)
+- **Jan 09, 04:49 AM** - Scientists Discover Cloud-9, a Starless ‘Galaxy That Wasn’t’ (nyt)
