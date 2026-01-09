@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 9 | 21 |
 | spacenews | 8 | 15 | 18 | 34 |
-| breaking_defense | 1 | 2 | 12 | 25 |
+| breaking_defense | 1 | 2 | 13 | 25 |
 
 # Shown Order
 
@@ -6235,3 +6235,4 @@
 - **Jan 09, 07:09 AM** - ‘Overwatch’ from space, cyber ops foundational to Maduro mission (breaking_defense)
 - **Jan 09, 07:49 AM** - China’s astronauts complete cave training amid preparations for moon missions (spacenews)
 - **Jan 09, 08:24 AM** - NASA May Return Early From International Space Station After Medical Issue (nyt)
+- **Jan 09, 09:00 AM** - US-European relations will define the next year: 2026 preview (breaking_defense)
