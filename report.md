@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 3 | 10 | 21 |
-| spacenews | 8 | 15 | 17 | 34 |
+| nyt | 3 | 3 | 10 | 20 |
+| spacenews | 9 | 16 | 18 | 35 |
 | breaking_defense | 1 | 2 | 12 | 25 |
 
 # Shown Order
@@ -6239,3 +6239,4 @@
 - **Jan 09, 09:34 AM** - ARCHE ORBITAL SYSTEMS Signs Strategic MoU with MSRO to Advance National Space Capabilities for the Maldives (spacenews)
 - **Jan 09, 10:14 AM** - NASA May Return Early From International Space Station After Medical Issue (nyt)
 - **Jan 09, 10:49 AM** - US-European relations will define the next year: 2026 preview (breaking_defense)
+- **Jan 09, 11:24 AM** - Rhea Space Activity applies optical navigation to military rendezvous missions (spacenews)

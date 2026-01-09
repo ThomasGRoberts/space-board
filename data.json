@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-09T00:04:30.839160+00:00",
-    "trigger_count": 6,
-    "current_item_id": "032d8d20fd0c68d7c49c5d76826ec989",
+    "trigger_count": 0,
+    "current_item_id": "00d13552ba1680c2faee73f3154da41d",
     "data": [
         {
             "id": "16e19aeaa65c5f54640a4632a1e017b2",
@@ -11744,6 +11744,18 @@
             "shown_at": [
                 "2026-01-09T01:14:15.497935Z",
                 "2026-01-09T04:49:25.360544Z"
+            ]
+        },
+        {
+            "id": "00d13552ba1680c2faee73f3154da41d",
+            "source": "spacenews",
+            "text": "Rhea Space Activity applies optical navigation to military rendezvous missions",
+            "source_link": "https://spacenews.com/rhea-space-activity-applies-optical-navigation-to-military-rendezvous-missions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-09T11:24:11.927915Z",
+            "shown_at": [
+                "2026-01-09T11:24:12.962314Z"
             ]
         }
     ]
