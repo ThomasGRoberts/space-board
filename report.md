@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 3 | 10 | 21 |
+| nyt | 3 | 3 | 9 | 21 |
 | spacenews | 9 | 15 | 18 | 34 |
-| breaking_defense | 1 | 2 | 12 | 24 |
+| breaking_defense | 1 | 2 | 13 | 25 |
 
 # Shown Order
 
@@ -6226,3 +6226,4 @@
 - **Jan 09, 01:49 AM** - The year that was and the year that will be, according to our reporters (breaking_defense)
 - **Jan 09, 02:24 AM** - Eartheye Space reveals contract with Asia-Pacific customer (spacenews)
 - **Jan 09, 02:59 AM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
+- **Jan 09, 03:34 AM** - US-European relations will define the next year: 2026 preview (breaking_defense)
