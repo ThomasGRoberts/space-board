@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 9 | 6 | 22 |
-| nyt | 1 | 4 | 5 | 16 |
+| spacenews | 1 | 8 | 6 | 21 |
+| nyt | 1 | 4 | 6 | 17 |
 | breaking_defense | 3 | 4 | 7 | 20 |
 
 # Shown Order
@@ -6247,3 +6247,4 @@
 - **Jan 10, 11:19 AM** - Google’s Ex-CEO Backs Start-Up Approach to Big Telescopes for Space and Astronomy (nyt)
 - **Jan 10, 11:54 AM** - L3Harris hones DoD focus with sale of civil space propulsion unit (breaking_defense)
 - **Jan 10, 12:29 PM** - APPLICATIONS OPEN FOR COHORT 4 OF SDA TAP LAB – CATALYST CAMPUS MINI ACCELERATOR (spacenews)
+- **Jan 10, 01:04 PM** - Google’s Ex-CEO Backs Start-Up Approach to Big Telescopes for Space and Astronomy (nyt)
