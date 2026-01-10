@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 6 | 8 | 20 |
-| nyt | 1 | 4 | 7 | 18 |
-| breaking_defense | 3 | 4 | 9 | 20 |
+| nyt | 1 | 4 | 8 | 19 |
+| breaking_defense | 3 | 4 | 9 | 19 |
 
 # Shown Order
 
@@ -6253,3 +6253,4 @@
 - **Jan 10, 02:49 PM** - NASA May Return Early From International Space Station After Medical Issue (nyt)
 - **Jan 10, 03:24 PM** - How the Air Force is revamping its acquisition shop with new ‘portfolios’ (breaking_defense)
 - **Jan 10, 03:59 PM** - Is the race for moon missions lunacy? (spacenews)
+- **Jan 10, 04:34 PM** - Google’s Ex-CEO Backs Start-Up Approach to Big Telescopes for Space and Astronomy (nyt)
