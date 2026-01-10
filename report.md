@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 5 | 13 | 20 |
+| spacenews | 3 | 5 | 14 | 21 |
 | nyt | 1 | 2 | 11 | 18 |
 | breaking_defense | 3 | 3 | 12 | 20 |
 
@@ -6265,3 +6265,4 @@
 - **Jan 10, 09:49 PM** - Crew-11 to make early return Jan. 15 (spacenews)
 - **Jan 10, 10:24 PM** - SpaceX to launch next SDA missile tracking satellites (breaking_defense)
 - **Jan 10, 10:59 PM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
+- **Jan 10, 11:34 PM** - Interplanetary science needs a commercial backbone (spacenews)
