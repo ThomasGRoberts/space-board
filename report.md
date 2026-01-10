@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 10 | 5 | 23 |
 | nyt | 1 | 4 | 6 | 15 |
-| breaking_defense | 3 | 4 | 7 | 20 |
+| breaking_defense | 3 | 4 | 8 | 21 |
 
 # Shown Order
 
@@ -6239,3 +6239,4 @@
 - **Jan 10, 06:19 AM** - Grok for DoD and subs for North Korea: What you missed in defense over the break (breaking_defense)
 - **Jan 10, 06:54 AM** - The ‘space tax’ on your self-driving car (spacenews)
 - **Jan 10, 07:29 AM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
+- **Jan 10, 08:04 AM** - Grok for DoD and subs for North Korea: What you missed in defense over the break (breaking_defense)
