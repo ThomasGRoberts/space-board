@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 6 | 7 | 21 |
-| nyt | 1 | 4 | 6 | 17 |
+| spacenews | 0 | 6 | 7 | 20 |
+| nyt | 1 | 4 | 7 | 18 |
 | breaking_defense | 3 | 4 | 8 | 20 |
 
 # Shown Order
@@ -6250,3 +6250,4 @@
 - **Jan 10, 01:04 PM** - Google’s Ex-CEO Backs Start-Up Approach to Big Telescopes for Space and Astronomy (nyt)
 - **Jan 10, 01:39 PM** - DIU to fund ‘unjammable’ magnetic navigation tech (breaking_defense)
 - **Jan 10, 02:14 PM** - APPLICATIONS OPEN FOR COHORT 4 OF SDA TAP LAB – CATALYST CAMPUS MINI ACCELERATOR (spacenews)
+- **Jan 10, 02:49 PM** - NASA May Return Early From International Space Station After Medical Issue (nyt)
