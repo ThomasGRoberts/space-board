@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-10T00:03:21.933929+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8c8524e4e90258061eb826533bb13f14",
+    "trigger_count": 0,
+    "current_item_id": "6c8deffd2aa42fe238936779f2f03bae",
     "data": [
         {
             "id": "8c8524e4e90258061eb826533bb13f14",
@@ -11724,6 +11724,18 @@
                 "2025-07-30T21:29:36.973083Z",
                 "2025-08-03T21:25:34.901527Z",
                 "2025-08-05T17:47:31.723184Z"
+            ]
+        },
+        {
+            "id": "6c8deffd2aa42fe238936779f2f03bae",
+            "source": "nyt",
+            "text": "Google’s Ex-CEO Backs Start-Up Approach to Big Telescopes for Space and Astronomy",
+            "source_link": "https://www.nytimes.com/2026/01/09/science/eric-schmidt-telescopes-google-space.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-10T02:49:17.645929Z",
+            "shown_at": [
+                "2026-01-10T02:49:18.202541Z"
             ]
         }
     ]
