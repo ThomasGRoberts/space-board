@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 10 | 5 | 23 |
+| spacenews | 2 | 10 | 6 | 24 |
 | nyt | 1 | 4 | 5 | 15 |
 | breaking_defense | 3 | 4 | 8 | 20 |
 
@@ -6237,3 +6237,4 @@
 - **Jan 10, 05:09 AM** - APPLICATIONS OPEN FOR COHORT 4 OF SDA TAP LAB – CATALYST CAMPUS MINI ACCELERATOR (spacenews)
 - **Jan 10, 05:44 AM** - Google’s Ex-CEO Backs Start-Up Approach to Big Telescopes for Space and Astronomy (nyt)
 - **Jan 10, 06:19 AM** - Grok for DoD and subs for North Korea: What you missed in defense over the break (breaking_defense)
+- **Jan 10, 06:54 AM** - The ‘space tax’ on your self-driving car (spacenews)
