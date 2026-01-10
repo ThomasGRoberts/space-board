@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 6 | 10 | 21 |
+| spacenews | 2 | 6 | 11 | 22 |
 | nyt | 1 | 3 | 8 | 18 |
 | breaking_defense | 3 | 3 | 10 | 19 |
 
@@ -6257,3 +6257,4 @@
 - **Jan 10, 05:09 PM** - Service acquisition leaders: Why this time will be different for defense acquisition (breaking_defense)
 - **Jan 10, 05:44 PM** - The U.S. will seize space leadership – or China will take it (spacenews)
 - **Jan 10, 06:19 PM** - FCC approves 7,500 additional Starlink satellites (spacenews)
+- **Jan 10, 06:53 PM** - Space Force awards $739 million in launch orders to SpaceX (spacenews)
