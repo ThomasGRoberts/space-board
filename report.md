@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 8 | 6 | 21 |
 | nyt | 1 | 4 | 6 | 17 |
-| breaking_defense | 3 | 4 | 7 | 20 |
+| breaking_defense | 3 | 4 | 8 | 20 |
 
 # Shown Order
 
@@ -6248,3 +6248,4 @@
 - **Jan 10, 11:54 AM** - L3Harris hones DoD focus with sale of civil space propulsion unit (breaking_defense)
 - **Jan 10, 12:29 PM** - APPLICATIONS OPEN FOR COHORT 4 OF SDA TAP LAB – CATALYST CAMPUS MINI ACCELERATOR (spacenews)
 - **Jan 10, 01:04 PM** - Google’s Ex-CEO Backs Start-Up Approach to Big Telescopes for Space and Astronomy (nyt)
+- **Jan 10, 01:39 PM** - DIU to fund ‘unjammable’ magnetic navigation tech (breaking_defense)
