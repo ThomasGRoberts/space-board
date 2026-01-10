@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 5 | 12 | 20 |
+| spacenews | 3 | 6 | 13 | 21 |
 | nyt | 1 | 3 | 10 | 19 |
 | breaking_defense | 3 | 3 | 11 | 19 |
 
@@ -6262,3 +6262,4 @@
 - **Jan 10, 08:04 PM** - Service acquisition leaders: Why this time will be different for defense acquisition (breaking_defense)
 - **Jan 10, 08:39 PM** - Is the race for moon missions lunacy? (spacenews)
 - **Jan 10, 09:14 PM** - Scientists Discover Cloud-9, a Starless ‘Galaxy That Wasn’t’ (nyt)
+- **Jan 10, 09:49 PM** - Crew-11 to make early return Jan. 15 (spacenews)

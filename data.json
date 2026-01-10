@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-10T00:03:21.933929+00:00",
-    "trigger_count": 6,
-    "current_item_id": "512c7f097e54920b48abfcd1f9c708e2",
+    "trigger_count": 0,
+    "current_item_id": "f0b939c3a196e3ef9ad1bba82ce02526",
     "data": [
         {
             "id": "8c8524e4e90258061eb826533bb13f14",
@@ -11822,6 +11822,18 @@
             "fetched_datetime": "2026-01-10T18:19:24.713306Z",
             "shown_at": [
                 "2026-01-10T18:53:51.983142Z"
+            ]
+        },
+        {
+            "id": "f0b939c3a196e3ef9ad1bba82ce02526",
+            "source": "spacenews",
+            "text": "Crew-11 to make early return Jan. 15",
+            "source_link": "https://spacenews.com/crew-11-to-make-early-return-jan-15/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-10T21:49:54.261672Z",
+            "shown_at": [
+                "2026-01-10T21:49:54.981784Z"
             ]
         }
     ]
