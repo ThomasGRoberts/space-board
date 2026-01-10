@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 5 | 13 | 20 |
 | nyt | 1 | 3 | 10 | 19 |
-| breaking_defense | 3 | 3 | 11 | 19 |
+| breaking_defense | 3 | 3 | 12 | 20 |
 
 # Shown Order
 
@@ -6263,3 +6263,4 @@
 - **Jan 10, 08:39 PM** - Is the race for moon missions lunacy? (spacenews)
 - **Jan 10, 09:14 PM** - Scientists Discover Cloud-9, a Starless ‘Galaxy That Wasn’t’ (nyt)
 - **Jan 10, 09:49 PM** - Crew-11 to make early return Jan. 15 (spacenews)
+- **Jan 10, 10:24 PM** - SpaceX to launch next SDA missile tracking satellites (breaking_defense)
