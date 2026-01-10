@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 10 | 5 | 23 |
-| nyt | 1 | 4 | 5 | 15 |
+| spacenews | 2 | 10 | 6 | 24 |
+| nyt | 1 | 4 | 5 | 14 |
 | breaking_defense | 3 | 4 | 8 | 20 |
 
 # Shown Order
@@ -6240,3 +6240,4 @@
 - **Jan 10, 06:54 AM** - The ‘space tax’ on your self-driving car (spacenews)
 - **Jan 10, 07:29 AM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
 - **Jan 10, 08:04 AM** - Grok for DoD and subs for North Korea: What you missed in defense over the break (breaking_defense)
+- **Jan 10, 08:54 AM** - Medical issue could force early end of Crew-11 ISS mission (spacenews)
