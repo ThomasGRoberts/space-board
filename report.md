@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 11 | 5 | 24 |
 | nyt | 1 | 4 | 6 | 15 |
-| breaking_defense | 3 | 4 | 7 | 19 |
+| breaking_defense | 3 | 4 | 8 | 20 |
 
 # Shown Order
 
@@ -6233,3 +6233,4 @@
 - **Jan 10, 02:49 AM** - Google’s Ex-CEO Backs Start-Up Approach to Big Telescopes for Space and Astronomy (nyt)
 - **Jan 10, 03:24 AM** - SpaceX to launch next SDA missile tracking satellites (breaking_defense)
 - **Jan 10, 03:59 AM** - DIU to fund ‘unjammable’ magnetic navigation tech (breaking_defense)
+- **Jan 10, 04:34 AM** - How the Air Force is revamping its acquisition shop with new ‘portfolios’ (breaking_defense)
