@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 11 | 20 |
 | nyt | 1 | 3 | 9 | 19 |
-| breaking_defense | 3 | 3 | 10 | 19 |
+| breaking_defense | 3 | 3 | 11 | 20 |
 
 # Shown Order
 
@@ -6259,3 +6259,4 @@
 - **Jan 10, 06:19 PM** - FCC approves 7,500 additional Starlink satellites (spacenews)
 - **Jan 10, 06:53 PM** - Space Force awards $739 million in launch orders to SpaceX (spacenews)
 - **Jan 10, 07:29 PM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
+- **Jan 10, 08:04 PM** - Service acquisition leaders: Why this time will be different for defense acquisition (breaking_defense)
