@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 6 | 7 | 20 |
 | nyt | 1 | 4 | 7 | 18 |
-| breaking_defense | 3 | 4 | 8 | 20 |
+| breaking_defense | 3 | 4 | 9 | 20 |
 
 # Shown Order
 
@@ -6251,3 +6251,4 @@
 - **Jan 10, 01:39 PM** - DIU to fund ‘unjammable’ magnetic navigation tech (breaking_defense)
 - **Jan 10, 02:14 PM** - APPLICATIONS OPEN FOR COHORT 4 OF SDA TAP LAB – CATALYST CAMPUS MINI ACCELERATOR (spacenews)
 - **Jan 10, 02:49 PM** - NASA May Return Early From International Space Station After Medical Issue (nyt)
+- **Jan 10, 03:24 PM** - How the Air Force is revamping its acquisition shop with new ‘portfolios’ (breaking_defense)
