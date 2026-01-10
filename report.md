@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 10 | 5 | 23 |
 | nyt | 1 | 4 | 6 | 15 |
-| breaking_defense | 3 | 4 | 7 | 20 |
+| breaking_defense | 3 | 4 | 8 | 21 |
 
 # Shown Order
 
@@ -6236,3 +6236,4 @@
 - **Jan 10, 04:34 AM** - How the Air Force is revamping its acquisition shop with new ‘portfolios’ (breaking_defense)
 - **Jan 10, 05:09 AM** - APPLICATIONS OPEN FOR COHORT 4 OF SDA TAP LAB – CATALYST CAMPUS MINI ACCELERATOR (spacenews)
 - **Jan 10, 05:44 AM** - Google’s Ex-CEO Backs Start-Up Approach to Big Telescopes for Space and Astronomy (nyt)
+- **Jan 10, 06:19 AM** - Grok for DoD and subs for North Korea: What you missed in defense over the break (breaking_defense)
