@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 10 | 5 | 23 |
 | nyt | 1 | 4 | 6 | 15 |
-| breaking_defense | 3 | 4 | 7 | 20 |
+| breaking_defense | 3 | 4 | 8 | 20 |
 
 # Shown Order
 
@@ -6242,3 +6242,4 @@
 - **Jan 10, 08:04 AM** - Grok for DoD and subs for North Korea: What you missed in defense over the break (breaking_defense)
 - **Jan 10, 08:54 AM** - Medical issue could force early end of Crew-11 ISS mission (spacenews)
 - **Jan 10, 09:29 AM** - NASA May Return Early From International Space Station After Medical Issue (nyt)
+- **Jan 10, 10:05 AM** - China holds the GPS advantage over the US. Here’s why, and how to solve it. (breaking_defense)
