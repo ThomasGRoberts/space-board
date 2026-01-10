@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 10 | 5 | 23 |
+| spacenews | 1 | 10 | 5 | 22 |
 | nyt | 1 | 4 | 6 | 16 |
-| breaking_defense | 3 | 4 | 7 | 19 |
+| breaking_defense | 3 | 4 | 8 | 20 |
 
 # Shown Order
 
@@ -6245,3 +6245,4 @@
 - **Jan 10, 10:05 AM** - China holds the GPS advantage over the US. Here’s why, and how to solve it. (breaking_defense)
 - **Jan 10, 10:44 AM** - SkyFi expands virtual constellation with Vantor satellite imagery (spacenews)
 - **Jan 10, 11:19 AM** - Google’s Ex-CEO Backs Start-Up Approach to Big Telescopes for Space and Astronomy (nyt)
+- **Jan 10, 11:54 AM** - L3Harris hones DoD focus with sale of civil space propulsion unit (breaking_defense)
