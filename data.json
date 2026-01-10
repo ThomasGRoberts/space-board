@@ -1,9 +1,43 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-01-09T00:04:30.839160+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2026-01-10T00:03:21.933929+00:00",
+    "trigger_count": 4,
     "current_item_id": "8c8524e4e90258061eb826533bb13f14",
     "data": [
+        {
+            "id": "8c8524e4e90258061eb826533bb13f14",
+            "source": "spacenews",
+            "text": "The U.S. will seize space leadership – or China will take it",
+            "source_link": "https://spacenews.com/the-u-s-will-seize-space-leadership-or-china-will-take-it/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-01-09T13:14:15.873498Z"
+        },
+        {
+            "id": "00d13552ba1680c2faee73f3154da41d",
+            "source": "spacenews",
+            "text": "Rhea Space Activity applies optical navigation to military rendezvous missions",
+            "source_link": "https://spacenews.com/rhea-space-activity-applies-optical-navigation-to-military-rendezvous-missions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-09T11:24:11.927915Z",
+            "shown_at": [
+                "2026-01-09T11:24:12.962314Z"
+            ]
+        },
+        {
+            "id": "512c7f097e54920b48abfcd1f9c708e2",
+            "source": "nyt",
+            "text": "Scientists Discover Cloud-9, a Starless ‘Galaxy That Wasn’t’",
+            "source_link": "https://www.nytimes.com/2026/01/08/science/cloud-9-starless-dark-galaxy.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-09T01:14:14.673331Z",
+            "shown_at": [
+                "2026-01-09T01:14:15.497935Z",
+                "2026-01-09T04:49:25.360544Z"
+            ]
+        },
         {
             "id": "16e19aeaa65c5f54640a4632a1e017b2",
             "source": "nyt",
@@ -11688,86 +11722,6 @@
                 "2025-08-03T21:25:34.901527Z",
                 "2025-08-05T17:47:31.723184Z"
             ]
-        },
-        {
-            "id": "1795e00a563939c76711d2af61996ef4",
-            "source": "spacenews",
-            "text": "First Eris launch fails to reach orbit",
-            "source_link": "https://spacenews.com/first-eris-launch-fails-to-reach-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-30T05:23:36.404938Z",
-            "shown_at": [
-                "2025-07-30T05:23:37.087166Z",
-                "2025-08-05T23:19:27.305660Z",
-                "2025-08-06T02:55:38.352652Z"
-            ]
-        },
-        {
-            "id": "3a17aced4e046d7c6d4f2894aba1639b",
-            "source": "spacenews",
-            "text": "Firefly Aerospace wins fourth lunar lander award",
-            "source_link": "https://spacenews.com/firefly-aerospace-wins-fourth-lunar-lander-award/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-29T22:55:51.113155Z",
-            "shown_at": [
-                "2025-07-29T22:55:52.148291Z",
-                "2025-07-30T23:27:40.848859Z",
-                "2025-08-02T19:15:44.112605Z",
-                "2025-08-03T01:11:59.248740Z",
-                "2025-08-04T07:02:16.281813Z"
-            ]
-        },
-        {
-            "id": "b16fa0f0f4c0ab58076cd21484571139",
-            "source": "spacenews",
-            "text": "Space Force selects five firms for ‘Protected Tactical Satcom’ design contracts",
-            "source_link": "https://spacenews.com/space-force-selects-five-firms-for-protected-tactical-satcom-design-contracts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-29T20:53:16.096806Z",
-            "shown_at": [
-                "2025-07-29T20:53:16.707127Z",
-                "2025-07-30T09:15:34.799023Z",
-                "2025-08-01T21:27:43.883660Z",
-                "2025-08-02T07:49:46.964810Z",
-                "2025-08-04T08:57:45.121660Z"
-            ]
-        },
-        {
-            "id": "512c7f097e54920b48abfcd1f9c708e2",
-            "source": "nyt",
-            "text": "Scientists Discover Cloud-9, a Starless ‘Galaxy That Wasn’t’",
-            "source_link": "https://www.nytimes.com/2026/01/08/science/cloud-9-starless-dark-galaxy.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-09T01:14:14.673331Z",
-            "shown_at": [
-                "2026-01-09T01:14:15.497935Z",
-                "2026-01-09T04:49:25.360544Z"
-            ]
-        },
-        {
-            "id": "00d13552ba1680c2faee73f3154da41d",
-            "source": "spacenews",
-            "text": "Rhea Space Activity applies optical navigation to military rendezvous missions",
-            "source_link": "https://spacenews.com/rhea-space-activity-applies-optical-navigation-to-military-rendezvous-missions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-09T11:24:11.927915Z",
-            "shown_at": [
-                "2026-01-09T11:24:12.962314Z"
-            ]
-        },
-        {
-            "id": "8c8524e4e90258061eb826533bb13f14",
-            "source": "spacenews",
-            "text": "The U.S. will seize space leadership – or China will take it",
-            "source_link": "https://spacenews.com/the-u-s-will-seize-space-leadership-or-china-will-take-it/",
-            "shown": false,
-            "type": "news",
-            "fetched_datetime": "2026-01-09T13:14:15.873498Z"
         }
     ]
 }

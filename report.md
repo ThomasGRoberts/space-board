@@ -2,16 +2,12 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 3 | 7 | 17 |
 | spacenews | 2 | 11 | 7 | 25 |
-| breaking_defense | 0 | 1 | 8 | 20 |
+| nyt | 1 | 3 | 7 | 17 |
+| breaking_defense | 0 | 1 | 7 | 20 |
 
 # Shown Order
 
-- **Jul 29, 08:53 PM** - Space Force selects five firms for ‘Protected Tactical Satcom’ design contracts (spacenews)
-- **Jul 29, 10:55 PM** - Firefly Aerospace wins fourth lunar lander award (spacenews)
-- **Jul 30, 05:23 AM** - First Eris launch fails to reach orbit (spacenews)
-- **Jul 30, 09:15 AM** - Space Force selects five firms for ‘Protected Tactical Satcom’ design contracts (spacenews)
 - **Jul 30, 01:25 PM** - China launches new group of Guowang satellites from commercial spaceport (spacenews)
 - **Jul 30, 01:40 PM** - Space – the quiet element behind Midnight Hammer (spacenews)
 - **Jul 30, 01:55 PM** - GSLV launches NASA-ISRO radar satellite (spacenews)
@@ -22,7 +18,6 @@
 - **Jul 30, 08:29 PM** - NASA acting administrator to meet with head of Roscosmos at KSC (spacenews)
 - **Jul 30, 08:43 PM** - Here’s the role that space-based interceptors will play in Golden Dome (breaking_defense)
 - **Jul 30, 09:29 PM** - China launches new group of Guowang satellites from commercial spaceport (spacenews)
-- **Jul 30, 11:27 PM** - Firefly Aerospace wins fourth lunar lander award (spacenews)
 - **Jul 31, 12:53 AM** - Senate Commerce Committee advances Jacobs nomination for NOAA administrator (spacenews)
 - **Jul 31, 01:35 AM** - Space Force makes 5 awards for jam-resistant SATCOM (breaking_defense)
 - **Jul 31, 04:29 PM** - Frontgrade Launches Compact, Intelligent Power Supply for VNX+ Systems in Aerospace, Defense, and Space (spacenews)
@@ -39,7 +34,6 @@
 - **Aug 01, 08:18 PM** - It’s more than fuel: Why the Space Force needs in-space servicing, assembly, and manufacturing (breaking_defense)
 - **Aug 01, 08:31 PM** - GSLV launches NASA-ISRO radar satellite (spacenews)
 - **Aug 01, 09:13 PM** - It’s more than fuel: Why the Space Force needs in-space servicing, assembly, and manufacturing (breaking_defense)
-- **Aug 01, 09:27 PM** - Space Force selects five firms for ‘Protected Tactical Satcom’ design contracts (spacenews)
 - **Aug 01, 09:41 PM** - EchoStar orders initial MDA satellites for $5 billion LEO constellation (spacenews)
 - **Aug 01, 10:23 PM** - Roscosmos celebrates meeting of agency leaders that NASA ignored (spacenews)
 - **Aug 01, 10:37 PM** - It’s more than fuel: Why the Space Force needs in-space servicing, assembly, and manufacturing (breaking_defense)
@@ -53,7 +47,6 @@
 - **Aug 02, 05:11 AM** - Space Force makes 5 awards for jam-resistant SATCOM (breaking_defense)
 - **Aug 02, 05:53 AM** - Frontgrade Launches Compact, Intelligent Power Supply for VNX+ Systems in Aerospace, Defense, and Space (spacenews)
 - **Aug 02, 06:07 AM** - It’s more than fuel: Why the Space Force needs in-space servicing, assembly, and manufacturing (breaking_defense)
-- **Aug 02, 07:49 AM** - Space Force selects five firms for ‘Protected Tactical Satcom’ design contracts (spacenews)
 - **Aug 02, 08:45 AM** - Crew-11 launches to ISS (spacenews)
 - **Aug 02, 08:59 AM** - It’s more than fuel: Why the Space Force needs in-space servicing, assembly, and manufacturing (breaking_defense)
 - **Aug 02, 09:57 AM** - It’s more than fuel: Why the Space Force needs in-space servicing, assembly, and manufacturing (breaking_defense)
@@ -68,7 +61,6 @@
 - **Aug 02, 03:41 PM** - Draft Trump EO would loosen commercial space regs, citing national security links (breaking_defense)
 - **Aug 02, 04:37 PM** - Here’s the role that space-based interceptors will play in Golden Dome (breaking_defense)
 - **Aug 02, 05:33 PM** - Draft Trump EO would loosen commercial space regs, citing national security links (breaking_defense)
-- **Aug 02, 07:15 PM** - Firefly Aerospace wins fourth lunar lander award (spacenews)
 - **Aug 02, 07:29 PM** - Why industry says Golden Dome’s biggest challenge isn’t missiles, it’s data flow (spacenews)
 - **Aug 02, 08:27 PM** - Moog Presents Space Computing Advancements to Enable Next-Generation Missions at Small Satellite Conference (spacenews)
 - **Aug 02, 08:41 PM** - Space Force makes 5 awards for jam-resistant SATCOM (breaking_defense)
@@ -77,7 +69,6 @@
 - **Aug 02, 11:29 PM** - Draft Trump EO would loosen commercial space regs, citing national security links (breaking_defense)
 - **Aug 03, 12:11 AM** - EchoStar orders initial MDA satellites for $5 billion LEO constellation (spacenews)
 - **Aug 03, 12:27 AM** - Space Force makes 5 awards for jam-resistant SATCOM (breaking_defense)
-- **Aug 03, 01:11 AM** - Firefly Aerospace wins fourth lunar lander award (spacenews)
 - **Aug 03, 01:25 AM** - It’s more than fuel: Why the Space Force needs in-space servicing, assembly, and manufacturing (breaking_defense)
 - **Aug 03, 02:23 AM** - Space Force makes 5 awards for jam-resistant SATCOM (breaking_defense)
 - **Aug 03, 03:05 AM** - Air leak persists on Russian ISS segment (spacenews)
@@ -126,10 +117,8 @@
 - **Aug 04, 04:35 AM** - Space Force makes 5 awards for jam-resistant SATCOM (breaking_defense)
 - **Aug 04, 05:03 AM** - Air leak persists on Russian ISS segment (spacenews)
 - **Aug 04, 06:32 AM** - Here’s the role that space-based interceptors will play in Golden Dome (breaking_defense)
-- **Aug 04, 07:02 AM** - Firefly Aerospace wins fourth lunar lander award (spacenews)
 - **Aug 04, 08:01 AM** - Senators raise NASA funding concerns in letter to Duffy (spacenews)
 - **Aug 04, 08:29 AM** - Draft Trump EO would loosen commercial space regs, citing national security links (breaking_defense)
-- **Aug 04, 08:57 AM** - Space Force selects five firms for ‘Protected Tactical Satcom’ design contracts (spacenews)
 - **Aug 04, 10:27 AM** - Here’s the role that space-based interceptors will play in Golden Dome (breaking_defense)
 - **Aug 04, 11:25 AM** - It’s more than fuel: Why the Space Force needs in-space servicing, assembly, and manufacturing (breaking_defense)
 - **Aug 04, 11:53 AM** - European companies still in talks to combine their space businesses (spacenews)
@@ -204,7 +193,6 @@
 - **Aug 05, 10:23 PM** - SPACECOM chief doubles down on need for on-orbit mobility (breaking_defense)
 - **Aug 05, 10:37 PM** - Space Command chief calls for orbital gas stations as China tests satellite refueling (spacenews)
 - **Aug 05, 11:05 PM** - SPACECOM chief doubles down on need for on-orbit mobility (breaking_defense)
-- **Aug 05, 11:19 PM** - First Eris launch fails to reach orbit (spacenews)
 - **Aug 05, 11:47 PM** - With Intelsat buy, SES targets European defense market (breaking_defense)
 - **Aug 06, 12:02 AM** - Space – the quiet element behind Midnight Hammer (spacenews)
 - **Aug 06, 01:02 AM** - Draft Trump EO would loosen commercial space regs, citing national security links (breaking_defense)
@@ -212,7 +200,6 @@
 - **Aug 06, 01:57 AM** - With Intelsat buy, SES targets European defense market (breaking_defense)
 - **Aug 06, 02:13 AM** - Eoptic and Starris establish strategic partnership to develop multispectral satellite imaging payloads (spacenews)
 - **Aug 06, 02:41 AM** - Space Force launching sats to ‘enable’ GMTI ahead of mission-dedicated birds in 2028 (breaking_defense)
-- **Aug 06, 02:55 AM** - First Eris launch fails to reach orbit (spacenews)
 - **Aug 06, 03:29 AM** - With Intelsat buy, SES targets European defense market (breaking_defense)
 - **Aug 06, 03:45 AM** - Senators raise NASA funding concerns in letter to Duffy (spacenews)
 - **Aug 06, 04:17 AM** - Space Force to launch ‘actual’ GMTI sats ‘in the next year’: General (breaking_defense)
