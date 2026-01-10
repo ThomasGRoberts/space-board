@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 11 | 6 | 24 |
+| spacenews | 2 | 11 | 7 | 25 |
 | nyt | 0 | 3 | 6 | 15 |
 | breaking_defense | 0 | 1 | 6 | 19 |
 
@@ -6229,3 +6229,4 @@
 - **Jan 09, 11:24 AM** - Rhea Space Activity applies optical navigation to military rendezvous missions (spacenews)
 - **Jan 09, 11:59 AM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
 - **Jan 09, 12:35 PM** - The year that was and the year that will be, according to our reporters (breaking_defense)
+- **Jan 10, 02:14 AM** - The U.S. will seize space leadership – or China will take it (spacenews)
