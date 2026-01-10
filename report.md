@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 11 | 6 | 24 |
 | nyt | 1 | 4 | 6 | 16 |
-| breaking_defense | 0 | 1 | 6 | 18 |
+| breaking_defense | 3 | 4 | 7 | 19 |
 
 # Shown Order
 
@@ -6231,3 +6231,4 @@
 - **Jan 09, 12:35 PM** - The year that was and the year that will be, according to our reporters (breaking_defense)
 - **Jan 10, 02:14 AM** - The U.S. will seize space leadership – or China will take it (spacenews)
 - **Jan 10, 02:49 AM** - Google’s Ex-CEO Backs Start-Up Approach to Big Telescopes for Space and Astronomy (nyt)
+- **Jan 10, 03:24 AM** - SpaceX to launch next SDA missile tracking satellites (breaking_defense)
