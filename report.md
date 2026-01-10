@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 6 | 8 | 20 |
+| spacenews | 0 | 6 | 9 | 21 |
 | nyt | 1 | 3 | 8 | 18 |
 | breaking_defense | 3 | 4 | 10 | 20 |
 
@@ -6255,3 +6255,4 @@
 - **Jan 10, 03:59 PM** - Is the race for moon missions lunacy? (spacenews)
 - **Jan 10, 04:34 PM** - Google’s Ex-CEO Backs Start-Up Approach to Big Telescopes for Space and Astronomy (nyt)
 - **Jan 10, 05:09 PM** - Service acquisition leaders: Why this time will be different for defense acquisition (breaking_defense)
+- **Jan 10, 05:44 PM** - The U.S. will seize space leadership – or China will take it (spacenews)
