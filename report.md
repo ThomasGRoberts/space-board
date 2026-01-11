@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 5 | 15 | 21 |
+| spacenews | 3 | 5 | 15 | 20 |
 | breaking_defense | 0 | 3 | 13 | 20 |
-| nyt | 0 | 1 | 12 | 18 |
+| nyt | 0 | 1 | 13 | 19 |
 
 # Shown Order
 
@@ -6199,3 +6199,4 @@
 - **Jan 11, 02:29 AM** - NASA May Return Early From International Space Station After Medical Issue (nyt)
 - **Jan 11, 03:04 AM** - The ‘space tax’ on your self-driving car (spacenews)
 - **Jan 11, 03:39 AM** - SpaceX to launch next SDA missile tracking satellites (breaking_defense)
+- **Jan 11, 04:14 AM** - Scientists Discover Cloud-9, a Starless ‘Galaxy That Wasn’t’ (nyt)
