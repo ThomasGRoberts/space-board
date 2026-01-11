@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 3 | 15 | 22 |
 | breaking_defense | 0 | 3 | 13 | 21 |
-| nyt | 0 | 1 | 13 | 19 |
+| nyt | 0 | 1 | 13 | 20 |
 
 # Shown Order
 
@@ -6217,3 +6217,4 @@
 - **Jan 11, 01:09 PM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
 - **Jan 11, 01:44 PM** - NASA seeks to accelerate development of Habitable Worlds Observatory (spacenews)
 - **Jan 11, 02:19 PM** - How the Air Force is revamping its acquisition shop with new ‘portfolios’ (breaking_defense)
+- **Jan 11, 02:54 PM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
