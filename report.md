@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 15 | 26 |
-| breaking_defense | 0 | 3 | 12 | 23 |
+| breaking_defense | 0 | 3 | 13 | 24 |
 | nyt | 0 | 1 | 13 | 22 |
 
 # Shown Order
@@ -6226,3 +6226,4 @@
 - **Jan 11, 06:24 PM** - How the Air Force is revamping its acquisition shop with new ‘portfolios’ (breaking_defense)
 - **Jan 11, 06:59 PM** - NASA May Return Early From International Space Station After Medical Issue (nyt)
 - **Jan 11, 07:35 PM** - Space Force moves to standardize satellites with ‘Handle 2.0’ contract (spacenews)
+- **Jan 11, 08:14 PM** - L3Harris hones DoD focus with sale of civil space propulsion unit (breaking_defense)
