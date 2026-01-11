@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 5 | 14 | 20 |
+| spacenews | 3 | 5 | 15 | 21 |
 | breaking_defense | 3 | 3 | 14 | 20 |
-| nyt | 0 | 1 | 12 | 19 |
+| nyt | 0 | 1 | 12 | 18 |
 
 # Shown Order
 
@@ -6197,3 +6197,4 @@
 - **Jan 11, 01:19 AM** - Medical issue could force early end of Crew-11 ISS mission (spacenews)
 - **Jan 11, 01:54 AM** - Grok for DoD and subs for North Korea: What you missed in defense over the break (breaking_defense)
 - **Jan 11, 02:29 AM** - NASA May Return Early From International Space Station After Medical Issue (nyt)
+- **Jan 11, 03:04 AM** - The ‘space tax’ on your self-driving car (spacenews)
