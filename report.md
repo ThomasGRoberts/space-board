@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 4 | 16 | 25 |
-| breaking_defense | 0 | 3 | 12 | 22 |
+| spacenews | 2 | 4 | 15 | 25 |
+| breaking_defense | 0 | 3 | 13 | 23 |
 | nyt | 0 | 1 | 13 | 21 |
 
 # Shown Order
@@ -6223,3 +6223,4 @@
 - **Jan 11, 04:39 PM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
 - **Jan 11, 05:14 PM** - Minibus provides $24.4 billion for NASA for fiscal year 2026 (spacenews)
 - **Jan 11, 05:49 PM** - NASA astrophysics, commercial satellites launch on SpaceX rideshare mission (spacenews)
+- **Jan 11, 06:24 PM** - How the Air Force is revamping its acquisition shop with new ‘portfolios’ (breaking_defense)
