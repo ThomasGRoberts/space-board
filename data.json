@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-11T00:04:31.686630+00:00",
-    "trigger_count": 6,
-    "current_item_id": "512c7f097e54920b48abfcd1f9c708e2",
+    "trigger_count": 0,
+    "current_item_id": "58b1de4d93645f25e8f020ddc9debb93",
     "data": [
         {
             "id": "f0b939c3a196e3ef9ad1bba82ce02526",
@@ -11736,6 +11736,18 @@
             "fetched_datetime": "2026-01-11T17:49:19.137060Z",
             "shown_at": [
                 "2026-01-11T17:49:19.751604Z"
+            ]
+        },
+        {
+            "id": "58b1de4d93645f25e8f020ddc9debb93",
+            "source": "spacenews",
+            "text": "Kepler network to link OroraTech sensors for Earth monitoring",
+            "source_link": "https://spacenews.com/kepler-network-to-link-ororatech-sensors-for-earth-monitoring/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-11T23:09:11.574826Z",
+            "shown_at": [
+                "2026-01-11T23:09:12.286970Z"
             ]
         }
     ]

@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 4 | 14 | 27 |
+| spacenews | 2 | 5 | 15 | 28 |
 | breaking_defense | 0 | 3 | 13 | 25 |
 | nyt | 0 | 1 | 13 | 24 |
 
@@ -6231,3 +6231,4 @@
 - **Jan 11, 09:24 PM** - Terran Orbital Appoints Michael Vishion as Vice President of Program Management (spacenews)
 - **Jan 11, 09:59 PM** - China holds the GPS advantage over the US. Here’s why, and how to solve it. (breaking_defense)
 - **Jan 11, 10:34 PM** - Scientists Discover Cloud-9, a Starless ‘Galaxy That Wasn’t’ (nyt)
+- **Jan 11, 11:09 PM** - Kepler network to link OroraTech sensors for Earth monitoring (spacenews)
