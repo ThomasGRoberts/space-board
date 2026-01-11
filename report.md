@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 5 | 14 | 20 |
+| spacenews | 3 | 5 | 15 | 21 |
 | breaking_defense | 3 | 3 | 13 | 20 |
 | nyt | 1 | 1 | 12 | 18 |
 
@@ -6194,3 +6194,4 @@
 - **Jan 10, 11:34 PM** - Interplanetary science needs a commercial backbone (spacenews)
 - **Jan 11, 12:09 AM** - Grok for DoD and subs for North Korea: What you missed in defense over the break (breaking_defense)
 - **Jan 11, 12:44 AM** - Google’s Ex-CEO Backs Start-Up Approach to Big Telescopes for Space and Astronomy (nyt)
+- **Jan 11, 01:19 AM** - Medical issue could force early end of Crew-11 ISS mission (spacenews)
