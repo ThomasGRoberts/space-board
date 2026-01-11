@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 14 | 26 |
 | breaking_defense | 0 | 3 | 13 | 24 |
-| nyt | 0 | 1 | 13 | 22 |
+| nyt | 0 | 1 | 14 | 23 |
 
 # Shown Order
 
@@ -6227,3 +6227,4 @@
 - **Jan 11, 06:59 PM** - NASA May Return Early From International Space Station After Medical Issue (nyt)
 - **Jan 11, 07:35 PM** - Space Force moves to standardize satellites with ‘Handle 2.0’ contract (spacenews)
 - **Jan 11, 08:14 PM** - L3Harris hones DoD focus with sale of civil space propulsion unit (breaking_defense)
+- **Jan 11, 08:49 PM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
