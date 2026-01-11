@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 3 | 15 | 21 |
-| breaking_defense | 0 | 3 | 13 | 20 |
+| spacenews | 3 | 3 | 16 | 22 |
+| breaking_defense | 0 | 3 | 12 | 20 |
 | nyt | 0 | 1 | 13 | 19 |
 
 # Shown Order
@@ -6215,3 +6215,4 @@
 - **Jan 11, 11:54 AM** - Minibus provides $24.4 billion for NASA for fiscal year 2026 (spacenews)
 - **Jan 11, 12:28 PM** - The year that was and the year that will be, according to our reporters (breaking_defense)
 - **Jan 11, 01:09 PM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
+- **Jan 11, 01:44 PM** - NASA seeks to accelerate development of Habitable Worlds Observatory (spacenews)
