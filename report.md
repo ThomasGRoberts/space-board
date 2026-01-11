@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 14 | 26 |
+| spacenews | 2 | 4 | 15 | 27 |
 | breaking_defense | 0 | 3 | 13 | 24 |
 | nyt | 0 | 1 | 13 | 23 |
 
@@ -6228,3 +6228,4 @@
 - **Jan 11, 07:35 PM** - Space Force moves to standardize satellites with ‘Handle 2.0’ contract (spacenews)
 - **Jan 11, 08:14 PM** - L3Harris hones DoD focus with sale of civil space propulsion unit (breaking_defense)
 - **Jan 11, 08:49 PM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
+- **Jan 11, 09:24 PM** - Terran Orbital Appoints Michael Vishion as Vice President of Program Management (spacenews)
