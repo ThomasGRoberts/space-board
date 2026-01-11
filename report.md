@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 3 | 16 | 23 |
-| breaking_defense | 0 | 3 | 12 | 21 |
+| spacenews | 3 | 3 | 15 | 23 |
+| breaking_defense | 0 | 3 | 13 | 22 |
 | nyt | 0 | 1 | 13 | 20 |
 
 # Shown Order
@@ -6219,3 +6219,4 @@
 - **Jan 11, 02:19 PM** - How the Air Force is revamping its acquisition shop with new ‘portfolios’ (breaking_defense)
 - **Jan 11, 02:54 PM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
 - **Jan 11, 03:29 PM** - The U.S. will seize space leadership – or China will take it (spacenews)
+- **Jan 11, 04:04 PM** - SpaceX to launch next SDA missile tracking satellites (breaking_defense)
