@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-11T00:04:31.686630+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a9424266043a86fea35833a639459b79",
+    "trigger_count": 0,
+    "current_item_id": "8632ba84cdfec98faa2018663f511a35",
     "data": [
         {
             "id": "f0b939c3a196e3ef9ad1bba82ce02526",
@@ -11716,6 +11716,18 @@
                 "2025-08-05T13:33:37.280478Z",
                 "2025-08-05T19:03:40.040515Z",
                 "2025-08-06T17:16:21.633828Z"
+            ]
+        },
+        {
+            "id": "8632ba84cdfec98faa2018663f511a35",
+            "source": "spacenews",
+            "text": "NASA astrophysics, commercial satellites launch on SpaceX rideshare mission",
+            "source_link": "https://spacenews.com/nasa-astrophysics-commercial-satellites-launch-on-spacex-rideshare-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-11T17:49:19.137060Z",
+            "shown_at": [
+                "2026-01-11T17:49:19.751604Z"
             ]
         }
     ]
