@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 5 | 15 | 20 |
+| spacenews | 3 | 5 | 16 | 21 |
 | breaking_defense | 0 | 3 | 12 | 20 |
 | nyt | 0 | 1 | 13 | 19 |
 
@@ -6206,3 +6206,4 @@
 - **Jan 11, 06:39 AM** - 2026 Outlook: Can Acquisition Reform Deliver for Military Space? (spacenews)
 - **Jan 11, 07:14 AM** - L3Harris hones DoD focus with sale of civil space propulsion unit (breaking_defense)
 - **Jan 11, 07:49 AM** - NASA May Return Early From International Space Station After Medical Issue (nyt)
+- **Jan 11, 08:24 AM** - Interplanetary science needs a commercial backbone (spacenews)
