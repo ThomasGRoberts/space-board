@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 5 | 16 | 21 |
-| breaking_defense | 0 | 3 | 12 | 20 |
+| spacenews | 3 | 5 | 15 | 21 |
+| breaking_defense | 0 | 3 | 13 | 21 |
 | nyt | 0 | 1 | 13 | 18 |
 
 # Shown Order
@@ -6210,3 +6210,4 @@
 - **Jan 11, 08:59 AM** - ‘Overwatch’ from space, cyber ops foundational to Maduro mission (breaking_defense)
 - **Jan 11, 09:34 AM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
 - **Jan 11, 10:09 AM** - FCC approves 7,500 additional Starlink satellites (spacenews)
+- **Jan 11, 10:44 AM** - China holds the GPS advantage over the US. Here’s why, and how to solve it. (breaking_defense)
