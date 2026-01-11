@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 4 | 15 | 20 |
+| spacenews | 3 | 4 | 16 | 21 |
 | breaking_defense | 0 | 3 | 13 | 20 |
 | nyt | 0 | 1 | 13 | 19 |
 
@@ -6212,3 +6212,4 @@
 - **Jan 11, 10:09 AM** - FCC approves 7,500 additional Starlink satellites (spacenews)
 - **Jan 11, 10:44 AM** - China holds the GPS advantage over the US. Here’s why, and how to solve it. (breaking_defense)
 - **Jan 11, 11:19 AM** - Google’s Ex-CEO Backs Start-Up Approach to Big Telescopes for Space and Astronomy (nyt)
+- **Jan 11, 11:54 AM** - Minibus provides $24.4 billion for NASA for fiscal year 2026 (spacenews)
