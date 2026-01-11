@@ -1,9 +1,100 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-01-10T00:03:21.933929+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2026-01-11T00:04:31.686630+00:00",
+    "trigger_count": 6,
     "current_item_id": "0b0faf03a0803943accf6e1e8794a8f2",
     "data": [
+        {
+            "id": "f0b939c3a196e3ef9ad1bba82ce02526",
+            "source": "spacenews",
+            "text": "Crew-11 to make early return Jan. 15",
+            "source_link": "https://spacenews.com/crew-11-to-make-early-return-jan-15/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-10T21:49:54.261672Z",
+            "shown_at": [
+                "2026-01-10T21:49:54.981784Z"
+            ]
+        },
+        {
+            "id": "06aacf303335a9fb51e5c418bedafb8e",
+            "source": "spacenews",
+            "text": "Space Force awards $739 million in launch orders to SpaceX",
+            "source_link": "https://spacenews.com/space-force-awards-739-million-in-launch-orders-to-spacex/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-10T18:19:24.713306Z",
+            "shown_at": [
+                "2026-01-10T18:53:51.983142Z"
+            ]
+        },
+        {
+            "id": "344be2996cdc49409f188bf56a6278dc",
+            "source": "spacenews",
+            "text": "FCC approves 7,500 additional Starlink satellites",
+            "source_link": "https://spacenews.com/fcc-approves-7500-additional-starlink-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-10T18:19:24.713247Z",
+            "shown_at": [
+                "2026-01-10T18:19:25.525528Z"
+            ]
+        },
+        {
+            "id": "2598624560369ff59ba5c3c3d3e29a94",
+            "source": "breaking_defense",
+            "text": "How the Air Force is revamping its acquisition shop with new ‘portfolios’",
+            "source_link": "https://breakingdefense.com/2026/01/how-the-air-force-is-revamping-its-acquisition-shop-with-new-portfolios/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-10T03:24:02.527176Z",
+            "shown_at": [
+                "2026-01-10T04:34:31.432664Z",
+                "2026-01-10T15:24:04.993614Z"
+            ]
+        },
+        {
+            "id": "0b6ef0a9392b1a0e3e301c163579e50f",
+            "source": "breaking_defense",
+            "text": "DIU to fund ‘unjammable’ magnetic navigation tech",
+            "source_link": "https://breakingdefense.com/2026/01/diu-to-fund-unjammable-magnetic-navigation-tech/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-10T03:24:02.527140Z",
+            "shown_at": [
+                "2026-01-10T03:59:01.825765Z",
+                "2026-01-10T13:39:14.959360Z"
+            ]
+        },
+        {
+            "id": "4409798d9bcf4851f880168d6af894ab",
+            "source": "breaking_defense",
+            "text": "SpaceX to launch next SDA missile tracking satellites",
+            "source_link": "https://breakingdefense.com/2026/01/spacex-to-launch-next-sda-missile-tracking-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-10T03:24:02.527085Z",
+            "shown_at": [
+                "2026-01-10T03:24:03.337367Z",
+                "2026-01-10T22:24:40.894155Z"
+            ]
+        },
+        {
+            "id": "6c8deffd2aa42fe238936779f2f03bae",
+            "source": "nyt",
+            "text": "Google’s Ex-CEO Backs Start-Up Approach to Big Telescopes for Space and Astronomy",
+            "source_link": "https://www.nytimes.com/2026/01/09/science/eric-schmidt-telescopes-google-space.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-10T02:49:17.645929Z",
+            "shown_at": [
+                "2026-01-10T02:49:18.202541Z",
+                "2026-01-10T05:44:04.612079Z",
+                "2026-01-10T11:19:49.825721Z",
+                "2026-01-10T13:04:46.053125Z",
+                "2026-01-10T16:34:59.980924Z"
+            ]
+        },
         {
             "id": "8c8524e4e90258061eb826533bb13f14",
             "source": "spacenews",
@@ -11595,248 +11686,6 @@
                 "2025-08-05T13:33:37.280478Z",
                 "2025-08-05T19:03:40.040515Z",
                 "2025-08-06T17:16:21.633828Z"
-            ]
-        },
-        {
-            "id": "36cc0e77dac0cb18a500224d304dbfad",
-            "source": "spacenews",
-            "text": "NASA acting administrator to meet with head of Roscosmos at KSC",
-            "source_link": "https://spacenews.com/nasa-acting-administrator-to-meet-with-head-of-roscosmos-at-ksc/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-30T20:29:06.849484Z",
-            "shown_at": [
-                "2025-07-30T20:29:07.807682Z",
-                "2025-08-02T11:37:48.134247Z",
-                "2025-08-03T07:51:41.514015Z",
-                "2025-08-03T09:45:39.144131Z",
-                "2025-08-03T17:37:35.238782Z",
-                "2025-08-06T16:47:48.436278Z"
-            ]
-        },
-        {
-            "id": "e1d33eab8e36fe729986a3a4b7f16a5d",
-            "source": "breaking_defense",
-            "text": "Space Force makes 5 awards for jam-resistant SATCOM",
-            "source_link": "https://breakingdefense.com/2025/07/space-force-makes-5-awards-for-jam-resistant-satcom/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-30T19:33:41.335124Z",
-            "shown_at": [
-                "2025-07-30T19:33:42.344789Z",
-                "2025-07-31T01:35:58.753372Z",
-                "2025-08-01T18:25:38.170048Z",
-                "2025-08-01T19:21:39.576469Z",
-                "2025-08-02T02:23:40.071700Z",
-                "2025-08-02T03:19:20.800577Z",
-                "2025-08-02T05:11:34.636354Z",
-                "2025-08-02T20:41:48.609017Z",
-                "2025-08-02T22:33:35.317572Z",
-                "2025-08-03T00:27:48.755666Z",
-                "2025-08-03T02:23:50.627954Z",
-                "2025-08-03T09:04:00.167809Z",
-                "2025-08-03T09:59:45.282122Z",
-                "2025-08-03T14:56:11.666010Z",
-                "2025-08-03T17:51:37.474515Z",
-                "2025-08-04T03:25:39.340140Z",
-                "2025-08-04T04:35:18.921105Z",
-                "2025-08-04T12:23:29.316676Z",
-                "2025-08-04T18:13:29.680780Z",
-                "2025-08-04T23:41:54.829026Z",
-                "2025-08-05T00:39:40.971009Z",
-                "2025-08-05T02:35:34.525285Z",
-                "2025-08-05T14:35:36.589957Z",
-                "2025-08-05T16:53:29.075224Z",
-                "2025-08-06T14:07:47.057509Z",
-                "2025-08-06T19:11:43.657404Z"
-            ]
-        },
-        {
-            "id": "5bf13099ddabb8ee20efb75d961a2c93",
-            "source": "breaking_defense",
-            "text": "It’s more than fuel: Why the Space Force needs in-space servicing, assembly, and manufacturing",
-            "source_link": "https://breakingdefense.com/2025/07/its-more-than-fuel-why-the-space-force-needs-in-space-servicing-assembly-and-manufacturing/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-30T17:09:36.351555Z",
-            "shown_at": [
-                "2025-07-30T17:09:37.054964Z",
-                "2025-08-01T20:18:01.561147Z",
-                "2025-08-01T21:13:39.439387Z",
-                "2025-08-01T22:37:35.565279Z",
-                "2025-08-02T06:07:37.142324Z",
-                "2025-08-02T08:59:50.944323Z",
-                "2025-08-02T09:57:44.346556Z",
-                "2025-08-02T10:53:51.139102Z",
-                "2025-08-03T01:25:47.929300Z",
-                "2025-08-03T06:13:17.148674Z",
-                "2025-08-03T11:53:35.735672Z",
-                "2025-08-03T16:53:39.956335Z",
-                "2025-08-03T18:47:55.448327Z",
-                "2025-08-03T20:43:47.123453Z",
-                "2025-08-03T22:39:43.369265Z",
-                "2025-08-04T02:27:26.575473Z",
-                "2025-08-04T11:25:52.102018Z",
-                "2025-08-04T15:45:49.142319Z",
-                "2025-08-04T20:07:54.276845Z",
-                "2025-08-05T05:25:25.936792Z",
-                "2025-08-05T06:23:43.051348Z",
-                "2025-08-05T08:17:41.049979Z",
-                "2025-08-05T09:13:25.718765Z",
-                "2025-08-06T16:32:01.306262Z"
-            ]
-        },
-        {
-            "id": "1db3540e53fc188732eee09453b7da30",
-            "source": "spacenews",
-            "text": "KSAT and AWS expand alliance in satellite communications",
-            "source_link": "https://spacenews.com/ksat-and-aws-expand-alliance-in-satellite-communications/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-30T14:11:40.843415Z",
-            "shown_at": [
-                "2025-07-30T14:11:41.406453Z",
-                "2025-08-02T04:02:04.562857Z",
-                "2025-08-02T13:35:35.987656Z",
-                "2025-08-03T06:55:55.476797Z",
-                "2025-08-03T16:37:43.147732Z",
-                "2025-08-04T00:22:03.528676Z"
-            ]
-        },
-        {
-            "id": "776d5e9c8a84e366f0ad03be316dce99",
-            "source": "spacenews",
-            "text": "GSLV launches NASA-ISRO radar satellite",
-            "source_link": "https://spacenews.com/gslv-launches-nasa-isro-radar-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-30T13:25:26.436782Z",
-            "shown_at": [
-                "2025-07-30T13:55:44.838790Z",
-                "2025-08-01T20:31:54.910721Z",
-                "2025-08-04T18:55:42.631957Z",
-                "2025-08-05T03:03:50.994208Z"
-            ]
-        },
-        {
-            "id": "5a51e6d6941bfdc85fd94d6b2372e148",
-            "source": "spacenews",
-            "text": "Space – the quiet element behind Midnight Hammer",
-            "source_link": "https://spacenews.com/space-the-quiet-element-behind-midnight-hammer/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-30T13:25:26.436740Z",
-            "shown_at": [
-                "2025-07-30T13:40:19.317716Z",
-                "2025-07-30T18:35:50.118388Z",
-                "2025-08-03T22:25:07.933800Z",
-                "2025-08-06T00:02:29.008969Z"
-            ]
-        },
-        {
-            "id": "385b1c63f3533d23511cf2d61e0676a4",
-            "source": "spacenews",
-            "text": "China launches new group of Guowang satellites from commercial spaceport",
-            "source_link": "https://spacenews.com/china-launches-new-group-of-guowang-satellites-from-commercial-spaceport/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-30T13:25:26.436683Z",
-            "shown_at": [
-                "2025-07-30T13:25:26.937391Z",
-                "2025-07-30T21:29:36.973083Z",
-                "2025-08-03T21:25:34.901527Z",
-                "2025-08-05T17:47:31.723184Z"
-            ]
-        },
-        {
-            "id": "6c8deffd2aa42fe238936779f2f03bae",
-            "source": "nyt",
-            "text": "Google’s Ex-CEO Backs Start-Up Approach to Big Telescopes for Space and Astronomy",
-            "source_link": "https://www.nytimes.com/2026/01/09/science/eric-schmidt-telescopes-google-space.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-10T02:49:17.645929Z",
-            "shown_at": [
-                "2026-01-10T02:49:18.202541Z",
-                "2026-01-10T05:44:04.612079Z",
-                "2026-01-10T11:19:49.825721Z",
-                "2026-01-10T13:04:46.053125Z",
-                "2026-01-10T16:34:59.980924Z"
-            ]
-        },
-        {
-            "id": "4409798d9bcf4851f880168d6af894ab",
-            "source": "breaking_defense",
-            "text": "SpaceX to launch next SDA missile tracking satellites",
-            "source_link": "https://breakingdefense.com/2026/01/spacex-to-launch-next-sda-missile-tracking-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-10T03:24:02.527085Z",
-            "shown_at": [
-                "2026-01-10T03:24:03.337367Z",
-                "2026-01-10T22:24:40.894155Z"
-            ]
-        },
-        {
-            "id": "0b6ef0a9392b1a0e3e301c163579e50f",
-            "source": "breaking_defense",
-            "text": "DIU to fund ‘unjammable’ magnetic navigation tech",
-            "source_link": "https://breakingdefense.com/2026/01/diu-to-fund-unjammable-magnetic-navigation-tech/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-10T03:24:02.527140Z",
-            "shown_at": [
-                "2026-01-10T03:59:01.825765Z",
-                "2026-01-10T13:39:14.959360Z"
-            ]
-        },
-        {
-            "id": "2598624560369ff59ba5c3c3d3e29a94",
-            "source": "breaking_defense",
-            "text": "How the Air Force is revamping its acquisition shop with new ‘portfolios’",
-            "source_link": "https://breakingdefense.com/2026/01/how-the-air-force-is-revamping-its-acquisition-shop-with-new-portfolios/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-10T03:24:02.527176Z",
-            "shown_at": [
-                "2026-01-10T04:34:31.432664Z",
-                "2026-01-10T15:24:04.993614Z"
-            ]
-        },
-        {
-            "id": "344be2996cdc49409f188bf56a6278dc",
-            "source": "spacenews",
-            "text": "FCC approves 7,500 additional Starlink satellites",
-            "source_link": "https://spacenews.com/fcc-approves-7500-additional-starlink-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-10T18:19:24.713247Z",
-            "shown_at": [
-                "2026-01-10T18:19:25.525528Z"
-            ]
-        },
-        {
-            "id": "06aacf303335a9fb51e5c418bedafb8e",
-            "source": "spacenews",
-            "text": "Space Force awards $739 million in launch orders to SpaceX",
-            "source_link": "https://spacenews.com/space-force-awards-739-million-in-launch-orders-to-spacex/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-10T18:19:24.713306Z",
-            "shown_at": [
-                "2026-01-10T18:53:51.983142Z"
-            ]
-        },
-        {
-            "id": "f0b939c3a196e3ef9ad1bba82ce02526",
-            "source": "spacenews",
-            "text": "Crew-11 to make early return Jan. 15",
-            "source_link": "https://spacenews.com/crew-11-to-make-early-return-jan-15/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-10T21:49:54.261672Z",
-            "shown_at": [
-                "2026-01-10T21:49:54.981784Z"
             ]
         }
     ]
