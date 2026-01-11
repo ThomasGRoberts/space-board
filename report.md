@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 4 | 14 | 27 |
 | breaking_defense | 0 | 3 | 13 | 25 |
-| nyt | 0 | 1 | 13 | 23 |
+| nyt | 0 | 1 | 14 | 24 |
 
 # Shown Order
 
@@ -6230,3 +6230,4 @@
 - **Jan 11, 08:49 PM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
 - **Jan 11, 09:24 PM** - Terran Orbital Appoints Michael Vishion as Vice President of Program Management (spacenews)
 - **Jan 11, 09:59 PM** - China holds the GPS advantage over the US. Here’s why, and how to solve it. (breaking_defense)
+- **Jan 11, 10:34 PM** - Scientists Discover Cloud-9, a Starless ‘Galaxy That Wasn’t’ (nyt)
