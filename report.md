@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 5 | 14 | 20 |
 | breaking_defense | 3 | 3 | 13 | 20 |
-| nyt | 1 | 2 | 11 | 18 |
+| nyt | 1 | 2 | 12 | 19 |
 
 # Shown Order
 
@@ -6193,3 +6193,4 @@
 - **Jan 10, 10:59 PM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
 - **Jan 10, 11:34 PM** - Interplanetary science needs a commercial backbone (spacenews)
 - **Jan 11, 12:09 AM** - Grok for DoD and subs for North Korea: What you missed in defense over the break (breaking_defense)
+- **Jan 11, 12:44 AM** - Google’s Ex-CEO Backs Start-Up Approach to Big Telescopes for Space and Astronomy (nyt)
