@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 5 | 15 | 21 |
 | breaking_defense | 0 | 3 | 13 | 20 |
-| nyt | 0 | 1 | 13 | 18 |
+| nyt | 0 | 1 | 14 | 19 |
 
 # Shown Order
 
@@ -6211,3 +6211,4 @@
 - **Jan 11, 09:34 AM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
 - **Jan 11, 10:09 AM** - FCC approves 7,500 additional Starlink satellites (spacenews)
 - **Jan 11, 10:44 AM** - China holds the GPS advantage over the US. Here’s why, and how to solve it. (breaking_defense)
+- **Jan 11, 11:19 AM** - Google’s Ex-CEO Backs Start-Up Approach to Big Telescopes for Space and Astronomy (nyt)
