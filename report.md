@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 6 | 14 | 29 |
+| spacenews | 4 | 7 | 15 | 30 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 13 | 26 |
 
@@ -6229,3 +6229,4 @@
 - **Jan 12, 09:09 AM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
 - **Jan 12, 09:44 AM** - China files ITU paperwork for megaconstellations totaling nearly 200,000 satellites (spacenews)
 - **Jan 12, 10:24 AM** - How the Air Force is revamping its acquisition shop with new ‘portfolios’ (breaking_defense)
+- **Jan 12, 10:59 AM** - India’s PSLV launch fails during ascent, 16 satellites lost (spacenews)

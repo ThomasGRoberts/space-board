@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-12T00:04:29.528474+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2598624560369ff59ba5c3c3d3e29a94",
+    "trigger_count": 0,
+    "current_item_id": "6529e55a04b9e2a647b7ca73f51fec3e",
     "data": [
         {
             "id": "58b1de4d93645f25e8f020ddc9debb93",
@@ -11734,6 +11734,18 @@
             "fetched_datetime": "2026-01-12T09:44:29.884008Z",
             "shown_at": [
                 "2026-01-12T09:44:30.762712Z"
+            ]
+        },
+        {
+            "id": "6529e55a04b9e2a647b7ca73f51fec3e",
+            "source": "spacenews",
+            "text": "India’s PSLV launch fails during ascent, 16 satellites lost",
+            "source_link": "https://spacenews.com/indias-pslv-launch-fails-during-ascent-16-satellites-lost/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-12T10:59:11.939777Z",
+            "shown_at": [
+                "2026-01-12T10:59:12.847356Z"
             ]
         }
     ]
