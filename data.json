@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-12T00:04:29.528474+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9423923e73c359cef3b2cdcb13cf790c",
+    "trigger_count": 0,
+    "current_item_id": "42059eb42f6d179278f05413e1de3aef",
     "data": [
         {
             "id": "58b1de4d93645f25e8f020ddc9debb93",
@@ -11815,9 +11815,12 @@
             "source": "spacenews",
             "text": "AI needs spatial intelligence. The GEOINT industry will deliver it.",
             "source_link": "https://spacenews.com/ai-needs-spatial-intelligence-the-geoint-industry-will-deliver-it/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-01-12T15:39:47.939343Z"
+            "fetched_datetime": "2026-01-12T15:39:47.939343Z",
+            "shown_at": [
+                "2026-01-12T16:14:23.365311Z"
+            ]
         }
     ]
 }
