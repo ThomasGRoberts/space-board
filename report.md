@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 14 | 29 |
-| breaking_defense | 0 | 0 | 14 | 26 |
-| nyt | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -6223,3 +6223,4 @@
 - **Jan 12, 05:34 AM** - Scientists Discover Cloud-9, a Starless ‘Galaxy That Wasn’t’ (nyt)
 - **Jan 12, 06:09 AM** - The ‘space tax’ on your self-driving car (spacenews)
 - **Jan 12, 06:44 AM** - China holds the GPS advantage over the US. Here’s why, and how to solve it. (breaking_defense)
+- **Jan 12, 07:24 AM** - NASA May Return Early From International Space Station After Medical Issue (nyt)
