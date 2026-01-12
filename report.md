@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 11 | 16 | 32 |
+| spacenews | 10 | 13 | 17 | 33 |
 | breaking_defense | 0 | 0 | 12 | 24 |
 | nyt | 0 | 0 | 11 | 24 |
 
@@ -6236,3 +6236,4 @@
 - **Jan 12, 01:51 PM** - This year must bring greater collaboration against orbital congestion (spacenews)
 - **Jan 12, 02:29 PM** - Space is becoming an industrial economy (spacenews)
 - **Jan 12, 03:04 PM** - NASA outlines path to Artemis 2 launch (spacenews)
+- **Jan 12, 03:39 PM** - NRO taps Capitol Hill staffer Bill Adkins as principal deputy director (spacenews)
