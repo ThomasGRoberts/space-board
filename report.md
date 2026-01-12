@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 14 | 30 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 | nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -6219,3 +6219,4 @@
 - **Jan 12, 03:14 AM** - Service acquisition leaders: Why this time will be different for defense acquisition (breaking_defense)
 - **Jan 12, 03:49 AM** - Scientists Discover Cloud-9, a Starless ‘Galaxy That Wasn’t’ (nyt)
 - **Jan 12, 04:24 AM** - NASA continues to work toward February launch of Artemis 2 (spacenews)
+- **Jan 12, 04:59 AM** - How the Air Force is revamping its acquisition shop with new ‘portfolios’ (breaking_defense)
