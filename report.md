@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 13 | 18 | 33 |
+| spacenews | 11 | 14 | 19 | 34 |
 | breaking_defense | 0 | 0 | 11 | 24 |
 | nyt | 0 | 0 | 10 | 23 |
 
@@ -6238,3 +6238,4 @@
 - **Jan 12, 03:04 PM** - NASA outlines path to Artemis 2 launch (spacenews)
 - **Jan 12, 03:39 PM** - NRO taps Capitol Hill staffer Bill Adkins as principal deputy director (spacenews)
 - **Jan 12, 04:14 PM** - AI needs spatial intelligence. The GEOINT industry will deliver it. (spacenews)
+- **Jan 12, 04:49 PM** - Tyvak International’s LIDE satellite completes initial on-orbit 5G tests (spacenews)

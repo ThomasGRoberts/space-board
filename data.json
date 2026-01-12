@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-12T00:04:29.528474+00:00",
-    "trigger_count": 6,
-    "current_item_id": "42059eb42f6d179278f05413e1de3aef",
+    "trigger_count": 0,
+    "current_item_id": "b31ece842fb4b388555f6b2e18d9ec13",
     "data": [
         {
             "id": "58b1de4d93645f25e8f020ddc9debb93",
@@ -11820,6 +11820,18 @@
             "fetched_datetime": "2026-01-12T15:39:47.939343Z",
             "shown_at": [
                 "2026-01-12T16:14:23.365311Z"
+            ]
+        },
+        {
+            "id": "b31ece842fb4b388555f6b2e18d9ec13",
+            "source": "spacenews",
+            "text": "Tyvak International’s LIDE satellite completes initial on-orbit 5G tests",
+            "source_link": "https://spacenews.com/tyvak-internationals-lide-satellite-completes-initial-on-orbit-5g-tests/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-12T16:49:11.254694Z",
+            "shown_at": [
+                "2026-01-12T16:49:11.821485Z"
             ]
         }
     ]
