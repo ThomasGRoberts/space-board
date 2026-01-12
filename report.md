@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 14 | 18 | 34 |
 | breaking_defense | 0 | 0 | 11 | 23 |
-| nyt | 0 | 0 | 10 | 23 |
+| nyt | 0 | 0 | 11 | 24 |
 
 # Shown Order
 
@@ -6239,3 +6239,4 @@
 - **Jan 12, 03:39 PM** - NRO taps Capitol Hill staffer Bill Adkins as principal deputy director (spacenews)
 - **Jan 12, 04:14 PM** - AI needs spatial intelligence. The GEOINT industry will deliver it. (spacenews)
 - **Jan 12, 04:49 PM** - Tyvak International’s LIDE satellite completes initial on-orbit 5G tests (spacenews)
+- **Jan 12, 05:24 PM** - NASA May Return Early From International Space Station After Medical Issue (nyt)
