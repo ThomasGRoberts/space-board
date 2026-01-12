@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 14 | 29 |
 | breaking_defense | 0 | 0 | 13 | 26 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -6226,3 +6226,4 @@
 - **Jan 12, 07:24 AM** - NASA May Return Early From International Space Station After Medical Issue (nyt)
 - **Jan 12, 07:58 AM** - China’s astronauts complete cave training amid preparations for moon missions (spacenews)
 - **Jan 12, 08:34 AM** - How the Air Force is revamping its acquisition shop with new ‘portfolios’ (breaking_defense)
+- **Jan 12, 09:09 AM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
