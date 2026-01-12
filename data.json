@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-12T00:04:29.528474+00:00",
-    "trigger_count": 6,
-    "current_item_id": "aa6ab18d464b613deb32de55d788b11d",
+    "trigger_count": 0,
+    "current_item_id": "7ffecd077580fd3cb02c3a5d664a9dca",
     "data": [
         {
             "id": "58b1de4d93645f25e8f020ddc9debb93",
@@ -11854,6 +11854,18 @@
             "fetched_datetime": "2026-01-12T19:50:26.138894Z",
             "shown_at": [
                 "2026-01-12T19:50:27.034755Z"
+            ]
+        },
+        {
+            "id": "7ffecd077580fd3cb02c3a5d664a9dca",
+            "source": "spacenews",
+            "text": "Portugal signs the Artemis Accords",
+            "source_link": "https://spacenews.com/portugal-signs-the-artemis-accords/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-12T23:58:57.575147Z",
+            "shown_at": [
+                "2026-01-12T23:58:58.424332Z"
             ]
         }
     ]
