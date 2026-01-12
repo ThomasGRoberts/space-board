@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 14 | 30 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 | nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -6231,3 +6231,4 @@
 - **Jan 12, 10:24 AM** - How the Air Force is revamping its acquisition shop with new ‘portfolios’ (breaking_defense)
 - **Jan 12, 10:59 AM** - India’s PSLV launch fails during ascent, 16 satellites lost (spacenews)
 - **Jan 12, 11:34 AM** - Google’s Ex-CEO Backs Start-Up Approach to Big Telescopes for Space and Astronomy (nyt)
+- **Jan 12, 12:09 PM** - Grok for DoD and subs for North Korea: What you missed in defense over the break (breaking_defense)
