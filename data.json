@@ -1,9 +1,33 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-01-11T00:04:31.686630+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2026-01-12T00:04:29.528474+00:00",
+    "trigger_count": 4,
     "current_item_id": "79e1e6e29d5c062a2b184cba02c56afc",
     "data": [
+        {
+            "id": "58b1de4d93645f25e8f020ddc9debb93",
+            "source": "spacenews",
+            "text": "Kepler network to link OroraTech sensors for Earth monitoring",
+            "source_link": "https://spacenews.com/kepler-network-to-link-ororatech-sensors-for-earth-monitoring/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-11T23:09:11.574826Z",
+            "shown_at": [
+                "2026-01-11T23:09:12.286970Z"
+            ]
+        },
+        {
+            "id": "8632ba84cdfec98faa2018663f511a35",
+            "source": "spacenews",
+            "text": "NASA astrophysics, commercial satellites launch on SpaceX rideshare mission",
+            "source_link": "https://spacenews.com/nasa-astrophysics-commercial-satellites-launch-on-spacex-rideshare-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-11T17:49:19.137060Z",
+            "shown_at": [
+                "2026-01-11T17:49:19.751604Z"
+            ]
+        },
         {
             "id": "f0b939c3a196e3ef9ad1bba82ce02526",
             "source": "spacenews",
@@ -11681,74 +11705,6 @@
                 "2025-07-31T16:29:32.506437Z",
                 "2025-08-02T05:53:52.088186Z",
                 "2025-08-06T18:13:51.271832Z"
-            ]
-        },
-        {
-            "id": "e8fe5fb12735878e43b44bc5641d8de9",
-            "source": "spacenews",
-            "text": "Senate Commerce Committee advances Jacobs nomination for NOAA administrator",
-            "source_link": "https://spacenews.com/senate-commerce-committee-advances-jacobs-nomination-for-noaa-administrator/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-31T00:53:18.033185Z",
-            "shown_at": [
-                "2025-07-31T00:53:18.625303Z",
-                "2025-08-03T05:01:53.977308Z",
-                "2025-08-05T18:35:42.207365Z",
-                "2025-08-06T04:31:59.252141Z"
-            ]
-        },
-        {
-            "id": "7191aa00a7408b35479e86d82685d40e",
-            "source": "breaking_defense",
-            "text": "Here’s the role that space-based interceptors will play in Golden Dome",
-            "source_link": "https://breakingdefense.com/2025/07/heres-the-role-that-space-based-interceptors-will-play-in-golden-dome/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-07-30T20:43:30.486695Z",
-            "shown_at": [
-                "2025-07-30T20:43:31.166675Z",
-                "2025-08-01T23:35:56.377277Z",
-                "2025-08-02T00:31:51.481915Z",
-                "2025-08-02T13:49:38.587780Z",
-                "2025-08-02T16:37:15.579323Z",
-                "2025-08-03T03:19:47.918740Z",
-                "2025-08-03T05:17:43.566473Z",
-                "2025-08-03T07:09:37.636995Z",
-                "2025-08-03T10:57:38.081490Z",
-                "2025-08-03T19:47:49.052390Z",
-                "2025-08-04T06:32:23.818328Z",
-                "2025-08-04T10:27:15.908431Z",
-                "2025-08-04T14:47:58.951988Z",
-                "2025-08-04T21:05:41.437676Z",
-                "2025-08-05T12:05:50.540574Z",
-                "2025-08-05T13:33:37.280478Z",
-                "2025-08-05T19:03:40.040515Z",
-                "2025-08-06T17:16:21.633828Z"
-            ]
-        },
-        {
-            "id": "8632ba84cdfec98faa2018663f511a35",
-            "source": "spacenews",
-            "text": "NASA astrophysics, commercial satellites launch on SpaceX rideshare mission",
-            "source_link": "https://spacenews.com/nasa-astrophysics-commercial-satellites-launch-on-spacex-rideshare-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-11T17:49:19.137060Z",
-            "shown_at": [
-                "2026-01-11T17:49:19.751604Z"
-            ]
-        },
-        {
-            "id": "58b1de4d93645f25e8f020ddc9debb93",
-            "source": "spacenews",
-            "text": "Kepler network to link OroraTech sensors for Earth monitoring",
-            "source_link": "https://spacenews.com/kepler-network-to-link-ororatech-sensors-for-earth-monitoring/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-11T23:09:11.574826Z",
-            "shown_at": [
-                "2026-01-11T23:09:12.286970Z"
             ]
         }
     ]
