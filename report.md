@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 12 | 17 | 32 |
+| spacenews | 10 | 12 | 18 | 33 |
 | breaking_defense | 1 | 1 | 11 | 24 |
 | nyt | 0 | 0 | 11 | 24 |
 
@@ -6244,3 +6244,4 @@
 - **Jan 12, 06:34 PM** - The ‘space tax’ on your self-driving car (spacenews)
 - **Jan 12, 07:09 PM** - Google’s Ex-CEO Backs Start-Up Approach to Big Telescopes for Space and Astronomy (nyt)
 - **Jan 12, 07:50 PM** - Sweden allocates $1.6B to build territorial air defense capability, $140M for space (breaking_defense)
+- **Jan 12, 08:28 PM** - Space is becoming an industrial economy (spacenews)
