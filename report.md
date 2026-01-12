@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 14 | 29 |
 | breaking_defense | 0 | 3 | 13 | 27 |
-| nyt | 0 | 1 | 13 | 25 |
+| nyt | 0 | 1 | 14 | 26 |
 
 # Shown Order
 
@@ -6214,3 +6214,4 @@
 - **Jan 12, 12:19 AM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
 - **Jan 12, 12:54 AM** - FCC approves 7,500 additional Starlink satellites (spacenews)
 - **Jan 12, 01:29 AM** - Grok for DoD and subs for North Korea: What you missed in defense over the break (breaking_defense)
+- **Jan 12, 02:04 AM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
