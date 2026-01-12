@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-12T00:04:29.528474+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1015c59b68cd81eca1fac22e2a7801ae",
+    "trigger_count": 0,
+    "current_item_id": "d296930546e76fa0b47d534bca945402",
     "data": [
         {
             "id": "58b1de4d93645f25e8f020ddc9debb93",
@@ -11749,6 +11749,27 @@
             "shown_at": [
                 "2026-01-12T10:59:12.847356Z"
             ]
+        },
+        {
+            "id": "d296930546e76fa0b47d534bca945402",
+            "source": "spacenews",
+            "text": "Applied lessons for NASA’s science programs",
+            "source_link": "https://spacenews.com/applied-lessons-for-nasas-science-programs/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-12T12:51:06.421847Z",
+            "shown_at": [
+                "2026-01-12T12:51:07.083387Z"
+            ]
+        },
+        {
+            "id": "8eb0d6f22f47d01d3b2d583fdb0cdc61",
+            "source": "spacenews",
+            "text": "This year must bring greater collaboration against orbital congestion",
+            "source_link": "https://spacenews.com/this-year-must-bring-greater-collaboration-against-orbital-congestion/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-01-12T12:51:06.421918Z"
         }
     ]
 }
