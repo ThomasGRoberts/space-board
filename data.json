@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-12T00:04:29.528474+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6c8deffd2aa42fe238936779f2f03bae",
+    "trigger_count": 0,
+    "current_item_id": "1acdb0e236ffe46c63ffe4942562c05d",
     "data": [
         {
             "id": "58b1de4d93645f25e8f020ddc9debb93",
@@ -11836,6 +11836,18 @@
             "fetched_datetime": "2026-01-12T16:49:11.254694Z",
             "shown_at": [
                 "2026-01-12T16:49:11.821485Z"
+            ]
+        },
+        {
+            "id": "1acdb0e236ffe46c63ffe4942562c05d",
+            "source": "breaking_defense",
+            "text": "Sweden allocates $1.6B to build territorial air defense capability, $140M for space",
+            "source_link": "https://breakingdefense.com/2026/01/sweden-allocates-1-6b-to-build-territorial-air-defense-capability-140m-for-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-12T19:50:26.138894Z",
+            "shown_at": [
+                "2026-01-12T19:50:27.034755Z"
             ]
         }
     ]
