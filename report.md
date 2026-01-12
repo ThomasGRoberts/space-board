@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 11 | 17 | 31 |
+| spacenews | 10 | 11 | 18 | 32 |
 | breaking_defense | 1 | 1 | 11 | 25 |
 | nyt | 0 | 0 | 11 | 24 |
 
@@ -6247,3 +6247,4 @@
 - **Jan 12, 08:28 PM** - Space is becoming an industrial economy (spacenews)
 - **Jan 12, 09:05 PM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
 - **Jan 12, 09:39 PM** - How the Air Force is revamping its acquisition shop with new ‘portfolios’ (breaking_defense)
+- **Jan 12, 10:14 PM** - APPLICATIONS OPEN FOR COHORT 4 OF SDA TAP LAB – CATALYST CAMPUS MINI ACCELERATOR (spacenews)
