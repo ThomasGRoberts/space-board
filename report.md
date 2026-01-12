@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 14 | 30 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 | nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -6225,3 +6225,4 @@
 - **Jan 12, 06:44 AM** - China holds the GPS advantage over the US. Here’s why, and how to solve it. (breaking_defense)
 - **Jan 12, 07:24 AM** - NASA May Return Early From International Space Station After Medical Issue (nyt)
 - **Jan 12, 07:58 AM** - China’s astronauts complete cave training amid preparations for moon missions (spacenews)
+- **Jan 12, 08:34 AM** - How the Air Force is revamping its acquisition shop with new ‘portfolios’ (breaking_defense)
