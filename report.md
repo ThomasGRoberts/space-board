@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 12 | 18 | 32 |
 | breaking_defense | 0 | 0 | 11 | 24 |
-| nyt | 0 | 0 | 10 | 24 |
+| nyt | 0 | 0 | 11 | 25 |
 
 # Shown Order
 
@@ -6242,3 +6242,4 @@
 - **Jan 12, 05:24 PM** - NASA May Return Early From International Space Station After Medical Issue (nyt)
 - **Jan 12, 05:59 PM** - SpaceX to launch next SDA missile tracking satellites (breaking_defense)
 - **Jan 12, 06:34 PM** - The ‘space tax’ on your self-driving car (spacenews)
+- **Jan 12, 07:09 PM** - Google’s Ex-CEO Backs Start-Up Approach to Big Telescopes for Space and Astronomy (nyt)
