@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 9 | 15 | 30 |
+| spacenews | 6 | 9 | 15 | 31 |
 | breaking_defense | 0 | 0 | 13 | 25 |
 | nyt | 0 | 0 | 12 | 25 |
 
@@ -6233,3 +6233,4 @@
 - **Jan 12, 11:34 AM** - Google’s Ex-CEO Backs Start-Up Approach to Big Telescopes for Space and Astronomy (nyt)
 - **Jan 12, 12:09 PM** - Grok for DoD and subs for North Korea: What you missed in defense over the break (breaking_defense)
 - **Jan 12, 12:51 PM** - Applied lessons for NASA’s science programs (spacenews)
+- **Jan 12, 01:51 PM** - This year must bring greater collaboration against orbital congestion (spacenews)
