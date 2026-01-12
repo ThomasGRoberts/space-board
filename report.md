@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 14 | 17 | 33 |
-| breaking_defense | 0 | 0 | 11 | 23 |
+| breaking_defense | 0 | 0 | 12 | 24 |
 | nyt | 0 | 0 | 11 | 24 |
 
 # Shown Order
@@ -6240,3 +6240,4 @@
 - **Jan 12, 04:14 PM** - AI needs spatial intelligence. The GEOINT industry will deliver it. (spacenews)
 - **Jan 12, 04:49 PM** - Tyvak International’s LIDE satellite completes initial on-orbit 5G tests (spacenews)
 - **Jan 12, 05:24 PM** - NASA May Return Early From International Space Station After Medical Issue (nyt)
+- **Jan 12, 05:59 PM** - SpaceX to launch next SDA missile tracking satellites (breaking_defense)
