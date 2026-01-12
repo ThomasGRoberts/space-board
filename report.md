@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 14 | 29 |
-| breaking_defense | 0 | 3 | 13 | 27 |
+| breaking_defense | 0 | 3 | 14 | 28 |
 | nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -6216,3 +6216,4 @@
 - **Jan 12, 01:29 AM** - Grok for DoD and subs for North Korea: What you missed in defense over the break (breaking_defense)
 - **Jan 12, 02:04 AM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
 - **Jan 12, 02:39 AM** - Interplanetary science needs a commercial backbone (spacenews)
+- **Jan 12, 03:14 AM** - Service acquisition leaders: Why this time will be different for defense acquisition (breaking_defense)
