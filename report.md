@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 11 | 16 | 31 |
+| spacenews | 8 | 11 | 17 | 32 |
 | breaking_defense | 0 | 0 | 12 | 25 |
 | nyt | 0 | 0 | 11 | 24 |
 
@@ -6235,3 +6235,4 @@
 - **Jan 12, 12:51 PM** - Applied lessons for NASA’s science programs (spacenews)
 - **Jan 12, 01:51 PM** - This year must bring greater collaboration against orbital congestion (spacenews)
 - **Jan 12, 02:29 PM** - Space is becoming an industrial economy (spacenews)
+- **Jan 12, 03:04 PM** - NASA outlines path to Artemis 2 launch (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-12T00:04:29.528474+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b453886d2ae01975691e736af19c0bfd",
+    "trigger_count": 0,
+    "current_item_id": "7bdc9cb79ee8cb1baa28afdf19d15aa5",
     "data": [
         {
             "id": "58b1de4d93645f25e8f020ddc9debb93",
@@ -11791,9 +11791,12 @@
             "source": "spacenews",
             "text": "NASA outlines path to Artemis 2 launch",
             "source_link": "https://spacenews.com/nasa-outlines-path-to-artemis-2-launch/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-01-12T14:29:07.366251Z"
+            "fetched_datetime": "2026-01-12T14:29:07.366251Z",
+            "shown_at": [
+                "2026-01-12T15:04:31.669179Z"
+            ]
         }
     ]
 }
