@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 14 | 28 |
 | breaking_defense | 0 | 3 | 13 | 26 |
-| nyt | 0 | 1 | 13 | 24 |
+| nyt | 0 | 1 | 14 | 25 |
 
 # Shown Order
 
@@ -6211,3 +6211,4 @@
 - **Jan 11, 10:34 PM** - Scientists Discover Cloud-9, a Starless ‘Galaxy That Wasn’t’ (nyt)
 - **Jan 11, 11:09 PM** - Kepler network to link OroraTech sensors for Earth monitoring (spacenews)
 - **Jan 11, 11:44 PM** - China holds the GPS advantage over the US. Here’s why, and how to solve it. (breaking_defense)
+- **Jan 12, 12:19 AM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
