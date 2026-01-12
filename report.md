@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 5 | 14 | 29 |
+| spacenews | 3 | 6 | 15 | 30 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 13 | 26 |
 
@@ -6227,3 +6227,4 @@
 - **Jan 12, 07:58 AM** - China’s astronauts complete cave training amid preparations for moon missions (spacenews)
 - **Jan 12, 08:34 AM** - How the Air Force is revamping its acquisition shop with new ‘portfolios’ (breaking_defense)
 - **Jan 12, 09:09 AM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
+- **Jan 12, 09:44 AM** - China files ITU paperwork for megaconstellations totaling nearly 200,000 satellites (spacenews)

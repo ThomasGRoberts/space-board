@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-12T00:04:29.528474+00:00",
-    "trigger_count": 6,
-    "current_item_id": "16e19aeaa65c5f54640a4632a1e017b2",
+    "trigger_count": 0,
+    "current_item_id": "a045db3f2f8e516d54a4579ed155b459",
     "data": [
         {
             "id": "58b1de4d93645f25e8f020ddc9debb93",
@@ -11721,6 +11721,18 @@
                 "2025-07-31T16:29:32.506437Z",
                 "2025-08-02T05:53:52.088186Z",
                 "2025-08-06T18:13:51.271832Z"
+            ]
+        },
+        {
+            "id": "a045db3f2f8e516d54a4579ed155b459",
+            "source": "spacenews",
+            "text": "China files ITU paperwork for megaconstellations totaling nearly 200,000 satellites",
+            "source_link": "https://spacenews.com/china-files-itu-paperwork-for-megaconstellations-totaling-nearly-200000-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-12T09:44:29.884008Z",
+            "shown_at": [
+                "2026-01-12T09:44:30.762712Z"
             ]
         }
     ]
