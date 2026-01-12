@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 12 | 17 | 32 |
+| spacenews | 10 | 12 | 18 | 33 |
 | breaking_defense | 0 | 0 | 11 | 24 |
 | nyt | 0 | 0 | 11 | 24 |
 
@@ -6241,3 +6241,4 @@
 - **Jan 12, 04:49 PM** - Tyvak International’s LIDE satellite completes initial on-orbit 5G tests (spacenews)
 - **Jan 12, 05:24 PM** - NASA May Return Early From International Space Station After Medical Issue (nyt)
 - **Jan 12, 05:59 PM** - SpaceX to launch next SDA missile tracking satellites (breaking_defense)
+- **Jan 12, 06:34 PM** - The ‘space tax’ on your self-driving car (spacenews)
