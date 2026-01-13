@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 12 | 17 | 32 |
-| breaking_defense | 1 | 1 | 11 | 24 |
+| breaking_defense | 1 | 1 | 12 | 25 |
 | nyt | 0 | 0 | 11 | 24 |
 
 # Shown Order
@@ -6176,3 +6176,4 @@
 - **Jan 13, 02:54 AM** - L3Harris hones DoD focus with sale of civil space propulsion unit (breaking_defense)
 - **Jan 13, 03:34 AM** - 2026 Outlook: Can Acquisition Reform Deliver for Military Space? (spacenews)
 - **Jan 13, 04:09 AM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
+- **Jan 13, 04:44 AM** - SpaceX to launch next SDA missile tracking satellites (breaking_defense)
