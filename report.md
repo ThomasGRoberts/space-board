@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 12 | 17 | 31 |
+| spacenews | 10 | 12 | 18 | 32 |
 | breaking_defense | 1 | 1 | 11 | 25 |
 | nyt | 0 | 0 | 11 | 24 |
 
@@ -6171,3 +6171,4 @@
 - **Jan 12, 11:58 PM** - Portugal signs the Artemis Accords (spacenews)
 - **Jan 13, 12:34 AM** - Google’s Ex-CEO Backs Start-Up Approach to Big Telescopes for Space and Astronomy (nyt)
 - **Jan 13, 01:09 AM** - China holds the GPS advantage over the US. Here’s why, and how to solve it. (breaking_defense)
+- **Jan 13, 01:44 AM** - AI needs spatial intelligence. The GEOINT industry will deliver it. (spacenews)
