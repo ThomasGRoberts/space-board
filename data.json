@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-13T00:04:33.196575+00:00",
-    "trigger_count": 6,
-    "current_item_id": "72ee9a26d2c53229a243265c674b983e",
+    "trigger_count": 0,
+    "current_item_id": "957e9f8193b68fe97b67cdaf63afedf7",
     "data": [
         {
             "id": "7ffecd077580fd3cb02c3a5d664a9dca",
@@ -11706,6 +11706,27 @@
             "shown_at": [
                 "2026-01-13T11:49:18.009970Z"
             ]
+        },
+        {
+            "id": "957e9f8193b68fe97b67cdaf63afedf7",
+            "source": "spacenews",
+            "text": "Orbion delivers 33 electric thrusters to York Space for U.S. military constellation",
+            "source_link": "https://spacenews.com/orbion-delivers-33-electric-thrusters-to-york-space-for-u-s-military-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-13T12:24:10.679081Z",
+            "shown_at": [
+                "2026-01-13T12:24:11.380581Z"
+            ]
+        },
+        {
+            "id": "44da74061043079e975621bbc2a9a358",
+            "source": "spacenews",
+            "text": "2026 will be the year of space nuclear power and surviving the lunar night",
+            "source_link": "https://spacenews.com/2026-will-be-the-year-of-space-nuclear-power-and-surviving-the-lunar-night/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-01-13T12:24:10.679134Z"
         }
     ]
 }
