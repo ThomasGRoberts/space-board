@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 12 | 18 | 32 |
 | breaking_defense | 1 | 1 | 11 | 24 |
-| nyt | 0 | 0 | 10 | 24 |
+| nyt | 0 | 0 | 11 | 25 |
 
 # Shown Order
 
@@ -6178,3 +6178,4 @@
 - **Jan 13, 04:09 AM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
 - **Jan 13, 04:44 AM** - SpaceX to launch next SDA missile tracking satellites (breaking_defense)
 - **Jan 13, 05:19 AM** - Crew-11 to make early return Jan. 15 (spacenews)
+- **Jan 13, 05:55 AM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
