@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 12 | 17 | 31 |
+| spacenews | 10 | 12 | 18 | 32 |
 | breaking_defense | 1 | 1 | 11 | 25 |
 | nyt | 0 | 0 | 11 | 24 |
 
@@ -6183,3 +6183,4 @@
 - **Jan 13, 07:04 AM** - 2026 Outlook: Can Acquisition Reform Deliver for Military Space? (spacenews)
 - **Jan 13, 07:39 AM** - Scientists Discover Cloud-9, a Starless ‘Galaxy That Wasn’t’ (nyt)
 - **Jan 13, 08:14 AM** - DIU to fund ‘unjammable’ magnetic navigation tech (breaking_defense)
+- **Jan 13, 08:49 AM** - Rhea Space Activity applies optical navigation to military rendezvous missions (spacenews)
