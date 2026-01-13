@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 16 | 19 | 34 |
-| breaking_defense | 1 | 1 | 10 | 23 |
+| breaking_defense | 2 | 2 | 11 | 24 |
 | nyt | 0 | 0 | 11 | 23 |
 
 # Shown Order
@@ -6192,3 +6192,4 @@
 - **Jan 13, 12:24 PM** - Orbion delivers 33 electric thrusters to York Space for U.S. military constellation (spacenews)
 - **Jan 13, 12:59 PM** - 2026 will be the year of space nuclear power and surviving the lunar night (spacenews)
 - **Jan 13, 01:34 PM** - Scientists Discover Cloud-9, a Starless ‘Galaxy That Wasn’t’ (nyt)
+- **Jan 13, 02:09 PM** - DARPA backs Diffraqtion to demo ‘quantum camera’ for space, Earth surveillance (breaking_defense)
