@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 12 | 18 | 32 |
 | breaking_defense | 1 | 1 | 11 | 24 |
-| nyt | 0 | 0 | 10 | 24 |
+| nyt | 0 | 0 | 11 | 25 |
 
 # Shown Order
 
@@ -6184,3 +6184,4 @@
 - **Jan 13, 07:39 AM** - Scientists Discover Cloud-9, a Starless ‘Galaxy That Wasn’t’ (nyt)
 - **Jan 13, 08:14 AM** - DIU to fund ‘unjammable’ magnetic navigation tech (breaking_defense)
 - **Jan 13, 08:49 AM** - Rhea Space Activity applies optical navigation to military rendezvous missions (spacenews)
+- **Jan 13, 09:24 AM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
