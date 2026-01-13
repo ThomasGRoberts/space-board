@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-13T00:04:33.196575+00:00",
-    "trigger_count": 6,
-    "current_item_id": "aa81d6f2e8601e237987086b63cc14db",
+    "trigger_count": 0,
+    "current_item_id": "fba39c0746d9fca93f8cc4ce253f0683",
     "data": [
         {
             "id": "7ffecd077580fd3cb02c3a5d664a9dca",
@@ -11766,6 +11766,18 @@
             "fetched_datetime": "2026-01-13T14:52:18.322195Z",
             "shown_at": [
                 "2026-01-13T15:39:03.908301Z"
+            ]
+        },
+        {
+            "id": "fba39c0746d9fca93f8cc4ce253f0683",
+            "source": "spacenews",
+            "text": "There’s no end in sight for a space ‘nuclear renaissance’",
+            "source_link": "https://spacenews.com/theres-no-end-in-sight-for-a-space-nuclear-renaissance/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-13T16:14:23.877878Z",
+            "shown_at": [
+                "2026-01-13T16:14:24.772408Z"
             ]
         }
     ]

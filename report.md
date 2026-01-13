@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 18 | 18 | 35 |
+| spacenews | 9 | 19 | 18 | 36 |
 | breaking_defense | 2 | 2 | 11 | 22 |
 | nyt | 0 | 0 | 11 | 22 |
 
@@ -6195,3 +6195,4 @@
 - **Jan 13, 02:09 PM** - DARPA backs Diffraqtion to demo ‘quantum camera’ for space, Earth surveillance (breaking_defense)
 - **Jan 13, 02:52 PM** - Turion Space Corp. Acquires Tychee Research Group to Accelerate Autonomous Space Operations and Mission Engineering (spacenews)
 - **Jan 13, 03:39 PM** - Space Force wants competition. Satellite makers want stability. (spacenews)
+- **Jan 13, 04:14 PM** - There’s no end in sight for a space ‘nuclear renaissance’ (spacenews)
