@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 12 | 17 | 31 |
+| spacenews | 10 | 12 | 18 | 32 |
 | breaking_defense | 1 | 1 | 11 | 25 |
 | nyt | 0 | 0 | 11 | 24 |
 
@@ -6174,3 +6174,4 @@
 - **Jan 13, 01:44 AM** - AI needs spatial intelligence. The GEOINT industry will deliver it. (spacenews)
 - **Jan 13, 02:19 AM** - NASA May Return Early From International Space Station After Medical Issue (nyt)
 - **Jan 13, 02:54 AM** - L3Harris hones DoD focus with sale of civil space propulsion unit (breaking_defense)
+- **Jan 13, 03:34 AM** - 2026 Outlook: Can Acquisition Reform Deliver for Military Space? (spacenews)
