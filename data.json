@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-13T00:04:33.196575+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7ffecd077580fd3cb02c3a5d664a9dca",
+    "trigger_count": 0,
+    "current_item_id": "8c6d30c17ade72d69bbe85c3a9801f46",
     "data": [
         {
             "id": "7ffecd077580fd3cb02c3a5d664a9dca",
@@ -11784,6 +11784,18 @@
             "fetched_datetime": "2026-01-13T16:14:23.877878Z",
             "shown_at": [
                 "2026-01-13T16:14:24.772408Z"
+            ]
+        },
+        {
+            "id": "8c6d30c17ade72d69bbe85c3a9801f46",
+            "source": "spacenews",
+            "text": "Pentagon commits $1 billion to L3Harris missile unit as ‘anchor investor’",
+            "source_link": "https://spacenews.com/pentagon-commits-1-billion-to-l3harris-missile-unit-as-anchor-investor/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-13T20:34:19.821297Z",
+            "shown_at": [
+                "2026-01-13T20:34:20.371229Z"
             ]
         }
     ]
