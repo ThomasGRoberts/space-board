@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 20 | 18 | 36 |
+| spacenews | 10 | 19 | 18 | 35 |
 | breaking_defense | 1 | 2 | 11 | 22 |
-| nyt | 0 | 0 | 10 | 21 |
+| nyt | 0 | 0 | 11 | 22 |
 
 # Shown Order
 
@@ -6206,3 +6206,4 @@
 - **Jan 13, 09:09 PM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
 - **Jan 13, 09:49 PM** - ESA and ClearSpace announce PRELUDE in-orbit servicing and debris removal mission (spacenews)
 - **Jan 13, 10:24 PM** - ‘Overwatch’ from space, cyber ops foundational to Maduro mission (breaking_defense)
+- **Jan 13, 11:09 PM** - NASA May Return Early From International Space Station After Medical Issue (nyt)
