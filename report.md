@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 18 | 17 | 34 |
-| breaking_defense | 2 | 2 | 12 | 23 |
+| spacenews | 8 | 18 | 18 | 35 |
+| breaking_defense | 2 | 2 | 11 | 23 |
 | nyt | 0 | 0 | 11 | 22 |
 
 # Shown Order
@@ -6198,3 +6198,4 @@
 - **Jan 13, 04:14 PM** - There’s no end in sight for a space ‘nuclear renaissance’ (spacenews)
 - **Jan 13, 04:49 PM** - NASA May Return Early From International Space Station After Medical Issue (nyt)
 - **Jan 13, 05:29 PM** - China holds the GPS advantage over the US. Here’s why, and how to solve it. (breaking_defense)
+- **Jan 13, 06:04 PM** - NASA works to extend Swift’s life ahead of reboost mission (spacenews)
