@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 18 | 17 | 35 |
-| breaking_defense | 2 | 2 | 11 | 22 |
+| breaking_defense | 2 | 2 | 12 | 23 |
 | nyt | 0 | 0 | 11 | 22 |
 
 # Shown Order
@@ -6200,3 +6200,4 @@
 - **Jan 13, 05:29 PM** - China holds the GPS advantage over the US. Here’s why, and how to solve it. (breaking_defense)
 - **Jan 13, 06:04 PM** - NASA works to extend Swift’s life ahead of reboost mission (spacenews)
 - **Jan 13, 06:49 PM** - NASA May Return Early From International Space Station After Medical Issue (nyt)
+- **Jan 13, 07:24 PM** - How the Air Force is revamping its acquisition shop with new ‘portfolios’ (breaking_defense)
