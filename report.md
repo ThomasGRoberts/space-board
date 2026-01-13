@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 12 | 17 | 32 |
-| breaking_defense | 1 | 1 | 11 | 24 |
+| breaking_defense | 1 | 1 | 12 | 25 |
 | nyt | 0 | 0 | 11 | 24 |
 
 # Shown Order
@@ -6179,3 +6179,4 @@
 - **Jan 13, 04:44 AM** - SpaceX to launch next SDA missile tracking satellites (breaking_defense)
 - **Jan 13, 05:19 AM** - Crew-11 to make early return Jan. 15 (spacenews)
 - **Jan 13, 05:55 AM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
+- **Jan 13, 06:29 AM** - How the Air Force is revamping its acquisition shop with new ‘portfolios’ (breaking_defense)
