@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 16 | 20 | 35 |
 | breaking_defense | 1 | 1 | 10 | 23 |
-| nyt | 0 | 0 | 10 | 22 |
+| nyt | 0 | 0 | 11 | 23 |
 
 # Shown Order
 
@@ -6191,3 +6191,4 @@
 - **Jan 13, 11:49 AM** - Aerospacelab to build eight satellites for Xona’s navigation constellation (spacenews)
 - **Jan 13, 12:24 PM** - Orbion delivers 33 electric thrusters to York Space for U.S. military constellation (spacenews)
 - **Jan 13, 12:59 PM** - 2026 will be the year of space nuclear power and surviving the lunar night (spacenews)
+- **Jan 13, 01:34 PM** - Scientists Discover Cloud-9, a Starless ‘Galaxy That Wasn’t’ (nyt)
