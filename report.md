@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 12 | 18 | 32 |
 | breaking_defense | 1 | 1 | 11 | 24 |
-| nyt | 0 | 0 | 10 | 24 |
+| nyt | 0 | 0 | 11 | 25 |
 
 # Shown Order
 
@@ -6169,3 +6169,4 @@
 - **Jan 12, 10:49 PM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
 - **Jan 12, 11:24 PM** - L3Harris hones DoD focus with sale of civil space propulsion unit (breaking_defense)
 - **Jan 12, 11:58 PM** - Portugal signs the Artemis Accords (spacenews)
+- **Jan 13, 12:34 AM** - Google’s Ex-CEO Backs Start-Up Approach to Big Telescopes for Space and Astronomy (nyt)
