@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 12 | 17 | 31 |
+| spacenews | 10 | 12 | 18 | 32 |
 | breaking_defense | 1 | 1 | 11 | 25 |
 | nyt | 0 | 0 | 11 | 24 |
 
@@ -6177,3 +6177,4 @@
 - **Jan 13, 03:34 AM** - 2026 Outlook: Can Acquisition Reform Deliver for Military Space? (spacenews)
 - **Jan 13, 04:09 AM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
 - **Jan 13, 04:44 AM** - SpaceX to launch next SDA missile tracking satellites (breaking_defense)
+- **Jan 13, 05:19 AM** - Crew-11 to make early return Jan. 15 (spacenews)
