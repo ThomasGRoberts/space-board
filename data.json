@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-13T00:04:33.196575+00:00",
-    "trigger_count": 6,
-    "current_item_id": "691c5e99a6218f50de3c32f8da22d4cc",
+    "trigger_count": 0,
+    "current_item_id": "aa81d6f2e8601e237987086b63cc14db",
     "data": [
         {
             "id": "7ffecd077580fd3cb02c3a5d664a9dca",
@@ -11761,9 +11761,12 @@
             "source": "spacenews",
             "text": "Space Force wants competition. Satellite makers want stability.",
             "source_link": "https://spacenews.com/space-force-wants-competition-satellite-makers-want-stability/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-01-13T14:52:18.322195Z"
+            "fetched_datetime": "2026-01-13T14:52:18.322195Z",
+            "shown_at": [
+                "2026-01-13T15:39:03.908301Z"
+            ]
         }
     ]
 }

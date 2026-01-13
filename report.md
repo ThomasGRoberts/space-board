@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 18 | 18 | 34 |
+| spacenews | 10 | 18 | 19 | 35 |
 | breaking_defense | 2 | 2 | 11 | 23 |
 | nyt | 0 | 0 | 11 | 22 |
 
@@ -6194,3 +6194,4 @@
 - **Jan 13, 01:34 PM** - Scientists Discover Cloud-9, a Starless ‘Galaxy That Wasn’t’ (nyt)
 - **Jan 13, 02:09 PM** - DARPA backs Diffraqtion to demo ‘quantum camera’ for space, Earth surveillance (breaking_defense)
 - **Jan 13, 02:52 PM** - Turion Space Corp. Acquires Tychee Research Group to Accelerate Autonomous Space Operations and Mission Engineering (spacenews)
+- **Jan 13, 03:39 PM** - Space Force wants competition. Satellite makers want stability. (spacenews)
