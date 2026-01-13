@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-13T00:04:33.196575+00:00",
-    "trigger_count": 6,
-    "current_item_id": "567cb14485d3c52f269bb5ddbdf6afb4",
+    "trigger_count": 0,
+    "current_item_id": "f6cc5865f6caf5b284bc0551d7ffee54",
     "data": [
         {
             "id": "7ffecd077580fd3cb02c3a5d664a9dca",
@@ -11682,6 +11682,27 @@
                 "2025-08-08T05:02:07.414709Z",
                 "2025-08-09T17:07:26.495472Z"
             ]
+        },
+        {
+            "id": "f6cc5865f6caf5b284bc0551d7ffee54",
+            "source": "spacenews",
+            "text": "Eutelsat orders 340 additional satellites to replenish OneWeb constellation",
+            "source_link": "https://spacenews.com/eutelsat-orders-340-additional-satellites-to-replenish-oneweb-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-13T11:14:17.796586Z",
+            "shown_at": [
+                "2026-01-13T11:14:18.535165Z"
+            ]
+        },
+        {
+            "id": "72ee9a26d2c53229a243265c674b983e",
+            "source": "spacenews",
+            "text": "Aerospacelab to build eight satellites for Xona’s navigation constellation",
+            "source_link": "https://spacenews.com/aerospacelab-to-build-eight-satellites-for-xonas-navigation-constellation/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-01-13T11:14:17.796641Z"
         }
     ]
 }
