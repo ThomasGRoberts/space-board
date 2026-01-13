@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 12 | 17 | 32 |
-| breaking_defense | 1 | 1 | 11 | 24 |
+| breaking_defense | 1 | 1 | 12 | 25 |
 | nyt | 0 | 0 | 11 | 24 |
 
 # Shown Order
@@ -6173,3 +6173,4 @@
 - **Jan 13, 01:09 AM** - China holds the GPS advantage over the US. Here’s why, and how to solve it. (breaking_defense)
 - **Jan 13, 01:44 AM** - AI needs spatial intelligence. The GEOINT industry will deliver it. (spacenews)
 - **Jan 13, 02:19 AM** - NASA May Return Early From International Space Station After Medical Issue (nyt)
+- **Jan 13, 02:54 AM** - L3Harris hones DoD focus with sale of civil space propulsion unit (breaking_defense)
