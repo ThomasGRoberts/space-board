@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-13T00:04:33.196575+00:00",
-    "trigger_count": 6,
-    "current_item_id": "19ca1cb9a1860d4bb2f442eacb620269",
+    "trigger_count": 0,
+    "current_item_id": "691c5e99a6218f50de3c32f8da22d4cc",
     "data": [
         {
             "id": "7ffecd077580fd3cb02c3a5d664a9dca",
@@ -11743,6 +11743,27 @@
             "shown_at": [
                 "2026-01-13T14:09:12.001202Z"
             ]
+        },
+        {
+            "id": "691c5e99a6218f50de3c32f8da22d4cc",
+            "source": "spacenews",
+            "text": "Turion Space Corp. Acquires Tychee Research Group to Accelerate Autonomous Space Operations and Mission Engineering",
+            "source_link": "https://spacenews.com/turion-space-corp-acquires-tychee-research-group-to-accelerate-autonomous-space-operations-and-mission-engineering/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-13T14:52:18.322114Z",
+            "shown_at": [
+                "2026-01-13T14:52:19.238925Z"
+            ]
+        },
+        {
+            "id": "aa81d6f2e8601e237987086b63cc14db",
+            "source": "spacenews",
+            "text": "Space Force wants competition. Satellite makers want stability.",
+            "source_link": "https://spacenews.com/space-force-wants-competition-satellite-makers-want-stability/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-01-13T14:52:18.322195Z"
         }
     ]
 }
