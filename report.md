@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 12 | 18 | 32 |
 | breaking_defense | 1 | 1 | 11 | 24 |
-| nyt | 0 | 0 | 10 | 24 |
+| nyt | 0 | 0 | 11 | 25 |
 
 # Shown Order
 
@@ -6175,3 +6175,4 @@
 - **Jan 13, 02:19 AM** - NASA May Return Early From International Space Station After Medical Issue (nyt)
 - **Jan 13, 02:54 AM** - L3Harris hones DoD focus with sale of civil space propulsion unit (breaking_defense)
 - **Jan 13, 03:34 AM** - 2026 Outlook: Can Acquisition Reform Deliver for Military Space? (spacenews)
+- **Jan 13, 04:09 AM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
