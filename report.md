@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 14 | 18 | 33 |
+| spacenews | 10 | 14 | 19 | 34 |
 | breaking_defense | 1 | 1 | 11 | 24 |
 | nyt | 0 | 0 | 10 | 23 |
 
@@ -6188,3 +6188,4 @@
 - **Jan 13, 09:59 AM** - SpaceX to launch next SDA missile tracking satellites (breaking_defense)
 - **Jan 13, 10:34 AM** - Private group unveils plans for large space telescope (spacenews)
 - **Jan 13, 11:14 AM** - Eutelsat orders 340 additional satellites to replenish OneWeb constellation (spacenews)
+- **Jan 13, 11:49 AM** - Aerospacelab to build eight satellites for Xona’s navigation constellation (spacenews)
