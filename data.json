@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-13T00:04:33.196575+00:00",
-    "trigger_count": 6,
-    "current_item_id": "16e19aeaa65c5f54640a4632a1e017b2",
+    "trigger_count": 0,
+    "current_item_id": "ac274ffa49d3249fed1e9225a89fa343",
     "data": [
         {
             "id": "7ffecd077580fd3cb02c3a5d664a9dca",
@@ -11797,6 +11797,18 @@
             "fetched_datetime": "2026-01-13T20:34:19.821297Z",
             "shown_at": [
                 "2026-01-13T20:34:20.371229Z"
+            ]
+        },
+        {
+            "id": "ac274ffa49d3249fed1e9225a89fa343",
+            "source": "spacenews",
+            "text": "ESA and ClearSpace announce PRELUDE in-orbit servicing and debris removal mission",
+            "source_link": "https://spacenews.com/esa-and-clearspace-announce-prelude-in-orbit-servicing-and-debris-removal-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-13T21:49:12.117151Z",
+            "shown_at": [
+                "2026-01-13T21:49:12.795439Z"
             ]
         }
     ]

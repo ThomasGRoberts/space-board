@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 19 | 18 | 35 |
+| spacenews | 10 | 20 | 19 | 36 |
 | breaking_defense | 1 | 2 | 10 | 22 |
 | nyt | 0 | 0 | 11 | 22 |
 
@@ -6204,3 +6204,4 @@
 - **Jan 13, 07:59 PM** - Portugal signs the Artemis Accords (spacenews)
 - **Jan 13, 08:34 PM** - Pentagon commits $1 billion to L3Harris missile unit as ‘anchor investor’ (spacenews)
 - **Jan 13, 09:09 PM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
+- **Jan 13, 09:49 PM** - ESA and ClearSpace announce PRELUDE in-orbit servicing and debris removal mission (spacenews)
