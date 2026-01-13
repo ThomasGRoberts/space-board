@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 12 | 17 | 31 |
+| spacenews | 9 | 12 | 18 | 32 |
 | breaking_defense | 1 | 1 | 11 | 25 |
 | nyt | 0 | 0 | 11 | 24 |
 
@@ -6186,3 +6186,4 @@
 - **Jan 13, 08:49 AM** - Rhea Space Activity applies optical navigation to military rendezvous missions (spacenews)
 - **Jan 13, 09:24 AM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
 - **Jan 13, 09:59 AM** - SpaceX to launch next SDA missile tracking satellites (breaking_defense)
+- **Jan 13, 10:34 AM** - Private group unveils plans for large space telescope (spacenews)
