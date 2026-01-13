@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 12 | 18 | 32 |
 | breaking_defense | 1 | 1 | 11 | 24 |
-| nyt | 0 | 0 | 10 | 24 |
+| nyt | 0 | 0 | 11 | 25 |
 
 # Shown Order
 
@@ -6181,3 +6181,4 @@
 - **Jan 13, 05:55 AM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
 - **Jan 13, 06:29 AM** - How the Air Force is revamping its acquisition shop with new ‘portfolios’ (breaking_defense)
 - **Jan 13, 07:04 AM** - 2026 Outlook: Can Acquisition Reform Deliver for Military Space? (spacenews)
+- **Jan 13, 07:39 AM** - Scientists Discover Cloud-9, a Starless ‘Galaxy That Wasn’t’ (nyt)
