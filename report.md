@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 22 | 18 | 37 |
+| spacenews | 12 | 22 | 19 | 38 |
 | breaking_defense | 0 | 2 | 10 | 21 |
 | nyt | 0 | 0 | 10 | 21 |
 
@@ -6151,3 +6151,4 @@
 - **Jan 14, 12:29 PM** - ‘Overwatch’ from space, cyber ops foundational to Maduro mission (breaking_defense)
 - **Jan 14, 01:05 PM** - When allies can’t count on U.S. ISR, commercial space becomes strategic (spacenews)
 - **Jan 14, 01:44 PM** - NASA pessimistic about odds of recovering MAVEN (spacenews)
+- **Jan 14, 02:19 PM** - Space operations will become more dynamic this year (spacenews)

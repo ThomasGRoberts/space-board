@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-14T00:04:58.520679+00:00",
-    "trigger_count": 6,
-    "current_item_id": "12de6d5d1301ce25578d365e38672b56",
+    "trigger_count": 0,
+    "current_item_id": "be9c00d3963ad495e974798648bc3252",
     "data": [
         {
             "id": "ac274ffa49d3249fed1e9225a89fa343",
@@ -11718,9 +11718,12 @@
             "source": "spacenews",
             "text": "Space operations will become more dynamic this year",
             "source_link": "https://spacenews.com/space-operations-will-become-more-dynamic-this-year/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-01-14T13:05:19.848726Z"
+            "fetched_datetime": "2026-01-14T13:05:19.848726Z",
+            "shown_at": [
+                "2026-01-14T14:19:15.215030Z"
+            ]
         }
     ]
 }
