@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 19 | 18 | 36 |
+| spacenews | 10 | 20 | 19 | 36 |
 | breaking_defense | 1 | 2 | 11 | 22 |
 | nyt | 0 | 0 | 10 | 21 |
 
@@ -6129,3 +6129,4 @@
 - **Jan 13, 11:09 PM** - NASA May Return Early From International Space Station After Medical Issue (nyt)
 - **Jan 13, 11:44 PM** - This year must bring greater collaboration against orbital congestion (spacenews)
 - **Jan 14, 12:19 AM** - DIU to fund ‘unjammable’ magnetic navigation tech (breaking_defense)
+- **Jan 14, 12:54 AM** - Congressional hearing highlights military’s reliance on NOAA weather data (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-14T00:04:58.520679+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0b6ef0a9392b1a0e3e301c163579e50f",
+    "trigger_count": 0,
+    "current_item_id": "c0b4ed5482e39b1deee45377e129b36b",
     "data": [
         {
             "id": "ac274ffa49d3249fed1e9225a89fa343",
@@ -11623,6 +11623,18 @@
                 "2025-08-10T00:37:53.421456Z",
                 "2025-08-10T11:55:32.126972Z",
                 "2025-08-11T02:39:54.112885Z"
+            ]
+        },
+        {
+            "id": "c0b4ed5482e39b1deee45377e129b36b",
+            "source": "spacenews",
+            "text": "Congressional hearing highlights military’s reliance on NOAA weather data",
+            "source_link": "https://spacenews.com/congressional-hearing-highlights-militarys-reliance-on-noaa-data/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-14T00:54:17.743450Z",
+            "shown_at": [
+                "2026-01-14T00:54:18.425984Z"
             ]
         }
     ]
