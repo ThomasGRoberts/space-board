@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 21 | 18 | 36 |
+| spacenews | 11 | 21 | 19 | 37 |
 | breaking_defense | 1 | 2 | 10 | 21 |
 | nyt | 0 | 0 | 11 | 22 |
 
@@ -6137,3 +6137,4 @@
 - **Jan 14, 03:49 AM** - Firefly to upgrade Alpha rocket to improve reliability (spacenews)
 - **Jan 14, 04:24 AM** - ‘Overwatch’ from space, cyber ops foundational to Maduro mission (breaking_defense)
 - **Jan 14, 04:59 AM** - NASA May Return Early From International Space Station After Medical Issue (nyt)
+- **Jan 14, 05:34 AM** - NASA continues to work toward February launch of Artemis 2 (spacenews)
