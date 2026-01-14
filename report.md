@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 19 | 17 | 36 |
+| spacenews | 12 | 22 | 17 | 37 |
 | breaking_defense | 1 | 2 | 11 | 21 |
 | nyt | 0 | 0 | 11 | 21 |
 
@@ -6149,3 +6149,4 @@
 - **Jan 14, 11:09 AM** - China’s first launches of 2026 send Yaogan spacecraft into unusual orbit, loft Guowang satellites  (spacenews)
 - **Jan 14, 11:49 AM** - SkyFi raises $12.7 million to scale satellite data marketplace (spacenews)
 - **Jan 14, 12:29 PM** - ‘Overwatch’ from space, cyber ops foundational to Maduro mission (breaking_defense)
+- **Jan 14, 01:05 PM** - When allies can’t count on U.S. ISR, commercial space becomes strategic (spacenews)

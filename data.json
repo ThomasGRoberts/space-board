@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-14T00:04:58.520679+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0f78f0f1ee6a27704de5ea6cf82e0d7d",
+    "trigger_count": 0,
+    "current_item_id": "89e7ffeeb38a5b451c97ad917dfe1d60",
     "data": [
         {
             "id": "ac274ffa49d3249fed1e9225a89fa343",
@@ -11688,6 +11688,36 @@
             "shown_at": [
                 "2026-01-14T11:49:13.694751Z"
             ]
+        },
+        {
+            "id": "89e7ffeeb38a5b451c97ad917dfe1d60",
+            "source": "spacenews",
+            "text": "When allies can’t count on U.S. ISR, commercial space becomes strategic",
+            "source_link": "https://spacenews.com/when-allies-cant-count-on-u-s-isr-commercial-space-becomes-strategic/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-14T13:05:19.848624Z",
+            "shown_at": [
+                "2026-01-14T13:05:20.433762Z"
+            ]
+        },
+        {
+            "id": "12de6d5d1301ce25578d365e38672b56",
+            "source": "spacenews",
+            "text": "NASA pessimistic about odds of recovering MAVEN",
+            "source_link": "https://spacenews.com/nasa-pessimistic-about-odds-of-recovering-maven/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-01-14T13:05:19.848683Z"
+        },
+        {
+            "id": "be9c00d3963ad495e974798648bc3252",
+            "source": "spacenews",
+            "text": "Space operations will become more dynamic this year",
+            "source_link": "https://spacenews.com/space-operations-will-become-more-dynamic-this-year/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-01-14T13:05:19.848726Z"
         }
     ]
 }
