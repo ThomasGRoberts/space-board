@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-14T00:04:58.520679+00:00",
-    "trigger_count": 6,
-    "current_item_id": "073da4dcfcf5afe42e45caf767ffba23",
+    "trigger_count": 0,
+    "current_item_id": "d03bc1e5d7a9a051d8dc030fd66abedb",
     "data": [
         {
             "id": "ac274ffa49d3249fed1e9225a89fa343",
@@ -11798,6 +11798,18 @@
             "fetched_datetime": "2026-01-14T19:49:04.992250Z",
             "shown_at": [
                 "2026-01-14T19:49:05.935500Z"
+            ]
+        },
+        {
+            "id": "d03bc1e5d7a9a051d8dc030fd66abedb",
+            "source": "nyt",
+            "text": "NASA to Begin Space Station Medical Evacuation: Video and What to Know",
+            "source_link": "https://www.nytimes.com/2026/01/14/science/nasa-astronauts-iss-return.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-14T20:24:24.641019Z",
+            "shown_at": [
+                "2026-01-14T20:24:25.402430Z"
             ]
         }
     ]
