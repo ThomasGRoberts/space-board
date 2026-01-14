@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 21 | 18 | 36 |
+| spacenews | 12 | 20 | 19 | 36 |
 | breaking_defense | 0 | 2 | 10 | 21 |
-| nyt | 0 | 0 | 11 | 22 |
+| nyt | 0 | 0 | 10 | 22 |
 
 # Shown Order
 
@@ -6155,3 +6155,4 @@
 - **Jan 14, 02:59 PM** - Bringing outsiders into the space fold (spacenews)
 - **Jan 14, 03:34 PM** - Scientists Discover Cloud-9, a Starless ‘Galaxy That Wasn’t’ (nyt)
 - **Jan 14, 04:09 PM** - Space sustainability will evolve into a data-driven system (spacenews)
+- **Jan 14, 04:54 PM** - ThinkOrbital raises seed funding to advance X-ray space inspection (spacenews)
