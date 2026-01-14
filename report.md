@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 20 | 18 | 36 |
+| spacenews | 10 | 20 | 19 | 36 |
 | breaking_defense | 1 | 2 | 11 | 22 |
 | nyt | 0 | 0 | 10 | 21 |
 
@@ -6132,3 +6132,4 @@
 - **Jan 14, 12:54 AM** - Congressional hearing highlights military’s reliance on NOAA weather data (spacenews)
 - **Jan 14, 01:29 AM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
 - **Jan 14, 02:04 AM** - SpaceX to launch next SDA missile tracking satellites (breaking_defense)
+- **Jan 14, 02:39 AM** - Private group unveils plans for large space telescope (spacenews)
