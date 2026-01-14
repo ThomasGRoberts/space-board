@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 14 | 22 | 20 | 37 |
 | breaking_defense | 0 | 2 | 9 | 21 |
-| nyt | 0 | 0 | 10 | 21 |
+| nyt | 1 | 1 | 11 | 22 |
 
 # Shown Order
 
@@ -6160,3 +6160,4 @@
 - **Jan 14, 06:04 PM** - Taiwan’s Moonshot: why ‘T-Dome’ needs systems engineering, not just a shopping list (spacenews)
 - **Jan 14, 06:39 PM** - ESA’s Comet Interceptor mission moves up launch (spacenews)
 - **Jan 14, 07:14 PM** - NASA May Return Early From International Space Station After Medical Issue (nyt)
+- **Jan 14, 07:49 PM** - NASA to Begin Space Station Medical Evacuation: What to Know (nyt)
