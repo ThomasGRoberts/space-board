@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 21 | 19 | 37 |
+| spacenews | 14 | 22 | 20 | 37 |
 | breaking_defense | 0 | 2 | 10 | 21 |
 | nyt | 0 | 0 | 10 | 21 |
 
@@ -6158,3 +6158,4 @@
 - **Jan 14, 04:54 PM** - ThinkOrbital raises seed funding to advance X-ray space inspection (spacenews)
 - **Jan 14, 05:29 PM** - DARPA backs Diffraqtion to demo ‘quantum camera’ for space, Earth surveillance (breaking_defense)
 - **Jan 14, 06:04 PM** - Taiwan’s Moonshot: why ‘T-Dome’ needs systems engineering, not just a shopping list (spacenews)
+- **Jan 14, 06:39 PM** - ESA’s Comet Interceptor mission moves up launch (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-14T00:04:58.520679+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d6f10382b4f75555315a6343798f6038",
+    "trigger_count": 0,
+    "current_item_id": "d3e8d4d9c2ea9d521dd82f830a331c9c",
     "data": [
         {
             "id": "ac274ffa49d3249fed1e9225a89fa343",
@@ -11773,6 +11773,18 @@
             "fetched_datetime": "2026-01-14T18:04:43.587826Z",
             "shown_at": [
                 "2026-01-14T18:04:44.337106Z"
+            ]
+        },
+        {
+            "id": "d3e8d4d9c2ea9d521dd82f830a331c9c",
+            "source": "spacenews",
+            "text": "ESA’s Comet Interceptor mission moves up launch",
+            "source_link": "https://spacenews.com/esas-comet-interceptor-mission-moves-up-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-14T18:39:10.100560Z",
+            "shown_at": [
+                "2026-01-14T18:39:10.829512Z"
             ]
         }
     ]
