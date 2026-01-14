@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 21 | 18 | 36 |
+| spacenews | 11 | 21 | 19 | 37 |
 | breaking_defense | 1 | 2 | 10 | 21 |
-| nyt | 0 | 0 | 11 | 22 |
+| nyt | 0 | 0 | 11 | 21 |
 
 # Shown Order
 
@@ -6140,3 +6140,4 @@
 - **Jan 14, 05:34 AM** - NASA continues to work toward February launch of Artemis 2 (spacenews)
 - **Jan 14, 06:14 AM** - DIU to fund ‘unjammable’ magnetic navigation tech (breaking_defense)
 - **Jan 14, 06:54 AM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
+- **Jan 14, 07:32 AM** - SkyFi expands virtual constellation with Vantor satellite imagery (spacenews)
