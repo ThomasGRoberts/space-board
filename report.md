@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 19 | 18 | 35 |
+| spacenews | 12 | 20 | 19 | 36 |
 | breaking_defense | 1 | 2 | 10 | 21 |
 | nyt | 0 | 0 | 11 | 22 |
 
@@ -6146,3 +6146,4 @@
 - **Jan 14, 09:19 AM** - There’s no end in sight for a space ‘nuclear renaissance’ (spacenews)
 - **Jan 14, 09:59 AM** - SpaceX to launch next SDA missile tracking satellites (breaking_defense)
 - **Jan 14, 10:34 AM** - Google’s Ex-CEO Backs Start-Up Approach to Big Telescopes for Space and Astronomy (nyt)
+- **Jan 14, 11:09 AM** - China’s first launches of 2026 send Yaogan spacecraft into unusual orbit, loft Guowang satellites  (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-14T00:04:58.520679+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6c8deffd2aa42fe238936779f2f03bae",
+    "trigger_count": 0,
+    "current_item_id": "8dec5faf2f758cac62036d0bf621a347",
     "data": [
         {
             "id": "ac274ffa49d3249fed1e9225a89fa343",
@@ -11662,6 +11662,18 @@
             "fetched_datetime": "2026-01-14T03:49:17.645991Z",
             "shown_at": [
                 "2026-01-14T03:49:18.232170Z"
+            ]
+        },
+        {
+            "id": "8dec5faf2f758cac62036d0bf621a347",
+            "source": "spacenews",
+            "text": "China’s first launches of 2026 send Yaogan spacecraft into unusual orbit, loft Guowang satellites ",
+            "source_link": "https://spacenews.com/chinas-first-launches-of-2026-send-yaogan-spacecraft-into-unusual-orbit-loft-guowang-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-14T11:09:08.393114Z",
+            "shown_at": [
+                "2026-01-14T11:09:09.264695Z"
             ]
         }
     ]
