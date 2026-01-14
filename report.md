@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 21 | 19 | 37 |
 | breaking_defense | 0 | 2 | 10 | 21 |
-| nyt | 0 | 0 | 10 | 21 |
+| nyt | 0 | 0 | 11 | 22 |
 
 # Shown Order
 
@@ -6153,3 +6153,4 @@
 - **Jan 14, 01:44 PM** - NASA pessimistic about odds of recovering MAVEN (spacenews)
 - **Jan 14, 02:19 PM** - Space operations will become more dynamic this year (spacenews)
 - **Jan 14, 02:59 PM** - Bringing outsiders into the space fold (spacenews)
+- **Jan 14, 03:34 PM** - Scientists Discover Cloud-9, a Starless ‘Galaxy That Wasn’t’ (nyt)
