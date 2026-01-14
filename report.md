@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 21 | 19 | 36 |
 | breaking_defense | 1 | 2 | 10 | 21 |
-| nyt | 0 | 0 | 10 | 21 |
+| nyt | 0 | 0 | 11 | 22 |
 
 # Shown Order
 
@@ -6142,3 +6142,4 @@
 - **Jan 14, 06:54 AM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
 - **Jan 14, 07:32 AM** - SkyFi expands virtual constellation with Vantor satellite imagery (spacenews)
 - **Jan 14, 08:09 AM** - DARPA backs Diffraqtion to demo ‘quantum camera’ for space, Earth surveillance (breaking_defense)
+- **Jan 14, 08:44 AM** - Scientists Discover Cloud-9, a Starless ‘Galaxy That Wasn’t’ (nyt)
