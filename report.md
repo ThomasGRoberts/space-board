@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 19 | 18 | 36 |
+| spacenews | 13 | 21 | 19 | 37 |
 | breaking_defense | 0 | 2 | 10 | 21 |
 | nyt | 0 | 0 | 11 | 22 |
 
@@ -6154,3 +6154,4 @@
 - **Jan 14, 02:19 PM** - Space operations will become more dynamic this year (spacenews)
 - **Jan 14, 02:59 PM** - Bringing outsiders into the space fold (spacenews)
 - **Jan 14, 03:34 PM** - Scientists Discover Cloud-9, a Starless ‘Galaxy That Wasn’t’ (nyt)
+- **Jan 14, 04:09 PM** - Space sustainability will evolve into a data-driven system (spacenews)

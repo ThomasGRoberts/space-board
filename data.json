@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-14T00:04:58.520679+00:00",
-    "trigger_count": 6,
-    "current_item_id": "512c7f097e54920b48abfcd1f9c708e2",
+    "trigger_count": 0,
+    "current_item_id": "275c74126b2140193ba1d5973cc0bb52",
     "data": [
         {
             "id": "ac274ffa49d3249fed1e9225a89fa343",
@@ -11737,6 +11737,27 @@
             "shown_at": [
                 "2026-01-14T14:59:12.810672Z"
             ]
+        },
+        {
+            "id": "275c74126b2140193ba1d5973cc0bb52",
+            "source": "spacenews",
+            "text": "Space sustainability will evolve into a data-driven system",
+            "source_link": "https://spacenews.com/space-sustainability-will-evolve-intoa-data-driven-system/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-14T16:09:19.810837Z",
+            "shown_at": [
+                "2026-01-14T16:09:20.543406Z"
+            ]
+        },
+        {
+            "id": "4452bb6509939be600e341741ac77d74",
+            "source": "spacenews",
+            "text": "ThinkOrbital raises seed funding to advance X-ray space inspection",
+            "source_link": "https://spacenews.com/thinkorbital-raises-seed-funding-to-advance-x-ray-space-inspection/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-01-14T16:09:19.810892Z"
         }
     ]
 }
