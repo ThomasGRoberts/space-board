@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 22 | 18 | 36 |
-| breaking_defense | 0 | 1 | 9 | 20 |
+| breaking_defense | 0 | 1 | 10 | 21 |
 | nyt | 2 | 2 | 12 | 23 |
 
 # Shown Order
@@ -6162,3 +6162,4 @@
 - **Jan 14, 07:14 PM** - NASA May Return Early From International Space Station After Medical Issue (nyt)
 - **Jan 14, 07:49 PM** - NASA to Begin Space Station Medical Evacuation: What to Know (nyt)
 - **Jan 14, 08:24 PM** - NASA to Begin Space Station Medical Evacuation: Video and What to Know (nyt)
+- **Jan 14, 08:59 PM** - DARPA backs Diffraqtion to demo ‘quantum camera’ for space, Earth surveillance (breaking_defense)
