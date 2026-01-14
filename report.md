@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 21 | 18 | 36 |
+| spacenews | 11 | 21 | 19 | 37 |
 | breaking_defense | 1 | 2 | 10 | 21 |
 | nyt | 0 | 0 | 11 | 21 |
 
@@ -6143,3 +6143,4 @@
 - **Jan 14, 07:32 AM** - SkyFi expands virtual constellation with Vantor satellite imagery (spacenews)
 - **Jan 14, 08:09 AM** - DARPA backs Diffraqtion to demo ‘quantum camera’ for space, Earth surveillance (breaking_defense)
 - **Jan 14, 08:44 AM** - Scientists Discover Cloud-9, a Starless ‘Galaxy That Wasn’t’ (nyt)
+- **Jan 14, 09:19 AM** - There’s no end in sight for a space ‘nuclear renaissance’ (spacenews)
