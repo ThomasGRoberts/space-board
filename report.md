@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 20 | 19 | 36 |
-| breaking_defense | 0 | 2 | 10 | 22 |
+| spacenews | 13 | 21 | 19 | 37 |
+| breaking_defense | 0 | 2 | 10 | 21 |
 | nyt | 0 | 0 | 10 | 21 |
 
 # Shown Order
@@ -6157,3 +6157,4 @@
 - **Jan 14, 04:09 PM** - Space sustainability will evolve into a data-driven system (spacenews)
 - **Jan 14, 04:54 PM** - ThinkOrbital raises seed funding to advance X-ray space inspection (spacenews)
 - **Jan 14, 05:29 PM** - DARPA backs Diffraqtion to demo ‘quantum camera’ for space, Earth surveillance (breaking_defense)
+- **Jan 14, 06:04 PM** - Taiwan’s Moonshot: why ‘T-Dome’ needs systems engineering, not just a shopping list (spacenews)
