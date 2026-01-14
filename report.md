@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 23 | 18 | 36 |
-| breaking_defense | 0 | 1 | 9 | 20 |
+| breaking_defense | 0 | 1 | 10 | 20 |
 | nyt | 3 | 3 | 12 | 23 |
 
 # Shown Order
@@ -6166,3 +6166,4 @@
 - **Jan 14, 09:44 PM** - CAS Space conducts first suborbital launch and capsule landing test (spacenews)
 - **Jan 14, 10:19 PM** - NASA to Begin Space Station Medical Evacuation: What to Know (nyt)
 - **Jan 14, 10:54 PM** - NASA Begins Astronaut Space Station Medical Evacuation: What to Know (nyt)
+- **Jan 14, 11:29 PM** - DARPA backs Diffraqtion to demo ‘quantum camera’ for space, Earth surveillance (breaking_defense)
