@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-14T00:04:58.520679+00:00",
-    "trigger_count": 6,
-    "current_item_id": "19ca1cb9a1860d4bb2f442eacb620269",
+    "trigger_count": 0,
+    "current_item_id": "92b77dfc2c24f72d1ddd4d94a0b6d5aa",
     "data": [
         {
             "id": "ac274ffa49d3249fed1e9225a89fa343",
@@ -11811,6 +11811,18 @@
             "fetched_datetime": "2026-01-14T20:24:24.641019Z",
             "shown_at": [
                 "2026-01-14T20:24:25.402430Z"
+            ]
+        },
+        {
+            "id": "92b77dfc2c24f72d1ddd4d94a0b6d5aa",
+            "source": "spacenews",
+            "text": "CAS Space conducts first suborbital launch and capsule landing test",
+            "source_link": "https://spacenews.com/cas-space-conducts-first-suborbital-launch-and-capsule-landing-test/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-14T21:44:05.856246Z",
+            "shown_at": [
+                "2026-01-14T21:44:06.659788Z"
             ]
         }
     ]

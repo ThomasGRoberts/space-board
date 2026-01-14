@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 22 | 18 | 36 |
+| spacenews | 14 | 23 | 19 | 37 |
 | breaking_defense | 0 | 1 | 10 | 20 |
 | nyt | 2 | 2 | 11 | 22 |
 
@@ -6163,3 +6163,4 @@
 - **Jan 14, 07:49 PM** - NASA to Begin Space Station Medical Evacuation: What to Know (nyt)
 - **Jan 14, 08:24 PM** - NASA to Begin Space Station Medical Evacuation: Video and What to Know (nyt)
 - **Jan 14, 08:59 PM** - DARPA backs Diffraqtion to demo ‘quantum camera’ for space, Earth surveillance (breaking_defense)
+- **Jan 14, 09:44 PM** - CAS Space conducts first suborbital launch and capsule landing test (spacenews)
