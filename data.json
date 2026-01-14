@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-14T00:04:58.520679+00:00",
-    "trigger_count": 6,
-    "current_item_id": "073da4dcfcf5afe42e45caf767ffba23",
+    "trigger_count": 0,
+    "current_item_id": "8b059458b74c75dafed4e38c123255e7",
     "data": [
         {
             "id": "ac274ffa49d3249fed1e9225a89fa343",
@@ -11824,6 +11824,18 @@
             "fetched_datetime": "2026-01-14T21:44:05.856246Z",
             "shown_at": [
                 "2026-01-14T21:44:06.659788Z"
+            ]
+        },
+        {
+            "id": "8b059458b74c75dafed4e38c123255e7",
+            "source": "nyt",
+            "text": "NASA Begins Astronaut Space Station Medical Evacuation: What to Know",
+            "source_link": "https://www.nytimes.com/2026/01/14/science/nasa-astronauts-iss-return.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-14T22:54:14.547212Z",
+            "shown_at": [
+                "2026-01-14T22:54:15.186273Z"
             ]
         }
     ]
