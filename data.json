@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-14T00:04:58.520679+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8dec5faf2f758cac62036d0bf621a347",
+    "trigger_count": 0,
+    "current_item_id": "f264868894046aaa344be3b85e7f6056",
     "data": [
         {
             "id": "ac274ffa49d3249fed1e9225a89fa343",
@@ -11674,6 +11674,18 @@
             "fetched_datetime": "2026-01-14T11:09:08.393114Z",
             "shown_at": [
                 "2026-01-14T11:09:09.264695Z"
+            ]
+        },
+        {
+            "id": "f264868894046aaa344be3b85e7f6056",
+            "source": "spacenews",
+            "text": "SkyFi raises $12.7 million to scale satellite data marketplace",
+            "source_link": "https://spacenews.com/skyfi-raises-12-7-million-to-scale-satellite-data-marketplace/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-14T11:49:12.547173Z",
+            "shown_at": [
+                "2026-01-14T11:49:13.694751Z"
             ]
         }
     ]
