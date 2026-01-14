@@ -1,9 +1,129 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-01-13T00:04:33.196575+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2026-01-14T00:04:58.520679+00:00",
+    "trigger_count": 4,
     "current_item_id": "8eb0d6f22f47d01d3b2d583fdb0cdc61",
     "data": [
+        {
+            "id": "ac274ffa49d3249fed1e9225a89fa343",
+            "source": "spacenews",
+            "text": "ESA and ClearSpace announce PRELUDE in-orbit servicing and debris removal mission",
+            "source_link": "https://spacenews.com/esa-and-clearspace-announce-prelude-in-orbit-servicing-and-debris-removal-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-13T21:49:12.117151Z",
+            "shown_at": [
+                "2026-01-13T21:49:12.795439Z"
+            ]
+        },
+        {
+            "id": "8c6d30c17ade72d69bbe85c3a9801f46",
+            "source": "spacenews",
+            "text": "Pentagon commits $1 billion to L3Harris missile unit as ‘anchor investor’",
+            "source_link": "https://spacenews.com/pentagon-commits-1-billion-to-l3harris-missile-unit-as-anchor-investor/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-13T20:34:19.821297Z",
+            "shown_at": [
+                "2026-01-13T20:34:20.371229Z"
+            ]
+        },
+        {
+            "id": "fba39c0746d9fca93f8cc4ce253f0683",
+            "source": "spacenews",
+            "text": "There’s no end in sight for a space ‘nuclear renaissance’",
+            "source_link": "https://spacenews.com/theres-no-end-in-sight-for-a-space-nuclear-renaissance/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-13T16:14:23.877878Z",
+            "shown_at": [
+                "2026-01-13T16:14:24.772408Z"
+            ]
+        },
+        {
+            "id": "aa81d6f2e8601e237987086b63cc14db",
+            "source": "spacenews",
+            "text": "Space Force wants competition. Satellite makers want stability.",
+            "source_link": "https://spacenews.com/space-force-wants-competition-satellite-makers-want-stability/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-13T14:52:18.322195Z",
+            "shown_at": [
+                "2026-01-13T15:39:03.908301Z"
+            ]
+        },
+        {
+            "id": "691c5e99a6218f50de3c32f8da22d4cc",
+            "source": "spacenews",
+            "text": "Turion Space Corp. Acquires Tychee Research Group to Accelerate Autonomous Space Operations and Mission Engineering",
+            "source_link": "https://spacenews.com/turion-space-corp-acquires-tychee-research-group-to-accelerate-autonomous-space-operations-and-mission-engineering/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-13T14:52:18.322114Z",
+            "shown_at": [
+                "2026-01-13T14:52:19.238925Z"
+            ]
+        },
+        {
+            "id": "19ca1cb9a1860d4bb2f442eacb620269",
+            "source": "breaking_defense",
+            "text": "DARPA backs Diffraqtion to demo ‘quantum camera’ for space, Earth surveillance",
+            "source_link": "https://breakingdefense.com/2026/01/darpa-backs-diffraqtion-to-demo-quantum-camera-for-space-earth-surveillance/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-13T14:09:11.104774Z",
+            "shown_at": [
+                "2026-01-13T14:09:12.001202Z"
+            ]
+        },
+        {
+            "id": "44da74061043079e975621bbc2a9a358",
+            "source": "spacenews",
+            "text": "2026 will be the year of space nuclear power and surviving the lunar night",
+            "source_link": "https://spacenews.com/2026-will-be-the-year-of-space-nuclear-power-and-surviving-the-lunar-night/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-13T12:24:10.679134Z",
+            "shown_at": [
+                "2026-01-13T12:59:17.993444Z"
+            ]
+        },
+        {
+            "id": "957e9f8193b68fe97b67cdaf63afedf7",
+            "source": "spacenews",
+            "text": "Orbion delivers 33 electric thrusters to York Space for U.S. military constellation",
+            "source_link": "https://spacenews.com/orbion-delivers-33-electric-thrusters-to-york-space-for-u-s-military-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-13T12:24:10.679081Z",
+            "shown_at": [
+                "2026-01-13T12:24:11.380581Z"
+            ]
+        },
+        {
+            "id": "72ee9a26d2c53229a243265c674b983e",
+            "source": "spacenews",
+            "text": "Aerospacelab to build eight satellites for Xona’s navigation constellation",
+            "source_link": "https://spacenews.com/aerospacelab-to-build-eight-satellites-for-xonas-navigation-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-13T11:14:17.796641Z",
+            "shown_at": [
+                "2026-01-13T11:49:18.009970Z"
+            ]
+        },
+        {
+            "id": "f6cc5865f6caf5b284bc0551d7ffee54",
+            "source": "spacenews",
+            "text": "Eutelsat orders 340 additional satellites to replenish OneWeb constellation",
+            "source_link": "https://spacenews.com/eutelsat-orders-340-additional-satellites-to-replenish-oneweb-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-13T11:14:17.796586Z",
+            "shown_at": [
+                "2026-01-13T11:14:18.535165Z"
+            ]
+        },
         {
             "id": "7ffecd077580fd3cb02c3a5d664a9dca",
             "source": "spacenews",
@@ -11502,316 +11622,6 @@
                 "2025-08-10T00:37:53.421456Z",
                 "2025-08-10T11:55:32.126972Z",
                 "2025-08-11T02:39:54.112885Z"
-            ]
-        },
-        {
-            "id": "016ec3564280fa63ff0cd01fe050806b",
-            "source": "spacenews",
-            "text": "NASA writes off Lunar Trailblazer mission",
-            "source_link": "https://spacenews.com/nasa-writes-off-lunar-trailblazer-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-08-04T22:02:15.093849Z",
-            "shown_at": [
-                "2025-08-04T22:02:15.912306Z",
-                "2025-08-06T08:53:12.308757Z",
-                "2025-08-06T19:39:32.800987Z",
-                "2025-08-08T06:53:41.361360Z",
-                "2025-08-08T13:57:43.747698Z",
-                "2025-08-09T16:09:31.208299Z",
-                "2025-08-10T02:29:48.389189Z",
-                "2025-08-10T21:53:46.934010Z",
-                "2025-08-11T15:59:38.017691Z"
-            ]
-        },
-        {
-            "id": "f8a09df109e742c7314b43291cb17219",
-            "source": "spacenews",
-            "text": "Eoptic and Starris establish strategic partnership to develop multispectral satellite imaging payloads",
-            "source_link": "https://spacenews.com/eoptic-and-starris-establish-strategic-partnership-to-develop-multispectral-satellite-imaging-payloads/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-08-04T21:34:05.941615Z",
-            "shown_at": [
-                "2025-08-04T21:34:07.047138Z",
-                "2025-08-05T00:11:47.003573Z",
-                "2025-08-05T19:32:04.888662Z",
-                "2025-08-06T02:13:39.784067Z",
-                "2025-08-07T06:06:00.400428Z",
-                "2025-08-07T20:25:45.762516Z",
-                "2025-08-10T01:33:37.597497Z",
-                "2025-08-11T07:19:37.825866Z",
-                "2025-08-11T19:51:49.242998Z"
-            ]
-        },
-        {
-            "id": "e5fa7862d40c86e7e1c5dbdbf5303e78",
-            "source": "breaking_defense",
-            "text": "Space Force to launch ‘actual’ GMTI sats ‘in the next year’: General",
-            "source_link": "https://breakingdefense.com/2025/08/space-force-to-launch-actual-gmti-sats-in-the-next-year-general/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-08-04T21:19:42.659834Z",
-            "shown_at": [
-                "2025-08-04T21:19:43.718527Z",
-                "2025-08-04T22:31:54.686650Z",
-                "2025-08-05T07:19:32.829415Z",
-                "2025-08-05T10:13:37.800005Z",
-                "2025-08-05T11:09:46.878897Z",
-                "2025-08-06T04:17:53.311819Z",
-                "2025-08-06T07:10:44.173513Z",
-                "2025-08-06T15:07:47.316543Z",
-                "2025-08-06T17:59:27.036726Z",
-                "2025-08-06T20:35:37.203449Z",
-                "2025-08-07T06:19:40.185189Z",
-                "2025-08-07T07:15:32.266562Z",
-                "2025-08-07T10:07:44.111195Z",
-                "2025-08-07T13:51:50.452956Z",
-                "2025-08-08T03:17:55.724541Z",
-                "2025-08-08T06:11:52.132906Z",
-                "2025-08-08T11:02:29.117769Z",
-                "2025-08-09T04:41:41.725990Z",
-                "2025-08-09T19:13:24.533977Z",
-                "2025-08-10T01:47:14.405876Z",
-                "2025-08-10T07:27:50.991037Z",
-                "2025-08-10T10:17:21.095035Z",
-                "2025-08-11T14:19:26.989873Z",
-                "2025-08-11T18:09:37.148901Z",
-                "2025-08-11T20:19:32.336796Z"
-            ]
-        },
-        {
-            "id": "3a8626e98a100a14d3590c953480f01a",
-            "source": "spacenews",
-            "text": "Long March 12 launches first Guowang satellites developed by private firm",
-            "source_link": "https://spacenews.com/long-march-12-launches-first-guowang-satellites-developed-by-private-firm/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-08-04T17:45:49.892095Z",
-            "shown_at": [
-                "2025-08-04T17:59:34.581197Z",
-                "2025-08-05T01:09:39.337568Z",
-                "2025-08-06T18:57:35.038848Z",
-                "2025-08-10T07:13:33.791930Z",
-                "2025-08-10T20:57:30.145968Z"
-            ]
-        },
-        {
-            "id": "2589238d4f1e8bf401927057ef412ba4",
-            "source": "spacenews",
-            "text": "Military leaders say integrated space power crucial for national defense",
-            "source_link": "https://spacenews.com/military-leaders-say-integrated-space-power-crucial-for-national-defense/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-08-04T17:45:49.892038Z",
-            "shown_at": [
-                "2025-08-04T17:45:50.998140Z",
-                "2025-08-04T20:51:51.551835Z",
-                "2025-08-05T11:51:40.746761Z",
-                "2025-08-06T23:11:54.043521Z",
-                "2025-08-08T21:49:46.498850Z",
-                "2025-08-09T20:53:36.197804Z",
-                "2025-08-10T04:23:55.770722Z",
-                "2025-08-11T09:13:33.767501Z",
-                "2025-08-11T14:05:40.686851Z"
-            ]
-        },
-        {
-            "id": "5a2cc52a660ef749443339d8e0942b09",
-            "source": "spacenews",
-            "text": "Burloak and MDA Bet Big on Additive Manufacturing, Fueling Next-Gen Satellite Constellations",
-            "source_link": "https://spacenews.com/burloak-and-mda-bet-big-on-additive-manufacturing-fueling-next-gen-satellite-constellations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-08-04T13:05:34.336150Z",
-            "shown_at": [
-                "2025-08-04T13:19:33.178866Z",
-                "2025-08-07T07:59:37.064336Z",
-                "2025-08-09T09:29:31.499198Z"
-            ]
-        },
-        {
-            "id": "48921885bac583f7b672c72b88c47407",
-            "source": "spacenews",
-            "text": "Humans to Mars or humans exploring Mars?",
-            "source_link": "https://spacenews.com/humans-to-mars-or-humans-exploring-mars/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-08-04T13:05:34.336094Z",
-            "shown_at": [
-                "2025-08-04T13:05:34.982435Z",
-                "2025-08-05T16:35:28.932218Z",
-                "2025-08-08T11:45:36.870637Z",
-                "2025-08-10T06:17:38.163009Z",
-                "2025-08-10T10:03:45.840904Z",
-                "2025-08-11T10:09:37.814466Z"
-            ]
-        },
-        {
-            "id": "b38752d5d140fe836f54168ca81daf83",
-            "source": "spacenews",
-            "text": "European companies still in talks to combine their space businesses",
-            "source_link": "https://spacenews.com/european-companies-still-in-talks-to-combine-their-space-businesses/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-08-04T11:53:45.602208Z",
-            "shown_at": [
-                "2025-08-04T11:53:46.252096Z",
-                "2025-08-04T12:51:39.139123Z",
-                "2025-08-05T12:49:46.183706Z",
-                "2025-08-06T15:21:54.891181Z",
-                "2025-08-09T08:19:37.589924Z",
-                "2025-08-09T18:59:32.875690Z"
-            ]
-        },
-        {
-            "id": "1599e822eaa319913461a0dfce35daa7",
-            "source": "spacenews",
-            "text": "Blue Origin flies crypto entrepreneur, five others on 14th crewed New Shepard flight",
-            "source_link": "https://spacenews.com/blue-origin-flies-crypto-entrepreneur-five-others-on-14th-crewed-new-shepard-flight/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-08-03T14:41:45.561334Z",
-            "shown_at": [
-                "2025-08-03T14:41:47.157329Z",
-                "2025-08-04T15:15:19.124937Z",
-                "2025-08-07T23:13:40.056850Z"
-            ]
-        },
-        {
-            "id": "34650f98dde38109a471d015085ac810",
-            "source": "spacenews",
-            "text": "Why industry says Golden Dome’s biggest challenge isn’t missiles, it’s data flow",
-            "source_link": "https://spacenews.com/why-industry-says-golden-domes-biggest-challenge-isnt-missiles-its-data-flow/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-08-02T19:29:13.726427Z",
-            "shown_at": [
-                "2025-08-02T19:29:14.292619Z",
-                "2025-08-07T03:13:51.212825Z",
-                "2025-08-07T14:35:35.924413Z",
-                "2025-08-08T05:02:07.414709Z",
-                "2025-08-09T17:07:26.495472Z"
-            ]
-        },
-        {
-            "id": "f6cc5865f6caf5b284bc0551d7ffee54",
-            "source": "spacenews",
-            "text": "Eutelsat orders 340 additional satellites to replenish OneWeb constellation",
-            "source_link": "https://spacenews.com/eutelsat-orders-340-additional-satellites-to-replenish-oneweb-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-13T11:14:17.796586Z",
-            "shown_at": [
-                "2026-01-13T11:14:18.535165Z"
-            ]
-        },
-        {
-            "id": "72ee9a26d2c53229a243265c674b983e",
-            "source": "spacenews",
-            "text": "Aerospacelab to build eight satellites for Xona’s navigation constellation",
-            "source_link": "https://spacenews.com/aerospacelab-to-build-eight-satellites-for-xonas-navigation-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-13T11:14:17.796641Z",
-            "shown_at": [
-                "2026-01-13T11:49:18.009970Z"
-            ]
-        },
-        {
-            "id": "957e9f8193b68fe97b67cdaf63afedf7",
-            "source": "spacenews",
-            "text": "Orbion delivers 33 electric thrusters to York Space for U.S. military constellation",
-            "source_link": "https://spacenews.com/orbion-delivers-33-electric-thrusters-to-york-space-for-u-s-military-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-13T12:24:10.679081Z",
-            "shown_at": [
-                "2026-01-13T12:24:11.380581Z"
-            ]
-        },
-        {
-            "id": "44da74061043079e975621bbc2a9a358",
-            "source": "spacenews",
-            "text": "2026 will be the year of space nuclear power and surviving the lunar night",
-            "source_link": "https://spacenews.com/2026-will-be-the-year-of-space-nuclear-power-and-surviving-the-lunar-night/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-13T12:24:10.679134Z",
-            "shown_at": [
-                "2026-01-13T12:59:17.993444Z"
-            ]
-        },
-        {
-            "id": "19ca1cb9a1860d4bb2f442eacb620269",
-            "source": "breaking_defense",
-            "text": "DARPA backs Diffraqtion to demo ‘quantum camera’ for space, Earth surveillance",
-            "source_link": "https://breakingdefense.com/2026/01/darpa-backs-diffraqtion-to-demo-quantum-camera-for-space-earth-surveillance/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-13T14:09:11.104774Z",
-            "shown_at": [
-                "2026-01-13T14:09:12.001202Z"
-            ]
-        },
-        {
-            "id": "691c5e99a6218f50de3c32f8da22d4cc",
-            "source": "spacenews",
-            "text": "Turion Space Corp. Acquires Tychee Research Group to Accelerate Autonomous Space Operations and Mission Engineering",
-            "source_link": "https://spacenews.com/turion-space-corp-acquires-tychee-research-group-to-accelerate-autonomous-space-operations-and-mission-engineering/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-13T14:52:18.322114Z",
-            "shown_at": [
-                "2026-01-13T14:52:19.238925Z"
-            ]
-        },
-        {
-            "id": "aa81d6f2e8601e237987086b63cc14db",
-            "source": "spacenews",
-            "text": "Space Force wants competition. Satellite makers want stability.",
-            "source_link": "https://spacenews.com/space-force-wants-competition-satellite-makers-want-stability/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-13T14:52:18.322195Z",
-            "shown_at": [
-                "2026-01-13T15:39:03.908301Z"
-            ]
-        },
-        {
-            "id": "fba39c0746d9fca93f8cc4ce253f0683",
-            "source": "spacenews",
-            "text": "There’s no end in sight for a space ‘nuclear renaissance’",
-            "source_link": "https://spacenews.com/theres-no-end-in-sight-for-a-space-nuclear-renaissance/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-13T16:14:23.877878Z",
-            "shown_at": [
-                "2026-01-13T16:14:24.772408Z"
-            ]
-        },
-        {
-            "id": "8c6d30c17ade72d69bbe85c3a9801f46",
-            "source": "spacenews",
-            "text": "Pentagon commits $1 billion to L3Harris missile unit as ‘anchor investor’",
-            "source_link": "https://spacenews.com/pentagon-commits-1-billion-to-l3harris-missile-unit-as-anchor-investor/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-13T20:34:19.821297Z",
-            "shown_at": [
-                "2026-01-13T20:34:20.371229Z"
-            ]
-        },
-        {
-            "id": "ac274ffa49d3249fed1e9225a89fa343",
-            "source": "spacenews",
-            "text": "ESA and ClearSpace announce PRELUDE in-orbit servicing and debris removal mission",
-            "source_link": "https://spacenews.com/esa-and-clearspace-announce-prelude-in-orbit-servicing-and-debris-removal-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-13T21:49:12.117151Z",
-            "shown_at": [
-                "2026-01-13T21:49:12.795439Z"
             ]
         }
     ]
