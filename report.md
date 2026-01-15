@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 7 | 7 | 14 | 25 |
-| spacenews | 11 | 22 | 15 | 34 |
+| spacenews | 11 | 22 | 16 | 34 |
 | breaking_defense | 1 | 1 | 10 | 20 |
 
 # Shown Order
@@ -6008,3 +6008,4 @@
 - **Jan 15, 01:49 PM** - Slingshot wins $27 million Space Force contract for AI training system (spacenews)
 - **Jan 15, 02:24 PM** - NASA Astronauts Return to Earth After Medical Evacuation From International Space Station (nyt)
 - **Jan 15, 02:58 PM** - TrustPoint demonstrates non-GPS navigation for LEO satellites (spacenews)
+- **Jan 15, 03:45 PM** - Portal Space selects ‘Space Armor’ debris shield for 2026 mission (spacenews)
