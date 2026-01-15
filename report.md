@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 3 | 12 | 23 |
+| nyt | 3 | 3 | 13 | 24 |
 | spacenews | 11 | 22 | 17 | 36 |
 | breaking_defense | 0 | 1 | 10 | 20 |
 
@@ -5992,3 +5992,4 @@
 - **Jan 15, 04:09 AM** - NASA May Return Early From International Space Station After Medical Issue (nyt)
 - **Jan 15, 04:44 AM** - DIU to fund ‘unjammable’ magnetic navigation tech (breaking_defense)
 - **Jan 15, 05:19 AM** - When allies can’t count on U.S. ISR, commercial space becomes strategic (spacenews)
+- **Jan 15, 05:54 AM** - NASA to Begin Space Station Medical Evacuation: What to Know (nyt)
