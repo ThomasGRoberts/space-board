@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 7 | 7 | 15 | 24 |
+| nyt | 7 | 7 | 15 | 25 |
 | spacenews | 8 | 22 | 14 | 34 |
 | breaking_defense | 1 | 1 | 11 | 21 |
 
@@ -6014,3 +6014,4 @@
 - **Jan 15, 05:34 PM** - NASA to Begin Space Station Medical Evacuation: What to Know (nyt)
 - **Jan 15, 06:09 PM** - DARPA backs Diffraqtion to demo ‘quantum camera’ for space, Earth surveillance (breaking_defense)
 - **Jan 15, 06:44 PM** - Tyvak International’s LIDE satellite completes initial on-orbit 5G tests (spacenews)
+- **Jan 15, 07:19 PM** - Google’s Ex-CEO Backs Start-Up Approach to Big Telescopes for Space and Astronomy (nyt)
