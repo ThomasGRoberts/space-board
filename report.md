@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 13 | 23 |
 | spacenews | 12 | 22 | 17 | 36 |
-| breaking_defense | 0 | 1 | 9 | 20 |
+| breaking_defense | 0 | 1 | 10 | 20 |
 
 # Shown Order
 
@@ -5987,3 +5987,4 @@
 - **Jan 15, 01:14 AM** - Sweden allocates $1.6B to build territorial air defense capability, $140M for space (breaking_defense)
 - **Jan 15, 01:49 AM** - Turion Space Corp. Acquires Tychee Research Group to Accelerate Autonomous Space Operations and Mission Engineering (spacenews)
 - **Jan 15, 02:24 AM** - Scientists Discover Cloud-9, a Starless ‘Galaxy That Wasn’t’ (nyt)
+- **Jan 15, 02:59 AM** - Sweden allocates $1.6B to build territorial air defense capability, $140M for space (breaking_defense)
