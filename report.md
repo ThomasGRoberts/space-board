@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 5 | 13 | 24 |
 | spacenews | 12 | 21 | 17 | 34 |
-| breaking_defense | 1 | 2 | 10 | 20 |
+| breaking_defense | 1 | 2 | 10 | 21 |
 
 # Shown Order
 
@@ -6003,3 +6003,4 @@
 - **Jan 15, 10:44 AM** - Space Force taps Slingshot to build AI adversaries for orbital wargames (breaking_defense)
 - **Jan 15, 11:24 AM** - Hydrosat raises $60 million in Series B funding (spacenews)
 - **Jan 15, 11:59 AM** - Live Updates: Astronauts Head Home After Space Station Medical Evacuation (nyt)
+- **Jan 15, 12:34 PM** - DIU to fund ‘unjammable’ magnetic navigation tech (breaking_defense)
