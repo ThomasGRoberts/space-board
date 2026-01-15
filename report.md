@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 4 | 4 | 12 | 23 |
+| nyt | 5 | 5 | 13 | 23 |
 | spacenews | 12 | 23 | 17 | 36 |
 | breaking_defense | 0 | 1 | 10 | 20 |
 
@@ -5998,3 +5998,4 @@
 - **Jan 15, 07:39 AM** - Live Updates: Astronauts Head Home After Space Station Medical Evacuation (nyt)
 - **Jan 15, 08:14 AM** - How the Air Force is revamping its acquisition shop with new ‘portfolios’ (breaking_defense)
 - **Jan 15, 08:54 AM** - Indian startup Aule Space enters satellite servicing market (spacenews)
+- **Jan 15, 09:29 AM** - Live Updates: Astronauts Splash Down After Space Station Medical Evacuation (nyt)
