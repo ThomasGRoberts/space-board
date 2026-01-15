@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 5 | 5 | 13 | 23 |
+| nyt | 5 | 5 | 12 | 23 |
 | spacenews | 13 | 24 | 18 | 36 |
-| breaking_defense | 0 | 1 | 9 | 19 |
+| breaking_defense | 1 | 2 | 10 | 20 |
 
 # Shown Order
 
@@ -6000,3 +6000,4 @@
 - **Jan 15, 08:54 AM** - Indian startup Aule Space enters satellite servicing market (spacenews)
 - **Jan 15, 09:29 AM** - Live Updates: Astronauts Splash Down After Space Station Medical Evacuation (nyt)
 - **Jan 15, 10:04 AM** - Crew-11 makes early return from ISS (spacenews)
+- **Jan 15, 10:44 AM** - Space Force taps Slingshot to build AI adversaries for orbital wargames (breaking_defense)
