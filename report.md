@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 13 | 23 |
 | spacenews | 11 | 22 | 17 | 36 |
-| breaking_defense | 0 | 1 | 9 | 20 |
+| breaking_defense | 0 | 1 | 10 | 21 |
 
 # Shown Order
 
@@ -5993,3 +5993,4 @@
 - **Jan 15, 04:44 AM** - DIU to fund ‘unjammable’ magnetic navigation tech (breaking_defense)
 - **Jan 15, 05:19 AM** - When allies can’t count on U.S. ISR, commercial space becomes strategic (spacenews)
 - **Jan 15, 05:54 AM** - NASA to Begin Space Station Medical Evacuation: What to Know (nyt)
+- **Jan 15, 06:29 AM** - SpaceX to launch next SDA missile tracking satellites (breaking_defense)
