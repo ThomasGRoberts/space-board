@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 13 | 23 |
 | spacenews | 12 | 22 | 17 | 36 |
-| breaking_defense | 0 | 1 | 9 | 19 |
+| breaking_defense | 0 | 1 | 10 | 20 |
 
 # Shown Order
 
@@ -5984,3 +5984,4 @@
 - **Jan 14, 11:29 PM** - DARPA backs Diffraqtion to demo ‘quantum camera’ for space, Earth surveillance (breaking_defense)
 - **Jan 15, 12:04 AM** - This year must bring greater collaboration against orbital congestion (spacenews)
 - **Jan 15, 12:39 AM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
+- **Jan 15, 01:14 AM** - Sweden allocates $1.6B to build territorial air defense capability, $140M for space (breaking_defense)
