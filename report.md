@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 6 | 7 | 14 | 25 |
 | spacenews | 8 | 22 | 14 | 34 |
-| breaking_defense | 1 | 1 | 11 | 20 |
+| breaking_defense | 1 | 1 | 12 | 21 |
 
 # Shown Order
 
@@ -6015,3 +6015,4 @@
 - **Jan 15, 06:09 PM** - DARPA backs Diffraqtion to demo ‘quantum camera’ for space, Earth surveillance (breaking_defense)
 - **Jan 15, 06:44 PM** - Tyvak International’s LIDE satellite completes initial on-orbit 5G tests (spacenews)
 - **Jan 15, 07:19 PM** - Google’s Ex-CEO Backs Start-Up Approach to Big Telescopes for Space and Astronomy (nyt)
+- **Jan 15, 07:54 PM** - DARPA backs Diffraqtion to demo ‘quantum camera’ for space, Earth surveillance (breaking_defense)
