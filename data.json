@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-15T00:04:31.792532+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e9128e577468d4ddc317e4f155ec5e83",
+    "trigger_count": 0,
+    "current_item_id": "c2066ba7d5c74942f821f08f9ec16050",
     "data": [
         {
             "id": "8b059458b74c75dafed4e38c123255e7",
@@ -11550,6 +11550,18 @@
             "fetched_datetime": "2026-01-15T10:44:06.954846Z",
             "shown_at": [
                 "2026-01-15T10:44:07.733046Z"
+            ]
+        },
+        {
+            "id": "c2066ba7d5c74942f821f08f9ec16050",
+            "source": "spacenews",
+            "text": "Hydrosat raises $60 million in Series B funding",
+            "source_link": "https://spacenews.com/hydrosat-raises-60-million-in-series-b-funding/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-15T11:24:06.507434Z",
+            "shown_at": [
+                "2026-01-15T11:24:07.910925Z"
             ]
         }
     ]
