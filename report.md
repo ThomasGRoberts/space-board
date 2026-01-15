@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 3 | 12 | 23 |
+| nyt | 3 | 3 | 13 | 23 |
 | spacenews | 13 | 22 | 18 | 36 |
 | breaking_defense | 0 | 1 | 9 | 20 |
 
@@ -5983,3 +5983,4 @@
 - **Jan 14, 10:54 PM** - NASA Begins Astronaut Space Station Medical Evacuation: What to Know (nyt)
 - **Jan 14, 11:29 PM** - DARPA backs Diffraqtion to demo ‘quantum camera’ for space, Earth surveillance (breaking_defense)
 - **Jan 15, 12:04 AM** - This year must bring greater collaboration against orbital congestion (spacenews)
+- **Jan 15, 12:39 AM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
