@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 7 | 7 | 15 | 25 |
-| spacenews | 9 | 22 | 14 | 33 |
+| spacenews | 8 | 22 | 14 | 34 |
 | breaking_defense | 1 | 1 | 11 | 21 |
 
 # Shown Order
@@ -6013,3 +6013,4 @@
 - **Jan 15, 05:00 PM** - Parsons buys Altamira for $375 million to expand space and intelligence portfolio (spacenews)
 - **Jan 15, 05:34 PM** - NASA to Begin Space Station Medical Evacuation: What to Know (nyt)
 - **Jan 15, 06:09 PM** - DARPA backs Diffraqtion to demo ‘quantum camera’ for space, Earth surveillance (breaking_defense)
+- **Jan 15, 06:44 PM** - Tyvak International’s LIDE satellite completes initial on-orbit 5G tests (spacenews)
