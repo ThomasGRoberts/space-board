@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-15T00:04:31.792532+00:00",
-    "trigger_count": 6,
-    "current_item_id": "aa81d6f2e8601e237987086b63cc14db",
+    "trigger_count": 0,
+    "current_item_id": "f303a3996e165712b8d787c7a1a9ad8e",
     "data": [
         {
             "id": "8b059458b74c75dafed4e38c123255e7",
@@ -11643,6 +11643,18 @@
             "fetched_datetime": "2026-01-15T17:00:06.513670Z",
             "shown_at": [
                 "2026-01-15T17:00:11.682138Z"
+            ]
+        },
+        {
+            "id": "f303a3996e165712b8d787c7a1a9ad8e",
+            "source": "spacenews",
+            "text": "Arianespace to begin Amazon Leo launches in February",
+            "source_link": "https://spacenews.com/arianespace-to-begin-amazon-leo-launches-in-february/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-15T21:14:18.391575Z",
+            "shown_at": [
+                "2026-01-15T21:14:19.093736Z"
             ]
         }
     ]

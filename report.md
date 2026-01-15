@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 5 | 7 | 13 | 25 |
-| spacenews | 8 | 21 | 15 | 33 |
+| nyt | 5 | 7 | 13 | 24 |
+| spacenews | 9 | 22 | 16 | 34 |
 | breaking_defense | 1 | 1 | 11 | 21 |
 
 # Shown Order
@@ -6017,3 +6017,4 @@
 - **Jan 15, 07:19 PM** - Google’s Ex-CEO Backs Start-Up Approach to Big Telescopes for Space and Astronomy (nyt)
 - **Jan 15, 07:54 PM** - DARPA backs Diffraqtion to demo ‘quantum camera’ for space, Earth surveillance (breaking_defense)
 - **Jan 15, 08:39 PM** - Space Force wants competition. Satellite makers want stability. (spacenews)
+- **Jan 15, 09:14 PM** - Arianespace to begin Amazon Leo launches in February (spacenews)
