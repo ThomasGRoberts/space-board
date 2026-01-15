@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-15T00:04:31.792532+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0b6ef0a9392b1a0e3e301c163579e50f",
+    "trigger_count": 0,
+    "current_item_id": "b2e4bb93746677df9e3a2b3829b8dd3f",
     "data": [
         {
             "id": "8b059458b74c75dafed4e38c123255e7",
@@ -11565,6 +11565,27 @@
             "shown_at": [
                 "2026-01-15T11:24:07.910925Z"
             ]
+        },
+        {
+            "id": "b2e4bb93746677df9e3a2b3829b8dd3f",
+            "source": "nyt",
+            "text": "Highlights From NASA’s Medical Evacuation From the Space Station",
+            "source_link": "https://www.nytimes.com/live/2026/01/15/science/nasa-astronauts-return",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-15T13:09:09.290994Z",
+            "shown_at": [
+                "2026-01-15T13:09:10.053749Z"
+            ]
+        },
+        {
+            "id": "478ad848b1a75ed690e4406f9af71772",
+            "source": "nyt",
+            "text": "NASA Astronauts Return to Earth After Medical Evacuation From International Space Station",
+            "source_link": "https://www.nytimes.com/2026/01/15/science/nasa-astronauts-international-space-station-evacuation.html",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-01-15T13:09:09.291393Z"
         }
     ]
 }
