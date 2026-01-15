@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 5 | 5 | 12 | 23 |
+| nyt | 5 | 5 | 13 | 24 |
 | spacenews | 12 | 23 | 17 | 35 |
 | breaking_defense | 1 | 2 | 10 | 20 |
 
@@ -6002,3 +6002,4 @@
 - **Jan 15, 10:04 AM** - Crew-11 makes early return from ISS (spacenews)
 - **Jan 15, 10:44 AM** - Space Force taps Slingshot to build AI adversaries for orbital wargames (breaking_defense)
 - **Jan 15, 11:24 AM** - Hydrosat raises $60 million in Series B funding (spacenews)
+- **Jan 15, 11:59 AM** - Live Updates: Astronauts Head Home After Space Station Medical Evacuation (nyt)
