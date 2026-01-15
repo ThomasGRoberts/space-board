@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-15T00:04:31.792532+00:00",
-    "trigger_count": 6,
-    "current_item_id": "19ca1cb9a1860d4bb2f442eacb620269",
+    "trigger_count": 0,
+    "current_item_id": "803992feb0951a9f0266cb4eb42c4a7e",
     "data": [
         {
             "id": "8b059458b74c75dafed4e38c123255e7",
@@ -11625,6 +11625,18 @@
             "fetched_datetime": "2026-01-15T14:58:45.003797Z",
             "shown_at": [
                 "2026-01-15T15:45:13.973773Z"
+            ]
+        },
+        {
+            "id": "803992feb0951a9f0266cb4eb42c4a7e",
+            "source": "spacenews",
+            "text": "Parsons buys Altamira for $375 million to expand space and intelligence portfolio",
+            "source_link": "https://spacenews.com/parsons-buys-altamira-for-375-million-to-expand-space-and-intelligence-portfolio/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-15T17:00:06.513670Z",
+            "shown_at": [
+                "2026-01-15T17:00:11.682138Z"
             ]
         }
     ]
