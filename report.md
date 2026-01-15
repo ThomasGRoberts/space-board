@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 5 | 7 | 13 | 25 |
-| spacenews | 8 | 21 | 15 | 33 |
+| nyt | 4 | 7 | 12 | 25 |
+| spacenews | 8 | 21 | 16 | 34 |
 | breaking_defense | 1 | 1 | 12 | 21 |
 
 # Shown Order
@@ -6020,3 +6020,4 @@
 - **Jan 15, 09:14 PM** - Arianespace to begin Amazon Leo launches in February (spacenews)
 - **Jan 15, 09:49 PM** - Highlights From NASA’s Medical Evacuation From the Space Station (nyt)
 - **Jan 15, 10:24 PM** - DIU to fund ‘unjammable’ magnetic navigation tech (breaking_defense)
+- **Jan 15, 10:59 PM** - This year must bring greater collaboration against orbital congestion (spacenews)
