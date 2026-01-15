@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 4 | 4 | 13 | 23 |
 | spacenews | 11 | 22 | 17 | 36 |
-| breaking_defense | 0 | 1 | 9 | 20 |
+| breaking_defense | 0 | 1 | 10 | 21 |
 
 # Shown Order
 
@@ -5996,3 +5996,4 @@
 - **Jan 15, 06:29 AM** - SpaceX to launch next SDA missile tracking satellites (breaking_defense)
 - **Jan 15, 07:04 AM** - The U.S. will seize space leadership – or China will take it (spacenews)
 - **Jan 15, 07:39 AM** - Live Updates: Astronauts Head Home After Space Station Medical Evacuation (nyt)
+- **Jan 15, 08:14 AM** - How the Air Force is revamping its acquisition shop with new ‘portfolios’ (breaking_defense)
