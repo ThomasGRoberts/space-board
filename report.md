@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 12 | 23 |
-| spacenews | 11 | 22 | 17 | 36 |
+| spacenews | 11 | 22 | 18 | 37 |
 | breaking_defense | 0 | 1 | 10 | 20 |
 
 # Shown Order
@@ -5994,3 +5994,4 @@
 - **Jan 15, 05:19 AM** - When allies can’t count on U.S. ISR, commercial space becomes strategic (spacenews)
 - **Jan 15, 05:54 AM** - NASA to Begin Space Station Medical Evacuation: What to Know (nyt)
 - **Jan 15, 06:29 AM** - SpaceX to launch next SDA missile tracking satellites (breaking_defense)
+- **Jan 15, 07:04 AM** - The U.S. will seize space leadership – or China will take it (spacenews)
