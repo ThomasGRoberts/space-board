@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 3 | 12 | 23 |
+| nyt | 3 | 3 | 13 | 23 |
 | spacenews | 11 | 22 | 17 | 36 |
 | breaking_defense | 0 | 1 | 10 | 20 |
 
@@ -5989,3 +5989,4 @@
 - **Jan 15, 02:24 AM** - Scientists Discover Cloud-9, a Starless ‘Galaxy That Wasn’t’ (nyt)
 - **Jan 15, 02:59 AM** - Sweden allocates $1.6B to build territorial air defense capability, $140M for space (breaking_defense)
 - **Jan 15, 03:34 AM** - Turion Space Corp. Acquires Tychee Research Group to Accelerate Autonomous Space Operations and Mission Engineering (spacenews)
+- **Jan 15, 04:09 AM** - NASA May Return Early From International Space Station After Medical Issue (nyt)
