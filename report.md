@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 7 | 7 | 14 | 24 |
-| spacenews | 10 | 22 | 16 | 34 |
+| nyt | 7 | 7 | 15 | 25 |
+| spacenews | 10 | 22 | 15 | 34 |
 | breaking_defense | 1 | 1 | 10 | 20 |
 
 # Shown Order
@@ -6006,3 +6006,4 @@
 - **Jan 15, 12:34 PM** - DIU to fund ‘unjammable’ magnetic navigation tech (breaking_defense)
 - **Jan 15, 01:09 PM** - Highlights From NASA’s Medical Evacuation From the Space Station (nyt)
 - **Jan 15, 01:49 PM** - Slingshot wins $27 million Space Force contract for AI training system (spacenews)
+- **Jan 15, 02:24 PM** - NASA Astronauts Return to Earth After Medical Evacuation From International Space Station (nyt)

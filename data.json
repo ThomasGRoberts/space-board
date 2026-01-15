@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-15T00:04:31.792532+00:00",
-    "trigger_count": 6,
-    "current_item_id": "fdd0fb9e50c4e7e60b8412fe6d127320",
+    "trigger_count": 0,
+    "current_item_id": "478ad848b1a75ed690e4406f9af71772",
     "data": [
         {
             "id": "8b059458b74c75dafed4e38c123255e7",
@@ -11583,9 +11583,12 @@
             "source": "nyt",
             "text": "NASA Astronauts Return to Earth After Medical Evacuation From International Space Station",
             "source_link": "https://www.nytimes.com/2026/01/15/science/nasa-astronauts-international-space-station-evacuation.html",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-01-15T13:09:09.291393Z"
+            "fetched_datetime": "2026-01-15T13:09:09.291393Z",
+            "shown_at": [
+                "2026-01-15T14:24:20.177548Z"
+            ]
         },
         {
             "id": "fdd0fb9e50c4e7e60b8412fe6d127320",
