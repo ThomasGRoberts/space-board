@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 13 | 23 |
 | spacenews | 11 | 22 | 17 | 36 |
-| breaking_defense | 0 | 1 | 9 | 20 |
+| breaking_defense | 0 | 1 | 10 | 21 |
 
 # Shown Order
 
@@ -5990,3 +5990,4 @@
 - **Jan 15, 02:59 AM** - Sweden allocates $1.6B to build territorial air defense capability, $140M for space (breaking_defense)
 - **Jan 15, 03:34 AM** - Turion Space Corp. Acquires Tychee Research Group to Accelerate Autonomous Space Operations and Mission Engineering (spacenews)
 - **Jan 15, 04:09 AM** - NASA May Return Early From International Space Station After Medical Issue (nyt)
+- **Jan 15, 04:44 AM** - DIU to fund ‘unjammable’ magnetic navigation tech (breaking_defense)
