@@ -1,9 +1,202 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-01-14T00:04:58.520679+00:00",
-    "trigger_count": 6,
-    "current_item_id": "19ca1cb9a1860d4bb2f442eacb620269",
+    "last_run_datetime": "2026-01-15T00:04:31.792532+00:00",
+    "trigger_count": 0,
+    "current_item_id": "8eb0d6f22f47d01d3b2d583fdb0cdc61",
     "data": [
+        {
+            "id": "8b059458b74c75dafed4e38c123255e7",
+            "source": "nyt",
+            "text": "NASA Begins Astronaut Space Station Medical Evacuation: What to Know",
+            "source_link": "https://www.nytimes.com/2026/01/14/science/nasa-astronauts-iss-return.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-14T22:54:14.547212Z",
+            "shown_at": [
+                "2026-01-14T22:54:15.186273Z"
+            ]
+        },
+        {
+            "id": "92b77dfc2c24f72d1ddd4d94a0b6d5aa",
+            "source": "spacenews",
+            "text": "CAS Space conducts first suborbital launch and capsule landing test",
+            "source_link": "https://spacenews.com/cas-space-conducts-first-suborbital-launch-and-capsule-landing-test/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-14T21:44:05.856246Z",
+            "shown_at": [
+                "2026-01-14T21:44:06.659788Z"
+            ]
+        },
+        {
+            "id": "d03bc1e5d7a9a051d8dc030fd66abedb",
+            "source": "nyt",
+            "text": "NASA to Begin Space Station Medical Evacuation: Video and What to Know",
+            "source_link": "https://www.nytimes.com/2026/01/14/science/nasa-astronauts-iss-return.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-14T20:24:24.641019Z",
+            "shown_at": [
+                "2026-01-14T20:24:25.402430Z"
+            ]
+        },
+        {
+            "id": "073da4dcfcf5afe42e45caf767ffba23",
+            "source": "nyt",
+            "text": "NASA to Begin Space Station Medical Evacuation: What to Know",
+            "source_link": "https://www.nytimes.com/2026/01/14/science/nasa-astronauts-iss-return.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-14T19:49:04.992250Z",
+            "shown_at": [
+                "2026-01-14T19:49:05.935500Z",
+                "2026-01-14T22:19:21.025837Z"
+            ]
+        },
+        {
+            "id": "d3e8d4d9c2ea9d521dd82f830a331c9c",
+            "source": "spacenews",
+            "text": "ESA’s Comet Interceptor mission moves up launch",
+            "source_link": "https://spacenews.com/esas-comet-interceptor-mission-moves-up-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-14T18:39:10.100560Z",
+            "shown_at": [
+                "2026-01-14T18:39:10.829512Z"
+            ]
+        },
+        {
+            "id": "d6f10382b4f75555315a6343798f6038",
+            "source": "spacenews",
+            "text": "Taiwan’s Moonshot: why ‘T-Dome’ needs systems engineering, not just a shopping list",
+            "source_link": "https://spacenews.com/taiwans-moonshot-why-t-dome-needs-systems-engineering-not-just-a-shopping-list/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-14T18:04:43.587826Z",
+            "shown_at": [
+                "2026-01-14T18:04:44.337106Z"
+            ]
+        },
+        {
+            "id": "4452bb6509939be600e341741ac77d74",
+            "source": "spacenews",
+            "text": "ThinkOrbital raises seed funding to advance X-ray space inspection",
+            "source_link": "https://spacenews.com/thinkorbital-raises-seed-funding-to-advance-x-ray-space-inspection/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-14T16:09:19.810892Z",
+            "shown_at": [
+                "2026-01-14T16:54:06.964861Z"
+            ]
+        },
+        {
+            "id": "275c74126b2140193ba1d5973cc0bb52",
+            "source": "spacenews",
+            "text": "Space sustainability will evolve into a data-driven system",
+            "source_link": "https://spacenews.com/space-sustainability-will-evolve-intoa-data-driven-system/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-14T16:09:19.810837Z",
+            "shown_at": [
+                "2026-01-14T16:09:20.543406Z"
+            ]
+        },
+        {
+            "id": "314d3ea8e7a7f0eb5c70c7adabed675f",
+            "source": "spacenews",
+            "text": "Bringing outsiders into the space fold",
+            "source_link": "https://spacenews.com/bringing-outsiders-into-the-space-fold/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-14T14:59:11.985084Z",
+            "shown_at": [
+                "2026-01-14T14:59:12.810672Z"
+            ]
+        },
+        {
+            "id": "be9c00d3963ad495e974798648bc3252",
+            "source": "spacenews",
+            "text": "Space operations will become more dynamic this year",
+            "source_link": "https://spacenews.com/space-operations-will-become-more-dynamic-this-year/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-14T13:05:19.848726Z",
+            "shown_at": [
+                "2026-01-14T14:19:15.215030Z"
+            ]
+        },
+        {
+            "id": "12de6d5d1301ce25578d365e38672b56",
+            "source": "spacenews",
+            "text": "NASA pessimistic about odds of recovering MAVEN",
+            "source_link": "https://spacenews.com/nasa-pessimistic-about-odds-of-recovering-maven/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-14T13:05:19.848683Z",
+            "shown_at": [
+                "2026-01-14T13:44:46.936189Z"
+            ]
+        },
+        {
+            "id": "89e7ffeeb38a5b451c97ad917dfe1d60",
+            "source": "spacenews",
+            "text": "When allies can’t count on U.S. ISR, commercial space becomes strategic",
+            "source_link": "https://spacenews.com/when-allies-cant-count-on-u-s-isr-commercial-space-becomes-strategic/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-14T13:05:19.848624Z",
+            "shown_at": [
+                "2026-01-14T13:05:20.433762Z"
+            ]
+        },
+        {
+            "id": "f264868894046aaa344be3b85e7f6056",
+            "source": "spacenews",
+            "text": "SkyFi raises $12.7 million to scale satellite data marketplace",
+            "source_link": "https://spacenews.com/skyfi-raises-12-7-million-to-scale-satellite-data-marketplace/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-14T11:49:12.547173Z",
+            "shown_at": [
+                "2026-01-14T11:49:13.694751Z"
+            ]
+        },
+        {
+            "id": "8dec5faf2f758cac62036d0bf621a347",
+            "source": "spacenews",
+            "text": "China’s first launches of 2026 send Yaogan spacecraft into unusual orbit, loft Guowang satellites ",
+            "source_link": "https://spacenews.com/chinas-first-launches-of-2026-send-yaogan-spacecraft-into-unusual-orbit-loft-guowang-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-14T11:09:08.393114Z",
+            "shown_at": [
+                "2026-01-14T11:09:09.264695Z"
+            ]
+        },
+        {
+            "id": "398654d7da5373af1f7349b92593f238",
+            "source": "spacenews",
+            "text": "Firefly to upgrade Alpha rocket to improve reliability",
+            "source_link": "https://spacenews.com/firefly-to-upgrade-alpha-rocket-to-improve-reliability/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-14T03:49:17.645991Z",
+            "shown_at": [
+                "2026-01-14T03:49:18.232170Z"
+            ]
+        },
+        {
+            "id": "c0b4ed5482e39b1deee45377e129b36b",
+            "source": "spacenews",
+            "text": "Congressional hearing highlights military’s reliance on NOAA weather data",
+            "source_link": "https://spacenews.com/congressional-hearing-highlights-militarys-reliance-on-noaa-data/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-14T00:54:17.743450Z",
+            "shown_at": [
+                "2026-01-14T00:54:18.425984Z"
+            ]
+        },
         {
             "id": "ac274ffa49d3249fed1e9225a89fa343",
             "source": "spacenews",
@@ -226,7 +419,8 @@
             "fetched_datetime": "2026-01-12T12:51:06.421918Z",
             "shown_at": [
                 "2026-01-12T13:51:15.913708Z",
-                "2026-01-13T23:44:25.859478Z"
+                "2026-01-13T23:44:25.859478Z",
+                "2026-01-15T00:04:38.700599Z"
             ]
         },
         {
@@ -11283,560 +11477,6 @@
                 "2025-08-13T14:41:51.248832Z",
                 "2025-08-13T15:42:05.824262Z",
                 "2025-08-13T16:37:43.113056Z"
-            ]
-        },
-        {
-            "id": "2a344d82404b31f278b9c9c10629419e",
-            "source": "spacenews",
-            "text": "From boots to orbits: Army develops space skills amid growing battlefield reliance on satellites",
-            "source_link": "https://spacenews.com/from-boots-to-orbits-army-develops-space-skills-amid-growing-battlefield-reliance-on-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-08-06T14:37:52.393676Z",
-            "shown_at": [
-                "2025-08-06T14:37:53.326744Z",
-                "2025-08-07T17:33:39.672860Z",
-                "2025-08-08T17:47:45.172451Z",
-                "2025-08-08T19:41:42.279410Z",
-                "2025-08-11T01:37:50.015485Z",
-                "2025-08-12T13:47:53.688032Z",
-                "2025-08-12T18:05:44.804662Z",
-                "2025-08-13T04:03:35.598269Z",
-                "2025-08-13T07:55:49.438498Z",
-                "2025-08-13T13:45:49.787674Z"
-            ]
-        },
-        {
-            "id": "31fbf3e8062d581069a19a67641d4aeb",
-            "source": "spacenews",
-            "text": "What’s required to advance DoD enterprise SATCOM",
-            "source_link": "https://spacenews.com/whats-required-to-advance-dod-enterprise-satcom/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-08-06T13:29:53.100241Z",
-            "shown_at": [
-                "2025-08-06T13:29:53.798988Z",
-                "2025-08-07T05:07:33.980222Z",
-                "2025-08-09T19:55:30.762357Z",
-                "2025-08-09T22:45:34.980134Z",
-                "2025-08-11T15:03:49.383568Z",
-                "2025-08-11T17:53:14.345581Z",
-                "2025-08-11T21:43:41.073024Z",
-                "2025-08-12T07:05:26.439754Z",
-                "2025-08-13T02:09:27.425602Z",
-                "2025-08-13T09:55:42.857891Z",
-                "2025-08-13T12:49:43.339389Z"
-            ]
-        },
-        {
-            "id": "581274ce7db773baf5fd35e9db0ad6b5",
-            "source": "spacenews",
-            "text": "NASA revises plans for commercial space station development",
-            "source_link": "https://spacenews.com/nasa-revises-plans-for-commercial-space-station-development/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-08-06T12:11:47.648215Z",
-            "shown_at": [
-                "2025-08-06T12:11:48.543431Z",
-                "2025-08-07T02:17:51.898611Z",
-                "2025-08-07T09:51:49.276740Z",
-                "2025-08-08T12:47:45.174014Z",
-                "2025-08-12T19:59:44.195830Z",
-                "2025-08-12T23:45:55.218404Z",
-                "2025-08-13T11:53:30.889846Z"
-            ]
-        },
-        {
-            "id": "aa6ddb86a7195eb1b4fe3fcc7c10b493",
-            "source": "spacenews",
-            "text": "NASA selects shuttle orbiter to move to Houston",
-            "source_link": "https://spacenews.com/nasa-selects-shuttle-orbiter-to-move-to-houston/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-08-06T11:11:47.450295Z",
-            "shown_at": [
-                "2025-08-06T11:37:40.898274Z",
-                "2025-08-07T19:27:39.451646Z",
-                "2025-08-09T18:03:44.715797Z",
-                "2025-08-10T22:49:48.972884Z",
-                "2025-08-11T00:41:54.143113Z",
-                "2025-08-11T04:31:51.252398Z",
-                "2025-08-12T20:57:35.263399Z",
-                "2025-08-13T10:53:34.717768Z"
-            ]
-        },
-        {
-            "id": "518342f687fbbdb361f5af1924c60445",
-            "source": "spacenews",
-            "text": "NASA’s proposed budget eyes human exploration of Mars",
-            "source_link": "https://spacenews.com/nasas-proposed-budget-eyes-human-exploration-of-mars/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-08-06T11:11:47.450236Z",
-            "shown_at": [
-                "2025-08-06T11:11:48.515403Z",
-                "2025-08-07T18:32:00.248469Z",
-                "2025-08-08T22:45:48.224133Z",
-                "2025-08-09T06:23:42.750651Z",
-                "2025-08-11T22:39:34.318773Z",
-                "2025-08-12T08:01:57.935212Z",
-                "2025-08-12T15:42:03.006299Z",
-                "2025-08-13T03:05:48.138536Z",
-                "2025-08-13T06:01:41.594778Z"
-            ]
-        },
-        {
-            "id": "11c82915080467d236383babb7241a2e",
-            "source": "spacenews",
-            "text": "Northrop says investments position company for Golden Dome missile defense demand",
-            "source_link": "https://spacenews.com/northrop-says-investments-position-company-for-golden-dome-missile-defense-demand/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-08-06T01:26:15.193904Z",
-            "shown_at": [
-                "2025-08-06T01:26:16.565586Z",
-                "2025-08-09T23:41:43.754429Z",
-                "2025-08-12T08:59:40.064763Z",
-                "2025-08-12T10:55:47.170915Z",
-                "2025-08-12T22:49:57.468651Z"
-            ]
-        },
-        {
-            "id": "fb89d42dc32aafbb80fd54808fe45b8b",
-            "source": "spacenews",
-            "text": "Space Command chief calls for orbital gas stations as China tests satellite refueling",
-            "source_link": "https://spacenews.com/space-command-chief-calls-for-orbital-gas-stations-as-china-tests-satellite-refueling/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-08-05T22:37:36.530533Z",
-            "shown_at": [
-                "2025-08-05T22:37:37.040488Z",
-                "2025-08-07T08:55:39.942367Z",
-                "2025-08-07T16:35:44.301779Z",
-                "2025-08-08T16:07:45.601774Z",
-                "2025-08-09T00:39:33.434482Z",
-                "2025-08-09T02:31:36.475479Z",
-                "2025-08-10T03:25:47.693732Z",
-                "2025-08-11T12:02:06.251803Z",
-                "2025-08-12T01:27:56.834049Z",
-                "2025-08-12T05:13:47.957438Z",
-                "2025-08-12T06:09:34.976740Z",
-                "2025-08-12T11:51:55.706523Z",
-                "2025-08-12T17:09:46.081592Z",
-                "2025-08-12T21:53:56.366925Z"
-            ]
-        },
-        {
-            "id": "6e9b82e1ebe65bfe5e065a9a0c42bfc1",
-            "source": "spacenews",
-            "text": "Eutelsat’s bright LEO outlook clouded by GEO decline",
-            "source_link": "https://spacenews.com/eutelsats-bright-leo-outlook-clouded-by-geo-decline/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-08-05T21:55:31.288505Z",
-            "shown_at": [
-                "2025-08-05T21:55:32.046162Z",
-                "2025-08-07T22:17:34.600510Z",
-                "2025-08-10T09:07:44.256013Z",
-                "2025-08-11T11:05:34.946579Z",
-                "2025-08-12T04:17:33.378400Z",
-                "2025-08-12T14:45:32.422623Z"
-            ]
-        },
-        {
-            "id": "a4d44b46b30d79039fa3091ad7a560e1",
-            "source": "breaking_defense",
-            "text": "Space Force launching sats to ‘enable’ GMTI ahead of mission-dedicated birds in 2028",
-            "source_link": "https://breakingdefense.com/2025/08/space-force-to-launch-actual-gmti-sats-in-the-next-year-general/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-08-05T20:17:36.899879Z",
-            "shown_at": [
-                "2025-08-05T20:17:37.576030Z",
-                "2025-08-05T20:59:41.681507Z",
-                "2025-08-06T02:41:58.720874Z",
-                "2025-08-07T00:09:45.367722Z",
-                "2025-08-07T05:21:56.751404Z",
-                "2025-08-07T11:03:40.430749Z",
-                "2025-08-07T18:45:51.965817Z",
-                "2025-08-08T10:02:12.607567Z",
-                "2025-08-08T13:02:08.416601Z",
-                "2025-08-08T21:05:40.989224Z",
-                "2025-08-09T17:21:52.010069Z",
-                "2025-08-09T18:17:47.452721Z",
-                "2025-08-10T02:43:36.431420Z",
-                "2025-08-10T21:25:42.658534Z",
-                "2025-08-11T02:09:34.959354Z",
-                "2025-08-11T04:03:48.789447Z",
-                "2025-08-11T10:37:31.678914Z",
-                "2025-08-11T12:31:47.625271Z",
-                "2025-08-11T15:17:33.671615Z",
-                "2025-08-11T16:13:52.984630Z",
-                "2025-08-12T00:59:56.089437Z"
-            ]
-        },
-        {
-            "id": "e66ede19fefacad26edc846a43c4686d",
-            "source": "breaking_defense",
-            "text": "SPACECOM chief doubles down on need for on-orbit mobility",
-            "source_link": "https://breakingdefense.com/2025/08/spacecom-chief-doubles-down-on-need-for-on-orbit-mobility/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-08-05T19:17:35.813887Z",
-            "shown_at": [
-                "2025-08-05T19:17:36.525279Z",
-                "2025-08-05T22:23:06.741123Z",
-                "2025-08-05T23:05:52.728795Z",
-                "2025-08-07T00:53:33.726767Z",
-                "2025-08-07T11:59:56.060499Z",
-                "2025-08-07T12:55:48.827156Z",
-                "2025-08-07T17:47:53.955367Z",
-                "2025-08-08T02:21:48.643386Z",
-                "2025-08-08T04:19:43.337534Z",
-                "2025-08-08T11:59:43.174410Z",
-                "2025-08-08T15:23:44.664794Z",
-                "2025-08-08T16:21:41.671123Z",
-                "2025-08-09T07:37:39.684040Z",
-                "2025-08-09T21:07:48.289967Z",
-                "2025-08-09T22:59:42.957390Z",
-                "2025-08-10T08:23:34.485490Z",
-                "2025-08-10T11:13:34.516972Z",
-                "2025-08-10T23:17:42.087643Z",
-                "2025-08-11T00:13:30.706212Z",
-                "2025-08-11T21:15:34.449790Z",
-                "2025-08-11T23:07:35.549482Z",
-                "2025-08-12T02:51:50.128620Z",
-                "2025-08-12T03:47:46.588357Z",
-                "2025-08-12T08:29:35.815207Z",
-                "2025-08-12T14:15:34.799993Z"
-            ]
-        },
-        {
-            "id": "9d9590a6a8f6a4a6b7ea447feccc9af2",
-            "source": "breaking_defense",
-            "text": "With Intelsat buy, SES targets European defense market",
-            "source_link": "https://breakingdefense.com/2025/08/with-intelsat-buy-ses-targets-european-defense-market/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-08-05T17:29:53.069336Z",
-            "shown_at": [
-                "2025-08-05T17:29:53.745589Z",
-                "2025-08-05T21:41:53.500205Z",
-                "2025-08-05T23:47:38.602309Z",
-                "2025-08-06T01:57:35.158582Z",
-                "2025-08-06T03:29:38.506529Z",
-                "2025-08-06T12:46:02.408449Z",
-                "2025-08-06T23:25:47.955591Z",
-                "2025-08-07T03:27:47.264767Z",
-                "2025-08-07T14:49:33.008654Z",
-                "2025-08-07T16:49:46.142285Z",
-                "2025-08-07T23:27:39.420820Z",
-                "2025-08-08T01:21:41.017332Z",
-                "2025-08-09T08:33:31.963506Z",
-                "2025-08-09T15:27:31.509212Z",
-                "2025-08-09T16:23:21.618009Z",
-                "2025-08-09T20:11:46.071372Z",
-                "2025-08-09T23:55:41.583615Z",
-                "2025-08-10T03:39:46.292011Z",
-                "2025-08-11T03:07:29.349414Z",
-                "2025-08-11T04:59:32.424926Z",
-                "2025-08-12T01:55:47.047807Z",
-                "2025-08-12T04:45:49.295962Z",
-                "2025-08-12T07:33:35.472966Z",
-                "2025-08-12T10:27:33.170963Z"
-            ]
-        },
-        {
-            "id": "a7c64a16b1f8cfbbb3882bb8ad19d50a",
-            "source": "spacenews",
-            "text": "Golden Dome requires non-traditional thinking and an agile approach",
-            "source_link": "https://spacenews.com/golden-dome-requires-non-traditional-thinking-and-an-agile-approach/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-08-05T13:05:42.969031Z",
-            "shown_at": [
-                "2025-08-05T13:19:39.095276Z",
-                "2025-08-05T20:32:08.080315Z",
-                "2025-08-10T23:45:39.416573Z",
-                "2025-08-11T16:55:43.010358Z",
-                "2025-08-11T20:47:09.707039Z",
-                "2025-08-12T02:23:49.486510Z"
-            ]
-        },
-        {
-            "id": "526cb09efc398dfb3e3b6c921f9bd089",
-            "source": "spacenews",
-            "text": "Interlune to fly instrument on Astrolab’s FLIP rover",
-            "source_link": "https://spacenews.com/interlune-to-fly-instrument-on-astrolabs-flip-rover/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-08-05T13:05:42.968972Z",
-            "shown_at": [
-                "2025-08-05T13:05:43.998489Z",
-                "2025-08-08T02:07:45.669006Z",
-                "2025-08-08T04:05:47.891597Z",
-                "2025-08-09T05:25:36.674115Z",
-                "2025-08-10T12:51:37.938918Z",
-                "2025-08-11T18:53:48.501995Z",
-                "2025-08-12T12:49:30.973689Z"
-            ]
-        },
-        {
-            "id": "ea76008b18aec1ab0dbc449373cd32f7",
-            "source": "spacenews",
-            "text": "Rocket Lab launches iQPS radar imaging satellite",
-            "source_link": "https://spacenews.com/rocket-lab-launches-iqps-radar-imaging-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-08-05T10:55:45.499836Z",
-            "shown_at": [
-                "2025-08-05T10:55:46.880888Z",
-                "2025-08-05T21:13:44.197959Z",
-                "2025-08-06T14:21:39.361033Z",
-                "2025-08-06T22:29:36.121941Z",
-                "2025-08-07T01:21:38.307940Z",
-                "2025-08-07T12:41:50.350547Z",
-                "2025-08-07T13:37:50.687969Z",
-                "2025-08-09T07:22:49.690314Z",
-                "2025-08-09T12:24:20.763834Z",
-                "2025-08-09T15:13:55.740135Z",
-                "2025-08-11T03:35:38.101672Z",
-                "2025-08-11T06:23:34.644580Z",
-                "2025-08-12T09:57:13.520136Z"
-            ]
-        },
-        {
-            "id": "a462272fa7c4b009f4b92dd2a143d8ed",
-            "source": "spacenews",
-            "text": "Lockheed Martin targets 2028 demo of space-based missile interceptors",
-            "source_link": "https://spacenews.com/lockheed-martin-targets-2028-demo-of-space-based-missile-interceptors/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-08-05T02:07:21.363631Z",
-            "shown_at": [
-                "2025-08-05T02:07:22.276049Z",
-                "2025-08-05T07:05:48.630053Z",
-                "2025-08-07T07:01:59.178341Z",
-                "2025-08-08T00:09:40.059582Z",
-                "2025-08-09T01:35:44.292110Z",
-                "2025-08-09T04:27:48.526578Z",
-                "2025-08-09T11:27:28.112217Z",
-                "2025-08-09T21:49:36.975932Z",
-                "2025-08-10T08:09:49.845708Z",
-                "2025-08-11T05:27:38.772737Z",
-                "2025-08-11T08:15:39.182754Z",
-                "2025-08-11T23:35:46.301544Z"
-            ]
-        },
-        {
-            "id": "2a43c90ba1ff5d0726df53e9600356f1",
-            "source": "spacenews",
-            "text": "Skyrora gets UK launch license as first flight likely slips to 2026",
-            "source_link": "https://spacenews.com/skyrora-gets-uk-launch-license-as-first-flight-likely-slips-to-2026/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-08-04T23:13:58.833930Z",
-            "shown_at": [
-                "2025-08-04T23:14:00.459004Z",
-                "2025-08-08T15:09:40.422680Z",
-                "2025-08-08T20:51:38.158072Z",
-                "2025-08-09T03:29:50.972415Z",
-                "2025-08-10T00:37:53.421456Z",
-                "2025-08-10T11:55:32.126972Z",
-                "2025-08-11T02:39:54.112885Z"
-            ]
-        },
-        {
-            "id": "c0b4ed5482e39b1deee45377e129b36b",
-            "source": "spacenews",
-            "text": "Congressional hearing highlights military’s reliance on NOAA weather data",
-            "source_link": "https://spacenews.com/congressional-hearing-highlights-militarys-reliance-on-noaa-data/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-14T00:54:17.743450Z",
-            "shown_at": [
-                "2026-01-14T00:54:18.425984Z"
-            ]
-        },
-        {
-            "id": "398654d7da5373af1f7349b92593f238",
-            "source": "spacenews",
-            "text": "Firefly to upgrade Alpha rocket to improve reliability",
-            "source_link": "https://spacenews.com/firefly-to-upgrade-alpha-rocket-to-improve-reliability/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-14T03:49:17.645991Z",
-            "shown_at": [
-                "2026-01-14T03:49:18.232170Z"
-            ]
-        },
-        {
-            "id": "8dec5faf2f758cac62036d0bf621a347",
-            "source": "spacenews",
-            "text": "China’s first launches of 2026 send Yaogan spacecraft into unusual orbit, loft Guowang satellites ",
-            "source_link": "https://spacenews.com/chinas-first-launches-of-2026-send-yaogan-spacecraft-into-unusual-orbit-loft-guowang-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-14T11:09:08.393114Z",
-            "shown_at": [
-                "2026-01-14T11:09:09.264695Z"
-            ]
-        },
-        {
-            "id": "f264868894046aaa344be3b85e7f6056",
-            "source": "spacenews",
-            "text": "SkyFi raises $12.7 million to scale satellite data marketplace",
-            "source_link": "https://spacenews.com/skyfi-raises-12-7-million-to-scale-satellite-data-marketplace/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-14T11:49:12.547173Z",
-            "shown_at": [
-                "2026-01-14T11:49:13.694751Z"
-            ]
-        },
-        {
-            "id": "89e7ffeeb38a5b451c97ad917dfe1d60",
-            "source": "spacenews",
-            "text": "When allies can’t count on U.S. ISR, commercial space becomes strategic",
-            "source_link": "https://spacenews.com/when-allies-cant-count-on-u-s-isr-commercial-space-becomes-strategic/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-14T13:05:19.848624Z",
-            "shown_at": [
-                "2026-01-14T13:05:20.433762Z"
-            ]
-        },
-        {
-            "id": "12de6d5d1301ce25578d365e38672b56",
-            "source": "spacenews",
-            "text": "NASA pessimistic about odds of recovering MAVEN",
-            "source_link": "https://spacenews.com/nasa-pessimistic-about-odds-of-recovering-maven/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-14T13:05:19.848683Z",
-            "shown_at": [
-                "2026-01-14T13:44:46.936189Z"
-            ]
-        },
-        {
-            "id": "be9c00d3963ad495e974798648bc3252",
-            "source": "spacenews",
-            "text": "Space operations will become more dynamic this year",
-            "source_link": "https://spacenews.com/space-operations-will-become-more-dynamic-this-year/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-14T13:05:19.848726Z",
-            "shown_at": [
-                "2026-01-14T14:19:15.215030Z"
-            ]
-        },
-        {
-            "id": "314d3ea8e7a7f0eb5c70c7adabed675f",
-            "source": "spacenews",
-            "text": "Bringing outsiders into the space fold",
-            "source_link": "https://spacenews.com/bringing-outsiders-into-the-space-fold/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-14T14:59:11.985084Z",
-            "shown_at": [
-                "2026-01-14T14:59:12.810672Z"
-            ]
-        },
-        {
-            "id": "275c74126b2140193ba1d5973cc0bb52",
-            "source": "spacenews",
-            "text": "Space sustainability will evolve into a data-driven system",
-            "source_link": "https://spacenews.com/space-sustainability-will-evolve-intoa-data-driven-system/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-14T16:09:19.810837Z",
-            "shown_at": [
-                "2026-01-14T16:09:20.543406Z"
-            ]
-        },
-        {
-            "id": "4452bb6509939be600e341741ac77d74",
-            "source": "spacenews",
-            "text": "ThinkOrbital raises seed funding to advance X-ray space inspection",
-            "source_link": "https://spacenews.com/thinkorbital-raises-seed-funding-to-advance-x-ray-space-inspection/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-14T16:09:19.810892Z",
-            "shown_at": [
-                "2026-01-14T16:54:06.964861Z"
-            ]
-        },
-        {
-            "id": "d6f10382b4f75555315a6343798f6038",
-            "source": "spacenews",
-            "text": "Taiwan’s Moonshot: why ‘T-Dome’ needs systems engineering, not just a shopping list",
-            "source_link": "https://spacenews.com/taiwans-moonshot-why-t-dome-needs-systems-engineering-not-just-a-shopping-list/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-14T18:04:43.587826Z",
-            "shown_at": [
-                "2026-01-14T18:04:44.337106Z"
-            ]
-        },
-        {
-            "id": "d3e8d4d9c2ea9d521dd82f830a331c9c",
-            "source": "spacenews",
-            "text": "ESA’s Comet Interceptor mission moves up launch",
-            "source_link": "https://spacenews.com/esas-comet-interceptor-mission-moves-up-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-14T18:39:10.100560Z",
-            "shown_at": [
-                "2026-01-14T18:39:10.829512Z"
-            ]
-        },
-        {
-            "id": "073da4dcfcf5afe42e45caf767ffba23",
-            "source": "nyt",
-            "text": "NASA to Begin Space Station Medical Evacuation: What to Know",
-            "source_link": "https://www.nytimes.com/2026/01/14/science/nasa-astronauts-iss-return.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-14T19:49:04.992250Z",
-            "shown_at": [
-                "2026-01-14T19:49:05.935500Z",
-                "2026-01-14T22:19:21.025837Z"
-            ]
-        },
-        {
-            "id": "d03bc1e5d7a9a051d8dc030fd66abedb",
-            "source": "nyt",
-            "text": "NASA to Begin Space Station Medical Evacuation: Video and What to Know",
-            "source_link": "https://www.nytimes.com/2026/01/14/science/nasa-astronauts-iss-return.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-14T20:24:24.641019Z",
-            "shown_at": [
-                "2026-01-14T20:24:25.402430Z"
-            ]
-        },
-        {
-            "id": "92b77dfc2c24f72d1ddd4d94a0b6d5aa",
-            "source": "spacenews",
-            "text": "CAS Space conducts first suborbital launch and capsule landing test",
-            "source_link": "https://spacenews.com/cas-space-conducts-first-suborbital-launch-and-capsule-landing-test/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-14T21:44:05.856246Z",
-            "shown_at": [
-                "2026-01-14T21:44:06.659788Z"
-            ]
-        },
-        {
-            "id": "8b059458b74c75dafed4e38c123255e7",
-            "source": "nyt",
-            "text": "NASA Begins Astronaut Space Station Medical Evacuation: What to Know",
-            "source_link": "https://www.nytimes.com/2026/01/14/science/nasa-astronauts-iss-return.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-14T22:54:14.547212Z",
-            "shown_at": [
-                "2026-01-14T22:54:15.186273Z"
             ]
         }
     ]
