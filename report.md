@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 7 | 13 | 25 |
-| spacenews | 8 | 22 | 14 | 33 |
+| spacenews | 8 | 21 | 15 | 33 |
 | breaking_defense | 1 | 1 | 12 | 21 |
 
 # Shown Order
@@ -6016,3 +6016,4 @@
 - **Jan 15, 06:44 PM** - Tyvak International’s LIDE satellite completes initial on-orbit 5G tests (spacenews)
 - **Jan 15, 07:19 PM** - Google’s Ex-CEO Backs Start-Up Approach to Big Telescopes for Space and Astronomy (nyt)
 - **Jan 15, 07:54 PM** - DARPA backs Diffraqtion to demo ‘quantum camera’ for space, Earth surveillance (breaking_defense)
+- **Jan 15, 08:39 PM** - Space Force wants competition. Satellite makers want stability. (spacenews)
