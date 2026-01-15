@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 7 | 7 | 14 | 25 |
 | spacenews | 9 | 21 | 15 | 33 |
-| breaking_defense | 1 | 1 | 10 | 20 |
+| breaking_defense | 1 | 1 | 11 | 21 |
 
 # Shown Order
 
@@ -6009,3 +6009,4 @@
 - **Jan 15, 02:24 PM** - NASA Astronauts Return to Earth After Medical Evacuation From International Space Station (nyt)
 - **Jan 15, 02:58 PM** - TrustPoint demonstrates non-GPS navigation for LEO satellites (spacenews)
 - **Jan 15, 03:45 PM** - Portal Space selects ‘Space Armor’ debris shield for 2026 mission (spacenews)
+- **Jan 15, 04:24 PM** - DARPA backs Diffraqtion to demo ‘quantum camera’ for space, Earth surveillance (breaking_defense)
