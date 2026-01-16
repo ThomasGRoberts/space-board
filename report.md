@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 20 | 15 | 33 |
 | nyt | 3 | 7 | 13 | 25 |
-| breaking_defense | 1 | 1 | 11 | 21 |
+| breaking_defense | 1 | 1 | 12 | 22 |
 
 # Shown Order
 
@@ -5581,3 +5581,4 @@
 - **Jan 16, 07:14 AM** - DIU to fund ‘unjammable’ magnetic navigation tech (breaking_defense)
 - **Jan 16, 07:49 AM** - Pentagon commits $1 billion to L3Harris missile unit as ‘anchor investor’ (spacenews)
 - **Jan 16, 08:29 AM** - Google’s Ex-CEO Backs Start-Up Approach to Big Telescopes for Space and Astronomy (nyt)
+- **Jan 16, 09:04 AM** - DIU to fund ‘unjammable’ magnetic navigation tech (breaking_defense)
