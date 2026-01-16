@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-16T00:04:49.461534+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1acdb0e236ffe46c63ffe4942562c05d",
+    "trigger_count": 0,
+    "current_item_id": "adba228444e75cfa9083b6a49db7338e",
     "data": [
         {
             "id": "f303a3996e165712b8d787c7a1a9ad8e",
@@ -11197,6 +11197,18 @@
             "fetched_datetime": "2026-01-16T19:19:53.621759Z",
             "shown_at": [
                 "2026-01-16T19:19:54.349756Z"
+            ]
+        },
+        {
+            "id": "adba228444e75cfa9083b6a49db7338e",
+            "source": "spacenews",
+            "text": "Indra Group writes off damaged SpainSat NG 2",
+            "source_link": "https://spacenews.com/indra-group-writes-off-damaged-spainsat-ng-2/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-16T22:59:09.742681Z",
+            "shown_at": [
+                "2026-01-16T22:59:10.640778Z"
             ]
         }
     ]
