@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 20 | 15 | 32 |
+| spacenews | 8 | 20 | 16 | 33 |
 | nyt | 2 | 7 | 12 | 25 |
 | breaking_defense | 1 | 1 | 12 | 22 |
 
@@ -5582,3 +5582,4 @@
 - **Jan 16, 07:49 AM** - Pentagon commits $1 billion to L3Harris missile unit as ‘anchor investor’ (spacenews)
 - **Jan 16, 08:29 AM** - Google’s Ex-CEO Backs Start-Up Approach to Big Telescopes for Space and Astronomy (nyt)
 - **Jan 16, 09:04 AM** - DIU to fund ‘unjammable’ magnetic navigation tech (breaking_defense)
+- **Jan 16, 09:44 AM** - Taiwan’s Moonshot: why ‘T-Dome’ needs systems engineering, not just a shopping list (spacenews)
