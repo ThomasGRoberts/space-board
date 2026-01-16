@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 20 | 15 | 32 |
-| nyt | 4 | 7 | 13 | 25 |
+| spacenews | 9 | 20 | 16 | 33 |
+| nyt | 4 | 7 | 12 | 25 |
 | breaking_defense | 1 | 1 | 12 | 22 |
 
 # Shown Order
@@ -5573,3 +5573,4 @@
 - **Jan 16, 02:29 AM** - Tyvak International’s LIDE satellite completes initial on-orbit 5G tests (spacenews)
 - **Jan 16, 03:04 AM** - NASA to Begin Space Station Medical Evacuation: What to Know (nyt)
 - **Jan 16, 03:39 AM** - SpaceX to launch next SDA missile tracking satellites (breaking_defense)
+- **Jan 16, 04:14 AM** - Rhea Space Activity applies optical navigation to military rendezvous missions (spacenews)
