@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 17 | 16 | 32 |
-| nyt | 0 | 5 | 12 | 25 |
+| spacenews | 8 | 16 | 16 | 31 |
+| nyt | 0 | 5 | 13 | 26 |
 | breaking_defense | 1 | 2 | 12 | 23 |
 
 # Shown Order
@@ -5602,3 +5602,4 @@
 - **Jan 16, 07:54 PM** - NASA to Begin Space Station Medical Evacuation: What to Know (nyt)
 - **Jan 16, 08:29 PM** - Space Force taps Slingshot to build AI adversaries for orbital wargames (breaking_defense)
 - **Jan 16, 09:09 PM** - Congressional hearing highlights military’s reliance on NOAA weather data (spacenews)
+- **Jan 16, 09:44 PM** - NASA to Begin Space Station Medical Evacuation: What to Know (nyt)
