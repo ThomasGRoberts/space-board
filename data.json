@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-16T00:04:49.461534+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e008d8f680a6cb1efe84e840eca72a5a",
+    "trigger_count": 0,
+    "current_item_id": "6e644f3c5e7702d3274fed3933c3442e",
     "data": [
         {
             "id": "f303a3996e165712b8d787c7a1a9ad8e",
@@ -11089,6 +11089,18 @@
             "fetched_datetime": "2026-01-16T00:44:22.526914Z",
             "shown_at": [
                 "2026-01-16T00:44:23.055374Z"
+            ]
+        },
+        {
+            "id": "6e644f3c5e7702d3274fed3933c3442e",
+            "source": "spacenews",
+            "text": "China launches AlSat-3A for Algeria, Ceres-1 sea launch adds to Tianqi constellation",
+            "source_link": "https://spacenews.com/china-launches-alsat-3a-for-algeria-ceres-1-sea-launch-adds-to-tianqi-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-16T10:54:03.006776Z",
+            "shown_at": [
+                "2026-01-16T10:54:03.853278Z"
             ]
         }
     ]

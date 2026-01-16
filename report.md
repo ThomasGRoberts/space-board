@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 20 | 15 | 33 |
+| spacenews | 8 | 21 | 16 | 34 |
 | nyt | 2 | 7 | 13 | 25 |
 | breaking_defense | 0 | 1 | 11 | 21 |
 
@@ -5584,3 +5584,4 @@
 - **Jan 16, 09:04 AM** - DIU to fund ‘unjammable’ magnetic navigation tech (breaking_defense)
 - **Jan 16, 09:44 AM** - Taiwan’s Moonshot: why ‘T-Dome’ needs systems engineering, not just a shopping list (spacenews)
 - **Jan 16, 10:19 AM** - Live Updates: Astronauts Splash Down After Space Station Medical Evacuation (nyt)
+- **Jan 16, 10:54 AM** - China launches AlSat-3A for Algeria, Ceres-1 sea launch adds to Tianqi constellation (spacenews)
