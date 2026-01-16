@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 21 | 16 | 33 |
-| nyt | 4 | 7 | 12 | 25 |
-| breaking_defense | 1 | 1 | 12 | 21 |
+| nyt | 4 | 7 | 13 | 26 |
+| breaking_defense | 1 | 1 | 11 | 21 |
 
 # Shown Order
 
@@ -5568,3 +5568,4 @@
 - **Jan 15, 11:34 PM** - NASA to Begin Space Station Medical Evacuation: Video and What to Know (nyt)
 - **Jan 16, 12:09 AM** - Space Force taps Slingshot to build AI adversaries for orbital wargames (breaking_defense)
 - **Jan 16, 12:44 AM** - Congress passes minibus spending bill that rejects proposed NASA cuts (spacenews)
+- **Jan 16, 01:19 AM** - Google’s Ex-CEO Backs Start-Up Approach to Big Telescopes for Space and Astronomy (nyt)
