@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 15 | 30 |
 | nyt | 0 | 7 | 13 | 27 |
-| breaking_defense | 1 | 2 | 12 | 23 |
+| breaking_defense | 1 | 2 | 13 | 23 |
 
 # Shown Order
 
@@ -5595,3 +5595,4 @@
 - **Jan 16, 03:39 PM** - The state of play in military space (breaking_defense)
 - **Jan 16, 04:19 PM** - AO-Resistant Material Boosts VLEO Satellite Longevity (spacenews)
 - **Jan 16, 04:54 PM** - NASA to Begin Space Station Medical Evacuation: Video and What to Know (nyt)
+- **Jan 16, 05:29 PM** - Sweden allocates $1.6B to build territorial air defense capability, $140M for space (breaking_defense)
