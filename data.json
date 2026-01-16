@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-16T00:04:49.461534+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8b059458b74c75dafed4e38c123255e7",
+    "trigger_count": 0,
+    "current_item_id": "5b52b37af44156f5b3f80a9f6b7c7e92",
     "data": [
         {
             "id": "f303a3996e165712b8d787c7a1a9ad8e",
@@ -11141,6 +11141,18 @@
             "fetched_datetime": "2026-01-16T14:29:24.064959Z",
             "shown_at": [
                 "2026-01-16T14:29:24.808033Z"
+            ]
+        },
+        {
+            "id": "5b52b37af44156f5b3f80a9f6b7c7e92",
+            "source": "breaking_defense",
+            "text": "The state of play in military space",
+            "source_link": "https://breakingdefense.com/2026/01/the-state-of-play-in-military-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-16T15:39:06.244697Z",
+            "shown_at": [
+                "2026-01-16T15:39:07.071747Z"
             ]
         }
     ]
