@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 21 | 15 | 33 |
 | nyt | 4 | 7 | 13 | 25 |
-| breaking_defense | 1 | 1 | 11 | 21 |
+| breaking_defense | 1 | 1 | 12 | 22 |
 
 # Shown Order
 
@@ -5566,3 +5566,4 @@
 - **Jan 15, 10:24 PM** - DIU to fund ‘unjammable’ magnetic navigation tech (breaking_defense)
 - **Jan 15, 10:59 PM** - This year must bring greater collaboration against orbital congestion (spacenews)
 - **Jan 15, 11:34 PM** - NASA to Begin Space Station Medical Evacuation: Video and What to Know (nyt)
+- **Jan 16, 12:09 AM** - Space Force taps Slingshot to build AI adversaries for orbital wargames (breaking_defense)
