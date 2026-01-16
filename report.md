@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 16 | 15 | 30 |
+| spacenews | 8 | 17 | 16 | 31 |
 | nyt | 0 | 7 | 12 | 26 |
 | breaking_defense | 1 | 2 | 13 | 23 |
 
@@ -5593,3 +5593,4 @@
 - **Jan 16, 02:29 PM** - The countdown to clean orbits has begun with ESA’s Zero Debris Charter (spacenews)
 - **Jan 16, 03:04 PM** - NASA Begins Astronaut Space Station Medical Evacuation: What to Know (nyt)
 - **Jan 16, 03:39 PM** - The state of play in military space (breaking_defense)
+- **Jan 16, 04:19 PM** - AO-Resistant Material Boosts VLEO Satellite Longevity (spacenews)
