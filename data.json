@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-16T00:04:49.461534+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b9967ba38d6effa5c600562ac96002c9",
+    "trigger_count": 0,
+    "current_item_id": "5229684323a6219b964e041cc349ee8c",
     "data": [
         {
             "id": "f303a3996e165712b8d787c7a1a9ad8e",
@@ -11180,6 +11180,18 @@
             "fetched_datetime": "2026-01-16T18:39:12.368662Z",
             "shown_at": [
                 "2026-01-16T18:39:12.929911Z"
+            ]
+        },
+        {
+            "id": "5229684323a6219b964e041cc349ee8c",
+            "source": "spacenews",
+            "text": "Isar Aerospace sets date for second Spectrum launch",
+            "source_link": "https://spacenews.com/isar-aerospace-sets-date-for-second-spectrum-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-16T19:19:53.621759Z",
+            "shown_at": [
+                "2026-01-16T19:19:54.349756Z"
             ]
         }
     ]
