@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-16T00:04:49.461534+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c2066ba7d5c74942f821f08f9ec16050",
+    "trigger_count": 0,
+    "current_item_id": "b9967ba38d6effa5c600562ac96002c9",
     "data": [
         {
             "id": "f303a3996e165712b8d787c7a1a9ad8e",
@@ -11168,6 +11168,18 @@
             "fetched_datetime": "2026-01-16T16:19:27.696899Z",
             "shown_at": [
                 "2026-01-16T16:19:28.460115Z"
+            ]
+        },
+        {
+            "id": "b9967ba38d6effa5c600562ac96002c9",
+            "source": "spacenews",
+            "text": "China conducts static fire test of new reusable Long March 12B rocket",
+            "source_link": "https://spacenews.com/china-conducts-static-fire-test-of-new-reusable-long-march-12b-rocket/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-16T18:39:12.368662Z",
+            "shown_at": [
+                "2026-01-16T18:39:12.929911Z"
             ]
         }
     ]

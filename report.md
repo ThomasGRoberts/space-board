@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 16 | 16 | 30 |
+| spacenews | 8 | 16 | 17 | 30 |
 | nyt | 0 | 7 | 12 | 27 |
 | breaking_defense | 1 | 2 | 12 | 23 |
 
@@ -5597,3 +5597,4 @@
 - **Jan 16, 04:54 PM** - NASA to Begin Space Station Medical Evacuation: Video and What to Know (nyt)
 - **Jan 16, 05:29 PM** - Sweden allocates $1.6B to build territorial air defense capability, $140M for space (breaking_defense)
 - **Jan 16, 06:04 PM** - Hydrosat raises $60 million in Series B funding (spacenews)
+- **Jan 16, 06:39 PM** - China conducts static fire test of new reusable Long March 12B rocket (spacenews)
