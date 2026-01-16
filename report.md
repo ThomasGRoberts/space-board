@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 21 | 16 | 33 |
+| spacenews | 9 | 21 | 15 | 33 |
 | nyt | 4 | 7 | 13 | 25 |
-| breaking_defense | 1 | 1 | 11 | 21 |
+| breaking_defense | 1 | 1 | 12 | 22 |
 
 # Shown Order
 
@@ -5569,3 +5569,4 @@
 - **Jan 16, 12:09 AM** - Space Force taps Slingshot to build AI adversaries for orbital wargames (breaking_defense)
 - **Jan 16, 12:44 AM** - Congress passes minibus spending bill that rejects proposed NASA cuts (spacenews)
 - **Jan 16, 01:19 AM** - Google’s Ex-CEO Backs Start-Up Approach to Big Telescopes for Space and Astronomy (nyt)
+- **Jan 16, 01:54 AM** - DIU to fund ‘unjammable’ magnetic navigation tech (breaking_defense)
