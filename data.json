@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-16T00:04:49.461534+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1acdb0e236ffe46c63ffe4942562c05d",
+    "trigger_count": 0,
+    "current_item_id": "8f756b18fbdcc08beabd5dede4c78a0b",
     "data": [
         {
             "id": "f303a3996e165712b8d787c7a1a9ad8e",
@@ -11114,6 +11114,18 @@
             "fetched_datetime": "2026-01-16T11:34:19.816087Z",
             "shown_at": [
                 "2026-01-16T11:34:20.656968Z"
+            ]
+        },
+        {
+            "id": "8f756b18fbdcc08beabd5dede4c78a0b",
+            "source": "spacenews",
+            "text": "China advances plans for dual solar system boundary missions",
+            "source_link": "https://spacenews.com/china-advances-plans-for-dual-solar-system-boundary-missions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-16T12:44:13.714501Z",
+            "shown_at": [
+                "2026-01-16T12:44:14.501302Z"
             ]
         }
     ]

@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 20 | 16 | 33 |
+| spacenews | 9 | 21 | 17 | 34 |
 | nyt | 2 | 7 | 12 | 25 |
 | breaking_defense | 0 | 1 | 11 | 21 |
 
@@ -5587,3 +5587,4 @@
 - **Jan 16, 10:54 AM** - China launches AlSat-3A for Algeria, Ceres-1 sea launch adds to Tianqi constellation (spacenews)
 - **Jan 16, 11:34 AM** - Japanese launch company Interstellar Technologies raises $130 million (spacenews)
 - **Jan 16, 12:09 PM** - Sweden allocates $1.6B to build territorial air defense capability, $140M for space (breaking_defense)
+- **Jan 16, 12:44 PM** - China advances plans for dual solar system boundary missions (spacenews)
