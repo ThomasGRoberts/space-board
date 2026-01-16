@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 21 | 16 | 33 |
-| nyt | 4 | 7 | 12 | 25 |
-| breaking_defense | 1 | 1 | 12 | 21 |
+| nyt | 4 | 7 | 13 | 26 |
+| breaking_defense | 1 | 1 | 11 | 21 |
 
 # Shown Order
 
@@ -5571,3 +5571,4 @@
 - **Jan 16, 01:19 AM** - Google’s Ex-CEO Backs Start-Up Approach to Big Telescopes for Space and Astronomy (nyt)
 - **Jan 16, 01:54 AM** - DIU to fund ‘unjammable’ magnetic navigation tech (breaking_defense)
 - **Jan 16, 02:29 AM** - Tyvak International’s LIDE satellite completes initial on-orbit 5G tests (spacenews)
+- **Jan 16, 03:04 AM** - NASA to Begin Space Station Medical Evacuation: What to Know (nyt)
