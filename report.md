@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 20 | 16 | 33 |
-| nyt | 3 | 7 | 12 | 25 |
+| nyt | 3 | 7 | 13 | 26 |
 | breaking_defense | 1 | 1 | 11 | 21 |
 
 # Shown Order
@@ -5580,3 +5580,4 @@
 - **Jan 16, 06:34 AM** - NASA to Begin Space Station Medical Evacuation: What to Know (nyt)
 - **Jan 16, 07:14 AM** - DIU to fund ‘unjammable’ magnetic navigation tech (breaking_defense)
 - **Jan 16, 07:49 AM** - Pentagon commits $1 billion to L3Harris missile unit as ‘anchor investor’ (spacenews)
+- **Jan 16, 08:29 AM** - Google’s Ex-CEO Backs Start-Up Approach to Big Telescopes for Space and Astronomy (nyt)
