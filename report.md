@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 18 | 17 | 33 |
-| nyt | 0 | 7 | 11 | 25 |
+| nyt | 0 | 7 | 12 | 26 |
 | breaking_defense | 0 | 1 | 11 | 21 |
 
 # Shown Order
@@ -5588,3 +5588,4 @@
 - **Jan 16, 11:34 AM** - Japanese launch company Interstellar Technologies raises $130 million (spacenews)
 - **Jan 16, 12:09 PM** - Sweden allocates $1.6B to build territorial air defense capability, $140M for space (breaking_defense)
 - **Jan 16, 12:44 PM** - China advances plans for dual solar system boundary missions (spacenews)
+- **Jan 16, 01:19 PM** - Google’s Ex-CEO Backs Start-Up Approach to Big Telescopes for Space and Astronomy (nyt)
