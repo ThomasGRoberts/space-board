@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 20 | 15 | 32 |
+| spacenews | 9 | 20 | 16 | 33 |
 | nyt | 3 | 7 | 12 | 25 |
 | breaking_defense | 1 | 1 | 12 | 22 |
 
@@ -5579,3 +5579,4 @@
 - **Jan 16, 05:59 AM** - China’s first launches of 2026 send Yaogan spacecraft into unusual orbit, loft Guowang satellites  (spacenews)
 - **Jan 16, 06:34 AM** - NASA to Begin Space Station Medical Evacuation: What to Know (nyt)
 - **Jan 16, 07:14 AM** - DIU to fund ‘unjammable’ magnetic navigation tech (breaking_defense)
+- **Jan 16, 07:49 AM** - Pentagon commits $1 billion to L3Harris missile unit as ‘anchor investor’ (spacenews)
