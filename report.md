@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 20 | 16 | 33 |
-| nyt | 4 | 7 | 12 | 25 |
-| breaking_defense | 1 | 1 | 12 | 21 |
+| nyt | 4 | 7 | 13 | 26 |
+| breaking_defense | 1 | 1 | 11 | 21 |
 
 # Shown Order
 
@@ -5577,3 +5577,4 @@
 - **Jan 16, 04:49 AM** - NASA Astronauts Return to Earth After Medical Evacuation From International Space Station (nyt)
 - **Jan 16, 05:24 AM** - DARPA backs Diffraqtion to demo ‘quantum camera’ for space, Earth surveillance (breaking_defense)
 - **Jan 16, 05:59 AM** - China’s first launches of 2026 send Yaogan spacecraft into unusual orbit, loft Guowang satellites  (spacenews)
+- **Jan 16, 06:34 AM** - NASA to Begin Space Station Medical Evacuation: What to Know (nyt)
