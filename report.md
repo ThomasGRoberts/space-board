@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 20 | 16 | 33 |
 | nyt | 2 | 7 | 12 | 25 |
-| breaking_defense | 0 | 1 | 11 | 21 |
+| breaking_defense | 0 | 1 | 12 | 22 |
 
 # Shown Order
 
@@ -5586,3 +5586,4 @@
 - **Jan 16, 10:19 AM** - Live Updates: Astronauts Splash Down After Space Station Medical Evacuation (nyt)
 - **Jan 16, 10:54 AM** - China launches AlSat-3A for Algeria, Ceres-1 sea launch adds to Tianqi constellation (spacenews)
 - **Jan 16, 11:34 AM** - Japanese launch company Interstellar Technologies raises $130 million (spacenews)
+- **Jan 16, 12:09 PM** - Sweden allocates $1.6B to build territorial air defense capability, $140M for space (breaking_defense)
