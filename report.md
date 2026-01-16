@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 21 | 15 | 33 |
 | nyt | 4 | 7 | 13 | 25 |
-| breaking_defense | 1 | 1 | 11 | 21 |
+| breaking_defense | 1 | 1 | 12 | 22 |
 
 # Shown Order
 
@@ -5572,3 +5572,4 @@
 - **Jan 16, 01:54 AM** - DIU to fund ‘unjammable’ magnetic navigation tech (breaking_defense)
 - **Jan 16, 02:29 AM** - Tyvak International’s LIDE satellite completes initial on-orbit 5G tests (spacenews)
 - **Jan 16, 03:04 AM** - NASA to Begin Space Station Medical Evacuation: What to Know (nyt)
+- **Jan 16, 03:39 AM** - SpaceX to launch next SDA missile tracking satellites (breaking_defense)
