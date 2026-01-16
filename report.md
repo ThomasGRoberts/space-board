@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 20 | 15 | 33 |
 | nyt | 4 | 7 | 13 | 25 |
-| breaking_defense | 1 | 1 | 11 | 21 |
+| breaking_defense | 1 | 1 | 12 | 22 |
 
 # Shown Order
 
@@ -5578,3 +5578,4 @@
 - **Jan 16, 05:24 AM** - DARPA backs Diffraqtion to demo ‘quantum camera’ for space, Earth surveillance (breaking_defense)
 - **Jan 16, 05:59 AM** - China’s first launches of 2026 send Yaogan spacecraft into unusual orbit, loft Guowang satellites  (spacenews)
 - **Jan 16, 06:34 AM** - NASA to Begin Space Station Medical Evacuation: What to Know (nyt)
+- **Jan 16, 07:14 AM** - DIU to fund ‘unjammable’ magnetic navigation tech (breaking_defense)
