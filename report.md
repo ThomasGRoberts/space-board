@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 21 | 15 | 33 |
+| spacenews | 9 | 22 | 16 | 34 |
 | nyt | 4 | 7 | 12 | 25 |
 | breaking_defense | 1 | 1 | 12 | 21 |
 
@@ -5567,3 +5567,4 @@
 - **Jan 15, 10:59 PM** - This year must bring greater collaboration against orbital congestion (spacenews)
 - **Jan 15, 11:34 PM** - NASA to Begin Space Station Medical Evacuation: Video and What to Know (nyt)
 - **Jan 16, 12:09 AM** - Space Force taps Slingshot to build AI adversaries for orbital wargames (breaking_defense)
+- **Jan 16, 12:44 AM** - Congress passes minibus spending bill that rejects proposed NASA cuts (spacenews)
