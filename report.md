@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 17 | 17 | 31 |
-| nyt | 0 | 6 | 12 | 26 |
-| breaking_defense | 1 | 2 | 11 | 23 |
+| nyt | 0 | 5 | 12 | 25 |
+| breaking_defense | 1 | 2 | 12 | 24 |
 
 # Shown Order
 
@@ -5600,3 +5600,4 @@
 - **Jan 16, 06:39 PM** - China conducts static fire test of new reusable Long March 12B rocket (spacenews)
 - **Jan 16, 07:19 PM** - Isar Aerospace sets date for second Spectrum launch (spacenews)
 - **Jan 16, 07:54 PM** - NASA to Begin Space Station Medical Evacuation: What to Know (nyt)
+- **Jan 16, 08:29 PM** - Space Force taps Slingshot to build AI adversaries for orbital wargames (breaking_defense)
