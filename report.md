@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 16 | 31 |
 | nyt | 0 | 5 | 12 | 26 |
-| breaking_defense | 1 | 2 | 12 | 23 |
+| breaking_defense | 1 | 2 | 13 | 24 |
 
 # Shown Order
 
@@ -5603,3 +5603,4 @@
 - **Jan 16, 08:29 PM** - Space Force taps Slingshot to build AI adversaries for orbital wargames (breaking_defense)
 - **Jan 16, 09:09 PM** - Congressional hearing highlights military’s reliance on NOAA weather data (spacenews)
 - **Jan 16, 09:44 PM** - NASA to Begin Space Station Medical Evacuation: What to Know (nyt)
+- **Jan 16, 10:19 PM** - Sweden allocates $1.6B to build territorial air defense capability, $140M for space (breaking_defense)
