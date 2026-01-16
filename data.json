@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-16T00:04:49.461534+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2598624560369ff59ba5c3c3d3e29a94",
+    "trigger_count": 0,
+    "current_item_id": "73f7466361ad7917eacf9fda1193923b",
     "data": [
         {
             "id": "f303a3996e165712b8d787c7a1a9ad8e",
@@ -11128,6 +11128,18 @@
             "fetched_datetime": "2026-01-16T12:44:13.714501Z",
             "shown_at": [
                 "2026-01-16T12:44:14.501302Z"
+            ]
+        },
+        {
+            "id": "73f7466361ad7917eacf9fda1193923b",
+            "source": "spacenews",
+            "text": "The countdown to clean orbits has begun with ESA’s Zero Debris Charter",
+            "source_link": "https://spacenews.com/the-countdown-to-clean-orbits-has-begun-with-esas-zero-debris-charter/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-16T14:29:24.064959Z",
+            "shown_at": [
+                "2026-01-16T14:29:24.808033Z"
             ]
         }
     ]

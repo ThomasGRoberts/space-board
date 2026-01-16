@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 18 | 16 | 31 |
-| nyt | 0 | 7 | 12 | 26 |
+| spacenews | 9 | 19 | 17 | 32 |
+| nyt | 0 | 7 | 11 | 26 |
 | breaking_defense | 0 | 1 | 12 | 22 |
 
 # Shown Order
@@ -5590,3 +5590,4 @@
 - **Jan 16, 12:44 PM** - China advances plans for dual solar system boundary missions (spacenews)
 - **Jan 16, 01:19 PM** - Google’s Ex-CEO Backs Start-Up Approach to Big Telescopes for Space and Astronomy (nyt)
 - **Jan 16, 01:54 PM** - How the Air Force is revamping its acquisition shop with new ‘portfolios’ (breaking_defense)
+- **Jan 16, 02:29 PM** - The countdown to clean orbits has begun with ESA’s Zero Debris Charter (spacenews)
