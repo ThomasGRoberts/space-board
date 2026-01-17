@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-17T00:04:57.415593+00:00",
-    "trigger_count": 6,
-    "current_item_id": "073da4dcfcf5afe42e45caf767ffba23",
+    "trigger_count": 0,
+    "current_item_id": "c0fddacabb8faa0b6b8d8ccedb6cb9ef",
     "data": [
         {
             "id": "adba228444e75cfa9083b6a49db7338e",
@@ -10614,6 +10614,18 @@
             "fetched_datetime": "2026-01-17T10:59:17.808360Z",
             "shown_at": [
                 "2026-01-17T10:59:18.995519Z"
+            ]
+        },
+        {
+            "id": "c0fddacabb8faa0b6b8d8ccedb6cb9ef",
+            "source": "spacenews",
+            "text": "White House resubmits NASA deputy administrator nominee",
+            "source_link": "https://spacenews.com/white-house-resubmits-nasa-deputy-administrator-nominee/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-17T12:49:20.087478Z",
+            "shown_at": [
+                "2026-01-17T12:49:21.453841Z"
             ]
         }
     ]
