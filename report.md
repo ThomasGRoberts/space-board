@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 14 | 30 |
+| spacenews | 5 | 12 | 15 | 31 |
 | breaking_defense | 0 | 1 | 12 | 25 |
 | nyt | 0 | 0 | 13 | 25 |
 
@@ -5118,3 +5118,4 @@
 - **Jan 17, 04:24 PM** - Space operations will become more dynamic this year (spacenews)
 - **Jan 17, 04:59 PM** - DARPA backs Diffraqtion to demo ‘quantum camera’ for space, Earth surveillance (breaking_defense)
 - **Jan 17, 05:34 PM** - NASA to Begin Space Station Medical Evacuation: Video and What to Know (nyt)
+- **Jan 17, 06:09 PM** - Pentagon commits $1 billion to L3Harris missile unit as ‘anchor investor’ (spacenews)
