@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 17 | 15 | 31 |
+| spacenews | 8 | 17 | 16 | 32 |
 | breaking_defense | 1 | 2 | 12 | 24 |
 | nyt | 0 | 3 | 12 | 24 |
 
@@ -5101,3 +5101,4 @@
 - **Jan 17, 06:05 AM** - Space Force wants competition. Satellite makers want stability. (spacenews)
 - **Jan 17, 06:44 AM** - NASA Astronauts Return to Earth After Medical Evacuation From International Space Station (nyt)
 - **Jan 17, 07:19 AM** - Space Force taps Slingshot to build AI adversaries for orbital wargames (breaking_defense)
+- **Jan 17, 07:59 AM** - Hydrosat raises $60 million in Series B funding (spacenews)
