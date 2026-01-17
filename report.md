@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 17 | 16 | 31 |
-| breaking_defense | 1 | 2 | 12 | 23 |
+| breaking_defense | 1 | 2 | 12 | 24 |
 | nyt | 0 | 4 | 12 | 25 |
 
 # Shown Order
@@ -5088,3 +5088,4 @@
 - **Jan 16, 10:19 PM** - Sweden allocates $1.6B to build territorial air defense capability, $140M for space (breaking_defense)
 - **Jan 16, 10:59 PM** - Indra Group writes off damaged SpainSat NG 2 (spacenews)
 - **Jan 16, 11:34 PM** - NASA to Begin Space Station Medical Evacuation: Video and What to Know (nyt)
+- **Jan 17, 12:09 AM** - Space Force taps Slingshot to build AI adversaries for orbital wargames (breaking_defense)
