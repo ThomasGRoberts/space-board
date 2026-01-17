@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 12 | 14 | 30 |
 | breaking_defense | 0 | 1 | 13 | 25 |
-| nyt | 1 | 1 | 13 | 25 |
+| nyt | 1 | 1 | 14 | 26 |
 
 # Shown Order
 
@@ -5125,3 +5125,4 @@
 - **Jan 17, 08:29 PM** - NASA to Begin Space Station Medical Evacuation: Video and What to Know (nyt)
 - **Jan 17, 09:04 PM** - China hit by dual launch failures as Long March 3B and Ceres-2 debut mission fail (spacenews)
 - **Jan 17, 09:39 PM** - Space Force taps Slingshot to build AI adversaries for orbital wargames (breaking_defense)
+- **Jan 17, 10:14 PM** - NASA Begins Astronaut Space Station Medical Evacuation: What to Know (nyt)
