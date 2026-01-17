@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 16 | 15 | 32 |
-| breaking_defense | 1 | 1 | 12 | 23 |
-| nyt | 0 | 0 | 13 | 24 |
+| breaking_defense | 1 | 1 | 13 | 24 |
+| nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
 
@@ -5110,3 +5110,4 @@
 - **Jan 17, 11:39 AM** - The state of play in military space (breaking_defense)
 - **Jan 17, 12:14 PM** - NASA to Begin Space Station Medical Evacuation: What to Know (nyt)
 - **Jan 17, 12:49 PM** - White House resubmits NASA deputy administrator nominee (spacenews)
+- **Jan 17, 01:24 PM** - Sweden allocates $1.6B to build territorial air defense capability, $140M for space (breaking_defense)
