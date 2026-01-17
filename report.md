@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 15 | 31 |
+| spacenews | 4 | 12 | 14 | 30 |
 | breaking_defense | 0 | 1 | 12 | 24 |
-| nyt | 0 | 0 | 13 | 25 |
+| nyt | 1 | 1 | 14 | 26 |
 
 # Shown Order
 
@@ -5119,3 +5119,4 @@
 - **Jan 17, 04:59 PM** - DARPA backs Diffraqtion to demo ‘quantum camera’ for space, Earth surveillance (breaking_defense)
 - **Jan 17, 05:34 PM** - NASA to Begin Space Station Medical Evacuation: Video and What to Know (nyt)
 - **Jan 17, 06:09 PM** - Pentagon commits $1 billion to L3Harris missile unit as ‘anchor investor’ (spacenews)
+- **Jan 17, 06:44 PM** - Artemis II Moon Mission: NASA Begins Rolling Giant Rocket to Launchpad (nyt)
