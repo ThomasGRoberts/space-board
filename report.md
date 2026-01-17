@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 17 | 16 | 31 |
+| spacenews | 8 | 17 | 16 | 32 |
 | breaking_defense | 1 | 2 | 12 | 24 |
 | nyt | 0 | 4 | 12 | 24 |
 
@@ -5092,3 +5092,4 @@
 - **Jan 17, 12:44 AM** - Orbion delivers 33 electric thrusters to York Space for U.S. military constellation (spacenews)
 - **Jan 17, 01:19 AM** - Highlights From NASA’s Medical Evacuation From the Space Station (nyt)
 - **Jan 17, 01:54 AM** - How the Air Force is revamping its acquisition shop with new ‘portfolios’ (breaking_defense)
+- **Jan 17, 02:34 AM** - TrustPoint demonstrates non-GPS navigation for LEO satellites (spacenews)
