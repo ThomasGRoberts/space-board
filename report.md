@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 13 | 14 | 30 |
+| spacenews | 4 | 13 | 15 | 31 |
 | breaking_defense | 0 | 1 | 12 | 24 |
 | nyt | 1 | 1 | 14 | 26 |
 
@@ -5123,3 +5123,4 @@
 - **Jan 17, 07:19 PM** - SLS/Orion rolls to pad for Artemis 2 (spacenews)
 - **Jan 17, 07:54 PM** - Space Force taps Slingshot to build AI adversaries for orbital wargames (breaking_defense)
 - **Jan 17, 08:29 PM** - NASA to Begin Space Station Medical Evacuation: Video and What to Know (nyt)
+- **Jan 17, 09:04 PM** - China hit by dual launch failures as Long March 3B and Ceres-2 debut mission fail (spacenews)
