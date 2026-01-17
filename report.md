@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 17 | 16 | 31 |
+| spacenews | 8 | 17 | 16 | 32 |
 | breaking_defense | 1 | 2 | 12 | 24 |
 | nyt | 0 | 4 | 12 | 24 |
 
@@ -5095,3 +5095,4 @@
 - **Jan 17, 02:34 AM** - TrustPoint demonstrates non-GPS navigation for LEO satellites (spacenews)
 - **Jan 17, 03:09 AM** - NASA to Begin Space Station Medical Evacuation: Video and What to Know (nyt)
 - **Jan 17, 03:44 AM** - The state of play in military space (breaking_defense)
+- **Jan 17, 04:19 AM** - Orbion delivers 33 electric thrusters to York Space for U.S. military constellation (spacenews)
