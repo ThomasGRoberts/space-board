@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 16 | 31 |
+| spacenews | 8 | 16 | 16 | 32 |
 | breaking_defense | 1 | 1 | 12 | 23 |
 | nyt | 0 | 2 | 12 | 25 |
 
@@ -5106,3 +5106,4 @@
 - **Jan 17, 09:09 AM** - Space Force taps Slingshot to build AI adversaries for orbital wargames (breaking_defense)
 - **Jan 17, 09:44 AM** - Pentagon commits $1 billion to L3Harris missile unit as ‘anchor investor’ (spacenews)
 - **Jan 17, 10:19 AM** - NASA to Begin Space Station Medical Evacuation: What to Know (nyt)
+- **Jan 17, 10:59 AM** - China hit by dual launch failures as Long March 3B and Ceres-2 debut mission fail (spacenews)

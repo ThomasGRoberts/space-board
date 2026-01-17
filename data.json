@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-17T00:04:57.415593+00:00",
-    "trigger_count": 6,
-    "current_item_id": "073da4dcfcf5afe42e45caf767ffba23",
+    "trigger_count": 0,
+    "current_item_id": "9bd4d6b3838260beaa2af45948558203",
     "data": [
         {
             "id": "adba228444e75cfa9083b6a49db7338e",
@@ -10600,6 +10600,18 @@
                 "2025-08-28T12:25:46.037019Z",
                 "2025-08-28T13:55:57.734016Z",
                 "2025-08-28T14:37:53.872931Z"
+            ]
+        },
+        {
+            "id": "9bd4d6b3838260beaa2af45948558203",
+            "source": "spacenews",
+            "text": "China hit by dual launch failures as Long March 3B and Ceres-2 debut mission fail",
+            "source_link": "https://spacenews.com/china-hit-by-dual-launch-failures-as-long-march-3b-and-ceres-2-debut-mission-fail/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-17T10:59:17.808360Z",
+            "shown_at": [
+                "2026-01-17T10:59:18.995519Z"
             ]
         }
     ]
