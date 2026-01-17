@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-17T00:04:57.415593+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d93c9040893828a7ada33a56d8d6c8c8",
+    "trigger_count": 0,
+    "current_item_id": "bd8f76cad6ade4d7488ebe8719380422",
     "data": [
         {
             "id": "adba228444e75cfa9083b6a49db7338e",
@@ -10647,6 +10647,18 @@
             "fetched_datetime": "2026-01-17T18:44:26.076223Z",
             "shown_at": [
                 "2026-01-17T18:44:26.991478Z"
+            ]
+        },
+        {
+            "id": "bd8f76cad6ade4d7488ebe8719380422",
+            "source": "spacenews",
+            "text": "SLS/Orion rolls to pad for Artemis 2",
+            "source_link": "https://spacenews.com/sls-orion-rolls-to-pad-for-artemis-2/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-17T19:19:06.852320Z",
+            "shown_at": [
+                "2026-01-17T19:19:08.014020Z"
             ]
         }
     ]

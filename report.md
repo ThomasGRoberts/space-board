@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 12 | 14 | 30 |
+| spacenews | 5 | 13 | 15 | 31 |
 | breaking_defense | 0 | 1 | 12 | 24 |
 | nyt | 1 | 1 | 14 | 26 |
 
@@ -5120,3 +5120,4 @@
 - **Jan 17, 05:34 PM** - NASA to Begin Space Station Medical Evacuation: Video and What to Know (nyt)
 - **Jan 17, 06:09 PM** - Pentagon commits $1 billion to L3Harris missile unit as ‘anchor investor’ (spacenews)
 - **Jan 17, 06:44 PM** - Artemis II Moon Mission: NASA Begins Rolling Giant Rocket to Launchpad (nyt)
+- **Jan 17, 07:19 PM** - SLS/Orion rolls to pad for Artemis 2 (spacenews)
