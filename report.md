@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 17 | 16 | 32 |
 | breaking_defense | 1 | 2 | 12 | 23 |
-| nyt | 0 | 4 | 12 | 24 |
+| nyt | 0 | 4 | 12 | 25 |
 
 # Shown Order
 
@@ -5090,3 +5090,4 @@
 - **Jan 16, 11:34 PM** - NASA to Begin Space Station Medical Evacuation: Video and What to Know (nyt)
 - **Jan 17, 12:09 AM** - Space Force taps Slingshot to build AI adversaries for orbital wargames (breaking_defense)
 - **Jan 17, 12:44 AM** - Orbion delivers 33 electric thrusters to York Space for U.S. military constellation (spacenews)
+- **Jan 17, 01:19 AM** - Highlights From NASA’s Medical Evacuation From the Space Station (nyt)
