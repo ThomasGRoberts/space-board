@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 15 | 31 |
-| breaking_defense | 1 | 1 | 12 | 24 |
-| nyt | 0 | 0 | 13 | 24 |
+| breaking_defense | 1 | 1 | 13 | 25 |
+| nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
 
@@ -5113,3 +5113,4 @@
 - **Jan 17, 01:24 PM** - Sweden allocates $1.6B to build territorial air defense capability, $140M for space (breaking_defense)
 - **Jan 17, 01:59 PM** - NASA Begins Astronaut Space Station Medical Evacuation: What to Know (nyt)
 - **Jan 17, 02:34 PM** - Orbion delivers 33 electric thrusters to York Space for U.S. military constellation (spacenews)
+- **Jan 17, 03:09 PM** - Space Force taps Slingshot to build AI adversaries for orbital wargames (breaking_defense)
