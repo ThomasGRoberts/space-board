@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 13 | 14 | 31 |
-| breaking_defense | 0 | 1 | 12 | 24 |
+| breaking_defense | 0 | 1 | 13 | 25 |
 | nyt | 1 | 1 | 14 | 25 |
 
 # Shown Order
@@ -5121,3 +5121,4 @@
 - **Jan 17, 06:09 PM** - Pentagon commits $1 billion to L3Harris missile unit as ‘anchor investor’ (spacenews)
 - **Jan 17, 06:44 PM** - Artemis II Moon Mission: NASA Begins Rolling Giant Rocket to Launchpad (nyt)
 - **Jan 17, 07:19 PM** - SLS/Orion rolls to pad for Artemis 2 (spacenews)
+- **Jan 17, 07:54 PM** - Space Force taps Slingshot to build AI adversaries for orbital wargames (breaking_defense)
