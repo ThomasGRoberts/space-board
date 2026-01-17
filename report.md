@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 17 | 16 | 31 |
-| breaking_defense | 1 | 2 | 12 | 23 |
+| breaking_defense | 1 | 2 | 12 | 24 |
 | nyt | 0 | 4 | 12 | 25 |
 
 # Shown Order
@@ -5100,3 +5100,4 @@
 - **Jan 17, 05:29 AM** - The state of play in military space (breaking_defense)
 - **Jan 17, 06:05 AM** - Space Force wants competition. Satellite makers want stability. (spacenews)
 - **Jan 17, 06:44 AM** - NASA Astronauts Return to Earth After Medical Evacuation From International Space Station (nyt)
+- **Jan 17, 07:19 AM** - Space Force taps Slingshot to build AI adversaries for orbital wargames (breaking_defense)
