@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 16 | 31 |
-| breaking_defense | 1 | 1 | 12 | 23 |
+| spacenews | 7 | 15 | 15 | 31 |
+| breaking_defense | 1 | 1 | 13 | 24 |
 | nyt | 0 | 2 | 12 | 25 |
 
 # Shown Order
@@ -5107,3 +5107,4 @@
 - **Jan 17, 09:44 AM** - Pentagon commits $1 billion to L3Harris missile unit as ‘anchor investor’ (spacenews)
 - **Jan 17, 10:19 AM** - NASA to Begin Space Station Medical Evacuation: What to Know (nyt)
 - **Jan 17, 10:59 AM** - China hit by dual launch failures as Long March 3B and Ceres-2 debut mission fail (spacenews)
+- **Jan 17, 11:39 AM** - The state of play in military space (breaking_defense)
