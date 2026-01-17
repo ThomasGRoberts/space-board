@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 16 | 31 |
+| spacenews | 8 | 16 | 16 | 32 |
 | breaking_defense | 1 | 2 | 12 | 24 |
 | nyt | 0 | 2 | 12 | 24 |
 
@@ -5104,3 +5104,4 @@
 - **Jan 17, 07:59 AM** - Hydrosat raises $60 million in Series B funding (spacenews)
 - **Jan 17, 08:34 AM** - NASA Begins Astronaut Space Station Medical Evacuation: What to Know (nyt)
 - **Jan 17, 09:09 AM** - Space Force taps Slingshot to build AI adversaries for orbital wargames (breaking_defense)
+- **Jan 17, 09:44 AM** - Pentagon commits $1 billion to L3Harris missile unit as ‘anchor investor’ (spacenews)
