@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 17 | 16 | 31 |
+| spacenews | 8 | 17 | 16 | 32 |
 | breaking_defense | 1 | 2 | 12 | 24 |
 | nyt | 0 | 4 | 12 | 24 |
 
@@ -5098,3 +5098,4 @@
 - **Jan 17, 04:19 AM** - Orbion delivers 33 electric thrusters to York Space for U.S. military constellation (spacenews)
 - **Jan 17, 04:54 AM** - Highlights From NASA’s Medical Evacuation From the Space Station (nyt)
 - **Jan 17, 05:29 AM** - The state of play in military space (breaking_defense)
+- **Jan 17, 06:05 AM** - Space Force wants competition. Satellite makers want stability. (spacenews)
