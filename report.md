@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 13 | 15 | 31 |
-| breaking_defense | 0 | 1 | 12 | 24 |
-| nyt | 0 | 0 | 13 | 25 |
+| breaking_defense | 0 | 1 | 13 | 25 |
+| nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -5116,3 +5116,4 @@
 - **Jan 17, 03:09 PM** - Space Force taps Slingshot to build AI adversaries for orbital wargames (breaking_defense)
 - **Jan 17, 03:44 PM** - NASA to Begin Space Station Medical Evacuation: What to Know (nyt)
 - **Jan 17, 04:24 PM** - Space operations will become more dynamic this year (spacenews)
+- **Jan 17, 04:59 PM** - DARPA backs Diffraqtion to demo ‘quantum camera’ for space, Earth surveillance (breaking_defense)
