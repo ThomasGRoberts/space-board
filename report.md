@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 15 | 30 |
+| spacenews | 5 | 13 | 15 | 31 |
 | breaking_defense | 0 | 1 | 12 | 25 |
 | nyt | 0 | 0 | 13 | 25 |
 
@@ -5115,3 +5115,4 @@
 - **Jan 17, 02:34 PM** - Orbion delivers 33 electric thrusters to York Space for U.S. military constellation (spacenews)
 - **Jan 17, 03:09 PM** - Space Force taps Slingshot to build AI adversaries for orbital wargames (breaking_defense)
 - **Jan 17, 03:44 PM** - NASA to Begin Space Station Medical Evacuation: What to Know (nyt)
+- **Jan 17, 04:24 PM** - Space operations will become more dynamic this year (spacenews)
