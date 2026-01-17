@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 12 | 14 | 30 |
 | breaking_defense | 0 | 1 | 13 | 25 |
-| nyt | 1 | 1 | 13 | 25 |
+| nyt | 1 | 1 | 14 | 26 |
 
 # Shown Order
 
@@ -5128,3 +5128,4 @@
 - **Jan 17, 10:14 PM** - NASA Begins Astronaut Space Station Medical Evacuation: What to Know (nyt)
 - **Jan 17, 10:49 PM** - Aerospacelab to build eight satellites for Xona’s navigation constellation (spacenews)
 - **Jan 17, 11:24 PM** - DARPA backs Diffraqtion to demo ‘quantum camera’ for space, Earth surveillance (breaking_defense)
+- **Jan 17, 11:58 PM** - Live Updates: Astronauts Splash Down After Space Station Medical Evacuation (nyt)
