@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 17 | 16 | 32 |
 | breaking_defense | 1 | 2 | 12 | 23 |
-| nyt | 0 | 3 | 12 | 24 |
+| nyt | 0 | 3 | 12 | 25 |
 
 # Shown Order
 
@@ -5102,3 +5102,4 @@
 - **Jan 17, 06:44 AM** - NASA Astronauts Return to Earth After Medical Evacuation From International Space Station (nyt)
 - **Jan 17, 07:19 AM** - Space Force taps Slingshot to build AI adversaries for orbital wargames (breaking_defense)
 - **Jan 17, 07:59 AM** - Hydrosat raises $60 million in Series B funding (spacenews)
+- **Jan 17, 08:34 AM** - NASA Begins Astronaut Space Station Medical Evacuation: What to Know (nyt)
