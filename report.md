@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 17 | 16 | 32 |
 | breaking_defense | 1 | 2 | 12 | 23 |
-| nyt | 0 | 4 | 11 | 24 |
+| nyt | 0 | 4 | 12 | 25 |
 
 # Shown Order
 
@@ -5099,3 +5099,4 @@
 - **Jan 17, 04:54 AM** - Highlights From NASA’s Medical Evacuation From the Space Station (nyt)
 - **Jan 17, 05:29 AM** - The state of play in military space (breaking_defense)
 - **Jan 17, 06:05 AM** - Space Force wants competition. Satellite makers want stability. (spacenews)
+- **Jan 17, 06:44 AM** - NASA Astronauts Return to Earth After Medical Evacuation From International Space Station (nyt)
