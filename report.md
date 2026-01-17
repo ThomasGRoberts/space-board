@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 16 | 31 |
 | breaking_defense | 1 | 2 | 12 | 24 |
-| nyt | 0 | 2 | 12 | 24 |
+| nyt | 0 | 2 | 13 | 25 |
 
 # Shown Order
 
@@ -5105,3 +5105,4 @@
 - **Jan 17, 08:34 AM** - NASA Begins Astronaut Space Station Medical Evacuation: What to Know (nyt)
 - **Jan 17, 09:09 AM** - Space Force taps Slingshot to build AI adversaries for orbital wargames (breaking_defense)
 - **Jan 17, 09:44 AM** - Pentagon commits $1 billion to L3Harris missile unit as ‘anchor investor’ (spacenews)
+- **Jan 17, 10:19 AM** - NASA to Begin Space Station Medical Evacuation: What to Know (nyt)
