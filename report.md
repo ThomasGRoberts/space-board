@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 11 | 14 | 30 |
-| nyt | 2 | 2 | 14 | 26 |
+| nyt | 2 | 2 | 15 | 27 |
 | breaking_defense | 0 | 1 | 12 | 24 |
 
 # Shown Order
@@ -4964,3 +4964,4 @@
 - **Jan 18, 06:28 AM** - Artemis II Moon Mission: NASA Completes Giant Rocket’s Slow Ride to Launchpad (nyt)
 - **Jan 18, 07:05 AM** - Sweden allocates $1.6B to build territorial air defense capability, $140M for space (breaking_defense)
 - **Jan 18, 07:44 AM** - Turion Space Corp. Acquires Tychee Research Group to Accelerate Autonomous Space Operations and Mission Engineering (spacenews)
+- **Jan 18, 08:19 AM** - NASA to Begin Space Station Medical Evacuation: Video and What to Know (nyt)
