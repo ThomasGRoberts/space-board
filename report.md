@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 11 | 14 | 30 |
 | nyt | 2 | 2 | 14 | 26 |
-| breaking_defense | 0 | 1 | 12 | 24 |
+| breaking_defense | 0 | 1 | 13 | 25 |
 
 # Shown Order
 
@@ -4968,3 +4968,4 @@
 - **Jan 18, 08:54 AM** - Space Force taps Slingshot to build AI adversaries for orbital wargames (breaking_defense)
 - **Jan 18, 09:29 AM** - NRO taps Capitol Hill staffer Bill Adkins as principal deputy director (spacenews)
 - **Jan 18, 10:04 AM** - NASA to Begin Space Station Medical Evacuation: Video and What to Know (nyt)
+- **Jan 18, 10:38 AM** - Space Force taps Slingshot to build AI adversaries for orbital wargames (breaking_defense)
