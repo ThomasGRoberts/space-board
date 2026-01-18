@@ -4986,3 +4986,4 @@
 - **Jan 18, 07:24 PM** - When allies can’t count on U.S. ISR, commercial space becomes strategic (spacenews)
 - **Jan 18, 07:59 PM** - DARPA backs Diffraqtion to demo ‘quantum camera’ for space, Earth surveillance (breaking_defense)
 - **Jan 18, 08:34 PM** - NASA Begins Astronaut Space Station Medical Evacuation: What to Know (nyt)
+- **Jan 18, 09:09 PM** - 2026 will be the year of space nuclear power and surviving the lunar night (spacenews)
