@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 8 | 14 | 29 |
 | nyt | 2 | 2 | 14 | 27 |
-| breaking_defense | 0 | 1 | 12 | 24 |
+| breaking_defense | 0 | 1 | 13 | 25 |
 
 # Shown Order
 
@@ -4974,3 +4974,4 @@
 - **Jan 18, 12:24 PM** - The state of play in military space (breaking_defense)
 - **Jan 18, 12:59 PM** - Tyvak International’s LIDE satellite completes initial on-orbit 5G tests (spacenews)
 - **Jan 18, 01:34 PM** - Artemis II Moon Mission: NASA Begins Rolling Giant Rocket to Launchpad (nyt)
+- **Jan 18, 02:09 PM** - The state of play in military space (breaking_defense)
