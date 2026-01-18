@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-18T00:04:32.371325+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d03bc1e5d7a9a051d8dc030fd66abedb",
+    "trigger_count": 0,
+    "current_item_id": "dd3324befa370d908df50a05349bdf7a",
     "data": [
         {
             "id": "bd8f76cad6ade4d7488ebe8719380422",
@@ -10485,6 +10485,18 @@
             "shown_at": [
                 "2026-01-18T01:09:18.237351Z",
                 "2026-01-18T06:28:56.511112Z"
+            ]
+        },
+        {
+            "id": "dd3324befa370d908df50a05349bdf7a",
+            "source": "spacenews",
+            "text": "Eutelsat signs OneWeb launch deal with MaiaSpace",
+            "source_link": "https://spacenews.com/eutelsat-signs-oneweb-launch-deal-with-maiaspace/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-18T17:39:43.657735Z",
+            "shown_at": [
+                "2026-01-18T17:39:44.372500Z"
             ]
         }
     ]
