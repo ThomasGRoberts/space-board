@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 11 | 14 | 30 |
 | nyt | 2 | 2 | 14 | 26 |
-| breaking_defense | 0 | 1 | 12 | 24 |
+| breaking_defense | 0 | 1 | 13 | 25 |
 
 # Shown Order
 
@@ -4956,3 +4956,4 @@
 - **Jan 18, 01:44 AM** - The state of play in military space (breaking_defense)
 - **Jan 18, 02:19 AM** - ESA’s Comet Interceptor mission moves up launch (spacenews)
 - **Jan 18, 02:54 AM** - NASA to Begin Space Station Medical Evacuation: What to Know (nyt)
+- **Jan 18, 03:29 AM** - DARPA backs Diffraqtion to demo ‘quantum camera’ for space, Earth surveillance (breaking_defense)
