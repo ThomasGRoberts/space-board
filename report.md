@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 5 | 14 | 28 |
-| nyt | 1 | 2 | 14 | 27 |
+| nyt | 1 | 2 | 14 | 28 |
 | breaking_defense | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -4985,3 +4985,4 @@
 - **Jan 18, 06:49 PM** - NASA to Begin Space Station Medical Evacuation: Video and What to Know (nyt)
 - **Jan 18, 07:24 PM** - When allies can’t count on U.S. ISR, commercial space becomes strategic (spacenews)
 - **Jan 18, 07:59 PM** - DARPA backs Diffraqtion to demo ‘quantum camera’ for space, Earth surveillance (breaking_defense)
+- **Jan 18, 08:34 PM** - NASA Begins Astronaut Space Station Medical Evacuation: What to Know (nyt)
