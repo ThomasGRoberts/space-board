@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 8 | 13 | 28 |
+| spacenews | 1 | 8 | 14 | 29 |
 | nyt | 2 | 2 | 14 | 27 |
 | breaking_defense | 0 | 1 | 13 | 25 |
 
@@ -4972,3 +4972,4 @@
 - **Jan 18, 11:14 AM** - TrustPoint demonstrates non-GPS navigation for LEO satellites (spacenews)
 - **Jan 18, 11:49 AM** - NASA Astronauts Return to Earth After Medical Evacuation From International Space Station (nyt)
 - **Jan 18, 12:24 PM** - The state of play in military space (breaking_defense)
+- **Jan 18, 12:59 PM** - Tyvak International’s LIDE satellite completes initial on-orbit 5G tests (spacenews)
