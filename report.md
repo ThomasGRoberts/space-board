@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 14 | 29 |
 | nyt | 2 | 2 | 14 | 27 |
-| breaking_defense | 0 | 0 | 12 | 24 |
+| breaking_defense | 0 | 0 | 13 | 25 |
 
 # Shown Order
 
@@ -4977,3 +4977,4 @@
 - **Jan 18, 02:09 PM** - The state of play in military space (breaking_defense)
 - **Jan 18, 02:44 PM** - Portugal signs the Artemis Accords (spacenews)
 - **Jan 18, 03:19 PM** - NASA Astronauts Return to Earth After Medical Evacuation From International Space Station (nyt)
+- **Jan 18, 03:54 PM** - The state of play in military space (breaking_defense)
