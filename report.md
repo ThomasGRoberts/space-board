@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 11 | 14 | 30 |
-| nyt | 2 | 2 | 14 | 26 |
+| nyt | 2 | 2 | 15 | 27 |
 | breaking_defense | 0 | 1 | 12 | 24 |
 
 # Shown Order
@@ -4961,3 +4961,4 @@
 - **Jan 18, 04:39 AM** - NASA to Begin Space Station Medical Evacuation: What to Know (nyt)
 - **Jan 18, 05:19 AM** - The state of play in military space (breaking_defense)
 - **Jan 18, 05:54 AM** - China hit by dual launch failures as Long March 3B and Ceres-2 debut mission fail (spacenews)
+- **Jan 18, 06:28 AM** - Artemis II Moon Mission: NASA Completes Giant Rocket’s Slow Ride to Launchpad (nyt)
