@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 11 | 14 | 30 |
+| spacenews | 3 | 11 | 15 | 31 |
 | nyt | 2 | 2 | 14 | 26 |
 | breaking_defense | 0 | 1 | 12 | 24 |
 
@@ -4957,3 +4957,4 @@
 - **Jan 18, 02:19 AM** - ESA’s Comet Interceptor mission moves up launch (spacenews)
 - **Jan 18, 02:54 AM** - NASA to Begin Space Station Medical Evacuation: What to Know (nyt)
 - **Jan 18, 03:29 AM** - DARPA backs Diffraqtion to demo ‘quantum camera’ for space, Earth surveillance (breaking_defense)
+- **Jan 18, 04:04 AM** - Bringing outsiders into the space fold (spacenews)
