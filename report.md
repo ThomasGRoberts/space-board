@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 11 | 14 | 30 |
 | nyt | 2 | 2 | 14 | 26 |
-| breaking_defense | 0 | 1 | 12 | 24 |
+| breaking_defense | 0 | 1 | 13 | 25 |
 
 # Shown Order
 
@@ -4953,3 +4953,4 @@
 - **Jan 17, 11:58 PM** - Live Updates: Astronauts Splash Down After Space Station Medical Evacuation (nyt)
 - **Jan 18, 12:34 AM** - Space Force wants competition. Satellite makers want stability. (spacenews)
 - **Jan 18, 01:09 AM** - Artemis II Moon Mission: NASA Completes Giant Rocket’s Slow Ride to Launchpad (nyt)
+- **Jan 18, 01:44 AM** - The state of play in military space (breaking_defense)
