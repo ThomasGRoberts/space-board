@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 9 | 14 | 29 |
 | nyt | 2 | 2 | 14 | 27 |
-| breaking_defense | 0 | 1 | 12 | 24 |
+| breaking_defense | 0 | 1 | 13 | 25 |
 
 # Shown Order
 
@@ -4971,3 +4971,4 @@
 - **Jan 18, 10:38 AM** - Space Force taps Slingshot to build AI adversaries for orbital wargames (breaking_defense)
 - **Jan 18, 11:14 AM** - TrustPoint demonstrates non-GPS navigation for LEO satellites (spacenews)
 - **Jan 18, 11:49 AM** - NASA Astronauts Return to Earth After Medical Evacuation From International Space Station (nyt)
+- **Jan 18, 12:24 PM** - The state of play in military space (breaking_defense)
