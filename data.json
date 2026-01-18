@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-18T00:04:32.371325+00:00",
-    "trigger_count": 6,
-    "current_item_id": "aa81d6f2e8601e237987086b63cc14db",
+    "trigger_count": 0,
+    "current_item_id": "ae3bcef8ea216e128fc1e801aff8a298",
     "data": [
         {
             "id": "bd8f76cad6ade4d7488ebe8719380422",
@@ -10446,6 +10446,18 @@
                 "2025-08-30T21:07:40.541781Z",
                 "2025-08-31T00:05:30.788001Z",
                 "2025-09-01T09:13:50.635066Z"
+            ]
+        },
+        {
+            "id": "ae3bcef8ea216e128fc1e801aff8a298",
+            "source": "nyt",
+            "text": "Artemis II Moon Mission: NASA Completes Giant Rocket’s Slow Ride to Launchpad",
+            "source_link": "https://www.nytimes.com/2026/01/17/science/nasa-artemis-ii-rocket-moon.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-18T01:09:17.453321Z",
+            "shown_at": [
+                "2026-01-18T01:09:18.237351Z"
             ]
         }
     ]

@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 11 | 14 | 30 |
-| nyt | 1 | 1 | 14 | 26 |
+| nyt | 2 | 2 | 15 | 27 |
 | breaking_defense | 0 | 1 | 12 | 24 |
 
 # Shown Order
@@ -4952,3 +4952,4 @@
 - **Jan 17, 11:24 PM** - DARPA backs Diffraqtion to demo ‘quantum camera’ for space, Earth surveillance (breaking_defense)
 - **Jan 17, 11:58 PM** - Live Updates: Astronauts Splash Down After Space Station Medical Evacuation (nyt)
 - **Jan 18, 12:34 AM** - Space Force wants competition. Satellite makers want stability. (spacenews)
+- **Jan 18, 01:09 AM** - Artemis II Moon Mission: NASA Completes Giant Rocket’s Slow Ride to Launchpad (nyt)
