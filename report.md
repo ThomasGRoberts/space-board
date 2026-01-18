@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 11 | 14 | 30 |
 | nyt | 2 | 2 | 14 | 26 |
-| breaking_defense | 0 | 1 | 12 | 24 |
+| breaking_defense | 0 | 1 | 13 | 25 |
 
 # Shown Order
 
@@ -4965,3 +4965,4 @@
 - **Jan 18, 07:05 AM** - Sweden allocates $1.6B to build territorial air defense capability, $140M for space (breaking_defense)
 - **Jan 18, 07:44 AM** - Turion Space Corp. Acquires Tychee Research Group to Accelerate Autonomous Space Operations and Mission Engineering (spacenews)
 - **Jan 18, 08:19 AM** - NASA to Begin Space Station Medical Evacuation: Video and What to Know (nyt)
+- **Jan 18, 08:54 AM** - Space Force taps Slingshot to build AI adversaries for orbital wargames (breaking_defense)
