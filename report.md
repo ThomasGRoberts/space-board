@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 12 | 14 | 30 |
+| spacenews | 3 | 12 | 15 | 31 |
 | nyt | 1 | 1 | 14 | 26 |
 | breaking_defense | 0 | 1 | 12 | 24 |
 
@@ -4951,3 +4951,4 @@
 - **Jan 17, 10:49 PM** - Aerospacelab to build eight satellites for Xona’s navigation constellation (spacenews)
 - **Jan 17, 11:24 PM** - DARPA backs Diffraqtion to demo ‘quantum camera’ for space, Earth surveillance (breaking_defense)
 - **Jan 17, 11:58 PM** - Live Updates: Astronauts Splash Down After Space Station Medical Evacuation (nyt)
+- **Jan 18, 12:34 AM** - Space Force wants competition. Satellite makers want stability. (spacenews)
