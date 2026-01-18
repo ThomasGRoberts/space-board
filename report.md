@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 6 | 13 | 28 |
+| spacenews | 1 | 6 | 14 | 29 |
 | nyt | 2 | 2 | 14 | 27 |
 | breaking_defense | 0 | 0 | 13 | 25 |
 
@@ -4978,3 +4978,4 @@
 - **Jan 18, 02:44 PM** - Portugal signs the Artemis Accords (spacenews)
 - **Jan 18, 03:19 PM** - NASA Astronauts Return to Earth After Medical Evacuation From International Space Station (nyt)
 - **Jan 18, 03:54 PM** - The state of play in military space (breaking_defense)
+- **Jan 18, 04:29 PM** - India’s PSLV launch fails during ascent, 16 satellites lost (spacenews)
