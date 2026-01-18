@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 5 | 14 | 28 |
+| spacenews | 1 | 5 | 14 | 29 |
 | nyt | 1 | 2 | 14 | 28 |
 | breaking_defense | 0 | 0 | 13 | 25 |
 
@@ -4989,3 +4989,4 @@
 - **Jan 18, 09:09 PM** - 2026 will be the year of space nuclear power and surviving the lunar night (spacenews)
 - **Jan 18, 09:44 PM** - Space Force taps Slingshot to build AI adversaries for orbital wargames (breaking_defense)
 - **Jan 18, 10:19 PM** - Live Updates: Astronauts Head Home After Space Station Medical Evacuation (nyt)
+- **Jan 18, 10:54 PM** - Turion Space Corp. Acquires Tychee Research Group to Accelerate Autonomous Space Operations and Mission Engineering (spacenews)
