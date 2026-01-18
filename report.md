@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 11 | 14 | 30 |
+| spacenews | 3 | 11 | 15 | 31 |
 | nyt | 2 | 2 | 14 | 26 |
 | breaking_defense | 0 | 1 | 12 | 24 |
 
@@ -4954,3 +4954,4 @@
 - **Jan 18, 12:34 AM** - Space Force wants competition. Satellite makers want stability. (spacenews)
 - **Jan 18, 01:09 AM** - Artemis II Moon Mission: NASA Completes Giant Rocket’s Slow Ride to Launchpad (nyt)
 - **Jan 18, 01:44 AM** - The state of play in military space (breaking_defense)
+- **Jan 18, 02:19 AM** - ESA’s Comet Interceptor mission moves up launch (spacenews)
