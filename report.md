@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 14 | 28 |
+| spacenews | 3 | 4 | 15 | 29 |
 | nyt | 0 | 2 | 13 | 27 |
-| breaking_defense | 0 | 0 | 14 | 26 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -4972,3 +4972,4 @@
 - **Jan 19, 12:24 PM** - NASA Begins Astronaut Space Station Medical Evacuation: What to Know (nyt)
 - **Jan 19, 01:04 PM** - Space Force ends ‘Resilient GPS’ satellite program (spacenews)
 - **Jan 19, 01:39 PM** - DARPA backs Diffraqtion to demo ‘quantum camera’ for space, Earth surveillance (breaking_defense)
+- **Jan 19, 02:14 PM** - NASA must act now to ensure U.S. leadership in space (spacenews)

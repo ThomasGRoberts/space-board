@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-19T00:04:25.652764+00:00",
-    "trigger_count": 6,
-    "current_item_id": "19ca1cb9a1860d4bb2f442eacb620269",
+    "trigger_count": 0,
+    "current_item_id": "bfa6725ec1633dadd9ddd45644c90660",
     "data": [
         {
             "id": "dd3324befa370d908df50a05349bdf7a",
@@ -10477,6 +10477,18 @@
             "fetched_datetime": "2026-01-19T13:04:42.582639Z",
             "shown_at": [
                 "2026-01-19T13:04:43.387481Z"
+            ]
+        },
+        {
+            "id": "bfa6725ec1633dadd9ddd45644c90660",
+            "source": "spacenews",
+            "text": "NASA must act now to ensure U.S. leadership in space",
+            "source_link": "https://spacenews.com/nasa-must-act-now-to-ensure-u-s-leadership-in-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-19T14:14:33.995267Z",
+            "shown_at": [
+                "2026-01-19T14:14:34.835441Z"
             ]
         }
     ]
