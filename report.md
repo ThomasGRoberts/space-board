@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 4 | 14 | 28 |
-| nyt | 0 | 2 | 13 | 27 |
-| breaking_defense | 0 | 0 | 14 | 26 |
+| nyt | 0 | 2 | 14 | 28 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -4951,3 +4951,4 @@
 - **Jan 19, 12:04 AM** - Live Updates: Astronauts Splash Down After Space Station Medical Evacuation (nyt)
 - **Jan 19, 12:39 AM** - Parsons buys Altamira for $375 million to expand space and intelligence portfolio (spacenews)
 - **Jan 19, 01:14 AM** - Sweden allocates $1.6B to build territorial air defense capability, $140M for space (breaking_defense)
+- **Jan 19, 01:49 AM** - Live Updates: Astronauts Head Home After Space Station Medical Evacuation (nyt)
