@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 4 | 14 | 28 |
-| nyt | 0 | 2 | 14 | 28 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| nyt | 0 | 2 | 13 | 28 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -4959,3 +4959,4 @@
 - **Jan 19, 04:44 AM** - Sweden allocates $1.6B to build territorial air defense capability, $140M for space (breaking_defense)
 - **Jan 19, 05:19 AM** - Highlights From NASA’s Medical Evacuation From the Space Station (nyt)
 - **Jan 19, 05:54 AM** - Arianespace to begin Amazon Leo launches in February (spacenews)
+- **Jan 19, 06:29 AM** - Space Force taps Slingshot to build AI adversaries for orbital wargames (breaking_defense)
