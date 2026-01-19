@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 4 | 14 | 28 |
 | nyt | 0 | 2 | 14 | 28 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -4965,3 +4965,4 @@
 - **Jan 19, 08:14 AM** - Sweden allocates $1.6B to build territorial air defense capability, $140M for space (breaking_defense)
 - **Jan 19, 08:49 AM** - NASA to Begin Space Station Medical Evacuation: Video and What to Know (nyt)
 - **Jan 19, 09:24 AM** - China advances plans for dual solar system boundary missions (spacenews)
+- **Jan 19, 09:59 AM** - The state of play in military space (breaking_defense)
