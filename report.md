@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 4 | 13 | 28 |
+| spacenews | 1 | 4 | 14 | 29 |
 | nyt | 1 | 2 | 14 | 28 |
 | breaking_defense | 0 | 0 | 13 | 25 |
 
@@ -4949,3 +4949,4 @@
 - **Jan 18, 10:54 PM** - Turion Space Corp. Acquires Tychee Research Group to Accelerate Autonomous Space Operations and Mission Engineering (spacenews)
 - **Jan 18, 11:29 PM** - DARPA backs Diffraqtion to demo ‘quantum camera’ for space, Earth surveillance (breaking_defense)
 - **Jan 19, 12:04 AM** - Live Updates: Astronauts Splash Down After Space Station Medical Evacuation (nyt)
+- **Jan 19, 12:39 AM** - Parsons buys Altamira for $375 million to expand space and intelligence portfolio (spacenews)
