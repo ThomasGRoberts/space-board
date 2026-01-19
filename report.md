@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 4 | 14 | 28 |
-| nyt | 0 | 2 | 13 | 27 |
+| nyt | 0 | 2 | 14 | 28 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -4973,3 +4973,4 @@
 - **Jan 19, 01:04 PM** - Space Force ends ‘Resilient GPS’ satellite program (spacenews)
 - **Jan 19, 01:39 PM** - DARPA backs Diffraqtion to demo ‘quantum camera’ for space, Earth surveillance (breaking_defense)
 - **Jan 19, 02:14 PM** - NASA must act now to ensure U.S. leadership in space (spacenews)
+- **Jan 19, 02:49 PM** - Live Updates: Astronauts Head Home After Space Station Medical Evacuation (nyt)
