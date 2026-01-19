@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 14 | 28 |
-| nyt | 0 | 2 | 13 | 27 |
-| breaking_defense | 0 | 0 | 14 | 26 |
+| nyt | 0 | 2 | 14 | 28 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -4969,3 +4969,4 @@
 - **Jan 19, 10:34 AM** - Highlights From NASA’s Medical Evacuation From the Space Station (nyt)
 - **Jan 19, 11:08 AM** - China launches AlSat-3A for Algeria, Ceres-1 sea launch adds to Tianqi constellation (spacenews)
 - **Jan 19, 11:49 AM** - DARPA backs Diffraqtion to demo ‘quantum camera’ for space, Earth surveillance (breaking_defense)
+- **Jan 19, 12:24 PM** - NASA Begins Astronaut Space Station Medical Evacuation: What to Know (nyt)
