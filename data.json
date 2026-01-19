@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-19T00:04:25.652764+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8b059458b74c75dafed4e38c123255e7",
+    "trigger_count": 0,
+    "current_item_id": "0bdd163bf8c0e028d4fea5a0b64f3d9f",
     "data": [
         {
             "id": "dd3324befa370d908df50a05349bdf7a",
@@ -10464,6 +10464,18 @@
                 "2025-09-01T15:53:55.143168Z",
                 "2025-09-01T16:35:44.599395Z",
                 "2025-09-01T20:13:55.920205Z"
+            ]
+        },
+        {
+            "id": "0bdd163bf8c0e028d4fea5a0b64f3d9f",
+            "source": "spacenews",
+            "text": "Space Force ends ‘Resilient GPS’ satellite program",
+            "source_link": "https://spacenews.com/space-force-ends-resilient-gps-satellite-program/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-19T13:04:42.582639Z",
+            "shown_at": [
+                "2026-01-19T13:04:43.387481Z"
             ]
         }
     ]
