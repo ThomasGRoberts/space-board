@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 14 | 28 |
-| nyt | 0 | 1 | 13 | 27 |
+| nyt | 0 | 1 | 14 | 28 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -4985,3 +4985,4 @@
 - **Jan 19, 08:09 PM** - NASA to Begin Space Station Medical Evacuation: Video and What to Know (nyt)
 - **Jan 19, 08:44 PM** - DARPA backs Diffraqtion to demo ‘quantum camera’ for space, Earth surveillance (breaking_defense)
 - **Jan 19, 09:19 PM** - Space operations will become more dynamic this year (spacenews)
+- **Jan 19, 09:54 PM** - NASA Astronauts Return to Earth After Medical Evacuation From International Space Station (nyt)
