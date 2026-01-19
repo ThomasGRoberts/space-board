@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 13 | 27 |
+| spacenews | 3 | 4 | 14 | 28 |
 | nyt | 0 | 1 | 13 | 27 |
 | breaking_defense | 0 | 0 | 14 | 27 |
 
@@ -4987,3 +4987,4 @@
 - **Jan 19, 09:19 PM** - Space operations will become more dynamic this year (spacenews)
 - **Jan 19, 09:54 PM** - NASA Astronauts Return to Earth After Medical Evacuation From International Space Station (nyt)
 - **Jan 19, 10:34 PM** - DARPA backs Diffraqtion to demo ‘quantum camera’ for space, Earth surveillance (breaking_defense)
+- **Jan 19, 11:09 PM** - Damaged DSN antenna out of service until May (spacenews)
