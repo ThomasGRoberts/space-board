@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 14 | 28 |
-| nyt | 0 | 2 | 13 | 27 |
+| nyt | 0 | 2 | 14 | 28 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -4979,3 +4979,4 @@
 - **Jan 19, 04:39 PM** - NASA Astronauts Return to Earth After Medical Evacuation From International Space Station (nyt)
 - **Jan 19, 05:14 PM** - Sweden allocates $1.6B to build territorial air defense capability, $140M for space (breaking_defense)
 - **Jan 19, 05:50 PM** - China’s first launches of 2026 send Yaogan spacecraft into unusual orbit, loft Guowang satellites  (spacenews)
+- **Jan 19, 06:24 PM** - NASA to Begin Space Station Medical Evacuation: Video and What to Know (nyt)
