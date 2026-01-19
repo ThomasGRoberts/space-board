@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 4 | 14 | 28 |
+| spacenews | 1 | 4 | 15 | 29 |
 | nyt | 0 | 2 | 14 | 28 |
 | breaking_defense | 0 | 0 | 13 | 25 |
 
@@ -4964,3 +4964,4 @@
 - **Jan 19, 07:39 AM** - Applied lessons for NASA’s science programs (spacenews)
 - **Jan 19, 08:14 AM** - Sweden allocates $1.6B to build territorial air defense capability, $140M for space (breaking_defense)
 - **Jan 19, 08:49 AM** - NASA to Begin Space Station Medical Evacuation: Video and What to Know (nyt)
+- **Jan 19, 09:24 AM** - China advances plans for dual solar system boundary missions (spacenews)
