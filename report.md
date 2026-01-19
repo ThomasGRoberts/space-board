@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 14 | 28 |
-| nyt | 0 | 2 | 14 | 28 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| nyt | 0 | 2 | 13 | 28 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -4971,3 +4971,4 @@
 - **Jan 19, 11:49 AM** - DARPA backs Diffraqtion to demo ‘quantum camera’ for space, Earth surveillance (breaking_defense)
 - **Jan 19, 12:24 PM** - NASA Begins Astronaut Space Station Medical Evacuation: What to Know (nyt)
 - **Jan 19, 01:04 PM** - Space Force ends ‘Resilient GPS’ satellite program (spacenews)
+- **Jan 19, 01:39 PM** - DARPA backs Diffraqtion to demo ‘quantum camera’ for space, Earth surveillance (breaking_defense)
