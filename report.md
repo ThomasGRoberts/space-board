@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 4 | 14 | 28 |
+| spacenews | 3 | 4 | 15 | 29 |
 | nyt | 0 | 2 | 13 | 27 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
@@ -4975,3 +4975,4 @@
 - **Jan 19, 02:14 PM** - NASA must act now to ensure U.S. leadership in space (spacenews)
 - **Jan 19, 02:49 PM** - Live Updates: Astronauts Head Home After Space Station Medical Evacuation (nyt)
 - **Jan 19, 03:24 PM** - Space Force taps Slingshot to build AI adversaries for orbital wargames (breaking_defense)
+- **Jan 19, 04:04 PM** - Parsons buys Altamira for $375 million to expand space and intelligence portfolio (spacenews)
