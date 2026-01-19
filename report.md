@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 4 | 14 | 28 |
 | nyt | 0 | 2 | 13 | 28 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -4977,3 +4977,4 @@
 - **Jan 19, 03:24 PM** - Space Force taps Slingshot to build AI adversaries for orbital wargames (breaking_defense)
 - **Jan 19, 04:04 PM** - Parsons buys Altamira for $375 million to expand space and intelligence portfolio (spacenews)
 - **Jan 19, 04:39 PM** - NASA Astronauts Return to Earth After Medical Evacuation From International Space Station (nyt)
+- **Jan 19, 05:14 PM** - Sweden allocates $1.6B to build territorial air defense capability, $140M for space (breaking_defense)
