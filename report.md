@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 13 | 27 |
+| spacenews | 2 | 3 | 14 | 28 |
 | nyt | 0 | 1 | 13 | 27 |
 | breaking_defense | 0 | 0 | 14 | 27 |
 
@@ -4981,3 +4981,4 @@
 - **Jan 19, 05:50 PM** - China’s first launches of 2026 send Yaogan spacecraft into unusual orbit, loft Guowang satellites  (spacenews)
 - **Jan 19, 06:24 PM** - NASA to Begin Space Station Medical Evacuation: Video and What to Know (nyt)
 - **Jan 19, 06:59 PM** - Sweden allocates $1.6B to build territorial air defense capability, $140M for space (breaking_defense)
+- **Jan 19, 07:34 PM** - China advances plans for dual solar system boundary missions (spacenews)
