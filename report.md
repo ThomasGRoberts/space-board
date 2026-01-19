@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 4 | 14 | 28 |
-| nyt | 0 | 2 | 13 | 27 |
+| nyt | 0 | 2 | 14 | 28 |
 | breaking_defense | 0 | 0 | 14 | 26 |
 
 # Shown Order
@@ -4966,3 +4966,4 @@
 - **Jan 19, 08:49 AM** - NASA to Begin Space Station Medical Evacuation: Video and What to Know (nyt)
 - **Jan 19, 09:24 AM** - China advances plans for dual solar system boundary missions (spacenews)
 - **Jan 19, 09:59 AM** - The state of play in military space (breaking_defense)
+- **Jan 19, 10:34 AM** - Highlights From NASA’s Medical Evacuation From the Space Station (nyt)
