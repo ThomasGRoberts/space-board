@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 4 | 14 | 28 |
 | nyt | 0 | 2 | 13 | 28 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -4974,3 +4974,4 @@
 - **Jan 19, 01:39 PM** - DARPA backs Diffraqtion to demo ‘quantum camera’ for space, Earth surveillance (breaking_defense)
 - **Jan 19, 02:14 PM** - NASA must act now to ensure U.S. leadership in space (spacenews)
 - **Jan 19, 02:49 PM** - Live Updates: Astronauts Head Home After Space Station Medical Evacuation (nyt)
+- **Jan 19, 03:24 PM** - Space Force taps Slingshot to build AI adversaries for orbital wargames (breaking_defense)
