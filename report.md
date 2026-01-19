@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 4 | 14 | 28 |
-| nyt | 0 | 2 | 14 | 28 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| nyt | 0 | 2 | 13 | 28 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -4956,3 +4956,4 @@
 - **Jan 19, 02:59 AM** - Space Force taps Slingshot to build AI adversaries for orbital wargames (breaking_defense)
 - **Jan 19, 03:35 AM** - NASA Begins Astronaut Space Station Medical Evacuation: What to Know (nyt)
 - **Jan 19, 04:09 AM** - CAS Space conducts first suborbital launch and capsule landing test (spacenews)
+- **Jan 19, 04:44 AM** - Sweden allocates $1.6B to build territorial air defense capability, $140M for space (breaking_defense)
