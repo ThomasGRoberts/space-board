@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 8 | 14 | 28 |
+| spacenews | 6 | 8 | 15 | 28 |
 | nyt | 0 | 0 | 12 | 25 |
 | breaking_defense | 1 | 1 | 12 | 26 |
 
@@ -4939,3 +4939,4 @@
 - **Jan 20, 06:25 PM** - The state of play in military space (breaking_defense)
 - **Jan 20, 07:16 PM** - FY26 defense bill boosts budget by $8B, largely bypassing last-minute $28B munitions request (breaking_defense)
 - **Jan 20, 08:34 PM** - NASA to Begin Space Station Medical Evacuation: What to Know (nyt)
+- **Jan 20, 09:09 PM** - China hit by dual launch failures as Long March 3B and Ceres-2 debut mission fail (spacenews)
