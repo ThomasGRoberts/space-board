@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 8 | 15 | 29 |
-| nyt | 0 | 0 | 13 | 26 |
-| breaking_defense | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 12 | 26 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -4936,3 +4936,4 @@
 - **Jan 20, 04:29 PM** - Space Force taps Slingshot to build AI adversaries for orbital wargames (breaking_defense)
 - **Jan 20, 05:09 PM** - Live Updates: Astronauts Head Home After Space Station Medical Evacuation (nyt)
 - **Jan 20, 05:49 PM** - Sodern to produce star trackers in Colorado (spacenews)
+- **Jan 20, 06:25 PM** - The state of play in military space (breaking_defense)
