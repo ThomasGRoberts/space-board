@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-20T00:04:29.827771+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9bd4d6b3838260beaa2af45948558203",
+    "trigger_count": 0,
+    "current_item_id": "be5fcdbc370582902ca65d4a9d7bcdbb",
     "data": [
         {
             "id": "4da9c472aac7ade68e182eeeda97598f",
@@ -10500,6 +10500,18 @@
             "fetched_datetime": "2026-01-20T19:16:13.124647Z",
             "shown_at": [
                 "2026-01-20T19:16:14.523870Z"
+            ]
+        },
+        {
+            "id": "be5fcdbc370582902ca65d4a9d7bcdbb",
+            "source": "spacenews",
+            "text": "Space Foundation to Host Innovate Space: Finance Forum in Partnership With Texas Space Commission",
+            "source_link": "https://spacenews.com/space-foundation-to-host-innovate-space-finance-forum-in-partnership-with-texas-space-commission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-20T21:44:18.096655Z",
+            "shown_at": [
+                "2026-01-20T21:44:19.247745Z"
             ]
         }
     ]
