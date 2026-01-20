@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-20T00:04:29.827771+00:00",
-    "trigger_count": 6,
-    "current_item_id": "19ca1cb9a1860d4bb2f442eacb620269",
+    "trigger_count": 0,
+    "current_item_id": "a35b0eab041b85c25f16c9d5185904cf",
     "data": [
         {
             "id": "4da9c472aac7ade68e182eeeda97598f",
@@ -10446,6 +10446,27 @@
             "shown_at": [
                 "2026-01-20T12:59:03.282680Z"
             ]
+        },
+        {
+            "id": "a35b0eab041b85c25f16c9d5185904cf",
+            "source": "spacenews",
+            "text": "Free warnings, better catalogs: the real fix for space safety",
+            "source_link": "https://spacenews.com/free-warnings-better-catalogs-the-real-fix-for-space-safety/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-20T14:09:11.203152Z",
+            "shown_at": [
+                "2026-01-20T14:09:12.309223Z"
+            ]
+        },
+        {
+            "id": "756748e0fec7f3f45e49d63126cb2454",
+            "source": "spacenews",
+            "text": "Washington Harbour expands space investments with ground services acquisition",
+            "source_link": "https://spacenews.com/washington-harbour-expands-space-investments-with-ground-services-acquisition/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-01-20T14:09:11.203209Z"
         }
     ]
 }
