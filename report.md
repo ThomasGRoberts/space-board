@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 4 | 14 | 28 |
 | nyt | 0 | 0 | 13 | 27 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -4909,3 +4909,4 @@
 - **Jan 20, 12:19 AM** - The state of play in military space (breaking_defense)
 - **Jan 20, 12:54 AM** - Arianespace to begin Amazon Leo launches in February (spacenews)
 - **Jan 20, 01:29 AM** - Artemis II Moon Mission: NASA Begins Rolling Giant Rocket to Launchpad (nyt)
+- **Jan 20, 02:04 AM** - Space Force taps Slingshot to build AI adversaries for orbital wargames (breaking_defense)
