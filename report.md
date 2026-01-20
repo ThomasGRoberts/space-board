@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 4 | 14 | 28 |
 | nyt | 0 | 0 | 13 | 27 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -4921,3 +4921,4 @@
 - **Jan 20, 07:29 AM** - DARPA backs Diffraqtion to demo ‘quantum camera’ for space, Earth surveillance (breaking_defense)
 - **Jan 20, 08:05 AM** - AO-Resistant Material Boosts VLEO Satellite Longevity (spacenews)
 - **Jan 20, 08:44 AM** - Highlights From NASA’s Medical Evacuation From the Space Station (nyt)
+- **Jan 20, 09:19 AM** - Space Force taps Slingshot to build AI adversaries for orbital wargames (breaking_defense)
