@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 4 | 14 | 28 |
 | nyt | 0 | 0 | 13 | 27 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -4915,3 +4915,4 @@
 - **Jan 20, 03:49 AM** - Space Force taps Slingshot to build AI adversaries for orbital wargames (breaking_defense)
 - **Jan 20, 04:28 AM** - Arianespace to begin Amazon Leo launches in February (spacenews)
 - **Jan 20, 05:05 AM** - NASA Begins Astronaut Space Station Medical Evacuation: What to Know (nyt)
+- **Jan 20, 05:44 AM** - The state of play in military space (breaking_defense)
