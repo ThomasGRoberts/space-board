@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 14 | 28 |
-| nyt | 0 | 0 | 13 | 27 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -4928,3 +4928,4 @@
 - **Jan 20, 11:49 AM** - Gilmour Space raises $146 million (spacenews)
 - **Jan 20, 12:24 PM** - Highlights From NASA’s Medical Evacuation From the Space Station (nyt)
 - **Jan 20, 12:59 PM** - Sodern to produce star trackers in Colorado (spacenews)
+- **Jan 20, 01:34 PM** - DARPA backs Diffraqtion to demo ‘quantum camera’ for space, Earth surveillance (breaking_defense)
