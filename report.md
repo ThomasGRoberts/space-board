@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 8 | 15 | 28 |
+| spacenews | 6 | 8 | 16 | 29 |
 | nyt | 0 | 0 | 13 | 26 |
 | breaking_defense | 0 | 0 | 12 | 26 |
 
@@ -4935,3 +4935,4 @@
 - **Jan 20, 03:54 PM** - Commercial Space Federation (CSF) Welcomes 3 New Associate Members (spacenews)
 - **Jan 20, 04:29 PM** - Space Force taps Slingshot to build AI adversaries for orbital wargames (breaking_defense)
 - **Jan 20, 05:09 PM** - Live Updates: Astronauts Head Home After Space Station Medical Evacuation (nyt)
+- **Jan 20, 05:49 PM** - Sodern to produce star trackers in Colorado (spacenews)
