@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 9 | 15 | 29 |
-| nyt | 0 | 0 | 11 | 25 |
+| spacenews | 8 | 10 | 16 | 30 |
+| nyt | 0 | 0 | 11 | 24 |
 | breaking_defense | 1 | 1 | 12 | 25 |
 
 # Shown Order
@@ -4941,3 +4941,4 @@
 - **Jan 20, 08:34 PM** - NASA to Begin Space Station Medical Evacuation: What to Know (nyt)
 - **Jan 20, 09:09 PM** - China hit by dual launch failures as Long March 3B and Ceres-2 debut mission fail (spacenews)
 - **Jan 20, 09:44 PM** - Space Foundation to Host Innovate Space: Finance Forum in Partnership With Texas Space Commission (spacenews)
+- **Jan 20, 10:19 PM** - Defense appropriations bill for 2026 funds Space Force at $26 billion, presses Pentagon on Golden Dome (spacenews)

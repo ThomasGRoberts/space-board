@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-20T00:04:29.827771+00:00",
-    "trigger_count": 6,
-    "current_item_id": "be5fcdbc370582902ca65d4a9d7bcdbb",
+    "trigger_count": 0,
+    "current_item_id": "46940464e3b87c4fd6d9ab5695a1c87b",
     "data": [
         {
             "id": "4da9c472aac7ade68e182eeeda97598f",
@@ -10512,6 +10512,18 @@
             "fetched_datetime": "2026-01-20T21:44:18.096655Z",
             "shown_at": [
                 "2026-01-20T21:44:19.247745Z"
+            ]
+        },
+        {
+            "id": "46940464e3b87c4fd6d9ab5695a1c87b",
+            "source": "spacenews",
+            "text": "Defense appropriations bill for 2026 funds Space Force at $26 billion, presses Pentagon on Golden Dome",
+            "source_link": "https://spacenews.com/defense-appropriations-bill-for-2026-funds-space-force-at-26-billion-presses-pentagon-on-golden-dome/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-20T22:19:29.431614Z",
+            "shown_at": [
+                "2026-01-20T22:19:30.600518Z"
             ]
         }
     ]
