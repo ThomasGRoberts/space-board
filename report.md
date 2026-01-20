@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 8 | 15 | 29 |
 | nyt | 0 | 0 | 12 | 25 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 1 | 1 | 13 | 27 |
 
 # Shown Order
 
@@ -4937,3 +4937,4 @@
 - **Jan 20, 05:09 PM** - Live Updates: Astronauts Head Home After Space Station Medical Evacuation (nyt)
 - **Jan 20, 05:49 PM** - Sodern to produce star trackers in Colorado (spacenews)
 - **Jan 20, 06:25 PM** - The state of play in military space (breaking_defense)
+- **Jan 20, 07:16 PM** - FY26 defense bill boosts budget by $8B, largely bypassing last-minute $28B munitions request (breaking_defense)

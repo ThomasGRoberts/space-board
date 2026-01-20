@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-20T00:04:29.827771+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5b52b37af44156f5b3f80a9f6b7c7e92",
+    "trigger_count": 0,
+    "current_item_id": "cc18d066b418b9d9e18665c327e0219f",
     "data": [
         {
             "id": "4da9c472aac7ade68e182eeeda97598f",
@@ -10486,6 +10486,18 @@
             "fetched_datetime": "2026-01-20T15:54:20.019817Z",
             "shown_at": [
                 "2026-01-20T15:54:21.271307Z"
+            ]
+        },
+        {
+            "id": "cc18d066b418b9d9e18665c327e0219f",
+            "source": "breaking_defense",
+            "text": "FY26 defense bill boosts budget by $8B, largely bypassing last-minute $28B munitions request",
+            "source_link": "https://breakingdefense.com/2026/01/fy26-defense-bill-boosts-budget-by-8b-largely-bypassing-last-minute-28b-munitions-request/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-20T19:16:13.124647Z",
+            "shown_at": [
+                "2026-01-20T19:16:14.523870Z"
             ]
         }
     ]
