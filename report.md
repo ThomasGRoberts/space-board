@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 9 | 15 | 30 |
+| spacenews | 6 | 9 | 15 | 29 |
 | nyt | 0 | 0 | 13 | 26 |
-| breaking_defense | 0 | 0 | 12 | 25 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -4933,3 +4933,4 @@
 - **Jan 20, 02:44 PM** - Washington Harbour expands space investments with ground services acquisition (spacenews)
 - **Jan 20, 03:19 PM** - Artemis II Moon Mission: NASA Completes Giant Rocket’s Slow Ride to Launchpad (nyt)
 - **Jan 20, 03:54 PM** - Commercial Space Federation (CSF) Welcomes 3 New Associate Members (spacenews)
+- **Jan 20, 04:29 PM** - Space Force taps Slingshot to build AI adversaries for orbital wargames (breaking_defense)
