@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-20T00:04:29.827771+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a35b0eab041b85c25f16c9d5185904cf",
+    "trigger_count": 0,
+    "current_item_id": "756748e0fec7f3f45e49d63126cb2454",
     "data": [
         {
             "id": "4da9c472aac7ade68e182eeeda97598f",
@@ -10464,9 +10464,12 @@
             "source": "spacenews",
             "text": "Washington Harbour expands space investments with ground services acquisition",
             "source_link": "https://spacenews.com/washington-harbour-expands-space-investments-with-ground-services-acquisition/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-01-20T14:09:11.203209Z"
+            "fetched_datetime": "2026-01-20T14:09:11.203209Z",
+            "shown_at": [
+                "2026-01-20T14:44:23.717786Z"
+            ]
         }
     ]
 }
