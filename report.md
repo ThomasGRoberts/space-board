@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 4 | 14 | 28 |
 | nyt | 0 | 0 | 13 | 27 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -4918,3 +4918,4 @@
 - **Jan 20, 05:44 AM** - The state of play in military space (breaking_defense)
 - **Jan 20, 06:19 AM** - Congressional hearing highlights military’s reliance on NOAA weather data (spacenews)
 - **Jan 20, 06:54 AM** - NASA to Begin Space Station Medical Evacuation: Video and What to Know (nyt)
+- **Jan 20, 07:29 AM** - DARPA backs Diffraqtion to demo ‘quantum camera’ for space, Earth surveillance (breaking_defense)
