@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 4 | 13 | 27 |
+| spacenews | 3 | 4 | 14 | 28 |
 | nyt | 0 | 0 | 13 | 27 |
 | breaking_defense | 0 | 0 | 14 | 27 |
 
@@ -4922,3 +4922,4 @@
 - **Jan 20, 08:05 AM** - AO-Resistant Material Boosts VLEO Satellite Longevity (spacenews)
 - **Jan 20, 08:44 AM** - Highlights From NASA’s Medical Evacuation From the Space Station (nyt)
 - **Jan 20, 09:19 AM** - Space Force taps Slingshot to build AI adversaries for orbital wargames (breaking_defense)
+- **Jan 20, 09:54 AM** - NASA must act now to ensure U.S. leadership in space (spacenews)
