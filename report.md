@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 4 | 13 | 27 |
+| spacenews | 3 | 4 | 14 | 28 |
 | nyt | 0 | 0 | 13 | 27 |
 | breaking_defense | 0 | 0 | 14 | 27 |
 
@@ -4916,3 +4916,4 @@
 - **Jan 20, 04:28 AM** - Arianespace to begin Amazon Leo launches in February (spacenews)
 - **Jan 20, 05:05 AM** - NASA Begins Astronaut Space Station Medical Evacuation: What to Know (nyt)
 - **Jan 20, 05:44 AM** - The state of play in military space (breaking_defense)
+- **Jan 20, 06:19 AM** - Congressional hearing highlights military’s reliance on NOAA weather data (spacenews)
