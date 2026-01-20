@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 4 | 14 | 28 |
 | nyt | 0 | 1 | 13 | 27 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -4906,3 +4906,4 @@
 - **Jan 19, 10:34 PM** - DARPA backs Diffraqtion to demo ‘quantum camera’ for space, Earth surveillance (breaking_defense)
 - **Jan 19, 11:09 PM** - Damaged DSN antenna out of service until May (spacenews)
 - **Jan 19, 11:44 PM** - Artemis II Moon Mission: NASA Begins Rolling Giant Rocket to Launchpad (nyt)
+- **Jan 20, 12:19 AM** - The state of play in military space (breaking_defense)
