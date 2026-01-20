@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-20T00:04:29.827771+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b2e4bb93746677df9e3a2b3829b8dd3f",
+    "trigger_count": 0,
+    "current_item_id": "3548c11f1fc1e9ae714ffb0591bc1827",
     "data": [
         {
             "id": "4da9c472aac7ade68e182eeeda97598f",
@@ -10432,6 +10432,18 @@
             "fetched_datetime": "2026-01-20T11:49:07.456296Z",
             "shown_at": [
                 "2026-01-20T11:49:08.521925Z"
+            ]
+        },
+        {
+            "id": "3548c11f1fc1e9ae714ffb0591bc1827",
+            "source": "spacenews",
+            "text": "Sodern to produce star trackers in Colorado",
+            "source_link": "https://spacenews.com/sodern-to-produce-star-trackers-in-colorado/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-20T12:59:02.275932Z",
+            "shown_at": [
+                "2026-01-20T12:59:03.282680Z"
             ]
         }
     ]
