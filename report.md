@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 4 | 13 | 27 |
+| spacenews | 4 | 5 | 14 | 28 |
 | nyt | 0 | 0 | 13 | 27 |
 | breaking_defense | 0 | 0 | 14 | 27 |
 
@@ -4925,3 +4925,4 @@
 - **Jan 20, 09:54 AM** - NASA must act now to ensure U.S. leadership in space (spacenews)
 - **Jan 20, 10:29 AM** - NASA to Begin Space Station Medical Evacuation: Video and What to Know (nyt)
 - **Jan 20, 11:05 AM** - DARPA backs Diffraqtion to demo ‘quantum camera’ for space, Earth surveillance (breaking_defense)
+- **Jan 20, 11:49 AM** - Gilmour Space raises $146 million (spacenews)

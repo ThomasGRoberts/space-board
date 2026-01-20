@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-20T00:04:29.827771+00:00",
-    "trigger_count": 6,
-    "current_item_id": "19ca1cb9a1860d4bb2f442eacb620269",
+    "trigger_count": 0,
+    "current_item_id": "4917ce5e132888679e22513965fc45ad",
     "data": [
         {
             "id": "4da9c472aac7ade68e182eeeda97598f",
@@ -10419,6 +10419,18 @@
                 "2025-09-02T13:43:51.376909Z",
                 "2025-09-02T17:19:54.074400Z",
                 "2025-09-02T20:19:36.304981Z"
+            ]
+        },
+        {
+            "id": "4917ce5e132888679e22513965fc45ad",
+            "source": "spacenews",
+            "text": "Gilmour Space raises $146 million",
+            "source_link": "https://spacenews.com/gilmour-space-raises-146-million/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-20T11:49:07.456296Z",
+            "shown_at": [
+                "2026-01-20T11:49:08.521925Z"
             ]
         }
     ]
