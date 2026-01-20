@@ -1,9 +1,45 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-01-19T00:04:25.652764+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2026-01-20T00:04:29.827771+00:00",
+    "trigger_count": 4,
     "current_item_id": "d93c9040893828a7ada33a56d8d6c8c8",
     "data": [
+        {
+            "id": "4da9c472aac7ade68e182eeeda97598f",
+            "source": "spacenews",
+            "text": "Damaged DSN antenna out of service until May",
+            "source_link": "https://spacenews.com/damaged-dsn-antenna-out-of-service-until-may/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-19T23:08:59.576587Z",
+            "shown_at": [
+                "2026-01-19T23:09:00.605993Z"
+            ]
+        },
+        {
+            "id": "bfa6725ec1633dadd9ddd45644c90660",
+            "source": "spacenews",
+            "text": "NASA must act now to ensure U.S. leadership in space",
+            "source_link": "https://spacenews.com/nasa-must-act-now-to-ensure-u-s-leadership-in-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-19T14:14:33.995267Z",
+            "shown_at": [
+                "2026-01-19T14:14:34.835441Z"
+            ]
+        },
+        {
+            "id": "0bdd163bf8c0e028d4fea5a0b64f3d9f",
+            "source": "spacenews",
+            "text": "Space Force ends ‘Resilient GPS’ satellite program",
+            "source_link": "https://spacenews.com/space-force-ends-resilient-gps-satellite-program/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-19T13:04:42.582639Z",
+            "shown_at": [
+                "2026-01-19T13:04:43.387481Z"
+            ]
+        },
         {
             "id": "dd3324befa370d908df50a05349bdf7a",
             "source": "spacenews",
@@ -10364,158 +10400,6 @@
                 "2025-09-02T13:43:51.376909Z",
                 "2025-09-02T17:19:54.074400Z",
                 "2025-09-02T20:19:36.304981Z"
-            ]
-        },
-        {
-            "id": "9edb9e5de8772e0644ee08c97db2886a",
-            "source": "nyt",
-            "text": "Rainer Weiss, Who Gave a Nod to Einstein and the Big Bang, Dies at 92",
-            "source_link": "https://www.nytimes.com/2025/08/26/science/rainer-weiss-dead.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-08-26T20:13:54.195932Z",
-            "shown_at": [
-                "2025-08-26T20:13:55.237417Z",
-                "2025-08-27T03:59:43.488613Z",
-                "2025-08-27T05:25:35.987017Z",
-                "2025-08-27T08:26:01.164517Z",
-                "2025-08-28T01:55:41.665810Z",
-                "2025-08-28T10:11:35.552540Z",
-                "2025-08-28T23:49:38.694830Z",
-                "2025-08-29T01:17:42.261738Z",
-                "2025-08-29T02:18:00.459829Z",
-                "2025-08-29T05:22:04.775941Z",
-                "2025-08-29T08:17:57.440557Z",
-                "2025-08-29T10:13:55.685686Z",
-                "2025-08-29T13:23:42.584959Z",
-                "2025-08-29T19:02:08.877070Z",
-                "2025-08-29T21:59:36.496835Z",
-                "2025-08-30T07:07:36.563704Z",
-                "2025-08-30T10:03:50.919277Z",
-                "2025-08-30T12:57:37.885722Z",
-                "2025-08-31T01:32:16.122592Z",
-                "2025-08-31T16:03:46.917847Z",
-                "2025-09-01T03:09:40.256972Z",
-                "2025-09-01T06:05:53.319119Z",
-                "2025-09-01T19:29:28.517059Z",
-                "2025-09-01T20:59:40.672054Z",
-                "2025-09-02T05:59:52.790238Z",
-                "2025-09-02T07:13:41.756904Z",
-                "2025-09-02T12:17:54.594389Z",
-                "2025-09-02T12:59:44.105275Z",
-                "2025-09-02T14:32:09.578953Z",
-                "2025-09-02T15:23:44.626596Z",
-                "2025-09-02T18:24:50.302067Z",
-                "2025-09-02T19:33:48.321941Z"
-            ]
-        },
-        {
-            "id": "ac254ef1f73f5c1d8de43cf66331cd16",
-            "source": "nyt",
-            "text": "SpaceX Scrubs 10th Starship Test Launch Because of Lousy Weather",
-            "source_link": "https://www.nytimes.com/2025/08/25/science/spacex-starship-launch.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-08-26T00:25:47.965469Z",
-            "shown_at": [
-                "2025-08-26T00:25:48.961139Z",
-                "2025-08-26T15:11:40.484951Z",
-                "2025-08-26T16:41:53.530056Z",
-                "2025-08-27T00:33:45.133791Z",
-                "2025-08-27T02:29:55.552703Z",
-                "2025-08-27T16:47:40.523953Z",
-                "2025-08-27T21:17:39.443860Z",
-                "2025-08-27T22:02:10.516247Z",
-                "2025-08-27T23:35:49.127208Z",
-                "2025-08-29T00:47:53.155224Z",
-                "2025-08-29T02:47:38.771889Z",
-                "2025-08-29T14:41:54.326850Z",
-                "2025-08-30T06:22:17.665230Z",
-                "2025-08-30T09:19:36.217697Z",
-                "2025-08-30T21:51:28.540938Z",
-                "2025-08-31T05:59:53.480881Z",
-                "2025-08-31T16:48:00.717856Z",
-                "2025-08-31T21:12:04.929313Z",
-                "2025-08-31T21:53:34.153012Z",
-                "2025-09-01T00:07:49.668919Z",
-                "2025-09-01T01:35:37.706055Z",
-                "2025-09-01T02:25:40.360998Z",
-                "2025-09-01T07:42:04.943231Z",
-                "2025-09-01T09:57:42.664094Z",
-                "2025-09-01T10:44:07.539395Z",
-                "2025-09-01T17:19:29.679160Z"
-            ]
-        },
-        {
-            "id": "1b6162b83020ed93f63a8b354b627e94",
-            "source": "nyt",
-            "text": "SpaceX Starship 10th Test Launch: How and When to Watch the Flight",
-            "source_link": "https://www.nytimes.com/2025/08/25/science/spacex-starship-launch.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-08-25T21:07:53.661477Z",
-            "shown_at": [
-                "2025-08-25T21:07:54.280437Z",
-                "2025-08-26T01:07:35.401711Z",
-                "2025-08-26T01:51:52.081572Z",
-                "2025-08-26T15:53:45.398334Z",
-                "2025-08-27T16:05:48.617329Z",
-                "2025-08-27T18:17:22.611186Z",
-                "2025-08-28T00:18:07.639351Z",
-                "2025-08-28T16:16:09.996113Z",
-                "2025-08-28T19:43:44.274152Z",
-                "2025-08-28T23:21:54.816893Z",
-                "2025-08-29T07:01:58.271555Z",
-                "2025-08-29T17:07:55.250832Z",
-                "2025-08-30T00:15:46.826156Z",
-                "2025-08-30T04:51:40.166091Z",
-                "2025-08-30T17:23:29.987197Z",
-                "2025-08-31T10:02:29.415687Z",
-                "2025-08-31T10:59:53.546151Z",
-                "2025-08-31T23:21:55.913931Z",
-                "2025-09-01T00:52:02.818762Z",
-                "2025-09-01T04:34:13.535379Z",
-                "2025-09-01T12:13:46.272206Z",
-                "2025-09-01T15:11:42.963249Z",
-                "2025-09-01T15:53:55.143168Z",
-                "2025-09-01T16:35:44.599395Z",
-                "2025-09-01T20:13:55.920205Z"
-            ]
-        },
-        {
-            "id": "0bdd163bf8c0e028d4fea5a0b64f3d9f",
-            "source": "spacenews",
-            "text": "Space Force ends ‘Resilient GPS’ satellite program",
-            "source_link": "https://spacenews.com/space-force-ends-resilient-gps-satellite-program/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-19T13:04:42.582639Z",
-            "shown_at": [
-                "2026-01-19T13:04:43.387481Z"
-            ]
-        },
-        {
-            "id": "bfa6725ec1633dadd9ddd45644c90660",
-            "source": "spacenews",
-            "text": "NASA must act now to ensure U.S. leadership in space",
-            "source_link": "https://spacenews.com/nasa-must-act-now-to-ensure-u-s-leadership-in-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-19T14:14:33.995267Z",
-            "shown_at": [
-                "2026-01-19T14:14:34.835441Z"
-            ]
-        },
-        {
-            "id": "4da9c472aac7ade68e182eeeda97598f",
-            "source": "spacenews",
-            "text": "Damaged DSN antenna out of service until May",
-            "source_link": "https://spacenews.com/damaged-dsn-antenna-out-of-service-until-may/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-19T23:08:59.576587Z",
-            "shown_at": [
-                "2026-01-19T23:09:00.605993Z"
             ]
         }
     ]
