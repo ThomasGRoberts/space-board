@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 10 | 16 | 30 |
-| breaking_defense | 1 | 1 | 12 | 25 |
+| spacenews | 7 | 10 | 16 | 29 |
+| breaking_defense | 1 | 1 | 12 | 26 |
 | nyt | 0 | 0 | 11 | 24 |
 
 # Shown Order
@@ -4442,3 +4442,4 @@
 - **Jan 21, 09:24 AM** - Space Force taps Slingshot to build AI adversaries for orbital wargames (breaking_defense)
 - **Jan 21, 09:59 AM** - Artemis II Moon Mission: NASA Begins Rolling Giant Rocket to Launchpad (nyt)
 - **Jan 21, 10:34 AM** - China hit by dual launch failures as Long March 3B and Ceres-2 debut mission fail (spacenews)
+- **Jan 21, 11:09 AM** - The state of play in military space (breaking_defense)
