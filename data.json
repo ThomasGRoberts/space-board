@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-21T00:04:18.043343+00:00",
-    "trigger_count": 6,
-    "current_item_id": "478ad848b1a75ed690e4406f9af71772",
+    "trigger_count": 0,
+    "current_item_id": "2e1506519a29223aa9634d8bd637df1b",
     "data": [
         {
             "id": "46940464e3b87c4fd6d9ab5695a1c87b",
@@ -10017,6 +10017,18 @@
             "fetched_datetime": "2026-01-21T18:59:13.367439Z",
             "shown_at": [
                 "2026-01-21T18:59:14.118367Z"
+            ]
+        },
+        {
+            "id": "2e1506519a29223aa9634d8bd637df1b",
+            "source": "breaking_defense",
+            "text": "France taps Loft Orbital to develop nation’s first ‘sovereign’ SAR satellite",
+            "source_link": "https://breakingdefense.com/2026/01/france-taps-loft-orbital-to-develop-nations-first-sovereign-sar-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-21T20:14:23.185812Z",
+            "shown_at": [
+                "2026-01-21T20:14:24.330252Z"
             ]
         }
     ]

@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 17 | 31 |
-| breaking_defense | 1 | 2 | 11 | 24 |
+| breaking_defense | 2 | 3 | 12 | 25 |
 | nyt | 0 | 0 | 12 | 23 |
 
 # Shown Order
@@ -4457,3 +4457,4 @@
 - **Jan 21, 06:20 PM** - FY26 defense bill boosts budget by $8B, largely bypassing last-minute $28B munitions request (breaking_defense)
 - **Jan 21, 06:59 PM** - The Exploration Company in talks to acquire Orbex (spacenews)
 - **Jan 21, 07:34 PM** - NASA Astronauts Return to Earth After Medical Evacuation From International Space Station (nyt)
+- **Jan 21, 08:14 PM** - France taps Loft Orbital to develop nation’s first ‘sovereign’ SAR satellite (breaking_defense)
