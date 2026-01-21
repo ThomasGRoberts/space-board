@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 10 | 16 | 30 |
-| breaking_defense | 1 | 1 | 11 | 25 |
+| breaking_defense | 1 | 1 | 12 | 26 |
 | nyt | 0 | 0 | 11 | 24 |
 
 # Shown Order
@@ -4424,3 +4424,4 @@
 - **Jan 20, 10:54 PM** - The state of play in military space (breaking_defense)
 - **Jan 20, 11:29 PM** - NASA Begins Astronaut Space Station Medical Evacuation: What to Know (nyt)
 - **Jan 21, 12:04 AM** - When allies can’t count on U.S. ISR, commercial space becomes strategic (spacenews)
+- **Jan 21, 12:39 AM** - FY26 defense bill boosts budget by $8B, largely bypassing last-minute $28B munitions request (breaking_defense)
