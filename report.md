@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 10 | 15 | 29 |
 | breaking_defense | 1 | 1 | 12 | 26 |
-| nyt | 0 | 0 | 11 | 24 |
+| nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -4431,3 +4431,4 @@
 - **Jan 21, 02:59 AM** - Highlights From NASA’s Medical Evacuation From the Space Station (nyt)
 - **Jan 21, 03:34 AM** - TrustPoint demonstrates non-GPS navigation for LEO satellites (spacenews)
 - **Jan 21, 04:09 AM** - FY26 defense bill boosts budget by $8B, largely bypassing last-minute $28B munitions request (breaking_defense)
+- **Jan 21, 04:44 AM** - NASA to Begin Space Station Medical Evacuation: What to Know (nyt)
