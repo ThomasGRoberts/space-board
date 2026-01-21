@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 16 | 31 |
+| spacenews | 7 | 14 | 17 | 32 |
 | breaking_defense | 2 | 3 | 12 | 24 |
 | nyt | 0 | 0 | 12 | 23 |
 
@@ -4460,3 +4460,4 @@
 - **Jan 21, 08:14 PM** - France taps Loft Orbital to develop nation’s first ‘sovereign’ SAR satellite (breaking_defense)
 - **Jan 21, 08:54 PM** - NASA must act now to ensure U.S. leadership in space (spacenews)
 - **Jan 21, 09:29 PM** - Live Updates: Astronauts Head Home After Space Station Medical Evacuation (nyt)
+- **Jan 21, 10:04 PM** - Blue Origin plans bespoke high-speed Starlink rival (spacenews)
