@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 10 | 16 | 29 |
 | breaking_defense | 1 | 1 | 12 | 26 |
-| nyt | 0 | 0 | 11 | 24 |
+| nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -4443,3 +4443,4 @@
 - **Jan 21, 09:59 AM** - Artemis II Moon Mission: NASA Begins Rolling Giant Rocket to Launchpad (nyt)
 - **Jan 21, 10:34 AM** - China hit by dual launch failures as Long March 3B and Ceres-2 debut mission fail (spacenews)
 - **Jan 21, 11:09 AM** - The state of play in military space (breaking_defense)
+- **Jan 21, 11:44 AM** - NASA to Begin Space Station Medical Evacuation: What to Know (nyt)
