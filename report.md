@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 17 | 31 |
-| breaking_defense | 1 | 1 | 11 | 24 |
+| breaking_defense | 2 | 2 | 12 | 25 |
 | nyt | 0 | 0 | 11 | 24 |
 
 # Shown Order
@@ -4448,3 +4448,4 @@
 - **Jan 21, 12:54 PM** - NASA to end support for planetary science groups (spacenews)
 - **Jan 21, 01:29 PM** - U.S. vulnerable to Russian escalation in space, new report warns (spacenews)
 - **Jan 21, 02:04 PM** - Starfish Space wins SDA contract to deorbit satellites (spacenews)
+- **Jan 21, 02:39 PM** - SDA taps Starfish for first-of-its-kind satellite disposal service (breaking_defense)

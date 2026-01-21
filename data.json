@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-21T00:04:18.043343+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e319b5907572b2e9335a4808b2d6b354",
+    "trigger_count": 0,
+    "current_item_id": "f16779edd49beffc72d4749ba6da60db",
     "data": [
         {
             "id": "46940464e3b87c4fd6d9ab5695a1c87b",
@@ -9985,6 +9985,18 @@
             "shown": false,
             "type": "news",
             "fetched_datetime": "2026-01-21T14:04:31.374369Z"
+        },
+        {
+            "id": "f16779edd49beffc72d4749ba6da60db",
+            "source": "breaking_defense",
+            "text": "SDA taps Starfish for first-of-its-kind satellite disposal service",
+            "source_link": "https://breakingdefense.com/2026/01/sda-taps-starfish-for-first-of-its-kind-satellite-disposal-service/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-21T14:39:13.237824Z",
+            "shown_at": [
+                "2026-01-21T14:39:14.542478Z"
+            ]
         }
     ]
 }
