@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 10 | 15 | 29 |
+| spacenews | 7 | 10 | 16 | 30 |
 | breaking_defense | 1 | 1 | 12 | 25 |
 | nyt | 0 | 0 | 11 | 25 |
 
@@ -4429,3 +4429,4 @@
 - **Jan 21, 01:49 AM** - NASA pessimistic about odds of recovering MAVEN (spacenews)
 - **Jan 21, 02:24 AM** - The state of play in military space (breaking_defense)
 - **Jan 21, 02:59 AM** - Highlights From NASA’s Medical Evacuation From the Space Station (nyt)
+- **Jan 21, 03:34 AM** - TrustPoint demonstrates non-GPS navigation for LEO satellites (spacenews)
