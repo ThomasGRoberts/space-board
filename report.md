@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 16 | 31 |
+| spacenews | 6 | 12 | 17 | 32 |
 | breaking_defense | 2 | 2 | 12 | 25 |
 | nyt | 0 | 0 | 11 | 23 |
 
@@ -4452,3 +4452,4 @@
 - **Jan 21, 03:14 PM** - Accelerating digital transformation is the keystone to deterring space war (spacenews)
 - **Jan 21, 03:49 PM** - NASA Begins Astronaut Space Station Medical Evacuation: What to Know (nyt)
 - **Jan 21, 04:24 PM** - The state of play in military space (breaking_defense)
+- **Jan 21, 04:59 PM** - Gilmour Space raises $146 million (spacenews)
