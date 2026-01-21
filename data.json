@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-21T00:04:18.043343+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5fd9142f1051148028b9a387c2445f8b",
+    "trigger_count": 0,
+    "current_item_id": "1d13db3f3b1f7cad971735cb0b84cd27",
     "data": [
         {
             "id": "46940464e3b87c4fd6d9ab5695a1c87b",
@@ -9939,6 +9939,18 @@
                 "2025-09-11T05:20:01.274151Z",
                 "2025-09-11T19:32:01.060670Z",
                 "2025-09-12T13:53:56.391514Z"
+            ]
+        },
+        {
+            "id": "1d13db3f3b1f7cad971735cb0b84cd27",
+            "source": "spacenews",
+            "text": "NASA to end support for planetary science groups",
+            "source_link": "https://spacenews.com/nasa-to-end-support-for-planetary-science-groups/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-21T12:54:21.117748Z",
+            "shown_at": [
+                "2026-01-21T12:54:22.337282Z"
             ]
         }
     ]
