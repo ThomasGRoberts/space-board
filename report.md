@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 17 | 32 |
 | breaking_defense | 1 | 2 | 11 | 24 |
-| nyt | 0 | 0 | 11 | 23 |
+| nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
 
@@ -4456,3 +4456,4 @@
 - **Jan 21, 05:39 PM** - NASA to Begin Space Station Medical Evacuation: What to Know (nyt)
 - **Jan 21, 06:20 PM** - FY26 defense bill boosts budget by $8B, largely bypassing last-minute $28B munitions request (breaking_defense)
 - **Jan 21, 06:59 PM** - The Exploration Company in talks to acquire Orbex (spacenews)
+- **Jan 21, 07:34 PM** - NASA Astronauts Return to Earth After Medical Evacuation From International Space Station (nyt)
