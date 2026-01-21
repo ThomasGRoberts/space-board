@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 10 | 16 | 30 |
-| breaking_defense | 1 | 1 | 11 | 25 |
+| breaking_defense | 1 | 1 | 12 | 26 |
 | nyt | 0 | 0 | 11 | 24 |
 
 # Shown Order
@@ -4436,3 +4436,4 @@
 - **Jan 21, 05:54 AM** - FY26 defense bill boosts budget by $8B, largely bypassing last-minute $28B munitions request (breaking_defense)
 - **Jan 21, 06:29 AM** - Live Updates: Astronauts Head Home After Space Station Medical Evacuation (nyt)
 - **Jan 21, 07:04 AM** - Sodern to produce star trackers in Colorado (spacenews)
+- **Jan 21, 07:39 AM** - Space Force taps Slingshot to build AI adversaries for orbital wargames (breaking_defense)
