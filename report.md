@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 10 | 15 | 29 |
 | breaking_defense | 1 | 1 | 12 | 26 |
-| nyt | 0 | 0 | 11 | 24 |
+| nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -4437,3 +4437,4 @@
 - **Jan 21, 06:29 AM** - Live Updates: Astronauts Head Home After Space Station Medical Evacuation (nyt)
 - **Jan 21, 07:04 AM** - Sodern to produce star trackers in Colorado (spacenews)
 - **Jan 21, 07:39 AM** - Space Force taps Slingshot to build AI adversaries for orbital wargames (breaking_defense)
+- **Jan 21, 08:14 AM** - Highlights From NASA’s Medical Evacuation From the Space Station (nyt)
