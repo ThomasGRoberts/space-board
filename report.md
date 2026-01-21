@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 14 | 16 | 32 |
-| breaking_defense | 2 | 3 | 12 | 23 |
+| breaking_defense | 2 | 3 | 13 | 24 |
 | nyt | 0 | 0 | 12 | 23 |
 
 # Shown Order
@@ -4461,3 +4461,4 @@
 - **Jan 21, 08:54 PM** - NASA must act now to ensure U.S. leadership in space (spacenews)
 - **Jan 21, 09:29 PM** - Live Updates: Astronauts Head Home After Space Station Medical Evacuation (nyt)
 - **Jan 21, 10:04 PM** - Blue Origin plans bespoke high-speed Starlink rival (spacenews)
+- **Jan 21, 10:39 PM** - The state of play in military space (breaking_defense)
