@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 17 | 32 |
 | breaking_defense | 2 | 2 | 12 | 24 |
-| nyt | 0 | 0 | 10 | 23 |
+| nyt | 0 | 0 | 11 | 24 |
 
 # Shown Order
 
@@ -4450,3 +4450,4 @@
 - **Jan 21, 02:04 PM** - Starfish Space wins SDA contract to deorbit satellites (spacenews)
 - **Jan 21, 02:39 PM** - SDA taps Starfish for first-of-its-kind satellite disposal service (breaking_defense)
 - **Jan 21, 03:14 PM** - Accelerating digital transformation is the keystone to deterring space war (spacenews)
+- **Jan 21, 03:49 PM** - NASA Begins Astronaut Space Station Medical Evacuation: What to Know (nyt)
