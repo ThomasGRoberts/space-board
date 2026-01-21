@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 10 | 15 | 29 |
 | breaking_defense | 1 | 1 | 12 | 26 |
-| nyt | 0 | 0 | 11 | 24 |
+| nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -4428,3 +4428,4 @@
 - **Jan 21, 01:14 AM** - NASA Begins Astronaut Space Station Medical Evacuation: What to Know (nyt)
 - **Jan 21, 01:49 AM** - NASA pessimistic about odds of recovering MAVEN (spacenews)
 - **Jan 21, 02:24 AM** - The state of play in military space (breaking_defense)
+- **Jan 21, 02:59 AM** - Highlights From NASA’s Medical Evacuation From the Space Station (nyt)
