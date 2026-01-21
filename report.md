@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 10 | 16 | 30 |
+| spacenews | 7 | 11 | 17 | 31 |
 | breaking_defense | 1 | 1 | 12 | 25 |
 | nyt | 0 | 0 | 11 | 24 |
 
@@ -4446,3 +4446,4 @@
 - **Jan 21, 11:44 AM** - NASA to Begin Space Station Medical Evacuation: What to Know (nyt)
 - **Jan 21, 12:19 PM** - Indian startup Aule Space enters satellite servicing market (spacenews)
 - **Jan 21, 12:54 PM** - NASA to end support for planetary science groups (spacenews)
+- **Jan 21, 01:29 PM** - U.S. vulnerable to Russian escalation in space, new report warns (spacenews)

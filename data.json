@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-21T00:04:18.043343+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1d13db3f3b1f7cad971735cb0b84cd27",
+    "trigger_count": 0,
+    "current_item_id": "627ecc591978037b7e5b0efce33d12f4",
     "data": [
         {
             "id": "46940464e3b87c4fd6d9ab5695a1c87b",
@@ -9951,6 +9951,18 @@
             "fetched_datetime": "2026-01-21T12:54:21.117748Z",
             "shown_at": [
                 "2026-01-21T12:54:22.337282Z"
+            ]
+        },
+        {
+            "id": "627ecc591978037b7e5b0efce33d12f4",
+            "source": "spacenews",
+            "text": "U.S. vulnerable to Russian escalation in space, new report warns",
+            "source_link": "https://spacenews.com/u-s-vulnerable-to-russian-escalation-in-space-new-report-warns/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-21T13:29:07.910498Z",
+            "shown_at": [
+                "2026-01-21T13:29:09.211783Z"
             ]
         }
     ]
