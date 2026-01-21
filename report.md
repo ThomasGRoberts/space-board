@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 11 | 17 | 31 |
+| spacenews | 9 | 13 | 18 | 32 |
 | breaking_defense | 1 | 1 | 11 | 24 |
 | nyt | 0 | 0 | 11 | 24 |
 
@@ -4447,3 +4447,4 @@
 - **Jan 21, 12:19 PM** - Indian startup Aule Space enters satellite servicing market (spacenews)
 - **Jan 21, 12:54 PM** - NASA to end support for planetary science groups (spacenews)
 - **Jan 21, 01:29 PM** - U.S. vulnerable to Russian escalation in space, new report warns (spacenews)
+- **Jan 21, 02:04 PM** - Starfish Space wins SDA contract to deorbit satellites (spacenews)

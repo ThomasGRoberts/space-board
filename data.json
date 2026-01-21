@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-21T00:04:18.043343+00:00",
-    "trigger_count": 6,
-    "current_item_id": "627ecc591978037b7e5b0efce33d12f4",
+    "trigger_count": 0,
+    "current_item_id": "e319b5907572b2e9335a4808b2d6b354",
     "data": [
         {
             "id": "46940464e3b87c4fd6d9ab5695a1c87b",
@@ -9964,6 +9964,27 @@
             "shown_at": [
                 "2026-01-21T13:29:09.211783Z"
             ]
+        },
+        {
+            "id": "e319b5907572b2e9335a4808b2d6b354",
+            "source": "spacenews",
+            "text": "Starfish Space wins SDA contract to deorbit satellites",
+            "source_link": "https://spacenews.com/starfish-space-wins-sda-contract-to-deorbit-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-21T14:04:31.374311Z",
+            "shown_at": [
+                "2026-01-21T14:04:32.483666Z"
+            ]
+        },
+        {
+            "id": "68894dc62a8c5bed31fdda577e1d9f5d",
+            "source": "spacenews",
+            "text": "Accelerating digital transformation is the keystone to deterring space war",
+            "source_link": "https://spacenews.com/accelerating-digital-transformation-is-the-keystone-to-deterring-space-war/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-01-21T14:04:31.374369Z"
         }
     ]
 }
