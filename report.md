@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 16 | 31 |
-| breaking_defense | 2 | 2 | 12 | 24 |
+| breaking_defense | 2 | 2 | 13 | 25 |
 | nyt | 0 | 0 | 11 | 24 |
 
 # Shown Order
@@ -4454,3 +4454,4 @@
 - **Jan 21, 04:24 PM** - The state of play in military space (breaking_defense)
 - **Jan 21, 04:59 PM** - Gilmour Space raises $146 million (spacenews)
 - **Jan 21, 05:39 PM** - NASA to Begin Space Station Medical Evacuation: What to Know (nyt)
+- **Jan 21, 06:20 PM** - FY26 defense bill boosts budget by $8B, largely bypassing last-minute $28B munitions request (breaking_defense)
