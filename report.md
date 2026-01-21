@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 16 | 31 |
+| spacenews | 6 | 13 | 17 | 32 |
 | breaking_defense | 2 | 3 | 12 | 24 |
 | nyt | 0 | 0 | 12 | 23 |
 
@@ -4463,3 +4463,4 @@
 - **Jan 21, 10:04 PM** - Blue Origin plans bespoke high-speed Starlink rival (spacenews)
 - **Jan 21, 10:39 PM** - The state of play in military space (breaking_defense)
 - **Jan 21, 11:14 PM** - NASA Astronauts Return to Earth After Medical Evacuation From International Space Station (nyt)
+- **Jan 21, 11:54 PM** - TrustPoint demonstrates non-GPS navigation for LEO satellites (spacenews)
