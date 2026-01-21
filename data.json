@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-21T00:04:18.043343+00:00",
-    "trigger_count": 6,
-    "current_item_id": "cc18d066b418b9d9e18665c327e0219f",
+    "trigger_count": 0,
+    "current_item_id": "43ab4c98e3dcd4312ea0d835dbb405a0",
     "data": [
         {
             "id": "46940464e3b87c4fd6d9ab5695a1c87b",
@@ -10004,6 +10004,18 @@
             "fetched_datetime": "2026-01-21T14:39:13.237824Z",
             "shown_at": [
                 "2026-01-21T14:39:14.542478Z"
+            ]
+        },
+        {
+            "id": "43ab4c98e3dcd4312ea0d835dbb405a0",
+            "source": "spacenews",
+            "text": "The Exploration Company in talks to acquire Orbex",
+            "source_link": "https://spacenews.com/the-exploration-company-in-talks-to-acquire-orbex/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-21T18:59:13.367439Z",
+            "shown_at": [
+                "2026-01-21T18:59:14.118367Z"
             ]
         }
     ]
