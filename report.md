@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 16 | 31 |
 | breaking_defense | 2 | 3 | 12 | 24 |
-| nyt | 0 | 0 | 12 | 23 |
+| nyt | 0 | 0 | 13 | 24 |
 
 # Shown Order
 
@@ -4462,3 +4462,4 @@
 - **Jan 21, 09:29 PM** - Live Updates: Astronauts Head Home After Space Station Medical Evacuation (nyt)
 - **Jan 21, 10:04 PM** - Blue Origin plans bespoke high-speed Starlink rival (spacenews)
 - **Jan 21, 10:39 PM** - The state of play in military space (breaking_defense)
+- **Jan 21, 11:14 PM** - NASA Astronauts Return to Earth After Medical Evacuation From International Space Station (nyt)
