@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-21T00:04:18.043343+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f16779edd49beffc72d4749ba6da60db",
+    "trigger_count": 0,
+    "current_item_id": "68894dc62a8c5bed31fdda577e1d9f5d",
     "data": [
         {
             "id": "46940464e3b87c4fd6d9ab5695a1c87b",
@@ -9982,9 +9982,12 @@
             "source": "spacenews",
             "text": "Accelerating digital transformation is the keystone to deterring space war",
             "source_link": "https://spacenews.com/accelerating-digital-transformation-is-the-keystone-to-deterring-space-war/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-01-21T14:04:31.374369Z"
+            "fetched_datetime": "2026-01-21T14:04:31.374369Z",
+            "shown_at": [
+                "2026-01-21T15:14:10.411435Z"
+            ]
         },
         {
             "id": "f16779edd49beffc72d4749ba6da60db",
