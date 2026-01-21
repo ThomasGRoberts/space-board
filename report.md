@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 10 | 15 | 29 |
+| spacenews | 7 | 10 | 16 | 30 |
 | breaking_defense | 1 | 1 | 12 | 25 |
-| nyt | 0 | 0 | 11 | 25 |
+| nyt | 0 | 0 | 11 | 24 |
 
 # Shown Order
 
@@ -4426,3 +4426,4 @@
 - **Jan 21, 12:04 AM** - When allies can’t count on U.S. ISR, commercial space becomes strategic (spacenews)
 - **Jan 21, 12:39 AM** - FY26 defense bill boosts budget by $8B, largely bypassing last-minute $28B munitions request (breaking_defense)
 - **Jan 21, 01:14 AM** - NASA Begins Astronaut Space Station Medical Evacuation: What to Know (nyt)
+- **Jan 21, 01:49 AM** - NASA pessimistic about odds of recovering MAVEN (spacenews)
