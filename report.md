@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 16 | 31 |
-| breaking_defense | 2 | 2 | 12 | 24 |
+| breaking_defense | 2 | 2 | 13 | 25 |
 | nyt | 0 | 0 | 11 | 24 |
 
 # Shown Order
@@ -4451,3 +4451,4 @@
 - **Jan 21, 02:39 PM** - SDA taps Starfish for first-of-its-kind satellite disposal service (breaking_defense)
 - **Jan 21, 03:14 PM** - Accelerating digital transformation is the keystone to deterring space war (spacenews)
 - **Jan 21, 03:49 PM** - NASA Begins Astronaut Space Station Medical Evacuation: What to Know (nyt)
+- **Jan 21, 04:24 PM** - The state of play in military space (breaking_defense)
