@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 14 | 14 | 32 |
+| spacenews | 5 | 12 | 14 | 31 |
 | breaking_defense | 2 | 3 | 13 | 24 |
-| nyt | 0 | 0 | 12 | 23 |
+| nyt | 0 | 0 | 13 | 24 |
 
 # Shown Order
 
@@ -4275,3 +4275,4 @@
 - **Jan 22, 12:14 PM** - Highlights From NASA’s Medical Evacuation From the Space Station (nyt)
 - **Jan 22, 12:49 PM** - France taps Loft Orbital to develop nation’s first ‘sovereign’ SAR satellite (breaking_defense)
 - **Jan 22, 01:25 PM** - Tomorrow.io unveils DeepSky: constellation of large satellites and instruments (spacenews)
+- **Jan 22, 02:14 PM** - Artemis II Moon Mission: NASA Begins Rolling Giant Rocket to Launchpad (nyt)
