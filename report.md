@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 16 | 31 |
 | breaking_defense | 2 | 3 | 12 | 24 |
-| nyt | 0 | 0 | 12 | 23 |
+| nyt | 0 | 0 | 13 | 24 |
 
 # Shown Order
 
@@ -4253,3 +4253,4 @@
 - **Jan 21, 11:14 PM** - NASA Astronauts Return to Earth After Medical Evacuation From International Space Station (nyt)
 - **Jan 21, 11:54 PM** - TrustPoint demonstrates non-GPS navigation for LEO satellites (spacenews)
 - **Jan 22, 12:29 AM** - SDA taps Starfish for first-of-its-kind satellite disposal service (breaking_defense)
+- **Jan 22, 01:04 AM** - Highlights From NASA’s Medical Evacuation From the Space Station (nyt)
