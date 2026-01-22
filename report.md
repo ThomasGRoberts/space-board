@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 14 | 31 |
+| spacenews | 7 | 14 | 15 | 32 |
 | breaking_defense | 1 | 3 | 12 | 24 |
 | nyt | 0 | 0 | 13 | 24 |
 
@@ -4283,3 +4283,4 @@
 - **Jan 22, 05:24 PM** - FY26 defense bill boosts budget by $8B, largely bypassing last-minute $28B munitions request (breaking_defense)
 - **Jan 22, 05:59 PM** - L3Harris to supply imager for Korean geostationary weather satellite (spacenews)
 - **Jan 22, 06:34 PM** - Artemis II Moon Mission: NASA Begins Rolling Giant Rocket to Launchpad (nyt)
+- **Jan 22, 07:09 PM** - Rocket Lab launches first satellites for Open Cosmos constellation (spacenews)

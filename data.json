@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-22T00:04:43.406208+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d93c9040893828a7ada33a56d8d6c8c8",
+    "trigger_count": 0,
+    "current_item_id": "974f12812a8e803917229e1bd1126bb0",
     "data": [
         {
             "id": "0bffeb886021c68de775e369ae9eb7c7",
@@ -9832,6 +9832,18 @@
             "fetched_datetime": "2026-01-22T17:59:16.545527Z",
             "shown_at": [
                 "2026-01-22T17:59:17.622061Z"
+            ]
+        },
+        {
+            "id": "974f12812a8e803917229e1bd1126bb0",
+            "source": "spacenews",
+            "text": "Rocket Lab launches first satellites for Open Cosmos constellation",
+            "source_link": "https://spacenews.com/rocket-lab-launches-first-satellites-for-open-cosmos-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-22T19:09:32.943094Z",
+            "shown_at": [
+                "2026-01-22T19:09:34.154825Z"
             ]
         }
     ]
