@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-22T00:04:43.406208+00:00",
-    "trigger_count": 6,
-    "current_item_id": "974f12812a8e803917229e1bd1126bb0",
+    "trigger_count": 0,
+    "current_item_id": "ed4688bf6cc4f6c5a671d44693bb588c",
     "data": [
         {
             "id": "0bffeb886021c68de775e369ae9eb7c7",
@@ -9844,6 +9844,18 @@
             "fetched_datetime": "2026-01-22T19:09:32.943094Z",
             "shown_at": [
                 "2026-01-22T19:09:34.154825Z"
+            ]
+        },
+        {
+            "id": "ed4688bf6cc4f6c5a671d44693bb588c",
+            "source": "nyt",
+            "text": "Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands",
+            "source_link": "https://www.nytimes.com/2026/01/22/science/space-junk-seismographs.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-22T19:44:01.614876Z",
+            "shown_at": [
+                "2026-01-22T19:44:02.770818Z"
             ]
         }
     ]

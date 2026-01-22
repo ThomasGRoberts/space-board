@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 15 | 32 |
 | breaking_defense | 1 | 2 | 12 | 23 |
-| nyt | 0 | 0 | 12 | 24 |
+| nyt | 1 | 1 | 13 | 25 |
 
 # Shown Order
 
@@ -4284,3 +4284,4 @@
 - **Jan 22, 05:59 PM** - L3Harris to supply imager for Korean geostationary weather satellite (spacenews)
 - **Jan 22, 06:34 PM** - Artemis II Moon Mission: NASA Begins Rolling Giant Rocket to Launchpad (nyt)
 - **Jan 22, 07:09 PM** - Rocket Lab launches first satellites for Open Cosmos constellation (spacenews)
+- **Jan 22, 07:44 PM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
