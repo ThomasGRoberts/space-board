@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 15 | 31 |
 | breaking_defense | 1 | 3 | 12 | 24 |
-| nyt | 0 | 0 | 12 | 23 |
+| nyt | 0 | 0 | 13 | 24 |
 
 # Shown Order
 
@@ -4279,3 +4279,4 @@
 - **Jan 22, 03:04 PM** - The state of play in military space (breaking_defense)
 - **Jan 22, 03:39 PM** - White House resubmits NASA deputy administrator nominee (spacenews)
 - **Jan 22, 04:14 PM** - Azimut Group invests  $128 million in D-Orbit (spacenews)
+- **Jan 22, 04:49 PM** - Artemis II Moon Mission: NASA Begins Rolling Giant Rocket to Launchpad (nyt)
