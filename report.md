@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 16 | 32 |
 | breaking_defense | 2 | 3 | 12 | 24 |
-| nyt | 0 | 0 | 12 | 23 |
+| nyt | 0 | 0 | 13 | 24 |
 
 # Shown Order
 
@@ -4262,3 +4262,4 @@
 - **Jan 22, 04:34 AM** - Highlights From NASA’s Medical Evacuation From the Space Station (nyt)
 - **Jan 22, 05:09 AM** - Blue Origin plans bespoke high-speed Starlink rival (spacenews)
 - **Jan 22, 05:44 AM** - The state of play in military space (breaking_defense)
+- **Jan 22, 06:19 AM** - Artemis II Moon Mission: NASA Begins Rolling Giant Rocket to Launchpad (nyt)
