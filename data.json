@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-22T00:04:43.406208+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f16779edd49beffc72d4749ba6da60db",
+    "trigger_count": 0,
+    "current_item_id": "e16652eac414e0e3efb23490e11aadbd",
     "data": [
         {
             "id": "0bffeb886021c68de775e369ae9eb7c7",
@@ -9858,6 +9858,36 @@
             "shown_at": [
                 "2026-01-22T19:44:02.770818Z"
             ]
+        },
+        {
+            "id": "e16652eac414e0e3efb23490e11aadbd",
+            "source": "spacenews",
+            "text": "Open Cosmos advances broadband plans with spectrum once held by Rivada",
+            "source_link": "https://spacenews.com/open-cosmos-advances-broadband-plans-with-spectrum-once-held-by-rivada/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-22T20:54:18.739369Z",
+            "shown_at": [
+                "2026-01-22T20:54:19.764138Z"
+            ]
+        },
+        {
+            "id": "e9aa841a7a5045728dc326be9b3e5073",
+            "source": "spacenews",
+            "text": "Blue Origin flies first New Shepard mission of 2026",
+            "source_link": "https://spacenews.com/blue-origin-flies-first-new-shepard-mission-of-2026/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-01-22T20:54:18.739442Z"
+        },
+        {
+            "id": "a0334a794efc367107eb0bb88d4528b3",
+            "source": "spacenews",
+            "text": "As satellites become targets, Space Force plans for growth and a broader role",
+            "source_link": "https://spacenews.com/as-satellites-become-targets-space-force-plans-for-growth-and-a-broader-role/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-01-22T20:54:18.739488Z"
         }
     ]
 }

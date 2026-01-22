@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 14 | 15 | 32 |
+| spacenews | 10 | 17 | 16 | 33 |
 | breaking_defense | 0 | 2 | 12 | 24 |
 | nyt | 1 | 1 | 13 | 24 |
 
@@ -4286,3 +4286,4 @@
 - **Jan 22, 07:09 PM** - Rocket Lab launches first satellites for Open Cosmos constellation (spacenews)
 - **Jan 22, 07:44 PM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
 - **Jan 22, 08:19 PM** - SDA taps Starfish for first-of-its-kind satellite disposal service (breaking_defense)
+- **Jan 22, 08:54 PM** - Open Cosmos advances broadband plans with spectrum once held by Rivada (spacenews)
