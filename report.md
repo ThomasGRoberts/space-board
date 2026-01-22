@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 13 | 15 | 31 |
+| spacenews | 8 | 14 | 16 | 32 |
 | breaking_defense | 2 | 3 | 13 | 25 |
 | nyt | 0 | 0 | 12 | 23 |
 
@@ -4274,3 +4274,4 @@
 - **Jan 22, 11:39 AM** - Rocket Lab suffers Neutron testing setback (spacenews)
 - **Jan 22, 12:14 PM** - Highlights From NASA’s Medical Evacuation From the Space Station (nyt)
 - **Jan 22, 12:49 PM** - France taps Loft Orbital to develop nation’s first ‘sovereign’ SAR satellite (breaking_defense)
+- **Jan 22, 01:25 PM** - Tomorrow.io unveils DeepSky: constellation of large satellites and instruments (spacenews)
