@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 15 | 16 | 32 |
+| spacenews | 10 | 16 | 17 | 33 |
 | breaking_defense | 0 | 2 | 11 | 23 |
 | nyt | 1 | 1 | 12 | 25 |
 
@@ -4290,3 +4290,4 @@
 - **Jan 22, 09:29 PM** - Blue Origin flies first New Shepard mission of 2026 (spacenews)
 - **Jan 22, 10:09 PM** - As satellites become targets, Space Force plans for growth and a broader role (spacenews)
 - **Jan 22, 10:44 PM** - Artemis II Moon Mission: NASA Begins Rolling Giant Rocket to Launchpad (nyt)
+- **Jan 22, 11:24 PM** - Damaged Shenzhou-20 spacecraft survives reentry, Shenzhou-23 arrives at spaceport (spacenews)

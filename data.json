@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-22T00:04:43.406208+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d93c9040893828a7ada33a56d8d6c8c8",
+    "trigger_count": 0,
+    "current_item_id": "7f9cc9252b5f3df6d34a9e54ae6df995",
     "data": [
         {
             "id": "0bffeb886021c68de775e369ae9eb7c7",
@@ -9894,6 +9894,18 @@
             "fetched_datetime": "2026-01-22T20:54:18.739488Z",
             "shown_at": [
                 "2026-01-22T22:09:29.045195Z"
+            ]
+        },
+        {
+            "id": "7f9cc9252b5f3df6d34a9e54ae6df995",
+            "source": "spacenews",
+            "text": "Damaged Shenzhou-20 spacecraft survives reentry, Shenzhou-23 arrives at spaceport",
+            "source_link": "https://spacenews.com/damaged-shenzhou-20-spacecraft-survives-reentry-shenzhou-23-arrives-at-spaceport/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-22T23:24:18.932751Z",
+            "shown_at": [
+                "2026-01-22T23:24:20.118776Z"
             ]
         }
     ]
