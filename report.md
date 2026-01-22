@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 16 | 32 |
-| breaking_defense | 2 | 3 | 12 | 23 |
+| breaking_defense | 2 | 3 | 13 | 24 |
 | nyt | 0 | 0 | 12 | 23 |
 
 # Shown Order
@@ -4255,3 +4255,4 @@
 - **Jan 22, 12:29 AM** - SDA taps Starfish for first-of-its-kind satellite disposal service (breaking_defense)
 - **Jan 22, 01:04 AM** - Highlights From NASA’s Medical Evacuation From the Space Station (nyt)
 - **Jan 22, 01:39 AM** - Sodern to produce star trackers in Colorado (spacenews)
+- **Jan 22, 02:14 AM** - The state of play in military space (breaking_defense)
