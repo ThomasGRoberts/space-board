@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 17 | 32 |
 | breaking_defense | 2 | 3 | 12 | 24 |
-| nyt | 0 | 0 | 11 | 23 |
+| nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
 
@@ -4272,3 +4272,4 @@
 - **Jan 22, 10:29 AM** - D-Orbit raises $128 million in first tranche of Series D funding (spacenews)
 - **Jan 22, 11:04 AM** - SDA taps Starfish for first-of-its-kind satellite disposal service (breaking_defense)
 - **Jan 22, 11:39 AM** - Rocket Lab suffers Neutron testing setback (spacenews)
+- **Jan 22, 12:14 PM** - Highlights From NASA’s Medical Evacuation From the Space Station (nyt)
