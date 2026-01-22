@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 13 | 30 |
+| spacenews | 5 | 12 | 14 | 31 |
 | breaking_defense | 1 | 3 | 13 | 25 |
 | nyt | 0 | 0 | 13 | 23 |
 
@@ -4277,3 +4277,4 @@
 - **Jan 22, 01:25 PM** - Tomorrow.io unveils DeepSky: constellation of large satellites and instruments (spacenews)
 - **Jan 22, 02:14 PM** - Artemis II Moon Mission: NASA Begins Rolling Giant Rocket to Launchpad (nyt)
 - **Jan 22, 03:04 PM** - The state of play in military space (breaking_defense)
+- **Jan 22, 03:39 PM** - White House resubmits NASA deputy administrator nominee (spacenews)
