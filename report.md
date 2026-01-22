@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 16 | 32 |
+| spacenews | 6 | 13 | 16 | 31 |
 | breaking_defense | 2 | 3 | 12 | 24 |
-| nyt | 0 | 0 | 12 | 23 |
+| nyt | 0 | 0 | 13 | 24 |
 
 # Shown Order
 
@@ -4265,3 +4265,4 @@
 - **Jan 22, 06:19 AM** - Artemis II Moon Mission: NASA Begins Rolling Giant Rocket to Launchpad (nyt)
 - **Jan 22, 06:54 AM** - China advances plans for dual solar system boundary missions (spacenews)
 - **Jan 22, 07:29 AM** - The state of play in military space (breaking_defense)
+- **Jan 22, 08:09 AM** - NASA Astronauts Return to Earth After Medical Evacuation From International Space Station (nyt)
