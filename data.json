@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-22T00:04:43.406208+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e16652eac414e0e3efb23490e11aadbd",
+    "trigger_count": 0,
+    "current_item_id": "e9aa841a7a5045728dc326be9b3e5073",
     "data": [
         {
             "id": "0bffeb886021c68de775e369ae9eb7c7",
@@ -9876,9 +9876,12 @@
             "source": "spacenews",
             "text": "Blue Origin flies first New Shepard mission of 2026",
             "source_link": "https://spacenews.com/blue-origin-flies-first-new-shepard-mission-of-2026/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-01-22T20:54:18.739442Z"
+            "fetched_datetime": "2026-01-22T20:54:18.739442Z",
+            "shown_at": [
+                "2026-01-22T21:29:41.462845Z"
+            ]
         },
         {
             "id": "a0334a794efc367107eb0bb88d4528b3",
