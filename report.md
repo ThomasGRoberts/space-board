@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 14 | 30 |
-| breaking_defense | 1 | 3 | 12 | 24 |
+| breaking_defense | 1 | 3 | 13 | 25 |
 | nyt | 0 | 0 | 13 | 24 |
 
 # Shown Order
@@ -4276,3 +4276,4 @@
 - **Jan 22, 12:49 PM** - France taps Loft Orbital to develop nation’s first ‘sovereign’ SAR satellite (breaking_defense)
 - **Jan 22, 01:25 PM** - Tomorrow.io unveils DeepSky: constellation of large satellites and instruments (spacenews)
 - **Jan 22, 02:14 PM** - Artemis II Moon Mission: NASA Begins Rolling Giant Rocket to Launchpad (nyt)
+- **Jan 22, 03:04 PM** - The state of play in military space (breaking_defense)
