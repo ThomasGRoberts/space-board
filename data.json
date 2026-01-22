@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-22T00:04:43.406208+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c0fddacabb8faa0b6b8d8ccedb6cb9ef",
+    "trigger_count": 0,
+    "current_item_id": "b3c649c62f274310067f947625af4ce4",
     "data": [
         {
             "id": "0bffeb886021c68de775e369ae9eb7c7",
@@ -9805,6 +9805,18 @@
             "fetched_datetime": "2026-01-22T13:25:32.888892Z",
             "shown_at": [
                 "2026-01-22T13:25:34.065747Z"
+            ]
+        },
+        {
+            "id": "b3c649c62f274310067f947625af4ce4",
+            "source": "spacenews",
+            "text": "Azimut Group invests  $128 million in D-Orbit",
+            "source_link": "https://spacenews.com/d-orbit-raises-124-million-in-first-tranche-of-series-d-funding/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-22T16:14:21.152265Z",
+            "shown_at": [
+                "2026-01-22T16:14:22.609469Z"
             ]
         }
     ]
