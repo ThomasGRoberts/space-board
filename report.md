@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 16 | 32 |
-| breaking_defense | 2 | 3 | 12 | 23 |
+| breaking_defense | 2 | 3 | 13 | 24 |
 | nyt | 0 | 0 | 12 | 23 |
 
 # Shown Order
@@ -4258,3 +4258,4 @@
 - **Jan 22, 02:14 AM** - The state of play in military space (breaking_defense)
 - **Jan 22, 02:49 AM** - NASA Astronauts Return to Earth After Medical Evacuation From International Space Station (nyt)
 - **Jan 22, 03:24 AM** - Space Force ends ‘Resilient GPS’ satellite program (spacenews)
+- **Jan 22, 03:58 AM** - The state of play in military space (breaking_defense)
