@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-22T00:04:43.406208+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f16779edd49beffc72d4749ba6da60db",
+    "trigger_count": 0,
+    "current_item_id": "483ba0d416d11d16d33765c5a493cbfc",
     "data": [
         {
             "id": "0bffeb886021c68de775e369ae9eb7c7",
@@ -9776,6 +9776,18 @@
             "fetched_datetime": "2026-01-22T10:29:00.109948Z",
             "shown_at": [
                 "2026-01-22T10:29:00.862382Z"
+            ]
+        },
+        {
+            "id": "483ba0d416d11d16d33765c5a493cbfc",
+            "source": "spacenews",
+            "text": "Rocket Lab suffers Neutron testing setback",
+            "source_link": "https://spacenews.com/rocket-lab-suffers-neutron-testing-setback/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-22T11:39:04.806095Z",
+            "shown_at": [
+                "2026-01-22T11:39:06.347714Z"
             ]
         }
     ]

@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 14 | 16 | 32 |
+| spacenews | 8 | 15 | 17 | 33 |
 | breaking_defense | 2 | 3 | 12 | 24 |
 | nyt | 0 | 0 | 12 | 23 |
 
@@ -4271,3 +4271,4 @@
 - **Jan 22, 09:54 AM** - Highlights From NASA’s Medical Evacuation From the Space Station (nyt)
 - **Jan 22, 10:29 AM** - D-Orbit raises $128 million in first tranche of Series D funding (spacenews)
 - **Jan 22, 11:04 AM** - SDA taps Starfish for first-of-its-kind satellite disposal service (breaking_defense)
+- **Jan 22, 11:39 AM** - Rocket Lab suffers Neutron testing setback (spacenews)
