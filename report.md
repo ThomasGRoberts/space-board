@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 14 | 30 |
+| spacenews | 7 | 13 | 15 | 31 |
 | breaking_defense | 1 | 3 | 13 | 25 |
 | nyt | 0 | 0 | 12 | 23 |
 
@@ -4281,3 +4281,4 @@
 - **Jan 22, 04:14 PM** - Azimut Group invests  $128 million in D-Orbit (spacenews)
 - **Jan 22, 04:49 PM** - Artemis II Moon Mission: NASA Begins Rolling Giant Rocket to Launchpad (nyt)
 - **Jan 22, 05:24 PM** - FY26 defense bill boosts budget by $8B, largely bypassing last-minute $28B munitions request (breaking_defense)
+- **Jan 22, 05:59 PM** - L3Harris to supply imager for Korean geostationary weather satellite (spacenews)
