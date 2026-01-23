@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 17 | 19 | 32 |
+| spacenews | 12 | 17 | 18 | 32 |
 | nyt | 1 | 1 | 12 | 25 |
-| breaking_defense | 0 | 1 | 10 | 23 |
+| breaking_defense | 0 | 1 | 11 | 24 |
 
 # Shown Order
 
@@ -4002,3 +4002,4 @@
 - **Jan 23, 01:59 PM** - FY26 defense bill boosts budget by $8B, largely bypassing last-minute $28B munitions request (breaking_defense)
 - **Jan 23, 02:34 PM** - Artemis II Moon Mission: NASA Begins Rolling Giant Rocket to Launchpad (nyt)
 - **Jan 23, 03:09 PM** - Former astronaut joins Vast as Haven-1 moves into integration (spacenews)
+- **Jan 23, 03:44 PM** - SDA taps Starfish for first-of-its-kind satellite disposal service (breaking_defense)
