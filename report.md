@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 17 | 18 | 32 |
-| nyt | 1 | 1 | 11 | 24 |
+| spacenews | 10 | 17 | 17 | 32 |
+| nyt | 1 | 1 | 12 | 25 |
 | breaking_defense | 1 | 2 | 12 | 24 |
 
 # Shown Order
@@ -4008,3 +4008,4 @@
 - **Jan 23, 05:29 PM** - SDA taps Starfish for first-of-its-kind satellite disposal service (breaking_defense)
 - **Jan 23, 06:04 PM** - Space Beyond lines up 2027 SpaceX launch for low-cost memorial cubesat (spacenews)
 - **Jan 23, 06:39 PM** - Space Force leaders prep for FY27 budget jump, personnel increases (breaking_defense)
+- **Jan 23, 07:14 PM** - Artemis II Moon Mission: NASA Begins Rolling Giant Rocket to Launchpad (nyt)
