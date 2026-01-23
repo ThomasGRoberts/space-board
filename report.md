@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 18 | 17 | 34 |
-| nyt | 1 | 1 | 11 | 23 |
+| nyt | 1 | 1 | 12 | 24 |
 | breaking_defense | 0 | 2 | 11 | 23 |
 
 # Shown Order
@@ -3978,3 +3978,4 @@
 - **Jan 22, 11:59 PM** - Blue Origin to reuse New Glenn booster on next launch (spacenews)
 - **Jan 23, 12:34 AM** - Space Force’s acquisition arm races to rebuild contracting workforce after civilian cuts (spacenews)
 - **Jan 23, 01:09 AM** - FY26 defense bill boosts budget by $8B, largely bypassing last-minute $28B munitions request (breaking_defense)
+- **Jan 23, 01:44 AM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
