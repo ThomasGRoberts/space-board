@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 17 | 18 | 33 |
 | nyt | 0 | 1 | 11 | 24 |
-| breaking_defense | 1 | 1 | 12 | 23 |
+| breaking_defense | 1 | 1 | 12 | 24 |
 
 # Shown Order
 
@@ -4010,3 +4010,4 @@
 - **Jan 23, 06:39 PM** - Space Force leaders prep for FY27 budget jump, personnel increases (breaking_defense)
 - **Jan 23, 07:14 PM** - Artemis II Moon Mission: NASA Begins Rolling Giant Rocket to Launchpad (nyt)
 - **Jan 23, 07:49 PM** - Space Foundation to Host Innovate Space: Finance Forum in Partnership With Texas Space Commission (spacenews)
+- **Jan 23, 08:24 PM** - FY26 defense bill boosts budget by $8B, largely bypassing last-minute $28B munitions request (breaking_defense)
