@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 17 | 18 | 33 |
-| nyt | 0 | 1 | 11 | 24 |
+| spacenews | 7 | 17 | 17 | 32 |
+| nyt | 0 | 1 | 12 | 25 |
 | breaking_defense | 1 | 1 | 12 | 24 |
 
 # Shown Order
@@ -4011,3 +4011,4 @@
 - **Jan 23, 07:14 PM** - Artemis II Moon Mission: NASA Begins Rolling Giant Rocket to Launchpad (nyt)
 - **Jan 23, 07:49 PM** - Space Foundation to Host Innovate Space: Finance Forum in Partnership With Texas Space Commission (spacenews)
 - **Jan 23, 08:24 PM** - FY26 defense bill boosts budget by $8B, largely bypassing last-minute $28B munitions request (breaking_defense)
+- **Jan 23, 08:59 PM** - Artemis II Moon Mission: NASA Completes Giant Rocket’s Slow Ride to Launchpad (nyt)
