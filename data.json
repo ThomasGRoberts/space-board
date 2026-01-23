@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-23T00:04:36.137972+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f16779edd49beffc72d4749ba6da60db",
+    "trigger_count": 0,
+    "current_item_id": "2640c45caceb75722b8bbde4b50020bf",
     "data": [
         {
             "id": "f63aadcb8f657b9b17d9ce943b3c6353",
@@ -9544,6 +9544,18 @@
             "fetched_datetime": "2026-01-23T15:08:59.028434Z",
             "shown_at": [
                 "2026-01-23T15:09:00.062777Z"
+            ]
+        },
+        {
+            "id": "2640c45caceb75722b8bbde4b50020bf",
+            "source": "spacenews",
+            "text": "Space Beyond lines up 2027 SpaceX launch for low-cost memorial cubesat",
+            "source_link": "https://spacenews.com/space-beyond-lines-up-2027-spacex-launch-for-low-cost-memorial-cubesat/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-23T18:04:28.015006Z",
+            "shown_at": [
+                "2026-01-23T18:04:29.251423Z"
             ]
         }
     ]

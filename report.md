@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 17 | 18 | 32 |
+| spacenews | 11 | 18 | 18 | 33 |
 | nyt | 1 | 1 | 12 | 24 |
 | breaking_defense | 0 | 1 | 11 | 24 |
 
@@ -4006,3 +4006,4 @@
 - **Jan 23, 04:19 PM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
 - **Jan 23, 04:54 PM** - Rocket Lab launches first satellites for Open Cosmos constellation (spacenews)
 - **Jan 23, 05:29 PM** - SDA taps Starfish for first-of-its-kind satellite disposal service (breaking_defense)
+- **Jan 23, 06:04 PM** - Space Beyond lines up 2027 SpaceX launch for low-cost memorial cubesat (spacenews)
