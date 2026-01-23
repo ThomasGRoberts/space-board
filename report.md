@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 17 | 17 | 33 |
+| spacenews | 12 | 18 | 18 | 34 |
 | nyt | 1 | 1 | 12 | 24 |
 | breaking_defense | 0 | 2 | 10 | 23 |
 
@@ -3976,3 +3976,4 @@
 - **Jan 22, 10:44 PM** - Artemis II Moon Mission: NASA Begins Rolling Giant Rocket to Launchpad (nyt)
 - **Jan 22, 11:24 PM** - Damaged Shenzhou-20 spacecraft survives reentry, Shenzhou-23 arrives at spaceport (spacenews)
 - **Jan 22, 11:59 PM** - Blue Origin to reuse New Glenn booster on next launch (spacenews)
+- **Jan 23, 12:34 AM** - Space Force’s acquisition arm races to rebuild contracting workforce after civilian cuts (spacenews)
