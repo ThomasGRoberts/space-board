@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 16 | 16 | 32 |
-| nyt | 0 | 1 | 12 | 25 |
+| spacenews | 7 | 16 | 17 | 33 |
+| nyt | 0 | 1 | 12 | 24 |
 | breaking_defense | 1 | 1 | 13 | 24 |
 
 # Shown Order
@@ -4015,3 +4015,4 @@
 - **Jan 23, 09:34 PM** - China hit by dual launch failures as Long March 3B and Ceres-2 debut mission fail (spacenews)
 - **Jan 23, 10:09 PM** - Space Force leaders prep for FY27 budget jump, personnel increases (breaking_defense)
 - **Jan 23, 10:44 PM** - Artemis II Moon Mission: NASA Begins Rolling Giant Rocket to Launchpad (nyt)
+- **Jan 23, 11:19 PM** - Former astronaut joins Vast as Haven-1 moves into integration (spacenews)
