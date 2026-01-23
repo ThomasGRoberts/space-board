@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 18 | 18 | 34 |
 | nyt | 1 | 1 | 12 | 24 |
-| breaking_defense | 0 | 2 | 10 | 22 |
+| breaking_defense | 0 | 2 | 11 | 23 |
 
 # Shown Order
 
@@ -3995,3 +3995,4 @@
 - **Jan 23, 09:54 AM** - The state of play in military space (breaking_defense)
 - **Jan 23, 10:29 AM** - Artemis II Moon Mission: NASA Begins Rolling Giant Rocket to Launchpad (nyt)
 - **Jan 23, 11:04 AM** - Blue Origin flies first New Shepard mission of 2026 (spacenews)
+- **Jan 23, 11:39 AM** - SDA taps Starfish for first-of-its-kind satellite disposal service (breaking_defense)
