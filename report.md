@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 18 | 18 | 34 |
-| nyt | 1 | 1 | 11 | 23 |
+| spacenews | 12 | 18 | 17 | 34 |
+| nyt | 1 | 1 | 12 | 24 |
 | breaking_defense | 0 | 2 | 11 | 23 |
 
 # Shown Order
@@ -3984,3 +3984,4 @@
 - **Jan 23, 03:29 AM** - Artemis II Moon Mission: NASA Completes Giant Rocket’s Slow Ride to Launchpad (nyt)
 - **Jan 23, 04:04 AM** - Sodern to produce star trackers in Colorado (spacenews)
 - **Jan 23, 04:38 AM** - France taps Loft Orbital to develop nation’s first ‘sovereign’ SAR satellite (breaking_defense)
+- **Jan 23, 05:14 AM** - Artemis II Moon Mission: NASA Completes Giant Rocket’s Slow Ride to Launchpad (nyt)
