@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 18 | 18 | 34 |
-| nyt | 1 | 1 | 11 | 23 |
+| spacenews | 12 | 18 | 17 | 34 |
+| nyt | 1 | 1 | 12 | 24 |
 | breaking_defense | 0 | 2 | 11 | 23 |
 
 # Shown Order
@@ -3987,3 +3987,4 @@
 - **Jan 23, 05:14 AM** - Artemis II Moon Mission: NASA Completes Giant Rocket’s Slow Ride to Launchpad (nyt)
 - **Jan 23, 05:49 AM** - China hit by dual launch failures as Long March 3B and Ceres-2 debut mission fail (spacenews)
 - **Jan 23, 06:25 AM** - The state of play in military space (breaking_defense)
+- **Jan 23, 06:59 AM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
