@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 17 | 18 | 32 |
 | nyt | 1 | 1 | 12 | 25 |
-| breaking_defense | 0 | 1 | 11 | 23 |
+| breaking_defense | 0 | 1 | 11 | 24 |
 
 # Shown Order
 
@@ -4005,3 +4005,4 @@
 - **Jan 23, 03:44 PM** - SDA taps Starfish for first-of-its-kind satellite disposal service (breaking_defense)
 - **Jan 23, 04:19 PM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
 - **Jan 23, 04:54 PM** - Rocket Lab launches first satellites for Open Cosmos constellation (spacenews)
+- **Jan 23, 05:29 PM** - SDA taps Starfish for first-of-its-kind satellite disposal service (breaking_defense)
