@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 16 | 18 | 32 |
-| nyt | 1 | 1 | 11 | 24 |
+| nyt | 1 | 1 | 12 | 25 |
 | breaking_defense | 0 | 2 | 11 | 24 |
 
 # Shown Order
@@ -4000,3 +4000,4 @@
 - **Jan 23, 12:49 PM** - House appropriator sees ‘room for improvement’ in NASA funding for 2027 (spacenews)
 - **Jan 23, 01:24 PM** - Launch operators are the rocket fuel required to galvanize spaceports in Europe (spacenews)
 - **Jan 23, 01:59 PM** - FY26 defense bill boosts budget by $8B, largely bypassing last-minute $28B munitions request (breaking_defense)
+- **Jan 23, 02:34 PM** - Artemis II Moon Mission: NASA Begins Rolling Giant Rocket to Launchpad (nyt)
