@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-23T00:04:36.137972+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ed4688bf6cc4f6c5a671d44693bb588c",
+    "trigger_count": 0,
+    "current_item_id": "6b21044d3a2d567d34a735e08d486d35",
     "data": [
         {
             "id": "f63aadcb8f657b9b17d9ce943b3c6353",
@@ -9502,6 +9502,18 @@
             "fetched_datetime": "2026-01-23T00:34:30.930111Z",
             "shown_at": [
                 "2026-01-23T00:34:32.272955Z"
+            ]
+        },
+        {
+            "id": "6b21044d3a2d567d34a735e08d486d35",
+            "source": "spacenews",
+            "text": "House appropriator sees ‘room for improvement’ in NASA funding for 2027",
+            "source_link": "https://spacenews.com/house-appropriator-sees-room-for-improvement-in-nasa-funding-for-2027/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-23T12:49:00.430545Z",
+            "shown_at": [
+                "2026-01-23T12:49:01.546844Z"
             ]
         }
     ]

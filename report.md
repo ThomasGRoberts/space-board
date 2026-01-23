@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 18 | 17 | 33 |
+| spacenews | 11 | 19 | 18 | 34 |
 | nyt | 1 | 1 | 12 | 24 |
 | breaking_defense | 0 | 2 | 11 | 23 |
 
@@ -3997,3 +3997,4 @@
 - **Jan 23, 11:04 AM** - Blue Origin flies first New Shepard mission of 2026 (spacenews)
 - **Jan 23, 11:39 AM** - SDA taps Starfish for first-of-its-kind satellite disposal service (breaking_defense)
 - **Jan 23, 12:14 PM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
+- **Jan 23, 12:49 PM** - House appropriator sees ‘room for improvement’ in NASA funding for 2027 (spacenews)
