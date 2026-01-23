@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 18 | 18 | 33 |
+| spacenews | 12 | 19 | 19 | 34 |
 | nyt | 1 | 1 | 12 | 24 |
 | breaking_defense | 0 | 2 | 10 | 23 |
 
@@ -3998,3 +3998,4 @@
 - **Jan 23, 11:39 AM** - SDA taps Starfish for first-of-its-kind satellite disposal service (breaking_defense)
 - **Jan 23, 12:14 PM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
 - **Jan 23, 12:49 PM** - House appropriator sees ‘room for improvement’ in NASA funding for 2027 (spacenews)
+- **Jan 23, 01:24 PM** - Launch operators are the rocket fuel required to galvanize spaceports in Europe (spacenews)
