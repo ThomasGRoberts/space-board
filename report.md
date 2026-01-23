@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 18 | 17 | 33 |
+| spacenews | 11 | 18 | 18 | 34 |
 | nyt | 1 | 1 | 12 | 24 |
 | breaking_defense | 0 | 2 | 11 | 23 |
 
@@ -3994,3 +3994,4 @@
 - **Jan 23, 09:19 AM** - Open Cosmos advances broadband plans with spectrum once held by Rivada (spacenews)
 - **Jan 23, 09:54 AM** - The state of play in military space (breaking_defense)
 - **Jan 23, 10:29 AM** - Artemis II Moon Mission: NASA Begins Rolling Giant Rocket to Launchpad (nyt)
+- **Jan 23, 11:04 AM** - Blue Origin flies first New Shepard mission of 2026 (spacenews)
