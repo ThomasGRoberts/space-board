@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 1 | 14 | 24 |
+| breaking_defense | 1 | 1 | 14 | 25 |
 | spacenews | 1 | 13 | 14 | 32 |
 | nyt | 0 | 1 | 13 | 25 |
 
@@ -4009,3 +4009,4 @@
 - **Jan 24, 02:04 PM** - France taps Loft Orbital to develop nation’s first ‘sovereign’ SAR satellite (breaking_defense)
 - **Jan 24, 02:39 PM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
 - **Jan 24, 03:14 PM** - NASA must act now to ensure U.S. leadership in space (spacenews)
+- **Jan 24, 03:48 PM** - SDA taps Starfish for first-of-its-kind satellite disposal service (breaking_defense)
