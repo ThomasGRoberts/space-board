@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 1 | 14 | 25 |
+| breaking_defense | 1 | 1 | 14 | 24 |
 | spacenews | 4 | 16 | 15 | 32 |
-| nyt | 0 | 1 | 12 | 24 |
+| nyt | 0 | 1 | 13 | 25 |
 
 # Shown Order
 
@@ -3992,3 +3992,4 @@
 - **Jan 24, 03:59 AM** - Artemis II Moon Mission: NASA Begins Rolling Giant Rocket to Launchpad (nyt)
 - **Jan 24, 04:34 AM** - L3Harris to supply imager for Korean geostationary weather satellite (spacenews)
 - **Jan 24, 05:09 AM** - SDA taps Starfish for first-of-its-kind satellite disposal service (breaking_defense)
+- **Jan 24, 05:44 AM** - Artemis II Moon Mission: NASA Completes Giant Rocket’s Slow Ride to Launchpad (nyt)
