@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 1 | 13 | 24 |
+| breaking_defense | 1 | 1 | 14 | 25 |
 | spacenews | 4 | 16 | 15 | 33 |
 | nyt | 0 | 1 | 13 | 24 |
 
@@ -3997,3 +3997,4 @@
 - **Jan 24, 06:54 AM** - SDA taps Starfish for first-of-its-kind satellite disposal service (breaking_defense)
 - **Jan 24, 07:28 AM** - Artemis II Moon Mission: NASA Completes Giant Rocket’s Slow Ride to Launchpad (nyt)
 - **Jan 24, 08:04 AM** - SLS/Orion rolls to pad for Artemis 2 (spacenews)
+- **Jan 24, 08:38 AM** - FY26 defense bill boosts budget by $8B, largely bypassing last-minute $28B munitions request (breaking_defense)
