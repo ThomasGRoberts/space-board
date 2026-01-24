@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 14 | 25 |
-| spacenews | 4 | 16 | 15 | 32 |
-| nyt | 0 | 1 | 12 | 24 |
+| spacenews | 4 | 16 | 14 | 32 |
+| nyt | 0 | 1 | 13 | 25 |
 
 # Shown Order
 
@@ -3998,3 +3998,4 @@
 - **Jan 24, 07:28 AM** - Artemis II Moon Mission: NASA Completes Giant Rocket’s Slow Ride to Launchpad (nyt)
 - **Jan 24, 08:04 AM** - SLS/Orion rolls to pad for Artemis 2 (spacenews)
 - **Jan 24, 08:38 AM** - FY26 defense bill boosts budget by $8B, largely bypassing last-minute $28B munitions request (breaking_defense)
+- **Jan 24, 09:19 AM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
