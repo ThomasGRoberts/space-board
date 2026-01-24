@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 14 | 25 |
 | spacenews | 1 | 12 | 14 | 31 |
-| nyt | 0 | 1 | 13 | 25 |
+| nyt | 0 | 1 | 13 | 26 |
 
 # Shown Order
 
@@ -4010,3 +4010,4 @@
 - **Jan 24, 02:39 PM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
 - **Jan 24, 03:14 PM** - NASA must act now to ensure U.S. leadership in space (spacenews)
 - **Jan 24, 03:48 PM** - SDA taps Starfish for first-of-its-kind satellite disposal service (breaking_defense)
+- **Jan 24, 04:24 PM** - Artemis II Moon Mission: NASA Begins Rolling Giant Rocket to Launchpad (nyt)
