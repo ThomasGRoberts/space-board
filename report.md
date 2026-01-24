@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 14 | 25 |
 | spacenews | 4 | 16 | 15 | 32 |
-| nyt | 0 | 1 | 12 | 24 |
+| nyt | 0 | 1 | 13 | 25 |
 
 # Shown Order
 
@@ -3995,3 +3995,4 @@
 - **Jan 24, 05:44 AM** - Artemis II Moon Mission: NASA Completes Giant Rocket’s Slow Ride to Launchpad (nyt)
 - **Jan 24, 06:19 AM** - Commercial Space Federation (CSF) Welcomes 3 New Associate Members (spacenews)
 - **Jan 24, 06:54 AM** - SDA taps Starfish for first-of-its-kind satellite disposal service (breaking_defense)
+- **Jan 24, 07:28 AM** - Artemis II Moon Mission: NASA Completes Giant Rocket’s Slow Ride to Launchpad (nyt)
