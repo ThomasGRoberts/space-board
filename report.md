@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 14 | 25 |
 | spacenews | 2 | 13 | 14 | 32 |
-| nyt | 0 | 1 | 13 | 24 |
+| nyt | 0 | 1 | 13 | 25 |
 
 # Shown Order
 
@@ -4007,3 +4007,4 @@
 - **Jan 24, 12:54 PM** - Artemis II Moon Mission: NASA Completes Giant Rocket’s Slow Ride to Launchpad (nyt)
 - **Jan 24, 01:29 PM** - Blue Origin to reuse New Glenn booster on next launch (spacenews)
 - **Jan 24, 02:04 PM** - France taps Loft Orbital to develop nation’s first ‘sovereign’ SAR satellite (breaking_defense)
+- **Jan 24, 02:39 PM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
