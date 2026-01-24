@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 1 | 14 | 25 |
-| spacenews | 0 | 11 | 13 | 31 |
+| breaking_defense | 0 | 1 | 13 | 25 |
+| spacenews | 0 | 11 | 14 | 32 |
 | nyt | 0 | 1 | 14 | 25 |
 
 # Shown Order
@@ -4014,3 +4014,4 @@
 - **Jan 24, 04:59 PM** - Open Cosmos advances broadband plans with spectrum once held by Rivada (spacenews)
 - **Jan 24, 05:34 PM** - France taps Loft Orbital to develop nation’s first ‘sovereign’ SAR satellite (breaking_defense)
 - **Jan 24, 06:09 PM** - Artemis II Moon Mission: NASA Begins Rolling Giant Rocket to Launchpad (nyt)
+- **Jan 24, 06:44 PM** - Damaged DSN antenna out of service until May (spacenews)
