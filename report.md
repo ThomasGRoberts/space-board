@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 1 | 13 | 25 |
-| spacenews | 0 | 10 | 13 | 31 |
+| spacenews | 0 | 10 | 14 | 32 |
 | nyt | 0 | 0 | 14 | 25 |
 
 # Shown Order
@@ -4017,3 +4017,4 @@
 - **Jan 24, 06:44 PM** - Damaged DSN antenna out of service until May (spacenews)
 - **Jan 24, 07:19 PM** - SDA taps Starfish for first-of-its-kind satellite disposal service (breaking_defense)
 - **Jan 24, 07:54 PM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
+- **Jan 24, 08:29 PM** - Former astronaut joins Vast as Haven-1 moves into integration (spacenews)
