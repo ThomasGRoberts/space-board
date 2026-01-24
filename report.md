@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 1 | 14 | 27 |
-| spacenews | 0 | 6 | 13 | 29 |
+| breaking_defense | 0 | 1 | 13 | 27 |
+| spacenews | 0 | 6 | 14 | 30 |
 | nyt | 0 | 0 | 14 | 26 |
 
 # Shown Order
@@ -4023,3 +4023,4 @@
 - **Jan 24, 10:14 PM** - Defense appropriations bill for 2026 funds Space Force at $26 billion, presses Pentagon on Golden Dome (spacenews)
 - **Jan 24, 10:49 PM** - France taps Loft Orbital to develop nation’s first ‘sovereign’ SAR satellite (breaking_defense)
 - **Jan 24, 11:24 PM** - Artemis II Moon Mission: NASA Completes Giant Rocket’s Slow Ride to Launchpad (nyt)
+- **Jan 24, 11:59 PM** - Blue Origin flies first New Shepard mission of 2026 (spacenews)
