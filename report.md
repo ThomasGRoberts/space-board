@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 14 | 25 |
 | spacenews | 4 | 16 | 15 | 32 |
-| nyt | 0 | 1 | 12 | 24 |
+| nyt | 0 | 1 | 13 | 25 |
 
 # Shown Order
 
@@ -3986,3 +3986,4 @@
 - **Jan 24, 12:28 AM** - Artemis II Moon Mission: NASA Begins Rolling Giant Rocket to Launchpad (nyt)
 - **Jan 24, 01:04 AM** - Space Force ends ‘Resilient GPS’ satellite program (spacenews)
 - **Jan 24, 01:39 AM** - France taps Loft Orbital to develop nation’s first ‘sovereign’ SAR satellite (breaking_defense)
+- **Jan 24, 02:14 AM** - Artemis II Moon Mission: NASA Completes Giant Rocket’s Slow Ride to Launchpad (nyt)
