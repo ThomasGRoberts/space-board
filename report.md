@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 1 | 13 | 24 |
+| breaking_defense | 1 | 1 | 14 | 25 |
 | spacenews | 4 | 16 | 15 | 33 |
 | nyt | 0 | 1 | 13 | 24 |
 
@@ -3988,3 +3988,4 @@
 - **Jan 24, 01:39 AM** - France taps Loft Orbital to develop nation’s first ‘sovereign’ SAR satellite (breaking_defense)
 - **Jan 24, 02:14 AM** - Artemis II Moon Mission: NASA Completes Giant Rocket’s Slow Ride to Launchpad (nyt)
 - **Jan 24, 02:49 AM** - As satellites become targets, Space Force plans for growth and a broader role (spacenews)
+- **Jan 24, 03:24 AM** - SDA taps Starfish for first-of-its-kind satellite disposal service (breaking_defense)
