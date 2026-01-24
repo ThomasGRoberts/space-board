@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 1 | 14 | 26 |
-| spacenews | 0 | 10 | 14 | 31 |
-| nyt | 0 | 0 | 13 | 24 |
+| spacenews | 0 | 10 | 13 | 31 |
+| nyt | 0 | 0 | 14 | 25 |
 
 # Shown Order
 
@@ -4016,3 +4016,4 @@
 - **Jan 24, 06:09 PM** - Artemis II Moon Mission: NASA Begins Rolling Giant Rocket to Launchpad (nyt)
 - **Jan 24, 06:44 PM** - Damaged DSN antenna out of service until May (spacenews)
 - **Jan 24, 07:19 PM** - SDA taps Starfish for first-of-its-kind satellite disposal service (breaking_defense)
+- **Jan 24, 07:54 PM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
