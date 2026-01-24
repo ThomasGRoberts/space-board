@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 14 | 25 |
 | spacenews | 0 | 11 | 13 | 31 |
-| nyt | 0 | 1 | 13 | 25 |
+| nyt | 0 | 1 | 14 | 26 |
 
 # Shown Order
 
@@ -4013,3 +4013,4 @@
 - **Jan 24, 04:24 PM** - Artemis II Moon Mission: NASA Begins Rolling Giant Rocket to Launchpad (nyt)
 - **Jan 24, 04:59 PM** - Open Cosmos advances broadband plans with spectrum once held by Rivada (spacenews)
 - **Jan 24, 05:34 PM** - France taps Loft Orbital to develop nation’s first ‘sovereign’ SAR satellite (breaking_defense)
+- **Jan 24, 06:09 PM** - Artemis II Moon Mission: NASA Begins Rolling Giant Rocket to Launchpad (nyt)
