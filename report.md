@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 14 | 25 |
-| spacenews | 1 | 12 | 13 | 31 |
+| spacenews | 1 | 12 | 14 | 32 |
 | nyt | 0 | 1 | 13 | 25 |
 
 # Shown Order
@@ -4011,3 +4011,4 @@
 - **Jan 24, 03:14 PM** - NASA must act now to ensure U.S. leadership in space (spacenews)
 - **Jan 24, 03:48 PM** - SDA taps Starfish for first-of-its-kind satellite disposal service (breaking_defense)
 - **Jan 24, 04:24 PM** - Artemis II Moon Mission: NASA Begins Rolling Giant Rocket to Launchpad (nyt)
+- **Jan 24, 04:59 PM** - Open Cosmos advances broadband plans with spectrum once held by Rivada (spacenews)
