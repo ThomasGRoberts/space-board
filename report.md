@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 1 | 13 | 26 |
-| spacenews | 0 | 7 | 13 | 29 |
+| spacenews | 0 | 7 | 14 | 30 |
 | nyt | 0 | 0 | 14 | 26 |
 
 # Shown Order
@@ -4020,3 +4020,4 @@
 - **Jan 24, 08:29 PM** - Former astronaut joins Vast as Haven-1 moves into integration (spacenews)
 - **Jan 24, 09:04 PM** - France taps Loft Orbital to develop nation’s first ‘sovereign’ SAR satellite (breaking_defense)
 - **Jan 24, 09:39 PM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
+- **Jan 24, 10:14 PM** - Defense appropriations bill for 2026 funds Space Force at $26 billion, presses Pentagon on Golden Dome (spacenews)
