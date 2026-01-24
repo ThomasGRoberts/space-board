@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 14 | 24 |
-| spacenews | 3 | 14 | 14 | 32 |
+| spacenews | 2 | 13 | 14 | 32 |
 | nyt | 0 | 1 | 13 | 25 |
 
 # Shown Order
@@ -4005,3 +4005,4 @@
 - **Jan 24, 11:39 AM** - As satellites become targets, Space Force plans for growth and a broader role (spacenews)
 - **Jan 24, 12:19 PM** - FY26 defense bill boosts budget by $8B, largely bypassing last-minute $28B munitions request (breaking_defense)
 - **Jan 24, 12:54 PM** - Artemis II Moon Mission: NASA Completes Giant Rocket’s Slow Ride to Launchpad (nyt)
+- **Jan 24, 01:29 PM** - Blue Origin to reuse New Glenn booster on next launch (spacenews)
