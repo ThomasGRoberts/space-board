@@ -1,9 +1,83 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-01-23T00:04:36.137972+00:00",
-    "trigger_count": 1,
+    "last_run_datetime": "2026-01-24T00:04:25.151747+00:00",
+    "trigger_count": 2,
     "current_item_id": "2e1506519a29223aa9634d8bd637df1b",
     "data": [
+        {
+            "id": "2a4cf8010d67baf0a3c4df1d00f64b6e",
+            "source": "breaking_defense",
+            "text": "Space Force leaders prep for FY27 budget jump, personnel increases",
+            "source_link": "https://breakingdefense.com/2026/01/space-force-leaders-prep-for-fy27-budget-jump-personnel-increases/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-23T18:39:03.897300Z",
+            "shown_at": [
+                "2026-01-23T18:39:04.999228Z",
+                "2026-01-23T22:09:14.457438Z"
+            ]
+        },
+        {
+            "id": "2640c45caceb75722b8bbde4b50020bf",
+            "source": "spacenews",
+            "text": "Space Beyond lines up 2027 SpaceX launch for low-cost memorial cubesat",
+            "source_link": "https://spacenews.com/space-beyond-lines-up-2027-spacex-launch-for-low-cost-memorial-cubesat/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-23T18:04:28.015006Z",
+            "shown_at": [
+                "2026-01-23T18:04:29.251423Z"
+            ]
+        },
+        {
+            "id": "2d418d610777efe9c5bced8194cebca1",
+            "source": "spacenews",
+            "text": "Former astronaut joins Vast as Haven-1 moves into integration",
+            "source_link": "https://spacenews.com/former-astronaut-joins-vast-as-haven-1-moves-into-integration/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-23T15:08:59.028434Z",
+            "shown_at": [
+                "2026-01-23T15:09:00.062777Z",
+                "2026-01-23T23:19:08.591090Z"
+            ]
+        },
+        {
+            "id": "034d2facd7196c4ccc7608f9b6a3869a",
+            "source": "spacenews",
+            "text": "Launch operators are the rocket fuel required to galvanize spaceports in Europe",
+            "source_link": "https://spacenews.com/launch-operators-are-the-rocket-fuel-required-to-galvanize-spaceports-in-europe/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-23T13:24:11.412812Z",
+            "shown_at": [
+                "2026-01-23T13:24:12.719316Z"
+            ]
+        },
+        {
+            "id": "6b21044d3a2d567d34a735e08d486d35",
+            "source": "spacenews",
+            "text": "House appropriator sees ‘room for improvement’ in NASA funding for 2027",
+            "source_link": "https://spacenews.com/house-appropriator-sees-room-for-improvement-in-nasa-funding-for-2027/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-23T12:49:00.430545Z",
+            "shown_at": [
+                "2026-01-23T12:49:01.546844Z"
+            ]
+        },
+        {
+            "id": "a63df75d4c1b07547bd5fb6b85907211",
+            "source": "spacenews",
+            "text": "Space Force’s acquisition arm races to rebuild contracting workforce after civilian cuts",
+            "source_link": "https://spacenews.com/space-forces-acquisition-arm-races-to-rebuild-contracting-workforce-after-civilian-cuts/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-23T00:34:30.930111Z",
+            "shown_at": [
+                "2026-01-23T00:34:32.272955Z"
+            ]
+        },
         {
             "id": "f63aadcb8f657b9b17d9ce943b3c6353",
             "source": "spacenews",
@@ -9403,180 +9477,6 @@
                 "2025-09-18T08:07:59.651201Z",
                 "2025-09-20T15:42:17.689738Z",
                 "2025-09-22T00:20:00.120905Z"
-            ]
-        },
-        {
-            "id": "8091fd6ab5930f540b7565a0bd9f4304",
-            "source": "spacenews",
-            "text": "CSO Co., Ltd. — Redefining Earth Observation with Cutting-Edge Camera Systems for Small Satellites",
-            "source_link": "https://spacenews.com/cso-co-ltd-redefining-earth-observation-with-cutting-edge-camera-systems-for-small-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-15T21:45:53.309641Z",
-            "shown_at": [
-                "2025-09-15T23:43:56.077696Z",
-                "2025-09-16T08:17:52.772471Z",
-                "2025-09-17T05:53:46.465577Z",
-                "2025-09-18T01:17:48.403060Z"
-            ]
-        },
-        {
-            "id": "30566fa655f44cff278d60649aa2511e",
-            "source": "spacenews",
-            "text": "Falcon 9 launches upgraded Cygnus cargo spacecraft to ISS",
-            "source_link": "https://spacenews.com/falcon-9-launches-upgraded-cygnus-cargo-spacecraft-to-iss/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-15T21:45:53.309608Z",
-            "shown_at": [
-                "2025-09-15T23:27:59.467903Z",
-                "2025-09-16T15:47:52.160643Z",
-                "2025-09-16T17:40:11.106634Z",
-                "2025-09-17T01:57:15.665560Z",
-                "2025-09-17T02:57:24.452783Z",
-                "2025-09-17T04:52:11.492554Z"
-            ]
-        },
-        {
-            "id": "60a537300508f6ce1df5b447de88a21d",
-            "source": "spacenews",
-            "text": "Military spending and direct-to-device competition are reshaping the space economy",
-            "source_link": "https://spacenews.com/military-spending-and-direct-to-device-competition-are-reshaping-the-space-economy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-15T21:45:53.309571Z",
-            "shown_at": [
-                "2025-09-15T23:13:50.928496Z",
-                "2025-09-16T09:35:50.990541Z",
-                "2025-09-17T20:53:56.901270Z",
-                "2025-09-18T02:15:43.809070Z",
-                "2025-09-22T12:08:12.374418Z"
-            ]
-        },
-        {
-            "id": "20d74da0420dedb4aa17ed9d1ec8e861",
-            "source": "spacenews",
-            "text": "To lead in space, we must go all-in on our industrial base",
-            "source_link": "https://spacenews.com/to-lead-in-space-we-must-go-all-in-on-our-industrial-base/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-15T21:45:53.309535Z",
-            "shown_at": [
-                "2025-09-15T22:57:58.442504Z",
-                "2025-09-16T05:47:38.071933Z",
-                "2025-09-16T10:57:28.114322Z",
-                "2025-09-16T13:50:12.778101Z",
-                "2025-09-17T10:32:32.762356Z",
-                "2025-09-18T00:17:48.459685Z",
-                "2025-09-18T16:49:57.406525Z",
-                "2025-09-19T03:51:37.585261Z"
-            ]
-        },
-        {
-            "id": "9c9bb622d8d2936ad15a07ba2938e496",
-            "source": "spacenews",
-            "text": "EchoStar eyes satcom expansion after ‘forced pivot’ from spectrum sales",
-            "source_link": "https://spacenews.com/echostar-eyes-satcom-expansion-after-forced-pivot-from-spectrum-sales/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-15T21:45:53.309496Z",
-            "shown_at": [
-                "2025-09-15T22:43:56.488368Z",
-                "2025-09-16T06:48:00.079519Z",
-                "2025-09-16T23:47:41.601706Z",
-                "2025-09-17T08:12:27.178107Z",
-                "2025-09-17T09:12:17.601030Z",
-                "2025-09-21T16:13:51.780751Z"
-            ]
-        },
-        {
-            "id": "561252eef21abd8f5be95edb6b845a10",
-            "source": "spacenews",
-            "text": "Launch companies double down on increasing flight rates despite setbacks",
-            "source_link": "https://spacenews.com/launch-companies-double-down-on-increasing-flight-rates-despite-setbacks/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-15T21:45:53.309452Z",
-            "shown_at": [
-                "2025-09-15T22:29:52.258241Z",
-                "2025-09-16T04:29:26.148765Z",
-                "2025-09-16T19:43:42.626869Z",
-                "2025-09-18T23:53:51.587605Z",
-                "2025-09-20T23:35:44.903901Z"
-            ]
-        },
-        {
-            "id": "a63df75d4c1b07547bd5fb6b85907211",
-            "source": "spacenews",
-            "text": "Space Force’s acquisition arm races to rebuild contracting workforce after civilian cuts",
-            "source_link": "https://spacenews.com/space-forces-acquisition-arm-races-to-rebuild-contracting-workforce-after-civilian-cuts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-23T00:34:30.930111Z",
-            "shown_at": [
-                "2026-01-23T00:34:32.272955Z"
-            ]
-        },
-        {
-            "id": "6b21044d3a2d567d34a735e08d486d35",
-            "source": "spacenews",
-            "text": "House appropriator sees ‘room for improvement’ in NASA funding for 2027",
-            "source_link": "https://spacenews.com/house-appropriator-sees-room-for-improvement-in-nasa-funding-for-2027/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-23T12:49:00.430545Z",
-            "shown_at": [
-                "2026-01-23T12:49:01.546844Z"
-            ]
-        },
-        {
-            "id": "034d2facd7196c4ccc7608f9b6a3869a",
-            "source": "spacenews",
-            "text": "Launch operators are the rocket fuel required to galvanize spaceports in Europe",
-            "source_link": "https://spacenews.com/launch-operators-are-the-rocket-fuel-required-to-galvanize-spaceports-in-europe/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-23T13:24:11.412812Z",
-            "shown_at": [
-                "2026-01-23T13:24:12.719316Z"
-            ]
-        },
-        {
-            "id": "2d418d610777efe9c5bced8194cebca1",
-            "source": "spacenews",
-            "text": "Former astronaut joins Vast as Haven-1 moves into integration",
-            "source_link": "https://spacenews.com/former-astronaut-joins-vast-as-haven-1-moves-into-integration/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-23T15:08:59.028434Z",
-            "shown_at": [
-                "2026-01-23T15:09:00.062777Z",
-                "2026-01-23T23:19:08.591090Z"
-            ]
-        },
-        {
-            "id": "2640c45caceb75722b8bbde4b50020bf",
-            "source": "spacenews",
-            "text": "Space Beyond lines up 2027 SpaceX launch for low-cost memorial cubesat",
-            "source_link": "https://spacenews.com/space-beyond-lines-up-2027-spacex-launch-for-low-cost-memorial-cubesat/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-23T18:04:28.015006Z",
-            "shown_at": [
-                "2026-01-23T18:04:29.251423Z"
-            ]
-        },
-        {
-            "id": "2a4cf8010d67baf0a3c4df1d00f64b6e",
-            "source": "breaking_defense",
-            "text": "Space Force leaders prep for FY27 budget jump, personnel increases",
-            "source_link": "https://breakingdefense.com/2026/01/space-force-leaders-prep-for-fy27-budget-jump-personnel-increases/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-23T18:39:03.897300Z",
-            "shown_at": [
-                "2026-01-23T18:39:04.999228Z",
-                "2026-01-23T22:09:14.457438Z"
             ]
         }
     ]
