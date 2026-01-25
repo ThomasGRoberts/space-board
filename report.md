@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 1 | 14 | 27 |
+| breaking_defense | 0 | 1 | 13 | 27 |
 | spacenews | 1 | 5 | 14 | 29 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -4026,3 +4026,4 @@
 - **Jan 24, 11:59 PM** - Blue Origin flies first New Shepard mission of 2026 (spacenews)
 - **Jan 25, 12:34 AM** - NASA and DOE to collaborate on lunar nuclear reactor development (spacenews)
 - **Jan 25, 01:09 AM** - France taps Loft Orbital to develop nation’s first ‘sovereign’ SAR satellite (breaking_defense)
+- **Jan 25, 01:44 AM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
