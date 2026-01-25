@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 0 | 13 | 26 |
-| spacenews | 2 | 2 | 15 | 28 |
+| breaking_defense | 0 | 0 | 14 | 27 |
+| spacenews | 2 | 2 | 14 | 28 |
 | nyt | 0 | 0 | 13 | 27 |
 
 # Shown Order
@@ -4055,3 +4055,4 @@
 - **Jan 25, 05:04 PM** - FY26 defense bill boosts budget by $8B, largely bypassing last-minute $28B munitions request (breaking_defense)
 - **Jan 25, 05:39 PM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
 - **Jan 25, 06:14 PM** - As satellites become targets, Space Force plans for growth and a broader role (spacenews)
+- **Jan 25, 06:49 PM** - Space Force leaders prep for FY27 budget jump, personnel increases (breaking_defense)
