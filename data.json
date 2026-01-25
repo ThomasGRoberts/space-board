@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-25T00:04:31.727244+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ed4688bf6cc4f6c5a671d44693bb588c",
+    "trigger_count": 0,
+    "current_item_id": "1d0319b98710ed39bd396fab2c6df0bc",
     "data": [
         {
             "id": "2a4cf8010d67baf0a3c4df1d00f64b6e",
@@ -9556,6 +9556,18 @@
             "fetched_datetime": "2026-01-25T00:34:25.443691Z",
             "shown_at": [
                 "2026-01-25T00:34:26.712887Z"
+            ]
+        },
+        {
+            "id": "1d0319b98710ed39bd396fab2c6df0bc",
+            "source": "spacenews",
+            "text": "Golden Dome is forcing the Pentagon to confront missile defense economics",
+            "source_link": "https://spacenews.com/golden-dome-is-forcing-the-pentagon-to-confront-missile-defense-economics/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-25T16:19:35.235179Z",
+            "shown_at": [
+                "2026-01-25T16:19:36.394530Z"
             ]
         }
     ]

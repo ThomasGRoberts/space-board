@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 1 | 13 | 27 |
-| spacenews | 1 | 2 | 14 | 28 |
-| nyt | 0 | 0 | 14 | 27 |
+| spacenews | 2 | 3 | 15 | 29 |
+| nyt | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -4051,3 +4051,4 @@
 - **Jan 25, 02:34 PM** - Sodern to produce star trackers in Colorado (spacenews)
 - **Jan 25, 03:09 PM** - Space Force leaders prep for FY27 budget jump, personnel increases (breaking_defense)
 - **Jan 25, 03:44 PM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
+- **Jan 25, 04:19 PM** - Golden Dome is forcing the Pentagon to confront missile defense economics (spacenews)
