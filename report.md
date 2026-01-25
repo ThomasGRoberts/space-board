@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 1 | 13 | 27 |
-| spacenews | 1 | 5 | 14 | 29 |
+| spacenews | 1 | 5 | 15 | 30 |
 | nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -4036,3 +4036,4 @@
 - **Jan 25, 05:49 AM** - Commercial Space Federation (CSF) Welcomes 3 New Associate Members (spacenews)
 - **Jan 25, 06:24 AM** - France taps Loft Orbital to develop nation’s first ‘sovereign’ SAR satellite (breaking_defense)
 - **Jan 25, 06:59 AM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
+- **Jan 25, 07:34 AM** - Defense appropriations bill for 2026 funds Space Force at $26 billion, presses Pentagon on Golden Dome (spacenews)
