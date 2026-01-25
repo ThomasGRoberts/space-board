@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 1 | 13 | 27 |
 | spacenews | 1 | 5 | 14 | 29 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -4029,3 +4029,4 @@
 - **Jan 25, 01:44 AM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
 - **Jan 25, 02:19 AM** - Open Cosmos advances broadband plans with spectrum once held by Rivada (spacenews)
 - **Jan 25, 02:54 AM** - France taps Loft Orbital to develop nation’s first ‘sovereign’ SAR satellite (breaking_defense)
+- **Jan 25, 03:29 AM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
