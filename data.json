@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-25T00:04:31.727244+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e9aa841a7a5045728dc326be9b3e5073",
+    "trigger_count": 0,
+    "current_item_id": "ba8c77079319652e2b1994eab4ff9d85",
     "data": [
         {
             "id": "2a4cf8010d67baf0a3c4df1d00f64b6e",
@@ -9518,6 +9518,18 @@
                 "2025-09-18T08:07:59.651201Z",
                 "2025-09-20T15:42:17.689738Z",
                 "2025-09-22T00:20:00.120905Z"
+            ]
+        },
+        {
+            "id": "ba8c77079319652e2b1994eab4ff9d85",
+            "source": "spacenews",
+            "text": "NASA and DOE to collaborate on lunar nuclear reactor development",
+            "source_link": "https://spacenews.com/nasa-and-doe-to-collaborate-on-lunar-nuclear-reactor-development/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-25T00:34:25.443691Z",
+            "shown_at": [
+                "2026-01-25T00:34:26.712887Z"
             ]
         }
     ]
