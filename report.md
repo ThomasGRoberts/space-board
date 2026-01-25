@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 1 | 13 | 27 |
-| spacenews | 1 | 4 | 15 | 29 |
+| breaking_defense | 0 | 1 | 14 | 28 |
+| spacenews | 1 | 3 | 15 | 28 |
 | nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -4046,3 +4046,4 @@
 - **Jan 25, 11:39 AM** - France taps Loft Orbital to develop nation’s first ‘sovereign’ SAR satellite (breaking_defense)
 - **Jan 25, 12:14 PM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
 - **Jan 25, 12:49 PM** - L3Harris to supply imager for Korean geostationary weather satellite (spacenews)
+- **Jan 25, 01:24 PM** - FY26 defense bill boosts budget by $8B, largely bypassing last-minute $28B munitions request (breaking_defense)
