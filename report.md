@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 1 | 13 | 27 |
-| spacenews | 1 | 5 | 14 | 29 |
+| spacenews | 1 | 5 | 15 | 30 |
 | nyt | 0 | 0 | 14 | 26 |
 
 # Shown Order
@@ -4042,3 +4042,4 @@
 - **Jan 25, 09:19 AM** - As satellites become targets, Space Force plans for growth and a broader role (spacenews)
 - **Jan 25, 09:54 AM** - Space Force leaders prep for FY27 budget jump, personnel increases (breaking_defense)
 - **Jan 25, 10:29 AM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
+- **Jan 25, 11:04 AM** - Starfish Space wins SDA contract to deorbit satellites (spacenews)
