@@ -2,14 +2,12 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 0 | 13 | 26 |
-| spacenews | 2 | 2 | 15 | 28 |
+| spacenews | 2 | 2 | 14 | 28 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 | nyt | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
-- **Sep 16, 04:46 AM** - Isar Aerospace prepares for second Spectrum launch (spacenews)
-- **Sep 16, 07:03 AM** - SDA picks GMV to build next-generation space safety system (spacenews)
 - **Sep 16, 11:18 AM** - How SpaceX turned a Texas marsh into the world’s most watched spaceport (spacenews)
 - **Sep 16, 12:42 PM** - Josef Aschbacher on geopolitics and Europe’s changing space debate (spacenews)
 - **Sep 16, 01:00 PM** - Anduril, Impulse to demo maneuvering satellite, with sights set on Space Force missions (breaking_defense)
@@ -64,7 +62,6 @@
 - **Sep 17, 09:42 PM** - House Intel Committee props up FY26 funding for NRO commercial imagery buys (breaking_defense)
 - **Sep 17, 09:58 PM** - ReOrbit raises 45 million euros to increase spacecraft production (spacenews)
 - **Sep 17, 10:43 PM** - The Earth Observation industry’s biggest threat isn’t China, it’s Washington (breaking_defense)
-- **Sep 17, 10:59 PM** - Isar Aerospace prepares for second Spectrum launch (spacenews)
 - **Sep 17, 11:18 PM** - Space Force chief: Current satellite tracking ‘too slow’ for modern threats (spacenews)
 - **Sep 18, 12:02 AM** - The Break Out: A Golden Dome prize pool and Project Octopus [VIDEO] (breaking_defense)
 - **Sep 18, 01:02 AM** - House Intel Committee props up FY26 funding for NRO commercial imagery buys (breaking_defense)
@@ -81,7 +78,6 @@
 - **Sep 18, 06:47 AM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
 - **Sep 18, 07:02 AM** - SpaceX planning first tests of new direct-to-device spectrum next year (spacenews)
 - **Sep 18, 07:53 AM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
-- **Sep 18, 08:07 AM** - Isar Aerospace prepares for second Spectrum launch (spacenews)
 - **Sep 18, 08:37 AM** - House Intel Committee props up FY26 funding for NRO commercial imagery buys (breaking_defense)
 - **Sep 18, 09:06 AM** - Axiom and Spacebilt to establish ISS data center node (spacenews)
 - **Sep 18, 10:46 AM** - Defense and security agencies propel demand for Earth-observation data (spacenews)
@@ -198,7 +194,6 @@
 - **Sep 20, 02:39 PM** - Viasat and Space42 to pool satellite spectrum for direct-to-device services (spacenews)
 - **Sep 20, 02:54 PM** - For Golden Dome to work, it needs to be put to the test (breaking_defense)
 - **Sep 20, 03:09 PM** - A Tiny Quasi-Moon is Following Earth Around the Sun (nyt)
-- **Sep 20, 03:42 PM** - Isar Aerospace prepares for second Spectrum launch (spacenews)
 - **Sep 20, 03:59 PM** - Anduril, Impulse to demo maneuvering satellite, with sights set on Space Force missions (breaking_defense)
 - **Sep 20, 04:15 PM** - Earth Has a New ‘Quasi-Moon,’ and It May Be Very Tiny (nyt)
 - **Sep 20, 04:45 PM** - Axiom and Spacebilt to establish ISS data center node (spacenews)
@@ -284,7 +279,6 @@
 - **Sep 21, 11:18 PM** - President Trump’s Golden Dome: golden dream or black nightmare? (spacenews)
 - **Sep 21, 11:32 PM** - A Forgotten Cosmic Impact Was Hidden in a Museum’s Glass Shards (nyt)
 - **Sep 22, 12:02 AM** - The Earth Observation industry’s biggest threat isn’t China, it’s Washington (breaking_defense)
-- **Sep 22, 12:20 AM** - Isar Aerospace prepares for second Spectrum launch (spacenews)
 - **Sep 22, 12:33 AM** - U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX (nyt)
 - **Sep 22, 01:06 AM** - SSC to finish ‘system delta’ reorg next month (breaking_defense)
 - **Sep 22, 01:20 AM** - U.S., UK Space Commands execute first joint satellite maneuvers (spacenews)
@@ -4064,3 +4058,4 @@
 - **Jan 25, 10:19 PM** - France taps Loft Orbital to develop nation’s first ‘sovereign’ SAR satellite (breaking_defense)
 - **Jan 25, 10:53 PM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
 - **Jan 25, 11:29 PM** - Azimut Group invests  $128 million in D-Orbit (spacenews)
+- **Jan 26, 12:04 AM** - FY26 defense bill boosts budget by $8B, largely bypassing last-minute $28B munitions request (breaking_defense)

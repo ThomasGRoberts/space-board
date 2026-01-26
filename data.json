@@ -1,9 +1,33 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-01-25T00:04:31.727244+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b3c649c62f274310067f947625af4ce4",
+    "last_run_datetime": "2026-01-26T00:04:22.568223+00:00",
+    "trigger_count": 0,
+    "current_item_id": "cc18d066b418b9d9e18665c327e0219f",
     "data": [
+        {
+            "id": "1d0319b98710ed39bd396fab2c6df0bc",
+            "source": "spacenews",
+            "text": "Golden Dome is forcing the Pentagon to confront missile defense economics",
+            "source_link": "https://spacenews.com/golden-dome-is-forcing-the-pentagon-to-confront-missile-defense-economics/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-25T16:19:35.235179Z",
+            "shown_at": [
+                "2026-01-25T16:19:36.394530Z"
+            ]
+        },
+        {
+            "id": "ba8c77079319652e2b1994eab4ff9d85",
+            "source": "spacenews",
+            "text": "NASA and DOE to collaborate on lunar nuclear reactor development",
+            "source_link": "https://spacenews.com/nasa-and-doe-to-collaborate-on-lunar-nuclear-reactor-development/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-25T00:34:25.443691Z",
+            "shown_at": [
+                "2026-01-25T00:34:26.712887Z"
+            ]
+        },
         {
             "id": "2a4cf8010d67baf0a3c4df1d00f64b6e",
             "source": "breaking_defense",
@@ -441,7 +465,8 @@
                 "2026-01-24T08:38:59.444585Z",
                 "2026-01-24T12:19:08.879932Z",
                 "2026-01-25T13:24:14.528988Z",
-                "2026-01-25T17:04:33.848768Z"
+                "2026-01-25T17:04:33.848768Z",
+                "2026-01-26T00:04:28.357605Z"
             ]
         },
         {
@@ -9528,58 +9553,6 @@
                 "2025-09-17T00:52:01.288736Z",
                 "2025-09-17T17:13:40.053839Z",
                 "2025-09-20T05:35:52.785410Z"
-            ]
-        },
-        {
-            "id": "836df4c45dbfd897963d41ab93622a40",
-            "source": "spacenews",
-            "text": "SDA picks GMV to build next-generation space safety system",
-            "source_link": "https://spacenews.com/sda-picks-gmv-to-build-next-generation-space-safety-system/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-16T07:03:50.179932Z",
-            "shown_at": [
-                "2025-09-16T07:03:50.911742Z"
-            ]
-        },
-        {
-            "id": "37a443e58fd9e7e10147f0ab93fac421",
-            "source": "spacenews",
-            "text": "Isar Aerospace prepares for second Spectrum launch",
-            "source_link": "https://spacenews.com/isar-aerospace-prepares-for-second-spectrum-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-16T04:46:05.383717Z",
-            "shown_at": [
-                "2025-09-16T04:46:06.875650Z",
-                "2025-09-17T22:59:39.157277Z",
-                "2025-09-18T08:07:59.651201Z",
-                "2025-09-20T15:42:17.689738Z",
-                "2025-09-22T00:20:00.120905Z"
-            ]
-        },
-        {
-            "id": "ba8c77079319652e2b1994eab4ff9d85",
-            "source": "spacenews",
-            "text": "NASA and DOE to collaborate on lunar nuclear reactor development",
-            "source_link": "https://spacenews.com/nasa-and-doe-to-collaborate-on-lunar-nuclear-reactor-development/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-25T00:34:25.443691Z",
-            "shown_at": [
-                "2026-01-25T00:34:26.712887Z"
-            ]
-        },
-        {
-            "id": "1d0319b98710ed39bd396fab2c6df0bc",
-            "source": "spacenews",
-            "text": "Golden Dome is forcing the Pentagon to confront missile defense economics",
-            "source_link": "https://spacenews.com/golden-dome-is-forcing-the-pentagon-to-confront-missile-defense-economics/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-25T16:19:35.235179Z",
-            "shown_at": [
-                "2026-01-25T16:19:36.394530Z"
             ]
         }
     ]
