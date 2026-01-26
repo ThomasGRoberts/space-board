@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 5 | 15 | 29 |
 | breaking_defense | 0 | 0 | 13 | 26 |
-| nyt | 0 | 0 | 12 | 26 |
+| nyt | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
@@ -4088,3 +4088,4 @@
 - **Jan 26, 03:54 PM** - Blue Origin to reuse New Glenn booster on next launch (spacenews)
 - **Jan 26, 04:29 PM** - SDA taps Starfish for first-of-its-kind satellite disposal service (breaking_defense)
 - **Jan 26, 05:04 PM** - Astranis adds Oman customer to summer GEO launch lineup (spacenews)
+- **Jan 26, 05:49 PM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
