@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-26T00:04:22.568223+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ed4688bf6cc4f6c5a671d44693bb588c",
+    "trigger_count": 0,
+    "current_item_id": "d9b705851f3da4b4a068b63816c8adfa",
     "data": [
         {
             "id": "1d0319b98710ed39bd396fab2c6df0bc",
@@ -9587,6 +9587,18 @@
             "fetched_datetime": "2026-01-26T12:24:14.889547Z",
             "shown_at": [
                 "2026-01-26T12:24:15.951912Z"
+            ]
+        },
+        {
+            "id": "d9b705851f3da4b4a068b63816c8adfa",
+            "source": "spacenews",
+            "text": "We need a ‘Planetary Neural Network’ for AI-enabled space infrastructure protection",
+            "source_link": "https://spacenews.com/we-need-a-planetary-neural-network-for-ai-enabled-space-infrastructure-protection/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-26T14:09:09.646702Z",
+            "shown_at": [
+                "2026-01-26T14:09:10.493264Z"
             ]
         }
     ]

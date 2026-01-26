@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 14 | 28 |
+| spacenews | 3 | 4 | 15 | 29 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 13 | 27 |
 
@@ -4082,3 +4082,4 @@
 - **Jan 26, 12:24 PM** - H3 failure linked to payload fairing separation anomaly (spacenews)
 - **Jan 26, 12:59 PM** - FY26 defense bill boosts budget by $8B, largely bypassing last-minute $28B munitions request (breaking_defense)
 - **Jan 26, 01:34 PM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
+- **Jan 26, 02:09 PM** - We need a ‘Planetary Neural Network’ for AI-enabled space infrastructure protection (spacenews)
