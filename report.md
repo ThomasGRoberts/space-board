@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 13 | 28 |
 | breaking_defense | 0 | 0 | 14 | 27 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -4065,3 +4065,4 @@
 - **Jan 26, 02:24 AM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
 - **Jan 26, 02:59 AM** - Commercial Space Federation (CSF) Welcomes 3 New Associate Members (spacenews)
 - **Jan 26, 03:34 AM** - SDA taps Starfish for first-of-its-kind satellite disposal service (breaking_defense)
+- **Jan 26, 04:09 AM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
