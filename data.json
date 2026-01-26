@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-26T00:04:22.568223+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0bdd163bf8c0e028d4fea5a0b64f3d9f",
+    "trigger_count": 0,
+    "current_item_id": "f89f4e4d6eeda3d192d6209b25c3ddb7",
     "data": [
         {
             "id": "1d0319b98710ed39bd396fab2c6df0bc",
@@ -9573,6 +9573,18 @@
                 "2025-09-17T00:52:01.288736Z",
                 "2025-09-17T17:13:40.053839Z",
                 "2025-09-20T05:35:52.785410Z"
+            ]
+        },
+        {
+            "id": "f89f4e4d6eeda3d192d6209b25c3ddb7",
+            "source": "spacenews",
+            "text": "H3 failure linked to payload fairing separation anomaly",
+            "source_link": "https://spacenews.com/h3-failure-linked-to-payload-fairing-separation-anomaly/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-26T12:24:14.889547Z",
+            "shown_at": [
+                "2026-01-26T12:24:15.951912Z"
             ]
         }
     ]
