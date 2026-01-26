@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-26T00:04:22.568223+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f16779edd49beffc72d4749ba6da60db",
+    "trigger_count": 0,
+    "current_item_id": "49391aed896f821dc286dda0479b90b0",
     "data": [
         {
             "id": "1d0319b98710ed39bd396fab2c6df0bc",
@@ -9603,6 +9603,18 @@
             "fetched_datetime": "2026-01-26T14:09:09.646702Z",
             "shown_at": [
                 "2026-01-26T14:09:10.493264Z"
+            ]
+        },
+        {
+            "id": "49391aed896f821dc286dda0479b90b0",
+            "source": "spacenews",
+            "text": "Astranis adds Oman customer to summer GEO launch lineup",
+            "source_link": "https://spacenews.com/astranis-adds-oman-customer-to-summer-geo-launch-lineup/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-26T17:04:47.147030Z",
+            "shown_at": [
+                "2026-01-26T17:04:48.244525Z"
             ]
         }
     ]
