@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 5 | 15 | 29 |
 | breaking_defense | 0 | 0 | 13 | 26 |
-| nyt | 0 | 0 | 12 | 26 |
+| nyt | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
@@ -4091,3 +4091,4 @@
 - **Jan 26, 05:49 PM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
 - **Jan 26, 06:24 PM** - FY26 defense bill boosts budget by $8B, largely bypassing last-minute $28B munitions request (breaking_defense)
 - **Jan 26, 06:59 PM** - Commercial Space Federation (CSF) Welcomes 3 New Associate Members (spacenews)
+- **Jan 26, 07:34 PM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
