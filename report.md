@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 14 | 29 |
-| breaking_defense | 0 | 0 | 13 | 26 |
-| nyt | 0 | 0 | 13 | 27 |
+| breaking_defense | 0 | 0 | 14 | 27 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -4086,3 +4086,4 @@
 - **Jan 26, 02:44 PM** - FY26 defense bill boosts budget by $8B, largely bypassing last-minute $28B munitions request (breaking_defense)
 - **Jan 26, 03:19 PM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
 - **Jan 26, 03:54 PM** - Blue Origin to reuse New Glenn booster on next launch (spacenews)
+- **Jan 26, 04:29 PM** - SDA taps Starfish for first-of-its-kind satellite disposal service (breaking_defense)
