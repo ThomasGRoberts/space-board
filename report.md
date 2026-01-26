@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 13 | 27 |
-| breaking_defense | 0 | 0 | 14 | 27 |
+| spacenews | 1 | 2 | 14 | 28 |
+| breaking_defense | 0 | 0 | 13 | 27 |
 | nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
@@ -4063,3 +4063,4 @@
 - **Jan 26, 01:14 AM** - House appropriator sees ‘room for improvement’ in NASA funding for 2027 (spacenews)
 - **Jan 26, 01:49 AM** - SDA taps Starfish for first-of-its-kind satellite disposal service (breaking_defense)
 - **Jan 26, 02:24 AM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
+- **Jan 26, 02:59 AM** - Commercial Space Federation (CSF) Welcomes 3 New Associate Members (spacenews)
