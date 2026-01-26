@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-26T00:04:22.568223+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ed4688bf6cc4f6c5a671d44693bb588c",
+    "trigger_count": 0,
+    "current_item_id": "168a9baca323b703e577661c0da1afa6",
     "data": [
         {
             "id": "1d0319b98710ed39bd396fab2c6df0bc",
@@ -9622,6 +9622,18 @@
             "fetched_datetime": "2026-01-26T17:04:47.147030Z",
             "shown_at": [
                 "2026-01-26T17:04:48.244525Z"
+            ]
+        },
+        {
+            "id": "168a9baca323b703e577661c0da1afa6",
+            "source": "breaking_defense",
+            "text": "Space Force envisions rolling awards for new RG-XX neighborhood watch satellites",
+            "source_link": "https://breakingdefense.com/2026/01/space-force-envisions-rolling-awards-for-new-rg-xx-neighborhood-watch-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-26T21:58:58.967282Z",
+            "shown_at": [
+                "2026-01-26T21:59:00.102041Z"
             ]
         }
     ]

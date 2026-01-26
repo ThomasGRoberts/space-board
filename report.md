@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 5 | 14 | 29 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 1 | 1 | 14 | 27 |
 | nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -4095,3 +4095,4 @@
 - **Jan 26, 08:09 PM** - Space Force leaders prep for FY27 budget jump, personnel increases (breaking_defense)
 - **Jan 26, 08:49 PM** - Defense appropriations bill for 2026 funds Space Force at $26 billion, presses Pentagon on Golden Dome (spacenews)
 - **Jan 26, 09:24 PM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
+- **Jan 26, 09:59 PM** - Space Force envisions rolling awards for new RG-XX neighborhood watch satellites (breaking_defense)
