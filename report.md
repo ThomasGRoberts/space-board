@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 5 | 14 | 29 |
+| spacenews | 4 | 6 | 15 | 30 |
 | breaking_defense | 1 | 1 | 13 | 26 |
 | nyt | 0 | 0 | 13 | 26 |
 
@@ -4098,3 +4098,4 @@
 - **Jan 26, 09:59 PM** - Space Force envisions rolling awards for new RG-XX neighborhood watch satellites (breaking_defense)
 - **Jan 26, 10:34 PM** - Starfish Space wins SDA contract to deorbit satellites (spacenews)
 - **Jan 26, 11:09 PM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
+- **Jan 26, 11:44 PM** - Hanwha exploring South Korean defense constellation with MDA Space and Telesat (spacenews)

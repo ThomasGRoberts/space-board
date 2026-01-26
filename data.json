@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-26T00:04:22.568223+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ed4688bf6cc4f6c5a671d44693bb588c",
+    "trigger_count": 0,
+    "current_item_id": "668ce3275bd0ea763ad59611403480c3",
     "data": [
         {
             "id": "1d0319b98710ed39bd396fab2c6df0bc",
@@ -9636,6 +9636,18 @@
             "fetched_datetime": "2026-01-26T21:58:58.967282Z",
             "shown_at": [
                 "2026-01-26T21:59:00.102041Z"
+            ]
+        },
+        {
+            "id": "668ce3275bd0ea763ad59611403480c3",
+            "source": "spacenews",
+            "text": "Hanwha exploring South Korean defense constellation with MDA Space and Telesat",
+            "source_link": "https://spacenews.com/hanwha-exploring-south-korean-defense-constellation-with-mda-space-and-telesat/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-26T23:44:28.271766Z",
+            "shown_at": [
+                "2026-01-26T23:44:29.168109Z"
             ]
         }
     ]
