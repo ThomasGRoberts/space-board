@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 14 | 29 |
+| spacenews | 2 | 3 | 14 | 28 |
 | breaking_defense | 0 | 0 | 13 | 27 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -4081,3 +4081,4 @@
 - **Jan 26, 11:49 AM** - Space Force ends ‘Resilient GPS’ satellite program (spacenews)
 - **Jan 26, 12:24 PM** - H3 failure linked to payload fairing separation anomaly (spacenews)
 - **Jan 26, 12:59 PM** - FY26 defense bill boosts budget by $8B, largely bypassing last-minute $28B munitions request (breaking_defense)
+- **Jan 26, 01:34 PM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
