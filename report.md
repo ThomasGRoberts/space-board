@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 5 | 14 | 29 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 | nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -4092,3 +4092,4 @@
 - **Jan 26, 06:24 PM** - FY26 defense bill boosts budget by $8B, largely bypassing last-minute $28B munitions request (breaking_defense)
 - **Jan 26, 06:59 PM** - Commercial Space Federation (CSF) Welcomes 3 New Associate Members (spacenews)
 - **Jan 26, 07:34 PM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
+- **Jan 26, 08:09 PM** - Space Force leaders prep for FY27 budget jump, personnel increases (breaking_defense)
