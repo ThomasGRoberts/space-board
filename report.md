@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 11 | 18 | 33 |
-| breaking_defense | 1 | 1 | 11 | 24 |
+| breaking_defense | 1 | 1 | 12 | 25 |
 | nyt | 0 | 0 | 11 | 24 |
 
 # Shown Order
@@ -4102,3 +4102,4 @@
 - **Jan 27, 06:09 PM** - SDA taps Starfish for first-of-its-kind satellite disposal service (breaking_defense)
 - **Jan 27, 06:44 PM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
 - **Jan 27, 07:19 PM** - Space Force’s acquisition arm races to rebuild contracting workforce after civilian cuts (spacenews)
+- **Jan 27, 07:54 PM** - France taps Loft Orbital to develop nation’s first ‘sovereign’ SAR satellite (breaking_defense)
