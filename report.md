@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 11 | 18 | 32 |
 | breaking_defense | 1 | 1 | 11 | 25 |
-| nyt | 0 | 0 | 11 | 24 |
+| nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -4097,3 +4097,4 @@
 - **Jan 27, 03:09 PM** - The “Stealth” Strategy Pays Off: UARX Space Emerges as Europe’s High-Reliability Powerhouse (spacenews)
 - **Jan 27, 03:49 PM** - NASA evaluation lauds quality of PlanetiQ radio occultation data (spacenews)
 - **Jan 27, 04:24 PM** - SDA taps Starfish for first-of-its-kind satellite disposal service (breaking_defense)
+- **Jan 27, 04:59 PM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
