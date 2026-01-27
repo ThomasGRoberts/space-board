@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 10 | 17 | 31 |
+| spacenews | 9 | 12 | 18 | 32 |
 | breaking_defense | 1 | 1 | 11 | 25 |
 | nyt | 0 | 0 | 12 | 25 |
 
@@ -4094,3 +4094,4 @@
 - **Jan 27, 01:24 PM** - Space Force envisions rolling awards for new RG-XX neighborhood watch satellites (breaking_defense)
 - **Jan 27, 01:59 PM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
 - **Jan 27, 02:34 PM** - Former astronaut joins Vast as Haven-1 moves into integration (spacenews)
+- **Jan 27, 03:09 PM** - The “Stealth” Strategy Pays Off: UARX Space Emerges as Europe’s High-Reliability Powerhouse (spacenews)
