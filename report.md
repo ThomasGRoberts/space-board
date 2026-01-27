@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 12 | 18 | 33 |
-| breaking_defense | 1 | 1 | 11 | 24 |
+| spacenews | 9 | 11 | 18 | 32 |
+| breaking_defense | 1 | 1 | 12 | 25 |
 | nyt | 0 | 0 | 11 | 24 |
 
 # Shown Order
@@ -4096,3 +4096,4 @@
 - **Jan 27, 02:34 PM** - Former astronaut joins Vast as Haven-1 moves into integration (spacenews)
 - **Jan 27, 03:09 PM** - The “Stealth” Strategy Pays Off: UARX Space Emerges as Europe’s High-Reliability Powerhouse (spacenews)
 - **Jan 27, 03:49 PM** - NASA evaluation lauds quality of PlanetiQ radio occultation data (spacenews)
+- **Jan 27, 04:24 PM** - SDA taps Starfish for first-of-its-kind satellite disposal service (breaking_defense)
