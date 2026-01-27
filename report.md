@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 9 | 16 | 31 |
+| spacenews | 8 | 10 | 17 | 31 |
 | breaking_defense | 1 | 1 | 12 | 25 |
 | nyt | 0 | 0 | 12 | 25 |
 
@@ -4090,3 +4090,4 @@
 - **Jan 27, 10:59 AM** - Vega C to launch Brazilian satellite (spacenews)
 - **Jan 27, 11:34 AM** - Northwood Space raises $100 million Series B, lands $49 million Space Force deal (spacenews)
 - **Jan 27, 12:14 PM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
+- **Jan 27, 12:49 PM** - Space Force set to choose contractors for next-gen GEO spy satellites (spacenews)

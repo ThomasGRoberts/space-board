@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-27T00:05:14.833086+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ed4688bf6cc4f6c5a671d44693bb588c",
+    "trigger_count": 0,
+    "current_item_id": "f547f2f30bd9d3a07ff8ebe8a41630e6",
     "data": [
         {
             "id": "668ce3275bd0ea763ad59611403480c3",
@@ -9628,6 +9628,18 @@
             "fetched_datetime": "2026-01-27T10:59:11.436063Z",
             "shown_at": [
                 "2026-01-27T11:34:22.008744Z"
+            ]
+        },
+        {
+            "id": "f547f2f30bd9d3a07ff8ebe8a41630e6",
+            "source": "spacenews",
+            "text": "Space Force set to choose contractors for next-gen GEO spy satellites",
+            "source_link": "https://spacenews.com/space-force-set-to-choose-contractors-for-next-gen-geo-spy-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-27T12:49:51.188639Z",
+            "shown_at": [
+                "2026-01-27T12:49:52.221892Z"
             ]
         }
     ]
