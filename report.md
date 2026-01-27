@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 5 | 14 | 28 |
+| spacenews | 4 | 5 | 15 | 29 |
 | breaking_defense | 1 | 1 | 13 | 26 |
 | nyt | 0 | 0 | 13 | 27 |
 
@@ -4071,3 +4071,4 @@
 - **Jan 26, 11:44 PM** - Hanwha exploring South Korean defense constellation with MDA Space and Telesat (spacenews)
 - **Jan 27, 12:24 AM** - France taps Loft Orbital to develop nation’s first ‘sovereign’ SAR satellite (breaking_defense)
 - **Jan 27, 12:59 AM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
+- **Jan 27, 01:34 AM** - NASA and DOE to collaborate on lunar nuclear reactor development (spacenews)
