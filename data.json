@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-27T00:05:14.833086+00:00",
-    "trigger_count": 6,
-    "current_item_id": "668ce3275bd0ea763ad59611403480c3",
+    "trigger_count": 0,
+    "current_item_id": "2ca856350de6606e3f4222c5f815a133",
     "data": [
         {
             "id": "668ce3275bd0ea763ad59611403480c3",
@@ -9591,6 +9591,18 @@
             "fetched_datetime": "2026-01-27T02:44:07.751139Z",
             "shown_at": [
                 "2026-01-27T02:44:08.572714Z"
+            ]
+        },
+        {
+            "id": "2ca856350de6606e3f4222c5f815a133",
+            "source": "spacenews",
+            "text": "Oman signs Artemis Accords",
+            "source_link": "https://spacenews.com/oman-signs-artemis-accords/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-27T10:24:18.567755Z",
+            "shown_at": [
+                "2026-01-27T10:24:19.403939Z"
             ]
         }
     ]
