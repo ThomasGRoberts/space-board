@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 13 | 18 | 33 |
 | breaking_defense | 0 | 1 | 11 | 24 |
-| nyt | 0 | 0 | 11 | 23 |
+| nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
 
@@ -4107,3 +4107,4 @@
 - **Jan 27, 09:09 PM** - Second Edition of Space Debris 2026 Conference Kicks Off with Participation from 75 Countries (spacenews)
 - **Jan 27, 09:49 PM** - EBAD PRM Payload Release Module Family Demonstrates Scalable, Low-Shock Separation Capability on Falcon 9 Twilight Rideshare Mission (spacenews)
 - **Jan 27, 10:24 PM** - France taps Loft Orbital to develop nation’s first ‘sovereign’ SAR satellite (breaking_defense)
+- **Jan 27, 10:59 PM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
