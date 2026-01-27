@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-27T00:05:14.833086+00:00",
-    "trigger_count": 6,
-    "current_item_id": "38e70ac3439a6c97e99b8f908a525e19",
+    "trigger_count": 0,
+    "current_item_id": "5f48e7f9957da365382be5d34a20e294",
     "data": [
         {
             "id": "668ce3275bd0ea763ad59611403480c3",
@@ -9662,9 +9662,12 @@
             "source": "spacenews",
             "text": "NASA evaluation lauds quality of PlanetiQ radio occultation data",
             "source_link": "https://spacenews.com/nasa-evaluation-lauds-quality-of-planetiq-radio-occultation-data/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-01-27T15:09:18.368564Z"
+            "fetched_datetime": "2026-01-27T15:09:18.368564Z",
+            "shown_at": [
+                "2026-01-27T15:49:17.701292Z"
+            ]
         }
     ]
 }

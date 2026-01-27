@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 12 | 18 | 32 |
+| spacenews | 9 | 12 | 19 | 33 |
 | breaking_defense | 1 | 1 | 11 | 24 |
-| nyt | 0 | 0 | 11 | 25 |
+| nyt | 0 | 0 | 11 | 24 |
 
 # Shown Order
 
@@ -4095,3 +4095,4 @@
 - **Jan 27, 01:59 PM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
 - **Jan 27, 02:34 PM** - Former astronaut joins Vast as Haven-1 moves into integration (spacenews)
 - **Jan 27, 03:09 PM** - The “Stealth” Strategy Pays Off: UARX Space Emerges as Europe’s High-Reliability Powerhouse (spacenews)
+- **Jan 27, 03:49 PM** - NASA evaluation lauds quality of PlanetiQ radio occultation data (spacenews)
