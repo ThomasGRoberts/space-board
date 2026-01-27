@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 7 | 16 | 30 |
+| spacenews | 8 | 9 | 17 | 31 |
 | breaking_defense | 1 | 1 | 12 | 26 |
 | nyt | 0 | 0 | 12 | 25 |
 
@@ -4087,3 +4087,4 @@
 - **Jan 27, 09:09 AM** - Space Force leaders prep for FY27 budget jump, personnel increases (breaking_defense)
 - **Jan 27, 09:44 AM** - Hanwha exploring South Korean defense constellation with MDA Space and Telesat (spacenews)
 - **Jan 27, 10:24 AM** - Oman signs Artemis Accords (spacenews)
+- **Jan 27, 10:59 AM** - Vega C to launch Brazilian satellite (spacenews)
