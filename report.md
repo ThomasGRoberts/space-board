@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 15 | 29 |
-| breaking_defense | 1 | 1 | 12 | 26 |
+| breaking_defense | 1 | 1 | 13 | 27 |
 | nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -4069,3 +4069,4 @@
 - **Jan 26, 10:34 PM** - Starfish Space wins SDA contract to deorbit satellites (spacenews)
 - **Jan 26, 11:09 PM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
 - **Jan 26, 11:44 PM** - Hanwha exploring South Korean defense constellation with MDA Space and Telesat (spacenews)
+- **Jan 27, 12:24 AM** - France taps Loft Orbital to develop nation’s first ‘sovereign’ SAR satellite (breaking_defense)
