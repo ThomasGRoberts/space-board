@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 10 | 17 | 31 |
 | breaking_defense | 1 | 1 | 12 | 25 |
-| nyt | 0 | 0 | 11 | 25 |
+| nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -4092,3 +4092,4 @@
 - **Jan 27, 12:14 PM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
 - **Jan 27, 12:49 PM** - Space Force set to choose contractors for next-gen GEO spy satellites (spacenews)
 - **Jan 27, 01:24 PM** - Space Force envisions rolling awards for new RG-XX neighborhood watch satellites (breaking_defense)
+- **Jan 27, 01:59 PM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
