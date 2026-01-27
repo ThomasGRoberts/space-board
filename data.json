@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-27T00:05:14.833086+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ed4688bf6cc4f6c5a671d44693bb588c",
+    "trigger_count": 0,
+    "current_item_id": "21afbe639bae9364ece9030edcfdf5a1",
     "data": [
         {
             "id": "668ce3275bd0ea763ad59611403480c3",
@@ -9676,6 +9676,27 @@
             "shown_at": [
                 "2026-01-27T15:49:17.701292Z"
             ]
+        },
+        {
+            "id": "21afbe639bae9364ece9030edcfdf5a1",
+            "source": "spacenews",
+            "text": "Second Edition of Space Debris 2026 Conference Kicks Off with Participation from 75 Countries",
+            "source_link": "https://spacenews.com/second-edition-of-space-debris-2026-conference-kicks-off-with-participation-from-75-countries/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-27T21:09:46.950282Z",
+            "shown_at": [
+                "2026-01-27T21:09:48.229562Z"
+            ]
+        },
+        {
+            "id": "24e5e737792a09bfa070cf67e9a08ac6",
+            "source": "spacenews",
+            "text": "EBAD PRM Payload Release Module Family Demonstrates Scalable, Low-Shock Separation Capability on Falcon 9 Twilight Rideshare Mission",
+            "source_link": "https://spacenews.com/ebad-prm-payload-release-module-family-demonstrates-scalable-low-shock-separation-capability-on-falcon-9-twilight-rideshare-mission/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-01-27T21:09:46.950352Z"
         }
     ]
 }

@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 11 | 17 | 32 |
+| spacenews | 10 | 13 | 18 | 33 |
 | breaking_defense | 1 | 1 | 11 | 24 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
 
@@ -4104,3 +4104,4 @@
 - **Jan 27, 07:19 PM** - Space Force’s acquisition arm races to rebuild contracting workforce after civilian cuts (spacenews)
 - **Jan 27, 07:54 PM** - France taps Loft Orbital to develop nation’s first ‘sovereign’ SAR satellite (breaking_defense)
 - **Jan 27, 08:34 PM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
+- **Jan 27, 09:09 PM** - Second Edition of Space Debris 2026 Conference Kicks Off with Participation from 75 Countries (spacenews)
