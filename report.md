@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 10 | 17 | 31 |
-| breaking_defense | 1 | 1 | 11 | 25 |
+| breaking_defense | 1 | 1 | 12 | 25 |
 | nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
@@ -4091,3 +4091,4 @@
 - **Jan 27, 11:34 AM** - Northwood Space raises $100 million Series B, lands $49 million Space Force deal (spacenews)
 - **Jan 27, 12:14 PM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
 - **Jan 27, 12:49 PM** - Space Force set to choose contractors for next-gen GEO spy satellites (spacenews)
+- **Jan 27, 01:24 PM** - Space Force envisions rolling awards for new RG-XX neighborhood watch satellites (breaking_defense)
