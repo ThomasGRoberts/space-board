@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-27T00:05:14.833086+00:00",
-    "trigger_count": 6,
-    "current_item_id": "43264c39e2e12a55a5adacb3c9b7bfe2",
+    "trigger_count": 0,
+    "current_item_id": "f94285242ac0e6744fdb963b74be174e",
     "data": [
         {
             "id": "668ce3275bd0ea763ad59611403480c3",
@@ -9622,9 +9622,12 @@
             "source": "spacenews",
             "text": "Northwood Space raises $100 million Series B, lands $49 million Space Force deal",
             "source_link": "https://spacenews.com/northwood-space-raises-100-million-series-b-lands-49-million-space-force-deal/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-01-27T10:59:11.436063Z"
+            "fetched_datetime": "2026-01-27T10:59:11.436063Z",
+            "shown_at": [
+                "2026-01-27T11:34:22.008744Z"
+            ]
         }
     ]
 }
