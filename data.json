@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-27T00:05:14.833086+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f16779edd49beffc72d4749ba6da60db",
+    "trigger_count": 0,
+    "current_item_id": "43a7ae1a2aca4a4d4be55d63036372f3",
     "data": [
         {
             "id": "668ce3275bd0ea763ad59611403480c3",
@@ -9567,6 +9567,18 @@
                 "2025-09-16T14:50:13.821881Z",
                 "2025-09-20T01:22:11.665969Z",
                 "2025-09-22T22:05:58.582938Z"
+            ]
+        },
+        {
+            "id": "43a7ae1a2aca4a4d4be55d63036372f3",
+            "source": "spacenews",
+            "text": "NASA seeks partners for Earth Science extended missions",
+            "source_link": "https://spacenews.com/nasa-seeks-partners-for-earth-science-extended-missions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-27T02:44:07.751139Z",
+            "shown_at": [
+                "2026-01-27T02:44:08.572714Z"
             ]
         }
     ]
