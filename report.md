@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 13 | 19 | 33 |
-| breaking_defense | 0 | 1 | 10 | 24 |
+| breaking_defense | 0 | 1 | 11 | 24 |
 | nyt | 0 | 0 | 11 | 24 |
 
 # Shown Order
@@ -4106,3 +4106,4 @@
 - **Jan 27, 08:34 PM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
 - **Jan 27, 09:09 PM** - Second Edition of Space Debris 2026 Conference Kicks Off with Participation from 75 Countries (spacenews)
 - **Jan 27, 09:49 PM** - EBAD PRM Payload Release Module Family Demonstrates Scalable, Low-Shock Separation Capability on Falcon 9 Twilight Rideshare Mission (spacenews)
+- **Jan 27, 10:24 PM** - France taps Loft Orbital to develop nation’s first ‘sovereign’ SAR satellite (breaking_defense)
