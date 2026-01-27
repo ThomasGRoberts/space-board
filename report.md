@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 11 | 18 | 32 |
 | breaking_defense | 1 | 1 | 11 | 25 |
-| nyt | 0 | 0 | 11 | 24 |
+| nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -4100,3 +4100,4 @@
 - **Jan 27, 04:59 PM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
 - **Jan 27, 05:34 PM** - L3Harris to supply imager for Korean geostationary weather satellite (spacenews)
 - **Jan 27, 06:09 PM** - SDA taps Starfish for first-of-its-kind satellite disposal service (breaking_defense)
+- **Jan 27, 06:44 PM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
