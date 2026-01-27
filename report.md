@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 6 | 15 | 29 |
-| breaking_defense | 1 | 1 | 12 | 26 |
+| breaking_defense | 1 | 1 | 13 | 27 |
 | nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -4075,3 +4075,4 @@
 - **Jan 27, 02:09 AM** - SDA taps Starfish for first-of-its-kind satellite disposal service (breaking_defense)
 - **Jan 27, 02:44 AM** - NASA seeks partners for Earth Science extended missions (spacenews)
 - **Jan 27, 03:19 AM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
+- **Jan 27, 03:54 AM** - SDA taps Starfish for first-of-its-kind satellite disposal service (breaking_defense)
