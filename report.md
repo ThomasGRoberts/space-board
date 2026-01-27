@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 6 | 15 | 29 |
 | breaking_defense | 1 | 1 | 13 | 26 |
-| nyt | 0 | 0 | 12 | 26 |
+| nyt | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
@@ -4083,3 +4083,4 @@
 - **Jan 27, 06:49 AM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
 - **Jan 27, 07:24 AM** - France taps Loft Orbital to develop nation’s first ‘sovereign’ SAR satellite (breaking_defense)
 - **Jan 27, 07:59 AM** - Tomorrow.io unveils DeepSky: constellation of large satellites and instruments (spacenews)
+- **Jan 27, 08:34 AM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
