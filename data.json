@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-28T00:04:36.752470+00:00",
-    "trigger_count": 6,
-    "current_item_id": "168a9baca323b703e577661c0da1afa6",
+    "trigger_count": 0,
+    "current_item_id": "118e17b03cfe1cbf2ed59a3e39e3d82f",
     "data": [
         {
             "id": "24e5e737792a09bfa070cf67e9a08ac6",
@@ -9571,6 +9571,18 @@
             "fetched_datetime": "2026-01-28T05:29:03.633265Z",
             "shown_at": [
                 "2026-01-28T05:29:04.515575Z"
+            ]
+        },
+        {
+            "id": "118e17b03cfe1cbf2ed59a3e39e3d82f",
+            "source": "spacenews",
+            "text": "Exotrail and Astroscale France join forces to build deorbiting capability for LEO",
+            "source_link": "https://spacenews.com/exotrail-and-astroscale-france-join-forces-to-build-deorbiting-capability-for-leo/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-28T07:19:11.283664Z",
+            "shown_at": [
+                "2026-01-28T07:19:12.034752Z"
             ]
         }
     ]
