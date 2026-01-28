@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 16 | 24 | 20 | 38 |
-| breaking_defense | 1 | 2 | 11 | 22 |
+| breaking_defense | 2 | 3 | 12 | 23 |
 | nyt | 1 | 1 | 9 | 21 |
 
 # Shown Order
@@ -4067,3 +4067,4 @@
 - **Jan 28, 06:59 PM** - Space Command’s case for orbital logistics: Why the Pentagon is being urged to think beyond launch (spacenews)
 - **Jan 28, 07:34 PM** - France taps Loft Orbital to develop nation’s first ‘sovereign’ SAR satellite (breaking_defense)
 - **Jan 28, 08:09 PM** - U.S. Space Command to bring commercial firms into classified wargame on nuclear threats in space (spacenews)
+- **Jan 28, 08:43 PM** - SPACECOM chief cites Army, Marines as models for expanding on-orbit warfighting exercises (breaking_defense)

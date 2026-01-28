@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-28T00:04:36.752470+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3958122dcd31db50528360a27247c813",
+    "trigger_count": 0,
+    "current_item_id": "4f9645201b4d6c51be61376649a17a9e",
     "data": [
         {
             "id": "24e5e737792a09bfa070cf67e9a08ac6",
@@ -9737,6 +9737,18 @@
             "fetched_datetime": "2026-01-28T20:09:12.624528Z",
             "shown_at": [
                 "2026-01-28T20:09:14.105578Z"
+            ]
+        },
+        {
+            "id": "4f9645201b4d6c51be61376649a17a9e",
+            "source": "breaking_defense",
+            "text": "SPACECOM chief cites Army, Marines as models for expanding on-orbit warfighting exercises",
+            "source_link": "https://breakingdefense.com/2026/01/spacecom-chief-cites-army-marines-as-models-for-expanding-on-orbit-warfighting-exercises/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-28T20:43:57.189004Z",
+            "shown_at": [
+                "2026-01-28T20:43:58.242419Z"
             ]
         }
     ]
