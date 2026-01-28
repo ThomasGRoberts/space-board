@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 19 | 18 | 34 |
+| spacenews | 13 | 20 | 19 | 35 |
 | breaking_defense | 0 | 1 | 11 | 23 |
 | nyt | 1 | 1 | 11 | 23 |
 
@@ -4056,3 +4056,4 @@
 - **Jan 28, 12:34 PM** - FAA projects continuing growth in commercial space transportation (spacenews)
 - **Jan 28, 01:09 PM** - SDA taps Starfish for first-of-its-kind satellite disposal service (breaking_defense)
 - **Jan 28, 01:44 PM** - How to View the Artemis II Moon Launch (nyt)
+- **Jan 28, 02:19 PM** - Earth observation’s adoption gap is a supply design problem (spacenews)
