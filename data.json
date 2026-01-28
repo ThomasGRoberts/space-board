@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-28T00:04:36.752470+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d9b705851f3da4b4a068b63816c8adfa",
+    "trigger_count": 0,
+    "current_item_id": "71028d43d1c87ced28f930892947d1b2",
     "data": [
         {
             "id": "24e5e737792a09bfa070cf67e9a08ac6",
@@ -9529,6 +9529,18 @@
             "fetched_datetime": "2025-09-16T21:27:52.869258Z",
             "shown_at": [
                 "2025-09-16T21:27:53.895641Z"
+            ]
+        },
+        {
+            "id": "71028d43d1c87ced28f930892947d1b2",
+            "source": "spacenews",
+            "text": "EU launches government satcom program in sovereignty push",
+            "source_link": "https://spacenews.com/eu-launches-government-satcom-program-in-sovereignty-push/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-28T01:59:08.361240Z",
+            "shown_at": [
+                "2026-01-28T01:59:09.343505Z"
             ]
         }
     ]
