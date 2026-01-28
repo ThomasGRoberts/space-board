@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 17 | 20 | 35 |
 | breaking_defense | 0 | 1 | 10 | 23 |
-| nyt | 0 | 0 | 10 | 22 |
+| nyt | 0 | 0 | 11 | 23 |
 
 # Shown Order
 
@@ -4045,3 +4045,4 @@
 - **Jan 28, 06:04 AM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
 - **Jan 28, 06:39 AM** - Space Force envisions rolling awards for new RG-XX neighborhood watch satellites (breaking_defense)
 - **Jan 28, 07:19 AM** - Exotrail and Astroscale France join forces to build deorbiting capability for LEO (spacenews)
+- **Jan 28, 07:54 AM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
