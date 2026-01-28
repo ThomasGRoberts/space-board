@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 14 | 22 | 18 | 36 |
 | breaking_defense | 1 | 2 | 12 | 23 |
-| nyt | 1 | 1 | 10 | 22 |
+| nyt | 1 | 1 | 11 | 23 |
 
 # Shown Order
 
@@ -4062,3 +4062,4 @@
 - **Jan 28, 04:04 PM** - Space Futures Centre, World Economic Forum Launch Space Debris Insights Report (spacenews)
 - **Jan 28, 04:39 PM** - France taps Loft Orbital to develop nation’s first ‘sovereign’ SAR satellite (breaking_defense)
 - **Jan 28, 05:14 PM** - As Space Force wraps up GPS III launches, lawmakers push for more anti-jam capability (breaking_defense)
+- **Jan 28, 05:49 PM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
