@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 18 | 20 | 35 |
+| spacenews | 14 | 19 | 21 | 36 |
 | breaking_defense | 0 | 1 | 10 | 23 |
 | nyt | 0 | 0 | 10 | 22 |
 
@@ -4048,3 +4048,4 @@
 - **Jan 28, 07:54 AM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
 - **Jan 28, 08:29 AM** - Space Force leaders prep for FY27 budget jump, personnel increases (breaking_defense)
 - **Jan 28, 09:04 AM** - SpaceX launches GPS satellite for U.S. Space Force (spacenews)
+- **Jan 28, 09:39 AM** - What ‘commercial space’ really means depends on who’s buying — and why (spacenews)

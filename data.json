@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-28T00:04:36.752470+00:00",
-    "trigger_count": 6,
-    "current_item_id": "54c0100e564e5006ffab16cafaa9ddc5",
+    "trigger_count": 0,
+    "current_item_id": "5db8efaf0a3bc72b29c5c9368c473004",
     "data": [
         {
             "id": "24e5e737792a09bfa070cf67e9a08ac6",
@@ -9597,6 +9597,18 @@
             "fetched_datetime": "2026-01-28T09:04:37.833777Z",
             "shown_at": [
                 "2026-01-28T09:04:38.779572Z"
+            ]
+        },
+        {
+            "id": "5db8efaf0a3bc72b29c5c9368c473004",
+            "source": "spacenews",
+            "text": "What ‘commercial space’ really means depends on who’s buying — and why",
+            "source_link": "https://spacenews.com/what-commercial-space-really-means-depends-on-whos-buying-and-why/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-28T09:39:07.409758Z",
+            "shown_at": [
+                "2026-01-28T09:39:08.119681Z"
             ]
         }
     ]
