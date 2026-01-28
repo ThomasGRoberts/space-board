@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 14 | 22 | 19 | 37 |
+| spacenews | 15 | 23 | 20 | 38 |
 | breaking_defense | 1 | 2 | 11 | 22 |
 | nyt | 1 | 1 | 10 | 22 |
 
@@ -4064,3 +4064,4 @@
 - **Jan 28, 05:14 PM** - As Space Force wraps up GPS III launches, lawmakers push for more anti-jam capability (breaking_defense)
 - **Jan 28, 05:49 PM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
 - **Jan 28, 06:24 PM** - Rocket Lab suffers Neutron testing setback (spacenews)
+- **Jan 28, 06:59 PM** - Space Command’s case for orbital logistics: Why the Pentagon is being urged to think beyond launch (spacenews)

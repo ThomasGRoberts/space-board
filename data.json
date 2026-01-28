@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-28T00:04:36.752470+00:00",
-    "trigger_count": 6,
-    "current_item_id": "483ba0d416d11d16d33765c5a493cbfc",
+    "trigger_count": 0,
+    "current_item_id": "80ef5f81c5aa968ac0d65ee8b624f1b3",
     "data": [
         {
             "id": "24e5e737792a09bfa070cf67e9a08ac6",
@@ -9712,6 +9712,18 @@
             "fetched_datetime": "2026-01-28T17:14:26.278765Z",
             "shown_at": [
                 "2026-01-28T17:14:27.418958Z"
+            ]
+        },
+        {
+            "id": "80ef5f81c5aa968ac0d65ee8b624f1b3",
+            "source": "spacenews",
+            "text": "Space Command’s case for orbital logistics: Why the Pentagon is being urged to think beyond launch",
+            "source_link": "https://spacenews.com/space-commands-case-for-orbital-logistics-why-the-pentagon-is-being-urged-to-think-beyond-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-28T18:59:00.294415Z",
+            "shown_at": [
+                "2026-01-28T18:59:01.418789Z"
             ]
         }
     ]
