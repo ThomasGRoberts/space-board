@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 13 | 18 | 33 |
-| breaking_defense | 0 | 1 | 11 | 23 |
+| breaking_defense | 0 | 1 | 12 | 24 |
 | nyt | 0 | 0 | 11 | 24 |
 
 # Shown Order
@@ -4032,3 +4032,4 @@
 - **Jan 27, 10:24 PM** - France taps Loft Orbital to develop nation’s first ‘sovereign’ SAR satellite (breaking_defense)
 - **Jan 27, 10:59 PM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
 - **Jan 27, 11:33 PM** - NASA evaluation lauds quality of PlanetiQ radio occultation data (spacenews)
+- **Jan 28, 12:09 AM** - Space Force leaders prep for FY27 budget jump, personnel increases (breaking_defense)
