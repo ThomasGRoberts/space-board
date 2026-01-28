@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-28T00:04:36.752470+00:00",
-    "trigger_count": 6,
-    "current_item_id": "78194104e5cd46f34f082303be141d1e",
+    "trigger_count": 0,
+    "current_item_id": "d06e811f5d0705e655d5fc364766a99b",
     "data": [
         {
             "id": "24e5e737792a09bfa070cf67e9a08ac6",
@@ -9673,6 +9673,18 @@
             "fetched_datetime": "2026-01-28T14:54:57.151395Z",
             "shown_at": [
                 "2026-01-28T14:54:58.412546Z"
+            ]
+        },
+        {
+            "id": "d06e811f5d0705e655d5fc364766a99b",
+            "source": "spacenews",
+            "text": "OQ Technology plots smartphone test amid SpaceX’s C-band D2D push",
+            "source_link": "https://spacenews.com/oq-technology-plots-smartphone-test-amid-spacexs-c-band-d2d-push/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-28T15:29:25.624268Z",
+            "shown_at": [
+                "2026-01-28T15:29:26.736979Z"
             ]
         }
     ]
