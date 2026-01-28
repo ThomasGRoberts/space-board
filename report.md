@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 14 | 18 | 33 |
+| spacenews | 9 | 14 | 19 | 34 |
 | breaking_defense | 0 | 1 | 11 | 23 |
 | nyt | 0 | 0 | 11 | 24 |
 
@@ -4038,3 +4038,4 @@
 - **Jan 28, 01:59 AM** - EU launches government satcom program in sovereignty push (spacenews)
 - **Jan 28, 02:34 AM** - Space Force leaders prep for FY27 budget jump, personnel increases (breaking_defense)
 - **Jan 28, 03:09 AM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
+- **Jan 28, 03:44 AM** - H3 failure linked to payload fairing separation anomaly (spacenews)
