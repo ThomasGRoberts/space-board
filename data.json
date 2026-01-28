@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-28T00:04:36.752470+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2a4cf8010d67baf0a3c4df1d00f64b6e",
+    "trigger_count": 0,
+    "current_item_id": "ebbea83705dfb25d5864aba9786d4613",
     "data": [
         {
             "id": "24e5e737792a09bfa070cf67e9a08ac6",
@@ -9557,6 +9557,18 @@
             "fetched_datetime": "2026-01-28T04:19:11.224002Z",
             "shown_at": [
                 "2026-01-28T04:19:12.000484Z"
+            ]
+        },
+        {
+            "id": "ebbea83705dfb25d5864aba9786d4613",
+            "source": "spacenews",
+            "text": "NOAA solar observatory reaches Lagrange point 1",
+            "source_link": "https://spacenews.com/noaa-solar-observatory-reaches-lagrange-point-1/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-28T05:29:03.633265Z",
+            "shown_at": [
+                "2026-01-28T05:29:04.515575Z"
             ]
         }
     ]

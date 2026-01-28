@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 15 | 19 | 34 |
+| spacenews | 11 | 16 | 20 | 35 |
 | breaking_defense | 0 | 1 | 11 | 23 |
 | nyt | 0 | 0 | 10 | 23 |
 
@@ -4041,3 +4041,4 @@
 - **Jan 28, 03:44 AM** - H3 failure linked to payload fairing separation anomaly (spacenews)
 - **Jan 28, 04:19 AM** - Budget remains tight for scaled-back GeoXO program (spacenews)
 - **Jan 28, 04:54 AM** - Space Force leaders prep for FY27 budget jump, personnel increases (breaking_defense)
+- **Jan 28, 05:29 AM** - NOAA solar observatory reaches Lagrange point 1 (spacenews)
