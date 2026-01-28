@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-28T00:04:36.752470+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2e1506519a29223aa9634d8bd637df1b",
+    "trigger_count": 0,
+    "current_item_id": "a820fedd0e3139f7d0570d602443e5ca",
     "data": [
         {
             "id": "24e5e737792a09bfa070cf67e9a08ac6",
@@ -9698,6 +9698,18 @@
             "fetched_datetime": "2026-01-28T16:04:38.235496Z",
             "shown_at": [
                 "2026-01-28T16:04:39.307504Z"
+            ]
+        },
+        {
+            "id": "a820fedd0e3139f7d0570d602443e5ca",
+            "source": "breaking_defense",
+            "text": "As Space Force wraps up GPS III launches, lawmakers push for more anti-jam capability",
+            "source_link": "https://breakingdefense.com/2026/01/as-space-force-wraps-up-gps-iii-launches-worried-lawmakers-push-for-more-anti-jam-capability/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-28T17:14:26.278765Z",
+            "shown_at": [
+                "2026-01-28T17:14:27.418958Z"
             ]
         }
     ]
