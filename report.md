@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 14 | 23 | 19 | 37 |
-| breaking_defense | 0 | 1 | 10 | 21 |
+| breaking_defense | 0 | 1 | 11 | 22 |
 | nyt | 1 | 1 | 11 | 22 |
 
 # Shown Order
@@ -4060,3 +4060,4 @@
 - **Jan 28, 02:54 PM** - China set for crewed lunar tests, record launches, moon mission and reusable rockets in 2026 (spacenews)
 - **Jan 28, 03:29 PM** - OQ Technology plots smartphone test amid SpaceX’s C-band D2D push (spacenews)
 - **Jan 28, 04:04 PM** - Space Futures Centre, World Economic Forum Launch Space Debris Insights Report (spacenews)
+- **Jan 28, 04:39 PM** - France taps Loft Orbital to develop nation’s first ‘sovereign’ SAR satellite (breaking_defense)
