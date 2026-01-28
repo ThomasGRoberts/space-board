@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-28T00:04:36.752470+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1bde5dbc95e6187fd48a759fc070f299",
+    "trigger_count": 0,
+    "current_item_id": "78194104e5cd46f34f082303be141d1e",
     "data": [
         {
             "id": "24e5e737792a09bfa070cf67e9a08ac6",
@@ -9661,6 +9661,18 @@
             "fetched_datetime": "2026-01-28T14:19:07.378698Z",
             "shown_at": [
                 "2026-01-28T14:19:08.400676Z"
+            ]
+        },
+        {
+            "id": "78194104e5cd46f34f082303be141d1e",
+            "source": "spacenews",
+            "text": "China set for crewed lunar tests, record launches, moon mission and reusable rockets in 2026",
+            "source_link": "https://spacenews.com/china-set-for-crewed-lunar-tests-record-launches-moon-mission-and-reusable-rockets-in-2026/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-28T14:54:57.151395Z",
+            "shown_at": [
+                "2026-01-28T14:54:58.412546Z"
             ]
         }
     ]
