@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-28T00:04:36.752470+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8c67e84ee27331c095408a10ed872c1d",
+    "trigger_count": 0,
+    "current_item_id": "2b0d54b87d7aff686d813d40e49176d8",
     "data": [
         {
             "id": "24e5e737792a09bfa070cf67e9a08ac6",
@@ -9751,6 +9751,36 @@
             "shown_at": [
                 "2026-01-28T20:43:58.242419Z"
             ]
+        },
+        {
+            "id": "2b0d54b87d7aff686d813d40e49176d8",
+            "source": "spacenews",
+            "text": "GAO flags risks in Space Development Agency’s missile-tracking satellite program",
+            "source_link": "https://spacenews.com/gao-flags-risks-in-space-development-agencys-missile-tracking-satellite-program/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-28T21:58:56.590120Z",
+            "shown_at": [
+                "2026-01-28T21:58:57.667996Z"
+            ]
+        },
+        {
+            "id": "bff0b5fe66b170d36443ff00a09d7837",
+            "source": "spacenews",
+            "text": "HEO acquires in-orbit satellite from Satellogic",
+            "source_link": "https://spacenews.com/heo-acquires-in-orbit-satellite-from-satellogic/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-01-28T21:58:56.590206Z"
+        },
+        {
+            "id": "3b5c1761cc316aab13efe8a7910c7ece",
+            "source": "spacenews",
+            "text": "Space-focused SPAC goes public after pricing $200 million IPO",
+            "source_link": "https://spacenews.com/space-focused-spac-goes-public-after-pricing-200-million-ipo/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-01-28T21:58:56.590255Z"
         }
     ]
 }
