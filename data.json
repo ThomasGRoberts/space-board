@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-28T00:04:36.752470+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d06e811f5d0705e655d5fc364766a99b",
+    "trigger_count": 0,
+    "current_item_id": "01736bdffab3d16dbec96cf30b3aedbe",
     "data": [
         {
             "id": "24e5e737792a09bfa070cf67e9a08ac6",
@@ -9685,6 +9685,18 @@
             "fetched_datetime": "2026-01-28T15:29:25.624268Z",
             "shown_at": [
                 "2026-01-28T15:29:26.736979Z"
+            ]
+        },
+        {
+            "id": "01736bdffab3d16dbec96cf30b3aedbe",
+            "source": "spacenews",
+            "text": "Space Futures Centre, World Economic Forum Launch Space Debris Insights Report",
+            "source_link": "https://spacenews.com/space-futures-centre-world-economic-forum-launch-space-debris-insights-report/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-28T16:04:38.235496Z",
+            "shown_at": [
+                "2026-01-28T16:04:39.307504Z"
             ]
         }
     ]
