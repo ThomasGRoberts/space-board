@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 13 | 18 | 32 |
+| spacenews | 9 | 13 | 19 | 33 |
 | breaking_defense | 0 | 1 | 11 | 24 |
 | nyt | 0 | 0 | 11 | 24 |
 
@@ -4034,3 +4034,4 @@
 - **Jan 27, 11:33 PM** - NASA evaluation lauds quality of PlanetiQ radio occultation data (spacenews)
 - **Jan 28, 12:09 AM** - Space Force leaders prep for FY27 budget jump, personnel increases (breaking_defense)
 - **Jan 28, 12:49 AM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
+- **Jan 28, 01:24 AM** - We need a ‘Planetary Neural Network’ for AI-enabled space infrastructure protection (spacenews)
