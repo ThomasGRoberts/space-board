@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 17 | 27 | 19 | 38 |
+| spacenews | 17 | 27 | 20 | 39 |
 | breaking_defense | 3 | 3 | 12 | 23 |
 | nyt | 1 | 1 | 9 | 20 |
 
@@ -4072,3 +4072,4 @@
 - **Jan 28, 09:58 PM** - GAO flags risks in Space Development Agency’s missile-tracking satellite program (spacenews)
 - **Jan 28, 10:34 PM** - SDA must be ‘more realistic’ about real risks in pricey satellite Tracking Layer effort: GAO (breaking_defense)
 - **Jan 28, 11:09 PM** - HEO acquires in-orbit satellite from Satellogic (spacenews)
+- **Jan 28, 11:44 PM** - Space-focused SPAC goes public after pricing $200 million IPO (spacenews)
