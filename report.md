@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 17 | 19 | 34 |
-| breaking_defense | 0 | 1 | 10 | 23 |
+| breaking_defense | 0 | 1 | 11 | 24 |
 | nyt | 0 | 0 | 11 | 23 |
 
 # Shown Order
@@ -4046,3 +4046,4 @@
 - **Jan 28, 06:39 AM** - Space Force envisions rolling awards for new RG-XX neighborhood watch satellites (breaking_defense)
 - **Jan 28, 07:19 AM** - Exotrail and Astroscale France join forces to build deorbiting capability for LEO (spacenews)
 - **Jan 28, 07:54 AM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
+- **Jan 28, 08:29 AM** - Space Force leaders prep for FY27 budget jump, personnel increases (breaking_defense)
