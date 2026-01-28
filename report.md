@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 16 | 20 | 35 |
 | breaking_defense | 0 | 1 | 10 | 23 |
-| nyt | 0 | 0 | 10 | 22 |
+| nyt | 0 | 0 | 11 | 23 |
 
 # Shown Order
 
@@ -4042,3 +4042,4 @@
 - **Jan 28, 04:19 AM** - Budget remains tight for scaled-back GeoXO program (spacenews)
 - **Jan 28, 04:54 AM** - Space Force leaders prep for FY27 budget jump, personnel increases (breaking_defense)
 - **Jan 28, 05:29 AM** - NOAA solar observatory reaches Lagrange point 1 (spacenews)
+- **Jan 28, 06:04 AM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
