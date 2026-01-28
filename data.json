@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-28T00:04:36.752470+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2e1506519a29223aa9634d8bd637df1b",
+    "trigger_count": 0,
+    "current_item_id": "3958122dcd31db50528360a27247c813",
     "data": [
         {
             "id": "24e5e737792a09bfa070cf67e9a08ac6",
@@ -9725,6 +9725,18 @@
             "fetched_datetime": "2026-01-28T18:59:00.294415Z",
             "shown_at": [
                 "2026-01-28T18:59:01.418789Z"
+            ]
+        },
+        {
+            "id": "3958122dcd31db50528360a27247c813",
+            "source": "spacenews",
+            "text": "U.S. Space Command to bring commercial firms into classified wargame on nuclear threats in space",
+            "source_link": "https://spacenews.com/u-s-space-command-to-bring-commercial-firms-into-classified-wargame-on-nuclear-threats-in-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-28T20:09:12.624528Z",
+            "shown_at": [
+                "2026-01-28T20:09:14.105578Z"
             ]
         }
     ]

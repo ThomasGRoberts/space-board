@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 15 | 23 | 19 | 37 |
+| spacenews | 16 | 24 | 20 | 38 |
 | breaking_defense | 1 | 2 | 11 | 23 |
 | nyt | 1 | 1 | 10 | 21 |
 
@@ -4066,3 +4066,4 @@
 - **Jan 28, 06:24 PM** - Rocket Lab suffers Neutron testing setback (spacenews)
 - **Jan 28, 06:59 PM** - Space Command’s case for orbital logistics: Why the Pentagon is being urged to think beyond launch (spacenews)
 - **Jan 28, 07:34 PM** - France taps Loft Orbital to develop nation’s first ‘sovereign’ SAR satellite (breaking_defense)
+- **Jan 28, 08:09 PM** - U.S. Space Command to bring commercial firms into classified wargame on nuclear threats in space (spacenews)
