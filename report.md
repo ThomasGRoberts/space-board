@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 20 | 18 | 35 |
 | breaking_defense | 0 | 1 | 11 | 23 |
-| nyt | 1 | 1 | 11 | 22 |
+| nyt | 1 | 1 | 12 | 23 |
 
 # Shown Order
 
@@ -4055,3 +4055,4 @@
 - **Jan 28, 11:59 AM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
 - **Jan 28, 12:34 PM** - FAA projects continuing growth in commercial space transportation (spacenews)
 - **Jan 28, 01:09 PM** - SDA taps Starfish for first-of-its-kind satellite disposal service (breaking_defense)
+- **Jan 28, 01:44 PM** - How to View the Artemis II Moon Launch (nyt)
