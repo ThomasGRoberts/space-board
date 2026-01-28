@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-28T00:04:36.752470+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2b0d54b87d7aff686d813d40e49176d8",
+    "trigger_count": 0,
+    "current_item_id": "7f16e63763dd0f22f597fb0aa70be80b",
     "data": [
         {
             "id": "24e5e737792a09bfa070cf67e9a08ac6",
@@ -9781,6 +9781,18 @@
             "shown": false,
             "type": "news",
             "fetched_datetime": "2026-01-28T21:58:56.590255Z"
+        },
+        {
+            "id": "7f16e63763dd0f22f597fb0aa70be80b",
+            "source": "breaking_defense",
+            "text": "SDA must be ‘more realistic’ about real risks in pricey satellite Tracking Layer effort: GAO",
+            "source_link": "https://breakingdefense.com/2026/01/sda-must-be-more-realistic-about-real-risks-in-pricey-satellite-tracking-layer-effort-gao/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-28T22:34:20.709543Z",
+            "shown_at": [
+                "2026-01-28T22:34:21.752952Z"
+            ]
         }
     ]
 }
