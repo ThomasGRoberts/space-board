@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 14 | 18 | 33 |
 | breaking_defense | 0 | 1 | 11 | 24 |
-| nyt | 0 | 0 | 11 | 23 |
+| nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
 
@@ -4037,3 +4037,4 @@
 - **Jan 28, 01:24 AM** - We need a ‘Planetary Neural Network’ for AI-enabled space infrastructure protection (spacenews)
 - **Jan 28, 01:59 AM** - EU launches government satcom program in sovereignty push (spacenews)
 - **Jan 28, 02:34 AM** - Space Force leaders prep for FY27 budget jump, personnel increases (breaking_defense)
+- **Jan 28, 03:09 AM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
