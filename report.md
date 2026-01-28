@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 14 | 19 | 20 | 35 |
 | breaking_defense | 0 | 1 | 10 | 23 |
-| nyt | 0 | 0 | 10 | 22 |
+| nyt | 1 | 1 | 11 | 23 |
 
 # Shown Order
 
@@ -4049,3 +4049,4 @@
 - **Jan 28, 08:29 AM** - Space Force leaders prep for FY27 budget jump, personnel increases (breaking_defense)
 - **Jan 28, 09:04 AM** - SpaceX launches GPS satellite for U.S. Space Force (spacenews)
 - **Jan 28, 09:39 AM** - What ‘commercial space’ really means depends on who’s buying — and why (spacenews)
+- **Jan 28, 10:14 AM** - How to View the Artemis II Moon Launch (nyt)

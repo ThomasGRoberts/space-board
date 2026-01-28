@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-28T00:04:36.752470+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5db8efaf0a3bc72b29c5c9368c473004",
+    "trigger_count": 0,
+    "current_item_id": "8c67e84ee27331c095408a10ed872c1d",
     "data": [
         {
             "id": "24e5e737792a09bfa070cf67e9a08ac6",
@@ -9609,6 +9609,18 @@
             "fetched_datetime": "2026-01-28T09:39:07.409758Z",
             "shown_at": [
                 "2026-01-28T09:39:08.119681Z"
+            ]
+        },
+        {
+            "id": "8c67e84ee27331c095408a10ed872c1d",
+            "source": "nyt",
+            "text": "How to View the Artemis II Moon Launch",
+            "source_link": "https://www.nytimes.com/2026/01/28/travel/florida-artemis-ii-moon-launch.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-28T10:14:04.694490Z",
+            "shown_at": [
+                "2026-01-28T10:14:05.487504Z"
             ]
         }
     ]
