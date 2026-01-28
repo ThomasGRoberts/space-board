@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 20 | 18 | 35 |
 | breaking_defense | 0 | 1 | 11 | 23 |
-| nyt | 1 | 1 | 11 | 22 |
+| nyt | 1 | 1 | 12 | 23 |
 
 # Shown Order
 
@@ -4052,3 +4052,4 @@
 - **Jan 28, 10:14 AM** - How to View the Artemis II Moon Launch (nyt)
 - **Jan 28, 10:49 AM** - France taps Loft Orbital to develop nation’s first ‘sovereign’ SAR satellite (breaking_defense)
 - **Jan 28, 11:24 AM** - Terran Orbital to Deliver Nebula Bus for Mitsubishi Electric LEO Demo Mission (spacenews)
+- **Jan 28, 11:59 AM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
