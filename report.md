@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 15 | 23 | 19 | 37 |
-| breaking_defense | 1 | 2 | 11 | 22 |
+| breaking_defense | 1 | 2 | 12 | 23 |
 | nyt | 1 | 1 | 10 | 22 |
 
 # Shown Order
@@ -4065,3 +4065,4 @@
 - **Jan 28, 05:49 PM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
 - **Jan 28, 06:24 PM** - Rocket Lab suffers Neutron testing setback (spacenews)
 - **Jan 28, 06:59 PM** - Space Command’s case for orbital logistics: Why the Pentagon is being urged to think beyond launch (spacenews)
+- **Jan 28, 07:34 PM** - France taps Loft Orbital to develop nation’s first ‘sovereign’ SAR satellite (breaking_defense)
