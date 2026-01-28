@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 19 | 18 | 34 |
+| spacenews | 13 | 20 | 19 | 35 |
 | breaking_defense | 0 | 1 | 11 | 23 |
 | nyt | 1 | 1 | 11 | 23 |
 
@@ -4053,3 +4053,4 @@
 - **Jan 28, 10:49 AM** - France taps Loft Orbital to develop nation’s first ‘sovereign’ SAR satellite (breaking_defense)
 - **Jan 28, 11:24 AM** - Terran Orbital to Deliver Nebula Bus for Mitsubishi Electric LEO Demo Mission (spacenews)
 - **Jan 28, 11:59 AM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
+- **Jan 28, 12:34 PM** - FAA projects continuing growth in commercial space transportation (spacenews)

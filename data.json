@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-28T00:04:36.752470+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ed4688bf6cc4f6c5a671d44693bb588c",
+    "trigger_count": 0,
+    "current_item_id": "4621528f5c9384acc7d52ff44e9da954",
     "data": [
         {
             "id": "24e5e737792a09bfa070cf67e9a08ac6",
@@ -9635,6 +9635,18 @@
             "fetched_datetime": "2026-01-28T11:24:08.026215Z",
             "shown_at": [
                 "2026-01-28T11:24:09.054289Z"
+            ]
+        },
+        {
+            "id": "4621528f5c9384acc7d52ff44e9da954",
+            "source": "spacenews",
+            "text": "FAA projects continuing growth in commercial space transportation",
+            "source_link": "https://spacenews.com/faa-projects-continuing-growth-in-commercial-space-transportation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-28T12:34:28.967868Z",
+            "shown_at": [
+                "2026-01-28T12:34:30.110039Z"
             ]
         }
     ]
