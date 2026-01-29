@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 3 | 3 | 13 | 24 |
-| spacenews | 9 | 23 | 16 | 35 |
+| breaking_defense | 2 | 3 | 12 | 24 |
+| spacenews | 10 | 24 | 17 | 36 |
 | nyt | 0 | 1 | 12 | 22 |
 
 # Shown Order
@@ -3985,3 +3985,4 @@
 - **Jan 29, 03:34 PM** - SDA must be ‘more realistic’ about real risks in pricey satellite Tracking Layer effort: GAO (breaking_defense)
 - **Jan 29, 04:09 PM** - China eyes space resources, space tourism and on-orbit digital infrastructure (spacenews)
 - **Jan 29, 04:44 PM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
+- **Jan 29, 05:19 PM** - Oxford Space Systems Wrapped Rib Antenna Successfully Deployed In-Orbit on CarbSAR Mission (spacenews)
