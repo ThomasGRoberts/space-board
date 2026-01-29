@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 3 | 3 | 12 | 22 |
-| spacenews | 16 | 25 | 19 | 38 |
+| breaking_defense | 3 | 3 | 13 | 23 |
+| spacenews | 15 | 25 | 18 | 38 |
 | nyt | 1 | 1 | 10 | 21 |
 
 # Shown Order
@@ -3963,3 +3963,4 @@
 - **Jan 29, 02:39 AM** - Space Force envisions rolling awards for new RG-XX neighborhood watch satellites (breaking_defense)
 - **Jan 29, 03:14 AM** - NASA and DOE to collaborate on lunar nuclear reactor development (spacenews)
 - **Jan 29, 03:49 AM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
+- **Jan 29, 04:24 AM** - SDA must be ‘more realistic’ about real risks in pricey satellite Tracking Layer effort: GAO (breaking_defense)
