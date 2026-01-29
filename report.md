@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 3 | 12 | 24 |
+| breaking_defense | 2 | 3 | 13 | 25 |
 | spacenews | 10 | 24 | 17 | 35 |
 | nyt | 0 | 1 | 11 | 22 |
 
@@ -3986,3 +3986,4 @@
 - **Jan 29, 04:09 PM** - China eyes space resources, space tourism and on-orbit digital infrastructure (spacenews)
 - **Jan 29, 04:44 PM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
 - **Jan 29, 05:19 PM** - Oxford Space Systems Wrapped Rib Antenna Successfully Deployed In-Orbit on CarbSAR Mission (spacenews)
+- **Jan 29, 05:54 PM** - SPACECOM chief cites Army, Marines as models for expanding on-orbit warfighting exercises (breaking_defense)
