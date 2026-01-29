@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 3 | 12 | 23 |
 | spacenews | 13 | 25 | 19 | 38 |
-| nyt | 1 | 1 | 10 | 20 |
+| nyt | 1 | 1 | 11 | 21 |
 
 # Shown Order
 
@@ -3971,3 +3971,4 @@
 - **Jan 29, 07:19 AM** - How to View the Artemis II Moon Launch (nyt)
 - **Jan 29, 07:54 AM** - SPACECOM chief cites Army, Marines as models for expanding on-orbit warfighting exercises (breaking_defense)
 - **Jan 29, 08:29 AM** - Space Command’s case for orbital logistics: Why the Pentagon is being urged to think beyond launch (spacenews)
+- **Jan 29, 09:04 AM** - How to View the Artemis II Moon Launch (nyt)
