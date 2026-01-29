@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 3 | 12 | 23 |
-| spacenews | 17 | 26 | 20 | 38 |
-| nyt | 1 | 1 | 9 | 20 |
+| spacenews | 16 | 26 | 19 | 38 |
+| nyt | 1 | 1 | 10 | 21 |
 
 # Shown Order
 
@@ -3959,3 +3959,4 @@
 - **Jan 29, 12:19 AM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
 - **Jan 29, 12:54 AM** - As Space Force wraps up GPS III launches, lawmakers push for more anti-jam capability (breaking_defense)
 - **Jan 29, 01:29 AM** - Hanwha exploring South Korean defense constellation with MDA Space and Telesat (spacenews)
+- **Jan 29, 02:04 AM** - How to View the Artemis II Moon Launch (nyt)
