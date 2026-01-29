@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-29T00:04:33.937545+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1bde5dbc95e6187fd48a759fc070f299",
+    "trigger_count": 0,
+    "current_item_id": "9a3cb0942da2af9ac9777211710ef1c4",
     "data": [
         {
             "id": "7f16e63763dd0f22f597fb0aa70be80b",
@@ -9553,6 +9553,18 @@
             "fetched_datetime": "2026-01-29T19:39:11.075064Z",
             "shown_at": [
                 "2026-01-29T19:39:12.266119Z"
+            ]
+        },
+        {
+            "id": "9a3cb0942da2af9ac9777211710ef1c4",
+            "source": "spacenews",
+            "text": "Global Space Economy Reaches $626 Billion, Marking a New Phase of Growth",
+            "source_link": "https://spacenews.com/global-space-economy-reaches-626-billion-marking-a-new-phase-of-growth/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-29T21:59:02.035513Z",
+            "shown_at": [
+                "2026-01-29T21:59:03.227258Z"
             ]
         }
     ]
