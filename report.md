@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 3 | 12 | 23 |
-| spacenews | 15 | 25 | 19 | 38 |
-| nyt | 1 | 1 | 10 | 20 |
+| spacenews | 14 | 25 | 18 | 38 |
+| nyt | 1 | 1 | 11 | 21 |
 
 # Shown Order
 
@@ -3965,3 +3965,4 @@
 - **Jan 29, 03:49 AM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
 - **Jan 29, 04:24 AM** - SDA must be ‘more realistic’ about real risks in pricey satellite Tracking Layer effort: GAO (breaking_defense)
 - **Jan 29, 04:59 AM** - Open Cosmos advances broadband plans with spectrum once held by Rivada (spacenews)
+- **Jan 29, 05:34 AM** - How to View the Artemis II Moon Launch (nyt)
