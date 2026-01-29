@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 3 | 11 | 23 |
 | spacenews | 17 | 26 | 20 | 38 |
-| nyt | 1 | 1 | 9 | 20 |
+| nyt | 1 | 1 | 10 | 21 |
 
 # Shown Order
 
@@ -3956,3 +3956,4 @@
 - **Jan 28, 10:34 PM** - SDA must be ‘more realistic’ about real risks in pricey satellite Tracking Layer effort: GAO (breaking_defense)
 - **Jan 28, 11:09 PM** - HEO acquires in-orbit satellite from Satellogic (spacenews)
 - **Jan 28, 11:44 PM** - Space-focused SPAC goes public after pricing $200 million IPO (spacenews)
+- **Jan 29, 12:19 AM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
