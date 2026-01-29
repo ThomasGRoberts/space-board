@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-29T00:04:33.937545+00:00",
-    "trigger_count": 6,
-    "current_item_id": "168a9baca323b703e577661c0da1afa6",
+    "trigger_count": 0,
+    "current_item_id": "2764a3ddc62b49296ff23f4b8cbd75b4",
     "data": [
         {
             "id": "7f16e63763dd0f22f597fb0aa70be80b",
@@ -9567,6 +9567,36 @@
             "shown_at": [
                 "2026-01-29T21:59:03.227258Z"
             ]
+        },
+        {
+            "id": "2764a3ddc62b49296ff23f4b8cbd75b4",
+            "source": "spacenews",
+            "text": "Alabama National Guard general to manage Space Command headquarters transition",
+            "source_link": "https://spacenews.com/alabama-national-guard-general-to-manage-space-command-headquarters-transition/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-29T23:09:24.116714Z",
+            "shown_at": [
+                "2026-01-29T23:09:25.173407Z"
+            ]
+        },
+        {
+            "id": "5d5dced167aae00be980e687df35d18a",
+            "source": "spacenews",
+            "text": "NASA considering alternatives for Gateway logistics",
+            "source_link": "https://spacenews.com/nasa-considering-alternatives-for-gateway-logistics/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-01-29T23:09:24.116793Z"
+        },
+        {
+            "id": "1cfd32928bbdd7d603eccbc5796b4981",
+            "source": "spacenews",
+            "text": "York Space goes public, riding Pentagon demand",
+            "source_link": "https://spacenews.com/york-space-goes-public-riding-pentagon-demand/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-01-29T23:09:24.116838Z"
         }
     ]
 }
