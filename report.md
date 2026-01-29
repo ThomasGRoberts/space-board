@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 3 | 12 | 23 |
-| spacenews | 16 | 25 | 19 | 37 |
-| nyt | 1 | 1 | 10 | 21 |
+| spacenews | 16 | 25 | 20 | 38 |
+| nyt | 1 | 1 | 9 | 21 |
 
 # Shown Order
 
@@ -3961,3 +3961,4 @@
 - **Jan 29, 01:29 AM** - Hanwha exploring South Korean defense constellation with MDA Space and Telesat (spacenews)
 - **Jan 29, 02:04 AM** - How to View the Artemis II Moon Launch (nyt)
 - **Jan 29, 02:39 AM** - Space Force envisions rolling awards for new RG-XX neighborhood watch satellites (breaking_defense)
+- **Jan 29, 03:14 AM** - NASA and DOE to collaborate on lunar nuclear reactor development (spacenews)
