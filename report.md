@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 3 | 12 | 23 |
 | spacenews | 12 | 25 | 18 | 37 |
-| nyt | 0 | 1 | 10 | 21 |
+| nyt | 0 | 1 | 11 | 22 |
 
 # Shown Order
 
@@ -3974,3 +3974,4 @@
 - **Jan 29, 09:04 AM** - How to View the Artemis II Moon Launch (nyt)
 - **Jan 29, 09:44 AM** - SDA must be ‘more realistic’ about real risks in pricey satellite Tracking Layer effort: GAO (breaking_defense)
 - **Jan 29, 10:19 AM** - SpaceX plans next Starship test flight in March (spacenews)
+- **Jan 29, 10:54 AM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
