@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 3 | 3 | 14 | 24 |
+| breaking_defense | 3 | 3 | 13 | 24 |
 | spacenews | 9 | 23 | 16 | 35 |
-| nyt | 0 | 1 | 11 | 22 |
+| nyt | 0 | 1 | 12 | 23 |
 
 # Shown Order
 
@@ -3984,3 +3984,4 @@
 - **Jan 29, 02:59 PM** - How to View the Artemis II Moon Launch (nyt)
 - **Jan 29, 03:34 PM** - SDA must be ‘more realistic’ about real risks in pricey satellite Tracking Layer effort: GAO (breaking_defense)
 - **Jan 29, 04:09 PM** - China eyes space resources, space tourism and on-orbit digital infrastructure (spacenews)
+- **Jan 29, 04:44 PM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
