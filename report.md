@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 3 | 13 | 24 |
-| spacenews | 11 | 24 | 17 | 36 |
+| spacenews | 11 | 24 | 18 | 37 |
 | nyt | 0 | 1 | 10 | 21 |
 
 # Shown Order
@@ -3980,3 +3980,4 @@
 - **Jan 29, 12:39 PM** - Space Grove Ventures Announces Public Launch at SpaceCom | Space Congress, Signaling a New Commercial Model for Space and Defense Ecosystem Development (spacenews)
 - **Jan 29, 01:14 PM** - How to View the Artemis II Moon Launch (nyt)
 - **Jan 29, 01:49 PM** - As Space Force wraps up GPS III launches, lawmakers push for more anti-jam capability (breaking_defense)
+- **Jan 29, 02:24 PM** - China set for crewed lunar tests, record launches, moon mission and reusable rockets in 2026 (spacenews)
