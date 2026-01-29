@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-29T00:04:33.937545+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7f16e63763dd0f22f597fb0aa70be80b",
+    "trigger_count": 0,
+    "current_item_id": "e3f14b4642c224859f88e07f03063de4",
     "data": [
         {
             "id": "7f16e63763dd0f22f597fb0aa70be80b",
@@ -9482,6 +9482,27 @@
             "shown_at": [
                 "2026-01-29T10:19:22.098925Z"
             ]
+        },
+        {
+            "id": "e3f14b4642c224859f88e07f03063de4",
+            "source": "spacenews",
+            "text": "What would Artemis participation mean for Türkiye’s space industry and space diplomacy?",
+            "source_link": "https://spacenews.com/what-would-artemis-participation-mean-for-turkiyes-space-industry-and-space-diplomacy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-29T12:04:35.946573Z",
+            "shown_at": [
+                "2026-01-29T12:04:37.017019Z"
+            ]
+        },
+        {
+            "id": "80680513266de58b9f2d1beb4df4adb1",
+            "source": "spacenews",
+            "text": "Space Grove Ventures Announces Public Launch at SpaceCom | Space Congress, Signaling a New Commercial Model for Space and Defense Ecosystem Development",
+            "source_link": "https://spacenews.com/space-grove-ventures-announces-public-launch-at-spacecom-space-congress-signaling-a-new-commercial-model-for-space-and-defense-ecosystem-development/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-01-29T12:04:35.946643Z"
         }
     ]
 }
