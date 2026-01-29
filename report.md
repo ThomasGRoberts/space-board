@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 3 | 12 | 23 |
-| spacenews | 17 | 26 | 20 | 38 |
+| spacenews | 17 | 26 | 20 | 39 |
 | nyt | 1 | 1 | 9 | 20 |
 
 # Shown Order
@@ -3958,3 +3958,4 @@
 - **Jan 28, 11:44 PM** - Space-focused SPAC goes public after pricing $200 million IPO (spacenews)
 - **Jan 29, 12:19 AM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
 - **Jan 29, 12:54 AM** - As Space Force wraps up GPS III launches, lawmakers push for more anti-jam capability (breaking_defense)
+- **Jan 29, 01:29 AM** - Hanwha exploring South Korean defense constellation with MDA Space and Telesat (spacenews)
