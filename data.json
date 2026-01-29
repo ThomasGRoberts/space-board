@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-29T00:04:33.937545+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2764a3ddc62b49296ff23f4b8cbd75b4",
+    "trigger_count": 0,
+    "current_item_id": "5d5dced167aae00be980e687df35d18a",
     "data": [
         {
             "id": "7f16e63763dd0f22f597fb0aa70be80b",
@@ -9585,9 +9585,12 @@
             "source": "spacenews",
             "text": "NASA considering alternatives for Gateway logistics",
             "source_link": "https://spacenews.com/nasa-considering-alternatives-for-gateway-logistics/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-01-29T23:09:24.116793Z"
+            "fetched_datetime": "2026-01-29T23:09:24.116793Z",
+            "shown_at": [
+                "2026-01-29T23:44:15.893535Z"
+            ]
         },
         {
             "id": "1cfd32928bbdd7d603eccbc5796b4981",

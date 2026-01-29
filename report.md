@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 3 | 12 | 24 |
-| spacenews | 10 | 27 | 17 | 36 |
+| spacenews | 10 | 27 | 17 | 37 |
 | nyt | 0 | 1 | 12 | 21 |
 
 # Shown Order
@@ -3996,3 +3996,4 @@
 - **Jan 29, 09:59 PM** - Global Space Economy Reaches $626 Billion, Marking a New Phase of Growth (spacenews)
 - **Jan 29, 10:34 PM** - Space Force envisions rolling awards for new RG-XX neighborhood watch satellites (breaking_defense)
 - **Jan 29, 11:09 PM** - Alabama National Guard general to manage Space Command headquarters transition (spacenews)
+- **Jan 29, 11:44 PM** - NASA considering alternatives for Gateway logistics (spacenews)
