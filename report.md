@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 3 | 3 | 13 | 23 |
-| spacenews | 11 | 25 | 17 | 37 |
+| spacenews | 12 | 26 | 18 | 38 |
 | nyt | 0 | 1 | 10 | 21 |
 
 # Shown Order
@@ -3973,3 +3973,4 @@
 - **Jan 29, 08:29 AM** - Space Command’s case for orbital logistics: Why the Pentagon is being urged to think beyond launch (spacenews)
 - **Jan 29, 09:04 AM** - How to View the Artemis II Moon Launch (nyt)
 - **Jan 29, 09:44 AM** - SDA must be ‘more realistic’ about real risks in pricey satellite Tracking Layer effort: GAO (breaking_defense)
+- **Jan 29, 10:19 AM** - SpaceX plans next Starship test flight in March (spacenews)
