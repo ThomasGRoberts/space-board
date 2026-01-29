@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 13 | 24 |
 | spacenews | 10 | 24 | 16 | 35 |
-| nyt | 0 | 1 | 11 | 22 |
+| nyt | 0 | 1 | 12 | 23 |
 
 # Shown Order
 
@@ -3987,3 +3987,4 @@
 - **Jan 29, 04:44 PM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
 - **Jan 29, 05:19 PM** - Oxford Space Systems Wrapped Rib Antenna Successfully Deployed In-Orbit on CarbSAR Mission (spacenews)
 - **Jan 29, 05:54 PM** - SPACECOM chief cites Army, Marines as models for expanding on-orbit warfighting exercises (breaking_defense)
+- **Jan 29, 06:29 PM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
