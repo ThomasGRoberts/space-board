@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 3 | 3 | 12 | 22 |
+| breaking_defense | 3 | 3 | 13 | 23 |
 | spacenews | 14 | 25 | 18 | 38 |
-| nyt | 1 | 1 | 11 | 21 |
+| nyt | 1 | 1 | 10 | 21 |
 
 # Shown Order
 
@@ -3966,3 +3966,4 @@
 - **Jan 29, 04:24 AM** - SDA must be ‘more realistic’ about real risks in pricey satellite Tracking Layer effort: GAO (breaking_defense)
 - **Jan 29, 04:59 AM** - Open Cosmos advances broadband plans with spectrum once held by Rivada (spacenews)
 - **Jan 29, 05:34 AM** - How to View the Artemis II Moon Launch (nyt)
+- **Jan 29, 06:09 AM** - As Space Force wraps up GPS III launches, lawmakers push for more anti-jam capability (breaking_defense)
