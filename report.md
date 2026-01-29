@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 12 | 24 |
-| spacenews | 9 | 24 | 16 | 35 |
+| spacenews | 10 | 25 | 17 | 36 |
 | nyt | 0 | 1 | 12 | 22 |
 
 # Shown Order
@@ -3989,3 +3989,4 @@
 - **Jan 29, 05:54 PM** - SPACECOM chief cites Army, Marines as models for expanding on-orbit warfighting exercises (breaking_defense)
 - **Jan 29, 06:29 PM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
 - **Jan 29, 07:04 PM** - Hanwha exploring South Korean defense constellation with MDA Space and Telesat (spacenews)
+- **Jan 29, 07:39 PM** - Eutelsat’s ground infrastructure sale falls through (spacenews)
