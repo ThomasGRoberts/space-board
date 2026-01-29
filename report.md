@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 12 | 24 |
 | spacenews | 9 | 25 | 16 | 36 |
-| nyt | 0 | 1 | 12 | 21 |
+| nyt | 0 | 1 | 13 | 22 |
 
 # Shown Order
 
@@ -3991,3 +3991,4 @@
 - **Jan 29, 07:04 PM** - Hanwha exploring South Korean defense constellation with MDA Space and Telesat (spacenews)
 - **Jan 29, 07:39 PM** - Eutelsat’s ground infrastructure sale falls through (spacenews)
 - **Jan 29, 08:14 PM** - As Space Force wraps up GPS III launches, lawmakers push for more anti-jam capability (breaking_defense)
+- **Jan 29, 08:49 PM** - How to View the Artemis II Moon Launch (nyt)
