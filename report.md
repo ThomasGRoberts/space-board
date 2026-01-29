@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 3 | 3 | 13 | 24 |
+| breaking_defense | 3 | 3 | 12 | 24 |
 | spacenews | 12 | 24 | 18 | 36 |
-| nyt | 0 | 1 | 10 | 21 |
+| nyt | 0 | 1 | 11 | 22 |
 
 # Shown Order
 
@@ -3978,3 +3978,4 @@
 - **Jan 29, 11:29 AM** - SDA must be ‘more realistic’ about real risks in pricey satellite Tracking Layer effort: GAO (breaking_defense)
 - **Jan 29, 12:04 PM** - What would Artemis participation mean for Türkiye’s space industry and space diplomacy? (spacenews)
 - **Jan 29, 12:39 PM** - Space Grove Ventures Announces Public Launch at SpaceCom | Space Congress, Signaling a New Commercial Model for Space and Defense Ecosystem Development (spacenews)
+- **Jan 29, 01:14 PM** - How to View the Artemis II Moon Launch (nyt)
