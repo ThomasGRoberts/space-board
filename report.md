@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 3 | 3 | 12 | 23 |
+| breaking_defense | 3 | 3 | 13 | 24 |
 | spacenews | 11 | 23 | 17 | 36 |
 | nyt | 0 | 1 | 11 | 22 |
 
@@ -3975,3 +3975,4 @@
 - **Jan 29, 09:44 AM** - SDA must be ‘more realistic’ about real risks in pricey satellite Tracking Layer effort: GAO (breaking_defense)
 - **Jan 29, 10:19 AM** - SpaceX plans next Starship test flight in March (spacenews)
 - **Jan 29, 10:54 AM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
+- **Jan 29, 11:29 AM** - SDA must be ‘more realistic’ about real risks in pricey satellite Tracking Layer effort: GAO (breaking_defense)
