@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 3 | 12 | 23 |
-| spacenews | 10 | 25 | 17 | 36 |
+| breaking_defense | 2 | 3 | 13 | 24 |
+| spacenews | 9 | 25 | 16 | 36 |
 | nyt | 0 | 1 | 12 | 22 |
 
 # Shown Order
@@ -3990,3 +3990,4 @@
 - **Jan 29, 06:29 PM** - Sonic Booms and Seismic Waves Can Reveal Where Space Junk Crash-Lands (nyt)
 - **Jan 29, 07:04 PM** - Hanwha exploring South Korean defense constellation with MDA Space and Telesat (spacenews)
 - **Jan 29, 07:39 PM** - Eutelsat’s ground infrastructure sale falls through (spacenews)
+- **Jan 29, 08:14 PM** - As Space Force wraps up GPS III launches, lawmakers push for more anti-jam capability (breaking_defense)
