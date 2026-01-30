@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-30T00:04:29.851062+00:00",
-    "trigger_count": 6,
-    "current_item_id": "168a9baca323b703e577661c0da1afa6",
+    "trigger_count": 0,
+    "current_item_id": "72025b4f6415d703fc0533291a63e33c",
     "data": [
         {
             "id": "1cfd32928bbdd7d603eccbc5796b4981",
@@ -9540,6 +9540,18 @@
             "fetched_datetime": "2026-01-30T22:19:46.597354Z",
             "shown_at": [
                 "2026-01-30T22:19:47.684379Z"
+            ]
+        },
+        {
+            "id": "72025b4f6415d703fc0533291a63e33c",
+            "source": "spacenews",
+            "text": "L3Harris reaffirms commitment to space business amid missile sector expansion",
+            "source_link": "https://spacenews.com/l3harris-reaffirms-commitment-to-space-business-amid-missile-sector-expansion/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-30T23:29:11.339217Z",
+            "shown_at": [
+                "2026-01-30T23:29:12.521070Z"
             ]
         }
     ]

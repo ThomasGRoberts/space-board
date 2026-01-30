@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 15 | 17 | 34 |
+| spacenews | 6 | 16 | 18 | 35 |
 | breaking_defense | 2 | 2 | 12 | 24 |
 | nyt | 0 | 0 | 11 | 23 |
 
@@ -3969,3 +3969,4 @@
 - **Jan 30, 09:44 PM** - Weather delays Artemis 2 wet dress rehearsal (spacenews)
 - **Jan 30, 10:19 PM** - Blue Origin halts New Shepard flights (spacenews)
 - **Jan 30, 10:54 PM** - Space Force envisions rolling awards for new RG-XX neighborhood watch satellites (breaking_defense)
+- **Jan 30, 11:29 PM** - L3Harris reaffirms commitment to space business amid missile sector expansion (spacenews)
