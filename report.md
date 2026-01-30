@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 14 | 17 | 34 |
+| spacenews | 8 | 15 | 18 | 35 |
 | breaking_defense | 2 | 3 | 12 | 24 |
 | nyt | 0 | 0 | 11 | 23 |
 
@@ -3967,3 +3967,4 @@
 - **Jan 30, 08:35 PM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
 - **Jan 30, 09:09 PM** - How to View the Artemis II Moon Launch (nyt)
 - **Jan 30, 09:44 PM** - Weather delays Artemis 2 wet dress rehearsal (spacenews)
+- **Jan 30, 10:19 PM** - Blue Origin halts New Shepard flights (spacenews)
