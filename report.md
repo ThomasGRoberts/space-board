@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 27 | 18 | 38 |
-| breaking_defense | 0 | 3 | 11 | 23 |
+| spacenews | 10 | 27 | 18 | 37 |
+| breaking_defense | 0 | 3 | 12 | 24 |
 | nyt | 0 | 1 | 12 | 21 |
 
 # Shown Order
@@ -3932,3 +3932,4 @@
 - **Jan 29, 11:44 PM** - NASA considering alternatives for Gateway logistics (spacenews)
 - **Jan 30, 12:19 AM** - York Space goes public, riding Pentagon demand (spacenews)
 - **Jan 30, 12:54 AM** - How to View the Artemis II Moon Launch (nyt)
+- **Jan 30, 01:28 AM** - As Space Force wraps up GPS III launches, lawmakers push for more anti-jam capability (breaking_defense)
