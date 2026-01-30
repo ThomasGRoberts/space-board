@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-30T00:04:29.851062+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8c67e84ee27331c095408a10ed872c1d",
+    "trigger_count": 0,
+    "current_item_id": "6a36c9085320b50f31975ba62e070ddd",
     "data": [
         {
             "id": "1cfd32928bbdd7d603eccbc5796b4981",
@@ -9515,6 +9515,18 @@
             "fetched_datetime": "2026-01-30T20:35:05.651325Z",
             "shown_at": [
                 "2026-01-30T20:35:06.894276Z"
+            ]
+        },
+        {
+            "id": "6a36c9085320b50f31975ba62e070ddd",
+            "source": "spacenews",
+            "text": "Weather delays Artemis 2 wet dress rehearsal",
+            "source_link": "https://spacenews.com/weather-delays-artemis-2-wet-dress-rehearsal/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-30T21:44:16.859225Z",
+            "shown_at": [
+                "2026-01-30T21:44:17.988289Z"
             ]
         }
     ]
