@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 26 | 18 | 37 |
+| spacenews | 10 | 25 | 18 | 36 |
 | breaking_defense | 0 | 3 | 12 | 24 |
-| nyt | 0 | 1 | 11 | 21 |
+| nyt | 0 | 1 | 12 | 22 |
 
 # Shown Order
 
@@ -3937,3 +3937,4 @@
 - **Jan 30, 02:39 AM** - How to View the Artemis II Moon Launch (nyt)
 - **Jan 30, 03:14 AM** - Space Force leaders prep for FY27 budget jump, personnel increases (breaking_defense)
 - **Jan 30, 03:49 AM** - Space Grove Ventures Announces Public Launch at SpaceCom | Space Congress, Signaling a New Commercial Model for Space and Defense Ecosystem Development (spacenews)
+- **Jan 30, 04:24 AM** - How to View the Artemis II Moon Launch (nyt)
