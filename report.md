@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 21 | 17 | 35 |
+| spacenews | 9 | 21 | 18 | 36 |
 | breaking_defense | 0 | 3 | 12 | 24 |
-| nyt | 0 | 0 | 12 | 22 |
+| nyt | 0 | 0 | 11 | 22 |
 
 # Shown Order
 
@@ -3948,3 +3948,4 @@
 - **Jan 30, 09:09 AM** - Space Command’s case for orbital logistics: Why the Pentagon is being urged to think beyond launch (spacenews)
 - **Jan 30, 09:49 AM** - How to View the Artemis II Moon Launch (nyt)
 - **Jan 30, 10:24 AM** - Space Force envisions rolling awards for new RG-XX neighborhood watch satellites (breaking_defense)
+- **Jan 30, 10:59 AM** - Golden Dome is forcing the Pentagon to confront missile defense economics (spacenews)
