@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-30T00:04:29.851062+00:00",
-    "trigger_count": 6,
-    "current_item_id": "80680513266de58b9f2d1beb4df4adb1",
+    "trigger_count": 0,
+    "current_item_id": "00d6c47764757de04d9180c1f5ab6ae1",
     "data": [
         {
             "id": "1cfd32928bbdd7d603eccbc5796b4981",
@@ -9502,6 +9502,18 @@
             "fetched_datetime": "2026-01-30T18:05:37.801666Z",
             "shown_at": [
                 "2026-01-30T18:05:39.014416Z"
+            ]
+        },
+        {
+            "id": "00d6c47764757de04d9180c1f5ab6ae1",
+            "source": "breaking_defense",
+            "text": "SpaceX unveils ‘Stargaze’ space tracking system",
+            "source_link": "https://breakingdefense.com/2026/01/spacex-unveils-stargaze-space-tracking-system/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-30T20:35:05.651325Z",
+            "shown_at": [
+                "2026-01-30T20:35:06.894276Z"
             ]
         }
     ]
