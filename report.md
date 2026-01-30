@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 20 | 19 | 36 |
+| spacenews | 9 | 20 | 18 | 36 |
 | breaking_defense | 1 | 4 | 11 | 24 |
-| nyt | 0 | 0 | 11 | 21 |
+| nyt | 0 | 0 | 12 | 22 |
 
 # Shown Order
 
@@ -3954,3 +3954,4 @@
 - **Jan 30, 12:44 PM** - How to View the Artemis II Moon Launch (nyt)
 - **Jan 30, 01:18 PM** - Space Force plans to create contractor pool for ‘physical/live’ training needs in summer (breaking_defense)
 - **Jan 30, 01:54 PM** - Oxford Space Systems Wrapped Rib Antenna Successfully Deployed In-Orbit on CarbSAR Mission (spacenews)
+- **Jan 30, 02:29 PM** - How to View the Artemis II Moon Launch (nyt)
