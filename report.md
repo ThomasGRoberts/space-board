@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 21 | 18 | 36 |
-| breaking_defense | 1 | 4 | 12 | 24 |
+| spacenews | 9 | 21 | 19 | 37 |
+| breaking_defense | 1 | 4 | 11 | 24 |
 | nyt | 0 | 0 | 11 | 21 |
 
 # Shown Order
@@ -3953,3 +3953,4 @@
 - **Jan 30, 12:09 PM** - Making the unprecedented EU Space Act effective for all (spacenews)
 - **Jan 30, 12:44 PM** - How to View the Artemis II Moon Launch (nyt)
 - **Jan 30, 01:18 PM** - Space Force plans to create contractor pool for ‘physical/live’ training needs in summer (breaking_defense)
+- **Jan 30, 01:54 PM** - Oxford Space Systems Wrapped Rib Antenna Successfully Deployed In-Orbit on CarbSAR Mission (spacenews)
