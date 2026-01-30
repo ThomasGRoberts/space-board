@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 17 | 17 | 34 |
+| spacenews | 7 | 17 | 18 | 35 |
 | breaking_defense | 1 | 3 | 12 | 24 |
 | nyt | 0 | 0 | 11 | 23 |
 
@@ -3963,3 +3963,4 @@
 - **Jan 30, 06:05 PM** - RBC Signals partners with in-orbit relay developer Apolink (spacenews)
 - **Jan 30, 06:44 PM** - How to View the Artemis II Moon Launch (nyt)
 - **Jan 30, 07:24 PM** - Space Force plans to create contractor pool for ‘physical/live’ training needs in summer (breaking_defense)
+- **Jan 30, 07:59 PM** - Space Grove Ventures Announces Public Launch at SpaceCom | Space Congress, Signaling a New Commercial Model for Space and Defense Ecosystem Development (spacenews)
