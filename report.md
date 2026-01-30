@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 20 | 18 | 35 |
-| breaking_defense | 0 | 3 | 12 | 24 |
+| spacenews | 10 | 21 | 19 | 36 |
+| breaking_defense | 0 | 3 | 11 | 24 |
 | nyt | 0 | 0 | 11 | 22 |
 
 # Shown Order
@@ -3949,3 +3949,4 @@
 - **Jan 30, 09:49 AM** - How to View the Artemis II Moon Launch (nyt)
 - **Jan 30, 10:24 AM** - Space Force envisions rolling awards for new RG-XX neighborhood watch satellites (breaking_defense)
 - **Jan 30, 10:59 AM** - Golden Dome is forcing the Pentagon to confront missile defense economics (spacenews)
+- **Jan 30, 11:35 AM** - Rocket Lab launches South Korean satellite (spacenews)
