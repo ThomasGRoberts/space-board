@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 17 | 18 | 35 |
+| spacenews | 8 | 18 | 19 | 36 |
 | breaking_defense | 1 | 3 | 11 | 24 |
 | nyt | 0 | 0 | 11 | 22 |
 
@@ -3960,3 +3960,4 @@
 - **Jan 30, 04:14 PM** - How to View the Artemis II Moon Launch (nyt)
 - **Jan 30, 04:54 PM** - Space Force envisions rolling awards for new RG-XX neighborhood watch satellites (breaking_defense)
 - **Jan 30, 05:28 PM** - Exotrail and Astroscale France join forces to build deorbiting capability for LEO (spacenews)
+- **Jan 30, 06:05 PM** - RBC Signals partners with in-orbit relay developer Apolink (spacenews)

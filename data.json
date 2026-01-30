@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-30T00:04:29.851062+00:00",
-    "trigger_count": 6,
-    "current_item_id": "118e17b03cfe1cbf2ed59a3e39e3d82f",
+    "trigger_count": 0,
+    "current_item_id": "5ebddc1296d4f2d7bd226ee05684f29f",
     "data": [
         {
             "id": "1cfd32928bbdd7d603eccbc5796b4981",
@@ -9487,6 +9487,18 @@
             "fetched_datetime": "2026-01-30T13:18:57.886838Z",
             "shown_at": [
                 "2026-01-30T13:18:59.197197Z"
+            ]
+        },
+        {
+            "id": "5ebddc1296d4f2d7bd226ee05684f29f",
+            "source": "spacenews",
+            "text": "RBC Signals partners with in-orbit relay developer Apolink",
+            "source_link": "https://spacenews.com/rbc-signals-partners-with-in-orbit-relay-developer-apolink/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-30T18:05:37.801666Z",
+            "shown_at": [
+                "2026-01-30T18:05:39.014416Z"
             ]
         }
     ]
