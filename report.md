@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 21 | 18 | 36 |
-| breaking_defense | 0 | 3 | 11 | 23 |
-| nyt | 0 | 0 | 12 | 22 |
+| breaking_defense | 1 | 4 | 12 | 24 |
+| nyt | 0 | 0 | 11 | 22 |
 
 # Shown Order
 
@@ -3952,3 +3952,4 @@
 - **Jan 30, 11:35 AM** - Rocket Lab launches South Korean satellite (spacenews)
 - **Jan 30, 12:09 PM** - Making the unprecedented EU Space Act effective for all (spacenews)
 - **Jan 30, 12:44 PM** - How to View the Artemis II Moon Launch (nyt)
+- **Jan 30, 01:18 PM** - Space Force plans to create contractor pool for ‘physical/live’ training needs in summer (breaking_defense)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-30T00:04:29.851062+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8c67e84ee27331c095408a10ed872c1d",
+    "trigger_count": 0,
+    "current_item_id": "331bf62715d677624f2132c927ec5618",
     "data": [
         {
             "id": "1cfd32928bbdd7d603eccbc5796b4981",
@@ -9468,6 +9468,18 @@
             "fetched_datetime": "2026-01-30T12:09:01.882052Z",
             "shown_at": [
                 "2026-01-30T12:09:03.081761Z"
+            ]
+        },
+        {
+            "id": "331bf62715d677624f2132c927ec5618",
+            "source": "breaking_defense",
+            "text": "Space Force plans to create contractor pool for ‘physical/live’ training needs in summer",
+            "source_link": "https://breakingdefense.com/2026/01/space-force-plans-to-create-contractor-pool-for-physical-live-training-needs-in-summer/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-30T13:18:57.886838Z",
+            "shown_at": [
+                "2026-01-30T13:18:59.197197Z"
             ]
         }
     ]
