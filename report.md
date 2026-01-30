@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 18 | 35 |
-| breaking_defense | 2 | 2 | 11 | 23 |
+| breaking_defense | 2 | 2 | 12 | 24 |
 | nyt | 0 | 0 | 11 | 23 |
 
 # Shown Order
@@ -3968,3 +3968,4 @@
 - **Jan 30, 09:09 PM** - How to View the Artemis II Moon Launch (nyt)
 - **Jan 30, 09:44 PM** - Weather delays Artemis 2 wet dress rehearsal (spacenews)
 - **Jan 30, 10:19 PM** - Blue Origin halts New Shepard flights (spacenews)
+- **Jan 30, 10:54 PM** - Space Force envisions rolling awards for new RG-XX neighborhood watch satellites (breaking_defense)
