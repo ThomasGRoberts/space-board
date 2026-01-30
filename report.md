@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 24 | 18 | 36 |
 | breaking_defense | 0 | 3 | 12 | 24 |
-| nyt | 0 | 1 | 11 | 22 |
+| nyt | 0 | 1 | 12 | 22 |
 
 # Shown Order
 
@@ -3940,3 +3940,4 @@
 - **Jan 30, 04:24 AM** - How to View the Artemis II Moon Launch (nyt)
 - **Jan 30, 04:58 AM** - SPACECOM chief cites Army, Marines as models for expanding on-orbit warfighting exercises (breaking_defense)
 - **Jan 30, 05:34 AM** - EU launches government satcom program in sovereignty push (spacenews)
+- **Jan 30, 06:09 AM** - How to View the Artemis II Moon Launch (nyt)
