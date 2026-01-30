@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 16 | 18 | 34 |
 | breaking_defense | 2 | 3 | 12 | 24 |
-| nyt | 0 | 0 | 10 | 23 |
+| nyt | 0 | 0 | 11 | 24 |
 
 # Shown Order
 
@@ -3965,3 +3965,4 @@
 - **Jan 30, 07:24 PM** - Space Force plans to create contractor pool for ‘physical/live’ training needs in summer (breaking_defense)
 - **Jan 30, 07:59 PM** - Space Grove Ventures Announces Public Launch at SpaceCom | Space Congress, Signaling a New Commercial Model for Space and Defense Ecosystem Development (spacenews)
 - **Jan 30, 08:35 PM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
+- **Jan 30, 09:09 PM** - How to View the Artemis II Moon Launch (nyt)
