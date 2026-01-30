@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 17 | 19 | 34 |
+| spacenews | 8 | 17 | 18 | 34 |
 | breaking_defense | 1 | 4 | 11 | 25 |
-| nyt | 0 | 0 | 11 | 22 |
+| nyt | 0 | 0 | 12 | 23 |
 
 # Shown Order
 
@@ -3957,3 +3957,4 @@
 - **Jan 30, 02:29 PM** - How to View the Artemis II Moon Launch (nyt)
 - **Jan 30, 03:04 PM** - Space Force leaders prep for FY27 budget jump, personnel increases (breaking_defense)
 - **Jan 30, 03:38 PM** - What would Artemis participation mean for Türkiye’s space industry and space diplomacy? (spacenews)
+- **Jan 30, 04:14 PM** - How to View the Artemis II Moon Launch (nyt)
