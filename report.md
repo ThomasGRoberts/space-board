@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 24 | 17 | 36 |
+| spacenews | 10 | 23 | 18 | 36 |
 | breaking_defense | 0 | 3 | 12 | 24 |
-| nyt | 0 | 1 | 12 | 22 |
+| nyt | 0 | 1 | 11 | 22 |
 
 # Shown Order
 
@@ -3942,3 +3942,4 @@
 - **Jan 30, 05:34 AM** - EU launches government satcom program in sovereignty push (spacenews)
 - **Jan 30, 06:09 AM** - How to View the Artemis II Moon Launch (nyt)
 - **Jan 30, 06:44 AM** - As Space Force wraps up GPS III launches, lawmakers push for more anti-jam capability (breaking_defense)
+- **Jan 30, 07:19 AM** - NASA evaluation lauds quality of PlanetiQ radio occultation data (spacenews)
