@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 27 | 17 | 37 |
+| spacenews | 10 | 27 | 18 | 38 |
 | breaking_defense | 0 | 3 | 12 | 23 |
 | nyt | 0 | 1 | 12 | 21 |
 
@@ -3930,3 +3930,4 @@
 - **Jan 29, 10:34 PM** - Space Force envisions rolling awards for new RG-XX neighborhood watch satellites (breaking_defense)
 - **Jan 29, 11:09 PM** - Alabama National Guard general to manage Space Command headquarters transition (spacenews)
 - **Jan 29, 11:44 PM** - NASA considering alternatives for Gateway logistics (spacenews)
+- **Jan 30, 12:19 AM** - York Space goes public, riding Pentagon demand (spacenews)

@@ -1,17 +1,20 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-30T00:04:29.851062+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5d5dced167aae00be980e687df35d18a",
+    "trigger_count": 0,
+    "current_item_id": "1cfd32928bbdd7d603eccbc5796b4981",
     "data": [
         {
             "id": "1cfd32928bbdd7d603eccbc5796b4981",
             "source": "spacenews",
             "text": "York Space goes public, riding Pentagon demand",
             "source_link": "https://spacenews.com/york-space-goes-public-riding-pentagon-demand/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-01-29T23:09:24.116838Z"
+            "fetched_datetime": "2026-01-29T23:09:24.116838Z",
+            "shown_at": [
+                "2026-01-30T00:19:09.086751Z"
+            ]
         },
         {
             "id": "5d5dced167aae00be980e687df35d18a",
