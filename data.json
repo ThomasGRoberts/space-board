@@ -1,9 +1,126 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-01-29T00:04:33.937545+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2026-01-30T00:04:29.851062+00:00",
+    "trigger_count": 4,
     "current_item_id": "5d5dced167aae00be980e687df35d18a",
     "data": [
+        {
+            "id": "1cfd32928bbdd7d603eccbc5796b4981",
+            "source": "spacenews",
+            "text": "York Space goes public, riding Pentagon demand",
+            "source_link": "https://spacenews.com/york-space-goes-public-riding-pentagon-demand/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-01-29T23:09:24.116838Z"
+        },
+        {
+            "id": "5d5dced167aae00be980e687df35d18a",
+            "source": "spacenews",
+            "text": "NASA considering alternatives for Gateway logistics",
+            "source_link": "https://spacenews.com/nasa-considering-alternatives-for-gateway-logistics/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-29T23:09:24.116793Z",
+            "shown_at": [
+                "2026-01-29T23:44:15.893535Z"
+            ]
+        },
+        {
+            "id": "2764a3ddc62b49296ff23f4b8cbd75b4",
+            "source": "spacenews",
+            "text": "Alabama National Guard general to manage Space Command headquarters transition",
+            "source_link": "https://spacenews.com/alabama-national-guard-general-to-manage-space-command-headquarters-transition/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-29T23:09:24.116714Z",
+            "shown_at": [
+                "2026-01-29T23:09:25.173407Z"
+            ]
+        },
+        {
+            "id": "9a3cb0942da2af9ac9777211710ef1c4",
+            "source": "spacenews",
+            "text": "Global Space Economy Reaches $626 Billion, Marking a New Phase of Growth",
+            "source_link": "https://spacenews.com/global-space-economy-reaches-626-billion-marking-a-new-phase-of-growth/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-29T21:59:02.035513Z",
+            "shown_at": [
+                "2026-01-29T21:59:03.227258Z"
+            ]
+        },
+        {
+            "id": "ecd4a775a5f459873c1aaf830aaf01a6",
+            "source": "spacenews",
+            "text": "Eutelsat’s ground infrastructure sale falls through",
+            "source_link": "https://spacenews.com/eutelsats-ground-infrastructure-sale-falls-through/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-29T19:39:11.075064Z",
+            "shown_at": [
+                "2026-01-29T19:39:12.266119Z"
+            ]
+        },
+        {
+            "id": "e0168d4119196ac0696bd058e8be3103",
+            "source": "spacenews",
+            "text": "Oxford Space Systems Wrapped Rib Antenna Successfully Deployed In-Orbit on CarbSAR Mission",
+            "source_link": "https://spacenews.com/oxford-space-systems-wrapped-rib-antenna-successfully-deployed-in-orbit-on-carbsar-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-29T17:19:19.856405Z",
+            "shown_at": [
+                "2026-01-29T17:19:21.112088Z"
+            ]
+        },
+        {
+            "id": "65e66d91f765a126f5fc1462c9407822",
+            "source": "spacenews",
+            "text": "China eyes space resources, space tourism and on-orbit digital infrastructure",
+            "source_link": "https://spacenews.com/china-eyes-space-resources-space-tourism-and-on-orbit-digital-infrastructure/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-29T16:09:09.013550Z",
+            "shown_at": [
+                "2026-01-29T16:09:10.150282Z"
+            ]
+        },
+        {
+            "id": "80680513266de58b9f2d1beb4df4adb1",
+            "source": "spacenews",
+            "text": "Space Grove Ventures Announces Public Launch at SpaceCom | Space Congress, Signaling a New Commercial Model for Space and Defense Ecosystem Development",
+            "source_link": "https://spacenews.com/space-grove-ventures-announces-public-launch-at-spacecom-space-congress-signaling-a-new-commercial-model-for-space-and-defense-ecosystem-development/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-29T12:04:35.946643Z",
+            "shown_at": [
+                "2026-01-29T12:39:00.661816Z"
+            ]
+        },
+        {
+            "id": "e3f14b4642c224859f88e07f03063de4",
+            "source": "spacenews",
+            "text": "What would Artemis participation mean for Türkiye’s space industry and space diplomacy?",
+            "source_link": "https://spacenews.com/what-would-artemis-participation-mean-for-turkiyes-space-industry-and-space-diplomacy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-29T12:04:35.946573Z",
+            "shown_at": [
+                "2026-01-29T12:04:37.017019Z"
+            ]
+        },
+        {
+            "id": "318ec4f05b4e2d8056148a9d5c70ce61",
+            "source": "spacenews",
+            "text": "SpaceX plans next Starship test flight in March",
+            "source_link": "https://spacenews.com/spacex-plans-next-starship-test-flight-in-march/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-29T10:19:21.190337Z",
+            "shown_at": [
+                "2026-01-29T10:19:22.098925Z"
+            ]
+        },
         {
             "id": "7f16e63763dd0f22f597fb0aa70be80b",
             "source": "breaking_defense",
@@ -9306,300 +9423,6 @@
                 "2025-09-24T19:18:11.950627Z",
                 "2025-09-26T08:05:48.797547Z"
             ]
-        },
-        {
-            "id": "dd66fd240c06f5eea95d73f26d4da122",
-            "source": "breaking_defense",
-            "text": "SSC to finish ‘system delta’ reorg next month",
-            "source_link": "https://breakingdefense.com/2025/09/ssc-to-finish-system-delta-reorg-next-month/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-19T16:22:05.759526Z",
-            "shown_at": [
-                "2025-09-19T16:22:15.381443Z",
-                "2025-09-20T10:18:02.669103Z",
-                "2025-09-20T11:27:56.247188Z",
-                "2025-09-20T13:50:18.456804Z",
-                "2025-09-20T23:17:55.781630Z",
-                "2025-09-21T07:38:11.370324Z",
-                "2025-09-21T14:01:54.586467Z",
-                "2025-09-21T15:01:52.774822Z",
-                "2025-09-21T15:57:51.563324Z",
-                "2025-09-21T17:57:57.045483Z",
-                "2025-09-22T01:06:07.515809Z",
-                "2025-09-22T14:00:12.971628Z",
-                "2025-09-23T01:45:50.354999Z",
-                "2025-09-23T02:57:52.927682Z",
-                "2025-09-23T15:23:39.795183Z",
-                "2025-09-23T20:17:48.956498Z",
-                "2025-09-24T01:35:58.014375Z"
-            ]
-        },
-        {
-            "id": "c437029bde5ca1234db3fa027e325136",
-            "source": "spacenews",
-            "text": "Taiwanese aerospace firm partners with Maxar on GPS-alternative drone navigation",
-            "source_link": "https://spacenews.com/taiwanese-aerospace-firm-partners-with-maxar-on-gps-alternative-drone-navigation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-19T10:17:23.836220Z",
-            "shown_at": [
-                "2025-09-19T16:05:35.905347Z",
-                "2025-09-19T20:27:52.077597Z",
-                "2025-09-21T15:15:56.596412Z",
-                "2025-09-24T09:33:53.764048Z"
-            ]
-        },
-        {
-            "id": "9ed6df8dddc713afcd5daf51cd1b92d0",
-            "source": "spacenews",
-            "text": "Space Norway and SSTL collaborate on radar satellite program",
-            "source_link": "https://spacenews.com/space-norway-and-sstl-collaborate-on-radar-satellite-program/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-19T06:09:56.653149Z",
-            "shown_at": [
-                "2025-09-19T06:09:57.288041Z",
-                "2025-09-20T17:46:03.338363Z",
-                "2025-09-24T23:12:07.461995Z"
-            ]
-        },
-        {
-            "id": "204a842a7e68b009bf582c4f9971aa4d",
-            "source": "spacenews",
-            "text": "Launch startup iSpace secures fresh funding as hot fire tests heat up China’s reusable rocket race",
-            "source_link": "https://spacenews.com/launch-startup-ispace-secures-fresh-funding-as-hot-fire-tests-heat-up-chinas-reusable-rocket-race/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-18T22:52:00.911236Z",
-            "shown_at": [
-                "2025-09-18T22:52:01.837950Z",
-                "2025-09-21T14:17:59.231624Z",
-                "2025-09-23T18:29:51.676023Z",
-                "2025-09-25T00:18:08.759102Z"
-            ]
-        },
-        {
-            "id": "ecb9bb5f790648031f0462ee8852fbeb",
-            "source": "spacenews",
-            "text": "U.S., UK Space Commands execute first joint satellite maneuvers",
-            "source_link": "https://spacenews.com/u-s-uk-space-commands-execute-first-joint-satellite-maneuvers/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-18T20:17:47.227106Z",
-            "shown_at": [
-                "2025-09-18T20:17:47.950819Z",
-                "2025-09-21T17:15:41.748273Z",
-                "2025-09-22T01:20:03.487210Z"
-            ]
-        },
-        {
-            "id": "df3a6f3d425137b042290f1a5e5e68cb",
-            "source": "spacenews",
-            "text": "Hubble Network raises $70 million to accelerate 60-satellite Bluetooth constellation",
-            "source_link": "https://spacenews.com/hubble-network-raises-70-million-to-accelerate-60-satellite-bluetooth-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-18T19:13:43.059129Z",
-            "shown_at": [
-                "2025-09-18T19:13:43.539947Z",
-                "2025-09-19T00:54:03.083856Z",
-                "2025-09-19T23:19:56.022314Z",
-                "2025-09-20T20:19:56.331202Z",
-                "2025-09-21T21:17:51.512524Z",
-                "2025-09-23T22:12:12.468659Z"
-            ]
-        },
-        {
-            "id": "48c8216de7821ca9179eed0a3b403a10",
-            "source": "breaking_defense",
-            "text": "Beyond ‘potpourri’ of sensors: Saltzman pushes holistic approach to space domain awareness",
-            "source_link": "https://breakingdefense.com/2025/09/beyond-potpourri-of-sensors-saltzman-pushes-holistic-approach-to-space-domain-awareness/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-18T18:39:45.251317Z",
-            "shown_at": [
-                "2025-09-18T18:39:46.024481Z",
-                "2025-09-18T19:59:48.247805Z",
-                "2025-09-18T22:05:52.363706Z",
-                "2025-09-21T01:22:12.086164Z",
-                "2025-09-21T08:39:47.036489Z",
-                "2025-09-21T20:59:44.864576Z",
-                "2025-09-22T08:53:57.372347Z",
-                "2025-09-23T11:45:51.852464Z",
-                "2025-09-25T10:59:47.905247Z",
-                "2025-09-25T17:49:45.818816Z"
-            ]
-        },
-        {
-            "id": "d48fc75c6f9493f6bd54314d73919f40",
-            "source": "spacenews",
-            "text": "Educating customers may be half the battle for nascent hyperspectral sector",
-            "source_link": "https://spacenews.com/educating-customers-may-be-half-the-battle-for-nascent-hyperspectral-sector/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-18T15:49:56.879679Z",
-            "shown_at": [
-                "2025-09-18T15:49:57.557801Z",
-                "2025-09-19T09:15:50.439100Z",
-                "2025-09-22T02:25:59.430207Z",
-                "2025-09-23T01:18:00.535850Z",
-                "2025-09-24T10:32:27.337520Z"
-            ]
-        },
-        {
-            "id": "2932378e5b9ab18ebbb2ff0eb757d86e",
-            "source": "breaking_defense",
-            "text": "For Golden Dome to work, it needs to be put to the test",
-            "source_link": "https://breakingdefense.com/2025/09/for-golden-dome-to-work-it-needs-to-be-put-to-the-test/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-18T15:33:59.726628Z",
-            "shown_at": [
-                "2025-09-18T15:34:00.690646Z",
-                "2025-09-20T01:07:51.976331Z",
-                "2025-09-20T14:54:06.350011Z",
-                "2025-09-20T20:03:41.041150Z",
-                "2025-09-21T03:26:05.718039Z",
-                "2025-09-21T04:29:51.602670Z",
-                "2025-09-21T11:59:52.084489Z",
-                "2025-09-22T21:35:18.502220Z",
-                "2025-09-22T22:37:58.850053Z",
-                "2025-09-24T09:19:56.101161Z",
-                "2025-09-24T15:14:05.114805Z",
-                "2025-09-24T16:11:35.610931Z",
-                "2025-09-25T02:25:53.232677Z"
-            ]
-        },
-        {
-            "id": "37c8b3805a4e01808513ca2c2514a289",
-            "source": "spacenews",
-            "text": "Blue Origin retires New Shepard capsule after payload flight",
-            "source_link": "https://spacenews.com/blue-origin-retires-new-shepard-capsule-after-payload-flight/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-18T15:19:44.331293Z",
-            "shown_at": [
-                "2025-09-18T15:19:44.863418Z",
-                "2025-09-18T18:57:48.962473Z"
-            ]
-        },
-        {
-            "id": "318ec4f05b4e2d8056148a9d5c70ce61",
-            "source": "spacenews",
-            "text": "SpaceX plans next Starship test flight in March",
-            "source_link": "https://spacenews.com/spacex-plans-next-starship-test-flight-in-march/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-29T10:19:21.190337Z",
-            "shown_at": [
-                "2026-01-29T10:19:22.098925Z"
-            ]
-        },
-        {
-            "id": "e3f14b4642c224859f88e07f03063de4",
-            "source": "spacenews",
-            "text": "What would Artemis participation mean for Türkiye’s space industry and space diplomacy?",
-            "source_link": "https://spacenews.com/what-would-artemis-participation-mean-for-turkiyes-space-industry-and-space-diplomacy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-29T12:04:35.946573Z",
-            "shown_at": [
-                "2026-01-29T12:04:37.017019Z"
-            ]
-        },
-        {
-            "id": "80680513266de58b9f2d1beb4df4adb1",
-            "source": "spacenews",
-            "text": "Space Grove Ventures Announces Public Launch at SpaceCom | Space Congress, Signaling a New Commercial Model for Space and Defense Ecosystem Development",
-            "source_link": "https://spacenews.com/space-grove-ventures-announces-public-launch-at-spacecom-space-congress-signaling-a-new-commercial-model-for-space-and-defense-ecosystem-development/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-29T12:04:35.946643Z",
-            "shown_at": [
-                "2026-01-29T12:39:00.661816Z"
-            ]
-        },
-        {
-            "id": "65e66d91f765a126f5fc1462c9407822",
-            "source": "spacenews",
-            "text": "China eyes space resources, space tourism and on-orbit digital infrastructure",
-            "source_link": "https://spacenews.com/china-eyes-space-resources-space-tourism-and-on-orbit-digital-infrastructure/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-29T16:09:09.013550Z",
-            "shown_at": [
-                "2026-01-29T16:09:10.150282Z"
-            ]
-        },
-        {
-            "id": "e0168d4119196ac0696bd058e8be3103",
-            "source": "spacenews",
-            "text": "Oxford Space Systems Wrapped Rib Antenna Successfully Deployed In-Orbit on CarbSAR Mission",
-            "source_link": "https://spacenews.com/oxford-space-systems-wrapped-rib-antenna-successfully-deployed-in-orbit-on-carbsar-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-29T17:19:19.856405Z",
-            "shown_at": [
-                "2026-01-29T17:19:21.112088Z"
-            ]
-        },
-        {
-            "id": "ecd4a775a5f459873c1aaf830aaf01a6",
-            "source": "spacenews",
-            "text": "Eutelsat’s ground infrastructure sale falls through",
-            "source_link": "https://spacenews.com/eutelsats-ground-infrastructure-sale-falls-through/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-29T19:39:11.075064Z",
-            "shown_at": [
-                "2026-01-29T19:39:12.266119Z"
-            ]
-        },
-        {
-            "id": "9a3cb0942da2af9ac9777211710ef1c4",
-            "source": "spacenews",
-            "text": "Global Space Economy Reaches $626 Billion, Marking a New Phase of Growth",
-            "source_link": "https://spacenews.com/global-space-economy-reaches-626-billion-marking-a-new-phase-of-growth/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-29T21:59:02.035513Z",
-            "shown_at": [
-                "2026-01-29T21:59:03.227258Z"
-            ]
-        },
-        {
-            "id": "2764a3ddc62b49296ff23f4b8cbd75b4",
-            "source": "spacenews",
-            "text": "Alabama National Guard general to manage Space Command headquarters transition",
-            "source_link": "https://spacenews.com/alabama-national-guard-general-to-manage-space-command-headquarters-transition/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-29T23:09:24.116714Z",
-            "shown_at": [
-                "2026-01-29T23:09:25.173407Z"
-            ]
-        },
-        {
-            "id": "5d5dced167aae00be980e687df35d18a",
-            "source": "spacenews",
-            "text": "NASA considering alternatives for Gateway logistics",
-            "source_link": "https://spacenews.com/nasa-considering-alternatives-for-gateway-logistics/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-29T23:09:24.116793Z",
-            "shown_at": [
-                "2026-01-29T23:44:15.893535Z"
-            ]
-        },
-        {
-            "id": "1cfd32928bbdd7d603eccbc5796b4981",
-            "source": "spacenews",
-            "text": "York Space goes public, riding Pentagon demand",
-            "source_link": "https://spacenews.com/york-space-goes-public-riding-pentagon-demand/",
-            "shown": false,
-            "type": "news",
-            "fetched_datetime": "2026-01-29T23:09:24.116838Z"
         }
     ]
 }
