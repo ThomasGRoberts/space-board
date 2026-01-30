@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 18 | 19 | 35 |
 | breaking_defense | 1 | 3 | 11 | 24 |
-| nyt | 0 | 0 | 10 | 22 |
+| nyt | 0 | 0 | 11 | 23 |
 
 # Shown Order
 
@@ -3961,3 +3961,4 @@
 - **Jan 30, 04:54 PM** - Space Force envisions rolling awards for new RG-XX neighborhood watch satellites (breaking_defense)
 - **Jan 30, 05:28 PM** - Exotrail and Astroscale France join forces to build deorbiting capability for LEO (spacenews)
 - **Jan 30, 06:05 PM** - RBC Signals partners with in-orbit relay developer Apolink (spacenews)
+- **Jan 30, 06:44 PM** - How to View the Artemis II Moon Launch (nyt)
