@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 21 | 18 | 36 |
 | breaking_defense | 0 | 3 | 11 | 24 |
-| nyt | 0 | 0 | 11 | 21 |
+| nyt | 0 | 0 | 12 | 22 |
 
 # Shown Order
 
@@ -3951,3 +3951,4 @@
 - **Jan 30, 10:59 AM** - Golden Dome is forcing the Pentagon to confront missile defense economics (spacenews)
 - **Jan 30, 11:35 AM** - Rocket Lab launches South Korean satellite (spacenews)
 - **Jan 30, 12:09 PM** - Making the unprecedented EU Space Act effective for all (spacenews)
+- **Jan 30, 12:44 PM** - How to View the Artemis II Moon Launch (nyt)
