@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 27 | 18 | 38 |
 | breaking_defense | 0 | 3 | 12 | 23 |
-| nyt | 0 | 1 | 11 | 21 |
+| nyt | 0 | 1 | 12 | 21 |
 
 # Shown Order
 
@@ -3931,3 +3931,4 @@
 - **Jan 29, 11:09 PM** - Alabama National Guard general to manage Space Command headquarters transition (spacenews)
 - **Jan 29, 11:44 PM** - NASA considering alternatives for Gateway logistics (spacenews)
 - **Jan 30, 12:19 AM** - York Space goes public, riding Pentagon demand (spacenews)
+- **Jan 30, 12:54 AM** - How to View the Artemis II Moon Launch (nyt)
