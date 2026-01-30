@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 26 | 18 | 37 |
-| breaking_defense | 0 | 3 | 12 | 24 |
-| nyt | 0 | 1 | 11 | 21 |
+| breaking_defense | 0 | 3 | 11 | 23 |
+| nyt | 0 | 1 | 12 | 22 |
 
 # Shown Order
 
@@ -3934,3 +3934,4 @@
 - **Jan 30, 12:54 AM** - How to View the Artemis II Moon Launch (nyt)
 - **Jan 30, 01:28 AM** - As Space Force wraps up GPS III launches, lawmakers push for more anti-jam capability (breaking_defense)
 - **Jan 30, 02:04 AM** - Global Space Economy Reaches $626 Billion, Marking a New Phase of Growth (spacenews)
+- **Jan 30, 02:39 AM** - How to View the Artemis II Moon Launch (nyt)
