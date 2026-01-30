@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 21 | 19 | 36 |
+| spacenews | 9 | 22 | 19 | 37 |
 | breaking_defense | 0 | 3 | 11 | 24 |
 | nyt | 0 | 0 | 11 | 21 |
 
@@ -3950,3 +3950,4 @@
 - **Jan 30, 10:24 AM** - Space Force envisions rolling awards for new RG-XX neighborhood watch satellites (breaking_defense)
 - **Jan 30, 10:59 AM** - Golden Dome is forcing the Pentagon to confront missile defense economics (spacenews)
 - **Jan 30, 11:35 AM** - Rocket Lab launches South Korean satellite (spacenews)
+- **Jan 30, 12:09 PM** - Making the unprecedented EU Space Act effective for all (spacenews)

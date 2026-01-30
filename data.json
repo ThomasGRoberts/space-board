@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-30T00:04:29.851062+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a578273c3762b05b573a40fdf8593e82",
+    "trigger_count": 0,
+    "current_item_id": "86b66442cc710c73662de120d9854e74",
     "data": [
         {
             "id": "1cfd32928bbdd7d603eccbc5796b4981",
@@ -9455,6 +9455,18 @@
             "fetched_datetime": "2026-01-30T11:34:59.676945Z",
             "shown_at": [
                 "2026-01-30T11:35:00.889429Z"
+            ]
+        },
+        {
+            "id": "86b66442cc710c73662de120d9854e74",
+            "source": "spacenews",
+            "text": "Making the unprecedented EU Space Act effective for all",
+            "source_link": "https://spacenews.com/making-the-unprecedented-eu-space-act-effective-for-all/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-30T12:09:01.882052Z",
+            "shown_at": [
+                "2026-01-30T12:09:03.081761Z"
             ]
         }
     ]
