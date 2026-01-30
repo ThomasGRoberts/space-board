@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 25 | 17 | 36 |
+| spacenews | 10 | 24 | 18 | 36 |
 | breaking_defense | 0 | 3 | 12 | 24 |
 | nyt | 0 | 1 | 12 | 22 |
 
@@ -3939,3 +3939,4 @@
 - **Jan 30, 03:49 AM** - Space Grove Ventures Announces Public Launch at SpaceCom | Space Congress, Signaling a New Commercial Model for Space and Defense Ecosystem Development (spacenews)
 - **Jan 30, 04:24 AM** - How to View the Artemis II Moon Launch (nyt)
 - **Jan 30, 04:58 AM** - SPACECOM chief cites Army, Marines as models for expanding on-orbit warfighting exercises (breaking_defense)
+- **Jan 30, 05:34 AM** - EU launches government satcom program in sovereignty push (spacenews)
