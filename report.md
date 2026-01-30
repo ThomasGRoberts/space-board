@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 17 | 18 | 34 |
-| breaking_defense | 1 | 3 | 11 | 24 |
+| breaking_defense | 1 | 3 | 12 | 25 |
 | nyt | 0 | 0 | 11 | 23 |
 
 # Shown Order
@@ -3962,3 +3962,4 @@
 - **Jan 30, 05:28 PM** - Exotrail and Astroscale France join forces to build deorbiting capability for LEO (spacenews)
 - **Jan 30, 06:05 PM** - RBC Signals partners with in-orbit relay developer Apolink (spacenews)
 - **Jan 30, 06:44 PM** - How to View the Artemis II Moon Launch (nyt)
+- **Jan 30, 07:24 PM** - Space Force plans to create contractor pool for ‘physical/live’ training needs in summer (breaking_defense)
