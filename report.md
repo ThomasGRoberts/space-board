@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 17 | 17 | 34 |
+| spacenews | 7 | 17 | 18 | 35 |
 | breaking_defense | 1 | 3 | 12 | 24 |
 | nyt | 0 | 0 | 11 | 23 |
 
@@ -3959,3 +3959,4 @@
 - **Jan 30, 03:38 PM** - What would Artemis participation mean for Türkiye’s space industry and space diplomacy? (spacenews)
 - **Jan 30, 04:14 PM** - How to View the Artemis II Moon Launch (nyt)
 - **Jan 30, 04:54 PM** - Space Force envisions rolling awards for new RG-XX neighborhood watch satellites (breaking_defense)
+- **Jan 30, 05:28 PM** - Exotrail and Astroscale France join forces to build deorbiting capability for LEO (spacenews)
