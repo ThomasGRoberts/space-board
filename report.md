@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 16 | 33 |
+| spacenews | 4 | 12 | 15 | 33 |
 | breaking_defense | 0 | 2 | 13 | 25 |
-| nyt | 1 | 1 | 12 | 23 |
+| nyt | 1 | 1 | 13 | 24 |
 
 # Shown Order
 
@@ -3915,3 +3915,4 @@
 - **Jan 31, 08:39 PM** - How to View the Artemis II Moon Launch (nyt)
 - **Jan 31, 09:14 PM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
 - **Jan 31, 09:49 PM** - Hanwha exploring South Korean defense constellation with MDA Space and Telesat (spacenews)
+- **Jan 31, 10:24 PM** - How to View the Artemis II Moon Launch (nyt)
