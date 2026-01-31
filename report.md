@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 16 | 17 | 34 |
+| spacenews | 8 | 17 | 18 | 35 |
 | breaking_defense | 2 | 2 | 12 | 24 |
 | nyt | 1 | 1 | 11 | 23 |
 
@@ -3895,3 +3895,4 @@
 - **Jan 31, 08:54 AM** - How to View the Artemis II Moon Launch (nyt)
 - **Jan 31, 09:29 AM** - SPACECOM chief cites Army, Marines as models for expanding on-orbit warfighting exercises (breaking_defense)
 - **Jan 31, 10:09 AM** - China eyes space resources, space tourism and on-orbit digital infrastructure (spacenews)
+- **Jan 31, 10:44 AM** - China launches AlSat-3B for Algeria, further launches delayed ahead of key human spaceflight test (spacenews)

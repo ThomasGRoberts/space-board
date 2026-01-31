@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-31T00:04:25.573981+00:00",
-    "trigger_count": 6,
-    "current_item_id": "65e66d91f765a126f5fc1462c9407822",
+    "trigger_count": 0,
+    "current_item_id": "4fd397f568479c3314702507aaf13e3d",
     "data": [
         {
             "id": "72025b4f6415d703fc0533291a63e33c",
@@ -9411,6 +9411,18 @@
             "fetched_datetime": "2026-01-31T02:59:05.442403Z",
             "shown_at": [
                 "2026-01-31T02:59:06.288968Z"
+            ]
+        },
+        {
+            "id": "4fd397f568479c3314702507aaf13e3d",
+            "source": "spacenews",
+            "text": "China launches AlSat-3B for Algeria, further launches delayed ahead of key human spaceflight test",
+            "source_link": "https://spacenews.com/china-launches-alsat-3b-for-algeria-further-launches-delayed-ahead-of-key-human-spaceflight-test/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-31T10:44:18.074972Z",
+            "shown_at": [
+                "2026-01-31T10:44:18.807741Z"
             ]
         }
     ]
