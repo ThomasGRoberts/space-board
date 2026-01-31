@@ -1,9 +1,106 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-01-30T00:04:29.851062+00:00",
-    "trigger_count": 6,
-    "current_item_id": "72025b4f6415d703fc0533291a63e33c",
+    "last_run_datetime": "2026-01-31T00:04:25.573981+00:00",
+    "trigger_count": 0,
+    "current_item_id": "ef94ba79016e6eb094b63711a4fee81f",
     "data": [
+        {
+            "id": "72025b4f6415d703fc0533291a63e33c",
+            "source": "spacenews",
+            "text": "L3Harris reaffirms commitment to space business amid missile sector expansion",
+            "source_link": "https://spacenews.com/l3harris-reaffirms-commitment-to-space-business-amid-missile-sector-expansion/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-30T23:29:11.339217Z",
+            "shown_at": [
+                "2026-01-30T23:29:12.521070Z"
+            ]
+        },
+        {
+            "id": "b51dd285516da1bb7bc7e1e198c8fa3d",
+            "source": "spacenews",
+            "text": "Blue Origin halts New Shepard flights",
+            "source_link": "https://spacenews.com/blue-origin-halts-new-shepard-flights/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-30T22:19:46.597354Z",
+            "shown_at": [
+                "2026-01-30T22:19:47.684379Z"
+            ]
+        },
+        {
+            "id": "6a36c9085320b50f31975ba62e070ddd",
+            "source": "spacenews",
+            "text": "Weather delays Artemis 2 wet dress rehearsal",
+            "source_link": "https://spacenews.com/weather-delays-artemis-2-wet-dress-rehearsal/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-30T21:44:16.859225Z",
+            "shown_at": [
+                "2026-01-30T21:44:17.988289Z"
+            ]
+        },
+        {
+            "id": "00d6c47764757de04d9180c1f5ab6ae1",
+            "source": "breaking_defense",
+            "text": "SpaceX unveils ‘Stargaze’ space tracking system",
+            "source_link": "https://breakingdefense.com/2026/01/spacex-unveils-stargaze-space-tracking-system/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-30T20:35:05.651325Z",
+            "shown_at": [
+                "2026-01-30T20:35:06.894276Z"
+            ]
+        },
+        {
+            "id": "5ebddc1296d4f2d7bd226ee05684f29f",
+            "source": "spacenews",
+            "text": "RBC Signals partners with in-orbit relay developer Apolink",
+            "source_link": "https://spacenews.com/rbc-signals-partners-with-in-orbit-relay-developer-apolink/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-30T18:05:37.801666Z",
+            "shown_at": [
+                "2026-01-30T18:05:39.014416Z"
+            ]
+        },
+        {
+            "id": "331bf62715d677624f2132c927ec5618",
+            "source": "breaking_defense",
+            "text": "Space Force plans to create contractor pool for ‘physical/live’ training needs in summer",
+            "source_link": "https://breakingdefense.com/2026/01/space-force-plans-to-create-contractor-pool-for-physical-live-training-needs-in-summer/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-30T13:18:57.886838Z",
+            "shown_at": [
+                "2026-01-30T13:18:59.197197Z",
+                "2026-01-30T19:24:02.244235Z"
+            ]
+        },
+        {
+            "id": "86b66442cc710c73662de120d9854e74",
+            "source": "spacenews",
+            "text": "Making the unprecedented EU Space Act effective for all",
+            "source_link": "https://spacenews.com/making-the-unprecedented-eu-space-act-effective-for-all/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-30T12:09:01.882052Z",
+            "shown_at": [
+                "2026-01-30T12:09:03.081761Z"
+            ]
+        },
+        {
+            "id": "a578273c3762b05b573a40fdf8593e82",
+            "source": "spacenews",
+            "text": "Rocket Lab launches South Korean satellite",
+            "source_link": "https://spacenews.com/rocket-lab-launches-south-korean-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-30T11:34:59.676945Z",
+            "shown_at": [
+                "2026-01-30T11:35:00.889429Z"
+            ]
+        },
         {
             "id": "1cfd32928bbdd7d603eccbc5796b4981",
             "source": "spacenews",
@@ -9277,281 +9374,15 @@
             ]
         },
         {
-            "id": "c64e04245efe56e3548798cf95fe81d4",
+            "id": "ef94ba79016e6eb094b63711a4fee81f",
             "source": "nyt",
-            "text": "Why the U.S. Might Lose the Space Race",
-            "source_link": "https://www.nytimes.com/video/science/space/100000010400506/why-the-us-might-lose-the-space-race.html",
+            "text": "Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon",
+            "source_link": "https://www.nytimes.com/2026/01/30/science/blue-origin-new-shepard-rocket-bezos.html",
             "shown": true,
             "type": "news",
-            "fetched_datetime": "2025-09-20T09:04:11.710801Z",
+            "fetched_datetime": "2026-01-31T00:04:29.843742Z",
             "shown_at": [
-                "2025-09-20T09:04:12.450614Z",
-                "2025-09-20T18:18:25.568871Z",
-                "2025-09-20T20:39:55.490018Z",
-                "2025-09-20T21:41:55.830976Z",
-                "2025-09-22T04:47:56.370732Z",
-                "2025-09-22T07:12:30.743587Z",
-                "2025-09-22T19:49:52.503091Z",
-                "2025-09-22T23:23:51.307557Z",
-                "2025-09-23T14:35:51.513193Z",
-                "2025-09-23T16:43:44.883390Z",
-                "2025-09-23T20:32:16.160667Z",
-                "2025-09-23T21:44:06.280032Z",
-                "2025-09-24T04:02:30.106922Z",
-                "2025-09-24T09:47:57.507657Z",
-                "2025-09-25T05:22:14.786031Z",
-                "2025-09-25T07:39:51.378384Z",
-                "2025-09-25T13:16:19.532979Z",
-                "2025-09-26T02:26:05.251591Z",
-                "2025-09-26T11:50:28.065117Z",
-                "2025-09-26T23:27:46.817697Z",
-                "2025-09-27T03:32:06.230783Z"
-            ]
-        },
-        {
-            "id": "877f97dfee0c75ff118293da1ae432e4",
-            "source": "spacenews",
-            "text": "NASA revives VIPER lunar rover mission with Blue Origin lander award",
-            "source_link": "https://spacenews.com/nasa-revives-viper-lunar-rover-mission-with-blue-origin-lander-award/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-20T06:22:07.647116Z",
-            "shown_at": [
-                "2025-09-20T06:22:08.667462Z",
-                "2025-09-20T18:49:47.304484Z"
-            ]
-        },
-        {
-            "id": "b7607759fd23877445a5203dd27a6aac",
-            "source": "spacenews",
-            "text": "China promotes direct-to-device satellite services with new guidelines and licensing",
-            "source_link": "https://spacenews.com/china-promotes-direct-to-device-satellite-services-with-new-guidelines-and-licensing/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-19T21:17:39.939423Z",
-            "shown_at": [
-                "2025-09-19T21:17:40.570099Z",
-                "2025-09-26T03:13:59.580292Z"
-            ]
-        },
-        {
-            "id": "96253db3a9f3fcca238690eaa96c4e95",
-            "source": "nyt",
-            "text": "A Tiny Quasi-Moon is Following Earth Around the Sun",
-            "source_link": "https://www.nytimes.com/2025/09/19/science/earth-quasi-moon-asteroid.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-19T19:43:51.731512Z",
-            "shown_at": [
-                "2025-09-19T19:43:52.681500Z",
-                "2025-09-19T20:45:50.936853Z",
-                "2025-09-20T01:52:13.755568Z",
-                "2025-09-20T07:09:41.791476Z",
-                "2025-09-20T08:05:56.416070Z",
-                "2025-09-20T12:59:54.307408Z",
-                "2025-09-20T15:09:44.748784Z",
-                "2025-09-20T22:45:57.671116Z",
-                "2025-09-21T00:51:27.305340Z",
-                "2025-09-21T02:55:47.969188Z",
-                "2025-09-21T03:59:55.069332Z",
-                "2025-09-21T19:27:55.370060Z",
-                "2025-09-21T20:27:57.659080Z",
-                "2025-09-22T01:35:42.068401Z",
-                "2025-09-22T11:23:59.148471Z",
-                "2025-09-22T15:49:50.980699Z",
-                "2025-09-22T21:22:11.493534Z",
-                "2025-09-23T01:32:09.870714Z",
-                "2025-09-23T12:32:02.152103Z",
-                "2025-09-24T05:02:21.056561Z",
-                "2025-09-24T15:43:31.985774Z",
-                "2025-09-24T19:00:08.788095Z",
-                "2025-09-25T00:52:33.640937Z",
-                "2025-09-25T03:15:51.616270Z",
-                "2025-09-25T04:19:43.478028Z",
-                "2025-09-25T14:27:56.627194Z",
-                "2025-09-25T15:59:56.438515Z",
-                "2025-09-26T06:33:50.896103Z",
-                "2025-09-26T12:50:01.178993Z",
-                "2025-09-26T15:28:17.698560Z",
-                "2025-09-26T16:35:44.435179Z",
-                "2025-09-26T19:00:08.299062Z"
-            ]
-        },
-        {
-            "id": "c6b02e89da7366b2196e30b507f7ac0a",
-            "source": "nyt",
-            "text": "Earth Has a New ‘Quasi-Moon,’ and It May Be Very Tiny",
-            "source_link": "https://www.nytimes.com/2025/09/19/science/earth-quasi-moon-asteroid.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-19T18:42:09.863954Z",
-            "shown_at": [
-                "2025-09-19T18:42:10.547578Z",
-                "2025-09-20T00:52:01.994067Z",
-                "2025-09-20T03:56:08.493697Z",
-                "2025-09-20T06:05:58.051789Z",
-                "2025-09-20T16:15:26.568552Z",
-                "2025-09-21T01:52:19.098385Z",
-                "2025-09-21T13:30:08.573692Z",
-                "2025-09-21T15:29:46.669055Z",
-                "2025-09-21T17:29:55.933579Z",
-                "2025-09-22T08:22:19.586971Z",
-                "2025-09-22T13:27:50.771244Z",
-                "2025-09-22T14:47:32.433574Z",
-                "2025-09-22T16:50:12.289660Z",
-                "2025-09-22T22:21:57.773949Z",
-                "2025-09-23T07:46:00.363434Z",
-                "2025-09-23T10:39:45.683199Z",
-                "2025-09-23T13:29:48.792654Z",
-                "2025-09-24T01:49:41.226234Z",
-                "2025-09-24T06:04:03.848597Z",
-                "2025-09-24T07:08:04.498656Z",
-                "2025-09-24T17:57:47.091810Z",
-                "2025-09-25T06:32:46.447398Z",
-                "2025-09-25T10:45:44.937227Z",
-                "2025-09-26T10:27:43.822337Z"
-            ]
-        },
-        {
-            "id": "9f4426659159dc80553afa54bb129335",
-            "source": "spacenews",
-            "text": "American leadership at Apophis",
-            "source_link": "https://spacenews.com/american-leadership-at-apophis/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-19T17:39:58.246032Z",
-            "shown_at": [
-                "2025-09-19T18:10:28.863082Z",
-                "2025-09-25T07:03:28.766150Z"
-            ]
-        },
-        {
-            "id": "5bb94bc417a8e2569563dfce1bb66adf",
-            "source": "spacenews",
-            "text": "Building Saudi Arabia’s space champion",
-            "source_link": "https://spacenews.com/building-saudi-arabias-space-champion/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-19T17:39:58.245972Z",
-            "shown_at": [
-                "2025-09-19T17:56:08.773130Z",
-                "2025-09-19T22:17:57.735790Z",
-                "2025-09-25T21:27:59.814575Z",
-                "2025-09-26T14:32:28.847171Z"
-            ]
-        },
-        {
-            "id": "d7bfbb9f42736e99282cf5e711b94efd",
-            "source": "spacenews",
-            "text": "Novaspace Recognizes 2025 Excellence Award Winners in Satellite Connectivity, Earth Observation, and Startup Challenge at World Space Business Week",
-            "source_link": "https://spacenews.com/novaspace-recognizes-2025-excellence-award-winners-in-satellite-connectivity-earth-observation-and-startup-challenge-at-world-space-business-week/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-19T17:39:58.245918Z",
-            "shown_at": [
-                "2025-09-19T17:39:59.387320Z",
-                "2025-09-20T02:25:53.839118Z",
-                "2025-09-22T19:22:09.891938Z",
-                "2025-09-23T02:14:07.105096Z",
-                "2025-09-24T19:18:11.950627Z",
-                "2025-09-26T08:05:48.797547Z"
-            ]
-        },
-        {
-            "id": "a578273c3762b05b573a40fdf8593e82",
-            "source": "spacenews",
-            "text": "Rocket Lab launches South Korean satellite",
-            "source_link": "https://spacenews.com/rocket-lab-launches-south-korean-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-30T11:34:59.676945Z",
-            "shown_at": [
-                "2026-01-30T11:35:00.889429Z"
-            ]
-        },
-        {
-            "id": "86b66442cc710c73662de120d9854e74",
-            "source": "spacenews",
-            "text": "Making the unprecedented EU Space Act effective for all",
-            "source_link": "https://spacenews.com/making-the-unprecedented-eu-space-act-effective-for-all/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-30T12:09:01.882052Z",
-            "shown_at": [
-                "2026-01-30T12:09:03.081761Z"
-            ]
-        },
-        {
-            "id": "331bf62715d677624f2132c927ec5618",
-            "source": "breaking_defense",
-            "text": "Space Force plans to create contractor pool for ‘physical/live’ training needs in summer",
-            "source_link": "https://breakingdefense.com/2026/01/space-force-plans-to-create-contractor-pool-for-physical-live-training-needs-in-summer/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-30T13:18:57.886838Z",
-            "shown_at": [
-                "2026-01-30T13:18:59.197197Z",
-                "2026-01-30T19:24:02.244235Z"
-            ]
-        },
-        {
-            "id": "5ebddc1296d4f2d7bd226ee05684f29f",
-            "source": "spacenews",
-            "text": "RBC Signals partners with in-orbit relay developer Apolink",
-            "source_link": "https://spacenews.com/rbc-signals-partners-with-in-orbit-relay-developer-apolink/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-30T18:05:37.801666Z",
-            "shown_at": [
-                "2026-01-30T18:05:39.014416Z"
-            ]
-        },
-        {
-            "id": "00d6c47764757de04d9180c1f5ab6ae1",
-            "source": "breaking_defense",
-            "text": "SpaceX unveils ‘Stargaze’ space tracking system",
-            "source_link": "https://breakingdefense.com/2026/01/spacex-unveils-stargaze-space-tracking-system/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-30T20:35:05.651325Z",
-            "shown_at": [
-                "2026-01-30T20:35:06.894276Z"
-            ]
-        },
-        {
-            "id": "6a36c9085320b50f31975ba62e070ddd",
-            "source": "spacenews",
-            "text": "Weather delays Artemis 2 wet dress rehearsal",
-            "source_link": "https://spacenews.com/weather-delays-artemis-2-wet-dress-rehearsal/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-30T21:44:16.859225Z",
-            "shown_at": [
-                "2026-01-30T21:44:17.988289Z"
-            ]
-        },
-        {
-            "id": "b51dd285516da1bb7bc7e1e198c8fa3d",
-            "source": "spacenews",
-            "text": "Blue Origin halts New Shepard flights",
-            "source_link": "https://spacenews.com/blue-origin-halts-new-shepard-flights/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-30T22:19:46.597354Z",
-            "shown_at": [
-                "2026-01-30T22:19:47.684379Z"
-            ]
-        },
-        {
-            "id": "72025b4f6415d703fc0533291a63e33c",
-            "source": "spacenews",
-            "text": "L3Harris reaffirms commitment to space business amid missile sector expansion",
-            "source_link": "https://spacenews.com/l3harris-reaffirms-commitment-to-space-business-amid-missile-sector-expansion/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-30T23:29:11.339217Z",
-            "shown_at": [
-                "2026-01-30T23:29:12.521070Z"
+                "2026-01-31T00:04:31.255442Z"
             ]
         }
     ]
