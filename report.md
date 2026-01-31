@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 16 | 16 | 34 |
+| spacenews | 7 | 17 | 17 | 35 |
 | breaking_defense | 2 | 2 | 13 | 24 |
 | nyt | 1 | 1 | 11 | 23 |
 
@@ -3882,3 +3882,4 @@
 - **Jan 31, 01:14 AM** - The “Stealth” Strategy Pays Off: UARX Space Emerges as Europe’s High-Reliability Powerhouse (spacenews)
 - **Jan 31, 01:49 AM** - How to View the Artemis II Moon Launch (nyt)
 - **Jan 31, 02:24 AM** - As Space Force wraps up GPS III launches, lawmakers push for more anti-jam capability (breaking_defense)
+- **Jan 31, 02:59 AM** - Axiom wins fifth private astronaut mission to space station (spacenews)

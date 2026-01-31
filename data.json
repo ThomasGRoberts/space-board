@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-31T00:04:25.573981+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a820fedd0e3139f7d0570d602443e5ca",
+    "trigger_count": 0,
+    "current_item_id": "bf1af1529fe97421a73189dd8e045135",
     "data": [
         {
             "id": "72025b4f6415d703fc0533291a63e33c",
@@ -9387,6 +9387,18 @@
             "fetched_datetime": "2026-01-31T00:04:29.843742Z",
             "shown_at": [
                 "2026-01-31T00:04:31.255442Z"
+            ]
+        },
+        {
+            "id": "bf1af1529fe97421a73189dd8e045135",
+            "source": "spacenews",
+            "text": "Axiom wins fifth private astronaut mission to space station",
+            "source_link": "https://spacenews.com/axiom-wins-fifth-private-astronaut-mission-to-space-station/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-31T02:59:05.442403Z",
+            "shown_at": [
+                "2026-01-31T02:59:06.288968Z"
             ]
         }
     ]
