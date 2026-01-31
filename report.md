@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 16 | 16 | 34 |
-| breaking_defense | 2 | 2 | 12 | 24 |
+| breaking_defense | 2 | 2 | 13 | 25 |
 | nyt | 1 | 1 | 12 | 23 |
 
 # Shown Order
@@ -3881,3 +3881,4 @@
 - **Jan 31, 12:39 AM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
 - **Jan 31, 01:14 AM** - The “Stealth” Strategy Pays Off: UARX Space Emerges as Europe’s High-Reliability Powerhouse (spacenews)
 - **Jan 31, 01:49 AM** - How to View the Artemis II Moon Launch (nyt)
+- **Jan 31, 02:24 AM** - As Space Force wraps up GPS III launches, lawmakers push for more anti-jam capability (breaking_defense)
