@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 15 | 16 | 34 |
+| spacenews | 7 | 16 | 17 | 35 |
 | breaking_defense | 2 | 2 | 13 | 24 |
 | nyt | 1 | 1 | 11 | 23 |
 
@@ -3899,3 +3899,4 @@
 - **Jan 31, 11:19 AM** - How to View the Artemis II Moon Launch (nyt)
 - **Jan 31, 11:54 AM** - SPACECOM chief cites Army, Marines as models for expanding on-orbit warfighting exercises (breaking_defense)
 - **Jan 31, 12:29 PM** - Blue Origin halts New Shepard flights (spacenews)
+- **Jan 31, 01:04 PM** - SpaceX files plans for million-satellite orbital data center constellation (spacenews)

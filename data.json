@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-01-31T00:04:25.573981+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b51dd285516da1bb7bc7e1e198c8fa3d",
+    "trigger_count": 0,
+    "current_item_id": "09949745e08675a4d958cc0d214c2035",
     "data": [
         {
             "id": "72025b4f6415d703fc0533291a63e33c",
@@ -9426,6 +9426,18 @@
             "fetched_datetime": "2026-01-31T10:44:18.074972Z",
             "shown_at": [
                 "2026-01-31T10:44:18.807741Z"
+            ]
+        },
+        {
+            "id": "09949745e08675a4d958cc0d214c2035",
+            "source": "spacenews",
+            "text": "SpaceX files plans for million-satellite orbital data center constellation",
+            "source_link": "https://spacenews.com/spacex-files-plans-for-million-satellite-orbital-data-center-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-31T13:04:31.159286Z",
+            "shown_at": [
+                "2026-01-31T13:04:32.361591Z"
             ]
         }
     ]
