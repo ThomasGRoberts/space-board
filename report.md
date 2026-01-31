@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 17 | 34 |
 | breaking_defense | 2 | 2 | 12 | 24 |
-| nyt | 1 | 1 | 11 | 23 |
+| nyt | 1 | 1 | 12 | 24 |
 
 # Shown Order
 
@@ -3892,3 +3892,4 @@
 - **Jan 31, 07:04 AM** - Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon (nyt)
 - **Jan 31, 07:39 AM** - SDA must be ‘more realistic’ about real risks in pricey satellite Tracking Layer effort: GAO (breaking_defense)
 - **Jan 31, 08:18 AM** - Hanwha exploring South Korean defense constellation with MDA Space and Telesat (spacenews)
+- **Jan 31, 08:54 AM** - How to View the Artemis II Moon Launch (nyt)
