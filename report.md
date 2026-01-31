@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 16 | 17 | 35 |
 | breaking_defense | 1 | 2 | 12 | 24 |
-| nyt | 1 | 1 | 11 | 22 |
+| nyt | 1 | 1 | 12 | 23 |
 
 # Shown Order
 
@@ -3903,3 +3903,4 @@
 - **Jan 31, 01:38 PM** - Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon (nyt)
 - **Jan 31, 02:14 PM** - Space Force plans to create contractor pool for ‘physical/live’ training needs in summer (breaking_defense)
 - **Jan 31, 02:49 PM** - SpaceX launches GPS satellite for U.S. Space Force (spacenews)
+- **Jan 31, 03:24 PM** - How to View the Artemis II Moon Launch (nyt)
