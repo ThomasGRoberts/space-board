@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 15 | 16 | 34 |
+| spacenews | 7 | 15 | 17 | 35 |
 | breaking_defense | 1 | 2 | 13 | 24 |
 | nyt | 1 | 1 | 11 | 23 |
 
@@ -3905,3 +3905,4 @@
 - **Jan 31, 02:49 PM** - SpaceX launches GPS satellite for U.S. Space Force (spacenews)
 - **Jan 31, 03:24 PM** - How to View the Artemis II Moon Launch (nyt)
 - **Jan 31, 03:59 PM** - SPACECOM chief cites Army, Marines as models for expanding on-orbit warfighting exercises (breaking_defense)
+- **Jan 31, 04:34 PM** - Space Force set to choose contractors for next-gen GEO spy satellites (spacenews)
