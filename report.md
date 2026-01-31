@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 16 | 16 | 35 |
-| breaking_defense | 1 | 2 | 12 | 23 |
+| breaking_defense | 1 | 2 | 13 | 24 |
 | nyt | 1 | 1 | 12 | 23 |
 
 # Shown Order
@@ -3901,3 +3901,4 @@
 - **Jan 31, 12:29 PM** - Blue Origin halts New Shepard flights (spacenews)
 - **Jan 31, 01:04 PM** - SpaceX files plans for million-satellite orbital data center constellation (spacenews)
 - **Jan 31, 01:38 PM** - Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon (nyt)
+- **Jan 31, 02:14 PM** - Space Force plans to create contractor pool for ‘physical/live’ training needs in summer (breaking_defense)
