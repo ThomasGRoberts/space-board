@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 17 | 16 | 34 |
+| spacenews | 7 | 17 | 17 | 35 |
 | breaking_defense | 2 | 2 | 13 | 24 |
 | nyt | 1 | 1 | 11 | 23 |
 
@@ -3891,3 +3891,4 @@
 - **Jan 31, 06:29 AM** - Vega C to launch Brazilian satellite (spacenews)
 - **Jan 31, 07:04 AM** - Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon (nyt)
 - **Jan 31, 07:39 AM** - SDA must be ‘more realistic’ about real risks in pricey satellite Tracking Layer effort: GAO (breaking_defense)
+- **Jan 31, 08:18 AM** - Hanwha exploring South Korean defense constellation with MDA Space and Telesat (spacenews)
