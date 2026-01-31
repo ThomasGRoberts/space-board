@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 17 | 34 |
 | breaking_defense | 2 | 2 | 12 | 24 |
-| nyt | 1 | 1 | 11 | 23 |
+| nyt | 1 | 1 | 12 | 24 |
 
 # Shown Order
 
@@ -3886,3 +3886,4 @@
 - **Jan 31, 03:34 AM** - How to View the Artemis II Moon Launch (nyt)
 - **Jan 31, 04:09 AM** - Space Force envisions rolling awards for new RG-XX neighborhood watch satellites (breaking_defense)
 - **Jan 31, 04:44 AM** - Rocket Lab launches South Korean satellite (spacenews)
+- **Jan 31, 05:19 AM** - Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon (nyt)
