@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 16 | 17 | 35 |
 | breaking_defense | 1 | 2 | 12 | 24 |
-| nyt | 1 | 1 | 11 | 22 |
+| nyt | 1 | 1 | 12 | 23 |
 
 # Shown Order
 
@@ -3900,3 +3900,4 @@
 - **Jan 31, 11:54 AM** - SPACECOM chief cites Army, Marines as models for expanding on-orbit warfighting exercises (breaking_defense)
 - **Jan 31, 12:29 PM** - Blue Origin halts New Shepard flights (spacenews)
 - **Jan 31, 01:04 PM** - SpaceX files plans for million-satellite orbital data center constellation (spacenews)
+- **Jan 31, 01:38 PM** - Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon (nyt)
