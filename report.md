@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 17 | 16 | 34 |
+| spacenews | 7 | 17 | 17 | 35 |
 | breaking_defense | 2 | 2 | 13 | 24 |
 | nyt | 1 | 1 | 11 | 23 |
 
@@ -3885,3 +3885,4 @@
 - **Jan 31, 02:59 AM** - Axiom wins fifth private astronaut mission to space station (spacenews)
 - **Jan 31, 03:34 AM** - How to View the Artemis II Moon Launch (nyt)
 - **Jan 31, 04:09 AM** - Space Force envisions rolling awards for new RG-XX neighborhood watch satellites (breaking_defense)
+- **Jan 31, 04:44 AM** - Rocket Lab launches South Korean satellite (spacenews)
