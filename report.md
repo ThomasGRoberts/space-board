@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 17 | 16 | 34 |
+| spacenews | 7 | 17 | 17 | 35 |
 | breaking_defense | 2 | 2 | 13 | 24 |
 | nyt | 1 | 1 | 11 | 23 |
 
@@ -3888,3 +3888,4 @@
 - **Jan 31, 04:44 AM** - Rocket Lab launches South Korean satellite (spacenews)
 - **Jan 31, 05:19 AM** - Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon (nyt)
 - **Jan 31, 05:54 AM** - Space Force plans to create contractor pool for ‘physical/live’ training needs in summer (breaking_defense)
+- **Jan 31, 06:29 AM** - Vega C to launch Brazilian satellite (spacenews)
