@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 16 | 17 | 34 |
 | breaking_defense | 2 | 2 | 12 | 24 |
-| nyt | 1 | 1 | 11 | 23 |
+| nyt | 1 | 1 | 12 | 24 |
 
 # Shown Order
 
@@ -3880,3 +3880,4 @@
 - **Jan 31, 12:04 AM** - Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon (nyt)
 - **Jan 31, 12:39 AM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
 - **Jan 31, 01:14 AM** - The “Stealth” Strategy Pays Off: UARX Space Emerges as Europe’s High-Reliability Powerhouse (spacenews)
+- **Jan 31, 01:49 AM** - How to View the Artemis II Moon Launch (nyt)
