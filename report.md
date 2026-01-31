@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 14 | 16 | 34 |
-| breaking_defense | 1 | 2 | 12 | 24 |
+| breaking_defense | 1 | 2 | 13 | 25 |
 | nyt | 1 | 1 | 12 | 23 |
 
 # Shown Order
@@ -3910,3 +3910,4 @@
 - **Jan 31, 05:44 PM** - SPACECOM chief cites Army, Marines as models for expanding on-orbit warfighting exercises (breaking_defense)
 - **Jan 31, 06:19 PM** - What ‘commercial space’ really means depends on who’s buying — and why (spacenews)
 - **Jan 31, 06:54 PM** - Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon (nyt)
+- **Jan 31, 07:29 PM** - As Space Force wraps up GPS III launches, lawmakers push for more anti-jam capability (breaking_defense)
