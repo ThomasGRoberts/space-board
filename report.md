@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 15 | 17 | 35 |
 | breaking_defense | 1 | 2 | 12 | 24 |
-| nyt | 1 | 1 | 11 | 22 |
+| nyt | 1 | 1 | 12 | 23 |
 
 # Shown Order
 
@@ -3906,3 +3906,4 @@
 - **Jan 31, 03:24 PM** - How to View the Artemis II Moon Launch (nyt)
 - **Jan 31, 03:59 PM** - SPACECOM chief cites Army, Marines as models for expanding on-orbit warfighting exercises (breaking_defense)
 - **Jan 31, 04:34 PM** - Space Force set to choose contractors for next-gen GEO spy satellites (spacenews)
+- **Jan 31, 05:09 PM** - Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon (nyt)
