@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 16 | 33 |
+| spacenews | 5 | 13 | 16 | 34 |
 | breaking_defense | 0 | 2 | 13 | 25 |
 | nyt | 1 | 1 | 12 | 23 |
 
@@ -3914,3 +3914,4 @@
 - **Jan 31, 08:04 PM** - Weather delays Artemis 2 wet dress rehearsal (spacenews)
 - **Jan 31, 08:39 PM** - How to View the Artemis II Moon Launch (nyt)
 - **Jan 31, 09:14 PM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
+- **Jan 31, 09:49 PM** - Hanwha exploring South Korean defense constellation with MDA Space and Telesat (spacenews)
