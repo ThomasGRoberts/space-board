@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 16 | 34 |
-| breaking_defense | 2 | 2 | 12 | 24 |
+| breaking_defense | 2 | 2 | 13 | 25 |
 | nyt | 1 | 1 | 12 | 23 |
 
 # Shown Order
@@ -3893,3 +3893,4 @@
 - **Jan 31, 07:39 AM** - SDA must be ‘more realistic’ about real risks in pricey satellite Tracking Layer effort: GAO (breaking_defense)
 - **Jan 31, 08:18 AM** - Hanwha exploring South Korean defense constellation with MDA Space and Telesat (spacenews)
 - **Jan 31, 08:54 AM** - How to View the Artemis II Moon Launch (nyt)
+- **Jan 31, 09:29 AM** - SPACECOM chief cites Army, Marines as models for expanding on-orbit warfighting exercises (breaking_defense)
