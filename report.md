@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 16 | 16 | 34 |
+| spacenews | 6 | 16 | 17 | 35 |
 | breaking_defense | 2 | 2 | 13 | 24 |
 | nyt | 1 | 1 | 11 | 23 |
 
@@ -3879,3 +3879,4 @@
 - **Jan 30, 11:29 PM** - L3Harris reaffirms commitment to space business amid missile sector expansion (spacenews)
 - **Jan 31, 12:04 AM** - Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon (nyt)
 - **Jan 31, 12:39 AM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
+- **Jan 31, 01:14 AM** - The “Stealth” Strategy Pays Off: UARX Space Emerges as Europe’s High-Reliability Powerhouse (spacenews)
