@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 8 | 15 | 30 |
-| nyt | 0 | 1 | 13 | 25 |
+| spacenews | 2 | 8 | 14 | 30 |
+| nyt | 0 | 1 | 14 | 26 |
 | breaking_defense | 0 | 1 | 13 | 26 |
 
 # Shown Order
@@ -3894,3 +3894,4 @@
 - **Feb 01, 06:24 PM** - Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon (nyt)
 - **Feb 01, 06:58 PM** - Space Force plans to create contractor pool for ‘physical/live’ training needs in summer (breaking_defense)
 - **Feb 01, 07:34 PM** - Varda’s W-5 mission lands in Australia (spacenews)
+- **Feb 01, 08:09 PM** - Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon (nyt)
