@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 10 | 15 | 31 |
+| spacenews | 3 | 10 | 16 | 32 |
 | nyt | 0 | 1 | 13 | 25 |
 | breaking_defense | 0 | 2 | 12 | 25 |
 
@@ -3870,3 +3870,4 @@
 - **Feb 01, 04:14 AM** - NASA considering alternatives for Gateway logistics (spacenews)
 - **Feb 01, 04:49 AM** - Space Force plans to create contractor pool for ‘physical/live’ training needs in summer (breaking_defense)
 - **Feb 01, 05:24 AM** - Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon (nyt)
+- **Feb 01, 05:59 AM** - Hanwha exploring South Korean defense constellation with MDA Space and Telesat (spacenews)
