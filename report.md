@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 8 | 14 | 31 |
 | nyt | 0 | 1 | 14 | 25 |
-| breaking_defense | 0 | 1 | 13 | 25 |
+| breaking_defense | 0 | 1 | 14 | 26 |
 
 # Shown Order
 
@@ -3883,3 +3883,4 @@
 - **Feb 01, 11:54 AM** - Space Force plans to create contractor pool for ‘physical/live’ training needs in summer (breaking_defense)
 - **Feb 01, 12:29 PM** - Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon (nyt)
 - **Feb 01, 01:04 PM** - Alabama National Guard general to manage Space Command headquarters transition (spacenews)
+- **Feb 01, 01:38 PM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
