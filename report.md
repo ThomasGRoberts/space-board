@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 8 | 14 | 30 |
+| spacenews | 1 | 8 | 15 | 31 |
 | nyt | 0 | 1 | 14 | 25 |
 | breaking_defense | 0 | 2 | 13 | 26 |
 
@@ -3882,3 +3882,4 @@
 - **Feb 01, 11:19 AM** - L3Harris reaffirms commitment to space business amid missile sector expansion (spacenews)
 - **Feb 01, 11:54 AM** - Space Force plans to create contractor pool for ‘physical/live’ training needs in summer (breaking_defense)
 - **Feb 01, 12:29 PM** - Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon (nyt)
+- **Feb 01, 01:04 PM** - Alabama National Guard general to manage Space Command headquarters transition (spacenews)
