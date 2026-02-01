@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 10 | 14 | 31 |
+| spacenews | 2 | 10 | 15 | 32 |
 | nyt | 0 | 1 | 14 | 25 |
 | breaking_defense | 0 | 2 | 13 | 25 |
 
@@ -3879,3 +3879,4 @@
 - **Feb 01, 09:34 AM** - Making the unprecedented EU Space Act effective for all (spacenews)
 - **Feb 01, 10:08 AM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
 - **Feb 01, 10:44 AM** - Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon (nyt)
+- **Feb 01, 11:19 AM** - L3Harris reaffirms commitment to space business amid missile sector expansion (spacenews)
