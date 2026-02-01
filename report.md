@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 8 | 15 | 30 |
-| nyt | 0 | 1 | 13 | 25 |
+| spacenews | 2 | 8 | 14 | 30 |
+| nyt | 0 | 1 | 14 | 26 |
 | breaking_defense | 0 | 1 | 13 | 26 |
 
 # Shown Order
@@ -3891,3 +3891,4 @@
 - **Feb 01, 04:39 PM** - NASA considering alternatives for Gateway logistics (spacenews)
 - **Feb 01, 05:14 PM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
 - **Feb 01, 05:49 PM** - With attention on orbital data centers, the focus turns to economics (spacenews)
+- **Feb 01, 06:24 PM** - Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon (nyt)
