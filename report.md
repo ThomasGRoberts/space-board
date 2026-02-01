@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 8 | 14 | 30 |
-| nyt | 0 | 1 | 13 | 25 |
-| breaking_defense | 0 | 1 | 14 | 26 |
+| nyt | 0 | 1 | 14 | 26 |
+| breaking_defense | 0 | 1 | 13 | 26 |
 
 # Shown Order
 
@@ -3884,3 +3884,4 @@
 - **Feb 01, 12:29 PM** - Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon (nyt)
 - **Feb 01, 01:04 PM** - Alabama National Guard general to manage Space Command headquarters transition (spacenews)
 - **Feb 01, 01:38 PM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
+- **Feb 01, 02:14 PM** - How to View the Artemis II Moon Launch (nyt)
