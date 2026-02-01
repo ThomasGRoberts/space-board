@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 10 | 15 | 32 |
-| nyt | 0 | 1 | 13 | 24 |
+| nyt | 0 | 1 | 13 | 25 |
 | breaking_defense | 0 | 2 | 13 | 25 |
 
 # Shown Order
@@ -3863,3 +3863,4 @@
 - **Feb 01, 12:09 AM** - How to View the Artemis II Moon Launch (nyt)
 - **Feb 01, 12:44 AM** - The “Stealth” Strategy Pays Off: UARX Space Emerges as Europe’s High-Reliability Powerhouse (spacenews)
 - **Feb 01, 01:19 AM** - SPACECOM chief cites Army, Marines as models for expanding on-orbit warfighting exercises (breaking_defense)
+- **Feb 01, 01:54 AM** - Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon (nyt)
