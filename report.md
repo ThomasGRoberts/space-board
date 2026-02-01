@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 10 | 16 | 32 |
 | nyt | 0 | 1 | 13 | 24 |
-| breaking_defense | 0 | 2 | 12 | 25 |
+| breaking_defense | 0 | 2 | 13 | 26 |
 
 # Shown Order
 
@@ -3877,3 +3877,4 @@
 - **Feb 01, 08:24 AM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
 - **Feb 01, 08:59 AM** - Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon (nyt)
 - **Feb 01, 09:34 AM** - Making the unprecedented EU Space Act effective for all (spacenews)
+- **Feb 01, 10:08 AM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
