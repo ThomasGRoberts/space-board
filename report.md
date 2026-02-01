@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 8 | 14 | 30 |
+| spacenews | 1 | 8 | 14 | 31 |
 | nyt | 0 | 1 | 14 | 25 |
 | breaking_defense | 0 | 1 | 13 | 26 |
 
@@ -3888,3 +3888,4 @@
 - **Feb 01, 02:49 PM** - HEO acquires in-orbit satellite from Satellogic (spacenews)
 - **Feb 01, 03:24 PM** - Space Force envisions rolling awards for new RG-XX neighborhood watch satellites (breaking_defense)
 - **Feb 01, 03:59 PM** - How to View the Artemis II Moon Launch (nyt)
+- **Feb 01, 04:39 PM** - NASA considering alternatives for Gateway logistics (spacenews)
