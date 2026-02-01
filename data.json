@@ -1,9 +1,74 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-01-31T00:04:25.573981+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2026-02-01T00:04:23.791402+00:00",
+    "trigger_count": 6,
     "current_item_id": "331bf62715d677624f2132c927ec5618",
     "data": [
+        {
+            "id": "5365fd2bde262b290060cc65fc4049cc",
+            "source": "spacenews",
+            "text": "Varda’s W-5 mission lands in Australia",
+            "source_link": "https://spacenews.com/vardas-w-5-mission-lands-in-australia/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-31T22:59:12.377605Z",
+            "shown_at": [
+                "2026-01-31T22:59:13.532677Z"
+            ]
+        },
+        {
+            "id": "09949745e08675a4d958cc0d214c2035",
+            "source": "spacenews",
+            "text": "SpaceX files plans for million-satellite orbital data center constellation",
+            "source_link": "https://spacenews.com/spacex-files-plans-for-million-satellite-orbital-data-center-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-31T13:04:31.159286Z",
+            "shown_at": [
+                "2026-01-31T13:04:32.361591Z"
+            ]
+        },
+        {
+            "id": "4fd397f568479c3314702507aaf13e3d",
+            "source": "spacenews",
+            "text": "China launches AlSat-3B for Algeria, further launches delayed ahead of key human spaceflight test",
+            "source_link": "https://spacenews.com/china-launches-alsat-3b-for-algeria-further-launches-delayed-ahead-of-key-human-spaceflight-test/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-31T10:44:18.074972Z",
+            "shown_at": [
+                "2026-01-31T10:44:18.807741Z"
+            ]
+        },
+        {
+            "id": "bf1af1529fe97421a73189dd8e045135",
+            "source": "spacenews",
+            "text": "Axiom wins fifth private astronaut mission to space station",
+            "source_link": "https://spacenews.com/axiom-wins-fifth-private-astronaut-mission-to-space-station/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-31T02:59:05.442403Z",
+            "shown_at": [
+                "2026-01-31T02:59:06.288968Z"
+            ]
+        },
+        {
+            "id": "ef94ba79016e6eb094b63711a4fee81f",
+            "source": "nyt",
+            "text": "Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon",
+            "source_link": "https://www.nytimes.com/2026/01/30/science/blue-origin-new-shepard-rocket-bezos.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-01-31T00:04:29.843742Z",
+            "shown_at": [
+                "2026-01-31T00:04:31.255442Z",
+                "2026-01-31T05:19:22.412155Z",
+                "2026-01-31T07:04:57.935527Z",
+                "2026-01-31T13:38:58.746193Z",
+                "2026-01-31T17:09:42.665052Z",
+                "2026-01-31T18:54:15.649008Z"
+            ]
+        },
         {
             "id": "72025b4f6415d703fc0533291a63e33c",
             "source": "spacenews",
@@ -9289,184 +9354,6 @@
                 "2025-09-24T02:17:56.449135Z",
                 "2025-09-26T16:18:12.311667Z",
                 "2025-09-28T08:54:06.559819Z"
-            ]
-        },
-        {
-            "id": "f7f94516e382bce644eae8cd40e96fd0",
-            "source": "breaking_defense",
-            "text": "Space Force to get NOAA antennas to supplement Satellite Control Network",
-            "source_link": "https://breakingdefense.com/2025/09/space-force-to-get-noaa-antennas-to-supplement-overtasked-satellite-control-network/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-22T14:34:06.202346Z",
-            "shown_at": [
-                "2025-09-22T14:34:06.903466Z",
-                "2025-09-22T19:07:58.809645Z",
-                "2025-09-23T06:09:48.875992Z",
-                "2025-09-24T23:59:39.237581Z",
-                "2025-09-26T06:47:58.548343Z",
-                "2025-09-26T08:59:47.950373Z",
-                "2025-09-27T10:22:07.387696Z",
-                "2025-09-28T16:53:42.373488Z"
-            ]
-        },
-        {
-            "id": "6944ab14e369f68dd5d093b690b6e345",
-            "source": "spacenews",
-            "text": "A double standard about contamination is keeping us from verifying signs of Martian life ",
-            "source_link": "https://spacenews.com/a-double-standard-about-contamination-is-keeping-us-from-verifying-signs-of-martian-life/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-22T13:13:48.688573Z",
-            "shown_at": [
-                "2025-09-22T13:13:49.325279Z",
-                "2025-09-24T01:21:59.095474Z",
-                "2025-09-24T15:57:39.643941Z"
-            ]
-        },
-        {
-            "id": "6769c35d9b69eee76bd464f6a584c95e",
-            "source": "spacenews",
-            "text": "Quantum Space acquires Phase Four propulsion assets",
-            "source_link": "https://spacenews.com/quantum-space-acquires-phase-four-propulsion-assets/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-22T11:07:51.133086Z",
-            "shown_at": [
-                "2025-09-22T11:07:51.831768Z",
-                "2025-09-25T13:52:03.138032Z",
-                "2025-09-25T18:22:35.094676Z",
-                "2025-09-27T02:19:51.553172Z",
-                "2025-09-27T08:23:51.490291Z"
-            ]
-        },
-        {
-            "id": "8f10ff8bc1a8195ff014ab6edbd8f367",
-            "source": "spacenews",
-            "text": "NASA safety panel warns Starship lunar lander could be delayed by years",
-            "source_link": "https://spacenews.com/nasa-safety-panel-warns-starship-lunar-lander-could-be-delayed-by-years/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-20T19:20:00.078675Z",
-            "shown_at": [
-                "2025-09-20T19:20:00.668277Z",
-                "2025-09-22T03:31:04.838603Z",
-                "2025-09-22T16:19:59.353632Z",
-                "2025-09-24T04:17:40.847755Z",
-                "2025-09-27T07:22:11.216940Z"
-            ]
-        },
-        {
-            "id": "d6532bd3f5a0523682051723a64b26eb",
-            "source": "nyt",
-            "text": "U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX",
-            "source_link": "https://www.nytimes.com/2025/09/20/us/politics/spacex-us-moon-race.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-20T09:04:11.710838Z",
-            "shown_at": [
-                "2025-09-20T09:19:53.586775Z",
-                "2025-09-20T10:37:57.964911Z",
-                "2025-09-20T11:45:43.760234Z",
-                "2025-09-20T17:15:43.333836Z",
-                "2025-09-20T19:35:49.385067Z",
-                "2025-09-20T23:52:08.445142Z",
-                "2025-09-21T04:59:46.227189Z",
-                "2025-09-21T05:59:20.228010Z",
-                "2025-09-21T08:07:52.624204Z",
-                "2025-09-21T12:27:42.655243Z",
-                "2025-09-21T21:31:52.750016Z",
-                "2025-09-21T22:32:21.152873Z",
-                "2025-09-22T00:33:38.356487Z",
-                "2025-09-22T02:42:01.770482Z",
-                "2025-09-22T03:46:08.191004Z",
-                "2025-09-23T09:37:33.298962Z",
-                "2025-09-23T15:39:51.506936Z",
-                "2025-09-23T17:57:46.113005Z",
-                "2025-09-23T19:28:00.993273Z",
-                "2025-09-23T22:43:59.049034Z",
-                "2025-09-23T23:47:56.344684Z",
-                "2025-09-24T00:50:05.721067Z",
-                "2025-09-24T08:56:09.859587Z",
-                "2025-09-24T14:43:57.420794Z",
-                "2025-09-24T20:06:06.984235Z",
-                "2025-09-24T23:46:03.054117Z",
-                "2025-09-25T02:05:52.455020Z",
-                "2025-09-25T18:05:44.455143Z",
-                "2025-09-26T00:26:04.596809Z",
-                "2025-09-26T01:24:11.828884Z",
-                "2025-09-26T03:27:58.849573Z",
-                "2025-09-26T07:35:45.428714Z",
-                "2025-09-26T08:45:49.290386Z",
-                "2025-09-26T17:42:17.938066Z",
-                "2025-09-26T22:28:09.675737Z",
-                "2025-09-27T00:33:56.009645Z",
-                "2025-09-27T01:32:23.100701Z"
-            ]
-        },
-        {
-            "id": "ef94ba79016e6eb094b63711a4fee81f",
-            "source": "nyt",
-            "text": "Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon",
-            "source_link": "https://www.nytimes.com/2026/01/30/science/blue-origin-new-shepard-rocket-bezos.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-31T00:04:29.843742Z",
-            "shown_at": [
-                "2026-01-31T00:04:31.255442Z",
-                "2026-01-31T05:19:22.412155Z",
-                "2026-01-31T07:04:57.935527Z",
-                "2026-01-31T13:38:58.746193Z",
-                "2026-01-31T17:09:42.665052Z",
-                "2026-01-31T18:54:15.649008Z"
-            ]
-        },
-        {
-            "id": "bf1af1529fe97421a73189dd8e045135",
-            "source": "spacenews",
-            "text": "Axiom wins fifth private astronaut mission to space station",
-            "source_link": "https://spacenews.com/axiom-wins-fifth-private-astronaut-mission-to-space-station/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-31T02:59:05.442403Z",
-            "shown_at": [
-                "2026-01-31T02:59:06.288968Z"
-            ]
-        },
-        {
-            "id": "4fd397f568479c3314702507aaf13e3d",
-            "source": "spacenews",
-            "text": "China launches AlSat-3B for Algeria, further launches delayed ahead of key human spaceflight test",
-            "source_link": "https://spacenews.com/china-launches-alsat-3b-for-algeria-further-launches-delayed-ahead-of-key-human-spaceflight-test/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-31T10:44:18.074972Z",
-            "shown_at": [
-                "2026-01-31T10:44:18.807741Z"
-            ]
-        },
-        {
-            "id": "09949745e08675a4d958cc0d214c2035",
-            "source": "spacenews",
-            "text": "SpaceX files plans for million-satellite orbital data center constellation",
-            "source_link": "https://spacenews.com/spacex-files-plans-for-million-satellite-orbital-data-center-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-31T13:04:31.159286Z",
-            "shown_at": [
-                "2026-01-31T13:04:32.361591Z"
-            ]
-        },
-        {
-            "id": "5365fd2bde262b290060cc65fc4049cc",
-            "source": "spacenews",
-            "text": "Varda’s W-5 mission lands in Australia",
-            "source_link": "https://spacenews.com/vardas-w-5-mission-lands-in-australia/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-31T22:59:12.377605Z",
-            "shown_at": [
-                "2026-01-31T22:59:13.532677Z"
             ]
         }
     ]
