@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 5 | 13 | 29 |
+| spacenews | 2 | 5 | 14 | 30 |
 | nyt | 0 | 0 | 13 | 26 |
 | breaking_defense | 0 | 0 | 14 | 26 |
 
@@ -3905,3 +3905,4 @@
 - **Feb 02, 07:54 AM** - Earth observation’s adoption gap is a supply design problem (spacenews)
 - **Feb 02, 08:29 AM** - How to View the Artemis II Moon Launch (nyt)
 - **Feb 02, 09:04 AM** - SPACECOM chief cites Army, Marines as models for expanding on-orbit warfighting exercises (breaking_defense)
+- **Feb 02, 09:39 AM** - York Space goes public, riding Pentagon demand (spacenews)
