@@ -3917,3 +3917,4 @@
 - **Feb 02, 02:54 PM** - Amazon buys 10 more Falcon 9 launches (spacenews)
 - **Feb 02, 03:29 PM** - Space Force envisions rolling awards for new RG-XX neighborhood watch satellites (breaking_defense)
 - **Feb 02, 04:04 PM** - How to View the Artemis II Moon Launch (nyt)
+- **Feb 02, 04:39 PM** - SpaceX files plans for million-satellite orbital data center constellation (spacenews)
