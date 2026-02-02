@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 6 | 13 | 29 |
+| spacenews | 2 | 6 | 14 | 30 |
 | nyt | 0 | 0 | 13 | 26 |
 | breaking_defense | 0 | 0 | 14 | 26 |
 
@@ -3890,3 +3890,4 @@
 - **Feb 01, 11:05 PM** - What ‘commercial space’ really means depends on who’s buying — and why (spacenews)
 - **Feb 01, 11:44 PM** - How to View the Artemis II Moon Launch (nyt)
 - **Feb 02, 12:19 AM** - As Space Force wraps up GPS III launches, lawmakers push for more anti-jam capability (breaking_defense)
+- **Feb 02, 12:54 AM** - Making the unprecedented EU Space Act effective for all (spacenews)
