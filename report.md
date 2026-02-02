@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 14 | 29 |
 | nyt | 0 | 0 | 13 | 26 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -3901,3 +3901,4 @@
 - **Feb 02, 05:34 AM** - As Space Force wraps up GPS III launches, lawmakers push for more anti-jam capability (breaking_defense)
 - **Feb 02, 06:08 AM** - Space Force set to choose contractors for next-gen GEO spy satellites (spacenews)
 - **Feb 02, 06:44 AM** - How to View the Artemis II Moon Launch (nyt)
+- **Feb 02, 07:19 AM** - Space Force envisions rolling awards for new RG-XX neighborhood watch satellites (breaking_defense)
