@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 5 | 14 | 29 |
-| nyt | 0 | 0 | 14 | 27 |
+| spacenews | 5 | 7 | 15 | 29 |
+| nyt | 0 | 0 | 13 | 27 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -3910,3 +3910,4 @@
 - **Feb 02, 10:49 AM** - SDA must be ‘more realistic’ about real risks in pricey satellite Tracking Layer effort: GAO (breaking_defense)
 - **Feb 02, 11:24 AM** - Transcelestial to provide satellite laser communication terminals to Gilmour Space (spacenews)
 - **Feb 02, 11:59 AM** - How to View the Artemis II Moon Launch (nyt)
+- **Feb 02, 12:34 PM** - CesiumAstro to scale operations with $470 million in equity and debt financing (spacenews)

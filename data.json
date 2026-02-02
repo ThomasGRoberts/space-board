@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-02T00:04:26.383681+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8c67e84ee27331c095408a10ed872c1d",
+    "trigger_count": 0,
+    "current_item_id": "577f95216c8b913cc1e0ccb56a39f069",
     "data": [
         {
             "id": "d58b64ca62795dc66f6f2c7cbdd982ce",
@@ -9416,6 +9416,27 @@
             "shown_at": [
                 "2026-02-02T11:24:09.973734Z"
             ]
+        },
+        {
+            "id": "577f95216c8b913cc1e0ccb56a39f069",
+            "source": "spacenews",
+            "text": "CesiumAstro to scale operations with $470 million in equity and debt financing",
+            "source_link": "https://spacenews.com/cesiumastro-to-scale-operations-with-450-million-in-equity-and-debt-financing/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-02T12:34:26.518269Z",
+            "shown_at": [
+                "2026-02-02T12:34:27.511732Z"
+            ]
+        },
+        {
+            "id": "bb27ed17b08745a5e5f52edc79de9951",
+            "source": "spacenews",
+            "text": "Starlink and the unravelling of digital sovereignty",
+            "source_link": "https://spacenews.com/starlink-and-the-unravelling-of-digital-sovereignty/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-02-02T12:34:26.518326Z"
         }
     ]
 }
