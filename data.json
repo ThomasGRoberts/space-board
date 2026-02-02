@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-02T00:04:26.383681+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7f16e63763dd0f22f597fb0aa70be80b",
+    "trigger_count": 0,
+    "current_item_id": "9b5e5c40d168726744ebe2396afb6b4b",
     "data": [
         {
             "id": "d58b64ca62795dc66f6f2c7cbdd982ce",
@@ -9402,6 +9402,18 @@
                 "2025-09-27T08:08:16.511712Z",
                 "2025-09-28T06:48:11.094330Z",
                 "2025-09-28T20:02:37.892044Z"
+            ]
+        },
+        {
+            "id": "9b5e5c40d168726744ebe2396afb6b4b",
+            "source": "spacenews",
+            "text": "Transcelestial to provide satellite laser communication terminals to Gilmour Space",
+            "source_link": "https://spacenews.com/transcelestial-to-provide-satellite-laser-communication-terminals-to-gilmour-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-02T11:24:08.837645Z",
+            "shown_at": [
+                "2026-02-02T11:24:09.973734Z"
             ]
         }
     ]
