@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 5 | 13 | 29 |
+| spacenews | 2 | 5 | 14 | 30 |
 | nyt | 0 | 0 | 13 | 26 |
 | breaking_defense | 0 | 0 | 14 | 26 |
 
@@ -3896,3 +3896,4 @@
 - **Feb 02, 02:39 AM** - Varda’s W-5 mission lands in Australia (spacenews)
 - **Feb 02, 03:14 AM** - How to View the Artemis II Moon Launch (nyt)
 - **Feb 02, 03:49 AM** - SPACECOM chief cites Army, Marines as models for expanding on-orbit warfighting exercises (breaking_defense)
+- **Feb 02, 04:24 AM** - Oman signs Artemis Accords (spacenews)
