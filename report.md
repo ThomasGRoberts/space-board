@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 6 | 15 | 29 |
-| nyt | 0 | 0 | 13 | 26 |
-| breaking_defense | 0 | 0 | 13 | 27 |
+| nyt | 0 | 0 | 13 | 27 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -3913,3 +3913,4 @@
 - **Feb 02, 12:34 PM** - CesiumAstro to scale operations with $470 million in equity and debt financing (spacenews)
 - **Feb 02, 01:09 PM** - Starlink and the unravelling of digital sovereignty (spacenews)
 - **Feb 02, 01:44 PM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
+- **Feb 02, 02:19 PM** - Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon (nyt)
