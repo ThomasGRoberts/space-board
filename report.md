@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 7 | 15 | 29 |
 | nyt | 0 | 0 | 13 | 26 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
@@ -3915,3 +3915,4 @@
 - **Feb 02, 01:44 PM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
 - **Feb 02, 02:19 PM** - Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon (nyt)
 - **Feb 02, 02:54 PM** - Amazon buys 10 more Falcon 9 launches (spacenews)
+- **Feb 02, 03:29 PM** - Space Force envisions rolling awards for new RG-XX neighborhood watch satellites (breaking_defense)
