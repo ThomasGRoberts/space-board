@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 6 | 13 | 29 |
+| spacenews | 2 | 6 | 14 | 30 |
 | nyt | 0 | 0 | 13 | 26 |
 | breaking_defense | 0 | 0 | 14 | 26 |
 
@@ -3893,3 +3893,4 @@
 - **Feb 02, 12:54 AM** - Making the unprecedented EU Space Act effective for all (spacenews)
 - **Feb 02, 01:29 AM** - Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon (nyt)
 - **Feb 02, 02:04 AM** - SPACECOM chief cites Army, Marines as models for expanding on-orbit warfighting exercises (breaking_defense)
+- **Feb 02, 02:39 AM** - Varda’s W-5 mission lands in Australia (spacenews)
