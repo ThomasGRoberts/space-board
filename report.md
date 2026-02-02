@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 14 | 29 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -3900,3 +3900,4 @@
 - **Feb 02, 04:59 AM** - How to View the Artemis II Moon Launch (nyt)
 - **Feb 02, 05:34 AM** - As Space Force wraps up GPS III launches, lawmakers push for more anti-jam capability (breaking_defense)
 - **Feb 02, 06:08 AM** - Space Force set to choose contractors for next-gen GEO spy satellites (spacenews)
+- **Feb 02, 06:44 AM** - How to View the Artemis II Moon Launch (nyt)
