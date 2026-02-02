@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 8 | 15 | 29 |
-| nyt | 0 | 0 | 13 | 26 |
-| breaking_defense | 0 | 0 | 13 | 27 |
+| spacenews | 8 | 10 | 14 | 27 |
+| nyt | 0 | 0 | 11 | 24 |
+| breaking_defense | 0 | 0 | 11 | 25 |
 
 # Shown Order
 
@@ -3922,3 +3922,4 @@
 - **Feb 02, 05:49 PM** - House NASA bill seeks details on lunar lander and spacesuit development (spacenews)
 - **Feb 02, 06:24 PM** - How to View the Artemis II Moon Launch (nyt)
 - **Feb 02, 06:59 PM** - SPACECOM chief cites Army, Marines as models for expanding on-orbit warfighting exercises (breaking_defense)
+- **Feb 02, 10:59 PM** - SpaceX acquires xAI in bid to develop orbital data centers (spacenews)
