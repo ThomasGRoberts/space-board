@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 7 | 15 | 29 |
-| nyt | 0 | 0 | 13 | 27 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -3918,3 +3918,4 @@
 - **Feb 02, 03:29 PM** - Space Force envisions rolling awards for new RG-XX neighborhood watch satellites (breaking_defense)
 - **Feb 02, 04:04 PM** - How to View the Artemis II Moon Launch (nyt)
 - **Feb 02, 04:39 PM** - SpaceX files plans for million-satellite orbital data center constellation (spacenews)
+- **Feb 02, 05:14 PM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
