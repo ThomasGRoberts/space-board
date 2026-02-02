@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 6 | 15 | 29 |
 | nyt | 0 | 0 | 13 | 26 |
-| breaking_defense | 0 | 0 | 12 | 26 |
+| breaking_defense | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
@@ -3912,3 +3912,4 @@
 - **Feb 02, 11:59 AM** - How to View the Artemis II Moon Launch (nyt)
 - **Feb 02, 12:34 PM** - CesiumAstro to scale operations with $470 million in equity and debt financing (spacenews)
 - **Feb 02, 01:09 PM** - Starlink and the unravelling of digital sovereignty (spacenews)
+- **Feb 02, 01:44 PM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
