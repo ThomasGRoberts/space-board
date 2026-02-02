@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 14 | 29 |
-| nyt | 0 | 0 | 13 | 26 |
-| breaking_defense | 0 | 0 | 14 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -3903,3 +3903,4 @@
 - **Feb 02, 06:44 AM** - How to View the Artemis II Moon Launch (nyt)
 - **Feb 02, 07:19 AM** - Space Force envisions rolling awards for new RG-XX neighborhood watch satellites (breaking_defense)
 - **Feb 02, 07:54 AM** - Earth observation’s adoption gap is a supply design problem (spacenews)
+- **Feb 02, 08:29 AM** - How to View the Artemis II Moon Launch (nyt)
