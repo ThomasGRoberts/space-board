@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 11 | 14 | 29 |
+| spacenews | 7 | 12 | 15 | 30 |
 | nyt | 0 | 0 | 10 | 23 |
 | breaking_defense | 0 | 0 | 10 | 23 |
 
@@ -3868,3 +3868,4 @@
 - **Feb 03, 10:54 AM** - Blue Origin halts New Shepard flights (spacenews)
 - **Feb 03, 11:29 AM** - Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon (nyt)
 - **Feb 03, 12:04 PM** - Artemis 2 slips to March (spacenews)
+- **Feb 03, 12:39 PM** - SpaceX pauses Falcon 9 launches after upper stage anomaly (spacenews)
