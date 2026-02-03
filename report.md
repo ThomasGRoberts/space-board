@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 11 | 15 | 28 |
+| spacenews | 3 | 11 | 16 | 29 |
 | nyt | 2 | 2 | 13 | 24 |
 | breaking_defense | 0 | 0 | 12 | 23 |
 
@@ -3886,3 +3886,4 @@
 - **Feb 03, 09:29 PM** - Rocket Lab launches South Korean satellite (spacenews)
 - **Feb 03, 10:04 PM** - How to View the Artemis II Moon Launch (nyt)
 - **Feb 03, 10:39 PM** - As Space Force wraps up GPS III launches, lawmakers push for more anti-jam capability (breaking_defense)
+- **Feb 03, 11:14 PM** - Axiom wins fifth private astronaut mission to space station (spacenews)
