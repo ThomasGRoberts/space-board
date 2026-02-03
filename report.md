@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 14 | 29 |
-| nyt | 0 | 0 | 10 | 23 |
+| nyt | 0 | 0 | 11 | 24 |
 | breaking_defense | 0 | 0 | 10 | 23 |
 
 # Shown Order
@@ -3870,3 +3870,4 @@
 - **Feb 03, 12:04 PM** - Artemis 2 slips to March (spacenews)
 - **Feb 03, 12:39 PM** - SpaceX pauses Falcon 9 launches after upper stage anomaly (spacenews)
 - **Feb 03, 01:14 PM** - Space Force plans to create contractor pool for ‘physical/live’ training needs in summer (breaking_defense)
+- **Feb 03, 01:54 PM** - How to View the Artemis II Moon Launch (nyt)
