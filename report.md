@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 14 | 29 |
 | nyt | 1 | 1 | 11 | 24 |
-| breaking_defense | 0 | 0 | 9 | 22 |
+| breaking_defense | 0 | 0 | 10 | 23 |
 
 # Shown Order
 
@@ -3879,3 +3879,4 @@
 - **Feb 03, 05:24 PM** - As Space Force wraps up GPS III launches, lawmakers push for more anti-jam capability (breaking_defense)
 - **Feb 03, 05:59 PM** - House NASA bill seeks details on lunar lander and spacesuit development (spacenews)
 - **Feb 03, 06:34 PM** - Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon (nyt)
+- **Feb 03, 07:09 PM** - As Space Force wraps up GPS III launches, lawmakers push for more anti-jam capability (breaking_defense)
