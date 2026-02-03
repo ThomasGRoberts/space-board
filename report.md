@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 10 | 14 | 28 |
+| spacenews | 8 | 10 | 15 | 29 |
 | nyt | 0 | 0 | 10 | 23 |
 | breaking_defense | 0 | 0 | 11 | 24 |
 
@@ -3856,3 +3856,4 @@
 - **Feb 03, 03:49 AM** - China launches AlSat-3B for Algeria, further launches delayed ahead of key human spaceflight test (spacenews)
 - **Feb 03, 04:24 AM** - How to View the Artemis II Moon Launch (nyt)
 - **Feb 03, 04:59 AM** - As Space Force wraps up GPS III launches, lawmakers push for more anti-jam capability (breaking_defense)
+- **Feb 03, 05:34 AM** - Axiom wins fifth private astronaut mission to space station (spacenews)
