@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 10 | 14 | 28 |
-| nyt | 0 | 0 | 11 | 24 |
-| breaking_defense | 0 | 0 | 10 | 23 |
+| nyt | 0 | 0 | 10 | 24 |
+| breaking_defense | 0 | 0 | 11 | 24 |
 
 # Shown Order
 
@@ -3858,3 +3858,4 @@
 - **Feb 03, 04:59 AM** - As Space Force wraps up GPS III launches, lawmakers push for more anti-jam capability (breaking_defense)
 - **Feb 03, 05:34 AM** - Axiom wins fifth private astronaut mission to space station (spacenews)
 - **Feb 03, 06:09 AM** - Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon (nyt)
+- **Feb 03, 06:44 AM** - Space Force plans to create contractor pool for ‘physical/live’ training needs in summer (breaking_defense)
