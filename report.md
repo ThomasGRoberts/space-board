@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 10 | 14 | 28 |
-| nyt | 0 | 0 | 10 | 24 |
+| spacenews | 8 | 10 | 15 | 29 |
+| nyt | 0 | 0 | 10 | 23 |
 | breaking_defense | 0 | 0 | 11 | 24 |
 
 # Shown Order
@@ -3850,3 +3850,4 @@
 - **Feb 03, 12:14 AM** - UK Space Agency CEO stepping down as agency folds into government (spacenews)
 - **Feb 03, 12:49 AM** - How to View the Artemis II Moon Launch (nyt)
 - **Feb 03, 01:24 AM** - As Space Force wraps up GPS III launches, lawmakers push for more anti-jam capability (breaking_defense)
+- **Feb 03, 01:59 AM** - Weather delays Artemis 2 wet dress rehearsal (spacenews)
