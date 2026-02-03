@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 13 | 28 |
+| spacenews | 6 | 12 | 14 | 29 |
 | nyt | 1 | 1 | 11 | 24 |
 | breaking_defense | 0 | 0 | 10 | 23 |
 
@@ -3877,3 +3877,4 @@
 - **Feb 03, 04:14 PM** - Saudi Space Agency Announces Winners of Global ‘DebriSolver’ Competition at Space Debris Conference (spacenews)
 - **Feb 03, 04:50 PM** - Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon (nyt)
 - **Feb 03, 05:24 PM** - As Space Force wraps up GPS III launches, lawmakers push for more anti-jam capability (breaking_defense)
+- **Feb 03, 05:59 PM** - House NASA bill seeks details on lunar lander and spacesuit development (spacenews)
