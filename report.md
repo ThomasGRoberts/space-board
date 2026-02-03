@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 11 | 16 | 29 |
 | nyt | 2 | 2 | 13 | 24 |
-| breaking_defense | 0 | 0 | 11 | 22 |
+| breaking_defense | 0 | 0 | 12 | 23 |
 
 # Shown Order
 
@@ -3885,3 +3885,4 @@
 - **Feb 03, 08:54 PM** - As Space Force wraps up GPS III launches, lawmakers push for more anti-jam capability (breaking_defense)
 - **Feb 03, 09:29 PM** - Rocket Lab launches South Korean satellite (spacenews)
 - **Feb 03, 10:04 PM** - How to View the Artemis II Moon Launch (nyt)
+- **Feb 03, 10:39 PM** - As Space Force wraps up GPS III launches, lawmakers push for more anti-jam capability (breaking_defense)
