@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 10 | 15 | 28 |
-| nyt | 0 | 0 | 10 | 23 |
+| spacenews | 7 | 10 | 14 | 28 |
+| nyt | 0 | 0 | 11 | 24 |
 | breaking_defense | 0 | 0 | 10 | 24 |
 
 # Shown Order
@@ -3866,3 +3866,4 @@
 - **Feb 03, 09:44 AM** - How to View the Artemis II Moon Launch (nyt)
 - **Feb 03, 10:19 AM** - Space Force plans to create contractor pool for ‘physical/live’ training needs in summer (breaking_defense)
 - **Feb 03, 10:54 AM** - Blue Origin halts New Shepard flights (spacenews)
+- **Feb 03, 11:29 AM** - Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon (nyt)
