@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 11 | 15 | 28 |
+| spacenews | 6 | 11 | 16 | 29 |
 | nyt | 2 | 2 | 12 | 24 |
 | breaking_defense | 0 | 0 | 11 | 23 |
 
@@ -3883,3 +3883,4 @@
 - **Feb 03, 07:44 PM** - Axiom wins fifth private astronaut mission to space station (spacenews)
 - **Feb 03, 08:19 PM** - NASA Eyes March Artemis II Launch After Hydrogen Leaks Delay Moon Mission (nyt)
 - **Feb 03, 08:54 PM** - As Space Force wraps up GPS III launches, lawmakers push for more anti-jam capability (breaking_defense)
+- **Feb 03, 09:29 PM** - Rocket Lab launches South Korean satellite (spacenews)
