@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 14 | 29 |
 | nyt | 1 | 1 | 11 | 24 |
-| breaking_defense | 0 | 0 | 9 | 22 |
+| breaking_defense | 0 | 0 | 10 | 23 |
 
 # Shown Order
 
@@ -3873,3 +3873,4 @@
 - **Feb 03, 01:54 PM** - How to View the Artemis II Moon Launch (nyt)
 - **Feb 03, 02:29 PM** - Flight heritage? It isn’t what you think (spacenews)
 - **Feb 03, 03:04 PM** - NASA Delays Artemis II Moon Launch to March After Hydrogen Leaks (nyt)
+- **Feb 03, 03:39 PM** - SPACECOM chief cites Army, Marines as models for expanding on-orbit warfighting exercises (breaking_defense)
