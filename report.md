@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 14 | 29 |
 | nyt | 1 | 1 | 11 | 24 |
-| breaking_defense | 0 | 0 | 9 | 22 |
+| breaking_defense | 0 | 0 | 10 | 23 |
 
 # Shown Order
 
@@ -3876,3 +3876,4 @@
 - **Feb 03, 03:39 PM** - SPACECOM chief cites Army, Marines as models for expanding on-orbit warfighting exercises (breaking_defense)
 - **Feb 03, 04:14 PM** - Saudi Space Agency Announces Winners of Global ‘DebriSolver’ Competition at Space Debris Conference (spacenews)
 - **Feb 03, 04:50 PM** - Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon (nyt)
+- **Feb 03, 05:24 PM** - As Space Force wraps up GPS III launches, lawmakers push for more anti-jam capability (breaking_defense)
