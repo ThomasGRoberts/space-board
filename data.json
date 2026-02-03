@@ -1,17 +1,20 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-03T00:05:32.923026+00:00",
-    "trigger_count": 6,
-    "current_item_id": "49fdd20230f5ecbe3863d2c6415d5125",
+    "trigger_count": 0,
+    "current_item_id": "30f3111748674d46046ed5b9306da48c",
     "data": [
         {
             "id": "30f3111748674d46046ed5b9306da48c",
             "source": "spacenews",
             "text": "UK Space Agency CEO stepping down as agency folds into government",
             "source_link": "https://spacenews.com/uk-space-agency-ceo-stepping-down-as-agency-folds-into-government/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-02-02T22:59:43.799624Z"
+            "fetched_datetime": "2026-02-02T22:59:43.799624Z",
+            "shown_at": [
+                "2026-02-03T00:14:22.623871Z"
+            ]
         },
         {
             "id": "49fdd20230f5ecbe3863d2c6415d5125",
