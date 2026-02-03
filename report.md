@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 14 | 29 |
-| nyt | 1 | 1 | 10 | 23 |
+| nyt | 1 | 1 | 11 | 24 |
 | breaking_defense | 0 | 0 | 10 | 23 |
 
 # Shown Order
@@ -3875,3 +3875,4 @@
 - **Feb 03, 03:04 PM** - NASA Delays Artemis II Moon Launch to March After Hydrogen Leaks (nyt)
 - **Feb 03, 03:39 PM** - SPACECOM chief cites Army, Marines as models for expanding on-orbit warfighting exercises (breaking_defense)
 - **Feb 03, 04:14 PM** - Saudi Space Agency Announces Winners of Global ‘DebriSolver’ Competition at Space Debris Conference (spacenews)
+- **Feb 03, 04:50 PM** - Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon (nyt)
