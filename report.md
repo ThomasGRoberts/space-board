@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 12 | 15 | 29 |
+| spacenews | 7 | 12 | 14 | 29 |
 | nyt | 0 | 0 | 10 | 23 |
-| breaking_defense | 0 | 0 | 10 | 23 |
+| breaking_defense | 0 | 0 | 11 | 24 |
 
 # Shown Order
 
@@ -3869,3 +3869,4 @@
 - **Feb 03, 11:29 AM** - Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon (nyt)
 - **Feb 03, 12:04 PM** - Artemis 2 slips to March (spacenews)
 - **Feb 03, 12:39 PM** - SpaceX pauses Falcon 9 launches after upper stage anomaly (spacenews)
+- **Feb 03, 01:14 PM** - Space Force plans to create contractor pool for ‘physical/live’ training needs in summer (breaking_defense)
