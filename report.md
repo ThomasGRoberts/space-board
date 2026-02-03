@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 10 | 14 | 28 |
+| spacenews | 8 | 10 | 15 | 29 |
 | nyt | 0 | 0 | 10 | 23 |
 | breaking_defense | 0 | 0 | 11 | 24 |
 
@@ -3853,3 +3853,4 @@
 - **Feb 03, 01:59 AM** - Weather delays Artemis 2 wet dress rehearsal (spacenews)
 - **Feb 03, 02:34 AM** - How to View the Artemis II Moon Launch (nyt)
 - **Feb 03, 03:14 AM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
+- **Feb 03, 03:49 AM** - China launches AlSat-3B for Algeria, further launches delayed ahead of key human spaceflight test (spacenews)
