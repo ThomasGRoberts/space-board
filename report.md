@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 15 | 29 |
-| nyt | 1 | 1 | 11 | 23 |
+| nyt | 2 | 2 | 12 | 24 |
 | breaking_defense | 0 | 0 | 10 | 23 |
 
 # Shown Order
@@ -3881,3 +3881,4 @@
 - **Feb 03, 06:34 PM** - Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon (nyt)
 - **Feb 03, 07:09 PM** - As Space Force wraps up GPS III launches, lawmakers push for more anti-jam capability (breaking_defense)
 - **Feb 03, 07:44 PM** - Axiom wins fifth private astronaut mission to space station (spacenews)
+- **Feb 03, 08:19 PM** - NASA Eyes March Artemis II Launch After Hydrogen Leaks Delay Moon Mission (nyt)
