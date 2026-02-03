@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 10 | 15 | 28 |
-| nyt | 0 | 0 | 10 | 23 |
+| spacenews | 8 | 10 | 14 | 28 |
+| nyt | 0 | 0 | 11 | 24 |
 | breaking_defense | 0 | 0 | 10 | 24 |
 
 # Shown Order
@@ -3860,3 +3860,4 @@
 - **Feb 03, 06:09 AM** - Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon (nyt)
 - **Feb 03, 06:44 AM** - Space Force plans to create contractor pool for ‘physical/live’ training needs in summer (breaking_defense)
 - **Feb 03, 07:24 AM** - China set for crewed lunar tests, record launches, moon mission and reusable rockets in 2026 (spacenews)
+- **Feb 03, 07:59 AM** - Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon (nyt)
