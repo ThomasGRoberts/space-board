@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 12 | 14 | 29 |
+| spacenews | 8 | 13 | 15 | 30 |
 | nyt | 0 | 0 | 10 | 23 |
 | breaking_defense | 0 | 0 | 10 | 23 |
 
@@ -3871,3 +3871,4 @@
 - **Feb 03, 12:39 PM** - SpaceX pauses Falcon 9 launches after upper stage anomaly (spacenews)
 - **Feb 03, 01:14 PM** - Space Force plans to create contractor pool for ‘physical/live’ training needs in summer (breaking_defense)
 - **Feb 03, 01:54 PM** - How to View the Artemis II Moon Launch (nyt)
+- **Feb 03, 02:29 PM** - Flight heritage? It isn’t what you think (spacenews)
