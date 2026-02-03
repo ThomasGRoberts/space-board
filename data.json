@@ -1,9 +1,102 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-02-02T00:04:26.383681+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2026-02-03T00:05:32.923026+00:00",
+    "trigger_count": 6,
     "current_item_id": "49fdd20230f5ecbe3863d2c6415d5125",
     "data": [
+        {
+            "id": "30f3111748674d46046ed5b9306da48c",
+            "source": "spacenews",
+            "text": "UK Space Agency CEO stepping down as agency folds into government",
+            "source_link": "https://spacenews.com/uk-space-agency-ceo-stepping-down-as-agency-folds-into-government/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-02-02T22:59:43.799624Z"
+        },
+        {
+            "id": "49fdd20230f5ecbe3863d2c6415d5125",
+            "source": "spacenews",
+            "text": "At Blue Origin, Hegseth escalates criticism of legacy defense procurement",
+            "source_link": "https://spacenews.com/at-blue-origin-hegseth-escalates-criticism-of-legacy-defense-procurement/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-02T22:59:43.799578Z",
+            "shown_at": [
+                "2026-02-02T23:34:46.462213Z"
+            ]
+        },
+        {
+            "id": "532c8f01d39d4f00aa52c91a0caa5e8c",
+            "source": "spacenews",
+            "text": "SpaceX acquires xAI in bid to develop orbital data centers",
+            "source_link": "https://spacenews.com/spacex-acquires-xai-in-bid-to-develop-orbital-data-centers/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-02T22:59:43.799509Z",
+            "shown_at": [
+                "2026-02-02T22:59:44.878160Z"
+            ]
+        },
+        {
+            "id": "369826384a24bf816b7870c4ff17ad22",
+            "source": "spacenews",
+            "text": "House NASA bill seeks details on lunar lander and spacesuit development",
+            "source_link": "https://spacenews.com/house-nasa-bill-seeks-details-on-lunar-lander-and-spacesuit-development/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-02T17:49:14.679730Z",
+            "shown_at": [
+                "2026-02-02T17:49:16.088736Z"
+            ]
+        },
+        {
+            "id": "d3ec32991a9c145f2e5477961059450f",
+            "source": "spacenews",
+            "text": "Amazon buys 10 more Falcon 9 launches",
+            "source_link": "https://spacenews.com/amazon-buys-10-more-falcon-9-launches/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-02T14:54:32.306117Z",
+            "shown_at": [
+                "2026-02-02T14:54:33.754079Z"
+            ]
+        },
+        {
+            "id": "bb27ed17b08745a5e5f52edc79de9951",
+            "source": "spacenews",
+            "text": "Starlink and the unravelling of digital sovereignty",
+            "source_link": "https://spacenews.com/starlink-and-the-unravelling-of-digital-sovereignty/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-02T12:34:26.518326Z",
+            "shown_at": [
+                "2026-02-02T13:09:22.711956Z"
+            ]
+        },
+        {
+            "id": "577f95216c8b913cc1e0ccb56a39f069",
+            "source": "spacenews",
+            "text": "CesiumAstro to scale operations with $470 million in equity and debt financing",
+            "source_link": "https://spacenews.com/cesiumastro-to-scale-operations-with-450-million-in-equity-and-debt-financing/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-02T12:34:26.518269Z",
+            "shown_at": [
+                "2026-02-02T12:34:27.511732Z"
+            ]
+        },
+        {
+            "id": "9b5e5c40d168726744ebe2396afb6b4b",
+            "source": "spacenews",
+            "text": "Transcelestial to provide satellite laser communication terminals to Gilmour Space",
+            "source_link": "https://spacenews.com/transcelestial-to-provide-satellite-laser-communication-terminals-to-gilmour-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-02T11:24:08.837645Z",
+            "shown_at": [
+                "2026-02-02T11:24:09.973734Z"
+            ]
+        },
         {
             "id": "d58b64ca62795dc66f6f2c7cbdd982ce",
             "source": "spacenews",
@@ -9247,264 +9340,6 @@
             "shown_at": [
                 "2025-09-23T11:14:02.972145Z"
             ]
-        },
-        {
-            "id": "36e5808995bd00c33c9dbe6ab482d737",
-            "source": "spacenews",
-            "text": "Scaling up IRIS² to meet evolving demands",
-            "source_link": "https://spacenews.com/scaling-up-iris%c2%b2-to-meet-evolving-demands/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-23T02:43:58.872967Z",
-            "shown_at": [
-                "2025-09-23T02:44:00.241871Z",
-                "2025-09-27T04:17:44.399845Z"
-            ]
-        },
-        {
-            "id": "d08630ee44c69647f62229762b7526cd",
-            "source": "spacenews",
-            "text": "Lockheed Martin delivers 21 satellites for next launch of U.S. military ‘Transport Layer’",
-            "source_link": "https://spacenews.com/lockheed-martin-delivers-21-satellites-for-next-launch-of-u-s-military-transport-layer/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-22T22:52:17.603299Z",
-            "shown_at": [
-                "2025-09-22T22:52:18.344264Z",
-                "2025-09-26T09:40:07.521932Z",
-                "2025-09-27T03:17:56.683098Z"
-            ]
-        },
-        {
-            "id": "5f7864cb64715a4a67dfe656919ec076",
-            "source": "spacenews",
-            "text": "NASA selects new astronaut class",
-            "source_link": "https://spacenews.com/nasa-selects-new-astronaut-class/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-22T20:49:42.404229Z",
-            "shown_at": [
-                "2025-09-22T21:06:04.024477Z",
-                "2025-09-23T09:53:30.122790Z",
-                "2025-09-26T10:43:44.899503Z",
-                "2025-09-27T01:16:09.761347Z",
-                "2025-09-27T16:45:38.243778Z",
-                "2025-09-28T00:58:27.944563Z",
-                "2025-09-29T16:02:21.424736Z"
-            ]
-        },
-        {
-            "id": "a04fa8bf15663c491b1ba8c8877b0bef",
-            "source": "spacenews",
-            "text": "Air Force Secretary warns of ‘Sputnik moment’ as U.S. faces China’s rapid military advances",
-            "source_link": "https://spacenews.com/air-force-secretary-warns-of-sputnik-moment-as-u-s-faces-chinas-rapid-military-advances/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-22T20:49:42.404175Z",
-            "shown_at": [
-                "2025-09-22T20:49:43.075180Z",
-                "2025-09-26T12:20:00.971496Z",
-                "2025-09-29T08:54:08.772191Z"
-            ]
-        },
-        {
-            "id": "770e05f91c486e46aff0d1a2da86cc62",
-            "source": "spacenews",
-            "text": "Falcon 9 launch pushes NRO satellite fleet past 200 in orbit",
-            "source_link": "https://spacenews.com/falcon-9-launch-pushes-nro-satellite-fleet-past-200-in-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-22T20:17:59.379588Z",
-            "shown_at": [
-                "2025-09-22T20:18:00.355417Z",
-                "2025-09-23T06:55:45.378780Z",
-                "2025-09-27T13:45:58.253057Z",
-                "2025-09-27T14:46:09.302414Z",
-                "2025-09-28T12:15:54.884230Z"
-            ]
-        },
-        {
-            "id": "cd40800130b8c4b12f1d1876dd1cdc3e",
-            "source": "breaking_defense",
-            "text": "Space Force will own next-gen neighborhood watch sats, based on commercial tech",
-            "source_link": "https://breakingdefense.com/2025/09/space-force-will-own-next-gen-neighborhood-watch-sats-based-on-commercial-tech/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-22T20:03:46.373947Z",
-            "shown_at": [
-                "2025-09-22T20:03:46.894028Z",
-                "2025-09-23T07:12:20.499641Z",
-                "2025-09-24T02:47:56.725719Z",
-                "2025-09-24T19:33:47.305341Z",
-                "2025-09-25T04:37:49.086625Z",
-                "2025-09-25T22:48:05.675401Z",
-                "2025-09-26T00:56:10.025408Z",
-                "2025-09-26T01:54:05.343026Z",
-                "2025-09-26T07:49:50.542708Z",
-                "2025-09-27T09:14:05.040963Z",
-                "2025-09-27T20:20:09.797110Z",
-                "2025-09-28T12:32:18.670027Z",
-                "2025-09-28T14:40:17.292999Z",
-                "2025-09-29T00:59:50.135038Z",
-                "2025-09-29T12:51:50.586038Z"
-            ]
-        },
-        {
-            "id": "0ee610d1ff9ae69ef6e921089e71e702",
-            "source": "nyt",
-            "text": "NASA Picks 10 New Astronauts as Focus Shifts to the Moon and Mars",
-            "source_link": "https://www.nytimes.com/2025/09/22/science/nasa-new-astronauts.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-22T18:49:42.952023Z",
-            "shown_at": [
-                "2025-09-22T18:49:43.564201Z",
-                "2025-09-23T03:27:53.240908Z",
-                "2025-09-23T04:32:24.367336Z",
-                "2025-09-23T05:35:58.121101Z",
-                "2025-09-24T03:02:26.524689Z",
-                "2025-09-24T10:48:12.615118Z",
-                "2025-09-24T12:57:35.415096Z",
-                "2025-09-24T16:39:59.754379Z",
-                "2025-09-24T21:37:44.650641Z",
-                "2025-09-25T17:04:04.352753Z",
-                "2025-09-25T19:42:06.221384Z",
-                "2025-09-25T23:02:32.571572Z",
-                "2025-09-27T02:33:56.561483Z",
-                "2025-09-27T09:45:57.251879Z",
-                "2025-09-27T10:52:15.057693Z",
-                "2025-09-27T14:59:27.239415Z",
-                "2025-09-27T15:59:57.080371Z",
-                "2025-09-27T17:06:10.453167Z",
-                "2025-09-27T20:05:49.575075Z",
-                "2025-09-28T08:38:12.434156Z",
-                "2025-09-28T13:18:15.932091Z",
-                "2025-09-28T14:22:25.442203Z",
-                "2025-09-28T16:24:09.027553Z",
-                "2025-09-28T18:27:58.551638Z",
-                "2025-09-28T20:38:09.525817Z",
-                "2025-09-29T04:29:26.966588Z",
-                "2025-09-29T07:03:50.949866Z",
-                "2025-09-29T12:37:34.552436Z",
-                "2025-09-29T14:35:44.414986Z",
-                "2025-09-29T15:33:55.168511Z",
-                "2025-09-29T17:51:48.990899Z"
-            ]
-        },
-        {
-            "id": "9101123f5b1d60a5d95938681c45add7",
-            "source": "breaking_defense",
-            "text": "NATO investing $728M in new space capabilities, including a new ‘data lake’",
-            "source_link": "https://breakingdefense.com/2025/09/nato-investing-728m-in-new-space-capabilities-including-a-new-data-lake/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-22T16:35:55.101408Z",
-            "shown_at": [
-                "2025-09-22T16:35:55.928356Z",
-                "2025-09-22T23:39:59.986426Z",
-                "2025-09-23T05:02:21.079005Z",
-                "2025-09-23T10:24:00.911237Z",
-                "2025-09-24T20:38:01.968985Z",
-                "2025-09-24T22:56:04.002634Z",
-                "2025-09-27T03:02:29.382643Z",
-                "2025-09-27T05:05:47.634046Z",
-                "2025-09-27T08:08:16.511712Z",
-                "2025-09-28T06:48:11.094330Z",
-                "2025-09-28T20:02:37.892044Z"
-            ]
-        },
-        {
-            "id": "9b5e5c40d168726744ebe2396afb6b4b",
-            "source": "spacenews",
-            "text": "Transcelestial to provide satellite laser communication terminals to Gilmour Space",
-            "source_link": "https://spacenews.com/transcelestial-to-provide-satellite-laser-communication-terminals-to-gilmour-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-02T11:24:08.837645Z",
-            "shown_at": [
-                "2026-02-02T11:24:09.973734Z"
-            ]
-        },
-        {
-            "id": "577f95216c8b913cc1e0ccb56a39f069",
-            "source": "spacenews",
-            "text": "CesiumAstro to scale operations with $470 million in equity and debt financing",
-            "source_link": "https://spacenews.com/cesiumastro-to-scale-operations-with-450-million-in-equity-and-debt-financing/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-02T12:34:26.518269Z",
-            "shown_at": [
-                "2026-02-02T12:34:27.511732Z"
-            ]
-        },
-        {
-            "id": "bb27ed17b08745a5e5f52edc79de9951",
-            "source": "spacenews",
-            "text": "Starlink and the unravelling of digital sovereignty",
-            "source_link": "https://spacenews.com/starlink-and-the-unravelling-of-digital-sovereignty/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-02T12:34:26.518326Z",
-            "shown_at": [
-                "2026-02-02T13:09:22.711956Z"
-            ]
-        },
-        {
-            "id": "d3ec32991a9c145f2e5477961059450f",
-            "source": "spacenews",
-            "text": "Amazon buys 10 more Falcon 9 launches",
-            "source_link": "https://spacenews.com/amazon-buys-10-more-falcon-9-launches/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-02T14:54:32.306117Z",
-            "shown_at": [
-                "2026-02-02T14:54:33.754079Z"
-            ]
-        },
-        {
-            "id": "369826384a24bf816b7870c4ff17ad22",
-            "source": "spacenews",
-            "text": "House NASA bill seeks details on lunar lander and spacesuit development",
-            "source_link": "https://spacenews.com/house-nasa-bill-seeks-details-on-lunar-lander-and-spacesuit-development/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-02T17:49:14.679730Z",
-            "shown_at": [
-                "2026-02-02T17:49:16.088736Z"
-            ]
-        },
-        {
-            "id": "532c8f01d39d4f00aa52c91a0caa5e8c",
-            "source": "spacenews",
-            "text": "SpaceX acquires xAI in bid to develop orbital data centers",
-            "source_link": "https://spacenews.com/spacex-acquires-xai-in-bid-to-develop-orbital-data-centers/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-02T22:59:43.799509Z",
-            "shown_at": [
-                "2026-02-02T22:59:44.878160Z"
-            ]
-        },
-        {
-            "id": "49fdd20230f5ecbe3863d2c6415d5125",
-            "source": "spacenews",
-            "text": "At Blue Origin, Hegseth escalates criticism of legacy defense procurement",
-            "source_link": "https://spacenews.com/at-blue-origin-hegseth-escalates-criticism-of-legacy-defense-procurement/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-02T22:59:43.799578Z",
-            "shown_at": [
-                "2026-02-02T23:34:46.462213Z"
-            ]
-        },
-        {
-            "id": "30f3111748674d46046ed5b9306da48c",
-            "source": "spacenews",
-            "text": "UK Space Agency CEO stepping down as agency folds into government",
-            "source_link": "https://spacenews.com/uk-space-agency-ceo-stepping-down-as-agency-folds-into-government/",
-            "shown": false,
-            "type": "news",
-            "fetched_datetime": "2026-02-02T22:59:43.799624Z"
         }
     ]
 }
