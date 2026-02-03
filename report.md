@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 15 | 29 |
 | nyt | 2 | 2 | 12 | 24 |
-| breaking_defense | 0 | 0 | 10 | 22 |
+| breaking_defense | 0 | 0 | 11 | 23 |
 
 # Shown Order
 
@@ -3882,3 +3882,4 @@
 - **Feb 03, 07:09 PM** - As Space Force wraps up GPS III launches, lawmakers push for more anti-jam capability (breaking_defense)
 - **Feb 03, 07:44 PM** - Axiom wins fifth private astronaut mission to space station (spacenews)
 - **Feb 03, 08:19 PM** - NASA Eyes March Artemis II Launch After Hydrogen Leaks Delay Moon Mission (nyt)
+- **Feb 03, 08:54 PM** - As Space Force wraps up GPS III launches, lawmakers push for more anti-jam capability (breaking_defense)
