@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 13 | 23 |
+| nyt | 2 | 2 | 14 | 24 |
 | spacenews | 4 | 12 | 15 | 29 |
 | breaking_defense | 0 | 0 | 12 | 23 |
 
@@ -3876,3 +3876,4 @@
 - **Feb 04, 07:04 AM** - NASA Delays Artemis II Moon Launch to March After Hydrogen Leaks (nyt)
 - **Feb 04, 07:39 AM** - Blue Origin halts New Shepard flights (spacenews)
 - **Feb 04, 08:14 AM** - As Space Force wraps up GPS III launches, lawmakers push for more anti-jam capability (breaking_defense)
+- **Feb 04, 08:49 AM** - NASA Delays Artemis II Moon Launch to March After Hydrogen Leaks (nyt)
