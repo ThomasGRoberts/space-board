@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 13 | 23 |
+| nyt | 2 | 2 | 14 | 24 |
 | spacenews | 4 | 12 | 15 | 29 |
 | breaking_defense | 0 | 0 | 12 | 23 |
 
@@ -3873,3 +3873,4 @@
 - **Feb 04, 05:09 AM** - Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon (nyt)
 - **Feb 04, 05:46 AM** - Transcelestial to provide satellite laser communication terminals to Gilmour Space (spacenews)
 - **Feb 04, 06:29 AM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
+- **Feb 04, 07:04 AM** - NASA Delays Artemis II Moon Launch to March After Hydrogen Leaks (nyt)
