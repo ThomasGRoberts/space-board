@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 13 | 24 |
 | spacenews | 4 | 11 | 15 | 29 |
-| breaking_defense | 0 | 0 | 12 | 22 |
+| breaking_defense | 0 | 0 | 13 | 23 |
 
 # Shown Order
 
@@ -3881,3 +3881,4 @@
 - **Feb 04, 09:59 AM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
 - **Feb 04, 10:34 AM** - NASA Eyes March Artemis II Launch After Hydrogen Leaks Delay Moon Mission (nyt)
 - **Feb 04, 11:09 AM** - Flight heritage? It isn’t what you think (spacenews)
+- **Feb 04, 11:49 AM** - SPACECOM chief cites Army, Marines as models for expanding on-orbit warfighting exercises (breaking_defense)
