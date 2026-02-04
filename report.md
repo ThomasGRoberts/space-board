@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 2 | 12 | 24 |
-| spacenews | 7 | 13 | 17 | 32 |
+| spacenews | 7 | 13 | 18 | 33 |
 | breaking_defense | 0 | 0 | 11 | 22 |
 
 # Shown Order
@@ -3897,3 +3897,4 @@
 - **Feb 04, 07:29 PM** - Starlink and the unravelling of digital sovereignty (spacenews)
 - **Feb 04, 08:04 PM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
 - **Feb 04, 08:39 PM** - Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon (nyt)
+- **Feb 04, 09:14 PM** - SmallSat Alliance shifts focus from proliferation to coordination (spacenews)
