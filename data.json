@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-04T00:05:04.809736+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4f9645201b4d6c51be61376649a17a9e",
+    "trigger_count": 0,
+    "current_item_id": "798d858d062ea5d0aa5ca3063cd9a731",
     "data": [
         {
             "id": "2f082adbad4a217c4be3a1f92362d118",
@@ -9388,6 +9388,27 @@
             "shown_at": [
                 "2026-02-04T02:14:18.467803Z"
             ]
+        },
+        {
+            "id": "798d858d062ea5d0aa5ca3063cd9a731",
+            "source": "spacenews",
+            "text": "SmallSat Alliance shifts focus from proliferation to coordination",
+            "source_link": "https://spacenews.com/smallsat-alliance-shifts-focus-from-proliferation-to-coordination/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-04T12:29:39.739724Z",
+            "shown_at": [
+                "2026-02-04T12:29:40.822359Z"
+            ]
+        },
+        {
+            "id": "66c522bc94fe9c74fd7268e94993aabf",
+            "source": "spacenews",
+            "text": "As satellites become targets, Space Force plans a broader role",
+            "source_link": "https://spacenews.com/as-satellites-become-targets-space-force-plans-a-broader-role/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-02-04T12:29:39.739795Z"
         }
     ]
 }
