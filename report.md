@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 12 | 23 |
-| spacenews | 6 | 13 | 17 | 31 |
+| spacenews | 7 | 14 | 18 | 32 |
 | breaking_defense | 0 | 0 | 11 | 21 |
 
 # Shown Order
@@ -3888,3 +3888,4 @@
 - **Feb 04, 02:14 PM** - Silicon as strategy: the hidden battleground of the new space race (spacenews)
 - **Feb 04, 02:49 PM** - Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon (nyt)
 - **Feb 04, 03:24 PM** - Space telescopes at light speed (spacenews)
+- **Feb 04, 03:59 PM** - FireSat adds orbit-visualization software to help firefighters plan around satellite passes (spacenews)
