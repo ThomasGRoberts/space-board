@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 13 | 24 |
 | spacenews | 4 | 12 | 15 | 29 |
-| breaking_defense | 0 | 0 | 12 | 22 |
+| breaking_defense | 0 | 0 | 13 | 23 |
 
 # Shown Order
 
@@ -3869,3 +3869,4 @@
 - **Feb 04, 02:49 AM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
 - **Feb 04, 03:24 AM** - NASA Delays Artemis II Moon Launch to March After Hydrogen Leaks (nyt)
 - **Feb 04, 03:59 AM** - Amazon buys 10 more Falcon 9 launches (spacenews)
+- **Feb 04, 04:34 AM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
