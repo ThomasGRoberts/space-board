@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-04T00:05:04.809736+00:00",
-    "trigger_count": 6,
-    "current_item_id": "133734e1517304bcfa95d5e90f82e413",
+    "trigger_count": 0,
+    "current_item_id": "a343024e64550be45adc280327d4f4bb",
     "data": [
         {
             "id": "2f082adbad4a217c4be3a1f92362d118",
@@ -9359,6 +9359,18 @@
                 "2025-09-25T04:51:50.662068Z",
                 "2025-09-25T22:32:04.242750Z",
                 "2025-09-30T14:59:49.105595Z"
+            ]
+        },
+        {
+            "id": "a343024e64550be45adc280327d4f4bb",
+            "source": "spacenews",
+            "text": "NASA examining hydrogen leaks during Artemis 2 fueling test",
+            "source_link": "https://spacenews.com/nasa-examining-hydrogen-leaks-during-artemis-2-fueling-test/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-04T02:14:17.666395Z",
+            "shown_at": [
+                "2026-02-04T02:14:18.467803Z"
             ]
         }
     ]

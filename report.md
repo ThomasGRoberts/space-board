@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 14 | 24 |
-| spacenews | 3 | 11 | 14 | 29 |
+| spacenews | 4 | 12 | 15 | 30 |
 | breaking_defense | 0 | 0 | 12 | 22 |
 
 # Shown Order
@@ -3865,3 +3865,4 @@
 - **Feb 04, 12:23 AM** - SDA must be ‘more realistic’ about real risks in pricey satellite Tracking Layer effort: GAO (breaking_defense)
 - **Feb 04, 12:59 AM** - Space Grove Ventures Announces Public Launch at SpaceCom | Space Congress, Signaling a New Commercial Model for Space and Defense Ecosystem Development (spacenews)
 - **Feb 04, 01:34 AM** - NASA Delays Artemis II Moon Launch to March After Hydrogen Leaks (nyt)
+- **Feb 04, 02:14 AM** - NASA examining hydrogen leaks during Artemis 2 fueling test (spacenews)
