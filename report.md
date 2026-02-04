@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 12 | 22 |
 | spacenews | 7 | 14 | 17 | 32 |
-| breaking_defense | 0 | 0 | 11 | 21 |
+| breaking_defense | 0 | 0 | 12 | 22 |
 
 # Shown Order
 
@@ -3889,3 +3889,4 @@
 - **Feb 04, 02:49 PM** - Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon (nyt)
 - **Feb 04, 03:24 PM** - Space telescopes at light speed (spacenews)
 - **Feb 04, 03:59 PM** - FireSat adds orbit-visualization software to help firefighters plan around satellite passes (spacenews)
+- **Feb 04, 04:34 PM** - Space Force plans to create contractor pool for ‘physical/live’ training needs in summer (breaking_defense)
