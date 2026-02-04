@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 12 | 23 |
 | spacenews | 7 | 13 | 17 | 31 |
-| breaking_defense | 0 | 0 | 11 | 21 |
+| breaking_defense | 0 | 0 | 12 | 22 |
 
 # Shown Order
 
@@ -3892,3 +3892,4 @@
 - **Feb 04, 04:34 PM** - Space Force plans to create contractor pool for ‘physical/live’ training needs in summer (breaking_defense)
 - **Feb 04, 05:09 PM** - NASA Delays Artemis II Moon Launch to March After Hydrogen Leaks (nyt)
 - **Feb 04, 05:44 PM** - Rocket Lab launches South Korean satellite (spacenews)
+- **Feb 04, 06:19 PM** - Space Force plans to create contractor pool for ‘physical/live’ training needs in summer (breaking_defense)
