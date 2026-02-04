@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 13 | 24 |
 | spacenews | 4 | 12 | 15 | 29 |
-| breaking_defense | 0 | 0 | 12 | 22 |
+| breaking_defense | 0 | 0 | 13 | 23 |
 
 # Shown Order
 
@@ -3872,3 +3872,4 @@
 - **Feb 04, 04:34 AM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
 - **Feb 04, 05:09 AM** - Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon (nyt)
 - **Feb 04, 05:46 AM** - Transcelestial to provide satellite laser communication terminals to Gilmour Space (spacenews)
+- **Feb 04, 06:29 AM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
