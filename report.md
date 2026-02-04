@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 13 | 23 |
-| spacenews | 4 | 11 | 15 | 29 |
+| spacenews | 5 | 12 | 16 | 30 |
 | breaking_defense | 0 | 0 | 12 | 23 |
 
 # Shown Order
@@ -3884,3 +3884,4 @@
 - **Feb 04, 11:49 AM** - SPACECOM chief cites Army, Marines as models for expanding on-orbit warfighting exercises (breaking_defense)
 - **Feb 04, 12:29 PM** - SmallSat Alliance shifts focus from proliferation to coordination (spacenews)
 - **Feb 04, 01:04 PM** - As satellites become targets, Space Force plans a broader role (spacenews)
+- **Feb 04, 01:39 PM** - Senate committee delays consideration of bill to streamline FCC satellite licensing (spacenews)

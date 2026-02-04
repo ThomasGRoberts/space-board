@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-04T00:05:04.809736+00:00",
-    "trigger_count": 6,
-    "current_item_id": "66c522bc94fe9c74fd7268e94993aabf",
+    "trigger_count": 0,
+    "current_item_id": "0a34a7a5e21b748cb1fc3871123ff675",
     "data": [
         {
             "id": "2f082adbad4a217c4be3a1f92362d118",
@@ -9411,6 +9411,18 @@
             "fetched_datetime": "2026-02-04T12:29:39.739795Z",
             "shown_at": [
                 "2026-02-04T13:04:30.948591Z"
+            ]
+        },
+        {
+            "id": "0a34a7a5e21b748cb1fc3871123ff675",
+            "source": "spacenews",
+            "text": "Senate committee delays consideration of bill to streamline FCC satellite licensing",
+            "source_link": "https://spacenews.com/senate-committee-delays-consideration-of-bill-to-streamline-fcc-satellite-licensing/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-04T13:39:55.987840Z",
+            "shown_at": [
+                "2026-02-04T13:39:57.133233Z"
             ]
         }
     ]
