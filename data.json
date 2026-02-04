@@ -1,9 +1,69 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-02-03T00:05:32.923026+00:00",
-    "trigger_count": 2,
+    "last_run_datetime": "2026-02-04T00:05:04.809736+00:00",
+    "trigger_count": 3,
     "current_item_id": "ef94ba79016e6eb094b63711a4fee81f",
     "data": [
+        {
+            "id": "2f082adbad4a217c4be3a1f92362d118",
+            "source": "nyt",
+            "text": "NASA Eyes March Artemis II Launch After Hydrogen Leaks Delay Moon Mission",
+            "source_link": "https://www.nytimes.com/2026/02/03/science/nasa-artemis-moon-launch-delayed.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-03T20:19:08.214323Z",
+            "shown_at": [
+                "2026-02-03T20:19:09.465772Z"
+            ]
+        },
+        {
+            "id": "133734e1517304bcfa95d5e90f82e413",
+            "source": "nyt",
+            "text": "NASA Delays Artemis II Moon Launch to March After Hydrogen Leaks",
+            "source_link": "https://www.nytimes.com/2026/02/03/science/nasa-artemis-moon-launch-delayed.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-03T15:04:41.045663Z",
+            "shown_at": [
+                "2026-02-03T15:04:41.977204Z"
+            ]
+        },
+        {
+            "id": "6e061728e336bddd04f1e4de019e2d07",
+            "source": "spacenews",
+            "text": "Flight heritage? It isn’t what you think",
+            "source_link": "https://spacenews.com/flight-heritage-it-isnt-what-you-think/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-03T14:29:09.485249Z",
+            "shown_at": [
+                "2026-02-03T14:29:10.662621Z"
+            ]
+        },
+        {
+            "id": "388a64cf1e7e479d46c0da86d393118e",
+            "source": "spacenews",
+            "text": "SpaceX pauses Falcon 9 launches after upper stage anomaly",
+            "source_link": "https://spacenews.com/spacex-pauses-falcon-9-launches-after-upper-stage-anomaly/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-03T12:39:40.014264Z",
+            "shown_at": [
+                "2026-02-03T12:39:41.189911Z"
+            ]
+        },
+        {
+            "id": "b0311e32a4d6d3e39efd5401764b97f2",
+            "source": "spacenews",
+            "text": "Artemis 2 slips to March",
+            "source_link": "https://spacenews.com/artemis-2-slips-to-march/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-03T12:04:45.598374Z",
+            "shown_at": [
+                "2026-02-03T12:04:46.886657Z"
+            ]
+        },
         {
             "id": "30f3111748674d46046ed5b9306da48c",
             "source": "spacenews",
@@ -9296,147 +9356,6 @@
                 "2025-09-25T04:51:50.662068Z",
                 "2025-09-25T22:32:04.242750Z",
                 "2025-09-30T14:59:49.105595Z"
-            ]
-        },
-        {
-            "id": "d150ffaeac35fd241ed18387eda8e55a",
-            "source": "breaking_defense",
-            "text": "Space Force working on future operations plan to guide investment",
-            "source_link": "https://breakingdefense.com/2025/09/space-force-working-on-future-operations-plan-to-guide-investment/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-23T16:25:57.881258Z",
-            "shown_at": [
-                "2025-09-23T16:25:59.073018Z",
-                "2025-09-25T07:58:09.658238Z",
-                "2025-09-25T09:57:30.547865Z",
-                "2025-09-25T20:27:49.856425Z",
-                "2025-09-26T03:57:54.317219Z",
-                "2025-09-26T20:50:06.864352Z",
-                "2025-09-26T21:59:39.143331Z",
-                "2025-09-27T15:14:01.892960Z",
-                "2025-09-27T17:20:04.366564Z",
-                "2025-09-27T18:17:52.607001Z",
-                "2025-09-28T22:49:33.620166Z",
-                "2025-09-29T09:29:28.678785Z",
-                "2025-09-29T14:50:06.864666Z",
-                "2025-09-29T17:07:50.125304Z",
-                "2025-09-29T22:07:39.206379Z"
-            ]
-        },
-        {
-            "id": "d6e7686a84b0c96dc7d637028914469c",
-            "source": "spacenews",
-            "text": "Building Missile Defense Readiness through Composites and Domestic Supply Chain Coordination",
-            "source_link": "https://spacenews.com/building-missile-defense-readiness-through-composites-and-domestic-supply-chain-coordination/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-23T15:07:45.322602Z",
-            "shown_at": [
-                "2025-09-23T15:07:45.984798Z",
-                "2025-09-24T07:22:49.837366Z",
-                "2025-09-28T21:53:39.184265Z"
-            ]
-        },
-        {
-            "id": "71e3492a2479a6cd70f1ca4e6764a64d",
-            "source": "spacenews",
-            "text": "To Protect the Nation, the Golden Dome Must Be Capable of Protecting Itself",
-            "source_link": "https://spacenews.com/to-protect-the-nation-the-golden-dome-must-be-capable-of-protecting-itself/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-23T12:17:56.194341Z",
-            "shown_at": [
-                "2025-09-23T12:17:57.856085Z",
-                "2025-09-26T07:02:40.933689Z",
-                "2025-09-29T00:30:07.429504Z"
-            ]
-        },
-        {
-            "id": "8fd8a73f36cac250ae6f6e84f8fcbd92",
-            "source": "spacenews",
-            "text": "Firefly looks to resume Alpha launches soon",
-            "source_link": "https://spacenews.com/firefly-looks-to-resume-alpha-launches-soon/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-23T11:59:54.028288Z",
-            "shown_at": [
-                "2025-09-23T11:59:54.879300Z",
-                "2025-09-23T17:27:59.061465Z",
-                "2025-09-28T18:43:54.019610Z",
-                "2025-09-30T07:41:19.763554Z"
-            ]
-        },
-        {
-            "id": "8a033155ab8b4b674a0b977b66081b6a",
-            "source": "spacenews",
-            "text": "Terran Orbital Completes Delivery of Satellite Bus Platforms to Lockheed Martin for the Tranche 1 Transport Layer",
-            "source_link": "https://spacenews.com/terran-orbital-completes-delivery-of-satellite-bus-platforms-to-lockheed-martin-for-the-tranche-1-transport-layer/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-23T11:14:02.290445Z",
-            "shown_at": [
-                "2025-09-23T11:14:02.972145Z"
-            ]
-        },
-        {
-            "id": "b0311e32a4d6d3e39efd5401764b97f2",
-            "source": "spacenews",
-            "text": "Artemis 2 slips to March",
-            "source_link": "https://spacenews.com/artemis-2-slips-to-march/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-03T12:04:45.598374Z",
-            "shown_at": [
-                "2026-02-03T12:04:46.886657Z"
-            ]
-        },
-        {
-            "id": "388a64cf1e7e479d46c0da86d393118e",
-            "source": "spacenews",
-            "text": "SpaceX pauses Falcon 9 launches after upper stage anomaly",
-            "source_link": "https://spacenews.com/spacex-pauses-falcon-9-launches-after-upper-stage-anomaly/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-03T12:39:40.014264Z",
-            "shown_at": [
-                "2026-02-03T12:39:41.189911Z"
-            ]
-        },
-        {
-            "id": "6e061728e336bddd04f1e4de019e2d07",
-            "source": "spacenews",
-            "text": "Flight heritage? It isn’t what you think",
-            "source_link": "https://spacenews.com/flight-heritage-it-isnt-what-you-think/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-03T14:29:09.485249Z",
-            "shown_at": [
-                "2026-02-03T14:29:10.662621Z"
-            ]
-        },
-        {
-            "id": "133734e1517304bcfa95d5e90f82e413",
-            "source": "nyt",
-            "text": "NASA Delays Artemis II Moon Launch to March After Hydrogen Leaks",
-            "source_link": "https://www.nytimes.com/2026/02/03/science/nasa-artemis-moon-launch-delayed.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-03T15:04:41.045663Z",
-            "shown_at": [
-                "2026-02-03T15:04:41.977204Z"
-            ]
-        },
-        {
-            "id": "2f082adbad4a217c4be3a1f92362d118",
-            "source": "nyt",
-            "text": "NASA Eyes March Artemis II Launch After Hydrogen Leaks Delay Moon Mission",
-            "source_link": "https://www.nytimes.com/2026/02/03/science/nasa-artemis-moon-launch-delayed.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-03T20:19:08.214323Z",
-            "shown_at": [
-                "2026-02-03T20:19:09.465772Z"
             ]
         }
     ]
