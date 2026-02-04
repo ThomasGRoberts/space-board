@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-04T00:05:04.809736+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0a34a7a5e21b748cb1fc3871123ff675",
+    "trigger_count": 0,
+    "current_item_id": "282dbb9d08729b84db7f7618193be040",
     "data": [
         {
             "id": "2f082adbad4a217c4be3a1f92362d118",
@@ -9423,6 +9423,18 @@
             "fetched_datetime": "2026-02-04T13:39:55.987840Z",
             "shown_at": [
                 "2026-02-04T13:39:57.133233Z"
+            ]
+        },
+        {
+            "id": "282dbb9d08729b84db7f7618193be040",
+            "source": "spacenews",
+            "text": "Silicon as strategy: the hidden battleground of the new space race",
+            "source_link": "https://spacenews.com/silicon-as-strategy-the-hidden-battleground-of-the-new-space-race/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-04T14:14:54.872492Z",
+            "shown_at": [
+                "2026-02-04T14:14:55.875284Z"
             ]
         }
     ]

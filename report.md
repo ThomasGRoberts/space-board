@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 12 | 23 |
-| spacenews | 5 | 12 | 16 | 30 |
+| spacenews | 6 | 13 | 17 | 31 |
 | breaking_defense | 0 | 0 | 12 | 22 |
 
 # Shown Order
@@ -3885,3 +3885,4 @@
 - **Feb 04, 12:29 PM** - SmallSat Alliance shifts focus from proliferation to coordination (spacenews)
 - **Feb 04, 01:04 PM** - As satellites become targets, Space Force plans a broader role (spacenews)
 - **Feb 04, 01:39 PM** - Senate committee delays consideration of bill to streamline FCC satellite licensing (spacenews)
+- **Feb 04, 02:14 PM** - Silicon as strategy: the hidden battleground of the new space race (spacenews)
