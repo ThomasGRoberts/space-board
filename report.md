@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 12 | 23 |
-| spacenews | 7 | 13 | 17 | 31 |
+| spacenews | 7 | 13 | 18 | 32 |
 | breaking_defense | 0 | 0 | 11 | 21 |
 
 # Shown Order
@@ -3894,3 +3894,4 @@
 - **Feb 04, 05:44 PM** - Rocket Lab launches South Korean satellite (spacenews)
 - **Feb 04, 06:19 PM** - Space Force plans to create contractor pool for ‘physical/live’ training needs in summer (breaking_defense)
 - **Feb 04, 06:54 PM** - NASA Eyes March Artemis II Launch After Hydrogen Leaks Delay Moon Mission (nyt)
+- **Feb 04, 07:29 PM** - Starlink and the unravelling of digital sovereignty (spacenews)
