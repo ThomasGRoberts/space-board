@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 2 | 11 | 22 |
+| nyt | 1 | 2 | 12 | 23 |
 | spacenews | 7 | 14 | 17 | 31 |
 | breaking_defense | 0 | 0 | 12 | 22 |
 
@@ -3890,3 +3890,4 @@
 - **Feb 04, 03:24 PM** - Space telescopes at light speed (spacenews)
 - **Feb 04, 03:59 PM** - FireSat adds orbit-visualization software to help firefighters plan around satellite passes (spacenews)
 - **Feb 04, 04:34 PM** - Space Force plans to create contractor pool for ‘physical/live’ training needs in summer (breaking_defense)
+- **Feb 04, 05:09 PM** - NASA Delays Artemis II Moon Launch to March After Hydrogen Leaks (nyt)
