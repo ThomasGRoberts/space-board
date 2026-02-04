@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-04T00:05:04.809736+00:00",
-    "trigger_count": 6,
-    "current_item_id": "798d858d062ea5d0aa5ca3063cd9a731",
+    "trigger_count": 0,
+    "current_item_id": "66c522bc94fe9c74fd7268e94993aabf",
     "data": [
         {
             "id": "2f082adbad4a217c4be3a1f92362d118",
@@ -9406,9 +9406,12 @@
             "source": "spacenews",
             "text": "As satellites become targets, Space Force plans a broader role",
             "source_link": "https://spacenews.com/as-satellites-become-targets-space-force-plans-a-broader-role/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-02-04T12:29:39.739795Z"
+            "fetched_datetime": "2026-02-04T12:29:39.739795Z",
+            "shown_at": [
+                "2026-02-04T13:04:30.948591Z"
+            ]
         }
     ]
 }
