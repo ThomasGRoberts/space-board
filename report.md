@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 13 | 23 |
+| nyt | 2 | 2 | 14 | 24 |
 | spacenews | 4 | 12 | 15 | 29 |
 | breaking_defense | 0 | 0 | 12 | 23 |
 
@@ -3870,3 +3870,4 @@
 - **Feb 04, 03:24 AM** - NASA Delays Artemis II Moon Launch to March After Hydrogen Leaks (nyt)
 - **Feb 04, 03:59 AM** - Amazon buys 10 more Falcon 9 launches (spacenews)
 - **Feb 04, 04:34 AM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
+- **Feb 04, 05:09 AM** - Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon (nyt)
