@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 2 | 12 | 24 |
 | spacenews | 7 | 13 | 17 | 33 |
-| breaking_defense | 0 | 0 | 11 | 22 |
+| breaking_defense | 0 | 0 | 12 | 23 |
 
 # Shown Order
 
@@ -3898,3 +3898,4 @@
 - **Feb 04, 08:04 PM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
 - **Feb 04, 08:39 PM** - Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon (nyt)
 - **Feb 04, 09:14 PM** - SmallSat Alliance shifts focus from proliferation to coordination (spacenews)
+- **Feb 04, 09:49 PM** - Space Force plans to create contractor pool for ‘physical/live’ training needs in summer (breaking_defense)
