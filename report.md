@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 13 | 24 |
 | spacenews | 4 | 12 | 15 | 29 |
-| breaking_defense | 0 | 0 | 12 | 22 |
+| breaking_defense | 0 | 0 | 13 | 23 |
 
 # Shown Order
 
@@ -3866,3 +3866,4 @@
 - **Feb 04, 12:59 AM** - Space Grove Ventures Announces Public Launch at SpaceCom | Space Congress, Signaling a New Commercial Model for Space and Defense Ecosystem Development (spacenews)
 - **Feb 04, 01:34 AM** - NASA Delays Artemis II Moon Launch to March After Hydrogen Leaks (nyt)
 - **Feb 04, 02:14 AM** - NASA examining hydrogen leaks during Artemis 2 fueling test (spacenews)
+- **Feb 04, 02:49 AM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
