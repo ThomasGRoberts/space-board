@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 2 | 12 | 25 |
 | spacenews | 7 | 10 | 17 | 33 |
-| breaking_defense | 0 | 0 | 11 | 23 |
+| breaking_defense | 0 | 0 | 12 | 24 |
 
 # Shown Order
 
@@ -3901,3 +3901,4 @@
 - **Feb 04, 09:49 PM** - Space Force plans to create contractor pool for ‘physical/live’ training needs in summer (breaking_defense)
 - **Feb 04, 10:24 PM** - Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon (nyt)
 - **Feb 04, 10:59 PM** - China launches AlSat-3B for Algeria, further launches delayed ahead of key human spaceflight test (spacenews)
+- **Feb 04, 11:34 PM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
