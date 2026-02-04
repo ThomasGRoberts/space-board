@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 2 | 12 | 25 |
-| spacenews | 7 | 13 | 17 | 33 |
+| spacenews | 7 | 13 | 18 | 34 |
 | breaking_defense | 0 | 0 | 11 | 23 |
 
 # Shown Order
@@ -3900,3 +3900,4 @@
 - **Feb 04, 09:14 PM** - SmallSat Alliance shifts focus from proliferation to coordination (spacenews)
 - **Feb 04, 09:49 PM** - Space Force plans to create contractor pool for ‘physical/live’ training needs in summer (breaking_defense)
 - **Feb 04, 10:24 PM** - Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon (nyt)
+- **Feb 04, 10:59 PM** - China launches AlSat-3B for Algeria, further launches delayed ahead of key human spaceflight test (spacenews)
