@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 14 | 24 |
-| spacenews | 4 | 12 | 14 | 29 |
+| spacenews | 4 | 12 | 15 | 30 |
 | breaking_defense | 0 | 0 | 12 | 22 |
 
 # Shown Order
@@ -3880,3 +3880,4 @@
 - **Feb 04, 09:24 AM** - Space Grove Ventures Announces Public Launch at SpaceCom | Space Congress, Signaling a New Commercial Model for Space and Defense Ecosystem Development (spacenews)
 - **Feb 04, 09:59 AM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
 - **Feb 04, 10:34 AM** - NASA Eyes March Artemis II Launch After Hydrogen Leaks Delay Moon Mission (nyt)
+- **Feb 04, 11:09 AM** - Flight heritage? It isn’t what you think (spacenews)
