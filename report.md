@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 14 | 24 |
-| spacenews | 4 | 12 | 14 | 29 |
+| spacenews | 4 | 12 | 15 | 30 |
 | breaking_defense | 0 | 0 | 12 | 22 |
 
 # Shown Order
@@ -3868,3 +3868,4 @@
 - **Feb 04, 02:14 AM** - NASA examining hydrogen leaks during Artemis 2 fueling test (spacenews)
 - **Feb 04, 02:49 AM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
 - **Feb 04, 03:24 AM** - NASA Delays Artemis II Moon Launch to March After Hydrogen Leaks (nyt)
+- **Feb 04, 03:59 AM** - Amazon buys 10 more Falcon 9 launches (spacenews)
