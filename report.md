@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 13 | 23 |
+| nyt | 2 | 2 | 14 | 24 |
 | spacenews | 3 | 11 | 15 | 29 |
 | breaking_defense | 0 | 0 | 12 | 23 |
 
@@ -3864,3 +3864,4 @@
 - **Feb 03, 11:49 PM** - Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon (nyt)
 - **Feb 04, 12:23 AM** - SDA must be ‘more realistic’ about real risks in pricey satellite Tracking Layer effort: GAO (breaking_defense)
 - **Feb 04, 12:59 AM** - Space Grove Ventures Announces Public Launch at SpaceCom | Space Congress, Signaling a New Commercial Model for Space and Defense Ecosystem Development (spacenews)
+- **Feb 04, 01:34 AM** - NASA Delays Artemis II Moon Launch to March After Hydrogen Leaks (nyt)
