@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 14 | 18 | 34 |
+| spacenews | 9 | 15 | 18 | 35 |
 | nyt | 0 | 1 | 11 | 23 |
 | breaking_defense | 0 | 0 | 12 | 24 |
 
@@ -3866,3 +3866,4 @@
 - **Feb 05, 01:39 PM** - FCC clears Logos to deploy more than 4,000 broadband satellites (spacenews)
 - **Feb 05, 02:14 PM** - Voyager Technologies and Max Space partner on lunar infrastructure (spacenews)
 - **Feb 05, 02:49 PM** - Satellite servicing startup Starfish taps Quindar for mission operations software (spacenews)
+- **Feb 05, 03:24 PM** - Deep space, dim objects: Why asteroid mining caught the Space Force’s eye (spacenews)

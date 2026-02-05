@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-05T00:04:08.406547+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5324ba79b71047460990538702c19f1a",
+    "trigger_count": 0,
+    "current_item_id": "22987848fb303a69d23b1768f015ce59",
     "data": [
         {
             "id": "f7e9d7d65edc2f8cd4afb777157c8d44",
@@ -9437,6 +9437,18 @@
             "fetched_datetime": "2026-02-05T14:49:33.132852Z",
             "shown_at": [
                 "2026-02-05T14:49:34.283100Z"
+            ]
+        },
+        {
+            "id": "22987848fb303a69d23b1768f015ce59",
+            "source": "spacenews",
+            "text": "Deep space, dim objects: Why asteroid mining caught the Space Force’s eye",
+            "source_link": "https://spacenews.com/deep-space-and-dim-objects-why-the-space-force-cares-about-asteroids/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-05T15:24:13.090908Z",
+            "shown_at": [
+                "2026-02-05T15:24:14.346101Z"
             ]
         }
     ]
