@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 11 | 17 | 32 |
 | nyt | 0 | 2 | 12 | 25 |
-| breaking_defense | 0 | 0 | 11 | 24 |
+| breaking_defense | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -3842,3 +3842,4 @@
 - **Feb 04, 11:34 PM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
 - **Feb 05, 12:08 AM** - Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon (nyt)
 - **Feb 05, 12:43 AM** - House committee advances NASA authorization bill (spacenews)
+- **Feb 05, 01:19 AM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
