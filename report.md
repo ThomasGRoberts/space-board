@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 11 | 16 | 31 |
+| spacenews | 7 | 11 | 17 | 32 |
 | nyt | 0 | 2 | 12 | 26 |
 | breaking_defense | 0 | 0 | 12 | 24 |
 
@@ -3856,3 +3856,4 @@
 - **Feb 05, 07:49 AM** - What would Artemis participation mean for Türkiye’s space industry and space diplomacy? (spacenews)
 - **Feb 05, 08:24 AM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
 - **Feb 05, 08:59 AM** - NASA Delays Artemis II Moon Launch to March After Hydrogen Leaks (nyt)
+- **Feb 05, 09:34 AM** - L3Harris reaffirms commitment to space business amid missile sector expansion (spacenews)
