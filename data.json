@@ -1,9 +1,94 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-02-04T00:05:04.809736+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2026-02-05T00:04:08.406547+00:00",
+    "trigger_count": 6,
     "current_item_id": "00d6c47764757de04d9180c1f5ab6ae1",
     "data": [
+        {
+            "id": "f7e9d7d65edc2f8cd4afb777157c8d44",
+            "source": "spacenews",
+            "text": "FireSat adds orbit-visualization software to help firefighters plan around satellite passes",
+            "source_link": "https://spacenews.com/firesat-adds-orbit-visualization-software-to-help-firefighters-plan-around-satellite-passes/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-04T15:59:04.663759Z",
+            "shown_at": [
+                "2026-02-04T15:59:06.067832Z"
+            ]
+        },
+        {
+            "id": "6799cb52e1ec34ecfa17d75686fc5154",
+            "source": "spacenews",
+            "text": "Space telescopes at light speed",
+            "source_link": "https://spacenews.com/space-telescopes-at-light-speed/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-04T15:24:12.506162Z",
+            "shown_at": [
+                "2026-02-04T15:24:13.411341Z"
+            ]
+        },
+        {
+            "id": "282dbb9d08729b84db7f7618193be040",
+            "source": "spacenews",
+            "text": "Silicon as strategy: the hidden battleground of the new space race",
+            "source_link": "https://spacenews.com/silicon-as-strategy-the-hidden-battleground-of-the-new-space-race/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-04T14:14:54.872492Z",
+            "shown_at": [
+                "2026-02-04T14:14:55.875284Z"
+            ]
+        },
+        {
+            "id": "0a34a7a5e21b748cb1fc3871123ff675",
+            "source": "spacenews",
+            "text": "Senate committee delays consideration of bill to streamline FCC satellite licensing",
+            "source_link": "https://spacenews.com/senate-committee-delays-consideration-of-bill-to-streamline-fcc-satellite-licensing/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-04T13:39:55.987840Z",
+            "shown_at": [
+                "2026-02-04T13:39:57.133233Z"
+            ]
+        },
+        {
+            "id": "66c522bc94fe9c74fd7268e94993aabf",
+            "source": "spacenews",
+            "text": "As satellites become targets, Space Force plans a broader role",
+            "source_link": "https://spacenews.com/as-satellites-become-targets-space-force-plans-a-broader-role/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-04T12:29:39.739795Z",
+            "shown_at": [
+                "2026-02-04T13:04:30.948591Z"
+            ]
+        },
+        {
+            "id": "798d858d062ea5d0aa5ca3063cd9a731",
+            "source": "spacenews",
+            "text": "SmallSat Alliance shifts focus from proliferation to coordination",
+            "source_link": "https://spacenews.com/smallsat-alliance-shifts-focus-from-proliferation-to-coordination/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-04T12:29:39.739724Z",
+            "shown_at": [
+                "2026-02-04T12:29:40.822359Z",
+                "2026-02-04T21:14:06.278109Z"
+            ]
+        },
+        {
+            "id": "a343024e64550be45adc280327d4f4bb",
+            "source": "spacenews",
+            "text": "NASA examining hydrogen leaks during Artemis 2 fueling test",
+            "source_link": "https://spacenews.com/nasa-examining-hydrogen-leaks-during-artemis-2-fueling-test/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-04T02:14:17.666395Z",
+            "shown_at": [
+                "2026-02-04T02:14:18.467803Z"
+            ]
+        },
         {
             "id": "2f082adbad4a217c4be3a1f92362d118",
             "source": "nyt",
@@ -9249,230 +9334,6 @@
                 "2025-09-25T23:37:57.702183Z",
                 "2025-09-27T00:18:16.975996Z",
                 "2025-09-28T13:50:09.684872Z"
-            ]
-        },
-        {
-            "id": "9a28e1e286c15497ffe0050ab0a150fa",
-            "source": "spacenews",
-            "text": "Blue Origin only bidder for new VIPER lander award",
-            "source_link": "https://spacenews.com/blue-origin-only-bidder-for-new-viper-lander-award/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-24T02:32:24.962243Z",
-            "shown_at": [
-                "2025-09-24T02:32:25.935131Z",
-                "2025-09-25T10:13:49.764755Z",
-                "2025-09-25T11:17:52.032287Z"
-            ]
-        },
-        {
-            "id": "b34f289639d8635801c1ae2110e0940b",
-            "source": "spacenews",
-            "text": "Chinese spacecraft image Maxar remote sensing and U.S. early warning satellites",
-            "source_link": "https://spacenews.com/chinese-spacecraft-image-maxar-remote-sensing-and-u-s-early-warning-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-23T23:13:57.600112Z",
-            "shown_at": [
-                "2025-09-23T23:13:58.461402Z"
-            ]
-        },
-        {
-            "id": "a1d3329c73e1da7fb7f9bf74ed06471d",
-            "source": "breaking_defense",
-            "text": "Day 2 of AFA’s Air, Space & Cyber Conference [Photos]",
-            "source_link": "https://breakingdefense.com/2025/09/photos-day-2-of-afas-air-space-cyber-conference/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-23T21:29:42.655893Z",
-            "shown_at": [
-                "2025-09-23T21:29:43.359773Z",
-                "2025-09-24T03:48:04.108739Z",
-                "2025-09-24T10:17:46.025740Z",
-                "2025-09-25T03:32:25.253585Z",
-                "2025-09-25T06:48:03.986018Z",
-                "2025-09-25T14:57:59.365276Z",
-                "2025-09-27T19:18:08.130903Z",
-                "2025-09-28T00:12:02.675057Z",
-                "2025-09-28T08:04:48.571034Z",
-                "2025-09-29T07:19:56.130248Z",
-                "2025-09-29T15:48:00.343576Z",
-                "2025-09-30T00:19:47.579433Z",
-                "2025-09-30T07:57:51.265720Z",
-                "2025-09-30T09:19:49.830026Z",
-                "2025-09-30T15:29:55.113215Z",
-                "2025-09-30T16:29:33.722075Z"
-            ]
-        },
-        {
-            "id": "5fe19d820e9826a382cb5889d7a8c85d",
-            "source": "breaking_defense",
-            "text": "Photos: Day 2 of AFA’s Air, Space & Cyber Conference",
-            "source_link": "https://breakingdefense.com/2025/09/photos-day-2-of-afas-air-space-cyber-conference/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-23T21:15:46.903949Z",
-            "shown_at": [
-                "2025-09-23T21:15:47.505287Z",
-                "2025-09-24T04:47:56.283549Z",
-                "2025-09-24T05:49:49.969829Z",
-                "2025-09-25T01:10:17.997199Z",
-                "2025-09-25T13:32:35.646774Z",
-                "2025-09-25T21:45:48.030922Z",
-                "2025-09-26T02:58:00.670704Z",
-                "2025-09-26T05:48:02.785751Z",
-                "2025-09-27T01:01:58.859025Z",
-                "2025-09-27T06:05:28.423485Z",
-                "2025-09-27T16:15:56.030930Z",
-                "2025-09-28T09:10:06.564266Z",
-                "2025-09-28T19:00:10.007043Z",
-                "2025-09-29T01:57:53.264291Z",
-                "2025-09-29T08:23:11.081109Z",
-                "2025-09-29T11:39:52.982745Z",
-                "2025-09-30T01:17:35.136813Z",
-                "2025-09-30T04:33:44.391112Z",
-                "2025-09-30T11:37:58.514073Z"
-            ]
-        },
-        {
-            "id": "f0ab94ee22f5b89e85ee65fcdb8b6162",
-            "source": "spacenews",
-            "text": "U.S. military sees China’s reusable rocket push as a space security concern",
-            "source_link": "https://spacenews.com/u-s-military-sees-chinas-reusable-rocket-push-as-a-space-security-concern/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-23T21:02:10.191245Z",
-            "shown_at": [
-                "2025-09-23T21:02:13.357166Z",
-                "2025-09-24T00:20:06.092664Z",
-                "2025-09-24T16:55:55.927778Z",
-                "2025-09-25T17:18:16.168140Z",
-                "2025-09-26T18:28:11.338724Z",
-                "2025-09-28T04:17:52.165034Z",
-                "2025-09-29T10:55:50.299790Z"
-            ]
-        },
-        {
-            "id": "1a763500dc91a5cf28069ffaeb07143b",
-            "source": "breaking_defense",
-            "text": "Uncertainty over satellite constellation means alternate-GPS capability up in the air as well: Official",
-            "source_link": "https://breakingdefense.com/2025/09/uncertainty-over-satellite-constellation-means-alternate-gps-capability-up-in-the-air-as-well-official/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-23T19:12:14.990527Z",
-            "shown_at": [
-                "2025-09-23T19:12:15.703553Z",
-                "2025-09-23T22:29:31.999902Z",
-                "2025-09-24T00:35:42.033224Z",
-                "2025-09-24T07:53:49.563182Z",
-                "2025-09-24T18:27:50.945667Z",
-                "2025-09-25T05:39:53.295656Z",
-                "2025-09-26T16:00:06.705983Z",
-                "2025-09-26T18:14:05.789291Z",
-                "2025-09-27T12:21:58.620226Z",
-                "2025-09-28T23:59:55.275021Z",
-                "2025-09-30T06:51:43.338979Z"
-            ]
-        },
-        {
-            "id": "df72f4269359eb823ad983ea1fac6ec7",
-            "source": "spacenews",
-            "text": "Space Force chief calls for speed over perfection in weapons buying",
-            "source_link": "https://spacenews.com/space-force-chief-calls-for-speed-over-perfection-in-weapons-buying/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-23T18:58:06.794880Z",
-            "shown_at": [
-                "2025-09-23T18:58:07.488136Z",
-                "2025-09-23T20:02:33.429746Z",
-                "2025-09-25T04:51:50.662068Z",
-                "2025-09-25T22:32:04.242750Z",
-                "2025-09-30T14:59:49.105595Z"
-            ]
-        },
-        {
-            "id": "a343024e64550be45adc280327d4f4bb",
-            "source": "spacenews",
-            "text": "NASA examining hydrogen leaks during Artemis 2 fueling test",
-            "source_link": "https://spacenews.com/nasa-examining-hydrogen-leaks-during-artemis-2-fueling-test/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-04T02:14:17.666395Z",
-            "shown_at": [
-                "2026-02-04T02:14:18.467803Z"
-            ]
-        },
-        {
-            "id": "798d858d062ea5d0aa5ca3063cd9a731",
-            "source": "spacenews",
-            "text": "SmallSat Alliance shifts focus from proliferation to coordination",
-            "source_link": "https://spacenews.com/smallsat-alliance-shifts-focus-from-proliferation-to-coordination/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-04T12:29:39.739724Z",
-            "shown_at": [
-                "2026-02-04T12:29:40.822359Z",
-                "2026-02-04T21:14:06.278109Z"
-            ]
-        },
-        {
-            "id": "66c522bc94fe9c74fd7268e94993aabf",
-            "source": "spacenews",
-            "text": "As satellites become targets, Space Force plans a broader role",
-            "source_link": "https://spacenews.com/as-satellites-become-targets-space-force-plans-a-broader-role/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-04T12:29:39.739795Z",
-            "shown_at": [
-                "2026-02-04T13:04:30.948591Z"
-            ]
-        },
-        {
-            "id": "0a34a7a5e21b748cb1fc3871123ff675",
-            "source": "spacenews",
-            "text": "Senate committee delays consideration of bill to streamline FCC satellite licensing",
-            "source_link": "https://spacenews.com/senate-committee-delays-consideration-of-bill-to-streamline-fcc-satellite-licensing/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-04T13:39:55.987840Z",
-            "shown_at": [
-                "2026-02-04T13:39:57.133233Z"
-            ]
-        },
-        {
-            "id": "282dbb9d08729b84db7f7618193be040",
-            "source": "spacenews",
-            "text": "Silicon as strategy: the hidden battleground of the new space race",
-            "source_link": "https://spacenews.com/silicon-as-strategy-the-hidden-battleground-of-the-new-space-race/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-04T14:14:54.872492Z",
-            "shown_at": [
-                "2026-02-04T14:14:55.875284Z"
-            ]
-        },
-        {
-            "id": "6799cb52e1ec34ecfa17d75686fc5154",
-            "source": "spacenews",
-            "text": "Space telescopes at light speed",
-            "source_link": "https://spacenews.com/space-telescopes-at-light-speed/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-04T15:24:12.506162Z",
-            "shown_at": [
-                "2026-02-04T15:24:13.411341Z"
-            ]
-        },
-        {
-            "id": "f7e9d7d65edc2f8cd4afb777157c8d44",
-            "source": "spacenews",
-            "text": "FireSat adds orbit-visualization software to help firefighters plan around satellite passes",
-            "source_link": "https://spacenews.com/firesat-adds-orbit-visualization-software-to-help-firefighters-plan-around-satellite-passes/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-04T15:59:04.663759Z",
-            "shown_at": [
-                "2026-02-04T15:59:06.067832Z"
             ]
         }
     ]
