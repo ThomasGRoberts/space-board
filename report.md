@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 11 | 16 | 31 |
+| spacenews | 7 | 11 | 17 | 32 |
 | nyt | 0 | 2 | 12 | 26 |
 | breaking_defense | 0 | 0 | 12 | 24 |
 
@@ -3853,3 +3853,4 @@
 - **Feb 05, 06:05 AM** - Transcelestial to provide satellite laser communication terminals to Gilmour Space (spacenews)
 - **Feb 05, 06:39 AM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
 - **Feb 05, 07:13 AM** - NASA Eyes March Artemis II Launch After Hydrogen Leaks Delay Moon Mission (nyt)
+- **Feb 05, 07:49 AM** - What would Artemis participation mean for Türkiye’s space industry and space diplomacy? (spacenews)
