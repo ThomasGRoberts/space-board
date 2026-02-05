@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 12 | 17 | 32 |
+| spacenews | 9 | 13 | 18 | 33 |
 | nyt | 0 | 2 | 12 | 25 |
 | breaking_defense | 0 | 0 | 12 | 24 |
 
@@ -3863,3 +3863,4 @@
 - **Feb 05, 11:54 AM** - Space Force plans to create contractor pool for ‘physical/live’ training needs in summer (breaking_defense)
 - **Feb 05, 12:29 PM** - Space Force may be done with R-GPS, but Congress isn’t (spacenews)
 - **Feb 05, 01:04 PM** - Morpheus raises $15 million in Series A+ round (spacenews)
+- **Feb 05, 01:39 PM** - FCC clears Logos to deploy more than 4,000 broadband satellites (spacenews)
