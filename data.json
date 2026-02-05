@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-05T00:04:08.406547+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8f0ba676746ee42cb19b203e02e551a8",
+    "trigger_count": 0,
+    "current_item_id": "2e5d1be8f935b2c05900d0222bcbcbaf",
     "data": [
         {
             "id": "f7e9d7d65edc2f8cd4afb777157c8d44",
@@ -9396,9 +9396,12 @@
             "source": "spacenews",
             "text": "Morpheus raises $15 million in Series A+ round",
             "source_link": "https://spacenews.com/morpheus-raises-15-million-in-series-a-round/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-02-05T12:29:00.426556Z"
+            "fetched_datetime": "2026-02-05T12:29:00.426556Z",
+            "shown_at": [
+                "2026-02-05T13:04:28.149843Z"
+            ]
         }
     ]
 }
