@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 11 | 16 | 31 |
+| spacenews | 7 | 11 | 17 | 32 |
 | nyt | 0 | 2 | 12 | 26 |
 | breaking_defense | 0 | 0 | 12 | 24 |
 
@@ -3850,3 +3850,4 @@
 - **Feb 05, 04:14 AM** - SpaceX plans next Starship test flight in March (spacenews)
 - **Feb 05, 04:49 AM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
 - **Feb 05, 05:29 AM** - NASA Eyes March Artemis II Launch After Hydrogen Leaks Delay Moon Mission (nyt)
+- **Feb 05, 06:05 AM** - Transcelestial to provide satellite laser communication terminals to Gilmour Space (spacenews)
