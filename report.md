@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 17 | 35 |
 | nyt | 0 | 0 | 11 | 23 |
-| breaking_defense | 0 | 0 | 12 | 23 |
+| breaking_defense | 1 | 1 | 13 | 24 |
 
 # Shown Order
 
@@ -3876,3 +3876,4 @@
 - **Feb 05, 07:39 PM** - NASA Eyes March Artemis II Launch After Hydrogen Leaks Delay Moon Mission (nyt)
 - **Feb 05, 08:14 PM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
 - **Feb 05, 08:53 PM** - York Space goes public, riding Pentagon demand (spacenews)
+- **Feb 05, 09:29 PM** - To overcome Golden Dome ‘affordability’ hurdle, DoD needs acquisition reform, AI: Official (breaking_defense)

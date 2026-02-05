@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-05T00:04:08.406547+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1cfd32928bbdd7d603eccbc5796b4981",
+    "trigger_count": 0,
+    "current_item_id": "3b212010b055111201f3ac6d7ddfafe6",
     "data": [
         {
             "id": "f7e9d7d65edc2f8cd4afb777157c8d44",
@@ -9458,6 +9458,18 @@
             "fetched_datetime": "2026-02-05T15:24:13.090908Z",
             "shown_at": [
                 "2026-02-05T15:24:14.346101Z"
+            ]
+        },
+        {
+            "id": "3b212010b055111201f3ac6d7ddfafe6",
+            "source": "breaking_defense",
+            "text": "To overcome Golden Dome ‘affordability’ hurdle, DoD needs acquisition reform, AI: Official",
+            "source_link": "https://breakingdefense.com/2026/02/to-overcome-golden-dome-affordability-hurdle-dod-needs-acquisition-reform-ai-official/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-05T21:29:15.918928Z",
+            "shown_at": [
+                "2026-02-05T21:29:17.126465Z"
             ]
         }
     ]
