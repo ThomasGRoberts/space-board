@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 10 | 17 | 31 |
+| spacenews | 8 | 11 | 18 | 32 |
 | nyt | 0 | 2 | 12 | 26 |
 | breaking_defense | 0 | 0 | 11 | 24 |
 
@@ -3841,3 +3841,4 @@
 - **Feb 04, 10:59 PM** - China launches AlSat-3B for Algeria, further launches delayed ahead of key human spaceflight test (spacenews)
 - **Feb 04, 11:34 PM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
 - **Feb 05, 12:08 AM** - Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon (nyt)
+- **Feb 05, 12:43 AM** - House committee advances NASA authorization bill (spacenews)

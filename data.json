@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-05T00:04:08.406547+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ef94ba79016e6eb094b63711a4fee81f",
+    "trigger_count": 0,
+    "current_item_id": "0282d7464221f200efadbb065692c9c9",
     "data": [
         {
             "id": "f7e9d7d65edc2f8cd4afb777157c8d44",
@@ -9335,6 +9335,18 @@
                 "2025-09-25T23:37:57.702183Z",
                 "2025-09-27T00:18:16.975996Z",
                 "2025-09-28T13:50:09.684872Z"
+            ]
+        },
+        {
+            "id": "0282d7464221f200efadbb065692c9c9",
+            "source": "spacenews",
+            "text": "House committee advances NASA authorization bill",
+            "source_link": "https://spacenews.com/house-committee-advances-nasa-authorization-bill/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-05T00:43:57.710095Z",
+            "shown_at": [
+                "2026-02-05T00:43:58.702444Z"
             ]
         }
     ]
