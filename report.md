@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 11 | 17 | 32 |
 | nyt | 0 | 2 | 12 | 25 |
-| breaking_defense | 0 | 0 | 11 | 24 |
+| breaking_defense | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -3854,3 +3854,4 @@
 - **Feb 05, 06:39 AM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
 - **Feb 05, 07:13 AM** - NASA Eyes March Artemis II Launch After Hydrogen Leaks Delay Moon Mission (nyt)
 - **Feb 05, 07:49 AM** - What would Artemis participation mean for Türkiye’s space industry and space diplomacy? (spacenews)
+- **Feb 05, 08:24 AM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
