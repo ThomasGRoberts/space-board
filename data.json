@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-05T00:04:08.406547+00:00",
-    "trigger_count": 6,
-    "current_item_id": "88e0cbc1e8743ab1ce2aa2a7470e187b",
+    "trigger_count": 0,
+    "current_item_id": "2f3abb024abcc1128a28874ee6cb9017",
     "data": [
         {
             "id": "f7e9d7d65edc2f8cd4afb777157c8d44",
@@ -9413,6 +9413,18 @@
             "fetched_datetime": "2026-02-05T13:39:07.657200Z",
             "shown_at": [
                 "2026-02-05T13:39:08.813690Z"
+            ]
+        },
+        {
+            "id": "2f3abb024abcc1128a28874ee6cb9017",
+            "source": "spacenews",
+            "text": "Voyager Technologies and Max Space partner on lunar infrastructure",
+            "source_link": "https://spacenews.com/voyager-technologies-and-max-space-partner-on-lunar-infrastructure/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-05T14:14:21.137598Z",
+            "shown_at": [
+                "2026-02-05T14:14:22.198872Z"
             ]
         }
     ]

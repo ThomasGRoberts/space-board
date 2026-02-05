@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 13 | 17 | 33 |
+| spacenews | 9 | 14 | 18 | 34 |
 | nyt | 0 | 2 | 12 | 24 |
 | breaking_defense | 0 | 0 | 12 | 24 |
 
@@ -3864,3 +3864,4 @@
 - **Feb 05, 12:29 PM** - Space Force may be done with R-GPS, but Congress isn’t (spacenews)
 - **Feb 05, 01:04 PM** - Morpheus raises $15 million in Series A+ round (spacenews)
 - **Feb 05, 01:39 PM** - FCC clears Logos to deploy more than 4,000 broadband satellites (spacenews)
+- **Feb 05, 02:14 PM** - Voyager Technologies and Max Space partner on lunar infrastructure (spacenews)
