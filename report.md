@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 17 | 34 |
+| spacenews | 8 | 15 | 18 | 35 |
 | nyt | 0 | 0 | 11 | 23 |
 | breaking_defense | 0 | 0 | 12 | 24 |
 
@@ -3875,3 +3875,4 @@
 - **Feb 05, 06:59 PM** - Space telescopes at light speed (spacenews)
 - **Feb 05, 07:39 PM** - NASA Eyes March Artemis II Launch After Hydrogen Leaks Delay Moon Mission (nyt)
 - **Feb 05, 08:14 PM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
+- **Feb 05, 08:53 PM** - York Space goes public, riding Pentagon demand (spacenews)
