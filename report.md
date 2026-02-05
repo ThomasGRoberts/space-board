@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 17 | 34 |
 | nyt | 0 | 1 | 12 | 24 |
-| breaking_defense | 0 | 0 | 11 | 23 |
+| breaking_defense | 0 | 0 | 12 | 24 |
 
 # Shown Order
 
@@ -3874,3 +3874,4 @@
 - **Feb 05, 06:24 PM** - Space Force plans to create contractor pool for ‘physical/live’ training needs in summer (breaking_defense)
 - **Feb 05, 06:59 PM** - Space telescopes at light speed (spacenews)
 - **Feb 05, 07:39 PM** - NASA Eyes March Artemis II Launch After Hydrogen Leaks Delay Moon Mission (nyt)
+- **Feb 05, 08:14 PM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
