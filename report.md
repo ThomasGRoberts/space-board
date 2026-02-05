@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 11 | 17 | 32 |
 | nyt | 0 | 2 | 12 | 25 |
-| breaking_defense | 0 | 0 | 11 | 24 |
+| breaking_defense | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -3845,3 +3845,4 @@
 - **Feb 05, 01:19 AM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
 - **Feb 05, 01:54 AM** - NASA Eyes March Artemis II Launch After Hydrogen Leaks Delay Moon Mission (nyt)
 - **Feb 05, 02:29 AM** - Rocket Lab launches South Korean satellite (spacenews)
+- **Feb 05, 03:04 AM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
