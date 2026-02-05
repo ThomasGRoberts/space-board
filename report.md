@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 17 | 35 |
-| nyt | 0 | 1 | 11 | 23 |
+| nyt | 0 | 1 | 12 | 24 |
 | breaking_defense | 0 | 0 | 12 | 23 |
 
 # Shown Order
@@ -3870,3 +3870,4 @@
 - **Feb 05, 03:59 PM** - Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon (nyt)
 - **Feb 05, 04:39 PM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
 - **Feb 05, 05:14 PM** - UK Space Agency CEO stepping down as agency folds into government (spacenews)
+- **Feb 05, 05:49 PM** - NASA Delays Artemis II Moon Launch to March After Hydrogen Leaks (nyt)
