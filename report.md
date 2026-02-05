@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 12 | 17 | 32 |
 | nyt | 0 | 2 | 12 | 25 |
-| breaking_defense | 0 | 0 | 11 | 24 |
+| breaking_defense | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -3860,3 +3860,4 @@
 - **Feb 05, 10:09 AM** - Space Force plans to create contractor pool for ‘physical/live’ training needs in summer (breaking_defense)
 - **Feb 05, 10:44 AM** - Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon (nyt)
 - **Feb 05, 11:19 AM** - Vantor wins $5.3 million NGA contract to spot terrain changes using commercial satellite data (spacenews)
+- **Feb 05, 11:54 AM** - Space Force plans to create contractor pool for ‘physical/live’ training needs in summer (breaking_defense)
