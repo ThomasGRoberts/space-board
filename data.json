@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-05T00:04:08.406547+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2f3abb024abcc1128a28874ee6cb9017",
+    "trigger_count": 0,
+    "current_item_id": "5324ba79b71047460990538702c19f1a",
     "data": [
         {
             "id": "f7e9d7d65edc2f8cd4afb777157c8d44",
@@ -9425,6 +9425,18 @@
             "fetched_datetime": "2026-02-05T14:14:21.137598Z",
             "shown_at": [
                 "2026-02-05T14:14:22.198872Z"
+            ]
+        },
+        {
+            "id": "5324ba79b71047460990538702c19f1a",
+            "source": "spacenews",
+            "text": "Satellite servicing startup Starfish taps Quindar for mission operations software",
+            "source_link": "https://spacenews.com/satellite-servicing-startup-starfish-taps-quindar-for-mission-operations-software/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-05T14:49:33.132852Z",
+            "shown_at": [
+                "2026-02-05T14:49:34.283100Z"
             ]
         }
     ]
