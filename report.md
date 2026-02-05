@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 11 | 16 | 31 |
+| spacenews | 8 | 12 | 17 | 32 |
 | nyt | 0 | 2 | 12 | 26 |
 | breaking_defense | 0 | 0 | 12 | 24 |
 
@@ -3859,3 +3859,4 @@
 - **Feb 05, 09:34 AM** - L3Harris reaffirms commitment to space business amid missile sector expansion (spacenews)
 - **Feb 05, 10:09 AM** - Space Force plans to create contractor pool for ‘physical/live’ training needs in summer (breaking_defense)
 - **Feb 05, 10:44 AM** - Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon (nyt)
+- **Feb 05, 11:19 AM** - Vantor wins $5.3 million NGA contract to spot terrain changes using commercial satellite data (spacenews)

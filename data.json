@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-05T00:04:08.406547+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ef94ba79016e6eb094b63711a4fee81f",
+    "trigger_count": 0,
+    "current_item_id": "8ecc7bf37125b679e809e2252e73fb9b",
     "data": [
         {
             "id": "f7e9d7d65edc2f8cd4afb777157c8d44",
@@ -9364,6 +9364,18 @@
             "fetched_datetime": "2026-02-05T00:43:57.710095Z",
             "shown_at": [
                 "2026-02-05T00:43:58.702444Z"
+            ]
+        },
+        {
+            "id": "8ecc7bf37125b679e809e2252e73fb9b",
+            "source": "spacenews",
+            "text": "Vantor wins $5.3 million NGA contract to spot terrain changes using commercial satellite data",
+            "source_link": "https://spacenews.com/vantor-wins-5-3-million-nga-contract-to-spot-terrain-changes-using-commercial-satellite-data/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-05T11:19:10.163727Z",
+            "shown_at": [
+                "2026-02-05T11:19:11.477440Z"
             ]
         }
     ]
