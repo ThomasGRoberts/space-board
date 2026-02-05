@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 17 | 34 |
+| spacenews | 8 | 15 | 18 | 35 |
 | nyt | 0 | 0 | 11 | 23 |
-| breaking_defense | 1 | 1 | 12 | 24 |
+| breaking_defense | 1 | 1 | 12 | 23 |
 
 # Shown Order
 
@@ -3878,3 +3878,4 @@
 - **Feb 05, 08:53 PM** - York Space goes public, riding Pentagon demand (spacenews)
 - **Feb 05, 09:29 PM** - To overcome Golden Dome ‘affordability’ hurdle, DoD needs acquisition reform, AI: Official (breaking_defense)
 - **Feb 05, 10:04 PM** - Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon (nyt)
+- **Feb 05, 10:39 PM** - FireSat adds orbit-visualization software to help firefighters plan around satellite passes (spacenews)
