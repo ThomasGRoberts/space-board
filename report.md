@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 17 | 34 |
-| nyt | 0 | 1 | 12 | 23 |
+| spacenews | 8 | 15 | 18 | 35 |
+| nyt | 0 | 1 | 11 | 23 |
 | breaking_defense | 0 | 0 | 12 | 24 |
 
 # Shown Order
@@ -3872,3 +3872,4 @@
 - **Feb 05, 05:14 PM** - UK Space Agency CEO stepping down as agency folds into government (spacenews)
 - **Feb 05, 05:49 PM** - NASA Delays Artemis II Moon Launch to March After Hydrogen Leaks (nyt)
 - **Feb 05, 06:24 PM** - Space Force plans to create contractor pool for ‘physical/live’ training needs in summer (breaking_defense)
+- **Feb 05, 06:59 PM** - Space telescopes at light speed (spacenews)
