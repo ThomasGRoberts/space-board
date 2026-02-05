@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-05T00:04:08.406547+00:00",
-    "trigger_count": 6,
-    "current_item_id": "331bf62715d677624f2132c927ec5618",
+    "trigger_count": 0,
+    "current_item_id": "5bab346cfd14399efdcd4e1534e4113a",
     "data": [
         {
             "id": "f7e9d7d65edc2f8cd4afb777157c8d44",
@@ -9473,6 +9473,18 @@
             "fetched_datetime": "2026-02-05T21:29:15.918928Z",
             "shown_at": [
                 "2026-02-05T21:29:17.126465Z"
+            ]
+        },
+        {
+            "id": "5bab346cfd14399efdcd4e1534e4113a",
+            "source": "nyt",
+            "text": "At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops",
+            "source_link": "https://www.nytimes.com/2026/02/05/world/europe/starlink-blocks-russian-troops-access.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-05T23:49:02.403160Z",
+            "shown_at": [
+                "2026-02-05T23:49:03.777792Z"
             ]
         }
     ]
