@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 10 | 22 |
+| nyt | 1 | 1 | 11 | 23 |
 | breaking_defense | 1 | 1 | 12 | 24 |
 | spacenews | 9 | 16 | 18 | 35 |
 
@@ -3780,3 +3780,4 @@
 - **Feb 06, 02:14 AM** - NASA Eyes March Artemis II Launch After Hydrogen Leaks Delay Moon Mission (nyt)
 - **Feb 06, 02:49 AM** - Transcelestial to provide satellite laser communication terminals to Gilmour Space (spacenews)
 - **Feb 06, 03:24 AM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
+- **Feb 06, 03:59 AM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
