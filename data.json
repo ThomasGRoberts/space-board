@@ -1,9 +1,129 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-02-05T00:04:08.406547+00:00",
-    "trigger_count": 2,
+    "last_run_datetime": "2026-02-06T00:04:20.897804+00:00",
+    "trigger_count": 3,
     "current_item_id": "5bab346cfd14399efdcd4e1534e4113a",
     "data": [
+        {
+            "id": "5bab346cfd14399efdcd4e1534e4113a",
+            "source": "nyt",
+            "text": "At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops",
+            "source_link": "https://www.nytimes.com/2026/02/05/world/europe/starlink-blocks-russian-troops-access.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-05T23:49:02.403160Z",
+            "shown_at": [
+                "2026-02-05T23:49:03.777792Z"
+            ]
+        },
+        {
+            "id": "3b212010b055111201f3ac6d7ddfafe6",
+            "source": "breaking_defense",
+            "text": "To overcome Golden Dome ‘affordability’ hurdle, DoD needs acquisition reform, AI: Official",
+            "source_link": "https://breakingdefense.com/2026/02/to-overcome-golden-dome-affordability-hurdle-dod-needs-acquisition-reform-ai-official/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-05T21:29:15.918928Z",
+            "shown_at": [
+                "2026-02-05T21:29:17.126465Z"
+            ]
+        },
+        {
+            "id": "22987848fb303a69d23b1768f015ce59",
+            "source": "spacenews",
+            "text": "Deep space, dim objects: Why asteroid mining caught the Space Force’s eye",
+            "source_link": "https://spacenews.com/deep-space-and-dim-objects-why-the-space-force-cares-about-asteroids/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-05T15:24:13.090908Z",
+            "shown_at": [
+                "2026-02-05T15:24:14.346101Z"
+            ]
+        },
+        {
+            "id": "5324ba79b71047460990538702c19f1a",
+            "source": "spacenews",
+            "text": "Satellite servicing startup Starfish taps Quindar for mission operations software",
+            "source_link": "https://spacenews.com/satellite-servicing-startup-starfish-taps-quindar-for-mission-operations-software/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-05T14:49:33.132852Z",
+            "shown_at": [
+                "2026-02-05T14:49:34.283100Z"
+            ]
+        },
+        {
+            "id": "2f3abb024abcc1128a28874ee6cb9017",
+            "source": "spacenews",
+            "text": "Voyager Technologies and Max Space partner on lunar infrastructure",
+            "source_link": "https://spacenews.com/voyager-technologies-and-max-space-partner-on-lunar-infrastructure/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-05T14:14:21.137598Z",
+            "shown_at": [
+                "2026-02-05T14:14:22.198872Z"
+            ]
+        },
+        {
+            "id": "88e0cbc1e8743ab1ce2aa2a7470e187b",
+            "source": "spacenews",
+            "text": "FCC clears Logos to deploy more than 4,000 broadband satellites",
+            "source_link": "https://spacenews.com/fcc-clears-logos-to-deploy-more-than-4000-broadband-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-05T13:39:07.657200Z",
+            "shown_at": [
+                "2026-02-05T13:39:08.813690Z"
+            ]
+        },
+        {
+            "id": "2e5d1be8f935b2c05900d0222bcbcbaf",
+            "source": "spacenews",
+            "text": "Morpheus raises $15 million in Series A+ round",
+            "source_link": "https://spacenews.com/morpheus-raises-15-million-in-series-a-round/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-05T12:29:00.426556Z",
+            "shown_at": [
+                "2026-02-05T13:04:28.149843Z"
+            ]
+        },
+        {
+            "id": "8f0ba676746ee42cb19b203e02e551a8",
+            "source": "spacenews",
+            "text": "Space Force may be done with R-GPS, but Congress isn’t",
+            "source_link": "https://spacenews.com/space-force-may-be-done-with-r-gps-but-congress-isnt/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-05T12:29:00.426483Z",
+            "shown_at": [
+                "2026-02-05T12:29:01.528154Z"
+            ]
+        },
+        {
+            "id": "8ecc7bf37125b679e809e2252e73fb9b",
+            "source": "spacenews",
+            "text": "Vantor wins $5.3 million NGA contract to spot terrain changes using commercial satellite data",
+            "source_link": "https://spacenews.com/vantor-wins-5-3-million-nga-contract-to-spot-terrain-changes-using-commercial-satellite-data/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-05T11:19:10.163727Z",
+            "shown_at": [
+                "2026-02-05T11:19:11.477440Z"
+            ]
+        },
+        {
+            "id": "0282d7464221f200efadbb065692c9c9",
+            "source": "spacenews",
+            "text": "House committee advances NASA authorization bill",
+            "source_link": "https://spacenews.com/house-committee-advances-nasa-authorization-bill/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-05T00:43:57.710095Z",
+            "shown_at": [
+                "2026-02-05T00:43:58.702444Z"
+            ]
+        },
         {
             "id": "f7e9d7d65edc2f8cd4afb777157c8d44",
             "source": "spacenews",
@@ -9148,343 +9268,6 @@
                 "2025-09-27T10:38:09.120829Z",
                 "2025-09-29T19:37:33.156925Z",
                 "2025-09-30T09:33:35.246914Z"
-            ]
-        },
-        {
-            "id": "18ba07cb997f2502adc7dcda2ef5a5fb",
-            "source": "spacenews",
-            "text": "Space Forge and United Semiconductors to collaborate on space-based semiconductor manufacturing",
-            "source_link": "https://spacenews.com/space-forge-and-united-semiconductors-to-collaborate-on-space-based-semiconductor-manufacturing/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-24T18:13:49.103624Z",
-            "shown_at": [
-                "2025-09-24T18:13:49.866248Z",
-                "2025-09-28T14:54:05.166266Z",
-                "2025-09-29T18:37:50.297528Z",
-                "2025-09-30T05:02:17.950319Z"
-            ]
-        },
-        {
-            "id": "033d6e3b0c46a601327d4fa997d99432",
-            "source": "breaking_defense",
-            "text": "In a first, Space Force to require refueling capability for next-gen neighborhood watch sats",
-            "source_link": "https://breakingdefense.com/2025/09/in-shift-space-force-to-require-refueling-capability-for-next-gen-neighborhood-watch-sats/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-24T17:27:54.828010Z",
-            "shown_at": [
-                "2025-09-24T17:27:55.597147Z",
-                "2025-09-25T19:26:09.130508Z",
-                "2025-09-26T10:11:56.947546Z",
-                "2025-09-26T14:53:13.382178Z",
-                "2025-09-26T22:57:55.688748Z",
-                "2025-09-27T02:02:17.742754Z",
-                "2025-09-27T07:07:42.349273Z",
-                "2025-09-28T11:29:50.224838Z",
-                "2025-09-28T15:54:21.121922Z",
-                "2025-09-28T17:58:14.595883Z",
-                "2025-09-29T04:52:19.140243Z",
-                "2025-09-29T10:27:33.372120Z",
-                "2025-09-29T20:07:25.213828Z",
-                "2025-09-30T02:32:03.559850Z",
-                "2025-09-30T03:32:13.824806Z",
-                "2025-09-30T10:35:41.189374Z",
-                "2025-09-30T14:31:59.979202Z",
-                "2025-09-30T22:33:58.546356Z",
-                "2025-10-01T06:08:22.071870Z",
-                "2025-10-01T12:13:22.790348Z"
-            ]
-        },
-        {
-            "id": "d05f2bffadf657406d16c0c93433a5f2",
-            "source": "breaking_defense",
-            "text": "Uncertainty over satellite constellation means alt-GPS capability up in the air: Official",
-            "source_link": "https://breakingdefense.com/2025/09/uncertainty-over-satellite-constellation-means-alternate-gps-capability-up-in-the-air-as-well-official/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-24T14:14:11.796805Z",
-            "shown_at": [
-                "2025-09-24T14:14:12.840681Z",
-                "2025-09-24T21:52:12.914058Z",
-                "2025-09-27T00:00:09.303528Z",
-                "2025-09-27T11:22:26.001383Z",
-                "2025-09-27T21:23:54.441675Z",
-                "2025-09-28T01:56:24.938558Z",
-                "2025-09-28T03:52:38.228027Z",
-                "2025-09-29T13:53:47.439752Z",
-                "2025-09-29T23:05:29.722339Z",
-                "2025-09-30T05:51:37.994673Z",
-                "2025-10-01T07:26:53.875938Z"
-            ]
-        },
-        {
-            "id": "2cb9074844c96f35351ddc32a0d012b6",
-            "source": "spacenews",
-            "text": "Falcon 9 launches three space weather missions",
-            "source_link": "https://spacenews.com/falcon-9-launches-three-space-weather-missions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-24T13:44:04.499870Z",
-            "shown_at": [
-                "2025-09-24T14:00:01.477148Z",
-                "2025-09-25T01:27:49.855407Z",
-                "2025-09-25T02:42:14.688910Z",
-                "2025-09-26T01:10:06.489156Z",
-                "2025-09-26T17:26:13.669058Z",
-                "2025-09-27T19:47:45.460003Z",
-                "2025-09-30T19:53:19.819622Z",
-                "2025-10-01T03:27:45.555241Z"
-            ]
-        },
-        {
-            "id": "c8313808f7b9d7287332566c7b674f03",
-            "source": "spacenews",
-            "text": "Zeno Power secures americium-241 supply for space nuclear batteries",
-            "source_link": "https://spacenews.com/zeno-power-secures-americium-241-supply-for-space-nuclear-batteries/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-24T13:44:04.499813Z",
-            "shown_at": [
-                "2025-09-24T13:44:05.294211Z",
-                "2025-09-25T03:49:56.111666Z"
-            ]
-        },
-        {
-            "id": "9bf634f59e13e1346a98fd7a6ac874a9",
-            "source": "nyt",
-            "text": "NASA Launches IMAP and Space Weather Missions on SpaceX Rocket",
-            "source_link": "https://www.nytimes.com/2025/09/24/science/imap-nasa-spacex-launch.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-24T13:27:42.737513Z",
-            "shown_at": [
-                "2025-09-24T13:27:43.569601Z",
-                "2025-09-24T22:40:35.025405Z",
-                "2025-09-25T09:41:49.997289Z",
-                "2025-09-25T20:58:07.899333Z",
-                "2025-09-25T22:00:01.398201Z",
-                "2025-09-26T05:33:51.318045Z",
-                "2025-09-26T13:50:02.005546Z",
-                "2025-09-27T04:32:22.311757Z",
-                "2025-09-27T05:35:33.522465Z",
-                "2025-09-27T06:37:51.883814Z",
-                "2025-09-27T14:02:14.729133Z",
-                "2025-09-27T19:02:37.520234Z",
-                "2025-09-27T21:07:40.619962Z",
-                "2025-09-28T05:17:44.396533Z",
-                "2025-09-28T07:33:41.705676Z",
-                "2025-09-28T09:46:07.813724Z",
-                "2025-09-28T10:56:06.573737Z",
-                "2025-09-28T15:24:07.509453Z",
-                "2025-09-28T17:26:08.816922Z",
-                "2025-09-28T21:38:09.061727Z",
-                "2025-09-28T23:17:44.381674Z",
-                "2025-09-29T00:15:36.061412Z",
-                "2025-09-29T11:25:35.745741Z",
-                "2025-09-29T20:53:38.302478Z",
-                "2025-09-29T21:53:48.305087Z",
-                "2025-09-29T22:51:54.124362Z",
-                "2025-09-30T00:05:59.503917Z",
-                "2025-09-30T03:16:13.449557Z",
-                "2025-09-30T05:19:48.475281Z",
-                "2025-09-30T06:21:37.852119Z",
-                "2025-09-30T07:27:36.394746Z",
-                "2025-09-30T10:02:06.487925Z",
-                "2025-09-30T11:21:50.508040Z",
-                "2025-09-30T13:33:35.058281Z",
-                "2025-09-30T14:45:30.885581Z",
-                "2025-09-30T16:46:00.141323Z",
-                "2025-09-30T22:05:39.564049Z",
-                "2025-09-30T23:05:25.347746Z",
-                "2025-10-01T02:39:54.740609Z",
-                "2025-10-01T03:41:42.971031Z",
-                "2025-10-01T04:52:07.888639Z",
-                "2025-10-01T05:52:02.398494Z",
-                "2025-10-01T08:29:39.437449Z",
-                "2025-10-01T11:59:56.963962Z",
-                "2025-10-01T12:56:08.545296Z"
-            ]
-        },
-        {
-            "id": "883a6af360113d75a827ebdd6b03c65b",
-            "source": "spacenews",
-            "text": "We’re cluttering Earth’s orbit at record speed. Who’s going to clean it up?",
-            "source_link": "https://spacenews.com/were-cluttering-earths-orbit-at-record-speed-whos-going-to-clean-it-up/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-24T13:13:46.779989Z",
-            "shown_at": [
-                "2025-09-24T13:13:47.409718Z",
-                "2025-09-27T22:01:41.758817Z",
-                "2025-09-30T20:52:10.996692Z"
-            ]
-        },
-        {
-            "id": "7bdc64940bc451816e21fdb2ec0baa2c",
-            "source": "spacenews",
-            "text": "ESA backs Skynopy to bring adaptive modulation to Earth observation satellites",
-            "source_link": "https://spacenews.com/esa-backs-skynopy-to-bring-adaptive-modulation-to-earth-observation-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-24T12:42:11.880347Z",
-            "shown_at": [
-                "2025-09-24T12:42:12.989125Z"
-            ]
-        },
-        {
-            "id": "12a5e942ba1e906bf76443f8348fbf0c",
-            "source": "spacenews",
-            "text": "Geespace secures $281 million for IoT constellation and global HQ",
-            "source_link": "https://spacenews.com/geespace-secures-281-million-for-iot-constellation-and-global-hq/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-24T08:12:15.221928Z",
-            "shown_at": [
-                "2025-09-24T08:12:16.609186Z",
-                "2025-09-25T08:16:05.478174Z",
-                "2025-09-25T16:16:08.003837Z",
-                "2025-09-26T23:12:15.766603Z",
-                "2025-09-27T11:38:02.379452Z",
-                "2025-09-28T10:00:03.922987Z",
-                "2025-09-29T14:07:39.568480Z"
-            ]
-        },
-        {
-            "id": "92c67491e45caed41d6bde5638dff1d9",
-            "source": "spacenews",
-            "text": "Lynker and NOAA  to create tailored space-weather forecasts",
-            "source_link": "https://spacenews.com/lynker-and-noaa-to-create-tailored-space-weather-forecasts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-24T03:17:53.079222Z",
-            "shown_at": [
-                "2025-09-24T03:17:54.570777Z",
-                "2025-09-24T06:21:53.207370Z",
-                "2025-09-25T20:11:58.788752Z",
-                "2025-09-25T23:37:57.702183Z",
-                "2025-09-27T00:18:16.975996Z",
-                "2025-09-28T13:50:09.684872Z"
-            ]
-        },
-        {
-            "id": "0282d7464221f200efadbb065692c9c9",
-            "source": "spacenews",
-            "text": "House committee advances NASA authorization bill",
-            "source_link": "https://spacenews.com/house-committee-advances-nasa-authorization-bill/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-05T00:43:57.710095Z",
-            "shown_at": [
-                "2026-02-05T00:43:58.702444Z"
-            ]
-        },
-        {
-            "id": "8ecc7bf37125b679e809e2252e73fb9b",
-            "source": "spacenews",
-            "text": "Vantor wins $5.3 million NGA contract to spot terrain changes using commercial satellite data",
-            "source_link": "https://spacenews.com/vantor-wins-5-3-million-nga-contract-to-spot-terrain-changes-using-commercial-satellite-data/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-05T11:19:10.163727Z",
-            "shown_at": [
-                "2026-02-05T11:19:11.477440Z"
-            ]
-        },
-        {
-            "id": "8f0ba676746ee42cb19b203e02e551a8",
-            "source": "spacenews",
-            "text": "Space Force may be done with R-GPS, but Congress isn’t",
-            "source_link": "https://spacenews.com/space-force-may-be-done-with-r-gps-but-congress-isnt/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-05T12:29:00.426483Z",
-            "shown_at": [
-                "2026-02-05T12:29:01.528154Z"
-            ]
-        },
-        {
-            "id": "2e5d1be8f935b2c05900d0222bcbcbaf",
-            "source": "spacenews",
-            "text": "Morpheus raises $15 million in Series A+ round",
-            "source_link": "https://spacenews.com/morpheus-raises-15-million-in-series-a-round/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-05T12:29:00.426556Z",
-            "shown_at": [
-                "2026-02-05T13:04:28.149843Z"
-            ]
-        },
-        {
-            "id": "88e0cbc1e8743ab1ce2aa2a7470e187b",
-            "source": "spacenews",
-            "text": "FCC clears Logos to deploy more than 4,000 broadband satellites",
-            "source_link": "https://spacenews.com/fcc-clears-logos-to-deploy-more-than-4000-broadband-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-05T13:39:07.657200Z",
-            "shown_at": [
-                "2026-02-05T13:39:08.813690Z"
-            ]
-        },
-        {
-            "id": "2f3abb024abcc1128a28874ee6cb9017",
-            "source": "spacenews",
-            "text": "Voyager Technologies and Max Space partner on lunar infrastructure",
-            "source_link": "https://spacenews.com/voyager-technologies-and-max-space-partner-on-lunar-infrastructure/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-05T14:14:21.137598Z",
-            "shown_at": [
-                "2026-02-05T14:14:22.198872Z"
-            ]
-        },
-        {
-            "id": "5324ba79b71047460990538702c19f1a",
-            "source": "spacenews",
-            "text": "Satellite servicing startup Starfish taps Quindar for mission operations software",
-            "source_link": "https://spacenews.com/satellite-servicing-startup-starfish-taps-quindar-for-mission-operations-software/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-05T14:49:33.132852Z",
-            "shown_at": [
-                "2026-02-05T14:49:34.283100Z"
-            ]
-        },
-        {
-            "id": "22987848fb303a69d23b1768f015ce59",
-            "source": "spacenews",
-            "text": "Deep space, dim objects: Why asteroid mining caught the Space Force’s eye",
-            "source_link": "https://spacenews.com/deep-space-and-dim-objects-why-the-space-force-cares-about-asteroids/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-05T15:24:13.090908Z",
-            "shown_at": [
-                "2026-02-05T15:24:14.346101Z"
-            ]
-        },
-        {
-            "id": "3b212010b055111201f3ac6d7ddfafe6",
-            "source": "breaking_defense",
-            "text": "To overcome Golden Dome ‘affordability’ hurdle, DoD needs acquisition reform, AI: Official",
-            "source_link": "https://breakingdefense.com/2026/02/to-overcome-golden-dome-affordability-hurdle-dod-needs-acquisition-reform-ai-official/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-05T21:29:15.918928Z",
-            "shown_at": [
-                "2026-02-05T21:29:17.126465Z"
-            ]
-        },
-        {
-            "id": "5bab346cfd14399efdcd4e1534e4113a",
-            "source": "nyt",
-            "text": "At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops",
-            "source_link": "https://www.nytimes.com/2026/02/05/world/europe/starlink-blocks-russian-troops-access.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-05T23:49:02.403160Z",
-            "shown_at": [
-                "2026-02-05T23:49:03.777792Z"
             ]
         }
     ]
