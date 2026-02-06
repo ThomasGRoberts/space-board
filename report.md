@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 11 | 23 |
 | breaking_defense | 1 | 1 | 11 | 23 |
-| spacenews | 10 | 17 | 18 | 35 |
+| spacenews | 11 | 18 | 19 | 36 |
 
 # Shown Order
 
@@ -3791,3 +3791,4 @@
 - **Feb 06, 08:44 AM** - To overcome Golden Dome ‘affordability’ hurdle, DoD needs acquisition reform, AI: Official (breaking_defense)
 - **Feb 06, 09:19 AM** - NASA Eyes March Artemis II Launch After Hydrogen Leaks Delay Moon Mission (nyt)
 - **Feb 06, 09:54 AM** - CesiumAstro to scale operations with $470 million in equity and debt financing (spacenews)
+- **Feb 06, 10:29 AM** - China set for in-flight abort test of Mengzhou crew spacecraft (spacenews)
