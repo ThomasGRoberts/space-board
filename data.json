@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-06T00:04:20.897804+00:00",
-    "trigger_count": 6,
-    "current_item_id": "75f69c8f999b551f3e11999b8c318957",
+    "trigger_count": 0,
+    "current_item_id": "330013857f6b1b427f03091ecd045c1f",
     "data": [
         {
             "id": "5bab346cfd14399efdcd4e1534e4113a",
@@ -9477,9 +9477,12 @@
             "source": "spacenews",
             "text": "‘Now it’s time to turn the baton over to others. I hope there’s somebody else to grab that baton.’",
             "source_link": "https://spacenews.com/now-its-time-to-turn-the-baton-over-to-others-i-hope-theres-somebody-else-to-grab-that-baton/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-02-06T19:54:05.405676Z"
+            "fetched_datetime": "2026-02-06T19:54:05.405676Z",
+            "shown_at": [
+                "2026-02-06T22:14:08.540008Z"
+            ]
         }
     ]
 }

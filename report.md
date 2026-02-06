@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 9 | 21 |
 | breaking_defense | 1 | 2 | 11 | 23 |
-| spacenews | 15 | 23 | 20 | 37 |
+| spacenews | 15 | 23 | 21 | 38 |
 
 # Shown Order
 
@@ -3811,3 +3811,4 @@
 - **Feb 06, 08:29 PM** - ‘Serving the country and pushing the boundaries of human existence is very purposeful.’ (spacenews)
 - **Feb 06, 09:04 PM** - ‘I loved thinking about how to make science possible for America and for the world’ (spacenews)
 - **Feb 06, 09:39 PM** - ‘You need competent people in the government to direct and make decisions.’ (spacenews)
+- **Feb 06, 10:14 PM** - ‘Now it’s time to turn the baton over to others. I hope there’s somebody else to grab that baton.’ (spacenews)
