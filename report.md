@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 11 | 23 |
 | breaking_defense | 1 | 1 | 12 | 24 |
-| spacenews | 10 | 17 | 17 | 34 |
+| spacenews | 10 | 17 | 18 | 35 |
 
 # Shown Order
 
@@ -3784,3 +3784,4 @@
 - **Feb 06, 04:34 AM** - Tomorrow.io banks $175 million for DeepSky weather constellation (spacenews)
 - **Feb 06, 05:09 AM** - To overcome Golden Dome ‘affordability’ hurdle, DoD needs acquisition reform, AI: Official (breaking_defense)
 - **Feb 06, 05:44 AM** - NASA Delays Artemis II Moon Launch to March After Hydrogen Leaks (nyt)
+- **Feb 06, 06:19 AM** - Flight heritage? It isn’t what you think (spacenews)
