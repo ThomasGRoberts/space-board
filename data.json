@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-06T00:04:20.897804+00:00",
-    "trigger_count": 6,
-    "current_item_id": "00d6c47764757de04d9180c1f5ab6ae1",
+    "trigger_count": 0,
+    "current_item_id": "edd21d6432a60470877afca19bb04a45",
     "data": [
         {
             "id": "5bab346cfd14399efdcd4e1534e4113a",
@@ -9363,6 +9363,45 @@
             "shown_at": [
                 "2026-02-06T13:59:10.313195Z"
             ]
+        },
+        {
+            "id": "edd21d6432a60470877afca19bb04a45",
+            "source": "spacenews",
+            "text": "‘People knew that they could come to us to figure out how to get things done.’",
+            "source_link": "https://spacenews.com/people-knew-that-they-could-come-to-us-to-figure-out-how-to-get-things-done/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-06T16:54:07.918850Z",
+            "shown_at": [
+                "2026-02-06T16:54:09.143676Z"
+            ]
+        },
+        {
+            "id": "8f9697d23be3e928aeaae376cddea0c0",
+            "source": "spacenews",
+            "text": "‘As far as I know, I’m still the assistant administrator of NESDIS.’",
+            "source_link": "https://spacenews.com/as-far-as-i-know-im-still-the-assistant-administrator-of-nesdis/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-02-06T16:54:07.918912Z"
+        },
+        {
+            "id": "d54d386b6f85d3274c4f5e6ad251d9d1",
+            "source": "spacenews",
+            "text": "‘Leaders can be replaced, institutional knowledge cannot’",
+            "source_link": "https://spacenews.com/leaders-can-be-replaced-institutional-knowledge-cannot/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-02-06T16:54:07.918956Z"
+        },
+        {
+            "id": "d71ab884b57eff0908803bf0b5916d6e",
+            "source": "spacenews",
+            "text": "Exodus: The shrinking federal space workforce",
+            "source_link": "https://spacenews.com/exodus-the-shrinking-federal-space-workforce/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-02-06T16:54:07.918995Z"
         }
     ]
 }

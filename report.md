@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 12 | 24 |
 | breaking_defense | 1 | 1 | 13 | 25 |
-| spacenews | 6 | 14 | 15 | 32 |
+| spacenews | 10 | 18 | 16 | 33 |
 
 # Shown Order
 
@@ -3802,3 +3802,4 @@
 - **Feb 06, 03:09 PM** - NASA Eyes March Artemis II Launch After Hydrogen Leaks Delay Moon Mission (nyt)
 - **Feb 06, 03:44 PM** - China set for in-flight abort test of Mengzhou crew spacecraft (spacenews)
 - **Feb 06, 04:19 PM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
+- **Feb 06, 04:54 PM** - ‘People knew that they could come to us to figure out how to get things done.’ (spacenews)
