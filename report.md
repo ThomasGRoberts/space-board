@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 10 | 21 |
 | breaking_defense | 1 | 2 | 11 | 24 |
-| spacenews | 15 | 23 | 19 | 36 |
+| spacenews | 15 | 23 | 20 | 37 |
 
 # Shown Order
 
@@ -3810,3 +3810,4 @@
 - **Feb 06, 07:54 PM** - ‘We helped usher in the modern era of AI in NGA.’ (spacenews)
 - **Feb 06, 08:29 PM** - ‘Serving the country and pushing the boundaries of human existence is very purposeful.’ (spacenews)
 - **Feb 06, 09:04 PM** - ‘I loved thinking about how to make science possible for America and for the world’ (spacenews)
+- **Feb 06, 09:39 PM** - ‘You need competent people in the government to direct and make decisions.’ (spacenews)
