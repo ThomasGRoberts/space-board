@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 11 | 23 |
-| breaking_defense | 1 | 1 | 12 | 24 |
-| spacenews | 9 | 16 | 17 | 34 |
+| breaking_defense | 1 | 1 | 12 | 23 |
+| spacenews | 9 | 16 | 18 | 35 |
 
 # Shown Order
 
@@ -3778,3 +3778,4 @@
 - **Feb 06, 01:04 AM** - FAA approves Starship launches from LC-39A (spacenews)
 - **Feb 06, 01:39 AM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
 - **Feb 06, 02:14 AM** - NASA Eyes March Artemis II Launch After Hydrogen Leaks Delay Moon Mission (nyt)
+- **Feb 06, 02:49 AM** - Transcelestial to provide satellite laser communication terminals to Gilmour Space (spacenews)
