@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-06T00:04:20.897804+00:00",
-    "trigger_count": 6,
-    "current_item_id": "edd21d6432a60470877afca19bb04a45",
+    "trigger_count": 0,
+    "current_item_id": "8f9697d23be3e928aeaae376cddea0c0",
     "data": [
         {
             "id": "5bab346cfd14399efdcd4e1534e4113a",
@@ -9381,9 +9381,12 @@
             "source": "spacenews",
             "text": "‘As far as I know, I’m still the assistant administrator of NESDIS.’",
             "source_link": "https://spacenews.com/as-far-as-i-know-im-still-the-assistant-administrator-of-nesdis/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-02-06T16:54:07.918912Z"
+            "fetched_datetime": "2026-02-06T16:54:07.918912Z",
+            "shown_at": [
+                "2026-02-06T17:29:18.374410Z"
+            ]
         },
         {
             "id": "d54d386b6f85d3274c4f5e6ad251d9d1",
