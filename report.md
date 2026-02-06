@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 11 | 23 |
 | breaking_defense | 1 | 1 | 12 | 23 |
-| spacenews | 9 | 17 | 17 | 35 |
+| spacenews | 9 | 17 | 18 | 35 |
 
 # Shown Order
 
@@ -3775,3 +3775,4 @@
 - **Feb 05, 11:14 PM** - Space Force plans to create contractor pool for ‘physical/live’ training needs in summer (breaking_defense)
 - **Feb 05, 11:49 PM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
 - **Feb 06, 12:24 AM** - Pentagon casts Golden Dome as model for faster, risk-tolerant defense buying (spacenews)
+- **Feb 06, 01:04 AM** - FAA approves Starship launches from LC-39A (spacenews)

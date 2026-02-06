@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-06T00:04:20.897804+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8c9c92070f2b730b1d6062ff4c6f48bd",
+    "trigger_count": 0,
+    "current_item_id": "5d003e3b208ae2f4ef0c93d2594cbaa2",
     "data": [
         {
             "id": "5bab346cfd14399efdcd4e1534e4113a",
@@ -9287,9 +9287,12 @@
             "source": "spacenews",
             "text": "FAA approves Starship launches from LC-39A",
             "source_link": "https://spacenews.com/faa-approves-starship-launches-from-lc-39a/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-02-06T00:24:14.804886Z"
+            "fetched_datetime": "2026-02-06T00:24:14.804886Z",
+            "shown_at": [
+                "2026-02-06T01:04:39.557396Z"
+            ]
         }
     ]
 }
