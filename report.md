@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 10 | 22 |
 | breaking_defense | 2 | 2 | 13 | 25 |
-| spacenews | 10 | 18 | 17 | 34 |
+| spacenews | 15 | 23 | 18 | 35 |
 
 # Shown Order
 
@@ -3807,3 +3807,4 @@
 - **Feb 06, 06:04 PM** - ‘Leaders can be replaced, institutional knowledge cannot’ (spacenews)
 - **Feb 06, 06:38 PM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
 - **Feb 06, 07:19 PM** - Exodus: The shrinking federal space workforce (spacenews)
+- **Feb 06, 07:54 PM** - ‘We helped usher in the modern era of AI in NGA.’ (spacenews)

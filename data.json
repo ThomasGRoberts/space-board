@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-06T00:04:20.897804+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d71ab884b57eff0908803bf0b5916d6e",
+    "trigger_count": 0,
+    "current_item_id": "0ce4a43e08331388ea8b6035762af89b",
     "data": [
         {
             "id": "5bab346cfd14399efdcd4e1534e4113a",
@@ -9423,6 +9423,54 @@
             "shown_at": [
                 "2026-02-06T18:38:56.937677Z"
             ]
+        },
+        {
+            "id": "0ce4a43e08331388ea8b6035762af89b",
+            "source": "spacenews",
+            "text": "‘We helped usher in the modern era of AI in NGA.’",
+            "source_link": "https://spacenews.com/we-helped-usher-in-the-modern-era-of-ai-in-nga/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-06T19:54:05.405456Z",
+            "shown_at": [
+                "2026-02-06T19:54:06.822118Z"
+            ]
+        },
+        {
+            "id": "4492df805ebbcb33ee775a83fcf8a54c",
+            "source": "spacenews",
+            "text": "‘Serving the country and pushing the boundaries of human existence is very purposeful.’",
+            "source_link": "https://spacenews.com/serving-the-country-and-pushing-the-boundaries-of-human-existence-is-very-purposeful/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-02-06T19:54:05.405533Z"
+        },
+        {
+            "id": "67f9d5bcbc3e611c8aec106d9944aaab",
+            "source": "spacenews",
+            "text": "‘I loved thinking about how to make science possible for America and for the world’",
+            "source_link": "https://spacenews.com/i-loved-thinking-about-how-to-make-science-possible-for-america-and-for-the-world/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-02-06T19:54:05.405590Z"
+        },
+        {
+            "id": "75f69c8f999b551f3e11999b8c318957",
+            "source": "spacenews",
+            "text": "‘You need competent people in the government to direct and make decisions.’",
+            "source_link": "https://spacenews.com/you-need-competent-people-in-the-government-to-direct-and-make-decisions/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-02-06T19:54:05.405641Z"
+        },
+        {
+            "id": "330013857f6b1b427f03091ecd045c1f",
+            "source": "spacenews",
+            "text": "‘Now it’s time to turn the baton over to others. I hope there’s somebody else to grab that baton.’",
+            "source_link": "https://spacenews.com/now-its-time-to-turn-the-baton-over-to-others-i-hope-theres-somebody-else-to-grab-that-baton/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-02-06T19:54:05.405676Z"
         }
     ]
 }
