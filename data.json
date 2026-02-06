@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-06T00:04:20.897804+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3b212010b055111201f3ac6d7ddfafe6",
+    "trigger_count": 0,
+    "current_item_id": "d8a6eb363e7c4ab0959255288e57e701",
     "data": [
         {
             "id": "5bab346cfd14399efdcd4e1534e4113a",
@@ -9484,6 +9484,18 @@
             "fetched_datetime": "2026-02-06T19:54:05.405676Z",
             "shown_at": [
                 "2026-02-06T22:14:08.540008Z"
+            ]
+        },
+        {
+            "id": "d8a6eb363e7c4ab0959255288e57e701",
+            "source": "spacenews",
+            "text": "Viasat sees orbital data center partnership opportunity",
+            "source_link": "https://spacenews.com/viasat-sees-orbital-data-center-partnership-opportunity/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-06T23:59:28.371975Z",
+            "shown_at": [
+                "2026-02-06T23:59:29.674222Z"
             ]
         }
     ]

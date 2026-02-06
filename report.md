@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 0 | 1 | 9 | 21 |
 | breaking_defense | 1 | 2 | 11 | 23 |
-| spacenews | 15 | 23 | 20 | 37 |
+| spacenews | 16 | 24 | 21 | 38 |
 
 # Shown Order
 
@@ -3814,3 +3814,4 @@
 - **Feb 06, 10:14 PM** - ‘Now it’s time to turn the baton over to others. I hope there’s somebody else to grab that baton.’ (spacenews)
 - **Feb 06, 10:49 PM** - NASA Delays Artemis II Moon Launch to March After Hydrogen Leaks (nyt)
 - **Feb 06, 11:24 PM** - To overcome Golden Dome ‘affordability’ hurdle, DoD needs acquisition reform, AI: Official (breaking_defense)
+- **Feb 06, 11:59 PM** - Viasat sees orbital data center partnership opportunity (spacenews)
