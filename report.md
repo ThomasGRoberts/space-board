@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 9 | 20 |
+| nyt | 1 | 1 | 10 | 21 |
 | breaking_defense | 1 | 2 | 11 | 23 |
 | spacenews | 15 | 23 | 20 | 38 |
 
@@ -3812,3 +3812,4 @@
 - **Feb 06, 09:04 PM** - ‘I loved thinking about how to make science possible for America and for the world’ (spacenews)
 - **Feb 06, 09:39 PM** - ‘You need competent people in the government to direct and make decisions.’ (spacenews)
 - **Feb 06, 10:14 PM** - ‘Now it’s time to turn the baton over to others. I hope there’s somebody else to grab that baton.’ (spacenews)
+- **Feb 06, 10:49 PM** - NASA Delays Artemis II Moon Launch to March After Hydrogen Leaks (nyt)
