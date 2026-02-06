@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 12 | 24 |
-| breaking_defense | 1 | 1 | 13 | 25 |
+| breaking_defense | 1 | 1 | 14 | 26 |
 | spacenews | 6 | 14 | 15 | 32 |
 
 # Shown Order
@@ -3801,3 +3801,4 @@
 - **Feb 06, 02:34 PM** - To overcome Golden Dome ‘affordability’ hurdle, DoD needs acquisition reform, AI: Official (breaking_defense)
 - **Feb 06, 03:09 PM** - NASA Eyes March Artemis II Launch After Hydrogen Leaks Delay Moon Mission (nyt)
 - **Feb 06, 03:44 PM** - China set for in-flight abort test of Mengzhou crew spacecraft (spacenews)
+- **Feb 06, 04:19 PM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
