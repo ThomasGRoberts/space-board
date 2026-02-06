@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 10 | 22 |
+| nyt | 1 | 1 | 11 | 23 |
 | breaking_defense | 1 | 1 | 12 | 24 |
 | spacenews | 10 | 17 | 18 | 35 |
 
@@ -3789,3 +3789,4 @@
 - **Feb 06, 07:29 AM** - NASA Delays Artemis II Moon Launch to March After Hydrogen Leaks (nyt)
 - **Feb 06, 08:04 AM** - NASA examining hydrogen leaks during Artemis 2 fueling test (spacenews)
 - **Feb 06, 08:44 AM** - To overcome Golden Dome ‘affordability’ hurdle, DoD needs acquisition reform, AI: Official (breaking_defense)
+- **Feb 06, 09:19 AM** - NASA Eyes March Artemis II Launch After Hydrogen Leaks Delay Moon Mission (nyt)
