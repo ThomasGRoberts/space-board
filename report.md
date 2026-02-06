@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 10 | 22 |
 | breaking_defense | 2 | 2 | 12 | 24 |
-| spacenews | 15 | 23 | 18 | 35 |
+| spacenews | 15 | 23 | 19 | 36 |
 
 # Shown Order
 
@@ -3808,3 +3808,4 @@
 - **Feb 06, 06:38 PM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
 - **Feb 06, 07:19 PM** - Exodus: The shrinking federal space workforce (spacenews)
 - **Feb 06, 07:54 PM** - ‘We helped usher in the modern era of AI in NGA.’ (spacenews)
+- **Feb 06, 08:29 PM** - ‘Serving the country and pushing the boundaries of human existence is very purposeful.’ (spacenews)
