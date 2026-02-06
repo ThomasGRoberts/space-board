@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 11 | 23 |
-| breaking_defense | 1 | 1 | 11 | 23 |
+| breaking_defense | 1 | 1 | 12 | 24 |
 | spacenews | 10 | 17 | 18 | 35 |
 
 # Shown Order
@@ -3782,3 +3782,4 @@
 - **Feb 06, 03:24 AM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
 - **Feb 06, 03:59 AM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
 - **Feb 06, 04:34 AM** - Tomorrow.io banks $175 million for DeepSky weather constellation (spacenews)
+- **Feb 06, 05:09 AM** - To overcome Golden Dome ‘affordability’ hurdle, DoD needs acquisition reform, AI: Official (breaking_defense)
