@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 10 | 22 |
+| nyt | 1 | 1 | 11 | 23 |
 | breaking_defense | 1 | 1 | 12 | 24 |
 | spacenews | 10 | 18 | 18 | 35 |
 
@@ -3793,3 +3793,4 @@
 - **Feb 06, 09:54 AM** - CesiumAstro to scale operations with $470 million in equity and debt financing (spacenews)
 - **Feb 06, 10:29 AM** - China set for in-flight abort test of Mengzhou crew spacecraft (spacenews)
 - **Feb 06, 11:04 AM** - Space Force plans to create contractor pool for ‘physical/live’ training needs in summer (breaking_defense)
+- **Feb 06, 11:39 AM** - NASA Eyes March Artemis II Launch After Hydrogen Leaks Delay Moon Mission (nyt)
