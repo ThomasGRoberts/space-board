@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-06T00:04:20.897804+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4492df805ebbcb33ee775a83fcf8a54c",
+    "trigger_count": 0,
+    "current_item_id": "67f9d5bcbc3e611c8aec106d9944aaab",
     "data": [
         {
             "id": "5bab346cfd14399efdcd4e1534e4113a",
@@ -9453,9 +9453,12 @@
             "source": "spacenews",
             "text": "‘I loved thinking about how to make science possible for America and for the world’",
             "source_link": "https://spacenews.com/i-loved-thinking-about-how-to-make-science-possible-for-america-and-for-the-world/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-02-06T19:54:05.405590Z"
+            "fetched_datetime": "2026-02-06T19:54:05.405590Z",
+            "shown_at": [
+                "2026-02-06T21:04:58.716350Z"
+            ]
         },
         {
             "id": "75f69c8f999b551f3e11999b8c318957",
