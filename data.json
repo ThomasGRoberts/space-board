@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-06T00:04:20.897804+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d54d386b6f85d3274c4f5e6ad251d9d1",
+    "trigger_count": 0,
+    "current_item_id": "b95df1ea9b0d9b2fe4e86ba5a7077c9e",
     "data": [
         {
             "id": "5bab346cfd14399efdcd4e1534e4113a",
@@ -9408,6 +9408,18 @@
             "shown": false,
             "type": "news",
             "fetched_datetime": "2026-02-06T16:54:07.918995Z"
+        },
+        {
+            "id": "b95df1ea9b0d9b2fe4e86ba5a7077c9e",
+            "source": "breaking_defense",
+            "text": "Army’s new space career field won’t ‘encroach’ on Space Force: Official",
+            "source_link": "https://breakingdefense.com/2026/02/armys-new-space-career-field-wont-encroach-on-space-force-official/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-06T18:38:55.737291Z",
+            "shown_at": [
+                "2026-02-06T18:38:56.937677Z"
+            ]
         }
     ]
 }
