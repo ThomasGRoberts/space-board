@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 11 | 23 |
-| breaking_defense | 1 | 1 | 12 | 24 |
-| spacenews | 8 | 15 | 17 | 34 |
+| breaking_defense | 1 | 1 | 12 | 23 |
+| spacenews | 10 | 17 | 18 | 35 |
 
 # Shown Order
 
@@ -3774,3 +3774,4 @@
 - **Feb 05, 10:39 PM** - FireSat adds orbit-visualization software to help firefighters plan around satellite passes (spacenews)
 - **Feb 05, 11:14 PM** - Space Force plans to create contractor pool for ‘physical/live’ training needs in summer (breaking_defense)
 - **Feb 05, 11:49 PM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
+- **Feb 06, 12:24 AM** - Pentagon casts Golden Dome as model for faster, risk-tolerant defense buying (spacenews)
