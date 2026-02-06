@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-06T00:04:20.897804+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5bab346cfd14399efdcd4e1534e4113a",
+    "trigger_count": 0,
+    "current_item_id": "0032a4f4e6575debe9de9c3c420cefd5",
     "data": [
         {
             "id": "5bab346cfd14399efdcd4e1534e4113a",
@@ -9297,6 +9297,18 @@
             "fetched_datetime": "2026-02-06T00:24:14.804886Z",
             "shown_at": [
                 "2026-02-06T01:04:39.557396Z"
+            ]
+        },
+        {
+            "id": "0032a4f4e6575debe9de9c3c420cefd5",
+            "source": "spacenews",
+            "text": "Tomorrow.io banks $175 million for DeepSky weather constellation",
+            "source_link": "https://spacenews.com/tomorrow-io-banks-175-million-for-deepsky-weather-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-06T04:34:29.593984Z",
+            "shown_at": [
+                "2026-02-06T04:34:30.393356Z"
             ]
         }
     ]
