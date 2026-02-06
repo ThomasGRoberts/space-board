@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 10 | 22 |
+| nyt | 1 | 1 | 11 | 23 |
 | breaking_defense | 1 | 1 | 12 | 24 |
 | spacenews | 10 | 17 | 18 | 35 |
 
@@ -3786,3 +3786,4 @@
 - **Feb 06, 05:44 AM** - NASA Delays Artemis II Moon Launch to March After Hydrogen Leaks (nyt)
 - **Feb 06, 06:19 AM** - Flight heritage? It isn’t what you think (spacenews)
 - **Feb 06, 06:54 AM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
+- **Feb 06, 07:29 AM** - NASA Delays Artemis II Moon Launch to March After Hydrogen Leaks (nyt)
