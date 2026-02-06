@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 11 | 23 |
-| breaking_defense | 1 | 1 | 11 | 23 |
+| nyt | 1 | 1 | 11 | 22 |
+| breaking_defense | 1 | 1 | 12 | 24 |
 | spacenews | 9 | 17 | 18 | 35 |
 
 # Shown Order
@@ -3776,3 +3776,4 @@
 - **Feb 05, 11:49 PM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
 - **Feb 06, 12:24 AM** - Pentagon casts Golden Dome as model for faster, risk-tolerant defense buying (spacenews)
 - **Feb 06, 01:04 AM** - FAA approves Starship launches from LC-39A (spacenews)
+- **Feb 06, 01:39 AM** - SpaceX unveils ‘Stargaze’ space tracking system (breaking_defense)
