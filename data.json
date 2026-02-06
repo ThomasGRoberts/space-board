@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-06T00:04:20.897804+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ef94ba79016e6eb094b63711a4fee81f",
+    "trigger_count": 0,
+    "current_item_id": "4e5c5c8428213f975bb4f25b7dfe31fa",
     "data": [
         {
             "id": "5bab346cfd14399efdcd4e1534e4113a",
@@ -9346,6 +9346,18 @@
             "fetched_datetime": "2026-02-06T12:14:14.379561Z",
             "shown_at": [
                 "2026-02-06T12:14:15.498537Z"
+            ]
+        },
+        {
+            "id": "4e5c5c8428213f975bb4f25b7dfe31fa",
+            "source": "spacenews",
+            "text": "NASA selects two Earth science missions for development",
+            "source_link": "https://spacenews.com/nasa-selects-two-earth-science-missions-for-development/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-06T13:59:09.220997Z",
+            "shown_at": [
+                "2026-02-06T13:59:10.313195Z"
             ]
         }
     ]
