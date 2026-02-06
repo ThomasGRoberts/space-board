@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-06T00:04:20.897804+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2f082adbad4a217c4be3a1f92362d118",
+    "trigger_count": 0,
+    "current_item_id": "c4005a9ad57f73f6e69267562a8bf19d",
     "data": [
         {
             "id": "5bab346cfd14399efdcd4e1534e4113a",
@@ -9332,6 +9332,18 @@
             "fetched_datetime": "2026-02-06T10:29:16.071448Z",
             "shown_at": [
                 "2026-02-06T10:29:16.755600Z"
+            ]
+        },
+        {
+            "id": "c4005a9ad57f73f6e69267562a8bf19d",
+            "source": "spacenews",
+            "text": "Over the moon and under the radar",
+            "source_link": "https://spacenews.com/over-the-moon-and-under-the-radar/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-06T12:14:14.379561Z",
+            "shown_at": [
+                "2026-02-06T12:14:15.498537Z"
             ]
         }
     ]
