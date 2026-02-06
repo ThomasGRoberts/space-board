@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 11 | 22 |
 | breaking_defense | 2 | 2 | 13 | 25 |
-| spacenews | 10 | 18 | 16 | 34 |
+| spacenews | 10 | 18 | 17 | 35 |
 
 # Shown Order
 
@@ -3806,3 +3806,4 @@
 - **Feb 06, 05:29 PM** - ‘As far as I know, I’m still the assistant administrator of NESDIS.’ (spacenews)
 - **Feb 06, 06:04 PM** - ‘Leaders can be replaced, institutional knowledge cannot’ (spacenews)
 - **Feb 06, 06:38 PM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
+- **Feb 06, 07:19 PM** - Exodus: The shrinking federal space workforce (spacenews)

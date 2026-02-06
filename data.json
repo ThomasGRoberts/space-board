@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-06T00:04:20.897804+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b95df1ea9b0d9b2fe4e86ba5a7077c9e",
+    "trigger_count": 0,
+    "current_item_id": "d71ab884b57eff0908803bf0b5916d6e",
     "data": [
         {
             "id": "5bab346cfd14399efdcd4e1534e4113a",
@@ -9405,9 +9405,12 @@
             "source": "spacenews",
             "text": "Exodus: The shrinking federal space workforce",
             "source_link": "https://spacenews.com/exodus-the-shrinking-federal-space-workforce/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-02-06T16:54:07.918995Z"
+            "fetched_datetime": "2026-02-06T16:54:07.918995Z",
+            "shown_at": [
+                "2026-02-06T19:19:16.144351Z"
+            ]
         },
         {
             "id": "b95df1ea9b0d9b2fe4e86ba5a7077c9e",
