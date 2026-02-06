@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 13 | 24 |
 | breaking_defense | 1 | 1 | 13 | 25 |
-| spacenews | 6 | 15 | 14 | 32 |
+| spacenews | 6 | 15 | 15 | 33 |
 
 # Shown Order
 
@@ -3800,3 +3800,4 @@
 - **Feb 06, 01:59 PM** - NASA selects two Earth science missions for development (spacenews)
 - **Feb 06, 02:34 PM** - To overcome Golden Dome ‘affordability’ hurdle, DoD needs acquisition reform, AI: Official (breaking_defense)
 - **Feb 06, 03:09 PM** - NASA Eyes March Artemis II Launch After Hydrogen Leaks Delay Moon Mission (nyt)
+- **Feb 06, 03:44 PM** - China set for in-flight abort test of Mengzhou crew spacecraft (spacenews)
