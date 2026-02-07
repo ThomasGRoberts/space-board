@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 21 | 19 | 36 |
-| breaking_defense | 1 | 2 | 11 | 23 |
+| breaking_defense | 1 | 2 | 12 | 24 |
 | nyt | 0 | 1 | 10 | 22 |
 
 # Shown Order
@@ -3694,3 +3694,4 @@
 - **Feb 07, 12:18 PM** - To overcome Golden Dome ‘affordability’ hurdle, DoD needs acquisition reform, AI: Official (breaking_defense)
 - **Feb 07, 12:53 PM** - SmallSat Alliance shifts focus from proliferation to coordination (spacenews)
 - **Feb 07, 01:29 PM** - NASA Delays Artemis II Moon Launch to March After Hydrogen Leaks (nyt)
+- **Feb 07, 02:08 PM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
