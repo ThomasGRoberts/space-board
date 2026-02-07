@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 19 | 17 | 34 |
+| spacenews | 9 | 19 | 18 | 35 |
 | breaking_defense | 0 | 2 | 11 | 24 |
 | nyt | 0 | 1 | 12 | 23 |
 
@@ -3703,3 +3703,4 @@
 - **Feb 07, 05:44 PM** - SmallSat Alliance shifts focus from proliferation to coordination (spacenews)
 - **Feb 07, 06:19 PM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
 - **Feb 07, 06:54 PM** - NASA Delays Artemis II Moon Launch to March After Hydrogen Leaks (nyt)
+- **Feb 07, 07:29 PM** - NASA selects two Earth science missions for development (spacenews)
