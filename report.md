@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 15 | 24 | 20 | 38 |
+| spacenews | 15 | 24 | 21 | 39 |
 | breaking_defense | 1 | 2 | 11 | 23 |
 | nyt | 0 | 1 | 9 | 20 |
 
@@ -3677,3 +3677,4 @@
 - **Feb 07, 02:19 AM** - As satellites become targets, Space Force plans a broader role (spacenews)
 - **Feb 07, 02:54 AM** - NASA Eyes March Artemis II Launch After Hydrogen Leaks Delay Moon Mission (nyt)
 - **Feb 07, 03:28 AM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
+- **Feb 07, 04:04 AM** - Voyager Technologies and Max Space partner on lunar infrastructure (spacenews)
