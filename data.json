@@ -1,9 +1,214 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-02-06T00:04:20.897804+00:00",
-    "trigger_count": 0,
+    "last_run_datetime": "2026-02-07T00:04:24.536194+00:00",
+    "trigger_count": 1,
     "current_item_id": "d8a6eb363e7c4ab0959255288e57e701",
     "data": [
+        {
+            "id": "d8a6eb363e7c4ab0959255288e57e701",
+            "source": "spacenews",
+            "text": "Viasat sees orbital data center partnership opportunity",
+            "source_link": "https://spacenews.com/viasat-sees-orbital-data-center-partnership-opportunity/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-06T23:59:28.371975Z",
+            "shown_at": [
+                "2026-02-06T23:59:29.674222Z"
+            ]
+        },
+        {
+            "id": "330013857f6b1b427f03091ecd045c1f",
+            "source": "spacenews",
+            "text": "‘Now it’s time to turn the baton over to others. I hope there’s somebody else to grab that baton.’",
+            "source_link": "https://spacenews.com/now-its-time-to-turn-the-baton-over-to-others-i-hope-theres-somebody-else-to-grab-that-baton/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-06T19:54:05.405676Z",
+            "shown_at": [
+                "2026-02-06T22:14:08.540008Z"
+            ]
+        },
+        {
+            "id": "75f69c8f999b551f3e11999b8c318957",
+            "source": "spacenews",
+            "text": "‘You need competent people in the government to direct and make decisions.’",
+            "source_link": "https://spacenews.com/you-need-competent-people-in-the-government-to-direct-and-make-decisions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-06T19:54:05.405641Z",
+            "shown_at": [
+                "2026-02-06T21:39:07.358697Z"
+            ]
+        },
+        {
+            "id": "67f9d5bcbc3e611c8aec106d9944aaab",
+            "source": "spacenews",
+            "text": "‘I loved thinking about how to make science possible for America and for the world’",
+            "source_link": "https://spacenews.com/i-loved-thinking-about-how-to-make-science-possible-for-america-and-for-the-world/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-06T19:54:05.405590Z",
+            "shown_at": [
+                "2026-02-06T21:04:58.716350Z"
+            ]
+        },
+        {
+            "id": "4492df805ebbcb33ee775a83fcf8a54c",
+            "source": "spacenews",
+            "text": "‘Serving the country and pushing the boundaries of human existence is very purposeful.’",
+            "source_link": "https://spacenews.com/serving-the-country-and-pushing-the-boundaries-of-human-existence-is-very-purposeful/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-06T19:54:05.405533Z",
+            "shown_at": [
+                "2026-02-06T20:29:08.482776Z"
+            ]
+        },
+        {
+            "id": "0ce4a43e08331388ea8b6035762af89b",
+            "source": "spacenews",
+            "text": "‘We helped usher in the modern era of AI in NGA.’",
+            "source_link": "https://spacenews.com/we-helped-usher-in-the-modern-era-of-ai-in-nga/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-06T19:54:05.405456Z",
+            "shown_at": [
+                "2026-02-06T19:54:06.822118Z"
+            ]
+        },
+        {
+            "id": "b95df1ea9b0d9b2fe4e86ba5a7077c9e",
+            "source": "breaking_defense",
+            "text": "Army’s new space career field won’t ‘encroach’ on Space Force: Official",
+            "source_link": "https://breakingdefense.com/2026/02/armys-new-space-career-field-wont-encroach-on-space-force-official/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-06T18:38:55.737291Z",
+            "shown_at": [
+                "2026-02-06T18:38:56.937677Z"
+            ]
+        },
+        {
+            "id": "d71ab884b57eff0908803bf0b5916d6e",
+            "source": "spacenews",
+            "text": "Exodus: The shrinking federal space workforce",
+            "source_link": "https://spacenews.com/exodus-the-shrinking-federal-space-workforce/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-06T16:54:07.918995Z",
+            "shown_at": [
+                "2026-02-06T19:19:16.144351Z"
+            ]
+        },
+        {
+            "id": "d54d386b6f85d3274c4f5e6ad251d9d1",
+            "source": "spacenews",
+            "text": "‘Leaders can be replaced, institutional knowledge cannot’",
+            "source_link": "https://spacenews.com/leaders-can-be-replaced-institutional-knowledge-cannot/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-06T16:54:07.918956Z",
+            "shown_at": [
+                "2026-02-06T18:04:32.685495Z"
+            ]
+        },
+        {
+            "id": "8f9697d23be3e928aeaae376cddea0c0",
+            "source": "spacenews",
+            "text": "‘As far as I know, I’m still the assistant administrator of NESDIS.’",
+            "source_link": "https://spacenews.com/as-far-as-i-know-im-still-the-assistant-administrator-of-nesdis/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-06T16:54:07.918912Z",
+            "shown_at": [
+                "2026-02-06T17:29:18.374410Z"
+            ]
+        },
+        {
+            "id": "edd21d6432a60470877afca19bb04a45",
+            "source": "spacenews",
+            "text": "‘People knew that they could come to us to figure out how to get things done.’",
+            "source_link": "https://spacenews.com/people-knew-that-they-could-come-to-us-to-figure-out-how-to-get-things-done/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-06T16:54:07.918850Z",
+            "shown_at": [
+                "2026-02-06T16:54:09.143676Z"
+            ]
+        },
+        {
+            "id": "4e5c5c8428213f975bb4f25b7dfe31fa",
+            "source": "spacenews",
+            "text": "NASA selects two Earth science missions for development",
+            "source_link": "https://spacenews.com/nasa-selects-two-earth-science-missions-for-development/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-06T13:59:09.220997Z",
+            "shown_at": [
+                "2026-02-06T13:59:10.313195Z"
+            ]
+        },
+        {
+            "id": "c4005a9ad57f73f6e69267562a8bf19d",
+            "source": "spacenews",
+            "text": "Over the moon and under the radar",
+            "source_link": "https://spacenews.com/over-the-moon-and-under-the-radar/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-06T12:14:14.379561Z",
+            "shown_at": [
+                "2026-02-06T12:14:15.498537Z"
+            ]
+        },
+        {
+            "id": "485a5e8fa322d717601e1001eb5cf1fc",
+            "source": "spacenews",
+            "text": "China set for in-flight abort test of Mengzhou crew spacecraft",
+            "source_link": "https://spacenews.com/china-set-for-in-flight-abort-test-of-mengzhou-crew-spacecraft/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-06T10:29:16.071448Z",
+            "shown_at": [
+                "2026-02-06T10:29:16.755600Z",
+                "2026-02-06T15:44:32.989035Z"
+            ]
+        },
+        {
+            "id": "0032a4f4e6575debe9de9c3c420cefd5",
+            "source": "spacenews",
+            "text": "Tomorrow.io banks $175 million for DeepSky weather constellation",
+            "source_link": "https://spacenews.com/tomorrow-io-banks-175-million-for-deepsky-weather-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-06T04:34:29.593984Z",
+            "shown_at": [
+                "2026-02-06T04:34:30.393356Z"
+            ]
+        },
+        {
+            "id": "5d003e3b208ae2f4ef0c93d2594cbaa2",
+            "source": "spacenews",
+            "text": "FAA approves Starship launches from LC-39A",
+            "source_link": "https://spacenews.com/faa-approves-starship-launches-from-lc-39a/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-06T00:24:14.804886Z",
+            "shown_at": [
+                "2026-02-06T01:04:39.557396Z"
+            ]
+        },
+        {
+            "id": "8c9c92070f2b730b1d6062ff4c6f48bd",
+            "source": "spacenews",
+            "text": "Pentagon casts Golden Dome as model for faster, risk-tolerant defense buying",
+            "source_link": "https://spacenews.com/pentagon-casts-golden-dome-as-model-for-faster-risk-tolerant-defense-buying/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-06T00:24:14.804809Z",
+            "shown_at": [
+                "2026-02-06T00:24:15.735943Z"
+            ]
+        },
         {
             "id": "5bab346cfd14399efdcd4e1534e4113a",
             "source": "nyt",
@@ -8960,542 +9165,6 @@
             "shown_at": [
                 "2025-09-27T15:45:46.985780Z",
                 "2025-10-01T10:03:56.904317Z"
-            ]
-        },
-        {
-            "id": "edd23e72fba5a063be31c8a823ff854d",
-            "source": "spacenews",
-            "text": "‘Left of launch’ becomes central focus in next-generation missile defense",
-            "source_link": "https://spacenews.com/left-of-launch-becomes-central-focus-in-next-generation-missile-defense/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-26T22:13:52.790948Z",
-            "shown_at": [
-                "2025-09-26T22:13:53.422352Z"
-            ]
-        },
-        {
-            "id": "93e54b6d2b4605910c09502b1d5f25cd",
-            "source": "spacenews",
-            "text": "Beyond Gravity to supply robotic arms for Swissto12 small GEO satellites",
-            "source_link": "https://spacenews.com/beyond-gravity-to-supply-robotic-arm-thrusters-for-swissto12-small-geos/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-26T20:32:18.362507Z",
-            "shown_at": [
-                "2025-09-26T20:32:19.044624Z",
-                "2025-09-27T09:30:09.389377Z"
-            ]
-        },
-        {
-            "id": "4ad3636e8b983a90ed341e641ed4e74a",
-            "source": "spacenews",
-            "text": "Beyond Gravity to supply robotic arm thrusters for Swissto12 small GEOs",
-            "source_link": "https://spacenews.com/beyond-gravity-to-supply-robotic-arm-thrusters-for-swissto12-small-geos/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-26T18:43:22.437854Z",
-            "shown_at": [
-                "2025-09-26T18:43:23.110852Z",
-                "2025-09-27T17:48:06.600408Z",
-                "2025-09-30T00:35:46.392990Z",
-                "2025-10-02T17:09:49.622975Z",
-                "2025-10-03T12:05:42.127415Z"
-            ]
-        },
-        {
-            "id": "a11113ed2dc701adaa4732a82b19729f",
-            "source": "spacenews",
-            "text": "New contract signed between the NSSTC and U-Space: A new milestone in UAE-France cooperation in space innovation",
-            "source_link": "https://spacenews.com/new-contract-signed-between-the-nsstc-and-u-space-a-new-milestone-in-uae-france-cooperation-in-space-innovation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-26T15:12:26.837889Z",
-            "shown_at": [
-                "2025-09-26T15:12:27.610457Z",
-                "2025-09-27T18:47:49.012269Z",
-                "2025-09-28T07:02:31.847001Z",
-                "2025-10-02T09:18:08.314956Z"
-            ]
-        },
-        {
-            "id": "eed2016f15b3846500ce6af8cb98e056",
-            "source": "spacenews",
-            "text": "Redefining space diplomacy for the 21st century: from orbits to outcomes",
-            "source_link": "https://spacenews.com/redefining-space-diplomacy-for-the-21st-century-from-orbits-to-outcomes/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-26T11:17:53.087811Z",
-            "shown_at": [
-                "2025-09-26T11:17:54.029998Z",
-                "2025-09-28T11:15:51.266338Z",
-                "2025-09-29T15:05:34.887755Z"
-            ]
-        },
-        {
-            "id": "34813b2aa43cc3553bfb941de3722e1e",
-            "source": "nyt",
-            "text": "NASA Artemis II Astronauts Aim to Make Space Great for All",
-            "source_link": "https://www.nytimes.com/2025/09/26/science/nasa-astronauts-moon-artemis-ii.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-26T09:20:02.350672Z",
-            "shown_at": [
-                "2025-09-26T09:20:03.874947Z",
-                "2025-09-26T21:05:39.593055Z",
-                "2025-09-27T07:37:49.858771Z",
-                "2025-09-27T08:42:08.326975Z",
-                "2025-09-27T11:52:13.550256Z",
-                "2025-09-27T18:02:24.342695Z",
-                "2025-09-27T22:24:09.806303Z",
-                "2025-09-27T23:45:15.204377Z",
-                "2025-09-28T01:27:43.964004Z",
-                "2025-09-28T03:20:36.196878Z",
-                "2025-09-28T06:30:20.213830Z",
-                "2025-09-28T11:59:30.168660Z",
-                "2025-09-28T19:30:03.073251Z",
-                "2025-09-29T01:15:48.813790Z",
-                "2025-09-29T05:52:10.549198Z",
-                "2025-09-29T08:07:47.124160Z",
-                "2025-09-29T09:12:03.090510Z",
-                "2025-09-29T10:13:55.301902Z",
-                "2025-09-29T13:37:43.390374Z",
-                "2025-09-29T16:51:51.057487Z",
-                "2025-09-29T18:53:59.688931Z",
-                "2025-09-29T19:51:46.022496Z",
-                "2025-09-30T01:03:42.850995Z",
-                "2025-09-30T02:18:03.839176Z",
-                "2025-09-30T04:19:56.104654Z",
-                "2025-09-30T09:05:45.727048Z",
-                "2025-09-30T12:35:42.418842Z",
-                "2025-09-30T15:43:40.570611Z",
-                "2025-09-30T18:23:42.048962Z",
-                "2025-09-30T19:40:02.369538Z",
-                "2025-09-30T20:37:32.640826Z",
-                "2025-10-01T01:40:13.445970Z",
-                "2025-10-01T07:02:27.655761Z",
-                "2025-10-01T09:35:45.273444Z",
-                "2025-10-01T10:31:48.329745Z",
-                "2025-10-01T13:53:31.237082Z",
-                "2025-10-01T14:59:53.617274Z",
-                "2025-10-01T16:07:54.171052Z",
-                "2025-10-01T17:23:23.515599Z",
-                "2025-10-01T18:23:32.359782Z",
-                "2025-10-01T19:35:49.812217Z",
-                "2025-10-01T20:53:57.576303Z",
-                "2025-10-01T22:15:44.940229Z",
-                "2025-10-01T23:27:44.013475Z",
-                "2025-10-02T00:25:46.693107Z",
-                "2025-10-02T01:25:58.639841Z",
-                "2025-10-02T02:25:48.702008Z",
-                "2025-10-02T03:23:55.329410Z",
-                "2025-10-02T04:39:16.389734Z",
-                "2025-10-02T05:37:44.280585Z",
-                "2025-10-02T06:39:36.158337Z",
-                "2025-10-02T07:59:42.124580Z",
-                "2025-10-02T09:02:16.839583Z",
-                "2025-10-02T10:05:49.140333Z",
-                "2025-10-02T11:35:24.012774Z",
-                "2025-10-02T12:39:51.978576Z",
-                "2025-10-02T13:39:50.147043Z",
-                "2025-10-02T14:37:34.129961Z",
-                "2025-10-02T15:36:00.611142Z",
-                "2025-10-02T16:39:32.882623Z",
-                "2025-10-02T17:39:51.147327Z",
-                "2025-10-02T20:27:53.516736Z",
-                "2025-10-03T02:15:36.959922Z",
-                "2025-10-03T03:15:49.342661Z",
-                "2025-10-03T05:12:00.330408Z",
-                "2025-10-03T07:23:58.354144Z"
-            ]
-        },
-        {
-            "id": "a6c7aec1da9107da55e5fe9ddfa47a34",
-            "source": "spacenews",
-            "text": "NASA modifies Dream Chaser ISS cargo contract as Sierra Space shifts to defense work",
-            "source_link": "https://spacenews.com/nasa-modifies-dream-chaser-iss-cargo-contract-as-sierra-space-shifts-to-defense-work/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-26T00:10:10.696651Z",
-            "shown_at": [
-                "2025-09-26T00:10:11.688100Z",
-                "2025-09-30T12:49:53.449072Z",
-                "2025-10-02T22:59:54.649424Z"
-            ]
-        },
-        {
-            "id": "1ee55f62eab7da398cdd3271593c0a3a",
-            "source": "breaking_defense",
-            "text": "German military to invest $41B in space capabilities",
-            "source_link": "https://breakingdefense.com/2025/09/german-military-to-invest-41b-in-space-capabilities/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-25T20:43:26.614355Z",
-            "shown_at": [
-                "2025-09-25T20:43:27.255243Z",
-                "2025-09-25T23:52:23.561691Z",
-                "2025-09-26T12:36:04.559855Z",
-                "2025-09-26T13:35:49.264693Z",
-                "2025-09-28T21:08:04.946863Z",
-                "2025-09-29T06:18:03.292665Z",
-                "2025-09-29T19:07:46.514720Z",
-                "2025-09-29T21:09:40.102531Z",
-                "2025-09-30T13:19:36.236734Z",
-                "2025-09-30T18:53:56.157038Z",
-                "2025-09-30T21:35:22.201434Z",
-                "2025-10-01T14:30:10.295222Z",
-                "2025-10-01T15:35:37.355939Z",
-                "2025-10-01T19:55:52.610219Z",
-                "2025-10-02T03:10:00.257219Z"
-            ]
-        },
-        {
-            "id": "ff9061b4f2c247a440b3bcaee4035b6c",
-            "source": "spacenews",
-            "text": "Artemis 2 could launch as soon as February",
-            "source_link": "https://spacenews.com/artemis-2-could-launch-as-soon-as-february/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-25T19:09:58.064340Z",
-            "shown_at": [
-                "2025-09-25T19:09:58.766852Z",
-                "2025-09-26T13:19:50.566093Z",
-                "2025-09-27T23:21:58.326857Z",
-                "2025-10-01T10:59:41.523718Z"
-            ]
-        },
-        {
-            "id": "7f2e15a576376ee54442561880cbf20e",
-            "source": "spacenews",
-            "text": "L3Harris looks to scale production of hybrid satcom radios after successful Air Force tests",
-            "source_link": "https://spacenews.com/l3harris-looks-to-scale-production-of-hybrid-satcom-radios-after-successful-air-force-tests/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-25T18:55:35.690766Z",
-            "shown_at": [
-                "2025-09-25T18:55:36.620296Z",
-                "2025-09-28T20:52:20.105289Z",
-                "2025-09-29T09:57:48.740573Z",
-                "2025-10-01T06:25:57.453347Z"
-            ]
-        },
-        {
-            "id": "13b26265dcc9b3a9309d83c973c1c686",
-            "source": "breaking_defense",
-            "text": "SPACECOM discussing expansion of joint space monitoring missions with allies",
-            "source_link": "https://breakingdefense.com/2025/09/spacecom-discussing-expansion-of-joint-space-monitoring-missions-with-allies/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-25T15:45:53.750401Z",
-            "shown_at": [
-                "2025-09-25T15:45:54.875740Z",
-                "2025-09-26T17:08:10.637397Z",
-                "2025-09-27T04:02:28.839542Z",
-                "2025-09-27T14:15:56.587490Z",
-                "2025-09-28T05:37:40.327601Z",
-                "2025-09-28T13:32:26.436360Z",
-                "2025-09-29T18:07:54.203759Z",
-                "2025-10-01T01:55:49.004010Z",
-                "2025-10-01T02:53:41.735362Z",
-                "2025-10-01T05:07:56.074837Z",
-                "2025-10-01T13:25:42.732785Z",
-                "2025-10-01T16:37:54.020536Z",
-                "2025-10-01T17:39:40.865301Z",
-                "2025-10-02T06:23:33.076374Z"
-            ]
-        },
-        {
-            "id": "88023ce49dae72742e6127cb79ce3b98",
-            "source": "spacenews",
-            "text": "NASA awards Katalyst Space contract to reboost Swift spacecraft",
-            "source_link": "https://spacenews.com/nasa-awards-katalyst-space-contract-to-reboost-swift-spacecraft/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-25T15:13:43.216878Z",
-            "shown_at": [
-                "2025-09-25T15:13:43.853601Z",
-                "2025-09-26T02:10:05.398280Z",
-                "2025-09-26T21:44:08.738672Z",
-                "2025-09-29T06:49:23.295865Z"
-            ]
-        },
-        {
-            "id": "707d0b8a76fb08f66bcfa93cb0b2ba33",
-            "source": "spacenews",
-            "text": "NASA Selects Proteus Space for Novel Rapid Spacecraft Conceptual Design Study",
-            "source_link": "https://spacenews.com/nasa-selects-proteus-space-for-novel-rapid-spacecraft-conceptual-design-study/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-25T14:44:09.734456Z",
-            "shown_at": [
-                "2025-09-25T14:44:10.720286Z",
-                "2025-09-30T01:32:02.776736Z",
-                "2025-10-01T15:16:16.197068Z"
-            ]
-        },
-        {
-            "id": "c5e8056c4ec42aefd3ccb0346e45479f",
-            "source": "spacenews",
-            "text": "SatNews and SpaceNews Partner to Launch EU Space Defence Track at SmallSat Europe 2026",
-            "source_link": "https://spacenews.com/satnews-and-spacenews-partner-to-launch-eu-space-defence-track-at-smallsat-europe-2026/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-25T12:04:26.211534Z",
-            "shown_at": [
-                "2025-09-25T12:04:27.620173Z",
-                "2025-09-27T05:20:15.612408Z",
-                "2025-09-27T06:20:08.687190Z",
-                "2025-09-28T05:56:08.815181Z",
-                "2025-09-28T19:46:10.139032Z"
-            ]
-        },
-        {
-            "id": "ba696fc45bf21c7080df8c406095c4fe",
-            "source": "spacenews",
-            "text": "Redwire to provide solar arrays for Axiom space station module",
-            "source_link": "https://spacenews.com/redwire-to-provide-solar-arrays-for-axiom-space-station-module/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-25T11:32:24.391501Z",
-            "shown_at": [
-                "2025-09-25T11:32:25.364717Z",
-                "2025-09-26T04:16:10.192211Z",
-                "2025-09-29T21:40:01.806015Z",
-                "2025-10-01T16:21:50.970640Z"
-            ]
-        },
-        {
-            "id": "c514b7633629b6476285eeefc3158600",
-            "source": "spacenews",
-            "text": "Next chapter in space defense: Satellites that never stop moving",
-            "source_link": "https://spacenews.com/next-chapter-in-space-defense-satellites-that-never-stop-moving/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-24T21:10:02.776281Z",
-            "shown_at": [
-                "2025-09-24T21:10:03.915834Z",
-                "2025-09-26T06:02:33.871476Z",
-                "2025-09-30T02:59:49.373073Z"
-            ]
-        },
-        {
-            "id": "9daf41d9b1199ab39996f915ac1e1efc",
-            "source": "spacenews",
-            "text": "ESCAPADE launch on New Glenn planned for late October or early November",
-            "source_link": "https://spacenews.com/escapade-launch-on-new-glenn-planned-for-late-october-or-early-november/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-24T20:52:36.244975Z",
-            "shown_at": [
-                "2025-09-24T20:52:36.944217Z",
-                "2025-09-27T10:38:09.120829Z",
-                "2025-09-29T19:37:33.156925Z",
-                "2025-09-30T09:33:35.246914Z"
-            ]
-        },
-        {
-            "id": "8c9c92070f2b730b1d6062ff4c6f48bd",
-            "source": "spacenews",
-            "text": "Pentagon casts Golden Dome as model for faster, risk-tolerant defense buying",
-            "source_link": "https://spacenews.com/pentagon-casts-golden-dome-as-model-for-faster-risk-tolerant-defense-buying/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-06T00:24:14.804809Z",
-            "shown_at": [
-                "2026-02-06T00:24:15.735943Z"
-            ]
-        },
-        {
-            "id": "5d003e3b208ae2f4ef0c93d2594cbaa2",
-            "source": "spacenews",
-            "text": "FAA approves Starship launches from LC-39A",
-            "source_link": "https://spacenews.com/faa-approves-starship-launches-from-lc-39a/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-06T00:24:14.804886Z",
-            "shown_at": [
-                "2026-02-06T01:04:39.557396Z"
-            ]
-        },
-        {
-            "id": "0032a4f4e6575debe9de9c3c420cefd5",
-            "source": "spacenews",
-            "text": "Tomorrow.io banks $175 million for DeepSky weather constellation",
-            "source_link": "https://spacenews.com/tomorrow-io-banks-175-million-for-deepsky-weather-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-06T04:34:29.593984Z",
-            "shown_at": [
-                "2026-02-06T04:34:30.393356Z"
-            ]
-        },
-        {
-            "id": "485a5e8fa322d717601e1001eb5cf1fc",
-            "source": "spacenews",
-            "text": "China set for in-flight abort test of Mengzhou crew spacecraft",
-            "source_link": "https://spacenews.com/china-set-for-in-flight-abort-test-of-mengzhou-crew-spacecraft/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-06T10:29:16.071448Z",
-            "shown_at": [
-                "2026-02-06T10:29:16.755600Z",
-                "2026-02-06T15:44:32.989035Z"
-            ]
-        },
-        {
-            "id": "c4005a9ad57f73f6e69267562a8bf19d",
-            "source": "spacenews",
-            "text": "Over the moon and under the radar",
-            "source_link": "https://spacenews.com/over-the-moon-and-under-the-radar/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-06T12:14:14.379561Z",
-            "shown_at": [
-                "2026-02-06T12:14:15.498537Z"
-            ]
-        },
-        {
-            "id": "4e5c5c8428213f975bb4f25b7dfe31fa",
-            "source": "spacenews",
-            "text": "NASA selects two Earth science missions for development",
-            "source_link": "https://spacenews.com/nasa-selects-two-earth-science-missions-for-development/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-06T13:59:09.220997Z",
-            "shown_at": [
-                "2026-02-06T13:59:10.313195Z"
-            ]
-        },
-        {
-            "id": "edd21d6432a60470877afca19bb04a45",
-            "source": "spacenews",
-            "text": "‘People knew that they could come to us to figure out how to get things done.’",
-            "source_link": "https://spacenews.com/people-knew-that-they-could-come-to-us-to-figure-out-how-to-get-things-done/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-06T16:54:07.918850Z",
-            "shown_at": [
-                "2026-02-06T16:54:09.143676Z"
-            ]
-        },
-        {
-            "id": "8f9697d23be3e928aeaae376cddea0c0",
-            "source": "spacenews",
-            "text": "‘As far as I know, I’m still the assistant administrator of NESDIS.’",
-            "source_link": "https://spacenews.com/as-far-as-i-know-im-still-the-assistant-administrator-of-nesdis/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-06T16:54:07.918912Z",
-            "shown_at": [
-                "2026-02-06T17:29:18.374410Z"
-            ]
-        },
-        {
-            "id": "d54d386b6f85d3274c4f5e6ad251d9d1",
-            "source": "spacenews",
-            "text": "‘Leaders can be replaced, institutional knowledge cannot’",
-            "source_link": "https://spacenews.com/leaders-can-be-replaced-institutional-knowledge-cannot/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-06T16:54:07.918956Z",
-            "shown_at": [
-                "2026-02-06T18:04:32.685495Z"
-            ]
-        },
-        {
-            "id": "d71ab884b57eff0908803bf0b5916d6e",
-            "source": "spacenews",
-            "text": "Exodus: The shrinking federal space workforce",
-            "source_link": "https://spacenews.com/exodus-the-shrinking-federal-space-workforce/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-06T16:54:07.918995Z",
-            "shown_at": [
-                "2026-02-06T19:19:16.144351Z"
-            ]
-        },
-        {
-            "id": "b95df1ea9b0d9b2fe4e86ba5a7077c9e",
-            "source": "breaking_defense",
-            "text": "Army’s new space career field won’t ‘encroach’ on Space Force: Official",
-            "source_link": "https://breakingdefense.com/2026/02/armys-new-space-career-field-wont-encroach-on-space-force-official/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-06T18:38:55.737291Z",
-            "shown_at": [
-                "2026-02-06T18:38:56.937677Z"
-            ]
-        },
-        {
-            "id": "0ce4a43e08331388ea8b6035762af89b",
-            "source": "spacenews",
-            "text": "‘We helped usher in the modern era of AI in NGA.’",
-            "source_link": "https://spacenews.com/we-helped-usher-in-the-modern-era-of-ai-in-nga/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-06T19:54:05.405456Z",
-            "shown_at": [
-                "2026-02-06T19:54:06.822118Z"
-            ]
-        },
-        {
-            "id": "4492df805ebbcb33ee775a83fcf8a54c",
-            "source": "spacenews",
-            "text": "‘Serving the country and pushing the boundaries of human existence is very purposeful.’",
-            "source_link": "https://spacenews.com/serving-the-country-and-pushing-the-boundaries-of-human-existence-is-very-purposeful/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-06T19:54:05.405533Z",
-            "shown_at": [
-                "2026-02-06T20:29:08.482776Z"
-            ]
-        },
-        {
-            "id": "67f9d5bcbc3e611c8aec106d9944aaab",
-            "source": "spacenews",
-            "text": "‘I loved thinking about how to make science possible for America and for the world’",
-            "source_link": "https://spacenews.com/i-loved-thinking-about-how-to-make-science-possible-for-america-and-for-the-world/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-06T19:54:05.405590Z",
-            "shown_at": [
-                "2026-02-06T21:04:58.716350Z"
-            ]
-        },
-        {
-            "id": "75f69c8f999b551f3e11999b8c318957",
-            "source": "spacenews",
-            "text": "‘You need competent people in the government to direct and make decisions.’",
-            "source_link": "https://spacenews.com/you-need-competent-people-in-the-government-to-direct-and-make-decisions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-06T19:54:05.405641Z",
-            "shown_at": [
-                "2026-02-06T21:39:07.358697Z"
-            ]
-        },
-        {
-            "id": "330013857f6b1b427f03091ecd045c1f",
-            "source": "spacenews",
-            "text": "‘Now it’s time to turn the baton over to others. I hope there’s somebody else to grab that baton.’",
-            "source_link": "https://spacenews.com/now-its-time-to-turn-the-baton-over-to-others-i-hope-theres-somebody-else-to-grab-that-baton/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-06T19:54:05.405676Z",
-            "shown_at": [
-                "2026-02-06T22:14:08.540008Z"
-            ]
-        },
-        {
-            "id": "d8a6eb363e7c4ab0959255288e57e701",
-            "source": "spacenews",
-            "text": "Viasat sees orbital data center partnership opportunity",
-            "source_link": "https://spacenews.com/viasat-sees-orbital-data-center-partnership-opportunity/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-06T23:59:28.371975Z",
-            "shown_at": [
-                "2026-02-06T23:59:29.674222Z"
             ]
         }
     ]
