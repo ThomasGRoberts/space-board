@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-07T00:04:24.536194+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5bab346cfd14399efdcd4e1534e4113a",
+    "trigger_count": 0,
+    "current_item_id": "d470c25e8fc3e697af0ea06fecf6264f",
     "data": [
         {
             "id": "d8a6eb363e7c4ab0959255288e57e701",
@@ -9233,6 +9233,18 @@
             "fetched_datetime": "2026-02-07T15:59:09.118417Z",
             "shown_at": [
                 "2026-02-07T15:59:10.246391Z"
+            ]
+        },
+        {
+            "id": "d470c25e8fc3e697af0ea06fecf6264f",
+            "source": "spacenews",
+            "text": "SpaceX IPO could drive investor interest in other space companies",
+            "source_link": "https://spacenews.com/spacex-ipo-could-drive-investor-interest-in-other-space-companies/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-07T21:13:59.174822Z",
+            "shown_at": [
+                "2026-02-07T21:14:00.340835Z"
             ]
         }
     ]
