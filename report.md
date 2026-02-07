@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 22 | 20 | 37 |
 | breaking_defense | 1 | 2 | 11 | 23 |
-| nyt | 0 | 1 | 10 | 21 |
+| nyt | 0 | 1 | 10 | 22 |
 
 # Shown Order
 
@@ -3693,3 +3693,4 @@
 - **Feb 07, 11:44 AM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
 - **Feb 07, 12:18 PM** - To overcome Golden Dome ‘affordability’ hurdle, DoD needs acquisition reform, AI: Official (breaking_defense)
 - **Feb 07, 12:53 PM** - SmallSat Alliance shifts focus from proliferation to coordination (spacenews)
+- **Feb 07, 01:29 PM** - NASA Delays Artemis II Moon Launch to March After Hydrogen Leaks (nyt)
