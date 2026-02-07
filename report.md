@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 19 | 18 | 34 |
+| spacenews | 9 | 19 | 19 | 35 |
 | breaking_defense | 1 | 2 | 11 | 24 |
 | nyt | 0 | 1 | 11 | 23 |
 
@@ -3700,3 +3700,4 @@
 - **Feb 07, 03:59 PM** - Space Force awards $54.5 million contract to Starfish Space for GEO servicing vehicle (spacenews)
 - **Feb 07, 04:34 PM** - To overcome Golden Dome ‘affordability’ hurdle, DoD needs acquisition reform, AI: Official (breaking_defense)
 - **Feb 07, 05:09 PM** - NASA Delays Artemis II Moon Launch to March After Hydrogen Leaks (nyt)
+- **Feb 07, 05:44 PM** - SmallSat Alliance shifts focus from proliferation to coordination (spacenews)
