@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 15 | 24 | 20 | 38 |
-| breaking_defense | 1 | 2 | 11 | 22 |
+| breaking_defense | 1 | 2 | 11 | 23 |
 | nyt | 0 | 1 | 10 | 21 |
 
 # Shown Order
@@ -3673,3 +3673,4 @@
 - **Feb 06, 11:59 PM** - Viasat sees orbital data center partnership opportunity (spacenews)
 - **Feb 07, 12:34 AM** - NASA seeks to bolster workforce, reduce reliance on contractors (spacenews)
 - **Feb 07, 01:09 AM** - NASA Delays Artemis II Moon Launch to March After Hydrogen Leaks (nyt)
+- **Feb 07, 01:44 AM** - To overcome Golden Dome ‘affordability’ hurdle, DoD needs acquisition reform, AI: Official (breaking_defense)
