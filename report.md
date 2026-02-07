@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 22 | 19 | 37 |
-| breaking_defense | 1 | 2 | 12 | 23 |
+| spacenews | 13 | 22 | 20 | 38 |
+| breaking_defense | 1 | 2 | 11 | 23 |
 | nyt | 0 | 1 | 10 | 21 |
 
 # Shown Order
@@ -3692,3 +3692,4 @@
 - **Feb 07, 11:09 AM** - China launches reusable spaceplane on fourth secretive orbital mission (spacenews)
 - **Feb 07, 11:44 AM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
 - **Feb 07, 12:18 PM** - To overcome Golden Dome ‘affordability’ hurdle, DoD needs acquisition reform, AI: Official (breaking_defense)
+- **Feb 07, 12:53 PM** - SmallSat Alliance shifts focus from proliferation to coordination (spacenews)
