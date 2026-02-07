@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 19 | 20 | 35 |
-| breaking_defense | 1 | 2 | 10 | 24 |
+| breaking_defense | 1 | 2 | 11 | 25 |
 | nyt | 0 | 1 | 10 | 22 |
 
 # Shown Order
@@ -3698,3 +3698,4 @@
 - **Feb 07, 02:44 PM** - Voyager Technologies and Max Space partner on lunar infrastructure (spacenews)
 - **Feb 07, 03:19 PM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
 - **Feb 07, 03:59 PM** - Space Force awards $54.5 million contract to Starfish Space for GEO servicing vehicle (spacenews)
+- **Feb 07, 04:34 PM** - To overcome Golden Dome ‘affordability’ hurdle, DoD needs acquisition reform, AI: Official (breaking_defense)
