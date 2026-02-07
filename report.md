@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 14 | 24 | 20 | 38 |
 | breaking_defense | 1 | 2 | 11 | 23 |
-| nyt | 0 | 1 | 10 | 20 |
+| nyt | 0 | 1 | 10 | 21 |
 
 # Shown Order
 
@@ -3690,3 +3690,4 @@
 - **Feb 07, 09:59 AM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
 - **Feb 07, 10:34 AM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
 - **Feb 07, 11:09 AM** - China launches reusable spaceplane on fourth secretive orbital mission (spacenews)
+- **Feb 07, 11:44 AM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
