@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 20 | 14 | 35 |
 | breaking_defense | 0 | 1 | 13 | 24 |
-| nyt | 0 | 1 | 13 | 22 |
+| nyt | 0 | 1 | 14 | 23 |
 
 # Shown Order
 
@@ -3708,3 +3708,4 @@
 - **Feb 07, 08:39 PM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
 - **Feb 07, 09:14 PM** - SpaceX IPO could drive investor interest in other space companies (spacenews)
 - **Feb 07, 09:49 PM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
+- **Feb 07, 10:24 PM** - NASA Delays Artemis II Moon Launch to March After Hydrogen Leaks (nyt)
