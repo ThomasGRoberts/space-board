@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 19 | 16 | 35 |
 | breaking_defense | 0 | 2 | 12 | 24 |
-| nyt | 0 | 1 | 12 | 22 |
+| nyt | 0 | 1 | 13 | 23 |
 
 # Shown Order
 
@@ -3705,3 +3705,4 @@
 - **Feb 07, 06:54 PM** - NASA Delays Artemis II Moon Launch to March After Hydrogen Leaks (nyt)
 - **Feb 07, 07:29 PM** - NASA selects two Earth science missions for development (spacenews)
 - **Feb 07, 08:04 PM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
+- **Feb 07, 08:39 PM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
