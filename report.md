@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 18 | 19 | 34 |
+| spacenews | 13 | 19 | 20 | 35 |
 | breaking_defense | 1 | 2 | 11 | 24 |
 | nyt | 0 | 1 | 10 | 23 |
 
@@ -3697,3 +3697,4 @@
 - **Feb 07, 02:08 PM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
 - **Feb 07, 02:44 PM** - Voyager Technologies and Max Space partner on lunar infrastructure (spacenews)
 - **Feb 07, 03:19 PM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
+- **Feb 07, 03:59 PM** - Space Force awards $54.5 million contract to Starfish Space for GEO servicing vehicle (spacenews)
