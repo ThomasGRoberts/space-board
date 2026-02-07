@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-07T00:04:24.536194+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b95df1ea9b0d9b2fe4e86ba5a7077c9e",
+    "trigger_count": 0,
+    "current_item_id": "6ae9a2faa499dd516419c91341868a8f",
     "data": [
         {
             "id": "d8a6eb363e7c4ab0959255288e57e701",
@@ -9194,6 +9194,18 @@
             "fetched_datetime": "2026-02-07T00:34:19.934123Z",
             "shown_at": [
                 "2026-02-07T00:34:20.980108Z"
+            ]
+        },
+        {
+            "id": "6ae9a2faa499dd516419c91341868a8f",
+            "source": "spacenews",
+            "text": "China launches reusable spaceplane on fourth secretive orbital mission",
+            "source_link": "https://spacenews.com/china-launches-reusable-spaceplane-on-fourth-secretive-orbital-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-07T11:09:05.607140Z",
+            "shown_at": [
+                "2026-02-07T11:09:06.944986Z"
             ]
         }
     ]
