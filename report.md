@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 19 | 19 | 35 |
 | breaking_defense | 1 | 2 | 11 | 24 |
-| nyt | 0 | 1 | 10 | 22 |
+| nyt | 0 | 1 | 11 | 23 |
 
 # Shown Order
 
@@ -3699,3 +3699,4 @@
 - **Feb 07, 03:19 PM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
 - **Feb 07, 03:59 PM** - Space Force awards $54.5 million contract to Starfish Space for GEO servicing vehicle (spacenews)
 - **Feb 07, 04:34 PM** - To overcome Golden Dome ‘affordability’ hurdle, DoD needs acquisition reform, AI: Official (breaking_defense)
+- **Feb 07, 05:09 PM** - NASA Delays Artemis II Moon Launch to March After Hydrogen Leaks (nyt)
