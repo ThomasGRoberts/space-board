@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 14 | 24 | 20 | 38 |
+| spacenews | 14 | 24 | 21 | 39 |
 | breaking_defense | 1 | 2 | 11 | 23 |
 | nyt | 0 | 1 | 9 | 20 |
 
@@ -3683,3 +3683,4 @@
 - **Feb 07, 05:54 AM** - House NASA bill seeks details on lunar lander and spacesuit development (spacenews)
 - **Feb 07, 06:29 AM** - NASA Delays Artemis II Moon Launch to March After Hydrogen Leaks (nyt)
 - **Feb 07, 07:04 AM** - To overcome Golden Dome ‘affordability’ hurdle, DoD needs acquisition reform, AI: Official (breaking_defense)
+- **Feb 07, 07:39 AM** - ‘I loved thinking about how to make science possible for America and for the world’ (spacenews)
