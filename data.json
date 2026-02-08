@@ -1,9 +1,69 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-02-07T00:04:24.536194+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2026-02-08T00:04:55.052353+00:00",
+    "trigger_count": 6,
     "current_item_id": "1e838290c9ff78d77a4d8fd2c961a4f3",
     "data": [
+        {
+            "id": "1e838290c9ff78d77a4d8fd2c961a4f3",
+            "source": "spacenews",
+            "text": "Falcon 9 returns to flight after upper stage engine investigation",
+            "source_link": "https://spacenews.com/falcon-9-returns-to-flight-after-upper-stage-engine-investigation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-07T23:34:20.713966Z",
+            "shown_at": [
+                "2026-02-07T23:34:21.842926Z"
+            ]
+        },
+        {
+            "id": "d470c25e8fc3e697af0ea06fecf6264f",
+            "source": "spacenews",
+            "text": "SpaceX IPO could drive investor interest in other space companies",
+            "source_link": "https://spacenews.com/spacex-ipo-could-drive-investor-interest-in-other-space-companies/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-07T21:13:59.174822Z",
+            "shown_at": [
+                "2026-02-07T21:14:00.340835Z"
+            ]
+        },
+        {
+            "id": "8e8505e56d0ba7ae793d0fb21555dc18",
+            "source": "spacenews",
+            "text": "Space Force awards $54.5 million contract to Starfish Space for GEO servicing vehicle",
+            "source_link": "https://spacenews.com/space-force-awards-54-5-million-contract-to-starfish-space-for-geo-servicing-vehicle/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-07T15:59:09.118417Z",
+            "shown_at": [
+                "2026-02-07T15:59:10.246391Z"
+            ]
+        },
+        {
+            "id": "6ae9a2faa499dd516419c91341868a8f",
+            "source": "spacenews",
+            "text": "China launches reusable spaceplane on fourth secretive orbital mission",
+            "source_link": "https://spacenews.com/china-launches-reusable-spaceplane-on-fourth-secretive-orbital-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-07T11:09:05.607140Z",
+            "shown_at": [
+                "2026-02-07T11:09:06.944986Z"
+            ]
+        },
+        {
+            "id": "76b2bb2f832d86c575ccd4b3e79112a4",
+            "source": "spacenews",
+            "text": "NASA seeks to bolster workforce, reduce reliance on contractors",
+            "source_link": "https://spacenews.com/nasa-seeks-to-bolster-workforce-reduce-reliance-on-contractors/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-07T00:34:19.934123Z",
+            "shown_at": [
+                "2026-02-07T00:34:20.980108Z"
+            ]
+        },
         {
             "id": "d8a6eb363e7c4ab0959255288e57e701",
             "source": "spacenews",
@@ -9124,142 +9184,6 @@
                 "2025-09-29T05:33:49.283643Z",
                 "2025-09-30T17:12:16.041561Z",
                 "2025-10-04T02:43:58.055798Z"
-            ]
-        },
-        {
-            "id": "27c0c64644890c90c0c0723e5327a825",
-            "source": "spacenews",
-            "text": "IAI’s Game-Changing Communication Satellites: Revolutionizing Global Connectivity",
-            "source_link": "https://spacenews.com/iais-game-changing-communication-satellites-revolutionizing-global-connectivity/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-28T12:48:09.645410Z",
-            "shown_at": [
-                "2025-09-28T12:48:10.239154Z",
-                "2025-09-28T17:44:05.612321Z",
-                "2025-09-28T23:31:52.171309Z",
-                "2025-09-29T07:51:45.899289Z",
-                "2025-09-29T23:35:55.603626Z",
-                "2025-09-30T15:57:54.125305Z",
-                "2025-10-04T00:36:36.659085Z"
-            ]
-        },
-        {
-            "id": "d33838610c113f2e532176f7805bc7be",
-            "source": "spacenews",
-            "text": "Blue Origin to increase New Shepard flight rate and consider new spaceports",
-            "source_link": "https://spacenews.com/blue-origin-to-increase-new-shepard-flight-rate-and-consider-new-spaceports/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-28T07:49:48.561903Z",
-            "shown_at": [
-                "2025-09-28T07:49:49.093604Z",
-                "2025-09-28T16:40:08.635494Z",
-                "2025-09-29T01:43:40.215969Z",
-                "2025-10-02T15:08:04.006163Z",
-                "2025-10-03T03:43:57.777324Z",
-                "2025-10-05T00:54:08.741763Z"
-            ]
-        },
-        {
-            "id": "5715555c208f250168c888e6d12d94d7",
-            "source": "spacenews",
-            "text": "Purdue University to fly dedicated suborbital research mission with Virgin Galactic",
-            "source_link": "https://spacenews.com/purdue-university-to-fly-dedicated-suborbital-research-mission-with-virgin-galactic/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-28T02:24:01.530834Z",
-            "shown_at": [
-                "2025-09-28T02:24:02.307022Z",
-                "2025-09-29T22:37:37.285645Z",
-                "2025-10-01T07:47:29.666066Z",
-                "2025-10-03T05:39:52.782612Z"
-            ]
-        },
-        {
-            "id": "21ade29fe4ef0054161984d6b01c731f",
-            "source": "spacenews",
-            "text": "NASA Marshall director steps down",
-            "source_link": "https://spacenews.com/nasa-marshall-director-steps-down/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-27T20:49:59.329821Z",
-            "shown_at": [
-                "2025-09-27T20:49:59.990418Z",
-                "2025-10-03T04:42:02.118383Z"
-            ]
-        },
-        {
-            "id": "0834b022941a07510cd8a14a066d84a4",
-            "source": "spacenews",
-            "text": "China boosts broadband, IoT and weather satellite fleets with flurry of launches",
-            "source_link": "https://spacenews.com/china-boosts-broadband-iot-and-weather-satellite-fleets-with-flurry-of-launches/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-27T15:45:46.299666Z",
-            "shown_at": [
-                "2025-09-27T15:45:46.985780Z",
-                "2025-10-01T10:03:56.904317Z"
-            ]
-        },
-        {
-            "id": "76b2bb2f832d86c575ccd4b3e79112a4",
-            "source": "spacenews",
-            "text": "NASA seeks to bolster workforce, reduce reliance on contractors",
-            "source_link": "https://spacenews.com/nasa-seeks-to-bolster-workforce-reduce-reliance-on-contractors/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-07T00:34:19.934123Z",
-            "shown_at": [
-                "2026-02-07T00:34:20.980108Z"
-            ]
-        },
-        {
-            "id": "6ae9a2faa499dd516419c91341868a8f",
-            "source": "spacenews",
-            "text": "China launches reusable spaceplane on fourth secretive orbital mission",
-            "source_link": "https://spacenews.com/china-launches-reusable-spaceplane-on-fourth-secretive-orbital-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-07T11:09:05.607140Z",
-            "shown_at": [
-                "2026-02-07T11:09:06.944986Z"
-            ]
-        },
-        {
-            "id": "8e8505e56d0ba7ae793d0fb21555dc18",
-            "source": "spacenews",
-            "text": "Space Force awards $54.5 million contract to Starfish Space for GEO servicing vehicle",
-            "source_link": "https://spacenews.com/space-force-awards-54-5-million-contract-to-starfish-space-for-geo-servicing-vehicle/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-07T15:59:09.118417Z",
-            "shown_at": [
-                "2026-02-07T15:59:10.246391Z"
-            ]
-        },
-        {
-            "id": "d470c25e8fc3e697af0ea06fecf6264f",
-            "source": "spacenews",
-            "text": "SpaceX IPO could drive investor interest in other space companies",
-            "source_link": "https://spacenews.com/spacex-ipo-could-drive-investor-interest-in-other-space-companies/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-07T21:13:59.174822Z",
-            "shown_at": [
-                "2026-02-07T21:14:00.340835Z"
-            ]
-        },
-        {
-            "id": "1e838290c9ff78d77a4d8fd2c961a4f3",
-            "source": "spacenews",
-            "text": "Falcon 9 returns to flight after upper stage engine investigation",
-            "source_link": "https://spacenews.com/falcon-9-returns-to-flight-after-upper-stage-engine-investigation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-07T23:34:20.713966Z",
-            "shown_at": [
-                "2026-02-07T23:34:21.842926Z"
             ]
         }
     ]
