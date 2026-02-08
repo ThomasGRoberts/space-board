@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 19 | 14 | 35 |
 | breaking_defense | 0 | 1 | 13 | 24 |
-| nyt | 0 | 0 | 13 | 22 |
+| nyt | 0 | 0 | 14 | 23 |
 
 # Shown Order
 
@@ -3697,3 +3697,4 @@
 - **Feb 08, 02:34 AM** - NASA Eyes March Artemis II Launch After Hydrogen Leaks Delay Moon Mission (nyt)
 - **Feb 08, 03:09 AM** - Falcon 9 returns to flight after upper stage engine investigation (spacenews)
 - **Feb 08, 03:44 AM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
+- **Feb 08, 04:18 AM** - NASA Delays Artemis II Moon Launch to March After Hydrogen Leaks (nyt)
