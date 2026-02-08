@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 19 | 15 | 35 |
-| breaking_defense | 0 | 1 | 12 | 23 |
+| breaking_defense | 0 | 1 | 13 | 24 |
 | nyt | 0 | 0 | 13 | 23 |
 
 # Shown Order
@@ -3693,3 +3693,4 @@
 - **Feb 08, 12:09 AM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
 - **Feb 08, 12:44 AM** - NASA Eyes March Artemis II Launch After Hydrogen Leaks Delay Moon Mission (nyt)
 - **Feb 08, 01:24 AM** - China set for in-flight abort test of Mengzhou crew spacecraft (spacenews)
+- **Feb 08, 01:59 AM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
