@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 16 | 15 | 34 |
-| breaking_defense | 0 | 1 | 12 | 24 |
+| breaking_defense | 0 | 1 | 13 | 25 |
 | nyt | 0 | 0 | 13 | 23 |
 
 # Shown Order
@@ -3711,3 +3711,4 @@
 - **Feb 08, 10:49 AM** - To overcome Golden Dome ‘affordability’ hurdle, DoD needs acquisition reform, AI: Official (breaking_defense)
 - **Feb 08, 11:24 AM** - NASA Delays Artemis II Moon Launch to March After Hydrogen Leaks (nyt)
 - **Feb 08, 11:59 AM** - Exodus: The shrinking federal space workforce (spacenews)
+- **Feb 08, 12:34 PM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
