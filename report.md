@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 21 | 15 | 36 |
-| breaking_defense | 0 | 1 | 12 | 23 |
+| breaking_defense | 0 | 1 | 13 | 24 |
 | nyt | 0 | 0 | 13 | 22 |
 
 # Shown Order
@@ -3690,3 +3690,4 @@
 - **Feb 07, 10:24 PM** - NASA Delays Artemis II Moon Launch to March After Hydrogen Leaks (nyt)
 - **Feb 07, 10:59 PM** - FCC clears Logos to deploy more than 4,000 broadband satellites (spacenews)
 - **Feb 07, 11:34 PM** - Falcon 9 returns to flight after upper stage engine investigation (spacenews)
+- **Feb 08, 12:09 AM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
