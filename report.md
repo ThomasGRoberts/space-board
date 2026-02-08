@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 19 | 14 | 34 |
+| spacenews | 4 | 19 | 15 | 35 |
 | breaking_defense | 0 | 1 | 13 | 24 |
 | nyt | 0 | 0 | 13 | 23 |
 
@@ -3692,3 +3692,4 @@
 - **Feb 07, 11:34 PM** - Falcon 9 returns to flight after upper stage engine investigation (spacenews)
 - **Feb 08, 12:09 AM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
 - **Feb 08, 12:44 AM** - NASA Eyes March Artemis II Launch After Hydrogen Leaks Delay Moon Mission (nyt)
+- **Feb 08, 01:24 AM** - China set for in-flight abort test of Mengzhou crew spacecraft (spacenews)
