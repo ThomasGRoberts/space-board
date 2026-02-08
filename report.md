@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 6 | 14 | 28 |
+| spacenews | 1 | 6 | 15 | 29 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 13 | 27 |
 
@@ -3728,3 +3728,4 @@
 - **Feb 08, 08:49 PM** - Starlink and the unravelling of digital sovereignty (spacenews)
 - **Feb 08, 09:24 PM** - To overcome Golden Dome ‘affordability’ hurdle, DoD needs acquisition reform, AI: Official (breaking_defense)
 - **Feb 08, 09:59 PM** - NASA Eyes March Artemis II Launch After Hydrogen Leaks Delay Moon Mission (nyt)
+- **Feb 08, 10:34 PM** - SpaceX IPO could drive investor interest in other space companies (spacenews)
