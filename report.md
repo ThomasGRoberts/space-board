@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 6 | 14 | 30 |
+| spacenews | 2 | 6 | 15 | 31 |
 | breaking_defense | 0 | 0 | 13 | 25 |
 | nyt | 0 | 0 | 13 | 26 |
 
@@ -3725,3 +3725,4 @@
 - **Feb 08, 06:58 PM** - FAA approves Starship launches from LC-39A (spacenews)
 - **Feb 08, 07:34 PM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
 - **Feb 08, 08:14 PM** - NASA Eyes March Artemis II Launch After Hydrogen Leaks Delay Moon Mission (nyt)
+- **Feb 08, 08:49 PM** - Starlink and the unravelling of digital sovereignty (spacenews)
