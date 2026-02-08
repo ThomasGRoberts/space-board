@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 16 | 14 | 34 |
 | breaking_defense | 0 | 1 | 13 | 24 |
-| nyt | 0 | 0 | 13 | 23 |
+| nyt | 0 | 0 | 14 | 24 |
 
 # Shown Order
 
@@ -3712,3 +3712,4 @@
 - **Feb 08, 11:24 AM** - NASA Delays Artemis II Moon Launch to March After Hydrogen Leaks (nyt)
 - **Feb 08, 11:59 AM** - Exodus: The shrinking federal space workforce (spacenews)
 - **Feb 08, 12:34 PM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
+- **Feb 08, 01:09 PM** - NASA Eyes March Artemis II Launch After Hydrogen Leaks Delay Moon Mission (nyt)
