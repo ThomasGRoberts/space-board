@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 17 | 14 | 34 |
 | breaking_defense | 0 | 1 | 13 | 24 |
-| nyt | 0 | 0 | 13 | 23 |
+| nyt | 0 | 0 | 14 | 24 |
 
 # Shown Order
 
@@ -3709,3 +3709,4 @@
 - **Feb 08, 09:39 AM** - NASA Delays Artemis II Moon Launch to March After Hydrogen Leaks (nyt)
 - **Feb 08, 10:14 AM** - Pentagon casts Golden Dome as model for faster, risk-tolerant defense buying (spacenews)
 - **Feb 08, 10:49 AM** - To overcome Golden Dome ‘affordability’ hurdle, DoD needs acquisition reform, AI: Official (breaking_defense)
+- **Feb 08, 11:24 AM** - NASA Delays Artemis II Moon Launch to March After Hydrogen Leaks (nyt)
