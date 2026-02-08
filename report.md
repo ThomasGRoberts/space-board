@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 18 | 14 | 35 |
 | breaking_defense | 0 | 1 | 13 | 24 |
-| nyt | 0 | 0 | 13 | 22 |
+| nyt | 0 | 0 | 14 | 23 |
 
 # Shown Order
 
@@ -3700,3 +3700,4 @@
 - **Feb 08, 04:18 AM** - NASA Delays Artemis II Moon Launch to March After Hydrogen Leaks (nyt)
 - **Feb 08, 04:54 AM** - SmallSat Alliance shifts focus from proliferation to coordination (spacenews)
 - **Feb 08, 05:34 AM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
+- **Feb 08, 06:09 AM** - NASA Eyes March Artemis II Launch After Hydrogen Leaks Delay Moon Mission (nyt)
