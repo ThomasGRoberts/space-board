@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 16 | 14 | 34 |
+| spacenews | 3 | 16 | 15 | 35 |
 | breaking_defense | 0 | 1 | 13 | 24 |
 | nyt | 0 | 0 | 13 | 23 |
 
@@ -3713,3 +3713,4 @@
 - **Feb 08, 11:59 AM** - Exodus: The shrinking federal space workforce (spacenews)
 - **Feb 08, 12:34 PM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
 - **Feb 08, 01:09 PM** - NASA Eyes March Artemis II Launch After Hydrogen Leaks Delay Moon Mission (nyt)
+- **Feb 08, 01:44 PM** - SmallSat Alliance shifts focus from proliferation to coordination (spacenews)
