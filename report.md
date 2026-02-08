@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 11 | 14 | 32 |
 | breaking_defense | 0 | 1 | 13 | 25 |
-| nyt | 0 | 0 | 13 | 24 |
+| nyt | 0 | 0 | 14 | 25 |
 
 # Shown Order
 
@@ -3721,3 +3721,4 @@
 - **Feb 08, 04:39 PM** - NASA Eyes March Artemis II Launch After Hydrogen Leaks Delay Moon Mission (nyt)
 - **Feb 08, 05:14 PM** - With attention on orbital data centers, the focus turns to economics (spacenews)
 - **Feb 08, 05:48 PM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
+- **Feb 08, 06:24 PM** - NASA Delays Artemis II Moon Launch to March After Hydrogen Leaks (nyt)
