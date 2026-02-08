@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 15 | 15 | 34 |
-| breaking_defense | 0 | 1 | 12 | 24 |
+| breaking_defense | 0 | 1 | 13 | 25 |
 | nyt | 0 | 0 | 13 | 23 |
 
 # Shown Order
@@ -3714,3 +3714,4 @@
 - **Feb 08, 12:34 PM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
 - **Feb 08, 01:09 PM** - NASA Eyes March Artemis II Launch After Hydrogen Leaks Delay Moon Mission (nyt)
 - **Feb 08, 01:44 PM** - SmallSat Alliance shifts focus from proliferation to coordination (spacenews)
+- **Feb 08, 02:19 PM** - To overcome Golden Dome ‘affordability’ hurdle, DoD needs acquisition reform, AI: Official (breaking_defense)
