@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 15 | 14 | 34 |
 | breaking_defense | 0 | 1 | 13 | 24 |
-| nyt | 0 | 0 | 13 | 23 |
+| nyt | 0 | 0 | 14 | 24 |
 
 # Shown Order
 
@@ -3715,3 +3715,4 @@
 - **Feb 08, 01:09 PM** - NASA Eyes March Artemis II Launch After Hydrogen Leaks Delay Moon Mission (nyt)
 - **Feb 08, 01:44 PM** - SmallSat Alliance shifts focus from proliferation to coordination (spacenews)
 - **Feb 08, 02:19 PM** - To overcome Golden Dome ‘affordability’ hurdle, DoD needs acquisition reform, AI: Official (breaking_defense)
+- **Feb 08, 02:54 PM** - NASA Eyes March Artemis II Launch After Hydrogen Leaks Delay Moon Mission (nyt)
