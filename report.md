@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 11 | 14 | 32 |
+| spacenews | 2 | 11 | 15 | 33 |
 | breaking_defense | 0 | 0 | 13 | 24 |
-| nyt | 0 | 0 | 14 | 25 |
+| nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
 
@@ -3722,3 +3722,4 @@
 - **Feb 08, 05:14 PM** - With attention on orbital data centers, the focus turns to economics (spacenews)
 - **Feb 08, 05:48 PM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
 - **Feb 08, 06:24 PM** - NASA Delays Artemis II Moon Launch to March After Hydrogen Leaks (nyt)
+- **Feb 08, 06:58 PM** - FAA approves Starship launches from LC-39A (spacenews)
