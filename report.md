@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 13 | 27 |
-| breaking_defense | 0 | 0 | 14 | 27 |
+| spacenews | 1 | 3 | 14 | 28 |
+| breaking_defense | 0 | 0 | 13 | 27 |
 | nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -3757,3 +3757,4 @@
 - **Feb 09, 02:24 PM** - There’s a way forward for sovereign European space intel, but is there the will? (spacenews)
 - **Feb 09, 02:59 PM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
 - **Feb 09, 03:34 PM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
+- **Feb 09, 04:09 PM** - SpaceX IPO could drive investor interest in other space companies (spacenews)
