@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 4 | 13 | 28 |
 | breaking_defense | 0 | 0 | 14 | 27 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -3736,3 +3736,4 @@
 - **Feb 09, 01:34 AM** - NASA Eyes March Artemis II Launch After Hydrogen Leaks Delay Moon Mission (nyt)
 - **Feb 09, 02:09 AM** - NASA examining hydrogen leaks during Artemis 2 fueling test (spacenews)
 - **Feb 09, 02:49 AM** - To overcome Golden Dome ‘affordability’ hurdle, DoD needs acquisition reform, AI: Official (breaking_defense)
+- **Feb 09, 03:24 AM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
