@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 13 | 27 |
-| breaking_defense | 1 | 1 | 13 | 26 |
+| spacenews | 2 | 3 | 14 | 28 |
+| breaking_defense | 1 | 1 | 12 | 26 |
 | nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
@@ -3767,3 +3767,4 @@
 - **Feb 09, 09:34 PM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
 - **Feb 09, 10:09 PM** - Space Force buys second Otter spacecraft to power satellites on orbit (breaking_defense)
 - **Feb 09, 10:44 PM** - NASA examining hydrogen leaks during Artemis 2 fueling test (spacenews)
+- **Feb 09, 11:19 PM** - Musk says SpaceX focus is on the moon rather than Mars (spacenews)

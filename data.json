@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-09T00:04:30.754277+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a343024e64550be45adc280327d4f4bb",
+    "trigger_count": 0,
+    "current_item_id": "d6f55d3df7f3a40a256974ccfa9507b3",
     "data": [
         {
             "id": "1e838290c9ff78d77a4d8fd2c961a4f3",
@@ -9283,6 +9283,18 @@
             "fetched_datetime": "2026-02-09T22:09:21.390033Z",
             "shown_at": [
                 "2026-02-09T22:09:22.641313Z"
+            ]
+        },
+        {
+            "id": "d6f55d3df7f3a40a256974ccfa9507b3",
+            "source": "spacenews",
+            "text": "Musk says SpaceX focus is on the moon rather than Mars",
+            "source_link": "https://spacenews.com/musk-says-spacex-focus-is-on-the-moon-rather-than-mars/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-09T23:19:17.880976Z",
+            "shown_at": [
+                "2026-02-09T23:19:18.921955Z"
             ]
         }
     ]
