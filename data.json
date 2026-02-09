@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-09T00:04:30.754277+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3b212010b055111201f3ac6d7ddfafe6",
+    "trigger_count": 0,
+    "current_item_id": "f50c800208cb3dd0a58e87a5aecad8e1",
     "data": [
         {
             "id": "1e838290c9ff78d77a4d8fd2c961a4f3",
@@ -9248,6 +9248,18 @@
                 "2025-09-29T05:33:49.283643Z",
                 "2025-09-30T17:12:16.041561Z",
                 "2025-10-04T02:43:58.055798Z"
+            ]
+        },
+        {
+            "id": "f50c800208cb3dd0a58e87a5aecad8e1",
+            "source": "spacenews",
+            "text": "There’s a way forward for sovereign European space intel, but is there the will?",
+            "source_link": "https://spacenews.com/theres-a-way-forward-for-sovereign-european-space-intel-but-is-there-the-will/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-09T14:24:17.097147Z",
+            "shown_at": [
+                "2026-02-09T14:24:18.121276Z"
             ]
         }
     ]
