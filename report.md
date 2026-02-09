@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 4 | 14 | 28 |
 | breaking_defense | 0 | 0 | 13 | 26 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
@@ -3755,3 +3755,4 @@
 - **Feb 09, 01:15 PM** - Morpheus raises $15 million in Series A+ round (spacenews)
 - **Feb 09, 01:49 PM** - To overcome Golden Dome ‘affordability’ hurdle, DoD needs acquisition reform, AI: Official (breaking_defense)
 - **Feb 09, 02:24 PM** - There’s a way forward for sovereign European space intel, but is there the will? (spacenews)
+- **Feb 09, 02:59 PM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
