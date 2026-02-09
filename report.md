@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 3 | 13 | 27 |
+| spacenews | 0 | 3 | 14 | 28 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 13 | 27 |
 
@@ -3749,3 +3749,4 @@
 - **Feb 09, 09:29 AM** - ‘Serving the country and pushing the boundaries of human existence is very purposeful.’ (spacenews)
 - **Feb 09, 10:09 AM** - To overcome Golden Dome ‘affordability’ hurdle, DoD needs acquisition reform, AI: Official (breaking_defense)
 - **Feb 09, 10:54 AM** - NASA Delays Artemis II Moon Launch to March After Hydrogen Leaks (nyt)
+- **Feb 09, 11:29 AM** - Exodus: The shrinking federal space workforce (spacenews)
