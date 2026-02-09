@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 4 | 13 | 28 |
 | breaking_defense | 0 | 0 | 14 | 27 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -3745,3 +3745,4 @@
 - **Feb 09, 06:58 AM** - NASA Delays Artemis II Moon Launch to March After Hydrogen Leaks (nyt)
 - **Feb 09, 07:34 AM** - ‘Leaders can be replaced, institutional knowledge cannot’ (spacenews)
 - **Feb 09, 08:14 AM** - To overcome Golden Dome ‘affordability’ hurdle, DoD needs acquisition reform, AI: Official (breaking_defense)
+- **Feb 09, 08:49 AM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
