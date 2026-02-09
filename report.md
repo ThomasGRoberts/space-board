@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 13 | 27 |
+| spacenews | 1 | 3 | 13 | 28 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 12 | 25 |
 
@@ -3763,3 +3763,4 @@
 - **Feb 09, 06:39 PM** - SpaceX IPO could drive investor interest in other space companies (spacenews)
 - **Feb 09, 07:39 PM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
 - **Feb 09, 08:19 PM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
+- **Feb 09, 08:54 PM** - House committee advances NASA authorization bill (spacenews)
