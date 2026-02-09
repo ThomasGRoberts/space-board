@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 4 | 13 | 27 |
+| spacenews | 0 | 4 | 14 | 28 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 14 | 27 |
 
@@ -3746,3 +3746,4 @@
 - **Feb 09, 07:34 AM** - ‘Leaders can be replaced, institutional knowledge cannot’ (spacenews)
 - **Feb 09, 08:14 AM** - To overcome Golden Dome ‘affordability’ hurdle, DoD needs acquisition reform, AI: Official (breaking_defense)
 - **Feb 09, 08:49 AM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
+- **Feb 09, 09:29 AM** - ‘Serving the country and pushing the boundaries of human existence is very purposeful.’ (spacenews)
