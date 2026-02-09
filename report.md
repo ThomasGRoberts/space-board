@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 3 | 13 | 28 |
 | breaking_defense | 0 | 0 | 13 | 26 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -3751,3 +3751,4 @@
 - **Feb 09, 10:54 AM** - NASA Delays Artemis II Moon Launch to March After Hydrogen Leaks (nyt)
 - **Feb 09, 11:29 AM** - Exodus: The shrinking federal space workforce (spacenews)
 - **Feb 09, 12:04 PM** - To overcome Golden Dome ‘affordability’ hurdle, DoD needs acquisition reform, AI: Official (breaking_defense)
+- **Feb 09, 12:39 PM** - NASA Eyes March Artemis II Launch After Hydrogen Leaks Delay Moon Mission (nyt)
