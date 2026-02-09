@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-09T00:04:30.754277+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5bab346cfd14399efdcd4e1534e4113a",
+    "trigger_count": 0,
+    "current_item_id": "a945383744a439cd03313e3c1e5d12ea",
     "data": [
         {
             "id": "1e838290c9ff78d77a4d8fd2c961a4f3",
@@ -9270,6 +9270,18 @@
             "fetched_datetime": "2026-02-09T14:24:17.097147Z",
             "shown_at": [
                 "2026-02-09T14:24:18.121276Z"
+            ]
+        },
+        {
+            "id": "a945383744a439cd03313e3c1e5d12ea",
+            "source": "breaking_defense",
+            "text": "Space Force buys second Otter spacecraft to power satellites on orbit",
+            "source_link": "https://breakingdefense.com/2026/02/space-force-buys-second-otter-spacecraft-to-power-satellites-on-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-09T22:09:21.390033Z",
+            "shown_at": [
+                "2026-02-09T22:09:22.641313Z"
             ]
         }
     ]

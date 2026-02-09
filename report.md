@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 13 | 27 |
-| breaking_defense | 0 | 0 | 12 | 25 |
+| breaking_defense | 1 | 1 | 13 | 26 |
 | nyt | 0 | 0 | 12 | 26 |
 
 # Shown Order
@@ -3765,3 +3765,4 @@
 - **Feb 09, 08:19 PM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
 - **Feb 09, 08:54 PM** - House committee advances NASA authorization bill (spacenews)
 - **Feb 09, 09:34 PM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
+- **Feb 09, 10:09 PM** - Space Force buys second Otter spacecraft to power satellites on orbit (breaking_defense)
