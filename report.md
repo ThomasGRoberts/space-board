@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 4 | 13 | 28 |
 | breaking_defense | 0 | 0 | 14 | 27 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -3739,3 +3739,4 @@
 - **Feb 09, 03:24 AM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
 - **Feb 09, 03:59 AM** - ‘Leaders can be replaced, institutional knowledge cannot’ (spacenews)
 - **Feb 09, 04:34 AM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
+- **Feb 09, 05:09 AM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
