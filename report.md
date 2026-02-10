@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 2 | 14 | 27 |
 | breaking_defense | 1 | 1 | 12 | 26 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 12 | 26 |
 
 # Shown Order
 
@@ -3764,3 +3764,4 @@
 - **Feb 10, 03:29 AM** - NASA Delays Artemis II Moon Launch to March After Hydrogen Leaks (nyt)
 - **Feb 10, 04:04 AM** - Space Force buys second Otter spacecraft to power satellites on orbit (breaking_defense)
 - **Feb 10, 04:39 AM** - Exodus: The shrinking federal space workforce (spacenews)
+- **Feb 10, 05:14 AM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
