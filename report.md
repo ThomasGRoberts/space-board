@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 4 | 14 | 28 |
-| breaking_defense | 1 | 1 | 12 | 25 |
+| breaking_defense | 2 | 2 | 13 | 26 |
 | nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
@@ -3783,3 +3783,4 @@
 - **Feb 10, 02:34 PM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
 - **Feb 10, 03:09 PM** - Apolink and Galaxia team up to improve planned data relay capability (spacenews)
 - **Feb 10, 03:49 PM** - To overcome Golden Dome ‘affordability’ hurdle, DoD needs acquisition reform, AI: Official (breaking_defense)
+- **Feb 10, 04:24 PM** - New UN forum seeks busting space traffic cooperation barriers (breaking_defense)
