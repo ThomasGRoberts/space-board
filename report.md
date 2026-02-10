@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 14 | 18 | 31 |
+| spacenews | 12 | 14 | 18 | 32 |
 | breaking_defense | 2 | 3 | 11 | 23 |
 | nyt | 2 | 2 | 12 | 24 |
 
@@ -3795,3 +3795,4 @@
 - **Feb 10, 09:39 PM** - HEO, SatVu, Sierra Nevada nab first of NRO’s new commercial imagery contracts (breaking_defense)
 - **Feb 10, 10:14 PM** - Germany funds 78 million euro human exploration control center (spacenews)
 - **Feb 10, 10:49 PM** - Satellite manufacturers see emerging market for ‘mini-constellations’ (spacenews)
+- **Feb 10, 11:24 PM** - National Reconnaissance Office adds HEO, SatVu and Sierra Nevada to commercial imaging program (spacenews)

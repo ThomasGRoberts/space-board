@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-10T00:05:03.652423+00:00",
-    "trigger_count": 6,
-    "current_item_id": "48554cb7eb2016803492bd79dc4951e9",
+    "trigger_count": 0,
+    "current_item_id": "8d525ee256a2be85d1fa183d2d1914a7",
     "data": [
         {
             "id": "d6f55d3df7f3a40a256974ccfa9507b3",
@@ -9439,9 +9439,12 @@
             "source": "spacenews",
             "text": "National Reconnaissance Office adds HEO, SatVu and Sierra Nevada to commercial imaging program",
             "source_link": "https://spacenews.com/national-reconnaissance-office-adds-heo-satvu-and-sierra-nevada-to-commercial-imaging-program/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-02-10T22:49:30.355166Z"
+            "fetched_datetime": "2026-02-10T22:49:30.355166Z",
+            "shown_at": [
+                "2026-02-10T23:24:36.437672Z"
+            ]
         },
         {
             "id": "e6ae8a95b91700772b94863f893506bc",
