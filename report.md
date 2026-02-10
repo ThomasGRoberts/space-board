@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 4 | 14 | 28 |
 | breaking_defense | 2 | 2 | 13 | 26 |
-| nyt | 0 | 0 | 12 | 24 |
+| nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
 
@@ -3784,3 +3784,4 @@
 - **Feb 10, 03:09 PM** - Apolink and Galaxia team up to improve planned data relay capability (spacenews)
 - **Feb 10, 03:49 PM** - To overcome Golden Dome ‘affordability’ hurdle, DoD needs acquisition reform, AI: Official (breaking_defense)
 - **Feb 10, 04:24 PM** - New UN forum seeks busting space traffic cooperation barriers (breaking_defense)
+- **Feb 10, 04:59 PM** - NASA Eyes March Artemis II Launch After Hydrogen Leaks Delay Moon Mission (nyt)
