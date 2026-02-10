@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-10T00:05:03.652423+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c349158ef3264bdf075ebff1771e7f00",
+    "trigger_count": 0,
+    "current_item_id": "6bf01b3f8b36ca2168daa420bac2483f",
     "data": [
         {
             "id": "d6f55d3df7f3a40a256974ccfa9507b3",
@@ -9379,9 +9379,12 @@
             "source": "spacenews",
             "text": "Aerospace attracts partners for DiskSat demonstrations",
             "source_link": "https://spacenews.com/aerospace-attracts-partners-for-disksat-demonstrations/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-02-10T19:54:33.370730Z"
+            "fetched_datetime": "2026-02-10T19:54:33.370730Z",
+            "shown_at": [
+                "2026-02-10T20:29:43.431431Z"
+            ]
         }
     ]
 }
