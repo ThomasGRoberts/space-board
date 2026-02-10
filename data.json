@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-10T00:05:03.652423+00:00",
-    "trigger_count": 6,
-    "current_item_id": "fa9fd9a1d4ee5837538972b9b379d7f7",
+    "trigger_count": 0,
+    "current_item_id": "24c572fae4e6619ab2b44408e4e01f73",
     "data": [
         {
             "id": "d6f55d3df7f3a40a256974ccfa9507b3",
@@ -9406,6 +9406,18 @@
             "shown": false,
             "type": "news",
             "fetched_datetime": "2026-02-10T21:04:41.246486Z"
+        },
+        {
+            "id": "24c572fae4e6619ab2b44408e4e01f73",
+            "source": "breaking_defense",
+            "text": "HEO, SatVu, Sierra Nevada nab first of NRO’s new commercial imagery contracts",
+            "source_link": "https://breakingdefense.com/2026/02/heo-satvu-sierra-nevada-nab-first-of-nros-new-commercial-imagery-contracts/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-10T21:39:13.513434Z",
+            "shown_at": [
+                "2026-02-10T21:39:14.668458Z"
+            ]
         }
     ]
 }

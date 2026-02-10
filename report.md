@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 10 | 17 | 30 |
-| breaking_defense | 2 | 2 | 11 | 23 |
+| breaking_defense | 3 | 3 | 12 | 24 |
 | nyt | 2 | 2 | 12 | 25 |
 
 # Shown Order
@@ -3792,3 +3792,4 @@
 - **Feb 10, 07:54 PM** - Amazon Leo nets anchor maritime resellers (spacenews)
 - **Feb 10, 08:29 PM** - Aerospace attracts partners for DiskSat demonstrations (spacenews)
 - **Feb 10, 09:04 PM** - ULA seeks to rebuild launch cadence after CEO’s exit (spacenews)
+- **Feb 10, 09:39 PM** - HEO, SatVu, Sierra Nevada nab first of NRO’s new commercial imagery contracts (breaking_defense)
