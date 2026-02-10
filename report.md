@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 14 | 28 |
 | breaking_defense | 1 | 1 | 12 | 25 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -3780,3 +3780,4 @@
 - **Feb 10, 12:49 PM** - Space Force buys second Otter spacecraft to power satellites on orbit (breaking_defense)
 - **Feb 10, 01:24 PM** - NASA selects two Earth science missions for development (spacenews)
 - **Feb 10, 01:59 PM** - NASA, Boeing still working on Starliner return to flight (spacenews)
+- **Feb 10, 02:34 PM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
