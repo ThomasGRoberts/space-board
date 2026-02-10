@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-10T00:05:03.652423+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b1ffe3c456698369d95e93014190c05c",
+    "trigger_count": 0,
+    "current_item_id": "320a95b1ce1429f3a8ca545aa544517f",
     "data": [
         {
             "id": "d6f55d3df7f3a40a256974ccfa9507b3",
@@ -9334,6 +9334,18 @@
             "shown": false,
             "type": "news",
             "fetched_datetime": "2026-02-10T17:34:42.885068Z"
+        },
+        {
+            "id": "320a95b1ce1429f3a8ca545aa544517f",
+            "source": "nyt",
+            "text": "‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway",
+            "source_link": "https://www.nytimes.com/2026/02/10/theater/galileo-broadway-raul-esparza.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-10T18:09:33.952408Z",
+            "shown_at": [
+                "2026-02-10T18:09:39.740605Z"
+            ]
         }
     ]
 }
