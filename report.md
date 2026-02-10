@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 4 | 14 | 27 |
+| spacenews | 5 | 6 | 15 | 28 |
 | breaking_defense | 2 | 2 | 13 | 26 |
-| nyt | 0 | 0 | 13 | 25 |
+| nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -3785,3 +3785,4 @@
 - **Feb 10, 03:49 PM** - To overcome Golden Dome ‘affordability’ hurdle, DoD needs acquisition reform, AI: Official (breaking_defense)
 - **Feb 10, 04:24 PM** - New UN forum seeks busting space traffic cooperation barriers (breaking_defense)
 - **Feb 10, 04:59 PM** - NASA Eyes March Artemis II Launch After Hydrogen Leaks Delay Moon Mission (nyt)
+- **Feb 10, 05:34 PM** - Non-venture space startup investment hits post-SPAC high (spacenews)

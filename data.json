@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-10T00:05:03.652423+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2f082adbad4a217c4be3a1f92362d118",
+    "trigger_count": 0,
+    "current_item_id": "b1ffe3c456698369d95e93014190c05c",
     "data": [
         {
             "id": "d6f55d3df7f3a40a256974ccfa9507b3",
@@ -9313,6 +9313,27 @@
             "shown_at": [
                 "2026-02-10T16:24:13.100160Z"
             ]
+        },
+        {
+            "id": "b1ffe3c456698369d95e93014190c05c",
+            "source": "spacenews",
+            "text": "Non-venture space startup investment hits post-SPAC high",
+            "source_link": "https://spacenews.com/non-venture-space-startup-investment-hits-post-spac-high/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-10T17:34:42.884982Z",
+            "shown_at": [
+                "2026-02-10T17:34:44.114872Z"
+            ]
+        },
+        {
+            "id": "1239839c8b89663dd52525f34fa68481",
+            "source": "spacenews",
+            "text": "Spaceium demonstrates refueling actuator in orbit",
+            "source_link": "https://spacenews.com/spaceium-demonstrates-refueling-actuator-in-orbit/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-02-10T17:34:42.885068Z"
         }
     ]
 }
