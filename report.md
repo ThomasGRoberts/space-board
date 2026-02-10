@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 2 | 13 | 27 |
-| breaking_defense | 1 | 1 | 13 | 26 |
+| spacenews | 2 | 2 | 14 | 28 |
+| breaking_defense | 1 | 1 | 12 | 26 |
 | nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
@@ -3766,3 +3766,4 @@
 - **Feb 10, 04:39 AM** - Exodus: The shrinking federal space workforce (spacenews)
 - **Feb 10, 05:14 AM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
 - **Feb 10, 05:49 AM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
+- **Feb 10, 06:24 AM** - Musk says SpaceX focus is on the moon rather than Mars (spacenews)
