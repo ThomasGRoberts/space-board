@@ -1,9 +1,45 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-02-09T00:04:30.754277+00:00",
-    "trigger_count": 1,
+    "last_run_datetime": "2026-02-10T00:05:03.652423+00:00",
+    "trigger_count": 2,
     "current_item_id": "133734e1517304bcfa95d5e90f82e413",
     "data": [
+        {
+            "id": "d6f55d3df7f3a40a256974ccfa9507b3",
+            "source": "spacenews",
+            "text": "Musk says SpaceX focus is on the moon rather than Mars",
+            "source_link": "https://spacenews.com/musk-says-spacex-focus-is-on-the-moon-rather-than-mars/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-09T23:19:17.880976Z",
+            "shown_at": [
+                "2026-02-09T23:19:18.921955Z"
+            ]
+        },
+        {
+            "id": "a945383744a439cd03313e3c1e5d12ea",
+            "source": "breaking_defense",
+            "text": "Space Force buys second Otter spacecraft to power satellites on orbit",
+            "source_link": "https://breakingdefense.com/2026/02/space-force-buys-second-otter-spacecraft-to-power-satellites-on-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-09T22:09:21.390033Z",
+            "shown_at": [
+                "2026-02-09T22:09:22.641313Z"
+            ]
+        },
+        {
+            "id": "f50c800208cb3dd0a58e87a5aecad8e1",
+            "source": "spacenews",
+            "text": "There’s a way forward for sovereign European space intel, but is there the will?",
+            "source_link": "https://spacenews.com/theres-a-way-forward-for-sovereign-european-space-intel-but-is-there-the-will/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-09T14:24:17.097147Z",
+            "shown_at": [
+                "2026-02-09T14:24:18.121276Z"
+            ]
+        },
         {
             "id": "1e838290c9ff78d77a4d8fd2c961a4f3",
             "source": "spacenews",
@@ -9214,88 +9250,6 @@
             "shown_at": [
                 "2025-09-28T22:35:45.839809Z",
                 "2025-10-02T12:24:12.185540Z"
-            ]
-        },
-        {
-            "id": "5bbe987069f3dda53347c5b941379aca",
-            "source": "spacenews",
-            "text": "Solstar wins NASA contract to develop lunar Wi-Fi systems",
-            "source_link": "https://spacenews.com/solstar-wins-nasa-contract-to-develop-lunar-wi-fi-systems/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-28T22:08:00.104276Z",
-            "shown_at": [
-                "2025-09-28T22:21:48.777307Z",
-                "2025-10-02T19:39:54.923509Z",
-                "2025-10-03T00:02:07.592134Z"
-            ]
-        },
-        {
-            "id": "46bc313a5c98f71a5539ab12b4c112ac",
-            "source": "spacenews",
-            "text": "Eartheye to offer tasking of satellites looking up and down",
-            "source_link": "https://spacenews.com/eartheye-to-offer-tasking-of-satellites-looking-up-and-down/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-28T22:08:00.104219Z",
-            "shown_at": [
-                "2025-09-28T22:08:00.873531Z",
-                "2025-10-01T18:09:42.021022Z",
-                "2025-10-01T19:10:06.885558Z",
-                "2025-10-02T00:55:56.373487Z",
-                "2025-10-04T12:57:32.907735Z",
-                "2025-10-04T15:55:58.289023Z"
-            ]
-        },
-        {
-            "id": "0ea75bd6e5bbee76f81e80fec8ffa980",
-            "source": "spacenews",
-            "text": "Galactic Energy secures $336 million, nears debut of new reusable and solid rockets",
-            "source_link": "https://spacenews.com/galactic-energy-secures-336-million-nears-debut-of-new-reusable-and-solid-rockets/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-28T15:39:54.586148Z",
-            "shown_at": [
-                "2025-09-28T15:39:55.640155Z",
-                "2025-09-29T05:33:49.283643Z",
-                "2025-09-30T17:12:16.041561Z",
-                "2025-10-04T02:43:58.055798Z"
-            ]
-        },
-        {
-            "id": "f50c800208cb3dd0a58e87a5aecad8e1",
-            "source": "spacenews",
-            "text": "There’s a way forward for sovereign European space intel, but is there the will?",
-            "source_link": "https://spacenews.com/theres-a-way-forward-for-sovereign-european-space-intel-but-is-there-the-will/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-09T14:24:17.097147Z",
-            "shown_at": [
-                "2026-02-09T14:24:18.121276Z"
-            ]
-        },
-        {
-            "id": "a945383744a439cd03313e3c1e5d12ea",
-            "source": "breaking_defense",
-            "text": "Space Force buys second Otter spacecraft to power satellites on orbit",
-            "source_link": "https://breakingdefense.com/2026/02/space-force-buys-second-otter-spacecraft-to-power-satellites-on-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-09T22:09:21.390033Z",
-            "shown_at": [
-                "2026-02-09T22:09:22.641313Z"
-            ]
-        },
-        {
-            "id": "d6f55d3df7f3a40a256974ccfa9507b3",
-            "source": "spacenews",
-            "text": "Musk says SpaceX focus is on the moon rather than Mars",
-            "source_link": "https://spacenews.com/musk-says-spacex-focus-is-on-the-moon-rather-than-mars/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-09T23:19:17.880976Z",
-            "shown_at": [
-                "2026-02-09T23:19:18.921955Z"
             ]
         }
     ]
