@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-10T00:05:03.652423+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6bf01b3f8b36ca2168daa420bac2483f",
+    "trigger_count": 0,
+    "current_item_id": "fa9fd9a1d4ee5837538972b9b379d7f7",
     "data": [
         {
             "id": "d6f55d3df7f3a40a256974ccfa9507b3",
@@ -9385,6 +9385,27 @@
             "shown_at": [
                 "2026-02-10T20:29:43.431431Z"
             ]
+        },
+        {
+            "id": "fa9fd9a1d4ee5837538972b9b379d7f7",
+            "source": "spacenews",
+            "text": "ULA seeks to rebuild launch cadence after CEO’s exit",
+            "source_link": "https://spacenews.com/ula-seeks-to-rebuild-launch-cadence-after-ceos-exit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-10T21:04:41.246424Z",
+            "shown_at": [
+                "2026-02-10T21:04:42.459300Z"
+            ]
+        },
+        {
+            "id": "a7f32c017d2673f9459cc180852ef926",
+            "source": "spacenews",
+            "text": "Germany funds 78 million euro human exploration control center",
+            "source_link": "https://spacenews.com/germany-funds-78-million-euro-human-exploration-control-center/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-02-10T21:04:41.246486Z"
         }
     ]
 }
