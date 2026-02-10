@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 2 | 14 | 27 |
 | breaking_defense | 1 | 1 | 12 | 26 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -3773,3 +3773,4 @@
 - **Feb 10, 08:44 AM** - NASA Eyes March Artemis II Launch After Hydrogen Leaks Delay Moon Mission (nyt)
 - **Feb 10, 09:19 AM** - Space Force buys second Otter spacecraft to power satellites on orbit (breaking_defense)
 - **Feb 10, 09:54 AM** - ‘We helped usher in the modern era of AI in NGA.’ (spacenews)
+- **Feb 10, 10:29 AM** - NASA Delays Artemis II Moon Launch to March After Hydrogen Leaks (nyt)
