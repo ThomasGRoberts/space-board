@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 2 | 13 | 27 |
-| breaking_defense | 1 | 1 | 12 | 25 |
+| breaking_defense | 1 | 1 | 13 | 26 |
 | nyt | 0 | 0 | 12 | 26 |
 
 # Shown Order
@@ -3759,3 +3759,4 @@
 - **Feb 10, 12:29 AM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
 - **Feb 10, 01:05 AM** - Satellite servicing startup Starfish taps Quindar for mission operations software (spacenews)
 - **Feb 10, 01:44 AM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
+- **Feb 10, 02:18 AM** - To overcome Golden Dome ‘affordability’ hurdle, DoD needs acquisition reform, AI: Official (breaking_defense)
