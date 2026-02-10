@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 10 | 17 | 30 |
+| spacenews | 13 | 14 | 18 | 31 |
 | breaking_defense | 2 | 3 | 11 | 24 |
 | nyt | 2 | 2 | 12 | 24 |
 
@@ -3794,3 +3794,4 @@
 - **Feb 10, 09:04 PM** - ULA seeks to rebuild launch cadence after CEO’s exit (spacenews)
 - **Feb 10, 09:39 PM** - HEO, SatVu, Sierra Nevada nab first of NRO’s new commercial imagery contracts (breaking_defense)
 - **Feb 10, 10:14 PM** - Germany funds 78 million euro human exploration control center (spacenews)
+- **Feb 10, 10:49 PM** - Satellite manufacturers see emerging market for ‘mini-constellations’ (spacenews)
