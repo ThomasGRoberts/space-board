@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 14 | 28 |
+| spacenews | 3 | 4 | 15 | 29 |
 | breaking_defense | 1 | 1 | 12 | 25 |
 | nyt | 0 | 0 | 12 | 25 |
 
@@ -3781,3 +3781,4 @@
 - **Feb 10, 01:24 PM** - NASA selects two Earth science missions for development (spacenews)
 - **Feb 10, 01:59 PM** - NASA, Boeing still working on Starliner return to flight (spacenews)
 - **Feb 10, 02:34 PM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
+- **Feb 10, 03:09 PM** - Apolink and Galaxia team up to improve planned data relay capability (spacenews)
