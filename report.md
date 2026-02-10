@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 10 | 17 | 30 |
-| breaking_defense | 3 | 3 | 12 | 24 |
+| spacenews | 9 | 10 | 18 | 31 |
+| breaking_defense | 2 | 3 | 11 | 24 |
 | nyt | 2 | 2 | 12 | 24 |
 
 # Shown Order
@@ -3793,3 +3793,4 @@
 - **Feb 10, 08:29 PM** - Aerospace attracts partners for DiskSat demonstrations (spacenews)
 - **Feb 10, 09:04 PM** - ULA seeks to rebuild launch cadence after CEO’s exit (spacenews)
 - **Feb 10, 09:39 PM** - HEO, SatVu, Sierra Nevada nab first of NRO’s new commercial imagery contracts (breaking_defense)
+- **Feb 10, 10:14 PM** - Germany funds 78 million euro human exploration control center (spacenews)
