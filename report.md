@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 2 | 13 | 27 |
+| spacenews | 2 | 2 | 14 | 28 |
 | breaking_defense | 1 | 1 | 12 | 26 |
 | nyt | 0 | 0 | 12 | 25 |
 
@@ -3757,3 +3757,4 @@
 - **Feb 09, 11:19 PM** - Musk says SpaceX focus is on the moon rather than Mars (spacenews)
 - **Feb 09, 11:54 PM** - NASA Delays Artemis II Moon Launch to March After Hydrogen Leaks (nyt)
 - **Feb 10, 12:29 AM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
+- **Feb 10, 01:05 AM** - Satellite servicing startup Starfish taps Quindar for mission operations software (spacenews)
