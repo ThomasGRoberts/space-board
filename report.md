@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 2 | 13 | 27 |
+| spacenews | 2 | 2 | 14 | 28 |
 | breaking_defense | 1 | 1 | 13 | 26 |
 | nyt | 0 | 0 | 12 | 25 |
 
@@ -3775,3 +3775,4 @@
 - **Feb 10, 09:54 AM** - ‘We helped usher in the modern era of AI in NGA.’ (spacenews)
 - **Feb 10, 10:29 AM** - NASA Delays Artemis II Moon Launch to March After Hydrogen Leaks (nyt)
 - **Feb 10, 11:04 AM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
+- **Feb 10, 11:39 AM** - Falcon 9 returns to flight after upper stage engine investigation (spacenews)
