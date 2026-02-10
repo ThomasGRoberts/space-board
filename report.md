@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 2 | 14 | 27 |
+| spacenews | 3 | 3 | 15 | 28 |
 | breaking_defense | 1 | 1 | 12 | 26 |
 | nyt | 0 | 0 | 12 | 25 |
 
@@ -3779,3 +3779,4 @@
 - **Feb 10, 12:14 PM** - NASA Eyes March Artemis II Launch After Hydrogen Leaks Delay Moon Mission (nyt)
 - **Feb 10, 12:49 PM** - Space Force buys second Otter spacecraft to power satellites on orbit (breaking_defense)
 - **Feb 10, 01:24 PM** - NASA selects two Earth science missions for development (spacenews)
+- **Feb 10, 01:59 PM** - NASA, Boeing still working on Starliner return to flight (spacenews)
