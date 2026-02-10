@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 6 | 15 | 28 |
+| spacenews | 5 | 6 | 15 | 29 |
 | breaking_defense | 2 | 2 | 12 | 25 |
 | nyt | 1 | 1 | 13 | 25 |
 
@@ -3787,3 +3787,4 @@
 - **Feb 10, 04:59 PM** - NASA Eyes March Artemis II Launch After Hydrogen Leaks Delay Moon Mission (nyt)
 - **Feb 10, 05:34 PM** - Non-venture space startup investment hits post-SPAC high (spacenews)
 - **Feb 10, 06:09 PM** - ‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway (nyt)
+- **Feb 10, 06:44 PM** - Spaceium demonstrates refueling actuator in orbit (spacenews)
