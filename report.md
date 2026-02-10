@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 6 | 15 | 28 |
+| spacenews | 7 | 8 | 16 | 29 |
 | breaking_defense | 2 | 2 | 12 | 24 |
 | nyt | 2 | 2 | 13 | 26 |
 
@@ -3789,3 +3789,4 @@
 - **Feb 10, 06:09 PM** - ‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway (nyt)
 - **Feb 10, 06:44 PM** - Spaceium demonstrates refueling actuator in orbit (spacenews)
 - **Feb 10, 07:19 PM** - Lost Soviet Luna 9 Moon Lander May Have Been Found (nyt)
+- **Feb 10, 07:54 PM** - Amazon Leo nets anchor maritime resellers (spacenews)
