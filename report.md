@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 6 | 15 | 28 |
 | breaking_defense | 2 | 2 | 12 | 25 |
-| nyt | 1 | 1 | 13 | 25 |
+| nyt | 2 | 2 | 14 | 26 |
 
 # Shown Order
 
@@ -3788,3 +3788,4 @@
 - **Feb 10, 05:34 PM** - Non-venture space startup investment hits post-SPAC high (spacenews)
 - **Feb 10, 06:09 PM** - ‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway (nyt)
 - **Feb 10, 06:44 PM** - Spaceium demonstrates refueling actuator in orbit (spacenews)
+- **Feb 10, 07:19 PM** - Lost Soviet Luna 9 Moon Lander May Have Been Found (nyt)
