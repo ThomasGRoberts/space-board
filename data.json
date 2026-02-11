@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-11T00:04:27.795669+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5bab346cfd14399efdcd4e1534e4113a",
+    "trigger_count": 0,
+    "current_item_id": "05053ddeca64ea3a5710207999cda9fd",
     "data": [
         {
             "id": "99fd8b454e2c51f63f3bf22c8c72a116",
@@ -9375,6 +9375,27 @@
             "shown_at": [
                 "2026-02-11T20:59:06.635085Z"
             ]
+        },
+        {
+            "id": "05053ddeca64ea3a5710207999cda9fd",
+            "source": "spacenews",
+            "text": "UK launcher Orbex files for administration after failed funding efforts",
+            "source_link": "https://spacenews.com/uk-launcher-orbex-files-for-administration-after-failed-funding-efforts/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-11T22:44:41.216490Z",
+            "shown_at": [
+                "2026-02-11T22:44:42.361934Z"
+            ]
+        },
+        {
+            "id": "a1004d236ac09c2b7697106870850072",
+            "source": "spacenews",
+            "text": "Space companies bet on Golden Dome as questions persist over scope and funding",
+            "source_link": "https://spacenews.com/space-companies-bet-on-golden-dome-as-questions-persist-over-scope-and-funding/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-02-11T22:44:41.216559Z"
         }
     ]
 }

@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 15 | 24 | 22 | 40 |
+| spacenews | 17 | 26 | 23 | 40 |
 | breaking_defense | 0 | 2 | 9 | 20 |
 | nyt | 0 | 2 | 10 | 22 |
 
@@ -3759,3 +3759,4 @@
 - **Feb 11, 08:59 PM** - Integrate Raises $17M to Commercialize the World’s First Ultra-Secure Project Management Platform for Classified Programs (spacenews)
 - **Feb 11, 09:34 PM** - To overcome Golden Dome ‘affordability’ hurdle, DoD needs acquisition reform, AI: Official (breaking_defense)
 - **Feb 11, 10:09 PM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
+- **Feb 11, 10:44 PM** - UK launcher Orbex files for administration after failed funding efforts (spacenews)
