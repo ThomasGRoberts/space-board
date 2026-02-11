@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 16 | 21 | 23 | 38 |
-| breaking_defense | 1 | 3 | 8 | 21 |
+| breaking_defense | 1 | 3 | 9 | 21 |
 | nyt | 2 | 2 | 10 | 22 |
 
 # Shown Order
@@ -3751,3 +3751,4 @@
 - **Feb 11, 04:19 PM** - Motiv Space Systems and PickNik Robotics Collaborate on Software for NASA’s Fly Foundational Robotics (FFR) Mission (spacenews)
 - **Feb 11, 04:54 PM** - Nine innovative companies selected for fourth cohort of SDA TAP Lab – Catalyst Campus Mini Accelerator (spacenews)
 - **Feb 11, 05:29 PM** - How much is vertical integration squeezing the smallsat opportunity? (spacenews)
+- **Feb 11, 06:04 PM** - New UN forum seeks busting space traffic cooperation barriers (breaking_defense)
