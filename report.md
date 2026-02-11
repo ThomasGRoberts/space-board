@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 14 | 19 | 32 |
-| breaking_defense | 2 | 3 | 11 | 23 |
+| spacenews | 12 | 14 | 20 | 33 |
+| breaking_defense | 2 | 3 | 10 | 23 |
 | nyt | 2 | 2 | 11 | 23 |
 
 # Shown Order
@@ -3724,3 +3724,4 @@
 - **Feb 11, 12:34 AM** - Australia Space Innovation Institute applies space technologies to address terrestrial challenges (spacenews)
 - **Feb 11, 01:09 AM** - ‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway (nyt)
 - **Feb 11, 01:44 AM** - Space Force buys second Otter spacecraft to power satellites on orbit (breaking_defense)
+- **Feb 11, 02:19 AM** - Pentagon casts Golden Dome as model for faster, risk-tolerant defense buying (spacenews)
