@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-11T00:04:27.795669+00:00",
-    "trigger_count": 6,
-    "current_item_id": "320a95b1ce1429f3a8ca545aa544517f",
+    "trigger_count": 0,
+    "current_item_id": "a300c4501f7a51b4d8d22d550bd3d928",
     "data": [
         {
             "id": "99fd8b454e2c51f63f3bf22c8c72a116",
@@ -9223,6 +9223,18 @@
                 "2025-10-05T06:21:31.831862Z",
                 "2025-10-06T06:23:50.309543Z",
                 "2025-10-06T08:31:59.811053Z"
+            ]
+        },
+        {
+            "id": "a300c4501f7a51b4d8d22d550bd3d928",
+            "source": "spacenews",
+            "text": "FCC approves thousands more Amazon Leo satellites as Gen 1 deadline looms",
+            "source_link": "https://spacenews.com/fcc-approves-thousands-more-amazon-leo-satellites-as-gen-1-deadline-looms/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-11T05:14:05.902376Z",
+            "shown_at": [
+                "2026-02-11T05:14:06.826866Z"
             ]
         }
     ]

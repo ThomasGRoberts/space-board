@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 14 | 19 | 33 |
+| spacenews | 13 | 15 | 20 | 34 |
 | breaking_defense | 2 | 3 | 10 | 22 |
-| nyt | 2 | 2 | 12 | 24 |
+| nyt | 2 | 2 | 12 | 23 |
 
 # Shown Order
 
@@ -3729,3 +3729,4 @@
 - **Feb 11, 03:29 AM** - Space Force buys second Otter spacecraft to power satellites on orbit (breaking_defense)
 - **Feb 11, 04:04 AM** - Apolink and Galaxia team up to improve planned data relay capability (spacenews)
 - **Feb 11, 04:39 AM** - ‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway (nyt)
+- **Feb 11, 05:14 AM** - FCC approves thousands more Amazon Leo satellites as Gen 1 deadline looms (spacenews)
