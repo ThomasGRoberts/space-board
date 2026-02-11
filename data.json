@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-11T00:04:27.795669+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e25a580196e90ba511ebc53f2b74cbe5",
+    "trigger_count": 0,
+    "current_item_id": "e54b3a2555921d44b2f8a25e5214f0eb",
     "data": [
         {
             "id": "99fd8b454e2c51f63f3bf22c8c72a116",
@@ -9280,9 +9280,12 @@
             "source": "spacenews",
             "text": "Eutelsat gets nearly 1 billion euros in French-backed ECA financing",
             "source_link": "https://spacenews.com/eutelsat-gets-nearly-1-billion-euros-in-french-backed-eca-financing/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-02-11T14:35:05.426943Z"
+            "fetched_datetime": "2026-02-11T14:35:05.426943Z",
+            "shown_at": [
+                "2026-02-11T15:09:54.224869Z"
+            ]
         },
         {
             "id": "7d0d9c0ba5ee06055765fdbd1d0ae9cd",

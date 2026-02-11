@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 16 | 18 | 20 | 34 |
+| spacenews | 15 | 18 | 20 | 35 |
 | breaking_defense | 2 | 3 | 10 | 22 |
 | nyt | 2 | 2 | 11 | 23 |
 
@@ -3746,3 +3746,4 @@
 - **Feb 11, 01:24 PM** - ‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway (nyt)
 - **Feb 11, 01:59 PM** - FireSat adds orbit-visualization software to help firefighters plan around satellite passes (spacenews)
 - **Feb 11, 02:35 PM** - Reusable launch vehicles will change everything in space, and on Earth (spacenews)
+- **Feb 11, 03:09 PM** - Eutelsat gets nearly 1 billion euros in French-backed ECA financing (spacenews)
