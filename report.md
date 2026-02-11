@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 14 | 16 | 20 | 33 |
 | breaking_defense | 2 | 3 | 10 | 23 |
-| nyt | 2 | 2 | 11 | 23 |
+| nyt | 2 | 2 | 12 | 24 |
 
 # Shown Order
 
@@ -3743,3 +3743,4 @@
 - **Feb 11, 11:39 AM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
 - **Feb 11, 12:14 PM** - NASA seeks to bolster workforce, reduce reliance on contractors (spacenews)
 - **Feb 11, 12:49 PM** - Space Force buys second Otter spacecraft to power satellites on orbit (breaking_defense)
+- **Feb 11, 01:24 PM** - ‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway (nyt)
