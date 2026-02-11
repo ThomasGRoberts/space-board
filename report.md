@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 15 | 18 | 20 | 35 |
+| spacenews | 15 | 18 | 21 | 36 |
 | breaking_defense | 2 | 3 | 10 | 21 |
 | nyt | 2 | 2 | 11 | 23 |
 
@@ -3747,3 +3747,4 @@
 - **Feb 11, 01:59 PM** - FireSat adds orbit-visualization software to help firefighters plan around satellite passes (spacenews)
 - **Feb 11, 02:35 PM** - Reusable launch vehicles will change everything in space, and on Earth (spacenews)
 - **Feb 11, 03:09 PM** - Eutelsat gets nearly 1 billion euros in French-backed ECA financing (spacenews)
+- **Feb 11, 03:44 PM** - Stoke Space adds $350 million to Series D round (spacenews)

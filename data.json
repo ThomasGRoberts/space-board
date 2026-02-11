@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-11T00:04:27.795669+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e54b3a2555921d44b2f8a25e5214f0eb",
+    "trigger_count": 0,
+    "current_item_id": "7d0d9c0ba5ee06055765fdbd1d0ae9cd",
     "data": [
         {
             "id": "99fd8b454e2c51f63f3bf22c8c72a116",
@@ -9292,9 +9292,12 @@
             "source": "spacenews",
             "text": "Stoke Space adds $350 million to Series D round",
             "source_link": "https://spacenews.com/stoke-space-adds-350-million-to-series-d-round/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-02-11T14:35:05.426984Z"
+            "fetched_datetime": "2026-02-11T14:35:05.426984Z",
+            "shown_at": [
+                "2026-02-11T15:44:50.548743Z"
+            ]
         }
     ]
 }
