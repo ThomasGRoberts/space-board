@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 16 | 21 | 23 | 38 |
 | breaking_defense | 1 | 3 | 9 | 21 |
-| nyt | 1 | 2 | 9 | 22 |
+| nyt | 1 | 2 | 10 | 23 |
 
 # Shown Order
 
@@ -3752,3 +3752,4 @@
 - **Feb 11, 04:54 PM** - Nine innovative companies selected for fourth cohort of SDA TAP Lab – Catalyst Campus Mini Accelerator (spacenews)
 - **Feb 11, 05:29 PM** - How much is vertical integration squeezing the smallsat opportunity? (spacenews)
 - **Feb 11, 06:04 PM** - New UN forum seeks busting space traffic cooperation barriers (breaking_defense)
+- **Feb 11, 06:39 PM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
