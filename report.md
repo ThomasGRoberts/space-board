@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 15 | 19 | 33 |
+| spacenews | 14 | 16 | 20 | 34 |
 | breaking_defense | 2 | 3 | 10 | 22 |
 | nyt | 2 | 2 | 12 | 24 |
 
@@ -3738,3 +3738,4 @@
 - **Feb 11, 08:44 AM** - Tomorrow.io banks $175 million for DeepSky weather constellation (spacenews)
 - **Feb 11, 09:19 AM** - To overcome Golden Dome ‘affordability’ hurdle, DoD needs acquisition reform, AI: Official (breaking_defense)
 - **Feb 11, 09:54 AM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
+- **Feb 11, 10:29 AM** - China tests crewed spacecraft abort and rocket recovery in major lunar milestone (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-11T00:04:27.795669+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5bab346cfd14399efdcd4e1534e4113a",
+    "trigger_count": 0,
+    "current_item_id": "59bc1a6122ee1eeead392ed60fee891c",
     "data": [
         {
             "id": "99fd8b454e2c51f63f3bf22c8c72a116",
@@ -9243,6 +9243,18 @@
             "fetched_datetime": "2026-02-11T05:14:05.902376Z",
             "shown_at": [
                 "2026-02-11T05:14:06.826866Z"
+            ]
+        },
+        {
+            "id": "59bc1a6122ee1eeead392ed60fee891c",
+            "source": "spacenews",
+            "text": "China tests crewed spacecraft abort and rocket recovery in major lunar milestone",
+            "source_link": "https://spacenews.com/china-tests-crewed-spacecraft-abort-and-rocket-recovery-in-major-lunar-milestone/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-11T10:29:07.256956Z",
+            "shown_at": [
+                "2026-02-11T10:29:08.101906Z"
             ]
         }
     ]
