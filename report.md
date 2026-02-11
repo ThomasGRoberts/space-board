@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 15 | 20 | 34 |
-| breaking_defense | 2 | 3 | 10 | 22 |
+| breaking_defense | 2 | 3 | 10 | 23 |
 | nyt | 2 | 2 | 11 | 23 |
 
 # Shown Order
@@ -3733,3 +3733,4 @@
 - **Feb 11, 05:49 AM** - Space Force buys second Otter spacecraft to power satellites on orbit (breaking_defense)
 - **Feb 11, 06:24 AM** - Lost Soviet Luna 9 Moon Lander May Have Been Found (nyt)
 - **Feb 11, 06:59 AM** - NASA selects two Earth science missions for development (spacenews)
+- **Feb 11, 07:34 AM** - HEO, SatVu, Sierra Nevada nab first of NRO’s new commercial imagery contracts (breaking_defense)
