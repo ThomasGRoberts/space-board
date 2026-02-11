@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 15 | 18 | 21 | 35 |
+| spacenews | 17 | 20 | 22 | 36 |
 | breaking_defense | 2 | 3 | 9 | 21 |
 | nyt | 2 | 2 | 11 | 23 |
 
@@ -3748,3 +3748,4 @@
 - **Feb 11, 02:35 PM** - Reusable launch vehicles will change everything in space, and on Earth (spacenews)
 - **Feb 11, 03:09 PM** - Eutelsat gets nearly 1 billion euros in French-backed ECA financing (spacenews)
 - **Feb 11, 03:44 PM** - Stoke Space adds $350 million to Series D round (spacenews)
+- **Feb 11, 04:19 PM** - Motiv Space Systems and PickNik Robotics Collaborate on Software for NASA’s Fly Foundational Robotics (FFR) Mission (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-11T00:04:27.795669+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7d0d9c0ba5ee06055765fdbd1d0ae9cd",
+    "trigger_count": 0,
+    "current_item_id": "29a19dfdf24def9156cd7dd4a59ac2e9",
     "data": [
         {
             "id": "99fd8b454e2c51f63f3bf22c8c72a116",
@@ -9298,6 +9298,27 @@
             "shown_at": [
                 "2026-02-11T15:44:50.548743Z"
             ]
+        },
+        {
+            "id": "29a19dfdf24def9156cd7dd4a59ac2e9",
+            "source": "spacenews",
+            "text": "Motiv Space Systems and PickNik Robotics Collaborate on Software for NASA’s Fly Foundational Robotics (FFR) Mission",
+            "source_link": "https://spacenews.com/motiv-space-systems-and-picknik-robotics-collaborate-on-software-for-nasas-fly-foundational-robotics-ffr-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-11T16:19:06.333617Z",
+            "shown_at": [
+                "2026-02-11T16:19:07.263223Z"
+            ]
+        },
+        {
+            "id": "c00a1540ac02c493a53c66c85cdfc977",
+            "source": "spacenews",
+            "text": "Nine innovative companies selected for fourth cohort of SDA TAP Lab – Catalyst Campus Mini Accelerator",
+            "source_link": "https://spacenews.com/nine-innovative-companies-selected-for-fourth-cohort-of-sda-tap-lab-catalyst-campus-mini-accelerator/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-02-11T16:19:06.333675Z"
         }
     ]
 }
