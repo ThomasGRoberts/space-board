@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 14 | 19 | 33 |
-| breaking_defense | 2 | 3 | 10 | 22 |
+| breaking_defense | 2 | 3 | 11 | 23 |
 | nyt | 2 | 2 | 12 | 23 |
 
 # Shown Order
@@ -3723,3 +3723,4 @@
 - **Feb 10, 11:58 PM** - Laser-linked satellite networks moving from concept to capability (spacenews)
 - **Feb 11, 12:34 AM** - Australia Space Innovation Institute applies space technologies to address terrestrial challenges (spacenews)
 - **Feb 11, 01:09 AM** - ‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway (nyt)
+- **Feb 11, 01:44 AM** - Space Force buys second Otter spacecraft to power satellites on orbit (breaking_defense)
