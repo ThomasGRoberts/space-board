@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 14 | 16 | 19 | 33 |
+| spacenews | 13 | 16 | 19 | 34 |
 | breaking_defense | 2 | 3 | 10 | 22 |
 | nyt | 2 | 2 | 12 | 24 |
 
@@ -3744,3 +3744,4 @@
 - **Feb 11, 12:14 PM** - NASA seeks to bolster workforce, reduce reliance on contractors (spacenews)
 - **Feb 11, 12:49 PM** - Space Force buys second Otter spacecraft to power satellites on orbit (breaking_defense)
 - **Feb 11, 01:24 PM** - ‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway (nyt)
+- **Feb 11, 01:59 PM** - FireSat adds orbit-visualization software to help firefighters plan around satellite passes (spacenews)
