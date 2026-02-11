@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 15 | 19 | 33 |
+| spacenews | 13 | 15 | 20 | 34 |
 | breaking_defense | 2 | 3 | 10 | 22 |
-| nyt | 2 | 2 | 12 | 24 |
+| nyt | 2 | 2 | 11 | 24 |
 
 # Shown Order
 
@@ -3735,3 +3735,4 @@
 - **Feb 11, 06:59 AM** - NASA selects two Earth science missions for development (spacenews)
 - **Feb 11, 07:34 AM** - HEO, SatVu, Sierra Nevada nab first of NRO’s new commercial imagery contracts (breaking_defense)
 - **Feb 11, 08:09 AM** - Lost Soviet Luna 9 Moon Lander May Have Been Found (nyt)
+- **Feb 11, 08:44 AM** - Tomorrow.io banks $175 million for DeepSky weather constellation (spacenews)
