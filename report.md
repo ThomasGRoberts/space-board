@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 17 | 20 | 23 | 37 |
+| spacenews | 18 | 21 | 24 | 38 |
 | breaking_defense | 1 | 3 | 8 | 21 |
 | nyt | 2 | 2 | 10 | 23 |
 
@@ -3750,3 +3750,4 @@
 - **Feb 11, 03:44 PM** - Stoke Space adds $350 million to Series D round (spacenews)
 - **Feb 11, 04:19 PM** - Motiv Space Systems and PickNik Robotics Collaborate on Software for NASA’s Fly Foundational Robotics (FFR) Mission (spacenews)
 - **Feb 11, 04:54 PM** - Nine innovative companies selected for fourth cohort of SDA TAP Lab – Catalyst Campus Mini Accelerator (spacenews)
+- **Feb 11, 05:29 PM** - How much is vertical integration squeezing the smallsat opportunity? (spacenews)
