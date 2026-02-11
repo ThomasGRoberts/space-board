@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 15 | 24 | 23 | 40 |
-| breaking_defense | 1 | 3 | 9 | 20 |
-| nyt | 0 | 2 | 9 | 22 |
+| breaking_defense | 1 | 3 | 10 | 21 |
+| nyt | 0 | 2 | 9 | 21 |
 
 # Shown Order
 
@@ -3757,3 +3757,4 @@
 - **Feb 11, 07:49 PM** - The Exploration Company completes water-impact tests for its Nyx space capsule (spacenews)
 - **Feb 11, 08:24 PM** - Demand for sovereign systems extends to the Earth-observation stack (spacenews)
 - **Feb 11, 08:59 PM** - Integrate Raises $17M to Commercialize the World’s First Ultra-Secure Project Management Platform for Classified Programs (spacenews)
+- **Feb 11, 09:34 PM** - To overcome Golden Dome ‘affordability’ hurdle, DoD needs acquisition reform, AI: Official (breaking_defense)
