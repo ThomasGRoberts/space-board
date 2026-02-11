@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 14 | 16 | 20 | 33 |
 | breaking_defense | 2 | 3 | 10 | 23 |
-| nyt | 2 | 2 | 11 | 23 |
+| nyt | 2 | 2 | 12 | 24 |
 
 # Shown Order
 
@@ -3740,3 +3740,4 @@
 - **Feb 11, 09:54 AM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
 - **Feb 11, 10:29 AM** - China tests crewed spacecraft abort and rocket recovery in major lunar milestone (spacenews)
 - **Feb 11, 11:04 AM** - To overcome Golden Dome ‘affordability’ hurdle, DoD needs acquisition reform, AI: Official (breaking_defense)
+- **Feb 11, 11:39 AM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
