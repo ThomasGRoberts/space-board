@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 16 | 23 | 23 | 40 |
+| spacenews | 17 | 24 | 24 | 40 |
 | breaking_defense | 1 | 3 | 9 | 20 |
 | nyt | 0 | 2 | 9 | 22 |
 
@@ -3756,3 +3756,4 @@
 - **Feb 11, 07:14 PM** - Laser-linked satellite networks moving from concept to capability (spacenews)
 - **Feb 11, 07:49 PM** - The Exploration Company completes water-impact tests for its Nyx space capsule (spacenews)
 - **Feb 11, 08:24 PM** - Demand for sovereign systems extends to the Earth-observation stack (spacenews)
+- **Feb 11, 08:59 PM** - Integrate Raises $17M to Commercialize the World’s First Ultra-Secure Project Management Platform for Classified Programs (spacenews)

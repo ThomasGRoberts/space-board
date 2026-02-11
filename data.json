@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-11T00:04:27.795669+00:00",
-    "trigger_count": 6,
-    "current_item_id": "be3c0fbc22da5d8656a6c326ccd97b5d",
+    "trigger_count": 0,
+    "current_item_id": "5f7076454764c8f876e1cb651b170cae",
     "data": [
         {
             "id": "99fd8b454e2c51f63f3bf22c8c72a116",
@@ -9360,6 +9360,18 @@
             "fetched_datetime": "2026-02-11T20:24:22.261206Z",
             "shown_at": [
                 "2026-02-11T20:24:23.385810Z"
+            ]
+        },
+        {
+            "id": "5f7076454764c8f876e1cb651b170cae",
+            "source": "spacenews",
+            "text": "Integrate Raises $17M to Commercialize the World’s First Ultra-Secure Project Management Platform for Classified Programs",
+            "source_link": "https://spacenews.com/integrate-raises-17m-to-commercialize-the-worlds-first-ultra-secure-project-management-platform-for-classified-programs/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-11T20:59:05.592995Z",
+            "shown_at": [
+                "2026-02-11T20:59:06.635085Z"
             ]
         }
     ]
