@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 14 | 16 | 20 | 34 |
-| breaking_defense | 2 | 3 | 10 | 22 |
+| breaking_defense | 2 | 3 | 11 | 23 |
 | nyt | 2 | 2 | 11 | 23 |
 
 # Shown Order
@@ -3739,3 +3739,4 @@
 - **Feb 11, 09:19 AM** - To overcome Golden Dome ‘affordability’ hurdle, DoD needs acquisition reform, AI: Official (breaking_defense)
 - **Feb 11, 09:54 AM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
 - **Feb 11, 10:29 AM** - China tests crewed spacecraft abort and rocket recovery in major lunar milestone (spacenews)
+- **Feb 11, 11:04 AM** - To overcome Golden Dome ‘affordability’ hurdle, DoD needs acquisition reform, AI: Official (breaking_defense)
