@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 15 | 20 | 33 |
-| breaking_defense | 2 | 3 | 10 | 23 |
-| nyt | 2 | 2 | 11 | 23 |
+| spacenews | 13 | 15 | 19 | 33 |
+| breaking_defense | 2 | 3 | 10 | 22 |
+| nyt | 2 | 2 | 12 | 24 |
 
 # Shown Order
 
@@ -3731,3 +3731,4 @@
 - **Feb 11, 04:39 AM** - ‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway (nyt)
 - **Feb 11, 05:14 AM** - FCC approves thousands more Amazon Leo satellites as Gen 1 deadline looms (spacenews)
 - **Feb 11, 05:49 AM** - Space Force buys second Otter spacecraft to power satellites on orbit (breaking_defense)
+- **Feb 11, 06:24 AM** - Lost Soviet Luna 9 Moon Lander May Have Been Found (nyt)
