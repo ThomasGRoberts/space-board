@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-11T00:04:27.795669+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e6ae8a95b91700772b94863f893506bc",
+    "trigger_count": 0,
+    "current_item_id": "b7b0aa5425b44d66080bb5261a729072",
     "data": [
         {
             "id": "99fd8b454e2c51f63f3bf22c8c72a116",
@@ -9336,6 +9336,18 @@
             "fetched_datetime": "2026-02-11T17:29:14.639337Z",
             "shown_at": [
                 "2026-02-11T17:29:15.684757Z"
+            ]
+        },
+        {
+            "id": "b7b0aa5425b44d66080bb5261a729072",
+            "source": "spacenews",
+            "text": "The Exploration Company completes water-impact tests for its Nyx space capsule",
+            "source_link": "https://spacenews.com/the-exploration-company-completes-water-impact-tests-for-its-nyx-space-capsule/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-11T19:49:20.850612Z",
+            "shown_at": [
+                "2026-02-11T19:49:22.043380Z"
             ]
         }
     ]
