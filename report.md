@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 14 | 16 | 20 | 34 |
-| breaking_defense | 2 | 3 | 10 | 22 |
+| breaking_defense | 2 | 3 | 11 | 23 |
 | nyt | 2 | 2 | 11 | 23 |
 
 # Shown Order
@@ -3742,3 +3742,4 @@
 - **Feb 11, 11:04 AM** - To overcome Golden Dome ‘affordability’ hurdle, DoD needs acquisition reform, AI: Official (breaking_defense)
 - **Feb 11, 11:39 AM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
 - **Feb 11, 12:14 PM** - NASA seeks to bolster workforce, reduce reliance on contractors (spacenews)
+- **Feb 11, 12:49 PM** - Space Force buys second Otter spacecraft to power satellites on orbit (breaking_defense)
