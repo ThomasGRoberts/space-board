@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 14 | 19 | 33 |
-| breaking_defense | 2 | 3 | 10 | 22 |
-| nyt | 2 | 2 | 12 | 24 |
+| breaking_defense | 2 | 3 | 11 | 23 |
+| nyt | 2 | 2 | 12 | 23 |
 
 # Shown Order
 
@@ -3726,3 +3726,4 @@
 - **Feb 11, 01:44 AM** - Space Force buys second Otter spacecraft to power satellites on orbit (breaking_defense)
 - **Feb 11, 02:19 AM** - Pentagon casts Golden Dome as model for faster, risk-tolerant defense buying (spacenews)
 - **Feb 11, 02:54 AM** - Lost Soviet Luna 9 Moon Lander May Have Been Found (nyt)
+- **Feb 11, 03:29 AM** - Space Force buys second Otter spacecraft to power satellites on orbit (breaking_defense)
