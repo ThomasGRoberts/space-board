@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 15 | 22 | 23 | 39 |
-| breaking_defense | 1 | 3 | 9 | 21 |
+| spacenews | 16 | 23 | 24 | 40 |
+| breaking_defense | 1 | 3 | 9 | 20 |
 | nyt | 0 | 2 | 9 | 22 |
 
 # Shown Order
@@ -3755,3 +3755,4 @@
 - **Feb 11, 06:39 PM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
 - **Feb 11, 07:14 PM** - Laser-linked satellite networks moving from concept to capability (spacenews)
 - **Feb 11, 07:49 PM** - The Exploration Company completes water-impact tests for its Nyx space capsule (spacenews)
+- **Feb 11, 08:24 PM** - Demand for sovereign systems extends to the Earth-observation stack (spacenews)

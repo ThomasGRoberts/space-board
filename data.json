@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-11T00:04:27.795669+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b7b0aa5425b44d66080bb5261a729072",
+    "trigger_count": 0,
+    "current_item_id": "be3c0fbc22da5d8656a6c326ccd97b5d",
     "data": [
         {
             "id": "99fd8b454e2c51f63f3bf22c8c72a116",
@@ -9348,6 +9348,18 @@
             "fetched_datetime": "2026-02-11T19:49:20.850612Z",
             "shown_at": [
                 "2026-02-11T19:49:22.043380Z"
+            ]
+        },
+        {
+            "id": "be3c0fbc22da5d8656a6c326ccd97b5d",
+            "source": "spacenews",
+            "text": "Demand for sovereign systems extends to the Earth-observation stack",
+            "source_link": "https://spacenews.com/demand-for-sovereign-systems-extends-to-the-earth-observation-stack/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-11T20:24:22.261206Z",
+            "shown_at": [
+                "2026-02-11T20:24:23.385810Z"
             ]
         }
     ]
