@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 15 | 24 | 23 | 40 |
 | breaking_defense | 0 | 3 | 9 | 21 |
-| nyt | 0 | 2 | 9 | 21 |
+| nyt | 0 | 2 | 10 | 22 |
 
 # Shown Order
 
@@ -3758,3 +3758,4 @@
 - **Feb 11, 08:24 PM** - Demand for sovereign systems extends to the Earth-observation stack (spacenews)
 - **Feb 11, 08:59 PM** - Integrate Raises $17M to Commercialize the World’s First Ultra-Secure Project Management Platform for Classified Programs (spacenews)
 - **Feb 11, 09:34 PM** - To overcome Golden Dome ‘affordability’ hurdle, DoD needs acquisition reform, AI: Official (breaking_defense)
+- **Feb 11, 10:09 PM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
