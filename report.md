@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 27 | 19 | 41 |
 | breaking_defense | 0 | 1 | 11 | 20 |
-| nyt | 1 | 2 | 11 | 21 |
+| nyt | 1 | 2 | 12 | 22 |
 
 # Shown Order
 
@@ -3705,3 +3705,4 @@
 - **Feb 12, 05:24 PM** - ‘Leaders can be replaced, institutional knowledge cannot’ (spacenews)
 - **Feb 12, 05:59 PM** - ULA’s Vulcan launches Space Force mission; solid booster anomaly under investigation (spacenews)
 - **Feb 12, 06:35 PM** - To overcome Golden Dome ‘affordability’ hurdle, DoD needs acquisition reform, AI: Official (breaking_defense)
+- **Feb 12, 07:09 PM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
