@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 25 | 21 | 40 |
-| breaking_defense | 0 | 2 | 10 | 21 |
-| nyt | 0 | 2 | 10 | 21 |
+| breaking_defense | 0 | 2 | 10 | 20 |
+| nyt | 0 | 2 | 11 | 22 |
 
 # Shown Order
 
@@ -3673,3 +3673,4 @@
 - **Feb 11, 10:44 PM** - UK launcher Orbex files for administration after failed funding efforts (spacenews)
 - **Feb 11, 11:19 PM** - Space companies bet on Golden Dome as questions persist over scope and funding (spacenews)
 - **Feb 11, 11:54 PM** - New UN forum seeks busting space traffic cooperation barriers (breaking_defense)
+- **Feb 12, 12:29 AM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
