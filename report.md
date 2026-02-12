@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 28 | 20 | 40 |
+| spacenews | 13 | 28 | 21 | 41 |
 | breaking_defense | 0 | 2 | 10 | 20 |
 | nyt | 1 | 3 | 11 | 22 |
 
@@ -3699,3 +3699,4 @@
 - **Feb 12, 01:54 PM** - Lost Soviet Luna 9 Moon Lander May Have Been Found (nyt)
 - **Feb 12, 02:29 PM** - SpaceX IPO could drive investor interest in other space companies (spacenews)
 - **Feb 12, 03:04 PM** - It is time to take astronomy off Earth (spacenews)
+- **Feb 12, 03:39 PM** - Software startup Integrate makes push into defense market following Space Force award (spacenews)

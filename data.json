@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-12T00:04:28.166112+00:00",
-    "trigger_count": 6,
-    "current_item_id": "45c130a1aedc36599d40cd19c3afe49a",
+    "trigger_count": 0,
+    "current_item_id": "e0c9522bce1ff39a5adcce9a29ca667a",
     "data": [
         {
             "id": "a1004d236ac09c2b7697106870850072",
@@ -9255,9 +9255,12 @@
             "source": "spacenews",
             "text": "Software startup Integrate makes push into defense market following Space Force award",
             "source_link": "https://spacenews.com/software-startup-integrate-makes-push-into-defense-market-following-space-force-award/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-02-12T15:04:47.160373Z"
+            "fetched_datetime": "2026-02-12T15:04:47.160373Z",
+            "shown_at": [
+                "2026-02-12T15:39:16.626636Z"
+            ]
         }
     ]
 }
