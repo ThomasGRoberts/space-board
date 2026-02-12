@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-12T00:04:28.166112+00:00",
-    "trigger_count": 6,
-    "current_item_id": "320a95b1ce1429f3a8ca545aa544517f",
+    "trigger_count": 0,
+    "current_item_id": "8feea31a750ae001d834cf497983823d",
     "data": [
         {
             "id": "a1004d236ac09c2b7697106870850072",
@@ -9317,6 +9317,27 @@
             "shown_at": [
                 "2026-02-12T22:04:22.590887Z"
             ]
+        },
+        {
+            "id": "8feea31a750ae001d834cf497983823d",
+            "source": "spacenews",
+            "text": "Space startups find more paths to liquidity as investors warm to maturing sector",
+            "source_link": "https://spacenews.com/space-startups-find-more-paths-to-liquidity-as-investors-warm-to-maturing-sector/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-12T23:14:01.425664Z",
+            "shown_at": [
+                "2026-02-12T23:14:02.560049Z"
+            ]
+        },
+        {
+            "id": "5d6719c29a6f1e5ba79cf49f81b9e471",
+            "source": "spacenews",
+            "text": "First Ariane 64 launches Amazon Leo satellites",
+            "source_link": "https://spacenews.com/first-ariane-64-launches-amazon-leo-satellites/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-02-12T23:14:01.425739Z"
         }
     ]
 }
