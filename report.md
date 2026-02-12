@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 23 | 16 | 38 |
+| spacenews | 10 | 23 | 17 | 39 |
 | breaking_defense | 1 | 1 | 12 | 21 |
 | nyt | 1 | 1 | 13 | 23 |
 
@@ -3713,3 +3713,4 @@
 - **Feb 12, 10:04 PM** - Project Hecate: The Space Force’s quiet effort to keep GPS survivable after 2040 (breaking_defense)
 - **Feb 12, 10:39 PM** - ‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway (nyt)
 - **Feb 12, 11:14 PM** - Space startups find more paths to liquidity as investors warm to maturing sector (spacenews)
+- **Feb 12, 11:48 PM** - First Ariane 64 launches Amazon Leo satellites (spacenews)
