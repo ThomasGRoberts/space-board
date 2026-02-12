@@ -1,9 +1,165 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-02-11T00:04:27.795669+00:00",
-    "trigger_count": 1,
+    "last_run_datetime": "2026-02-12T00:04:28.166112+00:00",
+    "trigger_count": 2,
     "current_item_id": "a9f3599573408f7783c51330403643e1",
     "data": [
+        {
+            "id": "a1004d236ac09c2b7697106870850072",
+            "source": "spacenews",
+            "text": "Space companies bet on Golden Dome as questions persist over scope and funding",
+            "source_link": "https://spacenews.com/space-companies-bet-on-golden-dome-as-questions-persist-over-scope-and-funding/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-11T22:44:41.216559Z",
+            "shown_at": [
+                "2026-02-11T23:19:16.923923Z"
+            ]
+        },
+        {
+            "id": "05053ddeca64ea3a5710207999cda9fd",
+            "source": "spacenews",
+            "text": "UK launcher Orbex files for administration after failed funding efforts",
+            "source_link": "https://spacenews.com/uk-launcher-orbex-files-for-administration-after-failed-funding-efforts/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-11T22:44:41.216490Z",
+            "shown_at": [
+                "2026-02-11T22:44:42.361934Z"
+            ]
+        },
+        {
+            "id": "5f7076454764c8f876e1cb651b170cae",
+            "source": "spacenews",
+            "text": "Integrate Raises $17M to Commercialize the World’s First Ultra-Secure Project Management Platform for Classified Programs",
+            "source_link": "https://spacenews.com/integrate-raises-17m-to-commercialize-the-worlds-first-ultra-secure-project-management-platform-for-classified-programs/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-11T20:59:05.592995Z",
+            "shown_at": [
+                "2026-02-11T20:59:06.635085Z"
+            ]
+        },
+        {
+            "id": "be3c0fbc22da5d8656a6c326ccd97b5d",
+            "source": "spacenews",
+            "text": "Demand for sovereign systems extends to the Earth-observation stack",
+            "source_link": "https://spacenews.com/demand-for-sovereign-systems-extends-to-the-earth-observation-stack/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-11T20:24:22.261206Z",
+            "shown_at": [
+                "2026-02-11T20:24:23.385810Z"
+            ]
+        },
+        {
+            "id": "b7b0aa5425b44d66080bb5261a729072",
+            "source": "spacenews",
+            "text": "The Exploration Company completes water-impact tests for its Nyx space capsule",
+            "source_link": "https://spacenews.com/the-exploration-company-completes-water-impact-tests-for-its-nyx-space-capsule/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-11T19:49:20.850612Z",
+            "shown_at": [
+                "2026-02-11T19:49:22.043380Z"
+            ]
+        },
+        {
+            "id": "3dbba3726d6400bf0c975c0a3182b923",
+            "source": "spacenews",
+            "text": "How much is vertical integration squeezing the smallsat opportunity?",
+            "source_link": "https://spacenews.com/how-much-is-vertical-integration-squeezing-the-smallsat-opportunity/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-11T17:29:14.639337Z",
+            "shown_at": [
+                "2026-02-11T17:29:15.684757Z"
+            ]
+        },
+        {
+            "id": "c00a1540ac02c493a53c66c85cdfc977",
+            "source": "spacenews",
+            "text": "Nine innovative companies selected for fourth cohort of SDA TAP Lab – Catalyst Campus Mini Accelerator",
+            "source_link": "https://spacenews.com/nine-innovative-companies-selected-for-fourth-cohort-of-sda-tap-lab-catalyst-campus-mini-accelerator/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-11T16:19:06.333675Z",
+            "shown_at": [
+                "2026-02-11T16:54:19.037144Z"
+            ]
+        },
+        {
+            "id": "29a19dfdf24def9156cd7dd4a59ac2e9",
+            "source": "spacenews",
+            "text": "Motiv Space Systems and PickNik Robotics Collaborate on Software for NASA’s Fly Foundational Robotics (FFR) Mission",
+            "source_link": "https://spacenews.com/motiv-space-systems-and-picknik-robotics-collaborate-on-software-for-nasas-fly-foundational-robotics-ffr-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-11T16:19:06.333617Z",
+            "shown_at": [
+                "2026-02-11T16:19:07.263223Z"
+            ]
+        },
+        {
+            "id": "7d0d9c0ba5ee06055765fdbd1d0ae9cd",
+            "source": "spacenews",
+            "text": "Stoke Space adds $350 million to Series D round",
+            "source_link": "https://spacenews.com/stoke-space-adds-350-million-to-series-d-round/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-11T14:35:05.426984Z",
+            "shown_at": [
+                "2026-02-11T15:44:50.548743Z"
+            ]
+        },
+        {
+            "id": "e54b3a2555921d44b2f8a25e5214f0eb",
+            "source": "spacenews",
+            "text": "Eutelsat gets nearly 1 billion euros in French-backed ECA financing",
+            "source_link": "https://spacenews.com/eutelsat-gets-nearly-1-billion-euros-in-french-backed-eca-financing/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-11T14:35:05.426943Z",
+            "shown_at": [
+                "2026-02-11T15:09:54.224869Z"
+            ]
+        },
+        {
+            "id": "e25a580196e90ba511ebc53f2b74cbe5",
+            "source": "spacenews",
+            "text": "Reusable launch vehicles will change everything in space, and on Earth",
+            "source_link": "https://spacenews.com/reusable-launch-vehicles-will-change-everything-in-space-and-on-earth/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-11T14:35:05.426889Z",
+            "shown_at": [
+                "2026-02-11T14:35:06.516928Z"
+            ]
+        },
+        {
+            "id": "59bc1a6122ee1eeead392ed60fee891c",
+            "source": "spacenews",
+            "text": "China tests crewed spacecraft abort and rocket recovery in major lunar milestone",
+            "source_link": "https://spacenews.com/china-tests-crewed-spacecraft-abort-and-rocket-recovery-in-major-lunar-milestone/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-11T10:29:07.256956Z",
+            "shown_at": [
+                "2026-02-11T10:29:08.101906Z"
+            ]
+        },
+        {
+            "id": "a300c4501f7a51b4d8d22d550bd3d928",
+            "source": "spacenews",
+            "text": "FCC approves thousands more Amazon Leo satellites as Gen 1 deadline looms",
+            "source_link": "https://spacenews.com/fcc-approves-thousands-more-amazon-leo-satellites-as-gen-1-deadline-looms/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-11T05:14:05.902376Z",
+            "shown_at": [
+                "2026-02-11T05:14:06.826866Z"
+            ]
+        },
         {
             "id": "99fd8b454e2c51f63f3bf22c8c72a116",
             "source": "spacenews",
@@ -9011,394 +9167,6 @@
                 "2025-10-05T02:53:56.987811Z",
                 "2025-10-05T11:57:37.648214Z",
                 "2025-10-05T17:55:44.743339Z"
-            ]
-        },
-        {
-            "id": "be1a3a45aa42870886c84c84fbe3bd7b",
-            "source": "spacenews",
-            "text": "What’s next for direct-to-device after SpaceX’s blockbuster spectrum deal",
-            "source_link": "https://spacenews.com/whats-next-for-direct-to-device-after-spacexs-blockbuster-spectrum-deal/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-01T11:16:00.449321Z",
-            "shown_at": [
-                "2025-10-01T11:16:01.987021Z",
-                "2025-10-05T10:55:49.581231Z",
-                "2025-10-07T21:47:47.718890Z"
-            ]
-        },
-        {
-            "id": "fed37a3041cd85e344a6bf911392cc6e",
-            "source": "spacenews",
-            "text": "Synspective purchases 10 additional Electron launches",
-            "source_link": "https://spacenews.com/synspective-purchases-10-additional-electron-launches/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-01T05:21:24.072175Z",
-            "shown_at": [
-                "2025-10-01T05:21:24.758471Z",
-                "2025-10-01T09:03:58.654909Z",
-                "2025-10-04T05:48:05.792807Z",
-                "2025-10-04T18:53:18.997755Z",
-                "2025-10-07T01:51:42.995585Z",
-                "2025-10-07T23:20:02.042634Z",
-                "2025-10-08T00:21:58.268504Z",
-                "2025-10-08T02:19:58.821439Z"
-            ]
-        },
-        {
-            "id": "fd3464aa1a1096b6bb74cc17c94b25d0",
-            "source": "spacenews",
-            "text": "Australia and UK extend Space Bridge partnership",
-            "source_link": "https://spacenews.com/australia-and-uk-extend-space-bridge-partnership/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-01T04:37:40.592928Z",
-            "shown_at": [
-                "2025-10-01T04:37:41.711913Z",
-                "2025-10-04T13:56:01.929229Z",
-                "2025-10-07T07:49:43.725885Z"
-            ]
-        },
-        {
-            "id": "5c1f52d8fab4d9333f3d33b951987fba",
-            "source": "spacenews",
-            "text": "Flexell Space and NPC Spacemind Partner at IAC 2025 on Next-Generation Solar Array Development",
-            "source_link": "https://spacenews.com/flexell-space-and-npc-spacemind-partner-at-iac-2025-on-next-generation-solar-array-development/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-01T04:09:55.594207Z",
-            "shown_at": [
-                "2025-10-01T04:09:56.371969Z",
-                "2025-10-02T05:51:45.800212Z",
-                "2025-10-03T01:02:19.063614Z",
-                "2025-10-05T15:59:43.991198Z"
-            ]
-        },
-        {
-            "id": "8d1445880a52848c65c9a04621683a02",
-            "source": "spacenews",
-            "text": "Australian and Japanese organizations join forces on optical communications",
-            "source_link": "https://spacenews.com/australian-and-japanese-organizations-join-forces-on-optical-communications/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-01T01:25:51.381374Z",
-            "shown_at": [
-                "2025-10-01T01:25:52.443410Z",
-                "2025-10-02T18:38:06.514337Z",
-                "2025-10-04T03:45:43.134425Z"
-            ]
-        },
-        {
-            "id": "8ab3504e32df79d83b1c8c135deb1062",
-            "source": "spacenews",
-            "text": "Varda Space and Southern Launch agree to more capsule landings in Australia",
-            "source_link": "https://spacenews.com/varda-space-and-southern-launch-agree-to-more-capsule-landings-in-australia/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-30T22:19:41.463514Z",
-            "shown_at": [
-                "2025-09-30T22:19:42.078458Z",
-                "2025-10-02T20:42:09.685937Z",
-                "2025-10-04T08:57:42.087896Z",
-                "2025-10-07T03:53:35.363402Z",
-                "2025-10-07T05:43:55.275202Z"
-            ]
-        },
-        {
-            "id": "a69b12422abb8548867eb676ac761b43",
-            "source": "spacenews",
-            "text": "Satellite operators seek help from ITU to improve coordination for space safety",
-            "source_link": "https://spacenews.com/satellite-operators-seek-help-from-itu-to-improve-coordination-for-space-safety/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-30T21:21:53.086833Z",
-            "shown_at": [
-                "2025-09-30T21:21:53.892850Z",
-                "2025-10-05T05:49:53.651344Z",
-                "2025-10-06T22:57:56.613589Z"
-            ]
-        },
-        {
-            "id": "f77cd243bba675d3674016dc3ec9a9aa",
-            "source": "spacenews",
-            "text": "OQ Technology expands satellite IoT services to Australia",
-            "source_link": "https://spacenews.com/oq-technology-expands-satellite-iot-services-to-australia/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-30T21:07:49.404862Z",
-            "shown_at": [
-                "2025-09-30T21:07:50.141739Z",
-                "2025-10-05T18:55:44.596000Z"
-            ]
-        },
-        {
-            "id": "6a76238f38c15699af251775566cf83f",
-            "source": "breaking_defense",
-            "text": "SASC Dems skeptical of Golden Dome price, feasibility",
-            "source_link": "https://breakingdefense.com/2025/09/sasc-dems-skeptical-of-golden-dome-price-feasibility/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-30T20:10:06.469177Z",
-            "shown_at": [
-                "2025-09-30T20:10:07.526465Z",
-                "2025-10-01T08:48:30.317222Z",
-                "2025-10-01T10:45:43.405399Z",
-                "2025-10-02T07:45:54.293058Z",
-                "2025-10-03T03:30:13.220912Z",
-                "2025-10-03T04:26:06.768124Z",
-                "2025-10-03T20:07:54.090431Z",
-                "2025-10-04T18:21:45.726398Z",
-                "2025-10-05T03:23:46.335634Z",
-                "2025-10-05T15:29:56.967919Z",
-                "2025-10-06T05:22:04.820677Z",
-                "2025-10-06T09:31:52.142903Z",
-                "2025-10-06T12:25:47.513754Z",
-                "2025-10-07T09:02:12.681883Z"
-            ]
-        },
-        {
-            "id": "987b17430b2a4f5f0ef41d956f18182f",
-            "source": "breaking_defense",
-            "text": "Space Force declares ATLAS space domain awareness software ‘operational’",
-            "source_link": "https://breakingdefense.com/2025/09/space-force-declares-atlas-space-domain-awareness-software-operational/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-30T19:26:03.742216Z",
-            "shown_at": [
-                "2025-09-30T19:26:04.944820Z",
-                "2025-10-01T09:49:37.800765Z",
-                "2025-10-02T00:11:53.854381Z",
-                "2025-10-02T02:11:46.544519Z",
-                "2025-10-02T04:25:25.067539Z",
-                "2025-10-02T09:49:50.286953Z",
-                "2025-10-02T10:47:33.412606Z",
-                "2025-10-03T18:47:35.734223Z",
-                "2025-10-04T02:59:47.075760Z",
-                "2025-10-04T13:27:39.979338Z",
-                "2025-10-04T21:23:37.381940Z",
-                "2025-10-05T01:25:37.587928Z",
-                "2025-10-05T09:19:56.130295Z",
-                "2025-10-06T01:23:47.537982Z",
-                "2025-10-06T03:21:59.509768Z",
-                "2025-10-06T04:19:37.362730Z",
-                "2025-10-06T07:27:23.248363Z",
-                "2025-10-06T15:20:02.907182Z",
-                "2025-10-07T01:10:05.817899Z",
-                "2025-10-07T03:07:48.947575Z",
-                "2025-10-07T12:02:21.174457Z",
-                "2025-10-07T16:09:45.942208Z"
-            ]
-        },
-        {
-            "id": "b9d29837f8c91fc87f7e0543b380c8f6",
-            "source": "spacenews",
-            "text": "SpaceX’s D2D deal spurs space bulls",
-            "source_link": "https://spacenews.com/spacexs-d2d-deal-spurs-space-bulls/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-30T18:39:41.252238Z",
-            "shown_at": [
-                "2025-09-30T18:39:41.836456Z",
-                "2025-09-30T23:19:34.823236Z",
-                "2025-10-02T16:05:55.215811Z",
-                "2025-10-03T16:22:04.151393Z",
-                "2025-10-03T19:17:43.330937Z",
-                "2025-10-06T03:35:33.115618Z",
-                "2025-10-07T00:53:54.964365Z",
-                "2025-10-07T09:49:39.263016Z"
-            ]
-        },
-        {
-            "id": "120fed75e5c55f11d747215b43cbd6f5",
-            "source": "spacenews",
-            "text": "China set for high-stakes moon program and reusable launch tests to close out 2025",
-            "source_link": "https://spacenews.com/china-set-for-high-stakes-moon-program-and-reusable-launch-tests-to-close-out-2025/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-30T17:53:30.520305Z",
-            "shown_at": [
-                "2025-09-30T17:53:31.317574Z",
-                "2025-10-06T11:55:54.712859Z",
-                "2025-10-07T10:49:41.486979Z"
-            ]
-        },
-        {
-            "id": "1251851b37a4cf197ad42f03ace24730",
-            "source": "breaking_defense",
-            "text": "The Break Out: The highs of AFA and a Trump sartorial mystery [VIDEO]",
-            "source_link": "https://breakingdefense.com/2025/09/the-break-out-the-highs-of-afa-and-a-trump-sartorial-mystery-video/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-09-30T17:40:02.628912Z",
-            "shown_at": [
-                "2025-09-30T17:40:03.618647Z",
-                "2025-10-01T21:14:30.320752Z",
-                "2025-10-02T05:23:38.052048Z",
-                "2025-10-02T13:21:46.148801Z",
-                "2025-10-03T17:51:38.489276Z",
-                "2025-10-04T08:07:50.658232Z",
-                "2025-10-04T20:23:40.414203Z",
-                "2025-10-05T02:25:45.165833Z",
-                "2025-10-05T06:21:31.831862Z",
-                "2025-10-06T06:23:50.309543Z",
-                "2025-10-06T08:31:59.811053Z"
-            ]
-        },
-        {
-            "id": "a300c4501f7a51b4d8d22d550bd3d928",
-            "source": "spacenews",
-            "text": "FCC approves thousands more Amazon Leo satellites as Gen 1 deadline looms",
-            "source_link": "https://spacenews.com/fcc-approves-thousands-more-amazon-leo-satellites-as-gen-1-deadline-looms/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-11T05:14:05.902376Z",
-            "shown_at": [
-                "2026-02-11T05:14:06.826866Z"
-            ]
-        },
-        {
-            "id": "59bc1a6122ee1eeead392ed60fee891c",
-            "source": "spacenews",
-            "text": "China tests crewed spacecraft abort and rocket recovery in major lunar milestone",
-            "source_link": "https://spacenews.com/china-tests-crewed-spacecraft-abort-and-rocket-recovery-in-major-lunar-milestone/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-11T10:29:07.256956Z",
-            "shown_at": [
-                "2026-02-11T10:29:08.101906Z"
-            ]
-        },
-        {
-            "id": "e25a580196e90ba511ebc53f2b74cbe5",
-            "source": "spacenews",
-            "text": "Reusable launch vehicles will change everything in space, and on Earth",
-            "source_link": "https://spacenews.com/reusable-launch-vehicles-will-change-everything-in-space-and-on-earth/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-11T14:35:05.426889Z",
-            "shown_at": [
-                "2026-02-11T14:35:06.516928Z"
-            ]
-        },
-        {
-            "id": "e54b3a2555921d44b2f8a25e5214f0eb",
-            "source": "spacenews",
-            "text": "Eutelsat gets nearly 1 billion euros in French-backed ECA financing",
-            "source_link": "https://spacenews.com/eutelsat-gets-nearly-1-billion-euros-in-french-backed-eca-financing/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-11T14:35:05.426943Z",
-            "shown_at": [
-                "2026-02-11T15:09:54.224869Z"
-            ]
-        },
-        {
-            "id": "7d0d9c0ba5ee06055765fdbd1d0ae9cd",
-            "source": "spacenews",
-            "text": "Stoke Space adds $350 million to Series D round",
-            "source_link": "https://spacenews.com/stoke-space-adds-350-million-to-series-d-round/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-11T14:35:05.426984Z",
-            "shown_at": [
-                "2026-02-11T15:44:50.548743Z"
-            ]
-        },
-        {
-            "id": "29a19dfdf24def9156cd7dd4a59ac2e9",
-            "source": "spacenews",
-            "text": "Motiv Space Systems and PickNik Robotics Collaborate on Software for NASA’s Fly Foundational Robotics (FFR) Mission",
-            "source_link": "https://spacenews.com/motiv-space-systems-and-picknik-robotics-collaborate-on-software-for-nasas-fly-foundational-robotics-ffr-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-11T16:19:06.333617Z",
-            "shown_at": [
-                "2026-02-11T16:19:07.263223Z"
-            ]
-        },
-        {
-            "id": "c00a1540ac02c493a53c66c85cdfc977",
-            "source": "spacenews",
-            "text": "Nine innovative companies selected for fourth cohort of SDA TAP Lab – Catalyst Campus Mini Accelerator",
-            "source_link": "https://spacenews.com/nine-innovative-companies-selected-for-fourth-cohort-of-sda-tap-lab-catalyst-campus-mini-accelerator/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-11T16:19:06.333675Z",
-            "shown_at": [
-                "2026-02-11T16:54:19.037144Z"
-            ]
-        },
-        {
-            "id": "3dbba3726d6400bf0c975c0a3182b923",
-            "source": "spacenews",
-            "text": "How much is vertical integration squeezing the smallsat opportunity?",
-            "source_link": "https://spacenews.com/how-much-is-vertical-integration-squeezing-the-smallsat-opportunity/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-11T17:29:14.639337Z",
-            "shown_at": [
-                "2026-02-11T17:29:15.684757Z"
-            ]
-        },
-        {
-            "id": "b7b0aa5425b44d66080bb5261a729072",
-            "source": "spacenews",
-            "text": "The Exploration Company completes water-impact tests for its Nyx space capsule",
-            "source_link": "https://spacenews.com/the-exploration-company-completes-water-impact-tests-for-its-nyx-space-capsule/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-11T19:49:20.850612Z",
-            "shown_at": [
-                "2026-02-11T19:49:22.043380Z"
-            ]
-        },
-        {
-            "id": "be3c0fbc22da5d8656a6c326ccd97b5d",
-            "source": "spacenews",
-            "text": "Demand for sovereign systems extends to the Earth-observation stack",
-            "source_link": "https://spacenews.com/demand-for-sovereign-systems-extends-to-the-earth-observation-stack/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-11T20:24:22.261206Z",
-            "shown_at": [
-                "2026-02-11T20:24:23.385810Z"
-            ]
-        },
-        {
-            "id": "5f7076454764c8f876e1cb651b170cae",
-            "source": "spacenews",
-            "text": "Integrate Raises $17M to Commercialize the World’s First Ultra-Secure Project Management Platform for Classified Programs",
-            "source_link": "https://spacenews.com/integrate-raises-17m-to-commercialize-the-worlds-first-ultra-secure-project-management-platform-for-classified-programs/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-11T20:59:05.592995Z",
-            "shown_at": [
-                "2026-02-11T20:59:06.635085Z"
-            ]
-        },
-        {
-            "id": "05053ddeca64ea3a5710207999cda9fd",
-            "source": "spacenews",
-            "text": "UK launcher Orbex files for administration after failed funding efforts",
-            "source_link": "https://spacenews.com/uk-launcher-orbex-files-for-administration-after-failed-funding-efforts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-11T22:44:41.216490Z",
-            "shown_at": [
-                "2026-02-11T22:44:42.361934Z"
-            ]
-        },
-        {
-            "id": "a1004d236ac09c2b7697106870850072",
-            "source": "spacenews",
-            "text": "Space companies bet on Golden Dome as questions persist over scope and funding",
-            "source_link": "https://spacenews.com/space-companies-bet-on-golden-dome-as-questions-persist-over-scope-and-funding/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-11T22:44:41.216559Z",
-            "shown_at": [
-                "2026-02-11T23:19:16.923923Z"
             ]
         }
     ]
