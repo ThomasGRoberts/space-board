@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 27 | 19 | 42 |
-| breaking_defense | 0 | 1 | 10 | 19 |
+| breaking_defense | 0 | 1 | 11 | 20 |
 | nyt | 1 | 2 | 12 | 21 |
 
 # Shown Order
@@ -3704,3 +3704,4 @@
 - **Feb 12, 04:49 PM** - Lost Soviet Luna 9 Moon Lander May Have Been Found (nyt)
 - **Feb 12, 05:24 PM** - ‘Leaders can be replaced, institutional knowledge cannot’ (spacenews)
 - **Feb 12, 05:59 PM** - ULA’s Vulcan launches Space Force mission; solid booster anomaly under investigation (spacenews)
+- **Feb 12, 06:35 PM** - To overcome Golden Dome ‘affordability’ hurdle, DoD needs acquisition reform, AI: Official (breaking_defense)
