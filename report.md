@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 27 | 20 | 40 |
+| spacenews | 14 | 28 | 21 | 41 |
 | breaking_defense | 0 | 2 | 10 | 20 |
 | nyt | 1 | 3 | 11 | 22 |
 
@@ -3694,3 +3694,4 @@
 - **Feb 12, 10:59 AM** - New UN forum seeks busting space traffic cooperation barriers (breaking_defense)
 - **Feb 12, 11:34 AM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
 - **Feb 12, 12:08 PM** - ‘We helped usher in the modern era of AI in NGA.’ (spacenews)
+- **Feb 12, 12:44 PM** - Launch companies debate how to compete against SpaceX (spacenews)
