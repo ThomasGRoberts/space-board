@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 26 | 20 | 39 |
+| spacenews | 14 | 27 | 21 | 40 |
 | breaking_defense | 0 | 2 | 10 | 20 |
 | nyt | 1 | 3 | 11 | 23 |
 
@@ -3690,3 +3690,4 @@
 - **Feb 12, 08:39 AM** - Falcon 9 returns to flight after upper stage engine investigation (spacenews)
 - **Feb 12, 09:14 AM** - To overcome Golden Dome ‘affordability’ hurdle, DoD needs acquisition reform, AI: Official (breaking_defense)
 - **Feb 12, 09:49 AM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
+- **Feb 12, 10:24 AM** - ULA’s Vulcan launches U.S. Space Force mission to geosynchronous orbit (spacenews)
