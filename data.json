@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-12T00:04:28.166112+00:00",
-    "trigger_count": 6,
-    "current_item_id": "92aeea3af302222def5475ee88e87b7e",
+    "trigger_count": 0,
+    "current_item_id": "659acea8d4fe42c5eb07592458562016",
     "data": [
         {
             "id": "a1004d236ac09c2b7697106870850072",
@@ -9186,6 +9186,18 @@
             "fetched_datetime": "2026-02-12T02:49:01.522468Z",
             "shown_at": [
                 "2026-02-12T02:49:02.266908Z"
+            ]
+        },
+        {
+            "id": "659acea8d4fe42c5eb07592458562016",
+            "source": "spacenews",
+            "text": "FCC Space Bureau chief shares agenda for regulatory reform",
+            "source_link": "https://spacenews.com/fcc-space-bureau-chief-shares-agenda-for-regulatory-reform/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-12T05:09:06.730467Z",
+            "shown_at": [
+                "2026-02-12T05:09:07.532876Z"
             ]
         }
     ]

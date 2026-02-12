@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 25 | 20 | 39 |
+| spacenews | 14 | 26 | 21 | 40 |
 | breaking_defense | 0 | 2 | 10 | 20 |
 | nyt | 1 | 3 | 11 | 23 |
 
@@ -3681,3 +3681,4 @@
 - **Feb 12, 03:24 AM** - Vantor wins $5.3 million NGA contract to spot terrain changes using commercial satellite data (spacenews)
 - **Feb 12, 03:59 AM** - Space Force buys second Otter spacecraft to power satellites on orbit (breaking_defense)
 - **Feb 12, 04:34 AM** - Lost Soviet Luna 9 Moon Lander May Have Been Found (nyt)
+- **Feb 12, 05:09 AM** - FCC Space Bureau chief shares agenda for regulatory reform (spacenews)
