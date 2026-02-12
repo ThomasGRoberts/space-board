@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-12T00:04:28.166112+00:00",
-    "trigger_count": 6,
-    "current_item_id": "320a95b1ce1429f3a8ca545aa544517f",
+    "trigger_count": 0,
+    "current_item_id": "0fd7ce26ee91773d4d49cf1c4288286e",
     "data": [
         {
             "id": "a1004d236ac09c2b7697106870850072",
@@ -9291,6 +9291,18 @@
             "fetched_datetime": "2026-02-12T19:44:10.353870Z",
             "shown_at": [
                 "2026-02-12T19:44:11.359178Z"
+            ]
+        },
+        {
+            "id": "0fd7ce26ee91773d4d49cf1c4288286e",
+            "source": "spacenews",
+            "text": "Axiom Space raises additional $350 million",
+            "source_link": "https://spacenews.com/axiom-space-raises-additional-350-million/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-12T21:29:08.718351Z",
+            "shown_at": [
+                "2026-02-12T21:29:09.803999Z"
             ]
         }
     ]
