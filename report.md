@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 25 | 21 | 40 |
-| breaking_defense | 0 | 2 | 10 | 20 |
+| breaking_defense | 0 | 2 | 11 | 21 |
 | nyt | 0 | 2 | 10 | 22 |
 
 # Shown Order
@@ -3675,3 +3675,4 @@
 - **Feb 11, 11:54 PM** - New UN forum seeks busting space traffic cooperation barriers (breaking_defense)
 - **Feb 12, 12:29 AM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
 - **Feb 12, 01:04 AM** - Spaceium demonstrates refueling actuator in orbit (spacenews)
+- **Feb 12, 01:39 AM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
