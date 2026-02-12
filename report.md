@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 26 | 20 | 39 |
+| spacenews | 13 | 26 | 21 | 40 |
 | breaking_defense | 0 | 2 | 10 | 20 |
 | nyt | 1 | 3 | 11 | 23 |
 
@@ -3687,3 +3687,4 @@
 - **Feb 12, 06:54 AM** - NASA selects two Earth science missions for development (spacenews)
 - **Feb 12, 07:29 AM** - To overcome Golden Dome ‘affordability’ hurdle, DoD needs acquisition reform, AI: Official (breaking_defense)
 - **Feb 12, 08:04 AM** - ‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway (nyt)
+- **Feb 12, 08:39 AM** - Falcon 9 returns to flight after upper stage engine investigation (spacenews)
