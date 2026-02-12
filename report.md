@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 25 | 17 | 39 |
 | breaking_defense | 1 | 1 | 12 | 21 |
-| nyt | 1 | 1 | 12 | 22 |
+| nyt | 1 | 1 | 13 | 23 |
 
 # Shown Order
 
@@ -3711,3 +3711,4 @@
 - **Feb 12, 08:54 PM** - ‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway (nyt)
 - **Feb 12, 09:29 PM** - Axiom Space raises additional $350 million (spacenews)
 - **Feb 12, 10:04 PM** - Project Hecate: The Space Force’s quiet effort to keep GPS survivable after 2040 (breaking_defense)
+- **Feb 12, 10:39 PM** - ‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway (nyt)
