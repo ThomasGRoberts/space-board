@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 25 | 17 | 40 |
-| breaking_defense | 0 | 0 | 11 | 20 |
+| breaking_defense | 1 | 1 | 12 | 21 |
 | nyt | 1 | 1 | 13 | 22 |
 
 # Shown Order
@@ -3710,3 +3710,4 @@
 - **Feb 12, 08:19 PM** - New UN forum seeks busting space traffic cooperation barriers (breaking_defense)
 - **Feb 12, 08:54 PM** - ‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway (nyt)
 - **Feb 12, 09:29 PM** - Axiom Space raises additional $350 million (spacenews)
+- **Feb 12, 10:04 PM** - Project Hecate: The Space Force’s quiet effort to keep GPS survivable after 2040 (breaking_defense)

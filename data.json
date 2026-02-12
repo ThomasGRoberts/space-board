@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-12T00:04:28.166112+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0fd7ce26ee91773d4d49cf1c4288286e",
+    "trigger_count": 0,
+    "current_item_id": "9ad62af42e23202b293757d2a85b00f1",
     "data": [
         {
             "id": "a1004d236ac09c2b7697106870850072",
@@ -9303,6 +9303,18 @@
             "fetched_datetime": "2026-02-12T21:29:08.718351Z",
             "shown_at": [
                 "2026-02-12T21:29:09.803999Z"
+            ]
+        },
+        {
+            "id": "9ad62af42e23202b293757d2a85b00f1",
+            "source": "breaking_defense",
+            "text": "Project Hecate: The Space Force’s quiet effort to keep GPS survivable after 2040",
+            "source_link": "https://breakingdefense.com/2026/02/project-hecate-the-space-forces-quiet-effort-to-keep-gps-survivable-after-2040/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-12T22:04:21.290455Z",
+            "shown_at": [
+                "2026-02-12T22:04:22.590887Z"
             ]
         }
     ]
