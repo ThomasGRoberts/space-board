@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 26 | 17 | 40 |
 | breaking_defense | 0 | 1 | 12 | 21 |
-| nyt | 1 | 1 | 12 | 21 |
+| nyt | 1 | 1 | 13 | 22 |
 
 # Shown Order
 
@@ -3708,3 +3708,4 @@
 - **Feb 12, 07:09 PM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
 - **Feb 12, 07:44 PM** - ThinKom gets military contract to supply portable ground stations for satellite communications (spacenews)
 - **Feb 12, 08:19 PM** - New UN forum seeks busting space traffic cooperation barriers (breaking_defense)
+- **Feb 12, 08:54 PM** - ‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway (nyt)
