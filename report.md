@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 28 | 20 | 41 |
-| breaking_defense | 0 | 2 | 10 | 19 |
+| breaking_defense | 0 | 2 | 11 | 20 |
 | nyt | 1 | 3 | 11 | 22 |
 
 # Shown Order
@@ -3700,3 +3700,4 @@
 - **Feb 12, 02:29 PM** - SpaceX IPO could drive investor interest in other space companies (spacenews)
 - **Feb 12, 03:04 PM** - It is time to take astronomy off Earth (spacenews)
 - **Feb 12, 03:39 PM** - Software startup Integrate makes push into defense market following Space Force award (spacenews)
+- **Feb 12, 04:14 PM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
