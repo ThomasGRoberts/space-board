@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 26 | 20 | 40 |
 | breaking_defense | 0 | 2 | 10 | 20 |
-| nyt | 1 | 3 | 11 | 22 |
+| nyt | 1 | 3 | 12 | 23 |
 
 # Shown Order
 
@@ -3683,3 +3683,4 @@
 - **Feb 12, 04:34 AM** - Lost Soviet Luna 9 Moon Lander May Have Been Found (nyt)
 - **Feb 12, 05:09 AM** - FCC Space Bureau chief shares agenda for regulatory reform (spacenews)
 - **Feb 12, 05:44 AM** - To overcome Golden Dome ‘affordability’ hurdle, DoD needs acquisition reform, AI: Official (breaking_defense)
+- **Feb 12, 06:19 AM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
