@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 27 | 18 | 41 |
+| spacenews | 12 | 28 | 19 | 42 |
 | breaking_defense | 0 | 1 | 11 | 20 |
 | nyt | 1 | 1 | 12 | 21 |
 
@@ -3706,3 +3706,4 @@
 - **Feb 12, 05:59 PM** - ULA’s Vulcan launches Space Force mission; solid booster anomaly under investigation (spacenews)
 - **Feb 12, 06:35 PM** - To overcome Golden Dome ‘affordability’ hurdle, DoD needs acquisition reform, AI: Official (breaking_defense)
 - **Feb 12, 07:09 PM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
+- **Feb 12, 07:44 PM** - ThinKom gets military contract to supply portable ground stations for satellite communications (spacenews)
