@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 25 | 21 | 40 |
-| breaking_defense | 0 | 2 | 9 | 20 |
+| breaking_defense | 0 | 2 | 10 | 21 |
 | nyt | 1 | 3 | 11 | 22 |
 
 # Shown Order
@@ -3679,3 +3679,4 @@
 - **Feb 12, 02:14 AM** - Lost Soviet Luna 9 Moon Lander May Have Been Found (nyt)
 - **Feb 12, 02:49 AM** - This Comet Stopped Spinning. Then It Started Rotating Backward. (nyt)
 - **Feb 12, 03:24 AM** - Vantor wins $5.3 million NGA contract to spot terrain changes using commercial satellite data (spacenews)
+- **Feb 12, 03:59 AM** - Space Force buys second Otter spacecraft to power satellites on orbit (breaking_defense)
