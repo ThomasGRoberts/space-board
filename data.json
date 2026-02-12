@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-12T00:04:28.166112+00:00",
-    "trigger_count": 6,
-    "current_item_id": "92aeea3af302222def5475ee88e87b7e",
+    "trigger_count": 0,
+    "current_item_id": "8eab6a29a30e73d9897181c93350a8cd",
     "data": [
         {
             "id": "a1004d236ac09c2b7697106870850072",
@@ -9171,6 +9171,18 @@
                 "2025-10-05T02:53:56.987811Z",
                 "2025-10-05T11:57:37.648214Z",
                 "2025-10-05T17:55:44.743339Z"
+            ]
+        },
+        {
+            "id": "8eab6a29a30e73d9897181c93350a8cd",
+            "source": "nyt",
+            "text": "This Comet Stopped Spinning. Then It Started Rotating Backward.",
+            "source_link": "https://www.nytimes.com/2026/02/11/science/comet-spinning-backwards.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-12T02:49:01.522468Z",
+            "shown_at": [
+                "2026-02-12T02:49:02.266908Z"
             ]
         }
     ]

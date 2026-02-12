@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 25 | 20 | 40 |
 | breaking_defense | 0 | 2 | 10 | 20 |
-| nyt | 0 | 2 | 11 | 22 |
+| nyt | 1 | 3 | 12 | 23 |
 
 # Shown Order
 
@@ -3677,3 +3677,4 @@
 - **Feb 12, 01:04 AM** - Spaceium demonstrates refueling actuator in orbit (spacenews)
 - **Feb 12, 01:39 AM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
 - **Feb 12, 02:14 AM** - Lost Soviet Luna 9 Moon Lander May Have Been Found (nyt)
+- **Feb 12, 02:49 AM** - This Comet Stopped Spinning. Then It Started Rotating Backward. (nyt)
