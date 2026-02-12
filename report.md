@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 28 | 19 | 41 |
 | breaking_defense | 0 | 1 | 11 | 19 |
-| nyt | 1 | 3 | 11 | 22 |
+| nyt | 1 | 3 | 12 | 23 |
 
 # Shown Order
 
@@ -3701,3 +3701,4 @@
 - **Feb 12, 03:04 PM** - It is time to take astronomy off Earth (spacenews)
 - **Feb 12, 03:39 PM** - Software startup Integrate makes push into defense market following Space Force award (spacenews)
 - **Feb 12, 04:14 PM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
+- **Feb 12, 04:49 PM** - Lost Soviet Luna 9 Moon Lander May Have Been Found (nyt)
