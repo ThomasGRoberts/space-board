@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 26 | 18 | 41 |
+| spacenews | 11 | 27 | 19 | 42 |
 | breaking_defense | 0 | 1 | 11 | 19 |
 | nyt | 1 | 3 | 12 | 22 |
 
@@ -3703,3 +3703,4 @@
 - **Feb 12, 04:14 PM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
 - **Feb 12, 04:49 PM** - Lost Soviet Luna 9 Moon Lander May Have Been Found (nyt)
 - **Feb 12, 05:24 PM** - ‘Leaders can be replaced, institutional knowledge cannot’ (spacenews)
+- **Feb 12, 05:59 PM** - ULA’s Vulcan launches Space Force mission; solid booster anomaly under investigation (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-12T00:04:28.166112+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d54d386b6f85d3274c4f5e6ad251d9d1",
+    "trigger_count": 0,
+    "current_item_id": "1392a495d6bbffd1c0123f77a3f6e4c2",
     "data": [
         {
             "id": "a1004d236ac09c2b7697106870850072",
@@ -9263,6 +9263,18 @@
             "fetched_datetime": "2026-02-12T15:04:47.160373Z",
             "shown_at": [
                 "2026-02-12T15:39:16.626636Z"
+            ]
+        },
+        {
+            "id": "1392a495d6bbffd1c0123f77a3f6e4c2",
+            "source": "spacenews",
+            "text": "ULA’s Vulcan launches Space Force mission; solid booster anomaly under investigation",
+            "source_link": "https://spacenews.com/ulas-vulcan-launches-u-s-space-force-mission-to-geosynchronous-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-12T17:59:06.391634Z",
+            "shown_at": [
+                "2026-02-12T17:59:07.360632Z"
             ]
         }
     ]
