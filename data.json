@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-12T00:04:28.166112+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d470c25e8fc3e697af0ea06fecf6264f",
+    "trigger_count": 0,
+    "current_item_id": "45c130a1aedc36599d40cd19c3afe49a",
     "data": [
         {
             "id": "a1004d236ac09c2b7697106870850072",
@@ -9237,6 +9237,27 @@
             "shown_at": [
                 "2026-02-12T12:44:51.131180Z"
             ]
+        },
+        {
+            "id": "45c130a1aedc36599d40cd19c3afe49a",
+            "source": "spacenews",
+            "text": "It is time to take astronomy off Earth",
+            "source_link": "https://spacenews.com/it-is-time-to-take-astronomy-off-earth/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-12T15:04:47.160313Z",
+            "shown_at": [
+                "2026-02-12T15:04:48.286130Z"
+            ]
+        },
+        {
+            "id": "e0c9522bce1ff39a5adcce9a29ca667a",
+            "source": "spacenews",
+            "text": "Software startup Integrate makes push into defense market following Space Force award",
+            "source_link": "https://spacenews.com/software-startup-integrate-makes-push-into-defense-market-following-space-force-award/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-02-12T15:04:47.160373Z"
         }
     ]
 }
