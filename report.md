@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 27 | 20 | 39 |
+| spacenews | 13 | 27 | 21 | 40 |
 | breaking_defense | 0 | 2 | 10 | 20 |
 | nyt | 1 | 3 | 11 | 23 |
 
@@ -3693,3 +3693,4 @@
 - **Feb 12, 10:24 AM** - ULA’s Vulcan launches U.S. Space Force mission to geosynchronous orbit (spacenews)
 - **Feb 12, 10:59 AM** - New UN forum seeks busting space traffic cooperation barriers (breaking_defense)
 - **Feb 12, 11:34 AM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
+- **Feb 12, 12:08 PM** - ‘We helped usher in the modern era of AI in NGA.’ (spacenews)
