@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 27 | 20 | 40 |
 | breaking_defense | 0 | 2 | 10 | 20 |
-| nyt | 1 | 3 | 11 | 22 |
+| nyt | 1 | 3 | 12 | 23 |
 
 # Shown Order
 
@@ -3692,3 +3692,4 @@
 - **Feb 12, 09:49 AM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
 - **Feb 12, 10:24 AM** - ULA’s Vulcan launches U.S. Space Force mission to geosynchronous orbit (spacenews)
 - **Feb 12, 10:59 AM** - New UN forum seeks busting space traffic cooperation barriers (breaking_defense)
+- **Feb 12, 11:34 AM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
