@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 26 | 18 | 41 |
-| breaking_defense | 0 | 1 | 11 | 20 |
+| breaking_defense | 0 | 1 | 12 | 21 |
 | nyt | 1 | 1 | 12 | 21 |
 
 # Shown Order
@@ -3707,3 +3707,4 @@
 - **Feb 12, 06:35 PM** - To overcome Golden Dome ‘affordability’ hurdle, DoD needs acquisition reform, AI: Official (breaking_defense)
 - **Feb 12, 07:09 PM** - At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops (nyt)
 - **Feb 12, 07:44 PM** - ThinKom gets military contract to supply portable ground stations for satellite communications (spacenews)
+- **Feb 12, 08:19 PM** - New UN forum seeks busting space traffic cooperation barriers (breaking_defense)
