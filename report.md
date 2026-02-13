@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 16 | 13 | 30 |
+| spacenews | 7 | 17 | 14 | 31 |
 | breaking_defense | 1 | 1 | 9 | 20 |
 | nyt | 0 | 1 | 8 | 21 |
 
@@ -3686,3 +3686,4 @@
 - **Feb 13, 08:04 PM** - ‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway (nyt)
 - **Feb 13, 08:39 PM** - Falcon 9 returns to flight after upper stage engine investigation (spacenews)
 - **Feb 13, 09:14 PM** - New UN forum seeks busting space traffic cooperation barriers (breaking_defense)
+- **Feb 13, 09:49 PM** - Senate committee advances FCC satellite licensing bill after changes (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-13T00:04:25.455861+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a9f3599573408f7783c51330403643e1",
+    "trigger_count": 0,
+    "current_item_id": "7e5b8aedc17623ee2fd7e805ee89da6e",
     "data": [
         {
             "id": "5d6719c29a6f1e5ba79cf49f81b9e471",
@@ -9224,6 +9224,18 @@
             "fetched_datetime": "2026-02-13T17:44:50.795035Z",
             "shown_at": [
                 "2026-02-13T18:54:10.905989Z"
+            ]
+        },
+        {
+            "id": "7e5b8aedc17623ee2fd7e805ee89da6e",
+            "source": "spacenews",
+            "text": "Senate committee advances FCC satellite licensing bill after changes",
+            "source_link": "https://spacenews.com/senate-committee-advances-fcc-satellite-licensing-bill-after-changes/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-13T21:49:31.864575Z",
+            "shown_at": [
+                "2026-02-13T21:49:33.032865Z"
             ]
         }
     ]
