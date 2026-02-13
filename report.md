@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 22 | 17 | 37 |
+| spacenews | 9 | 22 | 18 | 38 |
 | breaking_defense | 1 | 1 | 12 | 22 |
 | nyt | 0 | 1 | 12 | 23 |
 
@@ -3674,3 +3674,4 @@
 - **Feb 13, 06:49 AM** - ‘Now it’s time to turn the baton over to others. I hope there’s somebody else to grab that baton.’ (spacenews)
 - **Feb 13, 07:24 AM** - New UN forum seeks busting space traffic cooperation barriers (breaking_defense)
 - **Feb 13, 07:59 AM** - Lost Soviet Luna 9 Moon Lander May Have Been Found (nyt)
+- **Feb 13, 08:34 AM** - SpaceX IPO could drive investor interest in other space companies (spacenews)
