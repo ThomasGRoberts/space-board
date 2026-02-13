@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-13T00:04:25.455861+00:00",
-    "trigger_count": 6,
-    "current_item_id": "fa9fd9a1d4ee5837538972b9b379d7f7",
+    "trigger_count": 0,
+    "current_item_id": "aa25cfd4e9a49097b53024841b2a527b",
     "data": [
         {
             "id": "5d6719c29a6f1e5ba79cf49f81b9e471",
@@ -9172,6 +9172,18 @@
                 "2025-10-05T22:39:51.704554Z",
                 "2025-10-07T12:49:46.886996Z",
                 "2025-10-09T01:11:55.341920Z"
+            ]
+        },
+        {
+            "id": "aa25cfd4e9a49097b53024841b2a527b",
+            "source": "spacenews",
+            "text": "China’s iSpace launch firm raises record $729 million for reusable rockets",
+            "source_link": "https://spacenews.com/chinas-ispace-launch-firm-raises-record-729-million-for-reusable-rockets/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-13T10:58:58.818746Z",
+            "shown_at": [
+                "2026-02-13T10:58:59.576222Z"
             ]
         }
     ]
