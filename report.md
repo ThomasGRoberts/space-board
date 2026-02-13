@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 23 | 17 | 37 |
+| spacenews | 10 | 23 | 18 | 38 |
 | breaking_defense | 1 | 1 | 12 | 22 |
 | nyt | 0 | 1 | 12 | 23 |
 
@@ -3665,3 +3665,4 @@
 - **Feb 13, 01:34 AM** - Software startup Integrate makes push into defense market following Space Force award (spacenews)
 - **Feb 13, 02:09 AM** - HEO, SatVu, Sierra Nevada nab first of NRO’s new commercial imagery contracts (breaking_defense)
 - **Feb 13, 02:43 AM** - Lost Soviet Luna 9 Moon Lander May Have Been Found (nyt)
+- **Feb 13, 03:19 AM** - Tomorrow.io banks $175 million for DeepSky weather constellation (spacenews)
