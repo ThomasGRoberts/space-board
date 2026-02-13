@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 23 | 17 | 38 |
-| breaking_defense | 1 | 1 | 11 | 21 |
+| breaking_defense | 1 | 1 | 12 | 22 |
 | nyt | 1 | 1 | 13 | 23 |
 
 # Shown Order
@@ -3663,3 +3663,4 @@
 - **Feb 13, 12:23 AM** - New UN forum seeks busting space traffic cooperation barriers (breaking_defense)
 - **Feb 13, 12:59 AM** - ‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway (nyt)
 - **Feb 13, 01:34 AM** - Software startup Integrate makes push into defense market following Space Force award (spacenews)
+- **Feb 13, 02:09 AM** - HEO, SatVu, Sierra Nevada nab first of NRO’s new commercial imagery contracts (breaking_defense)
