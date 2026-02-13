@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 22 | 17 | 37 |
+| spacenews | 9 | 22 | 18 | 38 |
 | breaking_defense | 1 | 1 | 12 | 22 |
 | nyt | 0 | 1 | 12 | 23 |
 
@@ -3671,3 +3671,4 @@
 - **Feb 13, 05:04 AM** - ULA seeks to rebuild launch cadence after CEO’s exit (spacenews)
 - **Feb 13, 05:38 AM** - Space Force buys second Otter spacecraft to power satellites on orbit (breaking_defense)
 - **Feb 13, 06:14 AM** - ‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway (nyt)
+- **Feb 13, 06:49 AM** - ‘Now it’s time to turn the baton over to others. I hope there’s somebody else to grab that baton.’ (spacenews)
