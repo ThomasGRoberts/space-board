@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 23 | 17 | 37 |
 | breaking_defense | 1 | 1 | 12 | 22 |
-| nyt | 1 | 1 | 12 | 23 |
+| nyt | 1 | 1 | 13 | 24 |
 
 # Shown Order
 
@@ -3661,3 +3661,4 @@
 - **Feb 12, 11:14 PM** - Space startups find more paths to liquidity as investors warm to maturing sector (spacenews)
 - **Feb 12, 11:48 PM** - First Ariane 64 launches Amazon Leo satellites (spacenews)
 - **Feb 13, 12:23 AM** - New UN forum seeks busting space traffic cooperation barriers (breaking_defense)
+- **Feb 13, 12:59 AM** - ‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway (nyt)
