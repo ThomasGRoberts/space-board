@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 18 | 13 | 31 |
 | breaking_defense | 1 | 1 | 9 | 20 |
-| nyt | 0 | 1 | 8 | 20 |
+| nyt | 0 | 1 | 9 | 21 |
 
 # Shown Order
 
@@ -3683,3 +3683,4 @@
 - **Feb 13, 06:19 PM** - Crew-12 launches to ISS (spacenews)
 - **Feb 13, 06:54 PM** - Vast wins ISS private astronaut mission (spacenews)
 - **Feb 13, 07:29 PM** - Project Hecate: The Space Force’s quiet effort to keep GPS survivable after 2040 (breaking_defense)
+- **Feb 13, 08:04 PM** - ‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway (nyt)
