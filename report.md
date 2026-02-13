@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 14 | 31 |
 | breaking_defense | 0 | 1 | 8 | 20 |
-| nyt | 0 | 1 | 8 | 20 |
+| nyt | 0 | 1 | 9 | 21 |
 
 # Shown Order
 
@@ -3687,3 +3687,4 @@
 - **Feb 13, 08:39 PM** - Falcon 9 returns to flight after upper stage engine investigation (spacenews)
 - **Feb 13, 09:14 PM** - New UN forum seeks busting space traffic cooperation barriers (breaking_defense)
 - **Feb 13, 09:49 PM** - Senate committee advances FCC satellite licensing bill after changes (spacenews)
+- **Feb 13, 10:24 PM** - ‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway (nyt)
