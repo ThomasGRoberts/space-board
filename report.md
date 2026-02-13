@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 16 | 14 | 30 |
-| breaking_defense | 1 | 1 | 8 | 20 |
+| breaking_defense | 1 | 1 | 9 | 21 |
 | nyt | 0 | 1 | 8 | 21 |
 
 # Shown Order
@@ -3685,3 +3685,4 @@
 - **Feb 13, 07:29 PM** - Project Hecate: The Space Force’s quiet effort to keep GPS survivable after 2040 (breaking_defense)
 - **Feb 13, 08:04 PM** - ‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway (nyt)
 - **Feb 13, 08:39 PM** - Falcon 9 returns to flight after upper stage engine investigation (spacenews)
+- **Feb 13, 09:14 PM** - New UN forum seeks busting space traffic cooperation barriers (breaking_defense)
