@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 19 | 12 | 31 |
+| spacenews | 8 | 19 | 13 | 32 |
 | breaking_defense | 1 | 1 | 9 | 19 |
 | nyt | 0 | 1 | 9 | 21 |
 
@@ -3680,3 +3680,4 @@
 - **Feb 13, 10:19 AM** - ULA seeks to rebuild launch cadence after CEO’s exit (spacenews)
 - **Feb 13, 10:58 AM** - China’s iSpace launch firm raises record $729 million for reusable rockets (spacenews)
 - **Feb 13, 05:44 PM** - Startup bets on new approach to space-based missile defense (spacenews)
+- **Feb 13, 06:19 PM** - Crew-12 launches to ISS (spacenews)
