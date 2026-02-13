@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 23 | 17 | 37 |
+| spacenews | 10 | 23 | 18 | 38 |
 | breaking_defense | 1 | 1 | 12 | 22 |
 | nyt | 0 | 1 | 12 | 23 |
 
@@ -3668,3 +3668,4 @@
 - **Feb 13, 03:19 AM** - Tomorrow.io banks $175 million for DeepSky weather constellation (spacenews)
 - **Feb 13, 03:54 AM** - Space Force buys second Otter spacecraft to power satellites on orbit (breaking_defense)
 - **Feb 13, 04:29 AM** - Lost Soviet Luna 9 Moon Lander May Have Been Found (nyt)
+- **Feb 13, 05:04 AM** - ULA seeks to rebuild launch cadence after CEO’s exit (spacenews)
