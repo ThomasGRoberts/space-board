@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 19 | 14 | 32 |
-| breaking_defense | 1 | 1 | 8 | 19 |
+| breaking_defense | 1 | 1 | 9 | 20 |
 | nyt | 0 | 1 | 8 | 20 |
 
 # Shown Order
@@ -3682,3 +3682,4 @@
 - **Feb 13, 05:44 PM** - Startup bets on new approach to space-based missile defense (spacenews)
 - **Feb 13, 06:19 PM** - Crew-12 launches to ISS (spacenews)
 - **Feb 13, 06:54 PM** - Vast wins ISS private astronaut mission (spacenews)
+- **Feb 13, 07:29 PM** - Project Hecate: The Space Force’s quiet effort to keep GPS survivable after 2040 (breaking_defense)
