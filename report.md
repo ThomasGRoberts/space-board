@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 22 | 17 | 37 |
+| spacenews | 9 | 22 | 18 | 38 |
 | breaking_defense | 1 | 1 | 12 | 22 |
 | nyt | 0 | 1 | 12 | 23 |
 
@@ -3677,3 +3677,4 @@
 - **Feb 13, 08:34 AM** - SpaceX IPO could drive investor interest in other space companies (spacenews)
 - **Feb 13, 09:09 AM** - HEO, SatVu, Sierra Nevada nab first of NRO’s new commercial imagery contracts (breaking_defense)
 - **Feb 13, 09:44 AM** - ‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway (nyt)
+- **Feb 13, 10:19 AM** - ULA seeks to rebuild launch cadence after CEO’s exit (spacenews)
