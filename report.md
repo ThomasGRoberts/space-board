@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 23 | 17 | 37 |
 | breaking_defense | 1 | 1 | 12 | 22 |
-| nyt | 0 | 1 | 12 | 23 |
+| nyt | 0 | 1 | 13 | 24 |
 
 # Shown Order
 
@@ -3667,3 +3667,4 @@
 - **Feb 13, 02:43 AM** - Lost Soviet Luna 9 Moon Lander May Have Been Found (nyt)
 - **Feb 13, 03:19 AM** - Tomorrow.io banks $175 million for DeepSky weather constellation (spacenews)
 - **Feb 13, 03:54 AM** - Space Force buys second Otter spacecraft to power satellites on orbit (breaking_defense)
+- **Feb 13, 04:29 AM** - Lost Soviet Luna 9 Moon Lander May Have Been Found (nyt)
