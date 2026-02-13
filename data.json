@@ -1,9 +1,153 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-02-12T00:04:28.166112+00:00",
-    "trigger_count": 2,
+    "last_run_datetime": "2026-02-13T00:04:25.455861+00:00",
+    "trigger_count": 3,
     "current_item_id": "5d6719c29a6f1e5ba79cf49f81b9e471",
     "data": [
+        {
+            "id": "5d6719c29a6f1e5ba79cf49f81b9e471",
+            "source": "spacenews",
+            "text": "First Ariane 64 launches Amazon Leo satellites",
+            "source_link": "https://spacenews.com/first-ariane-64-launches-amazon-leo-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-12T23:14:01.425739Z",
+            "shown_at": [
+                "2026-02-12T23:48:58.452629Z"
+            ]
+        },
+        {
+            "id": "8feea31a750ae001d834cf497983823d",
+            "source": "spacenews",
+            "text": "Space startups find more paths to liquidity as investors warm to maturing sector",
+            "source_link": "https://spacenews.com/space-startups-find-more-paths-to-liquidity-as-investors-warm-to-maturing-sector/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-12T23:14:01.425664Z",
+            "shown_at": [
+                "2026-02-12T23:14:02.560049Z"
+            ]
+        },
+        {
+            "id": "9ad62af42e23202b293757d2a85b00f1",
+            "source": "breaking_defense",
+            "text": "Project Hecate: The Space Force’s quiet effort to keep GPS survivable after 2040",
+            "source_link": "https://breakingdefense.com/2026/02/project-hecate-the-space-forces-quiet-effort-to-keep-gps-survivable-after-2040/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-12T22:04:21.290455Z",
+            "shown_at": [
+                "2026-02-12T22:04:22.590887Z"
+            ]
+        },
+        {
+            "id": "0fd7ce26ee91773d4d49cf1c4288286e",
+            "source": "spacenews",
+            "text": "Axiom Space raises additional $350 million",
+            "source_link": "https://spacenews.com/axiom-space-raises-additional-350-million/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-12T21:29:08.718351Z",
+            "shown_at": [
+                "2026-02-12T21:29:09.803999Z"
+            ]
+        },
+        {
+            "id": "709d3df5af067710ace3145520410235",
+            "source": "spacenews",
+            "text": "ThinKom gets military contract to supply portable ground stations for satellite communications",
+            "source_link": "https://spacenews.com/thinkom-gets-military-contract-to-supply-portable-ground-stations-for-satellite-communications/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-12T19:44:10.353870Z",
+            "shown_at": [
+                "2026-02-12T19:44:11.359178Z"
+            ]
+        },
+        {
+            "id": "1392a495d6bbffd1c0123f77a3f6e4c2",
+            "source": "spacenews",
+            "text": "ULA’s Vulcan launches Space Force mission; solid booster anomaly under investigation",
+            "source_link": "https://spacenews.com/ulas-vulcan-launches-u-s-space-force-mission-to-geosynchronous-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-12T17:59:06.391634Z",
+            "shown_at": [
+                "2026-02-12T17:59:07.360632Z"
+            ]
+        },
+        {
+            "id": "e0c9522bce1ff39a5adcce9a29ca667a",
+            "source": "spacenews",
+            "text": "Software startup Integrate makes push into defense market following Space Force award",
+            "source_link": "https://spacenews.com/software-startup-integrate-makes-push-into-defense-market-following-space-force-award/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-12T15:04:47.160373Z",
+            "shown_at": [
+                "2026-02-12T15:39:16.626636Z"
+            ]
+        },
+        {
+            "id": "45c130a1aedc36599d40cd19c3afe49a",
+            "source": "spacenews",
+            "text": "It is time to take astronomy off Earth",
+            "source_link": "https://spacenews.com/it-is-time-to-take-astronomy-off-earth/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-12T15:04:47.160313Z",
+            "shown_at": [
+                "2026-02-12T15:04:48.286130Z"
+            ]
+        },
+        {
+            "id": "61c8e7e2b989e8a19792a0b1e2b8fe65",
+            "source": "spacenews",
+            "text": "Launch companies debate how to compete against SpaceX",
+            "source_link": "https://spacenews.com/launch-companies-debate-how-to-compete-against-spacex/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-12T12:44:49.716560Z",
+            "shown_at": [
+                "2026-02-12T12:44:51.131180Z"
+            ]
+        },
+        {
+            "id": "7f15bb51849862a6f15b62a48d13e15b",
+            "source": "spacenews",
+            "text": "ULA’s Vulcan launches U.S. Space Force mission to geosynchronous orbit",
+            "source_link": "https://spacenews.com/ulas-vulcan-launches-u-s-space-force-mission-to-geosynchronous-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-12T10:24:12.258130Z",
+            "shown_at": [
+                "2026-02-12T10:24:12.983162Z"
+            ]
+        },
+        {
+            "id": "659acea8d4fe42c5eb07592458562016",
+            "source": "spacenews",
+            "text": "FCC Space Bureau chief shares agenda for regulatory reform",
+            "source_link": "https://spacenews.com/fcc-space-bureau-chief-shares-agenda-for-regulatory-reform/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-12T05:09:06.730467Z",
+            "shown_at": [
+                "2026-02-12T05:09:07.532876Z"
+            ]
+        },
+        {
+            "id": "8eab6a29a30e73d9897181c93350a8cd",
+            "source": "nyt",
+            "text": "This Comet Stopped Spinning. Then It Started Rotating Backward.",
+            "source_link": "https://www.nytimes.com/2026/02/11/science/comet-spinning-backwards.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-12T02:49:01.522468Z",
+            "shown_at": [
+                "2026-02-12T02:49:02.266908Z"
+            ]
+        },
         {
             "id": "a1004d236ac09c2b7697106870850072",
             "source": "spacenews",
@@ -9010,336 +9154,6 @@
                 "2025-10-05T22:39:51.704554Z",
                 "2025-10-07T12:49:46.886996Z",
                 "2025-10-09T01:11:55.341920Z"
-            ]
-        },
-        {
-            "id": "c8c54583dd43d8f7cfb5ccc8f44035d4",
-            "source": "spacenews",
-            "text": "University of Western Australia unveils optical ground network",
-            "source_link": "https://spacenews.com/university-of-western-australia-unveils-optical-ground-network/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-02T07:15:50.673939Z",
-            "shown_at": [
-                "2025-10-02T07:15:51.449136Z",
-                "2025-10-04T11:57:43.998053Z",
-                "2025-10-04T21:51:49.607529Z",
-                "2025-10-07T06:49:53.298828Z"
-            ]
-        },
-        {
-            "id": "3186fd158b42ea252d5bab58f1c21c30",
-            "source": "spacenews",
-            "text": "The Exploration Company still studying Mission Possible reentry",
-            "source_link": "https://spacenews.com/the-exploration-company-still-studying-mission-possible-reentry/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-02T03:55:55.592537Z",
-            "shown_at": [
-                "2025-10-02T03:55:56.153830Z",
-                "2025-10-05T03:51:32.645877Z",
-                "2025-10-05T06:49:52.482858Z",
-                "2025-10-06T23:55:29.773708Z",
-                "2025-10-07T08:47:52.423708Z",
-                "2025-10-07T13:59:36.949124Z"
-            ]
-        },
-        {
-            "id": "51dd6b93facf54848714c15c904a1353",
-            "source": "spacenews",
-            "text": "China and U.S. take initial steps toward space-traffic coordination",
-            "source_link": "https://spacenews.com/china-and-u-s-take-initial-steps-toward-space-traffic-coordination/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-02T03:41:55.657176Z",
-            "shown_at": [
-                "2025-10-02T03:41:57.106500Z",
-                "2025-10-02T04:53:55.428469Z"
-            ]
-        },
-        {
-            "id": "d4812dba0008c0610e1bd4651d6d5b61",
-            "source": "spacenews",
-            "text": "ExLabs wins Space Force contract for reconfigurable space platform",
-            "source_link": "https://spacenews.com/exlabs-wins-space-force-contract-for-reconfigurable-space-platform/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-01T23:55:28.870779Z",
-            "shown_at": [
-                "2025-10-01T23:55:29.441176Z",
-                "2025-10-05T12:57:45.348754Z",
-                "2025-10-07T17:49:38.780521Z",
-                "2025-10-08T12:09:52.079415Z"
-            ]
-        },
-        {
-            "id": "7211171c7dc640c6a8084947cd0720f7",
-            "source": "spacenews",
-            "text": "States have an obligation to warn satellite operators of cyber threats — IAC paper",
-            "source_link": "https://spacenews.com/states-have-an-obligation-to-warn-satellite-operators-of-cyber-threats-iac-paper/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-01T23:13:44.852987Z",
-            "shown_at": [
-                "2025-10-01T23:13:45.621538Z",
-                "2025-10-06T05:53:56.793626Z",
-                "2025-10-06T06:53:47.063502Z"
-            ]
-        },
-        {
-            "id": "04148c45920ade3072a7af7f1ca02f37",
-            "source": "spacenews",
-            "text": "Starlink-compatible radios sought for Golden Dome interceptor satellite demo",
-            "source_link": "https://spacenews.com/starlink-compatible-radios-sought-for-golden-dome-interceptor-satellite-demo/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-01T22:31:48.527151Z",
-            "shown_at": [
-                "2025-10-01T22:31:49.308471Z",
-                "2025-10-02T06:56:07.940352Z",
-                "2025-10-06T15:47:33.334182Z",
-                "2025-10-08T10:17:58.760861Z"
-            ]
-        },
-        {
-            "id": "35965c29761d65aa00a5b6ad1db7aa80",
-            "source": "spacenews",
-            "text": "Private mission study a step toward offering Orion as a service",
-            "source_link": "https://spacenews.com/private-mission-study-a-step-toward-offering-orion-as-a-service/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-01T22:01:41.338619Z",
-            "shown_at": [
-                "2025-10-01T22:01:41.989235Z",
-                "2025-10-04T19:55:57.507651Z",
-                "2025-10-06T02:37:56.949847Z"
-            ]
-        },
-        {
-            "id": "5ed5a8898868bab27fd7b514067d3b22",
-            "source": "breaking_defense",
-            "text": "What’s in a name: Goodbye Maxar, hello Vantor and Lanteris",
-            "source_link": "https://breakingdefense.com/2025/10/whats-in-a-name-goodbye-maxar-hello-vantor-and-lanteris/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-01T21:47:37.100979Z",
-            "shown_at": [
-                "2025-10-01T21:47:38.274066Z",
-                "2025-10-02T08:47:36.098109Z",
-                "2025-10-02T16:23:50.180861Z",
-                "2025-10-02T17:23:49.909477Z",
-                "2025-10-03T21:56:11.402338Z",
-                "2025-10-04T07:06:31.481311Z",
-                "2025-10-04T09:15:53.868945Z",
-                "2025-10-04T10:19:47.904688Z",
-                "2025-10-05T19:25:45.739263Z",
-                "2025-10-05T20:23:36.279601Z",
-                "2025-10-06T14:17:48.689276Z",
-                "2025-10-06T17:19:42.159774Z",
-                "2025-10-07T17:07:43.111785Z",
-                "2025-10-07T23:52:01.426521Z",
-                "2025-10-08T19:15:46.198444Z"
-            ]
-        },
-        {
-            "id": "23440e1820f135c61b2557f5fb7fe9e7",
-            "source": "spacenews",
-            "text": "What Germany’s $41B investment in space could mean for Europe",
-            "source_link": "https://spacenews.com/what-germanys-41b-investment-in-space-could-mean-for-europe/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-01T17:09:53.288474Z",
-            "shown_at": [
-                "2025-10-01T17:09:54.260522Z",
-                "2025-10-04T23:53:49.873135Z"
-            ]
-        },
-        {
-            "id": "ad1c07672a6bac5b95f5cbaf530d90b1",
-            "source": "spacenews",
-            "text": "How time series data is fueling the final frontier",
-            "source_link": "https://spacenews.com/how-time-series-data-is-fueling-the-final-frontier/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-01T13:11:37.845443Z",
-            "shown_at": [
-                "2025-10-01T13:11:38.861104Z",
-                "2025-10-04T04:47:09.195228Z",
-                "2025-10-05T23:37:46.061731Z",
-                "2025-10-06T17:47:59.909055Z",
-                "2025-10-08T01:21:40.939304Z"
-            ]
-        },
-        {
-            "id": "6a9aabb179a50163985663181b72b81e",
-            "source": "spacenews",
-            "text": "Maxar retires its name, rebrands as Vantor and Lanteris",
-            "source_link": "https://spacenews.com/maxar-retires-its-name-rebrands-as-vantor-and-lanteris/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-01T12:27:35.751147Z",
-            "shown_at": [
-                "2025-10-01T12:27:36.386068Z"
-            ]
-        },
-        {
-            "id": "5a8ebd152e84300f39198ffcbc0d48fb",
-            "source": "spacenews",
-            "text": "Maldives plots $50 million fund for sovereign space capabilities",
-            "source_link": "https://spacenews.com/maldives-plots-50-million-fund-for-sovereign-space-capabilities/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-01T11:16:00.449376Z",
-            "shown_at": [
-                "2025-10-01T11:29:51.851248Z",
-                "2025-10-03T17:21:40.611600Z",
-                "2025-10-05T02:53:56.987811Z",
-                "2025-10-05T11:57:37.648214Z",
-                "2025-10-05T17:55:44.743339Z"
-            ]
-        },
-        {
-            "id": "8eab6a29a30e73d9897181c93350a8cd",
-            "source": "nyt",
-            "text": "This Comet Stopped Spinning. Then It Started Rotating Backward.",
-            "source_link": "https://www.nytimes.com/2026/02/11/science/comet-spinning-backwards.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-12T02:49:01.522468Z",
-            "shown_at": [
-                "2026-02-12T02:49:02.266908Z"
-            ]
-        },
-        {
-            "id": "659acea8d4fe42c5eb07592458562016",
-            "source": "spacenews",
-            "text": "FCC Space Bureau chief shares agenda for regulatory reform",
-            "source_link": "https://spacenews.com/fcc-space-bureau-chief-shares-agenda-for-regulatory-reform/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-12T05:09:06.730467Z",
-            "shown_at": [
-                "2026-02-12T05:09:07.532876Z"
-            ]
-        },
-        {
-            "id": "7f15bb51849862a6f15b62a48d13e15b",
-            "source": "spacenews",
-            "text": "ULA’s Vulcan launches U.S. Space Force mission to geosynchronous orbit",
-            "source_link": "https://spacenews.com/ulas-vulcan-launches-u-s-space-force-mission-to-geosynchronous-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-12T10:24:12.258130Z",
-            "shown_at": [
-                "2026-02-12T10:24:12.983162Z"
-            ]
-        },
-        {
-            "id": "61c8e7e2b989e8a19792a0b1e2b8fe65",
-            "source": "spacenews",
-            "text": "Launch companies debate how to compete against SpaceX",
-            "source_link": "https://spacenews.com/launch-companies-debate-how-to-compete-against-spacex/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-12T12:44:49.716560Z",
-            "shown_at": [
-                "2026-02-12T12:44:51.131180Z"
-            ]
-        },
-        {
-            "id": "45c130a1aedc36599d40cd19c3afe49a",
-            "source": "spacenews",
-            "text": "It is time to take astronomy off Earth",
-            "source_link": "https://spacenews.com/it-is-time-to-take-astronomy-off-earth/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-12T15:04:47.160313Z",
-            "shown_at": [
-                "2026-02-12T15:04:48.286130Z"
-            ]
-        },
-        {
-            "id": "e0c9522bce1ff39a5adcce9a29ca667a",
-            "source": "spacenews",
-            "text": "Software startup Integrate makes push into defense market following Space Force award",
-            "source_link": "https://spacenews.com/software-startup-integrate-makes-push-into-defense-market-following-space-force-award/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-12T15:04:47.160373Z",
-            "shown_at": [
-                "2026-02-12T15:39:16.626636Z"
-            ]
-        },
-        {
-            "id": "1392a495d6bbffd1c0123f77a3f6e4c2",
-            "source": "spacenews",
-            "text": "ULA’s Vulcan launches Space Force mission; solid booster anomaly under investigation",
-            "source_link": "https://spacenews.com/ulas-vulcan-launches-u-s-space-force-mission-to-geosynchronous-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-12T17:59:06.391634Z",
-            "shown_at": [
-                "2026-02-12T17:59:07.360632Z"
-            ]
-        },
-        {
-            "id": "709d3df5af067710ace3145520410235",
-            "source": "spacenews",
-            "text": "ThinKom gets military contract to supply portable ground stations for satellite communications",
-            "source_link": "https://spacenews.com/thinkom-gets-military-contract-to-supply-portable-ground-stations-for-satellite-communications/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-12T19:44:10.353870Z",
-            "shown_at": [
-                "2026-02-12T19:44:11.359178Z"
-            ]
-        },
-        {
-            "id": "0fd7ce26ee91773d4d49cf1c4288286e",
-            "source": "spacenews",
-            "text": "Axiom Space raises additional $350 million",
-            "source_link": "https://spacenews.com/axiom-space-raises-additional-350-million/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-12T21:29:08.718351Z",
-            "shown_at": [
-                "2026-02-12T21:29:09.803999Z"
-            ]
-        },
-        {
-            "id": "9ad62af42e23202b293757d2a85b00f1",
-            "source": "breaking_defense",
-            "text": "Project Hecate: The Space Force’s quiet effort to keep GPS survivable after 2040",
-            "source_link": "https://breakingdefense.com/2026/02/project-hecate-the-space-forces-quiet-effort-to-keep-gps-survivable-after-2040/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-12T22:04:21.290455Z",
-            "shown_at": [
-                "2026-02-12T22:04:22.590887Z"
-            ]
-        },
-        {
-            "id": "8feea31a750ae001d834cf497983823d",
-            "source": "spacenews",
-            "text": "Space startups find more paths to liquidity as investors warm to maturing sector",
-            "source_link": "https://spacenews.com/space-startups-find-more-paths-to-liquidity-as-investors-warm-to-maturing-sector/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-12T23:14:01.425664Z",
-            "shown_at": [
-                "2026-02-12T23:14:02.560049Z"
-            ]
-        },
-        {
-            "id": "5d6719c29a6f1e5ba79cf49f81b9e471",
-            "source": "spacenews",
-            "text": "First Ariane 64 launches Amazon Leo satellites",
-            "source_link": "https://spacenews.com/first-ariane-64-launches-amazon-leo-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-12T23:14:01.425739Z",
-            "shown_at": [
-                "2026-02-12T23:48:58.452629Z"
             ]
         }
     ]
