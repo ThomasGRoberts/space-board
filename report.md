@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 22 | 17 | 37 |
 | breaking_defense | 1 | 1 | 12 | 22 |
-| nyt | 0 | 1 | 12 | 23 |
+| nyt | 0 | 1 | 13 | 24 |
 
 # Shown Order
 
@@ -3673,3 +3673,4 @@
 - **Feb 13, 06:14 AM** - ‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway (nyt)
 - **Feb 13, 06:49 AM** - ‘Now it’s time to turn the baton over to others. I hope there’s somebody else to grab that baton.’ (spacenews)
 - **Feb 13, 07:24 AM** - New UN forum seeks busting space traffic cooperation barriers (breaking_defense)
+- **Feb 13, 07:59 AM** - Lost Soviet Luna 9 Moon Lander May Have Been Found (nyt)
