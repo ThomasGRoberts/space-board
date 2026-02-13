@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-13T00:04:25.455861+00:00",
-    "trigger_count": 6,
-    "current_item_id": "aa25cfd4e9a49097b53024841b2a527b",
+    "trigger_count": 0,
+    "current_item_id": "e5d40e9d9afb99b995e322b5f4230c5d",
     "data": [
         {
             "id": "5d6719c29a6f1e5ba79cf49f81b9e471",
@@ -9185,6 +9185,36 @@
             "shown_at": [
                 "2026-02-13T10:58:59.576222Z"
             ]
+        },
+        {
+            "id": "e5d40e9d9afb99b995e322b5f4230c5d",
+            "source": "spacenews",
+            "text": "Startup bets on new approach to space-based missile defense",
+            "source_link": "https://spacenews.com/startup-bets-on-new-approach-to-space-based-missile-defense/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-13T17:44:50.794922Z",
+            "shown_at": [
+                "2026-02-13T17:44:52.029783Z"
+            ]
+        },
+        {
+            "id": "e1bd02f7c66656cea5c4a25589eef308",
+            "source": "spacenews",
+            "text": "Crew-12 launches to ISS",
+            "source_link": "https://spacenews.com/crew-12-launches-to-iss/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-02-13T17:44:50.794987Z"
+        },
+        {
+            "id": "69c0e125fd3d1f624ae8e5b4c0179162",
+            "source": "spacenews",
+            "text": "Vast wins ISS private astronaut mission",
+            "source_link": "https://spacenews.com/vast-wins-iss-private-astronaut-mission/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-02-13T17:44:50.795035Z"
         }
     ]
 }
