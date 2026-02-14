@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 15 | 13 | 30 |
 | breaking_defense | 0 | 1 | 9 | 20 |
-| nyt | 0 | 1 | 8 | 21 |
+| nyt | 0 | 1 | 9 | 22 |
 
 # Shown Order
 
@@ -3609,3 +3609,4 @@
 - **Feb 13, 10:24 PM** - ‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway (nyt)
 - **Feb 13, 10:58 PM** - HEO, SatVu, Sierra Nevada nab first of NRO’s new commercial imagery contracts (breaking_defense)
 - **Feb 13, 11:34 PM** - There’s a way forward for sovereign European space intel, but is there the will? (spacenews)
+- **Feb 14, 12:09 AM** - ‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway (nyt)
