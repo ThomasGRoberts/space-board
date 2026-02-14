@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-14T00:04:24.660931+00:00",
-    "trigger_count": 6,
-    "current_item_id": "24c572fae4e6619ab2b44408e4e01f73",
+    "trigger_count": 0,
+    "current_item_id": "3b77e5a8be6bbc7c8df61bc2f5a4e550",
     "data": [
         {
             "id": "7e5b8aedc17623ee2fd7e805ee89da6e",
@@ -9132,6 +9132,18 @@
                 "2025-10-09T01:39:51.639050Z",
                 "2025-10-09T06:32:09.057033Z",
                 "2025-10-09T17:23:40.192947Z"
+            ]
+        },
+        {
+            "id": "3b77e5a8be6bbc7c8df61bc2f5a4e550",
+            "source": "spacenews",
+            "text": "NASA continues SLS hydrogen leak tests",
+            "source_link": "https://spacenews.com/nasa-continues-sls-hydrogen-leak-tests/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-14T17:14:12.440474Z",
+            "shown_at": [
+                "2026-02-14T17:14:13.406980Z"
             ]
         }
     ]

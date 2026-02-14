@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 10 | 15 | 28 |
+| spacenews | 5 | 11 | 16 | 29 |
 | breaking_defense | 0 | 1 | 13 | 22 |
 | nyt | 0 | 0 | 12 | 21 |
 
@@ -3638,3 +3638,4 @@
 - **Feb 14, 03:24 PM** - It is time to take astronomy off Earth (spacenews)
 - **Feb 14, 03:58 PM** - ‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway (nyt)
 - **Feb 14, 04:39 PM** - HEO, SatVu, Sierra Nevada nab first of NRO’s new commercial imagery contracts (breaking_defense)
+- **Feb 14, 05:14 PM** - NASA continues SLS hydrogen leak tests (spacenews)
