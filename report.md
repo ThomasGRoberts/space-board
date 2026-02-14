@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 15 | 13 | 30 |
+| spacenews | 5 | 15 | 14 | 31 |
 | breaking_defense | 0 | 1 | 9 | 21 |
 | nyt | 0 | 0 | 8 | 20 |
 
@@ -3614,3 +3614,4 @@
 - **Feb 14, 01:18 AM** - Musk says SpaceX focus is on the moon rather than Mars (spacenews)
 - **Feb 14, 01:54 AM** - ‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway (nyt)
 - **Feb 14, 02:28 AM** - Space Force buys second Otter spacecraft to power satellites on orbit (breaking_defense)
+- **Feb 14, 03:04 AM** - How much is vertical integration squeezing the smallsat opportunity? (spacenews)
