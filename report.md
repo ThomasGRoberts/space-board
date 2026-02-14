@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 15 | 13 | 30 |
+| spacenews | 5 | 15 | 14 | 31 |
 | breaking_defense | 0 | 1 | 9 | 21 |
 | nyt | 0 | 0 | 8 | 20 |
 
@@ -3617,3 +3617,4 @@
 - **Feb 14, 03:04 AM** - How much is vertical integration squeezing the smallsat opportunity? (spacenews)
 - **Feb 14, 03:38 AM** - Lost Soviet Luna 9 Moon Lander May Have Been Found (nyt)
 - **Feb 14, 04:14 AM** - HEO, SatVu, Sierra Nevada nab first of NRO’s new commercial imagery contracts (breaking_defense)
+- **Feb 14, 04:49 AM** - Axiom Space raises additional $350 million (spacenews)
