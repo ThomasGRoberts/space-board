@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 15 | 13 | 30 |
 | breaking_defense | 0 | 1 | 9 | 20 |
-| nyt | 0 | 1 | 8 | 21 |
+| nyt | 0 | 1 | 9 | 22 |
 
 # Shown Order
 
@@ -3612,3 +3612,4 @@
 - **Feb 14, 12:09 AM** - ‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway (nyt)
 - **Feb 14, 12:44 AM** - Project Hecate: The Space Force’s quiet effort to keep GPS survivable after 2040 (breaking_defense)
 - **Feb 14, 01:18 AM** - Musk says SpaceX focus is on the moon rather than Mars (spacenews)
+- **Feb 14, 01:54 AM** - ‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway (nyt)
