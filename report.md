@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 14 | 13 | 30 |
 | breaking_defense | 0 | 1 | 9 | 21 |
-| nyt | 0 | 0 | 8 | 20 |
+| nyt | 0 | 0 | 9 | 21 |
 
 # Shown Order
 
@@ -3621,3 +3621,4 @@
 - **Feb 14, 05:24 AM** - This Comet Stopped Spinning. Then It Started Rotating Backward. (nyt)
 - **Feb 14, 05:59 AM** - Project Hecate: The Space Force’s quiet effort to keep GPS survivable after 2040 (breaking_defense)
 - **Feb 14, 06:34 AM** - Startup bets on new approach to space-based missile defense (spacenews)
+- **Feb 14, 07:09 AM** - This Comet Stopped Spinning. Then It Started Rotating Backward. (nyt)
