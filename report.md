@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 10 | 14 | 27 |
+| spacenews | 2 | 10 | 14 | 28 |
 | breaking_defense | 0 | 1 | 14 | 22 |
 | nyt | 0 | 0 | 13 | 22 |
 
@@ -3641,3 +3641,4 @@
 - **Feb 14, 05:14 PM** - NASA continues SLS hydrogen leak tests (spacenews)
 - **Feb 14, 05:49 PM** - ‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway (nyt)
 - **Feb 14, 06:23 PM** - Project Hecate: The Space Force’s quiet effort to keep GPS survivable after 2040 (breaking_defense)
+- **Feb 14, 06:59 PM** - Integrate Raises $17M to Commercialize the World’s First Ultra-Secure Project Management Platform for Classified Programs (spacenews)
