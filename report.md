@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 14 | 13 | 30 |
 | breaking_defense | 0 | 1 | 9 | 21 |
-| nyt | 0 | 0 | 8 | 20 |
+| nyt | 0 | 0 | 9 | 21 |
 
 # Shown Order
 
@@ -3618,3 +3618,4 @@
 - **Feb 14, 03:38 AM** - Lost Soviet Luna 9 Moon Lander May Have Been Found (nyt)
 - **Feb 14, 04:14 AM** - HEO, SatVu, Sierra Nevada nab first of NRO’s new commercial imagery contracts (breaking_defense)
 - **Feb 14, 04:49 AM** - Axiom Space raises additional $350 million (spacenews)
+- **Feb 14, 05:24 AM** - This Comet Stopped Spinning. Then It Started Rotating Backward. (nyt)
