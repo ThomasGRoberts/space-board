@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 10 | 14 | 28 |
+| spacenews | 4 | 10 | 15 | 29 |
 | breaking_defense | 0 | 1 | 12 | 22 |
 | nyt | 0 | 0 | 11 | 21 |
 
@@ -3635,3 +3635,4 @@
 - **Feb 14, 01:39 PM** - ULA seeks to rebuild launch cadence after CEO’s exit (spacenews)
 - **Feb 14, 02:14 PM** - This Comet Stopped Spinning. Then It Started Rotating Backward. (nyt)
 - **Feb 14, 02:49 PM** - HEO, SatVu, Sierra Nevada nab first of NRO’s new commercial imagery contracts (breaking_defense)
+- **Feb 14, 03:24 PM** - It is time to take astronomy off Earth (spacenews)
