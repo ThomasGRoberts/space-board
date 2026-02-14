@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 8 | 13 | 27 |
+| spacenews | 1 | 8 | 14 | 28 |
 | breaking_defense | 0 | 0 | 14 | 22 |
-| nyt | 0 | 0 | 14 | 22 |
+| nyt | 0 | 0 | 13 | 22 |
 
 # Shown Order
 
@@ -3647,3 +3647,4 @@
 - **Feb 14, 08:44 PM** - First Ariane 64 launches Amazon Leo satellites (spacenews)
 - **Feb 14, 09:19 PM** - Lost Soviet Luna 9 Moon Lander May Have Been Found (nyt)
 - **Feb 14, 09:54 PM** - New UN forum seeks busting space traffic cooperation barriers (breaking_defense)
+- **Feb 14, 10:29 PM** - Eutelsat gets nearly 1 billion euros in French-backed ECA financing (spacenews)
