@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 12 | 14 | 29 |
-| breaking_defense | 0 | 1 | 11 | 21 |
+| breaking_defense | 0 | 1 | 12 | 22 |
 | nyt | 0 | 0 | 11 | 21 |
 
 # Shown Order
@@ -3634,3 +3634,4 @@
 - **Feb 14, 01:04 PM** - Space Force buys second Otter spacecraft to power satellites on orbit (breaking_defense)
 - **Feb 14, 01:39 PM** - ULA seeks to rebuild launch cadence after CEO’s exit (spacenews)
 - **Feb 14, 02:14 PM** - This Comet Stopped Spinning. Then It Started Rotating Backward. (nyt)
+- **Feb 14, 02:49 PM** - HEO, SatVu, Sierra Nevada nab first of NRO’s new commercial imagery contracts (breaking_defense)
