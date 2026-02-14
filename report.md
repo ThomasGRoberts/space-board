@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 11 | 16 | 28 |
+| spacenews | 2 | 11 | 15 | 28 |
 | breaking_defense | 0 | 1 | 13 | 22 |
-| nyt | 0 | 0 | 12 | 21 |
+| nyt | 0 | 0 | 13 | 22 |
 
 # Shown Order
 
@@ -3639,3 +3639,4 @@
 - **Feb 14, 03:58 PM** - ‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway (nyt)
 - **Feb 14, 04:39 PM** - HEO, SatVu, Sierra Nevada nab first of NRO’s new commercial imagery contracts (breaking_defense)
 - **Feb 14, 05:14 PM** - NASA continues SLS hydrogen leak tests (spacenews)
+- **Feb 14, 05:49 PM** - ‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway (nyt)
