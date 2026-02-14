@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 15 | 13 | 30 |
 | breaking_defense | 0 | 1 | 9 | 21 |
-| nyt | 0 | 0 | 8 | 20 |
+| nyt | 0 | 0 | 9 | 21 |
 
 # Shown Order
 
@@ -3615,3 +3615,4 @@
 - **Feb 14, 01:54 AM** - ‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway (nyt)
 - **Feb 14, 02:28 AM** - Space Force buys second Otter spacecraft to power satellites on orbit (breaking_defense)
 - **Feb 14, 03:04 AM** - How much is vertical integration squeezing the smallsat opportunity? (spacenews)
+- **Feb 14, 03:38 AM** - Lost Soviet Luna 9 Moon Lander May Have Been Found (nyt)
