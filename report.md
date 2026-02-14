@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 13 | 12 | 30 |
-| breaking_defense | 0 | 1 | 9 | 20 |
+| breaking_defense | 0 | 1 | 10 | 21 |
 | nyt | 0 | 0 | 9 | 21 |
 
 # Shown Order
@@ -3628,3 +3628,4 @@
 - **Feb 14, 09:28 AM** - New UN forum seeks busting space traffic cooperation barriers (breaking_defense)
 - **Feb 14, 10:04 AM** - Laser-linked satellite networks moving from concept to capability (spacenews)
 - **Feb 14, 10:39 AM** - Lost Soviet Luna 9 Moon Lander May Have Been Found (nyt)
+- **Feb 14, 11:19 AM** - Space Force buys second Otter spacecraft to power satellites on orbit (breaking_defense)
