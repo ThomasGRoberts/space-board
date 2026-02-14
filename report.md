@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 13 | 13 | 30 |
 | breaking_defense | 0 | 1 | 10 | 21 |
-| nyt | 0 | 0 | 9 | 20 |
+| nyt | 0 | 0 | 10 | 21 |
 
 # Shown Order
 
@@ -3630,3 +3630,4 @@
 - **Feb 14, 10:39 AM** - Lost Soviet Luna 9 Moon Lander May Have Been Found (nyt)
 - **Feb 14, 11:19 AM** - Space Force buys second Otter spacecraft to power satellites on orbit (breaking_defense)
 - **Feb 14, 11:54 AM** - National Reconnaissance Office adds HEO, SatVu and Sierra Nevada to commercial imaging program (spacenews)
+- **Feb 14, 12:29 PM** - Lost Soviet Luna 9 Moon Lander May Have Been Found (nyt)
