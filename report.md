@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 12 | 14 | 30 |
 | breaking_defense | 0 | 1 | 11 | 21 |
-| nyt | 0 | 0 | 10 | 20 |
+| nyt | 0 | 0 | 11 | 21 |
 
 # Shown Order
 
@@ -3633,3 +3633,4 @@
 - **Feb 14, 12:29 PM** - Lost Soviet Luna 9 Moon Lander May Have Been Found (nyt)
 - **Feb 14, 01:04 PM** - Space Force buys second Otter spacecraft to power satellites on orbit (breaking_defense)
 - **Feb 14, 01:39 PM** - ULA seeks to rebuild launch cadence after CEO’s exit (spacenews)
+- **Feb 14, 02:14 PM** - This Comet Stopped Spinning. Then It Started Rotating Backward. (nyt)
