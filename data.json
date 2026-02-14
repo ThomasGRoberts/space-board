@@ -1,9 +1,69 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-02-13T00:04:25.455861+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2026-02-14T00:04:24.660931+00:00",
+    "trigger_count": 6,
     "current_item_id": "f50c800208cb3dd0a58e87a5aecad8e1",
     "data": [
+        {
+            "id": "7e5b8aedc17623ee2fd7e805ee89da6e",
+            "source": "spacenews",
+            "text": "Senate committee advances FCC satellite licensing bill after changes",
+            "source_link": "https://spacenews.com/senate-committee-advances-fcc-satellite-licensing-bill-after-changes/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-13T21:49:31.864575Z",
+            "shown_at": [
+                "2026-02-13T21:49:33.032865Z"
+            ]
+        },
+        {
+            "id": "69c0e125fd3d1f624ae8e5b4c0179162",
+            "source": "spacenews",
+            "text": "Vast wins ISS private astronaut mission",
+            "source_link": "https://spacenews.com/vast-wins-iss-private-astronaut-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-13T17:44:50.795035Z",
+            "shown_at": [
+                "2026-02-13T18:54:10.905989Z"
+            ]
+        },
+        {
+            "id": "e1bd02f7c66656cea5c4a25589eef308",
+            "source": "spacenews",
+            "text": "Crew-12 launches to ISS",
+            "source_link": "https://spacenews.com/crew-12-launches-to-iss/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-13T17:44:50.794987Z",
+            "shown_at": [
+                "2026-02-13T18:19:09.756562Z"
+            ]
+        },
+        {
+            "id": "e5d40e9d9afb99b995e322b5f4230c5d",
+            "source": "spacenews",
+            "text": "Startup bets on new approach to space-based missile defense",
+            "source_link": "https://spacenews.com/startup-bets-on-new-approach-to-space-based-missile-defense/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-13T17:44:50.794922Z",
+            "shown_at": [
+                "2026-02-13T17:44:52.029783Z"
+            ]
+        },
+        {
+            "id": "aa25cfd4e9a49097b53024841b2a527b",
+            "source": "spacenews",
+            "text": "China’s iSpace launch firm raises record $729 million for reusable rockets",
+            "source_link": "https://spacenews.com/chinas-ispace-launch-firm-raises-record-729-million-for-reusable-rockets/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-13T10:58:58.818746Z",
+            "shown_at": [
+                "2026-02-13T10:58:59.576222Z"
+            ]
+        },
         {
             "id": "5d6719c29a6f1e5ba79cf49f81b9e471",
             "source": "spacenews",
@@ -9043,202 +9103,6 @@
                 "2025-10-09T01:39:51.639050Z",
                 "2025-10-09T06:32:09.057033Z",
                 "2025-10-09T17:23:40.192947Z"
-            ]
-        },
-        {
-            "id": "d855172213ca8d3b9bed11def4fe90f2",
-            "source": "nyt",
-            "text": "What a Phosphine Signal in a Brown Dwarf’s Clouds Means for the Search for Life",
-            "source_link": "https://www.nytimes.com/2025/10/02/science/brown-dwarf-phosphine-life.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-02T18:21:57.227668Z",
-            "shown_at": [
-                "2025-10-02T18:21:57.928539Z",
-                "2025-10-02T19:25:54.246170Z",
-                "2025-10-02T22:13:42.981444Z",
-                "2025-10-02T23:15:40.387488Z",
-                "2025-10-03T00:17:46.830925Z",
-                "2025-10-03T01:17:50.893386Z",
-                "2025-10-03T04:11:54.001606Z",
-                "2025-10-03T06:09:42.438091Z",
-                "2025-10-03T08:25:47.757323Z",
-                "2025-10-03T11:22:01.548417Z",
-                "2025-10-03T16:35:54.467018Z",
-                "2025-10-03T17:36:04.616095Z",
-                "2025-10-03T18:33:54.464754Z",
-                "2025-10-03T22:59:46.912043Z",
-                "2025-10-04T01:25:18.985037Z",
-                "2025-10-04T02:28:42.845167Z",
-                "2025-10-04T05:33:54.822902Z",
-                "2025-10-04T09:47:43.048070Z",
-                "2025-10-04T11:09:59.343845Z",
-                "2025-10-04T14:12:01.185571Z",
-                "2025-10-04T15:10:33.826122Z",
-                "2025-10-04T19:07:54.652805Z",
-                "2025-10-05T00:11:44.835191Z",
-                "2025-10-05T11:14:02.468111Z",
-                "2025-10-05T14:14:01.023401Z",
-                "2025-10-05T17:13:51.538207Z",
-                "2025-10-05T21:09:42.433352Z",
-                "2025-10-06T07:10:20.415404Z",
-                "2025-10-06T09:15:48.607608Z",
-                "2025-10-06T11:13:49.985239Z",
-                "2025-10-06T12:09:34.505654Z",
-                "2025-10-06T13:29:51.886580Z",
-                "2025-10-06T23:27:57.938000Z",
-                "2025-10-07T02:21:49.397978Z",
-                "2025-10-07T14:41:50.585202Z",
-                "2025-10-07T17:35:32.222050Z",
-                "2025-10-07T18:38:04.431479Z",
-                "2025-10-08T03:40:04.409746Z",
-                "2025-10-08T05:29:49.824033Z",
-                "2025-10-08T07:27:54.914619Z",
-                "2025-10-08T08:25:42.351462Z",
-                "2025-10-08T10:31:58.721704Z",
-                "2025-10-08T11:36:06.975522Z",
-                "2025-10-08T12:41:58.454716Z",
-                "2025-10-08T18:43:54.576227Z",
-                "2025-10-09T01:25:33.228816Z",
-                "2025-10-09T04:17:24.058053Z",
-                "2025-10-09T07:15:55.386411Z",
-                "2025-10-09T08:14:03.230482Z",
-                "2025-10-09T12:07:46.775724Z",
-                "2025-10-09T16:53:58.357970Z"
-            ]
-        },
-        {
-            "id": "71ff86e58cb7228de4bb510f6303084b",
-            "source": "breaking_defense",
-            "text": "Close the gap: Turn the Franco-German missile early warning into measurable capability",
-            "source_link": "https://breakingdefense.com/2025/10/close-the-gap-turn-the-franco-german-missile-early-warning-into-measurable-capability/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-02T18:07:31.846362Z",
-            "shown_at": [
-                "2025-10-02T18:07:32.501827Z",
-                "2025-10-03T02:29:37.632813Z",
-                "2025-10-03T06:25:35.655013Z",
-                "2025-10-03T15:51:45.611961Z",
-                "2025-10-03T16:49:54.118066Z",
-                "2025-10-04T06:03:38.283935Z",
-                "2025-10-04T16:23:47.323575Z",
-                "2025-10-05T05:19:37.012354Z",
-                "2025-10-05T16:27:53.999002Z",
-                "2025-10-07T11:05:48.423586Z",
-                "2025-10-07T13:17:43.906050Z",
-                "2025-10-07T22:47:34.070984Z",
-                "2025-10-08T01:49:53.651480Z",
-                "2025-10-08T05:57:34.782362Z",
-                "2025-10-08T16:13:40.435253Z",
-                "2025-10-09T08:27:53.750491Z",
-                "2025-10-09T13:21:52.925741Z"
-            ]
-        },
-        {
-            "id": "02c45f7e77477ade6aa7d7f72a538cd0",
-            "source": "spacenews",
-            "text": "China’s ‘near space’ legal warfare",
-            "source_link": "https://spacenews.com/chinas-near-space-legal-warfare/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-02T13:07:17.846633Z",
-            "shown_at": [
-                "2025-10-02T13:07:18.578124Z",
-                "2025-10-04T06:51:46.513950Z",
-                "2025-10-08T07:13:50.574618Z",
-                "2025-10-09T05:02:12.106244Z"
-            ]
-        },
-        {
-            "id": "f31f93a3a6d0f7725d07986609daa970",
-            "source": "spacenews",
-            "text": "Preparations on track for second New Glenn launch",
-            "source_link": "https://spacenews.com/preparations-on-track-for-second-new-glenn-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-02T11:21:30.998557Z",
-            "shown_at": [
-                "2025-10-02T11:21:31.563450Z",
-                "2025-10-08T05:13:43.874396Z",
-                "2025-10-08T08:09:42.138129Z",
-                "2025-10-09T00:13:37.418797Z"
-            ]
-        },
-        {
-            "id": "79bc20a3bac241f4b32c54e56ee91864",
-            "source": "spacenews",
-            "text": "Will Pentagon procurement reforms really stick this time?",
-            "source_link": "https://spacenews.com/will-pentagon-procurement-reforms-really-stick-this-time/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-02T11:02:11.289286Z",
-            "shown_at": [
-                "2025-10-02T11:02:12.100965Z",
-                "2025-10-05T04:48:08.159831Z",
-                "2025-10-05T22:39:51.704554Z",
-                "2025-10-07T12:49:46.886996Z",
-                "2025-10-09T01:11:55.341920Z"
-            ]
-        },
-        {
-            "id": "aa25cfd4e9a49097b53024841b2a527b",
-            "source": "spacenews",
-            "text": "China’s iSpace launch firm raises record $729 million for reusable rockets",
-            "source_link": "https://spacenews.com/chinas-ispace-launch-firm-raises-record-729-million-for-reusable-rockets/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-13T10:58:58.818746Z",
-            "shown_at": [
-                "2026-02-13T10:58:59.576222Z"
-            ]
-        },
-        {
-            "id": "e5d40e9d9afb99b995e322b5f4230c5d",
-            "source": "spacenews",
-            "text": "Startup bets on new approach to space-based missile defense",
-            "source_link": "https://spacenews.com/startup-bets-on-new-approach-to-space-based-missile-defense/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-13T17:44:50.794922Z",
-            "shown_at": [
-                "2026-02-13T17:44:52.029783Z"
-            ]
-        },
-        {
-            "id": "e1bd02f7c66656cea5c4a25589eef308",
-            "source": "spacenews",
-            "text": "Crew-12 launches to ISS",
-            "source_link": "https://spacenews.com/crew-12-launches-to-iss/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-13T17:44:50.794987Z",
-            "shown_at": [
-                "2026-02-13T18:19:09.756562Z"
-            ]
-        },
-        {
-            "id": "69c0e125fd3d1f624ae8e5b4c0179162",
-            "source": "spacenews",
-            "text": "Vast wins ISS private astronaut mission",
-            "source_link": "https://spacenews.com/vast-wins-iss-private-astronaut-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-13T17:44:50.795035Z",
-            "shown_at": [
-                "2026-02-13T18:54:10.905989Z"
-            ]
-        },
-        {
-            "id": "7e5b8aedc17623ee2fd7e805ee89da6e",
-            "source": "spacenews",
-            "text": "Senate committee advances FCC satellite licensing bill after changes",
-            "source_link": "https://spacenews.com/senate-committee-advances-fcc-satellite-licensing-bill-after-changes/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-13T21:49:31.864575Z",
-            "shown_at": [
-                "2026-02-13T21:49:33.032865Z"
             ]
         }
     ]
