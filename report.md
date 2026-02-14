@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 14 | 13 | 30 |
+| spacenews | 5 | 14 | 14 | 31 |
 | breaking_defense | 0 | 1 | 9 | 21 |
 | nyt | 0 | 0 | 8 | 20 |
 
@@ -3620,3 +3620,4 @@
 - **Feb 14, 04:49 AM** - Axiom Space raises additional $350 million (spacenews)
 - **Feb 14, 05:24 AM** - This Comet Stopped Spinning. Then It Started Rotating Backward. (nyt)
 - **Feb 14, 05:59 AM** - Project Hecate: The Space Force’s quiet effort to keep GPS survivable after 2040 (breaking_defense)
+- **Feb 14, 06:34 AM** - Startup bets on new approach to space-based missile defense (spacenews)
