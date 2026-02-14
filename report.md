@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 10 | 14 | 27 |
-| breaking_defense | 0 | 1 | 13 | 22 |
+| breaking_defense | 0 | 1 | 14 | 23 |
 | nyt | 0 | 0 | 13 | 22 |
 
 # Shown Order
@@ -3640,3 +3640,4 @@
 - **Feb 14, 04:39 PM** - HEO, SatVu, Sierra Nevada nab first of NRO’s new commercial imagery contracts (breaking_defense)
 - **Feb 14, 05:14 PM** - NASA continues SLS hydrogen leak tests (spacenews)
 - **Feb 14, 05:49 PM** - ‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway (nyt)
+- **Feb 14, 06:23 PM** - Project Hecate: The Space Force’s quiet effort to keep GPS survivable after 2040 (breaking_defense)
