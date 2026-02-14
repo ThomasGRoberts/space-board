@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 14 | 13 | 30 |
-| breaking_defense | 0 | 1 | 8 | 20 |
+| breaking_defense | 0 | 1 | 9 | 21 |
 | nyt | 0 | 0 | 9 | 21 |
 
 # Shown Order
@@ -3625,3 +3625,4 @@
 - **Feb 14, 07:43 AM** - HEO, SatVu, Sierra Nevada nab first of NRO’s new commercial imagery contracts (breaking_defense)
 - **Feb 14, 08:19 AM** - Space startups find more paths to liquidity as investors warm to maturing sector (spacenews)
 - **Feb 14, 08:53 AM** - Lost Soviet Luna 9 Moon Lander May Have Been Found (nyt)
+- **Feb 14, 09:28 AM** - New UN forum seeks busting space traffic cooperation barriers (breaking_defense)
