@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 6 | 13 | 26 |
+| spacenews | 1 | 6 | 14 | 27 |
 | breaking_defense | 0 | 0 | 14 | 23 |
-| nyt | 0 | 0 | 14 | 22 |
+| nyt | 0 | 0 | 13 | 22 |
 
 # Shown Order
 
@@ -3639,3 +3639,4 @@
 - **Feb 15, 05:28 AM** - FCC approves thousands more Amazon Leo satellites as Gen 1 deadline looms (spacenews)
 - **Feb 15, 06:04 AM** - ‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway (nyt)
 - **Feb 15, 06:39 AM** - Space Force buys second Otter spacecraft to power satellites on orbit (breaking_defense)
+- **Feb 15, 07:14 AM** - Stoke Space adds $350 million to Series D round (spacenews)
