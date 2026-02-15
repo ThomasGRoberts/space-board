@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 14 | 27 |
 | breaking_defense | 0 | 0 | 13 | 22 |
-| nyt | 0 | 0 | 13 | 22 |
+| nyt | 0 | 0 | 14 | 23 |
 
 # Shown Order
 
@@ -3640,3 +3640,4 @@
 - **Feb 15, 06:04 AM** - ‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway (nyt)
 - **Feb 15, 06:39 AM** - Space Force buys second Otter spacecraft to power satellites on orbit (breaking_defense)
 - **Feb 15, 07:14 AM** - Stoke Space adds $350 million to Series D round (spacenews)
+- **Feb 15, 07:49 AM** - Lost Soviet Luna 9 Moon Lander May Have Been Found (nyt)
