@@ -1,9 +1,21 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-02-14T00:04:24.660931+00:00",
-    "trigger_count": 4,
+    "last_run_datetime": "2026-02-15T00:04:15.273409+00:00",
+    "trigger_count": 5,
     "current_item_id": "a945383744a439cd03313e3c1e5d12ea",
     "data": [
+        {
+            "id": "3b77e5a8be6bbc7c8df61bc2f5a4e550",
+            "source": "spacenews",
+            "text": "NASA continues SLS hydrogen leak tests",
+            "source_link": "https://spacenews.com/nasa-continues-sls-hydrogen-leak-tests/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-14T17:14:12.440474Z",
+            "shown_at": [
+                "2026-02-14T17:14:13.406980Z"
+            ]
+        },
         {
             "id": "7e5b8aedc17623ee2fd7e805ee89da6e",
             "source": "spacenews",
@@ -9109,52 +9121,6 @@
                 "2025-10-09T04:33:54.231599Z",
                 "2025-10-09T07:30:07.886445Z",
                 "2025-10-09T16:25:50.756949Z"
-            ]
-        },
-        {
-            "id": "5226d61e9f3e3652cce1e9fb6d631ea7",
-            "source": "breaking_defense",
-            "text": "Space Rapid Capabilities Office to award contracts to put radars on sats to warn of space-bound threats",
-            "source_link": "https://breakingdefense.com/2025/10/space-rapid-capabilities-office-to-award-contracts-to-put-radars-on-sats-to-warn-of-space-bound-threats/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-02T20:58:04.753894Z",
-            "shown_at": [
-                "2025-10-02T20:58:05.665848Z",
-                "2025-10-02T22:29:55.225431Z",
-                "2025-10-02T23:29:40.337288Z",
-                "2025-10-03T23:21:00.409426Z",
-                "2025-10-04T00:55:44.872776Z",
-                "2025-10-04T12:29:37.076840Z",
-                "2025-10-04T14:25:27.700484Z",
-                "2025-10-04T17:23:41.721509Z",
-                "2025-10-05T04:20:08.854760Z",
-                "2025-10-05T12:27:49.784045Z",
-                "2025-10-05T17:27:45.358876Z",
-                "2025-10-05T23:23:44.701598Z",
-                "2025-10-06T11:27:42.031903Z",
-                "2025-10-06T16:17:29.955987Z",
-                "2025-10-08T00:54:02.853231Z",
-                "2025-10-08T07:55:42.560745Z",
-                "2025-10-08T08:58:08.511638Z",
-                "2025-10-08T12:27:45.845504Z",
-                "2025-10-08T22:28:09.275494Z",
-                "2025-10-09T00:41:59.694127Z",
-                "2025-10-09T01:39:51.639050Z",
-                "2025-10-09T06:32:09.057033Z",
-                "2025-10-09T17:23:40.192947Z"
-            ]
-        },
-        {
-            "id": "3b77e5a8be6bbc7c8df61bc2f5a4e550",
-            "source": "spacenews",
-            "text": "NASA continues SLS hydrogen leak tests",
-            "source_link": "https://spacenews.com/nasa-continues-sls-hydrogen-leak-tests/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-14T17:14:12.440474Z",
-            "shown_at": [
-                "2026-02-14T17:14:13.406980Z"
             ]
         }
     ]
