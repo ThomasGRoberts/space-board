@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 1 | 14 | 27 |
 | breaking_defense | 0 | 0 | 14 | 27 |
-| nyt | 0 | 0 | 13 | 27 |
+| nyt | 0 | 0 | 14 | 28 |
 
 # Shown Order
 
@@ -3664,3 +3664,4 @@
 - **Feb 15, 08:09 PM** - Lost Soviet Luna 9 Moon Lander May Have Been Found (nyt)
 - **Feb 15, 08:44 PM** - New UN forum seeks busting space traffic cooperation barriers (breaking_defense)
 - **Feb 15, 09:19 PM** - Vast wins ISS private astronaut mission (spacenews)
+- **Feb 15, 09:54 PM** - This Comet Stopped Spinning. Then It Started Rotating Backward. (nyt)
