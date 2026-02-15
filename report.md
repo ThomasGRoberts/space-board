@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 14 | 27 |
 | breaking_defense | 0 | 0 | 13 | 22 |
-| nyt | 0 | 0 | 13 | 22 |
+| nyt | 0 | 0 | 14 | 23 |
 
 # Shown Order
 
@@ -3634,3 +3634,4 @@
 - **Feb 15, 02:34 AM** - This Comet Stopped Spinning. Then It Started Rotating Backward. (nyt)
 - **Feb 15, 03:09 AM** - HEO, SatVu, Sierra Nevada nab first of NRO’s new commercial imagery contracts (breaking_defense)
 - **Feb 15, 03:44 AM** - Senate committee advances FCC satellite licensing bill after changes (spacenews)
+- **Feb 15, 04:19 AM** - ‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway (nyt)
