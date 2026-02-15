@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 1 | 14 | 27 |
-| breaking_defense | 0 | 0 | 13 | 27 |
-| nyt | 0 | 0 | 14 | 28 |
+| spacenews | 0 | 1 | 13 | 27 |
+| breaking_defense | 0 | 0 | 14 | 28 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -3665,3 +3665,4 @@
 - **Feb 15, 08:44 PM** - New UN forum seeks busting space traffic cooperation barriers (breaking_defense)
 - **Feb 15, 09:19 PM** - Vast wins ISS private astronaut mission (spacenews)
 - **Feb 15, 09:54 PM** - This Comet Stopped Spinning. Then It Started Rotating Backward. (nyt)
+- **Feb 15, 10:29 PM** - Space Force buys second Otter spacecraft to power satellites on orbit (breaking_defense)
