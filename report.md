@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 6 | 14 | 27 |
-| breaking_defense | 0 | 0 | 13 | 22 |
+| spacenews | 1 | 6 | 13 | 27 |
+| breaking_defense | 0 | 0 | 14 | 23 |
 | nyt | 0 | 0 | 14 | 22 |
 
 # Shown Order
@@ -3635,3 +3635,4 @@
 - **Feb 15, 03:09 AM** - HEO, SatVu, Sierra Nevada nab first of NRO’s new commercial imagery contracts (breaking_defense)
 - **Feb 15, 03:44 AM** - Senate committee advances FCC satellite licensing bill after changes (spacenews)
 - **Feb 15, 04:19 AM** - ‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway (nyt)
+- **Feb 15, 04:54 AM** - New UN forum seeks busting space traffic cooperation barriers (breaking_defense)
