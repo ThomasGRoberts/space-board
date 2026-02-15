@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 1 | 13 | 27 |
+| spacenews | 0 | 1 | 14 | 28 |
 | breaking_defense | 0 | 0 | 14 | 27 |
 | nyt | 0 | 0 | 14 | 27 |
 
@@ -3666,3 +3666,4 @@
 - **Feb 15, 09:19 PM** - Vast wins ISS private astronaut mission (spacenews)
 - **Feb 15, 09:54 PM** - This Comet Stopped Spinning. Then It Started Rotating Backward. (nyt)
 - **Feb 15, 10:29 PM** - Space Force buys second Otter spacecraft to power satellites on orbit (breaking_defense)
+- **Feb 15, 11:04 PM** - Integrate Raises $17M to Commercialize the World’s First Ultra-Secure Project Management Platform for Classified Programs (spacenews)
