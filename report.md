@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 6 | 13 | 26 |
+| spacenews | 1 | 6 | 14 | 27 |
 | breaking_defense | 0 | 0 | 14 | 23 |
 | nyt | 0 | 0 | 13 | 22 |
 
@@ -3642,3 +3642,4 @@
 - **Feb 15, 07:14 AM** - Stoke Space adds $350 million to Series D round (spacenews)
 - **Feb 15, 07:49 AM** - Lost Soviet Luna 9 Moon Lander May Have Been Found (nyt)
 - **Feb 15, 08:24 AM** - New UN forum seeks busting space traffic cooperation barriers (breaking_defense)
+- **Feb 15, 08:58 AM** - Crew-12 launches to ISS (spacenews)
