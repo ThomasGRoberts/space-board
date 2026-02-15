@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 14 | 27 |
-| breaking_defense | 0 | 0 | 14 | 22 |
-| nyt | 0 | 0 | 13 | 22 |
+| breaking_defense | 0 | 0 | 13 | 22 |
+| nyt | 0 | 0 | 14 | 23 |
 
 # Shown Order
 
@@ -3637,3 +3637,4 @@
 - **Feb 15, 04:19 AM** - ‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway (nyt)
 - **Feb 15, 04:54 AM** - New UN forum seeks busting space traffic cooperation barriers (breaking_defense)
 - **Feb 15, 05:28 AM** - FCC approves thousands more Amazon Leo satellites as Gen 1 deadline looms (spacenews)
+- **Feb 15, 06:04 AM** - ‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway (nyt)
