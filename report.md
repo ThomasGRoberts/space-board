@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 5 | 13 | 28 |
+| spacenews | 1 | 5 | 14 | 29 |
 | breaking_defense | 0 | 0 | 14 | 26 |
-| nyt | 0 | 0 | 14 | 25 |
+| nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
 
@@ -3654,3 +3654,4 @@
 - **Feb 15, 02:14 PM** - Satellite manufacturers see emerging market for ‘mini-constellations’ (spacenews)
 - **Feb 15, 02:48 PM** - Lost Soviet Luna 9 Moon Lander May Have Been Found (nyt)
 - **Feb 15, 03:29 PM** - Project Hecate: The Space Force’s quiet effort to keep GPS survivable after 2040 (breaking_defense)
+- **Feb 15, 04:04 PM** - NASA continues SLS hydrogen leak tests (spacenews)
