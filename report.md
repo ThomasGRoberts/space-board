@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 6 | 14 | 27 |
-| breaking_defense | 0 | 0 | 13 | 22 |
+| spacenews | 1 | 6 | 13 | 27 |
+| breaking_defense | 0 | 0 | 14 | 23 |
 | nyt | 0 | 0 | 14 | 22 |
 
 # Shown Order
@@ -3632,3 +3632,4 @@
 - **Feb 15, 01:24 AM** - Space Force buys second Otter spacecraft to power satellites on orbit (breaking_defense)
 - **Feb 15, 01:59 AM** - Motiv Space Systems and PickNik Robotics Collaborate on Software for NASA’s Fly Foundational Robotics (FFR) Mission (spacenews)
 - **Feb 15, 02:34 AM** - This Comet Stopped Spinning. Then It Started Rotating Backward. (nyt)
+- **Feb 15, 03:09 AM** - HEO, SatVu, Sierra Nevada nab first of NRO’s new commercial imagery contracts (breaking_defense)
