@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 5 | 14 | 26 |
 | breaking_defense | 0 | 0 | 14 | 23 |
-| nyt | 0 | 0 | 13 | 22 |
+| nyt | 0 | 0 | 14 | 23 |
 
 # Shown Order
 
@@ -3646,3 +3646,4 @@
 - **Feb 15, 09:34 AM** - This Comet Stopped Spinning. Then It Started Rotating Backward. (nyt)
 - **Feb 15, 10:09 AM** - Project Hecate: The Space Force’s quiet effort to keep GPS survivable after 2040 (breaking_defense)
 - **Feb 15, 10:44 AM** - Laser-linked satellite networks moving from concept to capability (spacenews)
+- **Feb 15, 11:18 AM** - ‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway (nyt)
