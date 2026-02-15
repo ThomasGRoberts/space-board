@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 6 | 13 | 26 |
+| spacenews | 1 | 6 | 14 | 27 |
 | breaking_defense | 0 | 0 | 14 | 23 |
-| nyt | 0 | 0 | 14 | 22 |
+| nyt | 0 | 0 | 13 | 22 |
 
 # Shown Order
 
@@ -3645,3 +3645,4 @@
 - **Feb 15, 08:58 AM** - Crew-12 launches to ISS (spacenews)
 - **Feb 15, 09:34 AM** - This Comet Stopped Spinning. Then It Started Rotating Backward. (nyt)
 - **Feb 15, 10:09 AM** - Project Hecate: The Space Force’s quiet effort to keep GPS survivable after 2040 (breaking_defense)
+- **Feb 15, 10:44 AM** - Laser-linked satellite networks moving from concept to capability (spacenews)
