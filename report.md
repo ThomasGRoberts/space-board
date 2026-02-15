@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 2 | 14 | 28 |
-| breaking_defense | 0 | 0 | 14 | 27 |
-| nyt | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 13 | 27 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -3658,3 +3658,4 @@
 - **Feb 15, 04:39 PM** - ‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway (nyt)
 - **Feb 15, 05:14 PM** - Project Hecate: The Space Force’s quiet effort to keep GPS survivable after 2040 (breaking_defense)
 - **Feb 15, 05:49 PM** - Crew-12 launches to ISS (spacenews)
+- **Feb 15, 06:24 PM** - Lost Soviet Luna 9 Moon Lander May Have Been Found (nyt)
