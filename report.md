@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 4 | 15 | 29 |
-| breaking_defense | 0 | 0 | 13 | 27 |
-| nyt | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
@@ -3690,3 +3690,4 @@
 - **Feb 16, 11:24 AM** - Portions of the Pentagon’s LEO constellation on hold as acquisition reviews proceed (spacenews)
 - **Feb 16, 11:59 AM** - Low-profile Chinese launch firm conducts first stage static fire (spacenews)
 - **Feb 16, 12:34 PM** - Project Hecate: The Space Force’s quiet effort to keep GPS survivable after 2040 (breaking_defense)
+- **Feb 16, 01:09 PM** - ‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway (nyt)
