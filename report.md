@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 13 | 27 |
+| spacenews | 1 | 2 | 14 | 28 |
 | breaking_defense | 0 | 0 | 13 | 27 |
 | nyt | 0 | 0 | 14 | 27 |
 
@@ -3686,3 +3686,4 @@
 - **Feb 16, 09:04 AM** - Satellite manufacturers see emerging market for ‘mini-constellations’ (spacenews)
 - **Feb 16, 09:39 AM** - Project Hecate: The Space Force’s quiet effort to keep GPS survivable after 2040 (breaking_defense)
 - **Feb 16, 10:14 AM** - This Comet Stopped Spinning. Then It Started Rotating Backward. (nyt)
+- **Feb 16, 10:49 AM** - Eutelsat gets nearly 1 billion euros in French-backed ECA financing (spacenews)
