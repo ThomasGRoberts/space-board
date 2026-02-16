@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 14 | 27 |
+| spacenews | 1 | 2 | 14 | 28 |
 | breaking_defense | 0 | 0 | 13 | 27 |
-| nyt | 0 | 0 | 14 | 28 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -3680,3 +3680,4 @@
 - **Feb 16, 05:29 AM** - How much is vertical integration squeezing the smallsat opportunity? (spacenews)
 - **Feb 16, 06:04 AM** - Project Hecate: The Space Force’s quiet effort to keep GPS survivable after 2040 (breaking_defense)
 - **Feb 16, 06:38 AM** - This Comet Stopped Spinning. Then It Started Rotating Backward. (nyt)
+- **Feb 16, 07:14 AM** - Stoke Space adds $350 million to Series D round (spacenews)
