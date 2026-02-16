@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 4 | 15 | 29 |
-| breaking_defense | 0 | 0 | 13 | 27 |
+| spacenews | 4 | 5 | 16 | 30 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 12 | 26 |
 
 # Shown Order
@@ -3693,3 +3693,4 @@
 - **Feb 16, 01:09 PM** - ‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway (nyt)
 - **Feb 16, 01:44 PM** - Axiom Space raises additional $350 million (spacenews)
 - **Feb 16, 02:19 PM** - HEO, SatVu, Sierra Nevada nab first of NRO’s new commercial imagery contracts (breaking_defense)
+- **Feb 16, 02:54 PM** - The space nuclear power bottleneck — and how to fix it (spacenews)

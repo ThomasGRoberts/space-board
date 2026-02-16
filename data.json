@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-16T00:04:28.273627+00:00",
-    "trigger_count": 6,
-    "current_item_id": "24c572fae4e6619ab2b44408e4e01f73",
+    "trigger_count": 0,
+    "current_item_id": "59ee71276c1dc16cb9807acbc9dbd5f9",
     "data": [
         {
             "id": "3b77e5a8be6bbc7c8df61bc2f5a4e550",
@@ -9220,6 +9220,18 @@
             "fetched_datetime": "2026-02-16T11:59:05.049114Z",
             "shown_at": [
                 "2026-02-16T11:59:06.321411Z"
+            ]
+        },
+        {
+            "id": "59ee71276c1dc16cb9807acbc9dbd5f9",
+            "source": "spacenews",
+            "text": "The space nuclear power bottleneck — and how to fix it",
+            "source_link": "https://spacenews.com/the-space-nuclear-power-bottleneck-and-how-to-fix-it/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-16T14:54:11.668633Z",
+            "shown_at": [
+                "2026-02-16T14:54:12.721023Z"
             ]
         }
     ]
