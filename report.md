@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 14 | 27 |
+| spacenews | 1 | 2 | 15 | 28 |
 | breaking_defense | 0 | 0 | 13 | 27 |
 | nyt | 0 | 0 | 14 | 27 |
 
@@ -3674,3 +3674,4 @@
 - **Feb 16, 01:59 AM** - Non-venture space startup investment hits post-SPAC high (spacenews)
 - **Feb 16, 02:34 AM** - Project Hecate: The Space Force’s quiet effort to keep GPS survivable after 2040 (breaking_defense)
 - **Feb 16, 03:09 AM** - ‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway (nyt)
+- **Feb 16, 03:44 AM** - Launch companies debate how to compete against SpaceX (spacenews)
