@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 5 | 16 | 30 |
 | breaking_defense | 0 | 0 | 13 | 26 |
-| nyt | 0 | 0 | 12 | 26 |
+| nyt | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
@@ -3703,3 +3703,4 @@
 - **Feb 16, 06:59 PM** - Lost Soviet Luna 9 Moon Lander May Have Been Found (nyt)
 - **Feb 16, 07:34 PM** - HEO, SatVu, Sierra Nevada nab first of NRO’s new commercial imagery contracts (breaking_defense)
 - **Feb 16, 08:09 PM** - Integrate Raises $17M to Commercialize the World’s First Ultra-Secure Project Management Platform for Classified Programs (spacenews)
+- **Feb 16, 08:44 PM** - Lost Soviet Luna 9 Moon Lander May Have Been Found (nyt)
