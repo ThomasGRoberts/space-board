@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 14 | 28 |
-| breaking_defense | 0 | 0 | 13 | 27 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 | nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
@@ -3669,3 +3669,4 @@
 - **Feb 15, 11:04 PM** - Integrate Raises $17M to Commercialize the World’s First Ultra-Secure Project Management Platform for Classified Programs (spacenews)
 - **Feb 15, 11:39 PM** - This Comet Stopped Spinning. Then It Started Rotating Backward. (nyt)
 - **Feb 16, 12:14 AM** - Isaacman planning to meet with head of Roscosmos (spacenews)
+- **Feb 16, 12:49 AM** - Project Hecate: The Space Force’s quiet effort to keep GPS survivable after 2040 (breaking_defense)
