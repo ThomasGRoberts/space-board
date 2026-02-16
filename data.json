@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-16T00:04:28.273627+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a945383744a439cd03313e3c1e5d12ea",
+    "trigger_count": 0,
+    "current_item_id": "64ddd26427534e0b588d870070fba467",
     "data": [
         {
             "id": "3b77e5a8be6bbc7c8df61bc2f5a4e550",
@@ -9234,6 +9234,18 @@
             "fetched_datetime": "2026-02-16T14:54:11.668633Z",
             "shown_at": [
                 "2026-02-16T14:54:12.721023Z"
+            ]
+        },
+        {
+            "id": "64ddd26427534e0b588d870070fba467",
+            "source": "spacenews",
+            "text": "NASA work on several programs pending responses to White House executive order",
+            "source_link": "https://spacenews.com/nasa-work-on-several-programs-pending-responses-to-white-house-executive-order/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-16T16:39:31.626553Z",
+            "shown_at": [
+                "2026-02-16T16:39:33.188393Z"
             ]
         }
     ]
