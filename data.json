@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-16T00:04:28.273627+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e54b3a2555921d44b2f8a25e5214f0eb",
+    "trigger_count": 0,
+    "current_item_id": "e9d766bd1efb2144edd9eff25b0730f3",
     "data": [
         {
             "id": "3b77e5a8be6bbc7c8df61bc2f5a4e550",
@@ -9192,6 +9192,18 @@
             "fetched_datetime": "2026-02-16T00:14:16.742893Z",
             "shown_at": [
                 "2026-02-16T00:14:17.902794Z"
+            ]
+        },
+        {
+            "id": "e9d766bd1efb2144edd9eff25b0730f3",
+            "source": "spacenews",
+            "text": "Portions of the Pentagon’s LEO constellation on hold as acquisition reviews proceed",
+            "source_link": "https://spacenews.com/portions-of-the-pentagons-leo-constellation-on-hold-as-acquisition-reviews-proceed/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-16T11:24:37.021874Z",
+            "shown_at": [
+                "2026-02-16T11:24:38.311883Z"
             ]
         }
     ]
