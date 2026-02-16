@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 14 | 28 |
-| breaking_defense | 0 | 0 | 13 | 26 |
-| nyt | 0 | 0 | 14 | 27 |
+| breaking_defense | 0 | 0 | 14 | 27 |
+| nyt | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
@@ -3684,3 +3684,4 @@
 - **Feb 16, 07:53 AM** - Space Force buys second Otter spacecraft to power satellites on orbit (breaking_defense)
 - **Feb 16, 08:29 AM** - Lost Soviet Luna 9 Moon Lander May Have Been Found (nyt)
 - **Feb 16, 09:04 AM** - Satellite manufacturers see emerging market for ‘mini-constellations’ (spacenews)
+- **Feb 16, 09:39 AM** - Project Hecate: The Space Force’s quiet effort to keep GPS survivable after 2040 (breaking_defense)
