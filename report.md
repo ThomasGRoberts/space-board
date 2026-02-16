@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 5 | 15 | 29 |
+| spacenews | 5 | 5 | 16 | 30 |
 | breaking_defense | 0 | 0 | 13 | 27 |
 | nyt | 0 | 0 | 13 | 26 |
 
@@ -3705,3 +3705,4 @@
 - **Feb 16, 08:09 PM** - Integrate Raises $17M to Commercialize the World’s First Ultra-Secure Project Management Platform for Classified Programs (spacenews)
 - **Feb 16, 08:44 PM** - Lost Soviet Luna 9 Moon Lander May Have Been Found (nyt)
 - **Feb 16, 09:19 PM** - HEO, SatVu, Sierra Nevada nab first of NRO’s new commercial imagery contracts (breaking_defense)
+- **Feb 16, 09:53 PM** - National Reconnaissance Office adds HEO, SatVu and Sierra Nevada to commercial imaging program (spacenews)
