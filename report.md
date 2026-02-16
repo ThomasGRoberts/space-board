@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 14 | 28 |
+| spacenews | 1 | 2 | 14 | 27 |
 | breaking_defense | 0 | 0 | 14 | 27 |
-| nyt | 0 | 0 | 13 | 27 |
+| nyt | 0 | 0 | 14 | 28 |
 
 # Shown Order
 
@@ -3676,3 +3676,4 @@
 - **Feb 16, 03:09 AM** - ‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway (nyt)
 - **Feb 16, 03:44 AM** - Launch companies debate how to compete against SpaceX (spacenews)
 - **Feb 16, 04:18 AM** - Space Force buys second Otter spacecraft to power satellites on orbit (breaking_defense)
+- **Feb 16, 04:54 AM** - This Comet Stopped Spinning. Then It Started Rotating Backward. (nyt)
