@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 4 | 16 | 29 |
-| breaking_defense | 0 | 0 | 12 | 26 |
-| nyt | 0 | 0 | 13 | 27 |
+| spacenews | 3 | 4 | 15 | 29 |
+| breaking_defense | 0 | 0 | 13 | 27 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -3689,3 +3689,4 @@
 - **Feb 16, 10:49 AM** - Eutelsat gets nearly 1 billion euros in French-backed ECA financing (spacenews)
 - **Feb 16, 11:24 AM** - Portions of the Pentagon’s LEO constellation on hold as acquisition reviews proceed (spacenews)
 - **Feb 16, 11:59 AM** - Low-profile Chinese launch firm conducts first stage static fire (spacenews)
+- **Feb 16, 12:34 PM** - Project Hecate: The Space Force’s quiet effort to keep GPS survivable after 2040 (breaking_defense)
