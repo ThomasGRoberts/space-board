@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-16T00:04:28.273627+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e9d766bd1efb2144edd9eff25b0730f3",
+    "trigger_count": 0,
+    "current_item_id": "9d2a9995ce93bb9a9b93ee1fe41ec9bc",
     "data": [
         {
             "id": "3b77e5a8be6bbc7c8df61bc2f5a4e550",
@@ -9204,6 +9204,18 @@
             "fetched_datetime": "2026-02-16T11:24:37.021874Z",
             "shown_at": [
                 "2026-02-16T11:24:38.311883Z"
+            ]
+        },
+        {
+            "id": "9d2a9995ce93bb9a9b93ee1fe41ec9bc",
+            "source": "spacenews",
+            "text": "Low-profile Chinese launch firm conducts first stage static fire",
+            "source_link": "https://spacenews.com/low-profile-chinese-launch-firm-conducts-first-stage-static-fire/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-16T11:59:05.049114Z",
+            "shown_at": [
+                "2026-02-16T11:59:06.321411Z"
             ]
         }
     ]

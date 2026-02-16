@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 15 | 28 |
+| spacenews | 3 | 4 | 16 | 29 |
 | breaking_defense | 0 | 0 | 12 | 26 |
 | nyt | 0 | 0 | 13 | 27 |
 
@@ -3688,3 +3688,4 @@
 - **Feb 16, 10:14 AM** - This Comet Stopped Spinning. Then It Started Rotating Backward. (nyt)
 - **Feb 16, 10:49 AM** - Eutelsat gets nearly 1 billion euros in French-backed ECA financing (spacenews)
 - **Feb 16, 11:24 AM** - Portions of the Pentagon’s LEO constellation on hold as acquisition reviews proceed (spacenews)
+- **Feb 16, 11:59 AM** - Low-profile Chinese launch firm conducts first stage static fire (spacenews)
