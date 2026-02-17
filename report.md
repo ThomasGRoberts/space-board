@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 10 | 15 | 31 |
-| breaking_defense | 0 | 0 | 13 | 26 |
-| nyt | 0 | 0 | 13 | 25 |
+| breaking_defense | 1 | 1 | 14 | 26 |
+| nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -3697,3 +3697,4 @@
 - **Feb 17, 03:29 PM** - Lost Soviet Luna 9 Moon Lander May Have Been Found (nyt)
 - **Feb 17, 04:04 PM** - HEO, SatVu, Sierra Nevada nab first of NRO’s new commercial imagery contracts (breaking_defense)
 - **Feb 17, 04:39 PM** - SatVu to expand thermal imaging constellation with NATO-backed funds (spacenews)
+- **Feb 17, 05:19 PM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)

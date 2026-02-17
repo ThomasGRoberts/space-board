@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-17T00:04:21.099368+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d6d4b776ddde164ae241b8d7e9c1df3d",
+    "trigger_count": 0,
+    "current_item_id": "18e0521f85d9adf0a3e85ead4f0ce953",
     "data": [
         {
             "id": "64ddd26427534e0b588d870070fba467",
@@ -9245,6 +9245,18 @@
             "shown": false,
             "type": "news",
             "fetched_datetime": "2026-02-17T16:39:09.264824Z"
+        },
+        {
+            "id": "18e0521f85d9adf0a3e85ead4f0ce953",
+            "source": "breaking_defense",
+            "text": "EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’",
+            "source_link": "https://breakingdefense.com/2026/02/exclusive-sentinel-icbm-to-clear-key-review-this-year-go-operational-in-early-2030s/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-17T17:19:11.115162Z",
+            "shown_at": [
+                "2026-02-17T17:19:12.226302Z"
+            ]
         }
     ]
 }
