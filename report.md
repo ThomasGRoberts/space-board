@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 8 | 15 | 31 |
 | breaking_defense | 0 | 0 | 13 | 26 |
-| nyt | 0 | 0 | 13 | 25 |
+| nyt | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -3694,3 +3694,4 @@
 - **Feb 17, 01:44 PM** - Lost Soviet Luna 9 Moon Lander May Have Been Found (nyt)
 - **Feb 17, 02:19 PM** - New UN forum seeks busting space traffic cooperation barriers (breaking_defense)
 - **Feb 17, 02:54 PM** - Artemis haters, can we have a moment, please? (spacenews)
+- **Feb 17, 03:29 PM** - Lost Soviet Luna 9 Moon Lander May Have Been Found (nyt)
