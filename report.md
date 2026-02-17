@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 5 | 16 | 29 |
+| spacenews | 4 | 5 | 15 | 29 |
 | breaking_defense | 0 | 0 | 13 | 26 |
-| nyt | 0 | 0 | 12 | 26 |
+| nyt | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
@@ -3671,3 +3671,4 @@
 - **Feb 17, 12:19 AM** - This Comet Stopped Spinning. Then It Started Rotating Backward. (nyt)
 - **Feb 17, 12:53 AM** - HEO, SatVu, Sierra Nevada nab first of NRO’s new commercial imagery contracts (breaking_defense)
 - **Feb 17, 01:29 AM** - Vast wins ISS private astronaut mission (spacenews)
+- **Feb 17, 02:04 AM** - ‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway (nyt)
