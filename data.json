@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-17T00:04:21.099368+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a9f3599573408f7783c51330403643e1",
+    "trigger_count": 0,
+    "current_item_id": "9b642f0e039423c14e51bd874825430f",
     "data": [
         {
             "id": "64ddd26427534e0b588d870070fba467",
@@ -9209,6 +9209,18 @@
             "fetched_datetime": "2026-02-17T13:08:44.723751Z",
             "shown_at": [
                 "2026-02-17T13:08:45.925311Z"
+            ]
+        },
+        {
+            "id": "9b642f0e039423c14e51bd874825430f",
+            "source": "spacenews",
+            "text": "Artemis haters, can we have a moment, please?",
+            "source_link": "https://spacenews.com/artemis-haters-can-we-have-a-moment-please/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-17T14:54:36.401617Z",
+            "shown_at": [
+                "2026-02-17T14:54:37.627281Z"
             ]
         }
     ]
