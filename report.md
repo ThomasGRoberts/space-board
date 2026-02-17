@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 5 | 16 | 30 |
+| spacenews | 5 | 6 | 16 | 30 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 12 | 26 |
 
@@ -3683,3 +3683,4 @@
 - **Feb 17, 07:19 AM** - Lost Soviet Luna 9 Moon Lander May Have Been Found (nyt)
 - **Feb 17, 07:54 AM** - New UN forum seeks busting space traffic cooperation barriers (breaking_defense)
 - **Feb 17, 08:29 AM** - The space nuclear power bottleneck — and how to fix it (spacenews)
+- **Feb 17, 09:04 AM** - Leonardo funding development of Earth observation constellation (spacenews)

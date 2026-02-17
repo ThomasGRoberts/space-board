@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-17T00:04:21.099368+00:00",
-    "trigger_count": 6,
-    "current_item_id": "59ee71276c1dc16cb9807acbc9dbd5f9",
+    "trigger_count": 0,
+    "current_item_id": "edd50b000cc44f21e75d6926135049d9",
     "data": [
         {
             "id": "64ddd26427534e0b588d870070fba467",
@@ -9177,6 +9177,18 @@
                 "2025-10-10T00:02:14.823850Z",
                 "2025-10-10T02:55:51.539152Z",
                 "2025-10-10T03:55:53.421454Z"
+            ]
+        },
+        {
+            "id": "edd50b000cc44f21e75d6926135049d9",
+            "source": "spacenews",
+            "text": "Leonardo funding development of Earth observation constellation",
+            "source_link": "https://spacenews.com/leonardo-funding-development-of-earth-observation-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-17T09:04:58.179985Z",
+            "shown_at": [
+                "2026-02-17T09:04:59.056689Z"
             ]
         }
     ]
