@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-17T00:04:21.099368+00:00",
-    "trigger_count": 6,
-    "current_item_id": "18e0521f85d9adf0a3e85ead4f0ce953",
+    "trigger_count": 0,
+    "current_item_id": "eba17a224f6e65abcccaf2fc45e3d118",
     "data": [
         {
             "id": "64ddd26427534e0b588d870070fba467",
@@ -9279,6 +9279,18 @@
             "fetched_datetime": "2026-02-17T19:05:09.509086Z",
             "shown_at": [
                 "2026-02-17T19:05:10.688378Z"
+            ]
+        },
+        {
+            "id": "eba17a224f6e65abcccaf2fc45e3d118",
+            "source": "spacenews",
+            "text": "Simera Sense to offer larger cameras and enhanced autonomy",
+            "source_link": "https://spacenews.com/simera-sense-to-offer-larger-cameras-and-enhanced-autonomy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-17T23:49:06.968362Z",
+            "shown_at": [
+                "2026-02-17T23:49:08.063118Z"
             ]
         }
     ]
