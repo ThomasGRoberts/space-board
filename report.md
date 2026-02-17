@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 10 | 15 | 30 |
+| spacenews | 5 | 10 | 16 | 31 |
 | breaking_defense | 1 | 1 | 13 | 26 |
 | nyt | 0 | 0 | 12 | 25 |
 
@@ -3698,3 +3698,4 @@
 - **Feb 17, 04:04 PM** - HEO, SatVu, Sierra Nevada nab first of NRO’s new commercial imagery contracts (breaking_defense)
 - **Feb 17, 04:39 PM** - SatVu to expand thermal imaging constellation with NATO-backed funds (spacenews)
 - **Feb 17, 05:19 PM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
+- **Feb 17, 05:54 PM** - Global leaders meet at Space-Comm Expo in London to accelerate future of European space industry (spacenews)

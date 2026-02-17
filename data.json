@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-17T00:04:21.099368+00:00",
-    "trigger_count": 6,
-    "current_item_id": "18e0521f85d9adf0a3e85ead4f0ce953",
+    "trigger_count": 0,
+    "current_item_id": "c0ba7f6ecf370780fcdfdb9f311241d3",
     "data": [
         {
             "id": "64ddd26427534e0b588d870070fba467",
@@ -9242,9 +9242,12 @@
             "source": "spacenews",
             "text": "Global leaders meet at Space-Comm Expo in London to accelerate future of European space industry",
             "source_link": "https://spacenews.com/global-leaders-meet-at-space-comm-expo-in-london-to-accelerate-future-of-european-space-industry/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-02-17T16:39:09.264824Z"
+            "fetched_datetime": "2026-02-17T16:39:09.264824Z",
+            "shown_at": [
+                "2026-02-17T17:54:08.846454Z"
+            ]
         },
         {
             "id": "18e0521f85d9adf0a3e85ead4f0ce953",
