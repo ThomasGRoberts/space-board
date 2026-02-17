@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 6 | 16 | 29 |
+| spacenews | 5 | 6 | 16 | 30 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 12 | 26 |
 
@@ -3686,3 +3686,4 @@
 - **Feb 17, 09:04 AM** - Leonardo funding development of Earth observation constellation (spacenews)
 - **Feb 17, 09:38 AM** - This Comet Stopped Spinning. Then It Started Rotating Backward. (nyt)
 - **Feb 17, 10:14 AM** - New UN forum seeks busting space traffic cooperation barriers (breaking_defense)
+- **Feb 17, 10:49 AM** - Nine innovative companies selected for fourth cohort of SDA TAP Lab – Catalyst Campus Mini Accelerator (spacenews)
