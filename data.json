@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-17T00:04:21.099368+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5f7076454764c8f876e1cb651b170cae",
+    "trigger_count": 0,
+    "current_item_id": "04143a106a9d728d0c136e2f2dd9c2f9",
     "data": [
         {
             "id": "64ddd26427534e0b588d870070fba467",
@@ -9195,6 +9195,18 @@
             "fetched_datetime": "2026-02-17T09:04:58.179985Z",
             "shown_at": [
                 "2026-02-17T09:04:59.056689Z"
+            ]
+        },
+        {
+            "id": "04143a106a9d728d0c136e2f2dd9c2f9",
+            "source": "spacenews",
+            "text": "Sateliot to launch satellites with PLD Space",
+            "source_link": "https://spacenews.com/sateliot-to-launch-satellites-with-pld-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-17T13:08:44.723751Z",
+            "shown_at": [
+                "2026-02-17T13:08:45.925311Z"
             ]
         }
     ]
