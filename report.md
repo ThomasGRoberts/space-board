@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 11 | 16 | 31 |
-| breaking_defense | 1 | 1 | 12 | 25 |
+| breaking_defense | 1 | 1 | 13 | 26 |
 | nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
@@ -3701,3 +3701,4 @@
 - **Feb 17, 05:54 PM** - Global leaders meet at Space-Comm Expo in London to accelerate future of European space industry (spacenews)
 - **Feb 17, 06:29 PM** - This Comet Stopped Spinning. Then It Started Rotating Backward. (nyt)
 - **Feb 17, 07:05 PM** - China’s Space Epoch raises new funding, targets 2026 launch and recovery attempt (spacenews)
+- **Feb 17, 07:44 PM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
