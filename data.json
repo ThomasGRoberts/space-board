@@ -1,9 +1,69 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-02-16T00:04:28.273627+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2026-02-17T00:04:21.099368+00:00",
+    "trigger_count": 4,
     "current_item_id": "61c8e7e2b989e8a19792a0b1e2b8fe65",
     "data": [
+        {
+            "id": "64ddd26427534e0b588d870070fba467",
+            "source": "spacenews",
+            "text": "NASA work on several programs pending responses to White House executive order",
+            "source_link": "https://spacenews.com/nasa-work-on-several-programs-pending-responses-to-white-house-executive-order/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-16T16:39:31.626553Z",
+            "shown_at": [
+                "2026-02-16T16:39:33.188393Z"
+            ]
+        },
+        {
+            "id": "59ee71276c1dc16cb9807acbc9dbd5f9",
+            "source": "spacenews",
+            "text": "The space nuclear power bottleneck — and how to fix it",
+            "source_link": "https://spacenews.com/the-space-nuclear-power-bottleneck-and-how-to-fix-it/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-16T14:54:11.668633Z",
+            "shown_at": [
+                "2026-02-16T14:54:12.721023Z"
+            ]
+        },
+        {
+            "id": "9d2a9995ce93bb9a9b93ee1fe41ec9bc",
+            "source": "spacenews",
+            "text": "Low-profile Chinese launch firm conducts first stage static fire",
+            "source_link": "https://spacenews.com/low-profile-chinese-launch-firm-conducts-first-stage-static-fire/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-16T11:59:05.049114Z",
+            "shown_at": [
+                "2026-02-16T11:59:06.321411Z"
+            ]
+        },
+        {
+            "id": "e9d766bd1efb2144edd9eff25b0730f3",
+            "source": "spacenews",
+            "text": "Portions of the Pentagon’s LEO constellation on hold as acquisition reviews proceed",
+            "source_link": "https://spacenews.com/portions-of-the-pentagons-leo-constellation-on-hold-as-acquisition-reviews-proceed/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-16T11:24:37.021874Z",
+            "shown_at": [
+                "2026-02-16T11:24:38.311883Z"
+            ]
+        },
+        {
+            "id": "40d28132225606829729a8f78e371e49",
+            "source": "spacenews",
+            "text": "Isaacman planning to meet with head of Roscosmos",
+            "source_link": "https://spacenews.com/isaacman-planning-to-meet-with-head-of-roscosmos/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-16T00:14:16.742893Z",
+            "shown_at": [
+                "2026-02-16T00:14:17.902794Z"
+            ]
+        },
         {
             "id": "3b77e5a8be6bbc7c8df61bc2f5a4e550",
             "source": "spacenews",
@@ -9102,162 +9162,6 @@
                 "2025-10-10T00:02:14.823850Z",
                 "2025-10-10T02:55:51.539152Z",
                 "2025-10-10T03:55:53.421454Z"
-            ]
-        },
-        {
-            "id": "defc3d37652d1e6c0a704afafbe4572e",
-            "source": "spacenews",
-            "text": "Starlab partners unveil full-scale mockup of commercial space station",
-            "source_link": "https://spacenews.com/starlab-partners-unveil-full-scale-mockup-of-commercial-space-station/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-03T06:53:43.868468Z",
-            "shown_at": [
-                "2025-10-03T06:53:44.624564Z",
-                "2025-10-05T13:57:47.536968Z",
-                "2025-10-06T12:58:01.955912Z"
-            ]
-        },
-        {
-            "id": "47564743a6210dfb1735ff515e13af2d",
-            "source": "spacenews",
-            "text": "HEO looks to expand satellite imaging beyond low Earth orbit",
-            "source_link": "https://spacenews.com/heo-looks-to-expand-satellite-imaging-beyond-low-earth-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-03T01:45:51.380617Z",
-            "shown_at": [
-                "2025-10-03T01:45:51.992235Z",
-                "2025-10-03T07:54:05.968902Z",
-                "2025-10-03T08:54:12.487211Z",
-                "2025-10-05T14:57:46.533177Z",
-                "2025-10-06T16:47:48.153267Z",
-                "2025-10-08T03:23:35.840272Z",
-                "2025-10-09T06:02:13.072579Z"
-            ]
-        },
-        {
-            "id": "00b6c27d15251b572ad0f2647751a5c6",
-            "source": "spacenews",
-            "text": "The spreadsheet behind the Golden Dome sticker shock",
-            "source_link": "https://spacenews.com/the-spreadsheet-behind-the-golden-dome-sticker-shock/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-02T21:59:38.181125Z",
-            "shown_at": [
-                "2025-10-02T21:59:39.005959Z",
-                "2025-10-04T17:53:57.960774Z",
-                "2025-10-06T09:59:59.608271Z",
-                "2025-10-08T17:59:33.146306Z"
-            ]
-        },
-        {
-            "id": "6b22c12f374e1cb03c1a3719b34476c1",
-            "source": "spacenews",
-            "text": "At IAC, global space cooperation meets American space dominance",
-            "source_link": "https://spacenews.com/at-iac-global-space-cooperation-meets-american-space-dominance/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-02T21:45:40.964794Z",
-            "shown_at": [
-                "2025-10-02T21:45:41.739332Z",
-                "2025-10-05T19:54:08.318387Z",
-                "2025-10-06T01:40:01.888766Z",
-                "2025-10-06T10:59:56.408194Z",
-                "2025-10-07T20:47:54.273503Z",
-                "2025-10-09T07:02:02.921036Z"
-            ]
-        },
-        {
-            "id": "2cb4164aeaa2eb9c2bab774a7478a745",
-            "source": "breaking_defense",
-            "text": "Space Rapid Capabilities Office to put radars on sats to warn of space-bound threats",
-            "source_link": "https://breakingdefense.com/2025/10/space-rapid-capabilities-office-to-award-contracts-to-put-radars-on-sats-to-warn-of-space-bound-threats/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-02T21:16:25.990094Z",
-            "shown_at": [
-                "2025-10-02T21:16:27.459550Z",
-                "2025-10-03T00:31:57.007403Z",
-                "2025-10-03T01:31:58.517248Z",
-                "2025-10-03T08:39:47.128340Z",
-                "2025-10-03T12:47:42.324425Z",
-                "2025-10-04T05:02:22.798601Z",
-                "2025-10-04T19:22:06.807449Z",
-                "2025-10-05T11:27:47.111929Z",
-                "2025-10-05T18:25:54.323051Z",
-                "2025-10-06T02:22:17.848472Z",
-                "2025-10-06T10:30:03.274755Z",
-                "2025-10-06T20:15:21.836407Z",
-                "2025-10-07T07:04:06.372386Z",
-                "2025-10-07T18:06:10.754437Z",
-                "2025-10-07T21:17:50.895794Z",
-                "2025-10-08T02:52:08.410791Z",
-                "2025-10-08T13:29:55.108674Z",
-                "2025-10-09T03:33:43.767889Z",
-                "2025-10-09T04:33:54.231599Z",
-                "2025-10-09T07:30:07.886445Z",
-                "2025-10-09T16:25:50.756949Z"
-            ]
-        },
-        {
-            "id": "40d28132225606829729a8f78e371e49",
-            "source": "spacenews",
-            "text": "Isaacman planning to meet with head of Roscosmos",
-            "source_link": "https://spacenews.com/isaacman-planning-to-meet-with-head-of-roscosmos/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-16T00:14:16.742893Z",
-            "shown_at": [
-                "2026-02-16T00:14:17.902794Z"
-            ]
-        },
-        {
-            "id": "e9d766bd1efb2144edd9eff25b0730f3",
-            "source": "spacenews",
-            "text": "Portions of the Pentagon’s LEO constellation on hold as acquisition reviews proceed",
-            "source_link": "https://spacenews.com/portions-of-the-pentagons-leo-constellation-on-hold-as-acquisition-reviews-proceed/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-16T11:24:37.021874Z",
-            "shown_at": [
-                "2026-02-16T11:24:38.311883Z"
-            ]
-        },
-        {
-            "id": "9d2a9995ce93bb9a9b93ee1fe41ec9bc",
-            "source": "spacenews",
-            "text": "Low-profile Chinese launch firm conducts first stage static fire",
-            "source_link": "https://spacenews.com/low-profile-chinese-launch-firm-conducts-first-stage-static-fire/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-16T11:59:05.049114Z",
-            "shown_at": [
-                "2026-02-16T11:59:06.321411Z"
-            ]
-        },
-        {
-            "id": "59ee71276c1dc16cb9807acbc9dbd5f9",
-            "source": "spacenews",
-            "text": "The space nuclear power bottleneck — and how to fix it",
-            "source_link": "https://spacenews.com/the-space-nuclear-power-bottleneck-and-how-to-fix-it/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-16T14:54:11.668633Z",
-            "shown_at": [
-                "2026-02-16T14:54:12.721023Z"
-            ]
-        },
-        {
-            "id": "64ddd26427534e0b588d870070fba467",
-            "source": "spacenews",
-            "text": "NASA work on several programs pending responses to White House executive order",
-            "source_link": "https://spacenews.com/nasa-work-on-several-programs-pending-responses-to-white-house-executive-order/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-16T16:39:31.626553Z",
-            "shown_at": [
-                "2026-02-16T16:39:33.188393Z"
             ]
         }
     ]
