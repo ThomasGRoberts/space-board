@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 8 | 15 | 30 |
+| spacenews | 6 | 10 | 16 | 31 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 13 | 26 |
 
@@ -3696,3 +3696,4 @@
 - **Feb 17, 02:54 PM** - Artemis haters, can we have a moment, please? (spacenews)
 - **Feb 17, 03:29 PM** - Lost Soviet Luna 9 Moon Lander May Have Been Found (nyt)
 - **Feb 17, 04:04 PM** - HEO, SatVu, Sierra Nevada nab first of NRO’s new commercial imagery contracts (breaking_defense)
+- **Feb 17, 04:39 PM** - SatVu to expand thermal imaging constellation with NATO-backed funds (spacenews)

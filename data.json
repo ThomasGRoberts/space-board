@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-17T00:04:21.099368+00:00",
-    "trigger_count": 6,
-    "current_item_id": "24c572fae4e6619ab2b44408e4e01f73",
+    "trigger_count": 0,
+    "current_item_id": "d6d4b776ddde164ae241b8d7e9c1df3d",
     "data": [
         {
             "id": "64ddd26427534e0b588d870070fba467",
@@ -9224,6 +9224,27 @@
             "shown_at": [
                 "2026-02-17T14:54:37.627281Z"
             ]
+        },
+        {
+            "id": "d6d4b776ddde164ae241b8d7e9c1df3d",
+            "source": "spacenews",
+            "text": "SatVu to expand thermal imaging constellation with NATO-backed funds",
+            "source_link": "https://spacenews.com/satvu-to-expand-thermal-imaging-constellation-with-nato-backed-funds/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-17T16:39:09.264752Z",
+            "shown_at": [
+                "2026-02-17T16:39:11.099913Z"
+            ]
+        },
+        {
+            "id": "c0ba7f6ecf370780fcdfdb9f311241d3",
+            "source": "spacenews",
+            "text": "Global leaders meet at Space-Comm Expo in London to accelerate future of European space industry",
+            "source_link": "https://spacenews.com/global-leaders-meet-at-space-comm-expo-in-london-to-accelerate-future-of-european-space-industry/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-02-17T16:39:09.264824Z"
         }
     ]
 }
