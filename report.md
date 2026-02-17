@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 5 | 15 | 29 |
-| breaking_defense | 0 | 0 | 12 | 26 |
-| nyt | 0 | 0 | 13 | 27 |
+| breaking_defense | 0 | 0 | 13 | 27 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -3669,3 +3669,4 @@
 - **Feb 16, 11:04 PM** - HEO, SatVu, Sierra Nevada nab first of NRO’s new commercial imagery contracts (breaking_defense)
 - **Feb 16, 11:39 PM** - Launch companies debate how to compete against SpaceX (spacenews)
 - **Feb 17, 12:19 AM** - This Comet Stopped Spinning. Then It Started Rotating Backward. (nyt)
+- **Feb 17, 12:53 AM** - HEO, SatVu, Sierra Nevada nab first of NRO’s new commercial imagery contracts (breaking_defense)
