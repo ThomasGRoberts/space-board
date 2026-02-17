@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 5 | 15 | 29 |
-| breaking_defense | 0 | 0 | 13 | 27 |
-| nyt | 0 | 0 | 13 | 26 |
+| spacenews | 4 | 5 | 16 | 30 |
+| breaking_defense | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 12 | 26 |
 
 # Shown Order
 
@@ -3679,3 +3679,4 @@
 - **Feb 17, 04:59 AM** - Spaceium demonstrates refueling actuator in orbit (spacenews)
 - **Feb 17, 05:34 AM** - Lost Soviet Luna 9 Moon Lander May Have Been Found (nyt)
 - **Feb 17, 06:09 AM** - HEO, SatVu, Sierra Nevada nab first of NRO’s new commercial imagery contracts (breaking_defense)
+- **Feb 17, 06:44 AM** - Spaceium demonstrates refueling actuator in orbit (spacenews)
