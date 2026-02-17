@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 6 | 16 | 30 |
 | breaking_defense | 0 | 0 | 13 | 26 |
-| nyt | 0 | 0 | 12 | 26 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -3684,3 +3684,4 @@
 - **Feb 17, 07:54 AM** - New UN forum seeks busting space traffic cooperation barriers (breaking_defense)
 - **Feb 17, 08:29 AM** - The space nuclear power bottleneck — and how to fix it (spacenews)
 - **Feb 17, 09:04 AM** - Leonardo funding development of Earth observation constellation (spacenews)
+- **Feb 17, 09:38 AM** - This Comet Stopped Spinning. Then It Started Rotating Backward. (nyt)
