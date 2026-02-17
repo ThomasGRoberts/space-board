@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 5 | 15 | 29 |
-| breaking_defense | 0 | 0 | 13 | 26 |
-| nyt | 0 | 0 | 13 | 27 |
+| breaking_defense | 0 | 0 | 13 | 27 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -3675,3 +3675,4 @@
 - **Feb 17, 02:39 AM** - Project Hecate: The Space Force’s quiet effort to keep GPS survivable after 2040 (breaking_defense)
 - **Feb 17, 03:14 AM** - Isaacman planning to meet with head of Roscosmos (spacenews)
 - **Feb 17, 03:49 AM** - ‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway (nyt)
+- **Feb 17, 04:24 AM** - HEO, SatVu, Sierra Nevada nab first of NRO’s new commercial imagery contracts (breaking_defense)
