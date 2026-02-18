@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-18T00:04:56.016359+00:00",
-    "trigger_count": 6,
-    "current_item_id": "bcf70732c31eda10174d67ca5f8ec46a",
+    "trigger_count": 0,
+    "current_item_id": "1dfb4932a0c3cd3523263f4bd8a1be7d",
     "data": [
         {
             "id": "eba17a224f6e65abcccaf2fc45e3d118",
@@ -9131,9 +9131,12 @@
             "source": "spacenews",
             "text": "SpaceX unveils space traffic management system",
             "source_link": "https://spacenews.com/spacexs-unveils-space-traffic-management-system/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-02-18T13:54:21.332267Z"
+            "fetched_datetime": "2026-02-18T13:54:21.332267Z",
+            "shown_at": [
+                "2026-02-18T14:29:19.457489Z"
+            ]
         }
     ]
 }
