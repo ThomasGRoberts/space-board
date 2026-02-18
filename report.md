@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 16 | 32 |
 | breaking_defense | 0 | 1 | 12 | 25 |
-| nyt | 0 | 0 | 12 | 24 |
+| nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
 
@@ -3603,3 +3603,4 @@
 - **Feb 18, 04:19 PM** - This Comet Stopped Spinning. Then It Started Rotating Backward. (nyt)
 - **Feb 18, 04:54 PM** - How much is vertical integration squeezing the smallsat opportunity? (spacenews)
 - **Feb 18, 05:29 PM** - Project Hecate: The Space Force’s quiet effort to keep GPS survivable after 2040 (breaking_defense)
+- **Feb 18, 06:04 PM** - This Comet Stopped Spinning. Then It Started Rotating Backward. (nyt)
