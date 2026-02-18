@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 11 | 16 | 31 |
 | breaking_defense | 1 | 1 | 13 | 26 |
-| nyt | 0 | 0 | 12 | 24 |
+| nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -3573,3 +3573,4 @@
 - **Feb 17, 10:39 PM** - ULA’s Vulcan launches Space Force mission; solid booster anomaly under investigation (spacenews)
 - **Feb 17, 11:14 PM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
 - **Feb 17, 11:49 PM** - Simera Sense to offer larger cameras and enhanced autonomy (spacenews)
+- **Feb 18, 12:24 AM** - This Comet Stopped Spinning. Then It Started Rotating Backward. (nyt)
