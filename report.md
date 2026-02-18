@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 11 | 16 | 31 |
+| spacenews | 7 | 11 | 16 | 32 |
 | breaking_defense | 1 | 1 | 13 | 26 |
 | nyt | 0 | 0 | 12 | 24 |
 
@@ -3584,3 +3584,4 @@
 - **Feb 18, 05:04 AM** - Eutelsat gets nearly 1 billion euros in French-backed ECA financing (spacenews)
 - **Feb 18, 05:39 AM** - This Comet Stopped Spinning. Then It Started Rotating Backward. (nyt)
 - **Feb 18, 06:14 AM** - Project Hecate: The Space Force’s quiet effort to keep GPS survivable after 2040 (breaking_defense)
+- **Feb 18, 06:49 AM** - Startup bets on new approach to space-based missile defense (spacenews)
