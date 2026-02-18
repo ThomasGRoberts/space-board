@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 12 | 16 | 31 |
+| spacenews | 9 | 13 | 17 | 32 |
 | breaking_defense | 1 | 1 | 12 | 25 |
 | nyt | 0 | 0 | 12 | 25 |
 
@@ -3598,3 +3598,4 @@
 - **Feb 18, 01:19 PM** - This Comet Stopped Spinning. Then It Started Rotating Backward. (nyt)
 - **Feb 18, 01:54 PM** - Vantor partners with Google AI to automate intelligence reports for government agencies (spacenews)
 - **Feb 18, 02:29 PM** - SpaceX unveils space traffic management system (spacenews)
+- **Feb 18, 03:09 PM** - Why GPS III, and what comes after it, still falls short in modern war (spacenews)
