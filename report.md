@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 12 | 16 | 31 |
+| spacenews | 7 | 12 | 17 | 32 |
 | breaking_defense | 1 | 1 | 12 | 25 |
 | nyt | 0 | 0 | 12 | 25 |
 
@@ -3601,3 +3601,4 @@
 - **Feb 18, 03:09 PM** - Why GPS III, and what comes after it, still falls short in modern war (spacenews)
 - **Feb 18, 03:45 PM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
 - **Feb 18, 04:19 PM** - This Comet Stopped Spinning. Then It Started Rotating Backward. (nyt)
+- **Feb 18, 04:54 PM** - How much is vertical integration squeezing the smallsat opportunity? (spacenews)
