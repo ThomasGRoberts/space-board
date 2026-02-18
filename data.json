@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-18T00:04:56.016359+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8eab6a29a30e73d9897181c93350a8cd",
+    "trigger_count": 0,
+    "current_item_id": "331b72337aaf09abb2203f5600653efb",
     "data": [
         {
             "id": "eba17a224f6e65abcccaf2fc45e3d118",
@@ -9170,6 +9170,18 @@
             "fetched_datetime": "2026-02-18T20:59:14.676369Z",
             "shown_at": [
                 "2026-02-18T20:59:15.775594Z"
+            ]
+        },
+        {
+            "id": "331b72337aaf09abb2203f5600653efb",
+            "source": "spacenews",
+            "text": "Pentagon seeks commercially built GEO spy satellites ",
+            "source_link": "https://spacenews.com/pentagon-seeks-commercially-built-geo-spy-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-18T22:10:08.065767Z",
+            "shown_at": [
+                "2026-02-18T22:10:09.210263Z"
             ]
         }
     ]

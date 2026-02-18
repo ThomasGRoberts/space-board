@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 16 | 31 |
+| spacenews | 7 | 13 | 17 | 32 |
 | breaking_defense | 1 | 2 | 12 | 25 |
-| nyt | 0 | 0 | 13 | 25 |
+| nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -3610,3 +3610,4 @@
 - **Feb 18, 08:24 PM** - UK caps launch liability in timely boost for nascent domestic market (spacenews)
 - **Feb 18, 08:59 PM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
 - **Feb 18, 09:34 PM** - This Comet Stopped Spinning. Then It Started Rotating Backward. (nyt)
+- **Feb 18, 10:10 PM** - Pentagon seeks commercially built GEO spy satellites  (spacenews)
