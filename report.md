@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 11 | 16 | 31 |
+| spacenews | 7 | 11 | 16 | 32 |
 | breaking_defense | 1 | 1 | 13 | 26 |
 | nyt | 0 | 0 | 12 | 24 |
 
@@ -3578,3 +3578,4 @@
 - **Feb 18, 01:34 AM** - Simera Sense to offer larger cameras and enhanced autonomy (spacenews)
 - **Feb 18, 02:09 AM** - This Comet Stopped Spinning. Then It Started Rotating Backward. (nyt)
 - **Feb 18, 02:44 AM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
+- **Feb 18, 03:18 AM** - NASA continues SLS hydrogen leak tests (spacenews)
