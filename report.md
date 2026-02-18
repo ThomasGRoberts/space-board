@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 13 | 17 | 32 |
-| breaking_defense | 1 | 1 | 12 | 25 |
+| breaking_defense | 1 | 1 | 13 | 26 |
 | nyt | 0 | 0 | 11 | 24 |
 
 # Shown Order
@@ -3599,3 +3599,4 @@
 - **Feb 18, 01:54 PM** - Vantor partners with Google AI to automate intelligence reports for government agencies (spacenews)
 - **Feb 18, 02:29 PM** - SpaceX unveils space traffic management system (spacenews)
 - **Feb 18, 03:09 PM** - Why GPS III, and what comes after it, still falls short in modern war (spacenews)
+- **Feb 18, 03:45 PM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
