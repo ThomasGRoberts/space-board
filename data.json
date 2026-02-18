@@ -1,9 +1,108 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-02-17T00:04:21.099368+00:00",
-    "trigger_count": 2,
+    "last_run_datetime": "2026-02-18T00:04:56.016359+00:00",
+    "trigger_count": 3,
     "current_item_id": "eba17a224f6e65abcccaf2fc45e3d118",
     "data": [
+        {
+            "id": "eba17a224f6e65abcccaf2fc45e3d118",
+            "source": "spacenews",
+            "text": "Simera Sense to offer larger cameras and enhanced autonomy",
+            "source_link": "https://spacenews.com/simera-sense-to-offer-larger-cameras-and-enhanced-autonomy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-17T23:49:06.968362Z",
+            "shown_at": [
+                "2026-02-17T23:49:08.063118Z"
+            ]
+        },
+        {
+            "id": "c7d31a4e9c5c5cb254d62e975b015a1f",
+            "source": "spacenews",
+            "text": "China’s Space Epoch raises new funding, targets 2026 launch and recovery attempt",
+            "source_link": "https://spacenews.com/chinas-space-epoch-raises-new-funding-targets-2026-launch-and-recovery-attempt/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-17T19:05:09.509086Z",
+            "shown_at": [
+                "2026-02-17T19:05:10.688378Z"
+            ]
+        },
+        {
+            "id": "18e0521f85d9adf0a3e85ead4f0ce953",
+            "source": "breaking_defense",
+            "text": "EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’",
+            "source_link": "https://breakingdefense.com/2026/02/exclusive-sentinel-icbm-to-clear-key-review-this-year-go-operational-in-early-2030s/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-17T17:19:11.115162Z",
+            "shown_at": [
+                "2026-02-17T17:19:12.226302Z",
+                "2026-02-17T19:44:07.977355Z",
+                "2026-02-17T21:29:05.194597Z",
+                "2026-02-17T23:14:18.533710Z"
+            ]
+        },
+        {
+            "id": "c0ba7f6ecf370780fcdfdb9f311241d3",
+            "source": "spacenews",
+            "text": "Global leaders meet at Space-Comm Expo in London to accelerate future of European space industry",
+            "source_link": "https://spacenews.com/global-leaders-meet-at-space-comm-expo-in-london-to-accelerate-future-of-european-space-industry/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-17T16:39:09.264824Z",
+            "shown_at": [
+                "2026-02-17T17:54:08.846454Z"
+            ]
+        },
+        {
+            "id": "d6d4b776ddde164ae241b8d7e9c1df3d",
+            "source": "spacenews",
+            "text": "SatVu to expand thermal imaging constellation with NATO-backed funds",
+            "source_link": "https://spacenews.com/satvu-to-expand-thermal-imaging-constellation-with-nato-backed-funds/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-17T16:39:09.264752Z",
+            "shown_at": [
+                "2026-02-17T16:39:11.099913Z"
+            ]
+        },
+        {
+            "id": "9b642f0e039423c14e51bd874825430f",
+            "source": "spacenews",
+            "text": "Artemis haters, can we have a moment, please?",
+            "source_link": "https://spacenews.com/artemis-haters-can-we-have-a-moment-please/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-17T14:54:36.401617Z",
+            "shown_at": [
+                "2026-02-17T14:54:37.627281Z"
+            ]
+        },
+        {
+            "id": "04143a106a9d728d0c136e2f2dd9c2f9",
+            "source": "spacenews",
+            "text": "Sateliot to launch satellites with PLD Space",
+            "source_link": "https://spacenews.com/sateliot-to-launch-satellites-with-pld-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-17T13:08:44.723751Z",
+            "shown_at": [
+                "2026-02-17T13:08:45.925311Z"
+            ]
+        },
+        {
+            "id": "edd50b000cc44f21e75d6926135049d9",
+            "source": "spacenews",
+            "text": "Leonardo funding development of Earth observation constellation",
+            "source_link": "https://spacenews.com/leonardo-funding-development-of-earth-observation-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-17T09:04:58.179985Z",
+            "shown_at": [
+                "2026-02-17T09:04:59.056689Z"
+            ]
+        },
         {
             "id": "64ddd26427534e0b588d870070fba467",
             "source": "spacenews",
@@ -8968,329 +9067,6 @@
                 "2025-10-10T02:13:41.126866Z",
                 "2025-10-10T04:12:01.080662Z",
                 "2025-10-10T16:49:56.222362Z"
-            ]
-        },
-        {
-            "id": "0f1f314b833468e80995eaf7d440bf97",
-            "source": "nyt",
-            "text": "Sync Your Calendar With the Solar System",
-            "source_link": "https://www.nytimes.com/explain/2025/science/astronomy-space-calendar-events",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-04T00:11:23.690552Z",
-            "shown_at": [
-                "2025-10-04T00:11:24.268747Z",
-                "2025-10-04T03:31:51.259428Z",
-                "2025-10-04T04:32:33.353273Z",
-                "2025-10-04T06:33:55.283560Z",
-                "2025-10-04T13:13:48.867172Z",
-                "2025-10-04T16:09:54.660943Z",
-                "2025-10-04T20:09:32.887595Z",
-                "2025-10-04T21:09:14.745995Z",
-                "2025-10-05T02:11:48.085385Z",
-                "2025-10-05T03:09:39.989630Z",
-                "2025-10-05T04:05:55.975559Z",
-                "2025-10-05T07:05:56.873106Z",
-                "2025-10-05T08:02:26.626843Z",
-                "2025-10-05T10:11:49.819884Z",
-                "2025-10-05T12:11:44.073973Z",
-                "2025-10-05T13:13:54.195860Z",
-                "2025-10-05T16:13:40.865193Z",
-                "2025-10-05T19:11:57.157122Z",
-                "2025-10-05T20:09:12.653501Z",
-                "2025-10-05T22:11:52.354079Z",
-                "2025-10-05T23:09:55.610481Z",
-                "2025-10-06T00:07:45.480783Z",
-                "2025-10-06T02:07:42.410905Z",
-                "2025-10-06T06:09:59.151906Z",
-                "2025-10-06T10:15:58.963208Z",
-                "2025-10-06T17:02:28.846560Z",
-                "2025-10-06T18:02:18.941577Z",
-                "2025-10-07T00:25:52.630268Z",
-                "2025-10-07T07:35:40.089996Z",
-                "2025-10-07T09:33:56.229191Z",
-                "2025-10-07T22:02:11.981235Z",
-                "2025-10-08T00:38:35.930680Z",
-                "2025-10-09T11:09:51.358675Z",
-                "2025-10-09T15:48:07.192667Z",
-                "2025-10-09T17:51:39.256358Z",
-                "2025-10-10T01:57:49.833155Z",
-                "2025-10-10T05:53:58.969669Z",
-                "2025-10-10T07:49:42.351036Z",
-                "2025-10-10T08:51:49.889279Z",
-                "2025-10-10T09:51:54.559655Z",
-                "2025-10-10T10:51:44.136871Z",
-                "2025-10-10T14:07:59.785981Z",
-                "2025-10-10T17:05:41.329435Z",
-                "2025-10-10T18:09:41.589327Z",
-                "2025-10-10T19:07:51.615631Z",
-                "2025-10-10T21:02:12.037169Z",
-                "2025-10-10T23:03:46.206489Z"
-            ]
-        },
-        {
-            "id": "4513b8525702c620ccb143517856e2b3",
-            "source": "spacenews",
-            "text": "Gilmour Space plans return to flight next year",
-            "source_link": "https://spacenews.com/gilmour-space-plans-return-to-flight-next-year/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-03T22:39:52.154267Z",
-            "shown_at": [
-                "2025-10-03T22:39:52.828163Z",
-                "2025-10-08T16:57:52.316681Z",
-                "2025-10-09T10:56:03.284620Z",
-                "2025-10-10T10:05:17.402451Z",
-                "2025-10-10T15:49:58.125861Z"
-            ]
-        },
-        {
-            "id": "28a184350895a4a15cae8033a5fe1e0d",
-            "source": "breaking_defense",
-            "text": "Space Force taps SpaceX, ULA for first set of critical launches beyond FY27",
-            "source_link": "https://breakingdefense.com/2025/10/space-force-taps-spacex-ula-for-first-set-of-critical-launches-beyond-fy27/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-03T20:30:04.166191Z",
-            "shown_at": [
-                "2025-10-03T20:30:06.539158Z",
-                "2025-10-04T22:25:40.873756Z",
-                "2025-10-05T07:20:03.683322Z",
-                "2025-10-05T10:27:52.071260Z",
-                "2025-10-05T13:27:52.560101Z",
-                "2025-10-05T21:26:08.182869Z",
-                "2025-10-06T00:22:05.742554Z",
-                "2025-10-06T18:17:54.630725Z",
-                "2025-10-06T19:18:02.477060Z",
-                "2025-10-07T00:11:54.240900Z",
-                "2025-10-07T10:04:03.731027Z",
-                "2025-10-07T14:13:51.961047Z",
-                "2025-10-07T15:09:45.130319Z",
-                "2025-10-08T18:15:50.760526Z",
-                "2025-10-09T02:37:50.032424Z",
-                "2025-10-09T10:25:44.002793Z",
-                "2025-10-10T00:32:06.295629Z",
-                "2025-10-10T08:21:50.060791Z",
-                "2025-10-10T10:22:08.286327Z",
-                "2025-10-10T12:19:58.958771Z",
-                "2025-10-10T13:23:38.917814Z",
-                "2025-10-10T16:19:51.173868Z",
-                "2025-10-10T19:21:55.778772Z"
-            ]
-        },
-        {
-            "id": "4097f28a569a840207164dfddc9291d5",
-            "source": "spacenews",
-            "text": "EchoStar clears key regulatory step for spectrum sale to SpaceX",
-            "source_link": "https://spacenews.com/echostar-clears-key-regulatory-step-for-spectrum-sale-to-spacex/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-03T19:31:56.422420Z",
-            "shown_at": [
-                "2025-10-03T19:31:57.026798Z",
-                "2025-10-03T21:13:33.624622Z",
-                "2025-10-07T15:51:55.274541Z",
-                "2025-10-08T21:13:57.203446Z",
-                "2025-10-09T02:09:50.649240Z"
-            ]
-        },
-        {
-            "id": "85a6130ae8fdc0505e96119eac9a2f50",
-            "source": "spacenews",
-            "text": "The real space war is being fought in cyberspace",
-            "source_link": "https://spacenews.com/the-real-space-war-is-being-fought-in-cyberspace/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-03T15:19:37.525868Z",
-            "shown_at": [
-                "2025-10-03T15:19:38.143324Z",
-                "2025-10-08T22:45:51.952311Z",
-                "2025-10-09T21:50:00.184787Z"
-            ]
-        },
-        {
-            "id": "75e1d8b1ce9d3b64814af0fbc0a1d131",
-            "source": "spacenews",
-            "text": "NASA’s newest astronauts will have to be willing to wait",
-            "source_link": "https://spacenews.com/nasas-newest-astronauts-will-have-to-be-willing-to-wait/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-03T14:02:17.503890Z",
-            "shown_at": [
-                "2025-10-03T14:02:18.245361Z",
-                "2025-10-06T08:59:40.191219Z",
-                "2025-10-06T18:48:03.418283Z",
-                "2025-10-08T15:59:43.225054Z"
-            ]
-        },
-        {
-            "id": "b6a3d05fb44f01a207d3b395c48f19a5",
-            "source": "spacenews",
-            "text": "SERVIR lives on through concerted global campaign",
-            "source_link": "https://spacenews.com/servir-lives-on-through-concerted-global-campaign/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-03T11:07:25.826327Z",
-            "shown_at": [
-                "2025-10-03T11:07:26.434577Z",
-                "2025-10-05T07:47:35.751911Z",
-                "2025-10-06T20:47:51.334124Z",
-                "2025-10-10T00:17:50.090930Z"
-            ]
-        },
-        {
-            "id": "99cea9d5c2e664801d6e5fe09032d158",
-            "source": "nyt",
-            "text": "Two Comets Are Moving Into Your Night Skies in October: How to Watch",
-            "source_link": "https://www.nytimes.com/2025/10/03/science/comets-a6-r2-how-to-see.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-03T09:09:19.916477Z",
-            "shown_at": [
-                "2025-10-03T09:09:20.616734Z",
-                "2025-10-03T10:08:02.335488Z",
-                "2025-10-03T12:19:48.496642Z",
-                "2025-10-03T15:33:41.080949Z",
-                "2025-10-03T19:49:50.742716Z",
-                "2025-10-03T21:34:58.990478Z",
-                "2025-10-04T07:37:39.842028Z",
-                "2025-10-04T08:40:14.122622Z",
-                "2025-10-04T12:14:05.133937Z",
-                "2025-10-04T17:07:55.226251Z",
-                "2025-10-04T18:07:23.082518Z",
-                "2025-10-04T22:08:02.140868Z",
-                "2025-10-04T23:09:55.205887Z",
-                "2025-10-05T01:11:56.452282Z",
-                "2025-10-05T05:05:42.481758Z",
-                "2025-10-05T06:05:26.116110Z",
-                "2025-10-05T09:04:04.591777Z",
-                "2025-10-05T15:13:46.775960Z",
-                "2025-10-05T18:11:13.831638Z",
-                "2025-10-06T01:09:51.518665Z",
-                "2025-10-06T03:07:53.137048Z",
-                "2025-10-06T04:05:59.419774Z",
-                "2025-10-06T05:07:56.066987Z",
-                "2025-10-06T08:16:38.745077Z",
-                "2025-10-06T16:02:19.424976Z",
-                "2025-10-06T19:02:07.124419Z",
-                "2025-10-06T19:59:57.086572Z",
-                "2025-10-06T21:29:56.308320Z",
-                "2025-10-07T03:22:01.870013Z",
-                "2025-10-07T06:32:16.054576Z",
-                "2025-10-07T08:34:03.878371Z",
-                "2025-10-07T11:33:47.166588Z",
-                "2025-10-07T12:34:09.693440Z",
-                "2025-10-07T13:45:45.507175Z",
-                "2025-10-07T15:37:37.446059Z",
-                "2025-10-07T21:02:18.586363Z",
-                "2025-10-08T02:37:46.564784Z",
-                "2025-10-08T16:43:46.470928Z",
-                "2025-10-08T20:41:59.821901Z",
-                "2025-10-09T03:19:40.781686Z",
-                "2025-10-09T05:18:01.877089Z",
-                "2025-10-09T21:05:42.115684Z",
-                "2025-10-10T00:02:14.823850Z",
-                "2025-10-10T02:55:51.539152Z",
-                "2025-10-10T03:55:53.421454Z"
-            ]
-        },
-        {
-            "id": "edd50b000cc44f21e75d6926135049d9",
-            "source": "spacenews",
-            "text": "Leonardo funding development of Earth observation constellation",
-            "source_link": "https://spacenews.com/leonardo-funding-development-of-earth-observation-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-17T09:04:58.179985Z",
-            "shown_at": [
-                "2026-02-17T09:04:59.056689Z"
-            ]
-        },
-        {
-            "id": "04143a106a9d728d0c136e2f2dd9c2f9",
-            "source": "spacenews",
-            "text": "Sateliot to launch satellites with PLD Space",
-            "source_link": "https://spacenews.com/sateliot-to-launch-satellites-with-pld-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-17T13:08:44.723751Z",
-            "shown_at": [
-                "2026-02-17T13:08:45.925311Z"
-            ]
-        },
-        {
-            "id": "9b642f0e039423c14e51bd874825430f",
-            "source": "spacenews",
-            "text": "Artemis haters, can we have a moment, please?",
-            "source_link": "https://spacenews.com/artemis-haters-can-we-have-a-moment-please/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-17T14:54:36.401617Z",
-            "shown_at": [
-                "2026-02-17T14:54:37.627281Z"
-            ]
-        },
-        {
-            "id": "d6d4b776ddde164ae241b8d7e9c1df3d",
-            "source": "spacenews",
-            "text": "SatVu to expand thermal imaging constellation with NATO-backed funds",
-            "source_link": "https://spacenews.com/satvu-to-expand-thermal-imaging-constellation-with-nato-backed-funds/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-17T16:39:09.264752Z",
-            "shown_at": [
-                "2026-02-17T16:39:11.099913Z"
-            ]
-        },
-        {
-            "id": "c0ba7f6ecf370780fcdfdb9f311241d3",
-            "source": "spacenews",
-            "text": "Global leaders meet at Space-Comm Expo in London to accelerate future of European space industry",
-            "source_link": "https://spacenews.com/global-leaders-meet-at-space-comm-expo-in-london-to-accelerate-future-of-european-space-industry/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-17T16:39:09.264824Z",
-            "shown_at": [
-                "2026-02-17T17:54:08.846454Z"
-            ]
-        },
-        {
-            "id": "18e0521f85d9adf0a3e85ead4f0ce953",
-            "source": "breaking_defense",
-            "text": "EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’",
-            "source_link": "https://breakingdefense.com/2026/02/exclusive-sentinel-icbm-to-clear-key-review-this-year-go-operational-in-early-2030s/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-17T17:19:11.115162Z",
-            "shown_at": [
-                "2026-02-17T17:19:12.226302Z",
-                "2026-02-17T19:44:07.977355Z",
-                "2026-02-17T21:29:05.194597Z",
-                "2026-02-17T23:14:18.533710Z"
-            ]
-        },
-        {
-            "id": "c7d31a4e9c5c5cb254d62e975b015a1f",
-            "source": "spacenews",
-            "text": "China’s Space Epoch raises new funding, targets 2026 launch and recovery attempt",
-            "source_link": "https://spacenews.com/chinas-space-epoch-raises-new-funding-targets-2026-launch-and-recovery-attempt/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-17T19:05:09.509086Z",
-            "shown_at": [
-                "2026-02-17T19:05:10.688378Z"
-            ]
-        },
-        {
-            "id": "eba17a224f6e65abcccaf2fc45e3d118",
-            "source": "spacenews",
-            "text": "Simera Sense to offer larger cameras and enhanced autonomy",
-            "source_link": "https://spacenews.com/simera-sense-to-offer-larger-cameras-and-enhanced-autonomy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-17T23:49:06.968362Z",
-            "shown_at": [
-                "2026-02-17T23:49:08.063118Z"
             ]
         }
     ]
