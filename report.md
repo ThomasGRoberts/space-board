@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 16 | 32 |
-| breaking_defense | 0 | 1 | 13 | 25 |
-| nyt | 0 | 0 | 12 | 24 |
+| breaking_defense | 0 | 1 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
 
@@ -3606,3 +3606,4 @@
 - **Feb 18, 06:04 PM** - This Comet Stopped Spinning. Then It Started Rotating Backward. (nyt)
 - **Feb 18, 06:39 PM** - Startup bets on new approach to space-based missile defense (spacenews)
 - **Feb 18, 07:14 PM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
+- **Feb 18, 07:49 PM** - This Comet Stopped Spinning. Then It Started Rotating Backward. (nyt)
