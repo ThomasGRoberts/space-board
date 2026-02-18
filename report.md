@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 11 | 15 | 30 |
+| spacenews | 9 | 13 | 16 | 31 |
 | breaking_defense | 1 | 1 | 13 | 26 |
 | nyt | 0 | 0 | 12 | 25 |
 
@@ -3596,3 +3596,4 @@
 - **Feb 18, 12:09 PM** - UK caps launch liability in timely boost for nascent domestic market (spacenews)
 - **Feb 18, 12:44 PM** - Landspace targets Q2 for next Zhuque-3 orbital launch and recovery attempt  (spacenews)
 - **Feb 18, 01:19 PM** - This Comet Stopped Spinning. Then It Started Rotating Backward. (nyt)
+- **Feb 18, 01:54 PM** - Vantor partners with Google AI to automate intelligence reports for government agencies (spacenews)
