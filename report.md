@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 11 | 15 | 31 |
 | breaking_defense | 1 | 1 | 13 | 26 |
-| nyt | 0 | 0 | 12 | 24 |
+| nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
 
@@ -3595,3 +3595,4 @@
 - **Feb 18, 11:34 AM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
 - **Feb 18, 12:09 PM** - UK caps launch liability in timely boost for nascent domestic market (spacenews)
 - **Feb 18, 12:44 PM** - Landspace targets Q2 for next Zhuque-3 orbital launch and recovery attempt  (spacenews)
+- **Feb 18, 01:19 PM** - This Comet Stopped Spinning. Then It Started Rotating Backward. (nyt)
