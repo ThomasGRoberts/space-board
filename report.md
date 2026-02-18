@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 15 | 31 |
+| spacenews | 6 | 13 | 16 | 32 |
 | breaking_defense | 1 | 2 | 12 | 25 |
 | nyt | 0 | 0 | 13 | 25 |
 
@@ -3613,3 +3613,4 @@
 - **Feb 18, 10:10 PM** - Pentagon seeks commercially built GEO spy satellites  (spacenews)
 - **Feb 18, 10:44 PM** - Project Hecate: The Space Force’s quiet effort to keep GPS survivable after 2040 (breaking_defense)
 - **Feb 18, 11:24 PM** - This Comet Stopped Spinning. Then It Started Rotating Backward. (nyt)
+- **Feb 18, 11:59 PM** - First Ariane 64 launches Amazon Leo satellites (spacenews)
