@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 16 | 32 |
-| breaking_defense | 0 | 1 | 12 | 25 |
+| breaking_defense | 1 | 2 | 13 | 26 |
 | nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
@@ -3608,3 +3608,4 @@
 - **Feb 18, 07:14 PM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
 - **Feb 18, 07:49 PM** - This Comet Stopped Spinning. Then It Started Rotating Backward. (nyt)
 - **Feb 18, 08:24 PM** - UK caps launch liability in timely boost for nascent domestic market (spacenews)
+- **Feb 18, 08:59 PM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)

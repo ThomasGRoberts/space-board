@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-18T00:04:56.016359+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ca6421c97567e5756d46bce616417abc",
+    "trigger_count": 0,
+    "current_item_id": "2040432ca3d42c967552629b5eb49ac3",
     "data": [
         {
             "id": "eba17a224f6e65abcccaf2fc45e3d118",
@@ -9157,6 +9157,18 @@
             "fetched_datetime": "2026-02-18T15:09:12.035658Z",
             "shown_at": [
                 "2026-02-18T15:09:13.149151Z"
+            ]
+        },
+        {
+            "id": "2040432ca3d42c967552629b5eb49ac3",
+            "source": "breaking_defense",
+            "text": "DIU wants commercially developed imagery satellites for on-orbit spying",
+            "source_link": "https://breakingdefense.com/2026/02/diu-wants-commercially-developed-imagery-satellites-for-on-orbit-spying/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-18T20:59:14.676369Z",
+            "shown_at": [
+                "2026-02-18T20:59:15.775594Z"
             ]
         }
     ]
