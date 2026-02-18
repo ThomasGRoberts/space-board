@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 11 | 16 | 31 |
+| spacenews | 7 | 11 | 16 | 32 |
 | breaking_defense | 1 | 1 | 13 | 26 |
 | nyt | 0 | 0 | 12 | 24 |
 
@@ -3575,3 +3575,4 @@
 - **Feb 17, 11:49 PM** - Simera Sense to offer larger cameras and enhanced autonomy (spacenews)
 - **Feb 18, 12:24 AM** - This Comet Stopped Spinning. Then It Started Rotating Backward. (nyt)
 - **Feb 18, 12:59 AM** - Project Hecate: The Space Force’s quiet effort to keep GPS survivable after 2040 (breaking_defense)
+- **Feb 18, 01:34 AM** - Simera Sense to offer larger cameras and enhanced autonomy (spacenews)
