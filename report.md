@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 13 | 17 | 32 |
 | breaking_defense | 1 | 1 | 12 | 25 |
-| nyt | 0 | 0 | 11 | 24 |
+| nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -3600,3 +3600,4 @@
 - **Feb 18, 02:29 PM** - SpaceX unveils space traffic management system (spacenews)
 - **Feb 18, 03:09 PM** - Why GPS III, and what comes after it, still falls short in modern war (spacenews)
 - **Feb 18, 03:45 PM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
+- **Feb 18, 04:19 PM** - This Comet Stopped Spinning. Then It Started Rotating Backward. (nyt)
