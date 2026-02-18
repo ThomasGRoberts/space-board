@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 11 | 15 | 31 |
-| breaking_defense | 1 | 1 | 13 | 25 |
+| breaking_defense | 1 | 1 | 14 | 26 |
 | nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
@@ -3589,3 +3589,4 @@
 - **Feb 18, 07:58 AM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
 - **Feb 18, 08:34 AM** - China’s Space Epoch raises new funding, targets 2026 launch and recovery attempt (spacenews)
 - **Feb 18, 09:09 AM** - This Comet Stopped Spinning. Then It Started Rotating Backward. (nyt)
+- **Feb 18, 09:49 AM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
