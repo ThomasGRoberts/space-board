@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 11 | 16 | 31 |
 | breaking_defense | 1 | 1 | 13 | 26 |
-| nyt | 0 | 0 | 11 | 24 |
+| nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -3579,3 +3579,4 @@
 - **Feb 18, 02:09 AM** - This Comet Stopped Spinning. Then It Started Rotating Backward. (nyt)
 - **Feb 18, 02:44 AM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
 - **Feb 18, 03:18 AM** - NASA continues SLS hydrogen leak tests (spacenews)
+- **Feb 18, 03:54 AM** - This Comet Stopped Spinning. Then It Started Rotating Backward. (nyt)
