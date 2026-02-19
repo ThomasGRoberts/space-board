@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 16 | 32 |
+| spacenews | 6 | 13 | 17 | 33 |
 | breaking_defense | 1 | 2 | 13 | 26 |
 | nyt | 0 | 0 | 11 | 23 |
 
@@ -3504,3 +3504,4 @@
 - **Feb 19, 03:34 AM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
 - **Feb 19, 04:09 AM** - Why GPS III, and what comes after it, still falls short in modern war (spacenews)
 - **Feb 19, 04:43 AM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
+- **Feb 19, 05:19 AM** - The space nuclear power bottleneck — and how to fix it (spacenews)
