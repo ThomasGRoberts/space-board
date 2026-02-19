@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 18 | 34 |
-| breaking_defense | 1 | 2 | 14 | 27 |
+| breaking_defense | 1 | 2 | 15 | 28 |
 | nyt | 0 | 0 | 8 | 20 |
 
 # Shown Order
@@ -3513,3 +3513,4 @@
 - **Feb 19, 08:49 AM** - UK caps launch liability in timely boost for nascent domestic market (spacenews)
 - **Feb 19, 09:29 AM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
 - **Feb 19, 10:04 AM** - Japan’s ispace warns of delays in new lunar lander engine (spacenews)
+- **Feb 19, 10:39 AM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
