@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 11 | 20 | 36 |
-| breaking_defense | 0 | 1 | 17 | 30 |
+| breaking_defense | 0 | 1 | 18 | 31 |
 | nyt | 0 | 0 | 3 | 15 |
 
 # Shown Order
@@ -3531,3 +3531,4 @@
 - **Feb 19, 07:24 PM** - EarthDaily in Orbit: From First Launch to Commercial Operations (spacenews)
 - **Feb 19, 07:59 PM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
 - **Feb 19, 08:34 PM** - Axiom Space raises additional $350 million (spacenews)
+- **Feb 19, 09:09 PM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
