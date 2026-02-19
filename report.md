@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 18 | 33 |
+| spacenews | 6 | 13 | 19 | 34 |
 | breaking_defense | 1 | 2 | 16 | 29 |
 | nyt | 0 | 0 | 6 | 19 |
 
@@ -3518,3 +3518,4 @@
 - **Feb 19, 11:49 AM** - Project Hecate: The Space Force’s quiet effort to keep GPS survivable after 2040 (breaking_defense)
 - **Feb 19, 12:24 PM** - First Ariane 64 launches Amazon Leo satellites (spacenews)
 - **Feb 19, 12:59 PM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
+- **Feb 19, 01:34 PM** - Vantor partners with Google AI to automate intelligence reports for government agencies (spacenews)
