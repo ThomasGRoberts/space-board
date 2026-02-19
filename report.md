@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 16 | 32 |
+| spacenews | 6 | 13 | 17 | 33 |
 | breaking_defense | 1 | 2 | 12 | 25 |
 | nyt | 0 | 0 | 12 | 24 |
 
@@ -3500,3 +3500,4 @@
 - **Feb 19, 01:09 AM** - This Comet Stopped Spinning. Then It Started Rotating Backward. (nyt)
 - **Feb 19, 01:44 AM** - Vantor partners with Google AI to automate intelligence reports for government agencies (spacenews)
 - **Feb 19, 02:19 AM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
+- **Feb 19, 02:59 AM** - Portions of the Pentagon’s LEO constellation on hold as acquisition reviews proceed (spacenews)
