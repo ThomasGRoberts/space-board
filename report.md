@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 19 | 34 |
-| breaking_defense | 1 | 2 | 14 | 28 |
+| breaking_defense | 1 | 2 | 15 | 29 |
 | nyt | 0 | 0 | 7 | 19 |
 
 # Shown Order
@@ -3515,3 +3515,4 @@
 - **Feb 19, 10:04 AM** - Japan’s ispace warns of delays in new lunar lander engine (spacenews)
 - **Feb 19, 10:39 AM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
 - **Feb 19, 11:14 AM** - Agile Space Industries Oversubscribed $17M Series A Accelerates Growth of In-Space Propulsion Capabilities (spacenews)
+- **Feb 19, 11:49 AM** - Project Hecate: The Space Force’s quiet effort to keep GPS survivable after 2040 (breaking_defense)
