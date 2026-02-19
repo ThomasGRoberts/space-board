@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-19T00:04:36.874177+00:00",
-    "trigger_count": 6,
-    "current_item_id": "bcf70732c31eda10174d67ca5f8ec46a",
+    "trigger_count": 0,
+    "current_item_id": "0941a019af3f93e7f1709c3fed644598",
     "data": [
         {
             "id": "331b72337aaf09abb2203f5600653efb",
@@ -9035,6 +9035,18 @@
             "fetched_datetime": "2026-02-19T11:14:18.994885Z",
             "shown_at": [
                 "2026-02-19T11:14:20.141716Z"
+            ]
+        },
+        {
+            "id": "0941a019af3f93e7f1709c3fed644598",
+            "source": "spacenews",
+            "text": "Golden Dome will fail without software-defined warfare",
+            "source_link": "https://spacenews.com/golden-dome-will-fail-without-software-defined-warfare/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-19T14:09:16.016271Z",
+            "shown_at": [
+                "2026-02-19T14:09:17.243550Z"
             ]
         }
     ]
