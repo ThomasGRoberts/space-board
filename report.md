@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 14 | 18 | 35 |
-| breaking_defense | 1 | 2 | 16 | 28 |
+| breaking_defense | 1 | 2 | 17 | 29 |
 | nyt | 0 | 0 | 6 | 18 |
 
 # Shown Order
@@ -3521,3 +3521,4 @@
 - **Feb 19, 01:34 PM** - Vantor partners with Google AI to automate intelligence reports for government agencies (spacenews)
 - **Feb 19, 02:09 PM** - Golden Dome will fail without software-defined warfare (spacenews)
 - **Feb 19, 02:44 PM** - EarthDaily in Orbit: From First Launch to Commercial Operations (spacenews)
+- **Feb 19, 03:19 PM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
