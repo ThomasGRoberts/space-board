@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-19T00:04:36.874177+00:00",
-    "trigger_count": 6,
-    "current_item_id": "18e0521f85d9adf0a3e85ead4f0ce953",
+    "trigger_count": 0,
+    "current_item_id": "9a8cb7fbae33d46cee5b4e5cb0bf6b72",
     "data": [
         {
             "id": "331b72337aaf09abb2203f5600653efb",
@@ -9006,6 +9006,18 @@
                 "2025-10-12T08:20:03.341017Z",
                 "2025-10-13T08:28:18.738642Z",
                 "2025-10-13T15:32:08.945664Z"
+            ]
+        },
+        {
+            "id": "9a8cb7fbae33d46cee5b4e5cb0bf6b72",
+            "source": "spacenews",
+            "text": "Japan’s ispace warns of delays in new lunar lander engine",
+            "source_link": "https://spacenews.com/japans-ispace-warns-of-delays-in-new-lunar-lander-engine/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-19T10:04:24.512052Z",
+            "shown_at": [
+                "2026-02-19T10:04:25.458007Z"
             ]
         }
     ]
