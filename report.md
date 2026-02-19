@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 19 | 36 |
-| breaking_defense | 1 | 1 | 16 | 28 |
+| breaking_defense | 1 | 1 | 17 | 29 |
 | nyt | 0 | 0 | 5 | 17 |
 
 # Shown Order
@@ -3525,3 +3525,4 @@
 - **Feb 19, 03:54 PM** - ULA’s Vulcan launches Space Force mission; solid booster anomaly under investigation (spacenews)
 - **Feb 19, 04:29 PM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
 - **Feb 19, 05:05 PM** - Senate committee advances FCC satellite licensing bill after changes (spacenews)
+- **Feb 19, 05:39 PM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
