@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-19T00:04:36.874177+00:00",
-    "trigger_count": 6,
-    "current_item_id": "18e0521f85d9adf0a3e85ead4f0ce953",
+    "trigger_count": 0,
+    "current_item_id": "69e5d457d38ac4bbcecb967d75df86b0",
     "data": [
         {
             "id": "331b72337aaf09abb2203f5600653efb",
@@ -9019,6 +9019,18 @@
             "fetched_datetime": "2026-02-19T10:04:24.512052Z",
             "shown_at": [
                 "2026-02-19T10:04:25.458007Z"
+            ]
+        },
+        {
+            "id": "69e5d457d38ac4bbcecb967d75df86b0",
+            "source": "spacenews",
+            "text": "Agile Space Industries Oversubscribed $17M Series A Accelerates Growth of In-Space Propulsion Capabilities",
+            "source_link": "https://spacenews.com/agile-space-industries-oversubscribed-17m-series-a-accelerates-growth-of-in-space-propulsion-capabilities/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-19T11:14:18.994885Z",
+            "shown_at": [
+                "2026-02-19T11:14:20.141716Z"
             ]
         }
     ]
