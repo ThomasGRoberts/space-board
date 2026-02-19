@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 18 | 33 |
-| breaking_defense | 1 | 2 | 14 | 27 |
+| breaking_defense | 1 | 2 | 15 | 28 |
 | nyt | 0 | 0 | 8 | 21 |
 
 # Shown Order
@@ -3511,3 +3511,4 @@
 - **Feb 19, 07:38 AM** - Vantor partners with Google AI to automate intelligence reports for government agencies (spacenews)
 - **Feb 19, 08:14 AM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
 - **Feb 19, 08:49 AM** - UK caps launch liability in timely boost for nascent domestic market (spacenews)
+- **Feb 19, 09:29 AM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
