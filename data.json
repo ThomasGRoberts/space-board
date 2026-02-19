@@ -1,9 +1,94 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-02-18T00:04:56.016359+00:00",
-    "trigger_count": 0,
+    "last_run_datetime": "2026-02-19T00:04:36.874177+00:00",
+    "trigger_count": 1,
     "current_item_id": "5d6719c29a6f1e5ba79cf49f81b9e471",
     "data": [
+        {
+            "id": "331b72337aaf09abb2203f5600653efb",
+            "source": "spacenews",
+            "text": "Pentagon seeks commercially built GEO spy satellites ",
+            "source_link": "https://spacenews.com/pentagon-seeks-commercially-built-geo-spy-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-18T22:10:08.065767Z",
+            "shown_at": [
+                "2026-02-18T22:10:09.210263Z"
+            ]
+        },
+        {
+            "id": "2040432ca3d42c967552629b5eb49ac3",
+            "source": "breaking_defense",
+            "text": "DIU wants commercially developed imagery satellites for on-orbit spying",
+            "source_link": "https://breakingdefense.com/2026/02/diu-wants-commercially-developed-imagery-satellites-for-on-orbit-spying/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-18T20:59:14.676369Z",
+            "shown_at": [
+                "2026-02-18T20:59:15.775594Z"
+            ]
+        },
+        {
+            "id": "bb720147ed8f2a7e43d67755aaf99449",
+            "source": "spacenews",
+            "text": "Why GPS III, and what comes after it, still falls short in modern war",
+            "source_link": "https://spacenews.com/why-gps-iii-and-what-comes-after-it-still-falls-short-in-modern-war/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-18T15:09:12.035658Z",
+            "shown_at": [
+                "2026-02-18T15:09:13.149151Z"
+            ]
+        },
+        {
+            "id": "1dfb4932a0c3cd3523263f4bd8a1be7d",
+            "source": "spacenews",
+            "text": "SpaceX unveils space traffic management system",
+            "source_link": "https://spacenews.com/spacexs-unveils-space-traffic-management-system/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-18T13:54:21.332267Z",
+            "shown_at": [
+                "2026-02-18T14:29:19.457489Z"
+            ]
+        },
+        {
+            "id": "bcf70732c31eda10174d67ca5f8ec46a",
+            "source": "spacenews",
+            "text": "Vantor partners with Google AI to automate intelligence reports for government agencies",
+            "source_link": "https://spacenews.com/vantor-partners-with-google-ai-to-automate-intelligence-reports-for-government-agencies/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-18T13:54:21.332211Z",
+            "shown_at": [
+                "2026-02-18T13:54:22.274690Z"
+            ]
+        },
+        {
+            "id": "cb0edeea7a9883be0df3617719f2da3a",
+            "source": "spacenews",
+            "text": "Landspace targets Q2 for next Zhuque-3 orbital launch and recovery attempt ",
+            "source_link": "https://spacenews.com/landspace-targets-q2-for-next-zhuque-3-orbital-launch-and-recovery-attempt/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-18T12:08:59.622502Z",
+            "shown_at": [
+                "2026-02-18T12:44:07.114836Z"
+            ]
+        },
+        {
+            "id": "ca6421c97567e5756d46bce616417abc",
+            "source": "spacenews",
+            "text": "UK caps launch liability in timely boost for nascent domestic market",
+            "source_link": "https://spacenews.com/uk-caps-launch-liability-in-timely-boost-for-nascent-domestic-market/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-18T12:08:59.622430Z",
+            "shown_at": [
+                "2026-02-18T12:09:01.204514Z",
+                "2026-02-18T20:24:09.359817Z"
+            ]
+        },
         {
             "id": "eba17a224f6e65abcccaf2fc45e3d118",
             "source": "spacenews",
@@ -8905,286 +8990,6 @@
                 "2025-10-12T08:20:03.341017Z",
                 "2025-10-13T08:28:18.738642Z",
                 "2025-10-13T15:32:08.945664Z"
-            ]
-        },
-        {
-            "id": "ce085dbf41822e106c9734db3fbd1429",
-            "source": "breaking_defense",
-            "text": "Firefly to buy SciTec with eye on Golden Dome",
-            "source_link": "https://breakingdefense.com/2025/10/firefly-to-buy-scitec-with-eye-on-golden-dome/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-06T21:01:53.458461Z",
-            "shown_at": [
-                "2025-10-06T21:01:54.204353Z",
-                "2025-10-06T22:15:36.692799Z",
-                "2025-10-07T02:07:49.224069Z",
-                "2025-10-07T04:07:54.909006Z",
-                "2025-10-07T05:58:06.014749Z",
-                "2025-10-07T08:05:48.809133Z",
-                "2025-10-07T20:19:23.916909Z",
-                "2025-10-08T04:58:03.679376Z",
-                "2025-10-08T07:00:00.283634Z",
-                "2025-10-08T10:02:20.716533Z",
-                "2025-10-08T20:57:44.313982Z",
-                "2025-10-08T23:43:46.555470Z",
-                "2025-10-09T09:27:39.195292Z",
-                "2025-10-09T12:21:52.872846Z",
-                "2025-10-09T22:22:08.262695Z",
-                "2025-10-10T05:23:58.291342Z",
-                "2025-10-10T18:23:41.368867Z",
-                "2025-10-10T21:22:11.089566Z",
-                "2025-10-10T23:20:08.211523Z",
-                "2025-10-11T06:17:53.317582Z",
-                "2025-10-11T13:29:38.091415Z",
-                "2025-10-11T16:25:14.640759Z",
-                "2025-10-11T22:16:06.660160Z",
-                "2025-10-12T01:17:55.871700Z",
-                "2025-10-12T08:03:45.839225Z",
-                "2025-10-12T12:17:49.901335Z",
-                "2025-10-12T16:15:51.417458Z",
-                "2025-10-12T19:07:48.408804Z",
-                "2025-10-12T21:59:47.783328Z",
-                "2025-10-12T22:55:46.508045Z",
-                "2025-10-13T06:11:54.786719Z",
-                "2025-10-13T09:18:03.512057Z",
-                "2025-10-13T14:57:40.340201Z",
-                "2025-10-13T19:07:52.625996Z"
-            ]
-        },
-        {
-            "id": "b8e5d1326cbd096d33a41031aad6b948",
-            "source": "nyt",
-            "text": "If Your North Star Is Lost, New Techniques Can Point You South",
-            "source_link": "https://www.nytimes.com/2025/10/06/science/southern-stars-constellation-compass.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-06T13:59:43.116071Z",
-            "shown_at": [
-                "2025-10-06T13:59:43.818236Z",
-                "2025-10-06T15:02:13.524070Z",
-                "2025-10-06T22:30:02.062449Z",
-                "2025-10-07T01:23:43.419250Z",
-                "2025-10-07T05:27:43.046258Z",
-                "2025-10-07T10:35:55.843507Z",
-                "2025-10-07T16:37:48.244458Z",
-                "2025-10-07T20:05:48.142908Z",
-                "2025-10-07T23:37:45.721947Z",
-                "2025-10-08T09:33:37.391174Z",
-                "2025-10-08T14:47:30.076161Z",
-                "2025-10-08T19:43:46.744872Z",
-                "2025-10-08T22:13:55.413542Z",
-                "2025-10-09T00:27:58.015326Z",
-                "2025-10-09T09:13:47.034767Z",
-                "2025-10-09T10:11:57.572154Z",
-                "2025-10-09T18:50:05.719611Z",
-                "2025-10-10T11:51:40.565462Z",
-                "2025-10-10T16:06:00.368996Z",
-                "2025-10-11T00:03:41.322186Z",
-                "2025-10-11T01:06:08.484759Z",
-                "2025-10-11T02:07:47.154891Z",
-                "2025-10-11T03:52:03.092736Z",
-                "2025-10-11T07:43:41.521305Z",
-                "2025-10-11T08:41:45.138337Z",
-                "2025-10-11T10:39:20.760611Z",
-                "2025-10-11T14:55:56.623951Z",
-                "2025-10-11T16:54:00.199025Z",
-                "2025-10-11T20:45:45.625142Z",
-                "2025-10-11T22:45:53.999507Z",
-                "2025-10-11T23:47:57.367723Z",
-                "2025-10-12T00:46:04.951665Z",
-                "2025-10-12T01:45:55.390630Z",
-                "2025-10-12T06:37:53.012340Z",
-                "2025-10-12T07:35:21.121089Z",
-                "2025-10-12T09:43:40.895303Z",
-                "2025-10-12T11:45:53.000883Z",
-                "2025-10-12T12:45:48.914986Z",
-                "2025-10-12T19:35:36.560900Z",
-                "2025-10-12T21:29:40.068844Z",
-                "2025-10-12T23:25:58.435848Z",
-                "2025-10-13T00:37:35.818349Z",
-                "2025-10-13T02:38:07.628557Z",
-                "2025-10-13T04:39:57.207888Z",
-                "2025-10-13T06:41:44.755788Z",
-                "2025-10-13T07:43:53.938626Z",
-                "2025-10-13T08:43:53.706084Z",
-                "2025-10-13T09:47:35.222570Z",
-                "2025-10-13T10:47:38.238878Z",
-                "2025-10-13T11:45:48.580035Z",
-                "2025-10-13T12:57:59.866800Z"
-            ]
-        },
-        {
-            "id": "005b4027599dcf13113b810f0448d233",
-            "source": "spacenews",
-            "text": "Cubic targets military satcom market with ‘Vector’ terminals",
-            "source_link": "https://spacenews.com/cubic-targets-military-satcom-market-with-vector-terminals/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-06T13:45:38.243642Z",
-            "shown_at": [
-                "2025-10-06T13:45:38.886303Z",
-                "2025-10-06T14:47:38.412555Z",
-                "2025-10-09T11:51:43.838649Z",
-                "2025-10-11T19:35:49.408342Z",
-                "2025-10-13T10:32:07.647102Z"
-            ]
-        },
-        {
-            "id": "bc0dff4071d94abf9e0b09b411697fcb",
-            "source": "spacenews",
-            "text": "Utilize the ISS as a resource: a common sense, fiscally responsible plan leveraging the International Space Station",
-            "source_link": "https://spacenews.com/utilize-the-iss-as-a-resource-a-common-sense-fiscally-responsible-plan-leveraging-the-international-space-station/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-06T13:14:06.416221Z",
-            "shown_at": [
-                "2025-10-06T13:14:07.155419Z",
-                "2025-10-07T18:52:03.046339Z",
-                "2025-10-09T12:49:57.621793Z",
-                "2025-10-09T18:07:59.004205Z",
-                "2025-10-10T11:07:40.226144Z",
-                "2025-10-11T04:35:50.940765Z",
-                "2025-10-11T10:25:50.824498Z",
-                "2025-10-12T02:28:09.247737Z",
-                "2025-10-12T04:25:21.368534Z"
-            ]
-        },
-        {
-            "id": "400b7e225b4dd4cb231da3647f9aa2d6",
-            "source": "spacenews",
-            "text": "Firefly to acquire defense contractor SciTec in $855 million deal",
-            "source_link": "https://spacenews.com/firefly-to-acquire-defense-contractor-scitec-in-855-million-deal/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-05T21:41:52.786748Z",
-            "shown_at": [
-                "2025-10-05T21:41:53.788684Z",
-                "2025-10-09T19:03:58.376397Z",
-                "2025-10-10T05:10:03.045044Z",
-                "2025-10-12T00:31:58.258898Z",
-                "2025-10-12T19:21:59.967050Z"
-            ]
-        },
-        {
-            "id": "248fe190c169bd8bd9d3d47d6939356d",
-            "source": "spacenews",
-            "text": "ESA inaugurates new deep space antenna in Australia",
-            "source_link": "https://spacenews.com/esa-inaugurates-new-deep-space-antenna-in-australia/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-05T20:39:41.369748Z",
-            "shown_at": [
-                "2025-10-05T20:39:41.933735Z",
-                "2025-10-08T06:14:15.705100Z",
-                "2025-10-08T09:16:07.754768Z",
-                "2025-10-10T07:07:52.926333Z",
-                "2025-10-11T05:33:43.921533Z",
-                "2025-10-12T01:31:50.959055Z",
-                "2025-10-12T07:21:49.317108Z"
-            ]
-        },
-        {
-            "id": "9622cd20d5ec58af7bb50589c1c43db5",
-            "source": "spacenews",
-            "text": "SpaceX lands majority of U.S. national security launches awarded for fiscal year 2026",
-            "source_link": "https://spacenews.com/spacex-lands-majority-of-u-s-national-security-launches-awarded-for-fiscal-year-2026/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-04T10:49:31.567694Z",
-            "shown_at": [
-                "2025-10-04T10:49:32.209379Z",
-                "2025-10-05T16:57:58.915344Z",
-                "2025-10-08T15:02:00.932034Z",
-                "2025-10-09T13:59:41.880293Z",
-                "2025-10-10T02:13:41.126866Z",
-                "2025-10-10T04:12:01.080662Z",
-                "2025-10-10T16:49:56.222362Z"
-            ]
-        },
-        {
-            "id": "ca6421c97567e5756d46bce616417abc",
-            "source": "spacenews",
-            "text": "UK caps launch liability in timely boost for nascent domestic market",
-            "source_link": "https://spacenews.com/uk-caps-launch-liability-in-timely-boost-for-nascent-domestic-market/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-18T12:08:59.622430Z",
-            "shown_at": [
-                "2026-02-18T12:09:01.204514Z",
-                "2026-02-18T20:24:09.359817Z"
-            ]
-        },
-        {
-            "id": "cb0edeea7a9883be0df3617719f2da3a",
-            "source": "spacenews",
-            "text": "Landspace targets Q2 for next Zhuque-3 orbital launch and recovery attempt ",
-            "source_link": "https://spacenews.com/landspace-targets-q2-for-next-zhuque-3-orbital-launch-and-recovery-attempt/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-18T12:08:59.622502Z",
-            "shown_at": [
-                "2026-02-18T12:44:07.114836Z"
-            ]
-        },
-        {
-            "id": "bcf70732c31eda10174d67ca5f8ec46a",
-            "source": "spacenews",
-            "text": "Vantor partners with Google AI to automate intelligence reports for government agencies",
-            "source_link": "https://spacenews.com/vantor-partners-with-google-ai-to-automate-intelligence-reports-for-government-agencies/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-18T13:54:21.332211Z",
-            "shown_at": [
-                "2026-02-18T13:54:22.274690Z"
-            ]
-        },
-        {
-            "id": "1dfb4932a0c3cd3523263f4bd8a1be7d",
-            "source": "spacenews",
-            "text": "SpaceX unveils space traffic management system",
-            "source_link": "https://spacenews.com/spacexs-unveils-space-traffic-management-system/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-18T13:54:21.332267Z",
-            "shown_at": [
-                "2026-02-18T14:29:19.457489Z"
-            ]
-        },
-        {
-            "id": "bb720147ed8f2a7e43d67755aaf99449",
-            "source": "spacenews",
-            "text": "Why GPS III, and what comes after it, still falls short in modern war",
-            "source_link": "https://spacenews.com/why-gps-iii-and-what-comes-after-it-still-falls-short-in-modern-war/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-18T15:09:12.035658Z",
-            "shown_at": [
-                "2026-02-18T15:09:13.149151Z"
-            ]
-        },
-        {
-            "id": "2040432ca3d42c967552629b5eb49ac3",
-            "source": "breaking_defense",
-            "text": "DIU wants commercially developed imagery satellites for on-orbit spying",
-            "source_link": "https://breakingdefense.com/2026/02/diu-wants-commercially-developed-imagery-satellites-for-on-orbit-spying/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-18T20:59:14.676369Z",
-            "shown_at": [
-                "2026-02-18T20:59:15.775594Z"
-            ]
-        },
-        {
-            "id": "331b72337aaf09abb2203f5600653efb",
-            "source": "spacenews",
-            "text": "Pentagon seeks commercially built GEO spy satellites ",
-            "source_link": "https://spacenews.com/pentagon-seeks-commercially-built-geo-spy-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-18T22:10:08.065767Z",
-            "shown_at": [
-                "2026-02-18T22:10:09.210263Z"
             ]
         }
     ]
