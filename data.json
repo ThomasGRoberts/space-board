@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-19T00:04:36.874177+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e1bd02f7c66656cea5c4a25589eef308",
+    "trigger_count": 0,
+    "current_item_id": "6fc8d5616dda62f54a760b839128ae04",
     "data": [
         {
             "id": "331b72337aaf09abb2203f5600653efb",
@@ -9071,6 +9071,18 @@
             "shown_at": [
                 "2026-02-19T14:44:16.303204Z",
                 "2026-02-19T19:24:33.138312Z"
+            ]
+        },
+        {
+            "id": "6fc8d5616dda62f54a760b839128ae04",
+            "source": "spacenews",
+            "text": "Starliner investigation identifies flawed NASA decision making",
+            "source_link": "https://spacenews.com/starliner-investigation-identifies-flawed-nasa-decision-making/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-19T22:18:48.005225Z",
+            "shown_at": [
+                "2026-02-19T22:18:49.089524Z"
             ]
         }
     ]

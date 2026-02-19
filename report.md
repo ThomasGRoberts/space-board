@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 11 | 20 | 37 |
+| spacenews | 5 | 12 | 21 | 38 |
 | breaking_defense | 0 | 1 | 18 | 30 |
 | nyt | 0 | 0 | 2 | 14 |
 
@@ -3533,3 +3533,4 @@
 - **Feb 19, 08:34 PM** - Axiom Space raises additional $350 million (spacenews)
 - **Feb 19, 09:09 PM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
 - **Feb 19, 09:44 PM** - Crew-12 launches to ISS (spacenews)
+- **Feb 19, 10:18 PM** - Starliner investigation identifies flawed NASA decision making (spacenews)
