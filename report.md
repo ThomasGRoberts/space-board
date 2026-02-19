@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 17 | 33 |
-| breaking_defense | 1 | 2 | 13 | 26 |
+| breaking_defense | 1 | 2 | 14 | 27 |
 | nyt | 0 | 0 | 10 | 22 |
 
 # Shown Order
@@ -3507,3 +3507,4 @@
 - **Feb 19, 05:19 AM** - The space nuclear power bottleneck — and how to fix it (spacenews)
 - **Feb 19, 05:54 AM** - Project Hecate: The Space Force’s quiet effort to keep GPS survivable after 2040 (breaking_defense)
 - **Feb 19, 06:29 AM** - The space nuclear power bottleneck — and how to fix it (spacenews)
+- **Feb 19, 07:04 AM** - Project Hecate: The Space Force’s quiet effort to keep GPS survivable after 2040 (breaking_defense)
