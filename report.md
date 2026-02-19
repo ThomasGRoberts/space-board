@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 15 | 31 |
+| spacenews | 6 | 13 | 16 | 32 |
 | breaking_defense | 1 | 2 | 12 | 25 |
 | nyt | 0 | 0 | 13 | 25 |
 
@@ -3498,3 +3498,4 @@
 - **Feb 18, 11:59 PM** - First Ariane 64 launches Amazon Leo satellites (spacenews)
 - **Feb 19, 12:34 AM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
 - **Feb 19, 01:09 AM** - This Comet Stopped Spinning. Then It Started Rotating Backward. (nyt)
+- **Feb 19, 01:44 AM** - Vantor partners with Google AI to automate intelligence reports for government agencies (spacenews)
