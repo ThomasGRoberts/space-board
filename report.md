@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 14 | 18 | 34 |
-| breaking_defense | 1 | 2 | 15 | 28 |
+| breaking_defense | 1 | 2 | 16 | 29 |
 | nyt | 0 | 0 | 7 | 19 |
 
 # Shown Order
@@ -3517,3 +3517,4 @@
 - **Feb 19, 11:14 AM** - Agile Space Industries Oversubscribed $17M Series A Accelerates Growth of In-Space Propulsion Capabilities (spacenews)
 - **Feb 19, 11:49 AM** - Project Hecate: The Space Force’s quiet effort to keep GPS survivable after 2040 (breaking_defense)
 - **Feb 19, 12:24 PM** - First Ariane 64 launches Amazon Leo satellites (spacenews)
+- **Feb 19, 12:59 PM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
