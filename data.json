@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-19T00:04:36.874177+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0941a019af3f93e7f1709c3fed644598",
+    "trigger_count": 0,
+    "current_item_id": "94669b53bf1f1c12df39721b07833e8e",
     "data": [
         {
             "id": "331b72337aaf09abb2203f5600653efb",
@@ -9047,6 +9047,18 @@
             "fetched_datetime": "2026-02-19T14:09:16.016271Z",
             "shown_at": [
                 "2026-02-19T14:09:17.243550Z"
+            ]
+        },
+        {
+            "id": "94669b53bf1f1c12df39721b07833e8e",
+            "source": "spacenews",
+            "text": "EarthDaily in Orbit: From First Launch to Commercial Operations",
+            "source_link": "https://spacenews.com/earthdaily-in-orbit-from-first-launch-to-commercial-operations/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-19T14:44:15.114373Z",
+            "shown_at": [
+                "2026-02-19T14:44:16.303204Z"
             ]
         }
     ]

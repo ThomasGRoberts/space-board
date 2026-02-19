@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 14 | 18 | 35 |
+| spacenews | 6 | 15 | 19 | 36 |
 | breaking_defense | 1 | 2 | 16 | 28 |
 | nyt | 0 | 0 | 6 | 18 |
 
@@ -3520,3 +3520,4 @@
 - **Feb 19, 12:59 PM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
 - **Feb 19, 01:34 PM** - Vantor partners with Google AI to automate intelligence reports for government agencies (spacenews)
 - **Feb 19, 02:09 PM** - Golden Dome will fail without software-defined warfare (spacenews)
+- **Feb 19, 02:44 PM** - EarthDaily in Orbit: From First Launch to Commercial Operations (spacenews)
