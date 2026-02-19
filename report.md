@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 21 | 37 |
+| spacenews | 5 | 12 | 22 | 38 |
 | breaking_defense | 0 | 1 | 18 | 30 |
 | nyt | 0 | 0 | 1 | 14 |
 
@@ -3535,3 +3535,4 @@
 - **Feb 19, 09:44 PM** - Crew-12 launches to ISS (spacenews)
 - **Feb 19, 10:18 PM** - Starliner investigation identifies flawed NASA decision making (spacenews)
 - **Feb 19, 10:54 PM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
+- **Feb 19, 11:29 PM** - EarthDaily in Orbit: From First Launch to Commercial Operations (spacenews)
