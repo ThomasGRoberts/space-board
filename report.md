@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 16 | 32 |
 | breaking_defense | 1 | 2 | 12 | 25 |
-| nyt | 0 | 0 | 12 | 24 |
+| nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
 
@@ -3497,3 +3497,4 @@
 - **Feb 18, 11:24 PM** - This Comet Stopped Spinning. Then It Started Rotating Backward. (nyt)
 - **Feb 18, 11:59 PM** - First Ariane 64 launches Amazon Leo satellites (spacenews)
 - **Feb 19, 12:34 AM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
+- **Feb 19, 01:09 AM** - This Comet Stopped Spinning. Then It Started Rotating Backward. (nyt)
