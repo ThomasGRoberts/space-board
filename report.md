@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 9 | 19 | 38 |
-| breaking_defense | 0 | 1 | 15 | 31 |
+| breaking_defense | 0 | 1 | 16 | 32 |
 | nyt | 1 | 1 | 6 | 12 |
 
 # Shown Order
@@ -3503,3 +3503,4 @@
 - **Feb 20, 12:34 PM** - NASA completes second Artemis 2 fueling test (spacenews)
 - **Feb 20, 01:09 PM** - Boeing to boost production of missile-tracking sensors for military satellites (spacenews)
 - **Feb 20, 01:44 PM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
+- **Feb 20, 02:20 PM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
