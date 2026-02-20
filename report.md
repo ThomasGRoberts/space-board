@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 10 | 20 | 38 |
+| spacenews | 5 | 11 | 21 | 39 |
 | breaking_defense | 0 | 1 | 15 | 31 |
 | nyt | 1 | 1 | 5 | 12 |
 
@@ -3501,3 +3501,4 @@
 - **Feb 20, 11:24 AM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
 - **Feb 20, 11:59 AM** - Golden Dome will fail without software-defined warfare (spacenews)
 - **Feb 20, 12:34 PM** - NASA completes second Artemis 2 fueling test (spacenews)
+- **Feb 20, 01:09 PM** - Boeing to boost production of missile-tracking sensors for military satellites (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-20T00:04:28.095874+00:00",
-    "trigger_count": 6,
-    "current_item_id": "17443a22e133920e81eb0d0bf2b00ea4",
+    "trigger_count": 0,
+    "current_item_id": "a2a7a5a707de1b645c9a8c7b7e3f4b6f",
     "data": [
         {
             "id": "6fc8d5616dda62f54a760b839128ae04",
@@ -9017,6 +9017,18 @@
             "fetched_datetime": "2026-02-20T12:34:35.279136Z",
             "shown_at": [
                 "2026-02-20T12:34:36.508366Z"
+            ]
+        },
+        {
+            "id": "a2a7a5a707de1b645c9a8c7b7e3f4b6f",
+            "source": "spacenews",
+            "text": "Boeing to boost production of missile-tracking sensors for military satellites",
+            "source_link": "https://spacenews.com/boeing-to-boost-production-of-missile-tracking-sensors-for-military-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-20T13:09:08.720355Z",
+            "shown_at": [
+                "2026-02-20T13:09:10.250329Z"
             ]
         }
     ]
