@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 11 | 20 | 38 |
-| breaking_defense | 0 | 1 | 16 | 31 |
+| breaking_defense | 0 | 1 | 17 | 32 |
 | nyt | 1 | 1 | 4 | 12 |
 
 # Shown Order
@@ -3495,3 +3495,4 @@
 - **Feb 20, 07:44 AM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
 - **Feb 20, 08:19 AM** - The space nuclear power bottleneck — and how to fix it (spacenews)
 - **Feb 20, 08:54 AM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
+- **Feb 20, 09:34 AM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
