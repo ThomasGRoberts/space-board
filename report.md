@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 8 | 18 | 37 |
-| breaking_defense | 0 | 1 | 15 | 31 |
+| breaking_defense | 0 | 1 | 16 | 32 |
 | nyt | 1 | 1 | 7 | 13 |
 
 # Shown Order
@@ -3506,3 +3506,4 @@
 - **Feb 20, 02:20 PM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
 - **Feb 20, 02:54 PM** - Artemis haters, can we have a moment, please? (spacenews)
 - **Feb 20, 03:29 PM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
+- **Feb 20, 04:04 PM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
