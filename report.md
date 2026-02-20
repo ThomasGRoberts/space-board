@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 9 | 18 | 38 |
 | breaking_defense | 0 | 1 | 14 | 31 |
-| nyt | 1 | 1 | 8 | 12 |
+| nyt | 1 | 1 | 9 | 13 |
 
 # Shown Order
 
@@ -3512,3 +3512,4 @@
 - **Feb 20, 05:49 PM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
 - **Feb 20, 06:24 PM** - Pentagon seeks commercially built GEO spy satellites  (spacenews)
 - **Feb 20, 06:59 PM** - NASA targeting March 6 for Artemis 2 launch (spacenews)
+- **Feb 20, 07:34 PM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
