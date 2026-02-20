@@ -1,9 +1,71 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-02-19T00:04:36.874177+00:00",
-    "trigger_count": 6,
-    "current_item_id": "94669b53bf1f1c12df39721b07833e8e",
+    "last_run_datetime": "2026-02-20T00:04:28.095874+00:00",
+    "trigger_count": 0,
+    "current_item_id": "18e0521f85d9adf0a3e85ead4f0ce953",
     "data": [
+        {
+            "id": "6fc8d5616dda62f54a760b839128ae04",
+            "source": "spacenews",
+            "text": "Starliner investigation identifies flawed NASA decision making",
+            "source_link": "https://spacenews.com/starliner-investigation-identifies-flawed-nasa-decision-making/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-19T22:18:48.005225Z",
+            "shown_at": [
+                "2026-02-19T22:18:49.089524Z"
+            ]
+        },
+        {
+            "id": "94669b53bf1f1c12df39721b07833e8e",
+            "source": "spacenews",
+            "text": "EarthDaily in Orbit: From First Launch to Commercial Operations",
+            "source_link": "https://spacenews.com/earthdaily-in-orbit-from-first-launch-to-commercial-operations/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-19T14:44:15.114373Z",
+            "shown_at": [
+                "2026-02-19T14:44:16.303204Z",
+                "2026-02-19T19:24:33.138312Z",
+                "2026-02-19T23:29:15.950186Z"
+            ]
+        },
+        {
+            "id": "0941a019af3f93e7f1709c3fed644598",
+            "source": "spacenews",
+            "text": "Golden Dome will fail without software-defined warfare",
+            "source_link": "https://spacenews.com/golden-dome-will-fail-without-software-defined-warfare/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-19T14:09:16.016271Z",
+            "shown_at": [
+                "2026-02-19T14:09:17.243550Z"
+            ]
+        },
+        {
+            "id": "69e5d457d38ac4bbcecb967d75df86b0",
+            "source": "spacenews",
+            "text": "Agile Space Industries Oversubscribed $17M Series A Accelerates Growth of In-Space Propulsion Capabilities",
+            "source_link": "https://spacenews.com/agile-space-industries-oversubscribed-17m-series-a-accelerates-growth-of-in-space-propulsion-capabilities/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-19T11:14:18.994885Z",
+            "shown_at": [
+                "2026-02-19T11:14:20.141716Z"
+            ]
+        },
+        {
+            "id": "9a8cb7fbae33d46cee5b4e5cb0bf6b72",
+            "source": "spacenews",
+            "text": "Japan’s ispace warns of delays in new lunar lander engine",
+            "source_link": "https://spacenews.com/japans-ispace-warns-of-delays-in-new-lunar-lander-engine/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-19T10:04:24.512052Z",
+            "shown_at": [
+                "2026-02-19T10:04:25.458007Z"
+            ]
+        },
         {
             "id": "331b72337aaf09abb2203f5600653efb",
             "source": "spacenews",
@@ -153,7 +215,8 @@
                 "2026-02-19T16:29:23.985272Z",
                 "2026-02-19T19:59:36.412260Z",
                 "2026-02-19T21:09:17.056526Z",
-                "2026-02-19T22:54:21.552303Z"
+                "2026-02-19T22:54:21.552303Z",
+                "2026-02-20T00:04:34.466954Z"
             ]
         },
         {
@@ -8911,180 +8974,6 @@
                 "2025-10-10T09:07:50.990737Z",
                 "2025-10-11T03:37:53.902051Z",
                 "2025-10-14T01:57:34.348820Z"
-            ]
-        },
-        {
-            "id": "ec6e3ffbc65a8677e5e9dde5432c0456",
-            "source": "breaking_defense",
-            "text": "Defense to ‘anchor’ exploding satellite market over next decade: NovaSpace",
-            "source_link": "https://breakingdefense.com/2025/10/defense-to-anchor-exploding-satellite-market-over-next-decade-novaspace/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-07T19:09:45.771831Z",
-            "shown_at": [
-                "2025-10-07T19:09:46.418575Z",
-                "2025-10-08T11:19:59.112461Z",
-                "2025-10-08T15:15:47.715123Z",
-                "2025-10-08T17:14:03.313229Z",
-                "2025-10-09T05:31:55.538598Z",
-                "2025-10-09T14:30:26.773426Z",
-                "2025-10-09T18:21:52.524148Z",
-                "2025-10-09T23:34:01.527543Z",
-                "2025-10-10T02:27:30.264418Z",
-                "2025-10-10T09:23:52.253604Z",
-                "2025-10-10T11:21:53.086914Z",
-                "2025-10-10T14:21:45.996351Z",
-                "2025-10-10T15:17:17.256727Z",
-                "2025-10-10T22:21:45.648489Z",
-                "2025-10-11T01:23:48.670005Z",
-                "2025-10-11T04:21:54.654040Z",
-                "2025-10-11T05:19:54.878714Z",
-                "2025-10-11T08:14:01.471804Z",
-                "2025-10-11T11:11:58.444200Z",
-                "2025-10-11T12:13:39.610377Z",
-                "2025-10-11T15:27:24.875917Z",
-                "2025-10-11T23:18:08.492048Z",
-                "2025-10-12T05:13:45.646967Z",
-                "2025-10-12T09:07:33.951295Z",
-                "2025-10-12T17:15:21.537910Z",
-                "2025-10-12T21:02:01.151303Z",
-                "2025-10-13T04:09:49.129069Z",
-                "2025-10-13T08:13:45.890743Z",
-                "2025-10-13T17:53:13.289239Z",
-                "2025-10-14T01:13:50.193559Z",
-                "2025-10-14T07:09:44.260934Z",
-                "2025-10-14T09:19:39.814499Z",
-                "2025-10-14T15:25:43.377726Z",
-                "2025-10-14T17:53:53.208223Z"
-            ]
-        },
-        {
-            "id": "647452147993f92b7b9c419fca27513f",
-            "source": "spacenews",
-            "text": "Novaspace Projects $665B in Satellite Build and Launch Activity",
-            "source_link": "https://spacenews.com/novaspace-projects-665b-in-satellite-build-and-launch-activity/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-07T14:55:40.678503Z",
-            "shown_at": [
-                "2025-10-07T14:55:41.419915Z",
-                "2025-10-09T15:28:42.630218Z",
-                "2025-10-10T22:49:52.028559Z",
-                "2025-10-11T01:51:52.511356Z",
-                "2025-10-12T09:27:48.185206Z",
-                "2025-10-12T12:31:51.618613Z"
-            ]
-        },
-        {
-            "id": "cafc167fc34dcc546765079887023f4e",
-            "source": "spacenews",
-            "text": "Britain’s space security needs more than government funding",
-            "source_link": "https://spacenews.com/britains-space-security-needs-more-than-government-funding/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-07T13:03:56.660122Z",
-            "shown_at": [
-                "2025-10-07T13:03:57.410040Z",
-                "2025-10-09T04:02:17.114390Z",
-                "2025-10-09T09:55:43.192352Z",
-                "2025-10-12T06:23:54.198264Z",
-                "2025-10-12T18:25:30.804185Z"
-            ]
-        },
-        {
-            "id": "18f6d7393beac0bf51331ef43d1fa15f",
-            "source": "spacenews",
-            "text": "FCC launches ‘Space Month’ to fast-track satellite licensing and spectrum reforms",
-            "source_link": "https://spacenews.com/fcc-launches-space-month-to-fast-track-satellite-licensing-and-spectrum-reforms/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-06T21:59:33.884160Z",
-            "shown_at": [
-                "2025-10-06T21:59:34.436431Z",
-                "2025-10-07T16:51:40.865103Z",
-                "2025-10-10T14:49:54.042768Z",
-                "2025-10-11T12:29:34.124654Z",
-                "2025-10-11T15:41:53.492019Z",
-                "2025-10-12T17:29:40.162574Z",
-                "2025-10-13T01:21:56.945033Z"
-            ]
-        },
-        {
-            "id": "805b6de629a2885f5a6b1d5b654d8550",
-            "source": "spacenews",
-            "text": "Laying the foundation for America’s space future",
-            "source_link": "https://spacenews.com/laying-the-foundation-for-americas-space-future/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-06T21:15:28.845818Z",
-            "shown_at": [
-                "2025-10-06T21:15:29.532884Z",
-                "2025-10-11T23:33:28.833893Z",
-                "2025-10-12T08:20:03.341017Z",
-                "2025-10-13T08:28:18.738642Z",
-                "2025-10-13T15:32:08.945664Z"
-            ]
-        },
-        {
-            "id": "9a8cb7fbae33d46cee5b4e5cb0bf6b72",
-            "source": "spacenews",
-            "text": "Japan’s ispace warns of delays in new lunar lander engine",
-            "source_link": "https://spacenews.com/japans-ispace-warns-of-delays-in-new-lunar-lander-engine/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-19T10:04:24.512052Z",
-            "shown_at": [
-                "2026-02-19T10:04:25.458007Z"
-            ]
-        },
-        {
-            "id": "69e5d457d38ac4bbcecb967d75df86b0",
-            "source": "spacenews",
-            "text": "Agile Space Industries Oversubscribed $17M Series A Accelerates Growth of In-Space Propulsion Capabilities",
-            "source_link": "https://spacenews.com/agile-space-industries-oversubscribed-17m-series-a-accelerates-growth-of-in-space-propulsion-capabilities/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-19T11:14:18.994885Z",
-            "shown_at": [
-                "2026-02-19T11:14:20.141716Z"
-            ]
-        },
-        {
-            "id": "0941a019af3f93e7f1709c3fed644598",
-            "source": "spacenews",
-            "text": "Golden Dome will fail without software-defined warfare",
-            "source_link": "https://spacenews.com/golden-dome-will-fail-without-software-defined-warfare/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-19T14:09:16.016271Z",
-            "shown_at": [
-                "2026-02-19T14:09:17.243550Z"
-            ]
-        },
-        {
-            "id": "94669b53bf1f1c12df39721b07833e8e",
-            "source": "spacenews",
-            "text": "EarthDaily in Orbit: From First Launch to Commercial Operations",
-            "source_link": "https://spacenews.com/earthdaily-in-orbit-from-first-launch-to-commercial-operations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-19T14:44:15.114373Z",
-            "shown_at": [
-                "2026-02-19T14:44:16.303204Z",
-                "2026-02-19T19:24:33.138312Z",
-                "2026-02-19T23:29:15.950186Z"
-            ]
-        },
-        {
-            "id": "6fc8d5616dda62f54a760b839128ae04",
-            "source": "spacenews",
-            "text": "Starliner investigation identifies flawed NASA decision making",
-            "source_link": "https://spacenews.com/starliner-investigation-identifies-flawed-nasa-decision-making/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-19T22:18:48.005225Z",
-            "shown_at": [
-                "2026-02-19T22:18:49.089524Z"
             ]
         }
     ]
