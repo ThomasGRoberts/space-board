@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 11 | 21 | 38 |
+| spacenews | 5 | 11 | 21 | 39 |
 | breaking_defense | 0 | 1 | 18 | 31 |
 | nyt | 1 | 1 | 2 | 12 |
 
@@ -3490,3 +3490,4 @@
 - **Feb 20, 04:44 AM** - Japan’s ispace warns of delays in new lunar lander engine (spacenews)
 - **Feb 20, 05:19 AM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
 - **Feb 20, 05:54 AM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
+- **Feb 20, 06:34 AM** - Senate committee advances FCC satellite licensing bill after changes (spacenews)
