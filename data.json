@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-20T00:04:28.095874+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6fc8d5616dda62f54a760b839128ae04",
+    "trigger_count": 0,
+    "current_item_id": "18cbd7788400c9493a4b7b04cc252a5e",
     "data": [
         {
             "id": "6fc8d5616dda62f54a760b839128ae04",
@@ -8979,6 +8979,18 @@
                 "2025-10-10T09:07:50.990737Z",
                 "2025-10-11T03:37:53.902051Z",
                 "2025-10-14T01:57:34.348820Z"
+            ]
+        },
+        {
+            "id": "18cbd7788400c9493a4b7b04cc252a5e",
+            "source": "nyt",
+            "text": "Trump Says He Will Release Files on Aliens and U.F.O.s",
+            "source_link": "https://www.nytimes.com/2026/02/19/us/politics/trump-ufos-aliens-files.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-20T03:34:28.093760Z",
+            "shown_at": [
+                "2026-02-20T03:34:28.965615Z"
             ]
         }
     ]
