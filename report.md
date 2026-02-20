@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 9 | 17 | 38 |
 | breaking_defense | 0 | 0 | 13 | 31 |
-| nyt | 1 | 1 | 10 | 12 |
+| nyt | 1 | 1 | 11 | 13 |
 
 # Shown Order
 
@@ -3518,3 +3518,4 @@
 - **Feb 20, 09:19 PM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
 - **Feb 20, 09:54 PM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
 - **Feb 20, 10:29 PM** - Aalto plots Australia base to boost planned high-altitude pseudo satellite service (spacenews)
+- **Feb 20, 11:04 PM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
