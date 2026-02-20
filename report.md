@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 11 | 22 | 38 |
+| spacenews | 5 | 11 | 23 | 39 |
 | breaking_defense | 0 | 1 | 19 | 31 |
 | nyt | 0 | 0 | 0 | 12 |
 
@@ -3484,3 +3484,4 @@
 - **Feb 20, 01:14 AM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
 - **Feb 20, 01:49 AM** - Startup bets on new approach to space-based missile defense (spacenews)
 - **Feb 20, 02:23 AM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
+- **Feb 20, 02:59 AM** - Starliner investigation identifies flawed NASA decision making (spacenews)
