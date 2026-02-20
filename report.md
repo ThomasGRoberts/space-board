@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 11 | 20 | 38 |
-| breaking_defense | 0 | 1 | 17 | 31 |
+| breaking_defense | 0 | 1 | 18 | 32 |
 | nyt | 1 | 1 | 3 | 12 |
 
 # Shown Order
@@ -3492,3 +3492,4 @@
 - **Feb 20, 05:54 AM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
 - **Feb 20, 06:34 AM** - Senate committee advances FCC satellite licensing bill after changes (spacenews)
 - **Feb 20, 07:09 AM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
+- **Feb 20, 07:44 AM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
