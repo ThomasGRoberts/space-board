@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 9 | 18 | 38 |
-| breaking_defense | 0 | 1 | 13 | 31 |
+| breaking_defense | 0 | 1 | 14 | 32 |
 | nyt | 1 | 1 | 9 | 12 |
 
 # Shown Order
@@ -3513,3 +3513,4 @@
 - **Feb 20, 06:24 PM** - Pentagon seeks commercially built GEO spy satellites  (spacenews)
 - **Feb 20, 06:59 PM** - NASA targeting March 6 for Artemis 2 launch (spacenews)
 - **Feb 20, 07:34 PM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
+- **Feb 20, 08:09 PM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
