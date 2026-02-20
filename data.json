@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-20T00:04:28.095874+00:00",
-    "trigger_count": 6,
-    "current_item_id": "331b72337aaf09abb2203f5600653efb",
+    "trigger_count": 0,
+    "current_item_id": "66aa1079fa47b9d3cdd3a81cebe774a3",
     "data": [
         {
             "id": "6fc8d5616dda62f54a760b839128ae04",
@@ -9038,6 +9038,18 @@
             "fetched_datetime": "2026-02-20T13:09:08.720355Z",
             "shown_at": [
                 "2026-02-20T13:09:10.250329Z"
+            ]
+        },
+        {
+            "id": "66aa1079fa47b9d3cdd3a81cebe774a3",
+            "source": "spacenews",
+            "text": "NASA targeting March 6 for Artemis 2 launch",
+            "source_link": "https://spacenews.com/nasa-targeting-march-6-for-artemis-2-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-20T18:59:06.720327Z",
+            "shown_at": [
+                "2026-02-20T18:59:07.845427Z"
             ]
         }
     ]

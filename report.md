@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 8 | 18 | 37 |
+| spacenews | 4 | 9 | 19 | 38 |
 | breaking_defense | 0 | 1 | 14 | 32 |
 | nyt | 1 | 1 | 8 | 12 |
 
@@ -3511,3 +3511,4 @@
 - **Feb 20, 05:14 PM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
 - **Feb 20, 05:49 PM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
 - **Feb 20, 06:24 PM** - Pentagon seeks commercially built GEO spy satellites  (spacenews)
+- **Feb 20, 06:59 PM** - NASA targeting March 6 for Artemis 2 launch (spacenews)
