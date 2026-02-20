@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 11 | 19 | 38 |
+| spacenews | 4 | 11 | 20 | 39 |
 | breaking_defense | 0 | 1 | 17 | 31 |
 | nyt | 1 | 1 | 4 | 12 |
 
@@ -3496,3 +3496,4 @@
 - **Feb 20, 08:19 AM** - The space nuclear power bottleneck — and how to fix it (spacenews)
 - **Feb 20, 08:54 AM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
 - **Feb 20, 09:34 AM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
+- **Feb 20, 10:14 AM** - Japan’s ispace warns of delays in new lunar lander engine (spacenews)
