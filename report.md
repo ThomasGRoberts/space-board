@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 9 | 19 | 38 |
+| spacenews | 4 | 10 | 20 | 39 |
 | breaking_defense | 0 | 1 | 16 | 31 |
 | nyt | 1 | 1 | 5 | 12 |
 
@@ -3500,3 +3500,4 @@
 - **Feb 20, 10:49 AM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
 - **Feb 20, 11:24 AM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
 - **Feb 20, 11:59 AM** - Golden Dome will fail without software-defined warfare (spacenews)
+- **Feb 20, 12:34 PM** - NASA completes second Artemis 2 fueling test (spacenews)

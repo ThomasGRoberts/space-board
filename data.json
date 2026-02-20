@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-20T00:04:28.095874+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0941a019af3f93e7f1709c3fed644598",
+    "trigger_count": 0,
+    "current_item_id": "17443a22e133920e81eb0d0bf2b00ea4",
     "data": [
         {
             "id": "6fc8d5616dda62f54a760b839128ae04",
@@ -9005,6 +9005,18 @@
                 "2026-02-20T07:09:08.629515Z",
                 "2026-02-20T08:54:16.767666Z",
                 "2026-02-20T10:49:13.908985Z"
+            ]
+        },
+        {
+            "id": "17443a22e133920e81eb0d0bf2b00ea4",
+            "source": "spacenews",
+            "text": "NASA completes second Artemis 2 fueling test",
+            "source_link": "https://spacenews.com/nasa-completes-second-artemis-2-fueling-test/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-20T12:34:35.279136Z",
+            "shown_at": [
+                "2026-02-20T12:34:36.508366Z"
             ]
         }
     ]
