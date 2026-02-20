@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 9 | 17 | 38 |
-| breaking_defense | 0 | 0 | 13 | 31 |
+| breaking_defense | 0 | 0 | 14 | 32 |
 | nyt | 1 | 1 | 10 | 12 |
 
 # Shown Order
@@ -3516,3 +3516,4 @@
 - **Feb 20, 08:09 PM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
 - **Feb 20, 08:44 PM** - Boeing to boost production of missile-tracking sensors for military satellites (spacenews)
 - **Feb 20, 09:19 PM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
+- **Feb 20, 09:54 PM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
