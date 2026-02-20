@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 8 | 18 | 37 |
-| breaking_defense | 0 | 1 | 14 | 31 |
+| breaking_defense | 0 | 1 | 15 | 32 |
 | nyt | 1 | 1 | 8 | 13 |
 
 # Shown Order
@@ -3509,3 +3509,4 @@
 - **Feb 20, 04:04 PM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
 - **Feb 20, 04:39 PM** - Sateliot to launch satellites with PLD Space (spacenews)
 - **Feb 20, 05:14 PM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
+- **Feb 20, 05:49 PM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
