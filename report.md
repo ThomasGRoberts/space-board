@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 11 | 20 | 39 |
 | breaking_defense | 0 | 1 | 15 | 31 |
-| nyt | 1 | 1 | 5 | 11 |
+| nyt | 1 | 1 | 6 | 12 |
 
 # Shown Order
 
@@ -3502,3 +3502,4 @@
 - **Feb 20, 11:59 AM** - Golden Dome will fail without software-defined warfare (spacenews)
 - **Feb 20, 12:34 PM** - NASA completes second Artemis 2 fueling test (spacenews)
 - **Feb 20, 01:09 PM** - Boeing to boost production of missile-tracking sensors for military satellites (spacenews)
+- **Feb 20, 01:44 PM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
