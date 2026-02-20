@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 11 | 21 | 37 |
+| spacenews | 5 | 11 | 22 | 38 |
 | breaking_defense | 0 | 1 | 19 | 31 |
 | nyt | 0 | 0 | 0 | 13 |
 
@@ -3482,3 +3482,4 @@
 - **Feb 20, 12:04 AM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
 - **Feb 20, 12:39 AM** - China’s Space Epoch raises new funding, targets 2026 launch and recovery attempt (spacenews)
 - **Feb 20, 01:14 AM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
+- **Feb 20, 01:49 AM** - Startup bets on new approach to space-based missile defense (spacenews)
