@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 9 | 16 | 36 |
+| spacenews | 5 | 8 | 17 | 36 |
 | nyt | 0 | 1 | 12 | 17 |
 | breaking_defense | 0 | 0 | 13 | 29 |
 
@@ -3435,3 +3435,4 @@
 - **Feb 21, 09:34 AM** - SpaceX unveils space traffic management system (spacenews)
 - **Feb 21, 10:09 AM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
 - **Feb 21, 10:44 AM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
+- **Feb 21, 11:19 AM** - NASA targeting March 6 for Artemis 2 launch (spacenews)
