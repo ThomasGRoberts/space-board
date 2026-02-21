@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-21T00:04:57.507742+00:00",
-    "trigger_count": 6,
-    "current_item_id": "66aa1079fa47b9d3cdd3a81cebe774a3",
+    "trigger_count": 0,
+    "current_item_id": "c765bec5c096ad4d0d3f04c7fdcf80fd",
     "data": [
         {
             "id": "4a8f4b161432d03e061d641604604c00",
@@ -8914,6 +8914,18 @@
             "shown_at": [
                 "2025-10-08T13:12:02.809672Z",
                 "2025-10-13T03:26:02.674748Z"
+            ]
+        },
+        {
+            "id": "c765bec5c096ad4d0d3f04c7fdcf80fd",
+            "source": "spacenews",
+            "text": "Bruno says he joined Blue Origin to work on ‘urgent’ national security projects",
+            "source_link": "https://spacenews.com/bruno-says-he-joined-blue-origin-to-work-on-urgent-national-security-projects/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-21T02:35:01.354147Z",
+            "shown_at": [
+                "2026-02-21T02:35:02.188926Z"
             ]
         }
     ]
