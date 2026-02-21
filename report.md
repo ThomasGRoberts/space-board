@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 7 | 14 | 33 |
+| spacenews | 3 | 7 | 14 | 32 |
 | nyt | 0 | 1 | 14 | 22 |
-| breaking_defense | 0 | 0 | 13 | 27 |
+| breaking_defense | 0 | 0 | 14 | 28 |
 
 # Shown Order
 
@@ -3449,3 +3449,4 @@
 - **Feb 21, 05:44 PM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
 - **Feb 21, 06:19 PM** - Leonardo funding development of Earth observation constellation (spacenews)
 - **Feb 21, 06:54 PM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
+- **Feb 21, 07:28 PM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
