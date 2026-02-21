@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 10 | 16 | 37 |
 | nyt | 0 | 1 | 12 | 14 |
-| breaking_defense | 0 | 0 | 12 | 30 |
+| breaking_defense | 0 | 0 | 13 | 31 |
 
 # Shown Order
 
@@ -3425,3 +3425,4 @@
 - **Feb 21, 03:44 AM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
 - **Feb 21, 04:19 AM** - Isaacman planning to meet with head of Roscosmos (spacenews)
 - **Feb 21, 04:54 AM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
+- **Feb 21, 05:29 AM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
