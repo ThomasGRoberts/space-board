@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 7 | 15 | 35 |
+| spacenews | 3 | 7 | 15 | 34 |
 | nyt | 0 | 1 | 13 | 19 |
-| breaking_defense | 0 | 0 | 13 | 28 |
+| breaking_defense | 0 | 0 | 14 | 29 |
 
 # Shown Order
 
@@ -3440,3 +3440,4 @@
 - **Feb 21, 12:29 PM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
 - **Feb 21, 01:04 PM** - Golden Dome will fail without software-defined warfare (spacenews)
 - **Feb 21, 01:39 PM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
+- **Feb 21, 02:14 PM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
