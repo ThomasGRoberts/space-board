@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-21T00:04:57.507742+00:00",
-    "trigger_count": 6,
-    "current_item_id": "18e0521f85d9adf0a3e85ead4f0ce953",
+    "trigger_count": 0,
+    "current_item_id": "32e327e406f8660f08063b2848c7641f",
     "data": [
         {
             "id": "4a8f4b161432d03e061d641604604c00",
@@ -8949,6 +8949,18 @@
             "fetched_datetime": "2026-02-21T02:35:01.354147Z",
             "shown_at": [
                 "2026-02-21T02:35:02.188926Z"
+            ]
+        },
+        {
+            "id": "32e327e406f8660f08063b2848c7641f",
+            "source": "spacenews",
+            "text": "NASA preparing for Artemis 2 rollback to fix upper stage problem",
+            "source_link": "https://spacenews.com/nasa-preparing-for-artemis-2-rollback-to-fix-upper-stage-problem/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-21T16:34:28.663209Z",
+            "shown_at": [
+                "2026-02-21T16:34:29.863107Z"
             ]
         }
     ]

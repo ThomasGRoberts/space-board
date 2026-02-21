@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 6 | 15 | 33 |
+| spacenews | 4 | 7 | 16 | 34 |
 | nyt | 0 | 1 | 13 | 20 |
-| breaking_defense | 0 | 0 | 13 | 29 |
+| breaking_defense | 0 | 0 | 13 | 28 |
 
 # Shown Order
 
@@ -3444,3 +3444,4 @@
 - **Feb 21, 02:49 PM** - Landspace targets Q2 for next Zhuque-3 orbital launch and recovery attempt  (spacenews)
 - **Feb 21, 03:24 PM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
 - **Feb 21, 03:59 PM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
+- **Feb 21, 04:34 PM** - NASA preparing for Artemis 2 rollback to fix upper stage problem (spacenews)
