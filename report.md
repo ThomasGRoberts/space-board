@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 7 | 14 | 31 |
+| spacenews | 3 | 7 | 15 | 32 |
 | nyt | 0 | 1 | 13 | 23 |
 | breaking_defense | 0 | 0 | 14 | 27 |
 
@@ -3453,3 +3453,4 @@
 - **Feb 21, 08:04 PM** - Low-profile Chinese launch firm conducts first stage static fire (spacenews)
 - **Feb 21, 08:39 PM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
 - **Feb 21, 09:14 PM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
+- **Feb 21, 09:54 PM** - Agile Space Industries Oversubscribed $17M Series A Accelerates Growth of In-Space Propulsion Capabilities (spacenews)
