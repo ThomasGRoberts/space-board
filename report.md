@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 9 | 15 | 37 |
+| spacenews | 4 | 9 | 16 | 38 |
 | nyt | 1 | 1 | 12 | 12 |
 | breaking_defense | 0 | 0 | 13 | 32 |
 
@@ -3419,3 +3419,4 @@
 - **Feb 21, 12:14 AM** - Global leaders meet at Space-Comm Expo in London to accelerate future of European space industry (spacenews)
 - **Feb 21, 12:49 AM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
 - **Feb 21, 01:24 AM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
+- **Feb 21, 01:59 AM** - NASA targeting March 6 for Artemis 2 launch (spacenews)
