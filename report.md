@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 9 | 16 | 37 |
+| spacenews | 4 | 9 | 17 | 38 |
 | nyt | 1 | 1 | 11 | 12 |
 | breaking_defense | 0 | 0 | 13 | 32 |
 
@@ -3416,3 +3416,4 @@
 - **Feb 20, 10:29 PM** - Aalto plots Australia base to boost planned high-altitude pseudo satellite service (spacenews)
 - **Feb 20, 11:04 PM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
 - **Feb 20, 11:39 PM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
+- **Feb 21, 12:14 AM** - Global leaders meet at Space-Comm Expo in London to accelerate future of European space industry (spacenews)
