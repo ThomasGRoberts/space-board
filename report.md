@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 10 | 16 | 37 |
+| spacenews | 5 | 10 | 17 | 38 |
 | nyt | 0 | 1 | 12 | 14 |
 | breaking_defense | 0 | 0 | 12 | 30 |
 
@@ -3426,3 +3426,4 @@
 - **Feb 21, 04:19 AM** - Isaacman planning to meet with head of Roscosmos (spacenews)
 - **Feb 21, 04:54 AM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
 - **Feb 21, 05:29 AM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
+- **Feb 21, 06:04 AM** - Pentagon seeks commercially built GEO spy satellites  (spacenews)
