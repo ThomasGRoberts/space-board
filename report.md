@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 10 | 16 | 37 |
 | nyt | 0 | 1 | 12 | 15 |
-| breaking_defense | 0 | 0 | 12 | 29 |
+| breaking_defense | 0 | 0 | 13 | 30 |
 
 # Shown Order
 
@@ -3428,3 +3428,4 @@
 - **Feb 21, 05:29 AM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
 - **Feb 21, 06:04 AM** - Pentagon seeks commercially built GEO spy satellites  (spacenews)
 - **Feb 21, 06:39 AM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
+- **Feb 21, 07:14 AM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
