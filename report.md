@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 10 | 16 | 38 |
 | nyt | 0 | 1 | 12 | 13 |
-| breaking_defense | 0 | 0 | 12 | 30 |
+| breaking_defense | 0 | 0 | 13 | 31 |
 
 # Shown Order
 
@@ -3422,3 +3422,4 @@
 - **Feb 21, 01:59 AM** - NASA targeting March 6 for Artemis 2 launch (spacenews)
 - **Feb 21, 02:35 AM** - Bruno says he joined Blue Origin to work on ‘urgent’ national security projects (spacenews)
 - **Feb 21, 03:09 AM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
+- **Feb 21, 03:44 AM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
