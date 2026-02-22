@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 6 | 15 | 31 |
-| nyt | 0 | 1 | 13 | 24 |
+| spacenews | 2 | 6 | 14 | 31 |
+| nyt | 0 | 1 | 14 | 25 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -3449,3 +3449,4 @@
 - **Feb 21, 10:29 PM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
 - **Feb 21, 11:04 PM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
 - **Feb 21, 11:39 PM** - Simera Sense to offer larger cameras and enhanced autonomy (spacenews)
+- **Feb 22, 12:14 AM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
