@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 5 | 14 | 29 |
+| spacenews | 1 | 5 | 15 | 30 |
 | nyt | 0 | 0 | 13 | 26 |
-| breaking_defense | 0 | 0 | 14 | 27 |
+| breaking_defense | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
@@ -3479,3 +3479,4 @@
 - **Feb 22, 04:04 PM** - NASA preparing for Artemis 2 rollback to fix upper stage problem (spacenews)
 - **Feb 22, 04:39 PM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
 - **Feb 22, 05:14 PM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
+- **Feb 22, 05:49 PM** - Portions of the Pentagon’s LEO constellation on hold as acquisition reviews proceed (spacenews)
