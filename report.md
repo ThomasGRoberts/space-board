@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 6 | 15 | 30 |
-| nyt | 0 | 1 | 13 | 25 |
+| nyt | 0 | 1 | 14 | 26 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -3452,3 +3452,4 @@
 - **Feb 22, 12:14 AM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
 - **Feb 22, 12:49 AM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
 - **Feb 22, 01:24 AM** - NASA preparing for Artemis 2 rollback to fix upper stage problem (spacenews)
+- **Feb 22, 01:59 AM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
