@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 6 | 13 | 29 |
+| spacenews | 1 | 6 | 14 | 30 |
 | nyt | 0 | 0 | 13 | 26 |
 | breaking_defense | 0 | 0 | 14 | 26 |
 
@@ -3463,3 +3463,4 @@
 - **Feb 22, 06:39 AM** - Bruno says he joined Blue Origin to work on ‘urgent’ national security projects (spacenews)
 - **Feb 22, 07:14 AM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
 - **Feb 22, 07:49 AM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
+- **Feb 22, 08:29 AM** - Starliner investigation identifies flawed NASA decision making (spacenews)
