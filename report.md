@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 6 | 13 | 29 |
+| spacenews | 1 | 6 | 14 | 30 |
 | nyt | 0 | 1 | 14 | 26 |
 | breaking_defense | 0 | 0 | 14 | 26 |
 
@@ -3454,3 +3454,4 @@
 - **Feb 22, 01:24 AM** - NASA preparing for Artemis 2 rollback to fix upper stage problem (spacenews)
 - **Feb 22, 01:59 AM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
 - **Feb 22, 02:34 AM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
+- **Feb 22, 03:09 AM** - Bruno says he joined Blue Origin to work on ‘urgent’ national security projects (spacenews)
