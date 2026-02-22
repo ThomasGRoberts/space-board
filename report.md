@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 14 | 30 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 26 |
 | breaking_defense | 0 | 0 | 14 | 26 |
 
 # Shown Order
@@ -3461,3 +3461,4 @@
 - **Feb 22, 05:29 AM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
 - **Feb 22, 06:04 AM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
 - **Feb 22, 06:39 AM** - Bruno says he joined Blue Origin to work on ‘urgent’ national security projects (spacenews)
+- **Feb 22, 07:14 AM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
