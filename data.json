@@ -1,9 +1,33 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-02-21T00:04:57.507742+00:00",
-    "trigger_count": 4,
+    "last_run_datetime": "2026-02-22T00:04:25.963110+00:00",
+    "trigger_count": 5,
     "current_item_id": "eba17a224f6e65abcccaf2fc45e3d118",
     "data": [
+        {
+            "id": "32e327e406f8660f08063b2848c7641f",
+            "source": "spacenews",
+            "text": "NASA preparing for Artemis 2 rollback to fix upper stage problem",
+            "source_link": "https://spacenews.com/nasa-preparing-for-artemis-2-rollback-to-fix-upper-stage-problem/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-21T16:34:28.663209Z",
+            "shown_at": [
+                "2026-02-21T16:34:29.863107Z"
+            ]
+        },
+        {
+            "id": "c765bec5c096ad4d0d3f04c7fdcf80fd",
+            "source": "spacenews",
+            "text": "Bruno says he joined Blue Origin to work on ‘urgent’ national security projects",
+            "source_link": "https://spacenews.com/bruno-says-he-joined-blue-origin-to-work-on-urgent-national-security-projects/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-21T02:35:01.354147Z",
+            "shown_at": [
+                "2026-02-21T02:35:02.188926Z"
+            ]
+        },
         {
             "id": "4a8f4b161432d03e061d641604604c00",
             "source": "spacenews",
@@ -8919,60 +8943,6 @@
                 "2025-10-15T16:25:50.366448Z",
                 "2025-10-15T17:10:59.303586Z",
                 "2025-10-15T18:39:44.288415Z"
-            ]
-        },
-        {
-            "id": "1fc0c86f1f3a3eabb1e56408d0fef002",
-            "source": "spacenews",
-            "text": "Space Force taps Muon’s wildfire monitoring satellites for weather imaging",
-            "source_link": "https://spacenews.com/space-force-taps-muons-wildfire-monitoring-satellites-for-weather-imaging/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-08T18:57:27.661284Z",
-            "shown_at": [
-                "2025-10-08T18:57:28.300608Z",
-                "2025-10-11T07:30:07.886980Z",
-                "2025-10-13T14:13:55.190503Z",
-                "2025-10-14T12:49:53.387879Z",
-                "2025-10-15T00:21:49.667050Z",
-                "2025-10-15T02:37:56.423592Z"
-            ]
-        },
-        {
-            "id": "51ddd1f800b283b979f7d489cb30997e",
-            "source": "spacenews",
-            "text": "Golden Dome: What’s its story? ",
-            "source_link": "https://spacenews.com/golden-dome-whats-its-story/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-08T13:12:02.122656Z",
-            "shown_at": [
-                "2025-10-08T13:12:02.809672Z",
-                "2025-10-13T03:26:02.674748Z"
-            ]
-        },
-        {
-            "id": "c765bec5c096ad4d0d3f04c7fdcf80fd",
-            "source": "spacenews",
-            "text": "Bruno says he joined Blue Origin to work on ‘urgent’ national security projects",
-            "source_link": "https://spacenews.com/bruno-says-he-joined-blue-origin-to-work-on-urgent-national-security-projects/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-21T02:35:01.354147Z",
-            "shown_at": [
-                "2026-02-21T02:35:02.188926Z"
-            ]
-        },
-        {
-            "id": "32e327e406f8660f08063b2848c7641f",
-            "source": "spacenews",
-            "text": "NASA preparing for Artemis 2 rollback to fix upper stage problem",
-            "source_link": "https://spacenews.com/nasa-preparing-for-artemis-2-rollback-to-fix-upper-stage-problem/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-21T16:34:28.663209Z",
-            "shown_at": [
-                "2026-02-21T16:34:29.863107Z"
             ]
         }
     ]
