@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 6 | 14 | 30 |
 | nyt | 0 | 1 | 14 | 26 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -3453,3 +3453,4 @@
 - **Feb 22, 12:49 AM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
 - **Feb 22, 01:24 AM** - NASA preparing for Artemis 2 rollback to fix upper stage problem (spacenews)
 - **Feb 22, 01:59 AM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
+- **Feb 22, 02:34 AM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
