@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 14 | 30 |
-| nyt | 0 | 0 | 13 | 25 |
+| nyt | 0 | 0 | 14 | 26 |
 | breaking_defense | 0 | 0 | 14 | 26 |
 
 # Shown Order
@@ -3458,3 +3458,4 @@
 - **Feb 22, 03:44 AM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
 - **Feb 22, 04:19 AM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
 - **Feb 22, 04:54 AM** - Portions of the Pentagon’s LEO constellation on hold as acquisition reviews proceed (spacenews)
+- **Feb 22, 05:29 AM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
