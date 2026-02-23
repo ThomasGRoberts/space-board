@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 10 | 18 | 32 |
 | nyt | 1 | 1 | 11 | 25 |
-| breaking_defense | 0 | 0 | 11 | 24 |
+| breaking_defense | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -3480,3 +3480,4 @@
 - **Feb 23, 06:34 PM** - AST SpaceMobile wins $30 million contract for military  broadband demo (spacenews)
 - **Feb 23, 07:14 PM** - Problem With Artemis Rocket Will Delay NASA’s Moon Mission (nyt)
 - **Feb 23, 07:49 PM** - Space Force seeks market answers on in-orbit refueling (spacenews)
+- **Feb 23, 08:24 PM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
