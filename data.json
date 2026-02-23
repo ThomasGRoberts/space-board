@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-23T00:04:45.456007+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e17c90574b30462dfd059db24d2ad628",
+    "trigger_count": 0,
+    "current_item_id": "ee77cece29fd01010ac7060d4f6c7ae9",
     "data": [
         {
             "id": "5a65ad041ae65d511e14dcac980aa2dc",
@@ -8999,6 +8999,27 @@
             "shown_at": [
                 "2026-02-23T14:24:19.312793Z"
             ]
+        },
+        {
+            "id": "ee77cece29fd01010ac7060d4f6c7ae9",
+            "source": "spacenews",
+            "text": "Engineering Behind EarthDaily: Solving for Global Daily Coverage, Scientific Quality, and High-Spectral Diversity",
+            "source_link": "https://spacenews.com/engineering-behind-earthdaily-solving-for-global-daily-coverage-scientific-quality-and-high-spectral-diversity/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-23T14:59:02.869083Z",
+            "shown_at": [
+                "2026-02-23T14:59:04.053676Z"
+            ]
+        },
+        {
+            "id": "6f08f1f5de0ef2f51f0f12a6b2b969da",
+            "source": "spacenews",
+            "text": "Re-framing orbital debris: from a statistical to dosage approach",
+            "source_link": "https://spacenews.com/re-framing-orbital-debris-from-a-statistical-to-dosage-approach/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-02-23T14:59:02.869170Z"
         }
     ]
 }
