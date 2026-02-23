@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 14 | 28 |
+| spacenews | 1 | 3 | 15 | 29 |
 | nyt | 0 | 0 | 13 | 27 |
 | breaking_defense | 0 | 0 | 14 | 27 |
 
@@ -3450,3 +3450,4 @@
 - **Feb 23, 12:49 AM** - Simera Sense to offer larger cameras and enhanced autonomy (spacenews)
 - **Feb 23, 01:24 AM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
 - **Feb 23, 01:58 AM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
+- **Feb 23, 02:34 AM** - China’s Space Epoch raises new funding, targets 2026 launch and recovery attempt (spacenews)
