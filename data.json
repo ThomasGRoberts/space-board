@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-23T00:04:45.456007+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2040432ca3d42c967552629b5eb49ac3",
+    "trigger_count": 0,
+    "current_item_id": "f556cb6ff849b71441111b2b64eb392d",
     "data": [
         {
             "id": "5a65ad041ae65d511e14dcac980aa2dc",
@@ -8975,6 +8975,27 @@
             "shown_at": [
                 "2026-02-23T10:14:24.285130Z"
             ]
+        },
+        {
+            "id": "f556cb6ff849b71441111b2b64eb392d",
+            "source": "spacenews",
+            "text": "Momentus prepares to host 10 demonstration payloads on Vigoride 7 flight",
+            "source_link": "https://spacenews.com/momentus-prepares-to-host-10-demonstration-payloads-on-vigoride-7-flight/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-23T13:44:25.118889Z",
+            "shown_at": [
+                "2026-02-23T13:44:26.139558Z"
+            ]
+        },
+        {
+            "id": "e17c90574b30462dfd059db24d2ad628",
+            "source": "spacenews",
+            "text": "Texas Space Commission completes $150 million in awards",
+            "source_link": "https://spacenews.com/texas-space-commission-completes-150-million-in-awards/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-02-23T13:44:25.118967Z"
         }
     ]
 }
