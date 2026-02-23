@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-23T00:04:45.456007+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ef09ba696bffdab86441c0d58860f9fe",
+    "trigger_count": 0,
+    "current_item_id": "430e933a544830be5f5b04f20426f33b",
     "data": [
         {
             "id": "5a65ad041ae65d511e14dcac980aa2dc",
@@ -9060,6 +9060,18 @@
             "fetched_datetime": "2026-02-23T18:34:42.057908Z",
             "shown_at": [
                 "2026-02-23T18:34:43.171355Z"
+            ]
+        },
+        {
+            "id": "430e933a544830be5f5b04f20426f33b",
+            "source": "nyt",
+            "text": "Problem With Artemis Rocket Will Delay NASA’s Moon Mission",
+            "source_link": "https://www.nytimes.com/2026/02/21/science/nasa-artemis-helium-flaw.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-23T19:14:40.419768Z",
+            "shown_at": [
+                "2026-02-23T19:14:41.520175Z"
             ]
         }
     ]
