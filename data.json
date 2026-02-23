@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-23T00:04:45.456007+00:00",
-    "trigger_count": 6,
-    "current_item_id": "430e933a544830be5f5b04f20426f33b",
+    "trigger_count": 0,
+    "current_item_id": "ce820bf6df2d8d19730c0d1c0376c08f",
     "data": [
         {
             "id": "5a65ad041ae65d511e14dcac980aa2dc",
@@ -9072,6 +9072,18 @@
             "fetched_datetime": "2026-02-23T19:14:40.419768Z",
             "shown_at": [
                 "2026-02-23T19:14:41.520175Z"
+            ]
+        },
+        {
+            "id": "ce820bf6df2d8d19730c0d1c0376c08f",
+            "source": "spacenews",
+            "text": "Space Force seeks market answers on in-orbit refueling",
+            "source_link": "https://spacenews.com/space-force-seeks-market-answers-on-in-orbit-refueling/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-23T19:49:35.006457Z",
+            "shown_at": [
+                "2026-02-23T19:49:36.322597Z"
             ]
         }
     ]

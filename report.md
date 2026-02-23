@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 9 | 17 | 32 |
+| spacenews | 9 | 10 | 18 | 33 |
 | nyt | 1 | 1 | 12 | 25 |
 | breaking_defense | 0 | 0 | 11 | 24 |
 
@@ -3479,3 +3479,4 @@
 - **Feb 23, 05:59 PM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
 - **Feb 23, 06:34 PM** - AST SpaceMobile wins $30 million contract for military  broadband demo (spacenews)
 - **Feb 23, 07:14 PM** - Problem With Artemis Rocket Will Delay NASA’s Moon Mission (nyt)
+- **Feb 23, 07:49 PM** - Space Force seeks market answers on in-orbit refueling (spacenews)
