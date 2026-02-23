@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 15 | 28 |
-| nyt | 0 | 0 | 13 | 27 |
+| spacenews | 1 | 2 | 14 | 28 |
+| nyt | 0 | 0 | 14 | 28 |
 | breaking_defense | 0 | 0 | 13 | 27 |
 
 # Shown Order
@@ -3454,3 +3454,4 @@
 - **Feb 23, 03:09 AM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
 - **Feb 23, 03:44 AM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
 - **Feb 23, 04:19 AM** - SatVu to expand thermal imaging constellation with NATO-backed funds (spacenews)
+- **Feb 23, 04:54 AM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
