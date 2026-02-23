@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 14 | 29 |
 | nyt | 0 | 0 | 14 | 27 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -3449,3 +3449,4 @@
 - **Feb 23, 12:14 AM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
 - **Feb 23, 12:49 AM** - Simera Sense to offer larger cameras and enhanced autonomy (spacenews)
 - **Feb 23, 01:24 AM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
+- **Feb 23, 01:58 AM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
