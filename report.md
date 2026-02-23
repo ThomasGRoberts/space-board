@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 15 | 28 |
+| spacenews | 2 | 3 | 15 | 29 |
 | nyt | 0 | 0 | 13 | 26 |
 | breaking_defense | 0 | 0 | 13 | 27 |
 
@@ -3463,3 +3463,4 @@
 - **Feb 23, 08:24 AM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
 - **Feb 23, 08:59 AM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
 - **Feb 23, 09:34 AM** - Bruno says he joined Blue Origin to work on ‘urgent’ national security projects (spacenews)
+- **Feb 23, 10:14 AM** - Israeli startup targets the economics of high-resolution Earth observation (spacenews)
