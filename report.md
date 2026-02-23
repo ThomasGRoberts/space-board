@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 15 | 29 |
-| nyt | 0 | 0 | 13 | 26 |
-| breaking_defense | 0 | 0 | 13 | 27 |
+| spacenews | 1 | 3 | 15 | 29 |
+| nyt | 0 | 0 | 14 | 27 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -3467,3 +3467,4 @@
 - **Feb 23, 10:49 AM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
 - **Feb 23, 11:24 AM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
 - **Feb 23, 11:59 AM** - Sateliot to launch satellites with PLD Space (spacenews)
+- **Feb 23, 12:34 PM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
