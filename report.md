@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 15 | 28 |
 | nyt | 0 | 0 | 13 | 27 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
@@ -3465,3 +3465,4 @@
 - **Feb 23, 09:34 AM** - Bruno says he joined Blue Origin to work on ‘urgent’ national security projects (spacenews)
 - **Feb 23, 10:14 AM** - Israeli startup targets the economics of high-resolution Earth observation (spacenews)
 - **Feb 23, 10:49 AM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
+- **Feb 23, 11:24 AM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
