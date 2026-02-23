@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-23T00:04:45.456007+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6f08f1f5de0ef2f51f0f12a6b2b969da",
+    "trigger_count": 0,
+    "current_item_id": "961d551e66964b2232bf24dec83b7616",
     "data": [
         {
             "id": "5a65ad041ae65d511e14dcac980aa2dc",
@@ -9022,6 +9022,18 @@
             "fetched_datetime": "2026-02-23T14:59:02.869170Z",
             "shown_at": [
                 "2026-02-23T15:34:35.384905Z"
+            ]
+        },
+        {
+            "id": "961d551e66964b2232bf24dec83b7616",
+            "source": "spacenews",
+            "text": "Europe’s progress on future access-to-space gains momentum with upcoming reusable launcher flight test ",
+            "source_link": "https://spacenews.com/europes-progress-on-future-access-to-space-gains-momentum-with-upcoming-reusable-launcher-flight-test/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-23T16:09:37.112845Z",
+            "shown_at": [
+                "2026-02-23T16:09:38.448097Z"
             ]
         }
     ]
