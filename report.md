@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 15 | 28 |
-| nyt | 0 | 0 | 13 | 27 |
+| nyt | 0 | 0 | 14 | 27 |
 | breaking_defense | 0 | 0 | 13 | 27 |
 
 # Shown Order
@@ -3460,3 +3460,4 @@
 - **Feb 23, 06:39 AM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
 - **Feb 23, 07:14 AM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
 - **Feb 23, 07:49 AM** - Low-profile Chinese launch firm conducts first stage static fire (spacenews)
+- **Feb 23, 08:24 AM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
