@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 8 | 17 | 31 |
+| spacenews | 8 | 9 | 18 | 32 |
 | nyt | 0 | 0 | 11 | 25 |
 | breaking_defense | 0 | 0 | 12 | 25 |
 
@@ -3477,3 +3477,4 @@
 - **Feb 23, 04:44 PM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
 - **Feb 23, 05:24 PM** - Aalyria hits $1.3 billion valuation after raising funds for satellite mesh network (spacenews)
 - **Feb 23, 05:59 PM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
+- **Feb 23, 06:34 PM** - AST SpaceMobile wins $30 million contract for military  broadband demo (spacenews)

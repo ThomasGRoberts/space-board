@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-23T00:04:45.456007+00:00",
-    "trigger_count": 6,
-    "current_item_id": "18e0521f85d9adf0a3e85ead4f0ce953",
+    "trigger_count": 0,
+    "current_item_id": "ef09ba696bffdab86441c0d58860f9fe",
     "data": [
         {
             "id": "5a65ad041ae65d511e14dcac980aa2dc",
@@ -9048,6 +9048,18 @@
             "fetched_datetime": "2026-02-23T17:24:12.682237Z",
             "shown_at": [
                 "2026-02-23T17:24:13.411136Z"
+            ]
+        },
+        {
+            "id": "ef09ba696bffdab86441c0d58860f9fe",
+            "source": "spacenews",
+            "text": "AST SpaceMobile wins $30 million contract for military  broadband demo",
+            "source_link": "https://spacenews.com/ast-spacemobile-wins-30-million-contract-for-military-broadband-demo/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-23T18:34:42.057908Z",
+            "shown_at": [
+                "2026-02-23T18:34:43.171355Z"
             ]
         }
     ]
