@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 10 | 18 | 32 |
 | nyt | 1 | 1 | 11 | 25 |
-| breaking_defense | 0 | 0 | 11 | 24 |
+| breaking_defense | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -3486,3 +3486,4 @@
 - **Feb 23, 10:09 PM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
 - **Feb 23, 10:44 PM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
 - **Feb 23, 11:19 PM** - Space Force seeks market answers on in-orbit refueling (spacenews)
+- **Feb 23, 11:54 PM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
