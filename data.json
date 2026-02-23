@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-23T00:04:45.456007+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ee77cece29fd01010ac7060d4f6c7ae9",
+    "trigger_count": 0,
+    "current_item_id": "6f08f1f5de0ef2f51f0f12a6b2b969da",
     "data": [
         {
             "id": "5a65ad041ae65d511e14dcac980aa2dc",
@@ -9017,9 +9017,12 @@
             "source": "spacenews",
             "text": "Re-framing orbital debris: from a statistical to dosage approach",
             "source_link": "https://spacenews.com/re-framing-orbital-debris-from-a-statistical-to-dosage-approach/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-02-23T14:59:02.869170Z"
+            "fetched_datetime": "2026-02-23T14:59:02.869170Z",
+            "shown_at": [
+                "2026-02-23T15:34:35.384905Z"
+            ]
         }
     ]
 }

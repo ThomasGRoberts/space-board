@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 7 | 16 | 30 |
+| spacenews | 5 | 7 | 17 | 31 |
 | nyt | 0 | 0 | 12 | 25 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 12 | 26 |
 
 # Shown Order
 
@@ -3472,3 +3472,4 @@
 - **Feb 23, 01:44 PM** - Momentus prepares to host 10 demonstration payloads on Vigoride 7 flight (spacenews)
 - **Feb 23, 02:24 PM** - Texas Space Commission completes $150 million in awards (spacenews)
 - **Feb 23, 02:59 PM** - Engineering Behind EarthDaily: Solving for Global Daily Coverage, Scientific Quality, and High-Spectral Diversity (spacenews)
+- **Feb 23, 03:34 PM** - Re-framing orbital debris: from a statistical to dosage approach (spacenews)
