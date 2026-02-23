@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 7 | 17 | 31 |
+| spacenews | 7 | 8 | 18 | 32 |
 | nyt | 0 | 0 | 12 | 25 |
 | breaking_defense | 0 | 0 | 11 | 25 |
 
@@ -3475,3 +3475,4 @@
 - **Feb 23, 03:34 PM** - Re-framing orbital debris: from a statistical to dosage approach (spacenews)
 - **Feb 23, 04:09 PM** - Europe’s progress on future access-to-space gains momentum with upcoming reusable launcher flight test  (spacenews)
 - **Feb 23, 04:44 PM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
+- **Feb 23, 05:24 PM** - Aalyria hits $1.3 billion valuation after raising funds for satellite mesh network (spacenews)
