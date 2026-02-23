@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 10 | 17 | 32 |
+| spacenews | 9 | 10 | 18 | 33 |
 | nyt | 1 | 1 | 12 | 25 |
 | breaking_defense | 0 | 0 | 11 | 24 |
 
@@ -3482,3 +3482,4 @@
 - **Feb 23, 07:49 PM** - Space Force seeks market answers on in-orbit refueling (spacenews)
 - **Feb 23, 08:24 PM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
 - **Feb 23, 09:00 PM** - Problem With Artemis Rocket Will Delay NASA’s Moon Mission (nyt)
+- **Feb 23, 09:34 PM** - Japan’s ispace warns of delays in new lunar lander engine (spacenews)
