@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 10 | 17 | 32 |
+| spacenews | 9 | 10 | 18 | 33 |
 | nyt | 1 | 1 | 12 | 25 |
 | breaking_defense | 0 | 0 | 11 | 24 |
 
@@ -3485,3 +3485,4 @@
 - **Feb 23, 09:34 PM** - Japan’s ispace warns of delays in new lunar lander engine (spacenews)
 - **Feb 23, 10:09 PM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
 - **Feb 23, 10:44 PM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
+- **Feb 23, 11:19 PM** - Space Force seeks market answers on in-orbit refueling (spacenews)
