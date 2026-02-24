@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 12 | 17 | 32 |
+| spacenews | 11 | 13 | 18 | 33 |
 | nyt | 1 | 1 | 12 | 25 |
 | breaking_defense | 0 | 0 | 11 | 24 |
 
@@ -3394,3 +3394,4 @@
 - **Feb 24, 10:34 AM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
 - **Feb 24, 11:09 AM** - Golden Dome will fail without software-defined warfare (spacenews)
 - **Feb 24, 11:44 AM** - Problem With Artemis Rocket Will Delay NASA’s Moon Mission (nyt)
+- **Feb 24, 12:19 PM** - Sophia Space claims $10 million in seed round (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-24T00:04:48.760921+00:00",
-    "trigger_count": 6,
-    "current_item_id": "430e933a544830be5f5b04f20426f33b",
+    "trigger_count": 0,
+    "current_item_id": "36892e6074f799b8f3873ed74bcacd82",
     "data": [
         {
             "id": "ce820bf6df2d8d19730c0d1c0376c08f",
@@ -8910,6 +8910,18 @@
             "shown_at": [
                 "2026-02-24T02:19:09.941024Z",
                 "2026-02-24T09:24:16.592368Z"
+            ]
+        },
+        {
+            "id": "36892e6074f799b8f3873ed74bcacd82",
+            "source": "spacenews",
+            "text": "Sophia Space claims $10 million in seed round",
+            "source_link": "https://spacenews.com/sophia-space-claims-10-million-in-seed-round/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-24T12:19:28.307341Z",
+            "shown_at": [
+                "2026-02-24T12:19:29.494185Z"
             ]
         }
     ]
