@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 11 | 18 | 32 |
 | nyt | 1 | 1 | 11 | 25 |
-| breaking_defense | 0 | 0 | 11 | 24 |
+| breaking_defense | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -3376,3 +3376,4 @@
 - **Feb 23, 11:54 PM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
 - **Feb 24, 12:29 AM** - Problem With Artemis Rocket Will Delay NASA’s Moon Mission (nyt)
 - **Feb 24, 01:09 AM** - Meink, Saltzman make case for Space Force expansion  (spacenews)
+- **Feb 24, 01:44 AM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
