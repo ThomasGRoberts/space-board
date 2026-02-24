@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 11 | 18 | 32 |
+| spacenews | 11 | 12 | 19 | 33 |
 | nyt | 1 | 1 | 11 | 24 |
 | breaking_defense | 0 | 0 | 11 | 25 |
 
@@ -3377,3 +3377,4 @@
 - **Feb 24, 12:29 AM** - Problem With Artemis Rocket Will Delay NASA’s Moon Mission (nyt)
 - **Feb 24, 01:09 AM** - Meink, Saltzman make case for Space Force expansion  (spacenews)
 - **Feb 24, 01:44 AM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
+- **Feb 24, 02:19 AM** - Boeing demonstrates large language model for space-grade hardware (spacenews)
