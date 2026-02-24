@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 15 | 17 | 32 |
+| spacenews | 12 | 15 | 18 | 33 |
 | nyt | 2 | 2 | 12 | 25 |
 | breaking_defense | 0 | 0 | 11 | 24 |
 
@@ -3398,3 +3398,4 @@
 - **Feb 24, 12:54 PM** - Norway’s Century-Long Watch on the Northern Lights (nyt)
 - **Feb 24, 01:29 PM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
 - **Feb 24, 02:04 PM** - The Commercial Space Federation Releases New White Paper “Perfecting Public-Private Partnerships” (spacenews)
+- **Feb 24, 02:39 PM** - At Colorado space firms, Hegseth casts Pentagon bureaucracy as the enemy (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-24T00:04:48.760921+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0ec449eb406b4e0954dd76f6947a2136",
+    "trigger_count": 0,
+    "current_item_id": "b782a70835c459f1a2b5ce3c0b70fb3e",
     "data": [
         {
             "id": "ce820bf6df2d8d19730c0d1c0376c08f",
@@ -8954,9 +8954,12 @@
             "source": "spacenews",
             "text": "At Colorado space firms, Hegseth casts Pentagon bureaucracy as the enemy",
             "source_link": "https://spacenews.com/at-colorado-space-firms-hegseth-casts-pentagon-bureaucracy-as-the-enemy/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-02-24T14:04:40.026422Z"
+            "fetched_datetime": "2026-02-24T14:04:40.026422Z",
+            "shown_at": [
+                "2026-02-24T14:39:53.014738Z"
+            ]
         },
         {
             "id": "c0dae3f404bba5b2c380e55a4e6b33d3",
