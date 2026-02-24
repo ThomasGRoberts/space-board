@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 12 | 18 | 32 |
 | nyt | 2 | 2 | 12 | 25 |
-| breaking_defense | 0 | 0 | 10 | 24 |
+| breaking_defense | 0 | 0 | 11 | 25 |
 
 # Shown Order
 
@@ -3396,3 +3396,4 @@
 - **Feb 24, 11:44 AM** - Problem With Artemis Rocket Will Delay NASA’s Moon Mission (nyt)
 - **Feb 24, 12:19 PM** - Sophia Space claims $10 million in seed round (spacenews)
 - **Feb 24, 12:54 PM** - Norway’s Century-Long Watch on the Northern Lights (nyt)
+- **Feb 24, 01:29 PM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
