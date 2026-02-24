@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 12 | 18 | 32 |
 | nyt | 1 | 1 | 11 | 25 |
-| breaking_defense | 0 | 0 | 11 | 24 |
+| breaking_defense | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -3379,3 +3379,4 @@
 - **Feb 24, 01:44 AM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
 - **Feb 24, 02:19 AM** - Boeing demonstrates large language model for space-grade hardware (spacenews)
 - **Feb 24, 02:54 AM** - Problem With Artemis Rocket Will Delay NASA’s Moon Mission (nyt)
+- **Feb 24, 03:29 AM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
