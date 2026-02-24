@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 16 | 16 | 33 |
-| nyt | 2 | 2 | 11 | 23 |
+| nyt | 2 | 2 | 12 | 24 |
 | breaking_defense | 0 | 0 | 10 | 22 |
 
 # Shown Order
@@ -3401,3 +3401,4 @@
 - **Feb 24, 02:39 PM** - At Colorado space firms, Hegseth casts Pentagon bureaucracy as the enemy (spacenews)
 - **Feb 24, 03:35 PM** - LambdaVision books space on Starlab commercial space station (spacenews)
 - **Feb 24, 05:34 PM** - Lockheed Martin presses case that GPS upgrade will counter jamming threats (spacenews)
+- **Feb 24, 06:09 PM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
