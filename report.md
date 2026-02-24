@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 15 | 33 |
 | nyt | 2 | 2 | 12 | 23 |
-| breaking_defense | 0 | 0 | 10 | 22 |
+| breaking_defense | 0 | 0 | 11 | 23 |
 
 # Shown Order
 
@@ -3402,3 +3402,4 @@
 - **Feb 24, 03:35 PM** - LambdaVision books space on Starlab commercial space station (spacenews)
 - **Feb 24, 05:34 PM** - Lockheed Martin presses case that GPS upgrade will counter jamming threats (spacenews)
 - **Feb 24, 06:09 PM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
+- **Feb 24, 06:44 PM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
