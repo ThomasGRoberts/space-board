@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 15 | 33 |
+| spacenews | 9 | 16 | 16 | 34 |
 | nyt | 2 | 2 | 11 | 23 |
 | breaking_defense | 0 | 0 | 11 | 22 |
 
@@ -3400,3 +3400,4 @@
 - **Feb 24, 02:04 PM** - The Commercial Space Federation Releases New White Paper “Perfecting Public-Private Partnerships” (spacenews)
 - **Feb 24, 02:39 PM** - At Colorado space firms, Hegseth casts Pentagon bureaucracy as the enemy (spacenews)
 - **Feb 24, 03:35 PM** - LambdaVision books space on Starlab commercial space station (spacenews)
+- **Feb 24, 05:34 PM** - Lockheed Martin presses case that GPS upgrade will counter jamming threats (spacenews)
