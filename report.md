@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 16 | 15 | 33 |
-| nyt | 1 | 2 | 12 | 23 |
+| spacenews | 7 | 16 | 16 | 34 |
+| nyt | 1 | 2 | 11 | 23 |
 | breaking_defense | 0 | 0 | 11 | 22 |
 
 # Shown Order
@@ -3406,3 +3406,4 @@
 - **Feb 24, 07:19 PM** - The Commercial Space Federation Releases New White Paper “Perfecting Public-Private Partnerships” (spacenews)
 - **Feb 24, 07:54 PM** - Problem With Artemis Rocket Will Delay NASA’s Moon Mission (nyt)
 - **Feb 24, 08:29 PM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
+- **Feb 24, 09:04 PM** - Vantor partners with Google AI to automate intelligence reports for government agencies (spacenews)
