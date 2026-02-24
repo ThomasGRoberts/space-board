@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-24T00:04:48.760921+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b782a70835c459f1a2b5ce3c0b70fb3e",
+    "trigger_count": 0,
+    "current_item_id": "c0dae3f404bba5b2c380e55a4e6b33d3",
     "data": [
         {
             "id": "ce820bf6df2d8d19730c0d1c0376c08f",
@@ -8966,9 +8966,12 @@
             "source": "spacenews",
             "text": "LambdaVision books space on Starlab commercial space station",
             "source_link": "https://spacenews.com/lambdavision-books-space-on-starlab-commercial-space-station/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-02-24T14:04:40.026469Z"
+            "fetched_datetime": "2026-02-24T14:04:40.026469Z",
+            "shown_at": [
+                "2026-02-24T15:35:12.446625Z"
+            ]
         }
     ]
 }
