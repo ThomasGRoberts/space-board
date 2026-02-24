@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 12 | 18 | 32 |
+| spacenews | 11 | 12 | 19 | 33 |
 | nyt | 1 | 1 | 11 | 24 |
 | breaking_defense | 0 | 0 | 11 | 25 |
 
@@ -3380,3 +3380,4 @@
 - **Feb 24, 02:19 AM** - Boeing demonstrates large language model for space-grade hardware (spacenews)
 - **Feb 24, 02:54 AM** - Problem With Artemis Rocket Will Delay NASA’s Moon Mission (nyt)
 - **Feb 24, 03:29 AM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
+- **Feb 24, 04:04 AM** - NASA targeting March 6 for Artemis 2 launch (spacenews)
