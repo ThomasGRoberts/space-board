@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 16 | 15 | 33 |
 | nyt | 1 | 2 | 12 | 23 |
-| breaking_defense | 0 | 0 | 11 | 22 |
+| breaking_defense | 0 | 0 | 11 | 23 |
 
 # Shown Order
 
@@ -3405,3 +3405,4 @@
 - **Feb 24, 06:44 PM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
 - **Feb 24, 07:19 PM** - The Commercial Space Federation Releases New White Paper “Perfecting Public-Private Partnerships” (spacenews)
 - **Feb 24, 07:54 PM** - Problem With Artemis Rocket Will Delay NASA’s Moon Mission (nyt)
+- **Feb 24, 08:29 PM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
