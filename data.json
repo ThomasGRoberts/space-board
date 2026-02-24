@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-24T00:04:48.760921+00:00",
-    "trigger_count": 6,
-    "current_item_id": "17443a22e133920e81eb0d0bf2b00ea4",
+    "trigger_count": 0,
+    "current_item_id": "15c532cddcf775e6b66f926a6ec1a122",
     "data": [
         {
             "id": "ce820bf6df2d8d19730c0d1c0376c08f",
@@ -8992,6 +8992,18 @@
             "fetched_datetime": "2026-02-24T17:34:28.282602Z",
             "shown_at": [
                 "2026-02-24T17:34:29.341840Z"
+            ]
+        },
+        {
+            "id": "15c532cddcf775e6b66f926a6ec1a122",
+            "source": "spacenews",
+            "text": "A banner year for military space funding— with an unclear path beyond",
+            "source_link": "https://spacenews.com/a-banner-year-for-military-space-funding-with-an-unclear-path-beyond/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-24T23:24:17.155589Z",
+            "shown_at": [
+                "2026-02-24T23:24:18.335045Z"
             ]
         }
     ]
