@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-24T00:04:48.760921+00:00",
-    "trigger_count": 6,
-    "current_item_id": "36892e6074f799b8f3873ed74bcacd82",
+    "trigger_count": 0,
+    "current_item_id": "622d36c3f21e140d551b0166ba81c2fa",
     "data": [
         {
             "id": "ce820bf6df2d8d19730c0d1c0376c08f",
@@ -8922,6 +8922,18 @@
             "fetched_datetime": "2026-02-24T12:19:28.307341Z",
             "shown_at": [
                 "2026-02-24T12:19:29.494185Z"
+            ]
+        },
+        {
+            "id": "622d36c3f21e140d551b0166ba81c2fa",
+            "source": "nyt",
+            "text": "Norway’s Century-Long Watch on the Northern Lights",
+            "source_link": "https://www.nytimes.com/2026/02/24/science/norway-auroras-northern-lights-observatory.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-24T12:54:33.603107Z",
+            "shown_at": [
+                "2026-02-24T12:54:34.882724Z"
             ]
         }
     ]

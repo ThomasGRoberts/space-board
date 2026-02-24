@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 12 | 18 | 32 |
-| nyt | 1 | 1 | 11 | 25 |
+| nyt | 2 | 2 | 12 | 26 |
 | breaking_defense | 0 | 0 | 11 | 24 |
 
 # Shown Order
@@ -3395,3 +3395,4 @@
 - **Feb 24, 11:09 AM** - Golden Dome will fail without software-defined warfare (spacenews)
 - **Feb 24, 11:44 AM** - Problem With Artemis Rocket Will Delay NASA’s Moon Mission (nyt)
 - **Feb 24, 12:19 PM** - Sophia Space claims $10 million in seed round (spacenews)
+- **Feb 24, 12:54 PM** - Norway’s Century-Long Watch on the Northern Lights (nyt)
