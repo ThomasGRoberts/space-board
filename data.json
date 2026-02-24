@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-24T00:04:48.760921+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2040432ca3d42c967552629b5eb49ac3",
+    "trigger_count": 0,
+    "current_item_id": "0ec449eb406b4e0954dd76f6947a2136",
     "data": [
         {
             "id": "ce820bf6df2d8d19730c0d1c0376c08f",
@@ -8936,6 +8936,36 @@
             "shown_at": [
                 "2026-02-24T12:54:34.882724Z"
             ]
+        },
+        {
+            "id": "0ec449eb406b4e0954dd76f6947a2136",
+            "source": "spacenews",
+            "text": "The Commercial Space Federation Releases New White Paper “Perfecting Public-Private Partnerships”",
+            "source_link": "https://spacenews.com/the-commercial-space-federation-releases-new-white-paper-perfecting-public-private-partnerships/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-24T14:04:40.026354Z",
+            "shown_at": [
+                "2026-02-24T14:04:41.032317Z"
+            ]
+        },
+        {
+            "id": "b782a70835c459f1a2b5ce3c0b70fb3e",
+            "source": "spacenews",
+            "text": "At Colorado space firms, Hegseth casts Pentagon bureaucracy as the enemy",
+            "source_link": "https://spacenews.com/at-colorado-space-firms-hegseth-casts-pentagon-bureaucracy-as-the-enemy/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-02-24T14:04:40.026422Z"
+        },
+        {
+            "id": "c0dae3f404bba5b2c380e55a4e6b33d3",
+            "source": "spacenews",
+            "text": "LambdaVision books space on Starlab commercial space station",
+            "source_link": "https://spacenews.com/lambdavision-books-space-on-starlab-commercial-space-station/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-02-24T14:04:40.026469Z"
         }
     ]
 }
