@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 15 | 33 |
+| spacenews | 8 | 16 | 16 | 34 |
 | nyt | 1 | 2 | 11 | 23 |
 | breaking_defense | 0 | 0 | 11 | 22 |
 
@@ -3403,3 +3403,4 @@
 - **Feb 24, 05:34 PM** - Lockheed Martin presses case that GPS upgrade will counter jamming threats (spacenews)
 - **Feb 24, 06:09 PM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
 - **Feb 24, 06:44 PM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
+- **Feb 24, 07:19 PM** - The Commercial Space Federation Releases New White Paper “Perfecting Public-Private Partnerships” (spacenews)
