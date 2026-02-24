@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 12 | 18 | 32 |
 | nyt | 1 | 1 | 11 | 25 |
-| breaking_defense | 0 | 0 | 11 | 24 |
+| breaking_defense | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -3388,3 +3388,4 @@
 - **Feb 24, 07:04 AM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
 - **Feb 24, 07:39 AM** - Why GPS III, and what comes after it, still falls short in modern war (spacenews)
 - **Feb 24, 08:14 AM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
+- **Feb 24, 08:49 AM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
