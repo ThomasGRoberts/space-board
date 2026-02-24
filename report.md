@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 12 | 18 | 32 |
 | nyt | 1 | 1 | 11 | 25 |
-| breaking_defense | 0 | 0 | 11 | 24 |
+| breaking_defense | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -3382,3 +3382,4 @@
 - **Feb 24, 03:29 AM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
 - **Feb 24, 04:04 AM** - NASA targeting March 6 for Artemis 2 launch (spacenews)
 - **Feb 24, 04:39 AM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
+- **Feb 24, 05:14 AM** - EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’ (breaking_defense)
