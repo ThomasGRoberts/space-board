@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 14 | 14 | 31 |
+| spacenews | 5 | 15 | 15 | 32 |
 | nyt | 0 | 2 | 11 | 23 |
 | breaking_defense | 0 | 0 | 10 | 21 |
 
@@ -3375,3 +3375,4 @@
 - **Feb 25, 01:39 PM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
 - **Feb 25, 02:14 PM** - Meink, Saltzman make case for Space Force expansion  (spacenews)
 - **Feb 25, 02:49 PM** - Problem With Artemis Rocket Will Delay NASA’s Moon Mission (nyt)
+- **Feb 25, 03:24 PM** - The future of astronomy is both on Earth and in space (spacenews)
