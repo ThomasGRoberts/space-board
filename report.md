@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 15 | 14 | 31 |
 | nyt | 0 | 2 | 11 | 23 |
-| breaking_defense | 0 | 0 | 10 | 21 |
+| breaking_defense | 0 | 0 | 11 | 22 |
 
 # Shown Order
 
@@ -3376,3 +3376,4 @@
 - **Feb 25, 02:14 PM** - Meink, Saltzman make case for Space Force expansion  (spacenews)
 - **Feb 25, 02:49 PM** - Problem With Artemis Rocket Will Delay NASA’s Moon Mission (nyt)
 - **Feb 25, 03:24 PM** - The future of astronomy is both on Earth and in space (spacenews)
+- **Feb 25, 03:59 PM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
