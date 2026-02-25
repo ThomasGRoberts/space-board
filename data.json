@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-25T00:04:44.546688+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2040432ca3d42c967552629b5eb49ac3",
+    "trigger_count": 0,
+    "current_item_id": "2ae82ef6ec1f160fa1c5dc8e9789edf4",
     "data": [
         {
             "id": "15c532cddcf775e6b66f926a6ec1a122",
@@ -8864,6 +8864,27 @@
                 "2025-10-15T08:31:56.264668Z",
                 "2025-10-19T09:05:37.788056Z"
             ]
+        },
+        {
+            "id": "2ae82ef6ec1f160fa1c5dc8e9789edf4",
+            "source": "spacenews",
+            "text": "In space traffic coordination, the biggest challenge may be coordination",
+            "source_link": "https://spacenews.com/in-space-traffic-coordination-the-biggest-challenge-may-be-coordination/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-25T11:49:14.178155Z",
+            "shown_at": [
+                "2026-02-25T11:49:15.133200Z"
+            ]
+        },
+        {
+            "id": "0a33257970a366433e8097fb86d20217",
+            "source": "spacenews",
+            "text": "OQ Technology secures $30 million from Europe for satellite-to-smartphone expansion",
+            "source_link": "https://spacenews.com/oq-technology-secures-30-million-from-europe-for-satellite-to-smartphone-expansion/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-02-25T11:49:14.178224Z"
         }
     ]
 }
