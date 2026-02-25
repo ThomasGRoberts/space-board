@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 16 | 14 | 32 |
-| nyt | 0 | 2 | 10 | 22 |
+| nyt | 0 | 2 | 11 | 23 |
 | breaking_defense | 0 | 0 | 10 | 21 |
 
 # Shown Order
@@ -3374,3 +3374,4 @@
 - **Feb 25, 12:59 PM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
 - **Feb 25, 01:39 PM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
 - **Feb 25, 02:14 PM** - Meink, Saltzman make case for Space Force expansion  (spacenews)
+- **Feb 25, 02:49 PM** - Problem With Artemis Rocket Will Delay NASA’s Moon Mission (nyt)
