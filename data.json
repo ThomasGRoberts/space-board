@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-25T00:04:44.546688+00:00",
-    "trigger_count": 6,
-    "current_item_id": "622d36c3f21e140d551b0166ba81c2fa",
+    "trigger_count": 0,
+    "current_item_id": "b46392beffd1a6c3386da5fbe7f84c67",
     "data": [
         {
             "id": "15c532cddcf775e6b66f926a6ec1a122",
@@ -8924,6 +8924,18 @@
             "fetched_datetime": "2026-02-25T18:54:27.014721Z",
             "shown_at": [
                 "2026-02-25T18:54:28.171657Z"
+            ]
+        },
+        {
+            "id": "b46392beffd1a6c3386da5fbe7f84c67",
+            "source": "spacenews",
+            "text": "Golden Dome to require unprecedented coordination between U.S. combatant commands",
+            "source_link": "https://spacenews.com/golden-dome-to-require-unprecedented-coordination-between-u-s-combatant-commands/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-25T21:54:45.771693Z",
+            "shown_at": [
+                "2026-02-25T21:54:46.994956Z"
             ]
         }
     ]
