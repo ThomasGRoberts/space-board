@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 16 | 15 | 32 |
 | nyt | 1 | 2 | 11 | 23 |
-| breaking_defense | 0 | 0 | 9 | 21 |
+| breaking_defense | 0 | 0 | 10 | 22 |
 
 # Shown Order
 
@@ -3368,3 +3368,4 @@
 - **Feb 25, 07:44 AM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
 - **Feb 25, 08:19 AM** - Pentagon seeks commercially built GEO spy satellites  (spacenews)
 - **Feb 25, 09:35 AM** - Problem With Artemis Rocket Will Delay NASA’s Moon Mission (nyt)
+- **Feb 25, 10:44 AM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
