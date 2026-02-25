@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 14 | 29 |
-| nyt | 0 | 1 | 11 | 23 |
+| nyt | 0 | 1 | 12 | 24 |
 | breaking_defense | 0 | 0 | 12 | 23 |
 
 # Shown Order
@@ -3383,3 +3383,4 @@
 - **Feb 25, 06:19 PM** - Problem With Artemis Rocket Will Delay NASA’s Moon Mission (nyt)
 - **Feb 25, 06:54 PM** - Valve malfunction blamed for failure of Indian satellite to raise its orbit (spacenews)
 - **Feb 25, 07:29 PM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
+- **Feb 25, 08:05 PM** - Norway’s Century-Long Watch on the Northern Lights (nyt)
