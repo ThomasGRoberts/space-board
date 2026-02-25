@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 17 | 16 | 34 |
-| nyt | 1 | 2 | 11 | 22 |
+| spacenews | 6 | 17 | 15 | 33 |
+| nyt | 1 | 2 | 12 | 23 |
 | breaking_defense | 0 | 0 | 10 | 21 |
 
 # Shown Order
@@ -3367,3 +3367,4 @@
 - **Feb 25, 07:09 AM** - Problem With Artemis Rocket Will Delay NASA’s Moon Mission (nyt)
 - **Feb 25, 07:44 AM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
 - **Feb 25, 08:19 AM** - Pentagon seeks commercially built GEO spy satellites  (spacenews)
+- **Feb 25, 09:35 AM** - Problem With Artemis Rocket Will Delay NASA’s Moon Mission (nyt)
