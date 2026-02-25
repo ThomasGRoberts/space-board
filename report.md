@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 14 | 30 |
+| spacenews | 6 | 13 | 15 | 31 |
 | nyt | 0 | 1 | 13 | 24 |
 | breaking_defense | 0 | 0 | 10 | 21 |
 
@@ -3388,3 +3388,4 @@
 - **Feb 25, 09:19 PM** - Norway’s Century-Long Watch on the Northern Lights (nyt)
 - **Feb 25, 09:54 PM** - Golden Dome to require unprecedented coordination between U.S. combatant commands (spacenews)
 - **Feb 25, 10:29 PM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
+- **Feb 25, 11:05 PM** - At Colorado space firms, Hegseth casts Pentagon bureaucracy as the enemy (spacenews)
