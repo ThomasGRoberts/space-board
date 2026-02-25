@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 14 | 14 | 30 |
-| nyt | 0 | 2 | 11 | 23 |
+| nyt | 0 | 2 | 12 | 24 |
 | breaking_defense | 0 | 0 | 11 | 22 |
 
 # Shown Order
@@ -3377,3 +3377,4 @@
 - **Feb 25, 02:49 PM** - Problem With Artemis Rocket Will Delay NASA’s Moon Mission (nyt)
 - **Feb 25, 03:24 PM** - The future of astronomy is both on Earth and in space (spacenews)
 - **Feb 25, 03:59 PM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
+- **Feb 25, 04:34 PM** - Norway’s Century-Long Watch on the Northern Lights (nyt)
