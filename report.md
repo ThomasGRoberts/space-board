@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 16 | 34 |
-| nyt | 1 | 2 | 11 | 22 |
-| breaking_defense | 0 | 0 | 11 | 22 |
+| nyt | 1 | 2 | 12 | 23 |
+| breaking_defense | 0 | 0 | 10 | 22 |
 
 # Shown Order
 
@@ -3355,3 +3355,4 @@
 - **Feb 24, 11:59 PM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
 - **Feb 25, 12:34 AM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
 - **Feb 25, 01:10 AM** - Lockheed Martin presses case that GPS upgrade will counter jamming threats (spacenews)
+- **Feb 25, 01:44 AM** - Problem With Artemis Rocket Will Delay NASA’s Moon Mission (nyt)
