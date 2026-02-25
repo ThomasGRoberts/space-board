@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 17 | 15 | 34 |
 | nyt | 1 | 2 | 12 | 23 |
-| breaking_defense | 0 | 0 | 10 | 21 |
+| breaking_defense | 0 | 0 | 11 | 22 |
 
 # Shown Order
 
@@ -3362,3 +3362,4 @@
 - **Feb 25, 04:05 AM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
 - **Feb 25, 04:44 AM** - The Commercial Space Federation Releases New White Paper “Perfecting Public-Private Partnerships” (spacenews)
 - **Feb 25, 05:24 AM** - Norway’s Century-Long Watch on the Northern Lights (nyt)
+- **Feb 25, 05:59 AM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
