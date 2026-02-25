@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 13 | 14 | 30 |
 | nyt | 0 | 1 | 12 | 23 |
-| breaking_defense | 0 | 0 | 11 | 22 |
+| breaking_defense | 0 | 0 | 12 | 23 |
 
 # Shown Order
 
@@ -3382,3 +3382,4 @@
 - **Feb 25, 05:44 PM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
 - **Feb 25, 06:19 PM** - Problem With Artemis Rocket Will Delay NASA’s Moon Mission (nyt)
 - **Feb 25, 06:54 PM** - Valve malfunction blamed for failure of Indian satellite to raise its orbit (spacenews)
+- **Feb 25, 07:29 PM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
