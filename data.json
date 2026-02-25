@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-25T00:04:44.546688+00:00",
-    "trigger_count": 6,
-    "current_item_id": "430e933a544830be5f5b04f20426f33b",
+    "trigger_count": 0,
+    "current_item_id": "1c53eb35e9c89f4ca3d601bae770ba30",
     "data": [
         {
             "id": "15c532cddcf775e6b66f926a6ec1a122",
@@ -8908,6 +8908,18 @@
             "fetched_datetime": "2026-02-25T15:24:27.542421Z",
             "shown_at": [
                 "2026-02-25T15:24:28.525565Z"
+            ]
+        },
+        {
+            "id": "1c53eb35e9c89f4ca3d601bae770ba30",
+            "source": "spacenews",
+            "text": "Valve malfunction blamed for failure of Indian satellite to raise its orbit",
+            "source_link": "https://spacenews.com/valve-malfunction-blamed-for-failure-of-indian-satellite-to-raise-its-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-25T18:54:27.014721Z",
+            "shown_at": [
+                "2026-02-25T18:54:28.171657Z"
             ]
         }
     ]

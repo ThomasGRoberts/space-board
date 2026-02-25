@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 12 | 14 | 29 |
+| spacenews | 5 | 13 | 15 | 30 |
 | nyt | 0 | 2 | 12 | 24 |
 | breaking_defense | 0 | 0 | 11 | 22 |
 
@@ -3381,3 +3381,4 @@
 - **Feb 25, 05:09 PM** - Agile Space Industries Oversubscribed $17M Series A Accelerates Growth of In-Space Propulsion Capabilities (spacenews)
 - **Feb 25, 05:44 PM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
 - **Feb 25, 06:19 PM** - Problem With Artemis Rocket Will Delay NASA’s Moon Mission (nyt)
+- **Feb 25, 06:54 PM** - Valve malfunction blamed for failure of Indian satellite to raise its orbit (spacenews)
