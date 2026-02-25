@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 17 | 16 | 33 |
+| spacenews | 7 | 17 | 16 | 34 |
 | nyt | 1 | 2 | 11 | 23 |
 | breaking_defense | 0 | 0 | 11 | 22 |
 
@@ -3354,3 +3354,4 @@
 - **Feb 24, 11:24 PM** - A banner year for military space funding— with an unclear path beyond (spacenews)
 - **Feb 24, 11:59 PM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
 - **Feb 25, 12:34 AM** - DIU wants commercially developed imagery satellites for on-orbit spying (breaking_defense)
+- **Feb 25, 01:10 AM** - Lockheed Martin presses case that GPS upgrade will counter jamming threats (spacenews)
