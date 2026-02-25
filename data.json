@@ -1,9 +1,119 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-02-24T00:04:48.760921+00:00",
-    "trigger_count": 0,
+    "last_run_datetime": "2026-02-25T00:04:44.546688+00:00",
+    "trigger_count": 1,
     "current_item_id": "18cbd7788400c9493a4b7b04cc252a5e",
     "data": [
+        {
+            "id": "15c532cddcf775e6b66f926a6ec1a122",
+            "source": "spacenews",
+            "text": "A banner year for military space funding— with an unclear path beyond",
+            "source_link": "https://spacenews.com/a-banner-year-for-military-space-funding-with-an-unclear-path-beyond/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-24T23:24:17.155589Z",
+            "shown_at": [
+                "2026-02-24T23:24:18.335045Z"
+            ]
+        },
+        {
+            "id": "bde58179637fcd78ad096a0f596ece09",
+            "source": "spacenews",
+            "text": "Lockheed Martin presses case that GPS upgrade will counter jamming threats",
+            "source_link": "https://spacenews.com/lockheed-martin-presses-case-that-gps-upgrade-will-counter-jamming-threats/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-24T17:34:28.282602Z",
+            "shown_at": [
+                "2026-02-24T17:34:29.341840Z"
+            ]
+        },
+        {
+            "id": "c0dae3f404bba5b2c380e55a4e6b33d3",
+            "source": "spacenews",
+            "text": "LambdaVision books space on Starlab commercial space station",
+            "source_link": "https://spacenews.com/lambdavision-books-space-on-starlab-commercial-space-station/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-24T14:04:40.026469Z",
+            "shown_at": [
+                "2026-02-24T15:35:12.446625Z"
+            ]
+        },
+        {
+            "id": "b782a70835c459f1a2b5ce3c0b70fb3e",
+            "source": "spacenews",
+            "text": "At Colorado space firms, Hegseth casts Pentagon bureaucracy as the enemy",
+            "source_link": "https://spacenews.com/at-colorado-space-firms-hegseth-casts-pentagon-bureaucracy-as-the-enemy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-24T14:04:40.026422Z",
+            "shown_at": [
+                "2026-02-24T14:39:53.014738Z"
+            ]
+        },
+        {
+            "id": "0ec449eb406b4e0954dd76f6947a2136",
+            "source": "spacenews",
+            "text": "The Commercial Space Federation Releases New White Paper “Perfecting Public-Private Partnerships”",
+            "source_link": "https://spacenews.com/the-commercial-space-federation-releases-new-white-paper-perfecting-public-private-partnerships/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-24T14:04:40.026354Z",
+            "shown_at": [
+                "2026-02-24T14:04:41.032317Z",
+                "2026-02-24T19:19:18.105757Z"
+            ]
+        },
+        {
+            "id": "622d36c3f21e140d551b0166ba81c2fa",
+            "source": "nyt",
+            "text": "Norway’s Century-Long Watch on the Northern Lights",
+            "source_link": "https://www.nytimes.com/2026/02/24/science/norway-auroras-northern-lights-observatory.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-24T12:54:33.603107Z",
+            "shown_at": [
+                "2026-02-24T12:54:34.882724Z"
+            ]
+        },
+        {
+            "id": "36892e6074f799b8f3873ed74bcacd82",
+            "source": "spacenews",
+            "text": "Sophia Space claims $10 million in seed round",
+            "source_link": "https://spacenews.com/sophia-space-claims-10-million-in-seed-round/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-24T12:19:28.307341Z",
+            "shown_at": [
+                "2026-02-24T12:19:29.494185Z"
+            ]
+        },
+        {
+            "id": "7c1cece3f28e29739aeacd749f38ab70",
+            "source": "spacenews",
+            "text": "Boeing demonstrates large language model for space-grade hardware",
+            "source_link": "https://spacenews.com/boeing-demonstrates-large-language-model-for-space-grade-hardware/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-24T02:19:09.189021Z",
+            "shown_at": [
+                "2026-02-24T02:19:09.941024Z",
+                "2026-02-24T09:24:16.592368Z"
+            ]
+        },
+        {
+            "id": "412f02e403c11dd13aa05e03ed70d8f9",
+            "source": "spacenews",
+            "text": "Meink, Saltzman make case for Space Force expansion ",
+            "source_link": "https://spacenews.com/meink-saltzman-make-case-for-space-force-expansion/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-24T01:09:06.055539Z",
+            "shown_at": [
+                "2026-02-24T01:09:07.115738Z"
+            ]
+        },
         {
             "id": "ce820bf6df2d8d19730c0d1c0376c08f",
             "source": "spacenews",
@@ -8737,274 +8847,6 @@
                 "2025-10-14T22:37:19.216317Z",
                 "2025-10-15T08:31:56.264668Z",
                 "2025-10-19T09:05:37.788056Z"
-            ]
-        },
-        {
-            "id": "7d721bd0cc18a6fb15209987ba77e1e3",
-            "source": "spacenews",
-            "text": "Surprise Chinese launch sends Shiyan-31 experimental satellite into orbit",
-            "source_link": "https://spacenews.com/surprise-chinese-launch-sends-shiyan-31-experimental-satellite-into-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-13T21:49:05.036926Z",
-            "shown_at": [
-                "2025-10-13T21:49:05.672275Z",
-                "2025-10-15T09:17:53.985651Z",
-                "2025-10-15T19:09:27.826539Z",
-                "2025-10-15T20:07:49.934607Z",
-                "2025-10-16T02:57:57.706451Z",
-                "2025-10-16T18:27:57.181837Z",
-                "2025-10-18T13:54:02.146522Z",
-                "2025-10-18T21:35:52.417138Z",
-                "2025-10-19T06:03:54.771265Z",
-                "2025-10-20T05:49:37.602288Z"
-            ]
-        },
-        {
-            "id": "bae2fc9164af17a1b3b0637c9a5dcc77",
-            "source": "spacenews",
-            "text": "More layoffs at JPL",
-            "source_link": "https://spacenews.com/more-layoffs-at-jpl/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-13T18:51:25.388919Z",
-            "shown_at": [
-                "2025-10-13T18:51:26.026368Z",
-                "2025-10-17T01:35:50.052753Z"
-            ]
-        },
-        {
-            "id": "85dda2d876ab9a3ff099f45a5cb30a76",
-            "source": "spacenews",
-            "text": "World Space Week Ends With A Big Announcement",
-            "source_link": "https://spacenews.com/world-space-week-ends-wits-a-big-announcement/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-13T14:27:45.050139Z",
-            "shown_at": [
-                "2025-10-13T14:27:45.756668Z",
-                "2025-10-13T16:29:54.035116Z",
-                "2025-10-14T18:37:44.828766Z"
-            ]
-        },
-        {
-            "id": "07ccd337dd3aed88c9ac14fa788ae044",
-            "source": "spacenews",
-            "text": "Special economic zones for restoring American space dominance",
-            "source_link": "https://spacenews.com/special-economic-zones-for-restoring-american-space-dominance/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-13T13:13:45.037396Z",
-            "shown_at": [
-                "2025-10-13T13:13:45.690941Z",
-                "2025-10-14T04:35:50.644331Z",
-                "2025-10-15T04:47:25.925843Z",
-                "2025-10-15T06:19:52.548753Z",
-                "2025-10-15T22:07:43.369067Z",
-                "2025-10-17T17:29:33.323346Z",
-                "2025-10-18T12:55:48.379032Z",
-                "2025-10-18T15:47:46.374498Z"
-            ]
-        },
-        {
-            "id": "e33bce89db8dbeb455749cf0c0721e50",
-            "source": "spacenews",
-            "text": "Momentus and Solstar to offer communications, transportation and infrastructure in low-Earth orbit",
-            "source_link": "https://spacenews.com/momentus-and-solstar-to-offer-communications-transportation-and-infrastructure-in-low-earth-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-13T12:43:27.663530Z",
-            "shown_at": [
-                "2025-10-13T12:43:28.196344Z",
-                "2025-10-15T15:27:49.598003Z",
-                "2025-10-16T12:05:46.820055Z",
-                "2025-10-16T16:31:33.886204Z",
-                "2025-10-16T22:49:49.221605Z",
-                "2025-10-17T20:25:49.596977Z",
-                "2025-10-18T17:43:52.638468Z",
-                "2025-10-18T22:32:17.865093Z",
-                "2025-10-19T21:47:37.432408Z"
-            ]
-        },
-        {
-            "id": "d22916b4e40d2dcfe190412b7a4d39cd",
-            "source": "spacenews",
-            "text": "JAXA to launch tech demo satellites on Electron rockets",
-            "source_link": "https://spacenews.com/jaxa-to-launch-tech-demo-satellites-on-electron-rockets/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-13T11:59:17.488268Z",
-            "shown_at": [
-                "2025-10-13T11:59:17.926096Z",
-                "2025-10-13T18:23:56.837583Z",
-                "2025-10-13T19:53:56.963802Z",
-                "2025-10-13T22:55:40.233985Z",
-                "2025-10-15T16:11:59.279415Z",
-                "2025-10-16T07:09:55.712199Z",
-                "2025-10-16T14:05:56.810831Z",
-                "2025-10-18T20:37:50.116422Z",
-                "2025-10-20T01:51:30.851878Z"
-            ]
-        },
-        {
-            "id": "c8acbd263ae22b6502c383bea44d6eb8",
-            "source": "spacenews",
-            "text": "SpaceX prepares for next Starship test flight",
-            "source_link": "https://spacenews.com/spacex-prepares-for-next-starship-test-flight/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-13T00:23:37.718134Z",
-            "shown_at": [
-                "2025-10-13T00:23:38.405683Z",
-                "2025-10-13T20:52:04.039316Z",
-                "2025-10-14T00:44:04.376192Z",
-                "2025-10-15T21:03:53.880325Z",
-                "2025-10-18T00:17:53.216173Z",
-                "2025-10-19T12:00:04.495066Z"
-            ]
-        },
-        {
-            "id": "b6e7f08b6410c82c3afa9744f8786f3e",
-            "source": "spacenews",
-            "text": "French space defense startup Dark ceases operations",
-            "source_link": "https://spacenews.com/french-space-defense-startup-dark-ceases-operations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-11T21:27:51.286281Z",
-            "shown_at": [
-                "2025-10-11T21:27:51.916119Z",
-                "2025-10-12T22:13:55.045660Z",
-                "2025-10-13T04:23:42.652590Z",
-                "2025-10-16T09:14:05.455349Z",
-                "2025-10-18T01:19:51.314671Z",
-                "2025-10-18T08:07:52.668490Z",
-                "2025-10-18T16:45:40.931605Z"
-            ]
-        },
-        {
-            "id": "11768acac4273c7a6e722e1254304a6b",
-            "source": "spacenews",
-            "text": "Huge commercial Chinese solid rocket launches 3 satellites from barge in the Yellow Sea",
-            "source_link": "https://spacenews.com/huge-commercial-chinese-solid-rocket-launches-3-satellites-from-barge-in-the-yellow-sea/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-11T14:41:23.042531Z",
-            "shown_at": [
-                "2025-10-11T14:41:23.664522Z",
-                "2025-10-11T18:39:27.240821Z",
-                "2025-10-14T20:37:25.978402Z",
-                "2025-10-17T03:37:39.543099Z",
-                "2025-10-18T05:11:53.089329Z"
-            ]
-        },
-        {
-            "id": "412f02e403c11dd13aa05e03ed70d8f9",
-            "source": "spacenews",
-            "text": "Meink, Saltzman make case for Space Force expansion ",
-            "source_link": "https://spacenews.com/meink-saltzman-make-case-for-space-force-expansion/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-24T01:09:06.055539Z",
-            "shown_at": [
-                "2026-02-24T01:09:07.115738Z"
-            ]
-        },
-        {
-            "id": "7c1cece3f28e29739aeacd749f38ab70",
-            "source": "spacenews",
-            "text": "Boeing demonstrates large language model for space-grade hardware",
-            "source_link": "https://spacenews.com/boeing-demonstrates-large-language-model-for-space-grade-hardware/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-24T02:19:09.189021Z",
-            "shown_at": [
-                "2026-02-24T02:19:09.941024Z",
-                "2026-02-24T09:24:16.592368Z"
-            ]
-        },
-        {
-            "id": "36892e6074f799b8f3873ed74bcacd82",
-            "source": "spacenews",
-            "text": "Sophia Space claims $10 million in seed round",
-            "source_link": "https://spacenews.com/sophia-space-claims-10-million-in-seed-round/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-24T12:19:28.307341Z",
-            "shown_at": [
-                "2026-02-24T12:19:29.494185Z"
-            ]
-        },
-        {
-            "id": "622d36c3f21e140d551b0166ba81c2fa",
-            "source": "nyt",
-            "text": "Norway’s Century-Long Watch on the Northern Lights",
-            "source_link": "https://www.nytimes.com/2026/02/24/science/norway-auroras-northern-lights-observatory.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-24T12:54:33.603107Z",
-            "shown_at": [
-                "2026-02-24T12:54:34.882724Z"
-            ]
-        },
-        {
-            "id": "0ec449eb406b4e0954dd76f6947a2136",
-            "source": "spacenews",
-            "text": "The Commercial Space Federation Releases New White Paper “Perfecting Public-Private Partnerships”",
-            "source_link": "https://spacenews.com/the-commercial-space-federation-releases-new-white-paper-perfecting-public-private-partnerships/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-24T14:04:40.026354Z",
-            "shown_at": [
-                "2026-02-24T14:04:41.032317Z",
-                "2026-02-24T19:19:18.105757Z"
-            ]
-        },
-        {
-            "id": "b782a70835c459f1a2b5ce3c0b70fb3e",
-            "source": "spacenews",
-            "text": "At Colorado space firms, Hegseth casts Pentagon bureaucracy as the enemy",
-            "source_link": "https://spacenews.com/at-colorado-space-firms-hegseth-casts-pentagon-bureaucracy-as-the-enemy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-24T14:04:40.026422Z",
-            "shown_at": [
-                "2026-02-24T14:39:53.014738Z"
-            ]
-        },
-        {
-            "id": "c0dae3f404bba5b2c380e55a4e6b33d3",
-            "source": "spacenews",
-            "text": "LambdaVision books space on Starlab commercial space station",
-            "source_link": "https://spacenews.com/lambdavision-books-space-on-starlab-commercial-space-station/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-24T14:04:40.026469Z",
-            "shown_at": [
-                "2026-02-24T15:35:12.446625Z"
-            ]
-        },
-        {
-            "id": "bde58179637fcd78ad096a0f596ece09",
-            "source": "spacenews",
-            "text": "Lockheed Martin presses case that GPS upgrade will counter jamming threats",
-            "source_link": "https://spacenews.com/lockheed-martin-presses-case-that-gps-upgrade-will-counter-jamming-threats/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-24T17:34:28.282602Z",
-            "shown_at": [
-                "2026-02-24T17:34:29.341840Z"
-            ]
-        },
-        {
-            "id": "15c532cddcf775e6b66f926a6ec1a122",
-            "source": "spacenews",
-            "text": "A banner year for military space funding— with an unclear path beyond",
-            "source_link": "https://spacenews.com/a-banner-year-for-military-space-funding-with-an-unclear-path-beyond/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-24T23:24:17.155589Z",
-            "shown_at": [
-                "2026-02-24T23:24:18.335045Z"
             ]
         }
     ]
