@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-25T00:04:44.546688+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2ae82ef6ec1f160fa1c5dc8e9789edf4",
+    "trigger_count": 0,
+    "current_item_id": "0a33257970a366433e8097fb86d20217",
     "data": [
         {
             "id": "15c532cddcf775e6b66f926a6ec1a122",
@@ -8882,9 +8882,12 @@
             "source": "spacenews",
             "text": "OQ Technology secures $30 million from Europe for satellite-to-smartphone expansion",
             "source_link": "https://spacenews.com/oq-technology-secures-30-million-from-europe-for-satellite-to-smartphone-expansion/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-02-25T11:49:14.178224Z"
+            "fetched_datetime": "2026-02-25T11:49:14.178224Z",
+            "shown_at": [
+                "2026-02-25T12:24:42.208652Z"
+            ]
         }
     ]
 }
