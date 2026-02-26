@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-26T00:04:26.062501+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1e609b72e3003b5121cd130cb1c15f9b",
+    "trigger_count": 0,
+    "current_item_id": "94342f5d13a96211217d1b72aceea034",
     "data": [
         {
             "id": "b46392beffd1a6c3386da5fbe7f84c67",
@@ -8893,9 +8893,12 @@
             "source": "spacenews",
             "text": "Sierra Space names Dan Jablonsky CEO",
             "source_link": "https://spacenews.com/sierra-space-names-dan-jablonsky-ceo/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-02-26T19:30:10.686700Z"
+            "fetched_datetime": "2026-02-26T19:30:10.686700Z",
+            "shown_at": [
+                "2026-02-26T21:14:28.665597Z"
+            ]
         },
         {
             "id": "f421de19505a7a48653389d75f4df7e9",
