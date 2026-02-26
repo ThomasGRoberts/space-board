@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 16 | 4 | 18 |
-| nyt | 0 | 0 | 4 | 15 |
+| nyt | 1 | 1 | 5 | 16 |
 | breaking_defense | 0 | 0 | 0 | 12 |
 
 # Shown Order
@@ -3369,3 +3369,4 @@
 - **Feb 25, 11:05 PM** - At Colorado space firms, Hegseth casts Pentagon bureaucracy as the enemy (spacenews)
 - **Feb 25, 11:39 PM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
 - **Feb 26, 07:30 PM** - Airbus and Leonardo report increased space revenues for 2025 (spacenews)
+- **Feb 26, 08:04 PM** - Sorry, SpaceX: It’s Getting Too Crowded Up There (nyt)

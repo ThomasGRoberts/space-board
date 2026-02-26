@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-26T00:04:26.062501+00:00",
-    "trigger_count": 6,
-    "current_item_id": "359adf438d7a679856540e2fca1ef495",
+    "trigger_count": 0,
+    "current_item_id": "02b1f44e713758491e6fe42e88e23857",
     "data": [
         {
             "id": "b46392beffd1a6c3386da5fbe7f84c67",
@@ -8956,6 +8956,18 @@
             "shown": false,
             "type": "news",
             "fetched_datetime": "2026-02-26T19:30:10.686961Z"
+        },
+        {
+            "id": "02b1f44e713758491e6fe42e88e23857",
+            "source": "nyt",
+            "text": "Sorry, SpaceX: It’s Getting Too Crowded Up There",
+            "source_link": "https://www.nytimes.com/2026/02/26/climate/spacex-climate-musk-orbiting-data-centers.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-26T20:04:39.906407Z",
+            "shown_at": [
+                "2026-02-26T20:04:41.033857Z"
+            ]
         }
     ]
 }
