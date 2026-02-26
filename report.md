@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 16 | 4 | 18 |
+| spacenews | 11 | 16 | 5 | 19 |
 | nyt | 1 | 1 | 4 | 16 |
 | breaking_defense | 0 | 0 | 0 | 11 |
 
@@ -3370,3 +3370,4 @@
 - **Feb 25, 11:39 PM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
 - **Feb 26, 07:30 PM** - Airbus and Leonardo report increased space revenues for 2025 (spacenews)
 - **Feb 26, 08:04 PM** - Sorry, SpaceX: It’s Getting Too Crowded Up There (nyt)
+- **Feb 26, 08:39 PM** - NordSpace founder backs Wyvern with new Canada-focused venture arm (spacenews)

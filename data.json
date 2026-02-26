@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-26T00:04:26.062501+00:00",
-    "trigger_count": 6,
-    "current_item_id": "02b1f44e713758491e6fe42e88e23857",
+    "trigger_count": 0,
+    "current_item_id": "1e609b72e3003b5121cd130cb1c15f9b",
     "data": [
         {
             "id": "b46392beffd1a6c3386da5fbe7f84c67",
@@ -8881,9 +8881,12 @@
             "source": "spacenews",
             "text": "NordSpace founder backs Wyvern with new Canada-focused venture arm",
             "source_link": "https://spacenews.com/nordspace-founder-backs-wyvern-with-new-canada-focused-venture-arm/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-02-26T19:30:10.686652Z"
+            "fetched_datetime": "2026-02-26T19:30:10.686652Z",
+            "shown_at": [
+                "2026-02-26T20:39:16.497330Z"
+            ]
         },
         {
             "id": "94342f5d13a96211217d1b72aceea034",
