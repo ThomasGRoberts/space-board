@@ -1,9 +1,69 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-02-25T00:04:44.546688+00:00",
-    "trigger_count": 4,
+    "last_run_datetime": "2026-02-26T00:04:26.062501+00:00",
+    "trigger_count": 5,
     "current_item_id": "18cbd7788400c9493a4b7b04cc252a5e",
     "data": [
+        {
+            "id": "b46392beffd1a6c3386da5fbe7f84c67",
+            "source": "spacenews",
+            "text": "Golden Dome to require unprecedented coordination between U.S. combatant commands",
+            "source_link": "https://spacenews.com/golden-dome-to-require-unprecedented-coordination-between-u-s-combatant-commands/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-25T21:54:45.771693Z",
+            "shown_at": [
+                "2026-02-25T21:54:46.994956Z"
+            ]
+        },
+        {
+            "id": "1c53eb35e9c89f4ca3d601bae770ba30",
+            "source": "spacenews",
+            "text": "Valve malfunction blamed for failure of Indian satellite to raise its orbit",
+            "source_link": "https://spacenews.com/valve-malfunction-blamed-for-failure-of-indian-satellite-to-raise-its-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-25T18:54:27.014721Z",
+            "shown_at": [
+                "2026-02-25T18:54:28.171657Z"
+            ]
+        },
+        {
+            "id": "e1ec71e30738a6eb13e30a84f1315f12",
+            "source": "spacenews",
+            "text": "The future of astronomy is both on Earth and in space",
+            "source_link": "https://spacenews.com/the-future-of-astronomy-is-both-on-earth-and-in-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-25T15:24:27.542421Z",
+            "shown_at": [
+                "2026-02-25T15:24:28.525565Z"
+            ]
+        },
+        {
+            "id": "0a33257970a366433e8097fb86d20217",
+            "source": "spacenews",
+            "text": "OQ Technology secures $30 million from Europe for satellite-to-smartphone expansion",
+            "source_link": "https://spacenews.com/oq-technology-secures-30-million-from-europe-for-satellite-to-smartphone-expansion/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-25T11:49:14.178224Z",
+            "shown_at": [
+                "2026-02-25T12:24:42.208652Z"
+            ]
+        },
+        {
+            "id": "2ae82ef6ec1f160fa1c5dc8e9789edf4",
+            "source": "spacenews",
+            "text": "In space traffic coordination, the biggest challenge may be coordination",
+            "source_link": "https://spacenews.com/in-space-traffic-coordination-the-biggest-challenge-may-be-coordination/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-25T11:49:14.178155Z",
+            "shown_at": [
+                "2026-02-25T11:49:15.133200Z"
+            ]
+        },
         {
             "id": "15c532cddcf775e6b66f926a6ec1a122",
             "source": "spacenews",
@@ -8802,143 +8862,6 @@
                 "2025-10-16T00:17:45.979052Z",
                 "2025-10-17T04:47:51.719461Z",
                 "2025-10-19T15:15:51.759016Z"
-            ]
-        },
-        {
-            "id": "5b2aa8a9c454ad1ffbc55dd22e5a7707",
-            "source": "spacenews",
-            "text": "The Mars moment: Why now is the time to build the future ",
-            "source_link": "https://spacenews.com/the-mars-moment-why-now-is-the-time-to-build-the-future/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-14T13:08:05.216659Z",
-            "shown_at": [
-                "2025-10-14T13:08:06.133886Z",
-                "2025-10-15T05:35:49.998730Z",
-                "2025-10-16T01:15:55.425270Z",
-                "2025-10-19T03:29:47.379463Z",
-                "2025-10-19T05:07:47.947953Z"
-            ]
-        },
-        {
-            "id": "298e2f435c179a292dd2086739bb223e",
-            "source": "spacenews",
-            "text": "Space Pioneer raises $350 million as China’s commercial launch boom accelerates",
-            "source_link": "https://spacenews.com/space-pioneer-raises-350-million-as-chinas-commercial-launch-boom-accelerates/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-14T11:54:04.032997Z",
-            "shown_at": [
-                "2025-10-14T11:54:05.502873Z",
-                "2025-10-17T02:37:52.831480Z",
-                "2025-10-17T12:46:27.701701Z",
-                "2025-10-18T14:51:37.472217Z",
-                "2025-10-18T19:41:47.765575Z"
-            ]
-        },
-        {
-            "id": "30bcb385c1fc05c58e7d871d8658cf24",
-            "source": "spacenews",
-            "text": "Announcing the finalists for the 2025 SpaceNews Icon Awards",
-            "source_link": "https://spacenews.com/announcing-the-finalists-for-the-2025-spacenews-icon-awards/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-14T11:20:06.605718Z",
-            "shown_at": [
-                "2025-10-14T11:35:53.422888Z",
-                "2025-10-16T06:11:56.398476Z",
-                "2025-10-16T17:30:08.193379Z"
-            ]
-        },
-        {
-            "id": "49a10d4953d72f907296dbc14f03a7c7",
-            "source": "spacenews",
-            "text": "SmallSat Education Conference Aerospace Education Event for Educators, Parents, and Students (Middle School, High School, College)",
-            "source_link": "https://spacenews.com/smallsat-education-conference-aerospace-education-event-for-educators-parents-and-students-middle-school-high-school-college/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-14T11:20:06.605664Z",
-            "shown_at": [
-                "2025-10-14T11:20:07.861630Z",
-                "2025-10-16T05:13:55.662177Z",
-                "2025-10-19T01:31:41.708702Z",
-                "2025-10-20T12:13:53.488922Z",
-                "2025-10-20T22:57:37.754835Z"
-            ]
-        },
-        {
-            "id": "50abd32b6eaaf7a7c262a5434e15d883",
-            "source": "spacenews",
-            "text": "Starship successfully completes 11th flight test",
-            "source_link": "https://spacenews.com/starship-successfully-completes-11th-flight-test/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-14T00:57:43.624487Z",
-            "shown_at": [
-                "2025-10-14T00:57:44.138006Z",
-                "2025-10-14T22:37:19.216317Z",
-                "2025-10-15T08:31:56.264668Z",
-                "2025-10-19T09:05:37.788056Z"
-            ]
-        },
-        {
-            "id": "2ae82ef6ec1f160fa1c5dc8e9789edf4",
-            "source": "spacenews",
-            "text": "In space traffic coordination, the biggest challenge may be coordination",
-            "source_link": "https://spacenews.com/in-space-traffic-coordination-the-biggest-challenge-may-be-coordination/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-25T11:49:14.178155Z",
-            "shown_at": [
-                "2026-02-25T11:49:15.133200Z"
-            ]
-        },
-        {
-            "id": "0a33257970a366433e8097fb86d20217",
-            "source": "spacenews",
-            "text": "OQ Technology secures $30 million from Europe for satellite-to-smartphone expansion",
-            "source_link": "https://spacenews.com/oq-technology-secures-30-million-from-europe-for-satellite-to-smartphone-expansion/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-25T11:49:14.178224Z",
-            "shown_at": [
-                "2026-02-25T12:24:42.208652Z"
-            ]
-        },
-        {
-            "id": "e1ec71e30738a6eb13e30a84f1315f12",
-            "source": "spacenews",
-            "text": "The future of astronomy is both on Earth and in space",
-            "source_link": "https://spacenews.com/the-future-of-astronomy-is-both-on-earth-and-in-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-25T15:24:27.542421Z",
-            "shown_at": [
-                "2026-02-25T15:24:28.525565Z"
-            ]
-        },
-        {
-            "id": "1c53eb35e9c89f4ca3d601bae770ba30",
-            "source": "spacenews",
-            "text": "Valve malfunction blamed for failure of Indian satellite to raise its orbit",
-            "source_link": "https://spacenews.com/valve-malfunction-blamed-for-failure-of-indian-satellite-to-raise-its-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-25T18:54:27.014721Z",
-            "shown_at": [
-                "2026-02-25T18:54:28.171657Z"
-            ]
-        },
-        {
-            "id": "b46392beffd1a6c3386da5fbe7f84c67",
-            "source": "spacenews",
-            "text": "Golden Dome to require unprecedented coordination between U.S. combatant commands",
-            "source_link": "https://spacenews.com/golden-dome-to-require-unprecedented-coordination-between-u-s-combatant-commands/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-25T21:54:45.771693Z",
-            "shown_at": [
-                "2026-02-25T21:54:46.994956Z"
             ]
         }
     ]
