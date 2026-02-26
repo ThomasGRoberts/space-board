@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 16 | 5 | 20 |
-| nyt | 1 | 1 | 3 | 15 |
+| spacenews | 10 | 16 | 6 | 21 |
+| nyt | 1 | 1 | 2 | 15 |
 | breaking_defense | 0 | 0 | 0 | 10 |
 
 # Shown Order
@@ -3373,3 +3373,4 @@
 - **Feb 26, 08:39 PM** - NordSpace founder backs Wyvern with new Canada-focused venture arm (spacenews)
 - **Feb 26, 09:14 PM** - Sierra Space names Dan Jablonsky CEO (spacenews)
 - **Feb 26, 09:49 PM** - CesiumAstro acquires Vidrovr to embed AI in communications systems (spacenews)
+- **Feb 26, 10:29 PM** - Phantom Space reclaims former Vector launch technology (spacenews)

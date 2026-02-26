@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-26T00:04:26.062501+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f421de19505a7a48653389d75f4df7e9",
+    "trigger_count": 0,
+    "current_item_id": "343b0dae314c758b554a9ecc0fea425b",
     "data": [
         {
             "id": "b46392beffd1a6c3386da5fbe7f84c67",
@@ -8917,9 +8917,12 @@
             "source": "spacenews",
             "text": "Phantom Space reclaims former Vector launch technology",
             "source_link": "https://spacenews.com/phantom-space-reclaims-former-vector-launch-technology/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-02-26T19:30:10.686781Z"
+            "fetched_datetime": "2026-02-26T19:30:10.686781Z",
+            "shown_at": [
+                "2026-02-26T22:29:40.193295Z"
+            ]
         },
         {
             "id": "a92e8c608b8b81f6f69ebb01b5658e76",
