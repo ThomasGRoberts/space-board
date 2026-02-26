@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-26T00:04:26.062501+00:00",
-    "trigger_count": 6,
-    "current_item_id": "343b0dae314c758b554a9ecc0fea425b",
+    "trigger_count": 0,
+    "current_item_id": "a92e8c608b8b81f6f69ebb01b5658e76",
     "data": [
         {
             "id": "b46392beffd1a6c3386da5fbe7f84c67",
@@ -8929,9 +8929,12 @@
             "source": "spacenews",
             "text": "NASA astronaut says his medical issue led to early return from the ISS",
             "source_link": "https://spacenews.com/nasa-astronaut-says-his-medical-issue-led-to-early-return-from-the-iss/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-02-26T19:30:10.686818Z"
+            "fetched_datetime": "2026-02-26T19:30:10.686818Z",
+            "shown_at": [
+                "2026-02-26T23:04:49.503478Z"
+            ]
         },
         {
             "id": "ead36c060eba5fb8c00514cdafd84612",
