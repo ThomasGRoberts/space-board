@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-26T00:04:26.062501+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a92e8c608b8b81f6f69ebb01b5658e76",
+    "trigger_count": 0,
+    "current_item_id": "ead36c060eba5fb8c00514cdafd84612",
     "data": [
         {
             "id": "b46392beffd1a6c3386da5fbe7f84c67",
@@ -8941,9 +8941,12 @@
             "source": "spacenews",
             "text": "China’s Tianwen-2 probe operating normally on approach to asteroid",
             "source_link": "https://spacenews.com/chinas-tianwen-2-probe-operating-normally-on-approach-to-asteroid/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-02-26T19:30:10.686855Z"
+            "fetched_datetime": "2026-02-26T19:30:10.686855Z",
+            "shown_at": [
+                "2026-02-26T23:39:13.992717Z"
+            ]
         },
         {
             "id": "e35208d01a68ccdbb8c5ba3c3a93b380",

@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 15 | 6 | 20 |
+| spacenews | 10 | 15 | 7 | 21 |
 | nyt | 1 | 1 | 2 | 15 |
 | breaking_defense | 0 | 0 | 0 | 10 |
 
@@ -3375,3 +3375,4 @@
 - **Feb 26, 09:49 PM** - CesiumAstro acquires Vidrovr to embed AI in communications systems (spacenews)
 - **Feb 26, 10:29 PM** - Phantom Space reclaims former Vector launch technology (spacenews)
 - **Feb 26, 11:04 PM** - NASA astronaut says his medical issue led to early return from the ISS (spacenews)
+- **Feb 26, 11:39 PM** - China’s Tianwen-2 probe operating normally on approach to asteroid (spacenews)
