@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-26T00:04:26.062501+00:00",
-    "trigger_count": 6,
-    "current_item_id": "94342f5d13a96211217d1b72aceea034",
+    "trigger_count": 0,
+    "current_item_id": "f421de19505a7a48653389d75f4df7e9",
     "data": [
         {
             "id": "b46392beffd1a6c3386da5fbe7f84c67",
@@ -8905,9 +8905,12 @@
             "source": "spacenews",
             "text": "CesiumAstro acquires Vidrovr to embed AI in communications systems",
             "source_link": "https://spacenews.com/cesiumastro-acquires-vidrovr-to-embed-ai-in-communications-systems/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-02-26T19:30:10.686741Z"
+            "fetched_datetime": "2026-02-26T19:30:10.686741Z",
+            "shown_at": [
+                "2026-02-26T21:49:12.202701Z"
+            ]
         },
         {
             "id": "343b0dae314c758b554a9ecc0fea425b",

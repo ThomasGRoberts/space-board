@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 16 | 5 | 19 |
+| spacenews | 11 | 16 | 6 | 20 |
 | nyt | 1 | 1 | 3 | 15 |
 | breaking_defense | 0 | 0 | 0 | 11 |
 
@@ -3372,3 +3372,4 @@
 - **Feb 26, 08:04 PM** - Sorry, SpaceX: It’s Getting Too Crowded Up There (nyt)
 - **Feb 26, 08:39 PM** - NordSpace founder backs Wyvern with new Canada-focused venture arm (spacenews)
 - **Feb 26, 09:14 PM** - Sierra Space names Dan Jablonsky CEO (spacenews)
+- **Feb 26, 09:49 PM** - CesiumAstro acquires Vidrovr to embed AI in communications systems (spacenews)
