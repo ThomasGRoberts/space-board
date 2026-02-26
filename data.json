@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-26T00:04:26.062501+00:00",
-    "trigger_count": 6,
-    "current_item_id": "18cbd7788400c9493a4b7b04cc252a5e",
+    "trigger_count": 0,
+    "current_item_id": "359adf438d7a679856540e2fca1ef495",
     "data": [
         {
             "id": "b46392beffd1a6c3386da5fbe7f84c67",
@@ -8863,6 +8863,99 @@
                 "2025-10-17T04:47:51.719461Z",
                 "2025-10-19T15:15:51.759016Z"
             ]
+        },
+        {
+            "id": "359adf438d7a679856540e2fca1ef495",
+            "source": "spacenews",
+            "text": "Airbus and Leonardo report increased space revenues for 2025",
+            "source_link": "https://spacenews.com/airbus-and-leonardo-report-increased-space-revenues-for-2025/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-26T19:30:10.686576Z",
+            "shown_at": [
+                "2026-02-26T19:30:11.838780Z"
+            ]
+        },
+        {
+            "id": "1e609b72e3003b5121cd130cb1c15f9b",
+            "source": "spacenews",
+            "text": "NordSpace founder backs Wyvern with new Canada-focused venture arm",
+            "source_link": "https://spacenews.com/nordspace-founder-backs-wyvern-with-new-canada-focused-venture-arm/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-02-26T19:30:10.686652Z"
+        },
+        {
+            "id": "94342f5d13a96211217d1b72aceea034",
+            "source": "spacenews",
+            "text": "Sierra Space names Dan Jablonsky CEO",
+            "source_link": "https://spacenews.com/sierra-space-names-dan-jablonsky-ceo/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-02-26T19:30:10.686700Z"
+        },
+        {
+            "id": "f421de19505a7a48653389d75f4df7e9",
+            "source": "spacenews",
+            "text": "CesiumAstro acquires Vidrovr to embed AI in communications systems",
+            "source_link": "https://spacenews.com/cesiumastro-acquires-vidrovr-to-embed-ai-in-communications-systems/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-02-26T19:30:10.686741Z"
+        },
+        {
+            "id": "343b0dae314c758b554a9ecc0fea425b",
+            "source": "spacenews",
+            "text": "Phantom Space reclaims former Vector launch technology",
+            "source_link": "https://spacenews.com/phantom-space-reclaims-former-vector-launch-technology/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-02-26T19:30:10.686781Z"
+        },
+        {
+            "id": "a92e8c608b8b81f6f69ebb01b5658e76",
+            "source": "spacenews",
+            "text": "NASA astronaut says his medical issue led to early return from the ISS",
+            "source_link": "https://spacenews.com/nasa-astronaut-says-his-medical-issue-led-to-early-return-from-the-iss/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-02-26T19:30:10.686818Z"
+        },
+        {
+            "id": "ead36c060eba5fb8c00514cdafd84612",
+            "source": "spacenews",
+            "text": "China’s Tianwen-2 probe operating normally on approach to asteroid",
+            "source_link": "https://spacenews.com/chinas-tianwen-2-probe-operating-normally-on-approach-to-asteroid/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-02-26T19:30:10.686855Z"
+        },
+        {
+            "id": "e35208d01a68ccdbb8c5ba3c3a93b380",
+            "source": "spacenews",
+            "text": "Bowersox to retire from NASA",
+            "source_link": "https://spacenews.com/bowersox-to-retire-from-nasa/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-02-26T19:30:10.686890Z"
+        },
+        {
+            "id": "03ae23297f72dc41a2f3621aee45b741",
+            "source": "spacenews",
+            "text": "Space Force halts Vulcan missions pending investigation into solid rocket issue",
+            "source_link": "https://spacenews.com/space-force-halts-vulcan-missions-pending-investigation-into-solid-rocket-issue/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-02-26T19:30:10.686925Z"
+        },
+        {
+            "id": "7529c0d334fa4c9bd2ec7ecfe9eceb65",
+            "source": "spacenews",
+            "text": "Seraphim closes second early-stage space fund above $100 million target",
+            "source_link": "https://spacenews.com/seraphim-closes-second-early-stage-space-fund-above-100-million-target/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-02-26T19:30:10.686961Z"
         }
     ]
 }
