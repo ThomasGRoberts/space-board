@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 2 | 16 | 20 |
-| spacenews | 3 | 14 | 25 | 29 |
+| nyt | 2 | 3 | 17 | 21 |
+| spacenews | 3 | 14 | 24 | 29 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3206,3 +3206,4 @@
 - **Feb 27, 07:34 PM** - Re-framing orbital debris: from a statistical to dosage approach (spacenews)
 - **Feb 27, 08:09 PM** - NASA Aims for 2 Moon Landings in 2028 With New Artemis Schedule (nyt)
 - **Feb 27, 08:44 PM** - Momentus prepares to host 10 demonstration payloads on Vigoride 7 flight (spacenews)
+- **Feb 27, 09:19 PM** - NASA Shakes Up Artemis Schedule, Aiming for 2 Moon Landings in 2028 (nyt)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-27T00:04:48.115479+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f556cb6ff849b71441111b2b64eb392d",
+    "trigger_count": 0,
+    "current_item_id": "17e6c94914e94769ebd10b705058f481",
     "data": [
         {
             "id": "02b1f44e713758491e6fe42e88e23857",
@@ -8744,6 +8744,18 @@
             "shown_at": [
                 "2026-02-27T17:49:11.217822Z",
                 "2026-02-27T20:09:35.175414Z"
+            ]
+        },
+        {
+            "id": "17e6c94914e94769ebd10b705058f481",
+            "source": "nyt",
+            "text": "NASA Shakes Up Artemis Schedule, Aiming for 2 Moon Landings in 2028",
+            "source_link": "https://www.nytimes.com/2026/02/27/science/nasa-moon-landings-artemis-schedule.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-27T21:19:09.818794Z",
+            "shown_at": [
+                "2026-02-27T21:19:11.011765Z"
             ]
         }
     ]
