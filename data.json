@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-27T00:04:48.115479+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6f08f1f5de0ef2f51f0f12a6b2b969da",
+    "trigger_count": 0,
+    "current_item_id": "e69011f1c64f34e5be534db8a36ad254",
     "data": [
         {
             "id": "02b1f44e713758491e6fe42e88e23857",
@@ -8681,6 +8681,18 @@
                 "2025-10-22T03:37:38.432438Z",
                 "2025-10-22T06:51:56.723291Z",
                 "2025-10-23T08:20:09.765207Z"
+            ]
+        },
+        {
+            "id": "e69011f1c64f34e5be534db8a36ad254",
+            "source": "spacenews",
+            "text": "China set for its first one-year human spaceflight mission, confirms Pakistani astronaut flight",
+            "source_link": "https://spacenews.com/china-set-for-its-first-one-year-human-spaceflight-mission-confirms-pakistani-astronaut-flight/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-27T10:14:25.665512Z",
+            "shown_at": [
+                "2026-02-27T10:14:26.691779Z"
             ]
         }
     ]

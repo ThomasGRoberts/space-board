@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 8 | 16 |
-| spacenews | 10 | 15 | 17 | 26 |
+| spacenews | 11 | 16 | 18 | 27 |
 | breaking_defense | 0 | 0 | 0 | 5 |
 
 # Shown Order
@@ -3187,3 +3187,4 @@
 - **Feb 27, 08:29 AM** - Phantom Space reclaims former Vector launch technology (spacenews)
 - **Feb 27, 09:04 AM** - Problem With Artemis Rocket Will Delay NASA’s Moon Mission (nyt)
 - **Feb 27, 09:39 AM** - Re-framing orbital debris: from a statistical to dosage approach (spacenews)
+- **Feb 27, 10:14 AM** - China set for its first one-year human spaceflight mission, confirms Pakistani astronaut flight (spacenews)
