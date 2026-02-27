@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 1 | 13 |
+| nyt | 1 | 1 | 2 | 14 |
 | spacenews | 10 | 15 | 10 | 23 |
 | breaking_defense | 0 | 0 | 0 | 9 |
 
@@ -3173,3 +3173,4 @@
 - **Feb 27, 12:14 AM** - Seraphim closes second early-stage space fund above $100 million target (spacenews)
 - **Feb 27, 12:49 AM** - Space Force halts Vulcan missions pending investigation into solid rocket issue (spacenews)
 - **Feb 27, 01:24 AM** - Bowersox to retire from NASA (spacenews)
+- **Feb 27, 01:59 AM** - Trump Says He Will Release Files on Aliens and U.F.O.s (nyt)
