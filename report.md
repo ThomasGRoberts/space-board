@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 3 | 17 | 20 |
-| spacenews | 3 | 14 | 24 | 29 |
+| nyt | 3 | 4 | 18 | 21 |
+| spacenews | 3 | 14 | 23 | 29 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3207,3 +3207,4 @@
 - **Feb 27, 08:09 PM** - NASA Aims for 2 Moon Landings in 2028 With New Artemis Schedule (nyt)
 - **Feb 27, 08:44 PM** - Momentus prepares to host 10 demonstration payloads on Vigoride 7 flight (spacenews)
 - **Feb 27, 09:19 PM** - NASA Shakes Up Artemis Schedule, Aiming for 2 Moon Landings in 2028 (nyt)
+- **Feb 27, 09:54 PM** - Space X Wants to Launch 1 Million Satellites, but Is There Room?  (nyt)
