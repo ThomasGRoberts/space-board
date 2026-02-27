@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-27T00:04:48.115479+00:00",
-    "trigger_count": 6,
-    "current_item_id": "430e933a544830be5f5b04f20426f33b",
+    "trigger_count": 0,
+    "current_item_id": "29f336a4921168ff143edbb7f1944b48",
     "data": [
         {
             "id": "02b1f44e713758491e6fe42e88e23857",
@@ -8727,6 +8727,18 @@
             "fetched_datetime": "2026-02-27T15:29:09.329518Z",
             "shown_at": [
                 "2026-02-27T15:29:10.151526Z"
+            ]
+        },
+        {
+            "id": "29f336a4921168ff143edbb7f1944b48",
+            "source": "nyt",
+            "text": "NASA Aims for 2 Moon Landings in 2028 With New Artemis Schedule",
+            "source_link": "https://www.nytimes.com/2026/02/27/science/nasa-moon-landings-artemis-schedule.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-27T17:49:10.066502Z",
+            "shown_at": [
+                "2026-02-27T17:49:11.217822Z"
             ]
         }
     ]
