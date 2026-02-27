@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 9 | 17 |
-| spacenews | 11 | 16 | 18 | 27 |
+| spacenews | 11 | 16 | 19 | 28 |
 | breaking_defense | 0 | 0 | 0 | 4 |
 
 # Shown Order
@@ -3189,3 +3189,4 @@
 - **Feb 27, 09:39 AM** - Re-framing orbital debris: from a statistical to dosage approach (spacenews)
 - **Feb 27, 10:14 AM** - China set for its first one-year human spaceflight mission, confirms Pakistani astronaut flight (spacenews)
 - **Feb 27, 10:49 AM** - Sorry, SpaceX: It’s Getting Too Crowded Up There (nyt)
+- **Feb 27, 11:24 AM** - Lockheed Martin presses case that GPS upgrade will counter jamming threats (spacenews)
