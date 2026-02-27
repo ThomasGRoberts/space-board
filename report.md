@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 4 | 15 |
-| spacenews | 10 | 15 | 12 | 23 |
+| spacenews | 10 | 15 | 13 | 24 |
 | breaking_defense | 0 | 0 | 0 | 7 |
 
 # Shown Order
@@ -3178,3 +3178,4 @@
 - **Feb 27, 03:09 AM** - Problem With Artemis Rocket Will Delay NASA’s Moon Mission (nyt)
 - **Feb 27, 03:44 AM** - CesiumAstro acquires Vidrovr to embed AI in communications systems (spacenews)
 - **Feb 27, 04:19 AM** - Norway’s Century-Long Watch on the Northern Lights (nyt)
+- **Feb 27, 04:54 AM** - Space Force halts Vulcan missions pending investigation into solid rocket issue (spacenews)
