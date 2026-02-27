@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 11 | 17 |
+| nyt | 1 | 1 | 12 | 18 |
 | spacenews | 12 | 15 | 22 | 28 |
 | breaking_defense | 0 | 0 | 0 | 3 |
 
@@ -3195,3 +3195,4 @@
 - **Feb 27, 01:08 PM** - Rocket Lab delays Neutron debut to late 2026 (spacenews)
 - **Feb 27, 01:44 PM** - Norway’s Century-Long Watch on the Northern Lights (nyt)
 - **Feb 27, 02:19 PM** - Engineering Behind EarthDaily: Solving for Global Daily Coverage, Scientific Quality, and High-Spectral Diversity (spacenews)
+- **Feb 27, 02:54 PM** - Norway’s Century-Long Watch on the Northern Lights (nyt)
