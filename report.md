@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 4 | 18 | 20 |
+| nyt | 3 | 4 | 19 | 21 |
 | spacenews | 3 | 13 | 23 | 29 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -3209,3 +3209,4 @@
 - **Feb 27, 09:19 PM** - NASA Shakes Up Artemis Schedule, Aiming for 2 Moon Landings in 2028 (nyt)
 - **Feb 27, 09:54 PM** - Space X Wants to Launch 1 Million Satellites, but Is There Room?  (nyt)
 - **Feb 27, 10:29 PM** - Golden Dome to require unprecedented coordination between U.S. combatant commands (spacenews)
+- **Feb 27, 11:04 PM** - Norway’s Century-Long Watch on the Northern Lights (nyt)
