@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 8 | 16 |
+| nyt | 1 | 1 | 9 | 17 |
 | spacenews | 11 | 16 | 18 | 27 |
 | breaking_defense | 0 | 0 | 0 | 4 |
 
@@ -3188,3 +3188,4 @@
 - **Feb 27, 09:04 AM** - Problem With Artemis Rocket Will Delay NASA’s Moon Mission (nyt)
 - **Feb 27, 09:39 AM** - Re-framing orbital debris: from a statistical to dosage approach (spacenews)
 - **Feb 27, 10:14 AM** - China set for its first one-year human spaceflight mission, confirms Pakistani astronaut flight (spacenews)
+- **Feb 27, 10:49 AM** - Sorry, SpaceX: It’s Getting Too Crowded Up There (nyt)
