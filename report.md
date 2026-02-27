@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 9 | 17 |
+| nyt | 1 | 1 | 10 | 18 |
 | spacenews | 11 | 14 | 19 | 27 |
 | breaking_defense | 0 | 0 | 0 | 4 |
 
@@ -3190,3 +3190,4 @@
 - **Feb 27, 10:14 AM** - China set for its first one-year human spaceflight mission, confirms Pakistani astronaut flight (spacenews)
 - **Feb 27, 10:49 AM** - Sorry, SpaceX: It’s Getting Too Crowded Up There (nyt)
 - **Feb 27, 11:24 AM** - Lockheed Martin presses case that GPS upgrade will counter jamming threats (spacenews)
+- **Feb 27, 11:59 AM** - Norway’s Century-Long Watch on the Northern Lights (nyt)
