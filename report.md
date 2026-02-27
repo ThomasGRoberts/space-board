@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 16 | 20 |
+| nyt | 1 | 2 | 16 | 20 |
 | spacenews | 3 | 14 | 25 | 29 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -3204,3 +3204,4 @@
 - **Feb 27, 06:24 PM** - Israeli startup targets the economics of high-resolution Earth observation (spacenews)
 - **Feb 27, 06:59 PM** - Norway’s Century-Long Watch on the Northern Lights (nyt)
 - **Feb 27, 07:34 PM** - Re-framing orbital debris: from a statistical to dosage approach (spacenews)
+- **Feb 27, 08:09 PM** - NASA Aims for 2 Moon Landings in 2028 With New Artemis Schedule (nyt)
