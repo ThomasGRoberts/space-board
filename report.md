@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 11 | 18 |
-| spacenews | 12 | 15 | 21 | 27 |
+| spacenews | 12 | 15 | 22 | 28 |
 | breaking_defense | 0 | 0 | 0 | 3 |
 
 # Shown Order
@@ -3194,3 +3194,4 @@
 - **Feb 27, 12:34 PM** - Seraphim closes second early-stage space fund above $100 million target (spacenews)
 - **Feb 27, 01:08 PM** - Rocket Lab delays Neutron debut to late 2026 (spacenews)
 - **Feb 27, 01:44 PM** - Norway’s Century-Long Watch on the Northern Lights (nyt)
+- **Feb 27, 02:19 PM** - Engineering Behind EarthDaily: Solving for Global Daily Coverage, Scientific Quality, and High-Spectral Diversity (spacenews)
