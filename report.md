@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 12 | 18 |
-| spacenews | 12 | 15 | 22 | 28 |
+| spacenews | 13 | 15 | 23 | 28 |
 | breaking_defense | 0 | 0 | 0 | 3 |
 
 # Shown Order
@@ -3196,3 +3196,4 @@
 - **Feb 27, 01:44 PM** - Norway’s Century-Long Watch on the Northern Lights (nyt)
 - **Feb 27, 02:19 PM** - Engineering Behind EarthDaily: Solving for Global Daily Coverage, Scientific Quality, and High-Spectral Diversity (spacenews)
 - **Feb 27, 02:54 PM** - Norway’s Century-Long Watch on the Northern Lights (nyt)
+- **Feb 27, 03:29 PM** - NASA revises plans for future Artemis missions, cancels upgrades to SLS (spacenews)

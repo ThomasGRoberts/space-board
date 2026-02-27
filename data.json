@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-27T00:04:48.115479+00:00",
-    "trigger_count": 6,
-    "current_item_id": "622d36c3f21e140d551b0166ba81c2fa",
+    "trigger_count": 0,
+    "current_item_id": "f3a840866f57e6225986e2394ab10a32",
     "data": [
         {
             "id": "02b1f44e713758491e6fe42e88e23857",
@@ -8712,6 +8712,18 @@
             "fetched_datetime": "2026-02-27T13:08:53.911164Z",
             "shown_at": [
                 "2026-02-27T13:08:55.024216Z"
+            ]
+        },
+        {
+            "id": "f3a840866f57e6225986e2394ab10a32",
+            "source": "spacenews",
+            "text": "NASA revises plans for future Artemis missions, cancels upgrades to SLS",
+            "source_link": "https://spacenews.com/nasa-revises-plans-for-future-artemis-missions-cancels-upgrades-to-sls/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-27T15:29:09.329518Z",
+            "shown_at": [
+                "2026-02-27T15:29:10.151526Z"
             ]
         }
     ]
