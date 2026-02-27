@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 1 | 14 |
-| spacenews | 10 | 15 | 7 | 21 |
+| spacenews | 10 | 15 | 8 | 22 |
 | breaking_defense | 0 | 0 | 0 | 10 |
 
 # Shown Order
@@ -3170,3 +3170,4 @@
 - **Feb 26, 10:29 PM** - Phantom Space reclaims former Vector launch technology (spacenews)
 - **Feb 26, 11:04 PM** - NASA astronaut says his medical issue led to early return from the ISS (spacenews)
 - **Feb 26, 11:39 PM** - China’s Tianwen-2 probe operating normally on approach to asteroid (spacenews)
+- **Feb 27, 12:14 AM** - Seraphim closes second early-stage space fund above $100 million target (spacenews)
