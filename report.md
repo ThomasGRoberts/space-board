@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 13 | 18 |
-| spacenews | 13 | 15 | 24 | 29 |
+| nyt | 1 | 1 | 14 | 19 |
+| spacenews | 13 | 15 | 24 | 28 |
 | breaking_defense | 0 | 0 | 0 | 2 |
 
 # Shown Order
@@ -3199,3 +3199,4 @@
 - **Feb 27, 03:29 PM** - NASA revises plans for future Artemis missions, cancels upgrades to SLS (spacenews)
 - **Feb 27, 04:04 PM** - Problem With Artemis Rocket Will Delay NASA’s Moon Mission (nyt)
 - **Feb 27, 04:39 PM** - Bowersox to retire from NASA (spacenews)
+- **Feb 27, 05:14 PM** - Problem With Artemis Rocket Will Delay NASA’s Moon Mission (nyt)
