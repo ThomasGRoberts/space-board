@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 7 | 16 |
-| spacenews | 10 | 15 | 15 | 24 |
+| spacenews | 10 | 15 | 16 | 25 |
 | breaking_defense | 0 | 0 | 0 | 5 |
 
 # Shown Order
@@ -3184,3 +3184,4 @@
 - **Feb 27, 06:44 AM** - Sorry, SpaceX: It’s Getting Too Crowded Up There (nyt)
 - **Feb 27, 07:19 AM** - NASA preparing for Artemis 2 rollback to fix upper stage problem (spacenews)
 - **Feb 27, 07:54 AM** - Norway’s Century-Long Watch on the Northern Lights (nyt)
+- **Feb 27, 08:29 AM** - Phantom Space reclaims former Vector launch technology (spacenews)
