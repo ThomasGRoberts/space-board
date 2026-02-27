@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 15 | 20 |
-| spacenews | 13 | 15 | 24 | 28 |
+| nyt | 2 | 2 | 15 | 19 |
+| spacenews | 13 | 15 | 25 | 29 |
 | breaking_defense | 0 | 0 | 0 | 1 |
 
 # Shown Order
@@ -3201,3 +3201,4 @@
 - **Feb 27, 04:39 PM** - Bowersox to retire from NASA (spacenews)
 - **Feb 27, 05:14 PM** - Problem With Artemis Rocket Will Delay NASA’s Moon Mission (nyt)
 - **Feb 27, 05:49 PM** - NASA Aims for 2 Moon Landings in 2028 With New Artemis Schedule (nyt)
+- **Feb 27, 06:24 PM** - Israeli startup targets the economics of high-resolution Earth observation (spacenews)
