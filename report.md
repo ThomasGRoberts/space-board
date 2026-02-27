@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 5 | 15 |
-| spacenews | 10 | 15 | 13 | 24 |
+| spacenews | 10 | 15 | 14 | 25 |
 | breaking_defense | 0 | 0 | 0 | 6 |
 
 # Shown Order
@@ -3180,3 +3180,4 @@
 - **Feb 27, 04:19 AM** - Norway’s Century-Long Watch on the Northern Lights (nyt)
 - **Feb 27, 04:54 AM** - Space Force halts Vulcan missions pending investigation into solid rocket issue (spacenews)
 - **Feb 27, 05:29 AM** - Sorry, SpaceX: It’s Getting Too Crowded Up There (nyt)
+- **Feb 27, 06:09 AM** - At Colorado space firms, Hegseth casts Pentagon bureaucracy as the enemy (spacenews)
