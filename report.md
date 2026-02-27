@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 3 | 14 |
+| nyt | 1 | 1 | 4 | 15 |
 | spacenews | 10 | 15 | 12 | 24 |
 | breaking_defense | 0 | 0 | 0 | 7 |
 
@@ -3177,3 +3177,4 @@
 - **Feb 27, 02:34 AM** - Bruno says he joined Blue Origin to work on ‘urgent’ national security projects (spacenews)
 - **Feb 27, 03:09 AM** - Problem With Artemis Rocket Will Delay NASA’s Moon Mission (nyt)
 - **Feb 27, 03:44 AM** - CesiumAstro acquires Vidrovr to embed AI in communications systems (spacenews)
+- **Feb 27, 04:19 AM** - Norway’s Century-Long Watch on the Northern Lights (nyt)
