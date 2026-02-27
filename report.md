@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 5 | 15 |
+| nyt | 1 | 1 | 6 | 16 |
 | spacenews | 10 | 15 | 14 | 24 |
 | breaking_defense | 0 | 0 | 0 | 6 |
 
@@ -3181,3 +3181,4 @@
 - **Feb 27, 04:54 AM** - Space Force halts Vulcan missions pending investigation into solid rocket issue (spacenews)
 - **Feb 27, 05:29 AM** - Sorry, SpaceX: It’s Getting Too Crowded Up There (nyt)
 - **Feb 27, 06:09 AM** - At Colorado space firms, Hegseth casts Pentagon bureaucracy as the enemy (spacenews)
+- **Feb 27, 06:44 AM** - Sorry, SpaceX: It’s Getting Too Crowded Up There (nyt)
