@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-27T00:04:48.115479+00:00",
-    "trigger_count": 6,
-    "current_item_id": "03ae23297f72dc41a2f3621aee45b741",
+    "trigger_count": 0,
+    "current_item_id": "e35208d01a68ccdbb8c5ba3c3a93b380",
     "data": [
         {
             "id": "02b1f44e713758491e6fe42e88e23857",
@@ -45,9 +45,12 @@
             "source": "spacenews",
             "text": "Bowersox to retire from NASA",
             "source_link": "https://spacenews.com/bowersox-to-retire-from-nasa/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-02-26T19:30:10.686890Z"
+            "fetched_datetime": "2026-02-26T19:30:10.686890Z",
+            "shown_at": [
+                "2026-02-27T01:24:08.414199Z"
+            ]
         },
         {
             "id": "ead36c060eba5fb8c00514cdafd84612",
