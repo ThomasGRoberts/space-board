@@ -1,9 +1,132 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-02-26T00:04:26.062501+00:00",
-    "trigger_count": 4,
+    "last_run_datetime": "2026-02-27T00:04:48.115479+00:00",
+    "trigger_count": 5,
     "current_item_id": "ead36c060eba5fb8c00514cdafd84612",
     "data": [
+        {
+            "id": "02b1f44e713758491e6fe42e88e23857",
+            "source": "nyt",
+            "text": "Sorry, SpaceX: It’s Getting Too Crowded Up There",
+            "source_link": "https://www.nytimes.com/2026/02/26/climate/spacex-climate-musk-orbiting-data-centers.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-26T20:04:39.906407Z",
+            "shown_at": [
+                "2026-02-26T20:04:41.033857Z"
+            ]
+        },
+        {
+            "id": "7529c0d334fa4c9bd2ec7ecfe9eceb65",
+            "source": "spacenews",
+            "text": "Seraphim closes second early-stage space fund above $100 million target",
+            "source_link": "https://spacenews.com/seraphim-closes-second-early-stage-space-fund-above-100-million-target/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-02-26T19:30:10.686961Z"
+        },
+        {
+            "id": "03ae23297f72dc41a2f3621aee45b741",
+            "source": "spacenews",
+            "text": "Space Force halts Vulcan missions pending investigation into solid rocket issue",
+            "source_link": "https://spacenews.com/space-force-halts-vulcan-missions-pending-investigation-into-solid-rocket-issue/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-02-26T19:30:10.686925Z"
+        },
+        {
+            "id": "e35208d01a68ccdbb8c5ba3c3a93b380",
+            "source": "spacenews",
+            "text": "Bowersox to retire from NASA",
+            "source_link": "https://spacenews.com/bowersox-to-retire-from-nasa/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-02-26T19:30:10.686890Z"
+        },
+        {
+            "id": "ead36c060eba5fb8c00514cdafd84612",
+            "source": "spacenews",
+            "text": "China’s Tianwen-2 probe operating normally on approach to asteroid",
+            "source_link": "https://spacenews.com/chinas-tianwen-2-probe-operating-normally-on-approach-to-asteroid/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-26T19:30:10.686855Z",
+            "shown_at": [
+                "2026-02-26T23:39:13.992717Z"
+            ]
+        },
+        {
+            "id": "a92e8c608b8b81f6f69ebb01b5658e76",
+            "source": "spacenews",
+            "text": "NASA astronaut says his medical issue led to early return from the ISS",
+            "source_link": "https://spacenews.com/nasa-astronaut-says-his-medical-issue-led-to-early-return-from-the-iss/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-26T19:30:10.686818Z",
+            "shown_at": [
+                "2026-02-26T23:04:49.503478Z"
+            ]
+        },
+        {
+            "id": "343b0dae314c758b554a9ecc0fea425b",
+            "source": "spacenews",
+            "text": "Phantom Space reclaims former Vector launch technology",
+            "source_link": "https://spacenews.com/phantom-space-reclaims-former-vector-launch-technology/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-26T19:30:10.686781Z",
+            "shown_at": [
+                "2026-02-26T22:29:40.193295Z"
+            ]
+        },
+        {
+            "id": "f421de19505a7a48653389d75f4df7e9",
+            "source": "spacenews",
+            "text": "CesiumAstro acquires Vidrovr to embed AI in communications systems",
+            "source_link": "https://spacenews.com/cesiumastro-acquires-vidrovr-to-embed-ai-in-communications-systems/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-26T19:30:10.686741Z",
+            "shown_at": [
+                "2026-02-26T21:49:12.202701Z"
+            ]
+        },
+        {
+            "id": "94342f5d13a96211217d1b72aceea034",
+            "source": "spacenews",
+            "text": "Sierra Space names Dan Jablonsky CEO",
+            "source_link": "https://spacenews.com/sierra-space-names-dan-jablonsky-ceo/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-26T19:30:10.686700Z",
+            "shown_at": [
+                "2026-02-26T21:14:28.665597Z"
+            ]
+        },
+        {
+            "id": "1e609b72e3003b5121cd130cb1c15f9b",
+            "source": "spacenews",
+            "text": "NordSpace founder backs Wyvern with new Canada-focused venture arm",
+            "source_link": "https://spacenews.com/nordspace-founder-backs-wyvern-with-new-canada-focused-venture-arm/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-26T19:30:10.686652Z",
+            "shown_at": [
+                "2026-02-26T20:39:16.497330Z"
+            ]
+        },
+        {
+            "id": "359adf438d7a679856540e2fca1ef495",
+            "source": "spacenews",
+            "text": "Airbus and Leonardo report increased space revenues for 2025",
+            "source_link": "https://spacenews.com/airbus-and-leonardo-report-increased-space-revenues-for-2025/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-26T19:30:10.686576Z",
+            "shown_at": [
+                "2026-02-26T19:30:11.838780Z"
+            ]
+        },
         {
             "id": "b46392beffd1a6c3386da5fbe7f84c67",
             "source": "spacenews",
@@ -8535,456 +8658,6 @@
                 "2025-10-22T03:37:38.432438Z",
                 "2025-10-22T06:51:56.723291Z",
                 "2025-10-23T08:20:09.765207Z"
-            ]
-        },
-        {
-            "id": "55820a6d7460ee4daa25ed304c2bdb6e",
-            "source": "spacenews",
-            "text": "China launches 12th group of Guowang broadband satellites as rocket milestone highlights accelerating launch rate",
-            "source_link": "https://spacenews.com/china-launches-12th-group-of-guowang-broadband-satellites-as-rocket-milestone-highlights-accelerating-launch-rate/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-16T10:59:43.361503Z",
-            "shown_at": [
-                "2025-10-16T10:59:44.119765Z",
-                "2025-10-19T08:07:53.519373Z",
-                "2025-10-21T03:01:50.945365Z",
-                "2025-10-21T10:37:55.280963Z",
-                "2025-10-22T10:41:54.403955Z"
-            ]
-        },
-        {
-            "id": "e40c55f9824f931bb9aaf0ab064c3306",
-            "source": "spacenews",
-            "text": "Axiom Space replaces CEO",
-            "source_link": "https://spacenews.com/axiom-space-replaces-ceo/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-16T03:13:53.983487Z",
-            "shown_at": [
-                "2025-10-16T03:13:54.597636Z",
-                "2025-10-17T05:45:51.284301Z",
-                "2025-10-19T13:51:50.939475Z"
-            ]
-        },
-        {
-            "id": "c1890098138b7a8b6c10db3e6ff1d1cd",
-            "source": "nyt",
-            "text": "They’re Ready to Go to Mars",
-            "source_link": "https://www.nytimes.com/2025/10/15/style/mars-society-convention.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-15T17:53:51.459139Z",
-            "shown_at": [
-                "2025-10-15T17:53:52.229589Z",
-                "2025-10-15T18:54:00.312016Z",
-                "2025-10-15T19:53:33.082190Z",
-                "2025-10-15T20:49:42.568507Z",
-                "2025-10-15T21:50:26.187969Z",
-                "2025-10-15T22:58:24.567256Z",
-                "2025-10-16T00:45:20.344774Z",
-                "2025-10-16T02:43:57.023396Z",
-                "2025-10-16T03:55:30.540873Z",
-                "2025-10-16T04:57:41.130796Z",
-                "2025-10-16T05:55:58.663901Z",
-                "2025-10-16T06:53:52.460799Z",
-                "2025-10-16T07:55:53.313848Z",
-                "2025-10-16T08:57:43.684716Z",
-                "2025-10-16T11:16:34.966622Z",
-                "2025-10-16T12:19:33.732836Z",
-                "2025-10-16T13:35:54.747647Z",
-                "2025-10-16T15:05:39.175807Z",
-                "2025-10-16T16:02:18.005440Z",
-                "2025-10-16T16:59:51.518475Z",
-                "2025-10-16T17:57:54.088779Z",
-                "2025-10-16T18:55:37.371404Z",
-                "2025-10-16T19:54:03.020606Z",
-                "2025-10-16T21:00:08.027216Z",
-                "2025-10-16T22:19:46.295740Z",
-                "2025-10-16T23:19:44.070840Z",
-                "2025-10-17T00:19:31.061589Z",
-                "2025-10-17T01:20:01.982520Z",
-                "2025-10-17T02:21:50.590039Z",
-                "2025-10-17T03:22:26.690123Z",
-                "2025-10-17T04:33:49.706685Z",
-                "2025-10-17T05:29:54.406086Z",
-                "2025-10-17T06:29:59.696999Z",
-                "2025-10-17T08:20:08.904717Z",
-                "2025-10-17T14:22:00.430316Z",
-                "2025-10-17T16:24:09.806354Z",
-                "2025-10-17T17:52:00.160516Z",
-                "2025-10-17T20:08:09.980877Z",
-                "2025-10-17T23:05:49.294824Z",
-                "2025-10-18T00:02:21.622984Z",
-                "2025-10-18T04:57:31.789874Z",
-                "2025-10-18T06:53:37.799418Z",
-                "2025-10-18T12:41:48.995229Z",
-                "2025-10-18T14:37:46.276561Z",
-                "2025-10-18T15:33:47.319743Z",
-                "2025-10-18T17:29:34.949824Z",
-                "2025-10-18T18:26:28.769449Z",
-                "2025-10-18T21:21:48.762106Z",
-                "2025-10-18T22:17:22.830768Z",
-                "2025-10-18T23:19:54.564822Z",
-                "2025-10-19T06:51:14.813031Z",
-                "2025-10-19T07:51:43.753450Z",
-                "2025-10-19T08:49:42.218867Z",
-                "2025-10-19T09:47:53.455997Z",
-                "2025-10-19T11:45:39.871647Z",
-                "2025-10-19T13:37:50.773071Z",
-                "2025-10-19T19:21:51.035472Z",
-                "2025-10-19T21:05:40.915885Z",
-                "2025-10-20T00:05:50.226199Z",
-                "2025-10-20T02:07:41.729858Z",
-                "2025-10-20T03:04:41.748893Z",
-                "2025-10-20T04:05:48.865667Z",
-                "2025-10-20T08:19:54.741357Z",
-                "2025-10-20T09:37:41.717087Z",
-                "2025-10-20T11:31:47.037696Z",
-                "2025-10-20T12:27:34.762582Z",
-                "2025-10-20T14:23:51.267203Z",
-                "2025-10-20T23:45:51.244956Z",
-                "2025-10-21T01:45:58.900890Z",
-                "2025-10-21T08:27:46.086927Z",
-                "2025-10-21T10:23:55.348756Z",
-                "2025-10-21T14:31:46.228589Z",
-                "2025-10-21T16:52:00.231803Z",
-                "2025-10-21T21:12:05.229034Z",
-                "2025-10-22T04:28:11.250004Z",
-                "2025-10-22T06:37:23.213584Z",
-                "2025-10-22T10:27:38.505913Z"
-            ]
-        },
-        {
-            "id": "d82675a8aa3d5448d6da9b04a1881c0c",
-            "source": "breaking_defense",
-            "text": "Army budget prioritizes counterspace for first time",
-            "source_link": "https://breakingdefense.com/2025/10/army-budget-prioritizes-counterspace-for-first-time/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-15T17:39:49.611123Z",
-            "shown_at": [
-                "2025-10-15T17:39:50.377811Z",
-                "2025-10-15T19:39:25.116159Z",
-                "2025-10-15T22:41:51.105791Z",
-                "2025-10-16T00:31:51.837249Z",
-                "2025-10-16T01:29:44.745557Z",
-                "2025-10-16T05:27:55.707940Z",
-                "2025-10-16T07:23:49.160220Z",
-                "2025-10-16T10:41:42.880670Z",
-                "2025-10-16T11:49:43.910208Z",
-                "2025-10-16T13:50:04.411126Z",
-                "2025-10-16T15:19:29.775578Z",
-                "2025-10-16T16:17:49.442136Z",
-                "2025-10-16T20:11:29.386629Z",
-                "2025-10-16T21:17:58.677628Z",
-                "2025-10-16T22:35:58.766502Z",
-                "2025-10-16T23:49:50.580497Z",
-                "2025-10-17T00:51:40.700036Z",
-                "2025-10-17T01:49:38.490525Z",
-                "2025-10-17T02:51:44.063597Z",
-                "2025-10-17T04:05:41.035341Z",
-                "2025-10-17T05:01:37.792785Z",
-                "2025-10-17T05:59:53.234465Z",
-                "2025-10-17T06:59:54.482943Z",
-                "2025-10-17T09:05:56.811118Z",
-                "2025-10-17T10:33:31.541434Z",
-                "2025-10-17T11:54:06.823591Z",
-                "2025-10-17T16:41:49.618094Z",
-                "2025-10-17T18:33:46.659973Z",
-                "2025-10-17T20:39:37.964929Z",
-                "2025-10-17T21:37:37.299643Z",
-                "2025-10-17T22:35:36.947468Z",
-                "2025-10-18T00:33:27.019135Z",
-                "2025-10-18T03:32:24.335871Z",
-                "2025-10-18T05:25:20.401808Z",
-                "2025-10-18T09:19:57.928818Z",
-                "2025-10-18T12:11:46.080670Z",
-                "2025-10-18T14:10:00.254047Z",
-                "2025-10-18T15:06:02.273953Z",
-                "2025-10-18T17:57:34.828451Z",
-                "2025-10-18T18:57:57.755570Z",
-                "2025-10-18T22:49:36.151073Z",
-                "2025-10-19T00:02:15.827085Z",
-                "2025-10-19T04:39:59.529687Z",
-                "2025-10-19T08:35:42.002226Z",
-                "2025-10-19T11:29:38.444401Z",
-                "2025-10-19T14:33:38.740242Z",
-                "2025-10-19T15:29:42.562840Z",
-                "2025-10-19T18:44:08.973674Z",
-                "2025-10-19T21:33:55.894404Z",
-                "2025-10-19T22:32:30.642132Z",
-                "2025-10-20T00:35:35.534108Z",
-                "2025-10-20T02:35:49.650016Z",
-                "2025-10-20T03:35:33.965116Z",
-                "2025-10-20T04:33:49.925080Z",
-                "2025-10-20T05:35:44.972877Z",
-                "2025-10-20T08:49:38.125208Z",
-                "2025-10-20T10:07:58.735868Z",
-                "2025-10-20T11:59:45.540483Z",
-                "2025-10-20T13:53:42.848750Z",
-                "2025-10-20T16:01:57.475939Z",
-                "2025-10-20T19:18:01.839006Z",
-                "2025-10-20T20:27:45.755283Z",
-                "2025-10-20T21:51:56.777466Z",
-                "2025-10-21T03:29:56.898119Z",
-                "2025-10-21T12:51:52.269114Z",
-                "2025-10-21T16:12:39.534376Z",
-                "2025-10-21T17:26:03.920367Z",
-                "2025-10-21T19:38:03.255413Z",
-                "2025-10-21T21:41:55.470223Z",
-                "2025-10-21T22:39:52.638961Z",
-                "2025-10-22T00:45:48.543966Z",
-                "2025-10-22T02:02:31.769483Z",
-                "2025-10-22T03:07:51.195050Z",
-                "2025-10-22T04:09:49.306248Z",
-                "2025-10-22T06:21:59.016076Z",
-                "2025-10-22T07:28:05.818924Z",
-                "2025-10-22T08:51:08.901594Z",
-                "2025-10-22T11:36:10.962724Z"
-            ]
-        },
-        {
-            "id": "e1bedc625d5e7acb3fd7a6df824ce45e",
-            "source": "spacenews",
-            "text": "Beyond the downlink: Why Earth-independent AI is the next moat in space operations",
-            "source_link": "https://spacenews.com/beyond-the-downlink-why-earth-independent-ai-is-the-next-moat-in-space-operations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-15T13:11:41.141299Z",
-            "shown_at": [
-                "2025-10-15T13:11:42.221634Z",
-                "2025-10-16T04:11:20.095145Z",
-                "2025-10-16T21:32:18.612061Z",
-                "2025-10-19T00:32:05.654314Z",
-                "2025-10-19T10:59:45.541180Z"
-            ]
-        },
-        {
-            "id": "fb978f8ca53d5b655cb34a6bec51d3f0",
-            "source": "spacenews",
-            "text": "Beyond Gravity plans US push after fivefold boost in European solar mechanism output",
-            "source_link": "https://spacenews.com/beyond-gravity-plans-us-push-after-fivefold-boost-in-european-solar-mechanism-output/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-15T12:13:26.923212Z",
-            "shown_at": [
-                "2025-10-15T12:13:27.674379Z",
-                "2025-10-15T16:53:40.436386Z",
-                "2025-10-17T15:10:04.612452Z",
-                "2025-10-18T03:17:16.600522Z",
-                "2025-10-19T12:56:00.284315Z",
-                "2025-10-21T11:46:06.089842Z"
-            ]
-        },
-        {
-            "id": "07425ac6d60fbfbefa6af6d7a8de3050",
-            "source": "spacenews",
-            "text": "Polish space company Scanway Space secures U.S., European deals amid international expansion drive",
-            "source_link": "https://spacenews.com/polish-space-company-scanway-space-secures-u-s-european-deals-amid-international-expansion-drive/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-15T10:45:53.609042Z",
-            "shown_at": [
-                "2025-10-15T10:45:55.040019Z",
-                "2025-10-16T08:11:48.808808Z",
-                "2025-10-20T15:06:01.578428Z",
-                "2025-10-21T03:58:06.840706Z",
-                "2025-10-21T17:40:05.038840Z"
-            ]
-        },
-        {
-            "id": "076b8602802e083f2be53e9b9e78dce8",
-            "source": "spacenews",
-            "text": "Rocket Lab launches seventh Synspective radar imaging satellite",
-            "source_link": "https://spacenews.com/rocket-lab-launches-seventh-synspective-radar-imaging-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-14T23:35:48.898836Z",
-            "shown_at": [
-                "2025-10-14T23:35:49.455479Z",
-                "2025-10-15T04:05:43.734240Z",
-                "2025-10-17T00:36:05.843980Z",
-                "2025-10-20T09:23:49.196804Z",
-                "2025-10-20T20:46:03.833488Z",
-                "2025-10-21T18:52:01.165656Z"
-            ]
-        },
-        {
-            "id": "e4039d9fe6648bce91a3fc4f204354b1",
-            "source": "spacenews",
-            "text": "Viasat and Space42’s D2D joint venture finds first mobile partner in UAE",
-            "source_link": "https://spacenews.com/viasat-and-space42s-d2d-joint-venture-finds-first-mobile-partner-in-uae/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-14T17:39:46.015972Z",
-            "shown_at": [
-                "2025-10-14T17:39:46.817402Z",
-                "2025-10-17T19:25:48.059345Z",
-                "2025-10-19T20:49:53.154389Z",
-                "2025-10-20T11:17:36.305149Z",
-                "2025-10-20T14:09:37.172330Z",
-                "2025-10-20T16:29:34.566076Z",
-                "2025-10-21T02:02:04.791849Z"
-            ]
-        },
-        {
-            "id": "5ce391afae8abaff07efa4cd1f56a265",
-            "source": "spacenews",
-            "text": "K2 Space announces plans for three-orbit demonstration mission",
-            "source_link": "https://spacenews.com/k2-space-announces-plans-for-three-orbit-demonstration-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-14T16:25:49.694153Z",
-            "shown_at": [
-                "2025-10-14T16:25:50.349754Z",
-                "2025-10-15T13:57:47.806945Z",
-                "2025-10-16T20:29:42.962223Z",
-                "2025-10-17T08:41:46.342660Z",
-                "2025-10-18T07:07:25.153809Z",
-                "2025-10-18T11:55:35.825721Z",
-                "2025-10-19T23:49:41.422569Z",
-                "2025-10-20T02:49:48.537161Z"
-            ]
-        },
-        {
-            "id": "097d1f2321cb2a2c6d3d36e3c29e835d",
-            "source": "spacenews",
-            "text": "Impulse Space announces lunar lander plans",
-            "source_link": "https://spacenews.com/impulse-space-announces-lunar-lander-plans/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-14T13:55:54.736180Z",
-            "shown_at": [
-                "2025-10-14T13:55:56.212574Z",
-                "2025-10-14T14:57:55.814182Z",
-                "2025-10-15T01:51:41.410268Z",
-                "2025-10-16T00:17:45.979052Z",
-                "2025-10-17T04:47:51.719461Z",
-                "2025-10-19T15:15:51.759016Z"
-            ]
-        },
-        {
-            "id": "359adf438d7a679856540e2fca1ef495",
-            "source": "spacenews",
-            "text": "Airbus and Leonardo report increased space revenues for 2025",
-            "source_link": "https://spacenews.com/airbus-and-leonardo-report-increased-space-revenues-for-2025/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-26T19:30:10.686576Z",
-            "shown_at": [
-                "2026-02-26T19:30:11.838780Z"
-            ]
-        },
-        {
-            "id": "1e609b72e3003b5121cd130cb1c15f9b",
-            "source": "spacenews",
-            "text": "NordSpace founder backs Wyvern with new Canada-focused venture arm",
-            "source_link": "https://spacenews.com/nordspace-founder-backs-wyvern-with-new-canada-focused-venture-arm/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-26T19:30:10.686652Z",
-            "shown_at": [
-                "2026-02-26T20:39:16.497330Z"
-            ]
-        },
-        {
-            "id": "94342f5d13a96211217d1b72aceea034",
-            "source": "spacenews",
-            "text": "Sierra Space names Dan Jablonsky CEO",
-            "source_link": "https://spacenews.com/sierra-space-names-dan-jablonsky-ceo/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-26T19:30:10.686700Z",
-            "shown_at": [
-                "2026-02-26T21:14:28.665597Z"
-            ]
-        },
-        {
-            "id": "f421de19505a7a48653389d75f4df7e9",
-            "source": "spacenews",
-            "text": "CesiumAstro acquires Vidrovr to embed AI in communications systems",
-            "source_link": "https://spacenews.com/cesiumastro-acquires-vidrovr-to-embed-ai-in-communications-systems/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-26T19:30:10.686741Z",
-            "shown_at": [
-                "2026-02-26T21:49:12.202701Z"
-            ]
-        },
-        {
-            "id": "343b0dae314c758b554a9ecc0fea425b",
-            "source": "spacenews",
-            "text": "Phantom Space reclaims former Vector launch technology",
-            "source_link": "https://spacenews.com/phantom-space-reclaims-former-vector-launch-technology/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-26T19:30:10.686781Z",
-            "shown_at": [
-                "2026-02-26T22:29:40.193295Z"
-            ]
-        },
-        {
-            "id": "a92e8c608b8b81f6f69ebb01b5658e76",
-            "source": "spacenews",
-            "text": "NASA astronaut says his medical issue led to early return from the ISS",
-            "source_link": "https://spacenews.com/nasa-astronaut-says-his-medical-issue-led-to-early-return-from-the-iss/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-26T19:30:10.686818Z",
-            "shown_at": [
-                "2026-02-26T23:04:49.503478Z"
-            ]
-        },
-        {
-            "id": "ead36c060eba5fb8c00514cdafd84612",
-            "source": "spacenews",
-            "text": "China’s Tianwen-2 probe operating normally on approach to asteroid",
-            "source_link": "https://spacenews.com/chinas-tianwen-2-probe-operating-normally-on-approach-to-asteroid/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-26T19:30:10.686855Z",
-            "shown_at": [
-                "2026-02-26T23:39:13.992717Z"
-            ]
-        },
-        {
-            "id": "e35208d01a68ccdbb8c5ba3c3a93b380",
-            "source": "spacenews",
-            "text": "Bowersox to retire from NASA",
-            "source_link": "https://spacenews.com/bowersox-to-retire-from-nasa/",
-            "shown": false,
-            "type": "news",
-            "fetched_datetime": "2026-02-26T19:30:10.686890Z"
-        },
-        {
-            "id": "03ae23297f72dc41a2f3621aee45b741",
-            "source": "spacenews",
-            "text": "Space Force halts Vulcan missions pending investigation into solid rocket issue",
-            "source_link": "https://spacenews.com/space-force-halts-vulcan-missions-pending-investigation-into-solid-rocket-issue/",
-            "shown": false,
-            "type": "news",
-            "fetched_datetime": "2026-02-26T19:30:10.686925Z"
-        },
-        {
-            "id": "7529c0d334fa4c9bd2ec7ecfe9eceb65",
-            "source": "spacenews",
-            "text": "Seraphim closes second early-stage space fund above $100 million target",
-            "source_link": "https://spacenews.com/seraphim-closes-second-early-stage-space-fund-above-100-million-target/",
-            "shown": false,
-            "type": "news",
-            "fetched_datetime": "2026-02-26T19:30:10.686961Z"
-        },
-        {
-            "id": "02b1f44e713758491e6fe42e88e23857",
-            "source": "nyt",
-            "text": "Sorry, SpaceX: It’s Getting Too Crowded Up There",
-            "source_link": "https://www.nytimes.com/2026/02/26/climate/spacex-climate-musk-orbiting-data-centers.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-26T20:04:39.906407Z",
-            "shown_at": [
-                "2026-02-26T20:04:41.033857Z"
             ]
         }
     ]
