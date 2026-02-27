@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-27T00:04:48.115479+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7529c0d334fa4c9bd2ec7ecfe9eceb65",
+    "trigger_count": 0,
+    "current_item_id": "20b784f445d8d5f3cec8d439310bdd65",
     "data": [
         {
             "id": "02b1f44e713758491e6fe42e88e23857",
@@ -8697,6 +8697,18 @@
             "fetched_datetime": "2026-02-27T10:14:25.665512Z",
             "shown_at": [
                 "2026-02-27T10:14:26.691779Z"
+            ]
+        },
+        {
+            "id": "20b784f445d8d5f3cec8d439310bdd65",
+            "source": "spacenews",
+            "text": "Rocket Lab delays Neutron debut to late 2026",
+            "source_link": "https://spacenews.com/rocket-lab-delays-neutron-debut-to-late-2026/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-27T13:08:53.911164Z",
+            "shown_at": [
+                "2026-02-27T13:08:55.024216Z"
             ]
         }
     ]
