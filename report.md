@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 10 | 18 |
-| spacenews | 11 | 14 | 19 | 26 |
+| spacenews | 11 | 14 | 20 | 27 |
 | breaking_defense | 0 | 0 | 0 | 4 |
 
 # Shown Order
@@ -3191,3 +3191,4 @@
 - **Feb 27, 10:49 AM** - Sorry, SpaceX: It’s Getting Too Crowded Up There (nyt)
 - **Feb 27, 11:24 AM** - Lockheed Martin presses case that GPS upgrade will counter jamming threats (spacenews)
 - **Feb 27, 11:59 AM** - Norway’s Century-Long Watch on the Northern Lights (nyt)
+- **Feb 27, 12:34 PM** - Seraphim closes second early-stage space fund above $100 million target (spacenews)
