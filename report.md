@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 4 | 21 | 31 |
+| nyt | 3 | 4 | 22 | 32 |
 | spacenews | 2 | 13 | 20 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -3200,3 +3200,4 @@
 - **Feb 28, 11:19 AM** - Seraphim closes second early-stage space fund above $100 million target (spacenews)
 - **Feb 28, 11:54 AM** - NASA Shakes Up Artemis Schedule, Aiming for 2 Moon Landings in 2028 (nyt)
 - **Feb 28, 12:29 PM** - Meink, Saltzman make case for Space Force expansion  (spacenews)
+- **Feb 28, 01:04 PM** - Problem With Artemis Rocket Will Delay NASA’s Moon Mission (nyt)
