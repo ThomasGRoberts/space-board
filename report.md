@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 4 | 20 | 25 |
+| nyt | 3 | 4 | 21 | 26 |
 | spacenews | 3 | 13 | 21 | 34 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -3188,3 +3188,4 @@
 - **Feb 28, 04:19 AM** - Golden Dome to require unprecedented coordination between U.S. combatant commands (spacenews)
 - **Feb 28, 04:54 AM** - Sorry, SpaceX: It’s Getting Too Crowded Up There (nyt)
 - **Feb 28, 05:29 AM** - China set for its first one-year human spaceflight mission, confirms Pakistani astronaut flight (spacenews)
+- **Feb 28, 06:04 AM** - NASA Aims for 2 Moon Landings in 2028 With New Artemis Schedule (nyt)
