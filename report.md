@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 3 | 21 | 37 |
-| spacenews | 1 | 4 | 20 | 45 |
+| spacenews | 1 | 4 | 21 | 46 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3214,3 +3214,4 @@
 - **Feb 28, 07:29 PM** - NASA Aims for 2 Moon Landings in 2028 With New Artemis Schedule (nyt)
 - **Feb 28, 08:04 PM** - NASA astronaut says his medical issue led to early return from the ISS (spacenews)
 - **Feb 28, 08:39 PM** - Sorry, SpaceX: It’s Getting Too Crowded Up There (nyt)
+- **Feb 28, 09:14 PM** - Europe’s progress on future access-to-space gains momentum with upcoming reusable launcher flight test  (spacenews)
