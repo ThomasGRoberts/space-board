@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 4 | 20 | 36 |
+| nyt | 2 | 4 | 21 | 37 |
 | spacenews | 1 | 14 | 21 | 46 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -3211,3 +3211,4 @@
 - **Feb 28, 05:44 PM** - NASA on ‘aggressive’ schedule to complete SLS repairs for April launch (spacenews)
 - **Feb 28, 06:19 PM** - Sorry, SpaceX: It’s Getting Too Crowded Up There (nyt)
 - **Feb 28, 06:54 PM** - NASA revises plans for future Artemis missions, cancels upgrades to SLS (spacenews)
+- **Feb 28, 07:29 PM** - NASA Aims for 2 Moon Landings in 2028 With New Artemis Schedule (nyt)
