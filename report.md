@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 4 | 22 | 35 |
-| spacenews | 0 | 13 | 19 | 43 |
+| spacenews | 0 | 13 | 20 | 44 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3207,3 +3207,4 @@
 - **Feb 28, 03:24 PM** - Sorry, SpaceX: It’s Getting Too Crowded Up There (nyt)
 - **Feb 28, 03:59 PM** - Aalyria hits $1.3 billion valuation after raising funds for satellite mesh network (spacenews)
 - **Feb 28, 04:34 PM** - Problem With Artemis Rocket Will Delay NASA’s Moon Mission (nyt)
+- **Feb 28, 05:09 PM** - Bowersox to retire from NASA (spacenews)
