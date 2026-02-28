@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 4 | 21 | 28 |
-| spacenews | 3 | 13 | 20 | 36 |
+| spacenews | 3 | 13 | 21 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3193,3 +3193,4 @@
 - **Feb 28, 07:14 AM** - NASA Aims for 2 Moon Landings in 2028 With New Artemis Schedule (nyt)
 - **Feb 28, 07:49 AM** - Boeing demonstrates large language model for space-grade hardware (spacenews)
 - **Feb 28, 08:24 AM** - Norway’s Century-Long Watch on the Northern Lights (nyt)
+- **Feb 28, 08:59 AM** - Phantom Space reclaims former Vector launch technology (spacenews)
