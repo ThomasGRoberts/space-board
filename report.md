@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 4 | 21 | 31 |
-| spacenews | 2 | 13 | 20 | 39 |
+| spacenews | 2 | 13 | 21 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3199,3 +3199,4 @@
 - **Feb 28, 10:44 AM** - Space X Wants to Launch 1 Million Satellites, but Is There Room?  (nyt)
 - **Feb 28, 11:19 AM** - Seraphim closes second early-stage space fund above $100 million target (spacenews)
 - **Feb 28, 11:54 AM** - NASA Shakes Up Artemis Schedule, Aiming for 2 Moon Landings in 2028 (nyt)
+- **Feb 28, 12:29 PM** - Meink, Saltzman make case for Space Force expansion  (spacenews)
