@@ -1,9 +1,82 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-02-27T00:04:48.115479+00:00",
-    "trigger_count": 4,
+    "last_run_datetime": "2026-02-28T00:04:29.978859+00:00",
+    "trigger_count": 5,
     "current_item_id": "0ec449eb406b4e0954dd76f6947a2136",
     "data": [
+        {
+            "id": "7c8a0192672807c7903b41a24e0a819b",
+            "source": "nyt",
+            "text": "Space X Wants to Launch 1 Million Satellites, but Is There Room? ",
+            "source_link": "https://www.nytimes.com/2026/02/26/climate/spacex-climate-musk-orbiting-data-centers.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-27T21:54:30.760301Z",
+            "shown_at": [
+                "2026-02-27T21:54:31.910757Z"
+            ]
+        },
+        {
+            "id": "17e6c94914e94769ebd10b705058f481",
+            "source": "nyt",
+            "text": "NASA Shakes Up Artemis Schedule, Aiming for 2 Moon Landings in 2028",
+            "source_link": "https://www.nytimes.com/2026/02/27/science/nasa-moon-landings-artemis-schedule.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-27T21:19:09.818794Z",
+            "shown_at": [
+                "2026-02-27T21:19:11.011765Z"
+            ]
+        },
+        {
+            "id": "29f336a4921168ff143edbb7f1944b48",
+            "source": "nyt",
+            "text": "NASA Aims for 2 Moon Landings in 2028 With New Artemis Schedule",
+            "source_link": "https://www.nytimes.com/2026/02/27/science/nasa-moon-landings-artemis-schedule.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-27T17:49:10.066502Z",
+            "shown_at": [
+                "2026-02-27T17:49:11.217822Z",
+                "2026-02-27T20:09:35.175414Z"
+            ]
+        },
+        {
+            "id": "f3a840866f57e6225986e2394ab10a32",
+            "source": "spacenews",
+            "text": "NASA revises plans for future Artemis missions, cancels upgrades to SLS",
+            "source_link": "https://spacenews.com/nasa-revises-plans-for-future-artemis-missions-cancels-upgrades-to-sls/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-27T15:29:09.329518Z",
+            "shown_at": [
+                "2026-02-27T15:29:10.151526Z"
+            ]
+        },
+        {
+            "id": "20b784f445d8d5f3cec8d439310bdd65",
+            "source": "spacenews",
+            "text": "Rocket Lab delays Neutron debut to late 2026",
+            "source_link": "https://spacenews.com/rocket-lab-delays-neutron-debut-to-late-2026/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-27T13:08:53.911164Z",
+            "shown_at": [
+                "2026-02-27T13:08:55.024216Z"
+            ]
+        },
+        {
+            "id": "e69011f1c64f34e5be534db8a36ad254",
+            "source": "spacenews",
+            "text": "China set for its first one-year human spaceflight mission, confirms Pakistani astronaut flight",
+            "source_link": "https://spacenews.com/china-set-for-its-first-one-year-human-spaceflight-mission-confirms-pakistani-astronaut-flight/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-27T10:14:25.665512Z",
+            "shown_at": [
+                "2026-02-27T10:14:26.691779Z"
+            ]
+        },
         {
             "id": "02b1f44e713758491e6fe42e88e23857",
             "source": "nyt",
@@ -8599,178 +8672,6 @@
                 "2025-10-21T23:57:50.093673Z",
                 "2025-10-23T02:38:00.082012Z",
                 "2025-10-23T14:06:01.183171Z"
-            ]
-        },
-        {
-            "id": "6ca45b233456086b27da226f60f1cdf4",
-            "source": "spacenews",
-            "text": "Viasat takes aim at the U.S. military satellite market",
-            "source_link": "https://spacenews.com/viasat-takes-aim-at-the-u-s-military-satellite-market/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-16T23:35:43.098481Z",
-            "shown_at": [
-                "2025-10-16T23:35:43.646811Z",
-                "2025-10-20T00:51:48.136884Z",
-                "2025-10-20T18:18:33.297691Z",
-                "2025-10-22T20:54:00.392434Z"
-            ]
-        },
-        {
-            "id": "1f7e82f543f3313b676450dd4e6b4e6f",
-            "source": "spacenews",
-            "text": "SpaceX wins approval for increased Falcon launches from Vandenberg",
-            "source_link": "https://spacenews.com/spacex-wins-approval-for-increased-falcon-launches-from-vandenberg/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-16T21:52:03.009722Z",
-            "shown_at": [
-                "2025-10-16T21:52:03.757049Z",
-                "2025-10-18T23:33:48.886838Z",
-                "2025-10-19T22:47:45.483575Z",
-                "2025-10-20T04:49:49.446815Z",
-                "2025-10-21T19:51:55.002423Z",
-                "2025-10-21T20:58:02.267671Z",
-                "2025-10-23T16:49:51.538896Z"
-            ]
-        },
-        {
-            "id": "a341db18f6bb3a85a0d54b6d76735de2",
-            "source": "spacenews",
-            "text": "iRocket turns to missiles to fuel reusable launcher ambitions",
-            "source_link": "https://spacenews.com/irocket-turns-to-missiles-to-fuel-reusable-launcher-ambitions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-16T15:33:53.126144Z",
-            "shown_at": [
-                "2025-10-16T15:33:53.821452Z",
-                "2025-10-17T06:45:58.825777Z",
-                "2025-10-18T06:07:45.630146Z",
-                "2025-10-18T18:41:35.507375Z",
-                "2025-10-21T06:12:00.835477Z",
-                "2025-10-21T16:37:51.221073Z"
-            ]
-        },
-        {
-            "id": "5a68b444efeb6742500a85feb4c7c895",
-            "source": "spacenews",
-            "text": "ECAPS Announces Breakthrough Fast-Start Thruster (FAST) Technology",
-            "source_link": "https://spacenews.com/ecaps-announces-breakthrough-fast-start-thruster-fast-technology/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-16T14:33:56.656941Z",
-            "shown_at": [
-                "2025-10-16T14:47:20.842220Z",
-                "2025-10-16T19:26:00.117900Z",
-                "2025-10-21T00:02:10.119429Z",
-                "2025-10-21T21:57:31.126741Z",
-                "2025-10-22T01:02:20.883273Z"
-            ]
-        },
-        {
-            "id": "a3adddadbe9ecd35c4a1f3c6f4cc717f",
-            "source": "spacenews",
-            "text": "Data Boom, Video Decline Reshapes Satellite Revenues by 2034",
-            "source_link": "https://spacenews.com/data-boom-video-decline-reshapes-satellite-revenues-by-2034/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-16T14:33:56.656887Z",
-            "shown_at": [
-                "2025-10-16T14:33:57.730510Z",
-                "2025-10-19T19:05:40.857406Z",
-                "2025-10-20T06:47:40.220899Z",
-                "2025-10-21T05:04:00.773619Z",
-                "2025-10-22T05:44:07.025988Z",
-                "2025-10-22T09:34:09.484175Z"
-            ]
-        },
-        {
-            "id": "40082b04e9f1140cd9aaeb444d33f36f",
-            "source": "spacenews",
-            "text": "‘Space Armor’ to challenge traditional metal shielding on satellites",
-            "source_link": "https://spacenews.com/space-armor-to-challenge-traditional-metal-shielding-on-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-16T13:05:35.877222Z",
-            "shown_at": [
-                "2025-10-16T13:05:36.562414Z",
-                "2025-10-19T07:07:34.664763Z",
-                "2025-10-22T03:37:38.432438Z",
-                "2025-10-22T06:51:56.723291Z",
-                "2025-10-23T08:20:09.765207Z"
-            ]
-        },
-        {
-            "id": "e69011f1c64f34e5be534db8a36ad254",
-            "source": "spacenews",
-            "text": "China set for its first one-year human spaceflight mission, confirms Pakistani astronaut flight",
-            "source_link": "https://spacenews.com/china-set-for-its-first-one-year-human-spaceflight-mission-confirms-pakistani-astronaut-flight/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-27T10:14:25.665512Z",
-            "shown_at": [
-                "2026-02-27T10:14:26.691779Z"
-            ]
-        },
-        {
-            "id": "20b784f445d8d5f3cec8d439310bdd65",
-            "source": "spacenews",
-            "text": "Rocket Lab delays Neutron debut to late 2026",
-            "source_link": "https://spacenews.com/rocket-lab-delays-neutron-debut-to-late-2026/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-27T13:08:53.911164Z",
-            "shown_at": [
-                "2026-02-27T13:08:55.024216Z"
-            ]
-        },
-        {
-            "id": "f3a840866f57e6225986e2394ab10a32",
-            "source": "spacenews",
-            "text": "NASA revises plans for future Artemis missions, cancels upgrades to SLS",
-            "source_link": "https://spacenews.com/nasa-revises-plans-for-future-artemis-missions-cancels-upgrades-to-sls/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-27T15:29:09.329518Z",
-            "shown_at": [
-                "2026-02-27T15:29:10.151526Z"
-            ]
-        },
-        {
-            "id": "29f336a4921168ff143edbb7f1944b48",
-            "source": "nyt",
-            "text": "NASA Aims for 2 Moon Landings in 2028 With New Artemis Schedule",
-            "source_link": "https://www.nytimes.com/2026/02/27/science/nasa-moon-landings-artemis-schedule.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-27T17:49:10.066502Z",
-            "shown_at": [
-                "2026-02-27T17:49:11.217822Z",
-                "2026-02-27T20:09:35.175414Z"
-            ]
-        },
-        {
-            "id": "17e6c94914e94769ebd10b705058f481",
-            "source": "nyt",
-            "text": "NASA Shakes Up Artemis Schedule, Aiming for 2 Moon Landings in 2028",
-            "source_link": "https://www.nytimes.com/2026/02/27/science/nasa-moon-landings-artemis-schedule.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-27T21:19:09.818794Z",
-            "shown_at": [
-                "2026-02-27T21:19:11.011765Z"
-            ]
-        },
-        {
-            "id": "7c8a0192672807c7903b41a24e0a819b",
-            "source": "nyt",
-            "text": "Space X Wants to Launch 1 Million Satellites, but Is There Room? ",
-            "source_link": "https://www.nytimes.com/2026/02/26/climate/spacex-climate-musk-orbiting-data-centers.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-27T21:54:30.760301Z",
-            "shown_at": [
-                "2026-02-27T21:54:31.910757Z"
             ]
         }
     ]
