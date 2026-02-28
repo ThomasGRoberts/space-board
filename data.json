@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-02-28T00:04:29.978859+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e35208d01a68ccdbb8c5ba3c3a93b380",
+    "trigger_count": 0,
+    "current_item_id": "956e8913d01fa7f1f14e0a385b498bc7",
     "data": [
         {
             "id": "7c8a0192672807c7903b41a24e0a819b",
@@ -8702,6 +8702,18 @@
                 "2025-10-21T23:57:50.093673Z",
                 "2025-10-23T02:38:00.082012Z",
                 "2025-10-23T14:06:01.183171Z"
+            ]
+        },
+        {
+            "id": "956e8913d01fa7f1f14e0a385b498bc7",
+            "source": "spacenews",
+            "text": "NASA on ‘aggressive’ schedule to complete SLS repairs for April launch",
+            "source_link": "https://spacenews.com/nasa-on-aggressive-schedule-to-complete-sls-repairs-for-april-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-28T17:44:20.468349Z",
+            "shown_at": [
+                "2026-02-28T17:44:21.547291Z"
             ]
         }
     ]
