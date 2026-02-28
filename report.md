@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 4 | 21 | 33 |
+| nyt | 3 | 4 | 22 | 34 |
 | spacenews | 1 | 13 | 20 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -3204,3 +3204,4 @@
 - **Feb 28, 01:39 PM** - China’s Tianwen-2 probe operating normally on approach to asteroid (spacenews)
 - **Feb 28, 02:14 PM** - Sorry, SpaceX: It’s Getting Too Crowded Up There (nyt)
 - **Feb 28, 02:49 PM** - In space traffic coordination, the biggest challenge may be coordination (spacenews)
+- **Feb 28, 03:24 PM** - Sorry, SpaceX: It’s Getting Too Crowded Up There (nyt)
