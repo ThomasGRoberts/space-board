@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 4 | 21 | 36 |
-| spacenews | 1 | 14 | 20 | 45 |
+| spacenews | 1 | 14 | 21 | 46 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3210,3 +3210,4 @@
 - **Feb 28, 05:09 PM** - Bowersox to retire from NASA (spacenews)
 - **Feb 28, 05:44 PM** - NASA on ‘aggressive’ schedule to complete SLS repairs for April launch (spacenews)
 - **Feb 28, 06:19 PM** - Sorry, SpaceX: It’s Getting Too Crowded Up There (nyt)
+- **Feb 28, 06:54 PM** - NASA revises plans for future Artemis missions, cancels upgrades to SLS (spacenews)
