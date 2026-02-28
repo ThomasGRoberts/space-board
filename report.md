@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 4 | 19 | 20 |
-| spacenews | 3 | 13 | 22 | 29 |
+| nyt | 3 | 4 | 20 | 21 |
+| spacenews | 3 | 13 | 21 | 29 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3178,3 +3178,4 @@
 - **Feb 27, 10:29 PM** - Golden Dome to require unprecedented coordination between U.S. combatant commands (spacenews)
 - **Feb 27, 11:04 PM** - Norway’s Century-Long Watch on the Northern Lights (nyt)
 - **Feb 27, 11:39 PM** - The Commercial Space Federation Releases New White Paper “Perfecting Public-Private Partnerships” (spacenews)
+- **Feb 28, 12:14 AM** - NASA Shakes Up Artemis Schedule, Aiming for 2 Moon Landings in 2028 (nyt)
