@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 4 | 21 | 30 |
+| nyt | 3 | 4 | 22 | 31 |
 | spacenews | 2 | 13 | 20 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -3198,3 +3198,4 @@
 - **Feb 28, 10:09 AM** - LambdaVision books space on Starlab commercial space station (spacenews)
 - **Feb 28, 10:44 AM** - Space X Wants to Launch 1 Million Satellites, but Is There Room?  (nyt)
 - **Feb 28, 11:19 AM** - Seraphim closes second early-stage space fund above $100 million target (spacenews)
+- **Feb 28, 11:54 AM** - NASA Shakes Up Artemis Schedule, Aiming for 2 Moon Landings in 2028 (nyt)
