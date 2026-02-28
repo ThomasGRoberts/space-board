@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 4 | 20 | 35 |
+| nyt | 2 | 4 | 21 | 36 |
 | spacenews | 1 | 14 | 21 | 45 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -3209,3 +3209,4 @@
 - **Feb 28, 04:34 PM** - Problem With Artemis Rocket Will Delay NASA’s Moon Mission (nyt)
 - **Feb 28, 05:09 PM** - Bowersox to retire from NASA (spacenews)
 - **Feb 28, 05:44 PM** - NASA on ‘aggressive’ schedule to complete SLS repairs for April launch (spacenews)
+- **Feb 28, 06:19 PM** - Sorry, SpaceX: It’s Getting Too Crowded Up There (nyt)
