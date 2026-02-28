@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 4 | 21 | 27 |
-| spacenews | 3 | 13 | 20 | 35 |
+| spacenews | 3 | 13 | 21 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3191,3 +3191,4 @@
 - **Feb 28, 06:04 AM** - NASA Aims for 2 Moon Landings in 2028 With New Artemis Schedule (nyt)
 - **Feb 28, 06:39 AM** - China set for its first one-year human spaceflight mission, confirms Pakistani astronaut flight (spacenews)
 - **Feb 28, 07:14 AM** - NASA Aims for 2 Moon Landings in 2028 With New Artemis Schedule (nyt)
+- **Feb 28, 07:49 AM** - Boeing demonstrates large language model for space-grade hardware (spacenews)
