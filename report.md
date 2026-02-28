@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 4 | 21 | 32 |
+| nyt | 3 | 4 | 22 | 33 |
 | spacenews | 1 | 13 | 20 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -3202,3 +3202,4 @@
 - **Feb 28, 12:29 PM** - Meink, Saltzman make case for Space Force expansion  (spacenews)
 - **Feb 28, 01:04 PM** - Problem With Artemis Rocket Will Delay NASA’s Moon Mission (nyt)
 - **Feb 28, 01:39 PM** - China’s Tianwen-2 probe operating normally on approach to asteroid (spacenews)
+- **Feb 28, 02:14 PM** - Sorry, SpaceX: It’s Getting Too Crowded Up There (nyt)
