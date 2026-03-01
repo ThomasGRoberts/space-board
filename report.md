@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 4 | 22 | 41 |
+| spacenews | 3 | 4 | 23 | 42 |
 | nyt | 0 | 3 | 19 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -3236,3 +3236,4 @@
 - **Mar 01, 11:54 AM** - Norway’s Century-Long Watch on the Northern Lights (nyt)
 - **Mar 01, 12:29 PM** - A banner year for military space funding— with an unclear path beyond (spacenews)
 - **Mar 01, 01:04 PM** - Norway’s Century-Long Watch on the Northern Lights (nyt)
+- **Mar 01, 01:39 PM** - In space traffic coordination, the biggest challenge may be coordination (spacenews)
