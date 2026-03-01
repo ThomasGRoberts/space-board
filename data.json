@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-01T00:04:32.236657+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f556cb6ff849b71441111b2b64eb392d",
+    "trigger_count": 0,
+    "current_item_id": "31310d166384b065715bbe1749e41e40",
     "data": [
         {
             "id": "956e8913d01fa7f1f14e0a385b498bc7",
@@ -8707,6 +8707,18 @@
                 "2025-10-24T03:25:55.572475Z",
                 "2025-10-24T05:19:37.854001Z",
                 "2025-10-24T08:19:45.312738Z"
+            ]
+        },
+        {
+            "id": "31310d166384b065715bbe1749e41e40",
+            "source": "spacenews",
+            "text": "Intuitive Machines raises $175 million in stock sale",
+            "source_link": "https://spacenews.com/intuitive-machines-raises-175-million-in-stock-sale/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-01T00:14:18.836724Z",
+            "shown_at": [
+                "2026-03-01T00:14:19.791118Z"
             ]
         }
     ]

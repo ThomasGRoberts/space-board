@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 4 | 21 | 43 |
+| spacenews | 2 | 5 | 22 | 44 |
 | nyt | 0 | 3 | 20 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -3213,3 +3213,4 @@
 - **Feb 28, 10:24 PM** - Israeli startup targets the economics of high-resolution Earth observation (spacenews)
 - **Feb 28, 10:59 PM** - NASA Aims for 2 Moon Landings in 2028 With New Artemis Schedule (nyt)
 - **Feb 28, 11:39 PM** - Momentus prepares to host 10 demonstration payloads on Vigoride 7 flight (spacenews)
+- **Mar 01, 12:14 AM** - Intuitive Machines raises $175 million in stock sale (spacenews)
