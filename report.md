@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 22 | 42 |
-| nyt | 0 | 3 | 19 | 40 |
+| nyt | 0 | 3 | 20 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3226,3 +3226,4 @@
 - **Mar 01, 06:04 AM** - Texas Space Commission completes $150 million in awards (spacenews)
 - **Mar 01, 06:39 AM** - Norway’s Century-Long Watch on the Northern Lights (nyt)
 - **Mar 01, 07:14 AM** - German defense firm said to be weighing bid for Mynaric (spacenews)
+- **Mar 01, 07:49 AM** - NASA Aims for 2 Moon Landings in 2028 With New Artemis Schedule (nyt)
