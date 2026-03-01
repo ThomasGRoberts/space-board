@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-01T00:04:32.236657+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e17c90574b30462dfd059db24d2ad628",
+    "trigger_count": 0,
+    "current_item_id": "13ddd313b0a972d6c2b02112ad42e99d",
     "data": [
         {
             "id": "956e8913d01fa7f1f14e0a385b498bc7",
@@ -8733,6 +8733,18 @@
             "fetched_datetime": "2026-03-01T00:14:18.836724Z",
             "shown_at": [
                 "2026-03-01T00:14:19.791118Z"
+            ]
+        },
+        {
+            "id": "13ddd313b0a972d6c2b02112ad42e99d",
+            "source": "spacenews",
+            "text": "CAS Space to launch Kinetica-2 in late March carrying prototype cargo spacecraft",
+            "source_link": "https://spacenews.com/cas-space-to-launch-kinetica-2-in-late-march-carrying-prototype-cargo-spacecraft/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-01T08:59:06.772100Z",
+            "shown_at": [
+                "2026-03-01T08:59:07.495354Z"
             ]
         }
     ]

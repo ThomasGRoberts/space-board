@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 5 | 22 | 42 |
+| spacenews | 3 | 6 | 23 | 43 |
 | nyt | 0 | 3 | 19 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -3228,3 +3228,4 @@
 - **Mar 01, 07:14 AM** - German defense firm said to be weighing bid for Mynaric (spacenews)
 - **Mar 01, 07:49 AM** - NASA Aims for 2 Moon Landings in 2028 With New Artemis Schedule (nyt)
 - **Mar 01, 08:25 AM** - Texas Space Commission completes $150 million in awards (spacenews)
+- **Mar 01, 08:59 AM** - CAS Space to launch Kinetica-2 in late March carrying prototype cargo spacecraft (spacenews)
