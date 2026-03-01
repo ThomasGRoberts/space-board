@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 5 | 22 | 43 |
-| nyt | 0 | 3 | 19 | 39 |
+| spacenews | 2 | 5 | 21 | 42 |
+| nyt | 0 | 3 | 20 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3214,3 +3214,4 @@
 - **Feb 28, 10:59 PM** - NASA Aims for 2 Moon Landings in 2028 With New Artemis Schedule (nyt)
 - **Feb 28, 11:39 PM** - Momentus prepares to host 10 demonstration payloads on Vigoride 7 flight (spacenews)
 - **Mar 01, 12:14 AM** - Intuitive Machines raises $175 million in stock sale (spacenews)
+- **Mar 01, 12:49 AM** - NASA Shakes Up Artemis Schedule, Aiming for 2 Moon Landings in 2028 (nyt)
