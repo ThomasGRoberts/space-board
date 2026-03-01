@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 5 | 21 | 42 |
-| nyt | 0 | 3 | 20 | 40 |
+| spacenews | 2 | 5 | 22 | 43 |
+| nyt | 0 | 3 | 19 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3219,3 +3219,4 @@
 - **Mar 01, 01:59 AM** - Norway’s Century-Long Watch on the Northern Lights (nyt)
 - **Mar 01, 02:34 AM** - Space Force halts Vulcan missions pending investigation into solid rocket issue (spacenews)
 - **Mar 01, 03:09 AM** - Space X Wants to Launch 1 Million Satellites, but Is There Room?  (nyt)
+- **Mar 01, 03:44 AM** - Aalyria hits $1.3 billion valuation after raising funds for satellite mesh network (spacenews)
