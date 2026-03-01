@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 4 | 21 | 42 |
-| nyt | 0 | 2 | 19 | 40 |
+| nyt | 0 | 1 | 20 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3249,3 +3249,4 @@
 - **Mar 01, 07:34 PM** - Space Force opens secretive space tracking to commercial firms (spacenews)
 - **Mar 01, 08:09 PM** - Norway’s Century-Long Watch on the Northern Lights (nyt)
 - **Mar 01, 08:44 PM** - China’s Tianwen-2 probe operating normally on approach to asteroid (spacenews)
+- **Mar 01, 09:19 PM** - Sorry, SpaceX: It’s Getting Too Crowded Up There (nyt)
