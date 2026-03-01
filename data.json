@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-01T00:04:32.236657+00:00",
-    "trigger_count": 6,
-    "current_item_id": "02b1f44e713758491e6fe42e88e23857",
+    "trigger_count": 0,
+    "current_item_id": "5272f9d1bc6ba65563566e42f3fc5cbb",
     "data": [
         {
             "id": "956e8913d01fa7f1f14e0a385b498bc7",
@@ -8762,6 +8762,18 @@
             "fetched_datetime": "2026-03-01T08:59:06.772100Z",
             "shown_at": [
                 "2026-03-01T08:59:07.495354Z"
+            ]
+        },
+        {
+            "id": "5272f9d1bc6ba65563566e42f3fc5cbb",
+            "source": "spacenews",
+            "text": "Space Force opens secretive space tracking to commercial firms",
+            "source_link": "https://spacenews.com/space-force-opens-secretive-space-tracking-to-commercial-firms/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-01T19:34:38.194728Z",
+            "shown_at": [
+                "2026-03-01T19:34:39.289479Z"
             ]
         }
     ]
