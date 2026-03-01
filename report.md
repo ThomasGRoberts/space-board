@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 5 | 22 | 42 |
+| spacenews | 3 | 5 | 22 | 43 |
 | nyt | 0 | 3 | 19 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -3234,3 +3234,4 @@
 - **Mar 01, 10:44 AM** - Problem With Artemis Rocket Will Delay NASA’s Moon Mission (nyt)
 - **Mar 01, 11:19 AM** - Golden Dome to require unprecedented coordination between U.S. combatant commands (spacenews)
 - **Mar 01, 11:54 AM** - Norway’s Century-Long Watch on the Northern Lights (nyt)
+- **Mar 01, 12:29 PM** - A banner year for military space funding— with an unclear path beyond (spacenews)
