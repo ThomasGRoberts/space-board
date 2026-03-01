@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 4 | 22 | 43 |
-| nyt | 0 | 0 | 19 | 39 |
+| spacenews | 3 | 4 | 21 | 43 |
+| nyt | 0 | 0 | 20 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3251,3 +3251,4 @@
 - **Mar 01, 08:44 PM** - China’s Tianwen-2 probe operating normally on approach to asteroid (spacenews)
 - **Mar 01, 09:19 PM** - Sorry, SpaceX: It’s Getting Too Crowded Up There (nyt)
 - **Mar 01, 09:54 PM** - Re-framing orbital debris: from a statistical to dosage approach (spacenews)
+- **Mar 01, 10:29 PM** - Sorry, SpaceX: It’s Getting Too Crowded Up There (nyt)
