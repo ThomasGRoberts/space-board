@@ -1,9 +1,21 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-02-28T00:04:29.978859+00:00",
-    "trigger_count": 4,
+    "last_run_datetime": "2026-03-01T00:04:32.236657+00:00",
+    "trigger_count": 5,
     "current_item_id": "f556cb6ff849b71441111b2b64eb392d",
     "data": [
+        {
+            "id": "956e8913d01fa7f1f14e0a385b498bc7",
+            "source": "spacenews",
+            "text": "NASA on ‘aggressive’ schedule to complete SLS repairs for April launch",
+            "source_link": "https://spacenews.com/nasa-on-aggressive-schedule-to-complete-sls-repairs-for-april-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-02-28T17:44:20.468349Z",
+            "shown_at": [
+                "2026-02-28T17:44:21.547291Z"
+            ]
+        },
         {
             "id": "7c8a0192672807c7903b41a24e0a819b",
             "source": "nyt",
@@ -8695,35 +8707,6 @@
                 "2025-10-24T03:25:55.572475Z",
                 "2025-10-24T05:19:37.854001Z",
                 "2025-10-24T08:19:45.312738Z"
-            ]
-        },
-        {
-            "id": "824eff72f376d20ec854481a357aa537",
-            "source": "spacenews",
-            "text": "As shutdown continues, science community keeps focus on long-term budget concerns",
-            "source_link": "https://spacenews.com/as-shutdown-continues-science-community-keeps-focus-on-long-term-budget-concerns/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-17T03:51:57.717794Z",
-            "shown_at": [
-                "2025-10-17T03:51:59.131611Z",
-                "2025-10-18T09:05:44.262094Z",
-                "2025-10-19T10:02:10.091390Z",
-                "2025-10-21T23:57:50.093673Z",
-                "2025-10-23T02:38:00.082012Z",
-                "2025-10-23T14:06:01.183171Z"
-            ]
-        },
-        {
-            "id": "956e8913d01fa7f1f14e0a385b498bc7",
-            "source": "spacenews",
-            "text": "NASA on ‘aggressive’ schedule to complete SLS repairs for April launch",
-            "source_link": "https://spacenews.com/nasa-on-aggressive-schedule-to-complete-sls-repairs-for-april-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-28T17:44:20.468349Z",
-            "shown_at": [
-                "2026-02-28T17:44:21.547291Z"
             ]
         }
     ]

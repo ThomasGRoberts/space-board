@@ -2,13 +2,12 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 3 | 20 | 39 |
 | spacenews | 1 | 4 | 21 | 43 |
+| nyt | 0 | 3 | 20 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
 
-- **Oct 17, 03:51 AM** - As shutdown continues, science community keeps focus on long-term budget concerns (spacenews)
 - **Oct 17, 09:29 AM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
 - **Oct 17, 10:53 AM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
 - **Oct 17, 11:14 AM** - First Ariane 64 launch slips to 2026 (spacenews)
@@ -41,7 +40,6 @@
 - **Oct 18, 07:51 AM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
 - **Oct 18, 08:21 AM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 18, 08:49 AM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
-- **Oct 18, 09:05 AM** - As shutdown continues, science community keeps focus on long-term budget concerns (spacenews)
 - **Oct 18, 09:47 AM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
 - **Oct 18, 10:02 AM** - Europe outlines defense flagship programs and confirms European Space Shield by 2026 (spacenews)
 - **Oct 18, 10:15 AM** - No future for Space Futures Command, sources say (breaking_defense)
@@ -73,7 +71,6 @@
 - **Oct 19, 06:35 AM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 19, 07:37 AM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 19, 09:33 AM** - No future for Space Futures Command, sources say (breaking_defense)
-- **Oct 19, 10:02 AM** - As shutdown continues, science community keeps focus on long-term budget concerns (spacenews)
 - **Oct 19, 10:31 AM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 19, 10:46 AM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
 - **Oct 19, 12:27 PM** - No future for Space Futures Command, sources say (breaking_defense)
@@ -149,7 +146,6 @@
 - **Oct 21, 10:56 PM** - Money is pouring into defense but dual-use is the real sweet spot (spacenews)
 - **Oct 21, 11:13 PM** - With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas (nyt)
 - **Oct 21, 11:43 PM** - No future for Space Futures Command, sources say (breaking_defense)
-- **Oct 21, 11:57 PM** - As shutdown continues, science community keeps focus on long-term budget concerns (spacenews)
 - **Oct 22, 12:14 AM** - How to See the Orionids Meteor Shower: Best Time to Watch (nyt)
 - **Oct 22, 01:19 AM** - With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas (nyt)
 - **Oct 22, 01:33 AM** - Samara Aerospace pointing technology to be tested in orbit (spacenews)
@@ -199,7 +195,6 @@
 - **Oct 23, 01:42 AM** - Europe outlines defense flagship programs and confirms European Space Shield by 2026 (spacenews)
 - **Oct 23, 01:55 AM** - How to See the Orionids Meteor Shower: Best Time to Watch (nyt)
 - **Oct 23, 02:24 AM** - No future for Space Futures Command, sources say (breaking_defense)
-- **Oct 23, 02:38 AM** - As shutdown continues, science community keeps focus on long-term budget concerns (spacenews)
 - **Oct 23, 02:51 AM** - With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas (nyt)
 - **Oct 23, 03:05 AM** - Hungary signs Artemis Accords (spacenews)
 - **Oct 23, 03:19 AM** - Quantum Space to launch first spacecraft in mid-2026 (spacenews)
@@ -233,7 +228,6 @@
 - **Oct 23, 01:07 PM** - The next space race will be won at night (spacenews)
 - **Oct 23, 01:21 PM** - An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever (nyt)
 - **Oct 23, 01:49 PM** - Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact (breaking_defense)
-- **Oct 23, 02:06 PM** - As shutdown continues, science community keeps focus on long-term budget concerns (spacenews)
 - **Oct 23, 02:22 PM** - George F. Smoot, Who Showed How the Cosmos Began, Is Dead at 80 (nyt)
 - **Oct 23, 03:38 PM** - No future for Space Futures Command, sources say (breaking_defense)
 - **Oct 23, 03:51 PM** - Planet Labs wins $12.8 million NGA contract for maritime intelligence in Asia-Pacific (spacenews)
