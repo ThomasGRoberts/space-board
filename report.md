@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 22 | 42 |
-| nyt | 0 | 3 | 19 | 40 |
+| nyt | 0 | 3 | 20 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3216,3 +3216,4 @@
 - **Mar 01, 12:14 AM** - Intuitive Machines raises $175 million in stock sale (spacenews)
 - **Mar 01, 12:49 AM** - NASA Shakes Up Artemis Schedule, Aiming for 2 Moon Landings in 2028 (nyt)
 - **Mar 01, 01:24 AM** - Sophia Space claims $10 million in seed round (spacenews)
+- **Mar 01, 01:59 AM** - Norway’s Century-Long Watch on the Northern Lights (nyt)
