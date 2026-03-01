@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 21 | 42 |
-| nyt | 0 | 2 | 20 | 40 |
+| spacenews | 2 | 3 | 22 | 43 |
+| nyt | 0 | 2 | 19 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3244,3 +3244,4 @@
 - **Mar 01, 04:34 PM** - NASA Aims for 2 Moon Landings in 2028 With New Artemis Schedule (nyt)
 - **Mar 01, 05:09 PM** - At Colorado space firms, Hegseth casts Pentagon bureaucracy as the enemy (spacenews)
 - **Mar 01, 05:44 PM** - NASA Shakes Up Artemis Schedule, Aiming for 2 Moon Landings in 2028 (nyt)
+- **Mar 01, 06:19 PM** - Engineering Behind EarthDaily: Solving for Global Daily Coverage, Scientific Quality, and High-Spectral Diversity (spacenews)
