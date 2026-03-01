@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 3 | 22 | 42 |
-| nyt | 0 | 3 | 19 | 40 |
+| nyt | 0 | 3 | 20 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3241,3 +3241,4 @@
 - **Mar 01, 02:49 PM** - NASA on ‘aggressive’ schedule to complete SLS repairs for April launch (spacenews)
 - **Mar 01, 03:24 PM** - Problem With Artemis Rocket Will Delay NASA’s Moon Mission (nyt)
 - **Mar 01, 03:58 PM** - Boeing demonstrates large language model for space-grade hardware (spacenews)
+- **Mar 01, 04:34 PM** - NASA Aims for 2 Moon Landings in 2028 With New Artemis Schedule (nyt)
