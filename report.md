@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 22 | 42 |
-| nyt | 0 | 3 | 19 | 40 |
+| nyt | 0 | 3 | 20 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3222,3 +3222,4 @@
 - **Mar 01, 03:44 AM** - Aalyria hits $1.3 billion valuation after raising funds for satellite mesh network (spacenews)
 - **Mar 01, 04:19 AM** - NASA Shakes Up Artemis Schedule, Aiming for 2 Moon Landings in 2028 (nyt)
 - **Mar 01, 04:54 AM** - Sophia Space claims $10 million in seed round (spacenews)
+- **Mar 01, 05:29 AM** - NASA Aims for 2 Moon Landings in 2028 With New Artemis Schedule (nyt)
