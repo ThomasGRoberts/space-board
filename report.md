@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 6 | 22 | 42 |
+| spacenews | 3 | 6 | 22 | 43 |
 | nyt | 0 | 3 | 19 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -3230,3 +3230,4 @@
 - **Mar 01, 08:25 AM** - Texas Space Commission completes $150 million in awards (spacenews)
 - **Mar 01, 08:59 AM** - CAS Space to launch Kinetica-2 in late March carrying prototype cargo spacecraft (spacenews)
 - **Mar 01, 09:34 AM** - Norway’s Century-Long Watch on the Northern Lights (nyt)
+- **Mar 01, 10:09 AM** - Golden Dome to require unprecedented coordination between U.S. combatant commands (spacenews)
