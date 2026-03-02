@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-02T00:04:38.307210+00:00",
-    "trigger_count": 6,
-    "current_item_id": "fafc78bf5d2adbb0b56325a8c76e11bf",
+    "trigger_count": 0,
+    "current_item_id": "8215a008a1243acebe5a52e1b67ef4d0",
     "data": [
         {
             "id": "5272f9d1bc6ba65563566e42f3fc5cbb",
@@ -8719,6 +8719,18 @@
             "fetched_datetime": "2026-03-02T15:14:58.111785Z",
             "shown_at": [
                 "2026-03-02T15:14:59.052240Z"
+            ]
+        },
+        {
+            "id": "8215a008a1243acebe5a52e1b67ef4d0",
+            "source": "spacenews",
+            "text": "Stargazing into the future of SSA",
+            "source_link": "https://spacenews.com/stargazing-into-the-future-of-ssa/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-02T16:52:06.758089Z",
+            "shown_at": [
+                "2026-03-02T16:52:07.656827Z"
             ]
         }
     ]

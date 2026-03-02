@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 11 | 22 | 44 |
-| nyt | 1 | 1 | 17 | 36 |
+| spacenews | 9 | 12 | 22 | 44 |
+| nyt | 1 | 1 | 16 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3137,3 +3137,4 @@
 - **Mar 02, 02:04 PM** - Hardware is no longer the problem holding back space-based data centers — the supply chain is (spacenews)
 - **Mar 02, 02:39 PM** - Blood Moon Lunar Eclipse 2026: Time and Visibility Guide (nyt)
 - **Mar 02, 03:14 PM** - Pentagon details cyber, space ‘first mover’ role in Iran operations (spacenews)
+- **Mar 02, 04:52 PM** - Stargazing into the future of SSA (spacenews)
