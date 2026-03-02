@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-02T00:04:38.307210+00:00",
-    "trigger_count": 6,
-    "current_item_id": "df2cdc52129d403acba2e7d9633c7126",
+    "trigger_count": 0,
+    "current_item_id": "fafc78bf5d2adbb0b56325a8c76e11bf",
     "data": [
         {
             "id": "5272f9d1bc6ba65563566e42f3fc5cbb",
@@ -8707,6 +8707,18 @@
             "fetched_datetime": "2026-03-02T14:04:40.915257Z",
             "shown_at": [
                 "2026-03-02T14:04:42.111889Z"
+            ]
+        },
+        {
+            "id": "fafc78bf5d2adbb0b56325a8c76e11bf",
+            "source": "spacenews",
+            "text": "Pentagon details cyber, space ‘first mover’ role in Iran operations",
+            "source_link": "https://spacenews.com/pentagon-details-cyber-space-first-mover-role-in-iran-operations/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-02T15:14:58.111785Z",
+            "shown_at": [
+                "2026-03-02T15:14:59.052240Z"
             ]
         }
     ]
