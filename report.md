@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 11 | 21 | 43 |
+| spacenews | 9 | 12 | 22 | 43 |
 | nyt | 1 | 1 | 16 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -3142,3 +3142,4 @@
 - **Mar 02, 06:19 PM** - AST SpaceMobile wins $30 million contract for military  broadband demo (spacenews)
 - **Mar 02, 06:54 PM** - Sorry, SpaceX: It’s Getting Too Crowded Up There (nyt)
 - **Mar 02, 07:29 PM** - At Colorado space firms, Hegseth casts Pentagon bureaucracy as the enemy (spacenews)
+- **Mar 02, 08:05 PM** - Kelli Kedis Ogborn Joining Commercial Space Federation as Strategic Advisor for Global Markets and Industry Engagement (spacenews)
