@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 12 | 22 | 43 |
-| nyt | 1 | 1 | 15 | 35 |
+| nyt | 1 | 1 | 16 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3145,3 +3145,4 @@
 - **Mar 02, 08:05 PM** - Kelli Kedis Ogborn Joining Commercial Space Federation as Strategic Advisor for Global Markets and Industry Engagement (spacenews)
 - **Mar 02, 08:39 PM** - NASA Shakes Up Artemis Schedule, Aiming for 2 Moon Landings in 2028 (nyt)
 - **Mar 02, 09:14 PM** - Space Force rethinks satellite ground station strategy (spacenews)
+- **Mar 02, 09:49 PM** - Norway’s Century-Long Watch on the Northern Lights (nyt)
