@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 5 | 22 | 43 |
-| nyt | 0 | 0 | 19 | 39 |
+| nyt | 0 | 0 | 20 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3114,3 +3114,4 @@
 - **Mar 01, 11:39 PM** - NASA Aims for 2 Moon Landings in 2028 With New Artemis Schedule (nyt)
 - **Mar 02, 12:14 AM** - LambdaVision books space on Starlab commercial space station (spacenews)
 - **Mar 02, 12:49 AM** - NASA outlines objectives for Mars communications orbiter (spacenews)
+- **Mar 02, 01:24 AM** - NASA Aims for 2 Moon Landings in 2028 With New Artemis Schedule (nyt)
