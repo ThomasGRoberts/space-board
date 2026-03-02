@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-02T00:04:38.307210+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1b5a4fa110cd39bfba3746f36d387d76",
+    "trigger_count": 0,
+    "current_item_id": "d8247fe9442a8774767a865ebfa48fe0",
     "data": [
         {
             "id": "5272f9d1bc6ba65563566e42f3fc5cbb",
@@ -8694,6 +8694,18 @@
             "fetched_datetime": "2026-03-02T13:29:23.521679Z",
             "shown_at": [
                 "2026-03-02T13:29:24.900511Z"
+            ]
+        },
+        {
+            "id": "d8247fe9442a8774767a865ebfa48fe0",
+            "source": "spacenews",
+            "text": "Hardware is no longer the problem holding back space-based data centers — the supply chain is",
+            "source_link": "https://spacenews.com/hardware-is-no-longer-the-problem-holding-back-space-based-data-centers-the-supply-chain-is/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-02T14:04:40.915257Z",
+            "shown_at": [
+                "2026-03-02T14:04:42.111889Z"
             ]
         }
     ]

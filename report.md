@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 9 | 21 | 43 |
+| spacenews | 7 | 10 | 22 | 44 |
 | nyt | 1 | 1 | 18 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -3134,3 +3134,4 @@
 - **Mar 02, 12:19 PM** - Space Force rethinks satellite ground station strategy (spacenews)
 - **Mar 02, 12:54 PM** - Sorry, SpaceX: It’s Getting Too Crowded Up There (nyt)
 - **Mar 02, 01:29 PM** - World Space Week 2025 Set Record With 50,000 Events in 102 Countries (spacenews)
+- **Mar 02, 02:04 PM** - Hardware is no longer the problem holding back space-based data centers — the supply chain is (spacenews)
