@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 21 | 43 |
-| nyt | 1 | 1 | 18 | 37 |
+| nyt | 1 | 1 | 19 | 38 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3130,3 +3130,4 @@
 - **Mar 02, 09:54 AM** - NASA revises plans for future Artemis missions, cancels upgrades to SLS (spacenews)
 - **Mar 02, 10:29 AM** - Blood Moon Lunar Eclipse 2026: Time and Visibility Guide (nyt)
 - **Mar 02, 11:05 AM** - Aalyria hits $1.3 billion valuation after raising funds for satellite mesh network (spacenews)
+- **Mar 02, 11:44 AM** - NASA Shakes Up Artemis Schedule, Aiming for 2 Moon Landings in 2028 (nyt)
