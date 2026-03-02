@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 7 | 21 | 43 |
+| spacenews | 4 | 7 | 22 | 44 |
 | nyt | 0 | 0 | 18 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -3127,3 +3127,4 @@
 - **Mar 02, 08:09 AM** - ESA announces 100 million euro satellite-mobile convergence initiative (spacenews)
 - **Mar 02, 08:44 AM** - Open Cosmos unveils vision for imagery-linked sovereign satellite connectivity (spacenews)
 - **Mar 02, 09:19 AM** - NASA Shakes Up Artemis Schedule, Aiming for 2 Moon Landings in 2028 (nyt)
+- **Mar 02, 09:54 AM** - NASA revises plans for future Artemis missions, cancels upgrades to SLS (spacenews)
