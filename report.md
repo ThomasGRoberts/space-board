@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 8 | 21 | 43 |
+| spacenews | 6 | 9 | 22 | 44 |
 | nyt | 1 | 1 | 18 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -3133,3 +3133,4 @@
 - **Mar 02, 11:44 AM** - NASA Shakes Up Artemis Schedule, Aiming for 2 Moon Landings in 2028 (nyt)
 - **Mar 02, 12:19 PM** - Space Force rethinks satellite ground station strategy (spacenews)
 - **Mar 02, 12:54 PM** - Sorry, SpaceX: It’s Getting Too Crowded Up There (nyt)
+- **Mar 02, 01:29 PM** - World Space Week 2025 Set Record With 50,000 Events in 102 Countries (spacenews)
