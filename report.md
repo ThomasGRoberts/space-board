@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 12 | 21 | 43 |
+| spacenews | 9 | 12 | 22 | 43 |
 | nyt | 1 | 1 | 16 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -3146,3 +3146,4 @@
 - **Mar 02, 08:39 PM** - NASA Shakes Up Artemis Schedule, Aiming for 2 Moon Landings in 2028 (nyt)
 - **Mar 02, 09:14 PM** - Space Force rethinks satellite ground station strategy (spacenews)
 - **Mar 02, 09:49 PM** - Norway’s Century-Long Watch on the Northern Lights (nyt)
+- **Mar 02, 10:24 PM** - At Colorado space firms, Hegseth casts Pentagon bureaucracy as the enemy (spacenews)
