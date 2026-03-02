@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-02T00:04:38.307210+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5e4094592aa174534802e68df81b69c8",
+    "trigger_count": 0,
+    "current_item_id": "0920ac24b8fe4fa9ec06d60be12f6f7c",
     "data": [
         {
             "id": "5272f9d1bc6ba65563566e42f3fc5cbb",
@@ -8641,6 +8641,18 @@
             "fetched_datetime": "2026-03-02T08:09:26.764533Z",
             "shown_at": [
                 "2026-03-02T08:09:27.534472Z"
+            ]
+        },
+        {
+            "id": "0920ac24b8fe4fa9ec06d60be12f6f7c",
+            "source": "spacenews",
+            "text": "Open Cosmos unveils vision for imagery-linked sovereign satellite connectivity",
+            "source_link": "https://spacenews.com/open-cosmos-unveils-vision-for-imagery-linked-sovereign-satellite-connectivity/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-02T08:44:16.245508Z",
+            "shown_at": [
+                "2026-03-02T08:44:17.129942Z"
             ]
         }
     ]
