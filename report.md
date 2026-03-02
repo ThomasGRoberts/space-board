@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 5 | 20 | 42 |
+| spacenews | 3 | 5 | 21 | 43 |
 | nyt | 0 | 0 | 19 | 38 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -3123,3 +3123,4 @@
 - **Mar 02, 05:45 AM** - Sorry, SpaceX: It’s Getting Too Crowded Up There (nyt)
 - **Mar 02, 06:19 AM** - Boeing demonstrates large language model for space-grade hardware (spacenews)
 - **Mar 02, 06:54 AM** - Sorry, SpaceX: It’s Getting Too Crowded Up There (nyt)
+- **Mar 02, 07:34 AM** - A banner year for military space funding— with an unclear path beyond (spacenews)
