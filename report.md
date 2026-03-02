@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 5 | 21 | 42 |
-| nyt | 0 | 0 | 18 | 38 |
+| nyt | 0 | 0 | 19 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3122,3 +3122,4 @@
 - **Mar 02, 05:09 AM** - Engineering Behind EarthDaily: Solving for Global Daily Coverage, Scientific Quality, and High-Spectral Diversity (spacenews)
 - **Mar 02, 05:45 AM** - Sorry, SpaceX: It’s Getting Too Crowded Up There (nyt)
 - **Mar 02, 06:19 AM** - Boeing demonstrates large language model for space-grade hardware (spacenews)
+- **Mar 02, 06:54 AM** - Sorry, SpaceX: It’s Getting Too Crowded Up There (nyt)
