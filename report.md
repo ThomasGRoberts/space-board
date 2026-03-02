@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 12 | 21 | 43 |
-| nyt | 1 | 1 | 16 | 35 |
+| spacenews | 9 | 11 | 21 | 42 |
+| nyt | 1 | 1 | 16 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3138,3 +3138,4 @@
 - **Mar 02, 02:39 PM** - Blood Moon Lunar Eclipse 2026: Time and Visibility Guide (nyt)
 - **Mar 02, 03:14 PM** - Pentagon details cyber, space ‘first mover’ role in Iran operations (spacenews)
 - **Mar 02, 04:52 PM** - Stargazing into the future of SSA (spacenews)
+- **Mar 02, 05:44 PM** - Sorry, SpaceX: It’s Getting Too Crowded Up There (nyt)
