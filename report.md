@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 12 | 22 | 43 |
-| nyt | 1 | 1 | 15 | 35 |
+| spacenews | 10 | 13 | 23 | 44 |
+| nyt | 1 | 1 | 15 | 34 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3147,3 +3147,4 @@
 - **Mar 02, 09:14 PM** - Space Force rethinks satellite ground station strategy (spacenews)
 - **Mar 02, 09:49 PM** - Norway’s Century-Long Watch on the Northern Lights (nyt)
 - **Mar 02, 10:24 PM** - At Colorado space firms, Hegseth casts Pentagon bureaucracy as the enemy (spacenews)
+- **Mar 02, 10:59 PM** - Deutsche Telekom aims to bring Starlink Mobile V2 to Europe in 2028 (spacenews)
