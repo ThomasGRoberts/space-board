@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 5 | 21 | 42 |
-| nyt | 0 | 0 | 18 | 38 |
+| nyt | 0 | 0 | 19 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3118,3 +3118,4 @@
 - **Mar 02, 02:49 AM** - Sophia Space claims $10 million in seed round (spacenews)
 - **Mar 02, 03:24 AM** - Sorry, SpaceX: It’s Getting Too Crowded Up There (nyt)
 - **Mar 02, 03:59 AM** - Israeli startup targets the economics of high-resolution Earth observation (spacenews)
+- **Mar 02, 04:34 AM** - NASA Aims for 2 Moon Landings in 2028 With New Artemis Schedule (nyt)
