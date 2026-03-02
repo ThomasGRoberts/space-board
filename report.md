@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 5 | 20 | 42 |
+| spacenews | 3 | 5 | 21 | 43 |
 | nyt | 0 | 0 | 19 | 38 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -3119,3 +3119,4 @@
 - **Mar 02, 03:24 AM** - Sorry, SpaceX: It’s Getting Too Crowded Up There (nyt)
 - **Mar 02, 03:59 AM** - Israeli startup targets the economics of high-resolution Earth observation (spacenews)
 - **Mar 02, 04:34 AM** - NASA Aims for 2 Moon Landings in 2028 With New Artemis Schedule (nyt)
+- **Mar 02, 05:09 AM** - Engineering Behind EarthDaily: Solving for Global Daily Coverage, Scientific Quality, and High-Spectral Diversity (spacenews)
