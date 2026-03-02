@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-02T00:04:38.307210+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c0dae3f404bba5b2c380e55a4e6b33d3",
+    "trigger_count": 0,
+    "current_item_id": "0187d82421adc19ad8e8b74ba7edcaf9",
     "data": [
         {
             "id": "5272f9d1bc6ba65563566e42f3fc5cbb",
@@ -8607,6 +8607,18 @@
                 "2025-10-17T13:34:05.874225Z",
                 "2025-10-17T22:19:49.791811Z",
                 "2025-10-21T22:56:06.125194Z"
+            ]
+        },
+        {
+            "id": "0187d82421adc19ad8e8b74ba7edcaf9",
+            "source": "spacenews",
+            "text": "NASA outlines objectives for Mars communications orbiter",
+            "source_link": "https://spacenews.com/nasa-outlines-objectives-for-mars-communications-orbiter/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-02T00:49:37.555494Z",
+            "shown_at": [
+                "2026-03-02T00:49:38.487708Z"
             ]
         }
     ]
