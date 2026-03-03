@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 13 | 22 | 43 |
+| spacenews | 10 | 13 | 23 | 44 |
 | nyt | 1 | 1 | 15 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -3021,3 +3021,4 @@
 - **Mar 02, 10:24 PM** - At Colorado space firms, Hegseth casts Pentagon bureaucracy as the enemy (spacenews)
 - **Mar 02, 10:59 PM** - Deutsche Telekom aims to bring Starlink Mobile V2 to Europe in 2028 (spacenews)
 - **Mar 02, 11:34 PM** - Sorry, SpaceX: It’s Getting Too Crowded Up There (nyt)
+- **Mar 03, 12:09 AM** - Golden Dome to require unprecedented coordination between U.S. combatant commands (spacenews)
