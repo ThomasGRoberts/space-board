@@ -1,9 +1,143 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-03-02T00:04:38.307210+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2026-03-03T00:04:48.678051+00:00",
+    "trigger_count": 6,
     "current_item_id": "02b1f44e713758491e6fe42e88e23857",
     "data": [
+        {
+            "id": "02740bf89bff1d922bf5c86e149d6a5d",
+            "source": "spacenews",
+            "text": "Deutsche Telekom aims to bring Starlink Mobile V2 to Europe in 2028",
+            "source_link": "https://spacenews.com/deutsche-telekom-aims-to-bring-starlink-mobile-v2-to-europe-in-2028/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-02T22:59:14.886896Z",
+            "shown_at": [
+                "2026-03-02T22:59:16.281780Z"
+            ]
+        },
+        {
+            "id": "fe005c36b799d6ef74cf2ffc471aa935",
+            "source": "spacenews",
+            "text": "Kelli Kedis Ogborn Joining Commercial Space Federation as Strategic Advisor for Global Markets and Industry Engagement",
+            "source_link": "https://spacenews.com/kelli-kedis-ogborn-joining-commercial-space-federation-as-strategic-advisor-for-global-markets-and-industry-engagement/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-02T20:05:05.273346Z",
+            "shown_at": [
+                "2026-03-02T20:05:06.444733Z"
+            ]
+        },
+        {
+            "id": "8215a008a1243acebe5a52e1b67ef4d0",
+            "source": "spacenews",
+            "text": "Stargazing into the future of SSA",
+            "source_link": "https://spacenews.com/stargazing-into-the-future-of-ssa/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-02T16:52:06.758089Z",
+            "shown_at": [
+                "2026-03-02T16:52:07.656827Z"
+            ]
+        },
+        {
+            "id": "fafc78bf5d2adbb0b56325a8c76e11bf",
+            "source": "spacenews",
+            "text": "Pentagon details cyber, space ‘first mover’ role in Iran operations",
+            "source_link": "https://spacenews.com/pentagon-details-cyber-space-first-mover-role-in-iran-operations/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-02T15:14:58.111785Z",
+            "shown_at": [
+                "2026-03-02T15:14:59.052240Z"
+            ]
+        },
+        {
+            "id": "d8247fe9442a8774767a865ebfa48fe0",
+            "source": "spacenews",
+            "text": "Hardware is no longer the problem holding back space-based data centers — the supply chain is",
+            "source_link": "https://spacenews.com/hardware-is-no-longer-the-problem-holding-back-space-based-data-centers-the-supply-chain-is/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-02T14:04:40.915257Z",
+            "shown_at": [
+                "2026-03-02T14:04:42.111889Z"
+            ]
+        },
+        {
+            "id": "1b5a4fa110cd39bfba3746f36d387d76",
+            "source": "spacenews",
+            "text": "World Space Week 2025 Set Record With 50,000 Events in 102 Countries",
+            "source_link": "https://spacenews.com/world-space-week-2025-set-record-with-50000-events-in-102-countries/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-02T13:29:23.521679Z",
+            "shown_at": [
+                "2026-03-02T13:29:24.900511Z"
+            ]
+        },
+        {
+            "id": "67404e0ae39f58f5a687f8af0d1bcf3b",
+            "source": "spacenews",
+            "text": "Space Force rethinks satellite ground station strategy",
+            "source_link": "https://spacenews.com/space-force-rethinks-satellite-ground-station-strategy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-02T12:19:20.865119Z",
+            "shown_at": [
+                "2026-03-02T12:19:21.976137Z",
+                "2026-03-02T21:14:13.838605Z"
+            ]
+        },
+        {
+            "id": "df2cdc52129d403acba2e7d9633c7126",
+            "source": "nyt",
+            "text": "Blood Moon Lunar Eclipse 2026: Time and Visibility Guide",
+            "source_link": "https://www.nytimes.com/2026/03/02/science/blood-moon-lunar-eclipse-time-when-tonight.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-02T10:29:24.610482Z",
+            "shown_at": [
+                "2026-03-02T10:29:25.395992Z",
+                "2026-03-02T14:39:05.446318Z"
+            ]
+        },
+        {
+            "id": "0920ac24b8fe4fa9ec06d60be12f6f7c",
+            "source": "spacenews",
+            "text": "Open Cosmos unveils vision for imagery-linked sovereign satellite connectivity",
+            "source_link": "https://spacenews.com/open-cosmos-unveils-vision-for-imagery-linked-sovereign-satellite-connectivity/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-02T08:44:16.245508Z",
+            "shown_at": [
+                "2026-03-02T08:44:17.129942Z"
+            ]
+        },
+        {
+            "id": "5e4094592aa174534802e68df81b69c8",
+            "source": "spacenews",
+            "text": "ESA announces 100 million euro satellite-mobile convergence initiative",
+            "source_link": "https://spacenews.com/esa-announces-100-million-euro-satellite-mobile-convergence-initiative/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-02T08:09:26.764533Z",
+            "shown_at": [
+                "2026-03-02T08:09:27.534472Z"
+            ]
+        },
+        {
+            "id": "0187d82421adc19ad8e8b74ba7edcaf9",
+            "source": "spacenews",
+            "text": "NASA outlines objectives for Mars communications orbiter",
+            "source_link": "https://spacenews.com/nasa-outlines-objectives-for-mars-communications-orbiter/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-02T00:49:37.555494Z",
+            "shown_at": [
+                "2026-03-02T00:49:38.487708Z"
+            ]
+        },
         {
             "id": "5272f9d1bc6ba65563566e42f3fc5cbb",
             "source": "spacenews",
@@ -8381,389 +8515,6 @@
                 "2025-10-24T18:32:22.366112Z",
                 "2025-10-26T04:19:39.862543Z",
                 "2025-10-26T17:39:49.123871Z"
-            ]
-        },
-        {
-            "id": "ecf4e78bd573ba46b643b8cc3b26b7bf",
-            "source": "nyt",
-            "text": "With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas",
-            "source_link": "https://www.nytimes.com/2025/10/20/science/nasa-moon-lander-spacex.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-20T22:37:43.163161Z",
-            "shown_at": [
-                "2025-10-20T22:37:43.782634Z",
-                "2025-10-21T02:47:55.545251Z",
-                "2025-10-21T04:50:06.966664Z",
-                "2025-10-21T15:40:11.769121Z",
-                "2025-10-21T17:57:39.874728Z",
-                "2025-10-21T22:11:52.261136Z",
-                "2025-10-21T23:13:48.982761Z",
-                "2025-10-22T01:19:46.209964Z",
-                "2025-10-22T02:20:03.679343Z",
-                "2025-10-22T05:29:55.551841Z",
-                "2025-10-22T07:47:47.099124Z",
-                "2025-10-22T09:12:33.669004Z",
-                "2025-10-23T02:51:57.835217Z",
-                "2025-10-23T04:02:15.252971Z",
-                "2025-10-23T08:05:44.773090Z",
-                "2025-10-23T10:05:50.511665Z",
-                "2025-10-23T11:06:09.479869Z",
-                "2025-10-23T21:38:01.995169Z",
-                "2025-10-24T04:23:51.754691Z",
-                "2025-10-24T06:19:48.190288Z",
-                "2025-10-24T12:27:56.548659Z",
-                "2025-10-24T14:48:00.266593Z",
-                "2025-10-24T15:47:45.704153Z",
-                "2025-10-24T16:45:51.067890Z",
-                "2025-10-24T18:02:16.900751Z",
-                "2025-10-25T10:14:03.490879Z",
-                "2025-10-25T12:13:55.776709Z",
-                "2025-10-25T19:21:25.636267Z",
-                "2025-10-25T20:22:00.184479Z",
-                "2025-10-25T23:27:51.419219Z",
-                "2025-10-26T06:43:59.574169Z",
-                "2025-10-26T07:43:42.027912Z",
-                "2025-10-26T13:53:47.220873Z",
-                "2025-10-26T17:10:03.516546Z",
-                "2025-10-26T20:09:35.701668Z",
-                "2025-10-27T02:07:54.961058Z",
-                "2025-10-27T03:07:59.502721Z",
-                "2025-10-27T06:31:50.748519Z",
-                "2025-10-27T08:39:50.385978Z"
-            ]
-        },
-        {
-            "id": "4ace502aef500636437da881602b1be6",
-            "source": "nyt",
-            "text": "George F. Smoot, Who Showed How the Cosmos Began, Is Dead at 80",
-            "source_link": "https://www.nytimes.com/2025/10/20/science/space/george-f-smoot-dead.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-20T22:05:52.570307Z",
-            "shown_at": [
-                "2025-10-20T22:22:06.676191Z",
-                "2025-10-21T11:26:07.672864Z",
-                "2025-10-21T19:07:19.211792Z",
-                "2025-10-22T21:35:49.338964Z",
-                "2025-10-22T22:51:59.683231Z",
-                "2025-10-23T00:57:28.186236Z",
-                "2025-10-23T12:05:51.405010Z",
-                "2025-10-23T14:22:01.295668Z",
-                "2025-10-23T16:06:06.004380Z",
-                "2025-10-23T20:25:40.532869Z",
-                "2025-10-23T22:39:52.296454Z",
-                "2025-10-24T19:02:12.909108Z",
-                "2025-10-25T00:07:27.111244Z",
-                "2025-10-25T02:12:09.388273Z",
-                "2025-10-25T05:11:58.244317Z",
-                "2025-10-25T11:15:40.682900Z",
-                "2025-10-25T13:11:41.123406Z",
-                "2025-10-26T03:29:58.351719Z",
-                "2025-10-26T12:50:17.154038Z",
-                "2025-10-26T19:08:12.587575Z",
-                "2025-10-27T00:08:09.878917Z",
-                "2025-10-27T04:11:54.938327Z",
-                "2025-10-27T21:43:45.962911Z"
-            ]
-        },
-        {
-            "id": "5b027d687c069444e9daa1b521590a89",
-            "source": "nyt",
-            "text": "How to See the Orionids Meteor Shower: Best Time to Watch",
-            "source_link": "https://www.nytimes.com/2025/10/20/science/orionids-meteor-shower.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-20T22:05:52.570261Z",
-            "shown_at": [
-                "2025-10-20T22:05:53.220250Z",
-                "2025-10-21T05:50:00.495222Z",
-                "2025-10-21T20:05:53.041501Z",
-                "2025-10-22T00:14:03.801090Z",
-                "2025-10-22T17:29:47.772736Z",
-                "2025-10-22T19:35:48.316591Z",
-                "2025-10-23T01:55:47.564631Z",
-                "2025-10-23T06:05:47.750529Z",
-                "2025-10-23T09:06:13.314093Z",
-                "2025-10-23T17:08:03.197204Z",
-                "2025-10-23T18:10:09.901944Z",
-                "2025-10-24T07:19:58.786298Z",
-                "2025-10-24T09:21:54.787761Z",
-                "2025-10-24T10:24:04.062909Z",
-                "2025-10-24T13:47:48.712492Z",
-                "2025-10-24T21:11:56.547749Z",
-                "2025-10-24T22:09:28.543357Z",
-                "2025-10-25T06:13:23.944421Z",
-                "2025-10-25T16:27:38.332283Z",
-                "2025-10-25T17:27:56.364629Z",
-                "2025-10-25T18:25:39.707399Z",
-                "2025-10-26T04:35:59.375432Z",
-                "2025-10-26T11:45:38.449728Z",
-                "2025-10-26T18:10:09.145096Z",
-                "2025-10-26T22:07:37.337669Z",
-                "2025-10-27T09:49:45.479600Z",
-                "2025-10-27T11:05:41.926905Z",
-                "2025-10-27T12:25:52.547248Z",
-                "2025-10-27T13:27:54.218098Z",
-                "2025-10-27T17:48:00.158730Z",
-                "2025-10-27T18:45:48.865628Z",
-                "2025-10-27T20:43:48.229195Z"
-            ]
-        },
-        {
-            "id": "db033cacfa991bcf03d260af6b4705fe",
-            "source": "spacenews",
-            "text": "Duffy says NASA will open Artemis 3 lander contract to competition",
-            "source_link": "https://spacenews.com/duffy-says-nasa-will-open-artemis-3-lander-contract-to-competition/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-20T21:02:45.528779Z",
-            "shown_at": [
-                "2025-10-20T21:02:46.331882Z",
-                "2025-10-25T03:42:03.046915Z"
-            ]
-        },
-        {
-            "id": "145f876d67ea77ec6818956d3d2c00f9",
-            "source": "spacenews",
-            "text": "America needs a ‘Plan B’ to reach the moon first",
-            "source_link": "https://spacenews.com/america-needs-a-plan-b-to-reach-the-moon-first/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-20T13:11:48.370630Z",
-            "shown_at": [
-                "2025-10-20T13:11:49.417556Z",
-                "2025-10-22T18:48:06.037807Z",
-                "2025-10-23T12:19:43.819909Z",
-                "2025-10-24T07:47:53.730563Z",
-                "2025-10-24T11:42:02.928665Z",
-                "2025-10-24T15:18:06.368052Z",
-                "2025-10-25T02:43:54.072740Z",
-                "2025-10-26T05:21:58.192292Z"
-            ]
-        },
-        {
-            "id": "d9b171d1f67753c0967cc0f1b0061ad6",
-            "source": "spacenews",
-            "text": "Innospace gets license for first orbital launch attempt",
-            "source_link": "https://spacenews.com/innospace-gets-license-for-first-orbital-launch-attempt/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-20T03:49:30.125817Z",
-            "shown_at": [
-                "2025-10-20T03:49:30.659319Z",
-                "2025-10-20T10:21:50.873779Z",
-                "2025-10-21T01:03:56.760566Z"
-            ]
-        },
-        {
-            "id": "6758b6ffeb36e5412f61b7d655861e7c",
-            "source": "spacenews",
-            "text": "China resumes launches for Thousand Sails constellation, CAS Space launches new international payload",
-            "source_link": "https://spacenews.com/china-resumes-launches-for-thousand-sails-constellation-cas-space-launches-new-international-payload/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-19T15:43:59.606965Z",
-            "shown_at": [
-                "2025-10-19T15:44:00.549819Z",
-                "2025-10-23T06:21:58.550331Z",
-                "2025-10-23T17:53:50.211878Z",
-                "2025-10-25T17:41:43.601761Z",
-                "2025-10-26T11:28:05.476685Z"
-            ]
-        },
-        {
-            "id": "807ac3f6f905f0a715265b1c70908e14",
-            "source": "spacenews",
-            "text": "Planet Labs wins $12.8 million NGA contract for maritime intelligence in Asia-Pacific",
-            "source_link": "https://spacenews.com/planet-labs-wins-12-8-million-nga-contract-for-maritime-intelligence-in-asia-pacific/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-17T21:23:33.445775Z",
-            "shown_at": [
-                "2025-10-17T21:23:34.079108Z",
-                "2025-10-18T02:19:45.029584Z",
-                "2025-10-23T04:17:51.147978Z",
-                "2025-10-23T15:51:58.419004Z",
-                "2025-10-24T19:35:19.613645Z"
-            ]
-        },
-        {
-            "id": "4e87e1314a18e9469be20d400786083f",
-            "source": "spacenews",
-            "text": "Europe outlines defense flagship programs and confirms European Space Shield by 2026",
-            "source_link": "https://spacenews.com/europe-outlines-defense-flagship-programs-and-confirms-european-space-shield-by-2026/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-17T18:11:49.171669Z",
-            "shown_at": [
-                "2025-10-17T18:11:49.793709Z",
-                "2025-10-18T10:02:01.495313Z",
-                "2025-10-23T01:42:05.315643Z"
-            ]
-        },
-        {
-            "id": "1cf6ba07bfab00832554a6b2da658d4e",
-            "source": "spacenews",
-            "text": "German launch startup HyImpulse raises 45 million euros",
-            "source_link": "https://spacenews.com/german-launch-startup-hyimpulse-raises-45-million-euros/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-17T16:06:14.240819Z",
-            "shown_at": [
-                "2025-10-17T16:06:14.986580Z",
-                "2025-10-17T23:19:36.411971Z",
-                "2025-10-18T04:15:47.815724Z",
-                "2025-10-19T16:55:52.496573Z",
-                "2025-10-22T02:33:38.022432Z"
-            ]
-        },
-        {
-            "id": "765353017b6e17ebb559758f00e452ad",
-            "source": "spacenews",
-            "text": "Money is pouring into defense but dual-use is the real sweet spot",
-            "source_link": "https://spacenews.com/money-is-pouring-into-defense-but-dual-use-is-the-real-sweet-spot/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-17T13:34:05.212072Z",
-            "shown_at": [
-                "2025-10-17T13:34:05.874225Z",
-                "2025-10-17T22:19:49.791811Z",
-                "2025-10-21T22:56:06.125194Z"
-            ]
-        },
-        {
-            "id": "0187d82421adc19ad8e8b74ba7edcaf9",
-            "source": "spacenews",
-            "text": "NASA outlines objectives for Mars communications orbiter",
-            "source_link": "https://spacenews.com/nasa-outlines-objectives-for-mars-communications-orbiter/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-02T00:49:37.555494Z",
-            "shown_at": [
-                "2026-03-02T00:49:38.487708Z"
-            ]
-        },
-        {
-            "id": "5e4094592aa174534802e68df81b69c8",
-            "source": "spacenews",
-            "text": "ESA announces 100 million euro satellite-mobile convergence initiative",
-            "source_link": "https://spacenews.com/esa-announces-100-million-euro-satellite-mobile-convergence-initiative/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-02T08:09:26.764533Z",
-            "shown_at": [
-                "2026-03-02T08:09:27.534472Z"
-            ]
-        },
-        {
-            "id": "0920ac24b8fe4fa9ec06d60be12f6f7c",
-            "source": "spacenews",
-            "text": "Open Cosmos unveils vision for imagery-linked sovereign satellite connectivity",
-            "source_link": "https://spacenews.com/open-cosmos-unveils-vision-for-imagery-linked-sovereign-satellite-connectivity/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-02T08:44:16.245508Z",
-            "shown_at": [
-                "2026-03-02T08:44:17.129942Z"
-            ]
-        },
-        {
-            "id": "df2cdc52129d403acba2e7d9633c7126",
-            "source": "nyt",
-            "text": "Blood Moon Lunar Eclipse 2026: Time and Visibility Guide",
-            "source_link": "https://www.nytimes.com/2026/03/02/science/blood-moon-lunar-eclipse-time-when-tonight.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-02T10:29:24.610482Z",
-            "shown_at": [
-                "2026-03-02T10:29:25.395992Z",
-                "2026-03-02T14:39:05.446318Z"
-            ]
-        },
-        {
-            "id": "67404e0ae39f58f5a687f8af0d1bcf3b",
-            "source": "spacenews",
-            "text": "Space Force rethinks satellite ground station strategy",
-            "source_link": "https://spacenews.com/space-force-rethinks-satellite-ground-station-strategy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-02T12:19:20.865119Z",
-            "shown_at": [
-                "2026-03-02T12:19:21.976137Z",
-                "2026-03-02T21:14:13.838605Z"
-            ]
-        },
-        {
-            "id": "1b5a4fa110cd39bfba3746f36d387d76",
-            "source": "spacenews",
-            "text": "World Space Week 2025 Set Record With 50,000 Events in 102 Countries",
-            "source_link": "https://spacenews.com/world-space-week-2025-set-record-with-50000-events-in-102-countries/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-02T13:29:23.521679Z",
-            "shown_at": [
-                "2026-03-02T13:29:24.900511Z"
-            ]
-        },
-        {
-            "id": "d8247fe9442a8774767a865ebfa48fe0",
-            "source": "spacenews",
-            "text": "Hardware is no longer the problem holding back space-based data centers — the supply chain is",
-            "source_link": "https://spacenews.com/hardware-is-no-longer-the-problem-holding-back-space-based-data-centers-the-supply-chain-is/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-02T14:04:40.915257Z",
-            "shown_at": [
-                "2026-03-02T14:04:42.111889Z"
-            ]
-        },
-        {
-            "id": "fafc78bf5d2adbb0b56325a8c76e11bf",
-            "source": "spacenews",
-            "text": "Pentagon details cyber, space ‘first mover’ role in Iran operations",
-            "source_link": "https://spacenews.com/pentagon-details-cyber-space-first-mover-role-in-iran-operations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-02T15:14:58.111785Z",
-            "shown_at": [
-                "2026-03-02T15:14:59.052240Z"
-            ]
-        },
-        {
-            "id": "8215a008a1243acebe5a52e1b67ef4d0",
-            "source": "spacenews",
-            "text": "Stargazing into the future of SSA",
-            "source_link": "https://spacenews.com/stargazing-into-the-future-of-ssa/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-02T16:52:06.758089Z",
-            "shown_at": [
-                "2026-03-02T16:52:07.656827Z"
-            ]
-        },
-        {
-            "id": "fe005c36b799d6ef74cf2ffc471aa935",
-            "source": "spacenews",
-            "text": "Kelli Kedis Ogborn Joining Commercial Space Federation as Strategic Advisor for Global Markets and Industry Engagement",
-            "source_link": "https://spacenews.com/kelli-kedis-ogborn-joining-commercial-space-federation-as-strategic-advisor-for-global-markets-and-industry-engagement/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-02T20:05:05.273346Z",
-            "shown_at": [
-                "2026-03-02T20:05:06.444733Z"
-            ]
-        },
-        {
-            "id": "02740bf89bff1d922bf5c86e149d6a5d",
-            "source": "spacenews",
-            "text": "Deutsche Telekom aims to bring Starlink Mobile V2 to Europe in 2028",
-            "source_link": "https://spacenews.com/deutsche-telekom-aims-to-bring-starlink-mobile-v2-to-europe-in-2028/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-02T22:59:14.886896Z",
-            "shown_at": [
-                "2026-03-02T22:59:16.281780Z"
             ]
         }
     ]
