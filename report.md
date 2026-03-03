@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 13 | 21 | 42 |
-| nyt | 3 | 4 | 19 | 35 |
+| spacenews | 5 | 14 | 21 | 43 |
+| nyt | 3 | 4 | 19 | 34 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3058,3 +3058,4 @@
 - **Mar 03, 08:44 PM** - Sierra Space names Dan Jablonsky CEO (spacenews)
 - **Mar 03, 09:19 PM** - Blood Moon Lunar Eclipse 2026: Time and Visibility Guide (nyt)
 - **Mar 03, 09:54 PM** - Space Force rethinks satellite ground station strategy (spacenews)
+- **Mar 03, 10:29 PM** - Space Force modernization push runs into acquisition workforce shortfall (spacenews)

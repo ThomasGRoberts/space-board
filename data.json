@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-03T00:04:48.678051+00:00",
-    "trigger_count": 6,
-    "current_item_id": "67404e0ae39f58f5a687f8af0d1bcf3b",
+    "trigger_count": 0,
+    "current_item_id": "37c630b2f7f9c93120220788af0fb206",
     "data": [
         {
             "id": "02740bf89bff1d922bf5c86e149d6a5d",
@@ -8618,6 +8618,18 @@
             "shown_at": [
                 "2026-03-03T17:14:26.979995Z",
                 "2026-03-03T18:24:12.382996Z"
+            ]
+        },
+        {
+            "id": "37c630b2f7f9c93120220788af0fb206",
+            "source": "spacenews",
+            "text": "Space Force modernization push runs into acquisition workforce shortfall",
+            "source_link": "https://spacenews.com/space-force-modernization-push-runs-into-acquisition-workforce-shortfall/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-03T22:29:14.916280Z",
+            "shown_at": [
+                "2026-03-03T22:29:15.873183Z"
             ]
         }
     ]
