@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 12 | 21 | 43 |
+| spacenews | 9 | 12 | 22 | 44 |
 | nyt | 1 | 1 | 16 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -3023,3 +3023,4 @@
 - **Mar 02, 11:34 PM** - Sorry, SpaceX: It’s Getting Too Crowded Up There (nyt)
 - **Mar 03, 12:09 AM** - Golden Dome to require unprecedented coordination between U.S. combatant commands (spacenews)
 - **Mar 03, 12:44 AM** - Norway’s Century-Long Watch on the Northern Lights (nyt)
+- **Mar 03, 01:19 AM** - Pentagon details cyber, space ‘first mover’ role in Iran operations (spacenews)
