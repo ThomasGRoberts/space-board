@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 13 | 21 | 42 |
-| nyt | 3 | 4 | 19 | 35 |
+| spacenews | 4 | 13 | 20 | 42 |
+| nyt | 3 | 4 | 20 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3054,3 +3054,4 @@
 - **Mar 03, 05:49 PM** - Kelli Kedis Ogborn Joining Commercial Space Federation as Strategic Advisor for Global Markets and Industry Engagement (spacenews)
 - **Mar 03, 06:24 PM** - Photos: Blood Moon Total Lunar Eclipse 2026 (nyt)
 - **Mar 03, 07:34 PM** - Bowersox to retire from NASA (spacenews)
+- **Mar 03, 08:09 PM** - Blood Moon Lunar Eclipse 2026: Time and Visibility Guide (nyt)
