@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 21 | 42 |
-| nyt | 1 | 2 | 17 | 35 |
+| nyt | 2 | 3 | 18 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3044,3 +3044,4 @@
 - **Mar 03, 11:59 AM** - Norway’s Century-Long Watch on the Northern Lights (nyt)
 - **Mar 03, 12:34 PM** - Spectrum showdown (spacenews)
 - **Mar 03, 01:09 PM** - Redwire unveils new solar array (spacenews)
+- **Mar 03, 01:44 PM** - Experiment Shows Possibility of Martian Microbes Hitching a Ride to Earth (nyt)
