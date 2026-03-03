@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-03T00:04:48.678051+00:00",
-    "trigger_count": 6,
-    "current_item_id": "17e6c94914e94769ebd10b705058f481",
+    "trigger_count": 0,
+    "current_item_id": "82b2c1ea411952fc07d562895aa7bcc9",
     "data": [
         {
             "id": "02740bf89bff1d922bf5c86e149d6a5d",
@@ -8521,6 +8521,18 @@
                 "2025-10-24T18:32:22.366112Z",
                 "2025-10-26T04:19:39.862543Z",
                 "2025-10-26T17:39:49.123871Z"
+            ]
+        },
+        {
+            "id": "82b2c1ea411952fc07d562895aa7bcc9",
+            "source": "nyt",
+            "text": "Blood Moon Total Lunar Eclipse 2026: Time and Visibility Guide",
+            "source_link": "https://www.nytimes.com/2026/03/02/science/blood-moon-lunar-eclipse-time-when-tonight.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-03T03:38:59.685959Z",
+            "shown_at": [
+                "2026-03-03T03:39:00.519205Z"
             ]
         }
     ]
