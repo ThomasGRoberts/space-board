@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 12 | 22 | 43 |
-| nyt | 2 | 2 | 16 | 35 |
+| nyt | 2 | 2 | 17 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3031,3 +3031,4 @@
 - **Mar 03, 04:14 AM** - Sierra Space names Dan Jablonsky CEO (spacenews)
 - **Mar 03, 04:49 AM** - Norway’s Century-Long Watch on the Northern Lights (nyt)
 - **Mar 03, 05:24 AM** - Lockheed Martin presses case that GPS upgrade will counter jamming threats (spacenews)
+- **Mar 03, 05:59 AM** - Blood Moon Total Lunar Eclipse 2026: Time and Visibility Guide (nyt)
