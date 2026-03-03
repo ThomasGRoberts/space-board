@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 14 | 21 | 42 |
-| nyt | 3 | 4 | 20 | 35 |
+| spacenews | 5 | 14 | 22 | 43 |
+| nyt | 3 | 4 | 19 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3051,3 +3051,4 @@
 - **Mar 03, 04:04 PM** - When space is hot, Washington holds a match (spacenews)
 - **Mar 03, 04:39 PM** - NASA Shakes Up Artemis Schedule, Aiming for 2 Moon Landings in 2028 (nyt)
 - **Mar 03, 05:14 PM** - Photos: Blood Moon Total Lunar Eclipse 2026 (nyt)
+- **Mar 03, 05:49 PM** - Kelli Kedis Ogborn Joining Commercial Space Federation as Strategic Advisor for Global Markets and Industry Engagement (spacenews)
