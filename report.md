@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 13 | 21 | 42 |
+| spacenews | 6 | 14 | 22 | 43 |
 | nyt | 2 | 3 | 18 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -3048,3 +3048,4 @@
 - **Mar 03, 02:19 PM** - Stargazing into the future of SSA (spacenews)
 - **Mar 03, 02:54 PM** - Experiment Shows Possibility of Martian Microbes Hitching a Ride to Earth (nyt)
 - **Mar 03, 03:29 PM** - Kelli Kedis Ogborn Joining Commercial Space Federation as Strategic Advisor for Global Markets and Industry Engagement (spacenews)
+- **Mar 03, 04:04 PM** - When space is hot, Washington holds a match (spacenews)
