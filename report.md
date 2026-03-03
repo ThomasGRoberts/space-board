@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 12 | 21 | 42 |
+| spacenews | 9 | 12 | 22 | 43 |
 | nyt | 2 | 2 | 17 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -3028,3 +3028,4 @@
 - **Mar 03, 02:29 AM** - NASA outlines objectives for Mars communications orbiter (spacenews)
 - **Mar 03, 03:05 AM** - NASA Shakes Up Artemis Schedule, Aiming for 2 Moon Landings in 2028 (nyt)
 - **Mar 03, 03:39 AM** - Blood Moon Total Lunar Eclipse 2026: Time and Visibility Guide (nyt)
+- **Mar 03, 04:14 AM** - Sierra Space names Dan Jablonsky CEO (spacenews)
