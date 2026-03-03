@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 14 | 21 | 43 |
-| nyt | 3 | 4 | 19 | 34 |
+| spacenews | 4 | 14 | 20 | 42 |
+| nyt | 3 | 4 | 20 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3059,3 +3059,4 @@
 - **Mar 03, 09:19 PM** - Blood Moon Lunar Eclipse 2026: Time and Visibility Guide (nyt)
 - **Mar 03, 09:54 PM** - Space Force rethinks satellite ground station strategy (spacenews)
 - **Mar 03, 10:29 PM** - Space Force modernization push runs into acquisition workforce shortfall (spacenews)
+- **Mar 03, 11:05 PM** - Sorry, SpaceX: It’s Getting Too Crowded Up There (nyt)
