@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 11 | 21 | 42 |
-| nyt | 2 | 2 | 17 | 36 |
+| nyt | 2 | 2 | 18 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3037,3 +3037,4 @@
 - **Mar 03, 07:44 AM** - A banner year for military space funding— with an unclear path beyond (spacenews)
 - **Mar 03, 08:19 AM** - NASA Aims for 2 Moon Landings in 2028 With New Artemis Schedule (nyt)
 - **Mar 03, 08:54 AM** - Seraphim closes second early-stage space fund above $100 million target (spacenews)
+- **Mar 03, 09:29 AM** - Blood Moon Total Lunar Eclipse 2026: Time and Visibility Guide (nyt)
