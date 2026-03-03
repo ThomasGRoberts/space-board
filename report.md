@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 21 | 43 |
-| nyt | 2 | 3 | 17 | 35 |
+| spacenews | 6 | 13 | 21 | 42 |
+| nyt | 2 | 3 | 18 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3046,3 +3046,4 @@
 - **Mar 03, 01:09 PM** - Redwire unveils new solar array (spacenews)
 - **Mar 03, 01:44 PM** - Experiment Shows Possibility of Martian Microbes Hitching a Ride to Earth (nyt)
 - **Mar 03, 02:19 PM** - Stargazing into the future of SSA (spacenews)
+- **Mar 03, 02:54 PM** - Experiment Shows Possibility of Martian Microbes Hitching a Ride to Earth (nyt)
