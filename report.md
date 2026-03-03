@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 11 | 21 | 42 |
-| nyt | 1 | 2 | 17 | 36 |
+| nyt | 1 | 2 | 18 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3039,3 +3039,4 @@
 - **Mar 03, 08:54 AM** - Seraphim closes second early-stage space fund above $100 million target (spacenews)
 - **Mar 03, 09:29 AM** - Blood Moon Total Lunar Eclipse 2026: Time and Visibility Guide (nyt)
 - **Mar 03, 10:05 AM** - World Space Week 2025 Set Record With 50,000 Events in 102 Countries (spacenews)
+- **Mar 03, 10:49 AM** - Norway’s Century-Long Watch on the Northern Lights (nyt)
