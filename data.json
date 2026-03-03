@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-03T00:04:48.678051+00:00",
-    "trigger_count": 6,
-    "current_item_id": "622d36c3f21e140d551b0166ba81c2fa",
+    "trigger_count": 0,
+    "current_item_id": "b082cd78bc3861ce824f8aa7d79e3d3d",
     "data": [
         {
             "id": "02740bf89bff1d922bf5c86e149d6a5d",
@@ -8547,6 +8547,18 @@
                 "2026-03-03T03:39:00.519205Z",
                 "2026-03-03T05:59:35.022147Z",
                 "2026-03-03T09:29:12.288046Z"
+            ]
+        },
+        {
+            "id": "b082cd78bc3861ce824f8aa7d79e3d3d",
+            "source": "spacenews",
+            "text": "Spectrum showdown",
+            "source_link": "https://spacenews.com/spectrum-showdown/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-03T12:34:46.280623Z",
+            "shown_at": [
+                "2026-03-03T12:34:47.480753Z"
             ]
         }
     ]
