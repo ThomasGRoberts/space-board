@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 12 | 22 | 43 |
+| spacenews | 9 | 12 | 23 | 44 |
 | nyt | 1 | 1 | 16 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -3025,3 +3025,4 @@
 - **Mar 03, 12:44 AM** - Norway’s Century-Long Watch on the Northern Lights (nyt)
 - **Mar 03, 01:19 AM** - Pentagon details cyber, space ‘first mover’ role in Iran operations (spacenews)
 - **Mar 03, 01:54 AM** - NASA Shakes Up Artemis Schedule, Aiming for 2 Moon Landings in 2028 (nyt)
+- **Mar 03, 02:29 AM** - NASA outlines objectives for Mars communications orbiter (spacenews)
