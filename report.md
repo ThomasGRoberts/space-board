@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 12 | 21 | 43 |
-| nyt | 2 | 2 | 17 | 35 |
+| nyt | 2 | 2 | 18 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3035,3 +3035,4 @@
 - **Mar 03, 06:34 AM** - World Space Week 2025 Set Record With 50,000 Events in 102 Countries (spacenews)
 - **Mar 03, 07:09 AM** - NASA Aims for 2 Moon Landings in 2028 With New Artemis Schedule (nyt)
 - **Mar 03, 07:44 AM** - A banner year for military space funding— with an unclear path beyond (spacenews)
+- **Mar 03, 08:19 AM** - NASA Aims for 2 Moon Landings in 2028 With New Artemis Schedule (nyt)
