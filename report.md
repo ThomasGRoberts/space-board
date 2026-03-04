@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 13 | 20 | 41 |
+| spacenews | 5 | 14 | 21 | 42 |
 | nyt | 3 | 4 | 19 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -3028,3 +3028,4 @@
 - **Mar 03, 11:05 PM** - Sorry, SpaceX: It’s Getting Too Crowded Up There (nyt)
 - **Mar 03, 11:44 PM** - CesiumAstro acquires Vidrovr to embed AI in communications systems (spacenews)
 - **Mar 04, 12:24 AM** - Sorry, SpaceX: It’s Getting Too Crowded Up There (nyt)
+- **Mar 04, 12:59 AM** - House Science Committee leaders criticize FCC rulemaking on space safety (spacenews)

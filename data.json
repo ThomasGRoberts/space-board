@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-04T00:04:47.545027+00:00",
-    "trigger_count": 6,
-    "current_item_id": "02b1f44e713758491e6fe42e88e23857",
+    "trigger_count": 0,
+    "current_item_id": "4c4cb0b1e2a88651bfd18518283f6e38",
     "data": [
         {
             "id": "37c630b2f7f9c93120220788af0fb206",
@@ -8522,6 +8522,18 @@
                 "2025-10-27T10:35:54.989955Z",
                 "2025-10-27T22:27:29.690998Z",
                 "2025-10-28T08:23:20.078261Z"
+            ]
+        },
+        {
+            "id": "4c4cb0b1e2a88651bfd18518283f6e38",
+            "source": "spacenews",
+            "text": "House Science Committee leaders criticize FCC rulemaking on space safety",
+            "source_link": "https://spacenews.com/house-science-committee-leaders-criticize-fcc-rulemaking-on-space-safety/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-04T00:59:07.592073Z",
+            "shown_at": [
+                "2026-03-04T00:59:08.850021Z"
             ]
         }
     ]
