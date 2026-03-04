@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 21 | 42 |
-| nyt | 2 | 4 | 18 | 36 |
+| nyt | 2 | 4 | 19 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3042,3 +3042,4 @@
 - **Mar 04, 07:29 AM** - World Space Week 2025 Set Record With 50,000 Events in 102 Countries (spacenews)
 - **Mar 04, 08:09 AM** - Photos: Blood Moon Total Lunar Eclipse 2026 (nyt)
 - **Mar 04, 08:49 AM** - China’s Tianwen-2 probe operating normally on approach to asteroid (spacenews)
+- **Mar 04, 09:24 AM** - NASA Aims for 2 Moon Landings in 2028 With New Artemis Schedule (nyt)
