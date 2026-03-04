@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 14 | 20 | 42 |
-| nyt | 3 | 4 | 19 | 34 |
+| nyt | 3 | 4 | 20 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3027,3 +3027,4 @@
 - **Mar 03, 10:29 PM** - Space Force modernization push runs into acquisition workforce shortfall (spacenews)
 - **Mar 03, 11:05 PM** - Sorry, SpaceX: It’s Getting Too Crowded Up There (nyt)
 - **Mar 03, 11:44 PM** - CesiumAstro acquires Vidrovr to embed AI in communications systems (spacenews)
+- **Mar 04, 12:24 AM** - Sorry, SpaceX: It’s Getting Too Crowded Up There (nyt)
