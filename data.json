@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-04T00:04:47.545027+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a8d50b3dcb1aa3f679f5e98fa7db8f4b",
+    "trigger_count": 0,
+    "current_item_id": "c1ae81bb7102489412f50757db8143be",
     "data": [
         {
             "id": "37c630b2f7f9c93120220788af0fb206",
@@ -8615,6 +8615,18 @@
             "fetched_datetime": "2026-03-04T16:24:23.018755Z",
             "shown_at": [
                 "2026-03-04T16:24:24.097158Z"
+            ]
+        },
+        {
+            "id": "c1ae81bb7102489412f50757db8143be",
+            "source": "spacenews",
+            "text": "Mutable Tactics raises $2.1 million for AI drone coordination in satellite-denied environments",
+            "source_link": "https://spacenews.com/mutable-tactics-raises-2-1-million-for-ai-drone-coordination-in-satellite-denied-environments/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-04T16:59:15.433161Z",
+            "shown_at": [
+                "2026-03-04T16:59:16.493702Z"
             ]
         }
     ]
