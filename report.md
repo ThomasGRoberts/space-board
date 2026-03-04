@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 21 | 42 |
-| nyt | 1 | 3 | 18 | 36 |
+| nyt | 1 | 3 | 19 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3053,3 +3053,4 @@
 - **Mar 04, 02:04 PM** - Reliable space rescue is a prerequisite for continued economic opportunity in space and we have a long way to go (spacenews)
 - **Mar 04, 02:39 PM** - Experiment Shows Possibility of Martian Microbes Hitching a Ride to Earth (nyt)
 - **Mar 04, 03:14 PM** - NordSpace founder backs Wyvern with new Canada-focused venture arm (spacenews)
+- **Mar 04, 03:49 PM** - Experiment Shows Possibility of Martian Microbes Hitching a Ride to Earth (nyt)
