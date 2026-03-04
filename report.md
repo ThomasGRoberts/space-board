@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 15 | 21 | 43 |
+| spacenews | 6 | 15 | 22 | 44 |
 | nyt | 2 | 4 | 18 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -3039,3 +3039,4 @@
 - **Mar 04, 05:44 AM** - Intuitive Machines raises $175 million in stock sale (spacenews)
 - **Mar 04, 06:19 AM** - PLD Space raises $209 million to shift into serial rocket production (spacenews)
 - **Mar 04, 06:54 AM** - Blood Moon Total Lunar Eclipse 2026: Time and Visibility Guide (nyt)
+- **Mar 04, 07:29 AM** - World Space Week 2025 Set Record With 50,000 Events in 102 Countries (spacenews)
