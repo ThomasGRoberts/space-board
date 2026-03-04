@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-04T00:04:47.545027+00:00",
-    "trigger_count": 6,
-    "current_item_id": "542c6c0ddc6dfb1c625ebdeebe5708b9",
+    "trigger_count": 0,
+    "current_item_id": "bb5ab6cce1bdd7194b55f82d18939dff",
     "data": [
         {
             "id": "37c630b2f7f9c93120220788af0fb206",
@@ -8563,6 +8563,18 @@
             "fetched_datetime": "2026-03-04T06:19:25.573613Z",
             "shown_at": [
                 "2026-03-04T06:19:26.258593Z"
+            ]
+        },
+        {
+            "id": "bb5ab6cce1bdd7194b55f82d18939dff",
+            "source": "spacenews",
+            "text": "Blue Origin’s surprise TeraWave constellation jolts LEO broadband race",
+            "source_link": "https://spacenews.com/blue-origins-surprise-terawave-constellation-jolts-leo-broadband-race/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-04T12:19:23.231594Z",
+            "shown_at": [
+                "2026-03-04T12:19:24.515811Z"
             ]
         }
     ]

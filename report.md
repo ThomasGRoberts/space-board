@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 21 | 42 |
+| spacenews | 7 | 13 | 22 | 42 |
 | nyt | 2 | 3 | 18 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -3047,3 +3047,4 @@
 - **Mar 04, 10:34 AM** - Experiment Shows Possibility of Martian Microbes Hitching a Ride to Earth (nyt)
 - **Mar 04, 11:09 AM** - China’s Tianwen-2 probe operating normally on approach to asteroid (spacenews)
 - **Mar 04, 11:44 AM** - Experiment Shows Possibility of Martian Microbes Hitching a Ride to Earth (nyt)
+- **Mar 04, 12:19 PM** - Blue Origin’s surprise TeraWave constellation jolts LEO broadband race (spacenews)
