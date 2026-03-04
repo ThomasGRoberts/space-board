@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 14 | 20 | 42 |
-| nyt | 3 | 4 | 19 | 34 |
+| nyt | 3 | 4 | 20 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3029,3 +3029,4 @@
 - **Mar 03, 11:44 PM** - CesiumAstro acquires Vidrovr to embed AI in communications systems (spacenews)
 - **Mar 04, 12:24 AM** - Sorry, SpaceX: It’s Getting Too Crowded Up There (nyt)
 - **Mar 04, 12:59 AM** - House Science Committee leaders criticize FCC rulemaking on space safety (spacenews)
+- **Mar 04, 01:34 AM** - Blood Moon Lunar Eclipse 2026: Time and Visibility Guide (nyt)
