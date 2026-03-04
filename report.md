@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 12 | 22 | 43 |
-| nyt | 0 | 3 | 18 | 37 |
+| nyt | 0 | 3 | 19 | 38 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3062,3 +3062,4 @@
 - **Mar 04, 07:29 PM** - Open Cosmos unveils vision for imagery-linked sovereign satellite connectivity (spacenews)
 - **Mar 04, 08:04 PM** - Sorry, SpaceX: It’s Getting Too Crowded Up There (nyt)
 - **Mar 04, 08:39 PM** - NASA astronaut says his medical issue led to early return from the ISS (spacenews)
+- **Mar 04, 09:14 PM** - NASA Shakes Up Artemis Schedule, Aiming for 2 Moon Landings in 2028 (nyt)
