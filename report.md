@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 12 | 22 | 42 |
-| nyt | 0 | 3 | 18 | 38 |
+| spacenews | 8 | 12 | 23 | 43 |
+| nyt | 0 | 3 | 18 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3061,3 +3061,4 @@
 - **Mar 04, 06:54 PM** - Blood Moon Total Lunar Eclipse 2026: Time and Visibility Guide (nyt)
 - **Mar 04, 07:29 PM** - Open Cosmos unveils vision for imagery-linked sovereign satellite connectivity (spacenews)
 - **Mar 04, 08:04 PM** - Sorry, SpaceX: It’s Getting Too Crowded Up There (nyt)
+- **Mar 04, 08:39 PM** - NASA astronaut says his medical issue led to early return from the ISS (spacenews)
