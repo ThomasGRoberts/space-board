@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-04T00:04:47.545027+00:00",
-    "trigger_count": 6,
-    "current_item_id": "31310d166384b065715bbe1749e41e40",
+    "trigger_count": 0,
+    "current_item_id": "cc2a14b6ba8ccadd26feda86ed5334ca",
     "data": [
         {
             "id": "37c630b2f7f9c93120220788af0fb206",
@@ -8542,6 +8542,18 @@
             "fetched_datetime": "2026-03-04T00:59:07.592073Z",
             "shown_at": [
                 "2026-03-04T00:59:08.850021Z"
+            ]
+        },
+        {
+            "id": "cc2a14b6ba8ccadd26feda86ed5334ca",
+            "source": "spacenews",
+            "text": "PLD Space raises $209 million to shift into serial rocket production",
+            "source_link": "https://spacenews.com/pld-space-raises-209-million-to-shift-into-serial-rocket-production/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-04T06:19:25.573613Z",
+            "shown_at": [
+                "2026-03-04T06:19:26.258593Z"
             ]
         }
     ]
