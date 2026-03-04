@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 14 | 20 | 42 |
-| nyt | 3 | 4 | 19 | 36 |
+| spacenews | 5 | 14 | 21 | 43 |
+| nyt | 3 | 4 | 19 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3032,3 +3032,4 @@
 - **Mar 04, 01:34 AM** - Blood Moon Lunar Eclipse 2026: Time and Visibility Guide (nyt)
 - **Mar 04, 02:14 AM** - In space traffic coordination, the biggest challenge may be coordination (spacenews)
 - **Mar 04, 02:49 AM** - NASA Shakes Up Artemis Schedule, Aiming for 2 Moon Landings in 2028 (nyt)
+- **Mar 04, 03:24 AM** - Airbus and Leonardo report increased space revenues for 2025 (spacenews)
