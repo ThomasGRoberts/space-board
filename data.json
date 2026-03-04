@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-04T00:04:47.545027+00:00",
-    "trigger_count": 6,
-    "current_item_id": "542c6c0ddc6dfb1c625ebdeebe5708b9",
+    "trigger_count": 0,
+    "current_item_id": "a8d50b3dcb1aa3f679f5e98fa7db8f4b",
     "data": [
         {
             "id": "37c630b2f7f9c93120220788af0fb206",
@@ -8603,6 +8603,18 @@
             "fetched_datetime": "2026-03-04T14:04:17.496790Z",
             "shown_at": [
                 "2026-03-04T14:04:18.618992Z"
+            ]
+        },
+        {
+            "id": "a8d50b3dcb1aa3f679f5e98fa7db8f4b",
+            "source": "spacenews",
+            "text": "Return of the (space) SPAC",
+            "source_link": "https://spacenews.com/return-of-the-space-spac/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-04T16:24:23.018755Z",
+            "shown_at": [
+                "2026-03-04T16:24:24.097158Z"
             ]
         }
     ]

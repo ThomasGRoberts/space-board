@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 20 | 42 |
+| spacenews | 7 | 13 | 21 | 43 |
 | nyt | 1 | 3 | 19 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -3054,3 +3054,4 @@
 - **Mar 04, 02:39 PM** - Experiment Shows Possibility of Martian Microbes Hitching a Ride to Earth (nyt)
 - **Mar 04, 03:14 PM** - NordSpace founder backs Wyvern with new Canada-focused venture arm (spacenews)
 - **Mar 04, 03:49 PM** - Experiment Shows Possibility of Martian Microbes Hitching a Ride to Earth (nyt)
+- **Mar 04, 04:24 PM** - Return of the (space) SPAC (spacenews)
