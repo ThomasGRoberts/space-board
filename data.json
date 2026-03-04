@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-04T00:04:47.545027+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7529c0d334fa4c9bd2ec7ecfe9eceb65",
+    "trigger_count": 0,
+    "current_item_id": "3db4e147c63f61aa2dc05af25280563a",
     "data": [
         {
             "id": "37c630b2f7f9c93120220788af0fb206",
@@ -8638,6 +8638,27 @@
             "shown_at": [
                 "2026-03-04T16:59:16.493702Z"
             ]
+        },
+        {
+            "id": "3db4e147c63f61aa2dc05af25280563a",
+            "source": "spacenews",
+            "text": "Telus invests in AST SpaceMobile to expand D2D coverage in Canada",
+            "source_link": "https://spacenews.com/telus-invests-in-ast-spacemobile-to-expand-d2d-coverage-in-canada/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-04T23:44:46.080491Z",
+            "shown_at": [
+                "2026-03-04T23:44:47.271096Z"
+            ]
+        },
+        {
+            "id": "b17f46395d4f4676ed9d3a56238214a1",
+            "source": "spacenews",
+            "text": "Space Force presses case for more personnel and training",
+            "source_link": "https://spacenews.com/space-force-presses-case-for-more-personnel-and-training/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-03-04T23:44:46.080547Z"
         }
     ]
 }
