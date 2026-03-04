@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 13 | 22 | 43 |
-| nyt | 0 | 3 | 17 | 37 |
+| nyt | 0 | 3 | 18 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3058,3 +3058,4 @@
 - **Mar 04, 04:59 PM** - Mutable Tactics raises $2.1 million for AI drone coordination in satellite-denied environments (spacenews)
 - **Mar 04, 05:44 PM** - Blood Moon Total Lunar Eclipse 2026: Time and Visibility Guide (nyt)
 - **Mar 04, 06:19 PM** - When space is hot, Washington holds a match (spacenews)
+- **Mar 04, 06:54 PM** - Blood Moon Total Lunar Eclipse 2026: Time and Visibility Guide (nyt)
