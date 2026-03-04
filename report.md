@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 12 | 21 | 42 |
+| spacenews | 7 | 11 | 22 | 42 |
 | nyt | 0 | 3 | 19 | 38 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -3065,3 +3065,4 @@
 - **Mar 04, 09:14 PM** - NASA Shakes Up Artemis Schedule, Aiming for 2 Moon Landings in 2028 (nyt)
 - **Mar 04, 09:50 PM** - PLD Space raises $209 million to shift into serial rocket production (spacenews)
 - **Mar 04, 10:29 PM** - Blood Moon Total Lunar Eclipse 2026: Time and Visibility Guide (nyt)
+- **Mar 04, 11:04 PM** - Seraphim closes second early-stage space fund above $100 million target (spacenews)
