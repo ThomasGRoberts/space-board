@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 13 | 20 | 42 |
+| spacenews | 6 | 14 | 21 | 43 |
 | nyt | 2 | 3 | 19 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -3049,3 +3049,4 @@
 - **Mar 04, 11:44 AM** - Experiment Shows Possibility of Martian Microbes Hitching a Ride to Earth (nyt)
 - **Mar 04, 12:19 PM** - Blue Origin’s surprise TeraWave constellation jolts LEO broadband race (spacenews)
 - **Mar 04, 12:54 PM** - NASA Shakes Up Artemis Schedule, Aiming for 2 Moon Landings in 2028 (nyt)
+- **Mar 04, 01:29 PM** - SLS upper stage helium flow problem fixed (spacenews)
