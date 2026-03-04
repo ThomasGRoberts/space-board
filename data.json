@@ -1,9 +1,97 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-03-03T00:04:48.678051+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2026-03-04T00:04:47.545027+00:00",
+    "trigger_count": 4,
     "current_item_id": "f421de19505a7a48653389d75f4df7e9",
     "data": [
+        {
+            "id": "37c630b2f7f9c93120220788af0fb206",
+            "source": "spacenews",
+            "text": "Space Force modernization push runs into acquisition workforce shortfall",
+            "source_link": "https://spacenews.com/space-force-modernization-push-runs-into-acquisition-workforce-shortfall/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-03T22:29:14.916280Z",
+            "shown_at": [
+                "2026-03-03T22:29:15.873183Z"
+            ]
+        },
+        {
+            "id": "d79c98e82385048615bcc6e55116f4f9",
+            "source": "nyt",
+            "text": "Photos: Blood Moon Total Lunar Eclipse 2026",
+            "source_link": "https://www.nytimes.com/2026/03/02/science/blood-moon-lunar-eclipse-time-when-tonight.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-03T17:14:25.750500Z",
+            "shown_at": [
+                "2026-03-03T17:14:26.979995Z",
+                "2026-03-03T18:24:12.382996Z"
+            ]
+        },
+        {
+            "id": "270ac60fd3abdefe669f48f564e79df9",
+            "source": "spacenews",
+            "text": "When space is hot, Washington holds a match",
+            "source_link": "https://spacenews.com/when-space-is-hot-washington-holds-a-match/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-03T16:04:42.135776Z",
+            "shown_at": [
+                "2026-03-03T16:04:43.065155Z"
+            ]
+        },
+        {
+            "id": "542c6c0ddc6dfb1c625ebdeebe5708b9",
+            "source": "nyt",
+            "text": "Experiment Shows Possibility of Martian Microbes Hitching a Ride to Earth",
+            "source_link": "https://www.nytimes.com/2026/03/03/science/microbes-mars-life-asteroid.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-03T13:44:30.858180Z",
+            "shown_at": [
+                "2026-03-03T13:44:32.134013Z",
+                "2026-03-03T14:54:32.516886Z"
+            ]
+        },
+        {
+            "id": "6de5d7f8169465ac6dd87b5dd805aee3",
+            "source": "spacenews",
+            "text": "Redwire unveils new solar array",
+            "source_link": "https://spacenews.com/redwire-unveils-new-solar-array/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-03T13:09:04.390825Z",
+            "shown_at": [
+                "2026-03-03T13:09:05.473127Z"
+            ]
+        },
+        {
+            "id": "b082cd78bc3861ce824f8aa7d79e3d3d",
+            "source": "spacenews",
+            "text": "Spectrum showdown",
+            "source_link": "https://spacenews.com/spectrum-showdown/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-03T12:34:46.280623Z",
+            "shown_at": [
+                "2026-03-03T12:34:47.480753Z"
+            ]
+        },
+        {
+            "id": "82b2c1ea411952fc07d562895aa7bcc9",
+            "source": "nyt",
+            "text": "Blood Moon Total Lunar Eclipse 2026: Time and Visibility Guide",
+            "source_link": "https://www.nytimes.com/2026/03/02/science/blood-moon-lunar-eclipse-time-when-tonight.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-03T03:38:59.685959Z",
+            "shown_at": [
+                "2026-03-03T03:39:00.519205Z",
+                "2026-03-03T05:59:35.022147Z",
+                "2026-03-03T09:29:12.288046Z"
+            ]
+        },
         {
             "id": "02740bf89bff1d922bf5c86e149d6a5d",
             "source": "spacenews",
@@ -8433,205 +8521,6 @@
                 "2025-10-27T10:35:54.989955Z",
                 "2025-10-27T22:27:29.690998Z",
                 "2025-10-28T08:23:20.078261Z"
-            ]
-        },
-        {
-            "id": "be89f7d3e572e68c0c03fe9d89c00f75",
-            "source": "spacenews",
-            "text": "Samara Aerospace pointing technology to be tested in orbit",
-            "source_link": "https://spacenews.com/samara-aerospace-pointing-technology-to-be-tested-in-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-22T01:33:51.224614Z",
-            "shown_at": [
-                "2025-10-22T01:33:52.188724Z"
-            ]
-        },
-        {
-            "id": "5b3720e22fdc22d561c0379f145bc47c",
-            "source": "spacenews",
-            "text": "Analysts question Germany’s request for defensive and inspector satellites",
-            "source_link": "https://spacenews.com/analysts-question-germanys-request-for-defensive-and-inspector-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-21T15:24:01.394164Z",
-            "shown_at": [
-                "2025-10-21T15:24:02.169353Z",
-                "2025-10-24T14:18:07.339772Z",
-                "2025-10-26T22:38:00.480842Z"
-            ]
-        },
-        {
-            "id": "96bbb825823377972045c4ad1bedd2c7",
-            "source": "spacenews",
-            "text": "Taiwan should build a space-enabled kill web, not big warships",
-            "source_link": "https://spacenews.com/taiwan-should-build-a-space-enabled-kill-web-not-big-warships/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-21T13:08:03.477345Z",
-            "shown_at": [
-                "2025-10-21T13:08:04.870141Z",
-                "2025-10-22T12:12:56.767548Z",
-                "2025-10-22T17:45:57.478012Z",
-                "2025-10-26T12:33:55.966397Z"
-            ]
-        },
-        {
-            "id": "bcc18a9382129c2eb2060514fe037e4e",
-            "source": "spacenews",
-            "text": "Starlink mini lasers to link Muon Space satellites for near real-time connectivity",
-            "source_link": "https://spacenews.com/starlink-mini-lasers-to-link-muon-space-satellites-for-near-real-time-connectivity/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-21T12:17:51.812114Z",
-            "shown_at": [
-                "2025-10-21T12:38:01.151709Z",
-                "2025-10-23T22:09:48.940987Z",
-                "2025-10-25T11:43:44.816591Z",
-                "2025-10-25T12:43:51.748107Z",
-                "2025-10-27T01:38:04.235344Z"
-            ]
-        },
-        {
-            "id": "a445cd5f094f203914d0e18a7c697f74",
-            "source": "spacenews",
-            "text": "Orion installed on SLS as Artemis 2 preparations continue during shutdown",
-            "source_link": "https://spacenews.com/orion-installed-on-sls-as-artemis-2-preparations-continue-during-shutdown/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-21T12:17:51.812058Z",
-            "shown_at": [
-                "2025-10-21T12:17:53.157478Z",
-                "2025-10-23T05:19:46.774794Z",
-                "2025-10-23T10:19:48.999945Z",
-                "2025-10-25T04:41:46.062616Z",
-                "2025-10-25T15:41:36.159068Z",
-                "2025-10-27T03:38:08.571593Z"
-            ]
-        },
-        {
-            "id": "7737afb4ed842e970e406b63f44583b9",
-            "source": "spacenews",
-            "text": "Landspace begins final preparations for China’s first orbital launch and landing attempt",
-            "source_link": "https://spacenews.com/landspace-begins-final-preparations-for-chinas-first-orbital-launch-and-landing-attempt/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-21T09:17:47.095646Z",
-            "shown_at": [
-                "2025-10-21T09:17:47.799709Z",
-                "2025-10-21T14:16:00.002750Z",
-                "2025-10-23T00:41:45.992445Z",
-                "2025-10-26T07:29:49.938474Z",
-                "2025-10-26T09:25:54.462386Z",
-                "2025-10-27T02:35:41.923356Z",
-                "2025-10-28T02:05:54.369929Z",
-                "2025-10-28T04:55:36.702771Z"
-            ]
-        },
-        {
-            "id": "b266e022578febcaacd96671272ffffe",
-            "source": "spacenews",
-            "text": "Belgian startup Nxgsat raises early funds for virtual 5G satellite modem",
-            "source_link": "https://spacenews.com/belgian-startup-nxgsat-raises-early-funds-for-virtual-5g-satellite-modem/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-21T07:14:39.498696Z",
-            "shown_at": [
-                "2025-10-21T07:14:40.429099Z",
-                "2025-10-22T19:49:46.939611Z",
-                "2025-10-24T00:27:53.193292Z",
-                "2025-10-24T17:16:05.934430Z",
-                "2025-10-24T18:32:22.366112Z",
-                "2025-10-26T04:19:39.862543Z",
-                "2025-10-26T17:39:49.123871Z"
-            ]
-        },
-        {
-            "id": "82b2c1ea411952fc07d562895aa7bcc9",
-            "source": "nyt",
-            "text": "Blood Moon Total Lunar Eclipse 2026: Time and Visibility Guide",
-            "source_link": "https://www.nytimes.com/2026/03/02/science/blood-moon-lunar-eclipse-time-when-tonight.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-03T03:38:59.685959Z",
-            "shown_at": [
-                "2026-03-03T03:39:00.519205Z",
-                "2026-03-03T05:59:35.022147Z",
-                "2026-03-03T09:29:12.288046Z"
-            ]
-        },
-        {
-            "id": "b082cd78bc3861ce824f8aa7d79e3d3d",
-            "source": "spacenews",
-            "text": "Spectrum showdown",
-            "source_link": "https://spacenews.com/spectrum-showdown/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-03T12:34:46.280623Z",
-            "shown_at": [
-                "2026-03-03T12:34:47.480753Z"
-            ]
-        },
-        {
-            "id": "6de5d7f8169465ac6dd87b5dd805aee3",
-            "source": "spacenews",
-            "text": "Redwire unveils new solar array",
-            "source_link": "https://spacenews.com/redwire-unveils-new-solar-array/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-03T13:09:04.390825Z",
-            "shown_at": [
-                "2026-03-03T13:09:05.473127Z"
-            ]
-        },
-        {
-            "id": "542c6c0ddc6dfb1c625ebdeebe5708b9",
-            "source": "nyt",
-            "text": "Experiment Shows Possibility of Martian Microbes Hitching a Ride to Earth",
-            "source_link": "https://www.nytimes.com/2026/03/03/science/microbes-mars-life-asteroid.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-03T13:44:30.858180Z",
-            "shown_at": [
-                "2026-03-03T13:44:32.134013Z",
-                "2026-03-03T14:54:32.516886Z"
-            ]
-        },
-        {
-            "id": "270ac60fd3abdefe669f48f564e79df9",
-            "source": "spacenews",
-            "text": "When space is hot, Washington holds a match",
-            "source_link": "https://spacenews.com/when-space-is-hot-washington-holds-a-match/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-03T16:04:42.135776Z",
-            "shown_at": [
-                "2026-03-03T16:04:43.065155Z"
-            ]
-        },
-        {
-            "id": "d79c98e82385048615bcc6e55116f4f9",
-            "source": "nyt",
-            "text": "Photos: Blood Moon Total Lunar Eclipse 2026",
-            "source_link": "https://www.nytimes.com/2026/03/02/science/blood-moon-lunar-eclipse-time-when-tonight.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-03T17:14:25.750500Z",
-            "shown_at": [
-                "2026-03-03T17:14:26.979995Z",
-                "2026-03-03T18:24:12.382996Z"
-            ]
-        },
-        {
-            "id": "37c630b2f7f9c93120220788af0fb206",
-            "source": "spacenews",
-            "text": "Space Force modernization push runs into acquisition workforce shortfall",
-            "source_link": "https://spacenews.com/space-force-modernization-push-runs-into-acquisition-workforce-shortfall/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-03T22:29:14.916280Z",
-            "shown_at": [
-                "2026-03-03T22:29:15.873183Z"
             ]
         }
     ]
