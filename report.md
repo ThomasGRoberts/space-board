@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 21 | 42 |
+| spacenews | 6 | 13 | 22 | 42 |
 | nyt | 2 | 4 | 18 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -3043,3 +3043,4 @@
 - **Mar 04, 08:09 AM** - Photos: Blood Moon Total Lunar Eclipse 2026 (nyt)
 - **Mar 04, 08:49 AM** - China’s Tianwen-2 probe operating normally on approach to asteroid (spacenews)
 - **Mar 04, 09:24 AM** - NASA Aims for 2 Moon Landings in 2028 With New Artemis Schedule (nyt)
+- **Mar 04, 09:59 AM** - China set for its first one-year human spaceflight mission, confirms Pakistani astronaut flight (spacenews)
