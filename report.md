@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 21 | 41 |
+| spacenews | 6 | 13 | 22 | 42 |
 | nyt | 2 | 4 | 18 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -3041,3 +3041,4 @@
 - **Mar 04, 06:54 AM** - Blood Moon Total Lunar Eclipse 2026: Time and Visibility Guide (nyt)
 - **Mar 04, 07:29 AM** - World Space Week 2025 Set Record With 50,000 Events in 102 Countries (spacenews)
 - **Mar 04, 08:09 AM** - Photos: Blood Moon Total Lunar Eclipse 2026 (nyt)
+- **Mar 04, 08:49 AM** - China’s Tianwen-2 probe operating normally on approach to asteroid (spacenews)
