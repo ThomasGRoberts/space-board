@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-05T00:04:46.857681+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4889a3d8499354bbb6e18a08e9b1f716",
+    "trigger_count": 0,
+    "current_item_id": "86b4dca8c1391bd4e8502faea9a41b1a",
     "data": [
         {
             "id": "b17f46395d4f4676ed9d3a56238214a1",
@@ -8628,9 +8628,12 @@
             "source": "spacenews",
             "text": "General Galactic aims to become “the galaxy’s energy logistics company”",
             "source_link": "https://spacenews.com/general-galactic-aims-to-become-the-galaxys-energy-logistics-company/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-03-05T21:09:10.655173Z"
+            "fetched_datetime": "2026-03-05T21:09:10.655173Z",
+            "shown_at": [
+                "2026-03-05T21:44:24.637884Z"
+            ]
         }
     ]
 }
