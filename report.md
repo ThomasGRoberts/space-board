@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 15 | 23 | 44 |
+| spacenews | 10 | 15 | 24 | 45 |
 | nyt | 0 | 2 | 17 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -3004,3 +3004,4 @@
 - **Mar 05, 04:29 AM** - Experiment Shows Possibility of Martian Microbes Hitching a Ride to Earth (nyt)
 - **Mar 05, 05:04 AM** - CAS Space to launch Kinetica-2 in late March carrying prototype cargo spacecraft (spacenews)
 - **Mar 05, 05:39 AM** - NASA Shakes Up Artemis Schedule, Aiming for 2 Moon Landings in 2028 (nyt)
+- **Mar 05, 06:14 AM** - NASA on ‘aggressive’ schedule to complete SLS repairs for April launch (spacenews)
