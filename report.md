@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 15 | 23 | 44 |
+| spacenews | 10 | 15 | 24 | 45 |
 | nyt | 0 | 2 | 17 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -3002,3 +3002,4 @@
 - **Mar 05, 03:14 AM** - China’s Tianwen-2 probe operating normally on approach to asteroid (spacenews)
 - **Mar 05, 03:50 AM** - Third Kairos launch fails (spacenews)
 - **Mar 05, 04:29 AM** - Experiment Shows Possibility of Martian Microbes Hitching a Ride to Earth (nyt)
+- **Mar 05, 05:04 AM** - CAS Space to launch Kinetica-2 in late March carrying prototype cargo spacecraft (spacenews)
