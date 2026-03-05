@@ -1,17 +1,20 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-05T00:04:46.857681+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3db4e147c63f61aa2dc05af25280563a",
+    "trigger_count": 0,
+    "current_item_id": "b17f46395d4f4676ed9d3a56238214a1",
     "data": [
         {
             "id": "b17f46395d4f4676ed9d3a56238214a1",
             "source": "spacenews",
             "text": "Space Force presses case for more personnel and training",
             "source_link": "https://spacenews.com/space-force-presses-case-for-more-personnel-and-training/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-03-04T23:44:46.080547Z"
+            "fetched_datetime": "2026-03-04T23:44:46.080547Z",
+            "shown_at": [
+                "2026-03-05T00:19:26.692569Z"
+            ]
         },
         {
             "id": "3db4e147c63f61aa2dc05af25280563a",

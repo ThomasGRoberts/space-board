@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 13 | 22 | 42 |
+| spacenews | 9 | 13 | 23 | 43 |
 | nyt | 0 | 3 | 18 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2994,3 +2994,4 @@
 - **Mar 04, 10:29 PM** - Blood Moon Total Lunar Eclipse 2026: Time and Visibility Guide (nyt)
 - **Mar 04, 11:04 PM** - Seraphim closes second early-stage space fund above $100 million target (spacenews)
 - **Mar 04, 11:44 PM** - Telus invests in AST SpaceMobile to expand D2D coverage in Canada (spacenews)
+- **Mar 05, 12:19 AM** - Space Force presses case for more personnel and training (spacenews)
