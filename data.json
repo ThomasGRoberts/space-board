@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-05T00:04:46.857681+00:00",
-    "trigger_count": 6,
-    "current_item_id": "85076ab7fedc888b84fd278b15095495",
+    "trigger_count": 0,
+    "current_item_id": "43788928fec7d0bdc381ad8b82983026",
     "data": [
         {
             "id": "b17f46395d4f4676ed9d3a56238214a1",
@@ -8579,6 +8579,18 @@
             "fetched_datetime": "2026-03-05T13:39:14.384977Z",
             "shown_at": [
                 "2026-03-05T14:49:30.049425Z"
+            ]
+        },
+        {
+            "id": "43788928fec7d0bdc381ad8b82983026",
+            "source": "spacenews",
+            "text": "Unlocking AI in space: the case for greater industry and space agency collaboration",
+            "source_link": "https://spacenews.com/unlocking-ai-in-space-the-case-for-greater-industry-and-space-agency-collaboration/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-05T15:24:22.198632Z",
+            "shown_at": [
+                "2026-03-05T15:24:23.823442Z"
             ]
         }
     ]
