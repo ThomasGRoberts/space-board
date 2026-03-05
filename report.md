@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 15 | 23 | 44 |
+| spacenews | 9 | 16 | 23 | 45 |
 | nyt | 0 | 2 | 17 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -3014,3 +3014,4 @@
 - **Mar 05, 10:29 AM** - Sorry, SpaceX: It’s Getting Too Crowded Up There (nyt)
 - **Mar 05, 11:05 AM** - Space Force presses case for more personnel and training (spacenews)
 - **Mar 05, 11:49 AM** - NASA Aims for 2 Moon Landings in 2028 With New Artemis Schedule (nyt)
+- **Mar 05, 12:24 PM** - Jared Isaacman on rebuilding, Artemis and what he’s learned during his first months as NASA administrator (spacenews)

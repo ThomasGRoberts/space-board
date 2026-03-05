@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-05T00:04:46.857681+00:00",
-    "trigger_count": 6,
-    "current_item_id": "29f336a4921168ff143edbb7f1944b48",
+    "trigger_count": 0,
+    "current_item_id": "9f0f039b8bee041c041b79a27c904dd9",
     "data": [
         {
             "id": "b17f46395d4f4676ed9d3a56238214a1",
@@ -8530,6 +8530,18 @@
             "fetched_datetime": "2026-03-05T03:50:32.345336Z",
             "shown_at": [
                 "2026-03-05T03:50:33.166401Z"
+            ]
+        },
+        {
+            "id": "9f0f039b8bee041c041b79a27c904dd9",
+            "source": "spacenews",
+            "text": "Jared Isaacman on rebuilding, Artemis and what he’s learned during his first months as NASA administrator",
+            "source_link": "https://spacenews.com/jared-isaacman-on-rebuilding-artemis-and-what-hes-learned-during-his-first-months-as-nasa-administrator/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-05T12:24:21.615380Z",
+            "shown_at": [
+                "2026-03-05T12:24:22.868244Z"
             ]
         }
     ]
