@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-05T00:04:46.857681+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d79c98e82385048615bcc6e55116f4f9",
+    "trigger_count": 0,
+    "current_item_id": "4889a3d8499354bbb6e18a08e9b1f716",
     "data": [
         {
             "id": "b17f46395d4f4676ed9d3a56238214a1",
@@ -8610,6 +8610,27 @@
             "shown_at": [
                 "2026-03-05T19:54:58.113824Z"
             ]
+        },
+        {
+            "id": "4889a3d8499354bbb6e18a08e9b1f716",
+            "source": "spacenews",
+            "text": "Terran Orbital Appoints Kwon Park as Senior Director of Manufacturing Operations",
+            "source_link": "https://spacenews.com/terran-orbital-appoints-kwon-park-as-senior-director-of-manufacturing-operations/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-05T21:09:10.655099Z",
+            "shown_at": [
+                "2026-03-05T21:09:11.916283Z"
+            ]
+        },
+        {
+            "id": "86b4dca8c1391bd4e8502faea9a41b1a",
+            "source": "spacenews",
+            "text": "General Galactic aims to become “the galaxy’s energy logistics company”",
+            "source_link": "https://spacenews.com/general-galactic-aims-to-become-the-galaxys-energy-logistics-company/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-03-05T21:09:10.655173Z"
         }
     ]
 }
