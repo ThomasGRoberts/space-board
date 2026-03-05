@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 17 | 22 | 44 |
+| spacenews | 10 | 18 | 23 | 45 |
 | nyt | 0 | 0 | 16 | 34 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -3025,3 +3025,4 @@
 - **Mar 05, 06:09 PM** - Space X Wants to Launch 1 Million Satellites, but Is There Room?  (nyt)
 - **Mar 05, 06:44 PM** - When space is hot, Washington holds a match (spacenews)
 - **Mar 05, 07:19 PM** - Blood Moon Lunar Eclipse 2026: Time and Visibility Guide (nyt)
+- **Mar 05, 07:54 PM** - Infinite Orbits acquires UK startup Lunasa to expand satellite servicing capabilities (spacenews)
