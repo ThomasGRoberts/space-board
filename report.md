@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 15 | 23 | 44 |
-| nyt | 0 | 2 | 17 | 35 |
+| nyt | 0 | 2 | 18 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3011,3 +3011,4 @@
 - **Mar 05, 08:44 AM** - CAS Space to launch Kinetica-2 in late March carrying prototype cargo spacecraft (spacenews)
 - **Mar 05, 09:19 AM** - Photos: Blood Moon Total Lunar Eclipse 2026 (nyt)
 - **Mar 05, 09:54 AM** - NASA astronaut says his medical issue led to early return from the ISS (spacenews)
+- **Mar 05, 10:29 AM** - Sorry, SpaceX: It’s Getting Too Crowded Up There (nyt)
