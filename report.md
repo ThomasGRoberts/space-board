@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 18 | 24 | 45 |
-| nyt | 0 | 1 | 15 | 34 |
+| nyt | 0 | 1 | 16 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3020,3 +3020,4 @@
 - **Mar 05, 02:14 PM** - Vast raises $500 million for commercial space station development (spacenews)
 - **Mar 05, 02:49 PM** - Sierra Space raises $550 million in Series C funding (spacenews)
 - **Mar 05, 03:24 PM** - Unlocking AI in space: the case for greater industry and space agency collaboration (spacenews)
+- **Mar 05, 03:59 PM** - Blood Moon Total Lunar Eclipse 2026: Time and Visibility Guide (nyt)
