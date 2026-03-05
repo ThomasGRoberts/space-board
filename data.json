@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-05T00:04:46.857681+00:00",
-    "trigger_count": 6,
-    "current_item_id": "95f962a9f0454895f6de29dfe0b2c7ed",
+    "trigger_count": 0,
+    "current_item_id": "85076ab7fedc888b84fd278b15095495",
     "data": [
         {
             "id": "b17f46395d4f4676ed9d3a56238214a1",
@@ -8574,9 +8574,12 @@
             "source": "spacenews",
             "text": "Sierra Space raises $550 million in Series C funding",
             "source_link": "https://spacenews.com/sierra-space-raises-550-million-in-series-c-funding/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-03-05T13:39:14.384977Z"
+            "fetched_datetime": "2026-03-05T13:39:14.384977Z",
+            "shown_at": [
+                "2026-03-05T14:49:30.049425Z"
+            ]
         }
     ]
 }

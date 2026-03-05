@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 17 | 23 | 44 |
+| spacenews | 10 | 17 | 24 | 45 |
 | nyt | 0 | 1 | 16 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -3018,3 +3018,4 @@
 - **Mar 05, 12:59 PM** - Space X Wants to Launch 1 Million Satellites, but Is There Room?  (nyt)
 - **Mar 05, 01:39 PM** - UK announces £500 million package for industrial growth and national security (spacenews)
 - **Mar 05, 02:14 PM** - Vast raises $500 million for commercial space station development (spacenews)
+- **Mar 05, 02:49 PM** - Sierra Space raises $550 million in Series C funding (spacenews)
