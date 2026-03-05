@@ -1,9 +1,115 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-03-04T00:04:47.545027+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2026-03-05T00:04:46.857681+00:00",
+    "trigger_count": 4,
     "current_item_id": "3db4e147c63f61aa2dc05af25280563a",
     "data": [
+        {
+            "id": "b17f46395d4f4676ed9d3a56238214a1",
+            "source": "spacenews",
+            "text": "Space Force presses case for more personnel and training",
+            "source_link": "https://spacenews.com/space-force-presses-case-for-more-personnel-and-training/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-03-04T23:44:46.080547Z"
+        },
+        {
+            "id": "3db4e147c63f61aa2dc05af25280563a",
+            "source": "spacenews",
+            "text": "Telus invests in AST SpaceMobile to expand D2D coverage in Canada",
+            "source_link": "https://spacenews.com/telus-invests-in-ast-spacemobile-to-expand-d2d-coverage-in-canada/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-04T23:44:46.080491Z",
+            "shown_at": [
+                "2026-03-04T23:44:47.271096Z"
+            ]
+        },
+        {
+            "id": "c1ae81bb7102489412f50757db8143be",
+            "source": "spacenews",
+            "text": "Mutable Tactics raises $2.1 million for AI drone coordination in satellite-denied environments",
+            "source_link": "https://spacenews.com/mutable-tactics-raises-2-1-million-for-ai-drone-coordination-in-satellite-denied-environments/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-04T16:59:15.433161Z",
+            "shown_at": [
+                "2026-03-04T16:59:16.493702Z"
+            ]
+        },
+        {
+            "id": "a8d50b3dcb1aa3f679f5e98fa7db8f4b",
+            "source": "spacenews",
+            "text": "Return of the (space) SPAC",
+            "source_link": "https://spacenews.com/return-of-the-space-spac/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-04T16:24:23.018755Z",
+            "shown_at": [
+                "2026-03-04T16:24:24.097158Z"
+            ]
+        },
+        {
+            "id": "71496092a82af839373bf769bdcaab4b",
+            "source": "spacenews",
+            "text": "Reliable space rescue is a prerequisite for continued economic opportunity in space and we have a long way to go",
+            "source_link": "https://spacenews.com/reliable-space-rescue-is-a-prerequisite-for-continued-economic-opportunity-in-space-and-we-have-a-long-way-to-go/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-04T14:04:17.496790Z",
+            "shown_at": [
+                "2026-03-04T14:04:18.618992Z"
+            ]
+        },
+        {
+            "id": "1505bf186c3821add422d4b11a0906d3",
+            "source": "spacenews",
+            "text": "SLS upper stage helium flow problem fixed",
+            "source_link": "https://spacenews.com/sls-upper-stage-helium-flow-problem-fixed/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-04T13:29:00.717106Z",
+            "shown_at": [
+                "2026-03-04T13:29:01.719551Z"
+            ]
+        },
+        {
+            "id": "bb5ab6cce1bdd7194b55f82d18939dff",
+            "source": "spacenews",
+            "text": "Blue Origin’s surprise TeraWave constellation jolts LEO broadband race",
+            "source_link": "https://spacenews.com/blue-origins-surprise-terawave-constellation-jolts-leo-broadband-race/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-04T12:19:23.231594Z",
+            "shown_at": [
+                "2026-03-04T12:19:24.515811Z"
+            ]
+        },
+        {
+            "id": "cc2a14b6ba8ccadd26feda86ed5334ca",
+            "source": "spacenews",
+            "text": "PLD Space raises $209 million to shift into serial rocket production",
+            "source_link": "https://spacenews.com/pld-space-raises-209-million-to-shift-into-serial-rocket-production/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-04T06:19:25.573613Z",
+            "shown_at": [
+                "2026-03-04T06:19:26.258593Z",
+                "2026-03-04T21:50:00.946194Z"
+            ]
+        },
+        {
+            "id": "4c4cb0b1e2a88651bfd18518283f6e38",
+            "source": "spacenews",
+            "text": "House Science Committee leaders criticize FCC rulemaking on space safety",
+            "source_link": "https://spacenews.com/house-science-committee-leaders-criticize-fcc-rulemaking-on-space-safety/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-04T00:59:07.592073Z",
+            "shown_at": [
+                "2026-03-04T00:59:08.850021Z"
+            ]
+        },
         {
             "id": "37c630b2f7f9c93120220788af0fb206",
             "source": "spacenews",
@@ -8381,284 +8487,6 @@
                 "2025-10-28T07:22:10.948969Z",
                 "2025-10-29T01:53:36.611068Z"
             ]
-        },
-        {
-            "id": "8ee4ba25b370e351b091df39144d51c8",
-            "source": "spacenews",
-            "text": "Quantum Space to launch first spacecraft in mid-2026",
-            "source_link": "https://spacenews.com/quantum-space-to-launch-first-spacecraft-in-mid-2026/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-23T03:05:36.249417Z",
-            "shown_at": [
-                "2025-10-23T03:19:27.884559Z",
-                "2025-10-23T19:55:51.161624Z",
-                "2025-10-24T21:41:43.653723Z",
-                "2025-10-24T22:40:04.802344Z",
-                "2025-10-26T02:16:02.841724Z"
-            ]
-        },
-        {
-            "id": "3cb8cf09e1972ce55692f7b3587c696c",
-            "source": "spacenews",
-            "text": "Hungary signs Artemis Accords",
-            "source_link": "https://spacenews.com/hungary-signs-artemis-accords/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-23T03:05:36.249362Z",
-            "shown_at": [
-                "2025-10-23T03:05:36.919137Z",
-                "2025-10-25T01:39:50.196131Z",
-                "2025-10-30T01:35:50.503075Z"
-            ]
-        },
-        {
-            "id": "6198a6ddd3478a7d47316d9788e972a9",
-            "source": "spacenews",
-            "text": "Lockheed Martin Ventures invests in rocket propulsion startup Venus Aerospace",
-            "source_link": "https://spacenews.com/lockheed-martin-ventures-invests-in-rocket-propulsion-startup-venus-aerospace/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-22T22:37:50.360980Z",
-            "shown_at": [
-                "2025-10-22T22:37:50.919227Z",
-                "2025-10-22T23:37:31.114778Z",
-                "2025-10-24T12:43:43.762807Z",
-                "2025-10-25T09:45:53.288388Z",
-                "2025-10-28T06:19:54.697157Z"
-            ]
-        },
-        {
-            "id": "ca5e808abce5ee7f6eae981f88d5cdd1",
-            "source": "spacenews",
-            "text": "The lunar mining gold rush is coming – and success requires bridging two worlds ",
-            "source_link": "https://spacenews.com/the-lunar-mining-gold-rush-is-coming-and-success-requires-bridging-two-worlds/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-22T15:37:52.620037Z",
-            "shown_at": [
-                "2025-10-22T15:37:53.352342Z",
-                "2025-10-23T23:26:03.622327Z",
-                "2025-10-26T08:28:01.288209Z",
-                "2025-10-29T00:27:35.012152Z"
-            ]
-        },
-        {
-            "id": "33fcd6d7238a83b6905574344753ff41",
-            "source": "nyt",
-            "text": "SpaceX, Sued by Cards Against Humanity, Settles Trespassing Case",
-            "source_link": "https://www.nytimes.com/2025/10/21/us/spacex-cards-against-humanity-lawsuit-settlement.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-22T13:21:56.954791Z",
-            "shown_at": [
-                "2025-10-22T15:21:53.693568Z",
-                "2025-10-24T01:25:29.353683Z",
-                "2025-10-24T11:27:49.206336Z",
-                "2025-10-25T03:13:52.087267Z",
-                "2025-10-25T04:11:58.504883Z",
-                "2025-10-25T21:25:19.888052Z",
-                "2025-10-26T01:25:41.237855Z",
-                "2025-10-26T08:41:51.738966Z",
-                "2025-10-26T10:40:00.662807Z",
-                "2025-10-26T16:12:03.450982Z",
-                "2025-10-27T01:09:44.224694Z",
-                "2025-10-27T07:32:13.422480Z",
-                "2025-10-27T16:51:57.950106Z",
-                "2025-10-27T22:41:36.504682Z",
-                "2025-10-28T00:39:44.925148Z",
-                "2025-10-28T05:09:37.473966Z",
-                "2025-10-28T06:05:27.352430Z",
-                "2025-10-28T07:07:32.173011Z",
-                "2025-10-28T08:09:54.638732Z",
-                "2025-10-28T10:07:32.081709Z",
-                "2025-10-28T13:08:05.604356Z",
-                "2025-10-28T14:09:39.285366Z",
-                "2025-10-28T17:21:47.369432Z",
-                "2025-10-28T21:35:42.315271Z",
-                "2025-10-28T22:33:36.674278Z",
-                "2025-10-28T23:43:40.542039Z",
-                "2025-10-29T05:31:46.252990Z",
-                "2025-10-29T06:29:55.360846Z",
-                "2025-10-29T07:25:57.682679Z",
-                "2025-10-29T08:27:39.251192Z",
-                "2025-10-29T09:39:40.651768Z",
-                "2025-10-29T11:49:52.854928Z"
-            ]
-        },
-        {
-            "id": "f90312d78b44f1de4ae6ea210d3ae1d8",
-            "source": "spacenews",
-            "text": "Vantor satellites track space objects in ‘blind spots’ inaccessible to military ground sensors",
-            "source_link": "https://spacenews.com/vantor-satellites-track-space-objects-in-blind-spots-inaccessible-to-military-ground-sensors/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-22T12:53:53.912738Z",
-            "shown_at": [
-                "2025-10-22T12:53:54.599059Z",
-                "2025-10-22T16:43:47.064533Z",
-                "2025-10-22T21:50:03.461592Z",
-                "2025-10-24T04:51:47.085220Z",
-                "2025-10-25T05:43:52.522557Z",
-                "2025-10-25T18:39:53.854255Z",
-                "2025-10-26T03:15:54.682152Z",
-                "2025-10-27T06:13:56.365722Z"
-            ]
-        },
-        {
-            "id": "9f71018df73e26073aa151687a86f5fc",
-            "source": "spacenews",
-            "text": "Musk criticizes Duffy amid NASA leadership debate",
-            "source_link": "https://spacenews.com/musk-criticizes-duffy-amid-nasa-leadership-debate/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-22T10:55:46.724186Z",
-            "shown_at": [
-                "2025-10-22T10:55:47.758494Z",
-                "2025-10-26T19:39:55.018704Z",
-                "2025-10-27T00:39:37.763806Z"
-            ]
-        },
-        {
-            "id": "ed02893cd0c8188cddb9a86231768b6a",
-            "source": "spacenews",
-            "text": "Lynk Global and Omnispace to merge in race for direct-to-device satellite spectrum",
-            "source_link": "https://spacenews.com/lynk-global-and-omnispace-to-merge-in-race-for-direct-to-device-satellite-spectrum/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-22T08:02:15.919480Z",
-            "shown_at": [
-                "2025-10-22T08:02:16.447038Z",
-                "2025-10-25T16:43:51.982230Z",
-                "2025-10-28T04:00:00.807009Z"
-            ]
-        },
-        {
-            "id": "187828d02ddde449b2698d3f9672f892",
-            "source": "spacenews",
-            "text": "Startup takes on space-based missile defense — with its own cash",
-            "source_link": "https://spacenews.com/startup-takes-on-space-based-missile-defense-with-its-own-cash/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-22T04:43:20.554979Z",
-            "shown_at": [
-                "2025-10-22T04:43:21.105292Z",
-                "2025-10-24T02:42:02.347381Z",
-                "2025-10-24T10:39:33.279665Z",
-                "2025-10-25T08:41:41.669857Z",
-                "2025-10-25T10:43:56.867482Z",
-                "2025-10-25T13:41:52.257168Z",
-                "2025-10-25T22:43:56.402255Z",
-                "2025-10-27T10:35:54.989955Z",
-                "2025-10-27T22:27:29.690998Z",
-                "2025-10-28T08:23:20.078261Z"
-            ]
-        },
-        {
-            "id": "4c4cb0b1e2a88651bfd18518283f6e38",
-            "source": "spacenews",
-            "text": "House Science Committee leaders criticize FCC rulemaking on space safety",
-            "source_link": "https://spacenews.com/house-science-committee-leaders-criticize-fcc-rulemaking-on-space-safety/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-04T00:59:07.592073Z",
-            "shown_at": [
-                "2026-03-04T00:59:08.850021Z"
-            ]
-        },
-        {
-            "id": "cc2a14b6ba8ccadd26feda86ed5334ca",
-            "source": "spacenews",
-            "text": "PLD Space raises $209 million to shift into serial rocket production",
-            "source_link": "https://spacenews.com/pld-space-raises-209-million-to-shift-into-serial-rocket-production/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-04T06:19:25.573613Z",
-            "shown_at": [
-                "2026-03-04T06:19:26.258593Z",
-                "2026-03-04T21:50:00.946194Z"
-            ]
-        },
-        {
-            "id": "bb5ab6cce1bdd7194b55f82d18939dff",
-            "source": "spacenews",
-            "text": "Blue Origin’s surprise TeraWave constellation jolts LEO broadband race",
-            "source_link": "https://spacenews.com/blue-origins-surprise-terawave-constellation-jolts-leo-broadband-race/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-04T12:19:23.231594Z",
-            "shown_at": [
-                "2026-03-04T12:19:24.515811Z"
-            ]
-        },
-        {
-            "id": "1505bf186c3821add422d4b11a0906d3",
-            "source": "spacenews",
-            "text": "SLS upper stage helium flow problem fixed",
-            "source_link": "https://spacenews.com/sls-upper-stage-helium-flow-problem-fixed/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-04T13:29:00.717106Z",
-            "shown_at": [
-                "2026-03-04T13:29:01.719551Z"
-            ]
-        },
-        {
-            "id": "71496092a82af839373bf769bdcaab4b",
-            "source": "spacenews",
-            "text": "Reliable space rescue is a prerequisite for continued economic opportunity in space and we have a long way to go",
-            "source_link": "https://spacenews.com/reliable-space-rescue-is-a-prerequisite-for-continued-economic-opportunity-in-space-and-we-have-a-long-way-to-go/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-04T14:04:17.496790Z",
-            "shown_at": [
-                "2026-03-04T14:04:18.618992Z"
-            ]
-        },
-        {
-            "id": "a8d50b3dcb1aa3f679f5e98fa7db8f4b",
-            "source": "spacenews",
-            "text": "Return of the (space) SPAC",
-            "source_link": "https://spacenews.com/return-of-the-space-spac/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-04T16:24:23.018755Z",
-            "shown_at": [
-                "2026-03-04T16:24:24.097158Z"
-            ]
-        },
-        {
-            "id": "c1ae81bb7102489412f50757db8143be",
-            "source": "spacenews",
-            "text": "Mutable Tactics raises $2.1 million for AI drone coordination in satellite-denied environments",
-            "source_link": "https://spacenews.com/mutable-tactics-raises-2-1-million-for-ai-drone-coordination-in-satellite-denied-environments/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-04T16:59:15.433161Z",
-            "shown_at": [
-                "2026-03-04T16:59:16.493702Z"
-            ]
-        },
-        {
-            "id": "3db4e147c63f61aa2dc05af25280563a",
-            "source": "spacenews",
-            "text": "Telus invests in AST SpaceMobile to expand D2D coverage in Canada",
-            "source_link": "https://spacenews.com/telus-invests-in-ast-spacemobile-to-expand-d2d-coverage-in-canada/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-04T23:44:46.080491Z",
-            "shown_at": [
-                "2026-03-04T23:44:47.271096Z"
-            ]
-        },
-        {
-            "id": "b17f46395d4f4676ed9d3a56238214a1",
-            "source": "spacenews",
-            "text": "Space Force presses case for more personnel and training",
-            "source_link": "https://spacenews.com/space-force-presses-case-for-more-personnel-and-training/",
-            "shown": false,
-            "type": "news",
-            "fetched_datetime": "2026-03-04T23:44:46.080547Z"
         }
     ]
 }
