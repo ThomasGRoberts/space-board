@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 14 | 23 | 43 |
-| nyt | 0 | 3 | 17 | 36 |
+| nyt | 0 | 3 | 18 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2996,3 +2996,4 @@
 - **Mar 04, 11:44 PM** - Telus invests in AST SpaceMobile to expand D2D coverage in Canada (spacenews)
 - **Mar 05, 12:19 AM** - Space Force presses case for more personnel and training (spacenews)
 - **Mar 05, 12:54 AM** - Senate committee advances NASA authorization bill that changes Artemis and extends ISS (spacenews)
+- **Mar 05, 01:29 AM** - NASA Shakes Up Artemis Schedule, Aiming for 2 Moon Landings in 2028 (nyt)
