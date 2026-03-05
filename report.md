@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 20 | 23 | 45 |
+| spacenews | 13 | 21 | 24 | 46 |
 | nyt | 0 | 0 | 15 | 33 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -3029,3 +3029,4 @@
 - **Mar 05, 08:29 PM** - Photos: Blood Moon Total Lunar Eclipse 2026 (nyt)
 - **Mar 05, 09:09 PM** - Terran Orbital Appoints Kwon Park as Senior Director of Manufacturing Operations (spacenews)
 - **Mar 05, 09:44 PM** - General Galactic aims to become “the galaxy’s energy logistics company” (spacenews)
+- **Mar 05, 10:19 PM** - General Galactic aims to become “the galaxy’s energy and logistics company” (spacenews)
