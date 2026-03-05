@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 15 | 23 | 44 |
-| nyt | 0 | 2 | 17 | 35 |
+| nyt | 0 | 2 | 17 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -3005,3 +3005,4 @@
 - **Mar 05, 05:04 AM** - CAS Space to launch Kinetica-2 in late March carrying prototype cargo spacecraft (spacenews)
 - **Mar 05, 05:39 AM** - NASA Shakes Up Artemis Schedule, Aiming for 2 Moon Landings in 2028 (nyt)
 - **Mar 05, 06:14 AM** - NASA on ‘aggressive’ schedule to complete SLS repairs for April launch (spacenews)
+- **Mar 05, 06:54 AM** - NASA Aims for 2 Moon Landings in 2028 With New Artemis Schedule (nyt)
