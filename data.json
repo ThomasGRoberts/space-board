@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-05T00:04:46.857681+00:00",
-    "trigger_count": 6,
-    "current_item_id": "69d658bf7e60780889531dff681e190a",
+    "trigger_count": 0,
+    "current_item_id": "e8505ef898149facdce3922e59013b47",
     "data": [
         {
             "id": "b17f46395d4f4676ed9d3a56238214a1",
@@ -8646,6 +8646,27 @@
             "shown_at": [
                 "2026-03-05T22:19:17.297164Z"
             ]
+        },
+        {
+            "id": "e8505ef898149facdce3922e59013b47",
+            "source": "spacenews",
+            "text": "Poland-based Liftero will provide chemical propulsion for Indian firm OrbitAID’s in-orbit servicing mission",
+            "source_link": "https://spacenews.com/poland-based-liftero-will-provide-chemical-propulsion-for-indian-firm-orbitaids-in-orbit-servicing-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-05T23:34:28.835519Z",
+            "shown_at": [
+                "2026-03-05T23:34:30.121463Z"
+            ]
+        },
+        {
+            "id": "2e2d97ef8816221f377d148d9b426b41",
+            "source": "spacenews",
+            "text": "NASA deputy administrator nominee sails through confirmation hearing",
+            "source_link": "https://spacenews.com/nasa-deputy-administrator-nominee-sails-through-confirmation-hearing/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-03-05T23:34:28.835575Z"
         }
     ]
 }
