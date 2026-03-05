@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-05T00:04:46.857681+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b17f46395d4f4676ed9d3a56238214a1",
+    "trigger_count": 0,
+    "current_item_id": "354be0541faecee1f19a406658c82afb",
     "data": [
         {
             "id": "b17f46395d4f4676ed9d3a56238214a1",
@@ -8489,6 +8489,18 @@
                 "2025-10-28T00:25:29.077618Z",
                 "2025-10-28T07:22:10.948969Z",
                 "2025-10-29T01:53:36.611068Z"
+            ]
+        },
+        {
+            "id": "354be0541faecee1f19a406658c82afb",
+            "source": "spacenews",
+            "text": "Senate committee advances NASA authorization bill that changes Artemis and extends ISS",
+            "source_link": "https://spacenews.com/senate-committee-advances-nasa-authorization-bill-that-changes-artemis-and-extends-iss/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-05T00:54:27.386007Z",
+            "shown_at": [
+                "2026-03-05T00:54:28.410429Z"
             ]
         }
     ]
