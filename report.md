@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 14 | 22 | 43 |
+| spacenews | 11 | 17 | 23 | 44 |
 | nyt | 0 | 2 | 17 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -3016,3 +3016,4 @@
 - **Mar 05, 11:49 AM** - NASA Aims for 2 Moon Landings in 2028 With New Artemis Schedule (nyt)
 - **Mar 05, 12:24 PM** - Jared Isaacman on rebuilding, Artemis and what he’s learned during his first months as NASA administrator (spacenews)
 - **Mar 05, 12:59 PM** - Space X Wants to Launch 1 Million Satellites, but Is There Room?  (nyt)
+- **Mar 05, 01:39 PM** - UK announces £500 million package for industrial growth and national security (spacenews)

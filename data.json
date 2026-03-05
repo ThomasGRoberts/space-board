@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-05T00:04:46.857681+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7c8a0192672807c7903b41a24e0a819b",
+    "trigger_count": 0,
+    "current_item_id": "0e87380422991d9d899918fe5d6ed83f",
     "data": [
         {
             "id": "b17f46395d4f4676ed9d3a56238214a1",
@@ -8544,6 +8544,36 @@
             "shown_at": [
                 "2026-03-05T12:24:22.868244Z"
             ]
+        },
+        {
+            "id": "0e87380422991d9d899918fe5d6ed83f",
+            "source": "spacenews",
+            "text": "UK announces £500 million package for industrial growth and national security",
+            "source_link": "https://spacenews.com/uk-announces-500-million-package-for-industrial-growth-and-national-security/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-05T13:39:14.384858Z",
+            "shown_at": [
+                "2026-03-05T13:39:15.404061Z"
+            ]
+        },
+        {
+            "id": "95f962a9f0454895f6de29dfe0b2c7ed",
+            "source": "spacenews",
+            "text": "Vast raises $500 million for commercial space station development",
+            "source_link": "https://spacenews.com/vast-raises-500-million-for-commercial-space-station-development/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-03-05T13:39:14.384929Z"
+        },
+        {
+            "id": "85076ab7fedc888b84fd278b15095495",
+            "source": "spacenews",
+            "text": "Sierra Space raises $550 million in Series C funding",
+            "source_link": "https://spacenews.com/sierra-space-raises-550-million-in-series-c-funding/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-03-05T13:39:14.384977Z"
         }
     ]
 }
