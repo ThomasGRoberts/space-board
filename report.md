@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 20 | 21 | 44 |
+| spacenews | 9 | 20 | 21 | 45 |
 | nyt | 0 | 0 | 17 | 33 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2788,3 +2788,4 @@
 - **Mar 06, 01:39 PM** - Blood Moon Lunar Eclipse 2026: Time and Visibility Guide (nyt)
 - **Mar 06, 02:19 PM** - Hyperscalers are coming to an orbit near you. Power will decide the winners.  (spacenews)
 - **Mar 06, 02:54 PM** - Blood Moon Lunar Eclipse 2026: Time and Visibility Guide (nyt)
+- **Mar 06, 03:29 PM** - Stargazing into the future of SSA (spacenews)
