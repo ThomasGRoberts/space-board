@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 20 | 22 | 45 |
-| nyt | 0 | 0 | 15 | 32 |
+| nyt | 0 | 0 | 16 | 33 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2773,3 +2773,4 @@
 - **Mar 06, 04:54 AM** - Infinite Orbits acquires UK startup Lunasa to expand satellite servicing capabilities (spacenews)
 - **Mar 06, 05:29 AM** - Experiment Shows Possibility of Martian Microbes Hitching a Ride to Earth (nyt)
 - **Mar 06, 06:04 AM** - Space Force opens secretive space tracking to commercial firms (spacenews)
+- **Mar 06, 06:39 AM** - NASA Shakes Up Artemis Schedule, Aiming for 2 Moon Landings in 2028 (nyt)
