@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 20 | 22 | 45 |
-| nyt | 0 | 0 | 16 | 32 |
+| nyt | 0 | 0 | 17 | 33 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2790,3 +2790,4 @@
 - **Mar 06, 02:54 PM** - Blood Moon Lunar Eclipse 2026: Time and Visibility Guide (nyt)
 - **Mar 06, 03:29 PM** - Stargazing into the future of SSA (spacenews)
 - **Mar 06, 04:04 PM** - Commercial Space Federation (CSF) Welcomes New Members (spacenews)
+- **Mar 06, 04:44 PM** - NASA Shakes Up Artemis Schedule, Aiming for 2 Moon Landings in 2028 (nyt)
