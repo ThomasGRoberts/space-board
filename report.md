@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 19 | 22 | 44 |
+| spacenews | 10 | 20 | 22 | 45 |
 | nyt | 0 | 0 | 16 | 33 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2786,3 +2786,4 @@
 - **Mar 06, 12:29 PM** - Experiment Shows Possibility of Martian Microbes Hitching a Ride to Earth (nyt)
 - **Mar 06, 01:04 PM** - Rocket Lab launches satellite for undisclosed customer (spacenews)
 - **Mar 06, 01:39 PM** - Blood Moon Lunar Eclipse 2026: Time and Visibility Guide (nyt)
+- **Mar 06, 02:19 PM** - Hyperscalers are coming to an orbit near you. Power will decide the winners.  (spacenews)
