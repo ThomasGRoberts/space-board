@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-06T00:04:55.676673+00:00",
-    "trigger_count": 6,
-    "current_item_id": "df2cdc52129d403acba2e7d9633c7126",
+    "trigger_count": 0,
+    "current_item_id": "895e3de877e8225a454cd8d123e71cd4",
     "data": [
         {
             "id": "2e2d97ef8816221f377d148d9b426b41",
@@ -8274,6 +8274,18 @@
                 "2025-10-26T06:26:06.865656Z",
                 "2025-10-29T06:43:43.457891Z",
                 "2025-10-31T02:09:54.572661Z"
+            ]
+        },
+        {
+            "id": "895e3de877e8225a454cd8d123e71cd4",
+            "source": "spacenews",
+            "text": "China designates space sector an “emerging pillar industry,” sets deep space ambitions in new economic blueprint",
+            "source_link": "https://spacenews.com/china-designates-space-sector-an-emerging-pillar-industry-sets-deep-space-ambitions-in-new-economic-blueprint/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-06T10:44:18.445891Z",
+            "shown_at": [
+                "2026-03-06T10:44:19.342902Z"
             ]
         }
     ]
