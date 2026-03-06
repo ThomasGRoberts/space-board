@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 21 | 22 | 45 |
-| nyt | 0 | 0 | 15 | 32 |
+| nyt | 0 | 0 | 16 | 33 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2781,3 +2781,4 @@
 - **Mar 06, 09:34 AM** - Intuitive Machines raises $175 million in stock sale (spacenews)
 - **Mar 06, 10:09 AM** - Blood Moon Lunar Eclipse 2026: Time and Visibility Guide (nyt)
 - **Mar 06, 10:44 AM** - China designates space sector an “emerging pillar industry,” sets deep space ambitions in new economic blueprint (spacenews)
+- **Mar 06, 11:19 AM** - Space X Wants to Launch 1 Million Satellites, but Is There Room?  (nyt)
