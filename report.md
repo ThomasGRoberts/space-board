@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 20 | 22 | 45 |
-| nyt | 0 | 0 | 17 | 32 |
+| nyt | 1 | 1 | 18 | 33 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2794,3 +2794,4 @@
 - **Mar 06, 05:19 PM** - Poland-based Liftero will provide chemical propulsion for Indian firm OrbitAID’s in-orbit servicing mission (spacenews)
 - **Mar 06, 05:54 PM** - Eutelsat completes $5.8 billion refinancing plan (spacenews)
 - **Mar 06, 06:34 PM** - Blood Moon Total Lunar Eclipse 2026: Time and Visibility Guide (nyt)
+- **Mar 06, 07:09 PM** - NASA’s Asteroid-Smashing DART Mission Sped Up Space Rock’s Orbit Around the Sun (nyt)

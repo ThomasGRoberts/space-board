@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-06T00:04:55.676673+00:00",
-    "trigger_count": 6,
-    "current_item_id": "82b2c1ea411952fc07d562895aa7bcc9",
+    "trigger_count": 0,
+    "current_item_id": "b400209d847043cfa64f8725c3da2b7d",
     "data": [
         {
             "id": "2e2d97ef8816221f377d148d9b426b41",
@@ -8343,6 +8343,18 @@
             "fetched_datetime": "2026-03-06T17:54:57.656686Z",
             "shown_at": [
                 "2026-03-06T17:54:58.920741Z"
+            ]
+        },
+        {
+            "id": "b400209d847043cfa64f8725c3da2b7d",
+            "source": "nyt",
+            "text": "NASA’s Asteroid-Smashing DART Mission Sped Up Space Rock’s Orbit Around the Sun",
+            "source_link": "https://www.nytimes.com/2026/03/06/science/nasa-dart-asteroid-sun-orbit.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-06T19:09:44.422463Z",
+            "shown_at": [
+                "2026-03-06T19:09:45.418405Z"
             ]
         }
     ]
