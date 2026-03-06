@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 21 | 22 | 45 |
+| spacenews | 11 | 21 | 23 | 46 |
 | nyt | 0 | 0 | 15 | 32 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2770,3 +2770,4 @@
 - **Mar 06, 03:09 AM** - Blood Moon Lunar Eclipse 2026: Time and Visibility Guide (nyt)
 - **Mar 06, 03:44 AM** - General Galactic aims to become “the galaxy’s energy and logistics company” (spacenews)
 - **Mar 06, 04:19 AM** - Space X Wants to Launch 1 Million Satellites, but Is There Room?  (nyt)
+- **Mar 06, 04:54 AM** - Infinite Orbits acquires UK startup Lunasa to expand satellite servicing capabilities (spacenews)
