@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 20 | 23 | 45 |
-| nyt | 0 | 0 | 15 | 32 |
+| nyt | 0 | 0 | 16 | 33 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2785,3 +2785,4 @@
 - **Mar 06, 11:54 AM** - Sierra Space raises $550 million in Series C funding (spacenews)
 - **Mar 06, 12:29 PM** - Experiment Shows Possibility of Martian Microbes Hitching a Ride to Earth (nyt)
 - **Mar 06, 01:04 PM** - Rocket Lab launches satellite for undisclosed customer (spacenews)
+- **Mar 06, 01:39 PM** - Blood Moon Lunar Eclipse 2026: Time and Visibility Guide (nyt)
