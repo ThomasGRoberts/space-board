@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-06T00:04:55.676673+00:00",
-    "trigger_count": 6,
-    "current_item_id": "95f962a9f0454895f6de29dfe0b2c7ed",
+    "trigger_count": 0,
+    "current_item_id": "8c10dba5522417f054a793b60b75202e",
     "data": [
         {
             "id": "2e2d97ef8816221f377d148d9b426b41",
@@ -8362,6 +8362,18 @@
             "fetched_datetime": "2026-03-06T19:09:44.422463Z",
             "shown_at": [
                 "2026-03-06T19:09:45.418405Z"
+            ]
+        },
+        {
+            "id": "8c10dba5522417f054a793b60b75202e",
+            "source": "spacenews",
+            "text": "NASA selects Centaur for new SLS upper stage",
+            "source_link": "https://spacenews.com/nasa-selects-centaur-for-new-sls-upper-stage/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-06T23:54:31.919404Z",
+            "shown_at": [
+                "2026-03-06T23:54:33.254247Z"
             ]
         }
     ]
