@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 20 | 23 | 45 |
-| nyt | 0 | 0 | 15 | 32 |
+| spacenews | 11 | 20 | 22 | 45 |
+| nyt | 0 | 0 | 16 | 33 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2783,3 +2783,4 @@
 - **Mar 06, 10:44 AM** - China designates space sector an “emerging pillar industry,” sets deep space ambitions in new economic blueprint (spacenews)
 - **Mar 06, 11:19 AM** - Space X Wants to Launch 1 Million Satellites, but Is There Room?  (nyt)
 - **Mar 06, 11:54 AM** - Sierra Space raises $550 million in Series C funding (spacenews)
+- **Mar 06, 12:29 PM** - Experiment Shows Possibility of Martian Microbes Hitching a Ride to Earth (nyt)
