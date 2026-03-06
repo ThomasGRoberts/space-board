@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 21 | 22 | 46 |
-| nyt | 0 | 0 | 15 | 31 |
+| nyt | 0 | 0 | 16 | 32 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2769,3 +2769,4 @@
 - **Mar 06, 02:29 AM** - Stargazing into the future of SSA (spacenews)
 - **Mar 06, 03:09 AM** - Blood Moon Lunar Eclipse 2026: Time and Visibility Guide (nyt)
 - **Mar 06, 03:44 AM** - General Galactic aims to become “the galaxy’s energy and logistics company” (spacenews)
+- **Mar 06, 04:19 AM** - Space X Wants to Launch 1 Million Satellites, but Is There Room?  (nyt)
