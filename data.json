@@ -1,9 +1,162 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-03-05T00:04:46.857681+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2026-03-06T00:04:55.676673+00:00",
+    "trigger_count": 6,
     "current_item_id": "e8505ef898149facdce3922e59013b47",
     "data": [
+        {
+            "id": "2e2d97ef8816221f377d148d9b426b41",
+            "source": "spacenews",
+            "text": "NASA deputy administrator nominee sails through confirmation hearing",
+            "source_link": "https://spacenews.com/nasa-deputy-administrator-nominee-sails-through-confirmation-hearing/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-03-05T23:34:28.835575Z"
+        },
+        {
+            "id": "e8505ef898149facdce3922e59013b47",
+            "source": "spacenews",
+            "text": "Poland-based Liftero will provide chemical propulsion for Indian firm OrbitAID’s in-orbit servicing mission",
+            "source_link": "https://spacenews.com/poland-based-liftero-will-provide-chemical-propulsion-for-indian-firm-orbitaids-in-orbit-servicing-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-05T23:34:28.835519Z",
+            "shown_at": [
+                "2026-03-05T23:34:30.121463Z"
+            ]
+        },
+        {
+            "id": "69d658bf7e60780889531dff681e190a",
+            "source": "spacenews",
+            "text": "General Galactic aims to become “the galaxy’s energy and logistics company”",
+            "source_link": "https://spacenews.com/general-galactic-aims-to-become-the-galaxys-energy-logistics-company/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-05T22:19:15.857681Z",
+            "shown_at": [
+                "2026-03-05T22:19:17.297164Z"
+            ]
+        },
+        {
+            "id": "86b4dca8c1391bd4e8502faea9a41b1a",
+            "source": "spacenews",
+            "text": "General Galactic aims to become “the galaxy’s energy logistics company”",
+            "source_link": "https://spacenews.com/general-galactic-aims-to-become-the-galaxys-energy-logistics-company/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-05T21:09:10.655173Z",
+            "shown_at": [
+                "2026-03-05T21:44:24.637884Z"
+            ]
+        },
+        {
+            "id": "4889a3d8499354bbb6e18a08e9b1f716",
+            "source": "spacenews",
+            "text": "Terran Orbital Appoints Kwon Park as Senior Director of Manufacturing Operations",
+            "source_link": "https://spacenews.com/terran-orbital-appoints-kwon-park-as-senior-director-of-manufacturing-operations/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-05T21:09:10.655099Z",
+            "shown_at": [
+                "2026-03-05T21:09:11.916283Z"
+            ]
+        },
+        {
+            "id": "596b9fd178d18007b87f1876e4a40e0e",
+            "source": "spacenews",
+            "text": "Infinite Orbits acquires UK startup Lunasa to expand satellite servicing capabilities",
+            "source_link": "https://spacenews.com/infinite-orbits-acquires-uk-startup-lunasa-to-expand-satellite-servicing-capabilities/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-05T19:54:57.014132Z",
+            "shown_at": [
+                "2026-03-05T19:54:58.113824Z"
+            ]
+        },
+        {
+            "id": "43788928fec7d0bdc381ad8b82983026",
+            "source": "spacenews",
+            "text": "Unlocking AI in space: the case for greater industry and space agency collaboration",
+            "source_link": "https://spacenews.com/unlocking-ai-in-space-the-case-for-greater-industry-and-space-agency-collaboration/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-05T15:24:22.198632Z",
+            "shown_at": [
+                "2026-03-05T15:24:23.823442Z"
+            ]
+        },
+        {
+            "id": "85076ab7fedc888b84fd278b15095495",
+            "source": "spacenews",
+            "text": "Sierra Space raises $550 million in Series C funding",
+            "source_link": "https://spacenews.com/sierra-space-raises-550-million-in-series-c-funding/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-05T13:39:14.384977Z",
+            "shown_at": [
+                "2026-03-05T14:49:30.049425Z"
+            ]
+        },
+        {
+            "id": "95f962a9f0454895f6de29dfe0b2c7ed",
+            "source": "spacenews",
+            "text": "Vast raises $500 million for commercial space station development",
+            "source_link": "https://spacenews.com/vast-raises-500-million-for-commercial-space-station-development/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-05T13:39:14.384929Z",
+            "shown_at": [
+                "2026-03-05T14:14:17.206904Z"
+            ]
+        },
+        {
+            "id": "0e87380422991d9d899918fe5d6ed83f",
+            "source": "spacenews",
+            "text": "UK announces £500 million package for industrial growth and national security",
+            "source_link": "https://spacenews.com/uk-announces-500-million-package-for-industrial-growth-and-national-security/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-05T13:39:14.384858Z",
+            "shown_at": [
+                "2026-03-05T13:39:15.404061Z"
+            ]
+        },
+        {
+            "id": "9f0f039b8bee041c041b79a27c904dd9",
+            "source": "spacenews",
+            "text": "Jared Isaacman on rebuilding, Artemis and what he’s learned during his first months as NASA administrator",
+            "source_link": "https://spacenews.com/jared-isaacman-on-rebuilding-artemis-and-what-hes-learned-during-his-first-months-as-nasa-administrator/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-05T12:24:21.615380Z",
+            "shown_at": [
+                "2026-03-05T12:24:22.868244Z"
+            ]
+        },
+        {
+            "id": "39a7a91c34f4ffe012365047c3c6ae25",
+            "source": "spacenews",
+            "text": "Third Kairos launch fails",
+            "source_link": "https://spacenews.com/third-kairos-launch-fails/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-05T03:50:32.345336Z",
+            "shown_at": [
+                "2026-03-05T03:50:33.166401Z"
+            ]
+        },
+        {
+            "id": "354be0541faecee1f19a406658c82afb",
+            "source": "spacenews",
+            "text": "Senate committee advances NASA authorization bill that changes Artemis and extends ISS",
+            "source_link": "https://spacenews.com/senate-committee-advances-nasa-authorization-bill-that-changes-artemis-and-extends-iss/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-05T00:54:27.386007Z",
+            "shown_at": [
+                "2026-03-05T00:54:28.410429Z"
+            ]
+        },
         {
             "id": "b17f46395d4f4676ed9d3a56238214a1",
             "source": "spacenews",
@@ -8102,571 +8255,6 @@
                 "2025-10-29T06:43:43.457891Z",
                 "2025-10-31T02:09:54.572661Z"
             ]
-        },
-        {
-            "id": "becc4eed5af3443d904a3cd6035f4633",
-            "source": "spacenews",
-            "text": "A soft power strategy to preserve non-sovereignty from Chinese land claims on the moon ",
-            "source_link": "https://spacenews.com/a-soft-power-strategy-to-preserve-non-sovereignty-from-chinese-land-claims-on-the-moon/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-24T13:13:57.552233Z",
-            "shown_at": [
-                "2025-10-24T13:13:58.627127Z",
-                "2025-10-24T16:17:42.389104Z",
-                "2025-10-27T07:17:56.866631Z",
-                "2025-10-27T11:51:52.329113Z",
-                "2025-10-28T10:21:54.274443Z",
-                "2025-10-30T15:29:53.400343Z"
-            ]
-        },
-        {
-            "id": "b569f3e6916012cdf224e0d1dc2db4ca",
-            "source": "spacenews",
-            "text": "Chinese launch firms Space Pioneer and Galactic Energy move toward IPOs",
-            "source_link": "https://spacenews.com/chinese-launch-firms-space-pioneer-and-galactic-energy-move-toward-ipos/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-24T09:37:43.052364Z",
-            "shown_at": [
-                "2025-10-24T09:37:43.641189Z",
-                "2025-10-25T00:37:46.083448Z",
-                "2025-10-25T06:45:32.207484Z",
-                "2025-10-27T18:32:02.177426Z",
-                "2025-10-30T20:43:37.253815Z"
-            ]
-        },
-        {
-            "id": "290507aff350849cd2a0fbaf6c00c58b",
-            "source": "spacenews",
-            "text": "ESA finalizing ministerial package",
-            "source_link": "https://spacenews.com/esa-finalizing-ministerial-package/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-24T02:55:52.069046Z",
-            "shown_at": [
-                "2025-10-24T02:55:53.168777Z",
-                "2025-10-24T06:50:00.600225Z",
-                "2025-10-24T08:52:00.348454Z",
-                "2025-10-25T07:45:50.139531Z",
-                "2025-10-27T14:15:59.019564Z"
-            ]
-        },
-        {
-            "id": "159ef9433f54f24566bce25736fc9a8d",
-            "source": "spacenews",
-            "text": "Iridium pulls $1 billion 2030 service revenue goal amid SpaceX’s D2D push",
-            "source_link": "https://spacenews.com/iridium-pulls-1-billion-2030-service-revenue-goal-amid-spacexs-d2d-push/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-24T00:43:46.801095Z",
-            "shown_at": [
-                "2025-10-24T00:43:47.493034Z",
-                "2025-10-24T03:53:58.958817Z",
-                "2025-10-26T10:23:53.489127Z",
-                "2025-10-26T16:42:00.397168Z",
-                "2025-10-26T18:40:01.038871Z",
-                "2025-10-29T02:49:39.315311Z",
-                "2025-10-29T14:15:58.918996Z"
-            ]
-        },
-        {
-            "id": "f5d13af9828e10a7c420355f667287bb",
-            "source": "nyt",
-            "text": "Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract",
-            "source_link": "https://www.nytimes.com/2025/10/23/us/politics/elon-musk-duffy-nasa.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-23T23:11:57.030960Z",
-            "shown_at": [
-                "2025-10-23T23:11:57.918461Z",
-                "2025-10-24T20:08:02.078238Z",
-                "2025-10-24T23:09:50.806579Z",
-                "2025-10-25T01:11:57.536246Z",
-                "2025-10-25T07:17:51.434389Z",
-                "2025-10-25T08:14:04.308595Z",
-                "2025-10-25T09:12:07.631431Z",
-                "2025-10-25T15:27:47.281244Z",
-                "2025-10-25T22:27:46.764778Z",
-                "2025-10-26T02:29:41.754039Z",
-                "2025-10-26T05:40:00.401811Z",
-                "2025-10-26T09:39:54.801676Z",
-                "2025-10-26T21:07:47.183443Z",
-                "2025-10-26T23:07:39.592073Z",
-                "2025-10-27T05:25:55.195437Z",
-                "2025-10-27T14:52:29.509661Z",
-                "2025-10-27T15:55:55.126765Z",
-                "2025-10-27T19:44:26.979502Z",
-                "2025-10-27T23:39:39.660095Z",
-                "2025-10-28T02:19:37.321155Z",
-                "2025-10-28T03:17:54.756929Z",
-                "2025-10-28T04:14:05.110298Z",
-                "2025-10-28T09:09:49.644251Z",
-                "2025-10-28T11:05:55.945263Z",
-                "2025-10-28T12:05:54.725164Z",
-                "2025-10-28T15:17:53.013967Z",
-                "2025-10-28T16:19:54.604497Z",
-                "2025-10-28T18:21:50.469419Z",
-                "2025-10-28T19:23:49.217444Z",
-                "2025-10-28T20:37:37.366168Z",
-                "2025-10-29T00:41:55.004683Z",
-                "2025-10-29T01:39:47.027676Z",
-                "2025-10-29T02:35:55.056927Z",
-                "2025-10-29T03:35:43.117544Z",
-                "2025-10-29T04:33:56.638873Z",
-                "2025-10-29T10:37:49.156948Z",
-                "2025-10-29T12:45:41.029181Z",
-                "2025-10-29T13:45:58.832183Z",
-                "2025-10-29T14:46:06.348941Z",
-                "2025-10-29T15:49:09.413344Z",
-                "2025-10-29T18:59:02.271610Z",
-                "2025-10-29T20:43:57.705784Z",
-                "2025-10-29T22:10:00.127457Z",
-                "2025-10-29T23:25:38.071824Z",
-                "2025-10-30T00:24:00.268188Z",
-                "2025-10-30T01:21:46.664757Z",
-                "2025-10-30T02:17:35.318627Z",
-                "2025-10-30T03:17:58.593242Z",
-                "2025-10-30T04:13:59.116280Z",
-                "2025-10-30T05:23:48.271588Z",
-                "2025-10-30T06:29:48.588240Z",
-                "2025-10-30T07:32:21.667149Z",
-                "2025-10-30T08:33:41.063106Z",
-                "2025-10-30T09:33:59.999159Z",
-                "2025-10-30T10:33:54.752888Z",
-                "2025-10-30T11:29:48.390467Z",
-                "2025-10-30T13:01:56.072139Z",
-                "2025-10-30T14:19:58.190926Z",
-                "2025-10-30T15:15:34.646907Z",
-                "2025-10-30T16:17:48.610252Z",
-                "2025-10-30T17:29:43.306164Z",
-                "2025-10-30T18:29:41.420364Z",
-                "2025-10-30T19:25:31.265078Z",
-                "2025-10-30T20:27:56.078270Z",
-                "2025-10-30T22:21:49.587057Z"
-            ]
-        },
-        {
-            "id": "7f3e856b56705cf06a6110e9f7790812",
-            "source": "spacenews",
-            "text": "SatLeo prepares to launch first thermal-imaging payload",
-            "source_link": "https://spacenews.com/satleo-prepares-to-launch-first-thermal-imaging-payload/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-23T21:09:59.270467Z",
-            "shown_at": [
-                "2025-10-23T21:10:00.677095Z",
-                "2025-10-29T12:03:47.916540Z",
-                "2025-10-30T04:27:33.572750Z"
-            ]
-        },
-        {
-            "id": "d59d017df20c7a981ee1eafcdc9cff15",
-            "source": "breaking_defense",
-            "text": "Europe’s strategic autonomy push fuels space mega-merger",
-            "source_link": "https://breakingdefense.com/2025/10/europes-strategic-autonomy-push-fuels-space-mega-merger/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-23T19:13:48.113057Z",
-            "shown_at": [
-                "2025-10-23T19:13:48.841483Z",
-                "2025-10-23T23:40:01.814168Z",
-                "2025-10-24T00:57:53.822407Z",
-                "2025-10-24T04:09:41.423588Z",
-                "2025-10-24T06:02:20.788217Z",
-                "2025-10-24T08:02:34.728819Z",
-                "2025-10-24T11:13:48.589518Z",
-                "2025-10-24T13:28:37.179221Z",
-                "2025-10-24T14:33:21.809067Z",
-                "2025-10-24T15:33:53.719958Z",
-                "2025-10-24T16:32:02.878486Z",
-                "2025-10-24T17:47:50.729378Z",
-                "2025-10-24T18:47:54.228673Z",
-                "2025-10-24T20:55:24.628380Z",
-                "2025-10-24T22:53:42.455378Z",
-                "2025-10-24T23:51:55.289880Z",
-                "2025-10-25T03:55:42.967872Z",
-                "2025-10-25T04:56:00.025661Z",
-                "2025-10-25T05:57:50.147270Z",
-                "2025-10-25T08:55:57.390467Z",
-                "2025-10-25T10:57:58.850405Z",
-                "2025-10-25T13:55:36.284806Z",
-                "2025-10-25T19:49:43.237044Z",
-                "2025-10-25T20:55:57.589932Z",
-                "2025-10-25T22:57:52.101128Z",
-                "2025-10-25T23:55:50.050160Z",
-                "2025-10-26T05:53:49.159566Z",
-                "2025-10-26T09:56:04.444750Z",
-                "2025-10-26T13:22:15.159069Z",
-                "2025-10-26T14:21:29.222672Z",
-                "2025-10-26T17:23:54.763834Z",
-                "2025-10-26T22:22:02.995669Z",
-                "2025-10-27T01:23:54.460905Z",
-                "2025-10-27T02:21:57.226839Z",
-                "2025-10-27T03:21:47.226625Z",
-                "2025-10-27T06:45:41.064585Z",
-                "2025-10-27T10:07:51.637571Z",
-                "2025-10-27T11:22:05.156496Z",
-                "2025-10-27T12:41:58.601024Z",
-                "2025-10-27T15:10:05.023875Z",
-                "2025-10-27T21:57:41.162892Z",
-                "2025-10-27T23:53:53.507019Z",
-                "2025-10-28T03:45:39.879006Z",
-                "2025-10-28T07:55:40.748081Z",
-                "2025-10-28T09:53:11.911945Z",
-                "2025-10-28T11:47:51.444799Z",
-                "2025-10-28T14:59:34.387328Z",
-                "2025-10-28T17:05:35.896087Z",
-                "2025-10-28T18:07:45.299237Z",
-                "2025-10-28T20:23:40.850633Z",
-                "2025-10-28T22:19:40.401735Z",
-                "2025-10-29T00:13:39.836932Z",
-                "2025-10-29T02:21:51.629180Z",
-                "2025-10-29T05:17:47.936594Z",
-                "2025-10-29T06:15:39.020598Z",
-                "2025-10-29T07:11:35.969561Z",
-                "2025-10-29T08:12:00.942339Z",
-                "2025-10-29T09:25:50.307905Z",
-                "2025-10-29T12:31:53.541093Z",
-                "2025-10-29T13:29:50.510014Z",
-                "2025-10-29T14:31:54.357350Z",
-                "2025-10-29T20:22:00.423849Z",
-                "2025-10-30T00:09:41.022058Z",
-                "2025-10-30T01:07:34.810035Z",
-                "2025-10-30T02:03:41.723424Z",
-                "2025-10-30T04:00:00.161325Z",
-                "2025-10-30T12:15:32.948367Z",
-                "2025-10-30T14:47:33.567824Z"
-            ]
-        },
-        {
-            "id": "75a5a081f933a9d073ac8d47a67d926b",
-            "source": "spacenews",
-            "text": "China expands classified geostationary satellite series with Long March 5 launch",
-            "source_link": "https://spacenews.com/china-expands-classified-geostationary-satellite-series-with-long-march-5-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-23T18:57:37.662116Z",
-            "shown_at": [
-                "2025-10-23T18:57:38.229691Z",
-                "2025-10-24T05:47:40.458250Z",
-                "2025-10-25T23:41:54.757684Z",
-                "2025-10-26T20:39:56.919133Z",
-                "2025-10-27T09:32:09.965914Z"
-            ]
-        },
-        {
-            "id": "55948067f1eda857883822d36bdd4bf7",
-            "source": "spacenews",
-            "text": "The next space race will be won at night",
-            "source_link": "https://spacenews.com/the-next-space-race-will-be-won-at-night/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-23T13:07:44.841660Z",
-            "shown_at": [
-                "2025-10-23T13:07:45.514519Z",
-                "2025-10-24T23:37:59.028074Z",
-                "2025-10-27T17:33:42.721158Z",
-                "2025-10-27T20:29:50.553986Z"
-            ]
-        },
-        {
-            "id": "babe85a0a2d8013d6655cd055c75fd3b",
-            "source": "breaking_defense",
-            "text": "Europe’s space merger blasts off: Airbus, Leonardo, Thales sign ‘pivotal milestone’ pact",
-            "source_link": "https://breakingdefense.com/2025/10/europes-space-merger-blasts-off-airbus-leonardo-thales-sign-pivotal-milestone-pact/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-23T11:51:55.861954Z",
-            "shown_at": [
-                "2025-10-23T11:51:56.834983Z",
-                "2025-10-23T13:49:57.509266Z",
-                "2025-10-23T16:35:47.162632Z",
-                "2025-10-23T21:23:53.848936Z",
-                "2025-10-23T22:24:07.451062Z",
-                "2025-10-24T03:12:01.720740Z",
-                "2025-10-24T05:05:51.545170Z",
-                "2025-10-24T07:04:05.098407Z",
-                "2025-10-24T09:07:52.901548Z",
-                "2025-10-24T10:06:07.192562Z",
-                "2025-10-24T19:50:03.035668Z",
-                "2025-10-24T21:55:17.429459Z",
-                "2025-10-25T00:53:52.287189Z",
-                "2025-10-25T01:55:43.737344Z",
-                "2025-10-25T02:58:02.259938Z",
-                "2025-10-25T07:02:15.757672Z",
-                "2025-10-25T07:59:45.073217Z",
-                "2025-10-25T09:59:27.557202Z",
-                "2025-10-25T11:57:23.558245Z",
-                "2025-10-25T12:57:58.905936Z",
-                "2025-10-25T15:56:03.841723Z",
-                "2025-10-25T16:58:03.230626Z",
-                "2025-10-25T17:55:47.898354Z",
-                "2025-10-25T18:53:36.392808Z",
-                "2025-10-25T21:55:45.142402Z",
-                "2025-10-26T01:41:43.838591Z",
-                "2025-10-26T02:43:48.265191Z",
-                "2025-10-26T03:46:05.934553Z",
-                "2025-10-26T04:50:18.330458Z",
-                "2025-10-26T06:59:47.344255Z",
-                "2025-10-26T07:57:46.065981Z",
-                "2025-10-26T08:55:40.159034Z",
-                "2025-10-26T10:54:08.097783Z",
-                "2025-10-26T12:00:03.124601Z",
-                "2025-10-26T16:27:44.807143Z",
-                "2025-10-26T18:25:50.381511Z",
-                "2025-10-26T19:25:52.749342Z",
-                "2025-10-26T20:23:55.349469Z",
-                "2025-10-26T21:22:00.494481Z",
-                "2025-10-26T23:21:55.575294Z",
-                "2025-10-27T00:25:37.219182Z",
-                "2025-10-27T04:39:52.971534Z",
-                "2025-10-27T05:41:55.938483Z",
-                "2025-10-27T07:50:16.918875Z",
-                "2025-10-27T08:54:08.183843Z",
-                "2025-10-27T13:41:51.355451Z",
-                "2025-10-27T16:09:55.376471Z",
-                "2025-10-27T17:05:32.974356Z",
-                "2025-10-27T18:02:12.772132Z",
-                "2025-10-27T18:59:46.282271Z",
-                "2025-10-27T19:59:53.136559Z",
-                "2025-10-27T20:57:39.137618Z",
-                "2025-10-27T22:56:00.511382Z",
-                "2025-10-28T01:51:36.807035Z",
-                "2025-10-28T02:47:33.241019Z",
-                "2025-10-28T04:41:57.007781Z",
-                "2025-10-28T05:51:38.473445Z",
-                "2025-10-28T06:52:19.674467Z",
-                "2025-10-28T08:53:35.180409Z",
-                "2025-10-28T10:49:32.906998Z",
-                "2025-10-28T12:51:52.797813Z",
-                "2025-10-28T13:51:42.118976Z",
-                "2025-10-28T16:03:30.449933Z",
-                "2025-10-28T19:06:03.264812Z",
-                "2025-10-28T21:21:43.559412Z",
-                "2025-10-28T23:15:37.196738Z",
-                "2025-10-29T01:25:37.971403Z",
-                "2025-10-29T03:19:31.210435Z",
-                "2025-10-29T04:18:13.215214Z",
-                "2025-10-29T10:23:57.113983Z",
-                "2025-10-29T11:35:34.836866Z",
-                "2025-10-29T15:32:17.603207Z",
-                "2025-10-29T18:33:59.052697Z",
-                "2025-10-29T21:55:55.282818Z",
-                "2025-10-29T23:08:47.305058Z",
-                "2025-10-30T03:02:18.145067Z",
-                "2025-10-30T05:09:55.054572Z",
-                "2025-10-30T06:11:49.288602Z",
-                "2025-10-30T07:17:49.219897Z",
-                "2025-10-30T08:19:55.202922Z",
-                "2025-10-30T09:19:44.382394Z",
-                "2025-10-30T10:19:55.136398Z",
-                "2025-10-30T11:15:41.002958Z"
-            ]
-        },
-        {
-            "id": "939865b18dd70b339b1e1ddeb2af5454",
-            "source": "spacenews",
-            "text": "Europe must build its own critical infrastructure",
-            "source_link": "https://spacenews.com/europe-must-build-its-own-critical-infrastructure/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-23T11:21:52.156297Z",
-            "shown_at": [
-                "2025-10-23T11:21:52.700079Z",
-                "2025-10-25T19:35:52.065159Z",
-                "2025-10-25T20:38:16.566121Z",
-                "2025-10-26T21:35:50.948173Z",
-                "2025-10-29T09:53:42.548539Z",
-                "2025-10-29T19:55:08.906229Z"
-            ]
-        },
-        {
-            "id": "7ec8948a0b5b4511de0cc3fb03f27a76",
-            "source": "spacenews",
-            "text": "Airbus, Leonardo and Thales agree to combine space businesses",
-            "source_link": "https://spacenews.com/airbus-leonardo-and-thales-agree-to-combine-space-businesses/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-23T09:22:00.712899Z",
-            "shown_at": [
-                "2025-10-23T09:22:02.785644Z",
-                "2025-10-23T20:53:51.375918Z",
-                "2025-10-26T14:07:58.982890Z",
-                "2025-10-27T16:37:51.950607Z",
-                "2025-10-27T23:25:56.896324Z",
-                "2025-10-28T03:02:10.714046Z",
-                "2025-10-28T21:49:56.049039Z"
-            ]
-        },
-        {
-            "id": "c6382da1ea8d0651249a93334c7c9d65",
-            "source": "spacenews",
-            "text": "Ion-X to supply upgraded thruster for Univity’s VLEO 5G constellation",
-            "source_link": "https://spacenews.com/ion-x-to-supply-upgraded-thruster-for-univitys-vleo-5g-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-23T07:19:49.118102Z",
-            "shown_at": [
-                "2025-10-23T07:19:49.703023Z",
-                "2025-10-26T23:36:08.282987Z",
-                "2025-10-28T00:25:29.077618Z",
-                "2025-10-28T07:22:10.948969Z",
-                "2025-10-29T01:53:36.611068Z"
-            ]
-        },
-        {
-            "id": "354be0541faecee1f19a406658c82afb",
-            "source": "spacenews",
-            "text": "Senate committee advances NASA authorization bill that changes Artemis and extends ISS",
-            "source_link": "https://spacenews.com/senate-committee-advances-nasa-authorization-bill-that-changes-artemis-and-extends-iss/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-05T00:54:27.386007Z",
-            "shown_at": [
-                "2026-03-05T00:54:28.410429Z"
-            ]
-        },
-        {
-            "id": "39a7a91c34f4ffe012365047c3c6ae25",
-            "source": "spacenews",
-            "text": "Third Kairos launch fails",
-            "source_link": "https://spacenews.com/third-kairos-launch-fails/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-05T03:50:32.345336Z",
-            "shown_at": [
-                "2026-03-05T03:50:33.166401Z"
-            ]
-        },
-        {
-            "id": "9f0f039b8bee041c041b79a27c904dd9",
-            "source": "spacenews",
-            "text": "Jared Isaacman on rebuilding, Artemis and what he’s learned during his first months as NASA administrator",
-            "source_link": "https://spacenews.com/jared-isaacman-on-rebuilding-artemis-and-what-hes-learned-during-his-first-months-as-nasa-administrator/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-05T12:24:21.615380Z",
-            "shown_at": [
-                "2026-03-05T12:24:22.868244Z"
-            ]
-        },
-        {
-            "id": "0e87380422991d9d899918fe5d6ed83f",
-            "source": "spacenews",
-            "text": "UK announces £500 million package for industrial growth and national security",
-            "source_link": "https://spacenews.com/uk-announces-500-million-package-for-industrial-growth-and-national-security/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-05T13:39:14.384858Z",
-            "shown_at": [
-                "2026-03-05T13:39:15.404061Z"
-            ]
-        },
-        {
-            "id": "95f962a9f0454895f6de29dfe0b2c7ed",
-            "source": "spacenews",
-            "text": "Vast raises $500 million for commercial space station development",
-            "source_link": "https://spacenews.com/vast-raises-500-million-for-commercial-space-station-development/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-05T13:39:14.384929Z",
-            "shown_at": [
-                "2026-03-05T14:14:17.206904Z"
-            ]
-        },
-        {
-            "id": "85076ab7fedc888b84fd278b15095495",
-            "source": "spacenews",
-            "text": "Sierra Space raises $550 million in Series C funding",
-            "source_link": "https://spacenews.com/sierra-space-raises-550-million-in-series-c-funding/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-05T13:39:14.384977Z",
-            "shown_at": [
-                "2026-03-05T14:49:30.049425Z"
-            ]
-        },
-        {
-            "id": "43788928fec7d0bdc381ad8b82983026",
-            "source": "spacenews",
-            "text": "Unlocking AI in space: the case for greater industry and space agency collaboration",
-            "source_link": "https://spacenews.com/unlocking-ai-in-space-the-case-for-greater-industry-and-space-agency-collaboration/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-05T15:24:22.198632Z",
-            "shown_at": [
-                "2026-03-05T15:24:23.823442Z"
-            ]
-        },
-        {
-            "id": "596b9fd178d18007b87f1876e4a40e0e",
-            "source": "spacenews",
-            "text": "Infinite Orbits acquires UK startup Lunasa to expand satellite servicing capabilities",
-            "source_link": "https://spacenews.com/infinite-orbits-acquires-uk-startup-lunasa-to-expand-satellite-servicing-capabilities/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-05T19:54:57.014132Z",
-            "shown_at": [
-                "2026-03-05T19:54:58.113824Z"
-            ]
-        },
-        {
-            "id": "4889a3d8499354bbb6e18a08e9b1f716",
-            "source": "spacenews",
-            "text": "Terran Orbital Appoints Kwon Park as Senior Director of Manufacturing Operations",
-            "source_link": "https://spacenews.com/terran-orbital-appoints-kwon-park-as-senior-director-of-manufacturing-operations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-05T21:09:10.655099Z",
-            "shown_at": [
-                "2026-03-05T21:09:11.916283Z"
-            ]
-        },
-        {
-            "id": "86b4dca8c1391bd4e8502faea9a41b1a",
-            "source": "spacenews",
-            "text": "General Galactic aims to become “the galaxy’s energy logistics company”",
-            "source_link": "https://spacenews.com/general-galactic-aims-to-become-the-galaxys-energy-logistics-company/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-05T21:09:10.655173Z",
-            "shown_at": [
-                "2026-03-05T21:44:24.637884Z"
-            ]
-        },
-        {
-            "id": "69d658bf7e60780889531dff681e190a",
-            "source": "spacenews",
-            "text": "General Galactic aims to become “the galaxy’s energy and logistics company”",
-            "source_link": "https://spacenews.com/general-galactic-aims-to-become-the-galaxys-energy-logistics-company/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-05T22:19:15.857681Z",
-            "shown_at": [
-                "2026-03-05T22:19:17.297164Z"
-            ]
-        },
-        {
-            "id": "e8505ef898149facdce3922e59013b47",
-            "source": "spacenews",
-            "text": "Poland-based Liftero will provide chemical propulsion for Indian firm OrbitAID’s in-orbit servicing mission",
-            "source_link": "https://spacenews.com/poland-based-liftero-will-provide-chemical-propulsion-for-indian-firm-orbitaids-in-orbit-servicing-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-05T23:34:28.835519Z",
-            "shown_at": [
-                "2026-03-05T23:34:30.121463Z"
-            ]
-        },
-        {
-            "id": "2e2d97ef8816221f377d148d9b426b41",
-            "source": "spacenews",
-            "text": "NASA deputy administrator nominee sails through confirmation hearing",
-            "source_link": "https://spacenews.com/nasa-deputy-administrator-nominee-sails-through-confirmation-hearing/",
-            "shown": false,
-            "type": "news",
-            "fetched_datetime": "2026-03-05T23:34:28.835575Z"
         }
     ]
 }
