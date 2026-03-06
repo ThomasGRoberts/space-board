@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 20 | 22 | 45 |
-| nyt | 0 | 0 | 15 | 32 |
+| nyt | 0 | 0 | 16 | 33 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2779,3 +2779,4 @@
 - **Mar 06, 08:24 AM** - When space is hot, Washington holds a match (spacenews)
 - **Mar 06, 08:59 AM** - Experiment Shows Possibility of Martian Microbes Hitching a Ride to Earth (nyt)
 - **Mar 06, 09:34 AM** - Intuitive Machines raises $175 million in stock sale (spacenews)
+- **Mar 06, 10:09 AM** - Blood Moon Lunar Eclipse 2026: Time and Visibility Guide (nyt)
