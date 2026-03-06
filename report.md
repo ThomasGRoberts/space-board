@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 19 | 22 | 44 |
+| spacenews | 10 | 19 | 23 | 45 |
 | nyt | 0 | 0 | 17 | 33 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2791,3 +2791,4 @@
 - **Mar 06, 03:29 PM** - Stargazing into the future of SSA (spacenews)
 - **Mar 06, 04:04 PM** - Commercial Space Federation (CSF) Welcomes New Members (spacenews)
 - **Mar 06, 04:44 PM** - NASA Shakes Up Artemis Schedule, Aiming for 2 Moon Landings in 2028 (nyt)
+- **Mar 06, 05:19 PM** - Poland-based Liftero will provide chemical propulsion for Indian firm OrbitAID’s in-orbit servicing mission (spacenews)
