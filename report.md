@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 20 | 22 | 44 |
+| spacenews | 10 | 20 | 23 | 45 |
 | nyt | 1 | 1 | 17 | 33 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2797,3 +2797,4 @@
 - **Mar 06, 07:09 PM** - NASA’s Asteroid-Smashing DART Mission Sped Up Space Rock’s Orbit Around the Sun (nyt)
 - **Mar 06, 07:44 PM** - China designates space sector an “emerging pillar industry,” sets deep space ambitions in new economic blueprint (spacenews)
 - **Mar 06, 08:24 PM** - Blood Moon Lunar Eclipse 2026: Time and Visibility Guide (nyt)
+- **Mar 06, 08:58 PM** - Hyperscalers are coming to an orbit near you. Power will decide the winners.  (spacenews)
