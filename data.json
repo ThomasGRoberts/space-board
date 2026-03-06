@@ -1,17 +1,20 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-06T00:04:55.676673+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e8505ef898149facdce3922e59013b47",
+    "trigger_count": 0,
+    "current_item_id": "2e2d97ef8816221f377d148d9b426b41",
     "data": [
         {
             "id": "2e2d97ef8816221f377d148d9b426b41",
             "source": "spacenews",
             "text": "NASA deputy administrator nominee sails through confirmation hearing",
             "source_link": "https://spacenews.com/nasa-deputy-administrator-nominee-sails-through-confirmation-hearing/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-03-05T23:34:28.835575Z"
+            "fetched_datetime": "2026-03-05T23:34:28.835575Z",
+            "shown_at": [
+                "2026-03-06T00:09:21.499451Z"
+            ]
         },
         {
             "id": "e8505ef898149facdce3922e59013b47",

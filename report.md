@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 22 | 23 | 45 |
+| spacenews | 13 | 22 | 24 | 46 |
 | nyt | 0 | 0 | 14 | 32 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2762,3 +2762,4 @@
 - **Mar 05, 09:44 PM** - General Galactic aims to become “the galaxy’s energy logistics company” (spacenews)
 - **Mar 05, 10:19 PM** - General Galactic aims to become “the galaxy’s energy and logistics company” (spacenews)
 - **Mar 05, 11:34 PM** - Poland-based Liftero will provide chemical propulsion for Indian firm OrbitAID’s in-orbit servicing mission (spacenews)
+- **Mar 06, 12:09 AM** - NASA deputy administrator nominee sails through confirmation hearing (spacenews)
