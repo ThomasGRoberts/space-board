@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 20 | 21 | 44 |
+| spacenews | 8 | 20 | 22 | 45 |
 | nyt | 1 | 1 | 18 | 33 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2799,3 +2799,4 @@
 - **Mar 06, 08:24 PM** - Blood Moon Lunar Eclipse 2026: Time and Visibility Guide (nyt)
 - **Mar 06, 08:58 PM** - Hyperscalers are coming to an orbit near you. Power will decide the winners.  (spacenews)
 - **Mar 06, 09:34 PM** - Experiment Shows Possibility of Martian Microbes Hitching a Ride to Earth (nyt)
+- **Mar 06, 10:09 PM** - NASA outlines objectives for Mars communications orbiter (spacenews)
