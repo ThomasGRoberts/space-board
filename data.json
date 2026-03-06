@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-06T00:04:55.676673+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e8505ef898149facdce3922e59013b47",
+    "trigger_count": 0,
+    "current_item_id": "0f4142794bbb2b7ff83ceadd0ff2a4a9",
     "data": [
         {
             "id": "2e2d97ef8816221f377d148d9b426b41",
@@ -8330,6 +8330,18 @@
             "fetched_datetime": "2026-03-06T16:04:31.418308Z",
             "shown_at": [
                 "2026-03-06T16:04:32.367470Z"
+            ]
+        },
+        {
+            "id": "0f4142794bbb2b7ff83ceadd0ff2a4a9",
+            "source": "spacenews",
+            "text": "Eutelsat completes $5.8 billion refinancing plan",
+            "source_link": "https://spacenews.com/eutelsat-completes-5-8-billion-refinancing-plan/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-06T17:54:57.656686Z",
+            "shown_at": [
+                "2026-03-06T17:54:58.920741Z"
             ]
         }
     ]
