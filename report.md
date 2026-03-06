@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 21 | 23 | 46 |
-| nyt | 0 | 0 | 14 | 31 |
+| nyt | 0 | 0 | 15 | 32 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2767,3 +2767,4 @@
 - **Mar 06, 01:19 AM** - CAS Space to launch Kinetica-2 in late March carrying prototype cargo spacecraft (spacenews)
 - **Mar 06, 01:54 AM** - Blood Moon Total Lunar Eclipse 2026: Time and Visibility Guide (nyt)
 - **Mar 06, 02:29 AM** - Stargazing into the future of SSA (spacenews)
+- **Mar 06, 03:09 AM** - Blood Moon Lunar Eclipse 2026: Time and Visibility Guide (nyt)
