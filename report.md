@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 17 | 21 | 44 |
-| nyt | 1 | 1 | 19 | 34 |
+| nyt | 1 | 1 | 20 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2790,3 +2790,4 @@
 - **Mar 07, 08:04 AM** - Kelli Kedis Ogborn Joining Commercial Space Federation as Strategic Advisor for Global Markets and Industry Engagement (spacenews)
 - **Mar 07, 08:39 AM** - NASA’s Asteroid-Smashing DART Mission Sped Up Space Rock’s Orbit Around the Sun (nyt)
 - **Mar 07, 09:14 AM** - PLD Space raises $209 million to shift into serial rocket production (spacenews)
+- **Mar 07, 09:49 AM** - Blood Moon Lunar Eclipse 2026: Time and Visibility Guide (nyt)
