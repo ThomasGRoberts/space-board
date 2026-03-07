@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 17 | 21 | 44 |
-| nyt | 1 | 1 | 19 | 34 |
+| nyt | 1 | 1 | 20 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2792,3 +2792,4 @@
 - **Mar 07, 09:14 AM** - PLD Space raises $209 million to shift into serial rocket production (spacenews)
 - **Mar 07, 09:49 AM** - Blood Moon Lunar Eclipse 2026: Time and Visibility Guide (nyt)
 - **Mar 07, 10:24 AM** - Hardware is no longer the problem holding back space-based data centers — the supply chain is (spacenews)
+- **Mar 07, 10:59 AM** - Experiment Shows Possibility of Martian Microbes Hitching a Ride to Earth (nyt)
