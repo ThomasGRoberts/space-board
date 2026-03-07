@@ -1,9 +1,95 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-03-06T00:04:55.676673+00:00",
-    "trigger_count": 1,
+    "last_run_datetime": "2026-03-07T00:04:31.747434+00:00",
+    "trigger_count": 2,
     "current_item_id": "8c10dba5522417f054a793b60b75202e",
     "data": [
+        {
+            "id": "8c10dba5522417f054a793b60b75202e",
+            "source": "spacenews",
+            "text": "NASA selects Centaur for new SLS upper stage",
+            "source_link": "https://spacenews.com/nasa-selects-centaur-for-new-sls-upper-stage/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-06T23:54:31.919404Z",
+            "shown_at": [
+                "2026-03-06T23:54:33.254247Z"
+            ]
+        },
+        {
+            "id": "b400209d847043cfa64f8725c3da2b7d",
+            "source": "nyt",
+            "text": "NASA’s Asteroid-Smashing DART Mission Sped Up Space Rock’s Orbit Around the Sun",
+            "source_link": "https://www.nytimes.com/2026/03/06/science/nasa-dart-asteroid-sun-orbit.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-06T19:09:44.422463Z",
+            "shown_at": [
+                "2026-03-06T19:09:45.418405Z"
+            ]
+        },
+        {
+            "id": "0f4142794bbb2b7ff83ceadd0ff2a4a9",
+            "source": "spacenews",
+            "text": "Eutelsat completes $5.8 billion refinancing plan",
+            "source_link": "https://spacenews.com/eutelsat-completes-5-8-billion-refinancing-plan/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-06T17:54:57.656686Z",
+            "shown_at": [
+                "2026-03-06T17:54:58.920741Z"
+            ]
+        },
+        {
+            "id": "fcc5d08c7dd3649c21fdb2803526fd5b",
+            "source": "spacenews",
+            "text": "Commercial Space Federation (CSF) Welcomes New Members",
+            "source_link": "https://spacenews.com/commercial-space-federation-csf-welcomes-new-members/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-06T16:04:31.418308Z",
+            "shown_at": [
+                "2026-03-06T16:04:32.367470Z"
+            ]
+        },
+        {
+            "id": "6d9c0320c9c6b030a9641444a317e29b",
+            "source": "spacenews",
+            "text": "Hyperscalers are coming to an orbit near you. Power will decide the winners. ",
+            "source_link": "https://spacenews.com/hyperscalers-are-coming-to-an-orbit-near-you-power-will-decide-the-winners/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-06T14:19:23.780688Z",
+            "shown_at": [
+                "2026-03-06T14:19:24.884108Z",
+                "2026-03-06T20:58:50.755113Z"
+            ]
+        },
+        {
+            "id": "bc0e5807d307c0ab499584ebd1d653fa",
+            "source": "spacenews",
+            "text": "Rocket Lab launches satellite for undisclosed customer",
+            "source_link": "https://spacenews.com/rocket-lab-launches-satellite-for-undisclosed-customer/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-06T13:04:24.503003Z",
+            "shown_at": [
+                "2026-03-06T13:04:25.722604Z"
+            ]
+        },
+        {
+            "id": "895e3de877e8225a454cd8d123e71cd4",
+            "source": "spacenews",
+            "text": "China designates space sector an “emerging pillar industry,” sets deep space ambitions in new economic blueprint",
+            "source_link": "https://spacenews.com/china-designates-space-sector-an-emerging-pillar-industry-sets-deep-space-ambitions-in-new-economic-blueprint/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-06T10:44:18.445891Z",
+            "shown_at": [
+                "2026-03-06T10:44:19.342902Z",
+                "2026-03-06T19:44:22.835797Z"
+            ]
+        },
         {
             "id": "2e2d97ef8816221f377d148d9b426b41",
             "source": "spacenews",
@@ -8182,198 +8268,6 @@
                 "2025-10-27T12:09:56.925282Z",
                 "2025-10-28T14:25:20.098946Z",
                 "2025-10-31T08:29:58.287269Z"
-            ]
-        },
-        {
-            "id": "60eaff9516292ab9e3fe50664ceafb50",
-            "source": "spacenews",
-            "text": "China launches new Gaofen-14 stereo mapping satellite",
-            "source_link": "https://spacenews.com/china-launches-new-gaofen-14-stereo-mapping-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-27T10:50:01.735878Z",
-            "shown_at": [
-                "2025-10-27T10:50:02.167281Z",
-                "2025-10-28T17:35:56.317085Z",
-                "2025-10-28T18:35:39.102042Z",
-                "2025-10-30T03:31:57.460874Z",
-                "2025-10-30T05:53:57.322839Z",
-                "2025-10-31T16:53:48.956029Z"
-            ]
-        },
-        {
-            "id": "d4acba5953f0960b69128b6fc4f81d15",
-            "source": "spacenews",
-            "text": "HEO’s satellite-to-satellite imaging uncovers secrets of Chinese tech-test spacecraft",
-            "source_link": "https://spacenews.com/heos-satellite-to-satellite-imaging-uncovers-secrets-of-chinese-tech-test-spacecraft/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-27T05:09:34.747981Z",
-            "shown_at": [
-                "2025-10-27T05:09:35.344457Z",
-                "2025-10-27T15:41:48.911127Z",
-                "2025-10-30T00:37:18.993464Z",
-                "2025-10-30T08:02:32.063322Z"
-            ]
-        },
-        {
-            "id": "e9093eee3150cfc21d4f662f753cd494",
-            "source": "spacenews",
-            "text": "From Analyst to AI Orchestrator: Evolving Roles in the Age of Autonomy",
-            "source_link": "https://spacenews.com/from-analyst-to-ai-orchestrator-evolving-roles-in-the-age-of-autonomy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-27T04:25:51.910033Z",
-            "shown_at": [
-                "2025-10-27T04:25:52.873110Z",
-                "2025-10-28T09:23:53.858903Z"
-            ]
-        },
-        {
-            "id": "41b4bb93af8d1b14b5168519fb567dc4",
-            "source": "spacenews",
-            "text": "Astrobotic delays Griffin-1 lander mission to mid-2026",
-            "source_link": "https://spacenews.com/astrobotic-delays-griffin-1-lander-mission-to-mid-2026/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-26T14:51:26.787121Z",
-            "shown_at": [
-                "2025-10-26T14:51:27.453055Z",
-                "2025-10-29T05:45:37.765949Z",
-                "2025-10-29T18:05:01.462092Z",
-                "2025-10-30T10:02:08.211891Z"
-            ]
-        },
-        {
-            "id": "ee5f8998e77b85a8ef835bf750cb236b",
-            "source": "spacenews",
-            "text": "Kymeta to supply flat-panel satellite antennas to U.S. Army",
-            "source_link": "https://spacenews.com/kymeta-to-supply-flat-panel-satellite-antennas-to-u-s-army/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-26T13:07:45.521501Z",
-            "shown_at": [
-                "2025-10-26T13:07:46.062196Z"
-            ]
-        },
-        {
-            "id": "ae4f38d3012bb26cdb26e01253d1b91d",
-            "source": "spacenews",
-            "text": "H3 launches first HTV-X cargo spacecraft",
-            "source_link": "https://spacenews.com/h3-launches-first-htv-x-cargo-spacecraft/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-26T01:11:47.034381Z",
-            "shown_at": [
-                "2025-10-26T01:11:47.761355Z",
-                "2025-10-27T08:21:25.885594Z",
-                "2025-10-29T23:39:49.075756Z",
-                "2025-10-30T02:32:05.956272Z",
-                "2025-10-30T19:39:52.624847Z",
-                "2025-10-31T05:02:10.061181Z"
-            ]
-        },
-        {
-            "id": "cf074f6b8eb6c0f4a98113fdabf45ed7",
-            "source": "spacenews",
-            "text": "Global Defense Satcom Commercial Service Revenues Positioned to Skyrocket Past $8.6 Billion by 2034",
-            "source_link": "https://spacenews.com/global-defense-satcom-commercial-service-revenues-positioned-to-skyrocket-past-8-6-billion-by-2034/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-24T17:33:58.900253Z",
-            "shown_at": [
-                "2025-10-24T17:34:00.473233Z",
-                "2025-10-24T20:41:50.055575Z",
-                "2025-10-25T21:39:40.743698Z",
-                "2025-10-26T06:26:06.865656Z",
-                "2025-10-29T06:43:43.457891Z",
-                "2025-10-31T02:09:54.572661Z"
-            ]
-        },
-        {
-            "id": "895e3de877e8225a454cd8d123e71cd4",
-            "source": "spacenews",
-            "text": "China designates space sector an “emerging pillar industry,” sets deep space ambitions in new economic blueprint",
-            "source_link": "https://spacenews.com/china-designates-space-sector-an-emerging-pillar-industry-sets-deep-space-ambitions-in-new-economic-blueprint/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-06T10:44:18.445891Z",
-            "shown_at": [
-                "2026-03-06T10:44:19.342902Z",
-                "2026-03-06T19:44:22.835797Z"
-            ]
-        },
-        {
-            "id": "bc0e5807d307c0ab499584ebd1d653fa",
-            "source": "spacenews",
-            "text": "Rocket Lab launches satellite for undisclosed customer",
-            "source_link": "https://spacenews.com/rocket-lab-launches-satellite-for-undisclosed-customer/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-06T13:04:24.503003Z",
-            "shown_at": [
-                "2026-03-06T13:04:25.722604Z"
-            ]
-        },
-        {
-            "id": "6d9c0320c9c6b030a9641444a317e29b",
-            "source": "spacenews",
-            "text": "Hyperscalers are coming to an orbit near you. Power will decide the winners. ",
-            "source_link": "https://spacenews.com/hyperscalers-are-coming-to-an-orbit-near-you-power-will-decide-the-winners/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-06T14:19:23.780688Z",
-            "shown_at": [
-                "2026-03-06T14:19:24.884108Z",
-                "2026-03-06T20:58:50.755113Z"
-            ]
-        },
-        {
-            "id": "fcc5d08c7dd3649c21fdb2803526fd5b",
-            "source": "spacenews",
-            "text": "Commercial Space Federation (CSF) Welcomes New Members",
-            "source_link": "https://spacenews.com/commercial-space-federation-csf-welcomes-new-members/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-06T16:04:31.418308Z",
-            "shown_at": [
-                "2026-03-06T16:04:32.367470Z"
-            ]
-        },
-        {
-            "id": "0f4142794bbb2b7ff83ceadd0ff2a4a9",
-            "source": "spacenews",
-            "text": "Eutelsat completes $5.8 billion refinancing plan",
-            "source_link": "https://spacenews.com/eutelsat-completes-5-8-billion-refinancing-plan/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-06T17:54:57.656686Z",
-            "shown_at": [
-                "2026-03-06T17:54:58.920741Z"
-            ]
-        },
-        {
-            "id": "b400209d847043cfa64f8725c3da2b7d",
-            "source": "nyt",
-            "text": "NASA’s Asteroid-Smashing DART Mission Sped Up Space Rock’s Orbit Around the Sun",
-            "source_link": "https://www.nytimes.com/2026/03/06/science/nasa-dart-asteroid-sun-orbit.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-06T19:09:44.422463Z",
-            "shown_at": [
-                "2026-03-06T19:09:45.418405Z"
-            ]
-        },
-        {
-            "id": "8c10dba5522417f054a793b60b75202e",
-            "source": "spacenews",
-            "text": "NASA selects Centaur for new SLS upper stage",
-            "source_link": "https://spacenews.com/nasa-selects-centaur-for-new-sls-upper-stage/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-06T23:54:31.919404Z",
-            "shown_at": [
-                "2026-03-06T23:54:33.254247Z"
             ]
         }
     ]
