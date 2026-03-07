@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 13 | 21 | 43 |
-| nyt | 1 | 1 | 19 | 36 |
+| nyt | 1 | 1 | 20 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2803,3 +2803,4 @@
 - **Mar 07, 03:59 PM** - Space Force rethinks satellite ground station strategy (spacenews)
 - **Mar 07, 04:34 PM** - Photos: Blood Moon Total Lunar Eclipse 2026 (nyt)
 - **Mar 07, 05:09 PM** - Reliable space rescue is a prerequisite for continued economic opportunity in space and we have a long way to go (spacenews)
+- **Mar 07, 05:44 PM** - Photos: Blood Moon Total Lunar Eclipse 2026 (nyt)
