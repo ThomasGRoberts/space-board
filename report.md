@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 13 | 20 | 43 |
+| spacenews | 2 | 13 | 21 | 44 |
 | nyt | 1 | 1 | 20 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2804,3 +2804,4 @@
 - **Mar 07, 04:34 PM** - Photos: Blood Moon Total Lunar Eclipse 2026 (nyt)
 - **Mar 07, 05:09 PM** - Reliable space rescue is a prerequisite for continued economic opportunity in space and we have a long way to go (spacenews)
 - **Mar 07, 05:44 PM** - Photos: Blood Moon Total Lunar Eclipse 2026 (nyt)
+- **Mar 07, 06:19 PM** - Space Force modernization push runs into acquisition workforce shortfall (spacenews)
