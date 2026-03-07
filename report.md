@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 17 | 21 | 44 |
-| nyt | 1 | 1 | 19 | 34 |
+| nyt | 1 | 1 | 20 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2788,3 +2788,4 @@
 - **Mar 07, 06:54 AM** - Senate committee advances NASA authorization bill that changes Artemis and extends ISS (spacenews)
 - **Mar 07, 07:29 AM** - Blood Moon Lunar Eclipse 2026: Time and Visibility Guide (nyt)
 - **Mar 07, 08:04 AM** - Kelli Kedis Ogborn Joining Commercial Space Federation as Strategic Advisor for Global Markets and Industry Engagement (spacenews)
+- **Mar 07, 08:39 AM** - NASA’s Asteroid-Smashing DART Mission Sped Up Space Rock’s Orbit Around the Sun (nyt)
