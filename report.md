@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 13 | 21 | 43 |
+| spacenews | 2 | 13 | 22 | 44 |
 | nyt | 0 | 1 | 19 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2806,3 +2806,4 @@
 - **Mar 07, 05:44 PM** - Photos: Blood Moon Total Lunar Eclipse 2026 (nyt)
 - **Mar 07, 06:19 PM** - Space Force modernization push runs into acquisition workforce shortfall (spacenews)
 - **Mar 07, 06:54 PM** - Photos: Blood Moon Total Lunar Eclipse 2026 (nyt)
+- **Mar 07, 07:29 PM** - Poland-based Liftero will provide chemical propulsion for Indian firm OrbitAID’s in-orbit servicing mission (spacenews)
