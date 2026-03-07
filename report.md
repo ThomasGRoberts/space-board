@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 17 | 21 | 44 |
+| spacenews | 5 | 17 | 22 | 45 |
 | nyt | 1 | 1 | 19 | 34 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2796,3 +2796,4 @@
 - **Mar 07, 11:34 AM** - ESA announces 100 million euro satellite-mobile convergence initiative (spacenews)
 - **Mar 07, 12:09 PM** - Air Force lab awards BlackSky contract worth up to $99 million for large optical satellite payload (spacenews)
 - **Mar 07, 12:44 PM** - Photos: Blood Moon Total Lunar Eclipse 2026 (nyt)
+- **Mar 07, 01:34 PM** - House Science Committee leaders criticize FCC rulemaking on space safety (spacenews)
