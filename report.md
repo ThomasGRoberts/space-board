@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 19 | 21 | 44 |
-| nyt | 1 | 1 | 19 | 33 |
+| nyt | 1 | 1 | 20 | 34 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2774,3 +2774,4 @@
 - **Mar 06, 10:44 PM** - Blood Moon Total Lunar Eclipse 2026: Time and Visibility Guide (nyt)
 - **Mar 06, 11:19 PM** - Vast raises $500 million for commercial space station development (spacenews)
 - **Mar 06, 11:54 PM** - NASA selects Centaur for new SLS upper stage (spacenews)
+- **Mar 07, 12:29 AM** - Experiment Shows Possibility of Martian Microbes Hitching a Ride to Earth (nyt)
