@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 17 | 21 | 43 |
-| nyt | 1 | 1 | 19 | 34 |
+| nyt | 1 | 1 | 20 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2782,3 +2782,4 @@
 - **Mar 07, 03:24 AM** - Senate committee advances NASA authorization bill that changes Artemis and extends ISS (spacenews)
 - **Mar 07, 03:59 AM** - Blood Moon Total Lunar Eclipse 2026: Time and Visibility Guide (nyt)
 - **Mar 07, 04:34 AM** - NASA deputy administrator nominee sails through confirmation hearing (spacenews)
+- **Mar 07, 05:09 AM** - Experiment Shows Possibility of Martian Microbes Hitching a Ride to Earth (nyt)
