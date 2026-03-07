@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 9 | 21 | 43 |
-| nyt | 0 | 1 | 19 | 38 |
+| nyt | 0 | 1 | 20 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2813,3 +2813,4 @@
 - **Mar 07, 09:49 PM** - NASA deputy administrator nominee sails through confirmation hearing (spacenews)
 - **Mar 07, 10:24 PM** - Blood Moon Total Lunar Eclipse 2026: Time and Visibility Guide (nyt)
 - **Mar 07, 10:59 PM** - Intuitive Machines raises $175 million in stock sale (spacenews)
+- **Mar 07, 11:34 PM** - Blood Moon Lunar Eclipse 2026: Time and Visibility Guide (nyt)
