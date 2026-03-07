@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 12 | 21 | 43 |
+| spacenews | 2 | 12 | 22 | 44 |
 | nyt | 0 | 1 | 19 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2808,3 +2808,4 @@
 - **Mar 07, 06:54 PM** - Photos: Blood Moon Total Lunar Eclipse 2026 (nyt)
 - **Mar 07, 07:29 PM** - Poland-based Liftero will provide chemical propulsion for Indian firm OrbitAID’s in-orbit servicing mission (spacenews)
 - **Mar 07, 08:04 PM** - Blood Moon Lunar Eclipse 2026: Time and Visibility Guide (nyt)
+- **Mar 07, 08:39 PM** - Jared Isaacman on rebuilding, Artemis and what he’s learned during his first months as NASA administrator (spacenews)
