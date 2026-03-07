@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 14 | 22 | 43 |
-| nyt | 1 | 1 | 18 | 35 |
+| nyt | 1 | 1 | 19 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2799,3 +2799,4 @@
 - **Mar 07, 01:34 PM** - House Science Committee leaders criticize FCC rulemaking on space safety (spacenews)
 - **Mar 07, 02:09 PM** - Experiment Shows Possibility of Martian Microbes Hitching a Ride to Earth (nyt)
 - **Mar 07, 02:49 PM** - Mutable Tactics raises $2.1 million for AI drone coordination in satellite-denied environments (spacenews)
+- **Mar 07, 03:24 PM** - Blood Moon Lunar Eclipse 2026: Time and Visibility Guide (nyt)
