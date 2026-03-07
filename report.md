@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 10 | 21 | 43 |
-| nyt | 0 | 1 | 19 | 37 |
+| spacenews | 2 | 9 | 21 | 42 |
+| nyt | 0 | 1 | 20 | 38 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2811,3 +2811,4 @@
 - **Mar 07, 08:39 PM** - Jared Isaacman on rebuilding, Artemis and what he’s learned during his first months as NASA administrator (spacenews)
 - **Mar 07, 09:14 PM** - Photos: Blood Moon Total Lunar Eclipse 2026 (nyt)
 - **Mar 07, 09:49 PM** - NASA deputy administrator nominee sails through confirmation hearing (spacenews)
+- **Mar 07, 10:24 PM** - Blood Moon Total Lunar Eclipse 2026: Time and Visibility Guide (nyt)
