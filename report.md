@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 17 | 21 | 44 |
+| spacenews | 6 | 18 | 22 | 45 |
 | nyt | 1 | 1 | 19 | 34 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2794,3 +2794,4 @@
 - **Mar 07, 10:24 AM** - Hardware is no longer the problem holding back space-based data centers — the supply chain is (spacenews)
 - **Mar 07, 10:59 AM** - Experiment Shows Possibility of Martian Microbes Hitching a Ride to Earth (nyt)
 - **Mar 07, 11:34 AM** - ESA announces 100 million euro satellite-mobile convergence initiative (spacenews)
+- **Mar 07, 12:09 PM** - Air Force lab awards BlackSky contract worth up to $99 million for large optical satellite payload (spacenews)

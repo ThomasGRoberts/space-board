@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-07T00:04:31.747434+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5e4094592aa174534802e68df81b69c8",
+    "trigger_count": 0,
+    "current_item_id": "0668d8d2018502885b4dd93897719b67",
     "data": [
         {
             "id": "8c10dba5522417f054a793b60b75202e",
@@ -8288,6 +8288,18 @@
                 "2025-10-27T12:09:56.925282Z",
                 "2025-10-28T14:25:20.098946Z",
                 "2025-10-31T08:29:58.287269Z"
+            ]
+        },
+        {
+            "id": "0668d8d2018502885b4dd93897719b67",
+            "source": "spacenews",
+            "text": "Air Force lab awards BlackSky contract worth up to $99 million for large optical satellite payload",
+            "source_link": "https://spacenews.com/air-force-lab-awards-blacksky-contract-worth-up-to-99-million-for-large-optical-satellite-payload/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-07T12:09:42.119619Z",
+            "shown_at": [
+                "2026-03-07T12:09:43.774857Z"
             ]
         }
     ]
