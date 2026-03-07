@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 17 | 22 | 44 |
-| nyt | 1 | 1 | 18 | 34 |
+| nyt | 1 | 1 | 19 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2795,3 +2795,4 @@
 - **Mar 07, 10:59 AM** - Experiment Shows Possibility of Martian Microbes Hitching a Ride to Earth (nyt)
 - **Mar 07, 11:34 AM** - ESA announces 100 million euro satellite-mobile convergence initiative (spacenews)
 - **Mar 07, 12:09 PM** - Air Force lab awards BlackSky contract worth up to $99 million for large optical satellite payload (spacenews)
+- **Mar 07, 12:44 PM** - Photos: Blood Moon Total Lunar Eclipse 2026 (nyt)
