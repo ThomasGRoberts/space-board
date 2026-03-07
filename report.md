@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 17 | 21 | 43 |
-| nyt | 1 | 1 | 19 | 35 |
+| spacenews | 6 | 17 | 22 | 44 |
+| nyt | 1 | 1 | 19 | 34 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2783,3 +2783,4 @@
 - **Mar 07, 03:59 AM** - Blood Moon Total Lunar Eclipse 2026: Time and Visibility Guide (nyt)
 - **Mar 07, 04:34 AM** - NASA deputy administrator nominee sails through confirmation hearing (spacenews)
 - **Mar 07, 05:09 AM** - Experiment Shows Possibility of Martian Microbes Hitching a Ride to Earth (nyt)
+- **Mar 07, 05:44 AM** - World Space Week 2025 Set Record With 50,000 Events in 102 Countries (spacenews)
