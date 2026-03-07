@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 18 | 21 | 43 |
+| spacenews | 6 | 18 | 22 | 44 |
 | nyt | 1 | 1 | 19 | 34 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2777,3 +2777,4 @@
 - **Mar 07, 12:29 AM** - Experiment Shows Possibility of Martian Microbes Hitching a Ride to Earth (nyt)
 - **Mar 07, 01:04 AM** - Vast raises $500 million for commercial space station development (spacenews)
 - **Mar 07, 01:39 AM** - Photos: Blood Moon Total Lunar Eclipse 2026 (nyt)
+- **Mar 07, 02:14 AM** - House Science Committee leaders criticize FCC rulemaking on space safety (spacenews)
