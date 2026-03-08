@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 21 | 42 |
-| nyt | 0 | 0 | 20 | 39 |
+| nyt | 0 | 0 | 21 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2847,3 +2847,4 @@
 - **Mar 08, 07:29 PM** - Rocket Lab launches satellite for undisclosed customer (spacenews)
 - **Mar 08, 08:04 PM** - Experiment Shows Possibility of Martian Microbes Hitching a Ride to Earth (nyt)
 - **Mar 08, 08:39 PM** - PLD Space raises $209 million to shift into serial rocket production (spacenews)
+- **Mar 08, 09:14 PM** - NASA’s Asteroid-Smashing DART Mission Sped Up Space Rock’s Orbit Around the Sun (nyt)
