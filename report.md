@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 7 | 20 | 42 |
+| spacenews | 1 | 7 | 21 | 43 |
 | nyt | 0 | 1 | 20 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2813,3 +2813,4 @@
 - **Mar 07, 11:34 PM** - Blood Moon Lunar Eclipse 2026: Time and Visibility Guide (nyt)
 - **Mar 08, 12:09 AM** - Open Cosmos unveils vision for imagery-linked sovereign satellite connectivity (spacenews)
 - **Mar 08, 12:44 AM** - Blood Moon Total Lunar Eclipse 2026: Time and Visibility Guide (nyt)
+- **Mar 08, 01:18 AM** - Eutelsat completes $5.8 billion refinancing plan (spacenews)
