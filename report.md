@@ -8,7 +8,6 @@
 
 # Shown Order
 
-- **Oct 27, 12:09 PM** - Iridium unveils chip to bring GPS protection to mass-market devices (spacenews)
 - **Oct 27, 01:11 PM** - Space is a warfighting domain. We need wartime urgency for procurement reform. (spacenews)
 - **Oct 27, 02:29 PM** - MTN carves out private networks for Starlink’s business users (spacenews)
 - **Oct 27, 07:29 PM** - Space is a warfighting domain. We need wartime urgency for procurement reform. (spacenews)
@@ -17,7 +16,6 @@
 - **Oct 28, 11:19 AM** - Federating Europe’s Earth Observation Ground Segment: The DOMINO-E Proof of Concept (spacenews)
 - **Oct 28, 12:20 PM** - Malaysia and the Philippines sign Artemis Accords (spacenews)
 - **Oct 28, 01:23 PM** - MTN carves out private networks for Starlink’s business users (spacenews)
-- **Oct 28, 02:25 PM** - Iridium unveils chip to bring GPS protection to mass-market devices (spacenews)
 - **Oct 28, 03:32 PM** - MTN carves out private networks for Starlink’s business users (spacenews)
 - **Oct 28, 04:35 PM** - Slingshot sells first sensors in UK deal as more nations seek space-tracking sovereignty (spacenews)
 - **Oct 28, 07:39 PM** - FCC proposes ‘licensing assembly line’ to accelerate satellite approvals (spacenews)
@@ -82,7 +80,6 @@
 - **Oct 31, 07:05 AM** - US nuclear arsenal currently safe, reliable: STRATCOM nominee (breaking_defense)
 - **Oct 31, 07:43 AM** - Investors gravitate toward space firms with defense applications (spacenews)
 - **Oct 31, 07:57 AM** - Missile threats at scale: Turning Golden Dome into reality (breaking_defense)
-- **Oct 31, 08:29 AM** - Iridium unveils chip to bring GPS protection to mass-market devices (spacenews)
 - **Oct 31, 08:47 AM** - Missile threats at scale: Turning Golden Dome into reality (breaking_defense)
 - **Oct 31, 09:29 AM** - Pentagon turns to ‘government-owned, commercially-operated’ satellites amid conflict risks (spacenews)
 - **Oct 31, 09:49 AM** - US nuclear arsenal currently safe, reliable: STRATCOM nominee (breaking_defense)
