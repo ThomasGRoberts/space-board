@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 21 | 42 |
+| spacenews | 1 | 3 | 22 | 43 |
 | nyt | 0 | 0 | 20 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2844,3 +2844,4 @@
 - **Mar 08, 05:44 PM** - Experiment Shows Possibility of Martian Microbes Hitching a Ride to Earth (nyt)
 - **Mar 08, 06:19 PM** - Eutelsat completes $5.8 billion refinancing plan (spacenews)
 - **Mar 08, 06:54 PM** - Photos: Blood Moon Total Lunar Eclipse 2026 (nyt)
+- **Mar 08, 07:29 PM** - Rocket Lab launches satellite for undisclosed customer (spacenews)
