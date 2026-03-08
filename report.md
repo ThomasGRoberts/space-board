@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 21 | 42 |
-| nyt | 0 | 0 | 20 | 39 |
+| nyt | 0 | 0 | 20 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2851,3 +2851,4 @@
 - **Mar 08, 09:49 PM** - UK announces £500 million package for industrial growth and national security (spacenews)
 - **Mar 08, 10:23 PM** - NASA’s Asteroid-Smashing DART Mission Sped Up Space Rock’s Orbit Around the Sun (nyt)
 - **Mar 08, 10:59 PM** - Space Force modernization push runs into acquisition workforce shortfall (spacenews)
+- **Mar 08, 11:34 PM** - Experiment Shows Possibility of Martian Microbes Hitching a Ride to Earth (nyt)
