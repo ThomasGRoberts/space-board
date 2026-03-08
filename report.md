@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 7 | 21 | 42 |
-| nyt | 0 | 1 | 19 | 39 |
+| spacenews | 2 | 8 | 22 | 43 |
+| nyt | 0 | 1 | 19 | 38 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2814,3 +2814,4 @@
 - **Mar 08, 12:09 AM** - Open Cosmos unveils vision for imagery-linked sovereign satellite connectivity (spacenews)
 - **Mar 08, 12:44 AM** - Blood Moon Total Lunar Eclipse 2026: Time and Visibility Guide (nyt)
 - **Mar 08, 01:18 AM** - Eutelsat completes $5.8 billion refinancing plan (spacenews)
+- **Mar 08, 01:54 AM** - RFA plans first launch this summer (spacenews)
