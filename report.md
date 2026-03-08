@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 7 | 21 | 43 |
-| nyt | 0 | 1 | 19 | 38 |
+| spacenews | 1 | 6 | 21 | 42 |
+| nyt | 0 | 1 | 20 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2833,3 +2833,4 @@
 - **Mar 08, 11:18 AM** - Poland-based Liftero will provide chemical propulsion for Indian firm OrbitAID’s in-orbit servicing mission (spacenews)
 - **Mar 08, 11:54 AM** - NASA’s Asteroid-Smashing DART Mission Sped Up Space Rock’s Orbit Around the Sun (nyt)
 - **Mar 08, 12:29 PM** - House Science Committee leaders criticize FCC rulemaking on space safety (spacenews)
+- **Mar 08, 01:04 PM** - NASA’s Asteroid-Smashing DART Mission Sped Up Space Rock’s Orbit Around the Sun (nyt)
