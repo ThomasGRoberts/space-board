@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 4 | 21 | 42 |
-| nyt | 0 | 1 | 20 | 39 |
+| nyt | 0 | 1 | 21 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2839,3 +2839,4 @@
 - **Mar 08, 02:49 PM** - PLD Space raises $209 million to shift into serial rocket production (spacenews)
 - **Mar 08, 03:24 PM** - NASA’s Asteroid-Smashing DART Mission Sped Up Space Rock’s Orbit Around the Sun (nyt)
 - **Mar 08, 03:59 PM** - ESA announces 100 million euro satellite-mobile convergence initiative (spacenews)
+- **Mar 08, 04:34 PM** - Blood Moon Total Lunar Eclipse 2026: Time and Visibility Guide (nyt)
