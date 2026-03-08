@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 21 | 43 |
-| nyt | 0 | 1 | 19 | 38 |
+| nyt | 0 | 1 | 20 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2815,3 +2815,4 @@
 - **Mar 08, 12:44 AM** - Blood Moon Total Lunar Eclipse 2026: Time and Visibility Guide (nyt)
 - **Mar 08, 01:18 AM** - Eutelsat completes $5.8 billion refinancing plan (spacenews)
 - **Mar 08, 01:54 AM** - RFA plans first launch this summer (spacenews)
+- **Mar 08, 02:29 AM** - Experiment Shows Possibility of Martian Microbes Hitching a Ride to Earth (nyt)
