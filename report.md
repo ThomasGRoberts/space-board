@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 8 | 21 | 42 |
+| spacenews | 2 | 8 | 22 | 43 |
 | nyt | 0 | 1 | 19 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2824,3 +2824,4 @@
 - **Mar 08, 06:04 AM** - Experiment Shows Possibility of Martian Microbes Hitching a Ride to Earth (nyt)
 - **Mar 08, 06:39 AM** - Return of the (space) SPAC (spacenews)
 - **Mar 08, 07:14 AM** - Photos: Blood Moon Total Lunar Eclipse 2026 (nyt)
+- **Mar 08, 07:49 AM** - Spectrum showdown (spacenews)
