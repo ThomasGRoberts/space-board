@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 5 | 21 | 42 |
+| spacenews | 1 | 5 | 22 | 43 |
 | nyt | 0 | 1 | 20 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2836,3 +2836,4 @@
 - **Mar 08, 01:04 PM** - NASA’s Asteroid-Smashing DART Mission Sped Up Space Rock’s Orbit Around the Sun (nyt)
 - **Mar 08, 01:39 PM** - General Galactic aims to become “the galaxy’s energy and logistics company” (spacenews)
 - **Mar 08, 02:14 PM** - Experiment Shows Possibility of Martian Microbes Hitching a Ride to Earth (nyt)
+- **Mar 08, 02:49 PM** - PLD Space raises $209 million to shift into serial rocket production (spacenews)
