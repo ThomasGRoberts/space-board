@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 8 | 21 | 43 |
-| nyt | 0 | 1 | 19 | 38 |
+| spacenews | 2 | 8 | 21 | 42 |
+| nyt | 0 | 1 | 20 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2827,3 +2827,4 @@
 - **Mar 08, 07:49 AM** - Spectrum showdown (spacenews)
 - **Mar 08, 08:24 AM** - NASA’s Asteroid-Smashing DART Mission Sped Up Space Rock’s Orbit Around the Sun (nyt)
 - **Mar 08, 08:59 AM** - Space Force presses case for more personnel and training (spacenews)
+- **Mar 08, 09:34 AM** - Blood Moon Lunar Eclipse 2026: Time and Visibility Guide (nyt)
