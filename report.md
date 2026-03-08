@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 21 | 43 |
-| nyt | 0 | 1 | 19 | 38 |
+| nyt | 0 | 1 | 20 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2823,3 +2823,4 @@
 - **Mar 08, 05:29 AM** - Mutable Tactics raises $2.1 million for AI drone coordination in satellite-denied environments (spacenews)
 - **Mar 08, 06:04 AM** - Experiment Shows Possibility of Martian Microbes Hitching a Ride to Earth (nyt)
 - **Mar 08, 06:39 AM** - Return of the (space) SPAC (spacenews)
+- **Mar 08, 07:14 AM** - Photos: Blood Moon Total Lunar Eclipse 2026 (nyt)
