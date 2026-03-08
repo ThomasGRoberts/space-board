@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 21 | 43 |
-| nyt | 0 | 1 | 19 | 38 |
+| nyt | 0 | 1 | 20 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2819,3 +2819,4 @@
 - **Mar 08, 03:04 AM** - Vast raises $500 million for commercial space station development (spacenews)
 - **Mar 08, 03:39 AM** - Photos: Blood Moon Total Lunar Eclipse 2026 (nyt)
 - **Mar 08, 04:15 AM** - General Galactic aims to become “the galaxy’s energy logistics company” (spacenews)
+- **Mar 08, 04:54 AM** - Blood Moon Total Lunar Eclipse 2026: Time and Visibility Guide (nyt)
