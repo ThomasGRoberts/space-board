@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 6 | 21 | 42 |
-| nyt | 0 | 1 | 20 | 39 |
+| spacenews | 1 | 6 | 21 | 43 |
+| nyt | 0 | 1 | 20 | 38 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2834,3 +2834,4 @@
 - **Mar 08, 11:54 AM** - NASA’s Asteroid-Smashing DART Mission Sped Up Space Rock’s Orbit Around the Sun (nyt)
 - **Mar 08, 12:29 PM** - House Science Committee leaders criticize FCC rulemaking on space safety (spacenews)
 - **Mar 08, 01:04 PM** - NASA’s Asteroid-Smashing DART Mission Sped Up Space Rock’s Orbit Around the Sun (nyt)
+- **Mar 08, 01:39 PM** - General Galactic aims to become “the galaxy’s energy and logistics company” (spacenews)
