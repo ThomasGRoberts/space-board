@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 4 | 21 | 42 |
+| spacenews | 1 | 4 | 22 | 43 |
 | nyt | 0 | 1 | 20 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2840,3 +2840,4 @@
 - **Mar 08, 03:24 PM** - NASA’s Asteroid-Smashing DART Mission Sped Up Space Rock’s Orbit Around the Sun (nyt)
 - **Mar 08, 03:59 PM** - ESA announces 100 million euro satellite-mobile convergence initiative (spacenews)
 - **Mar 08, 04:34 PM** - Blood Moon Total Lunar Eclipse 2026: Time and Visibility Guide (nyt)
+- **Mar 08, 05:09 PM** - Blue Origin’s surprise TeraWave constellation jolts LEO broadband race (spacenews)
