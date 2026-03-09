@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-09T00:04:27.126518+00:00",
-    "trigger_count": 6,
-    "current_item_id": "02740bf89bff1d922bf5c86e149d6a5d",
+    "trigger_count": 0,
+    "current_item_id": "dca64fdf664bbee35f8ac75a64beeca4",
     "data": [
         {
             "id": "e1fab93e0df88c9308c03e9bdc368c39",
@@ -8435,6 +8435,27 @@
             "shown_at": [
                 "2026-03-09T18:19:23.054714Z"
             ]
+        },
+        {
+            "id": "dca64fdf664bbee35f8ac75a64beeca4",
+            "source": "spacenews",
+            "text": "SSTL to build spacecraft for private space telescope",
+            "source_link": "https://spacenews.com/sstl-to-build-spacecraft-for-private-space-telescope/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-09T21:49:20.500263Z",
+            "shown_at": [
+                "2026-03-09T21:49:21.441757Z"
+            ]
+        },
+        {
+            "id": "f9237275cf31e702c6ab0403cd041c8c",
+            "source": "spacenews",
+            "text": "Missile detection satellite designed by BAE Systems passes early review",
+            "source_link": "https://spacenews.com/missile-detection-satellite-designed-by-bae-systems-passes-early-review/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-03-09T21:49:20.500322Z"
         }
     ]
 }
