@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-09T00:04:27.126518+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6de5d7f8169465ac6dd87b5dd805aee3",
+    "trigger_count": 0,
+    "current_item_id": "7466625c062492c71ce6d490aae7ffb0",
     "data": [
         {
             "id": "e1fab93e0df88c9308c03e9bdc368c39",
@@ -8364,6 +8364,27 @@
                 "2025-10-28T15:32:13.491656Z",
                 "2025-10-28T22:47:49.927448Z"
             ]
+        },
+        {
+            "id": "7466625c062492c71ce6d490aae7ffb0",
+            "source": "spacenews",
+            "text": "First Starship V3 launch slips",
+            "source_link": "https://spacenews.com/first-starship-v3-launch-slips/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-09T12:24:24.553095Z",
+            "shown_at": [
+                "2026-03-09T12:24:25.659791Z"
+            ]
+        },
+        {
+            "id": "838744f2fadf4619c494d6e51cc56316",
+            "source": "spacenews",
+            "text": "Chinese official calls for prioritizing Neptune orbiter mission",
+            "source_link": "https://spacenews.com/chinese-official-calls-for-prioritizing-neptune-orbiter-mission/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-03-09T12:24:24.553155Z"
         }
     ]
 }
