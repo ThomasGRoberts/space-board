@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-09T00:04:27.126518+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8cd55eb2520cd3bd2e1dde3ae6bff5d0",
+    "trigger_count": 0,
+    "current_item_id": "691eac46036f90732225552f60553a02",
     "data": [
         {
             "id": "e1fab93e0df88c9308c03e9bdc368c39",
@@ -8408,9 +8408,12 @@
             "source": "spacenews",
             "text": "Voyager Technologies invests in Max Space",
             "source_link": "https://spacenews.com/voyager-technologies-invests-in-max-space/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-03-09T14:44:36.753884Z"
+            "fetched_datetime": "2026-03-09T14:44:36.753884Z",
+            "shown_at": [
+                "2026-03-09T15:19:32.454277Z"
+            ]
         }
     ]
 }

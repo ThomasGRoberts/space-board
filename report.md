@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 5 | 22 | 43 |
+| spacenews | 4 | 5 | 23 | 44 |
 | nyt | 0 | 0 | 19 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2874,3 +2874,4 @@
 - **Mar 09, 01:34 PM** - NASA’s Asteroid-Smashing DART Mission Sped Up Space Rock’s Orbit Around the Sun (nyt)
 - **Mar 09, 02:09 PM** - Blue Origin’s surprise TeraWave constellation jolts LEO broadband race (spacenews)
 - **Mar 09, 02:44 PM** - GNSS resilience is an economic and security priority (spacenews)
+- **Mar 09, 03:19 PM** - Voyager Technologies invests in Max Space (spacenews)
