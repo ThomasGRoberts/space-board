@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 21 | 42 |
-| nyt | 0 | 0 | 20 | 39 |
+| nyt | 0 | 0 | 21 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2851,3 +2851,4 @@
 - **Mar 09, 12:09 AM** - RFA plans first launch this summer (spacenews)
 - **Mar 09, 12:44 AM** - Photos: Blood Moon Total Lunar Eclipse 2026 (nyt)
 - **Mar 09, 01:19 AM** - Senate committee advances NASA authorization bill that changes Artemis and extends ISS (spacenews)
+- **Mar 09, 01:53 AM** - Photos: Blood Moon Total Lunar Eclipse 2026 (nyt)
