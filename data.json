@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-09T00:04:27.126518+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7466625c062492c71ce6d490aae7ffb0",
+    "trigger_count": 0,
+    "current_item_id": "838744f2fadf4619c494d6e51cc56316",
     "data": [
         {
             "id": "e1fab93e0df88c9308c03e9bdc368c39",
@@ -8382,9 +8382,12 @@
             "source": "spacenews",
             "text": "Chinese official calls for prioritizing Neptune orbiter mission",
             "source_link": "https://spacenews.com/chinese-official-calls-for-prioritizing-neptune-orbiter-mission/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-03-09T12:24:24.553155Z"
+            "fetched_datetime": "2026-03-09T12:24:24.553155Z",
+            "shown_at": [
+                "2026-03-09T12:59:07.508068Z"
+            ]
         }
     ]
 }
