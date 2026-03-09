@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 7 | 23 | 44 |
-| nyt | 1 | 1 | 18 | 38 |
+| spacenews | 6 | 7 | 24 | 45 |
+| nyt | 1 | 1 | 17 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2886,3 +2886,4 @@
 - **Mar 09, 08:39 PM** - Blood Moon Total Lunar Eclipse 2026: Time and Visibility Guide (nyt)
 - **Mar 09, 09:14 PM** - Deutsche Telekom aims to bring Starlink Mobile V2 to Europe in 2028 (spacenews)
 - **Mar 09, 09:49 PM** - SSTL to build spacecraft for private space telescope (spacenews)
+- **Mar 09, 10:24 PM** - Missile detection satellite designed by BAE Systems passes early review (spacenews)
