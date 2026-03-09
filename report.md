@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 2 | 21 | 42 |
-| nyt | 0 | 0 | 20 | 39 |
+| nyt | 0 | 0 | 21 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2855,3 +2855,4 @@
 - **Mar 09, 02:29 AM** - Infinite Orbits acquires UK startup Lunasa to expand satellite servicing capabilities (spacenews)
 - **Mar 09, 03:04 AM** - Experiment Shows Possibility of Martian Microbes Hitching a Ride to Earth (nyt)
 - **Mar 09, 03:39 AM** - SLS upper stage helium flow problem fixed (spacenews)
+- **Mar 09, 04:14 AM** - Photos: Blood Moon Total Lunar Eclipse 2026 (nyt)
