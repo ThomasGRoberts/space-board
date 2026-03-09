@@ -1,9 +1,21 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-03-08T00:05:12.375015+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2026-03-09T00:04:27.126518+00:00",
+    "trigger_count": 6,
     "current_item_id": "542c6c0ddc6dfb1c625ebdeebe5708b9",
     "data": [
+        {
+            "id": "e1fab93e0df88c9308c03e9bdc368c39",
+            "source": "spacenews",
+            "text": "RFA plans first launch this summer",
+            "source_link": "https://spacenews.com/rfa-plans-first-launch-this-summer/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-08T01:54:19.902881Z",
+            "shown_at": [
+                "2026-03-08T01:54:20.957485Z"
+            ]
+        },
         {
             "id": "0668d8d2018502885b4dd93897719b67",
             "source": "spacenews",
@@ -8330,33 +8342,6 @@
                 "2025-10-28T13:23:14.398915Z",
                 "2025-10-28T15:32:13.491656Z",
                 "2025-10-28T22:47:49.927448Z"
-            ]
-        },
-        {
-            "id": "ae34eaf18238e78728835427007264b6",
-            "source": "spacenews",
-            "text": "Space is a warfighting domain. We need wartime urgency for procurement reform.",
-            "source_link": "https://spacenews.com/space-is-a-warfighting-domain-we-need-wartime-urgency-for-procurement-reform/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-27T13:11:48.824281Z",
-            "shown_at": [
-                "2025-10-27T13:11:49.565258Z",
-                "2025-10-27T19:29:46.337652Z",
-                "2025-10-29T10:51:45.663320Z",
-                "2025-10-31T04:05:36.623546Z"
-            ]
-        },
-        {
-            "id": "e1fab93e0df88c9308c03e9bdc368c39",
-            "source": "spacenews",
-            "text": "RFA plans first launch this summer",
-            "source_link": "https://spacenews.com/rfa-plans-first-launch-this-summer/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-08T01:54:19.902881Z",
-            "shown_at": [
-                "2026-03-08T01:54:20.957485Z"
             ]
         }
     ]

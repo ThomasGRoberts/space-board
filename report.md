@@ -8,9 +8,7 @@
 
 # Shown Order
 
-- **Oct 27, 01:11 PM** - Space is a warfighting domain. We need wartime urgency for procurement reform. (spacenews)
 - **Oct 27, 02:29 PM** - MTN carves out private networks for Starlink’s business users (spacenews)
-- **Oct 27, 07:29 PM** - Space is a warfighting domain. We need wartime urgency for procurement reform. (spacenews)
 - **Oct 27, 09:29 PM** - Voyager Technologies Acquires ExoTerra Resources (spacenews)
 - **Oct 28, 05:23 AM** - Malaysia and the Philippines sign Artemis Accords (spacenews)
 - **Oct 28, 11:19 AM** - Federating Europe’s Earth Observation Ground Segment: The DOMINO-E Proof of Concept (spacenews)
@@ -29,7 +27,6 @@
 - **Oct 29, 07:41 AM** - Federating Europe’s Earth Observation Ground Segment: The DOMINO-E Proof of Concept (spacenews)
 - **Oct 29, 08:41 AM** - Malaysia and the Philippines sign Artemis Accords (spacenews)
 - **Oct 29, 08:55 AM** - Pentagon nominee: Closer Space Force-NRO integration ‘worth considering’ (spacenews)
-- **Oct 29, 10:51 AM** - Space is a warfighting domain. We need wartime urgency for procurement reform. (spacenews)
 - **Oct 29, 11:06 AM** - ESA outlines plans for space security program (spacenews)
 - **Oct 29, 01:15 PM** - Let’s not allow the ‘Golden Age’ of space exploration to turn into fool’s gold (spacenews)
 - **Oct 29, 03:17 PM** - Pentagon nominee: Closer Space Force-NRO integration ‘worth considering’ (spacenews)
@@ -71,7 +68,6 @@
 - **Oct 31, 02:23 AM** - Missile threats at scale: Turning Golden Dome into reality (breaking_defense)
 - **Oct 31, 03:09 AM** - Malaysia and the Philippines sign Artemis Accords (spacenews)
 - **Oct 31, 03:29 AM** - US nuclear arsenal currently safe, reliable: STRATCOM nominee (breaking_defense)
-- **Oct 31, 04:05 AM** - Space is a warfighting domain. We need wartime urgency for procurement reform. (spacenews)
 - **Oct 31, 04:21 AM** - US nuclear arsenal currently safe, reliable: STRATCOM nominee (breaking_defense)
 - **Oct 31, 05:24 AM** - Missile threats at scale: Turning Golden Dome into reality (breaking_defense)
 - **Oct 31, 05:57 AM** - Shutdown could soon slow preparations for Artemis 2 (spacenews)
