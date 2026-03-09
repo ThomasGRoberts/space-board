@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-09T00:04:27.126518+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f9237275cf31e702c6ab0403cd041c8c",
+    "trigger_count": 0,
+    "current_item_id": "199a7f3104e5ab4953c0ccc47176deca",
     "data": [
         {
             "id": "e1fab93e0df88c9308c03e9bdc368c39",
@@ -8458,6 +8458,18 @@
             "fetched_datetime": "2026-03-09T21:49:20.500322Z",
             "shown_at": [
                 "2026-03-09T22:24:33.135970Z"
+            ]
+        },
+        {
+            "id": "199a7f3104e5ab4953c0ccc47176deca",
+            "source": "nyt",
+            "text": "Meteorite Crashes Through Roof in Germany After Fiery Light Show",
+            "source_link": "https://www.nytimes.com/2026/03/09/science/meteorite-europe-crash-germany-roof.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-09T22:59:04.524062Z",
+            "shown_at": [
+                "2026-03-09T22:59:05.683426Z"
             ]
         }
     ]
