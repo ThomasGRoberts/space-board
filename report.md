@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 2 | 20 | 41 |
+| spacenews | 0 | 2 | 21 | 42 |
 | nyt | 0 | 0 | 21 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2868,3 +2868,4 @@
 - **Mar 09, 10:04 AM** - Experiment Shows Possibility of Martian Microbes Hitching a Ride to Earth (nyt)
 - **Mar 09, 10:39 AM** - When space is hot, Washington holds a match (spacenews)
 - **Mar 09, 11:14 AM** - NASA’s Asteroid-Smashing DART Mission Sped Up Space Rock’s Orbit Around the Sun (nyt)
+- **Mar 09, 11:49 AM** - Redwire unveils new solar array (spacenews)
