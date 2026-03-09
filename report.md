@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 21 | 42 |
-| nyt | 0 | 0 | 20 | 40 |
+| spacenews | 2 | 3 | 22 | 43 |
+| nyt | 0 | 0 | 20 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2872,3 +2872,4 @@
 - **Mar 09, 12:24 PM** - First Starship V3 launch slips (spacenews)
 - **Mar 09, 12:59 PM** - Chinese official calls for prioritizing Neptune orbiter mission (spacenews)
 - **Mar 09, 01:34 PM** - NASA’s Asteroid-Smashing DART Mission Sped Up Space Rock’s Orbit Around the Sun (nyt)
+- **Mar 09, 02:09 PM** - Blue Origin’s surprise TeraWave constellation jolts LEO broadband race (spacenews)
