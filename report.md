@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 7 | 23 | 44 |
+| spacenews | 8 | 9 | 24 | 45 |
 | nyt | 2 | 2 | 18 | 38 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2888,3 +2888,4 @@
 - **Mar 09, 09:49 PM** - SSTL to build spacecraft for private space telescope (spacenews)
 - **Mar 09, 10:24 PM** - Missile detection satellite designed by BAE Systems passes early review (spacenews)
 - **Mar 09, 10:59 PM** - Meteorite Crashes Through Roof in Germany After Fiery Light Show (nyt)
+- **Mar 09, 11:34 PM** - Meridian Space Diplomacy Forum & Executive Space Training – March 25 & 26 (spacenews)

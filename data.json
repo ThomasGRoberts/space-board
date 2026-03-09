@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-09T00:04:27.126518+00:00",
-    "trigger_count": 6,
-    "current_item_id": "199a7f3104e5ab4953c0ccc47176deca",
+    "trigger_count": 0,
+    "current_item_id": "e3cbea1d9009d6616695d23409df9e38",
     "data": [
         {
             "id": "e1fab93e0df88c9308c03e9bdc368c39",
@@ -8471,6 +8471,27 @@
             "shown_at": [
                 "2026-03-09T22:59:05.683426Z"
             ]
+        },
+        {
+            "id": "e3cbea1d9009d6616695d23409df9e38",
+            "source": "spacenews",
+            "text": "Meridian Space Diplomacy Forum & Executive Space Training – March 25 & 26",
+            "source_link": "https://spacenews.com/meridian-space-diplomacy-forum-executive-space-training-march-25-26/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-09T23:34:15.250868Z",
+            "shown_at": [
+                "2026-03-09T23:34:16.569526Z"
+            ]
+        },
+        {
+            "id": "159b08b2eca3f7e87822f625fed0be7d",
+            "source": "spacenews",
+            "text": "Missile detection satellites designed by BAE Systems pass early review",
+            "source_link": "https://spacenews.com/missile-detection-satellite-designed-by-bae-systems-passes-early-review/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-03-09T23:34:15.251078Z"
         }
     ]
 }
