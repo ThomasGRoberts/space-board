@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 2 | 21 | 42 |
-| nyt | 0 | 0 | 20 | 39 |
+| nyt | 0 | 0 | 21 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2861,3 +2861,4 @@
 - **Mar 09, 05:59 AM** - PLD Space raises $209 million to shift into serial rocket production (spacenews)
 - **Mar 09, 06:34 AM** - Photos: Blood Moon Total Lunar Eclipse 2026 (nyt)
 - **Mar 09, 07:09 AM** - Unlocking AI in space: the case for greater industry and space agency collaboration (spacenews)
+- **Mar 09, 07:44 AM** - Blood Moon Total Lunar Eclipse 2026: Time and Visibility Guide (nyt)
