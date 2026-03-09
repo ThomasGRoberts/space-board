@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 5 | 23 | 44 |
-| nyt | 0 | 0 | 18 | 38 |
+| nyt | 0 | 0 | 19 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2877,3 +2877,4 @@
 - **Mar 09, 03:19 PM** - Voyager Technologies invests in Max Space (spacenews)
 - **Mar 09, 03:54 PM** - Photos: Blood Moon Total Lunar Eclipse 2026 (nyt)
 - **Mar 09, 04:29 PM** - Kelli Kedis Ogborn Joining Commercial Space Federation as Strategic Advisor for Global Markets and Industry Engagement (spacenews)
+- **Mar 09, 05:04 PM** - Photos: Blood Moon Total Lunar Eclipse 2026 (nyt)
