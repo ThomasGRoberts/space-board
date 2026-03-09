@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 5 | 23 | 44 |
-| nyt | 1 | 1 | 18 | 38 |
+| nyt | 1 | 1 | 19 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2883,3 +2883,4 @@
 - **Mar 09, 06:54 PM** - First Starship V3 launch slips (spacenews)
 - **Mar 09, 07:29 PM** - NASA’s Asteroid-Smashing DART Mission Sped Up Space Rock’s Orbit Around the Sun (nyt)
 - **Mar 09, 08:04 PM** - Jared Isaacman on rebuilding, Artemis and what he’s learned during his first months as NASA administrator (spacenews)
+- **Mar 09, 08:39 PM** - Blood Moon Total Lunar Eclipse 2026: Time and Visibility Guide (nyt)
