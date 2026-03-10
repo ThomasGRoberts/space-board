@@ -2865,3 +2865,4 @@
 - **Mar 09, 11:34 PM** - Meridian Space Diplomacy Forum & Executive Space Training – March 25 & 26 (spacenews)
 - **Mar 10, 12:09 AM** - Missile detection satellites designed by BAE Systems pass early review (spacenews)
 - **Mar 10, 12:44 AM** - Photos: Blood Moon Total Lunar Eclipse 2026 (nyt)
+- **Mar 10, 01:19 AM** - General Galactic aims to become “the galaxy’s energy logistics company” (spacenews)
