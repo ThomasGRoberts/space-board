@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 14 | 22 | 45 |
-| nyt | 2 | 3 | 19 | 36 |
+| spacenews | 8 | 14 | 21 | 45 |
+| nyt | 2 | 3 | 20 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2901,3 +2901,4 @@
 - **Mar 10, 08:44 PM** - Suspended NOAA satellite chief warns of threats to federal science programs (spacenews)
 - **Mar 10, 09:19 PM** - Meteorite Crashes Through Roof in Germany After Fiery Light Show (nyt)
 - **Mar 10, 09:54 PM** - GNSS resilience is an economic and security priority (spacenews)
+- **Mar 10, 10:29 PM** - ‘Don’t Worry About It’: NASA Satellite to Burn Up in Fall to Earth (nyt)
