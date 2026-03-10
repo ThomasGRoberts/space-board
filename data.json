@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-10T00:04:40.301037+00:00",
-    "trigger_count": 6,
-    "current_item_id": "da692e452b391803f72bc9cbfc588b58",
+    "trigger_count": 0,
+    "current_item_id": "b4e06399d008e8e7c7150c5c63ec62fb",
     "data": [
         {
             "id": "159b08b2eca3f7e87822f625fed0be7d",
@@ -8377,6 +8377,18 @@
                 "2025-10-29T08:55:17.958795Z",
                 "2025-10-29T15:17:39.766559Z",
                 "2025-10-30T09:01:49.036855Z"
+            ]
+        },
+        {
+            "id": "b4e06399d008e8e7c7150c5c63ec62fb",
+            "source": "spacenews",
+            "text": "Landspace tests 220-ton methane engine for future heavy-lift launchers",
+            "source_link": "https://spacenews.com/landspace-tests-220-ton-methane-engine-for-future-heavy-lift-launchers/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-10T11:54:21.721452Z",
+            "shown_at": [
+                "2026-03-10T11:54:23.120545Z"
             ]
         }
     ]
