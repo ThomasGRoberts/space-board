@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-10T00:04:40.301037+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6541931490003bdec208bc6237b84bbd",
+    "trigger_count": 0,
+    "current_item_id": "c74d77158f41137483d7aa6d1163a8cd",
     "data": [
         {
             "id": "159b08b2eca3f7e87822f625fed0be7d",
@@ -8458,6 +8458,18 @@
             "fetched_datetime": "2026-03-10T20:09:25.948208Z",
             "shown_at": [
                 "2026-03-10T20:09:27.152091Z"
+            ]
+        },
+        {
+            "id": "c74d77158f41137483d7aa6d1163a8cd",
+            "source": "spacenews",
+            "text": "Suspended NOAA satellite chief warns of threats to federal science programs",
+            "source_link": "https://spacenews.com/suspended-noaa-satellite-chief-warns-of-threats-to-federal-science-programs/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-10T20:44:12.892833Z",
+            "shown_at": [
+                "2026-03-10T20:44:13.701931Z"
             ]
         }
     ]
