@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 15 | 21 | 45 |
+| spacenews | 8 | 16 | 22 | 46 |
 | nyt | 1 | 3 | 19 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2903,3 +2903,4 @@
 - **Mar 10, 09:54 PM** - GNSS resilience is an economic and security priority (spacenews)
 - **Mar 10, 10:29 PM** - ‘Don’t Worry About It’: NASA Satellite to Burn Up in Fall to Earth (nyt)
 - **Mar 10, 11:04 PM** - Viasat wins $14 million contract to provide in-flight satcom for Navy executive aircraft (spacenews)
+- **Mar 10, 11:39 PM** - Starlab Space fully books commercial payload space on planned space station (spacenews)

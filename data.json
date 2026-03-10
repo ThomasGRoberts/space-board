@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-10T00:04:40.301037+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2c22b46f4b115575c312322054864435",
+    "trigger_count": 0,
+    "current_item_id": "bd64c969dd0f63b06e2f63b115c63583",
     "data": [
         {
             "id": "159b08b2eca3f7e87822f625fed0be7d",
@@ -8485,6 +8485,18 @@
             "fetched_datetime": "2026-03-10T23:04:52.168949Z",
             "shown_at": [
                 "2026-03-10T23:04:53.448551Z"
+            ]
+        },
+        {
+            "id": "bd64c969dd0f63b06e2f63b115c63583",
+            "source": "spacenews",
+            "text": "Starlab Space fully books commercial payload space on planned space station",
+            "source_link": "https://spacenews.com/starlab-space-fully-books-commercial-payload-space-on-planned-space-station/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-10T23:39:18.377137Z",
+            "shown_at": [
+                "2026-03-10T23:39:19.558069Z"
             ]
         }
     ]
