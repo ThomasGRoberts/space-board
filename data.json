@@ -1,9 +1,127 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-03-09T00:04:27.126518+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2026-03-10T00:04:40.301037+00:00",
+    "trigger_count": 6,
     "current_item_id": "e3cbea1d9009d6616695d23409df9e38",
     "data": [
+        {
+            "id": "159b08b2eca3f7e87822f625fed0be7d",
+            "source": "spacenews",
+            "text": "Missile detection satellites designed by BAE Systems pass early review",
+            "source_link": "https://spacenews.com/missile-detection-satellite-designed-by-bae-systems-passes-early-review/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-03-09T23:34:15.251078Z"
+        },
+        {
+            "id": "e3cbea1d9009d6616695d23409df9e38",
+            "source": "spacenews",
+            "text": "Meridian Space Diplomacy Forum & Executive Space Training – March 25 & 26",
+            "source_link": "https://spacenews.com/meridian-space-diplomacy-forum-executive-space-training-march-25-26/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-09T23:34:15.250868Z",
+            "shown_at": [
+                "2026-03-09T23:34:16.569526Z"
+            ]
+        },
+        {
+            "id": "199a7f3104e5ab4953c0ccc47176deca",
+            "source": "nyt",
+            "text": "Meteorite Crashes Through Roof in Germany After Fiery Light Show",
+            "source_link": "https://www.nytimes.com/2026/03/09/science/meteorite-europe-crash-germany-roof.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-09T22:59:04.524062Z",
+            "shown_at": [
+                "2026-03-09T22:59:05.683426Z"
+            ]
+        },
+        {
+            "id": "f9237275cf31e702c6ab0403cd041c8c",
+            "source": "spacenews",
+            "text": "Missile detection satellite designed by BAE Systems passes early review",
+            "source_link": "https://spacenews.com/missile-detection-satellite-designed-by-bae-systems-passes-early-review/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-09T21:49:20.500322Z",
+            "shown_at": [
+                "2026-03-09T22:24:33.135970Z"
+            ]
+        },
+        {
+            "id": "dca64fdf664bbee35f8ac75a64beeca4",
+            "source": "spacenews",
+            "text": "SSTL to build spacecraft for private space telescope",
+            "source_link": "https://spacenews.com/sstl-to-build-spacecraft-for-private-space-telescope/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-09T21:49:20.500263Z",
+            "shown_at": [
+                "2026-03-09T21:49:21.441757Z"
+            ]
+        },
+        {
+            "id": "da692e452b391803f72bc9cbfc588b58",
+            "source": "nyt",
+            "text": "A Night Light in the Sky? Reflect Orbital Wants to Launch a Big Space Mirror.",
+            "source_link": "https://www.nytimes.com/2026/03/09/climate/space-mirror-satellite-solar.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-09T18:19:21.984870Z",
+            "shown_at": [
+                "2026-03-09T18:19:23.054714Z"
+            ]
+        },
+        {
+            "id": "691eac46036f90732225552f60553a02",
+            "source": "spacenews",
+            "text": "Voyager Technologies invests in Max Space",
+            "source_link": "https://spacenews.com/voyager-technologies-invests-in-max-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-09T14:44:36.753884Z",
+            "shown_at": [
+                "2026-03-09T15:19:32.454277Z"
+            ]
+        },
+        {
+            "id": "8cd55eb2520cd3bd2e1dde3ae6bff5d0",
+            "source": "spacenews",
+            "text": "GNSS resilience is an economic and security priority",
+            "source_link": "https://spacenews.com/gnss-resilience-is-an-economic-and-security-priority/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-09T14:44:36.753806Z",
+            "shown_at": [
+                "2026-03-09T14:44:37.692558Z"
+            ]
+        },
+        {
+            "id": "838744f2fadf4619c494d6e51cc56316",
+            "source": "spacenews",
+            "text": "Chinese official calls for prioritizing Neptune orbiter mission",
+            "source_link": "https://spacenews.com/chinese-official-calls-for-prioritizing-neptune-orbiter-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-09T12:24:24.553155Z",
+            "shown_at": [
+                "2026-03-09T12:59:07.508068Z"
+            ]
+        },
+        {
+            "id": "7466625c062492c71ce6d490aae7ffb0",
+            "source": "spacenews",
+            "text": "First Starship V3 launch slips",
+            "source_link": "https://spacenews.com/first-starship-v3-launch-slips/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-09T12:24:24.553095Z",
+            "shown_at": [
+                "2026-03-09T12:24:25.659791Z",
+                "2026-03-09T18:54:21.598185Z"
+            ]
+        },
         {
             "id": "e1fab93e0df88c9308c03e9bdc368c39",
             "source": "spacenews",
@@ -8238,260 +8356,6 @@
                 "2025-10-29T15:17:39.766559Z",
                 "2025-10-30T09:01:49.036855Z"
             ]
-        },
-        {
-            "id": "9f8b51584a892aecc198eabf210e25c6",
-            "source": "spacenews",
-            "text": "Rising demand and falling costs clear path for satellite servicing",
-            "source_link": "https://spacenews.com/rising-demand-and-falling-costs-clear-path-for-satellite-servicing/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-29T04:47:38.069503Z",
-            "shown_at": [
-                "2025-10-29T04:47:38.777293Z"
-            ]
-        },
-        {
-            "id": "e99ac4a06ca70a5975b14964169cab32",
-            "source": "spacenews",
-            "text": "Trump nominee: Closer Space Force-NRO integration ‘worth considering’",
-            "source_link": "https://spacenews.com/trump-nominee-closer-space-force-nro-integration-worth-considering/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-29T00:57:44.181726Z",
-            "shown_at": [
-                "2025-10-29T00:57:44.797506Z"
-            ]
-        },
-        {
-            "id": "071a836b189a77e9136153483d0f1452",
-            "source": "spacenews",
-            "text": "Shutdown could soon slow preparations for Artemis 2",
-            "source_link": "https://spacenews.com/shutdown-could-soon-slow-preparations-for-artemis-2/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-28T23:29:54.397330Z",
-            "shown_at": [
-                "2025-10-28T23:29:55.136945Z",
-                "2025-10-31T05:57:20.908669Z"
-            ]
-        },
-        {
-            "id": "963c7a2dafc6db136f1cae750392bb3c",
-            "source": "spacenews",
-            "text": "Cambrian Works Announces Partnership with Aptos Orbital to Integrate the GigRouter and Aptos Terminal",
-            "source_link": "https://spacenews.com/cambrian-works-announces-partnership-with-aptos-orbital-to-integrate-the-gigrouter-and-aptos-terminal/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-28T19:39:34.919875Z",
-            "shown_at": [
-                "2025-10-28T19:53:50.336861Z",
-                "2025-10-31T06:45:37.619002Z"
-            ]
-        },
-        {
-            "id": "a6a5c79ca90de3d69b1a364954f8422e",
-            "source": "spacenews",
-            "text": "FCC proposes ‘licensing assembly line’ to accelerate satellite approvals",
-            "source_link": "https://spacenews.com/fcc-proposes-licensing-assembly-line-to-accelerate-satellite-approvals/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-28T19:39:34.919800Z",
-            "shown_at": [
-                "2025-10-28T19:39:35.467228Z"
-            ]
-        },
-        {
-            "id": "cc31225124706aed20f70f08f0e162fe",
-            "source": "spacenews",
-            "text": "Slingshot sells first sensors in UK deal as more nations seek space-tracking sovereignty",
-            "source_link": "https://spacenews.com/slingshot-sells-first-sensors-in-uk-deal-as-more-nations-seek-space-tracking-sovereignty/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-28T16:35:35.915572Z",
-            "shown_at": [
-                "2025-10-28T16:35:36.660972Z",
-                "2025-10-30T11:57:42.861425Z",
-                "2025-10-30T17:45:53.420600Z"
-            ]
-        },
-        {
-            "id": "135b2597d02a0bfefc5bfb5183e4bf7e",
-            "source": "spacenews",
-            "text": "Federating Europe’s Earth Observation Ground Segment: The DOMINO-E Proof of Concept",
-            "source_link": "https://spacenews.com/federating-europes-earth-observation-ground-segment-the-domino-e-proof-of-concept/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-28T11:19:35.458984Z",
-            "shown_at": [
-                "2025-10-28T11:19:36.126811Z",
-                "2025-10-28T20:51:38.894056Z",
-                "2025-10-29T03:49:28.516837Z",
-                "2025-10-29T07:41:57.554659Z",
-                "2025-10-31T01:00:06.729163Z"
-            ]
-        },
-        {
-            "id": "075a6bd68f1ea4a6b986f1c072d9940d",
-            "source": "spacenews",
-            "text": "Malaysia and the Philippines sign Artemis Accords",
-            "source_link": "https://spacenews.com/malaysia-and-the-philippines-sign-artemis-accords/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-28T05:23:47.626676Z",
-            "shown_at": [
-                "2025-10-28T05:23:48.175981Z",
-                "2025-10-28T12:20:02.550316Z",
-                "2025-10-29T08:41:26.999650Z",
-                "2025-10-30T18:43:56.911375Z",
-                "2025-10-31T03:09:50.438727Z"
-            ]
-        },
-        {
-            "id": "b0ac4e4661a98dae154e7b43d4bca04c",
-            "source": "spacenews",
-            "text": "Voyager Technologies Acquires ExoTerra Resources",
-            "source_link": "https://spacenews.com/voyager-technologies-acquires-exoterra-resources/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-27T21:29:41.113785Z",
-            "shown_at": [
-                "2025-10-27T21:29:41.876128Z",
-                "2025-10-31T00:15:48.103564Z"
-            ]
-        },
-        {
-            "id": "73e856e3b5056bac432cfc5add49e9bc",
-            "source": "spacenews",
-            "text": "MTN carves out private networks for Starlink’s business users",
-            "source_link": "https://spacenews.com/mtn-carves-out-private-networks-for-starlinks-business-users/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-27T14:29:48.251354Z",
-            "shown_at": [
-                "2025-10-27T14:29:48.895621Z",
-                "2025-10-28T13:23:14.398915Z",
-                "2025-10-28T15:32:13.491656Z",
-                "2025-10-28T22:47:49.927448Z"
-            ]
-        },
-        {
-            "id": "7466625c062492c71ce6d490aae7ffb0",
-            "source": "spacenews",
-            "text": "First Starship V3 launch slips",
-            "source_link": "https://spacenews.com/first-starship-v3-launch-slips/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-09T12:24:24.553095Z",
-            "shown_at": [
-                "2026-03-09T12:24:25.659791Z",
-                "2026-03-09T18:54:21.598185Z"
-            ]
-        },
-        {
-            "id": "838744f2fadf4619c494d6e51cc56316",
-            "source": "spacenews",
-            "text": "Chinese official calls for prioritizing Neptune orbiter mission",
-            "source_link": "https://spacenews.com/chinese-official-calls-for-prioritizing-neptune-orbiter-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-09T12:24:24.553155Z",
-            "shown_at": [
-                "2026-03-09T12:59:07.508068Z"
-            ]
-        },
-        {
-            "id": "8cd55eb2520cd3bd2e1dde3ae6bff5d0",
-            "source": "spacenews",
-            "text": "GNSS resilience is an economic and security priority",
-            "source_link": "https://spacenews.com/gnss-resilience-is-an-economic-and-security-priority/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-09T14:44:36.753806Z",
-            "shown_at": [
-                "2026-03-09T14:44:37.692558Z"
-            ]
-        },
-        {
-            "id": "691eac46036f90732225552f60553a02",
-            "source": "spacenews",
-            "text": "Voyager Technologies invests in Max Space",
-            "source_link": "https://spacenews.com/voyager-technologies-invests-in-max-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-09T14:44:36.753884Z",
-            "shown_at": [
-                "2026-03-09T15:19:32.454277Z"
-            ]
-        },
-        {
-            "id": "da692e452b391803f72bc9cbfc588b58",
-            "source": "nyt",
-            "text": "A Night Light in the Sky? Reflect Orbital Wants to Launch a Big Space Mirror.",
-            "source_link": "https://www.nytimes.com/2026/03/09/climate/space-mirror-satellite-solar.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-09T18:19:21.984870Z",
-            "shown_at": [
-                "2026-03-09T18:19:23.054714Z"
-            ]
-        },
-        {
-            "id": "dca64fdf664bbee35f8ac75a64beeca4",
-            "source": "spacenews",
-            "text": "SSTL to build spacecraft for private space telescope",
-            "source_link": "https://spacenews.com/sstl-to-build-spacecraft-for-private-space-telescope/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-09T21:49:20.500263Z",
-            "shown_at": [
-                "2026-03-09T21:49:21.441757Z"
-            ]
-        },
-        {
-            "id": "f9237275cf31e702c6ab0403cd041c8c",
-            "source": "spacenews",
-            "text": "Missile detection satellite designed by BAE Systems passes early review",
-            "source_link": "https://spacenews.com/missile-detection-satellite-designed-by-bae-systems-passes-early-review/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-09T21:49:20.500322Z",
-            "shown_at": [
-                "2026-03-09T22:24:33.135970Z"
-            ]
-        },
-        {
-            "id": "199a7f3104e5ab4953c0ccc47176deca",
-            "source": "nyt",
-            "text": "Meteorite Crashes Through Roof in Germany After Fiery Light Show",
-            "source_link": "https://www.nytimes.com/2026/03/09/science/meteorite-europe-crash-germany-roof.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-09T22:59:04.524062Z",
-            "shown_at": [
-                "2026-03-09T22:59:05.683426Z"
-            ]
-        },
-        {
-            "id": "e3cbea1d9009d6616695d23409df9e38",
-            "source": "spacenews",
-            "text": "Meridian Space Diplomacy Forum & Executive Space Training – March 25 & 26",
-            "source_link": "https://spacenews.com/meridian-space-diplomacy-forum-executive-space-training-march-25-26/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-09T23:34:15.250868Z",
-            "shown_at": [
-                "2026-03-09T23:34:16.569526Z"
-            ]
-        },
-        {
-            "id": "159b08b2eca3f7e87822f625fed0be7d",
-            "source": "spacenews",
-            "text": "Missile detection satellites designed by BAE Systems pass early review",
-            "source_link": "https://spacenews.com/missile-detection-satellite-designed-by-bae-systems-passes-early-review/",
-            "shown": false,
-            "type": "news",
-            "fetched_datetime": "2026-03-09T23:34:15.251078Z"
         }
     ]
 }
