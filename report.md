@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 9 | 24 | 45 |
-| nyt | 2 | 2 | 17 | 37 |
+| nyt | 2 | 2 | 18 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2864,3 +2864,4 @@
 - **Mar 09, 10:59 PM** - Meteorite Crashes Through Roof in Germany After Fiery Light Show (nyt)
 - **Mar 09, 11:34 PM** - Meridian Space Diplomacy Forum & Executive Space Training – March 25 & 26 (spacenews)
 - **Mar 10, 12:09 AM** - Missile detection satellites designed by BAE Systems pass early review (spacenews)
+- **Mar 10, 12:44 AM** - Photos: Blood Moon Total Lunar Eclipse 2026 (nyt)
