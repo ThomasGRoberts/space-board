@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 14 | 21 | 44 |
+| spacenews | 9 | 15 | 22 | 45 |
 | nyt | 1 | 3 | 19 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2902,3 +2902,4 @@
 - **Mar 10, 09:19 PM** - Meteorite Crashes Through Roof in Germany After Fiery Light Show (nyt)
 - **Mar 10, 09:54 PM** - GNSS resilience is an economic and security priority (spacenews)
 - **Mar 10, 10:29 PM** - ‘Don’t Worry About It’: NASA Satellite to Burn Up in Fall to Earth (nyt)
+- **Mar 10, 11:04 PM** - Viasat wins $14 million contract to provide in-flight satcom for Navy executive aircraft (spacenews)

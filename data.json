@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-10T00:04:40.301037+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6541931490003bdec208bc6237b84bbd",
+    "trigger_count": 0,
+    "current_item_id": "2c22b46f4b115575c312322054864435",
     "data": [
         {
             "id": "159b08b2eca3f7e87822f625fed0be7d",
@@ -8473,6 +8473,18 @@
             "fetched_datetime": "2026-03-10T20:44:12.892833Z",
             "shown_at": [
                 "2026-03-10T20:44:13.701931Z"
+            ]
+        },
+        {
+            "id": "2c22b46f4b115575c312322054864435",
+            "source": "spacenews",
+            "text": "Viasat wins $14 million contract to provide in-flight satcom for Navy executive aircraft",
+            "source_link": "https://spacenews.com/viasat-wins-14-million-contract-to-provide-in-flight-satcom-for-navy-executive-aircraft/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-10T23:04:52.168949Z",
+            "shown_at": [
+                "2026-03-10T23:04:53.448551Z"
             ]
         }
     ]
