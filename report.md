@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 8 | 24 | 45 |
-| nyt | 2 | 2 | 16 | 37 |
+| spacenews | 8 | 8 | 24 | 44 |
+| nyt | 2 | 2 | 17 | 38 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2880,3 +2880,4 @@
 - **Mar 10, 08:19 AM** - Commercial Space Federation (CSF) Welcomes New Members (spacenews)
 - **Mar 10, 08:54 AM** - NASA’s Asteroid-Smashing DART Mission Sped Up Space Rock’s Orbit Around the Sun (nyt)
 - **Mar 10, 09:34 AM** - UK announces £500 million package for industrial growth and national security (spacenews)
+- **Mar 10, 10:09 AM** - NASA’s Asteroid-Smashing DART Mission Sped Up Space Rock’s Orbit Around the Sun (nyt)
