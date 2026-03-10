@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 8 | 24 | 45 |
-| nyt | 2 | 2 | 17 | 37 |
+| nyt | 2 | 2 | 18 | 38 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2874,3 +2874,4 @@
 - **Mar 10, 04:49 AM** - Jared Isaacman on rebuilding, Artemis and what he’s learned during his first months as NASA administrator (spacenews)
 - **Mar 10, 05:24 AM** - Photos: Blood Moon Total Lunar Eclipse 2026 (nyt)
 - **Mar 10, 05:59 AM** - Senate committee advances NASA authorization bill that changes Artemis and extends ISS (spacenews)
+- **Mar 10, 06:34 AM** - Photos: Blood Moon Total Lunar Eclipse 2026 (nyt)
