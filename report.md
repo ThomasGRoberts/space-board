@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 11 | 23 | 44 |
+| spacenews | 9 | 11 | 24 | 45 |
 | nyt | 2 | 2 | 17 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2886,3 +2886,4 @@
 - **Mar 10, 11:54 AM** - Landspace tests 220-ton methane engine for future heavy-lift launchers (spacenews)
 - **Mar 10, 12:29 PM** - Meteorite Crashes Through Roof in Germany After Fiery Light Show (nyt)
 - **Mar 10, 01:04 PM** - Starliner and Artemis: commercial label vs. commercial discipline (spacenews)
+- **Mar 10, 01:44 PM** - Lux Aeterna raises $10 million ahead of 2027 reusable satellite demo (spacenews)
