@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 11 | 22 | 45 |
+| spacenews | 8 | 12 | 23 | 45 |
 | nyt | 2 | 2 | 18 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2890,3 +2890,4 @@
 - **Mar 10, 02:19 PM** - NASA’s Asteroid-Smashing DART Mission Sped Up Space Rock’s Orbit Around the Sun (nyt)
 - **Mar 10, 02:54 PM** - RFA plans first launch this summer (spacenews)
 - **Mar 10, 03:29 PM** - Photos: Blood Moon Total Lunar Eclipse 2026 (nyt)
+- **Mar 10, 04:04 PM** - Impulse Space expands Colorado presence (spacenews)

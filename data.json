@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-10T00:04:40.301037+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d79c98e82385048615bcc6e55116f4f9",
+    "trigger_count": 0,
+    "current_item_id": "0c1e4848b29f71379289b463c3d1794a",
     "data": [
         {
             "id": "159b08b2eca3f7e87822f625fed0be7d",
@@ -8417,6 +8417,18 @@
             "fetched_datetime": "2026-03-10T13:04:43.551898Z",
             "shown_at": [
                 "2026-03-10T13:44:30.811413Z"
+            ]
+        },
+        {
+            "id": "0c1e4848b29f71379289b463c3d1794a",
+            "source": "spacenews",
+            "text": "Impulse Space expands Colorado presence",
+            "source_link": "https://spacenews.com/impulse-space-expands-colorado-presence/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-10T16:04:48.455919Z",
+            "shown_at": [
+                "2026-03-10T16:04:49.681263Z"
             ]
         }
     ]
