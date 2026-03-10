@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 8 | 24 | 45 |
-| nyt | 2 | 2 | 17 | 37 |
+| nyt | 2 | 2 | 17 | 38 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2878,3 +2878,4 @@
 - **Mar 10, 07:09 AM** - NASA deputy administrator nominee sails through confirmation hearing (spacenews)
 - **Mar 10, 07:44 AM** - Photos: Blood Moon Total Lunar Eclipse 2026 (nyt)
 - **Mar 10, 08:19 AM** - Commercial Space Federation (CSF) Welcomes New Members (spacenews)
+- **Mar 10, 08:54 AM** - NASA’s Asteroid-Smashing DART Mission Sped Up Space Rock’s Orbit Around the Sun (nyt)
