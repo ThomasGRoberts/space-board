@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-10T00:04:40.301037+00:00",
-    "trigger_count": 6,
-    "current_item_id": "199a7f3104e5ab4953c0ccc47176deca",
+    "trigger_count": 0,
+    "current_item_id": "6541931490003bdec208bc6237b84bbd",
     "data": [
         {
             "id": "159b08b2eca3f7e87822f625fed0be7d",
@@ -8446,6 +8446,18 @@
             "fetched_datetime": "2026-03-10T16:39:18.043826Z",
             "shown_at": [
                 "2026-03-10T16:39:19.198799Z"
+            ]
+        },
+        {
+            "id": "6541931490003bdec208bc6237b84bbd",
+            "source": "nyt",
+            "text": "‘Don’t Worry About It’: NASA Satellite to Burn Up in Fall to Earth",
+            "source_link": "https://www.nytimes.com/2026/03/10/science/space/nasa-satellite-earth-re-entry.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-10T20:09:25.948208Z",
+            "shown_at": [
+                "2026-03-10T20:09:27.152091Z"
             ]
         }
     ]

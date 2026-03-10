@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 13 | 23 | 45 |
-| nyt | 1 | 2 | 18 | 37 |
+| spacenews | 9 | 13 | 22 | 45 |
+| nyt | 2 | 3 | 19 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2897,3 +2897,4 @@
 - **Mar 10, 06:24 PM** - A Night Light in the Sky? Reflect Orbital Wants to Launch a Big Space Mirror. (nyt)
 - **Mar 10, 06:59 PM** - Return of the (space) SPAC (spacenews)
 - **Mar 10, 07:34 PM** - Meteorite Crashes Through Roof in Germany After Fiery Light Show (nyt)
+- **Mar 10, 08:09 PM** - ‘Don’t Worry About It’: NASA Satellite to Burn Up in Fall to Earth (nyt)
