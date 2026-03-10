@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 8 | 24 | 44 |
+| spacenews | 8 | 8 | 25 | 45 |
 | nyt | 2 | 2 | 17 | 38 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2875,3 +2875,4 @@
 - **Mar 10, 05:24 AM** - Photos: Blood Moon Total Lunar Eclipse 2026 (nyt)
 - **Mar 10, 05:59 AM** - Senate committee advances NASA authorization bill that changes Artemis and extends ISS (spacenews)
 - **Mar 10, 06:34 AM** - Photos: Blood Moon Total Lunar Eclipse 2026 (nyt)
+- **Mar 10, 07:09 AM** - NASA deputy administrator nominee sails through confirmation hearing (spacenews)
