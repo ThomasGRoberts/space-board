@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-10T00:04:40.301037+00:00",
-    "trigger_count": 6,
-    "current_item_id": "199a7f3104e5ab4953c0ccc47176deca",
+    "trigger_count": 0,
+    "current_item_id": "9af6a4cab016a7a54175168dd1b2e7fc",
     "data": [
         {
             "id": "159b08b2eca3f7e87822f625fed0be7d",
@@ -8391,6 +8391,27 @@
             "shown_at": [
                 "2026-03-10T11:54:23.120545Z"
             ]
+        },
+        {
+            "id": "9af6a4cab016a7a54175168dd1b2e7fc",
+            "source": "spacenews",
+            "text": "Starliner and Artemis: commercial label vs. commercial discipline",
+            "source_link": "https://spacenews.com/starliner-and-artemis-commercial-label-vs-commercial-discipline/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-10T13:04:43.551824Z",
+            "shown_at": [
+                "2026-03-10T13:04:44.808008Z"
+            ]
+        },
+        {
+            "id": "da9987c812f3efe8e4109b34a585799c",
+            "source": "spacenews",
+            "text": "Lux Aeterna raises $10 million ahead of 2027 reusable satellite demo",
+            "source_link": "https://spacenews.com/lux-aeterna-raises-10-million-for-reusable-satellite-ahead-of-2027-demo/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-03-10T13:04:43.551898Z"
         }
     ]
 }

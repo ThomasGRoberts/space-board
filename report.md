@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 9 | 22 | 44 |
-| nyt | 2 | 2 | 18 | 38 |
+| spacenews | 9 | 11 | 23 | 45 |
+| nyt | 2 | 2 | 18 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2885,3 +2885,4 @@
 - **Mar 10, 11:19 AM** - A Night Light in the Sky? Reflect Orbital Wants to Launch a Big Space Mirror. (nyt)
 - **Mar 10, 11:54 AM** - Landspace tests 220-ton methane engine for future heavy-lift launchers (spacenews)
 - **Mar 10, 12:29 PM** - Meteorite Crashes Through Roof in Germany After Fiery Light Show (nyt)
+- **Mar 10, 01:04 PM** - Starliner and Artemis: commercial label vs. commercial discipline (spacenews)
