@@ -1,17 +1,20 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-10T00:04:40.301037+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e3cbea1d9009d6616695d23409df9e38",
+    "trigger_count": 0,
+    "current_item_id": "159b08b2eca3f7e87822f625fed0be7d",
     "data": [
         {
             "id": "159b08b2eca3f7e87822f625fed0be7d",
             "source": "spacenews",
             "text": "Missile detection satellites designed by BAE Systems pass early review",
             "source_link": "https://spacenews.com/missile-detection-satellite-designed-by-bae-systems-passes-early-review/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-03-09T23:34:15.251078Z"
+            "fetched_datetime": "2026-03-09T23:34:15.251078Z",
+            "shown_at": [
+                "2026-03-10T00:09:22.592024Z"
+            ]
         },
         {
             "id": "e3cbea1d9009d6616695d23409df9e38",
