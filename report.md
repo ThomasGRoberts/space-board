@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 11 | 22 | 44 |
+| spacenews | 7 | 11 | 23 | 45 |
 | nyt | 2 | 2 | 18 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2888,3 +2888,4 @@
 - **Mar 10, 01:04 PM** - Starliner and Artemis: commercial label vs. commercial discipline (spacenews)
 - **Mar 10, 01:44 PM** - Lux Aeterna raises $10 million ahead of 2027 reusable satellite demo (spacenews)
 - **Mar 10, 02:19 PM** - NASA’s Asteroid-Smashing DART Mission Sped Up Space Rock’s Orbit Around the Sun (nyt)
+- **Mar 10, 02:54 PM** - RFA plans first launch this summer (spacenews)
