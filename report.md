@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 8 | 24 | 45 |
-| nyt | 2 | 2 | 17 | 37 |
+| spacenews | 8 | 8 | 24 | 44 |
+| nyt | 2 | 2 | 17 | 38 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2882,3 +2882,4 @@
 - **Mar 10, 09:34 AM** - UK announces £500 million package for industrial growth and national security (spacenews)
 - **Mar 10, 10:09 AM** - NASA’s Asteroid-Smashing DART Mission Sped Up Space Rock’s Orbit Around the Sun (nyt)
 - **Mar 10, 10:44 AM** - Poland-based Liftero will provide chemical propulsion for Indian firm OrbitAID’s in-orbit servicing mission (spacenews)
+- **Mar 10, 11:19 AM** - A Night Light in the Sky? Reflect Orbital Wants to Launch a Big Space Mirror. (nyt)
