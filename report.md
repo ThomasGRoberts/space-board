@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 13 | 23 | 45 |
-| nyt | 1 | 2 | 18 | 37 |
+| spacenews | 9 | 13 | 23 | 46 |
+| nyt | 1 | 2 | 18 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2895,3 +2895,4 @@
 - **Mar 10, 05:14 PM** - A Night Light in the Sky? Reflect Orbital Wants to Launch a Big Space Mirror. (nyt)
 - **Mar 10, 05:49 PM** - Lux Aeterna raises $10 million ahead of 2027 reusable satellite demo (spacenews)
 - **Mar 10, 06:24 PM** - A Night Light in the Sky? Reflect Orbital Wants to Launch a Big Space Mirror. (nyt)
+- **Mar 10, 06:59 PM** - Return of the (space) SPAC (spacenews)
