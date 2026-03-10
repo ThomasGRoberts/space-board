@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 8 | 24 | 44 |
-| nyt | 2 | 2 | 17 | 38 |
+| spacenews | 8 | 8 | 24 | 45 |
+| nyt | 2 | 2 | 17 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2869,3 +2869,4 @@
 - **Mar 10, 01:54 AM** - Photos: Blood Moon Total Lunar Eclipse 2026 (nyt)
 - **Mar 10, 02:29 AM** - Air Force lab awards BlackSky contract worth up to $99 million for large optical satellite payload (spacenews)
 - **Mar 10, 03:04 AM** - Photos: Blood Moon Total Lunar Eclipse 2026 (nyt)
+- **Mar 10, 03:39 AM** - Meridian Space Diplomacy Forum & Executive Space Training – March 25 & 26 (spacenews)
