@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-10T00:04:40.301037+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0c1e4848b29f71379289b463c3d1794a",
+    "trigger_count": 0,
+    "current_item_id": "a782006cec43a79f14becdbef5be3dae",
     "data": [
         {
             "id": "159b08b2eca3f7e87822f625fed0be7d",
@@ -8429,6 +8429,18 @@
             "fetched_datetime": "2026-03-10T16:04:48.455919Z",
             "shown_at": [
                 "2026-03-10T16:04:49.681263Z"
+            ]
+        },
+        {
+            "id": "a782006cec43a79f14becdbef5be3dae",
+            "source": "spacenews",
+            "text": "Precision in Orbit: Heraeus Catalysts Safeguard Satellite Control",
+            "source_link": "https://spacenews.com/precision-in-orbit-heraeus-catalysts-safeguard-satellite-control/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-10T16:39:18.043826Z",
+            "shown_at": [
+                "2026-03-10T16:39:19.198799Z"
             ]
         }
     ]
