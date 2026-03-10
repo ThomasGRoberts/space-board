@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 13 | 23 | 46 |
-| nyt | 2 | 2 | 17 | 36 |
+| spacenews | 9 | 13 | 23 | 45 |
+| nyt | 2 | 2 | 18 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2892,3 +2892,4 @@
 - **Mar 10, 03:29 PM** - Photos: Blood Moon Total Lunar Eclipse 2026 (nyt)
 - **Mar 10, 04:04 PM** - Impulse Space expands Colorado presence (spacenews)
 - **Mar 10, 04:39 PM** - Precision in Orbit: Heraeus Catalysts Safeguard Satellite Control (spacenews)
+- **Mar 10, 05:14 PM** - A Night Light in the Sky? Reflect Orbital Wants to Launch a Big Space Mirror. (nyt)
