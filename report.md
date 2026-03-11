@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 17 | 23 | 45 |
+| spacenews | 9 | 18 | 24 | 46 |
 | nyt | 0 | 1 | 17 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2927,3 +2927,4 @@
 - **Mar 11, 09:34 PM** - Eutelsat completes $5.8 billion refinancing plan (spacenews)
 - **Mar 11, 10:09 PM** - ‘Don’t Worry About It’: NASA Satellite to Burn Up in Fall to Earth (nyt)
 - **Mar 11, 10:44 PM** - Anduril to acquire space-tracking firm ExoAnalytic Solutions (spacenews)
+- **Mar 11, 11:19 PM** - Report criticizes delays in Artemis lunar lander development (spacenews)
