@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 18 | 23 | 45 |
-| nyt | 1 | 3 | 17 | 36 |
+| nyt | 1 | 3 | 18 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2914,3 +2914,4 @@
 - **Mar 11, 01:54 PM** - The perils of political impatience in the Artemis program (spacenews)
 - **Mar 11, 02:29 PM** - A Night Light in the Sky? Reflect Orbital Wants to Launch a Big Space Mirror. (nyt)
 - **Mar 11, 03:04 PM** - Commercial Space Federation (CSF) Welcomes New Members (spacenews)
+- **Mar 11, 03:39 PM** - NASA’s Asteroid-Smashing DART Mission Sped Up Space Rock’s Orbit Around the Sun (nyt)
