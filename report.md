@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 17 | 21 | 45 |
-| nyt | 1 | 3 | 20 | 37 |
+| spacenews | 9 | 17 | 22 | 46 |
+| nyt | 1 | 3 | 19 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2897,3 +2897,4 @@
 - **Mar 11, 03:44 AM** - ‘Don’t Worry About It’: NASA Satellite to Burn Up in Fall to Earth (nyt)
 - **Mar 11, 04:19 AM** - Anduril to acquire space-tracking firm ExoAnalytic Solutions (spacenews)
 - **Mar 11, 04:54 AM** - A Night Light in the Sky? Reflect Orbital Wants to Launch a Big Space Mirror. (nyt)
+- **Mar 11, 05:29 AM** - General Galactic aims to become “the galaxy’s energy and logistics company” (spacenews)
