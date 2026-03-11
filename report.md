@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 17 | 21 | 45 |
+| spacenews | 9 | 17 | 22 | 46 |
 | nyt | 1 | 3 | 19 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2903,3 +2903,4 @@
 - **Mar 11, 07:14 AM** - NASA’s Asteroid-Smashing DART Mission Sped Up Space Rock’s Orbit Around the Sun (nyt)
 - **Mar 11, 07:49 AM** - Mutable Tactics raises $2.1 million for AI drone coordination in satellite-denied environments (spacenews)
 - **Mar 11, 08:29 AM** - NASA’s Asteroid-Smashing DART Mission Sped Up Space Rock’s Orbit Around the Sun (nyt)
+- **Mar 11, 09:05 AM** - China designates space sector an “emerging pillar industry,” sets deep space ambitions in new economic blueprint (spacenews)
