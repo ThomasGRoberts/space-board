@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 17 | 23 | 45 |
-| nyt | 0 | 2 | 17 | 36 |
+| nyt | 0 | 2 | 18 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2925,3 +2925,4 @@
 - **Mar 11, 08:24 PM** - SSTL to build spacecraft for private space telescope (spacenews)
 - **Mar 11, 08:59 PM** - A Night Light in the Sky? Reflect Orbital Wants to Launch a Big Space Mirror. (nyt)
 - **Mar 11, 09:34 PM** - Eutelsat completes $5.8 billion refinancing plan (spacenews)
+- **Mar 11, 10:09 PM** - ‘Don’t Worry About It’: NASA Satellite to Burn Up in Fall to Earth (nyt)
