@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 17 | 22 | 46 |
-| nyt | 1 | 3 | 19 | 36 |
+| spacenews | 9 | 17 | 21 | 45 |
+| nyt | 1 | 3 | 20 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2900,3 +2900,4 @@
 - **Mar 11, 05:29 AM** - General Galactic aims to become “the galaxy’s energy and logistics company” (spacenews)
 - **Mar 11, 06:04 AM** - Meteorite Crashes Through Roof in Germany After Fiery Light Show (nyt)
 - **Mar 11, 06:39 AM** - Missile detection satellites designed by BAE Systems pass early review (spacenews)
+- **Mar 11, 07:14 AM** - NASA’s Asteroid-Smashing DART Mission Sped Up Space Rock’s Orbit Around the Sun (nyt)
