@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 19 | 22 | 45 |
+| spacenews | 10 | 19 | 23 | 46 |
 | nyt | 1 | 3 | 18 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2910,3 +2910,4 @@
 - **Mar 11, 11:24 AM** - Starliner and Artemis: commercial label vs. commercial discipline (spacenews)
 - **Mar 11, 12:04 PM** - Telesat expands Canadian landing station footprint for Lightspeed (spacenews)
 - **Mar 11, 12:39 PM** - Space Force officially terminates AeroVironment contract for satellite control antennas (spacenews)
+- **Mar 11, 01:19 PM** - NASA disqualifies X-ray telescope from Probe mission competition (spacenews)
