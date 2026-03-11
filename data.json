@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-11T00:04:42.725551+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b400209d847043cfa64f8725c3da2b7d",
+    "trigger_count": 0,
+    "current_item_id": "6889d6151ff10c287b9c79e0ff530a31",
     "data": [
         {
             "id": "bd64c969dd0f63b06e2f63b115c63583",
@@ -8410,6 +8410,18 @@
             "fetched_datetime": "2026-03-11T04:19:12.656614Z",
             "shown_at": [
                 "2026-03-11T04:19:13.512604Z"
+            ]
+        },
+        {
+            "id": "6889d6151ff10c287b9c79e0ff530a31",
+            "source": "spacenews",
+            "text": "Large Series C signals scale-up of China’s laser satellite communications sector",
+            "source_link": "https://spacenews.com/large-series-c-signals-scale-up-of-chinas-laser-satellite-communications-sector/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-11T10:14:01.436907Z",
+            "shown_at": [
+                "2026-03-11T10:14:02.801334Z"
             ]
         }
     ]
