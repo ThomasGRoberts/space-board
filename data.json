@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-11T00:04:42.725551+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a782006cec43a79f14becdbef5be3dae",
+    "trigger_count": 0,
+    "current_item_id": "1bfe6ffa9659f20093494eae443c7743",
     "data": [
         {
             "id": "bd64c969dd0f63b06e2f63b115c63583",
@@ -8480,6 +8480,18 @@
             "fetched_datetime": "2026-03-11T13:54:12.747700Z",
             "shown_at": [
                 "2026-03-11T13:54:13.870248Z"
+            ]
+        },
+        {
+            "id": "1bfe6ffa9659f20093494eae443c7743",
+            "source": "spacenews",
+            "text": "Missile strike hits SES teleport in Israel",
+            "source_link": "https://spacenews.com/missile-strike-hits-ses-teleport-in-israel/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-11T19:14:15.019458Z",
+            "shown_at": [
+                "2026-03-11T19:14:16.174854Z"
             ]
         }
     ]
