@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 18 | 21 | 45 |
+| spacenews | 10 | 18 | 22 | 46 |
 | nyt | 1 | 3 | 19 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2907,3 +2907,4 @@
 - **Mar 11, 09:39 AM** - NASA’s Asteroid-Smashing DART Mission Sped Up Space Rock’s Orbit Around the Sun (nyt)
 - **Mar 11, 10:14 AM** - Large Series C signals scale-up of China’s laser satellite communications sector (spacenews)
 - **Mar 11, 10:49 AM** - A Night Light in the Sky? Reflect Orbital Wants to Launch a Big Space Mirror. (nyt)
+- **Mar 11, 11:24 AM** - Starliner and Artemis: commercial label vs. commercial discipline (spacenews)
