@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 18 | 22 | 45 |
+| spacenews | 9 | 18 | 23 | 46 |
 | nyt | 1 | 3 | 18 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2917,3 +2917,4 @@
 - **Mar 11, 03:39 PM** - NASA’s Asteroid-Smashing DART Mission Sped Up Space Rock’s Orbit Around the Sun (nyt)
 - **Mar 11, 04:14 PM** - Mutable Tactics raises $2.1 million for AI drone coordination in satellite-denied environments (spacenews)
 - **Mar 11, 04:49 PM** - A Night Light in the Sky? Reflect Orbital Wants to Launch a Big Space Mirror. (nyt)
+- **Mar 11, 05:29 PM** - Viasat wins $14 million contract to provide in-flight satcom for Navy executive aircraft (spacenews)
