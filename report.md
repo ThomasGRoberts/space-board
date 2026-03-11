@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 22 | 46 |
-| nyt | 1 | 3 | 19 | 36 |
+| spacenews | 8 | 16 | 21 | 45 |
+| nyt | 1 | 3 | 20 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2892,3 +2892,4 @@
 - **Mar 11, 12:48 AM** - General Galactic aims to become “the galaxy’s energy logistics company” (spacenews)
 - **Mar 11, 01:24 AM** - A Night Light in the Sky? Reflect Orbital Wants to Launch a Big Space Mirror. (nyt)
 - **Mar 11, 01:59 AM** - Lux Aeterna raises $10 million ahead of 2027 reusable satellite demo (spacenews)
+- **Mar 11, 02:34 AM** - A Night Light in the Sky? Reflect Orbital Wants to Launch a Big Space Mirror. (nyt)
