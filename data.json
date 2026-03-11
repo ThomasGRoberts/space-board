@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-11T00:04:42.725551+00:00",
-    "trigger_count": 6,
-    "current_item_id": "67335fd0f85cfb7efcf9fa96baed9e96",
+    "trigger_count": 0,
+    "current_item_id": "2db8e2b2671312e5929920faf22fcb6d",
     "data": [
         {
             "id": "bd64c969dd0f63b06e2f63b115c63583",
@@ -8437,6 +8437,27 @@
             "shown_at": [
                 "2026-03-11T12:04:37.339685Z"
             ]
+        },
+        {
+            "id": "2db8e2b2671312e5929920faf22fcb6d",
+            "source": "spacenews",
+            "text": "Space Force officially terminates AeroVironment contract for satellite control antennas",
+            "source_link": "https://spacenews.com/space-force-officially-terminates-aerovironment-contract-for-satellite-control-antennas/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-11T12:39:03.075932Z",
+            "shown_at": [
+                "2026-03-11T12:39:04.038365Z"
+            ]
+        },
+        {
+            "id": "8439af3566caf9005c6e49e4cbaf31eb",
+            "source": "spacenews",
+            "text": "NASA disqualifies X-ray telescope from Probe mission competition",
+            "source_link": "https://spacenews.com/nasa-disqualifies-x-ray-telescope-from-probe-mission-competition/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-03-11T12:39:03.075988Z"
         }
     ]
 }
