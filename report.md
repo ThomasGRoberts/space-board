@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 19 | 23 | 45 |
+| spacenews | 9 | 19 | 24 | 46 |
 | nyt | 0 | 2 | 17 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2924,3 +2924,4 @@
 - **Mar 11, 07:49 PM** - NASA’s Asteroid-Smashing DART Mission Sped Up Space Rock’s Orbit Around the Sun (nyt)
 - **Mar 11, 08:24 PM** - SSTL to build spacecraft for private space telescope (spacenews)
 - **Mar 11, 08:59 PM** - A Night Light in the Sky? Reflect Orbital Wants to Launch a Big Space Mirror. (nyt)
+- **Mar 11, 09:34 PM** - Eutelsat completes $5.8 billion refinancing plan (spacenews)
