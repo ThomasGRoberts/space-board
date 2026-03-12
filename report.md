@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 17 | 23 | 45 |
-| nyt | 0 | 1 | 17 | 36 |
+| nyt | 0 | 1 | 18 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2899,3 +2899,4 @@
 - **Mar 11, 11:19 PM** - Report criticizes delays in Artemis lunar lander development (spacenews)
 - **Mar 11, 11:54 PM** - Meteorite Crashes Through Roof in Germany After Fiery Light Show (nyt)
 - **Mar 12, 12:29 AM** - Enpulsion raises $26 million (spacenews)
+- **Mar 12, 01:04 AM** - ‘Don’t Worry About It’: NASA Satellite to Burn Up in Fall to Earth (nyt)
