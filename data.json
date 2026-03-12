@@ -1,9 +1,106 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-03-11T00:04:42.725551+00:00",
-    "trigger_count": 1,
+    "last_run_datetime": "2026-03-12T00:04:46.362926+00:00",
+    "trigger_count": 2,
     "current_item_id": "199a7f3104e5ab4953c0ccc47176deca",
     "data": [
+        {
+            "id": "7347c2714e0a7bbfeeef06c487fccfe6",
+            "source": "spacenews",
+            "text": "Report criticizes delays in Artemis lunar lander development",
+            "source_link": "https://spacenews.com/report-criticizes-delays-in-artemis-lunar-lander-development/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-11T23:19:55.744388Z",
+            "shown_at": [
+                "2026-03-11T23:19:56.595012Z"
+            ]
+        },
+        {
+            "id": "1bfe6ffa9659f20093494eae443c7743",
+            "source": "spacenews",
+            "text": "Missile strike hits SES teleport in Israel",
+            "source_link": "https://spacenews.com/missile-strike-hits-ses-teleport-in-israel/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-11T19:14:15.019458Z",
+            "shown_at": [
+                "2026-03-11T19:14:16.174854Z"
+            ]
+        },
+        {
+            "id": "c1f40baf633b1a7fc0d1ee907760571a",
+            "source": "spacenews",
+            "text": "The perils of political impatience in the Artemis program",
+            "source_link": "https://spacenews.com/the-perils-of-political-impatience-in-the-artemis-program/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-11T13:54:12.747700Z",
+            "shown_at": [
+                "2026-03-11T13:54:13.870248Z"
+            ]
+        },
+        {
+            "id": "8439af3566caf9005c6e49e4cbaf31eb",
+            "source": "spacenews",
+            "text": "NASA disqualifies X-ray telescope from Probe mission competition",
+            "source_link": "https://spacenews.com/nasa-disqualifies-x-ray-telescope-from-probe-mission-competition/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-11T12:39:03.075988Z",
+            "shown_at": [
+                "2026-03-11T13:19:22.363818Z"
+            ]
+        },
+        {
+            "id": "2db8e2b2671312e5929920faf22fcb6d",
+            "source": "spacenews",
+            "text": "Space Force officially terminates AeroVironment contract for satellite control antennas",
+            "source_link": "https://spacenews.com/space-force-officially-terminates-aerovironment-contract-for-satellite-control-antennas/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-11T12:39:03.075932Z",
+            "shown_at": [
+                "2026-03-11T12:39:04.038365Z"
+            ]
+        },
+        {
+            "id": "67335fd0f85cfb7efcf9fa96baed9e96",
+            "source": "spacenews",
+            "text": "Telesat expands Canadian landing station footprint for Lightspeed",
+            "source_link": "https://spacenews.com/telesat-expands-canadian-landing-station-footprint-for-lightspeed/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-11T12:04:36.381111Z",
+            "shown_at": [
+                "2026-03-11T12:04:37.339685Z"
+            ]
+        },
+        {
+            "id": "6889d6151ff10c287b9c79e0ff530a31",
+            "source": "spacenews",
+            "text": "Large Series C signals scale-up of China’s laser satellite communications sector",
+            "source_link": "https://spacenews.com/large-series-c-signals-scale-up-of-chinas-laser-satellite-communications-sector/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-11T10:14:01.436907Z",
+            "shown_at": [
+                "2026-03-11T10:14:02.801334Z"
+            ]
+        },
+        {
+            "id": "296f9789b4c02c83177a73c4c74921b6",
+            "source": "spacenews",
+            "text": "Anduril to acquire space-tracking firm ExoAnalytic Solutions",
+            "source_link": "https://spacenews.com/anduril-to-acquire-space-tracking-firm-exoanalytic-solutions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-11T04:19:12.656614Z",
+            "shown_at": [
+                "2026-03-11T04:19:13.512604Z",
+                "2026-03-11T22:44:17.564570Z"
+            ]
+        },
         {
             "id": "bd64c969dd0f63b06e2f63b115c63583",
             "source": "spacenews",
@@ -8295,222 +8392,6 @@
             "fetched_datetime": "2025-10-30T20:59:30.372351Z",
             "shown_at": [
                 "2025-10-30T21:17:22.074066Z"
-            ]
-        },
-        {
-            "id": "2debd9a568ea911cbdb823bdb4c08872",
-            "source": "spacenews",
-            "text": "EnduroSat raises $104 million to scale production of larger small satellites",
-            "source_link": "https://spacenews.com/endurosat-raises-104-million-to-scale-production-of-larger-small-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-30T20:59:30.372296Z",
-            "shown_at": [
-                "2025-10-30T20:59:31.011373Z"
-            ]
-        },
-        {
-            "id": "f4e3dac983ec8b8f8fd090b73986143a",
-            "source": "breaking_defense",
-            "text": "US nuclear arsenal currently safe, reliable: STRATCOM nominee",
-            "source_link": "https://breakingdefense.com/2025/10/us-nuclear-arsenal-currently-safe-reliable-stratcom-nominee/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-30T17:02:05.412018Z",
-            "shown_at": [
-                "2025-10-30T17:02:06.002542Z",
-                "2025-10-30T17:59:49.548231Z",
-                "2025-10-30T19:53:44.079556Z",
-                "2025-10-30T21:47:28.957331Z",
-                "2025-10-31T00:29:47.108617Z",
-                "2025-10-31T03:29:47.054546Z",
-                "2025-10-31T04:21:52.669588Z",
-                "2025-10-31T07:05:44.850436Z",
-                "2025-10-31T09:49:52.214432Z",
-                "2025-10-31T10:51:47.318123Z",
-                "2025-10-31T11:45:49.069335Z",
-                "2025-10-31T13:11:53.528545Z"
-            ]
-        },
-        {
-            "id": "1fd76708c103c560f71f14c5bbb0187b",
-            "source": "spacenews",
-            "text": "Momentus Vigoride 7 to fly DPhi Space hosted payload platform",
-            "source_link": "https://spacenews.com/momentus-vigoride-7-to-fly-dphi-space-hosted-payload-platform/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-30T16:31:51.493018Z",
-            "shown_at": [
-                "2025-10-30T16:48:05.083279Z"
-            ]
-        },
-        {
-            "id": "766cff55200f0e36d061dd867806913c",
-            "source": "spacenews",
-            "text": "Pentagon turns to ‘government-owned, commercially-operated’ satellites amid conflict risks",
-            "source_link": "https://spacenews.com/pentagon-turns-to-government-owned-commercially-operated-satellites-amid-conflict-risks/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-30T16:31:51.492769Z",
-            "shown_at": [
-                "2025-10-30T16:31:52.314137Z",
-                "2025-10-31T09:29:38.935761Z"
-            ]
-        },
-        {
-            "id": "b0a225a113dc9621426386cad3fbdcdc",
-            "source": "breaking_defense",
-            "text": "Missile threats at scale: Turning Golden Dome into reality",
-            "source_link": "https://breakingdefense.com/2025/10/missile-threats-at-scale-turning-golden-dome-into-reality/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-30T13:47:47.971642Z",
-            "shown_at": [
-                "2025-10-30T13:47:48.802287Z",
-                "2025-10-30T15:45:45.749365Z",
-                "2025-10-30T18:57:54.376688Z",
-                "2025-10-30T22:51:55.044600Z",
-                "2025-10-30T23:44:01.283845Z",
-                "2025-10-31T01:25:44.356145Z",
-                "2025-10-31T02:23:44.926119Z",
-                "2025-10-31T05:24:01.042861Z",
-                "2025-10-31T06:13:29.800661Z",
-                "2025-10-31T07:57:46.453906Z",
-                "2025-10-31T08:47:40.547556Z",
-                "2025-10-31T18:03:38.780764Z"
-            ]
-        },
-        {
-            "id": "ec2b07bef1dbc61020a429ef87eee841",
-            "source": "spacenews",
-            "text": "Momentus Vigoride-7 to fly DPhi Space hosted payload platform",
-            "source_link": "https://spacenews.com/momentus-vigoride-7-to-fly-dphi-space-hosted-payload-platform/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-30T13:17:46.747887Z",
-            "shown_at": [
-                "2025-10-30T13:33:53.678907Z"
-            ]
-        },
-        {
-            "id": "a4915b7764e2d1d87ef522de436c0036",
-            "source": "spacenews",
-            "text": "Confronting China’s pervasive maritime gray zone campaign",
-            "source_link": "https://spacenews.com/confronting-chinas-pervasive-maritime-gray-zone-campaign/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-30T13:17:46.747804Z",
-            "shown_at": [
-                "2025-10-30T13:17:48.144750Z"
-            ]
-        },
-        {
-            "id": "70623a7989edf7cd77ae45e4d903d95b",
-            "source": "spacenews",
-            "text": "Former NASA administrators call for changes in Artemis lunar lander architecture",
-            "source_link": "https://spacenews.com/former-nasa-administrators-call-for-changes-in-artemis-lunar-lander-architecture/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-30T12:32:06.653994Z",
-            "shown_at": [
-                "2025-10-30T12:47:35.269766Z"
-            ]
-        },
-        {
-            "id": "296f9789b4c02c83177a73c4c74921b6",
-            "source": "spacenews",
-            "text": "Anduril to acquire space-tracking firm ExoAnalytic Solutions",
-            "source_link": "https://spacenews.com/anduril-to-acquire-space-tracking-firm-exoanalytic-solutions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-11T04:19:12.656614Z",
-            "shown_at": [
-                "2026-03-11T04:19:13.512604Z",
-                "2026-03-11T22:44:17.564570Z"
-            ]
-        },
-        {
-            "id": "6889d6151ff10c287b9c79e0ff530a31",
-            "source": "spacenews",
-            "text": "Large Series C signals scale-up of China’s laser satellite communications sector",
-            "source_link": "https://spacenews.com/large-series-c-signals-scale-up-of-chinas-laser-satellite-communications-sector/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-11T10:14:01.436907Z",
-            "shown_at": [
-                "2026-03-11T10:14:02.801334Z"
-            ]
-        },
-        {
-            "id": "67335fd0f85cfb7efcf9fa96baed9e96",
-            "source": "spacenews",
-            "text": "Telesat expands Canadian landing station footprint for Lightspeed",
-            "source_link": "https://spacenews.com/telesat-expands-canadian-landing-station-footprint-for-lightspeed/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-11T12:04:36.381111Z",
-            "shown_at": [
-                "2026-03-11T12:04:37.339685Z"
-            ]
-        },
-        {
-            "id": "2db8e2b2671312e5929920faf22fcb6d",
-            "source": "spacenews",
-            "text": "Space Force officially terminates AeroVironment contract for satellite control antennas",
-            "source_link": "https://spacenews.com/space-force-officially-terminates-aerovironment-contract-for-satellite-control-antennas/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-11T12:39:03.075932Z",
-            "shown_at": [
-                "2026-03-11T12:39:04.038365Z"
-            ]
-        },
-        {
-            "id": "8439af3566caf9005c6e49e4cbaf31eb",
-            "source": "spacenews",
-            "text": "NASA disqualifies X-ray telescope from Probe mission competition",
-            "source_link": "https://spacenews.com/nasa-disqualifies-x-ray-telescope-from-probe-mission-competition/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-11T12:39:03.075988Z",
-            "shown_at": [
-                "2026-03-11T13:19:22.363818Z"
-            ]
-        },
-        {
-            "id": "c1f40baf633b1a7fc0d1ee907760571a",
-            "source": "spacenews",
-            "text": "The perils of political impatience in the Artemis program",
-            "source_link": "https://spacenews.com/the-perils-of-political-impatience-in-the-artemis-program/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-11T13:54:12.747700Z",
-            "shown_at": [
-                "2026-03-11T13:54:13.870248Z"
-            ]
-        },
-        {
-            "id": "1bfe6ffa9659f20093494eae443c7743",
-            "source": "spacenews",
-            "text": "Missile strike hits SES teleport in Israel",
-            "source_link": "https://spacenews.com/missile-strike-hits-ses-teleport-in-israel/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-11T19:14:15.019458Z",
-            "shown_at": [
-                "2026-03-11T19:14:16.174854Z"
-            ]
-        },
-        {
-            "id": "7347c2714e0a7bbfeeef06c487fccfe6",
-            "source": "spacenews",
-            "text": "Report criticizes delays in Artemis lunar lander development",
-            "source_link": "https://spacenews.com/report-criticizes-delays-in-artemis-lunar-lander-development/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-11T23:19:55.744388Z",
-            "shown_at": [
-                "2026-03-11T23:19:56.595012Z"
             ]
         }
     ]
