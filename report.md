@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 18 | 21 | 44 |
+| spacenews | 8 | 17 | 22 | 44 |
 | nyt | 1 | 2 | 19 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2925,3 +2925,4 @@
 - **Mar 12, 02:59 PM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
 - **Mar 12, 03:34 PM** - First Starship V3 launch slips (spacenews)
 - **Mar 12, 04:09 PM** - ‘Don’t Worry About It’: NASA Satellite to Burn Up in Fall to Earth (nyt)
+- **Mar 12, 04:44 PM** - Eutelsat completes $5.8 billion refinancing plan (spacenews)
