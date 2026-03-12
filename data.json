@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-12T00:04:46.362926+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b4e06399d008e8e7c7150c5c63ec62fb",
+    "trigger_count": 0,
+    "current_item_id": "41c97f7ff6a9d1b8f442cb75903409f5",
     "data": [
         {
             "id": "7347c2714e0a7bbfeeef06c487fccfe6",
@@ -8511,6 +8511,27 @@
             "shown_at": [
                 "2026-03-12T17:19:22.441109Z"
             ]
+        },
+        {
+            "id": "41c97f7ff6a9d1b8f442cb75903409f5",
+            "source": "spacenews",
+            "text": "Voyager opens defense and space tech hub in Long Beach",
+            "source_link": "https://spacenews.com/voyager-opens-defense-and-space-tech-hub-in-long-beach/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-12T18:29:24.466633Z",
+            "shown_at": [
+                "2026-03-12T18:29:25.647108Z"
+            ]
+        },
+        {
+            "id": "a8bd692096533efd5d290a6c130d18fc",
+            "source": "spacenews",
+            "text": "Another Earth raises $4 million to boost AI training with synthetic satellite data",
+            "source_link": "https://spacenews.com/another-earth-raises-4-million-to-boost-ai-training-with-synthetic-satellite-data/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-03-12T18:29:24.466689Z"
         }
     ]
 }

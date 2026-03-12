@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 17 | 22 | 44 |
-| nyt | 2 | 3 | 18 | 37 |
+| spacenews | 10 | 19 | 23 | 45 |
+| nyt | 2 | 3 | 18 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2928,3 +2928,4 @@
 - **Mar 12, 04:44 PM** - Eutelsat completes $5.8 billion refinancing plan (spacenews)
 - **Mar 12, 05:19 PM** - Space Jam: NASA’s MADCAP Team Directs Traffic at the Moon (nyt)
 - **Mar 12, 05:54 PM** - Landspace tests 220-ton methane engine for future heavy-lift launchers (spacenews)
+- **Mar 12, 06:29 PM** - Voyager opens defense and space tech hub in Long Beach (spacenews)
