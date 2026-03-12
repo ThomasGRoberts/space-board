@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 19 | 22 | 45 |
-| nyt | 2 | 3 | 18 | 35 |
+| nyt | 2 | 3 | 19 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2930,3 +2930,4 @@
 - **Mar 12, 05:54 PM** - Landspace tests 220-ton methane engine for future heavy-lift launchers (spacenews)
 - **Mar 12, 06:29 PM** - Voyager opens defense and space tech hub in Long Beach (spacenews)
 - **Mar 12, 07:05 PM** - Another Earth raises $4 million to boost AI training with synthetic satellite data (spacenews)
+- **Mar 12, 07:44 PM** - Meteorite Crashes Through Roof in Germany After Fiery Light Show (nyt)
