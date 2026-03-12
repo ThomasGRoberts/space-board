@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 19 | 23 | 45 |
-| nyt | 0 | 1 | 17 | 35 |
+| spacenews | 7 | 19 | 22 | 45 |
+| nyt | 0 | 1 | 18 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2918,3 +2918,4 @@
 - **Mar 12, 10:54 AM** - Firefly Alpha returns to flight (spacenews)
 - **Mar 12, 11:29 AM** - Meteorite Crashes Through Roof in Germany After Fiery Light Show (nyt)
 - **Mar 12, 12:04 PM** - Mantis Space emerges from stealth with $10 million for solar-power constellation (spacenews)
+- **Mar 12, 12:39 PM** - NASA’s Asteroid-Smashing DART Mission Sped Up Space Rock’s Orbit Around the Sun (nyt)
