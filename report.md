@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 19 | 23 | 44 |
+| spacenews | 9 | 19 | 24 | 45 |
 | nyt | 0 | 1 | 16 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2915,3 +2915,4 @@
 - **Mar 12, 09:04 AM** - ‘Don’t Worry About It’: NASA Satellite to Burn Up in Fall to Earth (nyt)
 - **Mar 12, 09:39 AM** - NASA deputy administrator nominee sails through confirmation hearing (spacenews)
 - **Mar 12, 10:19 AM** - NASA’s Asteroid-Smashing DART Mission Sped Up Space Rock’s Orbit Around the Sun (nyt)
+- **Mar 12, 10:54 AM** - Firefly Alpha returns to flight (spacenews)
