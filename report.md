@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 23 | 44 |
+| spacenews | 9 | 17 | 24 | 45 |
 | nyt | 0 | 1 | 17 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2898,3 +2898,4 @@
 - **Mar 11, 10:44 PM** - Anduril to acquire space-tracking firm ExoAnalytic Solutions (spacenews)
 - **Mar 11, 11:19 PM** - Report criticizes delays in Artemis lunar lander development (spacenews)
 - **Mar 11, 11:54 PM** - Meteorite Crashes Through Roof in Germany After Fiery Light Show (nyt)
+- **Mar 12, 12:29 AM** - Enpulsion raises $26 million (spacenews)

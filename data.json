@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-12T00:04:46.362926+00:00",
-    "trigger_count": 6,
-    "current_item_id": "199a7f3104e5ab4953c0ccc47176deca",
+    "trigger_count": 0,
+    "current_item_id": "bef4d5955b534d065b50566c68b6b0ab",
     "data": [
         {
             "id": "7347c2714e0a7bbfeeef06c487fccfe6",
@@ -8392,6 +8392,18 @@
             "fetched_datetime": "2025-10-30T20:59:30.372351Z",
             "shown_at": [
                 "2025-10-30T21:17:22.074066Z"
+            ]
+        },
+        {
+            "id": "bef4d5955b534d065b50566c68b6b0ab",
+            "source": "spacenews",
+            "text": "Enpulsion raises $26 million",
+            "source_link": "https://spacenews.com/enpulsion-raises-26-million/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-12T00:29:11.475762Z",
+            "shown_at": [
+                "2026-03-12T00:29:12.363013Z"
             ]
         }
     ]
