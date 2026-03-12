@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 17 | 21 | 43 |
+| spacenews | 8 | 17 | 22 | 44 |
 | nyt | 2 | 3 | 19 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2927,3 +2927,4 @@
 - **Mar 12, 04:09 PM** - ‘Don’t Worry About It’: NASA Satellite to Burn Up in Fall to Earth (nyt)
 - **Mar 12, 04:44 PM** - Eutelsat completes $5.8 billion refinancing plan (spacenews)
 - **Mar 12, 05:19 PM** - Space Jam: NASA’s MADCAP Team Directs Traffic at the Moon (nyt)
+- **Mar 12, 05:54 PM** - Landspace tests 220-ton methane engine for future heavy-lift launchers (spacenews)
