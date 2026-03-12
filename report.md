@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 17 | 22 | 45 |
-| nyt | 3 | 3 | 18 | 35 |
+| nyt | 3 | 3 | 19 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2937,3 +2937,4 @@
 - **Mar 12, 10:04 PM** - NASA Says Artemis II Moon Launch Is On Track for April 1 (nyt)
 - **Mar 12, 10:39 PM** - Rocket Lab launches satellite for undisclosed customer (spacenews)
 - **Mar 12, 11:14 PM** - China’s Tianwen-3 Mars sample return mission moves into spacecraft construction phase (spacenews)
+- **Mar 12, 11:49 PM** - NASA Says Artemis II Moon Launch Is On Track for April 1 (nyt)
