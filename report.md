@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 19 | 24 | 45 |
-| nyt | 0 | 1 | 16 | 35 |
+| spacenews | 10 | 19 | 23 | 45 |
+| nyt | 0 | 1 | 17 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2908,3 +2908,4 @@
 - **Mar 12, 04:49 AM** - Firefly Alpha returns to flight (spacenews)
 - **Mar 12, 05:34 AM** - NASA’s Asteroid-Smashing DART Mission Sped Up Space Rock’s Orbit Around the Sun (nyt)
 - **Mar 12, 06:09 AM** - Landspace tests 220-ton methane engine for future heavy-lift launchers (spacenews)
+- **Mar 12, 06:44 AM** - NASA’s Asteroid-Smashing DART Mission Sped Up Space Rock’s Orbit Around the Sun (nyt)
