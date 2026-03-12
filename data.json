@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-12T00:04:46.362926+00:00",
-    "trigger_count": 6,
-    "current_item_id": "bc0e5807d307c0ab499584ebd1d653fa",
+    "trigger_count": 0,
+    "current_item_id": "70a0746921073b2d79a4fd1d0b32ec2b",
     "data": [
         {
             "id": "7347c2714e0a7bbfeeef06c487fccfe6",
@@ -8551,6 +8551,18 @@
             "fetched_datetime": "2026-03-12T22:04:26.771957Z",
             "shown_at": [
                 "2026-03-12T22:04:28.046457Z"
+            ]
+        },
+        {
+            "id": "70a0746921073b2d79a4fd1d0b32ec2b",
+            "source": "spacenews",
+            "text": "China’s Tianwen-3 Mars sample return mission moves into spacecraft construction phase",
+            "source_link": "https://spacenews.com/chinas-tianwen-3-mars-sample-return-mission-moves-into-spacecraft-construction-phase/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-12T23:14:29.596103Z",
+            "shown_at": [
+                "2026-03-12T23:14:30.727399Z"
             ]
         }
     ]
