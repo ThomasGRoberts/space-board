@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-12T00:04:46.362926+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0f4142794bbb2b7ff83ceadd0ff2a4a9",
+    "trigger_count": 0,
+    "current_item_id": "0f1d71850462be3b1a792b360181804a",
     "data": [
         {
             "id": "7347c2714e0a7bbfeeef06c487fccfe6",
@@ -8497,6 +8497,18 @@
             "fetched_datetime": "2026-03-12T14:59:19.573339Z",
             "shown_at": [
                 "2026-03-12T14:59:20.478434Z"
+            ]
+        },
+        {
+            "id": "0f1d71850462be3b1a792b360181804a",
+            "source": "nyt",
+            "text": "Space Jam: NASA’s MADCAP Team Directs Traffic at the Moon",
+            "source_link": "https://www.nytimes.com/2026/03/12/science/moon-red-alert-close-call.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-12T17:19:21.041064Z",
+            "shown_at": [
+                "2026-03-12T17:19:22.441109Z"
             ]
         }
     ]

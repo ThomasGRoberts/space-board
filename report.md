@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 17 | 22 | 44 |
-| nyt | 1 | 2 | 18 | 36 |
+| nyt | 2 | 3 | 19 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2926,3 +2926,4 @@
 - **Mar 12, 03:34 PM** - First Starship V3 launch slips (spacenews)
 - **Mar 12, 04:09 PM** - ‘Don’t Worry About It’: NASA Satellite to Burn Up in Fall to Earth (nyt)
 - **Mar 12, 04:44 PM** - Eutelsat completes $5.8 billion refinancing plan (spacenews)
+- **Mar 12, 05:19 PM** - Space Jam: NASA’s MADCAP Team Directs Traffic at the Moon (nyt)
