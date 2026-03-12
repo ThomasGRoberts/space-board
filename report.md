@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 19 | 23 | 45 |
-| nyt | 0 | 1 | 17 | 36 |
+| spacenews | 10 | 19 | 24 | 45 |
+| nyt | 0 | 1 | 16 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2913,3 +2913,4 @@
 - **Mar 12, 07:54 AM** - Meteorite Crashes Through Roof in Germany After Fiery Light Show (nyt)
 - **Mar 12, 08:29 AM** - The Post-Capacity Era of Satellite Connectivity (spacenews)
 - **Mar 12, 09:04 AM** - ‘Don’t Worry About It’: NASA Satellite to Burn Up in Fall to Earth (nyt)
+- **Mar 12, 09:39 AM** - NASA deputy administrator nominee sails through confirmation hearing (spacenews)
