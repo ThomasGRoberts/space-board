@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-12T00:04:46.362926+00:00",
-    "trigger_count": 6,
-    "current_item_id": "bb63385f0189478b1e145e6404823c8c",
+    "trigger_count": 0,
+    "current_item_id": "87de93fa19dfb9b0affe91d7aafbbd0f",
     "data": [
         {
             "id": "7347c2714e0a7bbfeeef06c487fccfe6",
@@ -8538,6 +8538,18 @@
             "fetched_datetime": "2026-03-12T18:29:24.466689Z",
             "shown_at": [
                 "2026-03-12T19:05:21.283947Z"
+            ]
+        },
+        {
+            "id": "87de93fa19dfb9b0affe91d7aafbbd0f",
+            "source": "nyt",
+            "text": "NASA Says Artemis II Moon Launch Is On Track for April 1",
+            "source_link": "https://www.nytimes.com/2026/03/12/science/nasa-moon-artemis-launch-april.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-12T22:04:26.771957Z",
+            "shown_at": [
+                "2026-03-12T22:04:28.046457Z"
             ]
         }
     ]
