@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 19 | 23 | 44 |
+| spacenews | 10 | 19 | 24 | 45 |
 | nyt | 0 | 1 | 17 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2911,3 +2911,4 @@
 - **Mar 12, 06:44 AM** - NASA’s Asteroid-Smashing DART Mission Sped Up Space Rock’s Orbit Around the Sun (nyt)
 - **Mar 12, 07:19 AM** - Missile strike hits SES teleport in Israel (spacenews)
 - **Mar 12, 07:54 AM** - Meteorite Crashes Through Roof in Germany After Fiery Light Show (nyt)
+- **Mar 12, 08:29 AM** - The Post-Capacity Era of Satellite Connectivity (spacenews)
