@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 18 | 22 | 45 |
+| spacenews | 9 | 18 | 23 | 46 |
 | nyt | 3 | 3 | 18 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2935,3 +2935,4 @@
 - **Mar 12, 08:54 PM** - Space Jam: NASA’s MADCAP Team Directs Traffic at the Moon (nyt)
 - **Mar 12, 09:29 PM** - Mantis Space emerges from stealth with $10 million for solar-power constellation (spacenews)
 - **Mar 12, 10:04 PM** - NASA Says Artemis II Moon Launch Is On Track for April 1 (nyt)
+- **Mar 12, 10:39 PM** - Rocket Lab launches satellite for undisclosed customer (spacenews)
