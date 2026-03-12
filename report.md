@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 18 | 22 | 45 |
+| spacenews | 9 | 18 | 23 | 46 |
 | nyt | 2 | 2 | 18 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2933,3 +2933,4 @@
 - **Mar 12, 07:44 PM** - Meteorite Crashes Through Roof in Germany After Fiery Light Show (nyt)
 - **Mar 12, 08:19 PM** - GNSS resilience is an economic and security priority (spacenews)
 - **Mar 12, 08:54 PM** - Space Jam: NASA’s MADCAP Team Directs Traffic at the Moon (nyt)
+- **Mar 12, 09:29 PM** - Mantis Space emerges from stealth with $10 million for solar-power constellation (spacenews)
