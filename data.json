@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-12T00:04:46.362926+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d375ed469d5aeaaad58d9c76bef77103",
+    "trigger_count": 0,
+    "current_item_id": "fd1e4041dcfdcc9dfb73cdc00f4a964f",
     "data": [
         {
             "id": "7347c2714e0a7bbfeeef06c487fccfe6",
@@ -8476,9 +8476,12 @@
             "source": "spacenews",
             "text": "York Space acquires satellite propulsion manufacturer Orbion Space",
             "source_link": "https://spacenews.com/york-space-acquires-satellite-propulsion-manufacturer-orbion-space/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-03-12T13:14:20.347515Z"
+            "fetched_datetime": "2026-03-12T13:14:20.347515Z",
+            "shown_at": [
+                "2026-03-12T13:49:24.188106Z"
+            ]
         }
     ]
 }
