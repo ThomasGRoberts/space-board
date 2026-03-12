@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-12T00:04:46.362926+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b400209d847043cfa64f8725c3da2b7d",
+    "trigger_count": 0,
+    "current_item_id": "d375ed469d5aeaaad58d9c76bef77103",
     "data": [
         {
             "id": "7347c2714e0a7bbfeeef06c487fccfe6",
@@ -8458,6 +8458,27 @@
             "shown_at": [
                 "2026-03-12T12:04:40.725470Z"
             ]
+        },
+        {
+            "id": "d375ed469d5aeaaad58d9c76bef77103",
+            "source": "spacenews",
+            "text": "Astranis taps retired Gen. John Hyten to lead advisory board ",
+            "source_link": "https://spacenews.com/astranis-taps-retired-gen-john-hyten-to-lead-advisory-board/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-12T13:14:20.347442Z",
+            "shown_at": [
+                "2026-03-12T13:14:21.461972Z"
+            ]
+        },
+        {
+            "id": "fd1e4041dcfdcc9dfb73cdc00f4a964f",
+            "source": "spacenews",
+            "text": "York Space acquires satellite propulsion manufacturer Orbion Space",
+            "source_link": "https://spacenews.com/york-space-acquires-satellite-propulsion-manufacturer-orbion-space/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-03-12T13:14:20.347515Z"
         }
     ]
 }

@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 17 | 22 | 44 |
+| spacenews | 9 | 19 | 23 | 45 |
 | nyt | 0 | 1 | 18 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2919,3 +2919,4 @@
 - **Mar 12, 11:29 AM** - Meteorite Crashes Through Roof in Germany After Fiery Light Show (nyt)
 - **Mar 12, 12:04 PM** - Mantis Space emerges from stealth with $10 million for solar-power constellation (spacenews)
 - **Mar 12, 12:39 PM** - NASA’s Asteroid-Smashing DART Mission Sped Up Space Rock’s Orbit Around the Sun (nyt)
+- **Mar 12, 01:14 PM** - Astranis taps retired Gen. John Hyten to lead advisory board  (spacenews)
