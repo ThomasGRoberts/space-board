@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 19 | 22 | 44 |
-| nyt | 0 | 1 | 18 | 36 |
+| nyt | 1 | 2 | 19 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2922,3 +2922,4 @@
 - **Mar 12, 01:14 PM** - Astranis taps retired Gen. John Hyten to lead advisory board  (spacenews)
 - **Mar 12, 01:49 PM** - York Space acquires satellite propulsion manufacturer Orbion Space (spacenews)
 - **Mar 12, 02:24 PM** - NASA’s Asteroid-Smashing DART Mission Sped Up Space Rock’s Orbit Around the Sun (nyt)
+- **Mar 12, 02:59 PM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
