@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 19 | 23 | 45 |
-| nyt | 0 | 1 | 16 | 35 |
+| nyt | 0 | 1 | 17 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2916,3 +2916,4 @@
 - **Mar 12, 09:39 AM** - NASA deputy administrator nominee sails through confirmation hearing (spacenews)
 - **Mar 12, 10:19 AM** - NASA’s Asteroid-Smashing DART Mission Sped Up Space Rock’s Orbit Around the Sun (nyt)
 - **Mar 12, 10:54 AM** - Firefly Alpha returns to flight (spacenews)
+- **Mar 12, 11:29 AM** - Meteorite Crashes Through Roof in Germany After Fiery Light Show (nyt)
