@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-13T00:04:46.521783+00:00",
-    "trigger_count": 6,
-    "current_item_id": "da692e452b391803f72bc9cbfc588b58",
+    "trigger_count": 0,
+    "current_item_id": "678497a7e35f7ef3a79f378cc3fb5ae9",
     "data": [
         {
             "id": "70a0746921073b2d79a4fd1d0b32ec2b",
@@ -8321,6 +8321,18 @@
                 "2026-01-01T20:54:23.098451Z",
                 "2026-01-02T03:54:17.754019Z",
                 "2026-01-02T05:39:34.249542Z"
+            ]
+        },
+        {
+            "id": "678497a7e35f7ef3a79f378cc3fb5ae9",
+            "source": "spacenews",
+            "text": "NASA working toward April 1 launch of Artemis 2",
+            "source_link": "https://spacenews.com/nasa-working-toward-april-1-launch-of-artemis-2/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-13T08:34:26.308923Z",
+            "shown_at": [
+                "2026-03-13T08:34:27.833336Z"
             ]
         }
     ]
