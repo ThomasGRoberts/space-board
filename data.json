@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-13T00:04:46.521783+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f021b4ca4b9551cae045bddf2b5b85cf",
+    "trigger_count": 0,
+    "current_item_id": "0789c164fb64feaa8eb3972e66da9606",
     "data": [
         {
             "id": "70a0746921073b2d79a4fd1d0b32ec2b",
@@ -8367,9 +8367,12 @@
             "source": "spacenews",
             "text": "China ends month-long launch hiatus with separate Guowang and Shiyan-30 satellite missions",
             "source_link": "https://spacenews.com/china-ends-month-long-launch-hiatus-with-separate-guowang-and-shiyan-30-satellite-missions/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-03-13T11:29:05.613976Z"
+            "fetched_datetime": "2026-03-13T11:29:05.613976Z",
+            "shown_at": [
+                "2026-03-13T12:09:22.250252Z"
+            ]
         }
     ]
 }

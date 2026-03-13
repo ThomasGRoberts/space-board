@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 19 | 23 | 46 |
+| spacenews | 9 | 18 | 23 | 46 |
 | nyt | 3 | 3 | 18 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2833,3 +2833,4 @@
 - **Mar 13, 10:19 AM** - Senate committee advances NASA deputy administrator nominee (spacenews)
 - **Mar 13, 10:54 AM** - ‘Don’t Worry About It’: NASA Satellite to Burn Up in Fall to Earth (nyt)
 - **Mar 13, 11:29 AM** - Q&A: Rebecca Evernden on UK space strategy (spacenews)
+- **Mar 13, 12:09 PM** - China ends month-long launch hiatus with separate Guowang and Shiyan-30 satellite missions (spacenews)
