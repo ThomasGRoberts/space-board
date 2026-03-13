@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 16 | 22 | 45 |
+| spacenews | 6 | 16 | 22 | 46 |
 | nyt | 3 | 3 | 19 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2823,3 +2823,4 @@
 - **Mar 13, 04:29 AM** - A Night Light in the Sky? Reflect Orbital Wants to Launch a Big Space Mirror. (nyt)
 - **Mar 13, 05:04 AM** - Air Force lab awards BlackSky contract worth up to $99 million for large optical satellite payload (spacenews)
 - **Mar 13, 05:40 AM** - NASA’s Asteroid-Smashing DART Mission Sped Up Space Rock’s Orbit Around the Sun (nyt)
+- **Mar 13, 06:14 AM** - Anduril to acquire space-tracking firm ExoAnalytic Solutions (spacenews)
