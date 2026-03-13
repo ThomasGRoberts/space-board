@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-13T00:04:46.521783+00:00",
-    "trigger_count": 6,
-    "current_item_id": "87de93fa19dfb9b0affe91d7aafbbd0f",
+    "trigger_count": 0,
+    "current_item_id": "c342513e7e475c0a429b9f9b149f0438",
     "data": [
         {
             "id": "70a0746921073b2d79a4fd1d0b32ec2b",
@@ -8390,6 +8390,18 @@
             "fetched_datetime": "2026-03-13T13:19:24.800948Z",
             "shown_at": [
                 "2026-03-13T13:19:25.923245Z"
+            ]
+        },
+        {
+            "id": "c342513e7e475c0a429b9f9b149f0438",
+            "source": "spacenews",
+            "text": "Eutelsat exits two Russian capacity leases after satellite failure",
+            "source_link": "https://spacenews.com/eutelsat-exits-two-russian-capacity-leases-after-satellite-failure/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-13T16:54:33.307024Z",
+            "shown_at": [
+                "2026-03-13T16:54:34.362385Z"
             ]
         }
     ]
