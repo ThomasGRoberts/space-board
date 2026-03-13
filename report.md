@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 23 | 45 |
-| nyt | 2 | 3 | 17 | 36 |
+| spacenews | 8 | 16 | 23 | 44 |
+| nyt | 2 | 3 | 18 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2840,3 +2840,4 @@
 - **Mar 13, 02:29 PM** - First Starship V3 launch slips (spacenews)
 - **Mar 13, 03:09 PM** - Space Jam: NASA’s MADCAP Team Directs Traffic at the Moon (nyt)
 - **Mar 13, 03:44 PM** - RFA plans first launch this summer (spacenews)
+- **Mar 13, 04:19 PM** - NASA Says Artemis II Moon Launch Is On Track for April 1 (nyt)
