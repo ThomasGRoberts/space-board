@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 17 | 22 | 45 |
+| spacenews | 7 | 17 | 23 | 46 |
 | nyt | 3 | 3 | 18 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2819,3 +2819,4 @@
 - **Mar 13, 02:09 AM** - Meteorite Crashes Through Roof in Germany After Fiery Light Show (nyt)
 - **Mar 13, 02:44 AM** - Another Earth raises $4 million to boost AI training with synthetic satellite data (spacenews)
 - **Mar 13, 03:19 AM** - NASA’s Asteroid-Smashing DART Mission Sped Up Space Rock’s Orbit Around the Sun (nyt)
+- **Mar 13, 03:54 AM** - The Post-Capacity Era of Satellite Connectivity (spacenews)
