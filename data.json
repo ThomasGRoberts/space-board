@@ -1,9 +1,158 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-03-12T00:04:46.362926+00:00",
-    "trigger_count": 2,
+    "last_run_datetime": "2026-03-13T00:04:46.521783+00:00",
+    "trigger_count": 3,
     "current_item_id": "87de93fa19dfb9b0affe91d7aafbbd0f",
     "data": [
+        {
+            "id": "70a0746921073b2d79a4fd1d0b32ec2b",
+            "source": "spacenews",
+            "text": "China’s Tianwen-3 Mars sample return mission moves into spacecraft construction phase",
+            "source_link": "https://spacenews.com/chinas-tianwen-3-mars-sample-return-mission-moves-into-spacecraft-construction-phase/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-12T23:14:29.596103Z",
+            "shown_at": [
+                "2026-03-12T23:14:30.727399Z"
+            ]
+        },
+        {
+            "id": "87de93fa19dfb9b0affe91d7aafbbd0f",
+            "source": "nyt",
+            "text": "NASA Says Artemis II Moon Launch Is On Track for April 1",
+            "source_link": "https://www.nytimes.com/2026/03/12/science/nasa-moon-artemis-launch-april.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-12T22:04:26.771957Z",
+            "shown_at": [
+                "2026-03-12T22:04:28.046457Z",
+                "2026-03-12T23:49:16.809549Z"
+            ]
+        },
+        {
+            "id": "a8bd692096533efd5d290a6c130d18fc",
+            "source": "spacenews",
+            "text": "Another Earth raises $4 million to boost AI training with synthetic satellite data",
+            "source_link": "https://spacenews.com/another-earth-raises-4-million-to-boost-ai-training-with-synthetic-satellite-data/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-12T18:29:24.466689Z",
+            "shown_at": [
+                "2026-03-12T19:05:21.283947Z"
+            ]
+        },
+        {
+            "id": "41c97f7ff6a9d1b8f442cb75903409f5",
+            "source": "spacenews",
+            "text": "Voyager opens defense and space tech hub in Long Beach",
+            "source_link": "https://spacenews.com/voyager-opens-defense-and-space-tech-hub-in-long-beach/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-12T18:29:24.466633Z",
+            "shown_at": [
+                "2026-03-12T18:29:25.647108Z"
+            ]
+        },
+        {
+            "id": "0f1d71850462be3b1a792b360181804a",
+            "source": "nyt",
+            "text": "Space Jam: NASA’s MADCAP Team Directs Traffic at the Moon",
+            "source_link": "https://www.nytimes.com/2026/03/12/science/moon-red-alert-close-call.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-12T17:19:21.041064Z",
+            "shown_at": [
+                "2026-03-12T17:19:22.441109Z",
+                "2026-03-12T20:54:12.294174Z"
+            ]
+        },
+        {
+            "id": "1db3a2ac272711a42755b86a3c17ecf2",
+            "source": "nyt",
+            "text": "Before Landing on the Moon, a Collision Close Call Haunted a Space Mission",
+            "source_link": "https://www.nytimes.com/2026/03/12/science/moon-red-alert-close-call.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-12T14:59:19.573339Z",
+            "shown_at": [
+                "2026-03-12T14:59:20.478434Z"
+            ]
+        },
+        {
+            "id": "fd1e4041dcfdcc9dfb73cdc00f4a964f",
+            "source": "spacenews",
+            "text": "York Space acquires satellite propulsion manufacturer Orbion Space",
+            "source_link": "https://spacenews.com/york-space-acquires-satellite-propulsion-manufacturer-orbion-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-12T13:14:20.347515Z",
+            "shown_at": [
+                "2026-03-12T13:49:24.188106Z"
+            ]
+        },
+        {
+            "id": "d375ed469d5aeaaad58d9c76bef77103",
+            "source": "spacenews",
+            "text": "Astranis taps retired Gen. John Hyten to lead advisory board ",
+            "source_link": "https://spacenews.com/astranis-taps-retired-gen-john-hyten-to-lead-advisory-board/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-12T13:14:20.347442Z",
+            "shown_at": [
+                "2026-03-12T13:14:21.461972Z"
+            ]
+        },
+        {
+            "id": "bb63385f0189478b1e145e6404823c8c",
+            "source": "spacenews",
+            "text": "Mantis Space emerges from stealth with $10 million for solar-power constellation",
+            "source_link": "https://spacenews.com/mantis-space-emerges-from-stealth-with-10-million-for-solar-power-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-12T12:04:39.428690Z",
+            "shown_at": [
+                "2026-03-12T12:04:40.725470Z",
+                "2026-03-12T21:29:07.888871Z"
+            ]
+        },
+        {
+            "id": "abea74eb3837c8c3fbdf2bc453188ea0",
+            "source": "spacenews",
+            "text": "Firefly Alpha returns to flight",
+            "source_link": "https://spacenews.com/firefly-alpha-returns-to-flight/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-12T04:49:20.917053Z",
+            "shown_at": [
+                "2026-03-12T04:49:21.824190Z",
+                "2026-03-12T10:54:18.501795Z"
+            ]
+        },
+        {
+            "id": "972d44a42b6df143bc23beae9c57b580",
+            "source": "spacenews",
+            "text": "The Post-Capacity Era of Satellite Connectivity",
+            "source_link": "https://spacenews.com/the-post-capacity-era-of-satellite-connectivity/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-12T01:39:13.688412Z",
+            "shown_at": [
+                "2026-03-12T01:39:14.527269Z",
+                "2026-03-12T08:29:15.002761Z"
+            ]
+        },
+        {
+            "id": "bef4d5955b534d065b50566c68b6b0ab",
+            "source": "spacenews",
+            "text": "Enpulsion raises $26 million",
+            "source_link": "https://spacenews.com/enpulsion-raises-26-million/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-12T00:29:11.475762Z",
+            "shown_at": [
+                "2026-03-12T00:29:12.363013Z"
+            ]
+        },
         {
             "id": "7347c2714e0a7bbfeeef06c487fccfe6",
             "source": "spacenews",
@@ -8158,412 +8307,6 @@
                 "2026-01-01T20:54:23.098451Z",
                 "2026-01-02T03:54:17.754019Z",
                 "2026-01-02T05:39:34.249542Z"
-            ]
-        },
-        {
-            "id": "ced5c3cda305c59e05fec051318bc41c",
-            "source": "spacenews",
-            "text": "Perseverance continues science mission amid uncertainty about Mars Sample Return",
-            "source_link": "https://spacenews.com/perseverance-continues-science-mission-amid-uncertainty-about-mars-sample-return/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-12-26T22:16:10.489116Z",
-            "shown_at": [
-                "2025-12-26T22:49:59.710118Z",
-                "2025-12-27T03:49:17.760308Z",
-                "2025-12-27T06:49:20.819787Z",
-                "2025-12-27T09:09:15.895290Z",
-                "2025-12-27T11:34:30.301137Z",
-                "2025-12-27T13:59:22.707787Z",
-                "2025-12-27T16:19:18.183999Z",
-                "2025-12-27T21:09:12.426183Z",
-                "2025-12-27T23:34:21.435336Z",
-                "2025-12-28T01:54:24.368992Z",
-                "2025-12-28T04:19:12.137914Z",
-                "2025-12-28T08:59:13.964207Z",
-                "2025-12-28T14:14:15.113255Z",
-                "2025-12-28T18:59:08.073569Z",
-                "2025-12-28T23:44:13.495013Z",
-                "2025-12-29T14:59:51.488301Z",
-                "2025-12-30T18:44:22.722932Z",
-                "2026-01-01T09:39:03.574455Z"
-            ]
-        },
-        {
-            "id": "0369a52ea12575c3033189f758e294ac",
-            "source": "spacenews",
-            "text": "Former ULA chief Bruno joins Blue Origin",
-            "source_link": "https://spacenews.com/former-ula-chief-bruno-joins-blue-origin/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-12-26T22:16:10.489046Z",
-            "shown_at": [
-                "2025-12-26T22:16:11.041608Z",
-                "2025-12-27T01:05:07.795113Z",
-                "2025-12-27T18:39:02.023307Z",
-                "2025-12-28T06:39:37.485256Z",
-                "2025-12-28T11:54:19.935629Z",
-                "2025-12-28T16:34:20.066618Z",
-                "2025-12-29T02:04:33.727546Z",
-                "2025-12-30T05:39:13.949222Z",
-                "2025-12-30T08:39:11.519825Z",
-                "2025-12-31T01:14:12.831354Z",
-                "2025-12-31T02:59:46.483802Z",
-                "2026-01-01T13:15:04.230531Z"
-            ]
-        },
-        {
-            "id": "28b43666e7b33f7965746854b1eb7963",
-            "source": "breaking_defense",
-            "text": "Tory Bruno to lead new Blue Origin national security unit",
-            "source_link": "https://breakingdefense.com/2025/12/tory-bruno-to-lead-new-blue-origin-national-security-unit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-12-26T21:44:07.195518Z",
-            "shown_at": [
-                "2025-12-26T21:44:07.856020Z",
-                "2025-12-27T00:30:15.269783Z",
-                "2025-12-27T03:14:17.542190Z",
-                "2025-12-27T06:10:13.271290Z",
-                "2025-12-27T08:34:35.422943Z",
-                "2025-12-27T10:59:05.536996Z",
-                "2025-12-27T13:23:59.895706Z",
-                "2025-12-27T15:44:09.610220Z",
-                "2025-12-27T18:04:21.216047Z",
-                "2025-12-27T20:34:25.051040Z",
-                "2025-12-27T22:59:05.899602Z",
-                "2025-12-28T01:19:05.181705Z",
-                "2025-12-28T03:44:16.839286Z",
-                "2025-12-28T06:04:36.625318Z",
-                "2025-12-28T08:24:06.890847Z",
-                "2025-12-28T10:44:06.884719Z",
-                "2025-12-28T13:39:04.920214Z",
-                "2025-12-28T15:59:13.439560Z",
-                "2025-12-28T18:24:16.447911Z",
-                "2025-12-28T20:49:51.329878Z",
-                "2025-12-28T23:09:25.849399Z",
-                "2025-12-29T01:29:10.788710Z",
-                "2025-12-29T04:24:09.691002Z",
-                "2025-12-29T07:24:28.788305Z",
-                "2025-12-29T09:44:10.881204Z",
-                "2025-12-29T12:04:26.894633Z",
-                "2025-12-29T14:24:42.054820Z",
-                "2025-12-30T03:19:33.686344Z",
-                "2025-12-30T06:19:16.567680Z",
-                "2025-12-30T09:50:19.376434Z",
-                "2025-12-30T12:14:01.550377Z",
-                "2025-12-30T14:39:23.855384Z",
-                "2025-12-30T16:59:45.215427Z",
-                "2025-12-30T19:19:13.529155Z",
-                "2025-12-30T21:39:13.224181Z",
-                "2025-12-31T00:39:07.574008Z",
-                "2025-12-31T02:24:49.978612Z",
-                "2025-12-31T04:09:05.297331Z",
-                "2025-12-31T05:59:06.773911Z",
-                "2025-12-31T07:44:42.014338Z",
-                "2025-12-31T09:29:10.243549Z",
-                "2025-12-31T14:09:14.917359Z",
-                "2025-12-31T15:54:11.520533Z",
-                "2025-12-31T17:44:50.304500Z",
-                "2025-12-31T21:49:07.598354Z",
-                "2026-01-01T01:59:44.056965Z",
-                "2026-01-01T05:34:33.909534Z",
-                "2026-01-01T12:39:05.433303Z",
-                "2026-01-01T14:24:04.242705Z",
-                "2026-01-01T16:09:20.404439Z",
-                "2026-01-01T21:29:16.138378Z",
-                "2026-01-02T04:29:03.698624Z",
-                "2026-01-02T09:49:04.782992Z",
-                "2026-01-02T11:34:16.025778Z",
-                "2026-01-02T19:29:19.853162Z"
-            ]
-        },
-        {
-            "id": "e5a0917bfdde42612a3a7eabff117808",
-            "source": "nyt",
-            "text": "This City’s Best Winter Show Is in Its Pitch-Dark Skies",
-            "source_link": "https://www.nytimes.com/card/2025/12/21/science/space/arizona-dark-sky-astronomy",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-12-26T21:10:27.503147Z",
-            "shown_at": [
-                "2025-12-26T21:10:28.151596Z",
-                "2025-12-26T23:59:28.064617Z",
-                "2025-12-27T02:39:00.501993Z",
-                "2025-12-27T04:59:17.941224Z",
-                "2025-12-27T07:59:14.777434Z",
-                "2025-12-27T10:24:20.012016Z",
-                "2025-12-27T12:49:13.023529Z",
-                "2025-12-27T15:09:31.371617Z",
-                "2025-12-27T19:58:57.263009Z",
-                "2025-12-27T22:24:05.049892Z",
-                "2025-12-28T07:49:09.953353Z",
-                "2025-12-28T10:09:04.564655Z",
-                "2025-12-28T13:04:34.758961Z",
-                "2025-12-28T15:24:21.720034Z",
-                "2025-12-28T20:14:08.129469Z",
-                "2025-12-29T06:14:36.720477Z",
-                "2025-12-29T08:34:38.170935Z",
-                "2025-12-29T13:14:20.469008Z",
-                "2025-12-29T15:36:53.933891Z",
-                "2025-12-30T15:49:42.382333Z",
-                "2025-12-30T18:09:07.844338Z",
-                "2025-12-31T01:49:14.822497Z",
-                "2025-12-31T03:34:13.694289Z",
-                "2025-12-31T08:54:12.001923Z",
-                "2025-12-31T15:19:12.863372Z",
-                "2026-01-01T01:24:06.670042Z",
-                "2026-01-01T13:49:07.786434Z",
-                "2026-01-02T10:59:35.694439Z",
-                "2026-01-02T14:39:17.197770Z",
-                "2026-01-02T16:24:11.747414Z"
-            ]
-        },
-        {
-            "id": "436a99d02105dc2a3708845521239c9e",
-            "source": "spacenews",
-            "text": "For clues to the future of military space, look in the air",
-            "source_link": "https://spacenews.com/for-clues-to-the-future-of-military-space-look-in-the-air/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-31T19:02:14.405667Z",
-            "shown_at": [
-                "2025-10-31T19:02:15.221994Z"
-            ]
-        },
-        {
-            "id": "1b444cc2232923a90b8935c557350917",
-            "source": "spacenews",
-            "text": "Resources, reactors and rivalries will decide the new moon race",
-            "source_link": "https://spacenews.com/resources-reactors-and-rivalries-will-decide-the-new-moon-race/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-31T14:23:36.196760Z",
-            "shown_at": [
-                "2025-10-31T14:23:36.889526Z"
-            ]
-        },
-        {
-            "id": "f19becc101554f538c7396b40ef0b9af",
-            "source": "spacenews",
-            "text": "Blue Origin test-fires New Glenn ahead of second launch",
-            "source_link": "https://spacenews.com/blue-origin-test-fires-new-glenn-ahead-of-second-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-31T12:29:28.668744Z",
-            "shown_at": [
-                "2025-10-31T12:29:29.289488Z"
-            ]
-        },
-        {
-            "id": "3e218b5f2ab3d8b1f29964fbabfb55cc",
-            "source": "breaking_defense",
-            "text": "Hegseth’s acquisition reform speech: What might come – and what’s already underway.",
-            "source_link": "https://breakingdefense.com/2025/10/hegseth-defense-industry-speech-acquisition-reform-what-to-expect/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-31T12:07:16.298282Z",
-            "shown_at": [
-                "2025-10-31T12:07:16.979676Z",
-                "2025-10-31T15:02:02.105499Z"
-            ]
-        },
-        {
-            "id": "7ee665fb74288950b0b6de58b31d4b73",
-            "source": "spacenews",
-            "text": "European Commission weighs inviting Ukraine to Europe’s GOVSATCOM platform",
-            "source_link": "https://spacenews.com/european-commission-weighs-inviting-ukraine-to-europes-govsatcom-platform/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-31T10:13:50.777601Z",
-            "shown_at": [
-                "2025-10-31T10:13:51.490414Z"
-            ]
-        },
-        {
-            "id": "cfa6dbc3c7b1d5092ba1f53a4f5d05d9",
-            "source": "spacenews",
-            "text": "China’s StarDetect raises Series A funding to expand on-orbit computing and space domain awareness services",
-            "source_link": "https://spacenews.com/chinas-stardetect-raises-series-a-funding-to-expand-on-orbit-computing-and-space-domain-awareness-services/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-30T22:37:39.609208Z",
-            "shown_at": [
-                "2025-10-30T22:37:40.261600Z"
-            ]
-        },
-        {
-            "id": "8a20a573290761de104bb40637b59209",
-            "source": "spacenews",
-            "text": "Interest rate cut further fuels space investor optimism amid talk of returning SPACs",
-            "source_link": "https://spacenews.com/interest-rate-cut-further-fuels-space-investor-optimism-amid-talk-of-returning-spacs/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-30T21:31:51.714720Z",
-            "shown_at": [
-                "2025-10-30T21:31:52.515934Z",
-                "2025-10-31T13:27:51.039618Z"
-            ]
-        },
-        {
-            "id": "e1a0830266149197c32f86f49fb82e7e",
-            "source": "spacenews",
-            "text": "Golden Dome hype meets information vacuum as industry awaits Pentagon direction",
-            "source_link": "https://spacenews.com/golden-dome-hype-meets-information-vacuum-as-industry-awaits-pentagon-direction/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-10-30T20:59:30.372351Z",
-            "shown_at": [
-                "2025-10-30T21:17:22.074066Z"
-            ]
-        },
-        {
-            "id": "bef4d5955b534d065b50566c68b6b0ab",
-            "source": "spacenews",
-            "text": "Enpulsion raises $26 million",
-            "source_link": "https://spacenews.com/enpulsion-raises-26-million/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-12T00:29:11.475762Z",
-            "shown_at": [
-                "2026-03-12T00:29:12.363013Z"
-            ]
-        },
-        {
-            "id": "972d44a42b6df143bc23beae9c57b580",
-            "source": "spacenews",
-            "text": "The Post-Capacity Era of Satellite Connectivity",
-            "source_link": "https://spacenews.com/the-post-capacity-era-of-satellite-connectivity/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-12T01:39:13.688412Z",
-            "shown_at": [
-                "2026-03-12T01:39:14.527269Z",
-                "2026-03-12T08:29:15.002761Z"
-            ]
-        },
-        {
-            "id": "abea74eb3837c8c3fbdf2bc453188ea0",
-            "source": "spacenews",
-            "text": "Firefly Alpha returns to flight",
-            "source_link": "https://spacenews.com/firefly-alpha-returns-to-flight/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-12T04:49:20.917053Z",
-            "shown_at": [
-                "2026-03-12T04:49:21.824190Z",
-                "2026-03-12T10:54:18.501795Z"
-            ]
-        },
-        {
-            "id": "bb63385f0189478b1e145e6404823c8c",
-            "source": "spacenews",
-            "text": "Mantis Space emerges from stealth with $10 million for solar-power constellation",
-            "source_link": "https://spacenews.com/mantis-space-emerges-from-stealth-with-10-million-for-solar-power-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-12T12:04:39.428690Z",
-            "shown_at": [
-                "2026-03-12T12:04:40.725470Z",
-                "2026-03-12T21:29:07.888871Z"
-            ]
-        },
-        {
-            "id": "d375ed469d5aeaaad58d9c76bef77103",
-            "source": "spacenews",
-            "text": "Astranis taps retired Gen. John Hyten to lead advisory board ",
-            "source_link": "https://spacenews.com/astranis-taps-retired-gen-john-hyten-to-lead-advisory-board/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-12T13:14:20.347442Z",
-            "shown_at": [
-                "2026-03-12T13:14:21.461972Z"
-            ]
-        },
-        {
-            "id": "fd1e4041dcfdcc9dfb73cdc00f4a964f",
-            "source": "spacenews",
-            "text": "York Space acquires satellite propulsion manufacturer Orbion Space",
-            "source_link": "https://spacenews.com/york-space-acquires-satellite-propulsion-manufacturer-orbion-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-12T13:14:20.347515Z",
-            "shown_at": [
-                "2026-03-12T13:49:24.188106Z"
-            ]
-        },
-        {
-            "id": "1db3a2ac272711a42755b86a3c17ecf2",
-            "source": "nyt",
-            "text": "Before Landing on the Moon, a Collision Close Call Haunted a Space Mission",
-            "source_link": "https://www.nytimes.com/2026/03/12/science/moon-red-alert-close-call.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-12T14:59:19.573339Z",
-            "shown_at": [
-                "2026-03-12T14:59:20.478434Z"
-            ]
-        },
-        {
-            "id": "0f1d71850462be3b1a792b360181804a",
-            "source": "nyt",
-            "text": "Space Jam: NASA’s MADCAP Team Directs Traffic at the Moon",
-            "source_link": "https://www.nytimes.com/2026/03/12/science/moon-red-alert-close-call.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-12T17:19:21.041064Z",
-            "shown_at": [
-                "2026-03-12T17:19:22.441109Z",
-                "2026-03-12T20:54:12.294174Z"
-            ]
-        },
-        {
-            "id": "41c97f7ff6a9d1b8f442cb75903409f5",
-            "source": "spacenews",
-            "text": "Voyager opens defense and space tech hub in Long Beach",
-            "source_link": "https://spacenews.com/voyager-opens-defense-and-space-tech-hub-in-long-beach/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-12T18:29:24.466633Z",
-            "shown_at": [
-                "2026-03-12T18:29:25.647108Z"
-            ]
-        },
-        {
-            "id": "a8bd692096533efd5d290a6c130d18fc",
-            "source": "spacenews",
-            "text": "Another Earth raises $4 million to boost AI training with synthetic satellite data",
-            "source_link": "https://spacenews.com/another-earth-raises-4-million-to-boost-ai-training-with-synthetic-satellite-data/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-12T18:29:24.466689Z",
-            "shown_at": [
-                "2026-03-12T19:05:21.283947Z"
-            ]
-        },
-        {
-            "id": "87de93fa19dfb9b0affe91d7aafbbd0f",
-            "source": "nyt",
-            "text": "NASA Says Artemis II Moon Launch Is On Track for April 1",
-            "source_link": "https://www.nytimes.com/2026/03/12/science/nasa-moon-artemis-launch-april.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-12T22:04:26.771957Z",
-            "shown_at": [
-                "2026-03-12T22:04:28.046457Z",
-                "2026-03-12T23:49:16.809549Z"
-            ]
-        },
-        {
-            "id": "70a0746921073b2d79a4fd1d0b32ec2b",
-            "source": "spacenews",
-            "text": "China’s Tianwen-3 Mars sample return mission moves into spacecraft construction phase",
-            "source_link": "https://spacenews.com/chinas-tianwen-3-mars-sample-return-mission-moves-into-spacecraft-construction-phase/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-12T23:14:29.596103Z",
-            "shown_at": [
-                "2026-03-12T23:14:30.727399Z"
             ]
         }
     ]
