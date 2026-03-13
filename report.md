@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 18 | 22 | 44 |
-| nyt | 0 | 3 | 19 | 37 |
+| spacenews | 10 | 19 | 23 | 45 |
+| nyt | 0 | 3 | 18 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2853,3 +2853,4 @@
 - **Mar 13, 10:09 PM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
 - **Mar 13, 10:44 PM** - Voyager opens defense and space tech hub in Long Beach (spacenews)
 - **Mar 13, 11:19 PM** - Space Jam: NASA’s MADCAP Team Directs Traffic at the Moon (nyt)
+- **Mar 13, 11:54 PM** - iMetalX emerges from stealth with technology to model resident space objects (spacenews)
