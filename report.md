@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 17 | 22 | 44 |
-| nyt | 1 | 3 | 18 | 37 |
+| spacenews | 9 | 17 | 23 | 45 |
+| nyt | 1 | 3 | 18 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2843,3 +2843,4 @@
 - **Mar 13, 04:19 PM** - NASA Says Artemis II Moon Launch Is On Track for April 1 (nyt)
 - **Mar 13, 04:54 PM** - Eutelsat exits two Russian capacity leases after satellite failure (spacenews)
 - **Mar 13, 05:29 PM** - Meteorite Crashes Through Roof in Germany After Fiery Light Show (nyt)
+- **Mar 13, 06:04 PM** - Astranis taps retired Gen. John Hyten to lead advisory board  (spacenews)
