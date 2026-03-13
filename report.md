@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 16 | 22 | 45 |
-| nyt | 3 | 3 | 18 | 35 |
+| nyt | 3 | 3 | 19 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2824,3 +2824,4 @@
 - **Mar 13, 05:04 AM** - Air Force lab awards BlackSky contract worth up to $99 million for large optical satellite payload (spacenews)
 - **Mar 13, 05:40 AM** - NASA’s Asteroid-Smashing DART Mission Sped Up Space Rock’s Orbit Around the Sun (nyt)
 - **Mar 13, 06:14 AM** - Anduril to acquire space-tracking firm ExoAnalytic Solutions (spacenews)
+- **Mar 13, 06:49 AM** - NASA Says Artemis II Moon Launch Is On Track for April 1 (nyt)
