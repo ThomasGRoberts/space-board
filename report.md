@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 17 | 23 | 45 |
-| nyt | 3 | 3 | 18 | 36 |
+| spacenews | 8 | 16 | 22 | 44 |
+| nyt | 3 | 3 | 19 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2836,3 +2836,4 @@
 - **Mar 13, 12:09 PM** - China ends month-long launch hiatus with separate Guowang and Shiyan-30 satellite missions (spacenews)
 - **Mar 13, 12:44 PM** - ‘Don’t Worry About It’: NASA Satellite to Burn Up in Fall to Earth (nyt)
 - **Mar 13, 01:19 PM** - Kazakhstan must choose: be Eurasia’s tech broker or become a pawn in the new global space race (spacenews)
+- **Mar 13, 01:54 PM** - Meteorite Crashes Through Roof in Germany After Fiery Light Show (nyt)
