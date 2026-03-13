@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-13T00:04:46.521783+00:00",
-    "trigger_count": 6,
-    "current_item_id": "199a7f3104e5ab4953c0ccc47176deca",
+    "trigger_count": 0,
+    "current_item_id": "bd4767fb1451f7acfc5992783196ed0d",
     "data": [
         {
             "id": "70a0746921073b2d79a4fd1d0b32ec2b",
@@ -8405,6 +8405,18 @@
             "fetched_datetime": "2026-03-13T16:54:33.307024Z",
             "shown_at": [
                 "2026-03-13T16:54:34.362385Z"
+            ]
+        },
+        {
+            "id": "bd4767fb1451f7acfc5992783196ed0d",
+            "source": "spacenews",
+            "text": "Ukraine will host first test for Leonardo’s Michelangelo security dome",
+            "source_link": "https://spacenews.com/ukraine-will-host-first-test-for-leonardos-michelangelo-security-dome/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-13T19:14:41.959567Z",
+            "shown_at": [
+                "2026-03-13T19:14:43.249073Z"
             ]
         }
     ]

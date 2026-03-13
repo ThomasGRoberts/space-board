@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 17 | 21 | 44 |
+| spacenews | 8 | 17 | 22 | 44 |
 | nyt | 1 | 3 | 19 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2845,3 +2845,4 @@
 - **Mar 13, 05:29 PM** - Meteorite Crashes Through Roof in Germany After Fiery Light Show (nyt)
 - **Mar 13, 06:04 PM** - Astranis taps retired Gen. John Hyten to lead advisory board  (spacenews)
 - **Mar 13, 06:39 PM** - Meteorite Crashes Through Roof in Germany After Fiery Light Show (nyt)
+- **Mar 13, 07:14 PM** - Ukraine will host first test for Leonardo’s Michelangelo security dome (spacenews)
