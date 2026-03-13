@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 22 | 44 |
-| nyt | 2 | 3 | 18 | 37 |
+| spacenews | 8 | 16 | 23 | 45 |
+| nyt | 2 | 3 | 18 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2839,3 +2839,4 @@
 - **Mar 13, 01:54 PM** - Meteorite Crashes Through Roof in Germany After Fiery Light Show (nyt)
 - **Mar 13, 02:29 PM** - First Starship V3 launch slips (spacenews)
 - **Mar 13, 03:09 PM** - Space Jam: NASA’s MADCAP Team Directs Traffic at the Moon (nyt)
+- **Mar 13, 03:44 PM** - RFA plans first launch this summer (spacenews)
