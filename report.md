@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 16 | 22 | 46 |
+| spacenews | 8 | 17 | 23 | 46 |
 | nyt | 3 | 3 | 19 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2830,3 +2830,4 @@
 - **Mar 13, 08:34 AM** - NASA working toward April 1 launch of Artemis 2 (spacenews)
 - **Mar 13, 09:09 AM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
 - **Mar 13, 09:44 AM** - York Space acquires satellite propulsion manufacturer Orbion Space (spacenews)
+- **Mar 13, 10:19 AM** - Senate committee advances NASA deputy administrator nominee (spacenews)
