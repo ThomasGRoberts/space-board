@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-13T00:04:46.521783+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6541931490003bdec208bc6237b84bbd",
+    "trigger_count": 0,
+    "current_item_id": "f021b4ca4b9551cae045bddf2b5b85cf",
     "data": [
         {
             "id": "70a0746921073b2d79a4fd1d0b32ec2b",
@@ -8349,6 +8349,27 @@
             "shown_at": [
                 "2026-03-13T10:19:12.244138Z"
             ]
+        },
+        {
+            "id": "f021b4ca4b9551cae045bddf2b5b85cf",
+            "source": "spacenews",
+            "text": "Q&A: Rebecca Evernden on UK space strategy",
+            "source_link": "https://spacenews.com/qa-rebecca-evernden-on-uk-space-strategy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-13T11:29:05.613904Z",
+            "shown_at": [
+                "2026-03-13T11:29:07.221151Z"
+            ]
+        },
+        {
+            "id": "0789c164fb64feaa8eb3972e66da9606",
+            "source": "spacenews",
+            "text": "China ends month-long launch hiatus with separate Guowang and Shiyan-30 satellite missions",
+            "source_link": "https://spacenews.com/china-ends-month-long-launch-hiatus-with-separate-guowang-and-shiyan-30-satellite-missions/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-03-13T11:29:05.613976Z"
         }
     ]
 }
