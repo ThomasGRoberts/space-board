@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 16 | 23 | 45 |
+| spacenews | 8 | 17 | 23 | 45 |
 | nyt | 3 | 3 | 18 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2835,3 +2835,4 @@
 - **Mar 13, 11:29 AM** - Q&A: Rebecca Evernden on UK space strategy (spacenews)
 - **Mar 13, 12:09 PM** - China ends month-long launch hiatus with separate Guowang and Shiyan-30 satellite missions (spacenews)
 - **Mar 13, 12:44 PM** - ‘Don’t Worry About It’: NASA Satellite to Burn Up in Fall to Earth (nyt)
+- **Mar 13, 01:19 PM** - Kazakhstan must choose: be Eurasia’s tech broker or become a pawn in the new global space race (spacenews)

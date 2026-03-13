@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-13T00:04:46.521783+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6541931490003bdec208bc6237b84bbd",
+    "trigger_count": 0,
+    "current_item_id": "5062a0caa6eccda7b5fcc7cea4cbeeef",
     "data": [
         {
             "id": "70a0746921073b2d79a4fd1d0b32ec2b",
@@ -8373,6 +8373,18 @@
             "fetched_datetime": "2026-03-13T11:29:05.613976Z",
             "shown_at": [
                 "2026-03-13T12:09:22.250252Z"
+            ]
+        },
+        {
+            "id": "5062a0caa6eccda7b5fcc7cea4cbeeef",
+            "source": "spacenews",
+            "text": "Kazakhstan must choose: be Eurasia’s tech broker or become a pawn in the new global space race",
+            "source_link": "https://spacenews.com/kazakhstan-must-choose-be-eurasias-tech-broker-or-become-a-pawn-in-the-new-global-space-race/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-13T13:19:24.800948Z",
+            "shown_at": [
+                "2026-03-13T13:19:25.923245Z"
             ]
         }
     ]
