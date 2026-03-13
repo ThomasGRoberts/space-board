@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-13T00:04:46.521783+00:00",
-    "trigger_count": 6,
-    "current_item_id": "da9987c812f3efe8e4109b34a585799c",
+    "trigger_count": 0,
+    "current_item_id": "c55f46d426391e86b7a869792bef0bf7",
     "data": [
         {
             "id": "70a0746921073b2d79a4fd1d0b32ec2b",
@@ -8419,6 +8419,18 @@
             "fetched_datetime": "2026-03-13T19:14:41.959567Z",
             "shown_at": [
                 "2026-03-13T19:14:43.249073Z"
+            ]
+        },
+        {
+            "id": "c55f46d426391e86b7a869792bef0bf7",
+            "source": "spacenews",
+            "text": "China is developing low-cost lunar cargo options for its expanding moon program",
+            "source_link": "https://spacenews.com/china-is-developing-low-cost-lunar-cargo-options-for-its-expanding-moon-program/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-13T20:59:11.332099Z",
+            "shown_at": [
+                "2026-03-13T20:59:12.436135Z"
             ]
         }
     ]
