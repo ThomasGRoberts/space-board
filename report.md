@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 22 | 45 |
-| nyt | 3 | 3 | 18 | 35 |
+| nyt | 3 | 3 | 19 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2816,3 +2816,4 @@
 - **Mar 13, 12:24 AM** - Starliner and Artemis: commercial label vs. commercial discipline (spacenews)
 - **Mar 13, 12:59 AM** - ‘Don’t Worry About It’: NASA Satellite to Burn Up in Fall to Earth (nyt)
 - **Mar 13, 01:34 AM** - Telesat expands Canadian landing station footprint for Lightspeed (spacenews)
+- **Mar 13, 02:09 AM** - Meteorite Crashes Through Roof in Germany After Fiery Light Show (nyt)
