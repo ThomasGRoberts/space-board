@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 17 | 22 | 45 |
+| spacenews | 8 | 17 | 23 | 46 |
 | nyt | 3 | 3 | 18 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2815,3 +2815,4 @@
 - **Mar 12, 11:49 PM** - NASA Says Artemis II Moon Launch Is On Track for April 1 (nyt)
 - **Mar 13, 12:24 AM** - Starliner and Artemis: commercial label vs. commercial discipline (spacenews)
 - **Mar 13, 12:59 AM** - ‘Don’t Worry About It’: NASA Satellite to Burn Up in Fall to Earth (nyt)
+- **Mar 13, 01:34 AM** - Telesat expands Canadian landing station footprint for Lightspeed (spacenews)
