@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 19 | 22 | 45 |
+| spacenews | 10 | 19 | 23 | 46 |
 | nyt | 0 | 3 | 18 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2851,3 +2851,4 @@
 - **Mar 13, 08:59 PM** - China is developing low-cost lunar cargo options for its expanding moon program (spacenews)
 - **Mar 13, 09:34 PM** - Astroscale selects Isar Aerospace to launch ELSA-M mission (spacenews)
 - **Mar 13, 10:09 PM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
+- **Mar 13, 10:44 PM** - Voyager opens defense and space tech hub in Long Beach (spacenews)
