@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 17 | 23 | 45 |
-| nyt | 1 | 3 | 17 | 36 |
+| nyt | 1 | 3 | 18 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2842,3 +2842,4 @@
 - **Mar 13, 03:44 PM** - RFA plans first launch this summer (spacenews)
 - **Mar 13, 04:19 PM** - NASA Says Artemis II Moon Launch Is On Track for April 1 (nyt)
 - **Mar 13, 04:54 PM** - Eutelsat exits two Russian capacity leases after satellite failure (spacenews)
+- **Mar 13, 05:29 PM** - Meteorite Crashes Through Roof in Germany After Fiery Light Show (nyt)
