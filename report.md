@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 11 | 21 | 44 |
-| nyt | 0 | 0 | 20 | 38 |
+| spacenews | 1 | 11 | 20 | 43 |
+| nyt | 0 | 0 | 21 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2772,3 +2772,4 @@
 - **Mar 14, 08:59 PM** - China’s Tianwen-3 Mars sample return mission moves into spacecraft construction phase (spacenews)
 - **Mar 14, 09:34 PM** - Space Jam: NASA’s MADCAP Team Directs Traffic at the Moon (nyt)
 - **Mar 14, 10:09 PM** - York Space acquires satellite propulsion manufacturer Orbion Space (spacenews)
+- **Mar 14, 10:44 PM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
