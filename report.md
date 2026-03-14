@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 16 | 22 | 44 |
-| nyt | 0 | 3 | 19 | 37 |
+| spacenews | 9 | 16 | 23 | 45 |
+| nyt | 0 | 3 | 18 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2749,3 +2749,4 @@
 - **Mar 14, 07:28 AM** - ‘Don’t Worry About It’: NASA Satellite to Burn Up in Fall to Earth (nyt)
 - **Mar 14, 08:04 AM** - Kazakhstan must choose: be Eurasia’s tech broker or become a pawn in the new global space race (spacenews)
 - **Mar 14, 08:39 AM** - A Night Light in the Sky? Reflect Orbital Wants to Launch a Big Space Mirror. (nyt)
+- **Mar 14, 09:14 AM** - China’s Tianwen-3 Mars sample return mission moves into spacecraft construction phase (spacenews)
