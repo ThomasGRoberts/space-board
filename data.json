@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-14T00:04:34.251295+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6541931490003bdec208bc6237b84bbd",
+    "trigger_count": 0,
+    "current_item_id": "5062a0caa6eccda7b5fcc7cea4cbeeef",
     "data": [
         {
             "id": "6f206d0cbba81f7e4e3562819477902f",
@@ -75,7 +75,8 @@
             "type": "news",
             "fetched_datetime": "2026-03-13T13:19:24.800948Z",
             "shown_at": [
-                "2026-03-13T13:19:25.923245Z"
+                "2026-03-13T13:19:25.923245Z",
+                "2026-03-14T08:04:57.175005Z"
             ]
         },
         {
