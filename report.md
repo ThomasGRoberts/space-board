@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 13 | 21 | 44 |
-| nyt | 0 | 2 | 20 | 38 |
+| spacenews | 5 | 13 | 22 | 45 |
+| nyt | 0 | 2 | 20 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2761,3 +2761,4 @@
 - **Mar 14, 02:29 PM** - ‘Don’t Worry About It’: NASA Satellite to Burn Up in Fall to Earth (nyt)
 - **Mar 14, 03:04 PM** - Firefly Alpha returns to flight (spacenews)
 - **Mar 14, 03:39 PM** - NASA Says Artemis II Moon Launch Is On Track for April 1 (nyt)
+- **Mar 14, 04:14 PM** - The perils of political impatience in the Artemis program (spacenews)
