@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 11 | 21 | 43 |
-| nyt | 0 | 1 | 20 | 39 |
+| spacenews | 2 | 11 | 21 | 44 |
+| nyt | 0 | 1 | 20 | 38 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2769,3 +2769,4 @@
 - **Mar 14, 07:09 PM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
 - **Mar 14, 07:49 PM** - Anduril to acquire space-tracking firm ExoAnalytic Solutions (spacenews)
 - **Mar 14, 08:24 PM** - Space Jam: NASA’s MADCAP Team Directs Traffic at the Moon (nyt)
+- **Mar 14, 08:59 PM** - China’s Tianwen-3 Mars sample return mission moves into spacecraft construction phase (spacenews)
