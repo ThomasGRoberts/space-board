@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 19 | 23 | 45 |
-| nyt | 0 | 3 | 18 | 36 |
+| spacenews | 10 | 18 | 22 | 44 |
+| nyt | 0 | 3 | 19 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2734,3 +2734,4 @@
 - **Mar 13, 10:44 PM** - Voyager opens defense and space tech hub in Long Beach (spacenews)
 - **Mar 13, 11:19 PM** - Space Jam: NASA’s MADCAP Team Directs Traffic at the Moon (nyt)
 - **Mar 13, 11:54 PM** - iMetalX emerges from stealth with technology to model resident space objects (spacenews)
+- **Mar 14, 12:29 AM** - Meteorite Crashes Through Roof in Germany After Fiery Light Show (nyt)
