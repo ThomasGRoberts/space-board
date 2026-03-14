@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 16 | 23 | 44 |
-| nyt | 0 | 3 | 18 | 37 |
+| spacenews | 10 | 16 | 22 | 44 |
+| nyt | 0 | 3 | 19 | 38 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2742,3 +2742,4 @@
 - **Mar 14, 03:24 AM** - Missile strike hits SES teleport in Israel (spacenews)
 - **Mar 14, 03:59 AM** - Space Jam: NASA’s MADCAP Team Directs Traffic at the Moon (nyt)
 - **Mar 14, 04:34 AM** - Precision in Orbit: Heraeus Catalysts Safeguard Satellite Control (spacenews)
+- **Mar 14, 05:09 AM** - Space Jam: NASA’s MADCAP Team Directs Traffic at the Moon (nyt)
