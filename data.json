@@ -1,9 +1,129 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-03-13T00:04:46.521783+00:00",
-    "trigger_count": 1,
+    "last_run_datetime": "2026-03-14T00:04:34.251295+00:00",
+    "trigger_count": 2,
     "current_item_id": "6f206d0cbba81f7e4e3562819477902f",
     "data": [
+        {
+            "id": "6f206d0cbba81f7e4e3562819477902f",
+            "source": "spacenews",
+            "text": "iMetalX emerges from stealth with technology to model resident space objects",
+            "source_link": "https://spacenews.com/imetalx-emerges-from-stealth-with-technology-to-model-resident-space-objects/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-13T23:53:59.544852Z",
+            "shown_at": [
+                "2026-03-13T23:54:00.860935Z"
+            ]
+        },
+        {
+            "id": "77838cb0ad403931efe487f9f84be86d",
+            "source": "spacenews",
+            "text": "Astroscale selects Isar Aerospace to launch ELSA-M mission",
+            "source_link": "https://spacenews.com/astroscale-selects-isar-aerospace-to-launch-elsa-m-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-13T21:34:53.248985Z",
+            "shown_at": [
+                "2026-03-13T21:34:54.431948Z"
+            ]
+        },
+        {
+            "id": "c55f46d426391e86b7a869792bef0bf7",
+            "source": "spacenews",
+            "text": "China is developing low-cost lunar cargo options for its expanding moon program",
+            "source_link": "https://spacenews.com/china-is-developing-low-cost-lunar-cargo-options-for-its-expanding-moon-program/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-13T20:59:11.332099Z",
+            "shown_at": [
+                "2026-03-13T20:59:12.436135Z"
+            ]
+        },
+        {
+            "id": "bd4767fb1451f7acfc5992783196ed0d",
+            "source": "spacenews",
+            "text": "Ukraine will host first test for Leonardo’s Michelangelo security dome",
+            "source_link": "https://spacenews.com/ukraine-will-host-first-test-for-leonardos-michelangelo-security-dome/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-13T19:14:41.959567Z",
+            "shown_at": [
+                "2026-03-13T19:14:43.249073Z"
+            ]
+        },
+        {
+            "id": "c342513e7e475c0a429b9f9b149f0438",
+            "source": "spacenews",
+            "text": "Eutelsat exits two Russian capacity leases after satellite failure",
+            "source_link": "https://spacenews.com/eutelsat-exits-two-russian-capacity-leases-after-satellite-failure/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-13T16:54:33.307024Z",
+            "shown_at": [
+                "2026-03-13T16:54:34.362385Z"
+            ]
+        },
+        {
+            "id": "5062a0caa6eccda7b5fcc7cea4cbeeef",
+            "source": "spacenews",
+            "text": "Kazakhstan must choose: be Eurasia’s tech broker or become a pawn in the new global space race",
+            "source_link": "https://spacenews.com/kazakhstan-must-choose-be-eurasias-tech-broker-or-become-a-pawn-in-the-new-global-space-race/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-13T13:19:24.800948Z",
+            "shown_at": [
+                "2026-03-13T13:19:25.923245Z"
+            ]
+        },
+        {
+            "id": "0789c164fb64feaa8eb3972e66da9606",
+            "source": "spacenews",
+            "text": "China ends month-long launch hiatus with separate Guowang and Shiyan-30 satellite missions",
+            "source_link": "https://spacenews.com/china-ends-month-long-launch-hiatus-with-separate-guowang-and-shiyan-30-satellite-missions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-13T11:29:05.613976Z",
+            "shown_at": [
+                "2026-03-13T12:09:22.250252Z"
+            ]
+        },
+        {
+            "id": "f021b4ca4b9551cae045bddf2b5b85cf",
+            "source": "spacenews",
+            "text": "Q&A: Rebecca Evernden on UK space strategy",
+            "source_link": "https://spacenews.com/qa-rebecca-evernden-on-uk-space-strategy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-13T11:29:05.613904Z",
+            "shown_at": [
+                "2026-03-13T11:29:07.221151Z"
+            ]
+        },
+        {
+            "id": "5bdd089d43f0187345c440be457caec1",
+            "source": "spacenews",
+            "text": "Senate committee advances NASA deputy administrator nominee",
+            "source_link": "https://spacenews.com/senate-committee-advances-nasa-deputy-administrator-nominee/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-13T10:19:10.889577Z",
+            "shown_at": [
+                "2026-03-13T10:19:12.244138Z"
+            ]
+        },
+        {
+            "id": "678497a7e35f7ef3a79f378cc3fb5ae9",
+            "source": "spacenews",
+            "text": "NASA working toward April 1 launch of Artemis 2",
+            "source_link": "https://spacenews.com/nasa-working-toward-april-1-launch-of-artemis-2/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-13T08:34:26.308923Z",
+            "shown_at": [
+                "2026-03-13T08:34:27.833336Z"
+            ]
+        },
         {
             "id": "70a0746921073b2d79a4fd1d0b32ec2b",
             "source": "spacenews",
@@ -8108,356 +8228,6 @@
             "shown_at": [
                 "2025-12-31T12:59:02.537005Z",
                 "2026-01-01T22:04:24.145408Z"
-            ]
-        },
-        {
-            "id": "11c68aef8097933529231f77a92581c0",
-            "source": "spacenews",
-            "text": "China caps record year for orbital launches with Tianhui-7 and Shijian-29 technology test missions",
-            "source_link": "https://spacenews.com/china-caps-record-year-for-orbital-launches-with-tianhui-7-and-shijian-29-technology-test-missions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-12-31T10:38:58.657957Z",
-            "shown_at": [
-                "2025-12-31T10:38:59.756445Z",
-                "2025-12-31T20:39:10.932157Z",
-                "2025-12-31T22:24:09.182214Z",
-                "2026-01-01T14:59:03.079777Z",
-                "2026-01-01T16:44:01.642284Z",
-                "2026-01-06T08:30:51.679074Z",
-                "2026-01-06T17:44:07.471812Z",
-                "2026-01-07T02:49:10.344284Z"
-            ]
-        },
-        {
-            "id": "e17855fdcda683499dde5d5200fcf454",
-            "source": "spacenews",
-            "text": "Space Forge generates plasma for LEO semiconductor material production",
-            "source_link": "https://spacenews.com/space-forge-generates-plasma-for-leo-semiconductor-material-production/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-12-31T06:34:24.977294Z",
-            "shown_at": [
-                "2025-12-31T06:34:25.765299Z",
-                "2025-12-31T10:04:43.453366Z",
-                "2026-01-01T02:34:28.806816Z",
-                "2026-01-01T20:19:24.511488Z",
-                "2026-01-02T06:54:24.918100Z",
-                "2026-01-02T14:04:34.199943Z",
-                "2026-01-03T03:04:38.657353Z",
-                "2026-01-05T01:14:14.936719Z",
-                "2026-01-05T04:54:24.067882Z",
-                "2026-01-05T10:24:18.704417Z"
-            ]
-        },
-        {
-            "id": "ea592fcc18316915e0fd83eb7edf5ac8",
-            "source": "spacenews",
-            "text": "Space Force offers new Vandenberg launch site",
-            "source_link": "https://spacenews.com/space-force-offers-new-vandenberg-launch-site/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-12-30T23:44:15.449591Z",
-            "shown_at": [
-                "2025-12-30T23:44:16.069001Z",
-                "2025-12-31T08:19:19.691621Z",
-                "2025-12-31T16:29:19.562789Z",
-                "2026-01-02T03:19:25.709365Z",
-                "2026-01-02T20:38:46.767128Z",
-                "2026-01-04T11:04:27.344326Z",
-                "2026-01-04T23:29:13.704640Z",
-                "2026-01-06T21:59:10.230767Z"
-            ]
-        },
-        {
-            "id": "a8706baf7435c9590f3542dfcd3c1fca",
-            "source": "spacenews",
-            "text": "ESA confirms data breach",
-            "source_link": "https://spacenews.com/esa-confirms-data-breach/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-12-30T19:54:10.563626Z",
-            "shown_at": [
-                "2025-12-30T19:54:11.207802Z",
-                "2025-12-31T18:54:09.686653Z",
-                "2026-01-01T18:29:06.911243Z",
-                "2026-01-02T23:34:13.797772Z",
-                "2026-01-04T09:19:42.258556Z",
-                "2026-01-05T08:34:16.446222Z"
-            ]
-        },
-        {
-            "id": "e1e20705177a62249fb558ae43703502",
-            "source": "spacenews",
-            "text": "Isaacman opens door to alternatives to moving shuttle Discovery to Houston",
-            "source_link": "https://spacenews.com/isaacman-opens-door-to-alternatives-to-moving-shuttle-discovery-to-houston/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-12-30T09:14:09.537631Z",
-            "shown_at": [
-                "2025-12-30T09:14:10.350756Z",
-                "2026-01-02T05:04:45.261298Z",
-                "2026-01-03T01:19:22.905392Z",
-                "2026-01-03T06:34:24.926249Z",
-                "2026-01-04T07:34:26.820586Z"
-            ]
-        },
-        {
-            "id": "7384ff6db4ede96dac525a00fac46d63",
-            "source": "nyt",
-            "text": "Space Events 2026: NASA’s Artemis II Moon Mission, Summer Eclipse and More",
-            "source_link": "https://www.nytimes.com/2025/12/30/science/space-nasa-spacex-blue-origin-astronomy.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-12-30T08:04:20.849200Z",
-            "shown_at": [
-                "2025-12-30T08:04:21.451032Z",
-                "2025-12-30T11:04:45.315387Z",
-                "2025-12-31T00:04:20.391544Z",
-                "2025-12-31T07:09:18.674337Z",
-                "2025-12-31T22:59:07.183378Z",
-                "2026-01-01T04:54:04.171469Z",
-                "2026-01-01T06:44:08.258384Z",
-                "2026-01-01T08:29:11.060023Z",
-                "2026-01-01T12:04:31.379263Z",
-                "2026-01-02T02:09:16.133238Z",
-                "2026-01-02T07:29:10.936424Z",
-                "2026-01-02T09:14:23.197410Z",
-                "2026-01-02T12:49:18.541083Z",
-                "2026-01-03T00:09:14.735229Z",
-                "2026-01-03T01:54:19.326857Z",
-                "2026-01-03T05:24:09.934480Z",
-                "2026-01-03T07:09:34.589286Z",
-                "2026-01-03T08:59:15.397864Z",
-                "2026-01-03T10:44:24.493545Z",
-                "2026-01-03T14:14:03.296728Z",
-                "2026-01-03T17:01:12.829620Z",
-                "2026-01-03T21:34:27.842951Z",
-                "2026-01-03T23:54:08.094078Z",
-                "2026-01-04T02:19:37.162572Z",
-                "2026-01-04T06:24:19.148647Z",
-                "2026-01-04T08:09:07.056508Z",
-                "2026-01-04T09:54:10.292684Z",
-                "2026-01-04T11:39:13.240813Z",
-                "2026-01-04T15:14:01.249762Z",
-                "2026-01-04T18:44:21.605804Z",
-                "2026-01-05T01:54:11.909757Z",
-                "2026-01-05T05:29:20.950146Z",
-                "2026-01-06T04:19:15.125641Z",
-                "2026-01-06T06:05:10.991930Z"
-            ]
-        },
-        {
-            "id": "0f73a0b5a8199bcebfcf68bb609cff10",
-            "source": "spacenews",
-            "text": "Proposal to dismantle NCAR would have space science impacts",
-            "source_link": "https://spacenews.com/proposal-to-dismantle-ncar-would-have-space-science-impacts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-12-29T16:14:13.951035Z",
-            "shown_at": [
-                "2025-12-30T02:09:51.793532Z",
-                "2025-12-31T14:44:05.674640Z",
-                "2026-01-01T04:19:22.755808Z",
-                "2026-01-01T06:10:03.986544Z",
-                "2026-01-01T23:49:25.613110Z",
-                "2026-01-02T17:39:14.457743Z"
-            ]
-        },
-        {
-            "id": "6ba7b15f1878a37840dcd7417088e155",
-            "source": "spacenews",
-            "text": "China hits 90 launches as Guowang deployment continues, Fengyun-4C heads to GEO",
-            "source_link": "https://spacenews.com/china-hits-90-launches-as-guowang-deployment-continues-fengyun-4c-heads-to-geo/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-12-29T12:39:06.514210Z",
-            "shown_at": [
-                "2025-12-29T12:39:07.266155Z",
-                "2025-12-31T04:44:06.342706Z",
-                "2026-01-02T01:34:09.505679Z",
-                "2026-01-03T08:20:52.067788Z",
-                "2026-01-03T13:39:42.705607Z",
-                "2026-01-04T16:24:33.588713Z",
-                "2026-01-04T21:39:21.988042Z"
-            ]
-        },
-        {
-            "id": "95c2fc9709b6ea7f1d1d6e744d3d111e",
-            "source": "spacenews",
-            "text": "Synspective tapped to provide satellite imagery for Japan’s new military constellation",
-            "source_link": "https://spacenews.com/synspective-tapped-to-provide-satellite-imagery-for-japans-new-military-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-12-28T21:24:12.942796Z",
-            "shown_at": [
-                "2025-12-28T21:24:13.597621Z",
-                "2025-12-29T04:59:20.099728Z",
-                "2025-12-29T07:59:15.786863Z",
-                "2025-12-29T10:19:45.664256Z",
-                "2025-12-30T11:39:27.051539Z",
-                "2025-12-30T13:59:48.243304Z",
-                "2025-12-30T16:24:13.682537Z",
-                "2025-12-30T22:14:09.553384Z",
-                "2026-01-02T12:09:01.180893Z",
-                "2026-01-02T15:49:24.114374Z",
-                "2026-01-04T14:39:07.799796Z"
-            ]
-        },
-        {
-            "id": "02b321b9d0f1a37376f57740537f1af0",
-            "source": "nyt",
-            "text": "Before This Physicist Studied the Stars, He Was One",
-            "source_link": "https://www.nytimes.com/2025/12/27/world/europe/brian-cox-astronomy-profile.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-12-27T05:34:25.509464Z",
-            "shown_at": [
-                "2025-12-27T05:34:26.238708Z",
-                "2025-12-27T17:29:06.379560Z",
-                "2025-12-28T00:44:17.790820Z",
-                "2025-12-28T03:09:17.266511Z",
-                "2025-12-28T05:28:44.842713Z",
-                "2025-12-28T17:49:14.960370Z",
-                "2025-12-28T22:34:19.266187Z",
-                "2025-12-29T00:54:48.287496Z",
-                "2025-12-29T03:49:15.234102Z",
-                "2025-12-29T10:54:16.522364Z",
-                "2025-12-30T03:54:08.011846Z",
-                "2025-12-30T06:54:43.944653Z",
-                "2025-12-30T13:24:15.878746Z",
-                "2025-12-30T21:04:31.959988Z",
-                "2025-12-31T05:24:17.602352Z",
-                "2025-12-31T13:34:38.280150Z",
-                "2025-12-31T17:04:22.851984Z",
-                "2025-12-31T19:29:44.316812Z",
-                "2025-12-31T21:14:15.610950Z",
-                "2026-01-01T03:09:27.037291Z",
-                "2026-01-01T15:34:19.928694Z",
-                "2026-01-01T17:19:16.083395Z",
-                "2026-01-01T20:54:23.098451Z",
-                "2026-01-02T03:54:17.754019Z",
-                "2026-01-02T05:39:34.249542Z"
-            ]
-        },
-        {
-            "id": "678497a7e35f7ef3a79f378cc3fb5ae9",
-            "source": "spacenews",
-            "text": "NASA working toward April 1 launch of Artemis 2",
-            "source_link": "https://spacenews.com/nasa-working-toward-april-1-launch-of-artemis-2/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-13T08:34:26.308923Z",
-            "shown_at": [
-                "2026-03-13T08:34:27.833336Z"
-            ]
-        },
-        {
-            "id": "5bdd089d43f0187345c440be457caec1",
-            "source": "spacenews",
-            "text": "Senate committee advances NASA deputy administrator nominee",
-            "source_link": "https://spacenews.com/senate-committee-advances-nasa-deputy-administrator-nominee/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-13T10:19:10.889577Z",
-            "shown_at": [
-                "2026-03-13T10:19:12.244138Z"
-            ]
-        },
-        {
-            "id": "f021b4ca4b9551cae045bddf2b5b85cf",
-            "source": "spacenews",
-            "text": "Q&A: Rebecca Evernden on UK space strategy",
-            "source_link": "https://spacenews.com/qa-rebecca-evernden-on-uk-space-strategy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-13T11:29:05.613904Z",
-            "shown_at": [
-                "2026-03-13T11:29:07.221151Z"
-            ]
-        },
-        {
-            "id": "0789c164fb64feaa8eb3972e66da9606",
-            "source": "spacenews",
-            "text": "China ends month-long launch hiatus with separate Guowang and Shiyan-30 satellite missions",
-            "source_link": "https://spacenews.com/china-ends-month-long-launch-hiatus-with-separate-guowang-and-shiyan-30-satellite-missions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-13T11:29:05.613976Z",
-            "shown_at": [
-                "2026-03-13T12:09:22.250252Z"
-            ]
-        },
-        {
-            "id": "5062a0caa6eccda7b5fcc7cea4cbeeef",
-            "source": "spacenews",
-            "text": "Kazakhstan must choose: be Eurasia’s tech broker or become a pawn in the new global space race",
-            "source_link": "https://spacenews.com/kazakhstan-must-choose-be-eurasias-tech-broker-or-become-a-pawn-in-the-new-global-space-race/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-13T13:19:24.800948Z",
-            "shown_at": [
-                "2026-03-13T13:19:25.923245Z"
-            ]
-        },
-        {
-            "id": "c342513e7e475c0a429b9f9b149f0438",
-            "source": "spacenews",
-            "text": "Eutelsat exits two Russian capacity leases after satellite failure",
-            "source_link": "https://spacenews.com/eutelsat-exits-two-russian-capacity-leases-after-satellite-failure/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-13T16:54:33.307024Z",
-            "shown_at": [
-                "2026-03-13T16:54:34.362385Z"
-            ]
-        },
-        {
-            "id": "bd4767fb1451f7acfc5992783196ed0d",
-            "source": "spacenews",
-            "text": "Ukraine will host first test for Leonardo’s Michelangelo security dome",
-            "source_link": "https://spacenews.com/ukraine-will-host-first-test-for-leonardos-michelangelo-security-dome/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-13T19:14:41.959567Z",
-            "shown_at": [
-                "2026-03-13T19:14:43.249073Z"
-            ]
-        },
-        {
-            "id": "c55f46d426391e86b7a869792bef0bf7",
-            "source": "spacenews",
-            "text": "China is developing low-cost lunar cargo options for its expanding moon program",
-            "source_link": "https://spacenews.com/china-is-developing-low-cost-lunar-cargo-options-for-its-expanding-moon-program/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-13T20:59:11.332099Z",
-            "shown_at": [
-                "2026-03-13T20:59:12.436135Z"
-            ]
-        },
-        {
-            "id": "77838cb0ad403931efe487f9f84be86d",
-            "source": "spacenews",
-            "text": "Astroscale selects Isar Aerospace to launch ELSA-M mission",
-            "source_link": "https://spacenews.com/astroscale-selects-isar-aerospace-to-launch-elsa-m-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-13T21:34:53.248985Z",
-            "shown_at": [
-                "2026-03-13T21:34:54.431948Z"
-            ]
-        },
-        {
-            "id": "6f206d0cbba81f7e4e3562819477902f",
-            "source": "spacenews",
-            "text": "iMetalX emerges from stealth with technology to model resident space objects",
-            "source_link": "https://spacenews.com/imetalx-emerges-from-stealth-with-technology-to-model-resident-space-objects/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-13T23:53:59.544852Z",
-            "shown_at": [
-                "2026-03-13T23:54:00.860935Z"
             ]
         }
     ]
