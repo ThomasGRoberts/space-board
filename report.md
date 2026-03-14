@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 22 | 45 |
-| nyt | 0 | 3 | 19 | 37 |
+| spacenews | 8 | 16 | 22 | 44 |
+| nyt | 0 | 3 | 19 | 38 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2752,3 +2752,4 @@
 - **Mar 14, 09:14 AM** - China’s Tianwen-3 Mars sample return mission moves into spacecraft construction phase (spacenews)
 - **Mar 14, 09:49 AM** - Space Jam: NASA’s MADCAP Team Directs Traffic at the Moon (nyt)
 - **Mar 14, 10:24 AM** - Anduril to acquire space-tracking firm ExoAnalytic Solutions (spacenews)
+- **Mar 14, 10:58 AM** - Space Jam: NASA’s MADCAP Team Directs Traffic at the Moon (nyt)
