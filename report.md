@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 17 | 22 | 44 |
-| nyt | 0 | 3 | 19 | 37 |
+| spacenews | 10 | 17 | 23 | 45 |
+| nyt | 0 | 3 | 18 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2737,3 +2737,4 @@
 - **Mar 14, 12:29 AM** - Meteorite Crashes Through Roof in Germany After Fiery Light Show (nyt)
 - **Mar 14, 01:04 AM** - Eutelsat exits two Russian capacity leases after satellite failure (spacenews)
 - **Mar 14, 01:39 AM** - ‘Don’t Worry About It’: NASA Satellite to Burn Up in Fall to Earth (nyt)
+- **Mar 14, 02:15 AM** - GNSS resilience is an economic and security priority (spacenews)
