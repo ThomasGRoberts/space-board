@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 13 | 22 | 44 |
-| nyt | 0 | 1 | 19 | 37 |
+| nyt | 0 | 1 | 20 | 38 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2764,3 +2764,4 @@
 - **Mar 14, 04:14 PM** - The perils of political impatience in the Artemis program (spacenews)
 - **Mar 14, 04:49 PM** - ‘Don’t Worry About It’: NASA Satellite to Burn Up in Fall to Earth (nyt)
 - **Mar 14, 05:24 PM** - Precision in Orbit: Heraeus Catalysts Safeguard Satellite Control (spacenews)
+- **Mar 14, 05:59 PM** - A Night Light in the Sky? Reflect Orbital Wants to Launch a Big Space Mirror. (nyt)
