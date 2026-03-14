@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 16 | 22 | 45 |
-| nyt | 0 | 3 | 19 | 37 |
+| spacenews | 6 | 15 | 22 | 44 |
+| nyt | 0 | 3 | 20 | 38 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2754,3 +2754,4 @@
 - **Mar 14, 10:24 AM** - Anduril to acquire space-tracking firm ExoAnalytic Solutions (spacenews)
 - **Mar 14, 10:58 AM** - Space Jam: NASA’s MADCAP Team Directs Traffic at the Moon (nyt)
 - **Mar 14, 11:34 AM** - Astroscale selects Isar Aerospace to launch ELSA-M mission (spacenews)
+- **Mar 14, 12:09 PM** - ‘Don’t Worry About It’: NASA Satellite to Burn Up in Fall to Earth (nyt)
