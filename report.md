@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 13 | 21 | 43 |
+| spacenews | 5 | 13 | 22 | 44 |
 | nyt | 0 | 3 | 20 | 38 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2757,3 +2757,4 @@
 - **Mar 14, 12:09 PM** - ‘Don’t Worry About It’: NASA Satellite to Burn Up in Fall to Earth (nyt)
 - **Mar 14, 12:44 PM** - SSTL to build spacecraft for private space telescope (spacenews)
 - **Mar 14, 01:19 PM** - Meteorite Crashes Through Roof in Germany After Fiery Light Show (nyt)
+- **Mar 14, 01:54 PM** - Q&A: Rebecca Evernden on UK space strategy (spacenews)
