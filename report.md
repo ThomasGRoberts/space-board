@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 11 | 21 | 43 |
-| nyt | 0 | 1 | 20 | 39 |
+| spacenews | 3 | 11 | 22 | 44 |
+| nyt | 0 | 1 | 19 | 38 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2767,3 +2767,4 @@
 - **Mar 14, 05:59 PM** - A Night Light in the Sky? Reflect Orbital Wants to Launch a Big Space Mirror. (nyt)
 - **Mar 14, 06:34 PM** - iMetalX emerges from stealth with technology to model resident space objects (spacenews)
 - **Mar 14, 07:09 PM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
+- **Mar 14, 07:49 PM** - Anduril to acquire space-tracking firm ExoAnalytic Solutions (spacenews)
