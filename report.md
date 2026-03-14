@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 17 | 23 | 45 |
-| nyt | 0 | 3 | 18 | 36 |
+| spacenews | 10 | 17 | 22 | 45 |
+| nyt | 0 | 3 | 19 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2738,3 +2738,4 @@
 - **Mar 14, 01:04 AM** - Eutelsat exits two Russian capacity leases after satellite failure (spacenews)
 - **Mar 14, 01:39 AM** - ‘Don’t Worry About It’: NASA Satellite to Burn Up in Fall to Earth (nyt)
 - **Mar 14, 02:15 AM** - GNSS resilience is an economic and security priority (spacenews)
+- **Mar 14, 02:49 AM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
