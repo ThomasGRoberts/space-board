@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 10 | 21 | 43 |
-| nyt | 0 | 0 | 20 | 39 |
+| spacenews | 0 | 10 | 20 | 43 |
+| nyt | 0 | 0 | 21 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2784,3 +2784,4 @@
 - **Mar 15, 03:59 AM** - NASA working toward April 1 launch of Artemis 2 (spacenews)
 - **Mar 15, 04:34 AM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
 - **Mar 15, 05:09 AM** - Astranis taps retired Gen. John Hyten to lead advisory board  (spacenews)
+- **Mar 15, 05:44 AM** - Meteorite Crashes Through Roof in Germany After Fiery Light Show (nyt)
