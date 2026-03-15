@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 5 | 20 | 41 |
+| spacenews | 3 | 5 | 21 | 42 |
 | nyt | 0 | 0 | 21 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2811,3 +2811,4 @@
 - **Mar 15, 07:44 PM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
 - **Mar 15, 08:19 PM** - York Space acquires satellite propulsion manufacturer Orbion Space (spacenews)
 - **Mar 15, 08:54 PM** - Meteorite Crashes Through Roof in Germany After Fiery Light Show (nyt)
+- **Mar 15, 09:29 PM** - Chinese official calls for prioritizing Neptune orbiter mission (spacenews)
