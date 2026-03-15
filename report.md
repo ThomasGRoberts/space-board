@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 10 | 20 | 43 |
-| nyt | 0 | 0 | 21 | 39 |
+| spacenews | 0 | 10 | 21 | 43 |
+| nyt | 0 | 0 | 20 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2775,3 +2775,4 @@
 - **Mar 14, 10:44 PM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
 - **Mar 14, 11:19 PM** - SSTL to build spacecraft for private space telescope (spacenews)
 - **Mar 14, 11:54 PM** - Meteorite Crashes Through Roof in Germany After Fiery Light Show (nyt)
+- **Mar 15, 12:29 AM** - Chinese official calls for prioritizing Neptune orbiter mission (spacenews)
