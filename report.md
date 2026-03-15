@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 7 | 21 | 42 |
-| nyt | 0 | 0 | 20 | 40 |
+| spacenews | 2 | 7 | 20 | 42 |
+| nyt | 0 | 0 | 21 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2802,3 +2802,4 @@
 - **Mar 15, 02:29 PM** - Another Earth raises $4 million to boost AI training with synthetic satellite data (spacenews)
 - **Mar 15, 03:04 PM** - Meteorite Crashes Through Roof in Germany After Fiery Light Show (nyt)
 - **Mar 15, 03:39 PM** - Strait of Hormuz crisis drives demand for commercial geospatial intelligence (spacenews)
+- **Mar 15, 04:14 PM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
