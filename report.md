@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 8 | 20 | 42 |
-| nyt | 0 | 0 | 21 | 39 |
+| spacenews | 0 | 8 | 21 | 43 |
+| nyt | 0 | 0 | 20 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2793,3 +2793,4 @@
 - **Mar 15, 09:14 AM** - Space Jam: NASA’s MADCAP Team Directs Traffic at the Moon (nyt)
 - **Mar 15, 09:49 AM** - China is developing low-cost lunar cargo options for its expanding moon program (spacenews)
 - **Mar 15, 10:24 AM** - Meteorite Crashes Through Roof in Germany After Fiery Light Show (nyt)
+- **Mar 15, 10:59 AM** - Meridian Space Diplomacy Forum & Executive Space Training – March 25 & 26 (spacenews)
