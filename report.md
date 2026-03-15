@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 10 | 20 | 42 |
+| spacenews | 0 | 10 | 21 | 43 |
 | nyt | 0 | 0 | 21 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2781,3 +2781,4 @@
 - **Mar 15, 02:14 AM** - Meteorite Crashes Through Roof in Germany After Fiery Light Show (nyt)
 - **Mar 15, 02:49 AM** - York Space acquires satellite propulsion manufacturer Orbion Space (spacenews)
 - **Mar 15, 03:24 AM** - Meteorite Crashes Through Roof in Germany After Fiery Light Show (nyt)
+- **Mar 15, 03:59 AM** - NASA working toward April 1 launch of Artemis 2 (spacenews)
