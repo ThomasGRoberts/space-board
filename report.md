@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 21 | 42 |
-| nyt | 0 | 0 | 20 | 40 |
+| nyt | 0 | 0 | 21 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2800,3 +2800,4 @@
 - **Mar 15, 01:19 PM** - Raytheon contract for protected satellite communications terminals raised by $2 billion (spacenews)
 - **Mar 15, 01:54 PM** - ‘Don’t Worry About It’: NASA Satellite to Burn Up in Fall to Earth (nyt)
 - **Mar 15, 02:29 PM** - Another Earth raises $4 million to boost AI training with synthetic satellite data (spacenews)
+- **Mar 15, 03:04 PM** - Meteorite Crashes Through Roof in Germany After Fiery Light Show (nyt)
