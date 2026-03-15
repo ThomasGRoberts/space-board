@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-15T00:04:50.668874+00:00",
-    "trigger_count": 6,
-    "current_item_id": "199a7f3104e5ab4953c0ccc47176deca",
+    "trigger_count": 0,
+    "current_item_id": "e58124ce1cbdbf2b43bcbe9cffc8e933",
     "data": [
         {
             "id": "6f206d0cbba81f7e4e3562819477902f",
@@ -8291,6 +8291,18 @@
             "shown_at": [
                 "2025-12-31T12:59:02.537005Z",
                 "2026-01-01T22:04:24.145408Z"
+            ]
+        },
+        {
+            "id": "e58124ce1cbdbf2b43bcbe9cffc8e933",
+            "source": "spacenews",
+            "text": "Raytheon contract for protected satellite communications terminals raised by $2 billion",
+            "source_link": "https://spacenews.com/raytheon-contract-for-protected-satellite-communications-terminals-raised-by-2-billion/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-15T13:19:28.564471Z",
+            "shown_at": [
+                "2026-03-15T13:19:29.577030Z"
             ]
         }
     ]
