@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 7 | 20 | 42 |
+| spacenews | 3 | 8 | 21 | 43 |
 | nyt | 0 | 0 | 21 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2803,3 +2803,4 @@
 - **Mar 15, 03:04 PM** - Meteorite Crashes Through Roof in Germany After Fiery Light Show (nyt)
 - **Mar 15, 03:39 PM** - Strait of Hormuz crisis drives demand for commercial geospatial intelligence (spacenews)
 - **Mar 15, 04:14 PM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
+- **Mar 15, 04:49 PM** - OSTP taking on space policy coordination work in place of National Space Council (spacenews)
