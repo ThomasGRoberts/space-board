@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 6 | 20 | 42 |
+| spacenews | 2 | 7 | 21 | 43 |
 | nyt | 0 | 0 | 21 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2801,3 +2801,4 @@
 - **Mar 15, 01:54 PM** - ‘Don’t Worry About It’: NASA Satellite to Burn Up in Fall to Earth (nyt)
 - **Mar 15, 02:29 PM** - Another Earth raises $4 million to boost AI training with synthetic satellite data (spacenews)
 - **Mar 15, 03:04 PM** - Meteorite Crashes Through Roof in Germany After Fiery Light Show (nyt)
+- **Mar 15, 03:39 PM** - Strait of Hormuz crisis drives demand for commercial geospatial intelligence (spacenews)
