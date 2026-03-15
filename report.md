@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 6 | 20 | 42 |
-| nyt | 0 | 0 | 21 | 40 |
+| spacenews | 0 | 6 | 21 | 43 |
+| nyt | 0 | 0 | 20 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2795,3 +2795,4 @@
 - **Mar 15, 10:24 AM** - Meteorite Crashes Through Roof in Germany After Fiery Light Show (nyt)
 - **Mar 15, 10:59 AM** - Meridian Space Diplomacy Forum & Executive Space Training – March 25 & 26 (spacenews)
 - **Mar 15, 11:34 AM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
+- **Mar 15, 12:09 PM** - Starlab Space fully books commercial payload space on planned space station (spacenews)
