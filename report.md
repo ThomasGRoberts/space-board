@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 10 | 20 | 43 |
-| nyt | 0 | 0 | 21 | 39 |
+| spacenews | 0 | 9 | 21 | 43 |
+| nyt | 0 | 0 | 20 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2789,3 +2789,4 @@
 - **Mar 15, 06:54 AM** - ‘Don’t Worry About It’: NASA Satellite to Burn Up in Fall to Earth (nyt)
 - **Mar 15, 07:29 AM** - NASA disqualifies X-ray telescope from Probe mission competition (spacenews)
 - **Mar 15, 08:04 AM** - Meteorite Crashes Through Roof in Germany After Fiery Light Show (nyt)
+- **Mar 15, 08:39 AM** - Missile detection satellites designed by BAE Systems pass early review (spacenews)
