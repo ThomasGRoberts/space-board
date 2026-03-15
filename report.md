@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 7 | 20 | 42 |
+| spacenews | 3 | 7 | 21 | 43 |
 | nyt | 0 | 0 | 21 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2807,3 +2807,4 @@
 - **Mar 15, 05:24 PM** - Space Jam: NASA’s MADCAP Team Directs Traffic at the Moon (nyt)
 - **Mar 15, 05:59 PM** - Enpulsion raises $26 million (spacenews)
 - **Mar 15, 06:34 PM** - NASA Says Artemis II Moon Launch Is On Track for April 1 (nyt)
+- **Mar 15, 07:09 PM** - Viasat wins $14 million contract to provide in-flight satcom for Navy executive aircraft (spacenews)

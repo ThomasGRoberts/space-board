@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-15T00:04:50.668874+00:00",
-    "trigger_count": 6,
-    "current_item_id": "87de93fa19dfb9b0affe91d7aafbbd0f",
+    "trigger_count": 0,
+    "current_item_id": "2c22b46f4b115575c312322054864435",
     "data": [
         {
             "id": "6f206d0cbba81f7e4e3562819477902f",
@@ -449,7 +449,8 @@
             "fetched_datetime": "2026-03-10T23:04:52.168949Z",
             "shown_at": [
                 "2026-03-10T23:04:53.448551Z",
-                "2026-03-11T17:29:15.078516Z"
+                "2026-03-11T17:29:15.078516Z",
+                "2026-03-15T19:09:08.234703Z"
             ]
         },
         {
