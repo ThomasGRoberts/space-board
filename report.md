@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 7 | 21 | 42 |
-| nyt | 0 | 0 | 20 | 40 |
+| nyt | 0 | 0 | 21 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2804,3 +2804,4 @@
 - **Mar 15, 03:39 PM** - Strait of Hormuz crisis drives demand for commercial geospatial intelligence (spacenews)
 - **Mar 15, 04:14 PM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
 - **Mar 15, 04:49 PM** - OSTP taking on space policy coordination work in place of National Space Council (spacenews)
+- **Mar 15, 05:24 PM** - Space Jam: NASA’s MADCAP Team Directs Traffic at the Moon (nyt)
