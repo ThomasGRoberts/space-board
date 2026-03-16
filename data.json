@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-16T00:04:27.462996+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1db3a2ac272711a42755b86a3c17ecf2",
+    "trigger_count": 0,
+    "current_item_id": "4c420be0030632bc4341b94328e1ad64",
     "data": [
         {
             "id": "5f05d73f505d2f4c870aa079c17044c3",
@@ -8355,6 +8355,27 @@
             "shown_at": [
                 "2026-03-16T16:25:10.470969Z"
             ]
+        },
+        {
+            "id": "4c420be0030632bc4341b94328e1ad64",
+            "source": "spacenews",
+            "text": "Nvidia unveils AI computing module for space-based data centers",
+            "source_link": "https://spacenews.com/nvidia-unveils-ai-computing-module-for-space-based-data-centers/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-16T22:19:11.013694Z",
+            "shown_at": [
+                "2026-03-16T22:19:12.208054Z"
+            ]
+        },
+        {
+            "id": "e8ca5e9b185a1a88bb872c68fe447f73",
+            "source": "spacenews",
+            "text": "Kayrros sale signals rising demand for satellite intelligence amid Hormuz crisis",
+            "source_link": "https://spacenews.com/kayrros-sale-signals-rising-demand-for-satellite-intelligence-amid-hormuz-crisis/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-03-16T22:19:11.013763Z"
         }
     ]
 }
