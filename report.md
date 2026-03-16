@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 9 | 20 | 41 |
-| nyt | 1 | 1 | 20 | 40 |
+| nyt | 1 | 1 | 21 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2793,3 +2793,4 @@
 - **Mar 16, 07:59 PM** - iMetalX emerges from stealth with technology to model resident space objects (spacenews)
 - **Mar 16, 08:34 PM** - Space Jam: NASA’s MADCAP Team Directs Traffic at the Moon (nyt)
 - **Mar 16, 09:09 PM** - Space Force officially terminates AeroVironment contract for satellite control antennas (spacenews)
+- **Mar 16, 09:44 PM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
