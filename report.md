@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 4 | 20 | 41 |
+| spacenews | 4 | 4 | 21 | 42 |
 | nyt | 0 | 0 | 21 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2760,3 +2760,4 @@
 - **Mar 16, 12:29 AM** - NASA Says Artemis II Moon Launch Is On Track for April 1 (nyt)
 - **Mar 16, 01:04 AM** - Large Series C signals scale-up of China’s laser satellite communications sector (spacenews)
 - **Mar 16, 01:39 AM** - Space Jam: NASA’s MADCAP Team Directs Traffic at the Moon (nyt)
+- **Mar 16, 02:14 AM** - Mantis Space emerges from stealth with $10 million for solar-power constellation (spacenews)
