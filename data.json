@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-16T00:04:27.462996+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1db3a2ac272711a42755b86a3c17ecf2",
+    "trigger_count": 0,
+    "current_item_id": "6ab6ef3d2eff7bd726a5144ac856d4c5",
     "data": [
         {
             "id": "5f05d73f505d2f4c870aa079c17044c3",
@@ -8333,6 +8333,18 @@
             "fetched_datetime": "2026-03-16T15:14:45.935418Z",
             "shown_at": [
                 "2026-03-16T15:14:46.970778Z"
+            ]
+        },
+        {
+            "id": "6ab6ef3d2eff7bd726a5144ac856d4c5",
+            "source": "spacenews",
+            "text": "Melagen Labs and Satlyt Announce Joint ISS Mission to Demonstrate Radiation-Resilient In-Orbit Computing and Next-Gen Shielding",
+            "source_link": "https://spacenews.com/melagen-labs-and-satlyt-announce-joint-iss-mission-to-demonstrate-radiation-resilient-in-orbit-computing-and-next-gen-shielding/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-16T16:25:09.264663Z",
+            "shown_at": [
+                "2026-03-16T16:25:10.470969Z"
             ]
         }
     ]

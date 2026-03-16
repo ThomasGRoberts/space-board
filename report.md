@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 8 | 20 | 40 |
+| spacenews | 7 | 9 | 21 | 41 |
 | nyt | 1 | 1 | 20 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2784,3 +2784,4 @@
 - **Mar 16, 02:39 PM** - Meteorite Crashes Through Roof in Germany After Fiery Light Show (nyt)
 - **Mar 16, 03:14 PM** - Kepler Communications: Call for Live-Stream Payload Concepts (spacenews)
 - **Mar 16, 03:49 PM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
+- **Mar 16, 04:25 PM** - Melagen Labs and Satlyt Announce Joint ISS Mission to Demonstrate Radiation-Resilient In-Orbit Computing and Next-Gen Shielding (spacenews)
