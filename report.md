@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 4 | 21 | 41 |
-| nyt | 0 | 0 | 20 | 41 |
+| nyt | 0 | 0 | 21 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2757,3 +2757,4 @@
 - **Mar 15, 10:44 PM** - China ends month-long launch hiatus with separate Guowang and Shiyan-30 satellite missions (spacenews)
 - **Mar 15, 11:19 PM** - A Night Light in the Sky? Reflect Orbital Wants to Launch a Big Space Mirror. (nyt)
 - **Mar 15, 11:54 PM** - Starcloud files plans for 88,000-satellite constellation (spacenews)
+- **Mar 16, 12:29 AM** - NASA Says Artemis II Moon Launch Is On Track for April 1 (nyt)
