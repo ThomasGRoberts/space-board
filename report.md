@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 7 | 20 | 41 |
-| nyt | 1 | 1 | 20 | 40 |
+| nyt | 1 | 1 | 21 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2781,3 +2781,4 @@
 - **Mar 16, 12:54 PM** - ‘Don’t Worry About It’: NASA Satellite to Burn Up in Fall to Earth (nyt)
 - **Mar 16, 01:29 PM** - NASA disqualifies X-ray telescope from Probe mission competition (spacenews)
 - **Mar 16, 02:04 PM** - Investing in student programs is essential for America’s lead in space (spacenews)
+- **Mar 16, 02:39 PM** - Meteorite Crashes Through Roof in Germany After Fiery Light Show (nyt)
