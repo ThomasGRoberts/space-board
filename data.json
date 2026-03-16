@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-16T00:04:27.462996+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8439af3566caf9005c6e49e4cbaf31eb",
+    "trigger_count": 0,
+    "current_item_id": "d6caad19c3d01398f66a07d6cc53b05a",
     "data": [
         {
             "id": "5f05d73f505d2f4c870aa079c17044c3",
@@ -8307,6 +8307,18 @@
             "fetched_datetime": "2026-03-16T12:20:02.254519Z",
             "shown_at": [
                 "2026-03-16T12:20:03.999541Z"
+            ]
+        },
+        {
+            "id": "d6caad19c3d01398f66a07d6cc53b05a",
+            "source": "spacenews",
+            "text": "Investing in student programs is essential for America’s lead in space",
+            "source_link": "https://spacenews.com/investing-in-student-programs-is-essential-for-americas-lead-in-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-16T14:04:49.426365Z",
+            "shown_at": [
+                "2026-03-16T14:04:50.541434Z"
             ]
         }
     ]
