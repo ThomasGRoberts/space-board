@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-16T00:04:27.462996+00:00",
-    "trigger_count": 6,
-    "current_item_id": "da692e452b391803f72bc9cbfc588b58",
+    "trigger_count": 0,
+    "current_item_id": "82399f26b342e1f52f39a803fa370c51",
     "data": [
         {
             "id": "5f05d73f505d2f4c870aa079c17044c3",
@@ -8293,6 +8293,18 @@
             "fetched_datetime": "2026-03-16T11:05:28.487962Z",
             "shown_at": [
                 "2026-03-16T11:05:30.412213Z"
+            ]
+        },
+        {
+            "id": "82399f26b342e1f52f39a803fa370c51",
+            "source": "spacenews",
+            "text": "New Moog Innovations for the Satellite Market on Full Display at SATELLITE 2026 Conference",
+            "source_link": "https://spacenews.com/new-moog-innovations-for-the-satellite-market-on-full-display-at-satellite-2026-conference/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-16T12:20:02.254519Z",
+            "shown_at": [
+                "2026-03-16T12:20:03.999541Z"
             ]
         }
     ]

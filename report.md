@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 5 | 19 | 40 |
+| spacenews | 6 | 6 | 20 | 41 |
 | nyt | 1 | 1 | 21 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2777,3 +2777,4 @@
 - **Mar 16, 10:29 AM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
 - **Mar 16, 11:05 AM** - China launches new highly retrograde Yaogan satellite, KZ-11 rideshare deploys 8 satellites (spacenews)
 - **Mar 16, 11:44 AM** - A Night Light in the Sky? Reflect Orbital Wants to Launch a Big Space Mirror. (nyt)
+- **Mar 16, 12:20 PM** - New Moog Innovations for the Satellite Market on Full Display at SATELLITE 2026 Conference (spacenews)
