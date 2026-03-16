@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-16T00:04:27.462996+00:00",
-    "trigger_count": 6,
-    "current_item_id": "199a7f3104e5ab4953c0ccc47176deca",
+    "trigger_count": 0,
+    "current_item_id": "da8778050d37c33d2133faee25c68983",
     "data": [
         {
             "id": "5f05d73f505d2f4c870aa079c17044c3",
@@ -8320,6 +8320,18 @@
             "fetched_datetime": "2026-03-16T14:04:49.426365Z",
             "shown_at": [
                 "2026-03-16T14:04:50.541434Z"
+            ]
+        },
+        {
+            "id": "da8778050d37c33d2133faee25c68983",
+            "source": "spacenews",
+            "text": "Kepler Communications: Call for Live-Stream Payload Concepts",
+            "source_link": "https://spacenews.com/kepler-communications-call-for-live-stream-payload-concepts/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-16T15:14:45.935418Z",
+            "shown_at": [
+                "2026-03-16T15:14:46.970778Z"
             ]
         }
     ]
