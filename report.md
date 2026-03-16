@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 4 | 20 | 40 |
-| nyt | 0 | 0 | 21 | 41 |
+| nyt | 1 | 1 | 21 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2772,3 +2772,4 @@
 - **Mar 16, 07:34 AM** - Space Jam: NASA’s MADCAP Team Directs Traffic at the Moon (nyt)
 - **Mar 16, 08:09 AM** - Enpulsion raises $26 million (spacenews)
 - **Mar 16, 08:44 AM** - NASA Says Artemis II Moon Launch Is On Track for April 1 (nyt)
+- **Mar 16, 09:19 AM** - Spaceflight Started 100 Years Ago in a Massachusetts Cabbage Patch (nyt)

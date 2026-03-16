@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-16T00:04:27.462996+00:00",
-    "trigger_count": 6,
-    "current_item_id": "87de93fa19dfb9b0affe91d7aafbbd0f",
+    "trigger_count": 0,
+    "current_item_id": "69a03be2925cdf5849e9922639327e58",
     "data": [
         {
             "id": "5f05d73f505d2f4c870aa079c17044c3",
@@ -8266,6 +8266,18 @@
                 "2026-01-08T05:24:08.172359Z",
                 "2026-01-08T07:09:14.992935Z",
                 "2026-01-08T08:54:02.978282Z"
+            ]
+        },
+        {
+            "id": "69a03be2925cdf5849e9922639327e58",
+            "source": "nyt",
+            "text": "Spaceflight Started 100 Years Ago in a Massachusetts Cabbage Patch",
+            "source_link": "https://www.nytimes.com/2026/03/16/science/robert-goddard-rocket-100th-anniversary.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-16T09:19:50.321430Z",
+            "shown_at": [
+                "2026-03-16T09:19:51.216729Z"
             ]
         }
     ]
