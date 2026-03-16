@@ -1,9 +1,57 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-03-15T00:04:50.668874+00:00",
-    "trigger_count": 1,
+    "last_run_datetime": "2026-03-16T00:04:27.462996+00:00",
+    "trigger_count": 2,
     "current_item_id": "5f05d73f505d2f4c870aa079c17044c3",
     "data": [
+        {
+            "id": "5f05d73f505d2f4c870aa079c17044c3",
+            "source": "spacenews",
+            "text": "Starcloud files plans for 88,000-satellite constellation",
+            "source_link": "https://spacenews.com/starcloud-files-plans-for-88000-satellite-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-15T23:54:28.410386Z",
+            "shown_at": [
+                "2026-03-15T23:54:29.450429Z"
+            ]
+        },
+        {
+            "id": "e3fe757ee74deb1cc36a2bfbc26f8d61",
+            "source": "spacenews",
+            "text": "OSTP taking on space policy coordination work in place of National Space Council",
+            "source_link": "https://spacenews.com/ostp-taking-on-space-policy-coordination-work-in-place-of-national-space-council/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-15T16:49:06.089269Z",
+            "shown_at": [
+                "2026-03-15T16:49:07.065882Z"
+            ]
+        },
+        {
+            "id": "959aa8fca18aa803e58ae26d491b716b",
+            "source": "spacenews",
+            "text": "Strait of Hormuz crisis drives demand for commercial geospatial intelligence",
+            "source_link": "https://spacenews.com/strait-of-hormuz-crisis-drives-demand-for-commercial-geospatial-intelligence/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-15T15:39:08.078695Z",
+            "shown_at": [
+                "2026-03-15T15:39:09.074744Z"
+            ]
+        },
+        {
+            "id": "e58124ce1cbdbf2b43bcbe9cffc8e933",
+            "source": "spacenews",
+            "text": "Raytheon contract for protected satellite communications terminals raised by $2 billion",
+            "source_link": "https://spacenews.com/raytheon-contract-for-protected-satellite-communications-terminals-raised-by-2-billion/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-15T13:19:28.564471Z",
+            "shown_at": [
+                "2026-03-15T13:19:29.577030Z"
+            ]
+        },
         {
             "id": "6f206d0cbba81f7e4e3562819477902f",
             "source": "spacenews",
@@ -8203,157 +8251,6 @@
                 "2026-01-08T05:24:08.172359Z",
                 "2026-01-08T07:09:14.992935Z",
                 "2026-01-08T08:54:02.978282Z"
-            ]
-        },
-        {
-            "id": "aaa508e6b1e51adee0325bc9a8389f58",
-            "source": "spacenews",
-            "text": "Landspace targets $1 billion for reusable rockets as IPO application accepted",
-            "source_link": "https://spacenews.com/landspace-targets-1-billion-for-reusable-rockets-as-ipo-application-accepted/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-01T00:49:19.766811Z",
-            "shown_at": [
-                "2026-01-01T00:49:20.260580Z",
-                "2026-01-01T07:54:49.536178Z",
-                "2026-01-02T10:24:15.104318Z",
-                "2026-01-03T16:01:26.913138Z",
-                "2026-01-06T06:43:58.931660Z",
-                "2026-01-06T12:06:27.326762Z",
-                "2026-01-06T20:14:20.926005Z"
-            ]
-        },
-        {
-            "id": "ddf52662058b214649a83fe8aba5a9f7",
-            "source": "spacenews",
-            "text": "Heliophysics missions move toward operations",
-            "source_link": "https://spacenews.com/heliophysics-missions-move-toward-operations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-12-31T23:34:19.688044Z",
-            "shown_at": [
-                "2025-12-31T23:34:20.293547Z",
-                "2026-01-01T11:29:01.224143Z",
-                "2026-01-02T08:39:09.807979Z",
-                "2026-01-04T02:54:21.079502Z",
-                "2026-01-05T16:54:46.664193Z",
-                "2026-01-06T04:54:20.879940Z",
-                "2026-01-06T23:44:18.993141Z"
-            ]
-        },
-        {
-            "id": "efead351ef93d26af40e82e046ea9557",
-            "source": "breaking_defense",
-            "text": "Europe’s time to shine in space? 2026 preview",
-            "source_link": "https://breakingdefense.com/2025/12/europes-time-to-shine-in-space-2026-preview/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-12-31T18:19:28.202530Z",
-            "shown_at": [
-                "2025-12-31T18:19:29.006803Z",
-                "2025-12-31T20:04:21.360995Z",
-                "2026-01-01T00:09:04.733646Z",
-                "2026-01-01T03:44:15.311201Z",
-                "2026-01-01T07:19:08.138879Z",
-                "2026-01-01T09:04:35.743379Z",
-                "2026-01-01T10:49:12.584155Z",
-                "2026-01-01T17:54:15.375284Z",
-                "2026-01-01T19:39:43.243032Z",
-                "2026-01-01T23:14:12.505823Z",
-                "2026-01-02T00:58:54.627421Z",
-                "2026-01-02T02:44:05.427278Z",
-                "2026-01-02T06:14:23.804036Z",
-                "2026-01-02T08:04:47.874645Z",
-                "2026-01-02T13:24:37.995543Z",
-                "2026-01-02T15:14:33.910314Z",
-                "2026-01-02T21:14:25.103340Z",
-                "2026-01-02T22:59:09.154781Z",
-                "2026-01-03T00:44:06.700312Z",
-                "2026-01-03T04:14:19.765645Z",
-                "2026-01-03T05:59:02.411424Z",
-                "2026-01-03T07:44:15.486393Z",
-                "2026-01-03T09:34:32.874394Z",
-                "2026-01-03T20:24:18.877073Z",
-                "2026-01-03T23:19:25.924816Z",
-                "2026-01-04T03:29:05.727321Z",
-                "2026-01-04T05:14:10.667732Z",
-                "2026-01-04T06:59:19.848756Z",
-                "2026-01-04T08:44:16.833350Z",
-                "2026-01-04T10:29:04.008366Z",
-                "2026-01-04T15:49:22.233951Z",
-                "2026-01-04T17:34:21.671734Z",
-                "2026-01-04T21:04:33.055597Z",
-                "2026-01-05T00:39:07.441312Z",
-                "2026-01-05T04:19:09.627189Z",
-                "2026-01-05T07:54:07.736407Z",
-                "2026-01-05T11:00:23.155813Z",
-                "2026-01-05T17:29:21.265551Z",
-                "2026-01-06T05:28:56.052915Z",
-                "2026-01-06T21:24:17.606691Z",
-                "2026-01-07T01:34:07.724941Z",
-                "2026-01-07T03:24:06.325773Z",
-                "2026-01-07T08:59:03.181002Z"
-            ]
-        },
-        {
-            "id": "d835a0c0316a5c2bd0dc7abaf5651b17",
-            "source": "spacenews",
-            "text": "China to debut reusable Long March 10-derived rocket in first half of 2026",
-            "source_link": "https://spacenews.com/china-to-debut-reusable-long-march-10-derived-rocket-in-first-half-of-2026/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2025-12-31T12:59:01.781941Z",
-            "shown_at": [
-                "2025-12-31T12:59:02.537005Z",
-                "2026-01-01T22:04:24.145408Z"
-            ]
-        },
-        {
-            "id": "e58124ce1cbdbf2b43bcbe9cffc8e933",
-            "source": "spacenews",
-            "text": "Raytheon contract for protected satellite communications terminals raised by $2 billion",
-            "source_link": "https://spacenews.com/raytheon-contract-for-protected-satellite-communications-terminals-raised-by-2-billion/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-15T13:19:28.564471Z",
-            "shown_at": [
-                "2026-03-15T13:19:29.577030Z"
-            ]
-        },
-        {
-            "id": "959aa8fca18aa803e58ae26d491b716b",
-            "source": "spacenews",
-            "text": "Strait of Hormuz crisis drives demand for commercial geospatial intelligence",
-            "source_link": "https://spacenews.com/strait-of-hormuz-crisis-drives-demand-for-commercial-geospatial-intelligence/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-15T15:39:08.078695Z",
-            "shown_at": [
-                "2026-03-15T15:39:09.074744Z"
-            ]
-        },
-        {
-            "id": "e3fe757ee74deb1cc36a2bfbc26f8d61",
-            "source": "spacenews",
-            "text": "OSTP taking on space policy coordination work in place of National Space Council",
-            "source_link": "https://spacenews.com/ostp-taking-on-space-policy-coordination-work-in-place-of-national-space-council/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-15T16:49:06.089269Z",
-            "shown_at": [
-                "2026-03-15T16:49:07.065882Z"
-            ]
-        },
-        {
-            "id": "5f05d73f505d2f4c870aa079c17044c3",
-            "source": "spacenews",
-            "text": "Starcloud files plans for 88,000-satellite constellation",
-            "source_link": "https://spacenews.com/starcloud-files-plans-for-88000-satellite-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-15T23:54:28.410386Z",
-            "shown_at": [
-                "2026-03-15T23:54:29.450429Z"
             ]
         }
     ]
