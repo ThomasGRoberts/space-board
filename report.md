@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 4 | 20 | 41 |
-| nyt | 0 | 0 | 21 | 41 |
+| spacenews | 4 | 4 | 21 | 42 |
+| nyt | 0 | 0 | 20 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2764,3 +2764,4 @@
 - **Mar 16, 02:49 AM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
 - **Mar 16, 03:24 AM** - Suspended NOAA satellite chief warns of threats to federal science programs (spacenews)
 - **Mar 16, 03:59 AM** - Space Jam: NASA’s MADCAP Team Directs Traffic at the Moon (nyt)
+- **Mar 16, 04:34 AM** - Viasat wins $14 million contract to provide in-flight satcom for Navy executive aircraft (spacenews)
