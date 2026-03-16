@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 4 | 20 | 41 |
+| spacenews | 4 | 4 | 21 | 41 |
 | nyt | 0 | 0 | 21 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2768,3 +2768,4 @@
 - **Mar 16, 05:09 AM** - NASA Says Artemis II Moon Launch Is On Track for April 1 (nyt)
 - **Mar 16, 05:44 AM** - First Starship V3 launch slips (spacenews)
 - **Mar 16, 06:19 AM** - Space Jam: NASA’s MADCAP Team Directs Traffic at the Moon (nyt)
+- **Mar 16, 06:54 AM** - iMetalX emerges from stealth with technology to model resident space objects (spacenews)
