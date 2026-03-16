@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 11 | 20 | 41 |
+| spacenews | 8 | 11 | 21 | 42 |
 | nyt | 1 | 1 | 20 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2795,3 +2795,4 @@
 - **Mar 16, 09:09 PM** - Space Force officially terminates AeroVironment contract for satellite control antennas (spacenews)
 - **Mar 16, 09:44 PM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
 - **Mar 16, 10:19 PM** - Nvidia unveils AI computing module for space-based data centers (spacenews)
+- **Mar 16, 10:54 PM** - Kayrros sale signals rising demand for satellite intelligence amid Hormuz crisis (spacenews)
