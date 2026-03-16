@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 4 | 20 | 40 |
+| spacenews | 5 | 5 | 20 | 41 |
 | nyt | 1 | 1 | 21 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2775,3 +2775,4 @@
 - **Mar 16, 09:19 AM** - Spaceflight Started 100 Years Ago in a Massachusetts Cabbage Patch (nyt)
 - **Mar 16, 09:54 AM** - Ukraine will host first test for Leonardo’s Michelangelo security dome (spacenews)
 - **Mar 16, 10:29 AM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
+- **Mar 16, 11:05 AM** - China launches new highly retrograde Yaogan satellite, KZ-11 rideshare deploys 8 satellites (spacenews)

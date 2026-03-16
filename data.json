@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-16T00:04:27.462996+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1db3a2ac272711a42755b86a3c17ecf2",
+    "trigger_count": 0,
+    "current_item_id": "bd61853d2c7029c5bed855588f720ecc",
     "data": [
         {
             "id": "5f05d73f505d2f4c870aa079c17044c3",
@@ -8280,6 +8280,18 @@
             "fetched_datetime": "2026-03-16T09:19:50.321430Z",
             "shown_at": [
                 "2026-03-16T09:19:51.216729Z"
+            ]
+        },
+        {
+            "id": "bd61853d2c7029c5bed855588f720ecc",
+            "source": "spacenews",
+            "text": "China launches new highly retrograde Yaogan satellite, KZ-11 rideshare deploys 8 satellites",
+            "source_link": "https://spacenews.com/china-launches-new-highly-retrograde-yaogan-satellite-kz-11-rideshare-deploys-8-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-16T11:05:28.487962Z",
+            "shown_at": [
+                "2026-03-16T11:05:30.412213Z"
             ]
         }
     ]
