@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 23 | 44 |
-| nyt | 0 | 1 | 17 | 37 |
+| nyt | 0 | 1 | 18 | 38 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2744,3 +2744,4 @@
 - **Mar 17, 06:24 PM** - Missile strike hits SES teleport in Israel (spacenews)
 - **Mar 17, 06:59 PM** - Golden Dome cost estimate rises to $185 billion as Pentagon expands space layer (spacenews)
 - **Mar 17, 07:34 PM** - Space boom strains supply chain, industry report warns (spacenews)
+- **Mar 17, 08:09 PM** - Spaceflight Started 100 Years Ago in a Massachusetts Cabbage Patch (nyt)
