@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-17T00:04:33.540096+00:00",
-    "trigger_count": 6,
-    "current_item_id": "bdf13929173f921a38b956d71db96641",
+    "trigger_count": 0,
+    "current_item_id": "0b5390859274e3ba6a2bbe20e586b6f6",
     "data": [
         {
             "id": "e8ca5e9b185a1a88bb872c68fe447f73",
@@ -8242,9 +8242,12 @@
             "source": "spacenews",
             "text": "Innospace completes investigation into Hanbit-Nano launch failure",
             "source_link": "https://spacenews.com/innospace-completes-investigation-into-hanbit-nano-launch-failure/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-03-17T11:14:30.333910Z"
+            "fetched_datetime": "2026-03-17T11:14:30.333910Z",
+            "shown_at": [
+                "2026-03-17T11:49:31.433426Z"
+            ]
         }
     ]
 }
