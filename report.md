@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 13 | 22 | 42 |
-| nyt | 0 | 1 | 19 | 39 |
+| spacenews | 7 | 13 | 23 | 43 |
+| nyt | 0 | 1 | 18 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2735,3 +2735,4 @@
 - **Mar 17, 12:59 PM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
 - **Mar 17, 01:34 PM** - Nvidia unveils AI computing module for space-based data centers (spacenews)
 - **Mar 17, 02:09 PM** - Spaceflight Started 100 Years Ago in a Massachusetts Cabbage Patch (nyt)
+- **Mar 17, 02:44 PM** - Astranis taps retired Gen. John Hyten to lead advisory board  (spacenews)
