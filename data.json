@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-17T00:04:33.540096+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1bfe6ffa9659f20093494eae443c7743",
+    "trigger_count": 0,
+    "current_item_id": "f4594b87cfba0afc1d68ebdae3ca36fb",
     "data": [
         {
             "id": "e8ca5e9b185a1a88bb872c68fe447f73",
@@ -8280,6 +8280,18 @@
             "fetched_datetime": "2026-03-17T17:09:10.629455Z",
             "shown_at": [
                 "2026-03-17T17:09:12.027561Z"
+            ]
+        },
+        {
+            "id": "f4594b87cfba0afc1d68ebdae3ca36fb",
+            "source": "spacenews",
+            "text": "Golden Dome cost estimate rises to $185 billion as Pentagon expands space layer",
+            "source_link": "https://spacenews.com/golden-dome-cost-estimate-rises-to-185-billion-as-pentagon-expands-space-layer/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-17T18:59:28.998721Z",
+            "shown_at": [
+                "2026-03-17T18:59:30.160098Z"
             ]
         }
     ]
