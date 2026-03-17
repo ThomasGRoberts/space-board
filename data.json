@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-17T00:04:33.540096+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f4594b87cfba0afc1d68ebdae3ca36fb",
+    "trigger_count": 0,
+    "current_item_id": "308004edec633ca04e05d88495d3befb",
     "data": [
         {
             "id": "e8ca5e9b185a1a88bb872c68fe447f73",
@@ -8292,6 +8292,18 @@
             "fetched_datetime": "2026-03-17T18:59:28.998721Z",
             "shown_at": [
                 "2026-03-17T18:59:30.160098Z"
+            ]
+        },
+        {
+            "id": "308004edec633ca04e05d88495d3befb",
+            "source": "spacenews",
+            "text": "Space boom strains supply chain, industry report warns",
+            "source_link": "https://spacenews.com/space-boom-strains-supply-chain-industry-report-warns/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-17T19:34:45.845669Z",
+            "shown_at": [
+                "2026-03-17T19:34:46.877357Z"
             ]
         }
     ]

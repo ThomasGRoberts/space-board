@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 13 | 23 | 43 |
+| spacenews | 8 | 14 | 24 | 44 |
 | nyt | 0 | 1 | 17 | 38 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2743,3 +2743,4 @@
 - **Mar 17, 05:44 PM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
 - **Mar 17, 06:24 PM** - Missile strike hits SES teleport in Israel (spacenews)
 - **Mar 17, 06:59 PM** - Golden Dome cost estimate rises to $185 billion as Pentagon expands space layer (spacenews)
+- **Mar 17, 07:34 PM** - Space boom strains supply chain, industry report warns (spacenews)
