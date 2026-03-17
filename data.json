@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-17T00:04:33.540096+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0b5390859274e3ba6a2bbe20e586b6f6",
+    "trigger_count": 0,
+    "current_item_id": "2cfad31296cdd71aa7d06c2398fc575e",
     "data": [
         {
             "id": "e8ca5e9b185a1a88bb872c68fe447f73",
@@ -8247,6 +8247,18 @@
             "fetched_datetime": "2026-03-17T11:14:30.333910Z",
             "shown_at": [
                 "2026-03-17T11:49:31.433426Z"
+            ]
+        },
+        {
+            "id": "2cfad31296cdd71aa7d06c2398fc575e",
+            "source": "spacenews",
+            "text": "Canadian military invests in sovereign launch",
+            "source_link": "https://spacenews.com/canadian-military-invests-in-sovereign-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-17T12:24:20.372570Z",
+            "shown_at": [
+                "2026-03-17T12:24:21.725979Z"
             ]
         }
     ]
