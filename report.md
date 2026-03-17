@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 22 | 43 |
-| nyt | 0 | 1 | 18 | 38 |
+| nyt | 0 | 1 | 19 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2738,3 +2738,4 @@
 - **Mar 17, 02:44 PM** - Astranis taps retired Gen. John Hyten to lead advisory board  (spacenews)
 - **Mar 17, 03:19 PM** - Space Jam: NASA’s MADCAP Team Directs Traffic at the Moon (nyt)
 - **Mar 17, 04:00 PM** - Melagen Labs and Satlyt Announce Joint ISS Mission to Demonstrate Radiation-Resilient In-Orbit Computing and Next-Gen Shielding (spacenews)
+- **Mar 17, 04:34 PM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
