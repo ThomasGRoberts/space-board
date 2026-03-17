@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 22 | 42 |
+| spacenews | 6 | 12 | 23 | 43 |
 | nyt | 0 | 1 | 18 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2741,3 +2741,4 @@
 - **Mar 17, 04:34 PM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
 - **Mar 17, 05:09 PM** - ISPTech Raises €5.5M Seed Round to Redefine How Spacecraft Manoeuvre in Orbit (spacenews)
 - **Mar 17, 05:44 PM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
+- **Mar 17, 06:24 PM** - Missile strike hits SES teleport in Israel (spacenews)
