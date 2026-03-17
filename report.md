@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 24 | 45 |
-| nyt | 0 | 1 | 16 | 36 |
+| nyt | 0 | 1 | 17 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2748,3 +2748,4 @@
 - **Mar 17, 08:44 PM** - Viasat wins $14 million contract to provide in-flight satcom for Navy executive aircraft (spacenews)
 - **Mar 17, 09:19 PM** - Office of Space Commerce weighing options for TraCSS user fees (spacenews)
 - **Mar 17, 09:54 PM** - Telesat pivots Lightspeed toward defense as delays push global service to 2028 (spacenews)
+- **Mar 17, 10:29 PM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
