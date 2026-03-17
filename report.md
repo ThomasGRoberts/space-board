@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 11 | 20 | 41 |
+| spacenews | 7 | 11 | 21 | 42 |
 | nyt | 1 | 1 | 20 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2722,3 +2722,4 @@
 - **Mar 17, 05:19 AM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
 - **Mar 17, 05:54 AM** - Viasat wins $14 million contract to provide in-flight satcom for Navy executive aircraft (spacenews)
 - **Mar 17, 06:29 AM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
+- **Mar 17, 07:04 AM** - Impulse Space expands Colorado presence (spacenews)
