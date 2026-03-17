@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-17T00:04:33.540096+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1db3a2ac272711a42755b86a3c17ecf2",
+    "trigger_count": 0,
+    "current_item_id": "2bcda671de4eea39061f382b07da1679",
     "data": [
         {
             "id": "e8ca5e9b185a1a88bb872c68fe447f73",
@@ -8266,6 +8266,18 @@
             "fetched_datetime": "2026-03-17T12:24:20.372570Z",
             "shown_at": [
                 "2026-03-17T12:24:21.725979Z"
+            ]
+        },
+        {
+            "id": "2bcda671de4eea39061f382b07da1679",
+            "source": "spacenews",
+            "text": "ISPTech Raises €5.5M Seed Round to Redefine How Spacecraft Manoeuvre in Orbit",
+            "source_link": "https://spacenews.com/isptech-raises-e5-5m-seed-round-to-redefine-how-spacecraft-manoeuvre-in-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-17T17:09:10.629455Z",
+            "shown_at": [
+                "2026-03-17T17:09:12.027561Z"
             ]
         }
     ]
