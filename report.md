@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 15 | 24 | 44 |
+| spacenews | 10 | 16 | 25 | 45 |
 | nyt | 0 | 1 | 16 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2747,3 +2747,4 @@
 - **Mar 17, 08:09 PM** - Spaceflight Started 100 Years Ago in a Massachusetts Cabbage Patch (nyt)
 - **Mar 17, 08:44 PM** - Viasat wins $14 million contract to provide in-flight satcom for Navy executive aircraft (spacenews)
 - **Mar 17, 09:19 PM** - Office of Space Commerce weighing options for TraCSS user fees (spacenews)
+- **Mar 17, 09:54 PM** - Telesat pivots Lightspeed toward defense as delays push global service to 2028 (spacenews)

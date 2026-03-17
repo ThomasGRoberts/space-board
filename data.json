@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-17T00:04:33.540096+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ecb58214fcd1192cfbf4946a6784ca8e",
+    "trigger_count": 0,
+    "current_item_id": "800af7389cbe9f47d421935b39a26ece",
     "data": [
         {
             "id": "e8ca5e9b185a1a88bb872c68fe447f73",
@@ -8318,6 +8318,18 @@
             "fetched_datetime": "2026-03-17T21:19:25.854671Z",
             "shown_at": [
                 "2026-03-17T21:19:27.039447Z"
+            ]
+        },
+        {
+            "id": "800af7389cbe9f47d421935b39a26ece",
+            "source": "spacenews",
+            "text": "Telesat pivots Lightspeed toward defense as delays push global service to 2028",
+            "source_link": "https://spacenews.com/telesat-pivots-lightspeed-toward-defense-as-delays-push-global-service-to-2028/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-17T21:54:29.669704Z",
+            "shown_at": [
+                "2026-03-17T21:54:31.149121Z"
             ]
         }
     ]
