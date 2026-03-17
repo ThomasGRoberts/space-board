@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 11 | 21 | 41 |
+| spacenews | 8 | 13 | 22 | 42 |
 | nyt | 0 | 1 | 19 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2729,3 +2729,4 @@
 - **Mar 17, 09:24 AM** - Ukraine will host first test for Leonardo’s Michelangelo security dome (spacenews)
 - **Mar 17, 09:59 AM** - NASA Says Artemis II Moon Launch Is On Track for April 1 (nyt)
 - **Mar 17, 10:34 AM** - Landspace tests 220-ton methane engine for future heavy-lift launchers (spacenews)
+- **Mar 17, 11:14 AM** - An astronaut’s tiny stand-in: tissue chips in space health (spacenews)
