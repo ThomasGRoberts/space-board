@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 11 | 20 | 41 |
+| spacenews | 7 | 11 | 21 | 42 |
 | nyt | 1 | 1 | 20 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2714,3 +2714,4 @@
 - **Mar 17, 12:39 AM** - Spaceflight Started 100 Years Ago in a Massachusetts Cabbage Patch (nyt)
 - **Mar 17, 01:14 AM** - Kepler Communications: Call for Live-Stream Payload Concepts (spacenews)
 - **Mar 17, 01:49 AM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
+- **Mar 17, 02:24 AM** - Astranis taps retired Gen. John Hyten to lead advisory board  (spacenews)
