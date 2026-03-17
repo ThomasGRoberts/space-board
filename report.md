@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 11 | 21 | 41 |
+| spacenews | 7 | 11 | 22 | 42 |
 | nyt | 0 | 1 | 19 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2728,3 +2728,4 @@
 - **Mar 17, 08:49 AM** - Space Jam: NASA’s MADCAP Team Directs Traffic at the Moon (nyt)
 - **Mar 17, 09:24 AM** - Ukraine will host first test for Leonardo’s Michelangelo security dome (spacenews)
 - **Mar 17, 09:59 AM** - NASA Says Artemis II Moon Launch Is On Track for April 1 (nyt)
+- **Mar 17, 10:34 AM** - Landspace tests 220-ton methane engine for future heavy-lift launchers (spacenews)
