@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 13 | 23 | 42 |
+| spacenews | 8 | 13 | 23 | 43 |
 | nyt | 0 | 1 | 18 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2733,3 +2733,4 @@
 - **Mar 17, 11:49 AM** - Innospace completes investigation into Hanbit-Nano launch failure (spacenews)
 - **Mar 17, 12:24 PM** - Canadian military invests in sovereign launch (spacenews)
 - **Mar 17, 12:59 PM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
+- **Mar 17, 01:34 PM** - Nvidia unveils AI computing module for space-based data centers (spacenews)
