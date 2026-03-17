@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 11 | 21 | 41 |
-| nyt | 1 | 1 | 19 | 40 |
+| nyt | 1 | 1 | 20 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2717,3 +2717,4 @@
 - **Mar 17, 02:24 AM** - Astranis taps retired Gen. John Hyten to lead advisory board  (spacenews)
 - **Mar 17, 02:59 AM** - Spaceflight Started 100 Years Ago in a Massachusetts Cabbage Patch (nyt)
 - **Mar 17, 03:34 AM** - Enpulsion raises $26 million (spacenews)
+- **Mar 17, 04:09 AM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
