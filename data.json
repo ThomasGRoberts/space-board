@@ -1,9 +1,106 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-03-16T00:04:27.462996+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6541931490003bdec208bc6237b84bbd",
+    "last_run_datetime": "2026-03-17T00:04:33.540096+00:00",
+    "trigger_count": 0,
+    "current_item_id": "1bfe6ffa9659f20093494eae443c7743",
     "data": [
+        {
+            "id": "e8ca5e9b185a1a88bb872c68fe447f73",
+            "source": "spacenews",
+            "text": "Kayrros sale signals rising demand for satellite intelligence amid Hormuz crisis",
+            "source_link": "https://spacenews.com/kayrros-sale-signals-rising-demand-for-satellite-intelligence-amid-hormuz-crisis/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-16T22:19:11.013763Z",
+            "shown_at": [
+                "2026-03-16T22:54:22.805098Z"
+            ]
+        },
+        {
+            "id": "4c420be0030632bc4341b94328e1ad64",
+            "source": "spacenews",
+            "text": "Nvidia unveils AI computing module for space-based data centers",
+            "source_link": "https://spacenews.com/nvidia-unveils-ai-computing-module-for-space-based-data-centers/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-16T22:19:11.013694Z",
+            "shown_at": [
+                "2026-03-16T22:19:12.208054Z"
+            ]
+        },
+        {
+            "id": "6ab6ef3d2eff7bd726a5144ac856d4c5",
+            "source": "spacenews",
+            "text": "Melagen Labs and Satlyt Announce Joint ISS Mission to Demonstrate Radiation-Resilient In-Orbit Computing and Next-Gen Shielding",
+            "source_link": "https://spacenews.com/melagen-labs-and-satlyt-announce-joint-iss-mission-to-demonstrate-radiation-resilient-in-orbit-computing-and-next-gen-shielding/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-16T16:25:09.264663Z",
+            "shown_at": [
+                "2026-03-16T16:25:10.470969Z"
+            ]
+        },
+        {
+            "id": "da8778050d37c33d2133faee25c68983",
+            "source": "spacenews",
+            "text": "Kepler Communications: Call for Live-Stream Payload Concepts",
+            "source_link": "https://spacenews.com/kepler-communications-call-for-live-stream-payload-concepts/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-16T15:14:45.935418Z",
+            "shown_at": [
+                "2026-03-16T15:14:46.970778Z"
+            ]
+        },
+        {
+            "id": "d6caad19c3d01398f66a07d6cc53b05a",
+            "source": "spacenews",
+            "text": "Investing in student programs is essential for America’s lead in space",
+            "source_link": "https://spacenews.com/investing-in-student-programs-is-essential-for-americas-lead-in-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-16T14:04:49.426365Z",
+            "shown_at": [
+                "2026-03-16T14:04:50.541434Z"
+            ]
+        },
+        {
+            "id": "82399f26b342e1f52f39a803fa370c51",
+            "source": "spacenews",
+            "text": "New Moog Innovations for the Satellite Market on Full Display at SATELLITE 2026 Conference",
+            "source_link": "https://spacenews.com/new-moog-innovations-for-the-satellite-market-on-full-display-at-satellite-2026-conference/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-16T12:20:02.254519Z",
+            "shown_at": [
+                "2026-03-16T12:20:03.999541Z",
+                "2026-03-16T17:34:39.965991Z"
+            ]
+        },
+        {
+            "id": "bd61853d2c7029c5bed855588f720ecc",
+            "source": "spacenews",
+            "text": "China launches new highly retrograde Yaogan satellite, KZ-11 rideshare deploys 8 satellites",
+            "source_link": "https://spacenews.com/china-launches-new-highly-retrograde-yaogan-satellite-kz-11-rideshare-deploys-8-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-16T11:05:28.487962Z",
+            "shown_at": [
+                "2026-03-16T11:05:30.412213Z"
+            ]
+        },
+        {
+            "id": "69a03be2925cdf5849e9922639327e58",
+            "source": "nyt",
+            "text": "Spaceflight Started 100 Years Ago in a Massachusetts Cabbage Patch",
+            "source_link": "https://www.nytimes.com/2026/03/16/science/robert-goddard-rocket-100th-anniversary.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-16T09:19:50.321430Z",
+            "shown_at": [
+                "2026-03-16T09:19:51.216729Z"
+            ]
+        },
         {
             "id": "5f05d73f505d2f4c870aa079c17044c3",
             "source": "spacenews",
@@ -414,7 +511,8 @@
             "shown_at": [
                 "2026-03-11T19:14:16.174854Z",
                 "2026-03-12T07:19:28.632000Z",
-                "2026-03-14T03:24:43.224009Z"
+                "2026-03-14T03:24:43.224009Z",
+                "2026-03-17T00:04:39.487026Z"
             ]
         },
         {
@@ -8107,278 +8205,6 @@
             "fetched_datetime": "2026-01-04T05:49:04.069917Z",
             "shown_at": [
                 "2026-01-04T05:49:04.597491Z"
-            ]
-        },
-        {
-            "id": "49e7cd471b14efa5503e8a096d24d7d0",
-            "source": "spacenews",
-            "text": "SpaceX, China drive new record for orbital launches in 2025",
-            "source_link": "https://spacenews.com/spacex-china-drive-new-record-for-orbital-launches-in-2025/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-04T01:09:15.184344Z",
-            "shown_at": [
-                "2026-01-04T01:09:15.863849Z",
-                "2026-01-08T01:14:11.912251Z"
-            ]
-        },
-        {
-            "id": "f04f30d0e434ddcf91b7575fc83347d8",
-            "source": "spacenews",
-            "text": "SpaceX launches next second-generation Italian COSMO-SkyMed satellite",
-            "source_link": "https://spacenews.com/spacex-launches-next-second-generation-italian-cosmo-skymed-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-03T22:09:03.149213Z",
-            "shown_at": [
-                "2026-01-03T22:44:45.786004Z",
-                "2026-01-04T18:08:56.976465Z",
-                "2026-01-05T03:04:46.325607Z"
-            ]
-        },
-        {
-            "id": "25e379d6b7e32656062319c45933da2a",
-            "source": "spacenews",
-            "text": "New Spanish communications satellite suffers ‘space particle’ impact",
-            "source_link": "https://spacenews.com/new-spanish-communications-satellite-suffers-space-particle-impact/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-03T22:09:03.149135Z",
-            "shown_at": [
-                "2026-01-03T22:09:03.810864Z",
-                "2026-01-04T00:29:06.966497Z",
-                "2026-01-04T04:39:13.709501Z",
-                "2026-01-05T06:44:18.913161Z",
-                "2026-01-08T09:29:09.616359Z"
-            ]
-        },
-        {
-            "id": "952c0a250e665cf8a5d88a14b4ea5283",
-            "source": "spacenews",
-            "text": "Eartheye Space reveals contract with Asia-Pacific customer",
-            "source_link": "https://spacenews.com/eartheye-space-reveals-contract-with-asia-pacific-customer/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-03T04:49:06.548768Z",
-            "shown_at": [
-                "2026-01-03T04:49:07.212932Z",
-                "2026-01-03T10:09:03.846162Z",
-                "2026-01-03T11:54:04.775952Z",
-                "2026-01-04T12:49:17.453083Z",
-                "2026-01-09T02:24:43.056930Z"
-            ]
-        },
-        {
-            "id": "eae9c516e87a78f8a463d1cbd89a1891",
-            "source": "spacenews",
-            "text": "Terran Orbital Selected by Lockheed Martin to Provide Satellite Buses for SDA’s Tranche 3 Tracking Layer",
-            "source_link": "https://spacenews.com/terran-orbital-selected-by-lockheed-martin-to-provide-satellite-buses-for-sdas-tranche-3-tracking-layer/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-02T21:49:16.125629Z",
-            "shown_at": [
-                "2026-01-02T21:49:16.963999Z",
-                "2026-01-04T19:54:12.390046Z",
-                "2026-01-08T02:59:08.658545Z"
-            ]
-        },
-        {
-            "id": "c570aa1519a1bd7d52e8d9b0adec7c65",
-            "source": "spacenews",
-            "text": "SpaceX to lower orbits of some Starlink satellites",
-            "source_link": "https://spacenews.com/spacex-to-lower-orbits-of-some-starlink-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-02T18:54:43.491683Z",
-            "shown_at": [
-                "2026-01-02T18:54:44.273297Z",
-                "2026-01-03T19:09:10.673486Z",
-                "2026-01-03T20:59:02.762632Z",
-                "2026-01-07T04:34:21.913846Z",
-                "2026-01-07T23:19:06.068177Z"
-            ]
-        },
-        {
-            "id": "032d8d20fd0c68d7c49c5d76826ec989",
-            "source": "breaking_defense",
-            "text": "US-European relations will define the next year: 2026 preview",
-            "source_link": "https://breakingdefense.com/2026/01/us-european-relations-will-define-the-next-year-2026-preview/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-02T16:59:01.477527Z",
-            "shown_at": [
-                "2026-01-02T16:59:04.215461Z",
-                "2026-01-03T02:29:49.433499Z",
-                "2026-01-03T11:19:03.061353Z",
-                "2026-01-03T13:04:27.701969Z",
-                "2026-01-03T15:05:57.217701Z",
-                "2026-01-03T18:09:07.197986Z",
-                "2026-01-04T01:44:05.955540Z",
-                "2026-01-04T12:14:05.997958Z",
-                "2026-01-04T13:59:02.970506Z",
-                "2026-01-04T19:19:00.988641Z",
-                "2026-01-04T22:54:27.042503Z",
-                "2026-01-05T02:29:21.713473Z",
-                "2026-01-05T06:05:17.821525Z",
-                "2026-01-07T20:24:09.777323Z",
-                "2026-01-07T22:44:10.592215Z",
-                "2026-01-08T08:19:49.900928Z",
-                "2026-01-09T03:34:32.988482Z",
-                "2026-01-09T09:00:11.161400Z",
-                "2026-01-09T10:49:30.335121Z"
-            ]
-        },
-        {
-            "id": "6512fcf1c990076a5108036ccf27524c",
-            "source": "nyt",
-            "text": "Even the Sky May Not Be the Limit for A.I. Data Centers",
-            "source_link": "https://www.nytimes.com/2026/01/01/technology/space-data-centers-ai.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-01T10:14:09.907208Z",
-            "shown_at": [
-                "2026-01-01T10:14:10.617428Z",
-                "2026-01-01T19:04:20.833886Z",
-                "2026-01-01T22:39:13.749763Z",
-                "2026-01-02T00:24:15.573190Z",
-                "2026-01-02T18:14:51.678905Z",
-                "2026-01-02T20:04:59.954157Z",
-                "2026-01-02T22:24:16.327748Z",
-                "2026-01-03T03:39:06.377478Z",
-                "2026-01-03T12:29:38.165930Z",
-                "2026-01-03T19:49:16.053956Z",
-                "2026-01-04T04:04:36.846929Z",
-                "2026-01-04T13:23:59.410817Z",
-                "2026-01-04T16:59:04.225021Z",
-                "2026-01-04T20:29:13.376899Z",
-                "2026-01-04T22:14:34.834840Z",
-                "2026-01-05T00:04:34.437545Z",
-                "2026-01-05T03:39:11.894913Z",
-                "2026-01-05T07:19:56.914674Z",
-                "2026-01-05T09:49:11.982995Z",
-                "2026-01-05T16:19:22.645031Z",
-                "2026-01-06T07:54:02.004377Z",
-                "2026-01-06T09:43:58.279905Z",
-                "2026-01-06T11:29:09.762088Z",
-                "2026-01-06T13:54:50.910867Z",
-                "2026-01-06T16:19:05.447865Z",
-                "2026-01-06T18:59:00.627750Z",
-                "2026-01-06T20:49:05.802503Z",
-                "2026-01-06T22:34:12.654754Z",
-                "2026-01-07T00:19:43.900380Z",
-                "2026-01-07T02:09:04.407793Z",
-                "2026-01-07T03:59:20.509583Z",
-                "2026-01-07T05:54:15.233294Z",
-                "2026-01-07T07:39:15.691446Z",
-                "2026-01-07T09:34:36.505451Z",
-                "2026-01-07T11:24:12.491110Z",
-                "2026-01-07T16:09:08.039423Z",
-                "2026-01-07T17:55:28.811059Z",
-                "2026-01-07T19:44:10.677104Z",
-                "2026-01-07T22:09:14.382270Z",
-                "2026-01-08T00:04:43.208056Z",
-                "2026-01-08T01:49:19.335498Z",
-                "2026-01-08T03:34:26.676215Z",
-                "2026-01-08T05:24:08.172359Z",
-                "2026-01-08T07:09:14.992935Z",
-                "2026-01-08T08:54:02.978282Z"
-            ]
-        },
-        {
-            "id": "69a03be2925cdf5849e9922639327e58",
-            "source": "nyt",
-            "text": "Spaceflight Started 100 Years Ago in a Massachusetts Cabbage Patch",
-            "source_link": "https://www.nytimes.com/2026/03/16/science/robert-goddard-rocket-100th-anniversary.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-16T09:19:50.321430Z",
-            "shown_at": [
-                "2026-03-16T09:19:51.216729Z"
-            ]
-        },
-        {
-            "id": "bd61853d2c7029c5bed855588f720ecc",
-            "source": "spacenews",
-            "text": "China launches new highly retrograde Yaogan satellite, KZ-11 rideshare deploys 8 satellites",
-            "source_link": "https://spacenews.com/china-launches-new-highly-retrograde-yaogan-satellite-kz-11-rideshare-deploys-8-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-16T11:05:28.487962Z",
-            "shown_at": [
-                "2026-03-16T11:05:30.412213Z"
-            ]
-        },
-        {
-            "id": "82399f26b342e1f52f39a803fa370c51",
-            "source": "spacenews",
-            "text": "New Moog Innovations for the Satellite Market on Full Display at SATELLITE 2026 Conference",
-            "source_link": "https://spacenews.com/new-moog-innovations-for-the-satellite-market-on-full-display-at-satellite-2026-conference/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-16T12:20:02.254519Z",
-            "shown_at": [
-                "2026-03-16T12:20:03.999541Z",
-                "2026-03-16T17:34:39.965991Z"
-            ]
-        },
-        {
-            "id": "d6caad19c3d01398f66a07d6cc53b05a",
-            "source": "spacenews",
-            "text": "Investing in student programs is essential for America’s lead in space",
-            "source_link": "https://spacenews.com/investing-in-student-programs-is-essential-for-americas-lead-in-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-16T14:04:49.426365Z",
-            "shown_at": [
-                "2026-03-16T14:04:50.541434Z"
-            ]
-        },
-        {
-            "id": "da8778050d37c33d2133faee25c68983",
-            "source": "spacenews",
-            "text": "Kepler Communications: Call for Live-Stream Payload Concepts",
-            "source_link": "https://spacenews.com/kepler-communications-call-for-live-stream-payload-concepts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-16T15:14:45.935418Z",
-            "shown_at": [
-                "2026-03-16T15:14:46.970778Z"
-            ]
-        },
-        {
-            "id": "6ab6ef3d2eff7bd726a5144ac856d4c5",
-            "source": "spacenews",
-            "text": "Melagen Labs and Satlyt Announce Joint ISS Mission to Demonstrate Radiation-Resilient In-Orbit Computing and Next-Gen Shielding",
-            "source_link": "https://spacenews.com/melagen-labs-and-satlyt-announce-joint-iss-mission-to-demonstrate-radiation-resilient-in-orbit-computing-and-next-gen-shielding/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-16T16:25:09.264663Z",
-            "shown_at": [
-                "2026-03-16T16:25:10.470969Z"
-            ]
-        },
-        {
-            "id": "4c420be0030632bc4341b94328e1ad64",
-            "source": "spacenews",
-            "text": "Nvidia unveils AI computing module for space-based data centers",
-            "source_link": "https://spacenews.com/nvidia-unveils-ai-computing-module-for-space-based-data-centers/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-16T22:19:11.013694Z",
-            "shown_at": [
-                "2026-03-16T22:19:12.208054Z"
-            ]
-        },
-        {
-            "id": "e8ca5e9b185a1a88bb872c68fe447f73",
-            "source": "spacenews",
-            "text": "Kayrros sale signals rising demand for satellite intelligence amid Hormuz crisis",
-            "source_link": "https://spacenews.com/kayrros-sale-signals-rising-demand-for-satellite-intelligence-amid-hormuz-crisis/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-16T22:19:11.013763Z",
-            "shown_at": [
-                "2026-03-16T22:54:22.805098Z"
             ]
         }
     ]
