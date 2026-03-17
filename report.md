@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 17 | 24 | 45 |
-| nyt | 0 | 1 | 16 | 36 |
+| nyt | 0 | 1 | 17 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2750,3 +2750,4 @@
 - **Mar 17, 09:54 PM** - Telesat pivots Lightspeed toward defense as delays push global service to 2028 (spacenews)
 - **Mar 17, 10:29 PM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
 - **Mar 17, 11:04 PM** - Space Force overhauls buying structure with new mission portfolios (spacenews)
+- **Mar 17, 11:39 PM** - Spaceflight Started 100 Years Ago in a Massachusetts Cabbage Patch (nyt)
