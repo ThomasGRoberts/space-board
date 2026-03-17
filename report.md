@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 11 | 22 | 41 |
-| nyt | 0 | 1 | 19 | 40 |
+| spacenews | 7 | 11 | 21 | 41 |
+| nyt | 0 | 1 | 20 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2727,3 +2727,4 @@
 - **Mar 17, 08:14 AM** - Starcloud files plans for 88,000-satellite constellation (spacenews)
 - **Mar 17, 08:49 AM** - Space Jam: NASA’s MADCAP Team Directs Traffic at the Moon (nyt)
 - **Mar 17, 09:24 AM** - Ukraine will host first test for Leonardo’s Michelangelo security dome (spacenews)
+- **Mar 17, 09:59 AM** - NASA Says Artemis II Moon Launch Is On Track for April 1 (nyt)
