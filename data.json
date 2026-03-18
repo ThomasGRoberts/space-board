@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-18T00:04:29.635818+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b0dc4a3b483434b848e1b65a81fa52a1",
+    "trigger_count": 0,
+    "current_item_id": "01c28e93f2d77ebdc66a79c1ed0ce624",
     "data": [
         {
             "id": "face25900b944331995416dec50fba4d",
@@ -8311,9 +8311,12 @@
             "source": "spacenews",
             "text": "Space Command classified wargame to include 25 commercial players",
             "source_link": "https://spacenews.com/space-command-classified-wargame-to-include-25-commercial-players/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-03-18T22:39:19.548799Z"
+            "fetched_datetime": "2026-03-18T22:39:19.548799Z",
+            "shown_at": [
+                "2026-03-18T23:49:11.750731Z"
+            ]
         },
         {
             "id": "b0dc4a3b483434b848e1b65a81fa52a1",

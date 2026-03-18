@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 16 | 22 | 46 |
+| spacenews | 7 | 16 | 23 | 47 |
 | nyt | 2 | 2 | 18 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2734,3 +2734,4 @@
 - **Mar 18, 10:04 PM** - A Meteor Streaks Across the U.S. and Rattles Ohio With an Explosive Boom (nyt)
 - **Mar 18, 10:39 PM** - Rocket Lab wins $190 million Pentagon deal for hypersonic test flights (spacenews)
 - **Mar 18, 11:14 PM** - NASA’s Hubble Telescope Spots Comet K1 Exploding Into Fragments (nyt)
+- **Mar 18, 11:49 PM** - Space Command classified wargame to include 25 commercial players (spacenews)
