@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 16 | 24 | 45 |
-| nyt | 1 | 1 | 16 | 36 |
+| nyt | 1 | 1 | 17 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2711,3 +2711,4 @@
 - **Mar 18, 08:24 AM** - The perils of political impatience in the Artemis program (spacenews)
 - **Mar 18, 08:59 AM** - Space Jam: NASA’s MADCAP Team Directs Traffic at the Moon (nyt)
 - **Mar 18, 09:34 AM** - Mantis Space emerges from stealth with $10 million for solar-power constellation (spacenews)
+- **Mar 18, 10:09 AM** - A Meteor Streaks Across the U.S. and Rattles Ohio With an Explosive Boom (nyt)
