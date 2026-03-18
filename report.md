@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 23 | 47 |
-| nyt | 1 | 1 | 17 | 34 |
+| nyt | 1 | 1 | 18 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2727,3 +2727,4 @@
 - **Mar 18, 05:54 PM** - iMetalX emerges from stealth with technology to model resident space objects (spacenews)
 - **Mar 18, 06:34 PM** - Spaceflight Started 100 Years Ago in a Massachusetts Cabbage Patch (nyt)
 - **Mar 18, 07:09 PM** - TransAstra aims to move 100-ton asteroid to stable orbit for processing (spacenews)
+- **Mar 18, 07:44 PM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
