@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 17 | 23 | 46 |
+| spacenews | 9 | 17 | 24 | 47 |
 | nyt | 1 | 1 | 17 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2717,3 +2717,4 @@
 - **Mar 18, 11:54 AM** - Missile strike hits SES teleport in Israel (spacenews)
 - **Mar 18, 12:29 PM** - NASA grappling with planetary science funding shortfall (spacenews)
 - **Mar 18, 01:05 PM** - Frontier justice: navigating the future legal landscape for private actors in space law (spacenews)
+- **Mar 18, 01:44 PM** - China signals new target for 2027 asteroid deflection test (spacenews)
