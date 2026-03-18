@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 23 | 46 |
+| spacenews | 9 | 16 | 24 | 47 |
 | nyt | 1 | 1 | 17 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2726,3 +2726,4 @@
 - **Mar 18, 05:19 PM** - NASA Says Artemis II Moon Launch Is On Track for April 1 (nyt)
 - **Mar 18, 05:54 PM** - iMetalX emerges from stealth with technology to model resident space objects (spacenews)
 - **Mar 18, 06:34 PM** - Spaceflight Started 100 Years Ago in a Massachusetts Cabbage Patch (nyt)
+- **Mar 18, 07:09 PM** - TransAstra aims to move 100-ton asteroid to stable orbit for processing (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-18T00:04:29.635818+00:00",
-    "trigger_count": 6,
-    "current_item_id": "69a03be2925cdf5849e9922639327e58",
+    "trigger_count": 0,
+    "current_item_id": "bbcde129e556c3b2c3c57526e817c91c",
     "data": [
         {
             "id": "face25900b944331995416dec50fba4d",
@@ -8275,6 +8275,18 @@
             "fetched_datetime": "2026-03-18T15:29:14.139069Z",
             "shown_at": [
                 "2026-03-18T15:29:15.104843Z"
+            ]
+        },
+        {
+            "id": "bbcde129e556c3b2c3c57526e817c91c",
+            "source": "spacenews",
+            "text": "TransAstra aims to move 100-ton asteroid to stable orbit for processing",
+            "source_link": "https://spacenews.com/transastra-aims-to-move-100-ton-asteroid-to-stable-orbit-for-processing/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-18T19:09:29.803395Z",
+            "shown_at": [
+                "2026-03-18T19:09:30.961744Z"
             ]
         }
     ]
