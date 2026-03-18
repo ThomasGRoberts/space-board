@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 15 | 24 | 45 |
-| nyt | 1 | 1 | 17 | 36 |
+| spacenews | 7 | 15 | 23 | 45 |
+| nyt | 1 | 1 | 18 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2713,3 +2713,4 @@
 - **Mar 18, 09:34 AM** - Mantis Space emerges from stealth with $10 million for solar-power constellation (spacenews)
 - **Mar 18, 10:09 AM** - A Meteor Streaks Across the U.S. and Rattles Ohio With an Explosive Boom (nyt)
 - **Mar 18, 10:44 AM** - Kepler Communications: Call for Live-Stream Payload Concepts (spacenews)
+- **Mar 18, 11:20 AM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
