@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-18T00:04:29.635818+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e58124ce1cbdbf2b43bcbe9cffc8e933",
+    "trigger_count": 0,
+    "current_item_id": "9421c99ab2e6d0a8f54384683d59b251",
     "data": [
         {
             "id": "face25900b944331995416dec50fba4d",
@@ -8191,6 +8191,18 @@
                 "2026-01-11T20:14:42.313039Z",
                 "2026-01-12T23:24:10.748277Z",
                 "2026-01-13T02:54:53.995200Z"
+            ]
+        },
+        {
+            "id": "9421c99ab2e6d0a8f54384683d59b251",
+            "source": "nyt",
+            "text": "A Meteor Streaks Across the U.S. and Rattles Ohio With an Explosive Boom",
+            "source_link": "https://www.nytimes.com/2026/03/17/us/ohio-cleveland-meteor.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-18T01:59:29.647725Z",
+            "shown_at": [
+                "2026-03-18T01:59:30.567177Z"
             ]
         }
     ]
