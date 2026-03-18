@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-18T00:04:29.635818+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9421c99ab2e6d0a8f54384683d59b251",
+    "trigger_count": 0,
+    "current_item_id": "752dcb52533cebc74990b86b161e2412",
     "data": [
         {
             "id": "face25900b944331995416dec50fba4d",
@@ -8293,6 +8293,27 @@
             "shown_at": [
                 "2026-03-18T19:09:30.961744Z"
             ]
+        },
+        {
+            "id": "752dcb52533cebc74990b86b161e2412",
+            "source": "spacenews",
+            "text": "Rocket Lab wins $190 million Pentagon deal for hypersonic test flights",
+            "source_link": "https://spacenews.com/rocket-lab-wins-190-million-pentagon-deal-for-hypersonic-test-flights/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-18T22:39:19.548708Z",
+            "shown_at": [
+                "2026-03-18T22:39:20.752675Z"
+            ]
+        },
+        {
+            "id": "01c28e93f2d77ebdc66a79c1ed0ce624",
+            "source": "spacenews",
+            "text": "Space Command classified wargame to include 25 commercial players",
+            "source_link": "https://spacenews.com/space-command-classified-wargame-to-include-25-commercial-players/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-03-18T22:39:19.548799Z"
         }
     ]
 }
