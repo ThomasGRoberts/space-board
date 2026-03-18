@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 15 | 24 | 47 |
-| nyt | 1 | 1 | 16 | 34 |
+| nyt | 1 | 1 | 17 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2723,3 +2723,4 @@
 - **Mar 18, 03:29 PM** - Solar array deal sheds more light on South Korea’s defense constellation (spacenews)
 - **Mar 18, 04:04 PM** - A Meteor Streaks Across the U.S. and Rattles Ohio With an Explosive Boom (nyt)
 - **Mar 18, 04:39 PM** - New Moog Innovations for the Satellite Market on Full Display at SATELLITE 2026 Conference (spacenews)
+- **Mar 18, 05:19 PM** - NASA Says Artemis II Moon Launch Is On Track for April 1 (nyt)
