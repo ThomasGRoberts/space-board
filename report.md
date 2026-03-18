@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 16 | 24 | 45 |
-| nyt | 1 | 2 | 16 | 36 |
+| nyt | 1 | 2 | 17 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2707,3 +2707,4 @@
 - **Mar 18, 06:04 AM** - iMetalX emerges from stealth with technology to model resident space objects (spacenews)
 - **Mar 18, 06:39 AM** - NASA Says Artemis II Moon Launch Is On Track for April 1 (nyt)
 - **Mar 18, 07:14 AM** - The Post-Capacity Era of Satellite Connectivity (spacenews)
+- **Mar 18, 07:49 AM** - A Meteor Streaks Across the U.S. and Rattles Ohio With an Explosive Boom (nyt)
