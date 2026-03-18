@@ -1,9 +1,117 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-03-17T00:04:33.540096+00:00",
-    "trigger_count": 4,
+    "last_run_datetime": "2026-03-18T00:04:29.635818+00:00",
+    "trigger_count": 5,
     "current_item_id": "69a03be2925cdf5849e9922639327e58",
     "data": [
+        {
+            "id": "face25900b944331995416dec50fba4d",
+            "source": "spacenews",
+            "text": "Space Force overhauls buying structure with new mission portfolios",
+            "source_link": "https://spacenews.com/space-force-overhauls-buying-structure-with-new-mission-portfolios/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-17T23:04:40.202167Z",
+            "shown_at": [
+                "2026-03-17T23:04:41.301224Z"
+            ]
+        },
+        {
+            "id": "800af7389cbe9f47d421935b39a26ece",
+            "source": "spacenews",
+            "text": "Telesat pivots Lightspeed toward defense as delays push global service to 2028",
+            "source_link": "https://spacenews.com/telesat-pivots-lightspeed-toward-defense-as-delays-push-global-service-to-2028/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-17T21:54:29.669704Z",
+            "shown_at": [
+                "2026-03-17T21:54:31.149121Z"
+            ]
+        },
+        {
+            "id": "ecb58214fcd1192cfbf4946a6784ca8e",
+            "source": "spacenews",
+            "text": "Office of Space Commerce weighing options for TraCSS user fees",
+            "source_link": "https://spacenews.com/office-of-space-commerce-weighing-options-for-tracss-user-fees/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-17T21:19:25.854671Z",
+            "shown_at": [
+                "2026-03-17T21:19:27.039447Z"
+            ]
+        },
+        {
+            "id": "308004edec633ca04e05d88495d3befb",
+            "source": "spacenews",
+            "text": "Space boom strains supply chain, industry report warns",
+            "source_link": "https://spacenews.com/space-boom-strains-supply-chain-industry-report-warns/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-17T19:34:45.845669Z",
+            "shown_at": [
+                "2026-03-17T19:34:46.877357Z"
+            ]
+        },
+        {
+            "id": "f4594b87cfba0afc1d68ebdae3ca36fb",
+            "source": "spacenews",
+            "text": "Golden Dome cost estimate rises to $185 billion as Pentagon expands space layer",
+            "source_link": "https://spacenews.com/golden-dome-cost-estimate-rises-to-185-billion-as-pentagon-expands-space-layer/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-17T18:59:28.998721Z",
+            "shown_at": [
+                "2026-03-17T18:59:30.160098Z"
+            ]
+        },
+        {
+            "id": "2bcda671de4eea39061f382b07da1679",
+            "source": "spacenews",
+            "text": "ISPTech Raises €5.5M Seed Round to Redefine How Spacecraft Manoeuvre in Orbit",
+            "source_link": "https://spacenews.com/isptech-raises-e5-5m-seed-round-to-redefine-how-spacecraft-manoeuvre-in-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-17T17:09:10.629455Z",
+            "shown_at": [
+                "2026-03-17T17:09:12.027561Z"
+            ]
+        },
+        {
+            "id": "2cfad31296cdd71aa7d06c2398fc575e",
+            "source": "spacenews",
+            "text": "Canadian military invests in sovereign launch",
+            "source_link": "https://spacenews.com/canadian-military-invests-in-sovereign-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-17T12:24:20.372570Z",
+            "shown_at": [
+                "2026-03-17T12:24:21.725979Z"
+            ]
+        },
+        {
+            "id": "0b5390859274e3ba6a2bbe20e586b6f6",
+            "source": "spacenews",
+            "text": "Innospace completes investigation into Hanbit-Nano launch failure",
+            "source_link": "https://spacenews.com/innospace-completes-investigation-into-hanbit-nano-launch-failure/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-17T11:14:30.333910Z",
+            "shown_at": [
+                "2026-03-17T11:49:31.433426Z"
+            ]
+        },
+        {
+            "id": "bdf13929173f921a38b956d71db96641",
+            "source": "spacenews",
+            "text": "An astronaut’s tiny stand-in: tissue chips in space health",
+            "source_link": "https://spacenews.com/an-astronauts-tiny-stand-in-tissue-chips-in-space-health/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-17T11:14:30.333852Z",
+            "shown_at": [
+                "2026-03-17T11:14:31.422246Z"
+            ]
+        },
         {
             "id": "e8ca5e9b185a1a88bb872c68fe447f73",
             "source": "spacenews",
@@ -8080,270 +8188,6 @@
                 "2026-01-11T20:14:42.313039Z",
                 "2026-01-12T23:24:10.748277Z",
                 "2026-01-13T02:54:53.995200Z"
-            ]
-        },
-        {
-            "id": "1015c59b68cd81eca1fac22e2a7801ae",
-            "source": "breaking_defense",
-            "text": "Grok for DoD and subs for North Korea: What you missed in defense over the break",
-            "source_link": "https://breakingdefense.com/2026/01/grok-for-dod-and-subs-for-north-korea-what-you-missed-in-defense-over-the-break/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-05T18:44:04.264334Z",
-            "shown_at": [
-                "2026-01-06T02:29:06.327190Z",
-                "2026-01-06T12:44:28.745863Z",
-                "2026-01-08T06:34:23.258981Z",
-                "2026-01-08T15:19:43.787035Z",
-                "2026-01-08T16:29:11.916646Z",
-                "2026-01-08T20:44:08.008838Z",
-                "2026-01-08T23:59:03.005577Z",
-                "2026-01-10T06:19:51.870778Z",
-                "2026-01-10T08:04:41.726384Z",
-                "2026-01-11T00:09:11.954774Z",
-                "2026-01-11T01:54:23.943714Z",
-                "2026-01-12T01:29:39.075162Z",
-                "2026-01-12T12:09:13.579989Z"
-            ]
-        },
-        {
-            "id": "ed07231f2ef3d80b7dadefad7d5ae58e",
-            "source": "spacenews",
-            "text": "ARCHE ORBITAL SYSTEMS Signs Strategic MoU with MSRO to Advance National Space Capabilities for the Maldives",
-            "source_link": "https://spacenews.com/arche-orbital-systems-signs-strategic-mou-with-msro-to-advance-national-space-capabilities-for-the-maldives/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-05T18:05:14.594976Z",
-            "shown_at": [
-                "2026-01-06T03:04:38.798372Z",
-                "2026-01-09T00:34:18.166588Z",
-                "2026-01-09T09:34:21.612340Z"
-            ]
-        },
-        {
-            "id": "a9424266043a86fea35833a639459b79",
-            "source": "spacenews",
-            "text": "Minibus provides $24.4 billion for NASA for fiscal year 2026",
-            "source_link": "https://spacenews.com/minibus-provides-24-4-billion-for-nasa-for-fiscal-year-2026/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-05T18:05:14.594923Z",
-            "shown_at": [
-                "2026-01-05T18:05:15.395532Z",
-                "2026-01-06T15:04:42.671084Z",
-                "2026-01-07T10:09:17.822926Z",
-                "2026-01-07T11:59:10.841364Z",
-                "2026-01-09T04:09:19.816814Z",
-                "2026-01-11T11:54:05.867237Z",
-                "2026-01-11T17:14:13.931292Z"
-            ]
-        },
-        {
-            "id": "9bd70400a6604394d266ee4c1a9988d1",
-            "source": "breaking_defense",
-            "text": "Service acquisition leaders: Why this time will be different for defense acquisition",
-            "source_link": "https://breakingdefense.com/2026/01/defense-acquisition-reform-dale-white-robert-collins-army-seiko-okano-navy-stephen-purdy-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-05T15:44:15.836711Z",
-            "shown_at": [
-                "2026-01-05T15:44:16.482896Z",
-                "2026-01-06T07:19:02.341065Z",
-                "2026-01-06T14:29:06.287658Z",
-                "2026-01-06T19:34:31.731746Z",
-                "2026-01-06T23:09:00.417852Z",
-                "2026-01-07T14:59:04.456842Z",
-                "2026-01-08T00:39:49.112434Z",
-                "2026-01-08T02:24:22.946326Z",
-                "2026-01-08T04:09:09.480225Z",
-                "2026-01-08T10:04:41.964290Z",
-                "2026-01-10T17:09:17.224623Z",
-                "2026-01-10T20:04:25.534934Z",
-                "2026-01-12T03:14:15.662503Z"
-            ]
-        },
-        {
-            "id": "50050b83310a76d94c7df3c95b56a8fa",
-            "source": "spacenews",
-            "text": "No more free rides: it’s time to pay for space safety",
-            "source_link": "https://spacenews.com/no-more-free-rides-its-time-to-pay-for-space-safety/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-05T15:08:57.711899Z",
-            "shown_at": [
-                "2026-01-05T15:08:58.364107Z",
-                "2026-01-06T10:19:14.310565Z",
-                "2026-01-07T21:34:21.022433Z"
-            ]
-        },
-        {
-            "id": "5c6c33d10ac72e5cfc16ff267b90ba35",
-            "source": "spacenews",
-            "text": "L3Harris to sell majority stake in space propulsion unit to AE Industrial",
-            "source_link": "https://spacenews.com/l3harris-to-sell-majority-stake-in-space-propulsion-unit-to-ae-industrial-for-845-million/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-05T13:59:22.970246Z",
-            "shown_at": [
-                "2026-01-05T14:34:28.118323Z",
-                "2026-01-08T04:49:12.460627Z",
-                "2026-01-08T11:49:55.717818Z",
-                "2026-01-08T15:54:13.467741Z"
-            ]
-        },
-        {
-            "id": "2feacb5a5507ea9d8e4cf4a995b1eaad",
-            "source": "spacenews",
-            "text": "China’s astronauts complete cave training amid preparations for moon missions",
-            "source_link": "https://spacenews.com/chinas-astronauts-complete-cave-training-amid-preparations-for-moon-missions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-05T13:59:22.970189Z",
-            "shown_at": [
-                "2026-01-05T13:59:23.961654Z",
-                "2026-01-09T07:49:09.943719Z",
-                "2026-01-12T07:58:55.573773Z"
-            ]
-        },
-        {
-            "id": "974267a0d87a1ade1f90e6db3ff4d518",
-            "source": "breaking_defense",
-            "text": "The year that was and the year that will be, according to our reporters",
-            "source_link": "https://breakingdefense.com/2026/01/the-year-that-was-and-the-year-that-will-be-according-to-our-reporters/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-05T09:14:38.153568Z",
-            "shown_at": [
-                "2026-01-05T09:14:38.882441Z",
-                "2026-01-06T09:09:17.382879Z",
-                "2026-01-06T17:06:57.872586Z",
-                "2026-01-07T07:04:30.656489Z",
-                "2026-01-07T16:44:23.018411Z",
-                "2026-01-07T18:34:15.498048Z",
-                "2026-01-08T11:14:17.197326Z",
-                "2026-01-09T01:49:14.349927Z",
-                "2026-01-09T12:35:26.867288Z",
-                "2026-01-11T12:28:56.041173Z"
-            ]
-        },
-        {
-            "id": "df1fb964e857f85b03823c95e3fb6b18",
-            "source": "spacenews",
-            "text": "Space Force begins base network overhaul as cybersecurity demands grow",
-            "source_link": "https://spacenews.com/space-force-begins-base-network-overhaul-as-cybersecurity-demands-grow/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-04T05:49:04.069917Z",
-            "shown_at": [
-                "2026-01-04T05:49:04.597491Z"
-            ]
-        },
-        {
-            "id": "bdf13929173f921a38b956d71db96641",
-            "source": "spacenews",
-            "text": "An astronaut’s tiny stand-in: tissue chips in space health",
-            "source_link": "https://spacenews.com/an-astronauts-tiny-stand-in-tissue-chips-in-space-health/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-17T11:14:30.333852Z",
-            "shown_at": [
-                "2026-03-17T11:14:31.422246Z"
-            ]
-        },
-        {
-            "id": "0b5390859274e3ba6a2bbe20e586b6f6",
-            "source": "spacenews",
-            "text": "Innospace completes investigation into Hanbit-Nano launch failure",
-            "source_link": "https://spacenews.com/innospace-completes-investigation-into-hanbit-nano-launch-failure/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-17T11:14:30.333910Z",
-            "shown_at": [
-                "2026-03-17T11:49:31.433426Z"
-            ]
-        },
-        {
-            "id": "2cfad31296cdd71aa7d06c2398fc575e",
-            "source": "spacenews",
-            "text": "Canadian military invests in sovereign launch",
-            "source_link": "https://spacenews.com/canadian-military-invests-in-sovereign-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-17T12:24:20.372570Z",
-            "shown_at": [
-                "2026-03-17T12:24:21.725979Z"
-            ]
-        },
-        {
-            "id": "2bcda671de4eea39061f382b07da1679",
-            "source": "spacenews",
-            "text": "ISPTech Raises €5.5M Seed Round to Redefine How Spacecraft Manoeuvre in Orbit",
-            "source_link": "https://spacenews.com/isptech-raises-e5-5m-seed-round-to-redefine-how-spacecraft-manoeuvre-in-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-17T17:09:10.629455Z",
-            "shown_at": [
-                "2026-03-17T17:09:12.027561Z"
-            ]
-        },
-        {
-            "id": "f4594b87cfba0afc1d68ebdae3ca36fb",
-            "source": "spacenews",
-            "text": "Golden Dome cost estimate rises to $185 billion as Pentagon expands space layer",
-            "source_link": "https://spacenews.com/golden-dome-cost-estimate-rises-to-185-billion-as-pentagon-expands-space-layer/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-17T18:59:28.998721Z",
-            "shown_at": [
-                "2026-03-17T18:59:30.160098Z"
-            ]
-        },
-        {
-            "id": "308004edec633ca04e05d88495d3befb",
-            "source": "spacenews",
-            "text": "Space boom strains supply chain, industry report warns",
-            "source_link": "https://spacenews.com/space-boom-strains-supply-chain-industry-report-warns/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-17T19:34:45.845669Z",
-            "shown_at": [
-                "2026-03-17T19:34:46.877357Z"
-            ]
-        },
-        {
-            "id": "ecb58214fcd1192cfbf4946a6784ca8e",
-            "source": "spacenews",
-            "text": "Office of Space Commerce weighing options for TraCSS user fees",
-            "source_link": "https://spacenews.com/office-of-space-commerce-weighing-options-for-tracss-user-fees/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-17T21:19:25.854671Z",
-            "shown_at": [
-                "2026-03-17T21:19:27.039447Z"
-            ]
-        },
-        {
-            "id": "800af7389cbe9f47d421935b39a26ece",
-            "source": "spacenews",
-            "text": "Telesat pivots Lightspeed toward defense as delays push global service to 2028",
-            "source_link": "https://spacenews.com/telesat-pivots-lightspeed-toward-defense-as-delays-push-global-service-to-2028/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-17T21:54:29.669704Z",
-            "shown_at": [
-                "2026-03-17T21:54:31.149121Z"
-            ]
-        },
-        {
-            "id": "face25900b944331995416dec50fba4d",
-            "source": "spacenews",
-            "text": "Space Force overhauls buying structure with new mission portfolios",
-            "source_link": "https://spacenews.com/space-force-overhauls-buying-structure-with-new-mission-portfolios/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-17T23:04:40.202167Z",
-            "shown_at": [
-                "2026-03-17T23:04:41.301224Z"
             ]
         }
     ]
