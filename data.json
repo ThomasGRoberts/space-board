@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-18T00:04:29.635818+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1bfe6ffa9659f20093494eae443c7743",
+    "trigger_count": 0,
+    "current_item_id": "8f10e9d10dfd39b99d6d8b351466b689",
     "data": [
         {
             "id": "face25900b944331995416dec50fba4d",
@@ -8220,6 +8220,18 @@
                 "2026-03-18T03:09:08.407555Z",
                 "2026-03-18T07:49:19.500606Z",
                 "2026-03-18T10:09:24.190525Z"
+            ]
+        },
+        {
+            "id": "8f10e9d10dfd39b99d6d8b351466b689",
+            "source": "spacenews",
+            "text": "NASA grappling with planetary science funding shortfall",
+            "source_link": "https://spacenews.com/nasa-grappling-with-planetary-science-funding-shortfall/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-18T12:29:14.616810Z",
+            "shown_at": [
+                "2026-03-18T12:29:16.088719Z"
             ]
         }
     ]

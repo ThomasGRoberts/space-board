@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 14 | 23 | 45 |
+| spacenews | 7 | 15 | 23 | 46 |
 | nyt | 1 | 1 | 18 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2715,3 +2715,4 @@
 - **Mar 18, 10:44 AM** - Kepler Communications: Call for Live-Stream Payload Concepts (spacenews)
 - **Mar 18, 11:20 AM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
 - **Mar 18, 11:54 AM** - Missile strike hits SES teleport in Israel (spacenews)
+- **Mar 18, 12:29 PM** - NASA grappling with planetary science funding shortfall (spacenews)
