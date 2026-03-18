@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 16 | 24 | 45 |
-| nyt | 1 | 2 | 16 | 36 |
+| nyt | 1 | 2 | 17 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2703,3 +2703,4 @@
 - **Mar 18, 03:44 AM** - Mantis Space emerges from stealth with $10 million for solar-power constellation (spacenews)
 - **Mar 18, 04:19 AM** - Space Jam: NASA’s MADCAP Team Directs Traffic at the Moon (nyt)
 - **Mar 18, 04:54 AM** - Kayrros sale signals rising demand for satellite intelligence amid Hormuz crisis (spacenews)
+- **Mar 18, 05:29 AM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
