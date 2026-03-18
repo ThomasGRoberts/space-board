@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 16 | 24 | 46 |
-| nyt | 1 | 1 | 16 | 35 |
+| nyt | 1 | 1 | 17 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2718,3 +2718,4 @@
 - **Mar 18, 12:29 PM** - NASA grappling with planetary science funding shortfall (spacenews)
 - **Mar 18, 01:05 PM** - Frontier justice: navigating the future legal landscape for private actors in space law (spacenews)
 - **Mar 18, 01:44 PM** - China signals new target for 2027 asteroid deflection test (spacenews)
+- **Mar 18, 02:19 PM** - Space Jam: NASA’s MADCAP Team Directs Traffic at the Moon (nyt)
