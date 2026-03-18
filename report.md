@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 16 | 22 | 47 |
-| nyt | 1 | 1 | 18 | 34 |
+| nyt | 1 | 1 | 19 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2731,3 +2731,4 @@
 - **Mar 18, 08:19 PM** - Kepler Communications: Call for Live-Stream Payload Concepts (spacenews)
 - **Mar 18, 08:54 PM** - A Meteor Streaks Across the U.S. and Rattles Ohio With an Explosive Boom (nyt)
 - **Mar 18, 09:29 PM** - Melagen Labs and Satlyt Announce Joint ISS Mission to Demonstrate Radiation-Resilient In-Orbit Computing and Next-Gen Shielding (spacenews)
+- **Mar 18, 10:04 PM** - A Meteor Streaks Across the U.S. and Rattles Ohio With an Explosive Boom (nyt)
