@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-18T00:04:29.635818+00:00",
-    "trigger_count": 6,
-    "current_item_id": "678497a7e35f7ef3a79f378cc3fb5ae9",
+    "trigger_count": 0,
+    "current_item_id": "c76f00fe92aac7d5acd0ce7ccbcc497a",
     "data": [
         {
             "id": "face25900b944331995416dec50fba4d",
@@ -8258,6 +8258,18 @@
             "fetched_datetime": "2026-03-18T13:05:13.387306Z",
             "shown_at": [
                 "2026-03-18T13:44:17.613407Z"
+            ]
+        },
+        {
+            "id": "c76f00fe92aac7d5acd0ce7ccbcc497a",
+            "source": "spacenews",
+            "text": "Solar array deal sheds more light on South Korea’s defense constellation",
+            "source_link": "https://spacenews.com/solar-array-deal-sheds-more-light-on-south-koreas-defense-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-18T15:29:14.139069Z",
+            "shown_at": [
+                "2026-03-18T15:29:15.104843Z"
             ]
         }
     ]
