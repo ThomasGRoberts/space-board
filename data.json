@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-18T00:04:29.635818+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8f10e9d10dfd39b99d6d8b351466b689",
+    "trigger_count": 0,
+    "current_item_id": "809e8fd321a5cc6c3c38214f07ae93b1",
     "data": [
         {
             "id": "face25900b944331995416dec50fba4d",
@@ -8233,6 +8233,27 @@
             "shown_at": [
                 "2026-03-18T12:29:16.088719Z"
             ]
+        },
+        {
+            "id": "809e8fd321a5cc6c3c38214f07ae93b1",
+            "source": "spacenews",
+            "text": "Frontier justice: navigating the future legal landscape for private actors in space law",
+            "source_link": "https://spacenews.com/frontier-justice-navigating-the-future-legal-landscape-for-private-actors-in-space-law/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-18T13:05:13.387238Z",
+            "shown_at": [
+                "2026-03-18T13:05:14.984978Z"
+            ]
+        },
+        {
+            "id": "2f55c987e0c5a271a0bfaf8d8c257eb4",
+            "source": "spacenews",
+            "text": "China signals new target for 2027 asteroid deflection test",
+            "source_link": "https://spacenews.com/china-signals-new-target-for-2027-asteroid-deflection-test/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-03-18T13:05:13.387306Z"
         }
     ]
 }
