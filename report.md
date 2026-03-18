@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 16 | 22 | 46 |
-| nyt | 1 | 1 | 18 | 35 |
+| nyt | 2 | 2 | 19 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2733,3 +2733,4 @@
 - **Mar 18, 09:29 PM** - Melagen Labs and Satlyt Announce Joint ISS Mission to Demonstrate Radiation-Resilient In-Orbit Computing and Next-Gen Shielding (spacenews)
 - **Mar 18, 10:04 PM** - A Meteor Streaks Across the U.S. and Rattles Ohio With an Explosive Boom (nyt)
 - **Mar 18, 10:39 PM** - Rocket Lab wins $190 million Pentagon deal for hypersonic test flights (spacenews)
+- **Mar 18, 11:14 PM** - NASA’s Hubble Telescope Spots Comet K1 Exploding Into Fragments (nyt)
