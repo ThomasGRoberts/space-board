@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 18 | 35 |
-| spacenews | 7 | 16 | 22 | 46 |
+| spacenews | 7 | 16 | 23 | 47 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2709,3 +2709,4 @@
 - **Mar 19, 02:44 AM** - NASA’s Hubble Telescope Spots Comet K1 Exploding Into Fragments (nyt)
 - **Mar 19, 03:19 AM** - Telesat pivots Lightspeed toward defense as delays push global service to 2028 (spacenews)
 - **Mar 19, 03:54 AM** - NASA’s Hubble Telescope Spots Comet K1 Exploding Into Fragments (nyt)
+- **Mar 19, 04:29 AM** - China ends month-long launch hiatus with separate Guowang and Shiyan-30 satellite missions (spacenews)
