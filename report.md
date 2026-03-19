@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 2 | 17 | 34 |
-| spacenews | 5 | 14 | 18 | 42 |
+| nyt | 1 | 2 | 17 | 33 |
+| spacenews | 5 | 14 | 19 | 43 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2720,3 +2720,4 @@
 - **Mar 19, 09:14 AM** - Spaceflight Started 100 Years Ago in a Massachusetts Cabbage Patch (nyt)
 - **Mar 19, 09:49 AM** - Voyager opens defense and space tech hub in Long Beach (spacenews)
 - **Mar 19, 10:24 AM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
+- **Mar 19, 02:11 PM** - Kepler Communications: Call for Live-Stream Payload Concepts (spacenews)
