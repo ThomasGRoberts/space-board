@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 2 | 15 | 32 |
+| nyt | 1 | 2 | 16 | 33 |
 | spacenews | 7 | 15 | 20 | 44 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2731,3 +2731,4 @@
 - **Mar 19, 06:54 PM** - Kratos wins $446 million Space Force contract for missile-tracking ground systems (spacenews)
 - **Mar 19, 07:29 PM** - A Meteor Streaks Across the U.S. and Rattles Ohio With an Explosive Boom (nyt)
 - **Mar 19, 08:05 PM** - Golden Dome cost estimate rises to $185 billion as Pentagon expands space layer (spacenews)
+- **Mar 19, 08:44 PM** - Spaceflight Started 100 Years Ago in a Massachusetts Cabbage Patch (nyt)
