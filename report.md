@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 2 | 16 | 32 |
+| nyt | 1 | 2 | 17 | 33 |
 | spacenews | 6 | 16 | 19 | 44 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2723,3 +2723,4 @@
 - **Mar 19, 02:11 PM** - Kepler Communications: Call for Live-Stream Payload Concepts (spacenews)
 - **Mar 19, 02:49 PM** - NASA considering sharp increase in robotic lunar landings (spacenews)
 - **Mar 19, 03:24 PM** - ReOrbit sells two small GEO satellites to SLI (spacenews)
+- **Mar 19, 03:59 PM** - A Meteor Streaks Across the U.S. and Rattles Ohio With an Explosive Boom (nyt)
