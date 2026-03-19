@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 2 | 16 | 33 |
-| spacenews | 7 | 16 | 19 | 43 |
+| nyt | 1 | 2 | 16 | 32 |
+| spacenews | 7 | 16 | 20 | 44 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2722,3 +2722,4 @@
 - **Mar 19, 10:24 AM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
 - **Mar 19, 02:11 PM** - Kepler Communications: Call for Live-Stream Payload Concepts (spacenews)
 - **Mar 19, 02:49 PM** - NASA considering sharp increase in robotic lunar landings (spacenews)
+- **Mar 19, 03:24 PM** - ReOrbit sells two small GEO satellites to SLI (spacenews)
