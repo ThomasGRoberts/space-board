@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-19T00:04:56.334925+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e58124ce1cbdbf2b43bcbe9cffc8e933",
+    "trigger_count": 0,
+    "current_item_id": "b431925d9136eb11e3af7618ac458726",
     "data": [
         {
             "id": "b0dc4a3b483434b848e1b65a81fa52a1",
@@ -8208,6 +8208,18 @@
             "shown_at": [
                 "2026-01-07T15:34:25.489228Z",
                 "2026-01-11T19:35:22.401452Z"
+            ]
+        },
+        {
+            "id": "b431925d9136eb11e3af7618ac458726",
+            "source": "spacenews",
+            "text": "Apex sells satellite for Japanese technology demonstration mission",
+            "source_link": "https://spacenews.com/apex-sells-satellite-for-japanese-technology-demonstration-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-19T07:24:08.777565Z",
+            "shown_at": [
+                "2026-03-19T07:24:09.599809Z"
             ]
         }
     ]
