@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 16 | 32 |
-| spacenews | 6 | 16 | 19 | 44 |
+| spacenews | 7 | 16 | 20 | 44 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2725,3 +2725,4 @@
 - **Mar 19, 03:24 PM** - ReOrbit sells two small GEO satellites to SLI (spacenews)
 - **Mar 19, 03:59 PM** - A Meteor Streaks Across the U.S. and Rattles Ohio With an Explosive Boom (nyt)
 - **Mar 19, 04:34 PM** - Strait of Hormuz crisis drives demand for commercial geospatial intelligence (spacenews)
+- **Mar 19, 05:09 PM** - Portal Space Systems and Paladin Space plan debris removal service (spacenews)

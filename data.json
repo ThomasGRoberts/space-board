@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-19T00:04:56.334925+00:00",
-    "trigger_count": 6,
-    "current_item_id": "959aa8fca18aa803e58ae26d491b716b",
+    "trigger_count": 0,
+    "current_item_id": "8d49b9110594aec94362acdbe7bdfbcd",
     "data": [
         {
             "id": "b0dc4a3b483434b848e1b65a81fa52a1",
@@ -8252,6 +8252,18 @@
             "fetched_datetime": "2026-03-19T14:49:16.010990Z",
             "shown_at": [
                 "2026-03-19T15:24:21.291692Z"
+            ]
+        },
+        {
+            "id": "8d49b9110594aec94362acdbe7bdfbcd",
+            "source": "spacenews",
+            "text": "Portal Space Systems and Paladin Space plan debris removal service",
+            "source_link": "https://spacenews.com/portal-space-systems-and-paladin-space-plan-debris-removal-service/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-19T17:09:14.291726Z",
+            "shown_at": [
+                "2026-03-19T17:09:15.594910Z"
             ]
         }
     ]
