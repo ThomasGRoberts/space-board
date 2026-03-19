@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 2 | 18 | 35 |
+| nyt | 1 | 2 | 19 | 36 |
 | spacenews | 7 | 16 | 22 | 46 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2712,3 +2712,4 @@
 - **Mar 19, 04:29 AM** - China ends month-long launch hiatus with separate Guowang and Shiyan-30 satellite missions (spacenews)
 - **Mar 19, 05:04 AM** - NASA’s Hubble Telescope Spots Comet K1 Exploding Into Fragments (nyt)
 - **Mar 19, 05:39 AM** - NASA working toward April 1 launch of Artemis 2 (spacenews)
+- **Mar 19, 06:14 AM** - Spaceflight Started 100 Years Ago in a Massachusetts Cabbage Patch (nyt)
