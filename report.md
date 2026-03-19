@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 15 | 33 |
-| spacenews | 7 | 15 | 20 | 43 |
+| spacenews | 7 | 14 | 21 | 43 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2732,3 +2732,4 @@
 - **Mar 19, 07:29 PM** - A Meteor Streaks Across the U.S. and Rattles Ohio With an Explosive Boom (nyt)
 - **Mar 19, 08:05 PM** - Golden Dome cost estimate rises to $185 billion as Pentagon expands space layer (spacenews)
 - **Mar 19, 08:44 PM** - Spaceflight Started 100 Years Ago in a Massachusetts Cabbage Patch (nyt)
+- **Mar 19, 09:19 PM** - Raytheon contract for protected satellite communications terminals raised by $2 billion (spacenews)
