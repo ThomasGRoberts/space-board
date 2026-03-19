@@ -1,9 +1,123 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-03-18T00:04:29.635818+00:00",
-    "trigger_count": 2,
+    "last_run_datetime": "2026-03-19T00:04:56.334925+00:00",
+    "trigger_count": 3,
     "current_item_id": "01c28e93f2d77ebdc66a79c1ed0ce624",
     "data": [
+        {
+            "id": "b0dc4a3b483434b848e1b65a81fa52a1",
+            "source": "nyt",
+            "text": "NASA’s Hubble Telescope Spots Comet K1 Exploding Into Fragments",
+            "source_link": "https://www.nytimes.com/2026/03/18/science/comet-fragments-hubble-telescope.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-18T23:14:14.390374Z",
+            "shown_at": [
+                "2026-03-18T23:14:15.465053Z"
+            ]
+        },
+        {
+            "id": "01c28e93f2d77ebdc66a79c1ed0ce624",
+            "source": "spacenews",
+            "text": "Space Command classified wargame to include 25 commercial players",
+            "source_link": "https://spacenews.com/space-command-classified-wargame-to-include-25-commercial-players/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-18T22:39:19.548799Z",
+            "shown_at": [
+                "2026-03-18T23:49:11.750731Z"
+            ]
+        },
+        {
+            "id": "752dcb52533cebc74990b86b161e2412",
+            "source": "spacenews",
+            "text": "Rocket Lab wins $190 million Pentagon deal for hypersonic test flights",
+            "source_link": "https://spacenews.com/rocket-lab-wins-190-million-pentagon-deal-for-hypersonic-test-flights/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-18T22:39:19.548708Z",
+            "shown_at": [
+                "2026-03-18T22:39:20.752675Z"
+            ]
+        },
+        {
+            "id": "bbcde129e556c3b2c3c57526e817c91c",
+            "source": "spacenews",
+            "text": "TransAstra aims to move 100-ton asteroid to stable orbit for processing",
+            "source_link": "https://spacenews.com/transastra-aims-to-move-100-ton-asteroid-to-stable-orbit-for-processing/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-18T19:09:29.803395Z",
+            "shown_at": [
+                "2026-03-18T19:09:30.961744Z"
+            ]
+        },
+        {
+            "id": "c76f00fe92aac7d5acd0ce7ccbcc497a",
+            "source": "spacenews",
+            "text": "Solar array deal sheds more light on South Korea’s defense constellation",
+            "source_link": "https://spacenews.com/solar-array-deal-sheds-more-light-on-south-koreas-defense-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-18T15:29:14.139069Z",
+            "shown_at": [
+                "2026-03-18T15:29:15.104843Z"
+            ]
+        },
+        {
+            "id": "2f55c987e0c5a271a0bfaf8d8c257eb4",
+            "source": "spacenews",
+            "text": "China signals new target for 2027 asteroid deflection test",
+            "source_link": "https://spacenews.com/china-signals-new-target-for-2027-asteroid-deflection-test/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-18T13:05:13.387306Z",
+            "shown_at": [
+                "2026-03-18T13:44:17.613407Z"
+            ]
+        },
+        {
+            "id": "809e8fd321a5cc6c3c38214f07ae93b1",
+            "source": "spacenews",
+            "text": "Frontier justice: navigating the future legal landscape for private actors in space law",
+            "source_link": "https://spacenews.com/frontier-justice-navigating-the-future-legal-landscape-for-private-actors-in-space-law/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-18T13:05:13.387238Z",
+            "shown_at": [
+                "2026-03-18T13:05:14.984978Z"
+            ]
+        },
+        {
+            "id": "8f10e9d10dfd39b99d6d8b351466b689",
+            "source": "spacenews",
+            "text": "NASA grappling with planetary science funding shortfall",
+            "source_link": "https://spacenews.com/nasa-grappling-with-planetary-science-funding-shortfall/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-18T12:29:14.616810Z",
+            "shown_at": [
+                "2026-03-18T12:29:16.088719Z"
+            ]
+        },
+        {
+            "id": "9421c99ab2e6d0a8f54384683d59b251",
+            "source": "nyt",
+            "text": "A Meteor Streaks Across the U.S. and Rattles Ohio With an Explosive Boom",
+            "source_link": "https://www.nytimes.com/2026/03/17/us/ohio-cleveland-meteor.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-18T01:59:29.647725Z",
+            "shown_at": [
+                "2026-03-18T01:59:30.567177Z",
+                "2026-03-18T03:09:08.407555Z",
+                "2026-03-18T07:49:19.500606Z",
+                "2026-03-18T10:09:24.190525Z",
+                "2026-03-18T16:04:46.262445Z",
+                "2026-03-18T20:54:15.600806Z",
+                "2026-03-18T22:04:30.603280Z"
+            ]
+        },
         {
             "id": "face25900b944331995416dec50fba4d",
             "source": "spacenews",
@@ -8082,252 +8196,6 @@
             "shown_at": [
                 "2026-01-07T15:34:25.489228Z",
                 "2026-01-11T19:35:22.401452Z"
-            ]
-        },
-        {
-            "id": "0496f5d097500a9029cd7484ff0c0841",
-            "source": "spacenews",
-            "text": "SpaceX’s IPO will make space investment far less niche",
-            "source_link": "https://spacenews.com/spacexs-ipo-will-make-space-investment-far-less-niche/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-07T14:24:21.451364Z",
-            "shown_at": [
-                "2026-01-07T14:24:22.271199Z"
-            ]
-        },
-        {
-            "id": "10e8546d9ae76c19dee5fcdb6e70779c",
-            "source": "spacenews",
-            "text": "NASA seeks to accelerate development of Habitable Worlds Observatory",
-            "source_link": "https://spacenews.com/nasa-seeks-to-accelerate-development-of-habitable-worlds-observatory/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-07T13:49:52.852684Z",
-            "shown_at": [
-                "2026-01-07T13:49:53.763132Z",
-                "2026-01-11T13:44:17.321522Z"
-            ]
-        },
-        {
-            "id": "a742d4157b0b4a5501baf9aaa0fa80a8",
-            "source": "spacenews",
-            "text": "2026 Outlook: Can Acquisition Reform Deliver for Military Space?",
-            "source_link": "https://spacenews.com/the-pentagon-will-feel-the-pressure-to-finally-realize-commercial-first/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-07T12:34:10.266275Z",
-            "shown_at": [
-                "2026-01-07T13:08:54.392047Z",
-                "2026-01-11T06:39:00.914707Z",
-                "2026-01-13T03:34:38.680211Z",
-                "2026-01-13T07:04:35.116253Z"
-            ]
-        },
-        {
-            "id": "46237a214997ad204e43083d010d465f",
-            "source": "spacenews",
-            "text": "SkyFi expands virtual constellation with Vantor satellite imagery",
-            "source_link": "https://spacenews.com/skyfi-expands-virtual-constellation-with-vantor-satellite-imagery/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-07T12:34:10.266198Z",
-            "shown_at": [
-                "2026-01-07T12:34:10.849348Z",
-                "2026-01-10T10:44:18.194574Z",
-                "2026-01-14T07:32:41.328893Z"
-            ]
-        },
-        {
-            "id": "93d3ed05925a5383567218918f4601f9",
-            "source": "spacenews",
-            "text": "NASA works to extend Swift’s life ahead of reboost mission",
-            "source_link": "https://spacenews.com/nasa-works-to-extend-swifts-life-ahead-of-reboost-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-07T00:59:11.449200Z",
-            "shown_at": [
-                "2026-01-07T00:59:12.100120Z",
-                "2026-01-07T06:29:20.945297Z",
-                "2026-01-09T05:59:03.298759Z",
-                "2026-01-13T18:04:39.493044Z"
-            ]
-        },
-        {
-            "id": "370ee09ca15b70cbf755084585f89962",
-            "source": "spacenews",
-            "text": "Willy Ley’s Long-Awaited Journey to Orbit: Honoring a Space Pioneer on Celestis’ Serenity and Destiny Flights",
-            "source_link": "https://spacenews.com/willy-leys-long-awaited-journey-to-orbit-honoring-a-space-pioneer-on-celestis-serenity-and-destiny-flights/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-06T18:19:29.150490Z",
-            "shown_at": [
-                "2026-01-06T18:19:31.257679Z",
-                "2026-01-07T08:14:46.546777Z"
-            ]
-        },
-        {
-            "id": "5f940cc4178afa3d95712903647c337d",
-            "source": "spacenews",
-            "text": "Space cyber compliance: managing requirements for today and tomorrow",
-            "source_link": "https://spacenews.com/space-cyber-compliance-managing-requirements-for-today-and-tomorrow/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-06T15:39:03.214012Z",
-            "shown_at": [
-                "2026-01-06T15:39:07.365166Z",
-                "2026-01-08T07:44:16.849016Z",
-                "2026-01-08T10:39:05.339492Z"
-            ]
-        },
-        {
-            "id": "64c475b446b52474b8cceaf9d35d80c1",
-            "source": "spacenews",
-            "text": "Is the race for moon missions lunacy?",
-            "source_link": "https://spacenews.com/is-the-race-for-moon-missions-lunacy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-06T13:19:18.189701Z",
-            "shown_at": [
-                "2026-01-06T13:19:18.899605Z",
-                "2026-01-10T15:59:15.591465Z",
-                "2026-01-10T20:39:20.531738Z"
-            ]
-        },
-        {
-            "id": "aa6ab18d464b613deb32de55d788b11d",
-            "source": "breaking_defense",
-            "text": "L3Harris hones DoD focus with sale of civil space propulsion unit",
-            "source_link": "https://breakingdefense.com/2026/01/l3harris-hones-dod-focus-with-sale-of-civil-space-propulsion-unit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-06T03:39:17.440516Z",
-            "shown_at": [
-                "2026-01-06T03:39:18.167406Z",
-                "2026-01-06T10:54:58.664565Z",
-                "2026-01-07T05:14:32.098885Z",
-                "2026-01-07T10:49:23.440034Z",
-                "2026-01-08T13:34:27.820371Z",
-                "2026-01-10T11:54:13.992309Z",
-                "2026-01-11T05:24:50.075394Z",
-                "2026-01-11T07:14:16.995019Z",
-                "2026-01-11T20:14:42.313039Z",
-                "2026-01-12T23:24:10.748277Z",
-                "2026-01-13T02:54:53.995200Z"
-            ]
-        },
-        {
-            "id": "9421c99ab2e6d0a8f54384683d59b251",
-            "source": "nyt",
-            "text": "A Meteor Streaks Across the U.S. and Rattles Ohio With an Explosive Boom",
-            "source_link": "https://www.nytimes.com/2026/03/17/us/ohio-cleveland-meteor.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-18T01:59:29.647725Z",
-            "shown_at": [
-                "2026-03-18T01:59:30.567177Z",
-                "2026-03-18T03:09:08.407555Z",
-                "2026-03-18T07:49:19.500606Z",
-                "2026-03-18T10:09:24.190525Z",
-                "2026-03-18T16:04:46.262445Z",
-                "2026-03-18T20:54:15.600806Z",
-                "2026-03-18T22:04:30.603280Z"
-            ]
-        },
-        {
-            "id": "8f10e9d10dfd39b99d6d8b351466b689",
-            "source": "spacenews",
-            "text": "NASA grappling with planetary science funding shortfall",
-            "source_link": "https://spacenews.com/nasa-grappling-with-planetary-science-funding-shortfall/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-18T12:29:14.616810Z",
-            "shown_at": [
-                "2026-03-18T12:29:16.088719Z"
-            ]
-        },
-        {
-            "id": "809e8fd321a5cc6c3c38214f07ae93b1",
-            "source": "spacenews",
-            "text": "Frontier justice: navigating the future legal landscape for private actors in space law",
-            "source_link": "https://spacenews.com/frontier-justice-navigating-the-future-legal-landscape-for-private-actors-in-space-law/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-18T13:05:13.387238Z",
-            "shown_at": [
-                "2026-03-18T13:05:14.984978Z"
-            ]
-        },
-        {
-            "id": "2f55c987e0c5a271a0bfaf8d8c257eb4",
-            "source": "spacenews",
-            "text": "China signals new target for 2027 asteroid deflection test",
-            "source_link": "https://spacenews.com/china-signals-new-target-for-2027-asteroid-deflection-test/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-18T13:05:13.387306Z",
-            "shown_at": [
-                "2026-03-18T13:44:17.613407Z"
-            ]
-        },
-        {
-            "id": "c76f00fe92aac7d5acd0ce7ccbcc497a",
-            "source": "spacenews",
-            "text": "Solar array deal sheds more light on South Korea’s defense constellation",
-            "source_link": "https://spacenews.com/solar-array-deal-sheds-more-light-on-south-koreas-defense-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-18T15:29:14.139069Z",
-            "shown_at": [
-                "2026-03-18T15:29:15.104843Z"
-            ]
-        },
-        {
-            "id": "bbcde129e556c3b2c3c57526e817c91c",
-            "source": "spacenews",
-            "text": "TransAstra aims to move 100-ton asteroid to stable orbit for processing",
-            "source_link": "https://spacenews.com/transastra-aims-to-move-100-ton-asteroid-to-stable-orbit-for-processing/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-18T19:09:29.803395Z",
-            "shown_at": [
-                "2026-03-18T19:09:30.961744Z"
-            ]
-        },
-        {
-            "id": "752dcb52533cebc74990b86b161e2412",
-            "source": "spacenews",
-            "text": "Rocket Lab wins $190 million Pentagon deal for hypersonic test flights",
-            "source_link": "https://spacenews.com/rocket-lab-wins-190-million-pentagon-deal-for-hypersonic-test-flights/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-18T22:39:19.548708Z",
-            "shown_at": [
-                "2026-03-18T22:39:20.752675Z"
-            ]
-        },
-        {
-            "id": "01c28e93f2d77ebdc66a79c1ed0ce624",
-            "source": "spacenews",
-            "text": "Space Command classified wargame to include 25 commercial players",
-            "source_link": "https://spacenews.com/space-command-classified-wargame-to-include-25-commercial-players/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-18T22:39:19.548799Z",
-            "shown_at": [
-                "2026-03-18T23:49:11.750731Z"
-            ]
-        },
-        {
-            "id": "b0dc4a3b483434b848e1b65a81fa52a1",
-            "source": "nyt",
-            "text": "NASA’s Hubble Telescope Spots Comet K1 Exploding Into Fragments",
-            "source_link": "https://www.nytimes.com/2026/03/18/science/comet-fragments-hubble-telescope.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-18T23:14:14.390374Z",
-            "shown_at": [
-                "2026-03-18T23:14:15.465053Z"
             ]
         }
     ]
