@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-19T00:04:56.334925+00:00",
-    "trigger_count": 6,
-    "current_item_id": "da8778050d37c33d2133faee25c68983",
+    "trigger_count": 0,
+    "current_item_id": "428284bc12f3c5586b925055c94c2930",
     "data": [
         {
             "id": "b0dc4a3b483434b848e1b65a81fa52a1",
@@ -8227,6 +8227,27 @@
             "shown_at": [
                 "2026-03-19T07:24:09.599809Z"
             ]
+        },
+        {
+            "id": "428284bc12f3c5586b925055c94c2930",
+            "source": "spacenews",
+            "text": "NASA considering sharp increase in robotic lunar landings",
+            "source_link": "https://spacenews.com/nasa-considering-sharp-increase-in-robotic-lunar-landings/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-19T14:49:16.010925Z",
+            "shown_at": [
+                "2026-03-19T14:49:16.736737Z"
+            ]
+        },
+        {
+            "id": "a82c4e61c5a037fe1bd26fca62893075",
+            "source": "spacenews",
+            "text": "ReOrbit sells two small GEO satellites to SLI",
+            "source_link": "https://spacenews.com/reorbit-sells-two-small-geo-satellites-to-sli/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-03-19T14:49:16.010990Z"
         }
     ]
 }
