@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 15 | 32 |
-| spacenews | 7 | 16 | 20 | 44 |
+| spacenews | 8 | 17 | 21 | 45 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2728,3 +2728,4 @@
 - **Mar 19, 05:09 PM** - Portal Space Systems and Paladin Space plan debris removal service (spacenews)
 - **Mar 19, 05:44 PM** - NASA’s Hubble Telescope Spots Comet K1 Exploding Into Fragments (nyt)
 - **Mar 19, 06:19 PM** - Canadian military invests in sovereign launch (spacenews)
+- **Mar 19, 06:54 PM** - Kratos wins $446 million Space Force contract for missile-tracking ground systems (spacenews)

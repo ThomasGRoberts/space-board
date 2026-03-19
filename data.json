@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-19T00:04:56.334925+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2cfad31296cdd71aa7d06c2398fc575e",
+    "trigger_count": 0,
+    "current_item_id": "cd1e2f60e8c5d28a5019f25683c59ba4",
     "data": [
         {
             "id": "b0dc4a3b483434b848e1b65a81fa52a1",
@@ -8266,6 +8266,18 @@
             "fetched_datetime": "2026-03-19T17:09:14.291726Z",
             "shown_at": [
                 "2026-03-19T17:09:15.594910Z"
+            ]
+        },
+        {
+            "id": "cd1e2f60e8c5d28a5019f25683c59ba4",
+            "source": "spacenews",
+            "text": "Kratos wins $446 million Space Force contract for missile-tracking ground systems",
+            "source_link": "https://spacenews.com/kratos-wins-446-million-space-force-contract-for-missile-tracking-ground-systems/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-19T18:54:14.441709Z",
+            "shown_at": [
+                "2026-03-19T18:54:16.218419Z"
             ]
         }
     ]
