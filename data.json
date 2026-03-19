@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-19T00:04:56.334925+00:00",
-    "trigger_count": 6,
-    "current_item_id": "69a03be2925cdf5849e9922639327e58",
+    "trigger_count": 0,
+    "current_item_id": "22fe905215f14c1941e4ba1cbf8957a1",
     "data": [
         {
             "id": "b0dc4a3b483434b848e1b65a81fa52a1",
@@ -8285,6 +8285,18 @@
             "fetched_datetime": "2026-03-19T18:54:14.441709Z",
             "shown_at": [
                 "2026-03-19T18:54:16.218419Z"
+            ]
+        },
+        {
+            "id": "22fe905215f14c1941e4ba1cbf8957a1",
+            "source": "spacenews",
+            "text": "Blue Origin joins the orbital data center race",
+            "source_link": "https://spacenews.com/blue-origin-joins-the-orbital-data-center-race/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-19T23:38:59.901823Z",
+            "shown_at": [
+                "2026-03-19T23:39:00.939706Z"
             ]
         }
     ]
