@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 15 | 34 |
-| spacenews | 7 | 13 | 20 | 42 |
+| spacenews | 7 | 13 | 21 | 43 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2734,3 +2734,4 @@
 - **Mar 19, 08:44 PM** - Spaceflight Started 100 Years Ago in a Massachusetts Cabbage Patch (nyt)
 - **Mar 19, 09:19 PM** - Raytheon contract for protected satellite communications terminals raised by $2 billion (spacenews)
 - **Mar 19, 09:54 PM** - A Meteor Streaks Across the U.S. and Rattles Ohio With an Explosive Boom (nyt)
+- **Mar 19, 10:29 PM** - China launches new highly retrograde Yaogan satellite, KZ-11 rideshare deploys 8 satellites (spacenews)
