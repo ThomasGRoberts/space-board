@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 2 | 15 | 32 |
+| nyt | 1 | 2 | 16 | 33 |
 | spacenews | 7 | 16 | 20 | 44 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2729,3 +2729,4 @@
 - **Mar 19, 05:44 PM** - NASA’s Hubble Telescope Spots Comet K1 Exploding Into Fragments (nyt)
 - **Mar 19, 06:19 PM** - Canadian military invests in sovereign launch (spacenews)
 - **Mar 19, 06:54 PM** - Kratos wins $446 million Space Force contract for missile-tracking ground systems (spacenews)
+- **Mar 19, 07:29 PM** - A Meteor Streaks Across the U.S. and Rattles Ohio With an Explosive Boom (nyt)
