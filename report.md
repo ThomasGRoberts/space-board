@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 2 | 18 | 35 |
+| nyt | 1 | 2 | 19 | 36 |
 | spacenews | 7 | 16 | 22 | 46 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2708,3 +2708,4 @@
 - **Mar 19, 02:09 AM** - Q&A: Rebecca Evernden on UK space strategy (spacenews)
 - **Mar 19, 02:44 AM** - NASA’s Hubble Telescope Spots Comet K1 Exploding Into Fragments (nyt)
 - **Mar 19, 03:19 AM** - Telesat pivots Lightspeed toward defense as delays push global service to 2028 (spacenews)
+- **Mar 19, 03:54 AM** - NASA’s Hubble Telescope Spots Comet K1 Exploding Into Fragments (nyt)
