@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 18 | 35 |
-| spacenews | 8 | 17 | 22 | 46 |
+| spacenews | 8 | 17 | 23 | 47 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2716,3 +2716,4 @@
 - **Mar 19, 06:49 AM** - Raytheon contract for protected satellite communications terminals raised by $2 billion (spacenews)
 - **Mar 19, 07:24 AM** - Apex sells satellite for Japanese technology demonstration mission (spacenews)
 - **Mar 19, 07:59 AM** - Space Jam: NASA’s MADCAP Team Directs Traffic at the Moon (nyt)
+- **Mar 19, 08:39 AM** - Kepler Communications: Call for Live-Stream Payload Concepts (spacenews)
