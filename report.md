@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 18 | 35 |
-| spacenews | 7 | 16 | 22 | 46 |
+| spacenews | 7 | 16 | 23 | 47 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2703,3 +2703,4 @@
 - **Mar 18, 11:14 PM** - NASA’s Hubble Telescope Spots Comet K1 Exploding Into Fragments (nyt)
 - **Mar 18, 11:49 PM** - Space Command classified wargame to include 25 commercial players (spacenews)
 - **Mar 19, 12:24 AM** - Space Jam: NASA’s MADCAP Team Directs Traffic at the Moon (nyt)
+- **Mar 19, 12:59 AM** - Astranis taps retired Gen. John Hyten to lead advisory board  (spacenews)
