@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 20 | 42 |
+| spacenews | 6 | 13 | 20 | 43 |
 | nyt | 1 | 2 | 15 | 33 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2723,3 +2723,4 @@
 - **Mar 20, 02:39 AM** - ‘Spacewoman’ Review: Mission Driven (nyt)
 - **Mar 20, 03:14 AM** - Investing in student programs is essential for America’s lead in space (spacenews)
 - **Mar 20, 03:54 AM** - A Meteor Streaks Across the U.S. and Rattles Ohio With an Explosive Boom (nyt)
+- **Mar 20, 04:29 AM** - Solar array deal sheds more light on South Korea’s defense constellation (spacenews)
