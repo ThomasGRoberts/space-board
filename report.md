@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 20 | 42 |
-| nyt | 1 | 2 | 15 | 33 |
+| nyt | 1 | 2 | 16 | 34 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2726,3 +2726,4 @@
 - **Mar 20, 04:29 AM** - Solar array deal sheds more light on South Korea’s defense constellation (spacenews)
 - **Mar 20, 05:04 AM** - NASA’s Hubble Telescope Spots Comet K1 Exploding Into Fragments (nyt)
 - **Mar 20, 05:39 AM** - NASA working toward April 1 launch of Artemis 2 (spacenews)
+- **Mar 20, 06:14 AM** - A Meteor Streaks Across the U.S. and Rattles Ohio With an Explosive Boom (nyt)
