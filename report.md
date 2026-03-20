@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 13 | 24 | 42 |
-| nyt | 1 | 2 | 16 | 33 |
+| nyt | 1 | 2 | 17 | 34 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2739,3 +2739,4 @@
 - **Mar 20, 12:04 PM** - Kayhan targets investors, insurers with expanded orbital intelligence platform (spacenews)
 - **Mar 20, 12:39 PM** - ESA to fly dedicated Crew Dragon mission to ISS (spacenews)
 - **Mar 20, 01:14 PM** - Holistic space observation: the shift from SSA to SDA (spacenews)
+- **Mar 20, 01:49 PM** - ‘Spacewoman’ Review: Mission Driven (nyt)
