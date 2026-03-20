@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-20T00:04:42.616217+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ed59211a704343c30e6d20a3cdf4bf3b",
+    "trigger_count": 0,
+    "current_item_id": "9271d3bb41942b2e7877a386bc93ccf5",
     "data": [
         {
             "id": "22fe905215f14c1941e4ba1cbf8957a1",
@@ -8324,6 +8324,18 @@
             "fetched_datetime": "2026-03-20T21:34:32.468503Z",
             "shown_at": [
                 "2026-03-20T21:34:33.349303Z"
+            ]
+        },
+        {
+            "id": "9271d3bb41942b2e7877a386bc93ccf5",
+            "source": "spacenews",
+            "text": "Officina Stellare wins $2 million contract for lasercom ground station in Spain",
+            "source_link": "https://spacenews.com/officina-stellare-wins-2-million-contract-for-lasercom-ground-station-in-spain/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-20T22:09:13.463945Z",
+            "shown_at": [
+                "2026-03-20T22:09:14.513035Z"
             ]
         }
     ]

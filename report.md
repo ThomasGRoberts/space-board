@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 14 | 23 | 43 |
-| nyt | 1 | 2 | 17 | 33 |
+| spacenews | 8 | 15 | 24 | 44 |
+| nyt | 1 | 2 | 17 | 32 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2753,3 +2753,4 @@
 - **Mar 20, 08:18 PM** - A Meteor Streaks Across the U.S. and Rattles Ohio With an Explosive Boom (nyt)
 - **Mar 20, 08:54 PM** - Another GPS launch shifts from ULA to SpaceX as Vulcan investigation continues (spacenews)
 - **Mar 20, 09:34 PM** - Rocket Lab launches eighth Synspective radar imaging satellite (spacenews)
+- **Mar 20, 10:09 PM** - Officina Stellare wins $2 million contract for lasercom ground station in Spain (spacenews)
