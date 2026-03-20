@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 13 | 20 | 42 |
-| nyt | 1 | 2 | 15 | 33 |
+| nyt | 1 | 2 | 16 | 34 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2734,3 +2734,4 @@
 - **Mar 20, 09:09 AM** - Golden Dome cost estimate rises to $185 billion as Pentagon expands space layer (spacenews)
 - **Mar 20, 09:44 AM** - ‘Spacewoman’ Review: Mission Driven (nyt)
 - **Mar 20, 10:19 AM** - Space Command classified wargame to include 25 commercial players (spacenews)
+- **Mar 20, 10:54 AM** - ‘Spacewoman’ Review: Mission Driven (nyt)
