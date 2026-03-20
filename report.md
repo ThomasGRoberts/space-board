@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 20 | 42 |
-| nyt | 0 | 1 | 15 | 33 |
+| nyt | 1 | 2 | 16 | 34 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2720,3 +2720,4 @@
 - **Mar 20, 12:49 AM** - Starcloud files plans for 88,000-satellite constellation (spacenews)
 - **Mar 20, 01:29 AM** - NASA’s Hubble Telescope Spots Comet K1 Exploding Into Fragments (nyt)
 - **Mar 20, 02:04 AM** - Kazakhstan must choose: be Eurasia’s tech broker or become a pawn in the new global space race (spacenews)
+- **Mar 20, 02:39 AM** - ‘Spacewoman’ Review: Mission Driven (nyt)
