@@ -2,19 +2,12 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 2 | 15 | 33 |
 | spacenews | 6 | 13 | 20 | 43 |
+| nyt | 0 | 2 | 15 | 33 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
 
-- **Jan 07, 03:34 PM** - Space Force moves to standardize satellites with ‘Handle 2.0’ contract (spacenews)
-- **Jan 07, 05:19 PM** - Terran Orbital Appoints Michael Vishion as Vice President of Program Management (spacenews)
-- **Jan 07, 07:09 PM** - Terran Orbital Appoints Michael Vishion as Vice President of Program Management (spacenews)
-- **Jan 07, 08:59 PM** - ‘Overwatch’ from space, cyber ops foundational to Maduro mission (breaking_defense)
-- **Jan 08, 05:59 AM** - NASA continues to work toward February launch of Artemis 2 (spacenews)
-- **Jan 08, 12:24 PM** - Interplanetary science needs a commercial backbone (spacenews)
-- **Jan 08, 12:59 PM** - Medical issue could force early end of Crew-11 ISS mission (spacenews)
 - **Jan 08, 02:09 PM** - Vulcan to open 2026 with national security launch (spacenews)
 - **Jan 08, 02:44 PM** - The ‘space tax’ on your self-driving car (spacenews)
 - **Jan 08, 05:05 PM** - NASA May Return Early From International Space Station After Medical Issue (nyt)
@@ -32,7 +25,6 @@
 - **Jan 09, 04:49 AM** - Scientists Discover Cloud-9, a Starless ‘Galaxy That Wasn’t’ (nyt)
 - **Jan 09, 05:24 AM** - China holds the GPS advantage over the US. Here’s why, and how to solve it. (breaking_defense)
 - **Jan 09, 06:34 AM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
-- **Jan 09, 07:09 AM** - ‘Overwatch’ from space, cyber ops foundational to Maduro mission (breaking_defense)
 - **Jan 09, 08:24 AM** - NASA May Return Early From International Space Station After Medical Issue (nyt)
 - **Jan 09, 10:14 AM** - NASA May Return Early From International Space Station After Medical Issue (nyt)
 - **Jan 09, 11:24 AM** - Rhea Space Activity applies optical navigation to military rendezvous missions (spacenews)
@@ -46,7 +38,6 @@
 - **Jan 10, 05:44 AM** - Google’s Ex-CEO Backs Start-Up Approach to Big Telescopes for Space and Astronomy (nyt)
 - **Jan 10, 06:54 AM** - The ‘space tax’ on your self-driving car (spacenews)
 - **Jan 10, 07:29 AM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
-- **Jan 10, 08:54 AM** - Medical issue could force early end of Crew-11 ISS mission (spacenews)
 - **Jan 10, 09:29 AM** - NASA May Return Early From International Space Station After Medical Issue (nyt)
 - **Jan 10, 10:05 AM** - China holds the GPS advantage over the US. Here’s why, and how to solve it. (breaking_defense)
 - **Jan 10, 11:19 AM** - Google’s Ex-CEO Backs Start-Up Approach to Big Telescopes for Space and Astronomy (nyt)
@@ -65,9 +56,7 @@
 - **Jan 10, 09:49 PM** - Crew-11 to make early return Jan. 15 (spacenews)
 - **Jan 10, 10:24 PM** - SpaceX to launch next SDA missile tracking satellites (breaking_defense)
 - **Jan 10, 10:59 PM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
-- **Jan 10, 11:34 PM** - Interplanetary science needs a commercial backbone (spacenews)
 - **Jan 11, 12:44 AM** - Google’s Ex-CEO Backs Start-Up Approach to Big Telescopes for Space and Astronomy (nyt)
-- **Jan 11, 01:19 AM** - Medical issue could force early end of Crew-11 ISS mission (spacenews)
 - **Jan 11, 02:29 AM** - NASA May Return Early From International Space Station After Medical Issue (nyt)
 - **Jan 11, 03:04 AM** - The ‘space tax’ on your self-driving car (spacenews)
 - **Jan 11, 03:39 AM** - SpaceX to launch next SDA missile tracking satellites (breaking_defense)
@@ -75,8 +64,6 @@
 - **Jan 11, 04:49 AM** - Roman Space Telescope on track for September launch (spacenews)
 - **Jan 11, 05:59 AM** - NASA May Return Early From International Space Station After Medical Issue (nyt)
 - **Jan 11, 07:49 AM** - NASA May Return Early From International Space Station After Medical Issue (nyt)
-- **Jan 11, 08:24 AM** - Interplanetary science needs a commercial backbone (spacenews)
-- **Jan 11, 08:59 AM** - ‘Overwatch’ from space, cyber ops foundational to Maduro mission (breaking_defense)
 - **Jan 11, 09:34 AM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
 - **Jan 11, 10:09 AM** - FCC approves 7,500 additional Starlink satellites (spacenews)
 - **Jan 11, 10:44 AM** - China holds the GPS advantage over the US. Here’s why, and how to solve it. (breaking_defense)
@@ -90,9 +77,7 @@
 - **Jan 11, 05:49 PM** - NASA astrophysics, commercial satellites launch on SpaceX rideshare mission (spacenews)
 - **Jan 11, 06:24 PM** - How the Air Force is revamping its acquisition shop with new ‘portfolios’ (breaking_defense)
 - **Jan 11, 06:59 PM** - NASA May Return Early From International Space Station After Medical Issue (nyt)
-- **Jan 11, 07:35 PM** - Space Force moves to standardize satellites with ‘Handle 2.0’ contract (spacenews)
 - **Jan 11, 08:49 PM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
-- **Jan 11, 09:24 PM** - Terran Orbital Appoints Michael Vishion as Vice President of Program Management (spacenews)
 - **Jan 11, 09:59 PM** - China holds the GPS advantage over the US. Here’s why, and how to solve it. (breaking_defense)
 - **Jan 11, 10:34 PM** - Scientists Discover Cloud-9, a Starless ‘Galaxy That Wasn’t’ (nyt)
 - **Jan 11, 11:09 PM** - Kepler network to link OroraTech sensors for Earth monitoring (spacenews)
@@ -100,9 +85,7 @@
 - **Jan 12, 12:19 AM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
 - **Jan 12, 12:54 AM** - FCC approves 7,500 additional Starlink satellites (spacenews)
 - **Jan 12, 02:04 AM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
-- **Jan 12, 02:39 AM** - Interplanetary science needs a commercial backbone (spacenews)
 - **Jan 12, 03:49 AM** - Scientists Discover Cloud-9, a Starless ‘Galaxy That Wasn’t’ (nyt)
-- **Jan 12, 04:24 AM** - NASA continues to work toward February launch of Artemis 2 (spacenews)
 - **Jan 12, 04:59 AM** - How the Air Force is revamping its acquisition shop with new ‘portfolios’ (breaking_defense)
 - **Jan 12, 05:34 AM** - Scientists Discover Cloud-9, a Starless ‘Galaxy That Wasn’t’ (nyt)
 - **Jan 12, 06:09 AM** - The ‘space tax’ on your self-driving car (spacenews)
@@ -164,7 +147,6 @@
 - **Jan 13, 08:34 PM** - Pentagon commits $1 billion to L3Harris missile unit as ‘anchor investor’ (spacenews)
 - **Jan 13, 09:09 PM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
 - **Jan 13, 09:49 PM** - ESA and ClearSpace announce PRELUDE in-orbit servicing and debris removal mission (spacenews)
-- **Jan 13, 10:24 PM** - ‘Overwatch’ from space, cyber ops foundational to Maduro mission (breaking_defense)
 - **Jan 13, 11:09 PM** - NASA May Return Early From International Space Station After Medical Issue (nyt)
 - **Jan 13, 11:44 PM** - This year must bring greater collaboration against orbital congestion (spacenews)
 - **Jan 14, 12:19 AM** - DIU to fund ‘unjammable’ magnetic navigation tech (breaking_defense)
@@ -174,9 +156,7 @@
 - **Jan 14, 02:39 AM** - Private group unveils plans for large space telescope (spacenews)
 - **Jan 14, 03:14 AM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
 - **Jan 14, 03:49 AM** - Firefly to upgrade Alpha rocket to improve reliability (spacenews)
-- **Jan 14, 04:24 AM** - ‘Overwatch’ from space, cyber ops foundational to Maduro mission (breaking_defense)
 - **Jan 14, 04:59 AM** - NASA May Return Early From International Space Station After Medical Issue (nyt)
-- **Jan 14, 05:34 AM** - NASA continues to work toward February launch of Artemis 2 (spacenews)
 - **Jan 14, 06:14 AM** - DIU to fund ‘unjammable’ magnetic navigation tech (breaking_defense)
 - **Jan 14, 06:54 AM** - NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue (nyt)
 - **Jan 14, 08:09 AM** - DARPA backs Diffraqtion to demo ‘quantum camera’ for space, Earth surveillance (breaking_defense)
@@ -186,7 +166,6 @@
 - **Jan 14, 10:34 AM** - Google’s Ex-CEO Backs Start-Up Approach to Big Telescopes for Space and Astronomy (nyt)
 - **Jan 14, 11:09 AM** - China’s first launches of 2026 send Yaogan spacecraft into unusual orbit, loft Guowang satellites  (spacenews)
 - **Jan 14, 11:49 AM** - SkyFi raises $12.7 million to scale satellite data marketplace (spacenews)
-- **Jan 14, 12:29 PM** - ‘Overwatch’ from space, cyber ops foundational to Maduro mission (breaking_defense)
 - **Jan 14, 01:05 PM** - When allies can’t count on U.S. ISR, commercial space becomes strategic (spacenews)
 - **Jan 14, 01:44 PM** - NASA pessimistic about odds of recovering MAVEN (spacenews)
 - **Jan 14, 02:19 PM** - Space operations will become more dynamic this year (spacenews)

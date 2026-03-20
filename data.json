@@ -1,9 +1,81 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-03-19T00:04:56.334925+00:00",
-    "trigger_count": 4,
+    "last_run_datetime": "2026-03-20T00:04:42.616217+00:00",
+    "trigger_count": 5,
     "current_item_id": "22fe905215f14c1941e4ba1cbf8957a1",
     "data": [
+        {
+            "id": "22fe905215f14c1941e4ba1cbf8957a1",
+            "source": "spacenews",
+            "text": "Blue Origin joins the orbital data center race",
+            "source_link": "https://spacenews.com/blue-origin-joins-the-orbital-data-center-race/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-19T23:38:59.901823Z",
+            "shown_at": [
+                "2026-03-19T23:39:00.939706Z"
+            ]
+        },
+        {
+            "id": "cd1e2f60e8c5d28a5019f25683c59ba4",
+            "source": "spacenews",
+            "text": "Kratos wins $446 million Space Force contract for missile-tracking ground systems",
+            "source_link": "https://spacenews.com/kratos-wins-446-million-space-force-contract-for-missile-tracking-ground-systems/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-19T18:54:14.441709Z",
+            "shown_at": [
+                "2026-03-19T18:54:16.218419Z"
+            ]
+        },
+        {
+            "id": "8d49b9110594aec94362acdbe7bdfbcd",
+            "source": "spacenews",
+            "text": "Portal Space Systems and Paladin Space plan debris removal service",
+            "source_link": "https://spacenews.com/portal-space-systems-and-paladin-space-plan-debris-removal-service/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-19T17:09:14.291726Z",
+            "shown_at": [
+                "2026-03-19T17:09:15.594910Z"
+            ]
+        },
+        {
+            "id": "a82c4e61c5a037fe1bd26fca62893075",
+            "source": "spacenews",
+            "text": "ReOrbit sells two small GEO satellites to SLI",
+            "source_link": "https://spacenews.com/reorbit-sells-two-small-geo-satellites-to-sli/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-19T14:49:16.010990Z",
+            "shown_at": [
+                "2026-03-19T15:24:21.291692Z"
+            ]
+        },
+        {
+            "id": "428284bc12f3c5586b925055c94c2930",
+            "source": "spacenews",
+            "text": "NASA considering sharp increase in robotic lunar landings",
+            "source_link": "https://spacenews.com/nasa-considering-sharp-increase-in-robotic-lunar-landings/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-19T14:49:16.010925Z",
+            "shown_at": [
+                "2026-03-19T14:49:16.736737Z"
+            ]
+        },
+        {
+            "id": "b431925d9136eb11e3af7618ac458726",
+            "source": "spacenews",
+            "text": "Apex sells satellite for Japanese technology demonstration mission",
+            "source_link": "https://spacenews.com/apex-sells-satellite-for-japanese-technology-demonstration-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-19T07:24:08.777565Z",
+            "shown_at": [
+                "2026-03-19T07:24:09.599809Z"
+            ]
+        },
         {
             "id": "b0dc4a3b483434b848e1b65a81fa52a1",
             "source": "nyt",
@@ -8138,165 +8210,6 @@
             "fetched_datetime": "2026-01-08T14:09:00.083532Z",
             "shown_at": [
                 "2026-01-08T14:09:00.872540Z"
-            ]
-        },
-        {
-            "id": "a830f3e2d8c60b2af80141054e812239",
-            "source": "spacenews",
-            "text": "Medical issue could force early end of Crew-11 ISS mission",
-            "source_link": "https://spacenews.com/medical-issue-could-force-early-end-of-crew-11-iss-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-08T12:59:07.248032Z",
-            "shown_at": [
-                "2026-01-08T12:59:07.863647Z",
-                "2026-01-10T08:54:07.081132Z",
-                "2026-01-11T01:19:19.088189Z"
-            ]
-        },
-        {
-            "id": "0b0faf03a0803943accf6e1e8794a8f2",
-            "source": "spacenews",
-            "text": "Interplanetary science needs a commercial backbone",
-            "source_link": "https://spacenews.com/interplanetary-science-needs-a-commercial-backbone/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-08T12:24:32.375082Z",
-            "shown_at": [
-                "2026-01-08T12:24:33.225328Z",
-                "2026-01-10T23:34:33.671076Z",
-                "2026-01-11T08:24:10.399456Z",
-                "2026-01-12T02:39:35.253218Z"
-            ]
-        },
-        {
-            "id": "f85a5d32a6cd32a1012e255b1374464c",
-            "source": "spacenews",
-            "text": "NASA continues to work toward February launch of Artemis 2",
-            "source_link": "https://spacenews.com/nasa-continues-to-work-toward-february-launch-of-artemis-2/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-08T05:59:17.716689Z",
-            "shown_at": [
-                "2026-01-08T05:59:18.474415Z",
-                "2026-01-12T04:24:19.830032Z",
-                "2026-01-14T05:34:25.536572Z"
-            ]
-        },
-        {
-            "id": "0f78f0f1ee6a27704de5ea6cf82e0d7d",
-            "source": "breaking_defense",
-            "text": "‘Overwatch’ from space, cyber ops foundational to Maduro mission",
-            "source_link": "https://breakingdefense.com/2026/01/overwatch-from-space-cyber-ops-foundational-to-maduro-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-07T20:58:59.314449Z",
-            "shown_at": [
-                "2026-01-07T20:59:00.077641Z",
-                "2026-01-09T07:09:08.108100Z",
-                "2026-01-11T08:59:12.171894Z",
-                "2026-01-13T22:24:19.798477Z",
-                "2026-01-14T04:24:15.534163Z",
-                "2026-01-14T12:29:23.065450Z"
-            ]
-        },
-        {
-            "id": "2d0439cc78e5931109ad00369e10f75f",
-            "source": "spacenews",
-            "text": "Terran Orbital Appoints Michael Vishion as Vice President of Program Management",
-            "source_link": "https://spacenews.com/terran-orbital-appoints-michael-vishion-as-vice-president-of-program-management/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-07T17:19:44.201223Z",
-            "shown_at": [
-                "2026-01-07T17:19:45.243825Z",
-                "2026-01-07T19:09:13.273056Z",
-                "2026-01-11T21:24:06.958661Z"
-            ]
-        },
-        {
-            "id": "696a1018e81c14b7285e57337fc63ef8",
-            "source": "spacenews",
-            "text": "Space Force moves to standardize satellites with ‘Handle 2.0’ contract",
-            "source_link": "https://spacenews.com/space-force-moves-to-standardize-satellites-with-handle-2-0-contract/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-07T15:34:24.752892Z",
-            "shown_at": [
-                "2026-01-07T15:34:25.489228Z",
-                "2026-01-11T19:35:22.401452Z"
-            ]
-        },
-        {
-            "id": "b431925d9136eb11e3af7618ac458726",
-            "source": "spacenews",
-            "text": "Apex sells satellite for Japanese technology demonstration mission",
-            "source_link": "https://spacenews.com/apex-sells-satellite-for-japanese-technology-demonstration-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-19T07:24:08.777565Z",
-            "shown_at": [
-                "2026-03-19T07:24:09.599809Z"
-            ]
-        },
-        {
-            "id": "428284bc12f3c5586b925055c94c2930",
-            "source": "spacenews",
-            "text": "NASA considering sharp increase in robotic lunar landings",
-            "source_link": "https://spacenews.com/nasa-considering-sharp-increase-in-robotic-lunar-landings/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-19T14:49:16.010925Z",
-            "shown_at": [
-                "2026-03-19T14:49:16.736737Z"
-            ]
-        },
-        {
-            "id": "a82c4e61c5a037fe1bd26fca62893075",
-            "source": "spacenews",
-            "text": "ReOrbit sells two small GEO satellites to SLI",
-            "source_link": "https://spacenews.com/reorbit-sells-two-small-geo-satellites-to-sli/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-19T14:49:16.010990Z",
-            "shown_at": [
-                "2026-03-19T15:24:21.291692Z"
-            ]
-        },
-        {
-            "id": "8d49b9110594aec94362acdbe7bdfbcd",
-            "source": "spacenews",
-            "text": "Portal Space Systems and Paladin Space plan debris removal service",
-            "source_link": "https://spacenews.com/portal-space-systems-and-paladin-space-plan-debris-removal-service/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-19T17:09:14.291726Z",
-            "shown_at": [
-                "2026-03-19T17:09:15.594910Z"
-            ]
-        },
-        {
-            "id": "cd1e2f60e8c5d28a5019f25683c59ba4",
-            "source": "spacenews",
-            "text": "Kratos wins $446 million Space Force contract for missile-tracking ground systems",
-            "source_link": "https://spacenews.com/kratos-wins-446-million-space-force-contract-for-missile-tracking-ground-systems/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-19T18:54:14.441709Z",
-            "shown_at": [
-                "2026-03-19T18:54:16.218419Z"
-            ]
-        },
-        {
-            "id": "22fe905215f14c1941e4ba1cbf8957a1",
-            "source": "spacenews",
-            "text": "Blue Origin joins the orbital data center race",
-            "source_link": "https://spacenews.com/blue-origin-joins-the-orbital-data-center-race/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-19T23:38:59.901823Z",
-            "shown_at": [
-                "2026-03-19T23:39:00.939706Z"
             ]
         }
     ]
