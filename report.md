@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 20 | 42 |
+| spacenews | 6 | 13 | 21 | 43 |
 | nyt | 0 | 2 | 15 | 34 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2717,3 +2717,4 @@
 - **Mar 19, 11:04 PM** - Spaceflight Started 100 Years Ago in a Massachusetts Cabbage Patch (nyt)
 - **Mar 19, 11:39 PM** - Blue Origin joins the orbital data center race (spacenews)
 - **Mar 20, 12:14 AM** - Spaceflight Started 100 Years Ago in a Massachusetts Cabbage Patch (nyt)
+- **Mar 20, 12:49 AM** - Starcloud files plans for 88,000-satellite constellation (spacenews)
