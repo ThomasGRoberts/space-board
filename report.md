@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 22 | 42 |
+| spacenews | 7 | 14 | 23 | 43 |
 | nyt | 1 | 2 | 16 | 33 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2737,3 +2737,4 @@
 - **Mar 20, 10:54 AM** - ‘Spacewoman’ Review: Mission Driven (nyt)
 - **Mar 20, 11:29 AM** - Starcloud files plans for 88,000-satellite constellation (spacenews)
 - **Mar 20, 12:04 PM** - Kayhan targets investors, insurers with expanded orbital intelligence platform (spacenews)
+- **Mar 20, 12:39 PM** - ESA to fly dedicated Crew Dragon mission to ISS (spacenews)

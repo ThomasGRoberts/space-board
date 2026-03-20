@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-20T00:04:42.616217+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0639ad8e61c70634ed832d0d77b3e744",
+    "trigger_count": 0,
+    "current_item_id": "57e87c6e731842081923bb582b0cf849",
     "data": [
         {
             "id": "22fe905215f14c1941e4ba1cbf8957a1",
@@ -8253,6 +8253,18 @@
             "fetched_datetime": "2026-03-20T12:04:31.063844Z",
             "shown_at": [
                 "2026-03-20T12:04:32.164586Z"
+            ]
+        },
+        {
+            "id": "57e87c6e731842081923bb582b0cf849",
+            "source": "spacenews",
+            "text": "ESA to fly dedicated Crew Dragon mission to ISS",
+            "source_link": "https://spacenews.com/esa-to-fly-dedicated-crew-dragon-mission-to-iss/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-20T12:39:05.647990Z",
+            "shown_at": [
+                "2026-03-20T12:39:06.741967Z"
             ]
         }
     ]
