@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 13 | 23 | 43 |
-| nyt | 1 | 1 | 17 | 33 |
+| spacenews | 8 | 13 | 24 | 44 |
+| nyt | 1 | 1 | 17 | 32 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2755,3 +2755,4 @@
 - **Mar 20, 09:34 PM** - Rocket Lab launches eighth Synspective radar imaging satellite (spacenews)
 - **Mar 20, 10:09 PM** - Officina Stellare wins $2 million contract for lasercom ground station in Spain (spacenews)
 - **Mar 20, 10:44 PM** - ‘Spacewoman’ Review: Mission Driven (nyt)
+- **Mar 20, 11:19 PM** - New Moog Innovations for the Satellite Market on Full Display at SATELLITE 2026 Conference (spacenews)
