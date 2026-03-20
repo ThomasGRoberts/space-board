@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 13 | 20 | 42 |
-| nyt | 1 | 2 | 15 | 33 |
+| nyt | 1 | 2 | 16 | 34 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2730,3 +2730,4 @@
 - **Mar 20, 06:49 AM** - Strait of Hormuz crisis drives demand for commercial geospatial intelligence (spacenews)
 - **Mar 20, 07:24 AM** - NASA’s Hubble Telescope Spots Comet K1 Exploding Into Fragments (nyt)
 - **Mar 20, 07:59 AM** - NASA working toward April 1 launch of Artemis 2 (spacenews)
+- **Mar 20, 08:34 AM** - Spaceflight Started 100 Years Ago in a Massachusetts Cabbage Patch (nyt)
