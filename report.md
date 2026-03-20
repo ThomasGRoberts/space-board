@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 20 | 42 |
+| spacenews | 6 | 13 | 21 | 43 |
 | nyt | 0 | 1 | 15 | 33 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2719,3 +2719,4 @@
 - **Mar 20, 12:14 AM** - Spaceflight Started 100 Years Ago in a Massachusetts Cabbage Patch (nyt)
 - **Mar 20, 12:49 AM** - Starcloud files plans for 88,000-satellite constellation (spacenews)
 - **Mar 20, 01:29 AM** - NASA’s Hubble Telescope Spots Comet K1 Exploding Into Fragments (nyt)
+- **Mar 20, 02:04 AM** - Kazakhstan must choose: be Eurasia’s tech broker or become a pawn in the new global space race (spacenews)
