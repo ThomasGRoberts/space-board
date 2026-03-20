@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 23 | 44 |
-| nyt | 1 | 2 | 17 | 32 |
+| spacenews | 8 | 13 | 23 | 43 |
+| nyt | 1 | 2 | 18 | 33 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2754,3 +2754,4 @@
 - **Mar 20, 08:54 PM** - Another GPS launch shifts from ULA to SpaceX as Vulcan investigation continues (spacenews)
 - **Mar 20, 09:34 PM** - Rocket Lab launches eighth Synspective radar imaging satellite (spacenews)
 - **Mar 20, 10:09 PM** - Officina Stellare wins $2 million contract for lasercom ground station in Spain (spacenews)
+- **Mar 20, 10:44 PM** - ‘Spacewoman’ Review: Mission Driven (nyt)
