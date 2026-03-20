@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-20T00:04:42.616217+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1d3e1d36bb99042fff68522090f0c934",
+    "trigger_count": 0,
+    "current_item_id": "ed59211a704343c30e6d20a3cdf4bf3b",
     "data": [
         {
             "id": "22fe905215f14c1941e4ba1cbf8957a1",
@@ -8312,6 +8312,18 @@
             "fetched_datetime": "2026-03-20T20:54:49.366483Z",
             "shown_at": [
                 "2026-03-20T20:54:50.547849Z"
+            ]
+        },
+        {
+            "id": "ed59211a704343c30e6d20a3cdf4bf3b",
+            "source": "spacenews",
+            "text": "Rocket Lab launches eighth Synspective radar imaging satellite",
+            "source_link": "https://spacenews.com/rocket-lab-launches-eighth-synspective-radar-imaging-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-20T21:34:32.468503Z",
+            "shown_at": [
+                "2026-03-20T21:34:33.349303Z"
             ]
         }
     ]
