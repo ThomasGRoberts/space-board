@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 13 | 23 | 42 |
-| nyt | 1 | 2 | 17 | 34 |
+| spacenews | 8 | 13 | 24 | 43 |
+| nyt | 1 | 2 | 17 | 33 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2740,3 +2740,4 @@
 - **Mar 20, 12:39 PM** - ESA to fly dedicated Crew Dragon mission to ISS (spacenews)
 - **Mar 20, 01:14 PM** - Holistic space observation: the shift from SSA to SDA (spacenews)
 - **Mar 20, 01:49 PM** - ‘Spacewoman’ Review: Mission Driven (nyt)
+- **Mar 20, 02:24 PM** - iMetalX emerges from stealth with technology to model resident space objects (spacenews)
