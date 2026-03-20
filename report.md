@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 20 | 43 |
-| nyt | 0 | 2 | 15 | 33 |
+| spacenews | 6 | 13 | 20 | 42 |
+| nyt | 0 | 2 | 16 | 34 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2716,3 +2716,4 @@
 - **Mar 19, 10:29 PM** - China launches new highly retrograde Yaogan satellite, KZ-11 rideshare deploys 8 satellites (spacenews)
 - **Mar 19, 11:04 PM** - Spaceflight Started 100 Years Ago in a Massachusetts Cabbage Patch (nyt)
 - **Mar 19, 11:39 PM** - Blue Origin joins the orbital data center race (spacenews)
+- **Mar 20, 12:14 AM** - Spaceflight Started 100 Years Ago in a Massachusetts Cabbage Patch (nyt)
