@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 22 | 42 |
+| spacenews | 6 | 13 | 23 | 43 |
 | nyt | 1 | 2 | 18 | 34 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2747,3 +2747,4 @@
 - **Mar 20, 04:49 PM** - New Moog Innovations for the Satellite Market on Full Display at SATELLITE 2026 Conference (spacenews)
 - **Mar 20, 05:24 PM** - A Meteor Streaks Across the U.S. and Rattles Ohio With an Explosive Boom (nyt)
 - **Mar 20, 05:59 PM** - Space Force overhauls buying structure with new mission portfolios (spacenews)
+- **Mar 20, 06:34 PM** - OHB Sweden wins €248 million contract to build EPS-Sterna constellation (spacenews)
