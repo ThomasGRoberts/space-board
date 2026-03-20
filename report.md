@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 20 | 42 |
-| nyt | 1 | 2 | 15 | 33 |
+| nyt | 1 | 2 | 15 | 34 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2722,3 +2722,4 @@
 - **Mar 20, 02:04 AM** - Kazakhstan must choose: be Eurasia’s tech broker or become a pawn in the new global space race (spacenews)
 - **Mar 20, 02:39 AM** - ‘Spacewoman’ Review: Mission Driven (nyt)
 - **Mar 20, 03:14 AM** - Investing in student programs is essential for America’s lead in space (spacenews)
+- **Mar 20, 03:54 AM** - A Meteor Streaks Across the U.S. and Rattles Ohio With an Explosive Boom (nyt)
