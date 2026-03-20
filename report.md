@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 20 | 42 |
+| spacenews | 6 | 13 | 21 | 43 |
 | nyt | 1 | 2 | 15 | 33 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2721,3 +2721,4 @@
 - **Mar 20, 01:29 AM** - NASA’s Hubble Telescope Spots Comet K1 Exploding Into Fragments (nyt)
 - **Mar 20, 02:04 AM** - Kazakhstan must choose: be Eurasia’s tech broker or become a pawn in the new global space race (spacenews)
 - **Mar 20, 02:39 AM** - ‘Spacewoman’ Review: Mission Driven (nyt)
+- **Mar 20, 03:14 AM** - Investing in student programs is essential for America’s lead in space (spacenews)
