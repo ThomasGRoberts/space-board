@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 22 | 41 |
+| spacenews | 6 | 12 | 23 | 42 |
 | nyt | 1 | 2 | 18 | 34 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2742,3 +2742,4 @@
 - **Mar 20, 01:49 PM** - ‘Spacewoman’ Review: Mission Driven (nyt)
 - **Mar 20, 02:24 PM** - iMetalX emerges from stealth with technology to model resident space objects (spacenews)
 - **Mar 20, 02:59 PM** - A Meteor Streaks Across the U.S. and Rattles Ohio With an Explosive Boom (nyt)
+- **Mar 20, 03:39 PM** - Space Force overhauls buying structure with new mission portfolios (spacenews)
