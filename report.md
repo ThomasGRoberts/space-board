@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 22 | 42 |
-| nyt | 1 | 2 | 18 | 34 |
+| spacenews | 6 | 13 | 23 | 43 |
+| nyt | 1 | 2 | 18 | 33 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2751,3 +2751,4 @@
 - **Mar 20, 07:09 PM** - NASA’s Hubble Telescope Spots Comet K1 Exploding Into Fragments (nyt)
 - **Mar 20, 07:44 PM** - China launches new highly retrograde Yaogan satellite, KZ-11 rideshare deploys 8 satellites (spacenews)
 - **Mar 20, 08:18 PM** - A Meteor Streaks Across the U.S. and Rattles Ohio With an Explosive Boom (nyt)
+- **Mar 20, 08:54 PM** - Another GPS launch shifts from ULA to SpaceX as Vulcan investigation continues (spacenews)

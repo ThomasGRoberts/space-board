@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-20T00:04:42.616217+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9421c99ab2e6d0a8f54384683d59b251",
+    "trigger_count": 0,
+    "current_item_id": "1d3e1d36bb99042fff68522090f0c934",
     "data": [
         {
             "id": "22fe905215f14c1941e4ba1cbf8957a1",
@@ -8300,6 +8300,18 @@
             "fetched_datetime": "2026-03-20T18:34:32.545871Z",
             "shown_at": [
                 "2026-03-20T18:34:33.757893Z"
+            ]
+        },
+        {
+            "id": "1d3e1d36bb99042fff68522090f0c934",
+            "source": "spacenews",
+            "text": "Another GPS launch shifts from ULA to SpaceX as Vulcan investigation continues",
+            "source_link": "https://spacenews.com/another-gps-launch-shifts-from-ula-to-spacex-as-vulcan-investigation-continues/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-20T20:54:49.366483Z",
+            "shown_at": [
+                "2026-03-20T20:54:50.547849Z"
             ]
         }
     ]
