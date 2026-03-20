@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 20 | 43 |
-| nyt | 0 | 2 | 15 | 33 |
+| spacenews | 6 | 13 | 20 | 42 |
+| nyt | 0 | 2 | 16 | 34 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2718,3 +2718,4 @@
 - **Mar 19, 11:39 PM** - Blue Origin joins the orbital data center race (spacenews)
 - **Mar 20, 12:14 AM** - Spaceflight Started 100 Years Ago in a Massachusetts Cabbage Patch (nyt)
 - **Mar 20, 12:49 AM** - Starcloud files plans for 88,000-satellite constellation (spacenews)
+- **Mar 20, 01:29 AM** - NASA’s Hubble Telescope Spots Comet K1 Exploding Into Fragments (nyt)
