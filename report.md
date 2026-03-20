@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 13 | 20 | 42 |
+| spacenews | 5 | 13 | 21 | 43 |
 | nyt | 1 | 2 | 16 | 33 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2735,3 +2735,4 @@
 - **Mar 20, 09:44 AM** - ‘Spacewoman’ Review: Mission Driven (nyt)
 - **Mar 20, 10:19 AM** - Space Command classified wargame to include 25 commercial players (spacenews)
 - **Mar 20, 10:54 AM** - ‘Spacewoman’ Review: Mission Driven (nyt)
+- **Mar 20, 11:29 AM** - Starcloud files plans for 88,000-satellite constellation (spacenews)
