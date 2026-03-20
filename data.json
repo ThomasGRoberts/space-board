@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-20T00:04:42.616217+00:00",
-    "trigger_count": 6,
-    "current_item_id": "57e87c6e731842081923bb582b0cf849",
+    "trigger_count": 0,
+    "current_item_id": "26b37a181efa65054b76a69c931d6de7",
     "data": [
         {
             "id": "22fe905215f14c1941e4ba1cbf8957a1",
@@ -8265,6 +8265,18 @@
             "fetched_datetime": "2026-03-20T12:39:05.647990Z",
             "shown_at": [
                 "2026-03-20T12:39:06.741967Z"
+            ]
+        },
+        {
+            "id": "26b37a181efa65054b76a69c931d6de7",
+            "source": "spacenews",
+            "text": "Holistic space observation: the shift from SSA to SDA",
+            "source_link": "https://spacenews.com/holistic-space-observation-the-shift-from-ssa-to-sda/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-20T13:14:34.838370Z",
+            "shown_at": [
+                "2026-03-20T13:14:36.224649Z"
             ]
         }
     ]
