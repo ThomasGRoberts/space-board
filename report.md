@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 12 | 23 | 42 |
+| spacenews | 7 | 12 | 24 | 43 |
 | nyt | 0 | 1 | 17 | 33 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2724,3 +2724,4 @@
 - **Mar 21, 07:14 AM** - ‘Spacewoman’ Review: Mission Driven (nyt)
 - **Mar 21, 07:49 AM** - ISPTech Raises €5.5M Seed Round to Redefine How Spacecraft Manoeuvre in Orbit (spacenews)
 - **Mar 21, 08:24 AM** - ‘Spacewoman’ Review: Mission Driven (nyt)
+- **Mar 21, 08:59 AM** - Raytheon contract for protected satellite communications terminals raised by $2 billion (spacenews)
