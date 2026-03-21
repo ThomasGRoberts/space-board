@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 23 | 43 |
-| nyt | 1 | 1 | 17 | 32 |
+| nyt | 1 | 1 | 18 | 33 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2709,3 +2709,4 @@
 - **Mar 20, 10:09 PM** - Officina Stellare wins $2 million contract for lasercom ground station in Spain (spacenews)
 - **Mar 20, 10:44 PM** - ‘Spacewoman’ Review: Mission Driven (nyt)
 - **Mar 20, 11:19 PM** - New Moog Innovations for the Satellite Market on Full Display at SATELLITE 2026 Conference (spacenews)
+- **Mar 21, 12:11 AM** - NASA’s Hubble Telescope Spots Comet K1 Exploding Into Fragments (nyt)
