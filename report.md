@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 9 | 21 | 43 |
-| nyt | 0 | 1 | 18 | 37 |
+| nyt | 0 | 1 | 19 | 38 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2743,3 +2743,4 @@
 - **Mar 21, 06:39 PM** - ESA to fly dedicated Crew Dragon mission to ISS (spacenews)
 - **Mar 21, 07:14 PM** - ‘Spacewoman’ Review: Mission Driven (nyt)
 - **Mar 21, 07:49 PM** - Office of Space Commerce weighing options for TraCSS user fees (spacenews)
+- **Mar 21, 08:24 PM** - A Meteor Streaks Across the U.S. and Rattles Ohio With an Explosive Boom (nyt)
