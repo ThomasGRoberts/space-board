@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 9 | 20 | 43 |
+| spacenews | 1 | 9 | 20 | 44 |
 | nyt | 0 | 1 | 20 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2746,3 +2746,4 @@
 - **Mar 21, 08:24 PM** - A Meteor Streaks Across the U.S. and Rattles Ohio With an Explosive Boom (nyt)
 - **Mar 21, 08:59 PM** - Apex sells satellite for Japanese technology demonstration mission (spacenews)
 - **Mar 21, 09:34 PM** - NASA’s Hubble Telescope Spots Comet K1 Exploding Into Fragments (nyt)
+- **Mar 21, 10:09 PM** - Kepler Communications: Call for Live-Stream Payload Concepts (spacenews)
