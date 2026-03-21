@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 10 | 21 | 44 |
+| spacenews | 4 | 10 | 22 | 45 |
 | nyt | 0 | 1 | 18 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2734,3 +2734,4 @@
 - **Mar 21, 01:24 PM** - Spaceflight Started 100 Years Ago in a Massachusetts Cabbage Patch (nyt)
 - **Mar 21, 01:59 PM** - NASA considering sharp increase in robotic lunar landings (spacenews)
 - **Mar 21, 02:34 PM** - Spaceflight Started 100 Years Ago in a Massachusetts Cabbage Patch (nyt)
+- **Mar 21, 03:09 PM** - Nvidia unveils AI computing module for space-based data centers (spacenews)
