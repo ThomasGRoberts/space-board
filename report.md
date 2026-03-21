@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 23 | 43 |
-| nyt | 0 | 1 | 17 | 32 |
+| nyt | 0 | 1 | 18 | 33 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2721,3 +2721,4 @@
 - **Mar 21, 05:29 AM** - Starcloud files plans for 88,000-satellite constellation (spacenews)
 - **Mar 21, 06:04 AM** - A Meteor Streaks Across the U.S. and Rattles Ohio With an Explosive Boom (nyt)
 - **Mar 21, 06:39 AM** - New Moog Innovations for the Satellite Market on Full Display at SATELLITE 2026 Conference (spacenews)
+- **Mar 21, 07:14 AM** - ‘Spacewoman’ Review: Mission Driven (nyt)
