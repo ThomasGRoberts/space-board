@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 23 | 43 |
-| nyt | 0 | 1 | 17 | 32 |
+| nyt | 0 | 1 | 17 | 33 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2727,3 +2727,4 @@
 - **Mar 21, 08:59 AM** - Raytheon contract for protected satellite communications terminals raised by $2 billion (spacenews)
 - **Mar 21, 09:34 AM** - ‘Spacewoman’ Review: Mission Driven (nyt)
 - **Mar 21, 10:09 AM** - ESA to fly dedicated Crew Dragon mission to ISS (spacenews)
+- **Mar 21, 11:04 AM** - ‘Spacewoman’ Review: Mission Driven (nyt)
