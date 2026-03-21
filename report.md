@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 23 | 43 |
-| nyt | 1 | 1 | 17 | 32 |
+| nyt | 1 | 1 | 18 | 33 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2711,3 +2711,4 @@
 - **Mar 20, 11:19 PM** - New Moog Innovations for the Satellite Market on Full Display at SATELLITE 2026 Conference (spacenews)
 - **Mar 21, 12:11 AM** - NASA’s Hubble Telescope Spots Comet K1 Exploding Into Fragments (nyt)
 - **Mar 21, 12:49 AM** - Solar array deal sheds more light on South Korea’s defense constellation (spacenews)
+- **Mar 21, 01:24 AM** - A Meteor Streaks Across the U.S. and Rattles Ohio With an Explosive Boom (nyt)
