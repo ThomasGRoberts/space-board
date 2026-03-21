@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 23 | 43 |
-| nyt | 0 | 1 | 17 | 32 |
+| nyt | 0 | 1 | 18 | 33 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2715,3 +2715,4 @@
 - **Mar 21, 01:59 AM** - Innospace completes investigation into Hanbit-Nano launch failure (spacenews)
 - **Mar 21, 02:34 AM** - Spaceflight Started 100 Years Ago in a Massachusetts Cabbage Patch (nyt)
 - **Mar 21, 03:09 AM** - Another GPS launch shifts from ULA to SpaceX as Vulcan investigation continues (spacenews)
+- **Mar 21, 03:44 AM** - A Meteor Streaks Across the U.S. and Rattles Ohio With an Explosive Boom (nyt)
