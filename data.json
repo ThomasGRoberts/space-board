@@ -1,9 +1,109 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-03-20T00:04:42.616217+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2026-03-21T00:01:14.852239+00:00",
+    "trigger_count": 6,
     "current_item_id": "82399f26b342e1f52f39a803fa370c51",
     "data": [
+        {
+            "id": "9271d3bb41942b2e7877a386bc93ccf5",
+            "source": "spacenews",
+            "text": "Officina Stellare wins $2 million contract for lasercom ground station in Spain",
+            "source_link": "https://spacenews.com/officina-stellare-wins-2-million-contract-for-lasercom-ground-station-in-spain/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-20T22:09:13.463945Z",
+            "shown_at": [
+                "2026-03-20T22:09:14.513035Z"
+            ]
+        },
+        {
+            "id": "ed59211a704343c30e6d20a3cdf4bf3b",
+            "source": "spacenews",
+            "text": "Rocket Lab launches eighth Synspective radar imaging satellite",
+            "source_link": "https://spacenews.com/rocket-lab-launches-eighth-synspective-radar-imaging-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-20T21:34:32.468503Z",
+            "shown_at": [
+                "2026-03-20T21:34:33.349303Z"
+            ]
+        },
+        {
+            "id": "1d3e1d36bb99042fff68522090f0c934",
+            "source": "spacenews",
+            "text": "Another GPS launch shifts from ULA to SpaceX as Vulcan investigation continues",
+            "source_link": "https://spacenews.com/another-gps-launch-shifts-from-ula-to-spacex-as-vulcan-investigation-continues/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-20T20:54:49.366483Z",
+            "shown_at": [
+                "2026-03-20T20:54:50.547849Z"
+            ]
+        },
+        {
+            "id": "1009b058a9f67454136fe7a8e48c29c0",
+            "source": "spacenews",
+            "text": "OHB Sweden wins €248 million contract to build EPS-Sterna constellation",
+            "source_link": "https://spacenews.com/ohb-sweden-wins-e248-million-contract-to-build-eps-sterna-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-20T18:34:32.545871Z",
+            "shown_at": [
+                "2026-03-20T18:34:33.757893Z"
+            ]
+        },
+        {
+            "id": "26b37a181efa65054b76a69c931d6de7",
+            "source": "spacenews",
+            "text": "Holistic space observation: the shift from SSA to SDA",
+            "source_link": "https://spacenews.com/holistic-space-observation-the-shift-from-ssa-to-sda/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-20T13:14:34.838370Z",
+            "shown_at": [
+                "2026-03-20T13:14:36.224649Z"
+            ]
+        },
+        {
+            "id": "57e87c6e731842081923bb582b0cf849",
+            "source": "spacenews",
+            "text": "ESA to fly dedicated Crew Dragon mission to ISS",
+            "source_link": "https://spacenews.com/esa-to-fly-dedicated-crew-dragon-mission-to-iss/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-20T12:39:05.647990Z",
+            "shown_at": [
+                "2026-03-20T12:39:06.741967Z"
+            ]
+        },
+        {
+            "id": "0639ad8e61c70634ed832d0d77b3e744",
+            "source": "spacenews",
+            "text": "Kayhan targets investors, insurers with expanded orbital intelligence platform",
+            "source_link": "https://spacenews.com/kayhan-targets-investors-insurers-with-expanded-orbital-intelligence-platform/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-20T12:04:31.063844Z",
+            "shown_at": [
+                "2026-03-20T12:04:32.164586Z"
+            ]
+        },
+        {
+            "id": "f96703f3833862a8b6fd24f6aaab50c0",
+            "source": "nyt",
+            "text": "‘Spacewoman’ Review: Mission Driven",
+            "source_link": "https://www.nytimes.com/2026/03/19/movies/spacewoman-review.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-20T02:39:14.651524Z",
+            "shown_at": [
+                "2026-03-20T02:39:15.649238Z",
+                "2026-03-20T09:44:20.687570Z",
+                "2026-03-20T10:54:44.930110Z",
+                "2026-03-20T13:49:19.413719Z",
+                "2026-03-20T22:44:15.471641Z"
+            ]
+        },
         {
             "id": "22fe905215f14c1941e4ba1cbf8957a1",
             "source": "spacenews",
@@ -8103,241 +8203,6 @@
                 "2026-01-14T03:14:22.186400Z",
                 "2026-01-14T06:54:20.699900Z",
                 "2026-01-15T00:39:09.289039Z"
-            ]
-        },
-        {
-            "id": "6d304e8b4e5cf99241ffb755d712de69",
-            "source": "spacenews",
-            "text": "APPLICATIONS OPEN FOR COHORT 4 OF SDA TAP LAB – CATALYST CAMPUS MINI ACCELERATOR",
-            "source_link": "https://spacenews.com/applications-open-for-cohort-4-of-sda-tap-lab-catalyst-campus-mini-accelerator/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-08T21:54:22.426739Z",
-            "shown_at": [
-                "2026-01-08T21:54:23.283682Z",
-                "2026-01-10T05:09:23.816816Z",
-                "2026-01-10T12:29:18.402115Z",
-                "2026-01-10T14:14:03.837697Z",
-                "2026-01-12T22:14:20.124115Z"
-            ]
-        },
-        {
-            "id": "8ef2adec57c43802daf816744391d784",
-            "source": "spacenews",
-            "text": "Roman Space Telescope on track for September launch",
-            "source_link": "https://spacenews.com/roman-space-telescope-on-track-for-september-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-08T19:34:24.655749Z",
-            "shown_at": [
-                "2026-01-08T19:34:25.360288Z",
-                "2026-01-11T04:49:12.021545Z"
-            ]
-        },
-        {
-            "id": "79e1e6e29d5c062a2b184cba02c56afc",
-            "source": "breaking_defense",
-            "text": "China holds the GPS advantage over the US. Here’s why, and how to solve it.",
-            "source_link": "https://breakingdefense.com/2026/01/china-gps-advantage-taiwan-altpnt/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-08T18:24:12.877319Z",
-            "shown_at": [
-                "2026-01-08T18:24:13.674861Z",
-                "2026-01-09T05:24:51.999468Z",
-                "2026-01-10T10:05:18.230324Z",
-                "2026-01-11T10:44:32.753522Z",
-                "2026-01-11T21:59:09.044979Z",
-                "2026-01-11T23:44:06.939524Z",
-                "2026-01-12T06:44:08.021879Z",
-                "2026-01-13T01:09:10.831910Z",
-                "2026-01-13T17:29:53.894346Z"
-            ]
-        },
-        {
-            "id": "5a6008158863c1593ef29fea2717dc20",
-            "source": "spacenews",
-            "text": "2026 will clarify Europe’s new priorities for space",
-            "source_link": "https://spacenews.com/2026-will-clarify-europes-new-priorities-for-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-08T17:45:11.348746Z",
-            "shown_at": [
-                "2026-01-08T18:59:43.532213Z"
-            ]
-        },
-        {
-            "id": "567cb14485d3c52f269bb5ddbdf6afb4",
-            "source": "spacenews",
-            "text": "Private group unveils plans for large space telescope",
-            "source_link": "https://spacenews.com/private-group-unveils-plans-for-large-space-telescope/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-08T17:45:11.348642Z",
-            "shown_at": [
-                "2026-01-08T17:45:12.303105Z",
-                "2026-01-08T21:19:05.614626Z",
-                "2026-01-13T10:34:15.746982Z",
-                "2026-01-14T02:39:58.112980Z"
-            ]
-        },
-        {
-            "id": "ad4cac486bc6f2e7f99ec0739042b443",
-            "source": "nyt",
-            "text": "NASA May Return Early From International Space Station After Medical Issue",
-            "source_link": "https://www.nytimes.com/2026/01/08/science/space/nasa-astronaut-medical-problem.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-08T17:05:07.318010Z",
-            "shown_at": [
-                "2026-01-08T17:05:08.630791Z",
-                "2026-01-08T20:09:18.786060Z",
-                "2026-01-08T22:29:01.402407Z",
-                "2026-01-09T08:24:26.246818Z",
-                "2026-01-09T10:14:17.396348Z",
-                "2026-01-10T09:29:18.153131Z",
-                "2026-01-10T14:49:11.346448Z",
-                "2026-01-11T02:29:03.418619Z",
-                "2026-01-11T05:59:48.499105Z",
-                "2026-01-11T07:49:06.720738Z",
-                "2026-01-11T18:59:41.430166Z",
-                "2026-01-12T07:24:13.714460Z",
-                "2026-01-12T17:24:31.247255Z",
-                "2026-01-13T02:19:10.355779Z",
-                "2026-01-13T16:49:44.014085Z",
-                "2026-01-13T18:49:23.948458Z",
-                "2026-01-13T23:09:15.116372Z",
-                "2026-01-14T04:59:11.993283Z",
-                "2026-01-14T19:14:19.994697Z",
-                "2026-01-15T04:09:31.115835Z"
-            ]
-        },
-        {
-            "id": "bff4fb0ddf3d38269caa56f414f29d50",
-            "source": "spacenews",
-            "text": "The ‘space tax’ on your self-driving car",
-            "source_link": "https://spacenews.com/the-space-tax-on-your-self-driving-car/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-08T14:09:00.083590Z",
-            "shown_at": [
-                "2026-01-08T14:44:14.013230Z",
-                "2026-01-10T06:54:06.691664Z",
-                "2026-01-11T03:04:33.089643Z",
-                "2026-01-12T06:09:20.637702Z",
-                "2026-01-12T18:34:22.441175Z"
-            ]
-        },
-        {
-            "id": "60331ad5c205b96d2024c8f91706b7f3",
-            "source": "spacenews",
-            "text": "Vulcan to open 2026 with national security launch",
-            "source_link": "https://spacenews.com/vulcan-to-open-2026-with-national-security-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-08T14:09:00.083532Z",
-            "shown_at": [
-                "2026-01-08T14:09:00.872540Z"
-            ]
-        },
-        {
-            "id": "f96703f3833862a8b6fd24f6aaab50c0",
-            "source": "nyt",
-            "text": "‘Spacewoman’ Review: Mission Driven",
-            "source_link": "https://www.nytimes.com/2026/03/19/movies/spacewoman-review.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-20T02:39:14.651524Z",
-            "shown_at": [
-                "2026-03-20T02:39:15.649238Z",
-                "2026-03-20T09:44:20.687570Z",
-                "2026-03-20T10:54:44.930110Z",
-                "2026-03-20T13:49:19.413719Z",
-                "2026-03-20T22:44:15.471641Z"
-            ]
-        },
-        {
-            "id": "0639ad8e61c70634ed832d0d77b3e744",
-            "source": "spacenews",
-            "text": "Kayhan targets investors, insurers with expanded orbital intelligence platform",
-            "source_link": "https://spacenews.com/kayhan-targets-investors-insurers-with-expanded-orbital-intelligence-platform/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-20T12:04:31.063844Z",
-            "shown_at": [
-                "2026-03-20T12:04:32.164586Z"
-            ]
-        },
-        {
-            "id": "57e87c6e731842081923bb582b0cf849",
-            "source": "spacenews",
-            "text": "ESA to fly dedicated Crew Dragon mission to ISS",
-            "source_link": "https://spacenews.com/esa-to-fly-dedicated-crew-dragon-mission-to-iss/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-20T12:39:05.647990Z",
-            "shown_at": [
-                "2026-03-20T12:39:06.741967Z"
-            ]
-        },
-        {
-            "id": "26b37a181efa65054b76a69c931d6de7",
-            "source": "spacenews",
-            "text": "Holistic space observation: the shift from SSA to SDA",
-            "source_link": "https://spacenews.com/holistic-space-observation-the-shift-from-ssa-to-sda/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-20T13:14:34.838370Z",
-            "shown_at": [
-                "2026-03-20T13:14:36.224649Z"
-            ]
-        },
-        {
-            "id": "1009b058a9f67454136fe7a8e48c29c0",
-            "source": "spacenews",
-            "text": "OHB Sweden wins €248 million contract to build EPS-Sterna constellation",
-            "source_link": "https://spacenews.com/ohb-sweden-wins-e248-million-contract-to-build-eps-sterna-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-20T18:34:32.545871Z",
-            "shown_at": [
-                "2026-03-20T18:34:33.757893Z"
-            ]
-        },
-        {
-            "id": "1d3e1d36bb99042fff68522090f0c934",
-            "source": "spacenews",
-            "text": "Another GPS launch shifts from ULA to SpaceX as Vulcan investigation continues",
-            "source_link": "https://spacenews.com/another-gps-launch-shifts-from-ula-to-spacex-as-vulcan-investigation-continues/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-20T20:54:49.366483Z",
-            "shown_at": [
-                "2026-03-20T20:54:50.547849Z"
-            ]
-        },
-        {
-            "id": "ed59211a704343c30e6d20a3cdf4bf3b",
-            "source": "spacenews",
-            "text": "Rocket Lab launches eighth Synspective radar imaging satellite",
-            "source_link": "https://spacenews.com/rocket-lab-launches-eighth-synspective-radar-imaging-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-20T21:34:32.468503Z",
-            "shown_at": [
-                "2026-03-20T21:34:33.349303Z"
-            ]
-        },
-        {
-            "id": "9271d3bb41942b2e7877a386bc93ccf5",
-            "source": "spacenews",
-            "text": "Officina Stellare wins $2 million contract for lasercom ground station in Spain",
-            "source_link": "https://spacenews.com/officina-stellare-wins-2-million-contract-for-lasercom-ground-station-in-spain/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-20T22:09:13.463945Z",
-            "shown_at": [
-                "2026-03-20T22:09:14.513035Z"
             ]
         }
     ]
