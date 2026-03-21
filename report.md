@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 10 | 21 | 44 |
-| nyt | 0 | 1 | 19 | 36 |
+| spacenews | 5 | 11 | 22 | 45 |
+| nyt | 0 | 1 | 18 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2736,3 +2736,4 @@
 - **Mar 21, 02:34 PM** - Spaceflight Started 100 Years Ago in a Massachusetts Cabbage Patch (nyt)
 - **Mar 21, 03:09 PM** - Nvidia unveils AI computing module for space-based data centers (spacenews)
 - **Mar 21, 03:44 PM** - NASA’s Hubble Telescope Spots Comet K1 Exploding Into Fragments (nyt)
+- **Mar 21, 04:19 PM** - Artemis 2 returns to the pad for April launch attempt (spacenews)

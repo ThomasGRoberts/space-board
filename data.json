@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-21T00:01:14.852239+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b0dc4a3b483434b848e1b65a81fa52a1",
+    "trigger_count": 0,
+    "current_item_id": "9c1d0fd669a58ccb90389d674302055f",
     "data": [
         {
             "id": "9271d3bb41942b2e7877a386bc93ccf5",
@@ -8230,6 +8230,18 @@
                 "2026-01-14T03:14:22.186400Z",
                 "2026-01-14T06:54:20.699900Z",
                 "2026-01-15T00:39:09.289039Z"
+            ]
+        },
+        {
+            "id": "9c1d0fd669a58ccb90389d674302055f",
+            "source": "spacenews",
+            "text": "Artemis 2 returns to the pad for April launch attempt",
+            "source_link": "https://spacenews.com/artemis-2-returns-to-the-pad-for-april-launch-attempt/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-21T16:19:24.469765Z",
+            "shown_at": [
+                "2026-03-21T16:19:25.634253Z"
             ]
         }
     ]
