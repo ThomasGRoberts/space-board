@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 6 | 21 | 42 |
-| nyt | 0 | 0 | 20 | 38 |
+| nyt | 0 | 0 | 20 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2747,3 +2747,4 @@
 - **Mar 22, 11:34 AM** - Kayrros sale signals rising demand for satellite intelligence amid Hormuz crisis (spacenews)
 - **Mar 22, 12:09 PM** - Spaceflight Started 100 Years Ago in a Massachusetts Cabbage Patch (nyt)
 - **Mar 22, 12:44 PM** - China launches new highly retrograde Yaogan satellite, KZ-11 rideshare deploys 8 satellites (spacenews)
+- **Mar 22, 01:24 PM** - NASA’s Hubble Telescope Spots Comet K1 Exploding Into Fragments (nyt)
