@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 21 | 41 |
-| nyt | 0 | 0 | 19 | 39 |
+| nyt | 0 | 0 | 20 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2763,3 +2763,4 @@
 - **Mar 22, 09:04 PM** - Apex sells satellite for Japanese technology demonstration mission (spacenews)
 - **Mar 22, 09:44 PM** - Spaceflight Started 100 Years Ago in a Massachusetts Cabbage Patch (nyt)
 - **Mar 22, 10:19 PM** - Blue Origin joins the orbital data center race (spacenews)
+- **Mar 22, 10:54 PM** - ‘Spacewoman’ Review: Mission Driven (nyt)
