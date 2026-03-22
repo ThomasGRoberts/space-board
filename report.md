@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 21 | 42 |
-| nyt | 0 | 0 | 20 | 38 |
+| nyt | 0 | 0 | 20 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2753,3 +2753,4 @@
 - **Mar 22, 03:14 PM** - Rocket Lab wins $190 million Pentagon deal for hypersonic test flights (spacenews)
 - **Mar 22, 03:49 PM** - ‘Spacewoman’ Review: Mission Driven (nyt)
 - **Mar 22, 04:24 PM** - Kepler Communications: Call for Live-Stream Payload Concepts (spacenews)
+- **Mar 22, 04:59 PM** - ‘Spacewoman’ Review: Mission Driven (nyt)
