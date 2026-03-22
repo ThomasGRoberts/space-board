@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 9 | 21 | 44 |
-| nyt | 0 | 0 | 19 | 37 |
+| nyt | 0 | 0 | 20 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2737,3 +2737,4 @@
 - **Mar 22, 05:44 AM** - Kratos wins $446 million Space Force contract for missile-tracking ground systems (spacenews)
 - **Mar 22, 06:19 AM** - NASA’s Hubble Telescope Spots Comet K1 Exploding Into Fragments (nyt)
 - **Mar 22, 06:54 AM** - Strait of Hormuz crisis drives demand for commercial geospatial intelligence (spacenews)
+- **Mar 22, 07:29 AM** - NASA’s Hubble Telescope Spots Comet K1 Exploding Into Fragments (nyt)
