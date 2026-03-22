@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 6 | 21 | 42 |
+| spacenews | 1 | 6 | 21 | 43 |
 | nyt | 0 | 0 | 20 | 38 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2754,3 +2754,4 @@
 - **Mar 22, 03:49 PM** - ‘Spacewoman’ Review: Mission Driven (nyt)
 - **Mar 22, 04:24 PM** - Kepler Communications: Call for Live-Stream Payload Concepts (spacenews)
 - **Mar 22, 04:59 PM** - ‘Spacewoman’ Review: Mission Driven (nyt)
+- **Mar 22, 05:34 PM** - Investing in student programs is essential for America’s lead in space (spacenews)
