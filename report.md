@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 5 | 21 | 41 |
+| spacenews | 2 | 6 | 21 | 42 |
 | nyt | 0 | 0 | 20 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2756,3 +2756,4 @@
 - **Mar 22, 04:59 PM** - ‘Spacewoman’ Review: Mission Driven (nyt)
 - **Mar 22, 05:34 PM** - Investing in student programs is essential for America’s lead in space (spacenews)
 - **Mar 22, 06:09 PM** - Spaceflight Started 100 Years Ago in a Massachusetts Cabbage Patch (nyt)
+- **Mar 22, 06:44 PM** - SpaceX offers details on orbital data center satellites (spacenews)
