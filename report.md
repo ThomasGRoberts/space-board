@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 9 | 20 | 44 |
+| spacenews | 2 | 9 | 21 | 44 |
 | nyt | 0 | 0 | 20 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2734,3 +2734,4 @@
 - **Mar 22, 03:59 AM** - NASA’s Hubble Telescope Spots Comet K1 Exploding Into Fragments (nyt)
 - **Mar 22, 04:34 AM** - Apex sells satellite for Japanese technology demonstration mission (spacenews)
 - **Mar 22, 05:09 AM** - Spaceflight Started 100 Years Ago in a Massachusetts Cabbage Patch (nyt)
+- **Mar 22, 05:44 AM** - Kratos wins $446 million Space Force contract for missile-tracking ground systems (spacenews)
