@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-22T00:04:33.807008+00:00",
-    "trigger_count": 6,
-    "current_item_id": "22fe905215f14c1941e4ba1cbf8957a1",
+    "trigger_count": 0,
+    "current_item_id": "5cc49166aaff18c03f9aa42ed2e6a815",
     "data": [
         {
             "id": "9c1d0fd669a58ccb90389d674302055f",
@@ -8220,6 +8220,18 @@
                 "2026-01-14T08:44:55.244634Z",
                 "2026-01-14T15:34:43.564139Z",
                 "2026-01-15T02:24:11.373417Z"
+            ]
+        },
+        {
+            "id": "5cc49166aaff18c03f9aa42ed2e6a815",
+            "source": "spacenews",
+            "text": "Some European Launcher Challenge funding remains in limbo",
+            "source_link": "https://spacenews.com/some-european-launcher-challenge-funding-remains-in-limbo/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-22T01:04:24.442586Z",
+            "shown_at": [
+                "2026-03-22T01:04:25.169912Z"
             ]
         }
     ]

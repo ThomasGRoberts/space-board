@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 8 | 20 | 43 |
+| spacenews | 2 | 9 | 21 | 44 |
 | nyt | 0 | 1 | 20 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2726,3 +2726,4 @@
 - **Mar 21, 11:19 PM** - Kayrros sale signals rising demand for satellite intelligence amid Hormuz crisis (spacenews)
 - **Mar 21, 11:54 PM** - A Meteor Streaks Across the U.S. and Rattles Ohio With an Explosive Boom (nyt)
 - **Mar 22, 12:29 AM** - Blue Origin joins the orbital data center race (spacenews)
+- **Mar 22, 01:04 AM** - Some European Launcher Challenge funding remains in limbo (spacenews)
