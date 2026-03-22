@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 7 | 21 | 42 |
+| spacenews | 2 | 7 | 22 | 43 |
 | nyt | 0 | 0 | 20 | 38 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2746,3 +2746,4 @@
 - **Mar 22, 10:59 AM** - A Meteor Streaks Across the U.S. and Rattles Ohio With an Explosive Boom (nyt)
 - **Mar 22, 11:34 AM** - Kayrros sale signals rising demand for satellite intelligence amid Hormuz crisis (spacenews)
 - **Mar 22, 12:09 PM** - Spaceflight Started 100 Years Ago in a Massachusetts Cabbage Patch (nyt)
+- **Mar 22, 12:44 PM** - China launches new highly retrograde Yaogan satellite, KZ-11 rideshare deploys 8 satellites (spacenews)
