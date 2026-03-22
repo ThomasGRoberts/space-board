@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 9 | 21 | 43 |
+| spacenews | 2 | 9 | 22 | 44 |
 | nyt | 0 | 0 | 20 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2744,3 +2744,4 @@
 - **Mar 22, 09:49 AM** - NASA’s Hubble Telescope Spots Comet K1 Exploding Into Fragments (nyt)
 - **Mar 22, 10:24 AM** - An astronaut’s tiny stand-in: tissue chips in space health (spacenews)
 - **Mar 22, 10:59 AM** - A Meteor Streaks Across the U.S. and Rattles Ohio With an Explosive Boom (nyt)
+- **Mar 22, 11:34 AM** - Kayrros sale signals rising demand for satellite intelligence amid Hormuz crisis (spacenews)
