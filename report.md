@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 8 | 21 | 44 |
-| nyt | 0 | 0 | 20 | 37 |
+| spacenews | 2 | 8 | 21 | 43 |
+| nyt | 0 | 0 | 21 | 38 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2745,3 +2745,4 @@
 - **Mar 22, 10:24 AM** - An astronaut’s tiny stand-in: tissue chips in space health (spacenews)
 - **Mar 22, 10:59 AM** - A Meteor Streaks Across the U.S. and Rattles Ohio With an Explosive Boom (nyt)
 - **Mar 22, 11:34 AM** - Kayrros sale signals rising demand for satellite intelligence amid Hormuz crisis (spacenews)
+- **Mar 22, 12:09 PM** - Spaceflight Started 100 Years Ago in a Massachusetts Cabbage Patch (nyt)
