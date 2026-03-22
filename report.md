@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 9 | 20 | 44 |
+| spacenews | 2 | 9 | 21 | 44 |
 | nyt | 0 | 0 | 20 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2738,3 +2738,4 @@
 - **Mar 22, 06:19 AM** - NASA’s Hubble Telescope Spots Comet K1 Exploding Into Fragments (nyt)
 - **Mar 22, 06:54 AM** - Strait of Hormuz crisis drives demand for commercial geospatial intelligence (spacenews)
 - **Mar 22, 07:29 AM** - NASA’s Hubble Telescope Spots Comet K1 Exploding Into Fragments (nyt)
+- **Mar 22, 08:04 AM** - China launches new highly retrograde Yaogan satellite, KZ-11 rideshare deploys 8 satellites (spacenews)
