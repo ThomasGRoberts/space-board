@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 9 | 21 | 44 |
-| nyt | 0 | 0 | 19 | 37 |
+| nyt | 0 | 0 | 20 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2741,3 +2741,4 @@
 - **Mar 22, 08:04 AM** - China launches new highly retrograde Yaogan satellite, KZ-11 rideshare deploys 8 satellites (spacenews)
 - **Mar 22, 08:39 AM** - ‘Spacewoman’ Review: Mission Driven (nyt)
 - **Mar 22, 09:14 AM** - Kayhan targets investors, insurers with expanded orbital intelligence platform (spacenews)
+- **Mar 22, 09:49 AM** - NASA’s Hubble Telescope Spots Comet K1 Exploding Into Fragments (nyt)
