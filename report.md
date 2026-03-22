@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 6 | 21 | 42 |
+| spacenews | 2 | 6 | 22 | 43 |
 | nyt | 0 | 0 | 20 | 38 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2748,3 +2748,4 @@
 - **Mar 22, 12:09 PM** - Spaceflight Started 100 Years Ago in a Massachusetts Cabbage Patch (nyt)
 - **Mar 22, 12:44 PM** - China launches new highly retrograde Yaogan satellite, KZ-11 rideshare deploys 8 satellites (spacenews)
 - **Mar 22, 01:24 PM** - NASA’s Hubble Telescope Spots Comet K1 Exploding Into Fragments (nyt)
+- **Mar 22, 01:59 PM** - Telesat pivots Lightspeed toward defense as delays push global service to 2028 (spacenews)
