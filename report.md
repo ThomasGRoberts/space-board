@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 7 | 21 | 42 |
+| spacenews | 6 | 8 | 22 | 43 |
 | nyt | 1 | 1 | 19 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2777,3 +2777,4 @@
 - **Mar 23, 02:14 PM** - York Space rides defense demand as procurement changes cloud outlook (spacenews)
 - **Mar 23, 02:49 PM** - A Meteor Exploded Over Ohio. Then the Hunt for Meteorites Began. (nyt)
 - **Mar 23, 03:29 PM** - Rocket Lab wins $190 million Pentagon deal for hypersonic test flights (spacenews)
+- **Mar 23, 04:04 PM** - Arianespace to launch Katalyst servicing spacecraft (spacenews)
