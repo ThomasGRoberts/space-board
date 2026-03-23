@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 11 | 22 | 43 |
-| nyt | 1 | 1 | 18 | 38 |
+| nyt | 1 | 1 | 19 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2788,3 +2788,4 @@
 - **Mar 23, 08:44 PM** - Amazon Leo targets faster deployment cadence as deadline pressure mounts (spacenews)
 - **Mar 23, 09:19 PM** - Parsons unveils new satellite antenna aimed at military market (spacenews)
 - **Mar 23, 09:54 PM** - Space Force adds cyber units to guard rocket launches (spacenews)
+- **Mar 23, 10:29 PM** - ‘Spacewoman’ Review: Mission Driven (nyt)
