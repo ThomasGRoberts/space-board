@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 20 | 41 |
+| spacenews | 2 | 4 | 21 | 42 |
 | nyt | 0 | 0 | 20 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2762,3 +2762,4 @@
 - **Mar 23, 05:19 AM** - A Meteor Streaks Across the U.S. and Rattles Ohio With an Explosive Boom (nyt)
 - **Mar 23, 05:54 AM** - ReOrbit sells two small GEO satellites to SLI (spacenews)
 - **Mar 23, 06:29 AM** - NASA’s Hubble Telescope Spots Comet K1 Exploding Into Fragments (nyt)
+- **Mar 23, 07:04 AM** - Melagen Labs and Satlyt Announce Joint ISS Mission to Demonstrate Radiation-Resilient In-Orbit Computing and Next-Gen Shielding (spacenews)
