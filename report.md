@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 5 | 20 | 41 |
+| spacenews | 3 | 5 | 21 | 42 |
 | nyt | 0 | 0 | 20 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2770,3 +2770,4 @@
 - **Mar 23, 10:04 AM** - ‘Spacewoman’ Review: Mission Driven (nyt)
 - **Mar 23, 10:44 AM** - Lunar lander developers say they are ready to meet anticipated increased NASA demand (spacenews)
 - **Mar 23, 11:19 AM** - ‘Spacewoman’ Review: Mission Driven (nyt)
+- **Mar 23, 11:54 AM** - Portal Space Systems and Paladin Space plan debris removal service (spacenews)
