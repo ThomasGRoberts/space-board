@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 21 | 42 |
-| nyt | 0 | 0 | 19 | 39 |
+| nyt | 0 | 0 | 20 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2767,3 +2767,4 @@
 - **Mar 23, 08:14 AM** - China launches new highly retrograde Yaogan satellite, KZ-11 rideshare deploys 8 satellites (spacenews)
 - **Mar 23, 08:54 AM** - NASA’s Hubble Telescope Spots Comet K1 Exploding Into Fragments (nyt)
 - **Mar 23, 09:29 AM** - China launches new highly retrograde Yaogan satellite, KZ-11 rideshare deploys 8 satellites (spacenews)
+- **Mar 23, 10:04 AM** - ‘Spacewoman’ Review: Mission Driven (nyt)
