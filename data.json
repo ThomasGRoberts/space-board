@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-23T00:05:02.832592+00:00",
-    "trigger_count": 6,
-    "current_item_id": "61a85012854583d72a58ab2966a5ddc9",
+    "trigger_count": 0,
+    "current_item_id": "c4d2c71e77e4ea178f9fac17093d669c",
     "data": [
         {
             "id": "5763ed468a16074cf35a06aa972eb9fc",
@@ -8380,6 +8380,18 @@
             "fetched_datetime": "2026-03-23T20:44:27.186524Z",
             "shown_at": [
                 "2026-03-23T21:19:27.459992Z"
+            ]
+        },
+        {
+            "id": "c4d2c71e77e4ea178f9fac17093d669c",
+            "source": "spacenews",
+            "text": "Space Force adds cyber units to guard rocket launches",
+            "source_link": "https://spacenews.com/space-force-adds-cyber-units-to-guard-rocket-launches/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-23T21:54:33.002405Z",
+            "shown_at": [
+                "2026-03-23T21:54:34.412977Z"
             ]
         }
     ]
