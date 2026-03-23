@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 8 | 21 | 42 |
+| spacenews | 6 | 8 | 22 | 43 |
 | nyt | 1 | 1 | 19 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2783,3 +2783,4 @@
 - **Mar 23, 05:49 PM** - ‘Spacewoman’ Review: Mission Driven (nyt)
 - **Mar 23, 06:24 PM** - Sovereign demand and institutional capital reshape space economy (spacenews)
 - **Mar 23, 06:59 PM** - A Meteor Exploded Over Ohio. Then the Hunt for Meteorites Began. (nyt)
+- **Mar 23, 07:34 PM** - Canadian military invests in sovereign launch (spacenews)
