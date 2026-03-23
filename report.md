@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 20 | 41 |
+| spacenews | 1 | 3 | 21 | 42 |
 | nyt | 0 | 0 | 20 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2755,3 +2755,4 @@
 - **Mar 23, 01:14 AM** - ‘Spacewoman’ Review: Mission Driven (nyt)
 - **Mar 23, 01:49 AM** - Rocket Lab launches eighth Synspective radar imaging satellite (spacenews)
 - **Mar 23, 02:25 AM** - Spaceflight Started 100 Years Ago in a Massachusetts Cabbage Patch (nyt)
+- **Mar 23, 02:59 AM** - Blue Origin joins the orbital data center race (spacenews)
