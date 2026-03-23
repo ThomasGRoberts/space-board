@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-23T00:05:02.832592+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f96703f3833862a8b6fd24f6aaab50c0",
+    "trigger_count": 0,
+    "current_item_id": "bad4e6490ad4f82db6e5a4b6ea829030",
     "data": [
         {
             "id": "5763ed468a16074cf35a06aa972eb9fc",
@@ -8273,6 +8273,18 @@
             "fetched_datetime": "2026-03-23T04:44:38.247452Z",
             "shown_at": [
                 "2026-03-23T04:44:38.816408Z"
+            ]
+        },
+        {
+            "id": "bad4e6490ad4f82db6e5a4b6ea829030",
+            "source": "spacenews",
+            "text": "Lunar lander developers say they are ready to meet anticipated increased NASA demand",
+            "source_link": "https://spacenews.com/lunar-lander-developers-say-they-are-ready-to-meet-anticipated-increased-nasa-demand/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-23T10:44:23.949872Z",
+            "shown_at": [
+                "2026-03-23T10:44:25.377994Z"
             ]
         }
     ]
