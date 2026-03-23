@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-23T00:05:02.832592+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f96703f3833862a8b6fd24f6aaab50c0",
+    "trigger_count": 0,
+    "current_item_id": "cb993416cecf5340c644251dd3973617",
     "data": [
         {
             "id": "5763ed468a16074cf35a06aa972eb9fc",
@@ -8341,6 +8341,18 @@
             "fetched_datetime": "2026-03-23T16:04:39.485858Z",
             "shown_at": [
                 "2026-03-23T16:04:40.765578Z"
+            ]
+        },
+        {
+            "id": "cb993416cecf5340c644251dd3973617",
+            "source": "spacenews",
+            "text": "Sovereign demand and institutional capital reshape space economy",
+            "source_link": "https://spacenews.com/sovereign-demand-and-institutional-capital-reshape-space-economy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-23T18:24:18.422172Z",
+            "shown_at": [
+                "2026-03-23T18:24:19.595415Z"
             ]
         }
     ]

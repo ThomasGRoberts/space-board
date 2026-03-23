@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 7 | 21 | 42 |
+| spacenews | 7 | 8 | 22 | 43 |
 | nyt | 1 | 1 | 19 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2781,3 +2781,4 @@
 - **Mar 23, 04:39 PM** - ‘Spacewoman’ Review: Mission Driven (nyt)
 - **Mar 23, 05:14 PM** - Swissto12 to build small optical relay GEO satellite for Space Compass (spacenews)
 - **Mar 23, 05:49 PM** - ‘Spacewoman’ Review: Mission Driven (nyt)
+- **Mar 23, 06:24 PM** - Sovereign demand and institutional capital reshape space economy (spacenews)
