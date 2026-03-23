@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-23T00:05:02.832592+00:00",
-    "trigger_count": 6,
-    "current_item_id": "bd61853d2c7029c5bed855588f720ecc",
+    "trigger_count": 0,
+    "current_item_id": "9757c9dabc3b8a4e60eef854defc0c33",
     "data": [
         {
             "id": "5763ed468a16074cf35a06aa972eb9fc",
@@ -8252,6 +8252,18 @@
                 "2026-01-10T17:44:09.943129Z",
                 "2026-01-11T15:29:48.970146Z",
                 "2026-01-15T07:04:30.190338Z"
+            ]
+        },
+        {
+            "id": "9757c9dabc3b8a4e60eef854defc0c33",
+            "source": "spacenews",
+            "text": "Swissto12 to build small optical relay GEO satellite for Space Compass",
+            "source_link": "https://spacenews.com/swissto12-to-build-small-optical-relay-geo-satellite-for-space-compass/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-23T04:44:38.247452Z",
+            "shown_at": [
+                "2026-03-23T04:44:38.816408Z"
             ]
         }
     ]
