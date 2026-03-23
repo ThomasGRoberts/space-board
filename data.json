@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-23T00:05:02.832592+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f96703f3833862a8b6fd24f6aaab50c0",
+    "trigger_count": 0,
+    "current_item_id": "c878be24c04ab7958b1b428d011cab21",
     "data": [
         {
             "id": "5763ed468a16074cf35a06aa972eb9fc",
@@ -8301,6 +8301,18 @@
             "fetched_datetime": "2026-03-23T13:04:34.311321Z",
             "shown_at": [
                 "2026-03-23T13:04:35.875320Z"
+            ]
+        },
+        {
+            "id": "c878be24c04ab7958b1b428d011cab21",
+            "source": "spacenews",
+            "text": "York Space rides defense demand as procurement changes cloud outlook",
+            "source_link": "https://spacenews.com/york-space-rides-defense-demand-as-procurement-changes-cloud-outlook/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-23T14:14:17.748278Z",
+            "shown_at": [
+                "2026-03-23T14:14:18.786966Z"
             ]
         }
     ]
