@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 21 | 42 |
-| nyt | 0 | 0 | 19 | 39 |
+| nyt | 0 | 0 | 20 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2773,3 +2773,4 @@
 - **Mar 23, 11:54 AM** - Portal Space Systems and Paladin Space plan debris removal service (spacenews)
 - **Mar 23, 12:29 PM** - ‘Spacewoman’ Review: Mission Driven (nyt)
 - **Mar 23, 01:04 PM** - The software behind Artemis, Gateway and America’s defense in space deserves its own strategy (spacenews)
+- **Mar 23, 01:39 PM** - ‘Spacewoman’ Review: Mission Driven (nyt)
