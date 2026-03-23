@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-23T00:05:02.832592+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0af2ce535b99f67cd3a4fb25a88c1143",
+    "trigger_count": 0,
+    "current_item_id": "61a85012854583d72a58ab2966a5ddc9",
     "data": [
         {
             "id": "5763ed468a16074cf35a06aa972eb9fc",
@@ -8375,9 +8375,12 @@
             "source": "spacenews",
             "text": "Parsons unveils new satellite antenna aimed at military market",
             "source_link": "https://spacenews.com/parsons-unveils-new-satellite-antenna-aimed-at-military-market/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-03-23T20:44:27.186524Z"
+            "fetched_datetime": "2026-03-23T20:44:27.186524Z",
+            "shown_at": [
+                "2026-03-23T21:19:27.459992Z"
+            ]
         }
     ]
 }
