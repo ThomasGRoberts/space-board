@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 7 | 21 | 42 |
-| nyt | 1 | 1 | 19 | 39 |
+| nyt | 1 | 1 | 20 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2780,3 +2780,4 @@
 - **Mar 23, 04:04 PM** - Arianespace to launch Katalyst servicing spacecraft (spacenews)
 - **Mar 23, 04:39 PM** - ‘Spacewoman’ Review: Mission Driven (nyt)
 - **Mar 23, 05:14 PM** - Swissto12 to build small optical relay GEO satellite for Space Compass (spacenews)
+- **Mar 23, 05:49 PM** - ‘Spacewoman’ Review: Mission Driven (nyt)
