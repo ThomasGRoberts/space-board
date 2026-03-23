@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 20 | 41 |
+| spacenews | 1 | 3 | 21 | 42 |
 | nyt | 0 | 0 | 20 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2753,3 +2753,4 @@
 - **Mar 23, 12:05 AM** - NASA’s Hubble Telescope Spots Comet K1 Exploding Into Fragments (nyt)
 - **Mar 23, 12:39 AM** - Portal Space Systems and Paladin Space plan debris removal service (spacenews)
 - **Mar 23, 01:14 AM** - ‘Spacewoman’ Review: Mission Driven (nyt)
+- **Mar 23, 01:49 AM** - Rocket Lab launches eighth Synspective radar imaging satellite (spacenews)
