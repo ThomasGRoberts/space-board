@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 20 | 41 |
-| nyt | 0 | 0 | 20 | 40 |
+| nyt | 0 | 0 | 21 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2756,3 +2756,4 @@
 - **Mar 23, 01:49 AM** - Rocket Lab launches eighth Synspective radar imaging satellite (spacenews)
 - **Mar 23, 02:25 AM** - Spaceflight Started 100 Years Ago in a Massachusetts Cabbage Patch (nyt)
 - **Mar 23, 02:59 AM** - Blue Origin joins the orbital data center race (spacenews)
+- **Mar 23, 03:34 AM** - A Meteor Streaks Across the U.S. and Rattles Ohio With an Explosive Boom (nyt)
