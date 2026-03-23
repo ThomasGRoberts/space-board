@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-23T00:05:02.832592+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c878be24c04ab7958b1b428d011cab21",
+    "trigger_count": 0,
+    "current_item_id": "7f779b7a48acad9563afd12c3b256099",
     "data": [
         {
             "id": "5763ed468a16074cf35a06aa972eb9fc",
@@ -8313,6 +8313,18 @@
             "fetched_datetime": "2026-03-23T14:14:17.748278Z",
             "shown_at": [
                 "2026-03-23T14:14:18.786966Z"
+            ]
+        },
+        {
+            "id": "7f779b7a48acad9563afd12c3b256099",
+            "source": "nyt",
+            "text": "A Meteor Exploded Over Ohio. Then the Hunt for Meteorites Began.",
+            "source_link": "https://www.nytimes.com/2026/03/22/us/meteor-hunters-ohio-cleveland.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-23T14:49:21.004791Z",
+            "shown_at": [
+                "2026-03-23T14:49:22.181817Z"
             ]
         }
     ]
