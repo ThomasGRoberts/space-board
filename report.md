@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 20 | 41 |
-| nyt | 0 | 0 | 20 | 40 |
+| nyt | 0 | 0 | 21 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2752,3 +2752,4 @@
 - **Mar 22, 11:29 PM** - Another GPS launch shifts from ULA to SpaceX as Vulcan investigation continues (spacenews)
 - **Mar 23, 12:05 AM** - NASA’s Hubble Telescope Spots Comet K1 Exploding Into Fragments (nyt)
 - **Mar 23, 12:39 AM** - Portal Space Systems and Paladin Space plan debris removal service (spacenews)
+- **Mar 23, 01:14 AM** - ‘Spacewoman’ Review: Mission Driven (nyt)
