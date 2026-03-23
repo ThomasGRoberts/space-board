@@ -1,9 +1,33 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-03-22T00:04:33.807008+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1d3e1d36bb99042fff68522090f0c934",
+    "last_run_datetime": "2026-03-23T00:05:02.832592+00:00",
+    "trigger_count": 0,
+    "current_item_id": "b0dc4a3b483434b848e1b65a81fa52a1",
     "data": [
+        {
+            "id": "5763ed468a16074cf35a06aa972eb9fc",
+            "source": "spacenews",
+            "text": "SpaceX offers details on orbital data center satellites",
+            "source_link": "https://spacenews.com/spacex-offers-details-on-orbital-data-center-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-22T18:44:17.980328Z",
+            "shown_at": [
+                "2026-03-22T18:44:19.214487Z"
+            ]
+        },
+        {
+            "id": "5cc49166aaff18c03f9aa42ed2e6a815",
+            "source": "spacenews",
+            "text": "Some European Launcher Challenge funding remains in limbo",
+            "source_link": "https://spacenews.com/some-european-launcher-challenge-funding-remains-in-limbo/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-22T01:04:24.442586Z",
+            "shown_at": [
+                "2026-03-22T01:04:25.169912Z"
+            ]
+        },
         {
             "id": "9c1d0fd669a58ccb90389d674302055f",
             "source": "spacenews",
@@ -241,7 +265,8 @@
                 "2026-03-22T09:49:20.109520Z",
                 "2026-03-22T13:24:20.305411Z",
                 "2026-03-22T19:19:16.603875Z",
-                "2026-03-22T20:29:21.689250Z"
+                "2026-03-22T20:29:21.689250Z",
+                "2026-03-23T00:05:08.245030Z"
             ]
         },
         {
@@ -8220,67 +8245,6 @@
                 "2026-01-10T17:44:09.943129Z",
                 "2026-01-11T15:29:48.970146Z",
                 "2026-01-15T07:04:30.190338Z"
-            ]
-        },
-        {
-            "id": "00d13552ba1680c2faee73f3154da41d",
-            "source": "spacenews",
-            "text": "Rhea Space Activity applies optical navigation to military rendezvous missions",
-            "source_link": "https://spacenews.com/rhea-space-activity-applies-optical-navigation-to-military-rendezvous-missions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-09T11:24:11.927915Z",
-            "shown_at": [
-                "2026-01-09T11:24:12.962314Z",
-                "2026-01-13T08:49:16.263872Z",
-                "2026-01-16T04:14:51.955671Z"
-            ]
-        },
-        {
-            "id": "512c7f097e54920b48abfcd1f9c708e2",
-            "source": "nyt",
-            "text": "Scientists Discover Cloud-9, a Starless ‘Galaxy That Wasn’t’",
-            "source_link": "https://www.nytimes.com/2026/01/08/science/cloud-9-starless-dark-galaxy.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-09T01:14:14.673331Z",
-            "shown_at": [
-                "2026-01-09T01:14:15.497935Z",
-                "2026-01-09T04:49:25.360544Z",
-                "2026-01-10T21:14:04.615075Z",
-                "2026-01-11T04:14:21.756247Z",
-                "2026-01-11T22:34:30.748542Z",
-                "2026-01-12T03:49:32.083520Z",
-                "2026-01-12T05:34:27.928670Z",
-                "2026-01-13T07:39:16.548417Z",
-                "2026-01-13T13:34:30.636865Z",
-                "2026-01-14T08:44:55.244634Z",
-                "2026-01-14T15:34:43.564139Z",
-                "2026-01-15T02:24:11.373417Z"
-            ]
-        },
-        {
-            "id": "5cc49166aaff18c03f9aa42ed2e6a815",
-            "source": "spacenews",
-            "text": "Some European Launcher Challenge funding remains in limbo",
-            "source_link": "https://spacenews.com/some-european-launcher-challenge-funding-remains-in-limbo/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-22T01:04:24.442586Z",
-            "shown_at": [
-                "2026-03-22T01:04:25.169912Z"
-            ]
-        },
-        {
-            "id": "5763ed468a16074cf35a06aa972eb9fc",
-            "source": "spacenews",
-            "text": "SpaceX offers details on orbital data center satellites",
-            "source_link": "https://spacenews.com/spacex-offers-details-on-orbital-data-center-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-22T18:44:17.980328Z",
-            "shown_at": [
-                "2026-03-22T18:44:19.214487Z"
             ]
         }
     ]
