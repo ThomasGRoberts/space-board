@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 13 | 21 | 43 |
+| spacenews | 7 | 13 | 22 | 44 |
 | nyt | 2 | 3 | 19 | 38 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2756,3 +2756,4 @@
 - **Mar 24, 02:29 PM** - SpaceEye-T: 25 cm Satellite Imagery and Tasking Now Available Through Pacific Geomatics Limited (spacenews)
 - **Mar 24, 03:04 PM** - NASA Adds Moon Base and Nuclear-Powered Mars Spacecraft to Road Map (nyt)
 - **Mar 24, 03:39 PM** - How Do You Measure Snow From Space? First, Climb a Mountain. (nyt)
+- **Mar 24, 04:15 PM** - Lunar lander developers say they are ready to meet anticipated increased NASA demand (spacenews)
