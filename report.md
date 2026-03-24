@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 10 | 22 | 43 |
-| nyt | 1 | 1 | 18 | 38 |
+| nyt | 1 | 1 | 19 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2736,3 +2736,4 @@
 - **Mar 24, 02:34 AM** - ISPTech Raises €5.5M Seed Round to Redefine How Spacecraft Manoeuvre in Orbit (spacenews)
 - **Mar 24, 03:09 AM** - A Meteor Exploded Over Ohio. Then the Hunt for Meteorites Began. (nyt)
 - **Mar 24, 03:44 AM** - Space Force overhauls buying structure with new mission portfolios (spacenews)
+- **Mar 24, 04:19 AM** - A Meteor Streaks Across the U.S. and Rattles Ohio With an Explosive Boom (nyt)
