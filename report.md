@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 21 | 23 | 45 |
+| spacenews | 12 | 21 | 24 | 46 |
 | nyt | 3 | 4 | 17 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2768,3 +2768,4 @@
 - **Mar 24, 09:54 PM** - Parsons unveils new satellite antenna aimed at military market (spacenews)
 - **Mar 24, 10:29 PM** - NASA Sets Out New Plans and Timelines for Moon Base and Nuclear Mars Mission (nyt)
 - **Mar 24, 11:04 PM** - Geopolitical shifts bring opportunities and headaches for satellite execs (spacenews)
+- **Mar 24, 11:39 PM** - Moog taps Redwire to provide solar arrays for Meteor (spacenews)
