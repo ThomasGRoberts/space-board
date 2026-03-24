@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 22 | 43 |
-| nyt | 2 | 3 | 18 | 38 |
+| nyt | 2 | 3 | 19 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2757,3 +2757,4 @@
 - **Mar 24, 03:04 PM** - NASA Adds Moon Base and Nuclear-Powered Mars Spacecraft to Road Map (nyt)
 - **Mar 24, 03:39 PM** - How Do You Measure Snow From Space? First, Climb a Mountain. (nyt)
 - **Mar 24, 04:15 PM** - Lunar lander developers say they are ready to meet anticipated increased NASA demand (spacenews)
+- **Mar 24, 04:54 PM** - A Meteor Streaks Across the U.S. and Rattles Ohio With an Explosive Boom (nyt)
