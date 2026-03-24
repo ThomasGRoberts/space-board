@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 11 | 22 | 43 |
+| spacenews | 8 | 11 | 23 | 44 |
 | nyt | 1 | 1 | 18 | 38 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2750,3 +2750,4 @@
 - **Mar 24, 10:49 AM** - Space boom strains supply chain, industry report warns (spacenews)
 - **Mar 24, 11:24 AM** - Fusion engine for missile warning lacks a government dataset (spacenews)
 - **Mar 24, 11:59 AM** - A Meteor Exploded Over Ohio. Then the Hunt for Meteorites Began. (nyt)
+- **Mar 24, 12:39 PM** - Telesat pivots Lightspeed toward defense as delays push global service to 2028 (spacenews)
