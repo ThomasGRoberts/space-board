@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 10 | 21 | 42 |
+| spacenews | 8 | 10 | 22 | 43 |
 | nyt | 1 | 1 | 19 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2737,3 +2737,4 @@
 - **Mar 24, 03:09 AM** - A Meteor Exploded Over Ohio. Then the Hunt for Meteorites Began. (nyt)
 - **Mar 24, 03:44 AM** - Space Force overhauls buying structure with new mission portfolios (spacenews)
 - **Mar 24, 04:19 AM** - A Meteor Streaks Across the U.S. and Rattles Ohio With an Explosive Boom (nyt)
+- **Mar 24, 04:54 AM** - Rocket Lab launches eighth Synspective radar imaging satellite (spacenews)
