@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 17 | 23 | 45 |
+| spacenews | 9 | 17 | 24 | 46 |
 | nyt | 2 | 3 | 17 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2765,3 +2765,4 @@
 - **Mar 24, 07:49 PM** - Space Force officer shares intelligence on threats to space systems (spacenews)
 - **Mar 24, 08:44 PM** - SES orders 28 satellites from K2 Space for next-gen MEO network (spacenews)
 - **Mar 24, 09:19 PM** - NASA Adds Moon Base and Nuclear-Powered Mars Spacecraft to Road Map (nyt)
+- **Mar 24, 09:54 PM** - Parsons unveils new satellite antenna aimed at military market (spacenews)
