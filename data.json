@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-24T00:04:15.140228+00:00",
-    "trigger_count": 6,
-    "current_item_id": "fa89838d6e2f291f0f20140ced7e3ab4",
+    "trigger_count": 0,
+    "current_item_id": "d115814b98b7b1d8e44f99b79b6fd48f",
     "data": [
         {
             "id": "c4d2c71e77e4ea178f9fac17093d669c",
@@ -8351,9 +8351,12 @@
             "source": "spacenews",
             "text": "Space Force officer shares intelligence on threats to space systems",
             "source_link": "https://spacenews.com/space-force-officer-shares-intelligence-on-threats-to-space-systems/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-03-24T18:04:34.967791Z"
+            "fetched_datetime": "2026-03-24T18:04:34.967791Z",
+            "shown_at": [
+                "2026-03-24T19:49:09.769364Z"
+            ]
         },
         {
             "id": "dadd87e81f7abb8b233de51066c9891b",
