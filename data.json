@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-24T00:04:15.140228+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c4106ef273f5ae1c0096fbd2a4fe0dab",
+    "trigger_count": 0,
+    "current_item_id": "ae630355f9762a4b3ff53b3b97582732",
     "data": [
         {
             "id": "c4d2c71e77e4ea178f9fac17093d669c",
@@ -8383,6 +8383,45 @@
             "shown_at": [
                 "2026-03-24T22:29:12.971707Z"
             ]
+        },
+        {
+            "id": "ae630355f9762a4b3ff53b3b97582732",
+            "source": "spacenews",
+            "text": "Geopolitical shifts bring opportunities and headaches for satellite execs",
+            "source_link": "https://spacenews.com/geopolitical-shifts-bring-opportunities-and-headaches-for-satellite-execs/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-24T23:04:46.144214Z",
+            "shown_at": [
+                "2026-03-24T23:04:47.419464Z"
+            ]
+        },
+        {
+            "id": "2c8e6505e3cc639cd43bba81ae577b69",
+            "source": "spacenews",
+            "text": "Moog taps Redwire to provide solar arrays for Meteor",
+            "source_link": "https://spacenews.com/moog-taps-redwire-to-provide-solar-arrays-for-meteor/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-03-24T23:04:46.144297Z"
+        },
+        {
+            "id": "0b496a53fd59691d84df1d8aa7951860",
+            "source": "spacenews",
+            "text": "OrbitsIQ Global Announces Breakthrough in Space-Based IoT Connectivity",
+            "source_link": "https://spacenews.com/orbitsiq-global-announces-breakthrough-in-space-based-iot-connectivity/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-03-24T23:04:46.144336Z"
+        },
+        {
+            "id": "e7101053db95f5fd24cf34486c58a6d8",
+            "source": "spacenews",
+            "text": "From missions to systems: The architecture enabling a sustained lunar economy",
+            "source_link": "https://spacenews.com/from-missions-to-systems-the-architecture-enabling-a-sustained-lunar-economy/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-03-24T23:04:46.144368Z"
         }
     ]
 }
