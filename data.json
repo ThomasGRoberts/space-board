@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-24T00:04:15.140228+00:00",
-    "trigger_count": 6,
-    "current_item_id": "800af7389cbe9f47d421935b39a26ece",
+    "trigger_count": 0,
+    "current_item_id": "63c9f43276c09f60ee8603d84c998c1f",
     "data": [
         {
             "id": "c4d2c71e77e4ea178f9fac17093d669c",
@@ -8256,6 +8256,18 @@
             "fetched_datetime": "2026-03-24T11:24:11.966115Z",
             "shown_at": [
                 "2026-03-24T11:24:12.850025Z"
+            ]
+        },
+        {
+            "id": "63c9f43276c09f60ee8603d84c998c1f",
+            "source": "spacenews",
+            "text": "SES targets 28 satellites with K2 Space for next-gen MEO network",
+            "source_link": "https://spacenews.com/ses-targets-28-satellites-with-k2-space-for-next-gen-meo-network/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-24T13:15:26.070570Z",
+            "shown_at": [
+                "2026-03-24T13:15:27.235807Z"
             ]
         }
     ]
