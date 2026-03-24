@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 12 | 22 | 43 |
+| spacenews | 8 | 13 | 23 | 44 |
 | nyt | 1 | 1 | 18 | 38 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2753,3 +2753,4 @@
 - **Mar 24, 12:39 PM** - Telesat pivots Lightspeed toward defense as delays push global service to 2028 (spacenews)
 - **Mar 24, 01:15 PM** - SES targets 28 satellites with K2 Space for next-gen MEO network (spacenews)
 - **Mar 24, 01:54 PM** - A Meteor Streaks Across the U.S. and Rattles Ohio With an Explosive Boom (nyt)
+- **Mar 24, 02:29 PM** - SpaceEye-T: 25 cm Satellite Imagery and Tasking Now Available Through Pacific Geomatics Limited (spacenews)

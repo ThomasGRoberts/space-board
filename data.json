@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-24T00:04:15.140228+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9421c99ab2e6d0a8f54384683d59b251",
+    "trigger_count": 0,
+    "current_item_id": "b015b39471cf6fb4d247311fe97ede47",
     "data": [
         {
             "id": "c4d2c71e77e4ea178f9fac17093d669c",
@@ -8269,6 +8269,18 @@
             "fetched_datetime": "2026-03-24T13:15:26.070570Z",
             "shown_at": [
                 "2026-03-24T13:15:27.235807Z"
+            ]
+        },
+        {
+            "id": "b015b39471cf6fb4d247311fe97ede47",
+            "source": "spacenews",
+            "text": "SpaceEye-T: 25 cm Satellite Imagery and Tasking Now Available Through Pacific Geomatics Limited",
+            "source_link": "https://spacenews.com/spaceeye-t-25-cm-satellite-imagery-and-tasking-now-available-through-pacific-geomatics-limited/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-24T14:29:33.887257Z",
+            "shown_at": [
+                "2026-03-24T14:29:35.146087Z"
             ]
         }
     ]
