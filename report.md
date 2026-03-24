@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 10 | 22 | 42 |
+| spacenews | 7 | 10 | 22 | 43 |
 | nyt | 1 | 1 | 19 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2747,3 +2747,4 @@
 - **Mar 24, 09:04 AM** - ‘Spacewoman’ Review: Mission Driven (nyt)
 - **Mar 24, 09:39 AM** - Another GPS launch shifts from ULA to SpaceX as Vulcan investigation continues (spacenews)
 - **Mar 24, 10:14 AM** - ‘Spacewoman’ Review: Mission Driven (nyt)
+- **Mar 24, 10:49 AM** - Space boom strains supply chain, industry report warns (spacenews)
