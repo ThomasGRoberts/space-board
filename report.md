@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 13 | 22 | 43 |
+| spacenews | 12 | 18 | 23 | 44 |
 | nyt | 2 | 3 | 18 | 38 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2759,3 +2759,4 @@
 - **Mar 24, 04:15 PM** - Lunar lander developers say they are ready to meet anticipated increased NASA demand (spacenews)
 - **Mar 24, 04:54 PM** - A Meteor Streaks Across the U.S. and Rattles Ohio With an Explosive Boom (nyt)
 - **Mar 24, 05:29 PM** - Solar array deal sheds more light on South Korea’s defense constellation (spacenews)
+- **Mar 24, 06:04 PM** - China’s Astronstone raises $29 million for reusable rocket with chopstick-style recovery (spacenews)
