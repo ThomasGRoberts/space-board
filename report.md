@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 10 | 21 | 42 |
+| spacenews | 8 | 10 | 22 | 43 |
 | nyt | 1 | 1 | 19 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2741,3 +2741,4 @@
 - **Mar 24, 05:29 AM** - NASA’s Hubble Telescope Spots Comet K1 Exploding Into Fragments (nyt)
 - **Mar 24, 06:04 AM** - Parsons unveils new satellite antenna aimed at military market (spacenews)
 - **Mar 24, 06:39 AM** - NASA’s Hubble Telescope Spots Comet K1 Exploding Into Fragments (nyt)
+- **Mar 24, 07:14 AM** - Swissto12 to build small optical relay GEO satellite for Space Compass (spacenews)
