@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 17 | 23 | 44 |
+| spacenews | 11 | 17 | 24 | 45 |
 | nyt | 2 | 3 | 17 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2761,3 +2761,4 @@
 - **Mar 24, 05:29 PM** - Solar array deal sheds more light on South Korea’s defense constellation (spacenews)
 - **Mar 24, 06:04 PM** - China’s Astronstone raises $29 million for reusable rocket with chopstick-style recovery (spacenews)
 - **Mar 24, 06:39 PM** - Space Development Agency slows satellite launches to focus on on-orbit performance (spacenews)
+- **Mar 24, 07:14 PM** - NASA halts work on Gateway to develop a lunar base (spacenews)

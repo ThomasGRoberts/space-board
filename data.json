@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-24T00:04:15.140228+00:00",
-    "trigger_count": 6,
-    "current_item_id": "50c7dc994207c7767c6bd0d4f85b7fce",
+    "trigger_count": 0,
+    "current_item_id": "fa89838d6e2f291f0f20140ced7e3ab4",
     "data": [
         {
             "id": "c4d2c71e77e4ea178f9fac17093d669c",
@@ -8339,9 +8339,12 @@
             "source": "spacenews",
             "text": "NASA halts work on Gateway to develop a lunar base",
             "source_link": "https://spacenews.com/nasa-halts-work-on-gateway-to-develop-a-lunar-base/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-03-24T18:04:34.967752Z"
+            "fetched_datetime": "2026-03-24T18:04:34.967752Z",
+            "shown_at": [
+                "2026-03-24T19:14:16.998965Z"
+            ]
         },
         {
             "id": "d115814b98b7b1d8e44f99b79b6fd48f",
