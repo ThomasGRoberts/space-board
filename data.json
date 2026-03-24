@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-24T00:04:15.140228+00:00",
-    "trigger_count": 6,
-    "current_item_id": "308004edec633ca04e05d88495d3befb",
+    "trigger_count": 0,
+    "current_item_id": "0e4fc5d1ea8ffd9fcb2ae3eddda5c74c",
     "data": [
         {
             "id": "c4d2c71e77e4ea178f9fac17093d669c",
@@ -8242,6 +8242,18 @@
             "fetched_datetime": "2026-01-12T09:44:29.884008Z",
             "shown_at": [
                 "2026-01-12T09:44:30.762712Z"
+            ]
+        },
+        {
+            "id": "0e4fc5d1ea8ffd9fcb2ae3eddda5c74c",
+            "source": "spacenews",
+            "text": "Fusion engine for missile warning lacks a government dataset",
+            "source_link": "https://spacenews.com/fusion-engine-for-missile-warning-lacks-a-government-dataset/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-24T11:24:11.966115Z",
+            "shown_at": [
+                "2026-03-24T11:24:12.850025Z"
             ]
         }
     ]
