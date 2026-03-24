@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 10 | 22 | 42 |
+| spacenews | 9 | 10 | 23 | 43 |
 | nyt | 1 | 1 | 18 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2731,3 +2731,4 @@
 - **Mar 23, 11:39 PM** - A Meteor Streaks Across the U.S. and Rattles Ohio With an Explosive Boom (nyt)
 - **Mar 24, 12:14 AM** - Canadian military invests in sovereign launch (spacenews)
 - **Mar 24, 12:49 AM** - NASA’s Hubble Telescope Spots Comet K1 Exploding Into Fragments (nyt)
+- **Mar 24, 01:24 AM** - NASA grappling with planetary science funding shortfall (spacenews)
