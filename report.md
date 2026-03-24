@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 11 | 22 | 43 |
+| spacenews | 9 | 11 | 23 | 44 |
 | nyt | 1 | 1 | 18 | 38 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2729,3 +2729,4 @@
 - **Mar 23, 10:29 PM** - ‘Spacewoman’ Review: Mission Driven (nyt)
 - **Mar 23, 11:04 PM** - Another GPS launch shifts from ULA to SpaceX as Vulcan investigation continues (spacenews)
 - **Mar 23, 11:39 PM** - A Meteor Streaks Across the U.S. and Rattles Ohio With an Explosive Boom (nyt)
+- **Mar 24, 12:14 AM** - Canadian military invests in sovereign launch (spacenews)
