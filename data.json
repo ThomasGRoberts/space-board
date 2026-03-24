@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-24T00:04:15.140228+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d06a719ee2fd3aa25e3c3b5c14d8cf18",
+    "trigger_count": 0,
+    "current_item_id": "50c7dc994207c7767c6bd0d4f85b7fce",
     "data": [
         {
             "id": "c4d2c71e77e4ea178f9fac17093d669c",
@@ -8327,9 +8327,12 @@
             "source": "spacenews",
             "text": "Space Development Agency slows satellite launches to focus on on-orbit performance",
             "source_link": "https://spacenews.com/space-development-agency-slows-satellite-launches-to-focus-on-on-orbit-performance/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-03-24T18:04:34.967708Z"
+            "fetched_datetime": "2026-03-24T18:04:34.967708Z",
+            "shown_at": [
+                "2026-03-24T18:39:25.077665Z"
+            ]
         },
         {
             "id": "fa89838d6e2f291f0f20140ced7e3ab4",
