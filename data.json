@@ -1,9 +1,131 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-03-23T00:05:02.832592+00:00",
-    "trigger_count": 4,
+    "last_run_datetime": "2026-03-24T00:04:15.140228+00:00",
+    "trigger_count": 5,
     "current_item_id": "9421c99ab2e6d0a8f54384683d59b251",
     "data": [
+        {
+            "id": "c4d2c71e77e4ea178f9fac17093d669c",
+            "source": "spacenews",
+            "text": "Space Force adds cyber units to guard rocket launches",
+            "source_link": "https://spacenews.com/space-force-adds-cyber-units-to-guard-rocket-launches/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-23T21:54:33.002405Z",
+            "shown_at": [
+                "2026-03-23T21:54:34.412977Z"
+            ]
+        },
+        {
+            "id": "61a85012854583d72a58ab2966a5ddc9",
+            "source": "spacenews",
+            "text": "Parsons unveils new satellite antenna aimed at military market",
+            "source_link": "https://spacenews.com/parsons-unveils-new-satellite-antenna-aimed-at-military-market/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-23T20:44:27.186524Z",
+            "shown_at": [
+                "2026-03-23T21:19:27.459992Z"
+            ]
+        },
+        {
+            "id": "0af2ce535b99f67cd3a4fb25a88c1143",
+            "source": "spacenews",
+            "text": "Amazon Leo targets faster deployment cadence as deadline pressure mounts",
+            "source_link": "https://spacenews.com/amazon-leo-targets-faster-deployment-cadence-as-deadline-pressure-mounts/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-23T20:44:27.186455Z",
+            "shown_at": [
+                "2026-03-23T20:44:28.624481Z"
+            ]
+        },
+        {
+            "id": "cb993416cecf5340c644251dd3973617",
+            "source": "spacenews",
+            "text": "Sovereign demand and institutional capital reshape space economy",
+            "source_link": "https://spacenews.com/sovereign-demand-and-institutional-capital-reshape-space-economy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-23T18:24:18.422172Z",
+            "shown_at": [
+                "2026-03-23T18:24:19.595415Z"
+            ]
+        },
+        {
+            "id": "a1d9d7ebbbbeaa953a7c781431b29892",
+            "source": "spacenews",
+            "text": "Arianespace to launch Katalyst servicing spacecraft",
+            "source_link": "https://spacenews.com/arianespace-to-launch-katalyst-servicing-spacecraft/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-23T16:04:39.485858Z",
+            "shown_at": [
+                "2026-03-23T16:04:40.765578Z"
+            ]
+        },
+        {
+            "id": "7f779b7a48acad9563afd12c3b256099",
+            "source": "nyt",
+            "text": "A Meteor Exploded Over Ohio. Then the Hunt for Meteorites Began.",
+            "source_link": "https://www.nytimes.com/2026/03/22/us/meteor-hunters-ohio-cleveland.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-23T14:49:21.004791Z",
+            "shown_at": [
+                "2026-03-23T14:49:22.181817Z",
+                "2026-03-23T18:59:17.896653Z"
+            ]
+        },
+        {
+            "id": "c878be24c04ab7958b1b428d011cab21",
+            "source": "spacenews",
+            "text": "York Space rides defense demand as procurement changes cloud outlook",
+            "source_link": "https://spacenews.com/york-space-rides-defense-demand-as-procurement-changes-cloud-outlook/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-23T14:14:17.748278Z",
+            "shown_at": [
+                "2026-03-23T14:14:18.786966Z"
+            ]
+        },
+        {
+            "id": "8bf1c9dc4d66d9590653dfd371450ee2",
+            "source": "spacenews",
+            "text": "The software behind Artemis, Gateway and America’s defense in space deserves its own strategy",
+            "source_link": "https://spacenews.com/the-software-behind-artemis-gateway-and-americas-defense-in-space-deserves-its-own-strategy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-23T13:04:34.311321Z",
+            "shown_at": [
+                "2026-03-23T13:04:35.875320Z"
+            ]
+        },
+        {
+            "id": "bad4e6490ad4f82db6e5a4b6ea829030",
+            "source": "spacenews",
+            "text": "Lunar lander developers say they are ready to meet anticipated increased NASA demand",
+            "source_link": "https://spacenews.com/lunar-lander-developers-say-they-are-ready-to-meet-anticipated-increased-nasa-demand/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-23T10:44:23.949872Z",
+            "shown_at": [
+                "2026-03-23T10:44:25.377994Z"
+            ]
+        },
+        {
+            "id": "9757c9dabc3b8a4e60eef854defc0c33",
+            "source": "spacenews",
+            "text": "Swissto12 to build small optical relay GEO satellite for Space Compass",
+            "source_link": "https://spacenews.com/swissto12-to-build-small-optical-relay-geo-satellite-for-space-compass/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-23T04:44:38.247452Z",
+            "shown_at": [
+                "2026-03-23T04:44:38.816408Z",
+                "2026-03-23T17:14:15.494595Z"
+            ]
+        },
         {
             "id": "5763ed468a16074cf35a06aa972eb9fc",
             "source": "spacenews",
@@ -8101,300 +8223,6 @@
             "fetched_datetime": "2026-01-12T09:44:29.884008Z",
             "shown_at": [
                 "2026-01-12T09:44:30.762712Z"
-            ]
-        },
-        {
-            "id": "58b1de4d93645f25e8f020ddc9debb93",
-            "source": "spacenews",
-            "text": "Kepler network to link OroraTech sensors for Earth monitoring",
-            "source_link": "https://spacenews.com/kepler-network-to-link-ororatech-sensors-for-earth-monitoring/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-11T23:09:11.574826Z",
-            "shown_at": [
-                "2026-01-11T23:09:12.286970Z"
-            ]
-        },
-        {
-            "id": "8632ba84cdfec98faa2018663f511a35",
-            "source": "spacenews",
-            "text": "NASA astrophysics, commercial satellites launch on SpaceX rideshare mission",
-            "source_link": "https://spacenews.com/nasa-astrophysics-commercial-satellites-launch-on-spacex-rideshare-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-11T17:49:19.137060Z",
-            "shown_at": [
-                "2026-01-11T17:49:19.751604Z"
-            ]
-        },
-        {
-            "id": "f0b939c3a196e3ef9ad1bba82ce02526",
-            "source": "spacenews",
-            "text": "Crew-11 to make early return Jan. 15",
-            "source_link": "https://spacenews.com/crew-11-to-make-early-return-jan-15/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-10T21:49:54.261672Z",
-            "shown_at": [
-                "2026-01-10T21:49:54.981784Z",
-                "2026-01-13T05:19:11.726098Z"
-            ]
-        },
-        {
-            "id": "06aacf303335a9fb51e5c418bedafb8e",
-            "source": "spacenews",
-            "text": "Space Force awards $739 million in launch orders to SpaceX",
-            "source_link": "https://spacenews.com/space-force-awards-739-million-in-launch-orders-to-spacex/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-10T18:19:24.713306Z",
-            "shown_at": [
-                "2026-01-10T18:53:51.983142Z"
-            ]
-        },
-        {
-            "id": "344be2996cdc49409f188bf56a6278dc",
-            "source": "spacenews",
-            "text": "FCC approves 7,500 additional Starlink satellites",
-            "source_link": "https://spacenews.com/fcc-approves-7500-additional-starlink-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-10T18:19:24.713247Z",
-            "shown_at": [
-                "2026-01-10T18:19:25.525528Z",
-                "2026-01-11T10:09:00.937875Z",
-                "2026-01-12T00:54:06.750692Z"
-            ]
-        },
-        {
-            "id": "2598624560369ff59ba5c3c3d3e29a94",
-            "source": "breaking_defense",
-            "text": "How the Air Force is revamping its acquisition shop with new ‘portfolios’",
-            "source_link": "https://breakingdefense.com/2026/01/how-the-air-force-is-revamping-its-acquisition-shop-with-new-portfolios/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-10T03:24:02.527176Z",
-            "shown_at": [
-                "2026-01-10T04:34:31.432664Z",
-                "2026-01-10T15:24:04.993614Z",
-                "2026-01-11T14:19:16.472756Z",
-                "2026-01-11T18:24:22.326674Z",
-                "2026-01-12T04:59:11.110836Z",
-                "2026-01-12T08:34:30.466859Z",
-                "2026-01-12T10:24:06.504911Z",
-                "2026-01-12T21:39:12.508020Z",
-                "2026-01-13T06:29:15.445723Z",
-                "2026-01-13T19:24:35.427456Z",
-                "2026-01-15T08:14:15.625784Z",
-                "2026-01-16T13:54:43.761082Z",
-                "2026-01-17T01:54:24.821811Z"
-            ]
-        },
-        {
-            "id": "0b6ef0a9392b1a0e3e301c163579e50f",
-            "source": "breaking_defense",
-            "text": "DIU to fund ‘unjammable’ magnetic navigation tech",
-            "source_link": "https://breakingdefense.com/2026/01/diu-to-fund-unjammable-magnetic-navigation-tech/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-10T03:24:02.527140Z",
-            "shown_at": [
-                "2026-01-10T03:59:01.825765Z",
-                "2026-01-10T13:39:14.959360Z",
-                "2026-01-13T08:14:59.701855Z",
-                "2026-01-14T00:19:14.330458Z",
-                "2026-01-14T06:14:26.449024Z",
-                "2026-01-15T04:44:09.662968Z",
-                "2026-01-15T12:34:31.275280Z",
-                "2026-01-15T22:24:17.817164Z",
-                "2026-01-16T01:54:09.556089Z",
-                "2026-01-16T07:14:22.006303Z",
-                "2026-01-16T09:04:30.549787Z"
-            ]
-        },
-        {
-            "id": "4409798d9bcf4851f880168d6af894ab",
-            "source": "breaking_defense",
-            "text": "SpaceX to launch next SDA missile tracking satellites",
-            "source_link": "https://breakingdefense.com/2026/01/spacex-to-launch-next-sda-missile-tracking-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-10T03:24:02.527085Z",
-            "shown_at": [
-                "2026-01-10T03:24:03.337367Z",
-                "2026-01-10T22:24:40.894155Z",
-                "2026-01-11T03:39:19.957806Z",
-                "2026-01-11T16:04:46.356922Z",
-                "2026-01-12T17:59:16.965499Z",
-                "2026-01-13T04:44:31.637226Z",
-                "2026-01-13T09:59:10.382448Z",
-                "2026-01-14T02:04:54.073438Z",
-                "2026-01-14T09:59:10.415650Z",
-                "2026-01-15T06:29:07.556464Z",
-                "2026-01-16T03:39:13.048289Z"
-            ]
-        },
-        {
-            "id": "6c8deffd2aa42fe238936779f2f03bae",
-            "source": "nyt",
-            "text": "Google’s Ex-CEO Backs Start-Up Approach to Big Telescopes for Space and Astronomy",
-            "source_link": "https://www.nytimes.com/2026/01/09/science/eric-schmidt-telescopes-google-space.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-10T02:49:17.645929Z",
-            "shown_at": [
-                "2026-01-10T02:49:18.202541Z",
-                "2026-01-10T05:44:04.612079Z",
-                "2026-01-10T11:19:49.825721Z",
-                "2026-01-10T13:04:46.053125Z",
-                "2026-01-10T16:34:59.980924Z",
-                "2026-01-11T00:44:20.978795Z",
-                "2026-01-11T11:19:24.023818Z",
-                "2026-01-12T11:34:26.353269Z",
-                "2026-01-12T19:09:13.069696Z",
-                "2026-01-13T00:34:33.572430Z",
-                "2026-01-14T10:34:56.057459Z",
-                "2026-01-15T19:19:31.181968Z",
-                "2026-01-16T01:19:03.279466Z",
-                "2026-01-16T08:29:21.266725Z",
-                "2026-01-16T13:19:16.612084Z"
-            ]
-        },
-        {
-            "id": "8c8524e4e90258061eb826533bb13f14",
-            "source": "spacenews",
-            "text": "The U.S. will seize space leadership – or China will take it",
-            "source_link": "https://spacenews.com/the-u-s-will-seize-space-leadership-or-china-will-take-it/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-09T13:14:15.873498Z",
-            "shown_at": [
-                "2026-01-10T02:14:08.998453Z",
-                "2026-01-10T17:44:09.943129Z",
-                "2026-01-11T15:29:48.970146Z",
-                "2026-01-15T07:04:30.190338Z"
-            ]
-        },
-        {
-            "id": "9757c9dabc3b8a4e60eef854defc0c33",
-            "source": "spacenews",
-            "text": "Swissto12 to build small optical relay GEO satellite for Space Compass",
-            "source_link": "https://spacenews.com/swissto12-to-build-small-optical-relay-geo-satellite-for-space-compass/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-23T04:44:38.247452Z",
-            "shown_at": [
-                "2026-03-23T04:44:38.816408Z",
-                "2026-03-23T17:14:15.494595Z"
-            ]
-        },
-        {
-            "id": "bad4e6490ad4f82db6e5a4b6ea829030",
-            "source": "spacenews",
-            "text": "Lunar lander developers say they are ready to meet anticipated increased NASA demand",
-            "source_link": "https://spacenews.com/lunar-lander-developers-say-they-are-ready-to-meet-anticipated-increased-nasa-demand/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-23T10:44:23.949872Z",
-            "shown_at": [
-                "2026-03-23T10:44:25.377994Z"
-            ]
-        },
-        {
-            "id": "8bf1c9dc4d66d9590653dfd371450ee2",
-            "source": "spacenews",
-            "text": "The software behind Artemis, Gateway and America’s defense in space deserves its own strategy",
-            "source_link": "https://spacenews.com/the-software-behind-artemis-gateway-and-americas-defense-in-space-deserves-its-own-strategy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-23T13:04:34.311321Z",
-            "shown_at": [
-                "2026-03-23T13:04:35.875320Z"
-            ]
-        },
-        {
-            "id": "c878be24c04ab7958b1b428d011cab21",
-            "source": "spacenews",
-            "text": "York Space rides defense demand as procurement changes cloud outlook",
-            "source_link": "https://spacenews.com/york-space-rides-defense-demand-as-procurement-changes-cloud-outlook/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-23T14:14:17.748278Z",
-            "shown_at": [
-                "2026-03-23T14:14:18.786966Z"
-            ]
-        },
-        {
-            "id": "7f779b7a48acad9563afd12c3b256099",
-            "source": "nyt",
-            "text": "A Meteor Exploded Over Ohio. Then the Hunt for Meteorites Began.",
-            "source_link": "https://www.nytimes.com/2026/03/22/us/meteor-hunters-ohio-cleveland.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-23T14:49:21.004791Z",
-            "shown_at": [
-                "2026-03-23T14:49:22.181817Z",
-                "2026-03-23T18:59:17.896653Z"
-            ]
-        },
-        {
-            "id": "a1d9d7ebbbbeaa953a7c781431b29892",
-            "source": "spacenews",
-            "text": "Arianespace to launch Katalyst servicing spacecraft",
-            "source_link": "https://spacenews.com/arianespace-to-launch-katalyst-servicing-spacecraft/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-23T16:04:39.485858Z",
-            "shown_at": [
-                "2026-03-23T16:04:40.765578Z"
-            ]
-        },
-        {
-            "id": "cb993416cecf5340c644251dd3973617",
-            "source": "spacenews",
-            "text": "Sovereign demand and institutional capital reshape space economy",
-            "source_link": "https://spacenews.com/sovereign-demand-and-institutional-capital-reshape-space-economy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-23T18:24:18.422172Z",
-            "shown_at": [
-                "2026-03-23T18:24:19.595415Z"
-            ]
-        },
-        {
-            "id": "0af2ce535b99f67cd3a4fb25a88c1143",
-            "source": "spacenews",
-            "text": "Amazon Leo targets faster deployment cadence as deadline pressure mounts",
-            "source_link": "https://spacenews.com/amazon-leo-targets-faster-deployment-cadence-as-deadline-pressure-mounts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-23T20:44:27.186455Z",
-            "shown_at": [
-                "2026-03-23T20:44:28.624481Z"
-            ]
-        },
-        {
-            "id": "61a85012854583d72a58ab2966a5ddc9",
-            "source": "spacenews",
-            "text": "Parsons unveils new satellite antenna aimed at military market",
-            "source_link": "https://spacenews.com/parsons-unveils-new-satellite-antenna-aimed-at-military-market/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-23T20:44:27.186524Z",
-            "shown_at": [
-                "2026-03-23T21:19:27.459992Z"
-            ]
-        },
-        {
-            "id": "c4d2c71e77e4ea178f9fac17093d669c",
-            "source": "spacenews",
-            "text": "Space Force adds cyber units to guard rocket launches",
-            "source_link": "https://spacenews.com/space-force-adds-cyber-units-to-guard-rocket-launches/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-23T21:54:33.002405Z",
-            "shown_at": [
-                "2026-03-23T21:54:34.412977Z"
             ]
         }
     ]
