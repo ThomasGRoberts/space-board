@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 17 | 23 | 45 |
-| nyt | 2 | 3 | 17 | 35 |
+| nyt | 3 | 4 | 18 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2766,3 +2766,4 @@
 - **Mar 24, 08:44 PM** - SES orders 28 satellites from K2 Space for next-gen MEO network (spacenews)
 - **Mar 24, 09:19 PM** - NASA Adds Moon Base and Nuclear-Powered Mars Spacecraft to Road Map (nyt)
 - **Mar 24, 09:54 PM** - Parsons unveils new satellite antenna aimed at military market (spacenews)
+- **Mar 24, 10:29 PM** - NASA Sets Out New Plans and Timelines for Moon Base and Nuclear Mars Mission (nyt)
