@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 21 | 24 | 46 |
+| spacenews | 12 | 21 | 25 | 47 |
 | nyt | 3 | 4 | 16 | 34 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2729,3 +2729,4 @@
 - **Mar 25, 02:34 AM** - NASA’s Hubble Telescope Spots Comet K1 Exploding Into Fragments (nyt)
 - **Mar 25, 03:09 AM** - Blue Origin joins the orbital data center race (spacenews)
 - **Mar 25, 03:44 AM** - ‘Spacewoman’ Review: Mission Driven (nyt)
+- **Mar 25, 04:19 AM** - Space Force adds cyber units to guard rocket launches (spacenews)
