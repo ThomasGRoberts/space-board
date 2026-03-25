@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 21 | 25 | 47 |
-| nyt | 3 | 4 | 15 | 33 |
+| spacenews | 12 | 21 | 24 | 47 |
+| nyt | 3 | 4 | 16 | 34 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2724,3 +2724,4 @@
 - **Mar 24, 11:39 PM** - Moog taps Redwire to provide solar arrays for Meteor (spacenews)
 - **Mar 25, 12:14 AM** - From missions to systems: The architecture enabling a sustained lunar economy (spacenews)
 - **Mar 25, 12:49 AM** - OrbitsIQ Global Announces Breakthrough in Space-Based IoT Connectivity (spacenews)
+- **Mar 25, 01:24 AM** - A Meteor Exploded Over Ohio. Then the Hunt for Meteorites Began. (nyt)
