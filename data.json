@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-25T00:04:33.461172+00:00",
-    "trigger_count": 6,
-    "current_item_id": "dadd87e81f7abb8b233de51066c9891b",
+    "trigger_count": 0,
+    "current_item_id": "26c9329a1d16d38a8d43db6eda1159a2",
     "data": [
         {
             "id": "e7101053db95f5fd24cf34486c58a6d8",
@@ -8354,6 +8354,18 @@
             "fetched_datetime": "2026-03-25T21:24:08.531784Z",
             "shown_at": [
                 "2026-03-25T21:24:09.632379Z"
+            ]
+        },
+        {
+            "id": "26c9329a1d16d38a8d43db6eda1159a2",
+            "source": "spacenews",
+            "text": "Space Force weighs launch alternatives as Vulcan faces potential months-long grounding",
+            "source_link": "https://spacenews.com/space-force-weighs-launch-alternatives-as-vulcan-faces-potential-months-long-grounding/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-25T23:09:27.626345Z",
+            "shown_at": [
+                "2026-03-25T23:09:28.857405Z"
             ]
         }
     ]
