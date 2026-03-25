@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 20 | 25 | 46 |
-| nyt | 3 | 4 | 15 | 34 |
+| nyt | 3 | 4 | 16 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2730,3 +2730,4 @@
 - **Mar 25, 03:09 AM** - Blue Origin joins the orbital data center race (spacenews)
 - **Mar 25, 03:44 AM** - ‘Spacewoman’ Review: Mission Driven (nyt)
 - **Mar 25, 04:19 AM** - Space Force adds cyber units to guard rocket launches (spacenews)
+- **Mar 25, 04:54 AM** - NASA Adds Moon Base and Nuclear-Powered Mars Spacecraft to Road Map (nyt)
