@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 22 | 26 | 49 |
-| nyt | 0 | 3 | 15 | 32 |
+| spacenews | 10 | 22 | 25 | 49 |
+| nyt | 0 | 3 | 16 | 32 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2762,3 +2762,4 @@
 - **Mar 25, 09:59 PM** - A Meteor Exploded Over Ohio. Then the Hunt for Meteorites Began. (nyt)
 - **Mar 25, 10:34 PM** - SES orders 28 satellites from K2 Space for next-gen MEO network (spacenews)
 - **Mar 25, 11:09 PM** - Space Force weighs launch alternatives as Vulcan faces potential months-long grounding (spacenews)
+- **Mar 25, 11:44 PM** - NASA Sets Out New Plans and Timelines for Moon Base and Nuclear Mars Mission (nyt)
