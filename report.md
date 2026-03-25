@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 19 | 24 | 46 |
-| nyt | 3 | 4 | 16 | 35 |
+| spacenews | 11 | 19 | 24 | 47 |
+| nyt | 3 | 4 | 16 | 34 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2741,3 +2741,4 @@
 - **Mar 25, 09:39 AM** - NASA Adds Moon Base and Nuclear-Powered Mars Spacecraft to Road Map (nyt)
 - **Mar 25, 10:14 AM** - Rocket Lab wins $190 million Pentagon deal for hypersonic test flights (spacenews)
 - **Mar 25, 10:49 AM** - A Meteor Exploded Over Ohio. Then the Hunt for Meteorites Began. (nyt)
+- **Mar 25, 11:24 AM** - Sovereign demand and institutional capital reshape space economy (spacenews)
