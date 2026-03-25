@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-25T00:04:33.461172+00:00",
-    "trigger_count": 6,
-    "current_item_id": "915a1507243758ad11aef181abb40971",
+    "trigger_count": 0,
+    "current_item_id": "76d2621683dc526bfce0c958b92d48bf",
     "data": [
         {
             "id": "e7101053db95f5fd24cf34486c58a6d8",
@@ -8292,9 +8292,12 @@
             "source": "spacenews",
             "text": "Airbase raises $5 million to tackle spectrum bottleneck as FCC eyes new space uses",
             "source_link": "https://spacenews.com/airbase-raises-5-million-to-tackle-spectrum-bottleneck-as-fcc-eyes-new-space-uses/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-03-25T14:19:21.194307Z"
+            "fetched_datetime": "2026-03-25T14:19:21.194307Z",
+            "shown_at": [
+                "2026-03-25T14:54:31.182923Z"
+            ]
         }
     ]
 }
