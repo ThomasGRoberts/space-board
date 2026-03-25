@@ -1,9 +1,184 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-03-24T00:04:15.140228+00:00",
-    "trigger_count": 4,
+    "last_run_datetime": "2026-03-25T00:04:33.461172+00:00",
+    "trigger_count": 5,
     "current_item_id": "2c8e6505e3cc639cd43bba81ae577b69",
     "data": [
+        {
+            "id": "e7101053db95f5fd24cf34486c58a6d8",
+            "source": "spacenews",
+            "text": "From missions to systems: The architecture enabling a sustained lunar economy",
+            "source_link": "https://spacenews.com/from-missions-to-systems-the-architecture-enabling-a-sustained-lunar-economy/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-03-24T23:04:46.144368Z"
+        },
+        {
+            "id": "0b496a53fd59691d84df1d8aa7951860",
+            "source": "spacenews",
+            "text": "OrbitsIQ Global Announces Breakthrough in Space-Based IoT Connectivity",
+            "source_link": "https://spacenews.com/orbitsiq-global-announces-breakthrough-in-space-based-iot-connectivity/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-03-24T23:04:46.144336Z"
+        },
+        {
+            "id": "2c8e6505e3cc639cd43bba81ae577b69",
+            "source": "spacenews",
+            "text": "Moog taps Redwire to provide solar arrays for Meteor",
+            "source_link": "https://spacenews.com/moog-taps-redwire-to-provide-solar-arrays-for-meteor/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-24T23:04:46.144297Z",
+            "shown_at": [
+                "2026-03-24T23:39:10.548694Z"
+            ]
+        },
+        {
+            "id": "ae630355f9762a4b3ff53b3b97582732",
+            "source": "spacenews",
+            "text": "Geopolitical shifts bring opportunities and headaches for satellite execs",
+            "source_link": "https://spacenews.com/geopolitical-shifts-bring-opportunities-and-headaches-for-satellite-execs/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-24T23:04:46.144214Z",
+            "shown_at": [
+                "2026-03-24T23:04:47.419464Z"
+            ]
+        },
+        {
+            "id": "c4106ef273f5ae1c0096fbd2a4fe0dab",
+            "source": "nyt",
+            "text": "NASA Sets Out New Plans and Timelines for Moon Base and Nuclear Mars Mission",
+            "source_link": "https://www.nytimes.com/2026/03/24/science/nasa-moon-base-mars-spacecraft.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-24T22:29:11.963952Z",
+            "shown_at": [
+                "2026-03-24T22:29:12.971707Z"
+            ]
+        },
+        {
+            "id": "dadd87e81f7abb8b233de51066c9891b",
+            "source": "spacenews",
+            "text": "SES orders 28 satellites from K2 Space for next-gen MEO network",
+            "source_link": "https://spacenews.com/ses-targets-28-satellites-with-k2-space-for-next-gen-meo-network/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-24T18:04:34.967970Z",
+            "shown_at": [
+                "2026-03-24T20:44:49.469161Z"
+            ]
+        },
+        {
+            "id": "d115814b98b7b1d8e44f99b79b6fd48f",
+            "source": "spacenews",
+            "text": "Space Force officer shares intelligence on threats to space systems",
+            "source_link": "https://spacenews.com/space-force-officer-shares-intelligence-on-threats-to-space-systems/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-24T18:04:34.967791Z",
+            "shown_at": [
+                "2026-03-24T19:49:09.769364Z"
+            ]
+        },
+        {
+            "id": "fa89838d6e2f291f0f20140ced7e3ab4",
+            "source": "spacenews",
+            "text": "NASA halts work on Gateway to develop a lunar base",
+            "source_link": "https://spacenews.com/nasa-halts-work-on-gateway-to-develop-a-lunar-base/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-24T18:04:34.967752Z",
+            "shown_at": [
+                "2026-03-24T19:14:16.998965Z"
+            ]
+        },
+        {
+            "id": "50c7dc994207c7767c6bd0d4f85b7fce",
+            "source": "spacenews",
+            "text": "Space Development Agency slows satellite launches to focus on on-orbit performance",
+            "source_link": "https://spacenews.com/space-development-agency-slows-satellite-launches-to-focus-on-on-orbit-performance/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-24T18:04:34.967708Z",
+            "shown_at": [
+                "2026-03-24T18:39:25.077665Z"
+            ]
+        },
+        {
+            "id": "d06a719ee2fd3aa25e3c3b5c14d8cf18",
+            "source": "spacenews",
+            "text": "China’s Astronstone raises $29 million for reusable rocket with chopstick-style recovery",
+            "source_link": "https://spacenews.com/chinas-astronstone-raises-29-million-for-reusable-rocket-with-chopstick-style-recovery/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-24T18:04:34.967650Z",
+            "shown_at": [
+                "2026-03-24T18:04:36.111420Z"
+            ]
+        },
+        {
+            "id": "b138e4a393440e15b186e175a93b7892",
+            "source": "nyt",
+            "text": "How Do You Measure Snow From Space? First, Climb a Mountain.",
+            "source_link": "https://www.nytimes.com/2026/03/24/climate/snow-satellite-rockies-research.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-24T15:04:31.508235Z",
+            "shown_at": [
+                "2026-03-24T15:39:28.574669Z"
+            ]
+        },
+        {
+            "id": "ae58fab2add017d01562ff355536ce62",
+            "source": "nyt",
+            "text": "NASA Adds Moon Base and Nuclear-Powered Mars Spacecraft to Road Map",
+            "source_link": "https://www.nytimes.com/2026/03/24/science/nasa-moon-base-mars-spacecraft.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-24T15:04:31.508166Z",
+            "shown_at": [
+                "2026-03-24T15:04:32.686250Z",
+                "2026-03-24T21:19:12.283846Z"
+            ]
+        },
+        {
+            "id": "b015b39471cf6fb4d247311fe97ede47",
+            "source": "spacenews",
+            "text": "SpaceEye-T: 25 cm Satellite Imagery and Tasking Now Available Through Pacific Geomatics Limited",
+            "source_link": "https://spacenews.com/spaceeye-t-25-cm-satellite-imagery-and-tasking-now-available-through-pacific-geomatics-limited/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-24T14:29:33.887257Z",
+            "shown_at": [
+                "2026-03-24T14:29:35.146087Z"
+            ]
+        },
+        {
+            "id": "63c9f43276c09f60ee8603d84c998c1f",
+            "source": "spacenews",
+            "text": "SES targets 28 satellites with K2 Space for next-gen MEO network",
+            "source_link": "https://spacenews.com/ses-targets-28-satellites-with-k2-space-for-next-gen-meo-network/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-24T13:15:26.070570Z",
+            "shown_at": [
+                "2026-03-24T13:15:27.235807Z"
+            ]
+        },
+        {
+            "id": "0e4fc5d1ea8ffd9fcb2ae3eddda5c74c",
+            "source": "spacenews",
+            "text": "Fusion engine for missile warning lacks a government dataset",
+            "source_link": "https://spacenews.com/fusion-engine-for-missile-warning-lacks-a-government-dataset/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-24T11:24:11.966115Z",
+            "shown_at": [
+                "2026-03-24T11:24:12.850025Z"
+            ]
+        },
         {
             "id": "c4d2c71e77e4ea178f9fac17093d669c",
             "source": "spacenews",
@@ -8038,393 +8213,6 @@
                 "2026-01-20T11:05:40.322973Z",
                 "2026-01-20T13:34:22.256515Z"
             ]
-        },
-        {
-            "id": "44da74061043079e975621bbc2a9a358",
-            "source": "spacenews",
-            "text": "2026 will be the year of space nuclear power and surviving the lunar night",
-            "source_link": "https://spacenews.com/2026-will-be-the-year-of-space-nuclear-power-and-surviving-the-lunar-night/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-13T12:24:10.679134Z",
-            "shown_at": [
-                "2026-01-13T12:59:17.993444Z",
-                "2026-01-18T21:09:14.252505Z"
-            ]
-        },
-        {
-            "id": "957e9f8193b68fe97b67cdaf63afedf7",
-            "source": "spacenews",
-            "text": "Orbion delivers 33 electric thrusters to York Space for U.S. military constellation",
-            "source_link": "https://spacenews.com/orbion-delivers-33-electric-thrusters-to-york-space-for-u-s-military-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-13T12:24:10.679081Z",
-            "shown_at": [
-                "2026-01-13T12:24:11.380581Z",
-                "2026-01-17T00:44:04.256186Z",
-                "2026-01-17T04:19:18.332652Z",
-                "2026-01-17T14:34:29.152658Z"
-            ]
-        },
-        {
-            "id": "72ee9a26d2c53229a243265c674b983e",
-            "source": "spacenews",
-            "text": "Aerospacelab to build eight satellites for Xona’s navigation constellation",
-            "source_link": "https://spacenews.com/aerospacelab-to-build-eight-satellites-for-xonas-navigation-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-13T11:14:17.796641Z",
-            "shown_at": [
-                "2026-01-13T11:49:18.009970Z",
-                "2026-01-17T22:49:06.856566Z"
-            ]
-        },
-        {
-            "id": "f6cc5865f6caf5b284bc0551d7ffee54",
-            "source": "spacenews",
-            "text": "Eutelsat orders 340 additional satellites to replenish OneWeb constellation",
-            "source_link": "https://spacenews.com/eutelsat-orders-340-additional-satellites-to-replenish-oneweb-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-13T11:14:17.796586Z",
-            "shown_at": [
-                "2026-01-13T11:14:18.535165Z"
-            ]
-        },
-        {
-            "id": "7ffecd077580fd3cb02c3a5d664a9dca",
-            "source": "spacenews",
-            "text": "Portugal signs the Artemis Accords",
-            "source_link": "https://spacenews.com/portugal-signs-the-artemis-accords/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-12T23:58:57.575147Z",
-            "shown_at": [
-                "2026-01-12T23:58:58.424332Z",
-                "2026-01-13T19:59:11.491223Z",
-                "2026-01-18T14:44:06.539889Z"
-            ]
-        },
-        {
-            "id": "1acdb0e236ffe46c63ffe4942562c05d",
-            "source": "breaking_defense",
-            "text": "Sweden allocates $1.6B to build territorial air defense capability, $140M for space",
-            "source_link": "https://breakingdefense.com/2026/01/sweden-allocates-1-6b-to-build-territorial-air-defense-capability-140m-for-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-12T19:50:26.138894Z",
-            "shown_at": [
-                "2026-01-12T19:50:27.034755Z",
-                "2026-01-15T01:14:14.498987Z",
-                "2026-01-15T02:59:17.126929Z",
-                "2026-01-16T12:09:18.654818Z",
-                "2026-01-16T17:29:00.525308Z",
-                "2026-01-16T22:19:14.180270Z",
-                "2026-01-17T13:24:14.124579Z",
-                "2026-01-18T07:05:15.068362Z",
-                "2026-01-18T18:14:44.465301Z",
-                "2026-01-19T01:14:02.201232Z",
-                "2026-01-19T04:44:23.321394Z",
-                "2026-01-19T08:14:22.914548Z",
-                "2026-01-19T17:14:45.026181Z",
-                "2026-01-19T18:59:02.054558Z"
-            ]
-        },
-        {
-            "id": "b31ece842fb4b388555f6b2e18d9ec13",
-            "source": "spacenews",
-            "text": "Tyvak International’s LIDE satellite completes initial on-orbit 5G tests",
-            "source_link": "https://spacenews.com/tyvak-internationals-lide-satellite-completes-initial-on-orbit-5g-tests/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-12T16:49:11.254694Z",
-            "shown_at": [
-                "2026-01-12T16:49:11.821485Z",
-                "2026-01-15T18:44:17.738569Z",
-                "2026-01-16T02:29:06.761735Z",
-                "2026-01-18T12:59:43.521548Z"
-            ]
-        },
-        {
-            "id": "42059eb42f6d179278f05413e1de3aef",
-            "source": "spacenews",
-            "text": "AI needs spatial intelligence. The GEOINT industry will deliver it.",
-            "source_link": "https://spacenews.com/ai-needs-spatial-intelligence-the-geoint-industry-will-deliver-it/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-12T15:39:47.939343Z",
-            "shown_at": [
-                "2026-01-12T16:14:23.365311Z",
-                "2026-01-13T01:44:13.343688Z"
-            ]
-        },
-        {
-            "id": "9423923e73c359cef3b2cdcb13cf790c",
-            "source": "spacenews",
-            "text": "NRO taps Capitol Hill staffer Bill Adkins as principal deputy director",
-            "source_link": "https://spacenews.com/nro-taps-capitol-hill-staffer-bill-adkins-as-principal-deputy-director/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-12T15:39:47.939294Z",
-            "shown_at": [
-                "2026-01-12T15:39:48.845655Z",
-                "2026-01-18T09:29:56.256659Z"
-            ]
-        },
-        {
-            "id": "7bdc9cb79ee8cb1baa28afdf19d15aa5",
-            "source": "spacenews",
-            "text": "NASA outlines path to Artemis 2 launch",
-            "source_link": "https://spacenews.com/nasa-outlines-path-to-artemis-2-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-12T14:29:07.366251Z",
-            "shown_at": [
-                "2026-01-12T15:04:31.669179Z"
-            ]
-        },
-        {
-            "id": "b453886d2ae01975691e736af19c0bfd",
-            "source": "spacenews",
-            "text": "Space is becoming an industrial economy",
-            "source_link": "https://spacenews.com/space-is-becoming-an-industrial-economy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-12T14:29:07.366174Z",
-            "shown_at": [
-                "2026-01-12T14:29:08.103628Z",
-                "2026-01-12T20:28:59.915034Z"
-            ]
-        },
-        {
-            "id": "8eb0d6f22f47d01d3b2d583fdb0cdc61",
-            "source": "spacenews",
-            "text": "This year must bring greater collaboration against orbital congestion",
-            "source_link": "https://spacenews.com/this-year-must-bring-greater-collaboration-against-orbital-congestion/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-12T12:51:06.421918Z",
-            "shown_at": [
-                "2026-01-12T13:51:15.913708Z",
-                "2026-01-13T23:44:25.859478Z",
-                "2026-01-15T00:04:38.700599Z",
-                "2026-01-15T22:59:52.083161Z"
-            ]
-        },
-        {
-            "id": "d296930546e76fa0b47d534bca945402",
-            "source": "spacenews",
-            "text": "Applied lessons for NASA’s science programs",
-            "source_link": "https://spacenews.com/applied-lessons-for-nasas-science-programs/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-12T12:51:06.421847Z",
-            "shown_at": [
-                "2026-01-12T12:51:07.083387Z",
-                "2026-01-19T02:24:22.156487Z",
-                "2026-01-19T07:39:07.489121Z"
-            ]
-        },
-        {
-            "id": "6529e55a04b9e2a647b7ca73f51fec3e",
-            "source": "spacenews",
-            "text": "India’s PSLV launch fails during ascent, 16 satellites lost",
-            "source_link": "https://spacenews.com/indias-pslv-launch-fails-during-ascent-16-satellites-lost/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-12T10:59:11.939777Z",
-            "shown_at": [
-                "2026-01-12T10:59:12.847356Z",
-                "2026-01-18T16:29:08.056905Z"
-            ]
-        },
-        {
-            "id": "a045db3f2f8e516d54a4579ed155b459",
-            "source": "spacenews",
-            "text": "China files ITU paperwork for megaconstellations totaling nearly 200,000 satellites",
-            "source_link": "https://spacenews.com/china-files-itu-paperwork-for-megaconstellations-totaling-nearly-200000-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-12T09:44:29.884008Z",
-            "shown_at": [
-                "2026-01-12T09:44:30.762712Z"
-            ]
-        },
-        {
-            "id": "0e4fc5d1ea8ffd9fcb2ae3eddda5c74c",
-            "source": "spacenews",
-            "text": "Fusion engine for missile warning lacks a government dataset",
-            "source_link": "https://spacenews.com/fusion-engine-for-missile-warning-lacks-a-government-dataset/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-24T11:24:11.966115Z",
-            "shown_at": [
-                "2026-03-24T11:24:12.850025Z"
-            ]
-        },
-        {
-            "id": "63c9f43276c09f60ee8603d84c998c1f",
-            "source": "spacenews",
-            "text": "SES targets 28 satellites with K2 Space for next-gen MEO network",
-            "source_link": "https://spacenews.com/ses-targets-28-satellites-with-k2-space-for-next-gen-meo-network/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-24T13:15:26.070570Z",
-            "shown_at": [
-                "2026-03-24T13:15:27.235807Z"
-            ]
-        },
-        {
-            "id": "b015b39471cf6fb4d247311fe97ede47",
-            "source": "spacenews",
-            "text": "SpaceEye-T: 25 cm Satellite Imagery and Tasking Now Available Through Pacific Geomatics Limited",
-            "source_link": "https://spacenews.com/spaceeye-t-25-cm-satellite-imagery-and-tasking-now-available-through-pacific-geomatics-limited/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-24T14:29:33.887257Z",
-            "shown_at": [
-                "2026-03-24T14:29:35.146087Z"
-            ]
-        },
-        {
-            "id": "ae58fab2add017d01562ff355536ce62",
-            "source": "nyt",
-            "text": "NASA Adds Moon Base and Nuclear-Powered Mars Spacecraft to Road Map",
-            "source_link": "https://www.nytimes.com/2026/03/24/science/nasa-moon-base-mars-spacecraft.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-24T15:04:31.508166Z",
-            "shown_at": [
-                "2026-03-24T15:04:32.686250Z",
-                "2026-03-24T21:19:12.283846Z"
-            ]
-        },
-        {
-            "id": "b138e4a393440e15b186e175a93b7892",
-            "source": "nyt",
-            "text": "How Do You Measure Snow From Space? First, Climb a Mountain.",
-            "source_link": "https://www.nytimes.com/2026/03/24/climate/snow-satellite-rockies-research.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-24T15:04:31.508235Z",
-            "shown_at": [
-                "2026-03-24T15:39:28.574669Z"
-            ]
-        },
-        {
-            "id": "d06a719ee2fd3aa25e3c3b5c14d8cf18",
-            "source": "spacenews",
-            "text": "China’s Astronstone raises $29 million for reusable rocket with chopstick-style recovery",
-            "source_link": "https://spacenews.com/chinas-astronstone-raises-29-million-for-reusable-rocket-with-chopstick-style-recovery/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-24T18:04:34.967650Z",
-            "shown_at": [
-                "2026-03-24T18:04:36.111420Z"
-            ]
-        },
-        {
-            "id": "50c7dc994207c7767c6bd0d4f85b7fce",
-            "source": "spacenews",
-            "text": "Space Development Agency slows satellite launches to focus on on-orbit performance",
-            "source_link": "https://spacenews.com/space-development-agency-slows-satellite-launches-to-focus-on-on-orbit-performance/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-24T18:04:34.967708Z",
-            "shown_at": [
-                "2026-03-24T18:39:25.077665Z"
-            ]
-        },
-        {
-            "id": "fa89838d6e2f291f0f20140ced7e3ab4",
-            "source": "spacenews",
-            "text": "NASA halts work on Gateway to develop a lunar base",
-            "source_link": "https://spacenews.com/nasa-halts-work-on-gateway-to-develop-a-lunar-base/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-24T18:04:34.967752Z",
-            "shown_at": [
-                "2026-03-24T19:14:16.998965Z"
-            ]
-        },
-        {
-            "id": "d115814b98b7b1d8e44f99b79b6fd48f",
-            "source": "spacenews",
-            "text": "Space Force officer shares intelligence on threats to space systems",
-            "source_link": "https://spacenews.com/space-force-officer-shares-intelligence-on-threats-to-space-systems/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-24T18:04:34.967791Z",
-            "shown_at": [
-                "2026-03-24T19:49:09.769364Z"
-            ]
-        },
-        {
-            "id": "dadd87e81f7abb8b233de51066c9891b",
-            "source": "spacenews",
-            "text": "SES orders 28 satellites from K2 Space for next-gen MEO network",
-            "source_link": "https://spacenews.com/ses-targets-28-satellites-with-k2-space-for-next-gen-meo-network/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-24T18:04:34.967970Z",
-            "shown_at": [
-                "2026-03-24T20:44:49.469161Z"
-            ]
-        },
-        {
-            "id": "c4106ef273f5ae1c0096fbd2a4fe0dab",
-            "source": "nyt",
-            "text": "NASA Sets Out New Plans and Timelines for Moon Base and Nuclear Mars Mission",
-            "source_link": "https://www.nytimes.com/2026/03/24/science/nasa-moon-base-mars-spacecraft.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-24T22:29:11.963952Z",
-            "shown_at": [
-                "2026-03-24T22:29:12.971707Z"
-            ]
-        },
-        {
-            "id": "ae630355f9762a4b3ff53b3b97582732",
-            "source": "spacenews",
-            "text": "Geopolitical shifts bring opportunities and headaches for satellite execs",
-            "source_link": "https://spacenews.com/geopolitical-shifts-bring-opportunities-and-headaches-for-satellite-execs/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-24T23:04:46.144214Z",
-            "shown_at": [
-                "2026-03-24T23:04:47.419464Z"
-            ]
-        },
-        {
-            "id": "2c8e6505e3cc639cd43bba81ae577b69",
-            "source": "spacenews",
-            "text": "Moog taps Redwire to provide solar arrays for Meteor",
-            "source_link": "https://spacenews.com/moog-taps-redwire-to-provide-solar-arrays-for-meteor/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-24T23:04:46.144297Z",
-            "shown_at": [
-                "2026-03-24T23:39:10.548694Z"
-            ]
-        },
-        {
-            "id": "0b496a53fd59691d84df1d8aa7951860",
-            "source": "spacenews",
-            "text": "OrbitsIQ Global Announces Breakthrough in Space-Based IoT Connectivity",
-            "source_link": "https://spacenews.com/orbitsiq-global-announces-breakthrough-in-space-based-iot-connectivity/",
-            "shown": false,
-            "type": "news",
-            "fetched_datetime": "2026-03-24T23:04:46.144336Z"
-        },
-        {
-            "id": "e7101053db95f5fd24cf34486c58a6d8",
-            "source": "spacenews",
-            "text": "From missions to systems: The architecture enabling a sustained lunar economy",
-            "source_link": "https://spacenews.com/from-missions-to-systems-the-architecture-enabling-a-sustained-lunar-economy/",
-            "shown": false,
-            "type": "news",
-            "fetched_datetime": "2026-03-24T23:04:46.144368Z"
         }
     ]
 }
