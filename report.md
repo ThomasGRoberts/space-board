@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 22 | 26 | 49 |
-| nyt | 1 | 3 | 14 | 32 |
+| spacenews | 12 | 23 | 27 | 50 |
+| nyt | 1 | 3 | 14 | 31 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2754,3 +2754,4 @@
 - **Mar 25, 05:20 PM** - Some European Launcher Challenge funding remains in limbo (spacenews)
 - **Mar 25, 05:54 PM** - ‘Spacewoman’ Review: Mission Driven (nyt)
 - **Mar 25, 06:29 PM** - Rocket Lab wins $190 million Pentagon deal for hypersonic test flights (spacenews)
+- **Mar 25, 07:04 PM** - Terran Orbital Introduces New Star Tracker Product Line at SATSHOW 2026 (spacenews)

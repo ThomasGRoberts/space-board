@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-25T00:04:33.461172+00:00",
-    "trigger_count": 6,
-    "current_item_id": "752dcb52533cebc74990b86b161e2412",
+    "trigger_count": 0,
+    "current_item_id": "244d3214d062fa6f39d37e34a3f23887",
     "data": [
         {
             "id": "e7101053db95f5fd24cf34486c58a6d8",
@@ -8325,6 +8325,18 @@
             "fetched_datetime": "2026-03-25T15:34:25.422357Z",
             "shown_at": [
                 "2026-03-25T16:09:52.001824Z"
+            ]
+        },
+        {
+            "id": "244d3214d062fa6f39d37e34a3f23887",
+            "source": "spacenews",
+            "text": "Terran Orbital Introduces New Star Tracker Product Line at SATSHOW 2026",
+            "source_link": "https://spacenews.com/terran-orbital-introduces-new-star-tracker-product-line-at-satshow-2026/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-25T19:04:46.630953Z",
+            "shown_at": [
+                "2026-03-25T19:04:47.934619Z"
             ]
         }
     ]
