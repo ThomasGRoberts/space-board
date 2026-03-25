@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 16 | 23 | 27 | 49 |
-| nyt | 1 | 3 | 13 | 31 |
+| nyt | 1 | 3 | 14 | 32 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2750,3 +2750,4 @@
 - **Mar 25, 02:54 PM** - Airbase raises $5 million to tackle spectrum bottleneck as FCC eyes new space uses (spacenews)
 - **Mar 25, 03:34 PM** - Telesat eyes defense role with laser comms test ahead of LEO debut (spacenews)
 - **Mar 25, 04:09 PM** - Sift raises $42 million in Series B round (spacenews)
+- **Mar 25, 04:44 PM** - NASA Sets Out New Plans and Timelines for Moon Base and Nuclear Mars Mission (nyt)
