@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 23 | 26 | 49 |
+| spacenews | 11 | 22 | 27 | 49 |
 | nyt | 1 | 3 | 14 | 32 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2753,3 +2753,4 @@
 - **Mar 25, 04:44 PM** - NASA Sets Out New Plans and Timelines for Moon Base and Nuclear Mars Mission (nyt)
 - **Mar 25, 05:20 PM** - Some European Launcher Challenge funding remains in limbo (spacenews)
 - **Mar 25, 05:54 PM** - ‘Spacewoman’ Review: Mission Driven (nyt)
+- **Mar 25, 06:29 PM** - Rocket Lab wins $190 million Pentagon deal for hypersonic test flights (spacenews)
