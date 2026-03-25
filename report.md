@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 23 | 25 | 49 |
-| nyt | 1 | 3 | 15 | 32 |
+| spacenews | 12 | 23 | 26 | 50 |
+| nyt | 1 | 3 | 15 | 31 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2756,3 +2756,4 @@
 - **Mar 25, 06:29 PM** - Rocket Lab wins $190 million Pentagon deal for hypersonic test flights (spacenews)
 - **Mar 25, 07:04 PM** - Terran Orbital Introduces New Star Tracker Product Line at SATSHOW 2026 (spacenews)
 - **Mar 25, 07:39 PM** - NASA Adds Moon Base and Nuclear-Powered Mars Spacecraft to Road Map (nyt)
+- **Mar 25, 08:14 PM** - Space Development Agency slows satellite launches to focus on on-orbit performance (spacenews)
