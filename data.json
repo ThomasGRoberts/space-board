@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-25T00:04:33.461172+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7f779b7a48acad9563afd12c3b256099",
+    "trigger_count": 0,
+    "current_item_id": "915a1507243758ad11aef181abb40971",
     "data": [
         {
             "id": "e7101053db95f5fd24cf34486c58a6d8",
@@ -8274,6 +8274,27 @@
             "shown_at": [
                 "2026-03-25T13:09:33.265298Z"
             ]
+        },
+        {
+            "id": "915a1507243758ad11aef181abb40971",
+            "source": "spacenews",
+            "text": "Infinity Avionics Unveils Aquila: The Next-Generation Space Imaging Solution for Complex Orbital Operations",
+            "source_link": "https://spacenews.com/infinity-avionics-unveils-aquila-the-next-generation-space-imaging-solution-for-complex-orbital-operations/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-25T14:19:21.194238Z",
+            "shown_at": [
+                "2026-03-25T14:19:22.617900Z"
+            ]
+        },
+        {
+            "id": "76d2621683dc526bfce0c958b92d48bf",
+            "source": "spacenews",
+            "text": "Airbase raises $5 million to tackle spectrum bottleneck as FCC eyes new space uses",
+            "source_link": "https://spacenews.com/airbase-raises-5-million-to-tackle-spectrum-bottleneck-as-fcc-eyes-new-space-uses/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-03-25T14:19:21.194307Z"
         }
     ]
 }
