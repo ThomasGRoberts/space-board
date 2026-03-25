@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 20 | 25 | 46 |
-| nyt | 3 | 4 | 15 | 34 |
+| nyt | 3 | 4 | 16 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2732,3 +2732,4 @@
 - **Mar 25, 04:19 AM** - Space Force adds cyber units to guard rocket launches (spacenews)
 - **Mar 25, 04:54 AM** - NASA Adds Moon Base and Nuclear-Powered Mars Spacecraft to Road Map (nyt)
 - **Mar 25, 05:29 AM** - The software behind Artemis, Gateway and America’s defense in space deserves its own strategy (spacenews)
+- **Mar 25, 06:04 AM** - ‘Spacewoman’ Review: Mission Driven (nyt)
