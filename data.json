@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-25T00:04:33.461172+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e7101053db95f5fd24cf34486c58a6d8",
+    "trigger_count": 0,
+    "current_item_id": "0b496a53fd59691d84df1d8aa7951860",
     "data": [
         {
             "id": "e7101053db95f5fd24cf34486c58a6d8",
@@ -21,9 +21,12 @@
             "source": "spacenews",
             "text": "OrbitsIQ Global Announces Breakthrough in Space-Based IoT Connectivity",
             "source_link": "https://spacenews.com/orbitsiq-global-announces-breakthrough-in-space-based-iot-connectivity/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-03-24T23:04:46.144336Z"
+            "fetched_datetime": "2026-03-24T23:04:46.144336Z",
+            "shown_at": [
+                "2026-03-25T00:49:02.825542Z"
+            ]
         },
         {
             "id": "2c8e6505e3cc639cd43bba81ae577b69",
