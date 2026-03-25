@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 20 | 24 | 46 |
+| spacenews | 12 | 20 | 25 | 47 |
 | nyt | 3 | 4 | 16 | 34 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2735,3 +2735,4 @@
 - **Mar 25, 06:04 AM** - ‘Spacewoman’ Review: Mission Driven (nyt)
 - **Mar 25, 06:39 AM** - China’s Astronstone raises $29 million for reusable rocket with chopstick-style recovery (spacenews)
 - **Mar 25, 07:14 AM** - NASA Sets Out New Plans and Timelines for Moon Base and Nuclear Mars Mission (nyt)
+- **Mar 25, 07:49 AM** - Parsons unveils new satellite antenna aimed at military market (spacenews)
