@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 19 | 24 | 47 |
-| nyt | 3 | 4 | 16 | 34 |
+| spacenews | 13 | 21 | 25 | 47 |
+| nyt | 3 | 4 | 15 | 34 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2742,3 +2742,4 @@
 - **Mar 25, 10:14 AM** - Rocket Lab wins $190 million Pentagon deal for hypersonic test flights (spacenews)
 - **Mar 25, 10:49 AM** - A Meteor Exploded Over Ohio. Then the Hunt for Meteorites Began. (nyt)
 - **Mar 25, 11:24 AM** - Sovereign demand and institutional capital reshape space economy (spacenews)
+- **Mar 25, 11:59 AM** - Pave Space raises $40 million to develop European heavy kickstage (spacenews)

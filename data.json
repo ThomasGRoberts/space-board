@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-25T00:04:33.461172+00:00",
-    "trigger_count": 6,
-    "current_item_id": "cb993416cecf5340c644251dd3973617",
+    "trigger_count": 0,
+    "current_item_id": "0cdae174ad027c955af6e7b1fae206db",
     "data": [
         {
             "id": "e7101053db95f5fd24cf34486c58a6d8",
@@ -8237,6 +8237,27 @@
                 "2026-01-20T11:05:40.322973Z",
                 "2026-01-20T13:34:22.256515Z"
             ]
+        },
+        {
+            "id": "0cdae174ad027c955af6e7b1fae206db",
+            "source": "spacenews",
+            "text": "Pave Space raises $40 million to develop European heavy kickstage",
+            "source_link": "https://spacenews.com/pave-space-raises-40-million-to-develop-european-heavy-kickstage/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-25T11:59:17.334046Z",
+            "shown_at": [
+                "2026-03-25T11:59:19.154135Z"
+            ]
+        },
+        {
+            "id": "c1e2f9aa8a1ab615ffb74347cf5424ee",
+            "source": "spacenews",
+            "text": "NASA proposes new strategy for commercial space stations",
+            "source_link": "https://spacenews.com/nasa-proposes-new-strategy-for-commercial-space-stations/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-03-25T11:59:17.334105Z"
         }
     ]
 }
