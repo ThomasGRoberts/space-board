@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 14 | 22 | 26 | 49 |
+| spacenews | 16 | 24 | 27 | 49 |
 | nyt | 1 | 3 | 14 | 32 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2748,3 +2748,4 @@
 - **Mar 25, 01:44 PM** - A Meteor Exploded Over Ohio. Then the Hunt for Meteorites Began. (nyt)
 - **Mar 25, 02:19 PM** - Infinity Avionics Unveils Aquila: The Next-Generation Space Imaging Solution for Complex Orbital Operations (spacenews)
 - **Mar 25, 02:54 PM** - Airbase raises $5 million to tackle spectrum bottleneck as FCC eyes new space uses (spacenews)
+- **Mar 25, 03:34 PM** - Telesat eyes defense role with laser comms test ahead of LEO debut (spacenews)

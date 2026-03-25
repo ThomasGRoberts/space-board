@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-25T00:04:33.461172+00:00",
-    "trigger_count": 6,
-    "current_item_id": "76d2621683dc526bfce0c958b92d48bf",
+    "trigger_count": 0,
+    "current_item_id": "cbce7a5485a7e4ccfba772fdf2aa2212",
     "data": [
         {
             "id": "e7101053db95f5fd24cf34486c58a6d8",
@@ -8298,6 +8298,27 @@
             "shown_at": [
                 "2026-03-25T14:54:31.182923Z"
             ]
+        },
+        {
+            "id": "cbce7a5485a7e4ccfba772fdf2aa2212",
+            "source": "spacenews",
+            "text": "Telesat eyes defense role with laser comms test ahead of LEO debut",
+            "source_link": "https://spacenews.com/telesat-eyes-defense-role-with-laser-comms-test-ahead-of-leo-debut/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-25T15:34:25.422281Z",
+            "shown_at": [
+                "2026-03-25T15:34:26.457562Z"
+            ]
+        },
+        {
+            "id": "28cd436f8becdd163554aeec40ae12c7",
+            "source": "spacenews",
+            "text": "Sift raises $42 million in Series B round",
+            "source_link": "https://spacenews.com/sift-raises-42-million-in-series-b-round/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-03-25T15:34:25.422357Z"
         }
     ]
 }
