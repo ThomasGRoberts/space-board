@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 20 | 25 | 46 |
-| nyt | 3 | 4 | 15 | 34 |
+| nyt | 3 | 4 | 16 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2738,3 +2738,4 @@
 - **Mar 25, 07:49 AM** - Parsons unveils new satellite antenna aimed at military market (spacenews)
 - **Mar 25, 08:29 AM** - NASA Adds Moon Base and Nuclear-Powered Mars Spacecraft to Road Map (nyt)
 - **Mar 25, 09:04 AM** - From missions to systems: The architecture enabling a sustained lunar economy (spacenews)
+- **Mar 25, 09:39 AM** - NASA Adds Moon Base and Nuclear-Powered Mars Spacecraft to Road Map (nyt)
