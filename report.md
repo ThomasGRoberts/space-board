@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 21 | 25 | 48 |
-| nyt | 0 | 3 | 16 | 33 |
+| spacenews | 13 | 21 | 26 | 49 |
+| nyt | 0 | 3 | 15 | 32 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2760,3 +2760,4 @@
 - **Mar 25, 08:49 PM** - ‘Spacewoman’ Review: Mission Driven (nyt)
 - **Mar 25, 09:24 PM** - Office of Space Commerce releases mission authorization proposal (spacenews)
 - **Mar 25, 09:59 PM** - A Meteor Exploded Over Ohio. Then the Hunt for Meteorites Began. (nyt)
+- **Mar 25, 10:34 PM** - SES orders 28 satellites from K2 Space for next-gen MEO network (spacenews)
