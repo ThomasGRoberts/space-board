@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-25T00:04:33.461172+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0cdae174ad027c955af6e7b1fae206db",
+    "trigger_count": 0,
+    "current_item_id": "c1e2f9aa8a1ab615ffb74347cf5424ee",
     "data": [
         {
             "id": "e7101053db95f5fd24cf34486c58a6d8",
@@ -8255,9 +8255,12 @@
             "source": "spacenews",
             "text": "NASA proposes new strategy for commercial space stations",
             "source_link": "https://spacenews.com/nasa-proposes-new-strategy-for-commercial-space-stations/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-03-25T11:59:17.334105Z"
+            "fetched_datetime": "2026-03-25T11:59:17.334105Z",
+            "shown_at": [
+                "2026-03-25T12:34:29.018301Z"
+            ]
         }
     ]
 }
