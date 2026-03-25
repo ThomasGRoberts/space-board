@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-25T00:04:33.461172+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f96703f3833862a8b6fd24f6aaab50c0",
+    "trigger_count": 0,
+    "current_item_id": "4491980e0801ee3dcb74da413831a425",
     "data": [
         {
             "id": "e7101053db95f5fd24cf34486c58a6d8",
@@ -8340,6 +8340,18 @@
             "fetched_datetime": "2026-03-25T19:04:46.630953Z",
             "shown_at": [
                 "2026-03-25T19:04:47.934619Z"
+            ]
+        },
+        {
+            "id": "4491980e0801ee3dcb74da413831a425",
+            "source": "spacenews",
+            "text": "Office of Space Commerce releases mission authorization proposal",
+            "source_link": "https://spacenews.com/office-of-space-commerce-releases-mission-authorization-proposal/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-25T21:24:08.531784Z",
+            "shown_at": [
+                "2026-03-25T21:24:09.632379Z"
             ]
         }
     ]
