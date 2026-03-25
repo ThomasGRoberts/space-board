@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 21 | 25 | 48 |
+| spacenews | 14 | 21 | 26 | 48 |
 | nyt | 3 | 4 | 15 | 33 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2744,3 +2744,4 @@
 - **Mar 25, 11:24 AM** - Sovereign demand and institutional capital reshape space economy (spacenews)
 - **Mar 25, 11:59 AM** - Pave Space raises $40 million to develop European heavy kickstage (spacenews)
 - **Mar 25, 12:34 PM** - NASA proposes new strategy for commercial space stations (spacenews)
+- **Mar 25, 01:09 PM** - Musk wants to go to the moon. But how will he build his ‘self-growing city’? (spacenews)

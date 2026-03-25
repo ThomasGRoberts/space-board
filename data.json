@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-25T00:04:33.461172+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c1e2f9aa8a1ab615ffb74347cf5424ee",
+    "trigger_count": 0,
+    "current_item_id": "652efd8dd76064d549b177d19900f7ce",
     "data": [
         {
             "id": "e7101053db95f5fd24cf34486c58a6d8",
@@ -8260,6 +8260,18 @@
             "fetched_datetime": "2026-03-25T11:59:17.334105Z",
             "shown_at": [
                 "2026-03-25T12:34:29.018301Z"
+            ]
+        },
+        {
+            "id": "652efd8dd76064d549b177d19900f7ce",
+            "source": "spacenews",
+            "text": "Musk wants to go to the moon. But how will he build his ‘self-growing city’?",
+            "source_link": "https://spacenews.com/musk-wants-to-go-to-the-moon-but-how-will-he-build-his-self-growing-city/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-25T13:09:31.922216Z",
+            "shown_at": [
+                "2026-03-25T13:09:33.265298Z"
             ]
         }
     ]
