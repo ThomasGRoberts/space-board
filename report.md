@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 22 | 24 | 48 |
-| nyt | 0 | 3 | 17 | 32 |
+| spacenews | 10 | 22 | 25 | 49 |
+| nyt | 0 | 3 | 16 | 32 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2724,3 +2724,4 @@
 - **Mar 26, 02:04 AM** - How Do You Measure Snow From Space? First, Climb a Mountain. (nyt)
 - **Mar 26, 02:39 AM** - Space Development Agency slows satellite launches to focus on on-orbit performance (spacenews)
 - **Mar 26, 03:14 AM** - NASA Adds Moon Base and Nuclear-Powered Mars Spacecraft to Road Map (nyt)
+- **Mar 26, 03:49 AM** - Terran Orbital Introduces New Star Tracker Product Line at SATSHOW 2026 (spacenews)
