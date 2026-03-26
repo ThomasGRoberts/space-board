@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-26T00:05:12.575846+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b8f3b75a03e8e4a5cc8520bdad90b5f9",
+    "trigger_count": 0,
+    "current_item_id": "b655ae1b8d1fcd1795dd3ec3cf962dcf",
     "data": [
         {
             "id": "26c9329a1d16d38a8d43db6eda1159a2",
@@ -8259,6 +8259,36 @@
             "shown_at": [
                 "2026-03-26T13:49:18.666158Z"
             ]
+        },
+        {
+            "id": "b655ae1b8d1fcd1795dd3ec3cf962dcf",
+            "source": "spacenews",
+            "text": "Satlantis earnings grow alongside demand for Earth-observation satellites",
+            "source_link": "https://spacenews.com/satlantis-earnings-grow-alongside-demand-for-earth-observation-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-26T16:20:00.769922Z",
+            "shown_at": [
+                "2026-03-26T16:20:01.811283Z"
+            ]
+        },
+        {
+            "id": "ab0f422167098b9d17a2b85d3e695245",
+            "source": "spacenews",
+            "text": "HTS Market Set to Reach $76B as Industry Enters Terabit Era",
+            "source_link": "https://spacenews.com/hts-market-set-to-reach-76b-as-industry-enters-terabit-era/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-03-26T16:20:00.769977Z"
+        },
+        {
+            "id": "24afb90206008123a5880d46054af475",
+            "source": "spacenews",
+            "text": "Hughes targets sovereign satcom demand with network control software",
+            "source_link": "https://spacenews.com/hughes-targets-sovereign-satcom-demand-with-network-control-software/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-03-26T16:20:00.770021Z"
         }
     ]
 }

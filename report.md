@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 21 | 22 | 48 |
-| nyt | 0 | 3 | 17 | 32 |
+| spacenews | 8 | 24 | 21 | 48 |
+| nyt | 0 | 1 | 17 | 30 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2742,3 +2742,4 @@
 - **Mar 26, 12:39 PM** - NASA Adds Moon Base and Nuclear-Powered Mars Spacecraft to Road Map (nyt)
 - **Mar 26, 01:14 PM** - NASA considering sharp increase in robotic lunar landings (spacenews)
 - **Mar 26, 01:49 PM** - Golden Dome and the velocity race: Why ground-based optics are the key to mission persistence (spacenews)
+- **Mar 26, 04:20 PM** - Satlantis earnings grow alongside demand for Earth-observation satellites (spacenews)
