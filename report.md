@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 21 | 23 | 48 |
+| spacenews | 9 | 22 | 24 | 49 |
 | nyt | 0 | 3 | 17 | 33 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2741,3 +2741,4 @@
 - **Mar 26, 12:04 PM** - NASA to test nuclear electric propulsion with 2028 mission to Mars (spacenews)
 - **Mar 26, 12:39 PM** - NASA Adds Moon Base and Nuclear-Powered Mars Spacecraft to Road Map (nyt)
 - **Mar 26, 01:14 PM** - NASA considering sharp increase in robotic lunar landings (spacenews)
+- **Mar 26, 01:49 PM** - Golden Dome and the velocity race: Why ground-based optics are the key to mission persistence (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-26T00:05:12.575846+00:00",
-    "trigger_count": 6,
-    "current_item_id": "428284bc12f3c5586b925055c94c2930",
+    "trigger_count": 0,
+    "current_item_id": "b8f3b75a03e8e4a5cc8520bdad90b5f9",
     "data": [
         {
             "id": "26c9329a1d16d38a8d43db6eda1159a2",
@@ -8246,6 +8246,18 @@
             "fetched_datetime": "2026-03-26T12:04:37.517112Z",
             "shown_at": [
                 "2026-03-26T12:04:38.618697Z"
+            ]
+        },
+        {
+            "id": "b8f3b75a03e8e4a5cc8520bdad90b5f9",
+            "source": "spacenews",
+            "text": "Golden Dome and the velocity race: Why ground-based optics are the key to mission persistence",
+            "source_link": "https://spacenews.com/golden-dome-and-the-velocity-race-why-ground-based-optics-are-the-key-to-mission-persistence/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-26T13:49:17.640695Z",
+            "shown_at": [
+                "2026-03-26T13:49:18.666158Z"
             ]
         }
     ]
