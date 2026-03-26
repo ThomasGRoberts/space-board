@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 22 | 23 | 49 |
-| nyt | 0 | 3 | 17 | 32 |
+| spacenews | 9 | 22 | 23 | 48 |
+| nyt | 0 | 3 | 18 | 33 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2739,3 +2739,4 @@
 - **Mar 26, 10:54 AM** - Officina Stellare wins $2 million contract for lasercom ground station in Spain (spacenews)
 - **Mar 26, 11:29 AM** - How Do You Measure Snow From Space? First, Climb a Mountain. (nyt)
 - **Mar 26, 12:04 PM** - NASA to test nuclear electric propulsion with 2028 mission to Mars (spacenews)
+- **Mar 26, 12:39 PM** - NASA Adds Moon Base and Nuclear-Powered Mars Spacecraft to Road Map (nyt)
