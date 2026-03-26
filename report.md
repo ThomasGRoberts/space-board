@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 22 | 24 | 49 |
-| nyt | 0 | 3 | 16 | 32 |
+| nyt | 0 | 3 | 17 | 32 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2721,3 +2721,4 @@
 - **Mar 26, 12:19 AM** - Holistic space observation: the shift from SSA to SDA (spacenews)
 - **Mar 26, 12:54 AM** - How Do You Measure Snow From Space? First, Climb a Mountain. (nyt)
 - **Mar 26, 01:29 AM** - China’s Astronstone raises $29 million for reusable rocket with chopstick-style recovery (spacenews)
+- **Mar 26, 02:04 AM** - How Do You Measure Snow From Space? First, Climb a Mountain. (nyt)
