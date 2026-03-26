@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 22 | 25 | 49 |
-| nyt | 0 | 3 | 16 | 32 |
+| spacenews | 10 | 22 | 24 | 49 |
+| nyt | 0 | 3 | 17 | 32 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2733,3 +2733,4 @@
 - **Mar 26, 07:19 AM** - Office of Space Commerce releases mission authorization proposal (spacenews)
 - **Mar 26, 07:54 AM** - NASA Sets Out New Plans and Timelines for Moon Base and Nuclear Mars Mission (nyt)
 - **Mar 26, 08:34 AM** - ReOrbit sells two small GEO satellites to SLI (spacenews)
+- **Mar 26, 09:09 AM** - ‘Spacewoman’ Review: Mission Driven (nyt)
