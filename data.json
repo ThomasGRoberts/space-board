@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-26T00:05:12.575846+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b655ae1b8d1fcd1795dd3ec3cf962dcf",
+    "trigger_count": 0,
+    "current_item_id": "ab0f422167098b9d17a2b85d3e695245",
     "data": [
         {
             "id": "26c9329a1d16d38a8d43db6eda1159a2",
@@ -8277,9 +8277,12 @@
             "source": "spacenews",
             "text": "HTS Market Set to Reach $76B as Industry Enters Terabit Era",
             "source_link": "https://spacenews.com/hts-market-set-to-reach-76b-as-industry-enters-terabit-era/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-03-26T16:20:00.769977Z"
+            "fetched_datetime": "2026-03-26T16:20:00.769977Z",
+            "shown_at": [
+                "2026-03-26T18:54:17.039894Z"
+            ]
         },
         {
             "id": "24afb90206008123a5880d46054af475",
