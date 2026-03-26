@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 19 | 20 | 45 |
+| spacenews | 10 | 22 | 21 | 46 |
 | nyt | 0 | 1 | 14 | 29 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2745,3 +2745,4 @@
 - **Mar 26, 04:20 PM** - Satlantis earnings grow alongside demand for Earth-observation satellites (spacenews)
 - **Mar 26, 06:54 PM** - HTS Market Set to Reach $76B as Industry Enters Terabit Era (spacenews)
 - **Mar 26, 07:29 PM** - Hughes targets sovereign satcom demand with network control software (spacenews)
+- **Mar 26, 08:04 PM** - Turning growth into profits remains a challenge as space demand grows (spacenews)

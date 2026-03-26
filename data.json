@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-26T00:05:12.575846+00:00",
-    "trigger_count": 6,
-    "current_item_id": "24afb90206008123a5880d46054af475",
+    "trigger_count": 0,
+    "current_item_id": "d7f59eafeeb8b8fb7d32376453b6ea8d",
     "data": [
         {
             "id": "26c9329a1d16d38a8d43db6eda1159a2",
@@ -8295,6 +8295,36 @@
             "shown_at": [
                 "2026-03-26T19:29:06.272161Z"
             ]
+        },
+        {
+            "id": "d7f59eafeeb8b8fb7d32376453b6ea8d",
+            "source": "spacenews",
+            "text": "Turning growth into profits remains a challenge as space demand grows",
+            "source_link": "https://spacenews.com/turning-growth-into-profits-remains-a-challenge-as-space-demand-grows/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-26T20:04:53.061455Z",
+            "shown_at": [
+                "2026-03-26T20:04:54.255028Z"
+            ]
+        },
+        {
+            "id": "822f2085f57761997f780584fbd48254",
+            "source": "spacenews",
+            "text": "Xona raises $170 million for satellite navigation network",
+            "source_link": "https://spacenews.com/xona-raises-170-million-for-satellite-navigation-network/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-03-26T20:04:53.061519Z"
+        },
+        {
+            "id": "56adcc7028fa3f0dba9077447301a159",
+            "source": "spacenews",
+            "text": "China sends radar mapping and GNSS augmentation sats into orbit with pair of launches",
+            "source_link": "https://spacenews.com/china-sends-radar-mapping-and-gnss-augmentation-sats-into-orbit-with-pair-of-launches/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-03-26T20:04:53.061570Z"
         }
     ]
 }
