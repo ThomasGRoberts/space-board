@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 21 | 24 | 48 |
-| nyt | 0 | 3 | 17 | 33 |
+| spacenews | 9 | 22 | 24 | 49 |
+| nyt | 0 | 3 | 17 | 32 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2738,3 +2738,4 @@
 - **Mar 26, 10:19 AM** - A Meteor Exploded Over Ohio. Then the Hunt for Meteorites Began. (nyt)
 - **Mar 26, 10:54 AM** - Officina Stellare wins $2 million contract for lasercom ground station in Spain (spacenews)
 - **Mar 26, 11:29 AM** - How Do You Measure Snow From Space? First, Climb a Mountain. (nyt)
+- **Mar 26, 12:04 PM** - NASA to test nuclear electric propulsion with 2028 mission to Mars (spacenews)
