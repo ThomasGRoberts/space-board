@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 20 | 21 | 47 |
+| spacenews | 10 | 20 | 22 | 48 |
 | nyt | 0 | 0 | 13 | 28 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2751,3 +2751,4 @@
 - **Mar 26, 09:49 PM** - Space Command begins phased move to Alabama  (spacenews)
 - **Mar 26, 10:24 PM** - Government use of commercial procurement models has limitations in space (spacenews)
 - **Mar 26, 10:59 PM** - ‘Spacewoman’ Review: Mission Driven (nyt)
+- **Mar 26, 11:34 PM** - Terran Orbital Introduces New Star Tracker Product Line at SATSHOW 2026 (spacenews)
