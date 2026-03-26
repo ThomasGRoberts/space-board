@@ -2718,3 +2718,4 @@
 - **Mar 25, 10:34 PM** - SES orders 28 satellites from K2 Space for next-gen MEO network (spacenews)
 - **Mar 25, 11:09 PM** - Space Force weighs launch alternatives as Vulcan faces potential months-long grounding (spacenews)
 - **Mar 25, 11:44 PM** - NASA Sets Out New Plans and Timelines for Moon Base and Nuclear Mars Mission (nyt)
+- **Mar 26, 12:19 AM** - Holistic space observation: the shift from SSA to SDA (spacenews)
