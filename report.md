@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 21 | 24 | 48 |
-| nyt | 0 | 3 | 16 | 32 |
+| nyt | 0 | 3 | 17 | 33 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2737,3 +2737,4 @@
 - **Mar 26, 09:44 AM** - Some European Launcher Challenge funding remains in limbo (spacenews)
 - **Mar 26, 10:19 AM** - A Meteor Exploded Over Ohio. Then the Hunt for Meteorites Began. (nyt)
 - **Mar 26, 10:54 AM** - Officina Stellare wins $2 million contract for lasercom ground station in Spain (spacenews)
+- **Mar 26, 11:29 AM** - How Do You Measure Snow From Space? First, Climb a Mountain. (nyt)
