@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 24 | 22 | 47 |
+| spacenews | 11 | 24 | 23 | 48 |
 | nyt | 0 | 1 | 12 | 28 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2749,3 +2749,4 @@
 - **Mar 26, 08:39 PM** - Xona raises $170 million for satellite navigation network (spacenews)
 - **Mar 26, 09:14 PM** - China sends radar mapping and GNSS augmentation sats into orbit with pair of launches (spacenews)
 - **Mar 26, 09:49 PM** - Space Command begins phased move to Alabama  (spacenews)
+- **Mar 26, 10:24 PM** - Government use of commercial procurement models has limitations in space (spacenews)
