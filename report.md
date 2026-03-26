@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 22 | 25 | 49 |
-| nyt | 0 | 3 | 16 | 31 |
+| spacenews | 10 | 22 | 24 | 49 |
+| nyt | 0 | 3 | 17 | 32 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2729,3 +2729,4 @@
 - **Mar 26, 04:59 AM** - China’s Astronstone raises $29 million for reusable rocket with chopstick-style recovery (spacenews)
 - **Mar 26, 05:34 AM** - A Meteor Exploded Over Ohio. Then the Hunt for Meteorites Began. (nyt)
 - **Mar 26, 06:09 AM** - Apex sells satellite for Japanese technology demonstration mission (spacenews)
+- **Mar 26, 06:44 AM** - NASA Adds Moon Base and Nuclear-Powered Mars Spacecraft to Road Map (nyt)
