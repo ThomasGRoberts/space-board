@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 19 | 19 | 45 |
+| spacenews | 7 | 19 | 20 | 46 |
 | nyt | 0 | 1 | 15 | 29 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2744,3 +2744,4 @@
 - **Mar 26, 01:49 PM** - Golden Dome and the velocity race: Why ground-based optics are the key to mission persistence (spacenews)
 - **Mar 26, 04:20 PM** - Satlantis earnings grow alongside demand for Earth-observation satellites (spacenews)
 - **Mar 26, 06:54 PM** - HTS Market Set to Reach $76B as Industry Enters Terabit Era (spacenews)
+- **Mar 26, 07:29 PM** - Hughes targets sovereign satcom demand with network control software (spacenews)
