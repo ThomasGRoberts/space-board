@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-26T00:05:12.575846+00:00",
-    "trigger_count": 6,
-    "current_item_id": "56adcc7028fa3f0dba9077447301a159",
+    "trigger_count": 0,
+    "current_item_id": "d3b5e57e0e419434d280a28dbb939559",
     "data": [
         {
             "id": "26c9329a1d16d38a8d43db6eda1159a2",
@@ -8331,6 +8331,27 @@
             "shown_at": [
                 "2026-03-26T21:14:26.055041Z"
             ]
+        },
+        {
+            "id": "d3b5e57e0e419434d280a28dbb939559",
+            "source": "spacenews",
+            "text": "Space Command begins phased move to Alabama ",
+            "source_link": "https://spacenews.com/space-command-begins-phased-move-to-alabama/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-26T21:49:26.155645Z",
+            "shown_at": [
+                "2026-03-26T21:49:27.296387Z"
+            ]
+        },
+        {
+            "id": "5dcf1ced7e528abf791e089a51e8509e",
+            "source": "spacenews",
+            "text": "Government use of commercial procurement models has limitations in space",
+            "source_link": "https://spacenews.com/government-use-of-commercial-procurement-models-has-limitations-in-space/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-03-26T21:49:26.155723Z"
         }
     ]
 }
