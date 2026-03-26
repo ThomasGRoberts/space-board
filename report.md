@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 22 | 21 | 46 |
+| spacenews | 10 | 22 | 22 | 47 |
 | nyt | 0 | 1 | 13 | 29 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2747,3 +2747,4 @@
 - **Mar 26, 07:29 PM** - Hughes targets sovereign satcom demand with network control software (spacenews)
 - **Mar 26, 08:04 PM** - Turning growth into profits remains a challenge as space demand grows (spacenews)
 - **Mar 26, 08:39 PM** - Xona raises $170 million for satellite navigation network (spacenews)
+- **Mar 26, 09:14 PM** - China sends radar mapping and GNSS augmentation sats into orbit with pair of launches (spacenews)
