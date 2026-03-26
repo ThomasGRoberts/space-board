@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 22 | 24 | 48 |
+| spacenews | 10 | 22 | 25 | 49 |
 | nyt | 0 | 3 | 16 | 32 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2736,3 +2736,4 @@
 - **Mar 26, 09:09 AM** - ‘Spacewoman’ Review: Mission Driven (nyt)
 - **Mar 26, 09:44 AM** - Some European Launcher Challenge funding remains in limbo (spacenews)
 - **Mar 26, 10:19 AM** - A Meteor Exploded Over Ohio. Then the Hunt for Meteorites Began. (nyt)
+- **Mar 26, 10:54 AM** - Officina Stellare wins $2 million contract for lasercom ground station in Spain (spacenews)
