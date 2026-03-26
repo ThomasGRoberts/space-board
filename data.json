@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-26T00:05:12.575846+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d7f59eafeeb8b8fb7d32376453b6ea8d",
+    "trigger_count": 0,
+    "current_item_id": "822f2085f57761997f780584fbd48254",
     "data": [
         {
             "id": "26c9329a1d16d38a8d43db6eda1159a2",
@@ -8313,9 +8313,12 @@
             "source": "spacenews",
             "text": "Xona raises $170 million for satellite navigation network",
             "source_link": "https://spacenews.com/xona-raises-170-million-for-satellite-navigation-network/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-03-26T20:04:53.061519Z"
+            "fetched_datetime": "2026-03-26T20:04:53.061519Z",
+            "shown_at": [
+                "2026-03-26T20:39:22.672316Z"
+            ]
         },
         {
             "id": "56adcc7028fa3f0dba9077447301a159",
