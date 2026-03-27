@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-27T00:04:31.615138+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5276bb43eaec0ce0d01e5635c03b7807",
+    "trigger_count": 0,
+    "current_item_id": "cb0fdf6bf049ca5c00f86c50d95cf7ca",
     "data": [
         {
             "id": "5dcf1ced7e528abf791e089a51e8509e",
@@ -8222,6 +8222,18 @@
             "fetched_datetime": "2026-03-27T08:54:34.982783Z",
             "shown_at": [
                 "2026-03-27T08:54:35.751100Z"
+            ]
+        },
+        {
+            "id": "cb0fdf6bf049ca5c00f86c50d95cf7ca",
+            "source": "spacenews",
+            "text": "SBQuantum and Spire to send quantum diamond magnetometer into orbit",
+            "source_link": "https://spacenews.com/sbquantum-and-spire-to-send-quantum-diamond-magnetometer-into-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-27T09:29:09.829975Z",
+            "shown_at": [
+                "2026-03-27T09:29:10.618949Z"
             ]
         }
     ]

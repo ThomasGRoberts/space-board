@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 21 | 22 | 46 |
+| spacenews | 12 | 22 | 23 | 47 |
 | nyt | 0 | 0 | 12 | 29 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2717,3 +2717,4 @@
 - **Mar 27, 07:44 AM** - Space Command begins phased move to Alabama  (spacenews)
 - **Mar 27, 08:19 AM** - A Meteor Exploded Over Ohio. Then the Hunt for Meteorites Began. (nyt)
 - **Mar 27, 08:54 AM** - ispace redesigns lunar lander, introduces lunar communications service (spacenews)
+- **Mar 27, 09:29 AM** - SBQuantum and Spire to send quantum diamond magnetometer into orbit (spacenews)
