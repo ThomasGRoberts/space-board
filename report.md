@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 18 | 23 | 45 |
+| spacenews | 12 | 19 | 24 | 46 |
 | nyt | 1 | 1 | 13 | 30 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2727,3 +2727,4 @@
 - **Mar 27, 01:34 PM** - Moog taps Redwire to provide solar arrays for Meteor (spacenews)
 - **Mar 27, 02:09 PM** - Did Scientists Just Detect an Exploding Black Hole? (nyt)
 - **Mar 27, 02:44 PM** - SpaceEye-T: 25 cm Satellite Imagery and Tasking Now Available Through Pacific Geomatics Limited (spacenews)
+- **Mar 27, 03:19 PM** - The ‘ground truth’ gap in AgTech: Why satellites alone can’t save supply chains (spacenews)

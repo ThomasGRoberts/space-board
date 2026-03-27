@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-27T00:04:31.615138+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b015b39471cf6fb4d247311fe97ede47",
+    "trigger_count": 0,
+    "current_item_id": "1946f47339e909e3767be7974d0bb91c",
     "data": [
         {
             "id": "5dcf1ced7e528abf791e089a51e8509e",
@@ -8265,6 +8265,18 @@
             "fetched_datetime": "2026-03-27T14:09:17.158123Z",
             "shown_at": [
                 "2026-03-27T14:09:18.176300Z"
+            ]
+        },
+        {
+            "id": "1946f47339e909e3767be7974d0bb91c",
+            "source": "spacenews",
+            "text": "The ‘ground truth’ gap in AgTech: Why satellites alone can’t save supply chains",
+            "source_link": "https://spacenews.com/the-ground-truth-gap-in-agtech-why-satellites-alone-cant-save-supply-chains/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-27T15:19:28.816788Z",
+            "shown_at": [
+                "2026-03-27T15:19:30.335580Z"
             ]
         }
     ]
