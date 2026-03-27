@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 20 | 22 | 45 |
+| spacenews | 12 | 20 | 23 | 46 |
 | nyt | 0 | 0 | 12 | 30 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2724,3 +2724,4 @@
 - **Mar 27, 11:49 AM** - Fusion engine for missile warning lacks a government dataset (spacenews)
 - **Mar 27, 12:24 PM** - Industry says proposed NASA changes to commercial space station plans create confusion (spacenews)
 - **Mar 27, 12:59 PM** - A Meteor Exploded Over Ohio. Then the Hunt for Meteorites Began. (nyt)
+- **Mar 27, 01:34 PM** - Moog taps Redwire to provide solar arrays for Meteor (spacenews)
