@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 20 | 22 | 46 |
-| nyt | 0 | 0 | 12 | 29 |
+| nyt | 0 | 0 | 13 | 30 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2703,3 +2703,4 @@
 - **Mar 26, 11:34 PM** - Terran Orbital Introduces New Star Tracker Product Line at SATSHOW 2026 (spacenews)
 - **Mar 27, 12:09 AM** - NASA Adds Moon Base and Nuclear-Powered Mars Spacecraft to Road Map (nyt)
 - **Mar 27, 12:44 AM** - Swissto12 to build small optical relay GEO satellite for Space Compass (spacenews)
+- **Mar 27, 01:19 AM** - ‘Spacewoman’ Review: Mission Driven (nyt)
