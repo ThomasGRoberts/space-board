@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 18 | 22 | 44 |
-| nyt | 1 | 1 | 18 | 31 |
+| spacenews | 7 | 18 | 23 | 45 |
+| nyt | 1 | 1 | 18 | 30 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2738,3 +2738,4 @@
 - **Mar 27, 08:19 PM** - A Meteor Exploded Over Ohio. Then the Hunt for Meteorites Began. (nyt)
 - **Mar 27, 08:54 PM** - SpaceX offers details on orbital data center satellites (spacenews)
 - **Mar 27, 09:29 PM** - How Do You Measure Snow From Space? First, Climb a Mountain. (nyt)
+- **Mar 27, 10:04 PM** - Musk wants to go to the moon. But how will he build his ‘self-growing city’? (spacenews)
