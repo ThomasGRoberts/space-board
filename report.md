@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 20 | 21 | 46 |
+| spacenews | 10 | 20 | 22 | 47 |
 | nyt | 0 | 0 | 13 | 29 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2704,3 +2704,4 @@
 - **Mar 27, 12:09 AM** - NASA Adds Moon Base and Nuclear-Powered Mars Spacecraft to Road Map (nyt)
 - **Mar 27, 12:44 AM** - Swissto12 to build small optical relay GEO satellite for Space Compass (spacenews)
 - **Mar 27, 01:19 AM** - ‘Spacewoman’ Review: Mission Driven (nyt)
+- **Mar 27, 01:54 AM** - Lunar lander developers say they are ready to meet anticipated increased NASA demand (spacenews)
