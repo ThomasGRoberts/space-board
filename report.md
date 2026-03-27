@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 17 | 24 | 45 |
-| nyt | 1 | 1 | 14 | 30 |
+| nyt | 1 | 1 | 15 | 31 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2730,3 +2730,4 @@
 - **Mar 27, 03:19 PM** - The ‘ground truth’ gap in AgTech: Why satellites alone can’t save supply chains (spacenews)
 - **Mar 27, 03:54 PM** - NASA Sets Out New Plans and Timelines for Moon Base and Nuclear Mars Mission (nyt)
 - **Mar 27, 04:29 PM** - Satlantis earnings grow alongside demand for Earth-observation satellites (spacenews)
+- **Mar 27, 05:04 PM** - NASA Sets Out New Plans and Timelines for Moon Base and Nuclear Mars Mission (nyt)
