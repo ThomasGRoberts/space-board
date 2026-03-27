@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 20 | 21 | 46 |
+| spacenews | 10 | 20 | 22 | 47 |
 | nyt | 0 | 0 | 13 | 29 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2712,3 +2712,4 @@
 - **Mar 27, 04:49 AM** - A Meteor Exploded Over Ohio. Then the Hunt for Meteorites Began. (nyt)
 - **Mar 27, 05:24 AM** - Office of Space Commerce releases mission authorization proposal (spacenews)
 - **Mar 27, 05:59 AM** - NASA Sets Out New Plans and Timelines for Moon Base and Nuclear Mars Mission (nyt)
+- **Mar 27, 06:34 AM** - Government use of commercial procurement models has limitations in space (spacenews)
