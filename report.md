@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 22 | 22 | 47 |
-| nyt | 0 | 0 | 12 | 28 |
+| nyt | 0 | 0 | 13 | 29 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2718,3 +2718,4 @@
 - **Mar 27, 08:19 AM** - A Meteor Exploded Over Ohio. Then the Hunt for Meteorites Began. (nyt)
 - **Mar 27, 08:54 AM** - ispace redesigns lunar lander, introduces lunar communications service (spacenews)
 - **Mar 27, 09:29 AM** - SBQuantum and Spire to send quantum diamond magnetometer into orbit (spacenews)
+- **Mar 27, 10:04 AM** - NASA Adds Moon Base and Nuclear-Powered Mars Spacecraft to Road Map (nyt)
