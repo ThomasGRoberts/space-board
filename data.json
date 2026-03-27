@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-27T00:04:31.615138+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2c8e6505e3cc639cd43bba81ae577b69",
+    "trigger_count": 0,
+    "current_item_id": "3953de1aa8d20af3062dbb2f0001beaa",
     "data": [
         {
             "id": "5dcf1ced7e528abf791e089a51e8509e",
@@ -8252,6 +8252,18 @@
             "fetched_datetime": "2026-03-27T12:24:24.893500Z",
             "shown_at": [
                 "2026-03-27T12:24:25.983611Z"
+            ]
+        },
+        {
+            "id": "3953de1aa8d20af3062dbb2f0001beaa",
+            "source": "nyt",
+            "text": "Did Scientists Just Detect an Exploding Black Hole?",
+            "source_link": "https://www.nytimes.com/2026/03/27/science/astrophysics-neutrinos-black-holes.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-27T14:09:17.158123Z",
+            "shown_at": [
+                "2026-03-27T14:09:18.176300Z"
             ]
         }
     ]

@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 20 | 22 | 46 |
-| nyt | 0 | 0 | 12 | 29 |
+| nyt | 1 | 1 | 13 | 30 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2725,3 +2725,4 @@
 - **Mar 27, 12:24 PM** - Industry says proposed NASA changes to commercial space station plans create confusion (spacenews)
 - **Mar 27, 12:59 PM** - A Meteor Exploded Over Ohio. Then the Hunt for Meteorites Began. (nyt)
 - **Mar 27, 01:34 PM** - Moog taps Redwire to provide solar arrays for Meteor (spacenews)
+- **Mar 27, 02:09 PM** - Did Scientists Just Detect an Exploding Black Hole? (nyt)
