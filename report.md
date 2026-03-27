@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 20 | 21 | 46 |
+| spacenews | 10 | 20 | 22 | 47 |
 | nyt | 0 | 0 | 13 | 29 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2710,3 +2710,4 @@
 - **Mar 27, 03:39 AM** - A Meteor Exploded Over Ohio. Then the Hunt for Meteorites Began. (nyt)
 - **Mar 27, 04:14 AM** - OHB Sweden wins €248 million contract to build EPS-Sterna constellation (spacenews)
 - **Mar 27, 04:49 AM** - A Meteor Exploded Over Ohio. Then the Hunt for Meteorites Began. (nyt)
+- **Mar 27, 05:24 AM** - Office of Space Commerce releases mission authorization proposal (spacenews)
