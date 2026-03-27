@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-27T00:04:31.615138+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b138e4a393440e15b186e175a93b7892",
+    "trigger_count": 0,
+    "current_item_id": "7ff88c86bcca9c23dda8aa06d601f600",
     "data": [
         {
             "id": "5dcf1ced7e528abf791e089a51e8509e",
@@ -8294,6 +8294,27 @@
             "shown_at": [
                 "2026-03-27T17:39:12.455595Z"
             ]
+        },
+        {
+            "id": "7ff88c86bcca9c23dda8aa06d601f600",
+            "source": "spacenews",
+            "text": "Commercial Space Federation (CSF) Welcomes Two New Associate Members",
+            "source_link": "https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-associate-members/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-27T19:09:20.880847Z",
+            "shown_at": [
+                "2026-03-27T19:09:22.261336Z"
+            ]
+        },
+        {
+            "id": "cf89f9e02549452536043bb6a44dab79",
+            "source": "spacenews",
+            "text": "ESA to decide by June on Europe’s Gateway contributions ",
+            "source_link": "https://spacenews.com/esa-to-decide-by-june-on-europes-gateway-contributions/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-03-27T19:09:20.880929Z"
         }
     ]
 }

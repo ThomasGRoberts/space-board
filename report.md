@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 18 | 24 | 44 |
+| spacenews | 12 | 19 | 25 | 44 |
 | nyt | 1 | 1 | 16 | 31 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2733,3 +2733,4 @@
 - **Mar 27, 05:04 PM** - NASA Sets Out New Plans and Timelines for Moon Base and Nuclear Mars Mission (nyt)
 - **Mar 27, 05:39 PM** - India’s Bellatrix raises $20 million following overseas expansion drive (spacenews)
 - **Mar 27, 06:34 PM** - How Do You Measure Snow From Space? First, Climb a Mountain. (nyt)
+- **Mar 27, 07:09 PM** - Commercial Space Federation (CSF) Welcomes Two New Associate Members (spacenews)
