@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 21 | 23 | 46 |
-| nyt | 0 | 0 | 11 | 29 |
+| nyt | 0 | 0 | 12 | 30 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2723,3 +2723,4 @@
 - **Mar 27, 11:14 AM** - How Do You Measure Snow From Space? First, Climb a Mountain. (nyt)
 - **Mar 27, 11:49 AM** - Fusion engine for missile warning lacks a government dataset (spacenews)
 - **Mar 27, 12:24 PM** - Industry says proposed NASA changes to commercial space station plans create confusion (spacenews)
+- **Mar 27, 12:59 PM** - A Meteor Exploded Over Ohio. Then the Hunt for Meteorites Began. (nyt)
