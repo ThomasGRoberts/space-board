@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 18 | 23 | 44 |
-| nyt | 1 | 1 | 17 | 30 |
+| nyt | 1 | 1 | 18 | 31 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2737,3 +2737,4 @@
 - **Mar 27, 07:44 PM** - ESA to decide by June on Europe’s Gateway contributions  (spacenews)
 - **Mar 27, 08:19 PM** - A Meteor Exploded Over Ohio. Then the Hunt for Meteorites Began. (nyt)
 - **Mar 27, 08:54 PM** - SpaceX offers details on orbital data center satellites (spacenews)
+- **Mar 27, 09:29 PM** - How Do You Measure Snow From Space? First, Climb a Mountain. (nyt)
