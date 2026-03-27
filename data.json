@@ -1,9 +1,129 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-03-26T00:05:12.575846+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2026-03-27T00:04:31.615138+00:00",
+    "trigger_count": 6,
     "current_item_id": "244d3214d062fa6f39d37e34a3f23887",
     "data": [
+        {
+            "id": "5dcf1ced7e528abf791e089a51e8509e",
+            "source": "spacenews",
+            "text": "Government use of commercial procurement models has limitations in space",
+            "source_link": "https://spacenews.com/government-use-of-commercial-procurement-models-has-limitations-in-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-26T21:49:26.155723Z",
+            "shown_at": [
+                "2026-03-26T22:24:26.671243Z"
+            ]
+        },
+        {
+            "id": "d3b5e57e0e419434d280a28dbb939559",
+            "source": "spacenews",
+            "text": "Space Command begins phased move to Alabama ",
+            "source_link": "https://spacenews.com/space-command-begins-phased-move-to-alabama/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-26T21:49:26.155645Z",
+            "shown_at": [
+                "2026-03-26T21:49:27.296387Z"
+            ]
+        },
+        {
+            "id": "56adcc7028fa3f0dba9077447301a159",
+            "source": "spacenews",
+            "text": "China sends radar mapping and GNSS augmentation sats into orbit with pair of launches",
+            "source_link": "https://spacenews.com/china-sends-radar-mapping-and-gnss-augmentation-sats-into-orbit-with-pair-of-launches/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-26T20:04:53.061570Z",
+            "shown_at": [
+                "2026-03-26T21:14:26.055041Z"
+            ]
+        },
+        {
+            "id": "822f2085f57761997f780584fbd48254",
+            "source": "spacenews",
+            "text": "Xona raises $170 million for satellite navigation network",
+            "source_link": "https://spacenews.com/xona-raises-170-million-for-satellite-navigation-network/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-26T20:04:53.061519Z",
+            "shown_at": [
+                "2026-03-26T20:39:22.672316Z"
+            ]
+        },
+        {
+            "id": "d7f59eafeeb8b8fb7d32376453b6ea8d",
+            "source": "spacenews",
+            "text": "Turning growth into profits remains a challenge as space demand grows",
+            "source_link": "https://spacenews.com/turning-growth-into-profits-remains-a-challenge-as-space-demand-grows/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-26T20:04:53.061455Z",
+            "shown_at": [
+                "2026-03-26T20:04:54.255028Z"
+            ]
+        },
+        {
+            "id": "24afb90206008123a5880d46054af475",
+            "source": "spacenews",
+            "text": "Hughes targets sovereign satcom demand with network control software",
+            "source_link": "https://spacenews.com/hughes-targets-sovereign-satcom-demand-with-network-control-software/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-26T16:20:00.770021Z",
+            "shown_at": [
+                "2026-03-26T19:29:06.272161Z"
+            ]
+        },
+        {
+            "id": "ab0f422167098b9d17a2b85d3e695245",
+            "source": "spacenews",
+            "text": "HTS Market Set to Reach $76B as Industry Enters Terabit Era",
+            "source_link": "https://spacenews.com/hts-market-set-to-reach-76b-as-industry-enters-terabit-era/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-26T16:20:00.769977Z",
+            "shown_at": [
+                "2026-03-26T18:54:17.039894Z"
+            ]
+        },
+        {
+            "id": "b655ae1b8d1fcd1795dd3ec3cf962dcf",
+            "source": "spacenews",
+            "text": "Satlantis earnings grow alongside demand for Earth-observation satellites",
+            "source_link": "https://spacenews.com/satlantis-earnings-grow-alongside-demand-for-earth-observation-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-26T16:20:00.769922Z",
+            "shown_at": [
+                "2026-03-26T16:20:01.811283Z"
+            ]
+        },
+        {
+            "id": "b8f3b75a03e8e4a5cc8520bdad90b5f9",
+            "source": "spacenews",
+            "text": "Golden Dome and the velocity race: Why ground-based optics are the key to mission persistence",
+            "source_link": "https://spacenews.com/golden-dome-and-the-velocity-race-why-ground-based-optics-are-the-key-to-mission-persistence/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-26T13:49:17.640695Z",
+            "shown_at": [
+                "2026-03-26T13:49:18.666158Z"
+            ]
+        },
+        {
+            "id": "8374c198d684d541cb527d477413e686",
+            "source": "spacenews",
+            "text": "NASA to test nuclear electric propulsion with 2028 mission to Mars",
+            "source_link": "https://spacenews.com/nasa-to-test-nuclear-electric-propulsion-with-2028-mission-to-mars/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-26T12:04:37.517112Z",
+            "shown_at": [
+                "2026-03-26T12:04:38.618697Z"
+            ]
+        },
         {
             "id": "26c9329a1d16d38a8d43db6eda1159a2",
             "source": "spacenews",
@@ -8075,287 +8195,6 @@
             "shown_at": [
                 "2026-01-14T21:44:06.659788Z",
                 "2026-01-19T04:09:10.688513Z"
-            ]
-        },
-        {
-            "id": "d03bc1e5d7a9a051d8dc030fd66abedb",
-            "source": "nyt",
-            "text": "NASA to Begin Space Station Medical Evacuation: Video and What to Know",
-            "source_link": "https://www.nytimes.com/2026/01/14/science/nasa-astronauts-iss-return.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-14T20:24:24.641019Z",
-            "shown_at": [
-                "2026-01-14T20:24:25.402430Z",
-                "2026-01-15T23:34:28.554069Z",
-                "2026-01-16T16:54:18.941030Z",
-                "2026-01-16T23:34:19.227743Z",
-                "2026-01-17T03:09:03.388069Z",
-                "2026-01-17T17:34:22.362449Z",
-                "2026-01-17T20:29:12.661682Z",
-                "2026-01-18T08:19:52.126839Z",
-                "2026-01-18T10:04:34.251449Z",
-                "2026-01-18T17:04:31.510771Z",
-                "2026-01-18T18:49:31.658514Z",
-                "2026-01-19T08:49:24.778922Z",
-                "2026-01-19T18:24:20.069311Z",
-                "2026-01-19T20:09:26.930478Z",
-                "2026-01-20T06:54:38.078684Z",
-                "2026-01-20T10:29:11.288465Z"
-            ]
-        },
-        {
-            "id": "073da4dcfcf5afe42e45caf767ffba23",
-            "source": "nyt",
-            "text": "NASA to Begin Space Station Medical Evacuation: What to Know",
-            "source_link": "https://www.nytimes.com/2026/01/14/science/nasa-astronauts-iss-return.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-14T19:49:04.992250Z",
-            "shown_at": [
-                "2026-01-14T19:49:05.935500Z",
-                "2026-01-14T22:19:21.025837Z",
-                "2026-01-15T05:54:12.412616Z",
-                "2026-01-15T17:34:19.207196Z",
-                "2026-01-16T03:04:34.363146Z",
-                "2026-01-16T06:34:17.902819Z",
-                "2026-01-16T19:54:17.072392Z",
-                "2026-01-16T21:44:31.853570Z",
-                "2026-01-17T10:19:11.655368Z",
-                "2026-01-17T12:14:21.219988Z",
-                "2026-01-17T15:44:14.532000Z",
-                "2026-01-18T02:54:19.682521Z",
-                "2026-01-18T04:39:10.060251Z",
-                "2026-01-20T20:34:37.337346Z",
-                "2026-01-21T04:44:16.374039Z",
-                "2026-01-21T11:44:46.856951Z",
-                "2026-01-21T17:39:12.669893Z"
-            ]
-        },
-        {
-            "id": "d3e8d4d9c2ea9d521dd82f830a331c9c",
-            "source": "spacenews",
-            "text": "ESA’s Comet Interceptor mission moves up launch",
-            "source_link": "https://spacenews.com/esas-comet-interceptor-mission-moves-up-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-14T18:39:10.100560Z",
-            "shown_at": [
-                "2026-01-14T18:39:10.829512Z",
-                "2026-01-18T02:19:10.617977Z"
-            ]
-        },
-        {
-            "id": "d6f10382b4f75555315a6343798f6038",
-            "source": "spacenews",
-            "text": "Taiwan’s Moonshot: why ‘T-Dome’ needs systems engineering, not just a shopping list",
-            "source_link": "https://spacenews.com/taiwans-moonshot-why-t-dome-needs-systems-engineering-not-just-a-shopping-list/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-14T18:04:43.587826Z",
-            "shown_at": [
-                "2026-01-14T18:04:44.337106Z",
-                "2026-01-16T09:44:15.005484Z"
-            ]
-        },
-        {
-            "id": "4452bb6509939be600e341741ac77d74",
-            "source": "spacenews",
-            "text": "ThinkOrbital raises seed funding to advance X-ray space inspection",
-            "source_link": "https://spacenews.com/thinkorbital-raises-seed-funding-to-advance-x-ray-space-inspection/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-14T16:09:19.810892Z",
-            "shown_at": [
-                "2026-01-14T16:54:06.964861Z"
-            ]
-        },
-        {
-            "id": "275c74126b2140193ba1d5973cc0bb52",
-            "source": "spacenews",
-            "text": "Space sustainability will evolve into a data-driven system",
-            "source_link": "https://spacenews.com/space-sustainability-will-evolve-intoa-data-driven-system/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-14T16:09:19.810837Z",
-            "shown_at": [
-                "2026-01-14T16:09:20.543406Z"
-            ]
-        },
-        {
-            "id": "314d3ea8e7a7f0eb5c70c7adabed675f",
-            "source": "spacenews",
-            "text": "Bringing outsiders into the space fold",
-            "source_link": "https://spacenews.com/bringing-outsiders-into-the-space-fold/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-14T14:59:11.985084Z",
-            "shown_at": [
-                "2026-01-14T14:59:12.810672Z",
-                "2026-01-18T04:04:31.976395Z"
-            ]
-        },
-        {
-            "id": "be9c00d3963ad495e974798648bc3252",
-            "source": "spacenews",
-            "text": "Space operations will become more dynamic this year",
-            "source_link": "https://spacenews.com/space-operations-will-become-more-dynamic-this-year/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-14T13:05:19.848726Z",
-            "shown_at": [
-                "2026-01-14T14:19:15.215030Z",
-                "2026-01-17T16:24:01.886096Z",
-                "2026-01-19T21:19:22.945041Z",
-                "2026-01-21T08:49:12.959130Z"
-            ]
-        },
-        {
-            "id": "12de6d5d1301ce25578d365e38672b56",
-            "source": "spacenews",
-            "text": "NASA pessimistic about odds of recovering MAVEN",
-            "source_link": "https://spacenews.com/nasa-pessimistic-about-odds-of-recovering-maven/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-14T13:05:19.848683Z",
-            "shown_at": [
-                "2026-01-14T13:44:46.936189Z",
-                "2026-01-21T01:49:19.365005Z"
-            ]
-        },
-        {
-            "id": "89e7ffeeb38a5b451c97ad917dfe1d60",
-            "source": "spacenews",
-            "text": "When allies can’t count on U.S. ISR, commercial space becomes strategic",
-            "source_link": "https://spacenews.com/when-allies-cant-count-on-u-s-isr-commercial-space-becomes-strategic/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-14T13:05:19.848624Z",
-            "shown_at": [
-                "2026-01-14T13:05:20.433762Z",
-                "2026-01-15T05:19:15.380793Z",
-                "2026-01-18T19:24:09.424290Z",
-                "2026-01-21T00:04:24.066252Z"
-            ]
-        },
-        {
-            "id": "8374c198d684d541cb527d477413e686",
-            "source": "spacenews",
-            "text": "NASA to test nuclear electric propulsion with 2028 mission to Mars",
-            "source_link": "https://spacenews.com/nasa-to-test-nuclear-electric-propulsion-with-2028-mission-to-mars/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-26T12:04:37.517112Z",
-            "shown_at": [
-                "2026-03-26T12:04:38.618697Z"
-            ]
-        },
-        {
-            "id": "b8f3b75a03e8e4a5cc8520bdad90b5f9",
-            "source": "spacenews",
-            "text": "Golden Dome and the velocity race: Why ground-based optics are the key to mission persistence",
-            "source_link": "https://spacenews.com/golden-dome-and-the-velocity-race-why-ground-based-optics-are-the-key-to-mission-persistence/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-26T13:49:17.640695Z",
-            "shown_at": [
-                "2026-03-26T13:49:18.666158Z"
-            ]
-        },
-        {
-            "id": "b655ae1b8d1fcd1795dd3ec3cf962dcf",
-            "source": "spacenews",
-            "text": "Satlantis earnings grow alongside demand for Earth-observation satellites",
-            "source_link": "https://spacenews.com/satlantis-earnings-grow-alongside-demand-for-earth-observation-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-26T16:20:00.769922Z",
-            "shown_at": [
-                "2026-03-26T16:20:01.811283Z"
-            ]
-        },
-        {
-            "id": "ab0f422167098b9d17a2b85d3e695245",
-            "source": "spacenews",
-            "text": "HTS Market Set to Reach $76B as Industry Enters Terabit Era",
-            "source_link": "https://spacenews.com/hts-market-set-to-reach-76b-as-industry-enters-terabit-era/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-26T16:20:00.769977Z",
-            "shown_at": [
-                "2026-03-26T18:54:17.039894Z"
-            ]
-        },
-        {
-            "id": "24afb90206008123a5880d46054af475",
-            "source": "spacenews",
-            "text": "Hughes targets sovereign satcom demand with network control software",
-            "source_link": "https://spacenews.com/hughes-targets-sovereign-satcom-demand-with-network-control-software/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-26T16:20:00.770021Z",
-            "shown_at": [
-                "2026-03-26T19:29:06.272161Z"
-            ]
-        },
-        {
-            "id": "d7f59eafeeb8b8fb7d32376453b6ea8d",
-            "source": "spacenews",
-            "text": "Turning growth into profits remains a challenge as space demand grows",
-            "source_link": "https://spacenews.com/turning-growth-into-profits-remains-a-challenge-as-space-demand-grows/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-26T20:04:53.061455Z",
-            "shown_at": [
-                "2026-03-26T20:04:54.255028Z"
-            ]
-        },
-        {
-            "id": "822f2085f57761997f780584fbd48254",
-            "source": "spacenews",
-            "text": "Xona raises $170 million for satellite navigation network",
-            "source_link": "https://spacenews.com/xona-raises-170-million-for-satellite-navigation-network/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-26T20:04:53.061519Z",
-            "shown_at": [
-                "2026-03-26T20:39:22.672316Z"
-            ]
-        },
-        {
-            "id": "56adcc7028fa3f0dba9077447301a159",
-            "source": "spacenews",
-            "text": "China sends radar mapping and GNSS augmentation sats into orbit with pair of launches",
-            "source_link": "https://spacenews.com/china-sends-radar-mapping-and-gnss-augmentation-sats-into-orbit-with-pair-of-launches/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-26T20:04:53.061570Z",
-            "shown_at": [
-                "2026-03-26T21:14:26.055041Z"
-            ]
-        },
-        {
-            "id": "d3b5e57e0e419434d280a28dbb939559",
-            "source": "spacenews",
-            "text": "Space Command begins phased move to Alabama ",
-            "source_link": "https://spacenews.com/space-command-begins-phased-move-to-alabama/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-26T21:49:26.155645Z",
-            "shown_at": [
-                "2026-03-26T21:49:27.296387Z"
-            ]
-        },
-        {
-            "id": "5dcf1ced7e528abf791e089a51e8509e",
-            "source": "spacenews",
-            "text": "Government use of commercial procurement models has limitations in space",
-            "source_link": "https://spacenews.com/government-use-of-commercial-procurement-models-has-limitations-in-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-26T21:49:26.155723Z",
-            "shown_at": [
-                "2026-03-26T22:24:26.671243Z"
             ]
         }
     ]
