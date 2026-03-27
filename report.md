@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 20 | 22 | 46 |
+| spacenews | 12 | 21 | 23 | 47 |
 | nyt | 0 | 0 | 12 | 29 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2722,3 +2722,4 @@
 - **Mar 27, 10:39 AM** - Artemis 2 returns to the pad for April launch attempt (spacenews)
 - **Mar 27, 11:14 AM** - How Do You Measure Snow From Space? First, Climb a Mountain. (nyt)
 - **Mar 27, 11:49 AM** - Fusion engine for missile warning lacks a government dataset (spacenews)
+- **Mar 27, 12:24 PM** - Industry says proposed NASA changes to commercial space station plans create confusion (spacenews)
