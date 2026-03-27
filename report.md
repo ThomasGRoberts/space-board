@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 22 | 22 | 47 |
-| nyt | 0 | 0 | 12 | 28 |
+| nyt | 0 | 0 | 13 | 29 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2720,3 +2720,4 @@
 - **Mar 27, 09:29 AM** - SBQuantum and Spire to send quantum diamond magnetometer into orbit (spacenews)
 - **Mar 27, 10:04 AM** - NASA Adds Moon Base and Nuclear-Powered Mars Spacecraft to Road Map (nyt)
 - **Mar 27, 10:39 AM** - Artemis 2 returns to the pad for April launch attempt (spacenews)
+- **Mar 27, 11:14 AM** - How Do You Measure Snow From Space? First, Climb a Mountain. (nyt)
