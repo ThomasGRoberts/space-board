@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-27T00:04:31.615138+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c4106ef273f5ae1c0096fbd2a4fe0dab",
+    "trigger_count": 0,
+    "current_item_id": "6e356603545c3be00185baaf5a802416",
     "data": [
         {
             "id": "5dcf1ced7e528abf791e089a51e8509e",
@@ -8280,6 +8280,18 @@
             "fetched_datetime": "2026-03-27T15:19:28.816788Z",
             "shown_at": [
                 "2026-03-27T15:19:30.335580Z"
+            ]
+        },
+        {
+            "id": "6e356603545c3be00185baaf5a802416",
+            "source": "spacenews",
+            "text": "India’s Bellatrix raises $20 million following overseas expansion drive",
+            "source_link": "https://spacenews.com/indias-bellatrix-raises-20-million-following-overseas-expansion-drive/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-27T17:39:11.314499Z",
+            "shown_at": [
+                "2026-03-27T17:39:12.455595Z"
             ]
         }
     ]
