@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 20 | 22 | 46 |
-| nyt | 0 | 0 | 12 | 29 |
+| nyt | 0 | 0 | 13 | 30 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2707,3 +2707,4 @@
 - **Mar 27, 01:54 AM** - Lunar lander developers say they are ready to meet anticipated increased NASA demand (spacenews)
 - **Mar 27, 02:29 AM** - NASA Sets Out New Plans and Timelines for Moon Base and Nuclear Mars Mission (nyt)
 - **Mar 27, 03:04 AM** - Golden Dome and the velocity race: Why ground-based optics are the key to mission persistence (spacenews)
+- **Mar 27, 03:39 AM** - A Meteor Exploded Over Ohio. Then the Hunt for Meteorites Began. (nyt)
