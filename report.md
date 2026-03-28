@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 13 | 21 | 46 |
-| nyt | 0 | 1 | 19 | 34 |
+| nyt | 0 | 1 | 20 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2718,3 +2718,4 @@
 - **Mar 28, 04:14 PM** - Terran Orbital Introduces New Star Tracker Product Line at SATSHOW 2026 (spacenews)
 - **Mar 28, 04:49 PM** - A Meteor Exploded Over Ohio. Then the Hunt for Meteorites Began. (nyt)
 - **Mar 28, 05:24 PM** - NASA to test nuclear electric propulsion with 2028 mission to Mars (spacenews)
+- **Mar 28, 05:59 PM** - How Do You Measure Snow From Space? First, Climb a Mountain. (nyt)
