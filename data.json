@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-28T00:04:33.847609+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c4106ef273f5ae1c0096fbd2a4fe0dab",
+    "trigger_count": 0,
+    "current_item_id": "6769a1e1d062aa3c7bec5dd2b2e35271",
     "data": [
         {
             "id": "cf89f9e02549452536043bb6a44dab79",
@@ -8228,6 +8228,18 @@
             "fetched_datetime": "2026-03-28T00:59:05.321172Z",
             "shown_at": [
                 "2026-03-28T00:59:06.401875Z"
+            ]
+        },
+        {
+            "id": "6769a1e1d062aa3c7bec5dd2b2e35271",
+            "source": "spacenews",
+            "text": "Starfish Space finds a new partner for docking demonstration mission",
+            "source_link": "https://spacenews.com/starfish-space-finds-a-new-partner-for-docking-demonstration-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-28T20:54:16.656068Z",
+            "shown_at": [
+                "2026-03-28T20:54:17.765888Z"
             ]
         }
     ]
