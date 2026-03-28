@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 18 | 23 | 44 |
-| nyt | 1 | 1 | 17 | 30 |
+| nyt | 1 | 1 | 18 | 31 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2700,3 +2700,4 @@
 - **Mar 28, 05:44 AM** - York Space rides defense demand as procurement changes cloud outlook (spacenews)
 - **Mar 28, 06:19 AM** - A Meteor Exploded Over Ohio. Then the Hunt for Meteorites Began. (nyt)
 - **Mar 28, 06:54 AM** - The ‘ground truth’ gap in AgTech: Why satellites alone can’t save supply chains (spacenews)
+- **Mar 28, 07:29 AM** - How Do You Measure Snow From Space? First, Climb a Mountain. (nyt)
