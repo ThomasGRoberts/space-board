@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 18 | 22 | 44 |
+| spacenews | 8 | 18 | 23 | 45 |
 | nyt | 1 | 1 | 18 | 30 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2693,3 +2693,4 @@
 - **Mar 28, 01:39 AM** - NASA Sets Out New Plans and Timelines for Moon Base and Nuclear Mars Mission (nyt)
 - **Mar 28, 02:14 AM** - Government use of commercial procurement models has limitations in space (spacenews)
 - **Mar 28, 02:49 AM** - Did Scientists Just Detect an Exploding Black Hole? (nyt)
+- **Mar 28, 03:24 AM** - NASA to test nuclear electric propulsion with 2028 mission to Mars (spacenews)
