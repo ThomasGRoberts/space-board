@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 9 | 20 | 43 |
+| spacenews | 2 | 9 | 21 | 44 |
 | nyt | 1 | 2 | 20 | 38 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2727,3 +2727,4 @@
 - **Mar 28, 09:29 PM** - Did Scientists Just Detect an Exploding Black Hole? (nyt)
 - **Mar 28, 10:24 PM** - Sift raises $42 million in Series B round (spacenews)
 - **Mar 28, 10:59 PM** - Astronaut’s Condition That Led to Space Station Evacuation Remains a Mystery (nyt)
+- **Mar 28, 11:34 PM** - China’s Astronstone raises $29 million for reusable rocket with chopstick-style recovery (spacenews)
