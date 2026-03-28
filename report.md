@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 13 | 21 | 45 |
+| spacenews | 1 | 13 | 22 | 46 |
 | nyt | 0 | 1 | 20 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2721,3 +2721,4 @@
 - **Mar 28, 05:59 PM** - How Do You Measure Snow From Space? First, Climb a Mountain. (nyt)
 - **Mar 28, 06:34 PM** - OrbitsIQ Global Announces Breakthrough in Space-Based IoT Connectivity (spacenews)
 - **Mar 28, 07:09 PM** - Did Scientists Just Detect an Exploding Black Hole? (nyt)
+- **Mar 28, 07:44 PM** - Musk wants to go to the moon. But how will he build his ‘self-growing city’? (spacenews)
