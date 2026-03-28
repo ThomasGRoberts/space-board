@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 18 | 22 | 44 |
+| spacenews | 8 | 18 | 23 | 45 |
 | nyt | 1 | 1 | 18 | 30 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2691,3 +2691,4 @@
 - **Mar 28, 12:24 AM** - Terran Orbital Introduces New Star Tracker Product Line at SATSHOW 2026 (spacenews)
 - **Mar 28, 12:59 AM** - Artemis 2 astronauts arrive at KSC (spacenews)
 - **Mar 28, 01:39 AM** - NASA Sets Out New Plans and Timelines for Moon Base and Nuclear Mars Mission (nyt)
+- **Mar 28, 02:14 AM** - Government use of commercial procurement models has limitations in space (spacenews)
