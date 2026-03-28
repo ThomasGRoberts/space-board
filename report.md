@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 17 | 21 | 44 |
+| spacenews | 5 | 17 | 22 | 45 |
 | nyt | 1 | 1 | 19 | 30 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2709,3 +2709,4 @@
 - **Mar 28, 10:59 AM** - NASA Adds Moon Base and Nuclear-Powered Mars Spacecraft to Road Map (nyt)
 - **Mar 28, 11:34 AM** - SES orders 28 satellites from K2 Space for next-gen MEO network (spacenews)
 - **Mar 28, 12:09 PM** - NASA Sets Out New Plans and Timelines for Moon Base and Nuclear Mars Mission (nyt)
+- **Mar 28, 12:44 PM** - India’s Bellatrix raises $20 million following overseas expansion drive (spacenews)
