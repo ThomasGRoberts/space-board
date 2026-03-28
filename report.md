@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 17 | 21 | 44 |
+| spacenews | 5 | 16 | 22 | 44 |
 | nyt | 1 | 1 | 19 | 31 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2711,3 +2711,4 @@
 - **Mar 28, 12:09 PM** - NASA Sets Out New Plans and Timelines for Moon Base and Nuclear Mars Mission (nyt)
 - **Mar 28, 12:44 PM** - India’s Bellatrix raises $20 million following overseas expansion drive (spacenews)
 - **Mar 28, 01:19 PM** - Did Scientists Just Detect an Exploding Black Hole? (nyt)
+- **Mar 28, 01:54 PM** - SpaceEye-T: 25 cm Satellite Imagery and Tasking Now Available Through Pacific Geomatics Limited (spacenews)
