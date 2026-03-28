@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 9 | 20 | 43 |
+| spacenews | 2 | 9 | 21 | 44 |
 | nyt | 0 | 1 | 20 | 38 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2725,3 +2725,4 @@
 - **Mar 28, 08:19 PM** - NASA Sets Out New Plans and Timelines for Moon Base and Nuclear Mars Mission (nyt)
 - **Mar 28, 08:54 PM** - Starfish Space finds a new partner for docking demonstration mission (spacenews)
 - **Mar 28, 09:29 PM** - Did Scientists Just Detect an Exploding Black Hole? (nyt)
+- **Mar 28, 10:24 PM** - Sift raises $42 million in Series B round (spacenews)
