@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 17 | 22 | 44 |
+| spacenews | 8 | 18 | 23 | 45 |
 | nyt | 1 | 1 | 18 | 30 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2689,3 +2689,4 @@
 - **Mar 27, 11:14 PM** - China’s Astronstone raises $29 million for reusable rocket with chopstick-style recovery (spacenews)
 - **Mar 27, 11:49 PM** - A Meteor Exploded Over Ohio. Then the Hunt for Meteorites Began. (nyt)
 - **Mar 28, 12:24 AM** - Terran Orbital Introduces New Star Tracker Product Line at SATSHOW 2026 (spacenews)
+- **Mar 28, 12:59 AM** - Artemis 2 astronauts arrive at KSC (spacenews)
