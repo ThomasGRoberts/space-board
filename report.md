@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 10 | 21 | 45 |
-| nyt | 0 | 1 | 20 | 36 |
+| nyt | 0 | 1 | 20 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2722,3 +2722,4 @@
 - **Mar 28, 06:34 PM** - OrbitsIQ Global Announces Breakthrough in Space-Based IoT Connectivity (spacenews)
 - **Mar 28, 07:09 PM** - Did Scientists Just Detect an Exploding Black Hole? (nyt)
 - **Mar 28, 07:44 PM** - Musk wants to go to the moon. But how will he build his ‘self-growing city’? (spacenews)
+- **Mar 28, 08:19 PM** - NASA Sets Out New Plans and Timelines for Moon Base and Nuclear Mars Mission (nyt)
