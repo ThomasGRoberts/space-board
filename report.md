@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 16 | 21 | 45 |
+| spacenews | 4 | 16 | 22 | 46 |
 | nyt | 0 | 1 | 19 | 33 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2715,3 +2715,4 @@
 - **Mar 28, 02:29 PM** - A Meteor Exploded Over Ohio. Then the Hunt for Meteorites Began. (nyt)
 - **Mar 28, 03:04 PM** - York Space rides defense demand as procurement changes cloud outlook (spacenews)
 - **Mar 28, 03:39 PM** - NASA Adds Moon Base and Nuclear-Powered Mars Spacecraft to Road Map (nyt)
+- **Mar 28, 04:14 PM** - Terran Orbital Introduces New Star Tracker Product Line at SATSHOW 2026 (spacenews)
