@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 18 | 22 | 44 |
+| spacenews | 7 | 18 | 23 | 45 |
 | nyt | 1 | 1 | 18 | 30 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2703,3 +2703,4 @@
 - **Mar 28, 07:29 AM** - How Do You Measure Snow From Space? First, Climb a Mountain. (nyt)
 - **Mar 28, 08:04 AM** - NASA proposes new strategy for commercial space stations (spacenews)
 - **Mar 28, 08:39 AM** - How Do You Measure Snow From Space? First, Climb a Mountain. (nyt)
+- **Mar 28, 09:14 AM** - Space Development Agency slows satellite launches to focus on on-orbit performance (spacenews)
