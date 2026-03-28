@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 18 | 22 | 45 |
-| nyt | 1 | 1 | 18 | 30 |
+| spacenews | 6 | 17 | 22 | 44 |
+| nyt | 1 | 1 | 19 | 31 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2708,3 +2708,4 @@
 - **Mar 28, 10:24 AM** - Pave Space raises $40 million to develop European heavy kickstage (spacenews)
 - **Mar 28, 10:59 AM** - NASA Adds Moon Base and Nuclear-Powered Mars Spacecraft to Road Map (nyt)
 - **Mar 28, 11:34 AM** - SES orders 28 satellites from K2 Space for next-gen MEO network (spacenews)
+- **Mar 28, 12:09 PM** - NASA Sets Out New Plans and Timelines for Moon Base and Nuclear Mars Mission (nyt)
