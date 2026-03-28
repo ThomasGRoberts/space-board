@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 18 | 22 | 44 |
-| nyt | 1 | 1 | 18 | 30 |
+| nyt | 1 | 1 | 19 | 31 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2704,3 +2704,4 @@
 - **Mar 28, 08:04 AM** - NASA proposes new strategy for commercial space stations (spacenews)
 - **Mar 28, 08:39 AM** - How Do You Measure Snow From Space? First, Climb a Mountain. (nyt)
 - **Mar 28, 09:14 AM** - Space Development Agency slows satellite launches to focus on on-orbit performance (spacenews)
+- **Mar 28, 09:49 AM** - NASA Adds Moon Base and Nuclear-Powered Mars Spacecraft to Road Map (nyt)
