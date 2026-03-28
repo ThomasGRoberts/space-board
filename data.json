@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-28T00:04:33.847609+00:00",
-    "trigger_count": 6,
-    "current_item_id": "28cd436f8becdd163554aeec40ae12c7",
+    "trigger_count": 0,
+    "current_item_id": "a765926322914aed74a406ea9f0d1b6f",
     "data": [
         {
             "id": "cf89f9e02549452536043bb6a44dab79",
@@ -8242,6 +8242,18 @@
             "fetched_datetime": "2026-03-28T20:54:16.656068Z",
             "shown_at": [
                 "2026-03-28T20:54:17.765888Z"
+            ]
+        },
+        {
+            "id": "a765926322914aed74a406ea9f0d1b6f",
+            "source": "nyt",
+            "text": "Astronaut’s Condition That Led to Space Station Evacuation Remains a Mystery",
+            "source_link": "https://www.nytimes.com/2026/03/28/science/space/nasa-astronaut-medical-evaluation.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-28T22:59:08.918818Z",
+            "shown_at": [
+                "2026-03-28T22:59:10.182286Z"
             ]
         }
     ]

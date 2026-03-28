@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 9 | 21 | 43 |
-| nyt | 0 | 1 | 19 | 38 |
+| nyt | 1 | 2 | 20 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2726,3 +2726,4 @@
 - **Mar 28, 08:54 PM** - Starfish Space finds a new partner for docking demonstration mission (spacenews)
 - **Mar 28, 09:29 PM** - Did Scientists Just Detect an Exploding Black Hole? (nyt)
 - **Mar 28, 10:24 PM** - Sift raises $42 million in Series B round (spacenews)
+- **Mar 28, 10:59 PM** - Astronaut’s Condition That Led to Space Station Evacuation Remains a Mystery (nyt)
