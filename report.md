@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 11 | 21 | 44 |
-| nyt | 0 | 1 | 20 | 37 |
+| nyt | 0 | 1 | 20 | 38 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2724,3 +2724,4 @@
 - **Mar 28, 07:44 PM** - Musk wants to go to the moon. But how will he build his ‘self-growing city’? (spacenews)
 - **Mar 28, 08:19 PM** - NASA Sets Out New Plans and Timelines for Moon Base and Nuclear Mars Mission (nyt)
 - **Mar 28, 08:54 PM** - Starfish Space finds a new partner for docking demonstration mission (spacenews)
+- **Mar 28, 09:29 PM** - Did Scientists Just Detect an Exploding Black Hole? (nyt)
