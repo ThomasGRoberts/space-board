@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 18 | 22 | 45 |
-| nyt | 1 | 1 | 18 | 30 |
+| spacenews | 6 | 18 | 22 | 44 |
+| nyt | 1 | 1 | 19 | 31 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2706,3 +2706,4 @@
 - **Mar 28, 09:14 AM** - Space Development Agency slows satellite launches to focus on on-orbit performance (spacenews)
 - **Mar 28, 09:49 AM** - NASA Adds Moon Base and Nuclear-Powered Mars Spacecraft to Road Map (nyt)
 - **Mar 28, 10:24 AM** - Pave Space raises $40 million to develop European heavy kickstage (spacenews)
+- **Mar 28, 10:59 AM** - NASA Adds Moon Base and Nuclear-Powered Mars Spacecraft to Road Map (nyt)
