@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 20 | 39 |
-| spacenews | 2 | 7 | 20 | 42 |
+| spacenews | 2 | 7 | 21 | 43 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2726,3 +2726,4 @@
 - **Mar 29, 12:59 PM** - NASA Sets Out New Plans and Timelines for Moon Base and Nuclear Mars Mission (nyt)
 - **Mar 29, 01:34 PM** - Commercial Space Federation (CSF) Welcomes Two New Associate Members (spacenews)
 - **Mar 29, 02:09 PM** - NASA Sets Out New Plans and Timelines for Moon Base and Nuclear Mars Mission (nyt)
+- **Mar 29, 02:44 PM** - The software behind Artemis, Gateway and America’s defense in space deserves its own strategy (spacenews)
