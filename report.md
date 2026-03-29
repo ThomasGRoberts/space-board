@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 20 | 39 |
-| spacenews | 2 | 7 | 20 | 42 |
+| spacenews | 2 | 7 | 21 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2724,3 +2724,4 @@
 - **Mar 29, 11:49 AM** - Did Scientists Just Detect an Exploding Black Hole? (nyt)
 - **Mar 29, 12:24 PM** - NASA to test nuclear electric propulsion with 2028 mission to Mars (spacenews)
 - **Mar 29, 12:59 PM** - NASA Sets Out New Plans and Timelines for Moon Base and Nuclear Mars Mission (nyt)
+- **Mar 29, 01:34 PM** - Commercial Space Federation (CSF) Welcomes Two New Associate Members (spacenews)
