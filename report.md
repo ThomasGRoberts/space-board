@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 20 | 40 |
+| nyt | 2 | 2 | 21 | 41 |
 | spacenews | 2 | 3 | 20 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2736,3 +2736,4 @@
 - **Mar 29, 06:49 PM** - Space Force weighs launch alternatives as Vulcan faces potential months-long grounding (spacenews)
 - **Mar 29, 07:24 PM** - How Do You Measure Snow From Space? First, Climb a Mountain. (nyt)
 - **Mar 29, 07:59 PM** - Geopolitical shifts bring opportunities and headaches for satellite execs (spacenews)
+- **Mar 29, 08:34 PM** - Astronaut’s Condition That Led to Space Station Evacuation Remains a Mystery (nyt)
