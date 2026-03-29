@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 20 | 38 |
-| spacenews | 1 | 9 | 20 | 43 |
+| spacenews | 1 | 9 | 21 | 43 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2704,3 +2704,4 @@
 - **Mar 29, 12:09 AM** - Did Scientists Just Detect an Exploding Black Hole? (nyt)
 - **Mar 29, 12:44 AM** - Industry says proposed NASA changes to commercial space station plans create confusion (spacenews)
 - **Mar 29, 01:19 AM** - Astronaut’s Condition That Led to Space Station Evacuation Remains a Mystery (nyt)
+- **Mar 29, 01:54 AM** - Commercial Space Federation (CSF) Welcomes Two New Associate Members (spacenews)
