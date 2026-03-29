@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 20 | 39 |
+| nyt | 1 | 1 | 21 | 40 |
 | spacenews | 2 | 6 | 20 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2731,3 +2731,4 @@
 - **Mar 29, 03:54 PM** - ‘Shots on goal and win the game’: NASA’s effort to accelerate lunar landings (spacenews)
 - **Mar 29, 04:29 PM** - A Meteor Exploded Over Ohio. Then the Hunt for Meteorites Began. (nyt)
 - **Mar 29, 05:04 PM** - Commercial Space Federation (CSF) Welcomes Two New Associate Members (spacenews)
+- **Mar 29, 05:39 PM** - Astronaut’s Condition That Led to Space Station Evacuation Remains a Mystery (nyt)
