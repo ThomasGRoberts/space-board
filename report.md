@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 20 | 38 |
-| spacenews | 1 | 9 | 20 | 43 |
+| spacenews | 1 | 9 | 21 | 43 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2714,3 +2714,4 @@
 - **Mar 29, 05:59 AM** - NASA Sets Out New Plans and Timelines for Moon Base and Nuclear Mars Mission (nyt)
 - **Mar 29, 06:34 AM** - Sift raises $42 million in Series B round (spacenews)
 - **Mar 29, 07:09 AM** - NASA Adds Moon Base and Nuclear-Powered Mars Spacecraft to Road Map (nyt)
+- **Mar 29, 07:44 AM** - York Space rides defense demand as procurement changes cloud outlook (spacenews)
