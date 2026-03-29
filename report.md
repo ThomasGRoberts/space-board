@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 21 | 40 |
-| spacenews | 2 | 5 | 19 | 41 |
+| spacenews | 2 | 5 | 20 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2733,3 +2733,4 @@
 - **Mar 29, 05:04 PM** - Commercial Space Federation (CSF) Welcomes Two New Associate Members (spacenews)
 - **Mar 29, 05:39 PM** - Astronaut’s Condition That Led to Space Station Evacuation Remains a Mystery (nyt)
 - **Mar 29, 06:14 PM** - For NASA’s Artemis II Crew, Journey to the Moon ‘Starting to Feel Real’ (nyt)
+- **Mar 29, 06:49 PM** - Space Force weighs launch alternatives as Vulcan faces potential months-long grounding (spacenews)
