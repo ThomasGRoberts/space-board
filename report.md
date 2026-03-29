@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 2 | 20 | 38 |
+| nyt | 1 | 2 | 21 | 38 |
 | spacenews | 1 | 9 | 20 | 43 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2715,3 +2715,4 @@
 - **Mar 29, 06:34 AM** - Sift raises $42 million in Series B round (spacenews)
 - **Mar 29, 07:09 AM** - NASA Adds Moon Base and Nuclear-Powered Mars Spacecraft to Road Map (nyt)
 - **Mar 29, 07:44 AM** - York Space rides defense demand as procurement changes cloud outlook (spacenews)
+- **Mar 29, 08:19 AM** - How Do You Measure Snow From Space? First, Climb a Mountain. (nyt)
