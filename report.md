@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 21 | 41 |
-| spacenews | 2 | 3 | 19 | 40 |
+| spacenews | 2 | 3 | 20 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2735,3 +2735,4 @@
 - **Mar 29, 06:14 PM** - For NASA’s Artemis II Crew, Journey to the Moon ‘Starting to Feel Real’ (nyt)
 - **Mar 29, 06:49 PM** - Space Force weighs launch alternatives as Vulcan faces potential months-long grounding (spacenews)
 - **Mar 29, 07:24 PM** - How Do You Measure Snow From Space? First, Climb a Mountain. (nyt)
+- **Mar 29, 07:59 PM** - Geopolitical shifts bring opportunities and headaches for satellite execs (spacenews)
