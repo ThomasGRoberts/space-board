@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-29T00:04:48.032948+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7f779b7a48acad9563afd12c3b256099",
+    "trigger_count": 0,
+    "current_item_id": "ca79f6e720c86e5d413b6f5d289ed657",
     "data": [
         {
             "id": "a765926322914aed74a406ea9f0d1b6f",
@@ -8212,6 +8212,18 @@
                 "2026-01-18T11:14:13.640364Z",
                 "2026-01-21T03:34:18.767993Z",
                 "2026-01-21T23:54:10.644505Z"
+            ]
+        },
+        {
+            "id": "ca79f6e720c86e5d413b6f5d289ed657",
+            "source": "spacenews",
+            "text": "‘Shots on goal and win the game’: NASA’s effort to accelerate lunar landings",
+            "source_link": "https://spacenews.com/shots-on-goal-and-win-the-game-nasas-effort-to-accelerate-lunar-landings/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-29T10:04:32.401289Z",
+            "shown_at": [
+                "2026-03-29T10:04:33.641915Z"
             ]
         }
     ]
