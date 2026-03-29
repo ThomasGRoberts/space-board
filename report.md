@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 20 | 38 |
-| spacenews | 1 | 9 | 20 | 43 |
+| spacenews | 1 | 9 | 21 | 44 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2710,3 +2710,4 @@
 - **Mar 29, 03:39 AM** - How Do You Measure Snow From Space? First, Climb a Mountain. (nyt)
 - **Mar 29, 04:14 AM** - Moog taps Redwire to provide solar arrays for Meteor (spacenews)
 - **Mar 29, 04:49 AM** - Astronaut’s Condition That Led to Space Station Evacuation Remains a Mystery (nyt)
+- **Mar 29, 05:24 AM** - Swissto12 to build small optical relay GEO satellite for Space Compass (spacenews)
