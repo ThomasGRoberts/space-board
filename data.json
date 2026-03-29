@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-29T00:04:48.032948+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a765926322914aed74a406ea9f0d1b6f",
+    "trigger_count": 0,
+    "current_item_id": "eade144e34de43ba945939a9ee40f378",
     "data": [
         {
             "id": "a765926322914aed74a406ea9f0d1b6f",
@@ -8237,6 +8237,18 @@
             "shown_at": [
                 "2026-03-29T10:04:33.641915Z",
                 "2026-03-29T15:54:40.437622Z"
+            ]
+        },
+        {
+            "id": "eade144e34de43ba945939a9ee40f378",
+            "source": "nyt",
+            "text": "For NASA’s Artemis II Crew, Journey to the Moon ‘Starting to Feel Real’",
+            "source_link": "https://www.nytimes.com/2026/03/29/science/nasa-astronauts-artemis-moon-launch.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-29T18:14:39.746804Z",
+            "shown_at": [
+                "2026-03-29T18:14:40.829450Z"
             ]
         }
     ]
