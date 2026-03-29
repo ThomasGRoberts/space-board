@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 2 | 20 | 38 |
-| spacenews | 1 | 8 | 20 | 43 |
+| nyt | 1 | 2 | 21 | 39 |
+| spacenews | 1 | 7 | 20 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2717,3 +2717,4 @@
 - **Mar 29, 07:44 AM** - York Space rides defense demand as procurement changes cloud outlook (spacenews)
 - **Mar 29, 08:19 AM** - How Do You Measure Snow From Space? First, Climb a Mountain. (nyt)
 - **Mar 29, 08:54 AM** - York Space rides defense demand as procurement changes cloud outlook (spacenews)
+- **Mar 29, 09:29 AM** - A Meteor Exploded Over Ohio. Then the Hunt for Meteorites Began. (nyt)
