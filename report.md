@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 13 | 24 | 45 |
-| nyt | 1 | 3 | 16 | 36 |
+| nyt | 1 | 3 | 17 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2770,3 +2770,4 @@
 - **Mar 30, 08:14 PM** - Varda flies navigation payload, heat shield tests on sixth reentry mission (spacenews)
 - **Mar 30, 08:49 PM** - Did Scientists Just Detect an Exploding Black Hole? (nyt)
 - **Mar 30, 09:24 PM** - Rocket Lab wins German approval for Mynaric deal (spacenews)
+- **Mar 30, 09:59 PM** - NASA Adds Moon Base and Nuclear-Powered Mars Spacecraft to Road Map (nyt)
