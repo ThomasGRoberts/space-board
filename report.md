@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 20 | 40 |
+| spacenews | 2 | 3 | 21 | 41 |
 | nyt | 1 | 2 | 21 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2735,3 +2735,4 @@
 - **Mar 29, 11:29 PM** - A Meteor Exploded Over Ohio. Then the Hunt for Meteorites Began. (nyt)
 - **Mar 30, 12:04 AM** - Geopolitical shifts bring opportunities and headaches for satellite execs (spacenews)
 - **Mar 30, 12:39 AM** - Astronaut’s Condition That Led to Space Station Evacuation Remains a Mystery (nyt)
+- **Mar 30, 01:14 AM** - Terran Orbital Introduces New Star Tracker Product Line at SATSHOW 2026 (spacenews)
