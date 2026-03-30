@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 7 | 22 | 42 |
+| spacenews | 6 | 8 | 23 | 43 |
 | nyt | 2 | 3 | 18 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2757,3 +2757,4 @@
 - **Mar 30, 12:39 PM** - Science finds a place on Artemis 2 (spacenews)
 - **Mar 30, 01:14 PM** - The race to build orbital data centers is missing its biggest variable: power (spacenews)
 - **Mar 30, 01:49 PM** - With Voyager’s help, Icarus Robotics to test free-flyer on ISS (spacenews)
+- **Mar 30, 02:24 PM** - Pentagon weighing termination of Raytheon GPS ground control contract after years of delays (spacenews)

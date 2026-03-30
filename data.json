@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-30T00:04:28.432860+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1ca645f6c4cab3cdd008869a247d0f31",
+    "trigger_count": 0,
+    "current_item_id": "bd3f72003821d7d670d07f4196b0b185",
     "data": [
         {
             "id": "5f8deac832e31e47cc8887264210a541",
@@ -8306,6 +8306,18 @@
             "fetched_datetime": "2026-03-30T13:14:30.682353Z",
             "shown_at": [
                 "2026-03-30T13:49:39.366409Z"
+            ]
+        },
+        {
+            "id": "bd3f72003821d7d670d07f4196b0b185",
+            "source": "spacenews",
+            "text": "Pentagon weighing termination of Raytheon GPS ground control contract after years of delays",
+            "source_link": "https://spacenews.com/pentagon-weighing-termination-of-raytheon-gps-ground-control-contract-after-years-of-delays/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-30T14:24:23.533838Z",
+            "shown_at": [
+                "2026-03-30T14:24:24.503944Z"
             ]
         }
     ]
