@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 20 | 40 |
+| spacenews | 2 | 3 | 21 | 41 |
 | nyt | 1 | 2 | 20 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2749,3 +2749,4 @@
 - **Mar 30, 07:44 AM** - How Do You Measure Snow From Space? First, Climb a Mountain. (nyt)
 - **Mar 30, 08:19 AM** - India’s Bellatrix raises $20 million following overseas expansion drive (spacenews)
 - **Mar 30, 09:09 AM** - NASA Sets Out New Plans and Timelines for Moon Base and Nuclear Mars Mission (nyt)
+- **Mar 30, 09:44 AM** - Moog taps Redwire to provide solar arrays for Meteor (spacenews)
