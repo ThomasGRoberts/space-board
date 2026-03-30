@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-30T00:04:28.432860+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2b9f7441aedc905f5c6c50af30f3fcb7",
+    "trigger_count": 0,
+    "current_item_id": "d7471cebf684741c294ded1d901c6ddb",
     "data": [
         {
             "id": "5f8deac832e31e47cc8887264210a541",
@@ -8331,6 +8331,18 @@
             "fetched_datetime": "2026-03-30T15:34:41.710251Z",
             "shown_at": [
                 "2026-03-30T15:34:42.915388Z"
+            ]
+        },
+        {
+            "id": "d7471cebf684741c294ded1d901c6ddb",
+            "source": "spacenews",
+            "text": "China’s Kinetica-2 rocket debuts successfully, sending prototype cargo spacecraft to orbit",
+            "source_link": "https://spacenews.com/chinas-kinetica-2-rocket-debuts-successfully-sending-prototype-cargo-spacecraft-to-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-30T16:09:23.258610Z",
+            "shown_at": [
+                "2026-03-30T16:09:24.381165Z"
             ]
         }
     ]

@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 9 | 22 | 43 |
+| spacenews | 8 | 10 | 23 | 44 |
 | nyt | 2 | 3 | 18 | 38 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2760,3 +2760,4 @@
 - **Mar 30, 02:24 PM** - Pentagon weighing termination of Raytheon GPS ground control contract after years of delays (spacenews)
 - **Mar 30, 02:59 PM** - NASA Is Launching Astronauts to the Moon, but Americans Aren’t That Excited (nyt)
 - **Mar 30, 03:34 PM** - The race to build orbital data centers is missing its biggest variable: power (spacenews)
+- **Mar 30, 04:09 PM** - China’s Kinetica-2 rocket debuts successfully, sending prototype cargo spacecraft to orbit (spacenews)
