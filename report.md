@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 5 | 21 | 41 |
+| spacenews | 5 | 7 | 22 | 42 |
 | nyt | 2 | 3 | 19 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2755,3 +2755,4 @@
 - **Mar 30, 11:29 AM** - NASA Is Launching Astronauts to the Moon, but Americans Aren’t That Excited (nyt)
 - **Mar 30, 12:04 PM** - Starcloud achieves unicorn status with $170 million raise for orbital data centers (spacenews)
 - **Mar 30, 12:39 PM** - Science finds a place on Artemis 2 (spacenews)
+- **Mar 30, 01:14 PM** - The race to build orbital data centers is missing its biggest variable: power (spacenews)
