@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 12 | 24 | 44 |
+| spacenews | 10 | 12 | 25 | 45 |
 | nyt | 1 | 3 | 16 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2764,3 +2764,4 @@
 - **Mar 30, 04:44 PM** - SpaceX launches Transporter-16 rideshare mission (spacenews)
 - **Mar 30, 05:19 PM** - ESA launches first Celeste satellites to test complementary LEO navigation layer (spacenews)
 - **Mar 30, 05:54 PM** - Astronaut’s Condition That Led to Space Station Evacuation Remains a Mystery (nyt)
+- **Mar 30, 06:29 PM** - China’s Astronstone raises $29 million for reusable rocket with chopstick-style recovery (spacenews)
