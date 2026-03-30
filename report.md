@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 21 | 41 |
-| nyt | 1 | 2 | 20 | 40 |
+| spacenews | 2 | 3 | 20 | 41 |
+| nyt | 1 | 2 | 21 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2746,3 +2746,4 @@
 - **Mar 30, 05:59 AM** - Arianespace to launch Katalyst servicing spacecraft (spacenews)
 - **Mar 30, 06:34 AM** - NASA Adds Moon Base and Nuclear-Powered Mars Spacecraft to Road Map (nyt)
 - **Mar 30, 07:09 AM** - ispace redesigns lunar lander, introduces lunar communications service (spacenews)
+- **Mar 30, 07:44 AM** - How Do You Measure Snow From Space? First, Climb a Mountain. (nyt)
