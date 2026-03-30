@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-30T00:04:28.432860+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2b9f7441aedc905f5c6c50af30f3fcb7",
+    "trigger_count": 0,
+    "current_item_id": "a5b1ed4a045ed2b757bdf59c7b5e0dff",
     "data": [
         {
             "id": "5f8deac832e31e47cc8887264210a541",
@@ -8371,6 +8371,18 @@
             "fetched_datetime": "2026-03-30T17:19:15.706000Z",
             "shown_at": [
                 "2026-03-30T17:19:16.835854Z"
+            ]
+        },
+        {
+            "id": "a5b1ed4a045ed2b757bdf59c7b5e0dff",
+            "source": "spacenews",
+            "text": "Varda flies navigation payload, heat shield tests on sixth reentry mission",
+            "source_link": "https://spacenews.com/varda-flies-navigation-payload-heat-shield-tests-on-sixth-reentry-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-30T20:14:24.823526Z",
+            "shown_at": [
+                "2026-03-30T20:14:25.953524Z"
             ]
         }
     ]
