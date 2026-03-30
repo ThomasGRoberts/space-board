@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-30T00:04:28.432860+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e66f1b7b902578dea4ad5fa6f04d1218",
+    "trigger_count": 0,
+    "current_item_id": "323cfb3ba041f605efe31231b5a1d3a9",
     "data": [
         {
             "id": "5f8deac832e31e47cc8887264210a541",
@@ -8259,6 +8259,27 @@
             "shown_at": [
                 "2026-03-30T11:29:09.159046Z"
             ]
+        },
+        {
+            "id": "323cfb3ba041f605efe31231b5a1d3a9",
+            "source": "spacenews",
+            "text": "Starcloud achieves unicorn status with $170 million raise for orbital data centers",
+            "source_link": "https://spacenews.com/starcloud-achieves-unicorn-status-with-170-million-raise-for-orbital-data-centers/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-30T12:04:38.814222Z",
+            "shown_at": [
+                "2026-03-30T12:04:40.480758Z"
+            ]
+        },
+        {
+            "id": "fb0f88d385051809f26f38ab8b588972",
+            "source": "spacenews",
+            "text": "Science finds a place on Artemis 2",
+            "source_link": "https://spacenews.com/science-finds-a-place-on-artemis-2/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-03-30T12:04:38.814294Z"
         }
     ]
 }
