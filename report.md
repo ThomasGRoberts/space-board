@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 12 | 24 | 44 |
-| nyt | 1 | 3 | 16 | 37 |
+| nyt | 1 | 3 | 17 | 38 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2765,3 +2765,4 @@
 - **Mar 30, 05:19 PM** - ESA launches first Celeste satellites to test complementary LEO navigation layer (spacenews)
 - **Mar 30, 05:54 PM** - Astronaut’s Condition That Led to Space Station Evacuation Remains a Mystery (nyt)
 - **Mar 30, 06:29 PM** - China’s Astronstone raises $29 million for reusable rocket with chopstick-style recovery (spacenews)
+- **Mar 30, 07:04 PM** - NASA Is Launching Astronauts to the Moon, but Americans Aren’t That Excited (nyt)
