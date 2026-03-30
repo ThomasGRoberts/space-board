@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 13 | 25 | 45 |
-| nyt | 1 | 3 | 15 | 36 |
+| nyt | 1 | 3 | 16 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2768,3 +2768,4 @@
 - **Mar 30, 07:04 PM** - NASA Is Launching Astronauts to the Moon, but Americans Aren’t That Excited (nyt)
 - **Mar 30, 07:39 PM** - The race to build orbital data centers is missing its biggest variable: power (spacenews)
 - **Mar 30, 08:14 PM** - Varda flies navigation payload, heat shield tests on sixth reentry mission (spacenews)
+- **Mar 30, 08:49 PM** - Did Scientists Just Detect an Exploding Black Hole? (nyt)
