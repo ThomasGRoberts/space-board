@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 13 | 24 | 44 |
+| spacenews | 11 | 13 | 25 | 45 |
 | nyt | 1 | 2 | 16 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2773,3 +2773,4 @@
 - **Mar 30, 09:59 PM** - NASA Adds Moon Base and Nuclear-Powered Mars Spacecraft to Road Map (nyt)
 - **Mar 30, 10:34 PM** - Space Force officer shares intelligence on threats to space systems (spacenews)
 - **Mar 30, 11:09 PM** - Astronaut’s Condition That Led to Space Station Evacuation Remains a Mystery (nyt)
+- **Mar 30, 11:44 PM** - Space Command begins phased move to Alabama  (spacenews)
