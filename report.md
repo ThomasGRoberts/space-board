@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 11 | 23 | 44 |
+| spacenews | 10 | 12 | 24 | 45 |
 | nyt | 2 | 3 | 17 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2762,3 +2762,4 @@
 - **Mar 30, 03:34 PM** - The race to build orbital data centers is missing its biggest variable: power (spacenews)
 - **Mar 30, 04:09 PM** - China’s Kinetica-2 rocket debuts successfully, sending prototype cargo spacecraft to orbit (spacenews)
 - **Mar 30, 04:44 PM** - SpaceX launches Transporter-16 rideshare mission (spacenews)
+- **Mar 30, 05:19 PM** - ESA launches first Celeste satellites to test complementary LEO navigation layer (spacenews)
