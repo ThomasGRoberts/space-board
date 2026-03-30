@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-30T00:04:28.432860+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e66f1b7b902578dea4ad5fa6f04d1218",
+    "trigger_count": 0,
+    "current_item_id": "2b9f7441aedc905f5c6c50af30f3fcb7",
     "data": [
         {
             "id": "5f8deac832e31e47cc8887264210a541",
@@ -8319,6 +8319,18 @@
             "fetched_datetime": "2026-03-30T14:24:23.533838Z",
             "shown_at": [
                 "2026-03-30T14:24:24.503944Z"
+            ]
+        },
+        {
+            "id": "2b9f7441aedc905f5c6c50af30f3fcb7",
+            "source": "spacenews",
+            "text": "The race to build orbital data centers is missing its biggest variable: power",
+            "source_link": "https://spacenews.com/the-race-to-build-orbital-data-centers-is-missing-its-biggest-variable-power/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-30T15:34:41.710251Z",
+            "shown_at": [
+                "2026-03-30T15:34:42.915388Z"
             ]
         }
     ]
