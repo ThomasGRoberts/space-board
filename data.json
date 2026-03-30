@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-30T00:04:28.432860+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f6d7256e2c73d9d5cb072c485bf28592",
+    "trigger_count": 0,
+    "current_item_id": "1ca645f6c4cab3cdd008869a247d0f31",
     "data": [
         {
             "id": "5f8deac832e31e47cc8887264210a541",
@@ -8301,9 +8301,12 @@
             "source": "spacenews",
             "text": "With Voyager’s help, Icarus Robotics to test free-flyer on ISS",
             "source_link": "https://spacenews.com/with-voyagers-help-icarus-robotics-to-test-free-flyer-on-iss/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-03-30T13:14:30.682353Z"
+            "fetched_datetime": "2026-03-30T13:14:30.682353Z",
+            "shown_at": [
+                "2026-03-30T13:49:39.366409Z"
+            ]
         }
     ]
 }

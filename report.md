@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 7 | 21 | 42 |
+| spacenews | 5 | 7 | 22 | 43 |
 | nyt | 2 | 3 | 19 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2756,3 +2756,4 @@
 - **Mar 30, 12:04 PM** - Starcloud achieves unicorn status with $170 million raise for orbital data centers (spacenews)
 - **Mar 30, 12:39 PM** - Science finds a place on Artemis 2 (spacenews)
 - **Mar 30, 01:14 PM** - The race to build orbital data centers is missing its biggest variable: power (spacenews)
+- **Mar 30, 01:49 PM** - With Voyager’s help, Icarus Robotics to test free-flyer on ISS (spacenews)
