@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 12 | 24 | 45 |
+| spacenews | 10 | 12 | 24 | 44 |
 | nyt | 2 | 3 | 17 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
