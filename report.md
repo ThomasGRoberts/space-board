@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 21 | 41 |
-| nyt | 1 | 2 | 20 | 40 |
+| nyt | 1 | 2 | 21 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2742,3 +2742,4 @@
 - **Mar 30, 03:34 AM** - Turning growth into profits remains a challenge as space demand grows (spacenews)
 - **Mar 30, 04:09 AM** - For NASA’s Artemis II Crew, Journey to the Moon ‘Starting to Feel Real’ (nyt)
 - **Mar 30, 04:44 AM** - Amazon Leo targets faster deployment cadence as deadline pressure mounts (spacenews)
+- **Mar 30, 05:19 AM** - How Do You Measure Snow From Space? First, Climb a Mountain. (nyt)
