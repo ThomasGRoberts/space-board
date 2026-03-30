@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 20 | 41 |
-| nyt | 1 | 2 | 20 | 40 |
+| nyt | 2 | 3 | 21 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2752,3 +2752,4 @@
 - **Mar 30, 09:44 AM** - Moog taps Redwire to provide solar arrays for Meteor (spacenews)
 - **Mar 30, 10:19 AM** - NASA Sets Out New Plans and Timelines for Moon Base and Nuclear Mars Mission (nyt)
 - **Mar 30, 10:54 AM** - SpaceEye-T: 25 cm Satellite Imagery and Tasking Now Available Through Pacific Geomatics Limited (spacenews)
+- **Mar 30, 11:29 AM** - NASA Is Launching Astronauts to the Moon, but Americans Aren’t That Excited (nyt)

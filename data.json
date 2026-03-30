@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-30T00:04:28.432860+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b015b39471cf6fb4d247311fe97ede47",
+    "trigger_count": 0,
+    "current_item_id": "e66f1b7b902578dea4ad5fa6f04d1218",
     "data": [
         {
             "id": "5f8deac832e31e47cc8887264210a541",
@@ -8246,6 +8246,18 @@
                 "2026-01-19T05:54:23.758795Z",
                 "2026-01-20T00:54:47.841611Z",
                 "2026-01-20T04:28:50.383183Z"
+            ]
+        },
+        {
+            "id": "e66f1b7b902578dea4ad5fa6f04d1218",
+            "source": "nyt",
+            "text": "NASA Is Launching Astronauts to the Moon, but Americans Aren’t That Excited",
+            "source_link": "https://www.nytimes.com/2026/03/30/science/nasa-astronauts-moon-americans-mood.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-30T11:29:08.041288Z",
+            "shown_at": [
+                "2026-03-30T11:29:09.159046Z"
             ]
         }
     ]
