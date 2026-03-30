@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 5 | 20 | 41 |
+| spacenews | 3 | 5 | 21 | 42 |
 | nyt | 2 | 3 | 20 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2754,3 +2754,4 @@
 - **Mar 30, 10:54 AM** - SpaceEye-T: 25 cm Satellite Imagery and Tasking Now Available Through Pacific Geomatics Limited (spacenews)
 - **Mar 30, 11:29 AM** - NASA Is Launching Astronauts to the Moon, but Americans Aren’t That Excited (nyt)
 - **Mar 30, 12:04 PM** - Starcloud achieves unicorn status with $170 million raise for orbital data centers (spacenews)
+- **Mar 30, 12:39 PM** - Science finds a place on Artemis 2 (spacenews)
