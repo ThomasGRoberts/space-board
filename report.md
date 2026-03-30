@@ -2,15 +2,12 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
+| spacenews | 2 | 4 | 21 | 42 |
 | nyt | 1 | 2 | 21 | 40 |
-| spacenews | 2 | 4 | 20 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
 
-- **Jan 15, 02:58 PM** - TrustPoint demonstrates non-GPS navigation for LEO satellites (spacenews)
-- **Jan 15, 03:45 PM** - Portal Space selects ‘Space Armor’ debris shield for 2026 mission (spacenews)
-- **Jan 15, 05:00 PM** - Parsons buys Altamira for $375 million to expand space and intelligence portfolio (spacenews)
 - **Jan 15, 09:14 PM** - Arianespace to begin Amazon Leo launches in February (spacenews)
 - **Jan 16, 12:44 AM** - Congress passes minibus spending bill that rejects proposed NASA cuts (spacenews)
 - **Jan 16, 10:54 AM** - China launches AlSat-3A for Algeria, Ceres-1 sea launch adds to Tianqi constellation (spacenews)
@@ -22,7 +19,6 @@
 - **Jan 16, 06:39 PM** - China conducts static fire test of new reusable Long March 12B rocket (spacenews)
 - **Jan 16, 07:19 PM** - Isar Aerospace sets date for second Spectrum launch (spacenews)
 - **Jan 16, 10:59 PM** - Indra Group writes off damaged SpainSat NG 2 (spacenews)
-- **Jan 17, 02:34 AM** - TrustPoint demonstrates non-GPS navigation for LEO satellites (spacenews)
 - **Jan 17, 03:44 AM** - The state of play in military space (breaking_defense)
 - **Jan 17, 05:29 AM** - The state of play in military space (breaking_defense)
 - **Jan 17, 10:59 AM** - China hit by dual launch failures as Long March 3B and Ceres-2 debut mission fail (spacenews)
@@ -36,20 +32,17 @@
 - **Jan 18, 05:19 AM** - The state of play in military space (breaking_defense)
 - **Jan 18, 05:54 AM** - China hit by dual launch failures as Long March 3B and Ceres-2 debut mission fail (spacenews)
 - **Jan 18, 06:28 AM** - Artemis II Moon Mission: NASA Completes Giant Rocket’s Slow Ride to Launchpad (nyt)
-- **Jan 18, 11:14 AM** - TrustPoint demonstrates non-GPS navigation for LEO satellites (spacenews)
 - **Jan 18, 12:24 PM** - The state of play in military space (breaking_defense)
 - **Jan 18, 01:34 PM** - Artemis II Moon Mission: NASA Begins Rolling Giant Rocket to Launchpad (nyt)
 - **Jan 18, 02:09 PM** - The state of play in military space (breaking_defense)
 - **Jan 18, 03:54 PM** - The state of play in military space (breaking_defense)
 - **Jan 18, 05:39 PM** - Eutelsat signs OneWeb launch deal with MaiaSpace (spacenews)
-- **Jan 19, 12:39 AM** - Parsons buys Altamira for $375 million to expand space and intelligence portfolio (spacenews)
 - **Jan 19, 05:54 AM** - Arianespace to begin Amazon Leo launches in February (spacenews)
 - **Jan 19, 09:24 AM** - China advances plans for dual solar system boundary missions (spacenews)
 - **Jan 19, 09:59 AM** - The state of play in military space (breaking_defense)
 - **Jan 19, 11:08 AM** - China launches AlSat-3A for Algeria, Ceres-1 sea launch adds to Tianqi constellation (spacenews)
 - **Jan 19, 01:04 PM** - Space Force ends ‘Resilient GPS’ satellite program (spacenews)
 - **Jan 19, 02:14 PM** - NASA must act now to ensure U.S. leadership in space (spacenews)
-- **Jan 19, 04:04 PM** - Parsons buys Altamira for $375 million to expand space and intelligence portfolio (spacenews)
 - **Jan 19, 07:34 PM** - China advances plans for dual solar system boundary missions (spacenews)
 - **Jan 19, 11:09 PM** - Damaged DSN antenna out of service until May (spacenews)
 - **Jan 19, 11:44 PM** - Artemis II Moon Mission: NASA Begins Rolling Giant Rocket to Launchpad (nyt)
@@ -77,7 +70,6 @@
 - **Jan 20, 10:54 PM** - The state of play in military space (breaking_defense)
 - **Jan 21, 12:39 AM** - FY26 defense bill boosts budget by $8B, largely bypassing last-minute $28B munitions request (breaking_defense)
 - **Jan 21, 02:24 AM** - The state of play in military space (breaking_defense)
-- **Jan 21, 03:34 AM** - TrustPoint demonstrates non-GPS navigation for LEO satellites (spacenews)
 - **Jan 21, 04:09 AM** - FY26 defense bill boosts budget by $8B, largely bypassing last-minute $28B munitions request (breaking_defense)
 - **Jan 21, 05:54 AM** - FY26 defense bill boosts budget by $8B, largely bypassing last-minute $28B munitions request (breaking_defense)
 - **Jan 21, 07:04 AM** - Sodern to produce star trackers in Colorado (spacenews)
@@ -97,7 +89,6 @@
 - **Jan 21, 08:54 PM** - NASA must act now to ensure U.S. leadership in space (spacenews)
 - **Jan 21, 10:04 PM** - Blue Origin plans bespoke high-speed Starlink rival (spacenews)
 - **Jan 21, 10:39 PM** - The state of play in military space (breaking_defense)
-- **Jan 21, 11:54 PM** - TrustPoint demonstrates non-GPS navigation for LEO satellites (spacenews)
 - **Jan 22, 12:29 AM** - SDA taps Starfish for first-of-its-kind satellite disposal service (breaking_defense)
 - **Jan 22, 01:39 AM** - Sodern to produce star trackers in Colorado (spacenews)
 - **Jan 22, 02:14 AM** - The state of play in military space (breaking_defense)
@@ -2742,3 +2733,4 @@
 - **Mar 29, 10:19 PM** - How Do You Measure Snow From Space? First, Climb a Mountain. (nyt)
 - **Mar 29, 10:54 PM** - Space Force officer shares intelligence on threats to space systems (spacenews)
 - **Mar 29, 11:29 PM** - A Meteor Exploded Over Ohio. Then the Hunt for Meteorites Began. (nyt)
+- **Mar 30, 12:04 AM** - Geopolitical shifts bring opportunities and headaches for satellite execs (spacenews)

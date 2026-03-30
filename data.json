@@ -1,9 +1,46 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-03-29T00:04:48.032948+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7f779b7a48acad9563afd12c3b256099",
+    "last_run_datetime": "2026-03-30T00:04:28.432860+00:00",
+    "trigger_count": 0,
+    "current_item_id": "ae630355f9762a4b3ff53b3b97582732",
     "data": [
+        {
+            "id": "5f8deac832e31e47cc8887264210a541",
+            "source": "spacenews",
+            "text": "Satellite imaging industry’s next challenge: getting systems to talk to each other",
+            "source_link": "https://spacenews.com/satellite-imaging-industrys-next-challenge-getting-systems-to-talk-to-each-other/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-29T21:44:36.494767Z",
+            "shown_at": [
+                "2026-03-29T21:44:38.066182Z"
+            ]
+        },
+        {
+            "id": "eade144e34de43ba945939a9ee40f378",
+            "source": "nyt",
+            "text": "For NASA’s Artemis II Crew, Journey to the Moon ‘Starting to Feel Real’",
+            "source_link": "https://www.nytimes.com/2026/03/29/science/nasa-astronauts-artemis-moon-launch.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-29T18:14:39.746804Z",
+            "shown_at": [
+                "2026-03-29T18:14:40.829450Z"
+            ]
+        },
+        {
+            "id": "ca79f6e720c86e5d413b6f5d289ed657",
+            "source": "spacenews",
+            "text": "‘Shots on goal and win the game’: NASA’s effort to accelerate lunar landings",
+            "source_link": "https://spacenews.com/shots-on-goal-and-win-the-game-nasas-effort-to-accelerate-lunar-landings/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-29T10:04:32.401289Z",
+            "shown_at": [
+                "2026-03-29T10:04:33.641915Z",
+                "2026-03-29T15:54:40.437622Z"
+            ]
+        },
         {
             "id": "a765926322914aed74a406ea9f0d1b6f",
             "source": "nyt",
@@ -465,7 +502,8 @@
             "fetched_datetime": "2026-03-24T23:04:46.144214Z",
             "shown_at": [
                 "2026-03-24T23:04:47.419464Z",
-                "2026-03-29T19:59:25.194730Z"
+                "2026-03-29T19:59:25.194730Z",
+                "2026-03-30T00:04:33.736324Z"
             ]
         },
         {
@@ -8190,85 +8228,6 @@
                 "2026-01-19T05:54:23.758795Z",
                 "2026-01-20T00:54:47.841611Z",
                 "2026-01-20T04:28:50.383183Z"
-            ]
-        },
-        {
-            "id": "803992feb0951a9f0266cb4eb42c4a7e",
-            "source": "spacenews",
-            "text": "Parsons buys Altamira for $375 million to expand space and intelligence portfolio",
-            "source_link": "https://spacenews.com/parsons-buys-altamira-for-375-million-to-expand-space-and-intelligence-portfolio/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-15T17:00:06.513670Z",
-            "shown_at": [
-                "2026-01-15T17:00:11.682138Z",
-                "2026-01-19T00:39:06.195100Z",
-                "2026-01-19T16:04:44.203792Z"
-            ]
-        },
-        {
-            "id": "b872655b05fbdbb0dfe0aa6c940cbb02",
-            "source": "spacenews",
-            "text": "Portal Space selects ‘Space Armor’ debris shield for 2026 mission",
-            "source_link": "https://spacenews.com/portal-space-selects-space-armor-debris-shield-for-2026-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-15T14:58:45.003797Z",
-            "shown_at": [
-                "2026-01-15T15:45:13.973773Z"
-            ]
-        },
-        {
-            "id": "6429e3d2ed4f4f24ef7ab7cb65f74cf0",
-            "source": "spacenews",
-            "text": "TrustPoint demonstrates non-GPS navigation for LEO satellites",
-            "source_link": "https://spacenews.com/trustpoint-demonstrates-non-gps-navigation-for-leo-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-15T14:58:45.003742Z",
-            "shown_at": [
-                "2026-01-15T14:58:45.745033Z",
-                "2026-01-17T02:34:54.714620Z",
-                "2026-01-18T11:14:13.640364Z",
-                "2026-01-21T03:34:18.767993Z",
-                "2026-01-21T23:54:10.644505Z"
-            ]
-        },
-        {
-            "id": "ca79f6e720c86e5d413b6f5d289ed657",
-            "source": "spacenews",
-            "text": "‘Shots on goal and win the game’: NASA’s effort to accelerate lunar landings",
-            "source_link": "https://spacenews.com/shots-on-goal-and-win-the-game-nasas-effort-to-accelerate-lunar-landings/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-29T10:04:32.401289Z",
-            "shown_at": [
-                "2026-03-29T10:04:33.641915Z",
-                "2026-03-29T15:54:40.437622Z"
-            ]
-        },
-        {
-            "id": "eade144e34de43ba945939a9ee40f378",
-            "source": "nyt",
-            "text": "For NASA’s Artemis II Crew, Journey to the Moon ‘Starting to Feel Real’",
-            "source_link": "https://www.nytimes.com/2026/03/29/science/nasa-astronauts-artemis-moon-launch.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-29T18:14:39.746804Z",
-            "shown_at": [
-                "2026-03-29T18:14:40.829450Z"
-            ]
-        },
-        {
-            "id": "5f8deac832e31e47cc8887264210a541",
-            "source": "spacenews",
-            "text": "Satellite imaging industry’s next challenge: getting systems to talk to each other",
-            "source_link": "https://spacenews.com/satellite-imaging-industrys-next-challenge-getting-systems-to-talk-to-each-other/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-29T21:44:36.494767Z",
-            "shown_at": [
-                "2026-03-29T21:44:38.066182Z"
             ]
         }
     ]
