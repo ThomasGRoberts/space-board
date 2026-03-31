@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 17 | 20 | 44 |
-| nyt | 3 | 5 | 20 | 36 |
+| spacenews | 7 | 17 | 21 | 45 |
+| nyt | 3 | 5 | 19 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2749,3 +2749,4 @@
 - **Mar 31, 04:14 PM** - First Canadian Astronaut Will Travel to the Moon Amid Fraying U.S.-Canada Relations (nyt)
 - **Mar 31, 04:49 PM** - Commercial Space Federation (CSF) Welcomes Two New Associate Members (spacenews)
 - **Mar 31, 05:24 PM** - For Trump, the Artemis II Moon Mission Offers a Shot to Cement His Legacy (nyt)
+- **Mar 31, 05:59 PM** - ispace redesigns lunar lander, introduces lunar communications service (spacenews)
