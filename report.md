@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 13 | 24 | 44 |
+| spacenews | 11 | 13 | 25 | 45 |
 | nyt | 1 | 2 | 16 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2729,3 +2729,4 @@
 - **Mar 31, 03:54 AM** - For NASA’s Artemis II Crew, Journey to the Moon ‘Starting to Feel Real’ (nyt)
 - **Mar 31, 04:29 AM** - SBQuantum and Spire to send quantum diamond magnetometer into orbit (spacenews)
 - **Mar 31, 05:04 AM** - For NASA’s Artemis II Crew, Journey to the Moon ‘Starting to Feel Real’ (nyt)
+- **Mar 31, 05:39 AM** - Space Development Agency slows satellite launches to focus on on-orbit performance (spacenews)
