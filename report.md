@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 17 | 20 | 44 |
+| spacenews | 5 | 17 | 20 | 45 |
 | nyt | 3 | 4 | 20 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2755,3 +2755,4 @@
 - **Mar 31, 07:44 PM** - NASA Sets Out New Plans and Timelines for Moon Base and Nuclear Mars Mission (nyt)
 - **Mar 31, 08:19 PM** - Office of Space Commerce releases mission authorization proposal (spacenews)
 - **Mar 31, 08:54 PM** - NASA Sets Out New Plans and Timelines for Moon Base and Nuclear Mars Mission (nyt)
+- **Mar 31, 09:29 PM** - HTS Market Set to Reach $76B as Industry Enters Terabit Era (spacenews)
