@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 17 | 21 | 45 |
-| nyt | 3 | 4 | 19 | 35 |
+| spacenews | 7 | 17 | 20 | 45 |
+| nyt | 3 | 4 | 20 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2752,3 +2752,4 @@
 - **Mar 31, 05:59 PM** - ispace redesigns lunar lander, introduces lunar communications service (spacenews)
 - **Mar 31, 06:34 PM** - NASA Sets Out New Plans and Timelines for Moon Base and Nuclear Mars Mission (nyt)
 - **Mar 31, 07:09 PM** - Office of Space Commerce releases mission authorization proposal (spacenews)
+- **Mar 31, 07:44 PM** - NASA Sets Out New Plans and Timelines for Moon Base and Nuclear Mars Mission (nyt)
