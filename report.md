@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 15 | 23 | 44 |
+| spacenews | 13 | 16 | 24 | 45 |
 | nyt | 3 | 5 | 17 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2740,3 +2740,4 @@
 - **Mar 31, 10:29 AM** - For Trump, the Artemis II Moon Mission Offers a Shot to Cement His Legacy (nyt)
 - **Mar 31, 11:04 AM** - China targets 140 launches in 2026 amid commercial space surge (spacenews)
 - **Mar 31, 11:39 AM** - In a Moment of Division, the Astronauts on the Artemis II Mission Hope to Inspire (nyt)
+- **Mar 31, 12:14 PM** - Antaris™ Raises $28 Million Series A to Accelerate AI-Driven Space Missions (spacenews)

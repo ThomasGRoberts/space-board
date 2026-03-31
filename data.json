@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-31T00:04:27.592007+00:00",
-    "trigger_count": 6,
-    "current_item_id": "19e7d51cc057575d6d0bb13433ec71d3",
+    "trigger_count": 0,
+    "current_item_id": "488441cdb14c639daf9bf5b63a2a603e",
     "data": [
         {
             "id": "7e32cf0824da64456a70c00219503c0d",
@@ -8300,6 +8300,18 @@
             "fetched_datetime": "2026-03-31T11:04:33.497469Z",
             "shown_at": [
                 "2026-03-31T11:04:34.396094Z"
+            ]
+        },
+        {
+            "id": "488441cdb14c639daf9bf5b63a2a603e",
+            "source": "spacenews",
+            "text": "Antaris™ Raises $28 Million Series A to Accelerate AI-Driven Space Missions",
+            "source_link": "https://spacenews.com/antaris-raises-28-million-series-a-to-accelerate-ai-driven-space-missions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-31T12:14:14.633292Z",
+            "shown_at": [
+                "2026-03-31T12:14:15.953893Z"
             ]
         }
     ]
