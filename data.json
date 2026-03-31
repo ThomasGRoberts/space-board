@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-31T00:04:27.592007+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2c8e6505e3cc639cd43bba81ae577b69",
+    "trigger_count": 0,
+    "current_item_id": "b8f9686ade64542b009f1f8843c38431",
     "data": [
         {
             "id": "7e32cf0824da64456a70c00219503c0d",
@@ -8351,6 +8351,18 @@
             "fetched_datetime": "2026-03-31T22:04:33.930271Z",
             "shown_at": [
                 "2026-03-31T22:04:35.094693Z"
+            ]
+        },
+        {
+            "id": "b8f9686ade64542b009f1f8843c38431",
+            "source": "spacenews",
+            "text": "Cast your vote for the best sci-fi spaceship and then watch debaters duke it out at Space Symposium",
+            "source_link": "https://spacenews.com/spaceship-smackdown-space-symposium-2026/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-31T23:14:20.235558Z",
+            "shown_at": [
+                "2026-03-31T23:14:21.608027Z"
             ]
         }
     ]
