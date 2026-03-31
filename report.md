@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 16 | 20 | 44 |
+| spacenews | 5 | 16 | 20 | 45 |
 | nyt | 4 | 5 | 20 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2757,3 +2757,4 @@
 - **Mar 31, 08:54 PM** - NASA Sets Out New Plans and Timelines for Moon Base and Nuclear Mars Mission (nyt)
 - **Mar 31, 09:29 PM** - HTS Market Set to Reach $76B as Industry Enters Terabit Era (spacenews)
 - **Mar 31, 10:04 PM** - Why the Artemis II Astronauts Will Be Wearing Orange (nyt)
+- **Mar 31, 10:39 PM** - Moog taps Redwire to provide solar arrays for Meteor (spacenews)
