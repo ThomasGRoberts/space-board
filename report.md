@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 13 | 24 | 45 |
-| nyt | 1 | 2 | 16 | 36 |
+| nyt | 1 | 2 | 17 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2726,3 +2726,4 @@
 - **Mar 31, 02:09 AM** - The race to build orbital data centers is missing its biggest variable: power (spacenews)
 - **Mar 31, 02:44 AM** - NASA Is Launching Astronauts to the Moon, but Americans Aren’t That Excited (nyt)
 - **Mar 31, 03:19 AM** - Airbase raises $5 million to tackle spectrum bottleneck as FCC eyes new space uses (spacenews)
+- **Mar 31, 03:54 AM** - For NASA’s Artemis II Crew, Journey to the Moon ‘Starting to Feel Real’ (nyt)
