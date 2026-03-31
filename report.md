@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 17 | 21 | 44 |
+| spacenews | 8 | 17 | 21 | 45 |
 | nyt | 3 | 5 | 19 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2747,3 +2747,4 @@
 - **Mar 31, 02:34 PM** - NASA Is Launching Astronauts to the Moon, but Americans Aren’t That Excited (nyt)
 - **Mar 31, 03:34 PM** - Hughes targets sovereign satcom demand with network control software (spacenews)
 - **Mar 31, 04:14 PM** - First Canadian Astronaut Will Travel to the Moon Amid Fraying U.S.-Canada Relations (nyt)
+- **Mar 31, 04:49 PM** - Commercial Space Federation (CSF) Welcomes Two New Associate Members (spacenews)
