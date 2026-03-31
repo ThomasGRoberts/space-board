@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-31T00:04:27.592007+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4d545469edc0e482c7fc51a6cc42a050",
+    "trigger_count": 0,
+    "current_item_id": "19e7d51cc057575d6d0bb13433ec71d3",
     "data": [
         {
             "id": "7e32cf0824da64456a70c00219503c0d",
@@ -8283,9 +8283,12 @@
             "source": "nyt",
             "text": "In a Moment of Division, the Astronauts on the Artemis II Mission Hope to Inspire",
             "source_link": "https://www.nytimes.com/2026/03/31/science/nasa-artemis-ii-mission-astronauts.html",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-03-31T09:54:28.939504Z"
+            "fetched_datetime": "2026-03-31T09:54:28.939504Z",
+            "shown_at": [
+                "2026-03-31T11:39:05.012975Z"
+            ]
         },
         {
             "id": "4d545469edc0e482c7fc51a6cc42a050",

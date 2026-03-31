@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 14 | 15 | 24 | 44 |
-| nyt | 3 | 5 | 16 | 37 |
+| nyt | 3 | 5 | 17 | 38 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2739,3 +2739,4 @@
 - **Mar 31, 09:54 AM** - First Canadian Astronaut Will Travel to the Moon Amid Fraying U.S.-Canada Relations (nyt)
 - **Mar 31, 10:29 AM** - For Trump, the Artemis II Moon Mission Offers a Shot to Cement His Legacy (nyt)
 - **Mar 31, 11:04 AM** - China targets 140 launches in 2026 amid commercial space surge (spacenews)
+- **Mar 31, 11:39 AM** - In a Moment of Division, the Astronauts on the Artemis II Mission Hope to Inspire (nyt)
