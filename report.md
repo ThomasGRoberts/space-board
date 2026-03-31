@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 13 | 24 | 45 |
-| nyt | 1 | 2 | 16 | 36 |
+| nyt | 1 | 2 | 17 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2724,3 +2724,4 @@
 - **Mar 31, 12:59 AM** - Golden Dome and the velocity race: Why ground-based optics are the key to mission persistence (spacenews)
 - **Mar 31, 01:34 AM** - Did Scientists Just Detect an Exploding Black Hole? (nyt)
 - **Mar 31, 02:09 AM** - The race to build orbital data centers is missing its biggest variable: power (spacenews)
+- **Mar 31, 02:44 AM** - NASA Is Launching Astronauts to the Moon, but Americans Aren’t That Excited (nyt)
