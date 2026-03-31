@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 17 | 22 | 44 |
+| spacenews | 11 | 17 | 23 | 45 |
 | nyt | 3 | 5 | 18 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2745,3 +2745,4 @@
 - **Mar 31, 01:24 PM** - Turning growth into profits remains a challenge as space demand grows (spacenews)
 - **Mar 31, 01:59 PM** - Agentic AI: the future of space warfare (spacenews)
 - **Mar 31, 02:34 PM** - NASA Is Launching Astronauts to the Moon, but Americans Aren’t That Excited (nyt)
+- **Mar 31, 03:34 PM** - Hughes targets sovereign satcom demand with network control software (spacenews)
