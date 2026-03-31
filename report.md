@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 13 | 24 | 44 |
+| spacenews | 11 | 13 | 25 | 45 |
 | nyt | 1 | 2 | 16 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2723,3 +2723,4 @@
 - **Mar 31, 12:24 AM** - NASA Sets Out New Plans and Timelines for Moon Base and Nuclear Mars Mission (nyt)
 - **Mar 31, 12:59 AM** - Golden Dome and the velocity race: Why ground-based optics are the key to mission persistence (spacenews)
 - **Mar 31, 01:34 AM** - Did Scientists Just Detect an Exploding Black Hole? (nyt)
+- **Mar 31, 02:09 AM** - The race to build orbital data centers is missing its biggest variable: power (spacenews)
