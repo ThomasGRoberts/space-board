@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-31T00:04:27.592007+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ec9eef762bae32dd562d2a41dfc04541",
+    "trigger_count": 0,
+    "current_item_id": "4d545469edc0e482c7fc51a6cc42a050",
     "data": [
         {
             "id": "7e32cf0824da64456a70c00219503c0d",
@@ -8286,6 +8286,18 @@
             "shown": false,
             "type": "news",
             "fetched_datetime": "2026-03-31T09:54:28.939504Z"
+        },
+        {
+            "id": "4d545469edc0e482c7fc51a6cc42a050",
+            "source": "spacenews",
+            "text": "China targets 140 launches in 2026 amid commercial space surge",
+            "source_link": "https://spacenews.com/china-targets-140-launches-in-2026-amid-commercial-space-surge/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-31T11:04:33.497469Z",
+            "shown_at": [
+                "2026-03-31T11:04:34.396094Z"
+            ]
         }
     ]
 }
