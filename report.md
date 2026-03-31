@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 14 | 24 | 44 |
+| spacenews | 12 | 14 | 25 | 45 |
 | nyt | 1 | 2 | 16 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2733,3 +2733,4 @@
 - **Mar 31, 06:14 AM** - NASA Is Launching Astronauts to the Moon, but Americans Aren’t That Excited (nyt)
 - **Mar 31, 06:49 AM** - Artemis 2 countdown underway (spacenews)
 - **Mar 31, 07:24 AM** - NASA Sets Out New Plans and Timelines for Moon Base and Nuclear Mars Mission (nyt)
+- **Mar 31, 07:59 AM** - Airbase raises $5 million to tackle spectrum bottleneck as FCC eyes new space uses (spacenews)
