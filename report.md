@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 13 | 24 | 45 |
-| nyt | 1 | 2 | 16 | 36 |
+| nyt | 1 | 2 | 17 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2722,3 +2722,4 @@
 - **Mar 30, 11:44 PM** - Space Command begins phased move to Alabama  (spacenews)
 - **Mar 31, 12:24 AM** - NASA Sets Out New Plans and Timelines for Moon Base and Nuclear Mars Mission (nyt)
 - **Mar 31, 12:59 AM** - Golden Dome and the velocity race: Why ground-based optics are the key to mission persistence (spacenews)
+- **Mar 31, 01:34 AM** - Did Scientists Just Detect an Exploding Black Hole? (nyt)
