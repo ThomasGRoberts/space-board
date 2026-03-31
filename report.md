@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 14 | 24 | 45 |
-| nyt | 1 | 2 | 16 | 36 |
+| nyt | 1 | 2 | 17 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2732,3 +2732,4 @@
 - **Mar 31, 05:39 AM** - Space Development Agency slows satellite launches to focus on on-orbit performance (spacenews)
 - **Mar 31, 06:14 AM** - NASA Is Launching Astronauts to the Moon, but Americans Aren’t That Excited (nyt)
 - **Mar 31, 06:49 AM** - Artemis 2 countdown underway (spacenews)
+- **Mar 31, 07:24 AM** - NASA Sets Out New Plans and Timelines for Moon Base and Nuclear Mars Mission (nyt)
