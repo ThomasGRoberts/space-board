@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 13 | 24 | 44 |
+| spacenews | 11 | 13 | 25 | 45 |
 | nyt | 1 | 2 | 16 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2725,3 +2725,4 @@
 - **Mar 31, 01:34 AM** - Did Scientists Just Detect an Exploding Black Hole? (nyt)
 - **Mar 31, 02:09 AM** - The race to build orbital data centers is missing its biggest variable: power (spacenews)
 - **Mar 31, 02:44 AM** - NASA Is Launching Astronauts to the Moon, but Americans Aren’t That Excited (nyt)
+- **Mar 31, 03:19 AM** - Airbase raises $5 million to tackle spectrum bottleneck as FCC eyes new space uses (spacenews)
