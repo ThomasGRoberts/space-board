@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 14 | 24 | 44 |
-| nyt | 4 | 5 | 16 | 37 |
+| nyt | 4 | 5 | 17 | 38 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2737,3 +2737,4 @@
 - **Mar 31, 08:39 AM** - NASA Sets Out New Plans and Timelines for Moon Base and Nuclear Mars Mission (nyt)
 - **Mar 31, 09:19 AM** - Europe’s space sector faces power shift as funding grows (spacenews)
 - **Mar 31, 09:54 AM** - First Canadian Astronaut Will Travel to the Moon Amid Fraying U.S.-Canada Relations (nyt)
+- **Mar 31, 10:29 AM** - For Trump, the Artemis II Moon Mission Offers a Shot to Cement His Legacy (nyt)

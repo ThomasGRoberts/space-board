@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-31T00:04:27.592007+00:00",
-    "trigger_count": 6,
-    "current_item_id": "83f113ab5c881c66675979a336169fde",
+    "trigger_count": 0,
+    "current_item_id": "ec9eef762bae32dd562d2a41dfc04541",
     "data": [
         {
             "id": "7e32cf0824da64456a70c00219503c0d",
@@ -8271,9 +8271,12 @@
             "source": "nyt",
             "text": "For Trump, the Artemis II Moon Mission Offers a Shot to Cement His Legacy",
             "source_link": "https://www.nytimes.com/2026/03/31/us/politics/trump-artemis-ii-moon-mission.html",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-03-31T09:54:28.939436Z"
+            "fetched_datetime": "2026-03-31T09:54:28.939436Z",
+            "shown_at": [
+                "2026-03-31T10:29:21.060377Z"
+            ]
         },
         {
             "id": "19e7d51cc057575d6d0bb13433ec71d3",
