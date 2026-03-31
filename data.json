@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-31T00:04:27.592007+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d7f59eafeeb8b8fb7d32376453b6ea8d",
+    "trigger_count": 0,
+    "current_item_id": "b5183ea6ca3ee119fe74e4a2191a3888",
     "data": [
         {
             "id": "7e32cf0824da64456a70c00219503c0d",
@@ -8314,6 +8314,18 @@
             "fetched_datetime": "2026-03-31T12:14:14.633292Z",
             "shown_at": [
                 "2026-03-31T12:14:15.953893Z"
+            ]
+        },
+        {
+            "id": "b5183ea6ca3ee119fe74e4a2191a3888",
+            "source": "spacenews",
+            "text": "Agentic AI: the future of space warfare",
+            "source_link": "https://spacenews.com/agentic-ai-the-future-of-space-warfare/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-31T13:59:26.318693Z",
+            "shown_at": [
+                "2026-03-31T13:59:27.474904Z"
             ]
         }
     ]
