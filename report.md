@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 16 | 20 | 44 |
-| nyt | 3 | 4 | 19 | 36 |
+| nyt | 4 | 5 | 20 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2756,3 +2756,4 @@
 - **Mar 31, 08:19 PM** - Office of Space Commerce releases mission authorization proposal (spacenews)
 - **Mar 31, 08:54 PM** - NASA Sets Out New Plans and Timelines for Moon Base and Nuclear Mars Mission (nyt)
 - **Mar 31, 09:29 PM** - HTS Market Set to Reach $76B as Industry Enters Terabit Era (spacenews)
+- **Mar 31, 10:04 PM** - Why the Artemis II Astronauts Will Be Wearing Orange (nyt)

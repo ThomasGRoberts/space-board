@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-31T00:04:27.592007+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ab0f422167098b9d17a2b85d3e695245",
+    "trigger_count": 0,
+    "current_item_id": "bc45f1121ce2a7837102c0b070091f4b",
     "data": [
         {
             "id": "7e32cf0824da64456a70c00219503c0d",
@@ -8338,6 +8338,18 @@
             "fetched_datetime": "2026-03-31T13:59:26.318693Z",
             "shown_at": [
                 "2026-03-31T13:59:27.474904Z"
+            ]
+        },
+        {
+            "id": "bc45f1121ce2a7837102c0b070091f4b",
+            "source": "nyt",
+            "text": "Why the Artemis II Astronauts Will Be Wearing Orange",
+            "source_link": "https://www.nytimes.com/2026/03/31/style/artemis-ii-spacesuits-orange-astronauts.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-31T22:04:33.930271Z",
+            "shown_at": [
+                "2026-03-31T22:04:35.094693Z"
             ]
         }
     ]
