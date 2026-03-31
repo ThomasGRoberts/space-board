@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-03-31T00:04:27.592007+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c4106ef273f5ae1c0096fbd2a4fe0dab",
+    "trigger_count": 0,
+    "current_item_id": "f9e5eb9f9aa572760aaba8c7c517e786",
     "data": [
         {
             "id": "7e32cf0824da64456a70c00219503c0d",
@@ -8240,6 +8240,18 @@
             "fetched_datetime": "2026-03-31T06:49:28.530396Z",
             "shown_at": [
                 "2026-03-31T06:49:29.149724Z"
+            ]
+        },
+        {
+            "id": "f9e5eb9f9aa572760aaba8c7c517e786",
+            "source": "spacenews",
+            "text": "Europe’s space sector faces power shift as funding grows",
+            "source_link": "https://spacenews.com/europes-space-sector-faces-power-shift-as-funding-grows/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-31T09:19:29.684592Z",
+            "shown_at": [
+                "2026-03-31T09:19:30.455008Z"
             ]
         }
     ]
