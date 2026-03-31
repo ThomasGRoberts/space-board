@@ -1,9 +1,156 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-03-30T00:04:28.432860+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2026-03-31T00:04:27.592007+00:00",
+    "trigger_count": 4,
     "current_item_id": "d3b5e57e0e419434d280a28dbb939559",
     "data": [
+        {
+            "id": "7e32cf0824da64456a70c00219503c0d",
+            "source": "spacenews",
+            "text": "Rocket Lab wins German approval for Mynaric deal",
+            "source_link": "https://spacenews.com/rocket-lab-wins-german-approval-for-mynaric-deal/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-30T21:24:29.676649Z",
+            "shown_at": [
+                "2026-03-30T21:24:30.946861Z"
+            ]
+        },
+        {
+            "id": "a5b1ed4a045ed2b757bdf59c7b5e0dff",
+            "source": "spacenews",
+            "text": "Varda flies navigation payload, heat shield tests on sixth reentry mission",
+            "source_link": "https://spacenews.com/varda-flies-navigation-payload-heat-shield-tests-on-sixth-reentry-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-30T20:14:24.823526Z",
+            "shown_at": [
+                "2026-03-30T20:14:25.953524Z"
+            ]
+        },
+        {
+            "id": "0d49fc429dac2344fd52cb81e0c7372b",
+            "source": "spacenews",
+            "text": "ESA launches first Celeste satellites to test complementary LEO navigation layer",
+            "source_link": "https://spacenews.com/esa-launches-first-celeste-satellites-to-test-complementary-leo-navigation-layer/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-30T17:19:15.706000Z",
+            "shown_at": [
+                "2026-03-30T17:19:16.835854Z"
+            ]
+        },
+        {
+            "id": "f3295b2ab2a05ed25f72b3c1e93eeb7c",
+            "source": "spacenews",
+            "text": "SpaceX launches Transporter-16 rideshare mission",
+            "source_link": "https://spacenews.com/spacex-launches-transporter-16-rideshare-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-30T16:44:27.701728Z",
+            "shown_at": [
+                "2026-03-30T16:44:29.570084Z"
+            ]
+        },
+        {
+            "id": "d7471cebf684741c294ded1d901c6ddb",
+            "source": "spacenews",
+            "text": "China’s Kinetica-2 rocket debuts successfully, sending prototype cargo spacecraft to orbit",
+            "source_link": "https://spacenews.com/chinas-kinetica-2-rocket-debuts-successfully-sending-prototype-cargo-spacecraft-to-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-30T16:09:23.258610Z",
+            "shown_at": [
+                "2026-03-30T16:09:24.381165Z"
+            ]
+        },
+        {
+            "id": "2b9f7441aedc905f5c6c50af30f3fcb7",
+            "source": "spacenews",
+            "text": "The race to build orbital data centers is missing its biggest variable: power",
+            "source_link": "https://spacenews.com/the-race-to-build-orbital-data-centers-is-missing-its-biggest-variable-power/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-30T15:34:41.710251Z",
+            "shown_at": [
+                "2026-03-30T15:34:42.915388Z",
+                "2026-03-30T19:39:26.029779Z"
+            ]
+        },
+        {
+            "id": "bd3f72003821d7d670d07f4196b0b185",
+            "source": "spacenews",
+            "text": "Pentagon weighing termination of Raytheon GPS ground control contract after years of delays",
+            "source_link": "https://spacenews.com/pentagon-weighing-termination-of-raytheon-gps-ground-control-contract-after-years-of-delays/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-30T14:24:23.533838Z",
+            "shown_at": [
+                "2026-03-30T14:24:24.503944Z"
+            ]
+        },
+        {
+            "id": "1ca645f6c4cab3cdd008869a247d0f31",
+            "source": "spacenews",
+            "text": "With Voyager’s help, Icarus Robotics to test free-flyer on ISS",
+            "source_link": "https://spacenews.com/with-voyagers-help-icarus-robotics-to-test-free-flyer-on-iss/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-30T13:14:30.682353Z",
+            "shown_at": [
+                "2026-03-30T13:49:39.366409Z"
+            ]
+        },
+        {
+            "id": "f6d7256e2c73d9d5cb072c485bf28592",
+            "source": "spacenews",
+            "text": "The race to build orbital data centers is missing its biggest variable: power",
+            "source_link": "https://spacenews.com/the-race-to-build-orbital-data-centers-is-missing-its-biggest-variable-power/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-30T13:14:30.682294Z",
+            "shown_at": [
+                "2026-03-30T13:14:32.020273Z"
+            ]
+        },
+        {
+            "id": "fb0f88d385051809f26f38ab8b588972",
+            "source": "spacenews",
+            "text": "Science finds a place on Artemis 2",
+            "source_link": "https://spacenews.com/science-finds-a-place-on-artemis-2/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-30T12:04:38.814294Z",
+            "shown_at": [
+                "2026-03-30T12:39:24.815570Z"
+            ]
+        },
+        {
+            "id": "323cfb3ba041f605efe31231b5a1d3a9",
+            "source": "spacenews",
+            "text": "Starcloud achieves unicorn status with $170 million raise for orbital data centers",
+            "source_link": "https://spacenews.com/starcloud-achieves-unicorn-status-with-170-million-raise-for-orbital-data-centers/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-30T12:04:38.814222Z",
+            "shown_at": [
+                "2026-03-30T12:04:40.480758Z"
+            ]
+        },
+        {
+            "id": "e66f1b7b902578dea4ad5fa6f04d1218",
+            "source": "nyt",
+            "text": "NASA Is Launching Astronauts to the Moon, but Americans Aren’t That Excited",
+            "source_link": "https://www.nytimes.com/2026/03/30/science/nasa-astronauts-moon-americans-mood.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-30T11:29:08.041288Z",
+            "shown_at": [
+                "2026-03-30T11:29:09.159046Z",
+                "2026-03-30T14:59:42.012443Z",
+                "2026-03-30T19:04:31.527463Z"
+            ]
+        },
         {
             "id": "5f8deac832e31e47cc8887264210a541",
             "source": "spacenews",
@@ -8067,339 +8214,6 @@
             "shown_at": [
                 "2026-01-17T12:49:21.453841Z",
                 "2026-01-22T15:39:17.184835Z"
-            ]
-        },
-        {
-            "id": "9bd4d6b3838260beaa2af45948558203",
-            "source": "spacenews",
-            "text": "China hit by dual launch failures as Long March 3B and Ceres-2 debut mission fail",
-            "source_link": "https://spacenews.com/china-hit-by-dual-launch-failures-as-long-march-3b-and-ceres-2-debut-mission-fail/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-17T10:59:17.808360Z",
-            "shown_at": [
-                "2026-01-17T10:59:18.995519Z",
-                "2026-01-17T21:04:29.586470Z",
-                "2026-01-18T05:54:30.475574Z",
-                "2026-01-20T21:09:18.949192Z",
-                "2026-01-21T10:34:21.141066Z",
-                "2026-01-23T05:49:15.549296Z",
-                "2026-01-23T21:34:25.756281Z"
-            ]
-        },
-        {
-            "id": "adba228444e75cfa9083b6a49db7338e",
-            "source": "spacenews",
-            "text": "Indra Group writes off damaged SpainSat NG 2",
-            "source_link": "https://spacenews.com/indra-group-writes-off-damaged-spainsat-ng-2/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-16T22:59:09.742681Z",
-            "shown_at": [
-                "2026-01-16T22:59:10.640778Z"
-            ]
-        },
-        {
-            "id": "5229684323a6219b964e041cc349ee8c",
-            "source": "spacenews",
-            "text": "Isar Aerospace sets date for second Spectrum launch",
-            "source_link": "https://spacenews.com/isar-aerospace-sets-date-for-second-spectrum-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-16T19:19:53.621759Z",
-            "shown_at": [
-                "2026-01-16T19:19:54.349756Z"
-            ]
-        },
-        {
-            "id": "b9967ba38d6effa5c600562ac96002c9",
-            "source": "spacenews",
-            "text": "China conducts static fire test of new reusable Long March 12B rocket",
-            "source_link": "https://spacenews.com/china-conducts-static-fire-test-of-new-reusable-long-march-12b-rocket/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-16T18:39:12.368662Z",
-            "shown_at": [
-                "2026-01-16T18:39:12.929911Z"
-            ]
-        },
-        {
-            "id": "8aa98c2c97a28920b1aca0164cff5307",
-            "source": "spacenews",
-            "text": "AO-Resistant Material Boosts VLEO Satellite Longevity",
-            "source_link": "https://spacenews.com/ao-resistant-material-boosts-vleo-satellite-longevity/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-16T16:19:27.696899Z",
-            "shown_at": [
-                "2026-01-16T16:19:28.460115Z",
-                "2026-01-20T02:39:11.198403Z",
-                "2026-01-20T08:05:19.429464Z"
-            ]
-        },
-        {
-            "id": "5b52b37af44156f5b3f80a9f6b7c7e92",
-            "source": "breaking_defense",
-            "text": "The state of play in military space",
-            "source_link": "https://breakingdefense.com/2026/01/the-state-of-play-in-military-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-16T15:39:06.244697Z",
-            "shown_at": [
-                "2026-01-16T15:39:07.071747Z",
-                "2026-01-17T03:44:30.495757Z",
-                "2026-01-17T05:29:03.103227Z",
-                "2026-01-17T11:39:18.861623Z",
-                "2026-01-18T01:44:14.155415Z",
-                "2026-01-18T05:19:45.926061Z",
-                "2026-01-18T12:24:12.454160Z",
-                "2026-01-18T14:09:41.079035Z",
-                "2026-01-18T15:54:09.269415Z",
-                "2026-01-19T09:59:05.421736Z",
-                "2026-01-20T00:19:22.958203Z",
-                "2026-01-20T05:44:15.418011Z",
-                "2026-01-20T18:25:05.233628Z",
-                "2026-01-20T22:54:20.984522Z",
-                "2026-01-21T02:24:09.951867Z",
-                "2026-01-21T11:09:11.495077Z",
-                "2026-01-21T16:24:28.291180Z",
-                "2026-01-21T22:39:21.526642Z",
-                "2026-01-22T02:14:17.517408Z",
-                "2026-01-22T03:58:59.717766Z",
-                "2026-01-22T05:44:14.598450Z",
-                "2026-01-22T07:29:05.880435Z",
-                "2026-01-22T09:19:16.030340Z",
-                "2026-01-22T15:04:43.539203Z",
-                "2026-01-23T06:25:01.291232Z",
-                "2026-01-23T08:09:32.209475Z",
-                "2026-01-23T09:54:23.668918Z"
-            ]
-        },
-        {
-            "id": "73f7466361ad7917eacf9fda1193923b",
-            "source": "spacenews",
-            "text": "The countdown to clean orbits has begun with ESA’s Zero Debris Charter",
-            "source_link": "https://spacenews.com/the-countdown-to-clean-orbits-has-begun-with-esas-zero-debris-charter/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-16T14:29:24.064959Z",
-            "shown_at": [
-                "2026-01-16T14:29:24.808033Z"
-            ]
-        },
-        {
-            "id": "8f756b18fbdcc08beabd5dede4c78a0b",
-            "source": "spacenews",
-            "text": "China advances plans for dual solar system boundary missions",
-            "source_link": "https://spacenews.com/china-advances-plans-for-dual-solar-system-boundary-missions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-16T12:44:13.714501Z",
-            "shown_at": [
-                "2026-01-16T12:44:14.501302Z",
-                "2026-01-19T09:24:36.446443Z",
-                "2026-01-19T19:34:50.003115Z",
-                "2026-01-22T06:54:14.910391Z",
-                "2026-01-23T02:19:08.269921Z"
-            ]
-        },
-        {
-            "id": "20daea9cd712e7ceb999d705969bd713",
-            "source": "spacenews",
-            "text": "Japanese launch company Interstellar Technologies raises $130 million",
-            "source_link": "https://spacenews.com/japanese-launch-company-interstellar-technologies-raises-130-million/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-16T11:34:19.816087Z",
-            "shown_at": [
-                "2026-01-16T11:34:20.656968Z"
-            ]
-        },
-        {
-            "id": "6e644f3c5e7702d3274fed3933c3442e",
-            "source": "spacenews",
-            "text": "China launches AlSat-3A for Algeria, Ceres-1 sea launch adds to Tianqi constellation",
-            "source_link": "https://spacenews.com/china-launches-alsat-3a-for-algeria-ceres-1-sea-launch-adds-to-tianqi-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-16T10:54:03.006776Z",
-            "shown_at": [
-                "2026-01-16T10:54:03.853278Z",
-                "2026-01-19T11:08:52.280683Z"
-            ]
-        },
-        {
-            "id": "0b5ee9e6e99fdbfd0ffacc0bf52a2c87",
-            "source": "spacenews",
-            "text": "Congress passes minibus spending bill that rejects proposed NASA cuts",
-            "source_link": "https://spacenews.com/congress-passes-minibus-spending-bill-that-rejects-proposed-nasa-cuts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-16T00:44:22.526914Z",
-            "shown_at": [
-                "2026-01-16T00:44:23.055374Z"
-            ]
-        },
-        {
-            "id": "f303a3996e165712b8d787c7a1a9ad8e",
-            "source": "spacenews",
-            "text": "Arianespace to begin Amazon Leo launches in February",
-            "source_link": "https://spacenews.com/arianespace-to-begin-amazon-leo-launches-in-february/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-15T21:14:18.391575Z",
-            "shown_at": [
-                "2026-01-15T21:14:19.093736Z",
-                "2026-01-19T05:54:23.758795Z",
-                "2026-01-20T00:54:47.841611Z",
-                "2026-01-20T04:28:50.383183Z"
-            ]
-        },
-        {
-            "id": "e66f1b7b902578dea4ad5fa6f04d1218",
-            "source": "nyt",
-            "text": "NASA Is Launching Astronauts to the Moon, but Americans Aren’t That Excited",
-            "source_link": "https://www.nytimes.com/2026/03/30/science/nasa-astronauts-moon-americans-mood.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-30T11:29:08.041288Z",
-            "shown_at": [
-                "2026-03-30T11:29:09.159046Z",
-                "2026-03-30T14:59:42.012443Z",
-                "2026-03-30T19:04:31.527463Z"
-            ]
-        },
-        {
-            "id": "323cfb3ba041f605efe31231b5a1d3a9",
-            "source": "spacenews",
-            "text": "Starcloud achieves unicorn status with $170 million raise for orbital data centers",
-            "source_link": "https://spacenews.com/starcloud-achieves-unicorn-status-with-170-million-raise-for-orbital-data-centers/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-30T12:04:38.814222Z",
-            "shown_at": [
-                "2026-03-30T12:04:40.480758Z"
-            ]
-        },
-        {
-            "id": "fb0f88d385051809f26f38ab8b588972",
-            "source": "spacenews",
-            "text": "Science finds a place on Artemis 2",
-            "source_link": "https://spacenews.com/science-finds-a-place-on-artemis-2/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-30T12:04:38.814294Z",
-            "shown_at": [
-                "2026-03-30T12:39:24.815570Z"
-            ]
-        },
-        {
-            "id": "f6d7256e2c73d9d5cb072c485bf28592",
-            "source": "spacenews",
-            "text": "The race to build orbital data centers is missing its biggest variable: power",
-            "source_link": "https://spacenews.com/the-race-to-build-orbital-data-centers-is-missing-its-biggest-variable-power/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-30T13:14:30.682294Z",
-            "shown_at": [
-                "2026-03-30T13:14:32.020273Z"
-            ]
-        },
-        {
-            "id": "1ca645f6c4cab3cdd008869a247d0f31",
-            "source": "spacenews",
-            "text": "With Voyager’s help, Icarus Robotics to test free-flyer on ISS",
-            "source_link": "https://spacenews.com/with-voyagers-help-icarus-robotics-to-test-free-flyer-on-iss/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-30T13:14:30.682353Z",
-            "shown_at": [
-                "2026-03-30T13:49:39.366409Z"
-            ]
-        },
-        {
-            "id": "bd3f72003821d7d670d07f4196b0b185",
-            "source": "spacenews",
-            "text": "Pentagon weighing termination of Raytheon GPS ground control contract after years of delays",
-            "source_link": "https://spacenews.com/pentagon-weighing-termination-of-raytheon-gps-ground-control-contract-after-years-of-delays/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-30T14:24:23.533838Z",
-            "shown_at": [
-                "2026-03-30T14:24:24.503944Z"
-            ]
-        },
-        {
-            "id": "2b9f7441aedc905f5c6c50af30f3fcb7",
-            "source": "spacenews",
-            "text": "The race to build orbital data centers is missing its biggest variable: power",
-            "source_link": "https://spacenews.com/the-race-to-build-orbital-data-centers-is-missing-its-biggest-variable-power/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-30T15:34:41.710251Z",
-            "shown_at": [
-                "2026-03-30T15:34:42.915388Z",
-                "2026-03-30T19:39:26.029779Z"
-            ]
-        },
-        {
-            "id": "d7471cebf684741c294ded1d901c6ddb",
-            "source": "spacenews",
-            "text": "China’s Kinetica-2 rocket debuts successfully, sending prototype cargo spacecraft to orbit",
-            "source_link": "https://spacenews.com/chinas-kinetica-2-rocket-debuts-successfully-sending-prototype-cargo-spacecraft-to-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-30T16:09:23.258610Z",
-            "shown_at": [
-                "2026-03-30T16:09:24.381165Z"
-            ]
-        },
-        {
-            "id": "f3295b2ab2a05ed25f72b3c1e93eeb7c",
-            "source": "spacenews",
-            "text": "SpaceX launches Transporter-16 rideshare mission",
-            "source_link": "https://spacenews.com/spacex-launches-transporter-16-rideshare-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-30T16:44:27.701728Z",
-            "shown_at": [
-                "2026-03-30T16:44:29.570084Z"
-            ]
-        },
-        {
-            "id": "0d49fc429dac2344fd52cb81e0c7372b",
-            "source": "spacenews",
-            "text": "ESA launches first Celeste satellites to test complementary LEO navigation layer",
-            "source_link": "https://spacenews.com/esa-launches-first-celeste-satellites-to-test-complementary-leo-navigation-layer/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-30T17:19:15.706000Z",
-            "shown_at": [
-                "2026-03-30T17:19:16.835854Z"
-            ]
-        },
-        {
-            "id": "a5b1ed4a045ed2b757bdf59c7b5e0dff",
-            "source": "spacenews",
-            "text": "Varda flies navigation payload, heat shield tests on sixth reentry mission",
-            "source_link": "https://spacenews.com/varda-flies-navigation-payload-heat-shield-tests-on-sixth-reentry-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-30T20:14:24.823526Z",
-            "shown_at": [
-                "2026-03-30T20:14:25.953524Z"
-            ]
-        },
-        {
-            "id": "7e32cf0824da64456a70c00219503c0d",
-            "source": "spacenews",
-            "text": "Rocket Lab wins German approval for Mynaric deal",
-            "source_link": "https://spacenews.com/rocket-lab-wins-german-approval-for-mynaric-deal/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-30T21:24:29.676649Z",
-            "shown_at": [
-                "2026-03-30T21:24:30.946861Z"
             ]
         }
     ]
