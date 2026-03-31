@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 13 | 24 | 45 |
-| nyt | 1 | 2 | 16 | 36 |
+| nyt | 1 | 2 | 17 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2728,3 +2728,4 @@
 - **Mar 31, 03:19 AM** - Airbase raises $5 million to tackle spectrum bottleneck as FCC eyes new space uses (spacenews)
 - **Mar 31, 03:54 AM** - For NASA’s Artemis II Crew, Journey to the Moon ‘Starting to Feel Real’ (nyt)
 - **Mar 31, 04:29 AM** - SBQuantum and Spire to send quantum diamond magnetometer into orbit (spacenews)
+- **Mar 31, 05:04 AM** - For NASA’s Artemis II Crew, Journey to the Moon ‘Starting to Feel Real’ (nyt)
