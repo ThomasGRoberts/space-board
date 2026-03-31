@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 17 | 22 | 45 |
-| nyt | 3 | 5 | 18 | 36 |
+| nyt | 3 | 5 | 19 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2744,3 +2744,4 @@
 - **Mar 31, 12:49 PM** - For NASA’s Artemis II Crew, Journey to the Moon ‘Starting to Feel Real’ (nyt)
 - **Mar 31, 01:24 PM** - Turning growth into profits remains a challenge as space demand grows (spacenews)
 - **Mar 31, 01:59 PM** - Agentic AI: the future of space warfare (spacenews)
+- **Mar 31, 02:34 PM** - NASA Is Launching Astronauts to the Moon, but Americans Aren’t That Excited (nyt)
