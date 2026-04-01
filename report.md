@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 18 | 20 | 40 |
+| spacenews | 13 | 18 | 21 | 41 |
 | nyt | 14 | 18 | 19 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2740,3 +2740,4 @@
 - **Apr 01, 08:34 PM** - Live Updates: Artemis Astronauts Board Spacecraft for NASA Moon Launch (nyt)
 - **Apr 01, 09:09 PM** - Saltzman: Space ‘baked into’ modern combat operations (spacenews)
 - **Apr 01, 09:44 PM** - Who Made the Artemis II Rocket and Space Capsule? (nyt)
+- **Apr 01, 10:19 PM** - Aspect Aerospace secures early funding to advance swarm-deployable VLEO satellites (spacenews)

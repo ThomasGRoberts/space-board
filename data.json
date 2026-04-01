@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-01T00:04:57.749803+00:00",
-    "trigger_count": 6,
-    "current_item_id": "45ec07a47fcd309a487fc661eb8d7f9e",
+    "trigger_count": 0,
+    "current_item_id": "fc581a95facea66866f6dffae464c6b9",
     "data": [
         {
             "id": "b8f9686ade64542b009f1f8843c38431",
@@ -8448,9 +8448,12 @@
             "source": "spacenews",
             "text": "Aspect Aerospace secures early funding to advance swarm-deployable VLEO satellites",
             "source_link": "https://spacenews.com/aspect-aerospace-secures-early-funding-to-advance-swarm-deployable-vleo-satellites/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-04-01T18:44:17.891408Z"
+            "fetched_datetime": "2026-04-01T18:44:17.891408Z",
+            "shown_at": [
+                "2026-04-01T22:19:12.546030Z"
+            ]
         },
         {
             "id": "a698b8f6a7dabbba8a44116dd4486323",
