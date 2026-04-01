@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-01T00:04:57.749803+00:00",
-    "trigger_count": 6,
-    "current_item_id": "45026ec4148b00d4440bd329affe19ec",
+    "trigger_count": 0,
+    "current_item_id": "666c3f65a51cb37ad52b1e80982069dc",
     "data": [
         {
             "id": "b8f9686ade64542b009f1f8843c38431",
@@ -8388,9 +8388,12 @@
             "source": "nyt",
             "text": "Who Is Reid Wiseman, Commander of the Artemis II Moon Mission?",
             "source_link": "https://www.nytimes.com/2026/04/01/science/space/reid-wiseman-artemis-ii-commander.html",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-04-01T17:34:44.612178Z"
+            "fetched_datetime": "2026-04-01T17:34:44.612178Z",
+            "shown_at": [
+                "2026-04-01T18:09:18.826341Z"
+            ]
         },
         {
             "id": "510ecfe342ed0e84d312751128ef0a07",
