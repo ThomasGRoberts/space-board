@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 21 | 21 | 45 |
-| nyt | 3 | 7 | 18 | 35 |
+| nyt | 3 | 6 | 19 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2722,3 +2722,4 @@
 - **Apr 01, 09:44 AM** - Vantor wins intelligence agency contract to monitor space objects (spacenews)
 - **Apr 01, 10:19 AM** - For NASA’s Artemis II Crew, Journey to the Moon ‘Starting to Feel Real’ (nyt)
 - **Apr 01, 10:54 AM** - After three years, Artemis 2 astronauts ready to launch (spacenews)
+- **Apr 01, 11:29 AM** - First Canadian Astronaut Will Travel to the Moon Amid Fraying U.S.-Canada Relations (nyt)
