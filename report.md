@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 20 | 21 | 43 |
-| nyt | 3 | 6 | 18 | 36 |
+| nyt | 6 | 9 | 18 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2727,3 +2727,4 @@
 - **Apr 01, 12:51 PM** - For NASA’s Artemis II Crew, Journey to the Moon ‘Starting to Feel Real’ (nyt)
 - **Apr 01, 01:29 PM** - Creating near-term lunar settlements: lessons from space history  (spacenews)
 - **Apr 01, 02:04 PM** - Artemis 2 fueling underway (spacenews)
+- **Apr 01, 02:39 PM** - Live Updates: NASA Starts Fueling Rocket for Artemis II Moon Launch (nyt)

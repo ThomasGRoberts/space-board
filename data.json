@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-01T00:04:57.749803+00:00",
-    "trigger_count": 6,
-    "current_item_id": "be7ceb5c68a6dae47614c697e15bd8f4",
+    "trigger_count": 0,
+    "current_item_id": "6c1c047362f9c13508c2680a224ddf21",
     "data": [
         {
             "id": "b8f9686ade64542b009f1f8843c38431",
@@ -8328,6 +8328,36 @@
             "shown": false,
             "type": "news",
             "fetched_datetime": "2026-04-01T13:29:10.000251Z"
+        },
+        {
+            "id": "6c1c047362f9c13508c2680a224ddf21",
+            "source": "nyt",
+            "text": "Live Updates: NASA Starts Fueling Rocket for Artemis II Moon Launch",
+            "source_link": "https://www.nytimes.com/live/2026/04/01/science/moon-nasa-artemis-launch",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-01T14:39:42.554673Z",
+            "shown_at": [
+                "2026-04-01T14:39:43.684813Z"
+            ]
+        },
+        {
+            "id": "772cd837fa6a89c1dfc0b201fae97feb",
+            "source": "nyt",
+            "text": "58 Years After ‘Earthrise,’ NASA’s New Moonshot May Rediscover Earth",
+            "source_link": "https://www.nytimes.com/card/2026/04/01/science/space/nasa-moon-artemis-ii-apollo-8",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-01T14:39:42.554726Z"
+        },
+        {
+            "id": "0509ac731b9e3cebe6451f6a430374cd",
+            "source": "nyt",
+            "text": "Meet the four astronauts of Artemis II.",
+            "source_link": "https://www.nytimes.com/live/2026/04/01/science/moon-nasa-artemis-launch/meet-the-four-astronauts-of-artemis-ii",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-01T14:39:42.555100Z"
         }
     ]
 }
