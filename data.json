@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-01T00:04:57.749803+00:00",
-    "trigger_count": 6,
-    "current_item_id": "eade144e34de43ba945939a9ee40f378",
+    "trigger_count": 0,
+    "current_item_id": "e21a24254d9a0afe4f0b002b18c46d33",
     "data": [
         {
             "id": "b8f9686ade64542b009f1f8843c38431",
@@ -8286,6 +8286,45 @@
             "shown_at": [
                 "2026-04-01T10:54:29.017301Z"
             ]
+        },
+        {
+            "id": "e21a24254d9a0afe4f0b002b18c46d33",
+            "source": "spacenews",
+            "text": "Creating near-term lunar settlements: lessons from space history ",
+            "source_link": "https://spacenews.com/creating-near-term-lunar-settlements-lessons-from-space-history/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-01T13:29:10.000090Z",
+            "shown_at": [
+                "2026-04-01T13:29:11.140125Z"
+            ]
+        },
+        {
+            "id": "be7ceb5c68a6dae47614c697e15bd8f4",
+            "source": "spacenews",
+            "text": "Artemis 2 fueling underway",
+            "source_link": "https://spacenews.com/artemis-2-fueling-underway/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-01T13:29:10.000161Z"
+        },
+        {
+            "id": "e3a1017734d20ebabff16490932a73e0",
+            "source": "spacenews",
+            "text": "From the Midwest to the Moon",
+            "source_link": "https://spacenews.com/from-the-midwest-to-the-moon-sn-focus/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-01T13:29:10.000209Z"
+        },
+        {
+            "id": "6235364a0d45a2b6f0b2665ef218a501",
+            "source": "spacenews",
+            "text": "The Florida Model for Sustainable Aerospace Growth",
+            "source_link": "https://spacenews.com/florida-model-for-sustainable-aerospace-growth-sn-focus/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-01T13:29:10.000251Z"
         }
     ]
 }

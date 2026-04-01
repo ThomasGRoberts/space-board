@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 17 | 21 | 43 |
+| spacenews | 10 | 21 | 21 | 44 |
 | nyt | 3 | 6 | 18 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2725,3 +2725,4 @@
 - **Apr 01, 11:29 AM** - First Canadian Astronaut Will Travel to the Moon Amid Fraying U.S.-Canada Relations (nyt)
 - **Apr 01, 12:04 PM** - Sift raises $42 million in Series B round (spacenews)
 - **Apr 01, 12:51 PM** - For NASA’s Artemis II Crew, Journey to the Moon ‘Starting to Feel Real’ (nyt)
+- **Apr 01, 01:29 PM** - Creating near-term lunar settlements: lessons from space history  (spacenews)
