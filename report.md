@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 18 | 20 | 44 |
-| nyt | 5 | 6 | 20 | 36 |
+| spacenews | 7 | 18 | 21 | 45 |
+| nyt | 5 | 6 | 19 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2714,3 +2714,4 @@
 - **Apr 01, 04:29 AM** - Did Scientists Just Detect an Exploding Black Hole? (nyt)
 - **Apr 01, 05:04 AM** - Commercial Space Federation (CSF) Welcomes Two New Associate Members (spacenews)
 - **Apr 01, 05:39 AM** - NASA Is Launching Astronauts to the Moon, but Americans Aren’t That Excited (nyt)
+- **Apr 01, 06:14 AM** - Commercial Space Federation (CSF) Welcomes Two New Associate Members (spacenews)
