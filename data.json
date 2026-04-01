@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-01T00:04:57.749803+00:00",
-    "trigger_count": 6,
-    "current_item_id": "488441cdb14c639daf9bf5b63a2a603e",
+    "trigger_count": 0,
+    "current_item_id": "cc32e2cc92ce686abdfe8dc91a58cce2",
     "data": [
         {
             "id": "b8f9686ade64542b009f1f8843c38431",
@@ -8233,6 +8233,18 @@
             "fetched_datetime": "2026-04-01T03:19:19.061761Z",
             "shown_at": [
                 "2026-04-01T03:19:19.916480Z"
+            ]
+        },
+        {
+            "id": "cc32e2cc92ce686abdfe8dc91a58cce2",
+            "source": "spacenews",
+            "text": "Chinese startup tests flexible robotic arm in space for on-orbit servicing",
+            "source_link": "https://spacenews.com/chinese-startup-tests-flexible-robotic-arm-in-space-for-on-orbit-servicing/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-01T08:14:28.987626Z",
+            "shown_at": [
+                "2026-04-01T08:14:30.370729Z"
             ]
         }
     ]

@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 18 | 20 | 45 |
+| spacenews | 7 | 19 | 21 | 46 |
 | nyt | 5 | 6 | 19 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2717,3 +2717,4 @@
 - **Apr 01, 06:14 AM** - Commercial Space Federation (CSF) Welcomes Two New Associate Members (spacenews)
 - **Apr 01, 06:49 AM** - Astronaut’s Condition That Led to Space Station Evacuation Remains a Mystery (nyt)
 - **Apr 01, 07:24 AM** - Antaris™ Raises $28 Million Series A to Accelerate AI-Driven Space Missions (spacenews)
+- **Apr 01, 08:14 AM** - Chinese startup tests flexible robotic arm in space for on-orbit servicing (spacenews)
