@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 16 | 20 | 40 |
+| spacenews | 13 | 20 | 21 | 41 |
 | nyt | 9 | 12 | 19 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2734,3 +2734,4 @@
 - **Apr 01, 04:59 PM** - Meet the four astronauts of Artemis II. (nyt)
 - **Apr 01, 05:34 PM** - Live Updates: Artemis Astronauts Begin Suiting Up for Moon Launch (nyt)
 - **Apr 01, 06:09 PM** - Who Is Reid Wiseman, Commander of the Artemis II Moon Mission? (nyt)
+- **Apr 01, 06:44 PM** - Teledyne forms dedicated space unit to capture rising demand (spacenews)

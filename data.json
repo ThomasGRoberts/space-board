@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-01T00:04:57.749803+00:00",
-    "trigger_count": 6,
-    "current_item_id": "666c3f65a51cb37ad52b1e80982069dc",
+    "trigger_count": 0,
+    "current_item_id": "f1f47633d6525de42d3123a95bef8205",
     "data": [
         {
             "id": "b8f9686ade64542b009f1f8843c38431",
@@ -8403,6 +8403,45 @@
             "shown": false,
             "type": "news",
             "fetched_datetime": "2026-04-01T17:34:44.612217Z"
+        },
+        {
+            "id": "f1f47633d6525de42d3123a95bef8205",
+            "source": "spacenews",
+            "text": "Teledyne forms dedicated space unit to capture rising demand",
+            "source_link": "https://spacenews.com/teledyne-forms-dedicated-space-unit-to-capture-rising-demand/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-01T18:44:17.891242Z",
+            "shown_at": [
+                "2026-04-01T18:44:19.118311Z"
+            ]
+        },
+        {
+            "id": "2099c4b16592a3a44c78fe80ca92cc60",
+            "source": "spacenews",
+            "text": "Artemis 2’s (nearly) 10-day flight around the moon",
+            "source_link": "https://spacenews.com/artemis-2s-nearly-10-day-flight-around-the-moon/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-01T18:44:17.891315Z"
+        },
+        {
+            "id": "a715aceb4d8086cf267c578b501160d4",
+            "source": "spacenews",
+            "text": "Saltzman: Space ‘baked into’ modern combat operations",
+            "source_link": "https://spacenews.com/saltzman-space-baked-into-modern-combat-operations/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-01T18:44:17.891365Z"
+        },
+        {
+            "id": "fc581a95facea66866f6dffae464c6b9",
+            "source": "spacenews",
+            "text": "Aspect Aerospace secures early funding to advance swarm-deployable VLEO satellites",
+            "source_link": "https://spacenews.com/aspect-aerospace-secures-early-funding-to-advance-swarm-deployable-vleo-satellites/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-01T18:44:17.891408Z"
         }
     ]
 }
