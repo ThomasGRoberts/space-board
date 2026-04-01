@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-01T00:04:57.749803+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e3a1017734d20ebabff16490932a73e0",
+    "trigger_count": 0,
+    "current_item_id": "772cd837fa6a89c1dfc0b201fae97feb",
     "data": [
         {
             "id": "b8f9686ade64542b009f1f8843c38431",
@@ -8349,9 +8349,12 @@
             "source": "nyt",
             "text": "58 Years After ‘Earthrise,’ NASA’s New Moonshot May Rediscover Earth",
             "source_link": "https://www.nytimes.com/card/2026/04/01/science/space/nasa-moon-artemis-ii-apollo-8",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-04-01T14:39:42.554726Z"
+            "fetched_datetime": "2026-04-01T14:39:42.554726Z",
+            "shown_at": [
+                "2026-04-01T15:49:27.385098Z"
+            ]
         },
         {
             "id": "0509ac731b9e3cebe6451f6a430374cd",

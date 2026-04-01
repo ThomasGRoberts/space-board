@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 19 | 21 | 43 |
-| nyt | 6 | 9 | 18 | 36 |
+| nyt | 6 | 9 | 19 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2729,3 +2729,4 @@
 - **Apr 01, 02:04 PM** - Artemis 2 fueling underway (spacenews)
 - **Apr 01, 02:39 PM** - Live Updates: NASA Starts Fueling Rocket for Artemis II Moon Launch (nyt)
 - **Apr 01, 03:14 PM** - From the Midwest to the Moon (spacenews)
+- **Apr 01, 03:49 PM** - 58 Years After ‘Earthrise,’ NASA’s New Moonshot May Rediscover Earth (nyt)
