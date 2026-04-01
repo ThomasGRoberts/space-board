@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 17 | 20 | 44 |
+| spacenews | 7 | 18 | 21 | 45 |
 | nyt | 4 | 5 | 20 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2706,3 +2706,4 @@
 - **Mar 31, 11:49 PM** - Did Scientists Just Detect an Exploding Black Hole? (nyt)
 - **Apr 01, 12:24 AM** - Varda flies navigation payload, heat shield tests on sixth reentry mission (spacenews)
 - **Apr 01, 12:59 AM** - Did Scientists Just Detect an Exploding Black Hole? (nyt)
+- **Apr 01, 01:34 AM** - Virgin Galactic expects commercial suborbital flights to resume late this year (spacenews)

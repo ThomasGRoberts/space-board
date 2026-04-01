@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-01T00:04:57.749803+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3953de1aa8d20af3062dbb2f0001beaa",
+    "trigger_count": 0,
+    "current_item_id": "9b2b6d283804e902ee367edff41d735e",
     "data": [
         {
             "id": "b8f9686ade64542b009f1f8843c38431",
@@ -8200,6 +8200,18 @@
             "fetched_datetime": "2026-01-20T14:09:11.203152Z",
             "shown_at": [
                 "2026-01-20T14:09:12.309223Z"
+            ]
+        },
+        {
+            "id": "9b2b6d283804e902ee367edff41d735e",
+            "source": "spacenews",
+            "text": "Virgin Galactic expects commercial suborbital flights to resume late this year",
+            "source_link": "https://spacenews.com/virgin-galactic-expects-commercial-suborbital-flights-to-resume-late-this-year/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-01T01:34:21.649745Z",
+            "shown_at": [
+                "2026-04-01T01:34:22.373219Z"
             ]
         }
     ]
