@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-01T00:04:57.749803+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f6d7256e2c73d9d5cb072c485bf28592",
+    "trigger_count": 0,
+    "current_item_id": "055233610827e6ada3c32e0586dcd9ef",
     "data": [
         {
             "id": "b8f9686ade64542b009f1f8843c38431",
@@ -8214,6 +8214,18 @@
             "fetched_datetime": "2026-04-01T01:34:21.649745Z",
             "shown_at": [
                 "2026-04-01T01:34:22.373219Z"
+            ]
+        },
+        {
+            "id": "055233610827e6ada3c32e0586dcd9ef",
+            "source": "nyt",
+            "text": "Meet the Astronauts of NASA’s Artemis II Moon Mission",
+            "source_link": "https://www.nytimes.com/2026/03/31/science/nasa-artemis-ii-mission-astronauts.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-01T03:19:19.061761Z",
+            "shown_at": [
+                "2026-04-01T03:19:19.916480Z"
             ]
         }
     ]

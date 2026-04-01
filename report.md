@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 18 | 21 | 45 |
-| nyt | 4 | 5 | 19 | 35 |
+| nyt | 5 | 6 | 20 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2709,3 +2709,4 @@
 - **Apr 01, 01:34 AM** - Virgin Galactic expects commercial suborbital flights to resume late this year (spacenews)
 - **Apr 01, 02:09 AM** - NASA Is Launching Astronauts to the Moon, but Americans Aren’t That Excited (nyt)
 - **Apr 01, 02:44 AM** - The race to build orbital data centers is missing its biggest variable: power (spacenews)
+- **Apr 01, 03:19 AM** - Meet the Astronauts of NASA’s Artemis II Moon Mission (nyt)
