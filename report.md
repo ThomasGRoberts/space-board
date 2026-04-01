@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 19 | 20 | 40 |
-| nyt | 9 | 12 | 19 | 39 |
+| nyt | 15 | 18 | 20 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2737,3 +2737,4 @@
 - **Apr 01, 06:44 PM** - Teledyne forms dedicated space unit to capture rising demand (spacenews)
 - **Apr 01, 07:19 PM** - How to Watch NASA’s Artemis II Moon Launch Online (nyt)
 - **Apr 01, 07:54 PM** - Artemis 2’s (nearly) 10-day flight around the moon (spacenews)
+- **Apr 01, 08:34 PM** - Live Updates: Artemis Astronauts Board Spacecraft for NASA Moon Launch (nyt)

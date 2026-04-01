@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-01T00:04:57.749803+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2099c4b16592a3a44c78fe80ca92cc60",
+    "trigger_count": 0,
+    "current_item_id": "a698b8f6a7dabbba8a44116dd4486323",
     "data": [
         {
             "id": "b8f9686ade64542b009f1f8843c38431",
@@ -8448,6 +8448,63 @@
             "shown": false,
             "type": "news",
             "fetched_datetime": "2026-04-01T18:44:17.891408Z"
+        },
+        {
+            "id": "a698b8f6a7dabbba8a44116dd4486323",
+            "source": "nyt",
+            "text": "Live Updates: Artemis Astronauts Board Spacecraft for NASA Moon Launch",
+            "source_link": "https://www.nytimes.com/live/2026/04/01/science/moon-nasa-artemis-launch",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-01T20:34:32.090077Z",
+            "shown_at": [
+                "2026-04-01T20:34:33.498897Z"
+            ]
+        },
+        {
+            "id": "45ec07a47fcd309a487fc661eb8d7f9e",
+            "source": "nyt",
+            "text": "Who Made the Artemis II Rocket and Space Capsule?",
+            "source_link": "https://www.nytimes.com/2026/04/01/science/space/artemis-ii-rocket-space-capsule-boeing-lockheed-martin.html",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-01T20:34:32.090476Z"
+        },
+        {
+            "id": "61f9040a905dd81472a06051207ea125",
+            "source": "nyt",
+            "text": "Jeremy Hansen, an Artemis II Astronaut, Is the First Canadian on a Crewed Moon Mission",
+            "source_link": "https://www.nytimes.com/2026/04/01/science/space/jeremy-hansen-artemis-ii-astronaut-canada.html",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-01T20:34:32.090501Z"
+        },
+        {
+            "id": "e0eec120cedc0e0b60e35570a201561c",
+            "source": "nyt",
+            "text": "Christina Koch Will Be the First Female Astronaut to Journey Around the Moon",
+            "source_link": "https://www.nytimes.com/2026/04/01/science/space/christina-koch-artemis-ii-astronaut-moon.html",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-01T20:34:32.090521Z"
+        },
+        {
+            "id": "6e37259c13584c69d2888ab89223443a",
+            "source": "nyt",
+            "text": "How NASA Is Keeping the Astronauts Safe During the Artemis II Mission",
+            "source_link": "https://www.nytimes.com/2026/04/01/science/nasa-artemis-ii-moon-astronauts-safety.html",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-01T20:34:32.090541Z"
+        },
+        {
+            "id": "eef8fd34c94ab81e827d67467a89c3b7",
+            "source": "nyt",
+            "text": "Victor Glover, the Artemis II Pilot, Will Be the First Black Astronaut to Circle the Moon",
+            "source_link": "https://www.nytimes.com/2026/04/01/science/victor-glover-artemis-ii-first-black-astronaut-moon.html",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-01T20:34:32.090603Z"
         }
     ]
 }
