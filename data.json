@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-01T00:04:57.749803+00:00",
-    "trigger_count": 6,
-    "current_item_id": "cc32e2cc92ce686abdfe8dc91a58cce2",
+    "trigger_count": 0,
+    "current_item_id": "b82332f5e2343207588551bb76564ae5",
     "data": [
         {
             "id": "b8f9686ade64542b009f1f8843c38431",
@@ -8245,6 +8245,18 @@
             "fetched_datetime": "2026-04-01T08:14:28.987626Z",
             "shown_at": [
                 "2026-04-01T08:14:30.370729Z"
+            ]
+        },
+        {
+            "id": "b82332f5e2343207588551bb76564ae5",
+            "source": "nyt",
+            "text": "NASA’s Mission Back to the Moon",
+            "source_link": "https://www.nytimes.com/video/science/space/100000010788126/nasas-mission-back-to-the-moon.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-01T09:06:51.904492Z",
+            "shown_at": [
+                "2026-04-01T09:06:52.645177Z"
             ]
         }
     ]
