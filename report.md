@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 19 | 20 | 45 |
+| spacenews | 7 | 20 | 21 | 45 |
 | nyt | 6 | 7 | 19 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2719,3 +2719,4 @@
 - **Apr 01, 07:24 AM** - Antaris™ Raises $28 Million Series A to Accelerate AI-Driven Space Missions (spacenews)
 - **Apr 01, 08:14 AM** - Chinese startup tests flexible robotic arm in space for on-orbit servicing (spacenews)
 - **Apr 01, 09:06 AM** - NASA’s Mission Back to the Moon (nyt)
+- **Apr 01, 09:44 AM** - Vantor wins intelligence agency contract to monitor space objects (spacenews)
