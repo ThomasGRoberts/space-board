@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-01T00:04:57.749803+00:00",
-    "trigger_count": 6,
-    "current_item_id": "eade144e34de43ba945939a9ee40f378",
+    "trigger_count": 0,
+    "current_item_id": "503795883c9898d2a56778b84def06e4",
     "data": [
         {
             "id": "b8f9686ade64542b009f1f8843c38431",
@@ -8270,6 +8270,18 @@
             "fetched_datetime": "2026-04-01T09:44:28.572570Z",
             "shown_at": [
                 "2026-04-01T09:44:30.056756Z"
+            ]
+        },
+        {
+            "id": "503795883c9898d2a56778b84def06e4",
+            "source": "spacenews",
+            "text": "After three years, Artemis 2 astronauts ready to launch",
+            "source_link": "https://spacenews.com/after-three-years-artemis-2-astronauts-ready-to-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-01T10:54:27.552737Z",
+            "shown_at": [
+                "2026-04-01T10:54:29.017301Z"
             ]
         }
     ]

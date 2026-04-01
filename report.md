@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 20 | 21 | 45 |
+| spacenews | 8 | 21 | 22 | 46 |
 | nyt | 3 | 7 | 18 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2721,3 +2721,4 @@
 - **Apr 01, 09:06 AM** - NASA’s Mission Back to the Moon (nyt)
 - **Apr 01, 09:44 AM** - Vantor wins intelligence agency contract to monitor space objects (spacenews)
 - **Apr 01, 10:19 AM** - For NASA’s Artemis II Crew, Journey to the Moon ‘Starting to Feel Real’ (nyt)
+- **Apr 01, 10:54 AM** - After three years, Artemis 2 astronauts ready to launch (spacenews)
