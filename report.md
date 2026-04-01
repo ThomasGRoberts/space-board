@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 18 | 21 | 45 |
-| nyt | 5 | 6 | 19 | 35 |
+| nyt | 5 | 6 | 20 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2711,3 +2711,4 @@
 - **Apr 01, 02:44 AM** - The race to build orbital data centers is missing its biggest variable: power (spacenews)
 - **Apr 01, 03:19 AM** - Meet the Astronauts of NASA’s Artemis II Moon Mission (nyt)
 - **Apr 01, 03:54 AM** - Cast your vote for the best sci-fi spaceship and then watch debaters duke it out at Space Symposium (spacenews)
+- **Apr 01, 04:29 AM** - Did Scientists Just Detect an Exploding Black Hole? (nyt)
