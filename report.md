@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 17 | 21 | 42 |
-| nyt | 6 | 9 | 18 | 37 |
+| nyt | 6 | 9 | 19 | 38 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2731,3 +2731,4 @@
 - **Apr 01, 03:14 PM** - From the Midwest to the Moon (spacenews)
 - **Apr 01, 03:49 PM** - 58 Years After ‘Earthrise,’ NASA’s New Moonshot May Rediscover Earth (nyt)
 - **Apr 01, 04:24 PM** - The Florida Model for Sustainable Aerospace Growth (spacenews)
+- **Apr 01, 04:59 PM** - Meet the four astronauts of Artemis II. (nyt)

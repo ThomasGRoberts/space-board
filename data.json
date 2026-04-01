@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-01T00:04:57.749803+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6235364a0d45a2b6f0b2665ef218a501",
+    "trigger_count": 0,
+    "current_item_id": "0509ac731b9e3cebe6451f6a430374cd",
     "data": [
         {
             "id": "b8f9686ade64542b009f1f8843c38431",
@@ -8364,9 +8364,12 @@
             "source": "nyt",
             "text": "Meet the four astronauts of Artemis II.",
             "source_link": "https://www.nytimes.com/live/2026/04/01/science/moon-nasa-artemis-launch/meet-the-four-astronauts-of-artemis-ii",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-04-01T14:39:42.555100Z"
+            "fetched_datetime": "2026-04-01T14:39:42.555100Z",
+            "shown_at": [
+                "2026-04-01T16:59:24.314453Z"
+            ]
         }
     ]
 }
