@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-01T00:04:57.749803+00:00",
-    "trigger_count": 6,
-    "current_item_id": "61f9040a905dd81472a06051207ea125",
+    "trigger_count": 0,
+    "current_item_id": "3eecd3aab0f75674ca82a9ce984aaa40",
     "data": [
         {
             "id": "b8f9686ade64542b009f1f8843c38431",
@@ -8517,6 +8517,27 @@
             "shown": false,
             "type": "news",
             "fetched_datetime": "2026-04-01T20:34:32.090603Z"
+        },
+        {
+            "id": "3eecd3aab0f75674ca82a9ce984aaa40",
+            "source": "spacenews",
+            "text": "Artemis 2 launches on first human mission to the moon in more than 50 years",
+            "source_link": "https://spacenews.com/artemis-2-launches-on-first-mission-to-the-moon-in-more-than-50-years/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-01T23:28:57.186140Z",
+            "shown_at": [
+                "2026-04-01T23:28:58.358250Z"
+            ]
+        },
+        {
+            "id": "815769886ed0a6509c60ea72eba7bf8a",
+            "source": "spacenews",
+            "text": "SpaceX quietly files for big bang IPO",
+            "source_link": "https://spacenews.com/spacex-quietly-files-for-big-bang-ipo/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-01T23:28:57.186209Z"
         }
     ]
 }

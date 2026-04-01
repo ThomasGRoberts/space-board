@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 18 | 19 | 40 |
+| spacenews | 14 | 20 | 20 | 41 |
 | nyt | 14 | 18 | 20 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2742,3 +2742,4 @@
 - **Apr 01, 09:44 PM** - Who Made the Artemis II Rocket and Space Capsule? (nyt)
 - **Apr 01, 10:19 PM** - Aspect Aerospace secures early funding to advance swarm-deployable VLEO satellites (spacenews)
 - **Apr 01, 10:54 PM** - Jeremy Hansen, an Artemis II Astronaut, Is the First Canadian on a Crewed Moon Mission (nyt)
+- **Apr 01, 11:28 PM** - Artemis 2 launches on first human mission to the moon in more than 50 years (spacenews)
