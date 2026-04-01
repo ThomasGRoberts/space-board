@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 17 | 21 | 45 |
-| nyt | 4 | 5 | 19 | 35 |
+| spacenews | 6 | 17 | 20 | 45 |
+| nyt | 4 | 5 | 20 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2705,3 +2705,4 @@
 - **Mar 31, 11:14 PM** - Cast your vote for the best sci-fi spaceship and then watch debaters duke it out at Space Symposium (spacenews)
 - **Mar 31, 11:49 PM** - Did Scientists Just Detect an Exploding Black Hole? (nyt)
 - **Apr 01, 12:24 AM** - Varda flies navigation payload, heat shield tests on sixth reentry mission (spacenews)
+- **Apr 01, 12:59 AM** - Did Scientists Just Detect an Exploding Black Hole? (nyt)
