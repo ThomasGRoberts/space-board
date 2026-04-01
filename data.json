@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-01T00:04:57.749803+00:00",
-    "trigger_count": 6,
-    "current_item_id": "510ecfe342ed0e84d312751128ef0a07",
+    "trigger_count": 0,
+    "current_item_id": "2099c4b16592a3a44c78fe80ca92cc60",
     "data": [
         {
             "id": "b8f9686ade64542b009f1f8843c38431",
@@ -8424,9 +8424,12 @@
             "source": "spacenews",
             "text": "Artemis 2’s (nearly) 10-day flight around the moon",
             "source_link": "https://spacenews.com/artemis-2s-nearly-10-day-flight-around-the-moon/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-04-01T18:44:17.891315Z"
+            "fetched_datetime": "2026-04-01T18:44:17.891315Z",
+            "shown_at": [
+                "2026-04-01T19:54:16.297170Z"
+            ]
         },
         {
             "id": "a715aceb4d8086cf267c578b501160d4",

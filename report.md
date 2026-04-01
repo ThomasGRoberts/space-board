@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 20 | 20 | 40 |
+| spacenews | 13 | 20 | 21 | 41 |
 | nyt | 9 | 12 | 19 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2736,3 +2736,4 @@
 - **Apr 01, 06:09 PM** - Who Is Reid Wiseman, Commander of the Artemis II Moon Mission? (nyt)
 - **Apr 01, 06:44 PM** - Teledyne forms dedicated space unit to capture rising demand (spacenews)
 - **Apr 01, 07:19 PM** - How to Watch NASA’s Artemis II Moon Launch Online (nyt)
+- **Apr 01, 07:54 PM** - Artemis 2’s (nearly) 10-day flight around the moon (spacenews)
