@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 20 | 21 | 43 |
+| spacenews | 9 | 20 | 22 | 44 |
 | nyt | 6 | 9 | 18 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2728,3 +2728,4 @@
 - **Apr 01, 01:29 PM** - Creating near-term lunar settlements: lessons from space history  (spacenews)
 - **Apr 01, 02:04 PM** - Artemis 2 fueling underway (spacenews)
 - **Apr 01, 02:39 PM** - Live Updates: NASA Starts Fueling Rocket for Artemis II Moon Launch (nyt)
+- **Apr 01, 03:14 PM** - From the Midwest to the Moon (spacenews)
