@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 18 | 20 | 40 |
-| nyt | 15 | 18 | 19 | 39 |
+| nyt | 15 | 18 | 20 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2739,3 +2739,4 @@
 - **Apr 01, 07:54 PM** - Artemis 2’s (nearly) 10-day flight around the moon (spacenews)
 - **Apr 01, 08:34 PM** - Live Updates: Artemis Astronauts Board Spacecraft for NASA Moon Launch (nyt)
 - **Apr 01, 09:09 PM** - Saltzman: Space ‘baked into’ modern combat operations (spacenews)
+- **Apr 01, 09:44 PM** - Who Made the Artemis II Rocket and Space Capsule? (nyt)

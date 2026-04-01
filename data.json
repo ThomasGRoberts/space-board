@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-01T00:04:57.749803+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a715aceb4d8086cf267c578b501160d4",
+    "trigger_count": 0,
+    "current_item_id": "45ec07a47fcd309a487fc661eb8d7f9e",
     "data": [
         {
             "id": "b8f9686ade64542b009f1f8843c38431",
@@ -8469,9 +8469,12 @@
             "source": "nyt",
             "text": "Who Made the Artemis II Rocket and Space Capsule?",
             "source_link": "https://www.nytimes.com/2026/04/01/science/space/artemis-ii-rocket-space-capsule-boeing-lockheed-martin.html",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-04-01T20:34:32.090476Z"
+            "fetched_datetime": "2026-04-01T20:34:32.090476Z",
+            "shown_at": [
+                "2026-04-01T21:44:23.327857Z"
+            ]
         },
         {
             "id": "61f9040a905dd81472a06051207ea125",
