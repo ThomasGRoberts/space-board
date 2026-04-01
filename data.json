@@ -1,9 +1,131 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-03-31T00:04:27.592007+00:00",
-    "trigger_count": 2,
+    "last_run_datetime": "2026-04-01T00:04:57.749803+00:00",
+    "trigger_count": 3,
     "current_item_id": "3953de1aa8d20af3062dbb2f0001beaa",
     "data": [
+        {
+            "id": "b8f9686ade64542b009f1f8843c38431",
+            "source": "spacenews",
+            "text": "Cast your vote for the best sci-fi spaceship and then watch debaters duke it out at Space Symposium",
+            "source_link": "https://spacenews.com/spaceship-smackdown-space-symposium-2026/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-31T23:14:20.235558Z",
+            "shown_at": [
+                "2026-03-31T23:14:21.608027Z"
+            ]
+        },
+        {
+            "id": "bc45f1121ce2a7837102c0b070091f4b",
+            "source": "nyt",
+            "text": "Why the Artemis II Astronauts Will Be Wearing Orange",
+            "source_link": "https://www.nytimes.com/2026/03/31/style/artemis-ii-spacesuits-orange-astronauts.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-31T22:04:33.930271Z",
+            "shown_at": [
+                "2026-03-31T22:04:35.094693Z"
+            ]
+        },
+        {
+            "id": "b5183ea6ca3ee119fe74e4a2191a3888",
+            "source": "spacenews",
+            "text": "Agentic AI: the future of space warfare",
+            "source_link": "https://spacenews.com/agentic-ai-the-future-of-space-warfare/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-31T13:59:26.318693Z",
+            "shown_at": [
+                "2026-03-31T13:59:27.474904Z"
+            ]
+        },
+        {
+            "id": "488441cdb14c639daf9bf5b63a2a603e",
+            "source": "spacenews",
+            "text": "Antaris™ Raises $28 Million Series A to Accelerate AI-Driven Space Missions",
+            "source_link": "https://spacenews.com/antaris-raises-28-million-series-a-to-accelerate-ai-driven-space-missions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-31T12:14:14.633292Z",
+            "shown_at": [
+                "2026-03-31T12:14:15.953893Z"
+            ]
+        },
+        {
+            "id": "4d545469edc0e482c7fc51a6cc42a050",
+            "source": "spacenews",
+            "text": "China targets 140 launches in 2026 amid commercial space surge",
+            "source_link": "https://spacenews.com/china-targets-140-launches-in-2026-amid-commercial-space-surge/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-31T11:04:33.497469Z",
+            "shown_at": [
+                "2026-03-31T11:04:34.396094Z"
+            ]
+        },
+        {
+            "id": "19e7d51cc057575d6d0bb13433ec71d3",
+            "source": "nyt",
+            "text": "In a Moment of Division, the Astronauts on the Artemis II Mission Hope to Inspire",
+            "source_link": "https://www.nytimes.com/2026/03/31/science/nasa-artemis-ii-mission-astronauts.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-31T09:54:28.939504Z",
+            "shown_at": [
+                "2026-03-31T11:39:05.012975Z"
+            ]
+        },
+        {
+            "id": "ec9eef762bae32dd562d2a41dfc04541",
+            "source": "nyt",
+            "text": "For Trump, the Artemis II Moon Mission Offers a Shot to Cement His Legacy",
+            "source_link": "https://www.nytimes.com/2026/03/31/us/politics/trump-artemis-ii-moon-mission.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-31T09:54:28.939436Z",
+            "shown_at": [
+                "2026-03-31T10:29:21.060377Z",
+                "2026-03-31T17:24:10.588178Z"
+            ]
+        },
+        {
+            "id": "83f113ab5c881c66675979a336169fde",
+            "source": "nyt",
+            "text": "First Canadian Astronaut Will Travel to the Moon Amid Fraying U.S.-Canada Relations",
+            "source_link": "https://www.nytimes.com/2026/03/31/world/canada/canada-astronaut-artemis-ii-mission-moon.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-31T09:54:28.939394Z",
+            "shown_at": [
+                "2026-03-31T09:54:29.978097Z",
+                "2026-03-31T16:14:15.376002Z"
+            ]
+        },
+        {
+            "id": "f9e5eb9f9aa572760aaba8c7c517e786",
+            "source": "spacenews",
+            "text": "Europe’s space sector faces power shift as funding grows",
+            "source_link": "https://spacenews.com/europes-space-sector-faces-power-shift-as-funding-grows/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-31T09:19:29.684592Z",
+            "shown_at": [
+                "2026-03-31T09:19:30.455008Z"
+            ]
+        },
+        {
+            "id": "fa32fabd15116d757bb3e5ee1957128f",
+            "source": "spacenews",
+            "text": "Artemis 2 countdown underway",
+            "source_link": "https://spacenews.com/artemis-2-countdown-underway/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-03-31T06:49:28.530396Z",
+            "shown_at": [
+                "2026-03-31T06:49:29.149724Z"
+            ]
+        },
         {
             "id": "7e32cf0824da64456a70c00219503c0d",
             "source": "spacenews",
@@ -8076,294 +8198,6 @@
             "fetched_datetime": "2026-01-20T14:09:11.203152Z",
             "shown_at": [
                 "2026-01-20T14:09:12.309223Z"
-            ]
-        },
-        {
-            "id": "3548c11f1fc1e9ae714ffb0591bc1827",
-            "source": "spacenews",
-            "text": "Sodern to produce star trackers in Colorado",
-            "source_link": "https://spacenews.com/sodern-to-produce-star-trackers-in-colorado/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-20T12:59:02.275932Z",
-            "shown_at": [
-                "2026-01-20T12:59:03.282680Z",
-                "2026-01-20T17:49:16.079203Z",
-                "2026-01-21T07:04:42.009370Z",
-                "2026-01-22T01:39:06.454029Z",
-                "2026-01-23T04:04:31.181284Z",
-                "2026-01-25T14:34:23.377874Z"
-            ]
-        },
-        {
-            "id": "4917ce5e132888679e22513965fc45ad",
-            "source": "spacenews",
-            "text": "Gilmour Space raises $146 million",
-            "source_link": "https://spacenews.com/gilmour-space-raises-146-million/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-20T11:49:07.456296Z",
-            "shown_at": [
-                "2026-01-20T11:49:08.521925Z",
-                "2026-01-21T16:59:10.870934Z"
-            ]
-        },
-        {
-            "id": "4da9c472aac7ade68e182eeeda97598f",
-            "source": "spacenews",
-            "text": "Damaged DSN antenna out of service until May",
-            "source_link": "https://spacenews.com/damaged-dsn-antenna-out-of-service-until-may/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-19T23:08:59.576587Z",
-            "shown_at": [
-                "2026-01-19T23:09:00.605993Z",
-                "2026-01-24T18:44:55.977399Z"
-            ]
-        },
-        {
-            "id": "bfa6725ec1633dadd9ddd45644c90660",
-            "source": "spacenews",
-            "text": "NASA must act now to ensure U.S. leadership in space",
-            "source_link": "https://spacenews.com/nasa-must-act-now-to-ensure-u-s-leadership-in-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-19T14:14:33.995267Z",
-            "shown_at": [
-                "2026-01-19T14:14:34.835441Z",
-                "2026-01-20T09:54:12.685845Z",
-                "2026-01-21T20:54:43.314382Z",
-                "2026-01-24T15:14:19.491453Z"
-            ]
-        },
-        {
-            "id": "0bdd163bf8c0e028d4fea5a0b64f3d9f",
-            "source": "spacenews",
-            "text": "Space Force ends ‘Resilient GPS’ satellite program",
-            "source_link": "https://spacenews.com/space-force-ends-resilient-gps-satellite-program/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-19T13:04:42.582639Z",
-            "shown_at": [
-                "2026-01-19T13:04:43.387481Z",
-                "2026-01-22T03:24:46.444999Z",
-                "2026-01-22T08:44:09.457262Z",
-                "2026-01-23T07:34:33.099865Z",
-                "2026-01-24T01:04:31.755202Z",
-                "2026-01-26T11:49:07.521054Z"
-            ]
-        },
-        {
-            "id": "dd3324befa370d908df50a05349bdf7a",
-            "source": "spacenews",
-            "text": "Eutelsat signs OneWeb launch deal with MaiaSpace",
-            "source_link": "https://spacenews.com/eutelsat-signs-oneweb-launch-deal-with-maiaspace/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-18T17:39:43.657735Z",
-            "shown_at": [
-                "2026-01-18T17:39:44.372500Z"
-            ]
-        },
-        {
-            "id": "ae3bcef8ea216e128fc1e801aff8a298",
-            "source": "nyt",
-            "text": "Artemis II Moon Mission: NASA Completes Giant Rocket’s Slow Ride to Launchpad",
-            "source_link": "https://www.nytimes.com/2026/01/17/science/nasa-artemis-ii-rocket-moon.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-18T01:09:17.453321Z",
-            "shown_at": [
-                "2026-01-18T01:09:18.237351Z",
-                "2026-01-18T06:28:56.511112Z",
-                "2026-01-20T15:19:06.426502Z",
-                "2026-01-23T03:29:08.719705Z",
-                "2026-01-23T05:14:25.139914Z",
-                "2026-01-23T20:59:03.371105Z",
-                "2026-01-24T02:14:11.801665Z",
-                "2026-01-24T05:44:16.844306Z",
-                "2026-01-24T07:28:55.410931Z",
-                "2026-01-24T11:04:47.095457Z",
-                "2026-01-24T12:54:08.245868Z",
-                "2026-01-24T23:24:22.140342Z"
-            ]
-        },
-        {
-            "id": "bd8f76cad6ade4d7488ebe8719380422",
-            "source": "spacenews",
-            "text": "SLS/Orion rolls to pad for Artemis 2",
-            "source_link": "https://spacenews.com/sls-orion-rolls-to-pad-for-artemis-2/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-17T19:19:06.852320Z",
-            "shown_at": [
-                "2026-01-17T19:19:08.014020Z",
-                "2026-01-24T08:04:12.673221Z"
-            ]
-        },
-        {
-            "id": "d93c9040893828a7ada33a56d8d6c8c8",
-            "source": "nyt",
-            "text": "Artemis II Moon Mission: NASA Begins Rolling Giant Rocket to Launchpad",
-            "source_link": "https://www.nytimes.com/2026/01/17/science/nasa-artemis-ii-rocket-moon.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-17T18:44:26.076223Z",
-            "shown_at": [
-                "2026-01-17T18:44:26.991478Z",
-                "2026-01-18T13:34:21.007206Z",
-                "2026-01-19T23:44:05.868188Z",
-                "2026-01-20T01:29:23.572872Z",
-                "2026-01-20T03:14:24.090164Z",
-                "2026-01-21T09:59:11.148512Z",
-                "2026-01-22T06:19:15.447990Z",
-                "2026-01-22T14:14:31.804905Z",
-                "2026-01-22T16:49:16.204211Z",
-                "2026-01-22T18:34:35.404407Z",
-                "2026-01-22T22:44:20.784784Z",
-                "2026-01-23T10:29:15.798828Z",
-                "2026-01-23T14:34:29.683831Z",
-                "2026-01-23T19:14:11.309314Z",
-                "2026-01-23T22:44:16.237356Z",
-                "2026-01-24T00:28:54.227383Z",
-                "2026-01-24T03:59:03.382839Z",
-                "2026-01-24T16:24:15.131513Z",
-                "2026-01-24T18:09:43.045827Z"
-            ]
-        },
-        {
-            "id": "c0fddacabb8faa0b6b8d8ccedb6cb9ef",
-            "source": "spacenews",
-            "text": "White House resubmits NASA deputy administrator nominee",
-            "source_link": "https://spacenews.com/white-house-resubmits-nasa-deputy-administrator-nominee/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-17T12:49:20.087478Z",
-            "shown_at": [
-                "2026-01-17T12:49:21.453841Z",
-                "2026-01-22T15:39:17.184835Z"
-            ]
-        },
-        {
-            "id": "fa32fabd15116d757bb3e5ee1957128f",
-            "source": "spacenews",
-            "text": "Artemis 2 countdown underway",
-            "source_link": "https://spacenews.com/artemis-2-countdown-underway/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-31T06:49:28.530396Z",
-            "shown_at": [
-                "2026-03-31T06:49:29.149724Z"
-            ]
-        },
-        {
-            "id": "f9e5eb9f9aa572760aaba8c7c517e786",
-            "source": "spacenews",
-            "text": "Europe’s space sector faces power shift as funding grows",
-            "source_link": "https://spacenews.com/europes-space-sector-faces-power-shift-as-funding-grows/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-31T09:19:29.684592Z",
-            "shown_at": [
-                "2026-03-31T09:19:30.455008Z"
-            ]
-        },
-        {
-            "id": "83f113ab5c881c66675979a336169fde",
-            "source": "nyt",
-            "text": "First Canadian Astronaut Will Travel to the Moon Amid Fraying U.S.-Canada Relations",
-            "source_link": "https://www.nytimes.com/2026/03/31/world/canada/canada-astronaut-artemis-ii-mission-moon.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-31T09:54:28.939394Z",
-            "shown_at": [
-                "2026-03-31T09:54:29.978097Z",
-                "2026-03-31T16:14:15.376002Z"
-            ]
-        },
-        {
-            "id": "ec9eef762bae32dd562d2a41dfc04541",
-            "source": "nyt",
-            "text": "For Trump, the Artemis II Moon Mission Offers a Shot to Cement His Legacy",
-            "source_link": "https://www.nytimes.com/2026/03/31/us/politics/trump-artemis-ii-moon-mission.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-31T09:54:28.939436Z",
-            "shown_at": [
-                "2026-03-31T10:29:21.060377Z",
-                "2026-03-31T17:24:10.588178Z"
-            ]
-        },
-        {
-            "id": "19e7d51cc057575d6d0bb13433ec71d3",
-            "source": "nyt",
-            "text": "In a Moment of Division, the Astronauts on the Artemis II Mission Hope to Inspire",
-            "source_link": "https://www.nytimes.com/2026/03/31/science/nasa-artemis-ii-mission-astronauts.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-31T09:54:28.939504Z",
-            "shown_at": [
-                "2026-03-31T11:39:05.012975Z"
-            ]
-        },
-        {
-            "id": "4d545469edc0e482c7fc51a6cc42a050",
-            "source": "spacenews",
-            "text": "China targets 140 launches in 2026 amid commercial space surge",
-            "source_link": "https://spacenews.com/china-targets-140-launches-in-2026-amid-commercial-space-surge/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-31T11:04:33.497469Z",
-            "shown_at": [
-                "2026-03-31T11:04:34.396094Z"
-            ]
-        },
-        {
-            "id": "488441cdb14c639daf9bf5b63a2a603e",
-            "source": "spacenews",
-            "text": "Antaris™ Raises $28 Million Series A to Accelerate AI-Driven Space Missions",
-            "source_link": "https://spacenews.com/antaris-raises-28-million-series-a-to-accelerate-ai-driven-space-missions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-31T12:14:14.633292Z",
-            "shown_at": [
-                "2026-03-31T12:14:15.953893Z"
-            ]
-        },
-        {
-            "id": "b5183ea6ca3ee119fe74e4a2191a3888",
-            "source": "spacenews",
-            "text": "Agentic AI: the future of space warfare",
-            "source_link": "https://spacenews.com/agentic-ai-the-future-of-space-warfare/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-31T13:59:26.318693Z",
-            "shown_at": [
-                "2026-03-31T13:59:27.474904Z"
-            ]
-        },
-        {
-            "id": "bc45f1121ce2a7837102c0b070091f4b",
-            "source": "nyt",
-            "text": "Why the Artemis II Astronauts Will Be Wearing Orange",
-            "source_link": "https://www.nytimes.com/2026/03/31/style/artemis-ii-spacesuits-orange-astronauts.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-31T22:04:33.930271Z",
-            "shown_at": [
-                "2026-03-31T22:04:35.094693Z"
-            ]
-        },
-        {
-            "id": "b8f9686ade64542b009f1f8843c38431",
-            "source": "spacenews",
-            "text": "Cast your vote for the best sci-fi spaceship and then watch debaters duke it out at Space Symposium",
-            "source_link": "https://spacenews.com/spaceship-smackdown-space-symposium-2026/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-31T23:14:20.235558Z",
-            "shown_at": [
-                "2026-03-31T23:14:21.608027Z"
             ]
         }
     ]
