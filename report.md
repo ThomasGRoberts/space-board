@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 20 | 21 | 45 |
-| nyt | 3 | 7 | 18 | 35 |
+| nyt | 3 | 7 | 19 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2720,3 +2720,4 @@
 - **Apr 01, 08:14 AM** - Chinese startup tests flexible robotic arm in space for on-orbit servicing (spacenews)
 - **Apr 01, 09:06 AM** - NASA’s Mission Back to the Moon (nyt)
 - **Apr 01, 09:44 AM** - Vantor wins intelligence agency contract to monitor space objects (spacenews)
+- **Apr 01, 10:19 AM** - For NASA’s Artemis II Crew, Journey to the Moon ‘Starting to Feel Real’ (nyt)
