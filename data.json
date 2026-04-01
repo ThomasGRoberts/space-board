@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-01T00:04:57.749803+00:00",
-    "trigger_count": 6,
-    "current_item_id": "772cd837fa6a89c1dfc0b201fae97feb",
+    "trigger_count": 0,
+    "current_item_id": "6235364a0d45a2b6f0b2665ef218a501",
     "data": [
         {
             "id": "b8f9686ade64542b009f1f8843c38431",
@@ -8328,9 +8328,12 @@
             "source": "spacenews",
             "text": "The Florida Model for Sustainable Aerospace Growth",
             "source_link": "https://spacenews.com/florida-model-for-sustainable-aerospace-growth-sn-focus/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-04-01T13:29:10.000251Z"
+            "fetched_datetime": "2026-04-01T13:29:10.000251Z",
+            "shown_at": [
+                "2026-04-01T16:24:19.149607Z"
+            ]
         },
         {
             "id": "6c1c047362f9c13508c2680a224ddf21",
