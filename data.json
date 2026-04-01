@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-01T00:04:57.749803+00:00",
-    "trigger_count": 6,
-    "current_item_id": "fc581a95facea66866f6dffae464c6b9",
+    "trigger_count": 0,
+    "current_item_id": "61f9040a905dd81472a06051207ea125",
     "data": [
         {
             "id": "b8f9686ade64542b009f1f8843c38431",
@@ -8484,9 +8484,12 @@
             "source": "nyt",
             "text": "Jeremy Hansen, an Artemis II Astronaut, Is the First Canadian on a Crewed Moon Mission",
             "source_link": "https://www.nytimes.com/2026/04/01/science/space/jeremy-hansen-artemis-ii-astronaut-canada.html",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-04-01T20:34:32.090501Z"
+            "fetched_datetime": "2026-04-01T20:34:32.090501Z",
+            "shown_at": [
+                "2026-04-01T22:54:31.542425Z"
+            ]
         },
         {
             "id": "e0eec120cedc0e0b60e35570a201561c",
