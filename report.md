@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 19 | 14 | 34 |
-| nyt | 16 | 25 | 23 | 42 |
+| spacenews | 6 | 19 | 15 | 35 |
+| nyt | 16 | 25 | 22 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2589,3 +2589,4 @@
 - **Apr 02, 05:39 PM** - Artemis 2’s (nearly) 10-day flight around the moon (spacenews)
 - **Apr 02, 06:14 PM** - Pentagon awards Raytheon $45 million for GPS ground system as program future is reassessed (spacenews)
 - **Apr 02, 06:49 PM** - Live Updates: NASA Starts Fueling Rocket for Artemis II Moon Launch (nyt)
+- **Apr 02, 07:24 PM** - Starcloud achieves unicorn status with $170 million raise for orbital data centers (spacenews)
