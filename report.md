@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 20 | 18 | 38 |
-| nyt | 18 | 23 | 21 | 41 |
+| nyt | 18 | 23 | 22 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2566,3 +2566,4 @@
 - **Apr 02, 01:49 AM** - Christina Koch Will Be the First Female Astronaut to Journey Around the Moon (nyt)
 - **Apr 02, 02:24 AM** - Live Updates: NASA’s Artemis II Mission Begins Its 10-Day Lunar Journey (nyt)
 - **Apr 02, 02:59 AM** - When Will NASA’s Artemis II Mission Reach the Moon? (nyt)
+- **Apr 02, 03:34 AM** - What China sees as NASA launches Artemis II. (nyt)
