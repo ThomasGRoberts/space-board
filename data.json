@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-02T00:04:35.491992+00:00",
-    "trigger_count": 6,
-    "current_item_id": "323cfb3ba041f605efe31231b5a1d3a9",
+    "trigger_count": 0,
+    "current_item_id": "a21fd575cbe99bd3c09e3f12a0bd28a0",
     "data": [
         {
             "id": "815769886ed0a6509c60ea72eba7bf8a",
@@ -8238,6 +8238,18 @@
             "fetched_datetime": "2026-04-02T18:14:25.086393Z",
             "shown_at": [
                 "2026-04-02T18:14:26.318263Z"
+            ]
+        },
+        {
+            "id": "a21fd575cbe99bd3c09e3f12a0bd28a0",
+            "source": "spacenews",
+            "text": "Optical terminals still a bottleneck in Pentagon’s proliferated constellation",
+            "source_link": "https://spacenews.com/optical-terminals-still-a-bottleneck-in-pentagons-proliferated-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-02T19:59:12.446556Z",
+            "shown_at": [
+                "2026-04-02T19:59:13.711785Z"
             ]
         }
     ]
