@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-02T00:04:35.491992+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a270e23154c16ed356cd9c3b66ad9400",
+    "trigger_count": 0,
+    "current_item_id": "2a2631ca753145f439e9017712f2e812",
     "data": [
         {
             "id": "815769886ed0a6509c60ea72eba7bf8a",
@@ -8137,9 +8137,12 @@
             "source": "nyt",
             "text": "China’s Aiming for the Moon, and NASA Is Looking Over Its Shoulder",
             "source_link": "https://www.nytimes.com/2026/04/02/world/asia/chinas-aiming-for-the-moon-and-nasa-is-looking-over-its-shoulder.html",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-04-02T05:19:08.807617Z"
+            "fetched_datetime": "2026-04-02T05:19:08.807617Z",
+            "shown_at": [
+                "2026-04-02T05:54:26.732064Z"
+            ]
         },
         {
             "id": "e9b97173894d28be6c60306dd4fe9228",
