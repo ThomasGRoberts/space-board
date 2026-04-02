@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 20 | 18 | 39 |
-| nyt | 19 | 23 | 21 | 40 |
+| nyt | 19 | 23 | 22 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2565,3 +2565,4 @@
 - **Apr 02, 01:14 AM** - How NASA Is Keeping the Astronauts Safe During the Artemis II Mission (nyt)
 - **Apr 02, 01:49 AM** - Christina Koch Will Be the First Female Astronaut to Journey Around the Moon (nyt)
 - **Apr 02, 02:24 AM** - Live Updates: NASA’s Artemis II Mission Begins Its 10-Day Lunar Journey (nyt)
+- **Apr 02, 02:59 AM** - When Will NASA’s Artemis II Mission Reach the Moon? (nyt)
