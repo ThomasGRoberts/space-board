@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-02T00:04:35.491992+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9498176438890ef5cb3e87449540e1c3",
+    "trigger_count": 0,
+    "current_item_id": "5240d6ba5e415b050d9d199f013abb6c",
     "data": [
         {
             "id": "815769886ed0a6509c60ea72eba7bf8a",
@@ -8101,9 +8101,12 @@
             "source": "nyt",
             "text": "For the Superfans of Spaceflight, Artemis II Can’t Launch Soon Enough",
             "source_link": "https://www.nytimes.com/2026/04/01/style/artemis-ii-space-fans-moon.html",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-04-02T02:24:18.399616Z"
+            "fetched_datetime": "2026-04-02T02:24:18.399616Z",
+            "shown_at": [
+                "2026-04-02T04:09:11.021075Z"
+            ]
         },
         {
             "id": "2cb1c68c6e1ef8274f7f49ca5cbded3a",
