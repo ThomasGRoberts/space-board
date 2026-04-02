@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 20 | 15 | 34 |
+| spacenews | 6 | 20 | 15 | 35 |
 | nyt | 10 | 24 | 22 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2596,3 +2596,4 @@
 - **Apr 02, 09:44 PM** - Christina Koch Will Be the First Female Astronaut to Journey Around the Moon (nyt)
 - **Apr 02, 10:19 PM** - Artemis 2’s (nearly) 10-day flight around the moon (spacenews)
 - **Apr 02, 10:54 PM** - NASA Is Launching Astronauts to the Moon, but Americans Aren’t That Excited (nyt)
+- **Apr 02, 11:29 PM** - India’s Bellatrix raises $20 million following overseas expansion drive (spacenews)
