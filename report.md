@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 19 | 15 | 35 |
-| nyt | 22 | 27 | 25 | 44 |
+| nyt | 22 | 27 | 26 | 45 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2574,3 +2574,4 @@
 - **Apr 02, 06:29 AM** - As NASA Sent Astronauts to the Moon, Some Rejoiced and Others Barely Noticed (nyt)
 - **Apr 02, 07:04 AM** - Artemis II Completes First Day of Its NASA Lunar Mission (nyt)
 - **Apr 02, 07:39 AM** - China’s Kinetica-2 rocket debuts successfully, sending prototype cargo spacecraft to orbit (spacenews)
+- **Apr 02, 08:14 AM** - Christina Koch Will Be the First Female Astronaut to Journey Around the Moon (nyt)
