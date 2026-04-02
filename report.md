@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 21 | 15 | 35 |
-| nyt | 10 | 25 | 22 | 41 |
+| nyt | 10 | 25 | 23 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2593,3 +2593,4 @@
 - **Apr 02, 07:59 PM** - Optical terminals still a bottleneck in Pentagon’s proliferated constellation (spacenews)
 - **Apr 02, 08:34 PM** - Live Updates: NASA Starts Fueling Rocket for Artemis II Moon Launch (nyt)
 - **Apr 02, 09:09 PM** - Former Sierra Space CEO Tom Vice to lead Astrion  (spacenews)
+- **Apr 02, 09:44 PM** - Christina Koch Will Be the First Female Astronaut to Journey Around the Moon (nyt)
