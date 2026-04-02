@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-02T00:04:35.491992+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1217d4dcb61b222f334b7a7844a1e8d0",
+    "trigger_count": 0,
+    "current_item_id": "9fe3a79164d0f642705c0991ac60486e",
     "data": [
         {
             "id": "815769886ed0a6509c60ea72eba7bf8a",
@@ -8193,9 +8193,12 @@
             "source": "spacenews",
             "text": "Relativity, Hermeus, Astrion and Divergent executives join Fortastra C-suite",
             "source_link": "https://spacenews.com/relativity-hermeus-astrion-and-divergent-executives-join-fortastra-c-suite/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-04-02T14:10:15.085735Z"
+            "fetched_datetime": "2026-04-02T14:10:15.085735Z",
+            "shown_at": [
+                "2026-04-02T15:54:17.017473Z"
+            ]
         },
         {
             "id": "1217d4dcb61b222f334b7a7844a1e8d0",
