@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-02T00:04:35.491992+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e9b97173894d28be6c60306dd4fe9228",
+    "trigger_count": 0,
+    "current_item_id": "f15233584ab0a66a742484a288f34db1",
     "data": [
         {
             "id": "815769886ed0a6509c60ea72eba7bf8a",
@@ -8161,9 +8161,12 @@
             "source": "nyt",
             "text": "Artemis II Completes First Day of Its NASA Lunar Mission",
             "source_link": "https://www.nytimes.com/2026/04/01/science/artemis-ii-nasa-moon-launch.html",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-04-02T05:19:08.808870Z"
+            "fetched_datetime": "2026-04-02T05:19:08.808870Z",
+            "shown_at": [
+                "2026-04-02T07:04:47.017731Z"
+            ]
         }
     ]
 }
