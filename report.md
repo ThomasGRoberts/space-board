@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 17 | 12 | 34 |
+| spacenews | 9 | 18 | 13 | 35 |
 | nyt | 19 | 25 | 24 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2584,3 +2584,4 @@
 - **Apr 02, 02:10 PM** - Phantom Space buys thermal specialist to support orbital data center push (spacenews)
 - **Apr 02, 03:14 PM** - Artemis II Moon Mission: See the Launch, Photos and Video (nyt)
 - **Apr 02, 03:54 PM** - Relativity, Hermeus, Astrion and Divergent executives join Fortastra C-suite (spacenews)
+- **Apr 02, 04:29 PM** - Moog Technology Successfully Steers Artemis II Launch (spacenews)

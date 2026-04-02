@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-02T00:04:35.491992+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9fe3a79164d0f642705c0991ac60486e",
+    "trigger_count": 0,
+    "current_item_id": "cbddeeb733b6555410b32a359fb08404",
     "data": [
         {
             "id": "815769886ed0a6509c60ea72eba7bf8a",
@@ -8210,6 +8210,18 @@
             "fetched_datetime": "2026-04-02T15:14:23.633899Z",
             "shown_at": [
                 "2026-04-02T15:14:24.419324Z"
+            ]
+        },
+        {
+            "id": "cbddeeb733b6555410b32a359fb08404",
+            "source": "spacenews",
+            "text": "Moog Technology Successfully Steers Artemis II Launch",
+            "source_link": "https://spacenews.com/moog-technology-successfully-steers-artemis-ii-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-02T16:29:24.231974Z",
+            "shown_at": [
+                "2026-04-02T16:29:25.403214Z"
             ]
         }
     ]
