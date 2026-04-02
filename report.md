@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 14 | 20 | 20 | 40 |
-| nyt | 14 | 18 | 19 | 39 |
+| nyt | 14 | 18 | 20 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2562,3 +2562,4 @@
 - **Apr 01, 11:28 PM** - Artemis 2 launches on first human mission to the moon in more than 50 years (spacenews)
 - **Apr 02, 12:04 AM** - Victor Glover, the Artemis II Pilot, Will Be the First Black Astronaut to Circle the Moon (nyt)
 - **Apr 02, 12:39 AM** - SpaceX quietly files for big bang IPO (spacenews)
+- **Apr 02, 01:14 AM** - How NASA Is Keeping the Astronauts Safe During the Artemis II Mission (nyt)
