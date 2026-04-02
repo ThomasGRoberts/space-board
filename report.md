@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 19 | 14 | 35 |
+| spacenews | 12 | 19 | 15 | 36 |
 | nyt | 22 | 27 | 26 | 44 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2575,3 +2575,4 @@
 - **Apr 02, 07:04 AM** - Artemis II Completes First Day of Its NASA Lunar Mission (nyt)
 - **Apr 02, 07:39 AM** - China’s Kinetica-2 rocket debuts successfully, sending prototype cargo spacecraft to orbit (spacenews)
 - **Apr 02, 08:14 AM** - Christina Koch Will Be the First Female Astronaut to Journey Around the Moon (nyt)
+- **Apr 02, 08:49 AM** - ESA launches first Celeste satellites to test complementary LEO navigation layer (spacenews)
