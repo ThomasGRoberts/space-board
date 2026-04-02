@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 18 | 13 | 34 |
-| nyt | 19 | 25 | 24 | 42 |
+| nyt | 19 | 25 | 24 | 43 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2585,3 +2585,4 @@
 - **Apr 02, 03:14 PM** - Artemis II Moon Mission: See the Launch, Photos and Video (nyt)
 - **Apr 02, 03:54 PM** - Relativity, Hermeus, Astrion and Divergent executives join Fortastra C-suite (spacenews)
 - **Apr 02, 04:29 PM** - Moog Technology Successfully Steers Artemis II Launch (spacenews)
+- **Apr 02, 05:04 PM** - Live Updates: NASA Starts Fueling Rocket for Artemis II Moon Launch (nyt)
