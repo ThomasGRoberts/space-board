@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-02T00:04:35.491992+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2099c4b16592a3a44c78fe80ca92cc60",
+    "trigger_count": 0,
+    "current_item_id": "efc409fef4c4db9fa3bbf967aec3b907",
     "data": [
         {
             "id": "815769886ed0a6509c60ea72eba7bf8a",
@@ -8224,6 +8224,18 @@
             "fetched_datetime": "2026-04-02T16:29:24.231974Z",
             "shown_at": [
                 "2026-04-02T16:29:25.403214Z"
+            ]
+        },
+        {
+            "id": "efc409fef4c4db9fa3bbf967aec3b907",
+            "source": "spacenews",
+            "text": "Pentagon awards Raytheon $45 million for GPS ground system as program future is reassessed",
+            "source_link": "https://spacenews.com/pentagon-awards-raytheon-45-million-for-gps-ground-system-as-program-future-is-reassessed/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-02T18:14:25.086393Z",
+            "shown_at": [
+                "2026-04-02T18:14:26.318263Z"
             ]
         }
     ]
