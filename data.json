@@ -1,17 +1,20 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-02T00:04:35.491992+00:00",
-    "trigger_count": 6,
-    "current_item_id": "eef8fd34c94ab81e827d67467a89c3b7",
+    "trigger_count": 0,
+    "current_item_id": "815769886ed0a6509c60ea72eba7bf8a",
     "data": [
         {
             "id": "815769886ed0a6509c60ea72eba7bf8a",
             "source": "spacenews",
             "text": "SpaceX quietly files for big bang IPO",
             "source_link": "https://spacenews.com/spacex-quietly-files-for-big-bang-ipo/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-04-01T23:28:57.186209Z"
+            "fetched_datetime": "2026-04-01T23:28:57.186209Z",
+            "shown_at": [
+                "2026-04-02T00:39:27.273556Z"
+            ]
         },
         {
             "id": "3eecd3aab0f75674ca82a9ce984aaa40",
