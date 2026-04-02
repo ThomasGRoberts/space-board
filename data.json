@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-02T00:04:35.491992+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2a2631ca753145f439e9017712f2e812",
+    "trigger_count": 0,
+    "current_item_id": "e9b97173894d28be6c60306dd4fe9228",
     "data": [
         {
             "id": "815769886ed0a6509c60ea72eba7bf8a",
@@ -8149,9 +8149,12 @@
             "source": "nyt",
             "text": "As NASA Sent Astronauts to the Moon, Some Rejoiced and Others Barely Noticed",
             "source_link": "https://www.nytimes.com/live/2026/04/01/science/moon-nasa-artemis-launch/people-watch-moon-flight",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-04-02T05:19:08.807643Z"
+            "fetched_datetime": "2026-04-02T05:19:08.807643Z",
+            "shown_at": [
+                "2026-04-02T06:29:08.157463Z"
+            ]
         },
         {
             "id": "f15233584ab0a66a742484a288f34db1",
