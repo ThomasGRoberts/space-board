@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-02T00:04:35.491992+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3ee3f98080a3e02556042d651769d328",
+    "trigger_count": 0,
+    "current_item_id": "1217d4dcb61b222f334b7a7844a1e8d0",
     "data": [
         {
             "id": "815769886ed0a6509c60ea72eba7bf8a",
@@ -8196,6 +8196,18 @@
             "shown": false,
             "type": "news",
             "fetched_datetime": "2026-04-02T14:10:15.085735Z"
+        },
+        {
+            "id": "1217d4dcb61b222f334b7a7844a1e8d0",
+            "source": "nyt",
+            "text": "Artemis II Moon Mission: See the Launch, Photos and Video",
+            "source_link": "https://www.nytimes.com/2026/04/02/science/space/artemis-nasa-astronauts-moon-launch-photos.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-02T15:14:23.633899Z",
+            "shown_at": [
+                "2026-04-02T15:14:24.419324Z"
+            ]
         }
     ]
 }

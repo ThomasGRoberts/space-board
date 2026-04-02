@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 17 | 13 | 34 |
-| nyt | 18 | 24 | 24 | 42 |
+| spacenews | 8 | 17 | 12 | 34 |
+| nyt | 19 | 25 | 25 | 43 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2582,3 +2582,4 @@
 - **Apr 02, 11:49 AM** - Aspect Aerospace secures early funding to advance swarm-deployable VLEO satellites (spacenews)
 - **Apr 02, 12:52 PM** - Astronaut’s Condition That Led to Space Station Evacuation Remains a Mystery (nyt)
 - **Apr 02, 02:10 PM** - Phantom Space buys thermal specialist to support orbital data center push (spacenews)
+- **Apr 02, 03:14 PM** - Artemis II Moon Mission: See the Launch, Photos and Video (nyt)
