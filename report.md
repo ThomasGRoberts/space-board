@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 20 | 15 | 35 |
+| spacenews | 8 | 21 | 16 | 36 |
 | nyt | 10 | 25 | 22 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2592,3 +2592,4 @@
 - **Apr 02, 07:24 PM** - Starcloud achieves unicorn status with $170 million raise for orbital data centers (spacenews)
 - **Apr 02, 07:59 PM** - Optical terminals still a bottleneck in Pentagon’s proliferated constellation (spacenews)
 - **Apr 02, 08:34 PM** - Live Updates: NASA Starts Fueling Rocket for Artemis II Moon Launch (nyt)
+- **Apr 02, 09:09 PM** - Former Sierra Space CEO Tom Vice to lead Astrion  (spacenews)

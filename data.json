@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-02T00:04:35.491992+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6c1c047362f9c13508c2680a224ddf21",
+    "trigger_count": 0,
+    "current_item_id": "8a766d5f452b9560fafa5062857eaa72",
     "data": [
         {
             "id": "815769886ed0a6509c60ea72eba7bf8a",
@@ -8251,6 +8251,18 @@
             "fetched_datetime": "2026-04-02T19:59:12.446556Z",
             "shown_at": [
                 "2026-04-02T19:59:13.711785Z"
+            ]
+        },
+        {
+            "id": "8a766d5f452b9560fafa5062857eaa72",
+            "source": "spacenews",
+            "text": "Former Sierra Space CEO Tom Vice to lead Astrion ",
+            "source_link": "https://spacenews.com/former-sierra-space-ceo-tom-vice-to-lead-astrion/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-02T21:09:14.263053Z",
+            "shown_at": [
+                "2026-04-02T21:09:15.425601Z"
             ]
         }
     ]
