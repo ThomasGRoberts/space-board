@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-02T00:04:35.491992+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e0eec120cedc0e0b60e35570a201561c",
+    "trigger_count": 0,
+    "current_item_id": "b5addaf8b0735ed13c02a03618831e28",
     "data": [
         {
             "id": "815769886ed0a6509c60ea72eba7bf8a",
@@ -8059,6 +8059,54 @@
                 "2026-01-23T13:24:12.719316Z",
                 "2026-01-24T09:54:19.718761Z"
             ]
+        },
+        {
+            "id": "b5addaf8b0735ed13c02a03618831e28",
+            "source": "nyt",
+            "text": "Live Updates: NASA’s Artemis II Mission Begins Its 10-Day Lunar Journey",
+            "source_link": "https://www.nytimes.com/live/2026/04/01/science/moon-nasa-artemis-launch",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-02T02:24:18.399072Z",
+            "shown_at": [
+                "2026-04-02T02:24:19.259097Z"
+            ]
+        },
+        {
+            "id": "d9e4cd2ac2ab03734fb9ad30a9b282ad",
+            "source": "nyt",
+            "text": "When Will NASA’s Artemis II Mission Reach the Moon?",
+            "source_link": "https://www.nytimes.com/2026/04/01/science/space/artemis-nasa-moon-how-long.html",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-02T02:24:18.399547Z"
+        },
+        {
+            "id": "9498176438890ef5cb3e87449540e1c3",
+            "source": "nyt",
+            "text": "What China sees as NASA launches Artemis II.",
+            "source_link": "https://www.nytimes.com/live/2026/04/01/science/moon-nasa-artemis-launch/what-china-sees-as-nasa-launches-artemis-ii",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-02T02:24:18.399584Z"
+        },
+        {
+            "id": "5240d6ba5e415b050d9d199f013abb6c",
+            "source": "nyt",
+            "text": "For the Superfans of Spaceflight, Artemis II Can’t Launch Soon Enough",
+            "source_link": "https://www.nytimes.com/2026/04/01/style/artemis-ii-space-fans-moon.html",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-02T02:24:18.399616Z"
+        },
+        {
+            "id": "2cb1c68c6e1ef8274f7f49ca5cbded3a",
+            "source": "nyt",
+            "text": "Meet ‘Rise,’ Artemis II’s Adorable Zero-Gravity Indicator",
+            "source_link": "https://www.nytimes.com/2026/04/01/science/artemis-ii-zero-gravity-indicator-rise.html",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-02T02:24:18.399648Z"
         }
     ]
 }
