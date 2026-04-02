@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 17 | 14 | 35 |
+| spacenews | 10 | 17 | 15 | 36 |
 | nyt | 21 | 24 | 25 | 43 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2579,3 +2579,4 @@
 - **Apr 02, 09:24 AM** - Did Scientists Just Detect an Exploding Black Hole? (nyt)
 - **Apr 02, 09:59 AM** - Chinese startup tests flexible robotic arm in space for on-orbit servicing (spacenews)
 - **Apr 02, 10:43 AM** - Who Is Reid Wiseman, Commander of the Artemis II Moon Mission? (nyt)
+- **Apr 02, 11:49 AM** - Aspect Aerospace secures early funding to advance swarm-deployable VLEO satellites (spacenews)
