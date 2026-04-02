@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-02T00:04:35.491992+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a765926322914aed74a406ea9f0d1b6f",
+    "trigger_count": 0,
+    "current_item_id": "3ee3f98080a3e02556042d651769d328",
     "data": [
         {
             "id": "815769886ed0a6509c60ea72eba7bf8a",
@@ -8175,6 +8175,27 @@
             "shown_at": [
                 "2026-04-02T07:04:47.017731Z"
             ]
+        },
+        {
+            "id": "3ee3f98080a3e02556042d651769d328",
+            "source": "spacenews",
+            "text": "Phantom Space buys thermal specialist to support orbital data center push",
+            "source_link": "https://spacenews.com/phantom-space-buys-thermal-specialist-to-support-orbital-data-center-push/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-02T14:10:15.085651Z",
+            "shown_at": [
+                "2026-04-02T14:10:16.286493Z"
+            ]
+        },
+        {
+            "id": "9fe3a79164d0f642705c0991ac60486e",
+            "source": "spacenews",
+            "text": "Relativity, Hermeus, Astrion and Divergent executives join Fortastra C-suite",
+            "source_link": "https://spacenews.com/relativity-hermeus-astrion-and-divergent-executives-join-fortastra-c-suite/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-02T14:10:15.085735Z"
         }
     ]
 }

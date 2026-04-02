@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 16 | 13 | 34 |
+| spacenews | 8 | 17 | 13 | 34 |
 | nyt | 21 | 24 | 25 | 43 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2581,3 +2581,4 @@
 - **Apr 02, 10:43 AM** - Who Is Reid Wiseman, Commander of the Artemis II Moon Mission? (nyt)
 - **Apr 02, 11:49 AM** - Aspect Aerospace secures early funding to advance swarm-deployable VLEO satellites (spacenews)
 - **Apr 02, 12:52 PM** - Astronaut’s Condition That Led to Space Station Evacuation Remains a Mystery (nyt)
+- **Apr 02, 02:10 PM** - Phantom Space buys thermal specialist to support orbital data center push (spacenews)
