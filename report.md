@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 20 | 16 | 37 |
-| nyt | 18 | 23 | 23 | 42 |
+| nyt | 22 | 27 | 24 | 43 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2569,3 +2569,4 @@
 - **Apr 02, 03:34 AM** - What China sees as NASA launches Artemis II. (nyt)
 - **Apr 02, 04:09 AM** - For the Superfans of Spaceflight, Artemis II Can’t Launch Soon Enough (nyt)
 - **Apr 02, 04:44 AM** - Meet ‘Rise,’ Artemis II’s Adorable Zero-Gravity Indicator (nyt)
+- **Apr 02, 05:19 AM** - Highlights From the Launch of NASA’s Artemis II Moon Mission (nyt)

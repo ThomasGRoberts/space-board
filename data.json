@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-02T00:04:35.491992+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2cb1c68c6e1ef8274f7f49ca5cbded3a",
+    "trigger_count": 0,
+    "current_item_id": "a270e23154c16ed356cd9c3b66ad9400",
     "data": [
         {
             "id": "815769886ed0a6509c60ea72eba7bf8a",
@@ -8119,6 +8119,45 @@
             "shown_at": [
                 "2026-04-02T04:44:09.925078Z"
             ]
+        },
+        {
+            "id": "a270e23154c16ed356cd9c3b66ad9400",
+            "source": "nyt",
+            "text": "Highlights From the Launch of NASA’s Artemis II Moon Mission",
+            "source_link": "https://www.nytimes.com/live/2026/04/01/science/moon-nasa-artemis-launch",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-02T05:19:08.807195Z",
+            "shown_at": [
+                "2026-04-02T05:19:09.479229Z"
+            ]
+        },
+        {
+            "id": "2a2631ca753145f439e9017712f2e812",
+            "source": "nyt",
+            "text": "China’s Aiming for the Moon, and NASA Is Looking Over Its Shoulder",
+            "source_link": "https://www.nytimes.com/2026/04/02/world/asia/chinas-aiming-for-the-moon-and-nasa-is-looking-over-its-shoulder.html",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-02T05:19:08.807617Z"
+        },
+        {
+            "id": "e9b97173894d28be6c60306dd4fe9228",
+            "source": "nyt",
+            "text": "As NASA Sent Astronauts to the Moon, Some Rejoiced and Others Barely Noticed",
+            "source_link": "https://www.nytimes.com/live/2026/04/01/science/moon-nasa-artemis-launch/people-watch-moon-flight",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-02T05:19:08.807643Z"
+        },
+        {
+            "id": "f15233584ab0a66a742484a288f34db1",
+            "source": "nyt",
+            "text": "Artemis II Completes First Day of Its NASA Lunar Mission",
+            "source_link": "https://www.nytimes.com/2026/04/01/science/artemis-ii-nasa-moon-launch.html",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-02T05:19:08.808870Z"
         }
     ]
 }
