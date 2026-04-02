@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 18 | 14 | 35 |
-| nyt | 21 | 27 | 26 | 45 |
+| spacenews | 11 | 18 | 15 | 36 |
+| nyt | 21 | 24 | 26 | 44 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2577,3 +2577,4 @@
 - **Apr 02, 08:14 AM** - Christina Koch Will Be the First Female Astronaut to Journey Around the Moon (nyt)
 - **Apr 02, 08:49 AM** - ESA launches first Celeste satellites to test complementary LEO navigation layer (spacenews)
 - **Apr 02, 09:24 AM** - Did Scientists Just Detect an Exploding Black Hole? (nyt)
+- **Apr 02, 09:59 AM** - Chinese startup tests flexible robotic arm in space for on-orbit servicing (spacenews)
