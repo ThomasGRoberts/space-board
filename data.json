@@ -1,9 +1,201 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-04-02T00:04:35.491992+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6e356603545c3be00185baaf5a802416",
+    "last_run_datetime": "2026-04-03T00:04:32.104308+00:00",
+    "trigger_count": 0,
+    "current_item_id": "510ecfe342ed0e84d312751128ef0a07",
     "data": [
+        {
+            "id": "8a766d5f452b9560fafa5062857eaa72",
+            "source": "spacenews",
+            "text": "Former Sierra Space CEO Tom Vice to lead Astrion ",
+            "source_link": "https://spacenews.com/former-sierra-space-ceo-tom-vice-to-lead-astrion/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-02T21:09:14.263053Z",
+            "shown_at": [
+                "2026-04-02T21:09:15.425601Z"
+            ]
+        },
+        {
+            "id": "a21fd575cbe99bd3c09e3f12a0bd28a0",
+            "source": "spacenews",
+            "text": "Optical terminals still a bottleneck in Pentagon’s proliferated constellation",
+            "source_link": "https://spacenews.com/optical-terminals-still-a-bottleneck-in-pentagons-proliferated-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-02T19:59:12.446556Z",
+            "shown_at": [
+                "2026-04-02T19:59:13.711785Z"
+            ]
+        },
+        {
+            "id": "efc409fef4c4db9fa3bbf967aec3b907",
+            "source": "spacenews",
+            "text": "Pentagon awards Raytheon $45 million for GPS ground system as program future is reassessed",
+            "source_link": "https://spacenews.com/pentagon-awards-raytheon-45-million-for-gps-ground-system-as-program-future-is-reassessed/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-02T18:14:25.086393Z",
+            "shown_at": [
+                "2026-04-02T18:14:26.318263Z"
+            ]
+        },
+        {
+            "id": "cbddeeb733b6555410b32a359fb08404",
+            "source": "spacenews",
+            "text": "Moog Technology Successfully Steers Artemis II Launch",
+            "source_link": "https://spacenews.com/moog-technology-successfully-steers-artemis-ii-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-02T16:29:24.231974Z",
+            "shown_at": [
+                "2026-04-02T16:29:25.403214Z"
+            ]
+        },
+        {
+            "id": "1217d4dcb61b222f334b7a7844a1e8d0",
+            "source": "nyt",
+            "text": "Artemis II Moon Mission: See the Launch, Photos and Video",
+            "source_link": "https://www.nytimes.com/2026/04/02/science/space/artemis-nasa-astronauts-moon-launch-photos.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-02T15:14:23.633899Z",
+            "shown_at": [
+                "2026-04-02T15:14:24.419324Z"
+            ]
+        },
+        {
+            "id": "9fe3a79164d0f642705c0991ac60486e",
+            "source": "spacenews",
+            "text": "Relativity, Hermeus, Astrion and Divergent executives join Fortastra C-suite",
+            "source_link": "https://spacenews.com/relativity-hermeus-astrion-and-divergent-executives-join-fortastra-c-suite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-02T14:10:15.085735Z",
+            "shown_at": [
+                "2026-04-02T15:54:17.017473Z"
+            ]
+        },
+        {
+            "id": "3ee3f98080a3e02556042d651769d328",
+            "source": "spacenews",
+            "text": "Phantom Space buys thermal specialist to support orbital data center push",
+            "source_link": "https://spacenews.com/phantom-space-buys-thermal-specialist-to-support-orbital-data-center-push/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-02T14:10:15.085651Z",
+            "shown_at": [
+                "2026-04-02T14:10:16.286493Z"
+            ]
+        },
+        {
+            "id": "f15233584ab0a66a742484a288f34db1",
+            "source": "nyt",
+            "text": "Artemis II Completes First Day of Its NASA Lunar Mission",
+            "source_link": "https://www.nytimes.com/2026/04/01/science/artemis-ii-nasa-moon-launch.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-02T05:19:08.808870Z",
+            "shown_at": [
+                "2026-04-02T07:04:47.017731Z"
+            ]
+        },
+        {
+            "id": "e9b97173894d28be6c60306dd4fe9228",
+            "source": "nyt",
+            "text": "As NASA Sent Astronauts to the Moon, Some Rejoiced and Others Barely Noticed",
+            "source_link": "https://www.nytimes.com/live/2026/04/01/science/moon-nasa-artemis-launch/people-watch-moon-flight",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-02T05:19:08.807643Z",
+            "shown_at": [
+                "2026-04-02T06:29:08.157463Z"
+            ]
+        },
+        {
+            "id": "2a2631ca753145f439e9017712f2e812",
+            "source": "nyt",
+            "text": "China’s Aiming for the Moon, and NASA Is Looking Over Its Shoulder",
+            "source_link": "https://www.nytimes.com/2026/04/02/world/asia/chinas-aiming-for-the-moon-and-nasa-is-looking-over-its-shoulder.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-02T05:19:08.807617Z",
+            "shown_at": [
+                "2026-04-02T05:54:26.732064Z"
+            ]
+        },
+        {
+            "id": "a270e23154c16ed356cd9c3b66ad9400",
+            "source": "nyt",
+            "text": "Highlights From the Launch of NASA’s Artemis II Moon Mission",
+            "source_link": "https://www.nytimes.com/live/2026/04/01/science/moon-nasa-artemis-launch",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-02T05:19:08.807195Z",
+            "shown_at": [
+                "2026-04-02T05:19:09.479229Z"
+            ]
+        },
+        {
+            "id": "2cb1c68c6e1ef8274f7f49ca5cbded3a",
+            "source": "nyt",
+            "text": "Meet ‘Rise,’ Artemis II’s Adorable Zero-Gravity Indicator",
+            "source_link": "https://www.nytimes.com/2026/04/01/science/artemis-ii-zero-gravity-indicator-rise.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-02T02:24:18.399648Z",
+            "shown_at": [
+                "2026-04-02T04:44:09.925078Z"
+            ]
+        },
+        {
+            "id": "5240d6ba5e415b050d9d199f013abb6c",
+            "source": "nyt",
+            "text": "For the Superfans of Spaceflight, Artemis II Can’t Launch Soon Enough",
+            "source_link": "https://www.nytimes.com/2026/04/01/style/artemis-ii-space-fans-moon.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-02T02:24:18.399616Z",
+            "shown_at": [
+                "2026-04-02T04:09:11.021075Z"
+            ]
+        },
+        {
+            "id": "9498176438890ef5cb3e87449540e1c3",
+            "source": "nyt",
+            "text": "What China sees as NASA launches Artemis II.",
+            "source_link": "https://www.nytimes.com/live/2026/04/01/science/moon-nasa-artemis-launch/what-china-sees-as-nasa-launches-artemis-ii",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-02T02:24:18.399584Z",
+            "shown_at": [
+                "2026-04-02T03:34:27.466563Z"
+            ]
+        },
+        {
+            "id": "d9e4cd2ac2ab03734fb9ad30a9b282ad",
+            "source": "nyt",
+            "text": "When Will NASA’s Artemis II Mission Reach the Moon?",
+            "source_link": "https://www.nytimes.com/2026/04/01/science/space/artemis-nasa-moon-how-long.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-02T02:24:18.399547Z",
+            "shown_at": [
+                "2026-04-02T02:59:13.892658Z"
+            ]
+        },
+        {
+            "id": "b5addaf8b0735ed13c02a03618831e28",
+            "source": "nyt",
+            "text": "Live Updates: NASA’s Artemis II Mission Begins Its 10-Day Lunar Journey",
+            "source_link": "https://www.nytimes.com/live/2026/04/01/science/moon-nasa-artemis-launch",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-02T02:24:18.399072Z",
+            "shown_at": [
+                "2026-04-02T02:24:19.259097Z"
+            ]
+        },
         {
             "id": "815769886ed0a6509c60ea72eba7bf8a",
             "source": "spacenews",
@@ -162,7 +354,8 @@
             "type": "news",
             "fetched_datetime": "2026-04-01T17:34:44.612217Z",
             "shown_at": [
-                "2026-04-01T19:19:31.665128Z"
+                "2026-04-01T19:19:31.665128Z",
+                "2026-04-03T00:04:37.779575Z"
             ]
         },
         {
@@ -7830,443 +8023,6 @@
                 "2026-01-27T15:09:19.555954Z",
                 "2026-01-31T01:14:08.985114Z",
                 "2026-02-01T00:44:27.199536Z"
-            ]
-        },
-        {
-            "id": "f547f2f30bd9d3a07ff8ebe8a41630e6",
-            "source": "spacenews",
-            "text": "Space Force set to choose contractors for next-gen GEO spy satellites",
-            "source_link": "https://spacenews.com/space-force-set-to-choose-contractors-for-next-gen-geo-spy-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-27T12:49:51.188639Z",
-            "shown_at": [
-                "2026-01-27T12:49:52.221892Z",
-                "2026-01-31T16:34:29.162553Z",
-                "2026-02-02T06:08:54.968555Z"
-            ]
-        },
-        {
-            "id": "f94285242ac0e6744fdb963b74be174e",
-            "source": "spacenews",
-            "text": "Northwood Space raises $100 million Series B, lands $49 million Space Force deal",
-            "source_link": "https://spacenews.com/northwood-space-raises-100-million-series-b-lands-49-million-space-force-deal/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-27T10:59:11.436063Z",
-            "shown_at": [
-                "2026-01-27T11:34:22.008744Z"
-            ]
-        },
-        {
-            "id": "43264c39e2e12a55a5adacb3c9b7bfe2",
-            "source": "spacenews",
-            "text": "Vega C to launch Brazilian satellite",
-            "source_link": "https://spacenews.com/vega-c-to-launch-brazilian-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-27T10:59:11.436008Z",
-            "shown_at": [
-                "2026-01-27T10:59:12.375751Z",
-                "2026-01-31T06:29:15.863185Z"
-            ]
-        },
-        {
-            "id": "2ca856350de6606e3f4222c5f815a133",
-            "source": "spacenews",
-            "text": "Oman signs Artemis Accords",
-            "source_link": "https://spacenews.com/oman-signs-artemis-accords/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-27T10:24:18.567755Z",
-            "shown_at": [
-                "2026-01-27T10:24:19.403939Z",
-                "2026-02-02T04:24:08.092665Z"
-            ]
-        },
-        {
-            "id": "43a7ae1a2aca4a4d4be55d63036372f3",
-            "source": "spacenews",
-            "text": "NASA seeks partners for Earth Science extended missions",
-            "source_link": "https://spacenews.com/nasa-seeks-partners-for-earth-science-extended-missions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-27T02:44:07.751139Z",
-            "shown_at": [
-                "2026-01-27T02:44:08.572714Z"
-            ]
-        },
-        {
-            "id": "668ce3275bd0ea763ad59611403480c3",
-            "source": "spacenews",
-            "text": "Hanwha exploring South Korean defense constellation with MDA Space and Telesat",
-            "source_link": "https://spacenews.com/hanwha-exploring-south-korean-defense-constellation-with-mda-space-and-telesat/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-26T23:44:28.271766Z",
-            "shown_at": [
-                "2026-01-26T23:44:29.168109Z",
-                "2026-01-27T09:44:08.391459Z",
-                "2026-01-29T01:29:11.725512Z",
-                "2026-01-29T06:44:14.702046Z",
-                "2026-01-29T19:04:45.306112Z",
-                "2026-01-31T08:18:57.969952Z",
-                "2026-01-31T21:49:04.289625Z",
-                "2026-02-01T05:59:00.206827Z"
-            ]
-        },
-        {
-            "id": "168a9baca323b703e577661c0da1afa6",
-            "source": "breaking_defense",
-            "text": "Space Force envisions rolling awards for new RG-XX neighborhood watch satellites",
-            "source_link": "https://breakingdefense.com/2026/01/space-force-envisions-rolling-awards-for-new-rg-xx-neighborhood-watch-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-26T21:58:58.967282Z",
-            "shown_at": [
-                "2026-01-26T21:59:00.102041Z",
-                "2026-01-27T05:38:58.543138Z",
-                "2026-01-27T13:24:49.125394Z",
-                "2026-01-28T06:39:19.121599Z",
-                "2026-01-29T02:39:05.444785Z",
-                "2026-01-29T22:34:20.960472Z",
-                "2026-01-30T08:34:26.200291Z",
-                "2026-01-30T10:24:05.343195Z",
-                "2026-01-30T16:54:28.143452Z",
-                "2026-01-30T22:54:05.095678Z",
-                "2026-01-31T04:09:14.613984Z",
-                "2026-02-01T06:34:14.296312Z",
-                "2026-02-01T15:24:14.529424Z",
-                "2026-02-02T07:19:11.611575Z",
-                "2026-02-02T15:29:20.392169Z"
-            ]
-        },
-        {
-            "id": "49391aed896f821dc286dda0479b90b0",
-            "source": "spacenews",
-            "text": "Astranis adds Oman customer to summer GEO launch lineup",
-            "source_link": "https://spacenews.com/astranis-adds-oman-customer-to-summer-geo-launch-lineup/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-26T17:04:47.147030Z",
-            "shown_at": [
-                "2026-01-26T17:04:48.244525Z"
-            ]
-        },
-        {
-            "id": "d9b705851f3da4b4a068b63816c8adfa",
-            "source": "spacenews",
-            "text": "We need a ‘Planetary Neural Network’ for AI-enabled space infrastructure protection",
-            "source_link": "https://spacenews.com/we-need-a-planetary-neural-network-for-ai-enabled-space-infrastructure-protection/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-26T14:09:09.646702Z",
-            "shown_at": [
-                "2026-01-26T14:09:10.493264Z",
-                "2026-01-28T01:24:10.421389Z"
-            ]
-        },
-        {
-            "id": "f89f4e4d6eeda3d192d6209b25c3ddb7",
-            "source": "spacenews",
-            "text": "H3 failure linked to payload fairing separation anomaly",
-            "source_link": "https://spacenews.com/h3-failure-linked-to-payload-fairing-separation-anomaly/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-26T12:24:14.889547Z",
-            "shown_at": [
-                "2026-01-26T12:24:15.951912Z",
-                "2026-01-28T03:44:12.194776Z"
-            ]
-        },
-        {
-            "id": "1d0319b98710ed39bd396fab2c6df0bc",
-            "source": "spacenews",
-            "text": "Golden Dome is forcing the Pentagon to confront missile defense economics",
-            "source_link": "https://spacenews.com/golden-dome-is-forcing-the-pentagon-to-confront-missile-defense-economics/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-25T16:19:35.235179Z",
-            "shown_at": [
-                "2026-01-25T16:19:36.394530Z",
-                "2026-01-26T04:44:17.463855Z",
-                "2026-01-30T10:59:07.253741Z"
-            ]
-        },
-        {
-            "id": "ba8c77079319652e2b1994eab4ff9d85",
-            "source": "spacenews",
-            "text": "NASA and DOE to collaborate on lunar nuclear reactor development",
-            "source_link": "https://spacenews.com/nasa-and-doe-to-collaborate-on-lunar-nuclear-reactor-development/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-25T00:34:25.443691Z",
-            "shown_at": [
-                "2026-01-25T00:34:26.712887Z",
-                "2026-01-26T06:29:09.992741Z",
-                "2026-01-27T01:34:23.488827Z",
-                "2026-01-29T03:14:07.971934Z"
-            ]
-        },
-        {
-            "id": "2a4cf8010d67baf0a3c4df1d00f64b6e",
-            "source": "breaking_defense",
-            "text": "Space Force leaders prep for FY27 budget jump, personnel increases",
-            "source_link": "https://breakingdefense.com/2026/01/space-force-leaders-prep-for-fy27-budget-jump-personnel-increases/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-23T18:39:03.897300Z",
-            "shown_at": [
-                "2026-01-23T18:39:04.999228Z",
-                "2026-01-23T22:09:14.457438Z",
-                "2026-01-25T09:54:13.775606Z",
-                "2026-01-25T15:09:30.025660Z",
-                "2026-01-25T18:49:12.438324Z",
-                "2026-01-25T20:34:22.581009Z",
-                "2026-01-26T07:05:26.701914Z",
-                "2026-01-26T08:54:11.709607Z",
-                "2026-01-26T20:09:16.562008Z",
-                "2026-01-27T09:09:04.596615Z",
-                "2026-01-28T00:09:14.026809Z",
-                "2026-01-28T02:34:18.259138Z",
-                "2026-01-28T04:54:31.825927Z",
-                "2026-01-28T08:29:21.123122Z",
-                "2026-01-30T03:14:25.872180Z",
-                "2026-01-30T15:04:42.701989Z"
-            ]
-        },
-        {
-            "id": "2640c45caceb75722b8bbde4b50020bf",
-            "source": "spacenews",
-            "text": "Space Beyond lines up 2027 SpaceX launch for low-cost memorial cubesat",
-            "source_link": "https://spacenews.com/space-beyond-lines-up-2027-spacex-launch-for-low-cost-memorial-cubesat/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-23T18:04:28.015006Z",
-            "shown_at": [
-                "2026-01-23T18:04:29.251423Z",
-                "2026-01-27T04:29:20.251025Z"
-            ]
-        },
-        {
-            "id": "2d418d610777efe9c5bced8194cebca1",
-            "source": "spacenews",
-            "text": "Former astronaut joins Vast as Haven-1 moves into integration",
-            "source_link": "https://spacenews.com/former-astronaut-joins-vast-as-haven-1-moves-into-integration/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-23T15:08:59.028434Z",
-            "shown_at": [
-                "2026-01-23T15:09:00.062777Z",
-                "2026-01-23T23:19:08.591090Z",
-                "2026-01-24T20:29:01.299599Z",
-                "2026-01-26T10:04:35.788619Z",
-                "2026-01-27T14:34:30.427064Z"
-            ]
-        },
-        {
-            "id": "034d2facd7196c4ccc7608f9b6a3869a",
-            "source": "spacenews",
-            "text": "Launch operators are the rocket fuel required to galvanize spaceports in Europe",
-            "source_link": "https://spacenews.com/launch-operators-are-the-rocket-fuel-required-to-galvanize-spaceports-in-europe/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-23T13:24:11.412812Z",
-            "shown_at": [
-                "2026-01-23T13:24:12.719316Z",
-                "2026-01-24T09:54:19.718761Z"
-            ]
-        },
-        {
-            "id": "b5addaf8b0735ed13c02a03618831e28",
-            "source": "nyt",
-            "text": "Live Updates: NASA’s Artemis II Mission Begins Its 10-Day Lunar Journey",
-            "source_link": "https://www.nytimes.com/live/2026/04/01/science/moon-nasa-artemis-launch",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-02T02:24:18.399072Z",
-            "shown_at": [
-                "2026-04-02T02:24:19.259097Z"
-            ]
-        },
-        {
-            "id": "d9e4cd2ac2ab03734fb9ad30a9b282ad",
-            "source": "nyt",
-            "text": "When Will NASA’s Artemis II Mission Reach the Moon?",
-            "source_link": "https://www.nytimes.com/2026/04/01/science/space/artemis-nasa-moon-how-long.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-02T02:24:18.399547Z",
-            "shown_at": [
-                "2026-04-02T02:59:13.892658Z"
-            ]
-        },
-        {
-            "id": "9498176438890ef5cb3e87449540e1c3",
-            "source": "nyt",
-            "text": "What China sees as NASA launches Artemis II.",
-            "source_link": "https://www.nytimes.com/live/2026/04/01/science/moon-nasa-artemis-launch/what-china-sees-as-nasa-launches-artemis-ii",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-02T02:24:18.399584Z",
-            "shown_at": [
-                "2026-04-02T03:34:27.466563Z"
-            ]
-        },
-        {
-            "id": "5240d6ba5e415b050d9d199f013abb6c",
-            "source": "nyt",
-            "text": "For the Superfans of Spaceflight, Artemis II Can’t Launch Soon Enough",
-            "source_link": "https://www.nytimes.com/2026/04/01/style/artemis-ii-space-fans-moon.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-02T02:24:18.399616Z",
-            "shown_at": [
-                "2026-04-02T04:09:11.021075Z"
-            ]
-        },
-        {
-            "id": "2cb1c68c6e1ef8274f7f49ca5cbded3a",
-            "source": "nyt",
-            "text": "Meet ‘Rise,’ Artemis II’s Adorable Zero-Gravity Indicator",
-            "source_link": "https://www.nytimes.com/2026/04/01/science/artemis-ii-zero-gravity-indicator-rise.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-02T02:24:18.399648Z",
-            "shown_at": [
-                "2026-04-02T04:44:09.925078Z"
-            ]
-        },
-        {
-            "id": "a270e23154c16ed356cd9c3b66ad9400",
-            "source": "nyt",
-            "text": "Highlights From the Launch of NASA’s Artemis II Moon Mission",
-            "source_link": "https://www.nytimes.com/live/2026/04/01/science/moon-nasa-artemis-launch",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-02T05:19:08.807195Z",
-            "shown_at": [
-                "2026-04-02T05:19:09.479229Z"
-            ]
-        },
-        {
-            "id": "2a2631ca753145f439e9017712f2e812",
-            "source": "nyt",
-            "text": "China’s Aiming for the Moon, and NASA Is Looking Over Its Shoulder",
-            "source_link": "https://www.nytimes.com/2026/04/02/world/asia/chinas-aiming-for-the-moon-and-nasa-is-looking-over-its-shoulder.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-02T05:19:08.807617Z",
-            "shown_at": [
-                "2026-04-02T05:54:26.732064Z"
-            ]
-        },
-        {
-            "id": "e9b97173894d28be6c60306dd4fe9228",
-            "source": "nyt",
-            "text": "As NASA Sent Astronauts to the Moon, Some Rejoiced and Others Barely Noticed",
-            "source_link": "https://www.nytimes.com/live/2026/04/01/science/moon-nasa-artemis-launch/people-watch-moon-flight",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-02T05:19:08.807643Z",
-            "shown_at": [
-                "2026-04-02T06:29:08.157463Z"
-            ]
-        },
-        {
-            "id": "f15233584ab0a66a742484a288f34db1",
-            "source": "nyt",
-            "text": "Artemis II Completes First Day of Its NASA Lunar Mission",
-            "source_link": "https://www.nytimes.com/2026/04/01/science/artemis-ii-nasa-moon-launch.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-02T05:19:08.808870Z",
-            "shown_at": [
-                "2026-04-02T07:04:47.017731Z"
-            ]
-        },
-        {
-            "id": "3ee3f98080a3e02556042d651769d328",
-            "source": "spacenews",
-            "text": "Phantom Space buys thermal specialist to support orbital data center push",
-            "source_link": "https://spacenews.com/phantom-space-buys-thermal-specialist-to-support-orbital-data-center-push/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-02T14:10:15.085651Z",
-            "shown_at": [
-                "2026-04-02T14:10:16.286493Z"
-            ]
-        },
-        {
-            "id": "9fe3a79164d0f642705c0991ac60486e",
-            "source": "spacenews",
-            "text": "Relativity, Hermeus, Astrion and Divergent executives join Fortastra C-suite",
-            "source_link": "https://spacenews.com/relativity-hermeus-astrion-and-divergent-executives-join-fortastra-c-suite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-02T14:10:15.085735Z",
-            "shown_at": [
-                "2026-04-02T15:54:17.017473Z"
-            ]
-        },
-        {
-            "id": "1217d4dcb61b222f334b7a7844a1e8d0",
-            "source": "nyt",
-            "text": "Artemis II Moon Mission: See the Launch, Photos and Video",
-            "source_link": "https://www.nytimes.com/2026/04/02/science/space/artemis-nasa-astronauts-moon-launch-photos.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-02T15:14:23.633899Z",
-            "shown_at": [
-                "2026-04-02T15:14:24.419324Z"
-            ]
-        },
-        {
-            "id": "cbddeeb733b6555410b32a359fb08404",
-            "source": "spacenews",
-            "text": "Moog Technology Successfully Steers Artemis II Launch",
-            "source_link": "https://spacenews.com/moog-technology-successfully-steers-artemis-ii-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-02T16:29:24.231974Z",
-            "shown_at": [
-                "2026-04-02T16:29:25.403214Z"
-            ]
-        },
-        {
-            "id": "efc409fef4c4db9fa3bbf967aec3b907",
-            "source": "spacenews",
-            "text": "Pentagon awards Raytheon $45 million for GPS ground system as program future is reassessed",
-            "source_link": "https://spacenews.com/pentagon-awards-raytheon-45-million-for-gps-ground-system-as-program-future-is-reassessed/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-02T18:14:25.086393Z",
-            "shown_at": [
-                "2026-04-02T18:14:26.318263Z"
-            ]
-        },
-        {
-            "id": "a21fd575cbe99bd3c09e3f12a0bd28a0",
-            "source": "spacenews",
-            "text": "Optical terminals still a bottleneck in Pentagon’s proliferated constellation",
-            "source_link": "https://spacenews.com/optical-terminals-still-a-bottleneck-in-pentagons-proliferated-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-02T19:59:12.446556Z",
-            "shown_at": [
-                "2026-04-02T19:59:13.711785Z"
-            ]
-        },
-        {
-            "id": "8a766d5f452b9560fafa5062857eaa72",
-            "source": "spacenews",
-            "text": "Former Sierra Space CEO Tom Vice to lead Astrion ",
-            "source_link": "https://spacenews.com/former-sierra-space-ceo-tom-vice-to-lead-astrion/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-02T21:09:14.263053Z",
-            "shown_at": [
-                "2026-04-02T21:09:15.425601Z"
             ]
         }
     ]
