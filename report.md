@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 20 | 22 | 36 |
+| spacenews | 10 | 20 | 23 | 37 |
 | nyt | 2 | 23 | 16 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2550,3 +2550,4 @@
 - **Apr 03, 11:09 AM** - Europe’s strategic autonomy in space will define its role in the ‘second space age’ (spacenews)
 - **Apr 03, 11:49 AM** - SpaceX and Amazon spar over satellite deployments (spacenews)
 - **Apr 03, 12:24 PM** - Jeremy Hansen, an Artemis II Astronaut, Is the First Canadian on a Crewed Moon Mission (nyt)
+- **Apr 03, 12:59 PM** - Artemis 2 fueling underway (spacenews)
