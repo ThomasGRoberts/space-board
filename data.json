@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-03T00:04:32.104308+00:00",
-    "trigger_count": 6,
-    "current_item_id": "fa32fabd15116d757bb3e5ee1957128f",
+    "trigger_count": 0,
+    "current_item_id": "5e138bfdca80af636e8442273ede679e",
     "data": [
         {
             "id": "8a766d5f452b9560fafa5062857eaa72",
@@ -8062,6 +8062,18 @@
             "fetched_datetime": "2026-04-03T03:34:19.808994Z",
             "shown_at": [
                 "2026-04-03T03:34:20.657837Z"
+            ]
+        },
+        {
+            "id": "5e138bfdca80af636e8442273ede679e",
+            "source": "spacenews",
+            "text": "China’s commercial Tianlong-3 rocket fails on debut launch",
+            "source_link": "https://spacenews.com/chinas-commercial-tianlong-3-rocket-fails-on-debut-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-03T10:34:41.776626Z",
+            "shown_at": [
+                "2026-04-03T10:34:43.685160Z"
             ]
         }
     ]

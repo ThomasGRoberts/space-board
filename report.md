@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 18 | 20 | 35 |
+| spacenews | 8 | 19 | 21 | 36 |
 | nyt | 2 | 23 | 17 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2546,3 +2546,4 @@
 - **Apr 03, 08:49 AM** - Virgin Galactic expects commercial suborbital flights to resume late this year (spacenews)
 - **Apr 03, 09:24 AM** - First Canadian Astronaut Will Travel to the Moon Amid Fraying U.S.-Canada Relations (nyt)
 - **Apr 03, 09:59 AM** - Artemis 2 countdown underway (spacenews)
+- **Apr 03, 10:34 AM** - China’s commercial Tianlong-3 rocket fails on debut launch (spacenews)
