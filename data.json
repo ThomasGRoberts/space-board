@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-03T00:04:32.104308+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e9b97173894d28be6c60306dd4fe9228",
+    "trigger_count": 0,
+    "current_item_id": "2ebfae4accff91deb9397f44aa51cdcc",
     "data": [
         {
             "id": "8a766d5f452b9560fafa5062857eaa72",
@@ -8027,6 +8027,18 @@
                 "2026-01-27T15:09:19.555954Z",
                 "2026-01-31T01:14:08.985114Z",
                 "2026-02-01T00:44:27.199536Z"
+            ]
+        },
+        {
+            "id": "2ebfae4accff91deb9397f44aa51cdcc",
+            "source": "spacenews",
+            "text": "Artemis 2 heads to the moon",
+            "source_link": "https://spacenews.com/artemis-2-heads-to-the-moon/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-03T02:59:32.320991Z",
+            "shown_at": [
+                "2026-04-03T02:59:33.198767Z"
             ]
         }
     ]

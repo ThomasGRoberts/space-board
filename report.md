@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 19 | 16 | 34 |
-| nyt | 5 | 24 | 21 | 42 |
+| spacenews | 7 | 20 | 17 | 35 |
+| nyt | 5 | 24 | 20 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2533,3 +2533,4 @@
 - **Apr 03, 01:14 AM** - Victor Glover, the Artemis II Pilot, Will Be the First Black Astronaut to Circle the Moon (nyt)
 - **Apr 03, 01:49 AM** - Antaris™ Raises $28 Million Series A to Accelerate AI-Driven Space Missions (spacenews)
 - **Apr 03, 02:24 AM** - As NASA Sent Astronauts to the Moon, Some Rejoiced and Others Barely Noticed (nyt)
+- **Apr 03, 02:59 AM** - Artemis 2 heads to the moon (spacenews)
