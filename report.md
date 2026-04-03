@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 19 | 20 | 34 |
+| spacenews | 7 | 19 | 21 | 35 |
 | nyt | 2 | 24 | 17 | 43 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2543,3 +2543,4 @@
 - **Apr 03, 07:04 AM** - Why the Artemis II Astronauts Will Be Wearing Orange (nyt)
 - **Apr 03, 07:39 AM** - Aspect Aerospace secures early funding to advance swarm-deployable VLEO satellites (spacenews)
 - **Apr 03, 08:14 AM** - Live Updates: NASA Starts Fueling Rocket for Artemis II Moon Launch (nyt)
+- **Apr 03, 08:49 AM** - Virgin Galactic expects commercial suborbital flights to resume late this year (spacenews)
