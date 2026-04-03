@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-03T00:04:32.104308+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8b5429aa640ca4673026e1752d4dd6af",
+    "trigger_count": 0,
+    "current_item_id": "37a712503039945a55a31f4dc8f8486e",
     "data": [
         {
             "id": "8a766d5f452b9560fafa5062857eaa72",
@@ -8086,6 +8086,18 @@
             "fetched_datetime": "2026-04-03T11:09:17.123019Z",
             "shown_at": [
                 "2026-04-03T11:09:18.980867Z"
+            ]
+        },
+        {
+            "id": "37a712503039945a55a31f4dc8f8486e",
+            "source": "spacenews",
+            "text": "SpaceX and Amazon spar over satellite deployments",
+            "source_link": "https://spacenews.com/spacex-and-amazon-spar-over-satellite-deployments/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-03T11:49:01.450042Z",
+            "shown_at": [
+                "2026-04-03T11:49:03.037477Z"
             ]
         }
     ]

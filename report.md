@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 19 | 22 | 36 |
+| spacenews | 10 | 20 | 23 | 37 |
 | nyt | 2 | 23 | 16 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2548,3 +2548,4 @@
 - **Apr 03, 09:59 AM** - Artemis 2 countdown underway (spacenews)
 - **Apr 03, 10:34 AM** - China’s commercial Tianlong-3 rocket fails on debut launch (spacenews)
 - **Apr 03, 11:09 AM** - Europe’s strategic autonomy in space will define its role in the ‘second space age’ (spacenews)
+- **Apr 03, 11:49 AM** - SpaceX and Amazon spar over satellite deployments (spacenews)
