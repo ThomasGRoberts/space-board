@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-03T00:04:32.104308+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b5a17034f2eaec624529e9ff062aff25",
+    "trigger_count": 0,
+    "current_item_id": "2d7b7104db32c74e83733c4e15293186",
     "data": [
         {
             "id": "8a766d5f452b9560fafa5062857eaa72",
@@ -8154,6 +8154,18 @@
             "fetched_datetime": "2026-04-03T18:49:17.253004Z",
             "shown_at": [
                 "2026-04-03T18:49:18.300466Z"
+            ]
+        },
+        {
+            "id": "2d7b7104db32c74e83733c4e15293186",
+            "source": "nyt",
+            "text": "Artemis II Pilot Test Drove the Orion Capsule on the Way to the Moon",
+            "source_link": "https://www.nytimes.com/2026/04/03/science/nasa-artemis-ii-demonstration-moon-pilot.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-03T19:24:19.964968Z",
+            "shown_at": [
+                "2026-04-03T19:24:21.062415Z"
             ]
         }
     ]

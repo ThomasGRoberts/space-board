@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 23 | 37 |
-| nyt | 3 | 19 | 18 | 41 |
+| nyt | 4 | 20 | 19 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2561,3 +2561,4 @@
 - **Apr 03, 05:39 PM** - Commercial Space Federation (CSF) Welcomes Two New Associate Members (spacenews)
 - **Apr 03, 06:14 PM** - Artemis II Pilot Took a Test Drive on the Way to the Moon (nyt)
 - **Apr 03, 06:49 PM** - Italy’s Argotec plans to scale Florida satellite facility to meet rising US demand (spacenews)
+- **Apr 03, 07:24 PM** - Artemis II Pilot Test Drove the Orion Capsule on the Way to the Moon (nyt)
