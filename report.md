@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 18 | 20 | 34 |
+| spacenews | 7 | 18 | 20 | 35 |
 | nyt | 2 | 23 | 17 | 43 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2545,3 +2545,4 @@
 - **Apr 03, 08:14 AM** - Live Updates: NASA Starts Fueling Rocket for Artemis II Moon Launch (nyt)
 - **Apr 03, 08:49 AM** - Virgin Galactic expects commercial suborbital flights to resume late this year (spacenews)
 - **Apr 03, 09:24 AM** - First Canadian Astronaut Will Travel to the Moon Amid Fraying U.S.-Canada Relations (nyt)
+- **Apr 03, 09:59 AM** - Artemis 2 countdown underway (spacenews)
