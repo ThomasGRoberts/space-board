@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 16 | 23 | 36 |
+| spacenews | 10 | 16 | 24 | 36 |
 | nyt | 2 | 23 | 17 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2552,3 +2552,4 @@
 - **Apr 03, 12:24 PM** - Jeremy Hansen, an Artemis II Astronaut, Is the First Canadian on a Crewed Moon Mission (nyt)
 - **Apr 03, 12:59 PM** - Artemis 2 fueling underway (spacenews)
 - **Apr 03, 01:34 PM** - Live Updates: NASA’s Artemis II Mission Begins Its 10-Day Lunar Journey (nyt)
+- **Apr 03, 02:09 PM** - ESA launches first Celeste satellites to test complementary LEO navigation layer (spacenews)
