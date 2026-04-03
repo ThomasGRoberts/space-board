@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 17 | 22 | 37 |
+| spacenews | 8 | 14 | 23 | 37 |
 | nyt | 3 | 19 | 19 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2560,3 +2560,4 @@
 - **Apr 03, 05:04 PM** - NASA Unveils 1st Earth Photos From Artemis II Moon Mission: ‘You Look Beautiful.’ (nyt)
 - **Apr 03, 05:39 PM** - Commercial Space Federation (CSF) Welcomes Two New Associate Members (spacenews)
 - **Apr 03, 06:14 PM** - Artemis II Pilot Took a Test Drive on the Way to the Moon (nyt)
+- **Apr 03, 06:49 PM** - Italy’s Argotec plans to scale Florida satellite facility to meet rising US demand (spacenews)
