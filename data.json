@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-03T00:04:32.104308+00:00",
-    "trigger_count": 6,
-    "current_item_id": "055233610827e6ada3c32e0586dcd9ef",
+    "trigger_count": 0,
+    "current_item_id": "3a5c263beb642f434b43fe9e84ccb210",
     "data": [
         {
             "id": "8a766d5f452b9560fafa5062857eaa72",
@@ -8117,6 +8117,18 @@
             "fetched_datetime": "2026-04-03T15:54:24.887072Z",
             "shown_at": [
                 "2026-04-03T15:54:26.359924Z"
+            ]
+        },
+        {
+            "id": "3a5c263beb642f434b43fe9e84ccb210",
+            "source": "nyt",
+            "text": "NASA Unveils 1st Earth Photos From Artemis II Moon Mission: ‘You Look Beautiful.’",
+            "source_link": "https://www.nytimes.com/2026/04/03/science/nasa-artemis-moon-photos.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-03T17:04:44.725104Z",
+            "shown_at": [
+                "2026-04-03T17:04:46.193250Z"
             ]
         }
     ]
