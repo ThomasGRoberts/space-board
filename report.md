@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 14 | 21 | 36 |
+| spacenews | 6 | 14 | 22 | 37 |
 | nyt | 6 | 16 | 20 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2567,3 +2567,4 @@
 - **Apr 03, 09:09 PM** - NASA’s Artemis II Astronauts Took iPhones Into Space (nyt)
 - **Apr 03, 09:44 PM** - China’s commercial Tianlong-3 rocket fails on debut launch (spacenews)
 - **Apr 03, 10:19 PM** - The Awe of a Moon Launch in an Age of Trump, Turmoil and Tribal Divisions (nyt)
+- **Apr 03, 10:54 PM** - Artemis 2 countdown underway (spacenews)
