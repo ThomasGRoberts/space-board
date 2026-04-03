@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 19 | 15 | 34 |
+| spacenews | 6 | 19 | 16 | 35 |
 | nyt | 10 | 24 | 22 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2531,3 +2531,4 @@
 - **Apr 03, 12:04 AM** - How to Watch NASA’s Artemis II Moon Launch Online (nyt)
 - **Apr 03, 12:39 AM** - Artemis 2’s (nearly) 10-day flight around the moon (spacenews)
 - **Apr 03, 01:14 AM** - Victor Glover, the Artemis II Pilot, Will Be the First Black Astronaut to Circle the Moon (nyt)
+- **Apr 03, 01:49 AM** - Antaris™ Raises $28 Million Series A to Accelerate AI-Driven Space Missions (spacenews)
