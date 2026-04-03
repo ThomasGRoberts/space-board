@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 23 | 36 |
-| nyt | 2 | 23 | 17 | 42 |
+| nyt | 2 | 20 | 18 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2553,3 +2553,4 @@
 - **Apr 03, 12:59 PM** - Artemis 2 fueling underway (spacenews)
 - **Apr 03, 01:34 PM** - Live Updates: NASA’s Artemis II Mission Begins Its 10-Day Lunar Journey (nyt)
 - **Apr 03, 02:09 PM** - ESA launches first Celeste satellites to test complementary LEO navigation layer (spacenews)
+- **Apr 03, 02:44 PM** - 58 Years After ‘Earthrise,’ NASA’s New Moonshot May Rediscover Earth (nyt)
