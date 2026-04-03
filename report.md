@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 18 | 21 | 35 |
+| spacenews | 9 | 19 | 22 | 36 |
 | nyt | 2 | 23 | 16 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2547,3 +2547,4 @@
 - **Apr 03, 09:24 AM** - First Canadian Astronaut Will Travel to the Moon Amid Fraying U.S.-Canada Relations (nyt)
 - **Apr 03, 09:59 AM** - Artemis 2 countdown underway (spacenews)
 - **Apr 03, 10:34 AM** - China’s commercial Tianlong-3 rocket fails on debut launch (spacenews)
+- **Apr 03, 11:09 AM** - Europe’s strategic autonomy in space will define its role in the ‘second space age’ (spacenews)
