@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-03T00:04:32.104308+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9b2b6d283804e902ee367edff41d735e",
+    "trigger_count": 0,
+    "current_item_id": "b0d73ebfe5c00867769f5412f18d9998",
     "data": [
         {
             "id": "8a766d5f452b9560fafa5062857eaa72",
@@ -8167,6 +8167,18 @@
             "fetched_datetime": "2026-04-03T19:24:19.964968Z",
             "shown_at": [
                 "2026-04-03T19:24:21.062415Z"
+            ]
+        },
+        {
+            "id": "b0d73ebfe5c00867769f5412f18d9998",
+            "source": "nyt",
+            "text": "How iPhones Found Their Way Into Space",
+            "source_link": "https://www.nytimes.com/2026/04/03/technology/iphones-artemis-nasa.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-03T20:34:26.971719Z",
+            "shown_at": [
+                "2026-04-03T20:34:28.406534Z"
             ]
         }
     ]

@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 22 | 37 |
-| nyt | 4 | 20 | 19 | 41 |
+| nyt | 5 | 21 | 20 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2563,3 +2563,4 @@
 - **Apr 03, 06:49 PM** - Italy’s Argotec plans to scale Florida satellite facility to meet rising US demand (spacenews)
 - **Apr 03, 07:24 PM** - Artemis II Pilot Test Drove the Orion Capsule on the Way to the Moon (nyt)
 - **Apr 03, 07:59 PM** - Virgin Galactic expects commercial suborbital flights to resume late this year (spacenews)
+- **Apr 03, 08:34 PM** - How iPhones Found Their Way Into Space (nyt)
