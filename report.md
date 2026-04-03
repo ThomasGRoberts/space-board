@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 20 | 19 | 35 |
-| nyt | 2 | 24 | 18 | 41 |
+| nyt | 2 | 24 | 19 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2538,3 +2538,4 @@
 - **Apr 03, 04:09 AM** - Teledyne forms dedicated space unit to capture rising demand (spacenews)
 - **Apr 03, 04:44 AM** - Meet the four astronauts of Artemis II. (nyt)
 - **Apr 03, 05:19 AM** - Creating near-term lunar settlements: lessons from space history  (spacenews)
+- **Apr 03, 05:54 AM** - What China sees as NASA launches Artemis II. (nyt)
