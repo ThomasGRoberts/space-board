@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 22 | 37 |
-| nyt | 5 | 15 | 19 | 41 |
+| nyt | 6 | 16 | 20 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2564,3 +2564,4 @@
 - **Apr 03, 07:24 PM** - Artemis II Pilot Test Drove the Orion Capsule on the Way to the Moon (nyt)
 - **Apr 03, 07:59 PM** - Virgin Galactic expects commercial suborbital flights to resume late this year (spacenews)
 - **Apr 03, 08:34 PM** - How iPhones Found Their Way Into Space (nyt)
+- **Apr 03, 09:09 PM** - NASA’s Artemis II Astronauts Took iPhones Into Space (nyt)

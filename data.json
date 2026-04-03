@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-03T00:04:32.104308+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b0d73ebfe5c00867769f5412f18d9998",
+    "trigger_count": 0,
+    "current_item_id": "aa8a23531fb90f52851ebf659e76c295",
     "data": [
         {
             "id": "8a766d5f452b9560fafa5062857eaa72",
@@ -8179,6 +8179,18 @@
             "fetched_datetime": "2026-04-03T20:34:26.971719Z",
             "shown_at": [
                 "2026-04-03T20:34:28.406534Z"
+            ]
+        },
+        {
+            "id": "aa8a23531fb90f52851ebf659e76c295",
+            "source": "nyt",
+            "text": "NASA’s Artemis II Astronauts Took iPhones Into Space",
+            "source_link": "https://www.nytimes.com/2026/04/03/technology/iphones-artemis-nasa.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-03T21:09:04.643702Z",
+            "shown_at": [
+                "2026-04-03T21:09:05.986873Z"
             ]
         }
     ]
