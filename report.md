@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 20 | 15 | 34 |
+| spacenews | 6 | 20 | 16 | 35 |
 | nyt | 10 | 24 | 22 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2529,3 +2529,4 @@
 - **Apr 02, 10:54 PM** - NASA Is Launching Astronauts to the Moon, but Americans Aren’t That Excited (nyt)
 - **Apr 02, 11:29 PM** - India’s Bellatrix raises $20 million following overseas expansion drive (spacenews)
 - **Apr 03, 12:04 AM** - How to Watch NASA’s Artemis II Moon Launch Online (nyt)
+- **Apr 03, 12:39 AM** - Artemis 2’s (nearly) 10-day flight around the moon (spacenews)
