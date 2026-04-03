@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-03T00:04:32.104308+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7ff88c86bcca9c23dda8aa06d601f600",
+    "trigger_count": 0,
+    "current_item_id": "9f4892d7f37fca5507bc188e85d0dc8d",
     "data": [
         {
             "id": "8a766d5f452b9560fafa5062857eaa72",
@@ -8130,6 +8130,18 @@
             "fetched_datetime": "2026-04-03T17:04:44.725104Z",
             "shown_at": [
                 "2026-04-03T17:04:46.193250Z"
+            ]
+        },
+        {
+            "id": "9f4892d7f37fca5507bc188e85d0dc8d",
+            "source": "nyt",
+            "text": "Artemis II Pilot Took a Test Drive on the Way to the Moon",
+            "source_link": "https://www.nytimes.com/2026/04/03/science/nasa-artemis-ii-demonstration-moon-pilot.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-03T18:14:38.817067Z",
+            "shown_at": [
+                "2026-04-03T18:14:39.704729Z"
             ]
         }
     ]

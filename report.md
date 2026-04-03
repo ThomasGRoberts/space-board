@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 17 | 23 | 37 |
-| nyt | 2 | 18 | 18 | 41 |
+| spacenews | 7 | 17 | 22 | 37 |
+| nyt | 3 | 19 | 19 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2559,3 +2559,4 @@
 - **Apr 03, 04:29 PM** - Meet the Astronauts of NASA’s Artemis II Moon Mission (nyt)
 - **Apr 03, 05:04 PM** - NASA Unveils 1st Earth Photos From Artemis II Moon Mission: ‘You Look Beautiful.’ (nyt)
 - **Apr 03, 05:39 PM** - Commercial Space Federation (CSF) Welcomes Two New Associate Members (spacenews)
+- **Apr 03, 06:14 PM** - Artemis II Pilot Took a Test Drive on the Way to the Moon (nyt)
