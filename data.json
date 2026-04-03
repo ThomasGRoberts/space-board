@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-03T00:04:32.104308+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a715aceb4d8086cf267c578b501160d4",
+    "trigger_count": 0,
+    "current_item_id": "b831735b22dfa37ebb2d5766dbf1007b",
     "data": [
         {
             "id": "8a766d5f452b9560fafa5062857eaa72",
@@ -8104,6 +8104,18 @@
             "fetched_datetime": "2026-04-03T11:49:01.450042Z",
             "shown_at": [
                 "2026-04-03T11:49:03.037477Z"
+            ]
+        },
+        {
+            "id": "b831735b22dfa37ebb2d5766dbf1007b",
+            "source": "spacenews",
+            "text": "White House again proposes steep NASA budget cuts",
+            "source_link": "https://spacenews.com/white-house-again-proposes-steep-nasa-budget-cuts/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-03T15:54:24.887072Z",
+            "shown_at": [
+                "2026-04-03T15:54:26.359924Z"
             ]
         }
     ]

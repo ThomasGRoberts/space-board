@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 24 | 36 |
-| nyt | 1 | 20 | 17 | 42 |
+| spacenews | 9 | 17 | 24 | 37 |
+| nyt | 1 | 20 | 17 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2555,3 +2555,4 @@
 - **Apr 03, 02:09 PM** - ESA launches first Celeste satellites to test complementary LEO navigation layer (spacenews)
 - **Apr 03, 02:44 PM** - 58 Years After ‘Earthrise,’ NASA’s New Moonshot May Rediscover Earth (nyt)
 - **Apr 03, 03:19 PM** - Saltzman: Space ‘baked into’ modern combat operations (spacenews)
+- **Apr 03, 03:54 PM** - White House again proposes steep NASA budget cuts (spacenews)
