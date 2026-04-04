@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 11 | 19 | 39 |
-| spacenews | 6 | 13 | 21 | 38 |
+| spacenews | 6 | 13 | 22 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2508,3 +2508,4 @@
 - **Apr 04, 01:54 AM** - Live Updates: NASA’s Artemis II Mission Begins Its 10-Day Lunar Journey (nyt)
 - **Apr 04, 02:29 AM** - The race to build orbital data centers is missing its biggest variable: power (spacenews)
 - **Apr 04, 03:04 AM** - Christina Koch Will Be the First Female Astronaut to Journey Around the Moon (nyt)
+- **Apr 04, 03:39 AM** - The race to build orbital data centers is missing its biggest variable: power (spacenews)
