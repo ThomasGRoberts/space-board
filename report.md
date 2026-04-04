@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 7 | 9 | 20 | 37 |
-| spacenews | 6 | 13 | 21 | 41 |
+| nyt | 7 | 9 | 21 | 38 |
+| spacenews | 6 | 13 | 20 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2519,3 +2519,4 @@
 - **Apr 04, 08:19 AM** - Teledyne forms dedicated space unit to capture rising demand (spacenews)
 - **Apr 04, 08:54 AM** - What China sees as NASA launches Artemis II. (nyt)
 - **Apr 04, 09:29 AM** - How Scientifically Accurate Is ‘Project Hail Mary’? Experts Weigh In (nyt)
+- **Apr 04, 10:04 AM** - Houston Cheers on Artemis II Moon Mission, Reclaiming Its Place as ‘Space City’ (nyt)
