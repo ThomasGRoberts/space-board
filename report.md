@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 4 | 8 | 22 | 41 |
-| spacenews | 2 | 9 | 19 | 41 |
+| spacenews | 3 | 10 | 20 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2537,3 +2537,4 @@
 - **Apr 04, 06:49 PM** - Astronaut’s Condition That Led to Space Station Evacuation Remains a Mystery (nyt)
 - **Apr 04, 07:24 PM** - SpaceX quietly files for big bang IPO (spacenews)
 - **Apr 04, 07:59 PM** - For the Superfans of Spaceflight, Artemis II Can’t Launch Soon Enough (nyt)
+- **Apr 04, 08:34 PM** - Atlas 5 launches Amazon Leo satellites (spacenews)
