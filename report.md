@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 7 | 8 | 23 | 40 |
-| spacenews | 2 | 11 | 18 | 42 |
+| nyt | 7 | 8 | 22 | 40 |
+| spacenews | 2 | 11 | 19 | 43 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2530,3 +2530,4 @@
 - **Apr 04, 02:44 PM** - Live Updates: Artemis Astronauts Begin Suiting Up for Moon Launch (nyt)
 - **Apr 04, 03:19 PM** - Virgin Galactic expects commercial suborbital flights to resume late this year (spacenews)
 - **Apr 04, 03:54 PM** - Why the Artemis II Astronauts Will Be Wearing Orange (nyt)
+- **Apr 04, 04:29 PM** - Pentagon weighing termination of Raytheon GPS ground control contract after years of delays (spacenews)
