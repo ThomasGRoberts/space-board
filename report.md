@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 6 | 11 | 19 | 40 |
-| spacenews | 7 | 13 | 22 | 38 |
+| nyt | 6 | 11 | 20 | 40 |
+| spacenews | 6 | 13 | 21 | 38 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2507,3 +2507,4 @@
 - **Apr 04, 01:19 AM** - Artemis 2 in good shape cruising towards the moon (spacenews)
 - **Apr 04, 01:54 AM** - Live Updates: NASA’s Artemis II Mission Begins Its 10-Day Lunar Journey (nyt)
 - **Apr 04, 02:29 AM** - The race to build orbital data centers is missing its biggest variable: power (spacenews)
+- **Apr 04, 03:04 AM** - Christina Koch Will Be the First Female Astronaut to Journey Around the Moon (nyt)
