@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-04T00:04:37.153436+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e0eec120cedc0e0b60e35570a201561c",
+    "trigger_count": 0,
+    "current_item_id": "69e19e1433ba9670b1e1b8f6e4e228f4",
     "data": [
         {
             "id": "aa8a23531fb90f52851ebf659e76c295",
@@ -7998,6 +7998,18 @@
             "fetched_datetime": "2026-01-28T12:34:28.967868Z",
             "shown_at": [
                 "2026-01-28T12:34:30.110039Z"
+            ]
+        },
+        {
+            "id": "69e19e1433ba9670b1e1b8f6e4e228f4",
+            "source": "spacenews",
+            "text": "Artemis 2 in good shape cruising towards the moon",
+            "source_link": "https://spacenews.com/artemis-2-in-good-shape-cruising-towards-the-moon/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-04T01:19:04.152311Z",
+            "shown_at": [
+                "2026-04-04T01:19:04.801512Z"
             ]
         }
     ]
