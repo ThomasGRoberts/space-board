@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 7 | 9 | 22 | 38 |
-| spacenews | 3 | 13 | 19 | 41 |
+| spacenews | 3 | 13 | 20 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2524,3 +2524,4 @@
 - **Apr 04, 11:14 AM** - Live Updates: NASA’s Artemis II Mission Begins Its 10-Day Lunar Journey (nyt)
 - **Apr 04, 11:49 AM** - SpaceX launches Transporter-16 rideshare mission (spacenews)
 - **Apr 04, 12:24 PM** - Live Updates: NASA Starts Fueling Rocket for Artemis II Moon Launch (nyt)
+- **Apr 04, 12:59 PM** - Europe’s strategic autonomy in space will define its role in the ‘second space age’ (spacenews)
