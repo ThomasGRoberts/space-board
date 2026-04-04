@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 5 | 8 | 21 | 40 |
-| spacenews | 3 | 10 | 20 | 42 |
+| nyt | 5 | 8 | 22 | 40 |
+| spacenews | 2 | 10 | 19 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2534,3 +2534,4 @@
 - **Apr 04, 05:04 PM** - Space Force budget would more than double in Trump’s $1.5 trillion defense plan (spacenews)
 - **Apr 04, 05:39 PM** - NASA’s Mission Back to the Moon (nyt)
 - **Apr 04, 06:14 PM** - Varda flies navigation payload, heat shield tests on sixth reentry mission (spacenews)
+- **Apr 04, 06:49 PM** - Astronaut’s Condition That Led to Space Station Evacuation Remains a Mystery (nyt)
