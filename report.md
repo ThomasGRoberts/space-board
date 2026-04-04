@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 7 | 8 | 22 | 40 |
-| spacenews | 2 | 10 | 19 | 42 |
+| spacenews | 3 | 11 | 20 | 43 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2531,3 +2531,4 @@
 - **Apr 04, 03:19 PM** - Virgin Galactic expects commercial suborbital flights to resume late this year (spacenews)
 - **Apr 04, 03:54 PM** - Why the Artemis II Astronauts Will Be Wearing Orange (nyt)
 - **Apr 04, 04:29 PM** - Pentagon weighing termination of Raytheon GPS ground control contract after years of delays (spacenews)
+- **Apr 04, 05:04 PM** - Space Force budget would more than double in Trump’s $1.5 trillion defense plan (spacenews)

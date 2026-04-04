@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-04T00:04:37.153436+00:00",
-    "trigger_count": 6,
-    "current_item_id": "bd3f72003821d7d670d07f4196b0b185",
+    "trigger_count": 0,
+    "current_item_id": "82828071d0f9b46621d6b8ee3b2cc95e",
     "data": [
         {
             "id": "aa8a23531fb90f52851ebf659e76c295",
@@ -8058,6 +8058,18 @@
             "fetched_datetime": "2026-04-04T09:29:05.965209Z",
             "shown_at": [
                 "2026-04-04T10:04:35.678516Z"
+            ]
+        },
+        {
+            "id": "82828071d0f9b46621d6b8ee3b2cc95e",
+            "source": "spacenews",
+            "text": "Space Force budget would more than double in Trump’s $1.5 trillion defense plan",
+            "source_link": "https://spacenews.com/space-force-budget-would-more-than-double-in-trumps-1-5-trillion-defense-plan/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-04T17:04:28.601853Z",
+            "shown_at": [
+                "2026-04-04T17:04:29.772673Z"
             ]
         }
     ]
