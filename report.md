@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 5 | 7 | 19 | 37 |
-| spacenews | 6 | 13 | 22 | 41 |
+| nyt | 5 | 7 | 20 | 37 |
+| spacenews | 6 | 13 | 21 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2513,3 +2513,4 @@
 - **Apr 04, 04:49 AM** - Creating near-term lunar settlements: lessons from space history  (spacenews)
 - **Apr 04, 05:24 AM** - Artemis II Completes First Day of Its NASA Lunar Mission (nyt)
 - **Apr 04, 05:59 AM** - Cast your vote for the best sci-fi spaceship and then watch debaters duke it out at Space Symposium (spacenews)
+- **Apr 04, 06:34 AM** - What China sees as NASA launches Artemis II. (nyt)
