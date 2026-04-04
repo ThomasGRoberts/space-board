@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 7 | 8 | 22 | 39 |
+| nyt | 7 | 8 | 23 | 40 |
 | spacenews | 3 | 11 | 19 | 43 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2529,3 +2529,4 @@
 - **Apr 04, 02:09 PM** - Satellite imaging industry’s next challenge: getting systems to talk to each other (spacenews)
 - **Apr 04, 02:44 PM** - Live Updates: Artemis Astronauts Begin Suiting Up for Moon Launch (nyt)
 - **Apr 04, 03:19 PM** - Virgin Galactic expects commercial suborbital flights to resume late this year (spacenews)
+- **Apr 04, 03:54 PM** - Why the Artemis II Astronauts Will Be Wearing Orange (nyt)
