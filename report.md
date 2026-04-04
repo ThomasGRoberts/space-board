@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 7 | 9 | 22 | 39 |
+| nyt | 7 | 9 | 22 | 40 |
 | spacenews | 3 | 11 | 19 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2527,3 +2527,4 @@
 - **Apr 04, 12:59 PM** - Europe’s strategic autonomy in space will define its role in the ‘second space age’ (spacenews)
 - **Apr 04, 01:34 PM** - For Trump, the Artemis II Moon Mission Offers a Shot to Cement His Legacy (nyt)
 - **Apr 04, 02:09 PM** - Satellite imaging industry’s next challenge: getting systems to talk to each other (spacenews)
+- **Apr 04, 02:44 PM** - Live Updates: Artemis Astronauts Begin Suiting Up for Moon Launch (nyt)
