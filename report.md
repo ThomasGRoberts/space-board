@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 6 | 8 | 22 | 40 |
-| spacenews | 3 | 11 | 19 | 42 |
+| spacenews | 3 | 10 | 20 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2533,3 +2533,4 @@
 - **Apr 04, 04:29 PM** - Pentagon weighing termination of Raytheon GPS ground control contract after years of delays (spacenews)
 - **Apr 04, 05:04 PM** - Space Force budget would more than double in Trump’s $1.5 trillion defense plan (spacenews)
 - **Apr 04, 05:39 PM** - NASA’s Mission Back to the Moon (nyt)
+- **Apr 04, 06:14 PM** - Varda flies navigation payload, heat shield tests on sixth reentry mission (spacenews)
