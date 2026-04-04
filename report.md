@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 5 | 7 | 19 | 36 |
+| nyt | 5 | 7 | 20 | 37 |
 | spacenews | 6 | 13 | 21 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2515,3 +2515,4 @@
 - **Apr 04, 05:59 AM** - Cast your vote for the best sci-fi spaceship and then watch debaters duke it out at Space Symposium (spacenews)
 - **Apr 04, 06:34 AM** - What China sees as NASA launches Artemis II. (nyt)
 - **Apr 04, 07:09 AM** - Artemis 2 countdown underway (spacenews)
+- **Apr 04, 07:44 AM** - Astronaut’s Condition That Led to Space Station Evacuation Remains a Mystery (nyt)
