@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 8 | 21 | 40 |
-| spacenews | 3 | 10 | 20 | 42 |
+| nyt | 2 | 8 | 21 | 41 |
+| spacenews | 3 | 9 | 20 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2538,3 +2538,4 @@
 - **Apr 04, 07:24 PM** - SpaceX quietly files for big bang IPO (spacenews)
 - **Apr 04, 07:59 PM** - For the Superfans of Spaceflight, Artemis II Can’t Launch Soon Enough (nyt)
 - **Apr 04, 08:34 PM** - Atlas 5 launches Amazon Leo satellites (spacenews)
+- **Apr 04, 09:09 PM** - Live Updates: Artemis Astronauts Begin Suiting Up for Moon Launch (nyt)
