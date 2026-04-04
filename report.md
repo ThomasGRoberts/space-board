@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 5 | 11 | 20 | 38 |
-| spacenews | 6 | 13 | 21 | 39 |
+| nyt | 5 | 11 | 19 | 38 |
+| spacenews | 6 | 13 | 22 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2510,3 +2510,4 @@
 - **Apr 04, 03:04 AM** - Christina Koch Will Be the First Female Astronaut to Journey Around the Moon (nyt)
 - **Apr 04, 03:39 AM** - The race to build orbital data centers is missing its biggest variable: power (spacenews)
 - **Apr 04, 04:14 AM** - Live Updates: Artemis Astronauts Begin Suiting Up for Moon Launch (nyt)
+- **Apr 04, 04:49 AM** - Creating near-term lunar settlements: lessons from space history  (spacenews)
