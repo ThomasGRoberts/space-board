@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-04T00:04:37.153436+00:00",
-    "trigger_count": 6,
-    "current_item_id": "45026ec4148b00d4440bd329affe19ec",
+    "trigger_count": 0,
+    "current_item_id": "afe33731c0e86fe10be3218c578729bf",
     "data": [
         {
             "id": "aa8a23531fb90f52851ebf659e76c295",
@@ -8088,6 +8088,18 @@
             "fetched_datetime": "2026-04-04T20:34:24.179022Z",
             "shown_at": [
                 "2026-04-04T20:34:25.329651Z"
+            ]
+        },
+        {
+            "id": "afe33731c0e86fe10be3218c578729bf",
+            "source": "nyt",
+            "text": "Where Are NASA’s Artemis II Astronauts Now? Closer to the Moon Than Earth.",
+            "source_link": "https://www.nytimes.com/2026/04/04/science/nasa-moon-artemis-day-4.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-04T21:44:12.060911Z",
+            "shown_at": [
+                "2026-04-04T21:44:13.083367Z"
             ]
         }
     ]
