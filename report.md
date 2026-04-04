@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 5 | 7 | 19 | 36 |
+| nyt | 7 | 9 | 20 | 37 |
 | spacenews | 6 | 13 | 21 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2518,3 +2518,4 @@
 - **Apr 04, 07:44 AM** - Astronaut’s Condition That Led to Space Station Evacuation Remains a Mystery (nyt)
 - **Apr 04, 08:19 AM** - Teledyne forms dedicated space unit to capture rising demand (spacenews)
 - **Apr 04, 08:54 AM** - What China sees as NASA launches Artemis II. (nyt)
+- **Apr 04, 09:29 AM** - How Scientifically Accurate Is ‘Project Hail Mary’? Experts Weigh In (nyt)

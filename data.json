@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-04T00:04:37.153436+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9498176438890ef5cb3e87449540e1c3",
+    "trigger_count": 0,
+    "current_item_id": "ecb21fffbe38057e041591fa6d130ce6",
     "data": [
         {
             "id": "aa8a23531fb90f52851ebf659e76c295",
@@ -8024,6 +8024,27 @@
             "shown_at": [
                 "2026-04-04T01:19:04.801512Z"
             ]
+        },
+        {
+            "id": "ecb21fffbe38057e041591fa6d130ce6",
+            "source": "nyt",
+            "text": "How Scientifically Accurate Is ‘Project Hail Mary’? Experts Weigh In",
+            "source_link": "https://www.nytimes.com/2026/04/04/movies/project-hail-mary-scientific-accuracy.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-04T09:29:05.965167Z",
+            "shown_at": [
+                "2026-04-04T09:29:06.624452Z"
+            ]
+        },
+        {
+            "id": "004d0301663ecd000938bd2c32d7b41c",
+            "source": "nyt",
+            "text": "Houston Cheers on Artemis II Moon Mission, Reclaiming Its Place as ‘Space City’",
+            "source_link": "https://www.nytimes.com/2026/04/04/us/artemis-ii-nasa-moon-houston-texas.html",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-04T09:29:05.965209Z"
         }
     ]
 }
