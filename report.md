@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 9 | 22 | 41 |
-| spacenews | 3 | 9 | 19 | 41 |
+| nyt | 3 | 9 | 21 | 41 |
+| spacenews | 3 | 9 | 20 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2540,3 +2540,4 @@
 - **Apr 04, 08:34 PM** - Atlas 5 launches Amazon Leo satellites (spacenews)
 - **Apr 04, 09:09 PM** - Live Updates: Artemis Astronauts Begin Suiting Up for Moon Launch (nyt)
 - **Apr 04, 09:44 PM** - Where Are NASA’s Artemis II Astronauts Now? Closer to the Moon Than Earth. (nyt)
+- **Apr 04, 10:19 PM** - Science finds a place on Artemis 2 (spacenews)
