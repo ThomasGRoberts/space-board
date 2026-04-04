@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 5 | 7 | 20 | 36 |
-| spacenews | 6 | 13 | 21 | 41 |
+| nyt | 5 | 7 | 19 | 36 |
+| spacenews | 6 | 13 | 22 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2516,3 +2516,4 @@
 - **Apr 04, 06:34 AM** - What China sees as NASA launches Artemis II. (nyt)
 - **Apr 04, 07:09 AM** - Artemis 2 countdown underway (spacenews)
 - **Apr 04, 07:44 AM** - Astronaut’s Condition That Led to Space Station Evacuation Remains a Mystery (nyt)
+- **Apr 04, 08:19 AM** - Teledyne forms dedicated space unit to capture rising demand (spacenews)
