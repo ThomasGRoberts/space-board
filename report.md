@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 7 | 9 | 21 | 37 |
-| spacenews | 5 | 13 | 20 | 41 |
+| nyt | 7 | 9 | 22 | 38 |
+| spacenews | 4 | 13 | 19 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2521,3 +2521,4 @@
 - **Apr 04, 09:29 AM** - How Scientifically Accurate Is ‘Project Hail Mary’? Experts Weigh In (nyt)
 - **Apr 04, 10:04 AM** - Houston Cheers on Artemis II Moon Mission, Reclaiming Its Place as ‘Space City’ (nyt)
 - **Apr 04, 10:39 AM** - After three years, Artemis 2 astronauts ready to launch (spacenews)
+- **Apr 04, 11:14 AM** - Live Updates: NASA’s Artemis II Mission Begins Its 10-Day Lunar Journey (nyt)
