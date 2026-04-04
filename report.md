@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 7 | 9 | 22 | 38 |
+| nyt | 7 | 9 | 22 | 39 |
 | spacenews | 3 | 13 | 19 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2523,3 +2523,4 @@
 - **Apr 04, 10:39 AM** - After three years, Artemis 2 astronauts ready to launch (spacenews)
 - **Apr 04, 11:14 AM** - Live Updates: NASA’s Artemis II Mission Begins Its 10-Day Lunar Journey (nyt)
 - **Apr 04, 11:49 AM** - SpaceX launches Transporter-16 rideshare mission (spacenews)
+- **Apr 04, 12:24 PM** - Live Updates: NASA Starts Fueling Rocket for Artemis II Moon Launch (nyt)
