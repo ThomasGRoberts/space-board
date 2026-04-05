@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 8 | 20 | 41 |
-| spacenews | 3 | 8 | 21 | 41 |
+| nyt | 1 | 8 | 20 | 42 |
+| spacenews | 3 | 7 | 21 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2534,3 +2534,4 @@
 - **Apr 05, 09:29 AM** - China’s commercial Tianlong-3 rocket fails on debut launch (spacenews)
 - **Apr 05, 10:04 AM** - For NASA’s Artemis II Crew, Journey to the Moon ‘Starting to Feel Real’ (nyt)
 - **Apr 05, 10:39 AM** - Creating near-term lunar settlements: lessons from space history  (spacenews)
+- **Apr 05, 11:14 AM** - Christina Koch Will Be the First Female Astronaut to Journey Around the Moon (nyt)
