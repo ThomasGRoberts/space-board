@@ -2537,3 +2537,4 @@
 - **Apr 05, 11:14 AM** - Christina Koch Will Be the First Female Astronaut to Journey Around the Moon (nyt)
 - **Apr 05, 11:49 AM** - Vantor wins intelligence agency contract to monitor space objects (spacenews)
 - **Apr 05, 12:24 PM** - Who Is Reid Wiseman, Commander of the Artemis II Moon Mission? (nyt)
+- **Apr 05, 12:59 PM** - Chinese startup tests flexible robotic arm in space for on-orbit servicing (spacenews)
