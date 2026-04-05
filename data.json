@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-05T00:04:35.495187+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a715aceb4d8086cf267c578b501160d4",
+    "trigger_count": 0,
+    "current_item_id": "0ebd02d49b0f4c79577beb18181add52",
     "data": [
         {
             "id": "afe33731c0e86fe10be3218c578729bf",
@@ -8069,6 +8069,18 @@
             "fetched_datetime": "2026-04-05T20:39:14.279549Z",
             "shown_at": [
                 "2026-04-05T20:39:15.557536Z"
+            ]
+        },
+        {
+            "id": "0ebd02d49b0f4c79577beb18181add52",
+            "source": "spacenews",
+            "text": "Isaacman defends NASA budget proposal despite steep cuts",
+            "source_link": "https://spacenews.com/isaacman-defends-nasa-budget-proposal-despite-steep-cuts/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-05T22:24:17.075786Z",
+            "shown_at": [
+                "2026-04-05T22:24:18.297566Z"
             ]
         }
     ]

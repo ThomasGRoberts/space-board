@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 3 | 19 | 41 |
-| spacenews | 2 | 5 | 22 | 41 |
+| nyt | 0 | 3 | 19 | 40 |
+| spacenews | 3 | 6 | 22 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2553,3 +2553,4 @@
 - **Apr 05, 08:39 PM** - NASA stops work on SLS Mobile Launcher 2 (spacenews)
 - **Apr 05, 09:14 PM** - When Will NASA’s Artemis II Mission Reach the Moon? (nyt)
 - **Apr 05, 09:49 PM** - Saltzman: Space ‘baked into’ modern combat operations (spacenews)
+- **Apr 05, 10:24 PM** - Isaacman defends NASA budget proposal despite steep cuts (spacenews)
