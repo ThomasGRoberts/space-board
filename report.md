@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 8 | 21 | 41 |
-| spacenews | 3 | 9 | 20 | 41 |
+| spacenews | 3 | 9 | 21 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2525,3 +2525,4 @@
 - **Apr 05, 04:09 AM** - Why the Artemis II Astronauts Will Be Wearing Orange (nyt)
 - **Apr 05, 04:44 AM** - The race to build orbital data centers is missing its biggest variable: power (spacenews)
 - **Apr 05, 05:19 AM** - First Canadian Astronaut Will Travel to the Moon Amid Fraying U.S.-Canada Relations (nyt)
+- **Apr 05, 05:54 AM** - Pentagon weighing termination of Raytheon GPS ground control contract after years of delays (spacenews)
