@@ -1,9 +1,81 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-04-04T00:04:37.153436+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b5a17034f2eaec624529e9ff062aff25",
+    "last_run_datetime": "2026-04-05T00:04:35.495187+00:00",
+    "trigger_count": 0,
+    "current_item_id": "9498176438890ef5cb3e87449540e1c3",
     "data": [
+        {
+            "id": "afe33731c0e86fe10be3218c578729bf",
+            "source": "nyt",
+            "text": "Where Are NASA’s Artemis II Astronauts Now? Closer to the Moon Than Earth.",
+            "source_link": "https://www.nytimes.com/2026/04/04/science/nasa-moon-artemis-day-4.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-04T21:44:12.060911Z",
+            "shown_at": [
+                "2026-04-04T21:44:13.083367Z"
+            ]
+        },
+        {
+            "id": "dc9a42222db9cc4ef244476cbfb27b4a",
+            "source": "spacenews",
+            "text": "Atlas 5 launches Amazon Leo satellites",
+            "source_link": "https://spacenews.com/atlas-5-launches-amazon-leo-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-04T20:34:24.179022Z",
+            "shown_at": [
+                "2026-04-04T20:34:25.329651Z"
+            ]
+        },
+        {
+            "id": "82828071d0f9b46621d6b8ee3b2cc95e",
+            "source": "spacenews",
+            "text": "Space Force budget would more than double in Trump’s $1.5 trillion defense plan",
+            "source_link": "https://spacenews.com/space-force-budget-would-more-than-double-in-trumps-1-5-trillion-defense-plan/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-04T17:04:28.601853Z",
+            "shown_at": [
+                "2026-04-04T17:04:29.772673Z"
+            ]
+        },
+        {
+            "id": "004d0301663ecd000938bd2c32d7b41c",
+            "source": "nyt",
+            "text": "Houston Cheers on Artemis II Moon Mission, Reclaiming Its Place as ‘Space City’",
+            "source_link": "https://www.nytimes.com/2026/04/04/us/artemis-ii-nasa-moon-houston-texas.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-04T09:29:05.965209Z",
+            "shown_at": [
+                "2026-04-04T10:04:35.678516Z"
+            ]
+        },
+        {
+            "id": "ecb21fffbe38057e041591fa6d130ce6",
+            "source": "nyt",
+            "text": "How Scientifically Accurate Is ‘Project Hail Mary’? Experts Weigh In",
+            "source_link": "https://www.nytimes.com/2026/04/04/movies/project-hail-mary-scientific-accuracy.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-04T09:29:05.965167Z",
+            "shown_at": [
+                "2026-04-04T09:29:06.624452Z"
+            ]
+        },
+        {
+            "id": "69e19e1433ba9670b1e1b8f6e4e228f4",
+            "source": "spacenews",
+            "text": "Artemis 2 in good shape cruising towards the moon",
+            "source_link": "https://spacenews.com/artemis-2-in-good-shape-cruising-towards-the-moon/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-04T01:19:04.152311Z",
+            "shown_at": [
+                "2026-04-04T01:19:04.801512Z"
+            ]
+        },
         {
             "id": "aa8a23531fb90f52851ebf659e76c295",
             "source": "nyt",
@@ -325,7 +397,8 @@
                 "2026-04-02T03:34:27.466563Z",
                 "2026-04-03T05:54:22.049262Z",
                 "2026-04-04T06:34:34.719294Z",
-                "2026-04-04T08:54:17.845503Z"
+                "2026-04-04T08:54:17.845503Z",
+                "2026-04-05T00:04:41.010473Z"
             ]
         },
         {
@@ -7937,172 +8010,6 @@
                 "2026-01-28T18:59:01.418789Z",
                 "2026-01-29T08:29:17.362382Z",
                 "2026-01-30T09:09:17.889498Z"
-            ]
-        },
-        {
-            "id": "a820fedd0e3139f7d0570d602443e5ca",
-            "source": "breaking_defense",
-            "text": "As Space Force wraps up GPS III launches, lawmakers push for more anti-jam capability",
-            "source_link": "https://breakingdefense.com/2026/01/as-space-force-wraps-up-gps-iii-launches-worried-lawmakers-push-for-more-anti-jam-capability/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-28T17:14:26.278765Z",
-            "shown_at": [
-                "2026-01-28T17:14:27.418958Z",
-                "2026-01-29T00:54:40.703901Z",
-                "2026-01-29T06:09:20.805606Z",
-                "2026-01-29T13:49:18.435920Z",
-                "2026-01-29T20:14:18.192928Z",
-                "2026-01-30T01:28:57.733219Z",
-                "2026-01-30T06:44:09.614122Z",
-                "2026-01-31T02:24:04.739426Z",
-                "2026-01-31T19:29:15.254020Z",
-                "2026-02-01T22:29:00.693545Z",
-                "2026-02-02T00:19:07.866856Z",
-                "2026-02-02T05:34:34.528297Z",
-                "2026-02-03T01:24:20.062845Z",
-                "2026-02-03T04:59:14.428460Z",
-                "2026-02-03T17:24:04.666360Z",
-                "2026-02-03T19:09:08.332496Z",
-                "2026-02-03T20:54:21.689611Z",
-                "2026-02-03T22:39:06.692844Z",
-                "2026-02-04T08:14:09.245594Z"
-            ]
-        },
-        {
-            "id": "01736bdffab3d16dbec96cf30b3aedbe",
-            "source": "spacenews",
-            "text": "Space Futures Centre, World Economic Forum Launch Space Debris Insights Report",
-            "source_link": "https://spacenews.com/space-futures-centre-world-economic-forum-launch-space-debris-insights-report/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-28T16:04:38.235496Z",
-            "shown_at": [
-                "2026-01-28T16:04:39.307504Z"
-            ]
-        },
-        {
-            "id": "d06e811f5d0705e655d5fc364766a99b",
-            "source": "spacenews",
-            "text": "OQ Technology plots smartphone test amid SpaceX’s C-band D2D push",
-            "source_link": "https://spacenews.com/oq-technology-plots-smartphone-test-amid-spacexs-c-band-d2d-push/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-28T15:29:25.624268Z",
-            "shown_at": [
-                "2026-01-28T15:29:26.736979Z"
-            ]
-        },
-        {
-            "id": "78194104e5cd46f34f082303be141d1e",
-            "source": "spacenews",
-            "text": "China set for crewed lunar tests, record launches, moon mission and reusable rockets in 2026",
-            "source_link": "https://spacenews.com/china-set-for-crewed-lunar-tests-record-launches-moon-mission-and-reusable-rockets-in-2026/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-28T14:54:57.151395Z",
-            "shown_at": [
-                "2026-01-28T14:54:58.412546Z",
-                "2026-01-29T14:24:45.860560Z",
-                "2026-02-03T07:24:26.757546Z"
-            ]
-        },
-        {
-            "id": "1bde5dbc95e6187fd48a759fc070f299",
-            "source": "spacenews",
-            "text": "Earth observation’s adoption gap is a supply design problem",
-            "source_link": "https://spacenews.com/earth-observations-adoption-gap-is-a-supply-design-problem/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-28T14:19:07.378698Z",
-            "shown_at": [
-                "2026-01-28T14:19:08.400676Z",
-                "2026-01-29T21:24:27.442551Z",
-                "2026-02-02T07:54:22.287394Z"
-            ]
-        },
-        {
-            "id": "4621528f5c9384acc7d52ff44e9da954",
-            "source": "spacenews",
-            "text": "FAA projects continuing growth in commercial space transportation",
-            "source_link": "https://spacenews.com/faa-projects-continuing-growth-in-commercial-space-transportation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-28T12:34:28.967868Z",
-            "shown_at": [
-                "2026-01-28T12:34:30.110039Z"
-            ]
-        },
-        {
-            "id": "69e19e1433ba9670b1e1b8f6e4e228f4",
-            "source": "spacenews",
-            "text": "Artemis 2 in good shape cruising towards the moon",
-            "source_link": "https://spacenews.com/artemis-2-in-good-shape-cruising-towards-the-moon/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-04T01:19:04.152311Z",
-            "shown_at": [
-                "2026-04-04T01:19:04.801512Z"
-            ]
-        },
-        {
-            "id": "ecb21fffbe38057e041591fa6d130ce6",
-            "source": "nyt",
-            "text": "How Scientifically Accurate Is ‘Project Hail Mary’? Experts Weigh In",
-            "source_link": "https://www.nytimes.com/2026/04/04/movies/project-hail-mary-scientific-accuracy.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-04T09:29:05.965167Z",
-            "shown_at": [
-                "2026-04-04T09:29:06.624452Z"
-            ]
-        },
-        {
-            "id": "004d0301663ecd000938bd2c32d7b41c",
-            "source": "nyt",
-            "text": "Houston Cheers on Artemis II Moon Mission, Reclaiming Its Place as ‘Space City’",
-            "source_link": "https://www.nytimes.com/2026/04/04/us/artemis-ii-nasa-moon-houston-texas.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-04T09:29:05.965209Z",
-            "shown_at": [
-                "2026-04-04T10:04:35.678516Z"
-            ]
-        },
-        {
-            "id": "82828071d0f9b46621d6b8ee3b2cc95e",
-            "source": "spacenews",
-            "text": "Space Force budget would more than double in Trump’s $1.5 trillion defense plan",
-            "source_link": "https://spacenews.com/space-force-budget-would-more-than-double-in-trumps-1-5-trillion-defense-plan/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-04T17:04:28.601853Z",
-            "shown_at": [
-                "2026-04-04T17:04:29.772673Z"
-            ]
-        },
-        {
-            "id": "dc9a42222db9cc4ef244476cbfb27b4a",
-            "source": "spacenews",
-            "text": "Atlas 5 launches Amazon Leo satellites",
-            "source_link": "https://spacenews.com/atlas-5-launches-amazon-leo-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-04T20:34:24.179022Z",
-            "shown_at": [
-                "2026-04-04T20:34:25.329651Z"
-            ]
-        },
-        {
-            "id": "afe33731c0e86fe10be3218c578729bf",
-            "source": "nyt",
-            "text": "Where Are NASA’s Artemis II Astronauts Now? Closer to the Moon Than Earth.",
-            "source_link": "https://www.nytimes.com/2026/04/04/science/nasa-moon-artemis-day-4.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-04T21:44:12.060911Z",
-            "shown_at": [
-                "2026-04-04T21:44:13.083367Z"
             ]
         }
     ]
