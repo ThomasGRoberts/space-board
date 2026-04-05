@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 9 | 22 | 41 |
-| spacenews | 3 | 9 | 19 | 41 |
+| nyt | 3 | 9 | 21 | 41 |
+| spacenews | 3 | 9 | 20 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2516,3 +2516,4 @@
 - **Apr 04, 10:54 PM** - For the Superfans of Spaceflight, Artemis II Can’t Launch Soon Enough (nyt)
 - **Apr 04, 11:29 PM** - Italy’s Argotec plans to scale Florida satellite facility to meet rising US demand (spacenews)
 - **Apr 05, 12:04 AM** - What China sees as NASA launches Artemis II. (nyt)
+- **Apr 05, 12:39 AM** - Varda flies navigation payload, heat shield tests on sixth reentry mission (spacenews)
