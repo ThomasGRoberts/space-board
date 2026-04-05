@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 8 | 20 | 42 |
-| spacenews | 3 | 5 | 21 | 40 |
+| nyt | 1 | 7 | 21 | 42 |
+| spacenews | 2 | 5 | 20 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2544,3 +2544,4 @@
 - **Apr 05, 03:24 PM** - With Voyager’s help, Icarus Robotics to test free-flyer on ISS (spacenews)
 - **Apr 05, 03:59 PM** - How NASA Is Keeping the Astronauts Safe During the Artemis II Mission (nyt)
 - **Apr 05, 04:34 PM** - Antaris™ Raises $28 Million Series A to Accelerate AI-Driven Space Missions (spacenews)
+- **Apr 05, 05:08 PM** - Why the Artemis II Astronauts Will Be Wearing Orange (nyt)
