@@ -2540,3 +2540,4 @@
 - **Apr 05, 12:59 PM** - Chinese startup tests flexible robotic arm in space for on-orbit servicing (spacenews)
 - **Apr 05, 01:34 PM** - How Scientifically Accurate Is ‘Project Hail Mary’? Experts Weigh In (nyt)
 - **Apr 05, 02:14 PM** - With Voyager’s help, Icarus Robotics to test free-flyer on ISS (spacenews)
+- **Apr 05, 02:49 PM** - Live Updates: Artemis Astronauts Begin Suiting Up for Moon Launch (nyt)
