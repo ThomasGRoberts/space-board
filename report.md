@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 8 | 20 | 42 |
+| nyt | 1 | 8 | 20 | 43 |
 | spacenews | 3 | 6 | 21 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2538,3 +2538,4 @@
 - **Apr 05, 11:49 AM** - Vantor wins intelligence agency contract to monitor space objects (spacenews)
 - **Apr 05, 12:24 PM** - Who Is Reid Wiseman, Commander of the Artemis II Moon Mission? (nyt)
 - **Apr 05, 12:59 PM** - Chinese startup tests flexible robotic arm in space for on-orbit servicing (spacenews)
+- **Apr 05, 01:34 PM** - How Scientifically Accurate Is ‘Project Hail Mary’? Experts Weigh In (nyt)
