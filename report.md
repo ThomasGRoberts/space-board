@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 8 | 20 | 42 |
+| nyt | 1 | 8 | 21 | 42 |
 | spacenews | 3 | 6 | 21 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2536,3 +2536,4 @@
 - **Apr 05, 10:39 AM** - Creating near-term lunar settlements: lessons from space history  (spacenews)
 - **Apr 05, 11:14 AM** - Christina Koch Will Be the First Female Astronaut to Journey Around the Moon (nyt)
 - **Apr 05, 11:49 AM** - Vantor wins intelligence agency contract to monitor space objects (spacenews)
+- **Apr 05, 12:24 PM** - Who Is Reid Wiseman, Commander of the Artemis II Moon Mission? (nyt)
