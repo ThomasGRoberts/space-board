@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 4 | 20 | 41 |
-| spacenews | 1 | 4 | 20 | 40 |
+| spacenews | 2 | 5 | 21 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2550,3 +2550,4 @@
 - **Apr 05, 06:54 PM** - Space Force budget would more than double in Trump’s $1.5 trillion defense plan (spacenews)
 - **Apr 05, 07:29 PM** - Artemis II Pilot Took a Test Drive on the Way to the Moon (nyt)
 - **Apr 05, 08:04 PM** - Pentagon weighing termination of Raytheon GPS ground control contract after years of delays (spacenews)
+- **Apr 05, 08:39 PM** - NASA stops work on SLS Mobile Launcher 2 (spacenews)

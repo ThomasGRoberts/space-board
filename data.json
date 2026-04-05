@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-05T00:04:35.495187+00:00",
-    "trigger_count": 6,
-    "current_item_id": "bd3f72003821d7d670d07f4196b0b185",
+    "trigger_count": 0,
+    "current_item_id": "c46ce972697f9c8d7a9a18b943cdf169",
     "data": [
         {
             "id": "afe33731c0e86fe10be3218c578729bf",
@@ -8055,6 +8055,18 @@
             "fetched_datetime": "2026-04-05T03:34:26.937474Z",
             "shown_at": [
                 "2026-04-05T03:34:27.673317Z"
+            ]
+        },
+        {
+            "id": "c46ce972697f9c8d7a9a18b943cdf169",
+            "source": "spacenews",
+            "text": "NASA stops work on SLS Mobile Launcher 2",
+            "source_link": "https://spacenews.com/nasa-stops-work-on-sls-mobile-launcher-2/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-05T20:39:14.279549Z",
+            "shown_at": [
+                "2026-04-05T20:39:15.557536Z"
             ]
         }
     ]
