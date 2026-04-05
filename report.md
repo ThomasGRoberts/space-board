@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 8 | 21 | 41 |
-| spacenews | 3 | 9 | 20 | 41 |
+| nyt | 3 | 8 | 21 | 40 |
+| spacenews | 3 | 9 | 20 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2529,3 +2529,4 @@
 - **Apr 05, 06:29 AM** - NASA Is Launching Astronauts to the Moon, but Americans Aren’t That Excited (nyt)
 - **Apr 05, 07:04 AM** - After three years, Artemis 2 astronauts ready to launch (spacenews)
 - **Apr 05, 07:39 AM** - In a Moment of Division, the Astronauts on the Artemis II Mission Hope to Inspire (nyt)
+- **Apr 05, 08:19 AM** - ESA launches first Celeste satellites to test complementary LEO navigation layer (spacenews)
