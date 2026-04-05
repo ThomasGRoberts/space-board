@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 3 | 20 | 40 |
+| nyt | 1 | 3 | 20 | 41 |
 | spacenews | 2 | 5 | 21 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2551,3 +2551,4 @@
 - **Apr 05, 07:29 PM** - Artemis II Pilot Took a Test Drive on the Way to the Moon (nyt)
 - **Apr 05, 08:04 PM** - Pentagon weighing termination of Raytheon GPS ground control contract after years of delays (spacenews)
 - **Apr 05, 08:39 PM** - NASA stops work on SLS Mobile Launcher 2 (spacenews)
+- **Apr 05, 09:14 PM** - When Will NASA’s Artemis II Mission Reach the Moon? (nyt)
