@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 8 | 21 | 41 |
-| spacenews | 3 | 9 | 20 | 41 |
+| nyt | 3 | 8 | 21 | 40 |
+| spacenews | 3 | 9 | 21 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2523,3 +2523,4 @@
 - **Apr 05, 02:59 AM** - Virgin Galactic expects commercial suborbital flights to resume late this year (spacenews)
 - **Apr 05, 03:34 AM** - NASA finalizes science plans for Artemis 2 lunar flyby (spacenews)
 - **Apr 05, 04:09 AM** - Why the Artemis II Astronauts Will Be Wearing Orange (nyt)
+- **Apr 05, 04:44 AM** - The race to build orbital data centers is missing its biggest variable: power (spacenews)
