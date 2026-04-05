@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 9 | 21 | 41 |
-| spacenews | 2 | 8 | 20 | 41 |
+| nyt | 3 | 8 | 21 | 40 |
+| spacenews | 3 | 9 | 21 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2521,3 +2521,4 @@
 - **Apr 05, 01:49 AM** - Cast your vote for the best sci-fi spaceship and then watch debaters duke it out at Space Symposium (spacenews)
 - **Apr 05, 02:24 AM** - NASA Is Launching Astronauts to the Moon, but Americans Aren’t That Excited (nyt)
 - **Apr 05, 02:59 AM** - Virgin Galactic expects commercial suborbital flights to resume late this year (spacenews)
+- **Apr 05, 03:34 AM** - NASA finalizes science plans for Artemis 2 lunar flyby (spacenews)

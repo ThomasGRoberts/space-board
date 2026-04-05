@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-05T00:04:35.495187+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9b2b6d283804e902ee367edff41d735e",
+    "trigger_count": 0,
+    "current_item_id": "4b18a482283999695d3195141d93d169",
     "data": [
         {
             "id": "afe33731c0e86fe10be3218c578729bf",
@@ -8015,6 +8015,18 @@
                 "2026-01-28T18:59:01.418789Z",
                 "2026-01-29T08:29:17.362382Z",
                 "2026-01-30T09:09:17.889498Z"
+            ]
+        },
+        {
+            "id": "4b18a482283999695d3195141d93d169",
+            "source": "spacenews",
+            "text": "NASA finalizes science plans for Artemis 2 lunar flyby",
+            "source_link": "https://spacenews.com/nasa-finalizes-science-plans-for-artemis-2-lunar-flyby/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-05T03:34:26.937474Z",
+            "shown_at": [
+                "2026-04-05T03:34:27.673317Z"
             ]
         }
     ]
