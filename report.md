@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 9 | 22 | 41 |
-| spacenews | 2 | 9 | 19 | 41 |
+| spacenews | 2 | 9 | 20 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2518,3 +2518,4 @@
 - **Apr 05, 12:04 AM** - What China sees as NASA launches Artemis II. (nyt)
 - **Apr 05, 12:39 AM** - Varda flies navigation payload, heat shield tests on sixth reentry mission (spacenews)
 - **Apr 05, 01:14 AM** - For the Superfans of Spaceflight, Artemis II Can’t Launch Soon Enough (nyt)
+- **Apr 05, 01:49 AM** - Cast your vote for the best sci-fi spaceship and then watch debaters duke it out at Space Symposium (spacenews)
