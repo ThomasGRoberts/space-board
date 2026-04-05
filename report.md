@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 8 | 20 | 42 |
-| spacenews | 3 | 6 | 21 | 40 |
+| nyt | 1 | 8 | 20 | 43 |
+| spacenews | 3 | 5 | 21 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2542,3 +2542,4 @@
 - **Apr 05, 02:14 PM** - With Voyager’s help, Icarus Robotics to test free-flyer on ISS (spacenews)
 - **Apr 05, 02:49 PM** - Live Updates: Artemis Astronauts Begin Suiting Up for Moon Launch (nyt)
 - **Apr 05, 03:24 PM** - With Voyager’s help, Icarus Robotics to test free-flyer on ISS (spacenews)
+- **Apr 05, 03:59 PM** - How NASA Is Keeping the Astronauts Safe During the Artemis II Mission (nyt)
