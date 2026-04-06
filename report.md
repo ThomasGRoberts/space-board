@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 5 | 21 | 41 |
-| nyt | 2 | 5 | 20 | 41 |
+| spacenews | 2 | 5 | 20 | 41 |
+| nyt | 3 | 4 | 21 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2550,3 +2550,4 @@
 - **Apr 06, 07:44 AM** - How NASA Is Keeping the Astronauts Safe During the Artemis II Mission (nyt)
 - **Apr 06, 08:19 AM** - ESA launches first Celeste satellites to test complementary LEO navigation layer (spacenews)
 - **Apr 06, 08:54 AM** - Jeremy Hansen, an Artemis II Astronaut, Is the First Canadian on a Crewed Moon Mission (nyt)
+- **Apr 06, 09:29 AM** - NASA Families Don’t Go to the Moon, but They’re on the Mission, Too (nyt)
