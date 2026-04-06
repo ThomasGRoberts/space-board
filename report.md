@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 5 | 21 | 42 |
-| nyt | 3 | 4 | 20 | 40 |
+| spacenews | 2 | 5 | 20 | 42 |
+| nyt | 3 | 4 | 21 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2552,3 +2552,4 @@
 - **Apr 06, 08:54 AM** - Jeremy Hansen, an Artemis II Astronaut, Is the First Canadian on a Crewed Moon Mission (nyt)
 - **Apr 06, 09:29 AM** - NASA Families Don’t Go to the Moon, but They’re on the Mission, Too (nyt)
 - **Apr 06, 10:04 AM** - NASA stops work on SLS Mobile Launcher 2 (spacenews)
+- **Apr 06, 10:39 AM** - Live Updates: NASA Starts Fueling Rocket for Artemis II Moon Launch (nyt)
