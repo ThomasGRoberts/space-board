@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-06T00:04:29.580966+00:00",
-    "trigger_count": 6,
-    "current_item_id": "dcac182eda91a05dae26ecc7bc2b3f03",
+    "trigger_count": 0,
+    "current_item_id": "10129d4ea5386926d8c29900361f099d",
     "data": [
         {
             "id": "0ebd02d49b0f4c79577beb18181add52",
@@ -8182,6 +8182,18 @@
             "fetched_datetime": "2026-04-06T19:44:15.220340Z",
             "shown_at": [
                 "2026-04-06T19:44:16.450830Z"
+            ]
+        },
+        {
+            "id": "10129d4ea5386926d8c29900361f099d",
+            "source": "spacenews",
+            "text": "Moog Highlights Growing Satellite Bus Capabilities with Full‑Scale METEOR Reveal at Space Symposium",
+            "source_link": "https://spacenews.com/moog-highlights-growing-satellite-bus-capabilities-with-full-scale-meteor-reveal-at-space-symposium/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-06T20:19:38.430778Z",
+            "shown_at": [
+                "2026-04-06T20:19:39.451365Z"
             ]
         }
     ]
