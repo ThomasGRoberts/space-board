@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-06T00:04:29.580966+00:00",
-    "trigger_count": 6,
-    "current_item_id": "10129d4ea5386926d8c29900361f099d",
+    "trigger_count": 0,
+    "current_item_id": "4e08aa64b98f2d2eb812dada969acf8e",
     "data": [
         {
             "id": "0ebd02d49b0f4c79577beb18181add52",
@@ -8194,6 +8194,18 @@
             "fetched_datetime": "2026-04-06T20:19:38.430778Z",
             "shown_at": [
                 "2026-04-06T20:19:39.451365Z"
+            ]
+        },
+        {
+            "id": "4e08aa64b98f2d2eb812dada969acf8e",
+            "source": "nyt",
+            "text": "Exploring the Far Side of the Moon",
+            "source_link": "https://www.nytimes.com/video/science/space/100000010788127/exploring-the-far-side-of-the-moon.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-06T20:54:13.821448Z",
+            "shown_at": [
+                "2026-04-06T20:54:15.202378Z"
             ]
         }
     ]
