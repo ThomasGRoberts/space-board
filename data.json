@@ -1,9 +1,45 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-04-05T00:04:35.495187+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2026-04-06T00:04:29.580966+00:00",
+    "trigger_count": 6,
     "current_item_id": "69e19e1433ba9670b1e1b8f6e4e228f4",
     "data": [
+        {
+            "id": "0ebd02d49b0f4c79577beb18181add52",
+            "source": "spacenews",
+            "text": "Isaacman defends NASA budget proposal despite steep cuts",
+            "source_link": "https://spacenews.com/isaacman-defends-nasa-budget-proposal-despite-steep-cuts/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-05T22:24:17.075786Z",
+            "shown_at": [
+                "2026-04-05T22:24:18.297566Z"
+            ]
+        },
+        {
+            "id": "c46ce972697f9c8d7a9a18b943cdf169",
+            "source": "spacenews",
+            "text": "NASA stops work on SLS Mobile Launcher 2",
+            "source_link": "https://spacenews.com/nasa-stops-work-on-sls-mobile-launcher-2/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-05T20:39:14.279549Z",
+            "shown_at": [
+                "2026-04-05T20:39:15.557536Z"
+            ]
+        },
+        {
+            "id": "4b18a482283999695d3195141d93d169",
+            "source": "spacenews",
+            "text": "NASA finalizes science plans for Artemis 2 lunar flyby",
+            "source_link": "https://spacenews.com/nasa-finalizes-science-plans-for-artemis-2-lunar-flyby/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-05T03:34:26.937474Z",
+            "shown_at": [
+                "2026-04-05T03:34:27.673317Z"
+            ]
+        },
         {
             "id": "afe33731c0e86fe10be3218c578729bf",
             "source": "nyt",
@@ -7992,97 +8028,6 @@
             "fetched_datetime": "2026-01-28T21:58:56.590120Z",
             "shown_at": [
                 "2026-01-28T21:58:57.667996Z"
-            ]
-        },
-        {
-            "id": "4f9645201b4d6c51be61376649a17a9e",
-            "source": "breaking_defense",
-            "text": "SPACECOM chief cites Army, Marines as models for expanding on-orbit warfighting exercises",
-            "source_link": "https://breakingdefense.com/2026/01/spacecom-chief-cites-army-marines-as-models-for-expanding-on-orbit-warfighting-exercises/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-28T20:43:57.189004Z",
-            "shown_at": [
-                "2026-01-28T20:43:58.242419Z",
-                "2026-01-29T07:54:15.308501Z",
-                "2026-01-29T17:54:12.266600Z",
-                "2026-01-30T04:58:58.889382Z",
-                "2026-01-31T09:29:54.055008Z",
-                "2026-01-31T11:54:07.797711Z",
-                "2026-01-31T15:59:14.958440Z",
-                "2026-01-31T17:44:39.890185Z",
-                "2026-02-01T01:19:20.476428Z",
-                "2026-02-01T03:04:35.121347Z",
-                "2026-02-01T20:44:13.951525Z",
-                "2026-02-02T02:04:37.354877Z",
-                "2026-02-02T03:49:10.849210Z",
-                "2026-02-02T09:04:40.556027Z",
-                "2026-02-02T18:59:46.598317Z",
-                "2026-02-03T08:34:48.897835Z",
-                "2026-02-03T15:39:13.842516Z",
-                "2026-02-04T11:49:04.093769Z"
-            ]
-        },
-        {
-            "id": "3958122dcd31db50528360a27247c813",
-            "source": "spacenews",
-            "text": "U.S. Space Command to bring commercial firms into classified wargame on nuclear threats in space",
-            "source_link": "https://spacenews.com/u-s-space-command-to-bring-commercial-firms-into-classified-wargame-on-nuclear-threats-in-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-28T20:09:12.624528Z",
-            "shown_at": [
-                "2026-01-28T20:09:14.105578Z"
-            ]
-        },
-        {
-            "id": "80ef5f81c5aa968ac0d65ee8b624f1b3",
-            "source": "spacenews",
-            "text": "Space Command’s case for orbital logistics: Why the Pentagon is being urged to think beyond launch",
-            "source_link": "https://spacenews.com/space-commands-case-for-orbital-logistics-why-the-pentagon-is-being-urged-to-think-beyond-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-28T18:59:00.294415Z",
-            "shown_at": [
-                "2026-01-28T18:59:01.418789Z",
-                "2026-01-29T08:29:17.362382Z",
-                "2026-01-30T09:09:17.889498Z"
-            ]
-        },
-        {
-            "id": "4b18a482283999695d3195141d93d169",
-            "source": "spacenews",
-            "text": "NASA finalizes science plans for Artemis 2 lunar flyby",
-            "source_link": "https://spacenews.com/nasa-finalizes-science-plans-for-artemis-2-lunar-flyby/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-05T03:34:26.937474Z",
-            "shown_at": [
-                "2026-04-05T03:34:27.673317Z"
-            ]
-        },
-        {
-            "id": "c46ce972697f9c8d7a9a18b943cdf169",
-            "source": "spacenews",
-            "text": "NASA stops work on SLS Mobile Launcher 2",
-            "source_link": "https://spacenews.com/nasa-stops-work-on-sls-mobile-launcher-2/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-05T20:39:14.279549Z",
-            "shown_at": [
-                "2026-04-05T20:39:15.557536Z"
-            ]
-        },
-        {
-            "id": "0ebd02d49b0f4c79577beb18181add52",
-            "source": "spacenews",
-            "text": "Isaacman defends NASA budget proposal despite steep cuts",
-            "source_link": "https://spacenews.com/isaacman-defends-nasa-budget-proposal-despite-steep-cuts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-05T22:24:17.075786Z",
-            "shown_at": [
-                "2026-04-05T22:24:18.297566Z"
             ]
         }
     ]
