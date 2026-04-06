@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 9 | 20 | 41 |
-| nyt | 7 | 8 | 19 | 39 |
+| nyt | 8 | 9 | 20 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2569,3 +2569,4 @@
 - **Apr 06, 07:44 PM** - Artemis II Astronauts Set New Distance Record in Moon Flyby: What to Know (nyt)
 - **Apr 06, 08:19 PM** - Moog Highlights Growing Satellite Bus Capabilities with Full‑Scale METEOR Reveal at Space Symposium (spacenews)
 - **Apr 06, 08:54 PM** - Exploring the Far Side of the Moon (nyt)
+- **Apr 06, 09:29 PM** - Artemis II Astronauts Name Moon Crater After Carroll, Reid Wiseman’s Late Wife (nyt)
