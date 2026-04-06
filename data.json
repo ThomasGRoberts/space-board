@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-06T00:04:29.580966+00:00",
-    "trigger_count": 6,
-    "current_item_id": "055233610827e6ada3c32e0586dcd9ef",
+    "trigger_count": 0,
+    "current_item_id": "12a0f984f3f3b5319bf7725749587fe1",
     "data": [
         {
             "id": "0ebd02d49b0f4c79577beb18181add52",
@@ -8220,6 +8220,18 @@
             "fetched_datetime": "2026-04-06T21:29:30.979661Z",
             "shown_at": [
                 "2026-04-06T21:29:32.286077Z"
+            ]
+        },
+        {
+            "id": "12a0f984f3f3b5319bf7725749587fe1",
+            "source": "nyt",
+            "text": "The Dark Side of the Moon Is Really the Far Side",
+            "source_link": "https://www.nytimes.com/2026/04/06/science/moon-dark-side-far-side.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-06T23:14:19.329429Z",
+            "shown_at": [
+                "2026-04-06T23:14:20.345999Z"
             ]
         }
     ]
