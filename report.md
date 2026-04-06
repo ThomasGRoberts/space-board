@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 9 | 22 | 43 |
-| nyt | 4 | 5 | 19 | 39 |
+| spacenews | 6 | 8 | 22 | 42 |
+| nyt | 4 | 5 | 20 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2563,3 +2563,4 @@
 - **Apr 06, 03:19 PM** - Vantor wins intelligence agency contract to monitor space objects (spacenews)
 - **Apr 06, 03:54 PM** - As NASA Sent Astronauts to the Moon, Some Rejoiced and Others Barely Noticed (nyt)
 - **Apr 06, 04:29 PM** - ESA launches first Celeste satellites to test complementary LEO navigation layer (spacenews)
+- **Apr 06, 05:04 PM** - How Scientifically Accurate Is ‘Project Hail Mary’? Experts Weigh In (nyt)
