@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 9 | 22 | 43 |
-| nyt | 4 | 5 | 19 | 39 |
+| nyt | 4 | 5 | 20 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2561,3 +2561,4 @@
 - **Apr 06, 02:09 PM** - Seagate Space Signs MOU with Firefly Aerospace to Collaborate on Offshore Launch Infrastructure for Alpha (spacenews)
 - **Apr 06, 02:44 PM** - Artemis II Astronauts Will Set New Distance Record in Moon Flyby: What to Know (nyt)
 - **Apr 06, 03:19 PM** - Vantor wins intelligence agency contract to monitor space objects (spacenews)
+- **Apr 06, 03:54 PM** - As NASA Sent Astronauts to the Moon, Some Rejoiced and Others Barely Noticed (nyt)
