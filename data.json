@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-06T00:04:29.580966+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0ebd02d49b0f4c79577beb18181add52",
+    "trigger_count": 0,
+    "current_item_id": "5ee6b2a65da1e6dcf14ef8b713ddde1b",
     "data": [
         {
             "id": "0ebd02d49b0f4c79577beb18181add52",
@@ -8032,6 +8032,18 @@
             "fetched_datetime": "2026-01-28T21:58:56.590120Z",
             "shown_at": [
                 "2026-01-28T21:58:57.667996Z"
+            ]
+        },
+        {
+            "id": "5ee6b2a65da1e6dcf14ef8b713ddde1b",
+            "source": "nyt",
+            "text": "NASA Artemis II Astronauts Race Into Moon’s Embrace After Quiet Easter",
+            "source_link": "https://www.nytimes.com/2026/04/05/science/nasa-moon-artemis-day-5.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-06T02:29:14.799131Z",
+            "shown_at": [
+                "2026-04-06T02:29:15.838104Z"
             ]
         }
     ]
