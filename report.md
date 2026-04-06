@@ -2549,3 +2549,4 @@
 - **Apr 06, 07:09 AM** - White House again proposes steep NASA budget cuts (spacenews)
 - **Apr 06, 07:44 AM** - How NASA Is Keeping the Astronauts Safe During the Artemis II Mission (nyt)
 - **Apr 06, 08:19 AM** - ESA launches first Celeste satellites to test complementary LEO navigation layer (spacenews)
+- **Apr 06, 08:54 AM** - Jeremy Hansen, an Artemis II Astronaut, Is the First Canadian on a Crewed Moon Mission (nyt)
