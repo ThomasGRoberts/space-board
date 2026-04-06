@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 9 | 19 | 41 |
-| nyt | 8 | 8 | 20 | 39 |
+| nyt | 8 | 8 | 21 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2571,3 +2571,4 @@
 - **Apr 06, 08:54 PM** - Exploring the Far Side of the Moon (nyt)
 - **Apr 06, 09:29 PM** - Artemis II Astronauts Name Moon Crater After Carroll, Reid Wiseman’s Late Wife (nyt)
 - **Apr 06, 10:04 PM** - Artemis 2 countdown underway (spacenews)
+- **Apr 06, 10:39 PM** - Meet the Astronauts of NASA’s Artemis II Moon Mission (nyt)
