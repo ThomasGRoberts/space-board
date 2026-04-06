@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 9 | 22 | 43 |
+| spacenews | 6 | 9 | 23 | 43 |
 | nyt | 3 | 4 | 19 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2558,3 +2558,4 @@
 - **Apr 06, 12:24 PM** - Artemis 2 ready to fly around the moon (spacenews)
 - **Apr 06, 12:59 PM** - Live Updates: NASA Starts Fueling Rocket for Artemis II Moon Launch (nyt)
 - **Apr 06, 01:34 PM** - The moon base has a hardware plan. It needs a software strategy, too. (spacenews)
+- **Apr 06, 02:09 PM** - Seagate Space Signs MOU with Firefly Aerospace to Collaborate on Offshore Launch Infrastructure for Alpha (spacenews)
