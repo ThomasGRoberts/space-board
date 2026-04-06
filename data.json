@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-06T00:04:29.580966+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ecb21fffbe38057e041591fa6d130ce6",
+    "trigger_count": 0,
+    "current_item_id": "3749674a8346e1a69b4ffaca80ffa7c7",
     "data": [
         {
             "id": "0ebd02d49b0f4c79577beb18181add52",
@@ -8146,6 +8146,18 @@
             "fetched_datetime": "2026-04-06T14:44:32.380730Z",
             "shown_at": [
                 "2026-04-06T14:44:33.530802Z"
+            ]
+        },
+        {
+            "id": "3749674a8346e1a69b4ffaca80ffa7c7",
+            "source": "nyt",
+            "text": "Here’s What Food the Artemis II Astronauts Will Eat in Space",
+            "source_link": "https://www.nytimes.com/live/2026/04/06/science/nasa-artemis-ii-moon-lunar-flyby/this-is-the-artemis-ii-moon-menu",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-06T18:07:43.316756Z",
+            "shown_at": [
+                "2026-04-06T18:07:44.492153Z"
             ]
         }
     ]
