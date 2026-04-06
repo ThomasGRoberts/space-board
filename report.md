@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 5 | 20 | 41 |
+| spacenews | 2 | 5 | 21 | 41 |
 | nyt | 2 | 5 | 20 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2546,3 +2546,4 @@
 - **Apr 06, 05:24 AM** - Victor Glover, the Artemis II Pilot, Will Be the First Black Astronaut to Circle the Moon (nyt)
 - **Apr 06, 05:59 AM** - SpaceX quietly files for big bang IPO (spacenews)
 - **Apr 06, 06:34 AM** - For Trump, the Artemis II Moon Mission Offers a Shot to Cement His Legacy (nyt)
+- **Apr 06, 07:09 AM** - White House again proposes steep NASA budget cuts (spacenews)
