@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 9 | 18 | 40 |
+| spacenews | 6 | 9 | 19 | 41 |
 | nyt | 9 | 9 | 21 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2573,3 +2573,4 @@
 - **Apr 06, 10:04 PM** - Artemis 2 countdown underway (spacenews)
 - **Apr 06, 10:39 PM** - Meet the Astronauts of NASA’s Artemis II Moon Mission (nyt)
 - **Apr 06, 11:14 PM** - The Dark Side of the Moon Is Really the Far Side (nyt)
+- **Apr 06, 11:49 PM** - Aspect Aerospace secures early funding to advance swarm-deployable VLEO satellites (spacenews)
