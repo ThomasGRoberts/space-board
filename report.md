@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 5 | 21 | 41 |
+| spacenews | 2 | 5 | 22 | 41 |
 | nyt | 2 | 5 | 20 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2548,3 +2548,4 @@
 - **Apr 06, 06:34 AM** - For Trump, the Artemis II Moon Mission Offers a Shot to Cement His Legacy (nyt)
 - **Apr 06, 07:09 AM** - White House again proposes steep NASA budget cuts (spacenews)
 - **Apr 06, 07:44 AM** - How NASA Is Keeping the Astronauts Safe During the Artemis II Mission (nyt)
+- **Apr 06, 08:19 AM** - ESA launches first Celeste satellites to test complementary LEO navigation layer (spacenews)
