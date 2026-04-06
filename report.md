@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 7 | 22 | 43 |
-| nyt | 3 | 4 | 19 | 39 |
+| nyt | 3 | 4 | 20 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2556,3 +2556,4 @@
 - **Apr 06, 11:14 AM** - ESA launches first Celeste satellites to test complementary LEO navigation layer (spacenews)
 - **Apr 06, 11:49 AM** - Military space programs confront hidden supply constraints (spacenews)
 - **Apr 06, 12:24 PM** - Artemis 2 ready to fly around the moon (spacenews)
+- **Apr 06, 12:59 PM** - Live Updates: NASA Starts Fueling Rocket for Artemis II Moon Launch (nyt)
