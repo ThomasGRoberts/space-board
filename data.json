@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-06T00:04:29.580966+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0d49fc429dac2344fd52cb81e0c7372b",
+    "trigger_count": 0,
+    "current_item_id": "9f325cd6bdeaea8ebd8b48da3398ca7b",
     "data": [
         {
             "id": "0ebd02d49b0f4c79577beb18181add52",
@@ -8082,6 +8082,27 @@
             "shown_at": [
                 "2026-04-06T09:29:26.112894Z"
             ]
+        },
+        {
+            "id": "9f325cd6bdeaea8ebd8b48da3398ca7b",
+            "source": "spacenews",
+            "text": "Military space programs confront hidden supply constraints",
+            "source_link": "https://spacenews.com/military-space-confronts-hidden-supplier-constraints/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-06T11:49:14.791929Z",
+            "shown_at": [
+                "2026-04-06T11:49:15.986369Z"
+            ]
+        },
+        {
+            "id": "e0abac67b82b4762568f7f32474af069",
+            "source": "spacenews",
+            "text": "Artemis 2 ready to fly around the moon",
+            "source_link": "https://spacenews.com/artemis-2-ready-to-fly-around-the-moon/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-06T11:49:14.791985Z"
         }
     ]
 }
