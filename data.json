@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-06T00:04:29.580966+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6c1c047362f9c13508c2680a224ddf21",
+    "trigger_count": 0,
+    "current_item_id": "5aba10fe22480d02d4362e8f86747c0b",
     "data": [
         {
             "id": "0ebd02d49b0f4c79577beb18181add52",
@@ -8107,6 +8107,27 @@
             "shown_at": [
                 "2026-04-06T12:24:30.210176Z"
             ]
+        },
+        {
+            "id": "5aba10fe22480d02d4362e8f86747c0b",
+            "source": "spacenews",
+            "text": "The moon base has a hardware plan. It needs a software strategy, too.",
+            "source_link": "https://spacenews.com/the-moon-base-has-a-hardware-plan-it-needs-a-software-strategy-too/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-06T13:34:29.242716Z",
+            "shown_at": [
+                "2026-04-06T13:34:30.392282Z"
+            ]
+        },
+        {
+            "id": "050423b260dcec88d902fe10df635b5f",
+            "source": "spacenews",
+            "text": "Seagate Space Signs MOU with Firefly Aerospace to Collaborate on Offshore Launch Infrastructure for Alpha",
+            "source_link": "https://spacenews.com/seagate-space-signs-mou-with-firefly-aerospace-to-collaborate-on-offshore-launch-infrastructure-for-alpha/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-06T13:34:29.242795Z"
         }
     ]
 }
