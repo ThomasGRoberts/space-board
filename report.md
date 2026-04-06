@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 9 | 19 | 41 |
+| spacenews | 7 | 9 | 20 | 42 |
 | nyt | 8 | 8 | 20 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2570,3 +2570,4 @@
 - **Apr 06, 08:19 PM** - Moog Highlights Growing Satellite Bus Capabilities with Full‑Scale METEOR Reveal at Space Symposium (spacenews)
 - **Apr 06, 08:54 PM** - Exploring the Far Side of the Moon (nyt)
 - **Apr 06, 09:29 PM** - Artemis II Astronauts Name Moon Crater After Carroll, Reid Wiseman’s Late Wife (nyt)
+- **Apr 06, 10:04 PM** - Artemis 2 countdown underway (spacenews)
