@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 5 | 22 | 41 |
-| nyt | 0 | 3 | 19 | 41 |
+| spacenews | 3 | 5 | 22 | 42 |
+| nyt | 0 | 3 | 19 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2537,3 +2537,4 @@
 - **Apr 06, 12:09 AM** - Jeremy Hansen, an Artemis II Astronaut, Is the First Canadian on a Crewed Moon Mission (nyt)
 - **Apr 06, 12:44 AM** - ESA launches first Celeste satellites to test complementary LEO navigation layer (spacenews)
 - **Apr 06, 01:19 AM** - Artemis II Pilot Took a Test Drive on the Way to the Moon (nyt)
+- **Apr 06, 01:54 AM** - Isaacman defends NASA budget proposal despite steep cuts (spacenews)
