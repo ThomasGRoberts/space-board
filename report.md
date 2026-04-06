@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 21 | 41 |
-| nyt | 2 | 5 | 19 | 41 |
+| nyt | 2 | 5 | 20 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2543,3 +2543,4 @@
 - **Apr 06, 03:39 AM** - Live Updates: NASA Starts Fueling Rocket for Artemis II Moon Launch (nyt)
 - **Apr 06, 04:14 AM** - Artemis II Moon Flyby: Crew, Timeline and What to Know (nyt)
 - **Apr 06, 04:49 AM** - Aspect Aerospace secures early funding to advance swarm-deployable VLEO satellites (spacenews)
+- **Apr 06, 05:24 AM** - Victor Glover, the Artemis II Pilot, Will Be the First Black Astronaut to Circle the Moon (nyt)
