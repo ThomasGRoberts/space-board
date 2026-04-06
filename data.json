@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-06T00:04:29.580966+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9f325cd6bdeaea8ebd8b48da3398ca7b",
+    "trigger_count": 0,
+    "current_item_id": "e0abac67b82b4762568f7f32474af069",
     "data": [
         {
             "id": "0ebd02d49b0f4c79577beb18181add52",
@@ -8100,9 +8100,12 @@
             "source": "spacenews",
             "text": "Artemis 2 ready to fly around the moon",
             "source_link": "https://spacenews.com/artemis-2-ready-to-fly-around-the-moon/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-04-06T11:49:14.791985Z"
+            "fetched_datetime": "2026-04-06T11:49:14.791985Z",
+            "shown_at": [
+                "2026-04-06T12:24:30.210176Z"
+            ]
         }
     ]
 }
