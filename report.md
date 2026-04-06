@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 9 | 21 | 41 |
-| nyt | 5 | 6 | 18 | 39 |
+| nyt | 6 | 7 | 19 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2566,3 +2566,4 @@
 - **Apr 06, 05:04 PM** - How Scientifically Accurate Is ‘Project Hail Mary’? Experts Weigh In (nyt)
 - **Apr 06, 06:07 PM** - Here’s What Food the Artemis II Astronauts Will Eat in Space (nyt)
 - **Apr 06, 07:09 PM** - FOSSA targets Japan’s defense market as larger smallsats expand capabilities (spacenews)
+- **Apr 06, 07:44 PM** - Artemis II Astronauts Set New Distance Record in Moon Flyby: What to Know (nyt)

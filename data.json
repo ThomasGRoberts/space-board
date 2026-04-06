@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-06T00:04:29.580966+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7856d191d9cfc9052b476b6113e13a7e",
+    "trigger_count": 0,
+    "current_item_id": "dcac182eda91a05dae26ecc7bc2b3f03",
     "data": [
         {
             "id": "0ebd02d49b0f4c79577beb18181add52",
@@ -8170,6 +8170,18 @@
             "fetched_datetime": "2026-04-06T19:09:17.302683Z",
             "shown_at": [
                 "2026-04-06T19:09:18.376645Z"
+            ]
+        },
+        {
+            "id": "dcac182eda91a05dae26ecc7bc2b3f03",
+            "source": "nyt",
+            "text": "Artemis II Astronauts Set New Distance Record in Moon Flyby: What to Know",
+            "source_link": "https://www.nytimes.com/2026/04/06/science/artemis-2-lunar-moon-flyby-nasa-timeline.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-06T19:44:15.220340Z",
+            "shown_at": [
+                "2026-04-06T19:44:16.450830Z"
             ]
         }
     ]
