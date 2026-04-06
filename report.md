@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 5 | 22 | 41 |
-| nyt | 1 | 4 | 19 | 41 |
+| spacenews | 3 | 5 | 22 | 42 |
+| nyt | 1 | 4 | 19 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2539,3 +2539,4 @@
 - **Apr 06, 01:19 AM** - Artemis II Pilot Took a Test Drive on the Way to the Moon (nyt)
 - **Apr 06, 01:54 AM** - Isaacman defends NASA budget proposal despite steep cuts (spacenews)
 - **Apr 06, 02:29 AM** - NASA Artemis II Astronauts Race Into Moon’s Embrace After Quiet Easter (nyt)
+- **Apr 06, 03:04 AM** - Teledyne forms dedicated space unit to capture rising demand (spacenews)
