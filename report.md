@@ -2542,3 +2542,4 @@
 - **Apr 06, 03:04 AM** - Teledyne forms dedicated space unit to capture rising demand (spacenews)
 - **Apr 06, 03:39 AM** - Live Updates: NASA Starts Fueling Rocket for Artemis II Moon Launch (nyt)
 - **Apr 06, 04:14 AM** - Artemis II Moon Flyby: Crew, Timeline and What to Know (nyt)
+- **Apr 06, 04:49 AM** - Aspect Aerospace secures early funding to advance swarm-deployable VLEO satellites (spacenews)
