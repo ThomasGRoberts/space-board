@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 8 | 20 | 41 |
+| spacenews | 7 | 9 | 21 | 42 |
 | nyt | 5 | 6 | 19 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2565,3 +2565,4 @@
 - **Apr 06, 04:29 PM** - ESA launches first Celeste satellites to test complementary LEO navigation layer (spacenews)
 - **Apr 06, 05:04 PM** - How Scientifically Accurate Is ‘Project Hail Mary’? Experts Weigh In (nyt)
 - **Apr 06, 06:07 PM** - Here’s What Food the Artemis II Astronauts Will Eat in Space (nyt)
+- **Apr 06, 07:09 PM** - FOSSA targets Japan’s defense market as larger smallsats expand capabilities (spacenews)
