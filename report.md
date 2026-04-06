@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 6 | 22 | 42 |
-| nyt | 0 | 3 | 19 | 40 |
+| spacenews | 3 | 5 | 22 | 41 |
+| nyt | 0 | 3 | 19 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2536,3 +2536,4 @@
 - **Apr 05, 11:34 PM** - Artemis 2 in good shape cruising towards the moon (spacenews)
 - **Apr 06, 12:09 AM** - Jeremy Hansen, an Artemis II Astronaut, Is the First Canadian on a Crewed Moon Mission (nyt)
 - **Apr 06, 12:44 AM** - ESA launches first Celeste satellites to test complementary LEO navigation layer (spacenews)
+- **Apr 06, 01:19 AM** - Artemis II Pilot Took a Test Drive on the Way to the Moon (nyt)
