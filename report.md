@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 21 | 41 |
-| nyt | 1 | 4 | 19 | 41 |
+| nyt | 2 | 5 | 20 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2541,3 +2541,4 @@
 - **Apr 06, 02:29 AM** - NASA Artemis II Astronauts Race Into Moon’s Embrace After Quiet Easter (nyt)
 - **Apr 06, 03:04 AM** - Teledyne forms dedicated space unit to capture rising demand (spacenews)
 - **Apr 06, 03:39 AM** - Live Updates: NASA Starts Fueling Rocket for Artemis II Moon Launch (nyt)
+- **Apr 06, 04:14 AM** - Artemis II Moon Flyby: Crew, Timeline and What to Know (nyt)
