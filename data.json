@@ -1,9 +1,189 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-04-06T00:04:29.580966+00:00",
-    "trigger_count": 2,
+    "last_run_datetime": "2026-04-07T00:04:47.455774+00:00",
+    "trigger_count": 3,
     "current_item_id": "fc581a95facea66866f6dffae464c6b9",
     "data": [
+        {
+            "id": "12a0f984f3f3b5319bf7725749587fe1",
+            "source": "nyt",
+            "text": "The Dark Side of the Moon Is Really the Far Side",
+            "source_link": "https://www.nytimes.com/2026/04/06/science/moon-dark-side-far-side.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-06T23:14:19.329429Z",
+            "shown_at": [
+                "2026-04-06T23:14:20.345999Z"
+            ]
+        },
+        {
+            "id": "1482f371711220fdd4ab4cec0194c3f7",
+            "source": "nyt",
+            "text": "Artemis II Astronauts Name Moon Crater After Carroll, Reid Wiseman’s Late Wife",
+            "source_link": "https://www.nytimes.com/2026/04/06/science/moon-crater-carroll-reid-wiseman.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-06T21:29:30.979661Z",
+            "shown_at": [
+                "2026-04-06T21:29:32.286077Z"
+            ]
+        },
+        {
+            "id": "4e08aa64b98f2d2eb812dada969acf8e",
+            "source": "nyt",
+            "text": "Exploring the Far Side of the Moon",
+            "source_link": "https://www.nytimes.com/video/science/space/100000010788127/exploring-the-far-side-of-the-moon.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-06T20:54:13.821448Z",
+            "shown_at": [
+                "2026-04-06T20:54:15.202378Z"
+            ]
+        },
+        {
+            "id": "10129d4ea5386926d8c29900361f099d",
+            "source": "spacenews",
+            "text": "Moog Highlights Growing Satellite Bus Capabilities with Full‑Scale METEOR Reveal at Space Symposium",
+            "source_link": "https://spacenews.com/moog-highlights-growing-satellite-bus-capabilities-with-full-scale-meteor-reveal-at-space-symposium/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-06T20:19:38.430778Z",
+            "shown_at": [
+                "2026-04-06T20:19:39.451365Z"
+            ]
+        },
+        {
+            "id": "dcac182eda91a05dae26ecc7bc2b3f03",
+            "source": "nyt",
+            "text": "Artemis II Astronauts Set New Distance Record in Moon Flyby: What to Know",
+            "source_link": "https://www.nytimes.com/2026/04/06/science/artemis-2-lunar-moon-flyby-nasa-timeline.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-06T19:44:15.220340Z",
+            "shown_at": [
+                "2026-04-06T19:44:16.450830Z"
+            ]
+        },
+        {
+            "id": "7856d191d9cfc9052b476b6113e13a7e",
+            "source": "spacenews",
+            "text": "FOSSA targets Japan’s defense market as larger smallsats expand capabilities",
+            "source_link": "https://spacenews.com/fossa-targets-japans-defense-market-as-larger-smallsats-expand-capabilities/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-06T19:09:17.302683Z",
+            "shown_at": [
+                "2026-04-06T19:09:18.376645Z"
+            ]
+        },
+        {
+            "id": "3749674a8346e1a69b4ffaca80ffa7c7",
+            "source": "nyt",
+            "text": "Here’s What Food the Artemis II Astronauts Will Eat in Space",
+            "source_link": "https://www.nytimes.com/live/2026/04/06/science/nasa-artemis-ii-moon-lunar-flyby/this-is-the-artemis-ii-moon-menu",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-06T18:07:43.316756Z",
+            "shown_at": [
+                "2026-04-06T18:07:44.492153Z"
+            ]
+        },
+        {
+            "id": "586bffdafe0e5ecbb5cadd62a42782bc",
+            "source": "nyt",
+            "text": "Artemis II Astronauts Will Set New Distance Record in Moon Flyby: What to Know",
+            "source_link": "https://www.nytimes.com/2026/04/06/science/artemis-2-lunar-moon-flyby-nasa-timeline.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-06T14:44:32.380730Z",
+            "shown_at": [
+                "2026-04-06T14:44:33.530802Z"
+            ]
+        },
+        {
+            "id": "050423b260dcec88d902fe10df635b5f",
+            "source": "spacenews",
+            "text": "Seagate Space Signs MOU with Firefly Aerospace to Collaborate on Offshore Launch Infrastructure for Alpha",
+            "source_link": "https://spacenews.com/seagate-space-signs-mou-with-firefly-aerospace-to-collaborate-on-offshore-launch-infrastructure-for-alpha/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-06T13:34:29.242795Z",
+            "shown_at": [
+                "2026-04-06T14:09:17.680853Z"
+            ]
+        },
+        {
+            "id": "5aba10fe22480d02d4362e8f86747c0b",
+            "source": "spacenews",
+            "text": "The moon base has a hardware plan. It needs a software strategy, too.",
+            "source_link": "https://spacenews.com/the-moon-base-has-a-hardware-plan-it-needs-a-software-strategy-too/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-06T13:34:29.242716Z",
+            "shown_at": [
+                "2026-04-06T13:34:30.392282Z"
+            ]
+        },
+        {
+            "id": "e0abac67b82b4762568f7f32474af069",
+            "source": "spacenews",
+            "text": "Artemis 2 ready to fly around the moon",
+            "source_link": "https://spacenews.com/artemis-2-ready-to-fly-around-the-moon/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-06T11:49:14.791985Z",
+            "shown_at": [
+                "2026-04-06T12:24:30.210176Z"
+            ]
+        },
+        {
+            "id": "9f325cd6bdeaea8ebd8b48da3398ca7b",
+            "source": "spacenews",
+            "text": "Military space programs confront hidden supply constraints",
+            "source_link": "https://spacenews.com/military-space-confronts-hidden-supplier-constraints/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-06T11:49:14.791929Z",
+            "shown_at": [
+                "2026-04-06T11:49:15.986369Z"
+            ]
+        },
+        {
+            "id": "a37e1cb8ca448474cb63c974719fce25",
+            "source": "nyt",
+            "text": "NASA Families Don’t Go to the Moon, but They’re on the Mission, Too",
+            "source_link": "https://www.nytimes.com/2026/04/06/science/artemis-moon-nasa-families-astronauts.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-06T09:29:25.281855Z",
+            "shown_at": [
+                "2026-04-06T09:29:26.112894Z"
+            ]
+        },
+        {
+            "id": "0c229934d6e859b7d7002d003190cf37",
+            "source": "nyt",
+            "text": "Artemis II Moon Flyby: Crew, Timeline and What to Know",
+            "source_link": "https://www.nytimes.com/2026/04/06/science/artemis-2-lunar-moon-flyby-nasa-timeline.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-06T04:14:11.245157Z",
+            "shown_at": [
+                "2026-04-06T04:14:11.920423Z"
+            ]
+        },
+        {
+            "id": "5ee6b2a65da1e6dcf14ef8b713ddde1b",
+            "source": "nyt",
+            "text": "NASA Artemis II Astronauts Race Into Moon’s Embrace After Quiet Easter",
+            "source_link": "https://www.nytimes.com/2026/04/05/science/nasa-moon-artemis-day-5.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-06T02:29:14.799131Z",
+            "shown_at": [
+                "2026-04-06T02:29:15.838104Z"
+            ]
+        },
         {
             "id": "0ebd02d49b0f4c79577beb18181add52",
             "source": "spacenews",
@@ -7845,394 +8025,6 @@
                 "2026-01-30T12:09:03.081761Z",
                 "2026-02-01T09:34:19.121123Z",
                 "2026-02-02T00:54:02.838172Z"
-            ]
-        },
-        {
-            "id": "a578273c3762b05b573a40fdf8593e82",
-            "source": "spacenews",
-            "text": "Rocket Lab launches South Korean satellite",
-            "source_link": "https://spacenews.com/rocket-lab-launches-south-korean-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-30T11:34:59.676945Z",
-            "shown_at": [
-                "2026-01-30T11:35:00.889429Z",
-                "2026-01-31T04:44:10.874483Z",
-                "2026-02-03T21:29:20.580937Z",
-                "2026-02-04T17:44:11.835606Z",
-                "2026-02-05T02:29:01.364516Z"
-            ]
-        },
-        {
-            "id": "1cfd32928bbdd7d603eccbc5796b4981",
-            "source": "spacenews",
-            "text": "York Space goes public, riding Pentagon demand",
-            "source_link": "https://spacenews.com/york-space-goes-public-riding-pentagon-demand/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-29T23:09:24.116838Z",
-            "shown_at": [
-                "2026-01-30T00:19:09.086751Z",
-                "2026-02-01T02:29:33.281014Z",
-                "2026-02-02T09:39:06.906463Z",
-                "2026-02-05T20:53:58.364992Z"
-            ]
-        },
-        {
-            "id": "5d5dced167aae00be980e687df35d18a",
-            "source": "spacenews",
-            "text": "NASA considering alternatives for Gateway logistics",
-            "source_link": "https://spacenews.com/nasa-considering-alternatives-for-gateway-logistics/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-29T23:09:24.116793Z",
-            "shown_at": [
-                "2026-01-29T23:44:15.893535Z",
-                "2026-02-01T04:14:14.341209Z",
-                "2026-02-01T16:39:03.372613Z"
-            ]
-        },
-        {
-            "id": "2764a3ddc62b49296ff23f4b8cbd75b4",
-            "source": "spacenews",
-            "text": "Alabama National Guard general to manage Space Command headquarters transition",
-            "source_link": "https://spacenews.com/alabama-national-guard-general-to-manage-space-command-headquarters-transition/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-29T23:09:24.116714Z",
-            "shown_at": [
-                "2026-01-29T23:09:25.173407Z",
-                "2026-02-01T13:04:32.090688Z"
-            ]
-        },
-        {
-            "id": "9a3cb0942da2af9ac9777211710ef1c4",
-            "source": "spacenews",
-            "text": "Global Space Economy Reaches $626 Billion, Marking a New Phase of Growth",
-            "source_link": "https://spacenews.com/global-space-economy-reaches-626-billion-marking-a-new-phase-of-growth/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-29T21:59:02.035513Z",
-            "shown_at": [
-                "2026-01-29T21:59:03.227258Z",
-                "2026-01-30T02:04:35.580361Z"
-            ]
-        },
-        {
-            "id": "ecd4a775a5f459873c1aaf830aaf01a6",
-            "source": "spacenews",
-            "text": "Eutelsat’s ground infrastructure sale falls through",
-            "source_link": "https://spacenews.com/eutelsats-ground-infrastructure-sale-falls-through/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-29T19:39:11.075064Z",
-            "shown_at": [
-                "2026-01-29T19:39:12.266119Z"
-            ]
-        },
-        {
-            "id": "e0168d4119196ac0696bd058e8be3103",
-            "source": "spacenews",
-            "text": "Oxford Space Systems Wrapped Rib Antenna Successfully Deployed In-Orbit on CarbSAR Mission",
-            "source_link": "https://spacenews.com/oxford-space-systems-wrapped-rib-antenna-successfully-deployed-in-orbit-on-carbsar-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-29T17:19:19.856405Z",
-            "shown_at": [
-                "2026-01-29T17:19:21.112088Z",
-                "2026-01-30T13:54:17.927692Z"
-            ]
-        },
-        {
-            "id": "65e66d91f765a126f5fc1462c9407822",
-            "source": "spacenews",
-            "text": "China eyes space resources, space tourism and on-orbit digital infrastructure",
-            "source_link": "https://spacenews.com/china-eyes-space-resources-space-tourism-and-on-orbit-digital-infrastructure/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-29T16:09:09.013550Z",
-            "shown_at": [
-                "2026-01-29T16:09:10.150282Z",
-                "2026-01-31T10:09:08.340992Z"
-            ]
-        },
-        {
-            "id": "80680513266de58b9f2d1beb4df4adb1",
-            "source": "spacenews",
-            "text": "Space Grove Ventures Announces Public Launch at SpaceCom | Space Congress, Signaling a New Commercial Model for Space and Defense Ecosystem Development",
-            "source_link": "https://spacenews.com/space-grove-ventures-announces-public-launch-at-spacecom-space-congress-signaling-a-new-commercial-model-for-space-and-defense-ecosystem-development/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-29T12:04:35.946643Z",
-            "shown_at": [
-                "2026-01-29T12:39:00.661816Z",
-                "2026-01-30T03:49:13.946642Z",
-                "2026-01-30T19:59:06.625210Z",
-                "2026-02-04T00:59:14.297728Z",
-                "2026-02-04T09:24:13.738070Z"
-            ]
-        },
-        {
-            "id": "e3f14b4642c224859f88e07f03063de4",
-            "source": "spacenews",
-            "text": "What would Artemis participation mean for Türkiye’s space industry and space diplomacy?",
-            "source_link": "https://spacenews.com/what-would-artemis-participation-mean-for-turkiyes-space-industry-and-space-diplomacy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-29T12:04:35.946573Z",
-            "shown_at": [
-                "2026-01-29T12:04:37.017019Z",
-                "2026-01-30T15:38:55.890227Z",
-                "2026-02-05T07:49:06.018407Z"
-            ]
-        },
-        {
-            "id": "318ec4f05b4e2d8056148a9d5c70ce61",
-            "source": "spacenews",
-            "text": "SpaceX plans next Starship test flight in March",
-            "source_link": "https://spacenews.com/spacex-plans-next-starship-test-flight-in-march/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-29T10:19:21.190337Z",
-            "shown_at": [
-                "2026-01-29T10:19:22.098925Z",
-                "2026-02-05T04:14:13.824214Z"
-            ]
-        },
-        {
-            "id": "7f16e63763dd0f22f597fb0aa70be80b",
-            "source": "breaking_defense",
-            "text": "SDA must be ‘more realistic’ about real risks in pricey satellite Tracking Layer effort: GAO",
-            "source_link": "https://breakingdefense.com/2026/01/sda-must-be-more-realistic-about-real-risks-in-pricey-satellite-tracking-layer-effort-gao/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-28T22:34:20.709543Z",
-            "shown_at": [
-                "2026-01-28T22:34:21.752952Z",
-                "2026-01-29T04:24:18.901572Z",
-                "2026-01-29T09:44:06.318653Z",
-                "2026-01-29T11:29:18.909716Z",
-                "2026-01-29T15:34:34.763017Z",
-                "2026-01-31T07:39:04.994934Z",
-                "2026-02-02T10:49:31.892173Z",
-                "2026-02-04T00:23:58.910455Z"
-            ]
-        },
-        {
-            "id": "3b5c1761cc316aab13efe8a7910c7ece",
-            "source": "spacenews",
-            "text": "Space-focused SPAC goes public after pricing $200 million IPO",
-            "source_link": "https://spacenews.com/space-focused-spac-goes-public-after-pricing-200-million-ipo/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-28T21:58:56.590255Z",
-            "shown_at": [
-                "2026-01-28T23:44:04.708920Z"
-            ]
-        },
-        {
-            "id": "bff0b5fe66b170d36443ff00a09d7837",
-            "source": "spacenews",
-            "text": "HEO acquires in-orbit satellite from Satellogic",
-            "source_link": "https://spacenews.com/heo-acquires-in-orbit-satellite-from-satellogic/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-28T21:58:56.590206Z",
-            "shown_at": [
-                "2026-01-28T23:09:11.312372Z",
-                "2026-02-01T14:49:04.221610Z"
-            ]
-        },
-        {
-            "id": "2b0d54b87d7aff686d813d40e49176d8",
-            "source": "spacenews",
-            "text": "GAO flags risks in Space Development Agency’s missile-tracking satellite program",
-            "source_link": "https://spacenews.com/gao-flags-risks-in-space-development-agencys-missile-tracking-satellite-program/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-28T21:58:56.590120Z",
-            "shown_at": [
-                "2026-01-28T21:58:57.667996Z"
-            ]
-        },
-        {
-            "id": "5ee6b2a65da1e6dcf14ef8b713ddde1b",
-            "source": "nyt",
-            "text": "NASA Artemis II Astronauts Race Into Moon’s Embrace After Quiet Easter",
-            "source_link": "https://www.nytimes.com/2026/04/05/science/nasa-moon-artemis-day-5.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-06T02:29:14.799131Z",
-            "shown_at": [
-                "2026-04-06T02:29:15.838104Z"
-            ]
-        },
-        {
-            "id": "0c229934d6e859b7d7002d003190cf37",
-            "source": "nyt",
-            "text": "Artemis II Moon Flyby: Crew, Timeline and What to Know",
-            "source_link": "https://www.nytimes.com/2026/04/06/science/artemis-2-lunar-moon-flyby-nasa-timeline.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-06T04:14:11.245157Z",
-            "shown_at": [
-                "2026-04-06T04:14:11.920423Z"
-            ]
-        },
-        {
-            "id": "a37e1cb8ca448474cb63c974719fce25",
-            "source": "nyt",
-            "text": "NASA Families Don’t Go to the Moon, but They’re on the Mission, Too",
-            "source_link": "https://www.nytimes.com/2026/04/06/science/artemis-moon-nasa-families-astronauts.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-06T09:29:25.281855Z",
-            "shown_at": [
-                "2026-04-06T09:29:26.112894Z"
-            ]
-        },
-        {
-            "id": "9f325cd6bdeaea8ebd8b48da3398ca7b",
-            "source": "spacenews",
-            "text": "Military space programs confront hidden supply constraints",
-            "source_link": "https://spacenews.com/military-space-confronts-hidden-supplier-constraints/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-06T11:49:14.791929Z",
-            "shown_at": [
-                "2026-04-06T11:49:15.986369Z"
-            ]
-        },
-        {
-            "id": "e0abac67b82b4762568f7f32474af069",
-            "source": "spacenews",
-            "text": "Artemis 2 ready to fly around the moon",
-            "source_link": "https://spacenews.com/artemis-2-ready-to-fly-around-the-moon/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-06T11:49:14.791985Z",
-            "shown_at": [
-                "2026-04-06T12:24:30.210176Z"
-            ]
-        },
-        {
-            "id": "5aba10fe22480d02d4362e8f86747c0b",
-            "source": "spacenews",
-            "text": "The moon base has a hardware plan. It needs a software strategy, too.",
-            "source_link": "https://spacenews.com/the-moon-base-has-a-hardware-plan-it-needs-a-software-strategy-too/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-06T13:34:29.242716Z",
-            "shown_at": [
-                "2026-04-06T13:34:30.392282Z"
-            ]
-        },
-        {
-            "id": "050423b260dcec88d902fe10df635b5f",
-            "source": "spacenews",
-            "text": "Seagate Space Signs MOU with Firefly Aerospace to Collaborate on Offshore Launch Infrastructure for Alpha",
-            "source_link": "https://spacenews.com/seagate-space-signs-mou-with-firefly-aerospace-to-collaborate-on-offshore-launch-infrastructure-for-alpha/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-06T13:34:29.242795Z",
-            "shown_at": [
-                "2026-04-06T14:09:17.680853Z"
-            ]
-        },
-        {
-            "id": "586bffdafe0e5ecbb5cadd62a42782bc",
-            "source": "nyt",
-            "text": "Artemis II Astronauts Will Set New Distance Record in Moon Flyby: What to Know",
-            "source_link": "https://www.nytimes.com/2026/04/06/science/artemis-2-lunar-moon-flyby-nasa-timeline.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-06T14:44:32.380730Z",
-            "shown_at": [
-                "2026-04-06T14:44:33.530802Z"
-            ]
-        },
-        {
-            "id": "3749674a8346e1a69b4ffaca80ffa7c7",
-            "source": "nyt",
-            "text": "Here’s What Food the Artemis II Astronauts Will Eat in Space",
-            "source_link": "https://www.nytimes.com/live/2026/04/06/science/nasa-artemis-ii-moon-lunar-flyby/this-is-the-artemis-ii-moon-menu",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-06T18:07:43.316756Z",
-            "shown_at": [
-                "2026-04-06T18:07:44.492153Z"
-            ]
-        },
-        {
-            "id": "7856d191d9cfc9052b476b6113e13a7e",
-            "source": "spacenews",
-            "text": "FOSSA targets Japan’s defense market as larger smallsats expand capabilities",
-            "source_link": "https://spacenews.com/fossa-targets-japans-defense-market-as-larger-smallsats-expand-capabilities/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-06T19:09:17.302683Z",
-            "shown_at": [
-                "2026-04-06T19:09:18.376645Z"
-            ]
-        },
-        {
-            "id": "dcac182eda91a05dae26ecc7bc2b3f03",
-            "source": "nyt",
-            "text": "Artemis II Astronauts Set New Distance Record in Moon Flyby: What to Know",
-            "source_link": "https://www.nytimes.com/2026/04/06/science/artemis-2-lunar-moon-flyby-nasa-timeline.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-06T19:44:15.220340Z",
-            "shown_at": [
-                "2026-04-06T19:44:16.450830Z"
-            ]
-        },
-        {
-            "id": "10129d4ea5386926d8c29900361f099d",
-            "source": "spacenews",
-            "text": "Moog Highlights Growing Satellite Bus Capabilities with Full‑Scale METEOR Reveal at Space Symposium",
-            "source_link": "https://spacenews.com/moog-highlights-growing-satellite-bus-capabilities-with-full-scale-meteor-reveal-at-space-symposium/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-06T20:19:38.430778Z",
-            "shown_at": [
-                "2026-04-06T20:19:39.451365Z"
-            ]
-        },
-        {
-            "id": "4e08aa64b98f2d2eb812dada969acf8e",
-            "source": "nyt",
-            "text": "Exploring the Far Side of the Moon",
-            "source_link": "https://www.nytimes.com/video/science/space/100000010788127/exploring-the-far-side-of-the-moon.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-06T20:54:13.821448Z",
-            "shown_at": [
-                "2026-04-06T20:54:15.202378Z"
-            ]
-        },
-        {
-            "id": "1482f371711220fdd4ab4cec0194c3f7",
-            "source": "nyt",
-            "text": "Artemis II Astronauts Name Moon Crater After Carroll, Reid Wiseman’s Late Wife",
-            "source_link": "https://www.nytimes.com/2026/04/06/science/moon-crater-carroll-reid-wiseman.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-06T21:29:30.979661Z",
-            "shown_at": [
-                "2026-04-06T21:29:32.286077Z"
-            ]
-        },
-        {
-            "id": "12a0f984f3f3b5319bf7725749587fe1",
-            "source": "nyt",
-            "text": "The Dark Side of the Moon Is Really the Far Side",
-            "source_link": "https://www.nytimes.com/2026/04/06/science/moon-dark-side-far-side.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-06T23:14:19.329429Z",
-            "shown_at": [
-                "2026-04-06T23:14:20.345999Z"
             ]
         }
     ]
