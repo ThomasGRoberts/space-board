@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 10 | 12 | 20 | 40 |
-| spacenews | 7 | 9 | 19 | 40 |
+| spacenews | 7 | 9 | 20 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2543,3 +2543,4 @@
 - **Apr 07, 05:39 AM** - Artemis II Astronauts Head Home After Historic Journey Around the Moon (nyt)
 - **Apr 07, 06:19 AM** - After three years, Artemis 2 astronauts ready to launch (spacenews)
 - **Apr 07, 06:54 AM** - Here’s What Food the Artemis II Astronauts Will Eat in Space (nyt)
+- **Apr 07, 07:29 AM** - Isaacman defends NASA budget proposal despite steep cuts (spacenews)
