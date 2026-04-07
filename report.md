@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 9 | 12 | 19 | 39 |
+| nyt | 9 | 12 | 20 | 40 |
 | spacenews | 6 | 10 | 20 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2551,3 +2551,4 @@
 - **Apr 07, 10:24 AM** - Meet the four astronauts of Artemis II. (nyt)
 - **Apr 07, 10:59 AM** - Relativity, Hermeus, Astrion and Divergent executives join Fortastra C-suite (spacenews)
 - **Apr 07, 11:34 AM** - Earth observation operators push to deliver satellite images within minutes (spacenews)
+- **Apr 07, 12:09 PM** - Jeremy Hansen, an Artemis II Astronaut, Is the First Canadian on a Crewed Moon Mission (nyt)
