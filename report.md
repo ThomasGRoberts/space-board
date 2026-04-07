@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 9 | 13 | 20 | 39 |
+| nyt | 10 | 14 | 21 | 40 |
 | spacenews | 7 | 13 | 19 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2557,3 +2557,4 @@
 - **Apr 07, 01:54 PM** - NASA’s new moon base project requires operational technology systems in space, but they are vulnerable. (spacenews)
 - **Apr 07, 02:29 PM** - Exploring the Far Side of the Moon (nyt)
 - **Apr 07, 03:05 PM** - See First Photos From NASA’s Artemis II Moon Mission Capturing a Setting Earth and Eclipse (nyt)
+- **Apr 07, 03:39 PM** - NASA’s Artemis II Astronauts Spread ‘Moon Joy’ to the Public (nyt)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-07T00:04:47.455774+00:00",
-    "trigger_count": 6,
-    "current_item_id": "287b35ebbdf147d98be14c9077ade87f",
+    "trigger_count": 0,
+    "current_item_id": "ce9799cea652ce7af521069040e268a0",
     "data": [
         {
             "id": "12a0f984f3f3b5319bf7725749587fe1",
@@ -8150,6 +8150,18 @@
             "fetched_datetime": "2026-04-07T15:05:01.664456Z",
             "shown_at": [
                 "2026-04-07T15:05:02.874362Z"
+            ]
+        },
+        {
+            "id": "ce9799cea652ce7af521069040e268a0",
+            "source": "nyt",
+            "text": "NASA’s Artemis II Astronauts Spread ‘Moon Joy’ to the Public",
+            "source_link": "https://www.nytimes.com/2026/04/07/science/nasa-artemis-ii-astronauts-moon-joy.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-07T15:39:17.415698Z",
+            "shown_at": [
+                "2026-04-07T15:39:19.068394Z"
             ]
         }
     ]
