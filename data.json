@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-07T00:04:47.455774+00:00",
-    "trigger_count": 6,
-    "current_item_id": "37a712503039945a55a31f4dc8f8486e",
+    "trigger_count": 0,
+    "current_item_id": "ddea7014a4d6968000ddb6aae90c8c0e",
     "data": [
         {
             "id": "12a0f984f3f3b5319bf7725749587fe1",
@@ -8169,6 +8169,18 @@
             "fetched_datetime": "2026-04-07T15:39:17.415698Z",
             "shown_at": [
                 "2026-04-07T15:39:19.068394Z"
+            ]
+        },
+        {
+            "id": "ddea7014a4d6968000ddb6aae90c8c0e",
+            "source": "spacenews",
+            "text": "Hungary taps Northrop Grumman for first national geostationary communications satellite",
+            "source_link": "https://spacenews.com/hungary-taps-northrop-grumman-for-first-national-geostationary-communications-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-07T20:19:34.641103Z",
+            "shown_at": [
+                "2026-04-07T20:19:35.917351Z"
             ]
         }
     ]
