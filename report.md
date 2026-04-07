@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 9 | 12 | 19 | 38 |
-| spacenews | 7 | 13 | 20 | 42 |
+| spacenews | 7 | 13 | 21 | 43 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2554,3 +2554,4 @@
 - **Apr 07, 12:09 PM** - Jeremy Hansen, an Artemis II Astronaut, Is the First Canadian on a Crewed Moon Mission (nyt)
 - **Apr 07, 12:44 PM** - Nominate space industry leaders for the 2026 SpaceNews Icon Awards (spacenews)
 - **Apr 07, 01:19 PM** - Starfish Space raises more than $100 million (spacenews)
+- **Apr 07, 01:54 PM** - NASA’s new moon base project requires operational technology systems in space, but they are vulnerable. (spacenews)
