@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-07T00:04:47.455774+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8b5429aa640ca4673026e1752d4dd6af",
+    "trigger_count": 0,
+    "current_item_id": "bdcc8cdddc97b22033675bca3e76b8ab",
     "data": [
         {
             "id": "12a0f984f3f3b5319bf7725749587fe1",
@@ -8027,6 +8027,18 @@
                 "2026-01-30T12:09:03.081761Z",
                 "2026-02-01T09:34:19.121123Z",
                 "2026-02-02T00:54:02.838172Z"
+            ]
+        },
+        {
+            "id": "bdcc8cdddc97b22033675bca3e76b8ab",
+            "source": "nyt",
+            "text": "The first earthlings to the moon weren’t humans. They were tortoises.",
+            "source_link": "https://www.nytimes.com/live/2026/04/06/science/nasa-artemis-ii-moon-lunar-flyby/the-first-earthlings-to-the-moon-werent-humans-they-were-tortoises",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-07T01:34:23.307309Z",
+            "shown_at": [
+                "2026-04-07T01:34:24.023476Z"
             ]
         }
     ]

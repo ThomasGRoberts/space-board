@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 9 | 9 | 20 | 39 |
+| nyt | 10 | 10 | 21 | 40 |
 | spacenews | 6 | 9 | 19 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2533,3 +2533,4 @@
 - **Apr 06, 11:49 PM** - Aspect Aerospace secures early funding to advance swarm-deployable VLEO satellites (spacenews)
 - **Apr 07, 12:24 AM** - Artemis II Pilot Test Drove the Orion Capsule on the Way to the Moon (nyt)
 - **Apr 07, 12:59 AM** - Europe’s strategic autonomy in space will define its role in the ‘second space age’ (spacenews)
+- **Apr 07, 01:34 AM** - The first earthlings to the moon weren’t humans. They were tortoises. (nyt)
