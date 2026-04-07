@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-07T00:04:47.455774+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7856d191d9cfc9052b476b6113e13a7e",
+    "trigger_count": 0,
+    "current_item_id": "0a42349609997e93803ec90f1e98076e",
     "data": [
         {
             "id": "12a0f984f3f3b5319bf7725749587fe1",
@@ -8067,6 +8067,18 @@
             "fetched_datetime": "2026-04-07T04:29:13.433147Z",
             "shown_at": [
                 "2026-04-07T04:29:14.175254Z"
+            ]
+        },
+        {
+            "id": "0a42349609997e93803ec90f1e98076e",
+            "source": "nyt",
+            "text": "Artemis II Astronauts Head Home After Historic Journey Around the Moon",
+            "source_link": "https://www.nytimes.com/2026/04/06/science/space/nasa-artemis-moon-flyby.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-07T05:39:08.441499Z",
+            "shown_at": [
+                "2026-04-07T05:39:09.173194Z"
             ]
         }
     ]
