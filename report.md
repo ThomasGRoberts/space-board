@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 8 | 12 | 19 | 38 |
+| nyt | 9 | 13 | 20 | 39 |
 | spacenews | 7 | 13 | 20 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2556,3 +2556,4 @@
 - **Apr 07, 01:19 PM** - Starfish Space raises more than $100 million (spacenews)
 - **Apr 07, 01:54 PM** - NASA’s new moon base project requires operational technology systems in space, but they are vulnerable. (spacenews)
 - **Apr 07, 02:29 PM** - Exploring the Far Side of the Moon (nyt)
+- **Apr 07, 03:05 PM** - See First Photos From NASA’s Artemis II Moon Mission Capturing a Setting Earth and Eclipse (nyt)
