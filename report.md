@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 10 | 14 | 20 | 39 |
+| nyt | 10 | 14 | 21 | 40 |
 | spacenews | 7 | 13 | 20 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2561,3 +2561,4 @@
 - **Apr 07, 04:14 PM** - Italy’s Argotec plans to scale Florida satellite facility to meet rising US demand (spacenews)
 - **Apr 07, 04:49 PM** - Meet the Astronauts of NASA’s Artemis II Moon Mission (nyt)
 - **Apr 07, 05:24 PM** - FOSSA targets Japan’s defense market as larger smallsats expand capabilities (spacenews)
+- **Apr 07, 05:59 PM** - NASA’s Mission Back to the Moon (nyt)
