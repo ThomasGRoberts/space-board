@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 9 | 14 | 20 | 39 |
+| nyt | 9 | 14 | 21 | 40 |
 | spacenews | 7 | 13 | 21 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2563,3 +2563,4 @@
 - **Apr 07, 05:24 PM** - FOSSA targets Japan’s defense market as larger smallsats expand capabilities (spacenews)
 - **Apr 07, 05:59 PM** - NASA’s Mission Back to the Moon (nyt)
 - **Apr 07, 06:34 PM** - Saltzman: Space ‘baked into’ modern combat operations (spacenews)
+- **Apr 07, 07:09 PM** - Who Made the Artemis II Rocket and Space Capsule? (nyt)
