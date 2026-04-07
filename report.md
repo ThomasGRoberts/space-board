@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 7 | 14 | 20 | 39 |
-| spacenews | 6 | 13 | 21 | 41 |
+| spacenews | 6 | 13 | 22 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2567,3 +2567,4 @@
 - **Apr 07, 07:44 PM** - SpaceX and Amazon spar over satellite deployments (spacenews)
 - **Apr 07, 08:19 PM** - Hungary taps Northrop Grumman for first national geostationary communications satellite (spacenews)
 - **Apr 07, 08:54 PM** - Who Made the Artemis II Rocket and Space Capsule? (nyt)
+- **Apr 07, 09:28 PM** - Aspect Aerospace secures early funding to advance swarm-deployable VLEO satellites (spacenews)
