@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-07T00:04:47.455774+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7856d191d9cfc9052b476b6113e13a7e",
+    "trigger_count": 0,
+    "current_item_id": "8c54743f8656b094070d0e666552c350",
     "data": [
         {
             "id": "12a0f984f3f3b5319bf7725749587fe1",
@@ -8054,6 +8054,18 @@
             "fetched_datetime": "2026-04-07T02:44:26.232801Z",
             "shown_at": [
                 "2026-04-07T02:44:27.116522Z"
+            ]
+        },
+        {
+            "id": "8c54743f8656b094070d0e666552c350",
+            "source": "nyt",
+            "text": "Trump Calls Artemis II Astronauts After Their Historic Journey Around the Moon",
+            "source_link": "https://www.nytimes.com/2026/04/07/us/politics/trump-nasa-artemis-astronauts-moon.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-07T04:29:13.433147Z",
+            "shown_at": [
+                "2026-04-07T04:29:14.175254Z"
             ]
         }
     ]
