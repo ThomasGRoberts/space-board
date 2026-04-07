@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 9 | 12 | 19 | 39 |
-| spacenews | 7 | 9 | 20 | 41 |
+| spacenews | 8 | 10 | 21 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2550,3 +2550,4 @@
 - **Apr 07, 09:49 AM** - Artemis 2 ready to fly around the moon (spacenews)
 - **Apr 07, 10:24 AM** - Meet the four astronauts of Artemis II. (nyt)
 - **Apr 07, 10:59 AM** - Relativity, Hermeus, Astrion and Divergent executives join Fortastra C-suite (spacenews)
+- **Apr 07, 11:34 AM** - Earth observation operators push to deliver satellite images within minutes (spacenews)

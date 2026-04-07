@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-07T00:04:47.455774+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9fe3a79164d0f642705c0991ac60486e",
+    "trigger_count": 0,
+    "current_item_id": "80baf54a6887987f5f831dbd59df7165",
     "data": [
         {
             "id": "12a0f984f3f3b5319bf7725749587fe1",
@@ -8088,6 +8088,18 @@
             "fetched_datetime": "2026-04-07T05:39:08.441499Z",
             "shown_at": [
                 "2026-04-07T05:39:09.173194Z"
+            ]
+        },
+        {
+            "id": "80baf54a6887987f5f831dbd59df7165",
+            "source": "spacenews",
+            "text": "Earth observation operators push to deliver satellite images within minutes",
+            "source_link": "https://spacenews.com/earth-observation-operators-push-to-deliver-satellite-images-within-minutes/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-07T11:34:34.511408Z",
+            "shown_at": [
+                "2026-04-07T11:34:36.649722Z"
             ]
         }
     ]
