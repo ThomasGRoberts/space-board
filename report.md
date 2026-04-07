@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 9 | 12 | 19 | 40 |
-| spacenews | 7 | 9 | 20 | 40 |
+| spacenews | 7 | 9 | 21 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2547,3 +2547,4 @@
 - **Apr 07, 08:04 AM** - Jeremy Hansen, an Artemis II Astronaut, Is the First Canadian on a Crewed Moon Mission (nyt)
 - **Apr 07, 08:39 AM** - Seagate Space Signs MOU with Firefly Aerospace to Collaborate on Offshore Launch Infrastructure for Alpha (spacenews)
 - **Apr 07, 09:14 AM** - Artemis II Astronauts Will Set New Distance Record in Moon Flyby: What to Know (nyt)
+- **Apr 07, 09:49 AM** - Artemis 2 ready to fly around the moon (spacenews)
