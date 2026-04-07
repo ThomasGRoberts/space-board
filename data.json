@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-07T00:04:47.455774+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f135faf7a622446ffeef5229ce994f99",
+    "trigger_count": 0,
+    "current_item_id": "f7b5c676b661db6918731c1bf0763dff",
     "data": [
         {
             "id": "12a0f984f3f3b5319bf7725749587fe1",
@@ -8114,6 +8114,27 @@
             "shown_at": [
                 "2026-04-07T12:44:42.031238Z"
             ]
+        },
+        {
+            "id": "f7b5c676b661db6918731c1bf0763dff",
+            "source": "spacenews",
+            "text": "Starfish Space raises more than $100 million",
+            "source_link": "https://spacenews.com/starfish-space-raises-more-than-100-million/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-07T13:19:22.293717Z",
+            "shown_at": [
+                "2026-04-07T13:19:23.303631Z"
+            ]
+        },
+        {
+            "id": "41e39996ce2b119bb01af7e91e1216c2",
+            "source": "spacenews",
+            "text": "NASA’s new moon base project requires operational technology systems in space, but they are vulnerable.",
+            "source_link": "https://spacenews.com/nasas-new-moon-base-project-requires-operational-technology-systems-in-space-but-they-are-vulnerable/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-07T13:19:22.293776Z"
         }
     ]
 }
