@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 9 | 12 | 19 | 38 |
+| nyt | 9 | 12 | 20 | 39 |
 | spacenews | 7 | 13 | 20 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2555,3 +2555,4 @@
 - **Apr 07, 12:44 PM** - Nominate space industry leaders for the 2026 SpaceNews Icon Awards (spacenews)
 - **Apr 07, 01:19 PM** - Starfish Space raises more than $100 million (spacenews)
 - **Apr 07, 01:54 PM** - NASA’s new moon base project requires operational technology systems in space, but they are vulnerable. (spacenews)
+- **Apr 07, 02:29 PM** - Exploring the Far Side of the Moon (nyt)
