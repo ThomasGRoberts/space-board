@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 9 | 12 | 20 | 39 |
-| spacenews | 6 | 10 | 19 | 41 |
+| spacenews | 7 | 11 | 20 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2552,3 +2552,4 @@
 - **Apr 07, 10:59 AM** - Relativity, Hermeus, Astrion and Divergent executives join Fortastra C-suite (spacenews)
 - **Apr 07, 11:34 AM** - Earth observation operators push to deliver satellite images within minutes (spacenews)
 - **Apr 07, 12:09 PM** - Jeremy Hansen, an Artemis II Astronaut, Is the First Canadian on a Crewed Moon Mission (nyt)
+- **Apr 07, 12:44 PM** - Nominate space industry leaders for the 2026 SpaceNews Icon Awards (spacenews)

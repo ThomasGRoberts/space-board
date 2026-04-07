@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-07T00:04:47.455774+00:00",
-    "trigger_count": 6,
-    "current_item_id": "61f9040a905dd81472a06051207ea125",
+    "trigger_count": 0,
+    "current_item_id": "f135faf7a622446ffeef5229ce994f99",
     "data": [
         {
             "id": "12a0f984f3f3b5319bf7725749587fe1",
@@ -8101,6 +8101,18 @@
             "fetched_datetime": "2026-04-07T11:34:34.511408Z",
             "shown_at": [
                 "2026-04-07T11:34:36.649722Z"
+            ]
+        },
+        {
+            "id": "f135faf7a622446ffeef5229ce994f99",
+            "source": "spacenews",
+            "text": "Nominate space industry leaders for the 2026 SpaceNews Icon Awards",
+            "source_link": "https://spacenews.com/nominate-space-industry-leaders-for-the-2026-spacenews-icon-awards/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-07T12:44:40.250080Z",
+            "shown_at": [
+                "2026-04-07T12:44:42.031238Z"
             ]
         }
     ]
