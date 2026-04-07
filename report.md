@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 9 | 10 | 20 | 39 |
+| nyt | 9 | 10 | 21 | 40 |
 | spacenews | 7 | 10 | 19 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2536,3 +2536,4 @@
 - **Apr 07, 01:34 AM** - The first earthlings to the moon weren’t humans. They were tortoises. (nyt)
 - **Apr 07, 02:09 AM** - Atlas 5 launches Amazon Leo satellites (spacenews)
 - **Apr 07, 02:44 AM** - Artemis 2 swings around the moon (spacenews)
+- **Apr 07, 03:19 AM** - Exploring the Far Side of the Moon (nyt)
