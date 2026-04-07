@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 9 | 10 | 20 | 40 |
-| spacenews | 7 | 9 | 19 | 40 |
+| spacenews | 7 | 9 | 20 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2537,3 +2537,4 @@
 - **Apr 07, 02:09 AM** - Atlas 5 launches Amazon Leo satellites (spacenews)
 - **Apr 07, 02:44 AM** - Artemis 2 swings around the moon (spacenews)
 - **Apr 07, 03:19 AM** - Exploring the Far Side of the Moon (nyt)
+- **Apr 07, 03:54 AM** - FOSSA targets Japan’s defense market as larger smallsats expand capabilities (spacenews)
