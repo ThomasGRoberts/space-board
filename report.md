@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 10 | 14 | 20 | 39 |
+| nyt | 10 | 14 | 21 | 40 |
 | spacenews | 7 | 13 | 19 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2559,3 +2559,4 @@
 - **Apr 07, 03:05 PM** - See First Photos From NASA’s Artemis II Moon Mission Capturing a Setting Earth and Eclipse (nyt)
 - **Apr 07, 03:39 PM** - NASA’s Artemis II Astronauts Spread ‘Moon Joy’ to the Public (nyt)
 - **Apr 07, 04:14 PM** - Italy’s Argotec plans to scale Florida satellite facility to meet rising US demand (spacenews)
+- **Apr 07, 04:49 PM** - Meet the Astronauts of NASA’s Artemis II Moon Mission (nyt)
