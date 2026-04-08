@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 17 | 23 | 43 |
+| spacenews | 9 | 17 | 24 | 44 |
 | nyt | 3 | 12 | 18 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2487,3 +2487,4 @@
 - **Apr 08, 09:49 AM** - Hungary taps Northrop Grumman for first national geostationary communications satellite (spacenews)
 - **Apr 08, 10:24 AM** - Artemis 2 science gets underway as Orion begins its return trip (spacenews)
 - **Apr 08, 10:59 AM** - Capella Space wins $49 million contract for military communications satellite demo (spacenews)
+- **Apr 08, 11:34 AM** - Space security moves to forefront as threats to satellites spread (spacenews)
