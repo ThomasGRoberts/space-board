@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 22 | 41 |
+| spacenews | 6 | 13 | 23 | 42 |
 | nyt | 3 | 13 | 19 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2480,3 +2480,4 @@
 - **Apr 08, 05:39 AM** - The Florida Model for Sustainable Aerospace Growth (spacenews)
 - **Apr 08, 06:14 AM** - Artemis II Astronauts Head Home After Historic Journey Around the Moon (nyt)
 - **Apr 08, 06:49 AM** - Phantom Space buys thermal specialist to support orbital data center push (spacenews)
+- **Apr 08, 07:24 AM** - Astroscale passes key design milestone for UK military space-tracking cubesats (spacenews)
