@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-08T00:04:25.860233+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ddea7014a4d6968000ddb6aae90c8c0e",
+    "trigger_count": 0,
+    "current_item_id": "c78cce88b85e6fc0bac959a98d2957a7",
     "data": [
         {
             "id": "ddea7014a4d6968000ddb6aae90c8c0e",
@@ -8013,6 +8013,36 @@
             "shown_at": [
                 "2026-04-08T08:34:31.541365Z"
             ]
+        },
+        {
+            "id": "c78cce88b85e6fc0bac959a98d2957a7",
+            "source": "spacenews",
+            "text": "Artemis 2 science gets underway as Orion begins its return trip",
+            "source_link": "https://spacenews.com/artemis-2-science-gets-underway-as-orion-begins-its-return-trip/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-08T10:24:22.849351Z",
+            "shown_at": [
+                "2026-04-08T10:24:24.089763Z"
+            ]
+        },
+        {
+            "id": "5e1f28b21ac0f1e6c52fe22612863047",
+            "source": "spacenews",
+            "text": "Capella Space wins $49 million contract for military communications satellite demo",
+            "source_link": "https://spacenews.com/capella-space-wins-49-million-contract-for-military-communications-satellite-demo/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-08T10:24:22.849420Z"
+        },
+        {
+            "id": "27c2be9eb80d5cb576d27feb8aa051fa",
+            "source": "spacenews",
+            "text": "Space security moves to forefront as threats to satellites spread",
+            "source_link": "https://spacenews.com/space-security-moves-to-forefront-as-threats-to-satellites-spread/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-08T10:24:22.849464Z"
         }
     ]
 }

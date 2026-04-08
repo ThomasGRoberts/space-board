@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 14 | 22 | 42 |
+| spacenews | 10 | 17 | 23 | 43 |
 | nyt | 3 | 12 | 19 | 38 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2485,3 +2485,4 @@
 - **Apr 08, 08:34 AM** - Inspection cubesat demo planned as first step toward orbital defense mothership (spacenews)
 - **Apr 08, 09:14 AM** - Live Updates: NASA Starts Fueling Rocket for Artemis II Moon Launch (nyt)
 - **Apr 08, 09:49 AM** - Hungary taps Northrop Grumman for first national geostationary communications satellite (spacenews)
+- **Apr 08, 10:24 AM** - Artemis 2 science gets underway as Orion begins its return trip (spacenews)
