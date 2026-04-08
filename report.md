@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 19 | 26 | 46 |
-| nyt | 1 | 10 | 15 | 35 |
+| spacenews | 12 | 19 | 25 | 46 |
+| nyt | 1 | 10 | 16 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2499,3 +2499,4 @@
 - **Apr 08, 04:49 PM** - White House again proposes steep NASA budget cuts (spacenews)
 - **Apr 08, 05:24 PM** - Here’s What Food the Artemis II Astronauts Will Eat in Space (nyt)
 - **Apr 08, 05:59 PM** - Artemis 2’s (nearly) 10-day flight around the moon (spacenews)
+- **Apr 08, 06:34 PM** - The Awe of a Moon Launch in an Age of Trump, Turmoil and Tribal Divisions (nyt)
