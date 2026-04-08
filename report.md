@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 19 | 25 | 44 |
+| spacenews | 12 | 19 | 26 | 45 |
 | nyt | 1 | 11 | 16 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2496,3 +2496,4 @@
 - **Apr 08, 03:04 PM** - Preparing for the next NASA budget battle (spacenews)
 - **Apr 08, 03:39 PM** - April 30: Opportunities for On-Orbit Computing (spacenews)
 - **Apr 08, 04:14 PM** - Artemis II Moon Mission: See the Launch, Photos and Video (nyt)
+- **Apr 08, 04:49 PM** - White House again proposes steep NASA budget cuts (spacenews)
