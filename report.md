@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 15 | 23 | 43 |
-| nyt | 3 | 12 | 18 | 37 |
+| nyt | 3 | 12 | 18 | 38 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2488,3 +2488,4 @@
 - **Apr 08, 10:24 AM** - Artemis 2 science gets underway as Orion begins its return trip (spacenews)
 - **Apr 08, 10:59 AM** - Capella Space wins $49 million contract for military communications satellite demo (spacenews)
 - **Apr 08, 11:34 AM** - Space security moves to forefront as threats to satellites spread (spacenews)
+- **Apr 08, 12:09 PM** - Live Updates: NASA Starts Fueling Rocket for Artemis II Moon Launch (nyt)
