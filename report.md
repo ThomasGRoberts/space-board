@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 22 | 41 |
-| nyt | 3 | 13 | 19 | 39 |
+| nyt | 3 | 13 | 20 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2478,3 +2478,4 @@
 - **Apr 08, 04:29 AM** - China’s commercial Tianlong-3 rocket fails on debut launch (spacenews)
 - **Apr 08, 05:04 AM** - Artemis II Moon Flyby: Crew, Timeline and What to Know (nyt)
 - **Apr 08, 05:39 AM** - The Florida Model for Sustainable Aerospace Growth (spacenews)
+- **Apr 08, 06:14 AM** - Artemis II Astronauts Head Home After Historic Journey Around the Moon (nyt)
