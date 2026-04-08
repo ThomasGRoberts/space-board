@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 16 | 23 | 43 |
+| spacenews | 9 | 18 | 24 | 44 |
 | nyt | 3 | 12 | 18 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2490,3 +2490,4 @@
 - **Apr 08, 11:34 AM** - Space security moves to forefront as threats to satellites spread (spacenews)
 - **Apr 08, 12:09 PM** - Live Updates: NASA Starts Fueling Rocket for Artemis II Moon Launch (nyt)
 - **Apr 08, 12:44 PM** - Industry navigates NASA’s start-and-stop approach to commercial space stations (spacenews)
+- **Apr 08, 01:19 PM** - A lunar base or a lunar economy? (spacenews)
