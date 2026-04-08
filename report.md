@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 18 | 24 | 44 |
+| spacenews | 11 | 18 | 25 | 45 |
 | nyt | 3 | 11 | 17 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2493,3 +2493,4 @@
 - **Apr 08, 01:19 PM** - A lunar base or a lunar economy? (spacenews)
 - **Apr 08, 01:54 PM** - LeoLabs debuts space monitoring tool for military users (spacenews)
 - **Apr 08, 02:29 PM** - Tracking the next SDA challenge (spacenews)
+- **Apr 08, 03:04 PM** - Preparing for the next NASA budget battle (spacenews)
