@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 22 | 40 |
+| spacenews | 6 | 12 | 22 | 41 |
 | nyt | 6 | 15 | 19 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2469,3 +2469,4 @@
 - **Apr 07, 11:14 PM** - China’s Aiming for the Moon, and NASA Is Looking Over Its Shoulder (nyt)
 - **Apr 07, 11:49 PM** - White House again proposes steep NASA budget cuts (spacenews)
 - **Apr 08, 12:24 AM** - Artemis II Astronauts Get a Break After Journey Around the Moon (nyt)
+- **Apr 08, 12:59 AM** - Starfish Space raises more than $100 million (spacenews)
