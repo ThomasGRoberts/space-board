@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 22 | 42 |
-| nyt | 3 | 13 | 19 | 38 |
+| nyt | 3 | 13 | 20 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2481,3 +2481,4 @@
 - **Apr 08, 06:14 AM** - Artemis II Astronauts Head Home After Historic Journey Around the Moon (nyt)
 - **Apr 08, 06:49 AM** - Phantom Space buys thermal specialist to support orbital data center push (spacenews)
 - **Apr 08, 07:24 AM** - Astroscale passes key design milestone for UK military space-tracking cubesats (spacenews)
+- **Apr 08, 07:59 AM** - Artemis II Astronauts Will Set New Distance Record in Moon Flyby: What to Know (nyt)
