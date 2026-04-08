@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 19 | 25 | 46 |
+| spacenews | 14 | 20 | 26 | 47 |
 | nyt | 1 | 9 | 16 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2502,3 +2502,4 @@
 - **Apr 08, 06:34 PM** - The Awe of a Moon Launch in an Age of Trump, Turmoil and Tribal Divisions (nyt)
 - **Apr 08, 07:09 PM** - Space Sovereignty Is No Longer Optional (spacenews)
 - **Apr 08, 07:44 PM** - Where Are NASA’s Artemis II Astronauts Now? Closer to the Moon Than Earth. (nyt)
+- **Apr 08, 08:19 PM** - Improved thresholds and SSA accuracy can reduce most satellite collision risk (spacenews)
