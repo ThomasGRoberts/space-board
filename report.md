@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 18 | 25 | 44 |
-| nyt | 2 | 11 | 16 | 36 |
+| spacenews | 12 | 19 | 26 | 45 |
+| nyt | 1 | 11 | 15 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2494,3 +2494,4 @@
 - **Apr 08, 01:54 PM** - LeoLabs debuts space monitoring tool for military users (spacenews)
 - **Apr 08, 02:29 PM** - Tracking the next SDA challenge (spacenews)
 - **Apr 08, 03:04 PM** - Preparing for the next NASA budget battle (spacenews)
+- **Apr 08, 03:39 PM** - April 30: Opportunities for On-Orbit Computing (spacenews)
