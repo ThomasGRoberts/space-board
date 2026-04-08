@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-08T00:04:25.860233+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c78cce88b85e6fc0bac959a98d2957a7",
+    "trigger_count": 0,
+    "current_item_id": "5e1f28b21ac0f1e6c52fe22612863047",
     "data": [
         {
             "id": "ddea7014a4d6968000ddb6aae90c8c0e",
@@ -8031,9 +8031,12 @@
             "source": "spacenews",
             "text": "Capella Space wins $49 million contract for military communications satellite demo",
             "source_link": "https://spacenews.com/capella-space-wins-49-million-contract-for-military-communications-satellite-demo/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-04-08T10:24:22.849420Z"
+            "fetched_datetime": "2026-04-08T10:24:22.849420Z",
+            "shown_at": [
+                "2026-04-08T10:59:24.548841Z"
+            ]
         },
         {
             "id": "27c2be9eb80d5cb576d27feb8aa051fa",
