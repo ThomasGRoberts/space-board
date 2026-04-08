@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 19 | 25 | 46 |
+| spacenews | 13 | 19 | 25 | 47 |
 | nyt | 1 | 8 | 16 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2504,3 +2504,4 @@
 - **Apr 08, 07:44 PM** - Where Are NASA’s Artemis II Astronauts Now? Closer to the Moon Than Earth. (nyt)
 - **Apr 08, 08:19 PM** - Improved thresholds and SSA accuracy can reduce most satellite collision risk (spacenews)
 - **Apr 08, 08:54 PM** - NASA’s Artemis II Astronauts Took iPhones Into Space (nyt)
+- **Apr 08, 09:29 PM** - Artemis 2 ready to fly around the moon (spacenews)
