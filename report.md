@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 21 | 41 |
-| nyt | 5 | 13 | 20 | 39 |
+| spacenews | 5 | 12 | 22 | 42 |
+| nyt | 4 | 13 | 19 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2475,3 +2475,4 @@
 - **Apr 08, 02:44 AM** - Artemis II Moon Flyby: Crew, Timeline and What to Know (nyt)
 - **Apr 08, 03:19 AM** - Phantom Space buys thermal specialist to support orbital data center push (spacenews)
 - **Apr 08, 03:54 AM** - Jeremy Hansen, an Artemis II Astronaut, Is the First Canadian on a Crewed Moon Mission (nyt)
+- **Apr 08, 04:29 AM** - China’s commercial Tianlong-3 rocket fails on debut launch (spacenews)
