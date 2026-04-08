@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 19 | 25 | 47 |
-| nyt | 1 | 7 | 16 | 35 |
+| nyt | 1 | 6 | 16 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2507,3 +2507,4 @@
 - **Apr 08, 09:29 PM** - Artemis 2 ready to fly around the moon (spacenews)
 - **Apr 08, 10:04 PM** - The Awe of a Moon Launch in an Age of Trump, Turmoil and Tribal Divisions (nyt)
 - **Apr 08, 10:39 PM** - Artemis 2 ready to fly around the moon (spacenews)
+- **Apr 08, 11:14 PM** - Where Are NASA’s Artemis II Astronauts Now? Closer to the Moon Than Earth. (nyt)
