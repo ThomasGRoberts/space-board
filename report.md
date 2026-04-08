@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 21 | 40 |
-| nyt | 5 | 14 | 20 | 40 |
+| spacenews | 5 | 12 | 22 | 41 |
+| nyt | 5 | 14 | 19 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2473,3 +2473,4 @@
 - **Apr 08, 01:34 AM** - Victor Glover, the Artemis II Pilot, Will Be the First Black Astronaut to Circle the Moon (nyt)
 - **Apr 08, 02:09 AM** - Hungary taps Northrop Grumman for first national geostationary communications satellite (spacenews)
 - **Apr 08, 02:44 AM** - Artemis II Moon Flyby: Crew, Timeline and What to Know (nyt)
+- **Apr 08, 03:19 AM** - Phantom Space buys thermal specialist to support orbital data center push (spacenews)
