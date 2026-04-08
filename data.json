@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-08T00:04:25.860233+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b831735b22dfa37ebb2d5766dbf1007b",
+    "trigger_count": 0,
+    "current_item_id": "12d948a906c28055761ddaf91936cc28",
     "data": [
         {
             "id": "ddea7014a4d6968000ddb6aae90c8c0e",
@@ -7962,6 +7962,18 @@
                 "2026-01-31T22:59:13.532677Z",
                 "2026-02-01T19:34:12.804865Z",
                 "2026-02-02T02:39:41.679002Z"
+            ]
+        },
+        {
+            "id": "12d948a906c28055761ddaf91936cc28",
+            "source": "nyt",
+            "text": "Artemis II Astronauts Get a Break After Journey Around the Moon",
+            "source_link": "https://www.nytimes.com/2026/04/07/science/artemis-2-moon-nasa-astronauts-crew.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-08T00:24:24.145287Z",
+            "shown_at": [
+                "2026-04-08T00:24:25.352547Z"
             ]
         }
     ]

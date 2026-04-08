@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 22 | 41 |
-| nyt | 5 | 14 | 19 | 39 |
+| nyt | 6 | 15 | 20 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2468,3 +2468,4 @@
 - **Apr 07, 10:39 PM** - Optical terminals still a bottleneck in Pentagon’s proliferated constellation (spacenews)
 - **Apr 07, 11:14 PM** - China’s Aiming for the Moon, and NASA Is Looking Over Its Shoulder (nyt)
 - **Apr 07, 11:49 PM** - White House again proposes steep NASA budget cuts (spacenews)
+- **Apr 08, 12:24 AM** - Artemis II Astronauts Get a Break After Journey Around the Moon (nyt)
