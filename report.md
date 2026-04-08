@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 22 | 40 |
+| spacenews | 6 | 12 | 22 | 41 |
 | nyt | 5 | 15 | 19 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2471,3 +2471,4 @@
 - **Apr 08, 12:24 AM** - Artemis II Astronauts Get a Break After Journey Around the Moon (nyt)
 - **Apr 08, 12:59 AM** - Starfish Space raises more than $100 million (spacenews)
 - **Apr 08, 01:34 AM** - Victor Glover, the Artemis II Pilot, Will Be the First Black Astronaut to Circle the Moon (nyt)
+- **Apr 08, 02:09 AM** - Hungary taps Northrop Grumman for first national geostationary communications satellite (spacenews)
