@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-09T00:04:41.434046+00:00",
-    "trigger_count": 6,
-    "current_item_id": "aa8a23531fb90f52851ebf659e76c295",
+    "trigger_count": 0,
+    "current_item_id": "f97372882eb515a64b1c96be4a37b260",
     "data": [
         {
             "id": "5770bcf00066aa6c09d9056426e74ac5",
@@ -8086,6 +8086,45 @@
             "shown_at": [
                 "2026-04-09T14:24:25.482164Z"
             ]
+        },
+        {
+            "id": "f97372882eb515a64b1c96be4a37b260",
+            "source": "spacenews",
+            "text": "China conducts pair of Long March launches for Thousand Sails and Guowang megaconstellations",
+            "source_link": "https://spacenews.com/china-conducts-pair-of-long-march-launches-for-thousand-sails-and-guowang-megaconstellations/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-09T16:09:17.472909Z",
+            "shown_at": [
+                "2026-04-09T16:09:18.584711Z"
+            ]
+        },
+        {
+            "id": "c89878c38a4b32187e98028b59045e9e",
+            "source": "spacenews",
+            "text": "A new kind of arsenal: commercial satellites",
+            "source_link": "https://spacenews.com/a-new-kind-of-arsenal-commercial-satellites/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-09T16:09:17.472980Z"
+        },
+        {
+            "id": "3c613d9819f5b44ba1f378e623128016",
+            "source": "spacenews",
+            "text": "What returning to lunar space means for human health",
+            "source_link": "https://spacenews.com/what-returning-to-lunar-space-means-for-human-health/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-09T16:09:17.473072Z"
+        },
+        {
+            "id": "92db2f3c81252b5c11b94c299d053401",
+            "source": "spacenews",
+            "text": "Portal Space Systems raises $50 million to accelerate spacecraft development",
+            "source_link": "https://spacenews.com/portal-space-systems-raises-50-million-to-accelerate-spacecraft-development/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-09T16:09:17.473131Z"
         }
     ]
 }

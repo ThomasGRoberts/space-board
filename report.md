@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 19 | 20 | 46 |
+| spacenews | 11 | 23 | 21 | 47 |
 | nyt | 3 | 4 | 19 | 34 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2503,3 +2503,4 @@
 - **Apr 09, 02:24 PM** - For Artemis II, Returning to Earth May Be the Most Dangerous Part of the Mission (nyt)
 - **Apr 09, 02:59 PM** - Earth observation operators push to deliver satellite images within minutes (spacenews)
 - **Apr 09, 03:34 PM** - NASA’s Artemis II Astronauts Took iPhones Into Space (nyt)
+- **Apr 09, 04:09 PM** - China conducts pair of Long March launches for Thousand Sails and Guowang megaconstellations (spacenews)
