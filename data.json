@@ -1,9 +1,177 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-04-08T00:04:25.860233+00:00",
-    "trigger_count": 2,
+    "last_run_datetime": "2026-04-09T00:04:41.434046+00:00",
+    "trigger_count": 3,
     "current_item_id": "41e39996ce2b119bb01af7e91e1216c2",
     "data": [
+        {
+            "id": "5770bcf00066aa6c09d9056426e74ac5",
+            "source": "spacenews",
+            "text": "Improved thresholds and SSA accuracy can reduce most satellite collision risk",
+            "source_link": "https://spacenews.com/improved-thresholds-and-ssa-accuracy-can-reduce-most-satellite-collision-risk/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-08T20:19:25.139100Z",
+            "shown_at": [
+                "2026-04-08T20:19:26.706757Z"
+            ]
+        },
+        {
+            "id": "1f900f5c9f51c19b8a66e121f64131c2",
+            "source": "spacenews",
+            "text": "Space Sovereignty Is No Longer Optional",
+            "source_link": "https://spacenews.com/space-sovereignty-is-no-longer-optional/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-08T19:09:21.767607Z",
+            "shown_at": [
+                "2026-04-08T19:09:22.901603Z"
+            ]
+        },
+        {
+            "id": "d15d6ed4476a5ec576659c2dc93413ea",
+            "source": "spacenews",
+            "text": "April 30: Opportunities for On-Orbit Computing",
+            "source_link": "https://spacenews.com/opportunities-for-on-orbit-computing-event/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-08T15:39:37.224416Z",
+            "shown_at": [
+                "2026-04-08T15:39:38.793150Z"
+            ]
+        },
+        {
+            "id": "25db5ed4543496a21a14305d2a959223",
+            "source": "spacenews",
+            "text": "Preparing for the next NASA budget battle",
+            "source_link": "https://spacenews.com/preparing-for-the-next-nasa-budget-battle/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-08T14:29:15.611625Z",
+            "shown_at": [
+                "2026-04-08T15:04:54.324402Z"
+            ]
+        },
+        {
+            "id": "94d5568171e20af7f30745bf929f5b36",
+            "source": "spacenews",
+            "text": "Tracking the next SDA challenge",
+            "source_link": "https://spacenews.com/tracking-the-next-sda-challenge/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-08T14:29:15.611564Z",
+            "shown_at": [
+                "2026-04-08T14:29:16.733171Z"
+            ]
+        },
+        {
+            "id": "fdb238a30e71a80c3fedf05220d8ab69",
+            "source": "spacenews",
+            "text": "LeoLabs debuts space monitoring tool for military users",
+            "source_link": "https://spacenews.com/leolabs-debuts-space-monitoring-tool-for-military-users/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-08T13:19:21.276045Z",
+            "shown_at": [
+                "2026-04-08T13:54:28.085049Z"
+            ]
+        },
+        {
+            "id": "a4d35276359523cdeb0ec3fdb34f647b",
+            "source": "spacenews",
+            "text": "A lunar base or a lunar economy?",
+            "source_link": "https://spacenews.com/a-lunar-base-or-a-lunar-economy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-08T13:19:21.275986Z",
+            "shown_at": [
+                "2026-04-08T13:19:22.615736Z"
+            ]
+        },
+        {
+            "id": "1f817b781630a1c1a0e82d75368483e1",
+            "source": "spacenews",
+            "text": "Industry navigates NASA’s start-and-stop approach to commercial space stations",
+            "source_link": "https://spacenews.com/industry-navigates-nasas-start-and-stop-approach-to-commercial-space-stations/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-08T12:44:14.554465Z",
+            "shown_at": [
+                "2026-04-08T12:44:16.507490Z"
+            ]
+        },
+        {
+            "id": "27c2be9eb80d5cb576d27feb8aa051fa",
+            "source": "spacenews",
+            "text": "Space security moves to forefront as threats to satellites spread",
+            "source_link": "https://spacenews.com/space-security-moves-to-forefront-as-threats-to-satellites-spread/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-08T10:24:22.849464Z",
+            "shown_at": [
+                "2026-04-08T11:34:35.800576Z"
+            ]
+        },
+        {
+            "id": "5e1f28b21ac0f1e6c52fe22612863047",
+            "source": "spacenews",
+            "text": "Capella Space wins $49 million contract for military communications satellite demo",
+            "source_link": "https://spacenews.com/capella-space-wins-49-million-contract-for-military-communications-satellite-demo/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-08T10:24:22.849420Z",
+            "shown_at": [
+                "2026-04-08T10:59:24.548841Z"
+            ]
+        },
+        {
+            "id": "c78cce88b85e6fc0bac959a98d2957a7",
+            "source": "spacenews",
+            "text": "Artemis 2 science gets underway as Orion begins its return trip",
+            "source_link": "https://spacenews.com/artemis-2-science-gets-underway-as-orion-begins-its-return-trip/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-08T10:24:22.849351Z",
+            "shown_at": [
+                "2026-04-08T10:24:24.089763Z"
+            ]
+        },
+        {
+            "id": "f8447f7f6ef8d002c21ac3e0fcac4661",
+            "source": "spacenews",
+            "text": "Inspection cubesat demo planned as first step toward orbital defense mothership",
+            "source_link": "https://spacenews.com/inspection-cubesat-demo-planned-as-first-step-toward-orbital-defense-mothership/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-08T08:34:30.744581Z",
+            "shown_at": [
+                "2026-04-08T08:34:31.541365Z"
+            ]
+        },
+        {
+            "id": "15020cac6003e612e044fda60723c576",
+            "source": "spacenews",
+            "text": "Astroscale passes key design milestone for UK military space-tracking cubesats",
+            "source_link": "https://spacenews.com/astroscale-passes-key-design-milestone-for-uk-military-space-tracking-cubesats/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-08T07:24:25.979140Z",
+            "shown_at": [
+                "2026-04-08T07:24:26.604410Z"
+            ]
+        },
+        {
+            "id": "12d948a906c28055761ddaf91936cc28",
+            "source": "nyt",
+            "text": "Artemis II Astronauts Get a Break After Journey Around the Moon",
+            "source_link": "https://www.nytimes.com/2026/04/07/science/artemis-2-moon-nasa-astronauts-crew.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-08T00:24:24.145287Z",
+            "shown_at": [
+                "2026-04-08T00:24:25.352547Z"
+            ]
+        },
         {
             "id": "ddea7014a4d6968000ddb6aae90c8c0e",
             "source": "spacenews",
@@ -7804,359 +7972,6 @@
                 "2026-02-09T23:54:18.816307Z",
                 "2026-02-10T03:29:17.314481Z",
                 "2026-02-10T10:29:24.154746Z"
-            ]
-        },
-        {
-            "id": "6e061728e336bddd04f1e4de019e2d07",
-            "source": "spacenews",
-            "text": "Flight heritage? It isn’t what you think",
-            "source_link": "https://spacenews.com/flight-heritage-it-isnt-what-you-think/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-03T14:29:09.485249Z",
-            "shown_at": [
-                "2026-02-03T14:29:10.662621Z",
-                "2026-02-04T11:09:12.091293Z",
-                "2026-02-06T06:19:23.780474Z"
-            ]
-        },
-        {
-            "id": "388a64cf1e7e479d46c0da86d393118e",
-            "source": "spacenews",
-            "text": "SpaceX pauses Falcon 9 launches after upper stage anomaly",
-            "source_link": "https://spacenews.com/spacex-pauses-falcon-9-launches-after-upper-stage-anomaly/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-03T12:39:40.014264Z",
-            "shown_at": [
-                "2026-02-03T12:39:41.189911Z"
-            ]
-        },
-        {
-            "id": "b0311e32a4d6d3e39efd5401764b97f2",
-            "source": "spacenews",
-            "text": "Artemis 2 slips to March",
-            "source_link": "https://spacenews.com/artemis-2-slips-to-march/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-03T12:04:45.598374Z",
-            "shown_at": [
-                "2026-02-03T12:04:46.886657Z"
-            ]
-        },
-        {
-            "id": "30f3111748674d46046ed5b9306da48c",
-            "source": "spacenews",
-            "text": "UK Space Agency CEO stepping down as agency folds into government",
-            "source_link": "https://spacenews.com/uk-space-agency-ceo-stepping-down-as-agency-folds-into-government/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-02T22:59:43.799624Z",
-            "shown_at": [
-                "2026-02-03T00:14:22.623871Z",
-                "2026-02-05T17:14:15.838365Z",
-                "2026-02-07T09:24:12.006624Z"
-            ]
-        },
-        {
-            "id": "49fdd20230f5ecbe3863d2c6415d5125",
-            "source": "spacenews",
-            "text": "At Blue Origin, Hegseth escalates criticism of legacy defense procurement",
-            "source_link": "https://spacenews.com/at-blue-origin-hegseth-escalates-criticism-of-legacy-defense-procurement/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-02T22:59:43.799578Z",
-            "shown_at": [
-                "2026-02-02T23:34:46.462213Z"
-            ]
-        },
-        {
-            "id": "532c8f01d39d4f00aa52c91a0caa5e8c",
-            "source": "spacenews",
-            "text": "SpaceX acquires xAI in bid to develop orbital data centers",
-            "source_link": "https://spacenews.com/spacex-acquires-xai-in-bid-to-develop-orbital-data-centers/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-02T22:59:43.799509Z",
-            "shown_at": [
-                "2026-02-02T22:59:44.878160Z"
-            ]
-        },
-        {
-            "id": "369826384a24bf816b7870c4ff17ad22",
-            "source": "spacenews",
-            "text": "House NASA bill seeks details on lunar lander and spacesuit development",
-            "source_link": "https://spacenews.com/house-nasa-bill-seeks-details-on-lunar-lander-and-spacesuit-development/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-02T17:49:14.679730Z",
-            "shown_at": [
-                "2026-02-02T17:49:16.088736Z",
-                "2026-02-03T17:59:12.205634Z",
-                "2026-02-07T05:54:23.448253Z"
-            ]
-        },
-        {
-            "id": "d3ec32991a9c145f2e5477961059450f",
-            "source": "spacenews",
-            "text": "Amazon buys 10 more Falcon 9 launches",
-            "source_link": "https://spacenews.com/amazon-buys-10-more-falcon-9-launches/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-02T14:54:32.306117Z",
-            "shown_at": [
-                "2026-02-02T14:54:33.754079Z",
-                "2026-02-04T03:59:10.227741Z"
-            ]
-        },
-        {
-            "id": "bb27ed17b08745a5e5f52edc79de9951",
-            "source": "spacenews",
-            "text": "Starlink and the unravelling of digital sovereignty",
-            "source_link": "https://spacenews.com/starlink-and-the-unravelling-of-digital-sovereignty/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-02T12:34:26.518326Z",
-            "shown_at": [
-                "2026-02-02T13:09:22.711956Z",
-                "2026-02-04T19:29:10.896332Z",
-                "2026-02-08T20:49:12.518589Z"
-            ]
-        },
-        {
-            "id": "577f95216c8b913cc1e0ccb56a39f069",
-            "source": "spacenews",
-            "text": "CesiumAstro to scale operations with $470 million in equity and debt financing",
-            "source_link": "https://spacenews.com/cesiumastro-to-scale-operations-with-450-million-in-equity-and-debt-financing/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-02T12:34:26.518269Z",
-            "shown_at": [
-                "2026-02-02T12:34:27.511732Z",
-                "2026-02-06T09:54:49.462857Z"
-            ]
-        },
-        {
-            "id": "9b5e5c40d168726744ebe2396afb6b4b",
-            "source": "spacenews",
-            "text": "Transcelestial to provide satellite laser communication terminals to Gilmour Space",
-            "source_link": "https://spacenews.com/transcelestial-to-provide-satellite-laser-communication-terminals-to-gilmour-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-02T11:24:08.837645Z",
-            "shown_at": [
-                "2026-02-02T11:24:09.973734Z",
-                "2026-02-04T05:46:42.154555Z",
-                "2026-02-05T06:05:06.064281Z",
-                "2026-02-06T02:49:14.646809Z"
-            ]
-        },
-        {
-            "id": "d58b64ca62795dc66f6f2c7cbdd982ce",
-            "source": "spacenews",
-            "text": "Saudi Space Agency Announces Winners of Global ‘DebriSolver’ Competition at Space Debris Conference",
-            "source_link": "https://spacenews.com/saudi-space-agency-announces-winners-of-global-debrisolver-competition-at-space-debris-conference/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-01T21:19:02.429361Z",
-            "shown_at": [
-                "2026-02-01T21:19:03.404018Z",
-                "2026-02-03T16:14:23.920674Z"
-            ]
-        },
-        {
-            "id": "51f6074c4f8fe59ac5110819047fa0b6",
-            "source": "spacenews",
-            "text": "With attention on orbital data centers, the focus turns to economics",
-            "source_link": "https://spacenews.com/with-attention-on-orbital-data-centers-the-focus-turns-to-economics/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-01T17:49:10.326036Z",
-            "shown_at": [
-                "2026-02-01T17:49:11.571179Z",
-                "2026-02-08T17:14:11.965102Z"
-            ]
-        },
-        {
-            "id": "5365fd2bde262b290060cc65fc4049cc",
-            "source": "spacenews",
-            "text": "Varda’s W-5 mission lands in Australia",
-            "source_link": "https://spacenews.com/vardas-w-5-mission-lands-in-australia/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-01-31T22:59:12.377605Z",
-            "shown_at": [
-                "2026-01-31T22:59:13.532677Z",
-                "2026-02-01T19:34:12.804865Z",
-                "2026-02-02T02:39:41.679002Z"
-            ]
-        },
-        {
-            "id": "12d948a906c28055761ddaf91936cc28",
-            "source": "nyt",
-            "text": "Artemis II Astronauts Get a Break After Journey Around the Moon",
-            "source_link": "https://www.nytimes.com/2026/04/07/science/artemis-2-moon-nasa-astronauts-crew.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-08T00:24:24.145287Z",
-            "shown_at": [
-                "2026-04-08T00:24:25.352547Z"
-            ]
-        },
-        {
-            "id": "15020cac6003e612e044fda60723c576",
-            "source": "spacenews",
-            "text": "Astroscale passes key design milestone for UK military space-tracking cubesats",
-            "source_link": "https://spacenews.com/astroscale-passes-key-design-milestone-for-uk-military-space-tracking-cubesats/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-08T07:24:25.979140Z",
-            "shown_at": [
-                "2026-04-08T07:24:26.604410Z"
-            ]
-        },
-        {
-            "id": "f8447f7f6ef8d002c21ac3e0fcac4661",
-            "source": "spacenews",
-            "text": "Inspection cubesat demo planned as first step toward orbital defense mothership",
-            "source_link": "https://spacenews.com/inspection-cubesat-demo-planned-as-first-step-toward-orbital-defense-mothership/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-08T08:34:30.744581Z",
-            "shown_at": [
-                "2026-04-08T08:34:31.541365Z"
-            ]
-        },
-        {
-            "id": "c78cce88b85e6fc0bac959a98d2957a7",
-            "source": "spacenews",
-            "text": "Artemis 2 science gets underway as Orion begins its return trip",
-            "source_link": "https://spacenews.com/artemis-2-science-gets-underway-as-orion-begins-its-return-trip/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-08T10:24:22.849351Z",
-            "shown_at": [
-                "2026-04-08T10:24:24.089763Z"
-            ]
-        },
-        {
-            "id": "5e1f28b21ac0f1e6c52fe22612863047",
-            "source": "spacenews",
-            "text": "Capella Space wins $49 million contract for military communications satellite demo",
-            "source_link": "https://spacenews.com/capella-space-wins-49-million-contract-for-military-communications-satellite-demo/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-08T10:24:22.849420Z",
-            "shown_at": [
-                "2026-04-08T10:59:24.548841Z"
-            ]
-        },
-        {
-            "id": "27c2be9eb80d5cb576d27feb8aa051fa",
-            "source": "spacenews",
-            "text": "Space security moves to forefront as threats to satellites spread",
-            "source_link": "https://spacenews.com/space-security-moves-to-forefront-as-threats-to-satellites-spread/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-08T10:24:22.849464Z",
-            "shown_at": [
-                "2026-04-08T11:34:35.800576Z"
-            ]
-        },
-        {
-            "id": "1f817b781630a1c1a0e82d75368483e1",
-            "source": "spacenews",
-            "text": "Industry navigates NASA’s start-and-stop approach to commercial space stations",
-            "source_link": "https://spacenews.com/industry-navigates-nasas-start-and-stop-approach-to-commercial-space-stations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-08T12:44:14.554465Z",
-            "shown_at": [
-                "2026-04-08T12:44:16.507490Z"
-            ]
-        },
-        {
-            "id": "a4d35276359523cdeb0ec3fdb34f647b",
-            "source": "spacenews",
-            "text": "A lunar base or a lunar economy?",
-            "source_link": "https://spacenews.com/a-lunar-base-or-a-lunar-economy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-08T13:19:21.275986Z",
-            "shown_at": [
-                "2026-04-08T13:19:22.615736Z"
-            ]
-        },
-        {
-            "id": "fdb238a30e71a80c3fedf05220d8ab69",
-            "source": "spacenews",
-            "text": "LeoLabs debuts space monitoring tool for military users",
-            "source_link": "https://spacenews.com/leolabs-debuts-space-monitoring-tool-for-military-users/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-08T13:19:21.276045Z",
-            "shown_at": [
-                "2026-04-08T13:54:28.085049Z"
-            ]
-        },
-        {
-            "id": "94d5568171e20af7f30745bf929f5b36",
-            "source": "spacenews",
-            "text": "Tracking the next SDA challenge",
-            "source_link": "https://spacenews.com/tracking-the-next-sda-challenge/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-08T14:29:15.611564Z",
-            "shown_at": [
-                "2026-04-08T14:29:16.733171Z"
-            ]
-        },
-        {
-            "id": "25db5ed4543496a21a14305d2a959223",
-            "source": "spacenews",
-            "text": "Preparing for the next NASA budget battle",
-            "source_link": "https://spacenews.com/preparing-for-the-next-nasa-budget-battle/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-08T14:29:15.611625Z",
-            "shown_at": [
-                "2026-04-08T15:04:54.324402Z"
-            ]
-        },
-        {
-            "id": "d15d6ed4476a5ec576659c2dc93413ea",
-            "source": "spacenews",
-            "text": "April 30: Opportunities for On-Orbit Computing",
-            "source_link": "https://spacenews.com/opportunities-for-on-orbit-computing-event/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-08T15:39:37.224416Z",
-            "shown_at": [
-                "2026-04-08T15:39:38.793150Z"
-            ]
-        },
-        {
-            "id": "1f900f5c9f51c19b8a66e121f64131c2",
-            "source": "spacenews",
-            "text": "Space Sovereignty Is No Longer Optional",
-            "source_link": "https://spacenews.com/space-sovereignty-is-no-longer-optional/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-08T19:09:21.767607Z",
-            "shown_at": [
-                "2026-04-08T19:09:22.901603Z"
-            ]
-        },
-        {
-            "id": "5770bcf00066aa6c09d9056426e74ac5",
-            "source": "spacenews",
-            "text": "Improved thresholds and SSA accuracy can reduce most satellite collision risk",
-            "source_link": "https://spacenews.com/improved-thresholds-and-ssa-accuracy-can-reduce-most-satellite-collision-risk/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-08T20:19:25.139100Z",
-            "shown_at": [
-                "2026-04-08T20:19:26.706757Z"
             ]
         }
     ]
