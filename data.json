@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-09T00:04:41.434046+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2d7b7104db32c74e83733c4e15293186",
+    "trigger_count": 0,
+    "current_item_id": "96ed4a72a2f16d718e67ab8ae26b2a96",
     "data": [
         {
             "id": "5770bcf00066aa6c09d9056426e74ac5",
@@ -7987,6 +7987,18 @@
                 "2026-02-09T23:54:18.816307Z",
                 "2026-02-10T03:29:17.314481Z",
                 "2026-02-10T10:29:24.154746Z"
+            ]
+        },
+        {
+            "id": "96ed4a72a2f16d718e67ab8ae26b2a96",
+            "source": "spacenews",
+            "text": "Apex to develop larger satellites for missile defense, space-based computing",
+            "source_link": "https://spacenews.com/apex-to-develop-larger-satellites-for-missile-defense-space-based-computing/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-09T09:19:23.863639Z",
+            "shown_at": [
+                "2026-04-09T09:19:24.578433Z"
             ]
         }
     ]
