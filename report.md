@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 19 | 21 | 45 |
+| spacenews | 8 | 19 | 22 | 46 |
 | nyt | 3 | 6 | 18 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2501,3 +2501,4 @@
 - **Apr 09, 12:14 PM** - Space Force taps 14 firms for $1.8 billion GEO surveillance program (spacenews)
 - **Apr 09, 12:49 PM** - Albedo prepares second VLEO mission for 2027 launch (spacenews)
 - **Apr 09, 02:24 PM** - For Artemis II, Returning to Earth May Be the Most Dangerous Part of the Mission (nyt)
+- **Apr 09, 02:59 PM** - Earth observation operators push to deliver satellite images within minutes (spacenews)
