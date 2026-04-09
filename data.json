@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-09T00:04:41.434046+00:00",
-    "trigger_count": 6,
-    "current_item_id": "92db2f3c81252b5c11b94c299d053401",
+    "trigger_count": 0,
+    "current_item_id": "c9d3b7a8ee542dd37846f98a80e43044",
     "data": [
         {
             "id": "5770bcf00066aa6c09d9056426e74ac5",
@@ -8133,6 +8133,18 @@
             "fetched_datetime": "2026-04-09T16:09:17.473131Z",
             "shown_at": [
                 "2026-04-09T18:14:21.957120Z"
+            ]
+        },
+        {
+            "id": "c9d3b7a8ee542dd37846f98a80e43044",
+            "source": "spacenews",
+            "text": "PLD Space secures $35 million European Investment Bank loan for MIURA 5 launcher",
+            "source_link": "https://spacenews.com/pld-space-secures-35-million-european-investment-bank-loan-for-miura-5-launcher/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-09T18:49:37.559032Z",
+            "shown_at": [
+                "2026-04-09T18:49:38.648943Z"
             ]
         }
     ]

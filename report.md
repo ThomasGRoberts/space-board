@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 23 | 22 | 47 |
+| spacenews | 12 | 24 | 23 | 48 |
 | nyt | 3 | 4 | 16 | 32 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2507,3 +2507,4 @@
 - **Apr 09, 04:44 PM** - A new kind of arsenal: commercial satellites (spacenews)
 - **Apr 09, 05:36 PM** - What returning to lunar space means for human health (spacenews)
 - **Apr 09, 06:14 PM** - Portal Space Systems raises $50 million to accelerate spacecraft development (spacenews)
+- **Apr 09, 06:49 PM** - PLD Space secures $35 million European Investment Bank loan for MIURA 5 launcher (spacenews)
