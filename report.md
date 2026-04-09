@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 23 | 22 | 47 |
-| nyt | 3 | 4 | 16 | 32 |
+| nyt | 3 | 4 | 17 | 33 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2512,3 +2512,4 @@
 - **Apr 09, 07:59 PM** - Tracking the next SDA challenge (spacenews)
 - **Apr 09, 08:34 PM** - NASA’s Artemis II Astronauts Took iPhones Into Space (nyt)
 - **Apr 09, 09:09 PM** - Military space programs confront hidden supply constraints (spacenews)
+- **Apr 09, 09:44 PM** - Artemis II Astronauts Get a Break After Journey Around the Moon (nyt)
