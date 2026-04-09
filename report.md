@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 19 | 24 | 47 |
-| nyt | 0 | 3 | 16 | 35 |
+| spacenews | 12 | 19 | 24 | 46 |
+| nyt | 2 | 5 | 17 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2494,3 +2494,4 @@
 - **Apr 09, 08:09 AM** - Space security moves to forefront as threats to satellites spread (spacenews)
 - **Apr 09, 08:44 AM** - Artemis II Pilot Test Drove the Orion Capsule on the Way to the Moon (nyt)
 - **Apr 09, 09:19 AM** - Apex to develop larger satellites for missile defense, space-based computing (spacenews)
+- **Apr 09, 09:54 AM** - A Magazine for Earthlings Who Dream of Outer Space (nyt)
