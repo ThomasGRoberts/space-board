@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 19 | 25 | 47 |
-| nyt | 1 | 6 | 16 | 35 |
+| nyt | 0 | 6 | 17 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2478,3 +2478,4 @@
 - **Apr 08, 10:39 PM** - Artemis 2 ready to fly around the moon (spacenews)
 - **Apr 08, 11:14 PM** - Where Are NASA’s Artemis II Astronauts Now? Closer to the Moon Than Earth. (nyt)
 - **Apr 08, 11:49 PM** - NASA’s new moon base project requires operational technology systems in space, but they are vulnerable. (spacenews)
+- **Apr 09, 12:24 AM** - Artemis II Pilot Took a Test Drive on the Way to the Moon (nyt)
