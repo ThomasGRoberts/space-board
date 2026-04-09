@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 18 | 25 | 46 |
-| nyt | 0 | 4 | 15 | 35 |
+| nyt | 0 | 4 | 16 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2486,3 +2486,4 @@
 - **Apr 09, 03:24 AM** - Industry navigates NASA’s start-and-stop approach to commercial space stations (spacenews)
 - **Apr 09, 03:59 AM** - The Awe of a Moon Launch in an Age of Trump, Turmoil and Tribal Divisions (nyt)
 - **Apr 09, 04:34 AM** - Tracking the next SDA challenge (spacenews)
+- **Apr 09, 05:09 AM** - Artemis II Astronauts Get a Break After Journey Around the Moon (nyt)
