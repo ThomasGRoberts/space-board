@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 19 | 22 | 45 |
-| nyt | 2 | 5 | 17 | 35 |
+| nyt | 3 | 6 | 18 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2500,3 +2500,4 @@
 - **Apr 09, 11:39 AM** - Vantor to expand imaging satellite fleet, adding smallsats to increase revisit rates (spacenews)
 - **Apr 09, 12:14 PM** - Space Force taps 14 firms for $1.8 billion GEO surveillance program (spacenews)
 - **Apr 09, 12:49 PM** - Albedo prepares second VLEO mission for 2027 launch (spacenews)
+- **Apr 09, 02:24 PM** - For Artemis II, Returning to Earth May Be the Most Dangerous Part of the Mission (nyt)
