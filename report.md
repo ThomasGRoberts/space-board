@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 18 | 24 | 46 |
-| nyt | 0 | 3 | 16 | 36 |
+| spacenews | 12 | 18 | 25 | 47 |
+| nyt | 0 | 3 | 16 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2491,3 +2491,4 @@
 - **Apr 09, 06:19 AM** - The Awe of a Moon Launch in an Age of Trump, Turmoil and Tribal Divisions (nyt)
 - **Apr 09, 06:54 AM** - Hungary taps Northrop Grumman for first national geostationary communications satellite (spacenews)
 - **Apr 09, 07:34 AM** - Artemis II Pilot Test Drove the Orion Capsule on the Way to the Moon (nyt)
+- **Apr 09, 08:09 AM** - Space security moves to forefront as threats to satellites spread (spacenews)
