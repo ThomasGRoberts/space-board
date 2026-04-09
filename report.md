@@ -2481,3 +2481,4 @@
 - **Apr 09, 12:24 AM** - Artemis II Pilot Took a Test Drive on the Way to the Moon (nyt)
 - **Apr 09, 12:59 AM** - Isaacman defends NASA budget proposal despite steep cuts (spacenews)
 - **Apr 09, 01:34 AM** - See First Photos From NASA’s Artemis II Moon Mission Capturing a Setting Earth and Eclipse (nyt)
+- **Apr 09, 02:09 AM** - Hungary taps Northrop Grumman for first national geostationary communications satellite (spacenews)
