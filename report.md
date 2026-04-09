@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 20 | 23 | 46 |
-| nyt | 2 | 5 | 18 | 36 |
+| spacenews | 13 | 22 | 24 | 47 |
+| nyt | 2 | 5 | 17 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2498,3 +2498,4 @@
 - **Apr 09, 10:29 AM** - Lockheed Martin wins $105 million contract for GPS ground control system as OCX winds down (spacenews)
 - **Apr 09, 11:04 AM** - NASA Prepares for Artemis II Splashdown After Historic Moon Flyby (nyt)
 - **Apr 09, 11:39 AM** - Vantor to expand imaging satellite fleet, adding smallsats to increase revisit rates (spacenews)
+- **Apr 09, 12:14 PM** - Space Force taps 14 firms for $1.8 billion GEO surveillance program (spacenews)
