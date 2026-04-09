@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 19 | 23 | 46 |
-| nyt | 2 | 5 | 17 | 36 |
+| spacenews | 11 | 21 | 24 | 47 |
+| nyt | 2 | 5 | 17 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2495,3 +2495,4 @@
 - **Apr 09, 08:44 AM** - Artemis II Pilot Test Drove the Orion Capsule on the Way to the Moon (nyt)
 - **Apr 09, 09:19 AM** - Apex to develop larger satellites for missile defense, space-based computing (spacenews)
 - **Apr 09, 09:54 AM** - A Magazine for Earthlings Who Dream of Outer Space (nyt)
+- **Apr 09, 10:29 AM** - Lockheed Martin wins $105 million contract for GPS ground control system as OCX winds down (spacenews)

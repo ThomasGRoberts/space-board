@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-09T00:04:41.434046+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ce74ea9bd301bbd7b165b256736ac0c2",
+    "trigger_count": 0,
+    "current_item_id": "553d697f9a6d570b23650153715c6fee",
     "data": [
         {
             "id": "5770bcf00066aa6c09d9056426e74ac5",
@@ -8021,6 +8021,27 @@
             "shown": false,
             "type": "news",
             "fetched_datetime": "2026-04-09T09:54:20.568273Z"
+        },
+        {
+            "id": "553d697f9a6d570b23650153715c6fee",
+            "source": "spacenews",
+            "text": "Lockheed Martin wins $105 million contract for GPS ground control system as OCX winds down",
+            "source_link": "https://spacenews.com/lockheed-martin-wins-105-million-contract-for-gps-ground-control-system-as-ocx-winds-down/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-09T10:29:16.886072Z",
+            "shown_at": [
+                "2026-04-09T10:29:18.614601Z"
+            ]
+        },
+        {
+            "id": "ab59262bb0f3d790d52797dcc53dd1fc",
+            "source": "spacenews",
+            "text": "Vantor to expand imaging satellite fleet, adding smallsats to increase revisit rates",
+            "source_link": "https://spacenews.com/vantor-to-expand-imaging-satellite-fleet-adding-smallsats-to-increase-revisit-rates/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-09T10:29:16.886142Z"
         }
     ]
 }
