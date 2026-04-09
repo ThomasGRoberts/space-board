@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 23 | 21 | 46 |
+| spacenews | 11 | 23 | 22 | 47 |
 | nyt | 3 | 4 | 17 | 33 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2505,3 +2505,4 @@
 - **Apr 09, 03:34 PM** - NASA’s Artemis II Astronauts Took iPhones Into Space (nyt)
 - **Apr 09, 04:09 PM** - China conducts pair of Long March launches for Thousand Sails and Guowang megaconstellations (spacenews)
 - **Apr 09, 04:44 PM** - A new kind of arsenal: commercial satellites (spacenews)
+- **Apr 09, 05:36 PM** - What returning to lunar space means for human health (spacenews)
