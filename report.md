@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 24 | 22 | 47 |
+| spacenews | 11 | 24 | 23 | 48 |
 | nyt | 3 | 4 | 16 | 32 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2509,3 +2509,4 @@
 - **Apr 09, 06:14 PM** - Portal Space Systems raises $50 million to accelerate spacecraft development (spacenews)
 - **Apr 09, 06:49 PM** - PLD Space secures $35 million European Investment Bank loan for MIURA 5 launcher (spacenews)
 - **Apr 09, 07:24 PM** - Artemis II Astronauts Get a Break After Journey Around the Moon (nyt)
+- **Apr 09, 07:59 PM** - Tracking the next SDA challenge (spacenews)
