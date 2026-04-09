@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 18 | 24 | 46 |
+| spacenews | 13 | 18 | 25 | 47 |
 | nyt | 0 | 3 | 16 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2489,3 +2489,4 @@
 - **Apr 09, 05:09 AM** - Artemis II Astronauts Get a Break After Journey Around the Moon (nyt)
 - **Apr 09, 05:44 AM** - Artemis 2 ready to fly around the moon (spacenews)
 - **Apr 09, 06:19 AM** - The Awe of a Moon Launch in an Age of Trump, Turmoil and Tribal Divisions (nyt)
+- **Apr 09, 06:54 AM** - Hungary taps Northrop Grumman for first national geostationary communications satellite (spacenews)
