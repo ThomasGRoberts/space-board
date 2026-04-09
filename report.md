@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 19 | 25 | 47 |
-| nyt | 0 | 6 | 16 | 35 |
+| nyt | 0 | 5 | 17 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2480,3 +2480,4 @@
 - **Apr 08, 11:49 PM** - NASA’s new moon base project requires operational technology systems in space, but they are vulnerable. (spacenews)
 - **Apr 09, 12:24 AM** - Artemis II Pilot Took a Test Drive on the Way to the Moon (nyt)
 - **Apr 09, 12:59 AM** - Isaacman defends NASA budget proposal despite steep cuts (spacenews)
+- **Apr 09, 01:34 AM** - See First Photos From NASA’s Artemis II Moon Mission Capturing a Setting Earth and Eclipse (nyt)
