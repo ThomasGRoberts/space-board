@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 19 | 21 | 46 |
-| nyt | 3 | 5 | 18 | 34 |
+| nyt | 3 | 5 | 19 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2502,3 +2502,4 @@
 - **Apr 09, 12:49 PM** - Albedo prepares second VLEO mission for 2027 launch (spacenews)
 - **Apr 09, 02:24 PM** - For Artemis II, Returning to Earth May Be the Most Dangerous Part of the Mission (nyt)
 - **Apr 09, 02:59 PM** - Earth observation operators push to deliver satellite images within minutes (spacenews)
+- **Apr 09, 03:34 PM** - NASA’s Artemis II Astronauts Took iPhones Into Space (nyt)
