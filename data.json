@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-09T00:04:41.434046+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3c613d9819f5b44ba1f378e623128016",
+    "trigger_count": 0,
+    "current_item_id": "92db2f3c81252b5c11b94c299d053401",
     "data": [
         {
             "id": "5770bcf00066aa6c09d9056426e74ac5",
@@ -8128,9 +8128,12 @@
             "source": "spacenews",
             "text": "Portal Space Systems raises $50 million to accelerate spacecraft development",
             "source_link": "https://spacenews.com/portal-space-systems-raises-50-million-to-accelerate-spacecraft-development/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-04-09T16:09:17.473131Z"
+            "fetched_datetime": "2026-04-09T16:09:17.473131Z",
+            "shown_at": [
+                "2026-04-09T18:14:21.957120Z"
+            ]
         }
     ]
 }
