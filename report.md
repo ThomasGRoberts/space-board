@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 19 | 25 | 47 |
-| nyt | 0 | 5 | 16 | 35 |
+| spacenews | 13 | 18 | 25 | 46 |
+| nyt | 0 | 5 | 16 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2482,3 +2482,4 @@
 - **Apr 09, 12:59 AM** - Isaacman defends NASA budget proposal despite steep cuts (spacenews)
 - **Apr 09, 01:34 AM** - See First Photos From NASA’s Artemis II Moon Mission Capturing a Setting Earth and Eclipse (nyt)
 - **Apr 09, 02:09 AM** - Hungary taps Northrop Grumman for first national geostationary communications satellite (spacenews)
+- **Apr 09, 02:49 AM** - As NASA Sent Astronauts to the Moon, Some Rejoiced and Others Barely Noticed (nyt)
