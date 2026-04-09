@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 18 | 24 | 46 |
-| nyt | 0 | 3 | 16 | 35 |
+| nyt | 0 | 3 | 17 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2492,3 +2492,4 @@
 - **Apr 09, 06:54 AM** - Hungary taps Northrop Grumman for first national geostationary communications satellite (spacenews)
 - **Apr 09, 07:34 AM** - Artemis II Pilot Test Drove the Orion Capsule on the Way to the Moon (nyt)
 - **Apr 09, 08:09 AM** - Space security moves to forefront as threats to satellites spread (spacenews)
+- **Apr 09, 08:44 AM** - Artemis II Pilot Test Drove the Orion Capsule on the Way to the Moon (nyt)
