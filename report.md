@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 21 | 23 | 46 |
+| spacenews | 11 | 20 | 23 | 46 |
 | nyt | 2 | 5 | 18 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2497,3 +2497,4 @@
 - **Apr 09, 09:54 AM** - A Magazine for Earthlings Who Dream of Outer Space (nyt)
 - **Apr 09, 10:29 AM** - Lockheed Martin wins $105 million contract for GPS ground control system as OCX winds down (spacenews)
 - **Apr 09, 11:04 AM** - NASA Prepares for Artemis II Splashdown After Historic Moon Flyby (nyt)
+- **Apr 09, 11:39 AM** - Vantor to expand imaging satellite fleet, adding smallsats to increase revisit rates (spacenews)

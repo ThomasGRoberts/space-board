@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-09T00:04:41.434046+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e7cf42e920f2259a18e5c7b5d1923db7",
+    "trigger_count": 0,
+    "current_item_id": "ab59262bb0f3d790d52797dcc53dd1fc",
     "data": [
         {
             "id": "5770bcf00066aa6c09d9056426e74ac5",
@@ -8042,9 +8042,12 @@
             "source": "spacenews",
             "text": "Vantor to expand imaging satellite fleet, adding smallsats to increase revisit rates",
             "source_link": "https://spacenews.com/vantor-to-expand-imaging-satellite-fleet-adding-smallsats-to-increase-revisit-rates/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-04-09T10:29:16.886142Z"
+            "fetched_datetime": "2026-04-09T10:29:16.886142Z",
+            "shown_at": [
+                "2026-04-09T11:39:14.669967Z"
+            ]
         }
     ]
 }
