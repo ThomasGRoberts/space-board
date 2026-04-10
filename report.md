@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 18 | 22 | 44 |
-| nyt | 1 | 4 | 18 | 35 |
+| nyt | 2 | 5 | 19 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2466,3 +2466,4 @@
 - **Apr 10, 04:34 PM** - Artemis II Pilot Test Drove the Orion Capsule on the Way to the Moon (nyt)
 - **Apr 10, 05:09 PM** - GSOA and Novaspace Launch the Space Industry Forum (SIF) 2026 in Singapore (spacenews)
 - **Apr 10, 05:44 PM** - HawkEye 360 files to go public (spacenews)
+- **Apr 10, 06:19 PM** - See Photos From All 10 Days of NASA’s Artemis II Moon Mission (nyt)

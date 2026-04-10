@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-10T00:04:30.866589+00:00",
-    "trigger_count": 6,
-    "current_item_id": "de480372fe95a1c8900c2dff3b324261",
+    "trigger_count": 0,
+    "current_item_id": "fd0715942610ef8e2464dd87bec3cc5a",
     "data": [
         {
             "id": "c9d3b7a8ee542dd37846f98a80e43044",
@@ -8036,6 +8036,18 @@
             "shown": false,
             "type": "news",
             "fetched_datetime": "2026-04-10T17:44:19.351180Z"
+        },
+        {
+            "id": "fd0715942610ef8e2464dd87bec3cc5a",
+            "source": "nyt",
+            "text": "See Photos From All 10 Days of NASA’s Artemis II Moon Mission",
+            "source_link": "https://www.nytimes.com/2026/04/10/science/nasa-artemis-ii-moon-mission-photos-earth-eclipse.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-10T18:19:12.060345Z",
+            "shown_at": [
+                "2026-04-10T18:19:13.073040Z"
+            ]
         }
     ]
 }
