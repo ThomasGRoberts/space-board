@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 18 | 22 | 44 |
+| spacenews | 6 | 18 | 22 | 45 |
 | nyt | 2 | 5 | 19 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2467,3 +2467,4 @@
 - **Apr 10, 05:09 PM** - GSOA and Novaspace Launch the Space Industry Forum (SIF) 2026 in Singapore (spacenews)
 - **Apr 10, 05:44 PM** - HawkEye 360 files to go public (spacenews)
 - **Apr 10, 06:19 PM** - See Photos From All 10 Days of NASA’s Artemis II Moon Mission (nyt)
+- **Apr 10, 06:54 PM** - Spacety raises $190 million to scale satellite manufacturing, plans IPO (spacenews)
