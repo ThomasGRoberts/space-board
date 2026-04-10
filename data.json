@@ -1,9 +1,166 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-04-09T00:04:41.434046+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c78cce88b85e6fc0bac959a98d2957a7",
+    "last_run_datetime": "2026-04-10T00:04:30.866589+00:00",
+    "trigger_count": 0,
+    "current_item_id": "12d948a906c28055761ddaf91936cc28",
     "data": [
+        {
+            "id": "c9d3b7a8ee542dd37846f98a80e43044",
+            "source": "spacenews",
+            "text": "PLD Space secures $35 million European Investment Bank loan for MIURA 5 launcher",
+            "source_link": "https://spacenews.com/pld-space-secures-35-million-european-investment-bank-loan-for-miura-5-launcher/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-09T18:49:37.559032Z",
+            "shown_at": [
+                "2026-04-09T18:49:38.648943Z",
+                "2026-04-09T22:19:05.392847Z"
+            ]
+        },
+        {
+            "id": "92db2f3c81252b5c11b94c299d053401",
+            "source": "spacenews",
+            "text": "Portal Space Systems raises $50 million to accelerate spacecraft development",
+            "source_link": "https://spacenews.com/portal-space-systems-raises-50-million-to-accelerate-spacecraft-development/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-09T16:09:17.473131Z",
+            "shown_at": [
+                "2026-04-09T18:14:21.957120Z"
+            ]
+        },
+        {
+            "id": "3c613d9819f5b44ba1f378e623128016",
+            "source": "spacenews",
+            "text": "What returning to lunar space means for human health",
+            "source_link": "https://spacenews.com/what-returning-to-lunar-space-means-for-human-health/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-09T16:09:17.473072Z",
+            "shown_at": [
+                "2026-04-09T17:36:54.778019Z"
+            ]
+        },
+        {
+            "id": "c89878c38a4b32187e98028b59045e9e",
+            "source": "spacenews",
+            "text": "A new kind of arsenal: commercial satellites",
+            "source_link": "https://spacenews.com/a-new-kind-of-arsenal-commercial-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-09T16:09:17.472980Z",
+            "shown_at": [
+                "2026-04-09T16:44:54.851690Z"
+            ]
+        },
+        {
+            "id": "f97372882eb515a64b1c96be4a37b260",
+            "source": "spacenews",
+            "text": "China conducts pair of Long March launches for Thousand Sails and Guowang megaconstellations",
+            "source_link": "https://spacenews.com/china-conducts-pair-of-long-march-launches-for-thousand-sails-and-guowang-megaconstellations/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-09T16:09:17.472909Z",
+            "shown_at": [
+                "2026-04-09T16:09:18.584711Z"
+            ]
+        },
+        {
+            "id": "ec7499e7f03d1ea8150e6c222fb34ebd",
+            "source": "nyt",
+            "text": "For Artemis II, Returning to Earth May Be the Most Dangerous Part of the Mission",
+            "source_link": "https://www.nytimes.com/2026/04/09/science/nasa-artemis-ii-earth-return-heat-shield.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-09T14:24:24.578101Z",
+            "shown_at": [
+                "2026-04-09T14:24:25.482164Z"
+            ]
+        },
+        {
+            "id": "5ae28379f69a202cc3a511d0a0f1603f",
+            "source": "spacenews",
+            "text": "Albedo prepares second VLEO mission for 2027 launch",
+            "source_link": "https://spacenews.com/albedo-prepares-second-vleo-mission-for-2027-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-09T12:14:15.433318Z",
+            "shown_at": [
+                "2026-04-09T12:49:24.708259Z"
+            ]
+        },
+        {
+            "id": "581fa946e0ffdc12f1d215b0cc0b093e",
+            "source": "spacenews",
+            "text": "Space Force taps 14 firms for $1.8 billion GEO surveillance program",
+            "source_link": "https://spacenews.com/space-force-taps-14-firms-for-1-8-billion-geo-surveillance-program/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-09T12:14:15.433265Z",
+            "shown_at": [
+                "2026-04-09T12:14:16.456301Z"
+            ]
+        },
+        {
+            "id": "ab59262bb0f3d790d52797dcc53dd1fc",
+            "source": "spacenews",
+            "text": "Vantor to expand imaging satellite fleet, adding smallsats to increase revisit rates",
+            "source_link": "https://spacenews.com/vantor-to-expand-imaging-satellite-fleet-adding-smallsats-to-increase-revisit-rates/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-09T10:29:16.886142Z",
+            "shown_at": [
+                "2026-04-09T11:39:14.669967Z"
+            ]
+        },
+        {
+            "id": "553d697f9a6d570b23650153715c6fee",
+            "source": "spacenews",
+            "text": "Lockheed Martin wins $105 million contract for GPS ground control system as OCX winds down",
+            "source_link": "https://spacenews.com/lockheed-martin-wins-105-million-contract-for-gps-ground-control-system-as-ocx-winds-down/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-09T10:29:16.886072Z",
+            "shown_at": [
+                "2026-04-09T10:29:18.614601Z"
+            ]
+        },
+        {
+            "id": "e7cf42e920f2259a18e5c7b5d1923db7",
+            "source": "nyt",
+            "text": "NASA Prepares for Artemis II Splashdown After Historic Moon Flyby",
+            "source_link": "https://www.nytimes.com/2026/04/09/science/space/nasa-artemis-moon-astronauts-return.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-09T09:54:20.568273Z",
+            "shown_at": [
+                "2026-04-09T11:04:54.767971Z"
+            ]
+        },
+        {
+            "id": "ce74ea9bd301bbd7b165b256736ac0c2",
+            "source": "nyt",
+            "text": "A Magazine for Earthlings Who Dream of Outer Space",
+            "source_link": "https://www.nytimes.com/2026/04/09/style/a-magazine-for-earthlings-who-dream-of-outer-space.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-09T09:54:20.568245Z",
+            "shown_at": [
+                "2026-04-09T09:54:21.684012Z"
+            ]
+        },
+        {
+            "id": "96ed4a72a2f16d718e67ab8ae26b2a96",
+            "source": "spacenews",
+            "text": "Apex to develop larger satellites for missile defense, space-based computing",
+            "source_link": "https://spacenews.com/apex-to-develop-larger-satellites-for-missile-defense-space-based-computing/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-09T09:19:23.863639Z",
+            "shown_at": [
+                "2026-04-09T09:19:24.578433Z"
+            ]
+        },
         {
             "id": "5770bcf00066aa6c09d9056426e74ac5",
             "source": "spacenews",
@@ -177,7 +334,8 @@
                 "2026-04-08T00:24:25.352547Z",
                 "2026-04-09T05:09:25.024158Z",
                 "2026-04-09T19:24:10.264016Z",
-                "2026-04-09T21:44:11.181469Z"
+                "2026-04-09T21:44:11.181469Z",
+                "2026-04-10T00:04:38.111485Z"
             ]
         },
         {
@@ -7772,387 +7930,6 @@
             "shown_at": [
                 "2026-02-05T13:39:08.813690Z",
                 "2026-02-07T22:59:09.441073Z"
-            ]
-        },
-        {
-            "id": "2e5d1be8f935b2c05900d0222bcbcbaf",
-            "source": "spacenews",
-            "text": "Morpheus raises $15 million in Series A+ round",
-            "source_link": "https://spacenews.com/morpheus-raises-15-million-in-series-a-round/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-05T12:29:00.426556Z",
-            "shown_at": [
-                "2026-02-05T13:04:28.149843Z",
-                "2026-02-09T13:15:06.183165Z"
-            ]
-        },
-        {
-            "id": "8f0ba676746ee42cb19b203e02e551a8",
-            "source": "spacenews",
-            "text": "Space Force may be done with R-GPS, but Congress isn’t",
-            "source_link": "https://spacenews.com/space-force-may-be-done-with-r-gps-but-congress-isnt/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-05T12:29:00.426483Z",
-            "shown_at": [
-                "2026-02-05T12:29:01.528154Z",
-                "2026-02-09T00:24:07.017033Z"
-            ]
-        },
-        {
-            "id": "8ecc7bf37125b679e809e2252e73fb9b",
-            "source": "spacenews",
-            "text": "Vantor wins $5.3 million NGA contract to spot terrain changes using commercial satellite data",
-            "source_link": "https://spacenews.com/vantor-wins-5-3-million-nga-contract-to-spot-terrain-changes-using-commercial-satellite-data/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-05T11:19:10.163727Z",
-            "shown_at": [
-                "2026-02-05T11:19:11.477440Z",
-                "2026-02-12T03:24:14.999327Z"
-            ]
-        },
-        {
-            "id": "0282d7464221f200efadbb065692c9c9",
-            "source": "spacenews",
-            "text": "House committee advances NASA authorization bill",
-            "source_link": "https://spacenews.com/house-committee-advances-nasa-authorization-bill/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-05T00:43:57.710095Z",
-            "shown_at": [
-                "2026-02-05T00:43:58.702444Z",
-                "2026-02-09T20:54:09.599439Z"
-            ]
-        },
-        {
-            "id": "f7e9d7d65edc2f8cd4afb777157c8d44",
-            "source": "spacenews",
-            "text": "FireSat adds orbit-visualization software to help firefighters plan around satellite passes",
-            "source_link": "https://spacenews.com/firesat-adds-orbit-visualization-software-to-help-firefighters-plan-around-satellite-passes/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-04T15:59:04.663759Z",
-            "shown_at": [
-                "2026-02-04T15:59:06.067832Z",
-                "2026-02-05T22:39:16.568659Z",
-                "2026-02-11T13:59:34.836142Z"
-            ]
-        },
-        {
-            "id": "6799cb52e1ec34ecfa17d75686fc5154",
-            "source": "spacenews",
-            "text": "Space telescopes at light speed",
-            "source_link": "https://spacenews.com/space-telescopes-at-light-speed/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-04T15:24:12.506162Z",
-            "shown_at": [
-                "2026-02-04T15:24:13.411341Z",
-                "2026-02-05T18:59:10.296466Z"
-            ]
-        },
-        {
-            "id": "282dbb9d08729b84db7f7618193be040",
-            "source": "spacenews",
-            "text": "Silicon as strategy: the hidden battleground of the new space race",
-            "source_link": "https://spacenews.com/silicon-as-strategy-the-hidden-battleground-of-the-new-space-race/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-04T14:14:54.872492Z",
-            "shown_at": [
-                "2026-02-04T14:14:55.875284Z"
-            ]
-        },
-        {
-            "id": "0a34a7a5e21b748cb1fc3871123ff675",
-            "source": "spacenews",
-            "text": "Senate committee delays consideration of bill to streamline FCC satellite licensing",
-            "source_link": "https://spacenews.com/senate-committee-delays-consideration-of-bill-to-streamline-fcc-satellite-licensing/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-04T13:39:55.987840Z",
-            "shown_at": [
-                "2026-02-04T13:39:57.133233Z"
-            ]
-        },
-        {
-            "id": "66c522bc94fe9c74fd7268e94993aabf",
-            "source": "spacenews",
-            "text": "As satellites become targets, Space Force plans a broader role",
-            "source_link": "https://spacenews.com/as-satellites-become-targets-space-force-plans-a-broader-role/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-04T12:29:39.739795Z",
-            "shown_at": [
-                "2026-02-04T13:04:30.948591Z",
-                "2026-02-07T02:19:04.830830Z"
-            ]
-        },
-        {
-            "id": "798d858d062ea5d0aa5ca3063cd9a731",
-            "source": "spacenews",
-            "text": "SmallSat Alliance shifts focus from proliferation to coordination",
-            "source_link": "https://spacenews.com/smallsat-alliance-shifts-focus-from-proliferation-to-coordination/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-04T12:29:39.739724Z",
-            "shown_at": [
-                "2026-02-04T12:29:40.822359Z",
-                "2026-02-04T21:14:06.278109Z",
-                "2026-02-07T12:53:58.457195Z",
-                "2026-02-07T17:44:15.574967Z",
-                "2026-02-08T04:54:18.093738Z",
-                "2026-02-08T13:44:02.428961Z"
-            ]
-        },
-        {
-            "id": "a343024e64550be45adc280327d4f4bb",
-            "source": "spacenews",
-            "text": "NASA examining hydrogen leaks during Artemis 2 fueling test",
-            "source_link": "https://spacenews.com/nasa-examining-hydrogen-leaks-during-artemis-2-fueling-test/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-04T02:14:17.666395Z",
-            "shown_at": [
-                "2026-02-04T02:14:18.467803Z",
-                "2026-02-06T08:04:30.741397Z",
-                "2026-02-08T08:29:01.513841Z",
-                "2026-02-09T02:09:02.837699Z",
-                "2026-02-09T22:44:18.078425Z"
-            ]
-        },
-        {
-            "id": "2f082adbad4a217c4be3a1f92362d118",
-            "source": "nyt",
-            "text": "NASA Eyes March Artemis II Launch After Hydrogen Leaks Delay Moon Mission",
-            "source_link": "https://www.nytimes.com/2026/02/03/science/nasa-artemis-moon-launch-delayed.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-03T20:19:08.214323Z",
-            "shown_at": [
-                "2026-02-03T20:19:09.465772Z",
-                "2026-02-04T10:34:24.088777Z",
-                "2026-02-04T18:54:21.524730Z",
-                "2026-02-05T01:54:22.639541Z",
-                "2026-02-05T05:29:03.063874Z",
-                "2026-02-05T07:13:56.018364Z",
-                "2026-02-05T19:39:00.668139Z",
-                "2026-02-06T02:14:21.895335Z",
-                "2026-02-06T09:19:19.535329Z",
-                "2026-02-06T11:39:09.547011Z",
-                "2026-02-06T15:09:51.658794Z",
-                "2026-02-07T02:54:13.294320Z",
-                "2026-02-07T08:14:20.756125Z",
-                "2026-02-08T00:44:11.853181Z",
-                "2026-02-08T02:34:27.645871Z",
-                "2026-02-08T06:09:10.515344Z",
-                "2026-02-08T13:09:34.727582Z",
-                "2026-02-08T14:54:09.324038Z",
-                "2026-02-08T16:39:21.698880Z",
-                "2026-02-08T20:14:02.209910Z",
-                "2026-02-08T21:59:12.446865Z",
-                "2026-02-09T01:34:30.716177Z",
-                "2026-02-09T12:39:19.399319Z",
-                "2026-02-10T08:44:14.114599Z",
-                "2026-02-10T12:14:03.544395Z",
-                "2026-02-10T16:59:19.592704Z"
-            ]
-        },
-        {
-            "id": "133734e1517304bcfa95d5e90f82e413",
-            "source": "nyt",
-            "text": "NASA Delays Artemis II Moon Launch to March After Hydrogen Leaks",
-            "source_link": "https://www.nytimes.com/2026/02/03/science/nasa-artemis-moon-launch-delayed.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-03T15:04:41.045663Z",
-            "shown_at": [
-                "2026-02-03T15:04:41.977204Z",
-                "2026-02-04T01:34:19.566840Z",
-                "2026-02-04T03:24:09.908164Z",
-                "2026-02-04T07:04:29.683445Z",
-                "2026-02-04T08:49:08.748560Z",
-                "2026-02-04T17:09:05.153413Z",
-                "2026-02-05T08:59:21.222208Z",
-                "2026-02-05T17:49:09.852035Z",
-                "2026-02-06T05:44:07.841188Z",
-                "2026-02-06T07:29:04.475622Z",
-                "2026-02-06T22:49:24.623239Z",
-                "2026-02-07T01:09:08.088994Z",
-                "2026-02-07T04:44:20.051179Z",
-                "2026-02-07T06:29:07.977553Z",
-                "2026-02-07T13:29:23.011047Z",
-                "2026-02-07T17:09:12.613006Z",
-                "2026-02-07T18:54:45.792143Z",
-                "2026-02-07T22:24:24.035343Z",
-                "2026-02-08T04:18:54.561705Z",
-                "2026-02-08T09:39:15.578792Z",
-                "2026-02-08T11:24:09.821989Z",
-                "2026-02-08T18:24:06.478479Z",
-                "2026-02-09T06:58:45.633753Z",
-                "2026-02-09T10:54:11.048113Z",
-                "2026-02-09T23:54:18.816307Z",
-                "2026-02-10T03:29:17.314481Z",
-                "2026-02-10T10:29:24.154746Z"
-            ]
-        },
-        {
-            "id": "96ed4a72a2f16d718e67ab8ae26b2a96",
-            "source": "spacenews",
-            "text": "Apex to develop larger satellites for missile defense, space-based computing",
-            "source_link": "https://spacenews.com/apex-to-develop-larger-satellites-for-missile-defense-space-based-computing/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-09T09:19:23.863639Z",
-            "shown_at": [
-                "2026-04-09T09:19:24.578433Z"
-            ]
-        },
-        {
-            "id": "ce74ea9bd301bbd7b165b256736ac0c2",
-            "source": "nyt",
-            "text": "A Magazine for Earthlings Who Dream of Outer Space",
-            "source_link": "https://www.nytimes.com/2026/04/09/style/a-magazine-for-earthlings-who-dream-of-outer-space.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-09T09:54:20.568245Z",
-            "shown_at": [
-                "2026-04-09T09:54:21.684012Z"
-            ]
-        },
-        {
-            "id": "e7cf42e920f2259a18e5c7b5d1923db7",
-            "source": "nyt",
-            "text": "NASA Prepares for Artemis II Splashdown After Historic Moon Flyby",
-            "source_link": "https://www.nytimes.com/2026/04/09/science/space/nasa-artemis-moon-astronauts-return.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-09T09:54:20.568273Z",
-            "shown_at": [
-                "2026-04-09T11:04:54.767971Z"
-            ]
-        },
-        {
-            "id": "553d697f9a6d570b23650153715c6fee",
-            "source": "spacenews",
-            "text": "Lockheed Martin wins $105 million contract for GPS ground control system as OCX winds down",
-            "source_link": "https://spacenews.com/lockheed-martin-wins-105-million-contract-for-gps-ground-control-system-as-ocx-winds-down/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-09T10:29:16.886072Z",
-            "shown_at": [
-                "2026-04-09T10:29:18.614601Z"
-            ]
-        },
-        {
-            "id": "ab59262bb0f3d790d52797dcc53dd1fc",
-            "source": "spacenews",
-            "text": "Vantor to expand imaging satellite fleet, adding smallsats to increase revisit rates",
-            "source_link": "https://spacenews.com/vantor-to-expand-imaging-satellite-fleet-adding-smallsats-to-increase-revisit-rates/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-09T10:29:16.886142Z",
-            "shown_at": [
-                "2026-04-09T11:39:14.669967Z"
-            ]
-        },
-        {
-            "id": "581fa946e0ffdc12f1d215b0cc0b093e",
-            "source": "spacenews",
-            "text": "Space Force taps 14 firms for $1.8 billion GEO surveillance program",
-            "source_link": "https://spacenews.com/space-force-taps-14-firms-for-1-8-billion-geo-surveillance-program/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-09T12:14:15.433265Z",
-            "shown_at": [
-                "2026-04-09T12:14:16.456301Z"
-            ]
-        },
-        {
-            "id": "5ae28379f69a202cc3a511d0a0f1603f",
-            "source": "spacenews",
-            "text": "Albedo prepares second VLEO mission for 2027 launch",
-            "source_link": "https://spacenews.com/albedo-prepares-second-vleo-mission-for-2027-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-09T12:14:15.433318Z",
-            "shown_at": [
-                "2026-04-09T12:49:24.708259Z"
-            ]
-        },
-        {
-            "id": "ec7499e7f03d1ea8150e6c222fb34ebd",
-            "source": "nyt",
-            "text": "For Artemis II, Returning to Earth May Be the Most Dangerous Part of the Mission",
-            "source_link": "https://www.nytimes.com/2026/04/09/science/nasa-artemis-ii-earth-return-heat-shield.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-09T14:24:24.578101Z",
-            "shown_at": [
-                "2026-04-09T14:24:25.482164Z"
-            ]
-        },
-        {
-            "id": "f97372882eb515a64b1c96be4a37b260",
-            "source": "spacenews",
-            "text": "China conducts pair of Long March launches for Thousand Sails and Guowang megaconstellations",
-            "source_link": "https://spacenews.com/china-conducts-pair-of-long-march-launches-for-thousand-sails-and-guowang-megaconstellations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-09T16:09:17.472909Z",
-            "shown_at": [
-                "2026-04-09T16:09:18.584711Z"
-            ]
-        },
-        {
-            "id": "c89878c38a4b32187e98028b59045e9e",
-            "source": "spacenews",
-            "text": "A new kind of arsenal: commercial satellites",
-            "source_link": "https://spacenews.com/a-new-kind-of-arsenal-commercial-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-09T16:09:17.472980Z",
-            "shown_at": [
-                "2026-04-09T16:44:54.851690Z"
-            ]
-        },
-        {
-            "id": "3c613d9819f5b44ba1f378e623128016",
-            "source": "spacenews",
-            "text": "What returning to lunar space means for human health",
-            "source_link": "https://spacenews.com/what-returning-to-lunar-space-means-for-human-health/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-09T16:09:17.473072Z",
-            "shown_at": [
-                "2026-04-09T17:36:54.778019Z"
-            ]
-        },
-        {
-            "id": "92db2f3c81252b5c11b94c299d053401",
-            "source": "spacenews",
-            "text": "Portal Space Systems raises $50 million to accelerate spacecraft development",
-            "source_link": "https://spacenews.com/portal-space-systems-raises-50-million-to-accelerate-spacecraft-development/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-09T16:09:17.473131Z",
-            "shown_at": [
-                "2026-04-09T18:14:21.957120Z"
-            ]
-        },
-        {
-            "id": "c9d3b7a8ee542dd37846f98a80e43044",
-            "source": "spacenews",
-            "text": "PLD Space secures $35 million European Investment Bank loan for MIURA 5 launcher",
-            "source_link": "https://spacenews.com/pld-space-secures-35-million-european-investment-bank-loan-for-miura-5-launcher/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-09T18:49:37.559032Z",
-            "shown_at": [
-                "2026-04-09T18:49:38.648943Z",
-                "2026-04-09T22:19:05.392847Z"
             ]
         }
     ]
