@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 16 | 22 | 44 |
+| spacenews | 6 | 16 | 22 | 45 |
 | nyt | 3 | 6 | 19 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2475,3 +2475,4 @@
 - **Apr 10, 09:49 PM** - See Photos From All 10 Days of NASA’s Artemis II Moon Mission (nyt)
 - **Apr 10, 10:24 PM** - Commerce Department budget proposal revives concerns about TraCSS (spacenews)
 - **Apr 10, 10:59 PM** - Trump Calls Artemis II Astronauts After Their Historic Journey Around the Moon (nyt)
+- **Apr 10, 11:34 PM** - Artemis 2 ready to fly around the moon (spacenews)
