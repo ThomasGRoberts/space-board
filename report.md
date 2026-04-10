@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 17 | 22 | 44 |
+| spacenews | 7 | 17 | 23 | 45 |
 | nyt | 2 | 4 | 18 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2459,3 +2459,4 @@
 - **Apr 10, 12:29 PM** - How and When to Watch NASA’s Artemis II Splash Down in Pacific Ocean (nyt)
 - **Apr 10, 01:04 PM** - NASA prepares for Artemis 2 return (spacenews)
 - **Apr 10, 01:39 PM** - Artemis II Astronauts Name Moon Crater After Carroll, Reid Wiseman’s Late Wife (nyt)
+- **Apr 10, 02:14 PM** - FOSSA targets Japan’s defense market as larger smallsats expand capabilities (spacenews)
