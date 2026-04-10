@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 17 | 21 | 44 |
+| spacenews | 6 | 17 | 22 | 45 |
 | nyt | 3 | 6 | 19 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2469,3 +2469,4 @@
 - **Apr 10, 06:19 PM** - See Photos From All 10 Days of NASA’s Artemis II Moon Mission (nyt)
 - **Apr 10, 06:54 PM** - Spacety raises $190 million to scale satellite manufacturing, plans IPO (spacenews)
 - **Apr 10, 07:29 PM** - NASA Artemis II Splashdown: Time, Live Stream and How to Watch Landing (nyt)
+- **Apr 10, 08:04 PM** - Artemis 2 science gets underway as Orion begins its return trip (spacenews)
