@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 23 | 22 | 47 |
+| spacenews | 10 | 23 | 23 | 48 |
 | nyt | 3 | 3 | 16 | 32 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2444,3 +2444,4 @@
 - **Apr 10, 03:34 AM** - NASA’s Artemis II Astronauts Took iPhones Into Space (nyt)
 - **Apr 10, 04:09 AM** - NASA finalizes science plans for Artemis 2 lunar flyby (spacenews)
 - **Apr 10, 04:44 AM** - The Dark Side of the Moon Is Really the Far Side (nyt)
+- **Apr 10, 05:19 AM** - Vantor to expand imaging satellite fleet, adding smallsats to increase revisit rates (spacenews)
