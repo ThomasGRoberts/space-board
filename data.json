@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-10T00:04:30.866589+00:00",
-    "trigger_count": 6,
-    "current_item_id": "586bffdafe0e5ecbb5cadd62a42782bc",
+    "trigger_count": 0,
+    "current_item_id": "9919aa231f220defec457254a767c6c6",
     "data": [
         {
             "id": "c9d3b7a8ee542dd37846f98a80e43044",
@@ -7989,6 +7989,27 @@
             "shown_at": [
                 "2026-04-10T12:29:28.015821Z"
             ]
+        },
+        {
+            "id": "9919aa231f220defec457254a767c6c6",
+            "source": "spacenews",
+            "text": "GSOA and Novaspace Launch the Space Industry Forum (SIF) 2026 in Singapore",
+            "source_link": "https://spacenews.com/gsoa-and-novaspace-launch-the-space-industry-forum-sif-2026-in-singapore/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-10T15:24:24.938356Z",
+            "shown_at": [
+                "2026-04-10T15:24:25.579756Z"
+            ]
+        },
+        {
+            "id": "24ff062e20626458883b7dfb94166e9d",
+            "source": "spacenews",
+            "text": "Commerce Department budget proposal revives concerns about TraCSS",
+            "source_link": "https://spacenews.com/commerce-department-budget-proposal-revives-concerns-about-tracss/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-10T15:24:24.938459Z"
         }
     ]
 }
