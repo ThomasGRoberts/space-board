@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 23 | 22 | 47 |
+| spacenews | 10 | 23 | 23 | 48 |
 | nyt | 3 | 3 | 16 | 32 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2440,3 +2440,4 @@
 - **Apr 10, 01:14 AM** - A Magazine for Earthlings Who Dream of Outer Space (nyt)
 - **Apr 10, 01:49 AM** - Artemis 2 swings around the moon (spacenews)
 - **Apr 10, 02:24 AM** - Artemis II Pilot Took a Test Drive on the Way to the Moon (nyt)
+- **Apr 10, 02:59 AM** - A new kind of arsenal: commercial satellites (spacenews)
