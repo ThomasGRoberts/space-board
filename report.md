@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 16 | 21 | 44 |
+| spacenews | 6 | 16 | 22 | 45 |
 | nyt | 3 | 6 | 19 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2473,3 +2473,4 @@
 - **Apr 10, 08:39 PM** - NASA Artemis II Astronauts Race Into Moon’s Embrace After Quiet Easter (nyt)
 - **Apr 10, 09:14 PM** - FOSSA targets Japan’s defense market as larger smallsats expand capabilities (spacenews)
 - **Apr 10, 09:49 PM** - See Photos From All 10 Days of NASA’s Artemis II Moon Mission (nyt)
+- **Apr 10, 10:24 PM** - Commerce Department budget proposal revives concerns about TraCSS (spacenews)
