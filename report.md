@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 23 | 22 | 47 |
-| nyt | 3 | 3 | 16 | 32 |
+| nyt | 3 | 3 | 17 | 33 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2437,3 +2437,4 @@
 - **Apr 09, 11:29 PM** - Artemis 2 science gets underway as Orion begins its return trip (spacenews)
 - **Apr 10, 12:04 AM** - Artemis II Astronauts Get a Break After Journey Around the Moon (nyt)
 - **Apr 10, 12:39 AM** - Isaacman defends NASA budget proposal despite steep cuts (spacenews)
+- **Apr 10, 01:14 AM** - A Magazine for Earthlings Who Dream of Outer Space (nyt)
