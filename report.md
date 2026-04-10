@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 18 | 22 | 46 |
-| nyt | 1 | 3 | 16 | 33 |
+| nyt | 1 | 3 | 17 | 34 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2453,3 +2453,4 @@
 - **Apr 10, 08:59 AM** - Vantor to expand imaging satellite fleet, adding smallsats to increase revisit rates (spacenews)
 - **Apr 10, 09:34 AM** - Here’s What Food the Artemis II Astronauts Will Eat in Space (nyt)
 - **Apr 10, 10:09 AM** - Apex to develop larger satellites for missile defense, space-based computing (spacenews)
+- **Apr 10, 10:44 AM** - NASA’s Artemis II Astronauts Took iPhones Into Space (nyt)
