@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 21 | 22 | 47 |
-| nyt | 3 | 3 | 16 | 32 |
+| nyt | 3 | 3 | 17 | 33 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2451,3 +2451,4 @@
 - **Apr 10, 07:49 AM** - NASA stops work on SLS Mobile Launcher 2 (spacenews)
 - **Apr 10, 08:24 AM** - Artemis II Pilot Test Drove the Orion Capsule on the Way to the Moon (nyt)
 - **Apr 10, 08:59 AM** - Vantor to expand imaging satellite fleet, adding smallsats to increase revisit rates (spacenews)
+- **Apr 10, 09:34 AM** - Here’s What Food the Artemis II Astronauts Will Eat in Space (nyt)
