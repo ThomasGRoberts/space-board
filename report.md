@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 16 | 23 | 43 |
+| spacenews | 9 | 16 | 24 | 44 |
 | nyt | 1 | 4 | 17 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2462,3 +2462,4 @@
 - **Apr 10, 02:14 PM** - FOSSA targets Japan’s defense market as larger smallsats expand capabilities (spacenews)
 - **Apr 10, 02:49 PM** - Artemis II Astronauts Will Set New Distance Record in Moon Flyby: What to Know (nyt)
 - **Apr 10, 03:24 PM** - GSOA and Novaspace Launch the Space Industry Forum (SIF) 2026 in Singapore (spacenews)
+- **Apr 10, 03:59 PM** - Commerce Department budget proposal revives concerns about TraCSS (spacenews)

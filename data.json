@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-10T00:04:30.866589+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9919aa231f220defec457254a767c6c6",
+    "trigger_count": 0,
+    "current_item_id": "24ff062e20626458883b7dfb94166e9d",
     "data": [
         {
             "id": "c9d3b7a8ee542dd37846f98a80e43044",
@@ -8007,9 +8007,12 @@
             "source": "spacenews",
             "text": "Commerce Department budget proposal revives concerns about TraCSS",
             "source_link": "https://spacenews.com/commerce-department-budget-proposal-revives-concerns-about-tracss/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-04-10T15:24:24.938459Z"
+            "fetched_datetime": "2026-04-10T15:24:24.938459Z",
+            "shown_at": [
+                "2026-04-10T15:59:21.450877Z"
+            ]
         }
     ]
 }
