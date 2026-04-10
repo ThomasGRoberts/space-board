@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 19 | 21 | 45 |
+| spacenews | 7 | 19 | 22 | 46 |
 | nyt | 2 | 4 | 17 | 34 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2457,3 +2457,4 @@
 - **Apr 10, 11:19 AM** - Artemis 2 ready to fly around the moon (spacenews)
 - **Apr 10, 11:54 AM** - China’s Chang’e-7 arrives at spaceport for lunar south pole exploration mission (spacenews)
 - **Apr 10, 12:29 PM** - How and When to Watch NASA’s Artemis II Splash Down in Pacific Ocean (nyt)
+- **Apr 10, 01:04 PM** - NASA prepares for Artemis 2 return (spacenews)

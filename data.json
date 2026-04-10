@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-10T00:04:30.866589+00:00",
-    "trigger_count": 6,
-    "current_item_id": "92350bc953392144ecd444cde8b626e9",
+    "trigger_count": 0,
+    "current_item_id": "83e2816a8586f74abcc3cbbae72d46af",
     "data": [
         {
             "id": "c9d3b7a8ee542dd37846f98a80e43044",
@@ -7968,9 +7968,12 @@
             "source": "spacenews",
             "text": "NASA prepares for Artemis 2 return",
             "source_link": "https://spacenews.com/nasa-prepares-for-artemis-2-return/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-04-10T11:54:17.530042Z"
+            "fetched_datetime": "2026-04-10T11:54:17.530042Z",
+            "shown_at": [
+                "2026-04-10T13:04:47.642511Z"
+            ]
         },
         {
             "id": "92350bc953392144ecd444cde8b626e9",
