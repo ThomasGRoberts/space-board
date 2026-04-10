@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 16 | 23 | 44 |
-| nyt | 1 | 4 | 17 | 35 |
+| nyt | 1 | 4 | 18 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2463,3 +2463,4 @@
 - **Apr 10, 02:49 PM** - Artemis II Astronauts Will Set New Distance Record in Moon Flyby: What to Know (nyt)
 - **Apr 10, 03:24 PM** - GSOA and Novaspace Launch the Space Industry Forum (SIF) 2026 in Singapore (spacenews)
 - **Apr 10, 03:59 PM** - Commerce Department budget proposal revives concerns about TraCSS (spacenews)
+- **Apr 10, 04:34 PM** - Artemis II Pilot Test Drove the Orion Capsule on the Way to the Moon (nyt)
