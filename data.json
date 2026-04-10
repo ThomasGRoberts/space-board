@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-10T00:04:30.866589+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9919aa231f220defec457254a767c6c6",
+    "trigger_count": 0,
+    "current_item_id": "de480372fe95a1c8900c2dff3b324261",
     "data": [
         {
             "id": "c9d3b7a8ee542dd37846f98a80e43044",
@@ -8015,6 +8015,27 @@
             "shown_at": [
                 "2026-04-10T15:59:21.450877Z"
             ]
+        },
+        {
+            "id": "de480372fe95a1c8900c2dff3b324261",
+            "source": "spacenews",
+            "text": "HawkEye 360 files to go public",
+            "source_link": "https://spacenews.com/hawkeye-360-files-to-go-public/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-10T17:44:19.351123Z",
+            "shown_at": [
+                "2026-04-10T17:44:20.506401Z"
+            ]
+        },
+        {
+            "id": "dc6e3ec11f1da4e05b34ae6f65322a5e",
+            "source": "spacenews",
+            "text": "Spacety raises $190 million to scale satellite manufacturing, plans IPO",
+            "source_link": "https://spacenews.com/spacety-raises-190-million-to-scale-satellite-manufacturing-plans-ipo/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-10T17:44:19.351180Z"
         }
     ]
 }
