@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-10T00:04:30.866589+00:00",
-    "trigger_count": 6,
-    "current_item_id": "dc6e3ec11f1da4e05b34ae6f65322a5e",
+    "trigger_count": 0,
+    "current_item_id": "e020616ba58de19ff194b85b1af4cab6",
     "data": [
         {
             "id": "c9d3b7a8ee542dd37846f98a80e43044",
@@ -8050,6 +8050,18 @@
             "fetched_datetime": "2026-04-10T18:19:12.060345Z",
             "shown_at": [
                 "2026-04-10T18:19:13.073040Z"
+            ]
+        },
+        {
+            "id": "e020616ba58de19ff194b85b1af4cab6",
+            "source": "nyt",
+            "text": "NASA Artemis II Splashdown: Time, Live Stream and How to Watch Landing",
+            "source_link": "https://www.nytimes.com/2026/04/10/science/nasa-artemis-ii-splash-down-watch-time-stream.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-10T19:29:08.637459Z",
+            "shown_at": [
+                "2026-04-10T19:29:09.575651Z"
             ]
         }
     ]
