@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 18 | 22 | 45 |
+| spacenews | 9 | 20 | 23 | 46 |
 | nyt | 1 | 3 | 16 | 34 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2455,3 +2455,4 @@
 - **Apr 10, 10:09 AM** - Apex to develop larger satellites for missile defense, space-based computing (spacenews)
 - **Apr 10, 10:44 AM** - NASA’s Artemis II Astronauts Took iPhones Into Space (nyt)
 - **Apr 10, 11:19 AM** - Artemis 2 ready to fly around the moon (spacenews)
+- **Apr 10, 11:54 AM** - China’s Chang’e-7 arrives at spaceport for lunar south pole exploration mission (spacenews)
