@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 5 | 6 | 19 | 35 |
+| nyt | 5 | 6 | 20 | 36 |
 | spacenews | 8 | 15 | 22 | 44 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2415,3 +2415,4 @@
 - **Apr 11, 08:54 AM** - Artemis II Astronauts Head Home After Historic Journey Around the Moon (nyt)
 - **Apr 11, 09:29 AM** - Another Giant Leap Reminds Us How Small We Are (nyt)
 - **Apr 11, 10:04 AM** - A new kind of arsenal: commercial satellites (spacenews)
+- **Apr 11, 10:39 AM** - Artemis II Astronauts Get a Break After Journey Around the Moon (nyt)
