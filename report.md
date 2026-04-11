@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 6 | 19 | 35 |
-| spacenews | 6 | 16 | 22 | 44 |
+| spacenews | 6 | 16 | 22 | 45 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2398,3 +2398,4 @@
 - **Apr 10, 10:59 PM** - Trump Calls Artemis II Astronauts After Their Historic Journey Around the Moon (nyt)
 - **Apr 10, 11:34 PM** - Artemis 2 ready to fly around the moon (spacenews)
 - **Apr 11, 12:09 AM** - See First Photos From NASA’s Artemis II Moon Mission Capturing a Setting Earth and Eclipse (nyt)
+- **Apr 11, 12:44 AM** - Industry navigates NASA’s start-and-stop approach to commercial space stations (spacenews)
