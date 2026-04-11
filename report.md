@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 4 | 6 | 19 | 37 |
+| nyt | 4 | 6 | 20 | 38 |
 | spacenews | 6 | 13 | 22 | 44 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2421,3 +2421,4 @@
 - **Apr 11, 12:24 PM** - Artemis 2 science gets underway as Orion begins its return trip (spacenews)
 - **Apr 11, 12:59 PM** - Artemis II Astronauts Will Set New Distance Record in Moon Flyby: What to Know (nyt)
 - **Apr 11, 01:34 PM** - Moog Highlights Growing Satellite Bus Capabilities with Full‑Scale METEOR Reveal at Space Symposium (spacenews)
+- **Apr 11, 02:09 PM** - Artemis II Splashdown Gives NASA Momentum in Renewed Moon Race (nyt)
