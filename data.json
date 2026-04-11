@@ -1,9 +1,120 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-04-10T00:04:30.866589+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2026-04-11T00:04:29.803240+00:00",
+    "trigger_count": 6,
     "current_item_id": "e0abac67b82b4762568f7f32474af069",
     "data": [
+        {
+            "id": "e020616ba58de19ff194b85b1af4cab6",
+            "source": "nyt",
+            "text": "NASA Artemis II Splashdown: Time, Live Stream and How to Watch Landing",
+            "source_link": "https://www.nytimes.com/2026/04/10/science/nasa-artemis-ii-splash-down-watch-time-stream.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-10T19:29:08.637459Z",
+            "shown_at": [
+                "2026-04-10T19:29:09.575651Z"
+            ]
+        },
+        {
+            "id": "fd0715942610ef8e2464dd87bec3cc5a",
+            "source": "nyt",
+            "text": "See Photos From All 10 Days of NASA’s Artemis II Moon Mission",
+            "source_link": "https://www.nytimes.com/2026/04/10/science/nasa-artemis-ii-moon-mission-photos-earth-eclipse.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-10T18:19:12.060345Z",
+            "shown_at": [
+                "2026-04-10T18:19:13.073040Z",
+                "2026-04-10T21:49:16.985419Z"
+            ]
+        },
+        {
+            "id": "dc6e3ec11f1da4e05b34ae6f65322a5e",
+            "source": "spacenews",
+            "text": "Spacety raises $190 million to scale satellite manufacturing, plans IPO",
+            "source_link": "https://spacenews.com/spacety-raises-190-million-to-scale-satellite-manufacturing-plans-ipo/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-10T17:44:19.351180Z",
+            "shown_at": [
+                "2026-04-10T18:54:23.338264Z"
+            ]
+        },
+        {
+            "id": "de480372fe95a1c8900c2dff3b324261",
+            "source": "spacenews",
+            "text": "HawkEye 360 files to go public",
+            "source_link": "https://spacenews.com/hawkeye-360-files-to-go-public/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-10T17:44:19.351123Z",
+            "shown_at": [
+                "2026-04-10T17:44:20.506401Z"
+            ]
+        },
+        {
+            "id": "24ff062e20626458883b7dfb94166e9d",
+            "source": "spacenews",
+            "text": "Commerce Department budget proposal revives concerns about TraCSS",
+            "source_link": "https://spacenews.com/commerce-department-budget-proposal-revives-concerns-about-tracss/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-10T15:24:24.938459Z",
+            "shown_at": [
+                "2026-04-10T15:59:21.450877Z",
+                "2026-04-10T22:24:26.353446Z"
+            ]
+        },
+        {
+            "id": "9919aa231f220defec457254a767c6c6",
+            "source": "spacenews",
+            "text": "GSOA and Novaspace Launch the Space Industry Forum (SIF) 2026 in Singapore",
+            "source_link": "https://spacenews.com/gsoa-and-novaspace-launch-the-space-industry-forum-sif-2026-in-singapore/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-10T15:24:24.938356Z",
+            "shown_at": [
+                "2026-04-10T15:24:25.579756Z",
+                "2026-04-10T17:09:05.130129Z"
+            ]
+        },
+        {
+            "id": "92350bc953392144ecd444cde8b626e9",
+            "source": "nyt",
+            "text": "How and When to Watch NASA’s Artemis II Splash Down in Pacific Ocean",
+            "source_link": "https://www.nytimes.com/2026/04/10/science/nasa-artemis-ii-splash-down-watch-time-stream.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-10T12:29:26.793890Z",
+            "shown_at": [
+                "2026-04-10T12:29:28.015821Z"
+            ]
+        },
+        {
+            "id": "83e2816a8586f74abcc3cbbae72d46af",
+            "source": "spacenews",
+            "text": "NASA prepares for Artemis 2 return",
+            "source_link": "https://spacenews.com/nasa-prepares-for-artemis-2-return/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-10T11:54:17.530042Z",
+            "shown_at": [
+                "2026-04-10T13:04:47.642511Z"
+            ]
+        },
+        {
+            "id": "d3fa115d9c51aeaa118e419b25939de8",
+            "source": "spacenews",
+            "text": "China’s Chang’e-7 arrives at spaceport for lunar south pole exploration mission",
+            "source_link": "https://spacenews.com/chinas-change-7-arrives-at-spaceport-for-lunar-south-pole-exploration-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-10T11:54:17.529985Z",
+            "shown_at": [
+                "2026-04-10T11:54:18.364584Z"
+            ]
+        },
         {
             "id": "c9d3b7a8ee542dd37846f98a80e43044",
             "source": "spacenews",
@@ -7780,295 +7891,6 @@
                 "2026-02-06T10:29:16.755600Z",
                 "2026-02-06T15:44:32.989035Z",
                 "2026-02-08T01:24:16.620323Z"
-            ]
-        },
-        {
-            "id": "0032a4f4e6575debe9de9c3c420cefd5",
-            "source": "spacenews",
-            "text": "Tomorrow.io banks $175 million for DeepSky weather constellation",
-            "source_link": "https://spacenews.com/tomorrow-io-banks-175-million-for-deepsky-weather-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-06T04:34:29.593984Z",
-            "shown_at": [
-                "2026-02-06T04:34:30.393356Z",
-                "2026-02-11T08:44:18.403437Z",
-                "2026-02-13T03:19:07.313949Z"
-            ]
-        },
-        {
-            "id": "5d003e3b208ae2f4ef0c93d2594cbaa2",
-            "source": "spacenews",
-            "text": "FAA approves Starship launches from LC-39A",
-            "source_link": "https://spacenews.com/faa-approves-starship-launches-from-lc-39a/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-06T00:24:14.804886Z",
-            "shown_at": [
-                "2026-02-06T01:04:39.557396Z",
-                "2026-02-08T18:58:54.973574Z",
-                "2026-02-10T08:09:27.039595Z"
-            ]
-        },
-        {
-            "id": "8c9c92070f2b730b1d6062ff4c6f48bd",
-            "source": "spacenews",
-            "text": "Pentagon casts Golden Dome as model for faster, risk-tolerant defense buying",
-            "source_link": "https://spacenews.com/pentagon-casts-golden-dome-as-model-for-faster-risk-tolerant-defense-buying/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-06T00:24:14.804809Z",
-            "shown_at": [
-                "2026-02-06T00:24:15.735943Z",
-                "2026-02-08T10:14:23.636258Z",
-                "2026-02-11T02:19:15.433971Z"
-            ]
-        },
-        {
-            "id": "5bab346cfd14399efdcd4e1534e4113a",
-            "source": "nyt",
-            "text": "At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops",
-            "source_link": "https://www.nytimes.com/2026/02/05/world/europe/starlink-blocks-russian-troops-access.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-05T23:49:02.403160Z",
-            "shown_at": [
-                "2026-02-05T23:49:03.777792Z",
-                "2026-02-06T03:59:02.657794Z",
-                "2026-02-07T09:59:05.326566Z",
-                "2026-02-07T11:44:10.914938Z",
-                "2026-02-07T15:19:05.371915Z",
-                "2026-02-07T20:39:05.361703Z",
-                "2026-02-08T07:54:12.964687Z",
-                "2026-02-08T23:49:51.115774Z",
-                "2026-02-09T03:24:43.517157Z",
-                "2026-02-09T05:09:21.079313Z",
-                "2026-02-09T08:49:07.141788Z",
-                "2026-02-09T14:59:20.043667Z",
-                "2026-02-09T17:29:16.065026Z",
-                "2026-02-09T19:39:12.251744Z",
-                "2026-02-09T21:34:24.305442Z",
-                "2026-02-10T01:44:17.290773Z",
-                "2026-02-10T05:14:28.852895Z",
-                "2026-02-10T06:59:04.672701Z",
-                "2026-02-10T14:34:35.272394Z",
-                "2026-02-11T09:54:23.308961Z",
-                "2026-02-11T11:39:02.794302Z",
-                "2026-02-11T18:39:01.873619Z",
-                "2026-02-11T22:09:20.083149Z",
-                "2026-02-12T00:29:38.453026Z",
-                "2026-02-12T06:19:25.606267Z",
-                "2026-02-12T09:49:13.045053Z",
-                "2026-02-12T11:34:23.178305Z",
-                "2026-02-12T19:09:30.658954Z"
-            ]
-        },
-        {
-            "id": "3b212010b055111201f3ac6d7ddfafe6",
-            "source": "breaking_defense",
-            "text": "To overcome Golden Dome ‘affordability’ hurdle, DoD needs acquisition reform, AI: Official",
-            "source_link": "https://breakingdefense.com/2026/02/to-overcome-golden-dome-affordability-hurdle-dod-needs-acquisition-reform-ai-official/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-05T21:29:15.918928Z",
-            "shown_at": [
-                "2026-02-05T21:29:17.126465Z",
-                "2026-02-06T05:09:04.422849Z",
-                "2026-02-06T08:44:12.587941Z",
-                "2026-02-06T12:49:10.048299Z",
-                "2026-02-06T14:34:29.833780Z",
-                "2026-02-06T23:24:42.556320Z",
-                "2026-02-07T01:44:08.433193Z",
-                "2026-02-07T05:19:10.227917Z",
-                "2026-02-07T07:04:34.298669Z",
-                "2026-02-07T12:18:58.133554Z",
-                "2026-02-07T16:34:31.811170Z",
-                "2026-02-08T07:19:16.759766Z",
-                "2026-02-08T09:04:42.806812Z",
-                "2026-02-08T10:49:08.690703Z",
-                "2026-02-08T14:19:04.073378Z",
-                "2026-02-08T16:04:43.136264Z",
-                "2026-02-08T21:24:03.351845Z",
-                "2026-02-09T02:49:35.504859Z",
-                "2026-02-09T06:24:13.644800Z",
-                "2026-02-09T08:14:25.381628Z",
-                "2026-02-09T10:09:17.158599Z",
-                "2026-02-09T12:04:50.175749Z",
-                "2026-02-09T13:49:10.188646Z",
-                "2026-02-09T18:04:28.845446Z",
-                "2026-02-10T02:18:59.040159Z",
-                "2026-02-10T15:49:32.117423Z",
-                "2026-02-11T09:19:20.648364Z",
-                "2026-02-11T11:04:38.163769Z",
-                "2026-02-11T21:34:29.917285Z",
-                "2026-02-12T05:44:10.314644Z",
-                "2026-02-12T07:29:05.133476Z",
-                "2026-02-12T09:14:18.207406Z",
-                "2026-02-12T13:19:20.731601Z",
-                "2026-02-12T18:35:01.364479Z"
-            ]
-        },
-        {
-            "id": "22987848fb303a69d23b1768f015ce59",
-            "source": "spacenews",
-            "text": "Deep space, dim objects: Why asteroid mining caught the Space Force’s eye",
-            "source_link": "https://spacenews.com/deep-space-and-dim-objects-why-the-space-force-cares-about-asteroids/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-05T15:24:13.090908Z",
-            "shown_at": [
-                "2026-02-05T15:24:14.346101Z"
-            ]
-        },
-        {
-            "id": "5324ba79b71047460990538702c19f1a",
-            "source": "spacenews",
-            "text": "Satellite servicing startup Starfish taps Quindar for mission operations software",
-            "source_link": "https://spacenews.com/satellite-servicing-startup-starfish-taps-quindar-for-mission-operations-software/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-05T14:49:33.132852Z",
-            "shown_at": [
-                "2026-02-05T14:49:34.283100Z",
-                "2026-02-10T01:05:10.745102Z"
-            ]
-        },
-        {
-            "id": "2f3abb024abcc1128a28874ee6cb9017",
-            "source": "spacenews",
-            "text": "Voyager Technologies and Max Space partner on lunar infrastructure",
-            "source_link": "https://spacenews.com/voyager-technologies-and-max-space-partner-on-lunar-infrastructure/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-05T14:14:21.137598Z",
-            "shown_at": [
-                "2026-02-05T14:14:22.198872Z",
-                "2026-02-07T04:04:51.723119Z",
-                "2026-02-07T14:44:05.793340Z"
-            ]
-        },
-        {
-            "id": "88e0cbc1e8743ab1ce2aa2a7470e187b",
-            "source": "spacenews",
-            "text": "FCC clears Logos to deploy more than 4,000 broadband satellites",
-            "source_link": "https://spacenews.com/fcc-clears-logos-to-deploy-more-than-4000-broadband-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-05T13:39:07.657200Z",
-            "shown_at": [
-                "2026-02-05T13:39:08.813690Z",
-                "2026-02-07T22:59:09.441073Z"
-            ]
-        },
-        {
-            "id": "d3fa115d9c51aeaa118e419b25939de8",
-            "source": "spacenews",
-            "text": "China’s Chang’e-7 arrives at spaceport for lunar south pole exploration mission",
-            "source_link": "https://spacenews.com/chinas-change-7-arrives-at-spaceport-for-lunar-south-pole-exploration-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-10T11:54:17.529985Z",
-            "shown_at": [
-                "2026-04-10T11:54:18.364584Z"
-            ]
-        },
-        {
-            "id": "83e2816a8586f74abcc3cbbae72d46af",
-            "source": "spacenews",
-            "text": "NASA prepares for Artemis 2 return",
-            "source_link": "https://spacenews.com/nasa-prepares-for-artemis-2-return/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-10T11:54:17.530042Z",
-            "shown_at": [
-                "2026-04-10T13:04:47.642511Z"
-            ]
-        },
-        {
-            "id": "92350bc953392144ecd444cde8b626e9",
-            "source": "nyt",
-            "text": "How and When to Watch NASA’s Artemis II Splash Down in Pacific Ocean",
-            "source_link": "https://www.nytimes.com/2026/04/10/science/nasa-artemis-ii-splash-down-watch-time-stream.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-10T12:29:26.793890Z",
-            "shown_at": [
-                "2026-04-10T12:29:28.015821Z"
-            ]
-        },
-        {
-            "id": "9919aa231f220defec457254a767c6c6",
-            "source": "spacenews",
-            "text": "GSOA and Novaspace Launch the Space Industry Forum (SIF) 2026 in Singapore",
-            "source_link": "https://spacenews.com/gsoa-and-novaspace-launch-the-space-industry-forum-sif-2026-in-singapore/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-10T15:24:24.938356Z",
-            "shown_at": [
-                "2026-04-10T15:24:25.579756Z",
-                "2026-04-10T17:09:05.130129Z"
-            ]
-        },
-        {
-            "id": "24ff062e20626458883b7dfb94166e9d",
-            "source": "spacenews",
-            "text": "Commerce Department budget proposal revives concerns about TraCSS",
-            "source_link": "https://spacenews.com/commerce-department-budget-proposal-revives-concerns-about-tracss/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-10T15:24:24.938459Z",
-            "shown_at": [
-                "2026-04-10T15:59:21.450877Z",
-                "2026-04-10T22:24:26.353446Z"
-            ]
-        },
-        {
-            "id": "de480372fe95a1c8900c2dff3b324261",
-            "source": "spacenews",
-            "text": "HawkEye 360 files to go public",
-            "source_link": "https://spacenews.com/hawkeye-360-files-to-go-public/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-10T17:44:19.351123Z",
-            "shown_at": [
-                "2026-04-10T17:44:20.506401Z"
-            ]
-        },
-        {
-            "id": "dc6e3ec11f1da4e05b34ae6f65322a5e",
-            "source": "spacenews",
-            "text": "Spacety raises $190 million to scale satellite manufacturing, plans IPO",
-            "source_link": "https://spacenews.com/spacety-raises-190-million-to-scale-satellite-manufacturing-plans-ipo/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-10T17:44:19.351180Z",
-            "shown_at": [
-                "2026-04-10T18:54:23.338264Z"
-            ]
-        },
-        {
-            "id": "fd0715942610ef8e2464dd87bec3cc5a",
-            "source": "nyt",
-            "text": "See Photos From All 10 Days of NASA’s Artemis II Moon Mission",
-            "source_link": "https://www.nytimes.com/2026/04/10/science/nasa-artemis-ii-moon-mission-photos-earth-eclipse.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-10T18:19:12.060345Z",
-            "shown_at": [
-                "2026-04-10T18:19:13.073040Z",
-                "2026-04-10T21:49:16.985419Z"
-            ]
-        },
-        {
-            "id": "e020616ba58de19ff194b85b1af4cab6",
-            "source": "nyt",
-            "text": "NASA Artemis II Splashdown: Time, Live Stream and How to Watch Landing",
-            "source_link": "https://www.nytimes.com/2026/04/10/science/nasa-artemis-ii-splash-down-watch-time-stream.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-10T19:29:08.637459Z",
-            "shown_at": [
-                "2026-04-10T19:29:09.575651Z"
             ]
         }
     ]
