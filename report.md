@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 4 | 5 | 20 | 37 |
-| spacenews | 4 | 13 | 21 | 44 |
+| spacenews | 4 | 13 | 22 | 45 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2424,3 +2424,4 @@
 - **Apr 11, 02:09 PM** - Artemis II Splashdown Gives NASA Momentum in Renewed Moon Race (nyt)
 - **Apr 11, 02:44 PM** - NASA’s new moon base project requires operational technology systems in space, but they are vulnerable. (spacenews)
 - **Apr 11, 03:19 PM** - Artemis II Moon Flyby: Crew, Timeline and What to Know (nyt)
+- **Apr 11, 03:54 PM** - Artemis 2 ready to fly around the moon (spacenews)
