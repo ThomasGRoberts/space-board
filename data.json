@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-11T00:04:29.803240+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1c746c13c7620961cda9608d6e1a2b09",
+    "trigger_count": 0,
+    "current_item_id": "4bf0741ab3d97cd60d57b3a5069f601e",
     "data": [
         {
             "id": "e020616ba58de19ff194b85b1af4cab6",
@@ -7912,9 +7912,12 @@
             "source": "spacenews",
             "text": "Orion splashes down to successfully end Artemis 2 mission",
             "source_link": "https://spacenews.com/orion-splashes-down-to-successfully-end-artemis-2-mission/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-04-11T01:19:04.429072Z"
+            "fetched_datetime": "2026-04-11T01:19:04.429072Z",
+            "shown_at": [
+                "2026-04-11T01:54:18.625971Z"
+            ]
         }
     ]
 }
