@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 4 | 5 | 19 | 37 |
+| nyt | 4 | 5 | 20 | 38 |
 | spacenews | 5 | 10 | 22 | 44 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2426,3 +2426,4 @@
 - **Apr 11, 03:19 PM** - Artemis II Moon Flyby: Crew, Timeline and What to Know (nyt)
 - **Apr 11, 03:54 PM** - Artemis 2 ready to fly around the moon (spacenews)
 - **Apr 11, 04:29 PM** - Falcon 9 launches Cygnus cargo spacecraft to the ISS (spacenews)
+- **Apr 11, 05:04 PM** - Artemis II Astronauts Will Set New Distance Record in Moon Flyby: What to Know (nyt)
