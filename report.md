@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 5 | 20 | 39 |
-| spacenews | 3 | 10 | 21 | 43 |
+| spacenews | 3 | 9 | 22 | 43 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2429,3 +2429,4 @@
 - **Apr 11, 05:04 PM** - Artemis II Astronauts Will Set New Distance Record in Moon Flyby: What to Know (nyt)
 - **Apr 11, 05:39 PM** - Inspection cubesat demo planned as first step toward orbital defense mothership (spacenews)
 - **Apr 11, 06:14 PM** - Where Are NASA’s Artemis II Astronauts Now? Closer to the Moon Than Earth. (nyt)
+- **Apr 11, 06:54 PM** - Preparing for the next NASA budget battle (spacenews)
