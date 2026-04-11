@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 4 | 5 | 20 | 38 |
-| spacenews | 5 | 10 | 21 | 44 |
+| spacenews | 5 | 10 | 22 | 44 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2427,3 +2427,4 @@
 - **Apr 11, 03:54 PM** - Artemis 2 ready to fly around the moon (spacenews)
 - **Apr 11, 04:29 PM** - Falcon 9 launches Cygnus cargo spacecraft to the ISS (spacenews)
 - **Apr 11, 05:04 PM** - Artemis II Astronauts Will Set New Distance Record in Moon Flyby: What to Know (nyt)
+- **Apr 11, 05:39 PM** - Inspection cubesat demo planned as first step toward orbital defense mothership (spacenews)
