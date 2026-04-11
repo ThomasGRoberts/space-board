@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 6 | 19 | 35 |
-| spacenews | 6 | 16 | 22 | 44 |
+| nyt | 3 | 6 | 18 | 35 |
+| spacenews | 8 | 18 | 23 | 45 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2399,3 +2399,4 @@
 - **Apr 10, 11:34 PM** - Artemis 2 ready to fly around the moon (spacenews)
 - **Apr 11, 12:09 AM** - See First Photos From NASA’s Artemis II Moon Mission Capturing a Setting Earth and Eclipse (nyt)
 - **Apr 11, 12:44 AM** - Industry navigates NASA’s start-and-stop approach to commercial space stations (spacenews)
+- **Apr 11, 01:19 AM** - Moog Technology Keeps Artemis II Astronauts Safe During Historic Lunar Mission (spacenews)
