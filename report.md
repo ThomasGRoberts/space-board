@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 4 | 7 | 19 | 35 |
-| spacenews | 8 | 18 | 22 | 44 |
+| spacenews | 8 | 18 | 23 | 45 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2409,3 +2409,4 @@
 - **Apr 11, 05:24 AM** - Artemis II Splashdown Gives NASA Momentum in Renewed Moon Race (nyt)
 - **Apr 11, 05:59 AM** - HawkEye 360 files to go public (spacenews)
 - **Apr 11, 06:34 AM** - The first earthlings to the moon weren’t humans. They were tortoises. (nyt)
+- **Apr 11, 07:09 AM** - Lockheed Martin wins $105 million contract for GPS ground control system as OCX winds down (spacenews)
