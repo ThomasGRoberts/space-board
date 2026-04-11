@@ -2436,3 +2436,4 @@
 - **Apr 11, 09:14 PM** - Apex to develop larger satellites for missile defense, space-based computing (spacenews)
 - **Apr 11, 09:49 PM** - NASA’s Artemis II Astronauts Spread ‘Moon Joy’ to the Public (nyt)
 - **Apr 11, 10:24 PM** - Capella Space wins $49 million contract for military communications satellite demo (spacenews)
+- **Apr 11, 10:59 PM** - NASA Prepares for Artemis II Splashdown After Historic Moon Flyby (nyt)
