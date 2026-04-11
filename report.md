@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 6 | 19 | 35 |
+| nyt | 3 | 6 | 19 | 36 |
 | spacenews | 6 | 16 | 22 | 44 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2397,3 +2397,4 @@
 - **Apr 10, 10:24 PM** - Commerce Department budget proposal revives concerns about TraCSS (spacenews)
 - **Apr 10, 10:59 PM** - Trump Calls Artemis II Astronauts After Their Historic Journey Around the Moon (nyt)
 - **Apr 10, 11:34 PM** - Artemis 2 ready to fly around the moon (spacenews)
+- **Apr 11, 12:09 AM** - See First Photos From NASA’s Artemis II Moon Mission Capturing a Setting Earth and Eclipse (nyt)
