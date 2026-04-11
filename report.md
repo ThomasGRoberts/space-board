@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 6 | 18 | 34 |
+| nyt | 3 | 6 | 18 | 35 |
 | spacenews | 8 | 18 | 23 | 45 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2403,3 +2403,4 @@
 - **Apr 11, 01:54 AM** - Orion splashes down to successfully end Artemis 2 mission (spacenews)
 - **Apr 11, 02:29 AM** - Artemis II Astronauts Will Set New Distance Record in Moon Flyby: What to Know (nyt)
 - **Apr 11, 03:04 AM** - NASA prepares for Artemis 2 return (spacenews)
+- **Apr 11, 03:39 AM** - Where Are NASA’s Artemis II Astronauts Now? Closer to the Moon Than Earth. (nyt)
