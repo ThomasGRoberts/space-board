@@ -2432,3 +2432,4 @@
 - **Apr 11, 06:54 PM** - Preparing for the next NASA budget battle (spacenews)
 - **Apr 11, 07:29 PM** - See First Photos From NASA’s Artemis II Moon Mission Capturing a Setting Earth and Eclipse (nyt)
 - **Apr 11, 08:04 PM** - Moog Highlights Growing Satellite Bus Capabilities with Full‑Scale METEOR Reveal at Space Symposium (spacenews)
+- **Apr 11, 08:39 PM** - Exploring the Far Side of the Moon (nyt)
