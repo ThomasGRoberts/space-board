@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 6 | 18 | 34 |
+| nyt | 3 | 6 | 18 | 35 |
 | spacenews | 8 | 18 | 23 | 45 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2401,3 +2401,4 @@
 - **Apr 11, 12:44 AM** - Industry navigates NASA’s start-and-stop approach to commercial space stations (spacenews)
 - **Apr 11, 01:19 AM** - Moog Technology Keeps Artemis II Astronauts Safe During Historic Lunar Mission (spacenews)
 - **Apr 11, 01:54 AM** - Orion splashes down to successfully end Artemis 2 mission (spacenews)
+- **Apr 11, 02:29 AM** - Artemis II Astronauts Will Set New Distance Record in Moon Flyby: What to Know (nyt)
