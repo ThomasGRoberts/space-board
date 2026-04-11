@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 6 | 19 | 35 |
-| spacenews | 8 | 17 | 22 | 44 |
+| spacenews | 8 | 17 | 23 | 45 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2414,3 +2414,4 @@
 - **Apr 11, 08:19 AM** - Space Force budget would more than double in Trump’s $1.5 trillion defense plan (spacenews)
 - **Apr 11, 08:54 AM** - Artemis II Astronauts Head Home After Historic Journey Around the Moon (nyt)
 - **Apr 11, 09:29 AM** - Another Giant Leap Reminds Us How Small We Are (nyt)
+- **Apr 11, 10:04 AM** - A new kind of arsenal: commercial satellites (spacenews)
