@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 4 | 6 | 20 | 37 |
-| spacenews | 6 | 13 | 21 | 43 |
+| spacenews | 6 | 13 | 22 | 44 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2420,3 +2420,4 @@
 - **Apr 11, 11:49 AM** - See Photos From All 10 Days of NASA’s Artemis II Moon Mission (nyt)
 - **Apr 11, 12:24 PM** - Artemis 2 science gets underway as Orion begins its return trip (spacenews)
 - **Apr 11, 12:59 PM** - Artemis II Astronauts Will Set New Distance Record in Moon Flyby: What to Know (nyt)
+- **Apr 11, 01:34 PM** - Moog Highlights Growing Satellite Bus Capabilities with Full‑Scale METEOR Reveal at Space Symposium (spacenews)
