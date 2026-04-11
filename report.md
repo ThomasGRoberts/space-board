@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 5 | 6 | 19 | 35 |
+| nyt | 5 | 6 | 20 | 36 |
 | spacenews | 8 | 15 | 22 | 44 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2417,3 +2417,4 @@
 - **Apr 11, 10:04 AM** - A new kind of arsenal: commercial satellites (spacenews)
 - **Apr 11, 10:39 AM** - Artemis II Astronauts Get a Break After Journey Around the Moon (nyt)
 - **Apr 11, 11:14 AM** - HawkEye 360 files to go public (spacenews)
+- **Apr 11, 11:49 AM** - See Photos From All 10 Days of NASA’s Artemis II Moon Mission (nyt)
