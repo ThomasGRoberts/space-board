@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 4 | 5 | 20 | 37 |
-| spacenews | 4 | 9 | 21 | 44 |
+| spacenews | 5 | 10 | 22 | 45 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2425,3 +2425,4 @@
 - **Apr 11, 02:44 PM** - NASA’s new moon base project requires operational technology systems in space, but they are vulnerable. (spacenews)
 - **Apr 11, 03:19 PM** - Artemis II Moon Flyby: Crew, Timeline and What to Know (nyt)
 - **Apr 11, 03:54 PM** - Artemis 2 ready to fly around the moon (spacenews)
+- **Apr 11, 04:29 PM** - Falcon 9 launches Cygnus cargo spacecraft to the ISS (spacenews)
