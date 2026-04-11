@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-11T00:04:29.803240+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a37e1cb8ca448474cb63c974719fce25",
+    "trigger_count": 0,
+    "current_item_id": "78108ff0d36f5c2abee19f11aef800cd",
     "data": [
         {
             "id": "e020616ba58de19ff194b85b1af4cab6",
@@ -7922,6 +7922,18 @@
             "fetched_datetime": "2026-04-11T01:19:04.429072Z",
             "shown_at": [
                 "2026-04-11T01:54:18.625971Z"
+            ]
+        },
+        {
+            "id": "78108ff0d36f5c2abee19f11aef800cd",
+            "source": "nyt",
+            "text": "Artemis II Splashdown Gives NASA Momentum in Renewed Moon Race",
+            "source_link": "https://www.nytimes.com/2026/04/10/science/moon-astronauts-success.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-11T05:24:24.077807Z",
+            "shown_at": [
+                "2026-04-11T05:24:25.031199Z"
             ]
         }
     ]
