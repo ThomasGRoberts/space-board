@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 4 | 7 | 19 | 35 |
+| nyt | 5 | 8 | 20 | 36 |
 | spacenews | 8 | 17 | 22 | 44 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2413,3 +2413,4 @@
 - **Apr 11, 07:44 AM** - Where Are NASA’s Artemis II Astronauts Now? Closer to the Moon Than Earth. (nyt)
 - **Apr 11, 08:19 AM** - Space Force budget would more than double in Trump’s $1.5 trillion defense plan (spacenews)
 - **Apr 11, 08:54 AM** - Artemis II Astronauts Head Home After Historic Journey Around the Moon (nyt)
+- **Apr 11, 09:29 AM** - Another Giant Leap Reminds Us How Small We Are (nyt)
