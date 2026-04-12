@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 5 | 20 | 40 |
-| spacenews | 2 | 8 | 20 | 42 |
+| spacenews | 2 | 8 | 21 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2446,3 +2446,4 @@
 - **Apr 12, 12:34 PM** - Trump Calls Artemis II Astronauts After Their Historic Journey Around the Moon (nyt)
 - **Apr 12, 01:09 PM** - Apex to develop larger satellites for missile defense, space-based computing (spacenews)
 - **Apr 12, 01:44 PM** - Here’s What Food the Artemis II Astronauts Will Eat in Space (nyt)
+- **Apr 12, 02:19 PM** - April 30: Opportunities for On-Orbit Computing (spacenews)
