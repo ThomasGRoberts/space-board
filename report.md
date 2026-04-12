@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 6 | 21 | 39 |
-| spacenews | 3 | 9 | 20 | 42 |
+| spacenews | 3 | 9 | 21 | 43 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2422,3 +2422,4 @@
 - **Apr 11, 10:24 PM** - Capella Space wins $49 million contract for military communications satellite demo (spacenews)
 - **Apr 11, 10:59 PM** - NASA Prepares for Artemis II Splashdown After Historic Moon Flyby (nyt)
 - **Apr 11, 11:34 PM** - NASA’s Artemis II Astronauts Reunite With Friends and Family After 10-Day Moon Mission (nyt)
+- **Apr 12, 12:09 AM** - Space Sovereignty Is No Longer Optional (spacenews)
