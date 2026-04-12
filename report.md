@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 6 | 22 | 39 |
-| spacenews | 1 | 9 | 19 | 42 |
+| nyt | 3 | 6 | 21 | 39 |
+| spacenews | 1 | 9 | 20 | 43 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2430,3 +2430,4 @@
 - **Apr 12, 03:09 AM** - Artemis II Astronauts Set New Distance Record in Moon Flyby: What to Know (nyt)
 - **Apr 12, 03:44 AM** - Industry navigates NASA’s start-and-stop approach to commercial space stations (spacenews)
 - **Apr 12, 04:19 AM** - Trump Calls Artemis II Astronauts After Their Historic Journey Around the Moon (nyt)
+- **Apr 12, 04:54 AM** - Space security moves to forefront as threats to satellites spread (spacenews)
