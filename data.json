@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-12T00:04:38.957460+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ce9799cea652ce7af521069040e268a0",
+    "trigger_count": 0,
+    "current_item_id": "d4537254c8e77c77c696fc374867ac4b",
     "data": [
         {
             "id": "3a92ac0df5fec901f39d9df938e022c1",
@@ -7936,6 +7936,18 @@
                 "2026-02-08T15:29:04.844322Z",
                 "2026-02-09T11:29:19.124807Z",
                 "2026-02-10T04:39:23.384227Z"
+            ]
+        },
+        {
+            "id": "d4537254c8e77c77c696fc374867ac4b",
+            "source": "spacenews",
+            "text": "Rocket Lab wins contract for three more iQPS launches",
+            "source_link": "https://spacenews.com/rocket-lab-wins-contract-for-three-more-iqps-launches/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-12T11:59:17.193941Z",
+            "shown_at": [
+                "2026-04-12T11:59:18.069103Z"
             ]
         }
     ]
