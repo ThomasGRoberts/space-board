@@ -2454,3 +2454,4 @@
 - **Apr 12, 05:14 PM** - The first earthlings to the moon weren’t humans. They were tortoises. (nyt)
 - **Apr 12, 05:49 PM** - Space Force taps 14 firms for $1.8 billion GEO surveillance program (spacenews)
 - **Apr 12, 06:24 PM** - The first earthlings to the moon weren’t humans. They were tortoises. (nyt)
+- **Apr 12, 06:59 PM** - NASA prepares for Artemis 2 return (spacenews)
