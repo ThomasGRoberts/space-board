@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 3 | 21 | 41 |
-| spacenews | 1 | 4 | 19 | 40 |
+| spacenews | 1 | 4 | 20 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2460,3 +2460,4 @@
 - **Apr 12, 08:44 PM** - NASA’s Artemis II Astronauts Spread ‘Moon Joy’ to the Public (nyt)
 - **Apr 12, 09:19 PM** - The moon base has a hardware plan. It needs a software strategy, too. (spacenews)
 - **Apr 12, 09:54 PM** - The first earthlings to the moon weren’t humans. They were tortoises. (nyt)
+- **Apr 12, 10:34 PM** - Seagate Space Signs MOU with Firefly Aerospace to Collaborate on Offshore Launch Infrastructure for Alpha (spacenews)
