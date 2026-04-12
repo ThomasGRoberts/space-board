@@ -1,9 +1,82 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-04-11T00:04:29.803240+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2026-04-12T00:04:38.957460+00:00",
+    "trigger_count": 6,
     "current_item_id": "3a92ac0df5fec901f39d9df938e022c1",
     "data": [
+        {
+            "id": "3a92ac0df5fec901f39d9df938e022c1",
+            "source": "nyt",
+            "text": "NASA’s Artemis II Astronauts Reunite With Friends and Family After 10-Day Moon Mission",
+            "source_link": "https://www.nytimes.com/2026/04/11/science/nasa-artemis-moon-astronauts-houston.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-11T23:34:36.850043Z",
+            "shown_at": [
+                "2026-04-11T23:34:37.883471Z"
+            ]
+        },
+        {
+            "id": "f3406dbf0f8c42a61dda540eb0a9cc1f",
+            "source": "spacenews",
+            "text": "Falcon 9 launches Cygnus cargo spacecraft to the ISS",
+            "source_link": "https://spacenews.com/falcon-9-launches-cygnus-cargo-spacecraft-to-the-iss/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-11T16:29:07.156500Z",
+            "shown_at": [
+                "2026-04-11T16:29:08.222613Z"
+            ]
+        },
+        {
+            "id": "ddf4f8c16922f948cb29c131a3cac762",
+            "source": "nyt",
+            "text": "Another Giant Leap Reminds Us How Small We Are",
+            "source_link": "https://www.nytimes.com/2026/04/11/us/artemis-landing-splashdown-moon.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-11T09:29:12.332523Z",
+            "shown_at": [
+                "2026-04-11T09:29:12.965090Z"
+            ]
+        },
+        {
+            "id": "78108ff0d36f5c2abee19f11aef800cd",
+            "source": "nyt",
+            "text": "Artemis II Splashdown Gives NASA Momentum in Renewed Moon Race",
+            "source_link": "https://www.nytimes.com/2026/04/10/science/moon-astronauts-success.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-11T05:24:24.077807Z",
+            "shown_at": [
+                "2026-04-11T05:24:25.031199Z",
+                "2026-04-11T14:09:13.472922Z"
+            ]
+        },
+        {
+            "id": "4bf0741ab3d97cd60d57b3a5069f601e",
+            "source": "spacenews",
+            "text": "Orion splashes down to successfully end Artemis 2 mission",
+            "source_link": "https://spacenews.com/orion-splashes-down-to-successfully-end-artemis-2-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-11T01:19:04.429072Z",
+            "shown_at": [
+                "2026-04-11T01:54:18.625971Z"
+            ]
+        },
+        {
+            "id": "1c746c13c7620961cda9608d6e1a2b09",
+            "source": "spacenews",
+            "text": "Moog Technology Keeps Artemis II Astronauts Safe During Historic Lunar Mission",
+            "source_link": "https://spacenews.com/moog-technology-keeps-artemis-ii-astronauts-safe-during-historic-lunar-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-11T01:19:04.429003Z",
+            "shown_at": [
+                "2026-04-11T01:19:05.383109Z"
+            ]
+        },
         {
             "id": "e020616ba58de19ff194b85b1af4cab6",
             "source": "nyt",
@@ -7843,161 +7916,6 @@
                 "2026-02-08T15:29:04.844322Z",
                 "2026-02-09T11:29:19.124807Z",
                 "2026-02-10T04:39:23.384227Z"
-            ]
-        },
-        {
-            "id": "d54d386b6f85d3274c4f5e6ad251d9d1",
-            "source": "spacenews",
-            "text": "‘Leaders can be replaced, institutional knowledge cannot’",
-            "source_link": "https://spacenews.com/leaders-can-be-replaced-institutional-knowledge-cannot/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-06T16:54:07.918956Z",
-            "shown_at": [
-                "2026-02-06T18:04:32.685495Z",
-                "2026-02-09T03:59:06.897893Z",
-                "2026-02-09T07:34:21.789028Z",
-                "2026-02-10T02:54:14.493842Z",
-                "2026-02-12T17:24:08.071802Z"
-            ]
-        },
-        {
-            "id": "8f9697d23be3e928aeaae376cddea0c0",
-            "source": "spacenews",
-            "text": "‘As far as I know, I’m still the assistant administrator of NESDIS.’",
-            "source_link": "https://spacenews.com/as-far-as-i-know-im-still-the-assistant-administrator-of-nesdis/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-06T16:54:07.918912Z",
-            "shown_at": [
-                "2026-02-06T17:29:18.374410Z"
-            ]
-        },
-        {
-            "id": "edd21d6432a60470877afca19bb04a45",
-            "source": "spacenews",
-            "text": "‘People knew that they could come to us to figure out how to get things done.’",
-            "source_link": "https://spacenews.com/people-knew-that-they-could-come-to-us-to-figure-out-how-to-get-things-done/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-06T16:54:07.918850Z",
-            "shown_at": [
-                "2026-02-06T16:54:09.143676Z"
-            ]
-        },
-        {
-            "id": "4e5c5c8428213f975bb4f25b7dfe31fa",
-            "source": "spacenews",
-            "text": "NASA selects two Earth science missions for development",
-            "source_link": "https://spacenews.com/nasa-selects-two-earth-science-missions-for-development/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-06T13:59:09.220997Z",
-            "shown_at": [
-                "2026-02-06T13:59:10.313195Z",
-                "2026-02-07T19:29:13.373396Z",
-                "2026-02-10T13:24:24.534288Z",
-                "2026-02-11T06:59:12.733931Z",
-                "2026-02-12T06:54:04.972822Z"
-            ]
-        },
-        {
-            "id": "c4005a9ad57f73f6e69267562a8bf19d",
-            "source": "spacenews",
-            "text": "Over the moon and under the radar",
-            "source_link": "https://spacenews.com/over-the-moon-and-under-the-radar/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-06T12:14:14.379561Z",
-            "shown_at": [
-                "2026-02-06T12:14:15.498537Z"
-            ]
-        },
-        {
-            "id": "485a5e8fa322d717601e1001eb5cf1fc",
-            "source": "spacenews",
-            "text": "China set for in-flight abort test of Mengzhou crew spacecraft",
-            "source_link": "https://spacenews.com/china-set-for-in-flight-abort-test-of-mengzhou-crew-spacecraft/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-06T10:29:16.071448Z",
-            "shown_at": [
-                "2026-02-06T10:29:16.755600Z",
-                "2026-02-06T15:44:32.989035Z",
-                "2026-02-08T01:24:16.620323Z"
-            ]
-        },
-        {
-            "id": "1c746c13c7620961cda9608d6e1a2b09",
-            "source": "spacenews",
-            "text": "Moog Technology Keeps Artemis II Astronauts Safe During Historic Lunar Mission",
-            "source_link": "https://spacenews.com/moog-technology-keeps-artemis-ii-astronauts-safe-during-historic-lunar-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-11T01:19:04.429003Z",
-            "shown_at": [
-                "2026-04-11T01:19:05.383109Z"
-            ]
-        },
-        {
-            "id": "4bf0741ab3d97cd60d57b3a5069f601e",
-            "source": "spacenews",
-            "text": "Orion splashes down to successfully end Artemis 2 mission",
-            "source_link": "https://spacenews.com/orion-splashes-down-to-successfully-end-artemis-2-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-11T01:19:04.429072Z",
-            "shown_at": [
-                "2026-04-11T01:54:18.625971Z"
-            ]
-        },
-        {
-            "id": "78108ff0d36f5c2abee19f11aef800cd",
-            "source": "nyt",
-            "text": "Artemis II Splashdown Gives NASA Momentum in Renewed Moon Race",
-            "source_link": "https://www.nytimes.com/2026/04/10/science/moon-astronauts-success.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-11T05:24:24.077807Z",
-            "shown_at": [
-                "2026-04-11T05:24:25.031199Z",
-                "2026-04-11T14:09:13.472922Z"
-            ]
-        },
-        {
-            "id": "ddf4f8c16922f948cb29c131a3cac762",
-            "source": "nyt",
-            "text": "Another Giant Leap Reminds Us How Small We Are",
-            "source_link": "https://www.nytimes.com/2026/04/11/us/artemis-landing-splashdown-moon.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-11T09:29:12.332523Z",
-            "shown_at": [
-                "2026-04-11T09:29:12.965090Z"
-            ]
-        },
-        {
-            "id": "f3406dbf0f8c42a61dda540eb0a9cc1f",
-            "source": "spacenews",
-            "text": "Falcon 9 launches Cygnus cargo spacecraft to the ISS",
-            "source_link": "https://spacenews.com/falcon-9-launches-cygnus-cargo-spacecraft-to-the-iss/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-11T16:29:07.156500Z",
-            "shown_at": [
-                "2026-04-11T16:29:08.222613Z"
-            ]
-        },
-        {
-            "id": "3a92ac0df5fec901f39d9df938e022c1",
-            "source": "nyt",
-            "text": "NASA’s Artemis II Astronauts Reunite With Friends and Family After 10-Day Moon Mission",
-            "source_link": "https://www.nytimes.com/2026/04/11/science/nasa-artemis-moon-astronauts-houston.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-11T23:34:36.850043Z",
-            "shown_at": [
-                "2026-04-11T23:34:37.883471Z"
             ]
         }
     ]

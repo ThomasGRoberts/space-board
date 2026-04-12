@@ -2,19 +2,12 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 6 | 21 | 40 |
+| nyt | 3 | 6 | 21 | 39 |
 | spacenews | 3 | 9 | 20 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
 
-- **Feb 06, 10:29 AM** - China set for in-flight abort test of Mengzhou crew spacecraft (spacenews)
-- **Feb 06, 12:14 PM** - Over the moon and under the radar (spacenews)
-- **Feb 06, 01:59 PM** - NASA selects two Earth science missions for development (spacenews)
-- **Feb 06, 03:44 PM** - China set for in-flight abort test of Mengzhou crew spacecraft (spacenews)
-- **Feb 06, 04:54 PM** - ‘People knew that they could come to us to figure out how to get things done.’ (spacenews)
-- **Feb 06, 05:29 PM** - ‘As far as I know, I’m still the assistant administrator of NESDIS.’ (spacenews)
-- **Feb 06, 06:04 PM** - ‘Leaders can be replaced, institutional knowledge cannot’ (spacenews)
 - **Feb 06, 06:38 PM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
 - **Feb 06, 07:19 PM** - Exodus: The shrinking federal space workforce (spacenews)
 - **Feb 06, 07:54 PM** - ‘We helped usher in the modern era of AI in NGA.’ (spacenews)
@@ -32,13 +25,11 @@
 - **Feb 07, 02:08 PM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
 - **Feb 07, 03:59 PM** - Space Force awards $54.5 million contract to Starfish Space for GEO servicing vehicle (spacenews)
 - **Feb 07, 06:19 PM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
-- **Feb 07, 07:29 PM** - NASA selects two Earth science missions for development (spacenews)
 - **Feb 07, 08:04 PM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
 - **Feb 07, 09:14 PM** - SpaceX IPO could drive investor interest in other space companies (spacenews)
 - **Feb 07, 09:49 PM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
 - **Feb 07, 11:34 PM** - Falcon 9 returns to flight after upper stage engine investigation (spacenews)
 - **Feb 08, 12:09 AM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
-- **Feb 08, 01:24 AM** - China set for in-flight abort test of Mengzhou crew spacecraft (spacenews)
 - **Feb 08, 01:59 AM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
 - **Feb 08, 03:09 AM** - Falcon 9 returns to flight after upper stage engine investigation (spacenews)
 - **Feb 08, 03:44 AM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
@@ -52,10 +43,8 @@
 - **Feb 08, 10:34 PM** - SpaceX IPO could drive investor interest in other space companies (spacenews)
 - **Feb 08, 11:15 PM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
 - **Feb 09, 12:59 AM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
-- **Feb 09, 03:59 AM** - ‘Leaders can be replaced, institutional knowledge cannot’ (spacenews)
 - **Feb 09, 04:34 AM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
 - **Feb 09, 05:44 AM** - ‘Now it’s time to turn the baton over to others. I hope there’s somebody else to grab that baton.’ (spacenews)
-- **Feb 09, 07:34 AM** - ‘Leaders can be replaced, institutional knowledge cannot’ (spacenews)
 - **Feb 09, 09:29 AM** - ‘Serving the country and pushing the boundaries of human existence is very purposeful.’ (spacenews)
 - **Feb 09, 11:29 AM** - Exodus: The shrinking federal space workforce (spacenews)
 - **Feb 09, 02:24 PM** - There’s a way forward for sovereign European space intel, but is there the will? (spacenews)
@@ -66,7 +55,6 @@
 - **Feb 09, 10:09 PM** - Space Force buys second Otter spacecraft to power satellites on orbit (breaking_defense)
 - **Feb 09, 11:19 PM** - Musk says SpaceX focus is on the moon rather than Mars (spacenews)
 - **Feb 10, 12:29 AM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
-- **Feb 10, 02:54 AM** - ‘Leaders can be replaced, institutional knowledge cannot’ (spacenews)
 - **Feb 10, 04:04 AM** - Space Force buys second Otter spacecraft to power satellites on orbit (breaking_defense)
 - **Feb 10, 04:39 AM** - Exodus: The shrinking federal space workforce (spacenews)
 - **Feb 10, 05:49 AM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
@@ -77,7 +65,6 @@
 - **Feb 10, 11:04 AM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
 - **Feb 10, 11:39 AM** - Falcon 9 returns to flight after upper stage engine investigation (spacenews)
 - **Feb 10, 12:49 PM** - Space Force buys second Otter spacecraft to power satellites on orbit (breaking_defense)
-- **Feb 10, 01:24 PM** - NASA selects two Earth science missions for development (spacenews)
 - **Feb 10, 01:59 PM** - NASA, Boeing still working on Starliner return to flight (spacenews)
 - **Feb 10, 03:09 PM** - Apolink and Galaxia team up to improve planned data relay capability (spacenews)
 - **Feb 10, 04:24 PM** - New UN forum seeks busting space traffic cooperation barriers (breaking_defense)
@@ -103,7 +90,6 @@
 - **Feb 11, 05:14 AM** - FCC approves thousands more Amazon Leo satellites as Gen 1 deadline looms (spacenews)
 - **Feb 11, 05:49 AM** - Space Force buys second Otter spacecraft to power satellites on orbit (breaking_defense)
 - **Feb 11, 06:24 AM** - Lost Soviet Luna 9 Moon Lander May Have Been Found (nyt)
-- **Feb 11, 06:59 AM** - NASA selects two Earth science missions for development (spacenews)
 - **Feb 11, 07:34 AM** - HEO, SatVu, Sierra Nevada nab first of NRO’s new commercial imagery contracts (breaking_defense)
 - **Feb 11, 08:09 AM** - Lost Soviet Luna 9 Moon Lander May Have Been Found (nyt)
 - **Feb 11, 10:29 AM** - China tests crewed spacecraft abort and rocket recovery in major lunar milestone (spacenews)
@@ -131,7 +117,6 @@
 - **Feb 12, 03:59 AM** - Space Force buys second Otter spacecraft to power satellites on orbit (breaking_defense)
 - **Feb 12, 04:34 AM** - Lost Soviet Luna 9 Moon Lander May Have Been Found (nyt)
 - **Feb 12, 05:09 AM** - FCC Space Bureau chief shares agenda for regulatory reform (spacenews)
-- **Feb 12, 06:54 AM** - NASA selects two Earth science missions for development (spacenews)
 - **Feb 12, 08:04 AM** - ‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway (nyt)
 - **Feb 12, 08:39 AM** - Falcon 9 returns to flight after upper stage engine investigation (spacenews)
 - **Feb 12, 10:24 AM** - ULA’s Vulcan launches U.S. Space Force mission to geosynchronous orbit (spacenews)
@@ -144,7 +129,6 @@
 - **Feb 12, 03:39 PM** - Software startup Integrate makes push into defense market following Space Force award (spacenews)
 - **Feb 12, 04:14 PM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
 - **Feb 12, 04:49 PM** - Lost Soviet Luna 9 Moon Lander May Have Been Found (nyt)
-- **Feb 12, 05:24 PM** - ‘Leaders can be replaced, institutional knowledge cannot’ (spacenews)
 - **Feb 12, 05:59 PM** - ULA’s Vulcan launches Space Force mission; solid booster anomaly under investigation (spacenews)
 - **Feb 12, 07:44 PM** - ThinKom gets military contract to supply portable ground stations for satellite communications (spacenews)
 - **Feb 12, 08:19 PM** - New UN forum seeks busting space traffic cooperation barriers (breaking_defense)
