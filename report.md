@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 6 | 20 | 40 |
+| nyt | 1 | 5 | 21 | 40 |
 | spacenews | 2 | 8 | 20 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2443,3 +2443,4 @@
 - **Apr 12, 10:49 AM** - GSOA and Novaspace Launch the Space Industry Forum (SIF) 2026 in Singapore (spacenews)
 - **Apr 12, 11:24 AM** - NASA’s Artemis II Astronauts Spread ‘Moon Joy’ to the Public (nyt)
 - **Apr 12, 11:59 AM** - Rocket Lab wins contract for three more iQPS launches (spacenews)
+- **Apr 12, 12:34 PM** - Trump Calls Artemis II Astronauts After Their Historic Journey Around the Moon (nyt)
