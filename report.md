@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 6 | 21 | 39 |
-| spacenews | 1 | 9 | 20 | 42 |
+| nyt | 3 | 6 | 22 | 40 |
+| spacenews | 1 | 9 | 19 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2429,3 +2429,4 @@
 - **Apr 12, 02:34 AM** - Lockheed Martin wins $105 million contract for GPS ground control system as OCX winds down (spacenews)
 - **Apr 12, 03:09 AM** - Artemis II Astronauts Set New Distance Record in Moon Flyby: What to Know (nyt)
 - **Apr 12, 03:44 AM** - Industry navigates NASA’s start-and-stop approach to commercial space stations (spacenews)
+- **Apr 12, 04:19 AM** - Trump Calls Artemis II Astronauts After Their Historic Journey Around the Moon (nyt)
