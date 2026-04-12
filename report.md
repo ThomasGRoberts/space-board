@@ -2457,3 +2457,4 @@
 - **Apr 12, 06:59 PM** - NASA prepares for Artemis 2 return (spacenews)
 - **Apr 12, 07:34 PM** - See Photos From All 10 Days of NASA’s Artemis II Moon Mission (nyt)
 - **Apr 12, 08:09 PM** - PLD Space secures $35 million European Investment Bank loan for MIURA 5 launcher (spacenews)
+- **Apr 12, 08:44 PM** - NASA’s Artemis II Astronauts Spread ‘Moon Joy’ to the Public (nyt)
