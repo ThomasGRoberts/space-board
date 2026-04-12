@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 6 | 20 | 39 |
-| spacenews | 1 | 9 | 20 | 42 |
+| spacenews | 1 | 9 | 21 | 43 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2438,3 +2438,4 @@
 - **Apr 12, 07:54 AM** - Exploring the Far Side of the Moon (nyt)
 - **Apr 12, 08:29 AM** - Hungary taps Northrop Grumman for first national geostationary communications satellite (spacenews)
 - **Apr 12, 09:04 AM** - Artemis II Moon Flyby: Crew, Timeline and What to Know (nyt)
+- **Apr 12, 09:39 AM** - A new kind of arsenal: commercial satellites (spacenews)
