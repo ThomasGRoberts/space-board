@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 6 | 21 | 40 |
-| spacenews | 1 | 9 | 19 | 42 |
+| nyt | 2 | 6 | 21 | 39 |
+| spacenews | 1 | 9 | 20 | 43 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2436,3 +2436,4 @@
 - **Apr 12, 06:44 AM** - Exploring the Far Side of the Moon (nyt)
 - **Apr 12, 07:19 AM** - NASA’s new moon base project requires operational technology systems in space, but they are vulnerable. (spacenews)
 - **Apr 12, 07:54 AM** - Exploring the Far Side of the Moon (nyt)
+- **Apr 12, 08:29 AM** - Hungary taps Northrop Grumman for first national geostationary communications satellite (spacenews)
