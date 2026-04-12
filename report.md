@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 5 | 21 | 40 |
-| spacenews | 1 | 6 | 19 | 41 |
+| spacenews | 1 | 6 | 20 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2450,3 +2450,4 @@
 - **Apr 12, 02:54 PM** - Artemis II Astronauts Name Moon Crater After Carroll, Reid Wiseman’s Late Wife (nyt)
 - **Apr 12, 03:29 PM** - Rocket Lab wins contract for three more iQPS launches (spacenews)
 - **Apr 12, 04:04 PM** - For Artemis II, Returning to Earth May Be the Most Dangerous Part of the Mission (nyt)
+- **Apr 12, 04:39 PM** - GSOA and Novaspace Launch the Space Industry Forum (SIF) 2026 in Singapore (spacenews)
