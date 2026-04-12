@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 6 | 21 | 39 |
-| spacenews | 1 | 9 | 20 | 42 |
+| nyt | 3 | 6 | 22 | 40 |
+| spacenews | 1 | 9 | 19 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2425,3 +2425,4 @@
 - **Apr 12, 12:09 AM** - Space Sovereignty Is No Longer Optional (spacenews)
 - **Apr 12, 12:44 AM** - How and When to Watch NASA’s Artemis II Splash Down in Pacific Ocean (nyt)
 - **Apr 12, 01:19 AM** - Moog Highlights Growing Satellite Bus Capabilities with Full‑Scale METEOR Reveal at Space Symposium (spacenews)
+- **Apr 12, 01:59 AM** - Artemis II Moon Flyby: Crew, Timeline and What to Know (nyt)
