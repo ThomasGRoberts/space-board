@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 3 | 20 | 40 |
+| nyt | 1 | 3 | 21 | 41 |
 | spacenews | 1 | 4 | 20 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2455,3 +2455,4 @@
 - **Apr 12, 05:49 PM** - Space Force taps 14 firms for $1.8 billion GEO surveillance program (spacenews)
 - **Apr 12, 06:24 PM** - The first earthlings to the moon weren’t humans. They were tortoises. (nyt)
 - **Apr 12, 06:59 PM** - NASA prepares for Artemis 2 return (spacenews)
+- **Apr 12, 07:34 PM** - See Photos From All 10 Days of NASA’s Artemis II Moon Mission (nyt)
