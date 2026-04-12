@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 6 | 20 | 39 |
+| nyt | 2 | 6 | 21 | 40 |
 | spacenews | 1 | 9 | 20 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2433,3 +2433,4 @@
 - **Apr 12, 04:54 AM** - Space security moves to forefront as threats to satellites spread (spacenews)
 - **Apr 12, 05:34 AM** - See Photos From All 10 Days of NASA’s Artemis II Moon Mission (nyt)
 - **Apr 12, 06:09 AM** - Capella Space wins $49 million contract for military communications satellite demo (spacenews)
+- **Apr 12, 06:44 AM** - Exploring the Far Side of the Moon (nyt)
