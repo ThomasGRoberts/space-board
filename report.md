@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 5 | 21 | 41 |
+| spacenews | 4 | 5 | 22 | 42 |
 | nyt | 0 | 1 | 20 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2478,3 +2478,4 @@
 - **Apr 13, 10:14 AM** - Artemis 2 science gets underway as Orion begins its return trip (spacenews)
 - **Apr 13, 10:49 AM** - The first earthlings to the moon weren’t humans. They were tortoises. (nyt)
 - **Apr 13, 11:24 AM** - Key Senate appropriator rejects proposed NASA budget cuts (spacenews)
+- **Apr 13, 11:58 AM** - Q&A: Building a broadband constellation for a contested space era (spacenews)
