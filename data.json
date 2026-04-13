@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-13T00:04:24.241651+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c8658b706220355faf3aa53a09700cee",
+    "trigger_count": 0,
+    "current_item_id": "c6dacda2caa8142f17bf96cfa40e507f",
     "data": [
         {
             "id": "d4537254c8e77c77c696fc374867ac4b",
@@ -8149,9 +8149,12 @@
             "source": "spacenews",
             "text": "Amazon reveals aviation antenna as LEO inflight connectivity race intensifies",
             "source_link": "https://spacenews.com/amazon-reveals-aviation-antenna-as-leo-inflight-connectivity-race-intensifies/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-04-13T19:14:22.123483Z"
+            "fetched_datetime": "2026-04-13T19:14:22.123483Z",
+            "shown_at": [
+                "2026-04-13T21:34:25.951588Z"
+            ]
         }
     ]
 }

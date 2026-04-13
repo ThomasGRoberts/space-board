@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 15 | 16 | 24 | 44 |
+| spacenews | 15 | 16 | 25 | 45 |
 | nyt | 0 | 1 | 16 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2494,3 +2494,4 @@
 - **Apr 13, 07:49 PM** - Aerospace to support industry with government furnished talent (spacenews)
 - **Apr 13, 08:24 PM** - Spring fever pitch: Three questions to listen for this Space Symposium (spacenews)
 - **Apr 13, 08:59 PM** - The path to $50 billion in new space investment (spacenews)
+- **Apr 13, 09:34 PM** - Amazon reveals aviation antenna as LEO inflight connectivity race intensifies (spacenews)
