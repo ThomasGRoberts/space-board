@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 21 | 40 |
-| nyt | 0 | 2 | 20 | 41 |
+| nyt | 0 | 2 | 21 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2468,3 +2468,4 @@
 - **Apr 13, 04:24 AM** - Sophia and Kepler to marry orbital compute with optical links (spacenews)
 - **Apr 13, 04:59 AM** - NASA Prepares for Artemis II Splashdown After Historic Moon Flyby (nyt)
 - **Apr 13, 05:34 AM** - Industry navigates NASA’s start-and-stop approach to commercial space stations (spacenews)
+- **Apr 13, 06:09 AM** - Artemis II Splashdown Gives NASA Momentum in Renewed Moon Race (nyt)
