@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 16 | 17 | 25 | 45 |
+| spacenews | 17 | 18 | 26 | 46 |
 | nyt | 0 | 1 | 15 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2496,3 +2496,4 @@
 - **Apr 13, 08:59 PM** - The path to $50 billion in new space investment (spacenews)
 - **Apr 13, 09:34 PM** - Amazon reveals aviation antenna as LEO inflight connectivity race intensifies (spacenews)
 - **Apr 13, 10:09 PM** - Q&A: Heather Pringle on what to expect from Space Symposium (spacenews)
+- **Apr 13, 10:44 PM** - Washington agrees on space urgency, but not on how to deliver (spacenews)

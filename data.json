@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-13T00:04:24.241651+00:00",
-    "trigger_count": 6,
-    "current_item_id": "00280be968486fc1707a567b6a489538",
+    "trigger_count": 0,
+    "current_item_id": "177aa1dae828c45c0e09107773e09b86",
     "data": [
         {
             "id": "d4537254c8e77c77c696fc374867ac4b",
@@ -8166,6 +8166,18 @@
             "fetched_datetime": "2026-04-13T22:09:12.945175Z",
             "shown_at": [
                 "2026-04-13T22:09:13.872479Z"
+            ]
+        },
+        {
+            "id": "177aa1dae828c45c0e09107773e09b86",
+            "source": "spacenews",
+            "text": "Washington agrees on space urgency, but not on how to deliver",
+            "source_link": "https://spacenews.com/washington-agrees-on-space-urgency-but-not-on-how-to-deliver/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-13T22:44:11.426396Z",
+            "shown_at": [
+                "2026-04-13T22:44:12.719824Z"
             ]
         }
     ]
