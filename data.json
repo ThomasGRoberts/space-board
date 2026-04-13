@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-13T00:04:24.241651+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c6dacda2caa8142f17bf96cfa40e507f",
+    "trigger_count": 0,
+    "current_item_id": "00280be968486fc1707a567b6a489538",
     "data": [
         {
             "id": "d4537254c8e77c77c696fc374867ac4b",
@@ -8154,6 +8154,18 @@
             "fetched_datetime": "2026-04-13T19:14:22.123483Z",
             "shown_at": [
                 "2026-04-13T21:34:25.951588Z"
+            ]
+        },
+        {
+            "id": "00280be968486fc1707a567b6a489538",
+            "source": "spacenews",
+            "text": "Q&A: Heather Pringle on what to expect from Space Symposium",
+            "source_link": "https://spacenews.com/qa-heather-pringle-on-what-to-expect-from-space-symposium/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-13T22:09:12.945175Z",
+            "shown_at": [
+                "2026-04-13T22:09:13.872479Z"
             ]
         }
     ]
