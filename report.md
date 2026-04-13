@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 20 | 39 |
+| spacenews | 1 | 2 | 21 | 40 |
 | nyt | 0 | 3 | 20 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2461,3 +2461,4 @@
 - **Apr 13, 12:19 AM** - The first earthlings to the moon weren’t humans. They were tortoises. (nyt)
 - **Apr 13, 12:54 AM** - Commerce Department budget proposal revives concerns about TraCSS (spacenews)
 - **Apr 13, 01:29 AM** - Artemis II Astronauts Get a Break After Journey Around the Moon (nyt)
+- **Apr 13, 02:04 AM** - Earth observation operators push to deliver satellite images within minutes (spacenews)
