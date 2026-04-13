@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 17 | 18 | 25 | 46 |
+| spacenews | 17 | 18 | 26 | 47 |
 | nyt | 0 | 0 | 15 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2498,3 +2498,4 @@
 - **Apr 13, 10:09 PM** - Q&A: Heather Pringle on what to expect from Space Symposium (spacenews)
 - **Apr 13, 10:44 PM** - Washington agrees on space urgency, but not on how to deliver (spacenews)
 - **Apr 13, 11:19 PM** - A Magazine for Earthlings Who Dream of Outer Space (nyt)
+- **Apr 13, 11:54 PM** - Portal Space Systems raises $50 million to accelerate spacecraft development (spacenews)
