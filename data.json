@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-13T00:04:24.241651+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ec7499e7f03d1ea8150e6c222fb34ebd",
+    "trigger_count": 0,
+    "current_item_id": "ab37b1cbd3a107f229f4b78e83b46f8a",
     "data": [
         {
             "id": "d4537254c8e77c77c696fc374867ac4b",
@@ -8033,6 +8033,27 @@
             "shown_at": [
                 "2026-04-13T13:44:29.771473Z"
             ]
+        },
+        {
+            "id": "ab37b1cbd3a107f229f4b78e83b46f8a",
+            "source": "spacenews",
+            "text": "Near real-time payload data delivery with SSC Space Go",
+            "source_link": "https://spacenews.com/near-real-time-payload-data-delivery-with-ssc-space-go/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-13T14:54:29.202742Z",
+            "shown_at": [
+                "2026-04-13T14:54:30.097876Z"
+            ]
+        },
+        {
+            "id": "242213f0f8bc2ef8297a72ee2ab7ca8d",
+            "source": "spacenews",
+            "text": "Citra Space raises $15 million Series A to expand platform for identifying objects in orbit",
+            "source_link": "https://spacenews.com/citra-space-raises-15-million-series-a-to-expand-platform-for-identifying-objects-in-orbit/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-13T14:54:29.202825Z"
         }
     ]
 }
