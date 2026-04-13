@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-13T00:04:24.241651+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d461b947d5afdf3e37600d6dc21b6608",
+    "trigger_count": 0,
+    "current_item_id": "bb31b97ec541d0330bf5ca19e14b7423",
     "data": [
         {
             "id": "d4537254c8e77c77c696fc374867ac4b",
@@ -8026,9 +8026,12 @@
             "source": "spacenews",
             "text": "Orbit is filling up fast. Now comes the awkward bit: pre-empting and handling a crisis.",
             "source_link": "https://spacenews.com/orbit-is-filling-up-fast-now-comes-the-awkward-bit-pre-empting-and-handling-a-crisis/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-04-13T13:09:10.099906Z"
+            "fetched_datetime": "2026-04-13T13:09:10.099906Z",
+            "shown_at": [
+                "2026-04-13T13:44:29.771473Z"
+            ]
         }
     ]
 }
