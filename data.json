@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-13T00:04:24.241651+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0a42349609997e93803ec90f1e98076e",
+    "trigger_count": 0,
+    "current_item_id": "f358402df9b20b4f10658305f08e558b",
     "data": [
         {
             "id": "d4537254c8e77c77c696fc374867ac4b",
@@ -8058,6 +8058,36 @@
             "shown_at": [
                 "2026-04-13T15:29:23.474769Z"
             ]
+        },
+        {
+            "id": "f358402df9b20b4f10658305f08e558b",
+            "source": "spacenews",
+            "text": "Fueling test suggests imminent debut of China’s reusable Long March 10B rocket",
+            "source_link": "https://spacenews.com/fueling-test-suggests-imminent-debut-of-chinas-reusable-long-march-10b-rocket/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-13T16:39:12.772928Z",
+            "shown_at": [
+                "2026-04-13T16:39:13.456565Z"
+            ]
+        },
+        {
+            "id": "b96efdc33bde29c374894f662245f963",
+            "source": "spacenews",
+            "text": "Gravitics targets 2027 flight test for ‘orbital carrier’ architecture",
+            "source_link": "https://spacenews.com/gravitics-targets-2027-flight-test-for-orbital-carrier-architecture/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-13T16:39:12.772998Z"
+        },
+        {
+            "id": "0e936879dc83352dc5dd4075ef3b13cf",
+            "source": "spacenews",
+            "text": "Near Real-Time Payload Data Delivery with SSC Space Go",
+            "source_link": "https://spacenews.com/near-real-time-payload-data-delivery-with-ssc-space-go/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-13T16:39:12.773044Z"
         }
     ]
 }
