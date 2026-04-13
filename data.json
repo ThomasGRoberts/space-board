@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-13T00:04:24.241651+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d9366021734968587743052ca4cac5ab",
+    "trigger_count": 0,
+    "current_item_id": "a95e72f5f3cfcf71efd52fedee9f3fc9",
     "data": [
         {
             "id": "d4537254c8e77c77c696fc374867ac4b",
@@ -8113,9 +8113,12 @@
             "source": "spacenews",
             "text": "Aerospace to support industry with government furnished talent",
             "source_link": "https://spacenews.com/aerospace-to-support-industry-with-government-furnished-talent/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-04-13T19:14:22.123373Z"
+            "fetched_datetime": "2026-04-13T19:14:22.123373Z",
+            "shown_at": [
+                "2026-04-13T19:49:07.638481Z"
+            ]
         },
         {
             "id": "688f5715e5e30e829944c7843b80cfd9",
