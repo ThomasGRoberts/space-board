@@ -2,14 +2,13 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 3 | 20 | 41 |
 | spacenews | 1 | 4 | 21 | 41 |
+| nyt | 0 | 3 | 20 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
 
 - **Feb 06, 06:38 PM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
-- **Feb 06, 07:19 PM** - Exodus: The shrinking federal space workforce (spacenews)
 - **Feb 06, 07:54 PM** - ‘We helped usher in the modern era of AI in NGA.’ (spacenews)
 - **Feb 06, 08:29 PM** - ‘Serving the country and pushing the boundaries of human existence is very purposeful.’ (spacenews)
 - **Feb 06, 09:04 PM** - ‘I loved thinking about how to make science possible for America and for the world’ (spacenews)
@@ -35,9 +34,7 @@
 - **Feb 08, 03:44 AM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
 - **Feb 08, 05:34 AM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
 - **Feb 08, 06:44 AM** - ‘Serving the country and pushing the boundaries of human existence is very purposeful.’ (spacenews)
-- **Feb 08, 11:59 AM** - Exodus: The shrinking federal space workforce (spacenews)
 - **Feb 08, 12:34 PM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
-- **Feb 08, 03:29 PM** - Exodus: The shrinking federal space workforce (spacenews)
 - **Feb 08, 05:48 PM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
 - **Feb 08, 07:34 PM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
 - **Feb 08, 10:34 PM** - SpaceX IPO could drive investor interest in other space companies (spacenews)
@@ -46,7 +43,6 @@
 - **Feb 09, 04:34 AM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
 - **Feb 09, 05:44 AM** - ‘Now it’s time to turn the baton over to others. I hope there’s somebody else to grab that baton.’ (spacenews)
 - **Feb 09, 09:29 AM** - ‘Serving the country and pushing the boundaries of human existence is very purposeful.’ (spacenews)
-- **Feb 09, 11:29 AM** - Exodus: The shrinking federal space workforce (spacenews)
 - **Feb 09, 02:24 PM** - There’s a way forward for sovereign European space intel, but is there the will? (spacenews)
 - **Feb 09, 03:34 PM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
 - **Feb 09, 04:09 PM** - SpaceX IPO could drive investor interest in other space companies (spacenews)
@@ -56,7 +52,6 @@
 - **Feb 09, 11:19 PM** - Musk says SpaceX focus is on the moon rather than Mars (spacenews)
 - **Feb 10, 12:29 AM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
 - **Feb 10, 04:04 AM** - Space Force buys second Otter spacecraft to power satellites on orbit (breaking_defense)
-- **Feb 10, 04:39 AM** - Exodus: The shrinking federal space workforce (spacenews)
 - **Feb 10, 05:49 AM** - Army’s new space career field won’t ‘encroach’ on Space Force: Official (breaking_defense)
 - **Feb 10, 06:24 AM** - Musk says SpaceX focus is on the moon rather than Mars (spacenews)
 - **Feb 10, 07:34 AM** - Space Force buys second Otter spacecraft to power satellites on orbit (breaking_defense)
