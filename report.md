@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 11 | 22 | 42 |
+| spacenews | 10 | 11 | 23 | 43 |
 | nyt | 0 | 1 | 18 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2487,3 +2487,4 @@
 - **Apr 13, 03:29 PM** - Citra Space raises $15 million Series A to expand platform for identifying objects in orbit (spacenews)
 - **Apr 13, 04:04 PM** - Artemis II Astronauts Head Home After Historic Journey Around the Moon (nyt)
 - **Apr 13, 04:39 PM** - Fueling test suggests imminent debut of China’s reusable Long March 10B rocket (spacenews)
+- **Apr 13, 05:29 PM** - Gravitics targets 2027 flight test for ‘orbital carrier’ architecture (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-13T00:04:24.241651+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f358402df9b20b4f10658305f08e558b",
+    "trigger_count": 0,
+    "current_item_id": "b96efdc33bde29c374894f662245f963",
     "data": [
         {
             "id": "d4537254c8e77c77c696fc374867ac4b",
@@ -8076,9 +8076,12 @@
             "source": "spacenews",
             "text": "Gravitics targets 2027 flight test for ‘orbital carrier’ architecture",
             "source_link": "https://spacenews.com/gravitics-targets-2027-flight-test-for-orbital-carrier-architecture/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-04-13T16:39:12.772998Z"
+            "fetched_datetime": "2026-04-13T16:39:12.772998Z",
+            "shown_at": [
+                "2026-04-13T17:29:11.613373Z"
+            ]
         },
         {
             "id": "0e936879dc83352dc5dd4075ef3b13cf",
