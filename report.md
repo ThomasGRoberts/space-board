@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 7 | 22 | 42 |
-| nyt | 0 | 1 | 19 | 39 |
+| spacenews | 5 | 7 | 21 | 42 |
+| nyt | 0 | 1 | 20 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2482,3 +2482,4 @@
 - **Apr 13, 12:34 PM** - Artemis II Astronauts Set New Distance Record in Moon Flyby: What to Know (nyt)
 - **Apr 13, 01:09 PM** - Atomic-6 unveils online marketplace for orbital data centers (spacenews)
 - **Apr 13, 01:44 PM** - Orbit is filling up fast. Now comes the awkward bit: pre-empting and handling a crisis. (spacenews)
+- **Apr 13, 02:19 PM** - For Artemis II, Returning to Earth May Be the Most Dangerous Part of the Mission (nyt)
