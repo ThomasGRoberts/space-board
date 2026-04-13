@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-13T00:04:24.241651+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4e08aa64b98f2d2eb812dada969acf8e",
+    "trigger_count": 0,
+    "current_item_id": "d9366021734968587743052ca4cac5ab",
     "data": [
         {
             "id": "d4537254c8e77c77c696fc374867ac4b",
@@ -8095,6 +8095,54 @@
             "shown_at": [
                 "2026-04-13T18:04:51.613956Z"
             ]
+        },
+        {
+            "id": "d9366021734968587743052ca4cac5ab",
+            "source": "spacenews",
+            "text": "Phantom Space eyes edge in orbital data race with thermal deal",
+            "source_link": "https://spacenews.com/phantom-space-eyes-edge-in-orbital-data-race-with-thermal-deal/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-13T19:14:22.123281Z",
+            "shown_at": [
+                "2026-04-13T19:14:23.877049Z"
+            ]
+        },
+        {
+            "id": "a95e72f5f3cfcf71efd52fedee9f3fc9",
+            "source": "spacenews",
+            "text": "Aerospace to support industry with government furnished talent",
+            "source_link": "https://spacenews.com/aerospace-to-support-industry-with-government-furnished-talent/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-13T19:14:22.123373Z"
+        },
+        {
+            "id": "688f5715e5e30e829944c7843b80cfd9",
+            "source": "spacenews",
+            "text": "Spring fever pitch: Three questions to listen for this Space Symposium",
+            "source_link": "https://spacenews.com/spring-fever-pitch-three-questions-to-listen-for-this-space-symposium/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-13T19:14:22.123416Z"
+        },
+        {
+            "id": "c8658b706220355faf3aa53a09700cee",
+            "source": "spacenews",
+            "text": "The path to $50 billion in new space investment",
+            "source_link": "https://spacenews.com/the-path-to-50-billion-in-new-space-investment/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-13T19:14:22.123450Z"
+        },
+        {
+            "id": "c6dacda2caa8142f17bf96cfa40e507f",
+            "source": "spacenews",
+            "text": "Amazon reveals aviation antenna as LEO inflight connectivity race intensifies",
+            "source_link": "https://spacenews.com/amazon-reveals-aviation-antenna-as-leo-inflight-connectivity-race-intensifies/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-13T19:14:22.123483Z"
         }
     ]
 }
