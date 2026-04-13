@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 9 | 22 | 42 |
+| spacenews | 7 | 9 | 22 | 43 |
 | nyt | 0 | 1 | 19 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2484,3 +2484,4 @@
 - **Apr 13, 01:44 PM** - Orbit is filling up fast. Now comes the awkward bit: pre-empting and handling a crisis. (spacenews)
 - **Apr 13, 02:19 PM** - For Artemis II, Returning to Earth May Be the Most Dangerous Part of the Mission (nyt)
 - **Apr 13, 02:54 PM** - Near real-time payload data delivery with SSC Space Go (spacenews)
+- **Apr 13, 03:29 PM** - Citra Space raises $15 million Series A to expand platform for identifying objects in orbit (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-13T00:04:24.241651+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ab37b1cbd3a107f229f4b78e83b46f8a",
+    "trigger_count": 0,
+    "current_item_id": "242213f0f8bc2ef8297a72ee2ab7ca8d",
     "data": [
         {
             "id": "d4537254c8e77c77c696fc374867ac4b",
@@ -8051,9 +8051,12 @@
             "source": "spacenews",
             "text": "Citra Space raises $15 million Series A to expand platform for identifying objects in orbit",
             "source_link": "https://spacenews.com/citra-space-raises-15-million-series-a-to-expand-platform-for-identifying-objects-in-orbit/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-04-13T14:54:29.202825Z"
+            "fetched_datetime": "2026-04-13T14:54:29.202825Z",
+            "shown_at": [
+                "2026-04-13T15:29:23.474769Z"
+            ]
         }
     ]
 }
