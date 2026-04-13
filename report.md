@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 20 | 40 |
-| nyt | 0 | 3 | 20 | 41 |
+| nyt | 0 | 3 | 21 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2462,3 +2462,4 @@
 - **Apr 13, 12:54 AM** - Commerce Department budget proposal revives concerns about TraCSS (spacenews)
 - **Apr 13, 01:29 AM** - Artemis II Astronauts Get a Break After Journey Around the Moon (nyt)
 - **Apr 13, 02:04 AM** - Earth observation operators push to deliver satellite images within minutes (spacenews)
+- **Apr 13, 02:39 AM** - NASA’s Artemis II Astronauts Reunite With Friends and Family After 10-Day Moon Mission (nyt)
