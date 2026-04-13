@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 9 | 22 | 42 |
-| nyt | 0 | 1 | 19 | 39 |
+| nyt | 0 | 1 | 19 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2485,3 +2485,4 @@
 - **Apr 13, 02:19 PM** - For Artemis II, Returning to Earth May Be the Most Dangerous Part of the Mission (nyt)
 - **Apr 13, 02:54 PM** - Near real-time payload data delivery with SSC Space Go (spacenews)
 - **Apr 13, 03:29 PM** - Citra Space raises $15 million Series A to expand platform for identifying objects in orbit (spacenews)
+- **Apr 13, 04:04 PM** - Artemis II Astronauts Head Home After Historic Journey Around the Moon (nyt)
