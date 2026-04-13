@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-13T00:04:24.241651+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a95e72f5f3cfcf71efd52fedee9f3fc9",
+    "trigger_count": 0,
+    "current_item_id": "688f5715e5e30e829944c7843b80cfd9",
     "data": [
         {
             "id": "d4537254c8e77c77c696fc374867ac4b",
@@ -8125,9 +8125,12 @@
             "source": "spacenews",
             "text": "Spring fever pitch: Three questions to listen for this Space Symposium",
             "source_link": "https://spacenews.com/spring-fever-pitch-three-questions-to-listen-for-this-space-symposium/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-04-13T19:14:22.123416Z"
+            "fetched_datetime": "2026-04-13T19:14:22.123416Z",
+            "shown_at": [
+                "2026-04-13T20:24:29.337096Z"
+            ]
         },
         {
             "id": "c8658b706220355faf3aa53a09700cee",

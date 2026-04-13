@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 15 | 16 | 23 | 43 |
+| spacenews | 15 | 16 | 24 | 44 |
 | nyt | 0 | 1 | 17 | 38 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2492,3 +2492,4 @@
 - **Apr 13, 06:39 PM** - Exploring the Far Side of the Moon (nyt)
 - **Apr 13, 07:14 PM** - Phantom Space eyes edge in orbital data race with thermal deal (spacenews)
 - **Apr 13, 07:49 PM** - Aerospace to support industry with government furnished talent (spacenews)
+- **Apr 13, 08:24 PM** - Spring fever pitch: Three questions to listen for this Space Symposium (spacenews)
