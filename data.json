@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-13T00:04:24.241651+00:00",
-    "trigger_count": 6,
-    "current_item_id": "688f5715e5e30e829944c7843b80cfd9",
+    "trigger_count": 0,
+    "current_item_id": "c8658b706220355faf3aa53a09700cee",
     "data": [
         {
             "id": "d4537254c8e77c77c696fc374867ac4b",
@@ -8137,9 +8137,12 @@
             "source": "spacenews",
             "text": "The path to $50 billion in new space investment",
             "source_link": "https://spacenews.com/the-path-to-50-billion-in-new-space-investment/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-04-13T19:14:22.123450Z"
+            "fetched_datetime": "2026-04-13T19:14:22.123450Z",
+            "shown_at": [
+                "2026-04-13T20:59:21.540041Z"
+            ]
         },
         {
             "id": "c6dacda2caa8142f17bf96cfa40e507f",
