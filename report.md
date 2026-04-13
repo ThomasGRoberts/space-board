@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 20 | 39 |
+| spacenews | 2 | 3 | 21 | 40 |
 | nyt | 0 | 3 | 20 | 42 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2465,3 +2465,4 @@
 - **Apr 13, 02:39 AM** - NASA’s Artemis II Astronauts Reunite With Friends and Family After 10-Day Moon Mission (nyt)
 - **Apr 13, 03:14 AM** - Spacety raises $190 million to scale satellite manufacturing, plans IPO (spacenews)
 - **Apr 13, 03:49 AM** - Artemis II Astronauts Set New Distance Record in Moon Flyby: What to Know (nyt)
+- **Apr 13, 04:24 AM** - Sophia and Kepler to marry orbital compute with optical links (spacenews)

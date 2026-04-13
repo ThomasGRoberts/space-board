@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-13T00:04:24.241651+00:00",
-    "trigger_count": 6,
-    "current_item_id": "dcac182eda91a05dae26ecc7bc2b3f03",
+    "trigger_count": 0,
+    "current_item_id": "5476ff1a384eb705291e9c92e9d49a82",
     "data": [
         {
             "id": "d4537254c8e77c77c696fc374867ac4b",
@@ -7959,6 +7959,18 @@
                 "2026-02-10T11:04:54.977201Z",
                 "2026-02-12T01:39:04.279922Z",
                 "2026-02-12T16:14:19.767955Z"
+            ]
+        },
+        {
+            "id": "5476ff1a384eb705291e9c92e9d49a82",
+            "source": "spacenews",
+            "text": "Sophia and Kepler to marry orbital compute with optical links",
+            "source_link": "https://spacenews.com/sophia-and-kepler-to-marry-orbital-compute-with-optical-links/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-13T04:24:22.419807Z",
+            "shown_at": [
+                "2026-04-13T04:24:22.961516Z"
             ]
         }
     ]
