@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 20 | 40 |
-| nyt | 0 | 2 | 21 | 41 |
+| spacenews | 2 | 3 | 21 | 41 |
+| nyt | 0 | 2 | 20 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2471,3 +2471,4 @@
 - **Apr 13, 06:09 AM** - Artemis II Splashdown Gives NASA Momentum in Renewed Moon Race (nyt)
 - **Apr 13, 06:44 AM** - Industry navigates NASA’s start-and-stop approach to commercial space stations (spacenews)
 - **Apr 13, 07:19 AM** - A Magazine for Earthlings Who Dream of Outer Space (nyt)
+- **Apr 13, 07:54 AM** - What returning to lunar space means for human health (spacenews)
