@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 11 | 23 | 43 |
-| nyt | 0 | 1 | 17 | 38 |
+| nyt | 0 | 1 | 18 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2489,3 +2489,4 @@
 - **Apr 13, 04:39 PM** - Fueling test suggests imminent debut of China’s reusable Long March 10B rocket (spacenews)
 - **Apr 13, 05:29 PM** - Gravitics targets 2027 flight test for ‘orbital carrier’ architecture (spacenews)
 - **Apr 13, 06:04 PM** - Near Real-Time Payload Data Delivery with SSC Space Go (spacenews)
+- **Apr 13, 06:39 PM** - Exploring the Far Side of the Moon (nyt)
