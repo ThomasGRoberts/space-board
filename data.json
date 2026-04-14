@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-14T00:04:40.196031+00:00",
-    "trigger_count": 6,
-    "current_item_id": "26196b1c1b60448ee974d59caad7e8ac",
+    "trigger_count": 0,
+    "current_item_id": "626ab1596b8bfe1103e8028fa4950b53",
     "data": [
         {
             "id": "177aa1dae828c45c0e09107773e09b86",
@@ -7959,6 +7959,18 @@
             "fetched_datetime": "2026-04-14T09:49:11.291564Z",
             "shown_at": [
                 "2026-04-14T10:24:24.106961Z"
+            ]
+        },
+        {
+            "id": "626ab1596b8bfe1103e8028fa4950b53",
+            "source": "spacenews",
+            "text": "Tendeg Delivers First Antenna from New Industrial Production Facility, Targets 100+ Deployable Apertures Annually",
+            "source_link": "https://spacenews.com/tendeg-delivers-first-antenna-from-new-industrial-production-facility-targets-100-deployable-apertures-annually/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-14T10:59:04.633468Z",
+            "shown_at": [
+                "2026-04-14T10:59:05.498175Z"
             ]
         }
     ]

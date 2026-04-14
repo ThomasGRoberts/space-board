@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 19 | 21 | 27 | 47 |
+| spacenews | 20 | 22 | 28 | 48 |
 | nyt | 0 | 0 | 13 | 34 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2432,3 +2432,4 @@
 - **Apr 14, 09:14 AM** - Nominate space industry leaders for the 2026 SpaceNews Icon Awards (spacenews)
 - **Apr 14, 09:49 AM** - L3Harris investing upfront in bid for Golden Dome work (spacenews)
 - **Apr 14, 10:24 AM** - Jielong-3 launches internet test satellite, Kinetica-1 lofts 8 remote sensing sats (spacenews)
+- **Apr 14, 10:59 AM** - Tendeg Delivers First Antenna from New Industrial Production Facility, Targets 100+ Deployable Apertures Annually (spacenews)
