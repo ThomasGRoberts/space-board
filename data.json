@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-14T00:04:40.196031+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6ccebffedfc410c2366fa18376f0e5ca",
+    "trigger_count": 0,
+    "current_item_id": "826dccf13549419fe6c67349c859faf9",
     "data": [
         {
             "id": "177aa1dae828c45c0e09107773e09b86",
@@ -7991,9 +7991,12 @@
             "source": "spacenews",
             "text": "Axiom Space plans 2027 flight test of spacesuit",
             "source_link": "https://spacenews.com/axiom-space-plans-2027-flight-test-of-spacesuit/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-04-14T12:09:28.301920Z"
+            "fetched_datetime": "2026-04-14T12:09:28.301920Z",
+            "shown_at": [
+                "2026-04-14T12:44:21.151524Z"
+            ]
         },
         {
             "id": "43ae678178adb3bd20f0f1fd011799e0",

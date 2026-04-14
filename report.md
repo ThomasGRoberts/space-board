@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 21 | 24 | 27 | 48 |
+| spacenews | 21 | 24 | 28 | 49 |
 | nyt | 0 | 0 | 13 | 33 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2435,3 +2435,4 @@
 - **Apr 14, 10:59 AM** - Tendeg Delivers First Antenna from New Industrial Production Facility, Targets 100+ Deployable Apertures Annually (spacenews)
 - **Apr 14, 11:34 AM** - See Photos From All 10 Days of NASA’s Artemis II Moon Mission (nyt)
 - **Apr 14, 12:09 PM** - Ecliptic Enterprises and The Extraterrestrial Investment Company Announce Strategic Agreement (spacenews)
+- **Apr 14, 12:44 PM** - Axiom Space plans 2027 flight test of spacesuit (spacenews)
