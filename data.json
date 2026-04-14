@@ -1,9 +1,213 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-04-13T00:04:24.241651+00:00",
-    "trigger_count": 1,
+    "last_run_datetime": "2026-04-14T00:04:40.196031+00:00",
+    "trigger_count": 2,
     "current_item_id": "92db2f3c81252b5c11b94c299d053401",
     "data": [
+        {
+            "id": "177aa1dae828c45c0e09107773e09b86",
+            "source": "spacenews",
+            "text": "Washington agrees on space urgency, but not on how to deliver",
+            "source_link": "https://spacenews.com/washington-agrees-on-space-urgency-but-not-on-how-to-deliver/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-13T22:44:11.426396Z",
+            "shown_at": [
+                "2026-04-13T22:44:12.719824Z"
+            ]
+        },
+        {
+            "id": "00280be968486fc1707a567b6a489538",
+            "source": "spacenews",
+            "text": "Q&A: Heather Pringle on what to expect from Space Symposium",
+            "source_link": "https://spacenews.com/qa-heather-pringle-on-what-to-expect-from-space-symposium/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-13T22:09:12.945175Z",
+            "shown_at": [
+                "2026-04-13T22:09:13.872479Z"
+            ]
+        },
+        {
+            "id": "c6dacda2caa8142f17bf96cfa40e507f",
+            "source": "spacenews",
+            "text": "Amazon reveals aviation antenna as LEO inflight connectivity race intensifies",
+            "source_link": "https://spacenews.com/amazon-reveals-aviation-antenna-as-leo-inflight-connectivity-race-intensifies/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-13T19:14:22.123483Z",
+            "shown_at": [
+                "2026-04-13T21:34:25.951588Z"
+            ]
+        },
+        {
+            "id": "c8658b706220355faf3aa53a09700cee",
+            "source": "spacenews",
+            "text": "The path to $50 billion in new space investment",
+            "source_link": "https://spacenews.com/the-path-to-50-billion-in-new-space-investment/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-13T19:14:22.123450Z",
+            "shown_at": [
+                "2026-04-13T20:59:21.540041Z"
+            ]
+        },
+        {
+            "id": "688f5715e5e30e829944c7843b80cfd9",
+            "source": "spacenews",
+            "text": "Spring fever pitch: Three questions to listen for this Space Symposium",
+            "source_link": "https://spacenews.com/spring-fever-pitch-three-questions-to-listen-for-this-space-symposium/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-13T19:14:22.123416Z",
+            "shown_at": [
+                "2026-04-13T20:24:29.337096Z"
+            ]
+        },
+        {
+            "id": "a95e72f5f3cfcf71efd52fedee9f3fc9",
+            "source": "spacenews",
+            "text": "Aerospace to support industry with government furnished talent",
+            "source_link": "https://spacenews.com/aerospace-to-support-industry-with-government-furnished-talent/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-13T19:14:22.123373Z",
+            "shown_at": [
+                "2026-04-13T19:49:07.638481Z"
+            ]
+        },
+        {
+            "id": "d9366021734968587743052ca4cac5ab",
+            "source": "spacenews",
+            "text": "Phantom Space eyes edge in orbital data race with thermal deal",
+            "source_link": "https://spacenews.com/phantom-space-eyes-edge-in-orbital-data-race-with-thermal-deal/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-13T19:14:22.123281Z",
+            "shown_at": [
+                "2026-04-13T19:14:23.877049Z"
+            ]
+        },
+        {
+            "id": "0e936879dc83352dc5dd4075ef3b13cf",
+            "source": "spacenews",
+            "text": "Near Real-Time Payload Data Delivery with SSC Space Go",
+            "source_link": "https://spacenews.com/near-real-time-payload-data-delivery-with-ssc-space-go/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-13T16:39:12.773044Z",
+            "shown_at": [
+                "2026-04-13T18:04:51.613956Z"
+            ]
+        },
+        {
+            "id": "b96efdc33bde29c374894f662245f963",
+            "source": "spacenews",
+            "text": "Gravitics targets 2027 flight test for ‘orbital carrier’ architecture",
+            "source_link": "https://spacenews.com/gravitics-targets-2027-flight-test-for-orbital-carrier-architecture/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-13T16:39:12.772998Z",
+            "shown_at": [
+                "2026-04-13T17:29:11.613373Z"
+            ]
+        },
+        {
+            "id": "f358402df9b20b4f10658305f08e558b",
+            "source": "spacenews",
+            "text": "Fueling test suggests imminent debut of China’s reusable Long March 10B rocket",
+            "source_link": "https://spacenews.com/fueling-test-suggests-imminent-debut-of-chinas-reusable-long-march-10b-rocket/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-13T16:39:12.772928Z",
+            "shown_at": [
+                "2026-04-13T16:39:13.456565Z"
+            ]
+        },
+        {
+            "id": "242213f0f8bc2ef8297a72ee2ab7ca8d",
+            "source": "spacenews",
+            "text": "Citra Space raises $15 million Series A to expand platform for identifying objects in orbit",
+            "source_link": "https://spacenews.com/citra-space-raises-15-million-series-a-to-expand-platform-for-identifying-objects-in-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-13T14:54:29.202825Z",
+            "shown_at": [
+                "2026-04-13T15:29:23.474769Z"
+            ]
+        },
+        {
+            "id": "ab37b1cbd3a107f229f4b78e83b46f8a",
+            "source": "spacenews",
+            "text": "Near real-time payload data delivery with SSC Space Go",
+            "source_link": "https://spacenews.com/near-real-time-payload-data-delivery-with-ssc-space-go/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-13T14:54:29.202742Z",
+            "shown_at": [
+                "2026-04-13T14:54:30.097876Z"
+            ]
+        },
+        {
+            "id": "bb31b97ec541d0330bf5ca19e14b7423",
+            "source": "spacenews",
+            "text": "Orbit is filling up fast. Now comes the awkward bit: pre-empting and handling a crisis.",
+            "source_link": "https://spacenews.com/orbit-is-filling-up-fast-now-comes-the-awkward-bit-pre-empting-and-handling-a-crisis/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-13T13:09:10.099906Z",
+            "shown_at": [
+                "2026-04-13T13:44:29.771473Z"
+            ]
+        },
+        {
+            "id": "d461b947d5afdf3e37600d6dc21b6608",
+            "source": "spacenews",
+            "text": "Atomic-6 unveils online marketplace for orbital data centers",
+            "source_link": "https://spacenews.com/atomic-6-unveils-online-marketplace-for-orbital-data-centers/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-13T13:09:10.099819Z",
+            "shown_at": [
+                "2026-04-13T13:09:10.947878Z"
+            ]
+        },
+        {
+            "id": "3a1e760da91c198e6f5f98d0f7fa1e67",
+            "source": "spacenews",
+            "text": "Q&A: Building a broadband constellation for a contested space era",
+            "source_link": "https://spacenews.com/qa-building-a-broadband-constellation-for-a-contested-space-era/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-13T11:24:17.945528Z",
+            "shown_at": [
+                "2026-04-13T11:58:58.498509Z"
+            ]
+        },
+        {
+            "id": "61eb2317b18fd0ab50ed68c4d3a02e55",
+            "source": "spacenews",
+            "text": "Key Senate appropriator rejects proposed NASA budget cuts",
+            "source_link": "https://spacenews.com/key-senate-appropriator-rejects-proposed-nasa-budget-cuts/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-13T11:24:17.945444Z",
+            "shown_at": [
+                "2026-04-13T11:24:18.874781Z"
+            ]
+        },
+        {
+            "id": "5476ff1a384eb705291e9c92e9d49a82",
+            "source": "spacenews",
+            "text": "Sophia and Kepler to marry orbital compute with optical links",
+            "source_link": "https://spacenews.com/sophia-and-kepler-to-marry-orbital-compute-with-optical-links/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-13T04:24:22.419807Z",
+            "shown_at": [
+                "2026-04-13T04:24:22.961516Z"
+            ]
+        },
         {
             "id": "d4537254c8e77c77c696fc374867ac4b",
             "source": "spacenews",
@@ -7704,482 +7908,6 @@
                 "2026-02-17T07:54:03.370367Z",
                 "2026-02-17T10:14:41.804754Z",
                 "2026-02-17T14:19:15.258682Z"
-            ]
-        },
-        {
-            "id": "307167dfdce7da3b2347312bfc159be9",
-            "source": "spacenews",
-            "text": "Apolink and Galaxia team up to improve planned data relay capability",
-            "source_link": "https://spacenews.com/apolink-and-galaxia-team-up-to-improve-planned-data-relay-capability/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-10T15:09:15.209795Z",
-            "shown_at": [
-                "2026-02-10T15:09:16.428343Z",
-                "2026-02-11T04:04:45.798508Z"
-            ]
-        },
-        {
-            "id": "49e3430b621aa05889ab0ed90df48fb6",
-            "source": "spacenews",
-            "text": "NASA, Boeing still working on Starliner return to flight",
-            "source_link": "https://spacenews.com/nasa-boeing-still-working-on-starliner-return-to-flight/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-10T13:59:09.322722Z",
-            "shown_at": [
-                "2026-02-10T13:59:10.451946Z"
-            ]
-        },
-        {
-            "id": "d6f55d3df7f3a40a256974ccfa9507b3",
-            "source": "spacenews",
-            "text": "Musk says SpaceX focus is on the moon rather than Mars",
-            "source_link": "https://spacenews.com/musk-says-spacex-focus-is-on-the-moon-rather-than-mars/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-09T23:19:17.880976Z",
-            "shown_at": [
-                "2026-02-09T23:19:18.921955Z",
-                "2026-02-10T06:24:17.634507Z",
-                "2026-02-14T01:18:50.075918Z"
-            ]
-        },
-        {
-            "id": "a945383744a439cd03313e3c1e5d12ea",
-            "source": "breaking_defense",
-            "text": "Space Force buys second Otter spacecraft to power satellites on orbit",
-            "source_link": "https://breakingdefense.com/2026/02/space-force-buys-second-otter-spacecraft-to-power-satellites-on-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-09T22:09:21.390033Z",
-            "shown_at": [
-                "2026-02-09T22:09:22.641313Z",
-                "2026-02-10T04:04:34.999908Z",
-                "2026-02-10T07:34:09.410286Z",
-                "2026-02-10T09:19:17.887530Z",
-                "2026-02-10T12:49:16.646980Z",
-                "2026-02-11T01:44:04.763592Z",
-                "2026-02-11T03:29:03.921688Z",
-                "2026-02-11T05:49:09.969317Z",
-                "2026-02-11T12:49:11.326505Z",
-                "2026-02-12T03:59:18.870487Z",
-                "2026-02-13T03:54:09.563896Z",
-                "2026-02-13T05:38:57.860874Z",
-                "2026-02-14T02:28:58.991915Z",
-                "2026-02-14T11:19:04.524347Z",
-                "2026-02-14T13:04:47.117945Z",
-                "2026-02-14T23:39:01.908979Z",
-                "2026-02-15T01:24:09.171837Z",
-                "2026-02-15T06:39:14.847725Z",
-                "2026-02-15T13:38:55.734002Z",
-                "2026-02-15T22:29:04.645522Z",
-                "2026-02-16T04:18:59.013998Z",
-                "2026-02-16T07:53:58.040662Z",
-                "2026-02-16T16:04:28.993906Z",
-                "2026-02-16T17:49:35.838273Z"
-            ]
-        },
-        {
-            "id": "f50c800208cb3dd0a58e87a5aecad8e1",
-            "source": "spacenews",
-            "text": "There’s a way forward for sovereign European space intel, but is there the will?",
-            "source_link": "https://spacenews.com/theres-a-way-forward-for-sovereign-european-space-intel-but-is-there-the-will/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-09T14:24:17.097147Z",
-            "shown_at": [
-                "2026-02-09T14:24:18.121276Z",
-                "2026-02-13T23:34:28.923088Z"
-            ]
-        },
-        {
-            "id": "1e838290c9ff78d77a4d8fd2c961a4f3",
-            "source": "spacenews",
-            "text": "Falcon 9 returns to flight after upper stage engine investigation",
-            "source_link": "https://spacenews.com/falcon-9-returns-to-flight-after-upper-stage-engine-investigation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-07T23:34:20.713966Z",
-            "shown_at": [
-                "2026-02-07T23:34:21.842926Z",
-                "2026-02-08T03:09:09.643460Z",
-                "2026-02-10T11:39:13.697337Z",
-                "2026-02-12T08:39:37.409688Z",
-                "2026-02-13T20:39:07.845169Z"
-            ]
-        },
-        {
-            "id": "d470c25e8fc3e697af0ea06fecf6264f",
-            "source": "spacenews",
-            "text": "SpaceX IPO could drive investor interest in other space companies",
-            "source_link": "https://spacenews.com/spacex-ipo-could-drive-investor-interest-in-other-space-companies/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-07T21:13:59.174822Z",
-            "shown_at": [
-                "2026-02-07T21:14:00.340835Z",
-                "2026-02-08T22:34:24.620285Z",
-                "2026-02-09T16:09:36.768420Z",
-                "2026-02-09T18:39:24.329910Z",
-                "2026-02-12T14:29:10.172492Z",
-                "2026-02-13T08:34:21.039061Z"
-            ]
-        },
-        {
-            "id": "8e8505e56d0ba7ae793d0fb21555dc18",
-            "source": "spacenews",
-            "text": "Space Force awards $54.5 million contract to Starfish Space for GEO servicing vehicle",
-            "source_link": "https://spacenews.com/space-force-awards-54-5-million-contract-to-starfish-space-for-geo-servicing-vehicle/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-07T15:59:09.118417Z",
-            "shown_at": [
-                "2026-02-07T15:59:10.246391Z"
-            ]
-        },
-        {
-            "id": "6ae9a2faa499dd516419c91341868a8f",
-            "source": "spacenews",
-            "text": "China launches reusable spaceplane on fourth secretive orbital mission",
-            "source_link": "https://spacenews.com/china-launches-reusable-spaceplane-on-fourth-secretive-orbital-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-07T11:09:05.607140Z",
-            "shown_at": [
-                "2026-02-07T11:09:06.944986Z"
-            ]
-        },
-        {
-            "id": "76b2bb2f832d86c575ccd4b3e79112a4",
-            "source": "spacenews",
-            "text": "NASA seeks to bolster workforce, reduce reliance on contractors",
-            "source_link": "https://spacenews.com/nasa-seeks-to-bolster-workforce-reduce-reliance-on-contractors/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-07T00:34:19.934123Z",
-            "shown_at": [
-                "2026-02-07T00:34:20.980108Z",
-                "2026-02-11T12:14:26.233151Z"
-            ]
-        },
-        {
-            "id": "d8a6eb363e7c4ab0959255288e57e701",
-            "source": "spacenews",
-            "text": "Viasat sees orbital data center partnership opportunity",
-            "source_link": "https://spacenews.com/viasat-sees-orbital-data-center-partnership-opportunity/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-06T23:59:28.371975Z",
-            "shown_at": [
-                "2026-02-06T23:59:29.674222Z"
-            ]
-        },
-        {
-            "id": "330013857f6b1b427f03091ecd045c1f",
-            "source": "spacenews",
-            "text": "‘Now it’s time to turn the baton over to others. I hope there’s somebody else to grab that baton.’",
-            "source_link": "https://spacenews.com/now-its-time-to-turn-the-baton-over-to-others-i-hope-theres-somebody-else-to-grab-that-baton/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-06T19:54:05.405676Z",
-            "shown_at": [
-                "2026-02-06T22:14:08.540008Z",
-                "2026-02-09T05:44:04.988902Z",
-                "2026-02-13T06:49:40.507563Z"
-            ]
-        },
-        {
-            "id": "75f69c8f999b551f3e11999b8c318957",
-            "source": "spacenews",
-            "text": "‘You need competent people in the government to direct and make decisions.’",
-            "source_link": "https://spacenews.com/you-need-competent-people-in-the-government-to-direct-and-make-decisions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-06T19:54:05.405641Z",
-            "shown_at": [
-                "2026-02-06T21:39:07.358697Z"
-            ]
-        },
-        {
-            "id": "67f9d5bcbc3e611c8aec106d9944aaab",
-            "source": "spacenews",
-            "text": "‘I loved thinking about how to make science possible for America and for the world’",
-            "source_link": "https://spacenews.com/i-loved-thinking-about-how-to-make-science-possible-for-america-and-for-the-world/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-06T19:54:05.405590Z",
-            "shown_at": [
-                "2026-02-06T21:04:58.716350Z",
-                "2026-02-07T07:39:15.760539Z"
-            ]
-        },
-        {
-            "id": "4492df805ebbcb33ee775a83fcf8a54c",
-            "source": "spacenews",
-            "text": "‘Serving the country and pushing the boundaries of human existence is very purposeful.’",
-            "source_link": "https://spacenews.com/serving-the-country-and-pushing-the-boundaries-of-human-existence-is-very-purposeful/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-06T19:54:05.405533Z",
-            "shown_at": [
-                "2026-02-06T20:29:08.482776Z",
-                "2026-02-08T06:44:10.206785Z",
-                "2026-02-09T09:29:10.850660Z"
-            ]
-        },
-        {
-            "id": "0ce4a43e08331388ea8b6035762af89b",
-            "source": "spacenews",
-            "text": "‘We helped usher in the modern era of AI in NGA.’",
-            "source_link": "https://spacenews.com/we-helped-usher-in-the-modern-era-of-ai-in-nga/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-06T19:54:05.405456Z",
-            "shown_at": [
-                "2026-02-06T19:54:06.822118Z",
-                "2026-02-10T09:54:21.095674Z",
-                "2026-02-12T12:08:59.386234Z"
-            ]
-        },
-        {
-            "id": "b95df1ea9b0d9b2fe4e86ba5a7077c9e",
-            "source": "breaking_defense",
-            "text": "Army’s new space career field won’t ‘encroach’ on Space Force: Official",
-            "source_link": "https://breakingdefense.com/2026/02/armys-new-space-career-field-wont-encroach-on-space-force-official/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-06T18:38:55.737291Z",
-            "shown_at": [
-                "2026-02-06T18:38:56.937677Z",
-                "2026-02-07T03:28:48.978231Z",
-                "2026-02-07T08:49:23.030381Z",
-                "2026-02-07T10:34:13.971967Z",
-                "2026-02-07T14:08:56.496469Z",
-                "2026-02-07T18:19:14.447469Z",
-                "2026-02-07T20:04:30.883916Z",
-                "2026-02-07T21:49:01.372382Z",
-                "2026-02-08T00:09:18.546517Z",
-                "2026-02-08T01:59:10.443902Z",
-                "2026-02-08T03:44:09.022260Z",
-                "2026-02-08T05:34:25.484733Z",
-                "2026-02-08T12:34:15.815821Z",
-                "2026-02-08T17:48:56.429001Z",
-                "2026-02-08T19:34:16.261067Z",
-                "2026-02-08T23:15:04.154017Z",
-                "2026-02-09T00:59:08.569799Z",
-                "2026-02-09T04:34:27.932454Z",
-                "2026-02-09T15:34:26.008291Z",
-                "2026-02-09T20:19:28.739072Z",
-                "2026-02-10T00:29:13.875994Z",
-                "2026-02-10T05:49:44.224412Z",
-                "2026-02-10T11:04:54.977201Z",
-                "2026-02-12T01:39:04.279922Z",
-                "2026-02-12T16:14:19.767955Z"
-            ]
-        },
-        {
-            "id": "5476ff1a384eb705291e9c92e9d49a82",
-            "source": "spacenews",
-            "text": "Sophia and Kepler to marry orbital compute with optical links",
-            "source_link": "https://spacenews.com/sophia-and-kepler-to-marry-orbital-compute-with-optical-links/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-13T04:24:22.419807Z",
-            "shown_at": [
-                "2026-04-13T04:24:22.961516Z"
-            ]
-        },
-        {
-            "id": "61eb2317b18fd0ab50ed68c4d3a02e55",
-            "source": "spacenews",
-            "text": "Key Senate appropriator rejects proposed NASA budget cuts",
-            "source_link": "https://spacenews.com/key-senate-appropriator-rejects-proposed-nasa-budget-cuts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-13T11:24:17.945444Z",
-            "shown_at": [
-                "2026-04-13T11:24:18.874781Z"
-            ]
-        },
-        {
-            "id": "3a1e760da91c198e6f5f98d0f7fa1e67",
-            "source": "spacenews",
-            "text": "Q&A: Building a broadband constellation for a contested space era",
-            "source_link": "https://spacenews.com/qa-building-a-broadband-constellation-for-a-contested-space-era/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-13T11:24:17.945528Z",
-            "shown_at": [
-                "2026-04-13T11:58:58.498509Z"
-            ]
-        },
-        {
-            "id": "d461b947d5afdf3e37600d6dc21b6608",
-            "source": "spacenews",
-            "text": "Atomic-6 unveils online marketplace for orbital data centers",
-            "source_link": "https://spacenews.com/atomic-6-unveils-online-marketplace-for-orbital-data-centers/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-13T13:09:10.099819Z",
-            "shown_at": [
-                "2026-04-13T13:09:10.947878Z"
-            ]
-        },
-        {
-            "id": "bb31b97ec541d0330bf5ca19e14b7423",
-            "source": "spacenews",
-            "text": "Orbit is filling up fast. Now comes the awkward bit: pre-empting and handling a crisis.",
-            "source_link": "https://spacenews.com/orbit-is-filling-up-fast-now-comes-the-awkward-bit-pre-empting-and-handling-a-crisis/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-13T13:09:10.099906Z",
-            "shown_at": [
-                "2026-04-13T13:44:29.771473Z"
-            ]
-        },
-        {
-            "id": "ab37b1cbd3a107f229f4b78e83b46f8a",
-            "source": "spacenews",
-            "text": "Near real-time payload data delivery with SSC Space Go",
-            "source_link": "https://spacenews.com/near-real-time-payload-data-delivery-with-ssc-space-go/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-13T14:54:29.202742Z",
-            "shown_at": [
-                "2026-04-13T14:54:30.097876Z"
-            ]
-        },
-        {
-            "id": "242213f0f8bc2ef8297a72ee2ab7ca8d",
-            "source": "spacenews",
-            "text": "Citra Space raises $15 million Series A to expand platform for identifying objects in orbit",
-            "source_link": "https://spacenews.com/citra-space-raises-15-million-series-a-to-expand-platform-for-identifying-objects-in-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-13T14:54:29.202825Z",
-            "shown_at": [
-                "2026-04-13T15:29:23.474769Z"
-            ]
-        },
-        {
-            "id": "f358402df9b20b4f10658305f08e558b",
-            "source": "spacenews",
-            "text": "Fueling test suggests imminent debut of China’s reusable Long March 10B rocket",
-            "source_link": "https://spacenews.com/fueling-test-suggests-imminent-debut-of-chinas-reusable-long-march-10b-rocket/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-13T16:39:12.772928Z",
-            "shown_at": [
-                "2026-04-13T16:39:13.456565Z"
-            ]
-        },
-        {
-            "id": "b96efdc33bde29c374894f662245f963",
-            "source": "spacenews",
-            "text": "Gravitics targets 2027 flight test for ‘orbital carrier’ architecture",
-            "source_link": "https://spacenews.com/gravitics-targets-2027-flight-test-for-orbital-carrier-architecture/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-13T16:39:12.772998Z",
-            "shown_at": [
-                "2026-04-13T17:29:11.613373Z"
-            ]
-        },
-        {
-            "id": "0e936879dc83352dc5dd4075ef3b13cf",
-            "source": "spacenews",
-            "text": "Near Real-Time Payload Data Delivery with SSC Space Go",
-            "source_link": "https://spacenews.com/near-real-time-payload-data-delivery-with-ssc-space-go/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-13T16:39:12.773044Z",
-            "shown_at": [
-                "2026-04-13T18:04:51.613956Z"
-            ]
-        },
-        {
-            "id": "d9366021734968587743052ca4cac5ab",
-            "source": "spacenews",
-            "text": "Phantom Space eyes edge in orbital data race with thermal deal",
-            "source_link": "https://spacenews.com/phantom-space-eyes-edge-in-orbital-data-race-with-thermal-deal/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-13T19:14:22.123281Z",
-            "shown_at": [
-                "2026-04-13T19:14:23.877049Z"
-            ]
-        },
-        {
-            "id": "a95e72f5f3cfcf71efd52fedee9f3fc9",
-            "source": "spacenews",
-            "text": "Aerospace to support industry with government furnished talent",
-            "source_link": "https://spacenews.com/aerospace-to-support-industry-with-government-furnished-talent/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-13T19:14:22.123373Z",
-            "shown_at": [
-                "2026-04-13T19:49:07.638481Z"
-            ]
-        },
-        {
-            "id": "688f5715e5e30e829944c7843b80cfd9",
-            "source": "spacenews",
-            "text": "Spring fever pitch: Three questions to listen for this Space Symposium",
-            "source_link": "https://spacenews.com/spring-fever-pitch-three-questions-to-listen-for-this-space-symposium/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-13T19:14:22.123416Z",
-            "shown_at": [
-                "2026-04-13T20:24:29.337096Z"
-            ]
-        },
-        {
-            "id": "c8658b706220355faf3aa53a09700cee",
-            "source": "spacenews",
-            "text": "The path to $50 billion in new space investment",
-            "source_link": "https://spacenews.com/the-path-to-50-billion-in-new-space-investment/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-13T19:14:22.123450Z",
-            "shown_at": [
-                "2026-04-13T20:59:21.540041Z"
-            ]
-        },
-        {
-            "id": "c6dacda2caa8142f17bf96cfa40e507f",
-            "source": "spacenews",
-            "text": "Amazon reveals aviation antenna as LEO inflight connectivity race intensifies",
-            "source_link": "https://spacenews.com/amazon-reveals-aviation-antenna-as-leo-inflight-connectivity-race-intensifies/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-13T19:14:22.123483Z",
-            "shown_at": [
-                "2026-04-13T21:34:25.951588Z"
-            ]
-        },
-        {
-            "id": "00280be968486fc1707a567b6a489538",
-            "source": "spacenews",
-            "text": "Q&A: Heather Pringle on what to expect from Space Symposium",
-            "source_link": "https://spacenews.com/qa-heather-pringle-on-what-to-expect-from-space-symposium/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-13T22:09:12.945175Z",
-            "shown_at": [
-                "2026-04-13T22:09:13.872479Z"
-            ]
-        },
-        {
-            "id": "177aa1dae828c45c0e09107773e09b86",
-            "source": "spacenews",
-            "text": "Washington agrees on space urgency, but not on how to deliver",
-            "source_link": "https://spacenews.com/washington-agrees-on-space-urgency-but-not-on-how-to-deliver/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-13T22:44:11.426396Z",
-            "shown_at": [
-                "2026-04-13T22:44:12.719824Z"
             ]
         }
     ]
