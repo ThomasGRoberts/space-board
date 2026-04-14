@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-14T00:04:40.196031+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c74537e7e2083f6de897230dc4c0a5fc",
+    "trigger_count": 0,
+    "current_item_id": "bd1179f59e6e99fefc0d73948b793d25",
     "data": [
         {
             "id": "177aa1dae828c45c0e09107773e09b86",
@@ -8033,6 +8033,45 @@
             "shown_at": [
                 "2026-04-14T14:29:25.128165Z"
             ]
+        },
+        {
+            "id": "bd1179f59e6e99fefc0d73948b793d25",
+            "source": "spacenews",
+            "text": "Xoople and L3Harris team up to build satellites for ‘Earth AI’ ",
+            "source_link": "https://spacenews.com/xoople-and-l3harris-team-up-to-build-satellites-for-earth-ai/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-14T15:04:56.022101Z",
+            "shown_at": [
+                "2026-04-14T15:04:57.096836Z"
+            ]
+        },
+        {
+            "id": "f37441e37f3fd87c40e4ac4634936e62",
+            "source": "spacenews",
+            "text": "Archangel Lightworks Raises Over $13.5m In Series A Funding Round",
+            "source_link": "https://spacenews.com/archangel-lightworks-raises-over-13-5m-in-series-a-funding-round/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-14T15:04:56.022160Z"
+        },
+        {
+            "id": "33f0a2331df4272a9a2b64fae4cf470d",
+            "source": "spacenews",
+            "text": "Amazon buys Globalstar to catapult into direct-to-device race",
+            "source_link": "https://spacenews.com/amazon-buys-globalstar-to-catapult-into-direct-to-device-race/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-14T15:04:56.022203Z"
+        },
+        {
+            "id": "b71335204985e7d3f3b003b0081241aa",
+            "source": "spacenews",
+            "text": "BAE Systems introduces Ascent™ spacecraft to support space superiority and exploration",
+            "source_link": "https://spacenews.com/bae-systems-introduces-ascent-spacecraft-to-support-space-superiority-and-exploration/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-14T15:04:56.022239Z"
         }
     ]
 }
