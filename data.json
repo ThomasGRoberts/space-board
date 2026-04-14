@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-14T00:04:40.196031+00:00",
-    "trigger_count": 6,
-    "current_item_id": "826dccf13549419fe6c67349c859faf9",
+    "trigger_count": 0,
+    "current_item_id": "43ae678178adb3bd20f0f1fd011799e0",
     "data": [
         {
             "id": "177aa1dae828c45c0e09107773e09b86",
@@ -8003,9 +8003,12 @@
             "source": "spacenews",
             "text": "AI and geopolitics spur space investment surge",
             "source_link": "https://spacenews.com/ai-and-geopolitics-spur-space-investment-surge/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-04-14T12:09:28.301970Z"
+            "fetched_datetime": "2026-04-14T12:09:28.301970Z",
+            "shown_at": [
+                "2026-04-14T13:19:31.814729Z"
+            ]
         }
     ]
 }
