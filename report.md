@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 23 | 30 | 29 | 51 |
+| spacenews | 23 | 30 | 30 | 52 |
 | nyt | 0 | 0 | 11 | 30 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2441,3 +2441,4 @@
 - **Apr 14, 02:29 PM** - Is COPUOS at a turning point? Governing space in a new era (spacenews)
 - **Apr 14, 03:04 PM** - Xoople and L3Harris team up to build satellites for ‘Earth AI’  (spacenews)
 - **Apr 14, 03:39 PM** - Archangel Lightworks Raises Over $13.5m In Series A Funding Round (spacenews)
+- **Apr 14, 04:14 PM** - Amazon buys Globalstar to catapult into direct-to-device race (spacenews)
