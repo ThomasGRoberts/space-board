@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-14T00:04:40.196031+00:00",
-    "trigger_count": 6,
-    "current_item_id": "fd0715942610ef8e2464dd87bec3cc5a",
+    "trigger_count": 0,
+    "current_item_id": "6ccebffedfc410c2366fa18376f0e5ca",
     "data": [
         {
             "id": "177aa1dae828c45c0e09107773e09b86",
@@ -7973,6 +7973,36 @@
             "shown_at": [
                 "2026-04-14T10:59:05.498175Z"
             ]
+        },
+        {
+            "id": "6ccebffedfc410c2366fa18376f0e5ca",
+            "source": "spacenews",
+            "text": "Ecliptic Enterprises and The Extraterrestrial Investment Company Announce Strategic Agreement",
+            "source_link": "https://spacenews.com/ecliptic-enterprises-and-the-extraterrestrial-investment-company-extraterrestrial-announce-strategic-agreement/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-14T12:09:28.301840Z",
+            "shown_at": [
+                "2026-04-14T12:09:29.539245Z"
+            ]
+        },
+        {
+            "id": "826dccf13549419fe6c67349c859faf9",
+            "source": "spacenews",
+            "text": "Axiom Space plans 2027 flight test of spacesuit",
+            "source_link": "https://spacenews.com/axiom-space-plans-2027-flight-test-of-spacesuit/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-14T12:09:28.301920Z"
+        },
+        {
+            "id": "43ae678178adb3bd20f0f1fd011799e0",
+            "source": "spacenews",
+            "text": "AI and geopolitics spur space investment surge",
+            "source_link": "https://spacenews.com/ai-and-geopolitics-spur-space-investment-surge/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-14T12:09:28.301970Z"
         }
     ]
 }
