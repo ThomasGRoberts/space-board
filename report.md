@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 21 | 26 | 28 | 49 |
+| spacenews | 21 | 26 | 29 | 50 |
 | nyt | 0 | 0 | 12 | 32 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2438,3 +2438,4 @@
 - **Apr 14, 12:44 PM** - Axiom Space plans 2027 flight test of spacesuit (spacenews)
 - **Apr 14, 01:19 PM** - AI and geopolitics spur space investment surge (spacenews)
 - **Apr 14, 01:54 PM** - Eutelsat’s U.S. arm pitches hosted payloads deals on OneWeb satellites (spacenews)
+- **Apr 14, 02:29 PM** - Is COPUOS at a turning point? Governing space in a new era (spacenews)

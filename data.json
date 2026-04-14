@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-14T00:04:40.196031+00:00",
-    "trigger_count": 6,
-    "current_item_id": "25c6e085aaa5febb00ae8cf31f02f830",
+    "trigger_count": 0,
+    "current_item_id": "c74537e7e2083f6de897230dc4c0a5fc",
     "data": [
         {
             "id": "177aa1dae828c45c0e09107773e09b86",
@@ -8027,9 +8027,12 @@
             "source": "spacenews",
             "text": "Is COPUOS at a turning point? Governing space in a new era",
             "source_link": "https://spacenews.com/is-copuos-at-a-turning-point-governing-space-in-a-new-era/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-04-14T13:54:24.764076Z"
+            "fetched_datetime": "2026-04-14T13:54:24.764076Z",
+            "shown_at": [
+                "2026-04-14T14:29:25.128165Z"
+            ]
         }
     ]
 }
