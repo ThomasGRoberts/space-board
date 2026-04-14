@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-14T00:04:40.196031+00:00",
-    "trigger_count": 6,
-    "current_item_id": "efb84ac0185e0aa9ba69da2bddc8ae76",
+    "trigger_count": 0,
+    "current_item_id": "48bcb4decea78813cfe552cae8caf93f",
     "data": [
         {
             "id": "177aa1dae828c45c0e09107773e09b86",
@@ -8130,6 +8130,54 @@
             "shown_at": [
                 "2026-04-14T19:44:15.478602Z"
             ]
+        },
+        {
+            "id": "48bcb4decea78813cfe552cae8caf93f",
+            "source": "spacenews",
+            "text": "Seagate Space and Oceaneering Join Forces to Build the Future of Offshore Launch Infrastructure",
+            "source_link": "https://spacenews.com/seagate-space-and-oceaneering-join-forces-to-build-the-future-of-offshore-launch-infrastructure/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-14T20:24:25.011210Z",
+            "shown_at": [
+                "2026-04-14T20:24:26.032496Z"
+            ]
+        },
+        {
+            "id": "98170746e1bd46abbe927fc53f458ebf",
+            "source": "spacenews",
+            "text": "Put science back in the driver’s seat",
+            "source_link": "https://spacenews.com/put-science-back-in-the-drivers-seat/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-14T20:24:25.011282Z"
+        },
+        {
+            "id": "da6e5281c35e21bc13eab1c17fcfc1eb",
+            "source": "spacenews",
+            "text": "White House releases space nuclear policy",
+            "source_link": "https://spacenews.com/white-house-releases-space-nuclear-policy/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-14T20:24:25.011343Z"
+        },
+        {
+            "id": "db1d34cda08ba5ddc52bf7b696c4ae1b",
+            "source": "spacenews",
+            "text": "Defense firms unveil new satellite designs for orbital warfare",
+            "source_link": "https://spacenews.com/defense-firms-unveil-new-satellite-designs-for-orbital-warfare/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-14T20:24:25.011395Z"
+        },
+        {
+            "id": "951d926a1fa12a24040667e9b1e771a8",
+            "source": "spacenews",
+            "text": "Q&A: Aerospace Corp flexes its data advantage",
+            "source_link": "https://spacenews.com/qa-aerospace-corp-flexes-its-data-advantage/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-14T20:24:25.011447Z"
         }
     ]
 }
