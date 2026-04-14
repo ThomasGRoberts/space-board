@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-14T00:04:40.196031+00:00",
-    "trigger_count": 6,
-    "current_item_id": "33f0a2331df4272a9a2b64fae4cf470d",
+    "trigger_count": 0,
+    "current_item_id": "b71335204985e7d3f3b003b0081241aa",
     "data": [
         {
             "id": "177aa1dae828c45c0e09107773e09b86",
@@ -8075,9 +8075,12 @@
             "source": "spacenews",
             "text": "BAE Systems introduces Ascent™ spacecraft to support space superiority and exploration",
             "source_link": "https://spacenews.com/bae-systems-introduces-ascent-spacecraft-to-support-space-superiority-and-exploration/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-04-14T15:04:56.022239Z"
+            "fetched_datetime": "2026-04-14T15:04:56.022239Z",
+            "shown_at": [
+                "2026-04-14T16:49:11.052005Z"
+            ]
         }
     ]
 }
