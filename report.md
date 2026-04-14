@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 24 | 39 | 30 | 54 |
+| spacenews | 24 | 39 | 31 | 55 |
 | nyt | 0 | 0 | 11 | 27 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2450,3 +2450,4 @@
 - **Apr 14, 07:44 PM** - RTX’s Blue Canyon Technologies expands reaction wheel production capacity (spacenews)
 - **Apr 14, 08:24 PM** - Seagate Space and Oceaneering Join Forces to Build the Future of Offshore Launch Infrastructure (spacenews)
 - **Apr 14, 08:59 PM** - Put science back in the driver’s seat (spacenews)
+- **Apr 14, 09:34 PM** - White House releases space nuclear policy (spacenews)
