@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 17 | 18 | 25 | 46 |
+| spacenews | 17 | 18 | 26 | 47 |
 | nyt | 0 | 0 | 15 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2417,3 +2417,4 @@
 - **Apr 14, 12:29 AM** - A Magazine for Earthlings Who Dream of Outer Space (nyt)
 - **Apr 14, 01:04 AM** - Artemis 2 swings around the moon (spacenews)
 - **Apr 14, 01:39 AM** - NASA Prepares for Artemis II Splashdown After Historic Moon Flyby (nyt)
+- **Apr 14, 02:14 AM** - China conducts pair of Long March launches for Thousand Sails and Guowang megaconstellations (spacenews)
