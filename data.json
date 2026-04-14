@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-14T00:04:40.196031+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ec7499e7f03d1ea8150e6c222fb34ebd",
+    "trigger_count": 0,
+    "current_item_id": "069d2d86c7256a16e207ab1e0b3b8e9a",
     "data": [
         {
             "id": "177aa1dae828c45c0e09107773e09b86",
@@ -7913,6 +7913,18 @@
                 "2026-02-17T07:54:03.370367Z",
                 "2026-02-17T10:14:41.804754Z",
                 "2026-02-17T14:19:15.258682Z"
+            ]
+        },
+        {
+            "id": "069d2d86c7256a16e207ab1e0b3b8e9a",
+            "source": "spacenews",
+            "text": "President Trump signs legislation reauthorizing SBIR",
+            "source_link": "https://spacenews.com/president-trump-signs-legislation-reauthorizing-sbir/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-14T03:24:17.442637Z",
+            "shown_at": [
+                "2026-04-14T03:24:18.390764Z"
             ]
         }
     ]
