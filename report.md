@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 17 | 19 | 25 | 46 |
+| spacenews | 17 | 19 | 26 | 47 |
 | nyt | 0 | 0 | 15 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2425,3 +2425,4 @@
 - **Apr 14, 05:09 AM** - NASA’s Artemis II Astronauts Spread ‘Moon Joy’ to the Public (nyt)
 - **Apr 14, 05:44 AM** - China’s Chang’e-7 arrives at spaceport for lunar south pole exploration mission (spacenews)
 - **Apr 14, 06:19 AM** - Another Giant Leap Reminds Us How Small We Are (nyt)
+- **Apr 14, 06:54 AM** - NASA prepares for Artemis 2 return (spacenews)
