@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-14T00:04:40.196031+00:00",
-    "trigger_count": 6,
-    "current_item_id": "95d2061e7f90dc20ff9c26c5ff51b75a",
+    "trigger_count": 0,
+    "current_item_id": "4a4c62b54a61e921d4c90bc604d96b6e",
     "data": [
         {
             "id": "177aa1dae828c45c0e09107773e09b86",
@@ -8112,9 +8112,12 @@
             "source": "spacenews",
             "text": "‘The show goes on:’ NASA looks beyond Artemis 2",
             "source_link": "https://spacenews.com/the-show-goes-on-nasa-looks-beyond-artemis-2/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-04-14T17:59:10.535909Z"
+            "fetched_datetime": "2026-04-14T17:59:10.535909Z",
+            "shown_at": [
+                "2026-04-14T19:09:30.785248Z"
+            ]
         },
         {
             "id": "efb84ac0185e0aa9ba69da2bddc8ae76",
