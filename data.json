@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-14T00:04:40.196031+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3a92ac0df5fec901f39d9df938e022c1",
+    "trigger_count": 0,
+    "current_item_id": "ad20c8ed490d8cb594d9f6bc129794e5",
     "data": [
         {
             "id": "177aa1dae828c45c0e09107773e09b86",
@@ -8082,6 +8082,45 @@
             "shown_at": [
                 "2026-04-14T16:49:11.052005Z"
             ]
+        },
+        {
+            "id": "ad20c8ed490d8cb594d9f6bc129794e5",
+            "source": "spacenews",
+            "text": "Space Command pushes new warfighting model built on moving satellites",
+            "source_link": "https://spacenews.com/space-command-pushes-new-warfighting-model-built-on-moving-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-14T17:59:10.535764Z",
+            "shown_at": [
+                "2026-04-14T17:59:12.136229Z"
+            ]
+        },
+        {
+            "id": "95d2061e7f90dc20ff9c26c5ff51b75a",
+            "source": "spacenews",
+            "text": "Q&A: Astronaut Linda Godwin on lessons learned from Artemis",
+            "source_link": "https://spacenews.com/qa-astronaut-linda-godwin-on-lessons-learned-from-artemis/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-14T17:59:10.535840Z"
+        },
+        {
+            "id": "4a4c62b54a61e921d4c90bc604d96b6e",
+            "source": "spacenews",
+            "text": "‘The show goes on:’ NASA looks beyond Artemis 2",
+            "source_link": "https://spacenews.com/the-show-goes-on-nasa-looks-beyond-artemis-2/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-14T17:59:10.535909Z"
+        },
+        {
+            "id": "efb84ac0185e0aa9ba69da2bddc8ae76",
+            "source": "spacenews",
+            "text": "RTX’s Blue Canyon Technologies expands reaction wheel production capacity",
+            "source_link": "https://spacenews.com/rtxs-blue-canyon-technologies-expands-reaction-wheel-production-capacity/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-14T17:59:10.535957Z"
         }
     ]
 }
