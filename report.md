@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 19 | 34 | 30 | 53 |
+| spacenews | 19 | 34 | 31 | 54 |
 | nyt | 0 | 0 | 11 | 28 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2447,3 +2447,4 @@
 - **Apr 14, 05:59 PM** - Space Command pushes new warfighting model built on moving satellites (spacenews)
 - **Apr 14, 06:34 PM** - Q&A: Astronaut Linda Godwin on lessons learned from Artemis (spacenews)
 - **Apr 14, 07:09 PM** - ‘The show goes on:’ NASA looks beyond Artemis 2 (spacenews)
+- **Apr 14, 07:44 PM** - RTX’s Blue Canyon Technologies expands reaction wheel production capacity (spacenews)
