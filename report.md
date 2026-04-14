@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 17 | 18 | 26 | 46 |
-| nyt | 0 | 0 | 14 | 35 |
+| nyt | 0 | 0 | 15 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2414,3 +2414,4 @@
 - **Apr 13, 10:44 PM** - Washington agrees on space urgency, but not on how to deliver (spacenews)
 - **Apr 13, 11:19 PM** - A Magazine for Earthlings Who Dream of Outer Space (nyt)
 - **Apr 13, 11:54 PM** - Portal Space Systems raises $50 million to accelerate spacecraft development (spacenews)
+- **Apr 14, 12:29 AM** - A Magazine for Earthlings Who Dream of Outer Space (nyt)
