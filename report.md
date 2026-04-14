@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 24 | 39 | 30 | 55 |
+| spacenews | 24 | 39 | 31 | 56 |
 | nyt | 0 | 0 | 11 | 26 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2451,3 +2451,4 @@
 - **Apr 14, 08:24 PM** - Seagate Space and Oceaneering Join Forces to Build the Future of Offshore Launch Infrastructure (spacenews)
 - **Apr 14, 08:59 PM** - Put science back in the driver’s seat (spacenews)
 - **Apr 14, 09:34 PM** - White House releases space nuclear policy (spacenews)
+- **Apr 14, 10:09 PM** - Defense firms unveil new satellite designs for orbital warfare (spacenews)
