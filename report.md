@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 17 | 19 | 25 | 46 |
+| spacenews | 17 | 19 | 26 | 47 |
 | nyt | 0 | 0 | 15 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2421,3 +2421,4 @@
 - **Apr 14, 02:49 AM** - For Artemis II, Returning to Earth May Be the Most Dangerous Part of the Mission (nyt)
 - **Apr 14, 03:24 AM** - President Trump signs legislation reauthorizing SBIR (spacenews)
 - **Apr 14, 03:59 AM** - For Artemis II, Returning to Earth May Be the Most Dangerous Part of the Mission (nyt)
+- **Apr 14, 04:34 AM** - A lunar base or a lunar economy? (spacenews)
