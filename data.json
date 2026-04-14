@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-14T00:04:40.196031+00:00",
-    "trigger_count": 6,
-    "current_item_id": "48bcb4decea78813cfe552cae8caf93f",
+    "trigger_count": 0,
+    "current_item_id": "98170746e1bd46abbe927fc53f458ebf",
     "data": [
         {
             "id": "177aa1dae828c45c0e09107773e09b86",
@@ -8148,9 +8148,12 @@
             "source": "spacenews",
             "text": "Put science back in the driver’s seat",
             "source_link": "https://spacenews.com/put-science-back-in-the-drivers-seat/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-04-14T20:24:25.011282Z"
+            "fetched_datetime": "2026-04-14T20:24:25.011282Z",
+            "shown_at": [
+                "2026-04-14T20:59:23.574902Z"
+            ]
         },
         {
             "id": "da6e5281c35e21bc13eab1c17fcfc1eb",
