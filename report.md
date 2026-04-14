@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 18 | 22 | 27 | 48 |
-| nyt | 0 | 0 | 13 | 33 |
+| nyt | 0 | 0 | 14 | 34 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2433,3 +2433,4 @@
 - **Apr 14, 09:49 AM** - L3Harris investing upfront in bid for Golden Dome work (spacenews)
 - **Apr 14, 10:24 AM** - Jielong-3 launches internet test satellite, Kinetica-1 lofts 8 remote sensing sats (spacenews)
 - **Apr 14, 10:59 AM** - Tendeg Delivers First Antenna from New Industrial Production Facility, Targets 100+ Deployable Apertures Annually (spacenews)
+- **Apr 14, 11:34 AM** - See Photos From All 10 Days of NASA’s Artemis II Moon Mission (nyt)
