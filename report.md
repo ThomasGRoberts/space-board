@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 23 | 30 | 28 | 50 |
+| spacenews | 23 | 30 | 29 | 51 |
 | nyt | 0 | 0 | 12 | 31 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2440,3 +2440,4 @@
 - **Apr 14, 01:54 PM** - Eutelsat’s U.S. arm pitches hosted payloads deals on OneWeb satellites (spacenews)
 - **Apr 14, 02:29 PM** - Is COPUOS at a turning point? Governing space in a new era (spacenews)
 - **Apr 14, 03:04 PM** - Xoople and L3Harris team up to build satellites for ‘Earth AI’  (spacenews)
+- **Apr 14, 03:39 PM** - Archangel Lightworks Raises Over $13.5m In Series A Funding Round (spacenews)

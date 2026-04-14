@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-14T00:04:40.196031+00:00",
-    "trigger_count": 6,
-    "current_item_id": "bd1179f59e6e99fefc0d73948b793d25",
+    "trigger_count": 0,
+    "current_item_id": "f37441e37f3fd87c40e4ac4634936e62",
     "data": [
         {
             "id": "177aa1dae828c45c0e09107773e09b86",
@@ -8051,9 +8051,12 @@
             "source": "spacenews",
             "text": "Archangel Lightworks Raises Over $13.5m In Series A Funding Round",
             "source_link": "https://spacenews.com/archangel-lightworks-raises-over-13-5m-in-series-a-funding-round/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-04-14T15:04:56.022160Z"
+            "fetched_datetime": "2026-04-14T15:04:56.022160Z",
+            "shown_at": [
+                "2026-04-14T15:39:36.023017Z"
+            ]
         },
         {
             "id": "33f0a2331df4272a9a2b64fae4cf470d",
