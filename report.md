@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 17 | 19 | 26 | 46 |
+| spacenews | 19 | 21 | 27 | 47 |
 | nyt | 0 | 0 | 14 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2430,3 +2430,4 @@
 - **Apr 14, 08:04 AM** - GSOA and Novaspace Launch the Space Industry Forum (SIF) 2026 in Singapore (spacenews)
 - **Apr 14, 08:39 AM** - See First Photos From NASA’s Artemis II Moon Mission Capturing a Setting Earth and Eclipse (nyt)
 - **Apr 14, 09:14 AM** - Nominate space industry leaders for the 2026 SpaceNews Icon Awards (spacenews)
+- **Apr 14, 09:49 AM** - L3Harris investing upfront in bid for Golden Dome work (spacenews)

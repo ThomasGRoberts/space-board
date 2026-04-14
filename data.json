@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-14T00:04:40.196031+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f135faf7a622446ffeef5229ce994f99",
+    "trigger_count": 0,
+    "current_item_id": "c425b1ff5084a05d626bbffbe09715b4",
     "data": [
         {
             "id": "177aa1dae828c45c0e09107773e09b86",
@@ -7936,6 +7936,27 @@
             "shown_at": [
                 "2026-04-14T03:24:18.390764Z"
             ]
+        },
+        {
+            "id": "c425b1ff5084a05d626bbffbe09715b4",
+            "source": "spacenews",
+            "text": "L3Harris investing upfront in bid for Golden Dome work",
+            "source_link": "https://spacenews.com/l3harris-investing-upfront-in-bid-for-golden-dome-work/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-14T09:49:11.291507Z",
+            "shown_at": [
+                "2026-04-14T09:49:11.939054Z"
+            ]
+        },
+        {
+            "id": "26196b1c1b60448ee974d59caad7e8ac",
+            "source": "spacenews",
+            "text": "Jielong-3 launches internet test satellite, Kinetica-1 lofts 8 remote sensing sats",
+            "source_link": "https://spacenews.com/jielong-3-launches-internet-test-satellite-kinetica-1-lofts-8-remote-sensing-sats/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-14T09:49:11.291564Z"
         }
     ]
 }
