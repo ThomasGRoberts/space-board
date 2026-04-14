@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-14T00:04:40.196031+00:00",
-    "trigger_count": 6,
-    "current_item_id": "db1d34cda08ba5ddc52bf7b696c4ae1b",
+    "trigger_count": 0,
+    "current_item_id": "951d926a1fa12a24040667e9b1e771a8",
     "data": [
         {
             "id": "177aa1dae828c45c0e09107773e09b86",
@@ -8184,9 +8184,12 @@
             "source": "spacenews",
             "text": "Q&A: Aerospace Corp flexes its data advantage",
             "source_link": "https://spacenews.com/qa-aerospace-corp-flexes-its-data-advantage/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-04-14T20:24:25.011447Z"
+            "fetched_datetime": "2026-04-14T20:24:25.011447Z",
+            "shown_at": [
+                "2026-04-14T22:44:18.419787Z"
+            ]
         }
     ]
 }
