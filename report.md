@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 17 | 19 | 26 | 46 |
-| nyt | 0 | 0 | 14 | 35 |
+| nyt | 0 | 0 | 15 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2428,3 +2428,4 @@
 - **Apr 14, 06:54 AM** - NASA prepares for Artemis 2 return (spacenews)
 - **Apr 14, 07:29 AM** - For Artemis II, Returning to Earth May Be the Most Dangerous Part of the Mission (nyt)
 - **Apr 14, 08:04 AM** - GSOA and Novaspace Launch the Space Industry Forum (SIF) 2026 in Singapore (spacenews)
+- **Apr 14, 08:39 AM** - See First Photos From NASA’s Artemis II Moon Mission Capturing a Setting Earth and Eclipse (nyt)
