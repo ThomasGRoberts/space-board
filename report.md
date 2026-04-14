@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 18 | 19 | 26 | 46 |
-| nyt | 0 | 0 | 14 | 35 |
+| nyt | 0 | 0 | 15 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2420,3 +2420,4 @@
 - **Apr 14, 02:14 AM** - China conducts pair of Long March launches for Thousand Sails and Guowang megaconstellations (spacenews)
 - **Apr 14, 02:49 AM** - For Artemis II, Returning to Earth May Be the Most Dangerous Part of the Mission (nyt)
 - **Apr 14, 03:24 AM** - President Trump signs legislation reauthorizing SBIR (spacenews)
+- **Apr 14, 03:59 AM** - For Artemis II, Returning to Earth May Be the Most Dangerous Part of the Mission (nyt)
