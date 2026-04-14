@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-14T00:04:40.196031+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e163e2e3ca1b5c5e2043effcc71f24c3",
+    "trigger_count": 0,
+    "current_item_id": "5a4ee3bd5959807c84d5763bb236a4a6",
     "data": [
         {
             "id": "177aa1dae828c45c0e09107773e09b86",
@@ -8208,9 +8208,12 @@
             "source": "spacenews",
             "text": "NRO highlights government and industry partnerships",
             "source_link": "https://spacenews.com/nro-highlights-government-and-industry-partnerships/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-04-14T23:19:14.721884Z"
+            "fetched_datetime": "2026-04-14T23:19:14.721884Z",
+            "shown_at": [
+                "2026-04-14T23:54:09.647262Z"
+            ]
         },
         {
             "id": "67f7e1d80c359b35966c1e5327c23a9a",
