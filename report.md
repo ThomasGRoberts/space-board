@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 17 | 19 | 26 | 46 |
-| nyt | 0 | 0 | 14 | 35 |
+| nyt | 0 | 0 | 15 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2422,3 +2422,4 @@
 - **Apr 14, 03:24 AM** - President Trump signs legislation reauthorizing SBIR (spacenews)
 - **Apr 14, 03:59 AM** - For Artemis II, Returning to Earth May Be the Most Dangerous Part of the Mission (nyt)
 - **Apr 14, 04:34 AM** - A lunar base or a lunar economy? (spacenews)
+- **Apr 14, 05:09 AM** - NASA’s Artemis II Astronauts Spread ‘Moon Joy’ to the Public (nyt)
