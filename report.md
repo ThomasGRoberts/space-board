@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 24 | 34 | 29 | 52 |
+| spacenews | 24 | 34 | 30 | 53 |
 | nyt | 0 | 0 | 12 | 29 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2445,3 +2445,4 @@
 - **Apr 14, 04:49 PM** - BAE Systems introduces Ascent™ spacecraft to support space superiority and exploration (spacenews)
 - **Apr 14, 05:24 PM** - NASA’s Artemis II Astronauts Reunite With Friends and Family After 10-Day Moon Mission (nyt)
 - **Apr 14, 05:59 PM** - Space Command pushes new warfighting model built on moving satellites (spacenews)
+- **Apr 14, 06:34 PM** - Q&A: Astronaut Linda Godwin on lessons learned from Artemis (spacenews)
