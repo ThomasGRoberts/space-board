@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 24 | 43 | 31 | 58 |
+| spacenews | 23 | 43 | 31 | 59 |
 | nyt | 0 | 0 | 10 | 23 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2325,3 +2325,4 @@
 - **Apr 15, 09:14 AM** - Another Giant Leap Reminds Us How Small We Are (nyt)
 - **Apr 15, 09:49 AM** - HawkEye 360 files to go public (spacenews)
 - **Apr 15, 10:24 AM** - Artemis II Splashdown Gives NASA Momentum in Renewed Moon Race (nyt)
+- **Apr 15, 10:59 AM** - Q&A: Aerospace Corp flexes its data advantage (spacenews)
