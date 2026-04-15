@@ -1,17 +1,20 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-15T00:04:43.654890+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5a4ee3bd5959807c84d5763bb236a4a6",
+    "trigger_count": 0,
+    "current_item_id": "3639be8d382183bf6a02cd129687ff39",
     "data": [
         {
             "id": "3639be8d382183bf6a02cd129687ff39",
             "source": "spacenews",
             "text": "Commercial Space Federation (CSF) Welcomes ispace-U.S. to Board of Directors",
             "source_link": "https://spacenews.com/commercial-space-federation-csf-welcomes-ispace-u-s-to-board-of-directors/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-04-14T23:19:14.721988Z"
+            "fetched_datetime": "2026-04-14T23:19:14.721988Z",
+            "shown_at": [
+                "2026-04-15T00:29:11.476539Z"
+            ]
         },
         {
             "id": "67f7e1d80c359b35966c1e5327c23a9a",
