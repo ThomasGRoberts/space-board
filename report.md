@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 19 | 39 | 29 | 59 |
-| nyt | 0 | 0 | 12 | 23 |
+| nyt | 0 | 0 | 13 | 24 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2336,3 +2336,4 @@
 - **Apr 15, 03:39 PM** - Sophia and Kepler to marry orbital compute with optical links (spacenews)
 - **Apr 15, 04:14 PM** - NASA Artemis II Splashdown: Time, Live Stream and How to Watch Landing (nyt)
 - **Apr 15, 04:49 PM** - Orbit is filling up fast. Now comes the awkward bit: pre-empting and handling a crisis. (spacenews)
+- **Apr 15, 05:24 PM** - A Magazine for Earthlings Who Dream of Outer Space (nyt)
