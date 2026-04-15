@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-15T00:04:43.654890+00:00",
-    "trigger_count": 6,
-    "current_item_id": "26196b1c1b60448ee974d59caad7e8ac",
+    "trigger_count": 0,
+    "current_item_id": "1458ec0df3fee9a5d64a80ef8abfc944",
     "data": [
         {
             "id": "3639be8d382183bf6a02cd129687ff39",
@@ -7899,6 +7899,27 @@
             "shown_at": [
                 "2026-04-15T14:29:20.376535Z"
             ]
+        },
+        {
+            "id": "1458ec0df3fee9a5d64a80ef8abfc944",
+            "source": "spacenews",
+            "text": "Saltzman unveils blueprint for Space Force’s future",
+            "source_link": "https://spacenews.com/saltzman-unveils-blueprint-for-space-forces-future/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-15T18:34:39.907687Z",
+            "shown_at": [
+                "2026-04-15T18:34:40.942511Z"
+            ]
+        },
+        {
+            "id": "2f1ce65dd86f62e106eb4304a177e753",
+            "source": "spacenews",
+            "text": "Senators seek increased funding for NASA Mars missions",
+            "source_link": "https://spacenews.com/senators-seek-increased-funding-for-nasa-mars-missions/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-15T18:34:39.907773Z"
         }
     ]
 }
