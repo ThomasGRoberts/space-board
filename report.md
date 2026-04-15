@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 26 | 43 | 32 | 58 |
-| nyt | 0 | 0 | 9 | 23 |
+| spacenews | 26 | 43 | 33 | 59 |
+| nyt | 0 | 0 | 8 | 23 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2321,3 +2321,4 @@
 - **Apr 15, 06:54 AM** - A Magazine for Earthlings Who Dream of Outer Space (nyt)
 - **Apr 15, 07:29 AM** - Citra Space raises $15 million Series A to expand platform for identifying objects in orbit (spacenews)
 - **Apr 15, 08:04 AM** - See Photos From All 10 Days of NASA’s Artemis II Moon Mission (nyt)
+- **Apr 15, 08:39 AM** - Is COPUOS at a turning point? Governing space in a new era (spacenews)
