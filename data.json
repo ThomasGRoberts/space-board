@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-15T00:04:43.654890+00:00",
-    "trigger_count": 6,
-    "current_item_id": "98152c3d6c05c4441e0f9b17cf53c55f",
+    "trigger_count": 0,
+    "current_item_id": "c844c2090bdd6b4f6de283485c788a56",
     "data": [
         {
             "id": "3639be8d382183bf6a02cd129687ff39",
@@ -7944,9 +7944,12 @@
             "source": "spacenews",
             "text": "NASA seeks proposals for commercial TDRSS replacement",
             "source_link": "https://spacenews.com/nasa-seeks-proposals-for-commercial-tdrss-replacement/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-04-15T21:29:10.049396Z"
+            "fetched_datetime": "2026-04-15T21:29:10.049396Z",
+            "shown_at": [
+                "2026-04-15T22:04:43.436484Z"
+            ]
         },
         {
             "id": "2e2611d58ab89dbe2cb4f27d3c0dc759",
