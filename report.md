@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 23 | 42 | 31 | 59 |
-| nyt | 0 | 0 | 10 | 22 |
+| nyt | 0 | 0 | 11 | 23 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2332,3 +2332,4 @@
 - **Apr 15, 01:19 PM** - Vast offers new docking adapter for large space stations (spacenews)
 - **Apr 15, 01:54 PM** - The Digital Networks Act: a reform that requires strategic attention for satellite operators (spacenews)
 - **Apr 15, 02:29 PM** - Novaspace and OGC Unveil the China Space Industry Intelligence Catalog (spacenews)
+- **Apr 15, 03:04 PM** - See Photos From All 10 Days of NASA’s Artemis II Moon Mission (nyt)
