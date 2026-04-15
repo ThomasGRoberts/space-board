@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 19 | 42 | 30 | 59 |
-| nyt | 0 | 0 | 11 | 22 |
+| nyt | 0 | 0 | 12 | 23 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2334,3 +2334,4 @@
 - **Apr 15, 02:29 PM** - Novaspace and OGC Unveil the China Space Industry Intelligence Catalog (spacenews)
 - **Apr 15, 03:04 PM** - See Photos From All 10 Days of NASA’s Artemis II Moon Mission (nyt)
 - **Apr 15, 03:39 PM** - Sophia and Kepler to marry orbital compute with optical links (spacenews)
+- **Apr 15, 04:14 PM** - NASA Artemis II Splashdown: Time, Live Stream and How to Watch Landing (nyt)
