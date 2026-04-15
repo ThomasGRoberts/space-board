@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-15T00:04:43.654890+00:00",
-    "trigger_count": 6,
-    "current_item_id": "67f7e1d80c359b35966c1e5327c23a9a",
+    "trigger_count": 0,
+    "current_item_id": "4cfba6dbe7f70c6e50eefde9453e0483",
     "data": [
         {
             "id": "3639be8d382183bf6a02cd129687ff39",
@@ -7803,6 +7803,18 @@
             "fetched_datetime": "2026-02-11T22:44:41.216559Z",
             "shown_at": [
                 "2026-02-11T23:19:16.923923Z"
+            ]
+        },
+        {
+            "id": "4cfba6dbe7f70c6e50eefde9453e0483",
+            "source": "spacenews",
+            "text": "Kepler to lead interoperability tests for ESA’s HydRON optical relay network",
+            "source_link": "https://spacenews.com/kepler-to-lead-interoperability-tests-for-esas-hydron-optical-relay-network/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-15T01:39:32.023938Z",
+            "shown_at": [
+                "2026-04-15T01:39:32.741961Z"
             ]
         }
     ]
