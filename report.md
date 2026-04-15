@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 24 | 43 | 32 | 58 |
-| nyt | 0 | 0 | 9 | 23 |
+| nyt | 0 | 0 | 10 | 24 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2324,3 +2324,4 @@
 - **Apr 15, 08:39 AM** - Is COPUOS at a turning point? Governing space in a new era (spacenews)
 - **Apr 15, 09:14 AM** - Another Giant Leap Reminds Us How Small We Are (nyt)
 - **Apr 15, 09:49 AM** - HawkEye 360 files to go public (spacenews)
+- **Apr 15, 10:24 AM** - Artemis II Splashdown Gives NASA Momentum in Renewed Moon Race (nyt)
