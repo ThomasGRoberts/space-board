@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-15T00:04:43.654890+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ddf4f8c16922f948cb29c131a3cac762",
+    "trigger_count": 0,
+    "current_item_id": "99147c8c5d035ef0972af570e7764c67",
     "data": [
         {
             "id": "3639be8d382183bf6a02cd129687ff39",
@@ -7857,6 +7857,27 @@
             "shown_at": [
                 "2026-04-15T12:09:29.570287Z"
             ]
+        },
+        {
+            "id": "99147c8c5d035ef0972af570e7764c67",
+            "source": "spacenews",
+            "text": "Vast offers new docking adapter for large space stations",
+            "source_link": "https://spacenews.com/vast-offers-new-docking-adapter-for-large-space-stations/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-15T13:19:11.544044Z",
+            "shown_at": [
+                "2026-04-15T13:19:12.674352Z"
+            ]
+        },
+        {
+            "id": "356fb43691dee88615f1a7162b9053d7",
+            "source": "spacenews",
+            "text": "The Digital Networks Act: a reform that requires strategic attention for satellite operators",
+            "source_link": "https://spacenews.com/the-digital-networks-act-a-reform-that-requires-strategic-attention-for-satellite-operators/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-15T13:19:11.544115Z"
         }
     ]
 }
