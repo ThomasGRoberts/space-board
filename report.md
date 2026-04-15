@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 26 | 43 | 33 | 58 |
-| nyt | 0 | 0 | 8 | 23 |
+| nyt | 0 | 0 | 9 | 24 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2316,3 +2316,4 @@
 - **Apr 15, 03:59 AM** - Q&A: Heather Pringle on what to expect from Space Symposium (spacenews)
 - **Apr 15, 04:34 AM** - Artemis II Splashdown Gives NASA Momentum in Renewed Moon Race (nyt)
 - **Apr 15, 05:09 AM** - Defense firms unveil new satellite designs for orbital warfare (spacenews)
+- **Apr 15, 05:44 AM** - NASA Prepares for Artemis II Splashdown After Historic Moon Flyby (nyt)
