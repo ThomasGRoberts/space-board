@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 17 | 36 | 28 | 58 |
+| spacenews | 17 | 36 | 29 | 59 |
 | nyt | 0 | 0 | 13 | 24 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2341,3 +2341,4 @@
 - **Apr 15, 06:34 PM** - Saltzman unveils blueprint for Space Force’s future (spacenews)
 - **Apr 15, 07:09 PM** - Senators seek increased funding for NASA Mars missions (spacenews)
 - **Apr 15, 07:44 PM** - Artemis II Splashdown Gives NASA Momentum in Renewed Moon Race (nyt)
+- **Apr 15, 08:19 PM** - HawkEye 360 files to go public (spacenews)
