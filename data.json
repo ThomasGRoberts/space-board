@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-15T00:04:43.654890+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ce74ea9bd301bbd7b165b256736ac0c2",
+    "trigger_count": 0,
+    "current_item_id": "98152c3d6c05c4441e0f9b17cf53c55f",
     "data": [
         {
             "id": "3639be8d382183bf6a02cd129687ff39",
@@ -7926,6 +7926,45 @@
             "shown_at": [
                 "2026-04-15T19:09:28.802370Z"
             ]
+        },
+        {
+            "id": "98152c3d6c05c4441e0f9b17cf53c55f",
+            "source": "spacenews",
+            "text": "Defining acquisition on a wartime footing",
+            "source_link": "https://spacenews.com/defining-acquisition-on-a-wartime-footing/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-15T21:29:10.049326Z",
+            "shown_at": [
+                "2026-04-15T21:29:10.702707Z"
+            ]
+        },
+        {
+            "id": "c844c2090bdd6b4f6de283485c788a56",
+            "source": "spacenews",
+            "text": "NASA seeks proposals for commercial TDRSS replacement",
+            "source_link": "https://spacenews.com/nasa-seeks-proposals-for-commercial-tdrss-replacement/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-15T21:29:10.049396Z"
+        },
+        {
+            "id": "2e2611d58ab89dbe2cb4f27d3c0dc759",
+            "source": "spacenews",
+            "text": "Emerson Launches Innovative Software-Driven Method for High-Fidelity Aerospace RF Testing",
+            "source_link": "https://spacenews.com/emerson-launches-innovative-software-driven-method-for-high-fidelity-aerospace-rf-testing/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-15T21:29:10.049444Z"
+        },
+        {
+            "id": "20d8e5cf3118a195fe9f8d03545e21dd",
+            "source": "spacenews",
+            "text": "The Infrastructure Layer U.S. Space Superiority Has Been Missing",
+            "source_link": "https://spacenews.com/the-infrastructure-layer-u-s-space-superiority-has-been-missing/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-15T21:29:10.049745Z"
         }
     ]
 }
