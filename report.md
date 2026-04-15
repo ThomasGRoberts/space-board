@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 19 | 39 | 29 | 58 |
+| spacenews | 19 | 39 | 30 | 59 |
 | nyt | 0 | 0 | 12 | 24 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2337,3 +2337,4 @@
 - **Apr 15, 04:14 PM** - NASA Artemis II Splashdown: Time, Live Stream and How to Watch Landing (nyt)
 - **Apr 15, 04:49 PM** - Orbit is filling up fast. Now comes the awkward bit: pre-empting and handling a crisis. (spacenews)
 - **Apr 15, 05:24 PM** - A Magazine for Earthlings Who Dream of Outer Space (nyt)
+- **Apr 15, 05:59 PM** - Jielong-3 launches internet test satellite, Kinetica-1 lofts 8 remote sensing sats (spacenews)
