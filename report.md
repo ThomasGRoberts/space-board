@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 36 | 28 | 58 |
-| nyt | 0 | 0 | 13 | 24 |
+| nyt | 0 | 0 | 14 | 25 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2342,3 +2342,4 @@
 - **Apr 15, 07:09 PM** - Senators seek increased funding for NASA Mars missions (spacenews)
 - **Apr 15, 07:44 PM** - Artemis II Splashdown Gives NASA Momentum in Renewed Moon Race (nyt)
 - **Apr 15, 08:19 PM** - HawkEye 360 files to go public (spacenews)
+- **Apr 15, 08:54 PM** - A Magazine for Earthlings Who Dream of Outer Space (nyt)
