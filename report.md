@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 26 | 44 | 32 | 58 |
+| spacenews | 26 | 44 | 33 | 59 |
 | nyt | 0 | 0 | 9 | 23 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2313,3 +2313,4 @@
 - **Apr 15, 02:14 AM** - NASA Prepares for Artemis II Splashdown After Historic Moon Flyby (nyt)
 - **Apr 15, 02:49 AM** - Defense firms unveil new satellite designs for orbital warfare (spacenews)
 - **Apr 15, 03:24 AM** - For Artemis II, Returning to Earth May Be the Most Dangerous Part of the Mission (nyt)
+- **Apr 15, 03:59 AM** - Q&A: Heather Pringle on what to expect from Space Symposium (spacenews)
