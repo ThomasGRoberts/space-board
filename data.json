@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-15T00:04:43.654890+00:00",
-    "trigger_count": 6,
-    "current_item_id": "951d926a1fa12a24040667e9b1e771a8",
+    "trigger_count": 0,
+    "current_item_id": "53a8da9e456f56785e91d4feffaa651d",
     "data": [
         {
             "id": "3639be8d382183bf6a02cd129687ff39",
@@ -7831,6 +7831,18 @@
             "fetched_datetime": "2026-04-15T01:39:32.023938Z",
             "shown_at": [
                 "2026-04-15T01:39:32.741961Z"
+            ]
+        },
+        {
+            "id": "53a8da9e456f56785e91d4feffaa651d",
+            "source": "spacenews",
+            "text": "Turion Space raises $75 million to expand maneuverable satellite fleet",
+            "source_link": "https://spacenews.com/turion-space-raises-75-million-to-expand-maneuverable-satellite-fleet/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-15T11:34:19.811710Z",
+            "shown_at": [
+                "2026-04-15T11:34:20.806987Z"
             ]
         }
     ]
