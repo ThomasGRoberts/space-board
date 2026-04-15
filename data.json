@@ -1,9 +1,315 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-04-14T00:04:40.196031+00:00",
-    "trigger_count": 1,
+    "last_run_datetime": "2026-04-15T00:04:43.654890+00:00",
+    "trigger_count": 2,
     "current_item_id": "5a4ee3bd5959807c84d5763bb236a4a6",
     "data": [
+        {
+            "id": "3639be8d382183bf6a02cd129687ff39",
+            "source": "spacenews",
+            "text": "Commercial Space Federation (CSF) Welcomes ispace-U.S. to Board of Directors",
+            "source_link": "https://spacenews.com/commercial-space-federation-csf-welcomes-ispace-u-s-to-board-of-directors/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-14T23:19:14.721988Z"
+        },
+        {
+            "id": "67f7e1d80c359b35966c1e5327c23a9a",
+            "source": "spacenews",
+            "text": "SES and Boeing move toward factory-installed multi-orbit inflight connectivity",
+            "source_link": "https://spacenews.com/ses-and-boeing-move-toward-factory-installed-multi-orbit-inflight-connectivity/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-14T23:19:14.721927Z"
+        },
+        {
+            "id": "5a4ee3bd5959807c84d5763bb236a4a6",
+            "source": "spacenews",
+            "text": "NRO highlights government and industry partnerships",
+            "source_link": "https://spacenews.com/nro-highlights-government-and-industry-partnerships/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-14T23:19:14.721884Z",
+            "shown_at": [
+                "2026-04-14T23:54:09.647262Z"
+            ]
+        },
+        {
+            "id": "e163e2e3ca1b5c5e2043effcc71f24c3",
+            "source": "spacenews",
+            "text": "Blue Origin moves toward launch at Vandenberg",
+            "source_link": "https://spacenews.com/blue-origin-moves-toward-launch-at-vandenberg/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-14T23:19:14.721826Z",
+            "shown_at": [
+                "2026-04-14T23:19:15.620932Z"
+            ]
+        },
+        {
+            "id": "951d926a1fa12a24040667e9b1e771a8",
+            "source": "spacenews",
+            "text": "Q&A: Aerospace Corp flexes its data advantage",
+            "source_link": "https://spacenews.com/qa-aerospace-corp-flexes-its-data-advantage/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-14T20:24:25.011447Z",
+            "shown_at": [
+                "2026-04-14T22:44:18.419787Z"
+            ]
+        },
+        {
+            "id": "db1d34cda08ba5ddc52bf7b696c4ae1b",
+            "source": "spacenews",
+            "text": "Defense firms unveil new satellite designs for orbital warfare",
+            "source_link": "https://spacenews.com/defense-firms-unveil-new-satellite-designs-for-orbital-warfare/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-14T20:24:25.011395Z",
+            "shown_at": [
+                "2026-04-14T22:09:04.562901Z"
+            ]
+        },
+        {
+            "id": "da6e5281c35e21bc13eab1c17fcfc1eb",
+            "source": "spacenews",
+            "text": "White House releases space nuclear policy",
+            "source_link": "https://spacenews.com/white-house-releases-space-nuclear-policy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-14T20:24:25.011343Z",
+            "shown_at": [
+                "2026-04-14T21:34:21.256490Z"
+            ]
+        },
+        {
+            "id": "98170746e1bd46abbe927fc53f458ebf",
+            "source": "spacenews",
+            "text": "Put science back in the driver’s seat",
+            "source_link": "https://spacenews.com/put-science-back-in-the-drivers-seat/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-14T20:24:25.011282Z",
+            "shown_at": [
+                "2026-04-14T20:59:23.574902Z"
+            ]
+        },
+        {
+            "id": "48bcb4decea78813cfe552cae8caf93f",
+            "source": "spacenews",
+            "text": "Seagate Space and Oceaneering Join Forces to Build the Future of Offshore Launch Infrastructure",
+            "source_link": "https://spacenews.com/seagate-space-and-oceaneering-join-forces-to-build-the-future-of-offshore-launch-infrastructure/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-14T20:24:25.011210Z",
+            "shown_at": [
+                "2026-04-14T20:24:26.032496Z"
+            ]
+        },
+        {
+            "id": "efb84ac0185e0aa9ba69da2bddc8ae76",
+            "source": "spacenews",
+            "text": "RTX’s Blue Canyon Technologies expands reaction wheel production capacity",
+            "source_link": "https://spacenews.com/rtxs-blue-canyon-technologies-expands-reaction-wheel-production-capacity/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-14T17:59:10.535957Z",
+            "shown_at": [
+                "2026-04-14T19:44:15.478602Z"
+            ]
+        },
+        {
+            "id": "4a4c62b54a61e921d4c90bc604d96b6e",
+            "source": "spacenews",
+            "text": "‘The show goes on:’ NASA looks beyond Artemis 2",
+            "source_link": "https://spacenews.com/the-show-goes-on-nasa-looks-beyond-artemis-2/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-14T17:59:10.535909Z",
+            "shown_at": [
+                "2026-04-14T19:09:30.785248Z"
+            ]
+        },
+        {
+            "id": "95d2061e7f90dc20ff9c26c5ff51b75a",
+            "source": "spacenews",
+            "text": "Q&A: Astronaut Linda Godwin on lessons learned from Artemis",
+            "source_link": "https://spacenews.com/qa-astronaut-linda-godwin-on-lessons-learned-from-artemis/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-14T17:59:10.535840Z",
+            "shown_at": [
+                "2026-04-14T18:34:35.237548Z"
+            ]
+        },
+        {
+            "id": "ad20c8ed490d8cb594d9f6bc129794e5",
+            "source": "spacenews",
+            "text": "Space Command pushes new warfighting model built on moving satellites",
+            "source_link": "https://spacenews.com/space-command-pushes-new-warfighting-model-built-on-moving-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-14T17:59:10.535764Z",
+            "shown_at": [
+                "2026-04-14T17:59:12.136229Z"
+            ]
+        },
+        {
+            "id": "b71335204985e7d3f3b003b0081241aa",
+            "source": "spacenews",
+            "text": "BAE Systems introduces Ascent™ spacecraft to support space superiority and exploration",
+            "source_link": "https://spacenews.com/bae-systems-introduces-ascent-spacecraft-to-support-space-superiority-and-exploration/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-14T15:04:56.022239Z",
+            "shown_at": [
+                "2026-04-14T16:49:11.052005Z"
+            ]
+        },
+        {
+            "id": "33f0a2331df4272a9a2b64fae4cf470d",
+            "source": "spacenews",
+            "text": "Amazon buys Globalstar to catapult into direct-to-device race",
+            "source_link": "https://spacenews.com/amazon-buys-globalstar-to-catapult-into-direct-to-device-race/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-14T15:04:56.022203Z",
+            "shown_at": [
+                "2026-04-14T16:14:21.939150Z"
+            ]
+        },
+        {
+            "id": "f37441e37f3fd87c40e4ac4634936e62",
+            "source": "spacenews",
+            "text": "Archangel Lightworks Raises Over $13.5m In Series A Funding Round",
+            "source_link": "https://spacenews.com/archangel-lightworks-raises-over-13-5m-in-series-a-funding-round/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-14T15:04:56.022160Z",
+            "shown_at": [
+                "2026-04-14T15:39:36.023017Z"
+            ]
+        },
+        {
+            "id": "bd1179f59e6e99fefc0d73948b793d25",
+            "source": "spacenews",
+            "text": "Xoople and L3Harris team up to build satellites for ‘Earth AI’ ",
+            "source_link": "https://spacenews.com/xoople-and-l3harris-team-up-to-build-satellites-for-earth-ai/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-14T15:04:56.022101Z",
+            "shown_at": [
+                "2026-04-14T15:04:57.096836Z"
+            ]
+        },
+        {
+            "id": "c74537e7e2083f6de897230dc4c0a5fc",
+            "source": "spacenews",
+            "text": "Is COPUOS at a turning point? Governing space in a new era",
+            "source_link": "https://spacenews.com/is-copuos-at-a-turning-point-governing-space-in-a-new-era/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-14T13:54:24.764076Z",
+            "shown_at": [
+                "2026-04-14T14:29:25.128165Z"
+            ]
+        },
+        {
+            "id": "25c6e085aaa5febb00ae8cf31f02f830",
+            "source": "spacenews",
+            "text": "Eutelsat’s U.S. arm pitches hosted payloads deals on OneWeb satellites",
+            "source_link": "https://spacenews.com/eutelsats-u-s-arm-pitches-hosted-payloads-deals-on-oneweb-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-14T13:54:24.764017Z",
+            "shown_at": [
+                "2026-04-14T13:54:25.772790Z"
+            ]
+        },
+        {
+            "id": "43ae678178adb3bd20f0f1fd011799e0",
+            "source": "spacenews",
+            "text": "AI and geopolitics spur space investment surge",
+            "source_link": "https://spacenews.com/ai-and-geopolitics-spur-space-investment-surge/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-14T12:09:28.301970Z",
+            "shown_at": [
+                "2026-04-14T13:19:31.814729Z"
+            ]
+        },
+        {
+            "id": "826dccf13549419fe6c67349c859faf9",
+            "source": "spacenews",
+            "text": "Axiom Space plans 2027 flight test of spacesuit",
+            "source_link": "https://spacenews.com/axiom-space-plans-2027-flight-test-of-spacesuit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-14T12:09:28.301920Z",
+            "shown_at": [
+                "2026-04-14T12:44:21.151524Z"
+            ]
+        },
+        {
+            "id": "6ccebffedfc410c2366fa18376f0e5ca",
+            "source": "spacenews",
+            "text": "Ecliptic Enterprises and The Extraterrestrial Investment Company Announce Strategic Agreement",
+            "source_link": "https://spacenews.com/ecliptic-enterprises-and-the-extraterrestrial-investment-company-extraterrestrial-announce-strategic-agreement/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-14T12:09:28.301840Z",
+            "shown_at": [
+                "2026-04-14T12:09:29.539245Z"
+            ]
+        },
+        {
+            "id": "626ab1596b8bfe1103e8028fa4950b53",
+            "source": "spacenews",
+            "text": "Tendeg Delivers First Antenna from New Industrial Production Facility, Targets 100+ Deployable Apertures Annually",
+            "source_link": "https://spacenews.com/tendeg-delivers-first-antenna-from-new-industrial-production-facility-targets-100-deployable-apertures-annually/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-14T10:59:04.633468Z",
+            "shown_at": [
+                "2026-04-14T10:59:05.498175Z"
+            ]
+        },
+        {
+            "id": "26196b1c1b60448ee974d59caad7e8ac",
+            "source": "spacenews",
+            "text": "Jielong-3 launches internet test satellite, Kinetica-1 lofts 8 remote sensing sats",
+            "source_link": "https://spacenews.com/jielong-3-launches-internet-test-satellite-kinetica-1-lofts-8-remote-sensing-sats/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-14T09:49:11.291564Z",
+            "shown_at": [
+                "2026-04-14T10:24:24.106961Z"
+            ]
+        },
+        {
+            "id": "c425b1ff5084a05d626bbffbe09715b4",
+            "source": "spacenews",
+            "text": "L3Harris investing upfront in bid for Golden Dome work",
+            "source_link": "https://spacenews.com/l3harris-investing-upfront-in-bid-for-golden-dome-work/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-14T09:49:11.291507Z",
+            "shown_at": [
+                "2026-04-14T09:49:11.939054Z"
+            ]
+        },
+        {
+            "id": "069d2d86c7256a16e207ab1e0b3b8e9a",
+            "source": "spacenews",
+            "text": "President Trump signs legislation reauthorizing SBIR",
+            "source_link": "https://spacenews.com/president-trump-signs-legislation-reauthorizing-sbir/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-14T03:24:17.442637Z",
+            "shown_at": [
+                "2026-04-14T03:24:18.390764Z"
+            ]
+        },
         {
             "id": "177aa1dae828c45c0e09107773e09b86",
             "source": "spacenews",
@@ -7492,746 +7798,6 @@
             "shown_at": [
                 "2026-02-11T23:19:16.923923Z"
             ]
-        },
-        {
-            "id": "05053ddeca64ea3a5710207999cda9fd",
-            "source": "spacenews",
-            "text": "UK launcher Orbex files for administration after failed funding efforts",
-            "source_link": "https://spacenews.com/uk-launcher-orbex-files-for-administration-after-failed-funding-efforts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-11T22:44:41.216490Z",
-            "shown_at": [
-                "2026-02-11T22:44:42.361934Z"
-            ]
-        },
-        {
-            "id": "5f7076454764c8f876e1cb651b170cae",
-            "source": "spacenews",
-            "text": "Integrate Raises $17M to Commercialize the World’s First Ultra-Secure Project Management Platform for Classified Programs",
-            "source_link": "https://spacenews.com/integrate-raises-17m-to-commercialize-the-worlds-first-ultra-secure-project-management-platform-for-classified-programs/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-11T20:59:05.592995Z",
-            "shown_at": [
-                "2026-02-11T20:59:06.635085Z",
-                "2026-02-14T18:59:05.914989Z",
-                "2026-02-15T23:04:22.933018Z",
-                "2026-02-16T20:09:15.438632Z",
-                "2026-02-17T12:34:27.622595Z",
-                "2026-02-18T10:24:20.491038Z"
-            ]
-        },
-        {
-            "id": "be3c0fbc22da5d8656a6c326ccd97b5d",
-            "source": "spacenews",
-            "text": "Demand for sovereign systems extends to the Earth-observation stack",
-            "source_link": "https://spacenews.com/demand-for-sovereign-systems-extends-to-the-earth-observation-stack/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-11T20:24:22.261206Z",
-            "shown_at": [
-                "2026-02-11T20:24:23.385810Z"
-            ]
-        },
-        {
-            "id": "b7b0aa5425b44d66080bb5261a729072",
-            "source": "spacenews",
-            "text": "The Exploration Company completes water-impact tests for its Nyx space capsule",
-            "source_link": "https://spacenews.com/the-exploration-company-completes-water-impact-tests-for-its-nyx-space-capsule/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-11T19:49:20.850612Z",
-            "shown_at": [
-                "2026-02-11T19:49:22.043380Z"
-            ]
-        },
-        {
-            "id": "3dbba3726d6400bf0c975c0a3182b923",
-            "source": "spacenews",
-            "text": "How much is vertical integration squeezing the smallsat opportunity?",
-            "source_link": "https://spacenews.com/how-much-is-vertical-integration-squeezing-the-smallsat-opportunity/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-11T17:29:14.639337Z",
-            "shown_at": [
-                "2026-02-11T17:29:15.684757Z",
-                "2026-02-14T03:04:35.484149Z",
-                "2026-02-16T05:29:02.552554Z",
-                "2026-02-18T16:54:07.438636Z"
-            ]
-        },
-        {
-            "id": "c00a1540ac02c493a53c66c85cdfc977",
-            "source": "spacenews",
-            "text": "Nine innovative companies selected for fourth cohort of SDA TAP Lab – Catalyst Campus Mini Accelerator",
-            "source_link": "https://spacenews.com/nine-innovative-companies-selected-for-fourth-cohort-of-sda-tap-lab-catalyst-campus-mini-accelerator/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-11T16:19:06.333675Z",
-            "shown_at": [
-                "2026-02-11T16:54:19.037144Z",
-                "2026-02-17T10:49:08.227824Z"
-            ]
-        },
-        {
-            "id": "29a19dfdf24def9156cd7dd4a59ac2e9",
-            "source": "spacenews",
-            "text": "Motiv Space Systems and PickNik Robotics Collaborate on Software for NASA’s Fly Foundational Robotics (FFR) Mission",
-            "source_link": "https://spacenews.com/motiv-space-systems-and-picknik-robotics-collaborate-on-software-for-nasas-fly-foundational-robotics-ffr-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-11T16:19:06.333617Z",
-            "shown_at": [
-                "2026-02-11T16:19:07.263223Z",
-                "2026-02-15T01:59:05.601712Z"
-            ]
-        },
-        {
-            "id": "7d0d9c0ba5ee06055765fdbd1d0ae9cd",
-            "source": "spacenews",
-            "text": "Stoke Space adds $350 million to Series D round",
-            "source_link": "https://spacenews.com/stoke-space-adds-350-million-to-series-d-round/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-11T14:35:05.426984Z",
-            "shown_at": [
-                "2026-02-11T15:44:50.548743Z",
-                "2026-02-15T07:14:03.587982Z",
-                "2026-02-16T07:14:14.613323Z"
-            ]
-        },
-        {
-            "id": "e54b3a2555921d44b2f8a25e5214f0eb",
-            "source": "spacenews",
-            "text": "Eutelsat gets nearly 1 billion euros in French-backed ECA financing",
-            "source_link": "https://spacenews.com/eutelsat-gets-nearly-1-billion-euros-in-french-backed-eca-financing/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-11T14:35:05.426943Z",
-            "shown_at": [
-                "2026-02-11T15:09:54.224869Z",
-                "2026-02-14T22:29:02.237633Z",
-                "2026-02-16T10:49:02.407240Z",
-                "2026-02-18T05:04:34.919013Z"
-            ]
-        },
-        {
-            "id": "e25a580196e90ba511ebc53f2b74cbe5",
-            "source": "spacenews",
-            "text": "Reusable launch vehicles will change everything in space, and on Earth",
-            "source_link": "https://spacenews.com/reusable-launch-vehicles-will-change-everything-in-space-and-on-earth/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-11T14:35:05.426889Z",
-            "shown_at": [
-                "2026-02-11T14:35:06.516928Z"
-            ]
-        },
-        {
-            "id": "59bc1a6122ee1eeead392ed60fee891c",
-            "source": "spacenews",
-            "text": "China tests crewed spacecraft abort and rocket recovery in major lunar milestone",
-            "source_link": "https://spacenews.com/china-tests-crewed-spacecraft-abort-and-rocket-recovery-in-major-lunar-milestone/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-11T10:29:07.256956Z",
-            "shown_at": [
-                "2026-02-11T10:29:08.101906Z"
-            ]
-        },
-        {
-            "id": "a300c4501f7a51b4d8d22d550bd3d928",
-            "source": "spacenews",
-            "text": "FCC approves thousands more Amazon Leo satellites as Gen 1 deadline looms",
-            "source_link": "https://spacenews.com/fcc-approves-thousands-more-amazon-leo-satellites-as-gen-1-deadline-looms/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-11T05:14:05.902376Z",
-            "shown_at": [
-                "2026-02-11T05:14:06.826866Z",
-                "2026-02-15T05:28:56.326509Z"
-            ]
-        },
-        {
-            "id": "99fd8b454e2c51f63f3bf22c8c72a116",
-            "source": "spacenews",
-            "text": "Australia Space Innovation Institute applies space technologies to address terrestrial challenges",
-            "source_link": "https://spacenews.com/australia-space-innovation-institute-applies-space-technologies-to-address-terrestrial-challenges/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-10T22:49:30.355233Z",
-            "shown_at": [
-                "2026-02-11T00:34:59.301728Z"
-            ]
-        },
-        {
-            "id": "e6ae8a95b91700772b94863f893506bc",
-            "source": "spacenews",
-            "text": "Laser-linked satellite networks moving from concept to capability",
-            "source_link": "https://spacenews.com/laser-linked-satellite-networks-moving-from-concept-to-capability/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-10T22:49:30.355201Z",
-            "shown_at": [
-                "2026-02-10T23:58:59.251049Z",
-                "2026-02-11T19:14:36.196323Z",
-                "2026-02-14T10:04:25.812416Z",
-                "2026-02-15T10:44:03.836993Z"
-            ]
-        },
-        {
-            "id": "8d525ee256a2be85d1fa183d2d1914a7",
-            "source": "spacenews",
-            "text": "National Reconnaissance Office adds HEO, SatVu and Sierra Nevada to commercial imaging program",
-            "source_link": "https://spacenews.com/national-reconnaissance-office-adds-heo-satvu-and-sierra-nevada-to-commercial-imaging-program/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-10T22:49:30.355166Z",
-            "shown_at": [
-                "2026-02-10T23:24:36.437672Z",
-                "2026-02-14T11:54:03.742393Z",
-                "2026-02-15T19:34:15.938017Z",
-                "2026-02-16T21:53:58.476760Z",
-                "2026-02-17T20:54:11.136762Z"
-            ]
-        },
-        {
-            "id": "48554cb7eb2016803492bd79dc4951e9",
-            "source": "spacenews",
-            "text": "Satellite manufacturers see emerging market for ‘mini-constellations’",
-            "source_link": "https://spacenews.com/satellite-manufacturers-see-emerging-market-for-mini-constellations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-10T22:49:30.355116Z",
-            "shown_at": [
-                "2026-02-10T22:49:31.533329Z",
-                "2026-02-15T14:14:29.103363Z",
-                "2026-02-16T09:04:27.091599Z"
-            ]
-        },
-        {
-            "id": "24c572fae4e6619ab2b44408e4e01f73",
-            "source": "breaking_defense",
-            "text": "HEO, SatVu, Sierra Nevada nab first of NRO’s new commercial imagery contracts",
-            "source_link": "https://breakingdefense.com/2026/02/heo-satvu-sierra-nevada-nab-first-of-nros-new-commercial-imagery-contracts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-10T21:39:13.513434Z",
-            "shown_at": [
-                "2026-02-10T21:39:14.668458Z",
-                "2026-02-11T07:34:19.599291Z",
-                "2026-02-13T02:09:22.219013Z",
-                "2026-02-13T09:09:21.231477Z",
-                "2026-02-13T22:58:58.551520Z",
-                "2026-02-14T04:14:01.391674Z",
-                "2026-02-14T07:43:53.950588Z",
-                "2026-02-14T14:49:16.576730Z",
-                "2026-02-14T16:39:03.584218Z",
-                "2026-02-14T20:09:02.568788Z",
-                "2026-02-15T03:09:11.062528Z",
-                "2026-02-16T14:19:00.416594Z",
-                "2026-02-16T19:34:14.116637Z",
-                "2026-02-16T21:19:17.665872Z",
-                "2026-02-16T23:04:37.773304Z",
-                "2026-02-17T00:53:59.294418Z",
-                "2026-02-17T04:24:23.381832Z",
-                "2026-02-17T06:09:07.540074Z",
-                "2026-02-17T11:59:08.284435Z",
-                "2026-02-17T16:04:41.312828Z"
-            ]
-        },
-        {
-            "id": "a7f32c017d2673f9459cc180852ef926",
-            "source": "spacenews",
-            "text": "Germany funds 78 million euro human exploration control center",
-            "source_link": "https://spacenews.com/germany-funds-78-million-euro-human-exploration-control-center/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-10T21:04:41.246486Z",
-            "shown_at": [
-                "2026-02-10T22:14:26.165762Z"
-            ]
-        },
-        {
-            "id": "fa9fd9a1d4ee5837538972b9b379d7f7",
-            "source": "spacenews",
-            "text": "ULA seeks to rebuild launch cadence after CEO’s exit",
-            "source_link": "https://spacenews.com/ula-seeks-to-rebuild-launch-cadence-after-ceos-exit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-10T21:04:41.246424Z",
-            "shown_at": [
-                "2026-02-10T21:04:42.459300Z",
-                "2026-02-13T05:04:34.986132Z",
-                "2026-02-13T10:19:27.638090Z",
-                "2026-02-14T13:39:17.209479Z"
-            ]
-        },
-        {
-            "id": "6bf01b3f8b36ca2168daa420bac2483f",
-            "source": "spacenews",
-            "text": "Aerospace attracts partners for DiskSat demonstrations",
-            "source_link": "https://spacenews.com/aerospace-attracts-partners-for-disksat-demonstrations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-10T19:54:33.370730Z",
-            "shown_at": [
-                "2026-02-10T20:29:43.431431Z"
-            ]
-        },
-        {
-            "id": "c349158ef3264bdf075ebff1771e7f00",
-            "source": "spacenews",
-            "text": "Amazon Leo nets anchor maritime resellers",
-            "source_link": "https://spacenews.com/amazon-leo-nets-anchor-maritime-resellers/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-10T19:54:33.370672Z",
-            "shown_at": [
-                "2026-02-10T19:54:34.381730Z"
-            ]
-        },
-        {
-            "id": "92aeea3af302222def5475ee88e87b7e",
-            "source": "nyt",
-            "text": "Lost Soviet Luna 9 Moon Lander May Have Been Found",
-            "source_link": "https://www.nytimes.com/2026/02/10/science/luna-9-moon-lander-soviet.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-10T19:19:16.727107Z",
-            "shown_at": [
-                "2026-02-10T19:19:17.739710Z",
-                "2026-02-11T02:54:03.773777Z",
-                "2026-02-11T06:24:21.087339Z",
-                "2026-02-11T08:09:06.224560Z",
-                "2026-02-12T02:14:09.418364Z",
-                "2026-02-12T04:34:31.553894Z",
-                "2026-02-12T13:54:07.453631Z",
-                "2026-02-12T16:49:13.998140Z",
-                "2026-02-13T02:43:51.106355Z",
-                "2026-02-13T04:29:12.056485Z",
-                "2026-02-13T07:59:37.803050Z",
-                "2026-02-14T03:38:59.380295Z",
-                "2026-02-14T08:53:57.679224Z",
-                "2026-02-14T10:39:03.367343Z",
-                "2026-02-14T12:29:03.963637Z",
-                "2026-02-14T21:19:09.861080Z",
-                "2026-02-15T00:49:21.962618Z",
-                "2026-02-15T07:49:11.955595Z",
-                "2026-02-15T14:48:58.283061Z",
-                "2026-02-15T18:24:00.831795Z",
-                "2026-02-15T20:09:01.828865Z",
-                "2026-02-16T08:29:19.262380Z",
-                "2026-02-16T15:29:14.829584Z",
-                "2026-02-16T17:14:04.673723Z",
-                "2026-02-16T18:59:05.788421Z",
-                "2026-02-16T20:44:14.227153Z",
-                "2026-02-17T05:34:21.965332Z",
-                "2026-02-17T07:19:09.268226Z",
-                "2026-02-17T11:24:14.050989Z",
-                "2026-02-17T13:44:31.426798Z",
-                "2026-02-17T15:29:06.835520Z"
-            ]
-        },
-        {
-            "id": "320a95b1ce1429f3a8ca545aa544517f",
-            "source": "nyt",
-            "text": "‘Galileo’ Musical, Starring Raúl Esparza, Will Open on Broadway",
-            "source_link": "https://www.nytimes.com/2026/02/10/theater/galileo-broadway-raul-esparza.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-10T18:09:33.952408Z",
-            "shown_at": [
-                "2026-02-10T18:09:39.740605Z",
-                "2026-02-11T01:09:07.274618Z",
-                "2026-02-11T04:39:06.807766Z",
-                "2026-02-11T13:24:11.958889Z",
-                "2026-02-12T08:04:33.521923Z",
-                "2026-02-12T20:54:21.034027Z",
-                "2026-02-12T22:39:03.735291Z",
-                "2026-02-13T00:59:13.929959Z",
-                "2026-02-13T06:14:17.040924Z",
-                "2026-02-13T09:44:25.777779Z",
-                "2026-02-13T20:04:37.081853Z",
-                "2026-02-13T22:24:46.612750Z",
-                "2026-02-14T00:09:06.074863Z",
-                "2026-02-14T01:54:47.487531Z",
-                "2026-02-14T15:58:55.420629Z",
-                "2026-02-14T17:49:07.933546Z",
-                "2026-02-15T04:19:10.455492Z",
-                "2026-02-15T06:04:24.943883Z",
-                "2026-02-15T11:18:57.860894Z",
-                "2026-02-15T13:04:21.800970Z",
-                "2026-02-15T16:39:26.526401Z",
-                "2026-02-16T03:09:07.478366Z",
-                "2026-02-16T13:09:01.958336Z",
-                "2026-02-17T02:04:23.816706Z",
-                "2026-02-17T03:49:02.020625Z"
-            ]
-        },
-        {
-            "id": "1239839c8b89663dd52525f34fa68481",
-            "source": "spacenews",
-            "text": "Spaceium demonstrates refueling actuator in orbit",
-            "source_link": "https://spacenews.com/spaceium-demonstrates-refueling-actuator-in-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-10T17:34:42.885068Z",
-            "shown_at": [
-                "2026-02-10T18:44:30.497338Z",
-                "2026-02-12T01:04:34.101710Z",
-                "2026-02-17T04:59:13.162345Z",
-                "2026-02-17T06:44:17.322123Z"
-            ]
-        },
-        {
-            "id": "b1ffe3c456698369d95e93014190c05c",
-            "source": "spacenews",
-            "text": "Non-venture space startup investment hits post-SPAC high",
-            "source_link": "https://spacenews.com/non-venture-space-startup-investment-hits-post-spac-high/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-10T17:34:42.884982Z",
-            "shown_at": [
-                "2026-02-10T17:34:44.114872Z",
-                "2026-02-15T12:29:15.635859Z",
-                "2026-02-16T01:59:10.211549Z"
-            ]
-        },
-        {
-            "id": "a9f3599573408f7783c51330403643e1",
-            "source": "breaking_defense",
-            "text": "New UN forum seeks busting space traffic cooperation barriers",
-            "source_link": "https://breakingdefense.com/2026/02/new-un-forum-seeks-busting-space-traffic-cooperation-barriers/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-10T16:24:11.870354Z",
-            "shown_at": [
-                "2026-02-10T16:24:13.100160Z",
-                "2026-02-11T18:04:32.378037Z",
-                "2026-02-11T23:54:09.077997Z",
-                "2026-02-12T10:59:15.151771Z",
-                "2026-02-12T20:19:23.316826Z",
-                "2026-02-13T00:23:47.640738Z",
-                "2026-02-13T07:24:19.798932Z",
-                "2026-02-13T21:14:17.735709Z",
-                "2026-02-14T09:28:54.571289Z",
-                "2026-02-14T21:54:45.008931Z",
-                "2026-02-15T04:54:11.010492Z",
-                "2026-02-15T08:24:33.749458Z",
-                "2026-02-15T11:54:07.168827Z",
-                "2026-02-15T20:44:50.316944Z",
-                "2026-02-17T07:54:03.370367Z",
-                "2026-02-17T10:14:41.804754Z",
-                "2026-02-17T14:19:15.258682Z"
-            ]
-        },
-        {
-            "id": "069d2d86c7256a16e207ab1e0b3b8e9a",
-            "source": "spacenews",
-            "text": "President Trump signs legislation reauthorizing SBIR",
-            "source_link": "https://spacenews.com/president-trump-signs-legislation-reauthorizing-sbir/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-14T03:24:17.442637Z",
-            "shown_at": [
-                "2026-04-14T03:24:18.390764Z"
-            ]
-        },
-        {
-            "id": "c425b1ff5084a05d626bbffbe09715b4",
-            "source": "spacenews",
-            "text": "L3Harris investing upfront in bid for Golden Dome work",
-            "source_link": "https://spacenews.com/l3harris-investing-upfront-in-bid-for-golden-dome-work/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-14T09:49:11.291507Z",
-            "shown_at": [
-                "2026-04-14T09:49:11.939054Z"
-            ]
-        },
-        {
-            "id": "26196b1c1b60448ee974d59caad7e8ac",
-            "source": "spacenews",
-            "text": "Jielong-3 launches internet test satellite, Kinetica-1 lofts 8 remote sensing sats",
-            "source_link": "https://spacenews.com/jielong-3-launches-internet-test-satellite-kinetica-1-lofts-8-remote-sensing-sats/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-14T09:49:11.291564Z",
-            "shown_at": [
-                "2026-04-14T10:24:24.106961Z"
-            ]
-        },
-        {
-            "id": "626ab1596b8bfe1103e8028fa4950b53",
-            "source": "spacenews",
-            "text": "Tendeg Delivers First Antenna from New Industrial Production Facility, Targets 100+ Deployable Apertures Annually",
-            "source_link": "https://spacenews.com/tendeg-delivers-first-antenna-from-new-industrial-production-facility-targets-100-deployable-apertures-annually/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-14T10:59:04.633468Z",
-            "shown_at": [
-                "2026-04-14T10:59:05.498175Z"
-            ]
-        },
-        {
-            "id": "6ccebffedfc410c2366fa18376f0e5ca",
-            "source": "spacenews",
-            "text": "Ecliptic Enterprises and The Extraterrestrial Investment Company Announce Strategic Agreement",
-            "source_link": "https://spacenews.com/ecliptic-enterprises-and-the-extraterrestrial-investment-company-extraterrestrial-announce-strategic-agreement/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-14T12:09:28.301840Z",
-            "shown_at": [
-                "2026-04-14T12:09:29.539245Z"
-            ]
-        },
-        {
-            "id": "826dccf13549419fe6c67349c859faf9",
-            "source": "spacenews",
-            "text": "Axiom Space plans 2027 flight test of spacesuit",
-            "source_link": "https://spacenews.com/axiom-space-plans-2027-flight-test-of-spacesuit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-14T12:09:28.301920Z",
-            "shown_at": [
-                "2026-04-14T12:44:21.151524Z"
-            ]
-        },
-        {
-            "id": "43ae678178adb3bd20f0f1fd011799e0",
-            "source": "spacenews",
-            "text": "AI and geopolitics spur space investment surge",
-            "source_link": "https://spacenews.com/ai-and-geopolitics-spur-space-investment-surge/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-14T12:09:28.301970Z",
-            "shown_at": [
-                "2026-04-14T13:19:31.814729Z"
-            ]
-        },
-        {
-            "id": "25c6e085aaa5febb00ae8cf31f02f830",
-            "source": "spacenews",
-            "text": "Eutelsat’s U.S. arm pitches hosted payloads deals on OneWeb satellites",
-            "source_link": "https://spacenews.com/eutelsats-u-s-arm-pitches-hosted-payloads-deals-on-oneweb-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-14T13:54:24.764017Z",
-            "shown_at": [
-                "2026-04-14T13:54:25.772790Z"
-            ]
-        },
-        {
-            "id": "c74537e7e2083f6de897230dc4c0a5fc",
-            "source": "spacenews",
-            "text": "Is COPUOS at a turning point? Governing space in a new era",
-            "source_link": "https://spacenews.com/is-copuos-at-a-turning-point-governing-space-in-a-new-era/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-14T13:54:24.764076Z",
-            "shown_at": [
-                "2026-04-14T14:29:25.128165Z"
-            ]
-        },
-        {
-            "id": "bd1179f59e6e99fefc0d73948b793d25",
-            "source": "spacenews",
-            "text": "Xoople and L3Harris team up to build satellites for ‘Earth AI’ ",
-            "source_link": "https://spacenews.com/xoople-and-l3harris-team-up-to-build-satellites-for-earth-ai/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-14T15:04:56.022101Z",
-            "shown_at": [
-                "2026-04-14T15:04:57.096836Z"
-            ]
-        },
-        {
-            "id": "f37441e37f3fd87c40e4ac4634936e62",
-            "source": "spacenews",
-            "text": "Archangel Lightworks Raises Over $13.5m In Series A Funding Round",
-            "source_link": "https://spacenews.com/archangel-lightworks-raises-over-13-5m-in-series-a-funding-round/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-14T15:04:56.022160Z",
-            "shown_at": [
-                "2026-04-14T15:39:36.023017Z"
-            ]
-        },
-        {
-            "id": "33f0a2331df4272a9a2b64fae4cf470d",
-            "source": "spacenews",
-            "text": "Amazon buys Globalstar to catapult into direct-to-device race",
-            "source_link": "https://spacenews.com/amazon-buys-globalstar-to-catapult-into-direct-to-device-race/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-14T15:04:56.022203Z",
-            "shown_at": [
-                "2026-04-14T16:14:21.939150Z"
-            ]
-        },
-        {
-            "id": "b71335204985e7d3f3b003b0081241aa",
-            "source": "spacenews",
-            "text": "BAE Systems introduces Ascent™ spacecraft to support space superiority and exploration",
-            "source_link": "https://spacenews.com/bae-systems-introduces-ascent-spacecraft-to-support-space-superiority-and-exploration/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-14T15:04:56.022239Z",
-            "shown_at": [
-                "2026-04-14T16:49:11.052005Z"
-            ]
-        },
-        {
-            "id": "ad20c8ed490d8cb594d9f6bc129794e5",
-            "source": "spacenews",
-            "text": "Space Command pushes new warfighting model built on moving satellites",
-            "source_link": "https://spacenews.com/space-command-pushes-new-warfighting-model-built-on-moving-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-14T17:59:10.535764Z",
-            "shown_at": [
-                "2026-04-14T17:59:12.136229Z"
-            ]
-        },
-        {
-            "id": "95d2061e7f90dc20ff9c26c5ff51b75a",
-            "source": "spacenews",
-            "text": "Q&A: Astronaut Linda Godwin on lessons learned from Artemis",
-            "source_link": "https://spacenews.com/qa-astronaut-linda-godwin-on-lessons-learned-from-artemis/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-14T17:59:10.535840Z",
-            "shown_at": [
-                "2026-04-14T18:34:35.237548Z"
-            ]
-        },
-        {
-            "id": "4a4c62b54a61e921d4c90bc604d96b6e",
-            "source": "spacenews",
-            "text": "‘The show goes on:’ NASA looks beyond Artemis 2",
-            "source_link": "https://spacenews.com/the-show-goes-on-nasa-looks-beyond-artemis-2/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-14T17:59:10.535909Z",
-            "shown_at": [
-                "2026-04-14T19:09:30.785248Z"
-            ]
-        },
-        {
-            "id": "efb84ac0185e0aa9ba69da2bddc8ae76",
-            "source": "spacenews",
-            "text": "RTX’s Blue Canyon Technologies expands reaction wheel production capacity",
-            "source_link": "https://spacenews.com/rtxs-blue-canyon-technologies-expands-reaction-wheel-production-capacity/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-14T17:59:10.535957Z",
-            "shown_at": [
-                "2026-04-14T19:44:15.478602Z"
-            ]
-        },
-        {
-            "id": "48bcb4decea78813cfe552cae8caf93f",
-            "source": "spacenews",
-            "text": "Seagate Space and Oceaneering Join Forces to Build the Future of Offshore Launch Infrastructure",
-            "source_link": "https://spacenews.com/seagate-space-and-oceaneering-join-forces-to-build-the-future-of-offshore-launch-infrastructure/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-14T20:24:25.011210Z",
-            "shown_at": [
-                "2026-04-14T20:24:26.032496Z"
-            ]
-        },
-        {
-            "id": "98170746e1bd46abbe927fc53f458ebf",
-            "source": "spacenews",
-            "text": "Put science back in the driver’s seat",
-            "source_link": "https://spacenews.com/put-science-back-in-the-drivers-seat/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-14T20:24:25.011282Z",
-            "shown_at": [
-                "2026-04-14T20:59:23.574902Z"
-            ]
-        },
-        {
-            "id": "da6e5281c35e21bc13eab1c17fcfc1eb",
-            "source": "spacenews",
-            "text": "White House releases space nuclear policy",
-            "source_link": "https://spacenews.com/white-house-releases-space-nuclear-policy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-14T20:24:25.011343Z",
-            "shown_at": [
-                "2026-04-14T21:34:21.256490Z"
-            ]
-        },
-        {
-            "id": "db1d34cda08ba5ddc52bf7b696c4ae1b",
-            "source": "spacenews",
-            "text": "Defense firms unveil new satellite designs for orbital warfare",
-            "source_link": "https://spacenews.com/defense-firms-unveil-new-satellite-designs-for-orbital-warfare/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-14T20:24:25.011395Z",
-            "shown_at": [
-                "2026-04-14T22:09:04.562901Z"
-            ]
-        },
-        {
-            "id": "951d926a1fa12a24040667e9b1e771a8",
-            "source": "spacenews",
-            "text": "Q&A: Aerospace Corp flexes its data advantage",
-            "source_link": "https://spacenews.com/qa-aerospace-corp-flexes-its-data-advantage/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-14T20:24:25.011447Z",
-            "shown_at": [
-                "2026-04-14T22:44:18.419787Z"
-            ]
-        },
-        {
-            "id": "e163e2e3ca1b5c5e2043effcc71f24c3",
-            "source": "spacenews",
-            "text": "Blue Origin moves toward launch at Vandenberg",
-            "source_link": "https://spacenews.com/blue-origin-moves-toward-launch-at-vandenberg/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-14T23:19:14.721826Z",
-            "shown_at": [
-                "2026-04-14T23:19:15.620932Z"
-            ]
-        },
-        {
-            "id": "5a4ee3bd5959807c84d5763bb236a4a6",
-            "source": "spacenews",
-            "text": "NRO highlights government and industry partnerships",
-            "source_link": "https://spacenews.com/nro-highlights-government-and-industry-partnerships/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-14T23:19:14.721884Z",
-            "shown_at": [
-                "2026-04-14T23:54:09.647262Z"
-            ]
-        },
-        {
-            "id": "67f7e1d80c359b35966c1e5327c23a9a",
-            "source": "spacenews",
-            "text": "SES and Boeing move toward factory-installed multi-orbit inflight connectivity",
-            "source_link": "https://spacenews.com/ses-and-boeing-move-toward-factory-installed-multi-orbit-inflight-connectivity/",
-            "shown": false,
-            "type": "news",
-            "fetched_datetime": "2026-04-14T23:19:14.721927Z"
-        },
-        {
-            "id": "3639be8d382183bf6a02cd129687ff39",
-            "source": "spacenews",
-            "text": "Commercial Space Federation (CSF) Welcomes ispace-U.S. to Board of Directors",
-            "source_link": "https://spacenews.com/commercial-space-federation-csf-welcomes-ispace-u-s-to-board-of-directors/",
-            "shown": false,
-            "type": "news",
-            "fetched_datetime": "2026-04-14T23:19:14.721988Z"
         }
     ]
 }
