@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 26 | 43 | 32 | 58 |
+| spacenews | 26 | 43 | 33 | 59 |
 | nyt | 0 | 0 | 9 | 23 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2319,3 +2319,4 @@
 - **Apr 15, 05:44 AM** - NASA Prepares for Artemis II Splashdown After Historic Moon Flyby (nyt)
 - **Apr 15, 06:19 AM** - AI and geopolitics spur space investment surge (spacenews)
 - **Apr 15, 06:54 AM** - A Magazine for Earthlings Who Dream of Outer Space (nyt)
+- **Apr 15, 07:29 AM** - Citra Space raises $15 million Series A to expand platform for identifying objects in orbit (spacenews)
