@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-15T00:04:43.654890+00:00",
-    "trigger_count": 6,
-    "current_item_id": "53a8da9e456f56785e91d4feffaa651d",
+    "trigger_count": 0,
+    "current_item_id": "eb73fabc305adc182486c74909457449",
     "data": [
         {
             "id": "3639be8d382183bf6a02cd129687ff39",
@@ -7843,6 +7843,18 @@
             "fetched_datetime": "2026-04-15T11:34:19.811710Z",
             "shown_at": [
                 "2026-04-15T11:34:20.806987Z"
+            ]
+        },
+        {
+            "id": "eb73fabc305adc182486c74909457449",
+            "source": "spacenews",
+            "text": "New Wireless Access Point, Camera, and Remote Interface Unit Join NASA Human Rated Class 1 Layer 3 Ethernet Switch Family",
+            "source_link": "https://spacenews.com/new-wireless-access-point-camera-and-remote-interface-unit-join-nasa-human-rated-class-1-layer-3-ethernet-switch-family/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-15T12:09:28.667863Z",
+            "shown_at": [
+                "2026-04-15T12:09:29.570287Z"
             ]
         }
     ]

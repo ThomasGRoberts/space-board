@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 24 | 42 | 32 | 58 |
+| spacenews | 22 | 43 | 32 | 59 |
 | nyt | 0 | 0 | 9 | 23 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2327,3 +2327,4 @@
 - **Apr 15, 10:24 AM** - Artemis II Splashdown Gives NASA Momentum in Renewed Moon Race (nyt)
 - **Apr 15, 10:59 AM** - Q&A: Aerospace Corp flexes its data advantage (spacenews)
 - **Apr 15, 11:34 AM** - Turion Space raises $75 million to expand maneuverable satellite fleet (spacenews)
+- **Apr 15, 12:09 PM** - New Wireless Access Point, Camera, and Remote Interface Unit Join NASA Human Rated Class 1 Layer 3 Ethernet Switch Family (spacenews)
