@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 17 | 41 | 29 | 59 |
+| spacenews | 17 | 41 | 30 | 60 |
 | nyt | 0 | 0 | 12 | 23 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2339,3 +2339,4 @@
 - **Apr 15, 05:24 PM** - A Magazine for Earthlings Who Dream of Outer Space (nyt)
 - **Apr 15, 05:59 PM** - Jielong-3 launches internet test satellite, Kinetica-1 lofts 8 remote sensing sats (spacenews)
 - **Apr 15, 06:34 PM** - Saltzman unveils blueprint for Space Force’s future (spacenews)
+- **Apr 15, 07:09 PM** - Senators seek increased funding for NASA Mars missions (spacenews)

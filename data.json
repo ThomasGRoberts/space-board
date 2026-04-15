@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-15T00:04:43.654890+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1458ec0df3fee9a5d64a80ef8abfc944",
+    "trigger_count": 0,
+    "current_item_id": "2f1ce65dd86f62e106eb4304a177e753",
     "data": [
         {
             "id": "3639be8d382183bf6a02cd129687ff39",
@@ -7917,9 +7917,12 @@
             "source": "spacenews",
             "text": "Senators seek increased funding for NASA Mars missions",
             "source_link": "https://spacenews.com/senators-seek-increased-funding-for-nasa-mars-missions/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-04-15T18:34:39.907773Z"
+            "fetched_datetime": "2026-04-15T18:34:39.907773Z",
+            "shown_at": [
+                "2026-04-15T19:09:28.802370Z"
+            ]
         }
     ]
 }
