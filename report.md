@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 27 | 44 | 32 | 58 |
+| spacenews | 27 | 44 | 33 | 59 |
 | nyt | 0 | 0 | 9 | 23 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2311,3 +2311,4 @@
 - **Apr 15, 01:04 AM** - SES and Boeing move toward factory-installed multi-orbit inflight connectivity (spacenews)
 - **Apr 15, 01:39 AM** - Kepler to lead interoperability tests for ESA’s HydRON optical relay network (spacenews)
 - **Apr 15, 02:14 AM** - NASA Prepares for Artemis II Splashdown After Historic Moon Flyby (nyt)
+- **Apr 15, 02:49 AM** - Defense firms unveil new satellite designs for orbital warfare (spacenews)
