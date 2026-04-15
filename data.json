@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-15T00:04:43.654890+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2e2611d58ab89dbe2cb4f27d3c0dc759",
+    "trigger_count": 0,
+    "current_item_id": "20d8e5cf3118a195fe9f8d03545e21dd",
     "data": [
         {
             "id": "3639be8d382183bf6a02cd129687ff39",
@@ -7968,9 +7968,12 @@
             "source": "spacenews",
             "text": "The Infrastructure Layer U.S. Space Superiority Has Been Missing",
             "source_link": "https://spacenews.com/the-infrastructure-layer-u-s-space-superiority-has-been-missing/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-04-15T21:29:10.049745Z"
+            "fetched_datetime": "2026-04-15T21:29:10.049745Z",
+            "shown_at": [
+                "2026-04-15T23:14:09.125460Z"
+            ]
         }
     ]
 }

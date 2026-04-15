@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 16 | 38 | 27 | 57 |
+| spacenews | 16 | 38 | 28 | 58 |
 | nyt | 0 | 0 | 14 | 25 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2346,3 +2346,4 @@
 - **Apr 15, 09:29 PM** - Defining acquisition on a wartime footing (spacenews)
 - **Apr 15, 10:04 PM** - NASA seeks proposals for commercial TDRSS replacement (spacenews)
 - **Apr 15, 10:38 PM** - Emerson Launches Innovative Software-Driven Method for High-Fidelity Aerospace RF Testing (spacenews)
+- **Apr 15, 11:14 PM** - The Infrastructure Layer U.S. Space Superiority Has Been Missing (spacenews)
