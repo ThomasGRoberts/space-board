@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 16 | 39 | 27 | 57 |
+| spacenews | 16 | 39 | 28 | 58 |
 | nyt | 0 | 0 | 14 | 25 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2345,3 +2345,4 @@
 - **Apr 15, 08:54 PM** - A Magazine for Earthlings Who Dream of Outer Space (nyt)
 - **Apr 15, 09:29 PM** - Defining acquisition on a wartime footing (spacenews)
 - **Apr 15, 10:04 PM** - NASA seeks proposals for commercial TDRSS replacement (spacenews)
+- **Apr 15, 10:38 PM** - Emerson Launches Innovative Software-Driven Method for High-Fidelity Aerospace RF Testing (spacenews)
