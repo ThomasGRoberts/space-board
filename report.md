@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 22 | 43 | 31 | 59 |
+| spacenews | 23 | 44 | 32 | 60 |
 | nyt | 0 | 0 | 10 | 22 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2331,3 +2331,4 @@
 - **Apr 15, 12:44 PM** - Another Giant Leap Reminds Us How Small We Are (nyt)
 - **Apr 15, 01:19 PM** - Vast offers new docking adapter for large space stations (spacenews)
 - **Apr 15, 01:54 PM** - The Digital Networks Act: a reform that requires strategic attention for satellite operators (spacenews)
+- **Apr 15, 02:29 PM** - Novaspace and OGC Unveil the China Space Industry Intelligence Catalog (spacenews)
