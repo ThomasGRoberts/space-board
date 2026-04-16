@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-16T00:04:42.237688+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ce74ea9bd301bbd7b165b256736ac0c2",
+    "trigger_count": 0,
+    "current_item_id": "f619304135355b686c48fe9b27494206",
     "data": [
         {
             "id": "20d8e5cf3118a195fe9f8d03545e21dd",
@@ -7793,6 +7793,18 @@
             "fetched_datetime": "2026-04-16T03:19:06.352865Z",
             "shown_at": [
                 "2026-04-16T03:19:07.204599Z"
+            ]
+        },
+        {
+            "id": "f619304135355b686c48fe9b27494206",
+            "source": "spacenews",
+            "text": "PlanetiQ secures $15 million Air Force STRATFI contract",
+            "source_link": "https://spacenews.com/planetiq-secures-15-million-air-force-stratfi-contract/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-16T10:19:33.912450Z",
+            "shown_at": [
+                "2026-04-16T10:19:35.348358Z"
             ]
         }
     ]

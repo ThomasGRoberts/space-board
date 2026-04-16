@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 36 | 25 | 57 |
+| spacenews | 13 | 37 | 26 | 58 |
 | nyt | 0 | 0 | 16 | 25 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2288,3 +2288,4 @@
 - **Apr 16, 08:34 AM** - A Magazine for Earthlings Who Dream of Outer Space (nyt)
 - **Apr 16, 09:09 AM** - Atomic-6 unveils online marketplace for orbital data centers (spacenews)
 - **Apr 16, 09:44 AM** - A Magazine for Earthlings Who Dream of Outer Space (nyt)
+- **Apr 16, 10:19 AM** - PlanetiQ secures $15 million Air Force STRATFI contract (spacenews)
