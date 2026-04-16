@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 38 | 25 | 58 |
+| spacenews | 12 | 38 | 26 | 59 |
 | nyt | 0 | 0 | 16 | 24 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2278,3 +2278,4 @@
 - **Apr 16, 02:44 AM** - Atomic-6 unveils online marketplace for orbital data centers (spacenews)
 - **Apr 16, 03:19 AM** - Space Force reorg signals end of SDA as standalone agency (spacenews)
 - **Apr 16, 03:54 AM** - See Photos From All 10 Days of NASA’s Artemis II Moon Mission (nyt)
+- **Apr 16, 04:29 AM** - Aerospace to support industry with government furnished talent (spacenews)
