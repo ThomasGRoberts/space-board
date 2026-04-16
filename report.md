@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 25 | 24 | 51 |
-| nyt | 2 | 2 | 17 | 31 |
+| nyt | 2 | 2 | 17 | 32 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2311,3 +2311,4 @@
 - **Apr 16, 10:04 PM** - Taiwan floats shared satcom constellation amid calls for more space collaboration (spacenews)
 - **Apr 16, 10:39 PM** - Companies make the case for commercial space station markets (spacenews)
 - **Apr 16, 11:14 PM** - Countering missile threats ‘left of launch’ (spacenews)
+- **Apr 16, 11:49 PM** - NASA’s Artemis II Astronauts Reunite With Friends and Family After 10-Day Moon Mission (nyt)
