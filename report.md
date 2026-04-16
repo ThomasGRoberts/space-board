@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 35 | 26 | 57 |
-| nyt | 0 | 0 | 15 | 25 |
+| nyt | 0 | 0 | 16 | 26 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2293,3 +2293,4 @@
 - **Apr 16, 11:29 AM** - Jielong-3 launches internet test satellite, Kinetica-1 lofts 8 remote sensing sats (spacenews)
 - **Apr 16, 12:04 PM** - Voyager to fly private astronaut mission to ISS (spacenews)
 - **Apr 16, 12:39 PM** - Aethero orders Titan satellite to advance space-based data center ambitions (spacenews)
+- **Apr 16, 01:14 PM** - See Photos From All 10 Days of NASA’s Artemis II Moon Mission (nyt)
