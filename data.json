@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-16T00:04:42.237688+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d461b947d5afdf3e37600d6dc21b6608",
+    "trigger_count": 0,
+    "current_item_id": "1bf96310fd377b889d6c0eb36f080b58",
     "data": [
         {
             "id": "20d8e5cf3118a195fe9f8d03545e21dd",
@@ -7770,6 +7770,18 @@
                 "2026-02-18T23:59:11.796350Z",
                 "2026-02-19T12:24:21.893188Z",
                 "2026-02-19T18:14:22.032714Z"
+            ]
+        },
+        {
+            "id": "1bf96310fd377b889d6c0eb36f080b58",
+            "source": "spacenews",
+            "text": "Space Force reorg signals end of SDA as standalone agency",
+            "source_link": "https://spacenews.com/space-force-reorg-signals-end-of-sda-as-standalone-agency/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-16T03:19:06.352865Z",
+            "shown_at": [
+                "2026-04-16T03:19:07.204599Z"
             ]
         }
     ]
