@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 32 | 26 | 55 |
+| spacenews | 14 | 33 | 27 | 55 |
 | nyt | 0 | 0 | 15 | 27 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2299,3 +2299,4 @@
 - **Apr 16, 03:04 PM** - NASA Artemis II Splashdown: Time, Live Stream and How to Watch Landing (nyt)
 - **Apr 16, 03:39 PM** - President Trump signs legislation reauthorizing SBIR (spacenews)
 - **Apr 16, 04:14 PM** - NASA seeks commercial and exploration links for new Earth science missions (spacenews)
+- **Apr 16, 04:49 PM** - How space weather forecasting keeps astronauts (and satellites) safe (spacenews)
