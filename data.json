@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-16T00:04:42.237688+00:00",
-    "trigger_count": 6,
-    "current_item_id": "25ba89139c97e1a21db0748f90307ba3",
+    "trigger_count": 0,
+    "current_item_id": "fadfb3f68cc245e71cc38130cba73e7a",
     "data": [
         {
             "id": "20d8e5cf3118a195fe9f8d03545e21dd",
@@ -7895,6 +7895,18 @@
             "fetched_datetime": "2026-04-16T17:59:20.097164Z",
             "shown_at": [
                 "2026-04-16T17:59:21.000566Z"
+            ]
+        },
+        {
+            "id": "fadfb3f68cc245e71cc38130cba73e7a",
+            "source": "spacenews",
+            "text": "All Points signs agreement to build payload processing facilities at KSC",
+            "source_link": "https://spacenews.com/all-points-signs-agreement-to-build-payload-processing-facilities-at-ksc/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-16T18:34:27.471727Z",
+            "shown_at": [
+                "2026-04-16T18:34:28.384320Z"
             ]
         }
     ]
