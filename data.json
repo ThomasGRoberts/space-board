@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-16T00:04:42.237688+00:00",
-    "trigger_count": 6,
-    "current_item_id": "069d2d86c7256a16e207ab1e0b3b8e9a",
+    "trigger_count": 0,
+    "current_item_id": "ecd0ee7ea4149c48d982ea44e436e8a1",
     "data": [
         {
             "id": "20d8e5cf3118a195fe9f8d03545e21dd",
@@ -7858,6 +7858,18 @@
             "fetched_datetime": "2026-04-16T13:54:09.773658Z",
             "shown_at": [
                 "2026-04-16T14:29:18.389514Z"
+            ]
+        },
+        {
+            "id": "ecd0ee7ea4149c48d982ea44e436e8a1",
+            "source": "spacenews",
+            "text": "NASA seeks commercial and exploration links for new Earth science missions",
+            "source_link": "https://spacenews.com/nasa-seeks-commercial-and-exploration-links-for-new-earth-science-missions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-16T16:14:28.742098Z",
+            "shown_at": [
+                "2026-04-16T16:14:29.892956Z"
             ]
         }
     ]

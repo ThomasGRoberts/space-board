@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 31 | 25 | 55 |
-| nyt | 0 | 0 | 16 | 27 |
+| spacenews | 13 | 32 | 26 | 55 |
+| nyt | 0 | 0 | 15 | 27 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2298,3 +2298,4 @@
 - **Apr 16, 02:29 PM** - Aethero developing Titan satellite to advance space-based data center ambitions (spacenews)
 - **Apr 16, 03:04 PM** - NASA Artemis II Splashdown: Time, Live Stream and How to Watch Landing (nyt)
 - **Apr 16, 03:39 PM** - President Trump signs legislation reauthorizing SBIR (spacenews)
+- **Apr 16, 04:14 PM** - NASA seeks commercial and exploration links for new Earth science missions (spacenews)
