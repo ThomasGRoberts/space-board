@@ -1,9 +1,153 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-04-15T00:04:43.654890+00:00",
-    "trigger_count": 2,
+    "last_run_datetime": "2026-04-16T00:04:42.237688+00:00",
+    "trigger_count": 3,
     "current_item_id": "92350bc953392144ecd444cde8b626e9",
     "data": [
+        {
+            "id": "20d8e5cf3118a195fe9f8d03545e21dd",
+            "source": "spacenews",
+            "text": "The Infrastructure Layer U.S. Space Superiority Has Been Missing",
+            "source_link": "https://spacenews.com/the-infrastructure-layer-u-s-space-superiority-has-been-missing/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-15T21:29:10.049745Z",
+            "shown_at": [
+                "2026-04-15T23:14:09.125460Z"
+            ]
+        },
+        {
+            "id": "2e2611d58ab89dbe2cb4f27d3c0dc759",
+            "source": "spacenews",
+            "text": "Emerson Launches Innovative Software-Driven Method for High-Fidelity Aerospace RF Testing",
+            "source_link": "https://spacenews.com/emerson-launches-innovative-software-driven-method-for-high-fidelity-aerospace-rf-testing/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-15T21:29:10.049444Z",
+            "shown_at": [
+                "2026-04-15T22:38:56.600059Z"
+            ]
+        },
+        {
+            "id": "c844c2090bdd6b4f6de283485c788a56",
+            "source": "spacenews",
+            "text": "NASA seeks proposals for commercial TDRSS replacement",
+            "source_link": "https://spacenews.com/nasa-seeks-proposals-for-commercial-tdrss-replacement/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-15T21:29:10.049396Z",
+            "shown_at": [
+                "2026-04-15T22:04:43.436484Z"
+            ]
+        },
+        {
+            "id": "98152c3d6c05c4441e0f9b17cf53c55f",
+            "source": "spacenews",
+            "text": "Defining acquisition on a wartime footing",
+            "source_link": "https://spacenews.com/defining-acquisition-on-a-wartime-footing/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-15T21:29:10.049326Z",
+            "shown_at": [
+                "2026-04-15T21:29:10.702707Z"
+            ]
+        },
+        {
+            "id": "2f1ce65dd86f62e106eb4304a177e753",
+            "source": "spacenews",
+            "text": "Senators seek increased funding for NASA Mars missions",
+            "source_link": "https://spacenews.com/senators-seek-increased-funding-for-nasa-mars-missions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-15T18:34:39.907773Z",
+            "shown_at": [
+                "2026-04-15T19:09:28.802370Z"
+            ]
+        },
+        {
+            "id": "1458ec0df3fee9a5d64a80ef8abfc944",
+            "source": "spacenews",
+            "text": "Saltzman unveils blueprint for Space Force’s future",
+            "source_link": "https://spacenews.com/saltzman-unveils-blueprint-for-space-forces-future/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-15T18:34:39.907687Z",
+            "shown_at": [
+                "2026-04-15T18:34:40.942511Z"
+            ]
+        },
+        {
+            "id": "2bd8589d0fdcafb77981c8e9baa98aff",
+            "source": "spacenews",
+            "text": "Novaspace and OGC Unveil the China Space Industry Intelligence Catalog",
+            "source_link": "https://spacenews.com/novaspace-and-ogc-unveil-the-china-space-industry-intelligence-catalog/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-15T14:29:19.636825Z",
+            "shown_at": [
+                "2026-04-15T14:29:20.376535Z"
+            ]
+        },
+        {
+            "id": "356fb43691dee88615f1a7162b9053d7",
+            "source": "spacenews",
+            "text": "The Digital Networks Act: a reform that requires strategic attention for satellite operators",
+            "source_link": "https://spacenews.com/the-digital-networks-act-a-reform-that-requires-strategic-attention-for-satellite-operators/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-15T13:19:11.544115Z",
+            "shown_at": [
+                "2026-04-15T13:54:19.800098Z"
+            ]
+        },
+        {
+            "id": "99147c8c5d035ef0972af570e7764c67",
+            "source": "spacenews",
+            "text": "Vast offers new docking adapter for large space stations",
+            "source_link": "https://spacenews.com/vast-offers-new-docking-adapter-for-large-space-stations/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-15T13:19:11.544044Z",
+            "shown_at": [
+                "2026-04-15T13:19:12.674352Z"
+            ]
+        },
+        {
+            "id": "eb73fabc305adc182486c74909457449",
+            "source": "spacenews",
+            "text": "New Wireless Access Point, Camera, and Remote Interface Unit Join NASA Human Rated Class 1 Layer 3 Ethernet Switch Family",
+            "source_link": "https://spacenews.com/new-wireless-access-point-camera-and-remote-interface-unit-join-nasa-human-rated-class-1-layer-3-ethernet-switch-family/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-15T12:09:28.667863Z",
+            "shown_at": [
+                "2026-04-15T12:09:29.570287Z"
+            ]
+        },
+        {
+            "id": "53a8da9e456f56785e91d4feffaa651d",
+            "source": "spacenews",
+            "text": "Turion Space raises $75 million to expand maneuverable satellite fleet",
+            "source_link": "https://spacenews.com/turion-space-raises-75-million-to-expand-maneuverable-satellite-fleet/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-15T11:34:19.811710Z",
+            "shown_at": [
+                "2026-04-15T11:34:20.806987Z"
+            ]
+        },
+        {
+            "id": "4cfba6dbe7f70c6e50eefde9453e0483",
+            "source": "spacenews",
+            "text": "Kepler to lead interoperability tests for ESA’s HydRON optical relay network",
+            "source_link": "https://spacenews.com/kepler-to-lead-interoperability-tests-for-esas-hydron-optical-relay-network/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-15T01:39:32.023938Z",
+            "shown_at": [
+                "2026-04-15T01:39:32.741961Z"
+            ]
+        },
         {
             "id": "3639be8d382183bf6a02cd129687ff39",
             "source": "spacenews",
@@ -7621,359 +7765,6 @@
                 "2026-02-18T23:59:11.796350Z",
                 "2026-02-19T12:24:21.893188Z",
                 "2026-02-19T18:14:22.032714Z"
-            ]
-        },
-        {
-            "id": "8feea31a750ae001d834cf497983823d",
-            "source": "spacenews",
-            "text": "Space startups find more paths to liquidity as investors warm to maturing sector",
-            "source_link": "https://spacenews.com/space-startups-find-more-paths-to-liquidity-as-investors-warm-to-maturing-sector/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-12T23:14:01.425664Z",
-            "shown_at": [
-                "2026-02-12T23:14:02.560049Z",
-                "2026-02-14T08:19:45.029972Z"
-            ]
-        },
-        {
-            "id": "9ad62af42e23202b293757d2a85b00f1",
-            "source": "breaking_defense",
-            "text": "Project Hecate: The Space Force’s quiet effort to keep GPS survivable after 2040",
-            "source_link": "https://breakingdefense.com/2026/02/project-hecate-the-space-forces-quiet-effort-to-keep-gps-survivable-after-2040/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-12T22:04:21.290455Z",
-            "shown_at": [
-                "2026-02-12T22:04:22.590887Z",
-                "2026-02-13T19:29:21.548358Z",
-                "2026-02-14T00:44:12.909967Z",
-                "2026-02-14T05:59:02.712109Z",
-                "2026-02-14T18:23:58.390730Z",
-                "2026-02-15T10:09:04.055787Z",
-                "2026-02-15T15:29:52.273025Z",
-                "2026-02-15T17:14:00.776671Z",
-                "2026-02-15T18:59:04.289099Z",
-                "2026-02-16T00:49:09.096293Z",
-                "2026-02-16T02:34:50.203870Z",
-                "2026-02-16T06:04:29.970768Z",
-                "2026-02-16T09:39:05.790936Z",
-                "2026-02-16T12:34:23.047223Z",
-                "2026-02-17T02:39:07.034821Z",
-                "2026-02-18T00:59:08.375512Z",
-                "2026-02-18T06:14:33.781516Z",
-                "2026-02-18T17:29:11.417664Z",
-                "2026-02-18T22:44:24.869409Z",
-                "2026-02-19T05:54:49.795310Z",
-                "2026-02-19T07:04:45.735700Z",
-                "2026-02-19T11:49:10.836000Z",
-                "2026-02-19T18:49:59.208738Z"
-            ]
-        },
-        {
-            "id": "0fd7ce26ee91773d4d49cf1c4288286e",
-            "source": "spacenews",
-            "text": "Axiom Space raises additional $350 million",
-            "source_link": "https://spacenews.com/axiom-space-raises-additional-350-million/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-12T21:29:08.718351Z",
-            "shown_at": [
-                "2026-02-12T21:29:09.803999Z",
-                "2026-02-14T04:49:22.443990Z",
-                "2026-02-16T13:44:11.826778Z",
-                "2026-02-19T20:34:27.017379Z"
-            ]
-        },
-        {
-            "id": "709d3df5af067710ace3145520410235",
-            "source": "spacenews",
-            "text": "ThinKom gets military contract to supply portable ground stations for satellite communications",
-            "source_link": "https://spacenews.com/thinkom-gets-military-contract-to-supply-portable-ground-stations-for-satellite-communications/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-12T19:44:10.353870Z",
-            "shown_at": [
-                "2026-02-12T19:44:11.359178Z"
-            ]
-        },
-        {
-            "id": "1392a495d6bbffd1c0123f77a3f6e4c2",
-            "source": "spacenews",
-            "text": "ULA’s Vulcan launches Space Force mission; solid booster anomaly under investigation",
-            "source_link": "https://spacenews.com/ulas-vulcan-launches-u-s-space-force-mission-to-geosynchronous-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-12T17:59:06.391634Z",
-            "shown_at": [
-                "2026-02-12T17:59:07.360632Z",
-                "2026-02-17T22:39:04.629299Z",
-                "2026-02-19T15:54:39.352264Z"
-            ]
-        },
-        {
-            "id": "e0c9522bce1ff39a5adcce9a29ca667a",
-            "source": "spacenews",
-            "text": "Software startup Integrate makes push into defense market following Space Force award",
-            "source_link": "https://spacenews.com/software-startup-integrate-makes-push-into-defense-market-following-space-force-award/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-12T15:04:47.160373Z",
-            "shown_at": [
-                "2026-02-12T15:39:16.626636Z",
-                "2026-02-13T01:34:21.246852Z"
-            ]
-        },
-        {
-            "id": "45c130a1aedc36599d40cd19c3afe49a",
-            "source": "spacenews",
-            "text": "It is time to take astronomy off Earth",
-            "source_link": "https://spacenews.com/it-is-time-to-take-astronomy-off-earth/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-12T15:04:47.160313Z",
-            "shown_at": [
-                "2026-02-12T15:04:48.286130Z",
-                "2026-02-14T15:24:00.103343Z"
-            ]
-        },
-        {
-            "id": "61c8e7e2b989e8a19792a0b1e2b8fe65",
-            "source": "spacenews",
-            "text": "Launch companies debate how to compete against SpaceX",
-            "source_link": "https://spacenews.com/launch-companies-debate-how-to-compete-against-spacex/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-12T12:44:49.716560Z",
-            "shown_at": [
-                "2026-02-12T12:44:51.131180Z",
-                "2026-02-16T03:44:02.000841Z",
-                "2026-02-16T23:39:04.711513Z"
-            ]
-        },
-        {
-            "id": "7f15bb51849862a6f15b62a48d13e15b",
-            "source": "spacenews",
-            "text": "ULA’s Vulcan launches U.S. Space Force mission to geosynchronous orbit",
-            "source_link": "https://spacenews.com/ulas-vulcan-launches-u-s-space-force-mission-to-geosynchronous-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-12T10:24:12.258130Z",
-            "shown_at": [
-                "2026-02-12T10:24:12.983162Z"
-            ]
-        },
-        {
-            "id": "659acea8d4fe42c5eb07592458562016",
-            "source": "spacenews",
-            "text": "FCC Space Bureau chief shares agenda for regulatory reform",
-            "source_link": "https://spacenews.com/fcc-space-bureau-chief-shares-agenda-for-regulatory-reform/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-12T05:09:06.730467Z",
-            "shown_at": [
-                "2026-02-12T05:09:07.532876Z"
-            ]
-        },
-        {
-            "id": "8eab6a29a30e73d9897181c93350a8cd",
-            "source": "nyt",
-            "text": "This Comet Stopped Spinning. Then It Started Rotating Backward.",
-            "source_link": "https://www.nytimes.com/2026/02/11/science/comet-spinning-backwards.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-12T02:49:01.522468Z",
-            "shown_at": [
-                "2026-02-12T02:49:02.266908Z",
-                "2026-02-14T05:24:01.227390Z",
-                "2026-02-14T07:09:05.307735Z",
-                "2026-02-14T14:14:07.666349Z",
-                "2026-02-14T19:34:16.234260Z",
-                "2026-02-14T23:04:28.531479Z",
-                "2026-02-15T02:34:09.138560Z",
-                "2026-02-15T09:34:21.339363Z",
-                "2026-02-15T21:54:14.413564Z",
-                "2026-02-15T23:39:07.683902Z",
-                "2026-02-16T01:24:09.137239Z",
-                "2026-02-16T04:54:09.668058Z",
-                "2026-02-16T06:38:59.915066Z",
-                "2026-02-16T10:14:59.223320Z",
-                "2026-02-16T22:28:59.360478Z",
-                "2026-02-17T00:19:07.009294Z",
-                "2026-02-17T09:38:54.572961Z",
-                "2026-02-17T18:29:18.951702Z",
-                "2026-02-17T20:19:09.461997Z",
-                "2026-02-17T22:04:33.710892Z",
-                "2026-02-18T00:24:10.804057Z",
-                "2026-02-18T02:09:16.002465Z",
-                "2026-02-18T03:54:07.913902Z",
-                "2026-02-18T05:39:00.901607Z",
-                "2026-02-18T07:24:16.501484Z",
-                "2026-02-18T09:09:02.014067Z",
-                "2026-02-18T10:59:57.195855Z",
-                "2026-02-18T13:19:18.285406Z",
-                "2026-02-18T16:19:20.992125Z",
-                "2026-02-18T18:04:54.590207Z",
-                "2026-02-18T19:49:08.239108Z",
-                "2026-02-18T21:34:50.746581Z",
-                "2026-02-18T23:24:02.508887Z",
-                "2026-02-19T01:09:45.955566Z"
-            ]
-        },
-        {
-            "id": "a1004d236ac09c2b7697106870850072",
-            "source": "spacenews",
-            "text": "Space companies bet on Golden Dome as questions persist over scope and funding",
-            "source_link": "https://spacenews.com/space-companies-bet-on-golden-dome-as-questions-persist-over-scope-and-funding/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-11T22:44:41.216559Z",
-            "shown_at": [
-                "2026-02-11T23:19:16.923923Z"
-            ]
-        },
-        {
-            "id": "4cfba6dbe7f70c6e50eefde9453e0483",
-            "source": "spacenews",
-            "text": "Kepler to lead interoperability tests for ESA’s HydRON optical relay network",
-            "source_link": "https://spacenews.com/kepler-to-lead-interoperability-tests-for-esas-hydron-optical-relay-network/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-15T01:39:32.023938Z",
-            "shown_at": [
-                "2026-04-15T01:39:32.741961Z"
-            ]
-        },
-        {
-            "id": "53a8da9e456f56785e91d4feffaa651d",
-            "source": "spacenews",
-            "text": "Turion Space raises $75 million to expand maneuverable satellite fleet",
-            "source_link": "https://spacenews.com/turion-space-raises-75-million-to-expand-maneuverable-satellite-fleet/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-15T11:34:19.811710Z",
-            "shown_at": [
-                "2026-04-15T11:34:20.806987Z"
-            ]
-        },
-        {
-            "id": "eb73fabc305adc182486c74909457449",
-            "source": "spacenews",
-            "text": "New Wireless Access Point, Camera, and Remote Interface Unit Join NASA Human Rated Class 1 Layer 3 Ethernet Switch Family",
-            "source_link": "https://spacenews.com/new-wireless-access-point-camera-and-remote-interface-unit-join-nasa-human-rated-class-1-layer-3-ethernet-switch-family/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-15T12:09:28.667863Z",
-            "shown_at": [
-                "2026-04-15T12:09:29.570287Z"
-            ]
-        },
-        {
-            "id": "99147c8c5d035ef0972af570e7764c67",
-            "source": "spacenews",
-            "text": "Vast offers new docking adapter for large space stations",
-            "source_link": "https://spacenews.com/vast-offers-new-docking-adapter-for-large-space-stations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-15T13:19:11.544044Z",
-            "shown_at": [
-                "2026-04-15T13:19:12.674352Z"
-            ]
-        },
-        {
-            "id": "356fb43691dee88615f1a7162b9053d7",
-            "source": "spacenews",
-            "text": "The Digital Networks Act: a reform that requires strategic attention for satellite operators",
-            "source_link": "https://spacenews.com/the-digital-networks-act-a-reform-that-requires-strategic-attention-for-satellite-operators/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-15T13:19:11.544115Z",
-            "shown_at": [
-                "2026-04-15T13:54:19.800098Z"
-            ]
-        },
-        {
-            "id": "2bd8589d0fdcafb77981c8e9baa98aff",
-            "source": "spacenews",
-            "text": "Novaspace and OGC Unveil the China Space Industry Intelligence Catalog",
-            "source_link": "https://spacenews.com/novaspace-and-ogc-unveil-the-china-space-industry-intelligence-catalog/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-15T14:29:19.636825Z",
-            "shown_at": [
-                "2026-04-15T14:29:20.376535Z"
-            ]
-        },
-        {
-            "id": "1458ec0df3fee9a5d64a80ef8abfc944",
-            "source": "spacenews",
-            "text": "Saltzman unveils blueprint for Space Force’s future",
-            "source_link": "https://spacenews.com/saltzman-unveils-blueprint-for-space-forces-future/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-15T18:34:39.907687Z",
-            "shown_at": [
-                "2026-04-15T18:34:40.942511Z"
-            ]
-        },
-        {
-            "id": "2f1ce65dd86f62e106eb4304a177e753",
-            "source": "spacenews",
-            "text": "Senators seek increased funding for NASA Mars missions",
-            "source_link": "https://spacenews.com/senators-seek-increased-funding-for-nasa-mars-missions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-15T18:34:39.907773Z",
-            "shown_at": [
-                "2026-04-15T19:09:28.802370Z"
-            ]
-        },
-        {
-            "id": "98152c3d6c05c4441e0f9b17cf53c55f",
-            "source": "spacenews",
-            "text": "Defining acquisition on a wartime footing",
-            "source_link": "https://spacenews.com/defining-acquisition-on-a-wartime-footing/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-15T21:29:10.049326Z",
-            "shown_at": [
-                "2026-04-15T21:29:10.702707Z"
-            ]
-        },
-        {
-            "id": "c844c2090bdd6b4f6de283485c788a56",
-            "source": "spacenews",
-            "text": "NASA seeks proposals for commercial TDRSS replacement",
-            "source_link": "https://spacenews.com/nasa-seeks-proposals-for-commercial-tdrss-replacement/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-15T21:29:10.049396Z",
-            "shown_at": [
-                "2026-04-15T22:04:43.436484Z"
-            ]
-        },
-        {
-            "id": "2e2611d58ab89dbe2cb4f27d3c0dc759",
-            "source": "spacenews",
-            "text": "Emerson Launches Innovative Software-Driven Method for High-Fidelity Aerospace RF Testing",
-            "source_link": "https://spacenews.com/emerson-launches-innovative-software-driven-method-for-high-fidelity-aerospace-rf-testing/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-15T21:29:10.049444Z",
-            "shown_at": [
-                "2026-04-15T22:38:56.600059Z"
-            ]
-        },
-        {
-            "id": "20d8e5cf3118a195fe9f8d03545e21dd",
-            "source": "spacenews",
-            "text": "The Infrastructure Layer U.S. Space Superiority Has Been Missing",
-            "source_link": "https://spacenews.com/the-infrastructure-layer-u-s-space-superiority-has-been-missing/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-15T21:29:10.049745Z",
-            "shown_at": [
-                "2026-04-15T23:14:09.125460Z"
             ]
         }
     ]
