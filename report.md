@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 36 | 25 | 56 |
+| spacenews | 13 | 36 | 26 | 57 |
 | nyt | 0 | 0 | 16 | 26 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2290,3 +2290,4 @@
 - **Apr 16, 09:44 AM** - A Magazine for Earthlings Who Dream of Outer Space (nyt)
 - **Apr 16, 10:19 AM** - PlanetiQ secures $15 million Air Force STRATFI contract (spacenews)
 - **Apr 16, 10:54 AM** - For Artemis II, Returning to Earth May Be the Most Dangerous Part of the Mission (nyt)
+- **Apr 16, 11:29 AM** - Jielong-3 launches internet test satellite, Kinetica-1 lofts 8 remote sensing sats (spacenews)
