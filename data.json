@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-16T00:04:42.237688+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3353cf6b7a3e830e2dbb75c1add18714",
+    "trigger_count": 0,
+    "current_item_id": "c71073e9d85c729f5cb80bdd997ca08c",
     "data": [
         {
             "id": "20d8e5cf3118a195fe9f8d03545e21dd",
@@ -7826,9 +7826,12 @@
             "source": "spacenews",
             "text": "Aethero orders Titan satellite to advance space-based data center ambitions",
             "source_link": "https://spacenews.com/aethero-orders-titan-satellite-to-advance-space-based-data-center-ambitions/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-04-16T12:04:48.195323Z"
+            "fetched_datetime": "2026-04-16T12:04:48.195323Z",
+            "shown_at": [
+                "2026-04-16T12:39:19.488073Z"
+            ]
         }
     ]
 }
