@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 36 | 25 | 57 |
+| spacenews | 14 | 38 | 26 | 58 |
 | nyt | 0 | 0 | 16 | 25 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2291,3 +2291,4 @@
 - **Apr 16, 10:19 AM** - PlanetiQ secures $15 million Air Force STRATFI contract (spacenews)
 - **Apr 16, 10:54 AM** - For Artemis II, Returning to Earth May Be the Most Dangerous Part of the Mission (nyt)
 - **Apr 16, 11:29 AM** - Jielong-3 launches internet test satellite, Kinetica-1 lofts 8 remote sensing sats (spacenews)
+- **Apr 16, 12:04 PM** - Voyager to fly private astronaut mission to ISS (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-16T00:04:42.237688+00:00",
-    "trigger_count": 6,
-    "current_item_id": "26196b1c1b60448ee974d59caad7e8ac",
+    "trigger_count": 0,
+    "current_item_id": "3353cf6b7a3e830e2dbb75c1add18714",
     "data": [
         {
             "id": "20d8e5cf3118a195fe9f8d03545e21dd",
@@ -7808,6 +7808,27 @@
             "shown_at": [
                 "2026-04-16T10:19:35.348358Z"
             ]
+        },
+        {
+            "id": "3353cf6b7a3e830e2dbb75c1add18714",
+            "source": "spacenews",
+            "text": "Voyager to fly private astronaut mission to ISS",
+            "source_link": "https://spacenews.com/voyager-to-fly-private-astronaut-mission-to-iss/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-16T12:04:48.195264Z",
+            "shown_at": [
+                "2026-04-16T12:04:49.733890Z"
+            ]
+        },
+        {
+            "id": "c71073e9d85c729f5cb80bdd997ca08c",
+            "source": "spacenews",
+            "text": "Aethero orders Titan satellite to advance space-based data center ambitions",
+            "source_link": "https://spacenews.com/aethero-orders-titan-satellite-to-advance-space-based-data-center-ambitions/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-16T12:04:48.195323Z"
         }
     ]
 }
