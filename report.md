@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 28 | 24 | 51 |
+| spacenews | 12 | 28 | 24 | 52 |
 | nyt | 2 | 2 | 17 | 31 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2309,3 +2309,4 @@
 - **Apr 16, 08:54 PM** - See Photos From All 10 Days of NASA’s Artemis II Moon Mission (nyt)
 - **Apr 16, 09:29 PM** - Sophia and Kepler to marry orbital compute with optical links (spacenews)
 - **Apr 16, 10:04 PM** - Taiwan floats shared satcom constellation amid calls for more space collaboration (spacenews)
+- **Apr 16, 10:39 PM** - Companies make the case for commercial space station markets (spacenews)
