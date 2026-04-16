@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 38 | 25 | 58 |
+| spacenews | 12 | 38 | 26 | 59 |
 | nyt | 0 | 0 | 16 | 24 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2284,3 +2284,4 @@
 - **Apr 16, 06:14 AM** - A Magazine for Earthlings Who Dream of Outer Space (nyt)
 - **Apr 16, 06:49 AM** - Kepler to lead interoperability tests for ESA’s HydRON optical relay network (spacenews)
 - **Apr 16, 07:24 AM** - How and When to Watch NASA’s Artemis II Splash Down in Pacific Ocean (nyt)
+- **Apr 16, 07:59 AM** - NASA seeks proposals for commercial TDRSS replacement (spacenews)
