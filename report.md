@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 35 | 25 | 56 |
+| spacenews | 13 | 37 | 26 | 57 |
 | nyt | 0 | 0 | 16 | 26 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2294,3 +2294,4 @@
 - **Apr 16, 12:04 PM** - Voyager to fly private astronaut mission to ISS (spacenews)
 - **Apr 16, 12:39 PM** - Aethero orders Titan satellite to advance space-based data center ambitions (spacenews)
 - **Apr 16, 01:14 PM** - See Photos From All 10 Days of NASA’s Artemis II Moon Mission (nyt)
+- **Apr 16, 01:54 PM** - Artemis 2 is a benchmark in our space exploration program — and it depends on steady NASA funding (spacenews)

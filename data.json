@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-16T00:04:42.237688+00:00",
-    "trigger_count": 6,
-    "current_item_id": "fd0715942610ef8e2464dd87bec3cc5a",
+    "trigger_count": 0,
+    "current_item_id": "d18a9b114ee8ed2e9e53b8af8f745258",
     "data": [
         {
             "id": "20d8e5cf3118a195fe9f8d03545e21dd",
@@ -7833,6 +7833,27 @@
             "shown_at": [
                 "2026-04-16T12:39:19.488073Z"
             ]
+        },
+        {
+            "id": "d18a9b114ee8ed2e9e53b8af8f745258",
+            "source": "spacenews",
+            "text": "Artemis 2 is a benchmark in our space exploration program — and it depends on steady NASA funding",
+            "source_link": "https://spacenews.com/artemis-2-is-a-benchmark-in-our-space-exploration-program-and-it-depends-on-steady-nasa-funding/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-16T13:54:09.773429Z",
+            "shown_at": [
+                "2026-04-16T13:54:10.691227Z"
+            ]
+        },
+        {
+            "id": "b748562936b16bf0d63c74ca36b846d4",
+            "source": "spacenews",
+            "text": "Aethero developing Titan satellite to advance space-based data center ambitions",
+            "source_link": "https://spacenews.com/aethero-orders-titan-satellite-to-advance-space-based-data-center-ambitions/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-16T13:54:09.773658Z"
         }
     ]
 }
