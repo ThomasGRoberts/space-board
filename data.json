@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-16T00:04:42.237688+00:00",
-    "trigger_count": 6,
-    "current_item_id": "78108ff0d36f5c2abee19f11aef800cd",
+    "trigger_count": 0,
+    "current_item_id": "25ba89139c97e1a21db0748f90307ba3",
     "data": [
         {
             "id": "20d8e5cf3118a195fe9f8d03545e21dd",
@@ -7883,6 +7883,18 @@
             "fetched_datetime": "2026-04-16T16:49:10.497770Z",
             "shown_at": [
                 "2026-04-16T16:49:11.556853Z"
+            ]
+        },
+        {
+            "id": "25ba89139c97e1a21db0748f90307ba3",
+            "source": "nyt",
+            "text": "Artemis II Crew to Discuss NASA Moon Mission and Next Steps",
+            "source_link": "https://www.nytimes.com/2026/04/16/science/artemis-ii-astronauts-moon-mission-press-conference.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-16T17:59:20.097164Z",
+            "shown_at": [
+                "2026-04-16T17:59:21.000566Z"
             ]
         }
     ]
