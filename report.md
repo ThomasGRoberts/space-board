@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 28 | 24 | 51 |
+| spacenews | 13 | 29 | 24 | 52 |
 | nyt | 2 | 2 | 17 | 31 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2310,3 +2310,4 @@
 - **Apr 16, 09:29 PM** - Sophia and Kepler to marry orbital compute with optical links (spacenews)
 - **Apr 16, 10:04 PM** - Taiwan floats shared satcom constellation amid calls for more space collaboration (spacenews)
 - **Apr 16, 10:39 PM** - Companies make the case for commercial space station markets (spacenews)
+- **Apr 16, 11:14 PM** - Countering missile threats ‘left of launch’ (spacenews)
