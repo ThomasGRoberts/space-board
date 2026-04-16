@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 38 | 25 | 58 |
-| nyt | 0 | 0 | 16 | 24 |
+| nyt | 0 | 0 | 17 | 25 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2274,3 +2274,4 @@
 - **Apr 16, 12:24 AM** - Amazon buys Globalstar to catapult into direct-to-device race (spacenews)
 - **Apr 16, 12:59 AM** - See Photos From All 10 Days of NASA’s Artemis II Moon Mission (nyt)
 - **Apr 16, 01:34 AM** - Ecliptic Enterprises and The Extraterrestrial Investment Company Announce Strategic Agreement (spacenews)
+- **Apr 16, 02:09 AM** - NASA Artemis II Splashdown: Time, Live Stream and How to Watch Landing (nyt)
