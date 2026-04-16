@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 30 | 24 | 52 |
+| spacenews | 14 | 31 | 24 | 53 |
 | nyt | 2 | 2 | 17 | 30 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2305,3 +2305,4 @@
 - **Apr 16, 06:34 PM** - All Points signs agreement to build payload processing facilities at KSC (spacenews)
 - **Apr 16, 07:09 PM** - Artemis II Splashdown Gives NASA Momentum in Renewed Moon Race (nyt)
 - **Apr 16, 07:44 PM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
+- **Apr 16, 08:19 PM** - Boeing and its subsidiary Millennium Space team on new mid-size satellite (spacenews)

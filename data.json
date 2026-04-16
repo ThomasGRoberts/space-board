@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-16T00:04:42.237688+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b7600732b22f316aadda97b9bcb6eb73",
+    "trigger_count": 0,
+    "current_item_id": "3b737315332cb158c1839d23804ea417",
     "data": [
         {
             "id": "20d8e5cf3118a195fe9f8d03545e21dd",
@@ -7920,6 +7920,18 @@
             "fetched_datetime": "2026-04-16T19:44:06.716881Z",
             "shown_at": [
                 "2026-04-16T19:44:07.485927Z"
+            ]
+        },
+        {
+            "id": "3b737315332cb158c1839d23804ea417",
+            "source": "spacenews",
+            "text": "Boeing and its subsidiary Millennium Space team on new mid-size satellite",
+            "source_link": "https://spacenews.com/boeing-and-its-subsidiary-millennium-space-team-on-new-mid-size-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-16T20:19:24.889640Z",
+            "shown_at": [
+                "2026-04-16T20:19:25.733363Z"
             ]
         }
     ]
