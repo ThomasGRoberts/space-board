@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 24 | 24 | 49 |
-| nyt | 2 | 2 | 17 | 33 |
+| spacenews | 12 | 24 | 23 | 49 |
+| nyt | 2 | 2 | 18 | 34 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2273,3 +2273,4 @@
 - **Apr 17, 05:04 AM** - Companies make the case for commercial space station markets (spacenews)
 - **Apr 17, 05:39 AM** - See Photos From All 10 Days of NASA’s Artemis II Moon Mission (nyt)
 - **Apr 17, 06:14 AM** - Tendeg Delivers First Antenna from New Industrial Production Facility, Targets 100+ Deployable Apertures Annually (spacenews)
+- **Apr 17, 06:49 AM** - NASA Artemis II Splashdown: Time, Live Stream and How to Watch Landing (nyt)
