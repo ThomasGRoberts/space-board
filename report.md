@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 23 | 23 | 48 |
+| spacenews | 12 | 23 | 24 | 49 |
 | nyt | 2 | 2 | 18 | 34 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2285,3 +2285,4 @@
 - **Apr 17, 12:04 PM** - New EU Space Act draft seen as a step backward (spacenews)
 - **Apr 17, 12:39 PM** - D2D services are at risk of becoming too complicated and siloed (spacenews)
 - **Apr 17, 01:14 PM** - Another Giant Leap Reminds Us How Small We Are (nyt)
+- **Apr 17, 01:49 PM** - Q&A: Astronaut Linda Godwin on lessons learned from Artemis (spacenews)
