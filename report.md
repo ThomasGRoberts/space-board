@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 22 | 23 | 47 |
+| spacenews | 8 | 22 | 24 | 48 |
 | nyt | 0 | 2 | 18 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2298,3 +2298,4 @@
 - **Apr 17, 07:39 PM** - Another Giant Leap Reminds Us How Small We Are (nyt)
 - **Apr 17, 08:14 PM** - Moog Technology Keeps Artemis II Astronauts Safe During Historic Lunar Mission (spacenews)
 - **Apr 17, 08:49 PM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
+- **Apr 17, 09:24 PM** - Q&A: Heather Pringle on what to expect from Space Symposium (spacenews)
