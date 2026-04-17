@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 22 | 23 | 48 |
-| nyt | 2 | 2 | 18 | 34 |
+| nyt | 2 | 2 | 19 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2288,3 +2288,4 @@
 - **Apr 17, 01:49 PM** - Q&A: Astronaut Linda Godwin on lessons learned from Artemis (spacenews)
 - **Apr 17, 02:24 PM** - NASA Artemis II Splashdown: Time, Live Stream and How to Watch Landing (nyt)
 - **Apr 17, 02:59 PM** - Defense firms unveil new satellite designs for orbital warfare (spacenews)
+- **Apr 17, 03:34 PM** - See Photos From All 10 Days of NASA’s Artemis II Moon Mission (nyt)
