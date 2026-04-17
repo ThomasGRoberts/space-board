@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 21 | 22 | 47 |
+| spacenews | 9 | 22 | 23 | 48 |
 | nyt | 1 | 2 | 19 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2294,3 +2294,4 @@
 - **Apr 17, 05:19 PM** - Artemis 2 astronauts praise performance of Orion (spacenews)
 - **Apr 17, 05:54 PM** - See Photos From All 10 Days of NASA’s Artemis II Moon Mission (nyt)
 - **Apr 17, 06:29 PM** - Tendeg Delivers First Antenna from New Industrial Production Facility, Targets 100+ Deployable Apertures Annually (spacenews)
+- **Apr 17, 07:04 PM** - Shenzhou-21 astronauts complete third spacewalk, mission extended by a month (spacenews)

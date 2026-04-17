@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-17T00:04:48.187307+00:00",
-    "trigger_count": 6,
-    "current_item_id": "626ab1596b8bfe1103e8028fa4950b53",
+    "trigger_count": 0,
+    "current_item_id": "b4b622d23718f39a6c47b8e36d9b0815",
     "data": [
         {
             "id": "2a20467c3a5444dfd9900b36079b5324",
@@ -7832,6 +7832,18 @@
             "fetched_datetime": "2026-04-17T17:19:21.979603Z",
             "shown_at": [
                 "2026-04-17T17:19:23.011267Z"
+            ]
+        },
+        {
+            "id": "b4b622d23718f39a6c47b8e36d9b0815",
+            "source": "spacenews",
+            "text": "Shenzhou-21 astronauts complete third spacewalk, mission extended by a month",
+            "source_link": "https://spacenews.com/shenzhou-21-astronauts-complete-third-spacewalk-mission-extended-by-a-month/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-17T19:04:44.706377Z",
+            "shown_at": [
+                "2026-04-17T19:04:45.756562Z"
             ]
         }
     ]
