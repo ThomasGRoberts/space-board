@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 24 | 23 | 49 |
+| spacenews | 13 | 25 | 24 | 50 |
 | nyt | 2 | 2 | 18 | 33 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2278,3 +2278,4 @@
 - **Apr 17, 07:59 AM** - See Photos From All 10 Days of NASA’s Artemis II Moon Mission (nyt)
 - **Apr 17, 08:34 AM** - Taiwan floats shared satcom constellation amid calls for more space collaboration (spacenews)
 - **Apr 17, 09:09 AM** - Artemis II Splashdown Gives NASA Momentum in Renewed Moon Race (nyt)
+- **Apr 17, 09:44 AM** - Qingzhou prototype cargo spacecraft completes rendezvous tests in orbit  (spacenews)

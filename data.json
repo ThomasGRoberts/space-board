@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-17T00:04:48.187307+00:00",
-    "trigger_count": 6,
-    "current_item_id": "78108ff0d36f5c2abee19f11aef800cd",
+    "trigger_count": 0,
+    "current_item_id": "3a7bbaf834370a23865789aab92b445d",
     "data": [
         {
             "id": "2a20467c3a5444dfd9900b36079b5324",
@@ -7772,6 +7772,18 @@
                 "2026-02-17T16:39:11.099913Z",
                 "2026-02-22T19:34:23.124547Z",
                 "2026-02-23T04:19:25.741060Z"
+            ]
+        },
+        {
+            "id": "3a7bbaf834370a23865789aab92b445d",
+            "source": "spacenews",
+            "text": "Qingzhou prototype cargo spacecraft completes rendezvous tests in orbit ",
+            "source_link": "https://spacenews.com/qingzhou-prototype-cargo-spacecraft-completes-rendezvous-tests-in-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-17T09:44:16.093817Z",
+            "shown_at": [
+                "2026-04-17T09:44:16.780945Z"
             ]
         }
     ]
