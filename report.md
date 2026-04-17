@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 22 | 22 | 47 |
+| spacenews | 10 | 22 | 23 | 48 |
 | nyt | 2 | 2 | 19 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2289,3 +2289,4 @@
 - **Apr 17, 02:24 PM** - NASA Artemis II Splashdown: Time, Live Stream and How to Watch Landing (nyt)
 - **Apr 17, 02:59 PM** - Defense firms unveil new satellite designs for orbital warfare (spacenews)
 - **Apr 17, 03:34 PM** - See Photos From All 10 Days of NASA’s Artemis II Moon Mission (nyt)
+- **Apr 17, 04:09 PM** - Artemis 2 is a benchmark in our space exploration program — and it depends on steady NASA funding (spacenews)
