@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 23 | 23 | 48 |
-| nyt | 2 | 2 | 18 | 34 |
+| nyt | 2 | 2 | 19 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2286,3 +2286,4 @@
 - **Apr 17, 12:39 PM** - D2D services are at risk of becoming too complicated and siloed (spacenews)
 - **Apr 17, 01:14 PM** - Another Giant Leap Reminds Us How Small We Are (nyt)
 - **Apr 17, 01:49 PM** - Q&A: Astronaut Linda Godwin on lessons learned from Artemis (spacenews)
+- **Apr 17, 02:24 PM** - NASA Artemis II Splashdown: Time, Live Stream and How to Watch Landing (nyt)
