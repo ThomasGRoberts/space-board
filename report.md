@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 18 | 22 | 46 |
+| spacenews | 8 | 20 | 23 | 47 |
 | nyt | 0 | 2 | 19 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2300,3 +2300,4 @@
 - **Apr 17, 08:49 PM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
 - **Apr 17, 09:24 PM** - Q&A: Heather Pringle on what to expect from Space Symposium (spacenews)
 - **Apr 17, 09:59 PM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
+- **Apr 17, 10:34 PM** - NASA selects Falcon Heavy to launch ESA Mars rover mission despite budget threat (spacenews)
