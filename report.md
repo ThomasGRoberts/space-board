@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 24 | 24 | 49 |
+| spacenews | 13 | 24 | 24 | 50 |
 | nyt | 2 | 2 | 17 | 33 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2266,3 +2266,4 @@
 - **Apr 17, 12:59 AM** - NASA Artemis II Splashdown: Time, Live Stream and How to Watch Landing (nyt)
 - **Apr 17, 01:34 AM** - Turion Space raises $75 million to expand maneuverable satellite fleet (spacenews)
 - **Apr 17, 02:09 AM** - See Photos From All 10 Days of NASA’s Artemis II Moon Mission (nyt)
+- **Apr 17, 02:44 AM** - Orbit is filling up fast. Now comes the awkward bit: pre-empting and handling a crisis. (spacenews)
