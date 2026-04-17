@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 25 | 24 | 49 |
+| spacenews | 13 | 25 | 24 | 50 |
 | nyt | 2 | 2 | 17 | 33 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2264,3 +2264,4 @@
 - **Apr 16, 11:49 PM** - NASA’s Artemis II Astronauts Reunite With Friends and Family After 10-Day Moon Mission (nyt)
 - **Apr 17, 12:24 AM** - Spring fever pitch: Three questions to listen for this Space Symposium (spacenews)
 - **Apr 17, 12:59 AM** - NASA Artemis II Splashdown: Time, Live Stream and How to Watch Landing (nyt)
+- **Apr 17, 01:34 AM** - Turion Space raises $75 million to expand maneuverable satellite fleet (spacenews)
