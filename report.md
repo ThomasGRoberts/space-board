@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 24 | 24 | 49 |
-| nyt | 2 | 2 | 17 | 33 |
+| spacenews | 12 | 24 | 23 | 49 |
+| nyt | 2 | 2 | 18 | 34 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2277,3 +2277,4 @@
 - **Apr 17, 07:24 AM** - Archangel Lightworks Raises Over $13.5m In Series A Funding Round (spacenews)
 - **Apr 17, 07:59 AM** - See Photos From All 10 Days of NASA’s Artemis II Moon Mission (nyt)
 - **Apr 17, 08:34 AM** - Taiwan floats shared satcom constellation amid calls for more space collaboration (spacenews)
+- **Apr 17, 09:09 AM** - Artemis II Splashdown Gives NASA Momentum in Renewed Moon Race (nyt)
