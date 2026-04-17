@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 24 | 23 | 49 |
-| nyt | 2 | 2 | 18 | 33 |
+| spacenews | 12 | 24 | 24 | 50 |
+| nyt | 2 | 2 | 17 | 33 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2268,3 +2268,4 @@
 - **Apr 17, 02:09 AM** - See Photos From All 10 Days of NASA’s Artemis II Moon Mission (nyt)
 - **Apr 17, 02:44 AM** - Orbit is filling up fast. Now comes the awkward bit: pre-empting and handling a crisis. (spacenews)
 - **Apr 17, 03:19 AM** - Artemis II Splashdown Gives NASA Momentum in Renewed Moon Race (nyt)
+- **Apr 17, 03:54 AM** - Fueling test suggests imminent debut of China’s reusable Long March 10B rocket (spacenews)
