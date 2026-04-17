@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 24 | 24 | 49 |
-| nyt | 2 | 2 | 17 | 33 |
+| nyt | 2 | 2 | 18 | 34 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2265,3 +2265,4 @@
 - **Apr 17, 12:24 AM** - Spring fever pitch: Three questions to listen for this Space Symposium (spacenews)
 - **Apr 17, 12:59 AM** - NASA Artemis II Splashdown: Time, Live Stream and How to Watch Landing (nyt)
 - **Apr 17, 01:34 AM** - Turion Space raises $75 million to expand maneuverable satellite fleet (spacenews)
+- **Apr 17, 02:09 AM** - See Photos From All 10 Days of NASA’s Artemis II Moon Mission (nyt)
