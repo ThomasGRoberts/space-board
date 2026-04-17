@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 25 | 23 | 49 |
+| spacenews | 12 | 25 | 24 | 50 |
 | nyt | 2 | 2 | 18 | 33 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2280,3 +2280,4 @@
 - **Apr 17, 09:09 AM** - Artemis II Splashdown Gives NASA Momentum in Renewed Moon Race (nyt)
 - **Apr 17, 09:44 AM** - Qingzhou prototype cargo spacecraft completes rendezvous tests in orbit  (spacenews)
 - **Apr 17, 10:19 AM** - NASA Artemis II Splashdown: Time, Live Stream and How to Watch Landing (nyt)
+- **Apr 17, 10:53 AM** - Novaspace and OGC Unveil the China Space Industry Intelligence Catalog (spacenews)
