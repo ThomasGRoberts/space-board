@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-17T00:04:48.187307+00:00",
-    "trigger_count": 6,
-    "current_item_id": "fd0715942610ef8e2464dd87bec3cc5a",
+    "trigger_count": 0,
+    "current_item_id": "6fd69203771160147fc7b4ffb81d8fe4",
     "data": [
         {
             "id": "2a20467c3a5444dfd9900b36079b5324",
@@ -7818,6 +7818,18 @@
             "fetched_datetime": "2026-04-17T12:04:51.010672Z",
             "shown_at": [
                 "2026-04-17T12:39:12.112967Z"
+            ]
+        },
+        {
+            "id": "6fd69203771160147fc7b4ffb81d8fe4",
+            "source": "spacenews",
+            "text": "Artemis 2 astronauts praise performance of Orion",
+            "source_link": "https://spacenews.com/artemis-2-astronauts-praise-performance-of-orion/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-17T17:19:21.979603Z",
+            "shown_at": [
+                "2026-04-17T17:19:23.011267Z"
             ]
         }
     ]

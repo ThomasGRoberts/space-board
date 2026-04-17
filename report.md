@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 22 | 21 | 47 |
+| spacenews | 9 | 23 | 22 | 48 |
 | nyt | 2 | 2 | 20 | 35 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2291,3 +2291,4 @@
 - **Apr 17, 03:34 PM** - See Photos From All 10 Days of NASA’s Artemis II Moon Mission (nyt)
 - **Apr 17, 04:09 PM** - Artemis 2 is a benchmark in our space exploration program — and it depends on steady NASA funding (spacenews)
 - **Apr 17, 04:44 PM** - See Photos From All 10 Days of NASA’s Artemis II Moon Mission (nyt)
+- **Apr 17, 05:19 PM** - Artemis 2 astronauts praise performance of Orion (spacenews)
