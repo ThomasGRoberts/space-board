@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 20 | 22 | 46 |
-| nyt | 0 | 2 | 19 | 36 |
+| nyt | 0 | 2 | 20 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2302,3 +2302,4 @@
 - **Apr 17, 09:59 PM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
 - **Apr 17, 10:34 PM** - NASA selects Falcon Heavy to launch ESA Mars rover mission despite budget threat (spacenews)
 - **Apr 17, 11:09 PM** - NorthStar to go public via SPAC to expand space-based SSA network (spacenews)
+- **Apr 17, 11:44 PM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
