@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-17T00:04:48.187307+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d6fdd15f4d299e02aa86c672237d5b19",
+    "trigger_count": 0,
+    "current_item_id": "70d59a5a67678262d21f725f3e69f65c",
     "data": [
         {
             "id": "2a20467c3a5444dfd9900b36079b5324",
@@ -7806,9 +7806,12 @@
             "source": "spacenews",
             "text": "D2D services are at risk of becoming too complicated and siloed",
             "source_link": "https://spacenews.com/d2d-services-are-at-risk-of-becoming-too-complicated-and-siloed/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-04-17T12:04:51.010672Z"
+            "fetched_datetime": "2026-04-17T12:04:51.010672Z",
+            "shown_at": [
+                "2026-04-17T12:39:12.112967Z"
+            ]
         }
     ]
 }
