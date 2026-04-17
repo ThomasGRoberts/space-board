@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 24 | 23 | 49 |
+| spacenews | 12 | 24 | 24 | 50 |
 | nyt | 2 | 2 | 18 | 33 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2270,3 +2270,4 @@
 - **Apr 17, 03:19 AM** - Artemis II Splashdown Gives NASA Momentum in Renewed Moon Race (nyt)
 - **Apr 17, 03:54 AM** - Fueling test suggests imminent debut of China’s reusable Long March 10B rocket (spacenews)
 - **Apr 17, 04:29 AM** - Another Giant Leap Reminds Us How Small We Are (nyt)
+- **Apr 17, 05:04 AM** - Companies make the case for commercial space station markets (spacenews)
