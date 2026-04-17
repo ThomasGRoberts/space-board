@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 13 | 25 | 24 | 49 |
-| nyt | 2 | 2 | 17 | 33 |
+| nyt | 2 | 2 | 18 | 34 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2279,3 +2279,4 @@
 - **Apr 17, 08:34 AM** - Taiwan floats shared satcom constellation amid calls for more space collaboration (spacenews)
 - **Apr 17, 09:09 AM** - Artemis II Splashdown Gives NASA Momentum in Renewed Moon Race (nyt)
 - **Apr 17, 09:44 AM** - Qingzhou prototype cargo spacecraft completes rendezvous tests in orbit  (spacenews)
+- **Apr 17, 10:19 AM** - NASA Artemis II Splashdown: Time, Live Stream and How to Watch Landing (nyt)
