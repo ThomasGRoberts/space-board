@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 10 | 21 | 44 |
+| spacenews | 2 | 10 | 22 | 45 |
 | nyt | 0 | 0 | 20 | 38 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2271,3 +2271,4 @@
 - **Apr 18, 07:34 PM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
 - **Apr 18, 08:09 PM** - Commercial Space Federation (CSF) Welcomes ispace-U.S. to Board of Directors (spacenews)
 - **Apr 18, 08:44 PM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
+- **Apr 18, 09:19 PM** - Ecliptic Enterprises and The Extraterrestrial Investment Company Announce Strategic Agreement (spacenews)
