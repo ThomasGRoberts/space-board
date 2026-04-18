@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 18 | 22 | 46 |
-| nyt | 0 | 2 | 19 | 36 |
+| nyt | 0 | 2 | 20 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2254,3 +2254,4 @@
 - **Apr 18, 09:39 AM** - Near real-time payload data delivery with SSC Space Go (spacenews)
 - **Apr 18, 10:14 AM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
 - **Apr 18, 10:49 AM** - Blue Origin moves toward launch at Vandenberg (spacenews)
+- **Apr 18, 11:24 AM** - NASA’s Artemis II Astronauts Reunite With Friends and Family After 10-Day Moon Mission (nyt)
