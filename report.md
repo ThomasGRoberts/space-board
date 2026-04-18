@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 12 | 22 | 43 |
-| nyt | 0 | 2 | 19 | 39 |
+| nyt | 0 | 2 | 20 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2264,3 +2264,4 @@
 - **Apr 18, 03:29 PM** - NASA seeks proposals for commercial TDRSS replacement (spacenews)
 - **Apr 18, 04:04 PM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
 - **Apr 18, 04:39 PM** - Qingzhou prototype cargo spacecraft completes rendezvous tests in orbit  (spacenews)
+- **Apr 18, 05:14 PM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
