@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 18 | 22 | 45 |
+| spacenews | 6 | 18 | 23 | 46 |
 | nyt | 0 | 2 | 19 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2255,3 +2255,4 @@
 - **Apr 18, 10:14 AM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
 - **Apr 18, 10:49 AM** - Blue Origin moves toward launch at Vandenberg (spacenews)
 - **Apr 18, 11:24 AM** - NASA’s Artemis II Astronauts Reunite With Friends and Family After 10-Day Moon Mission (nyt)
+- **Apr 18, 11:59 AM** - Tendeg Delivers First Antenna from New Industrial Production Facility, Targets 100+ Deployable Apertures Annually (spacenews)
