@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 11 | 21 | 44 |
-| nyt | 0 | 1 | 20 | 38 |
+| nyt | 0 | 1 | 21 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2268,3 +2268,4 @@
 - **Apr 18, 05:49 PM** - Defense firms unveil new satellite designs for orbital warfare (spacenews)
 - **Apr 18, 06:24 PM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
 - **Apr 18, 06:59 PM** - Citra Space raises $15 million Series A to expand platform for identifying objects in orbit (spacenews)
+- **Apr 18, 07:34 PM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
