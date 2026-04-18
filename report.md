@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 8 | 21 | 43 |
-| nyt | 0 | 0 | 20 | 39 |
+| nyt | 0 | 0 | 21 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2274,3 +2274,4 @@
 - **Apr 18, 09:19 PM** - Ecliptic Enterprises and The Extraterrestrial Investment Company Announce Strategic Agreement (spacenews)
 - **Apr 18, 09:54 PM** - NASA’s Artemis II Astronauts Reunite With Friends and Family After 10-Day Moon Mission (nyt)
 - **Apr 18, 10:29 PM** - The path to $50 billion in new space investment (spacenews)
+- **Apr 18, 11:04 PM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
