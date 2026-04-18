@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 14 | 21 | 44 |
+| spacenews | 4 | 14 | 22 | 45 |
 | nyt | 0 | 2 | 20 | 38 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2261,3 +2261,4 @@
 - **Apr 18, 01:44 PM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
 - **Apr 18, 02:19 PM** - Orbit is filling up fast. Now comes the awkward bit: pre-empting and handling a crisis. (spacenews)
 - **Apr 18, 02:54 PM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
+- **Apr 18, 03:29 PM** - NASA seeks proposals for commercial TDRSS replacement (spacenews)
