@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 19 | 22 | 46 |
-| nyt | 0 | 2 | 19 | 36 |
+| nyt | 0 | 2 | 20 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2252,3 +2252,4 @@
 - **Apr 18, 08:29 AM** - Spring fever pitch: Three questions to listen for this Space Symposium (spacenews)
 - **Apr 18, 09:04 AM** - NASA’s Artemis II Astronauts Reunite With Friends and Family After 10-Day Moon Mission (nyt)
 - **Apr 18, 09:39 AM** - Near real-time payload data delivery with SSC Space Go (spacenews)
+- **Apr 18, 10:14 AM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
