@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 7 | 20 | 42 |
+| spacenews | 0 | 7 | 21 | 43 |
 | nyt | 0 | 0 | 21 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2275,3 +2275,4 @@
 - **Apr 18, 09:54 PM** - NASA’s Artemis II Astronauts Reunite With Friends and Family After 10-Day Moon Mission (nyt)
 - **Apr 18, 10:29 PM** - The path to $50 billion in new space investment (spacenews)
 - **Apr 18, 11:04 PM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
+- **Apr 18, 11:39 PM** - Archangel Lightworks Raises Over $13.5m In Series A Funding Round (spacenews)
