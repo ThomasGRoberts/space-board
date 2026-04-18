@@ -1,9 +1,93 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-04-17T00:04:48.187307+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2026-04-18T00:04:58.096768+00:00",
+    "trigger_count": 4,
     "current_item_id": "25ba89139c97e1a21db0748f90307ba3",
     "data": [
+        {
+            "id": "a2c4a26d11a8cc94a87cd7c4180838cd",
+            "source": "spacenews",
+            "text": "NorthStar to go public via SPAC to expand space-based SSA network",
+            "source_link": "https://spacenews.com/northstar-to-go-public-via-spac-to-expand-space-based-ssa-network/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-17T22:34:43.141392Z",
+            "shown_at": [
+                "2026-04-17T23:09:11.145337Z"
+            ]
+        },
+        {
+            "id": "33fa9114009e1a731e422f25cf90385e",
+            "source": "spacenews",
+            "text": "NASA selects Falcon Heavy to launch ESA Mars rover mission despite budget threat",
+            "source_link": "https://spacenews.com/nasa-selects-falcon-heavy-to-launch-esa-mars-rover-mission-despite-budget-threat/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-17T22:34:43.141313Z",
+            "shown_at": [
+                "2026-04-17T22:34:44.551874Z"
+            ]
+        },
+        {
+            "id": "b4b622d23718f39a6c47b8e36d9b0815",
+            "source": "spacenews",
+            "text": "Shenzhou-21 astronauts complete third spacewalk, mission extended by a month",
+            "source_link": "https://spacenews.com/shenzhou-21-astronauts-complete-third-spacewalk-mission-extended-by-a-month/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-17T19:04:44.706377Z",
+            "shown_at": [
+                "2026-04-17T19:04:45.756562Z"
+            ]
+        },
+        {
+            "id": "6fd69203771160147fc7b4ffb81d8fe4",
+            "source": "spacenews",
+            "text": "Artemis 2 astronauts praise performance of Orion",
+            "source_link": "https://spacenews.com/artemis-2-astronauts-praise-performance-of-orion/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-17T17:19:21.979603Z",
+            "shown_at": [
+                "2026-04-17T17:19:23.011267Z"
+            ]
+        },
+        {
+            "id": "70d59a5a67678262d21f725f3e69f65c",
+            "source": "spacenews",
+            "text": "D2D services are at risk of becoming too complicated and siloed",
+            "source_link": "https://spacenews.com/d2d-services-are-at-risk-of-becoming-too-complicated-and-siloed/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-17T12:04:51.010672Z",
+            "shown_at": [
+                "2026-04-17T12:39:12.112967Z"
+            ]
+        },
+        {
+            "id": "d6fdd15f4d299e02aa86c672237d5b19",
+            "source": "spacenews",
+            "text": "New EU Space Act draft seen as a step backward",
+            "source_link": "https://spacenews.com/new-eu-space-act-draft-seen-as-a-step-backward/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-17T12:04:51.010597Z",
+            "shown_at": [
+                "2026-04-17T12:04:51.788603Z"
+            ]
+        },
+        {
+            "id": "3a7bbaf834370a23865789aab92b445d",
+            "source": "spacenews",
+            "text": "Qingzhou prototype cargo spacecraft completes rendezvous tests in orbit ",
+            "source_link": "https://spacenews.com/qingzhou-prototype-cargo-spacecraft-completes-rendezvous-tests-in-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-17T09:44:16.093817Z",
+            "shown_at": [
+                "2026-04-17T09:44:16.780945Z"
+            ]
+        },
         {
             "id": "2a20467c3a5444dfd9900b36079b5324",
             "source": "spacenews",
@@ -7645,235 +7729,6 @@
                 "2026-02-19T13:34:45.085490Z",
                 "2026-02-22T11:59:10.250029Z",
                 "2026-02-24T21:04:43.489348Z"
-            ]
-        },
-        {
-            "id": "cb0edeea7a9883be0df3617719f2da3a",
-            "source": "spacenews",
-            "text": "Landspace targets Q2 for next Zhuque-3 orbital launch and recovery attempt ",
-            "source_link": "https://spacenews.com/landspace-targets-q2-for-next-zhuque-3-orbital-launch-and-recovery-attempt/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-18T12:08:59.622502Z",
-            "shown_at": [
-                "2026-02-18T12:44:07.114836Z",
-                "2026-02-21T07:49:08.165769Z",
-                "2026-02-21T14:49:26.431357Z"
-            ]
-        },
-        {
-            "id": "ca6421c97567e5756d46bce616417abc",
-            "source": "spacenews",
-            "text": "UK caps launch liability in timely boost for nascent domestic market",
-            "source_link": "https://spacenews.com/uk-caps-launch-liability-in-timely-boost-for-nascent-domestic-market/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-18T12:08:59.622430Z",
-            "shown_at": [
-                "2026-02-18T12:09:01.204514Z",
-                "2026-02-18T20:24:09.359817Z",
-                "2026-02-19T08:49:16.050326Z"
-            ]
-        },
-        {
-            "id": "eba17a224f6e65abcccaf2fc45e3d118",
-            "source": "spacenews",
-            "text": "Simera Sense to offer larger cameras and enhanced autonomy",
-            "source_link": "https://spacenews.com/simera-sense-to-offer-larger-cameras-and-enhanced-autonomy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-17T23:49:06.968362Z",
-            "shown_at": [
-                "2026-02-17T23:49:08.063118Z",
-                "2026-02-18T01:34:24.764998Z",
-                "2026-02-21T23:39:14.547708Z",
-                "2026-02-23T00:49:11.945346Z"
-            ]
-        },
-        {
-            "id": "c7d31a4e9c5c5cb254d62e975b015a1f",
-            "source": "spacenews",
-            "text": "China’s Space Epoch raises new funding, targets 2026 launch and recovery attempt",
-            "source_link": "https://spacenews.com/chinas-space-epoch-raises-new-funding-targets-2026-launch-and-recovery-attempt/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-17T19:05:09.509086Z",
-            "shown_at": [
-                "2026-02-17T19:05:10.688378Z",
-                "2026-02-18T08:34:12.699935Z",
-                "2026-02-20T00:39:08.271017Z",
-                "2026-02-23T02:34:13.915748Z"
-            ]
-        },
-        {
-            "id": "18e0521f85d9adf0a3e85ead4f0ce953",
-            "source": "breaking_defense",
-            "text": "EXCLUSIVE: Sentinel ICBM to clear key milestone this year, go operational ‘early 2030s’",
-            "source_link": "https://breakingdefense.com/2026/02/exclusive-sentinel-icbm-to-clear-key-review-this-year-go-operational-in-early-2030s/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-17T17:19:11.115162Z",
-            "shown_at": [
-                "2026-02-17T17:19:12.226302Z",
-                "2026-02-17T19:44:07.977355Z",
-                "2026-02-17T21:29:05.194597Z",
-                "2026-02-17T23:14:18.533710Z",
-                "2026-02-18T02:44:12.862944Z",
-                "2026-02-18T04:28:50.976381Z",
-                "2026-02-18T07:58:56.507179Z",
-                "2026-02-18T09:49:41.873446Z",
-                "2026-02-18T11:34:25.869473Z",
-                "2026-02-18T15:45:08.073305Z",
-                "2026-02-18T19:14:19.220831Z",
-                "2026-02-19T00:34:29.853212Z",
-                "2026-02-19T02:19:13.336333Z",
-                "2026-02-19T04:43:58.002734Z",
-                "2026-02-19T09:29:00.382205Z",
-                "2026-02-19T10:39:10.912209Z",
-                "2026-02-19T12:59:28.967118Z",
-                "2026-02-19T16:29:23.985272Z",
-                "2026-02-19T19:59:36.412260Z",
-                "2026-02-19T21:09:17.056526Z",
-                "2026-02-19T22:54:21.552303Z",
-                "2026-02-20T00:04:34.466954Z",
-                "2026-02-20T07:44:19.826974Z",
-                "2026-02-20T11:24:26.541170Z",
-                "2026-02-20T17:49:10.115727Z",
-                "2026-02-21T01:24:04.060295Z",
-                "2026-02-21T03:44:22.805785Z",
-                "2026-02-21T05:29:14.879449Z",
-                "2026-02-21T12:29:48.057607Z",
-                "2026-02-21T14:14:13.557098Z",
-                "2026-02-21T15:59:10.904850Z",
-                "2026-02-21T17:44:12.584748Z",
-                "2026-02-22T02:34:20.012593Z",
-                "2026-02-22T07:49:10.080323Z",
-                "2026-02-22T09:38:55.370743Z",
-                "2026-02-22T11:24:36.630363Z",
-                "2026-02-22T13:44:10.225373Z",
-                "2026-02-22T15:29:21.953063Z",
-                "2026-02-22T22:29:11.999640Z",
-                "2026-02-23T00:14:15.948888Z",
-                "2026-02-23T05:29:10.571897Z",
-                "2026-02-23T07:14:20.810455Z",
-                "2026-02-23T08:59:14.140276Z",
-                "2026-02-23T17:59:32.919302Z",
-                "2026-02-23T22:09:36.297041Z",
-                "2026-02-24T03:29:19.930225Z",
-                "2026-02-24T05:14:26.165942Z",
-                "2026-02-24T07:04:51.975222Z",
-                "2026-02-24T10:34:23.267742Z"
-            ]
-        },
-        {
-            "id": "c0ba7f6ecf370780fcdfdb9f311241d3",
-            "source": "spacenews",
-            "text": "Global leaders meet at Space-Comm Expo in London to accelerate future of European space industry",
-            "source_link": "https://spacenews.com/global-leaders-meet-at-space-comm-expo-in-london-to-accelerate-future-of-european-space-industry/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-17T16:39:09.264824Z",
-            "shown_at": [
-                "2026-02-17T17:54:08.846454Z",
-                "2026-02-21T00:14:15.308873Z"
-            ]
-        },
-        {
-            "id": "d6d4b776ddde164ae241b8d7e9c1df3d",
-            "source": "spacenews",
-            "text": "SatVu to expand thermal imaging constellation with NATO-backed funds",
-            "source_link": "https://spacenews.com/satvu-to-expand-thermal-imaging-constellation-with-nato-backed-funds/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-17T16:39:09.264752Z",
-            "shown_at": [
-                "2026-02-17T16:39:11.099913Z",
-                "2026-02-22T19:34:23.124547Z",
-                "2026-02-23T04:19:25.741060Z"
-            ]
-        },
-        {
-            "id": "3a7bbaf834370a23865789aab92b445d",
-            "source": "spacenews",
-            "text": "Qingzhou prototype cargo spacecraft completes rendezvous tests in orbit ",
-            "source_link": "https://spacenews.com/qingzhou-prototype-cargo-spacecraft-completes-rendezvous-tests-in-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-17T09:44:16.093817Z",
-            "shown_at": [
-                "2026-04-17T09:44:16.780945Z"
-            ]
-        },
-        {
-            "id": "d6fdd15f4d299e02aa86c672237d5b19",
-            "source": "spacenews",
-            "text": "New EU Space Act draft seen as a step backward",
-            "source_link": "https://spacenews.com/new-eu-space-act-draft-seen-as-a-step-backward/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-17T12:04:51.010597Z",
-            "shown_at": [
-                "2026-04-17T12:04:51.788603Z"
-            ]
-        },
-        {
-            "id": "70d59a5a67678262d21f725f3e69f65c",
-            "source": "spacenews",
-            "text": "D2D services are at risk of becoming too complicated and siloed",
-            "source_link": "https://spacenews.com/d2d-services-are-at-risk-of-becoming-too-complicated-and-siloed/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-17T12:04:51.010672Z",
-            "shown_at": [
-                "2026-04-17T12:39:12.112967Z"
-            ]
-        },
-        {
-            "id": "6fd69203771160147fc7b4ffb81d8fe4",
-            "source": "spacenews",
-            "text": "Artemis 2 astronauts praise performance of Orion",
-            "source_link": "https://spacenews.com/artemis-2-astronauts-praise-performance-of-orion/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-17T17:19:21.979603Z",
-            "shown_at": [
-                "2026-04-17T17:19:23.011267Z"
-            ]
-        },
-        {
-            "id": "b4b622d23718f39a6c47b8e36d9b0815",
-            "source": "spacenews",
-            "text": "Shenzhou-21 astronauts complete third spacewalk, mission extended by a month",
-            "source_link": "https://spacenews.com/shenzhou-21-astronauts-complete-third-spacewalk-mission-extended-by-a-month/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-17T19:04:44.706377Z",
-            "shown_at": [
-                "2026-04-17T19:04:45.756562Z"
-            ]
-        },
-        {
-            "id": "33fa9114009e1a731e422f25cf90385e",
-            "source": "spacenews",
-            "text": "NASA selects Falcon Heavy to launch ESA Mars rover mission despite budget threat",
-            "source_link": "https://spacenews.com/nasa-selects-falcon-heavy-to-launch-esa-mars-rover-mission-despite-budget-threat/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-17T22:34:43.141313Z",
-            "shown_at": [
-                "2026-04-17T22:34:44.551874Z"
-            ]
-        },
-        {
-            "id": "a2c4a26d11a8cc94a87cd7c4180838cd",
-            "source": "spacenews",
-            "text": "NorthStar to go public via SPAC to expand space-based SSA network",
-            "source_link": "https://spacenews.com/northstar-to-go-public-via-spac-to-expand-space-based-ssa-network/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-17T22:34:43.141392Z",
-            "shown_at": [
-                "2026-04-17T23:09:11.145337Z"
             ]
         }
     ]
