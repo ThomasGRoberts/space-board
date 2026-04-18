@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 20 | 22 | 46 |
+| spacenews | 7 | 20 | 23 | 47 |
 | nyt | 0 | 2 | 19 | 36 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2239,3 +2239,4 @@
 - **Apr 18, 12:54 AM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
 - **Apr 18, 01:29 AM** - Xoople and L3Harris team up to build satellites for ‘Earth AI’  (spacenews)
 - **Apr 18, 02:04 AM** - Another Giant Leap Reminds Us How Small We Are (nyt)
+- **Apr 18, 02:39 AM** - President Trump signs legislation reauthorizing SBIR (spacenews)
