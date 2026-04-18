@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 12 | 22 | 44 |
-| nyt | 0 | 1 | 19 | 38 |
+| nyt | 0 | 1 | 20 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2266,3 +2266,4 @@
 - **Apr 18, 04:39 PM** - Qingzhou prototype cargo spacecraft completes rendezvous tests in orbit  (spacenews)
 - **Apr 18, 05:14 PM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
 - **Apr 18, 05:49 PM** - Defense firms unveil new satellite designs for orbital warfare (spacenews)
+- **Apr 18, 06:24 PM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
