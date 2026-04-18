@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 19 | 22 | 45 |
+| spacenews | 7 | 19 | 23 | 46 |
 | nyt | 0 | 2 | 19 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2245,3 +2245,4 @@
 - **Apr 18, 04:24 AM** - Another Giant Leap Reminds Us How Small We Are (nyt)
 - **Apr 18, 04:59 AM** - Artemis 2 astronauts praise performance of Orion (spacenews)
 - **Apr 18, 05:34 AM** - NASA’s Artemis II Astronauts Reunite With Friends and Family After 10-Day Moon Mission (nyt)
+- **Apr 18, 06:09 AM** - Aerospace to support industry with government furnished talent (spacenews)
