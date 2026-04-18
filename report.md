@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 19 | 22 | 45 |
+| spacenews | 7 | 19 | 23 | 46 |
 | nyt | 0 | 2 | 19 | 37 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2249,3 +2249,4 @@
 - **Apr 18, 06:44 AM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
 - **Apr 18, 07:19 AM** - Amazon reveals aviation antenna as LEO inflight connectivity race intensifies (spacenews)
 - **Apr 18, 07:53 AM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
+- **Apr 18, 08:29 AM** - Spring fever pitch: Three questions to listen for this Space Symposium (spacenews)
