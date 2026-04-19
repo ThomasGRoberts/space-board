@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 6 | 20 | 42 |
+| spacenews | 0 | 6 | 21 | 43 |
 | nyt | 0 | 0 | 21 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2293,3 +2293,4 @@
 - **Apr 19, 08:24 AM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
 - **Apr 19, 08:59 AM** - New Wireless Access Point, Camera, and Remote Interface Unit Join NASA Human Rated Class 1 Layer 3 Ethernet Switch Family (spacenews)
 - **Apr 19, 09:34 AM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
+- **Apr 19, 10:08 AM** - NASA seeks commercial and exploration links for new Earth science missions (spacenews)
