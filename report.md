@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 7 | 20 | 42 |
+| spacenews | 0 | 7 | 21 | 43 |
 | nyt | 0 | 0 | 21 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2279,3 +2279,4 @@
 - **Apr 19, 12:14 AM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
 - **Apr 19, 12:49 AM** - Senators seek increased funding for NASA Mars missions (spacenews)
 - **Apr 19, 01:24 AM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
+- **Apr 19, 01:59 AM** - NASA seeks proposals for commercial TDRSS replacement (spacenews)
