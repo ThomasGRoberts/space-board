@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 5 | 21 | 42 |
+| spacenews | 1 | 5 | 22 | 43 |
 | nyt | 0 | 0 | 20 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2298,3 +2298,4 @@
 - **Apr 19, 11:19 AM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
 - **Apr 19, 11:54 AM** - Orbit is filling up fast. Now comes the awkward bit: pre-empting and handling a crisis. (spacenews)
 - **Apr 19, 12:29 PM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
+- **Apr 19, 01:04 PM** - Spring fever pitch: Three questions to listen for this Space Symposium (spacenews)
