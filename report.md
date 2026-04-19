@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 6 | 21 | 42 |
+| spacenews | 2 | 6 | 21 | 43 |
 | nyt | 0 | 0 | 20 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2304,3 +2304,4 @@
 - **Apr 19, 02:54 PM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
 - **Apr 19, 03:29 PM** - Ecliptic Enterprises and The Extraterrestrial Investment Company Announce Strategic Agreement (spacenews)
 - **Apr 19, 04:04 PM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
+- **Apr 19, 04:39 PM** - Q&A: Heather Pringle on what to expect from Space Symposium (spacenews)
