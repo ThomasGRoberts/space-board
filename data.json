@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-19T00:04:26.831469+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ecd0ee7ea4149c48d982ea44e436e8a1",
+    "trigger_count": 0,
+    "current_item_id": "6e4638cbaf70fd8f27bf061667bbfc53",
     "data": [
         {
             "id": "a2c4a26d11a8cc94a87cd7c4180838cd",
@@ -7788,6 +7788,18 @@
                 "2026-02-19T13:34:45.085490Z",
                 "2026-02-22T11:59:10.250029Z",
                 "2026-02-24T21:04:43.489348Z"
+            ]
+        },
+        {
+            "id": "6e4638cbaf70fd8f27bf061667bbfc53",
+            "source": "spacenews",
+            "text": "Rhea Space Activity raises $6 million to develop GPS-free spacecraft navigation",
+            "source_link": "https://spacenews.com/rhea-space-activity-raises-6-million-to-develop-gps-free-spacecraft-navigation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-19T10:44:17.080662Z",
+            "shown_at": [
+                "2026-04-19T10:44:17.882487Z"
             ]
         }
     ]
