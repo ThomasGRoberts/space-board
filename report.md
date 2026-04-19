@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 5 | 21 | 43 |
-| nyt | 0 | 0 | 20 | 39 |
+| spacenews | 3 | 6 | 22 | 44 |
+| nyt | 0 | 0 | 19 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2307,3 +2307,4 @@
 - **Apr 19, 04:39 PM** - Q&A: Heather Pringle on what to expect from Space Symposium (spacenews)
 - **Apr 19, 05:14 PM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
 - **Apr 19, 05:49 PM** - Spring fever pitch: Three questions to listen for this Space Symposium (spacenews)
+- **Apr 19, 06:29 PM** - Space Force weighs Vulcan flights without solid boosters  (spacenews)
