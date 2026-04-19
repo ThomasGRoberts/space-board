@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 7 | 20 | 42 |
+| spacenews | 0 | 7 | 21 | 43 |
 | nyt | 0 | 0 | 21 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2285,3 +2285,4 @@
 - **Apr 19, 03:44 AM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
 - **Apr 19, 04:19 AM** - Artemis 2 is a benchmark in our space exploration program — and it depends on steady NASA funding (spacenews)
 - **Apr 19, 04:54 AM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
+- **Apr 19, 05:29 AM** - Near Real-Time Payload Data Delivery with SSC Space Go (spacenews)
