@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-19T00:04:26.831469+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b7600732b22f316aadda97b9bcb6eb73",
+    "trigger_count": 0,
+    "current_item_id": "0cca73799357b98e18ab32c33dd379b9",
     "data": [
         {
             "id": "a2c4a26d11a8cc94a87cd7c4180838cd",
@@ -7805,6 +7805,18 @@
             "fetched_datetime": "2026-04-19T10:44:17.080662Z",
             "shown_at": [
                 "2026-04-19T10:44:17.882487Z"
+            ]
+        },
+        {
+            "id": "0cca73799357b98e18ab32c33dd379b9",
+            "source": "spacenews",
+            "text": "Third New Glenn launch suffers upper stage malfunction",
+            "source_link": "https://spacenews.com/third-new-glenn-launch-suffers-upper-stage-malfunction/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-19T14:19:18.025859Z",
+            "shown_at": [
+                "2026-04-19T14:19:19.014503Z"
             ]
         }
     ]
