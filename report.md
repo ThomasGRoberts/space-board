@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 7 | 21 | 43 |
-| nyt | 0 | 0 | 20 | 39 |
+| nyt | 0 | 0 | 21 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2288,3 +2288,4 @@
 - **Apr 19, 05:29 AM** - Near Real-Time Payload Data Delivery with SSC Space Go (spacenews)
 - **Apr 19, 06:04 AM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
 - **Apr 19, 06:38 AM** - Spring fever pitch: Three questions to listen for this Space Symposium (spacenews)
+- **Apr 19, 07:14 AM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
