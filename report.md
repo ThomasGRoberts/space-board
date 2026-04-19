@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 21 | 43 |
-| nyt | 0 | 0 | 20 | 39 |
+| nyt | 0 | 0 | 21 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2295,3 +2295,4 @@
 - **Apr 19, 09:34 AM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
 - **Apr 19, 10:08 AM** - NASA seeks commercial and exploration links for new Earth science missions (spacenews)
 - **Apr 19, 10:44 AM** - Rhea Space Activity raises $6 million to develop GPS-free spacecraft navigation (spacenews)
+- **Apr 19, 11:19 AM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
