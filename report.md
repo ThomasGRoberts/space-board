@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 6 | 21 | 43 |
-| nyt | 0 | 0 | 19 | 39 |
+| nyt | 0 | 0 | 20 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2308,3 +2308,4 @@
 - **Apr 19, 05:14 PM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
 - **Apr 19, 05:49 PM** - Spring fever pitch: Three questions to listen for this Space Symposium (spacenews)
 - **Apr 19, 06:29 PM** - Space Force weighs Vulcan flights without solid boosters  (spacenews)
+- **Apr 19, 07:04 PM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
