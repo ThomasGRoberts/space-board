@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 5 | 22 | 43 |
-| nyt | 0 | 0 | 19 | 39 |
+| spacenews | 3 | 5 | 21 | 42 |
+| nyt | 0 | 0 | 20 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2312,3 +2312,4 @@
 - **Apr 19, 07:39 PM** - NASA seeks proposals for commercial TDRSS replacement (spacenews)
 - **Apr 19, 08:14 PM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
 - **Apr 19, 08:49 PM** - Aethero developing Titan satellite to advance space-based data center ambitions (spacenews)
+- **Apr 19, 09:24 PM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
