@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 5 | 21 | 43 |
-| nyt | 0 | 0 | 20 | 39 |
+| nyt | 0 | 0 | 21 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2297,3 +2297,4 @@
 - **Apr 19, 10:44 AM** - Rhea Space Activity raises $6 million to develop GPS-free spacecraft navigation (spacenews)
 - **Apr 19, 11:19 AM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
 - **Apr 19, 11:54 AM** - Orbit is filling up fast. Now comes the awkward bit: pre-empting and handling a crisis. (spacenews)
+- **Apr 19, 12:29 PM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
