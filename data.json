@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-20T00:04:29.941881+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2bd8589d0fdcafb77981c8e9baa98aff",
+    "trigger_count": 0,
+    "current_item_id": "9926e3bde2be55cc84a5dd1339b8adaa",
     "data": [
         {
             "id": "d37551e74e2c8484995efb78129b7fca",
@@ -7876,6 +7876,18 @@
             "fetched_datetime": "2026-04-20T16:44:28.348345Z",
             "shown_at": [
                 "2026-04-20T16:44:29.254147Z"
+            ]
+        },
+        {
+            "id": "9926e3bde2be55cc84a5dd1339b8adaa",
+            "source": "nyt",
+            "text": "‘Earthset’ Is Captured on Video for First Time",
+            "source_link": "https://www.nytimes.com/2026/04/20/science/reid-wiseman-earthset-photo-artemis-2.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-20T19:39:03.346470Z",
+            "shown_at": [
+                "2026-04-20T19:39:03.982829Z"
             ]
         }
     ]
