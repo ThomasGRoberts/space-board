@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 7 | 22 | 44 |
-| nyt | 1 | 1 | 19 | 38 |
+| spacenews | 4 | 7 | 23 | 44 |
+| nyt | 1 | 1 | 18 | 38 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2341,3 +2341,4 @@
 - **Apr 20, 07:39 PM** - ‘Earthset’ Is Captured on Video for First Time (nyt)
 - **Apr 20, 08:14 PM** - Countering missile threats ‘left of launch’ (spacenews)
 - **Apr 20, 08:49 PM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
+- **Apr 20, 09:24 PM** - SES and Boeing move toward factory-installed multi-orbit inflight connectivity (spacenews)
