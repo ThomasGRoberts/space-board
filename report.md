@@ -2330,3 +2330,4 @@
 - **Apr 20, 01:09 PM** - In the wake of Artemis 2, America needs to consider the ‘why’ of its government space program (spacenews)
 - **Apr 20, 01:49 PM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
 - **Apr 20, 02:24 PM** - Gravitics targets 2027 flight test for ‘orbital carrier’ architecture (spacenews)
+- **Apr 20, 02:59 PM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
