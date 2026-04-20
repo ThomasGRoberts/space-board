@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-20T00:04:29.941881+00:00",
-    "trigger_count": 6,
-    "current_item_id": "67f7e1d80c359b35966c1e5327c23a9a",
+    "trigger_count": 0,
+    "current_item_id": "7ffe7efa1a468d194fe162c4cc2f3fbc",
     "data": [
         {
             "id": "d37551e74e2c8484995efb78129b7fca",
@@ -7891,6 +7891,18 @@
             "fetched_datetime": "2026-04-20T19:39:03.346470Z",
             "shown_at": [
                 "2026-04-20T19:39:03.982829Z"
+            ]
+        },
+        {
+            "id": "7ffe7efa1a468d194fe162c4cc2f3fbc",
+            "source": "spacenews",
+            "text": "Pentagon officially ends OCX program, citing risk and delays",
+            "source_link": "https://spacenews.com/pentagon-officially-ends-ocx-program-citing-risk-and-delays/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-20T21:58:33.009726Z",
+            "shown_at": [
+                "2026-04-20T21:58:33.835682Z"
             ]
         }
     ]
