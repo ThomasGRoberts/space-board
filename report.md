@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 3 | 21 | 42 |
-| nyt | 0 | 0 | 19 | 40 |
+| nyt | 0 | 0 | 20 | 41 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2306,3 +2306,4 @@
 - **Apr 19, 11:09 PM** - NASA selects Falcon Heavy to launch ESA Mars rover mission despite budget threat (spacenews)
 - **Apr 19, 11:44 PM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
 - **Apr 20, 12:19 AM** - Tendeg Delivers First Antenna from New Industrial Production Facility, Targets 100+ Deployable Apertures Annually (spacenews)
+- **Apr 20, 12:54 AM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
