@@ -1,9 +1,45 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-04-19T00:04:26.831469+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2026-04-20T00:04:29.941881+00:00",
+    "trigger_count": 4,
     "current_item_id": "b7600732b22f316aadda97b9bcb6eb73",
     "data": [
+        {
+            "id": "d37551e74e2c8484995efb78129b7fca",
+            "source": "spacenews",
+            "text": "Space Force weighs Vulcan flights without solid boosters ",
+            "source_link": "https://spacenews.com/space-force-weighs-vulcan-flights-without-solid-boosters/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-19T18:29:03.790640Z",
+            "shown_at": [
+                "2026-04-19T18:29:04.744551Z"
+            ]
+        },
+        {
+            "id": "0cca73799357b98e18ab32c33dd379b9",
+            "source": "spacenews",
+            "text": "Third New Glenn launch suffers upper stage malfunction",
+            "source_link": "https://spacenews.com/third-new-glenn-launch-suffers-upper-stage-malfunction/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-19T14:19:18.025859Z",
+            "shown_at": [
+                "2026-04-19T14:19:19.014503Z"
+            ]
+        },
+        {
+            "id": "6e4638cbaf70fd8f27bf061667bbfc53",
+            "source": "spacenews",
+            "text": "Rhea Space Activity raises $6 million to develop GPS-free spacecraft navigation",
+            "source_link": "https://spacenews.com/rhea-space-activity-raises-6-million-to-develop-gps-free-spacecraft-navigation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-19T10:44:17.080662Z",
+            "shown_at": [
+                "2026-04-19T10:44:17.882487Z"
+            ]
+        },
         {
             "id": "a2c4a26d11a8cc94a87cd7c4180838cd",
             "source": "spacenews",
@@ -7763,87 +7799,6 @@
                 "2026-02-25T15:59:21.253164Z",
                 "2026-02-25T17:44:12.276201Z",
                 "2026-02-25T19:29:13.660368Z"
-            ]
-        },
-        {
-            "id": "bb720147ed8f2a7e43d67755aaf99449",
-            "source": "spacenews",
-            "text": "Why GPS III, and what comes after it, still falls short in modern war",
-            "source_link": "https://spacenews.com/why-gps-iii-and-what-comes-after-it-still-falls-short-in-modern-war/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-18T15:09:12.035658Z",
-            "shown_at": [
-                "2026-02-18T15:09:13.149151Z",
-                "2026-02-19T04:09:04.400097Z",
-                "2026-02-24T07:39:15.167196Z"
-            ]
-        },
-        {
-            "id": "1dfb4932a0c3cd3523263f4bd8a1be7d",
-            "source": "spacenews",
-            "text": "SpaceX unveils space traffic management system",
-            "source_link": "https://spacenews.com/spacexs-unveils-space-traffic-management-system/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-18T13:54:21.332267Z",
-            "shown_at": [
-                "2026-02-18T14:29:19.457489Z",
-                "2026-02-21T09:34:19.760889Z",
-                "2026-02-24T05:49:27.013995Z"
-            ]
-        },
-        {
-            "id": "bcf70732c31eda10174d67ca5f8ec46a",
-            "source": "spacenews",
-            "text": "Vantor partners with Google AI to automate intelligence reports for government agencies",
-            "source_link": "https://spacenews.com/vantor-partners-with-google-ai-to-automate-intelligence-reports-for-government-agencies/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-18T13:54:21.332211Z",
-            "shown_at": [
-                "2026-02-18T13:54:22.274690Z",
-                "2026-02-19T01:44:09.962421Z",
-                "2026-02-19T07:38:58.162495Z",
-                "2026-02-19T13:34:45.085490Z",
-                "2026-02-22T11:59:10.250029Z",
-                "2026-02-24T21:04:43.489348Z"
-            ]
-        },
-        {
-            "id": "6e4638cbaf70fd8f27bf061667bbfc53",
-            "source": "spacenews",
-            "text": "Rhea Space Activity raises $6 million to develop GPS-free spacecraft navigation",
-            "source_link": "https://spacenews.com/rhea-space-activity-raises-6-million-to-develop-gps-free-spacecraft-navigation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-19T10:44:17.080662Z",
-            "shown_at": [
-                "2026-04-19T10:44:17.882487Z"
-            ]
-        },
-        {
-            "id": "0cca73799357b98e18ab32c33dd379b9",
-            "source": "spacenews",
-            "text": "Third New Glenn launch suffers upper stage malfunction",
-            "source_link": "https://spacenews.com/third-new-glenn-launch-suffers-upper-stage-malfunction/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-19T14:19:18.025859Z",
-            "shown_at": [
-                "2026-04-19T14:19:19.014503Z"
-            ]
-        },
-        {
-            "id": "d37551e74e2c8484995efb78129b7fca",
-            "source": "spacenews",
-            "text": "Space Force weighs Vulcan flights without solid boosters ",
-            "source_link": "https://spacenews.com/space-force-weighs-vulcan-flights-without-solid-boosters/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-19T18:29:03.790640Z",
-            "shown_at": [
-                "2026-04-19T18:29:04.744551Z"
             ]
         }
     ]
