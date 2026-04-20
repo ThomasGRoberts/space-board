@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-20T00:04:29.941881+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c6dacda2caa8142f17bf96cfa40e507f",
+    "trigger_count": 0,
+    "current_item_id": "f3c2874b2e23fc9139de6419d346f863",
     "data": [
         {
             "id": "d37551e74e2c8484995efb78129b7fca",
@@ -7848,6 +7848,18 @@
             "fetched_datetime": "2026-04-20T13:09:17.489362Z",
             "shown_at": [
                 "2026-04-20T13:09:18.431295Z"
+            ]
+        },
+        {
+            "id": "f3c2874b2e23fc9139de6419d346f863",
+            "source": "spacenews",
+            "text": "Space Force sets up ‘cislunar coordination’ office to focus beyond Earth orbit",
+            "source_link": "https://spacenews.com/space-force-sets-up-cislunar-coordination-office-to-focus-beyond-earth-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-20T16:09:33.110808Z",
+            "shown_at": [
+                "2026-04-20T16:09:34.179925Z"
             ]
         }
     ]
