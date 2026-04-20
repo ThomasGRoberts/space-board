@@ -2328,3 +2328,4 @@
 - **Apr 20, 11:59 AM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
 - **Apr 20, 12:34 PM** - RTX’s Blue Canyon Technologies expands reaction wheel production capacity (spacenews)
 - **Apr 20, 01:09 PM** - In the wake of Artemis 2, America needs to consider the ‘why’ of its government space program (spacenews)
+- **Apr 20, 01:49 PM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
