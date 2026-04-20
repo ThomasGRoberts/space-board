@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 3 | 21 | 42 |
+| spacenews | 3 | 3 | 22 | 42 |
 | nyt | 0 | 0 | 19 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2317,3 +2317,4 @@
 - **Apr 20, 05:34 AM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
 - **Apr 20, 06:09 AM** - Is COPUOS at a turning point? Governing space in a new era (spacenews)
 - **Apr 20, 06:44 AM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
+- **Apr 20, 07:19 AM** - Citra Space raises $15 million Series A to expand platform for identifying objects in orbit (spacenews)
