@@ -2335,3 +2335,4 @@
 - **Apr 20, 04:09 PM** - Space Force sets up ‘cislunar coordination’ office to focus beyond Earth orbit (spacenews)
 - **Apr 20, 04:44 PM** - Latvia joins the Artemis Accords (spacenews)
 - **Apr 20, 05:19 PM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
+- **Apr 20, 05:54 PM** - Q&A: Astronaut Linda Godwin on lessons learned from Artemis (spacenews)
