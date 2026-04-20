@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 4 | 22 | 43 |
-| nyt | 0 | 0 | 19 | 39 |
+| spacenews | 3 | 4 | 21 | 42 |
+| nyt | 0 | 0 | 20 | 40 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2323,3 +2323,4 @@
 - **Apr 20, 09:04 AM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
 - **Apr 20, 09:39 AM** - White House releases space nuclear policy (spacenews)
 - **Apr 20, 10:14 AM** - China ramps up satellite production capacity amid constellation ambitions (spacenews)
+- **Apr 20, 10:49 AM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
