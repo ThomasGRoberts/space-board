@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 4 | 21 | 42 |
-| nyt | 0 | 0 | 20 | 40 |
+| spacenews | 3 | 4 | 22 | 43 |
+| nyt | 0 | 0 | 19 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2326,3 +2326,4 @@
 - **Apr 20, 10:49 AM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
 - **Apr 20, 11:24 AM** - Kepler to lead interoperability tests for ESA’s HydRON optical relay network (spacenews)
 - **Apr 20, 11:59 AM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
+- **Apr 20, 12:34 PM** - RTX’s Blue Canyon Technologies expands reaction wheel production capacity (spacenews)
