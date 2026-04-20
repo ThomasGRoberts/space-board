@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 5 | 22 | 42 |
+| spacenews | 3 | 5 | 22 | 43 |
 | nyt | 0 | 0 | 19 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2329,3 +2329,4 @@
 - **Apr 20, 12:34 PM** - RTX’s Blue Canyon Technologies expands reaction wheel production capacity (spacenews)
 - **Apr 20, 01:09 PM** - In the wake of Artemis 2, America needs to consider the ‘why’ of its government space program (spacenews)
 - **Apr 20, 01:49 PM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
+- **Apr 20, 02:24 PM** - Gravitics targets 2027 flight test for ‘orbital carrier’ architecture (spacenews)
