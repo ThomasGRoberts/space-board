@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-20T00:04:29.941881+00:00",
-    "trigger_count": 6,
-    "current_item_id": "efb84ac0185e0aa9ba69da2bddc8ae76",
+    "trigger_count": 0,
+    "current_item_id": "22d9c6449adc8de0a35a9dbc7f98b78a",
     "data": [
         {
             "id": "d37551e74e2c8484995efb78129b7fca",
@@ -7832,6 +7832,18 @@
             "fetched_datetime": "2026-04-20T10:14:21.786779Z",
             "shown_at": [
                 "2026-04-20T10:14:22.906755Z"
+            ]
+        },
+        {
+            "id": "22d9c6449adc8de0a35a9dbc7f98b78a",
+            "source": "spacenews",
+            "text": "In the wake of Artemis 2, America needs to consider the ‘why’ of its government space program",
+            "source_link": "https://spacenews.com/in-the-wake-of-artemis-2-america-needs-to-consider-the-why-of-its-government-space-program/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-20T13:09:17.489362Z",
+            "shown_at": [
+                "2026-04-20T13:09:18.431295Z"
             ]
         }
     ]
