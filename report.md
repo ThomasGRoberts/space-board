@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 5 | 21 | 42 |
+| spacenews | 3 | 5 | 22 | 43 |
 | nyt | 0 | 0 | 19 | 39 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2331,3 +2331,4 @@
 - **Apr 20, 01:49 PM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
 - **Apr 20, 02:24 PM** - Gravitics targets 2027 flight test for ‘orbital carrier’ architecture (spacenews)
 - **Apr 20, 02:59 PM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
+- **Apr 20, 03:34 PM** - Amazon reveals aviation antenna as LEO inflight connectivity race intensifies (spacenews)
