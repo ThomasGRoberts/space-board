@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 7 | 22 | 44 |
+| spacenews | 4 | 7 | 23 | 44 |
 | nyt | 0 | 0 | 19 | 38 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2337,3 +2337,4 @@
 - **Apr 20, 05:19 PM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
 - **Apr 20, 05:54 PM** - Q&A: Astronaut Linda Godwin on lessons learned from Artemis (spacenews)
 - **Apr 20, 06:29 PM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
+- **Apr 20, 07:04 PM** - Novaspace and OGC Unveil the China Space Industry Intelligence Catalog (spacenews)
