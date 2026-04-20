@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 6 | 23 | 44 |
+| spacenews | 5 | 7 | 23 | 44 |
 | nyt | 0 | 0 | 18 | 38 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
@@ -2333,3 +2333,4 @@
 - **Apr 20, 02:59 PM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
 - **Apr 20, 03:34 PM** - Amazon reveals aviation antenna as LEO inflight connectivity race intensifies (spacenews)
 - **Apr 20, 04:09 PM** - Space Force sets up ‘cislunar coordination’ office to focus beyond Earth orbit (spacenews)
+- **Apr 20, 04:44 PM** - Latvia joins the Artemis Accords (spacenews)
