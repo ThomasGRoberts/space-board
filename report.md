@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 8 | 23 | 45 |
-| nyt | 1 | 1 | 18 | 37 |
+| spacenews | 5 | 8 | 23 | 44 |
+| nyt | 1 | 1 | 18 | 38 |
 | breaking_defense | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2343,3 +2343,4 @@
 - **Apr 20, 08:49 PM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
 - **Apr 20, 09:24 PM** - SES and Boeing move toward factory-installed multi-orbit inflight connectivity (spacenews)
 - **Apr 20, 09:58 PM** - Pentagon officially ends OCX program, citing risk and delays (spacenews)
+- **Apr 20, 10:34 PM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
