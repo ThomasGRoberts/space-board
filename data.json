@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-20T00:04:29.941881+00:00",
-    "trigger_count": 6,
-    "current_item_id": "da6e5281c35e21bc13eab1c17fcfc1eb",
+    "trigger_count": 0,
+    "current_item_id": "9dab7572e08e78fa7c92fee57e94f297",
     "data": [
         {
             "id": "d37551e74e2c8484995efb78129b7fca",
@@ -7816,6 +7816,18 @@
                 "2026-02-25T15:59:21.253164Z",
                 "2026-02-25T17:44:12.276201Z",
                 "2026-02-25T19:29:13.660368Z"
+            ]
+        },
+        {
+            "id": "9dab7572e08e78fa7c92fee57e94f297",
+            "source": "spacenews",
+            "text": "China ramps up satellite production capacity amid constellation ambitions",
+            "source_link": "https://spacenews.com/china-ramps-up-satellite-production-capacity-amid-constellation-ambitions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-20T10:14:21.786779Z",
+            "shown_at": [
+                "2026-04-20T10:14:22.906755Z"
             ]
         }
     ]
