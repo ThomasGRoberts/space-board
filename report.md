@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 9 | 23 | 44 |
+| spacenews | 6 | 9 | 24 | 45 |
 | nyt | 1 | 1 | 18 | 37 |
 
 # Shown Order
@@ -2283,3 +2283,4 @@
 - **Apr 21, 02:04 AM** - ‘Earthset’ Is Captured on Video for First Time (nyt)
 - **Apr 21, 02:39 AM** - Artemis spacesuit development risks further delays (spacenews)
 - **Apr 21, 03:14 AM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
+- **Apr 21, 03:49 AM** - Tendeg Delivers First Antenna from New Industrial Production Facility, Targets 100+ Deployable Apertures Annually (spacenews)
