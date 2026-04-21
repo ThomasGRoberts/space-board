@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 10 | 21 | 44 |
-| nyt | 1 | 2 | 19 | 37 |
+| nyt | 2 | 3 | 20 | 38 |
 
 # Shown Order
 
@@ -2313,3 +2313,4 @@
 - **Apr 21, 07:54 PM** - Saltzman unveils blueprint for Space Force’s future (spacenews)
 - **Apr 21, 08:29 PM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
 - **Apr 21, 09:04 PM** - Pentagon details funding strategy behind Trump’s proposed $1.45 trillion defense budget (spacenews)
+- **Apr 21, 09:39 PM** - Sightings of Meteors Surge, and Scientists Aren’t Sure Why (nyt)
