@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-21T00:04:29.635153+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3639be8d382183bf6a02cd129687ff39",
+    "trigger_count": 0,
+    "current_item_id": "52b0d1dbce5549c8de6b38a7f68294d7",
     "data": [
         {
             "id": "7ffe7efa1a468d194fe162c4cc2f3fbc",
@@ -7814,6 +7814,18 @@
             "fetched_datetime": "2026-04-21T10:24:34.367877Z",
             "shown_at": [
                 "2026-04-21T10:24:35.758465Z"
+            ]
+        },
+        {
+            "id": "52b0d1dbce5549c8de6b38a7f68294d7",
+            "source": "spacenews",
+            "text": "NordSpace nets Canadian defense funding for VLEO satellite development",
+            "source_link": "https://spacenews.com/nordspace-nets-canadian-defense-funding-for-vleo-satellite-development/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-21T12:09:09.494713Z",
+            "shown_at": [
+                "2026-04-21T12:09:10.304530Z"
             ]
         }
     ]

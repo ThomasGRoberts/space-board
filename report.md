@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 9 | 23 | 44 |
+| spacenews | 7 | 10 | 24 | 45 |
 | nyt | 1 | 1 | 17 | 37 |
 
 # Shown Order
@@ -2297,3 +2297,4 @@
 - **Apr 21, 10:24 AM** - Falcon 9 launches final GPS 3 satellite into orbit for U.S. Space Force (spacenews)
 - **Apr 21, 10:59 AM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
 - **Apr 21, 11:34 AM** - Commercial Space Federation (CSF) Welcomes ispace-U.S. to Board of Directors (spacenews)
+- **Apr 21, 12:09 PM** - NordSpace nets Canadian defense funding for VLEO satellite development (spacenews)
