@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 8 | 23 | 44 |
-| nyt | 1 | 1 | 18 | 38 |
+| spacenews | 5 | 8 | 24 | 45 |
+| nyt | 1 | 1 | 18 | 37 |
 
 # Shown Order
 
@@ -2279,3 +2279,4 @@
 - **Apr 20, 11:44 PM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
 - **Apr 21, 12:19 AM** - Defining acquisition on a wartime footing (spacenews)
 - **Apr 21, 12:54 AM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
+- **Apr 21, 01:28 AM** - Taiwan floats shared satcom constellation amid calls for more space collaboration (spacenews)
