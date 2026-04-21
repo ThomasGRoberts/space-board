@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-21T00:04:29.635153+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b7600732b22f316aadda97b9bcb6eb73",
+    "trigger_count": 0,
+    "current_item_id": "9f36d545a6f0562444edc60982bbf89d",
     "data": [
         {
             "id": "7ffe7efa1a468d194fe162c4cc2f3fbc",
@@ -7862,6 +7862,18 @@
                 "2026-04-21T15:39:16.743155Z",
                 "2026-04-21T18:04:33.964631Z",
                 "2026-04-21T19:14:22.067610Z"
+            ]
+        },
+        {
+            "id": "9f36d545a6f0562444edc60982bbf89d",
+            "source": "spacenews",
+            "text": "Pentagon details funding strategy behind Trump’s proposed $1.45 trillion defense budget",
+            "source_link": "https://spacenews.com/pentagon-details-funding-strategy-behind-trumps-proposed-1-45-trillion-defense-budget/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-21T21:04:19.047667Z",
+            "shown_at": [
+                "2026-04-21T21:04:19.991052Z"
             ]
         }
     ]
