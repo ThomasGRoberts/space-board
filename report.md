@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 9 | 21 | 44 |
-| nyt | 2 | 2 | 19 | 37 |
+| nyt | 2 | 2 | 20 | 38 |
 
 # Shown Order
 
@@ -2309,3 +2309,4 @@
 - **Apr 21, 05:29 PM** - The U.S. must defend the final frontier against cyberattacks (spacenews)
 - **Apr 21, 06:04 PM** - Where Are All These Meteors Coming From? (nyt)
 - **Apr 21, 06:39 PM** - White House releases space nuclear policy (spacenews)
+- **Apr 21, 07:14 PM** - Where Are All These Meteors Coming From? (nyt)
