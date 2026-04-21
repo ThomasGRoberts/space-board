@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 10 | 21 | 44 |
+| spacenews | 5 | 10 | 22 | 45 |
 | nyt | 2 | 2 | 19 | 37 |
 
 # Shown Order
@@ -2306,3 +2306,4 @@
 - **Apr 21, 03:39 PM** - Where Are All These Meteors Coming From? (nyt)
 - **Apr 21, 04:14 PM** - Third New Glenn launch suffers upper stage malfunction (spacenews)
 - **Apr 21, 04:49 PM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
+- **Apr 21, 05:29 PM** - The U.S. must defend the final frontier against cyberattacks (spacenews)
