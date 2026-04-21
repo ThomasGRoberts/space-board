@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-21T00:04:29.635153+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9926e3bde2be55cc84a5dd1339b8adaa",
+    "trigger_count": 0,
+    "current_item_id": "782afa06b0d2e35900a23c0ae574d941",
     "data": [
         {
             "id": "7ffe7efa1a468d194fe162c4cc2f3fbc",
@@ -7840,6 +7840,18 @@
             "fetched_datetime": "2026-04-21T13:19:19.903673Z",
             "shown_at": [
                 "2026-04-21T13:19:20.725603Z"
+            ]
+        },
+        {
+            "id": "782afa06b0d2e35900a23c0ae574d941",
+            "source": "nyt",
+            "text": "Where Are All These Meteors Coming From?",
+            "source_link": "https://www.nytimes.com/2026/04/21/science/march-fireballs-meteors-astronomy.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-21T14:29:21.207172Z",
+            "shown_at": [
+                "2026-04-21T14:29:22.208440Z"
             ]
         }
     ]

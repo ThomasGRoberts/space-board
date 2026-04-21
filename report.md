@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 10 | 23 | 44 |
-| nyt | 1 | 1 | 18 | 37 |
+| spacenews | 7 | 10 | 22 | 44 |
+| nyt | 2 | 2 | 19 | 38 |
 
 # Shown Order
 
@@ -2301,3 +2301,4 @@
 - **Apr 21, 12:44 PM** - ‘Earthset’ Is Captured on Video for First Time (nyt)
 - **Apr 21, 01:19 PM** - The U.S. must defend the final frontier against cyberattacks (spacenews)
 - **Apr 21, 01:54 PM** - ‘Earthset’ Is Captured on Video for First Time (nyt)
+- **Apr 21, 02:29 PM** - Where Are All These Meteors Coming From? (nyt)
