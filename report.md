@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 9 | 23 | 44 |
-| nyt | 1 | 1 | 17 | 37 |
+| nyt | 1 | 1 | 18 | 38 |
 
 # Shown Order
 
@@ -2290,3 +2290,4 @@
 - **Apr 21, 06:09 AM** - Aethero developing Titan satellite to advance space-based data center ambitions (spacenews)
 - **Apr 21, 06:54 AM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
 - **Apr 21, 07:29 AM** - Shenzhou-21 astronauts complete third spacewalk, mission extended by a month (spacenews)
+- **Apr 21, 08:04 AM** - ‘Earthset’ Is Captured on Video for First Time (nyt)
