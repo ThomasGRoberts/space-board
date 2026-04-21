@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 9 | 23 | 44 |
-| nyt | 1 | 1 | 18 | 37 |
+| nyt | 1 | 1 | 19 | 38 |
 
 # Shown Order
 
@@ -2282,3 +2282,4 @@
 - **Apr 21, 01:28 AM** - Taiwan floats shared satcom constellation amid calls for more space collaboration (spacenews)
 - **Apr 21, 02:04 AM** - ‘Earthset’ Is Captured on Video for First Time (nyt)
 - **Apr 21, 02:39 AM** - Artemis spacesuit development risks further delays (spacenews)
+- **Apr 21, 03:14 AM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
