@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 11 | 23 | 45 |
-| nyt | 1 | 1 | 18 | 36 |
+| nyt | 1 | 1 | 18 | 37 |
 
 # Shown Order
 
@@ -2300,3 +2300,4 @@
 - **Apr 21, 12:09 PM** - NordSpace nets Canadian defense funding for VLEO satellite development (spacenews)
 - **Apr 21, 12:44 PM** - ‘Earthset’ Is Captured on Video for First Time (nyt)
 - **Apr 21, 01:19 PM** - The U.S. must defend the final frontier against cyberattacks (spacenews)
+- **Apr 21, 01:54 PM** - ‘Earthset’ Is Captured on Video for First Time (nyt)
