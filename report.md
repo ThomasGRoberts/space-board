@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 10 | 22 | 44 |
-| nyt | 2 | 2 | 18 | 37 |
+| nyt | 2 | 2 | 19 | 38 |
 
 # Shown Order
 
@@ -2303,3 +2303,4 @@
 - **Apr 21, 01:54 PM** - ‘Earthset’ Is Captured on Video for First Time (nyt)
 - **Apr 21, 02:29 PM** - Where Are All These Meteors Coming From? (nyt)
 - **Apr 21, 03:04 PM** - Novaspace and OGC Unveil the China Space Industry Intelligence Catalog (spacenews)
+- **Apr 21, 03:39 PM** - Where Are All These Meteors Coming From? (nyt)
