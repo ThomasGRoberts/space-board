@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 10 | 23 | 45 |
-| nyt | 1 | 1 | 17 | 36 |
+| nyt | 1 | 1 | 18 | 37 |
 
 # Shown Order
 
@@ -2298,3 +2298,4 @@
 - **Apr 21, 10:59 AM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
 - **Apr 21, 11:34 AM** - Commercial Space Federation (CSF) Welcomes ispace-U.S. to Board of Directors (spacenews)
 - **Apr 21, 12:09 PM** - NordSpace nets Canadian defense funding for VLEO satellite development (spacenews)
+- **Apr 21, 12:44 PM** - ‘Earthset’ Is Captured on Video for First Time (nyt)
