@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-21T00:04:29.635153+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a2c4a26d11a8cc94a87cd7c4180838cd",
+    "trigger_count": 0,
+    "current_item_id": "b0d1b72cc2789818f46649f63db2b7c2",
     "data": [
         {
             "id": "7ffe7efa1a468d194fe162c4cc2f3fbc",
@@ -7887,6 +7887,18 @@
             "fetched_datetime": "2026-04-21T21:39:15.027484Z",
             "shown_at": [
                 "2026-04-21T21:39:15.739173Z"
+            ]
+        },
+        {
+            "id": "b0d1b72cc2789818f46649f63db2b7c2",
+            "source": "spacenews",
+            "text": "Trump taps Raytheon executive for top military space acquisition post",
+            "source_link": "https://spacenews.com/trump-taps-raytheon-executive-for-top-military-space-acquisition-post/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-21T22:49:13.830630Z",
+            "shown_at": [
+                "2026-04-21T22:49:14.753704Z"
             ]
         }
     ]

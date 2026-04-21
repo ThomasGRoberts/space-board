@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 10 | 21 | 44 |
+| spacenews | 6 | 11 | 22 | 45 |
 | nyt | 2 | 3 | 19 | 37 |
 
 # Shown Order
@@ -2315,3 +2315,4 @@
 - **Apr 21, 09:04 PM** - Pentagon details funding strategy behind Trump’s proposed $1.45 trillion defense budget (spacenews)
 - **Apr 21, 09:39 PM** - Sightings of Meteors Surge, and Scientists Aren’t Sure Why (nyt)
 - **Apr 21, 10:14 PM** - NorthStar to go public via SPAC to expand space-based SSA network (spacenews)
+- **Apr 21, 10:49 PM** - Trump taps Raytheon executive for top military space acquisition post (spacenews)
