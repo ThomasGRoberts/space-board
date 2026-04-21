@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 9 | 22 | 44 |
+| spacenews | 6 | 9 | 23 | 45 |
 | nyt | 1 | 1 | 18 | 37 |
 
 # Shown Order
@@ -2291,3 +2291,4 @@
 - **Apr 21, 06:54 AM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
 - **Apr 21, 07:29 AM** - Shenzhou-21 astronauts complete third spacewalk, mission extended by a month (spacenews)
 - **Apr 21, 08:04 AM** - ‘Earthset’ Is Captured on Video for First Time (nyt)
+- **Apr 21, 08:39 AM** - Xoople and L3Harris team up to build satellites for ‘Earth AI’  (spacenews)
