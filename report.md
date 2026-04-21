@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 9 | 23 | 44 |
-| nyt | 1 | 1 | 18 | 38 |
+| spacenews | 6 | 9 | 24 | 45 |
+| nyt | 1 | 1 | 18 | 37 |
 
 # Shown Order
 
@@ -2285,3 +2285,4 @@
 - **Apr 21, 03:14 AM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
 - **Apr 21, 03:49 AM** - Tendeg Delivers First Antenna from New Industrial Production Facility, Targets 100+ Deployable Apertures Annually (spacenews)
 - **Apr 21, 04:24 AM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
+- **Apr 21, 04:59 AM** - Shenzhou-21 astronauts complete third spacewalk, mission extended by a month (spacenews)
