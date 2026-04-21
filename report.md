@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 9 | 21 | 44 |
-| nyt | 1 | 2 | 19 | 37 |
+| nyt | 1 | 2 | 20 | 38 |
 
 # Shown Order
 
@@ -2311,3 +2311,4 @@
 - **Apr 21, 06:39 PM** - White House releases space nuclear policy (spacenews)
 - **Apr 21, 07:14 PM** - Where Are All These Meteors Coming From? (nyt)
 - **Apr 21, 07:54 PM** - Saltzman unveils blueprint for Space Force’s future (spacenews)
+- **Apr 21, 08:29 PM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
