@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 9 | 23 | 44 |
-| nyt | 1 | 1 | 17 | 37 |
+| nyt | 1 | 1 | 18 | 38 |
 
 # Shown Order
 
@@ -2295,3 +2295,4 @@
 - **Apr 21, 09:14 AM** - ‘Earthset’ Is Captured on Video for First Time (nyt)
 - **Apr 21, 09:49 AM** - Tendeg Delivers First Antenna from New Industrial Production Facility, Targets 100+ Deployable Apertures Annually (spacenews)
 - **Apr 21, 10:24 AM** - Falcon 9 launches final GPS 3 satellite into orbit for U.S. Space Force (spacenews)
+- **Apr 21, 10:59 AM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
