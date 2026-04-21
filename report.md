@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 8 | 23 | 44 |
-| nyt | 1 | 1 | 18 | 38 |
+| spacenews | 5 | 8 | 23 | 45 |
+| nyt | 1 | 1 | 18 | 37 |
 
 # Shown Order
 
@@ -2277,3 +2277,4 @@
 - **Apr 20, 10:34 PM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
 - **Apr 20, 11:09 PM** - Seagate Space and Oceaneering Join Forces to Build the Future of Offshore Launch Infrastructure (spacenews)
 - **Apr 20, 11:44 PM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
+- **Apr 21, 12:19 AM** - Defining acquisition on a wartime footing (spacenews)
