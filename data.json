@@ -1,9 +1,81 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-04-20T00:04:29.941881+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2026-04-21T00:04:29.635153+00:00",
+    "trigger_count": 4,
     "current_item_id": "25ba89139c97e1a21db0748f90307ba3",
     "data": [
+        {
+            "id": "7ffe7efa1a468d194fe162c4cc2f3fbc",
+            "source": "spacenews",
+            "text": "Pentagon officially ends OCX program, citing risk and delays",
+            "source_link": "https://spacenews.com/pentagon-officially-ends-ocx-program-citing-risk-and-delays/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-20T21:58:33.009726Z",
+            "shown_at": [
+                "2026-04-20T21:58:33.835682Z"
+            ]
+        },
+        {
+            "id": "9926e3bde2be55cc84a5dd1339b8adaa",
+            "source": "nyt",
+            "text": "‘Earthset’ Is Captured on Video for First Time",
+            "source_link": "https://www.nytimes.com/2026/04/20/science/reid-wiseman-earthset-photo-artemis-2.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-20T19:39:03.346470Z",
+            "shown_at": [
+                "2026-04-20T19:39:03.982829Z"
+            ]
+        },
+        {
+            "id": "d59f76d96d99c18e6da6b315dbb646bf",
+            "source": "spacenews",
+            "text": "Latvia joins the Artemis Accords",
+            "source_link": "https://spacenews.com/latvia-joins-the-artemis-accords/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-20T16:44:28.348345Z",
+            "shown_at": [
+                "2026-04-20T16:44:29.254147Z"
+            ]
+        },
+        {
+            "id": "f3c2874b2e23fc9139de6419d346f863",
+            "source": "spacenews",
+            "text": "Space Force sets up ‘cislunar coordination’ office to focus beyond Earth orbit",
+            "source_link": "https://spacenews.com/space-force-sets-up-cislunar-coordination-office-to-focus-beyond-earth-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-20T16:09:33.110808Z",
+            "shown_at": [
+                "2026-04-20T16:09:34.179925Z"
+            ]
+        },
+        {
+            "id": "22d9c6449adc8de0a35a9dbc7f98b78a",
+            "source": "spacenews",
+            "text": "In the wake of Artemis 2, America needs to consider the ‘why’ of its government space program",
+            "source_link": "https://spacenews.com/in-the-wake-of-artemis-2-america-needs-to-consider-the-why-of-its-government-space-program/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-20T13:09:17.489362Z",
+            "shown_at": [
+                "2026-04-20T13:09:18.431295Z"
+            ]
+        },
+        {
+            "id": "9dab7572e08e78fa7c92fee57e94f297",
+            "source": "spacenews",
+            "text": "China ramps up satellite production capacity amid constellation ambitions",
+            "source_link": "https://spacenews.com/china-ramps-up-satellite-production-capacity-amid-constellation-ambitions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-20T10:14:21.786779Z",
+            "shown_at": [
+                "2026-04-20T10:14:22.906755Z"
+            ]
+        },
         {
             "id": "d37551e74e2c8484995efb78129b7fca",
             "source": "spacenews",
@@ -7700,212 +7772,6 @@
                 "2026-02-22T08:29:17.775969Z",
                 "2026-02-22T23:04:44.507497Z",
                 "2026-02-23T06:04:36.908972Z"
-            ]
-        },
-        {
-            "id": "94669b53bf1f1c12df39721b07833e8e",
-            "source": "spacenews",
-            "text": "EarthDaily in Orbit: From First Launch to Commercial Operations",
-            "source_link": "https://spacenews.com/earthdaily-in-orbit-from-first-launch-to-commercial-operations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-19T14:44:15.114373Z",
-            "shown_at": [
-                "2026-02-19T14:44:16.303204Z",
-                "2026-02-19T19:24:33.138312Z",
-                "2026-02-19T23:29:15.950186Z"
-            ]
-        },
-        {
-            "id": "0941a019af3f93e7f1709c3fed644598",
-            "source": "spacenews",
-            "text": "Golden Dome will fail without software-defined warfare",
-            "source_link": "https://spacenews.com/golden-dome-will-fail-without-software-defined-warfare/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-19T14:09:16.016271Z",
-            "shown_at": [
-                "2026-02-19T14:09:17.243550Z",
-                "2026-02-20T11:59:14.721598Z",
-                "2026-02-21T13:04:35.925067Z",
-                "2026-02-22T21:19:10.297157Z",
-                "2026-02-24T11:09:34.689488Z"
-            ]
-        },
-        {
-            "id": "69e5d457d38ac4bbcecb967d75df86b0",
-            "source": "spacenews",
-            "text": "Agile Space Industries Oversubscribed $17M Series A Accelerates Growth of In-Space Propulsion Capabilities",
-            "source_link": "https://spacenews.com/agile-space-industries-oversubscribed-17m-series-a-accelerates-growth-of-in-space-propulsion-capabilities/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-19T11:14:18.994885Z",
-            "shown_at": [
-                "2026-02-19T11:14:20.141716Z",
-                "2026-02-21T21:54:12.035962Z",
-                "2026-02-25T17:09:28.102941Z"
-            ]
-        },
-        {
-            "id": "9a8cb7fbae33d46cee5b4e5cb0bf6b72",
-            "source": "spacenews",
-            "text": "Japan’s ispace warns of delays in new lunar lander engine",
-            "source_link": "https://spacenews.com/japans-ispace-warns-of-delays-in-new-lunar-lander-engine/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-19T10:04:24.512052Z",
-            "shown_at": [
-                "2026-02-19T10:04:25.458007Z",
-                "2026-02-20T04:44:11.630894Z",
-                "2026-02-20T10:14:03.537094Z",
-                "2026-02-23T21:34:51.186157Z"
-            ]
-        },
-        {
-            "id": "331b72337aaf09abb2203f5600653efb",
-            "source": "spacenews",
-            "text": "Pentagon seeks commercially built GEO spy satellites ",
-            "source_link": "https://spacenews.com/pentagon-seeks-commercially-built-geo-spy-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-18T22:10:08.065767Z",
-            "shown_at": [
-                "2026-02-18T22:10:09.210263Z",
-                "2026-02-20T18:24:23.142072Z",
-                "2026-02-21T06:04:28.494709Z",
-                "2026-02-25T08:19:13.854123Z"
-            ]
-        },
-        {
-            "id": "2040432ca3d42c967552629b5eb49ac3",
-            "source": "breaking_defense",
-            "text": "DIU wants commercially developed imagery satellites for on-orbit spying",
-            "source_link": "https://breakingdefense.com/2026/02/diu-wants-commercially-developed-imagery-satellites-for-on-orbit-spying/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-18T20:59:14.676369Z",
-            "shown_at": [
-                "2026-02-18T20:59:15.775594Z",
-                "2026-02-19T03:34:13.277618Z",
-                "2026-02-19T08:14:14.794923Z",
-                "2026-02-19T15:19:20.401897Z",
-                "2026-02-19T17:39:08.521956Z",
-                "2026-02-20T01:14:08.298894Z",
-                "2026-02-20T02:23:53.470762Z",
-                "2026-02-20T04:09:08.069616Z",
-                "2026-02-20T05:54:04.266552Z",
-                "2026-02-20T09:34:33.962653Z",
-                "2026-02-20T14:20:00.942210Z",
-                "2026-02-20T16:04:35.186326Z",
-                "2026-02-20T20:09:11.127208Z",
-                "2026-02-20T21:54:14.688211Z",
-                "2026-02-20T23:39:17.828957Z",
-                "2026-02-21T07:14:29.607008Z",
-                "2026-02-21T08:59:20.960311Z",
-                "2026-02-21T10:44:13.947738Z",
-                "2026-02-21T19:28:58.256621Z",
-                "2026-02-21T21:14:13.413939Z",
-                "2026-02-21T23:04:39.636492Z",
-                "2026-02-22T00:49:13.581514Z",
-                "2026-02-22T04:19:20.476831Z",
-                "2026-02-22T06:04:26.719657Z",
-                "2026-02-22T17:14:18.873512Z",
-                "2026-02-22T18:59:15.605527Z",
-                "2026-02-22T20:44:15.984867Z",
-                "2026-02-23T01:58:57.688990Z",
-                "2026-02-23T03:44:18.144488Z",
-                "2026-02-23T11:24:57.622258Z",
-                "2026-02-23T13:09:48.052607Z",
-                "2026-02-23T20:24:44.288973Z",
-                "2026-02-23T23:54:20.760229Z",
-                "2026-02-24T01:44:19.577302Z",
-                "2026-02-24T08:49:42.984621Z",
-                "2026-02-24T13:29:08.031467Z",
-                "2026-02-24T18:44:54.410396Z",
-                "2026-02-24T20:29:13.772579Z",
-                "2026-02-24T22:14:30.441409Z",
-                "2026-02-25T00:34:33.520307Z",
-                "2026-02-25T02:19:23.524218Z",
-                "2026-02-25T04:05:12.596409Z",
-                "2026-02-25T05:59:15.300528Z",
-                "2026-02-25T07:44:04.356265Z",
-                "2026-02-25T10:44:16.758985Z",
-                "2026-02-25T13:39:28.026739Z",
-                "2026-02-25T15:59:21.253164Z",
-                "2026-02-25T17:44:12.276201Z",
-                "2026-02-25T19:29:13.660368Z"
-            ]
-        },
-        {
-            "id": "9dab7572e08e78fa7c92fee57e94f297",
-            "source": "spacenews",
-            "text": "China ramps up satellite production capacity amid constellation ambitions",
-            "source_link": "https://spacenews.com/china-ramps-up-satellite-production-capacity-amid-constellation-ambitions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-20T10:14:21.786779Z",
-            "shown_at": [
-                "2026-04-20T10:14:22.906755Z"
-            ]
-        },
-        {
-            "id": "22d9c6449adc8de0a35a9dbc7f98b78a",
-            "source": "spacenews",
-            "text": "In the wake of Artemis 2, America needs to consider the ‘why’ of its government space program",
-            "source_link": "https://spacenews.com/in-the-wake-of-artemis-2-america-needs-to-consider-the-why-of-its-government-space-program/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-20T13:09:17.489362Z",
-            "shown_at": [
-                "2026-04-20T13:09:18.431295Z"
-            ]
-        },
-        {
-            "id": "f3c2874b2e23fc9139de6419d346f863",
-            "source": "spacenews",
-            "text": "Space Force sets up ‘cislunar coordination’ office to focus beyond Earth orbit",
-            "source_link": "https://spacenews.com/space-force-sets-up-cislunar-coordination-office-to-focus-beyond-earth-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-20T16:09:33.110808Z",
-            "shown_at": [
-                "2026-04-20T16:09:34.179925Z"
-            ]
-        },
-        {
-            "id": "d59f76d96d99c18e6da6b315dbb646bf",
-            "source": "spacenews",
-            "text": "Latvia joins the Artemis Accords",
-            "source_link": "https://spacenews.com/latvia-joins-the-artemis-accords/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-20T16:44:28.348345Z",
-            "shown_at": [
-                "2026-04-20T16:44:29.254147Z"
-            ]
-        },
-        {
-            "id": "9926e3bde2be55cc84a5dd1339b8adaa",
-            "source": "nyt",
-            "text": "‘Earthset’ Is Captured on Video for First Time",
-            "source_link": "https://www.nytimes.com/2026/04/20/science/reid-wiseman-earthset-photo-artemis-2.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-20T19:39:03.346470Z",
-            "shown_at": [
-                "2026-04-20T19:39:03.982829Z"
-            ]
-        },
-        {
-            "id": "7ffe7efa1a468d194fe162c4cc2f3fbc",
-            "source": "spacenews",
-            "text": "Pentagon officially ends OCX program, citing risk and delays",
-            "source_link": "https://spacenews.com/pentagon-officially-ends-ocx-program-citing-risk-and-delays/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-20T21:58:33.009726Z",
-            "shown_at": [
-                "2026-04-20T21:58:33.835682Z"
             ]
         }
     ]
