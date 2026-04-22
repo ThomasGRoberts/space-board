@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 13 | 21 | 42 |
-| nyt | 3 | 5 | 18 | 37 |
+| nyt | 3 | 5 | 19 | 38 |
 
 # Shown Order
 
@@ -2266,3 +2266,4 @@
 - **Apr 22, 04:54 PM** - Space Force sets up ‘cislunar coordination’ office to focus beyond Earth orbit (spacenews)
 - **Apr 22, 05:29 PM** - ‘Earthset’ Is Captured on Video for First Time (nyt)
 - **Apr 22, 06:04 PM** - Space Force sets up ‘cislunar coordination’ office to focus beyond Earth orbit (spacenews)
+- **Apr 22, 06:39 PM** - Sightings of Meteors Surge, and Scientists Aren’t Sure Why (nyt)
