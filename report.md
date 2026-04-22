@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 13 | 20 | 43 |
+| spacenews | 8 | 15 | 20 | 44 |
 | nyt | 4 | 5 | 20 | 37 |
 
 # Shown Order
@@ -2256,3 +2256,4 @@
 - **Apr 22, 10:28 AM** - Musk’s SpaceX Goals Shift Ahead of Its I.P.O. (nyt)
 - **Apr 22, 11:04 AM** - China backs orbital data center startup with $8.4 billion in credit lines (spacenews)
 - **Apr 22, 11:39 AM** - ‘Earthset’ Is Captured on Video for First Time (nyt)
+- **Apr 22, 12:14 PM** - NASA sets early September launch date for Roman Space Telescope (spacenews)

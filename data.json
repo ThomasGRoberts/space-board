@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-22T00:04:24.803761+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9926e3bde2be55cc84a5dd1339b8adaa",
+    "trigger_count": 0,
+    "current_item_id": "b6695cc39182f2707ebb292affa3cf03",
     "data": [
         {
             "id": "b0d1b72cc2789818f46649f63db2b7c2",
@@ -7807,6 +7807,27 @@
             "shown_at": [
                 "2026-04-22T11:04:56.531160Z"
             ]
+        },
+        {
+            "id": "b6695cc39182f2707ebb292affa3cf03",
+            "source": "spacenews",
+            "text": "NASA sets early September launch date for Roman Space Telescope",
+            "source_link": "https://spacenews.com/nasa-sets-early-september-launch-date-for-roman-space-telescope/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-22T12:14:36.834663Z",
+            "shown_at": [
+                "2026-04-22T12:14:37.744457Z"
+            ]
+        },
+        {
+            "id": "28c1b2f827d69e5872a38ec27f06d505",
+            "source": "spacenews",
+            "text": "Hybridizing nuclear command, control and communications systems puts space infrastructure at risk",
+            "source_link": "https://spacenews.com/hybridizing-nuclear-command-control-and-communications-systems-puts-space-infrastructure-at-risk/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-22T12:14:36.834745Z"
         }
     ]
 }
