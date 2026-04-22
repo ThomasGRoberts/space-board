@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-22T00:04:24.803761+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8fb35b2a43bf5c222709f32207195291",
+    "trigger_count": 0,
+    "current_item_id": "a0e6a431a3cd1dc2d2eb16c2a1569321",
     "data": [
         {
             "id": "b0d1b72cc2789818f46649f63db2b7c2",
@@ -7800,9 +7800,12 @@
             "source": "spacenews",
             "text": "China backs orbital data center startup with $8.4 billion in credit lines",
             "source_link": "https://spacenews.com/china-backs-orbital-data-center-startup-with-8-4-billion-in-credit-lines/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-04-22T09:54:09.528722Z"
+            "fetched_datetime": "2026-04-22T09:54:09.528722Z",
+            "shown_at": [
+                "2026-04-22T11:04:56.531160Z"
+            ]
         }
     ]
 }
