@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 21 | 43 |
+| spacenews | 8 | 14 | 21 | 44 |
 | nyt | 4 | 5 | 19 | 37 |
 
 # Shown Order
@@ -2252,3 +2252,4 @@
 - **Apr 22, 08:09 AM** - Sightings of Meteors Surge, and Scientists Aren’t Sure Why (nyt)
 - **Apr 22, 08:44 AM** - Northrop Grumman takes $71 million charge on Vulcan booster issue (spacenews)
 - **Apr 22, 09:19 AM** - Dark Skies and Dark Energy Converge in West Texas (nyt)
+- **Apr 22, 09:54 AM** - Commerce Department budget proposal would halt work on TraCSS (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-22T00:04:24.803761+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ac39b1a2da52f31fa9a0c23321d3ce03",
+    "trigger_count": 0,
+    "current_item_id": "8cf10b5f7100b92eaf3661af0834f851",
     "data": [
         {
             "id": "b0d1b72cc2789818f46649f63db2b7c2",
@@ -7779,6 +7779,27 @@
             "shown": false,
             "type": "news",
             "fetched_datetime": "2026-04-22T09:19:28.814756Z"
+        },
+        {
+            "id": "8cf10b5f7100b92eaf3661af0834f851",
+            "source": "spacenews",
+            "text": "Commerce Department budget proposal would halt work on TraCSS",
+            "source_link": "https://spacenews.com/commerce-department-budget-proposal-would-halt-work-on-tracss/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-22T09:54:09.528649Z",
+            "shown_at": [
+                "2026-04-22T09:54:10.360822Z"
+            ]
+        },
+        {
+            "id": "a0e6a431a3cd1dc2d2eb16c2a1569321",
+            "source": "spacenews",
+            "text": "China backs orbital data center startup with $8.4 billion in credit lines",
+            "source_link": "https://spacenews.com/china-backs-orbital-data-center-startup-with-8-4-billion-in-credit-lines/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-22T09:54:09.528722Z"
         }
     ]
 }
