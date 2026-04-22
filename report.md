@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 15 | 22 | 43 |
-| nyt | 2 | 4 | 17 | 36 |
+| spacenews | 9 | 15 | 21 | 43 |
+| nyt | 2 | 4 | 18 | 37 |
 
 # Shown Order
 
@@ -2273,3 +2273,4 @@
 - **Apr 22, 08:59 PM** - Trump picks industry executive Roger Mason to lead National Reconnaissance Office (spacenews)
 - **Apr 22, 09:34 PM** - Musk’s SpaceX Goals Shift Ahead of Its I.P.O. (nyt)
 - **Apr 22, 10:09 PM** - Artemis 2 is a benchmark in our space exploration program — and it depends on steady NASA funding (spacenews)
+- **Apr 22, 10:49 PM** - Dark Skies and Dark Energy Converge in West Texas (nyt)
