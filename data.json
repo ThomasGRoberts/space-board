@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-22T00:04:24.803761+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8cf10b5f7100b92eaf3661af0834f851",
+    "trigger_count": 0,
+    "current_item_id": "8fb35b2a43bf5c222709f32207195291",
     "data": [
         {
             "id": "b0d1b72cc2789818f46649f63db2b7c2",
@@ -7776,9 +7776,12 @@
             "source": "nyt",
             "text": "Musk’s SpaceX Goals Shift Ahead of Its I.P.O.",
             "source_link": "https://www.nytimes.com/2026/04/22/technology/elon-musk-spacex-ipo-goals.html",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-04-22T09:19:28.814756Z"
+            "fetched_datetime": "2026-04-22T09:19:28.814756Z",
+            "shown_at": [
+                "2026-04-22T10:28:57.354516Z"
+            ]
         },
         {
             "id": "8cf10b5f7100b92eaf3661af0834f851",
