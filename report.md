@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 21 | 44 |
-| nyt | 2 | 3 | 18 | 36 |
+| nyt | 2 | 3 | 19 | 37 |
 
 # Shown Order
 
@@ -2243,3 +2243,4 @@
 - **Apr 22, 02:21 AM** - Northrop Grumman takes $71 million charge on Vulcan booster issue (spacenews)
 - **Apr 22, 03:04 AM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
 - **Apr 22, 03:51 AM** - Aethero orders Titan satellite to advance space-based data center ambitions (spacenews)
+- **Apr 22, 04:30 AM** - Sightings of Meteors Surge, and Scientists Aren’t Sure Why (nyt)
