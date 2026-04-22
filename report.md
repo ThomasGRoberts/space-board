@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 21 | 44 |
-| nyt | 2 | 3 | 18 | 36 |
+| nyt | 2 | 3 | 19 | 37 |
 
 # Shown Order
 
@@ -2245,3 +2245,4 @@
 - **Apr 22, 03:51 AM** - Aethero orders Titan satellite to advance space-based data center ambitions (spacenews)
 - **Apr 22, 04:30 AM** - Sightings of Meteors Surge, and Scientists Aren’t Sure Why (nyt)
 - **Apr 22, 05:14 AM** - Artemis 2 is a benchmark in our space exploration program — and it depends on steady NASA funding (spacenews)
+- **Apr 22, 05:49 AM** - ‘Earthset’ Is Captured on Video for First Time (nyt)
