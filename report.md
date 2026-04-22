@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 14 | 20 | 43 |
+| spacenews | 7 | 14 | 21 | 44 |
 | nyt | 4 | 5 | 19 | 37 |
 
 # Shown Order
@@ -2259,3 +2259,4 @@
 - **Apr 22, 12:14 PM** - NASA sets early September launch date for Roman Space Telescope (spacenews)
 - **Apr 22, 12:54 PM** - Hybridizing nuclear command, control and communications systems puts space infrastructure at risk (spacenews)
 - **Apr 22, 01:34 PM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
+- **Apr 22, 02:14 PM** - Novaspace and OGC Unveil the China Space Industry Intelligence Catalog (spacenews)
