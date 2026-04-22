@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-22T00:04:24.803761+00:00",
-    "trigger_count": 6,
-    "current_item_id": "25ba89139c97e1a21db0748f90307ba3",
+    "trigger_count": 0,
+    "current_item_id": "991181dde7eda3358799ce78f193954f",
     "data": [
         {
             "id": "b0d1b72cc2789818f46649f63db2b7c2",
@@ -7735,6 +7735,18 @@
             "shown_at": [
                 "2026-02-22T12:34:25.169031Z",
                 "2026-03-01T07:14:47.234289Z"
+            ]
+        },
+        {
+            "id": "991181dde7eda3358799ce78f193954f",
+            "source": "spacenews",
+            "text": "Northrop Grumman takes $71 million charge on Vulcan booster issue",
+            "source_link": "https://spacenews.com/northrop-grumman-takes-71-million-charge-on-vulcan-booster-issue/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-22T02:21:07.279440Z",
+            "shown_at": [
+                "2026-04-22T02:21:07.894545Z"
             ]
         }
     ]

@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 11 | 21 | 44 |
+| spacenews | 7 | 12 | 22 | 45 |
 | nyt | 2 | 3 | 19 | 37 |
 
 # Shown Order
@@ -2240,3 +2240,4 @@
 - **Apr 22, 12:34 AM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
 - **Apr 22, 01:09 AM** - The U.S. must defend the final frontier against cyberattacks (spacenews)
 - **Apr 22, 01:44 AM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
+- **Apr 22, 02:21 AM** - Northrop Grumman takes $71 million charge on Vulcan booster issue (spacenews)
