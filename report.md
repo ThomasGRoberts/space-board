@@ -2242,3 +2242,4 @@
 - **Apr 22, 01:44 AM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
 - **Apr 22, 02:21 AM** - Northrop Grumman takes $71 million charge on Vulcan booster issue (spacenews)
 - **Apr 22, 03:04 AM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
+- **Apr 22, 03:51 AM** - Aethero orders Titan satellite to advance space-based data center ambitions (spacenews)
