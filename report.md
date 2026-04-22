@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 21 | 44 |
-| nyt | 2 | 3 | 19 | 36 |
+| nyt | 4 | 5 | 19 | 37 |
 
 # Shown Order
 
@@ -2251,3 +2251,4 @@
 - **Apr 22, 07:34 AM** - Novaspace and OGC Unveil the China Space Industry Intelligence Catalog (spacenews)
 - **Apr 22, 08:09 AM** - Sightings of Meteors Surge, and Scientists Aren’t Sure Why (nyt)
 - **Apr 22, 08:44 AM** - Northrop Grumman takes $71 million charge on Vulcan booster issue (spacenews)
+- **Apr 22, 09:19 AM** - Dark Skies and Dark Energy Converge in West Texas (nyt)
