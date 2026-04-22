@@ -1,9 +1,109 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-04-21T00:04:29.635153+00:00",
-    "trigger_count": 0,
+    "last_run_datetime": "2026-04-22T00:04:24.803761+00:00",
+    "trigger_count": 1,
     "current_item_id": "d37551e74e2c8484995efb78129b7fca",
     "data": [
+        {
+            "id": "b0d1b72cc2789818f46649f63db2b7c2",
+            "source": "spacenews",
+            "text": "Trump taps Raytheon executive for top military space acquisition post",
+            "source_link": "https://spacenews.com/trump-taps-raytheon-executive-for-top-military-space-acquisition-post/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-21T22:49:13.830630Z",
+            "shown_at": [
+                "2026-04-21T22:49:14.753704Z"
+            ]
+        },
+        {
+            "id": "a92f4c31f9bd97abf0f380623e28d7a7",
+            "source": "nyt",
+            "text": "Sightings of Meteors Surge, and Scientists Aren’t Sure Why",
+            "source_link": "https://www.nytimes.com/2026/04/21/science/march-fireballs-meteors-astronomy.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-21T21:39:15.027484Z",
+            "shown_at": [
+                "2026-04-21T21:39:15.739173Z"
+            ]
+        },
+        {
+            "id": "9f36d545a6f0562444edc60982bbf89d",
+            "source": "spacenews",
+            "text": "Pentagon details funding strategy behind Trump’s proposed $1.45 trillion defense budget",
+            "source_link": "https://spacenews.com/pentagon-details-funding-strategy-behind-trumps-proposed-1-45-trillion-defense-budget/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-21T21:04:19.047667Z",
+            "shown_at": [
+                "2026-04-21T21:04:19.991052Z"
+            ]
+        },
+        {
+            "id": "782afa06b0d2e35900a23c0ae574d941",
+            "source": "nyt",
+            "text": "Where Are All These Meteors Coming From?",
+            "source_link": "https://www.nytimes.com/2026/04/21/science/march-fireballs-meteors-astronomy.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-21T14:29:21.207172Z",
+            "shown_at": [
+                "2026-04-21T14:29:22.208440Z",
+                "2026-04-21T15:39:16.743155Z",
+                "2026-04-21T18:04:33.964631Z",
+                "2026-04-21T19:14:22.067610Z"
+            ]
+        },
+        {
+            "id": "ab4f32ff9feb5ec52419b3425566e8b0",
+            "source": "spacenews",
+            "text": "The U.S. must defend the final frontier against cyberattacks",
+            "source_link": "https://spacenews.com/the-u-s-must-defend-the-final-frontier-against-cyberattacks/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-21T13:19:19.903673Z",
+            "shown_at": [
+                "2026-04-21T13:19:20.725603Z",
+                "2026-04-21T17:29:58.130738Z"
+            ]
+        },
+        {
+            "id": "52b0d1dbce5549c8de6b38a7f68294d7",
+            "source": "spacenews",
+            "text": "NordSpace nets Canadian defense funding for VLEO satellite development",
+            "source_link": "https://spacenews.com/nordspace-nets-canadian-defense-funding-for-vleo-satellite-development/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-21T12:09:09.494713Z",
+            "shown_at": [
+                "2026-04-21T12:09:10.304530Z"
+            ]
+        },
+        {
+            "id": "339de3c05bc37d9d56cb11bf1f796d47",
+            "source": "spacenews",
+            "text": "Falcon 9 launches final GPS 3 satellite into orbit for U.S. Space Force",
+            "source_link": "https://spacenews.com/falcon-9-launches-final-gps-3-satellite-into-orbit-for-u-s-space-force/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-21T10:24:34.367877Z",
+            "shown_at": [
+                "2026-04-21T10:24:35.758465Z"
+            ]
+        },
+        {
+            "id": "c9287a03c11ac19b60c399f22622810c",
+            "source": "spacenews",
+            "text": "Artemis spacesuit development risks further delays",
+            "source_link": "https://spacenews.com/artemis-spacesuit-development-risks-further-delays/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-21T02:39:00.917260Z",
+            "shown_at": [
+                "2026-04-21T02:39:01.679479Z"
+            ]
+        },
         {
             "id": "7ffe7efa1a468d194fe162c4cc2f3fbc",
             "source": "spacenews",
@@ -7632,275 +7732,6 @@
             "shown_at": [
                 "2026-02-22T12:34:25.169031Z",
                 "2026-03-01T07:14:47.234289Z"
-            ]
-        },
-        {
-            "id": "32e327e406f8660f08063b2848c7641f",
-            "source": "spacenews",
-            "text": "NASA preparing for Artemis 2 rollback to fix upper stage problem",
-            "source_link": "https://spacenews.com/nasa-preparing-for-artemis-2-rollback-to-fix-upper-stage-problem/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-21T16:34:28.663209Z",
-            "shown_at": [
-                "2026-02-21T16:34:29.863107Z",
-                "2026-02-22T01:24:15.683424Z",
-                "2026-02-22T16:04:34.067272Z",
-                "2026-02-27T07:19:14.576494Z"
-            ]
-        },
-        {
-            "id": "c765bec5c096ad4d0d3f04c7fdcf80fd",
-            "source": "spacenews",
-            "text": "Bruno says he joined Blue Origin to work on ‘urgent’ national security projects",
-            "source_link": "https://spacenews.com/bruno-says-he-joined-blue-origin-to-work-on-urgent-national-security-projects/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-21T02:35:01.354147Z",
-            "shown_at": [
-                "2026-02-21T02:35:02.188926Z",
-                "2026-02-22T03:09:04.977123Z",
-                "2026-02-22T06:39:17.325717Z",
-                "2026-02-22T14:19:09.887117Z",
-                "2026-02-23T09:34:14.940441Z",
-                "2026-02-27T02:34:47.421049Z"
-            ]
-        },
-        {
-            "id": "4a8f4b161432d03e061d641604604c00",
-            "source": "spacenews",
-            "text": "Aalto plots Australia base to boost planned high-altitude pseudo satellite service",
-            "source_link": "https://spacenews.com/aalto-plots-australia-base-to-boost-planned-high-altitude-pseudo-satellite-service/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-20T22:29:22.173057Z",
-            "shown_at": [
-                "2026-02-20T22:29:23.469900Z",
-                "2026-02-22T10:14:18.983527Z"
-            ]
-        },
-        {
-            "id": "66aa1079fa47b9d3cdd3a81cebe774a3",
-            "source": "spacenews",
-            "text": "NASA targeting March 6 for Artemis 2 launch",
-            "source_link": "https://spacenews.com/nasa-targeting-march-6-for-artemis-2-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-20T18:59:06.720327Z",
-            "shown_at": [
-                "2026-02-20T18:59:07.845427Z",
-                "2026-02-21T01:59:32.481742Z",
-                "2026-02-21T11:19:21.426186Z",
-                "2026-02-24T04:04:34.819465Z"
-            ]
-        },
-        {
-            "id": "a2a7a5a707de1b645c9a8c7b7e3f4b6f",
-            "source": "spacenews",
-            "text": "Boeing to boost production of missile-tracking sensors for military satellites",
-            "source_link": "https://spacenews.com/boeing-to-boost-production-of-missile-tracking-sensors-for-military-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-20T13:09:08.720355Z",
-            "shown_at": [
-                "2026-02-20T13:09:10.250329Z",
-                "2026-02-20T20:44:09.993127Z"
-            ]
-        },
-        {
-            "id": "17443a22e133920e81eb0d0bf2b00ea4",
-            "source": "spacenews",
-            "text": "NASA completes second Artemis 2 fueling test",
-            "source_link": "https://spacenews.com/nasa-completes-second-artemis-2-fueling-test/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-20T12:34:35.279136Z",
-            "shown_at": [
-                "2026-02-20T12:34:36.508366Z",
-                "2026-02-24T22:49:15.162345Z"
-            ]
-        },
-        {
-            "id": "18cbd7788400c9493a4b7b04cc252a5e",
-            "source": "nyt",
-            "text": "Trump Says He Will Release Files on Aliens and U.F.O.s",
-            "source_link": "https://www.nytimes.com/2026/02/19/us/politics/trump-ufos-aliens-files.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-20T03:34:28.093760Z",
-            "shown_at": [
-                "2026-02-20T03:34:28.965615Z",
-                "2026-02-20T05:19:13.005418Z",
-                "2026-02-20T07:09:08.629515Z",
-                "2026-02-20T08:54:16.767666Z",
-                "2026-02-20T10:49:13.908985Z",
-                "2026-02-20T13:44:11.300137Z",
-                "2026-02-20T15:29:07.727586Z",
-                "2026-02-20T17:14:16.627837Z",
-                "2026-02-20T19:34:30.137106Z",
-                "2026-02-20T21:19:15.197839Z",
-                "2026-02-20T23:04:30.898165Z",
-                "2026-02-21T00:49:19.473392Z",
-                "2026-02-21T03:09:18.740648Z",
-                "2026-02-21T04:54:20.259523Z",
-                "2026-02-21T06:39:05.337487Z",
-                "2026-02-21T08:24:10.180513Z",
-                "2026-02-21T10:09:04.520903Z",
-                "2026-02-21T11:54:14.104012Z",
-                "2026-02-21T13:39:18.061256Z",
-                "2026-02-21T15:24:10.649880Z",
-                "2026-02-21T17:09:07.543520Z",
-                "2026-02-21T18:54:17.037031Z",
-                "2026-02-21T20:39:02.790360Z",
-                "2026-02-21T22:29:11.575485Z",
-                "2026-02-22T00:14:23.197084Z",
-                "2026-02-22T01:59:15.218915Z",
-                "2026-02-22T03:44:22.347089Z",
-                "2026-02-22T05:29:05.600472Z",
-                "2026-02-22T07:14:13.923708Z",
-                "2026-02-22T09:04:50.547688Z",
-                "2026-02-22T10:49:24.020049Z",
-                "2026-02-22T13:09:43.840468Z",
-                "2026-02-22T14:54:06.351704Z",
-                "2026-02-22T16:39:15.492477Z",
-                "2026-02-22T18:24:15.136340Z",
-                "2026-02-22T20:09:45.323705Z",
-                "2026-02-22T21:54:10.677711Z",
-                "2026-02-22T23:39:08.214446Z",
-                "2026-02-23T01:24:17.665435Z",
-                "2026-02-23T03:09:14.958999Z",
-                "2026-02-23T04:54:19.482967Z",
-                "2026-02-23T06:39:12.142134Z",
-                "2026-02-23T08:24:20.896964Z",
-                "2026-02-23T10:49:14.908354Z",
-                "2026-02-23T12:34:24.903674Z",
-                "2026-02-23T16:44:05.652243Z",
-                "2026-02-23T22:44:17.390050Z",
-                "2026-02-24T04:39:10.400436Z",
-                "2026-02-24T06:24:23.244965Z",
-                "2026-02-24T08:14:51.788444Z",
-                "2026-02-24T18:09:08.702187Z",
-                "2026-02-24T23:59:15.661053Z",
-                "2026-02-25T12:59:26.541154Z",
-                "2026-02-25T22:29:06.970000Z",
-                "2026-02-25T23:39:14.524572Z",
-                "2026-02-27T01:59:00.347458Z"
-            ]
-        },
-        {
-            "id": "6fc8d5616dda62f54a760b839128ae04",
-            "source": "spacenews",
-            "text": "Starliner investigation identifies flawed NASA decision making",
-            "source_link": "https://spacenews.com/starliner-investigation-identifies-flawed-nasa-decision-making/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-19T22:18:48.005225Z",
-            "shown_at": [
-                "2026-02-19T22:18:49.089524Z",
-                "2026-02-20T02:59:05.646919Z",
-                "2026-02-22T08:29:17.775969Z",
-                "2026-02-22T23:04:44.507497Z",
-                "2026-02-23T06:04:36.908972Z"
-            ]
-        },
-        {
-            "id": "c9287a03c11ac19b60c399f22622810c",
-            "source": "spacenews",
-            "text": "Artemis spacesuit development risks further delays",
-            "source_link": "https://spacenews.com/artemis-spacesuit-development-risks-further-delays/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-21T02:39:00.917260Z",
-            "shown_at": [
-                "2026-04-21T02:39:01.679479Z"
-            ]
-        },
-        {
-            "id": "339de3c05bc37d9d56cb11bf1f796d47",
-            "source": "spacenews",
-            "text": "Falcon 9 launches final GPS 3 satellite into orbit for U.S. Space Force",
-            "source_link": "https://spacenews.com/falcon-9-launches-final-gps-3-satellite-into-orbit-for-u-s-space-force/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-21T10:24:34.367877Z",
-            "shown_at": [
-                "2026-04-21T10:24:35.758465Z"
-            ]
-        },
-        {
-            "id": "52b0d1dbce5549c8de6b38a7f68294d7",
-            "source": "spacenews",
-            "text": "NordSpace nets Canadian defense funding for VLEO satellite development",
-            "source_link": "https://spacenews.com/nordspace-nets-canadian-defense-funding-for-vleo-satellite-development/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-21T12:09:09.494713Z",
-            "shown_at": [
-                "2026-04-21T12:09:10.304530Z"
-            ]
-        },
-        {
-            "id": "ab4f32ff9feb5ec52419b3425566e8b0",
-            "source": "spacenews",
-            "text": "The U.S. must defend the final frontier against cyberattacks",
-            "source_link": "https://spacenews.com/the-u-s-must-defend-the-final-frontier-against-cyberattacks/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-21T13:19:19.903673Z",
-            "shown_at": [
-                "2026-04-21T13:19:20.725603Z",
-                "2026-04-21T17:29:58.130738Z"
-            ]
-        },
-        {
-            "id": "782afa06b0d2e35900a23c0ae574d941",
-            "source": "nyt",
-            "text": "Where Are All These Meteors Coming From?",
-            "source_link": "https://www.nytimes.com/2026/04/21/science/march-fireballs-meteors-astronomy.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-21T14:29:21.207172Z",
-            "shown_at": [
-                "2026-04-21T14:29:22.208440Z",
-                "2026-04-21T15:39:16.743155Z",
-                "2026-04-21T18:04:33.964631Z",
-                "2026-04-21T19:14:22.067610Z"
-            ]
-        },
-        {
-            "id": "9f36d545a6f0562444edc60982bbf89d",
-            "source": "spacenews",
-            "text": "Pentagon details funding strategy behind Trump’s proposed $1.45 trillion defense budget",
-            "source_link": "https://spacenews.com/pentagon-details-funding-strategy-behind-trumps-proposed-1-45-trillion-defense-budget/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-21T21:04:19.047667Z",
-            "shown_at": [
-                "2026-04-21T21:04:19.991052Z"
-            ]
-        },
-        {
-            "id": "a92f4c31f9bd97abf0f380623e28d7a7",
-            "source": "nyt",
-            "text": "Sightings of Meteors Surge, and Scientists Aren’t Sure Why",
-            "source_link": "https://www.nytimes.com/2026/04/21/science/march-fireballs-meteors-astronomy.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-21T21:39:15.027484Z",
-            "shown_at": [
-                "2026-04-21T21:39:15.739173Z"
-            ]
-        },
-        {
-            "id": "b0d1b72cc2789818f46649f63db2b7c2",
-            "source": "spacenews",
-            "text": "Trump taps Raytheon executive for top military space acquisition post",
-            "source_link": "https://spacenews.com/trump-taps-raytheon-executive-for-top-military-space-acquisition-post/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-21T22:49:13.830630Z",
-            "shown_at": [
-                "2026-04-21T22:49:14.753704Z"
             ]
         }
     ]
