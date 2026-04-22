@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-22T00:04:24.803761+00:00",
-    "trigger_count": 6,
-    "current_item_id": "81b4353b77f95baabaa82128658967ad",
+    "trigger_count": 0,
+    "current_item_id": "9281f7b84ae9243e38cb41ded985b24b",
     "data": [
         {
             "id": "b0d1b72cc2789818f46649f63db2b7c2",
@@ -7870,9 +7870,12 @@
             "source": "spacenews",
             "text": "Space Force awards contracts to Leidos, MapLarge for ‘battle planning’ software",
             "source_link": "https://spacenews.com/space-force-awards-contracts-to-leidos-maplarge-for-battle-planning-software/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-04-22T19:49:16.298314Z"
+            "fetched_datetime": "2026-04-22T19:49:16.298314Z",
+            "shown_at": [
+                "2026-04-22T20:23:50.658223Z"
+            ]
         }
     ]
 }
