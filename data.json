@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-22T00:04:24.803761+00:00",
-    "trigger_count": 6,
-    "current_item_id": "25ba89139c97e1a21db0748f90307ba3",
+    "trigger_count": 0,
+    "current_item_id": "f72560058c44c9e4ba8d12d6ea92c751",
     "data": [
         {
             "id": "b0d1b72cc2789818f46649f63db2b7c2",
@@ -7833,6 +7833,18 @@
             "fetched_datetime": "2026-04-22T12:14:36.834745Z",
             "shown_at": [
                 "2026-04-22T12:54:36.045258Z"
+            ]
+        },
+        {
+            "id": "f72560058c44c9e4ba8d12d6ea92c751",
+            "source": "spacenews",
+            "text": "Kigali to Host IAF Global Space Conference on Climate Change 2026 – A First for Africa",
+            "source_link": "https://spacenews.com/kigali-to-host-iaf-global-space-conference-on-climate-change-2026-a-first-for-africa/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-22T15:44:03.567650Z",
+            "shown_at": [
+                "2026-04-22T15:44:05.013228Z"
             ]
         }
     ]
