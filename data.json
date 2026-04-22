@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-22T00:04:24.803761+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9281f7b84ae9243e38cb41ded985b24b",
+    "trigger_count": 0,
+    "current_item_id": "a5dfc5b3769d1743bacead15cb7c4687",
     "data": [
         {
             "id": "b0d1b72cc2789818f46649f63db2b7c2",
@@ -7875,6 +7875,18 @@
             "fetched_datetime": "2026-04-22T19:49:16.298314Z",
             "shown_at": [
                 "2026-04-22T20:23:50.658223Z"
+            ]
+        },
+        {
+            "id": "a5dfc5b3769d1743bacead15cb7c4687",
+            "source": "spacenews",
+            "text": "Trump picks industry executive Roger Mason to lead National Reconnaissance Office",
+            "source_link": "https://spacenews.com/trump-picks-industry-executive-roger-mason-to-lead-national-reconnaissance-office/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-22T20:59:03.484944Z",
+            "shown_at": [
+                "2026-04-22T20:59:04.334501Z"
             ]
         }
     ]

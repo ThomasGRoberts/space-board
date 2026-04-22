@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 15 | 22 | 43 |
+| spacenews | 11 | 16 | 23 | 44 |
 | nyt | 3 | 4 | 17 | 36 |
 
 # Shown Order
@@ -2270,3 +2270,4 @@
 - **Apr 22, 07:14 PM** - NASA seeks commercial and exploration links for new Earth science missions (spacenews)
 - **Apr 22, 07:49 PM** - FCC clears AST SpaceMobile constellation as launch setback clouds ramp-up (spacenews)
 - **Apr 22, 08:23 PM** - Space Force awards contracts to Leidos, MapLarge for ‘battle planning’ software (spacenews)
+- **Apr 22, 08:59 PM** - Trump picks industry executive Roger Mason to lead National Reconnaissance Office (spacenews)
