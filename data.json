@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-22T00:04:24.803761+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ecd0ee7ea4149c48d982ea44e436e8a1",
+    "trigger_count": 0,
+    "current_item_id": "81b4353b77f95baabaa82128658967ad",
     "data": [
         {
             "id": "b0d1b72cc2789818f46649f63db2b7c2",
@@ -7852,6 +7852,27 @@
             "shown_at": [
                 "2026-04-22T15:44:05.013228Z"
             ]
+        },
+        {
+            "id": "81b4353b77f95baabaa82128658967ad",
+            "source": "spacenews",
+            "text": "FCC clears AST SpaceMobile constellation as launch setback clouds ramp-up",
+            "source_link": "https://spacenews.com/fcc-clears-ast-spacemobile-constellation-as-launch-setback-clouds-ramp-up/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-22T19:49:16.298259Z",
+            "shown_at": [
+                "2026-04-22T19:49:17.021091Z"
+            ]
+        },
+        {
+            "id": "9281f7b84ae9243e38cb41ded985b24b",
+            "source": "spacenews",
+            "text": "Space Force awards contracts to Leidos, MapLarge for ‘battle planning’ software",
+            "source_link": "https://spacenews.com/space-force-awards-contracts-to-leidos-maplarge-for-battle-planning-software/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-22T19:49:16.298314Z"
         }
     ]
 }
