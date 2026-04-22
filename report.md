@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 13 | 20 | 41 |
-| nyt | 3 | 5 | 19 | 38 |
+| spacenews | 8 | 13 | 21 | 42 |
+| nyt | 3 | 5 | 18 | 38 |
 
 # Shown Order
 
@@ -2263,3 +2263,4 @@
 - **Apr 22, 03:04 PM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
 - **Apr 22, 03:44 PM** - Kigali to Host IAF Global Space Conference on Climate Change 2026 – A First for Africa (spacenews)
 - **Apr 22, 04:19 PM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
+- **Apr 22, 04:54 PM** - Space Force sets up ‘cislunar coordination’ office to focus beyond Earth orbit (spacenews)
