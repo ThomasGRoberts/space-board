@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 20 | 43 |
-| nyt | 4 | 5 | 19 | 37 |
+| nyt | 4 | 5 | 20 | 38 |
 
 # Shown Order
 
@@ -2258,3 +2258,4 @@
 - **Apr 22, 11:39 AM** - ‘Earthset’ Is Captured on Video for First Time (nyt)
 - **Apr 22, 12:14 PM** - NASA sets early September launch date for Roman Space Telescope (spacenews)
 - **Apr 22, 12:54 PM** - Hybridizing nuclear command, control and communications systems puts space infrastructure at risk (spacenews)
+- **Apr 22, 01:34 PM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
