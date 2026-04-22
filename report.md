@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 21 | 44 |
-| nyt | 2 | 3 | 19 | 36 |
+| nyt | 2 | 3 | 19 | 37 |
 
 # Shown Order
 
@@ -2247,3 +2247,4 @@
 - **Apr 22, 05:14 AM** - Artemis 2 is a benchmark in our space exploration program — and it depends on steady NASA funding (spacenews)
 - **Apr 22, 05:49 AM** - ‘Earthset’ Is Captured on Video for First Time (nyt)
 - **Apr 22, 06:24 AM** - Shenzhou-21 astronauts complete third spacewalk, mission extended by a month (spacenews)
+- **Apr 22, 06:59 AM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
