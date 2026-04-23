@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-23T00:04:31.224694+00:00",
-    "trigger_count": 6,
-    "current_item_id": "782afa06b0d2e35900a23c0ae574d941",
+    "trigger_count": 0,
+    "current_item_id": "991d0fc4519713f088bdb4262ad6aab5",
     "data": [
         {
             "id": "a5dfc5b3769d1743bacead15cb7c4687",
@@ -7830,6 +7830,18 @@
             "fetched_datetime": "2026-04-23T15:24:18.109446Z",
             "shown_at": [
                 "2026-04-23T15:24:19.080369Z"
+            ]
+        },
+        {
+            "id": "991d0fc4519713f088bdb4262ad6aab5",
+            "source": "spacenews",
+            "text": "SpaceX wins $57 million U.S. military contract for satellite crosslink demo",
+            "source_link": "https://spacenews.com/spacex-wins-57-million-u-s-military-contract-for-satellite-crosslink-demo/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-23T22:29:10.039709Z",
+            "shown_at": [
+                "2026-04-23T22:29:11.175497Z"
             ]
         }
     ]

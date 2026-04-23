@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 17 | 21 | 43 |
+| spacenews | 8 | 18 | 22 | 44 |
 | nyt | 0 | 2 | 19 | 36 |
 
 # Shown Order
@@ -2258,3 +2258,4 @@
 - **Apr 23, 08:44 PM** - ‘Earthset’ Is Captured on Video for First Time (nyt)
 - **Apr 23, 09:19 PM** - Countering missile threats ‘left of launch’ (spacenews)
 - **Apr 23, 09:54 PM** - Where Are All These Meteors Coming From? (nyt)
+- **Apr 23, 10:29 PM** - SpaceX wins $57 million U.S. military contract for satellite crosslink demo (spacenews)
