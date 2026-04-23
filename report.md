@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 17 | 21 | 43 |
+| spacenews | 7 | 17 | 22 | 44 |
 | nyt | 0 | 3 | 19 | 36 |
 
 # Shown Order
@@ -2256,3 +2256,4 @@
 - **Apr 23, 07:34 PM** - ‘Earthset’ Is Captured on Video for First Time (nyt)
 - **Apr 23, 08:09 PM** - Taiwan floats shared satcom constellation amid calls for more space collaboration (spacenews)
 - **Apr 23, 08:44 PM** - ‘Earthset’ Is Captured on Video for First Time (nyt)
+- **Apr 23, 09:19 PM** - Countering missile threats ‘left of launch’ (spacenews)
