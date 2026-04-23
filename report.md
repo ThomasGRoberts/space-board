@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 16 | 23 | 43 |
-| nyt | 0 | 4 | 17 | 36 |
+| nyt | 0 | 4 | 18 | 37 |
 
 # Shown Order
 
@@ -2243,3 +2243,4 @@
 - **Apr 23, 11:44 AM** - NordSpace nets Canadian defense funding for VLEO satellite development (spacenews)
 - **Apr 23, 12:19 PM** - House Science Committee pans NASA budget request (spacenews)
 - **Apr 23, 12:54 PM** - Pentagon closes $1 billion investment in L3Harris missile unit (spacenews)
+- **Apr 23, 01:29 PM** - ‘Earthset’ Is Captured on Video for First Time (nyt)
