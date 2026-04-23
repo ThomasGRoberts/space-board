@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-23T00:04:31.224694+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b0d1b72cc2789818f46649f63db2b7c2",
+    "trigger_count": 0,
+    "current_item_id": "dd0b6d4726e8cef304f87b7b2e2b76c9",
     "data": [
         {
             "id": "a5dfc5b3769d1743bacead15cb7c4687",
@@ -7738,6 +7738,18 @@
             "fetched_datetime": "2026-04-23T02:59:21.018655Z",
             "shown_at": [
                 "2026-04-23T02:59:22.019839Z"
+            ]
+        },
+        {
+            "id": "dd0b6d4726e8cef304f87b7b2e2b76c9",
+            "source": "spacenews",
+            "text": "Univity funds VLEO 5G demonstrators with $32 million Series A",
+            "source_link": "https://spacenews.com/univity-funds-vleo-5g-demonstrators-with-32-million-series-a/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-23T07:04:46.590795Z",
+            "shown_at": [
+                "2026-04-23T07:04:47.263947Z"
             ]
         }
     ]

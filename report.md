@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 15 | 22 | 43 |
+| spacenews | 10 | 16 | 23 | 44 |
 | nyt | 2 | 4 | 17 | 36 |
 
 # Shown Order
@@ -2232,3 +2232,4 @@
 - **Apr 23, 05:19 AM** - Aethero developing Titan satellite to advance space-based data center ambitions (spacenews)
 - **Apr 23, 05:54 AM** - Musk’s SpaceX Goals Shift Ahead of Its I.P.O. (nyt)
 - **Apr 23, 06:29 AM** - Trump taps Raytheon executive for top military space acquisition post (spacenews)
+- **Apr 23, 07:04 AM** - Univity funds VLEO 5G demonstrators with $32 million Series A (spacenews)
