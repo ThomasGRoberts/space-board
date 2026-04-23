@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 17 | 22 | 43 |
+| spacenews | 9 | 18 | 23 | 44 |
 | nyt | 0 | 2 | 18 | 36 |
 
 # Shown Order
@@ -2259,3 +2259,4 @@
 - **Apr 23, 09:19 PM** - Countering missile threats ‘left of launch’ (spacenews)
 - **Apr 23, 09:54 PM** - Where Are All These Meteors Coming From? (nyt)
 - **Apr 23, 10:29 PM** - SpaceX wins $57 million U.S. military contract for satellite crosslink demo (spacenews)
+- **Apr 23, 11:09 PM** - FCC throws out satellite spectrum challenges as D2D dealmaking heats up (spacenews)

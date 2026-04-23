@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-23T00:04:31.224694+00:00",
-    "trigger_count": 6,
-    "current_item_id": "991d0fc4519713f088bdb4262ad6aab5",
+    "trigger_count": 0,
+    "current_item_id": "a3f361be8c712c2a5bf92403862bf636",
     "data": [
         {
             "id": "a5dfc5b3769d1743bacead15cb7c4687",
@@ -7842,6 +7842,18 @@
             "fetched_datetime": "2026-04-23T22:29:10.039709Z",
             "shown_at": [
                 "2026-04-23T22:29:11.175497Z"
+            ]
+        },
+        {
+            "id": "a3f361be8c712c2a5bf92403862bf636",
+            "source": "spacenews",
+            "text": "FCC throws out satellite spectrum challenges as D2D dealmaking heats up",
+            "source_link": "https://spacenews.com/fcc-throws-out-satellite-spectrum-challenges-as-d2d-dealmaking-heats-up/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-23T23:09:17.631832Z",
+            "shown_at": [
+                "2026-04-23T23:09:18.547535Z"
             ]
         }
     ]
