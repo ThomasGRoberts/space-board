@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 15 | 22 | 42 |
+| spacenews | 9 | 15 | 22 | 43 |
 | nyt | 2 | 4 | 18 | 37 |
 
 # Shown Order
@@ -2229,3 +2229,4 @@
 - **Apr 23, 03:34 AM** - Where Are All These Meteors Coming From? (nyt)
 - **Apr 23, 04:09 AM** - Artemis spacesuit development risks further delays (spacenews)
 - **Apr 23, 04:44 AM** - Sightings of Meteors Surge, and Scientists Aren’t Sure Why (nyt)
+- **Apr 23, 05:19 AM** - Aethero developing Titan satellite to advance space-based data center ambitions (spacenews)
