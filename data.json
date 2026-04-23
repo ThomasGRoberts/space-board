@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-23T00:04:31.224694+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b7600732b22f316aadda97b9bcb6eb73",
+    "trigger_count": 0,
+    "current_item_id": "f05cdab72a9f5c7b0737d6854a0e1c28",
     "data": [
         {
             "id": "a5dfc5b3769d1743bacead15cb7c4687",
@@ -7807,6 +7807,18 @@
             "fetched_datetime": "2026-04-23T14:04:32.438479Z",
             "shown_at": [
                 "2026-04-23T14:04:33.232898Z"
+            ]
+        },
+        {
+            "id": "f05cdab72a9f5c7b0737d6854a0e1c28",
+            "source": "spacenews",
+            "text": "Jordan signs the Artemis Accords",
+            "source_link": "https://spacenews.com/jordan-signs-the-artemis-accords/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-23T15:24:18.109446Z",
+            "shown_at": [
+                "2026-04-23T15:24:19.080369Z"
             ]
         }
     ]
