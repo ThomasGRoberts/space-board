@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 17 | 22 | 43 |
-| nyt | 0 | 4 | 17 | 36 |
+| nyt | 0 | 4 | 18 | 37 |
 
 # Shown Order
 
@@ -2237,3 +2237,4 @@
 - **Apr 23, 08:14 AM** - Boeing and its subsidiary Millennium Space team on new mid-size satellite (spacenews)
 - **Apr 23, 08:49 AM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
 - **Apr 23, 09:24 AM** - Electron launches Japanese cubesats (spacenews)
+- **Apr 23, 09:59 AM** - Sightings of Meteors Surge, and Scientists Aren’t Sure Why (nyt)
