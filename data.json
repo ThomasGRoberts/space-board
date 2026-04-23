@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-23T00:04:31.224694+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9926e3bde2be55cc84a5dd1339b8adaa",
+    "trigger_count": 0,
+    "current_item_id": "3b87eec958686c8b091be35d39078637",
     "data": [
         {
             "id": "a5dfc5b3769d1743bacead15cb7c4687",
@@ -7794,6 +7794,18 @@
             "fetched_datetime": "2026-04-23T12:19:12.057453Z",
             "shown_at": [
                 "2026-04-23T12:54:09.147102Z"
+            ]
+        },
+        {
+            "id": "3b87eec958686c8b091be35d39078637",
+            "source": "spacenews",
+            "text": "Pentagon seeks $2.3 billion for Maven AI battlefield system ",
+            "source_link": "https://spacenews.com/pentagon-seeks-2-3-billion-for-maven-ai-battlefield-system/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-23T14:04:32.438479Z",
+            "shown_at": [
+                "2026-04-23T14:04:33.232898Z"
             ]
         }
     ]
