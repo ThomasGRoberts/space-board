@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 16 | 22 | 43 |
-| nyt | 2 | 4 | 18 | 36 |
+| spacenews | 11 | 17 | 23 | 44 |
+| nyt | 0 | 4 | 17 | 36 |
 
 # Shown Order
 
@@ -2236,3 +2236,4 @@
 - **Apr 23, 07:39 AM** - Where Are All These Meteors Coming From? (nyt)
 - **Apr 23, 08:14 AM** - Boeing and its subsidiary Millennium Space team on new mid-size satellite (spacenews)
 - **Apr 23, 08:49 AM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
+- **Apr 23, 09:24 AM** - Electron launches Japanese cubesats (spacenews)
