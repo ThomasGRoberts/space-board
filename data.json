@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-23T00:04:31.224694+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c7a4168370dce76ba59c7a73722fa182",
+    "trigger_count": 0,
+    "current_item_id": "aa4ad7a43f167e12e758e6bdecc8e58a",
     "data": [
         {
             "id": "a5dfc5b3769d1743bacead15cb7c4687",
@@ -7788,9 +7788,12 @@
             "source": "spacenews",
             "text": "Pentagon closes $1 billion investment in L3Harris missile unit",
             "source_link": "https://spacenews.com/pentagon-closes-1-billion-investment-in-l3harris-missile-unit/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-04-23T12:19:12.057453Z"
+            "fetched_datetime": "2026-04-23T12:19:12.057453Z",
+            "shown_at": [
+                "2026-04-23T12:54:09.147102Z"
+            ]
         }
     ]
 }
