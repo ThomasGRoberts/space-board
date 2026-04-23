@@ -1,9 +1,144 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-04-22T00:04:24.803761+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3353cf6b7a3e830e2dbb75c1add18714",
+    "last_run_datetime": "2026-04-23T00:04:31.224694+00:00",
+    "trigger_count": 0,
+    "current_item_id": "a92f4c31f9bd97abf0f380623e28d7a7",
     "data": [
+        {
+            "id": "a5dfc5b3769d1743bacead15cb7c4687",
+            "source": "spacenews",
+            "text": "Trump picks industry executive Roger Mason to lead National Reconnaissance Office",
+            "source_link": "https://spacenews.com/trump-picks-industry-executive-roger-mason-to-lead-national-reconnaissance-office/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-22T20:59:03.484944Z",
+            "shown_at": [
+                "2026-04-22T20:59:04.334501Z"
+            ]
+        },
+        {
+            "id": "9281f7b84ae9243e38cb41ded985b24b",
+            "source": "spacenews",
+            "text": "Space Force awards contracts to Leidos, MapLarge for ‘battle planning’ software",
+            "source_link": "https://spacenews.com/space-force-awards-contracts-to-leidos-maplarge-for-battle-planning-software/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-22T19:49:16.298314Z",
+            "shown_at": [
+                "2026-04-22T20:23:50.658223Z"
+            ]
+        },
+        {
+            "id": "81b4353b77f95baabaa82128658967ad",
+            "source": "spacenews",
+            "text": "FCC clears AST SpaceMobile constellation as launch setback clouds ramp-up",
+            "source_link": "https://spacenews.com/fcc-clears-ast-spacemobile-constellation-as-launch-setback-clouds-ramp-up/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-22T19:49:16.298259Z",
+            "shown_at": [
+                "2026-04-22T19:49:17.021091Z"
+            ]
+        },
+        {
+            "id": "f72560058c44c9e4ba8d12d6ea92c751",
+            "source": "spacenews",
+            "text": "Kigali to Host IAF Global Space Conference on Climate Change 2026 – A First for Africa",
+            "source_link": "https://spacenews.com/kigali-to-host-iaf-global-space-conference-on-climate-change-2026-a-first-for-africa/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-22T15:44:03.567650Z",
+            "shown_at": [
+                "2026-04-22T15:44:05.013228Z"
+            ]
+        },
+        {
+            "id": "28c1b2f827d69e5872a38ec27f06d505",
+            "source": "spacenews",
+            "text": "Hybridizing nuclear command, control and communications systems puts space infrastructure at risk",
+            "source_link": "https://spacenews.com/hybridizing-nuclear-command-control-and-communications-systems-puts-space-infrastructure-at-risk/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-22T12:14:36.834745Z",
+            "shown_at": [
+                "2026-04-22T12:54:36.045258Z"
+            ]
+        },
+        {
+            "id": "b6695cc39182f2707ebb292affa3cf03",
+            "source": "spacenews",
+            "text": "NASA sets early September launch date for Roman Space Telescope",
+            "source_link": "https://spacenews.com/nasa-sets-early-september-launch-date-for-roman-space-telescope/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-22T12:14:36.834663Z",
+            "shown_at": [
+                "2026-04-22T12:14:37.744457Z"
+            ]
+        },
+        {
+            "id": "a0e6a431a3cd1dc2d2eb16c2a1569321",
+            "source": "spacenews",
+            "text": "China backs orbital data center startup with $8.4 billion in credit lines",
+            "source_link": "https://spacenews.com/china-backs-orbital-data-center-startup-with-8-4-billion-in-credit-lines/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-22T09:54:09.528722Z",
+            "shown_at": [
+                "2026-04-22T11:04:56.531160Z"
+            ]
+        },
+        {
+            "id": "8cf10b5f7100b92eaf3661af0834f851",
+            "source": "spacenews",
+            "text": "Commerce Department budget proposal would halt work on TraCSS",
+            "source_link": "https://spacenews.com/commerce-department-budget-proposal-would-halt-work-on-tracss/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-22T09:54:09.528649Z",
+            "shown_at": [
+                "2026-04-22T09:54:10.360822Z"
+            ]
+        },
+        {
+            "id": "8fb35b2a43bf5c222709f32207195291",
+            "source": "nyt",
+            "text": "Musk’s SpaceX Goals Shift Ahead of Its I.P.O.",
+            "source_link": "https://www.nytimes.com/2026/04/22/technology/elon-musk-spacex-ipo-goals.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-22T09:19:28.814756Z",
+            "shown_at": [
+                "2026-04-22T10:28:57.354516Z",
+                "2026-04-22T21:34:36.502288Z"
+            ]
+        },
+        {
+            "id": "ac39b1a2da52f31fa9a0c23321d3ce03",
+            "source": "nyt",
+            "text": "Dark Skies and Dark Energy Converge in West Texas",
+            "source_link": "https://www.nytimes.com/2026/04/22/science/astronomy-hetdex-dark-sky-energy.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-22T09:19:28.814721Z",
+            "shown_at": [
+                "2026-04-22T09:19:30.145324Z",
+                "2026-04-22T22:49:26.760033Z"
+            ]
+        },
+        {
+            "id": "991181dde7eda3358799ce78f193954f",
+            "source": "spacenews",
+            "text": "Northrop Grumman takes $71 million charge on Vulcan booster issue",
+            "source_link": "https://spacenews.com/northrop-grumman-takes-71-million-charge-on-vulcan-booster-issue/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-22T02:21:07.279440Z",
+            "shown_at": [
+                "2026-04-22T02:21:07.894545Z",
+                "2026-04-22T08:44:20.844856Z"
+            ]
+        },
         {
             "id": "b0d1b72cc2789818f46649f63db2b7c2",
             "source": "spacenews",
@@ -28,7 +163,8 @@
                 "2026-04-21T21:39:15.739173Z",
                 "2026-04-22T04:30:10.320968Z",
                 "2026-04-22T08:09:27.424269Z",
-                "2026-04-22T18:39:03.791224Z"
+                "2026-04-22T18:39:03.791224Z",
+                "2026-04-23T00:04:36.586255Z"
             ]
         },
         {
@@ -7580,317 +7716,6 @@
                 "2026-02-24T01:09:07.115738Z",
                 "2026-02-25T14:14:27.746408Z",
                 "2026-02-28T12:29:07.252820Z"
-            ]
-        },
-        {
-            "id": "ce820bf6df2d8d19730c0d1c0376c08f",
-            "source": "spacenews",
-            "text": "Space Force seeks market answers on in-orbit refueling",
-            "source_link": "https://spacenews.com/space-force-seeks-market-answers-on-in-orbit-refueling/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-23T19:49:35.006457Z",
-            "shown_at": [
-                "2026-02-23T19:49:36.322597Z",
-                "2026-02-23T23:19:17.411636Z"
-            ]
-        },
-        {
-            "id": "430e933a544830be5f5b04f20426f33b",
-            "source": "nyt",
-            "text": "Problem With Artemis Rocket Will Delay NASA’s Moon Mission",
-            "source_link": "https://www.nytimes.com/2026/02/21/science/nasa-artemis-helium-flaw.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-23T19:14:40.419768Z",
-            "shown_at": [
-                "2026-02-23T19:14:41.520175Z",
-                "2026-02-23T21:00:26.306701Z",
-                "2026-02-24T00:29:12.290990Z",
-                "2026-02-24T02:54:20.809412Z",
-                "2026-02-24T09:59:16.016962Z",
-                "2026-02-24T11:44:08.372597Z",
-                "2026-02-24T19:54:30.579999Z",
-                "2026-02-24T21:39:12.944464Z",
-                "2026-02-25T01:44:35.175086Z",
-                "2026-02-25T07:09:27.019748Z",
-                "2026-02-25T09:35:21.051781Z",
-                "2026-02-25T14:49:11.000524Z",
-                "2026-02-25T18:19:37.625515Z",
-                "2026-02-27T03:09:11.104023Z",
-                "2026-02-27T09:04:41.476699Z",
-                "2026-02-27T16:04:31.994035Z",
-                "2026-02-27T17:14:25.579598Z",
-                "2026-02-28T02:34:31.425824Z",
-                "2026-02-28T09:34:21.283576Z",
-                "2026-02-28T13:04:24.936905Z",
-                "2026-02-28T16:34:51.305532Z",
-                "2026-03-01T10:44:53.062684Z",
-                "2026-03-01T15:24:28.156367Z"
-            ]
-        },
-        {
-            "id": "ef09ba696bffdab86441c0d58860f9fe",
-            "source": "spacenews",
-            "text": "AST SpaceMobile wins $30 million contract for military  broadband demo",
-            "source_link": "https://spacenews.com/ast-spacemobile-wins-30-million-contract-for-military-broadband-demo/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-23T18:34:42.057908Z",
-            "shown_at": [
-                "2026-02-23T18:34:43.171355Z",
-                "2026-02-25T06:34:33.716516Z",
-                "2026-03-02T18:19:13.428036Z"
-            ]
-        },
-        {
-            "id": "898f7b9459db366f6d60d95875a1cbe1",
-            "source": "spacenews",
-            "text": "Aalyria hits $1.3 billion valuation after raising funds for satellite mesh network",
-            "source_link": "https://spacenews.com/aalyria-hits-1-3-billion-valuation-after-raising-funds-for-satellite-mesh-network/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-23T17:24:12.682237Z",
-            "shown_at": [
-                "2026-02-23T17:24:13.411136Z",
-                "2026-02-28T15:59:09.567808Z",
-                "2026-03-01T03:44:24.477510Z",
-                "2026-03-02T11:05:18.936558Z"
-            ]
-        },
-        {
-            "id": "961d551e66964b2232bf24dec83b7616",
-            "source": "spacenews",
-            "text": "Europe’s progress on future access-to-space gains momentum with upcoming reusable launcher flight test ",
-            "source_link": "https://spacenews.com/europes-progress-on-future-access-to-space-gains-momentum-with-upcoming-reusable-launcher-flight-test/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-23T16:09:37.112845Z",
-            "shown_at": [
-                "2026-02-23T16:09:38.448097Z",
-                "2026-02-28T21:14:25.111383Z"
-            ]
-        },
-        {
-            "id": "6f08f1f5de0ef2f51f0f12a6b2b969da",
-            "source": "spacenews",
-            "text": "Re-framing orbital debris: from a statistical to dosage approach",
-            "source_link": "https://spacenews.com/re-framing-orbital-debris-from-a-statistical-to-dosage-approach/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-23T14:59:02.869170Z",
-            "shown_at": [
-                "2026-02-23T15:34:35.384905Z",
-                "2026-02-27T09:39:16.721258Z",
-                "2026-02-27T19:34:23.312592Z",
-                "2026-03-01T21:54:06.210524Z"
-            ]
-        },
-        {
-            "id": "ee77cece29fd01010ac7060d4f6c7ae9",
-            "source": "spacenews",
-            "text": "Engineering Behind EarthDaily: Solving for Global Daily Coverage, Scientific Quality, and High-Spectral Diversity",
-            "source_link": "https://spacenews.com/engineering-behind-earthdaily-solving-for-global-daily-coverage-scientific-quality-and-high-spectral-diversity/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-23T14:59:02.869083Z",
-            "shown_at": [
-                "2026-02-23T14:59:04.053676Z",
-                "2026-02-25T20:39:24.605401Z",
-                "2026-02-27T14:19:26.685349Z",
-                "2026-03-01T18:19:24.971010Z",
-                "2026-03-02T05:09:22.654677Z"
-            ]
-        },
-        {
-            "id": "e17c90574b30462dfd059db24d2ad628",
-            "source": "spacenews",
-            "text": "Texas Space Commission completes $150 million in awards",
-            "source_link": "https://spacenews.com/texas-space-commission-completes-150-million-in-awards/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-23T13:44:25.118967Z",
-            "shown_at": [
-                "2026-02-23T14:24:19.312793Z",
-                "2026-03-01T06:04:48.027347Z",
-                "2026-03-01T08:25:02.728225Z"
-            ]
-        },
-        {
-            "id": "f556cb6ff849b71441111b2b64eb392d",
-            "source": "spacenews",
-            "text": "Momentus prepares to host 10 demonstration payloads on Vigoride 7 flight",
-            "source_link": "https://spacenews.com/momentus-prepares-to-host-10-demonstration-payloads-on-vigoride-7-flight/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-23T13:44:25.118889Z",
-            "shown_at": [
-                "2026-02-23T13:44:26.139558Z",
-                "2026-02-27T20:44:08.479383Z",
-                "2026-02-28T23:39:14.792141Z"
-            ]
-        },
-        {
-            "id": "a970a9c397e6cc238651f53b46e180ef",
-            "source": "spacenews",
-            "text": "Israeli startup targets the economics of high-resolution Earth observation",
-            "source_link": "https://spacenews.com/israeli-startup-targets-economics-of-high-resolution-earth-observation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-23T10:14:23.452421Z",
-            "shown_at": [
-                "2026-02-23T10:14:24.285130Z",
-                "2026-02-27T18:24:20.012090Z",
-                "2026-02-28T22:24:12.187047Z",
-                "2026-03-02T03:59:09.591043Z"
-            ]
-        },
-        {
-            "id": "5a65ad041ae65d511e14dcac980aa2dc",
-            "source": "spacenews",
-            "text": "German defense firm said to be weighing bid for Mynaric",
-            "source_link": "https://spacenews.com/german-defense-firm-said-to-be-weighing-bid-for-mynaric/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-22T12:34:24.013014Z",
-            "shown_at": [
-                "2026-02-22T12:34:25.169031Z",
-                "2026-03-01T07:14:47.234289Z"
-            ]
-        },
-        {
-            "id": "991181dde7eda3358799ce78f193954f",
-            "source": "spacenews",
-            "text": "Northrop Grumman takes $71 million charge on Vulcan booster issue",
-            "source_link": "https://spacenews.com/northrop-grumman-takes-71-million-charge-on-vulcan-booster-issue/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-22T02:21:07.279440Z",
-            "shown_at": [
-                "2026-04-22T02:21:07.894545Z",
-                "2026-04-22T08:44:20.844856Z"
-            ]
-        },
-        {
-            "id": "ac39b1a2da52f31fa9a0c23321d3ce03",
-            "source": "nyt",
-            "text": "Dark Skies and Dark Energy Converge in West Texas",
-            "source_link": "https://www.nytimes.com/2026/04/22/science/astronomy-hetdex-dark-sky-energy.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-22T09:19:28.814721Z",
-            "shown_at": [
-                "2026-04-22T09:19:30.145324Z",
-                "2026-04-22T22:49:26.760033Z"
-            ]
-        },
-        {
-            "id": "8fb35b2a43bf5c222709f32207195291",
-            "source": "nyt",
-            "text": "Musk’s SpaceX Goals Shift Ahead of Its I.P.O.",
-            "source_link": "https://www.nytimes.com/2026/04/22/technology/elon-musk-spacex-ipo-goals.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-22T09:19:28.814756Z",
-            "shown_at": [
-                "2026-04-22T10:28:57.354516Z",
-                "2026-04-22T21:34:36.502288Z"
-            ]
-        },
-        {
-            "id": "8cf10b5f7100b92eaf3661af0834f851",
-            "source": "spacenews",
-            "text": "Commerce Department budget proposal would halt work on TraCSS",
-            "source_link": "https://spacenews.com/commerce-department-budget-proposal-would-halt-work-on-tracss/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-22T09:54:09.528649Z",
-            "shown_at": [
-                "2026-04-22T09:54:10.360822Z"
-            ]
-        },
-        {
-            "id": "a0e6a431a3cd1dc2d2eb16c2a1569321",
-            "source": "spacenews",
-            "text": "China backs orbital data center startup with $8.4 billion in credit lines",
-            "source_link": "https://spacenews.com/china-backs-orbital-data-center-startup-with-8-4-billion-in-credit-lines/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-22T09:54:09.528722Z",
-            "shown_at": [
-                "2026-04-22T11:04:56.531160Z"
-            ]
-        },
-        {
-            "id": "b6695cc39182f2707ebb292affa3cf03",
-            "source": "spacenews",
-            "text": "NASA sets early September launch date for Roman Space Telescope",
-            "source_link": "https://spacenews.com/nasa-sets-early-september-launch-date-for-roman-space-telescope/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-22T12:14:36.834663Z",
-            "shown_at": [
-                "2026-04-22T12:14:37.744457Z"
-            ]
-        },
-        {
-            "id": "28c1b2f827d69e5872a38ec27f06d505",
-            "source": "spacenews",
-            "text": "Hybridizing nuclear command, control and communications systems puts space infrastructure at risk",
-            "source_link": "https://spacenews.com/hybridizing-nuclear-command-control-and-communications-systems-puts-space-infrastructure-at-risk/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-22T12:14:36.834745Z",
-            "shown_at": [
-                "2026-04-22T12:54:36.045258Z"
-            ]
-        },
-        {
-            "id": "f72560058c44c9e4ba8d12d6ea92c751",
-            "source": "spacenews",
-            "text": "Kigali to Host IAF Global Space Conference on Climate Change 2026 – A First for Africa",
-            "source_link": "https://spacenews.com/kigali-to-host-iaf-global-space-conference-on-climate-change-2026-a-first-for-africa/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-22T15:44:03.567650Z",
-            "shown_at": [
-                "2026-04-22T15:44:05.013228Z"
-            ]
-        },
-        {
-            "id": "81b4353b77f95baabaa82128658967ad",
-            "source": "spacenews",
-            "text": "FCC clears AST SpaceMobile constellation as launch setback clouds ramp-up",
-            "source_link": "https://spacenews.com/fcc-clears-ast-spacemobile-constellation-as-launch-setback-clouds-ramp-up/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-22T19:49:16.298259Z",
-            "shown_at": [
-                "2026-04-22T19:49:17.021091Z"
-            ]
-        },
-        {
-            "id": "9281f7b84ae9243e38cb41ded985b24b",
-            "source": "spacenews",
-            "text": "Space Force awards contracts to Leidos, MapLarge for ‘battle planning’ software",
-            "source_link": "https://spacenews.com/space-force-awards-contracts-to-leidos-maplarge-for-battle-planning-software/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-22T19:49:16.298314Z",
-            "shown_at": [
-                "2026-04-22T20:23:50.658223Z"
-            ]
-        },
-        {
-            "id": "a5dfc5b3769d1743bacead15cb7c4687",
-            "source": "spacenews",
-            "text": "Trump picks industry executive Roger Mason to lead National Reconnaissance Office",
-            "source_link": "https://spacenews.com/trump-picks-industry-executive-roger-mason-to-lead-national-reconnaissance-office/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-22T20:59:03.484944Z",
-            "shown_at": [
-                "2026-04-22T20:59:04.334501Z"
             ]
         }
     ]
