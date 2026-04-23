@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 15 | 23 | 42 |
+| spacenews | 9 | 17 | 23 | 43 |
 | nyt | 0 | 4 | 17 | 37 |
 
 # Shown Order
@@ -2241,3 +2241,4 @@
 - **Apr 23, 10:34 AM** - Pentagon officially ends OCX program, citing risk and delays (spacenews)
 - **Apr 23, 11:09 AM** - Where Are All These Meteors Coming From? (nyt)
 - **Apr 23, 11:44 AM** - NordSpace nets Canadian defense funding for VLEO satellite development (spacenews)
+- **Apr 23, 12:19 PM** - House Science Committee pans NASA budget request (spacenews)
