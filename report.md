@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 18 | 23 | 44 |
-| nyt | 0 | 3 | 17 | 35 |
+| nyt | 0 | 3 | 18 | 36 |
 
 # Shown Order
 
@@ -2247,3 +2247,4 @@
 - **Apr 23, 02:04 PM** - Pentagon seeks $2.3 billion for Maven AI battlefield system  (spacenews)
 - **Apr 23, 02:49 PM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
 - **Apr 23, 03:24 PM** - Jordan signs the Artemis Accords (spacenews)
+- **Apr 23, 03:59 PM** - Musk’s SpaceX Goals Shift Ahead of Its I.P.O. (nyt)
