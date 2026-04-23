@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 18 | 23 | 43 |
+| spacenews | 10 | 18 | 24 | 44 |
 | nyt | 0 | 3 | 17 | 36 |
 
 # Shown Order
@@ -2252,3 +2252,4 @@
 - **Apr 23, 05:14 PM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
 - **Apr 23, 05:49 PM** - Space Force weighs Vulcan flights without solid boosters  (spacenews)
 - **Apr 23, 06:24 PM** - ‘Earthset’ Is Captured on Video for First Time (nyt)
+- **Apr 23, 06:59 PM** - Pentagon closes $1 billion investment in L3Harris missile unit (spacenews)
