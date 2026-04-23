@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 15 | 21 | 42 |
-| nyt | 2 | 4 | 18 | 37 |
+| spacenews | 9 | 15 | 22 | 43 |
+| nyt | 2 | 4 | 17 | 37 |
 
 # Shown Order
 
@@ -2223,3 +2223,4 @@
 - **Apr 23, 12:04 AM** - Sightings of Meteors Surge, and Scientists Aren’t Sure Why (nyt)
 - **Apr 23, 12:39 AM** - Falcon 9 launches final GPS 3 satellite into orbit for U.S. Space Force (spacenews)
 - **Apr 23, 01:14 AM** - Where Are All These Meteors Coming From? (nyt)
+- **Apr 23, 01:49 AM** - NASA seeks commercial and exploration links for new Earth science missions (spacenews)
