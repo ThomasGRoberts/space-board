@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-23T00:04:31.224694+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8fb35b2a43bf5c222709f32207195291",
+    "trigger_count": 0,
+    "current_item_id": "6c0183caafc472d299c1abee5b148da7",
     "data": [
         {
             "id": "a5dfc5b3769d1743bacead15cb7c4687",
@@ -7720,6 +7720,18 @@
                 "2026-02-24T01:09:07.115738Z",
                 "2026-02-25T14:14:27.746408Z",
                 "2026-02-28T12:29:07.252820Z"
+            ]
+        },
+        {
+            "id": "6c0183caafc472d299c1abee5b148da7",
+            "source": "spacenews",
+            "text": "Atmos Space Cargo raises $30 million for reentry missions",
+            "source_link": "https://spacenews.com/atmos-space-cargo-raises-30-million-for-reentry-missions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-23T02:59:21.018655Z",
+            "shown_at": [
+                "2026-04-23T02:59:22.019839Z"
             ]
         }
     ]
