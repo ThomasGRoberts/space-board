@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 14 | 21 | 44 |
+| spacenews | 4 | 14 | 22 | 45 |
 | nyt | 1 | 1 | 19 | 37 |
 
 # Shown Order
@@ -2227,3 +2227,4 @@
 - **Apr 24, 02:29 PM** - The governance gap: Why orbital data centers need certification before they scale (spacenews)
 - **Apr 24, 03:04 PM** - Astrobotic tests advanced rocket engine (spacenews)
 - **Apr 24, 03:39 PM** - Sightings of Meteors Surge, and Scientists Aren’t Sure Why (nyt)
+- **Apr 24, 04:14 PM** - Pentagon closes $1 billion investment in L3Harris missile unit (spacenews)
