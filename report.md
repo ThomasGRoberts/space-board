@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 14 | 21 | 44 |
+| spacenews | 4 | 14 | 22 | 45 |
 | nyt | 1 | 1 | 19 | 37 |
 
 # Shown Order
@@ -2229,3 +2229,4 @@
 - **Apr 24, 03:39 PM** - Sightings of Meteors Surge, and Scientists Aren’t Sure Why (nyt)
 - **Apr 24, 04:14 PM** - Pentagon closes $1 billion investment in L3Harris missile unit (spacenews)
 - **Apr 24, 04:49 PM** - Sightings of Meteors Surge, and Scientists Aren’t Sure Why (nyt)
+- **Apr 24, 05:24 PM** - Rhea Space Activity raises $6 million to develop GPS-free spacecraft navigation (spacenews)
