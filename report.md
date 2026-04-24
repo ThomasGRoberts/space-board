@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 17 | 22 | 44 |
-| nyt | 0 | 2 | 18 | 36 |
+| nyt | 0 | 2 | 19 | 37 |
 
 # Shown Order
 
@@ -2209,3 +2209,4 @@
 - **Apr 24, 03:54 AM** - SpaceX wins $57 million U.S. military contract for satellite crosslink demo (spacenews)
 - **Apr 24, 04:29 AM** - Musk’s SpaceX Goals Shift Ahead of Its I.P.O. (nyt)
 - **Apr 24, 05:04 AM** - The U.S. must defend the final frontier against cyberattacks (spacenews)
+- **Apr 24, 05:39 AM** - Where Are All These Meteors Coming From? (nyt)
