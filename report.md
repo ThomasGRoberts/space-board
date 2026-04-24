@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 17 | 22 | 44 |
+| spacenews | 8 | 17 | 23 | 44 |
 | nyt | 0 | 2 | 18 | 36 |
 
 # Shown Order
@@ -2206,3 +2206,4 @@
 - **Apr 24, 02:09 AM** - Sightings of Meteors Surge, and Scientists Aren’t Sure Why (nyt)
 - **Apr 24, 02:44 AM** - Space Force sets up ‘cislunar coordination’ office to focus beyond Earth orbit (spacenews)
 - **Apr 24, 03:19 AM** - Musk’s SpaceX Goals Shift Ahead of Its I.P.O. (nyt)
+- **Apr 24, 03:54 AM** - SpaceX wins $57 million U.S. military contract for satellite crosslink demo (spacenews)
