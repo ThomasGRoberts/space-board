@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 12 | 21 | 43 |
+| spacenews | 5 | 13 | 22 | 44 |
 | nyt | 1 | 1 | 19 | 38 |
 
 # Shown Order
@@ -2235,3 +2235,4 @@
 - **Apr 24, 07:09 PM** - Where Are All These Meteors Coming From? (nyt)
 - **Apr 24, 07:44 PM** - Pentagon officially ends OCX program, citing risk and delays (spacenews)
 - **Apr 24, 08:19 PM** - ‘Earthset’ Is Captured on Video for First Time (nyt)
+- **Apr 24, 08:54 PM** - Space Force awards up to $3.2 billion for Golden Dome interceptor prototypes (spacenews)
