@@ -1,9 +1,118 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-04-23T00:04:31.224694+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2026-04-24T00:04:31.499212+00:00",
+    "trigger_count": 4,
     "current_item_id": "8fb35b2a43bf5c222709f32207195291",
     "data": [
+        {
+            "id": "a3f361be8c712c2a5bf92403862bf636",
+            "source": "spacenews",
+            "text": "FCC throws out satellite spectrum challenges as D2D dealmaking heats up",
+            "source_link": "https://spacenews.com/fcc-throws-out-satellite-spectrum-challenges-as-d2d-dealmaking-heats-up/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-23T23:09:17.631832Z",
+            "shown_at": [
+                "2026-04-23T23:09:18.547535Z"
+            ]
+        },
+        {
+            "id": "991d0fc4519713f088bdb4262ad6aab5",
+            "source": "spacenews",
+            "text": "SpaceX wins $57 million U.S. military contract for satellite crosslink demo",
+            "source_link": "https://spacenews.com/spacex-wins-57-million-u-s-military-contract-for-satellite-crosslink-demo/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-23T22:29:10.039709Z",
+            "shown_at": [
+                "2026-04-23T22:29:11.175497Z"
+            ]
+        },
+        {
+            "id": "f05cdab72a9f5c7b0737d6854a0e1c28",
+            "source": "spacenews",
+            "text": "Jordan signs the Artemis Accords",
+            "source_link": "https://spacenews.com/jordan-signs-the-artemis-accords/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-23T15:24:18.109446Z",
+            "shown_at": [
+                "2026-04-23T15:24:19.080369Z"
+            ]
+        },
+        {
+            "id": "3b87eec958686c8b091be35d39078637",
+            "source": "spacenews",
+            "text": "Pentagon seeks $2.3 billion for Maven AI battlefield system ",
+            "source_link": "https://spacenews.com/pentagon-seeks-2-3-billion-for-maven-ai-battlefield-system/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-23T14:04:32.438479Z",
+            "shown_at": [
+                "2026-04-23T14:04:33.232898Z"
+            ]
+        },
+        {
+            "id": "aa4ad7a43f167e12e758e6bdecc8e58a",
+            "source": "spacenews",
+            "text": "Pentagon closes $1 billion investment in L3Harris missile unit",
+            "source_link": "https://spacenews.com/pentagon-closes-1-billion-investment-in-l3harris-missile-unit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-23T12:19:12.057453Z",
+            "shown_at": [
+                "2026-04-23T12:54:09.147102Z",
+                "2026-04-23T18:59:08.893580Z"
+            ]
+        },
+        {
+            "id": "c7a4168370dce76ba59c7a73722fa182",
+            "source": "spacenews",
+            "text": "House Science Committee pans NASA budget request",
+            "source_link": "https://spacenews.com/house-science-committee-pans-nasa-budget-request/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-23T12:19:12.057396Z",
+            "shown_at": [
+                "2026-04-23T12:19:12.893953Z"
+            ]
+        },
+        {
+            "id": "e3e82537248ea7ad3c8b8904e2fdc723",
+            "source": "spacenews",
+            "text": "Electron launches Japanese cubesats",
+            "source_link": "https://spacenews.com/electron-launches-japanese-cubesats/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-23T09:24:16.603197Z",
+            "shown_at": [
+                "2026-04-23T09:24:17.226528Z"
+            ]
+        },
+        {
+            "id": "dd0b6d4726e8cef304f87b7b2e2b76c9",
+            "source": "spacenews",
+            "text": "Univity funds VLEO 5G demonstrators with $32 million Series A",
+            "source_link": "https://spacenews.com/univity-funds-vleo-5g-demonstrators-with-32-million-series-a/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-23T07:04:46.590795Z",
+            "shown_at": [
+                "2026-04-23T07:04:47.263947Z"
+            ]
+        },
+        {
+            "id": "6c0183caafc472d299c1abee5b148da7",
+            "source": "spacenews",
+            "text": "Atmos Space Cargo raises $30 million for reentry missions",
+            "source_link": "https://spacenews.com/atmos-space-cargo-raises-30-million-for-reentry-missions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-23T02:59:21.018655Z",
+            "shown_at": [
+                "2026-04-23T02:59:22.019839Z"
+            ]
+        },
         {
             "id": "a5dfc5b3769d1743bacead15cb7c4687",
             "source": "spacenews",
@@ -7586,275 +7695,6 @@
                 "2026-02-28T14:49:13.313548Z",
                 "2026-03-01T13:39:16.700428Z",
                 "2026-03-04T02:14:20.983220Z"
-            ]
-        },
-        {
-            "id": "15c532cddcf775e6b66f926a6ec1a122",
-            "source": "spacenews",
-            "text": "A banner year for military space funding— with an unclear path beyond",
-            "source_link": "https://spacenews.com/a-banner-year-for-military-space-funding-with-an-unclear-path-beyond/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-24T23:24:17.155589Z",
-            "shown_at": [
-                "2026-02-24T23:24:18.335045Z",
-                "2026-03-01T12:29:44.709690Z",
-                "2026-03-02T07:34:54.262843Z",
-                "2026-03-03T07:44:17.330861Z"
-            ]
-        },
-        {
-            "id": "bde58179637fcd78ad096a0f596ece09",
-            "source": "spacenews",
-            "text": "Lockheed Martin presses case that GPS upgrade will counter jamming threats",
-            "source_link": "https://spacenews.com/lockheed-martin-presses-case-that-gps-upgrade-will-counter-jamming-threats/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-24T17:34:28.282602Z",
-            "shown_at": [
-                "2026-02-24T17:34:29.341840Z",
-                "2026-02-25T01:10:04.716205Z",
-                "2026-02-27T11:24:23.283907Z",
-                "2026-03-01T23:04:32.661890Z",
-                "2026-03-03T05:24:16.768307Z"
-            ]
-        },
-        {
-            "id": "c0dae3f404bba5b2c380e55a4e6b33d3",
-            "source": "spacenews",
-            "text": "LambdaVision books space on Starlab commercial space station",
-            "source_link": "https://spacenews.com/lambdavision-books-space-on-starlab-commercial-space-station/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-24T14:04:40.026469Z",
-            "shown_at": [
-                "2026-02-24T15:35:12.446625Z",
-                "2026-02-28T10:09:00.881735Z",
-                "2026-03-02T00:14:13.985427Z"
-            ]
-        },
-        {
-            "id": "b782a70835c459f1a2b5ce3c0b70fb3e",
-            "source": "spacenews",
-            "text": "At Colorado space firms, Hegseth casts Pentagon bureaucracy as the enemy",
-            "source_link": "https://spacenews.com/at-colorado-space-firms-hegseth-casts-pentagon-bureaucracy-as-the-enemy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-24T14:04:40.026422Z",
-            "shown_at": [
-                "2026-02-24T14:39:53.014738Z",
-                "2026-02-25T23:05:11.934399Z",
-                "2026-02-27T06:09:10.726025Z",
-                "2026-03-01T17:09:17.737345Z",
-                "2026-03-02T19:29:12.675938Z",
-                "2026-03-02T22:24:17.736464Z"
-            ]
-        },
-        {
-            "id": "0ec449eb406b4e0954dd76f6947a2136",
-            "source": "spacenews",
-            "text": "The Commercial Space Federation Releases New White Paper “Perfecting Public-Private Partnerships”",
-            "source_link": "https://spacenews.com/the-commercial-space-federation-releases-new-white-paper-perfecting-public-private-partnerships/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-24T14:04:40.026354Z",
-            "shown_at": [
-                "2026-02-24T14:04:41.032317Z",
-                "2026-02-24T19:19:18.105757Z",
-                "2026-02-25T02:54:22.973767Z",
-                "2026-02-25T04:44:57.076318Z",
-                "2026-02-27T23:39:18.961974Z"
-            ]
-        },
-        {
-            "id": "622d36c3f21e140d551b0166ba81c2fa",
-            "source": "nyt",
-            "text": "Norway’s Century-Long Watch on the Northern Lights",
-            "source_link": "https://www.nytimes.com/2026/02/24/science/norway-auroras-northern-lights-observatory.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-24T12:54:33.603107Z",
-            "shown_at": [
-                "2026-02-24T12:54:34.882724Z",
-                "2026-02-25T03:29:12.390225Z",
-                "2026-02-25T05:24:02.198969Z",
-                "2026-02-25T16:34:35.550775Z",
-                "2026-02-25T20:05:00.090352Z",
-                "2026-02-25T21:19:24.201382Z",
-                "2026-02-27T04:19:23.891619Z",
-                "2026-02-27T07:54:17.676888Z",
-                "2026-02-27T11:59:19.053229Z",
-                "2026-02-27T13:44:13.228842Z",
-                "2026-02-27T14:54:13.006747Z",
-                "2026-02-27T18:59:07.573767Z",
-                "2026-02-27T23:04:24.745115Z",
-                "2026-02-28T08:24:19.796548Z",
-                "2026-03-01T01:59:08.055831Z",
-                "2026-03-01T06:39:15.525261Z",
-                "2026-03-01T09:34:27.031033Z",
-                "2026-03-01T11:54:16.319028Z",
-                "2026-03-01T13:04:38.541600Z",
-                "2026-03-01T14:14:26.030264Z",
-                "2026-03-01T20:09:14.785392Z",
-                "2026-03-02T21:49:20.170249Z",
-                "2026-03-03T00:44:37.880280Z",
-                "2026-03-03T04:49:02.293496Z",
-                "2026-03-03T10:49:55.029843Z",
-                "2026-03-03T11:59:03.246510Z"
-            ]
-        },
-        {
-            "id": "36892e6074f799b8f3873ed74bcacd82",
-            "source": "spacenews",
-            "text": "Sophia Space claims $10 million in seed round",
-            "source_link": "https://spacenews.com/sophia-space-claims-10-million-in-seed-round/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-24T12:19:28.307341Z",
-            "shown_at": [
-                "2026-02-24T12:19:29.494185Z",
-                "2026-03-01T01:24:40.077475Z",
-                "2026-03-01T04:54:04.259845Z",
-                "2026-03-02T02:49:02.852126Z"
-            ]
-        },
-        {
-            "id": "7c1cece3f28e29739aeacd749f38ab70",
-            "source": "spacenews",
-            "text": "Boeing demonstrates large language model for space-grade hardware",
-            "source_link": "https://spacenews.com/boeing-demonstrates-large-language-model-for-space-grade-hardware/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-24T02:19:09.189021Z",
-            "shown_at": [
-                "2026-02-24T02:19:09.941024Z",
-                "2026-02-24T09:24:16.592368Z",
-                "2026-02-28T07:49:22.011876Z",
-                "2026-03-01T15:58:57.541599Z",
-                "2026-03-02T06:19:19.634596Z"
-            ]
-        },
-        {
-            "id": "412f02e403c11dd13aa05e03ed70d8f9",
-            "source": "spacenews",
-            "text": "Meink, Saltzman make case for Space Force expansion ",
-            "source_link": "https://spacenews.com/meink-saltzman-make-case-for-space-force-expansion/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-24T01:09:06.055539Z",
-            "shown_at": [
-                "2026-02-24T01:09:07.115738Z",
-                "2026-02-25T14:14:27.746408Z",
-                "2026-02-28T12:29:07.252820Z"
-            ]
-        },
-        {
-            "id": "6c0183caafc472d299c1abee5b148da7",
-            "source": "spacenews",
-            "text": "Atmos Space Cargo raises $30 million for reentry missions",
-            "source_link": "https://spacenews.com/atmos-space-cargo-raises-30-million-for-reentry-missions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-23T02:59:21.018655Z",
-            "shown_at": [
-                "2026-04-23T02:59:22.019839Z"
-            ]
-        },
-        {
-            "id": "dd0b6d4726e8cef304f87b7b2e2b76c9",
-            "source": "spacenews",
-            "text": "Univity funds VLEO 5G demonstrators with $32 million Series A",
-            "source_link": "https://spacenews.com/univity-funds-vleo-5g-demonstrators-with-32-million-series-a/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-23T07:04:46.590795Z",
-            "shown_at": [
-                "2026-04-23T07:04:47.263947Z"
-            ]
-        },
-        {
-            "id": "e3e82537248ea7ad3c8b8904e2fdc723",
-            "source": "spacenews",
-            "text": "Electron launches Japanese cubesats",
-            "source_link": "https://spacenews.com/electron-launches-japanese-cubesats/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-23T09:24:16.603197Z",
-            "shown_at": [
-                "2026-04-23T09:24:17.226528Z"
-            ]
-        },
-        {
-            "id": "c7a4168370dce76ba59c7a73722fa182",
-            "source": "spacenews",
-            "text": "House Science Committee pans NASA budget request",
-            "source_link": "https://spacenews.com/house-science-committee-pans-nasa-budget-request/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-23T12:19:12.057396Z",
-            "shown_at": [
-                "2026-04-23T12:19:12.893953Z"
-            ]
-        },
-        {
-            "id": "aa4ad7a43f167e12e758e6bdecc8e58a",
-            "source": "spacenews",
-            "text": "Pentagon closes $1 billion investment in L3Harris missile unit",
-            "source_link": "https://spacenews.com/pentagon-closes-1-billion-investment-in-l3harris-missile-unit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-23T12:19:12.057453Z",
-            "shown_at": [
-                "2026-04-23T12:54:09.147102Z",
-                "2026-04-23T18:59:08.893580Z"
-            ]
-        },
-        {
-            "id": "3b87eec958686c8b091be35d39078637",
-            "source": "spacenews",
-            "text": "Pentagon seeks $2.3 billion for Maven AI battlefield system ",
-            "source_link": "https://spacenews.com/pentagon-seeks-2-3-billion-for-maven-ai-battlefield-system/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-23T14:04:32.438479Z",
-            "shown_at": [
-                "2026-04-23T14:04:33.232898Z"
-            ]
-        },
-        {
-            "id": "f05cdab72a9f5c7b0737d6854a0e1c28",
-            "source": "spacenews",
-            "text": "Jordan signs the Artemis Accords",
-            "source_link": "https://spacenews.com/jordan-signs-the-artemis-accords/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-23T15:24:18.109446Z",
-            "shown_at": [
-                "2026-04-23T15:24:19.080369Z"
-            ]
-        },
-        {
-            "id": "991d0fc4519713f088bdb4262ad6aab5",
-            "source": "spacenews",
-            "text": "SpaceX wins $57 million U.S. military contract for satellite crosslink demo",
-            "source_link": "https://spacenews.com/spacex-wins-57-million-u-s-military-contract-for-satellite-crosslink-demo/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-23T22:29:10.039709Z",
-            "shown_at": [
-                "2026-04-23T22:29:11.175497Z"
-            ]
-        },
-        {
-            "id": "a3f361be8c712c2a5bf92403862bf636",
-            "source": "spacenews",
-            "text": "FCC throws out satellite spectrum challenges as D2D dealmaking heats up",
-            "source_link": "https://spacenews.com/fcc-throws-out-satellite-spectrum-challenges-as-d2d-dealmaking-heats-up/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-23T23:09:17.631832Z",
-            "shown_at": [
-                "2026-04-23T23:09:18.547535Z"
             ]
         }
     ]
