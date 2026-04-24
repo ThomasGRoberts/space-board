@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 17 | 22 | 44 |
-| nyt | 0 | 2 | 18 | 36 |
+| nyt | 0 | 2 | 19 | 37 |
 
 # Shown Order
 
@@ -2211,3 +2211,4 @@
 - **Apr 24, 05:04 AM** - The U.S. must defend the final frontier against cyberattacks (spacenews)
 - **Apr 24, 05:39 AM** - Where Are All These Meteors Coming From? (nyt)
 - **Apr 24, 06:14 AM** - Artemis spacesuit development risks further delays (spacenews)
+- **Apr 24, 06:49 AM** - Where Are All These Meteors Coming From? (nyt)
