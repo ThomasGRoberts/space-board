@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 21 | 43 |
-| nyt | 1 | 1 | 19 | 38 |
+| nyt | 1 | 1 | 20 | 39 |
 
 # Shown Order
 
@@ -2236,3 +2236,4 @@
 - **Apr 24, 07:44 PM** - Pentagon officially ends OCX program, citing risk and delays (spacenews)
 - **Apr 24, 08:19 PM** - ‘Earthset’ Is Captured on Video for First Time (nyt)
 - **Apr 24, 08:54 PM** - Space Force awards up to $3.2 billion for Golden Dome interceptor prototypes (spacenews)
+- **Apr 24, 09:29 PM** - Sightings of Meteors Surge, and Scientists Aren’t Sure Why (nyt)
