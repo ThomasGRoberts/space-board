@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 15 | 21 | 44 |
+| spacenews | 6 | 15 | 22 | 45 |
 | nyt | 1 | 1 | 19 | 36 |
 
 # Shown Order
@@ -2218,3 +2218,4 @@
 - **Apr 24, 09:09 AM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
 - **Apr 24, 09:49 AM** - Artemis 2 astronauts praise performance of Orion (spacenews)
 - **Apr 24, 10:24 AM** - Where Are All These Meteors Coming From? (nyt)
+- **Apr 24, 10:59 AM** - Shenzhou-21 astronauts complete third spacewalk, mission extended by a month (spacenews)
