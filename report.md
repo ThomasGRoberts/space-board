@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 13 | 21 | 44 |
-| nyt | 1 | 1 | 19 | 36 |
+| nyt | 1 | 1 | 20 | 37 |
 
 # Shown Order
 
@@ -2223,3 +2223,4 @@
 - **Apr 24, 12:09 PM** - Space Force awards contracts to Leidos, MapLarge for ‘battle planning’ software (spacenews)
 - **Apr 24, 12:44 PM** - Where Are All These Meteors Coming From? (nyt)
 - **Apr 24, 01:19 PM** - SpaceX wins $57 million U.S. military contract for satellite crosslink demo (spacenews)
+- **Apr 24, 01:54 PM** - ‘Earthset’ Is Captured on Video for First Time (nyt)
