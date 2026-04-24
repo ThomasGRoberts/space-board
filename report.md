@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 17 | 22 | 43 |
+| spacenews | 9 | 17 | 23 | 44 |
 | nyt | 0 | 2 | 18 | 36 |
 
 # Shown Order
@@ -2204,3 +2204,4 @@
 - **Apr 24, 12:54 AM** - Dark Skies and Dark Energy Converge in West Texas (nyt)
 - **Apr 24, 01:29 AM** - Pentagon closes $1 billion investment in L3Harris missile unit (spacenews)
 - **Apr 24, 02:09 AM** - Sightings of Meteors Surge, and Scientists Aren’t Sure Why (nyt)
+- **Apr 24, 02:44 AM** - Space Force sets up ‘cislunar coordination’ office to focus beyond Earth orbit (spacenews)
