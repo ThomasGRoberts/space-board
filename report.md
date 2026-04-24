@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 22 | 44 |
-| nyt | 0 | 2 | 18 | 36 |
+| nyt | 0 | 2 | 19 | 37 |
 
 # Shown Order
 
@@ -2213,3 +2213,4 @@
 - **Apr 24, 06:14 AM** - Artemis spacesuit development risks further delays (spacenews)
 - **Apr 24, 06:49 AM** - Where Are All These Meteors Coming From? (nyt)
 - **Apr 24, 07:24 AM** - Falcon 9 launches final GPS 3 satellite into orbit for U.S. Space Force (spacenews)
+- **Apr 24, 07:59 AM** - ‘Earthset’ Is Captured on Video for First Time (nyt)
