@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 15 | 22 | 44 |
-| nyt | 1 | 1 | 18 | 36 |
+| nyt | 1 | 1 | 19 | 37 |
 
 # Shown Order
 
@@ -2217,3 +2217,4 @@
 - **Apr 24, 08:34 AM** - Trump picks industry executive Roger Mason to lead National Reconnaissance Office (spacenews)
 - **Apr 24, 09:09 AM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
 - **Apr 24, 09:49 AM** - Artemis 2 astronauts praise performance of Orion (spacenews)
+- **Apr 24, 10:24 AM** - Where Are All These Meteors Coming From? (nyt)
