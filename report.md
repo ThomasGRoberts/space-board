@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 12 | 21 | 43 |
+| spacenews | 3 | 12 | 21 | 44 |
 | nyt | 1 | 1 | 20 | 38 |
 
 # Shown Order
@@ -2239,3 +2239,4 @@
 - **Apr 24, 09:29 PM** - Sightings of Meteors Surge, and Scientists Aren’t Sure Why (nyt)
 - **Apr 24, 10:04 PM** - China backs orbital data center startup with $8.4 billion in credit lines (spacenews)
 - **Apr 24, 10:39 PM** - Musk’s SpaceX Goals Shift Ahead of Its I.P.O. (nyt)
+- **Apr 24, 11:14 PM** - Pentagon closes $1 billion investment in L3Harris missile unit (spacenews)
