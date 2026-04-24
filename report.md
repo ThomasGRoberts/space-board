@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 13 | 21 | 44 |
-| nyt | 1 | 1 | 19 | 36 |
+| nyt | 1 | 1 | 20 | 37 |
 
 # Shown Order
 
@@ -2221,3 +2221,4 @@
 - **Apr 24, 10:59 AM** - Shenzhou-21 astronauts complete third spacewalk, mission extended by a month (spacenews)
 - **Apr 24, 11:34 AM** - ‘Earthset’ Is Captured on Video for First Time (nyt)
 - **Apr 24, 12:09 PM** - Space Force awards contracts to Leidos, MapLarge for ‘battle planning’ software (spacenews)
+- **Apr 24, 12:44 PM** - Where Are All These Meteors Coming From? (nyt)
