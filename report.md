@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 12 | 21 | 44 |
-| nyt | 1 | 1 | 19 | 37 |
+| nyt | 1 | 1 | 20 | 38 |
 
 # Shown Order
 
@@ -2234,3 +2234,4 @@
 - **Apr 24, 06:34 PM** - NorthStar to go public via SPAC to expand space-based SSA network (spacenews)
 - **Apr 24, 07:09 PM** - Where Are All These Meteors Coming From? (nyt)
 - **Apr 24, 07:44 PM** - Pentagon officially ends OCX program, citing risk and delays (spacenews)
+- **Apr 24, 08:19 PM** - ‘Earthset’ Is Captured on Video for First Time (nyt)
