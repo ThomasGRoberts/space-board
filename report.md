@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 12 | 21 | 43 |
-| nyt | 1 | 1 | 19 | 38 |
+| nyt | 1 | 1 | 20 | 39 |
 
 # Shown Order
 
@@ -2238,3 +2238,4 @@
 - **Apr 24, 08:54 PM** - Space Force awards up to $3.2 billion for Golden Dome interceptor prototypes (spacenews)
 - **Apr 24, 09:29 PM** - Sightings of Meteors Surge, and Scientists Aren’t Sure Why (nyt)
 - **Apr 24, 10:04 PM** - China backs orbital data center startup with $8.4 billion in credit lines (spacenews)
+- **Apr 24, 10:39 PM** - Musk’s SpaceX Goals Shift Ahead of Its I.P.O. (nyt)
