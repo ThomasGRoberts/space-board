@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 14 | 21 | 44 |
+| spacenews | 4 | 14 | 22 | 45 |
 | nyt | 1 | 1 | 19 | 37 |
 
 # Shown Order
@@ -2233,3 +2233,4 @@
 - **Apr 24, 05:59 PM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
 - **Apr 24, 06:34 PM** - NorthStar to go public via SPAC to expand space-based SSA network (spacenews)
 - **Apr 24, 07:09 PM** - Where Are All These Meteors Coming From? (nyt)
+- **Apr 24, 07:44 PM** - Pentagon officially ends OCX program, citing risk and delays (spacenews)
