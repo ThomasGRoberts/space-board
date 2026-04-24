@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 22 | 44 |
-| nyt | 0 | 2 | 18 | 36 |
+| nyt | 1 | 3 | 19 | 37 |
 
 # Shown Order
 
@@ -2215,3 +2215,4 @@
 - **Apr 24, 07:24 AM** - Falcon 9 launches final GPS 3 satellite into orbit for U.S. Space Force (spacenews)
 - **Apr 24, 07:59 AM** - ‘Earthset’ Is Captured on Video for First Time (nyt)
 - **Apr 24, 08:34 AM** - Trump picks industry executive Roger Mason to lead National Reconnaissance Office (spacenews)
+- **Apr 24, 09:09 AM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
