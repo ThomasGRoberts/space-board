@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 17 | 22 | 44 |
-| nyt | 0 | 2 | 18 | 36 |
+| nyt | 0 | 2 | 19 | 37 |
 
 # Shown Order
 
@@ -2207,3 +2207,4 @@
 - **Apr 24, 02:44 AM** - Space Force sets up ‘cislunar coordination’ office to focus beyond Earth orbit (spacenews)
 - **Apr 24, 03:19 AM** - Musk’s SpaceX Goals Shift Ahead of Its I.P.O. (nyt)
 - **Apr 24, 03:54 AM** - SpaceX wins $57 million U.S. military contract for satellite crosslink demo (spacenews)
+- **Apr 24, 04:29 AM** - Musk’s SpaceX Goals Shift Ahead of Its I.P.O. (nyt)
