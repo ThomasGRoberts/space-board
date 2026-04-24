@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 17 | 21 | 44 |
+| spacenews | 6 | 17 | 22 | 45 |
 | nyt | 1 | 1 | 19 | 36 |
 
 # Shown Order
@@ -2216,3 +2216,4 @@
 - **Apr 24, 07:59 AM** - ‘Earthset’ Is Captured on Video for First Time (nyt)
 - **Apr 24, 08:34 AM** - Trump picks industry executive Roger Mason to lead National Reconnaissance Office (spacenews)
 - **Apr 24, 09:09 AM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
+- **Apr 24, 09:49 AM** - Artemis 2 astronauts praise performance of Orion (spacenews)
