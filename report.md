@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 18 | 22 | 44 |
-| nyt | 0 | 2 | 18 | 35 |
+| nyt | 0 | 2 | 19 | 36 |
 
 # Shown Order
 
@@ -2201,3 +2201,4 @@
 - **Apr 23, 11:09 PM** - FCC throws out satellite spectrum challenges as D2D dealmaking heats up (spacenews)
 - **Apr 23, 11:44 PM** - Musk’s SpaceX Goals Shift Ahead of Its I.P.O. (nyt)
 - **Apr 24, 12:19 AM** - Pentagon details funding strategy behind Trump’s proposed $1.45 trillion defense budget (spacenews)
+- **Apr 24, 12:54 AM** - Dark Skies and Dark Energy Converge in West Texas (nyt)
