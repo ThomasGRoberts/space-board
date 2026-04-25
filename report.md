@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 6 | 21 | 42 |
+| spacenews | 2 | 6 | 21 | 43 |
 | nyt | 0 | 1 | 20 | 39 |
 
 # Shown Order
@@ -2265,3 +2265,4 @@
 - **Apr 25, 04:49 PM** - Where Are All These Meteors Coming From? (nyt)
 - **Apr 25, 05:24 PM** - Atmos Space Cargo raises $30 million for reentry missions (spacenews)
 - **Apr 25, 05:59 PM** - Where Are All These Meteors Coming From? (nyt)
+- **Apr 25, 06:34 PM** - Pentagon details funding strategy behind Trump’s proposed $1.45 trillion defense budget (spacenews)
