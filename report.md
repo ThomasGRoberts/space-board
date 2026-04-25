@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 12 | 20 | 43 |
+| spacenews | 3 | 12 | 21 | 44 |
 | nyt | 1 | 1 | 20 | 38 |
 
 # Shown Order
@@ -2234,3 +2234,4 @@
 - **Apr 24, 10:39 PM** - Musk’s SpaceX Goals Shift Ahead of Its I.P.O. (nyt)
 - **Apr 24, 11:14 PM** - Pentagon closes $1 billion investment in L3Harris missile unit (spacenews)
 - **Apr 24, 11:49 PM** - Where Are All These Meteors Coming From? (nyt)
+- **Apr 25, 12:24 AM** - In the wake of Artemis 2, America needs to consider the ‘why’ of its government space program (spacenews)
