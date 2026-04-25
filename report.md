@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 11 | 21 | 43 |
+| spacenews | 3 | 11 | 21 | 44 |
 | nyt | 1 | 1 | 20 | 38 |
 
 # Shown Order
@@ -2242,3 +2242,4 @@
 - **Apr 25, 03:19 AM** - Musk’s SpaceX Goals Shift Ahead of Its I.P.O. (nyt)
 - **Apr 25, 03:54 AM** - Univity funds VLEO 5G demonstrators with $32 million Series A (spacenews)
 - **Apr 25, 04:34 AM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
+- **Apr 25, 05:09 AM** - FCC clears AST SpaceMobile constellation as launch setback clouds ramp-up (spacenews)
