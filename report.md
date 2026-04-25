@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 6 | 21 | 42 |
-| nyt | 0 | 1 | 20 | 39 |
+| nyt | 0 | 1 | 21 | 40 |
 
 # Shown Order
 
@@ -2268,3 +2268,4 @@
 - **Apr 25, 06:34 PM** - Pentagon details funding strategy behind Trump’s proposed $1.45 trillion defense budget (spacenews)
 - **Apr 25, 07:09 PM** - Sightings of Meteors Surge, and Scientists Aren’t Sure Why (nyt)
 - **Apr 25, 07:44 PM** - FCC throws out satellite spectrum challenges as D2D dealmaking heats up (spacenews)
+- **Apr 25, 08:19 PM** - Sightings of Meteors Surge, and Scientists Aren’t Sure Why (nyt)
