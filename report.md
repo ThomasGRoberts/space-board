@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 6 | 21 | 42 |
-| nyt | 0 | 1 | 20 | 39 |
+| nyt | 0 | 1 | 20 | 40 |
 
 # Shown Order
 
@@ -2264,3 +2264,4 @@
 - **Apr 25, 04:14 PM** - Space Force faces surge in demand for heavy-lift launches (spacenews)
 - **Apr 25, 04:49 PM** - Where Are All These Meteors Coming From? (nyt)
 - **Apr 25, 05:24 PM** - Atmos Space Cargo raises $30 million for reentry missions (spacenews)
+- **Apr 25, 05:59 PM** - Where Are All These Meteors Coming From? (nyt)
