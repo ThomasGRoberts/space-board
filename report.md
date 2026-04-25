@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 9 | 21 | 43 |
-| nyt | 0 | 1 | 20 | 38 |
+| nyt | 0 | 1 | 20 | 39 |
 
 # Shown Order
 
@@ -2251,3 +2251,4 @@
 - **Apr 25, 08:39 AM** - NordSpace nets Canadian defense funding for VLEO satellite development (spacenews)
 - **Apr 25, 09:14 AM** - ‘Earthset’ Is Captured on Video for First Time (nyt)
 - **Apr 25, 09:49 AM** - Electron launches Japanese cubesats (spacenews)
+- **Apr 25, 10:24 AM** - Where Are All These Meteors Coming From? (nyt)
