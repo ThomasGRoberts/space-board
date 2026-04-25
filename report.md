@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 12 | 21 | 43 |
-| nyt | 1 | 1 | 20 | 38 |
+| nyt | 1 | 1 | 20 | 39 |
 
 # Shown Order
 
@@ -2237,3 +2237,4 @@
 - **Apr 25, 12:24 AM** - In the wake of Artemis 2, America needs to consider the ‘why’ of its government space program (spacenews)
 - **Apr 25, 12:59 AM** - Sightings of Meteors Surge, and Scientists Aren’t Sure Why (nyt)
 - **Apr 25, 01:34 AM** - Space Force sets up ‘cislunar coordination’ office to focus beyond Earth orbit (spacenews)
+- **Apr 25, 02:09 AM** - Sightings of Meteors Surge, and Scientists Aren’t Sure Why (nyt)
