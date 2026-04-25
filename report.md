@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 6 | 21 | 41 |
+| spacenews | 3 | 6 | 22 | 42 |
 | nyt | 0 | 1 | 20 | 40 |
 
 # Shown Order
@@ -2258,3 +2258,4 @@
 - **Apr 25, 12:44 PM** - Musk’s SpaceX Goals Shift Ahead of Its I.P.O. (nyt)
 - **Apr 25, 01:19 PM** - The governance gap: Why orbital data centers need certification before they scale (spacenews)
 - **Apr 25, 01:54 PM** - Where Are All These Meteors Coming From? (nyt)
+- **Apr 25, 02:29 PM** - Space Force awards up to $3.2 billion for Golden Dome interceptor prototypes (spacenews)
