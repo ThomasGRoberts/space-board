@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 10 | 21 | 42 |
+| spacenews | 3 | 10 | 21 | 43 |
 | nyt | 1 | 1 | 20 | 39 |
 
 # Shown Order
@@ -2248,3 +2248,4 @@
 - **Apr 25, 06:54 AM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
 - **Apr 25, 07:28 AM** - NordSpace nets Canadian defense funding for VLEO satellite development (spacenews)
 - **Apr 25, 08:04 AM** - Where Are All These Meteors Coming From? (nyt)
+- **Apr 25, 08:39 AM** - NordSpace nets Canadian defense funding for VLEO satellite development (spacenews)
