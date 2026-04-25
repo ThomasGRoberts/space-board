@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-25T00:04:40.140483+00:00",
-    "trigger_count": 6,
-    "current_item_id": "339de3c05bc37d9d56cb11bf1f796d47",
+    "trigger_count": 0,
+    "current_item_id": "3124fba14634c14ca0480f0d9516818f",
     "data": [
         {
             "id": "fda44d4005440fa2780b2ecfa562e3dc",
@@ -7780,6 +7780,18 @@
             "fetched_datetime": "2026-04-25T16:14:02.803968Z",
             "shown_at": [
                 "2026-04-25T16:14:03.665737Z"
+            ]
+        },
+        {
+            "id": "3124fba14634c14ca0480f0d9516818f",
+            "source": "spacenews",
+            "text": "NASA reserves science payload space for Mars telecommunications mission",
+            "source_link": "https://spacenews.com/nasa-reserves-science-payload-space-for-mars-telecommunications-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-25T23:49:14.386652Z",
+            "shown_at": [
+                "2026-04-25T23:49:15.250487Z"
             ]
         }
     ]

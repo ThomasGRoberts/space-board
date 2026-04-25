@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 4 | 21 | 42 |
-| nyt | 0 | 1 | 20 | 39 |
+| spacenews | 2 | 5 | 22 | 43 |
+| nyt | 0 | 1 | 19 | 39 |
 
 # Shown Order
 
@@ -2274,3 +2274,4 @@
 - **Apr 25, 10:04 PM** - Astrobotic tests advanced rocket engine (spacenews)
 - **Apr 25, 10:39 PM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
 - **Apr 25, 11:14 PM** - Falcon 9 launches final GPS 3 satellite into orbit for U.S. Space Force (spacenews)
+- **Apr 25, 11:49 PM** - NASA reserves science payload space for Mars telecommunications mission (spacenews)
