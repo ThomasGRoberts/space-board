@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 11 | 21 | 43 |
-| nyt | 1 | 1 | 20 | 38 |
+| nyt | 1 | 1 | 21 | 39 |
 
 # Shown Order
 
@@ -2239,3 +2239,4 @@
 - **Apr 25, 01:34 AM** - Space Force sets up ‘cislunar coordination’ office to focus beyond Earth orbit (spacenews)
 - **Apr 25, 02:09 AM** - Sightings of Meteors Surge, and Scientists Aren’t Sure Why (nyt)
 - **Apr 25, 02:44 AM** - FCC throws out satellite spectrum challenges as D2D dealmaking heats up (spacenews)
+- **Apr 25, 03:19 AM** - Musk’s SpaceX Goals Shift Ahead of Its I.P.O. (nyt)
