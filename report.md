@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 21 | 42 |
-| nyt | 0 | 1 | 20 | 39 |
+| nyt | 0 | 1 | 21 | 40 |
 
 # Shown Order
 
@@ -2270,3 +2270,4 @@
 - **Apr 25, 07:44 PM** - FCC throws out satellite spectrum challenges as D2D dealmaking heats up (spacenews)
 - **Apr 25, 08:19 PM** - Sightings of Meteors Surge, and Scientists Aren’t Sure Why (nyt)
 - **Apr 25, 08:54 PM** - Artemis spacesuit development risks further delays (spacenews)
+- **Apr 25, 09:29 PM** - Sightings of Meteors Surge, and Scientists Aren’t Sure Why (nyt)
