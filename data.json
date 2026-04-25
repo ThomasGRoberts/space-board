@@ -1,9 +1,58 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-04-24T00:04:31.499212+00:00",
-    "trigger_count": 2,
+    "last_run_datetime": "2026-04-25T00:04:40.140483+00:00",
+    "trigger_count": 3,
     "current_item_id": "782afa06b0d2e35900a23c0ae574d941",
     "data": [
+        {
+            "id": "fda44d4005440fa2780b2ecfa562e3dc",
+            "source": "spacenews",
+            "text": "Space Force awards up to $3.2 billion for Golden Dome interceptor prototypes",
+            "source_link": "https://spacenews.com/space-force-awards-up-to-3-2-billion-for-golden-dome-interceptor-prototypes/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-24T20:54:21.994714Z",
+            "shown_at": [
+                "2026-04-24T20:54:22.969615Z"
+            ]
+        },
+        {
+            "id": "4f5cb2ab4e10ab91557f1e589a17792c",
+            "source": "spacenews",
+            "text": "Astrobotic tests advanced rocket engine",
+            "source_link": "https://spacenews.com/astrobotic-tests-advanced-rocket-engine/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-24T14:29:10.175668Z",
+            "shown_at": [
+                "2026-04-24T15:04:44.481501Z"
+            ]
+        },
+        {
+            "id": "1d774497d68b7e30b910d20f7fc52992",
+            "source": "spacenews",
+            "text": "The governance gap: Why orbital data centers need certification before they scale",
+            "source_link": "https://spacenews.com/the-governance-gap-why-orbital-data-centers-need-certification-before-they-scale/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-24T14:29:10.175595Z",
+            "shown_at": [
+                "2026-04-24T14:29:10.985076Z"
+            ]
+        },
+        {
+            "id": "752c6320d5793589e16193e6dadb256f",
+            "source": "nyt",
+            "text": "Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough.",
+            "source_link": "https://www.nytimes.com/2026/04/24/science/space/mars-nasa-fungus-contamination.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-24T09:09:21.439489Z",
+            "shown_at": [
+                "2026-04-24T09:09:22.418471Z",
+                "2026-04-24T17:59:12.434252Z"
+            ]
+        },
         {
             "id": "a3f361be8c712c2a5bf92403862bf636",
             "source": "spacenews",
@@ -7680,106 +7729,6 @@
                 "2026-03-01T10:09:06.217587Z",
                 "2026-03-01T11:19:23.236934Z",
                 "2026-03-03T00:09:17.341575Z"
-            ]
-        },
-        {
-            "id": "1c53eb35e9c89f4ca3d601bae770ba30",
-            "source": "spacenews",
-            "text": "Valve malfunction blamed for failure of Indian satellite to raise its orbit",
-            "source_link": "https://spacenews.com/valve-malfunction-blamed-for-failure-of-indian-satellite-to-raise-its-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-25T18:54:27.014721Z",
-            "shown_at": [
-                "2026-02-25T18:54:28.171657Z"
-            ]
-        },
-        {
-            "id": "e1ec71e30738a6eb13e30a84f1315f12",
-            "source": "spacenews",
-            "text": "The future of astronomy is both on Earth and in space",
-            "source_link": "https://spacenews.com/the-future-of-astronomy-is-both-on-earth-and-in-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-25T15:24:27.542421Z",
-            "shown_at": [
-                "2026-02-25T15:24:28.525565Z"
-            ]
-        },
-        {
-            "id": "0a33257970a366433e8097fb86d20217",
-            "source": "spacenews",
-            "text": "OQ Technology secures $30 million from Europe for satellite-to-smartphone expansion",
-            "source_link": "https://spacenews.com/oq-technology-secures-30-million-from-europe-for-satellite-to-smartphone-expansion/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-25T11:49:14.178224Z",
-            "shown_at": [
-                "2026-02-25T12:24:42.208652Z"
-            ]
-        },
-        {
-            "id": "2ae82ef6ec1f160fa1c5dc8e9789edf4",
-            "source": "spacenews",
-            "text": "In space traffic coordination, the biggest challenge may be coordination",
-            "source_link": "https://spacenews.com/in-space-traffic-coordination-the-biggest-challenge-may-be-coordination/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-25T11:49:14.178155Z",
-            "shown_at": [
-                "2026-02-25T11:49:15.133200Z",
-                "2026-02-28T14:49:13.313548Z",
-                "2026-03-01T13:39:16.700428Z",
-                "2026-03-04T02:14:20.983220Z"
-            ]
-        },
-        {
-            "id": "752c6320d5793589e16193e6dadb256f",
-            "source": "nyt",
-            "text": "Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough.",
-            "source_link": "https://www.nytimes.com/2026/04/24/science/space/mars-nasa-fungus-contamination.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-24T09:09:21.439489Z",
-            "shown_at": [
-                "2026-04-24T09:09:22.418471Z",
-                "2026-04-24T17:59:12.434252Z"
-            ]
-        },
-        {
-            "id": "1d774497d68b7e30b910d20f7fc52992",
-            "source": "spacenews",
-            "text": "The governance gap: Why orbital data centers need certification before they scale",
-            "source_link": "https://spacenews.com/the-governance-gap-why-orbital-data-centers-need-certification-before-they-scale/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-24T14:29:10.175595Z",
-            "shown_at": [
-                "2026-04-24T14:29:10.985076Z"
-            ]
-        },
-        {
-            "id": "4f5cb2ab4e10ab91557f1e589a17792c",
-            "source": "spacenews",
-            "text": "Astrobotic tests advanced rocket engine",
-            "source_link": "https://spacenews.com/astrobotic-tests-advanced-rocket-engine/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-24T14:29:10.175668Z",
-            "shown_at": [
-                "2026-04-24T15:04:44.481501Z"
-            ]
-        },
-        {
-            "id": "fda44d4005440fa2780b2ecfa562e3dc",
-            "source": "spacenews",
-            "text": "Space Force awards up to $3.2 billion for Golden Dome interceptor prototypes",
-            "source_link": "https://spacenews.com/space-force-awards-up-to-3-2-billion-for-golden-dome-interceptor-prototypes/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-24T20:54:21.994714Z",
-            "shown_at": [
-                "2026-04-24T20:54:22.969615Z"
             ]
         }
     ]

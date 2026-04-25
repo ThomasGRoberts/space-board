@@ -3,14 +3,10 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 12 | 21 | 43 |
-| nyt | 1 | 1 | 20 | 39 |
+| nyt | 1 | 1 | 20 | 38 |
 
 # Shown Order
 
-- **Feb 25, 11:49 AM** - In space traffic coordination, the biggest challenge may be coordination (spacenews)
-- **Feb 25, 12:24 PM** - OQ Technology secures $30 million from Europe for satellite-to-smartphone expansion (spacenews)
-- **Feb 25, 03:24 PM** - The future of astronomy is both on Earth and in space (spacenews)
-- **Feb 25, 06:54 PM** - Valve malfunction blamed for failure of Indian satellite to raise its orbit (spacenews)
 - **Feb 25, 09:54 PM** - Golden Dome to require unprecedented coordination between U.S. combatant commands (spacenews)
 - **Feb 26, 07:30 PM** - Airbus and Leonardo report increased space revenues for 2025 (spacenews)
 - **Feb 26, 08:04 PM** - Sorry, SpaceX: It’s Getting Too Crowded Up There (nyt)
@@ -57,7 +53,6 @@
 - **Feb 28, 11:54 AM** - NASA Shakes Up Artemis Schedule, Aiming for 2 Moon Landings in 2028 (nyt)
 - **Feb 28, 01:39 PM** - China’s Tianwen-2 probe operating normally on approach to asteroid (spacenews)
 - **Feb 28, 02:14 PM** - Sorry, SpaceX: It’s Getting Too Crowded Up There (nyt)
-- **Feb 28, 02:49 PM** - In space traffic coordination, the biggest challenge may be coordination (spacenews)
 - **Feb 28, 03:24 PM** - Sorry, SpaceX: It’s Getting Too Crowded Up There (nyt)
 - **Feb 28, 05:09 PM** - Bowersox to retire from NASA (spacenews)
 - **Feb 28, 05:44 PM** - NASA on ‘aggressive’ schedule to complete SLS repairs for April launch (spacenews)
@@ -78,7 +73,6 @@
 - **Mar 01, 08:59 AM** - CAS Space to launch Kinetica-2 in late March carrying prototype cargo spacecraft (spacenews)
 - **Mar 01, 10:09 AM** - Golden Dome to require unprecedented coordination between U.S. combatant commands (spacenews)
 - **Mar 01, 11:19 AM** - Golden Dome to require unprecedented coordination between U.S. combatant commands (spacenews)
-- **Mar 01, 01:39 PM** - In space traffic coordination, the biggest challenge may be coordination (spacenews)
 - **Mar 01, 02:49 PM** - NASA on ‘aggressive’ schedule to complete SLS repairs for April launch (spacenews)
 - **Mar 01, 04:34 PM** - NASA Aims for 2 Moon Landings in 2028 With New Artemis Schedule (nyt)
 - **Mar 01, 05:44 PM** - NASA Shakes Up Artemis Schedule, Aiming for 2 Moon Landings in 2028 (nyt)
@@ -151,7 +145,6 @@
 - **Mar 04, 12:24 AM** - Sorry, SpaceX: It’s Getting Too Crowded Up There (nyt)
 - **Mar 04, 12:59 AM** - House Science Committee leaders criticize FCC rulemaking on space safety (spacenews)
 - **Mar 04, 01:34 AM** - Blood Moon Lunar Eclipse 2026: Time and Visibility Guide (nyt)
-- **Mar 04, 02:14 AM** - In space traffic coordination, the biggest challenge may be coordination (spacenews)
 - **Mar 04, 02:49 AM** - NASA Shakes Up Artemis Schedule, Aiming for 2 Moon Landings in 2028 (nyt)
 - **Mar 04, 03:24 AM** - Airbus and Leonardo report increased space revenues for 2025 (spacenews)
 - **Mar 04, 03:59 AM** - Photos: Blood Moon Total Lunar Eclipse 2026 (nyt)
