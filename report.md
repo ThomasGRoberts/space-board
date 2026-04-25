@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 11 | 21 | 43 |
-| nyt | 1 | 1 | 20 | 38 |
+| nyt | 1 | 1 | 20 | 39 |
 
 # Shown Order
 
@@ -2245,3 +2245,4 @@
 - **Apr 25, 05:09 AM** - FCC clears AST SpaceMobile constellation as launch setback clouds ramp-up (spacenews)
 - **Apr 25, 05:44 AM** - Musk’s SpaceX Goals Shift Ahead of Its I.P.O. (nyt)
 - **Apr 25, 06:19 AM** - Pentagon seeks $2.3 billion for Maven AI battlefield system  (spacenews)
+- **Apr 25, 06:54 AM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
