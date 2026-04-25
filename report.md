@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 7 | 21 | 42 |
-| nyt | 0 | 1 | 20 | 39 |
+| nyt | 0 | 1 | 21 | 40 |
 
 # Shown Order
 
@@ -2255,3 +2255,4 @@
 - **Apr 25, 10:59 AM** - Space Force awards up to $3.2 billion for Golden Dome interceptor prototypes (spacenews)
 - **Apr 25, 11:34 AM** - ‘Earthset’ Is Captured on Video for First Time (nyt)
 - **Apr 25, 12:09 PM** - NASA sets early September launch date for Roman Space Telescope (spacenews)
+- **Apr 25, 12:44 PM** - Musk’s SpaceX Goals Shift Ahead of Its I.P.O. (nyt)
