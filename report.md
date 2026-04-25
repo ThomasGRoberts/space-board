@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 6 | 21 | 42 |
+| spacenews | 1 | 6 | 22 | 43 |
 | nyt | 0 | 1 | 20 | 39 |
 
 # Shown Order
@@ -2271,3 +2271,4 @@
 - **Apr 25, 08:19 PM** - Sightings of Meteors Surge, and Scientists Aren’t Sure Why (nyt)
 - **Apr 25, 08:54 PM** - Artemis spacesuit development risks further delays (spacenews)
 - **Apr 25, 09:29 PM** - Sightings of Meteors Surge, and Scientists Aren’t Sure Why (nyt)
+- **Apr 25, 10:04 PM** - Astrobotic tests advanced rocket engine (spacenews)
