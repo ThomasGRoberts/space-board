@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 9 | 21 | 42 |
+| spacenews | 3 | 9 | 22 | 43 |
 | nyt | 0 | 1 | 20 | 39 |
 
 # Shown Order
@@ -2252,3 +2252,4 @@
 - **Apr 25, 09:14 AM** - ‘Earthset’ Is Captured on Video for First Time (nyt)
 - **Apr 25, 09:49 AM** - Electron launches Japanese cubesats (spacenews)
 - **Apr 25, 10:24 AM** - Where Are All These Meteors Coming From? (nyt)
+- **Apr 25, 10:59 AM** - Space Force awards up to $3.2 billion for Golden Dome interceptor prototypes (spacenews)
