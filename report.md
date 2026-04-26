@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 5 | 21 | 42 |
-| nyt | 0 | 1 | 20 | 40 |
+| spacenews | 2 | 5 | 22 | 43 |
+| nyt | 0 | 1 | 19 | 39 |
 
 # Shown Order
 
@@ -2267,3 +2267,4 @@
 - **Apr 25, 11:14 PM** - Falcon 9 launches final GPS 3 satellite into orbit for U.S. Space Force (spacenews)
 - **Apr 25, 11:49 PM** - NASA reserves science payload space for Mars telecommunications mission (spacenews)
 - **Apr 26, 12:24 AM** - Sightings of Meteors Surge, and Scientists Aren’t Sure Why (nyt)
+- **Apr 26, 12:59 AM** - Pentagon officially ends OCX program, citing risk and delays (spacenews)
