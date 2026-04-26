@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 21 | 42 |
-| nyt | 0 | 0 | 20 | 40 |
+| nyt | 0 | 0 | 21 | 41 |
 
 # Shown Order
 
@@ -2296,3 +2296,4 @@
 - **Apr 26, 04:09 PM** - Pentagon officially ends OCX program, citing risk and delays (spacenews)
 - **Apr 26, 04:44 PM** - Sightings of Meteors Surge, and Scientists Aren’t Sure Why (nyt)
 - **Apr 26, 05:19 PM** - NASA sets early September launch date for Roman Space Telescope (spacenews)
+- **Apr 26, 05:54 PM** - Dark Skies and Dark Energy Converge in West Texas (nyt)
