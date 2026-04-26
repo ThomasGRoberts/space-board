@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 5 | 21 | 42 |
+| spacenews | 2 | 5 | 22 | 43 |
 | nyt | 0 | 1 | 20 | 40 |
 
 # Shown Order
@@ -2281,3 +2281,4 @@
 - **Apr 26, 07:24 AM** - Where Are All These Meteors Coming From? (nyt)
 - **Apr 26, 07:59 AM** - SpaceX wins $57 million U.S. military contract for satellite crosslink demo (spacenews)
 - **Apr 26, 08:34 AM** - Musk’s SpaceX Goals Shift Ahead of Its I.P.O. (nyt)
+- **Apr 26, 09:09 AM** - Falcon 9 launches final GPS 3 satellite into orbit for U.S. Space Force (spacenews)
