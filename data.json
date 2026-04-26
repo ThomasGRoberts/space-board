@@ -1,9 +1,33 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-04-25T00:04:40.140483+00:00",
-    "trigger_count": 2,
+    "last_run_datetime": "2026-04-26T00:04:26.333014+00:00",
+    "trigger_count": 3,
     "current_item_id": "3124fba14634c14ca0480f0d9516818f",
     "data": [
+        {
+            "id": "3124fba14634c14ca0480f0d9516818f",
+            "source": "spacenews",
+            "text": "NASA reserves science payload space for Mars telecommunications mission",
+            "source_link": "https://spacenews.com/nasa-reserves-science-payload-space-for-mars-telecommunications-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-25T23:49:14.386652Z",
+            "shown_at": [
+                "2026-04-25T23:49:15.250487Z"
+            ]
+        },
+        {
+            "id": "cd393acf729f0d609c5fa8b99587958c",
+            "source": "spacenews",
+            "text": "Space Force faces surge in demand for heavy-lift launches",
+            "source_link": "https://spacenews.com/space-force-faces-surge-in-demand-for-heavy-lift-launches/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-25T16:14:02.803968Z",
+            "shown_at": [
+                "2026-04-25T16:14:03.665737Z"
+            ]
+        },
         {
             "id": "fda44d4005440fa2780b2ecfa562e3dc",
             "source": "spacenews",
@@ -7737,61 +7761,6 @@
                 "2026-02-26T20:39:16.497330Z",
                 "2026-03-04T15:14:17.198274Z",
                 "2026-03-05T17:34:31.283956Z"
-            ]
-        },
-        {
-            "id": "359adf438d7a679856540e2fca1ef495",
-            "source": "spacenews",
-            "text": "Airbus and Leonardo report increased space revenues for 2025",
-            "source_link": "https://spacenews.com/airbus-and-leonardo-report-increased-space-revenues-for-2025/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-26T19:30:10.686576Z",
-            "shown_at": [
-                "2026-02-26T19:30:11.838780Z",
-                "2026-03-04T03:24:18.663608Z"
-            ]
-        },
-        {
-            "id": "b46392beffd1a6c3386da5fbe7f84c67",
-            "source": "spacenews",
-            "text": "Golden Dome to require unprecedented coordination between U.S. combatant commands",
-            "source_link": "https://spacenews.com/golden-dome-to-require-unprecedented-coordination-between-u-s-combatant-commands/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-25T21:54:45.771693Z",
-            "shown_at": [
-                "2026-02-25T21:54:46.994956Z",
-                "2026-02-27T22:29:17.242561Z",
-                "2026-02-28T00:49:06.628795Z",
-                "2026-02-28T04:19:15.973145Z",
-                "2026-03-01T10:09:06.217587Z",
-                "2026-03-01T11:19:23.236934Z",
-                "2026-03-03T00:09:17.341575Z"
-            ]
-        },
-        {
-            "id": "cd393acf729f0d609c5fa8b99587958c",
-            "source": "spacenews",
-            "text": "Space Force faces surge in demand for heavy-lift launches",
-            "source_link": "https://spacenews.com/space-force-faces-surge-in-demand-for-heavy-lift-launches/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-25T16:14:02.803968Z",
-            "shown_at": [
-                "2026-04-25T16:14:03.665737Z"
-            ]
-        },
-        {
-            "id": "3124fba14634c14ca0480f0d9516818f",
-            "source": "spacenews",
-            "text": "NASA reserves science payload space for Mars telecommunications mission",
-            "source_link": "https://spacenews.com/nasa-reserves-science-payload-space-for-mars-telecommunications-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-25T23:49:14.386652Z",
-            "shown_at": [
-                "2026-04-25T23:49:15.250487Z"
             ]
         }
     ]
