@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 21 | 42 |
+| spacenews | 2 | 3 | 22 | 43 |
 | nyt | 0 | 0 | 20 | 40 |
 
 # Shown Order
@@ -2303,3 +2303,4 @@
 - **Apr 26, 08:14 PM** - Dark Skies and Dark Energy Converge in West Texas (nyt)
 - **Apr 26, 08:49 PM** - Space Force faces surge in demand for heavy-lift launches (spacenews)
 - **Apr 26, 09:24 PM** - Where Are All These Meteors Coming From? (nyt)
+- **Apr 26, 09:59 PM** - The governance gap: Why orbital data centers need certification before they scale (spacenews)
