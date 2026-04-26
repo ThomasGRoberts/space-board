@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-26T00:04:26.333014+00:00",
-    "trigger_count": 6,
-    "current_item_id": "752c6320d5793589e16193e6dadb256f",
+    "trigger_count": 0,
+    "current_item_id": "747918cced39d777a6c1f89d854e4500",
     "data": [
         {
             "id": "3124fba14634c14ca0480f0d9516818f",
@@ -7778,6 +7778,18 @@
                 "2026-02-26T20:39:16.497330Z",
                 "2026-03-04T15:14:17.198274Z",
                 "2026-03-05T17:34:31.283956Z"
+            ]
+        },
+        {
+            "id": "747918cced39d777a6c1f89d854e4500",
+            "source": "spacenews",
+            "text": "China launches PRSC-EO3 for Pakistan, lofts internet test and environment monitoring satellites",
+            "source_link": "https://spacenews.com/china-launches-prsc-eo3-for-pakistan-lofts-internet-test-and-environment-monitoring-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-26T10:19:19.219647Z",
+            "shown_at": [
+                "2026-04-26T10:19:20.689828Z"
             ]
         }
     ]
