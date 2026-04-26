@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 22 | 43 |
-| nyt | 0 | 1 | 19 | 39 |
+| nyt | 0 | 1 | 20 | 40 |
 
 # Shown Order
 
@@ -2270,3 +2270,4 @@
 - **Apr 26, 12:59 AM** - Pentagon officially ends OCX program, citing risk and delays (spacenews)
 - **Apr 26, 01:34 AM** - Sightings of Meteors Surge, and Scientists Aren’t Sure Why (nyt)
 - **Apr 26, 02:09 AM** - Pentagon officially ends OCX program, citing risk and delays (spacenews)
+- **Apr 26, 02:44 AM** - Where Are All These Meteors Coming From? (nyt)
