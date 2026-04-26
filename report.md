@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 21 | 42 |
-| nyt | 0 | 0 | 20 | 40 |
+| nyt | 0 | 0 | 21 | 41 |
 
 # Shown Order
 
@@ -2300,3 +2300,4 @@
 - **Apr 26, 06:29 PM** - Commerce Department budget proposal would halt work on TraCSS (spacenews)
 - **Apr 26, 07:04 PM** - Musk’s SpaceX Goals Shift Ahead of Its I.P.O. (nyt)
 - **Apr 26, 07:39 PM** - SpaceX wins $57 million U.S. military contract for satellite crosslink demo (spacenews)
+- **Apr 26, 08:14 PM** - Dark Skies and Dark Energy Converge in West Texas (nyt)
