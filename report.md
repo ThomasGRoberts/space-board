@@ -2305,3 +2305,4 @@
 - **Apr 26, 09:24 PM** - Where Are All These Meteors Coming From? (nyt)
 - **Apr 26, 09:59 PM** - The governance gap: Why orbital data centers need certification before they scale (spacenews)
 - **Apr 26, 10:39 PM** - ‘Earthset’ Is Captured on Video for First Time (nyt)
+- **Apr 26, 11:19 PM** - Artemis spacesuit development risks further delays (spacenews)
