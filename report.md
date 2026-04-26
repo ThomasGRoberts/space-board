@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 6 | 21 | 42 |
+| spacenews | 3 | 6 | 22 | 43 |
 | nyt | 0 | 0 | 20 | 40 |
 
 # Shown Order
@@ -2285,3 +2285,4 @@
 - **Apr 26, 09:44 AM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
 - **Apr 26, 10:19 AM** - China launches PRSC-EO3 for Pakistan, lofts internet test and environment monitoring satellites (spacenews)
 - **Apr 26, 10:54 AM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
+- **Apr 26, 11:28 AM** - Pentagon details funding strategy behind Trump’s proposed $1.45 trillion defense budget (spacenews)
