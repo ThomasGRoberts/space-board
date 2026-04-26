@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 21 | 42 |
-| nyt | 0 | 0 | 20 | 40 |
+| nyt | 0 | 0 | 21 | 41 |
 
 # Shown Order
 
@@ -2304,3 +2304,4 @@
 - **Apr 26, 08:49 PM** - Space Force faces surge in demand for heavy-lift launches (spacenews)
 - **Apr 26, 09:24 PM** - Where Are All These Meteors Coming From? (nyt)
 - **Apr 26, 09:59 PM** - The governance gap: Why orbital data centers need certification before they scale (spacenews)
+- **Apr 26, 10:39 PM** - ‘Earthset’ Is Captured on Video for First Time (nyt)
