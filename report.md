@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 4 | 22 | 42 |
-| nyt | 0 | 0 | 19 | 40 |
+| nyt | 0 | 0 | 20 | 41 |
 
 # Shown Order
 
@@ -2292,3 +2292,4 @@
 - **Apr 26, 01:49 PM** - The U.S. must defend the final frontier against cyberattacks (spacenews)
 - **Apr 26, 02:24 PM** - Where Are All These Meteors Coming From? (nyt)
 - **Apr 26, 02:59 PM** - China ramps up satellite production capacity amid constellation ambitions (spacenews)
+- **Apr 26, 03:34 PM** - Where Are All These Meteors Coming From? (nyt)
