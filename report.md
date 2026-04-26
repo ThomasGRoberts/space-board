@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 5 | 22 | 43 |
-| nyt | 0 | 1 | 19 | 39 |
+| spacenews | 2 | 5 | 22 | 42 |
+| nyt | 0 | 1 | 20 | 40 |
 
 # Shown Order
 
@@ -2276,3 +2276,4 @@
 - **Apr 26, 04:29 AM** - FCC throws out satellite spectrum challenges as D2D dealmaking heats up (spacenews)
 - **Apr 26, 05:04 AM** - Where Are All These Meteors Coming From? (nyt)
 - **Apr 26, 05:39 AM** - Electron launches Japanese cubesats (spacenews)
+- **Apr 26, 06:14 AM** - ‘Earthset’ Is Captured on Video for First Time (nyt)
