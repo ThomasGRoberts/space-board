@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 20 | 42 |
-| nyt | 0 | 0 | 20 | 40 |
+| spacenews | 2 | 4 | 20 | 41 |
+| nyt | 0 | 0 | 21 | 41 |
 
 # Shown Order
 
@@ -2333,3 +2333,4 @@
 - **Apr 27, 03:44 PM** - Pentagon details funding strategy behind Trump’s proposed $1.45 trillion defense budget (spacenews)
 - **Apr 27, 04:19 PM** - Where Are All These Meteors Coming From? (nyt)
 - **Apr 27, 04:54 PM** - The U.S. must defend the final frontier against cyberattacks (spacenews)
+- **Apr 27, 05:29 PM** - Sightings of Meteors Surge, and Scientists Aren’t Sure Why (nyt)
