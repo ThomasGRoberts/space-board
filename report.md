@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 20 | 41 |
+| spacenews | 2 | 4 | 21 | 42 |
 | nyt | 0 | 0 | 20 | 40 |
 
 # Shown Order
@@ -2334,3 +2334,4 @@
 - **Apr 27, 04:19 PM** - Where Are All These Meteors Coming From? (nyt)
 - **Apr 27, 04:54 PM** - The U.S. must defend the final frontier against cyberattacks (spacenews)
 - **Apr 27, 05:29 PM** - Sightings of Meteors Surge, and Scientists Aren’t Sure Why (nyt)
+- **Apr 27, 06:04 PM** - Space Force awards contracts to Leidos, MapLarge for ‘battle planning’ software (spacenews)
