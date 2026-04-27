@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-27T00:04:40.422297+00:00",
-    "trigger_count": 6,
-    "current_item_id": "752c6320d5793589e16193e6dadb256f",
+    "trigger_count": 0,
+    "current_item_id": "0af14863da77afeb19e32ec92f87f179",
     "data": [
         {
             "id": "747918cced39d777a6c1f89d854e4500",
@@ -7854,6 +7854,27 @@
             "shown_at": [
                 "2026-04-27T13:24:18.736293Z"
             ]
+        },
+        {
+            "id": "0af14863da77afeb19e32ec92f87f179",
+            "source": "spacenews",
+            "text": "Seraphim’s public trust seeks to raise up to $474 million",
+            "source_link": "https://spacenews.com/seraphims-public-trust-seeks-to-raise-up-to-474-million/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-27T19:19:08.705213Z",
+            "shown_at": [
+                "2026-04-27T19:19:09.540895Z"
+            ]
+        },
+        {
+            "id": "d147c659b2f8f9058f2b7e0ee022dce0",
+            "source": "spacenews",
+            "text": "Overview Energy to provide space-based solar power for Meta data centers",
+            "source_link": "https://spacenews.com/overview-energy-to-provide-space-based-solar-power-for-meta-data-centers/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-27T19:19:08.705315Z"
         }
     ]
 }
