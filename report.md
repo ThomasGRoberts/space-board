@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 5 | 20 | 42 |
+| spacenews | 2 | 5 | 21 | 42 |
 | nyt | 0 | 0 | 20 | 40 |
 
 # Shown Order
@@ -2328,3 +2328,4 @@
 - **Apr 27, 12:49 PM** - Where Are All These Meteors Coming From? (nyt)
 - **Apr 27, 01:24 PM** - Artemis 2 came home in triumph. Artemis 3 must survive the real test. (spacenews)
 - **Apr 27, 01:59 PM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
+- **Apr 27, 02:34 PM** - Commerce Department budget proposal would halt work on TraCSS (spacenews)
