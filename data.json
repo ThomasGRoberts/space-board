@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-27T00:04:40.422297+00:00",
-    "trigger_count": 6,
-    "current_item_id": "782afa06b0d2e35900a23c0ae574d941",
+    "trigger_count": 0,
+    "current_item_id": "6854824b83eeb39af1e7c39fe4721276",
     "data": [
         {
             "id": "747918cced39d777a6c1f89d854e4500",
@@ -7832,6 +7832,18 @@
             "fetched_datetime": "2026-04-27T12:14:33.270409Z",
             "shown_at": [
                 "2026-04-27T12:14:34.704672Z"
+            ]
+        },
+        {
+            "id": "6854824b83eeb39af1e7c39fe4721276",
+            "source": "spacenews",
+            "text": "Artemis 2 came home in triumph. Artemis 3 must survive the real test.",
+            "source_link": "https://spacenews.com/artemis-2-came-home-in-triumph-artemis-3-must-survive-the-real-test/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-27T13:24:17.745769Z",
+            "shown_at": [
+                "2026-04-27T13:24:18.736293Z"
             ]
         }
     ]

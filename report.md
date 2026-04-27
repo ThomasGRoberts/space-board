@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 4 | 20 | 41 |
+| spacenews | 2 | 5 | 21 | 42 |
 | nyt | 0 | 0 | 20 | 40 |
 
 # Shown Order
@@ -2326,3 +2326,4 @@
 - **Apr 27, 11:39 AM** - Musk’s SpaceX Goals Shift Ahead of Its I.P.O. (nyt)
 - **Apr 27, 12:14 PM** - FAA to begin collecting user fees for commercial launches and reentries (spacenews)
 - **Apr 27, 12:49 PM** - Where Are All These Meteors Coming From? (nyt)
+- **Apr 27, 01:24 PM** - Artemis 2 came home in triumph. Artemis 3 must survive the real test. (spacenews)
