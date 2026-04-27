@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 3 | 20 | 42 |
-| nyt | 0 | 0 | 20 | 39 |
+| nyt | 0 | 0 | 21 | 40 |
 
 # Shown Order
 
@@ -2323,3 +2323,4 @@
 - **Apr 27, 09:54 AM** - Northrop Grumman takes $71 million charge on Vulcan booster issue (spacenews)
 - **Apr 27, 10:29 AM** - Dark Skies and Dark Energy Converge in West Texas (nyt)
 - **Apr 27, 11:04 AM** - China backs orbital data center startup with $8.4 billion in credit lines (spacenews)
+- **Apr 27, 11:39 AM** - Musk’s SpaceX Goals Shift Ahead of Its I.P.O. (nyt)
