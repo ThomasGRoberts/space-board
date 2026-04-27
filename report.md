@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 20 | 42 |
-| nyt | 0 | 0 | 21 | 40 |
+| spacenews | 1 | 3 | 21 | 42 |
+| nyt | 0 | 0 | 20 | 40 |
 
 # Shown Order
 
@@ -2304,3 +2304,4 @@
 - **Apr 26, 10:39 PM** - ‘Earthset’ Is Captured on Video for First Time (nyt)
 - **Apr 26, 11:19 PM** - Artemis spacesuit development risks further delays (spacenews)
 - **Apr 26, 11:54 PM** - Sightings of Meteors Surge, and Scientists Aren’t Sure Why (nyt)
+- **Apr 27, 12:29 AM** - The U.S. must defend the final frontier against cyberattacks (spacenews)
