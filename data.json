@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-27T00:04:40.422297+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8fb35b2a43bf5c222709f32207195291",
+    "trigger_count": 0,
+    "current_item_id": "8e55b937a87d0b4823b1366af7485355",
     "data": [
         {
             "id": "747918cced39d777a6c1f89d854e4500",
@@ -7819,6 +7819,18 @@
                 "2026-02-28T01:59:11.555215Z",
                 "2026-03-03T04:14:12.543075Z",
                 "2026-03-03T20:44:12.717542Z"
+            ]
+        },
+        {
+            "id": "8e55b937a87d0b4823b1366af7485355",
+            "source": "spacenews",
+            "text": "FAA to begin collecting user fees for commercial launches and reentries",
+            "source_link": "https://spacenews.com/faa-to-begin-collecting-user-fees-for-commercial-launches-and-reentries/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-27T12:14:33.270409Z",
+            "shown_at": [
+                "2026-04-27T12:14:34.704672Z"
             ]
         }
     ]
