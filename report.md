@@ -8,7 +8,6 @@
 # Shown Order
 
 - **Feb 26, 08:04 PM** - Sorry, SpaceX: It’s Getting Too Crowded Up There (nyt)
-- **Feb 26, 08:39 PM** - NordSpace founder backs Wyvern with new Canada-focused venture arm (spacenews)
 - **Feb 26, 09:14 PM** - Sierra Space names Dan Jablonsky CEO (spacenews)
 - **Feb 26, 09:49 PM** - CesiumAstro acquires Vidrovr to embed AI in communications systems (spacenews)
 - **Feb 26, 10:29 PM** - Phantom Space reclaims former Vector launch technology (spacenews)
@@ -157,7 +156,6 @@
 - **Mar 04, 01:29 PM** - SLS upper stage helium flow problem fixed (spacenews)
 - **Mar 04, 02:04 PM** - Reliable space rescue is a prerequisite for continued economic opportunity in space and we have a long way to go (spacenews)
 - **Mar 04, 02:39 PM** - Experiment Shows Possibility of Martian Microbes Hitching a Ride to Earth (nyt)
-- **Mar 04, 03:14 PM** - NordSpace founder backs Wyvern with new Canada-focused venture arm (spacenews)
 - **Mar 04, 03:49 PM** - Experiment Shows Possibility of Martian Microbes Hitching a Ride to Earth (nyt)
 - **Mar 04, 04:24 PM** - Return of the (space) SPAC (spacenews)
 - **Mar 04, 04:59 PM** - Mutable Tactics raises $2.1 million for AI drone coordination in satellite-denied environments (spacenews)
@@ -199,7 +197,6 @@
 - **Mar 05, 02:49 PM** - Sierra Space raises $550 million in Series C funding (spacenews)
 - **Mar 05, 03:24 PM** - Unlocking AI in space: the case for greater industry and space agency collaboration (spacenews)
 - **Mar 05, 03:59 PM** - Blood Moon Total Lunar Eclipse 2026: Time and Visibility Guide (nyt)
-- **Mar 05, 05:34 PM** - NordSpace founder backs Wyvern with new Canada-focused venture arm (spacenews)
 - **Mar 05, 06:09 PM** - Space X Wants to Launch 1 Million Satellites, but Is There Room?  (nyt)
 - **Mar 05, 06:44 PM** - When space is hot, Washington holds a match (spacenews)
 - **Mar 05, 07:19 PM** - Blood Moon Lunar Eclipse 2026: Time and Visibility Guide (nyt)

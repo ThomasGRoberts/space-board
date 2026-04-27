@@ -1,9 +1,21 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-04-26T00:04:26.333014+00:00",
-    "trigger_count": 1,
+    "last_run_datetime": "2026-04-27T00:04:40.422297+00:00",
+    "trigger_count": 2,
     "current_item_id": "a92f4c31f9bd97abf0f380623e28d7a7",
     "data": [
+        {
+            "id": "747918cced39d777a6c1f89d854e4500",
+            "source": "spacenews",
+            "text": "China launches PRSC-EO3 for Pakistan, lofts internet test and environment monitoring satellites",
+            "source_link": "https://spacenews.com/china-launches-prsc-eo3-for-pakistan-lofts-internet-test-and-environment-monitoring-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-26T10:19:19.219647Z",
+            "shown_at": [
+                "2026-04-26T10:19:20.689828Z"
+            ]
+        },
         {
             "id": "3124fba14634c14ca0480f0d9516818f",
             "source": "spacenews",
@@ -7787,32 +7799,6 @@
                 "2026-02-28T01:59:11.555215Z",
                 "2026-03-03T04:14:12.543075Z",
                 "2026-03-03T20:44:12.717542Z"
-            ]
-        },
-        {
-            "id": "1e609b72e3003b5121cd130cb1c15f9b",
-            "source": "spacenews",
-            "text": "NordSpace founder backs Wyvern with new Canada-focused venture arm",
-            "source_link": "https://spacenews.com/nordspace-founder-backs-wyvern-with-new-canada-focused-venture-arm/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-26T19:30:10.686652Z",
-            "shown_at": [
-                "2026-02-26T20:39:16.497330Z",
-                "2026-03-04T15:14:17.198274Z",
-                "2026-03-05T17:34:31.283956Z"
-            ]
-        },
-        {
-            "id": "747918cced39d777a6c1f89d854e4500",
-            "source": "spacenews",
-            "text": "China launches PRSC-EO3 for Pakistan, lofts internet test and environment monitoring satellites",
-            "source_link": "https://spacenews.com/china-launches-prsc-eo3-for-pakistan-lofts-internet-test-and-environment-monitoring-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-26T10:19:19.219647Z",
-            "shown_at": [
-                "2026-04-26T10:19:20.689828Z"
             ]
         }
     ]
