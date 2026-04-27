@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 20 | 42 |
+| spacenews | 1 | 3 | 21 | 42 |
 | nyt | 0 | 0 | 20 | 40 |
 
 # Shown Order
@@ -2320,3 +2320,4 @@
 - **Apr 27, 08:09 AM** - Where Are All These Meteors Coming From? (nyt)
 - **Apr 27, 08:44 AM** - SpaceX wins $57 million U.S. military contract for satellite crosslink demo (spacenews)
 - **Apr 27, 09:19 AM** - ‘Earthset’ Is Captured on Video for First Time (nyt)
+- **Apr 27, 09:54 AM** - Northrop Grumman takes $71 million charge on Vulcan booster issue (spacenews)
