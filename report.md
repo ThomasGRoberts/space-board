@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 21 | 42 |
-| nyt | 0 | 0 | 20 | 40 |
+| spacenews | 1 | 3 | 20 | 42 |
+| nyt | 0 | 0 | 21 | 40 |
 
 # Shown Order
 
@@ -2313,3 +2313,4 @@
 - **Apr 27, 03:59 AM** - Latvia joins the Artemis Accords (spacenews)
 - **Apr 27, 04:34 AM** - Dark Skies and Dark Energy Converge in West Texas (nyt)
 - **Apr 27, 05:09 AM** - Commerce Department budget proposal would halt work on TraCSS (spacenews)
+- **Apr 27, 05:44 AM** - Musk’s SpaceX Goals Shift Ahead of Its I.P.O. (nyt)
