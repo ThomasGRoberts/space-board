@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 20 | 41 |
+| spacenews | 1 | 3 | 21 | 42 |
 | nyt | 0 | 0 | 20 | 40 |
 
 # Shown Order
@@ -2306,3 +2306,4 @@
 - **Apr 26, 11:54 PM** - Sightings of Meteors Surge, and Scientists Aren’t Sure Why (nyt)
 - **Apr 27, 12:29 AM** - The U.S. must defend the final frontier against cyberattacks (spacenews)
 - **Apr 27, 01:04 AM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
+- **Apr 27, 01:39 AM** - Latvia joins the Artemis Accords (spacenews)
