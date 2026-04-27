@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 20 | 41 |
+| spacenews | 1 | 3 | 21 | 42 |
 | nyt | 0 | 0 | 20 | 40 |
 
 # Shown Order
@@ -2314,3 +2314,4 @@
 - **Apr 27, 04:34 AM** - Dark Skies and Dark Energy Converge in West Texas (nyt)
 - **Apr 27, 05:09 AM** - Commerce Department budget proposal would halt work on TraCSS (spacenews)
 - **Apr 27, 05:44 AM** - Musk’s SpaceX Goals Shift Ahead of Its I.P.O. (nyt)
+- **Apr 27, 06:24 AM** - Pentagon closes $1 billion investment in L3Harris missile unit (spacenews)
