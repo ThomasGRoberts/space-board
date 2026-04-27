@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 6 | 20 | 41 |
+| spacenews | 4 | 6 | 21 | 42 |
 | nyt | 0 | 0 | 20 | 40 |
 
 # Shown Order
@@ -2341,3 +2341,4 @@
 - **Apr 27, 08:29 PM** - Sightings of Meteors Surge, and Scientists Aren’t Sure Why (nyt)
 - **Apr 27, 09:04 PM** - Atmos Space Cargo raises $30 million for reentry missions (spacenews)
 - **Apr 27, 09:39 PM** - Where Are All These Meteors Coming From? (nyt)
+- **Apr 27, 10:14 PM** - China backs orbital data center startup with $8.4 billion in credit lines (spacenews)
