@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-27T00:04:40.422297+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0af14863da77afeb19e32ec92f87f179",
+    "trigger_count": 0,
+    "current_item_id": "d147c659b2f8f9058f2b7e0ee022dce0",
     "data": [
         {
             "id": "747918cced39d777a6c1f89d854e4500",
@@ -7872,9 +7872,12 @@
             "source": "spacenews",
             "text": "Overview Energy to provide space-based solar power for Meta data centers",
             "source_link": "https://spacenews.com/overview-energy-to-provide-space-based-solar-power-for-meta-data-centers/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-04-27T19:19:08.705315Z"
+            "fetched_datetime": "2026-04-27T19:19:08.705315Z",
+            "shown_at": [
+                "2026-04-27T19:54:17.936142Z"
+            ]
         }
     ]
 }

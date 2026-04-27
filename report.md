@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 6 | 20 | 41 |
+| spacenews | 4 | 6 | 21 | 42 |
 | nyt | 0 | 0 | 20 | 40 |
 
 # Shown Order
@@ -2337,3 +2337,4 @@
 - **Apr 27, 06:04 PM** - Space Force awards contracts to Leidos, MapLarge for ‘battle planning’ software (spacenews)
 - **Apr 27, 06:44 PM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
 - **Apr 27, 07:19 PM** - Seraphim’s public trust seeks to raise up to $474 million (spacenews)
+- **Apr 27, 07:54 PM** - Overview Energy to provide space-based solar power for Meta data centers (spacenews)
