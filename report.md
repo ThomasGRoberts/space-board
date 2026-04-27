@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 5 | 20 | 42 |
+| spacenews | 2 | 5 | 21 | 42 |
 | nyt | 0 | 0 | 20 | 40 |
 
 # Shown Order
@@ -2330,3 +2330,4 @@
 - **Apr 27, 01:59 PM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
 - **Apr 27, 02:34 PM** - Commerce Department budget proposal would halt work on TraCSS (spacenews)
 - **Apr 27, 03:09 PM** - Sightings of Meteors Surge, and Scientists Aren’t Sure Why (nyt)
+- **Apr 27, 03:44 PM** - Pentagon details funding strategy behind Trump’s proposed $1.45 trillion defense budget (spacenews)
