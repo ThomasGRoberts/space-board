@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 20 | 41 |
+| spacenews | 1 | 3 | 21 | 42 |
 | nyt | 0 | 0 | 20 | 40 |
 
 # Shown Order
@@ -2310,3 +2310,4 @@
 - **Apr 27, 02:14 AM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
 - **Apr 27, 02:49 AM** - Astrobotic tests advanced rocket engine (spacenews)
 - **Apr 27, 03:24 AM** - Dark Skies and Dark Energy Converge in West Texas (nyt)
+- **Apr 27, 03:59 AM** - Latvia joins the Artemis Accords (spacenews)
