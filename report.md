@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 20 | 41 |
-| nyt | 0 | 0 | 20 | 40 |
+| nyt | 0 | 0 | 21 | 41 |
 
 # Shown Order
 
@@ -2335,3 +2335,4 @@
 - **Apr 27, 04:54 PM** - The U.S. must defend the final frontier against cyberattacks (spacenews)
 - **Apr 27, 05:29 PM** - Sightings of Meteors Surge, and Scientists Aren’t Sure Why (nyt)
 - **Apr 27, 06:04 PM** - Space Force awards contracts to Leidos, MapLarge for ‘battle planning’ software (spacenews)
+- **Apr 27, 06:44 PM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
