@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 4 | 20 | 42 |
-| nyt | 0 | 0 | 20 | 40 |
+| nyt | 0 | 0 | 21 | 40 |
 
 # Shown Order
 
@@ -2325,3 +2325,4 @@
 - **Apr 27, 11:04 AM** - China backs orbital data center startup with $8.4 billion in credit lines (spacenews)
 - **Apr 27, 11:39 AM** - Musk’s SpaceX Goals Shift Ahead of Its I.P.O. (nyt)
 - **Apr 27, 12:14 PM** - FAA to begin collecting user fees for commercial launches and reentries (spacenews)
+- **Apr 27, 12:49 PM** - Where Are All These Meteors Coming From? (nyt)
