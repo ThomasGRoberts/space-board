@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-28T00:04:36.676174+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3adfaaac3716771016c258827cb321a3",
+    "trigger_count": 0,
+    "current_item_id": "18e9f7576ab8387fe17a87f6382a4fa5",
     "data": [
         {
             "id": "d147c659b2f8f9058f2b7e0ee022dce0",
@@ -7922,9 +7922,12 @@
             "source": "spacenews",
             "text": "Pentagon budget affirms Space Force role tracking moving targets from orbit",
             "source_link": "https://spacenews.com/pentagon-budget-affirms-space-force-role-tracking-moving-targets-from-orbit/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-04-28T20:34:44.255995Z"
+            "fetched_datetime": "2026-04-28T20:34:44.255995Z",
+            "shown_at": [
+                "2026-04-28T21:09:18.269526Z"
+            ]
         }
     ]
 }

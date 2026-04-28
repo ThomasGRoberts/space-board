@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 10 | 22 | 42 |
+| spacenews | 6 | 10 | 22 | 43 |
 | nyt | 0 | 0 | 19 | 39 |
 
 # Shown Order
@@ -2365,3 +2365,4 @@
 - **Apr 28, 07:24 PM** - Startup targets radio segment of Golden Dome missile-defense network (spacenews)
 - **Apr 28, 07:59 PM** - Dark Skies and Dark Energy Converge in West Texas (nyt)
 - **Apr 28, 08:34 PM** - Space Foundation Premieres National Space Day Video May 1 (spacenews)
+- **Apr 28, 09:09 PM** - Pentagon budget affirms Space Force role tracking moving targets from orbit (spacenews)
