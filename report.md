@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 5 | 21 | 41 |
-| nyt | 0 | 0 | 20 | 40 |
+| spacenews | 7 | 7 | 22 | 42 |
+| nyt | 0 | 0 | 19 | 40 |
 
 # Shown Order
 
@@ -2347,3 +2347,4 @@
 - **Apr 28, 08:49 AM** - Overview Energy to provide space-based solar power for Meta data centers (spacenews)
 - **Apr 28, 09:24 AM** - Startup targets radio segment of Golden Dome missile-defense network (spacenews)
 - **Apr 28, 09:59 AM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
+- **Apr 28, 10:34 AM** - True Anomaly raises $650 million, reaching $2.2 billion valuation (spacenews)
