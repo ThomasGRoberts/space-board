@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 7 | 22 | 42 |
-| nyt | 0 | 0 | 18 | 39 |
+| nyt | 0 | 0 | 19 | 40 |
 
 # Shown Order
 
@@ -2349,3 +2349,4 @@
 - **Apr 28, 09:59 AM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
 - **Apr 28, 10:34 AM** - True Anomaly raises $650 million, reaching $2.2 billion valuation (spacenews)
 - **Apr 28, 11:09 AM** - Corrosion problem affects Gateway and commercial space station modules (spacenews)
+- **Apr 28, 11:44 AM** - Musk’s SpaceX Goals Shift Ahead of Its I.P.O. (nyt)
