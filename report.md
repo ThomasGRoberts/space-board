@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 8 | 22 | 42 |
-| nyt | 0 | 0 | 19 | 39 |
+| spacenews | 4 | 8 | 21 | 42 |
+| nyt | 0 | 0 | 20 | 40 |
 
 # Shown Order
 
@@ -2363,3 +2363,4 @@
 - **Apr 28, 06:09 PM** - China launches PRSC-EO3 for Pakistan, lofts internet test and environment monitoring satellites (spacenews)
 - **Apr 28, 06:44 PM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
 - **Apr 28, 07:24 PM** - Startup targets radio segment of Golden Dome missile-defense network (spacenews)
+- **Apr 28, 07:59 PM** - Dark Skies and Dark Energy Converge in West Texas (nyt)
