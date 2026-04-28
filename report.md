@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 10 | 22 | 43 |
-| nyt | 0 | 0 | 18 | 38 |
+| nyt | 0 | 0 | 19 | 39 |
 
 # Shown Order
 
@@ -2368,3 +2368,4 @@
 - **Apr 28, 09:09 PM** - Pentagon budget affirms Space Force role tracking moving targets from orbit (spacenews)
 - **Apr 28, 09:44 PM** - Dark Skies and Dark Energy Converge in West Texas (nyt)
 - **Apr 28, 10:19 PM** - Commerce Department budget proposal would halt work on TraCSS (spacenews)
+- **Apr 28, 10:54 PM** - Musk’s SpaceX Goals Shift Ahead of Its I.P.O. (nyt)
