@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 8 | 22 | 42 |
-| nyt | 0 | 0 | 19 | 39 |
+| nyt | 0 | 0 | 19 | 40 |
 
 # Shown Order
 
@@ -2359,3 +2359,4 @@
 - **Apr 28, 03:49 PM** - Trump picks industry executive Roger Mason to lead National Reconnaissance Office (spacenews)
 - **Apr 28, 04:24 PM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
 - **Apr 28, 04:59 PM** - EraDrive and Northrop Grumman  collaborate on AI-enabled autonomy (spacenews)
+- **Apr 28, 05:34 PM** - Musk’s SpaceX Goals Shift Ahead of Its I.P.O. (nyt)
