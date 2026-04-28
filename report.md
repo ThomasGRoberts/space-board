@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 5 | 21 | 41 |
+| spacenews | 4 | 5 | 21 | 42 |
 | nyt | 0 | 0 | 20 | 40 |
 
 # Shown Order
@@ -2344,3 +2344,4 @@
 - **Apr 28, 07:04 AM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
 - **Apr 28, 07:39 AM** - Commerce Department budget proposal would halt work on TraCSS (spacenews)
 - **Apr 28, 08:14 AM** - Where Are All These Meteors Coming From? (nyt)
+- **Apr 28, 08:49 AM** - Overview Energy to provide space-based solar power for Meta data centers (spacenews)
