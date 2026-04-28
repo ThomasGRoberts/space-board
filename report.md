@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 7 | 22 | 42 |
-| nyt | 0 | 0 | 19 | 39 |
+| nyt | 0 | 0 | 19 | 40 |
 
 # Shown Order
 
@@ -2353,3 +2353,4 @@
 - **Apr 28, 12:19 PM** - Seraphim’s public trust seeks to raise up to $474 million (spacenews)
 - **Apr 28, 12:54 PM** - Sightings of Meteors Surge, and Scientists Aren’t Sure Why (nyt)
 - **Apr 28, 01:29 PM** - Overview Energy to provide space-based solar power for Meta data centers (spacenews)
+- **Apr 28, 02:04 PM** - Musk’s SpaceX Goals Shift Ahead of Its I.P.O. (nyt)
