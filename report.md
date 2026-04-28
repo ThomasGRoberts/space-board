@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 7 | 22 | 42 |
-| nyt | 0 | 0 | 18 | 39 |
+| nyt | 0 | 0 | 19 | 40 |
 
 # Shown Order
 
@@ -2357,3 +2357,4 @@
 - **Apr 28, 02:39 PM** - Space Force awards contracts to Leidos, MapLarge for ‘battle planning’ software (spacenews)
 - **Apr 28, 03:14 PM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
 - **Apr 28, 03:49 PM** - Trump picks industry executive Roger Mason to lead National Reconnaissance Office (spacenews)
+- **Apr 28, 04:24 PM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
