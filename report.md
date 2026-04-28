@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 5 | 21 | 41 |
+| spacenews | 5 | 6 | 22 | 42 |
 | nyt | 0 | 0 | 19 | 40 |
 
 # Shown Order
@@ -2345,3 +2345,4 @@
 - **Apr 28, 07:39 AM** - Commerce Department budget proposal would halt work on TraCSS (spacenews)
 - **Apr 28, 08:14 AM** - Where Are All These Meteors Coming From? (nyt)
 - **Apr 28, 08:49 AM** - Overview Energy to provide space-based solar power for Meta data centers (spacenews)
+- **Apr 28, 09:24 AM** - Startup targets radio segment of Golden Dome missile-defense network (spacenews)

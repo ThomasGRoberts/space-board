@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-28T00:04:36.676174+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d147c659b2f8f9058f2b7e0ee022dce0",
+    "trigger_count": 0,
+    "current_item_id": "28f510014ac0d0244a180f17405232e6",
     "data": [
         {
             "id": "d147c659b2f8f9058f2b7e0ee022dce0",
@@ -7840,6 +7840,18 @@
                 "2026-03-04T08:49:10.658259Z",
                 "2026-03-04T11:09:03.709321Z",
                 "2026-03-05T03:14:30.448862Z"
+            ]
+        },
+        {
+            "id": "28f510014ac0d0244a180f17405232e6",
+            "source": "spacenews",
+            "text": "Startup targets radio segment of Golden Dome missile-defense network",
+            "source_link": "https://spacenews.com/startup-targets-radio-segment-of-golden-dome-missile-defense-network/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-28T09:24:16.850177Z",
+            "shown_at": [
+                "2026-04-28T09:24:17.654107Z"
             ]
         }
     ]
