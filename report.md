@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 7 | 22 | 42 |
+| spacenews | 6 | 7 | 22 | 43 |
 | nyt | 0 | 0 | 19 | 39 |
 
 # Shown Order
@@ -2350,3 +2350,4 @@
 - **Apr 28, 10:34 AM** - True Anomaly raises $650 million, reaching $2.2 billion valuation (spacenews)
 - **Apr 28, 11:09 AM** - Corrosion problem affects Gateway and commercial space station modules (spacenews)
 - **Apr 28, 11:44 AM** - Musk’s SpaceX Goals Shift Ahead of Its I.P.O. (nyt)
+- **Apr 28, 12:19 PM** - Seraphim’s public trust seeks to raise up to $474 million (spacenews)
