@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-28T00:04:36.676174+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ac39b1a2da52f31fa9a0c23321d3ce03",
+    "trigger_count": 0,
+    "current_item_id": "3adfaaac3716771016c258827cb321a3",
     "data": [
         {
             "id": "d147c659b2f8f9058f2b7e0ee022dce0",
@@ -7904,6 +7904,27 @@
             "shown_at": [
                 "2026-04-28T16:59:31.504109Z"
             ]
+        },
+        {
+            "id": "3adfaaac3716771016c258827cb321a3",
+            "source": "spacenews",
+            "text": "Space Foundation Premieres National Space Day Video May 1",
+            "source_link": "https://spacenews.com/space-foundation-premieres-national-space-day-video-may-1/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-28T20:34:44.255919Z",
+            "shown_at": [
+                "2026-04-28T20:34:45.131445Z"
+            ]
+        },
+        {
+            "id": "18e9f7576ab8387fe17a87f6382a4fa5",
+            "source": "spacenews",
+            "text": "Pentagon budget affirms Space Force role tracking moving targets from orbit",
+            "source_link": "https://spacenews.com/pentagon-budget-affirms-space-force-role-tracking-moving-targets-from-orbit/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-28T20:34:44.255995Z"
         }
     ]
 }
