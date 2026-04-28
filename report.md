@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 5 | 21 | 41 |
+| spacenews | 4 | 5 | 21 | 42 |
 | nyt | 0 | 0 | 20 | 40 |
 
 # Shown Order
@@ -2340,3 +2340,4 @@
 - **Apr 28, 04:44 AM** - Where Are All These Meteors Coming From? (nyt)
 - **Apr 28, 05:19 AM** - The governance gap: Why orbital data centers need certification before they scale (spacenews)
 - **Apr 28, 05:54 AM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
+- **Apr 28, 06:29 AM** - Hybridizing nuclear command, control and communications systems puts space infrastructure at risk (spacenews)
