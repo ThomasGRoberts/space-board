@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 5 | 21 | 41 |
+| spacenews | 4 | 5 | 21 | 42 |
 | nyt | 0 | 0 | 20 | 40 |
 
 # Shown Order
@@ -2330,3 +2330,4 @@
 - **Apr 27, 10:49 PM** - Dark Skies and Dark Energy Converge in West Texas (nyt)
 - **Apr 27, 11:24 PM** - China backs orbital data center startup with $8.4 billion in credit lines (spacenews)
 - **Apr 27, 11:59 PM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
+- **Apr 28, 12:34 AM** - The governance gap: Why orbital data centers need certification before they scale (spacenews)
