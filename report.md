@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 11 | 21 | 43 |
-| nyt | 0 | 0 | 20 | 38 |
+| nyt | 0 | 0 | 20 | 39 |
 
 # Shown Order
 
@@ -2347,3 +2347,4 @@
 - **Apr 29, 11:09 AM** - Appropriators reject NASA budget proposal (spacenews)
 - **Apr 29, 11:44 AM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
 - **Apr 29, 12:19 PM** - Space Force awards BAE Systems $11.8 million to demo satellite communications for Golden Dome (spacenews)
+- **Apr 29, 12:54 PM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
