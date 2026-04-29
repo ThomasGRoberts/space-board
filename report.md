@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 10 | 22 | 43 |
-| nyt | 0 | 0 | 19 | 39 |
+| nyt | 0 | 0 | 20 | 39 |
 
 # Shown Order
 
@@ -2337,3 +2337,4 @@
 - **Apr 29, 05:19 AM** - FCC clears AST SpaceMobile constellation as launch setback clouds ramp-up (spacenews)
 - **Apr 29, 05:54 AM** - Musk’s SpaceX Goals Shift Ahead of Its I.P.O. (nyt)
 - **Apr 29, 06:29 AM** - The governance gap: Why orbital data centers need certification before they scale (spacenews)
+- **Apr 29, 07:04 AM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
