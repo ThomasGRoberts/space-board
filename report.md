@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 11 | 22 | 44 |
-| nyt | 0 | 0 | 19 | 38 |
+| spacenews | 7 | 11 | 22 | 43 |
+| nyt | 0 | 0 | 20 | 39 |
 
 # Shown Order
 
@@ -2359,3 +2359,4 @@
 - **Apr 29, 06:09 PM** - SpaceX wins $57 million U.S. military contract for satellite crosslink demo (spacenews)
 - **Apr 29, 06:44 PM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
 - **Apr 29, 07:19 PM** - FCC throws out satellite spectrum challenges as D2D dealmaking heats up (spacenews)
+- **Apr 29, 07:54 PM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
