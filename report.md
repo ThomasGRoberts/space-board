@@ -2340,3 +2340,4 @@
 - **Apr 29, 07:04 AM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
 - **Apr 29, 07:39 AM** - FAA to begin collecting user fees for commercial launches and reentries (spacenews)
 - **Apr 29, 08:14 AM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
+- **Apr 29, 08:49 AM** - Pentagon closes $1 billion investment in L3Harris missile unit (spacenews)
