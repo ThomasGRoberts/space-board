@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-29T00:04:59.669858+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7927d7fc16106f6a4a788033a589150f",
+    "trigger_count": 0,
+    "current_item_id": "b8dc6c5c22ee8607ae5f2126d18436bc",
     "data": [
         {
             "id": "18e9f7576ab8387fe17a87f6382a4fa5",
@@ -7943,9 +7943,12 @@
             "source": "spacenews",
             "text": "May 13: Software Integration and Strategic Missile Defense",
             "source_link": "https://spacenews.com/software-integration-and-strategic-missile-defense-virtual-event/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-04-29T22:14:33.853145Z"
+            "fetched_datetime": "2026-04-29T22:14:33.853145Z",
+            "shown_at": [
+                "2026-04-29T22:49:20.601902Z"
+            ]
         }
     ]
 }
