@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-29T00:04:59.669858+00:00",
-    "trigger_count": 6,
-    "current_item_id": "fe8ab8c10587ec39ffc014cee12792ac",
+    "trigger_count": 0,
+    "current_item_id": "da31dd14172637a82504f65b9a474b44",
     "data": [
         {
             "id": "18e9f7576ab8387fe17a87f6382a4fa5",
@@ -7879,6 +7879,18 @@
             "fetched_datetime": "2026-04-29T14:39:24.885747Z",
             "shown_at": [
                 "2026-04-29T14:39:25.982770Z"
+            ]
+        },
+        {
+            "id": "da31dd14172637a82504f65b9a474b44",
+            "source": "spacenews",
+            "text": "Falcon Heavy launches final ViaSat-3 terabit-class satellite",
+            "source_link": "https://spacenews.com/falcon-heavy-launches-final-viasat-3-terabit-class-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-29T15:14:20.201116Z",
+            "shown_at": [
+                "2026-04-29T15:14:21.185127Z"
             ]
         }
     ]

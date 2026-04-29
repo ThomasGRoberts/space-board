@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 11 | 21 | 43 |
-| nyt | 0 | 0 | 20 | 38 |
+| spacenews | 7 | 12 | 22 | 44 |
+| nyt | 0 | 0 | 19 | 38 |
 
 # Shown Order
 
@@ -2351,3 +2351,4 @@
 - **Apr 29, 01:29 PM** - China launches PRSC-EO3 for Pakistan, lofts internet test and environment monitoring satellites (spacenews)
 - **Apr 29, 02:04 PM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
 - **Apr 29, 02:39 PM** - Revolutionizing global aerospace transportation (spacenews)
+- **Apr 29, 03:14 PM** - Falcon Heavy launches final ViaSat-3 terabit-class satellite (spacenews)
