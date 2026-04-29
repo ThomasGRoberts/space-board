@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 10 | 22 | 43 |
-| nyt | 0 | 0 | 19 | 38 |
+| nyt | 0 | 0 | 20 | 39 |
 
 # Shown Order
 
@@ -2335,3 +2335,4 @@
 - **Apr 29, 04:09 AM** - Astrobotic tests advanced rocket engine (spacenews)
 - **Apr 29, 04:44 AM** - Dark Skies and Dark Energy Converge in West Texas (nyt)
 - **Apr 29, 05:19 AM** - FCC clears AST SpaceMobile constellation as launch setback clouds ramp-up (spacenews)
+- **Apr 29, 05:54 AM** - Musk’s SpaceX Goals Shift Ahead of Its I.P.O. (nyt)
