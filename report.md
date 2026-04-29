@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 22 | 44 |
+| spacenews | 8 | 14 | 23 | 44 |
 | nyt | 0 | 0 | 19 | 38 |
 
 # Shown Order
@@ -2363,3 +2363,4 @@
 - **Apr 29, 08:29 PM** - Artemis 2 came home in triumph. Artemis 3 must survive the real test. (spacenews)
 - **Apr 29, 09:04 PM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
 - **Apr 29, 09:39 PM** - Space Force selects firms to build counter-surveillance payloads for satellites (spacenews)
+- **Apr 29, 10:14 PM** - ISS module cracking still unresolved despite stopping air leaks (spacenews)
