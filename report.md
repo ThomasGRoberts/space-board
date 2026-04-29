@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 10 | 22 | 43 |
-| nyt | 0 | 0 | 19 | 39 |
+| nyt | 0 | 0 | 20 | 39 |
 
 # Shown Order
 
@@ -2341,3 +2341,4 @@
 - **Apr 29, 07:39 AM** - FAA to begin collecting user fees for commercial launches and reentries (spacenews)
 - **Apr 29, 08:14 AM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
 - **Apr 29, 08:49 AM** - Pentagon closes $1 billion investment in L3Harris missile unit (spacenews)
+- **Apr 29, 09:24 AM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
