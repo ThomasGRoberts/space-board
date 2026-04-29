@@ -2338,3 +2338,4 @@
 - **Apr 29, 05:54 AM** - Musk’s SpaceX Goals Shift Ahead of Its I.P.O. (nyt)
 - **Apr 29, 06:29 AM** - The governance gap: Why orbital data centers need certification before they scale (spacenews)
 - **Apr 29, 07:04 AM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
+- **Apr 29, 07:39 AM** - FAA to begin collecting user fees for commercial launches and reentries (spacenews)
