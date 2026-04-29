@@ -2336,3 +2336,4 @@
 - **Apr 29, 04:44 AM** - Dark Skies and Dark Energy Converge in West Texas (nyt)
 - **Apr 29, 05:19 AM** - FCC clears AST SpaceMobile constellation as launch setback clouds ramp-up (spacenews)
 - **Apr 29, 05:54 AM** - Musk’s SpaceX Goals Shift Ahead of Its I.P.O. (nyt)
+- **Apr 29, 06:29 AM** - The governance gap: Why orbital data centers need certification before they scale (spacenews)
