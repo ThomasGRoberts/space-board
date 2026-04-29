@@ -1,9 +1,82 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-04-28T00:04:36.676174+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1d774497d68b7e30b910d20f7fc52992",
+    "last_run_datetime": "2026-04-29T00:04:59.669858+00:00",
+    "trigger_count": 0,
+    "current_item_id": "8fb35b2a43bf5c222709f32207195291",
     "data": [
+        {
+            "id": "18e9f7576ab8387fe17a87f6382a4fa5",
+            "source": "spacenews",
+            "text": "Pentagon budget affirms Space Force role tracking moving targets from orbit",
+            "source_link": "https://spacenews.com/pentagon-budget-affirms-space-force-role-tracking-moving-targets-from-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-28T20:34:44.255995Z",
+            "shown_at": [
+                "2026-04-28T21:09:18.269526Z"
+            ]
+        },
+        {
+            "id": "3adfaaac3716771016c258827cb321a3",
+            "source": "spacenews",
+            "text": "Space Foundation Premieres National Space Day Video May 1",
+            "source_link": "https://spacenews.com/space-foundation-premieres-national-space-day-video-may-1/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-28T20:34:44.255919Z",
+            "shown_at": [
+                "2026-04-28T20:34:45.131445Z"
+            ]
+        },
+        {
+            "id": "5de229d0644d5b9fa6ed9936e01b97c2",
+            "source": "spacenews",
+            "text": "EraDrive and Northrop Grumman  collaborate on AI-enabled autonomy",
+            "source_link": "https://spacenews.com/eradrive-and-northrop-grumman-collaborate-on-ai-enabled-autonomy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-28T16:59:30.514005Z",
+            "shown_at": [
+                "2026-04-28T16:59:31.504109Z"
+            ]
+        },
+        {
+            "id": "55294184357d233acbf45e84da43fb8f",
+            "source": "spacenews",
+            "text": "Corrosion problem affects Gateway and commercial space station modules",
+            "source_link": "https://spacenews.com/corrosion-problem-affects-gateway-and-commercial-space-station-modules/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-28T10:34:25.244452Z",
+            "shown_at": [
+                "2026-04-28T11:09:09.120026Z"
+            ]
+        },
+        {
+            "id": "311821138d02d7f096cae317594b000d",
+            "source": "spacenews",
+            "text": "True Anomaly raises $650 million, reaching $2.2 billion valuation",
+            "source_link": "https://spacenews.com/true-anomaly-raises-650-million-reaching-2-2-billion-valuation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-28T10:34:25.244379Z",
+            "shown_at": [
+                "2026-04-28T10:34:26.490811Z"
+            ]
+        },
+        {
+            "id": "28f510014ac0d0244a180f17405232e6",
+            "source": "spacenews",
+            "text": "Startup targets radio segment of Golden Dome missile-defense network",
+            "source_link": "https://spacenews.com/startup-targets-radio-segment-of-golden-dome-missile-defense-network/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-28T09:24:16.850177Z",
+            "shown_at": [
+                "2026-04-28T09:24:17.654107Z",
+                "2026-04-28T19:24:28.236095Z"
+            ]
+        },
         {
             "id": "d147c659b2f8f9058f2b7e0ee022dce0",
             "source": "spacenews",
@@ -445,7 +518,8 @@
                 "2026-04-28T11:44:13.394718Z",
                 "2026-04-28T14:04:47.278425Z",
                 "2026-04-28T17:34:13.480479Z",
-                "2026-04-28T22:54:30.330474Z"
+                "2026-04-28T22:54:30.330474Z",
+                "2026-04-29T00:05:05.710009Z"
             ]
         },
         {
@@ -7747,190 +7821,6 @@
             "shown_at": [
                 "2026-02-27T13:08:55.024216Z",
                 "2026-02-28T03:09:19.993899Z"
-            ]
-        },
-        {
-            "id": "e69011f1c64f34e5be534db8a36ad254",
-            "source": "spacenews",
-            "text": "China set for its first one-year human spaceflight mission, confirms Pakistani astronaut flight",
-            "source_link": "https://spacenews.com/china-set-for-its-first-one-year-human-spaceflight-mission-confirms-pakistani-astronaut-flight/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-27T10:14:25.665512Z",
-            "shown_at": [
-                "2026-02-27T10:14:26.691779Z",
-                "2026-02-28T05:29:13.195448Z",
-                "2026-02-28T06:39:12.823041Z",
-                "2026-03-04T09:59:48.144577Z"
-            ]
-        },
-        {
-            "id": "02b1f44e713758491e6fe42e88e23857",
-            "source": "nyt",
-            "text": "Sorry, SpaceX: It’s Getting Too Crowded Up There",
-            "source_link": "https://www.nytimes.com/2026/02/26/climate/spacex-climate-musk-orbiting-data-centers.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-26T20:04:39.906407Z",
-            "shown_at": [
-                "2026-02-26T20:04:41.033857Z",
-                "2026-02-27T05:29:17.833534Z",
-                "2026-02-27T06:44:27.269569Z",
-                "2026-02-27T10:49:27.819452Z",
-                "2026-02-28T04:54:55.423857Z",
-                "2026-02-28T14:14:16.160982Z",
-                "2026-02-28T15:24:21.623659Z",
-                "2026-02-28T18:19:07.247272Z",
-                "2026-02-28T20:39:06.767465Z",
-                "2026-03-01T18:54:20.633611Z",
-                "2026-03-01T21:19:13.281487Z",
-                "2026-03-01T22:29:12.825933Z",
-                "2026-03-02T03:24:14.495682Z",
-                "2026-03-02T05:45:12.709370Z",
-                "2026-03-02T06:54:10.726498Z",
-                "2026-03-02T12:54:06.784194Z",
-                "2026-03-02T17:44:41.936812Z",
-                "2026-03-02T18:54:24.258668Z",
-                "2026-03-02T23:34:33.142725Z",
-                "2026-03-03T23:05:21.162151Z",
-                "2026-03-04T00:24:20.978882Z",
-                "2026-03-04T20:04:46.814315Z",
-                "2026-03-05T10:29:17.593782Z"
-            ]
-        },
-        {
-            "id": "7529c0d334fa4c9bd2ec7ecfe9eceb65",
-            "source": "spacenews",
-            "text": "Seraphim closes second early-stage space fund above $100 million target",
-            "source_link": "https://spacenews.com/seraphim-closes-second-early-stage-space-fund-above-100-million-target/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-26T19:30:10.686961Z",
-            "shown_at": [
-                "2026-02-27T00:14:27.317838Z",
-                "2026-02-27T12:34:38.091339Z",
-                "2026-02-28T11:19:21.401295Z",
-                "2026-03-03T08:54:25.132780Z",
-                "2026-03-04T23:04:49.316378Z"
-            ]
-        },
-        {
-            "id": "03ae23297f72dc41a2f3621aee45b741",
-            "source": "spacenews",
-            "text": "Space Force halts Vulcan missions pending investigation into solid rocket issue",
-            "source_link": "https://spacenews.com/space-force-halts-vulcan-missions-pending-investigation-into-solid-rocket-issue/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-26T19:30:10.686925Z",
-            "shown_at": [
-                "2026-02-27T00:49:18.536639Z",
-                "2026-02-27T04:54:18.685458Z",
-                "2026-03-01T02:34:32.301515Z"
-            ]
-        },
-        {
-            "id": "e35208d01a68ccdbb8c5ba3c3a93b380",
-            "source": "spacenews",
-            "text": "Bowersox to retire from NASA",
-            "source_link": "https://spacenews.com/bowersox-to-retire-from-nasa/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-26T19:30:10.686890Z",
-            "shown_at": [
-                "2026-02-27T01:24:08.414199Z",
-                "2026-02-27T16:39:41.411743Z",
-                "2026-02-28T17:09:09.344748Z",
-                "2026-03-03T19:34:31.180031Z"
-            ]
-        },
-        {
-            "id": "ead36c060eba5fb8c00514cdafd84612",
-            "source": "spacenews",
-            "text": "China’s Tianwen-2 probe operating normally on approach to asteroid",
-            "source_link": "https://spacenews.com/chinas-tianwen-2-probe-operating-normally-on-approach-to-asteroid/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-26T19:30:10.686855Z",
-            "shown_at": [
-                "2026-02-26T23:39:13.992717Z",
-                "2026-02-28T13:39:18.935940Z",
-                "2026-03-01T20:44:07.936428Z",
-                "2026-03-04T08:49:10.658259Z",
-                "2026-03-04T11:09:03.709321Z",
-                "2026-03-05T03:14:30.448862Z"
-            ]
-        },
-        {
-            "id": "28f510014ac0d0244a180f17405232e6",
-            "source": "spacenews",
-            "text": "Startup targets radio segment of Golden Dome missile-defense network",
-            "source_link": "https://spacenews.com/startup-targets-radio-segment-of-golden-dome-missile-defense-network/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-28T09:24:16.850177Z",
-            "shown_at": [
-                "2026-04-28T09:24:17.654107Z",
-                "2026-04-28T19:24:28.236095Z"
-            ]
-        },
-        {
-            "id": "311821138d02d7f096cae317594b000d",
-            "source": "spacenews",
-            "text": "True Anomaly raises $650 million, reaching $2.2 billion valuation",
-            "source_link": "https://spacenews.com/true-anomaly-raises-650-million-reaching-2-2-billion-valuation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-28T10:34:25.244379Z",
-            "shown_at": [
-                "2026-04-28T10:34:26.490811Z"
-            ]
-        },
-        {
-            "id": "55294184357d233acbf45e84da43fb8f",
-            "source": "spacenews",
-            "text": "Corrosion problem affects Gateway and commercial space station modules",
-            "source_link": "https://spacenews.com/corrosion-problem-affects-gateway-and-commercial-space-station-modules/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-28T10:34:25.244452Z",
-            "shown_at": [
-                "2026-04-28T11:09:09.120026Z"
-            ]
-        },
-        {
-            "id": "5de229d0644d5b9fa6ed9936e01b97c2",
-            "source": "spacenews",
-            "text": "EraDrive and Northrop Grumman  collaborate on AI-enabled autonomy",
-            "source_link": "https://spacenews.com/eradrive-and-northrop-grumman-collaborate-on-ai-enabled-autonomy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-28T16:59:30.514005Z",
-            "shown_at": [
-                "2026-04-28T16:59:31.504109Z"
-            ]
-        },
-        {
-            "id": "3adfaaac3716771016c258827cb321a3",
-            "source": "spacenews",
-            "text": "Space Foundation Premieres National Space Day Video May 1",
-            "source_link": "https://spacenews.com/space-foundation-premieres-national-space-day-video-may-1/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-28T20:34:44.255919Z",
-            "shown_at": [
-                "2026-04-28T20:34:45.131445Z"
-            ]
-        },
-        {
-            "id": "18e9f7576ab8387fe17a87f6382a4fa5",
-            "source": "spacenews",
-            "text": "Pentagon budget affirms Space Force role tracking moving targets from orbit",
-            "source_link": "https://spacenews.com/pentagon-budget-affirms-space-force-role-tracking-moving-targets-from-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-28T20:34:44.255995Z",
-            "shown_at": [
-                "2026-04-28T21:09:18.269526Z"
             ]
         }
     ]
