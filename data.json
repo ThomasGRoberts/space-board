@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-29T00:04:59.669858+00:00",
-    "trigger_count": 6,
-    "current_item_id": "752c6320d5793589e16193e6dadb256f",
+    "trigger_count": 0,
+    "current_item_id": "16541a021e3a249acaededb2e1766ea1",
     "data": [
         {
             "id": "18e9f7576ab8387fe17a87f6382a4fa5",
@@ -7839,6 +7839,18 @@
             "shown_at": [
                 "2026-02-27T13:08:55.024216Z",
                 "2026-02-28T03:09:19.993899Z"
+            ]
+        },
+        {
+            "id": "16541a021e3a249acaededb2e1766ea1",
+            "source": "spacenews",
+            "text": "Appropriators reject NASA budget proposal",
+            "source_link": "https://spacenews.com/appropriators-reject-nasa-budget-proposal/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-29T11:09:24.542467Z",
+            "shown_at": [
+                "2026-04-29T11:09:25.760453Z"
             ]
         }
     ]
