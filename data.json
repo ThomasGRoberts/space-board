@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-29T00:04:59.669858+00:00",
-    "trigger_count": 6,
-    "current_item_id": "752c6320d5793589e16193e6dadb256f",
+    "trigger_count": 0,
+    "current_item_id": "9a580327ad479821cf36d65cadb8921f",
     "data": [
         {
             "id": "18e9f7576ab8387fe17a87f6382a4fa5",
@@ -7852,6 +7852,18 @@
             "fetched_datetime": "2026-04-29T11:09:24.542467Z",
             "shown_at": [
                 "2026-04-29T11:09:25.760453Z"
+            ]
+        },
+        {
+            "id": "9a580327ad479821cf36d65cadb8921f",
+            "source": "spacenews",
+            "text": "Space Force awards BAE Systems $11.8 million to demo satellite communications for Golden Dome",
+            "source_link": "https://spacenews.com/space-force-awards-bae-systems-11-8-million-to-demo-satellite-communications-for-golden-dome/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-29T12:19:23.051508Z",
+            "shown_at": [
+                "2026-04-29T12:19:24.049129Z"
             ]
         }
     ]
