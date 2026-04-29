@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 10 | 22 | 42 |
+| spacenews | 6 | 10 | 22 | 43 |
 | nyt | 0 | 0 | 19 | 39 |
 
 # Shown Order
@@ -2328,3 +2328,4 @@
 - **Apr 29, 12:05 AM** - Musk’s SpaceX Goals Shift Ahead of Its I.P.O. (nyt)
 - **Apr 29, 12:39 AM** - Pentagon budget affirms Space Force role tracking moving targets from orbit (spacenews)
 - **Apr 29, 01:14 AM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
+- **Apr 29, 01:49 AM** - House Science Committee pans NASA budget request (spacenews)
