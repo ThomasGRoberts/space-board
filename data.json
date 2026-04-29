@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-29T00:04:59.669858+00:00",
-    "trigger_count": 6,
-    "current_item_id": "da31dd14172637a82504f65b9a474b44",
+    "trigger_count": 0,
+    "current_item_id": "6b93e425c8fb88b22e195205602fdf1e",
     "data": [
         {
             "id": "18e9f7576ab8387fe17a87f6382a4fa5",
@@ -7891,6 +7891,18 @@
             "fetched_datetime": "2026-04-29T15:14:20.201116Z",
             "shown_at": [
                 "2026-04-29T15:14:21.185127Z"
+            ]
+        },
+        {
+            "id": "6b93e425c8fb88b22e195205602fdf1e",
+            "source": "spacenews",
+            "text": "Falcon 9 rocket stage projected to impact moon’s near side in August",
+            "source_link": "https://spacenews.com/falcon-9-rocket-stage-projected-to-impact-moons-near-side-in-august/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-29T15:49:29.351189Z",
+            "shown_at": [
+                "2026-04-29T15:49:30.336500Z"
             ]
         }
     ]
