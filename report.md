@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 14 | 22 | 44 |
-| nyt | 0 | 0 | 19 | 38 |
+| spacenews | 8 | 14 | 23 | 45 |
+| nyt | 0 | 0 | 19 | 37 |
 
 # Shown Order
 
@@ -2366,3 +2366,4 @@
 - **Apr 29, 10:14 PM** - ISS module cracking still unresolved despite stopping air leaks (spacenews)
 - **Apr 29, 10:49 PM** - May 13: Software Integration and Strategic Missile Defense (spacenews)
 - **Apr 29, 11:24 PM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
+- **Apr 29, 11:59 PM** - Electron launches Japanese cubesats (spacenews)
