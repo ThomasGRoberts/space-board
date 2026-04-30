@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 23 | 46 |
+| spacenews | 9 | 17 | 24 | 47 |
 | nyt | 0 | 0 | 17 | 35 |
 
 # Shown Order
@@ -2339,3 +2339,4 @@
 - **Apr 30, 09:24 PM** - Canadian Space Agency cancels Spire satellite contract (spacenews)
 - **Apr 30, 09:59 PM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
 - **Apr 30, 10:34 PM** - House appropriators keep NASA funding flat (spacenews)
+- **Apr 30, 11:09 PM** - Northrop Grumman delivers sensor for missile-warning satellite as Pentagon cancels program (spacenews)

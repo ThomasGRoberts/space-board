@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-30T00:04:37.506303+00:00",
-    "trigger_count": 6,
-    "current_item_id": "821b09721f9fb3f85dc713df027e2e92",
+    "trigger_count": 0,
+    "current_item_id": "9c69bfdd630fafdc6d24a06d4243c0cb",
     "data": [
         {
             "id": "b8dc6c5c22ee8607ae5f2126d18436bc",
@@ -7922,6 +7922,18 @@
             "fetched_datetime": "2026-04-30T19:04:55.612150Z",
             "shown_at": [
                 "2026-04-30T19:04:57.224800Z"
+            ]
+        },
+        {
+            "id": "9c69bfdd630fafdc6d24a06d4243c0cb",
+            "source": "spacenews",
+            "text": "Northrop Grumman delivers sensor for missile-warning satellite as Pentagon cancels program",
+            "source_link": "https://spacenews.com/northrop-grumman-delivers-sensor-for-missile-warning-satellite-as-pentagon-cancels-program/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-30T23:09:17.823602Z",
+            "shown_at": [
+                "2026-04-30T23:09:19.039332Z"
             ]
         }
     ]
