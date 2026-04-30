@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-30T00:04:37.506303+00:00",
-    "trigger_count": 6,
-    "current_item_id": "752c6320d5793589e16193e6dadb256f",
+    "trigger_count": 0,
+    "current_item_id": "11bcb2c53cf03ad9cf452a04978e5798",
     "data": [
         {
             "id": "b8dc6c5c22ee8607ae5f2126d18436bc",
@@ -7797,6 +7797,18 @@
             "shown_at": [
                 "2026-03-01T19:34:39.289479Z",
                 "2026-03-06T06:04:37.855819Z"
+            ]
+        },
+        {
+            "id": "11bcb2c53cf03ad9cf452a04978e5798",
+            "source": "spacenews",
+            "text": "Canadian Space Agency cancels Spire satellite contract",
+            "source_link": "https://spacenews.com/canadian-space-agency-cancels-spire-satellite-contract/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-30T01:09:21.895546Z",
+            "shown_at": [
+                "2026-04-30T01:09:22.637653Z"
             ]
         }
     ]
