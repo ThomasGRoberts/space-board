@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 17 | 23 | 44 |
+| spacenews | 12 | 17 | 24 | 45 |
 | nyt | 0 | 0 | 17 | 37 |
 
 # Shown Order
@@ -2323,3 +2323,4 @@
 - **Apr 30, 11:59 AM** - Morocco signs the Artemis Accords (spacenews)
 - **Apr 30, 12:34 PM** - Cosmoleap secures $73 million for reusable rocket with tower catch recovery (spacenews)
 - **Apr 30, 01:14 PM** - York Space to buy satcom terminal manufacturer All.Space  (spacenews)
+- **Apr 30, 01:49 PM** - Planet and Carbon Mapper to fly SWIR Tanager (spacenews)
