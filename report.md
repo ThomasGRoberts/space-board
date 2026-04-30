@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 16 | 24 | 46 |
-| nyt | 0 | 0 | 16 | 35 |
+| nyt | 0 | 0 | 17 | 36 |
 
 # Shown Order
 
@@ -2335,3 +2335,4 @@
 - **Apr 30, 07:04 PM** - U.S. investors dominate Europe’s private-led space scale-up rounds (spacenews)
 - **Apr 30, 07:39 PM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
 - **Apr 30, 08:13 PM** - EraDrive and Northrop Grumman  collaborate on AI-enabled autonomy (spacenews)
+- **Apr 30, 08:49 PM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
