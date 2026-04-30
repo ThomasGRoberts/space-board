@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 18 | 24 | 46 |
+| spacenews | 11 | 18 | 25 | 47 |
 | nyt | 0 | 0 | 16 | 35 |
 
 # Shown Order
@@ -2334,3 +2334,4 @@
 - **Apr 30, 06:29 PM** - Appropriators reject NASA budget proposal (spacenews)
 - **Apr 30, 07:04 PM** - U.S. investors dominate Europe’s private-led space scale-up rounds (spacenews)
 - **Apr 30, 07:39 PM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
+- **Apr 30, 08:13 PM** - EraDrive and Northrop Grumman  collaborate on AI-enabled autonomy (spacenews)
