@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 17 | 23 | 45 |
+| spacenews | 10 | 17 | 24 | 46 |
 | nyt | 0 | 0 | 17 | 36 |
 
 # Shown Order
@@ -2326,3 +2326,4 @@
 - **Apr 30, 01:49 PM** - Planet and Carbon Mapper to fly SWIR Tanager (spacenews)
 - **Apr 30, 02:24 PM** - America needs a space alliance (spacenews)
 - **Apr 30, 02:59 PM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
+- **Apr 30, 03:34 PM** - True Anomaly raises $650 million, reaching $2.2 billion valuation (spacenews)
