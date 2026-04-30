@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 17 | 23 | 45 |
+| spacenews | 10 | 17 | 24 | 46 |
 | nyt | 0 | 0 | 17 | 36 |
 
 # Shown Order
@@ -2329,3 +2329,4 @@
 - **Apr 30, 03:34 PM** - True Anomaly raises $650 million, reaching $2.2 billion valuation (spacenews)
 - **Apr 30, 04:09 PM** - House appropriators keep NASA funding flat (spacenews)
 - **Apr 30, 04:44 PM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
+- **Apr 30, 05:19 PM** - SpaceX wins $57 million U.S. military contract for satellite crosslink demo (spacenews)
