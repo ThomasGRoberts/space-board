@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 14 | 22 | 44 |
-| nyt | 0 | 0 | 18 | 37 |
+| nyt | 0 | 0 | 19 | 38 |
 
 # Shown Order
 
@@ -2317,3 +2317,4 @@
 - **Apr 30, 08:14 AM** - China launches PRSC-EO3 for Pakistan, lofts internet test and environment monitoring satellites (spacenews)
 - **Apr 30, 08:49 AM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
 - **Apr 30, 09:32 AM** - True Anomaly raises $650 million, reaching $2.2 billion valuation (spacenews)
+- **Apr 30, 10:09 AM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
