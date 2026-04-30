@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 15 | 22 | 44 |
-| nyt | 0 | 0 | 19 | 38 |
+| spacenews | 9 | 15 | 23 | 45 |
+| nyt | 0 | 0 | 18 | 37 |
 
 # Shown Order
 
@@ -2312,3 +2312,4 @@
 - **Apr 30, 05:14 AM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
 - **Apr 30, 05:49 AM** - Space Force faces surge in demand for heavy-lift launches (spacenews)
 - **Apr 30, 06:24 AM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
+- **Apr 30, 07:04 AM** - FAA to begin collecting user fees for commercial launches and reentries (spacenews)
