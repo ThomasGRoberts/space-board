@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 15 | 23 | 45 |
-| nyt | 0 | 0 | 18 | 37 |
+| nyt | 0 | 0 | 19 | 38 |
 
 # Shown Order
 
@@ -2315,3 +2315,4 @@
 - **Apr 30, 07:04 AM** - FAA to begin collecting user fees for commercial launches and reentries (spacenews)
 - **Apr 30, 07:39 AM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
 - **Apr 30, 08:14 AM** - China launches PRSC-EO3 for Pakistan, lofts internet test and environment monitoring satellites (spacenews)
+- **Apr 30, 08:49 AM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
