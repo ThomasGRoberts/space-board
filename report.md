@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 17 | 24 | 45 |
-| nyt | 0 | 0 | 16 | 36 |
+| nyt | 0 | 0 | 17 | 37 |
 
 # Shown Order
 
@@ -2325,3 +2325,4 @@
 - **Apr 30, 01:14 PM** - York Space to buy satcom terminal manufacturer All.Space  (spacenews)
 - **Apr 30, 01:49 PM** - Planet and Carbon Mapper to fly SWIR Tanager (spacenews)
 - **Apr 30, 02:24 PM** - America needs a space alliance (spacenews)
+- **Apr 30, 02:59 PM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
