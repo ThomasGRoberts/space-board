@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-30T00:04:37.506303+00:00",
-    "trigger_count": 6,
-    "current_item_id": "311821138d02d7f096cae317594b000d",
+    "trigger_count": 0,
+    "current_item_id": "821b09721f9fb3f85dc713df027e2e92",
     "data": [
         {
             "id": "b8dc6c5c22ee8607ae5f2126d18436bc",
@@ -7888,6 +7888,18 @@
             "fetched_datetime": "2026-04-30T13:14:08.125964Z",
             "shown_at": [
                 "2026-04-30T14:24:26.969343Z"
+            ]
+        },
+        {
+            "id": "821b09721f9fb3f85dc713df027e2e92",
+            "source": "spacenews",
+            "text": "House appropriators keep NASA funding flat",
+            "source_link": "https://spacenews.com/house-appropriators-keep-nasa-funding-flat/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-30T16:09:13.034116Z",
+            "shown_at": [
+                "2026-04-30T16:09:13.880874Z"
             ]
         }
     ]
