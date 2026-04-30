@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-30T00:04:37.506303+00:00",
-    "trigger_count": 6,
-    "current_item_id": "752c6320d5793589e16193e6dadb256f",
+    "trigger_count": 0,
+    "current_item_id": "30663d009e4fce74a96cfaf462e7ed40",
     "data": [
         {
             "id": "b8dc6c5c22ee8607ae5f2126d18436bc",
@@ -7827,6 +7827,27 @@
             "shown_at": [
                 "2026-04-30T01:09:22.637653Z"
             ]
+        },
+        {
+            "id": "30663d009e4fce74a96cfaf462e7ed40",
+            "source": "spacenews",
+            "text": "Morocco signs the Artemis Accords",
+            "source_link": "https://spacenews.com/morocco-signs-the-artemis-accords/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-30T11:59:13.494208Z",
+            "shown_at": [
+                "2026-04-30T11:59:14.485809Z"
+            ]
+        },
+        {
+            "id": "f8ef3b5ca3800f047746067fc40e924c",
+            "source": "spacenews",
+            "text": "Cosmoleap secures $73 million for reusable rocket with tower catch recovery",
+            "source_link": "https://spacenews.com/cosmoleap-secures-73-million-for-reusable-rocket-with-tower-catch-recovery/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-30T11:59:13.494282Z"
         }
     ]
 }
