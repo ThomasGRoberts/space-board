@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-30T00:04:37.506303+00:00",
-    "trigger_count": 6,
-    "current_item_id": "16541a021e3a249acaededb2e1766ea1",
+    "trigger_count": 0,
+    "current_item_id": "1f2d0e6ff5f44654e9b660e68cc55844",
     "data": [
         {
             "id": "b8dc6c5c22ee8607ae5f2126d18436bc",
@@ -7904,6 +7904,18 @@
             "fetched_datetime": "2026-04-30T16:09:13.034116Z",
             "shown_at": [
                 "2026-04-30T16:09:13.880874Z"
+            ]
+        },
+        {
+            "id": "1f2d0e6ff5f44654e9b660e68cc55844",
+            "source": "spacenews",
+            "text": "U.S. investors dominate Europe’s private-led space scale-up rounds",
+            "source_link": "https://spacenews.com/u-s-investors-dominate-europes-private-led-space-scale-up-rounds/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-30T19:04:55.612150Z",
+            "shown_at": [
+                "2026-04-30T19:04:57.224800Z"
             ]
         }
     ]
