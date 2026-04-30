@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-30T00:04:37.506303+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f8ef3b5ca3800f047746067fc40e924c",
+    "trigger_count": 0,
+    "current_item_id": "8c447425244ac4c0676d3d74b99bedf8",
     "data": [
         {
             "id": "b8dc6c5c22ee8607ae5f2126d18436bc",
@@ -7851,6 +7851,36 @@
             "shown_at": [
                 "2026-04-30T12:34:35.147350Z"
             ]
+        },
+        {
+            "id": "8c447425244ac4c0676d3d74b99bedf8",
+            "source": "spacenews",
+            "text": "York Space to buy satcom terminal manufacturer All.Space ",
+            "source_link": "https://spacenews.com/york-space-to-buy-satcom-terminal-manufacturer-all-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-30T13:14:08.125862Z",
+            "shown_at": [
+                "2026-04-30T13:14:08.860889Z"
+            ]
+        },
+        {
+            "id": "481e36dae428520d027062d3266bb378",
+            "source": "spacenews",
+            "text": "Planet and Carbon Mapper to fly SWIR Tanager",
+            "source_link": "https://spacenews.com/planet-and-carbon-mapper-to-fly-swir-tanager/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-30T13:14:08.125919Z"
+        },
+        {
+            "id": "7d010786102019eba4336c93a8af71a8",
+            "source": "spacenews",
+            "text": "America needs a space alliance",
+            "source_link": "https://spacenews.com/america-needs-a-space-alliance/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-04-30T13:14:08.125964Z"
         }
     ]
 }
