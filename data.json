@@ -1,9 +1,105 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-04-29T00:04:59.669858+00:00",
-    "trigger_count": 0,
+    "last_run_datetime": "2026-04-30T00:04:37.506303+00:00",
+    "trigger_count": 1,
     "current_item_id": "e3e82537248ea7ad3c8b8904e2fdc723",
     "data": [
+        {
+            "id": "b8dc6c5c22ee8607ae5f2126d18436bc",
+            "source": "spacenews",
+            "text": "May 13: Software Integration and Strategic Missile Defense",
+            "source_link": "https://spacenews.com/software-integration-and-strategic-missile-defense-virtual-event/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-29T22:14:33.853145Z",
+            "shown_at": [
+                "2026-04-29T22:49:20.601902Z"
+            ]
+        },
+        {
+            "id": "7927d7fc16106f6a4a788033a589150f",
+            "source": "spacenews",
+            "text": "ISS module cracking still unresolved despite stopping air leaks",
+            "source_link": "https://spacenews.com/iss-module-cracking-still-unresolved-despite-stopping-air-leaks/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-29T22:14:33.853091Z",
+            "shown_at": [
+                "2026-04-29T22:14:34.674918Z"
+            ]
+        },
+        {
+            "id": "476758e489da47eff15ff51c805dfb7f",
+            "source": "spacenews",
+            "text": "Space Force selects firms to build counter-surveillance payloads for satellites",
+            "source_link": "https://spacenews.com/space-force-selects-firms-to-build-counter-surveillance-payloads-for-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-29T21:39:17.888541Z",
+            "shown_at": [
+                "2026-04-29T21:39:18.713435Z"
+            ]
+        },
+        {
+            "id": "6b93e425c8fb88b22e195205602fdf1e",
+            "source": "spacenews",
+            "text": "Falcon 9 rocket stage projected to impact moon’s near side in August",
+            "source_link": "https://spacenews.com/falcon-9-rocket-stage-projected-to-impact-moons-near-side-in-august/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-29T15:49:29.351189Z",
+            "shown_at": [
+                "2026-04-29T15:49:30.336500Z"
+            ]
+        },
+        {
+            "id": "da31dd14172637a82504f65b9a474b44",
+            "source": "spacenews",
+            "text": "Falcon Heavy launches final ViaSat-3 terabit-class satellite",
+            "source_link": "https://spacenews.com/falcon-heavy-launches-final-viasat-3-terabit-class-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-29T15:14:20.201116Z",
+            "shown_at": [
+                "2026-04-29T15:14:21.185127Z"
+            ]
+        },
+        {
+            "id": "fe8ab8c10587ec39ffc014cee12792ac",
+            "source": "spacenews",
+            "text": "Revolutionizing global aerospace transportation",
+            "source_link": "https://spacenews.com/revolutionizing-global-aerospace-transportation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-29T14:39:24.885747Z",
+            "shown_at": [
+                "2026-04-29T14:39:25.982770Z"
+            ]
+        },
+        {
+            "id": "9a580327ad479821cf36d65cadb8921f",
+            "source": "spacenews",
+            "text": "Space Force awards BAE Systems $11.8 million to demo satellite communications for Golden Dome",
+            "source_link": "https://spacenews.com/space-force-awards-bae-systems-11-8-million-to-demo-satellite-communications-for-golden-dome/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-29T12:19:23.051508Z",
+            "shown_at": [
+                "2026-04-29T12:19:24.049129Z"
+            ]
+        },
+        {
+            "id": "16541a021e3a249acaededb2e1766ea1",
+            "source": "spacenews",
+            "text": "Appropriators reject NASA budget proposal",
+            "source_link": "https://spacenews.com/appropriators-reject-nasa-budget-proposal/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-29T11:09:24.542467Z",
+            "shown_at": [
+                "2026-04-29T11:09:25.760453Z"
+            ]
+        },
         {
             "id": "18e9f7576ab8387fe17a87f6382a4fa5",
             "source": "spacenews",
@@ -7700,256 +7796,6 @@
             "shown_at": [
                 "2026-03-01T19:34:39.289479Z",
                 "2026-03-06T06:04:37.855819Z"
-            ]
-        },
-        {
-            "id": "13ddd313b0a972d6c2b02112ad42e99d",
-            "source": "spacenews",
-            "text": "CAS Space to launch Kinetica-2 in late March carrying prototype cargo spacecraft",
-            "source_link": "https://spacenews.com/cas-space-to-launch-kinetica-2-in-late-march-carrying-prototype-cargo-spacecraft/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-01T08:59:06.772100Z",
-            "shown_at": [
-                "2026-03-01T08:59:07.495354Z",
-                "2026-03-05T05:04:37.256545Z",
-                "2026-03-05T08:44:20.036368Z",
-                "2026-03-06T01:19:15.823090Z"
-            ]
-        },
-        {
-            "id": "31310d166384b065715bbe1749e41e40",
-            "source": "spacenews",
-            "text": "Intuitive Machines raises $175 million in stock sale",
-            "source_link": "https://spacenews.com/intuitive-machines-raises-175-million-in-stock-sale/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-01T00:14:18.836724Z",
-            "shown_at": [
-                "2026-03-01T00:14:19.791118Z",
-                "2026-03-04T05:44:49.873343Z",
-                "2026-03-06T09:34:16.438072Z",
-                "2026-03-07T22:59:08.292543Z"
-            ]
-        },
-        {
-            "id": "956e8913d01fa7f1f14e0a385b498bc7",
-            "source": "spacenews",
-            "text": "NASA on ‘aggressive’ schedule to complete SLS repairs for April launch",
-            "source_link": "https://spacenews.com/nasa-on-aggressive-schedule-to-complete-sls-repairs-for-april-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-28T17:44:20.468349Z",
-            "shown_at": [
-                "2026-02-28T17:44:21.547291Z",
-                "2026-03-01T14:49:52.892523Z",
-                "2026-03-05T06:14:10.005413Z"
-            ]
-        },
-        {
-            "id": "7c8a0192672807c7903b41a24e0a819b",
-            "source": "nyt",
-            "text": "Space X Wants to Launch 1 Million Satellites, but Is There Room? ",
-            "source_link": "https://www.nytimes.com/2026/02/26/climate/spacex-climate-musk-orbiting-data-centers.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-27T21:54:30.760301Z",
-            "shown_at": [
-                "2026-02-27T21:54:31.910757Z",
-                "2026-02-28T03:44:07.036978Z",
-                "2026-02-28T10:44:31.161038Z",
-                "2026-03-01T03:09:23.350582Z",
-                "2026-03-05T08:09:05.623339Z",
-                "2026-03-05T12:59:10.132312Z",
-                "2026-03-05T18:09:30.278219Z",
-                "2026-03-06T04:19:18.836648Z",
-                "2026-03-06T11:19:09.904514Z"
-            ]
-        },
-        {
-            "id": "17e6c94914e94769ebd10b705058f481",
-            "source": "nyt",
-            "text": "NASA Shakes Up Artemis Schedule, Aiming for 2 Moon Landings in 2028",
-            "source_link": "https://www.nytimes.com/2026/02/27/science/nasa-moon-landings-artemis-schedule.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-27T21:19:09.818794Z",
-            "shown_at": [
-                "2026-02-27T21:19:11.011765Z",
-                "2026-02-28T00:14:53.407753Z",
-                "2026-02-28T11:54:23.590620Z",
-                "2026-03-01T00:49:26.992511Z",
-                "2026-03-01T04:19:11.522823Z",
-                "2026-03-01T17:44:21.068077Z",
-                "2026-03-02T09:19:19.589048Z",
-                "2026-03-02T11:44:30.276050Z",
-                "2026-03-02T20:39:10.793144Z",
-                "2026-03-03T01:54:27.596565Z",
-                "2026-03-03T03:05:02.758666Z",
-                "2026-03-03T16:39:18.591457Z",
-                "2026-03-04T02:49:19.147534Z",
-                "2026-03-04T12:54:07.763972Z",
-                "2026-03-04T21:14:09.284955Z",
-                "2026-03-05T01:29:16.652929Z",
-                "2026-03-05T05:39:14.072381Z",
-                "2026-03-06T00:44:21.430599Z",
-                "2026-03-06T06:39:09.454295Z",
-                "2026-03-06T07:49:24.977275Z",
-                "2026-03-06T16:44:30.404836Z"
-            ]
-        },
-        {
-            "id": "29f336a4921168ff143edbb7f1944b48",
-            "source": "nyt",
-            "text": "NASA Aims for 2 Moon Landings in 2028 With New Artemis Schedule",
-            "source_link": "https://www.nytimes.com/2026/02/27/science/nasa-moon-landings-artemis-schedule.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-27T17:49:10.066502Z",
-            "shown_at": [
-                "2026-02-27T17:49:11.217822Z",
-                "2026-02-27T20:09:35.175414Z",
-                "2026-02-28T01:24:35.507371Z",
-                "2026-02-28T06:04:38.551592Z",
-                "2026-02-28T07:14:04.644731Z",
-                "2026-02-28T19:29:20.147569Z",
-                "2026-02-28T21:49:22.614618Z",
-                "2026-02-28T22:59:10.503887Z",
-                "2026-03-01T05:29:10.900384Z",
-                "2026-03-01T07:49:04.010490Z",
-                "2026-03-01T16:34:29.390605Z",
-                "2026-03-01T23:39:06.407517Z",
-                "2026-03-02T01:24:23.735052Z",
-                "2026-03-02T04:34:24.696017Z",
-                "2026-03-03T07:09:10.394572Z",
-                "2026-03-03T08:19:24.364195Z",
-                "2026-03-04T09:24:30.096664Z",
-                "2026-03-05T02:39:13.932189Z",
-                "2026-03-05T06:54:24.243137Z",
-                "2026-03-05T11:49:19.474613Z"
-            ]
-        },
-        {
-            "id": "f3a840866f57e6225986e2394ab10a32",
-            "source": "spacenews",
-            "text": "NASA revises plans for future Artemis missions, cancels upgrades to SLS",
-            "source_link": "https://spacenews.com/nasa-revises-plans-for-future-artemis-missions-cancels-upgrades-to-sls/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-27T15:29:09.329518Z",
-            "shown_at": [
-                "2026-02-27T15:29:10.151526Z",
-                "2026-02-28T18:54:21.420995Z",
-                "2026-03-02T09:54:06.429536Z"
-            ]
-        },
-        {
-            "id": "20b784f445d8d5f3cec8d439310bdd65",
-            "source": "spacenews",
-            "text": "Rocket Lab delays Neutron debut to late 2026",
-            "source_link": "https://spacenews.com/rocket-lab-delays-neutron-debut-to-late-2026/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-02-27T13:08:53.911164Z",
-            "shown_at": [
-                "2026-02-27T13:08:55.024216Z",
-                "2026-02-28T03:09:19.993899Z"
-            ]
-        },
-        {
-            "id": "16541a021e3a249acaededb2e1766ea1",
-            "source": "spacenews",
-            "text": "Appropriators reject NASA budget proposal",
-            "source_link": "https://spacenews.com/appropriators-reject-nasa-budget-proposal/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-29T11:09:24.542467Z",
-            "shown_at": [
-                "2026-04-29T11:09:25.760453Z"
-            ]
-        },
-        {
-            "id": "9a580327ad479821cf36d65cadb8921f",
-            "source": "spacenews",
-            "text": "Space Force awards BAE Systems $11.8 million to demo satellite communications for Golden Dome",
-            "source_link": "https://spacenews.com/space-force-awards-bae-systems-11-8-million-to-demo-satellite-communications-for-golden-dome/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-29T12:19:23.051508Z",
-            "shown_at": [
-                "2026-04-29T12:19:24.049129Z"
-            ]
-        },
-        {
-            "id": "fe8ab8c10587ec39ffc014cee12792ac",
-            "source": "spacenews",
-            "text": "Revolutionizing global aerospace transportation",
-            "source_link": "https://spacenews.com/revolutionizing-global-aerospace-transportation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-29T14:39:24.885747Z",
-            "shown_at": [
-                "2026-04-29T14:39:25.982770Z"
-            ]
-        },
-        {
-            "id": "da31dd14172637a82504f65b9a474b44",
-            "source": "spacenews",
-            "text": "Falcon Heavy launches final ViaSat-3 terabit-class satellite",
-            "source_link": "https://spacenews.com/falcon-heavy-launches-final-viasat-3-terabit-class-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-29T15:14:20.201116Z",
-            "shown_at": [
-                "2026-04-29T15:14:21.185127Z"
-            ]
-        },
-        {
-            "id": "6b93e425c8fb88b22e195205602fdf1e",
-            "source": "spacenews",
-            "text": "Falcon 9 rocket stage projected to impact moon’s near side in August",
-            "source_link": "https://spacenews.com/falcon-9-rocket-stage-projected-to-impact-moons-near-side-in-august/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-29T15:49:29.351189Z",
-            "shown_at": [
-                "2026-04-29T15:49:30.336500Z"
-            ]
-        },
-        {
-            "id": "476758e489da47eff15ff51c805dfb7f",
-            "source": "spacenews",
-            "text": "Space Force selects firms to build counter-surveillance payloads for satellites",
-            "source_link": "https://spacenews.com/space-force-selects-firms-to-build-counter-surveillance-payloads-for-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-29T21:39:17.888541Z",
-            "shown_at": [
-                "2026-04-29T21:39:18.713435Z"
-            ]
-        },
-        {
-            "id": "7927d7fc16106f6a4a788033a589150f",
-            "source": "spacenews",
-            "text": "ISS module cracking still unresolved despite stopping air leaks",
-            "source_link": "https://spacenews.com/iss-module-cracking-still-unresolved-despite-stopping-air-leaks/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-29T22:14:33.853091Z",
-            "shown_at": [
-                "2026-04-29T22:14:34.674918Z"
-            ]
-        },
-        {
-            "id": "b8dc6c5c22ee8607ae5f2126d18436bc",
-            "source": "spacenews",
-            "text": "May 13: Software Integration and Strategic Missile Defense",
-            "source_link": "https://spacenews.com/software-integration-and-strategic-missile-defense-virtual-event/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-29T22:14:33.853145Z",
-            "shown_at": [
-                "2026-04-29T22:49:20.601902Z"
             ]
         }
     ]
