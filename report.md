@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 15 | 22 | 44 |
+| spacenews | 9 | 15 | 23 | 45 |
 | nyt | 0 | 0 | 19 | 38 |
 
 # Shown Order
@@ -2310,3 +2310,4 @@
 - **Apr 30, 04:04 AM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
 - **Apr 30, 04:39 AM** - Electron launches Japanese cubesats (spacenews)
 - **Apr 30, 05:14 AM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
+- **Apr 30, 05:49 AM** - Space Force faces surge in demand for heavy-lift launches (spacenews)
