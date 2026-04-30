@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 15 | 22 | 44 |
+| spacenews | 9 | 15 | 23 | 45 |
 | nyt | 0 | 0 | 19 | 38 |
 
 # Shown Order
@@ -2306,3 +2306,4 @@
 - **Apr 30, 01:44 AM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
 - **Apr 30, 02:19 AM** - Pentagon seeks $2.3 billion for Maven AI battlefield system  (spacenews)
 - **Apr 30, 02:54 AM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
+- **Apr 30, 03:29 AM** - NASA reserves science payload space for Mars telecommunications mission (spacenews)
