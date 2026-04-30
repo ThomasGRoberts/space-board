@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-04-30T00:04:37.506303+00:00",
-    "trigger_count": 6,
-    "current_item_id": "30663d009e4fce74a96cfaf462e7ed40",
+    "trigger_count": 0,
+    "current_item_id": "f8ef3b5ca3800f047746067fc40e924c",
     "data": [
         {
             "id": "b8dc6c5c22ee8607ae5f2126d18436bc",
@@ -7845,9 +7845,12 @@
             "source": "spacenews",
             "text": "Cosmoleap secures $73 million for reusable rocket with tower catch recovery",
             "source_link": "https://spacenews.com/cosmoleap-secures-73-million-for-reusable-rocket-with-tower-catch-recovery/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-04-30T11:59:13.494282Z"
+            "fetched_datetime": "2026-04-30T11:59:13.494282Z",
+            "shown_at": [
+                "2026-04-30T12:34:35.147350Z"
+            ]
         }
     ]
 }

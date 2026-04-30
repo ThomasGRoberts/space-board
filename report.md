@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 14 | 22 | 43 |
+| spacenews | 9 | 14 | 23 | 44 |
 | nyt | 0 | 0 | 18 | 38 |
 
 # Shown Order
@@ -2321,3 +2321,4 @@
 - **Apr 30, 10:49 AM** - Artemis 2 came home in triumph. Artemis 3 must survive the real test. (spacenews)
 - **Apr 30, 11:24 AM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
 - **Apr 30, 11:59 AM** - Morocco signs the Artemis Accords (spacenews)
+- **Apr 30, 12:34 PM** - Cosmoleap secures $73 million for reusable rocket with tower catch recovery (spacenews)
