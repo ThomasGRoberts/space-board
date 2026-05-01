@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 18 | 24 | 46 |
+| spacenews | 10 | 18 | 25 | 47 |
 | nyt | 0 | 0 | 16 | 35 |
 
 # Shown Order
@@ -2291,3 +2291,4 @@
 - **Apr 30, 11:09 PM** - Northrop Grumman delivers sensor for missile-warning satellite as Pentagon cancels program (spacenews)
 - **Apr 30, 11:44 PM** - SpaceComputer to conduct on-orbit test of secure computing infrastructure (spacenews)
 - **May 01, 12:19 AM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
+- **May 01, 12:54 AM** - China launches PRSC-EO3 for Pakistan, lofts internet test and environment monitoring satellites (spacenews)
