@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-01T00:04:41.147954+00:00",
-    "trigger_count": 6,
-    "current_item_id": "747918cced39d777a6c1f89d854e4500",
+    "trigger_count": 0,
+    "current_item_id": "862c1982204683fe39117148b69d2f1e",
     "data": [
         {
             "id": "04f0502fbc993778fdb9bb08745d7a50",
@@ -7787,6 +7787,18 @@
                 "2026-03-03T17:49:24.355196Z",
                 "2026-03-07T08:04:38.593633Z",
                 "2026-03-09T16:29:25.677075Z"
+            ]
+        },
+        {
+            "id": "862c1982204683fe39117148b69d2f1e",
+            "source": "spacenews",
+            "text": "Space Force taps K2 satellites to test laser communications for missile-defense",
+            "source_link": "https://spacenews.com/space-force-taps-k2-satellites-to-test-laser-communications-for-missile-defense/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-01T01:29:01.755932Z",
+            "shown_at": [
+                "2026-05-01T01:29:02.801056Z"
             ]
         }
     ]

@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 18 | 24 | 47 |
+| spacenews | 10 | 19 | 25 | 48 |
 | nyt | 0 | 0 | 16 | 34 |
 
 # Shown Order
@@ -2292,3 +2292,4 @@
 - **Apr 30, 11:44 PM** - SpaceComputer to conduct on-orbit test of secure computing infrastructure (spacenews)
 - **May 01, 12:19 AM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
 - **May 01, 12:54 AM** - China launches PRSC-EO3 for Pakistan, lofts internet test and environment monitoring satellites (spacenews)
+- **May 01, 01:29 AM** - Space Force taps K2 satellites to test laser communications for missile-defense (spacenews)
