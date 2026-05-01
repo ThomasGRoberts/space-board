@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-01T00:04:41.147954+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8c0677a696b9af4343d8bdeb55200422",
+    "trigger_count": 0,
+    "current_item_id": "81942147bb55463cffb47b2b97f9c08d",
     "data": [
         {
             "id": "04f0502fbc993778fdb9bb08745d7a50",
@@ -7811,6 +7811,18 @@
             "fetched_datetime": "2026-05-01T10:29:11.805051Z",
             "shown_at": [
                 "2026-05-01T10:29:12.584574Z"
+            ]
+        },
+        {
+            "id": "81942147bb55463cffb47b2b97f9c08d",
+            "source": "spacenews",
+            "text": "DARPA selects three companies for lunar orbiter studies",
+            "source_link": "https://spacenews.com/darpa-selects-three-companies-for-lunar-orbiter-studies/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-01T11:09:06.000571Z",
+            "shown_at": [
+                "2026-05-01T11:09:06.740324Z"
             ]
         }
     ]
