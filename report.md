@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 19 | 18 | 40 |
-| nyt | 0 | 0 | 8 | 27 |
+| nyt | 1 | 1 | 9 | 28 |
 
 # Shown Order
 
@@ -2293,3 +2293,4 @@
 - **May 01, 12:19 AM** - Could an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough. (nyt)
 - **May 01, 12:54 AM** - China launches PRSC-EO3 for Pakistan, lofts internet test and environment monitoring satellites (spacenews)
 - **May 01, 01:29 AM** - Space Force taps K2 satellites to test laser communications for missile-defense (spacenews)
+- **May 01, 10:29 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
