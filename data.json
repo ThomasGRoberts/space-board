@@ -1,9 +1,131 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-04-30T00:04:37.506303+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2026-05-01T00:04:41.147954+00:00",
+    "trigger_count": 4,
     "current_item_id": "04f0502fbc993778fdb9bb08745d7a50",
     "data": [
+        {
+            "id": "04f0502fbc993778fdb9bb08745d7a50",
+            "source": "spacenews",
+            "text": "SpaceComputer to conduct on-orbit test of secure computing infrastructure",
+            "source_link": "https://spacenews.com/spacecomputer-to-conduct-on-orbit-test-of-secure-computing-infrastructure/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-30T23:44:21.658954Z",
+            "shown_at": [
+                "2026-04-30T23:44:22.812176Z"
+            ]
+        },
+        {
+            "id": "9c69bfdd630fafdc6d24a06d4243c0cb",
+            "source": "spacenews",
+            "text": "Northrop Grumman delivers sensor for missile-warning satellite as Pentagon cancels program",
+            "source_link": "https://spacenews.com/northrop-grumman-delivers-sensor-for-missile-warning-satellite-as-pentagon-cancels-program/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-30T23:09:17.823602Z",
+            "shown_at": [
+                "2026-04-30T23:09:19.039332Z"
+            ]
+        },
+        {
+            "id": "1f2d0e6ff5f44654e9b660e68cc55844",
+            "source": "spacenews",
+            "text": "U.S. investors dominate Europe’s private-led space scale-up rounds",
+            "source_link": "https://spacenews.com/u-s-investors-dominate-europes-private-led-space-scale-up-rounds/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-30T19:04:55.612150Z",
+            "shown_at": [
+                "2026-04-30T19:04:57.224800Z"
+            ]
+        },
+        {
+            "id": "821b09721f9fb3f85dc713df027e2e92",
+            "source": "spacenews",
+            "text": "House appropriators keep NASA funding flat",
+            "source_link": "https://spacenews.com/house-appropriators-keep-nasa-funding-flat/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-30T16:09:13.034116Z",
+            "shown_at": [
+                "2026-04-30T16:09:13.880874Z",
+                "2026-04-30T22:34:25.383135Z"
+            ]
+        },
+        {
+            "id": "7d010786102019eba4336c93a8af71a8",
+            "source": "spacenews",
+            "text": "America needs a space alliance",
+            "source_link": "https://spacenews.com/america-needs-a-space-alliance/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-30T13:14:08.125964Z",
+            "shown_at": [
+                "2026-04-30T14:24:26.969343Z"
+            ]
+        },
+        {
+            "id": "481e36dae428520d027062d3266bb378",
+            "source": "spacenews",
+            "text": "Planet and Carbon Mapper to fly SWIR Tanager",
+            "source_link": "https://spacenews.com/planet-and-carbon-mapper-to-fly-swir-tanager/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-30T13:14:08.125919Z",
+            "shown_at": [
+                "2026-04-30T13:49:30.942612Z"
+            ]
+        },
+        {
+            "id": "8c447425244ac4c0676d3d74b99bedf8",
+            "source": "spacenews",
+            "text": "York Space to buy satcom terminal manufacturer All.Space ",
+            "source_link": "https://spacenews.com/york-space-to-buy-satcom-terminal-manufacturer-all-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-30T13:14:08.125862Z",
+            "shown_at": [
+                "2026-04-30T13:14:08.860889Z"
+            ]
+        },
+        {
+            "id": "f8ef3b5ca3800f047746067fc40e924c",
+            "source": "spacenews",
+            "text": "Cosmoleap secures $73 million for reusable rocket with tower catch recovery",
+            "source_link": "https://spacenews.com/cosmoleap-secures-73-million-for-reusable-rocket-with-tower-catch-recovery/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-30T11:59:13.494282Z",
+            "shown_at": [
+                "2026-04-30T12:34:35.147350Z"
+            ]
+        },
+        {
+            "id": "30663d009e4fce74a96cfaf462e7ed40",
+            "source": "spacenews",
+            "text": "Morocco signs the Artemis Accords",
+            "source_link": "https://spacenews.com/morocco-signs-the-artemis-accords/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-30T11:59:13.494208Z",
+            "shown_at": [
+                "2026-04-30T11:59:14.485809Z"
+            ]
+        },
+        {
+            "id": "11bcb2c53cf03ad9cf452a04978e5798",
+            "source": "spacenews",
+            "text": "Canadian Space Agency cancels Spire satellite contract",
+            "source_link": "https://spacenews.com/canadian-space-agency-cancels-spire-satellite-contract/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-04-30T01:09:21.895546Z",
+            "shown_at": [
+                "2026-04-30T01:09:22.637653Z",
+                "2026-04-30T21:24:18.792740Z"
+            ]
+        },
         {
             "id": "b8dc6c5c22ee8607ae5f2126d18436bc",
             "source": "spacenews",
@@ -7663,289 +7785,6 @@
                 "2026-03-03T17:49:24.355196Z",
                 "2026-03-07T08:04:38.593633Z",
                 "2026-03-09T16:29:25.677075Z"
-            ]
-        },
-        {
-            "id": "8215a008a1243acebe5a52e1b67ef4d0",
-            "source": "spacenews",
-            "text": "Stargazing into the future of SSA",
-            "source_link": "https://spacenews.com/stargazing-into-the-future-of-ssa/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-02T16:52:06.758089Z",
-            "shown_at": [
-                "2026-03-02T16:52:07.656827Z",
-                "2026-03-03T11:24:21.107738Z",
-                "2026-03-03T14:19:08.393876Z",
-                "2026-03-06T02:29:20.707320Z",
-                "2026-03-06T15:29:18.130807Z"
-            ]
-        },
-        {
-            "id": "fafc78bf5d2adbb0b56325a8c76e11bf",
-            "source": "spacenews",
-            "text": "Pentagon details cyber, space ‘first mover’ role in Iran operations",
-            "source_link": "https://spacenews.com/pentagon-details-cyber-space-first-mover-role-in-iran-operations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-02T15:14:58.111785Z",
-            "shown_at": [
-                "2026-03-02T15:14:59.052240Z",
-                "2026-03-03T01:19:12.037505Z"
-            ]
-        },
-        {
-            "id": "d8247fe9442a8774767a865ebfa48fe0",
-            "source": "spacenews",
-            "text": "Hardware is no longer the problem holding back space-based data centers — the supply chain is",
-            "source_link": "https://spacenews.com/hardware-is-no-longer-the-problem-holding-back-space-based-data-centers-the-supply-chain-is/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-02T14:04:40.915257Z",
-            "shown_at": [
-                "2026-03-02T14:04:42.111889Z",
-                "2026-03-07T10:24:18.692238Z",
-                "2026-03-09T09:29:17.698271Z"
-            ]
-        },
-        {
-            "id": "1b5a4fa110cd39bfba3746f36d387d76",
-            "source": "spacenews",
-            "text": "World Space Week 2025 Set Record With 50,000 Events in 102 Countries",
-            "source_link": "https://spacenews.com/world-space-week-2025-set-record-with-50000-events-in-102-countries/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-02T13:29:23.521679Z",
-            "shown_at": [
-                "2026-03-02T13:29:24.900511Z",
-                "2026-03-03T06:34:33.859420Z",
-                "2026-03-03T10:05:28.841669Z",
-                "2026-03-04T07:29:10.752592Z",
-                "2026-03-07T05:44:12.470085Z"
-            ]
-        },
-        {
-            "id": "67404e0ae39f58f5a687f8af0d1bcf3b",
-            "source": "spacenews",
-            "text": "Space Force rethinks satellite ground station strategy",
-            "source_link": "https://spacenews.com/space-force-rethinks-satellite-ground-station-strategy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-02T12:19:20.865119Z",
-            "shown_at": [
-                "2026-03-02T12:19:21.976137Z",
-                "2026-03-02T21:14:13.838605Z",
-                "2026-03-03T21:54:16.079841Z",
-                "2026-03-07T15:59:12.888322Z"
-            ]
-        },
-        {
-            "id": "df2cdc52129d403acba2e7d9633c7126",
-            "source": "nyt",
-            "text": "Blood Moon Lunar Eclipse 2026: Time and Visibility Guide",
-            "source_link": "https://www.nytimes.com/2026/03/02/science/blood-moon-lunar-eclipse-time-when-tonight.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-02T10:29:24.610482Z",
-            "shown_at": [
-                "2026-03-02T10:29:25.395992Z",
-                "2026-03-02T14:39:05.446318Z",
-                "2026-03-03T20:09:20.951810Z",
-                "2026-03-03T21:19:23.716325Z",
-                "2026-03-04T01:34:20.883542Z",
-                "2026-03-04T05:09:45.031083Z",
-                "2026-03-05T19:19:15.084887Z",
-                "2026-03-06T03:09:09.252904Z",
-                "2026-03-06T10:09:17.767430Z",
-                "2026-03-06T13:39:11.566368Z",
-                "2026-03-06T14:54:26.804455Z",
-                "2026-03-06T20:24:26.486095Z",
-                "2026-03-07T02:49:19.013705Z",
-                "2026-03-07T07:29:18.302736Z",
-                "2026-03-07T09:49:14.714700Z",
-                "2026-03-07T15:24:07.698665Z",
-                "2026-03-07T20:04:45.519151Z",
-                "2026-03-07T23:34:20.666480Z",
-                "2026-03-08T09:34:33.509541Z",
-                "2026-03-09T05:24:21.968744Z",
-                "2026-03-09T08:54:31.209712Z"
-            ]
-        },
-        {
-            "id": "0920ac24b8fe4fa9ec06d60be12f6f7c",
-            "source": "spacenews",
-            "text": "Open Cosmos unveils vision for imagery-linked sovereign satellite connectivity",
-            "source_link": "https://spacenews.com/open-cosmos-unveils-vision-for-imagery-linked-sovereign-satellite-connectivity/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-02T08:44:16.245508Z",
-            "shown_at": [
-                "2026-03-02T08:44:17.129942Z",
-                "2026-03-04T19:29:24.145375Z",
-                "2026-03-08T00:09:26.247621Z"
-            ]
-        },
-        {
-            "id": "5e4094592aa174534802e68df81b69c8",
-            "source": "spacenews",
-            "text": "ESA announces 100 million euro satellite-mobile convergence initiative",
-            "source_link": "https://spacenews.com/esa-announces-100-million-euro-satellite-mobile-convergence-initiative/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-02T08:09:26.764533Z",
-            "shown_at": [
-                "2026-03-02T08:09:27.534472Z",
-                "2026-03-07T11:34:08.955724Z",
-                "2026-03-08T15:59:51.775402Z"
-            ]
-        },
-        {
-            "id": "0187d82421adc19ad8e8b74ba7edcaf9",
-            "source": "spacenews",
-            "text": "NASA outlines objectives for Mars communications orbiter",
-            "source_link": "https://spacenews.com/nasa-outlines-objectives-for-mars-communications-orbiter/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-02T00:49:37.555494Z",
-            "shown_at": [
-                "2026-03-02T00:49:38.487708Z",
-                "2026-03-03T02:29:17.535628Z",
-                "2026-03-06T22:09:10.925195Z"
-            ]
-        },
-        {
-            "id": "5272f9d1bc6ba65563566e42f3fc5cbb",
-            "source": "spacenews",
-            "text": "Space Force opens secretive space tracking to commercial firms",
-            "source_link": "https://spacenews.com/space-force-opens-secretive-space-tracking-to-commercial-firms/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-01T19:34:38.194728Z",
-            "shown_at": [
-                "2026-03-01T19:34:39.289479Z",
-                "2026-03-06T06:04:37.855819Z"
-            ]
-        },
-        {
-            "id": "11bcb2c53cf03ad9cf452a04978e5798",
-            "source": "spacenews",
-            "text": "Canadian Space Agency cancels Spire satellite contract",
-            "source_link": "https://spacenews.com/canadian-space-agency-cancels-spire-satellite-contract/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-30T01:09:21.895546Z",
-            "shown_at": [
-                "2026-04-30T01:09:22.637653Z",
-                "2026-04-30T21:24:18.792740Z"
-            ]
-        },
-        {
-            "id": "30663d009e4fce74a96cfaf462e7ed40",
-            "source": "spacenews",
-            "text": "Morocco signs the Artemis Accords",
-            "source_link": "https://spacenews.com/morocco-signs-the-artemis-accords/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-30T11:59:13.494208Z",
-            "shown_at": [
-                "2026-04-30T11:59:14.485809Z"
-            ]
-        },
-        {
-            "id": "f8ef3b5ca3800f047746067fc40e924c",
-            "source": "spacenews",
-            "text": "Cosmoleap secures $73 million for reusable rocket with tower catch recovery",
-            "source_link": "https://spacenews.com/cosmoleap-secures-73-million-for-reusable-rocket-with-tower-catch-recovery/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-30T11:59:13.494282Z",
-            "shown_at": [
-                "2026-04-30T12:34:35.147350Z"
-            ]
-        },
-        {
-            "id": "8c447425244ac4c0676d3d74b99bedf8",
-            "source": "spacenews",
-            "text": "York Space to buy satcom terminal manufacturer All.Space ",
-            "source_link": "https://spacenews.com/york-space-to-buy-satcom-terminal-manufacturer-all-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-30T13:14:08.125862Z",
-            "shown_at": [
-                "2026-04-30T13:14:08.860889Z"
-            ]
-        },
-        {
-            "id": "481e36dae428520d027062d3266bb378",
-            "source": "spacenews",
-            "text": "Planet and Carbon Mapper to fly SWIR Tanager",
-            "source_link": "https://spacenews.com/planet-and-carbon-mapper-to-fly-swir-tanager/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-30T13:14:08.125919Z",
-            "shown_at": [
-                "2026-04-30T13:49:30.942612Z"
-            ]
-        },
-        {
-            "id": "7d010786102019eba4336c93a8af71a8",
-            "source": "spacenews",
-            "text": "America needs a space alliance",
-            "source_link": "https://spacenews.com/america-needs-a-space-alliance/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-30T13:14:08.125964Z",
-            "shown_at": [
-                "2026-04-30T14:24:26.969343Z"
-            ]
-        },
-        {
-            "id": "821b09721f9fb3f85dc713df027e2e92",
-            "source": "spacenews",
-            "text": "House appropriators keep NASA funding flat",
-            "source_link": "https://spacenews.com/house-appropriators-keep-nasa-funding-flat/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-30T16:09:13.034116Z",
-            "shown_at": [
-                "2026-04-30T16:09:13.880874Z",
-                "2026-04-30T22:34:25.383135Z"
-            ]
-        },
-        {
-            "id": "1f2d0e6ff5f44654e9b660e68cc55844",
-            "source": "spacenews",
-            "text": "U.S. investors dominate Europe’s private-led space scale-up rounds",
-            "source_link": "https://spacenews.com/u-s-investors-dominate-europes-private-led-space-scale-up-rounds/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-30T19:04:55.612150Z",
-            "shown_at": [
-                "2026-04-30T19:04:57.224800Z"
-            ]
-        },
-        {
-            "id": "9c69bfdd630fafdc6d24a06d4243c0cb",
-            "source": "spacenews",
-            "text": "Northrop Grumman delivers sensor for missile-warning satellite as Pentagon cancels program",
-            "source_link": "https://spacenews.com/northrop-grumman-delivers-sensor-for-missile-warning-satellite-as-pentagon-cancels-program/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-30T23:09:17.823602Z",
-            "shown_at": [
-                "2026-04-30T23:09:19.039332Z"
-            ]
-        },
-        {
-            "id": "04f0502fbc993778fdb9bb08745d7a50",
-            "source": "spacenews",
-            "text": "SpaceComputer to conduct on-orbit test of secure computing infrastructure",
-            "source_link": "https://spacenews.com/spacecomputer-to-conduct-on-orbit-test-of-secure-computing-infrastructure/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-30T23:44:21.658954Z",
-            "shown_at": [
-                "2026-04-30T23:44:22.812176Z"
             ]
         }
     ]
