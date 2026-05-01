@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 19 | 18 | 40 |
-| nyt | 1 | 1 | 8 | 27 |
+| nyt | 1 | 1 | 9 | 27 |
 
 # Shown Order
 
@@ -2295,3 +2295,4 @@
 - **May 01, 01:29 AM** - Space Force taps K2 satellites to test laser communications for missile-defense (spacenews)
 - **May 01, 10:29 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 01, 11:09 AM** - DARPA selects three companies for lunar orbiter studies (spacenews)
+- **May 01, 11:44 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
