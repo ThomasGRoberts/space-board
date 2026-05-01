@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-01T00:04:41.147954+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8c0677a696b9af4343d8bdeb55200422",
+    "trigger_count": 0,
+    "current_item_id": "ed9280a90a24837ac1a96606051585e8",
     "data": [
         {
             "id": "04f0502fbc993778fdb9bb08745d7a50",
@@ -7838,6 +7838,27 @@
             "shown_at": [
                 "2026-05-01T12:19:28.356371Z"
             ]
+        },
+        {
+            "id": "ed9280a90a24837ac1a96606051585e8",
+            "source": "spacenews",
+            "text": "Starcloud seeks more orbital data center funding shortly after unicorn status",
+            "source_link": "https://spacenews.com/starcloud-seeks-more-orbital-data-center-funding-shortly-after-unicorn-status/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-01T13:29:08.779028Z",
+            "shown_at": [
+                "2026-05-01T13:29:09.609940Z"
+            ]
+        },
+        {
+            "id": "405df207848ef17b66dff29affbd9662",
+            "source": "spacenews",
+            "text": "Trump nominates Schiess as next Space Force chief",
+            "source_link": "https://spacenews.com/trump-nominates-schiess-as-next-space-force-chief/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-05-01T13:29:08.779097Z"
         }
     ]
 }
