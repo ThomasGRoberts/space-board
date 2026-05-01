@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 19 | 17 | 40 |
-| nyt | 1 | 1 | 9 | 27 |
+| nyt | 1 | 1 | 10 | 28 |
 
 # Shown Order
 
@@ -2297,3 +2297,4 @@
 - **May 01, 11:09 AM** - DARPA selects three companies for lunar orbiter studies (spacenews)
 - **May 01, 11:44 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 01, 12:19 PM** - Amazon Leo passes 300 satellites with Atlas and Ariane launches (spacenews)
+- **May 01, 12:54 PM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
