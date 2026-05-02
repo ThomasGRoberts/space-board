@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 7 | 11 | 18 |
+| spacenews | 0 | 7 | 12 | 19 |
 | nyt | 0 | 1 | 11 | 15 |
 
 # Shown Order
@@ -2268,3 +2268,4 @@
 - **May 02, 09:14 PM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 02, 09:49 PM** - House appropriators keep NASA funding flat (spacenews)
 - **May 02, 10:24 PM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
+- **May 02, 10:59 PM** - EraDrive and Northrop Grumman  collaborate on AI-enabled autonomy (spacenews)
