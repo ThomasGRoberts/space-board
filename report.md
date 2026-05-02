@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 14 | 4 | 21 |
+| spacenews | 4 | 14 | 5 | 22 |
 | nyt | 0 | 1 | 3 | 12 |
 
 # Shown Order
@@ -2248,3 +2248,4 @@
 - **May 01, 01:29 PM** - Starcloud seeks more orbital data center funding shortly after unicorn status (spacenews)
 - **May 02, 09:54 AM** - Trump nominates Schiess as next Space Force chief (spacenews)
 - **May 02, 10:29 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
+- **May 02, 11:04 AM** - Overview Energy to provide space-based solar power for Meta data centers (spacenews)
