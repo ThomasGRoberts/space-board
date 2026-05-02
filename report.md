@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 9 | 4 | 20 |
+| spacenews | 2 | 9 | 5 | 21 |
 | nyt | 0 | 1 | 3 | 13 |
 
 # Shown Order
@@ -2252,3 +2252,4 @@
 - **May 02, 11:39 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 02, 12:14 PM** - Corrosion problem affects Gateway and commercial space station modules (spacenews)
 - **May 02, 12:49 PM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
+- **May 02, 01:24 PM** - China launches PRSC-EO3 for Pakistan, lofts internet test and environment monitoring satellites (spacenews)
