@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 7 | 9 | 19 |
-| nyt | 0 | 1 | 8 | 14 |
+| nyt | 0 | 1 | 9 | 15 |
 
 # Shown Order
 
@@ -2263,3 +2263,4 @@
 - **May 02, 06:04 PM** - True Anomaly raises $650 million, reaching $2.2 billion valuation (spacenews)
 - **May 02, 06:54 PM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 02, 07:29 PM** - Canadian Space Agency cancels Spire satellite contract (spacenews)
+- **May 02, 08:04 PM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
