@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 9 | 5 | 19 |
+| spacenews | 0 | 9 | 6 | 20 |
 | nyt | 0 | 1 | 5 | 14 |
 
 # Shown Order
@@ -2256,3 +2256,4 @@
 - **May 02, 01:59 PM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 02, 02:34 PM** - U.S. investors dominate Europe’s private-led space scale-up rounds (spacenews)
 - **May 02, 03:09 PM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
+- **May 02, 03:44 PM** - Northrop Grumman delivers sensor for missile-warning satellite as Pentagon cancels program (spacenews)
