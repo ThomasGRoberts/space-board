@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 7 | 10 | 19 |
-| nyt | 0 | 1 | 9 | 14 |
+| nyt | 0 | 1 | 10 | 15 |
 
 # Shown Order
 
@@ -2265,3 +2265,4 @@
 - **May 02, 07:29 PM** - Canadian Space Agency cancels Spire satellite contract (spacenews)
 - **May 02, 08:04 PM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 02, 08:39 PM** - Appropriators reject NASA budget proposal (spacenews)
+- **May 02, 09:14 PM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
