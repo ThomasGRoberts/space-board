@@ -1,9 +1,80 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-05-01T00:04:41.147954+00:00",
-    "trigger_count": 2,
+    "last_run_datetime": "2026-05-02T02:55:39.929149+00:00",
+    "trigger_count": 3,
     "current_item_id": "ed9280a90a24837ac1a96606051585e8",
     "data": [
+        {
+            "id": "405df207848ef17b66dff29affbd9662",
+            "source": "spacenews",
+            "text": "Trump nominates Schiess as next Space Force chief",
+            "source_link": "https://spacenews.com/trump-nominates-schiess-as-next-space-force-chief/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-05-01T13:29:08.779097Z"
+        },
+        {
+            "id": "ed9280a90a24837ac1a96606051585e8",
+            "source": "spacenews",
+            "text": "Starcloud seeks more orbital data center funding shortly after unicorn status",
+            "source_link": "https://spacenews.com/starcloud-seeks-more-orbital-data-center-funding-shortly-after-unicorn-status/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-01T13:29:08.779028Z",
+            "shown_at": [
+                "2026-05-01T13:29:09.609940Z"
+            ]
+        },
+        {
+            "id": "ec3fee0234c7cfd4bd39ce3f39dceacd",
+            "source": "spacenews",
+            "text": "Amazon Leo passes 300 satellites with Atlas and Ariane launches",
+            "source_link": "https://spacenews.com/amazon-leo-passes-300-satellites-with-atlas-and-ariane-launches/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-01T12:19:27.559989Z",
+            "shown_at": [
+                "2026-05-01T12:19:28.356371Z"
+            ]
+        },
+        {
+            "id": "81942147bb55463cffb47b2b97f9c08d",
+            "source": "spacenews",
+            "text": "DARPA selects three companies for lunar orbiter studies",
+            "source_link": "https://spacenews.com/darpa-selects-three-companies-for-lunar-orbiter-studies/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-01T11:09:06.000571Z",
+            "shown_at": [
+                "2026-05-01T11:09:06.740324Z"
+            ]
+        },
+        {
+            "id": "8c0677a696b9af4343d8bdeb55200422",
+            "source": "nyt",
+            "text": "Why So Many People Already Own Shares of Elon Musk’s SpaceX",
+            "source_link": "https://www.nytimes.com/2026/05/01/technology/elon-musk-spacex-private-company-stock.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-01T10:29:11.805051Z",
+            "shown_at": [
+                "2026-05-01T10:29:12.584574Z",
+                "2026-05-01T11:44:34.776838Z",
+                "2026-05-01T12:54:21.169911Z"
+            ]
+        },
+        {
+            "id": "862c1982204683fe39117148b69d2f1e",
+            "source": "spacenews",
+            "text": "Space Force taps K2 satellites to test laser communications for missile-defense",
+            "source_link": "https://spacenews.com/space-force-taps-k2-satellites-to-test-laser-communications-for-missile-defense/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-01T01:29:01.755932Z",
+            "shown_at": [
+                "2026-05-01T01:29:02.801056Z"
+            ]
+        },
         {
             "id": "04f0502fbc993778fdb9bb08745d7a50",
             "source": "spacenews",
@@ -7669,196 +7740,6 @@
                 "2026-03-06T08:24:17.325662Z",
                 "2026-03-09T10:39:30.887730Z"
             ]
-        },
-        {
-            "id": "542c6c0ddc6dfb1c625ebdeebe5708b9",
-            "source": "nyt",
-            "text": "Experiment Shows Possibility of Martian Microbes Hitching a Ride to Earth",
-            "source_link": "https://www.nytimes.com/2026/03/03/science/microbes-mars-life-asteroid.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-03T13:44:30.858180Z",
-            "shown_at": [
-                "2026-03-03T13:44:32.134013Z",
-                "2026-03-03T14:54:32.516886Z",
-                "2026-03-04T10:34:15.839852Z",
-                "2026-03-04T11:44:13.927909Z",
-                "2026-03-04T14:39:04.743579Z",
-                "2026-03-04T15:49:21.044069Z",
-                "2026-03-05T04:29:27.258536Z",
-                "2026-03-06T05:29:35.218875Z",
-                "2026-03-06T08:59:03.293904Z",
-                "2026-03-06T12:29:19.335173Z",
-                "2026-03-06T21:34:33.805775Z",
-                "2026-03-07T00:29:22.158491Z",
-                "2026-03-07T05:09:15.736433Z",
-                "2026-03-07T06:19:14.547776Z",
-                "2026-03-07T10:59:12.908877Z",
-                "2026-03-07T14:09:13.248392Z",
-                "2026-03-08T02:29:09.631027Z",
-                "2026-03-08T06:04:33.771661Z",
-                "2026-03-08T14:14:18.243242Z",
-                "2026-03-08T17:44:19.392840Z",
-                "2026-03-08T20:04:45.812115Z",
-                "2026-03-08T23:34:45.569946Z",
-                "2026-03-09T03:04:41.863567Z",
-                "2026-03-09T10:04:33.114905Z"
-            ]
-        },
-        {
-            "id": "6de5d7f8169465ac6dd87b5dd805aee3",
-            "source": "spacenews",
-            "text": "Redwire unveils new solar array",
-            "source_link": "https://spacenews.com/redwire-unveils-new-solar-array/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-03T13:09:04.390825Z",
-            "shown_at": [
-                "2026-03-03T13:09:05.473127Z",
-                "2026-03-09T11:49:23.699561Z"
-            ]
-        },
-        {
-            "id": "b082cd78bc3861ce824f8aa7d79e3d3d",
-            "source": "spacenews",
-            "text": "Spectrum showdown",
-            "source_link": "https://spacenews.com/spectrum-showdown/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-03T12:34:46.280623Z",
-            "shown_at": [
-                "2026-03-03T12:34:47.480753Z",
-                "2026-03-08T07:49:13.700672Z"
-            ]
-        },
-        {
-            "id": "82b2c1ea411952fc07d562895aa7bcc9",
-            "source": "nyt",
-            "text": "Blood Moon Total Lunar Eclipse 2026: Time and Visibility Guide",
-            "source_link": "https://www.nytimes.com/2026/03/02/science/blood-moon-lunar-eclipse-time-when-tonight.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-03T03:38:59.685959Z",
-            "shown_at": [
-                "2026-03-03T03:39:00.519205Z",
-                "2026-03-03T05:59:35.022147Z",
-                "2026-03-03T09:29:12.288046Z",
-                "2026-03-04T06:54:12.624633Z",
-                "2026-03-04T17:44:39.533071Z",
-                "2026-03-04T18:54:49.690094Z",
-                "2026-03-04T22:29:07.638161Z",
-                "2026-03-05T15:59:04.711276Z",
-                "2026-03-06T01:54:15.471530Z",
-                "2026-03-06T18:34:59.295567Z",
-                "2026-03-06T22:44:42.961226Z",
-                "2026-03-07T03:59:03.377594Z",
-                "2026-03-07T22:24:20.287989Z",
-                "2026-03-08T00:44:18.106605Z",
-                "2026-03-08T04:54:11.608446Z",
-                "2026-03-08T16:34:21.570046Z",
-                "2026-03-09T07:44:19.541361Z",
-                "2026-03-09T20:39:06.282707Z"
-            ]
-        },
-        {
-            "id": "02740bf89bff1d922bf5c86e149d6a5d",
-            "source": "spacenews",
-            "text": "Deutsche Telekom aims to bring Starlink Mobile V2 to Europe in 2028",
-            "source_link": "https://spacenews.com/deutsche-telekom-aims-to-bring-starlink-mobile-v2-to-europe-in-2028/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-02T22:59:14.886896Z",
-            "shown_at": [
-                "2026-03-02T22:59:16.281780Z",
-                "2026-03-09T21:14:46.738302Z"
-            ]
-        },
-        {
-            "id": "fe005c36b799d6ef74cf2ffc471aa935",
-            "source": "spacenews",
-            "text": "Kelli Kedis Ogborn Joining Commercial Space Federation as Strategic Advisor for Global Markets and Industry Engagement",
-            "source_link": "https://spacenews.com/kelli-kedis-ogborn-joining-commercial-space-federation-as-strategic-advisor-for-global-markets-and-industry-engagement/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-02T20:05:05.273346Z",
-            "shown_at": [
-                "2026-03-02T20:05:06.444733Z",
-                "2026-03-03T15:29:08.503611Z",
-                "2026-03-03T17:49:24.355196Z",
-                "2026-03-07T08:04:38.593633Z",
-                "2026-03-09T16:29:25.677075Z"
-            ]
-        },
-        {
-            "id": "862c1982204683fe39117148b69d2f1e",
-            "source": "spacenews",
-            "text": "Space Force taps K2 satellites to test laser communications for missile-defense",
-            "source_link": "https://spacenews.com/space-force-taps-k2-satellites-to-test-laser-communications-for-missile-defense/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-01T01:29:01.755932Z",
-            "shown_at": [
-                "2026-05-01T01:29:02.801056Z"
-            ]
-        },
-        {
-            "id": "8c0677a696b9af4343d8bdeb55200422",
-            "source": "nyt",
-            "text": "Why So Many People Already Own Shares of Elon Musk’s SpaceX",
-            "source_link": "https://www.nytimes.com/2026/05/01/technology/elon-musk-spacex-private-company-stock.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-01T10:29:11.805051Z",
-            "shown_at": [
-                "2026-05-01T10:29:12.584574Z",
-                "2026-05-01T11:44:34.776838Z",
-                "2026-05-01T12:54:21.169911Z"
-            ]
-        },
-        {
-            "id": "81942147bb55463cffb47b2b97f9c08d",
-            "source": "spacenews",
-            "text": "DARPA selects three companies for lunar orbiter studies",
-            "source_link": "https://spacenews.com/darpa-selects-three-companies-for-lunar-orbiter-studies/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-01T11:09:06.000571Z",
-            "shown_at": [
-                "2026-05-01T11:09:06.740324Z"
-            ]
-        },
-        {
-            "id": "ec3fee0234c7cfd4bd39ce3f39dceacd",
-            "source": "spacenews",
-            "text": "Amazon Leo passes 300 satellites with Atlas and Ariane launches",
-            "source_link": "https://spacenews.com/amazon-leo-passes-300-satellites-with-atlas-and-ariane-launches/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-01T12:19:27.559989Z",
-            "shown_at": [
-                "2026-05-01T12:19:28.356371Z"
-            ]
-        },
-        {
-            "id": "ed9280a90a24837ac1a96606051585e8",
-            "source": "spacenews",
-            "text": "Starcloud seeks more orbital data center funding shortly after unicorn status",
-            "source_link": "https://spacenews.com/starcloud-seeks-more-orbital-data-center-funding-shortly-after-unicorn-status/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-01T13:29:08.779028Z",
-            "shown_at": [
-                "2026-05-01T13:29:09.609940Z"
-            ]
-        },
-        {
-            "id": "405df207848ef17b66dff29affbd9662",
-            "source": "spacenews",
-            "text": "Trump nominates Schiess as next Space Force chief",
-            "source_link": "https://spacenews.com/trump-nominates-schiess-as-next-space-force-chief/",
-            "shown": false,
-            "type": "news",
-            "fetched_datetime": "2026-05-01T13:29:08.779097Z"
         }
     ]
 }
