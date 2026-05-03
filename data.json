@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-03T00:04:29.775488+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0af14863da77afeb19e32ec92f87f179",
+    "trigger_count": 0,
+    "current_item_id": "c22a001ed2a724a9cca66ca74b2b6f81",
     "data": [
         {
             "id": "405df207848ef17b66dff29affbd9662",
@@ -7810,6 +7810,18 @@
             "shown_at": [
                 "2026-05-03T00:49:29.601278Z",
                 "2026-05-03T18:34:31.920187Z"
+            ]
+        },
+        {
+            "id": "c22a001ed2a724a9cca66ca74b2b6f81",
+            "source": "spacenews",
+            "text": "NGA pushes AI adoption as demand grows for ‘always-on’ intelligence ",
+            "source_link": "https://spacenews.com/nga-pushes-ai-adoption-as-demand-grows-for-always-on-intelligence/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-03T20:18:54.826862Z",
+            "shown_at": [
+                "2026-05-03T20:18:55.737785Z"
             ]
         }
     ]
