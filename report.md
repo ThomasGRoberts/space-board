@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 5 | 20 | 23 |
-| nyt | 0 | 1 | 18 | 21 |
+| nyt | 0 | 1 | 19 | 22 |
 
 # Shown Order
 
@@ -2284,3 +2284,4 @@
 - **May 03, 06:44 AM** - Cosmoleap secures $73 million for reusable rocket with tower catch recovery (spacenews)
 - **May 03, 07:18 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 03, 07:54 AM** - May 13: Software Integration and Strategic Missile Defense (spacenews)
+- **May 03, 08:29 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
