@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 5 | 17 | 20 |
+| spacenews | 1 | 5 | 18 | 21 |
 | nyt | 0 | 1 | 16 | 19 |
 
 # Shown Order
@@ -2279,3 +2279,4 @@
 - **May 03, 03:44 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 03, 04:19 AM** - Appropriators reject NASA budget proposal (spacenews)
 - **May 03, 04:59 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
+- **May 03, 05:34 AM** - Falcon Heavy launches final ViaSat-3 terabit-class satellite (spacenews)
