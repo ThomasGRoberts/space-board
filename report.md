@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 3 | 22 | 33 |
-| nyt | 0 | 0 | 18 | 29 |
+| nyt | 0 | 0 | 19 | 30 |
 
 # Shown Order
 
@@ -2308,3 +2308,4 @@
 - **May 03, 08:54 PM** - National Geospatial-Intelligence Agency to open programs to more vendors (spacenews)
 - **May 03, 09:29 PM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 03, 10:04 PM** - Trump nominates Schiess as next Space Force chief (spacenews)
+- **May 03, 10:39 PM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
