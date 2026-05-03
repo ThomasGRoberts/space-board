@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 1 | 20 | 29 |
+| spacenews | 1 | 1 | 21 | 30 |
 | nyt | 0 | 0 | 20 | 28 |
 
 # Shown Order
@@ -2303,3 +2303,4 @@
 - **May 03, 05:58 PM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 03, 06:34 PM** - Artemis 3 plans remain uncertain as schedule slips (spacenews)
 - **May 03, 07:09 PM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
+- **May 03, 07:44 PM** - Seraphim’s public trust seeks to raise up to $474 million (spacenews)
