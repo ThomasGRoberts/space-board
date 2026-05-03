@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-03T00:04:29.775488+00:00",
-    "trigger_count": 6,
-    "current_item_id": "16541a021e3a249acaededb2e1766ea1",
+    "trigger_count": 0,
+    "current_item_id": "5e569a02fbd9105671bbb0af38eed18c",
     "data": [
         {
             "id": "405df207848ef17b66dff29affbd9662",
@@ -7766,6 +7766,18 @@
                 "2026-03-05T18:44:19.272828Z",
                 "2026-03-06T08:24:17.325662Z",
                 "2026-03-09T10:39:30.887730Z"
+            ]
+        },
+        {
+            "id": "5e569a02fbd9105671bbb0af38eed18c",
+            "source": "spacenews",
+            "text": "Artemis 3 plans remain uncertain as schedule slips",
+            "source_link": "https://spacenews.com/artemis-3-plans-remain-uncertain-as-schedule-slips/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-03T00:49:28.498909Z",
+            "shown_at": [
+                "2026-05-03T00:49:29.601278Z"
             ]
         }
     ]
