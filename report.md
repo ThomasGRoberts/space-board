@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 5 | 15 | 18 |
-| nyt | 0 | 1 | 13 | 16 |
+| nyt | 0 | 1 | 14 | 17 |
 
 # Shown Order
 
@@ -2274,3 +2274,4 @@
 - **May 03, 12:49 AM** - Artemis 3 plans remain uncertain as schedule slips (spacenews)
 - **May 03, 01:24 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 03, 01:59 AM** - Canadian Space Agency cancels Spire satellite contract (spacenews)
+- **May 03, 02:34 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
