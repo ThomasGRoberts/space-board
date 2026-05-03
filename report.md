@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 1 | 20 | 27 |
+| spacenews | 1 | 1 | 21 | 28 |
 | nyt | 0 | 0 | 20 | 26 |
 
 # Shown Order
@@ -2299,3 +2299,4 @@
 - **May 03, 03:29 PM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 03, 04:09 PM** - Morocco signs the Artemis Accords (spacenews)
 - **May 03, 04:49 PM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
+- **May 03, 05:24 PM** - Starcloud seeks more orbital data center funding shortly after unicorn status (spacenews)
