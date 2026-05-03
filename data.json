@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-03T00:04:29.775488+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c22a001ed2a724a9cca66ca74b2b6f81",
+    "trigger_count": 0,
+    "current_item_id": "67ba3ee2b562de611bb1c74ee1e4ef88",
     "data": [
         {
             "id": "405df207848ef17b66dff29affbd9662",
@@ -7822,6 +7822,18 @@
             "fetched_datetime": "2026-05-03T20:18:54.826862Z",
             "shown_at": [
                 "2026-05-03T20:18:55.737785Z"
+            ]
+        },
+        {
+            "id": "67ba3ee2b562de611bb1c74ee1e4ef88",
+            "source": "spacenews",
+            "text": "National Geospatial-Intelligence Agency to open programs to more vendors",
+            "source_link": "https://spacenews.com/national-geospatial-intelligence-agency-to-open-programs-to-more-vendors/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-03T20:54:25.700985Z",
+            "shown_at": [
+                "2026-05-03T20:54:26.475175Z"
             ]
         }
     ]
