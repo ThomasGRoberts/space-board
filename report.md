@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 5 | 16 | 19 |
-| nyt | 0 | 1 | 14 | 17 |
+| nyt | 0 | 1 | 15 | 18 |
 
 # Shown Order
 
@@ -2276,3 +2276,4 @@
 - **May 03, 01:59 AM** - Canadian Space Agency cancels Spire satellite contract (spacenews)
 - **May 03, 02:34 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 03, 03:09 AM** - Seraphim’s public trust seeks to raise up to $474 million (spacenews)
+- **May 03, 03:44 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
