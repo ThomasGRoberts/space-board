@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 4 | 21 | 25 |
-| nyt | 0 | 0 | 19 | 22 |
+| nyt | 0 | 0 | 20 | 23 |
 
 # Shown Order
 
@@ -2290,3 +2290,4 @@
 - **May 03, 10:14 AM** - Revolutionizing global aerospace transportation (spacenews)
 - **May 03, 10:49 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 03, 11:24 AM** - Morocco signs the Artemis Accords (spacenews)
+- **May 03, 11:59 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
