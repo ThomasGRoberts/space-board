@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 3 | 21 | 32 |
+| spacenews | 3 | 3 | 22 | 33 |
 | nyt | 0 | 0 | 19 | 29 |
 
 # Shown Order
@@ -2307,3 +2307,4 @@
 - **May 03, 08:18 PM** - NGA pushes AI adoption as demand grows for ‘always-on’ intelligence  (spacenews)
 - **May 03, 08:54 PM** - National Geospatial-Intelligence Agency to open programs to more vendors (spacenews)
 - **May 03, 09:29 PM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
+- **May 03, 10:04 PM** - Trump nominates Schiess as next Space Force chief (spacenews)
