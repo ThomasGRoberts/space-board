@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 1 | 21 | 26 |
-| nyt | 0 | 0 | 19 | 24 |
+| nyt | 0 | 0 | 20 | 25 |
 
 # Shown Order
 
@@ -2296,3 +2296,4 @@
 - **May 03, 01:44 PM** - Seraphim’s public trust seeks to raise up to $474 million (spacenews)
 - **May 03, 02:19 PM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 03, 02:54 PM** - Space Foundation Premieres National Space Day Video May 1 (spacenews)
+- **May 03, 03:29 PM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
