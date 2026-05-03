@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 5 | 21 | 24 |
-| nyt | 0 | 1 | 19 | 22 |
+| nyt | 0 | 1 | 20 | 23 |
 
 # Shown Order
 
@@ -2286,3 +2286,4 @@
 - **May 03, 07:54 AM** - May 13: Software Integration and Strategic Missile Defense (spacenews)
 - **May 03, 08:29 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 03, 09:04 AM** - Space Force selects firms to build counter-surveillance payloads for satellites (spacenews)
+- **May 03, 09:39 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
