@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 21 | 36 |
-| nyt | 0 | 0 | 19 | 32 |
+| nyt | 0 | 0 | 20 | 33 |
 
 # Shown Order
 
@@ -2276,3 +2276,4 @@
 - **May 04, 12:29 AM** - America needs a space alliance (spacenews)
 - **May 04, 01:04 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 04, 01:40 AM** - Northrop Grumman delivers sensor for missile-warning satellite as Pentagon cancels program (spacenews)
+- **May 04, 02:14 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
