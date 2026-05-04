@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 4 | 21 | 42 |
+| spacenews | 3 | 4 | 22 | 42 |
 | nyt | 0 | 0 | 19 | 39 |
 
 # Shown Order
@@ -2291,3 +2291,4 @@
 - **May 04, 09:19 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 04, 09:54 AM** - Corrosion problem affects Gateway and commercial space station modules (spacenews)
 - **May 04, 10:29 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
+- **May 04, 11:04 AM** - Cosmoleap secures $73 million for reusable rocket with tower catch recovery (spacenews)
