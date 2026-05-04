@@ -1,9 +1,46 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-05-03T00:04:29.775488+00:00",
-    "trigger_count": 1,
+    "last_run_datetime": "2026-05-04T00:04:24.561552+00:00",
+    "trigger_count": 2,
     "current_item_id": "8c0677a696b9af4343d8bdeb55200422",
     "data": [
+        {
+            "id": "67ba3ee2b562de611bb1c74ee1e4ef88",
+            "source": "spacenews",
+            "text": "National Geospatial-Intelligence Agency to open programs to more vendors",
+            "source_link": "https://spacenews.com/national-geospatial-intelligence-agency-to-open-programs-to-more-vendors/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-03T20:54:25.700985Z",
+            "shown_at": [
+                "2026-05-03T20:54:26.475175Z"
+            ]
+        },
+        {
+            "id": "c22a001ed2a724a9cca66ca74b2b6f81",
+            "source": "spacenews",
+            "text": "NGA pushes AI adoption as demand grows for ‘always-on’ intelligence ",
+            "source_link": "https://spacenews.com/nga-pushes-ai-adoption-as-demand-grows-for-always-on-intelligence/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-03T20:18:54.826862Z",
+            "shown_at": [
+                "2026-05-03T20:18:55.737785Z"
+            ]
+        },
+        {
+            "id": "5e569a02fbd9105671bbb0af38eed18c",
+            "source": "spacenews",
+            "text": "Artemis 3 plans remain uncertain as schedule slips",
+            "source_link": "https://spacenews.com/artemis-3-plans-remain-uncertain-as-schedule-slips/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-03T00:49:28.498909Z",
+            "shown_at": [
+                "2026-05-03T00:49:29.601278Z",
+                "2026-05-03T18:34:31.920187Z"
+            ]
+        },
         {
             "id": "405df207848ef17b66dff29affbd9662",
             "source": "spacenews",
@@ -7731,114 +7768,6 @@
                 "2026-03-07T02:14:19.727054Z",
                 "2026-03-07T13:34:26.282661Z",
                 "2026-03-08T12:29:09.312018Z"
-            ]
-        },
-        {
-            "id": "37c630b2f7f9c93120220788af0fb206",
-            "source": "spacenews",
-            "text": "Space Force modernization push runs into acquisition workforce shortfall",
-            "source_link": "https://spacenews.com/space-force-modernization-push-runs-into-acquisition-workforce-shortfall/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-03T22:29:14.916280Z",
-            "shown_at": [
-                "2026-03-03T22:29:15.873183Z",
-                "2026-03-04T04:34:41.920424Z",
-                "2026-03-07T18:19:28.697261Z",
-                "2026-03-08T22:59:10.697796Z"
-            ]
-        },
-        {
-            "id": "d79c98e82385048615bcc6e55116f4f9",
-            "source": "nyt",
-            "text": "Photos: Blood Moon Total Lunar Eclipse 2026",
-            "source_link": "https://www.nytimes.com/2026/03/02/science/blood-moon-lunar-eclipse-time-when-tonight.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-03T17:14:25.750500Z",
-            "shown_at": [
-                "2026-03-03T17:14:26.979995Z",
-                "2026-03-03T18:24:12.382996Z",
-                "2026-03-04T03:59:02.276363Z",
-                "2026-03-04T08:09:13.813750Z",
-                "2026-03-05T09:19:13.104735Z",
-                "2026-03-05T20:29:17.505819Z",
-                "2026-03-07T01:39:18.369035Z",
-                "2026-03-07T12:44:14.340639Z",
-                "2026-03-07T16:34:39.337988Z",
-                "2026-03-07T17:44:26.627087Z",
-                "2026-03-07T18:54:10.159630Z",
-                "2026-03-07T21:14:18.185770Z",
-                "2026-03-08T03:39:09.122793Z",
-                "2026-03-08T07:14:13.450533Z",
-                "2026-03-08T18:54:23.489112Z",
-                "2026-03-09T00:44:30.090233Z",
-                "2026-03-09T01:53:48.640006Z",
-                "2026-03-09T04:14:17.484708Z",
-                "2026-03-09T06:34:37.182339Z",
-                "2026-03-09T15:54:25.339419Z",
-                "2026-03-09T17:04:44.284982Z",
-                "2026-03-10T00:44:19.356175Z",
-                "2026-03-10T01:54:13.393219Z",
-                "2026-03-10T03:04:36.514527Z",
-                "2026-03-10T05:24:27.737284Z",
-                "2026-03-10T06:34:28.085758Z",
-                "2026-03-10T07:44:12.196295Z",
-                "2026-03-10T15:29:40.045201Z"
-            ]
-        },
-        {
-            "id": "270ac60fd3abdefe669f48f564e79df9",
-            "source": "spacenews",
-            "text": "When space is hot, Washington holds a match",
-            "source_link": "https://spacenews.com/when-space-is-hot-washington-holds-a-match/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-03T16:04:42.135776Z",
-            "shown_at": [
-                "2026-03-03T16:04:43.065155Z",
-                "2026-03-04T18:19:14.967139Z",
-                "2026-03-05T07:34:50.126876Z",
-                "2026-03-05T18:44:19.272828Z",
-                "2026-03-06T08:24:17.325662Z",
-                "2026-03-09T10:39:30.887730Z"
-            ]
-        },
-        {
-            "id": "5e569a02fbd9105671bbb0af38eed18c",
-            "source": "spacenews",
-            "text": "Artemis 3 plans remain uncertain as schedule slips",
-            "source_link": "https://spacenews.com/artemis-3-plans-remain-uncertain-as-schedule-slips/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-03T00:49:28.498909Z",
-            "shown_at": [
-                "2026-05-03T00:49:29.601278Z",
-                "2026-05-03T18:34:31.920187Z"
-            ]
-        },
-        {
-            "id": "c22a001ed2a724a9cca66ca74b2b6f81",
-            "source": "spacenews",
-            "text": "NGA pushes AI adoption as demand grows for ‘always-on’ intelligence ",
-            "source_link": "https://spacenews.com/nga-pushes-ai-adoption-as-demand-grows-for-always-on-intelligence/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-03T20:18:54.826862Z",
-            "shown_at": [
-                "2026-05-03T20:18:55.737785Z"
-            ]
-        },
-        {
-            "id": "67ba3ee2b562de611bb1c74ee1e4ef88",
-            "source": "spacenews",
-            "text": "National Geospatial-Intelligence Agency to open programs to more vendors",
-            "source_link": "https://spacenews.com/national-geospatial-intelligence-agency-to-open-programs-to-more-vendors/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-03T20:54:25.700985Z",
-            "shown_at": [
-                "2026-05-03T20:54:26.475175Z"
             ]
         }
     ]
