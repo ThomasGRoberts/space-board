@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-04T00:04:24.561552+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8c0677a696b9af4343d8bdeb55200422",
+    "trigger_count": 0,
+    "current_item_id": "02fad59641f42558f4a977520c293382",
     "data": [
         {
             "id": "67ba3ee2b562de611bb1c74ee1e4ef88",
@@ -7772,6 +7772,18 @@
                 "2026-03-07T02:14:19.727054Z",
                 "2026-03-07T13:34:26.282661Z",
                 "2026-03-08T12:29:09.312018Z"
+            ]
+        },
+        {
+            "id": "02fad59641f42558f4a977520c293382",
+            "source": "spacenews",
+            "text": "Falcon 9 launches South Korean satellite and 45 rideshare payloads",
+            "source_link": "https://spacenews.com/falcon-9-launches-south-korean-satellite-and-45-rideshare-payloads/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-04T02:49:08.747611Z",
+            "shown_at": [
+                "2026-05-04T02:49:09.603165Z"
             ]
         }
     ]
