@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-04T00:04:24.561552+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6da545206ac7bba1cba9d20ced3690b4",
+    "trigger_count": 0,
+    "current_item_id": "5818779ecbb002650ee138a2406ac4e6",
     "data": [
         {
             "id": "67ba3ee2b562de611bb1c74ee1e4ef88",
@@ -7877,9 +7877,12 @@
             "source": "spacenews",
             "text": "OroraTech deploys wildfire constellation for Greece",
             "source_link": "https://spacenews.com/ororatech-deploys-wildfire-constellation-for-greece/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-05-04T14:09:11.801327Z"
+            "fetched_datetime": "2026-05-04T14:09:11.801327Z",
+            "shown_at": [
+                "2026-05-04T15:19:31.200466Z"
+            ]
         }
     ]
 }

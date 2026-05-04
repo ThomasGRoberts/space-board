@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 11 | 24 | 45 |
+| spacenews | 10 | 11 | 25 | 46 |
 | nyt | 0 | 0 | 16 | 35 |
 
 # Shown Order
@@ -2298,3 +2298,4 @@
 - **May 04, 01:29 PM** - Taylor Geospatial unveils global field dataset (spacenews)
 - **May 04, 02:09 PM** - DARPA chief says agency must harness commercial space boom (spacenews)
 - **May 04, 02:44 PM** - Space’s missing half (spacenews)
+- **May 04, 03:19 PM** - OroraTech deploys wildfire constellation for Greece (spacenews)
