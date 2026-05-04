@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 8 | 23 | 44 |
+| spacenews | 10 | 11 | 24 | 45 |
 | nyt | 0 | 0 | 17 | 36 |
 
 # Shown Order
@@ -2296,3 +2296,4 @@
 - **May 04, 12:19 PM** - Lawsuit claims Starship launches damage homes (spacenews)
 - **May 04, 12:54 PM** - IonQ to offer ground-movement monitoring via Capella radar satellites (spacenews)
 - **May 04, 01:29 PM** - Taylor Geospatial unveils global field dataset (spacenews)
+- **May 04, 02:09 PM** - DARPA chief says agency must harness commercial space boom (spacenews)
