@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 14 | 25 | 46 |
+| spacenews | 13 | 14 | 26 | 47 |
 | nyt | 0 | 0 | 15 | 34 |
 
 # Shown Order
@@ -2302,3 +2302,4 @@
 - **May 04, 04:09 PM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 04, 04:44 PM** - Pixxel pushes into orbital data centers for faster geospatial intelligence (spacenews)
 - **May 04, 05:19 PM** - Global Smallsat Deployment Accelerates, with 16,900 Satellites Projected Through 2035 (spacenews)
+- **May 04, 05:54 PM** - Interlune wins NASA contract for helium-3 extraction payload (spacenews)
