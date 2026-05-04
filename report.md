@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 15 | 25 | 47 |
-| nyt | 0 | 0 | 15 | 33 |
+| nyt | 0 | 0 | 15 | 34 |
 
 # Shown Order
 
@@ -2310,3 +2310,4 @@
 - **May 04, 08:54 PM** - York Space to buy satcom terminal manufacturer All.Space  (spacenews)
 - **May 04, 09:29 PM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 04, 10:04 PM** - EraDrive and Northrop Grumman  collaborate on AI-enabled autonomy (spacenews)
+- **May 04, 10:39 PM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
