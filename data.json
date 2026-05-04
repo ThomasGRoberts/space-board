@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-04T00:04:24.561552+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5337db845cfbc5a39f6bed8d9fab399b",
+    "trigger_count": 0,
+    "current_item_id": "96ef40ae73ebb0a94a3c1fad8409f302",
     "data": [
         {
             "id": "67ba3ee2b562de611bb1c74ee1e4ef88",
@@ -7919,6 +7919,18 @@
             "fetched_datetime": "2026-05-04T16:44:24.764907Z",
             "shown_at": [
                 "2026-05-04T17:54:20.407271Z"
+            ]
+        },
+        {
+            "id": "96ef40ae73ebb0a94a3c1fad8409f302",
+            "source": "spacenews",
+            "text": "Tech firms partner up to push intelligence processing closer to the battlefield",
+            "source_link": "https://spacenews.com/tech-firms-partner-up-to-push-intelligence-processing-closer-to-the-battlefield/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-04T18:29:13.162592Z",
+            "shown_at": [
+                "2026-05-04T18:29:13.799824Z"
             ]
         }
     ]
