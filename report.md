@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 4 | 21 | 39 |
-| nyt | 0 | 0 | 19 | 35 |
+| nyt | 0 | 0 | 20 | 36 |
 
 # Shown Order
 
@@ -2282,3 +2282,4 @@
 - **May 04, 03:59 AM** - Space Force awards BAE Systems $11.8 million to demo satellite communications for Golden Dome (spacenews)
 - **May 04, 04:34 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 04, 05:09 AM** - House appropriators keep NASA funding flat (spacenews)
+- **May 04, 05:44 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
