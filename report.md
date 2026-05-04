@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 8 | 22 | 43 |
+| spacenews | 7 | 8 | 23 | 44 |
 | nyt | 0 | 0 | 18 | 37 |
 
 # Shown Order
@@ -2294,3 +2294,4 @@
 - **May 04, 11:04 AM** - Cosmoleap secures $73 million for reusable rocket with tower catch recovery (spacenews)
 - **May 04, 11:39 AM** - Vantor wins $70 million award to enhance NGA data-delivery platform (spacenews)
 - **May 04, 12:19 PM** - Lawsuit claims Starship launches damage homes (spacenews)
+- **May 04, 12:54 PM** - IonQ to offer ground-movement monitoring via Capella radar satellites (spacenews)

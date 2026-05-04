@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-04T00:04:24.561552+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2c5290e8395f688335efa1dcb41ff133",
+    "trigger_count": 0,
+    "current_item_id": "bf9889be2db127e7a763ef26b62b64b9",
     "data": [
         {
             "id": "67ba3ee2b562de611bb1c74ee1e4ef88",
@@ -7829,9 +7829,12 @@
             "source": "spacenews",
             "text": "IonQ to offer ground-movement monitoring via Capella radar satellites",
             "source_link": "https://spacenews.com/ionq-to-offer-ground-movement-monitoring-via-capella-radar-satellites/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-05-04T12:19:34.308071Z"
+            "fetched_datetime": "2026-05-04T12:19:34.308071Z",
+            "shown_at": [
+                "2026-05-04T12:54:29.137015Z"
+            ]
         },
         {
             "id": "f2f2db98aaaf48847651deb7c418004f",
