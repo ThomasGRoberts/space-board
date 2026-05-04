@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 4 | 21 | 42 |
-| nyt | 0 | 0 | 19 | 39 |
+| nyt | 0 | 0 | 20 | 39 |
 
 # Shown Order
 
@@ -2290,3 +2290,4 @@
 - **May 04, 08:44 AM** - Northrop Grumman delivers sensor for missile-warning satellite as Pentagon cancels program (spacenews)
 - **May 04, 09:19 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 04, 09:54 AM** - Corrosion problem affects Gateway and commercial space station modules (spacenews)
+- **May 04, 10:29 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
