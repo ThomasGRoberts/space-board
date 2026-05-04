@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 4 | 21 | 41 |
-| nyt | 0 | 0 | 19 | 37 |
+| nyt | 0 | 0 | 20 | 38 |
 
 # Shown Order
 
@@ -2286,3 +2286,4 @@
 - **May 04, 06:19 AM** - Pentagon budget affirms Space Force role tracking moving targets from orbit (spacenews)
 - **May 04, 06:54 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 04, 07:29 AM** - Revolutionizing global aerospace transportation (spacenews)
+- **May 04, 08:09 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
