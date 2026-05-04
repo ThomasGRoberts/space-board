@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-04T00:04:24.561552+00:00",
-    "trigger_count": 6,
-    "current_item_id": "bf9889be2db127e7a763ef26b62b64b9",
+    "trigger_count": 0,
+    "current_item_id": "f2f2db98aaaf48847651deb7c418004f",
     "data": [
         {
             "id": "67ba3ee2b562de611bb1c74ee1e4ef88",
@@ -7841,9 +7841,12 @@
             "source": "spacenews",
             "text": "Taylor Geospatial unveils global field dataset",
             "source_link": "https://spacenews.com/taylor-geospatial-unveils-global-field-dataset/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-05-04T12:19:34.308116Z"
+            "fetched_datetime": "2026-05-04T12:19:34.308116Z",
+            "shown_at": [
+                "2026-05-04T13:29:38.175528Z"
+            ]
         }
     ]
 }
