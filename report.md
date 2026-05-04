@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 14 | 15 | 26 | 47 |
-| nyt | 0 | 0 | 14 | 33 |
+| spacenews | 13 | 15 | 25 | 47 |
+| nyt | 0 | 0 | 15 | 34 |
 
 # Shown Order
 
@@ -2306,3 +2306,4 @@
 - **May 04, 06:29 PM** - Tech firms partner up to push intelligence processing closer to the battlefield (spacenews)
 - **May 04, 07:04 PM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 04, 07:39 PM** - America needs a space alliance (spacenews)
+- **May 04, 08:19 PM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
