@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 14 | 15 | 26 | 47 |
-| nyt | 0 | 0 | 14 | 33 |
+| nyt | 0 | 0 | 15 | 34 |
 
 # Shown Order
 
@@ -2304,3 +2304,4 @@
 - **May 04, 05:19 PM** - Global Smallsat Deployment Accelerates, with 16,900 Satellites Projected Through 2035 (spacenews)
 - **May 04, 05:54 PM** - Interlune wins NASA contract for helium-3 extraction payload (spacenews)
 - **May 04, 06:29 PM** - Tech firms partner up to push intelligence processing closer to the battlefield (spacenews)
+- **May 04, 07:04 PM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
