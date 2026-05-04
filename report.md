@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 15 | 25 | 46 |
+| spacenews | 12 | 15 | 25 | 47 |
 | nyt | 0 | 0 | 15 | 34 |
 
 # Shown Order
@@ -2311,3 +2311,4 @@
 - **May 04, 09:29 PM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 04, 10:04 PM** - EraDrive and Northrop Grumman  collaborate on AI-enabled autonomy (spacenews)
 - **May 04, 10:39 PM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
+- **May 04, 11:14 PM** - Global Smallsat Deployment Accelerates, with 16,900 Satellites Projected Through 2035 (spacenews)
