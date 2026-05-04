@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-04T00:04:24.561552+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8c0677a696b9af4343d8bdeb55200422",
+    "trigger_count": 0,
+    "current_item_id": "c5a1b35a6fb4e7bc4a174edc1bafa878",
     "data": [
         {
             "id": "67ba3ee2b562de611bb1c74ee1e4ef88",
@@ -7884,6 +7884,36 @@
             "shown_at": [
                 "2026-05-04T15:19:31.200466Z"
             ]
+        },
+        {
+            "id": "c5a1b35a6fb4e7bc4a174edc1bafa878",
+            "source": "spacenews",
+            "text": "Pixxel pushes into orbital data centers for faster geospatial intelligence",
+            "source_link": "https://spacenews.com/pixxel-pushes-into-orbital-data-centers-for-faster-geospatial-intelligence/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-04T16:44:24.764791Z",
+            "shown_at": [
+                "2026-05-04T16:44:25.796691Z"
+            ]
+        },
+        {
+            "id": "e076659a244dab6971ce910e94b18eb3",
+            "source": "spacenews",
+            "text": "Global Smallsat Deployment Accelerates, with 16,900 Satellites Projected Through 2035",
+            "source_link": "https://spacenews.com/global-smallsat-deployment-accelerates-with-16900-satellites-projected-through-2035/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-05-04T16:44:24.764865Z"
+        },
+        {
+            "id": "5337db845cfbc5a39f6bed8d9fab399b",
+            "source": "spacenews",
+            "text": "Interlune wins NASA contract for helium-3 extraction payload",
+            "source_link": "https://spacenews.com/interlune-wins-nasa-contract-for-helium-3-extraction-payload/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-05-04T16:44:24.764907Z"
         }
     ]
 }

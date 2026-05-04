@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 11 | 24 | 45 |
+| spacenews | 13 | 14 | 25 | 46 |
 | nyt | 0 | 0 | 16 | 35 |
 
 # Shown Order
@@ -2300,3 +2300,4 @@
 - **May 04, 02:44 PM** - Space’s missing half (spacenews)
 - **May 04, 03:19 PM** - OroraTech deploys wildfire constellation for Greece (spacenews)
 - **May 04, 04:09 PM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
+- **May 04, 04:44 PM** - Pixxel pushes into orbital data centers for faster geospatial intelligence (spacenews)
