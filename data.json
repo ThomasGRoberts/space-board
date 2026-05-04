@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-04T00:04:24.561552+00:00",
-    "trigger_count": 6,
-    "current_item_id": "840f3d433ef9774329b8a4b527adabea",
+    "trigger_count": 0,
+    "current_item_id": "2c5290e8395f688335efa1dcb41ff133",
     "data": [
         {
             "id": "67ba3ee2b562de611bb1c74ee1e4ef88",
@@ -7811,6 +7811,36 @@
             "shown_at": [
                 "2026-05-04T11:39:20.180684Z"
             ]
+        },
+        {
+            "id": "2c5290e8395f688335efa1dcb41ff133",
+            "source": "spacenews",
+            "text": "Lawsuit claims Starship launches damage homes",
+            "source_link": "https://spacenews.com/lawsuit-claims-starship-launches-damage-homes/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-04T12:19:34.308011Z",
+            "shown_at": [
+                "2026-05-04T12:19:35.220661Z"
+            ]
+        },
+        {
+            "id": "bf9889be2db127e7a763ef26b62b64b9",
+            "source": "spacenews",
+            "text": "IonQ to offer ground-movement monitoring via Capella radar satellites",
+            "source_link": "https://spacenews.com/ionq-to-offer-ground-movement-monitoring-via-capella-radar-satellites/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-05-04T12:19:34.308071Z"
+        },
+        {
+            "id": "f2f2db98aaaf48847651deb7c418004f",
+            "source": "spacenews",
+            "text": "Taylor Geospatial unveils global field dataset",
+            "source_link": "https://spacenews.com/taylor-geospatial-unveils-global-field-dataset/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-05-04T12:19:34.308116Z"
         }
     ]
 }
