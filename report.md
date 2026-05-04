@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 21 | 35 |
-| nyt | 0 | 0 | 19 | 31 |
+| nyt | 0 | 0 | 20 | 32 |
 
 # Shown Order
 
@@ -2274,3 +2274,4 @@
 - **May 03, 11:14 PM** - Trump nominates Schiess as next Space Force chief (spacenews)
 - **May 03, 11:54 PM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 04, 12:29 AM** - America needs a space alliance (spacenews)
+- **May 04, 01:04 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
