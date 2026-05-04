@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 4 | 21 | 41 |
+| spacenews | 3 | 4 | 22 | 42 |
 | nyt | 0 | 0 | 19 | 38 |
 
 # Shown Order
@@ -2287,3 +2287,4 @@
 - **May 04, 06:54 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 04, 07:29 AM** - Revolutionizing global aerospace transportation (spacenews)
 - **May 04, 08:09 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
+- **May 04, 08:44 AM** - Northrop Grumman delivers sensor for missile-warning satellite as Pentagon cancels program (spacenews)
