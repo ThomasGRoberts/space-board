@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-04T00:04:24.561552+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f8ef3b5ca3800f047746067fc40e924c",
+    "trigger_count": 0,
+    "current_item_id": "840f3d433ef9774329b8a4b527adabea",
     "data": [
         {
             "id": "67ba3ee2b562de611bb1c74ee1e4ef88",
@@ -7798,6 +7798,18 @@
             "fetched_datetime": "2026-05-04T02:49:08.747611Z",
             "shown_at": [
                 "2026-05-04T02:49:09.603165Z"
+            ]
+        },
+        {
+            "id": "840f3d433ef9774329b8a4b527adabea",
+            "source": "spacenews",
+            "text": "Vantor wins $70 million award to enhance NGA data-delivery platform",
+            "source_link": "https://spacenews.com/vantor-wins-70-million-award-to-enhance-nga-data-delivery-platform/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-04T11:39:19.174532Z",
+            "shown_at": [
+                "2026-05-04T11:39:20.180684Z"
             ]
         }
     ]
