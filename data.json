@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-04T00:04:24.561552+00:00",
-    "trigger_count": 6,
-    "current_item_id": "242949a59fe6691e662c96e3090bc05a",
+    "trigger_count": 0,
+    "current_item_id": "6da545206ac7bba1cba9d20ced3690b4",
     "data": [
         {
             "id": "67ba3ee2b562de611bb1c74ee1e4ef88",
@@ -7865,9 +7865,12 @@
             "source": "spacenews",
             "text": "Space’s missing half",
             "source_link": "https://spacenews.com/spaces-missing-half/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-05-04T14:09:11.800782Z"
+            "fetched_datetime": "2026-05-04T14:09:11.800782Z",
+            "shown_at": [
+                "2026-05-04T14:44:20.830327Z"
+            ]
         },
         {
             "id": "5818779ecbb002650ee138a2406ac4e6",
