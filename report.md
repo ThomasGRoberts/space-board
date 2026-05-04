@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 15 | 25 | 46 |
+| spacenews | 13 | 15 | 26 | 47 |
 | nyt | 0 | 0 | 15 | 34 |
 
 # Shown Order
@@ -2307,3 +2307,4 @@
 - **May 04, 07:04 PM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 04, 07:39 PM** - America needs a space alliance (spacenews)
 - **May 04, 08:19 PM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
+- **May 04, 08:54 PM** - York Space to buy satcom terminal manufacturer All.Space  (spacenews)
