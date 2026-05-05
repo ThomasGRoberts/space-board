@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-05T00:04:46.996245+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8c0677a696b9af4343d8bdeb55200422",
+    "trigger_count": 0,
+    "current_item_id": "cd33f714cb45f02e75f58f78dbfddcd5",
     "data": [
         {
             "id": "55c6a2fe4aea745f5452b350ecb9c86e",
@@ -7930,6 +7930,63 @@
             "shown_at": [
                 "2026-05-05T18:59:19.025224Z"
             ]
+        },
+        {
+            "id": "cd33f714cb45f02e75f58f78dbfddcd5",
+            "source": "spacenews",
+            "text": "Voyager ‘very optimistic’ about Starlab amid potential NASA changes",
+            "source_link": "https://spacenews.com/voyager-very-optimistic-about-starlab-amid-potential-nasa-changes/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-05T21:24:18.905114Z",
+            "shown_at": [
+                "2026-05-05T21:24:20.236879Z"
+            ]
+        },
+        {
+            "id": "ae4f6bc818aefda2d359265b027ba28e",
+            "source": "spacenews",
+            "text": "Ukrainian forces test direct-to-device satellite imagery for frontline troops",
+            "source_link": "https://spacenews.com/ukrainian-forces-test-direct-to-device-satellite-imagery-for-frontline-troops/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-05-05T21:24:18.905196Z"
+        },
+        {
+            "id": "d55fb0a2fc6deb2ba47f1017c7b69403",
+            "source": "spacenews",
+            "text": "New NGA head makes industry debut at GEOINT Symposium 2026",
+            "source_link": "https://spacenews.com/new-nga-head-makes-industry-debut-at-geoint-symposium-2026/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-05-05T21:24:18.905247Z"
+        },
+        {
+            "id": "e615fd790c7f0ece32e1d41e0b532bb2",
+            "source": "spacenews",
+            "text": "Startup develops software to help military tap commercial imaging satellites",
+            "source_link": "https://spacenews.com/the-bottleneck-in-the-satellite-data-boom/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-05-05T21:24:18.905292Z"
+        },
+        {
+            "id": "6b10098b60e32a0c9f5da624f6545f09",
+            "source": "spacenews",
+            "text": "Exiting NRO director Chris Scolese’s legacy: commercial partnerships; public engagement",
+            "source_link": "https://spacenews.com/exiting-nro-director-chris-scoleses-legacy-commercial-partnerships-public-engagement/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-05-05T21:24:18.905335Z"
+        },
+        {
+            "id": "678b8fe32c0e1dcf5da8294fee79c935",
+            "source": "spacenews",
+            "text": "Loft Orbital expands into full-service constellation deals",
+            "source_link": "https://spacenews.com/loft-orbital-expands-into-full-service-constellation-deals/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-05-05T21:24:18.905377Z"
         }
     ]
 }
