@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 23 | 26 | 50 |
+| spacenews | 14 | 27 | 26 | 51 |
 | nyt | 0 | 0 | 13 | 29 |
 
 # Shown Order
@@ -2295,3 +2295,4 @@
 - **May 05, 02:24 PM** - Quantum Space hires Bridenstine as CEO (spacenews)
 - **May 05, 03:04 PM** - Do AI tools undermine trust in geospatial imagery? (spacenews)
 - **May 05, 03:44 PM** - Hancom InSpace gains hyperspectral sensor (spacenews)
+- **May 05, 04:48 PM** - Polish space company Eycore launches first SAR Earth observation satellite (spacenews)
