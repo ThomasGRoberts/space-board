@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 14 | 17 | 26 | 47 |
-| nyt | 0 | 0 | 14 | 33 |
+| spacenews | 14 | 17 | 27 | 48 |
+| nyt | 0 | 0 | 13 | 33 |
 
 # Shown Order
 
@@ -2282,3 +2282,4 @@
 - **May 05, 06:24 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 05, 06:59 AM** - Lawsuit claims Starship launches damage homes (spacenews)
 - **May 05, 07:34 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
+- **May 05, 08:09 AM** - NATO governance policies need updating (spacenews)
