@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 15 | 25 | 46 |
-| nyt | 0 | 0 | 15 | 34 |
+| spacenews | 13 | 15 | 26 | 47 |
+| nyt | 0 | 0 | 14 | 34 |
 
 # Shown Order
 
@@ -2270,3 +2270,4 @@
 - **May 04, 11:14 PM** - Global Smallsat Deployment Accelerates, with 16,900 Satellites Projected Through 2035 (spacenews)
 - **May 04, 11:49 PM** - NATO governance policies need updating (spacenews)
 - **May 05, 12:24 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
+- **May 05, 01:04 AM** - OroraTech deploys wildfire constellation for Greece (spacenews)
