@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 14 | 17 | 26 | 48 |
-| nyt | 0 | 0 | 13 | 32 |
+| nyt | 0 | 0 | 14 | 33 |
 
 # Shown Order
 
@@ -2279,3 +2279,4 @@
 - **May 05, 04:34 AM** - Global Smallsat Deployment Accelerates, with 16,900 Satellites Projected Through 2035 (spacenews)
 - **May 05, 05:09 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 05, 05:44 AM** - Starcloud seeks more orbital data center funding shortly after unicorn status (spacenews)
+- **May 05, 06:24 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
