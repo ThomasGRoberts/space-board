@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-05T00:04:46.996245+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e076659a244dab6971ce910e94b18eb3",
+    "trigger_count": 0,
+    "current_item_id": "315c1f1debd59a11371a9161a36a023c",
     "data": [
         {
             "id": "55c6a2fe4aea745f5452b350ecb9c86e",
@@ -7805,6 +7805,27 @@
             "shown_at": [
                 "2026-05-05T02:14:32.400838Z"
             ]
+        },
+        {
+            "id": "315c1f1debd59a11371a9161a36a023c",
+            "source": "spacenews",
+            "text": "Ignition relaunches Artemis plans",
+            "source_link": "https://spacenews.com/ignition-relaunches-artemis-plans/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-05T11:09:16.205413Z",
+            "shown_at": [
+                "2026-05-05T11:09:17.073324Z"
+            ]
+        },
+        {
+            "id": "55f695b298a0fcd297927d519d639c15",
+            "source": "spacenews",
+            "text": "Ireland and Malta sign the Artemis Accords",
+            "source_link": "https://spacenews.com/ireland-and-malta-sign-the-artemis-accords/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-05-05T11:09:16.205474Z"
         }
     ]
 }
