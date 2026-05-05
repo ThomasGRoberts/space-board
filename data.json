@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-05T00:04:46.996245+00:00",
-    "trigger_count": 6,
-    "current_item_id": "55c6a2fe4aea745f5452b350ecb9c86e",
+    "trigger_count": 0,
+    "current_item_id": "163e6fde1e291190af13a31817bc283d",
     "data": [
         {
             "id": "55c6a2fe4aea745f5452b350ecb9c86e",
@@ -7831,6 +7831,45 @@
             "shown_at": [
                 "2026-05-05T11:44:32.529610Z"
             ]
+        },
+        {
+            "id": "163e6fde1e291190af13a31817bc283d",
+            "source": "spacenews",
+            "text": "Anduril teams with commercial space firms, Sandia lab on Golden Dome interceptor program",
+            "source_link": "https://spacenews.com/anduril-teams-with-commercial-space-firms-sandia-lab-on-golden-dome-interceptor-program/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-05T13:49:50.560218Z",
+            "shown_at": [
+                "2026-05-05T13:49:51.506227Z"
+            ]
+        },
+        {
+            "id": "082732d94e9109e48de5cac2e9a74d45",
+            "source": "spacenews",
+            "text": "Quantum Space hires Bridenstine as CEO",
+            "source_link": "https://spacenews.com/quantum-space-hires-bridenstine-as-ceo/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-05-05T13:49:50.560275Z"
+        },
+        {
+            "id": "bdf1009cc6103f6d057ef5b06cfebda4",
+            "source": "spacenews",
+            "text": "Do AI tools undermine trust in geospatial imagery?",
+            "source_link": "https://spacenews.com/do-ai-tools-undermine-trust-in-geospatial-imagery/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-05-05T13:49:50.560312Z"
+        },
+        {
+            "id": "21d7dd689869f55cc50cf956f4d0d081",
+            "source": "spacenews",
+            "text": "Hancom InSpace gains hyperspectral sensor",
+            "source_link": "https://spacenews.com/hancom-inspace-gains-hyperspectral-sensor/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-05-05T13:49:50.560343Z"
         }
     ]
 }

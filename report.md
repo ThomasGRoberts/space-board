@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 19 | 25 | 49 |
+| spacenews | 16 | 23 | 26 | 49 |
 | nyt | 0 | 0 | 14 | 31 |
 
 # Shown Order
@@ -2291,3 +2291,4 @@
 - **May 05, 11:44 AM** - Ireland and Malta sign the Artemis Accords (spacenews)
 - **May 05, 12:19 PM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 05, 12:59 PM** - NATO governance policies need updating (spacenews)
+- **May 05, 01:49 PM** - Anduril teams with commercial space firms, Sandia lab on Golden Dome interceptor program (spacenews)
