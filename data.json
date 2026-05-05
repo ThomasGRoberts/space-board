@@ -1,9 +1,166 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-05-04T00:04:24.561552+00:00",
-    "trigger_count": 2,
+    "last_run_datetime": "2026-05-05T00:04:46.996245+00:00",
+    "trigger_count": 3,
     "current_item_id": "55c6a2fe4aea745f5452b350ecb9c86e",
     "data": [
+        {
+            "id": "55c6a2fe4aea745f5452b350ecb9c86e",
+            "source": "spacenews",
+            "text": "NATO governance policies need updating",
+            "source_link": "https://spacenews.com/nato-governance-policies-need-updating/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-04T23:49:14.118720Z",
+            "shown_at": [
+                "2026-05-04T23:49:15.046760Z"
+            ]
+        },
+        {
+            "id": "96ef40ae73ebb0a94a3c1fad8409f302",
+            "source": "spacenews",
+            "text": "Tech firms partner up to push intelligence processing closer to the battlefield",
+            "source_link": "https://spacenews.com/tech-firms-partner-up-to-push-intelligence-processing-closer-to-the-battlefield/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-04T18:29:13.162592Z",
+            "shown_at": [
+                "2026-05-04T18:29:13.799824Z"
+            ]
+        },
+        {
+            "id": "5337db845cfbc5a39f6bed8d9fab399b",
+            "source": "spacenews",
+            "text": "Interlune wins NASA contract for helium-3 extraction payload",
+            "source_link": "https://spacenews.com/interlune-wins-nasa-contract-for-helium-3-extraction-payload/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-04T16:44:24.764907Z",
+            "shown_at": [
+                "2026-05-04T17:54:20.407271Z"
+            ]
+        },
+        {
+            "id": "e076659a244dab6971ce910e94b18eb3",
+            "source": "spacenews",
+            "text": "Global Smallsat Deployment Accelerates, with 16,900 Satellites Projected Through 2035",
+            "source_link": "https://spacenews.com/global-smallsat-deployment-accelerates-with-16900-satellites-projected-through-2035/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-04T16:44:24.764865Z",
+            "shown_at": [
+                "2026-05-04T17:19:11.065049Z",
+                "2026-05-04T23:14:31.922538Z"
+            ]
+        },
+        {
+            "id": "c5a1b35a6fb4e7bc4a174edc1bafa878",
+            "source": "spacenews",
+            "text": "Pixxel pushes into orbital data centers for faster geospatial intelligence",
+            "source_link": "https://spacenews.com/pixxel-pushes-into-orbital-data-centers-for-faster-geospatial-intelligence/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-04T16:44:24.764791Z",
+            "shown_at": [
+                "2026-05-04T16:44:25.796691Z"
+            ]
+        },
+        {
+            "id": "5818779ecbb002650ee138a2406ac4e6",
+            "source": "spacenews",
+            "text": "OroraTech deploys wildfire constellation for Greece",
+            "source_link": "https://spacenews.com/ororatech-deploys-wildfire-constellation-for-greece/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-04T14:09:11.801327Z",
+            "shown_at": [
+                "2026-05-04T15:19:31.200466Z"
+            ]
+        },
+        {
+            "id": "6da545206ac7bba1cba9d20ced3690b4",
+            "source": "spacenews",
+            "text": "Space’s missing half",
+            "source_link": "https://spacenews.com/spaces-missing-half/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-04T14:09:11.800782Z",
+            "shown_at": [
+                "2026-05-04T14:44:20.830327Z"
+            ]
+        },
+        {
+            "id": "242949a59fe6691e662c96e3090bc05a",
+            "source": "spacenews",
+            "text": "DARPA chief says agency must harness commercial space boom",
+            "source_link": "https://spacenews.com/darpa-chief-says-agency-must-harness-commercial-space-boom/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-04T14:09:11.800721Z",
+            "shown_at": [
+                "2026-05-04T14:09:12.870179Z"
+            ]
+        },
+        {
+            "id": "f2f2db98aaaf48847651deb7c418004f",
+            "source": "spacenews",
+            "text": "Taylor Geospatial unveils global field dataset",
+            "source_link": "https://spacenews.com/taylor-geospatial-unveils-global-field-dataset/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-04T12:19:34.308116Z",
+            "shown_at": [
+                "2026-05-04T13:29:38.175528Z"
+            ]
+        },
+        {
+            "id": "bf9889be2db127e7a763ef26b62b64b9",
+            "source": "spacenews",
+            "text": "IonQ to offer ground-movement monitoring via Capella radar satellites",
+            "source_link": "https://spacenews.com/ionq-to-offer-ground-movement-monitoring-via-capella-radar-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-04T12:19:34.308071Z",
+            "shown_at": [
+                "2026-05-04T12:54:29.137015Z"
+            ]
+        },
+        {
+            "id": "2c5290e8395f688335efa1dcb41ff133",
+            "source": "spacenews",
+            "text": "Lawsuit claims Starship launches damage homes",
+            "source_link": "https://spacenews.com/lawsuit-claims-starship-launches-damage-homes/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-04T12:19:34.308011Z",
+            "shown_at": [
+                "2026-05-04T12:19:35.220661Z"
+            ]
+        },
+        {
+            "id": "840f3d433ef9774329b8a4b527adabea",
+            "source": "spacenews",
+            "text": "Vantor wins $70 million award to enhance NGA data-delivery platform",
+            "source_link": "https://spacenews.com/vantor-wins-70-million-award-to-enhance-nga-data-delivery-platform/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-04T11:39:19.174532Z",
+            "shown_at": [
+                "2026-05-04T11:39:20.180684Z"
+            ]
+        },
+        {
+            "id": "02fad59641f42558f4a977520c293382",
+            "source": "spacenews",
+            "text": "Falcon 9 launches South Korean satellite and 45 rideshare payloads",
+            "source_link": "https://spacenews.com/falcon-9-launches-south-korean-satellite-and-45-rideshare-payloads/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-04T02:49:08.747611Z",
+            "shown_at": [
+                "2026-05-04T02:49:09.603165Z"
+            ]
+        },
         {
             "id": "67ba3ee2b562de611bb1c74ee1e4ef88",
             "source": "spacenews",
@@ -7607,350 +7764,6 @@
                 "2026-03-06T23:19:08.328674Z",
                 "2026-03-07T01:04:44.124347Z",
                 "2026-03-08T03:04:36.220252Z"
-            ]
-        },
-        {
-            "id": "0e87380422991d9d899918fe5d6ed83f",
-            "source": "spacenews",
-            "text": "UK announces £500 million package for industrial growth and national security",
-            "source_link": "https://spacenews.com/uk-announces-500-million-package-for-industrial-growth-and-national-security/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-05T13:39:14.384858Z",
-            "shown_at": [
-                "2026-03-05T13:39:15.404061Z",
-                "2026-03-08T21:49:37.643991Z",
-                "2026-03-10T09:34:47.883117Z"
-            ]
-        },
-        {
-            "id": "9f0f039b8bee041c041b79a27c904dd9",
-            "source": "spacenews",
-            "text": "Jared Isaacman on rebuilding, Artemis and what he’s learned during his first months as NASA administrator",
-            "source_link": "https://spacenews.com/jared-isaacman-on-rebuilding-artemis-and-what-hes-learned-during-his-first-months-as-nasa-administrator/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-05T12:24:21.615380Z",
-            "shown_at": [
-                "2026-03-05T12:24:22.868244Z",
-                "2026-03-07T20:39:20.978321Z",
-                "2026-03-09T20:04:28.172418Z",
-                "2026-03-10T04:49:17.631404Z"
-            ]
-        },
-        {
-            "id": "39a7a91c34f4ffe012365047c3c6ae25",
-            "source": "spacenews",
-            "text": "Third Kairos launch fails",
-            "source_link": "https://spacenews.com/third-kairos-launch-fails/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-05T03:50:32.345336Z",
-            "shown_at": [
-                "2026-03-05T03:50:33.166401Z"
-            ]
-        },
-        {
-            "id": "354be0541faecee1f19a406658c82afb",
-            "source": "spacenews",
-            "text": "Senate committee advances NASA authorization bill that changes Artemis and extends ISS",
-            "source_link": "https://spacenews.com/senate-committee-advances-nasa-authorization-bill-that-changes-artemis-and-extends-iss/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-05T00:54:27.386007Z",
-            "shown_at": [
-                "2026-03-05T00:54:28.410429Z",
-                "2026-03-07T03:24:24.008683Z",
-                "2026-03-07T06:54:50.759103Z",
-                "2026-03-09T01:19:14.420773Z",
-                "2026-03-10T05:59:10.196026Z"
-            ]
-        },
-        {
-            "id": "b17f46395d4f4676ed9d3a56238214a1",
-            "source": "spacenews",
-            "text": "Space Force presses case for more personnel and training",
-            "source_link": "https://spacenews.com/space-force-presses-case-for-more-personnel-and-training/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-04T23:44:46.080547Z",
-            "shown_at": [
-                "2026-03-05T00:19:26.692569Z",
-                "2026-03-05T11:05:27.426316Z",
-                "2026-03-08T08:59:06.233109Z"
-            ]
-        },
-        {
-            "id": "3db4e147c63f61aa2dc05af25280563a",
-            "source": "spacenews",
-            "text": "Telus invests in AST SpaceMobile to expand D2D coverage in Canada",
-            "source_link": "https://spacenews.com/telus-invests-in-ast-spacemobile-to-expand-d2d-coverage-in-canada/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-04T23:44:46.080491Z",
-            "shown_at": [
-                "2026-03-04T23:44:47.271096Z",
-                "2026-03-11T03:09:14.993993Z"
-            ]
-        },
-        {
-            "id": "c1ae81bb7102489412f50757db8143be",
-            "source": "spacenews",
-            "text": "Mutable Tactics raises $2.1 million for AI drone coordination in satellite-denied environments",
-            "source_link": "https://spacenews.com/mutable-tactics-raises-2-1-million-for-ai-drone-coordination-in-satellite-denied-environments/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-04T16:59:15.433161Z",
-            "shown_at": [
-                "2026-03-04T16:59:16.493702Z",
-                "2026-03-06T07:14:16.767137Z",
-                "2026-03-07T14:49:17.957538Z",
-                "2026-03-08T05:29:34.522527Z",
-                "2026-03-11T07:49:13.961584Z",
-                "2026-03-11T16:14:52.219301Z"
-            ]
-        },
-        {
-            "id": "a8d50b3dcb1aa3f679f5e98fa7db8f4b",
-            "source": "spacenews",
-            "text": "Return of the (space) SPAC",
-            "source_link": "https://spacenews.com/return-of-the-space-spac/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-04T16:24:23.018755Z",
-            "shown_at": [
-                "2026-03-04T16:24:24.097158Z",
-                "2026-03-08T06:39:18.218571Z",
-                "2026-03-10T18:59:13.112968Z"
-            ]
-        },
-        {
-            "id": "71496092a82af839373bf769bdcaab4b",
-            "source": "spacenews",
-            "text": "Reliable space rescue is a prerequisite for continued economic opportunity in space and we have a long way to go",
-            "source_link": "https://spacenews.com/reliable-space-rescue-is-a-prerequisite-for-continued-economic-opportunity-in-space-and-we-have-a-long-way-to-go/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-04T14:04:17.496790Z",
-            "shown_at": [
-                "2026-03-04T14:04:18.618992Z",
-                "2026-03-07T17:09:45.093523Z"
-            ]
-        },
-        {
-            "id": "1505bf186c3821add422d4b11a0906d3",
-            "source": "spacenews",
-            "text": "SLS upper stage helium flow problem fixed",
-            "source_link": "https://spacenews.com/sls-upper-stage-helium-flow-problem-fixed/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-04T13:29:00.717106Z",
-            "shown_at": [
-                "2026-03-04T13:29:01.719551Z",
-                "2026-03-09T03:39:01.896417Z"
-            ]
-        },
-        {
-            "id": "bb5ab6cce1bdd7194b55f82d18939dff",
-            "source": "spacenews",
-            "text": "Blue Origin’s surprise TeraWave constellation jolts LEO broadband race",
-            "source_link": "https://spacenews.com/blue-origins-surprise-terawave-constellation-jolts-leo-broadband-race/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-04T12:19:23.231594Z",
-            "shown_at": [
-                "2026-03-04T12:19:24.515811Z",
-                "2026-03-08T17:09:22.344117Z",
-                "2026-03-09T14:09:15.615163Z"
-            ]
-        },
-        {
-            "id": "cc2a14b6ba8ccadd26feda86ed5334ca",
-            "source": "spacenews",
-            "text": "PLD Space raises $209 million to shift into serial rocket production",
-            "source_link": "https://spacenews.com/pld-space-raises-209-million-to-shift-into-serial-rocket-production/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-04T06:19:25.573613Z",
-            "shown_at": [
-                "2026-03-04T06:19:26.258593Z",
-                "2026-03-04T21:50:00.946194Z",
-                "2026-03-07T09:14:06.162045Z",
-                "2026-03-08T14:49:09.234323Z",
-                "2026-03-08T20:39:10.543904Z",
-                "2026-03-09T05:59:26.073633Z"
-            ]
-        },
-        {
-            "id": "4c4cb0b1e2a88651bfd18518283f6e38",
-            "source": "spacenews",
-            "text": "House Science Committee leaders criticize FCC rulemaking on space safety",
-            "source_link": "https://spacenews.com/house-science-committee-leaders-criticize-fcc-rulemaking-on-space-safety/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-04T00:59:07.592073Z",
-            "shown_at": [
-                "2026-03-04T00:59:08.850021Z",
-                "2026-03-07T02:14:19.727054Z",
-                "2026-03-07T13:34:26.282661Z",
-                "2026-03-08T12:29:09.312018Z"
-            ]
-        },
-        {
-            "id": "02fad59641f42558f4a977520c293382",
-            "source": "spacenews",
-            "text": "Falcon 9 launches South Korean satellite and 45 rideshare payloads",
-            "source_link": "https://spacenews.com/falcon-9-launches-south-korean-satellite-and-45-rideshare-payloads/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-04T02:49:08.747611Z",
-            "shown_at": [
-                "2026-05-04T02:49:09.603165Z"
-            ]
-        },
-        {
-            "id": "840f3d433ef9774329b8a4b527adabea",
-            "source": "spacenews",
-            "text": "Vantor wins $70 million award to enhance NGA data-delivery platform",
-            "source_link": "https://spacenews.com/vantor-wins-70-million-award-to-enhance-nga-data-delivery-platform/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-04T11:39:19.174532Z",
-            "shown_at": [
-                "2026-05-04T11:39:20.180684Z"
-            ]
-        },
-        {
-            "id": "2c5290e8395f688335efa1dcb41ff133",
-            "source": "spacenews",
-            "text": "Lawsuit claims Starship launches damage homes",
-            "source_link": "https://spacenews.com/lawsuit-claims-starship-launches-damage-homes/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-04T12:19:34.308011Z",
-            "shown_at": [
-                "2026-05-04T12:19:35.220661Z"
-            ]
-        },
-        {
-            "id": "bf9889be2db127e7a763ef26b62b64b9",
-            "source": "spacenews",
-            "text": "IonQ to offer ground-movement monitoring via Capella radar satellites",
-            "source_link": "https://spacenews.com/ionq-to-offer-ground-movement-monitoring-via-capella-radar-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-04T12:19:34.308071Z",
-            "shown_at": [
-                "2026-05-04T12:54:29.137015Z"
-            ]
-        },
-        {
-            "id": "f2f2db98aaaf48847651deb7c418004f",
-            "source": "spacenews",
-            "text": "Taylor Geospatial unveils global field dataset",
-            "source_link": "https://spacenews.com/taylor-geospatial-unveils-global-field-dataset/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-04T12:19:34.308116Z",
-            "shown_at": [
-                "2026-05-04T13:29:38.175528Z"
-            ]
-        },
-        {
-            "id": "242949a59fe6691e662c96e3090bc05a",
-            "source": "spacenews",
-            "text": "DARPA chief says agency must harness commercial space boom",
-            "source_link": "https://spacenews.com/darpa-chief-says-agency-must-harness-commercial-space-boom/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-04T14:09:11.800721Z",
-            "shown_at": [
-                "2026-05-04T14:09:12.870179Z"
-            ]
-        },
-        {
-            "id": "6da545206ac7bba1cba9d20ced3690b4",
-            "source": "spacenews",
-            "text": "Space’s missing half",
-            "source_link": "https://spacenews.com/spaces-missing-half/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-04T14:09:11.800782Z",
-            "shown_at": [
-                "2026-05-04T14:44:20.830327Z"
-            ]
-        },
-        {
-            "id": "5818779ecbb002650ee138a2406ac4e6",
-            "source": "spacenews",
-            "text": "OroraTech deploys wildfire constellation for Greece",
-            "source_link": "https://spacenews.com/ororatech-deploys-wildfire-constellation-for-greece/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-04T14:09:11.801327Z",
-            "shown_at": [
-                "2026-05-04T15:19:31.200466Z"
-            ]
-        },
-        {
-            "id": "c5a1b35a6fb4e7bc4a174edc1bafa878",
-            "source": "spacenews",
-            "text": "Pixxel pushes into orbital data centers for faster geospatial intelligence",
-            "source_link": "https://spacenews.com/pixxel-pushes-into-orbital-data-centers-for-faster-geospatial-intelligence/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-04T16:44:24.764791Z",
-            "shown_at": [
-                "2026-05-04T16:44:25.796691Z"
-            ]
-        },
-        {
-            "id": "e076659a244dab6971ce910e94b18eb3",
-            "source": "spacenews",
-            "text": "Global Smallsat Deployment Accelerates, with 16,900 Satellites Projected Through 2035",
-            "source_link": "https://spacenews.com/global-smallsat-deployment-accelerates-with-16900-satellites-projected-through-2035/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-04T16:44:24.764865Z",
-            "shown_at": [
-                "2026-05-04T17:19:11.065049Z",
-                "2026-05-04T23:14:31.922538Z"
-            ]
-        },
-        {
-            "id": "5337db845cfbc5a39f6bed8d9fab399b",
-            "source": "spacenews",
-            "text": "Interlune wins NASA contract for helium-3 extraction payload",
-            "source_link": "https://spacenews.com/interlune-wins-nasa-contract-for-helium-3-extraction-payload/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-04T16:44:24.764907Z",
-            "shown_at": [
-                "2026-05-04T17:54:20.407271Z"
-            ]
-        },
-        {
-            "id": "96ef40ae73ebb0a94a3c1fad8409f302",
-            "source": "spacenews",
-            "text": "Tech firms partner up to push intelligence processing closer to the battlefield",
-            "source_link": "https://spacenews.com/tech-firms-partner-up-to-push-intelligence-processing-closer-to-the-battlefield/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-04T18:29:13.162592Z",
-            "shown_at": [
-                "2026-05-04T18:29:13.799824Z"
-            ]
-        },
-        {
-            "id": "55c6a2fe4aea745f5452b350ecb9c86e",
-            "source": "spacenews",
-            "text": "NATO governance policies need updating",
-            "source_link": "https://spacenews.com/nato-governance-policies-need-updating/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-04T23:49:14.118720Z",
-            "shown_at": [
-                "2026-05-04T23:49:15.046760Z"
             ]
         }
     ]
