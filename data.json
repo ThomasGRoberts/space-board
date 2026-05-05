@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-05T00:04:46.996245+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d3bfc45d215065652e8185f2a02f4073",
+    "trigger_count": 0,
+    "current_item_id": "8eb81c22acc55b29647f0a395afed5c8",
     "data": [
         {
             "id": "55c6a2fe4aea745f5452b350ecb9c86e",
@@ -7897,9 +7897,12 @@
             "source": "spacenews",
             "text": "Facing AI, data and scale imperatives at the 2026 GEOINT Symposium",
             "source_link": "https://spacenews.com/facing-ai-data-and-scale-imperatives-at-the-2026-geoint-symposium/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-05-05T16:48:27.482067Z"
+            "fetched_datetime": "2026-05-05T16:48:27.482067Z",
+            "shown_at": [
+                "2026-05-05T17:35:05.711168Z"
+            ]
         },
         {
             "id": "90e5cf0099b1f26b18337496ab10c9ed",

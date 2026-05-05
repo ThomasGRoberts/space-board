@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 14 | 27 | 25 | 50 |
+| spacenews | 14 | 27 | 26 | 51 |
 | nyt | 0 | 0 | 13 | 28 |
 
 # Shown Order
@@ -2296,3 +2296,4 @@
 - **May 05, 03:04 PM** - Do AI tools undermine trust in geospatial imagery? (spacenews)
 - **May 05, 03:44 PM** - Hancom InSpace gains hyperspectral sensor (spacenews)
 - **May 05, 04:48 PM** - Polish space company Eycore launches first SAR Earth observation satellite (spacenews)
+- **May 05, 05:35 PM** - Facing AI, data and scale imperatives at the 2026 GEOINT Symposium (spacenews)
