@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-05T00:04:46.996245+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ae4f6bc818aefda2d359265b027ba28e",
+    "trigger_count": 0,
+    "current_item_id": "d55fb0a2fc6deb2ba47f1017c7b69403",
     "data": [
         {
             "id": "55c6a2fe4aea745f5452b350ecb9c86e",
@@ -7960,9 +7960,12 @@
             "source": "spacenews",
             "text": "New NGA head makes industry debut at GEOINT Symposium 2026",
             "source_link": "https://spacenews.com/new-nga-head-makes-industry-debut-at-geoint-symposium-2026/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-05-05T21:24:18.905247Z"
+            "fetched_datetime": "2026-05-05T21:24:18.905247Z",
+            "shown_at": [
+                "2026-05-05T22:34:19.836785Z"
+            ]
         },
         {
             "id": "e615fd790c7f0ece32e1d41e0b532bb2",
