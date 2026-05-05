@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 23 | 25 | 50 |
+| spacenews | 13 | 23 | 26 | 51 |
 | nyt | 0 | 0 | 14 | 29 |
 
 # Shown Order
@@ -2294,3 +2294,4 @@
 - **May 05, 01:49 PM** - Anduril teams with commercial space firms, Sandia lab on Golden Dome interceptor program (spacenews)
 - **May 05, 02:24 PM** - Quantum Space hires Bridenstine as CEO (spacenews)
 - **May 05, 03:04 PM** - Do AI tools undermine trust in geospatial imagery? (spacenews)
+- **May 05, 03:44 PM** - Hancom InSpace gains hyperspectral sensor (spacenews)

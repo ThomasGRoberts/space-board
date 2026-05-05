@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-05T00:04:46.996245+00:00",
-    "trigger_count": 6,
-    "current_item_id": "bdf1009cc6103f6d057ef5b06cfebda4",
+    "trigger_count": 0,
+    "current_item_id": "21d7dd689869f55cc50cf956f4d0d081",
     "data": [
         {
             "id": "55c6a2fe4aea745f5452b350ecb9c86e",
@@ -7873,9 +7873,12 @@
             "source": "spacenews",
             "text": "Hancom InSpace gains hyperspectral sensor",
             "source_link": "https://spacenews.com/hancom-inspace-gains-hyperspectral-sensor/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-05-05T13:49:50.560343Z"
+            "fetched_datetime": "2026-05-05T13:49:50.560343Z",
+            "shown_at": [
+                "2026-05-05T15:44:23.064428Z"
+            ]
         }
     ]
 }
