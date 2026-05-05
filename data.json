@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-05T00:04:46.996245+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5818779ecbb002650ee138a2406ac4e6",
+    "trigger_count": 0,
+    "current_item_id": "71740efbdcda02af376e345127562c5a",
     "data": [
         {
             "id": "55c6a2fe4aea745f5452b350ecb9c86e",
@@ -7767,6 +7767,27 @@
                 "2026-03-07T01:04:44.124347Z",
                 "2026-03-08T03:04:36.220252Z"
             ]
+        },
+        {
+            "id": "71740efbdcda02af376e345127562c5a",
+            "source": "spacenews",
+            "text": "Firefly plans late summer launch of first Alpha Block 2 rocket",
+            "source_link": "https://spacenews.com/firefly-plans-late-summer-launch-of-first-alpha-block-2-rocket/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-05T01:39:07.207458Z",
+            "shown_at": [
+                "2026-05-05T01:39:08.215635Z"
+            ]
+        },
+        {
+            "id": "5f1bbfe24ad4ffac668bae3a4a7d34e1",
+            "source": "spacenews",
+            "text": "NRO taps EarthDaily, Iceye, Pixxel to expand commercial data pipeline",
+            "source_link": "https://spacenews.com/nro-taps-earthdaily-iceye-pixxel-to-expand-commercial-data-pipeline/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-05-05T01:39:07.207519Z"
         }
     ]
 }

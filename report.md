@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 15 | 26 | 47 |
+| spacenews | 15 | 17 | 27 | 48 |
 | nyt | 0 | 0 | 14 | 33 |
 
 # Shown Order
@@ -2271,3 +2271,4 @@
 - **May 04, 11:49 PM** - NATO governance policies need updating (spacenews)
 - **May 05, 12:24 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 05, 01:04 AM** - OroraTech deploys wildfire constellation for Greece (spacenews)
+- **May 05, 01:39 AM** - Firefly plans late summer launch of first Alpha Block 2 rocket (spacenews)
