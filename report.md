@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 14 | 17 | 27 | 48 |
-| nyt | 0 | 0 | 13 | 32 |
+| spacenews | 14 | 17 | 26 | 48 |
+| nyt | 0 | 0 | 14 | 33 |
 
 # Shown Order
 
@@ -2275,3 +2275,4 @@
 - **May 05, 02:14 AM** - NRO taps EarthDaily, Iceye, Pixxel to expand commercial data pipeline (spacenews)
 - **May 05, 02:49 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 05, 03:24 AM** - True Anomaly raises $650 million, reaching $2.2 billion valuation (spacenews)
+- **May 05, 04:00 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
