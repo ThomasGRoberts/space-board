@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 16 | 19 | 27 | 48 |
+| spacenews | 15 | 19 | 27 | 49 |
 | nyt | 0 | 0 | 13 | 32 |
 
 # Shown Order
@@ -2288,3 +2288,4 @@
 - **May 05, 09:54 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 05, 10:29 AM** - Global Smallsat Deployment Accelerates, with 16,900 Satellites Projected Through 2035 (spacenews)
 - **May 05, 11:09 AM** - Ignition relaunches Artemis plans (spacenews)
+- **May 05, 11:44 AM** - Ireland and Malta sign the Artemis Accords (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-05T00:04:46.996245+00:00",
-    "trigger_count": 6,
-    "current_item_id": "315c1f1debd59a11371a9161a36a023c",
+    "trigger_count": 0,
+    "current_item_id": "55f695b298a0fcd297927d519d639c15",
     "data": [
         {
             "id": "55c6a2fe4aea745f5452b350ecb9c86e",
@@ -7823,9 +7823,12 @@
             "source": "spacenews",
             "text": "Ireland and Malta sign the Artemis Accords",
             "source_link": "https://spacenews.com/ireland-and-malta-sign-the-artemis-accords/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-05-05T11:09:16.205474Z"
+            "fetched_datetime": "2026-05-05T11:09:16.205474Z",
+            "shown_at": [
+                "2026-05-05T11:44:32.529610Z"
+            ]
         }
     ]
 }
