@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-05T00:04:46.996245+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d55fb0a2fc6deb2ba47f1017c7b69403",
+    "trigger_count": 0,
+    "current_item_id": "e615fd790c7f0ece32e1d41e0b532bb2",
     "data": [
         {
             "id": "55c6a2fe4aea745f5452b350ecb9c86e",
@@ -7972,9 +7972,12 @@
             "source": "spacenews",
             "text": "Startup develops software to help military tap commercial imaging satellites",
             "source_link": "https://spacenews.com/the-bottleneck-in-the-satellite-data-boom/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-05-05T21:24:18.905292Z"
+            "fetched_datetime": "2026-05-05T21:24:18.905292Z",
+            "shown_at": [
+                "2026-05-05T23:09:12.218703Z"
+            ]
         },
         {
             "id": "6b10098b60e32a0c9f5da624f6545f09",

@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 19 | 31 | 27 | 52 |
+| spacenews | 19 | 31 | 28 | 53 |
 | nyt | 0 | 0 | 11 | 26 |
 
 # Shown Order
@@ -2305,3 +2305,4 @@
 - **May 05, 09:24 PM** - Voyager ‘very optimistic’ about Starlab amid potential NASA changes (spacenews)
 - **May 05, 09:59 PM** - Ukrainian forces test direct-to-device satellite imagery for frontline troops (spacenews)
 - **May 05, 10:34 PM** - New NGA head makes industry debut at GEOINT Symposium 2026 (spacenews)
+- **May 05, 11:09 PM** - Startup develops software to help military tap commercial imaging satellites (spacenews)
