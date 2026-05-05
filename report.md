@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 27 | 25 | 51 |
+| spacenews | 13 | 27 | 26 | 52 |
 | nyt | 0 | 0 | 13 | 27 |
 
 # Shown Order
@@ -2298,3 +2298,4 @@
 - **May 05, 04:48 PM** - Polish space company Eycore launches first SAR Earth observation satellite (spacenews)
 - **May 05, 05:35 PM** - Facing AI, data and scale imperatives at the 2026 GEOINT Symposium (spacenews)
 - **May 05, 06:24 PM** - The budget proposal that overshadowed Artemis 2 (spacenews)
+- **May 05, 06:59 PM** - Extending space-enabled intelligence below the ocean surface (spacenews)

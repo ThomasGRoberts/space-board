@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-05T00:04:46.996245+00:00",
-    "trigger_count": 6,
-    "current_item_id": "90e5cf0099b1f26b18337496ab10c9ed",
+    "trigger_count": 0,
+    "current_item_id": "d4a722679c9e47fa468c255fdba6256a",
     "data": [
         {
             "id": "55c6a2fe4aea745f5452b350ecb9c86e",
@@ -7921,9 +7921,12 @@
             "source": "spacenews",
             "text": "Extending space-enabled intelligence below the ocean surface",
             "source_link": "https://spacenews.com/extending-space-enabled-intelligence-below-the-ocean-surface/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-05-05T16:48:27.482136Z"
+            "fetched_datetime": "2026-05-05T16:48:27.482136Z",
+            "shown_at": [
+                "2026-05-05T18:59:19.025224Z"
+            ]
         }
     ]
 }
