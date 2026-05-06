@@ -1,9 +1,223 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-05-05T00:04:46.996245+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2026-05-06T00:04:53.934074+00:00",
+    "trigger_count": 4,
     "current_item_id": "6b10098b60e32a0c9f5da624f6545f09",
     "data": [
+        {
+            "id": "678b8fe32c0e1dcf5da8294fee79c935",
+            "source": "spacenews",
+            "text": "Loft Orbital expands into full-service constellation deals",
+            "source_link": "https://spacenews.com/loft-orbital-expands-into-full-service-constellation-deals/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-05-05T21:24:18.905377Z"
+        },
+        {
+            "id": "6b10098b60e32a0c9f5da624f6545f09",
+            "source": "spacenews",
+            "text": "Exiting NRO director Chris Scolese’s legacy: commercial partnerships; public engagement",
+            "source_link": "https://spacenews.com/exiting-nro-director-chris-scoleses-legacy-commercial-partnerships-public-engagement/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-05T21:24:18.905335Z",
+            "shown_at": [
+                "2026-05-05T23:44:27.314702Z"
+            ]
+        },
+        {
+            "id": "e615fd790c7f0ece32e1d41e0b532bb2",
+            "source": "spacenews",
+            "text": "Startup develops software to help military tap commercial imaging satellites",
+            "source_link": "https://spacenews.com/the-bottleneck-in-the-satellite-data-boom/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-05T21:24:18.905292Z",
+            "shown_at": [
+                "2026-05-05T23:09:12.218703Z"
+            ]
+        },
+        {
+            "id": "d55fb0a2fc6deb2ba47f1017c7b69403",
+            "source": "spacenews",
+            "text": "New NGA head makes industry debut at GEOINT Symposium 2026",
+            "source_link": "https://spacenews.com/new-nga-head-makes-industry-debut-at-geoint-symposium-2026/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-05T21:24:18.905247Z",
+            "shown_at": [
+                "2026-05-05T22:34:19.836785Z"
+            ]
+        },
+        {
+            "id": "ae4f6bc818aefda2d359265b027ba28e",
+            "source": "spacenews",
+            "text": "Ukrainian forces test direct-to-device satellite imagery for frontline troops",
+            "source_link": "https://spacenews.com/ukrainian-forces-test-direct-to-device-satellite-imagery-for-frontline-troops/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-05T21:24:18.905196Z",
+            "shown_at": [
+                "2026-05-05T21:59:18.565415Z"
+            ]
+        },
+        {
+            "id": "cd33f714cb45f02e75f58f78dbfddcd5",
+            "source": "spacenews",
+            "text": "Voyager ‘very optimistic’ about Starlab amid potential NASA changes",
+            "source_link": "https://spacenews.com/voyager-very-optimistic-about-starlab-amid-potential-nasa-changes/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-05T21:24:18.905114Z",
+            "shown_at": [
+                "2026-05-05T21:24:20.236879Z"
+            ]
+        },
+        {
+            "id": "d4a722679c9e47fa468c255fdba6256a",
+            "source": "spacenews",
+            "text": "Extending space-enabled intelligence below the ocean surface",
+            "source_link": "https://spacenews.com/extending-space-enabled-intelligence-below-the-ocean-surface/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-05T16:48:27.482136Z",
+            "shown_at": [
+                "2026-05-05T18:59:19.025224Z"
+            ]
+        },
+        {
+            "id": "90e5cf0099b1f26b18337496ab10c9ed",
+            "source": "spacenews",
+            "text": "The budget proposal that overshadowed Artemis 2",
+            "source_link": "https://spacenews.com/the-budget-proposal-that-overshadowed-artemis-2/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-05T16:48:27.482104Z",
+            "shown_at": [
+                "2026-05-05T18:24:34.232361Z"
+            ]
+        },
+        {
+            "id": "8eb81c22acc55b29647f0a395afed5c8",
+            "source": "spacenews",
+            "text": "Facing AI, data and scale imperatives at the 2026 GEOINT Symposium",
+            "source_link": "https://spacenews.com/facing-ai-data-and-scale-imperatives-at-the-2026-geoint-symposium/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-05T16:48:27.482067Z",
+            "shown_at": [
+                "2026-05-05T17:35:05.711168Z"
+            ]
+        },
+        {
+            "id": "d3bfc45d215065652e8185f2a02f4073",
+            "source": "spacenews",
+            "text": "Polish space company Eycore launches first SAR Earth observation satellite",
+            "source_link": "https://spacenews.com/polish-space-company-eycore-launches-first-sar-earth-observation-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-05T16:48:27.482012Z",
+            "shown_at": [
+                "2026-05-05T16:48:28.456263Z"
+            ]
+        },
+        {
+            "id": "21d7dd689869f55cc50cf956f4d0d081",
+            "source": "spacenews",
+            "text": "Hancom InSpace gains hyperspectral sensor",
+            "source_link": "https://spacenews.com/hancom-inspace-gains-hyperspectral-sensor/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-05T13:49:50.560343Z",
+            "shown_at": [
+                "2026-05-05T15:44:23.064428Z"
+            ]
+        },
+        {
+            "id": "bdf1009cc6103f6d057ef5b06cfebda4",
+            "source": "spacenews",
+            "text": "Do AI tools undermine trust in geospatial imagery?",
+            "source_link": "https://spacenews.com/do-ai-tools-undermine-trust-in-geospatial-imagery/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-05T13:49:50.560312Z",
+            "shown_at": [
+                "2026-05-05T15:04:59.721580Z"
+            ]
+        },
+        {
+            "id": "082732d94e9109e48de5cac2e9a74d45",
+            "source": "spacenews",
+            "text": "Quantum Space hires Bridenstine as CEO",
+            "source_link": "https://spacenews.com/quantum-space-hires-bridenstine-as-ceo/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-05T13:49:50.560275Z",
+            "shown_at": [
+                "2026-05-05T14:24:35.200474Z"
+            ]
+        },
+        {
+            "id": "163e6fde1e291190af13a31817bc283d",
+            "source": "spacenews",
+            "text": "Anduril teams with commercial space firms, Sandia lab on Golden Dome interceptor program",
+            "source_link": "https://spacenews.com/anduril-teams-with-commercial-space-firms-sandia-lab-on-golden-dome-interceptor-program/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-05T13:49:50.560218Z",
+            "shown_at": [
+                "2026-05-05T13:49:51.506227Z",
+                "2026-05-05T20:14:52.140141Z"
+            ]
+        },
+        {
+            "id": "55f695b298a0fcd297927d519d639c15",
+            "source": "spacenews",
+            "text": "Ireland and Malta sign the Artemis Accords",
+            "source_link": "https://spacenews.com/ireland-and-malta-sign-the-artemis-accords/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-05T11:09:16.205474Z",
+            "shown_at": [
+                "2026-05-05T11:44:32.529610Z"
+            ]
+        },
+        {
+            "id": "315c1f1debd59a11371a9161a36a023c",
+            "source": "spacenews",
+            "text": "Ignition relaunches Artemis plans",
+            "source_link": "https://spacenews.com/ignition-relaunches-artemis-plans/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-05T11:09:16.205413Z",
+            "shown_at": [
+                "2026-05-05T11:09:17.073324Z"
+            ]
+        },
+        {
+            "id": "5f1bbfe24ad4ffac668bae3a4a7d34e1",
+            "source": "spacenews",
+            "text": "NRO taps EarthDaily, Iceye, Pixxel to expand commercial data pipeline",
+            "source_link": "https://spacenews.com/nro-taps-earthdaily-iceye-pixxel-to-expand-commercial-data-pipeline/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-05T01:39:07.207519Z",
+            "shown_at": [
+                "2026-05-05T02:14:32.400838Z"
+            ]
+        },
+        {
+            "id": "71740efbdcda02af376e345127562c5a",
+            "source": "spacenews",
+            "text": "Firefly plans late summer launch of first Alpha Block 2 rocket",
+            "source_link": "https://spacenews.com/firefly-plans-late-summer-launch-of-first-alpha-block-2-rocket/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-05T01:39:07.207458Z",
+            "shown_at": [
+                "2026-05-05T01:39:08.215635Z"
+            ]
+        },
         {
             "id": "55c6a2fe4aea745f5452b350ecb9c86e",
             "source": "spacenews",
@@ -7499,506 +7713,6 @@
                 "2026-03-13T14:29:36.281654Z",
                 "2026-03-16T05:44:12.715648Z"
             ]
-        },
-        {
-            "id": "e1fab93e0df88c9308c03e9bdc368c39",
-            "source": "spacenews",
-            "text": "RFA plans first launch this summer",
-            "source_link": "https://spacenews.com/rfa-plans-first-launch-this-summer/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-08T01:54:19.902881Z",
-            "shown_at": [
-                "2026-03-08T01:54:20.957485Z",
-                "2026-03-09T00:09:29.686152Z",
-                "2026-03-10T14:54:30.651685Z",
-                "2026-03-13T15:44:18.433511Z"
-            ]
-        },
-        {
-            "id": "0668d8d2018502885b4dd93897719b67",
-            "source": "spacenews",
-            "text": "Air Force lab awards BlackSky contract worth up to $99 million for large optical satellite payload",
-            "source_link": "https://spacenews.com/air-force-lab-awards-blacksky-contract-worth-up-to-99-million-for-large-optical-satellite-payload/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-07T12:09:42.119619Z",
-            "shown_at": [
-                "2026-03-07T12:09:43.774857Z",
-                "2026-03-10T02:29:13.474702Z",
-                "2026-03-13T05:04:46.872700Z"
-            ]
-        },
-        {
-            "id": "8c10dba5522417f054a793b60b75202e",
-            "source": "spacenews",
-            "text": "NASA selects Centaur for new SLS upper stage",
-            "source_link": "https://spacenews.com/nasa-selects-centaur-for-new-sls-upper-stage/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-06T23:54:31.919404Z",
-            "shown_at": [
-                "2026-03-06T23:54:33.254247Z"
-            ]
-        },
-        {
-            "id": "b400209d847043cfa64f8725c3da2b7d",
-            "source": "nyt",
-            "text": "NASA’s Asteroid-Smashing DART Mission Sped Up Space Rock’s Orbit Around the Sun",
-            "source_link": "https://www.nytimes.com/2026/03/06/science/nasa-dart-asteroid-sun-orbit.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-06T19:09:44.422463Z",
-            "shown_at": [
-                "2026-03-06T19:09:45.418405Z",
-                "2026-03-07T08:39:02.797747Z",
-                "2026-03-08T08:24:13.044260Z",
-                "2026-03-08T10:44:16.458163Z",
-                "2026-03-08T11:54:44.635962Z",
-                "2026-03-08T13:04:29.471798Z",
-                "2026-03-08T15:24:23.527443Z",
-                "2026-03-08T21:14:09.543893Z",
-                "2026-03-08T22:23:56.989930Z",
-                "2026-03-09T11:14:31.284779Z",
-                "2026-03-09T13:34:33.655661Z",
-                "2026-03-09T19:29:18.175418Z",
-                "2026-03-10T04:14:29.225224Z",
-                "2026-03-10T08:54:47.045805Z",
-                "2026-03-10T10:09:21.130386Z",
-                "2026-03-10T14:19:31.547809Z",
-                "2026-03-11T00:14:12.572144Z",
-                "2026-03-11T07:14:20.352102Z",
-                "2026-03-11T08:29:20.508839Z",
-                "2026-03-11T09:39:04.473774Z",
-                "2026-03-11T15:39:22.842911Z",
-                "2026-03-11T19:49:11.642941Z",
-                "2026-03-12T05:34:06.293483Z",
-                "2026-03-12T06:44:19.891843Z",
-                "2026-03-12T10:19:43.093583Z",
-                "2026-03-12T12:39:13.428821Z",
-                "2026-03-12T14:24:17.674578Z",
-                "2026-03-13T03:19:18.159326Z",
-                "2026-03-13T05:40:00.860581Z"
-            ]
-        },
-        {
-            "id": "0f4142794bbb2b7ff83ceadd0ff2a4a9",
-            "source": "spacenews",
-            "text": "Eutelsat completes $5.8 billion refinancing plan",
-            "source_link": "https://spacenews.com/eutelsat-completes-5-8-billion-refinancing-plan/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-06T17:54:57.656686Z",
-            "shown_at": [
-                "2026-03-06T17:54:58.920741Z",
-                "2026-03-08T01:18:55.265325Z",
-                "2026-03-08T18:19:14.638548Z",
-                "2026-03-11T21:34:17.171412Z",
-                "2026-03-12T16:44:38.014888Z"
-            ]
-        },
-        {
-            "id": "fcc5d08c7dd3649c21fdb2803526fd5b",
-            "source": "spacenews",
-            "text": "Commercial Space Federation (CSF) Welcomes New Members",
-            "source_link": "https://spacenews.com/commercial-space-federation-csf-welcomes-new-members/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-06T16:04:31.418308Z",
-            "shown_at": [
-                "2026-03-06T16:04:32.367470Z",
-                "2026-03-10T08:19:31.621537Z",
-                "2026-03-11T15:04:43.689358Z"
-            ]
-        },
-        {
-            "id": "6d9c0320c9c6b030a9641444a317e29b",
-            "source": "spacenews",
-            "text": "Hyperscalers are coming to an orbit near you. Power will decide the winners. ",
-            "source_link": "https://spacenews.com/hyperscalers-are-coming-to-an-orbit-near-you-power-will-decide-the-winners/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-06T14:19:23.780688Z",
-            "shown_at": [
-                "2026-03-06T14:19:24.884108Z",
-                "2026-03-06T20:58:50.755113Z"
-            ]
-        },
-        {
-            "id": "bc0e5807d307c0ab499584ebd1d653fa",
-            "source": "spacenews",
-            "text": "Rocket Lab launches satellite for undisclosed customer",
-            "source_link": "https://spacenews.com/rocket-lab-launches-satellite-for-undisclosed-customer/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-06T13:04:24.503003Z",
-            "shown_at": [
-                "2026-03-06T13:04:25.722604Z",
-                "2026-03-08T19:29:11.861930Z",
-                "2026-03-09T04:49:12.590630Z",
-                "2026-03-12T22:39:13.920299Z"
-            ]
-        },
-        {
-            "id": "895e3de877e8225a454cd8d123e71cd4",
-            "source": "spacenews",
-            "text": "China designates space sector an “emerging pillar industry,” sets deep space ambitions in new economic blueprint",
-            "source_link": "https://spacenews.com/china-designates-space-sector-an-emerging-pillar-industry-sets-deep-space-ambitions-in-new-economic-blueprint/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-06T10:44:18.445891Z",
-            "shown_at": [
-                "2026-03-06T10:44:19.342902Z",
-                "2026-03-06T19:44:22.835797Z",
-                "2026-03-11T09:05:06.944891Z"
-            ]
-        },
-        {
-            "id": "2e2d97ef8816221f377d148d9b426b41",
-            "source": "spacenews",
-            "text": "NASA deputy administrator nominee sails through confirmation hearing",
-            "source_link": "https://spacenews.com/nasa-deputy-administrator-nominee-sails-through-confirmation-hearing/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-05T23:34:28.835575Z",
-            "shown_at": [
-                "2026-03-06T00:09:21.499451Z",
-                "2026-03-07T04:34:23.092379Z",
-                "2026-03-07T21:49:21.455780Z",
-                "2026-03-10T07:09:14.043595Z",
-                "2026-03-12T04:09:18.596632Z",
-                "2026-03-12T09:39:08.612652Z"
-            ]
-        },
-        {
-            "id": "e8505ef898149facdce3922e59013b47",
-            "source": "spacenews",
-            "text": "Poland-based Liftero will provide chemical propulsion for Indian firm OrbitAID’s in-orbit servicing mission",
-            "source_link": "https://spacenews.com/poland-based-liftero-will-provide-chemical-propulsion-for-indian-firm-orbitaids-in-orbit-servicing-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-05T23:34:28.835519Z",
-            "shown_at": [
-                "2026-03-05T23:34:30.121463Z",
-                "2026-03-06T17:19:20.296487Z",
-                "2026-03-07T19:29:28.445174Z",
-                "2026-03-08T11:18:54.866888Z",
-                "2026-03-10T10:44:15.118594Z"
-            ]
-        },
-        {
-            "id": "69d658bf7e60780889531dff681e190a",
-            "source": "spacenews",
-            "text": "General Galactic aims to become “the galaxy’s energy and logistics company”",
-            "source_link": "https://spacenews.com/general-galactic-aims-to-become-the-galaxys-energy-logistics-company/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-05T22:19:15.857681Z",
-            "shown_at": [
-                "2026-03-05T22:19:17.297164Z",
-                "2026-03-06T03:44:15.599923Z",
-                "2026-03-08T13:39:13.292831Z",
-                "2026-03-11T05:29:09.671720Z"
-            ]
-        },
-        {
-            "id": "86b4dca8c1391bd4e8502faea9a41b1a",
-            "source": "spacenews",
-            "text": "General Galactic aims to become “the galaxy’s energy logistics company”",
-            "source_link": "https://spacenews.com/general-galactic-aims-to-become-the-galaxys-energy-logistics-company/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-05T21:09:10.655173Z",
-            "shown_at": [
-                "2026-03-05T21:44:24.637884Z",
-                "2026-03-08T04:15:25.254281Z",
-                "2026-03-10T01:19:17.310717Z",
-                "2026-03-11T00:48:56.912793Z"
-            ]
-        },
-        {
-            "id": "4889a3d8499354bbb6e18a08e9b1f716",
-            "source": "spacenews",
-            "text": "Terran Orbital Appoints Kwon Park as Senior Director of Manufacturing Operations",
-            "source_link": "https://spacenews.com/terran-orbital-appoints-kwon-park-as-senior-director-of-manufacturing-operations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-05T21:09:10.655099Z",
-            "shown_at": [
-                "2026-03-05T21:09:11.916283Z",
-                "2026-03-08T10:09:07.244914Z"
-            ]
-        },
-        {
-            "id": "596b9fd178d18007b87f1876e4a40e0e",
-            "source": "spacenews",
-            "text": "Infinite Orbits acquires UK startup Lunasa to expand satellite servicing capabilities",
-            "source_link": "https://spacenews.com/infinite-orbits-acquires-uk-startup-lunasa-to-expand-satellite-servicing-capabilities/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-05T19:54:57.014132Z",
-            "shown_at": [
-                "2026-03-05T19:54:58.113824Z",
-                "2026-03-06T04:54:13.006433Z",
-                "2026-03-09T02:29:14.006676Z",
-                "2026-03-09T08:19:34.914952Z"
-            ]
-        },
-        {
-            "id": "43788928fec7d0bdc381ad8b82983026",
-            "source": "spacenews",
-            "text": "Unlocking AI in space: the case for greater industry and space agency collaboration",
-            "source_link": "https://spacenews.com/unlocking-ai-in-space-the-case-for-greater-industry-and-space-agency-collaboration/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-05T15:24:22.198632Z",
-            "shown_at": [
-                "2026-03-05T15:24:23.823442Z",
-                "2026-03-09T07:09:50.522699Z",
-                "2026-03-09T17:44:28.296405Z"
-            ]
-        },
-        {
-            "id": "85076ab7fedc888b84fd278b15095495",
-            "source": "spacenews",
-            "text": "Sierra Space raises $550 million in Series C funding",
-            "source_link": "https://spacenews.com/sierra-space-raises-550-million-in-series-c-funding/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-05T13:39:14.384977Z",
-            "shown_at": [
-                "2026-03-05T14:49:30.049425Z",
-                "2026-03-06T11:54:23.707827Z"
-            ]
-        },
-        {
-            "id": "95f962a9f0454895f6de29dfe0b2c7ed",
-            "source": "spacenews",
-            "text": "Vast raises $500 million for commercial space station development",
-            "source_link": "https://spacenews.com/vast-raises-500-million-for-commercial-space-station-development/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-05T13:39:14.384929Z",
-            "shown_at": [
-                "2026-03-05T14:14:17.206904Z",
-                "2026-03-06T23:19:08.328674Z",
-                "2026-03-07T01:04:44.124347Z",
-                "2026-03-08T03:04:36.220252Z"
-            ]
-        },
-        {
-            "id": "71740efbdcda02af376e345127562c5a",
-            "source": "spacenews",
-            "text": "Firefly plans late summer launch of first Alpha Block 2 rocket",
-            "source_link": "https://spacenews.com/firefly-plans-late-summer-launch-of-first-alpha-block-2-rocket/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-05T01:39:07.207458Z",
-            "shown_at": [
-                "2026-05-05T01:39:08.215635Z"
-            ]
-        },
-        {
-            "id": "5f1bbfe24ad4ffac668bae3a4a7d34e1",
-            "source": "spacenews",
-            "text": "NRO taps EarthDaily, Iceye, Pixxel to expand commercial data pipeline",
-            "source_link": "https://spacenews.com/nro-taps-earthdaily-iceye-pixxel-to-expand-commercial-data-pipeline/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-05T01:39:07.207519Z",
-            "shown_at": [
-                "2026-05-05T02:14:32.400838Z"
-            ]
-        },
-        {
-            "id": "315c1f1debd59a11371a9161a36a023c",
-            "source": "spacenews",
-            "text": "Ignition relaunches Artemis plans",
-            "source_link": "https://spacenews.com/ignition-relaunches-artemis-plans/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-05T11:09:16.205413Z",
-            "shown_at": [
-                "2026-05-05T11:09:17.073324Z"
-            ]
-        },
-        {
-            "id": "55f695b298a0fcd297927d519d639c15",
-            "source": "spacenews",
-            "text": "Ireland and Malta sign the Artemis Accords",
-            "source_link": "https://spacenews.com/ireland-and-malta-sign-the-artemis-accords/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-05T11:09:16.205474Z",
-            "shown_at": [
-                "2026-05-05T11:44:32.529610Z"
-            ]
-        },
-        {
-            "id": "163e6fde1e291190af13a31817bc283d",
-            "source": "spacenews",
-            "text": "Anduril teams with commercial space firms, Sandia lab on Golden Dome interceptor program",
-            "source_link": "https://spacenews.com/anduril-teams-with-commercial-space-firms-sandia-lab-on-golden-dome-interceptor-program/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-05T13:49:50.560218Z",
-            "shown_at": [
-                "2026-05-05T13:49:51.506227Z",
-                "2026-05-05T20:14:52.140141Z"
-            ]
-        },
-        {
-            "id": "082732d94e9109e48de5cac2e9a74d45",
-            "source": "spacenews",
-            "text": "Quantum Space hires Bridenstine as CEO",
-            "source_link": "https://spacenews.com/quantum-space-hires-bridenstine-as-ceo/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-05T13:49:50.560275Z",
-            "shown_at": [
-                "2026-05-05T14:24:35.200474Z"
-            ]
-        },
-        {
-            "id": "bdf1009cc6103f6d057ef5b06cfebda4",
-            "source": "spacenews",
-            "text": "Do AI tools undermine trust in geospatial imagery?",
-            "source_link": "https://spacenews.com/do-ai-tools-undermine-trust-in-geospatial-imagery/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-05T13:49:50.560312Z",
-            "shown_at": [
-                "2026-05-05T15:04:59.721580Z"
-            ]
-        },
-        {
-            "id": "21d7dd689869f55cc50cf956f4d0d081",
-            "source": "spacenews",
-            "text": "Hancom InSpace gains hyperspectral sensor",
-            "source_link": "https://spacenews.com/hancom-inspace-gains-hyperspectral-sensor/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-05T13:49:50.560343Z",
-            "shown_at": [
-                "2026-05-05T15:44:23.064428Z"
-            ]
-        },
-        {
-            "id": "d3bfc45d215065652e8185f2a02f4073",
-            "source": "spacenews",
-            "text": "Polish space company Eycore launches first SAR Earth observation satellite",
-            "source_link": "https://spacenews.com/polish-space-company-eycore-launches-first-sar-earth-observation-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-05T16:48:27.482012Z",
-            "shown_at": [
-                "2026-05-05T16:48:28.456263Z"
-            ]
-        },
-        {
-            "id": "8eb81c22acc55b29647f0a395afed5c8",
-            "source": "spacenews",
-            "text": "Facing AI, data and scale imperatives at the 2026 GEOINT Symposium",
-            "source_link": "https://spacenews.com/facing-ai-data-and-scale-imperatives-at-the-2026-geoint-symposium/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-05T16:48:27.482067Z",
-            "shown_at": [
-                "2026-05-05T17:35:05.711168Z"
-            ]
-        },
-        {
-            "id": "90e5cf0099b1f26b18337496ab10c9ed",
-            "source": "spacenews",
-            "text": "The budget proposal that overshadowed Artemis 2",
-            "source_link": "https://spacenews.com/the-budget-proposal-that-overshadowed-artemis-2/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-05T16:48:27.482104Z",
-            "shown_at": [
-                "2026-05-05T18:24:34.232361Z"
-            ]
-        },
-        {
-            "id": "d4a722679c9e47fa468c255fdba6256a",
-            "source": "spacenews",
-            "text": "Extending space-enabled intelligence below the ocean surface",
-            "source_link": "https://spacenews.com/extending-space-enabled-intelligence-below-the-ocean-surface/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-05T16:48:27.482136Z",
-            "shown_at": [
-                "2026-05-05T18:59:19.025224Z"
-            ]
-        },
-        {
-            "id": "cd33f714cb45f02e75f58f78dbfddcd5",
-            "source": "spacenews",
-            "text": "Voyager ‘very optimistic’ about Starlab amid potential NASA changes",
-            "source_link": "https://spacenews.com/voyager-very-optimistic-about-starlab-amid-potential-nasa-changes/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-05T21:24:18.905114Z",
-            "shown_at": [
-                "2026-05-05T21:24:20.236879Z"
-            ]
-        },
-        {
-            "id": "ae4f6bc818aefda2d359265b027ba28e",
-            "source": "spacenews",
-            "text": "Ukrainian forces test direct-to-device satellite imagery for frontline troops",
-            "source_link": "https://spacenews.com/ukrainian-forces-test-direct-to-device-satellite-imagery-for-frontline-troops/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-05T21:24:18.905196Z",
-            "shown_at": [
-                "2026-05-05T21:59:18.565415Z"
-            ]
-        },
-        {
-            "id": "d55fb0a2fc6deb2ba47f1017c7b69403",
-            "source": "spacenews",
-            "text": "New NGA head makes industry debut at GEOINT Symposium 2026",
-            "source_link": "https://spacenews.com/new-nga-head-makes-industry-debut-at-geoint-symposium-2026/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-05T21:24:18.905247Z",
-            "shown_at": [
-                "2026-05-05T22:34:19.836785Z"
-            ]
-        },
-        {
-            "id": "e615fd790c7f0ece32e1d41e0b532bb2",
-            "source": "spacenews",
-            "text": "Startup develops software to help military tap commercial imaging satellites",
-            "source_link": "https://spacenews.com/the-bottleneck-in-the-satellite-data-boom/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-05T21:24:18.905292Z",
-            "shown_at": [
-                "2026-05-05T23:09:12.218703Z"
-            ]
-        },
-        {
-            "id": "6b10098b60e32a0c9f5da624f6545f09",
-            "source": "spacenews",
-            "text": "Exiting NRO director Chris Scolese’s legacy: commercial partnerships; public engagement",
-            "source_link": "https://spacenews.com/exiting-nro-director-chris-scoleses-legacy-commercial-partnerships-public-engagement/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-05T21:24:18.905335Z",
-            "shown_at": [
-                "2026-05-05T23:44:27.314702Z"
-            ]
-        },
-        {
-            "id": "678b8fe32c0e1dcf5da8294fee79c935",
-            "source": "spacenews",
-            "text": "Loft Orbital expands into full-service constellation deals",
-            "source_link": "https://spacenews.com/loft-orbital-expands-into-full-service-constellation-deals/",
-            "shown": false,
-            "type": "news",
-            "fetched_datetime": "2026-05-05T21:24:18.905377Z"
         }
     ]
 }
