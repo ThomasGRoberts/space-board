@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 31 | 26 | 53 |
+| spacenews | 12 | 31 | 26 | 54 |
 | nyt | 0 | 0 | 14 | 25 |
 
 # Shown Order
@@ -2257,3 +2257,4 @@
 - **May 06, 09:24 PM** - Startup develops software to help military tap commercial imaging satellites (spacenews)
 - **May 06, 09:59 PM** - NGA Rapid Capabilities Office to embrace speed and risk-taking (spacenews)
 - **May 06, 10:34 PM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
+- **May 06, 11:09 PM** - Loft Orbital expands into full-service constellation deals (spacenews)
