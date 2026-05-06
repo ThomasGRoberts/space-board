@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-06T00:04:53.934074+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3f40e18964a7a1431afe8bf1dfec83e0",
+    "trigger_count": 0,
+    "current_item_id": "de6bd67b7ee2c73df79cc009a69d1f16",
     "data": [
         {
             "id": "678b8fe32c0e1dcf5da8294fee79c935",
@@ -7775,9 +7775,12 @@
             "source": "spacenews",
             "text": "Overview Energy wins Air Force contract to study space-based solar power for military bases",
             "source_link": "https://spacenews.com/overview-energy-wins-air-force-contract-to-study-space-based-solar-power-for-military-bases/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-05-06T12:19:21.863163Z"
+            "fetched_datetime": "2026-05-06T12:19:21.863163Z",
+            "shown_at": [
+                "2026-05-06T12:54:18.507760Z"
+            ]
         }
     ]
 }
