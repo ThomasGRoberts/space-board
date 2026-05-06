@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 18 | 30 | 27 | 53 |
-| nyt | 0 | 0 | 11 | 25 |
+| nyt | 0 | 0 | 12 | 26 |
 
 # Shown Order
 
@@ -2241,3 +2241,4 @@
 - **May 06, 11:44 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 06, 12:19 PM** - Astranis secures $450 million in equity, debt to expand small GEO satellite production (spacenews)
 - **May 06, 12:54 PM** - Overview Energy wins Air Force contract to study space-based solar power for military bases (spacenews)
+- **May 06, 01:29 PM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
