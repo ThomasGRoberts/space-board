@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 17 | 30 | 27 | 52 |
+| spacenews | 17 | 30 | 28 | 53 |
 | nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2254,3 +2254,4 @@
 - **May 06, 07:39 PM** - Eutelsat and Station Satcom sign agreement to scale LEO services for maritime fleet (spacenews)
 - **May 06, 08:14 PM** - Scolese puts talent at center of NRO transition as he prepares to step down (spacenews)
 - **May 06, 08:49 PM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
+- **May 06, 09:24 PM** - Startup develops software to help military tap commercial imaging satellites (spacenews)
