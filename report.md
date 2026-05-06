@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 16 | 31 | 27 | 53 |
-| nyt | 0 | 0 | 11 | 25 |
+| nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -2222,3 +2222,4 @@
 - **May 06, 12:19 AM** - Loft Orbital expands into full-service constellation deals (spacenews)
 - **May 06, 12:54 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 06, 01:29 AM** - House appropriators keep NASA funding flat (spacenews)
+- **May 06, 02:14 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
