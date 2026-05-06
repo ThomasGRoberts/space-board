@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-06T00:04:53.934074+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7e8c702fe799e8fce4023110e5700dd0",
+    "trigger_count": 0,
+    "current_item_id": "78e2d460430db38bc7efadbeb5658927",
     "data": [
         {
             "id": "678b8fe32c0e1dcf5da8294fee79c935",
@@ -7850,9 +7850,12 @@
             "source": "spacenews",
             "text": "Eutelsat and Station Satcom sign agreement to scale LEO services for maritime fleet",
             "source_link": "https://spacenews.com/eutelsat-and-station-satcom-sign-agreement-to-scale-leo-services-for-maritime-fleet/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-05-06T17:54:24.712577Z"
+            "fetched_datetime": "2026-05-06T17:54:24.712577Z",
+            "shown_at": [
+                "2026-05-06T18:29:32.892408Z"
+            ]
         }
     ]
 }
