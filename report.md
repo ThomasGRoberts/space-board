@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 14 | 28 | 27 | 53 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2247,3 +2247,4 @@
 - **May 06, 03:14 PM** - Between resource scarcity and orbital inflation: rethinking the space model (spacenews)
 - **May 06, 03:49 PM** - China’s Nayuta Space raises fresh funding for aerodynamic-recovery rocket  (spacenews)
 - **May 06, 04:34 PM** - Riding the orbital data center wave (spacenews)
+- **May 06, 05:14 PM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
