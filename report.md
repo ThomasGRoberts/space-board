@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 16 | 29 | 26 | 52 |
+| spacenews | 16 | 29 | 27 | 53 |
 | nyt | 0 | 0 | 12 | 26 |
 
 # Shown Order
@@ -2244,3 +2244,4 @@
 - **May 06, 01:29 PM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 06, 02:04 PM** - NGA pushes AI adoption as demand grows for ‘always-on’ intelligence  (spacenews)
 - **May 06, 02:39 PM** - Powering Unified Space Systems Operations (spacenews)
+- **May 06, 03:14 PM** - Between resource scarcity and orbital inflation: rethinking the space model (spacenews)
