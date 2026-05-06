@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 18 | 31 | 27 | 53 |
+| spacenews | 18 | 31 | 28 | 54 |
 | nyt | 0 | 0 | 11 | 25 |
 
 # Shown Order
@@ -2219,3 +2219,4 @@
 - **May 05, 10:34 PM** - New NGA head makes industry debut at GEOINT Symposium 2026 (spacenews)
 - **May 05, 11:09 PM** - Startup develops software to help military tap commercial imaging satellites (spacenews)
 - **May 05, 11:44 PM** - Exiting NRO director Chris Scolese’s legacy: commercial partnerships; public engagement (spacenews)
+- **May 06, 12:19 AM** - Loft Orbital expands into full-service constellation deals (spacenews)

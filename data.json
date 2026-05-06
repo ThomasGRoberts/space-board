@@ -1,17 +1,20 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-06T00:04:53.934074+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6b10098b60e32a0c9f5da624f6545f09",
+    "trigger_count": 0,
+    "current_item_id": "678b8fe32c0e1dcf5da8294fee79c935",
     "data": [
         {
             "id": "678b8fe32c0e1dcf5da8294fee79c935",
             "source": "spacenews",
             "text": "Loft Orbital expands into full-service constellation deals",
             "source_link": "https://spacenews.com/loft-orbital-expands-into-full-service-constellation-deals/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-05-05T21:24:18.905377Z"
+            "fetched_datetime": "2026-05-05T21:24:18.905377Z",
+            "shown_at": [
+                "2026-05-06T00:19:03.811879Z"
+            ]
         },
         {
             "id": "6b10098b60e32a0c9f5da624f6545f09",
