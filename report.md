@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 16 | 31 | 26 | 53 |
-| nyt | 0 | 0 | 12 | 25 |
+| spacenews | 18 | 33 | 27 | 54 |
+| nyt | 0 | 0 | 11 | 25 |
 
 # Shown Order
 
@@ -2239,3 +2239,4 @@
 - **May 06, 10:34 AM** - Scout Space raises $18 million to expand orbital tracking technology (spacenews)
 - **May 06, 11:09 AM** - Ground station operators grapple with military targeting (spacenews)
 - **May 06, 11:44 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
+- **May 06, 12:19 PM** - Astranis secures $450 million in equity, debt to expand small GEO satellite production (spacenews)
