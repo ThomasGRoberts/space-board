@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 16 | 29 | 26 | 52 |
+| spacenews | 16 | 29 | 27 | 52 |
 | nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2251,3 +2251,4 @@
 - **May 06, 05:54 PM** - Bringing imagery and communications under one roof (spacenews)
 - **May 06, 06:29 PM** - Eutelsat and Station Satcom sign agreement to scale LEO services for maritime fleet (spacenews)
 - **May 06, 07:04 PM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
+- **May 06, 07:39 PM** - Eutelsat and Station Satcom sign agreement to scale LEO services for maritime fleet (spacenews)
