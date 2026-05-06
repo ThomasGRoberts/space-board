@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 16 | 30 | 27 | 53 |
-| nyt | 0 | 0 | 11 | 25 |
+| spacenews | 16 | 30 | 26 | 53 |
+| nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -2226,3 +2226,4 @@
 - **May 06, 02:49 AM** - Space Force taps K2 satellites to test laser communications for missile-defense (spacenews)
 - **May 06, 03:24 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 06, 03:58 AM** - Amazon Leo passes 300 satellites with Atlas and Ariane launches (spacenews)
+- **May 06, 04:34 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
