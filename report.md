@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 16 | 30 | 27 | 53 |
-| nyt | 0 | 0 | 11 | 25 |
+| spacenews | 16 | 30 | 26 | 53 |
+| nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -2232,3 +2232,4 @@
 - **May 06, 06:24 AM** - NGA pushes AI adoption as demand grows for ‘always-on’ intelligence  (spacenews)
 - **May 06, 06:59 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 06, 07:39 AM** - Voyager ‘very optimistic’ about Starlab amid potential NASA changes (spacenews)
+- **May 06, 08:14 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
