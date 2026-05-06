@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 17 | 31 | 27 | 54 |
+| spacenews | 16 | 32 | 27 | 54 |
 | nyt | 0 | 0 | 11 | 24 |
 
 # Shown Order
@@ -2237,3 +2237,4 @@
 - **May 06, 09:24 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 06, 09:59 AM** - Ignition relaunches Artemis plans (spacenews)
 - **May 06, 10:34 AM** - Scout Space raises $18 million to expand orbital tracking technology (spacenews)
+- **May 06, 11:09 AM** - Ground station operators grapple with military targeting (spacenews)

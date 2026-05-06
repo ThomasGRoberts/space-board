@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-06T00:04:53.934074+00:00",
-    "trigger_count": 6,
-    "current_item_id": "879c1371ec60b32d124f31e6eb99d5fb",
+    "trigger_count": 0,
+    "current_item_id": "4f252aedaa6974c60313ae6966c61e1f",
     "data": [
         {
             "id": "678b8fe32c0e1dcf5da8294fee79c935",
@@ -7743,6 +7743,18 @@
             "fetched_datetime": "2026-05-06T10:34:31.987486Z",
             "shown_at": [
                 "2026-05-06T10:34:32.987411Z"
+            ]
+        },
+        {
+            "id": "4f252aedaa6974c60313ae6966c61e1f",
+            "source": "spacenews",
+            "text": "Ground station operators grapple with military targeting",
+            "source_link": "https://spacenews.com/ground-station-operators-grapple-with-military-targeting/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-06T11:09:26.765626Z",
+            "shown_at": [
+                "2026-05-06T11:09:28.495667Z"
             ]
         }
     ]
