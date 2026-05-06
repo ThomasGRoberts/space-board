@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 30 | 27 | 53 |
+| spacenews | 12 | 31 | 27 | 54 |
 | nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -2255,3 +2255,4 @@
 - **May 06, 08:14 PM** - Scolese puts talent at center of NRO transition as he prepares to step down (spacenews)
 - **May 06, 08:49 PM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 06, 09:24 PM** - Startup develops software to help military tap commercial imaging satellites (spacenews)
+- **May 06, 09:59 PM** - NGA Rapid Capabilities Office to embrace speed and risk-taking (spacenews)

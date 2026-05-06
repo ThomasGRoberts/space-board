@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-06T00:04:53.934074+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e615fd790c7f0ece32e1d41e0b532bb2",
+    "trigger_count": 0,
+    "current_item_id": "8de3e3e3e16798071ba12bb070d409ea",
     "data": [
         {
             "id": "678b8fe32c0e1dcf5da8294fee79c935",
@@ -7871,6 +7871,18 @@
             "fetched_datetime": "2026-05-06T20:14:31.746748Z",
             "shown_at": [
                 "2026-05-06T20:14:32.974159Z"
+            ]
+        },
+        {
+            "id": "8de3e3e3e16798071ba12bb070d409ea",
+            "source": "spacenews",
+            "text": "NGA Rapid Capabilities Office to embrace speed and risk-taking",
+            "source_link": "https://spacenews.com/nga-rapid-capabilities-office-to-embrace-speed-and-risk-taking/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-06T21:59:22.490412Z",
+            "shown_at": [
+                "2026-05-06T21:59:23.564080Z"
             ]
         }
     ]
