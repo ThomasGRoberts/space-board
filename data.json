@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-06T00:04:53.934074+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ed5f6ad59f87e2ebb6270c9e563cc3db",
+    "trigger_count": 0,
+    "current_item_id": "08f88501d661d99616102607b0137d5c",
     "data": [
         {
             "id": "678b8fe32c0e1dcf5da8294fee79c935",
@@ -7807,6 +7807,27 @@
             "shown_at": [
                 "2026-05-06T15:14:19.660662Z"
             ]
+        },
+        {
+            "id": "08f88501d661d99616102607b0137d5c",
+            "source": "spacenews",
+            "text": "China’s Nayuta Space raises fresh funding for aerodynamic-recovery rocket ",
+            "source_link": "https://spacenews.com/chinas-nayuta-space-raises-fresh-funding-for-aerodynamic-recovery-rocket/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-06T15:49:33.457032Z",
+            "shown_at": [
+                "2026-05-06T15:49:34.554461Z"
+            ]
+        },
+        {
+            "id": "0103b6c82546bb492fabceee1cc1ceb0",
+            "source": "spacenews",
+            "text": "Riding the orbital data center wave",
+            "source_link": "https://spacenews.com/riding-the-orbital-data-center-wave/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-05-06T15:49:33.457089Z"
         }
     ]
 }
