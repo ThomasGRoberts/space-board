@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 16 | 30 | 26 | 53 |
+| spacenews | 17 | 31 | 27 | 54 |
 | nyt | 0 | 0 | 11 | 24 |
 
 # Shown Order
@@ -2236,3 +2236,4 @@
 - **May 06, 08:49 AM** - Startup develops software to help military tap commercial imaging satellites (spacenews)
 - **May 06, 09:24 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 06, 09:59 AM** - Ignition relaunches Artemis plans (spacenews)
+- **May 06, 10:34 AM** - Scout Space raises $18 million to expand orbital tracking technology (spacenews)

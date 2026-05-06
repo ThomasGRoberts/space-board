@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-06T00:04:53.934074+00:00",
-    "trigger_count": 6,
-    "current_item_id": "315c1f1debd59a11371a9161a36a023c",
+    "trigger_count": 0,
+    "current_item_id": "879c1371ec60b32d124f31e6eb99d5fb",
     "data": [
         {
             "id": "678b8fe32c0e1dcf5da8294fee79c935",
@@ -7731,6 +7731,18 @@
                 "2026-03-12T15:34:44.649006Z",
                 "2026-03-13T14:29:36.281654Z",
                 "2026-03-16T05:44:12.715648Z"
+            ]
+        },
+        {
+            "id": "879c1371ec60b32d124f31e6eb99d5fb",
+            "source": "spacenews",
+            "text": "Scout Space raises $18 million to expand orbital tracking technology",
+            "source_link": "https://spacenews.com/scout-space-raises-18-million-to-expand-orbital-tracking-technology/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-06T10:34:31.987486Z",
+            "shown_at": [
+                "2026-05-06T10:34:32.987411Z"
             ]
         }
     ]
