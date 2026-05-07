@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-07T00:04:34.599439+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9a9550ba8ebae15b279612a9584cfc5f",
+    "trigger_count": 0,
+    "current_item_id": "e3538a9ba1737ec64082504286e2fb89",
     "data": [
         {
             "id": "8de3e3e3e16798071ba12bb070d409ea",
@@ -7713,9 +7713,12 @@
             "source": "spacenews",
             "text": "As satellite imagery evolves, its role in operations comes into view",
             "source_link": "https://spacenews.com/as-satellite-imagery-evolves-its-role-in-operations-comes-into-view/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-05-07T11:05:28.203769Z"
+            "fetched_datetime": "2026-05-07T11:05:28.203769Z",
+            "shown_at": [
+                "2026-05-07T11:44:18.039853Z"
+            ]
         }
     ]
 }
