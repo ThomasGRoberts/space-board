@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 27 | 24 | 51 |
-| nyt | 0 | 0 | 15 | 28 |
+| nyt | 0 | 0 | 16 | 29 |
 
 # Shown Order
 
@@ -2214,3 +2214,4 @@
 - **May 07, 06:54 PM** - Redwire pursues opportunities in landers and power systems for NASA’s moon base plans (spacenews)
 - **May 07, 07:29 PM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 07, 08:04 PM** - Riding the orbital data center wave (spacenews)
+- **May 07, 08:39 PM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
