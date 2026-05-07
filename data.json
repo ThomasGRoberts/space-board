@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-07T00:04:34.599439+00:00",
-    "trigger_count": 6,
-    "current_item_id": "702fe7fee20ef812805493de65d6c876",
+    "trigger_count": 0,
+    "current_item_id": "571d69a632d422f4b08d276e7b4647b1",
     "data": [
         {
             "id": "8de3e3e3e16798071ba12bb070d409ea",
@@ -7737,9 +7737,12 @@
             "source": "spacenews",
             "text": "Starfighters hires Blue Origin veterans to accelerate air-launch platform",
             "source_link": "https://spacenews.com/starfighters-hires-blue-origin-veterans-to-accelerate-air-launch-platform/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-05-07T12:19:28.317482Z"
+            "fetched_datetime": "2026-05-07T12:19:28.317482Z",
+            "shown_at": [
+                "2026-05-07T12:54:37.768866Z"
+            ]
         },
         {
             "id": "fa93fb73f76d69d90f131384c4ccc862",

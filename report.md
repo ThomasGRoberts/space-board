@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 13 | 31 | 25 | 52 |
+| spacenews | 13 | 31 | 25 | 53 |
 | nyt | 0 | 0 | 15 | 26 |
 
 # Shown Order
@@ -2202,3 +2202,4 @@
 - **May 07, 11:05 AM** - Speed tops price in national security contracting decisions (spacenews)
 - **May 07, 11:44 AM** - As satellite imagery evolves, its role in operations comes into view (spacenews)
 - **May 07, 12:19 PM** - Anthropic to consider using SpaceX orbital data center satellites (spacenews)
+- **May 07, 12:54 PM** - Starfighters hires Blue Origin veterans to accelerate air-launch platform (spacenews)
