@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 26 | 25 | 51 |
-| nyt | 0 | 0 | 14 | 27 |
+| nyt | 0 | 0 | 15 | 28 |
 
 # Shown Order
 
@@ -2209,3 +2209,4 @@
 - **May 07, 03:59 PM** - Military space boom meets Beltway friction (spacenews)
 - **May 07, 04:34 PM** - Odin Space opens U.S. office in Los Angeles (spacenews)
 - **May 07, 05:09 PM** - Roadmap for a space-to-space economy (spacenews)
+- **May 07, 05:44 PM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
