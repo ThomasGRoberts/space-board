@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 21 | 23 | 50 |
+| spacenews | 10 | 22 | 24 | 51 |
 | nyt | 0 | 0 | 16 | 29 |
 
 # Shown Order
@@ -2217,3 +2217,4 @@
 - **May 07, 08:39 PM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 07, 09:14 PM** - Extending space-enabled intelligence below the ocean surface (spacenews)
 - **May 07, 09:49 PM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
+- **May 07, 10:24 PM** - Rocket Lab joins Raytheon on space interceptor program for Golden Dome (spacenews)
