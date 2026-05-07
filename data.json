@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-07T00:04:34.599439+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8c0677a696b9af4343d8bdeb55200422",
+    "trigger_count": 0,
+    "current_item_id": "9a9550ba8ebae15b279612a9584cfc5f",
     "data": [
         {
             "id": "8de3e3e3e16798071ba12bb070d409ea",
@@ -7695,6 +7695,27 @@
                 "2026-03-11T01:59:08.268588Z",
                 "2026-03-13T20:24:24.697099Z"
             ]
+        },
+        {
+            "id": "9a9550ba8ebae15b279612a9584cfc5f",
+            "source": "spacenews",
+            "text": "Speed tops price in national security contracting decisions",
+            "source_link": "https://spacenews.com/speed-tops-price-in-national-security-contracting-decisions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-07T11:05:28.203683Z",
+            "shown_at": [
+                "2026-05-07T11:05:29.349534Z"
+            ]
+        },
+        {
+            "id": "e3538a9ba1737ec64082504286e2fb89",
+            "source": "spacenews",
+            "text": "As satellite imagery evolves, its role in operations comes into view",
+            "source_link": "https://spacenews.com/as-satellite-imagery-evolves-its-role-in-operations-comes-into-view/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-05-07T11:05:28.203769Z"
         }
     ]
 }
