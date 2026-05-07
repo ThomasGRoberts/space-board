@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 27 | 24 | 51 |
+| spacenews | 11 | 27 | 25 | 52 |
 | nyt | 0 | 0 | 15 | 27 |
 
 # Shown Order
@@ -2205,3 +2205,4 @@
 - **May 07, 12:54 PM** - Starfighters hires Blue Origin veterans to accelerate air-launch platform (spacenews)
 - **May 07, 01:29 PM** - Skyroot raises $60 million ahead of first orbital launch attempt (spacenews)
 - **May 07, 02:05 PM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
+- **May 07, 03:01 PM** - New NGA head makes industry debut at GEOINT Symposium 2026 (spacenews)
