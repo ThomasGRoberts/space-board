@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 28 | 25 | 51 |
+| spacenews | 12 | 28 | 26 | 52 |
 | nyt | 0 | 0 | 15 | 27 |
 
 # Shown Order
@@ -2193,3 +2193,4 @@
 - **May 07, 05:34 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 07, 06:14 AM** - Anduril teams with commercial space firms, Sandia lab on Golden Dome interceptor program (spacenews)
 - **May 07, 06:49 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
+- **May 07, 07:29 AM** - NGA pushes AI adoption as demand grows for ‘always-on’ intelligence  (spacenews)
