@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 30 | 25 | 52 |
+| spacenews | 12 | 30 | 25 | 53 |
 | nyt | 0 | 0 | 15 | 26 |
 
 # Shown Order
@@ -2181,3 +2181,4 @@
 - **May 06, 10:34 PM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 06, 11:09 PM** - Loft Orbital expands into full-service constellation deals (spacenews)
 - **May 06, 11:44 PM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
+- **May 07, 12:19 AM** - Ignition relaunches Artemis plans (spacenews)
