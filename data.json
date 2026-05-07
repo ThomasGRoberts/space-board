@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-07T00:04:34.599439+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8c0683b4e8395ce445cbea9aae2e9510",
+    "trigger_count": 0,
+    "current_item_id": "761453232e398a39e273e1743ff44d1d",
     "data": [
         {
             "id": "8de3e3e3e16798071ba12bb070d409ea",
@@ -7775,9 +7775,12 @@
             "source": "spacenews",
             "text": "Odin Space opens U.S. office in Los Angeles",
             "source_link": "https://spacenews.com/odin-space-opens-u-s-office-in-los-angeles/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-05-07T15:59:13.851266Z"
+            "fetched_datetime": "2026-05-07T15:59:13.851266Z",
+            "shown_at": [
+                "2026-05-07T16:34:38.753860Z"
+            ]
         },
         {
             "id": "f282608aec7bb4a07eda9b60ef4b832f",
