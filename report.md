@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 27 | 25 | 51 |
-| nyt | 0 | 0 | 14 | 28 |
+| nyt | 0 | 0 | 15 | 29 |
 
 # Shown Order
 
@@ -2212,3 +2212,4 @@
 - **May 07, 05:44 PM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 07, 06:19 PM** - OroraTech deploys wildfire constellation for Greece (spacenews)
 - **May 07, 06:54 PM** - Redwire pursues opportunities in landers and power systems for NASA’s moon base plans (spacenews)
+- **May 07, 07:29 PM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
