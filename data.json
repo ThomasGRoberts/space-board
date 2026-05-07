@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-07T00:04:34.599439+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5818779ecbb002650ee138a2406ac4e6",
+    "trigger_count": 0,
+    "current_item_id": "f7b17505a4211866a1b3a0393da1eb13",
     "data": [
         {
             "id": "8de3e3e3e16798071ba12bb070d409ea",
@@ -7794,6 +7794,18 @@
             "fetched_datetime": "2026-05-07T15:59:13.851302Z",
             "shown_at": [
                 "2026-05-07T17:09:23.021546Z"
+            ]
+        },
+        {
+            "id": "f7b17505a4211866a1b3a0393da1eb13",
+            "source": "spacenews",
+            "text": "Redwire pursues opportunities in landers and power systems for NASA’s moon base plans",
+            "source_link": "https://spacenews.com/redwire-pursues-opportunities-in-landers-and-power-systems-for-nasas-moon-base-plans/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-07T18:54:28.981684Z",
+            "shown_at": [
+                "2026-05-07T18:54:29.961148Z"
             ]
         }
     ]
