@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 24 | 24 | 49 |
-| nyt | 0 | 0 | 15 | 30 |
+| nyt | 0 | 0 | 16 | 31 |
 
 # Shown Order
 
@@ -2175,3 +2175,4 @@
 - **May 08, 01:54 AM** - Lunar Outpost raises $30 million (spacenews)
 - **May 08, 02:29 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 08, 03:04 AM** - SatVu zooms in energy facilities in Cuba, India and Australia (spacenews)
+- **May 08, 03:39 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
