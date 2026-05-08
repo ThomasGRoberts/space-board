@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-08T00:04:41.447637+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8c0677a696b9af4343d8bdeb55200422",
+    "trigger_count": 0,
+    "current_item_id": "18036bd2e8cd48eefa7bf27185eb7c73",
     "data": [
         {
             "id": "6542435a0ffa63c5426bcecfd9472987",
@@ -7680,6 +7680,18 @@
             "fetched_datetime": "2026-05-08T01:54:02.347898Z",
             "shown_at": [
                 "2026-05-08T01:54:03.203453Z"
+            ]
+        },
+        {
+            "id": "18036bd2e8cd48eefa7bf27185eb7c73",
+            "source": "spacenews",
+            "text": "SatVu zooms in energy facilities in Cuba, India and Australia",
+            "source_link": "https://spacenews.com/satvu-zooms-in-energy-facilities-in-cuba-india-and-australia/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-08T03:04:46.544542Z",
+            "shown_at": [
+                "2026-05-08T03:04:47.341678Z"
             ]
         }
     ]
