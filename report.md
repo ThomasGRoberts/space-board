@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 17 | 24 | 48 |
+| spacenews | 6 | 17 | 24 | 49 |
 | nyt | 2 | 2 | 17 | 32 |
 
 # Shown Order
@@ -2203,3 +2203,4 @@
 - **May 08, 06:19 PM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
 - **May 08, 06:54 PM** - NGA pushes AI adoption as demand grows for ‘always-on’ intelligence  (spacenews)
 - **May 08, 07:29 PM** - Pentagon Releases Files on U.F.O.s (nyt)
+- **May 08, 08:04 PM** - OroraTech deploys wildfire constellation for Greece (spacenews)
