@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 24 | 24 | 49 |
-| nyt | 0 | 0 | 15 | 30 |
+| nyt | 0 | 0 | 16 | 31 |
 
 # Shown Order
 
@@ -2181,3 +2181,4 @@
 - **May 08, 05:23 AM** - Lunar Outpost raises $30 million (spacenews)
 - **May 08, 05:59 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 08, 06:34 AM** - Quantum Space hires Bridenstine as CEO (spacenews)
+- **May 08, 07:14 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
