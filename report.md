@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 16 | 25 | 48 |
-| nyt | 3 | 3 | 16 | 32 |
+| nyt | 3 | 3 | 17 | 33 |
 
 # Shown Order
 
@@ -2207,3 +2207,4 @@
 - **May 08, 08:39 PM** - Swift reboost mission completes environmental tests (spacenews)
 - **May 08, 09:14 PM** - U.F.O. Files Released by U.S. Shed Light on What the Government Knows (nyt)
 - **May 08, 09:49 PM** - Riding the orbital data center wave (spacenews)
+- **May 08, 10:24 PM** - Pentagon Releases Files on U.F.O.s (nyt)
