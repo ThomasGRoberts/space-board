@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 19 | 24 | 49 |
+| spacenews | 7 | 19 | 25 | 50 |
 | nyt | 2 | 2 | 17 | 31 |
 
 # Shown Order
@@ -2199,3 +2199,4 @@
 - **May 08, 03:59 PM** - Paraguay signs the Artemis Accords (spacenews)
 - **May 08, 04:34 PM** - SatVu zooms in on energy facilities in Cuba, India and Australia (spacenews)
 - **May 08, 05:09 PM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
+- **May 08, 05:44 PM** - Scolese puts talent at center of NRO transition as he prepares to step down (spacenews)
