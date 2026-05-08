@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 19 | 26 | 50 |
-| nyt | 0 | 0 | 14 | 29 |
+| nyt | 2 | 2 | 15 | 30 |
 
 # Shown Order
 
@@ -2194,3 +2194,4 @@
 - **May 08, 01:04 PM** - China’s Nayuta Space raises fresh funding for aerodynamic-recovery rocket  (spacenews)
 - **May 08, 01:39 PM** - Tech firms partner up to push intelligence processing closer to the battlefield (spacenews)
 - **May 08, 02:14 PM** - Between resource scarcity and orbital inflation: rethinking the space model (spacenews)
+- **May 08, 02:49 PM** - Pentagon Releases Files on U.F.O.s (nyt)
