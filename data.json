@@ -1,9 +1,129 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-05-07T00:04:34.599439+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2026-05-08T00:04:41.447637+00:00",
+    "trigger_count": 6,
     "current_item_id": "ae4f6bc818aefda2d359265b027ba28e",
     "data": [
+        {
+            "id": "6542435a0ffa63c5426bcecfd9472987",
+            "source": "spacenews",
+            "text": "Rocket Lab joins Raytheon on space interceptor program for Golden Dome",
+            "source_link": "https://spacenews.com/rocket-lab-joins-raytheon-on-space-interceptor-program-for-golden-dome/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-07T22:24:15.752735Z",
+            "shown_at": [
+                "2026-05-07T22:24:16.947719Z"
+            ]
+        },
+        {
+            "id": "f7b17505a4211866a1b3a0393da1eb13",
+            "source": "spacenews",
+            "text": "Redwire pursues opportunities in landers and power systems for NASA’s moon base plans",
+            "source_link": "https://spacenews.com/redwire-pursues-opportunities-in-landers-and-power-systems-for-nasas-moon-base-plans/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-07T18:54:28.981684Z",
+            "shown_at": [
+                "2026-05-07T18:54:29.961148Z"
+            ]
+        },
+        {
+            "id": "f282608aec7bb4a07eda9b60ef4b832f",
+            "source": "spacenews",
+            "text": "Roadmap for a space-to-space economy",
+            "source_link": "https://spacenews.com/roadmap-for-a-space-to-space-economy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-07T15:59:13.851302Z",
+            "shown_at": [
+                "2026-05-07T17:09:23.021546Z"
+            ]
+        },
+        {
+            "id": "761453232e398a39e273e1743ff44d1d",
+            "source": "spacenews",
+            "text": "Odin Space opens U.S. office in Los Angeles",
+            "source_link": "https://spacenews.com/odin-space-opens-u-s-office-in-los-angeles/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-07T15:59:13.851266Z",
+            "shown_at": [
+                "2026-05-07T16:34:38.753860Z"
+            ]
+        },
+        {
+            "id": "8c0683b4e8395ce445cbea9aae2e9510",
+            "source": "spacenews",
+            "text": "Military space boom meets Beltway friction",
+            "source_link": "https://spacenews.com/military-space-boom-meets-beltway-friction/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-07T15:59:13.851207Z",
+            "shown_at": [
+                "2026-05-07T15:59:14.418689Z"
+            ]
+        },
+        {
+            "id": "fa93fb73f76d69d90f131384c4ccc862",
+            "source": "spacenews",
+            "text": "Skyroot raises $60 million ahead of first orbital launch attempt",
+            "source_link": "https://spacenews.com/skyroot-raises-60-million-ahead-of-first-orbital-launch-attempt/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-07T12:19:28.317518Z",
+            "shown_at": [
+                "2026-05-07T13:29:22.654755Z"
+            ]
+        },
+        {
+            "id": "571d69a632d422f4b08d276e7b4647b1",
+            "source": "spacenews",
+            "text": "Starfighters hires Blue Origin veterans to accelerate air-launch platform",
+            "source_link": "https://spacenews.com/starfighters-hires-blue-origin-veterans-to-accelerate-air-launch-platform/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-07T12:19:28.317482Z",
+            "shown_at": [
+                "2026-05-07T12:54:37.768866Z"
+            ]
+        },
+        {
+            "id": "702fe7fee20ef812805493de65d6c876",
+            "source": "spacenews",
+            "text": "Anthropic to consider using SpaceX orbital data center satellites",
+            "source_link": "https://spacenews.com/anthropic-to-consider-using-spacex-orbital-data-center-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-07T12:19:28.317427Z",
+            "shown_at": [
+                "2026-05-07T12:19:29.279375Z"
+            ]
+        },
+        {
+            "id": "e3538a9ba1737ec64082504286e2fb89",
+            "source": "spacenews",
+            "text": "As satellite imagery evolves, its role in operations comes into view",
+            "source_link": "https://spacenews.com/as-satellite-imagery-evolves-its-role-in-operations-comes-into-view/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-07T11:05:28.203769Z",
+            "shown_at": [
+                "2026-05-07T11:44:18.039853Z"
+            ]
+        },
+        {
+            "id": "9a9550ba8ebae15b279612a9584cfc5f",
+            "source": "spacenews",
+            "text": "Speed tops price in national security contracting decisions",
+            "source_link": "https://spacenews.com/speed-tops-price-in-national-security-contracting-decisions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-07T11:05:28.203683Z",
+            "shown_at": [
+                "2026-05-07T11:05:29.349534Z"
+            ]
+        },
         {
             "id": "8de3e3e3e16798071ba12bb070d409ea",
             "source": "spacenews",
@@ -7544,287 +7664,6 @@
             "shown_at": [
                 "2026-03-11T12:39:04.038365Z",
                 "2026-03-16T21:09:26.579030Z"
-            ]
-        },
-        {
-            "id": "67335fd0f85cfb7efcf9fa96baed9e96",
-            "source": "spacenews",
-            "text": "Telesat expands Canadian landing station footprint for Lightspeed",
-            "source_link": "https://spacenews.com/telesat-expands-canadian-landing-station-footprint-for-lightspeed/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-11T12:04:36.381111Z",
-            "shown_at": [
-                "2026-03-11T12:04:37.339685Z",
-                "2026-03-13T01:34:27.265018Z"
-            ]
-        },
-        {
-            "id": "6889d6151ff10c287b9c79e0ff530a31",
-            "source": "spacenews",
-            "text": "Large Series C signals scale-up of China’s laser satellite communications sector",
-            "source_link": "https://spacenews.com/large-series-c-signals-scale-up-of-chinas-laser-satellite-communications-sector/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-11T10:14:01.436907Z",
-            "shown_at": [
-                "2026-03-11T10:14:02.801334Z",
-                "2026-03-16T01:04:32.956189Z"
-            ]
-        },
-        {
-            "id": "296f9789b4c02c83177a73c4c74921b6",
-            "source": "spacenews",
-            "text": "Anduril to acquire space-tracking firm ExoAnalytic Solutions",
-            "source_link": "https://spacenews.com/anduril-to-acquire-space-tracking-firm-exoanalytic-solutions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-11T04:19:12.656614Z",
-            "shown_at": [
-                "2026-03-11T04:19:13.512604Z",
-                "2026-03-11T22:44:17.564570Z",
-                "2026-03-13T06:14:30.976806Z",
-                "2026-03-14T10:24:05.722768Z",
-                "2026-03-14T19:49:22.370418Z"
-            ]
-        },
-        {
-            "id": "bd64c969dd0f63b06e2f63b115c63583",
-            "source": "spacenews",
-            "text": "Starlab Space fully books commercial payload space on planned space station",
-            "source_link": "https://spacenews.com/starlab-space-fully-books-commercial-payload-space-on-planned-space-station/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-10T23:39:18.377137Z",
-            "shown_at": [
-                "2026-03-10T23:39:19.558069Z",
-                "2026-03-15T12:09:16.345821Z"
-            ]
-        },
-        {
-            "id": "2c22b46f4b115575c312322054864435",
-            "source": "spacenews",
-            "text": "Viasat wins $14 million contract to provide in-flight satcom for Navy executive aircraft",
-            "source_link": "https://spacenews.com/viasat-wins-14-million-contract-to-provide-in-flight-satcom-for-navy-executive-aircraft/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-10T23:04:52.168949Z",
-            "shown_at": [
-                "2026-03-10T23:04:53.448551Z",
-                "2026-03-11T17:29:15.078516Z",
-                "2026-03-15T19:09:08.234703Z",
-                "2026-03-16T04:34:25.576166Z",
-                "2026-03-17T05:54:18.970808Z",
-                "2026-03-17T20:44:55.135615Z"
-            ]
-        },
-        {
-            "id": "c74d77158f41137483d7aa6d1163a8cd",
-            "source": "spacenews",
-            "text": "Suspended NOAA satellite chief warns of threats to federal science programs",
-            "source_link": "https://spacenews.com/suspended-noaa-satellite-chief-warns-of-threats-to-federal-science-programs/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-10T20:44:12.892833Z",
-            "shown_at": [
-                "2026-03-10T20:44:13.701931Z",
-                "2026-03-16T03:24:22.199227Z",
-                "2026-03-17T04:44:19.347369Z"
-            ]
-        },
-        {
-            "id": "6541931490003bdec208bc6237b84bbd",
-            "source": "nyt",
-            "text": "‘Don’t Worry About It’: NASA Satellite to Burn Up in Fall to Earth",
-            "source_link": "https://www.nytimes.com/2026/03/10/science/space/nasa-satellite-earth-re-entry.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-10T20:09:25.948208Z",
-            "shown_at": [
-                "2026-03-10T20:09:27.152091Z",
-                "2026-03-10T22:29:14.786336Z",
-                "2026-03-11T03:44:15.900991Z",
-                "2026-03-11T18:04:40.301728Z",
-                "2026-03-11T22:09:12.701956Z",
-                "2026-03-12T01:04:33.238725Z",
-                "2026-03-12T02:19:18.644067Z",
-                "2026-03-12T09:04:44.692347Z",
-                "2026-03-12T16:09:27.564734Z",
-                "2026-03-13T00:59:23.648171Z",
-                "2026-03-13T10:54:13.117220Z",
-                "2026-03-13T12:44:28.198613Z",
-                "2026-03-14T01:39:05.231970Z",
-                "2026-03-14T07:28:53.216869Z",
-                "2026-03-14T12:09:10.524062Z",
-                "2026-03-14T14:29:09.859522Z",
-                "2026-03-14T16:49:09.632671Z",
-                "2026-03-15T06:54:29.951335Z",
-                "2026-03-15T13:54:18.281984Z",
-                "2026-03-16T12:54:15.690524Z",
-                "2026-03-16T23:29:24.259314Z"
-            ]
-        },
-        {
-            "id": "a782006cec43a79f14becdbef5be3dae",
-            "source": "spacenews",
-            "text": "Precision in Orbit: Heraeus Catalysts Safeguard Satellite Control",
-            "source_link": "https://spacenews.com/precision-in-orbit-heraeus-catalysts-safeguard-satellite-control/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-10T16:39:18.043826Z",
-            "shown_at": [
-                "2026-03-10T16:39:19.198799Z",
-                "2026-03-11T18:39:21.978723Z",
-                "2026-03-14T04:34:46.469913Z",
-                "2026-03-14T17:24:29.634786Z"
-            ]
-        },
-        {
-            "id": "0c1e4848b29f71379289b463c3d1794a",
-            "source": "spacenews",
-            "text": "Impulse Space expands Colorado presence",
-            "source_link": "https://spacenews.com/impulse-space-expands-colorado-presence/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-10T16:04:48.455919Z",
-            "shown_at": [
-                "2026-03-10T16:04:49.681263Z",
-                "2026-03-17T07:04:41.809396Z"
-            ]
-        },
-        {
-            "id": "da9987c812f3efe8e4109b34a585799c",
-            "source": "spacenews",
-            "text": "Lux Aeterna raises $10 million ahead of 2027 reusable satellite demo",
-            "source_link": "https://spacenews.com/lux-aeterna-raises-10-million-for-reusable-satellite-ahead-of-2027-demo/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-10T13:04:43.551898Z",
-            "shown_at": [
-                "2026-03-10T13:44:30.811413Z",
-                "2026-03-10T17:49:13.847725Z",
-                "2026-03-11T01:59:08.268588Z",
-                "2026-03-13T20:24:24.697099Z"
-            ]
-        },
-        {
-            "id": "9a9550ba8ebae15b279612a9584cfc5f",
-            "source": "spacenews",
-            "text": "Speed tops price in national security contracting decisions",
-            "source_link": "https://spacenews.com/speed-tops-price-in-national-security-contracting-decisions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-07T11:05:28.203683Z",
-            "shown_at": [
-                "2026-05-07T11:05:29.349534Z"
-            ]
-        },
-        {
-            "id": "e3538a9ba1737ec64082504286e2fb89",
-            "source": "spacenews",
-            "text": "As satellite imagery evolves, its role in operations comes into view",
-            "source_link": "https://spacenews.com/as-satellite-imagery-evolves-its-role-in-operations-comes-into-view/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-07T11:05:28.203769Z",
-            "shown_at": [
-                "2026-05-07T11:44:18.039853Z"
-            ]
-        },
-        {
-            "id": "702fe7fee20ef812805493de65d6c876",
-            "source": "spacenews",
-            "text": "Anthropic to consider using SpaceX orbital data center satellites",
-            "source_link": "https://spacenews.com/anthropic-to-consider-using-spacex-orbital-data-center-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-07T12:19:28.317427Z",
-            "shown_at": [
-                "2026-05-07T12:19:29.279375Z"
-            ]
-        },
-        {
-            "id": "571d69a632d422f4b08d276e7b4647b1",
-            "source": "spacenews",
-            "text": "Starfighters hires Blue Origin veterans to accelerate air-launch platform",
-            "source_link": "https://spacenews.com/starfighters-hires-blue-origin-veterans-to-accelerate-air-launch-platform/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-07T12:19:28.317482Z",
-            "shown_at": [
-                "2026-05-07T12:54:37.768866Z"
-            ]
-        },
-        {
-            "id": "fa93fb73f76d69d90f131384c4ccc862",
-            "source": "spacenews",
-            "text": "Skyroot raises $60 million ahead of first orbital launch attempt",
-            "source_link": "https://spacenews.com/skyroot-raises-60-million-ahead-of-first-orbital-launch-attempt/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-07T12:19:28.317518Z",
-            "shown_at": [
-                "2026-05-07T13:29:22.654755Z"
-            ]
-        },
-        {
-            "id": "8c0683b4e8395ce445cbea9aae2e9510",
-            "source": "spacenews",
-            "text": "Military space boom meets Beltway friction",
-            "source_link": "https://spacenews.com/military-space-boom-meets-beltway-friction/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-07T15:59:13.851207Z",
-            "shown_at": [
-                "2026-05-07T15:59:14.418689Z"
-            ]
-        },
-        {
-            "id": "761453232e398a39e273e1743ff44d1d",
-            "source": "spacenews",
-            "text": "Odin Space opens U.S. office in Los Angeles",
-            "source_link": "https://spacenews.com/odin-space-opens-u-s-office-in-los-angeles/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-07T15:59:13.851266Z",
-            "shown_at": [
-                "2026-05-07T16:34:38.753860Z"
-            ]
-        },
-        {
-            "id": "f282608aec7bb4a07eda9b60ef4b832f",
-            "source": "spacenews",
-            "text": "Roadmap for a space-to-space economy",
-            "source_link": "https://spacenews.com/roadmap-for-a-space-to-space-economy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-07T15:59:13.851302Z",
-            "shown_at": [
-                "2026-05-07T17:09:23.021546Z"
-            ]
-        },
-        {
-            "id": "f7b17505a4211866a1b3a0393da1eb13",
-            "source": "spacenews",
-            "text": "Redwire pursues opportunities in landers and power systems for NASA’s moon base plans",
-            "source_link": "https://spacenews.com/redwire-pursues-opportunities-in-landers-and-power-systems-for-nasas-moon-base-plans/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-07T18:54:28.981684Z",
-            "shown_at": [
-                "2026-05-07T18:54:29.961148Z"
-            ]
-        },
-        {
-            "id": "6542435a0ffa63c5426bcecfd9472987",
-            "source": "spacenews",
-            "text": "Rocket Lab joins Raytheon on space interceptor program for Golden Dome",
-            "source_link": "https://spacenews.com/rocket-lab-joins-raytheon-on-space-interceptor-program-for-golden-dome/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-07T22:24:15.752735Z",
-            "shown_at": [
-                "2026-05-07T22:24:16.947719Z"
             ]
         }
     ]
