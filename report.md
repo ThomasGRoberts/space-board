@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 19 | 25 | 49 |
-| nyt | 2 | 2 | 15 | 30 |
+| nyt | 2 | 2 | 16 | 31 |
 
 # Shown Order
 
@@ -2195,3 +2195,4 @@
 - **May 08, 01:39 PM** - Tech firms partner up to push intelligence processing closer to the battlefield (spacenews)
 - **May 08, 02:14 PM** - Between resource scarcity and orbital inflation: rethinking the space model (spacenews)
 - **May 08, 02:49 PM** - Pentagon Releases Files on U.F.O.s (nyt)
+- **May 08, 03:24 PM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
