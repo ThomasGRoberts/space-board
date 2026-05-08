@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 21 | 24 | 49 |
+| spacenews | 8 | 21 | 25 | 50 |
 | nyt | 0 | 0 | 15 | 30 |
 
 # Shown Order
@@ -2191,3 +2191,4 @@
 - **May 08, 11:19 AM** - Overview Energy wins Air Force contract to study space-based solar power for military bases (spacenews)
 - **May 08, 11:54 AM** - Rocket Lab announces large launch contract and plans to acquire space robotics company (spacenews)
 - **May 08, 12:29 PM** - Vantor wins $70 million award to enhance NGA data-delivery platform (spacenews)
+- **May 08, 01:04 PM** - China’s Nayuta Space raises fresh funding for aerodynamic-recovery rocket  (spacenews)
