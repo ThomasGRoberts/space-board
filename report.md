@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 22 | 24 | 49 |
-| nyt | 0 | 0 | 15 | 30 |
+| nyt | 0 | 0 | 16 | 31 |
 
 # Shown Order
 
@@ -2169,3 +2169,4 @@
 - **May 07, 10:24 PM** - Rocket Lab joins Raytheon on space interceptor program for Golden Dome (spacenews)
 - **May 07, 10:59 PM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 07, 11:34 PM** - Ukrainian forces test direct-to-device satellite imagery for frontline troops (spacenews)
+- **May 08, 12:09 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
