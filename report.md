@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 16 | 24 | 48 |
+| spacenews | 6 | 16 | 25 | 49 |
 | nyt | 3 | 3 | 17 | 32 |
 
 # Shown Order
@@ -2208,3 +2208,4 @@
 - **May 08, 09:14 PM** - U.F.O. Files Released by U.S. Shed Light on What the Government Knows (nyt)
 - **May 08, 09:49 PM** - Riding the orbital data center wave (spacenews)
 - **May 08, 10:24 PM** - Pentagon Releases Files on U.F.O.s (nyt)
+- **May 08, 10:59 PM** - Startup develops software to help military tap commercial imaging satellites (spacenews)
