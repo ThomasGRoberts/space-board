@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 17 | 25 | 48 |
+| spacenews | 7 | 19 | 25 | 49 |
 | nyt | 2 | 2 | 16 | 31 |
 
 # Shown Order
@@ -2196,3 +2196,4 @@
 - **May 08, 02:14 PM** - Between resource scarcity and orbital inflation: rethinking the space model (spacenews)
 - **May 08, 02:49 PM** - Pentagon Releases Files on U.F.O.s (nyt)
 - **May 08, 03:24 PM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
+- **May 08, 03:59 PM** - Paraguay signs the Artemis Accords (spacenews)

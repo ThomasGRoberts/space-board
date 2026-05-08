@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-08T00:04:41.447637+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9020baccaac675375f52486f5b653989",
+    "trigger_count": 0,
+    "current_item_id": "06eb42473c4aba481ad30bd7d9224037",
     "data": [
         {
             "id": "6542435a0ffa63c5426bcecfd9472987",
@@ -7747,6 +7747,27 @@
             "shown_at": [
                 "2026-05-08T15:24:07.940854Z"
             ]
+        },
+        {
+            "id": "06eb42473c4aba481ad30bd7d9224037",
+            "source": "spacenews",
+            "text": "Paraguay signs the Artemis Accords",
+            "source_link": "https://spacenews.com/paraguay-signs-the-artemis-accords/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-08T15:59:27.679718Z",
+            "shown_at": [
+                "2026-05-08T15:59:29.325646Z"
+            ]
+        },
+        {
+            "id": "66d3fd9c687179cd898d7e96dbfd3ca5",
+            "source": "spacenews",
+            "text": "SatVu zooms in on energy facilities in Cuba, India and Australia",
+            "source_link": "https://spacenews.com/satvu-zooms-in-energy-facilities-in-cuba-india-and-australia/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-05-08T15:59:27.679923Z"
         }
     ]
 }
