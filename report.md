@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 22 | 23 | 48 |
+| spacenews | 11 | 23 | 24 | 49 |
 | nyt | 0 | 0 | 16 | 31 |
 
 # Shown Order
@@ -2172,3 +2172,4 @@
 - **May 08, 12:09 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 08, 12:44 AM** - Eutelsat and Station Satcom sign agreement to scale LEO services for maritime fleet (spacenews)
 - **May 08, 01:19 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
+- **May 08, 01:54 AM** - Lunar Outpost raises $30 million (spacenews)
