@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 22 | 24 | 49 |
+| spacenews | 11 | 23 | 25 | 50 |
 | nyt | 0 | 0 | 15 | 30 |
 
 # Shown Order
@@ -2189,3 +2189,4 @@
 - **May 08, 10:09 AM** - Astranis secures $450 million in equity, debt to expand small GEO satellite production (spacenews)
 - **May 08, 10:44 AM** - Bringing imagery and communications under one roof (spacenews)
 - **May 08, 11:19 AM** - Overview Energy wins Air Force contract to study space-based solar power for military bases (spacenews)
+- **May 08, 11:54 AM** - Rocket Lab announces large launch contract and plans to acquire space robotics company (spacenews)
