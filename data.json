@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-08T00:04:41.447637+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5818779ecbb002650ee138a2406ac4e6",
+    "trigger_count": 0,
+    "current_item_id": "a4f68de55d1396fa51c22e22563c986e",
     "data": [
         {
             "id": "6542435a0ffa63c5426bcecfd9472987",
@@ -7776,6 +7776,18 @@
             "fetched_datetime": "2026-05-08T15:59:27.679923Z",
             "shown_at": [
                 "2026-05-08T16:34:43.141090Z"
+            ]
+        },
+        {
+            "id": "a4f68de55d1396fa51c22e22563c986e",
+            "source": "spacenews",
+            "text": "Swift reboost mission completes environmental tests",
+            "source_link": "https://spacenews.com/swift-reboost-mission-completes-environmental-tests/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-08T20:39:25.198664Z",
+            "shown_at": [
+                "2026-05-08T20:39:26.368205Z"
             ]
         }
     ]

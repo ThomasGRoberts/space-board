@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 16 | 24 | 48 |
-| nyt | 2 | 2 | 17 | 32 |
+| spacenews | 7 | 17 | 25 | 49 |
+| nyt | 2 | 2 | 16 | 32 |
 
 # Shown Order
 
@@ -2204,3 +2204,4 @@
 - **May 08, 06:54 PM** - NGA pushes AI adoption as demand grows for ‘always-on’ intelligence  (spacenews)
 - **May 08, 07:29 PM** - Pentagon Releases Files on U.F.O.s (nyt)
 - **May 08, 08:04 PM** - OroraTech deploys wildfire constellation for Greece (spacenews)
+- **May 08, 08:39 PM** - Swift reboost mission completes environmental tests (spacenews)
