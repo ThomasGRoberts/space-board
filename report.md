@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 19 | 25 | 49 |
-| nyt | 2 | 2 | 16 | 31 |
+| spacenews | 7 | 19 | 24 | 49 |
+| nyt | 2 | 2 | 17 | 32 |
 
 # Shown Order
 
@@ -2198,3 +2198,4 @@
 - **May 08, 03:24 PM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
 - **May 08, 03:59 PM** - Paraguay signs the Artemis Accords (spacenews)
 - **May 08, 04:34 PM** - SatVu zooms in on energy facilities in Cuba, India and Australia (spacenews)
+- **May 08, 05:09 PM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
