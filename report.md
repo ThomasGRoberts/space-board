@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 24 | 23 | 48 |
+| spacenews | 12 | 24 | 24 | 49 |
 | nyt | 0 | 0 | 16 | 31 |
 
 # Shown Order
@@ -2186,3 +2186,4 @@
 - **May 08, 08:24 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
 - **May 08, 08:59 AM** - SatVu zooms in energy facilities in Cuba, India and Australia (spacenews)
 - **May 08, 09:34 AM** - Why So Many People Already Own Shares of Elon Musk’s SpaceX (nyt)
+- **May 08, 10:09 AM** - Astranis secures $450 million in equity, debt to expand small GEO satellite production (spacenews)
