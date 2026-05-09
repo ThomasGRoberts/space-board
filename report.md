@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 3 | 20 | 36 |
-| spacenews | 1 | 8 | 20 | 45 |
+| spacenews | 2 | 9 | 21 | 46 |
 
 # Shown Order
 
@@ -2204,3 +2204,4 @@
 - **May 09, 02:59 PM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
 - **May 09, 03:34 PM** - Exiting NRO director Chris Scolese’s legacy: commercial partnerships; public engagement (spacenews)
 - **May 09, 04:09 PM** - U.F.O. Files Released by U.S. Shed Light on What the Government Knows (nyt)
+- **May 09, 04:44 PM** - Viasat wins $307 million Marine Corps satellite communications contract (spacenews)

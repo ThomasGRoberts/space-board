@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-09T00:04:27.841530+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d9e70dec311ad7c9182024dd540f657a",
+    "trigger_count": 0,
+    "current_item_id": "200a04a30a07a2435803882e8a7faad3",
     "data": [
         {
             "id": "d9e70dec311ad7c9182024dd540f657a",
@@ -7699,6 +7699,18 @@
                 "2026-03-17T02:24:22.655617Z",
                 "2026-03-17T14:44:24.423070Z",
                 "2026-03-19T00:59:14.897401Z"
+            ]
+        },
+        {
+            "id": "200a04a30a07a2435803882e8a7faad3",
+            "source": "spacenews",
+            "text": "Viasat wins $307 million Marine Corps satellite communications contract",
+            "source_link": "https://spacenews.com/viasat-wins-307-million-marine-corps-satellite-communications-contract/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-09T16:44:16.167554Z",
+            "shown_at": [
+                "2026-05-09T16:44:17.426525Z"
             ]
         }
     ]
