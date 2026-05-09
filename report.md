@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 17 | 32 |
-| spacenews | 5 | 16 | 24 | 48 |
+| spacenews | 5 | 16 | 25 | 49 |
 
 # Shown Order
 
@@ -2180,3 +2180,4 @@
 - **May 09, 12:44 AM** - U.F.O. Files Released by U.S. Shed Light on What the Government Knows (nyt)
 - **May 09, 01:19 AM** - National Geospatial-Intelligence Agency to open programs to more vendors (spacenews)
 - **May 09, 01:54 AM** - Pentagon Releases Files on U.F.O.s (nyt)
+- **May 09, 02:29 AM** - SatVu zooms in on energy facilities in Cuba, India and Australia (spacenews)
