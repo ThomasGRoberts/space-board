@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 3 | 19 | 34 |
+| nyt | 1 | 3 | 20 | 35 |
 | spacenews | 3 | 11 | 21 | 47 |
 
 # Shown Order
@@ -2201,3 +2201,4 @@
 - **May 09, 01:14 PM** - Firefly plans late summer launch of first Alpha Block 2 rocket (spacenews)
 - **May 09, 01:49 PM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
 - **May 09, 02:24 PM** - Quantum Space hires Bridenstine as CEO (spacenews)
+- **May 09, 02:59 PM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
