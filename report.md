@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 3 | 16 | 32 |
+| nyt | 3 | 3 | 17 | 33 |
 | spacenews | 4 | 16 | 24 | 48 |
 
 # Shown Order
@@ -2189,3 +2189,4 @@
 - **May 09, 05:59 AM** - Military space boom meets Beltway friction (spacenews)
 - **May 09, 06:39 AM** - Pentagon Releases Files on U.F.O.s (nyt)
 - **May 09, 07:24 AM** - Ignition relaunches Artemis plans (spacenews)
+- **May 09, 07:59 AM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
