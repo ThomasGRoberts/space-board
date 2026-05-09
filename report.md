@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 17 | 32 |
-| spacenews | 4 | 16 | 24 | 48 |
+| spacenews | 4 | 16 | 25 | 49 |
 
 # Shown Order
 
@@ -2184,3 +2184,4 @@
 - **May 09, 03:04 AM** - Pentagon Releases Files on U.F.O.s (nyt)
 - **May 09, 03:39 AM** - Powering Unified Space Systems Operations (spacenews)
 - **May 09, 04:14 AM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
+- **May 09, 04:49 AM** - Rocket Lab joins Raytheon on space interceptor program for Golden Dome (spacenews)
