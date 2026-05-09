@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 3 | 18 | 33 |
+| nyt | 3 | 3 | 19 | 34 |
 | spacenews | 3 | 11 | 22 | 47 |
 
 # Shown Order
@@ -2197,3 +2197,4 @@
 - **May 09, 10:54 AM** - Redwire pursues opportunities in landers and power systems for NASA’s moon base plans (spacenews)
 - **May 09, 11:29 AM** - U.F.O. Files Released by U.S. Shed Light on What the Government Knows (nyt)
 - **May 09, 12:04 PM** - Redwire pursues opportunities in landers and power systems for NASA’s moon base plans (spacenews)
+- **May 09, 12:39 PM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
