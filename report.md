@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 3 | 16 | 32 |
+| nyt | 3 | 3 | 17 | 33 |
 | spacenews | 4 | 16 | 24 | 48 |
 
 # Shown Order
@@ -2193,3 +2193,4 @@
 - **May 09, 08:34 AM** - Paraguay signs the Artemis Accords (spacenews)
 - **May 09, 09:09 AM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
 - **May 09, 09:44 AM** - Extending space-enabled intelligence below the ocean surface (spacenews)
+- **May 09, 10:19 AM** - U.F.O. Files Released by U.S. Shed Light on What the Government Knows (nyt)
