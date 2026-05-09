@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 3 | 19 | 36 |
+| nyt | 1 | 3 | 20 | 37 |
 | spacenews | 2 | 9 | 21 | 45 |
 
 # Shown Order
@@ -2207,3 +2207,4 @@
 - **May 09, 04:44 PM** - Viasat wins $307 million Marine Corps satellite communications contract (spacenews)
 - **May 09, 05:19 PM** - Pentagon Releases Files on U.F.O.s (nyt)
 - **May 09, 05:54 PM** - Quantum Space hires Bridenstine as CEO (spacenews)
+- **May 09, 06:29 PM** - Pentagon Releases Files on U.F.O.s (nyt)
