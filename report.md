@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 3 | 20 | 36 |
-| spacenews | 2 | 9 | 20 | 45 |
+| spacenews | 2 | 9 | 21 | 46 |
 
 # Shown Order
 
@@ -2206,3 +2206,4 @@
 - **May 09, 04:09 PM** - U.F.O. Files Released by U.S. Shed Light on What the Government Knows (nyt)
 - **May 09, 04:44 PM** - Viasat wins $307 million Marine Corps satellite communications contract (spacenews)
 - **May 09, 05:19 PM** - Pentagon Releases Files on U.F.O.s (nyt)
+- **May 09, 05:54 PM** - Quantum Space hires Bridenstine as CEO (spacenews)
