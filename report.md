@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 3 | 20 | 36 |
+| nyt | 0 | 3 | 21 | 37 |
 | spacenews | 1 | 7 | 20 | 45 |
 
 # Shown Order
@@ -2215,3 +2215,4 @@
 - **May 09, 09:24 PM** - New NGA head makes industry debut at GEOINT Symposium 2026 (spacenews)
 - **May 09, 09:59 PM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
 - **May 09, 10:34 PM** - China’s Nayuta Space raises fresh funding for aerodynamic-recovery rocket  (spacenews)
+- **May 09, 11:09 PM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
