@@ -1,9 +1,124 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-05-08T00:04:41.447637+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2026-05-09T00:04:27.841530+00:00",
+    "trigger_count": 6,
     "current_item_id": "9020baccaac675375f52486f5b653989",
     "data": [
+        {
+            "id": "d9e70dec311ad7c9182024dd540f657a",
+            "source": "nyt",
+            "text": "U.F.O. Files Released by U.S. Shed Light on What the Government Knows",
+            "source_link": "https://www.nytimes.com/2026/05/08/us/politics/ufo-sightings-us-government.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-08T21:14:09.977310Z",
+            "shown_at": [
+                "2026-05-08T21:14:10.968193Z"
+            ]
+        },
+        {
+            "id": "a4f68de55d1396fa51c22e22563c986e",
+            "source": "spacenews",
+            "text": "Swift reboost mission completes environmental tests",
+            "source_link": "https://spacenews.com/swift-reboost-mission-completes-environmental-tests/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-08T20:39:25.198664Z",
+            "shown_at": [
+                "2026-05-08T20:39:26.368205Z"
+            ]
+        },
+        {
+            "id": "66d3fd9c687179cd898d7e96dbfd3ca5",
+            "source": "spacenews",
+            "text": "SatVu zooms in on energy facilities in Cuba, India and Australia",
+            "source_link": "https://spacenews.com/satvu-zooms-in-energy-facilities-in-cuba-india-and-australia/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-08T15:59:27.679923Z",
+            "shown_at": [
+                "2026-05-08T16:34:43.141090Z"
+            ]
+        },
+        {
+            "id": "06eb42473c4aba481ad30bd7d9224037",
+            "source": "spacenews",
+            "text": "Paraguay signs the Artemis Accords",
+            "source_link": "https://spacenews.com/paraguay-signs-the-artemis-accords/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-08T15:59:27.679718Z",
+            "shown_at": [
+                "2026-05-08T15:59:29.325646Z"
+            ]
+        },
+        {
+            "id": "9020baccaac675375f52486f5b653989",
+            "source": "nyt",
+            "text": "Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away",
+            "source_link": "https://www.nytimes.com/2026/05/07/science/plutino-atmosphere-astronomy-pluto.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-08T14:49:11.901360Z",
+            "shown_at": [
+                "2026-05-08T15:24:07.940854Z",
+                "2026-05-08T17:09:23.171071Z",
+                "2026-05-08T18:19:13.847639Z",
+                "2026-05-08T23:34:24.415076Z"
+            ]
+        },
+        {
+            "id": "12e46efef0e0291c2f8a421c839204af",
+            "source": "nyt",
+            "text": "Pentagon Releases Files on U.F.O.s",
+            "source_link": "https://www.nytimes.com/2026/05/08/us/politics/pentagon-ufo-files.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-08T14:49:11.901309Z",
+            "shown_at": [
+                "2026-05-08T14:49:12.855895Z",
+                "2026-05-08T19:29:11.273799Z",
+                "2026-05-08T22:24:15.039487Z"
+            ]
+        },
+        {
+            "id": "a7238091833ae10fb51983742158fbec",
+            "source": "spacenews",
+            "text": "Rocket Lab announces large launch contract and plans to acquire space robotics company",
+            "source_link": "https://spacenews.com/rocket-lab-announces-large-launch-contract-and-plans-to-acquire-space-robotics-company/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-08T11:54:12.138116Z",
+            "shown_at": [
+                "2026-05-08T11:54:13.130165Z"
+            ]
+        },
+        {
+            "id": "18036bd2e8cd48eefa7bf27185eb7c73",
+            "source": "spacenews",
+            "text": "SatVu zooms in energy facilities in Cuba, India and Australia",
+            "source_link": "https://spacenews.com/satvu-zooms-in-energy-facilities-in-cuba-india-and-australia/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-08T03:04:46.544542Z",
+            "shown_at": [
+                "2026-05-08T03:04:47.341678Z",
+                "2026-05-08T08:59:19.249383Z"
+            ]
+        },
+        {
+            "id": "5ef0d1a0035d28376143757a976eaf77",
+            "source": "spacenews",
+            "text": "Lunar Outpost raises $30 million",
+            "source_link": "https://spacenews.com/lunar-outpost-raises-30-million/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-08T01:54:02.347898Z",
+            "shown_at": [
+                "2026-05-08T01:54:03.203453Z",
+                "2026-05-08T05:23:42.565250Z"
+            ]
+        },
         {
             "id": "6542435a0ffa63c5426bcecfd9472987",
             "source": "spacenews",
@@ -7556,254 +7671,6 @@
                 "2026-03-17T02:24:22.655617Z",
                 "2026-03-17T14:44:24.423070Z",
                 "2026-03-19T00:59:14.897401Z"
-            ]
-        },
-        {
-            "id": "bb63385f0189478b1e145e6404823c8c",
-            "source": "spacenews",
-            "text": "Mantis Space emerges from stealth with $10 million for solar-power constellation",
-            "source_link": "https://spacenews.com/mantis-space-emerges-from-stealth-with-10-million-for-solar-power-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-12T12:04:39.428690Z",
-            "shown_at": [
-                "2026-03-12T12:04:40.725470Z",
-                "2026-03-12T21:29:07.888871Z",
-                "2026-03-16T02:14:29.978797Z",
-                "2026-03-18T03:44:11.827366Z",
-                "2026-03-18T09:34:22.895455Z"
-            ]
-        },
-        {
-            "id": "abea74eb3837c8c3fbdf2bc453188ea0",
-            "source": "spacenews",
-            "text": "Firefly Alpha returns to flight",
-            "source_link": "https://spacenews.com/firefly-alpha-returns-to-flight/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-12T04:49:20.917053Z",
-            "shown_at": [
-                "2026-03-12T04:49:21.824190Z",
-                "2026-03-12T10:54:18.501795Z",
-                "2026-03-14T15:04:53.733720Z",
-                "2026-03-18T02:34:20.747142Z"
-            ]
-        },
-        {
-            "id": "972d44a42b6df143bc23beae9c57b580",
-            "source": "spacenews",
-            "text": "The Post-Capacity Era of Satellite Connectivity",
-            "source_link": "https://spacenews.com/the-post-capacity-era-of-satellite-connectivity/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-12T01:39:13.688412Z",
-            "shown_at": [
-                "2026-03-12T01:39:14.527269Z",
-                "2026-03-12T08:29:15.002761Z",
-                "2026-03-13T03:54:24.340980Z",
-                "2026-03-18T07:14:08.874495Z"
-            ]
-        },
-        {
-            "id": "bef4d5955b534d065b50566c68b6b0ab",
-            "source": "spacenews",
-            "text": "Enpulsion raises $26 million",
-            "source_link": "https://spacenews.com/enpulsion-raises-26-million/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-12T00:29:11.475762Z",
-            "shown_at": [
-                "2026-03-12T00:29:12.363013Z",
-                "2026-03-15T17:59:19.295636Z",
-                "2026-03-16T08:09:04.050507Z",
-                "2026-03-17T03:34:35.653404Z"
-            ]
-        },
-        {
-            "id": "7347c2714e0a7bbfeeef06c487fccfe6",
-            "source": "spacenews",
-            "text": "Report criticizes delays in Artemis lunar lander development",
-            "source_link": "https://spacenews.com/report-criticizes-delays-in-artemis-lunar-lander-development/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-11T23:19:55.744388Z",
-            "shown_at": [
-                "2026-03-11T23:19:56.595012Z"
-            ]
-        },
-        {
-            "id": "1bfe6ffa9659f20093494eae443c7743",
-            "source": "spacenews",
-            "text": "Missile strike hits SES teleport in Israel",
-            "source_link": "https://spacenews.com/missile-strike-hits-ses-teleport-in-israel/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-11T19:14:15.019458Z",
-            "shown_at": [
-                "2026-03-11T19:14:16.174854Z",
-                "2026-03-12T07:19:28.632000Z",
-                "2026-03-14T03:24:43.224009Z",
-                "2026-03-17T00:04:39.487026Z",
-                "2026-03-17T18:24:13.349452Z",
-                "2026-03-18T11:54:06.058235Z"
-            ]
-        },
-        {
-            "id": "c1f40baf633b1a7fc0d1ee907760571a",
-            "source": "spacenews",
-            "text": "The perils of political impatience in the Artemis program",
-            "source_link": "https://spacenews.com/the-perils-of-political-impatience-in-the-artemis-program/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-11T13:54:12.747700Z",
-            "shown_at": [
-                "2026-03-11T13:54:13.870248Z",
-                "2026-03-13T07:24:23.774097Z",
-                "2026-03-14T16:14:24.340051Z",
-                "2026-03-18T08:24:02.531790Z"
-            ]
-        },
-        {
-            "id": "8439af3566caf9005c6e49e4cbaf31eb",
-            "source": "spacenews",
-            "text": "NASA disqualifies X-ray telescope from Probe mission competition",
-            "source_link": "https://spacenews.com/nasa-disqualifies-x-ray-telescope-from-probe-mission-competition/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-11T12:39:03.075988Z",
-            "shown_at": [
-                "2026-03-11T13:19:22.363818Z",
-                "2026-03-12T02:54:13.236320Z",
-                "2026-03-15T07:29:17.340478Z",
-                "2026-03-16T13:29:33.906071Z"
-            ]
-        },
-        {
-            "id": "2db8e2b2671312e5929920faf22fcb6d",
-            "source": "spacenews",
-            "text": "Space Force officially terminates AeroVironment contract for satellite control antennas",
-            "source_link": "https://spacenews.com/space-force-officially-terminates-aerovironment-contract-for-satellite-control-antennas/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-11T12:39:03.075932Z",
-            "shown_at": [
-                "2026-03-11T12:39:04.038365Z",
-                "2026-03-16T21:09:26.579030Z"
-            ]
-        },
-        {
-            "id": "5ef0d1a0035d28376143757a976eaf77",
-            "source": "spacenews",
-            "text": "Lunar Outpost raises $30 million",
-            "source_link": "https://spacenews.com/lunar-outpost-raises-30-million/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-08T01:54:02.347898Z",
-            "shown_at": [
-                "2026-05-08T01:54:03.203453Z",
-                "2026-05-08T05:23:42.565250Z"
-            ]
-        },
-        {
-            "id": "18036bd2e8cd48eefa7bf27185eb7c73",
-            "source": "spacenews",
-            "text": "SatVu zooms in energy facilities in Cuba, India and Australia",
-            "source_link": "https://spacenews.com/satvu-zooms-in-energy-facilities-in-cuba-india-and-australia/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-08T03:04:46.544542Z",
-            "shown_at": [
-                "2026-05-08T03:04:47.341678Z",
-                "2026-05-08T08:59:19.249383Z"
-            ]
-        },
-        {
-            "id": "a7238091833ae10fb51983742158fbec",
-            "source": "spacenews",
-            "text": "Rocket Lab announces large launch contract and plans to acquire space robotics company",
-            "source_link": "https://spacenews.com/rocket-lab-announces-large-launch-contract-and-plans-to-acquire-space-robotics-company/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-08T11:54:12.138116Z",
-            "shown_at": [
-                "2026-05-08T11:54:13.130165Z"
-            ]
-        },
-        {
-            "id": "12e46efef0e0291c2f8a421c839204af",
-            "source": "nyt",
-            "text": "Pentagon Releases Files on U.F.O.s",
-            "source_link": "https://www.nytimes.com/2026/05/08/us/politics/pentagon-ufo-files.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-08T14:49:11.901309Z",
-            "shown_at": [
-                "2026-05-08T14:49:12.855895Z",
-                "2026-05-08T19:29:11.273799Z",
-                "2026-05-08T22:24:15.039487Z"
-            ]
-        },
-        {
-            "id": "9020baccaac675375f52486f5b653989",
-            "source": "nyt",
-            "text": "Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away",
-            "source_link": "https://www.nytimes.com/2026/05/07/science/plutino-atmosphere-astronomy-pluto.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-08T14:49:11.901360Z",
-            "shown_at": [
-                "2026-05-08T15:24:07.940854Z",
-                "2026-05-08T17:09:23.171071Z",
-                "2026-05-08T18:19:13.847639Z",
-                "2026-05-08T23:34:24.415076Z"
-            ]
-        },
-        {
-            "id": "06eb42473c4aba481ad30bd7d9224037",
-            "source": "spacenews",
-            "text": "Paraguay signs the Artemis Accords",
-            "source_link": "https://spacenews.com/paraguay-signs-the-artemis-accords/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-08T15:59:27.679718Z",
-            "shown_at": [
-                "2026-05-08T15:59:29.325646Z"
-            ]
-        },
-        {
-            "id": "66d3fd9c687179cd898d7e96dbfd3ca5",
-            "source": "spacenews",
-            "text": "SatVu zooms in on energy facilities in Cuba, India and Australia",
-            "source_link": "https://spacenews.com/satvu-zooms-in-energy-facilities-in-cuba-india-and-australia/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-08T15:59:27.679923Z",
-            "shown_at": [
-                "2026-05-08T16:34:43.141090Z"
-            ]
-        },
-        {
-            "id": "a4f68de55d1396fa51c22e22563c986e",
-            "source": "spacenews",
-            "text": "Swift reboost mission completes environmental tests",
-            "source_link": "https://spacenews.com/swift-reboost-mission-completes-environmental-tests/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-08T20:39:25.198664Z",
-            "shown_at": [
-                "2026-05-08T20:39:26.368205Z"
-            ]
-        },
-        {
-            "id": "d9e70dec311ad7c9182024dd540f657a",
-            "source": "nyt",
-            "text": "U.F.O. Files Released by U.S. Shed Light on What the Government Knows",
-            "source_link": "https://www.nytimes.com/2026/05/08/us/politics/ufo-sightings-us-government.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-08T21:14:09.977310Z",
-            "shown_at": [
-                "2026-05-08T21:14:10.968193Z"
             ]
         }
     ]
