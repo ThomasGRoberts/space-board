@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 17 | 32 |
-| spacenews | 4 | 16 | 23 | 48 |
+| spacenews | 4 | 16 | 24 | 49 |
 
 # Shown Order
 
@@ -2194,3 +2194,4 @@
 - **May 09, 09:09 AM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
 - **May 09, 09:44 AM** - Extending space-enabled intelligence below the ocean surface (spacenews)
 - **May 09, 10:19 AM** - U.F.O. Files Released by U.S. Shed Light on What the Government Knows (nyt)
+- **May 09, 10:54 AM** - Redwire pursues opportunities in landers and power systems for NASA’s moon base plans (spacenews)
