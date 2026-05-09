@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 3 | 17 | 32 |
-| spacenews | 6 | 16 | 24 | 48 |
+| nyt | 3 | 3 | 16 | 32 |
+| spacenews | 6 | 16 | 25 | 49 |
 
 # Shown Order
 
@@ -2178,3 +2178,4 @@
 - **May 08, 11:34 PM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
 - **May 09, 12:09 AM** - National Geospatial-Intelligence Agency to open programs to more vendors (spacenews)
 - **May 09, 12:44 AM** - U.F.O. Files Released by U.S. Shed Light on What the Government Knows (nyt)
+- **May 09, 01:19 AM** - National Geospatial-Intelligence Agency to open programs to more vendors (spacenews)
