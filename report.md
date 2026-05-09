@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 3 | 19 | 35 |
-| spacenews | 3 | 11 | 21 | 46 |
+| spacenews | 3 | 11 | 22 | 47 |
 
 # Shown Order
 
@@ -2202,3 +2202,4 @@
 - **May 09, 01:49 PM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
 - **May 09, 02:24 PM** - Quantum Space hires Bridenstine as CEO (spacenews)
 - **May 09, 02:59 PM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
+- **May 09, 03:34 PM** - Exiting NRO director Chris Scolese’s legacy: commercial partnerships; public engagement (spacenews)
