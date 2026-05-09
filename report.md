@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 3 | 16 | 32 |
+| nyt | 3 | 3 | 17 | 33 |
 | spacenews | 4 | 16 | 25 | 48 |
 
 # Shown Order
@@ -2183,3 +2183,4 @@
 - **May 09, 02:29 AM** - SatVu zooms in on energy facilities in Cuba, India and Australia (spacenews)
 - **May 09, 03:04 AM** - Pentagon Releases Files on U.F.O.s (nyt)
 - **May 09, 03:39 AM** - Powering Unified Space Systems Operations (spacenews)
+- **May 09, 04:14 AM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
