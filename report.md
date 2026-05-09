@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 3 | 20 | 37 |
-| spacenews | 2 | 8 | 20 | 44 |
+| spacenews | 2 | 8 | 21 | 45 |
 
 # Shown Order
 
@@ -2208,3 +2208,4 @@
 - **May 09, 05:19 PM** - Pentagon Releases Files on U.F.O.s (nyt)
 - **May 09, 05:54 PM** - Quantum Space hires Bridenstine as CEO (spacenews)
 - **May 09, 06:29 PM** - Pentagon Releases Files on U.F.O.s (nyt)
+- **May 09, 07:04 PM** - Rocket Lab joins Raytheon on space interceptor program for Golden Dome (spacenews)
