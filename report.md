@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 6 | 20 | 45 |
-| nyt | 0 | 3 | 20 | 36 |
+| nyt | 0 | 3 | 21 | 37 |
 
 # Shown Order
 
@@ -2213,3 +2213,4 @@
 - **May 10, 03:19 AM** - MDA Space continues work on Gateway robotic arm (spacenews)
 - **May 10, 03:54 AM** - U.F.O. Files Released by U.S. Shed Light on What the Government Knows (nyt)
 - **May 10, 04:29 AM** - Swift reboost mission completes environmental tests (spacenews)
+- **May 10, 05:04 AM** - U.F.O. Files Released by U.S. Shed Light on What the Government Knows (nyt)
