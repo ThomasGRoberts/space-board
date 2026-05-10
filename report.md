@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 6 | 20 | 43 |
-| nyt | 0 | 3 | 21 | 38 |
+| spacenews | 2 | 6 | 21 | 44 |
+| nyt | 0 | 3 | 20 | 38 |
 
 # Shown Order
 
@@ -2224,3 +2224,4 @@
 - **May 10, 09:44 AM** - Pentagon Releases Files on U.F.O.s (nyt)
 - **May 10, 10:19 AM** - NRO taps EarthDaily, Iceye, Pixxel to expand commercial data pipeline (spacenews)
 - **May 10, 10:54 AM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
+- **May 10, 11:29 AM** - Taylor Geospatial unveils global field dataset (spacenews)
