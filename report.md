@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 21 | 42 |
-| nyt | 0 | 3 | 20 | 39 |
+| nyt | 0 | 3 | 21 | 40 |
 
 # Shown Order
 
@@ -2227,3 +2227,4 @@
 - **May 10, 11:29 AM** - Taylor Geospatial unveils global field dataset (spacenews)
 - **May 10, 12:04 PM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
 - **May 10, 12:39 PM** - Voyager ‘very optimistic’ about Starlab amid potential NASA changes (spacenews)
+- **May 10, 01:14 PM** - U.F.O. Files Released by U.S. Shed Light on What the Government Knows (nyt)
