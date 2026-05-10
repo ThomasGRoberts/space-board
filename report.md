@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 7 | 20 | 45 |
-| nyt | 0 | 3 | 20 | 36 |
+| nyt | 0 | 3 | 21 | 37 |
 
 # Shown Order
 
@@ -2209,3 +2209,4 @@
 - **May 10, 12:54 AM** - Starfighters hires Blue Origin veterans to accelerate air-launch platform (spacenews)
 - **May 10, 01:29 AM** - Pentagon Releases Files on U.F.O.s (nyt)
 - **May 10, 02:09 AM** - Powering Unified Space Systems Operations (spacenews)
+- **May 10, 02:44 AM** - U.F.O. Files Released by U.S. Shed Light on What the Government Knows (nyt)
