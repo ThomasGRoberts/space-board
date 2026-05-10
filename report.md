@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 6 | 20 | 44 |
+| spacenews | 2 | 6 | 21 | 45 |
 | nyt | 0 | 3 | 21 | 37 |
 
 # Shown Order
@@ -2220,3 +2220,4 @@
 - **May 10, 07:24 AM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
 - **May 10, 07:59 AM** - Viasat wins $307 million Marine Corps satellite communications contract (spacenews)
 - **May 10, 08:34 AM** - Pentagon Releases Files on U.F.O.s (nyt)
+- **May 10, 09:09 AM** - Lawsuit claims Starship launches damage homes (spacenews)
