@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-10T00:04:23.583957+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9020baccaac675375f52486f5b653989",
+    "trigger_count": 0,
+    "current_item_id": "825b4a98b85014481bed56a9f7aee50a",
     "data": [
         {
             "id": "e5ae3e5ce3eb5a8f4e581c66f34698e5",
@@ -7727,6 +7727,18 @@
                 "2026-03-18T19:44:26.936003Z",
                 "2026-03-19T01:34:30.007770Z",
                 "2026-03-19T10:24:27.348669Z"
+            ]
+        },
+        {
+            "id": "825b4a98b85014481bed56a9f7aee50a",
+            "source": "spacenews",
+            "text": "ESA and JAXA finalize agreement on Apophis asteroid mission",
+            "source_link": "https://spacenews.com/esa-and-jaxa-finalize-agreement-on-apophis-asteroid-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-10T16:09:04.476844Z",
+            "shown_at": [
+                "2026-05-10T16:09:05.451828Z"
             ]
         }
     ]
