@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 5 | 20 | 41 |
+| spacenews | 2 | 5 | 21 | 42 |
 | nyt | 0 | 1 | 21 | 40 |
 
 # Shown Order
@@ -2230,3 +2230,4 @@
 - **May 10, 01:14 PM** - U.F.O. Files Released by U.S. Shed Light on What the Government Knows (nyt)
 - **May 10, 01:49 PM** - Starfighters hires Blue Origin veterans to accelerate air-launch platform (spacenews)
 - **May 10, 02:23 PM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
+- **May 10, 02:59 PM** - IonQ to offer ground-movement monitoring via Capella radar satellites (spacenews)
