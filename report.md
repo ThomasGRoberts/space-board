@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 20 | 41 |
-| nyt | 0 | 1 | 20 | 40 |
+| nyt | 0 | 1 | 21 | 41 |
 
 # Shown Order
 
@@ -2239,3 +2239,4 @@
 - **May 10, 06:29 PM** - Lawsuit claims Starship launches damage homes (spacenews)
 - **May 10, 07:09 PM** - Pentagon Releases Files on U.F.O.s (nyt)
 - **May 10, 07:44 PM** - Tech firms partner up to push intelligence processing closer to the battlefield (spacenews)
+- **May 10, 08:19 PM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
