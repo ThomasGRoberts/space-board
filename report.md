@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 4 | 21 | 41 |
-| nyt | 0 | 1 | 20 | 40 |
+| spacenews | 2 | 4 | 20 | 41 |
+| nyt | 0 | 1 | 21 | 41 |
 
 # Shown Order
 
@@ -2233,3 +2233,4 @@
 - **May 10, 02:59 PM** - IonQ to offer ground-movement monitoring via Capella radar satellites (spacenews)
 - **May 10, 03:34 PM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
 - **May 10, 04:09 PM** - ESA and JAXA finalize agreement on Apophis asteroid mission (spacenews)
+- **May 10, 04:44 PM** - Pentagon Releases Files on U.F.O.s (nyt)
