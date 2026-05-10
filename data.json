@@ -1,9 +1,33 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-05-09T00:04:27.841530+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2026-05-10T00:04:23.583957+00:00",
+    "trigger_count": 4,
     "current_item_id": "e5ae3e5ce3eb5a8f4e581c66f34698e5",
     "data": [
+        {
+            "id": "e5ae3e5ce3eb5a8f4e581c66f34698e5",
+            "source": "spacenews",
+            "text": "MDA Space continues work on Gateway robotic arm",
+            "source_link": "https://spacenews.com/mda-space-continues-work-on-gateway-robotic-arm/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-09T23:44:12.214748Z",
+            "shown_at": [
+                "2026-05-09T23:44:13.284456Z"
+            ]
+        },
+        {
+            "id": "200a04a30a07a2435803882e8a7faad3",
+            "source": "spacenews",
+            "text": "Viasat wins $307 million Marine Corps satellite communications contract",
+            "source_link": "https://spacenews.com/viasat-wins-307-million-marine-corps-satellite-communications-contract/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-09T16:44:16.167554Z",
+            "shown_at": [
+                "2026-05-09T16:44:17.426525Z"
+            ]
+        },
         {
             "id": "d9e70dec311ad7c9182024dd540f657a",
             "source": "nyt",
@@ -7676,64 +7700,6 @@
                 "2026-03-18T19:44:26.936003Z",
                 "2026-03-19T01:34:30.007770Z",
                 "2026-03-19T10:24:27.348669Z"
-            ]
-        },
-        {
-            "id": "fd1e4041dcfdcc9dfb73cdc00f4a964f",
-            "source": "spacenews",
-            "text": "York Space acquires satellite propulsion manufacturer Orbion Space",
-            "source_link": "https://spacenews.com/york-space-acquires-satellite-propulsion-manufacturer-orbion-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-12T13:14:20.347515Z",
-            "shown_at": [
-                "2026-03-12T13:49:24.188106Z",
-                "2026-03-13T09:44:16.701819Z",
-                "2026-03-14T22:09:04.099933Z",
-                "2026-03-15T02:49:05.060035Z",
-                "2026-03-15T20:19:20.558890Z"
-            ]
-        },
-        {
-            "id": "d375ed469d5aeaaad58d9c76bef77103",
-            "source": "spacenews",
-            "text": "Astranis taps retired Gen. John Hyten to lead advisory board ",
-            "source_link": "https://spacenews.com/astranis-taps-retired-gen-john-hyten-to-lead-advisory-board/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-12T13:14:20.347442Z",
-            "shown_at": [
-                "2026-03-12T13:14:21.461972Z",
-                "2026-03-13T18:04:48.069863Z",
-                "2026-03-15T05:09:18.418830Z",
-                "2026-03-15T06:19:16.578429Z",
-                "2026-03-17T02:24:22.655617Z",
-                "2026-03-17T14:44:24.423070Z",
-                "2026-03-19T00:59:14.897401Z"
-            ]
-        },
-        {
-            "id": "200a04a30a07a2435803882e8a7faad3",
-            "source": "spacenews",
-            "text": "Viasat wins $307 million Marine Corps satellite communications contract",
-            "source_link": "https://spacenews.com/viasat-wins-307-million-marine-corps-satellite-communications-contract/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-09T16:44:16.167554Z",
-            "shown_at": [
-                "2026-05-09T16:44:17.426525Z"
-            ]
-        },
-        {
-            "id": "e5ae3e5ce3eb5a8f4e581c66f34698e5",
-            "source": "spacenews",
-            "text": "MDA Space continues work on Gateway robotic arm",
-            "source_link": "https://spacenews.com/mda-space-continues-work-on-gateway-robotic-arm/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-09T23:44:12.214748Z",
-            "shown_at": [
-                "2026-05-09T23:44:13.284456Z"
             ]
         }
     ]

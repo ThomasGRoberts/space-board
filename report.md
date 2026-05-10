@@ -2,13 +2,11 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 0 | 3 | 20 | 37 |
 | spacenews | 2 | 8 | 21 | 45 |
+| nyt | 0 | 3 | 20 | 37 |
 
 # Shown Order
 
-- **Mar 12, 01:14 PM** - Astranis taps retired Gen. John Hyten to lead advisory board  (spacenews)
-- **Mar 12, 01:49 PM** - York Space acquires satellite propulsion manufacturer Orbion Space (spacenews)
 - **Mar 12, 02:59 PM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
 - **Mar 12, 05:19 PM** - Space Jam: NASA’s MADCAP Team Directs Traffic at the Moon (nyt)
 - **Mar 12, 06:29 PM** - Voyager opens defense and space tech hub in Long Beach (spacenews)
@@ -21,7 +19,6 @@
 - **Mar 13, 06:49 AM** - NASA Says Artemis II Moon Launch Is On Track for April 1 (nyt)
 - **Mar 13, 08:34 AM** - NASA working toward April 1 launch of Artemis 2 (spacenews)
 - **Mar 13, 09:09 AM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
-- **Mar 13, 09:44 AM** - York Space acquires satellite propulsion manufacturer Orbion Space (spacenews)
 - **Mar 13, 10:19 AM** - Senate committee advances NASA deputy administrator nominee (spacenews)
 - **Mar 13, 11:29 AM** - Q&A: Rebecca Evernden on UK space strategy (spacenews)
 - **Mar 13, 12:09 PM** - China ends month-long launch hiatus with separate Guowang and Shiyan-30 satellite missions (spacenews)
@@ -29,7 +26,6 @@
 - **Mar 13, 03:09 PM** - Space Jam: NASA’s MADCAP Team Directs Traffic at the Moon (nyt)
 - **Mar 13, 04:19 PM** - NASA Says Artemis II Moon Launch Is On Track for April 1 (nyt)
 - **Mar 13, 04:54 PM** - Eutelsat exits two Russian capacity leases after satellite failure (spacenews)
-- **Mar 13, 06:04 PM** - Astranis taps retired Gen. John Hyten to lead advisory board  (spacenews)
 - **Mar 13, 07:14 PM** - Ukraine will host first test for Leonardo’s Michelangelo security dome (spacenews)
 - **Mar 13, 07:49 PM** - NASA Says Artemis II Moon Launch Is On Track for April 1 (nyt)
 - **Mar 13, 08:59 PM** - China is developing low-cost lunar cargo options for its expanding moon program (spacenews)
@@ -55,14 +51,10 @@
 - **Mar 14, 08:24 PM** - Space Jam: NASA’s MADCAP Team Directs Traffic at the Moon (nyt)
 - **Mar 14, 08:59 PM** - China’s Tianwen-3 Mars sample return mission moves into spacecraft construction phase (spacenews)
 - **Mar 14, 09:34 PM** - Space Jam: NASA’s MADCAP Team Directs Traffic at the Moon (nyt)
-- **Mar 14, 10:09 PM** - York Space acquires satellite propulsion manufacturer Orbion Space (spacenews)
 - **Mar 14, 10:44 PM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
 - **Mar 15, 01:04 AM** - NASA Says Artemis II Moon Launch Is On Track for April 1 (nyt)
-- **Mar 15, 02:49 AM** - York Space acquires satellite propulsion manufacturer Orbion Space (spacenews)
 - **Mar 15, 03:59 AM** - NASA working toward April 1 launch of Artemis 2 (spacenews)
 - **Mar 15, 04:34 AM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
-- **Mar 15, 05:09 AM** - Astranis taps retired Gen. John Hyten to lead advisory board  (spacenews)
-- **Mar 15, 06:19 AM** - Astranis taps retired Gen. John Hyten to lead advisory board  (spacenews)
 - **Mar 15, 09:14 AM** - Space Jam: NASA’s MADCAP Team Directs Traffic at the Moon (nyt)
 - **Mar 15, 09:49 AM** - China is developing low-cost lunar cargo options for its expanding moon program (spacenews)
 - **Mar 15, 11:34 AM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
@@ -74,7 +66,6 @@
 - **Mar 15, 05:24 PM** - Space Jam: NASA’s MADCAP Team Directs Traffic at the Moon (nyt)
 - **Mar 15, 06:34 PM** - NASA Says Artemis II Moon Launch Is On Track for April 1 (nyt)
 - **Mar 15, 07:44 PM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
-- **Mar 15, 08:19 PM** - York Space acquires satellite propulsion manufacturer Orbion Space (spacenews)
 - **Mar 15, 10:09 PM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
 - **Mar 15, 10:44 PM** - China ends month-long launch hiatus with separate Guowang and Shiyan-30 satellite missions (spacenews)
 - **Mar 15, 11:54 PM** - Starcloud files plans for 88,000-satellite constellation (spacenews)
@@ -108,7 +99,6 @@
 - **Mar 17, 12:39 AM** - Spaceflight Started 100 Years Ago in a Massachusetts Cabbage Patch (nyt)
 - **Mar 17, 01:14 AM** - Kepler Communications: Call for Live-Stream Payload Concepts (spacenews)
 - **Mar 17, 01:49 AM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
-- **Mar 17, 02:24 AM** - Astranis taps retired Gen. John Hyten to lead advisory board  (spacenews)
 - **Mar 17, 02:59 AM** - Spaceflight Started 100 Years Ago in a Massachusetts Cabbage Patch (nyt)
 - **Mar 17, 04:09 AM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
 - **Mar 17, 05:19 AM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
@@ -124,7 +114,6 @@
 - **Mar 17, 12:59 PM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
 - **Mar 17, 01:34 PM** - Nvidia unveils AI computing module for space-based data centers (spacenews)
 - **Mar 17, 02:09 PM** - Spaceflight Started 100 Years Ago in a Massachusetts Cabbage Patch (nyt)
-- **Mar 17, 02:44 PM** - Astranis taps retired Gen. John Hyten to lead advisory board  (spacenews)
 - **Mar 17, 03:19 PM** - Space Jam: NASA’s MADCAP Team Directs Traffic at the Moon (nyt)
 - **Mar 17, 04:00 PM** - Melagen Labs and Satlyt Announce Joint ISS Mission to Demonstrate Radiation-Resilient In-Orbit Computing and Next-Gen Shielding (spacenews)
 - **Mar 17, 04:34 PM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
@@ -174,7 +163,6 @@
 - **Mar 18, 11:14 PM** - NASA’s Hubble Telescope Spots Comet K1 Exploding Into Fragments (nyt)
 - **Mar 18, 11:49 PM** - Space Command classified wargame to include 25 commercial players (spacenews)
 - **Mar 19, 12:24 AM** - Space Jam: NASA’s MADCAP Team Directs Traffic at the Moon (nyt)
-- **Mar 19, 12:59 AM** - Astranis taps retired Gen. John Hyten to lead advisory board  (spacenews)
 - **Mar 19, 01:34 AM** - Before Landing on the Moon, a Collision Close Call Haunted a Space Mission (nyt)
 - **Mar 19, 02:09 AM** - Q&A: Rebecca Evernden on UK space strategy (spacenews)
 - **Mar 19, 02:44 AM** - NASA’s Hubble Telescope Spots Comet K1 Exploding Into Fragments (nyt)
