@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 20 | 45 |
-| nyt | 0 | 3 | 20 | 36 |
+| nyt | 0 | 3 | 21 | 37 |
 
 # Shown Order
 
@@ -2205,3 +2205,4 @@
 - **May 09, 10:34 PM** - China’s Nayuta Space raises fresh funding for aerodynamic-recovery rocket  (spacenews)
 - **May 09, 11:09 PM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
 - **May 09, 11:44 PM** - MDA Space continues work on Gateway robotic arm (spacenews)
+- **May 10, 12:19 AM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
