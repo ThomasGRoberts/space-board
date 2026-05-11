@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 7 | 22 | 42 |
+| spacenews | 6 | 8 | 23 | 43 |
 | nyt | 1 | 1 | 18 | 39 |
 
 # Shown Order
@@ -2244,3 +2244,4 @@
 - **May 11, 03:19 PM** - U.S.-China Rivalry Reaches South American Skies (nyt)
 - **May 11, 03:54 PM** - Ignition relaunches Artemis plans (spacenews)
 - **May 11, 04:29 PM** - Pentagon Releases Files on U.F.O.s (nyt)
+- **May 11, 05:04 PM** - Creotech plans $118 million capital raise, investment in new satellite factory (spacenews)

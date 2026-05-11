@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-11T00:05:06.106484+00:00",
-    "trigger_count": 6,
-    "current_item_id": "12e46efef0e0291c2f8a421c839204af",
+    "trigger_count": 0,
+    "current_item_id": "485e3f62d54ac5afe9eb9f9105551aa4",
     "data": [
         {
             "id": "825b4a98b85014481bed56a9f7aee50a",
@@ -7805,6 +7805,18 @@
             "fetched_datetime": "2026-05-11T14:44:21.714344Z",
             "shown_at": [
                 "2026-05-11T14:44:22.770675Z"
+            ]
+        },
+        {
+            "id": "485e3f62d54ac5afe9eb9f9105551aa4",
+            "source": "spacenews",
+            "text": "Creotech plans $118 million capital raise, investment in new satellite factory",
+            "source_link": "https://spacenews.com/creotech-plans-118-million-capital-raise-investment-in-new-satellite-factory/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-11T17:04:30.280968Z",
+            "shown_at": [
+                "2026-05-11T17:04:31.234370Z"
             ]
         }
     ]
