@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 20 | 40 |
-| nyt | 1 | 1 | 21 | 41 |
+| spacenews | 1 | 3 | 21 | 41 |
+| nyt | 1 | 1 | 20 | 41 |
 
 # Shown Order
 
@@ -2232,3 +2232,4 @@
 - **May 11, 07:59 AM** - U.F.O. Files Released by U.S. Shed Light on What the Government Knows (nyt)
 - **May 11, 08:39 AM** - Ireland and Malta sign the Artemis Accords (spacenews)
 - **May 11, 09:14 AM** - Pentagon Releases Files on U.F.O.s (nyt)
+- **May 11, 09:49 AM** - Vantor wins $70 million award to enhance NGA data-delivery platform (spacenews)
