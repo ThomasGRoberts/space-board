@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 7 | 22 | 42 |
+| spacenews | 6 | 8 | 23 | 43 |
 | nyt | 1 | 1 | 18 | 39 |
 
 # Shown Order
@@ -2240,3 +2240,4 @@
 - **May 11, 12:44 PM** - Former NASA chief of staff returns to lead agency launch operations (spacenews)
 - **May 11, 01:19 PM** - Cowboy raises $275 million to build rockets with orbital data center upper stages (spacenews)
 - **May 11, 01:54 PM** - Failing to pass a defense budget is a self-inflicted wound in the space race (spacenews)
+- **May 11, 02:44 PM** - Special Operations Forces test mobile platform for direct satellite imagery access (spacenews)
