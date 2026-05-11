@@ -1,9 +1,21 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-05-10T00:04:23.583957+00:00",
-    "trigger_count": 2,
+    "last_run_datetime": "2026-05-11T00:05:06.106484+00:00",
+    "trigger_count": 3,
     "current_item_id": "12e46efef0e0291c2f8a421c839204af",
     "data": [
+        {
+            "id": "825b4a98b85014481bed56a9f7aee50a",
+            "source": "spacenews",
+            "text": "ESA and JAXA finalize agreement on Apophis asteroid mission",
+            "source_link": "https://spacenews.com/esa-and-jaxa-finalize-agreement-on-apophis-asteroid-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-10T16:09:04.476844Z",
+            "shown_at": [
+                "2026-05-10T16:09:05.451828Z"
+            ]
+        },
         {
             "id": "e5ae3e5ce3eb5a8f4e581c66f34698e5",
             "source": "spacenews",
@@ -7699,59 +7711,6 @@
                 "2026-03-18T14:19:57.505945Z",
                 "2026-03-19T00:24:28.690512Z",
                 "2026-03-19T07:59:21.439603Z"
-            ]
-        },
-        {
-            "id": "1db3a2ac272711a42755b86a3c17ecf2",
-            "source": "nyt",
-            "text": "Before Landing on the Moon, a Collision Close Call Haunted a Space Mission",
-            "source_link": "https://www.nytimes.com/2026/03/12/science/moon-red-alert-close-call.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-12T14:59:19.573339Z",
-            "shown_at": [
-                "2026-03-12T14:59:20.478434Z",
-                "2026-03-13T09:09:15.199229Z",
-                "2026-03-13T22:09:24.262126Z",
-                "2026-03-14T02:49:26.606300Z",
-                "2026-03-14T19:09:16.443833Z",
-                "2026-03-14T22:44:25.399953Z",
-                "2026-03-15T04:34:23.321658Z",
-                "2026-03-15T11:34:44.333108Z",
-                "2026-03-15T16:14:25.028911Z",
-                "2026-03-15T19:44:47.939077Z",
-                "2026-03-15T22:09:48.036412Z",
-                "2026-03-16T02:49:06.106755Z",
-                "2026-03-16T10:29:16.028706Z",
-                "2026-03-16T15:49:43.162970Z",
-                "2026-03-16T18:09:38.539260Z",
-                "2026-03-16T19:20:03.095810Z",
-                "2026-03-16T21:44:39.656169Z",
-                "2026-03-17T01:49:09.465544Z",
-                "2026-03-17T04:09:52.622665Z",
-                "2026-03-17T05:19:09.450812Z",
-                "2026-03-17T06:29:14.023210Z",
-                "2026-03-17T12:59:19.464518Z",
-                "2026-03-17T16:34:38.517849Z",
-                "2026-03-17T17:44:17.571288Z",
-                "2026-03-17T22:29:20.230878Z",
-                "2026-03-18T05:29:15.112022Z",
-                "2026-03-18T11:20:04.096193Z",
-                "2026-03-18T19:44:26.936003Z",
-                "2026-03-19T01:34:30.007770Z",
-                "2026-03-19T10:24:27.348669Z"
-            ]
-        },
-        {
-            "id": "825b4a98b85014481bed56a9f7aee50a",
-            "source": "spacenews",
-            "text": "ESA and JAXA finalize agreement on Apophis asteroid mission",
-            "source_link": "https://spacenews.com/esa-and-jaxa-finalize-agreement-on-apophis-asteroid-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-10T16:09:04.476844Z",
-            "shown_at": [
-                "2026-05-10T16:09:05.451828Z"
             ]
         }
     ]
