@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 8 | 22 | 42 |
+| spacenews | 6 | 8 | 23 | 43 |
 | nyt | 1 | 1 | 18 | 39 |
 
 # Shown Order
@@ -2246,3 +2246,4 @@
 - **May 11, 04:29 PM** - Pentagon Releases Files on U.F.O.s (nyt)
 - **May 11, 05:04 PM** - Creotech plans $118 million capital raise, investment in new satellite factory (spacenews)
 - **May 11, 05:39 PM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
+- **May 11, 06:14 PM** - NATO governance policies need updating (spacenews)
