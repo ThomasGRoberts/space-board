@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 21 | 41 |
-| nyt | 0 | 0 | 20 | 40 |
+| nyt | 1 | 1 | 21 | 41 |
 
 # Shown Order
 
@@ -2219,3 +2219,4 @@
 - **May 11, 12:24 AM** - Between resource scarcity and orbital inflation: rethinking the space model (spacenews)
 - **May 11, 12:59 AM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
 - **May 11, 01:34 AM** - Firefly plans late summer launch of first Alpha Block 2 rocket (spacenews)
+- **May 11, 02:09 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
