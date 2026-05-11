@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 20 | 41 |
-| nyt | 0 | 0 | 20 | 40 |
+| nyt | 0 | 0 | 21 | 41 |
 
 # Shown Order
 
@@ -2217,3 +2217,4 @@
 - **May 10, 11:14 PM** - Powering Unified Space Systems Operations (spacenews)
 - **May 10, 11:49 PM** - Pentagon Releases Files on U.F.O.s (nyt)
 - **May 11, 12:24 AM** - Between resource scarcity and orbital inflation: rethinking the space model (spacenews)
+- **May 11, 12:59 AM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
