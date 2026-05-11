@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 20 | 41 |
-| nyt | 1 | 1 | 21 | 41 |
+| spacenews | 2 | 4 | 21 | 41 |
+| nyt | 1 | 1 | 20 | 41 |
 
 # Shown Order
 
@@ -2234,3 +2234,4 @@
 - **May 11, 09:14 AM** - Pentagon Releases Files on U.F.O.s (nyt)
 - **May 11, 09:49 AM** - Vantor wins $70 million award to enhance NGA data-delivery platform (spacenews)
 - **May 11, 10:24 AM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
+- **May 11, 10:59 AM** - Tianzhou-10 cargo spacecraft arrives at Tiangong space station (spacenews)

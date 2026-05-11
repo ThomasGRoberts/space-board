@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-11T00:05:06.106484+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9020baccaac675375f52486f5b653989",
+    "trigger_count": 0,
+    "current_item_id": "55a9736c75a0e8b61147044b569321f5",
     "data": [
         {
             "id": "825b4a98b85014481bed56a9f7aee50a",
@@ -7740,6 +7740,18 @@
                 "2026-05-11T03:19:09.911748Z",
                 "2026-05-11T05:39:00.333981Z",
                 "2026-05-11T06:49:13.272683Z"
+            ]
+        },
+        {
+            "id": "55a9736c75a0e8b61147044b569321f5",
+            "source": "spacenews",
+            "text": "Tianzhou-10 cargo spacecraft arrives at Tiangong space station",
+            "source_link": "https://spacenews.com/tianzhou-10-cargo-spacecraft-arrives-at-tiangong-space-station/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-11T10:59:27.952205Z",
+            "shown_at": [
+                "2026-05-11T10:59:29.814249Z"
             ]
         }
     ]
