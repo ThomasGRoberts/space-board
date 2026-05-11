@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-11T00:05:06.106484+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5ef0d1a0035d28376143757a976eaf77",
+    "trigger_count": 0,
+    "current_item_id": "87b71e8821dc498a050013c93dcbe532",
     "data": [
         {
             "id": "825b4a98b85014481bed56a9f7aee50a",
@@ -7823,6 +7823,18 @@
             "fetched_datetime": "2026-05-11T17:04:30.280968Z",
             "shown_at": [
                 "2026-05-11T17:04:31.234370Z"
+            ]
+        },
+        {
+            "id": "87b71e8821dc498a050013c93dcbe532",
+            "source": "spacenews",
+            "text": "NASA retaining six-month ISS missions",
+            "source_link": "https://spacenews.com/nasa-retaining-six-month-iss-missions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-11T21:24:22.991457Z",
+            "shown_at": [
+                "2026-05-11T21:24:23.963500Z"
             ]
         }
     ]
