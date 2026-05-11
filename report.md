@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 8 | 22 | 43 |
-| nyt | 1 | 1 | 18 | 38 |
+| nyt | 1 | 1 | 19 | 39 |
 
 # Shown Order
 
@@ -2241,3 +2241,4 @@
 - **May 11, 01:19 PM** - Cowboy raises $275 million to build rockets with orbital data center upper stages (spacenews)
 - **May 11, 01:54 PM** - Failing to pass a defense budget is a self-inflicted wound in the space race (spacenews)
 - **May 11, 02:44 PM** - Special Operations Forces test mobile platform for direct satellite imagery access (spacenews)
+- **May 11, 03:19 PM** - U.S.-China Rivalry Reaches South American Skies (nyt)
