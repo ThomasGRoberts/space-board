@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 5 | 21 | 41 |
+| spacenews | 5 | 7 | 22 | 42 |
 | nyt | 1 | 1 | 19 | 40 |
 
 # Shown Order
@@ -2238,3 +2238,4 @@
 - **May 11, 11:34 AM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
 - **May 11, 12:09 PM** - Astranis secures $450 million in equity, debt to expand small GEO satellite production (spacenews)
 - **May 11, 12:44 PM** - Former NASA chief of staff returns to lead agency launch operations (spacenews)
+- **May 11, 01:19 PM** - Cowboy raises $275 million to build rockets with orbital data center upper stages (spacenews)
