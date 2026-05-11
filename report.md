@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 20 | 40 |
+| spacenews | 1 | 3 | 21 | 41 |
 | nyt | 1 | 1 | 21 | 41 |
 
 # Shown Order
@@ -2222,3 +2222,4 @@
 - **May 11, 02:09 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
 - **May 11, 02:44 AM** - Space’s missing half (spacenews)
 - **May 11, 03:19 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
+- **May 11, 03:54 AM** - Overview Energy wins Air Force contract to study space-based solar power for military bases (spacenews)
