@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 8 | 22 | 42 |
+| spacenews | 6 | 8 | 23 | 43 |
 | nyt | 1 | 1 | 18 | 39 |
 
 # Shown Order
@@ -2242,3 +2242,4 @@
 - **May 11, 01:54 PM** - Failing to pass a defense budget is a self-inflicted wound in the space race (spacenews)
 - **May 11, 02:44 PM** - Special Operations Forces test mobile platform for direct satellite imagery access (spacenews)
 - **May 11, 03:19 PM** - U.S.-China Rivalry Reaches South American Skies (nyt)
+- **May 11, 03:54 PM** - Ignition relaunches Artemis plans (spacenews)
