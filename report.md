@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 21 | 41 |
-| nyt | 1 | 1 | 20 | 40 |
+| nyt | 1 | 1 | 21 | 41 |
 
 # Shown Order
 
@@ -2225,3 +2225,4 @@
 - **May 11, 03:54 AM** - Overview Energy wins Air Force contract to study space-based solar power for military bases (spacenews)
 - **May 11, 04:29 AM** - U.F.O. Files Released by U.S. Shed Light on What the Government Knows (nyt)
 - **May 11, 05:04 AM** - Taylor Geospatial unveils global field dataset (spacenews)
+- **May 11, 05:39 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
