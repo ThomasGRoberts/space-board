@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 20 | 41 |
+| spacenews | 1 | 3 | 21 | 42 |
 | nyt | 1 | 1 | 21 | 41 |
 
 # Shown Order
@@ -2228,3 +2228,4 @@
 - **May 11, 05:39 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
 - **May 11, 06:14 AM** - Space’s missing half (spacenews)
 - **May 11, 06:49 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
+- **May 11, 07:24 AM** - China’s Nayuta Space raises fresh funding for aerodynamic-recovery rocket  (spacenews)
