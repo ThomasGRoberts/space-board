@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 8 | 22 | 43 |
-| nyt | 1 | 1 | 18 | 38 |
+| spacenews | 6 | 8 | 22 | 42 |
+| nyt | 1 | 1 | 19 | 39 |
 
 # Shown Order
 
@@ -2249,3 +2249,4 @@
 - **May 11, 06:14 PM** - NATO governance policies need updating (spacenews)
 - **May 11, 06:54 PM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
 - **May 11, 07:34 PM** - Riding the orbital data center wave (spacenews)
+- **May 11, 08:14 PM** - U.S.-China Rivalry Reaches South American Skies (nyt)
