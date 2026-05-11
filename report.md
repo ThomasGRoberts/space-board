@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 8 | 22 | 42 |
+| spacenews | 6 | 8 | 23 | 43 |
 | nyt | 1 | 1 | 18 | 39 |
 
 # Shown Order
@@ -2250,3 +2250,4 @@
 - **May 11, 06:54 PM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
 - **May 11, 07:34 PM** - Riding the orbital data center wave (spacenews)
 - **May 11, 08:14 PM** - U.S.-China Rivalry Reaches South American Skies (nyt)
+- **May 11, 08:49 PM** - Lunar Outpost raises $30 million (spacenews)
