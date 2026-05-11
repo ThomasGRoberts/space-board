@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 9 | 22 | 43 |
+| spacenews | 7 | 9 | 23 | 43 |
 | nyt | 1 | 1 | 18 | 38 |
 
 # Shown Order
@@ -2253,3 +2253,4 @@
 - **May 11, 08:49 PM** - Lunar Outpost raises $30 million (spacenews)
 - **May 11, 09:24 PM** - NASA retaining six-month ISS missions (spacenews)
 - **May 11, 09:59 PM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
+- **May 11, 10:34 PM** - Scolese puts talent at center of NRO transition as he prepares to step down (spacenews)
