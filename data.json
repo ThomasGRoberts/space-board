@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-12T00:04:24.003149+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9770779c84bea20e41424bdd8c5223d8",
+    "trigger_count": 0,
+    "current_item_id": "3af2c4437913c35674e27c6082c05632",
     "data": [
         {
             "id": "87b71e8821dc498a050013c93dcbe532",
@@ -7759,6 +7759,18 @@
             "shown": false,
             "type": "news",
             "fetched_datetime": "2026-05-12T14:46:32.590581Z"
+        },
+        {
+            "id": "3af2c4437913c35674e27c6082c05632",
+            "source": "breaking_defense",
+            "text": "SOCOM to test SkyFi satellite imagery-to-tablet prototype",
+            "source_link": "https://breakingdefense.com/2026/05/socom-to-test-skyfi-satellite-imagery-to-tablet-prototype/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-12T15:45:59.664449Z",
+            "shown_at": [
+                "2026-05-12T15:46:00.404516Z"
+            ]
         }
     ]
 }
