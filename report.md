@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 11 | 20 | 43 |
-| nyt | 0 | 1 | 16 | 34 |
+| nyt | 0 | 1 | 17 | 35 |
 | breaking_defense | 1 | 1 | 1 | 1 |
 
 # Shown Order
@@ -2224,3 +2224,4 @@
 - **May 12, 02:46 PM** - Space Force awards TrustPoint $4 million for LEO navigation demonstration (spacenews)
 - **May 12, 03:46 PM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
 - **May 12, 04:29 PM** - Star Catcher raises $65 million for space power grid (spacenews)
+- **May 12, 05:09 PM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
