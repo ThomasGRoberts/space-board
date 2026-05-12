@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-12T00:04:24.003149+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5ef0d1a0035d28376143757a976eaf77",
+    "trigger_count": 0,
+    "current_item_id": "9770779c84bea20e41424bdd8c5223d8",
     "data": [
         {
             "id": "87b71e8821dc498a050013c93dcbe532",
@@ -7738,6 +7738,27 @@
             "shown_at": [
                 "2026-05-12T12:24:17.485347Z"
             ]
+        },
+        {
+            "id": "9770779c84bea20e41424bdd8c5223d8",
+            "source": "spacenews",
+            "text": "Space Force awards TrustPoint $4 million for LEO navigation demonstration",
+            "source_link": "https://spacenews.com/space-force-awards-trustpoint-4-million-for-leo-navigation-demonstration/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-12T14:46:32.590525Z",
+            "shown_at": [
+                "2026-05-12T14:46:33.579505Z"
+            ]
+        },
+        {
+            "id": "36d7e77a7c26db083c56e34d63fb680a",
+            "source": "spacenews",
+            "text": "Star Catcher raises $65 million for space power grid",
+            "source_link": "https://spacenews.com/star-catcher-raises-65-million-for-space-power-grid/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-05-12T14:46:32.590581Z"
         }
     ]
 }

@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 10 | 21 | 43 |
+| spacenews | 6 | 12 | 21 | 44 |
 | nyt | 0 | 1 | 18 | 36 |
 
 # Shown Order
@@ -2220,3 +2220,4 @@
 - **May 12, 12:24 PM** - Transcelestial tests space-to-ground laser communications technologies (spacenews)
 - **May 12, 01:04 PM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
 - **May 12, 01:53 PM** - Lunar Outpost raises $30 million (spacenews)
+- **May 12, 02:46 PM** - Space Force awards TrustPoint $4 million for LEO navigation demonstration (spacenews)
