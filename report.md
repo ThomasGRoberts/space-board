@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 19 | 42 |
+| spacenews | 7 | 14 | 20 | 43 |
 | nyt | 0 | 1 | 15 | 32 |
 | breaking_defense | 2 | 2 | 4 | 4 |
 
@@ -2234,3 +2234,4 @@
 - **May 12, 09:14 PM** - Pentagon Releases Files on U.F.O.s (nyt)
 - **May 12, 09:49 PM** - Congressional Budget Office estimates $1.2 trillion price tag for Golden Dome (spacenews)
 - **May 12, 10:24 PM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
+- **May 12, 10:59 PM** - FCC approves SpaceX spectrum deal with $2.4 billion escrow condition (spacenews)

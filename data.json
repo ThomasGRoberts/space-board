@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-12T00:04:24.003149+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b9b8971f34a114856dd28b97173b79ab",
+    "trigger_count": 0,
+    "current_item_id": "0171fbeb2095052005c3ea80303a43b0",
     "data": [
         {
             "id": "87b71e8821dc498a050013c93dcbe532",
@@ -7816,6 +7816,18 @@
             "fetched_datetime": "2026-05-12T22:24:24.832310Z",
             "shown_at": [
                 "2026-05-12T22:24:26.088018Z"
+            ]
+        },
+        {
+            "id": "0171fbeb2095052005c3ea80303a43b0",
+            "source": "spacenews",
+            "text": "FCC approves SpaceX spectrum deal with $2.4 billion escrow condition",
+            "source_link": "https://spacenews.com/fcc-approves-spacex-spectrum-deal-with-2-4-billion-escrow-condition/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-12T22:59:06.899113Z",
+            "shown_at": [
+                "2026-05-12T22:59:07.915718Z"
             ]
         }
     ]
