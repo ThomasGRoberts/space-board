@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 12 | 20 | 42 |
+| spacenews | 6 | 12 | 21 | 43 |
 | nyt | 0 | 1 | 15 | 33 |
 | breaking_defense | 1 | 1 | 3 | 3 |
 
@@ -2230,3 +2230,4 @@
 - **May 12, 06:54 PM** - Quantum Space to build spacecraft in Tulsa (spacenews)
 - **May 12, 07:29 PM** - U.S.-China Rivalry Reaches South American Skies (nyt)
 - **May 12, 08:04 PM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
+- **May 12, 08:39 PM** - Astranis secures $450 million in equity, debt to expand small GEO satellite production (spacenews)
