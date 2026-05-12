@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 8 | 22 | 43 |
-| nyt | 0 | 1 | 17 | 37 |
+| nyt | 0 | 1 | 18 | 38 |
 
 # Shown Order
 
@@ -2213,3 +2213,4 @@
 - **May 12, 08:14 AM** - MDA Space continues work on Gateway robotic arm (spacenews)
 - **May 12, 08:49 AM** - Pentagon Releases Files on U.F.O.s (nyt)
 - **May 12, 09:24 AM** - Swift reboost mission completes environmental tests (spacenews)
+- **May 12, 09:59 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
