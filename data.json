@@ -1,9 +1,110 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-05-11T00:05:06.106484+00:00",
-    "trigger_count": 1,
+    "last_run_datetime": "2026-05-12T00:04:24.003149+00:00",
+    "trigger_count": 2,
     "current_item_id": "e5ae3e5ce3eb5a8f4e581c66f34698e5",
     "data": [
+        {
+            "id": "87b71e8821dc498a050013c93dcbe532",
+            "source": "spacenews",
+            "text": "NASA retaining six-month ISS missions",
+            "source_link": "https://spacenews.com/nasa-retaining-six-month-iss-missions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-11T21:24:22.991457Z",
+            "shown_at": [
+                "2026-05-11T21:24:23.963500Z"
+            ]
+        },
+        {
+            "id": "485e3f62d54ac5afe9eb9f9105551aa4",
+            "source": "spacenews",
+            "text": "Creotech plans $118 million capital raise, investment in new satellite factory",
+            "source_link": "https://spacenews.com/creotech-plans-118-million-capital-raise-investment-in-new-satellite-factory/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-11T17:04:30.280968Z",
+            "shown_at": [
+                "2026-05-11T17:04:31.234370Z"
+            ]
+        },
+        {
+            "id": "a5a55c644e3708c7dd65d5f421df4066",
+            "source": "spacenews",
+            "text": "Special Operations Forces test mobile platform for direct satellite imagery access",
+            "source_link": "https://spacenews.com/special-operations-forces-test-mobile-platform-for-direct-satellite-imagery-access/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-11T14:44:21.714344Z",
+            "shown_at": [
+                "2026-05-11T14:44:22.770675Z"
+            ]
+        },
+        {
+            "id": "1ef269b5d9210c4e1143a06fda8d995e",
+            "source": "spacenews",
+            "text": "Failing to pass a defense budget is a self-inflicted wound in the space race",
+            "source_link": "https://spacenews.com/failing-to-pass-a-defense-budget-is-a-self-inflicted-wound-in-the-space-race/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-11T13:19:46.050057Z",
+            "shown_at": [
+                "2026-05-11T13:54:22.486903Z"
+            ]
+        },
+        {
+            "id": "9005566d18abedcbf783a5bb5847bee7",
+            "source": "spacenews",
+            "text": "Cowboy raises $275 million to build rockets with orbital data center upper stages",
+            "source_link": "https://spacenews.com/cowboy-raises-275-million-to-build-rockets-with-orbital-data-center-upper-stages/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-11T13:19:46.049998Z",
+            "shown_at": [
+                "2026-05-11T13:19:47.090419Z"
+            ]
+        },
+        {
+            "id": "985d1aa47e9cfe24ce13f2bdf1c98826",
+            "source": "spacenews",
+            "text": "Former NASA chief of staff returns to lead agency launch operations",
+            "source_link": "https://spacenews.com/former-nasa-chief-of-staff-returns-to-lead-agency-launch-operations/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-11T12:44:37.317067Z",
+            "shown_at": [
+                "2026-05-11T12:44:38.274063Z"
+            ]
+        },
+        {
+            "id": "55a9736c75a0e8b61147044b569321f5",
+            "source": "spacenews",
+            "text": "Tianzhou-10 cargo spacecraft arrives at Tiangong space station",
+            "source_link": "https://spacenews.com/tianzhou-10-cargo-spacecraft-arrives-at-tiangong-space-station/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-11T10:59:27.952205Z",
+            "shown_at": [
+                "2026-05-11T10:59:29.814249Z"
+            ]
+        },
+        {
+            "id": "386808b2f313abd07c28a5ec577fda12",
+            "source": "nyt",
+            "text": "U.S.-China Rivalry Reaches South American Skies",
+            "source_link": "https://www.nytimes.com/2026/05/10/world/americas/us-china-telescope-argentina-chile.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-11T02:09:18.403618Z",
+            "shown_at": [
+                "2026-05-11T02:09:19.403984Z",
+                "2026-05-11T03:19:09.911748Z",
+                "2026-05-11T05:39:00.333981Z",
+                "2026-05-11T06:49:13.272683Z",
+                "2026-05-11T15:19:18.953064Z",
+                "2026-05-11T20:14:26.039150Z"
+            ]
+        },
         {
             "id": "825b4a98b85014481bed56a9f7aee50a",
             "source": "spacenews",
@@ -7591,254 +7692,6 @@
                 "2026-03-13T12:09:22.250252Z",
                 "2026-03-15T22:44:40.953196Z",
                 "2026-03-19T04:29:17.823863Z"
-            ]
-        },
-        {
-            "id": "f021b4ca4b9551cae045bddf2b5b85cf",
-            "source": "spacenews",
-            "text": "Q&A: Rebecca Evernden on UK space strategy",
-            "source_link": "https://spacenews.com/qa-rebecca-evernden-on-uk-space-strategy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-13T11:29:05.613904Z",
-            "shown_at": [
-                "2026-03-13T11:29:07.221151Z",
-                "2026-03-14T13:54:16.064982Z",
-                "2026-03-19T02:09:13.814313Z"
-            ]
-        },
-        {
-            "id": "5bdd089d43f0187345c440be457caec1",
-            "source": "spacenews",
-            "text": "Senate committee advances NASA deputy administrator nominee",
-            "source_link": "https://spacenews.com/senate-committee-advances-nasa-deputy-administrator-nominee/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-13T10:19:10.889577Z",
-            "shown_at": [
-                "2026-03-13T10:19:12.244138Z"
-            ]
-        },
-        {
-            "id": "678497a7e35f7ef3a79f378cc3fb5ae9",
-            "source": "spacenews",
-            "text": "NASA working toward April 1 launch of Artemis 2",
-            "source_link": "https://spacenews.com/nasa-working-toward-april-1-launch-of-artemis-2/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-13T08:34:26.308923Z",
-            "shown_at": [
-                "2026-03-13T08:34:27.833336Z",
-                "2026-03-15T03:59:14.059084Z",
-                "2026-03-18T14:54:47.388777Z",
-                "2026-03-19T05:39:06.942761Z",
-                "2026-03-20T05:39:39.245925Z",
-                "2026-03-20T07:59:25.144229Z"
-            ]
-        },
-        {
-            "id": "70a0746921073b2d79a4fd1d0b32ec2b",
-            "source": "spacenews",
-            "text": "China’s Tianwen-3 Mars sample return mission moves into spacecraft construction phase",
-            "source_link": "https://spacenews.com/chinas-tianwen-3-mars-sample-return-mission-moves-into-spacecraft-construction-phase/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-12T23:14:29.596103Z",
-            "shown_at": [
-                "2026-03-12T23:14:30.727399Z",
-                "2026-03-14T09:14:14.317139Z",
-                "2026-03-14T20:59:20.196683Z"
-            ]
-        },
-        {
-            "id": "87de93fa19dfb9b0affe91d7aafbbd0f",
-            "source": "nyt",
-            "text": "NASA Says Artemis II Moon Launch Is On Track for April 1",
-            "source_link": "https://www.nytimes.com/2026/03/12/science/nasa-moon-artemis-launch-april.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-12T22:04:26.771957Z",
-            "shown_at": [
-                "2026-03-12T22:04:28.046457Z",
-                "2026-03-12T23:49:16.809549Z",
-                "2026-03-13T06:49:24.203403Z",
-                "2026-03-13T16:19:31.611735Z",
-                "2026-03-13T19:49:05.027182Z",
-                "2026-03-14T15:39:16.930519Z",
-                "2026-03-15T01:04:31.651623Z",
-                "2026-03-15T18:34:33.920537Z",
-                "2026-03-16T00:29:03.588670Z",
-                "2026-03-16T05:09:09.466241Z",
-                "2026-03-16T08:44:26.984434Z",
-                "2026-03-17T07:39:05.950013Z",
-                "2026-03-17T09:59:09.170539Z",
-                "2026-03-18T06:39:04.358554Z",
-                "2026-03-18T17:19:12.502368Z"
-            ]
-        },
-        {
-            "id": "a8bd692096533efd5d290a6c130d18fc",
-            "source": "spacenews",
-            "text": "Another Earth raises $4 million to boost AI training with synthetic satellite data",
-            "source_link": "https://spacenews.com/another-earth-raises-4-million-to-boost-ai-training-with-synthetic-satellite-data/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-12T18:29:24.466689Z",
-            "shown_at": [
-                "2026-03-12T19:05:21.283947Z",
-                "2026-03-13T02:44:42.372825Z",
-                "2026-03-15T14:29:09.035021Z"
-            ]
-        },
-        {
-            "id": "41c97f7ff6a9d1b8f442cb75903409f5",
-            "source": "spacenews",
-            "text": "Voyager opens defense and space tech hub in Long Beach",
-            "source_link": "https://spacenews.com/voyager-opens-defense-and-space-tech-hub-in-long-beach/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-12T18:29:24.466633Z",
-            "shown_at": [
-                "2026-03-12T18:29:25.647108Z",
-                "2026-03-13T22:44:10.194566Z",
-                "2026-03-19T09:49:22.535966Z"
-            ]
-        },
-        {
-            "id": "0f1d71850462be3b1a792b360181804a",
-            "source": "nyt",
-            "text": "Space Jam: NASA’s MADCAP Team Directs Traffic at the Moon",
-            "source_link": "https://www.nytimes.com/2026/03/12/science/moon-red-alert-close-call.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-12T17:19:21.041064Z",
-            "shown_at": [
-                "2026-03-12T17:19:22.441109Z",
-                "2026-03-12T20:54:12.294174Z",
-                "2026-03-13T15:09:19.040366Z",
-                "2026-03-13T23:19:18.915293Z",
-                "2026-03-14T03:59:15.659543Z",
-                "2026-03-14T05:09:18.889407Z",
-                "2026-03-14T09:49:27.299839Z",
-                "2026-03-14T10:58:58.221532Z",
-                "2026-03-14T20:24:17.955396Z",
-                "2026-03-14T21:34:30.237967Z",
-                "2026-03-15T09:14:19.085396Z",
-                "2026-03-15T17:24:13.558206Z",
-                "2026-03-16T01:39:38.164101Z",
-                "2026-03-16T03:59:09.936057Z",
-                "2026-03-16T06:19:21.306838Z",
-                "2026-03-16T07:34:21.762497Z",
-                "2026-03-16T20:34:23.792166Z",
-                "2026-03-17T08:49:29.321052Z",
-                "2026-03-17T15:19:24.669041Z",
-                "2026-03-18T00:49:15.332934Z",
-                "2026-03-18T04:19:05.635189Z",
-                "2026-03-18T08:59:30.651662Z",
-                "2026-03-18T14:19:57.505945Z",
-                "2026-03-19T00:24:28.690512Z",
-                "2026-03-19T07:59:21.439603Z"
-            ]
-        },
-        {
-            "id": "386808b2f313abd07c28a5ec577fda12",
-            "source": "nyt",
-            "text": "U.S.-China Rivalry Reaches South American Skies",
-            "source_link": "https://www.nytimes.com/2026/05/10/world/americas/us-china-telescope-argentina-chile.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-11T02:09:18.403618Z",
-            "shown_at": [
-                "2026-05-11T02:09:19.403984Z",
-                "2026-05-11T03:19:09.911748Z",
-                "2026-05-11T05:39:00.333981Z",
-                "2026-05-11T06:49:13.272683Z",
-                "2026-05-11T15:19:18.953064Z",
-                "2026-05-11T20:14:26.039150Z"
-            ]
-        },
-        {
-            "id": "55a9736c75a0e8b61147044b569321f5",
-            "source": "spacenews",
-            "text": "Tianzhou-10 cargo spacecraft arrives at Tiangong space station",
-            "source_link": "https://spacenews.com/tianzhou-10-cargo-spacecraft-arrives-at-tiangong-space-station/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-11T10:59:27.952205Z",
-            "shown_at": [
-                "2026-05-11T10:59:29.814249Z"
-            ]
-        },
-        {
-            "id": "985d1aa47e9cfe24ce13f2bdf1c98826",
-            "source": "spacenews",
-            "text": "Former NASA chief of staff returns to lead agency launch operations",
-            "source_link": "https://spacenews.com/former-nasa-chief-of-staff-returns-to-lead-agency-launch-operations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-11T12:44:37.317067Z",
-            "shown_at": [
-                "2026-05-11T12:44:38.274063Z"
-            ]
-        },
-        {
-            "id": "9005566d18abedcbf783a5bb5847bee7",
-            "source": "spacenews",
-            "text": "Cowboy raises $275 million to build rockets with orbital data center upper stages",
-            "source_link": "https://spacenews.com/cowboy-raises-275-million-to-build-rockets-with-orbital-data-center-upper-stages/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-11T13:19:46.049998Z",
-            "shown_at": [
-                "2026-05-11T13:19:47.090419Z"
-            ]
-        },
-        {
-            "id": "1ef269b5d9210c4e1143a06fda8d995e",
-            "source": "spacenews",
-            "text": "Failing to pass a defense budget is a self-inflicted wound in the space race",
-            "source_link": "https://spacenews.com/failing-to-pass-a-defense-budget-is-a-self-inflicted-wound-in-the-space-race/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-11T13:19:46.050057Z",
-            "shown_at": [
-                "2026-05-11T13:54:22.486903Z"
-            ]
-        },
-        {
-            "id": "a5a55c644e3708c7dd65d5f421df4066",
-            "source": "spacenews",
-            "text": "Special Operations Forces test mobile platform for direct satellite imagery access",
-            "source_link": "https://spacenews.com/special-operations-forces-test-mobile-platform-for-direct-satellite-imagery-access/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-11T14:44:21.714344Z",
-            "shown_at": [
-                "2026-05-11T14:44:22.770675Z"
-            ]
-        },
-        {
-            "id": "485e3f62d54ac5afe9eb9f9105551aa4",
-            "source": "spacenews",
-            "text": "Creotech plans $118 million capital raise, investment in new satellite factory",
-            "source_link": "https://spacenews.com/creotech-plans-118-million-capital-raise-investment-in-new-satellite-factory/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-11T17:04:30.280968Z",
-            "shown_at": [
-                "2026-05-11T17:04:31.234370Z"
-            ]
-        },
-        {
-            "id": "87b71e8821dc498a050013c93dcbe532",
-            "source": "spacenews",
-            "text": "NASA retaining six-month ISS missions",
-            "source_link": "https://spacenews.com/nasa-retaining-six-month-iss-missions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-11T21:24:22.991457Z",
-            "shown_at": [
-                "2026-05-11T21:24:23.963500Z"
             ]
         }
     ]
