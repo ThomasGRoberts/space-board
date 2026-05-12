@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 8 | 22 | 43 |
+| spacenews | 7 | 8 | 23 | 43 |
 | nyt | 0 | 1 | 17 | 38 |
 
 # Shown Order
@@ -2202,3 +2202,4 @@
 - **May 12, 01:39 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
 - **May 12, 02:14 AM** - Rocket Lab joins Raytheon on space interceptor program for Golden Dome (spacenews)
 - **May 12, 02:49 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
+- **May 12, 03:24 AM** - Starfighters hires Blue Origin veterans to accelerate air-launch platform (spacenews)
