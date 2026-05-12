@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 20 | 42 |
 | nyt | 0 | 1 | 16 | 34 |
-| breaking_defense | 1 | 1 | 2 | 2 |
+| breaking_defense | 1 | 1 | 3 | 3 |
 
 # Shown Order
 
@@ -2229,3 +2229,4 @@
 - **May 12, 06:19 PM** - Rocket Lab announces large launch contract and plans to acquire space robotics company (spacenews)
 - **May 12, 06:54 PM** - Quantum Space to build spacecraft in Tulsa (spacenews)
 - **May 12, 07:29 PM** - U.S.-China Rivalry Reaches South American Skies (nyt)
+- **May 12, 08:04 PM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
