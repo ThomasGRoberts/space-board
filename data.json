@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-12T00:04:24.003149+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9020baccaac675375f52486f5b653989",
+    "trigger_count": 0,
+    "current_item_id": "db2255af90b190f2f76ff8bfe9a7c433",
     "data": [
         {
             "id": "87b71e8821dc498a050013c93dcbe532",
@@ -7723,6 +7723,18 @@
             "fetched_datetime": "2026-05-12T11:09:32.147391Z",
             "shown_at": [
                 "2026-05-12T11:09:36.613426Z"
+            ]
+        },
+        {
+            "id": "db2255af90b190f2f76ff8bfe9a7c433",
+            "source": "spacenews",
+            "text": "Transcelestial tests space-to-ground laser communications technologies",
+            "source_link": "https://spacenews.com/transcelestial-tests-space-to-ground-laser-communications-technologies/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-12T12:24:16.478428Z",
+            "shown_at": [
+                "2026-05-12T12:24:17.485347Z"
             ]
         }
     ]

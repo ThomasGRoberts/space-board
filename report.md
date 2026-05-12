@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 9 | 22 | 43 |
+| spacenews | 8 | 10 | 23 | 44 |
 | nyt | 0 | 1 | 17 | 37 |
 
 # Shown Order
@@ -2217,3 +2217,4 @@
 - **May 12, 10:34 AM** - Redwire pursues opportunities in landers and power systems for NASA’s moon base plans (spacenews)
 - **May 12, 11:09 AM** - Space is having its internet moment. Investors should act accordingly. (spacenews)
 - **May 12, 11:44 AM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
+- **May 12, 12:24 PM** - Transcelestial tests space-to-ground laser communications technologies (spacenews)
