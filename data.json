@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-12T00:04:24.003149+00:00",
-    "trigger_count": 6,
-    "current_item_id": "12e46efef0e0291c2f8a421c839204af",
+    "trigger_count": 0,
+    "current_item_id": "ced5b61c7f30a473827829d854d909a7",
     "data": [
         {
             "id": "87b71e8821dc498a050013c93dcbe532",
@@ -7792,6 +7792,18 @@
             "fetched_datetime": "2026-05-12T18:54:19.206700Z",
             "shown_at": [
                 "2026-05-12T18:54:20.296366Z"
+            ]
+        },
+        {
+            "id": "ced5b61c7f30a473827829d854d909a7",
+            "source": "spacenews",
+            "text": "Congressional Budget Office estimates $1.2 trillion price tag for Golden Dome",
+            "source_link": "https://spacenews.com/congressional-budget-office-estimates-1-2-trillion-price-tag-for-golden-dome/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-12T21:49:24.903541Z",
+            "shown_at": [
+                "2026-05-12T21:49:25.861505Z"
             ]
         }
     ]
