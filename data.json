@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-12T00:04:24.003149+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f7b17505a4211866a1b3a0393da1eb13",
+    "trigger_count": 0,
+    "current_item_id": "7e138ce79edbfe10cb11b4563a34bc8b",
     "data": [
         {
             "id": "87b71e8821dc498a050013c93dcbe532",
@@ -7710,6 +7710,18 @@
                 "2026-03-13T12:09:22.250252Z",
                 "2026-03-15T22:44:40.953196Z",
                 "2026-03-19T04:29:17.823863Z"
+            ]
+        },
+        {
+            "id": "7e138ce79edbfe10cb11b4563a34bc8b",
+            "source": "spacenews",
+            "text": "Space is having its internet moment. Investors should act accordingly.",
+            "source_link": "https://spacenews.com/space-is-having-its-internet-moment-investors-should-act-accordingly/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-12T11:09:32.147391Z",
+            "shown_at": [
+                "2026-05-12T11:09:36.613426Z"
             ]
         }
     ]

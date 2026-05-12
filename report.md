@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 8 | 22 | 43 |
+| spacenews | 7 | 9 | 23 | 44 |
 | nyt | 0 | 1 | 17 | 37 |
 
 # Shown Order
@@ -2215,3 +2215,4 @@
 - **May 12, 09:24 AM** - Swift reboost mission completes environmental tests (spacenews)
 - **May 12, 09:59 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
 - **May 12, 10:34 AM** - Redwire pursues opportunities in landers and power systems for NASA’s moon base plans (spacenews)
+- **May 12, 11:09 AM** - Space is having its internet moment. Investors should act accordingly. (spacenews)
