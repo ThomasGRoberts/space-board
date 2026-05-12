@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-12T00:04:24.003149+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3af2c4437913c35674e27c6082c05632",
+    "trigger_count": 0,
+    "current_item_id": "36d7e77a7c26db083c56e34d63fb680a",
     "data": [
         {
             "id": "87b71e8821dc498a050013c93dcbe532",
@@ -7756,9 +7756,12 @@
             "source": "spacenews",
             "text": "Star Catcher raises $65 million for space power grid",
             "source_link": "https://spacenews.com/star-catcher-raises-65-million-for-space-power-grid/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-05-12T14:46:32.590581Z"
+            "fetched_datetime": "2026-05-12T14:46:32.590581Z",
+            "shown_at": [
+                "2026-05-12T16:29:16.256889Z"
+            ]
         },
         {
             "id": "3af2c4437913c35674e27c6082c05632",

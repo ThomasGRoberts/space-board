@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 11 | 20 | 42 |
-| nyt | 0 | 1 | 17 | 35 |
+| spacenews | 6 | 11 | 21 | 43 |
+| nyt | 0 | 1 | 16 | 35 |
 | breaking_defense | 1 | 1 | 1 | 1 |
 
 # Shown Order
@@ -2223,3 +2223,4 @@
 - **May 12, 01:53 PM** - Lunar Outpost raises $30 million (spacenews)
 - **May 12, 02:46 PM** - Space Force awards TrustPoint $4 million for LEO navigation demonstration (spacenews)
 - **May 12, 03:46 PM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
+- **May 12, 04:29 PM** - Star Catcher raises $65 million for space power grid (spacenews)
