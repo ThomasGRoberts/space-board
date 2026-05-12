@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 8 | 22 | 43 |
-| nyt | 0 | 1 | 17 | 37 |
+| nyt | 0 | 1 | 18 | 38 |
 
 # Shown Order
 
@@ -2211,3 +2211,4 @@
 - **May 12, 07:00 AM** - Ignition relaunches Artemis plans (spacenews)
 - **May 12, 07:39 AM** - U.F.O. Files Released by U.S. Shed Light on What the Government Knows (nyt)
 - **May 12, 08:14 AM** - MDA Space continues work on Gateway robotic arm (spacenews)
+- **May 12, 08:49 AM** - Pentagon Releases Files on U.F.O.s (nyt)
