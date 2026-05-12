@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 21 | 43 |
-| nyt | 0 | 1 | 15 | 33 |
+| nyt | 0 | 1 | 16 | 34 |
 | breaking_defense | 1 | 1 | 2 | 2 |
 
 # Shown Order
@@ -2228,3 +2228,4 @@
 - **May 12, 05:44 PM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
 - **May 12, 06:19 PM** - Rocket Lab announces large launch contract and plans to acquire space robotics company (spacenews)
 - **May 12, 06:54 PM** - Quantum Space to build spacecraft in Tulsa (spacenews)
+- **May 12, 07:29 PM** - U.S.-China Rivalry Reaches South American Skies (nyt)
