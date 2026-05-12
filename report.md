@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 8 | 22 | 43 |
-| nyt | 1 | 1 | 17 | 37 |
+| nyt | 1 | 1 | 18 | 38 |
 
 # Shown Order
 
@@ -2199,3 +2199,4 @@
 - **May 11, 11:54 PM** - MDA Space continues work on Gateway robotic arm (spacenews)
 - **May 12, 12:29 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
 - **May 12, 01:04 AM** - Do AI tools undermine trust in geospatial imagery? (spacenews)
+- **May 12, 01:39 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
