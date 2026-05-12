@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-12T00:04:24.003149+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a7238091833ae10fb51983742158fbec",
+    "trigger_count": 0,
+    "current_item_id": "f1afbd70dcd1ee9e05662196e5cd2dc1",
     "data": [
         {
             "id": "87b71e8821dc498a050013c93dcbe532",
@@ -7776,6 +7776,18 @@
             "shown_at": [
                 "2026-05-12T15:46:00.404516Z",
                 "2026-05-12T17:44:31.161797Z"
+            ]
+        },
+        {
+            "id": "f1afbd70dcd1ee9e05662196e5cd2dc1",
+            "source": "spacenews",
+            "text": "Quantum Space to build spacecraft in Tulsa",
+            "source_link": "https://spacenews.com/quantum-space-to-build-spacecraft-in-tulsa/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-12T18:54:19.206700Z",
+            "shown_at": [
+                "2026-05-12T18:54:20.296366Z"
             ]
         }
     ]
