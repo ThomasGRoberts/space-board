@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 20 | 42 |
-| nyt | 0 | 1 | 15 | 33 |
+| nyt | 0 | 1 | 16 | 34 |
 | breaking_defense | 1 | 1 | 3 | 3 |
 
 # Shown Order
@@ -2231,3 +2231,4 @@
 - **May 12, 07:29 PM** - U.S.-China Rivalry Reaches South American Skies (nyt)
 - **May 12, 08:04 PM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
 - **May 12, 08:39 PM** - Astranis secures $450 million in equity, debt to expand small GEO satellite production (spacenews)
+- **May 12, 09:14 PM** - Pentagon Releases Files on U.F.O.s (nyt)
