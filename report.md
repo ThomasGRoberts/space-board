@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 8 | 22 | 42 |
+| spacenews | 7 | 8 | 23 | 43 |
 | nyt | 0 | 1 | 17 | 38 |
 
 # Shown Order
@@ -2210,3 +2210,4 @@
 - **May 12, 06:19 AM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
 - **May 12, 07:00 AM** - Ignition relaunches Artemis plans (spacenews)
 - **May 12, 07:39 AM** - U.F.O. Files Released by U.S. Shed Light on What the Government Knows (nyt)
+- **May 12, 08:14 AM** - MDA Space continues work on Gateway robotic arm (spacenews)
