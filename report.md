@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 10 | 22 | 43 |
-| nyt | 0 | 1 | 18 | 38 |
+| spacenews | 5 | 10 | 21 | 43 |
+| nyt | 0 | 1 | 18 | 37 |
 
 # Shown Order
 
