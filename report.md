@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 20 | 42 |
 | nyt | 0 | 1 | 15 | 33 |
-| breaking_defense | 1 | 1 | 3 | 3 |
+| breaking_defense | 2 | 2 | 4 | 4 |
 
 # Shown Order
 
@@ -2233,3 +2233,4 @@
 - **May 12, 08:39 PM** - Astranis secures $450 million in equity, debt to expand small GEO satellite production (spacenews)
 - **May 12, 09:14 PM** - Pentagon Releases Files on U.F.O.s (nyt)
 - **May 12, 09:49 PM** - Congressional Budget Office estimates $1.2 trillion price tag for Golden Dome (spacenews)
+- **May 12, 10:24 PM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)

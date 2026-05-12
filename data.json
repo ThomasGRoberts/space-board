@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-12T00:04:24.003149+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ced5b61c7f30a473827829d854d909a7",
+    "trigger_count": 0,
+    "current_item_id": "b9b8971f34a114856dd28b97173b79ab",
     "data": [
         {
             "id": "87b71e8821dc498a050013c93dcbe532",
@@ -7804,6 +7804,18 @@
             "fetched_datetime": "2026-05-12T21:49:24.903541Z",
             "shown_at": [
                 "2026-05-12T21:49:25.861505Z"
+            ]
+        },
+        {
+            "id": "b9b8971f34a114856dd28b97173b79ab",
+            "source": "breaking_defense",
+            "text": "US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief",
+            "source_link": "https://breakingdefense.com/2026/05/us-close-allies-creating-joint-orbital-warfare-plan-spacecom-chief/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-12T22:24:24.832310Z",
+            "shown_at": [
+                "2026-05-12T22:24:26.088018Z"
             ]
         }
     ]
