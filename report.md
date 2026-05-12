@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 8 | 22 | 43 |
-| nyt | 0 | 1 | 17 | 37 |
+| nyt | 0 | 1 | 18 | 38 |
 
 # Shown Order
 
@@ -2209,3 +2209,4 @@
 - **May 12, 05:44 AM** - Roadmap for a space-to-space economy (spacenews)
 - **May 12, 06:19 AM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
 - **May 12, 07:00 AM** - Ignition relaunches Artemis plans (spacenews)
+- **May 12, 07:39 AM** - U.F.O. Files Released by U.S. Shed Light on What the Government Knows (nyt)
