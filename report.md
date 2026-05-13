@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 12 | 15 | 34 |
+| spacenews | 7 | 12 | 16 | 35 |
 | breaking_defense | 1 | 2 | 11 | 14 |
 | nyt | 1 | 1 | 11 | 27 |
 
@@ -2236,3 +2236,4 @@
 - **May 13, 07:59 PM** - Anthropic to consider using SpaceX orbital data center satellites (spacenews)
 - **May 13, 08:39 PM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
 - **May 13, 09:14 PM** - U.S.-China Rivalry Reaches South American Skies (nyt)
+- **May 13, 09:49 PM** - Northrop Grumman targets lunar navigation market with Webb-derived guidance system (spacenews)
