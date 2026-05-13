@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 13 | 17 | 38 |
 | breaking_defense | 2 | 2 | 11 | 11 |
-| nyt | 1 | 1 | 10 | 28 |
+| nyt | 1 | 1 | 11 | 29 |
 
 # Shown Order
 
@@ -2225,3 +2225,4 @@
 - **May 13, 11:49 AM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
 - **May 13, 12:24 PM** - SES joins Eutelsat in canceling GEO expansion satellites (spacenews)
 - **May 13, 12:59 PM** - SpaceX sets date for first Starship version 3 launch (spacenews)
+- **May 13, 01:34 PM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
