@@ -1,9 +1,119 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-05-12T00:04:24.003149+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2026-05-13T00:04:47.301723+00:00",
+    "trigger_count": 6,
     "current_item_id": "9020baccaac675375f52486f5b653989",
     "data": [
+        {
+            "id": "0171fbeb2095052005c3ea80303a43b0",
+            "source": "spacenews",
+            "text": "FCC approves SpaceX spectrum deal with $2.4 billion escrow condition",
+            "source_link": "https://spacenews.com/fcc-approves-spacex-spectrum-deal-with-2-4-billion-escrow-condition/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-12T22:59:06.899113Z",
+            "shown_at": [
+                "2026-05-12T22:59:07.915718Z"
+            ]
+        },
+        {
+            "id": "b9b8971f34a114856dd28b97173b79ab",
+            "source": "breaking_defense",
+            "text": "US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief",
+            "source_link": "https://breakingdefense.com/2026/05/us-close-allies-creating-joint-orbital-warfare-plan-spacecom-chief/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-12T22:24:24.832310Z",
+            "shown_at": [
+                "2026-05-12T22:24:26.088018Z"
+            ]
+        },
+        {
+            "id": "ced5b61c7f30a473827829d854d909a7",
+            "source": "spacenews",
+            "text": "Congressional Budget Office estimates $1.2 trillion price tag for Golden Dome",
+            "source_link": "https://spacenews.com/congressional-budget-office-estimates-1-2-trillion-price-tag-for-golden-dome/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-12T21:49:24.903541Z",
+            "shown_at": [
+                "2026-05-12T21:49:25.861505Z"
+            ]
+        },
+        {
+            "id": "f1afbd70dcd1ee9e05662196e5cd2dc1",
+            "source": "spacenews",
+            "text": "Quantum Space to build spacecraft in Tulsa",
+            "source_link": "https://spacenews.com/quantum-space-to-build-spacecraft-in-tulsa/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-12T18:54:19.206700Z",
+            "shown_at": [
+                "2026-05-12T18:54:20.296366Z"
+            ]
+        },
+        {
+            "id": "3af2c4437913c35674e27c6082c05632",
+            "source": "breaking_defense",
+            "text": "SOCOM to test SkyFi satellite imagery-to-tablet prototype",
+            "source_link": "https://breakingdefense.com/2026/05/socom-to-test-skyfi-satellite-imagery-to-tablet-prototype/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-12T15:45:59.664449Z",
+            "shown_at": [
+                "2026-05-12T15:46:00.404516Z",
+                "2026-05-12T17:44:31.161797Z",
+                "2026-05-12T20:04:31.845651Z"
+            ]
+        },
+        {
+            "id": "36d7e77a7c26db083c56e34d63fb680a",
+            "source": "spacenews",
+            "text": "Star Catcher raises $65 million for space power grid",
+            "source_link": "https://spacenews.com/star-catcher-raises-65-million-for-space-power-grid/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-12T14:46:32.590581Z",
+            "shown_at": [
+                "2026-05-12T16:29:16.256889Z"
+            ]
+        },
+        {
+            "id": "9770779c84bea20e41424bdd8c5223d8",
+            "source": "spacenews",
+            "text": "Space Force awards TrustPoint $4 million for LEO navigation demonstration",
+            "source_link": "https://spacenews.com/space-force-awards-trustpoint-4-million-for-leo-navigation-demonstration/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-12T14:46:32.590525Z",
+            "shown_at": [
+                "2026-05-12T14:46:33.579505Z"
+            ]
+        },
+        {
+            "id": "db2255af90b190f2f76ff8bfe9a7c433",
+            "source": "spacenews",
+            "text": "Transcelestial tests space-to-ground laser communications technologies",
+            "source_link": "https://spacenews.com/transcelestial-tests-space-to-ground-laser-communications-technologies/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-12T12:24:16.478428Z",
+            "shown_at": [
+                "2026-05-12T12:24:17.485347Z"
+            ]
+        },
+        {
+            "id": "7e138ce79edbfe10cb11b4563a34bc8b",
+            "source": "spacenews",
+            "text": "Space is having its internet moment. Investors should act accordingly.",
+            "source_link": "https://spacenews.com/space-is-having-its-internet-moment-investors-should-act-accordingly/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-12T11:09:32.147391Z",
+            "shown_at": [
+                "2026-05-12T11:09:36.613426Z"
+            ]
+        },
         {
             "id": "87b71e8821dc498a050013c93dcbe532",
             "source": "spacenews",
@@ -7587,248 +7697,6 @@
             "fetched_datetime": "2026-03-15T16:49:06.089269Z",
             "shown_at": [
                 "2026-03-15T16:49:07.065882Z"
-            ]
-        },
-        {
-            "id": "959aa8fca18aa803e58ae26d491b716b",
-            "source": "spacenews",
-            "text": "Strait of Hormuz crisis drives demand for commercial geospatial intelligence",
-            "source_link": "https://spacenews.com/strait-of-hormuz-crisis-drives-demand-for-commercial-geospatial-intelligence/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-15T15:39:08.078695Z",
-            "shown_at": [
-                "2026-03-15T15:39:09.074744Z",
-                "2026-03-19T16:34:35.336074Z",
-                "2026-03-20T06:49:31.605317Z",
-                "2026-03-22T06:54:19.347972Z"
-            ]
-        },
-        {
-            "id": "e58124ce1cbdbf2b43bcbe9cffc8e933",
-            "source": "spacenews",
-            "text": "Raytheon contract for protected satellite communications terminals raised by $2 billion",
-            "source_link": "https://spacenews.com/raytheon-contract-for-protected-satellite-communications-terminals-raised-by-2-billion/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-15T13:19:28.564471Z",
-            "shown_at": [
-                "2026-03-15T13:19:29.577030Z",
-                "2026-03-18T01:24:52.491910Z",
-                "2026-03-19T06:49:20.594068Z",
-                "2026-03-19T21:19:38.711329Z",
-                "2026-03-21T08:59:18.664640Z"
-            ]
-        },
-        {
-            "id": "6f206d0cbba81f7e4e3562819477902f",
-            "source": "spacenews",
-            "text": "iMetalX emerges from stealth with technology to model resident space objects",
-            "source_link": "https://spacenews.com/imetalx-emerges-from-stealth-with-technology-to-model-resident-space-objects/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-13T23:53:59.544852Z",
-            "shown_at": [
-                "2026-03-13T23:54:00.860935Z",
-                "2026-03-14T05:44:11.293474Z",
-                "2026-03-14T18:34:21.012123Z",
-                "2026-03-16T06:54:22.099361Z",
-                "2026-03-16T19:59:14.859051Z",
-                "2026-03-18T00:14:17.047680Z",
-                "2026-03-18T06:04:41.608916Z",
-                "2026-03-18T17:54:36.473904Z",
-                "2026-03-20T14:24:58.337429Z"
-            ]
-        },
-        {
-            "id": "77838cb0ad403931efe487f9f84be86d",
-            "source": "spacenews",
-            "text": "Astroscale selects Isar Aerospace to launch ELSA-M mission",
-            "source_link": "https://spacenews.com/astroscale-selects-isar-aerospace-to-launch-elsa-m-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-13T21:34:53.248985Z",
-            "shown_at": [
-                "2026-03-13T21:34:54.431948Z",
-                "2026-03-14T11:34:24.168996Z"
-            ]
-        },
-        {
-            "id": "c55f46d426391e86b7a869792bef0bf7",
-            "source": "spacenews",
-            "text": "China is developing low-cost lunar cargo options for its expanding moon program",
-            "source_link": "https://spacenews.com/china-is-developing-low-cost-lunar-cargo-options-for-its-expanding-moon-program/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-13T20:59:11.332099Z",
-            "shown_at": [
-                "2026-03-13T20:59:12.436135Z",
-                "2026-03-15T09:49:25.169576Z"
-            ]
-        },
-        {
-            "id": "bd4767fb1451f7acfc5992783196ed0d",
-            "source": "spacenews",
-            "text": "Ukraine will host first test for Leonardo’s Michelangelo security dome",
-            "source_link": "https://spacenews.com/ukraine-will-host-first-test-for-leonardos-michelangelo-security-dome/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-13T19:14:41.959567Z",
-            "shown_at": [
-                "2026-03-13T19:14:43.249073Z",
-                "2026-03-16T09:54:28.450870Z",
-                "2026-03-17T09:24:31.346009Z"
-            ]
-        },
-        {
-            "id": "c342513e7e475c0a429b9f9b149f0438",
-            "source": "spacenews",
-            "text": "Eutelsat exits two Russian capacity leases after satellite failure",
-            "source_link": "https://spacenews.com/eutelsat-exits-two-russian-capacity-leases-after-satellite-failure/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-13T16:54:33.307024Z",
-            "shown_at": [
-                "2026-03-13T16:54:34.362385Z",
-                "2026-03-14T01:04:36.140652Z"
-            ]
-        },
-        {
-            "id": "5062a0caa6eccda7b5fcc7cea4cbeeef",
-            "source": "spacenews",
-            "text": "Kazakhstan must choose: be Eurasia’s tech broker or become a pawn in the new global space race",
-            "source_link": "https://spacenews.com/kazakhstan-must-choose-be-eurasias-tech-broker-or-become-a-pawn-in-the-new-global-space-race/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-13T13:19:24.800948Z",
-            "shown_at": [
-                "2026-03-13T13:19:25.923245Z",
-                "2026-03-14T08:04:57.175005Z",
-                "2026-03-20T02:04:36.753350Z"
-            ]
-        },
-        {
-            "id": "0789c164fb64feaa8eb3972e66da9606",
-            "source": "spacenews",
-            "text": "China ends month-long launch hiatus with separate Guowang and Shiyan-30 satellite missions",
-            "source_link": "https://spacenews.com/china-ends-month-long-launch-hiatus-with-separate-guowang-and-shiyan-30-satellite-missions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-13T11:29:05.613976Z",
-            "shown_at": [
-                "2026-03-13T12:09:22.250252Z",
-                "2026-03-15T22:44:40.953196Z",
-                "2026-03-19T04:29:17.823863Z"
-            ]
-        },
-        {
-            "id": "7e138ce79edbfe10cb11b4563a34bc8b",
-            "source": "spacenews",
-            "text": "Space is having its internet moment. Investors should act accordingly.",
-            "source_link": "https://spacenews.com/space-is-having-its-internet-moment-investors-should-act-accordingly/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-12T11:09:32.147391Z",
-            "shown_at": [
-                "2026-05-12T11:09:36.613426Z"
-            ]
-        },
-        {
-            "id": "db2255af90b190f2f76ff8bfe9a7c433",
-            "source": "spacenews",
-            "text": "Transcelestial tests space-to-ground laser communications technologies",
-            "source_link": "https://spacenews.com/transcelestial-tests-space-to-ground-laser-communications-technologies/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-12T12:24:16.478428Z",
-            "shown_at": [
-                "2026-05-12T12:24:17.485347Z"
-            ]
-        },
-        {
-            "id": "9770779c84bea20e41424bdd8c5223d8",
-            "source": "spacenews",
-            "text": "Space Force awards TrustPoint $4 million for LEO navigation demonstration",
-            "source_link": "https://spacenews.com/space-force-awards-trustpoint-4-million-for-leo-navigation-demonstration/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-12T14:46:32.590525Z",
-            "shown_at": [
-                "2026-05-12T14:46:33.579505Z"
-            ]
-        },
-        {
-            "id": "36d7e77a7c26db083c56e34d63fb680a",
-            "source": "spacenews",
-            "text": "Star Catcher raises $65 million for space power grid",
-            "source_link": "https://spacenews.com/star-catcher-raises-65-million-for-space-power-grid/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-12T14:46:32.590581Z",
-            "shown_at": [
-                "2026-05-12T16:29:16.256889Z"
-            ]
-        },
-        {
-            "id": "3af2c4437913c35674e27c6082c05632",
-            "source": "breaking_defense",
-            "text": "SOCOM to test SkyFi satellite imagery-to-tablet prototype",
-            "source_link": "https://breakingdefense.com/2026/05/socom-to-test-skyfi-satellite-imagery-to-tablet-prototype/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-12T15:45:59.664449Z",
-            "shown_at": [
-                "2026-05-12T15:46:00.404516Z",
-                "2026-05-12T17:44:31.161797Z",
-                "2026-05-12T20:04:31.845651Z"
-            ]
-        },
-        {
-            "id": "f1afbd70dcd1ee9e05662196e5cd2dc1",
-            "source": "spacenews",
-            "text": "Quantum Space to build spacecraft in Tulsa",
-            "source_link": "https://spacenews.com/quantum-space-to-build-spacecraft-in-tulsa/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-12T18:54:19.206700Z",
-            "shown_at": [
-                "2026-05-12T18:54:20.296366Z"
-            ]
-        },
-        {
-            "id": "ced5b61c7f30a473827829d854d909a7",
-            "source": "spacenews",
-            "text": "Congressional Budget Office estimates $1.2 trillion price tag for Golden Dome",
-            "source_link": "https://spacenews.com/congressional-budget-office-estimates-1-2-trillion-price-tag-for-golden-dome/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-12T21:49:24.903541Z",
-            "shown_at": [
-                "2026-05-12T21:49:25.861505Z"
-            ]
-        },
-        {
-            "id": "b9b8971f34a114856dd28b97173b79ab",
-            "source": "breaking_defense",
-            "text": "US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief",
-            "source_link": "https://breakingdefense.com/2026/05/us-close-allies-creating-joint-orbital-warfare-plan-spacecom-chief/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-12T22:24:24.832310Z",
-            "shown_at": [
-                "2026-05-12T22:24:26.088018Z"
-            ]
-        },
-        {
-            "id": "0171fbeb2095052005c3ea80303a43b0",
-            "source": "spacenews",
-            "text": "FCC approves SpaceX spectrum deal with $2.4 billion escrow condition",
-            "source_link": "https://spacenews.com/fcc-approves-spacex-spectrum-deal-with-2-4-billion-escrow-condition/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-12T22:59:06.899113Z",
-            "shown_at": [
-                "2026-05-12T22:59:07.915718Z"
             ]
         }
     ]
