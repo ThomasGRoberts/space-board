@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 15 | 35 |
 | breaking_defense | 1 | 2 | 11 | 14 |
-| nyt | 1 | 1 | 11 | 26 |
+| nyt | 1 | 1 | 12 | 27 |
 
 # Shown Order
 
@@ -2235,3 +2235,4 @@
 - **May 13, 07:24 PM** - Pentagon Releases Files on U.F.O.s (nyt)
 - **May 13, 07:59 PM** - Anthropic to consider using SpaceX orbital data center satellites (spacenews)
 - **May 13, 08:39 PM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
+- **May 13, 09:14 PM** - U.S.-China Rivalry Reaches South American Skies (nyt)
