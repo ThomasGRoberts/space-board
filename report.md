@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 14 | 19 | 41 |
+| spacenews | 7 | 14 | 20 | 42 |
 | breaking_defense | 2 | 2 | 5 | 5 |
 | nyt | 0 | 1 | 14 | 32 |
 
@@ -2204,3 +2204,4 @@
 - **May 12, 10:59 PM** - FCC approves SpaceX spectrum deal with $2.4 billion escrow condition (spacenews)
 - **May 12, 11:34 PM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
 - **May 13, 12:09 AM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
+- **May 13, 12:44 AM** - Roadmap for a space-to-space economy (spacenews)
