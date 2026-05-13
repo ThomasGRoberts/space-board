@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 14 | 18 | 41 |
+| spacenews | 7 | 14 | 19 | 42 |
 | breaking_defense | 2 | 2 | 6 | 6 |
 | nyt | 0 | 0 | 14 | 31 |
 
@@ -2207,3 +2207,4 @@
 - **May 13, 12:44 AM** - Roadmap for a space-to-space economy (spacenews)
 - **May 13, 01:19 AM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
 - **May 13, 01:54 AM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
+- **May 13, 02:29 AM** - Between resource scarcity and orbital inflation: rethinking the space model (spacenews)
