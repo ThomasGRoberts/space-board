@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 16 | 39 |
-| breaking_defense | 2 | 2 | 10 | 10 |
-| nyt | 1 | 1 | 12 | 28 |
+| breaking_defense | 2 | 2 | 11 | 11 |
+| nyt | 1 | 1 | 11 | 28 |
 
 # Shown Order
 
@@ -2222,3 +2222,4 @@
 - **May 13, 09:59 AM** - Former NASA chief of staff returns to lead agency launch operations (spacenews)
 - **May 13, 10:34 AM** - Varda to collaborate with United Therapeutics on microgravity drug research (spacenews)
 - **May 13, 11:14 AM** - 5 Great Stargazing Trains (nyt)
+- **May 13, 11:49 AM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
