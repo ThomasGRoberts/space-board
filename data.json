@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-13T00:04:47.301723+00:00",
-    "trigger_count": 6,
-    "current_item_id": "79792fdcba8d99e36bbcab179aab0ffc",
+    "trigger_count": 0,
+    "current_item_id": "57de20b000c827965842556d3855d193",
     "data": [
         {
             "id": "0171fbeb2095052005c3ea80303a43b0",
@@ -7758,9 +7758,12 @@
             "source": "spacenews",
             "text": "SpaceX sets date for first Starship version 3 launch",
             "source_link": "https://spacenews.com/spacex-sets-date-for-first-starship-version-3-launch/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-05-13T12:24:31.563295Z"
+            "fetched_datetime": "2026-05-13T12:24:31.563295Z",
+            "shown_at": [
+                "2026-05-13T12:59:16.195202Z"
+            ]
         }
     ]
 }

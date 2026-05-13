@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 16 | 38 |
+| spacenews | 8 | 15 | 17 | 39 |
 | breaking_defense | 2 | 2 | 11 | 11 |
 | nyt | 1 | 1 | 11 | 28 |
 
@@ -2224,3 +2224,4 @@
 - **May 13, 11:14 AM** - 5 Great Stargazing Trains (nyt)
 - **May 13, 11:49 AM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
 - **May 13, 12:24 PM** - SES joins Eutelsat in canceling GEO expansion satellites (spacenews)
+- **May 13, 12:59 PM** - SpaceX sets date for first Starship version 3 launch (spacenews)
