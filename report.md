@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 15 | 36 |
 | breaking_defense | 1 | 2 | 11 | 13 |
-| nyt | 1 | 1 | 11 | 26 |
+| nyt | 1 | 1 | 12 | 27 |
 
 # Shown Order
 
@@ -2232,3 +2232,4 @@
 - **May 13, 05:29 PM** - Pentagon Releases Files on U.F.O.s (nyt)
 - **May 13, 06:10 PM** - Former NASA chief of staff returns to lead agency launch operations (spacenews)
 - **May 13, 06:49 PM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
+- **May 13, 07:24 PM** - Pentagon Releases Files on U.F.O.s (nyt)
