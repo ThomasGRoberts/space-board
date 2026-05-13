@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 14 | 16 | 38 |
+| spacenews | 8 | 16 | 16 | 39 |
 | breaking_defense | 2 | 2 | 11 | 11 |
 | nyt | 1 | 1 | 11 | 28 |
 
@@ -2223,3 +2223,4 @@
 - **May 13, 10:34 AM** - Varda to collaborate with United Therapeutics on microgravity drug research (spacenews)
 - **May 13, 11:14 AM** - 5 Great Stargazing Trains (nyt)
 - **May 13, 11:49 AM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
+- **May 13, 12:24 PM** - SES joins Eutelsat in canceling GEO expansion satellites (spacenews)

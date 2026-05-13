@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-13T00:04:47.301723+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3af2c4437913c35674e27c6082c05632",
+    "trigger_count": 0,
+    "current_item_id": "79792fdcba8d99e36bbcab179aab0ffc",
     "data": [
         {
             "id": "0171fbeb2095052005c3ea80303a43b0",
@@ -7740,6 +7740,27 @@
             "shown_at": [
                 "2026-05-13T11:14:33.097928Z"
             ]
+        },
+        {
+            "id": "79792fdcba8d99e36bbcab179aab0ffc",
+            "source": "spacenews",
+            "text": "SES joins Eutelsat in canceling GEO expansion satellites",
+            "source_link": "https://spacenews.com/ses-joins-eutelsat-in-canceling-geo-expansion-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-13T12:24:31.563217Z",
+            "shown_at": [
+                "2026-05-13T12:24:32.558124Z"
+            ]
+        },
+        {
+            "id": "57de20b000c827965842556d3855d193",
+            "source": "spacenews",
+            "text": "SpaceX sets date for first Starship version 3 launch",
+            "source_link": "https://spacenews.com/spacex-sets-date-for-first-starship-version-3-launch/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-05-13T12:24:31.563295Z"
         }
     ]
 }
