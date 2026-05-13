@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 14 | 18 | 40 |
+| spacenews | 7 | 14 | 19 | 41 |
 | breaking_defense | 2 | 2 | 7 | 7 |
 | nyt | 0 | 0 | 13 | 31 |
 
@@ -2210,3 +2210,4 @@
 - **May 13, 02:29 AM** - Between resource scarcity and orbital inflation: rethinking the space model (spacenews)
 - **May 13, 03:09 AM** - Pentagon Releases Files on U.F.O.s (nyt)
 - **May 13, 03:44 AM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
+- **May 13, 04:19 AM** - NASA retaining six-month ISS missions (spacenews)
