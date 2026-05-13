@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-13T00:04:47.301723+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9020baccaac675375f52486f5b653989",
+    "trigger_count": 0,
+    "current_item_id": "f6e7881e4b1eddf5072755a0d3be8f01",
     "data": [
         {
             "id": "0171fbeb2095052005c3ea80303a43b0",
@@ -7765,6 +7765,27 @@
             "shown_at": [
                 "2026-05-13T12:59:16.195202Z"
             ]
+        },
+        {
+            "id": "f6e7881e4b1eddf5072755a0d3be8f01",
+            "source": "spacenews",
+            "text": "Rocketeers are Competing at the IREC for Your Attention",
+            "source_link": "https://spacenews.com/rocketeers-are-competing-at-the-irec-for-your-attention/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-13T14:37:03.208436Z",
+            "shown_at": [
+                "2026-05-13T14:37:04.043547Z"
+            ]
+        },
+        {
+            "id": "7ecebc106cf7ad6cf693fb11f43297c9",
+            "source": "spacenews",
+            "text": "Northrop Grumman targets lunar navigation market with Webb-derived guidance system",
+            "source_link": "https://spacenews.com/northrop-grumman-targets-lunar-navigation-market-with-webb-derived-guidance-system/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-05-13T14:37:03.208505Z"
         }
     ]
 }
