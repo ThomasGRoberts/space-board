@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 14 | 16 | 37 |
+| spacenews | 8 | 14 | 17 | 38 |
 | breaking_defense | 2 | 2 | 11 | 11 |
 | nyt | 1 | 1 | 11 | 28 |
 
@@ -2227,3 +2227,4 @@
 - **May 13, 12:59 PM** - SpaceX sets date for first Starship version 3 launch (spacenews)
 - **May 13, 01:34 PM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
 - **May 13, 02:37 PM** - Rocketeers are Competing at the IREC for Your Attention (spacenews)
+- **May 13, 03:39 PM** - Northrop Grumman targets lunar navigation market with Webb-derived guidance system (spacenews)

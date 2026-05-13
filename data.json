@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-13T00:04:47.301723+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f6e7881e4b1eddf5072755a0d3be8f01",
+    "trigger_count": 0,
+    "current_item_id": "7ecebc106cf7ad6cf693fb11f43297c9",
     "data": [
         {
             "id": "0171fbeb2095052005c3ea80303a43b0",
@@ -7783,9 +7783,12 @@
             "source": "spacenews",
             "text": "Northrop Grumman targets lunar navigation market with Webb-derived guidance system",
             "source_link": "https://spacenews.com/northrop-grumman-targets-lunar-navigation-market-with-webb-derived-guidance-system/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-05-13T14:37:03.208505Z"
+            "fetched_datetime": "2026-05-13T14:37:03.208505Z",
+            "shown_at": [
+                "2026-05-13T15:39:40.516336Z"
+            ]
         }
     ]
 }
