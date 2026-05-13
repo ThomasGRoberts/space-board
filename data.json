@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-13T00:04:47.301723+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3af2c4437913c35674e27c6082c05632",
+    "trigger_count": 0,
+    "current_item_id": "1172980fe7ec7c8e8e9344f6e9422011",
     "data": [
         {
             "id": "0171fbeb2095052005c3ea80303a43b0",
@@ -7798,6 +7798,18 @@
             "shown_at": [
                 "2026-05-13T15:39:40.516336Z",
                 "2026-05-13T21:49:16.617061Z"
+            ]
+        },
+        {
+            "id": "1172980fe7ec7c8e8e9344f6e9422011",
+            "source": "spacenews",
+            "text": "SLS to launch without upper stage for Artemis 3",
+            "source_link": "https://spacenews.com/sls-to-launch-without-upper-stage-for-artemis-3/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-13T22:59:10.567963Z",
+            "shown_at": [
+                "2026-05-13T22:59:11.582518Z"
             ]
         }
     ]
