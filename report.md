@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 15 | 35 |
 | breaking_defense | 0 | 2 | 11 | 15 |
-| nyt | 1 | 1 | 11 | 25 |
+| nyt | 1 | 1 | 11 | 26 |
 
 # Shown Order
 
@@ -2239,3 +2239,4 @@
 - **May 13, 09:49 PM** - Northrop Grumman targets lunar navigation market with Webb-derived guidance system (spacenews)
 - **May 13, 10:24 PM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
 - **May 13, 10:59 PM** - SLS to launch without upper stage for Artemis 3 (spacenews)
+- **May 13, 11:34 PM** - U.F.O. Files Released by U.S. Shed Light on What the Government Knows (nyt)
