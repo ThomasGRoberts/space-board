@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 15 | 35 |
-| breaking_defense | 1 | 2 | 11 | 14 |
+| breaking_defense | 1 | 2 | 12 | 15 |
 | nyt | 1 | 1 | 11 | 26 |
 
 # Shown Order
@@ -2237,3 +2237,4 @@
 - **May 13, 08:39 PM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
 - **May 13, 09:14 PM** - U.S.-China Rivalry Reaches South American Skies (nyt)
 - **May 13, 09:49 PM** - Northrop Grumman targets lunar navigation market with Webb-derived guidance system (spacenews)
+- **May 13, 10:24 PM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
