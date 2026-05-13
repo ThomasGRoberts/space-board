@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 14 | 17 | 37 |
-| breaking_defense | 1 | 2 | 10 | 11 |
-| nyt | 1 | 1 | 11 | 28 |
+| spacenews | 8 | 14 | 16 | 37 |
+| breaking_defense | 1 | 2 | 11 | 12 |
+| nyt | 1 | 1 | 11 | 27 |
 
 # Shown Order
 
@@ -2228,3 +2228,4 @@
 - **May 13, 01:34 PM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
 - **May 13, 02:37 PM** - Rocketeers are Competing at the IREC for Your Attention (spacenews)
 - **May 13, 03:39 PM** - Northrop Grumman targets lunar navigation market with Webb-derived guidance system (spacenews)
+- **May 13, 04:30 PM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
