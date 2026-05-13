@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 13 | 16 | 36 |
 | breaking_defense | 1 | 2 | 11 | 12 |
-| nyt | 1 | 1 | 10 | 27 |
+| nyt | 1 | 1 | 11 | 28 |
 
 # Shown Order
 
@@ -2229,3 +2229,4 @@
 - **May 13, 02:37 PM** - Rocketeers are Competing at the IREC for Your Attention (spacenews)
 - **May 13, 03:39 PM** - Northrop Grumman targets lunar navigation market with Webb-derived guidance system (spacenews)
 - **May 13, 04:30 PM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
+- **May 13, 05:29 PM** - Pentagon Releases Files on U.F.O.s (nyt)
