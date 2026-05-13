@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 18 | 41 |
 | breaking_defense | 2 | 2 | 7 | 7 |
-| nyt | 0 | 0 | 13 | 30 |
+| nyt | 0 | 0 | 14 | 31 |
 
 # Shown Order
 
@@ -2211,3 +2211,4 @@
 - **May 13, 03:09 AM** - Pentagon Releases Files on U.F.O.s (nyt)
 - **May 13, 03:44 AM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
 - **May 13, 04:19 AM** - NASA retaining six-month ISS missions (spacenews)
+- **May 13, 04:54 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
