@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 13 | 16 | 36 |
-| breaking_defense | 1 | 2 | 10 | 13 |
+| spacenews | 7 | 13 | 15 | 36 |
+| breaking_defense | 1 | 2 | 11 | 14 |
 | nyt | 1 | 1 | 11 | 26 |
 
 # Shown Order
@@ -2234,3 +2234,4 @@
 - **May 13, 06:49 PM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
 - **May 13, 07:24 PM** - Pentagon Releases Files on U.F.O.s (nyt)
 - **May 13, 07:59 PM** - Anthropic to consider using SpaceX orbital data center satellites (spacenews)
+- **May 13, 08:39 PM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
