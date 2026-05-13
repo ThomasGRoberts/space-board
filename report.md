@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 14 | 16 | 38 |
+| spacenews | 7 | 14 | 17 | 39 |
 | breaking_defense | 2 | 2 | 10 | 10 |
-| nyt | 0 | 0 | 12 | 29 |
+| nyt | 0 | 0 | 11 | 29 |
 
 # Shown Order
 
@@ -2219,3 +2219,4 @@
 - **May 13, 08:09 AM** - NGA Rapid Capabilities Office to embrace speed and risk-taking (spacenews)
 - **May 13, 08:49 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
 - **May 13, 09:24 AM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
+- **May 13, 09:59 AM** - Former NASA chief of staff returns to lead agency launch operations (spacenews)
