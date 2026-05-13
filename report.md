@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 13 | 16 | 36 |
-| breaking_defense | 1 | 2 | 10 | 12 |
+| breaking_defense | 1 | 2 | 11 | 13 |
 | nyt | 1 | 1 | 11 | 27 |
 
 # Shown Order
@@ -2231,3 +2231,4 @@
 - **May 13, 04:30 PM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
 - **May 13, 05:29 PM** - Pentagon Releases Files on U.F.O.s (nyt)
 - **May 13, 06:10 PM** - Former NASA chief of staff returns to lead agency launch operations (spacenews)
+- **May 13, 06:49 PM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
