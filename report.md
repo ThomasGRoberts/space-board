@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 14 | 17 | 39 |
+| spacenews | 8 | 15 | 18 | 40 |
 | breaking_defense | 2 | 2 | 10 | 10 |
 | nyt | 0 | 0 | 11 | 28 |
 
@@ -2220,3 +2220,4 @@
 - **May 13, 08:49 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
 - **May 13, 09:24 AM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
 - **May 13, 09:59 AM** - Former NASA chief of staff returns to lead agency launch operations (spacenews)
+- **May 13, 10:34 AM** - Varda to collaborate with United Therapeutics on microgravity drug research (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-13T00:04:47.301723+00:00",
-    "trigger_count": 6,
-    "current_item_id": "985d1aa47e9cfe24ce13f2bdf1c98826",
+    "trigger_count": 0,
+    "current_item_id": "c473ce6563c5067a503b69eb981e3835",
     "data": [
         {
             "id": "0171fbeb2095052005c3ea80303a43b0",
@@ -7714,6 +7714,18 @@
             "fetched_datetime": "2026-03-15T16:49:06.089269Z",
             "shown_at": [
                 "2026-03-15T16:49:07.065882Z"
+            ]
+        },
+        {
+            "id": "c473ce6563c5067a503b69eb981e3835",
+            "source": "spacenews",
+            "text": "Varda to collaborate with United Therapeutics on microgravity drug research",
+            "source_link": "https://spacenews.com/varda-to-collaborate-with-united-therapeutics-on-microgravity-drug-research/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-13T10:34:31.656007Z",
+            "shown_at": [
+                "2026-05-13T10:34:32.495229Z"
             ]
         }
     ]
