@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 17 | 39 |
-| breaking_defense | 2 | 2 | 8 | 8 |
+| breaking_defense | 2 | 2 | 9 | 9 |
 | nyt | 0 | 0 | 13 | 30 |
 
 # Shown Order
@@ -2215,3 +2215,4 @@
 - **May 13, 05:29 AM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
 - **May 13, 06:04 AM** - Scout Space raises $18 million to expand orbital tracking technology (spacenews)
 - **May 13, 06:39 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
+- **May 13, 07:34 AM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
