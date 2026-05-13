@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 19 | 41 |
 | breaking_defense | 2 | 2 | 6 | 6 |
-| nyt | 0 | 0 | 13 | 31 |
+| nyt | 0 | 0 | 14 | 32 |
 
 # Shown Order
 
@@ -2208,3 +2208,4 @@
 - **May 13, 01:19 AM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
 - **May 13, 01:54 AM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
 - **May 13, 02:29 AM** - Between resource scarcity and orbital inflation: rethinking the space model (spacenews)
+- **May 13, 03:09 AM** - Pentagon Releases Files on U.F.O.s (nyt)
