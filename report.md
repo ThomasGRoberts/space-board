@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 18 | 41 |
-| breaking_defense | 2 | 2 | 6 | 6 |
+| breaking_defense | 2 | 2 | 7 | 7 |
 | nyt | 0 | 0 | 14 | 31 |
 
 # Shown Order
@@ -2209,3 +2209,4 @@
 - **May 13, 01:54 AM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
 - **May 13, 02:29 AM** - Between resource scarcity and orbital inflation: rethinking the space model (spacenews)
 - **May 13, 03:09 AM** - Pentagon Releases Files on U.F.O.s (nyt)
+- **May 13, 03:44 AM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
