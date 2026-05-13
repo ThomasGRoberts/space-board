@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 14 | 17 | 40 |
+| spacenews | 7 | 14 | 18 | 41 |
 | breaking_defense | 2 | 2 | 8 | 8 |
 | nyt | 0 | 0 | 13 | 30 |
 
@@ -2213,3 +2213,4 @@
 - **May 13, 04:19 AM** - NASA retaining six-month ISS missions (spacenews)
 - **May 13, 04:54 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
 - **May 13, 05:29 AM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
+- **May 13, 06:04 AM** - Scout Space raises $18 million to expand orbital tracking technology (spacenews)
