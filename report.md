@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 17 | 39 |
 | breaking_defense | 2 | 2 | 9 | 9 |
-| nyt | 0 | 0 | 12 | 29 |
+| nyt | 0 | 0 | 13 | 30 |
 
 # Shown Order
 
@@ -2217,3 +2217,4 @@
 - **May 13, 06:39 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
 - **May 13, 07:34 AM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
 - **May 13, 08:09 AM** - NGA Rapid Capabilities Office to embrace speed and risk-taking (spacenews)
+- **May 13, 08:49 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
