@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 19 | 42 |
 | breaking_defense | 2 | 2 | 5 | 5 |
-| nyt | 0 | 1 | 14 | 31 |
+| nyt | 0 | 1 | 15 | 32 |
 
 # Shown Order
 
@@ -2205,3 +2205,4 @@
 - **May 12, 11:34 PM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
 - **May 13, 12:09 AM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
 - **May 13, 12:44 AM** - Roadmap for a space-to-space economy (spacenews)
+- **May 13, 01:19 AM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
