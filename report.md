@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 15 | 32 |
+| spacenews | 6 | 13 | 16 | 33 |
 | nyt | 1 | 1 | 11 | 24 |
 | breaking_defense | 0 | 2 | 11 | 19 |
 
@@ -2193,3 +2193,4 @@
 - **May 14, 04:14 AM** - Special Operations Forces test mobile platform for direct satellite imagery access (spacenews)
 - **May 14, 04:49 AM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
 - **May 14, 05:24 AM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
+- **May 14, 05:59 AM** - Congressional Budget Office estimates $1.2 trillion price tag for Golden Dome (spacenews)
