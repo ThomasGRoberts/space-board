@@ -1,9 +1,94 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-05-13T00:04:47.301723+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2026-05-14T00:04:22.300699+00:00",
+    "trigger_count": 6,
     "current_item_id": "d9e70dec311ad7c9182024dd540f657a",
     "data": [
+        {
+            "id": "1172980fe7ec7c8e8e9344f6e9422011",
+            "source": "spacenews",
+            "text": "SLS to launch without upper stage for Artemis 3",
+            "source_link": "https://spacenews.com/sls-to-launch-without-upper-stage-for-artemis-3/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-13T22:59:10.567963Z",
+            "shown_at": [
+                "2026-05-13T22:59:11.582518Z"
+            ]
+        },
+        {
+            "id": "7ecebc106cf7ad6cf693fb11f43297c9",
+            "source": "spacenews",
+            "text": "Northrop Grumman targets lunar navigation market with Webb-derived guidance system",
+            "source_link": "https://spacenews.com/northrop-grumman-targets-lunar-navigation-market-with-webb-derived-guidance-system/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-13T14:37:03.208505Z",
+            "shown_at": [
+                "2026-05-13T15:39:40.516336Z",
+                "2026-05-13T21:49:16.617061Z"
+            ]
+        },
+        {
+            "id": "f6e7881e4b1eddf5072755a0d3be8f01",
+            "source": "spacenews",
+            "text": "Rocketeers are Competing at the IREC for Your Attention",
+            "source_link": "https://spacenews.com/rocketeers-are-competing-at-the-irec-for-your-attention/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-13T14:37:03.208436Z",
+            "shown_at": [
+                "2026-05-13T14:37:04.043547Z"
+            ]
+        },
+        {
+            "id": "57de20b000c827965842556d3855d193",
+            "source": "spacenews",
+            "text": "SpaceX sets date for first Starship version 3 launch",
+            "source_link": "https://spacenews.com/spacex-sets-date-for-first-starship-version-3-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-13T12:24:31.563295Z",
+            "shown_at": [
+                "2026-05-13T12:59:16.195202Z"
+            ]
+        },
+        {
+            "id": "79792fdcba8d99e36bbcab179aab0ffc",
+            "source": "spacenews",
+            "text": "SES joins Eutelsat in canceling GEO expansion satellites",
+            "source_link": "https://spacenews.com/ses-joins-eutelsat-in-canceling-geo-expansion-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-13T12:24:31.563217Z",
+            "shown_at": [
+                "2026-05-13T12:24:32.558124Z"
+            ]
+        },
+        {
+            "id": "63a7f34de87f041303b6e4971e69ce55",
+            "source": "nyt",
+            "text": "5 Great Stargazing Trains",
+            "source_link": "https://www.nytimes.com/2026/05/13/travel/stargazing-train-rides.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-13T11:14:32.092849Z",
+            "shown_at": [
+                "2026-05-13T11:14:33.097928Z"
+            ]
+        },
+        {
+            "id": "c473ce6563c5067a503b69eb981e3835",
+            "source": "spacenews",
+            "text": "Varda to collaborate with United Therapeutics on microgravity drug research",
+            "source_link": "https://spacenews.com/varda-to-collaborate-with-united-therapeutics-on-microgravity-drug-research/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-13T10:34:31.656007Z",
+            "shown_at": [
+                "2026-05-13T10:34:32.495229Z"
+            ]
+        },
         {
             "id": "0171fbeb2095052005c3ea80303a43b0",
             "source": "spacenews",
@@ -7592,225 +7677,6 @@
                 "2026-03-18T21:29:24.627887Z",
                 "2026-03-21T11:39:09.567669Z",
                 "2026-03-23T07:04:40.566572Z"
-            ]
-        },
-        {
-            "id": "da8778050d37c33d2133faee25c68983",
-            "source": "spacenews",
-            "text": "Kepler Communications: Call for Live-Stream Payload Concepts",
-            "source_link": "https://spacenews.com/kepler-communications-call-for-live-stream-payload-concepts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-16T15:14:45.935418Z",
-            "shown_at": [
-                "2026-03-16T15:14:46.970778Z",
-                "2026-03-17T01:14:18.855910Z",
-                "2026-03-18T10:44:19.247720Z",
-                "2026-03-18T20:19:30.706799Z",
-                "2026-03-19T08:39:20.961420Z",
-                "2026-03-19T14:11:11.522872Z",
-                "2026-03-21T22:09:15.607195Z",
-                "2026-03-22T16:24:28.019139Z"
-            ]
-        },
-        {
-            "id": "d6caad19c3d01398f66a07d6cc53b05a",
-            "source": "spacenews",
-            "text": "Investing in student programs is essential for America’s lead in space",
-            "source_link": "https://spacenews.com/investing-in-student-programs-is-essential-for-americas-lead-in-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-16T14:04:49.426365Z",
-            "shown_at": [
-                "2026-03-16T14:04:50.541434Z",
-                "2026-03-20T03:14:13.081492Z",
-                "2026-03-22T17:34:40.384143Z",
-                "2026-03-22T19:54:20.218371Z"
-            ]
-        },
-        {
-            "id": "82399f26b342e1f52f39a803fa370c51",
-            "source": "spacenews",
-            "text": "New Moog Innovations for the Satellite Market on Full Display at SATELLITE 2026 Conference",
-            "source_link": "https://spacenews.com/new-moog-innovations-for-the-satellite-market-on-full-display-at-satellite-2026-conference/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-16T12:20:02.254519Z",
-            "shown_at": [
-                "2026-03-16T12:20:03.999541Z",
-                "2026-03-16T17:34:39.965991Z",
-                "2026-03-18T16:39:17.306243Z",
-                "2026-03-20T16:49:04.648333Z",
-                "2026-03-20T23:19:14.774690Z",
-                "2026-03-21T06:39:34.970577Z"
-            ]
-        },
-        {
-            "id": "bd61853d2c7029c5bed855588f720ecc",
-            "source": "spacenews",
-            "text": "China launches new highly retrograde Yaogan satellite, KZ-11 rideshare deploys 8 satellites",
-            "source_link": "https://spacenews.com/china-launches-new-highly-retrograde-yaogan-satellite-kz-11-rideshare-deploys-8-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-16T11:05:28.487962Z",
-            "shown_at": [
-                "2026-03-16T11:05:30.412213Z",
-                "2026-03-19T22:29:10.530136Z",
-                "2026-03-20T19:44:06.911417Z",
-                "2026-03-22T08:04:39.898730Z",
-                "2026-03-22T12:44:46.321778Z",
-                "2026-03-23T04:09:25.459928Z",
-                "2026-03-23T08:14:21.957645Z",
-                "2026-03-23T09:29:18.661825Z"
-            ]
-        },
-        {
-            "id": "69a03be2925cdf5849e9922639327e58",
-            "source": "nyt",
-            "text": "Spaceflight Started 100 Years Ago in a Massachusetts Cabbage Patch",
-            "source_link": "https://www.nytimes.com/2026/03/16/science/robert-goddard-rocket-100th-anniversary.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-16T09:19:50.321430Z",
-            "shown_at": [
-                "2026-03-16T09:19:51.216729Z",
-                "2026-03-17T00:39:20.992941Z",
-                "2026-03-17T02:59:58.314318Z",
-                "2026-03-17T14:09:21.487869Z",
-                "2026-03-17T20:09:17.545500Z",
-                "2026-03-17T23:39:04.146965Z",
-                "2026-03-18T18:34:40.051385Z",
-                "2026-03-19T06:14:20.067708Z",
-                "2026-03-19T09:14:20.025613Z",
-                "2026-03-19T20:44:54.130617Z",
-                "2026-03-19T23:04:36.951134Z",
-                "2026-03-20T00:14:21.277352Z",
-                "2026-03-20T08:34:29.247462Z",
-                "2026-03-21T02:34:57.082416Z",
-                "2026-03-21T04:54:17.530544Z",
-                "2026-03-21T13:24:09.011280Z",
-                "2026-03-21T14:34:52.758164Z",
-                "2026-03-22T02:49:12.674929Z",
-                "2026-03-22T05:09:23.145569Z",
-                "2026-03-22T12:09:26.610764Z",
-                "2026-03-22T14:34:29.872776Z",
-                "2026-03-22T18:09:19.790456Z",
-                "2026-03-22T21:44:19.495971Z",
-                "2026-03-23T02:25:01.876840Z"
-            ]
-        },
-        {
-            "id": "5f05d73f505d2f4c870aa079c17044c3",
-            "source": "spacenews",
-            "text": "Starcloud files plans for 88,000-satellite constellation",
-            "source_link": "https://spacenews.com/starcloud-files-plans-for-88000-satellite-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-15T23:54:28.410386Z",
-            "shown_at": [
-                "2026-03-15T23:54:29.450429Z",
-                "2026-03-16T18:44:31.642765Z",
-                "2026-03-17T08:14:22.602491Z",
-                "2026-03-20T00:49:13.102952Z",
-                "2026-03-20T11:29:12.797225Z",
-                "2026-03-21T05:29:28.923062Z"
-            ]
-        },
-        {
-            "id": "e3fe757ee74deb1cc36a2bfbc26f8d61",
-            "source": "spacenews",
-            "text": "OSTP taking on space policy coordination work in place of National Space Council",
-            "source_link": "https://spacenews.com/ostp-taking-on-space-policy-coordination-work-in-place-of-national-space-council/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-15T16:49:06.089269Z",
-            "shown_at": [
-                "2026-03-15T16:49:07.065882Z"
-            ]
-        },
-        {
-            "id": "c473ce6563c5067a503b69eb981e3835",
-            "source": "spacenews",
-            "text": "Varda to collaborate with United Therapeutics on microgravity drug research",
-            "source_link": "https://spacenews.com/varda-to-collaborate-with-united-therapeutics-on-microgravity-drug-research/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-13T10:34:31.656007Z",
-            "shown_at": [
-                "2026-05-13T10:34:32.495229Z"
-            ]
-        },
-        {
-            "id": "63a7f34de87f041303b6e4971e69ce55",
-            "source": "nyt",
-            "text": "5 Great Stargazing Trains",
-            "source_link": "https://www.nytimes.com/2026/05/13/travel/stargazing-train-rides.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-13T11:14:32.092849Z",
-            "shown_at": [
-                "2026-05-13T11:14:33.097928Z"
-            ]
-        },
-        {
-            "id": "79792fdcba8d99e36bbcab179aab0ffc",
-            "source": "spacenews",
-            "text": "SES joins Eutelsat in canceling GEO expansion satellites",
-            "source_link": "https://spacenews.com/ses-joins-eutelsat-in-canceling-geo-expansion-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-13T12:24:31.563217Z",
-            "shown_at": [
-                "2026-05-13T12:24:32.558124Z"
-            ]
-        },
-        {
-            "id": "57de20b000c827965842556d3855d193",
-            "source": "spacenews",
-            "text": "SpaceX sets date for first Starship version 3 launch",
-            "source_link": "https://spacenews.com/spacex-sets-date-for-first-starship-version-3-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-13T12:24:31.563295Z",
-            "shown_at": [
-                "2026-05-13T12:59:16.195202Z"
-            ]
-        },
-        {
-            "id": "f6e7881e4b1eddf5072755a0d3be8f01",
-            "source": "spacenews",
-            "text": "Rocketeers are Competing at the IREC for Your Attention",
-            "source_link": "https://spacenews.com/rocketeers-are-competing-at-the-irec-for-your-attention/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-13T14:37:03.208436Z",
-            "shown_at": [
-                "2026-05-13T14:37:04.043547Z"
-            ]
-        },
-        {
-            "id": "7ecebc106cf7ad6cf693fb11f43297c9",
-            "source": "spacenews",
-            "text": "Northrop Grumman targets lunar navigation market with Webb-derived guidance system",
-            "source_link": "https://spacenews.com/northrop-grumman-targets-lunar-navigation-market-with-webb-derived-guidance-system/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-13T14:37:03.208505Z",
-            "shown_at": [
-                "2026-05-13T15:39:40.516336Z",
-                "2026-05-13T21:49:16.617061Z"
-            ]
-        },
-        {
-            "id": "1172980fe7ec7c8e8e9344f6e9422011",
-            "source": "spacenews",
-            "text": "SLS to launch without upper stage for Artemis 3",
-            "source_link": "https://spacenews.com/sls-to-launch-without-upper-stage-for-artemis-3/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-13T22:59:10.567963Z",
-            "shown_at": [
-                "2026-05-13T22:59:11.582518Z"
             ]
         }
     ]
