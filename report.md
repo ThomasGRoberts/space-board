@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 15 | 31 |
+| spacenews | 6 | 13 | 16 | 32 |
 | nyt | 1 | 1 | 11 | 23 |
 | breaking_defense | 0 | 2 | 11 | 21 |
 
@@ -2199,3 +2199,4 @@
 - **May 14, 07:49 AM** - Special Operations Forces test mobile platform for direct satellite imagery access (spacenews)
 - **May 14, 08:24 AM** - 5 Great Stargazing Trains (nyt)
 - **May 14, 08:59 AM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
+- **May 14, 09:34 AM** - Special Operations Forces test mobile platform for direct satellite imagery access (spacenews)
