@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 15 | 32 |
 | nyt | 1 | 1 | 11 | 24 |
-| breaking_defense | 0 | 2 | 11 | 19 |
+| breaking_defense | 0 | 2 | 12 | 20 |
 
 # Shown Order
 
@@ -2195,3 +2195,4 @@
 - **May 14, 05:24 AM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
 - **May 14, 05:59 AM** - Congressional Budget Office estimates $1.2 trillion price tag for Golden Dome (spacenews)
 - **May 14, 06:34 AM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
+- **May 14, 07:09 AM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
