@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-14T00:04:22.300699+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b6824369dcc26c5fdd8ebd3cb0aa0f7f",
+    "trigger_count": 0,
+    "current_item_id": "5d2d13c32761f71053db293840b9647a",
     "data": [
         {
             "id": "1172980fe7ec7c8e8e9344f6e9422011",
@@ -7772,6 +7772,18 @@
             "fetched_datetime": "2026-05-14T15:59:03.150877Z",
             "shown_at": [
                 "2026-05-14T16:34:32.594746Z"
+            ]
+        },
+        {
+            "id": "5d2d13c32761f71053db293840b9647a",
+            "source": "spacenews",
+            "text": "Iridium to take over Aireon to expand aviation safety business",
+            "source_link": "https://spacenews.com/iridium-to-take-over-aireon-in-367-million-deal-to-expand-aviation-safety-business/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-14T17:09:27.935347Z",
+            "shown_at": [
+                "2026-05-14T17:09:28.780140Z"
             ]
         }
     ]
