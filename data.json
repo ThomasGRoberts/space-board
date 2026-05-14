@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-14T00:04:22.300699+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a5a55c644e3708c7dd65d5f421df4066",
+    "trigger_count": 0,
+    "current_item_id": "ca8b24372926364a20e62c23a6c6bdb8",
     "data": [
         {
             "id": "1172980fe7ec7c8e8e9344f6e9422011",
@@ -7694,6 +7694,18 @@
                 "2026-03-18T21:29:24.627887Z",
                 "2026-03-21T11:39:09.567669Z",
                 "2026-03-23T07:04:40.566572Z"
+            ]
+        },
+        {
+            "id": "ca8b24372926364a20e62c23a6c6bdb8",
+            "source": "spacenews",
+            "text": "Landspace launches improved Zhuque-2E, Long March 6A lofts new Qianfan satellite group",
+            "source_link": "https://spacenews.com/landspace-launches-improved-zhuque-2e-long-march-6a-lofts-new-qianfan-satellite-group/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-14T10:09:09.127113Z",
+            "shown_at": [
+                "2026-05-14T10:09:10.636292Z"
             ]
         }
     ]
