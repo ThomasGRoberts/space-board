@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 15 | 34 |
+| spacenews | 6 | 13 | 15 | 35 |
 | nyt | 1 | 1 | 11 | 25 |
 | breaking_defense | 0 | 2 | 11 | 16 |
 
@@ -2184,3 +2184,4 @@
 - **May 13, 10:59 PM** - SLS to launch without upper stage for Artemis 3 (spacenews)
 - **May 13, 11:34 PM** - U.F.O. Files Released by U.S. Shed Light on What the Government Knows (nyt)
 - **May 14, 12:09 AM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
+- **May 14, 12:44 AM** - MDA Space continues work on Gateway robotic arm (spacenews)
