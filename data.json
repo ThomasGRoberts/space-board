@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-14T00:04:22.300699+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3af2c4437913c35674e27c6082c05632",
+    "trigger_count": 0,
+    "current_item_id": "39044adb1c8f0380211ec737e5a10234",
     "data": [
         {
             "id": "1172980fe7ec7c8e8e9344f6e9422011",
@@ -7709,6 +7709,27 @@
             "shown_at": [
                 "2026-05-14T10:09:10.636292Z"
             ]
+        },
+        {
+            "id": "39044adb1c8f0380211ec737e5a10234",
+            "source": "spacenews",
+            "text": "House appropriators approve spending bill that keeps NASA budget flat",
+            "source_link": "https://spacenews.com/house-appropriators-approve-spending-bill-that-keeps-nasa-budget-flat/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-14T11:54:20.539331Z",
+            "shown_at": [
+                "2026-05-14T11:54:22.513392Z"
+            ]
+        },
+        {
+            "id": "421e262e6234d73d84dd1f0825255086",
+            "source": "spacenews",
+            "text": "Why Earth observation data is getting stuck in orbit",
+            "source_link": "https://spacenews.com/why-earth-observation-data-is-getting-stuck-in-orbit/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-05-14T11:54:20.539415Z"
         }
     ]
 }

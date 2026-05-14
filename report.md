@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 15 | 31 |
+| spacenews | 8 | 15 | 16 | 32 |
 | nyt | 0 | 1 | 11 | 22 |
-| breaking_defense | 0 | 2 | 12 | 22 |
+| breaking_defense | 0 | 2 | 11 | 22 |
 
 # Shown Order
 
@@ -2203,3 +2203,4 @@
 - **May 14, 10:09 AM** - Landspace launches improved Zhuque-2E, Long March 6A lofts new Qianfan satellite group (spacenews)
 - **May 14, 10:43 AM** - U.F.O. Files Released by U.S. Shed Light on What the Government Knows (nyt)
 - **May 14, 11:19 AM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
+- **May 14, 11:54 AM** - House appropriators approve spending bill that keeps NASA budget flat (spacenews)
