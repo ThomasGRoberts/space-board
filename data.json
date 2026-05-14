@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-14T00:04:22.300699+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5d2d13c32761f71053db293840b9647a",
+    "trigger_count": 0,
+    "current_item_id": "f8f5f50fa8c7677ae0ea4116c665ca74",
     "data": [
         {
             "id": "1172980fe7ec7c8e8e9344f6e9422011",
@@ -7784,6 +7784,18 @@
             "fetched_datetime": "2026-05-14T17:09:27.935347Z",
             "shown_at": [
                 "2026-05-14T17:09:28.780140Z"
+            ]
+        },
+        {
+            "id": "f8f5f50fa8c7677ae0ea4116c665ca74",
+            "source": "breaking_defense",
+            "text": "CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein",
+            "source_link": "https://breakingdefense.com/2026/05/cbos-1-2-trillion-golden-dome-estimate-based-on-bad-data-guetlein/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-14T17:44:10.448988Z",
+            "shown_at": [
+                "2026-05-14T17:44:11.385515Z"
             ]
         }
     ]

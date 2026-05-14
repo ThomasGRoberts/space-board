@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 18 | 34 |
 | nyt | 0 | 1 | 11 | 22 |
-| breaking_defense | 0 | 1 | 11 | 22 |
+| breaking_defense | 1 | 2 | 12 | 23 |
 
 # Shown Order
 
@@ -2213,3 +2213,4 @@
 - **May 14, 03:59 PM** - Golden Dome chief pushes back on $1.2 trillion CBO estimate (spacenews)
 - **May 14, 04:34 PM** - Iridium to take over Aireon in $367 million deal to expand aviation safety business (spacenews)
 - **May 14, 05:09 PM** - Iridium to take over Aireon to expand aviation safety business (spacenews)
+- **May 14, 05:44 PM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
