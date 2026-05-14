@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 15 | 32 |
-| nyt | 1 | 1 | 11 | 23 |
+| nyt | 1 | 1 | 12 | 24 |
 | breaking_defense | 0 | 2 | 11 | 20 |
 
 # Shown Order
@@ -2197,3 +2197,4 @@
 - **May 14, 06:34 AM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
 - **May 14, 07:09 AM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
 - **May 14, 07:49 AM** - Special Operations Forces test mobile platform for direct satellite imagery access (spacenews)
+- **May 14, 08:24 AM** - 5 Great Stargazing Trains (nyt)
