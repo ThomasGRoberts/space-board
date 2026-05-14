@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 18 | 33 |
-| nyt | 0 | 1 | 12 | 23 |
-| breaking_defense | 1 | 2 | 11 | 22 |
+| nyt | 0 | 1 | 11 | 22 |
+| breaking_defense | 1 | 2 | 12 | 23 |
 
 # Shown Order
 
@@ -2216,3 +2216,4 @@
 - **May 14, 05:44 PM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
 - **May 14, 06:19 PM** - U.S.-China Rivalry Reaches South American Skies (nyt)
 - **May 14, 06:54 PM** - Rocket Lab joins Raytheon on space interceptor program for Golden Dome (spacenews)
+- **May 14, 07:29 PM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
