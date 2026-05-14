@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 15 | 32 |
 | nyt | 1 | 1 | 11 | 23 |
-| breaking_defense | 0 | 2 | 11 | 20 |
+| breaking_defense | 0 | 2 | 12 | 21 |
 
 # Shown Order
 
@@ -2198,3 +2198,4 @@
 - **May 14, 07:09 AM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
 - **May 14, 07:49 AM** - Special Operations Forces test mobile platform for direct satellite imagery access (spacenews)
 - **May 14, 08:24 AM** - 5 Great Stargazing Trains (nyt)
+- **May 14, 08:59 AM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
