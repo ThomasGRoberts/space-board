@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 15 | 16 | 32 |
 | nyt | 0 | 1 | 11 | 22 |
-| breaking_defense | 0 | 2 | 11 | 22 |
+| breaking_defense | 0 | 2 | 12 | 23 |
 
 # Shown Order
 
@@ -2207,3 +2207,4 @@
 - **May 14, 12:29 PM** - Why Earth observation data is getting stuck in orbit (spacenews)
 - **May 14, 01:04 PM** - AST SpaceMobile may use ULA’s Vulcan (spacenews)
 - **May 14, 01:39 PM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
+- **May 14, 02:14 PM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
