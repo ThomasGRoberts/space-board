@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 17 | 33 |
+| spacenews | 9 | 16 | 18 | 34 |
 | nyt | 0 | 1 | 12 | 23 |
 | breaking_defense | 1 | 2 | 12 | 22 |
 
@@ -2218,3 +2218,4 @@
 - **May 14, 06:54 PM** - Rocket Lab joins Raytheon on space interceptor program for Golden Dome (spacenews)
 - **May 14, 07:29 PM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
 - **May 14, 08:04 PM** - Pentagon Releases Files on U.F.O.s (nyt)
+- **May 14, 08:38 PM** - Intuitive Machines to buy ground station company (spacenews)

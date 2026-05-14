@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-14T00:04:22.300699+00:00",
-    "trigger_count": 6,
-    "current_item_id": "12e46efef0e0291c2f8a421c839204af",
+    "trigger_count": 0,
+    "current_item_id": "225f2bbe301c75d2118c52f23605dbf9",
     "data": [
         {
             "id": "1172980fe7ec7c8e8e9344f6e9422011",
@@ -7800,6 +7800,18 @@
             "shown_at": [
                 "2026-05-14T17:44:11.385515Z",
                 "2026-05-14T19:29:23.768668Z"
+            ]
+        },
+        {
+            "id": "225f2bbe301c75d2118c52f23605dbf9",
+            "source": "spacenews",
+            "text": "Intuitive Machines to buy ground station company",
+            "source_link": "https://spacenews.com/intuitive-machines-to-buy-ground-station-company/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-14T20:38:57.000747Z",
+            "shown_at": [
+                "2026-05-14T20:38:57.648733Z"
             ]
         }
     ]
