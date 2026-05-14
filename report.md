@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 13 | 15 | 32 |
+| spacenews | 7 | 15 | 16 | 33 |
 | nyt | 0 | 1 | 12 | 23 |
 | breaking_defense | 0 | 1 | 12 | 22 |
 
@@ -2210,3 +2210,4 @@
 - **May 14, 02:14 PM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
 - **May 14, 02:49 PM** - Failing to pass a defense budget is a self-inflicted wound in the space race (spacenews)
 - **May 14, 03:24 PM** - U.S.-China Rivalry Reaches South American Skies (nyt)
+- **May 14, 03:59 PM** - Golden Dome chief pushes back on $1.2 trillion CBO estimate (spacenews)
