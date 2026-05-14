@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 15 | 33 |
-| nyt | 1 | 1 | 11 | 24 |
+| nyt | 1 | 1 | 12 | 25 |
 | breaking_defense | 0 | 2 | 11 | 18 |
 
 # Shown Order
@@ -2191,3 +2191,4 @@
 - **May 14, 03:05 AM** - U.F.O. Files Released by U.S. Shed Light on What the Government Knows (nyt)
 - **May 14, 03:39 AM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
 - **May 14, 04:14 AM** - Special Operations Forces test mobile platform for direct satellite imagery access (spacenews)
+- **May 14, 04:49 AM** - Surprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away (nyt)
