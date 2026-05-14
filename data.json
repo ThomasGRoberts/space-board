@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-14T00:04:22.300699+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e8f58f18f4232bceed009edbe60ae108",
+    "trigger_count": 0,
+    "current_item_id": "b6824369dcc26c5fdd8ebd3cb0aa0f7f",
     "data": [
         {
             "id": "1172980fe7ec7c8e8e9344f6e9422011",
@@ -7767,9 +7767,12 @@
             "source": "spacenews",
             "text": "Iridium to take over Aireon in $367 million deal to expand aviation safety business",
             "source_link": "https://spacenews.com/iridium-to-take-over-aireon-in-367-million-deal-to-expand-aviation-safety-business/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-05-14T15:59:03.150877Z"
+            "fetched_datetime": "2026-05-14T15:59:03.150877Z",
+            "shown_at": [
+                "2026-05-14T16:34:32.594746Z"
+            ]
         }
     ]
 }

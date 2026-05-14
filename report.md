@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 15 | 16 | 32 |
+| spacenews | 7 | 15 | 17 | 33 |
 | nyt | 0 | 1 | 12 | 23 |
-| breaking_defense | 0 | 1 | 12 | 22 |
+| breaking_defense | 0 | 1 | 11 | 22 |
 
 # Shown Order
 
@@ -2211,3 +2211,4 @@
 - **May 14, 02:49 PM** - Failing to pass a defense budget is a self-inflicted wound in the space race (spacenews)
 - **May 14, 03:24 PM** - U.S.-China Rivalry Reaches South American Skies (nyt)
 - **May 14, 03:59 PM** - Golden Dome chief pushes back on $1.2 trillion CBO estimate (spacenews)
+- **May 14, 04:34 PM** - Iridium to take over Aireon in $367 million deal to expand aviation safety business (spacenews)
