@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 15 | 33 |
 | nyt | 1 | 1 | 11 | 25 |
-| breaking_defense | 0 | 2 | 11 | 17 |
+| breaking_defense | 0 | 2 | 12 | 18 |
 
 # Shown Order
 
@@ -2189,3 +2189,4 @@
 - **May 14, 01:54 AM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
 - **May 14, 02:29 AM** - SpaceX sets date for first Starship version 3 launch (spacenews)
 - **May 14, 03:05 AM** - U.F.O. Files Released by U.S. Shed Light on What the Government Knows (nyt)
+- **May 14, 03:39 AM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
