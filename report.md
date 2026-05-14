@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 16 | 18 | 33 |
-| nyt | 0 | 1 | 11 | 22 |
+| spacenews | 9 | 16 | 17 | 33 |
+| nyt | 0 | 1 | 12 | 23 |
 | breaking_defense | 1 | 2 | 12 | 23 |
 
 # Shown Order
@@ -2220,3 +2220,4 @@
 - **May 14, 08:04 PM** - Pentagon Releases Files on U.F.O.s (nyt)
 - **May 14, 08:38 PM** - Intuitive Machines to buy ground station company (spacenews)
 - **May 14, 09:14 PM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
+- **May 14, 09:49 PM** - Pentagon Releases Files on U.F.O.s (nyt)
