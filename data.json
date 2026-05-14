@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-14T00:04:22.300699+00:00",
-    "trigger_count": 6,
-    "current_item_id": "421e262e6234d73d84dd1f0825255086",
+    "trigger_count": 0,
+    "current_item_id": "a6f964837242d57bf554a0ed63db2bed",
     "data": [
         {
             "id": "1172980fe7ec7c8e8e9344f6e9422011",
@@ -7732,6 +7732,18 @@
             "fetched_datetime": "2026-05-14T11:54:20.539415Z",
             "shown_at": [
                 "2026-05-14T12:29:00.815441Z"
+            ]
+        },
+        {
+            "id": "a6f964837242d57bf554a0ed63db2bed",
+            "source": "spacenews",
+            "text": "AST SpaceMobile may use ULA’s Vulcan",
+            "source_link": "https://spacenews.com/ast-spacemobile-may-use-ulas-vulcan/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-14T13:04:36.501709Z",
+            "shown_at": [
+                "2026-05-14T13:04:39.587500Z"
             ]
         }
     ]
