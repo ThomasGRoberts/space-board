@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 15 | 33 |
+| spacenews | 6 | 13 | 16 | 34 |
 | nyt | 1 | 1 | 11 | 25 |
 | breaking_defense | 0 | 2 | 11 | 17 |
 
@@ -2187,3 +2187,4 @@
 - **May 14, 12:44 AM** - MDA Space continues work on Gateway robotic arm (spacenews)
 - **May 14, 01:19 AM** - 5 Great Stargazing Trains (nyt)
 - **May 14, 01:54 AM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
+- **May 14, 02:29 AM** - SpaceX sets date for first Starship version 3 launch (spacenews)
