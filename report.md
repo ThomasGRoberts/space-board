@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 15 | 17 | 32 |
-| nyt | 0 | 1 | 12 | 23 |
+| nyt | 0 | 1 | 13 | 24 |
 | breaking_defense | 1 | 1 | 12 | 23 |
 
 # Shown Order
@@ -2223,3 +2223,4 @@
 - **May 14, 09:49 PM** - Pentagon Releases Files on U.F.O.s (nyt)
 - **May 14, 10:24 PM** - Cowboy files plans for up to 20,000 orbital data centers (spacenews)
 - **May 14, 10:59 PM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
+- **May 14, 11:34 PM** - Pentagon Releases Files on U.F.O.s (nyt)
