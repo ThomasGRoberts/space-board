@@ -1,9 +1,130 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-05-14T00:04:22.300699+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2026-05-15T00:04:50.777031+00:00",
+    "trigger_count": 6,
     "current_item_id": "12e46efef0e0291c2f8a421c839204af",
     "data": [
+        {
+            "id": "f3c19452a3555670ae17f32c7983caa8",
+            "source": "spacenews",
+            "text": "Cowboy files plans for up to 20,000 orbital data centers",
+            "source_link": "https://spacenews.com/cowboy-files-plans-for-up-to-20000-orbital-data-centers/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-14T22:24:19.466007Z",
+            "shown_at": [
+                "2026-05-14T22:24:20.384865Z"
+            ]
+        },
+        {
+            "id": "225f2bbe301c75d2118c52f23605dbf9",
+            "source": "spacenews",
+            "text": "Intuitive Machines to buy ground station company",
+            "source_link": "https://spacenews.com/intuitive-machines-to-buy-ground-station-company/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-14T20:38:57.000747Z",
+            "shown_at": [
+                "2026-05-14T20:38:57.648733Z"
+            ]
+        },
+        {
+            "id": "f8f5f50fa8c7677ae0ea4116c665ca74",
+            "source": "breaking_defense",
+            "text": "CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein",
+            "source_link": "https://breakingdefense.com/2026/05/cbos-1-2-trillion-golden-dome-estimate-based-on-bad-data-guetlein/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-14T17:44:10.448988Z",
+            "shown_at": [
+                "2026-05-14T17:44:11.385515Z",
+                "2026-05-14T19:29:23.768668Z"
+            ]
+        },
+        {
+            "id": "5d2d13c32761f71053db293840b9647a",
+            "source": "spacenews",
+            "text": "Iridium to take over Aireon to expand aviation safety business",
+            "source_link": "https://spacenews.com/iridium-to-take-over-aireon-in-367-million-deal-to-expand-aviation-safety-business/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-14T17:09:27.935347Z",
+            "shown_at": [
+                "2026-05-14T17:09:28.780140Z"
+            ]
+        },
+        {
+            "id": "b6824369dcc26c5fdd8ebd3cb0aa0f7f",
+            "source": "spacenews",
+            "text": "Iridium to take over Aireon in $367 million deal to expand aviation safety business",
+            "source_link": "https://spacenews.com/iridium-to-take-over-aireon-in-367-million-deal-to-expand-aviation-safety-business/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-14T15:59:03.150877Z",
+            "shown_at": [
+                "2026-05-14T16:34:32.594746Z"
+            ]
+        },
+        {
+            "id": "e8f58f18f4232bceed009edbe60ae108",
+            "source": "spacenews",
+            "text": "Golden Dome chief pushes back on $1.2 trillion CBO estimate",
+            "source_link": "https://spacenews.com/golden-dome-chief-pushes-back-on-1-2-trillion-cbo-estimate/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-14T15:59:03.150803Z",
+            "shown_at": [
+                "2026-05-14T15:59:05.154232Z"
+            ]
+        },
+        {
+            "id": "a6f964837242d57bf554a0ed63db2bed",
+            "source": "spacenews",
+            "text": "AST SpaceMobile may use ULA’s Vulcan",
+            "source_link": "https://spacenews.com/ast-spacemobile-may-use-ulas-vulcan/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-14T13:04:36.501709Z",
+            "shown_at": [
+                "2026-05-14T13:04:39.587500Z"
+            ]
+        },
+        {
+            "id": "421e262e6234d73d84dd1f0825255086",
+            "source": "spacenews",
+            "text": "Why Earth observation data is getting stuck in orbit",
+            "source_link": "https://spacenews.com/why-earth-observation-data-is-getting-stuck-in-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-14T11:54:20.539415Z",
+            "shown_at": [
+                "2026-05-14T12:29:00.815441Z"
+            ]
+        },
+        {
+            "id": "39044adb1c8f0380211ec737e5a10234",
+            "source": "spacenews",
+            "text": "House appropriators approve spending bill that keeps NASA budget flat",
+            "source_link": "https://spacenews.com/house-appropriators-approve-spending-bill-that-keeps-nasa-budget-flat/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-14T11:54:20.539331Z",
+            "shown_at": [
+                "2026-05-14T11:54:22.513392Z"
+            ]
+        },
+        {
+            "id": "ca8b24372926364a20e62c23a6c6bdb8",
+            "source": "spacenews",
+            "text": "Landspace launches improved Zhuque-2E, Long March 6A lofts new Qianfan satellite group",
+            "source_link": "https://spacenews.com/landspace-launches-improved-zhuque-2e-long-march-6a-lofts-new-qianfan-satellite-group/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-14T10:09:09.127113Z",
+            "shown_at": [
+                "2026-05-14T10:09:10.636292Z"
+            ]
+        },
         {
             "id": "1172980fe7ec7c8e8e9344f6e9422011",
             "source": "spacenews",
@@ -7567,267 +7688,6 @@
                 "2026-03-19T03:19:17.732669Z",
                 "2026-03-22T13:59:09.157718Z",
                 "2026-03-24T12:39:06.063279Z"
-            ]
-        },
-        {
-            "id": "ecb58214fcd1192cfbf4946a6784ca8e",
-            "source": "spacenews",
-            "text": "Office of Space Commerce weighing options for TraCSS user fees",
-            "source_link": "https://spacenews.com/office-of-space-commerce-weighing-options-for-tracss-user-fees/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-17T21:19:25.854671Z",
-            "shown_at": [
-                "2026-03-17T21:19:27.039447Z",
-                "2026-03-21T19:49:11.222445Z"
-            ]
-        },
-        {
-            "id": "308004edec633ca04e05d88495d3befb",
-            "source": "spacenews",
-            "text": "Space boom strains supply chain, industry report warns",
-            "source_link": "https://spacenews.com/space-boom-strains-supply-chain-industry-report-warns/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-17T19:34:45.845669Z",
-            "shown_at": [
-                "2026-03-17T19:34:46.877357Z",
-                "2026-03-24T10:49:22.969105Z"
-            ]
-        },
-        {
-            "id": "f4594b87cfba0afc1d68ebdae3ca36fb",
-            "source": "spacenews",
-            "text": "Golden Dome cost estimate rises to $185 billion as Pentagon expands space layer",
-            "source_link": "https://spacenews.com/golden-dome-cost-estimate-rises-to-185-billion-as-pentagon-expands-space-layer/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-17T18:59:28.998721Z",
-            "shown_at": [
-                "2026-03-17T18:59:30.160098Z",
-                "2026-03-19T20:05:15.499458Z",
-                "2026-03-20T09:09:28.673938Z"
-            ]
-        },
-        {
-            "id": "2bcda671de4eea39061f382b07da1679",
-            "source": "spacenews",
-            "text": "ISPTech Raises €5.5M Seed Round to Redefine How Spacecraft Manoeuvre in Orbit",
-            "source_link": "https://spacenews.com/isptech-raises-e5-5m-seed-round-to-redefine-how-spacecraft-manoeuvre-in-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-17T17:09:10.629455Z",
-            "shown_at": [
-                "2026-03-17T17:09:12.027561Z",
-                "2026-03-21T07:49:14.943471Z",
-                "2026-03-24T02:34:21.865296Z"
-            ]
-        },
-        {
-            "id": "2cfad31296cdd71aa7d06c2398fc575e",
-            "source": "spacenews",
-            "text": "Canadian military invests in sovereign launch",
-            "source_link": "https://spacenews.com/canadian-military-invests-in-sovereign-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-17T12:24:20.372570Z",
-            "shown_at": [
-                "2026-03-17T12:24:21.725979Z",
-                "2026-03-19T18:19:22.675623Z",
-                "2026-03-23T19:34:15.186384Z",
-                "2026-03-24T00:14:29.857370Z"
-            ]
-        },
-        {
-            "id": "0b5390859274e3ba6a2bbe20e586b6f6",
-            "source": "spacenews",
-            "text": "Innospace completes investigation into Hanbit-Nano launch failure",
-            "source_link": "https://spacenews.com/innospace-completes-investigation-into-hanbit-nano-launch-failure/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-17T11:14:30.333910Z",
-            "shown_at": [
-                "2026-03-17T11:49:31.433426Z",
-                "2026-03-21T01:59:15.367624Z"
-            ]
-        },
-        {
-            "id": "bdf13929173f921a38b956d71db96641",
-            "source": "spacenews",
-            "text": "An astronaut’s tiny stand-in: tissue chips in space health",
-            "source_link": "https://spacenews.com/an-astronauts-tiny-stand-in-tissue-chips-in-space-health/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-17T11:14:30.333852Z",
-            "shown_at": [
-                "2026-03-17T11:14:31.422246Z",
-                "2026-03-22T10:24:29.077090Z"
-            ]
-        },
-        {
-            "id": "e8ca5e9b185a1a88bb872c68fe447f73",
-            "source": "spacenews",
-            "text": "Kayrros sale signals rising demand for satellite intelligence amid Hormuz crisis",
-            "source_link": "https://spacenews.com/kayrros-sale-signals-rising-demand-for-satellite-intelligence-amid-hormuz-crisis/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-16T22:19:11.013763Z",
-            "shown_at": [
-                "2026-03-16T22:54:22.805098Z",
-                "2026-03-18T04:54:16.889185Z",
-                "2026-03-21T23:19:42.311903Z",
-                "2026-03-22T11:34:26.814128Z"
-            ]
-        },
-        {
-            "id": "4c420be0030632bc4341b94328e1ad64",
-            "source": "spacenews",
-            "text": "Nvidia unveils AI computing module for space-based data centers",
-            "source_link": "https://spacenews.com/nvidia-unveils-ai-computing-module-for-space-based-data-centers/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-16T22:19:11.013694Z",
-            "shown_at": [
-                "2026-03-16T22:19:12.208054Z",
-                "2026-03-17T13:34:25.334380Z",
-                "2026-03-21T15:09:27.682519Z"
-            ]
-        },
-        {
-            "id": "6ab6ef3d2eff7bd726a5144ac856d4c5",
-            "source": "spacenews",
-            "text": "Melagen Labs and Satlyt Announce Joint ISS Mission to Demonstrate Radiation-Resilient In-Orbit Computing and Next-Gen Shielding",
-            "source_link": "https://spacenews.com/melagen-labs-and-satlyt-announce-joint-iss-mission-to-demonstrate-radiation-resilient-in-orbit-computing-and-next-gen-shielding/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-16T16:25:09.264663Z",
-            "shown_at": [
-                "2026-03-16T16:25:10.470969Z",
-                "2026-03-17T16:00:17.149670Z",
-                "2026-03-18T21:29:24.627887Z",
-                "2026-03-21T11:39:09.567669Z",
-                "2026-03-23T07:04:40.566572Z"
-            ]
-        },
-        {
-            "id": "ca8b24372926364a20e62c23a6c6bdb8",
-            "source": "spacenews",
-            "text": "Landspace launches improved Zhuque-2E, Long March 6A lofts new Qianfan satellite group",
-            "source_link": "https://spacenews.com/landspace-launches-improved-zhuque-2e-long-march-6a-lofts-new-qianfan-satellite-group/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-14T10:09:09.127113Z",
-            "shown_at": [
-                "2026-05-14T10:09:10.636292Z"
-            ]
-        },
-        {
-            "id": "39044adb1c8f0380211ec737e5a10234",
-            "source": "spacenews",
-            "text": "House appropriators approve spending bill that keeps NASA budget flat",
-            "source_link": "https://spacenews.com/house-appropriators-approve-spending-bill-that-keeps-nasa-budget-flat/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-14T11:54:20.539331Z",
-            "shown_at": [
-                "2026-05-14T11:54:22.513392Z"
-            ]
-        },
-        {
-            "id": "421e262e6234d73d84dd1f0825255086",
-            "source": "spacenews",
-            "text": "Why Earth observation data is getting stuck in orbit",
-            "source_link": "https://spacenews.com/why-earth-observation-data-is-getting-stuck-in-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-14T11:54:20.539415Z",
-            "shown_at": [
-                "2026-05-14T12:29:00.815441Z"
-            ]
-        },
-        {
-            "id": "a6f964837242d57bf554a0ed63db2bed",
-            "source": "spacenews",
-            "text": "AST SpaceMobile may use ULA’s Vulcan",
-            "source_link": "https://spacenews.com/ast-spacemobile-may-use-ulas-vulcan/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-14T13:04:36.501709Z",
-            "shown_at": [
-                "2026-05-14T13:04:39.587500Z"
-            ]
-        },
-        {
-            "id": "e8f58f18f4232bceed009edbe60ae108",
-            "source": "spacenews",
-            "text": "Golden Dome chief pushes back on $1.2 trillion CBO estimate",
-            "source_link": "https://spacenews.com/golden-dome-chief-pushes-back-on-1-2-trillion-cbo-estimate/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-14T15:59:03.150803Z",
-            "shown_at": [
-                "2026-05-14T15:59:05.154232Z"
-            ]
-        },
-        {
-            "id": "b6824369dcc26c5fdd8ebd3cb0aa0f7f",
-            "source": "spacenews",
-            "text": "Iridium to take over Aireon in $367 million deal to expand aviation safety business",
-            "source_link": "https://spacenews.com/iridium-to-take-over-aireon-in-367-million-deal-to-expand-aviation-safety-business/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-14T15:59:03.150877Z",
-            "shown_at": [
-                "2026-05-14T16:34:32.594746Z"
-            ]
-        },
-        {
-            "id": "5d2d13c32761f71053db293840b9647a",
-            "source": "spacenews",
-            "text": "Iridium to take over Aireon to expand aviation safety business",
-            "source_link": "https://spacenews.com/iridium-to-take-over-aireon-in-367-million-deal-to-expand-aviation-safety-business/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-14T17:09:27.935347Z",
-            "shown_at": [
-                "2026-05-14T17:09:28.780140Z"
-            ]
-        },
-        {
-            "id": "f8f5f50fa8c7677ae0ea4116c665ca74",
-            "source": "breaking_defense",
-            "text": "CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein",
-            "source_link": "https://breakingdefense.com/2026/05/cbos-1-2-trillion-golden-dome-estimate-based-on-bad-data-guetlein/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-14T17:44:10.448988Z",
-            "shown_at": [
-                "2026-05-14T17:44:11.385515Z",
-                "2026-05-14T19:29:23.768668Z"
-            ]
-        },
-        {
-            "id": "225f2bbe301c75d2118c52f23605dbf9",
-            "source": "spacenews",
-            "text": "Intuitive Machines to buy ground station company",
-            "source_link": "https://spacenews.com/intuitive-machines-to-buy-ground-station-company/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-14T20:38:57.000747Z",
-            "shown_at": [
-                "2026-05-14T20:38:57.648733Z"
-            ]
-        },
-        {
-            "id": "f3c19452a3555670ae17f32c7983caa8",
-            "source": "spacenews",
-            "text": "Cowboy files plans for up to 20,000 orbital data centers",
-            "source_link": "https://spacenews.com/cowboy-files-plans-for-up-to-20000-orbital-data-centers/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-14T22:24:19.466007Z",
-            "shown_at": [
-                "2026-05-14T22:24:20.384865Z"
             ]
         }
     ]
