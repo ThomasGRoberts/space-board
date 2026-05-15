@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 12 | 15 | 32 |
+| spacenews | 4 | 13 | 16 | 33 |
 | breaking_defense | 0 | 1 | 12 | 24 |
 | nyt | 0 | 0 | 13 | 25 |
 
@@ -2233,3 +2233,4 @@
 - **May 15, 09:29 PM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
 - **May 15, 10:04 PM** - House appropriators approve spending bill that keeps NASA budget flat (spacenews)
 - **May 15, 10:39 PM** - U.S.-China Rivalry Reaches South American Skies (nyt)
+- **May 15, 11:14 PM** - Starlink Mobile challengers back proposed telco-led D2D joint venture (spacenews)

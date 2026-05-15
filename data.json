@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-15T00:04:50.777031+00:00",
-    "trigger_count": 6,
-    "current_item_id": "386808b2f313abd07c28a5ec577fda12",
+    "trigger_count": 0,
+    "current_item_id": "9eab9a8126e074a4715e45dfe66008bf",
     "data": [
         {
             "id": "f3c19452a3555670ae17f32c7983caa8",
@@ -7760,6 +7760,18 @@
             "fetched_datetime": "2026-05-15T18:34:25.369027Z",
             "shown_at": [
                 "2026-05-15T18:34:26.454042Z"
+            ]
+        },
+        {
+            "id": "9eab9a8126e074a4715e45dfe66008bf",
+            "source": "spacenews",
+            "text": "Starlink Mobile challengers back proposed telco-led D2D joint venture",
+            "source_link": "https://spacenews.com/starlink-mobile-challengers-back-proposed-telco-led-d2d-joint-venture/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-15T23:14:10.813898Z",
+            "shown_at": [
+                "2026-05-15T23:14:13.171356Z"
             ]
         }
     ]
