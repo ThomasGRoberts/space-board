@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 15 | 18 | 33 |
-| breaking_defense | 1 | 1 | 11 | 22 |
+| spacenews | 9 | 15 | 17 | 33 |
+| breaking_defense | 1 | 1 | 12 | 23 |
 | nyt | 0 | 1 | 12 | 23 |
 
 # Shown Order
@@ -2204,3 +2204,4 @@
 - **May 15, 04:14 AM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
 - **May 15, 04:49 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
 - **May 15, 05:24 AM** - Failing to pass a defense budget is a self-inflicted wound in the space race (spacenews)
+- **May 15, 05:59 AM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
