@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-15T00:04:50.777031+00:00",
-    "trigger_count": 6,
-    "current_item_id": "db2255af90b190f2f76ff8bfe9a7c433",
+    "trigger_count": 0,
+    "current_item_id": "6931d8c03309e6bc495e94069032e44d",
     "data": [
         {
             "id": "f3c19452a3555670ae17f32c7983caa8",
@@ -7719,6 +7719,18 @@
             "fetched_datetime": "2026-05-15T09:44:16.864553Z",
             "shown_at": [
                 "2026-05-15T09:44:17.716305Z"
+            ]
+        },
+        {
+            "id": "6931d8c03309e6bc495e94069032e44d",
+            "source": "spacenews",
+            "text": "Virgin Galactic reaffirms plans to begin commercial service this year",
+            "source_link": "https://spacenews.com/virgin-galactic-reaffirms-plans-to-begin-commercial-service-this-year/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-15T12:04:42.290029Z",
+            "shown_at": [
+                "2026-05-15T12:04:43.176816Z"
             ]
         }
     ]

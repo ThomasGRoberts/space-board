@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 15 | 17 | 33 |
+| spacenews | 8 | 16 | 18 | 34 |
 | breaking_defense | 1 | 1 | 11 | 22 |
 | nyt | 0 | 0 | 12 | 23 |
 
@@ -2214,3 +2214,4 @@
 - **May 15, 10:19 AM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
 - **May 15, 10:54 AM** - U.F.O. Files Released by U.S. Shed Light on What the Government Knows (nyt)
 - **May 15, 11:29 AM** - Transcelestial tests space-to-ground laser communications technologies (spacenews)
+- **May 15, 12:04 PM** - Virgin Galactic reaffirms plans to begin commercial service this year (spacenews)
