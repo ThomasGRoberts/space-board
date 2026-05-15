@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 13 | 15 | 33 |
 | breaking_defense | 0 | 1 | 13 | 24 |
-| nyt | 0 | 0 | 12 | 24 |
+| nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
 
@@ -2232,3 +2232,4 @@
 - **May 15, 08:54 PM** - U.F.O. Files Released by U.S. Shed Light on What the Government Knows (nyt)
 - **May 15, 09:29 PM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
 - **May 15, 10:04 PM** - House appropriators approve spending bill that keeps NASA budget flat (spacenews)
+- **May 15, 10:39 PM** - U.S.-China Rivalry Reaches South American Skies (nyt)
