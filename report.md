@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 17 | 33 |
-| breaking_defense | 1 | 1 | 11 | 23 |
+| breaking_defense | 1 | 1 | 12 | 24 |
 | nyt | 0 | 0 | 12 | 23 |
 
 # Shown Order
@@ -2218,3 +2218,4 @@
 - **May 15, 12:39 PM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
 - **May 15, 01:14 PM** - 5 Great Stargazing Trains (nyt)
 - **May 15, 01:49 PM** - SatVu zooms in on energy facilities in Cuba, India and Australia (spacenews)
+- **May 15, 02:24 PM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
