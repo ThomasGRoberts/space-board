@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 12 | 16 | 32 |
+| spacenews | 7 | 12 | 17 | 33 |
 | breaking_defense | 1 | 1 | 12 | 24 |
 | nyt | 0 | 0 | 12 | 24 |
 
@@ -2220,3 +2220,4 @@
 - **May 15, 01:49 PM** - SatVu zooms in on energy facilities in Cuba, India and Australia (spacenews)
 - **May 15, 02:24 PM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
 - **May 15, 02:59 PM** - U.S.-China Rivalry Reaches South American Skies (nyt)
+- **May 15, 03:34 PM** - MDA Space continues work on Gateway robotic arm (spacenews)
