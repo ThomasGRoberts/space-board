@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 16 | 32 |
 | breaking_defense | 1 | 1 | 12 | 24 |
-| nyt | 0 | 0 | 12 | 23 |
+| nyt | 0 | 0 | 13 | 24 |
 
 # Shown Order
 
@@ -2219,3 +2219,4 @@
 - **May 15, 01:14 PM** - 5 Great Stargazing Trains (nyt)
 - **May 15, 01:49 PM** - SatVu zooms in on energy facilities in Cuba, India and Australia (spacenews)
 - **May 15, 02:24 PM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
+- **May 15, 02:59 PM** - U.S.-China Rivalry Reaches South American Skies (nyt)
