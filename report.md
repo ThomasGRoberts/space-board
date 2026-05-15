@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 16 | 17 | 33 |
-| breaking_defense | 1 | 1 | 11 | 22 |
+| breaking_defense | 1 | 1 | 12 | 23 |
 | nyt | 0 | 1 | 12 | 23 |
 
 # Shown Order
@@ -2211,3 +2211,4 @@
 - **May 15, 08:34 AM** - U.F.O. Files Released by U.S. Shed Light on What the Government Knows (nyt)
 - **May 15, 09:09 AM** - Rocketeers are Competing at the IREC for Your Attention (spacenews)
 - **May 15, 09:44 AM** - Chinese satellite maker MinoSpace seeks $736 million in IPO (spacenews)
+- **May 15, 10:19 AM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
