@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-15T00:04:50.777031+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9eab9a8126e074a4715e45dfe66008bf",
+    "trigger_count": 0,
+    "current_item_id": "a97df88bd06fc83448e33d45472f15fa",
     "data": [
         {
             "id": "f3c19452a3555670ae17f32c7983caa8",
@@ -7772,6 +7772,18 @@
             "fetched_datetime": "2026-05-15T23:14:10.813898Z",
             "shown_at": [
                 "2026-05-15T23:14:13.171356Z"
+            ]
+        },
+        {
+            "id": "a97df88bd06fc83448e33d45472f15fa",
+            "source": "spacenews",
+            "text": "SpaceX launches CRS-34 cargo mission to ISS",
+            "source_link": "https://spacenews.com/spacex-launches-crs-34-cargo-mission-to-iss/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-15T23:48:59.665511Z",
+            "shown_at": [
+                "2026-05-15T23:49:00.605565Z"
             ]
         }
     ]
