@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 15 | 18 | 33 |
-| breaking_defense | 1 | 1 | 11 | 22 |
+| breaking_defense | 1 | 1 | 12 | 23 |
 | nyt | 0 | 1 | 12 | 23 |
 
 # Shown Order
@@ -2201,3 +2201,4 @@
 - **May 15, 02:28 AM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
 - **May 15, 03:04 AM** - 5 Great Stargazing Trains (nyt)
 - **May 15, 03:38 AM** - Creotech plans $118 million capital raise, investment in new satellite factory (spacenews)
+- **May 15, 04:14 AM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
