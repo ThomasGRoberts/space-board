@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 13 | 15 | 33 |
-| breaking_defense | 0 | 1 | 12 | 24 |
+| breaking_defense | 0 | 1 | 13 | 25 |
 | nyt | 0 | 0 | 13 | 24 |
 
 # Shown Order
@@ -2230,3 +2230,4 @@
 - **May 15, 07:44 PM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
 - **May 15, 08:19 PM** - Former NASA chief of staff returns to lead agency launch operations (spacenews)
 - **May 15, 08:54 PM** - U.F.O. Files Released by U.S. Shed Light on What the Government Knows (nyt)
+- **May 15, 09:29 PM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
