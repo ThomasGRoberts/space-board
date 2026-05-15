@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 15 | 17 | 32 |
 | breaking_defense | 1 | 1 | 12 | 23 |
-| nyt | 0 | 1 | 12 | 23 |
+| nyt | 0 | 1 | 13 | 24 |
 
 # Shown Order
 
@@ -2205,3 +2205,4 @@
 - **May 15, 04:49 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
 - **May 15, 05:24 AM** - Failing to pass a defense budget is a self-inflicted wound in the space race (spacenews)
 - **May 15, 05:59 AM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
+- **May 15, 06:34 AM** - U.F.O. Files Released by U.S. Shed Light on What the Government Knows (nyt)
