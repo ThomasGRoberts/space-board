@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 13 | 15 | 33 |
 | breaking_defense | 0 | 1 | 13 | 24 |
-| nyt | 0 | 0 | 12 | 24 |
+| nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
 
@@ -2226,3 +2226,4 @@
 - **May 15, 05:24 PM** - Chinese satellite maker MinoSpace seeks $736 million in IPO (spacenews)
 - **May 15, 05:59 PM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
 - **May 15, 06:34 PM** - Joint ESA-China SMILE mission set for launch to study Earth’s magnetic shield (spacenews)
+- **May 15, 07:09 PM** - U.F.O. Files Released by U.S. Shed Light on What the Government Knows (nyt)
