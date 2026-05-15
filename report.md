@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 15 | 17 | 32 |
 | breaking_defense | 1 | 1 | 12 | 23 |
-| nyt | 0 | 1 | 12 | 23 |
+| nyt | 0 | 1 | 13 | 24 |
 
 # Shown Order
 
@@ -2199,3 +2199,4 @@
 - **May 15, 01:19 AM** - Pentagon Releases Files on U.F.O.s (nyt)
 - **May 15, 01:54 AM** - Rocketeers are Competing at the IREC for Your Attention (spacenews)
 - **May 15, 02:28 AM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
+- **May 15, 03:04 AM** - 5 Great Stargazing Trains (nyt)
