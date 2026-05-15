@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 16 | 32 |
 | breaking_defense | 1 | 1 | 12 | 23 |
-| nyt | 0 | 0 | 12 | 23 |
+| nyt | 0 | 0 | 13 | 24 |
 
 # Shown Order
 
@@ -2216,3 +2216,4 @@
 - **May 15, 11:29 AM** - Transcelestial tests space-to-ground laser communications technologies (spacenews)
 - **May 15, 12:04 PM** - Virgin Galactic reaffirms plans to begin commercial service this year (spacenews)
 - **May 15, 12:39 PM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
+- **May 15, 01:14 PM** - 5 Great Stargazing Trains (nyt)
