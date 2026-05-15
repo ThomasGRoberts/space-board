@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-15T00:04:50.777031+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3af2c4437913c35674e27c6082c05632",
+    "trigger_count": 0,
+    "current_item_id": "ccf26e57abbeca86e8401cba9e152197",
     "data": [
         {
             "id": "f3c19452a3555670ae17f32c7983caa8",
@@ -7741,6 +7741,18 @@
             "fetched_datetime": "2026-05-15T12:04:42.290029Z",
             "shown_at": [
                 "2026-05-15T12:04:43.176816Z"
+            ]
+        },
+        {
+            "id": "ccf26e57abbeca86e8401cba9e152197",
+            "source": "spacenews",
+            "text": "Joint ESA-China SMILE mission set for launch to study Earth’s magnetic shield",
+            "source_link": "https://spacenews.com/joint-esa-china-smile-mission-set-for-launch-to-study-earths-magnetic-shield/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-15T18:34:25.369027Z",
+            "shown_at": [
+                "2026-05-15T18:34:26.454042Z"
             ]
         }
     ]
