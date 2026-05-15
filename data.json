@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-15T00:04:50.777031+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f6e7881e4b1eddf5072755a0d3be8f01",
+    "trigger_count": 0,
+    "current_item_id": "a633e8b0a0894519649238ab5abdd87d",
     "data": [
         {
             "id": "f3c19452a3555670ae17f32c7983caa8",
@@ -7704,6 +7704,18 @@
                 "2026-03-19T03:19:17.732669Z",
                 "2026-03-22T13:59:09.157718Z",
                 "2026-03-24T12:39:06.063279Z"
+            ]
+        },
+        {
+            "id": "a633e8b0a0894519649238ab5abdd87d",
+            "source": "spacenews",
+            "text": "Chinese satellite maker MinoSpace seeks $736 million in IPO",
+            "source_link": "https://spacenews.com/chinese-satellite-maker-minospace-seeks-736-million-in-ipo/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-15T09:44:16.864553Z",
+            "shown_at": [
+                "2026-05-15T09:44:17.716305Z"
             ]
         }
     ]
