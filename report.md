@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 15 | 32 |
 | breaking_defense | 1 | 1 | 13 | 24 |
-| nyt | 0 | 0 | 12 | 24 |
+| nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
 
@@ -2222,3 +2222,4 @@
 - **May 15, 02:59 PM** - U.S.-China Rivalry Reaches South American Skies (nyt)
 - **May 15, 03:34 PM** - MDA Space continues work on Gateway robotic arm (spacenews)
 - **May 15, 04:09 PM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
+- **May 15, 04:49 PM** - U.S.-China Rivalry Reaches South American Skies (nyt)
