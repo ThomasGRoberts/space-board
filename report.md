@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 15 | 17 | 32 |
 | breaking_defense | 1 | 1 | 12 | 23 |
-| nyt | 0 | 1 | 12 | 23 |
+| nyt | 0 | 1 | 13 | 24 |
 
 # Shown Order
 
@@ -2196,3 +2196,4 @@
 - **May 14, 11:34 PM** - Pentagon Releases Files on U.F.O.s (nyt)
 - **May 15, 12:09 AM** - Cowboy files plans for up to 20,000 orbital data centers (spacenews)
 - **May 15, 12:44 AM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
+- **May 15, 01:19 AM** - Pentagon Releases Files on U.F.O.s (nyt)
