@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 12 | 15 | 33 |
-| breaking_defense | 0 | 1 | 12 | 24 |
+| breaking_defense | 0 | 1 | 13 | 25 |
 | nyt | 0 | 0 | 13 | 24 |
 
 # Shown Order
@@ -2224,3 +2224,4 @@
 - **May 15, 04:09 PM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
 - **May 15, 04:49 PM** - U.S.-China Rivalry Reaches South American Skies (nyt)
 - **May 15, 05:24 PM** - Chinese satellite maker MinoSpace seeks $736 million in IPO (spacenews)
+- **May 15, 05:59 PM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
