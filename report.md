@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 15 | 17 | 32 |
 | breaking_defense | 1 | 1 | 12 | 23 |
-| nyt | 0 | 1 | 11 | 23 |
+| nyt | 0 | 1 | 12 | 24 |
 
 # Shown Order
 
@@ -2208,3 +2208,4 @@
 - **May 15, 06:34 AM** - U.F.O. Files Released by U.S. Shed Light on What the Government Knows (nyt)
 - **May 15, 07:09 AM** - Intuitive Machines to buy ground station company (spacenews)
 - **May 15, 07:44 AM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
+- **May 15, 08:34 AM** - U.F.O. Files Released by U.S. Shed Light on What the Government Knows (nyt)
