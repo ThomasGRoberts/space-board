@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 13 | 16 | 33 |
 | breaking_defense | 0 | 1 | 13 | 24 |
-| nyt | 0 | 0 | 12 | 24 |
+| nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
 
@@ -2209,3 +2209,4 @@
 - **May 16, 09:44 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
 - **May 16, 10:19 AM** - Space is having its internet moment. Investors should act accordingly. (spacenews)
 - **May 16, 10:54 AM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
+- **May 16, 11:29 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
