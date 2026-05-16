@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 10 | 15 | 32 |
-| breaking_defense | 0 | 1 | 13 | 24 |
+| breaking_defense | 0 | 1 | 14 | 25 |
 | nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -2214,3 +2214,4 @@
 - **May 16, 12:39 PM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
 - **May 16, 01:14 PM** - U.S.-China Rivalry Reaches South American Skies (nyt)
 - **May 16, 01:49 PM** - SES joins Eutelsat in canceling GEO expansion satellites (spacenews)
+- **May 16, 02:24 PM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
