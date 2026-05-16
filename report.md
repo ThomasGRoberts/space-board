@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 14 | 17 | 34 |
-| breaking_defense | 0 | 1 | 12 | 23 |
+| breaking_defense | 0 | 1 | 13 | 24 |
 | nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
@@ -2205,3 +2205,4 @@
 - **May 16, 07:24 AM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
 - **May 16, 07:59 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
 - **May 16, 08:34 AM** - AST SpaceMobile may use ULA’s Vulcan (spacenews)
+- **May 16, 09:09 AM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
