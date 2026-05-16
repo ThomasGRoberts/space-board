@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 14 | 16 | 33 |
+| spacenews | 5 | 14 | 17 | 34 |
 | breaking_defense | 0 | 1 | 12 | 24 |
 | nyt | 0 | 0 | 12 | 24 |
 
@@ -2198,3 +2198,4 @@
 - **May 16, 03:19 AM** - Space is having its internet moment. Investors should act accordingly. (spacenews)
 - **May 16, 03:54 AM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
 - **May 16, 04:29 AM** - 5 Great Stargazing Trains (nyt)
+- **May 16, 05:04 AM** - Quantum Space to build spacecraft in Tulsa (spacenews)
