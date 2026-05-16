@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 8 | 15 | 31 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| spacenews | 3 | 8 | 14 | 31 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 | nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -2230,3 +2230,4 @@
 - **May 16, 10:04 PM** - York Space defends growth strategy as SDA programs are reshaped (spacenews)
 - **May 16, 10:39 PM** - NASA releases final RFP for Mars communications orbiter (spacenews)
 - **May 16, 11:14 PM** - 5 Great Stargazing Trains (nyt)
+- **May 16, 11:49 PM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
