@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 7 | 15 | 30 |
+| spacenews | 5 | 8 | 16 | 31 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 13 | 25 |
 
@@ -2228,3 +2228,4 @@
 - **May 16, 08:54 PM** - 5 Great Stargazing Trains (nyt)
 - **May 16, 09:29 PM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
 - **May 16, 10:04 PM** - York Space defends growth strategy as SDA programs are reshaped (spacenews)
+- **May 16, 10:39 PM** - NASA releases final RFP for Mars communications orbiter (spacenews)

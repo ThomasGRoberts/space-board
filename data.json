@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-16T00:04:30.495911+00:00",
-    "trigger_count": 6,
-    "current_item_id": "eb614f6875bc60c79697221c4a45ed3f",
+    "trigger_count": 0,
+    "current_item_id": "20f03b2653034c7adec4b4b8d2d69302",
     "data": [
         {
             "id": "a97df88bd06fc83448e33d45472f15fa",
@@ -7744,6 +7744,18 @@
             "fetched_datetime": "2026-05-16T22:04:29.238955Z",
             "shown_at": [
                 "2026-05-16T22:04:30.395992Z"
+            ]
+        },
+        {
+            "id": "20f03b2653034c7adec4b4b8d2d69302",
+            "source": "spacenews",
+            "text": "NASA releases final RFP for Mars communications orbiter",
+            "source_link": "https://spacenews.com/nasa-releases-final-rfp-for-mars-communications-orbiter/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-16T22:38:59.924122Z",
+            "shown_at": [
+                "2026-05-16T22:39:01.434644Z"
             ]
         }
     ]
