@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 8 | 15 | 30 |
 | breaking_defense | 0 | 0 | 13 | 26 |
-| nyt | 0 | 0 | 13 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2222,3 +2222,4 @@
 - **May 16, 05:19 PM** - U.S.-China Rivalry Reaches South American Skies (nyt)
 - **May 16, 05:54 PM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
 - **May 16, 06:34 PM** - Chinese satellite maker MinoSpace seeks $736 million in IPO (spacenews)
+- **May 16, 07:09 PM** - U.S.-China Rivalry Reaches South American Skies (nyt)
