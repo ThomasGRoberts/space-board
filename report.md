@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 8 | 15 | 30 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 | nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2220,3 +2220,4 @@
 - **May 16, 04:08 PM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
 - **May 16, 04:44 PM** - Golden Dome chief pushes back on $1.2 trillion CBO estimate (spacenews)
 - **May 16, 05:19 PM** - U.S.-China Rivalry Reaches South American Skies (nyt)
+- **May 16, 05:54 PM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
