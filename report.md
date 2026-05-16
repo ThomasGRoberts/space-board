@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 14 | 16 | 33 |
 | breaking_defense | 0 | 1 | 12 | 24 |
-| nyt | 0 | 0 | 12 | 24 |
+| nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
 
@@ -2200,3 +2200,4 @@
 - **May 16, 04:29 AM** - 5 Great Stargazing Trains (nyt)
 - **May 16, 05:04 AM** - Quantum Space to build spacecraft in Tulsa (spacenews)
 - **May 16, 05:39 AM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
+- **May 16, 06:14 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
