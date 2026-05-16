@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 13 | 16 | 33 |
-| breaking_defense | 0 | 1 | 12 | 24 |
+| breaking_defense | 0 | 1 | 13 | 25 |
 | nyt | 0 | 0 | 13 | 24 |
 
 # Shown Order
@@ -2208,3 +2208,4 @@
 - **May 16, 09:09 AM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
 - **May 16, 09:44 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
 - **May 16, 10:19 AM** - Space is having its internet moment. Investors should act accordingly. (spacenews)
+- **May 16, 10:54 AM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
