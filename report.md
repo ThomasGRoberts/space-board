@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 7 | 15 | 30 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2226,3 +2226,4 @@
 - **May 16, 07:44 PM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
 - **May 16, 08:19 PM** - Virgin Galactic reaffirms plans to begin commercial service this year (spacenews)
 - **May 16, 08:54 PM** - 5 Great Stargazing Trains (nyt)
+- **May 16, 09:29 PM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
