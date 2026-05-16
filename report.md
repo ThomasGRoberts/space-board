@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 14 | 16 | 33 |
 | breaking_defense | 0 | 1 | 12 | 24 |
-| nyt | 0 | 0 | 12 | 24 |
+| nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
 
@@ -2203,3 +2203,4 @@
 - **May 16, 06:14 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
 - **May 16, 06:49 AM** - SES joins Eutelsat in canceling GEO expansion satellites (spacenews)
 - **May 16, 07:24 AM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
+- **May 16, 07:59 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
