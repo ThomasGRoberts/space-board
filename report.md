@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 14 | 16 | 33 |
+| spacenews | 5 | 14 | 17 | 34 |
 | breaking_defense | 0 | 1 | 12 | 24 |
 | nyt | 0 | 0 | 12 | 24 |
 
@@ -2192,3 +2192,4 @@
 - **May 15, 11:49 PM** - SpaceX launches CRS-34 cargo mission to ISS (spacenews)
 - **May 16, 12:24 AM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
 - **May 16, 12:59 AM** - 5 Great Stargazing Trains (nyt)
+- **May 16, 01:34 AM** - Iridium to take over Aireon to expand aviation safety business (spacenews)
