@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 11 | 16 | 32 |
 | breaking_defense | 0 | 1 | 13 | 25 |
-| nyt | 0 | 0 | 12 | 24 |
+| nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
 
@@ -2216,3 +2216,4 @@
 - **May 16, 01:49 PM** - SES joins Eutelsat in canceling GEO expansion satellites (spacenews)
 - **May 16, 02:24 PM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
 - **May 16, 02:58 PM** - Space Force awards Northrop Grumman $398 million satellite contract (spacenews)
+- **May 16, 03:34 PM** - U.S.-China Rivalry Reaches South American Skies (nyt)
