@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 10 | 15 | 31 |
 | breaking_defense | 0 | 1 | 13 | 25 |
-| nyt | 0 | 0 | 13 | 25 |
+| nyt | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -2212,3 +2212,4 @@
 - **May 16, 11:29 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
 - **May 16, 12:04 PM** - Iridium to take over Aireon to expand aviation safety business (spacenews)
 - **May 16, 12:39 PM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
+- **May 16, 01:14 PM** - U.S.-China Rivalry Reaches South American Skies (nyt)
