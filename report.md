@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 14 | 16 | 33 |
+| spacenews | 4 | 14 | 15 | 33 |
 | breaking_defense | 0 | 1 | 13 | 24 |
-| nyt | 0 | 0 | 12 | 24 |
+| nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
 
@@ -2206,3 +2206,4 @@
 - **May 16, 07:59 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
 - **May 16, 08:34 AM** - AST SpaceMobile may use ULA’s Vulcan (spacenews)
 - **May 16, 09:09 AM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
+- **May 16, 09:44 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
