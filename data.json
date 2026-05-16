@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-16T00:04:30.495911+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b9b8971f34a114856dd28b97173b79ab",
+    "trigger_count": 0,
+    "current_item_id": "801d989694a4175c5507992985ab26b6",
     "data": [
         {
             "id": "a97df88bd06fc83448e33d45472f15fa",
@@ -7709,6 +7709,18 @@
             "fetched_datetime": "2026-03-18T13:05:13.387306Z",
             "shown_at": [
                 "2026-03-18T13:44:17.613407Z"
+            ]
+        },
+        {
+            "id": "801d989694a4175c5507992985ab26b6",
+            "source": "spacenews",
+            "text": "Space Force awards Northrop Grumman $398 million satellite contract",
+            "source_link": "https://spacenews.com/space-force-awards-northrop-grumman-398-million-satellite-contract/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-16T14:58:45.478797Z",
+            "shown_at": [
+                "2026-05-16T14:58:46.470054Z"
             ]
         }
     ]
