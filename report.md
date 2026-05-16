@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 9 | 15 | 31 |
-| breaking_defense | 0 | 1 | 13 | 25 |
+| breaking_defense | 0 | 1 | 14 | 26 |
 | nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -2217,3 +2217,4 @@
 - **May 16, 02:24 PM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
 - **May 16, 02:58 PM** - Space Force awards Northrop Grumman $398 million satellite contract (spacenews)
 - **May 16, 03:34 PM** - U.S.-China Rivalry Reaches South American Skies (nyt)
+- **May 16, 04:08 PM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
