@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 7 | 15 | 30 |
 | breaking_defense | 0 | 0 | 13 | 26 |
-| nyt | 0 | 0 | 13 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2225,3 +2225,4 @@
 - **May 16, 07:09 PM** - U.S.-China Rivalry Reaches South American Skies (nyt)
 - **May 16, 07:44 PM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
 - **May 16, 08:19 PM** - Virgin Galactic reaffirms plans to begin commercial service this year (spacenews)
+- **May 16, 08:54 PM** - 5 Great Stargazing Trains (nyt)
