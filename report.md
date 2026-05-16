@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 14 | 16 | 33 |
+| spacenews | 5 | 14 | 17 | 34 |
 | breaking_defense | 0 | 1 | 12 | 24 |
 | nyt | 0 | 0 | 12 | 24 |
 
@@ -2195,3 +2195,4 @@
 - **May 16, 01:34 AM** - Iridium to take over Aireon to expand aviation safety business (spacenews)
 - **May 16, 02:09 AM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
 - **May 16, 02:44 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
+- **May 16, 03:19 AM** - Space is having its internet moment. Investors should act accordingly. (spacenews)
