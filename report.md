@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 14 | 16 | 33 |
 | breaking_defense | 0 | 1 | 12 | 24 |
-| nyt | 0 | 0 | 12 | 24 |
+| nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
 
@@ -2197,3 +2197,4 @@
 - **May 16, 02:44 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
 - **May 16, 03:19 AM** - Space is having its internet moment. Investors should act accordingly. (spacenews)
 - **May 16, 03:54 AM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
+- **May 16, 04:29 AM** - 5 Great Stargazing Trains (nyt)
