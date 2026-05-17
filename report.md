@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 8 | 14 | 30 |
+| spacenews | 3 | 8 | 15 | 31 |
 | breaking_defense | 0 | 0 | 14 | 26 |
 | nyt | 0 | 0 | 13 | 25 |
 
@@ -2224,3 +2224,4 @@
 - **May 16, 10:39 PM** - NASA releases final RFP for Mars communications orbiter (spacenews)
 - **May 16, 11:14 PM** - 5 Great Stargazing Trains (nyt)
 - **May 16, 11:49 PM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
+- **May 17, 12:24 AM** - ESA and JAXA finalize agreement on Apophis asteroid mission (spacenews)
