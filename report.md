@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 8 | 14 | 30 |
-| breaking_defense | 0 | 0 | 14 | 26 |
+| spacenews | 3 | 8 | 15 | 31 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -2230,3 +2230,4 @@
 - **May 17, 02:09 AM** - Star Catcher raises $65 million for space power grid (spacenews)
 - **May 17, 02:44 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
 - **May 17, 03:19 AM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
+- **May 17, 03:54 AM** - Cowboy raises $275 million to build rockets with orbital data center upper stages (spacenews)
