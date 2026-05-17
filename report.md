@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 8 | 15 | 31 |
 | breaking_defense | 0 | 0 | 13 | 25 |
-| nyt | 0 | 0 | 13 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2237,3 +2237,4 @@
 - **May 17, 06:14 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
 - **May 17, 06:49 AM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
 - **May 17, 07:24 AM** - Why Earth observation data is getting stuck in orbit (spacenews)
+- **May 17, 08:04 AM** - 5 Great Stargazing Trains (nyt)
