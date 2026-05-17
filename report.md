@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 6 | 14 | 29 |
+| spacenews | 2 | 6 | 15 | 30 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 13 | 26 |
 
@@ -2251,3 +2251,4 @@
 - **May 17, 02:34 PM** - AST SpaceMobile may use ULA’s Vulcan (spacenews)
 - **May 17, 03:08 PM** - U.S.-China Rivalry Reaches South American Skies (nyt)
 - **May 17, 03:44 PM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
+- **May 17, 04:19 PM** - Joint ESA-China SMILE mission set for launch to study Earth’s magnetic shield (spacenews)
