@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 5 | 15 | 30 |
+| spacenews | 1 | 5 | 14 | 29 |
 | breaking_defense | 0 | 0 | 13 | 26 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2261,3 +2261,4 @@
 - **May 17, 08:23 PM** - U.S.-China Rivalry Reaches South American Skies (nyt)
 - **May 17, 08:59 PM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
 - **May 17, 09:34 PM** - Iridium to take over Aireon in $367 million deal to expand aviation safety business (spacenews)
+- **May 17, 10:09 PM** - U.S.-China Rivalry Reaches South American Skies (nyt)
