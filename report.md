@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 7 | 14 | 30 |
+| spacenews | 3 | 7 | 15 | 31 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 13 | 25 |
 
@@ -2242,3 +2242,4 @@
 - **May 17, 09:14 AM** - Iridium to take over Aireon to expand aviation safety business (spacenews)
 - **May 17, 09:54 AM** - 5 Great Stargazing Trains (nyt)
 - **May 17, 10:28 AM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
+- **May 17, 11:04 AM** - Landspace launches improved Zhuque-2E, Long March 6A lofts new Qianfan satellite group (spacenews)
