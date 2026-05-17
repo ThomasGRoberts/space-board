@@ -8,9 +8,6 @@
 
 # Shown Order
 
-- **Mar 18, 01:44 PM** - China signals new target for 2027 asteroid deflection test (spacenews)
-- **Mar 18, 03:29 PM** - Solar array deal sheds more light on South Korea’s defense constellation (spacenews)
-- **Mar 18, 07:09 PM** - TransAstra aims to move 100-ton asteroid to stable orbit for processing (spacenews)
 - **Mar 18, 10:39 PM** - Rocket Lab wins $190 million Pentagon deal for hypersonic test flights (spacenews)
 - **Mar 18, 11:14 PM** - NASA’s Hubble Telescope Spots Comet K1 Exploding Into Fragments (nyt)
 - **Mar 18, 11:49 PM** - Space Command classified wargame to include 25 commercial players (spacenews)
@@ -26,7 +23,6 @@
 - **Mar 19, 11:39 PM** - Blue Origin joins the orbital data center race (spacenews)
 - **Mar 20, 01:29 AM** - NASA’s Hubble Telescope Spots Comet K1 Exploding Into Fragments (nyt)
 - **Mar 20, 02:39 AM** - ‘Spacewoman’ Review: Mission Driven (nyt)
-- **Mar 20, 04:29 AM** - Solar array deal sheds more light on South Korea’s defense constellation (spacenews)
 - **Mar 20, 05:04 AM** - NASA’s Hubble Telescope Spots Comet K1 Exploding Into Fragments (nyt)
 - **Mar 20, 07:24 AM** - NASA’s Hubble Telescope Spots Comet K1 Exploding Into Fragments (nyt)
 - **Mar 20, 09:44 AM** - ‘Spacewoman’ Review: Mission Driven (nyt)
@@ -43,7 +39,6 @@
 - **Mar 20, 10:09 PM** - Officina Stellare wins $2 million contract for lasercom ground station in Spain (spacenews)
 - **Mar 20, 10:44 PM** - ‘Spacewoman’ Review: Mission Driven (nyt)
 - **Mar 21, 12:11 AM** - NASA’s Hubble Telescope Spots Comet K1 Exploding Into Fragments (nyt)
-- **Mar 21, 12:49 AM** - Solar array deal sheds more light on South Korea’s defense constellation (spacenews)
 - **Mar 21, 03:09 AM** - Another GPS launch shifts from ULA to SpaceX as Vulcan investigation continues (spacenews)
 - **Mar 21, 04:19 AM** - Another GPS launch shifts from ULA to SpaceX as Vulcan investigation continues (spacenews)
 - **Mar 21, 07:14 AM** - ‘Spacewoman’ Review: Mission Driven (nyt)
@@ -134,7 +129,6 @@
 - **Mar 24, 03:04 PM** - NASA Adds Moon Base and Nuclear-Powered Mars Spacecraft to Road Map (nyt)
 - **Mar 24, 03:39 PM** - How Do You Measure Snow From Space? First, Climb a Mountain. (nyt)
 - **Mar 24, 04:15 PM** - Lunar lander developers say they are ready to meet anticipated increased NASA demand (spacenews)
-- **Mar 24, 05:29 PM** - Solar array deal sheds more light on South Korea’s defense constellation (spacenews)
 - **Mar 24, 06:04 PM** - China’s Astronstone raises $29 million for reusable rocket with chopstick-style recovery (spacenews)
 - **Mar 24, 06:39 PM** - Space Development Agency slows satellite launches to focus on on-orbit performance (spacenews)
 - **Mar 24, 07:14 PM** - NASA halts work on Gateway to develop a lunar base (spacenews)
@@ -148,7 +142,6 @@
 - **Mar 25, 12:14 AM** - From missions to systems: The architecture enabling a sustained lunar economy (spacenews)
 - **Mar 25, 12:49 AM** - OrbitsIQ Global Announces Breakthrough in Space-Based IoT Connectivity (spacenews)
 - **Mar 25, 01:24 AM** - A Meteor Exploded Over Ohio. Then the Hunt for Meteorites Began. (nyt)
-- **Mar 25, 01:58 AM** - TransAstra aims to move 100-ton asteroid to stable orbit for processing (spacenews)
 - **Mar 25, 02:34 AM** - NASA’s Hubble Telescope Spots Comet K1 Exploding Into Fragments (nyt)
 - **Mar 25, 03:09 AM** - Blue Origin joins the orbital data center race (spacenews)
 - **Mar 25, 03:44 AM** - ‘Spacewoman’ Review: Mission Driven (nyt)

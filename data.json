@@ -1,9 +1,45 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-05-16T00:04:30.495911+00:00",
-    "trigger_count": 2,
+    "last_run_datetime": "2026-05-17T00:04:24.911168+00:00",
+    "trigger_count": 3,
     "current_item_id": "b9b8971f34a114856dd28b97173b79ab",
     "data": [
+        {
+            "id": "20f03b2653034c7adec4b4b8d2d69302",
+            "source": "spacenews",
+            "text": "NASA releases final RFP for Mars communications orbiter",
+            "source_link": "https://spacenews.com/nasa-releases-final-rfp-for-mars-communications-orbiter/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-16T22:38:59.924122Z",
+            "shown_at": [
+                "2026-05-16T22:39:01.434644Z"
+            ]
+        },
+        {
+            "id": "eb614f6875bc60c79697221c4a45ed3f",
+            "source": "spacenews",
+            "text": "York Space defends growth strategy as SDA programs are reshaped",
+            "source_link": "https://spacenews.com/york-space-defends-growth-strategy-as-sda-programs-are-reshaped/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-16T22:04:29.238955Z",
+            "shown_at": [
+                "2026-05-16T22:04:30.395992Z"
+            ]
+        },
+        {
+            "id": "801d989694a4175c5507992985ab26b6",
+            "source": "spacenews",
+            "text": "Space Force awards Northrop Grumman $398 million satellite contract",
+            "source_link": "https://spacenews.com/space-force-awards-northrop-grumman-398-million-satellite-contract/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-16T14:58:45.478797Z",
+            "shown_at": [
+                "2026-05-16T14:58:46.470054Z"
+            ]
+        },
         {
             "id": "a97df88bd06fc83448e33d45472f15fa",
             "source": "spacenews",
@@ -7682,82 +7718,6 @@
                 "2026-03-23T15:29:16.522168Z",
                 "2026-03-25T10:14:21.667822Z",
                 "2026-03-25T18:29:08.434285Z"
-            ]
-        },
-        {
-            "id": "bbcde129e556c3b2c3c57526e817c91c",
-            "source": "spacenews",
-            "text": "TransAstra aims to move 100-ton asteroid to stable orbit for processing",
-            "source_link": "https://spacenews.com/transastra-aims-to-move-100-ton-asteroid-to-stable-orbit-for-processing/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-18T19:09:29.803395Z",
-            "shown_at": [
-                "2026-03-18T19:09:30.961744Z",
-                "2026-03-25T01:58:55.054273Z"
-            ]
-        },
-        {
-            "id": "c76f00fe92aac7d5acd0ce7ccbcc497a",
-            "source": "spacenews",
-            "text": "Solar array deal sheds more light on South Korea’s defense constellation",
-            "source_link": "https://spacenews.com/solar-array-deal-sheds-more-light-on-south-koreas-defense-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-18T15:29:14.139069Z",
-            "shown_at": [
-                "2026-03-18T15:29:15.104843Z",
-                "2026-03-20T04:29:28.400299Z",
-                "2026-03-21T00:49:10.762303Z",
-                "2026-03-24T17:29:29.649056Z"
-            ]
-        },
-        {
-            "id": "2f55c987e0c5a271a0bfaf8d8c257eb4",
-            "source": "spacenews",
-            "text": "China signals new target for 2027 asteroid deflection test",
-            "source_link": "https://spacenews.com/china-signals-new-target-for-2027-asteroid-deflection-test/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-18T13:05:13.387306Z",
-            "shown_at": [
-                "2026-03-18T13:44:17.613407Z"
-            ]
-        },
-        {
-            "id": "801d989694a4175c5507992985ab26b6",
-            "source": "spacenews",
-            "text": "Space Force awards Northrop Grumman $398 million satellite contract",
-            "source_link": "https://spacenews.com/space-force-awards-northrop-grumman-398-million-satellite-contract/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-16T14:58:45.478797Z",
-            "shown_at": [
-                "2026-05-16T14:58:46.470054Z"
-            ]
-        },
-        {
-            "id": "eb614f6875bc60c79697221c4a45ed3f",
-            "source": "spacenews",
-            "text": "York Space defends growth strategy as SDA programs are reshaped",
-            "source_link": "https://spacenews.com/york-space-defends-growth-strategy-as-sda-programs-are-reshaped/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-16T22:04:29.238955Z",
-            "shown_at": [
-                "2026-05-16T22:04:30.395992Z"
-            ]
-        },
-        {
-            "id": "20f03b2653034c7adec4b4b8d2d69302",
-            "source": "spacenews",
-            "text": "NASA releases final RFP for Mars communications orbiter",
-            "source_link": "https://spacenews.com/nasa-releases-final-rfp-for-mars-communications-orbiter/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-16T22:38:59.924122Z",
-            "shown_at": [
-                "2026-05-16T22:39:01.434644Z"
             ]
         }
     ]
