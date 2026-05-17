@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 6 | 15 | 30 |
+| spacenews | 2 | 5 | 14 | 29 |
 | breaking_defense | 0 | 0 | 13 | 26 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2255,3 +2255,4 @@
 - **May 17, 04:54 PM** - 5 Great Stargazing Trains (nyt)
 - **May 17, 05:29 PM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
 - **May 17, 06:04 PM** - Former NASA chief of staff returns to lead agency launch operations (spacenews)
+- **May 17, 06:39 PM** - 5 Great Stargazing Trains (nyt)
