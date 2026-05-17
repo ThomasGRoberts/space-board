@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 6 | 15 | 30 |
 | breaking_defense | 0 | 0 | 13 | 26 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2246,3 +2246,4 @@
 - **May 17, 11:39 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
 - **May 17, 12:14 PM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
 - **May 17, 12:49 PM** - Failing to pass a defense budget is a self-inflicted wound in the space race (spacenews)
+- **May 17, 01:24 PM** - 5 Great Stargazing Trains (nyt)
