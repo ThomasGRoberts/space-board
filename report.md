@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 8 | 15 | 31 |
 | breaking_defense | 0 | 0 | 13 | 25 |
-| nyt | 0 | 0 | 13 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2234,3 +2234,4 @@
 - **May 17, 04:29 AM** - 5 Great Stargazing Trains (nyt)
 - **May 17, 05:04 AM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
 - **May 17, 05:39 AM** - Golden Dome chief pushes back on $1.2 trillion CBO estimate (spacenews)
+- **May 17, 06:14 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
