@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 6 | 14 | 29 |
-| breaking_defense | 0 | 0 | 13 | 27 |
+| spacenews | 2 | 6 | 15 | 30 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2254,3 +2254,4 @@
 - **May 17, 04:19 PM** - Joint ESA-China SMILE mission set for launch to study Earth’s magnetic shield (spacenews)
 - **May 17, 04:54 PM** - 5 Great Stargazing Trains (nyt)
 - **May 17, 05:29 PM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
+- **May 17, 06:04 PM** - Former NASA chief of staff returns to lead agency launch operations (spacenews)
