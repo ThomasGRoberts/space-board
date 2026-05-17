@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 8 | 15 | 31 |
 | breaking_defense | 0 | 0 | 13 | 25 |
-| nyt | 0 | 0 | 13 | 25 |
+| nyt | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -2225,3 +2225,4 @@
 - **May 16, 11:14 PM** - 5 Great Stargazing Trains (nyt)
 - **May 16, 11:49 PM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
 - **May 17, 12:24 AM** - ESA and JAXA finalize agreement on Apophis asteroid mission (spacenews)
+- **May 17, 12:58 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
