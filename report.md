@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 8 | 14 | 31 |
-| breaking_defense | 0 | 0 | 14 | 26 |
+| spacenews | 3 | 8 | 15 | 31 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -2239,3 +2239,4 @@
 - **May 17, 07:24 AM** - Why Earth observation data is getting stuck in orbit (spacenews)
 - **May 17, 08:04 AM** - 5 Great Stargazing Trains (nyt)
 - **May 17, 08:39 AM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
+- **May 17, 09:14 AM** - Iridium to take over Aireon to expand aviation safety business (spacenews)
