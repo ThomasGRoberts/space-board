@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 6 | 14 | 30 |
 | breaking_defense | 0 | 0 | 13 | 26 |
-| nyt | 0 | 0 | 13 | 25 |
+| nyt | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -2249,3 +2249,4 @@
 - **May 17, 01:24 PM** - 5 Great Stargazing Trains (nyt)
 - **May 17, 01:59 PM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
 - **May 17, 02:34 PM** - AST SpaceMobile may use ULA’s Vulcan (spacenews)
+- **May 17, 03:08 PM** - U.S.-China Rivalry Reaches South American Skies (nyt)
