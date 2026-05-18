@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 8 | 15 | 29 |
+| spacenews | 5 | 8 | 15 | 30 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 13 | 26 |
 
@@ -2286,3 +2286,4 @@
 - **May 18, 11:04 AM** - The next war will be won — or lost — in orbit (spacenews)
 - **May 18, 11:39 AM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
 - **May 18, 12:14 PM** - Tomorrow.io adds $35 million to DeepSky funding round (spacenews)
+- **May 18, 12:54 PM** - House bill restores funding for TraCSS (spacenews)

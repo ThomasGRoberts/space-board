@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-18T00:04:26.895276+00:00",
-    "trigger_count": 6,
-    "current_item_id": "096c81041916c7502aaeec7566e105d3",
+    "trigger_count": 0,
+    "current_item_id": "ee8e065f42c5cf584113c2110c62aa40",
     "data": [
         {
             "id": "20f03b2653034c7adec4b4b8d2d69302",
@@ -7820,9 +7820,12 @@
             "source": "spacenews",
             "text": "House bill restores funding for TraCSS",
             "source_link": "https://spacenews.com/house-bill-restores-funding-for-tracss/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-05-18T12:14:15.824775Z"
+            "fetched_datetime": "2026-05-18T12:14:15.824775Z",
+            "shown_at": [
+                "2026-05-18T12:54:05.256162Z"
+            ]
         },
         {
             "id": "37f06e9ca16537cd4e87c2cd123524e3",
