@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 10 | 15 | 30 |
+| spacenews | 8 | 10 | 16 | 31 |
 | breaking_defense | 0 | 0 | 12 | 25 |
 | nyt | 0 | 0 | 13 | 26 |
 
@@ -2301,3 +2301,4 @@
 - **May 18, 07:54 PM** - European imaging companies step in to fill warzone gap (spacenews)
 - **May 18, 08:29 PM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
 - **May 18, 09:04 PM** - 5 Great Stargazing Trains (nyt)
+- **May 18, 09:39 PM** - Chinese satellite maker MinoSpace seeks $736 million in IPO (spacenews)
