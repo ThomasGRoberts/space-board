@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-18T00:04:26.895276+00:00",
-    "trigger_count": 6,
-    "current_item_id": "63a7f34de87f041303b6e4971e69ce55",
+    "trigger_count": 0,
+    "current_item_id": "678256d0fa63b1377736250685462b37",
     "data": [
         {
             "id": "20f03b2653034c7adec4b4b8d2d69302",
@@ -7788,6 +7788,18 @@
             "fetched_datetime": "2026-05-18T02:49:13.919603Z",
             "shown_at": [
                 "2026-05-18T02:49:14.669793Z"
+            ]
+        },
+        {
+            "id": "678256d0fa63b1377736250685462b37",
+            "source": "spacenews",
+            "text": "The next war will be won — or lost — in orbit",
+            "source_link": "https://spacenews.com/the-next-war-will-be-won-or-lost-in-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-18T11:04:45.765008Z",
+            "shown_at": [
+                "2026-05-18T11:04:47.306465Z"
             ]
         }
     ]
