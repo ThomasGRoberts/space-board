@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 9 | 16 | 30 |
-| breaking_defense | 0 | 0 | 12 | 25 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 12 | 26 |
 
 # Shown Order
@@ -2296,3 +2296,4 @@
 - **May 18, 04:59 PM** - Zenk Space raises $26 million, targets June debut launch  (spacenews)
 - **May 18, 05:34 PM** - 5 Great Stargazing Trains (nyt)
 - **May 18, 06:09 PM** - Four NASA payloads to fly on Astrolab’s first lunar rover (spacenews)
+- **May 18, 06:44 PM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
