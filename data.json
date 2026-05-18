@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-18T00:04:26.895276+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f8f5f50fa8c7677ae0ea4116c665ca74",
+    "trigger_count": 0,
+    "current_item_id": "ac8b3772e716775006e34715a8b09ba5",
     "data": [
         {
             "id": "20f03b2653034c7adec4b4b8d2d69302",
@@ -7763,6 +7763,18 @@
                 "2026-03-23T15:29:16.522168Z",
                 "2026-03-25T10:14:21.667822Z",
                 "2026-03-25T18:29:08.434285Z"
+            ]
+        },
+        {
+            "id": "ac8b3772e716775006e34715a8b09ba5",
+            "source": "spacenews",
+            "text": "Zenk Space raises $26 million, targets June debut launch ",
+            "source_link": "https://spacenews.com/zenk-space-raises-26-million-targets-june-debut-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-18T02:49:13.919603Z",
+            "shown_at": [
+                "2026-05-18T02:49:14.669793Z"
             ]
         }
     ]
