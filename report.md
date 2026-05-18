@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 8 | 16 | 30 |
-| breaking_defense | 0 | 0 | 13 | 26 |
-| nyt | 0 | 0 | 12 | 25 |
+| breaking_defense | 0 | 0 | 12 | 26 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2291,3 +2291,4 @@
 - **May 18, 02:04 PM** - 5 Great Stargazing Trains (nyt)
 - **May 18, 02:39 PM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
 - **May 18, 03:14 PM** - Inside Golden Dome’s push to court commercial tech firms and investors (spacenews)
+- **May 18, 03:49 PM** - 5 Great Stargazing Trains (nyt)
