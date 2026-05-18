@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-18T00:04:26.895276+00:00",
-    "trigger_count": 6,
-    "current_item_id": "63a7f34de87f041303b6e4971e69ce55",
+    "trigger_count": 0,
+    "current_item_id": "2583c1a9e015659d994270e9be443ddf",
     "data": [
         {
             "id": "20f03b2653034c7adec4b4b8d2d69302",
@@ -7855,6 +7855,18 @@
             "fetched_datetime": "2026-05-18T15:14:22.507364Z",
             "shown_at": [
                 "2026-05-18T15:14:24.188687Z"
+            ]
+        },
+        {
+            "id": "2583c1a9e015659d994270e9be443ddf",
+            "source": "spacenews",
+            "text": "Four NASA payloads to fly on Astrolab’s first lunar rover",
+            "source_link": "https://spacenews.com/four-nasa-payloads-to-fly-on-astrolabs-first-lunar-rover/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-18T18:09:26.747596Z",
+            "shown_at": [
+                "2026-05-18T18:09:28.122072Z"
             ]
         }
     ]
