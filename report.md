@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 8 | 16 | 30 |
 | breaking_defense | 0 | 0 | 12 | 26 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2288,3 +2288,4 @@
 - **May 18, 12:14 PM** - Tomorrow.io adds $35 million to DeepSky funding round (spacenews)
 - **May 18, 12:54 PM** - House bill restores funding for TraCSS (spacenews)
 - **May 18, 01:29 PM** - New CSF Report Sees Up To 7,000+ Satellites Launched Annually By Mid 2030’s, Highlights The Challenges With US Launch Infrastructure (spacenews)
+- **May 18, 02:04 PM** - 5 Great Stargazing Trains (nyt)
