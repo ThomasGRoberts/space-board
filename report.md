@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 10 | 16 | 30 |
 | breaking_defense | 0 | 0 | 12 | 26 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2300,3 +2300,4 @@
 - **May 18, 07:19 PM** - 5 Great Stargazing Trains (nyt)
 - **May 18, 07:54 PM** - European imaging companies step in to fill warzone gap (spacenews)
 - **May 18, 08:29 PM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
+- **May 18, 09:04 PM** - 5 Great Stargazing Trains (nyt)
