@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 4 | 14 | 28 |
-| breaking_defense | 0 | 0 | 13 | 27 |
+| spacenews | 1 | 4 | 13 | 28 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 | nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
@@ -2274,3 +2274,4 @@
 - **May 18, 03:59 AM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
 - **May 18, 04:34 AM** - Transcelestial tests space-to-ground laser communications technologies (spacenews)
 - **May 18, 05:09 AM** - 5 Great Stargazing Trains (nyt)
+- **May 18, 05:44 AM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
