@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 3 | 14 | 28 |
 | breaking_defense | 0 | 0 | 13 | 27 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2267,3 +2267,4 @@
 - **May 17, 11:54 PM** - U.S.-China Rivalry Reaches South American Skies (nyt)
 - **May 18, 12:29 AM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
 - **May 18, 01:04 AM** - Varda to collaborate with United Therapeutics on microgravity drug research (spacenews)
+- **May 18, 01:39 AM** - U.S.-China Rivalry Reaches South American Skies (nyt)
