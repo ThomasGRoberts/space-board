@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 4 | 13 | 28 |
+| spacenews | 1 | 4 | 14 | 29 |
 | breaking_defense | 0 | 0 | 14 | 27 |
-| nyt | 0 | 0 | 14 | 26 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2278,3 +2278,4 @@
 - **May 18, 06:24 AM** - SpaceX sets date for first Starship version 3 launch (spacenews)
 - **May 18, 06:59 AM** - 5 Great Stargazing Trains (nyt)
 - **May 18, 07:34 AM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
+- **May 18, 08:09 AM** - SLS to launch without upper stage for Artemis 3 (spacenews)
