@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 4 | 13 | 28 |
+| spacenews | 1 | 4 | 14 | 29 |
 | breaking_defense | 0 | 0 | 14 | 27 |
-| nyt | 0 | 0 | 14 | 26 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2281,3 +2281,4 @@
 - **May 18, 08:09 AM** - SLS to launch without upper stage for Artemis 3 (spacenews)
 - **May 18, 08:44 AM** - 5 Great Stargazing Trains (nyt)
 - **May 18, 09:19 AM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
+- **May 18, 09:54 AM** - Space is having its internet moment. Investors should act accordingly. (spacenews)
