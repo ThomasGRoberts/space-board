@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 14 | 29 |
-| breaking_defense | 0 | 0 | 13 | 26 |
-| nyt | 0 | 0 | 14 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2284,3 +2284,4 @@
 - **May 18, 09:54 AM** - Space is having its internet moment. Investors should act accordingly. (spacenews)
 - **May 18, 10:29 AM** - 5 Great Stargazing Trains (nyt)
 - **May 18, 11:04 AM** - The next war will be won — or lost — in orbit (spacenews)
+- **May 18, 11:39 AM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
