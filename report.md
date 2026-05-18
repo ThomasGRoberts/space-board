@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 4 | 13 | 28 |
+| spacenews | 1 | 4 | 14 | 29 |
 | breaking_defense | 0 | 0 | 14 | 27 |
-| nyt | 0 | 0 | 14 | 27 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2272,3 +2272,4 @@
 - **May 18, 02:49 AM** - Zenk Space raises $26 million, targets June debut launch  (spacenews)
 - **May 18, 03:24 AM** - 5 Great Stargazing Trains (nyt)
 - **May 18, 03:59 AM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
+- **May 18, 04:34 AM** - Transcelestial tests space-to-ground laser communications technologies (spacenews)
