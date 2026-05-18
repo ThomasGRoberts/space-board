@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 4 | 14 | 28 |
 | breaking_defense | 0 | 0 | 13 | 27 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2276,3 +2276,4 @@
 - **May 18, 05:09 AM** - 5 Great Stargazing Trains (nyt)
 - **May 18, 05:44 AM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
 - **May 18, 06:24 AM** - SpaceX sets date for first Starship version 3 launch (spacenews)
+- **May 18, 06:59 AM** - 5 Great Stargazing Trains (nyt)
