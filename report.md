@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 8 | 16 | 29 |
+| spacenews | 8 | 8 | 16 | 30 |
 | breaking_defense | 0 | 0 | 12 | 26 |
 | nyt | 0 | 0 | 13 | 26 |
 
@@ -2304,3 +2304,4 @@
 - **May 18, 09:39 PM** - Chinese satellite maker MinoSpace seeks $736 million in IPO (spacenews)
 - **May 18, 10:14 PM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
 - **May 18, 10:49 PM** - 5 Great Stargazing Trains (nyt)
+- **May 18, 11:24 PM** - Intuitive Machines to buy ground station company (spacenews)
