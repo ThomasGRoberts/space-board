@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-18T00:04:26.895276+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ee8e065f42c5cf584113c2110c62aa40",
+    "trigger_count": 0,
+    "current_item_id": "37f06e9ca16537cd4e87c2cd123524e3",
     "data": [
         {
             "id": "20f03b2653034c7adec4b4b8d2d69302",
@@ -7832,9 +7832,12 @@
             "source": "spacenews",
             "text": "New CSF Report Sees Up To 7,000+ Satellites Launched Annually By Mid 2030’s, Highlights The Challenges With US Launch Infrastructure",
             "source_link": "https://spacenews.com/new-csf-report-sees-up-to-7000-satellites-launched-annually-by-mid-2030s-highlights-the-challenges-with-us-launch-infrastructure/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-05-18T12:14:15.824844Z"
+            "fetched_datetime": "2026-05-18T12:14:15.824844Z",
+            "shown_at": [
+                "2026-05-18T13:29:22.350467Z"
+            ]
         }
     ]
 }

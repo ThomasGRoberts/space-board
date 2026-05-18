@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 8 | 15 | 30 |
+| spacenews | 5 | 8 | 16 | 31 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 12 | 25 |
 
@@ -2287,3 +2287,4 @@
 - **May 18, 11:39 AM** - SOCOM to test SkyFi satellite imagery-to-tablet prototype (breaking_defense)
 - **May 18, 12:14 PM** - Tomorrow.io adds $35 million to DeepSky funding round (spacenews)
 - **May 18, 12:54 PM** - House bill restores funding for TraCSS (spacenews)
+- **May 18, 01:29 PM** - New CSF Report Sees Up To 7,000+ Satellites Launched Annually By Mid 2030’s, Highlights The Challenges With US Launch Infrastructure (spacenews)
