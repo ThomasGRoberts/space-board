@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 14 | 17 | 32 |
+| spacenews | 8 | 14 | 16 | 32 |
 | breaking_defense | 0 | 0 | 12 | 25 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
 
@@ -2282,3 +2282,4 @@
 - **May 19, 03:14 PM** - Startup challenging satellite industry’s multi-orbit playbook (spacenews)
 - **May 19, 03:49 PM** - Portal Space taps Quindar for ground mission support of its maneuvering spacecraft (spacenews)
 - **May 19, 04:24 PM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
+- **May 19, 04:59 PM** - 5 Great Stargazing Trains (nyt)
