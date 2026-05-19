@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-19T00:04:45.655803+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ca8b24372926364a20e62c23a6c6bdb8",
+    "trigger_count": 0,
+    "current_item_id": "b0674d90c0cf4033074bfd2f01d84055",
     "data": [
         {
             "id": "7d55c9a24dc78b3c24f369a6ad398712",
@@ -7793,6 +7793,27 @@
             "shown_at": [
                 "2026-05-19T09:18:56.448266Z"
             ]
+        },
+        {
+            "id": "b0674d90c0cf4033074bfd2f01d84055",
+            "source": "spacenews",
+            "text": "Vast announces line of high-power satellite buses",
+            "source_link": "https://spacenews.com/vast-announces-line-of-high-power-satellite-buses/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-19T13:29:15.826934Z",
+            "shown_at": [
+                "2026-05-19T13:29:19.354393Z"
+            ]
+        },
+        {
+            "id": "ecc5b38412c0074be4775429bcf8e0b7",
+            "source": "spacenews",
+            "text": "Lynk and Anterix get FCC nod to test satellite D2D for private utility networks",
+            "source_link": "https://spacenews.com/lynk-and-anterix-get-fcc-nod-to-test-satellite-d2d-for-private-utility-networks/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-05-19T13:29:15.826993Z"
         }
     ]
 }

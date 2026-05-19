@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 10 | 15 | 30 |
+| spacenews | 7 | 12 | 16 | 31 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 13 | 25 |
 
@@ -2276,3 +2276,4 @@
 - **May 19, 11:39 AM** - 5 Great Stargazing Trains (nyt)
 - **May 19, 12:19 PM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
 - **May 19, 12:54 PM** - Landspace launches improved Zhuque-2E, Long March 6A lofts new Qianfan satellite group (spacenews)
+- **May 19, 01:29 PM** - Vast announces line of high-power satellite buses (spacenews)
