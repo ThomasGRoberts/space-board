@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-19T00:04:45.655803+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f8f5f50fa8c7677ae0ea4116c665ca74",
+    "trigger_count": 0,
+    "current_item_id": "5dbc1f56f6f22b25b88e1c520f186ed7",
     "data": [
         {
             "id": "7d55c9a24dc78b3c24f369a6ad398712",
@@ -7774,6 +7774,18 @@
             "fetched_datetime": "2026-05-19T05:49:19.114767Z",
             "shown_at": [
                 "2026-05-19T05:49:19.864527Z"
+            ]
+        },
+        {
+            "id": "5dbc1f56f6f22b25b88e1c520f186ed7",
+            "source": "spacenews",
+            "text": "Anderson confirmed as NASA deputy administrator",
+            "source_link": "https://spacenews.com/anderson-confirmed-as-nasa-deputy-administrator/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-19T09:18:55.700526Z",
+            "shown_at": [
+                "2026-05-19T09:18:56.448266Z"
             ]
         }
     ]

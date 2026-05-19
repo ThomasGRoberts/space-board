@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 9 | 16 | 29 |
+| spacenews | 9 | 10 | 17 | 30 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 12 | 26 |
 
@@ -2269,3 +2269,4 @@
 - **May 19, 07:34 AM** - Space Force awards Northrop Grumman $398 million satellite contract (spacenews)
 - **May 19, 08:09 AM** - 5 Great Stargazing Trains (nyt)
 - **May 19, 08:44 AM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
+- **May 19, 09:18 AM** - Anderson confirmed as NASA deputy administrator (spacenews)
