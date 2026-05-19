@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 8 | 16 | 29 |
 | breaking_defense | 0 | 0 | 12 | 26 |
-| nyt | 0 | 0 | 12 | 26 |
+| nyt | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
@@ -2260,3 +2260,4 @@
 - **May 19, 02:19 AM** - 5 Great Stargazing Trains (nyt)
 - **May 19, 02:54 AM** - Varda to collaborate with United Therapeutics on microgravity drug research (spacenews)
 - **May 19, 03:29 AM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
+- **May 19, 04:04 AM** - 5 Great Stargazing Trains (nyt)
