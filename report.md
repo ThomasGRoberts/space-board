@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 15 | 16 | 32 |
 | breaking_defense | 1 | 1 | 12 | 25 |
-| nyt | 0 | 0 | 12 | 24 |
+| nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
 
@@ -2291,3 +2291,4 @@
 - **May 19, 08:34 PM** - 5 Great Stargazing Trains (nyt)
 - **May 19, 09:09 PM** - Space Force names Sandhoo as head of new missile warning/tracking PAE (breaking_defense)
 - **May 19, 09:44 PM** - SDA director Sandhoo takes on broader Space Force missile warning portfolio (spacenews)
+- **May 19, 10:31 PM** - 5 Great Stargazing Trains (nyt)
