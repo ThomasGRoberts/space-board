@@ -1,9 +1,106 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-05-18T00:04:26.895276+00:00",
-    "trigger_count": 0,
+    "last_run_datetime": "2026-05-19T00:04:45.655803+00:00",
+    "trigger_count": 1,
     "current_item_id": "f8f5f50fa8c7677ae0ea4116c665ca74",
     "data": [
+        {
+            "id": "7d55c9a24dc78b3c24f369a6ad398712",
+            "source": "spacenews",
+            "text": "European imaging companies step in to fill warzone gap",
+            "source_link": "https://spacenews.com/european-imaging-companies-step-in-to-fill-warzone-gap/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-18T19:54:27.730916Z",
+            "shown_at": [
+                "2026-05-18T19:54:28.736336Z"
+            ]
+        },
+        {
+            "id": "2583c1a9e015659d994270e9be443ddf",
+            "source": "spacenews",
+            "text": "Four NASA payloads to fly on Astrolab’s first lunar rover",
+            "source_link": "https://spacenews.com/four-nasa-payloads-to-fly-on-astrolabs-first-lunar-rover/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-18T18:09:26.747596Z",
+            "shown_at": [
+                "2026-05-18T18:09:28.122072Z"
+            ]
+        },
+        {
+            "id": "44b346c1eab7e8728dc3e778d0cc8a16",
+            "source": "spacenews",
+            "text": "Inside Golden Dome’s push to court commercial tech firms and investors",
+            "source_link": "https://spacenews.com/inside-golden-domes-push-to-court-commercial-tech-firms-and-investors/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-18T15:14:22.507364Z",
+            "shown_at": [
+                "2026-05-18T15:14:24.188687Z"
+            ]
+        },
+        {
+            "id": "37f06e9ca16537cd4e87c2cd123524e3",
+            "source": "spacenews",
+            "text": "New CSF Report Sees Up To 7,000+ Satellites Launched Annually By Mid 2030’s, Highlights The Challenges With US Launch Infrastructure",
+            "source_link": "https://spacenews.com/new-csf-report-sees-up-to-7000-satellites-launched-annually-by-mid-2030s-highlights-the-challenges-with-us-launch-infrastructure/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-18T12:14:15.824844Z",
+            "shown_at": [
+                "2026-05-18T13:29:22.350467Z"
+            ]
+        },
+        {
+            "id": "ee8e065f42c5cf584113c2110c62aa40",
+            "source": "spacenews",
+            "text": "House bill restores funding for TraCSS",
+            "source_link": "https://spacenews.com/house-bill-restores-funding-for-tracss/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-18T12:14:15.824775Z",
+            "shown_at": [
+                "2026-05-18T12:54:05.256162Z"
+            ]
+        },
+        {
+            "id": "096c81041916c7502aaeec7566e105d3",
+            "source": "spacenews",
+            "text": "Tomorrow.io adds $35 million to DeepSky funding round",
+            "source_link": "https://spacenews.com/tomorrow-io-adds-35-million-to-deepsky-funding-round/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-18T12:14:15.824714Z",
+            "shown_at": [
+                "2026-05-18T12:14:17.281388Z"
+            ]
+        },
+        {
+            "id": "678256d0fa63b1377736250685462b37",
+            "source": "spacenews",
+            "text": "The next war will be won — or lost — in orbit",
+            "source_link": "https://spacenews.com/the-next-war-will-be-won-or-lost-in-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-18T11:04:45.765008Z",
+            "shown_at": [
+                "2026-05-18T11:04:47.306465Z"
+            ]
+        },
+        {
+            "id": "ac8b3772e716775006e34715a8b09ba5",
+            "source": "spacenews",
+            "text": "Zenk Space raises $26 million, targets June debut launch ",
+            "source_link": "https://spacenews.com/zenk-space-raises-26-million-targets-june-debut-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-18T02:49:13.919603Z",
+            "shown_at": [
+                "2026-05-18T02:49:14.669793Z",
+                "2026-05-18T16:59:13.718204Z"
+            ]
+        },
         {
             "id": "20f03b2653034c7adec4b4b8d2d69302",
             "source": "spacenews",
@@ -7651,243 +7748,6 @@
                 "2026-03-22T22:19:19.719751Z",
                 "2026-03-23T02:59:31.867613Z",
                 "2026-03-25T03:09:12.259284Z"
-            ]
-        },
-        {
-            "id": "cd1e2f60e8c5d28a5019f25683c59ba4",
-            "source": "spacenews",
-            "text": "Kratos wins $446 million Space Force contract for missile-tracking ground systems",
-            "source_link": "https://spacenews.com/kratos-wins-446-million-space-force-contract-for-missile-tracking-ground-systems/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-19T18:54:14.441709Z",
-            "shown_at": [
-                "2026-03-19T18:54:16.218419Z",
-                "2026-03-22T05:44:19.862076Z"
-            ]
-        },
-        {
-            "id": "8d49b9110594aec94362acdbe7bdfbcd",
-            "source": "spacenews",
-            "text": "Portal Space Systems and Paladin Space plan debris removal service",
-            "source_link": "https://spacenews.com/portal-space-systems-and-paladin-space-plan-debris-removal-service/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-19T17:09:14.291726Z",
-            "shown_at": [
-                "2026-03-19T17:09:15.594910Z",
-                "2026-03-23T00:39:16.296383Z",
-                "2026-03-23T11:54:40.546591Z"
-            ]
-        },
-        {
-            "id": "a82c4e61c5a037fe1bd26fca62893075",
-            "source": "spacenews",
-            "text": "ReOrbit sells two small GEO satellites to SLI",
-            "source_link": "https://spacenews.com/reorbit-sells-two-small-geo-satellites-to-sli/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-19T14:49:16.010990Z",
-            "shown_at": [
-                "2026-03-19T15:24:21.291692Z",
-                "2026-03-23T05:54:12.941542Z",
-                "2026-03-26T08:34:27.279765Z"
-            ]
-        },
-        {
-            "id": "428284bc12f3c5586b925055c94c2930",
-            "source": "spacenews",
-            "text": "NASA considering sharp increase in robotic lunar landings",
-            "source_link": "https://spacenews.com/nasa-considering-sharp-increase-in-robotic-lunar-landings/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-19T14:49:16.010925Z",
-            "shown_at": [
-                "2026-03-19T14:49:16.736737Z",
-                "2026-03-21T13:59:22.264016Z",
-                "2026-03-26T13:14:21.277069Z"
-            ]
-        },
-        {
-            "id": "b431925d9136eb11e3af7618ac458726",
-            "source": "spacenews",
-            "text": "Apex sells satellite for Japanese technology demonstration mission",
-            "source_link": "https://spacenews.com/apex-sells-satellite-for-japanese-technology-demonstration-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-19T07:24:08.777565Z",
-            "shown_at": [
-                "2026-03-19T07:24:09.599809Z",
-                "2026-03-21T20:59:07.681846Z",
-                "2026-03-22T04:34:24.998061Z",
-                "2026-03-22T21:04:33.615786Z",
-                "2026-03-26T06:09:20.716308Z"
-            ]
-        },
-        {
-            "id": "b0dc4a3b483434b848e1b65a81fa52a1",
-            "source": "nyt",
-            "text": "NASA’s Hubble Telescope Spots Comet K1 Exploding Into Fragments",
-            "source_link": "https://www.nytimes.com/2026/03/18/science/comet-fragments-hubble-telescope.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-18T23:14:14.390374Z",
-            "shown_at": [
-                "2026-03-18T23:14:15.465053Z",
-                "2026-03-19T02:44:29.616137Z",
-                "2026-03-19T03:54:08.198670Z",
-                "2026-03-19T05:04:51.818779Z",
-                "2026-03-19T17:44:18.871265Z",
-                "2026-03-20T01:29:26.724575Z",
-                "2026-03-20T05:04:38.488007Z",
-                "2026-03-20T07:24:16.173325Z",
-                "2026-03-20T19:09:36.275619Z",
-                "2026-03-21T00:11:30.893720Z",
-                "2026-03-21T15:44:09.907433Z",
-                "2026-03-21T16:54:17.396775Z",
-                "2026-03-21T21:34:36.816604Z",
-                "2026-03-22T03:59:34.885018Z",
-                "2026-03-22T06:19:21.554776Z",
-                "2026-03-22T07:29:10.929221Z",
-                "2026-03-22T09:49:20.109520Z",
-                "2026-03-22T13:24:20.305411Z",
-                "2026-03-22T19:19:16.603875Z",
-                "2026-03-22T20:29:21.689250Z",
-                "2026-03-23T00:05:08.245030Z",
-                "2026-03-23T06:29:26.084319Z",
-                "2026-03-23T07:39:07.339650Z",
-                "2026-03-23T08:54:26.071914Z",
-                "2026-03-24T00:49:08.536155Z",
-                "2026-03-24T01:59:31.340373Z",
-                "2026-03-24T05:29:16.198910Z",
-                "2026-03-24T06:39:19.391131Z",
-                "2026-03-25T02:34:26.521316Z"
-            ]
-        },
-        {
-            "id": "01c28e93f2d77ebdc66a79c1ed0ce624",
-            "source": "spacenews",
-            "text": "Space Command classified wargame to include 25 commercial players",
-            "source_link": "https://spacenews.com/space-command-classified-wargame-to-include-25-commercial-players/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-18T22:39:19.548799Z",
-            "shown_at": [
-                "2026-03-18T23:49:11.750731Z",
-                "2026-03-20T10:19:06.982559Z"
-            ]
-        },
-        {
-            "id": "752dcb52533cebc74990b86b161e2412",
-            "source": "spacenews",
-            "text": "Rocket Lab wins $190 million Pentagon deal for hypersonic test flights",
-            "source_link": "https://spacenews.com/rocket-lab-wins-190-million-pentagon-deal-for-hypersonic-test-flights/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-18T22:39:19.548708Z",
-            "shown_at": [
-                "2026-03-18T22:39:20.752675Z",
-                "2026-03-22T15:14:38.376579Z",
-                "2026-03-23T15:29:16.522168Z",
-                "2026-03-25T10:14:21.667822Z",
-                "2026-03-25T18:29:08.434285Z"
-            ]
-        },
-        {
-            "id": "ac8b3772e716775006e34715a8b09ba5",
-            "source": "spacenews",
-            "text": "Zenk Space raises $26 million, targets June debut launch ",
-            "source_link": "https://spacenews.com/zenk-space-raises-26-million-targets-june-debut-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-18T02:49:13.919603Z",
-            "shown_at": [
-                "2026-05-18T02:49:14.669793Z",
-                "2026-05-18T16:59:13.718204Z"
-            ]
-        },
-        {
-            "id": "678256d0fa63b1377736250685462b37",
-            "source": "spacenews",
-            "text": "The next war will be won — or lost — in orbit",
-            "source_link": "https://spacenews.com/the-next-war-will-be-won-or-lost-in-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-18T11:04:45.765008Z",
-            "shown_at": [
-                "2026-05-18T11:04:47.306465Z"
-            ]
-        },
-        {
-            "id": "096c81041916c7502aaeec7566e105d3",
-            "source": "spacenews",
-            "text": "Tomorrow.io adds $35 million to DeepSky funding round",
-            "source_link": "https://spacenews.com/tomorrow-io-adds-35-million-to-deepsky-funding-round/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-18T12:14:15.824714Z",
-            "shown_at": [
-                "2026-05-18T12:14:17.281388Z"
-            ]
-        },
-        {
-            "id": "ee8e065f42c5cf584113c2110c62aa40",
-            "source": "spacenews",
-            "text": "House bill restores funding for TraCSS",
-            "source_link": "https://spacenews.com/house-bill-restores-funding-for-tracss/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-18T12:14:15.824775Z",
-            "shown_at": [
-                "2026-05-18T12:54:05.256162Z"
-            ]
-        },
-        {
-            "id": "37f06e9ca16537cd4e87c2cd123524e3",
-            "source": "spacenews",
-            "text": "New CSF Report Sees Up To 7,000+ Satellites Launched Annually By Mid 2030’s, Highlights The Challenges With US Launch Infrastructure",
-            "source_link": "https://spacenews.com/new-csf-report-sees-up-to-7000-satellites-launched-annually-by-mid-2030s-highlights-the-challenges-with-us-launch-infrastructure/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-18T12:14:15.824844Z",
-            "shown_at": [
-                "2026-05-18T13:29:22.350467Z"
-            ]
-        },
-        {
-            "id": "44b346c1eab7e8728dc3e778d0cc8a16",
-            "source": "spacenews",
-            "text": "Inside Golden Dome’s push to court commercial tech firms and investors",
-            "source_link": "https://spacenews.com/inside-golden-domes-push-to-court-commercial-tech-firms-and-investors/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-18T15:14:22.507364Z",
-            "shown_at": [
-                "2026-05-18T15:14:24.188687Z"
-            ]
-        },
-        {
-            "id": "2583c1a9e015659d994270e9be443ddf",
-            "source": "spacenews",
-            "text": "Four NASA payloads to fly on Astrolab’s first lunar rover",
-            "source_link": "https://spacenews.com/four-nasa-payloads-to-fly-on-astrolabs-first-lunar-rover/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-18T18:09:26.747596Z",
-            "shown_at": [
-                "2026-05-18T18:09:28.122072Z"
-            ]
-        },
-        {
-            "id": "7d55c9a24dc78b3c24f369a6ad398712",
-            "source": "spacenews",
-            "text": "European imaging companies step in to fill warzone gap",
-            "source_link": "https://spacenews.com/european-imaging-companies-step-in-to-fill-warzone-gap/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-18T19:54:27.730916Z",
-            "shown_at": [
-                "2026-05-18T19:54:28.736336Z"
             ]
         }
     ]
