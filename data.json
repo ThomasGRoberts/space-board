@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-19T00:04:45.655803+00:00",
-    "trigger_count": 6,
-    "current_item_id": "63a7f34de87f041303b6e4971e69ce55",
+    "trigger_count": 0,
+    "current_item_id": "eb7db6d859494aa64ac5caf18866b1e9",
     "data": [
         {
             "id": "7d55c9a24dc78b3c24f369a6ad398712",
@@ -7849,6 +7849,18 @@
             "fetched_datetime": "2026-05-19T15:14:14.330142Z",
             "shown_at": [
                 "2026-05-19T15:49:20.936215Z"
+            ]
+        },
+        {
+            "id": "eb7db6d859494aa64ac5caf18866b1e9",
+            "source": "breaking_defense",
+            "text": "Space Force names Sandhoo as head of new missile warning/tracking PAE",
+            "source_link": "https://breakingdefense.com/2026/05/space-force-names-sandhoo-as-head-of-new-missile-warning-tracking-pae/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-19T21:09:08.075966Z",
+            "shown_at": [
+                "2026-05-19T21:09:17.663330Z"
             ]
         }
     ]

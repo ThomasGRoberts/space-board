@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 14 | 16 | 32 |
-| breaking_defense | 0 | 0 | 12 | 24 |
-| nyt | 0 | 0 | 13 | 25 |
+| breaking_defense | 1 | 1 | 13 | 25 |
+| nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -2289,3 +2289,4 @@
 - **May 19, 07:19 PM** - New CSF Report Sees Up To 7,000+ Satellites Launched Annually By Mid 2030’s, Highlights The Challenges With US Launch Infrastructure (spacenews)
 - **May 19, 07:59 PM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
 - **May 19, 08:34 PM** - 5 Great Stargazing Trains (nyt)
+- **May 19, 09:09 PM** - Space Force names Sandhoo as head of new missile warning/tracking PAE (breaking_defense)
