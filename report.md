@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 10 | 16 | 30 |
-| breaking_defense | 0 | 0 | 12 | 26 |
+| spacenews | 5 | 10 | 15 | 30 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2274,3 +2274,4 @@
 - **May 19, 10:29 AM** - US, close allies creating joint ‘orbital warfare’ plan: SPACECOM chief (breaking_defense)
 - **May 19, 11:04 AM** - Iridium to take over Aireon to expand aviation safety business (spacenews)
 - **May 19, 11:39 AM** - 5 Great Stargazing Trains (nyt)
+- **May 19, 12:19 PM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
