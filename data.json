@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-19T00:04:45.655803+00:00",
-    "trigger_count": 6,
-    "current_item_id": "63a7f34de87f041303b6e4971e69ce55",
+    "trigger_count": 0,
+    "current_item_id": "f06efb3b194cee32f3b7ebbb0d65bc66",
     "data": [
         {
             "id": "7d55c9a24dc78b3c24f369a6ad398712",
@@ -7818,6 +7818,27 @@
             "shown_at": [
                 "2026-05-19T14:04:29.343922Z"
             ]
+        },
+        {
+            "id": "f06efb3b194cee32f3b7ebbb0d65bc66",
+            "source": "spacenews",
+            "text": "Startup challenging satellite industry’s multi-orbit playbook",
+            "source_link": "https://spacenews.com/startup-challenging-satellite-industrys-multi-orbit-playbook/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-19T15:14:14.330088Z",
+            "shown_at": [
+                "2026-05-19T15:14:16.491382Z"
+            ]
+        },
+        {
+            "id": "70d16a9e418a6a33a9836ffb923e0d73",
+            "source": "spacenews",
+            "text": "Portal Space taps Quindar for ground mission support of its maneuvering spacecraft",
+            "source_link": "https://spacenews.com/portal-space-taps-quindar-for-ground-mission-support-of-its-maneuvering-spacecraft/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-05-19T15:14:14.330142Z"
         }
     ]
 }
