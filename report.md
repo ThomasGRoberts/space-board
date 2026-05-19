@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 12 | 16 | 32 |
-| breaking_defense | 0 | 0 | 13 | 25 |
-| nyt | 0 | 0 | 12 | 25 |
+| spacenews | 7 | 12 | 16 | 31 |
+| breaking_defense | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2278,3 +2278,4 @@
 - **May 19, 12:54 PM** - Landspace launches improved Zhuque-2E, Long March 6A lofts new Qianfan satellite group (spacenews)
 - **May 19, 01:29 PM** - Vast announces line of high-power satellite buses (spacenews)
 - **May 19, 02:04 PM** - Lynk and Anterix get FCC nod to test satellite D2D for private utility networks (spacenews)
+- **May 19, 02:39 PM** - 5 Great Stargazing Trains (nyt)
