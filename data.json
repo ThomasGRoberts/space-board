@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-19T00:04:45.655803+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b9b8971f34a114856dd28b97173b79ab",
+    "trigger_count": 0,
+    "current_item_id": "693756a47bedb397a26b3f9fa4b80c7a",
     "data": [
         {
             "id": "7d55c9a24dc78b3c24f369a6ad398712",
@@ -7757,6 +7757,18 @@
                 "2026-03-22T22:19:19.719751Z",
                 "2026-03-23T02:59:31.867613Z",
                 "2026-03-25T03:09:12.259284Z"
+            ]
+        },
+        {
+            "id": "693756a47bedb397a26b3f9fa4b80c7a",
+            "source": "spacenews",
+            "text": "ESA-China SMILE mission lifts off to deliver first global images of Earth’s magnetosphere",
+            "source_link": "https://spacenews.com/esa-china-smile-mission-lifts-off-to-deliver-first-global-images-of-earths-magnetosphere/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-19T05:49:19.114767Z",
+            "shown_at": [
+                "2026-05-19T05:49:19.864527Z"
             ]
         }
     ]
