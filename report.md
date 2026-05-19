@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 12 | 15 | 31 |
+| spacenews | 7 | 12 | 16 | 32 |
 | breaking_defense | 0 | 0 | 13 | 25 |
 | nyt | 0 | 0 | 13 | 25 |
 
@@ -2277,3 +2277,4 @@
 - **May 19, 12:19 PM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
 - **May 19, 12:54 PM** - Landspace launches improved Zhuque-2E, Long March 6A lofts new Qianfan satellite group (spacenews)
 - **May 19, 01:29 PM** - Vast announces line of high-power satellite buses (spacenews)
+- **May 19, 02:04 PM** - Lynk and Anterix get FCC nod to test satellite D2D for private utility networks (spacenews)
