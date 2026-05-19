@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-19T00:04:45.655803+00:00",
-    "trigger_count": 6,
-    "current_item_id": "eb7db6d859494aa64ac5caf18866b1e9",
+    "trigger_count": 0,
+    "current_item_id": "738bcccf508eadfbb15dd25b9f12ca94",
     "data": [
         {
             "id": "7d55c9a24dc78b3c24f369a6ad398712",
@@ -7861,6 +7861,18 @@
             "fetched_datetime": "2026-05-19T21:09:08.075966Z",
             "shown_at": [
                 "2026-05-19T21:09:17.663330Z"
+            ]
+        },
+        {
+            "id": "738bcccf508eadfbb15dd25b9f12ca94",
+            "source": "spacenews",
+            "text": "SDA director Sandhoo takes on broader Space Force missile warning portfolio",
+            "source_link": "https://spacenews.com/sda-director-sandhoo-takes-on-broader-space-force-missile-warning-portfolio/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-19T21:44:37.206261Z",
+            "shown_at": [
+                "2026-05-19T21:44:38.618272Z"
             ]
         }
     ]
