@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 11 | 15 | 30 |
-| breaking_defense | 1 | 1 | 11 | 24 |
+| breaking_defense | 1 | 1 | 12 | 25 |
 | nyt | 0 | 0 | 10 | 23 |
 
 # Shown Order
@@ -2254,3 +2254,4 @@
 - **May 20, 11:24 AM** - Why Earth observation data is getting stuck in orbit (spacenews)
 - **May 20, 11:59 AM** - Space Force names Sandhoo as head of new missile warning/tracking PAE (breaking_defense)
 - **May 20, 12:34 PM** - Virgin Galactic reaffirms plans to begin commercial service this year (spacenews)
+- **May 20, 01:14 PM** - Space Force names Sandhoo as head of new missile warning/tracking PAE (breaking_defense)
