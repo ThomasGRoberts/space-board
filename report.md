@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 14 | 15 | 31 |
-| breaking_defense | 1 | 1 | 11 | 23 |
+| breaking_defense | 1 | 1 | 12 | 24 |
 | nyt | 0 | 0 | 10 | 23 |
 
 # Shown Order
@@ -2252,3 +2252,4 @@
 - **May 20, 10:14 AM** - Isaacman expects Chinese crewed mission around the moon in 2027 (spacenews)
 - **May 20, 10:49 AM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
 - **May 20, 11:24 AM** - Why Earth observation data is getting stuck in orbit (spacenews)
+- **May 20, 11:59 AM** - Space Force names Sandhoo as head of new missile warning/tracking PAE (breaking_defense)
