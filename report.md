@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 14 | 14 | 31 |
+| spacenews | 6 | 14 | 15 | 32 |
 | breaking_defense | 2 | 2 | 13 | 25 |
 | nyt | 0 | 0 | 9 | 21 |
 
@@ -2259,3 +2259,4 @@
 - **May 20, 02:24 PM** - DARPA’s robotic servicing spacecraft to finally fly this summer (breaking_defense)
 - **May 20, 03:09 PM** - Orbital Data Centers: Power and Thermal Management for Scalable Architectures (spacenews)
 - **May 20, 03:44 PM** - Starfighters turns Texas facility toward microgravity flight testing (spacenews)
+- **May 20, 04:21 PM** - Report finds U.S. space supply chains rely heavily on Chinese manufacturing (spacenews)
