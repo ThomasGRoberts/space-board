@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 15 | 15 | 31 |
-| breaking_defense | 1 | 1 | 10 | 23 |
+| breaking_defense | 1 | 1 | 11 | 24 |
 | nyt | 0 | 0 | 11 | 23 |
 
 # Shown Order
@@ -2250,3 +2250,4 @@
 - **May 20, 09:04 AM** - SDA director Sandhoo takes on broader Space Force missile warning portfolio (spacenews)
 - **May 20, 09:39 AM** - 5 Great Stargazing Trains (nyt)
 - **May 20, 10:14 AM** - Isaacman expects Chinese crewed mission around the moon in 2027 (spacenews)
+- **May 20, 10:49 AM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
