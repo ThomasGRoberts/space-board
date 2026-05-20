@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-20T00:05:06.476871+00:00",
-    "trigger_count": 6,
-    "current_item_id": "eb7db6d859494aa64ac5caf18866b1e9",
+    "trigger_count": 0,
+    "current_item_id": "9c39c0219dde8655a5ce14b09cadba46",
     "data": [
         {
             "id": "738bcccf508eadfbb15dd25b9f12ca94",
@@ -7760,6 +7760,18 @@
             "fetched_datetime": "2026-05-20T10:14:22.588516Z",
             "shown_at": [
                 "2026-05-20T10:14:25.459088Z"
+            ]
+        },
+        {
+            "id": "9c39c0219dde8655a5ce14b09cadba46",
+            "source": "spacenews",
+            "text": "The cardinality wall: The hidden data bottleneck for LEO constellations",
+            "source_link": "https://spacenews.com/the-cardinality-wall-the-hidden-data-bottleneck-for-leo-constellations/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-20T13:49:16.354581Z",
+            "shown_at": [
+                "2026-05-20T13:49:17.134620Z"
             ]
         }
     ]
