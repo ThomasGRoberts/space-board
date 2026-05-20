@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 15 | 31 |
 | breaking_defense | 1 | 1 | 12 | 24 |
-| nyt | 0 | 0 | 11 | 24 |
+| nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -2239,3 +2239,4 @@
 - **May 20, 01:11 AM** - 5 Great Stargazing Trains (nyt)
 - **May 20, 02:09 AM** - Space Force names Sandhoo as head of new missile warning/tracking PAE (breaking_defense)
 - **May 20, 02:44 AM** - Virgin Galactic reaffirms plans to begin commercial service this year (spacenews)
+- **May 20, 03:19 AM** - 5 Great Stargazing Trains (nyt)
