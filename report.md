@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 14 | 15 | 31 |
 | breaking_defense | 1 | 1 | 11 | 24 |
-| nyt | 0 | 0 | 11 | 23 |
+| nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
 
@@ -2245,3 +2245,4 @@
 - **May 20, 05:04 AM** - 5 Great Stargazing Trains (nyt)
 - **May 20, 05:38 AM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
 - **May 20, 06:14 AM** - AST SpaceMobile may use ULA’s Vulcan (spacenews)
+- **May 20, 07:09 AM** - 5 Great Stargazing Trains (nyt)
