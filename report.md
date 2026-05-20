@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 15 | 31 |
 | breaking_defense | 1 | 1 | 12 | 24 |
-| nyt | 0 | 0 | 11 | 24 |
+| nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -2242,3 +2242,4 @@
 - **May 20, 03:19 AM** - 5 Great Stargazing Trains (nyt)
 - **May 20, 03:54 AM** - Space Force names Sandhoo as head of new missile warning/tracking PAE (breaking_defense)
 - **May 20, 04:29 AM** - Four NASA payloads to fly on Astrolab’s first lunar rover (spacenews)
+- **May 20, 05:04 AM** - 5 Great Stargazing Trains (nyt)
