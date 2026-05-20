@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-20T00:05:06.476871+00:00",
-    "trigger_count": 6,
-    "current_item_id": "36d26af5f941f13703d8044ed82369b6",
+    "trigger_count": 0,
+    "current_item_id": "2604eeddbf758cc5e9f55b5ef9c9ead9",
     "data": [
         {
             "id": "738bcccf508eadfbb15dd25b9f12ca94",
@@ -7863,6 +7863,18 @@
             "fetched_datetime": "2026-05-20T22:24:08.866234Z",
             "shown_at": [
                 "2026-05-20T22:24:09.862200Z"
+            ]
+        },
+        {
+            "id": "2604eeddbf758cc5e9f55b5ef9c9ead9",
+            "source": "nyt",
+            "text": "Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO",
+            "source_link": "https://www.nytimes.com/2026/05/20/technology/elon-musk-spacex-ipo.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-20T22:59:10.829222Z",
+            "shown_at": [
+                "2026-05-20T22:59:11.709986Z"
             ]
         }
     ]
