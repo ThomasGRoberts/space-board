@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-20T00:05:06.476871+00:00",
-    "trigger_count": 6,
-    "current_item_id": "eb7db6d859494aa64ac5caf18866b1e9",
+    "trigger_count": 0,
+    "current_item_id": "36d26af5f941f13703d8044ed82369b6",
     "data": [
         {
             "id": "738bcccf508eadfbb15dd25b9f12ca94",
@@ -7851,6 +7851,18 @@
             "fetched_datetime": "2026-05-20T21:14:17.395099Z",
             "shown_at": [
                 "2026-05-20T21:14:18.273233Z"
+            ]
+        },
+        {
+            "id": "36d26af5f941f13703d8044ed82369b6",
+            "source": "spacenews",
+            "text": "SpaceX files for IPO",
+            "source_link": "https://spacenews.com/spacex-files-for-ipo/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-20T22:24:08.866234Z",
+            "shown_at": [
+                "2026-05-20T22:24:09.862200Z"
             ]
         }
     ]

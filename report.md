@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 16 | 32 |
+| spacenews | 7 | 14 | 17 | 33 |
 | breaking_defense | 1 | 2 | 13 | 25 |
 | nyt | 1 | 1 | 7 | 19 |
 
@@ -2269,3 +2269,4 @@
 - **May 20, 08:39 PM** - The next war will be won — or lost — in orbit (spacenews)
 - **May 20, 09:14 PM** - Elon Musk’s SpaceX Pulls Back the Curtain on Its Finances (nyt)
 - **May 20, 09:49 PM** - Space Force names Sandhoo as head of new missile warning/tracking PAE (breaking_defense)
+- **May 20, 10:24 PM** - SpaceX files for IPO (spacenews)
