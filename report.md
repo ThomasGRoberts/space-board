@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 14 | 14 | 31 |
 | breaking_defense | 1 | 1 | 11 | 23 |
-| nyt | 0 | 0 | 11 | 23 |
+| nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
 
@@ -2248,3 +2248,4 @@
 - **May 20, 07:09 AM** - 5 Great Stargazing Trains (nyt)
 - **May 20, 08:12 AM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
 - **May 20, 09:04 AM** - SDA director Sandhoo takes on broader Space Force missile warning portfolio (spacenews)
+- **May 20, 09:39 AM** - 5 Great Stargazing Trains (nyt)
