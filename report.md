@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 15 | 15 | 31 |
+| spacenews | 7 | 15 | 16 | 32 |
 | breaking_defense | 1 | 1 | 12 | 25 |
 | nyt | 0 | 0 | 12 | 24 |
 
@@ -2235,3 +2235,4 @@
 - **May 19, 09:44 PM** - SDA director Sandhoo takes on broader Space Force missile warning portfolio (spacenews)
 - **May 19, 10:31 PM** - 5 Great Stargazing Trains (nyt)
 - **May 19, 11:29 PM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
+- **May 20, 12:14 AM** - Virgin Galactic reaffirms plans to begin commercial service this year (spacenews)
