@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 15 | 15 | 31 |
-| breaking_defense | 1 | 1 | 11 | 24 |
+| breaking_defense | 1 | 1 | 12 | 25 |
 | nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
@@ -2237,3 +2237,4 @@
 - **May 19, 11:29 PM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
 - **May 20, 12:14 AM** - Virgin Galactic reaffirms plans to begin commercial service this year (spacenews)
 - **May 20, 01:11 AM** - 5 Great Stargazing Trains (nyt)
+- **May 20, 02:09 AM** - Space Force names Sandhoo as head of new missile warning/tracking PAE (breaking_defense)
