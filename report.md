@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 14 | 14 | 31 |
+| spacenews | 6 | 14 | 15 | 32 |
 | breaking_defense | 1 | 1 | 12 | 24 |
 | nyt | 0 | 0 | 12 | 24 |
 
@@ -2244,3 +2244,4 @@
 - **May 20, 04:29 AM** - Four NASA payloads to fly on Astrolab’s first lunar rover (spacenews)
 - **May 20, 05:04 AM** - 5 Great Stargazing Trains (nyt)
 - **May 20, 05:38 AM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
+- **May 20, 06:14 AM** - AST SpaceMobile may use ULA’s Vulcan (spacenews)
