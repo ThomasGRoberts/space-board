@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 11 | 15 | 30 |
+| spacenews | 6 | 11 | 16 | 31 |
 | breaking_defense | 1 | 1 | 11 | 24 |
 | nyt | 0 | 0 | 10 | 23 |
 
@@ -2253,3 +2253,4 @@
 - **May 20, 10:49 AM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
 - **May 20, 11:24 AM** - Why Earth observation data is getting stuck in orbit (spacenews)
 - **May 20, 11:59 AM** - Space Force names Sandhoo as head of new missile warning/tracking PAE (breaking_defense)
+- **May 20, 12:34 PM** - Virgin Galactic reaffirms plans to begin commercial service this year (spacenews)
