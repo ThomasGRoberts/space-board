@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 15 | 31 |
-| breaking_defense | 1 | 1 | 11 | 24 |
+| breaking_defense | 1 | 1 | 12 | 25 |
 | nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
@@ -2243,3 +2243,4 @@
 - **May 20, 03:54 AM** - Space Force names Sandhoo as head of new missile warning/tracking PAE (breaking_defense)
 - **May 20, 04:29 AM** - Four NASA payloads to fly on Astrolab’s first lunar rover (spacenews)
 - **May 20, 05:04 AM** - 5 Great Stargazing Trains (nyt)
+- **May 20, 05:38 AM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
