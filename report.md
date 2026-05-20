@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 14 | 30 |
+| spacenews | 8 | 15 | 15 | 31 |
 | breaking_defense | 2 | 2 | 13 | 25 |
 | nyt | 0 | 0 | 9 | 22 |
 
@@ -2257,3 +2257,4 @@
 - **May 20, 01:14 PM** - Space Force names Sandhoo as head of new missile warning/tracking PAE (breaking_defense)
 - **May 20, 01:49 PM** - The cardinality wall: The hidden data bottleneck for LEO constellations (spacenews)
 - **May 20, 02:24 PM** - DARPA’s robotic servicing spacecraft to finally fly this summer (breaking_defense)
+- **May 20, 03:09 PM** - Orbital Data Centers: Power and Thermal Management for Scalable Architectures (spacenews)

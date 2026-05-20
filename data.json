@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-20T00:05:06.476871+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f59a31db101e57f4fee249b218fe3e7c",
+    "trigger_count": 0,
+    "current_item_id": "8b1b0647cf8f8921caa9896582d2fd64",
     "data": [
         {
             "id": "738bcccf508eadfbb15dd25b9f12ca94",
@@ -7785,6 +7785,36 @@
             "shown_at": [
                 "2026-05-20T14:24:19.679476Z"
             ]
+        },
+        {
+            "id": "8b1b0647cf8f8921caa9896582d2fd64",
+            "source": "spacenews",
+            "text": "Orbital Data Centers: Power and Thermal Management for Scalable Architectures",
+            "source_link": "https://spacenews.com/scalable-power-and-thermal-architectures-key-to-enabling-orbital-data-centers/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-20T15:09:21.672397Z",
+            "shown_at": [
+                "2026-05-20T15:09:22.625229Z"
+            ]
+        },
+        {
+            "id": "c1ed769d2d1048b66132d1f7a04add2d",
+            "source": "spacenews",
+            "text": "Starfighters turns Texas facility toward microgravity flight testing",
+            "source_link": "https://spacenews.com/starfighters-turns-texas-facility-toward-microgravity-flight-testing/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-05-20T15:09:21.672455Z"
+        },
+        {
+            "id": "a79ae97fd47c7f7a7514c87d50ef453b",
+            "source": "spacenews",
+            "text": "Report finds U.S. space supply chains rely heavily on Chinese manufacturing",
+            "source_link": "https://spacenews.com/report-finds-u-s-space-supply-chains-rely-heavily-on-chinese-manufacturing/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-05-20T15:09:21.672491Z"
         }
     ]
 }
