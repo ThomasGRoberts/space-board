@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 15 | 31 |
+| spacenews | 6 | 13 | 16 | 32 |
 | breaking_defense | 2 | 2 | 13 | 25 |
 | nyt | 0 | 0 | 7 | 20 |
 
@@ -2263,3 +2263,4 @@
 - **May 20, 05:09 PM** - DARPA’s robotic servicing spacecraft to finally fly this summer (breaking_defense)
 - **May 20, 05:44 PM** - The next war will be won — or lost — in orbit (spacenews)
 - **May 20, 06:19 PM** - Space Force names Sandhoo as head of new missile warning/tracking PAE (breaking_defense)
+- **May 20, 06:54 PM** - Tomorrow.io adds $35 million to DeepSky funding round (spacenews)
