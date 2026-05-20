@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-20T00:05:06.476871+00:00",
-    "trigger_count": 6,
-    "current_item_id": "096c81041916c7502aaeec7566e105d3",
+    "trigger_count": 0,
+    "current_item_id": "6a090fce27e7d4a5dcb558c4a817c8a9",
     "data": [
         {
             "id": "738bcccf508eadfbb15dd25b9f12ca94",
@@ -7824,6 +7824,18 @@
             "fetched_datetime": "2026-05-20T15:09:21.672491Z",
             "shown_at": [
                 "2026-05-20T16:21:04.515828Z"
+            ]
+        },
+        {
+            "id": "6a090fce27e7d4a5dcb558c4a817c8a9",
+            "source": "spacenews",
+            "text": "U.S. ‘more prepared’ for next WRC",
+            "source_link": "https://spacenews.com/u-s-more-prepared-for-next-wrc/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-20T19:29:31.820014Z",
+            "shown_at": [
+                "2026-05-20T19:29:32.857730Z"
             ]
         }
     ]

@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 15 | 32 |
+| spacenews | 7 | 14 | 16 | 33 |
 | breaking_defense | 2 | 2 | 13 | 25 |
 | nyt | 0 | 0 | 7 | 19 |
 
@@ -2264,3 +2264,4 @@
 - **May 20, 05:44 PM** - The next war will be won — or lost — in orbit (spacenews)
 - **May 20, 06:19 PM** - Space Force names Sandhoo as head of new missile warning/tracking PAE (breaking_defense)
 - **May 20, 06:54 PM** - Tomorrow.io adds $35 million to DeepSky funding round (spacenews)
+- **May 20, 07:29 PM** - U.S. ‘more prepared’ for next WRC (spacenews)
