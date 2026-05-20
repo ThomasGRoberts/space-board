@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 14 | 14 | 30 |
+| spacenews | 6 | 14 | 15 | 31 |
 | breaking_defense | 1 | 1 | 11 | 24 |
 | nyt | 0 | 0 | 11 | 23 |
 
@@ -2251,3 +2251,4 @@
 - **May 20, 09:39 AM** - 5 Great Stargazing Trains (nyt)
 - **May 20, 10:14 AM** - Isaacman expects Chinese crewed mission around the moon in 2027 (spacenews)
 - **May 20, 10:49 AM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
+- **May 20, 11:24 AM** - Why Earth observation data is getting stuck in orbit (spacenews)
