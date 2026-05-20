@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 14 | 14 | 30 |
+| spacenews | 6 | 14 | 15 | 31 |
 | breaking_defense | 1 | 1 | 11 | 24 |
 | nyt | 0 | 0 | 11 | 23 |
 
@@ -2247,3 +2247,4 @@
 - **May 20, 06:14 AM** - AST SpaceMobile may use ULA’s Vulcan (spacenews)
 - **May 20, 07:09 AM** - 5 Great Stargazing Trains (nyt)
 - **May 20, 08:12 AM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
+- **May 20, 09:04 AM** - SDA director Sandhoo takes on broader Space Force missile warning portfolio (spacenews)
