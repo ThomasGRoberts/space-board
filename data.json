@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-20T00:05:06.476871+00:00",
-    "trigger_count": 6,
-    "current_item_id": "678256d0fa63b1377736250685462b37",
+    "trigger_count": 0,
+    "current_item_id": "dcc0563538ca3a458ccd49c30f75c5c5",
     "data": [
         {
             "id": "738bcccf508eadfbb15dd25b9f12ca94",
@@ -7838,6 +7838,18 @@
             "fetched_datetime": "2026-05-20T19:29:31.820014Z",
             "shown_at": [
                 "2026-05-20T19:29:32.857730Z"
+            ]
+        },
+        {
+            "id": "dcc0563538ca3a458ccd49c30f75c5c5",
+            "source": "nyt",
+            "text": "Elon Musk’s SpaceX Pulls Back the Curtain on Its Finances",
+            "source_link": "https://www.nytimes.com/2026/05/20/technology/elon-musk-spacex-ipo.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-20T21:14:17.395099Z",
+            "shown_at": [
+                "2026-05-20T21:14:18.273233Z"
             ]
         }
     ]
