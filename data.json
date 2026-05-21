@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-21T00:04:45.752770+00:00",
-    "trigger_count": 6,
-    "current_item_id": "eebc2484cf3c1a12fcc2e4432a94ae53",
+    "trigger_count": 0,
+    "current_item_id": "660516680542cb2951a308d6423cff7d",
     "data": [
         {
             "id": "2604eeddbf758cc5e9f55b5ef9c9ead9",
@@ -7763,6 +7763,18 @@
             "fetched_datetime": "2026-05-21T07:49:22.864442Z",
             "shown_at": [
                 "2026-05-21T07:49:24.383963Z"
+            ]
+        },
+        {
+            "id": "660516680542cb2951a308d6423cff7d",
+            "source": "nyt",
+            "text": "SpaceX to Attempt Its 12th Test Flight of Starship",
+            "source_link": "https://www.nytimes.com/2026/05/21/science/space/spacex-starship-launch-nasa.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-21T10:49:18.086747Z",
+            "shown_at": [
+                "2026-05-21T10:49:21.228094Z"
             ]
         }
     ]
