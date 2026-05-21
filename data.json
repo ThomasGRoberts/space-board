@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-21T00:04:45.752770+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2604eeddbf758cc5e9f55b5ef9c9ead9",
+    "trigger_count": 0,
+    "current_item_id": "c26b5c86317f85d55fc93c9f5fef43e0",
     "data": [
         {
             "id": "2604eeddbf758cc5e9f55b5ef9c9ead9",
@@ -7747,6 +7747,18 @@
             "shown_at": [
                 "2026-05-21T00:44:12.799285Z",
                 "2026-05-21T02:29:05.591106Z"
+            ]
+        },
+        {
+            "id": "c26b5c86317f85d55fc93c9f5fef43e0",
+            "source": "spacenews",
+            "text": "LatConnect 60 announces accelerated growth investment round to build AUKUS-aligned Highest Resolution SWIR Satellite constellation",
+            "source_link": "https://spacenews.com/latconnect-60-announces-accelerated-growth-investment-round-to-build-aukus-aligned-highest-resolution-swir-satellite-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-21T07:49:22.864442Z",
+            "shown_at": [
+                "2026-05-21T07:49:24.383963Z"
             ]
         }
     ]
