@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 7 | 18 |
-| spacenews | 7 | 13 | 16 | 31 |
+| spacenews | 7 | 13 | 17 | 32 |
 | breaking_defense | 3 | 4 | 15 | 27 |
 
 # Shown Order
@@ -2229,3 +2229,4 @@
 - **May 21, 04:49 AM** - Startup challenging satellite industry’s multi-orbit playbook (spacenews)
 - **May 21, 05:24 AM** - Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO (nyt)
 - **May 21, 05:59 AM** - DAF study finds new space launch site ‘probably’ required (breaking_defense)
+- **May 21, 06:34 AM** - Iridium to take over Aireon in $367 million deal to expand aviation safety business (spacenews)
