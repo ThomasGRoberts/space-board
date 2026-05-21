@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 6 | 18 |
-| spacenews | 7 | 14 | 16 | 31 |
+| spacenews | 7 | 14 | 17 | 32 |
 | breaking_defense | 3 | 4 | 15 | 27 |
 
 # Shown Order
@@ -2220,3 +2220,4 @@
 - **May 20, 11:34 PM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
 - **May 21, 12:09 AM** - DAF study finds new space launch site ‘probably’ required (breaking_defense)
 - **May 21, 12:44 AM** - DARPA’s robotic servicing mission to finally fly this summer (breaking_defense)
+- **May 21, 01:19 AM** - Starlink Mobile challengers back proposed telco-led D2D joint venture (spacenews)
