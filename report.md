@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 8 | 19 |
-| spacenews | 8 | 13 | 17 | 31 |
+| spacenews | 8 | 13 | 18 | 32 |
 | breaking_defense | 3 | 4 | 15 | 26 |
 
 # Shown Order
@@ -2234,3 +2234,4 @@
 - **May 21, 07:49 AM** - LatConnect 60 announces accelerated growth investment round to build AUKUS-aligned Highest Resolution SWIR Satellite constellation (spacenews)
 - **May 21, 08:24 AM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
 - **May 21, 08:59 AM** - Elon Musk’s SpaceX Pulls Back the Curtain on Its Finances (nyt)
+- **May 21, 09:34 AM** - AST SpaceMobile may use ULA’s Vulcan (spacenews)
