@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 9 | 17 |
-| spacenews | 3 | 9 | 12 | 27 |
+| spacenews | 5 | 11 | 13 | 28 |
 | breaking_defense | 2 | 4 | 12 | 24 |
 
 # Shown Order
@@ -2241,3 +2241,4 @@
 - **May 21, 11:59 AM** - DAF study finds new space launch site ‘probably’ required (breaking_defense)
 - **May 21, 12:34 PM** - Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO (nyt)
 - **May 21, 01:09 PM** - Cowboy files plans for up to 20,000 orbital data centers (spacenews)
+- **May 21, 06:19 PM** - Starship underpins SpaceX’s growth ambitions (spacenews)

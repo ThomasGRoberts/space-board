@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-21T00:04:45.752770+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f3c19452a3555670ae17f32c7983caa8",
+    "trigger_count": 0,
+    "current_item_id": "23eb9a125461e2caa79291ee84261374",
     "data": [
         {
             "id": "2604eeddbf758cc5e9f55b5ef9c9ead9",
@@ -7780,6 +7780,27 @@
             "shown_at": [
                 "2026-05-21T10:49:21.228094Z"
             ]
+        },
+        {
+            "id": "23eb9a125461e2caa79291ee84261374",
+            "source": "spacenews",
+            "text": "Starship underpins SpaceX’s growth ambitions",
+            "source_link": "https://spacenews.com/starship-underpins-spacexs-growth-ambitions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-21T18:19:17.506044Z",
+            "shown_at": [
+                "2026-05-21T18:19:19.920042Z"
+            ]
+        },
+        {
+            "id": "ee73df88159d53af40f354a412959326",
+            "source": "spacenews",
+            "text": "The internet was ‘too expensive’ too",
+            "source_link": "https://spacenews.com/the-internet-was-too-expensive-too/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-05-21T18:19:17.506101Z"
         }
     ]
 }
