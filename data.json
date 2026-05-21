@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-21T00:04:45.752770+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a47d67a591dd96bf8d2bbcca3e950d72",
+    "trigger_count": 0,
+    "current_item_id": "eebc2484cf3c1a12fcc2e4432a94ae53",
     "data": [
         {
             "id": "2604eeddbf758cc5e9f55b5ef9c9ead9",
@@ -7731,9 +7731,12 @@
             "source": "breaking_defense",
             "text": "DARPA’s robotic servicing mission to finally fly this summer",
             "source_link": "https://breakingdefense.com/2026/05/darpas-robotic-servicing-spacecraft-to-finally-fly-this-summer/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-05-21T00:09:30.962436Z"
+            "fetched_datetime": "2026-05-21T00:09:30.962436Z",
+            "shown_at": [
+                "2026-05-21T00:44:12.799285Z"
+            ]
         }
     ]
 }

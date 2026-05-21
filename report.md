@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 7 | 18 |
 | spacenews | 7 | 14 | 16 | 32 |
-| breaking_defense | 3 | 4 | 14 | 26 |
+| breaking_defense | 3 | 4 | 15 | 27 |
 
 # Shown Order
 
@@ -2219,3 +2219,4 @@
 - **May 20, 10:59 PM** - Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO (nyt)
 - **May 20, 11:34 PM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
 - **May 21, 12:09 AM** - DAF study finds new space launch site ‘probably’ required (breaking_defense)
+- **May 21, 12:44 AM** - DARPA’s robotic servicing mission to finally fly this summer (breaking_defense)
