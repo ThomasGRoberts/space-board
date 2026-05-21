@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 6 | 18 |
+| nyt | 2 | 2 | 7 | 19 |
 | spacenews | 7 | 14 | 17 | 32 |
 | breaking_defense | 3 | 4 | 15 | 26 |
 
@@ -2227,3 +2227,4 @@
 - **May 21, 03:39 AM** - Elon Musk’s SpaceX Pulls Back the Curtain on Its Finances (nyt)
 - **May 21, 04:14 AM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
 - **May 21, 04:49 AM** - Startup challenging satellite industry’s multi-orbit playbook (spacenews)
+- **May 21, 05:24 AM** - Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO (nyt)
