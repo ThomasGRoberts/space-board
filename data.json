@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-21T00:04:45.752770+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5dbc1f56f6f22b25b88e1c520f186ed7",
+    "trigger_count": 0,
+    "current_item_id": "f8f1a19dcf28c08df67ff96830e8df8b",
     "data": [
         {
             "id": "2604eeddbf758cc5e9f55b5ef9c9ead9",
@@ -7806,6 +7806,18 @@
             "fetched_datetime": "2026-05-21T18:19:17.506101Z",
             "shown_at": [
                 "2026-05-21T19:05:45.512256Z"
+            ]
+        },
+        {
+            "id": "f8f1a19dcf28c08df67ff96830e8df8b",
+            "source": "spacenews",
+            "text": "Space Force on path to double active-duty force by 2030",
+            "source_link": "https://spacenews.com/space-force-on-path-to-double-active-duty-force-by-2030/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-21T21:54:14.417523Z",
+            "shown_at": [
+                "2026-05-21T21:54:17.144090Z"
             ]
         }
     ]
