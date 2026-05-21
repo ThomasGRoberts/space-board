@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 6 | 18 |
+| nyt | 2 | 2 | 7 | 19 |
 | spacenews | 7 | 14 | 17 | 32 |
 | breaking_defense | 3 | 4 | 15 | 26 |
 
@@ -2224,3 +2224,4 @@
 - **May 21, 01:54 AM** - Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO (nyt)
 - **May 21, 02:29 AM** - DARPA’s robotic servicing mission to finally fly this summer (breaking_defense)
 - **May 21, 03:04 AM** - Space Force awards Northrop Grumman $398 million satellite contract (spacenews)
+- **May 21, 03:39 AM** - Elon Musk’s SpaceX Pulls Back the Curtain on Its Finances (nyt)
