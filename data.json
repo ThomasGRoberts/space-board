@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-21T00:04:45.752770+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f8f5f50fa8c7677ae0ea4116c665ca74",
+    "trigger_count": 0,
+    "current_item_id": "a47d67a591dd96bf8d2bbcca3e950d72",
     "data": [
         {
             "id": "2604eeddbf758cc5e9f55b5ef9c9ead9",
@@ -7713,6 +7713,27 @@
                 "2026-03-25T11:24:19.013131Z",
                 "2026-03-29T03:04:46.636192Z"
             ]
+        },
+        {
+            "id": "a47d67a591dd96bf8d2bbcca3e950d72",
+            "source": "breaking_defense",
+            "text": "DAF study finds new space launch site ‘probably’ required",
+            "source_link": "https://breakingdefense.com/2026/05/daf-study-finds-new-space-launch-site-probably-required/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-21T00:09:30.962371Z",
+            "shown_at": [
+                "2026-05-21T00:09:32.099051Z"
+            ]
+        },
+        {
+            "id": "eebc2484cf3c1a12fcc2e4432a94ae53",
+            "source": "breaking_defense",
+            "text": "DARPA’s robotic servicing mission to finally fly this summer",
+            "source_link": "https://breakingdefense.com/2026/05/darpas-robotic-servicing-spacecraft-to-finally-fly-this-summer/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-05-21T00:09:30.962436Z"
         }
     ]
 }
