@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 3 | 3 | 9 | 15 |
+| nyt | 3 | 3 | 10 | 16 |
 | spacenews | 4 | 11 | 11 | 28 |
 | breaking_defense | 2 | 4 | 11 | 24 |
 
@@ -2244,3 +2244,4 @@
 - **May 21, 06:19 PM** - Starship underpins SpaceX’s growth ambitions (spacenews)
 - **May 21, 07:05 PM** - The internet was ‘too expensive’ too (spacenews)
 - **May 21, 08:05 PM** - DARPA’s robotic servicing spacecraft to finally fly this summer (breaking_defense)
+- **May 21, 08:44 PM** - Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO (nyt)
