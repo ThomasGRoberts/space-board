@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 3 | 8 | 15 |
+| nyt | 1 | 3 | 9 | 16 |
 | spacenews | 5 | 12 | 13 | 30 |
 | breaking_defense | 2 | 3 | 10 | 23 |
 
@@ -2249,3 +2249,4 @@
 - **May 21, 09:54 PM** - Space Force on path to double active-duty force by 2030 (spacenews)
 - **May 21, 10:29 PM** - Sixth Varda mission successfully returns (spacenews)
 - **May 21, 11:04 PM** - DARPA’s robotic servicing mission to finally fly this summer (breaking_defense)
+- **May 21, 11:39 PM** - Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO (nyt)
