@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 9 | 16 |
-| spacenews | 5 | 11 | 12 | 28 |
+| spacenews | 5 | 11 | 13 | 29 |
 | breaking_defense | 2 | 4 | 11 | 24 |
 
 # Shown Order
@@ -2242,3 +2242,4 @@
 - **May 21, 12:34 PM** - Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO (nyt)
 - **May 21, 01:09 PM** - Cowboy files plans for up to 20,000 orbital data centers (spacenews)
 - **May 21, 06:19 PM** - Starship underpins SpaceX’s growth ambitions (spacenews)
+- **May 21, 07:05 PM** - The internet was ‘too expensive’ too (spacenews)
