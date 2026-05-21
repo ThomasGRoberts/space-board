@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 8 | 19 |
-| spacenews | 7 | 13 | 17 | 31 |
+| spacenews | 7 | 13 | 18 | 32 |
 | breaking_defense | 3 | 4 | 15 | 26 |
 
 # Shown Order
@@ -2237,3 +2237,4 @@
 - **May 21, 09:34 AM** - AST SpaceMobile may use ULA’s Vulcan (spacenews)
 - **May 21, 10:09 AM** - DARPA’s robotic servicing mission to finally fly this summer (breaking_defense)
 - **May 21, 10:49 AM** - SpaceX to Attempt Its 12th Test Flight of Starship (nyt)
+- **May 21, 11:24 AM** - The next war will be won — or lost — in orbit (spacenews)
