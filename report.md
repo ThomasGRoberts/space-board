@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 7 | 18 |
 | spacenews | 8 | 14 | 18 | 32 |
-| breaking_defense | 3 | 4 | 14 | 26 |
+| breaking_defense | 3 | 4 | 15 | 27 |
 
 # Shown Order
 
@@ -2232,3 +2232,4 @@
 - **May 21, 06:34 AM** - Iridium to take over Aireon in $367 million deal to expand aviation safety business (spacenews)
 - **May 21, 07:09 AM** - Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO (nyt)
 - **May 21, 07:49 AM** - LatConnect 60 announces accelerated growth investment round to build AUKUS-aligned Highest Resolution SWIR Satellite constellation (spacenews)
+- **May 21, 08:24 AM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
