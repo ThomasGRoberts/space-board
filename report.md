@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 7 | 18 |
 | spacenews | 8 | 13 | 18 | 32 |
-| breaking_defense | 3 | 4 | 15 | 26 |
+| breaking_defense | 3 | 4 | 16 | 27 |
 
 # Shown Order
 
@@ -2235,3 +2235,4 @@
 - **May 21, 08:24 AM** - CBO’s $1.2 trillion Golden Dome estimate based on bad data: Guetlein (breaking_defense)
 - **May 21, 08:59 AM** - Elon Musk’s SpaceX Pulls Back the Curtain on Its Finances (nyt)
 - **May 21, 09:34 AM** - AST SpaceMobile may use ULA’s Vulcan (spacenews)
+- **May 21, 10:09 AM** - DARPA’s robotic servicing mission to finally fly this summer (breaking_defense)
