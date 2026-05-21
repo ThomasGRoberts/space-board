@@ -2243,3 +2243,4 @@
 - **May 21, 01:09 PM** - Cowboy files plans for up to 20,000 orbital data centers (spacenews)
 - **May 21, 06:19 PM** - Starship underpins SpaceX’s growth ambitions (spacenews)
 - **May 21, 07:05 PM** - The internet was ‘too expensive’ too (spacenews)
+- **May 21, 08:05 PM** - DARPA’s robotic servicing spacecraft to finally fly this summer (breaking_defense)
