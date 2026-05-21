@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 6 | 18 |
+| nyt | 2 | 2 | 7 | 19 |
 | spacenews | 7 | 14 | 17 | 32 |
 | breaking_defense | 3 | 4 | 15 | 26 |
 
@@ -2221,3 +2221,4 @@
 - **May 21, 12:09 AM** - DAF study finds new space launch site ‘probably’ required (breaking_defense)
 - **May 21, 12:44 AM** - DARPA’s robotic servicing mission to finally fly this summer (breaking_defense)
 - **May 21, 01:19 AM** - Starlink Mobile challengers back proposed telco-led D2D joint venture (spacenews)
+- **May 21, 01:54 AM** - Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO (nyt)
