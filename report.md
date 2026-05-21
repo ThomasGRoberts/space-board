@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 3 | 3 | 8 | 18 |
 | spacenews | 7 | 13 | 17 | 32 |
-| breaking_defense | 3 | 4 | 15 | 26 |
+| breaking_defense | 3 | 4 | 16 | 27 |
 
 # Shown Order
 
@@ -2238,3 +2238,4 @@
 - **May 21, 10:09 AM** - DARPA’s robotic servicing mission to finally fly this summer (breaking_defense)
 - **May 21, 10:49 AM** - SpaceX to Attempt Its 12th Test Flight of Starship (nyt)
 - **May 21, 11:24 AM** - The next war will be won — or lost — in orbit (spacenews)
+- **May 21, 11:59 AM** - DAF study finds new space launch site ‘probably’ required (breaking_defense)
