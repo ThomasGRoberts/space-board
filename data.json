@@ -1,9 +1,130 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-05-20T00:05:06.476871+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2026-05-21T00:04:45.752770+00:00",
+    "trigger_count": 6,
     "current_item_id": "f8f5f50fa8c7677ae0ea4116c665ca74",
     "data": [
+        {
+            "id": "2604eeddbf758cc5e9f55b5ef9c9ead9",
+            "source": "nyt",
+            "text": "Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO",
+            "source_link": "https://www.nytimes.com/2026/05/20/technology/elon-musk-spacex-ipo.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-20T22:59:10.829222Z",
+            "shown_at": [
+                "2026-05-20T22:59:11.709986Z"
+            ]
+        },
+        {
+            "id": "36d26af5f941f13703d8044ed82369b6",
+            "source": "spacenews",
+            "text": "SpaceX files for IPO",
+            "source_link": "https://spacenews.com/spacex-files-for-ipo/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-20T22:24:08.866234Z",
+            "shown_at": [
+                "2026-05-20T22:24:09.862200Z"
+            ]
+        },
+        {
+            "id": "dcc0563538ca3a458ccd49c30f75c5c5",
+            "source": "nyt",
+            "text": "Elon Musk’s SpaceX Pulls Back the Curtain on Its Finances",
+            "source_link": "https://www.nytimes.com/2026/05/20/technology/elon-musk-spacex-ipo.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-20T21:14:17.395099Z",
+            "shown_at": [
+                "2026-05-20T21:14:18.273233Z"
+            ]
+        },
+        {
+            "id": "6a090fce27e7d4a5dcb558c4a817c8a9",
+            "source": "spacenews",
+            "text": "U.S. ‘more prepared’ for next WRC",
+            "source_link": "https://spacenews.com/u-s-more-prepared-for-next-wrc/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-20T19:29:31.820014Z",
+            "shown_at": [
+                "2026-05-20T19:29:32.857730Z"
+            ]
+        },
+        {
+            "id": "a79ae97fd47c7f7a7514c87d50ef453b",
+            "source": "spacenews",
+            "text": "Report finds U.S. space supply chains rely heavily on Chinese manufacturing",
+            "source_link": "https://spacenews.com/report-finds-u-s-space-supply-chains-rely-heavily-on-chinese-manufacturing/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-20T15:09:21.672491Z",
+            "shown_at": [
+                "2026-05-20T16:21:04.515828Z"
+            ]
+        },
+        {
+            "id": "c1ed769d2d1048b66132d1f7a04add2d",
+            "source": "spacenews",
+            "text": "Starfighters turns Texas facility toward microgravity flight testing",
+            "source_link": "https://spacenews.com/starfighters-turns-texas-facility-toward-microgravity-flight-testing/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-20T15:09:21.672455Z",
+            "shown_at": [
+                "2026-05-20T15:44:26.167284Z"
+            ]
+        },
+        {
+            "id": "8b1b0647cf8f8921caa9896582d2fd64",
+            "source": "spacenews",
+            "text": "Orbital Data Centers: Power and Thermal Management for Scalable Architectures",
+            "source_link": "https://spacenews.com/scalable-power-and-thermal-architectures-key-to-enabling-orbital-data-centers/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-20T15:09:21.672397Z",
+            "shown_at": [
+                "2026-05-20T15:09:22.625229Z"
+            ]
+        },
+        {
+            "id": "f59a31db101e57f4fee249b218fe3e7c",
+            "source": "breaking_defense",
+            "text": "DARPA’s robotic servicing spacecraft to finally fly this summer",
+            "source_link": "https://breakingdefense.com/2026/05/darpas-robotic-servicing-spacecraft-to-finally-fly-this-summer/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-20T14:24:18.636797Z",
+            "shown_at": [
+                "2026-05-20T14:24:19.679476Z",
+                "2026-05-20T17:09:39.709381Z"
+            ]
+        },
+        {
+            "id": "9c39c0219dde8655a5ce14b09cadba46",
+            "source": "spacenews",
+            "text": "The cardinality wall: The hidden data bottleneck for LEO constellations",
+            "source_link": "https://spacenews.com/the-cardinality-wall-the-hidden-data-bottleneck-for-leo-constellations/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-20T13:49:16.354581Z",
+            "shown_at": [
+                "2026-05-20T13:49:17.134620Z"
+            ]
+        },
+        {
+            "id": "90905fa58811b23e51370d9e268759ca",
+            "source": "spacenews",
+            "text": "Isaacman expects Chinese crewed mission around the moon in 2027",
+            "source_link": "https://spacenews.com/isaacman-expects-chinese-crewed-mission-around-the-moon-in-2027/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-20T10:14:22.588516Z",
+            "shown_at": [
+                "2026-05-20T10:14:25.459088Z"
+            ]
+        },
         {
             "id": "738bcccf508eadfbb15dd25b9f12ca94",
             "source": "spacenews",
@@ -7591,291 +7712,6 @@
                 "2026-03-23T18:24:19.595415Z",
                 "2026-03-25T11:24:19.013131Z",
                 "2026-03-29T03:04:46.636192Z"
-            ]
-        },
-        {
-            "id": "a1d9d7ebbbbeaa953a7c781431b29892",
-            "source": "spacenews",
-            "text": "Arianespace to launch Katalyst servicing spacecraft",
-            "source_link": "https://spacenews.com/arianespace-to-launch-katalyst-servicing-spacecraft/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-23T16:04:39.485858Z",
-            "shown_at": [
-                "2026-03-23T16:04:40.765578Z",
-                "2026-03-30T05:59:21.529306Z"
-            ]
-        },
-        {
-            "id": "7f779b7a48acad9563afd12c3b256099",
-            "source": "nyt",
-            "text": "A Meteor Exploded Over Ohio. Then the Hunt for Meteorites Began.",
-            "source_link": "https://www.nytimes.com/2026/03/22/us/meteor-hunters-ohio-cleveland.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-23T14:49:21.004791Z",
-            "shown_at": [
-                "2026-03-23T14:49:22.181817Z",
-                "2026-03-23T18:59:17.896653Z",
-                "2026-03-24T03:09:01.510973Z",
-                "2026-03-24T11:59:12.110022Z",
-                "2026-03-25T01:24:22.695293Z",
-                "2026-03-25T10:49:12.988387Z",
-                "2026-03-25T13:44:14.113992Z",
-                "2026-03-25T21:59:13.958065Z",
-                "2026-03-26T05:34:46.625994Z",
-                "2026-03-26T10:19:17.363397Z",
-                "2026-03-27T03:39:09.783273Z",
-                "2026-03-27T04:49:16.058123Z",
-                "2026-03-27T08:19:22.121330Z",
-                "2026-03-27T12:59:21.739746Z",
-                "2026-03-27T20:19:31.414938Z",
-                "2026-03-27T22:39:12.890630Z",
-                "2026-03-27T23:49:21.498281Z",
-                "2026-03-28T03:59:16.204145Z",
-                "2026-03-28T05:09:29.114780Z",
-                "2026-03-28T06:19:04.766605Z",
-                "2026-03-28T14:29:25.445121Z",
-                "2026-03-28T16:49:20.039600Z",
-                "2026-03-29T09:29:22.265418Z",
-                "2026-03-29T16:29:09.244471Z",
-                "2026-03-29T23:29:11.248075Z",
-                "2026-03-30T02:59:08.428755Z"
-            ]
-        },
-        {
-            "id": "c878be24c04ab7958b1b428d011cab21",
-            "source": "spacenews",
-            "text": "York Space rides defense demand as procurement changes cloud outlook",
-            "source_link": "https://spacenews.com/york-space-rides-defense-demand-as-procurement-changes-cloud-outlook/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-23T14:14:17.748278Z",
-            "shown_at": [
-                "2026-03-23T14:14:18.786966Z",
-                "2026-03-28T04:34:31.478898Z",
-                "2026-03-28T05:44:32.425806Z",
-                "2026-03-28T15:04:39.932689Z",
-                "2026-03-29T07:44:23.376955Z",
-                "2026-03-29T08:54:28.303694Z"
-            ]
-        },
-        {
-            "id": "8bf1c9dc4d66d9590653dfd371450ee2",
-            "source": "spacenews",
-            "text": "The software behind Artemis, Gateway and America’s defense in space deserves its own strategy",
-            "source_link": "https://spacenews.com/the-software-behind-artemis-gateway-and-americas-defense-in-space-deserves-its-own-strategy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-23T13:04:34.311321Z",
-            "shown_at": [
-                "2026-03-23T13:04:35.875320Z",
-                "2026-03-25T05:29:27.373633Z",
-                "2026-03-29T14:44:18.076238Z"
-            ]
-        },
-        {
-            "id": "bad4e6490ad4f82db6e5a4b6ea829030",
-            "source": "spacenews",
-            "text": "Lunar lander developers say they are ready to meet anticipated increased NASA demand",
-            "source_link": "https://spacenews.com/lunar-lander-developers-say-they-are-ready-to-meet-anticipated-increased-nasa-demand/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-23T10:44:23.949872Z",
-            "shown_at": [
-                "2026-03-23T10:44:25.377994Z",
-                "2026-03-24T16:15:03.917319Z",
-                "2026-03-27T01:54:16.027164Z"
-            ]
-        },
-        {
-            "id": "9757c9dabc3b8a4e60eef854defc0c33",
-            "source": "spacenews",
-            "text": "Swissto12 to build small optical relay GEO satellite for Space Compass",
-            "source_link": "https://spacenews.com/swissto12-to-build-small-optical-relay-geo-satellite-for-space-compass/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-23T04:44:38.247452Z",
-            "shown_at": [
-                "2026-03-23T04:44:38.816408Z",
-                "2026-03-23T17:14:15.494595Z",
-                "2026-03-24T07:14:12.257709Z",
-                "2026-03-27T00:44:20.161860Z",
-                "2026-03-29T05:24:20.845289Z"
-            ]
-        },
-        {
-            "id": "5763ed468a16074cf35a06aa972eb9fc",
-            "source": "spacenews",
-            "text": "SpaceX offers details on orbital data center satellites",
-            "source_link": "https://spacenews.com/spacex-offers-details-on-orbital-data-center-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-22T18:44:17.980328Z",
-            "shown_at": [
-                "2026-03-22T18:44:19.214487Z",
-                "2026-03-27T20:54:15.462834Z"
-            ]
-        },
-        {
-            "id": "5cc49166aaff18c03f9aa42ed2e6a815",
-            "source": "spacenews",
-            "text": "Some European Launcher Challenge funding remains in limbo",
-            "source_link": "https://spacenews.com/some-european-launcher-challenge-funding-remains-in-limbo/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-22T01:04:24.442586Z",
-            "shown_at": [
-                "2026-03-22T01:04:25.169912Z",
-                "2026-03-25T17:20:01.730336Z",
-                "2026-03-26T09:44:17.531944Z"
-            ]
-        },
-        {
-            "id": "9c1d0fd669a58ccb90389d674302055f",
-            "source": "spacenews",
-            "text": "Artemis 2 returns to the pad for April launch attempt",
-            "source_link": "https://spacenews.com/artemis-2-returns-to-the-pad-for-april-launch-attempt/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-21T16:19:24.469765Z",
-            "shown_at": [
-                "2026-03-21T16:19:25.634253Z",
-                "2026-03-27T10:39:06.765068Z"
-            ]
-        },
-        {
-            "id": "9271d3bb41942b2e7877a386bc93ccf5",
-            "source": "spacenews",
-            "text": "Officina Stellare wins $2 million contract for lasercom ground station in Spain",
-            "source_link": "https://spacenews.com/officina-stellare-wins-2-million-contract-for-lasercom-ground-station-in-spain/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-20T22:09:13.463945Z",
-            "shown_at": [
-                "2026-03-20T22:09:14.513035Z",
-                "2026-03-26T10:54:51.784528Z"
-            ]
-        },
-        {
-            "id": "90905fa58811b23e51370d9e268759ca",
-            "source": "spacenews",
-            "text": "Isaacman expects Chinese crewed mission around the moon in 2027",
-            "source_link": "https://spacenews.com/isaacman-expects-chinese-crewed-mission-around-the-moon-in-2027/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-20T10:14:22.588516Z",
-            "shown_at": [
-                "2026-05-20T10:14:25.459088Z"
-            ]
-        },
-        {
-            "id": "9c39c0219dde8655a5ce14b09cadba46",
-            "source": "spacenews",
-            "text": "The cardinality wall: The hidden data bottleneck for LEO constellations",
-            "source_link": "https://spacenews.com/the-cardinality-wall-the-hidden-data-bottleneck-for-leo-constellations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-20T13:49:16.354581Z",
-            "shown_at": [
-                "2026-05-20T13:49:17.134620Z"
-            ]
-        },
-        {
-            "id": "f59a31db101e57f4fee249b218fe3e7c",
-            "source": "breaking_defense",
-            "text": "DARPA’s robotic servicing spacecraft to finally fly this summer",
-            "source_link": "https://breakingdefense.com/2026/05/darpas-robotic-servicing-spacecraft-to-finally-fly-this-summer/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-20T14:24:18.636797Z",
-            "shown_at": [
-                "2026-05-20T14:24:19.679476Z",
-                "2026-05-20T17:09:39.709381Z"
-            ]
-        },
-        {
-            "id": "8b1b0647cf8f8921caa9896582d2fd64",
-            "source": "spacenews",
-            "text": "Orbital Data Centers: Power and Thermal Management for Scalable Architectures",
-            "source_link": "https://spacenews.com/scalable-power-and-thermal-architectures-key-to-enabling-orbital-data-centers/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-20T15:09:21.672397Z",
-            "shown_at": [
-                "2026-05-20T15:09:22.625229Z"
-            ]
-        },
-        {
-            "id": "c1ed769d2d1048b66132d1f7a04add2d",
-            "source": "spacenews",
-            "text": "Starfighters turns Texas facility toward microgravity flight testing",
-            "source_link": "https://spacenews.com/starfighters-turns-texas-facility-toward-microgravity-flight-testing/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-20T15:09:21.672455Z",
-            "shown_at": [
-                "2026-05-20T15:44:26.167284Z"
-            ]
-        },
-        {
-            "id": "a79ae97fd47c7f7a7514c87d50ef453b",
-            "source": "spacenews",
-            "text": "Report finds U.S. space supply chains rely heavily on Chinese manufacturing",
-            "source_link": "https://spacenews.com/report-finds-u-s-space-supply-chains-rely-heavily-on-chinese-manufacturing/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-20T15:09:21.672491Z",
-            "shown_at": [
-                "2026-05-20T16:21:04.515828Z"
-            ]
-        },
-        {
-            "id": "6a090fce27e7d4a5dcb558c4a817c8a9",
-            "source": "spacenews",
-            "text": "U.S. ‘more prepared’ for next WRC",
-            "source_link": "https://spacenews.com/u-s-more-prepared-for-next-wrc/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-20T19:29:31.820014Z",
-            "shown_at": [
-                "2026-05-20T19:29:32.857730Z"
-            ]
-        },
-        {
-            "id": "dcc0563538ca3a458ccd49c30f75c5c5",
-            "source": "nyt",
-            "text": "Elon Musk’s SpaceX Pulls Back the Curtain on Its Finances",
-            "source_link": "https://www.nytimes.com/2026/05/20/technology/elon-musk-spacex-ipo.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-20T21:14:17.395099Z",
-            "shown_at": [
-                "2026-05-20T21:14:18.273233Z"
-            ]
-        },
-        {
-            "id": "36d26af5f941f13703d8044ed82369b6",
-            "source": "spacenews",
-            "text": "SpaceX files for IPO",
-            "source_link": "https://spacenews.com/spacex-files-for-ipo/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-20T22:24:08.866234Z",
-            "shown_at": [
-                "2026-05-20T22:24:09.862200Z"
-            ]
-        },
-        {
-            "id": "2604eeddbf758cc5e9f55b5ef9c9ead9",
-            "source": "nyt",
-            "text": "Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO",
-            "source_link": "https://www.nytimes.com/2026/05/20/technology/elon-musk-spacex-ipo.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-20T22:59:10.829222Z",
-            "shown_at": [
-                "2026-05-20T22:59:11.709986Z"
             ]
         }
     ]
