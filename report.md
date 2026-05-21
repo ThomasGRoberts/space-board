@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 3 | 9 | 16 |
-| spacenews | 4 | 11 | 11 | 28 |
+| spacenews | 4 | 11 | 12 | 29 |
 | breaking_defense | 2 | 3 | 11 | 23 |
 
 # Shown Order
@@ -2245,3 +2245,4 @@
 - **May 21, 07:05 PM** - The internet was ‘too expensive’ too (spacenews)
 - **May 21, 08:05 PM** - DARPA’s robotic servicing spacecraft to finally fly this summer (breaking_defense)
 - **May 21, 08:44 PM** - Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO (nyt)
+- **May 21, 09:19 PM** - Anderson confirmed as NASA deputy administrator (spacenews)
