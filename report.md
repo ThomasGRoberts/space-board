@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 15 | 15 | 31 |
 | nyt | 1 | 4 | 9 | 18 |
-| breaking_defense | 2 | 5 | 9 | 23 |
+| breaking_defense | 2 | 4 | 10 | 23 |
 
 # Shown Order
 
@@ -2236,3 +2236,4 @@
 - **May 22, 12:39 PM** - Rocket Lab launches ninth Synspective satellite (spacenews)
 - **May 22, 01:14 PM** - Leveraging AUKUS and southern geography: building Australia’s dual-use space infrastructure for strategic resilience  (spacenews)
 - **May 22, 01:49 PM** - SpaceX IPO filing casts Starlink Mobile as future wireless challenger (spacenews)
+- **May 22, 02:24 PM** - DARPA’s robotic servicing spacecraft to finally fly this summer (breaking_defense)
