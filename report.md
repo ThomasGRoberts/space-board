@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 15 | 15 | 31 |
-| nyt | 1 | 4 | 9 | 18 |
+| nyt | 1 | 4 | 10 | 19 |
 | breaking_defense | 2 | 4 | 10 | 23 |
 
 # Shown Order
@@ -2237,3 +2237,4 @@
 - **May 22, 01:14 PM** - Leveraging AUKUS and southern geography: building Australia’s dual-use space infrastructure for strategic resilience  (spacenews)
 - **May 22, 01:49 PM** - SpaceX IPO filing casts Starlink Mobile as future wireless challenger (spacenews)
 - **May 22, 02:24 PM** - DARPA’s robotic servicing spacecraft to finally fly this summer (breaking_defense)
+- **May 22, 02:59 PM** - SpaceX to Attempt Its 12th Test Flight of Starship (nyt)
