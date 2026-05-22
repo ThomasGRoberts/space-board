@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 13 | 30 |
-| nyt | 2 | 4 | 10 | 16 |
-| breaking_defense | 2 | 5 | 9 | 24 |
+| nyt | 2 | 4 | 9 | 16 |
+| breaking_defense | 2 | 5 | 10 | 25 |
 
 # Shown Order
 
@@ -2218,3 +2218,4 @@
 - **May 22, 01:59 AM** - Portal Space taps Quindar for ground mission support of its maneuvering spacecraft (spacenews)
 - **May 22, 02:34 AM** - Ground equipment problem scrubs Starship launch attempt (spacenews)
 - **May 22, 03:08 AM** - SpaceX to Attempt Its 12th Test Flight of Starship (nyt)
+- **May 22, 03:44 AM** - Boots on the moon needed to beat ‘belligerent’ China: Mitchell Institute (breaking_defense)
