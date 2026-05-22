@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 13 | 12 | 30 |
+| spacenews | 5 | 13 | 13 | 31 |
 | nyt | 2 | 4 | 9 | 16 |
 | breaking_defense | 2 | 5 | 10 | 25 |
 
@@ -2225,3 +2225,4 @@
 - **May 22, 06:05 AM** - Isaacman expects Chinese crewed mission around the moon in 2027 (spacenews)
 - **May 22, 06:44 AM** - SpaceX Scrubs Launch Attempt of Updated Starship Rocket (nyt)
 - **May 22, 07:24 AM** - How drones can navigate without GPS  (breaking_defense)
+- **May 22, 07:59 AM** - Starship underpins SpaceX’s growth ambitions (spacenews)
