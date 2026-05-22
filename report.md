@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 12 | 16 | 29 |
+| spacenews | 10 | 13 | 17 | 30 |
 | nyt | 1 | 4 | 11 | 20 |
 | breaking_defense | 2 | 4 | 11 | 23 |
 
@@ -2241,3 +2241,4 @@
 - **May 22, 03:34 PM** - ESA-China SMILE mission lifts off to deliver first global images of Earth’s magnetosphere (spacenews)
 - **May 22, 04:09 PM** - How drones can navigate without GPS  (breaking_defense)
 - **May 22, 04:44 PM** - SpaceX Scrubs Launch Attempt of Updated Starship Rocket (nyt)
+- **May 22, 05:19 PM** - NASA unveils sweeping reorganization (spacenews)
