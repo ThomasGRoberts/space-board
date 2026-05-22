@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-22T00:04:37.730405+00:00",
-    "trigger_count": 6,
-    "current_item_id": "90a198622968dba00b87e59faf7d10d2",
+    "trigger_count": 0,
+    "current_item_id": "9a53ca59e5fe1af0b6634822e2a68473",
     "data": [
         {
             "id": "0c0d9a69ea975dba2f38c4145650e5f0",
@@ -7795,6 +7795,27 @@
             "shown_at": [
                 "2026-05-22T12:39:17.523084Z"
             ]
+        },
+        {
+            "id": "9a53ca59e5fe1af0b6634822e2a68473",
+            "source": "spacenews",
+            "text": "Leveraging AUKUS and southern geography: building Australia’s dual-use space infrastructure for strategic resilience ",
+            "source_link": "https://spacenews.com/leveraging-aukus-and-southern-geography-building-australias-dual-use-space-infrastructure-for-strategic-resilience/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-22T13:14:20.394506Z",
+            "shown_at": [
+                "2026-05-22T13:14:21.276546Z"
+            ]
+        },
+        {
+            "id": "6720b985eddb11e422fd43a28dd6a5fb",
+            "source": "spacenews",
+            "text": "SpaceX IPO filing casts Starlink Mobile as future wireless challenger",
+            "source_link": "https://spacenews.com/spacex-prospectus-casts-starlink-mobile-as-future-wireless-challenger/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-05-22T13:14:20.394565Z"
         }
     ]
 }
