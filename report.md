@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 13 | 13 | 31 |
-| nyt | 2 | 4 | 9 | 16 |
+| nyt | 2 | 4 | 10 | 17 |
 | breaking_defense | 2 | 5 | 9 | 24 |
 
 # Shown Order
@@ -2226,3 +2226,4 @@
 - **May 22, 06:44 AM** - SpaceX Scrubs Launch Attempt of Updated Starship Rocket (nyt)
 - **May 22, 07:24 AM** - How drones can navigate without GPS  (breaking_defense)
 - **May 22, 07:59 AM** - Starship underpins SpaceX’s growth ambitions (spacenews)
+- **May 22, 08:34 AM** - Elon Musk’s SpaceX Pulls Back the Curtain on Its Finances (nyt)
