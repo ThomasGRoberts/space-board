@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-22T00:04:37.730405+00:00",
-    "trigger_count": 6,
-    "current_item_id": "70d16a9e418a6a33a9836ffb923e0d73",
+    "trigger_count": 0,
+    "current_item_id": "c69a1c3cecbefac8c91374e98466eed9",
     "data": [
         {
             "id": "0c0d9a69ea975dba2f38c4145650e5f0",
@@ -7743,6 +7743,18 @@
             "fetched_datetime": "2026-05-22T00:49:12.713231Z",
             "shown_at": [
                 "2026-05-22T00:49:13.613585Z"
+            ]
+        },
+        {
+            "id": "c69a1c3cecbefac8c91374e98466eed9",
+            "source": "spacenews",
+            "text": "Ground equipment problem scrubs Starship launch attempt",
+            "source_link": "https://spacenews.com/ground-equipment-problem-scrubs-starship-launch-attempt/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-22T02:34:22.482817Z",
+            "shown_at": [
+                "2026-05-22T02:34:23.957360Z"
             ]
         }
     ]

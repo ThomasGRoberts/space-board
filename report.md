@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 13 | 30 |
+| spacenews | 6 | 13 | 14 | 31 |
 | nyt | 2 | 4 | 9 | 16 |
 | breaking_defense | 2 | 5 | 9 | 24 |
 
@@ -2216,3 +2216,4 @@
 - **May 22, 12:49 AM** - SpaceX Scrubs Launch Attempt of Updated Starship Rocket (nyt)
 - **May 22, 01:24 AM** - How drones can navigate without GPS  (breaking_defense)
 - **May 22, 01:59 AM** - Portal Space taps Quindar for ground mission support of its maneuvering spacecraft (spacenews)
+- **May 22, 02:34 AM** - Ground equipment problem scrubs Starship launch attempt (spacenews)
