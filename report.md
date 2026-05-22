@@ -2231,3 +2231,4 @@
 - **May 22, 09:44 AM** - Rocket Lab wins first GEO satellite production contract from U.S. Space Force (spacenews)
 - **May 22, 10:19 AM** - Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO (nyt)
 - **May 22, 10:54 AM** - Space Force names Sandhoo as head of new missile warning/tracking PAE (breaking_defense)
+- **May 22, 11:29 AM** - Orbital Data Centers: Power and Thermal Management for Scalable Architectures (spacenews)
