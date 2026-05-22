@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-22T00:04:37.730405+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2ec8c76103baf4946ff9c8244267dcb5",
+    "trigger_count": 0,
+    "current_item_id": "6c811402e9bd30ba1bd0fa7f94981dbd",
     "data": [
         {
             "id": "0c0d9a69ea975dba2f38c4145650e5f0",
@@ -7725,9 +7725,12 @@
             "source": "breaking_defense",
             "text": "How drones can navigate without GPS ",
             "source_link": "https://breakingdefense.com/2026/05/how-drones-can-navigate-without-gps/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-05-22T00:14:42.797127Z"
+            "fetched_datetime": "2026-05-22T00:14:42.797127Z",
+            "shown_at": [
+                "2026-05-22T01:24:12.455701Z"
+            ]
         },
         {
             "id": "2ec8c76103baf4946ff9c8244267dcb5",

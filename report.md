@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 12 | 29 |
 | nyt | 2 | 4 | 10 | 16 |
-| breaking_defense | 2 | 5 | 9 | 24 |
+| breaking_defense | 2 | 5 | 10 | 25 |
 
 # Shown Order
 
@@ -2214,3 +2214,4 @@
 - **May 21, 11:39 PM** - Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO (nyt)
 - **May 22, 12:14 AM** - Boots on the moon needed to beat ‘belligerent’ China: Mitchell Institute (breaking_defense)
 - **May 22, 12:49 AM** - SpaceX Scrubs Launch Attempt of Updated Starship Rocket (nyt)
+- **May 22, 01:24 AM** - How drones can navigate without GPS  (breaking_defense)
