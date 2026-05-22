@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 13 | 17 | 29 |
 | nyt | 1 | 4 | 11 | 20 |
-| breaking_defense | 2 | 4 | 11 | 23 |
+| breaking_defense | 2 | 4 | 12 | 24 |
 
 # Shown Order
 
@@ -2242,3 +2242,4 @@
 - **May 22, 04:09 PM** - How drones can navigate without GPS  (breaking_defense)
 - **May 22, 04:44 PM** - SpaceX Scrubs Launch Attempt of Updated Starship Rocket (nyt)
 - **May 22, 05:19 PM** - NASA unveils sweeping reorganization (spacenews)
+- **May 22, 05:54 PM** - Space Force names Sandhoo as head of new missile warning/tracking PAE (breaking_defense)
