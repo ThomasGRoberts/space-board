@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 13 | 30 |
-| nyt | 1 | 4 | 9 | 17 |
+| nyt | 1 | 4 | 10 | 18 |
 | breaking_defense | 2 | 5 | 9 | 24 |
 
 # Shown Order
@@ -2232,3 +2232,4 @@
 - **May 22, 10:19 AM** - Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO (nyt)
 - **May 22, 10:54 AM** - Space Force names Sandhoo as head of new missile warning/tracking PAE (breaking_defense)
 - **May 22, 11:29 AM** - Orbital Data Centers: Power and Thermal Management for Scalable Architectures (spacenews)
+- **May 22, 12:04 PM** - Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO (nyt)
