@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-22T00:04:37.730405+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2604eeddbf758cc5e9f55b5ef9c9ead9",
+    "trigger_count": 0,
+    "current_item_id": "9d94a4b12dc833d31199af8eb8d3cbd1",
     "data": [
         {
             "id": "0c0d9a69ea975dba2f38c4145650e5f0",
@@ -7707,6 +7707,27 @@
                 "2026-03-30T05:19:32.684270Z",
                 "2026-03-30T07:44:47.357468Z"
             ]
+        },
+        {
+            "id": "9d94a4b12dc833d31199af8eb8d3cbd1",
+            "source": "breaking_defense",
+            "text": "Boots on the moon needed to beat ‘belligerent’ China: Mitchell Institute",
+            "source_link": "https://breakingdefense.com/2026/05/boots-on-the-moon-needed-to-beat-belligerent-china-mitchell-institute/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-22T00:14:42.797063Z",
+            "shown_at": [
+                "2026-05-22T00:14:44.977555Z"
+            ]
+        },
+        {
+            "id": "6c811402e9bd30ba1bd0fa7f94981dbd",
+            "source": "breaking_defense",
+            "text": "How drones can navigate without GPS ",
+            "source_link": "https://breakingdefense.com/2026/05/how-drones-can-navigate-without-gps/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-05-22T00:14:42.797127Z"
         }
     ]
 }
