@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-22T00:04:37.730405+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2604eeddbf758cc5e9f55b5ef9c9ead9",
+    "trigger_count": 0,
+    "current_item_id": "90a198622968dba00b87e59faf7d10d2",
     "data": [
         {
             "id": "0c0d9a69ea975dba2f38c4145650e5f0",
@@ -7782,6 +7782,18 @@
             "fetched_datetime": "2026-05-22T09:44:10.333972Z",
             "shown_at": [
                 "2026-05-22T09:44:11.044195Z"
+            ]
+        },
+        {
+            "id": "90a198622968dba00b87e59faf7d10d2",
+            "source": "spacenews",
+            "text": "Rocket Lab launches ninth Synspective satellite",
+            "source_link": "https://spacenews.com/rocket-lab-launches-ninth-synspective-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-22T12:39:14.916880Z",
+            "shown_at": [
+                "2026-05-22T12:39:17.523084Z"
             ]
         }
     ]
