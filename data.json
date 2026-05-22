@@ -1,9 +1,110 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-05-21T00:04:45.752770+00:00",
-    "trigger_count": 4,
+    "last_run_datetime": "2026-05-22T00:04:37.730405+00:00",
+    "trigger_count": 5,
     "current_item_id": "2604eeddbf758cc5e9f55b5ef9c9ead9",
     "data": [
+        {
+            "id": "0c0d9a69ea975dba2f38c4145650e5f0",
+            "source": "spacenews",
+            "text": "Sixth Varda mission successfully returns",
+            "source_link": "https://spacenews.com/sixth-varda-mission-successfully-returns/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-21T22:29:08.780025Z",
+            "shown_at": [
+                "2026-05-21T22:29:10.112024Z"
+            ]
+        },
+        {
+            "id": "f8f1a19dcf28c08df67ff96830e8df8b",
+            "source": "spacenews",
+            "text": "Space Force on path to double active-duty force by 2030",
+            "source_link": "https://spacenews.com/space-force-on-path-to-double-active-duty-force-by-2030/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-21T21:54:14.417523Z",
+            "shown_at": [
+                "2026-05-21T21:54:17.144090Z"
+            ]
+        },
+        {
+            "id": "ee73df88159d53af40f354a412959326",
+            "source": "spacenews",
+            "text": "The internet was ‘too expensive’ too",
+            "source_link": "https://spacenews.com/the-internet-was-too-expensive-too/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-21T18:19:17.506101Z",
+            "shown_at": [
+                "2026-05-21T19:05:45.512256Z"
+            ]
+        },
+        {
+            "id": "23eb9a125461e2caa79291ee84261374",
+            "source": "spacenews",
+            "text": "Starship underpins SpaceX’s growth ambitions",
+            "source_link": "https://spacenews.com/starship-underpins-spacexs-growth-ambitions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-21T18:19:17.506044Z",
+            "shown_at": [
+                "2026-05-21T18:19:19.920042Z"
+            ]
+        },
+        {
+            "id": "660516680542cb2951a308d6423cff7d",
+            "source": "nyt",
+            "text": "SpaceX to Attempt Its 12th Test Flight of Starship",
+            "source_link": "https://www.nytimes.com/2026/05/21/science/space/spacex-starship-launch-nasa.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-21T10:49:18.086747Z",
+            "shown_at": [
+                "2026-05-21T10:49:21.228094Z"
+            ]
+        },
+        {
+            "id": "c26b5c86317f85d55fc93c9f5fef43e0",
+            "source": "spacenews",
+            "text": "LatConnect 60 announces accelerated growth investment round to build AUKUS-aligned Highest Resolution SWIR Satellite constellation",
+            "source_link": "https://spacenews.com/latconnect-60-announces-accelerated-growth-investment-round-to-build-aukus-aligned-highest-resolution-swir-satellite-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-21T07:49:22.864442Z",
+            "shown_at": [
+                "2026-05-21T07:49:24.383963Z"
+            ]
+        },
+        {
+            "id": "eebc2484cf3c1a12fcc2e4432a94ae53",
+            "source": "breaking_defense",
+            "text": "DARPA’s robotic servicing mission to finally fly this summer",
+            "source_link": "https://breakingdefense.com/2026/05/darpas-robotic-servicing-spacecraft-to-finally-fly-this-summer/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-21T00:09:30.962436Z",
+            "shown_at": [
+                "2026-05-21T00:44:12.799285Z",
+                "2026-05-21T02:29:05.591106Z",
+                "2026-05-21T10:09:18.924578Z",
+                "2026-05-21T23:04:32.383579Z"
+            ]
+        },
+        {
+            "id": "a47d67a591dd96bf8d2bbcca3e950d72",
+            "source": "breaking_defense",
+            "text": "DAF study finds new space launch site ‘probably’ required",
+            "source_link": "https://breakingdefense.com/2026/05/daf-study-finds-new-space-launch-site-probably-required/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-21T00:09:30.962371Z",
+            "shown_at": [
+                "2026-05-21T00:09:32.099051Z",
+                "2026-05-21T05:59:17.385068Z",
+                "2026-05-21T11:59:09.259051Z"
+            ]
+        },
         {
             "id": "2604eeddbf758cc5e9f55b5ef9c9ead9",
             "source": "nyt",
@@ -7605,233 +7706,6 @@
                 "2026-03-29T22:19:33.312658Z",
                 "2026-03-30T05:19:32.684270Z",
                 "2026-03-30T07:44:47.357468Z"
-            ]
-        },
-        {
-            "id": "ae58fab2add017d01562ff355536ce62",
-            "source": "nyt",
-            "text": "NASA Adds Moon Base and Nuclear-Powered Mars Spacecraft to Road Map",
-            "source_link": "https://www.nytimes.com/2026/03/24/science/nasa-moon-base-mars-spacecraft.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-24T15:04:31.508166Z",
-            "shown_at": [
-                "2026-03-24T15:04:32.686250Z",
-                "2026-03-24T21:19:12.283846Z",
-                "2026-03-25T04:54:24.938524Z",
-                "2026-03-25T08:29:11.909619Z",
-                "2026-03-25T09:39:05.962949Z",
-                "2026-03-25T19:39:08.185805Z",
-                "2026-03-26T03:14:29.948055Z",
-                "2026-03-26T06:44:25.027922Z",
-                "2026-03-26T12:39:17.582222Z",
-                "2026-03-27T00:09:14.742604Z",
-                "2026-03-27T10:04:46.966829Z",
-                "2026-03-28T09:49:21.433155Z",
-                "2026-03-28T10:59:10.006118Z",
-                "2026-03-28T15:39:04.966067Z",
-                "2026-03-29T02:29:06.967086Z",
-                "2026-03-29T07:09:09.688351Z",
-                "2026-03-30T06:34:35.572755Z",
-                "2026-03-30T21:59:10.810240Z"
-            ]
-        },
-        {
-            "id": "b015b39471cf6fb4d247311fe97ede47",
-            "source": "spacenews",
-            "text": "SpaceEye-T: 25 cm Satellite Imagery and Tasking Now Available Through Pacific Geomatics Limited",
-            "source_link": "https://spacenews.com/spaceeye-t-25-cm-satellite-imagery-and-tasking-now-available-through-pacific-geomatics-limited/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-24T14:29:33.887257Z",
-            "shown_at": [
-                "2026-03-24T14:29:35.146087Z",
-                "2026-03-27T14:44:32.109970Z",
-                "2026-03-28T13:54:23.692280Z",
-                "2026-03-30T10:54:35.794899Z"
-            ]
-        },
-        {
-            "id": "63c9f43276c09f60ee8603d84c998c1f",
-            "source": "spacenews",
-            "text": "SES targets 28 satellites with K2 Space for next-gen MEO network",
-            "source_link": "https://spacenews.com/ses-targets-28-satellites-with-k2-space-for-next-gen-meo-network/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-24T13:15:26.070570Z",
-            "shown_at": [
-                "2026-03-24T13:15:27.235807Z"
-            ]
-        },
-        {
-            "id": "0e4fc5d1ea8ffd9fcb2ae3eddda5c74c",
-            "source": "spacenews",
-            "text": "Fusion engine for missile warning lacks a government dataset",
-            "source_link": "https://spacenews.com/fusion-engine-for-missile-warning-lacks-a-government-dataset/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-24T11:24:11.966115Z",
-            "shown_at": [
-                "2026-03-24T11:24:12.850025Z",
-                "2026-03-27T11:49:22.346350Z"
-            ]
-        },
-        {
-            "id": "c4d2c71e77e4ea178f9fac17093d669c",
-            "source": "spacenews",
-            "text": "Space Force adds cyber units to guard rocket launches",
-            "source_link": "https://spacenews.com/space-force-adds-cyber-units-to-guard-rocket-launches/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-23T21:54:33.002405Z",
-            "shown_at": [
-                "2026-03-23T21:54:34.412977Z",
-                "2026-03-25T04:19:16.338498Z",
-                "2026-03-30T02:24:26.487840Z"
-            ]
-        },
-        {
-            "id": "61a85012854583d72a58ab2966a5ddc9",
-            "source": "spacenews",
-            "text": "Parsons unveils new satellite antenna aimed at military market",
-            "source_link": "https://spacenews.com/parsons-unveils-new-satellite-antenna-aimed-at-military-market/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-23T20:44:27.186524Z",
-            "shown_at": [
-                "2026-03-23T21:19:27.459992Z",
-                "2026-03-24T06:04:47.412771Z",
-                "2026-03-24T21:54:19.562481Z",
-                "2026-03-25T07:49:21.370907Z"
-            ]
-        },
-        {
-            "id": "0af2ce535b99f67cd3a4fb25a88c1143",
-            "source": "spacenews",
-            "text": "Amazon Leo targets faster deployment cadence as deadline pressure mounts",
-            "source_link": "https://spacenews.com/amazon-leo-targets-faster-deployment-cadence-as-deadline-pressure-mounts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-23T20:44:27.186455Z",
-            "shown_at": [
-                "2026-03-23T20:44:28.624481Z",
-                "2026-03-24T08:29:16.667107Z",
-                "2026-03-30T04:44:29.389288Z"
-            ]
-        },
-        {
-            "id": "cb993416cecf5340c644251dd3973617",
-            "source": "spacenews",
-            "text": "Sovereign demand and institutional capital reshape space economy",
-            "source_link": "https://spacenews.com/sovereign-demand-and-institutional-capital-reshape-space-economy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-23T18:24:18.422172Z",
-            "shown_at": [
-                "2026-03-23T18:24:19.595415Z",
-                "2026-03-25T11:24:19.013131Z",
-                "2026-03-29T03:04:46.636192Z"
-            ]
-        },
-        {
-            "id": "a47d67a591dd96bf8d2bbcca3e950d72",
-            "source": "breaking_defense",
-            "text": "DAF study finds new space launch site ‘probably’ required",
-            "source_link": "https://breakingdefense.com/2026/05/daf-study-finds-new-space-launch-site-probably-required/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-21T00:09:30.962371Z",
-            "shown_at": [
-                "2026-05-21T00:09:32.099051Z",
-                "2026-05-21T05:59:17.385068Z",
-                "2026-05-21T11:59:09.259051Z"
-            ]
-        },
-        {
-            "id": "eebc2484cf3c1a12fcc2e4432a94ae53",
-            "source": "breaking_defense",
-            "text": "DARPA’s robotic servicing mission to finally fly this summer",
-            "source_link": "https://breakingdefense.com/2026/05/darpas-robotic-servicing-spacecraft-to-finally-fly-this-summer/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-21T00:09:30.962436Z",
-            "shown_at": [
-                "2026-05-21T00:44:12.799285Z",
-                "2026-05-21T02:29:05.591106Z",
-                "2026-05-21T10:09:18.924578Z",
-                "2026-05-21T23:04:32.383579Z"
-            ]
-        },
-        {
-            "id": "c26b5c86317f85d55fc93c9f5fef43e0",
-            "source": "spacenews",
-            "text": "LatConnect 60 announces accelerated growth investment round to build AUKUS-aligned Highest Resolution SWIR Satellite constellation",
-            "source_link": "https://spacenews.com/latconnect-60-announces-accelerated-growth-investment-round-to-build-aukus-aligned-highest-resolution-swir-satellite-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-21T07:49:22.864442Z",
-            "shown_at": [
-                "2026-05-21T07:49:24.383963Z"
-            ]
-        },
-        {
-            "id": "660516680542cb2951a308d6423cff7d",
-            "source": "nyt",
-            "text": "SpaceX to Attempt Its 12th Test Flight of Starship",
-            "source_link": "https://www.nytimes.com/2026/05/21/science/space/spacex-starship-launch-nasa.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-21T10:49:18.086747Z",
-            "shown_at": [
-                "2026-05-21T10:49:21.228094Z"
-            ]
-        },
-        {
-            "id": "23eb9a125461e2caa79291ee84261374",
-            "source": "spacenews",
-            "text": "Starship underpins SpaceX’s growth ambitions",
-            "source_link": "https://spacenews.com/starship-underpins-spacexs-growth-ambitions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-21T18:19:17.506044Z",
-            "shown_at": [
-                "2026-05-21T18:19:19.920042Z"
-            ]
-        },
-        {
-            "id": "ee73df88159d53af40f354a412959326",
-            "source": "spacenews",
-            "text": "The internet was ‘too expensive’ too",
-            "source_link": "https://spacenews.com/the-internet-was-too-expensive-too/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-21T18:19:17.506101Z",
-            "shown_at": [
-                "2026-05-21T19:05:45.512256Z"
-            ]
-        },
-        {
-            "id": "f8f1a19dcf28c08df67ff96830e8df8b",
-            "source": "spacenews",
-            "text": "Space Force on path to double active-duty force by 2030",
-            "source_link": "https://spacenews.com/space-force-on-path-to-double-active-duty-force-by-2030/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-21T21:54:14.417523Z",
-            "shown_at": [
-                "2026-05-21T21:54:17.144090Z"
-            ]
-        },
-        {
-            "id": "0c0d9a69ea975dba2f38c4145650e5f0",
-            "source": "spacenews",
-            "text": "Sixth Varda mission successfully returns",
-            "source_link": "https://spacenews.com/sixth-varda-mission-successfully-returns/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-21T22:29:08.780025Z",
-            "shown_at": [
-                "2026-05-21T22:29:10.112024Z"
             ]
         }
     ]
