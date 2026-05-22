@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-22T00:04:37.730405+00:00",
-    "trigger_count": 6,
-    "current_item_id": "eebc2484cf3c1a12fcc2e4432a94ae53",
+    "trigger_count": 0,
+    "current_item_id": "be615081c1e47698aa17c85ff64d8c22",
     "data": [
         {
             "id": "0c0d9a69ea975dba2f38c4145650e5f0",
@@ -7766,6 +7766,18 @@
             "fetched_datetime": "2026-05-22T02:34:22.482817Z",
             "shown_at": [
                 "2026-05-22T02:34:23.957360Z"
+            ]
+        },
+        {
+            "id": "be615081c1e47698aa17c85ff64d8c22",
+            "source": "spacenews",
+            "text": "Rocket Lab wins first GEO satellite production contract from U.S. Space Force",
+            "source_link": "https://spacenews.com/rocket-lab-wins-first-geo-satellite-production-contract-from-u-s-space-force/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-22T09:44:10.333972Z",
+            "shown_at": [
+                "2026-05-22T09:44:11.044195Z"
             ]
         }
     ]

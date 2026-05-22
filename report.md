@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 13 | 12 | 30 |
-| nyt | 2 | 4 | 9 | 17 |
+| spacenews | 6 | 14 | 13 | 31 |
+| nyt | 2 | 4 | 9 | 16 |
 | breaking_defense | 2 | 5 | 10 | 25 |
 
 # Shown Order
@@ -2228,3 +2228,4 @@
 - **May 22, 07:59 AM** - Starship underpins SpaceX’s growth ambitions (spacenews)
 - **May 22, 08:34 AM** - Elon Musk’s SpaceX Pulls Back the Curtain on Its Finances (nyt)
 - **May 22, 09:09 AM** - DARPA’s robotic servicing mission to finally fly this summer (breaking_defense)
+- **May 22, 09:44 AM** - Rocket Lab wins first GEO satellite production contract from U.S. Space Force (spacenews)
