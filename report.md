@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 12 | 16 | 30 |
 | nyt | 1 | 4 | 10 | 19 |
-| breaking_defense | 2 | 4 | 10 | 23 |
+| breaking_defense | 2 | 4 | 11 | 24 |
 
 # Shown Order
 
@@ -2239,3 +2239,4 @@
 - **May 22, 02:24 PM** - DARPA’s robotic servicing spacecraft to finally fly this summer (breaking_defense)
 - **May 22, 02:59 PM** - SpaceX to Attempt Its 12th Test Flight of Starship (nyt)
 - **May 22, 03:34 PM** - ESA-China SMILE mission lifts off to deliver first global images of Earth’s magnetosphere (spacenews)
+- **May 22, 04:09 PM** - How drones can navigate without GPS  (breaking_defense)
