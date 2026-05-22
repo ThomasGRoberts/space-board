@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 13 | 30 |
-| nyt | 2 | 4 | 10 | 17 |
-| breaking_defense | 2 | 5 | 9 | 25 |
+| nyt | 1 | 4 | 9 | 17 |
+| breaking_defense | 2 | 5 | 10 | 25 |
 
 # Shown Order
 
@@ -2230,3 +2230,4 @@
 - **May 22, 09:09 AM** - DARPA’s robotic servicing mission to finally fly this summer (breaking_defense)
 - **May 22, 09:44 AM** - Rocket Lab wins first GEO satellite production contract from U.S. Space Force (spacenews)
 - **May 22, 10:19 AM** - Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO (nyt)
+- **May 22, 10:54 AM** - Space Force names Sandhoo as head of new missile warning/tracking PAE (breaking_defense)
