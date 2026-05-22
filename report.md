@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 12 | 17 | 28 |
+| spacenews | 8 | 12 | 16 | 28 |
 | nyt | 1 | 3 | 12 | 21 |
-| breaking_defense | 2 | 4 | 12 | 23 |
+| breaking_defense | 2 | 4 | 13 | 24 |
 
 # Shown Order
 
@@ -2248,3 +2248,4 @@
 - **May 22, 07:39 PM** - Space Force names Sandhoo as head of new missile warning/tracking PAE (breaking_defense)
 - **May 22, 08:14 PM** - SpaceX to Attempt Its 12th Test Flight of Starship (nyt)
 - **May 22, 08:49 PM** - York Space defends growth strategy as SDA programs are reshaped (spacenews)
+- **May 22, 09:24 PM** - DAF study finds new space launch site ‘probably’ required (breaking_defense)
