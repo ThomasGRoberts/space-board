@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 13 | 30 |
+| spacenews | 6 | 13 | 14 | 31 |
 | nyt | 2 | 4 | 9 | 16 |
-| breaking_defense | 2 | 5 | 10 | 24 |
+| breaking_defense | 2 | 5 | 9 | 24 |
 
 # Shown Order
 
@@ -2219,3 +2219,4 @@
 - **May 22, 02:34 AM** - Ground equipment problem scrubs Starship launch attempt (spacenews)
 - **May 22, 03:08 AM** - SpaceX to Attempt Its 12th Test Flight of Starship (nyt)
 - **May 22, 03:44 AM** - Boots on the moon needed to beat ‘belligerent’ China: Mitchell Institute (breaking_defense)
+- **May 22, 04:19 AM** - Report finds U.S. space supply chains rely heavily on Chinese manufacturing (spacenews)
