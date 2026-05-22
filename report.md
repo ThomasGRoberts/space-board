@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 11 | 15 | 28 |
-| nyt | 1 | 2 | 12 | 21 |
+| nyt | 1 | 2 | 13 | 22 |
 | breaking_defense | 2 | 4 | 13 | 23 |
 
 # Shown Order
@@ -2252,3 +2252,4 @@
 - **May 22, 09:59 PM** - SpaceX to Attempt Its 12th Test Flight of Starship (nyt)
 - **May 22, 10:34 PM** - Inside Golden Dome’s push to court commercial tech firms and investors (spacenews)
 - **May 22, 11:14 PM** - Space Force names Sandhoo as head of new missile warning/tracking PAE (breaking_defense)
+- **May 22, 11:49 PM** - SpaceX Scrubs Launch Attempt of Updated Starship Rocket (nyt)
