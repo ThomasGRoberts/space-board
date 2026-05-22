@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 13 | 29 |
-| nyt | 1 | 3 | 9 | 16 |
+| nyt | 2 | 4 | 10 | 17 |
 | breaking_defense | 2 | 5 | 9 | 24 |
 
 # Shown Order
@@ -2213,3 +2213,4 @@
 - **May 21, 11:04 PM** - DARPA’s robotic servicing mission to finally fly this summer (breaking_defense)
 - **May 21, 11:39 PM** - Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO (nyt)
 - **May 22, 12:14 AM** - Boots on the moon needed to beat ‘belligerent’ China: Mitchell Institute (breaking_defense)
+- **May 22, 12:49 AM** - SpaceX Scrubs Launch Attempt of Updated Starship Rocket (nyt)
