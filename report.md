@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 13 | 30 |
+| spacenews | 6 | 13 | 14 | 31 |
 | nyt | 2 | 4 | 9 | 16 |
-| breaking_defense | 2 | 5 | 10 | 24 |
+| breaking_defense | 2 | 5 | 9 | 24 |
 
 # Shown Order
 
@@ -2222,3 +2222,4 @@
 - **May 22, 04:19 AM** - Report finds U.S. space supply chains rely heavily on Chinese manufacturing (spacenews)
 - **May 22, 04:54 AM** - SpaceX Scrubs Launch Attempt of Updated Starship Rocket (nyt)
 - **May 22, 05:29 AM** - DARPA’s robotic servicing spacecraft to finally fly this summer (breaking_defense)
+- **May 22, 06:05 AM** - Isaacman expects Chinese crewed mission around the moon in 2027 (spacenews)
