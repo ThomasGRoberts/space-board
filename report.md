@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 11 | 15 | 27 |
+| spacenews | 6 | 11 | 15 | 28 |
 | nyt | 1 | 3 | 13 | 22 |
 | breaking_defense | 2 | 4 | 13 | 23 |
 
@@ -2250,3 +2250,4 @@
 - **May 22, 08:49 PM** - York Space defends growth strategy as SDA programs are reshaped (spacenews)
 - **May 22, 09:24 PM** - DAF study finds new space launch site ‘probably’ required (breaking_defense)
 - **May 22, 09:59 PM** - SpaceX to Attempt Its 12th Test Flight of Starship (nyt)
+- **May 22, 10:34 PM** - Inside Golden Dome’s push to court commercial tech firms and investors (spacenews)
