@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 13 | 16 | 28 |
+| spacenews | 8 | 13 | 17 | 29 |
 | nyt | 1 | 4 | 12 | 21 |
 | breaking_defense | 2 | 4 | 12 | 23 |
 
@@ -2244,3 +2244,4 @@
 - **May 22, 05:19 PM** - NASA unveils sweeping reorganization (spacenews)
 - **May 22, 05:54 PM** - Space Force names Sandhoo as head of new missile warning/tracking PAE (breaking_defense)
 - **May 22, 06:29 PM** - Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO (nyt)
+- **May 22, 07:04 PM** - York Space defends growth strategy as SDA programs are reshaped (spacenews)
