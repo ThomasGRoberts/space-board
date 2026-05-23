@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 16 | 29 |
 | nyt | 0 | 1 | 12 | 22 |
-| breaking_defense | 0 | 2 | 12 | 21 |
+| breaking_defense | 0 | 2 | 13 | 22 |
 
 # Shown Order
 
@@ -2202,3 +2202,4 @@
 - **May 23, 10:39 AM** - DARPA’s robotic servicing mission to finally fly this summer (breaking_defense)
 - **May 23, 11:14 AM** - Isaacman expects Chinese crewed mission around the moon in 2027 (spacenews)
 - **May 23, 11:49 AM** - Elon Musk’s SpaceX Pulls Back the Curtain on Its Finances (nyt)
+- **May 23, 12:24 PM** - DAF study finds new space launch site ‘probably’ required (breaking_defense)
