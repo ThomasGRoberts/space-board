@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 12 | 14 | 30 |
 | nyt | 0 | 1 | 13 | 23 |
-| breaking_defense | 0 | 2 | 13 | 23 |
+| breaking_defense | 0 | 2 | 14 | 24 |
 
 # Shown Order
 
@@ -2208,3 +2208,4 @@
 - **May 23, 02:19 PM** - How drones can navigate without GPS  (breaking_defense)
 - **May 23, 02:54 PM** - Isaacman expects Chinese crewed mission around the moon in 2027 (spacenews)
 - **May 23, 03:29 PM** - Elon Musk’s SpaceX Pulls Back the Curtain on Its Finances (nyt)
+- **May 23, 04:04 PM** - DARPA’s robotic servicing mission to finally fly this summer (breaking_defense)
