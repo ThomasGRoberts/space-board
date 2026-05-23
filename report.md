@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 12 | 16 | 29 |
+| spacenews | 7 | 12 | 17 | 30 |
 | nyt | 0 | 2 | 12 | 21 |
 | breaking_defense | 0 | 2 | 12 | 22 |
 
@@ -2197,3 +2197,4 @@
 - **May 23, 07:34 AM** - NASA releases final RFP for Mars communications orbiter (spacenews)
 - **May 23, 08:09 AM** - SpaceX to Attempt Its 12th Test Flight of Starship (nyt)
 - **May 23, 08:44 AM** - Boots on the moon needed to beat ‘belligerent’ China: Mitchell Institute (breaking_defense)
+- **May 23, 09:19 AM** - House bill restores funding for TraCSS (spacenews)
