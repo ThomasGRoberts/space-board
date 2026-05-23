@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 10 | 14 | 30 |
+| spacenews | 2 | 10 | 15 | 31 |
 | nyt | 0 | 1 | 12 | 25 |
 | breaking_defense | 0 | 2 | 13 | 25 |
 
@@ -2215,3 +2215,4 @@
 - **May 23, 06:44 PM** - Portal Space taps Quindar for ground mission support of its maneuvering spacecraft (spacenews)
 - **May 23, 07:19 PM** - Elon Musk’s SpaceX Pulls Back the Curtain on Its Finances (nyt)
 - **May 23, 07:54 PM** - How drones can navigate without GPS  (breaking_defense)
+- **May 23, 08:33 PM** - Portal Space taps Quindar for ground mission support of its maneuvering spacecraft (spacenews)
