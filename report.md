@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 13 | 16 | 29 |
+| spacenews | 7 | 13 | 17 | 30 |
 | nyt | 0 | 2 | 12 | 21 |
 | breaking_defense | 0 | 2 | 12 | 22 |
 
@@ -2188,3 +2188,4 @@
 - **May 23, 02:19 AM** - Space Force on path to double active-duty force by 2030 (spacenews)
 - **May 23, 02:54 AM** - Space Force names Sandhoo as head of new missile warning/tracking PAE (breaking_defense)
 - **May 23, 03:29 AM** - Blue Origin completes investigation into New Glenn launch failure (spacenews)
+- **May 23, 04:04 AM** - SpaceX launches first Starship V3 (spacenews)
