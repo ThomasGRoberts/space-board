@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 9 | 14 | 29 |
+| spacenews | 2 | 9 | 15 | 30 |
 | nyt | 0 | 1 | 12 | 25 |
 | breaking_defense | 0 | 2 | 13 | 26 |
 
@@ -2218,3 +2218,4 @@
 - **May 23, 08:33 PM** - Portal Space taps Quindar for ground mission support of its maneuvering spacecraft (spacenews)
 - **May 23, 09:09 PM** - SpaceX to Attempt Its 12th Test Flight of Starship (nyt)
 - **May 23, 09:44 PM** - DARPA’s robotic servicing spacecraft to finally fly this summer (breaking_defense)
+- **May 23, 10:19 PM** - SpaceX launches first Starship V3 (spacenews)
