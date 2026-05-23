@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 11 | 15 | 29 |
 | nyt | 0 | 2 | 13 | 22 |
-| breaking_defense | 0 | 2 | 12 | 21 |
+| breaking_defense | 0 | 2 | 13 | 22 |
 
 # Shown Order
 
@@ -2186,3 +2186,4 @@
 - **May 23, 01:09 AM** - DARPA’s robotic servicing mission to finally fly this summer (breaking_defense)
 - **May 23, 01:44 AM** - SpaceX Scrubs Launch Attempt of Updated Starship Rocket (nyt)
 - **May 23, 02:19 AM** - Space Force on path to double active-duty force by 2030 (spacenews)
+- **May 23, 02:54 AM** - Space Force names Sandhoo as head of new missile warning/tracking PAE (breaking_defense)
