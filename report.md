@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 12 | 15 | 30 |
-| nyt | 0 | 1 | 12 | 22 |
+| nyt | 0 | 1 | 13 | 23 |
 | breaking_defense | 0 | 2 | 13 | 23 |
 
 # Shown Order
@@ -2207,3 +2207,4 @@
 - **May 23, 01:44 PM** - Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO (nyt)
 - **May 23, 02:19 PM** - How drones can navigate without GPS  (breaking_defense)
 - **May 23, 02:54 PM** - Isaacman expects Chinese crewed mission around the moon in 2027 (spacenews)
+- **May 23, 03:29 PM** - Elon Musk’s SpaceX Pulls Back the Curtain on Its Finances (nyt)
