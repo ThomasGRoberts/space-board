@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 12 | 14 | 31 |
 | nyt | 0 | 1 | 13 | 24 |
-| breaking_defense | 0 | 2 | 12 | 24 |
+| breaking_defense | 0 | 2 | 13 | 25 |
 
 # Shown Order
 
@@ -2211,3 +2211,4 @@
 - **May 23, 04:04 PM** - DARPA’s robotic servicing mission to finally fly this summer (breaking_defense)
 - **May 23, 04:39 PM** - Sixth Varda mission successfully returns (spacenews)
 - **May 23, 05:24 PM** - Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO (nyt)
+- **May 23, 06:04 PM** - Space Force names Sandhoo as head of new missile warning/tracking PAE (breaking_defense)
