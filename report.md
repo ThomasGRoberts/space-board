@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 14 | 29 |
 | nyt | 0 | 1 | 13 | 26 |
-| breaking_defense | 0 | 2 | 12 | 25 |
+| breaking_defense | 0 | 2 | 13 | 26 |
 
 # Shown Order
 
@@ -2220,3 +2220,4 @@
 - **May 23, 09:44 PM** - DARPA’s robotic servicing spacecraft to finally fly this summer (breaking_defense)
 - **May 23, 10:19 PM** - SpaceX launches first Starship V3 (spacenews)
 - **May 23, 10:54 PM** - SpaceX to Attempt Its 12th Test Flight of Starship (nyt)
+- **May 23, 11:29 PM** - How drones can navigate without GPS  (breaking_defense)
