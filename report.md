@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 12 | 14 | 29 |
+| spacenews | 3 | 12 | 15 | 30 |
 | nyt | 0 | 1 | 13 | 22 |
 | breaking_defense | 0 | 2 | 13 | 23 |
 
@@ -2206,3 +2206,4 @@
 - **May 23, 01:04 PM** - ESA-China SMILE mission lifts off to deliver first global images of Earth’s magnetosphere (spacenews)
 - **May 23, 01:44 PM** - Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO (nyt)
 - **May 23, 02:19 PM** - How drones can navigate without GPS  (breaking_defense)
+- **May 23, 02:54 PM** - Isaacman expects Chinese crewed mission around the moon in 2027 (spacenews)
