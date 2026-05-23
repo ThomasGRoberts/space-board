@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 12 | 15 | 29 |
-| nyt | 0 | 1 | 12 | 21 |
+| nyt | 0 | 1 | 13 | 22 |
 | breaking_defense | 0 | 2 | 13 | 22 |
 
 # Shown Order
@@ -2204,3 +2204,4 @@
 - **May 23, 11:49 AM** - Elon Musk’s SpaceX Pulls Back the Curtain on Its Finances (nyt)
 - **May 23, 12:24 PM** - DAF study finds new space launch site ‘probably’ required (breaking_defense)
 - **May 23, 01:04 PM** - ESA-China SMILE mission lifts off to deliver first global images of Earth’s magnetosphere (spacenews)
+- **May 23, 01:44 PM** - Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO (nyt)
