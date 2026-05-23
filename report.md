@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 16 | 29 |
 | nyt | 0 | 2 | 12 | 22 |
-| breaking_defense | 0 | 2 | 12 | 21 |
+| breaking_defense | 0 | 2 | 13 | 22 |
 
 # Shown Order
 
@@ -2199,3 +2199,4 @@
 - **May 23, 08:44 AM** - Boots on the moon needed to beat ‘belligerent’ China: Mitchell Institute (breaking_defense)
 - **May 23, 09:19 AM** - House bill restores funding for TraCSS (spacenews)
 - **May 23, 09:58 AM** - Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO (nyt)
+- **May 23, 10:39 AM** - DARPA’s robotic servicing mission to finally fly this summer (breaking_defense)
