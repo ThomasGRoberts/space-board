@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 12 | 14 | 30 |
+| spacenews | 3 | 12 | 15 | 31 |
 | nyt | 0 | 1 | 13 | 23 |
 | breaking_defense | 0 | 2 | 13 | 24 |
 
@@ -2209,3 +2209,4 @@
 - **May 23, 02:54 PM** - Isaacman expects Chinese crewed mission around the moon in 2027 (spacenews)
 - **May 23, 03:29 PM** - Elon Musk’s SpaceX Pulls Back the Curtain on Its Finances (nyt)
 - **May 23, 04:04 PM** - DARPA’s robotic servicing mission to finally fly this summer (breaking_defense)
+- **May 23, 04:39 PM** - Sixth Varda mission successfully returns (spacenews)
