@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 11 | 15 | 28 |
+| spacenews | 6 | 11 | 16 | 29 |
 | nyt | 1 | 2 | 13 | 22 |
 | breaking_defense | 0 | 2 | 12 | 22 |
 
@@ -2182,3 +2182,4 @@
 - **May 22, 10:34 PM** - Inside Golden Dome’s push to court commercial tech firms and investors (spacenews)
 - **May 22, 11:14 PM** - Space Force names Sandhoo as head of new missile warning/tracking PAE (breaking_defense)
 - **May 22, 11:49 PM** - SpaceX Scrubs Launch Attempt of Updated Starship Rocket (nyt)
+- **May 23, 12:24 AM** - Rocket Lab wins first GEO satellite production contract from U.S. Space Force (spacenews)
