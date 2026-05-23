@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 10 | 14 | 30 |
 | nyt | 0 | 1 | 13 | 25 |
-| breaking_defense | 0 | 2 | 12 | 25 |
+| breaking_defense | 0 | 2 | 13 | 26 |
 
 # Shown Order
 
@@ -2217,3 +2217,4 @@
 - **May 23, 07:54 PM** - How drones can navigate without GPS  (breaking_defense)
 - **May 23, 08:33 PM** - Portal Space taps Quindar for ground mission support of its maneuvering spacecraft (spacenews)
 - **May 23, 09:09 PM** - SpaceX to Attempt Its 12th Test Flight of Starship (nyt)
+- **May 23, 09:44 PM** - DARPA’s robotic servicing spacecraft to finally fly this summer (breaking_defense)
