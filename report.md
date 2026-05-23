@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 16 | 29 |
-| nyt | 0 | 2 | 12 | 21 |
+| nyt | 0 | 2 | 13 | 22 |
 | breaking_defense | 0 | 2 | 12 | 22 |
 
 # Shown Order
@@ -2198,3 +2198,4 @@
 - **May 23, 08:09 AM** - SpaceX to Attempt Its 12th Test Flight of Starship (nyt)
 - **May 23, 08:44 AM** - Boots on the moon needed to beat ‘belligerent’ China: Mitchell Institute (breaking_defense)
 - **May 23, 09:19 AM** - House bill restores funding for TraCSS (spacenews)
+- **May 23, 09:58 AM** - Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO (nyt)
