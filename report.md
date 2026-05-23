@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 12 | 15 | 31 |
-| nyt | 0 | 1 | 12 | 23 |
+| spacenews | 2 | 12 | 14 | 31 |
+| nyt | 0 | 1 | 13 | 24 |
 | breaking_defense | 0 | 2 | 13 | 24 |
 
 # Shown Order
@@ -2210,3 +2210,4 @@
 - **May 23, 03:29 PM** - Elon Musk’s SpaceX Pulls Back the Curtain on Its Finances (nyt)
 - **May 23, 04:04 PM** - DARPA’s robotic servicing mission to finally fly this summer (breaking_defense)
 - **May 23, 04:39 PM** - Sixth Varda mission successfully returns (spacenews)
+- **May 23, 05:24 PM** - Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO (nyt)
