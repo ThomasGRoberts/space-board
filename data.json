@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-23T00:04:22.209239+00:00",
-    "trigger_count": 6,
-    "current_item_id": "eb7db6d859494aa64ac5caf18866b1e9",
+    "trigger_count": 0,
+    "current_item_id": "8464a8efb0dbc745d028b2d0e8a092ba",
     "data": [
         {
             "id": "8450e37284daed601d60dc474c9e2600",
@@ -7682,6 +7682,27 @@
                 "2026-03-25T00:49:02.825542Z",
                 "2026-03-28T18:34:31.461766Z"
             ]
+        },
+        {
+            "id": "8464a8efb0dbc745d028b2d0e8a092ba",
+            "source": "spacenews",
+            "text": "Blue Origin completes investigation into New Glenn launch failure",
+            "source_link": "https://spacenews.com/blue-origin-completes-investigation-into-new-glenn-launch-failure/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-23T03:29:16.430127Z",
+            "shown_at": [
+                "2026-05-23T03:29:17.258937Z"
+            ]
+        },
+        {
+            "id": "fadd4dc4f44341bb1b4cbca35e6140e1",
+            "source": "spacenews",
+            "text": "SpaceX launches first Starship V3",
+            "source_link": "https://spacenews.com/spacex-launches-first-starship-v3/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-05-23T03:29:16.430182Z"
         }
     ]
 }
