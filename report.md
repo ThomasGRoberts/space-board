@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 10 | 14 | 30 |
+| spacenews | 2 | 10 | 15 | 31 |
 | nyt | 0 | 1 | 12 | 24 |
 | breaking_defense | 0 | 2 | 13 | 25 |
 
@@ -2212,3 +2212,4 @@
 - **May 23, 04:39 PM** - Sixth Varda mission successfully returns (spacenews)
 - **May 23, 05:24 PM** - Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO (nyt)
 - **May 23, 06:04 PM** - Space Force names Sandhoo as head of new missile warning/tracking PAE (breaking_defense)
+- **May 23, 06:44 PM** - Portal Space taps Quindar for ground mission support of its maneuvering spacecraft (spacenews)
