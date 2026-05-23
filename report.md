@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 11 | 16 | 28 |
-| nyt | 0 | 2 | 12 | 22 |
+| nyt | 0 | 2 | 13 | 23 |
 | breaking_defense | 0 | 2 | 12 | 22 |
 
 # Shown Order
@@ -2184,3 +2184,4 @@
 - **May 22, 11:49 PM** - SpaceX Scrubs Launch Attempt of Updated Starship Rocket (nyt)
 - **May 23, 12:24 AM** - Rocket Lab wins first GEO satellite production contract from U.S. Space Force (spacenews)
 - **May 23, 01:09 AM** - DARPA’s robotic servicing mission to finally fly this summer (breaking_defense)
+- **May 23, 01:44 AM** - SpaceX Scrubs Launch Attempt of Updated Starship Rocket (nyt)
