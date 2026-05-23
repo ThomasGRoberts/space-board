@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 13 | 16 | 29 |
 | nyt | 0 | 2 | 12 | 22 |
-| breaking_defense | 0 | 2 | 12 | 21 |
+| breaking_defense | 0 | 2 | 13 | 22 |
 
 # Shown Order
 
@@ -2193,3 +2193,4 @@
 - **May 23, 05:14 AM** - Space Force names Sandhoo as head of new missile warning/tracking PAE (breaking_defense)
 - **May 23, 05:49 AM** - NASA releases final RFP for Mars communications orbiter (spacenews)
 - **May 23, 06:24 AM** - Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO (nyt)
+- **May 23, 06:59 AM** - How drones can navigate without GPS  (breaking_defense)
