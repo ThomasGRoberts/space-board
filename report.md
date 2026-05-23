@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 10 | 14 | 30 |
 | nyt | 0 | 1 | 13 | 25 |
-| breaking_defense | 0 | 2 | 12 | 25 |
+| breaking_defense | 0 | 2 | 13 | 26 |
 
 # Shown Order
 
@@ -2214,3 +2214,4 @@
 - **May 23, 06:04 PM** - Space Force names Sandhoo as head of new missile warning/tracking PAE (breaking_defense)
 - **May 23, 06:44 PM** - Portal Space taps Quindar for ground mission support of its maneuvering spacecraft (spacenews)
 - **May 23, 07:19 PM** - Elon Musk’s SpaceX Pulls Back the Curtain on Its Finances (nyt)
+- **May 23, 07:54 PM** - How drones can navigate without GPS  (breaking_defense)
