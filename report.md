@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 16 | 29 |
-| nyt | 0 | 2 | 12 | 21 |
+| nyt | 0 | 2 | 13 | 22 |
 | breaking_defense | 0 | 2 | 12 | 22 |
 
 # Shown Order
@@ -2195,3 +2195,4 @@
 - **May 23, 06:24 AM** - Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO (nyt)
 - **May 23, 06:59 AM** - How drones can navigate without GPS  (breaking_defense)
 - **May 23, 07:34 AM** - NASA releases final RFP for Mars communications orbiter (spacenews)
+- **May 23, 08:09 AM** - SpaceX to Attempt Its 12th Test Flight of Starship (nyt)
