@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 7 | 13 | 29 |
+| spacenews | 1 | 7 | 14 | 30 |
 | nyt | 0 | 0 | 13 | 26 |
 | breaking_defense | 0 | 0 | 13 | 25 |
 
@@ -2234,3 +2234,4 @@
 - **May 24, 08:24 AM** - NASA to add missions to SpaceX commercial crew contract (spacenews)
 - **May 24, 08:59 AM** - DARPA’s robotic servicing spacecraft to finally fly this summer (breaking_defense)
 - **May 24, 09:34 AM** - SpaceX to Attempt Its 12th Test Flight of Starship (nyt)
+- **May 24, 10:09 AM** - Inside Golden Dome’s push to court commercial tech firms and investors (spacenews)
