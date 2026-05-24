@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 7 | 13 | 29 |
+| spacenews | 0 | 7 | 14 | 30 |
 | nyt | 0 | 0 | 13 | 25 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
@@ -2226,3 +2226,4 @@
 - **May 24, 03:44 AM** - Vast announces line of high-power satellite buses (spacenews)
 - **May 24, 04:19 AM** - Elon Musk’s SpaceX Pulls Back the Curtain on Its Finances (nyt)
 - **May 24, 04:53 AM** - DARPA’s robotic servicing spacecraft to finally fly this summer (breaking_defense)
+- **May 24, 05:29 AM** - Tomorrow.io adds $35 million to DeepSky funding round (spacenews)
