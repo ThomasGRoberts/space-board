@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 13 | 27 |
+| spacenews | 1 | 3 | 14 | 28 |
 | nyt | 0 | 0 | 14 | 26 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
@@ -2252,3 +2252,4 @@
 - **May 24, 06:59 PM** - Blue Origin completes investigation into New Glenn launch failure (spacenews)
 - **May 24, 07:34 PM** - Boots on the moon needed to beat ‘belligerent’ China: Mitchell Institute (breaking_defense)
 - **May 24, 08:09 PM** - SpaceX Scrubs Launch Attempt of Updated Starship Rocket (nyt)
+- **May 24, 08:54 PM** - Anderson confirmed as NASA deputy administrator (spacenews)
