@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 8 | 14 | 30 |
+| spacenews | 2 | 8 | 15 | 31 |
 | nyt | 0 | 0 | 12 | 25 |
 | breaking_defense | 0 | 0 | 13 | 25 |
 
@@ -2220,3 +2220,4 @@
 - **May 24, 12:09 AM** - U.S. ‘more prepared’ for next WRC (spacenews)
 - **May 24, 12:44 AM** - SpaceX to Attempt Its 12th Test Flight of Starship (nyt)
 - **May 24, 01:19 AM** - Boots on the moon needed to beat ‘belligerent’ China: Mitchell Institute (breaking_defense)
+- **May 24, 01:54 AM** - Inside Golden Dome’s push to court commercial tech firms and investors (spacenews)
