@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 4 | 13 | 28 |
+| spacenews | 1 | 4 | 14 | 29 |
 | nyt | 0 | 0 | 14 | 26 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
@@ -2246,3 +2246,4 @@
 - **May 24, 03:24 PM** - NASA unveils sweeping reorganization (spacenews)
 - **May 24, 03:58 PM** - How drones can navigate without GPS  (breaking_defense)
 - **May 24, 04:34 PM** - Elon Musk’s SpaceX Pulls Back the Curtain on Its Finances (nyt)
+- **May 24, 05:14 PM** - Starship underpins SpaceX’s growth ambitions (spacenews)
