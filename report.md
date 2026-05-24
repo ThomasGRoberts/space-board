@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 14 | 28 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2248,3 +2248,4 @@
 - **May 24, 04:34 PM** - Elon Musk’s SpaceX Pulls Back the Curtain on Its Finances (nyt)
 - **May 24, 05:14 PM** - Starship underpins SpaceX’s growth ambitions (spacenews)
 - **May 24, 05:49 PM** - Boots on the moon needed to beat ‘belligerent’ China: Mitchell Institute (breaking_defense)
+- **May 24, 06:24 PM** - Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO (nyt)
