@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 14 | 30 |
 | nyt | 0 | 0 | 13 | 25 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2238,3 +2238,4 @@
 - **May 24, 10:44 AM** - DAF study finds new space launch site ‘probably’ required (breaking_defense)
 - **May 24, 11:19 AM** - SpaceX Scrubs Launch Attempt of Updated Starship Rocket (nyt)
 - **May 24, 11:54 AM** - Rocket Lab launches ninth Synspective satellite (spacenews)
+- **May 24, 12:29 PM** - DAF study finds new space launch site ‘probably’ required (breaking_defense)
