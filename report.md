@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 14 | 28 |
-| nyt | 0 | 0 | 13 | 26 |
+| spacenews | 2 | 4 | 15 | 29 |
+| nyt | 0 | 0 | 13 | 25 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2257,3 +2257,4 @@
 - **May 24, 10:04 PM** - Shenzhou-23 crew arrives at Tiangong as China maps path to 2030 lunar landing (spacenews)
 - **May 24, 10:39 PM** - SpaceX to Attempt Its 12th Test Flight of Starship (nyt)
 - **May 24, 11:14 PM** - DAF study finds new space launch site ‘probably’ required (breaking_defense)
+- **May 24, 11:49 PM** - Startup challenging satellite industry’s multi-orbit playbook (spacenews)
