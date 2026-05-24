@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 14 | 28 |
 | nyt | 0 | 0 | 13 | 26 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2256,3 +2256,4 @@
 - **May 24, 09:29 PM** - How drones can navigate without GPS  (breaking_defense)
 - **May 24, 10:04 PM** - Shenzhou-23 crew arrives at Tiangong as China maps path to 2030 lunar landing (spacenews)
 - **May 24, 10:39 PM** - SpaceX to Attempt Its 12th Test Flight of Starship (nyt)
+- **May 24, 11:14 PM** - DAF study finds new space launch site ‘probably’ required (breaking_defense)
