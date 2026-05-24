@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 7 | 13 | 29 |
 | nyt | 0 | 0 | 13 | 26 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -2225,3 +2225,4 @@
 - **May 24, 03:04 AM** - DAF study finds new space launch site ‘probably’ required (breaking_defense)
 - **May 24, 03:44 AM** - Vast announces line of high-power satellite buses (spacenews)
 - **May 24, 04:19 AM** - Elon Musk’s SpaceX Pulls Back the Curtain on Its Finances (nyt)
+- **May 24, 04:53 AM** - DARPA’s robotic servicing spacecraft to finally fly this summer (breaking_defense)
