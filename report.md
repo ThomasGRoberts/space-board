@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 7 | 13 | 29 |
+| spacenews | 0 | 7 | 14 | 30 |
 | nyt | 0 | 0 | 13 | 25 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
@@ -2229,3 +2229,4 @@
 - **May 24, 05:29 AM** - Tomorrow.io adds $35 million to DeepSky funding round (spacenews)
 - **May 24, 06:04 AM** - Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO (nyt)
 - **May 24, 06:39 AM** - DAF study finds new space launch site ‘probably’ required (breaking_defense)
+- **May 24, 07:14 AM** - SpaceX launches first Starship V3 (spacenews)
