@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 4 | 13 | 28 |
+| spacenews | 1 | 4 | 14 | 29 |
 | nyt | 0 | 0 | 14 | 26 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
@@ -2240,3 +2240,4 @@
 - **May 24, 11:54 AM** - Rocket Lab launches ninth Synspective satellite (spacenews)
 - **May 24, 12:29 PM** - DAF study finds new space launch site ‘probably’ required (breaking_defense)
 - **May 24, 01:04 PM** - SpaceX Scrubs Launch Attempt of Updated Starship Rocket (nyt)
+- **May 24, 01:39 PM** - Startup challenging satellite industry’s multi-orbit playbook (spacenews)
