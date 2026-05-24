@@ -8,9 +8,6 @@
 
 # Shown Order
 
-- **Mar 25, 12:14 AM** - From missions to systems: The architecture enabling a sustained lunar economy (spacenews)
-- **Mar 25, 12:49 AM** - OrbitsIQ Global Announces Breakthrough in Space-Based IoT Connectivity (spacenews)
-- **Mar 25, 09:04 AM** - From missions to systems: The architecture enabling a sustained lunar economy (spacenews)
 - **Mar 25, 11:59 AM** - Pave Space raises $40 million to develop European heavy kickstage (spacenews)
 - **Mar 25, 12:34 PM** - NASA proposes new strategy for commercial space stations (spacenews)
 - **Mar 25, 01:09 PM** - Musk wants to go to the moon. But how will he build his ‘self-growing city’? (spacenews)
@@ -60,7 +57,6 @@
 - **Mar 28, 01:19 PM** - Did Scientists Just Detect an Exploding Black Hole? (nyt)
 - **Mar 28, 04:14 PM** - Terran Orbital Introduces New Star Tracker Product Line at SATSHOW 2026 (spacenews)
 - **Mar 28, 05:24 PM** - NASA to test nuclear electric propulsion with 2028 mission to Mars (spacenews)
-- **Mar 28, 06:34 PM** - OrbitsIQ Global Announces Breakthrough in Space-Based IoT Connectivity (spacenews)
 - **Mar 28, 07:09 PM** - Did Scientists Just Detect an Exploding Black Hole? (nyt)
 - **Mar 28, 07:44 PM** - Musk wants to go to the moon. But how will he build his ‘self-growing city’? (spacenews)
 - **Mar 28, 08:54 PM** - Starfish Space finds a new partner for docking demonstration mission (spacenews)
