@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 13 | 28 |
+| spacenews | 1 | 3 | 14 | 29 |
 | nyt | 0 | 0 | 14 | 26 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
@@ -2249,3 +2249,4 @@
 - **May 24, 05:14 PM** - Starship underpins SpaceX’s growth ambitions (spacenews)
 - **May 24, 05:49 PM** - Boots on the moon needed to beat ‘belligerent’ China: Mitchell Institute (breaking_defense)
 - **May 24, 06:24 PM** - Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO (nyt)
+- **May 24, 06:59 PM** - Blue Origin completes investigation into New Glenn launch failure (spacenews)
