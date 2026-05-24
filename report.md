@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 14 | 28 |
 | nyt | 0 | 0 | 13 | 26 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -2253,3 +2253,4 @@
 - **May 24, 07:34 PM** - Boots on the moon needed to beat ‘belligerent’ China: Mitchell Institute (breaking_defense)
 - **May 24, 08:09 PM** - SpaceX Scrubs Launch Attempt of Updated Starship Rocket (nyt)
 - **May 24, 08:54 PM** - Anderson confirmed as NASA deputy administrator (spacenews)
+- **May 24, 09:29 PM** - How drones can navigate without GPS  (breaking_defense)
