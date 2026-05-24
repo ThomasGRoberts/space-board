@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 14 | 28 |
 | nyt | 0 | 0 | 13 | 26 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2250,3 +2250,4 @@
 - **May 24, 05:49 PM** - Boots on the moon needed to beat ‘belligerent’ China: Mitchell Institute (breaking_defense)
 - **May 24, 06:24 PM** - Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO (nyt)
 - **May 24, 06:59 PM** - Blue Origin completes investigation into New Glenn launch failure (spacenews)
+- **May 24, 07:34 PM** - Boots on the moon needed to beat ‘belligerent’ China: Mitchell Institute (breaking_defense)
