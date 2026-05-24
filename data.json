@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-24T00:04:44.717116+00:00",
-    "trigger_count": 6,
-    "current_item_id": "dcc0563538ca3a458ccd49c30f75c5c5",
+    "trigger_count": 0,
+    "current_item_id": "169332b0b20390099450794bb287fdaa",
     "data": [
         {
             "id": "fadd4dc4f44341bb1b4cbca35e6140e1",
@@ -7725,6 +7725,18 @@
             "shown_at": [
                 "2026-03-25T11:59:19.154135Z",
                 "2026-03-28T10:24:17.440548Z"
+            ]
+        },
+        {
+            "id": "169332b0b20390099450794bb287fdaa",
+            "source": "spacenews",
+            "text": "NASA to add missions to SpaceX commercial crew contract",
+            "source_link": "https://spacenews.com/nasa-to-add-missions-to-spacex-commercial-crew-contract/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-24T08:24:23.611143Z",
+            "shown_at": [
+                "2026-05-24T08:24:24.430829Z"
             ]
         }
     ]

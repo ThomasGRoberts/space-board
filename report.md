@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 7 | 13 | 29 |
+| spacenews | 1 | 8 | 14 | 30 |
 | nyt | 0 | 0 | 13 | 26 |
 | breaking_defense | 0 | 0 | 13 | 25 |
 
@@ -2231,3 +2231,4 @@
 - **May 24, 06:39 AM** - DAF study finds new space launch site ‘probably’ required (breaking_defense)
 - **May 24, 07:14 AM** - SpaceX launches first Starship V3 (spacenews)
 - **May 24, 07:49 AM** - Elon Musk’s SpaceX Pulls Back the Curtain on Its Finances (nyt)
+- **May 24, 08:24 AM** - NASA to add missions to SpaceX commercial crew contract (spacenews)
