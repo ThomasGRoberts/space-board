@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 7 | 14 | 29 |
 | nyt | 0 | 0 | 13 | 26 |
-| breaking_defense | 0 | 0 | 12 | 25 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2222,3 +2222,4 @@
 - **May 24, 01:19 AM** - Boots on the moon needed to beat ‘belligerent’ China: Mitchell Institute (breaking_defense)
 - **May 24, 01:54 AM** - Inside Golden Dome’s push to court commercial tech firms and investors (spacenews)
 - **May 24, 02:29 AM** - Elon Musk’s SpaceX Pulls Back the Curtain on Its Finances (nyt)
+- **May 24, 03:04 AM** - DAF study finds new space launch site ‘probably’ required (breaking_defense)
