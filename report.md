@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 7 | 13 | 29 |
 | nyt | 0 | 0 | 13 | 26 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -2228,3 +2228,4 @@
 - **May 24, 04:53 AM** - DARPA’s robotic servicing spacecraft to finally fly this summer (breaking_defense)
 - **May 24, 05:29 AM** - Tomorrow.io adds $35 million to DeepSky funding round (spacenews)
 - **May 24, 06:04 AM** - Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO (nyt)
+- **May 24, 06:39 AM** - DAF study finds new space launch site ‘probably’ required (breaking_defense)
