@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 14 | 30 |
-| nyt | 0 | 1 | 12 | 25 |
+| nyt | 0 | 1 | 13 | 26 |
 | breaking_defense | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -2218,3 +2218,4 @@
 - **May 23, 10:54 PM** - SpaceX to Attempt Its 12th Test Flight of Starship (nyt)
 - **May 23, 11:29 PM** - How drones can navigate without GPS  (breaking_defense)
 - **May 24, 12:09 AM** - U.S. ‘more prepared’ for next WRC (spacenews)
+- **May 24, 12:44 AM** - SpaceX to Attempt Its 12th Test Flight of Starship (nyt)
