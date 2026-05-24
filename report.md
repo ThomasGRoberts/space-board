@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 7 | 13 | 29 |
-| nyt | 0 | 0 | 14 | 26 |
+| spacenews | 1 | 7 | 14 | 30 |
+| nyt | 0 | 0 | 13 | 26 |
 | breaking_defense | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -2237,3 +2237,4 @@
 - **May 24, 10:09 AM** - Inside Golden Dome’s push to court commercial tech firms and investors (spacenews)
 - **May 24, 10:44 AM** - DAF study finds new space launch site ‘probably’ required (breaking_defense)
 - **May 24, 11:19 AM** - SpaceX Scrubs Launch Attempt of Updated Starship Rocket (nyt)
+- **May 24, 11:54 AM** - Rocket Lab launches ninth Synspective satellite (spacenews)
