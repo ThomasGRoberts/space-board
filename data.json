@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-24T00:04:44.717116+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6c811402e9bd30ba1bd0fa7f94981dbd",
+    "trigger_count": 0,
+    "current_item_id": "f120237b0949e90d93ccb20c11c8314d",
     "data": [
         {
             "id": "fadd4dc4f44341bb1b4cbca35e6140e1",
@@ -7759,6 +7759,18 @@
             "fetched_datetime": "2026-05-24T08:24:23.611143Z",
             "shown_at": [
                 "2026-05-24T08:24:24.430829Z"
+            ]
+        },
+        {
+            "id": "f120237b0949e90d93ccb20c11c8314d",
+            "source": "spacenews",
+            "text": "Shenzhou-23 crew arrives at Tiangong as China maps path to 2030 lunar landing",
+            "source_link": "https://spacenews.com/shenzhou-23-crew-arrives-at-tiangong-as-china-maps-path-to-2030-lunar-landing/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-24T22:04:34.722982Z",
+            "shown_at": [
+                "2026-05-24T22:04:35.790401Z"
             ]
         }
     ]
