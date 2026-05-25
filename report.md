@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 15 | 28 |
-| nyt | 1 | 1 | 12 | 26 |
+| nyt | 1 | 1 | 13 | 27 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2288,3 +2288,4 @@
 - **May 25, 06:59 PM** - In ‘For All Mankind,’ America Wins by Losing (nyt)
 - **May 25, 07:34 PM** - How drones can navigate without GPS  (breaking_defense)
 - **May 25, 08:09 PM** - Ground equipment problem scrubs Starship launch attempt (spacenews)
+- **May 25, 08:44 PM** - SpaceX Scrubs Launch Attempt of Updated Starship Rocket (nyt)
