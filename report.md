@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 14 | 28 |
+| spacenews | 2 | 4 | 15 | 29 |
 | nyt | 0 | 0 | 13 | 26 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
@@ -2259,3 +2259,4 @@
 - **May 25, 01:34 AM** - New CSF Report Sees Up To 7,000+ Satellites Launched Annually By Mid 2030’s, Highlights The Challenges With US Launch Infrastructure (spacenews)
 - **May 25, 02:09 AM** - SpaceX Scrubs Launch Attempt of Updated Starship Rocket (nyt)
 - **May 25, 02:44 AM** - Boots on the moon needed to beat ‘belligerent’ China: Mitchell Institute (breaking_defense)
+- **May 25, 03:19 AM** - Rocket Lab launches ninth Synspective satellite (spacenews)
