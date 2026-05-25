@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 15 | 28 |
-| nyt | 1 | 1 | 12 | 26 |
+| nyt | 1 | 1 | 13 | 26 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2273,3 +2273,4 @@
 - **May 25, 09:59 AM** - Space Force names Sandhoo as head of new missile warning/tracking PAE (breaking_defense)
 - **May 25, 10:34 AM** - Inside Golden Dome’s push to court commercial tech firms and investors (spacenews)
 - **May 25, 11:09 AM** - Northern Norway is ready to launch. EU Space Regulation — and its new Arctic policy – is not. (spacenews)
+- **May 25, 11:49 AM** - Elon Musk’s SpaceX Pulls Back the Curtain on Its Finances (nyt)
