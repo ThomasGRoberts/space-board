@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 15 | 28 |
-| nyt | 1 | 1 | 12 | 26 |
+| spacenews | 2 | 3 | 14 | 28 |
+| nyt | 1 | 1 | 13 | 27 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2276,3 +2276,4 @@
 - **May 25, 11:49 AM** - Elon Musk’s SpaceX Pulls Back the Curtain on Its Finances (nyt)
 - **May 25, 12:29 PM** - Boots on the moon needed to beat ‘belligerent’ China: Mitchell Institute (breaking_defense)
 - **May 25, 01:04 PM** - Space Force on path to double active-duty force by 2030 (spacenews)
+- **May 25, 01:39 PM** - SpaceX Scrubs Launch Attempt of Updated Starship Rocket (nyt)
