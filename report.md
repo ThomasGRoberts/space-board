@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 14 | 28 |
-| nyt | 0 | 0 | 13 | 26 |
+| spacenews | 1 | 2 | 14 | 27 |
+| nyt | 1 | 1 | 14 | 27 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2269,3 +2269,4 @@
 - **May 25, 07:29 AM** - Elon Musk’s SpaceX Pulls Back the Curtain on Its Finances (nyt)
 - **May 25, 08:04 AM** - Boots on the moon needed to beat ‘belligerent’ China: Mitchell Institute (breaking_defense)
 - **May 25, 08:39 AM** - House bill restores funding for TraCSS (spacenews)
+- **May 25, 09:24 AM** - In ‘For All Mankind,’ America Wins by Losing (nyt)
