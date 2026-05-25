@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 2 | 14 | 27 |
 | nyt | 0 | 0 | 13 | 27 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2261,3 +2261,4 @@
 - **May 25, 02:44 AM** - Boots on the moon needed to beat ‘belligerent’ China: Mitchell Institute (breaking_defense)
 - **May 25, 03:19 AM** - Rocket Lab launches ninth Synspective satellite (spacenews)
 - **May 25, 03:54 AM** - Elon Musk’s SpaceX Pulls Back the Curtain on Its Finances (nyt)
+- **May 25, 04:29 AM** - DARPA’s robotic servicing mission to finally fly this summer (breaking_defense)
