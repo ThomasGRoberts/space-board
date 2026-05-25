@@ -8,8 +8,6 @@
 
 # Shown Order
 
-- **Mar 25, 11:59 AM** - Pave Space raises $40 million to develop European heavy kickstage (spacenews)
-- **Mar 25, 12:34 PM** - NASA proposes new strategy for commercial space stations (spacenews)
 - **Mar 25, 01:09 PM** - Musk wants to go to the moon. But how will he build his ‘self-growing city’? (spacenews)
 - **Mar 25, 02:19 PM** - Infinity Avionics Unveils Aquila: The Next-Generation Space Imaging Solution for Complex Orbital Operations (spacenews)
 - **Mar 25, 02:54 PM** - Airbase raises $5 million to tackle spectrum bottleneck as FCC eyes new space uses (spacenews)
@@ -51,8 +49,6 @@
 - **Mar 28, 02:49 AM** - Did Scientists Just Detect an Exploding Black Hole? (nyt)
 - **Mar 28, 03:24 AM** - NASA to test nuclear electric propulsion with 2028 mission to Mars (spacenews)
 - **Mar 28, 06:54 AM** - The ‘ground truth’ gap in AgTech: Why satellites alone can’t save supply chains (spacenews)
-- **Mar 28, 08:04 AM** - NASA proposes new strategy for commercial space stations (spacenews)
-- **Mar 28, 10:24 AM** - Pave Space raises $40 million to develop European heavy kickstage (spacenews)
 - **Mar 28, 12:44 PM** - India’s Bellatrix raises $20 million following overseas expansion drive (spacenews)
 - **Mar 28, 01:19 PM** - Did Scientists Just Detect an Exploding Black Hole? (nyt)
 - **Mar 28, 04:14 PM** - Terran Orbital Introduces New Star Tracker Product Line at SATSHOW 2026 (spacenews)

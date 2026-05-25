@@ -1,9 +1,33 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-05-24T00:04:44.717116+00:00",
-    "trigger_count": 2,
+    "last_run_datetime": "2026-05-25T00:04:38.049047+00:00",
+    "trigger_count": 3,
     "current_item_id": "f06efb3b194cee32f3b7ebbb0d65bc66",
     "data": [
+        {
+            "id": "f120237b0949e90d93ccb20c11c8314d",
+            "source": "spacenews",
+            "text": "Shenzhou-23 crew arrives at Tiangong as China maps path to 2030 lunar landing",
+            "source_link": "https://spacenews.com/shenzhou-23-crew-arrives-at-tiangong-as-china-maps-path-to-2030-lunar-landing/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-24T22:04:34.722982Z",
+            "shown_at": [
+                "2026-05-24T22:04:35.790401Z"
+            ]
+        },
+        {
+            "id": "169332b0b20390099450794bb287fdaa",
+            "source": "spacenews",
+            "text": "NASA to add missions to SpaceX commercial crew contract",
+            "source_link": "https://spacenews.com/nasa-to-add-missions-to-spacex-commercial-crew-contract/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-24T08:24:23.611143Z",
+            "shown_at": [
+                "2026-05-24T08:24:24.430829Z"
+            ]
+        },
         {
             "id": "fadd4dc4f44341bb1b4cbca35e6140e1",
             "source": "spacenews",
@@ -7724,56 +7748,6 @@
                 "2026-03-25T13:09:33.265298Z",
                 "2026-03-27T22:04:43.745819Z",
                 "2026-03-28T19:44:23.240453Z"
-            ]
-        },
-        {
-            "id": "c1e2f9aa8a1ab615ffb74347cf5424ee",
-            "source": "spacenews",
-            "text": "NASA proposes new strategy for commercial space stations",
-            "source_link": "https://spacenews.com/nasa-proposes-new-strategy-for-commercial-space-stations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-25T11:59:17.334105Z",
-            "shown_at": [
-                "2026-03-25T12:34:29.018301Z",
-                "2026-03-28T08:04:32.442223Z"
-            ]
-        },
-        {
-            "id": "0cdae174ad027c955af6e7b1fae206db",
-            "source": "spacenews",
-            "text": "Pave Space raises $40 million to develop European heavy kickstage",
-            "source_link": "https://spacenews.com/pave-space-raises-40-million-to-develop-european-heavy-kickstage/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-25T11:59:17.334046Z",
-            "shown_at": [
-                "2026-03-25T11:59:19.154135Z",
-                "2026-03-28T10:24:17.440548Z"
-            ]
-        },
-        {
-            "id": "169332b0b20390099450794bb287fdaa",
-            "source": "spacenews",
-            "text": "NASA to add missions to SpaceX commercial crew contract",
-            "source_link": "https://spacenews.com/nasa-to-add-missions-to-spacex-commercial-crew-contract/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-24T08:24:23.611143Z",
-            "shown_at": [
-                "2026-05-24T08:24:24.430829Z"
-            ]
-        },
-        {
-            "id": "f120237b0949e90d93ccb20c11c8314d",
-            "source": "spacenews",
-            "text": "Shenzhou-23 crew arrives at Tiangong as China maps path to 2030 lunar landing",
-            "source_link": "https://spacenews.com/shenzhou-23-crew-arrives-at-tiangong-as-china-maps-path-to-2030-lunar-landing/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-24T22:04:34.722982Z",
-            "shown_at": [
-                "2026-05-24T22:04:35.790401Z"
             ]
         }
     ]
