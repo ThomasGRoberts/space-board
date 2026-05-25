@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 14 | 28 |
 | nyt | 1 | 1 | 13 | 26 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
@@ -2286,3 +2286,4 @@
 - **May 25, 05:49 PM** - DARPA’s robotic servicing mission to finally fly this summer (breaking_defense)
 - **May 25, 06:24 PM** - Isaacman expects Chinese crewed mission around the moon in 2027 (spacenews)
 - **May 25, 06:59 PM** - In ‘For All Mankind,’ America Wins by Losing (nyt)
+- **May 25, 07:34 PM** - How drones can navigate without GPS  (breaking_defense)
