@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 14 | 28 |
 | nyt | 1 | 1 | 13 | 26 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2289,3 +2289,4 @@
 - **May 25, 07:34 PM** - How drones can navigate without GPS  (breaking_defense)
 - **May 25, 08:09 PM** - Ground equipment problem scrubs Starship launch attempt (spacenews)
 - **May 25, 08:44 PM** - SpaceX Scrubs Launch Attempt of Updated Starship Rocket (nyt)
+- **May 25, 09:24 PM** - DARPA’s robotic servicing mission to finally fly this summer (breaking_defense)
