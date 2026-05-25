@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 2 | 14 | 27 |
+| spacenews | 2 | 2 | 15 | 28 |
 | nyt | 0 | 0 | 13 | 26 |
 | breaking_defense | 0 | 0 | 13 | 27 |
 
@@ -2265,3 +2265,4 @@
 - **May 25, 05:04 AM** - Starship underpins SpaceX’s growth ambitions (spacenews)
 - **May 25, 05:39 AM** - Elon Musk’s SpaceX Pulls Back the Curtain on Its Finances (nyt)
 - **May 25, 06:14 AM** - DARPA’s robotic servicing mission to finally fly this summer (breaking_defense)
+- **May 25, 06:49 AM** - U.S. ‘more prepared’ for next WRC (spacenews)
