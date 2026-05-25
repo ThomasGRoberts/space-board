@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 15 | 28 |
-| nyt | 1 | 1 | 12 | 26 |
+| nyt | 1 | 1 | 13 | 27 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2285,3 +2285,4 @@
 - **May 25, 05:14 PM** - SpaceX Scrubs Launch Attempt of Updated Starship Rocket (nyt)
 - **May 25, 05:49 PM** - DARPA’s robotic servicing mission to finally fly this summer (breaking_defense)
 - **May 25, 06:24 PM** - Isaacman expects Chinese crewed mission around the moon in 2027 (spacenews)
+- **May 25, 06:59 PM** - In ‘For All Mankind,’ America Wins by Losing (nyt)
