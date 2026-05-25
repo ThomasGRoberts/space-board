@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 14 | 28 |
+| spacenews | 1 | 3 | 15 | 29 |
 | nyt | 1 | 1 | 13 | 26 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
@@ -2293,3 +2293,4 @@
 - **May 25, 09:59 PM** - Blue Origin completes investigation into New Glenn launch failure (spacenews)
 - **May 25, 10:34 PM** - In ‘For All Mankind,’ America Wins by Losing (nyt)
 - **May 25, 11:09 PM** - DAF study finds new space launch site ‘probably’ required (breaking_defense)
+- **May 25, 11:44 PM** - LatConnect 60 announces accelerated growth investment round to build AUKUS-aligned Highest Resolution SWIR Satellite constellation (spacenews)
