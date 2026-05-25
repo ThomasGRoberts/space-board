@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 2 | 14 | 28 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2260,3 +2260,4 @@
 - **May 25, 02:09 AM** - SpaceX Scrubs Launch Attempt of Updated Starship Rocket (nyt)
 - **May 25, 02:44 AM** - Boots on the moon needed to beat ‘belligerent’ China: Mitchell Institute (breaking_defense)
 - **May 25, 03:19 AM** - Rocket Lab launches ninth Synspective satellite (spacenews)
+- **May 25, 03:54 AM** - Elon Musk’s SpaceX Pulls Back the Curtain on Its Finances (nyt)
