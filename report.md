@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 14 | 28 |
 | nyt | 1 | 1 | 13 | 26 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
@@ -2283,3 +2283,4 @@
 - **May 25, 04:04 PM** - Space Force names Sandhoo as head of new missile warning/tracking PAE (breaking_defense)
 - **May 25, 04:38 PM** - Shenzhou-23 crew arrives at Tiangong as China maps path to 2030 lunar landing (spacenews)
 - **May 25, 05:14 PM** - SpaceX Scrubs Launch Attempt of Updated Starship Rocket (nyt)
+- **May 25, 05:49 PM** - DARPA’s robotic servicing mission to finally fly this summer (breaking_defense)
