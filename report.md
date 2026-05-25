@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 15 | 28 |
-| nyt | 1 | 1 | 12 | 26 |
+| spacenews | 2 | 3 | 14 | 28 |
+| nyt | 1 | 1 | 13 | 27 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2282,3 +2282,4 @@
 - **May 25, 03:29 PM** - Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO (nyt)
 - **May 25, 04:04 PM** - Space Force names Sandhoo as head of new missile warning/tracking PAE (breaking_defense)
 - **May 25, 04:38 PM** - Shenzhou-23 crew arrives at Tiangong as China maps path to 2030 lunar landing (spacenews)
+- **May 25, 05:14 PM** - SpaceX Scrubs Launch Attempt of Updated Starship Rocket (nyt)
