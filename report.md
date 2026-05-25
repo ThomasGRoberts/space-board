@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 14 | 28 |
+| spacenews | 2 | 3 | 15 | 29 |
 | nyt | 1 | 1 | 13 | 26 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
@@ -2290,3 +2290,4 @@
 - **May 25, 08:09 PM** - Ground equipment problem scrubs Starship launch attempt (spacenews)
 - **May 25, 08:44 PM** - SpaceX Scrubs Launch Attempt of Updated Starship Rocket (nyt)
 - **May 25, 09:24 PM** - DARPA’s robotic servicing mission to finally fly this summer (breaking_defense)
+- **May 25, 09:59 PM** - Blue Origin completes investigation into New Glenn launch failure (spacenews)
