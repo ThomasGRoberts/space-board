@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 14 | 28 |
 | nyt | 1 | 1 | 13 | 26 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2277,3 +2277,4 @@
 - **May 25, 12:29 PM** - Boots on the moon needed to beat ‘belligerent’ China: Mitchell Institute (breaking_defense)
 - **May 25, 01:04 PM** - Space Force on path to double active-duty force by 2030 (spacenews)
 - **May 25, 01:39 PM** - SpaceX Scrubs Launch Attempt of Updated Starship Rocket (nyt)
+- **May 25, 02:14 PM** - How drones can navigate without GPS  (breaking_defense)
