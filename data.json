@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-25T00:04:38.049047+00:00",
-    "trigger_count": 6,
-    "current_item_id": "44b346c1eab7e8728dc3e778d0cc8a16",
+    "trigger_count": 0,
+    "current_item_id": "7aaba1dd65290df440aae55c6aff4e14",
     "data": [
         {
             "id": "f120237b0949e90d93ccb20c11c8314d",
@@ -7777,6 +7777,18 @@
             "fetched_datetime": "2026-05-25T09:24:13.941050Z",
             "shown_at": [
                 "2026-05-25T09:24:14.690052Z"
+            ]
+        },
+        {
+            "id": "7aaba1dd65290df440aae55c6aff4e14",
+            "source": "spacenews",
+            "text": "Northern Norway is ready to launch. EU Space Regulation — and its new Arctic policy – is not.",
+            "source_link": "https://spacenews.com/northern-norway-is-ready-to-launch-eu-space-regulation-and-its-new-arctic-policy-is-not/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-25T11:09:14.799012Z",
+            "shown_at": [
+                "2026-05-25T11:09:16.348300Z"
             ]
         }
     ]
