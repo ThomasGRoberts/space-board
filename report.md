@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 13 | 27 |
+| spacenews | 1 | 2 | 14 | 28 |
 | nyt | 1 | 1 | 13 | 26 |
 | breaking_defense | 0 | 0 | 14 | 27 |
 
@@ -2271,3 +2271,4 @@
 - **May 25, 08:39 AM** - House bill restores funding for TraCSS (spacenews)
 - **May 25, 09:24 AM** - In ‘For All Mankind,’ America Wins by Losing (nyt)
 - **May 25, 09:59 AM** - Space Force names Sandhoo as head of new missile warning/tracking PAE (breaking_defense)
+- **May 25, 10:34 AM** - Inside Golden Dome’s push to court commercial tech firms and investors (spacenews)
