@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 14 | 28 |
 | nyt | 1 | 1 | 13 | 26 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2274,3 +2274,4 @@
 - **May 25, 10:34 AM** - Inside Golden Dome’s push to court commercial tech firms and investors (spacenews)
 - **May 25, 11:09 AM** - Northern Norway is ready to launch. EU Space Regulation — and its new Arctic policy – is not. (spacenews)
 - **May 25, 11:49 AM** - Elon Musk’s SpaceX Pulls Back the Curtain on Its Finances (nyt)
+- **May 25, 12:29 PM** - Boots on the moon needed to beat ‘belligerent’ China: Mitchell Institute (breaking_defense)
