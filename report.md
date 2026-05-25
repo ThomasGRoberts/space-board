@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 14 | 28 |
-| nyt | 1 | 1 | 13 | 26 |
+| nyt | 1 | 1 | 14 | 27 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2291,3 +2291,4 @@
 - **May 25, 08:44 PM** - SpaceX Scrubs Launch Attempt of Updated Starship Rocket (nyt)
 - **May 25, 09:24 PM** - DARPA’s robotic servicing mission to finally fly this summer (breaking_defense)
 - **May 25, 09:59 PM** - Blue Origin completes investigation into New Glenn launch failure (spacenews)
+- **May 25, 10:34 PM** - In ‘For All Mankind,’ America Wins by Losing (nyt)
