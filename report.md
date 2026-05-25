@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 14 | 29 |
-| nyt | 0 | 0 | 13 | 25 |
+| nyt | 0 | 0 | 14 | 26 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2257,3 +2257,4 @@
 - **May 25, 12:24 AM** - SpaceX to Attempt Its 12th Test Flight of Starship (nyt)
 - **May 25, 12:59 AM** - DARPA’s robotic servicing mission to finally fly this summer (breaking_defense)
 - **May 25, 01:34 AM** - New CSF Report Sees Up To 7,000+ Satellites Launched Annually By Mid 2030’s, Highlights The Challenges With US Launch Infrastructure (spacenews)
+- **May 25, 02:09 AM** - SpaceX Scrubs Launch Attempt of Updated Starship Rocket (nyt)
