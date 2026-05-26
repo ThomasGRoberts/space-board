@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 9 | 15 | 29 |
 | nyt | 4 | 5 | 12 | 25 |
-| breaking_defense | 1 | 1 | 10 | 23 |
+| breaking_defense | 2 | 2 | 11 | 24 |
 
 # Shown Order
 
@@ -2322,3 +2322,4 @@
 - **May 26, 07:29 PM** - How drones can navigate without GPS  (breaking_defense)
 - **May 26, 08:04 PM** - In ‘For All Mankind,’ America Wins by Losing (nyt)
 - **May 26, 08:38 PM** - Sixth Varda mission successfully returns (spacenews)
+- **May 26, 09:14 PM** - HASC $1.15T defense policy bill takes aim at industrial base challenges (breaking_defense)

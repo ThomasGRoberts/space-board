@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-26T00:04:29.310363+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0c0d9a69ea975dba2f38c4145650e5f0",
+    "trigger_count": 0,
+    "current_item_id": "b3dd980b89f99811a146bde756188e2c",
     "data": [
         {
             "id": "7aaba1dd65290df440aae55c6aff4e14",
@@ -7948,6 +7948,18 @@
             "fetched_datetime": "2026-05-26T18:19:26.856387Z",
             "shown_at": [
                 "2026-05-26T18:19:28.937495Z"
+            ]
+        },
+        {
+            "id": "b3dd980b89f99811a146bde756188e2c",
+            "source": "breaking_defense",
+            "text": "HASC $1.15T defense policy bill takes aim at industrial base challenges",
+            "source_link": "https://breakingdefense.com/2026/05/hasc-1-15t-defense-policy-bill-takes-aim-at-industrial-base-challenges/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-26T21:14:27.550577Z",
+            "shown_at": [
+                "2026-05-26T21:14:28.470657Z"
             ]
         }
     ]
