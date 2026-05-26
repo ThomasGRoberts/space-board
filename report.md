@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 14 | 28 |
-| nyt | 0 | 1 | 12 | 25 |
+| spacenews | 4 | 6 | 14 | 29 |
+| nyt | 0 | 1 | 12 | 24 |
 | breaking_defense | 0 | 0 | 11 | 24 |
 
 # Shown Order
@@ -2308,3 +2308,4 @@
 - **May 26, 09:04 AM** - How drones can navigate without GPS  (breaking_defense)
 - **May 26, 09:39 AM** - Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO (nyt)
 - **May 26, 10:14 AM** - Sixth Varda mission successfully returns (spacenews)
+- **May 26, 01:04 PM** - Regulations and access to capital continue to hinder Europe’s smallsat industry (spacenews)
