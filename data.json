@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-26T00:04:29.310363+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f0e9e1b9a59518218db1ede0be8ab080",
+    "trigger_count": 0,
+    "current_item_id": "17c862b03eec2acf0f0f9b3256f8cdae",
     "data": [
         {
             "id": "7aaba1dd65290df440aae55c6aff4e14",
@@ -7846,6 +7846,18 @@
             "shown": false,
             "type": "news",
             "fetched_datetime": "2026-05-26T13:04:44.854133Z"
+        },
+        {
+            "id": "17c862b03eec2acf0f0f9b3256f8cdae",
+            "source": "breaking_defense",
+            "text": "Despite ‘peak hype,’ orbital data centers for AI not yet ready for NatSec prime time",
+            "source_link": "https://breakingdefense.com/2026/05/despite-peak-hype-orbital-data-centers-for-ai-not-yet-ready-for-natsec-prime-time/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-26T13:39:13.150245Z",
+            "shown_at": [
+                "2026-05-26T13:39:14.527426Z"
+            ]
         }
     ]
 }
