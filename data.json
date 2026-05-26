@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-26T00:04:29.310363+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d42e083cfb9c394804a7a05cdd4e797c",
+    "trigger_count": 0,
+    "current_item_id": "6e0f596a095d0044c5a0f15f69e8c368",
     "data": [
         {
             "id": "7aaba1dd65290df440aae55c6aff4e14",
@@ -7794,6 +7794,18 @@
                 "2026-03-25T14:54:31.182923Z",
                 "2026-03-31T03:19:22.680407Z",
                 "2026-03-31T07:59:07.624453Z"
+            ]
+        },
+        {
+            "id": "6e0f596a095d0044c5a0f15f69e8c368",
+            "source": "spacenews",
+            "text": "Exolaunch and SEOPS purchase Falcon 9 launches for dedicated rideshare missions",
+            "source_link": "https://spacenews.com/exolaunch-and-seops-purchase-falcon-9-launches-for-dedicated-rideshare-missions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-26T06:09:06.331594Z",
+            "shown_at": [
+                "2026-05-26T06:09:07.079981Z"
             ]
         }
     ]

@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 14 | 28 |
+| spacenews | 2 | 4 | 15 | 29 |
 | nyt | 1 | 1 | 13 | 26 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
@@ -2300,3 +2300,4 @@
 - **May 26, 04:24 AM** - DARPA’s robotic servicing spacecraft to finally fly this summer (breaking_defense)
 - **May 26, 04:59 AM** - U.S. ‘more prepared’ for next WRC (spacenews)
 - **May 26, 05:34 AM** - In ‘For All Mankind,’ America Wins by Losing (nyt)
+- **May 26, 06:09 AM** - Exolaunch and SEOPS purchase Falcon 9 launches for dedicated rideshare missions (spacenews)
