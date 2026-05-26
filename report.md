@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 9 | 15 | 29 |
-| nyt | 4 | 5 | 12 | 25 |
+| nyt | 4 | 5 | 13 | 26 |
 | breaking_defense | 1 | 1 | 10 | 23 |
 
 # Shown Order
@@ -2320,3 +2320,4 @@
 - **May 26, 06:19 PM** - A New Era of Exploring the Universe in Radio (nyt)
 - **May 26, 06:54 PM** - The surge in military budgets can help Europe’s entrepreneurial space sector — if spending speeds up (spacenews)
 - **May 26, 07:29 PM** - How drones can navigate without GPS  (breaking_defense)
+- **May 26, 08:04 PM** - In ‘For All Mankind,’ America Wins by Losing (nyt)
