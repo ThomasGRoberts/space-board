@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-26T00:04:29.310363+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ee73df88159d53af40f354a412959326",
+    "trigger_count": 0,
+    "current_item_id": "cb800d756ab615f58aeac8979f0f0092",
     "data": [
         {
             "id": "7aaba1dd65290df440aae55c6aff4e14",
@@ -7809,6 +7809,18 @@
             "fetched_datetime": "2026-05-26T06:09:06.331594Z",
             "shown_at": [
                 "2026-05-26T06:09:07.079981Z"
+            ]
+        },
+        {
+            "id": "cb800d756ab615f58aeac8979f0f0092",
+            "source": "spacenews",
+            "text": "Orbit Fab, Thales Alenia to study refueling for electric-propulsion satellites",
+            "source_link": "https://spacenews.com/orbit-fab-thales-alenia-to-study-refueling-for-electric-propulsion-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-26T08:29:04.065190Z",
+            "shown_at": [
+                "2026-05-26T08:29:04.666848Z"
             ]
         }
     ]

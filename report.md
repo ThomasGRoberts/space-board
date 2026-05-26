@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 15 | 29 |
+| spacenews | 3 | 4 | 16 | 29 |
 | nyt | 1 | 1 | 13 | 26 |
 | breaking_defense | 0 | 0 | 12 | 26 |
 
@@ -2304,3 +2304,4 @@
 - **May 26, 06:44 AM** - How drones can navigate without GPS  (breaking_defense)
 - **May 26, 07:19 AM** - Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO (nyt)
 - **May 26, 07:54 AM** - The internet was ‘too expensive’ too (spacenews)
+- **May 26, 08:29 AM** - Orbit Fab, Thales Alenia to study refueling for electric-propulsion satellites (spacenews)
