@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 14 | 28 |
-| nyt | 1 | 1 | 13 | 27 |
+| spacenews | 2 | 4 | 15 | 29 |
+| nyt | 1 | 1 | 13 | 26 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2303,3 +2303,4 @@
 - **May 26, 06:09 AM** - Exolaunch and SEOPS purchase Falcon 9 launches for dedicated rideshare missions (spacenews)
 - **May 26, 06:44 AM** - How drones can navigate without GPS  (breaking_defense)
 - **May 26, 07:19 AM** - Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO (nyt)
+- **May 26, 07:54 AM** - The internet was ‘too expensive’ too (spacenews)
