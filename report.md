@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 4 | 15 | 29 |
 | nyt | 1 | 1 | 13 | 26 |
-| breaking_defense | 0 | 0 | 12 | 26 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2301,3 +2301,4 @@
 - **May 26, 04:59 AM** - U.S. ‘more prepared’ for next WRC (spacenews)
 - **May 26, 05:34 AM** - In ‘For All Mankind,’ America Wins by Losing (nyt)
 - **May 26, 06:09 AM** - Exolaunch and SEOPS purchase Falcon 9 launches for dedicated rideshare missions (spacenews)
+- **May 26, 06:44 AM** - How drones can navigate without GPS  (breaking_defense)
