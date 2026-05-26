@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-26T00:04:29.310363+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a47d67a591dd96bf8d2bbcca3e950d72",
+    "trigger_count": 0,
+    "current_item_id": "f52d8456ebf50d52ca857b00716338dd",
     "data": [
         {
             "id": "7aaba1dd65290df440aae55c6aff4e14",
@@ -7885,6 +7885,18 @@
             "fetched_datetime": "2026-05-26T15:24:23.252857Z",
             "shown_at": [
                 "2026-05-26T15:24:24.358112Z"
+            ]
+        },
+        {
+            "id": "f52d8456ebf50d52ca857b00716338dd",
+            "source": "spacenews",
+            "text": "Voyager wins DARPA contract for solid rocket propellant technology",
+            "source_link": "https://spacenews.com/voyager-wins-darpa-contract-for-solid-rocket-propellant-technology/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-26T16:34:38.242486Z",
+            "shown_at": [
+                "2026-05-26T16:34:40.467894Z"
             ]
         }
     ]
