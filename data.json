@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-26T00:04:29.310363+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e27ae3c06bf79dd8e01e7fae4c0de355",
+    "trigger_count": 0,
+    "current_item_id": "ea60175371922f987ebe9db49eecfff6",
     "data": [
         {
             "id": "7aaba1dd65290df440aae55c6aff4e14",
@@ -7872,6 +7872,18 @@
             "fetched_datetime": "2026-05-26T14:14:19.932555Z",
             "shown_at": [
                 "2026-05-26T14:14:22.073780Z"
+            ]
+        },
+        {
+            "id": "ea60175371922f987ebe9db49eecfff6",
+            "source": "nyt",
+            "text": "SpaceX’s Unconventional Corporate Arrangements Favor Elon Musk",
+            "source_link": "https://www.nytimes.com/2026/05/26/technology/spacex-elon-musk-pay-board-governance.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-26T15:24:23.252857Z",
+            "shown_at": [
+                "2026-05-26T15:24:24.358112Z"
             ]
         }
     ]
