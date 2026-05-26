@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-26T00:04:29.310363+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b3dd980b89f99811a146bde756188e2c",
+    "trigger_count": 0,
+    "current_item_id": "aa6258b718ffe344dbddb22633656817",
     "data": [
         {
             "id": "7aaba1dd65290df440aae55c6aff4e14",
@@ -7960,6 +7960,18 @@
             "fetched_datetime": "2026-05-26T21:14:27.550577Z",
             "shown_at": [
                 "2026-05-26T21:14:28.470657Z"
+            ]
+        },
+        {
+            "id": "aa6258b718ffe344dbddb22633656817",
+            "source": "breaking_defense",
+            "text": "SpaceX wins $2.29B to speed Space Force’s LEO communications ‘backbone’",
+            "source_link": "https://breakingdefense.com/2026/05/spacex-wins-2-29b-to-speed-space-forces-leo-communications-backbone/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-26T21:49:21.225229Z",
+            "shown_at": [
+                "2026-05-26T21:49:23.158799Z"
             ]
         }
     ]

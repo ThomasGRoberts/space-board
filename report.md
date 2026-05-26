@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 9 | 15 | 29 |
 | nyt | 4 | 5 | 12 | 25 |
-| breaking_defense | 2 | 2 | 10 | 23 |
+| breaking_defense | 3 | 3 | 11 | 24 |
 
 # Shown Order
 
@@ -2323,3 +2323,4 @@
 - **May 26, 08:04 PM** - In ‘For All Mankind,’ America Wins by Losing (nyt)
 - **May 26, 08:38 PM** - Sixth Varda mission successfully returns (spacenews)
 - **May 26, 09:14 PM** - HASC $1.15T defense policy bill takes aim at industrial base challenges (breaking_defense)
+- **May 26, 09:49 PM** - SpaceX wins $2.29B to speed Space Force’s LEO communications ‘backbone’ (breaking_defense)
