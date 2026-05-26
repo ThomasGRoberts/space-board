@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 10 | 15 | 29 |
+| spacenews | 9 | 10 | 16 | 30 |
 | nyt | 5 | 6 | 12 | 25 |
 | breaking_defense | 3 | 3 | 10 | 23 |
 
@@ -2326,3 +2326,4 @@
 - **May 26, 09:49 PM** - SpaceX wins $2.29B to speed Space Force’s LEO communications ‘backbone’ (breaking_defense)
 - **May 26, 10:24 PM** - NASA selects four companies for initial moon base awards (spacenews)
 - **May 26, 10:59 PM** - NASA’s Moon Base Plan Adds Two Rovers for Its Astronauts (nyt)
+- **May 26, 11:34 PM** - Open Cosmos’ CEO on what it takes to bring IoT to space (spacenews)

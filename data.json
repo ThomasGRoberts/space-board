@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-26T00:04:29.310363+00:00",
-    "trigger_count": 6,
-    "current_item_id": "fcbd5967fc3a1863f0794c3f2678ea62",
+    "trigger_count": 0,
+    "current_item_id": "f50c4f329f7d4d167222af7e637a4f68",
     "data": [
         {
             "id": "7aaba1dd65290df440aae55c6aff4e14",
@@ -7991,9 +7991,12 @@
             "source": "spacenews",
             "text": "Open Cosmos’ CEO on what it takes to bring IoT to space",
             "source_link": "https://spacenews.com/open-cosmos-ceo-on-what-it-takes-to-bring-iot-to-space/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-05-26T22:24:17.333276Z"
+            "fetched_datetime": "2026-05-26T22:24:17.333276Z",
+            "shown_at": [
+                "2026-05-26T23:34:25.848189Z"
+            ]
         },
         {
             "id": "fcbd5967fc3a1863f0794c3f2678ea62",
