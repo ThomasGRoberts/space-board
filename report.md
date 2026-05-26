@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 8 | 14 | 28 |
+| spacenews | 9 | 10 | 15 | 29 |
 | nyt | 4 | 5 | 12 | 25 |
 | breaking_defense | 3 | 3 | 11 | 24 |
 
@@ -2324,3 +2324,4 @@
 - **May 26, 08:38 PM** - Sixth Varda mission successfully returns (spacenews)
 - **May 26, 09:14 PM** - HASC $1.15T defense policy bill takes aim at industrial base challenges (breaking_defense)
 - **May 26, 09:49 PM** - SpaceX wins $2.29B to speed Space Force’s LEO communications ‘backbone’ (breaking_defense)
+- **May 26, 10:24 PM** - NASA selects four companies for initial moon base awards (spacenews)

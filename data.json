@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-26T00:04:29.310363+00:00",
-    "trigger_count": 6,
-    "current_item_id": "aa6258b718ffe344dbddb22633656817",
+    "trigger_count": 0,
+    "current_item_id": "9711643cca095d638895bb36971c4417",
     "data": [
         {
             "id": "7aaba1dd65290df440aae55c6aff4e14",
@@ -7973,6 +7973,27 @@
             "shown_at": [
                 "2026-05-26T21:49:23.158799Z"
             ]
+        },
+        {
+            "id": "9711643cca095d638895bb36971c4417",
+            "source": "spacenews",
+            "text": "NASA selects four companies for initial moon base awards",
+            "source_link": "https://spacenews.com/nasa-selects-four-companies-for-initial-moon-base-awards/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-26T22:24:17.333216Z",
+            "shown_at": [
+                "2026-05-26T22:24:18.583418Z"
+            ]
+        },
+        {
+            "id": "f50c4f329f7d4d167222af7e637a4f68",
+            "source": "spacenews",
+            "text": "Open Cosmos’ CEO on what it takes to bring IoT to space",
+            "source_link": "https://spacenews.com/open-cosmos-ceo-on-what-it-takes-to-bring-iot-to-space/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-05-26T22:24:17.333276Z"
         }
     ]
 }
