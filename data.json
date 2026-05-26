@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-26T00:04:29.310363+00:00",
-    "trigger_count": 6,
-    "current_item_id": "53aa79c4792feda50b38ef70765da433",
+    "trigger_count": 0,
+    "current_item_id": "f02c4dba396ba198beeb721d13941145",
     "data": [
         {
             "id": "7aaba1dd65290df440aae55c6aff4e14",
@@ -7928,9 +7928,12 @@
             "source": "spacenews",
             "text": "The surge in military budgets can help Europe’s entrepreneurial space sector — if spending speeds up",
             "source_link": "https://spacenews.com/the-surge-in-military-budgets-can-help-europes-entrepreneurial-space-sector-if-spending-speeds-up/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-05-26T17:44:07.021101Z"
+            "fetched_datetime": "2026-05-26T17:44:07.021101Z",
+            "shown_at": [
+                "2026-05-26T18:54:28.986645Z"
+            ]
         },
         {
             "id": "53aa79c4792feda50b38ef70765da433",

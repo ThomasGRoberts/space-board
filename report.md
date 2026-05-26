@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 9 | 14 | 29 |
+| spacenews | 7 | 9 | 15 | 30 |
 | nyt | 4 | 5 | 13 | 25 |
 | breaking_defense | 1 | 1 | 10 | 23 |
 
@@ -2318,3 +2318,4 @@
 - **May 26, 05:09 PM** - SpaceX IPO Filing Reveals Favorable Terms for Elon Musk (nyt)
 - **May 26, 05:44 PM** - Starcloud orders Starlink lasers for orbital data center network (spacenews)
 - **May 26, 06:19 PM** - A New Era of Exploring the Universe in Radio (nyt)
+- **May 26, 06:54 PM** - The surge in military budgets can help Europe’s entrepreneurial space sector — if spending speeds up (spacenews)
