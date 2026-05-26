@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 10 | 15 | 29 |
-| nyt | 4 | 5 | 11 | 24 |
+| nyt | 5 | 6 | 12 | 25 |
 | breaking_defense | 3 | 3 | 11 | 24 |
 
 # Shown Order
@@ -2325,3 +2325,4 @@
 - **May 26, 09:14 PM** - HASC $1.15T defense policy bill takes aim at industrial base challenges (breaking_defense)
 - **May 26, 09:49 PM** - SpaceX wins $2.29B to speed Space Force’s LEO communications ‘backbone’ (breaking_defense)
 - **May 26, 10:24 PM** - NASA selects four companies for initial moon base awards (spacenews)
+- **May 26, 10:59 PM** - NASA’s Moon Base Plan Adds Two Rovers for Its Astronauts (nyt)
