@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 14 | 28 |
-| nyt | 1 | 1 | 13 | 26 |
+| nyt | 1 | 1 | 14 | 27 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2290,3 +2290,4 @@
 - **May 25, 10:34 PM** - In ‘For All Mankind,’ America Wins by Losing (nyt)
 - **May 25, 11:09 PM** - DAF study finds new space launch site ‘probably’ required (breaking_defense)
 - **May 25, 11:44 PM** - LatConnect 60 announces accelerated growth investment round to build AUKUS-aligned Highest Resolution SWIR Satellite constellation (spacenews)
+- **May 26, 12:19 AM** - Elon Musk’s SpaceX Pulls Back the Curtain on Its Finances (nyt)
