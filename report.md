@@ -8,8 +8,6 @@
 
 # Shown Order
 
-- **Mar 25, 01:09 PM** - Musk wants to go to the moon. But how will he build his ‘self-growing city’? (spacenews)
-- **Mar 25, 02:19 PM** - Infinity Avionics Unveils Aquila: The Next-Generation Space Imaging Solution for Complex Orbital Operations (spacenews)
 - **Mar 25, 02:54 PM** - Airbase raises $5 million to tackle spectrum bottleneck as FCC eyes new space uses (spacenews)
 - **Mar 25, 03:34 PM** - Telesat eyes defense role with laser comms test ahead of LEO debut (spacenews)
 - **Mar 25, 04:09 PM** - Sift raises $42 million in Series B round (spacenews)
@@ -42,7 +40,6 @@
 - **Mar 27, 05:39 PM** - India’s Bellatrix raises $20 million following overseas expansion drive (spacenews)
 - **Mar 27, 07:09 PM** - Commercial Space Federation (CSF) Welcomes Two New Associate Members (spacenews)
 - **Mar 27, 07:44 PM** - ESA to decide by June on Europe’s Gateway contributions  (spacenews)
-- **Mar 27, 10:04 PM** - Musk wants to go to the moon. But how will he build his ‘self-growing city’? (spacenews)
 - **Mar 28, 12:24 AM** - Terran Orbital Introduces New Star Tracker Product Line at SATSHOW 2026 (spacenews)
 - **Mar 28, 12:59 AM** - Artemis 2 astronauts arrive at KSC (spacenews)
 - **Mar 28, 02:14 AM** - Government use of commercial procurement models has limitations in space (spacenews)
@@ -54,7 +51,6 @@
 - **Mar 28, 04:14 PM** - Terran Orbital Introduces New Star Tracker Product Line at SATSHOW 2026 (spacenews)
 - **Mar 28, 05:24 PM** - NASA to test nuclear electric propulsion with 2028 mission to Mars (spacenews)
 - **Mar 28, 07:09 PM** - Did Scientists Just Detect an Exploding Black Hole? (nyt)
-- **Mar 28, 07:44 PM** - Musk wants to go to the moon. But how will he build his ‘self-growing city’? (spacenews)
 - **Mar 28, 08:54 PM** - Starfish Space finds a new partner for docking demonstration mission (spacenews)
 - **Mar 28, 09:29 PM** - Did Scientists Just Detect an Exploding Black Hole? (nyt)
 - **Mar 28, 10:24 PM** - Sift raises $42 million in Series B round (spacenews)

@@ -1,9 +1,35 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-05-25T00:04:38.049047+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2026-05-26T00:04:29.310363+00:00",
+    "trigger_count": 4,
     "current_item_id": "c26b5c86317f85d55fc93c9f5fef43e0",
     "data": [
+        {
+            "id": "7aaba1dd65290df440aae55c6aff4e14",
+            "source": "spacenews",
+            "text": "Northern Norway is ready to launch. EU Space Regulation — and its new Arctic policy – is not.",
+            "source_link": "https://spacenews.com/northern-norway-is-ready-to-launch-eu-space-regulation-and-its-new-arctic-policy-is-not/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-25T11:09:14.799012Z",
+            "shown_at": [
+                "2026-05-25T11:09:16.348300Z"
+            ]
+        },
+        {
+            "id": "d42e083cfb9c394804a7a05cdd4e797c",
+            "source": "nyt",
+            "text": "In ‘For All Mankind,’ America Wins by Losing",
+            "source_link": "https://www.nytimes.com/2026/05/25/arts/television/for-all-mankind.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-25T09:24:13.941050Z",
+            "shown_at": [
+                "2026-05-25T09:24:14.690052Z",
+                "2026-05-25T18:59:10.203575Z",
+                "2026-05-25T22:34:21.340220Z"
+            ]
+        },
         {
             "id": "f120237b0949e90d93ccb20c11c8314d",
             "source": "spacenews",
@@ -7758,58 +7784,6 @@
                 "2026-03-25T14:54:31.182923Z",
                 "2026-03-31T03:19:22.680407Z",
                 "2026-03-31T07:59:07.624453Z"
-            ]
-        },
-        {
-            "id": "915a1507243758ad11aef181abb40971",
-            "source": "spacenews",
-            "text": "Infinity Avionics Unveils Aquila: The Next-Generation Space Imaging Solution for Complex Orbital Operations",
-            "source_link": "https://spacenews.com/infinity-avionics-unveils-aquila-the-next-generation-space-imaging-solution-for-complex-orbital-operations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-25T14:19:21.194238Z",
-            "shown_at": [
-                "2026-03-25T14:19:22.617900Z"
-            ]
-        },
-        {
-            "id": "652efd8dd76064d549b177d19900f7ce",
-            "source": "spacenews",
-            "text": "Musk wants to go to the moon. But how will he build his ‘self-growing city’?",
-            "source_link": "https://spacenews.com/musk-wants-to-go-to-the-moon-but-how-will-he-build-his-self-growing-city/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-25T13:09:31.922216Z",
-            "shown_at": [
-                "2026-03-25T13:09:33.265298Z",
-                "2026-03-27T22:04:43.745819Z",
-                "2026-03-28T19:44:23.240453Z"
-            ]
-        },
-        {
-            "id": "d42e083cfb9c394804a7a05cdd4e797c",
-            "source": "nyt",
-            "text": "In ‘For All Mankind,’ America Wins by Losing",
-            "source_link": "https://www.nytimes.com/2026/05/25/arts/television/for-all-mankind.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-25T09:24:13.941050Z",
-            "shown_at": [
-                "2026-05-25T09:24:14.690052Z",
-                "2026-05-25T18:59:10.203575Z",
-                "2026-05-25T22:34:21.340220Z"
-            ]
-        },
-        {
-            "id": "7aaba1dd65290df440aae55c6aff4e14",
-            "source": "spacenews",
-            "text": "Northern Norway is ready to launch. EU Space Regulation — and its new Arctic policy – is not.",
-            "source_link": "https://spacenews.com/northern-norway-is-ready-to-launch-eu-space-regulation-and-its-new-arctic-policy-is-not/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-25T11:09:14.799012Z",
-            "shown_at": [
-                "2026-05-25T11:09:16.348300Z"
             ]
         }
     ]
