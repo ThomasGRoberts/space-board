@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 9 | 14 | 29 |
+| spacenews | 7 | 9 | 15 | 30 |
 | nyt | 4 | 5 | 13 | 25 |
 | breaking_defense | 1 | 1 | 10 | 23 |
 
@@ -2321,3 +2321,4 @@
 - **May 26, 06:54 PM** - The surge in military budgets can help Europe’s entrepreneurial space sector — if spending speeds up (spacenews)
 - **May 26, 07:29 PM** - How drones can navigate without GPS  (breaking_defense)
 - **May 26, 08:04 PM** - In ‘For All Mankind,’ America Wins by Losing (nyt)
+- **May 26, 08:38 PM** - Sixth Varda mission successfully returns (spacenews)
