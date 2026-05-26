@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 14 | 28 |
-| nyt | 1 | 1 | 13 | 27 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| nyt | 1 | 1 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2297,3 +2297,4 @@
 - **May 26, 02:39 AM** - How drones can navigate without GPS  (breaking_defense)
 - **May 26, 03:14 AM** - Lynk and Anterix get FCC nod to test satellite D2D for private utility networks (spacenews)
 - **May 26, 03:49 AM** - SpaceX Scrubs Launch Attempt of Updated Starship Rocket (nyt)
+- **May 26, 04:24 AM** - DARPA’s robotic servicing spacecraft to finally fly this summer (breaking_defense)
