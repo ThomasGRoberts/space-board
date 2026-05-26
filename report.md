@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 9 | 15 | 29 |
 | nyt | 4 | 5 | 12 | 25 |
-| breaking_defense | 1 | 1 | 10 | 23 |
+| breaking_defense | 1 | 1 | 11 | 24 |
 
 # Shown Order
 
@@ -2319,3 +2319,4 @@
 - **May 26, 05:44 PM** - Starcloud orders Starlink lasers for orbital data center network (spacenews)
 - **May 26, 06:19 PM** - A New Era of Exploring the Universe in Radio (nyt)
 - **May 26, 06:54 PM** - The surge in military budgets can help Europe’s entrepreneurial space sector — if spending speeds up (spacenews)
+- **May 26, 07:29 PM** - How drones can navigate without GPS  (breaking_defense)
