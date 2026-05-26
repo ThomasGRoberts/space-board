@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-26T00:04:29.310363+00:00",
-    "trigger_count": 6,
-    "current_item_id": "df9cd2bddb03cab7fbdac32b26bec124",
+    "trigger_count": 0,
+    "current_item_id": "b1c9df03e3d48a329a5304304fd80ae5",
     "data": [
         {
             "id": "7aaba1dd65290df440aae55c6aff4e14",
@@ -7910,6 +7910,27 @@
             "shown_at": [
                 "2026-05-26T17:09:11.163179Z"
             ]
+        },
+        {
+            "id": "b1c9df03e3d48a329a5304304fd80ae5",
+            "source": "spacenews",
+            "text": "Starcloud orders Starlink lasers for orbital data center network",
+            "source_link": "https://spacenews.com/starcloud-orders-starlink-lasers-for-orbital-data-center-network/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-26T17:44:07.021025Z",
+            "shown_at": [
+                "2026-05-26T17:44:11.755882Z"
+            ]
+        },
+        {
+            "id": "f02c4dba396ba198beeb721d13941145",
+            "source": "spacenews",
+            "text": "The surge in military budgets can help Europe’s entrepreneurial space sector — if spending speeds up",
+            "source_link": "https://spacenews.com/the-surge-in-military-budgets-can-help-europes-entrepreneurial-space-sector-if-spending-speeds-up/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-05-26T17:44:07.021101Z"
         }
     ]
 }

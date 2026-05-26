@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 7 | 14 | 28 |
+| spacenews | 7 | 9 | 15 | 29 |
 | nyt | 3 | 4 | 12 | 25 |
 | breaking_defense | 1 | 1 | 11 | 24 |
 
@@ -2316,3 +2316,4 @@
 - **May 26, 03:59 PM** - DAF study finds new space launch site ‘probably’ required (breaking_defense)
 - **May 26, 04:34 PM** - Voyager wins DARPA contract for solid rocket propellant technology (spacenews)
 - **May 26, 05:09 PM** - SpaceX IPO Filing Reveals Favorable Terms for Elon Musk (nyt)
+- **May 26, 05:44 PM** - Starcloud orders Starlink lasers for orbital data center network (spacenews)
