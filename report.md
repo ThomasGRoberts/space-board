@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 14 | 28 |
-| nyt | 0 | 1 | 11 | 24 |
-| breaking_defense | 1 | 1 | 12 | 25 |
+| nyt | 1 | 2 | 12 | 25 |
+| breaking_defense | 1 | 1 | 11 | 25 |
 
 # Shown Order
 
@@ -2310,3 +2310,4 @@
 - **May 26, 10:14 AM** - Sixth Varda mission successfully returns (spacenews)
 - **May 26, 01:04 PM** - Regulations and access to capital continue to hinder Europe’s smallsat industry (spacenews)
 - **May 26, 01:39 PM** - Despite ‘peak hype,’ orbital data centers for AI not yet ready for NatSec prime time (breaking_defense)
+- **May 26, 02:14 PM** - Where to See the Total Solar Eclipse on Aug. 12 (nyt)
