@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 14 | 28 |
 | nyt | 1 | 1 | 13 | 26 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2294,3 +2294,4 @@
 - **May 26, 12:53 AM** - Space Force names Sandhoo as head of new missile warning/tracking PAE (breaking_defense)
 - **May 26, 01:29 AM** - LatConnect 60 announces accelerated growth investment round to build AUKUS-aligned Highest Resolution SWIR Satellite constellation (spacenews)
 - **May 26, 02:04 AM** - SpaceX to Attempt Its 12th Test Flight of Starship (nyt)
+- **May 26, 02:39 AM** - How drones can navigate without GPS  (breaking_defense)
