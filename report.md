@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 14 | 29 |
-| nyt | 1 | 1 | 13 | 26 |
+| spacenews | 1 | 3 | 14 | 28 |
+| nyt | 1 | 1 | 14 | 27 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2296,3 +2296,4 @@
 - **May 26, 02:04 AM** - SpaceX to Attempt Its 12th Test Flight of Starship (nyt)
 - **May 26, 02:39 AM** - How drones can navigate without GPS  (breaking_defense)
 - **May 26, 03:14 AM** - Lynk and Anterix get FCC nod to test satellite D2D for private utility networks (spacenews)
+- **May 26, 03:49 AM** - SpaceX Scrubs Launch Attempt of Updated Starship Rocket (nyt)
