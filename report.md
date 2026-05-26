@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 3 | 14 | 28 |
-| nyt | 1 | 1 | 13 | 26 |
+| nyt | 1 | 1 | 14 | 27 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2293,3 +2293,4 @@
 - **May 26, 12:19 AM** - Elon Musk’s SpaceX Pulls Back the Curtain on Its Finances (nyt)
 - **May 26, 12:53 AM** - Space Force names Sandhoo as head of new missile warning/tracking PAE (breaking_defense)
 - **May 26, 01:29 AM** - LatConnect 60 announces accelerated growth investment round to build AUKUS-aligned Highest Resolution SWIR Satellite constellation (spacenews)
+- **May 26, 02:04 AM** - SpaceX to Attempt Its 12th Test Flight of Starship (nyt)
