@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 6 | 14 | 28 |
 | nyt | 2 | 3 | 12 | 25 |
-| breaking_defense | 1 | 1 | 11 | 24 |
+| breaking_defense | 1 | 1 | 12 | 24 |
 
 # Shown Order
 
@@ -2313,3 +2313,4 @@
 - **May 26, 02:14 PM** - Where to See the Total Solar Eclipse on Aug. 12 (nyt)
 - **May 26, 02:49 PM** - Chinese startup Mega Engine advances reusable staged-combustion rocket engine (spacenews)
 - **May 26, 03:24 PM** - SpaceX’s Unconventional Corporate Arrangements Favor Elon Musk (nyt)
+- **May 26, 03:59 PM** - DAF study finds new space launch site ‘probably’ required (breaking_defense)
