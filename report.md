@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 14 | 28 |
+| spacenews | 1 | 3 | 15 | 29 |
 | nyt | 1 | 1 | 13 | 26 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
@@ -2295,3 +2295,4 @@
 - **May 26, 01:29 AM** - LatConnect 60 announces accelerated growth investment round to build AUKUS-aligned Highest Resolution SWIR Satellite constellation (spacenews)
 - **May 26, 02:04 AM** - SpaceX to Attempt Its 12th Test Flight of Starship (nyt)
 - **May 26, 02:39 AM** - How drones can navigate without GPS  (breaking_defense)
+- **May 26, 03:14 AM** - Lynk and Anterix get FCC nod to test satellite D2D for private utility networks (spacenews)
