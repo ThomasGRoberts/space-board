@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 7 | 14 | 29 |
-| nyt | 2 | 3 | 12 | 24 |
+| nyt | 3 | 4 | 13 | 25 |
 | breaking_defense | 1 | 1 | 11 | 24 |
 
 # Shown Order
@@ -2315,3 +2315,4 @@
 - **May 26, 03:24 PM** - SpaceX’s Unconventional Corporate Arrangements Favor Elon Musk (nyt)
 - **May 26, 03:59 PM** - DAF study finds new space launch site ‘probably’ required (breaking_defense)
 - **May 26, 04:34 PM** - Voyager wins DARPA contract for solid rocket propellant technology (spacenews)
+- **May 26, 05:09 PM** - SpaceX IPO Filing Reveals Favorable Terms for Elon Musk (nyt)
