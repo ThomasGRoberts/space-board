@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 6 | 12 | 24 |
-| spacenews | 10 | 14 | 16 | 30 |
+| spacenews | 10 | 14 | 17 | 31 |
 | breaking_defense | 2 | 3 | 11 | 22 |
 
 # Shown Order
@@ -2302,3 +2302,4 @@
 - **May 27, 12:59 PM** - World’s smallest deployable operational optical ground station proves capability in successful trials (spacenews)
 - **May 27, 01:34 PM** - European space industry watching SpaceX IPO plans (spacenews)
 - **May 27, 02:09 PM** - Europe’s satellite spectrum proposal clouds SpaceX and Viasat plans (spacenews)
+- **May 27, 02:44 PM** - Artemis 2 captured the world’s attention. It should change how we think about supply chains. (spacenews)
