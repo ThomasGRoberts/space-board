@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 5 | 5 | 11 | 24 |
-| spacenews | 8 | 11 | 14 | 30 |
+| nyt | 5 | 5 | 12 | 25 |
+| spacenews | 8 | 11 | 14 | 29 |
 | breaking_defense | 3 | 3 | 11 | 23 |
 
 # Shown Order
@@ -2296,3 +2296,4 @@
 - **May 27, 08:34 AM** - SpaceX’s Unconventional Corporate Arrangements Favor Elon Musk (nyt)
 - **May 27, 09:15 AM** - Despite ‘peak hype,’ orbital data centers for AI not yet ready for NatSec prime time (breaking_defense)
 - **May 27, 09:54 AM** - NASA unveils sweeping reorganization (spacenews)
+- **May 27, 10:34 AM** - SpaceX to Attempt Its 12th Test Flight of Starship (nyt)
