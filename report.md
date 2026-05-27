@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 6 | 6 | 13 | 26 |
+| nyt | 6 | 6 | 13 | 25 |
 | spacenews | 8 | 10 | 14 | 28 |
-| breaking_defense | 3 | 3 | 11 | 23 |
+| breaking_defense | 3 | 3 | 12 | 24 |
 
 # Shown Order
 
@@ -2298,3 +2298,4 @@
 - **May 27, 09:54 AM** - NASA unveils sweeping reorganization (spacenews)
 - **May 27, 10:34 AM** - SpaceX to Attempt Its 12th Test Flight of Starship (nyt)
 - **May 27, 11:09 AM** - A Fiery Visitor From Space Photo-Bombs an Erupting Volcano (nyt)
+- **May 27, 12:00 PM** - Despite ‘peak hype,’ orbital data centers for AI not yet ready for NatSec prime time (breaking_defense)
