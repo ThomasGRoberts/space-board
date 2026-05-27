@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 5 | 6 | 11 | 24 |
+| nyt | 5 | 6 | 12 | 25 |
 | spacenews | 9 | 10 | 15 | 29 |
 | breaking_defense | 3 | 3 | 11 | 24 |
 
@@ -2280,3 +2280,4 @@
 - **May 26, 10:59 PM** - NASA’s Moon Base Plan Adds Two Rovers for Its Astronauts (nyt)
 - **May 26, 11:34 PM** - Open Cosmos’ CEO on what it takes to bring IoT to space (spacenews)
 - **May 27, 12:09 AM** - Despite ‘peak hype,’ orbital data centers for AI not yet ready for NatSec prime time (breaking_defense)
+- **May 27, 12:49 AM** - NASA’s Moon Base Plan Adds Two Rovers for Its Astronauts (nyt)
