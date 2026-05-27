@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-27T00:04:46.756506+00:00",
-    "trigger_count": 6,
-    "current_item_id": "41a414b7d9c1cb0cbed2725698e06f11",
+    "trigger_count": 0,
+    "current_item_id": "97a86e9ff8f96eca3f9016f29579a42d",
     "data": [
         {
             "id": "fcbd5967fc3a1863f0794c3f2678ea62",
@@ -7970,6 +7970,18 @@
             "shown": false,
             "type": "news",
             "fetched_datetime": "2026-05-27T19:23:57.229792Z"
+        },
+        {
+            "id": "97a86e9ff8f96eca3f9016f29579a42d",
+            "source": "breaking_defense",
+            "text": "Dept. of Air Force ‘still working’ to sort space programs into acquisition portfolios: Ainsworth",
+            "source_link": "https://breakingdefense.com/2026/05/dept-of-air-force-still-working-to-sort-space-programs-into-acquisition-portfolios-ainsworth/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-27T20:34:30.011369Z",
+            "shown_at": [
+                "2026-05-27T20:34:30.972389Z"
+            ]
         }
     ]
 }

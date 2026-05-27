@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 6 | 9 | 22 |
 | spacenews | 16 | 23 | 21 | 35 |
-| breaking_defense | 2 | 3 | 9 | 19 |
+| breaking_defense | 3 | 4 | 10 | 20 |
 
 # Shown Order
 
@@ -2312,3 +2312,4 @@
 - **May 27, 06:49 PM** - Spire expands European manufacturing with Munich plant (spacenews)
 - **May 27, 07:23 PM** - Mars to Titan: the next rallying call? (spacenews)
 - **May 27, 07:59 PM** - European space industry warns EU Space Act could slow competitiveness (spacenews)
+- **May 27, 08:34 PM** - Dept. of Air Force ‘still working’ to sort space programs into acquisition portfolios: Ainsworth (breaking_defense)
