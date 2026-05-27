@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-27T00:04:46.756506+00:00",
-    "trigger_count": 6,
-    "current_item_id": "53aa79c4792feda50b38ef70765da433",
+    "trigger_count": 0,
+    "current_item_id": "96672876ede284d1b686719904ea1a82",
     "data": [
         {
             "id": "fcbd5967fc3a1863f0794c3f2678ea62",
@@ -7865,6 +7865,63 @@
             "shown_at": [
                 "2026-05-27T14:44:29.346150Z"
             ]
+        },
+        {
+            "id": "96672876ede284d1b686719904ea1a82",
+            "source": "spacenews",
+            "text": "Kongsberg NanoAvionics sets sights on building and supporting sovereign constellations",
+            "source_link": "https://spacenews.com/kongsberg-nanoavionics-sets-sights-on-building-and-supporting-sovereign-constellations/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-27T15:54:24.354917Z",
+            "shown_at": [
+                "2026-05-27T15:54:25.278934Z"
+            ]
+        },
+        {
+            "id": "13585889272dfcd1efef94509e3da129",
+            "source": "spacenews",
+            "text": "Former Ukraine official calls for stricter restrictions on Russian use of Starlink",
+            "source_link": "https://spacenews.com/former-ukraine-official-calls-for-stricter-restrictions-on-russian-use-of-starlink/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-05-27T15:54:24.354996Z"
+        },
+        {
+            "id": "a82c53d9137f929deb91989dff83e8b2",
+            "source": "spacenews",
+            "text": "Sitael Accelerates Growth in Space: New Missions, Industrial Capacity and a Trajectory Towards 2031",
+            "source_link": "https://spacenews.com/sitael-accelerates-growth-in-spacenew-missions-industrial-capacity-and-a-trajectory-towards-2031/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-05-27T15:54:24.355037Z"
+        },
+        {
+            "id": "bbbfe661371b6494154999829f2e99d8",
+            "source": "spacenews",
+            "text": "Schaeffler AG joins forces with Spire to build sovereign European satellites",
+            "source_link": "https://spacenews.com/schaeffler-ag-joins-forces-with-spire-to-build-sovereign-european-satellites/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-05-27T15:54:24.355072Z"
+        },
+        {
+            "id": "5e33c88febb5d69c48f421f7827f49b7",
+            "source": "spacenews",
+            "text": "Starcloud’s path to 88,000 computing satellites",
+            "source_link": "https://spacenews.com/starclouds-path-to-88000-computing-satellites/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-05-27T15:54:24.355125Z"
+        },
+        {
+            "id": "0814921bfafbabee2aabd4da692c0e87",
+            "source": "spacenews",
+            "text": "Spire expands European manufacturing with Munich plant",
+            "source_link": "https://spacenews.com/spire-expands-european-manufacturing-with-munich-plant/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-05-27T15:54:24.355159Z"
         }
     ]
 }

@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 4 | 6 | 12 | 24 |
-| spacenews | 10 | 14 | 16 | 30 |
+| spacenews | 16 | 20 | 17 | 31 |
 | breaking_defense | 2 | 3 | 11 | 22 |
 
 # Shown Order
@@ -2304,3 +2304,4 @@
 - **May 27, 02:09 PM** - Europe’s satellite spectrum proposal clouds SpaceX and Viasat plans (spacenews)
 - **May 27, 02:44 PM** - Artemis 2 captured the world’s attention. It should change how we think about supply chains. (spacenews)
 - **May 27, 03:19 PM** - A New Era of Exploring the Universe in Radio (nyt)
+- **May 27, 03:54 PM** - Kongsberg NanoAvionics sets sights on building and supporting sovereign constellations (spacenews)
