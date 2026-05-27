@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 6 | 10 | 22 |
 | spacenews | 14 | 23 | 20 | 35 |
-| breaking_defense | 1 | 4 | 8 | 19 |
+| breaking_defense | 1 | 4 | 9 | 20 |
 
 # Shown Order
 
@@ -2315,3 +2315,4 @@
 - **May 27, 08:34 PM** - Dept. of Air Force ‘still working’ to sort space programs into acquisition portfolios: Ainsworth (breaking_defense)
 - **May 27, 09:09 PM** - As geopolitics reshape space, SpinLaunch sees an opening (spacenews)
 - **May 27, 09:49 PM** - A New Era of Exploring the Universe in Radio (nyt)
+- **May 27, 10:29 PM** - HASC $1.15T defense policy bill takes aim at industrial base challenges (breaking_defense)
