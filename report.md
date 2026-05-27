@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 6 | 10 | 22 |
-| spacenews | 13 | 20 | 19 | 34 |
+| spacenews | 16 | 23 | 20 | 35 |
 | breaking_defense | 2 | 3 | 10 | 20 |
 
 # Shown Order
@@ -2310,3 +2310,4 @@
 - **May 27, 05:39 PM** - Schaeffler AG joins forces with Spire to build sovereign European satellites (spacenews)
 - **May 27, 06:14 PM** - Starcloud’s path to 88,000 computing satellites (spacenews)
 - **May 27, 06:49 PM** - Spire expands European manufacturing with Munich plant (spacenews)
+- **May 27, 07:23 PM** - Mars to Titan: the next rallying call? (spacenews)

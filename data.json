@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-27T00:04:46.756506+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0814921bfafbabee2aabd4da692c0e87",
+    "trigger_count": 0,
+    "current_item_id": "d21adef1bc85a4bb1af1da7f33ba54e6",
     "data": [
         {
             "id": "fcbd5967fc3a1863f0794c3f2678ea62",
@@ -7937,6 +7937,36 @@
             "shown_at": [
                 "2026-05-27T18:49:17.629950Z"
             ]
+        },
+        {
+            "id": "d21adef1bc85a4bb1af1da7f33ba54e6",
+            "source": "spacenews",
+            "text": "Mars to Titan: the next rallying call?",
+            "source_link": "https://spacenews.com/mars-to-titan-the-next-rallying-call/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-27T19:23:57.229719Z",
+            "shown_at": [
+                "2026-05-27T19:23:58.147159Z"
+            ]
+        },
+        {
+            "id": "41a414b7d9c1cb0cbed2725698e06f11",
+            "source": "spacenews",
+            "text": "European space industry warns EU Space Act could slow competitiveness",
+            "source_link": "https://spacenews.com/european-space-industry-warns-eu-space-act-could-slow-competitiveness/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-05-27T19:23:57.229764Z"
+        },
+        {
+            "id": "67f54083b7463c061181cba5ec35d7ce",
+            "source": "spacenews",
+            "text": "As geopolitics reshape space, SpinLaunch sees an opening",
+            "source_link": "https://spacenews.com/as-geopolitics-reshape-space-spinlaunch-sees-an-opening/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-05-27T19:23:57.229792Z"
         }
     ]
 }
