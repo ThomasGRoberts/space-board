@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 5 | 5 | 12 | 25 |
-| spacenews | 8 | 11 | 14 | 29 |
+| nyt | 6 | 6 | 13 | 26 |
+| spacenews | 8 | 10 | 14 | 28 |
 | breaking_defense | 3 | 3 | 11 | 23 |
 
 # Shown Order
@@ -2297,3 +2297,4 @@
 - **May 27, 09:15 AM** - Despite ‘peak hype,’ orbital data centers for AI not yet ready for NatSec prime time (breaking_defense)
 - **May 27, 09:54 AM** - NASA unveils sweeping reorganization (spacenews)
 - **May 27, 10:34 AM** - SpaceX to Attempt Its 12th Test Flight of Starship (nyt)
+- **May 27, 11:09 AM** - A Fiery Visitor From Space Photo-Bombs an Erupting Volcano (nyt)
