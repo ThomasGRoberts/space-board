@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 6 | 12 | 25 |
-| spacenews | 9 | 10 | 15 | 29 |
+| spacenews | 9 | 10 | 16 | 30 |
 | breaking_defense | 3 | 3 | 10 | 23 |
 
 # Shown Order
@@ -2287,3 +2287,4 @@
 - **May 27, 03:09 AM** - Space Force on path to double active-duty force by 2030 (spacenews)
 - **May 27, 03:44 AM** - How drones can navigate without GPS  (breaking_defense)
 - **May 27, 04:19 AM** - Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO (nyt)
+- **May 27, 04:54 AM** - NASA to add missions to SpaceX commercial crew contract (spacenews)
