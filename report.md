@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 6 | 12 | 25 |
 | spacenews | 9 | 10 | 15 | 29 |
-| breaking_defense | 3 | 3 | 10 | 23 |
+| breaking_defense | 3 | 3 | 11 | 24 |
 
 # Shown Order
 
@@ -2288,3 +2288,4 @@
 - **May 27, 03:44 AM** - How drones can navigate without GPS  (breaking_defense)
 - **May 27, 04:19 AM** - Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO (nyt)
 - **May 27, 04:54 AM** - NASA to add missions to SpaceX commercial crew contract (spacenews)
+- **May 27, 05:29 AM** - Boots on the moon needed to beat ‘belligerent’ China: Mitchell Institute (breaking_defense)
