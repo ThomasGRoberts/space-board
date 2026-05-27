@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 6 | 12 | 25 |
 | spacenews | 8 | 11 | 14 | 29 |
-| breaking_defense | 3 | 3 | 11 | 23 |
+| breaking_defense | 3 | 3 | 11 | 24 |
 
 # Shown Order
 
@@ -2294,3 +2294,4 @@
 - **May 27, 07:24 AM** - HASC $1.15T defense policy bill takes aim at industrial base challenges (breaking_defense)
 - **May 27, 07:59 AM** - Nations opt for a mix of sovereign, bilateral, federated and commercial space capabilities (spacenews)
 - **May 27, 08:34 AM** - SpaceX’s Unconventional Corporate Arrangements Favor Elon Musk (nyt)
+- **May 27, 09:15 AM** - Despite ‘peak hype,’ orbital data centers for AI not yet ready for NatSec prime time (breaking_defense)
