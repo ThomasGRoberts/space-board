@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 6 | 12 | 25 |
 | spacenews | 9 | 10 | 15 | 29 |
-| breaking_defense | 3 | 3 | 10 | 23 |
+| breaking_defense | 3 | 3 | 11 | 24 |
 
 # Shown Order
 
@@ -2282,3 +2282,4 @@
 - **May 27, 12:09 AM** - Despite ‘peak hype,’ orbital data centers for AI not yet ready for NatSec prime time (breaking_defense)
 - **May 27, 12:49 AM** - NASA’s Moon Base Plan Adds Two Rovers for Its Astronauts (nyt)
 - **May 27, 01:24 AM** - Starcloud orders Starlink lasers for orbital data center network (spacenews)
+- **May 27, 01:59 AM** - DARPA’s robotic servicing mission to finally fly this summer (breaking_defense)
