@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-27T00:04:46.756506+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0445021cd205b7e7f4e2b63e61176855",
+    "trigger_count": 0,
+    "current_item_id": "f8eca6fbf5b099577f24639eb515e317",
     "data": [
         {
             "id": "fcbd5967fc3a1863f0794c3f2678ea62",
@@ -7840,6 +7840,27 @@
             "shown_at": [
                 "2026-05-27T13:34:40.421265Z"
             ]
+        },
+        {
+            "id": "f8eca6fbf5b099577f24639eb515e317",
+            "source": "spacenews",
+            "text": "Europe’s satellite spectrum proposal clouds SpaceX and Viasat plans",
+            "source_link": "https://spacenews.com/europes-satellite-spectrum-proposal-clouds-spacex-and-viasat-plans/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-27T14:09:26.937142Z",
+            "shown_at": [
+                "2026-05-27T14:09:28.065764Z"
+            ]
+        },
+        {
+            "id": "90cdbaed7a9c17d0122218cf9d9a886b",
+            "source": "spacenews",
+            "text": "Artemis 2 captured the world’s attention. It should change how we think about supply chains.",
+            "source_link": "https://spacenews.com/artemis-2-captured-the-worlds-attention-it-should-change-how-we-think-about-supply-chains/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-05-27T14:09:26.937213Z"
         }
     ]
 }

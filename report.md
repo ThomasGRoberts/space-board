@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 6 | 6 | 13 | 24 |
-| spacenews | 8 | 12 | 15 | 29 |
+| spacenews | 10 | 14 | 16 | 30 |
 | breaking_defense | 2 | 3 | 11 | 23 |
 
 # Shown Order
@@ -2301,3 +2301,4 @@
 - **May 27, 12:00 PM** - Despite ‘peak hype,’ orbital data centers for AI not yet ready for NatSec prime time (breaking_defense)
 - **May 27, 12:59 PM** - World’s smallest deployable operational optical ground station proves capability in successful trials (spacenews)
 - **May 27, 01:34 PM** - European space industry watching SpaceX IPO plans (spacenews)
+- **May 27, 02:09 PM** - Europe’s satellite spectrum proposal clouds SpaceX and Viasat plans (spacenews)
