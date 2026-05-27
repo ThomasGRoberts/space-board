@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 6 | 12 | 25 |
 | spacenews | 9 | 10 | 15 | 29 |
-| breaking_defense | 3 | 3 | 10 | 23 |
+| breaking_defense | 3 | 3 | 11 | 24 |
 
 # Shown Order
 
@@ -2279,3 +2279,4 @@
 - **May 26, 10:24 PM** - NASA selects four companies for initial moon base awards (spacenews)
 - **May 26, 10:59 PM** - NASA’s Moon Base Plan Adds Two Rovers for Its Astronauts (nyt)
 - **May 26, 11:34 PM** - Open Cosmos’ CEO on what it takes to bring IoT to space (spacenews)
+- **May 27, 12:09 AM** - Despite ‘peak hype,’ orbital data centers for AI not yet ready for NatSec prime time (breaking_defense)
