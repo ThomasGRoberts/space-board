@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-27T00:04:46.756506+00:00",
-    "trigger_count": 6,
-    "current_item_id": "17c862b03eec2acf0f0f9b3256f8cdae",
+    "trigger_count": 0,
+    "current_item_id": "d1c2aec367b06bdd645fecdfeff81684",
     "data": [
         {
             "id": "fcbd5967fc3a1863f0794c3f2678ea62",
@@ -7816,6 +7816,27 @@
             "shown_at": [
                 "2026-05-27T11:09:17.459447Z"
             ]
+        },
+        {
+            "id": "d1c2aec367b06bdd645fecdfeff81684",
+            "source": "spacenews",
+            "text": "World’s smallest deployable operational optical ground station proves capability in successful trials",
+            "source_link": "https://spacenews.com/worlds-smallest-deployable-operational-optical-ground-station-proves-capability-in-successful-trials/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-27T12:59:51.054751Z",
+            "shown_at": [
+                "2026-05-27T12:59:51.771011Z"
+            ]
+        },
+        {
+            "id": "0445021cd205b7e7f4e2b63e61176855",
+            "source": "spacenews",
+            "text": "European space industry watching SpaceX IPO plans",
+            "source_link": "https://spacenews.com/european-space-industry-watching-spacex-ipo-plans/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-05-27T12:59:51.054826Z"
         }
     ]
 }
