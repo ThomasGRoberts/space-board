@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 6 | 9 | 21 |
-| spacenews | 16 | 23 | 20 | 35 |
+| spacenews | 16 | 23 | 21 | 36 |
 | breaking_defense | 3 | 4 | 10 | 20 |
 
 # Shown Order
@@ -2313,3 +2313,4 @@
 - **May 27, 07:23 PM** - Mars to Titan: the next rallying call? (spacenews)
 - **May 27, 07:59 PM** - European space industry warns EU Space Act could slow competitiveness (spacenews)
 - **May 27, 08:34 PM** - Dept. of Air Force ‘still working’ to sort space programs into acquisition portfolios: Ainsworth (breaking_defense)
+- **May 27, 09:09 PM** - As geopolitics reshape space, SpinLaunch sees an opening (spacenews)
