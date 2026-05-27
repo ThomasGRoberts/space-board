@@ -1,9 +1,213 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-05-26T00:04:29.310363+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2026-05-27T00:04:46.756506+00:00",
+    "trigger_count": 6,
     "current_item_id": "f50c4f329f7d4d167222af7e637a4f68",
     "data": [
+        {
+            "id": "fcbd5967fc3a1863f0794c3f2678ea62",
+            "source": "nyt",
+            "text": "NASA’s Moon Base Plan Adds Two Rovers for Its Astronauts",
+            "source_link": "https://www.nytimes.com/2026/05/26/science/space/nasa-rovers-moon-base-contracts.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-26T22:59:05.917785Z",
+            "shown_at": [
+                "2026-05-26T22:59:06.771111Z"
+            ]
+        },
+        {
+            "id": "f50c4f329f7d4d167222af7e637a4f68",
+            "source": "spacenews",
+            "text": "Open Cosmos’ CEO on what it takes to bring IoT to space",
+            "source_link": "https://spacenews.com/open-cosmos-ceo-on-what-it-takes-to-bring-iot-to-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-26T22:24:17.333276Z",
+            "shown_at": [
+                "2026-05-26T23:34:25.848189Z"
+            ]
+        },
+        {
+            "id": "9711643cca095d638895bb36971c4417",
+            "source": "spacenews",
+            "text": "NASA selects four companies for initial moon base awards",
+            "source_link": "https://spacenews.com/nasa-selects-four-companies-for-initial-moon-base-awards/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-26T22:24:17.333216Z",
+            "shown_at": [
+                "2026-05-26T22:24:18.583418Z"
+            ]
+        },
+        {
+            "id": "aa6258b718ffe344dbddb22633656817",
+            "source": "breaking_defense",
+            "text": "SpaceX wins $2.29B to speed Space Force’s LEO communications ‘backbone’",
+            "source_link": "https://breakingdefense.com/2026/05/spacex-wins-2-29b-to-speed-space-forces-leo-communications-backbone/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-26T21:49:21.225229Z",
+            "shown_at": [
+                "2026-05-26T21:49:23.158799Z"
+            ]
+        },
+        {
+            "id": "b3dd980b89f99811a146bde756188e2c",
+            "source": "breaking_defense",
+            "text": "HASC $1.15T defense policy bill takes aim at industrial base challenges",
+            "source_link": "https://breakingdefense.com/2026/05/hasc-1-15t-defense-policy-bill-takes-aim-at-industrial-base-challenges/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-26T21:14:27.550577Z",
+            "shown_at": [
+                "2026-05-26T21:14:28.470657Z"
+            ]
+        },
+        {
+            "id": "53aa79c4792feda50b38ef70765da433",
+            "source": "nyt",
+            "text": "A New Era of Exploring the Universe in Radio",
+            "source_link": "https://www.nytimes.com/2026/05/22/science/astronomy-telescopes-universe-ngvla.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-26T18:19:26.856387Z",
+            "shown_at": [
+                "2026-05-26T18:19:28.937495Z"
+            ]
+        },
+        {
+            "id": "f02c4dba396ba198beeb721d13941145",
+            "source": "spacenews",
+            "text": "The surge in military budgets can help Europe’s entrepreneurial space sector — if spending speeds up",
+            "source_link": "https://spacenews.com/the-surge-in-military-budgets-can-help-europes-entrepreneurial-space-sector-if-spending-speeds-up/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-26T17:44:07.021101Z",
+            "shown_at": [
+                "2026-05-26T18:54:28.986645Z"
+            ]
+        },
+        {
+            "id": "b1c9df03e3d48a329a5304304fd80ae5",
+            "source": "spacenews",
+            "text": "Starcloud orders Starlink lasers for orbital data center network",
+            "source_link": "https://spacenews.com/starcloud-orders-starlink-lasers-for-orbital-data-center-network/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-26T17:44:07.021025Z",
+            "shown_at": [
+                "2026-05-26T17:44:11.755882Z"
+            ]
+        },
+        {
+            "id": "df9cd2bddb03cab7fbdac32b26bec124",
+            "source": "nyt",
+            "text": "SpaceX IPO Filing Reveals Favorable Terms for Elon Musk",
+            "source_link": "https://www.nytimes.com/2026/05/26/technology/spacex-elon-musk-pay-board-governance.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-26T17:09:10.089006Z",
+            "shown_at": [
+                "2026-05-26T17:09:11.163179Z"
+            ]
+        },
+        {
+            "id": "f52d8456ebf50d52ca857b00716338dd",
+            "source": "spacenews",
+            "text": "Voyager wins DARPA contract for solid rocket propellant technology",
+            "source_link": "https://spacenews.com/voyager-wins-darpa-contract-for-solid-rocket-propellant-technology/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-26T16:34:38.242486Z",
+            "shown_at": [
+                "2026-05-26T16:34:40.467894Z"
+            ]
+        },
+        {
+            "id": "ea60175371922f987ebe9db49eecfff6",
+            "source": "nyt",
+            "text": "SpaceX’s Unconventional Corporate Arrangements Favor Elon Musk",
+            "source_link": "https://www.nytimes.com/2026/05/26/technology/spacex-elon-musk-pay-board-governance.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-26T15:24:23.252857Z",
+            "shown_at": [
+                "2026-05-26T15:24:24.358112Z"
+            ]
+        },
+        {
+            "id": "e038f08dfdb047a1ff638ae95287dcb0",
+            "source": "nyt",
+            "text": "Where to See the Total Solar Eclipse on Aug. 12",
+            "source_link": "https://www.nytimes.com/2026/05/26/travel/solar-eclipse-spain-iceland-greenland.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-26T14:14:19.932555Z",
+            "shown_at": [
+                "2026-05-26T14:14:22.073780Z"
+            ]
+        },
+        {
+            "id": "17c862b03eec2acf0f0f9b3256f8cdae",
+            "source": "breaking_defense",
+            "text": "Despite ‘peak hype,’ orbital data centers for AI not yet ready for NatSec prime time",
+            "source_link": "https://breakingdefense.com/2026/05/despite-peak-hype-orbital-data-centers-for-ai-not-yet-ready-for-natsec-prime-time/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-26T13:39:13.150245Z",
+            "shown_at": [
+                "2026-05-26T13:39:14.527426Z"
+            ]
+        },
+        {
+            "id": "e27ae3c06bf79dd8e01e7fae4c0de355",
+            "source": "spacenews",
+            "text": "Chinese startup Mega Engine advances reusable staged-combustion rocket engine",
+            "source_link": "https://spacenews.com/chinese-startup-mega-engine-advances-reusable-staged-combustion-rocket-engine/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-26T13:04:44.854133Z",
+            "shown_at": [
+                "2026-05-26T14:49:31.007699Z"
+            ]
+        },
+        {
+            "id": "f0e9e1b9a59518218db1ede0be8ab080",
+            "source": "spacenews",
+            "text": "Regulations and access to capital continue to hinder Europe’s smallsat industry",
+            "source_link": "https://spacenews.com/regulations-and-access-to-capital-continue-to-hinder-europes-smallsat-industry/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-26T13:04:44.854077Z",
+            "shown_at": [
+                "2026-05-26T13:04:45.876598Z"
+            ]
+        },
+        {
+            "id": "cb800d756ab615f58aeac8979f0f0092",
+            "source": "spacenews",
+            "text": "Orbit Fab, Thales Alenia to study refueling for electric-propulsion satellites",
+            "source_link": "https://spacenews.com/orbit-fab-thales-alenia-to-study-refueling-for-electric-propulsion-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-26T08:29:04.065190Z",
+            "shown_at": [
+                "2026-05-26T08:29:04.666848Z"
+            ]
+        },
+        {
+            "id": "6e0f596a095d0044c5a0f15f69e8c368",
+            "source": "spacenews",
+            "text": "Exolaunch and SEOPS purchase Falcon 9 launches for dedicated rideshare missions",
+            "source_link": "https://spacenews.com/exolaunch-and-seops-purchase-falcon-9-launches-for-dedicated-rideshare-missions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-26T06:09:06.331594Z",
+            "shown_at": [
+                "2026-05-26T06:09:07.079981Z"
+            ]
+        },
         {
             "id": "7aaba1dd65290df440aae55c6aff4e14",
             "source": "spacenews",
@@ -7569,445 +7773,6 @@
             "shown_at": [
                 "2026-03-27T09:29:10.618949Z",
                 "2026-03-31T04:29:10.170421Z"
-            ]
-        },
-        {
-            "id": "5276bb43eaec0ce0d01e5635c03b7807",
-            "source": "spacenews",
-            "text": "ispace redesigns lunar lander, introduces lunar communications service",
-            "source_link": "https://spacenews.com/ispace-redesigns-lunar-lander-introduces-lunar-communications-service/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-27T08:54:34.982783Z",
-            "shown_at": [
-                "2026-03-27T08:54:35.751100Z",
-                "2026-03-30T07:09:12.690356Z",
-                "2026-03-31T17:59:10.044173Z"
-            ]
-        },
-        {
-            "id": "5dcf1ced7e528abf791e089a51e8509e",
-            "source": "spacenews",
-            "text": "Government use of commercial procurement models has limitations in space",
-            "source_link": "https://spacenews.com/government-use-of-commercial-procurement-models-has-limitations-in-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-26T21:49:26.155723Z",
-            "shown_at": [
-                "2026-03-26T22:24:26.671243Z",
-                "2026-03-27T06:34:29.676265Z",
-                "2026-03-28T02:14:15.495584Z"
-            ]
-        },
-        {
-            "id": "d3b5e57e0e419434d280a28dbb939559",
-            "source": "spacenews",
-            "text": "Space Command begins phased move to Alabama ",
-            "source_link": "https://spacenews.com/space-command-begins-phased-move-to-alabama/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-26T21:49:26.155645Z",
-            "shown_at": [
-                "2026-03-26T21:49:27.296387Z",
-                "2026-03-27T07:44:12.217231Z",
-                "2026-03-30T23:44:36.699200Z"
-            ]
-        },
-        {
-            "id": "56adcc7028fa3f0dba9077447301a159",
-            "source": "spacenews",
-            "text": "China sends radar mapping and GNSS augmentation sats into orbit with pair of launches",
-            "source_link": "https://spacenews.com/china-sends-radar-mapping-and-gnss-augmentation-sats-into-orbit-with-pair-of-launches/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-26T20:04:53.061570Z",
-            "shown_at": [
-                "2026-03-26T21:14:26.055041Z"
-            ]
-        },
-        {
-            "id": "822f2085f57761997f780584fbd48254",
-            "source": "spacenews",
-            "text": "Xona raises $170 million for satellite navigation network",
-            "source_link": "https://spacenews.com/xona-raises-170-million-for-satellite-navigation-network/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-26T20:04:53.061519Z",
-            "shown_at": [
-                "2026-03-26T20:39:22.672316Z"
-            ]
-        },
-        {
-            "id": "d7f59eafeeb8b8fb7d32376453b6ea8d",
-            "source": "spacenews",
-            "text": "Turning growth into profits remains a challenge as space demand grows",
-            "source_link": "https://spacenews.com/turning-growth-into-profits-remains-a-challenge-as-space-demand-grows/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-26T20:04:53.061455Z",
-            "shown_at": [
-                "2026-03-26T20:04:54.255028Z",
-                "2026-03-30T03:34:39.898269Z",
-                "2026-03-31T13:24:45.453215Z"
-            ]
-        },
-        {
-            "id": "24afb90206008123a5880d46054af475",
-            "source": "spacenews",
-            "text": "Hughes targets sovereign satcom demand with network control software",
-            "source_link": "https://spacenews.com/hughes-targets-sovereign-satcom-demand-with-network-control-software/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-26T16:20:00.770021Z",
-            "shown_at": [
-                "2026-03-26T19:29:06.272161Z",
-                "2026-03-31T15:34:24.481219Z"
-            ]
-        },
-        {
-            "id": "ab0f422167098b9d17a2b85d3e695245",
-            "source": "spacenews",
-            "text": "HTS Market Set to Reach $76B as Industry Enters Terabit Era",
-            "source_link": "https://spacenews.com/hts-market-set-to-reach-76b-as-industry-enters-terabit-era/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-26T16:20:00.769977Z",
-            "shown_at": [
-                "2026-03-26T18:54:17.039894Z",
-                "2026-03-31T21:29:13.221083Z"
-            ]
-        },
-        {
-            "id": "b655ae1b8d1fcd1795dd3ec3cf962dcf",
-            "source": "spacenews",
-            "text": "Satlantis earnings grow alongside demand for Earth-observation satellites",
-            "source_link": "https://spacenews.com/satlantis-earnings-grow-alongside-demand-for-earth-observation-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-26T16:20:00.769922Z",
-            "shown_at": [
-                "2026-03-26T16:20:01.811283Z",
-                "2026-03-27T16:29:16.816377Z"
-            ]
-        },
-        {
-            "id": "b8f3b75a03e8e4a5cc8520bdad90b5f9",
-            "source": "spacenews",
-            "text": "Golden Dome and the velocity race: Why ground-based optics are the key to mission persistence",
-            "source_link": "https://spacenews.com/golden-dome-and-the-velocity-race-why-ground-based-optics-are-the-key-to-mission-persistence/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-26T13:49:17.640695Z",
-            "shown_at": [
-                "2026-03-26T13:49:18.666158Z",
-                "2026-03-27T03:04:44.100458Z",
-                "2026-03-31T00:59:15.004988Z"
-            ]
-        },
-        {
-            "id": "8374c198d684d541cb527d477413e686",
-            "source": "spacenews",
-            "text": "NASA to test nuclear electric propulsion with 2028 mission to Mars",
-            "source_link": "https://spacenews.com/nasa-to-test-nuclear-electric-propulsion-with-2028-mission-to-mars/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-26T12:04:37.517112Z",
-            "shown_at": [
-                "2026-03-26T12:04:38.618697Z",
-                "2026-03-28T03:24:12.280519Z",
-                "2026-03-28T17:24:30.228216Z",
-                "2026-03-29T12:24:13.442172Z"
-            ]
-        },
-        {
-            "id": "26c9329a1d16d38a8d43db6eda1159a2",
-            "source": "spacenews",
-            "text": "Space Force weighs launch alternatives as Vulcan faces potential months-long grounding",
-            "source_link": "https://spacenews.com/space-force-weighs-launch-alternatives-as-vulcan-faces-potential-months-long-grounding/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-25T23:09:27.626345Z",
-            "shown_at": [
-                "2026-03-25T23:09:28.857405Z",
-                "2026-03-29T18:49:10.579649Z"
-            ]
-        },
-        {
-            "id": "4491980e0801ee3dcb74da413831a425",
-            "source": "spacenews",
-            "text": "Office of Space Commerce releases mission authorization proposal",
-            "source_link": "https://spacenews.com/office-of-space-commerce-releases-mission-authorization-proposal/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-25T21:24:08.531784Z",
-            "shown_at": [
-                "2026-03-25T21:24:09.632379Z",
-                "2026-03-26T07:19:53.611523Z",
-                "2026-03-27T05:24:26.501354Z",
-                "2026-03-31T19:09:27.419567Z",
-                "2026-03-31T20:19:23.712683Z"
-            ]
-        },
-        {
-            "id": "244d3214d062fa6f39d37e34a3f23887",
-            "source": "spacenews",
-            "text": "Terran Orbital Introduces New Star Tracker Product Line at SATSHOW 2026",
-            "source_link": "https://spacenews.com/terran-orbital-introduces-new-star-tracker-product-line-at-satshow-2026/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-25T19:04:46.630953Z",
-            "shown_at": [
-                "2026-03-25T19:04:47.934619Z",
-                "2026-03-26T03:49:31.971484Z",
-                "2026-03-26T23:34:36.669703Z",
-                "2026-03-28T00:24:24.185404Z",
-                "2026-03-28T16:14:25.294220Z",
-                "2026-03-30T01:14:32.356373Z"
-            ]
-        },
-        {
-            "id": "28cd436f8becdd163554aeec40ae12c7",
-            "source": "spacenews",
-            "text": "Sift raises $42 million in Series B round",
-            "source_link": "https://spacenews.com/sift-raises-42-million-in-series-b-round/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-25T15:34:25.422357Z",
-            "shown_at": [
-                "2026-03-25T16:09:52.001824Z",
-                "2026-03-28T22:24:26.439991Z",
-                "2026-03-29T06:34:47.712518Z",
-                "2026-04-01T12:04:45.335832Z"
-            ]
-        },
-        {
-            "id": "cbce7a5485a7e4ccfba772fdf2aa2212",
-            "source": "spacenews",
-            "text": "Telesat eyes defense role with laser comms test ahead of LEO debut",
-            "source_link": "https://spacenews.com/telesat-eyes-defense-role-with-laser-comms-test-ahead-of-leo-debut/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-25T15:34:25.422281Z",
-            "shown_at": [
-                "2026-03-25T15:34:26.457562Z"
-            ]
-        },
-        {
-            "id": "76d2621683dc526bfce0c958b92d48bf",
-            "source": "spacenews",
-            "text": "Airbase raises $5 million to tackle spectrum bottleneck as FCC eyes new space uses",
-            "source_link": "https://spacenews.com/airbase-raises-5-million-to-tackle-spectrum-bottleneck-as-fcc-eyes-new-space-uses/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-25T14:19:21.194307Z",
-            "shown_at": [
-                "2026-03-25T14:54:31.182923Z",
-                "2026-03-31T03:19:22.680407Z",
-                "2026-03-31T07:59:07.624453Z"
-            ]
-        },
-        {
-            "id": "6e0f596a095d0044c5a0f15f69e8c368",
-            "source": "spacenews",
-            "text": "Exolaunch and SEOPS purchase Falcon 9 launches for dedicated rideshare missions",
-            "source_link": "https://spacenews.com/exolaunch-and-seops-purchase-falcon-9-launches-for-dedicated-rideshare-missions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-26T06:09:06.331594Z",
-            "shown_at": [
-                "2026-05-26T06:09:07.079981Z"
-            ]
-        },
-        {
-            "id": "cb800d756ab615f58aeac8979f0f0092",
-            "source": "spacenews",
-            "text": "Orbit Fab, Thales Alenia to study refueling for electric-propulsion satellites",
-            "source_link": "https://spacenews.com/orbit-fab-thales-alenia-to-study-refueling-for-electric-propulsion-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-26T08:29:04.065190Z",
-            "shown_at": [
-                "2026-05-26T08:29:04.666848Z"
-            ]
-        },
-        {
-            "id": "f0e9e1b9a59518218db1ede0be8ab080",
-            "source": "spacenews",
-            "text": "Regulations and access to capital continue to hinder Europe’s smallsat industry",
-            "source_link": "https://spacenews.com/regulations-and-access-to-capital-continue-to-hinder-europes-smallsat-industry/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-26T13:04:44.854077Z",
-            "shown_at": [
-                "2026-05-26T13:04:45.876598Z"
-            ]
-        },
-        {
-            "id": "e27ae3c06bf79dd8e01e7fae4c0de355",
-            "source": "spacenews",
-            "text": "Chinese startup Mega Engine advances reusable staged-combustion rocket engine",
-            "source_link": "https://spacenews.com/chinese-startup-mega-engine-advances-reusable-staged-combustion-rocket-engine/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-26T13:04:44.854133Z",
-            "shown_at": [
-                "2026-05-26T14:49:31.007699Z"
-            ]
-        },
-        {
-            "id": "17c862b03eec2acf0f0f9b3256f8cdae",
-            "source": "breaking_defense",
-            "text": "Despite ‘peak hype,’ orbital data centers for AI not yet ready for NatSec prime time",
-            "source_link": "https://breakingdefense.com/2026/05/despite-peak-hype-orbital-data-centers-for-ai-not-yet-ready-for-natsec-prime-time/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-26T13:39:13.150245Z",
-            "shown_at": [
-                "2026-05-26T13:39:14.527426Z"
-            ]
-        },
-        {
-            "id": "e038f08dfdb047a1ff638ae95287dcb0",
-            "source": "nyt",
-            "text": "Where to See the Total Solar Eclipse on Aug. 12",
-            "source_link": "https://www.nytimes.com/2026/05/26/travel/solar-eclipse-spain-iceland-greenland.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-26T14:14:19.932555Z",
-            "shown_at": [
-                "2026-05-26T14:14:22.073780Z"
-            ]
-        },
-        {
-            "id": "ea60175371922f987ebe9db49eecfff6",
-            "source": "nyt",
-            "text": "SpaceX’s Unconventional Corporate Arrangements Favor Elon Musk",
-            "source_link": "https://www.nytimes.com/2026/05/26/technology/spacex-elon-musk-pay-board-governance.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-26T15:24:23.252857Z",
-            "shown_at": [
-                "2026-05-26T15:24:24.358112Z"
-            ]
-        },
-        {
-            "id": "f52d8456ebf50d52ca857b00716338dd",
-            "source": "spacenews",
-            "text": "Voyager wins DARPA contract for solid rocket propellant technology",
-            "source_link": "https://spacenews.com/voyager-wins-darpa-contract-for-solid-rocket-propellant-technology/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-26T16:34:38.242486Z",
-            "shown_at": [
-                "2026-05-26T16:34:40.467894Z"
-            ]
-        },
-        {
-            "id": "df9cd2bddb03cab7fbdac32b26bec124",
-            "source": "nyt",
-            "text": "SpaceX IPO Filing Reveals Favorable Terms for Elon Musk",
-            "source_link": "https://www.nytimes.com/2026/05/26/technology/spacex-elon-musk-pay-board-governance.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-26T17:09:10.089006Z",
-            "shown_at": [
-                "2026-05-26T17:09:11.163179Z"
-            ]
-        },
-        {
-            "id": "b1c9df03e3d48a329a5304304fd80ae5",
-            "source": "spacenews",
-            "text": "Starcloud orders Starlink lasers for orbital data center network",
-            "source_link": "https://spacenews.com/starcloud-orders-starlink-lasers-for-orbital-data-center-network/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-26T17:44:07.021025Z",
-            "shown_at": [
-                "2026-05-26T17:44:11.755882Z"
-            ]
-        },
-        {
-            "id": "f02c4dba396ba198beeb721d13941145",
-            "source": "spacenews",
-            "text": "The surge in military budgets can help Europe’s entrepreneurial space sector — if spending speeds up",
-            "source_link": "https://spacenews.com/the-surge-in-military-budgets-can-help-europes-entrepreneurial-space-sector-if-spending-speeds-up/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-26T17:44:07.021101Z",
-            "shown_at": [
-                "2026-05-26T18:54:28.986645Z"
-            ]
-        },
-        {
-            "id": "53aa79c4792feda50b38ef70765da433",
-            "source": "nyt",
-            "text": "A New Era of Exploring the Universe in Radio",
-            "source_link": "https://www.nytimes.com/2026/05/22/science/astronomy-telescopes-universe-ngvla.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-26T18:19:26.856387Z",
-            "shown_at": [
-                "2026-05-26T18:19:28.937495Z"
-            ]
-        },
-        {
-            "id": "b3dd980b89f99811a146bde756188e2c",
-            "source": "breaking_defense",
-            "text": "HASC $1.15T defense policy bill takes aim at industrial base challenges",
-            "source_link": "https://breakingdefense.com/2026/05/hasc-1-15t-defense-policy-bill-takes-aim-at-industrial-base-challenges/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-26T21:14:27.550577Z",
-            "shown_at": [
-                "2026-05-26T21:14:28.470657Z"
-            ]
-        },
-        {
-            "id": "aa6258b718ffe344dbddb22633656817",
-            "source": "breaking_defense",
-            "text": "SpaceX wins $2.29B to speed Space Force’s LEO communications ‘backbone’",
-            "source_link": "https://breakingdefense.com/2026/05/spacex-wins-2-29b-to-speed-space-forces-leo-communications-backbone/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-26T21:49:21.225229Z",
-            "shown_at": [
-                "2026-05-26T21:49:23.158799Z"
-            ]
-        },
-        {
-            "id": "9711643cca095d638895bb36971c4417",
-            "source": "spacenews",
-            "text": "NASA selects four companies for initial moon base awards",
-            "source_link": "https://spacenews.com/nasa-selects-four-companies-for-initial-moon-base-awards/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-26T22:24:17.333216Z",
-            "shown_at": [
-                "2026-05-26T22:24:18.583418Z"
-            ]
-        },
-        {
-            "id": "f50c4f329f7d4d167222af7e637a4f68",
-            "source": "spacenews",
-            "text": "Open Cosmos’ CEO on what it takes to bring IoT to space",
-            "source_link": "https://spacenews.com/open-cosmos-ceo-on-what-it-takes-to-bring-iot-to-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-26T22:24:17.333276Z",
-            "shown_at": [
-                "2026-05-26T23:34:25.848189Z"
-            ]
-        },
-        {
-            "id": "fcbd5967fc3a1863f0794c3f2678ea62",
-            "source": "nyt",
-            "text": "NASA’s Moon Base Plan Adds Two Rovers for Its Astronauts",
-            "source_link": "https://www.nytimes.com/2026/05/26/science/space/nasa-rovers-moon-base-contracts.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-26T22:59:05.917785Z",
-            "shown_at": [
-                "2026-05-26T22:59:06.771111Z"
             ]
         }
     ]
