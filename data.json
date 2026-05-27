@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-27T00:04:46.756506+00:00",
-    "trigger_count": 6,
-    "current_item_id": "bbbfe661371b6494154999829f2e99d8",
+    "trigger_count": 0,
+    "current_item_id": "5e33c88febb5d69c48f421f7827f49b7",
     "data": [
         {
             "id": "fcbd5967fc3a1863f0794c3f2678ea62",
@@ -7919,9 +7919,12 @@
             "source": "spacenews",
             "text": "Starcloud’s path to 88,000 computing satellites",
             "source_link": "https://spacenews.com/starclouds-path-to-88000-computing-satellites/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-05-27T15:54:24.355125Z"
+            "fetched_datetime": "2026-05-27T15:54:24.355125Z",
+            "shown_at": [
+                "2026-05-27T18:14:11.224179Z"
+            ]
         },
         {
             "id": "0814921bfafbabee2aabd4da692c0e87",
