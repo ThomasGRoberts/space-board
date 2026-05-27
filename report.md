@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 4 | 6 | 12 | 24 |
-| spacenews | 16 | 20 | 17 | 31 |
+| spacenews | 16 | 20 | 18 | 32 |
 | breaking_defense | 2 | 3 | 10 | 21 |
 
 # Shown Order
@@ -2305,3 +2305,4 @@
 - **May 27, 02:44 PM** - Artemis 2 captured the world’s attention. It should change how we think about supply chains. (spacenews)
 - **May 27, 03:19 PM** - A New Era of Exploring the Universe in Radio (nyt)
 - **May 27, 03:54 PM** - Kongsberg NanoAvionics sets sights on building and supporting sovereign constellations (spacenews)
+- **May 27, 04:29 PM** - Former Ukraine official calls for stricter restrictions on Russian use of Starlink (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-27T00:04:46.756506+00:00",
-    "trigger_count": 6,
-    "current_item_id": "96672876ede284d1b686719904ea1a82",
+    "trigger_count": 0,
+    "current_item_id": "13585889272dfcd1efef94509e3da129",
     "data": [
         {
             "id": "fcbd5967fc3a1863f0794c3f2678ea62",
@@ -7883,9 +7883,12 @@
             "source": "spacenews",
             "text": "Former Ukraine official calls for stricter restrictions on Russian use of Starlink",
             "source_link": "https://spacenews.com/former-ukraine-official-calls-for-stricter-restrictions-on-russian-use-of-starlink/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-05-27T15:54:24.354996Z"
+            "fetched_datetime": "2026-05-27T15:54:24.354996Z",
+            "shown_at": [
+                "2026-05-27T16:29:39.596356Z"
+            ]
         },
         {
             "id": "a82c53d9137f929deb91989dff83e8b2",
