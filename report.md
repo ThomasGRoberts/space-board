@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 6 | 9 | 21 |
+| nyt | 2 | 6 | 10 | 22 |
 | spacenews | 16 | 23 | 21 | 36 |
 | breaking_defense | 2 | 4 | 9 | 19 |
 
@@ -2314,3 +2314,4 @@
 - **May 27, 07:59 PM** - European space industry warns EU Space Act could slow competitiveness (spacenews)
 - **May 27, 08:34 PM** - Dept. of Air Force ‘still working’ to sort space programs into acquisition portfolios: Ainsworth (breaking_defense)
 - **May 27, 09:09 PM** - As geopolitics reshape space, SpinLaunch sees an opening (spacenews)
+- **May 27, 09:49 PM** - A New Era of Exploring the Universe in Radio (nyt)
