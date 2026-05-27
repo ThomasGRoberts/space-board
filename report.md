@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 6 | 10 | 22 |
-| spacenews | 16 | 23 | 20 | 35 |
+| spacenews | 16 | 23 | 21 | 36 |
 | breaking_defense | 2 | 3 | 9 | 19 |
 
 # Shown Order
@@ -2311,3 +2311,4 @@
 - **May 27, 06:14 PM** - Starcloud’s path to 88,000 computing satellites (spacenews)
 - **May 27, 06:49 PM** - Spire expands European manufacturing with Munich plant (spacenews)
 - **May 27, 07:23 PM** - Mars to Titan: the next rallying call? (spacenews)
+- **May 27, 07:59 PM** - European space industry warns EU Space Act could slow competitiveness (spacenews)
