@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 6 | 12 | 25 |
-| spacenews | 8 | 10 | 14 | 29 |
+| spacenews | 8 | 10 | 15 | 30 |
 | breaking_defense | 3 | 3 | 11 | 23 |
 
 # Shown Order
@@ -2290,3 +2290,4 @@
 - **May 27, 04:54 AM** - NASA to add missions to SpaceX commercial crew contract (spacenews)
 - **May 27, 05:29 AM** - Boots on the moon needed to beat ‘belligerent’ China: Mitchell Institute (breaking_defense)
 - **May 27, 06:04 AM** - Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO (nyt)
+- **May 27, 06:44 AM** - Isaacman expects Chinese crewed mission around the moon in 2027 (spacenews)
