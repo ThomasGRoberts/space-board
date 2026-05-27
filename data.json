@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-27T00:04:46.756506+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d1c2aec367b06bdd645fecdfeff81684",
+    "trigger_count": 0,
+    "current_item_id": "0445021cd205b7e7f4e2b63e61176855",
     "data": [
         {
             "id": "fcbd5967fc3a1863f0794c3f2678ea62",
@@ -7834,9 +7834,12 @@
             "source": "spacenews",
             "text": "European space industry watching SpaceX IPO plans",
             "source_link": "https://spacenews.com/european-space-industry-watching-spacex-ipo-plans/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-05-27T12:59:51.054826Z"
+            "fetched_datetime": "2026-05-27T12:59:51.054826Z",
+            "shown_at": [
+                "2026-05-27T13:34:40.421265Z"
+            ]
         }
     ]
 }
