@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 5 | 5 | 11 | 24 |
-| spacenews | 8 | 11 | 14 | 29 |
+| spacenews | 8 | 11 | 15 | 30 |
 | breaking_defense | 3 | 3 | 11 | 24 |
 
 # Shown Order
@@ -2295,3 +2295,4 @@
 - **May 27, 07:59 AM** - Nations opt for a mix of sovereign, bilateral, federated and commercial space capabilities (spacenews)
 - **May 27, 08:34 AM** - SpaceX’s Unconventional Corporate Arrangements Favor Elon Musk (nyt)
 - **May 27, 09:15 AM** - Despite ‘peak hype,’ orbital data centers for AI not yet ready for NatSec prime time (breaking_defense)
+- **May 27, 09:54 AM** - NASA unveils sweeping reorganization (spacenews)
