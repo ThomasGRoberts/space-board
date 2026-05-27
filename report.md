@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 6 | 9 | 21 |
-| spacenews | 14 | 23 | 21 | 36 |
+| nyt | 1 | 6 | 10 | 22 |
+| spacenews | 14 | 23 | 20 | 36 |
 | breaking_defense | 1 | 4 | 9 | 19 |
 
 # Shown Order
@@ -2317,3 +2317,4 @@
 - **May 27, 09:49 PM** - A New Era of Exploring the Universe in Radio (nyt)
 - **May 27, 10:29 PM** - HASC $1.15T defense policy bill takes aim at industrial base challenges (breaking_defense)
 - **May 27, 11:04 PM** - Voyager wins DARPA contract for solid rocket propellant technology (spacenews)
+- **May 27, 11:38 PM** - A Fiery Visitor From Space Photo-Bombs an Erupting Volcano (nyt)
