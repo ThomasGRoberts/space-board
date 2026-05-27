@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-27T00:04:46.756506+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b3dd980b89f99811a146bde756188e2c",
+    "trigger_count": 0,
+    "current_item_id": "77d0632b403eed41854e7ef664f1530b",
     "data": [
         {
             "id": "fcbd5967fc3a1863f0794c3f2678ea62",
@@ -7786,6 +7786,18 @@
             "shown_at": [
                 "2026-03-27T09:29:10.618949Z",
                 "2026-03-31T04:29:10.170421Z"
+            ]
+        },
+        {
+            "id": "77d0632b403eed41854e7ef664f1530b",
+            "source": "spacenews",
+            "text": "Nations opt for a mix of sovereign, bilateral, federated and commercial space capabilities",
+            "source_link": "https://spacenews.com/nations-opt-for-a-mix-of-sovereign-bilateral-federated-and-commercial-space-capabilities/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-27T07:59:17.530458Z",
+            "shown_at": [
+                "2026-05-27T07:59:18.382214Z"
             ]
         }
     ]
