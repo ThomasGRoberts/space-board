@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-28T00:04:26.692917+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6c811402e9bd30ba1bd0fa7f94981dbd",
+    "trigger_count": 0,
+    "current_item_id": "9b7540bf3b99c8868bc5deaa1705448a",
     "data": [
         {
             "id": "97a86e9ff8f96eca3f9016f29579a42d",
@@ -7775,6 +7775,18 @@
             "fetched_datetime": "2026-05-28T06:50:33.785254Z",
             "shown_at": [
                 "2026-05-28T06:50:34.320709Z"
+            ]
+        },
+        {
+            "id": "9b7540bf3b99c8868bc5deaa1705448a",
+            "source": "spacenews",
+            "text": "Europe’s biggest space opportunity comes after launch",
+            "source_link": "https://spacenews.com/europes-biggest-space-opportunity-comes-after-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-28T10:29:18.237957Z",
+            "shown_at": [
+                "2026-05-28T10:29:20.869457Z"
             ]
         }
     ]

@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 4 | 9 | 20 |
-| spacenews | 15 | 23 | 20 | 34 |
+| spacenews | 16 | 24 | 21 | 35 |
 | nyt | 1 | 6 | 10 | 21 |
 
 # Shown Order
@@ -2259,3 +2259,4 @@
 - **May 28, 08:38 AM** - SpaceX IPO filing casts Starlink Mobile as future wireless challenger (spacenews)
 - **May 28, 09:19 AM** - Where to See the Total Solar Eclipse on Aug. 12 (nyt)
 - **May 28, 09:54 AM** - How drones can navigate without GPS  (breaking_defense)
+- **May 28, 10:29 AM** - Europe’s biggest space opportunity comes after launch (spacenews)
