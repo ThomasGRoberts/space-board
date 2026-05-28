@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-28T00:04:26.692917+00:00",
-    "trigger_count": 6,
-    "current_item_id": "182b5cd85901767e236764b36ffdbc25",
+    "trigger_count": 0,
+    "current_item_id": "4bc76eb61c4b6f03a18486c1bd2ddece",
     "data": [
         {
             "id": "97a86e9ff8f96eca3f9016f29579a42d",
@@ -7791,6 +7791,18 @@
             "fetched_datetime": "2026-05-28T10:29:18.237957Z",
             "shown_at": [
                 "2026-05-28T10:29:20.869457Z"
+            ]
+        },
+        {
+            "id": "4bc76eb61c4b6f03a18486c1bd2ddece",
+            "source": "spacenews",
+            "text": "The Propulsion Imperative Behind Golden Dome",
+            "source_link": "https://spacenews.com/the-propulsion-imperative-behind-golden-dome/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-28T13:29:11.178634Z",
+            "shown_at": [
+                "2026-05-28T13:29:12.862938Z"
             ]
         }
     ]

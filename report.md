@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 4 | 9 | 21 |
-| spacenews | 14 | 22 | 21 | 35 |
+| spacenews | 15 | 23 | 22 | 36 |
 | nyt | 0 | 6 | 10 | 23 |
 
 # Shown Order
@@ -2264,3 +2264,4 @@
 - **May 28, 11:39 AM** - Boots on the moon needed to beat ‘belligerent’ China: Mitchell Institute (breaking_defense)
 - **May 28, 12:14 PM** - NASA unveils sweeping reorganization (spacenews)
 - **May 28, 12:49 PM** - A Fiery Visitor From Space Photo-Bombs an Erupting Volcano (nyt)
+- **May 28, 01:29 PM** - The Propulsion Imperative Behind Golden Dome (spacenews)
