@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 4 | 9 | 19 |
-| spacenews | 14 | 23 | 21 | 36 |
+| spacenews | 15 | 24 | 21 | 37 |
 | nyt | 1 | 6 | 9 | 21 |
 
 # Shown Order
@@ -2250,3 +2250,4 @@
 - **May 28, 03:14 AM** - SpaceX Scrubs Launch Attempt of Updated Starship Rocket (nyt)
 - **May 28, 03:49 AM** - Despite ‘peak hype,’ orbital data centers for AI not yet ready for NatSec prime time (breaking_defense)
 - **May 28, 04:24 AM** - Schaeffler AG joins forces with Spire to build sovereign European satellites (spacenews)
+- **May 28, 04:59 AM** - FAA requires mishap investigation into latest Starship launch (spacenews)
