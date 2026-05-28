@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 4 | 9 | 20 |
-| spacenews | 14 | 23 | 20 | 35 |
-| nyt | 1 | 6 | 10 | 21 |
+| breaking_defense | 1 | 4 | 9 | 19 |
+| spacenews | 14 | 23 | 21 | 36 |
+| nyt | 1 | 6 | 9 | 21 |
 
 # Shown Order
 
@@ -2249,3 +2249,4 @@
 - **May 28, 02:39 AM** - Orbit Fab, Thales Alenia to study refueling for electric-propulsion satellites (spacenews)
 - **May 28, 03:14 AM** - SpaceX Scrubs Launch Attempt of Updated Starship Rocket (nyt)
 - **May 28, 03:49 AM** - Despite ‘peak hype,’ orbital data centers for AI not yet ready for NatSec prime time (breaking_defense)
+- **May 28, 04:24 AM** - Schaeffler AG joins forces with Spire to build sovereign European satellites (spacenews)
