@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 4 | 9 | 20 |
-| spacenews | 14 | 23 | 20 | 35 |
-| nyt | 1 | 6 | 10 | 21 |
+| spacenews | 14 | 23 | 21 | 36 |
+| nyt | 1 | 6 | 9 | 21 |
 
 # Shown Order
 
@@ -2246,3 +2246,4 @@
 - **May 28, 12:49 AM** - Exolaunch and SEOPS purchase Falcon 9 launches for dedicated rideshare missions (spacenews)
 - **May 28, 01:29 AM** - SpaceX Scrubs Launch Attempt of Updated Starship Rocket (nyt)
 - **May 28, 02:04 AM** - SpaceX wins $2.29B to speed Space Force’s LEO communications ‘backbone’ (breaking_defense)
+- **May 28, 02:39 AM** - Orbit Fab, Thales Alenia to study refueling for electric-propulsion satellites (spacenews)
