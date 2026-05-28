@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 3 | 11 | 21 |
+| breaking_defense | 1 | 3 | 12 | 22 |
 | spacenews | 10 | 23 | 17 | 36 |
 | nyt | 0 | 3 | 11 | 22 |
 
@@ -2272,3 +2272,4 @@
 - **May 28, 04:34 PM** - Revolv Space enters in-orbit servicing market with Infinite Orbits deal (spacenews)
 - **May 28, 05:09 PM** - In ‘For All Mankind,’ America Wins by Losing (nyt)
 - **May 28, 05:44 PM** - Setting up a permanent lunar presence needs investment in biology (spacenews)
+- **May 28, 06:19 PM** - Dept. of Air Force ‘still working’ to sort space programs into acquisition portfolios: Ainsworth (breaking_defense)
