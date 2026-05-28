@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 4 | 9 | 21 |
 | spacenews | 16 | 24 | 22 | 36 |
-| nyt | 0 | 6 | 9 | 22 |
+| nyt | 0 | 6 | 10 | 23 |
 
 # Shown Order
 
@@ -2263,3 +2263,4 @@
 - **May 28, 11:04 AM** - A Fiery Visitor From Space Photo-Bombs an Erupting Volcano (nyt)
 - **May 28, 11:39 AM** - Boots on the moon needed to beat ‘belligerent’ China: Mitchell Institute (breaking_defense)
 - **May 28, 12:14 PM** - NASA unveils sweeping reorganization (spacenews)
+- **May 28, 12:49 PM** - A Fiery Visitor From Space Photo-Bombs an Erupting Volcano (nyt)
