@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 11 | 21 |
-| spacenews | 8 | 24 | 19 | 36 |
+| spacenews | 9 | 25 | 19 | 37 |
 | nyt | 0 | 4 | 10 | 22 |
 
 # Shown Order
@@ -2269,3 +2269,4 @@
 - **May 28, 02:44 PM** - In ‘For All Mankind,’ America Wins by Losing (nyt)
 - **May 28, 03:24 PM** - Germany pushes European military space command initiative (spacenews)
 - **May 28, 03:59 PM** - Despite ‘peak hype,’ orbital data centers for AI not yet ready for NatSec prime time (breaking_defense)
+- **May 28, 04:34 PM** - Revolv Space enters in-orbit servicing market with Infinite Orbits deal (spacenews)

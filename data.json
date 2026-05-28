@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-28T00:04:26.692917+00:00",
-    "trigger_count": 6,
-    "current_item_id": "17c862b03eec2acf0f0f9b3256f8cdae",
+    "trigger_count": 0,
+    "current_item_id": "61d94d22aaf1577c59a53579a1ddd303",
     "data": [
         {
             "id": "97a86e9ff8f96eca3f9016f29579a42d",
@@ -7818,6 +7818,18 @@
             "fetched_datetime": "2026-05-28T15:24:20.000881Z",
             "shown_at": [
                 "2026-05-28T15:24:21.794305Z"
+            ]
+        },
+        {
+            "id": "61d94d22aaf1577c59a53579a1ddd303",
+            "source": "spacenews",
+            "text": "Revolv Space enters in-orbit servicing market with Infinite Orbits deal",
+            "source_link": "https://spacenews.com/revolv-space-enters-in-orbit-servicing-market-with-infinite-orbits-deal/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-28T16:34:29.684812Z",
+            "shown_at": [
+                "2026-05-28T16:34:32.186306Z"
             ]
         }
     ]
