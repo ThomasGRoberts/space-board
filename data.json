@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-28T00:04:26.692917+00:00",
-    "trigger_count": 6,
-    "current_item_id": "aa6258b718ffe344dbddb22633656817",
+    "trigger_count": 0,
+    "current_item_id": "60247f7a5f0b50a572f1829044b3258a",
     "data": [
         {
             "id": "97a86e9ff8f96eca3f9016f29579a42d",
@@ -7758,6 +7758,18 @@
             "fetched_datetime": "2026-05-28T04:59:05.811032Z",
             "shown_at": [
                 "2026-05-28T04:59:06.498162Z"
+            ]
+        },
+        {
+            "id": "60247f7a5f0b50a572f1829044b3258a",
+            "source": "spacenews",
+            "text": "Virgin Galactic returns Unity to flight to prepare for next-generation spaceplane",
+            "source_link": "https://spacenews.com/virgin-galactic-returns-unity-to-flight-to-prepare-for-next-generation-spaceplane/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-28T06:50:33.785254Z",
+            "shown_at": [
+                "2026-05-28T06:50:34.320709Z"
             ]
         }
     ]

@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 4 | 9 | 20 |
-| spacenews | 15 | 23 | 21 | 35 |
+| breaking_defense | 1 | 4 | 9 | 19 |
+| spacenews | 16 | 24 | 21 | 36 |
 | nyt | 1 | 6 | 9 | 21 |
 
 # Shown Order
@@ -2253,3 +2253,4 @@
 - **May 28, 04:59 AM** - FAA requires mishap investigation into latest Starship launch (spacenews)
 - **May 28, 05:39 AM** - NASA’s Moon Base Plan Adds Two Rovers for Its Astronauts (nyt)
 - **May 28, 06:14 AM** - SpaceX wins $2.29B to speed Space Force’s LEO communications ‘backbone’ (breaking_defense)
+- **May 28, 06:50 AM** - Virgin Galactic returns Unity to flight to prepare for next-generation spaceplane (spacenews)
