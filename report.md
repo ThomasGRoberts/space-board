@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 3 | 13 | 22 |
-| spacenews | 7 | 23 | 15 | 36 |
+| breaking_defense | 1 | 4 | 13 | 23 |
+| spacenews | 7 | 23 | 15 | 35 |
 | nyt | 0 | 2 | 12 | 21 |
 
 # Shown Order
@@ -2276,3 +2276,4 @@
 - **May 28, 06:54 PM** - A New Era of Exploring the Universe in Radio (nyt)
 - **May 28, 07:29 PM** - Nations opt for a mix of sovereign, bilateral, federated and commercial space capabilities (spacenews)
 - **May 28, 08:04 PM** - How drones can navigate without GPS  (breaking_defense)
+- **May 28, 08:39 PM** - Epic Fury highlighted Space Force needs for distributed ops, EW sites (breaking_defense)

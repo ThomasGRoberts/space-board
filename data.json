@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-28T00:04:26.692917+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6c811402e9bd30ba1bd0fa7f94981dbd",
+    "trigger_count": 0,
+    "current_item_id": "e4d13f9e5940e7db13b5f591e75a1b65",
     "data": [
         {
             "id": "97a86e9ff8f96eca3f9016f29579a42d",
@@ -7847,6 +7847,18 @@
             "fetched_datetime": "2026-05-28T17:44:25.106809Z",
             "shown_at": [
                 "2026-05-28T17:44:26.164529Z"
+            ]
+        },
+        {
+            "id": "e4d13f9e5940e7db13b5f591e75a1b65",
+            "source": "breaking_defense",
+            "text": "Epic Fury highlighted Space Force needs for distributed ops, EW sites",
+            "source_link": "https://breakingdefense.com/2026/05/epic-fury-highlighted-space-force-needs-for-distributed-ops-ew-sites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-28T20:39:10.271486Z",
+            "shown_at": [
+                "2026-05-28T20:39:21.305957Z"
             ]
         }
     ]
