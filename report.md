@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 4 | 9 | 20 |
-| spacenews | 14 | 23 | 20 | 35 |
-| nyt | 1 | 6 | 10 | 21 |
+| spacenews | 14 | 23 | 21 | 36 |
+| nyt | 1 | 6 | 9 | 21 |
 
 # Shown Order
 
@@ -2243,3 +2243,4 @@
 - **May 27, 11:04 PM** - Voyager wins DARPA contract for solid rocket propellant technology (spacenews)
 - **May 27, 11:38 PM** - A Fiery Visitor From Space Photo-Bombs an Erupting Volcano (nyt)
 - **May 28, 12:14 AM** - Dept. of Air Force ‘still working’ to sort space programs into acquisition portfolios: Ainsworth (breaking_defense)
+- **May 28, 12:49 AM** - Exolaunch and SEOPS purchase Falcon 9 launches for dedicated rideshare missions (spacenews)
