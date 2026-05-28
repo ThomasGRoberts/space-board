@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 4 | 9 | 19 |
+| breaking_defense | 1 | 4 | 8 | 19 |
 | spacenews | 15 | 23 | 21 | 35 |
-| nyt | 1 | 6 | 9 | 21 |
+| nyt | 1 | 6 | 10 | 22 |
 
 # Shown Order
 
@@ -2257,3 +2257,4 @@
 - **May 28, 07:29 AM** - SpaceX’s Unconventional Corporate Arrangements Favor Elon Musk (nyt)
 - **May 28, 08:04 AM** - HASC $1.15T defense policy bill takes aim at industrial base challenges (breaking_defense)
 - **May 28, 08:38 AM** - SpaceX IPO filing casts Starlink Mobile as future wireless challenger (spacenews)
+- **May 28, 09:19 AM** - Where to See the Total Solar Eclipse on Aug. 12 (nyt)
