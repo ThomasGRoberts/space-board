@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 3 | 12 | 21 |
-| spacenews | 7 | 23 | 16 | 36 |
+| breaking_defense | 1 | 3 | 13 | 22 |
+| spacenews | 7 | 23 | 15 | 36 |
 | nyt | 0 | 2 | 12 | 22 |
 
 # Shown Order
@@ -2275,3 +2275,4 @@
 - **May 28, 06:19 PM** - Dept. of Air Force ‘still working’ to sort space programs into acquisition portfolios: Ainsworth (breaking_defense)
 - **May 28, 06:54 PM** - A New Era of Exploring the Universe in Radio (nyt)
 - **May 28, 07:29 PM** - Nations opt for a mix of sovereign, bilateral, federated and commercial space capabilities (spacenews)
+- **May 28, 08:04 PM** - How drones can navigate without GPS  (breaking_defense)
