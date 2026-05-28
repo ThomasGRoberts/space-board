@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 4 | 9 | 19 |
+| breaking_defense | 1 | 4 | 9 | 20 |
 | spacenews | 14 | 23 | 20 | 35 |
 | nyt | 1 | 6 | 10 | 22 |
 
@@ -2242,3 +2242,4 @@
 - **May 27, 10:29 PM** - HASC $1.15T defense policy bill takes aim at industrial base challenges (breaking_defense)
 - **May 27, 11:04 PM** - Voyager wins DARPA contract for solid rocket propellant technology (spacenews)
 - **May 27, 11:38 PM** - A Fiery Visitor From Space Photo-Bombs an Erupting Volcano (nyt)
+- **May 28, 12:14 AM** - Dept. of Air Force ‘still working’ to sort space programs into acquisition portfolios: Ainsworth (breaking_defense)
