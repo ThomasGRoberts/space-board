@@ -1,9 +1,202 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-05-27T00:04:46.756506+00:00",
-    "trigger_count": 4,
+    "last_run_datetime": "2026-05-28T00:04:26.692917+00:00",
+    "trigger_count": 5,
     "current_item_id": "182b5cd85901767e236764b36ffdbc25",
     "data": [
+        {
+            "id": "97a86e9ff8f96eca3f9016f29579a42d",
+            "source": "breaking_defense",
+            "text": "Dept. of Air Force ‘still working’ to sort space programs into acquisition portfolios: Ainsworth",
+            "source_link": "https://breakingdefense.com/2026/05/dept-of-air-force-still-working-to-sort-space-programs-into-acquisition-portfolios-ainsworth/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-27T20:34:30.011369Z",
+            "shown_at": [
+                "2026-05-27T20:34:30.972389Z"
+            ]
+        },
+        {
+            "id": "67f54083b7463c061181cba5ec35d7ce",
+            "source": "spacenews",
+            "text": "As geopolitics reshape space, SpinLaunch sees an opening",
+            "source_link": "https://spacenews.com/as-geopolitics-reshape-space-spinlaunch-sees-an-opening/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-27T19:23:57.229792Z",
+            "shown_at": [
+                "2026-05-27T21:09:16.001065Z"
+            ]
+        },
+        {
+            "id": "41a414b7d9c1cb0cbed2725698e06f11",
+            "source": "spacenews",
+            "text": "European space industry warns EU Space Act could slow competitiveness",
+            "source_link": "https://spacenews.com/european-space-industry-warns-eu-space-act-could-slow-competitiveness/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-27T19:23:57.229764Z",
+            "shown_at": [
+                "2026-05-27T19:59:15.843770Z"
+            ]
+        },
+        {
+            "id": "d21adef1bc85a4bb1af1da7f33ba54e6",
+            "source": "spacenews",
+            "text": "Mars to Titan: the next rallying call?",
+            "source_link": "https://spacenews.com/mars-to-titan-the-next-rallying-call/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-27T19:23:57.229719Z",
+            "shown_at": [
+                "2026-05-27T19:23:58.147159Z"
+            ]
+        },
+        {
+            "id": "0814921bfafbabee2aabd4da692c0e87",
+            "source": "spacenews",
+            "text": "Spire expands European manufacturing with Munich plant",
+            "source_link": "https://spacenews.com/spire-expands-european-manufacturing-with-munich-plant/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-27T15:54:24.355159Z",
+            "shown_at": [
+                "2026-05-27T18:49:17.629950Z"
+            ]
+        },
+        {
+            "id": "5e33c88febb5d69c48f421f7827f49b7",
+            "source": "spacenews",
+            "text": "Starcloud’s path to 88,000 computing satellites",
+            "source_link": "https://spacenews.com/starclouds-path-to-88000-computing-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-27T15:54:24.355125Z",
+            "shown_at": [
+                "2026-05-27T18:14:11.224179Z"
+            ]
+        },
+        {
+            "id": "bbbfe661371b6494154999829f2e99d8",
+            "source": "spacenews",
+            "text": "Schaeffler AG joins forces with Spire to build sovereign European satellites",
+            "source_link": "https://spacenews.com/schaeffler-ag-joins-forces-with-spire-to-build-sovereign-european-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-27T15:54:24.355072Z",
+            "shown_at": [
+                "2026-05-27T17:39:26.046730Z"
+            ]
+        },
+        {
+            "id": "a82c53d9137f929deb91989dff83e8b2",
+            "source": "spacenews",
+            "text": "Sitael Accelerates Growth in Space: New Missions, Industrial Capacity and a Trajectory Towards 2031",
+            "source_link": "https://spacenews.com/sitael-accelerates-growth-in-spacenew-missions-industrial-capacity-and-a-trajectory-towards-2031/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-27T15:54:24.355037Z",
+            "shown_at": [
+                "2026-05-27T17:04:44.741780Z"
+            ]
+        },
+        {
+            "id": "13585889272dfcd1efef94509e3da129",
+            "source": "spacenews",
+            "text": "Former Ukraine official calls for stricter restrictions on Russian use of Starlink",
+            "source_link": "https://spacenews.com/former-ukraine-official-calls-for-stricter-restrictions-on-russian-use-of-starlink/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-27T15:54:24.354996Z",
+            "shown_at": [
+                "2026-05-27T16:29:39.596356Z"
+            ]
+        },
+        {
+            "id": "96672876ede284d1b686719904ea1a82",
+            "source": "spacenews",
+            "text": "Kongsberg NanoAvionics sets sights on building and supporting sovereign constellations",
+            "source_link": "https://spacenews.com/kongsberg-nanoavionics-sets-sights-on-building-and-supporting-sovereign-constellations/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-27T15:54:24.354917Z",
+            "shown_at": [
+                "2026-05-27T15:54:25.278934Z"
+            ]
+        },
+        {
+            "id": "90cdbaed7a9c17d0122218cf9d9a886b",
+            "source": "spacenews",
+            "text": "Artemis 2 captured the world’s attention. It should change how we think about supply chains.",
+            "source_link": "https://spacenews.com/artemis-2-captured-the-worlds-attention-it-should-change-how-we-think-about-supply-chains/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-27T14:09:26.937213Z",
+            "shown_at": [
+                "2026-05-27T14:44:29.346150Z"
+            ]
+        },
+        {
+            "id": "f8eca6fbf5b099577f24639eb515e317",
+            "source": "spacenews",
+            "text": "Europe’s satellite spectrum proposal clouds SpaceX and Viasat plans",
+            "source_link": "https://spacenews.com/europes-satellite-spectrum-proposal-clouds-spacex-and-viasat-plans/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-27T14:09:26.937142Z",
+            "shown_at": [
+                "2026-05-27T14:09:28.065764Z"
+            ]
+        },
+        {
+            "id": "0445021cd205b7e7f4e2b63e61176855",
+            "source": "spacenews",
+            "text": "European space industry watching SpaceX IPO plans",
+            "source_link": "https://spacenews.com/european-space-industry-watching-spacex-ipo-plans/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-27T12:59:51.054826Z",
+            "shown_at": [
+                "2026-05-27T13:34:40.421265Z"
+            ]
+        },
+        {
+            "id": "d1c2aec367b06bdd645fecdfeff81684",
+            "source": "spacenews",
+            "text": "World’s smallest deployable operational optical ground station proves capability in successful trials",
+            "source_link": "https://spacenews.com/worlds-smallest-deployable-operational-optical-ground-station-proves-capability-in-successful-trials/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-27T12:59:51.054751Z",
+            "shown_at": [
+                "2026-05-27T12:59:51.771011Z"
+            ]
+        },
+        {
+            "id": "182b5cd85901767e236764b36ffdbc25",
+            "source": "nyt",
+            "text": "A Fiery Visitor From Space Photo-Bombs an Erupting Volcano",
+            "source_link": "https://www.nytimes.com/2026/05/26/science/volcano-eruption-fireball-philippines.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-27T11:09:16.558112Z",
+            "shown_at": [
+                "2026-05-27T11:09:17.459447Z",
+                "2026-05-27T23:38:58.447721Z"
+            ]
+        },
+        {
+            "id": "77d0632b403eed41854e7ef664f1530b",
+            "source": "spacenews",
+            "text": "Nations opt for a mix of sovereign, bilateral, federated and commercial space capabilities",
+            "source_link": "https://spacenews.com/nations-opt-for-a-mix-of-sovereign-bilateral-federated-and-commercial-space-capabilities/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-27T07:59:17.530458Z",
+            "shown_at": [
+                "2026-05-27T07:59:18.382214Z"
+            ]
+        },
         {
             "id": "fcbd5967fc3a1863f0794c3f2678ea62",
             "source": "nyt",
@@ -7543,451 +7736,6 @@
                 "2026-03-31T02:09:14.921639Z",
                 "2026-04-01T02:44:28.360017Z",
                 "2026-04-05T04:44:21.276019Z"
-            ]
-        },
-        {
-            "id": "fb0f88d385051809f26f38ab8b588972",
-            "source": "spacenews",
-            "text": "Science finds a place on Artemis 2",
-            "source_link": "https://spacenews.com/science-finds-a-place-on-artemis-2/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-30T12:04:38.814294Z",
-            "shown_at": [
-                "2026-03-30T12:39:24.815570Z",
-                "2026-04-04T22:19:17.085591Z"
-            ]
-        },
-        {
-            "id": "323cfb3ba041f605efe31231b5a1d3a9",
-            "source": "spacenews",
-            "text": "Starcloud achieves unicorn status with $170 million raise for orbital data centers",
-            "source_link": "https://spacenews.com/starcloud-achieves-unicorn-status-with-170-million-raise-for-orbital-data-centers/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-30T12:04:38.814222Z",
-            "shown_at": [
-                "2026-03-30T12:04:40.480758Z",
-                "2026-04-02T19:24:25.820777Z"
-            ]
-        },
-        {
-            "id": "e66f1b7b902578dea4ad5fa6f04d1218",
-            "source": "nyt",
-            "text": "NASA Is Launching Astronauts to the Moon, but Americans Aren’t That Excited",
-            "source_link": "https://www.nytimes.com/2026/03/30/science/nasa-astronauts-moon-americans-mood.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-30T11:29:08.041288Z",
-            "shown_at": [
-                "2026-03-30T11:29:09.159046Z",
-                "2026-03-30T14:59:42.012443Z",
-                "2026-03-30T19:04:31.527463Z",
-                "2026-03-31T02:44:26.829563Z",
-                "2026-03-31T06:14:31.387394Z",
-                "2026-03-31T14:34:42.328869Z",
-                "2026-04-01T02:09:08.042030Z",
-                "2026-04-01T05:39:10.286943Z",
-                "2026-04-02T22:54:23.347096Z",
-                "2026-04-05T02:24:16.138508Z",
-                "2026-04-05T06:29:09.115917Z",
-                "2026-04-05T22:59:23.157234Z"
-            ]
-        },
-        {
-            "id": "5f8deac832e31e47cc8887264210a541",
-            "source": "spacenews",
-            "text": "Satellite imaging industry’s next challenge: getting systems to talk to each other",
-            "source_link": "https://spacenews.com/satellite-imaging-industrys-next-challenge-getting-systems-to-talk-to-each-other/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-29T21:44:36.494767Z",
-            "shown_at": [
-                "2026-03-29T21:44:38.066182Z",
-                "2026-04-04T14:09:14.880474Z"
-            ]
-        },
-        {
-            "id": "eade144e34de43ba945939a9ee40f378",
-            "source": "nyt",
-            "text": "For NASA’s Artemis II Crew, Journey to the Moon ‘Starting to Feel Real’",
-            "source_link": "https://www.nytimes.com/2026/03/29/science/nasa-astronauts-artemis-moon-launch.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-29T18:14:39.746804Z",
-            "shown_at": [
-                "2026-03-29T18:14:40.829450Z",
-                "2026-03-30T04:09:23.049466Z",
-                "2026-03-31T03:54:17.874891Z",
-                "2026-03-31T05:04:49.996997Z",
-                "2026-03-31T12:49:26.671015Z",
-                "2026-04-01T10:19:34.100847Z",
-                "2026-04-01T12:51:20.792779Z",
-                "2026-04-05T10:04:33.509043Z"
-            ]
-        },
-        {
-            "id": "ca79f6e720c86e5d413b6f5d289ed657",
-            "source": "spacenews",
-            "text": "‘Shots on goal and win the game’: NASA’s effort to accelerate lunar landings",
-            "source_link": "https://spacenews.com/shots-on-goal-and-win-the-game-nasas-effort-to-accelerate-lunar-landings/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-29T10:04:32.401289Z",
-            "shown_at": [
-                "2026-03-29T10:04:33.641915Z",
-                "2026-03-29T15:54:40.437622Z"
-            ]
-        },
-        {
-            "id": "a765926322914aed74a406ea9f0d1b6f",
-            "source": "nyt",
-            "text": "Astronaut’s Condition That Led to Space Station Evacuation Remains a Mystery",
-            "source_link": "https://www.nytimes.com/2026/03/28/science/space/nasa-astronaut-medical-evaluation.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-28T22:59:08.918818Z",
-            "shown_at": [
-                "2026-03-28T22:59:10.182286Z",
-                "2026-03-29T01:19:16.517806Z",
-                "2026-03-29T04:49:17.374972Z",
-                "2026-03-29T10:39:22.184138Z",
-                "2026-03-29T17:39:09.475855Z",
-                "2026-03-29T20:34:33.940769Z",
-                "2026-03-30T00:39:34.058425Z",
-                "2026-03-30T01:49:20.963823Z",
-                "2026-03-30T17:54:45.452249Z",
-                "2026-03-30T23:09:15.935230Z",
-                "2026-04-01T06:49:20.354267Z",
-                "2026-04-02T12:52:19.287789Z",
-                "2026-04-04T07:44:24.434580Z",
-                "2026-04-04T18:49:21.254179Z"
-            ]
-        },
-        {
-            "id": "6769a1e1d062aa3c7bec5dd2b2e35271",
-            "source": "spacenews",
-            "text": "Starfish Space finds a new partner for docking demonstration mission",
-            "source_link": "https://spacenews.com/starfish-space-finds-a-new-partner-for-docking-demonstration-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-28T20:54:16.656068Z",
-            "shown_at": [
-                "2026-03-28T20:54:17.765888Z"
-            ]
-        },
-        {
-            "id": "bd7c630f0d63e126c8aed975e6ec0cc4",
-            "source": "spacenews",
-            "text": "Artemis 2 astronauts arrive at KSC",
-            "source_link": "https://spacenews.com/artemis-2-astronauts-arrive-at-ksc/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-28T00:59:05.321172Z",
-            "shown_at": [
-                "2026-03-28T00:59:06.401875Z"
-            ]
-        },
-        {
-            "id": "cf89f9e02549452536043bb6a44dab79",
-            "source": "spacenews",
-            "text": "ESA to decide by June on Europe’s Gateway contributions ",
-            "source_link": "https://spacenews.com/esa-to-decide-by-june-on-europes-gateway-contributions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-27T19:09:20.880929Z",
-            "shown_at": [
-                "2026-03-27T19:44:30.071737Z"
-            ]
-        },
-        {
-            "id": "7ff88c86bcca9c23dda8aa06d601f600",
-            "source": "spacenews",
-            "text": "Commercial Space Federation (CSF) Welcomes Two New Associate Members",
-            "source_link": "https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-associate-members/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-27T19:09:20.880847Z",
-            "shown_at": [
-                "2026-03-27T19:09:22.261336Z",
-                "2026-03-29T01:54:30.927035Z",
-                "2026-03-29T13:34:33.608776Z",
-                "2026-03-29T17:04:36.167007Z",
-                "2026-03-31T16:49:30.390286Z",
-                "2026-04-01T05:04:25.523395Z",
-                "2026-04-01T06:14:32.211557Z",
-                "2026-04-03T17:39:25.834312Z"
-            ]
-        },
-        {
-            "id": "6e356603545c3be00185baaf5a802416",
-            "source": "spacenews",
-            "text": "India’s Bellatrix raises $20 million following overseas expansion drive",
-            "source_link": "https://spacenews.com/indias-bellatrix-raises-20-million-following-overseas-expansion-drive/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-27T17:39:11.314499Z",
-            "shown_at": [
-                "2026-03-27T17:39:12.455595Z",
-                "2026-03-28T12:44:25.907786Z",
-                "2026-03-30T08:19:30.688434Z",
-                "2026-04-02T23:29:10.721446Z"
-            ]
-        },
-        {
-            "id": "1946f47339e909e3767be7974d0bb91c",
-            "source": "spacenews",
-            "text": "The ‘ground truth’ gap in AgTech: Why satellites alone can’t save supply chains",
-            "source_link": "https://spacenews.com/the-ground-truth-gap-in-agtech-why-satellites-alone-cant-save-supply-chains/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-27T15:19:28.816788Z",
-            "shown_at": [
-                "2026-03-27T15:19:30.335580Z",
-                "2026-03-28T06:54:31.779740Z"
-            ]
-        },
-        {
-            "id": "3953de1aa8d20af3062dbb2f0001beaa",
-            "source": "nyt",
-            "text": "Did Scientists Just Detect an Exploding Black Hole?",
-            "source_link": "https://www.nytimes.com/2026/03/27/science/astrophysics-neutrinos-black-holes.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-27T14:09:17.158123Z",
-            "shown_at": [
-                "2026-03-27T14:09:18.176300Z",
-                "2026-03-28T02:49:01.345061Z",
-                "2026-03-28T13:19:15.886685Z",
-                "2026-03-28T19:09:16.754112Z",
-                "2026-03-28T21:29:16.455579Z",
-                "2026-03-29T00:09:16.042608Z",
-                "2026-03-29T11:49:26.259122Z",
-                "2026-03-30T20:49:16.457182Z",
-                "2026-03-31T01:34:37.754946Z",
-                "2026-03-31T23:49:21.821012Z",
-                "2026-04-01T00:59:24.839976Z",
-                "2026-04-01T04:29:05.903466Z",
-                "2026-04-02T09:24:12.352712Z"
-            ]
-        },
-        {
-            "id": "6d978981806634183c430be28c2f3cf3",
-            "source": "spacenews",
-            "text": "Industry says proposed NASA changes to commercial space station plans create confusion",
-            "source_link": "https://spacenews.com/industry-says-proposed-nasa-changes-to-commercial-space-station-plans-create-confusion/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-27T12:24:24.893500Z",
-            "shown_at": [
-                "2026-03-27T12:24:25.983611Z",
-                "2026-03-29T00:44:22.768856Z"
-            ]
-        },
-        {
-            "id": "cb0fdf6bf049ca5c00f86c50d95cf7ca",
-            "source": "spacenews",
-            "text": "SBQuantum and Spire to send quantum diamond magnetometer into orbit",
-            "source_link": "https://spacenews.com/sbquantum-and-spire-to-send-quantum-diamond-magnetometer-into-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-27T09:29:09.829975Z",
-            "shown_at": [
-                "2026-03-27T09:29:10.618949Z",
-                "2026-03-31T04:29:10.170421Z"
-            ]
-        },
-        {
-            "id": "77d0632b403eed41854e7ef664f1530b",
-            "source": "spacenews",
-            "text": "Nations opt for a mix of sovereign, bilateral, federated and commercial space capabilities",
-            "source_link": "https://spacenews.com/nations-opt-for-a-mix-of-sovereign-bilateral-federated-and-commercial-space-capabilities/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-27T07:59:17.530458Z",
-            "shown_at": [
-                "2026-05-27T07:59:18.382214Z"
-            ]
-        },
-        {
-            "id": "182b5cd85901767e236764b36ffdbc25",
-            "source": "nyt",
-            "text": "A Fiery Visitor From Space Photo-Bombs an Erupting Volcano",
-            "source_link": "https://www.nytimes.com/2026/05/26/science/volcano-eruption-fireball-philippines.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-27T11:09:16.558112Z",
-            "shown_at": [
-                "2026-05-27T11:09:17.459447Z",
-                "2026-05-27T23:38:58.447721Z"
-            ]
-        },
-        {
-            "id": "d1c2aec367b06bdd645fecdfeff81684",
-            "source": "spacenews",
-            "text": "World’s smallest deployable operational optical ground station proves capability in successful trials",
-            "source_link": "https://spacenews.com/worlds-smallest-deployable-operational-optical-ground-station-proves-capability-in-successful-trials/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-27T12:59:51.054751Z",
-            "shown_at": [
-                "2026-05-27T12:59:51.771011Z"
-            ]
-        },
-        {
-            "id": "0445021cd205b7e7f4e2b63e61176855",
-            "source": "spacenews",
-            "text": "European space industry watching SpaceX IPO plans",
-            "source_link": "https://spacenews.com/european-space-industry-watching-spacex-ipo-plans/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-27T12:59:51.054826Z",
-            "shown_at": [
-                "2026-05-27T13:34:40.421265Z"
-            ]
-        },
-        {
-            "id": "f8eca6fbf5b099577f24639eb515e317",
-            "source": "spacenews",
-            "text": "Europe’s satellite spectrum proposal clouds SpaceX and Viasat plans",
-            "source_link": "https://spacenews.com/europes-satellite-spectrum-proposal-clouds-spacex-and-viasat-plans/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-27T14:09:26.937142Z",
-            "shown_at": [
-                "2026-05-27T14:09:28.065764Z"
-            ]
-        },
-        {
-            "id": "90cdbaed7a9c17d0122218cf9d9a886b",
-            "source": "spacenews",
-            "text": "Artemis 2 captured the world’s attention. It should change how we think about supply chains.",
-            "source_link": "https://spacenews.com/artemis-2-captured-the-worlds-attention-it-should-change-how-we-think-about-supply-chains/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-27T14:09:26.937213Z",
-            "shown_at": [
-                "2026-05-27T14:44:29.346150Z"
-            ]
-        },
-        {
-            "id": "96672876ede284d1b686719904ea1a82",
-            "source": "spacenews",
-            "text": "Kongsberg NanoAvionics sets sights on building and supporting sovereign constellations",
-            "source_link": "https://spacenews.com/kongsberg-nanoavionics-sets-sights-on-building-and-supporting-sovereign-constellations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-27T15:54:24.354917Z",
-            "shown_at": [
-                "2026-05-27T15:54:25.278934Z"
-            ]
-        },
-        {
-            "id": "13585889272dfcd1efef94509e3da129",
-            "source": "spacenews",
-            "text": "Former Ukraine official calls for stricter restrictions on Russian use of Starlink",
-            "source_link": "https://spacenews.com/former-ukraine-official-calls-for-stricter-restrictions-on-russian-use-of-starlink/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-27T15:54:24.354996Z",
-            "shown_at": [
-                "2026-05-27T16:29:39.596356Z"
-            ]
-        },
-        {
-            "id": "a82c53d9137f929deb91989dff83e8b2",
-            "source": "spacenews",
-            "text": "Sitael Accelerates Growth in Space: New Missions, Industrial Capacity and a Trajectory Towards 2031",
-            "source_link": "https://spacenews.com/sitael-accelerates-growth-in-spacenew-missions-industrial-capacity-and-a-trajectory-towards-2031/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-27T15:54:24.355037Z",
-            "shown_at": [
-                "2026-05-27T17:04:44.741780Z"
-            ]
-        },
-        {
-            "id": "bbbfe661371b6494154999829f2e99d8",
-            "source": "spacenews",
-            "text": "Schaeffler AG joins forces with Spire to build sovereign European satellites",
-            "source_link": "https://spacenews.com/schaeffler-ag-joins-forces-with-spire-to-build-sovereign-european-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-27T15:54:24.355072Z",
-            "shown_at": [
-                "2026-05-27T17:39:26.046730Z"
-            ]
-        },
-        {
-            "id": "5e33c88febb5d69c48f421f7827f49b7",
-            "source": "spacenews",
-            "text": "Starcloud’s path to 88,000 computing satellites",
-            "source_link": "https://spacenews.com/starclouds-path-to-88000-computing-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-27T15:54:24.355125Z",
-            "shown_at": [
-                "2026-05-27T18:14:11.224179Z"
-            ]
-        },
-        {
-            "id": "0814921bfafbabee2aabd4da692c0e87",
-            "source": "spacenews",
-            "text": "Spire expands European manufacturing with Munich plant",
-            "source_link": "https://spacenews.com/spire-expands-european-manufacturing-with-munich-plant/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-27T15:54:24.355159Z",
-            "shown_at": [
-                "2026-05-27T18:49:17.629950Z"
-            ]
-        },
-        {
-            "id": "d21adef1bc85a4bb1af1da7f33ba54e6",
-            "source": "spacenews",
-            "text": "Mars to Titan: the next rallying call?",
-            "source_link": "https://spacenews.com/mars-to-titan-the-next-rallying-call/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-27T19:23:57.229719Z",
-            "shown_at": [
-                "2026-05-27T19:23:58.147159Z"
-            ]
-        },
-        {
-            "id": "41a414b7d9c1cb0cbed2725698e06f11",
-            "source": "spacenews",
-            "text": "European space industry warns EU Space Act could slow competitiveness",
-            "source_link": "https://spacenews.com/european-space-industry-warns-eu-space-act-could-slow-competitiveness/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-27T19:23:57.229764Z",
-            "shown_at": [
-                "2026-05-27T19:59:15.843770Z"
-            ]
-        },
-        {
-            "id": "67f54083b7463c061181cba5ec35d7ce",
-            "source": "spacenews",
-            "text": "As geopolitics reshape space, SpinLaunch sees an opening",
-            "source_link": "https://spacenews.com/as-geopolitics-reshape-space-spinlaunch-sees-an-opening/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-27T19:23:57.229792Z",
-            "shown_at": [
-                "2026-05-27T21:09:16.001065Z"
-            ]
-        },
-        {
-            "id": "97a86e9ff8f96eca3f9016f29579a42d",
-            "source": "breaking_defense",
-            "text": "Dept. of Air Force ‘still working’ to sort space programs into acquisition portfolios: Ainsworth",
-            "source_link": "https://breakingdefense.com/2026/05/dept-of-air-force-still-working-to-sort-space-programs-into-acquisition-portfolios-ainsworth/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-27T20:34:30.011369Z",
-            "shown_at": [
-                "2026-05-27T20:34:30.972389Z"
             ]
         }
     ]
