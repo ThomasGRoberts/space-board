@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-28T00:04:26.692917+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d42e083cfb9c394804a7a05cdd4e797c",
+    "trigger_count": 0,
+    "current_item_id": "a568caadd888a448402f2d0b9e8e294c",
     "data": [
         {
             "id": "97a86e9ff8f96eca3f9016f29579a42d",
@@ -7831,6 +7831,18 @@
             "fetched_datetime": "2026-05-28T16:34:29.684812Z",
             "shown_at": [
                 "2026-05-28T16:34:32.186306Z"
+            ]
+        },
+        {
+            "id": "a568caadd888a448402f2d0b9e8e294c",
+            "source": "spacenews",
+            "text": "Setting up a permanent lunar presence needs investment in biology",
+            "source_link": "https://spacenews.com/setting-up-a-permanent-lunar-presence-needs-investment-in-biology/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-28T17:44:25.106809Z",
+            "shown_at": [
+                "2026-05-28T17:44:26.164529Z"
             ]
         }
     ]
