@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 4 | 8 | 19 |
+| breaking_defense | 1 | 4 | 9 | 20 |
 | spacenews | 15 | 23 | 21 | 35 |
 | nyt | 1 | 6 | 9 | 21 |
 
@@ -2252,3 +2252,4 @@
 - **May 28, 04:24 AM** - Schaeffler AG joins forces with Spire to build sovereign European satellites (spacenews)
 - **May 28, 04:59 AM** - FAA requires mishap investigation into latest Starship launch (spacenews)
 - **May 28, 05:39 AM** - NASA’s Moon Base Plan Adds Two Rovers for Its Astronauts (nyt)
+- **May 28, 06:14 AM** - SpaceX wins $2.29B to speed Space Force’s LEO communications ‘backbone’ (breaking_defense)
