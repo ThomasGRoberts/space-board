@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 4 | 8 | 19 |
-| spacenews | 16 | 24 | 21 | 35 |
+| breaking_defense | 1 | 4 | 9 | 20 |
+| spacenews | 15 | 24 | 20 | 35 |
 | nyt | 1 | 6 | 10 | 21 |
 
 # Shown Order
@@ -2255,3 +2255,4 @@
 - **May 28, 06:14 AM** - SpaceX wins $2.29B to speed Space Force’s LEO communications ‘backbone’ (breaking_defense)
 - **May 28, 06:50 AM** - Virgin Galactic returns Unity to flight to prepare for next-generation spaceplane (spacenews)
 - **May 28, 07:29 AM** - SpaceX’s Unconventional Corporate Arrangements Favor Elon Musk (nyt)
+- **May 28, 08:04 AM** - HASC $1.15T defense policy bill takes aim at industrial base challenges (breaking_defense)
