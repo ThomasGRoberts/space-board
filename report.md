@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 12 | 21 |
-| spacenews | 8 | 22 | 16 | 36 |
-| nyt | 0 | 2 | 12 | 22 |
+| spacenews | 9 | 23 | 17 | 37 |
+| nyt | 0 | 1 | 12 | 21 |
 
 # Shown Order
 
@@ -2280,3 +2280,4 @@
 - **May 28, 09:14 PM** - SpaceX IPO Filing Reveals Favorable Terms for Elon Musk (nyt)
 - **May 28, 09:49 PM** - Europe’s satellite spectrum proposal clouds SpaceX and Viasat plans (spacenews)
 - **May 28, 10:24 PM** - Observable Space raises $90 million and wins Space Force contract for optical systems (spacenews)
+- **May 28, 10:59 PM** - Space Force plans nationwide network of ‘resilient operations centers’  (spacenews)

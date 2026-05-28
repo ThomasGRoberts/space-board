@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-28T00:04:26.692917+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2da81c41a572cb1d1b33cf9d5d6d8a33",
+    "trigger_count": 0,
+    "current_item_id": "4e4c3d163b8834dbc75fd9336ef9a6e4",
     "data": [
         {
             "id": "97a86e9ff8f96eca3f9016f29579a42d",
@@ -7873,6 +7873,18 @@
             "fetched_datetime": "2026-05-28T22:24:27.463312Z",
             "shown_at": [
                 "2026-05-28T22:24:28.394964Z"
+            ]
+        },
+        {
+            "id": "4e4c3d163b8834dbc75fd9336ef9a6e4",
+            "source": "spacenews",
+            "text": "Space Force plans nationwide network of ‘resilient operations centers’ ",
+            "source_link": "https://spacenews.com/space-force-plans-nationwide-network-of-resilient-operations-centers/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-28T22:59:18.287254Z",
+            "shown_at": [
+                "2026-05-28T22:59:19.240945Z"
             ]
         }
     ]
