@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 4 | 9 | 20 |
+| breaking_defense | 1 | 4 | 10 | 21 |
 | spacenews | 16 | 24 | 21 | 35 |
 | nyt | 0 | 6 | 9 | 22 |
 
@@ -2261,3 +2261,4 @@
 - **May 28, 09:54 AM** - How drones can navigate without GPS  (breaking_defense)
 - **May 28, 10:29 AM** - Europe’s biggest space opportunity comes after launch (spacenews)
 - **May 28, 11:04 AM** - A Fiery Visitor From Space Photo-Bombs an Erupting Volcano (nyt)
+- **May 28, 11:39 AM** - Boots on the moon needed to beat ‘belligerent’ China: Mitchell Institute (breaking_defense)
