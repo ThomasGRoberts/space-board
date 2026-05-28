@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 3 | 9 | 20 |
+| breaking_defense | 1 | 3 | 10 | 21 |
 | spacenews | 15 | 23 | 21 | 36 |
 | nyt | 0 | 6 | 10 | 23 |
 
@@ -2265,3 +2265,4 @@
 - **May 28, 12:14 PM** - NASA unveils sweeping reorganization (spacenews)
 - **May 28, 12:49 PM** - A Fiery Visitor From Space Photo-Bombs an Erupting Volcano (nyt)
 - **May 28, 01:29 PM** - The Propulsion Imperative Behind Golden Dome (spacenews)
+- **May 28, 02:05 PM** - Dept. of Air Force ‘still working’ to sort space programs into acquisition portfolios: Ainsworth (breaking_defense)
