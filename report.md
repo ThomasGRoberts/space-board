@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 13 | 21 |
-| spacenews | 7 | 23 | 15 | 36 |
+| spacenews | 8 | 22 | 16 | 36 |
 | nyt | 0 | 2 | 12 | 22 |
 
 # Shown Order
@@ -2279,3 +2279,4 @@
 - **May 28, 08:39 PM** - Epic Fury highlighted Space Force needs for distributed ops, EW sites (breaking_defense)
 - **May 28, 09:14 PM** - SpaceX IPO Filing Reveals Favorable Terms for Elon Musk (nyt)
 - **May 28, 09:49 PM** - Europe’s satellite spectrum proposal clouds SpaceX and Viasat plans (spacenews)
+- **May 28, 10:24 PM** - Observable Space raises $90 million and wins Space Force contract for optical systems (spacenews)

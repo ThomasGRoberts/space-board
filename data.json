@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-28T00:04:26.692917+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f8eca6fbf5b099577f24639eb515e317",
+    "trigger_count": 0,
+    "current_item_id": "2da81c41a572cb1d1b33cf9d5d6d8a33",
     "data": [
         {
             "id": "97a86e9ff8f96eca3f9016f29579a42d",
@@ -7861,6 +7861,18 @@
             "fetched_datetime": "2026-05-28T20:39:10.271486Z",
             "shown_at": [
                 "2026-05-28T20:39:21.305957Z"
+            ]
+        },
+        {
+            "id": "2da81c41a572cb1d1b33cf9d5d6d8a33",
+            "source": "spacenews",
+            "text": "Observable Space raises $90 million and wins Space Force contract for optical systems",
+            "source_link": "https://spacenews.com/observable-space-raises-90-million-and-wins-space-force-contract-for-optical-systems/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-28T22:24:27.463312Z",
+            "shown_at": [
+                "2026-05-28T22:24:28.394964Z"
             ]
         }
     ]
