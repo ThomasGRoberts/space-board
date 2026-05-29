@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 24 | 16 | 37 |
 | breaking_defense | 1 | 2 | 13 | 21 |
-| nyt | 0 | 1 | 11 | 21 |
+| nyt | 0 | 1 | 12 | 22 |
 
 # Shown Order
 
@@ -2258,3 +2258,4 @@
 - **May 29, 05:59 AM** - Nations opt for a mix of sovereign, bilateral, federated and commercial space capabilities (spacenews)
 - **May 29, 06:34 AM** - New Glenn rocket explodes on Cape Canaveral pad (spacenews)
 - **May 29, 07:09 AM** - SpaceX wins $2.29B to speed Space Force’s LEO communications ‘backbone’ (breaking_defense)
+- **May 29, 07:44 AM** - NASA’s Moon Base Plan Adds Two Rovers for Its Astronauts (nyt)
