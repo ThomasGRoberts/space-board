@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 23 | 15 | 36 |
 | breaking_defense | 1 | 2 | 13 | 22 |
-| nyt | 0 | 1 | 12 | 21 |
+| nyt | 0 | 1 | 13 | 22 |
 
 # Shown Order
 
@@ -2254,3 +2254,4 @@
 - **May 29, 03:38 AM** - A New Era of Exploring the Universe in Radio (nyt)
 - **May 29, 04:14 AM** - Former Ukraine official calls for stricter restrictions on Russian use of Starlink (spacenews)
 - **May 29, 04:49 AM** - HASC $1.15T defense policy bill takes aim at industrial base challenges (breaking_defense)
+- **May 29, 05:24 AM** - NASA’s Moon Base Plan Adds Two Rovers for Its Astronauts (nyt)
