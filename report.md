@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 23 | 16 | 37 |
-| breaking_defense | 1 | 2 | 12 | 21 |
+| breaking_defense | 1 | 2 | 13 | 22 |
 | nyt | 0 | 1 | 12 | 21 |
 
 # Shown Order
@@ -2247,3 +2247,4 @@
 - **May 28, 11:34 PM** - Epic Fury highlighted Space Force needs for distributed ops, EW sites (breaking_defense)
 - **May 29, 12:09 AM** - SpaceX IPO Filing Reveals Favorable Terms for Elon Musk (nyt)
 - **May 29, 12:44 AM** - Sitael Accelerates Growth in Space: New Missions, Industrial Capacity and a Trajectory Towards 2031 (spacenews)
+- **May 29, 01:19 AM** - HASC $1.15T defense policy bill takes aim at industrial base challenges (breaking_defense)
