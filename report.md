@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 17 | 17 | 36 |
 | breaking_defense | 2 | 3 | 13 | 24 |
-| nyt | 0 | 0 | 11 | 21 |
+| nyt | 1 | 1 | 12 | 22 |
 
 # Shown Order
 
@@ -2273,3 +2273,4 @@
 - **May 29, 02:44 PM** - Epic Fury highlighted Space Force needs for distributed ops, EW sites (breaking_defense)
 - **May 29, 03:19 PM** - Space Force’s commercial gatekeeper offers a playbook for startups seeking defense business (spacenews)
 - **May 29, 03:53 PM** - SPACECOM exploring tech for future offensive cislunar ops: Chief Scientist (breaking_defense)
+- **May 29, 04:29 PM** - What Exactly Caused That Loud Boom in South Carolina? (nyt)

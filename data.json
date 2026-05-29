@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-29T00:04:35.509538+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b2def25bf48c5323b0b509e9a868fba9",
+    "trigger_count": 0,
+    "current_item_id": "11127ba5c8e86ad217ba0921b198d810",
     "data": [
         {
             "id": "4e4c3d163b8834dbc75fd9336ef9a6e4",
@@ -7833,6 +7833,18 @@
             "fetched_datetime": "2026-05-29T15:53:49.178717Z",
             "shown_at": [
                 "2026-05-29T15:53:50.030585Z"
+            ]
+        },
+        {
+            "id": "11127ba5c8e86ad217ba0921b198d810",
+            "source": "nyt",
+            "text": "What Exactly Caused That Loud Boom in South Carolina?",
+            "source_link": "https://www.nytimes.com/2026/05/29/us/south-carolina-sonic-boom.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-29T16:28:57.514878Z",
+            "shown_at": [
+                "2026-05-29T16:29:00.128307Z"
             ]
         }
     ]
