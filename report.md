@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 23 | 16 | 37 |
-| breaking_defense | 1 | 2 | 12 | 21 |
+| breaking_defense | 1 | 2 | 13 | 22 |
 | nyt | 0 | 1 | 12 | 21 |
 
 # Shown Order
@@ -2250,3 +2250,4 @@
 - **May 29, 01:19 AM** - HASC $1.15T defense policy bill takes aim at industrial base challenges (breaking_defense)
 - **May 29, 01:54 AM** - A New Era of Exploring the Universe in Radio (nyt)
 - **May 29, 02:29 AM** - Northern Norway is ready to launch. EU Space Regulation — and its new Arctic policy – is not. (spacenews)
+- **May 29, 03:04 AM** - HASC $1.15T defense policy bill takes aim at industrial base challenges (breaking_defense)
