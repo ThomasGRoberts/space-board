@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 24 | 16 | 37 |
-| breaking_defense | 1 | 2 | 12 | 21 |
+| breaking_defense | 1 | 2 | 13 | 22 |
 | nyt | 0 | 1 | 12 | 21 |
 
 # Shown Order
@@ -2263,3 +2263,4 @@
 - **May 29, 08:54 AM** - Epic Fury highlighted Space Force needs for distributed ops, EW sites (breaking_defense)
 - **May 29, 09:29 AM** - SpaceX’s Unconventional Corporate Arrangements Favor Elon Musk (nyt)
 - **May 29, 10:04 AM** - China’s latest batch of new and reusable rockets are close to launch (spacenews)
+- **May 29, 10:39 AM** - HASC $1.15T defense policy bill takes aim at industrial base challenges (breaking_defense)
