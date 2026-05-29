@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 23 | 16 | 37 |
+| spacenews | 9 | 24 | 17 | 38 |
 | breaking_defense | 1 | 2 | 12 | 21 |
 | nyt | 0 | 1 | 12 | 21 |
 
@@ -2256,3 +2256,4 @@
 - **May 29, 04:49 AM** - HASC $1.15T defense policy bill takes aim at industrial base challenges (breaking_defense)
 - **May 29, 05:24 AM** - NASA’s Moon Base Plan Adds Two Rovers for Its Astronauts (nyt)
 - **May 29, 05:59 AM** - Nations opt for a mix of sovereign, bilateral, federated and commercial space capabilities (spacenews)
+- **May 29, 06:34 AM** - New Glenn rocket explodes on Cape Canaveral pad (spacenews)

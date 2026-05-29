@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-29T00:04:35.509538+00:00",
-    "trigger_count": 6,
-    "current_item_id": "77d0632b403eed41854e7ef664f1530b",
+    "trigger_count": 0,
+    "current_item_id": "9b22c0688fbef5ef8492be814995bd76",
     "data": [
         {
             "id": "4e4c3d163b8834dbc75fd9336ef9a6e4",
@@ -7750,6 +7750,18 @@
             "fetched_datetime": "2026-03-31T09:19:29.684592Z",
             "shown_at": [
                 "2026-03-31T09:19:30.455008Z"
+            ]
+        },
+        {
+            "id": "9b22c0688fbef5ef8492be814995bd76",
+            "source": "spacenews",
+            "text": "New Glenn rocket explodes on Cape Canaveral pad",
+            "source_link": "https://spacenews.com/new-glenn-rocket-explodes-on-cape-canaveral-pad/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-29T06:34:35.420035Z",
+            "shown_at": [
+                "2026-05-29T06:34:36.872393Z"
             ]
         }
     ]
