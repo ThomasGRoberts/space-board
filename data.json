@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-29T00:04:35.509538+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ea60175371922f987ebe9db49eecfff6",
+    "trigger_count": 0,
+    "current_item_id": "4ba0b6af248bd47585e7932e9acfe74a",
     "data": [
         {
             "id": "4e4c3d163b8834dbc75fd9336ef9a6e4",
@@ -7767,6 +7767,18 @@
             "fetched_datetime": "2026-05-29T06:34:35.420035Z",
             "shown_at": [
                 "2026-05-29T06:34:36.872393Z"
+            ]
+        },
+        {
+            "id": "4ba0b6af248bd47585e7932e9acfe74a",
+            "source": "spacenews",
+            "text": "China’s latest batch of new and reusable rockets are close to launch",
+            "source_link": "https://spacenews.com/chinas-latest-batch-of-new-and-reusable-rockets-are-close-to-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-29T10:04:32.409473Z",
+            "shown_at": [
+                "2026-05-29T10:04:34.805752Z"
             ]
         }
     ]
