@@ -1,9 +1,130 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-05-28T00:04:26.692917+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2026-05-29T00:04:35.509538+00:00",
+    "trigger_count": 6,
     "current_item_id": "e4d13f9e5940e7db13b5f591e75a1b65",
     "data": [
+        {
+            "id": "4e4c3d163b8834dbc75fd9336ef9a6e4",
+            "source": "spacenews",
+            "text": "Space Force plans nationwide network of ‘resilient operations centers’ ",
+            "source_link": "https://spacenews.com/space-force-plans-nationwide-network-of-resilient-operations-centers/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-28T22:59:18.287254Z",
+            "shown_at": [
+                "2026-05-28T22:59:19.240945Z"
+            ]
+        },
+        {
+            "id": "2da81c41a572cb1d1b33cf9d5d6d8a33",
+            "source": "spacenews",
+            "text": "Observable Space raises $90 million and wins Space Force contract for optical systems",
+            "source_link": "https://spacenews.com/observable-space-raises-90-million-and-wins-space-force-contract-for-optical-systems/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-28T22:24:27.463312Z",
+            "shown_at": [
+                "2026-05-28T22:24:28.394964Z"
+            ]
+        },
+        {
+            "id": "e4d13f9e5940e7db13b5f591e75a1b65",
+            "source": "breaking_defense",
+            "text": "Epic Fury highlighted Space Force needs for distributed ops, EW sites",
+            "source_link": "https://breakingdefense.com/2026/05/epic-fury-highlighted-space-force-needs-for-distributed-ops-ew-sites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-28T20:39:10.271486Z",
+            "shown_at": [
+                "2026-05-28T20:39:21.305957Z",
+                "2026-05-28T23:34:29.158720Z"
+            ]
+        },
+        {
+            "id": "a568caadd888a448402f2d0b9e8e294c",
+            "source": "spacenews",
+            "text": "Setting up a permanent lunar presence needs investment in biology",
+            "source_link": "https://spacenews.com/setting-up-a-permanent-lunar-presence-needs-investment-in-biology/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-28T17:44:25.106809Z",
+            "shown_at": [
+                "2026-05-28T17:44:26.164529Z"
+            ]
+        },
+        {
+            "id": "61d94d22aaf1577c59a53579a1ddd303",
+            "source": "spacenews",
+            "text": "Revolv Space enters in-orbit servicing market with Infinite Orbits deal",
+            "source_link": "https://spacenews.com/revolv-space-enters-in-orbit-servicing-market-with-infinite-orbits-deal/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-28T16:34:29.684812Z",
+            "shown_at": [
+                "2026-05-28T16:34:32.186306Z"
+            ]
+        },
+        {
+            "id": "39526d7aebf1f39094ad2da16d5ae171",
+            "source": "spacenews",
+            "text": "Germany pushes European military space command initiative",
+            "source_link": "https://spacenews.com/germany-pushes-european-military-space-command-initiative/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-28T15:24:20.000881Z",
+            "shown_at": [
+                "2026-05-28T15:24:21.794305Z"
+            ]
+        },
+        {
+            "id": "4bc76eb61c4b6f03a18486c1bd2ddece",
+            "source": "spacenews",
+            "text": "The Propulsion Imperative Behind Golden Dome",
+            "source_link": "https://spacenews.com/the-propulsion-imperative-behind-golden-dome/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-28T13:29:11.178634Z",
+            "shown_at": [
+                "2026-05-28T13:29:12.862938Z"
+            ]
+        },
+        {
+            "id": "9b7540bf3b99c8868bc5deaa1705448a",
+            "source": "spacenews",
+            "text": "Europe’s biggest space opportunity comes after launch",
+            "source_link": "https://spacenews.com/europes-biggest-space-opportunity-comes-after-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-28T10:29:18.237957Z",
+            "shown_at": [
+                "2026-05-28T10:29:20.869457Z"
+            ]
+        },
+        {
+            "id": "60247f7a5f0b50a572f1829044b3258a",
+            "source": "spacenews",
+            "text": "Virgin Galactic returns Unity to flight to prepare for next-generation spaceplane",
+            "source_link": "https://spacenews.com/virgin-galactic-returns-unity-to-flight-to-prepare-for-next-generation-spaceplane/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-28T06:50:33.785254Z",
+            "shown_at": [
+                "2026-05-28T06:50:34.320709Z"
+            ]
+        },
+        {
+            "id": "e9324f6d7f7de55e90225b89883cce98",
+            "source": "spacenews",
+            "text": "FAA requires mishap investigation into latest Starship launch",
+            "source_link": "https://spacenews.com/faa-requires-mishap-investigation-into-latest-starship-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-28T04:59:05.811032Z",
+            "shown_at": [
+                "2026-05-28T04:59:06.498162Z"
+            ]
+        },
         {
             "id": "97a86e9ff8f96eca3f9016f29579a42d",
             "source": "breaking_defense",
@@ -7618,274 +7739,6 @@
             "fetched_datetime": "2026-03-31T09:19:29.684592Z",
             "shown_at": [
                 "2026-03-31T09:19:30.455008Z"
-            ]
-        },
-        {
-            "id": "fa32fabd15116d757bb3e5ee1957128f",
-            "source": "spacenews",
-            "text": "Artemis 2 countdown underway",
-            "source_link": "https://spacenews.com/artemis-2-countdown-underway/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-31T06:49:28.530396Z",
-            "shown_at": [
-                "2026-03-31T06:49:29.149724Z",
-                "2026-04-03T09:59:18.742427Z",
-                "2026-04-03T22:54:15.491111Z",
-                "2026-04-04T07:09:23.286478Z",
-                "2026-04-06T22:04:40.523251Z"
-            ]
-        },
-        {
-            "id": "7e32cf0824da64456a70c00219503c0d",
-            "source": "spacenews",
-            "text": "Rocket Lab wins German approval for Mynaric deal",
-            "source_link": "https://spacenews.com/rocket-lab-wins-german-approval-for-mynaric-deal/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-30T21:24:29.676649Z",
-            "shown_at": [
-                "2026-03-30T21:24:30.946861Z"
-            ]
-        },
-        {
-            "id": "a5b1ed4a045ed2b757bdf59c7b5e0dff",
-            "source": "spacenews",
-            "text": "Varda flies navigation payload, heat shield tests on sixth reentry mission",
-            "source_link": "https://spacenews.com/varda-flies-navigation-payload-heat-shield-tests-on-sixth-reentry-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-30T20:14:24.823526Z",
-            "shown_at": [
-                "2026-03-30T20:14:25.953524Z",
-                "2026-04-01T00:24:25.690001Z",
-                "2026-04-04T18:14:30.065803Z",
-                "2026-04-05T00:39:20.911968Z"
-            ]
-        },
-        {
-            "id": "0d49fc429dac2344fd52cb81e0c7372b",
-            "source": "spacenews",
-            "text": "ESA launches first Celeste satellites to test complementary LEO navigation layer",
-            "source_link": "https://spacenews.com/esa-launches-first-celeste-satellites-to-test-complementary-leo-navigation-layer/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-30T17:19:15.706000Z",
-            "shown_at": [
-                "2026-03-30T17:19:16.835854Z",
-                "2026-04-02T08:49:18.503235Z",
-                "2026-04-03T14:09:29.266799Z",
-                "2026-04-05T08:19:25.421873Z",
-                "2026-04-06T00:44:12.943171Z",
-                "2026-04-06T08:19:24.769402Z",
-                "2026-04-06T11:14:20.575167Z",
-                "2026-04-06T16:29:07.881882Z"
-            ]
-        },
-        {
-            "id": "f3295b2ab2a05ed25f72b3c1e93eeb7c",
-            "source": "spacenews",
-            "text": "SpaceX launches Transporter-16 rideshare mission",
-            "source_link": "https://spacenews.com/spacex-launches-transporter-16-rideshare-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-30T16:44:27.701728Z",
-            "shown_at": [
-                "2026-03-30T16:44:29.570084Z",
-                "2026-04-04T11:49:35.283427Z"
-            ]
-        },
-        {
-            "id": "d7471cebf684741c294ded1d901c6ddb",
-            "source": "spacenews",
-            "text": "China’s Kinetica-2 rocket debuts successfully, sending prototype cargo spacecraft to orbit",
-            "source_link": "https://spacenews.com/chinas-kinetica-2-rocket-debuts-successfully-sending-prototype-cargo-spacecraft-to-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-30T16:09:23.258610Z",
-            "shown_at": [
-                "2026-03-30T16:09:24.381165Z",
-                "2026-04-02T07:39:14.961842Z"
-            ]
-        },
-        {
-            "id": "2b9f7441aedc905f5c6c50af30f3fcb7",
-            "source": "spacenews",
-            "text": "The race to build orbital data centers is missing its biggest variable: power",
-            "source_link": "https://spacenews.com/the-race-to-build-orbital-data-centers-is-missing-its-biggest-variable-power/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-30T15:34:41.710251Z",
-            "shown_at": [
-                "2026-03-30T15:34:42.915388Z",
-                "2026-03-30T19:39:26.029779Z",
-                "2026-04-04T02:29:12.105253Z",
-                "2026-04-04T03:39:11.630139Z"
-            ]
-        },
-        {
-            "id": "bd3f72003821d7d670d07f4196b0b185",
-            "source": "spacenews",
-            "text": "Pentagon weighing termination of Raytheon GPS ground control contract after years of delays",
-            "source_link": "https://spacenews.com/pentagon-weighing-termination-of-raytheon-gps-ground-control-contract-after-years-of-delays/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-30T14:24:23.533838Z",
-            "shown_at": [
-                "2026-03-30T14:24:24.503944Z",
-                "2026-04-04T16:29:10.493811Z",
-                "2026-04-05T05:54:14.256943Z",
-                "2026-04-05T20:04:50.426931Z"
-            ]
-        },
-        {
-            "id": "1ca645f6c4cab3cdd008869a247d0f31",
-            "source": "spacenews",
-            "text": "With Voyager’s help, Icarus Robotics to test free-flyer on ISS",
-            "source_link": "https://spacenews.com/with-voyagers-help-icarus-robotics-to-test-free-flyer-on-iss/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-30T13:14:30.682353Z",
-            "shown_at": [
-                "2026-03-30T13:49:39.366409Z",
-                "2026-04-05T14:14:18.169928Z",
-                "2026-04-05T15:24:14.033414Z"
-            ]
-        },
-        {
-            "id": "f6d7256e2c73d9d5cb072c485bf28592",
-            "source": "spacenews",
-            "text": "The race to build orbital data centers is missing its biggest variable: power",
-            "source_link": "https://spacenews.com/the-race-to-build-orbital-data-centers-is-missing-its-biggest-variable-power/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-30T13:14:30.682294Z",
-            "shown_at": [
-                "2026-03-30T13:14:32.020273Z",
-                "2026-03-31T02:09:14.921639Z",
-                "2026-04-01T02:44:28.360017Z",
-                "2026-04-05T04:44:21.276019Z"
-            ]
-        },
-        {
-            "id": "e9324f6d7f7de55e90225b89883cce98",
-            "source": "spacenews",
-            "text": "FAA requires mishap investigation into latest Starship launch",
-            "source_link": "https://spacenews.com/faa-requires-mishap-investigation-into-latest-starship-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-28T04:59:05.811032Z",
-            "shown_at": [
-                "2026-05-28T04:59:06.498162Z"
-            ]
-        },
-        {
-            "id": "60247f7a5f0b50a572f1829044b3258a",
-            "source": "spacenews",
-            "text": "Virgin Galactic returns Unity to flight to prepare for next-generation spaceplane",
-            "source_link": "https://spacenews.com/virgin-galactic-returns-unity-to-flight-to-prepare-for-next-generation-spaceplane/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-28T06:50:33.785254Z",
-            "shown_at": [
-                "2026-05-28T06:50:34.320709Z"
-            ]
-        },
-        {
-            "id": "9b7540bf3b99c8868bc5deaa1705448a",
-            "source": "spacenews",
-            "text": "Europe’s biggest space opportunity comes after launch",
-            "source_link": "https://spacenews.com/europes-biggest-space-opportunity-comes-after-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-28T10:29:18.237957Z",
-            "shown_at": [
-                "2026-05-28T10:29:20.869457Z"
-            ]
-        },
-        {
-            "id": "4bc76eb61c4b6f03a18486c1bd2ddece",
-            "source": "spacenews",
-            "text": "The Propulsion Imperative Behind Golden Dome",
-            "source_link": "https://spacenews.com/the-propulsion-imperative-behind-golden-dome/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-28T13:29:11.178634Z",
-            "shown_at": [
-                "2026-05-28T13:29:12.862938Z"
-            ]
-        },
-        {
-            "id": "39526d7aebf1f39094ad2da16d5ae171",
-            "source": "spacenews",
-            "text": "Germany pushes European military space command initiative",
-            "source_link": "https://spacenews.com/germany-pushes-european-military-space-command-initiative/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-28T15:24:20.000881Z",
-            "shown_at": [
-                "2026-05-28T15:24:21.794305Z"
-            ]
-        },
-        {
-            "id": "61d94d22aaf1577c59a53579a1ddd303",
-            "source": "spacenews",
-            "text": "Revolv Space enters in-orbit servicing market with Infinite Orbits deal",
-            "source_link": "https://spacenews.com/revolv-space-enters-in-orbit-servicing-market-with-infinite-orbits-deal/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-28T16:34:29.684812Z",
-            "shown_at": [
-                "2026-05-28T16:34:32.186306Z"
-            ]
-        },
-        {
-            "id": "a568caadd888a448402f2d0b9e8e294c",
-            "source": "spacenews",
-            "text": "Setting up a permanent lunar presence needs investment in biology",
-            "source_link": "https://spacenews.com/setting-up-a-permanent-lunar-presence-needs-investment-in-biology/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-28T17:44:25.106809Z",
-            "shown_at": [
-                "2026-05-28T17:44:26.164529Z"
-            ]
-        },
-        {
-            "id": "e4d13f9e5940e7db13b5f591e75a1b65",
-            "source": "breaking_defense",
-            "text": "Epic Fury highlighted Space Force needs for distributed ops, EW sites",
-            "source_link": "https://breakingdefense.com/2026/05/epic-fury-highlighted-space-force-needs-for-distributed-ops-ew-sites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-28T20:39:10.271486Z",
-            "shown_at": [
-                "2026-05-28T20:39:21.305957Z",
-                "2026-05-28T23:34:29.158720Z"
-            ]
-        },
-        {
-            "id": "2da81c41a572cb1d1b33cf9d5d6d8a33",
-            "source": "spacenews",
-            "text": "Observable Space raises $90 million and wins Space Force contract for optical systems",
-            "source_link": "https://spacenews.com/observable-space-raises-90-million-and-wins-space-force-contract-for-optical-systems/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-28T22:24:27.463312Z",
-            "shown_at": [
-                "2026-05-28T22:24:28.394964Z"
-            ]
-        },
-        {
-            "id": "4e4c3d163b8834dbc75fd9336ef9a6e4",
-            "source": "spacenews",
-            "text": "Space Force plans nationwide network of ‘resilient operations centers’ ",
-            "source_link": "https://spacenews.com/space-force-plans-nationwide-network-of-resilient-operations-centers/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-28T22:59:18.287254Z",
-            "shown_at": [
-                "2026-05-28T22:59:19.240945Z"
             ]
         }
     ]
