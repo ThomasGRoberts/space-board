@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 23 | 17 | 38 |
+| spacenews | 8 | 23 | 16 | 38 |
 | breaking_defense | 1 | 2 | 13 | 22 |
-| nyt | 0 | 0 | 11 | 21 |
+| nyt | 0 | 0 | 12 | 22 |
 
 # Shown Order
 
@@ -2268,3 +2268,4 @@
 - **May 29, 11:49 AM** - Chinese startup Mega Engine advances reusable staged-combustion rocket engine (spacenews)
 - **May 29, 12:24 PM** - Spatial data has become a weapon of war in the US-Iran war (spacenews)
 - **May 29, 12:59 PM** - SpaceX wins $2.29B to speed Space Force’s LEO communications ‘backbone’ (breaking_defense)
+- **May 29, 01:34 PM** - SpaceX IPO Filing Reveals Favorable Terms for Elon Musk (nyt)
