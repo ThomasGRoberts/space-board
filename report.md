@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 23 | 15 | 36 |
+| spacenews | 8 | 23 | 16 | 37 |
 | breaking_defense | 1 | 2 | 13 | 21 |
 | nyt | 0 | 1 | 12 | 22 |
 
@@ -2255,3 +2255,4 @@
 - **May 29, 04:14 AM** - Former Ukraine official calls for stricter restrictions on Russian use of Starlink (spacenews)
 - **May 29, 04:49 AM** - HASC $1.15T defense policy bill takes aim at industrial base challenges (breaking_defense)
 - **May 29, 05:24 AM** - NASA’s Moon Base Plan Adds Two Rovers for Its Astronauts (nyt)
+- **May 29, 05:59 AM** - Nations opt for a mix of sovereign, bilateral, federated and commercial space capabilities (spacenews)
