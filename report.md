@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 18 | 17 | 35 |
-| breaking_defense | 2 | 3 | 13 | 24 |
+| spacenews | 9 | 18 | 17 | 34 |
+| breaking_defense | 3 | 4 | 14 | 25 |
 | nyt | 1 | 1 | 11 | 22 |
 
 # Shown Order
@@ -2275,3 +2275,4 @@
 - **May 29, 03:53 PM** - SPACECOM exploring tech for future offensive cislunar ops: Chief Scientist (breaking_defense)
 - **May 29, 04:29 PM** - What Exactly Caused That Loud Boom in South Carolina? (nyt)
 - **May 29, 05:09 PM** - Space Force awards SpaceX $4.16 billion to build satellite network for airborne target tracking (spacenews)
+- **May 29, 05:44 PM** - SpaceX wins $4.16B Space Force contract to detect airborne moving targets (breaking_defense)
