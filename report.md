@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 22 | 17 | 37 |
-| breaking_defense | 1 | 2 | 12 | 22 |
+| breaking_defense | 1 | 2 | 13 | 23 |
 | nyt | 0 | 0 | 12 | 22 |
 
 # Shown Order
@@ -2270,3 +2270,4 @@
 - **May 29, 12:59 PM** - SpaceX wins $2.29B to speed Space Force’s LEO communications ‘backbone’ (breaking_defense)
 - **May 29, 01:34 PM** - SpaceX IPO Filing Reveals Favorable Terms for Elon Musk (nyt)
 - **May 29, 02:09 PM** - Bellatrix and TelePIX plan 2028 air-breathing VLEO imaging demonstration (spacenews)
+- **May 29, 02:44 PM** - Epic Fury highlighted Space Force needs for distributed ops, EW sites (breaking_defense)
