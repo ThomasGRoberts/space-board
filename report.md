@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 16 | 31 |
 | breaking_defense | 3 | 4 | 13 | 26 |
-| nyt | 1 | 1 | 11 | 23 |
+| nyt | 1 | 1 | 12 | 24 |
 
 # Shown Order
 
@@ -2279,3 +2279,4 @@
 - **May 29, 06:19 PM** - A Fiery Visitor From Space Photo-Bombs an Erupting Volcano (nyt)
 - **May 29, 07:04 PM** - New Glenn rocket explodes on Cape Canaveral pad (spacenews)
 - **May 29, 07:44 PM** - Dept. of Air Force ‘still working’ to sort space programs into acquisition portfolios: Ainsworth (breaking_defense)
+- **May 29, 08:19 PM** - Where to See the Total Solar Eclipse on Aug. 12 (nyt)
