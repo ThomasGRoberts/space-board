@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 24 | 16 | 38 |
+| spacenews | 9 | 25 | 17 | 39 |
 | breaking_defense | 1 | 2 | 12 | 21 |
 | nyt | 0 | 0 | 12 | 21 |
 
@@ -2266,3 +2266,4 @@
 - **May 29, 10:39 AM** - HASC $1.15T defense policy bill takes aim at industrial base challenges (breaking_defense)
 - **May 29, 11:14 AM** - Where to See the Total Solar Eclipse on Aug. 12 (nyt)
 - **May 29, 11:49 AM** - Chinese startup Mega Engine advances reusable staged-combustion rocket engine (spacenews)
+- **May 29, 12:24 PM** - Spatial data has become a weapon of war in the US-Iran war (spacenews)

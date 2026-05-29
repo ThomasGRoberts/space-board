@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-29T00:04:35.509538+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e27ae3c06bf79dd8e01e7fae4c0de355",
+    "trigger_count": 0,
+    "current_item_id": "d2ba3af66d67d2bf0b32576411abb41a",
     "data": [
         {
             "id": "4e4c3d163b8834dbc75fd9336ef9a6e4",
@@ -7782,6 +7782,18 @@
             "fetched_datetime": "2026-05-29T10:04:32.409473Z",
             "shown_at": [
                 "2026-05-29T10:04:34.805752Z"
+            ]
+        },
+        {
+            "id": "d2ba3af66d67d2bf0b32576411abb41a",
+            "source": "spacenews",
+            "text": "Spatial data has become a weapon of war in the US-Iran war",
+            "source_link": "https://spacenews.com/spatial-data-has-become-a-weapon-of-war-in-the-us-iran-war/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-29T12:24:23.950628Z",
+            "shown_at": [
+                "2026-05-29T12:24:24.835293Z"
             ]
         }
     ]
