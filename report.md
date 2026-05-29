@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 24 | 16 | 37 |
-| breaking_defense | 1 | 2 | 12 | 21 |
+| breaking_defense | 1 | 2 | 13 | 22 |
 | nyt | 0 | 1 | 12 | 21 |
 
 # Shown Order
@@ -2257,3 +2257,4 @@
 - **May 29, 05:24 AM** - NASA’s Moon Base Plan Adds Two Rovers for Its Astronauts (nyt)
 - **May 29, 05:59 AM** - Nations opt for a mix of sovereign, bilateral, federated and commercial space capabilities (spacenews)
 - **May 29, 06:34 AM** - New Glenn rocket explodes on Cape Canaveral pad (spacenews)
+- **May 29, 07:09 AM** - SpaceX wins $2.29B to speed Space Force’s LEO communications ‘backbone’ (breaking_defense)
