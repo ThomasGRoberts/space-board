@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-29T00:04:35.509538+00:00",
-    "trigger_count": 6,
-    "current_item_id": "df9cd2bddb03cab7fbdac32b26bec124",
+    "trigger_count": 0,
+    "current_item_id": "12ba169e71a8dbd47d7e17e0c072e63b",
     "data": [
         {
             "id": "4e4c3d163b8834dbc75fd9336ef9a6e4",
@@ -7796,6 +7796,18 @@
             "fetched_datetime": "2026-05-29T12:24:23.950628Z",
             "shown_at": [
                 "2026-05-29T12:24:24.835293Z"
+            ]
+        },
+        {
+            "id": "12ba169e71a8dbd47d7e17e0c072e63b",
+            "source": "spacenews",
+            "text": "Bellatrix and TelePIX plan 2028 air-breathing VLEO imaging demonstration",
+            "source_link": "https://spacenews.com/bellatrix-and-telepix-plan-2028-air-breathing-vleo-imaging-demonstration/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-29T14:09:17.902498Z",
+            "shown_at": [
+                "2026-05-29T14:09:18.956945Z"
             ]
         }
     ]
