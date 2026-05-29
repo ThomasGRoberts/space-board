@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 16 | 31 |
+| spacenews | 8 | 15 | 17 | 32 |
 | breaking_defense | 2 | 3 | 12 | 25 |
 | nyt | 1 | 1 | 12 | 24 |
 
@@ -2280,3 +2280,4 @@
 - **May 29, 07:04 PM** - New Glenn rocket explodes on Cape Canaveral pad (spacenews)
 - **May 29, 07:44 PM** - Dept. of Air Force ‘still working’ to sort space programs into acquisition portfolios: Ainsworth (breaking_defense)
 - **May 29, 08:19 PM** - Where to See the Total Solar Eclipse on Aug. 12 (nyt)
+- **May 29, 08:54 PM** - SpaceX launches first Starship V3 (spacenews)
