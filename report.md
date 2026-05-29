@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 23 | 16 | 36 |
+| spacenews | 8 | 23 | 17 | 37 |
 | breaking_defense | 1 | 2 | 12 | 21 |
 | nyt | 0 | 1 | 12 | 22 |
 
@@ -2259,3 +2259,4 @@
 - **May 29, 06:34 AM** - New Glenn rocket explodes on Cape Canaveral pad (spacenews)
 - **May 29, 07:09 AM** - SpaceX wins $2.29B to speed Space Force’s LEO communications ‘backbone’ (breaking_defense)
 - **May 29, 07:44 AM** - NASA’s Moon Base Plan Adds Two Rovers for Its Astronauts (nyt)
+- **May 29, 08:19 AM** - Open Cosmos’ CEO on what it takes to bring IoT to space (spacenews)
