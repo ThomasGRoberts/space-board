@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 15 | 15 | 31 |
+| spacenews | 7 | 15 | 16 | 32 |
 | breaking_defense | 2 | 3 | 13 | 25 |
 | nyt | 1 | 1 | 12 | 24 |
 
@@ -2283,3 +2283,4 @@
 - **May 29, 08:54 PM** - SpaceX launches first Starship V3 (spacenews)
 - **May 29, 09:29 PM** - SPACECOM exploring tech for future offensive cislunar ops: Chief Scientist (breaking_defense)
 - **May 29, 10:04 PM** - What Exactly Caused That Loud Boom in South Carolina? (nyt)
+- **May 29, 10:39 PM** - Shenzhou-23 crew arrives at Tiangong as China maps path to 2030 lunar landing (spacenews)
