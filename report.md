@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 18 | 16 | 33 |
-| breaking_defense | 3 | 4 | 14 | 25 |
-| nyt | 1 | 1 | 11 | 22 |
+| breaking_defense | 3 | 4 | 13 | 25 |
+| nyt | 1 | 1 | 12 | 23 |
 
 # Shown Order
 
@@ -2276,3 +2276,4 @@
 - **May 29, 04:29 PM** - What Exactly Caused That Loud Boom in South Carolina? (nyt)
 - **May 29, 05:09 PM** - Space Force awards SpaceX $4.16 billion to build satellite network for airborne target tracking (spacenews)
 - **May 29, 05:44 PM** - SpaceX wins $4.16B Space Force contract to detect airborne moving targets (breaking_defense)
+- **May 29, 06:19 PM** - A Fiery Visitor From Space Photo-Bombs an Erupting Volcano (nyt)
