@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 25 | 17 | 39 |
-| breaking_defense | 1 | 2 | 12 | 21 |
+| breaking_defense | 1 | 2 | 13 | 22 |
 | nyt | 0 | 0 | 11 | 21 |
 
 # Shown Order
@@ -2267,3 +2267,4 @@
 - **May 29, 11:14 AM** - Where to See the Total Solar Eclipse on Aug. 12 (nyt)
 - **May 29, 11:49 AM** - Chinese startup Mega Engine advances reusable staged-combustion rocket engine (spacenews)
 - **May 29, 12:24 PM** - Spatial data has become a weapon of war in the US-Iran war (spacenews)
+- **May 29, 12:59 PM** - SpaceX wins $2.29B to speed Space Force’s LEO communications ‘backbone’ (breaking_defense)
