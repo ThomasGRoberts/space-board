@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 15 | 15 | 31 |
-| breaking_defense | 2 | 3 | 13 | 25 |
+| breaking_defense | 2 | 3 | 14 | 26 |
 | nyt | 1 | 1 | 12 | 24 |
 
 # Shown Order
@@ -2284,3 +2284,4 @@
 - **May 29, 09:29 PM** - SPACECOM exploring tech for future offensive cislunar ops: Chief Scientist (breaking_defense)
 - **May 29, 10:04 PM** - What Exactly Caused That Loud Boom in South Carolina? (nyt)
 - **May 29, 10:39 PM** - Shenzhou-23 crew arrives at Tiangong as China maps path to 2030 lunar landing (spacenews)
+- **May 29, 11:14 PM** - SpaceX wins $4.16B Space Force contract to detect airborne moving targets (breaking_defense)
