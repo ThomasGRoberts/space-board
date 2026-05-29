@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 17 | 31 |
-| breaking_defense | 2 | 3 | 12 | 25 |
+| breaking_defense | 2 | 3 | 13 | 26 |
 | nyt | 1 | 1 | 11 | 24 |
 
 # Shown Order
@@ -2281,3 +2281,4 @@
 - **May 29, 07:44 PM** - Dept. of Air Force ‘still working’ to sort space programs into acquisition portfolios: Ainsworth (breaking_defense)
 - **May 29, 08:19 PM** - Where to See the Total Solar Eclipse on Aug. 12 (nyt)
 - **May 29, 08:54 PM** - SpaceX launches first Starship V3 (spacenews)
+- **May 29, 09:29 PM** - SPACECOM exploring tech for future offensive cislunar ops: Chief Scientist (breaking_defense)
