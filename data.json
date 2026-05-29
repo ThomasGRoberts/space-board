@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-29T00:04:35.509538+00:00",
-    "trigger_count": 6,
-    "current_item_id": "866c41b1abeee6ac19611a6303aec82d",
+    "trigger_count": 0,
+    "current_item_id": "b2def25bf48c5323b0b509e9a868fba9",
     "data": [
         {
             "id": "4e4c3d163b8834dbc75fd9336ef9a6e4",
@@ -7821,6 +7821,18 @@
             "fetched_datetime": "2026-05-29T15:19:37.455242Z",
             "shown_at": [
                 "2026-05-29T15:19:39.309165Z"
+            ]
+        },
+        {
+            "id": "b2def25bf48c5323b0b509e9a868fba9",
+            "source": "breaking_defense",
+            "text": "SPACECOM exploring tech for future offensive cislunar ops: Chief Scientist",
+            "source_link": "https://breakingdefense.com/2026/05/spacecom-exploring-tech-for-future-offensive-cislunar-ops-chief-scientist/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-29T15:53:49.178717Z",
+            "shown_at": [
+                "2026-05-29T15:53:50.030585Z"
             ]
         }
     ]
