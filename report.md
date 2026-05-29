@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 24 | 16 | 37 |
+| spacenews | 8 | 24 | 17 | 38 |
 | breaking_defense | 1 | 2 | 12 | 22 |
 | nyt | 0 | 0 | 12 | 21 |
 
@@ -2265,3 +2265,4 @@
 - **May 29, 10:04 AM** - China’s latest batch of new and reusable rockets are close to launch (spacenews)
 - **May 29, 10:39 AM** - HASC $1.15T defense policy bill takes aim at industrial base challenges (breaking_defense)
 - **May 29, 11:14 AM** - Where to See the Total Solar Eclipse on Aug. 12 (nyt)
+- **May 29, 11:49 AM** - Chinese startup Mega Engine advances reusable staged-combustion rocket engine (spacenews)
