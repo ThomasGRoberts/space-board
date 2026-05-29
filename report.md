@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 16 | 31 |
 | breaking_defense | 2 | 3 | 13 | 26 |
-| nyt | 1 | 1 | 11 | 23 |
+| nyt | 1 | 1 | 12 | 24 |
 
 # Shown Order
 
@@ -2282,3 +2282,4 @@
 - **May 29, 08:19 PM** - Where to See the Total Solar Eclipse on Aug. 12 (nyt)
 - **May 29, 08:54 PM** - SpaceX launches first Starship V3 (spacenews)
 - **May 29, 09:29 PM** - SPACECOM exploring tech for future offensive cislunar ops: Chief Scientist (breaking_defense)
+- **May 29, 10:04 PM** - What Exactly Caused That Loud Boom in South Carolina? (nyt)
