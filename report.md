@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 22 | 17 | 36 |
+| spacenews | 10 | 23 | 18 | 37 |
 | breaking_defense | 1 | 2 | 13 | 23 |
 | nyt | 0 | 0 | 11 | 22 |
 
@@ -2271,3 +2271,4 @@
 - **May 29, 01:34 PM** - SpaceX IPO Filing Reveals Favorable Terms for Elon Musk (nyt)
 - **May 29, 02:09 PM** - Bellatrix and TelePIX plan 2028 air-breathing VLEO imaging demonstration (spacenews)
 - **May 29, 02:44 PM** - Epic Fury highlighted Space Force needs for distributed ops, EW sites (breaking_defense)
+- **May 29, 03:19 PM** - Space Force’s commercial gatekeeper offers a playbook for startups seeking defense business (spacenews)
