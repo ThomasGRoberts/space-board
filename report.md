@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 17 | 16 | 35 |
+| spacenews | 9 | 18 | 17 | 35 |
 | breaking_defense | 2 | 3 | 13 | 24 |
 | nyt | 1 | 1 | 12 | 22 |
 
@@ -2274,3 +2274,4 @@
 - **May 29, 03:19 PM** - Space Force’s commercial gatekeeper offers a playbook for startups seeking defense business (spacenews)
 - **May 29, 03:53 PM** - SPACECOM exploring tech for future offensive cislunar ops: Chief Scientist (breaking_defense)
 - **May 29, 04:29 PM** - What Exactly Caused That Loud Boom in South Carolina? (nyt)
+- **May 29, 05:09 PM** - Space Force awards SpaceX $4.16 billion to build satellite network for airborne target tracking (spacenews)

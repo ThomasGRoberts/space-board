@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-29T00:04:35.509538+00:00",
-    "trigger_count": 6,
-    "current_item_id": "11127ba5c8e86ad217ba0921b198d810",
+    "trigger_count": 0,
+    "current_item_id": "3e186ebf5d7ae06493a9aade4c50bb32",
     "data": [
         {
             "id": "4e4c3d163b8834dbc75fd9336ef9a6e4",
@@ -7845,6 +7845,18 @@
             "fetched_datetime": "2026-05-29T16:28:57.514878Z",
             "shown_at": [
                 "2026-05-29T16:29:00.128307Z"
+            ]
+        },
+        {
+            "id": "3e186ebf5d7ae06493a9aade4c50bb32",
+            "source": "spacenews",
+            "text": "Space Force awards SpaceX $4.16 billion to build satellite network for airborne target tracking",
+            "source_link": "https://spacenews.com/space-force-awards-spacex-4-16-billion-to-build-satellite-network-for-airborne-target-tracking/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-29T17:09:14.393139Z",
+            "shown_at": [
+                "2026-05-29T17:09:16.031341Z"
             ]
         }
     ]
