@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 16 | 32 |
-| breaking_defense | 3 | 4 | 13 | 25 |
+| breaking_defense | 3 | 4 | 14 | 26 |
 | nyt | 1 | 1 | 11 | 23 |
 
 # Shown Order
@@ -2278,3 +2278,4 @@
 - **May 29, 05:44 PM** - SpaceX wins $4.16B Space Force contract to detect airborne moving targets (breaking_defense)
 - **May 29, 06:19 PM** - A Fiery Visitor From Space Photo-Bombs an Erupting Volcano (nyt)
 - **May 29, 07:04 PM** - New Glenn rocket explodes on Cape Canaveral pad (spacenews)
+- **May 29, 07:44 PM** - Dept. of Air Force ‘still working’ to sort space programs into acquisition portfolios: Ainsworth (breaking_defense)
