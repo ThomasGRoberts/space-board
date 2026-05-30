@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-30T00:04:37.597322+00:00",
-    "trigger_count": 6,
-    "current_item_id": "dc669d5da554e90edec509e523b6b40c",
+    "trigger_count": 0,
+    "current_item_id": "7eb0515187ef46d9035db14e72d578a1",
     "data": [
         {
             "id": "65918cf4c14d0088af6d382e6ca9580b",
@@ -7800,9 +7800,12 @@
             "source": "nyt",
             "text": "Blue Origin Rocket Blows Up on Florida Launchpad During Test",
             "source_link": "https://www.nytimes.com/2026/05/28/science/blue-origin-explosion-rocket.html",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-05-30T17:29:12.268644Z"
+            "fetched_datetime": "2026-05-30T17:29:12.268644Z",
+            "shown_at": [
+                "2026-05-30T18:03:50.249374Z"
+            ]
         },
         {
             "id": "57bcd60528cc3bd28f1547011a94f062",

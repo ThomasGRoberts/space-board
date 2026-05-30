@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 3 | 13 | 27 |
 | spacenews | 0 | 8 | 13 | 29 |
-| nyt | 3 | 4 | 14 | 25 |
+| nyt | 3 | 4 | 15 | 26 |
 
 # Shown Order
 
@@ -2288,3 +2288,4 @@
 - **May 30, 04:19 PM** - Kongsberg NanoAvionics sets sights on building and supporting sovereign constellations (spacenews)
 - **May 30, 04:54 PM** - Dept. of Air Force ‘still working’ to sort space programs into acquisition portfolios: Ainsworth (breaking_defense)
 - **May 30, 05:29 PM** - What’s Next for Blue Origin After Rocket Explosion (nyt)
+- **May 30, 06:03 PM** - Blue Origin Rocket Blows Up on Florida Launchpad During Test (nyt)
