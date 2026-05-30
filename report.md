@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 14 | 26 |
 | spacenews | 4 | 12 | 14 | 31 |
-| nyt | 1 | 1 | 12 | 24 |
+| nyt | 1 | 1 | 13 | 25 |
 
 # Shown Order
 
@@ -2278,3 +2278,4 @@
 - **May 30, 10:29 AM** - SpaceX’s Unconventional Corporate Arrangements Favor Elon Musk (nyt)
 - **May 30, 11:04 AM** - The Propulsion Imperative Behind Golden Dome (spacenews)
 - **May 30, 11:39 AM** - Dept. of Air Force ‘still working’ to sort space programs into acquisition portfolios: Ainsworth (breaking_defense)
+- **May 30, 12:14 PM** - A Fiery Visitor From Space Photo-Bombs an Erupting Volcano (nyt)
