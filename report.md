@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 3 | 13 | 25 |
+| breaking_defense | 2 | 3 | 14 | 26 |
 | spacenews | 6 | 15 | 15 | 31 |
 | nyt | 1 | 1 | 12 | 24 |
 
@@ -2259,3 +2259,4 @@
 - **May 29, 11:14 PM** - SpaceX wins $4.16B Space Force contract to detect airborne moving targets (breaking_defense)
 - **May 29, 11:54 PM** - A New Era of Exploring the Universe in Radio (nyt)
 - **May 30, 12:34 AM** - Starcloud orders Starlink lasers for orbital data center network (spacenews)
+- **May 30, 01:09 AM** - SpaceX wins $4.16B Space Force contract to detect airborne moving targets (breaking_defense)
