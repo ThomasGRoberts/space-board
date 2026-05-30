@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 13 | 26 |
-| spacenews | 5 | 13 | 14 | 30 |
-| nyt | 1 | 1 | 13 | 25 |
+| spacenews | 5 | 13 | 15 | 31 |
+| nyt | 1 | 1 | 13 | 24 |
 
 # Shown Order
 
@@ -2270,3 +2270,4 @@
 - **May 30, 05:49 AM** - As geopolitics reshape space, SpinLaunch sees an opening (spacenews)
 - **May 30, 06:24 AM** - SPACECOM exploring tech for future offensive cislunar ops: Chief Scientist (breaking_defense)
 - **May 30, 06:59 AM** - Where to See the Total Solar Eclipse on Aug. 12 (nyt)
+- **May 30, 07:34 AM** - Bellatrix and TelePIX plan 2028 air-breathing VLEO imaging demonstration (spacenews)
