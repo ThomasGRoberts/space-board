@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 13 | 26 |
-| spacenews | 6 | 14 | 15 | 30 |
+| spacenews | 6 | 14 | 16 | 31 |
 | nyt | 1 | 1 | 12 | 24 |
 
 # Shown Order
@@ -2267,3 +2267,4 @@
 - **May 30, 04:04 AM** - Space Force’s commercial gatekeeper offers a playbook for startups seeking defense business (spacenews)
 - **May 30, 04:39 AM** - SpaceX wins $4.16B Space Force contract to detect airborne moving targets (breaking_defense)
 - **May 30, 05:14 AM** - SpaceX’s Unconventional Corporate Arrangements Favor Elon Musk (nyt)
+- **May 30, 05:49 AM** - As geopolitics reshape space, SpinLaunch sees an opening (spacenews)
