@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 13 | 25 |
-| spacenews | 6 | 15 | 15 | 31 |
+| spacenews | 6 | 15 | 16 | 32 |
 | nyt | 1 | 1 | 12 | 24 |
 
 # Shown Order
@@ -2261,3 +2261,4 @@
 - **May 30, 12:34 AM** - Starcloud orders Starlink lasers for orbital data center network (spacenews)
 - **May 30, 01:09 AM** - SpaceX wins $4.16B Space Force contract to detect airborne moving targets (breaking_defense)
 - **May 30, 01:44 AM** - What Exactly Caused That Loud Boom in South Carolina? (nyt)
+- **May 30, 02:18 AM** - Northern Norway is ready to launch. EU Space Regulation — and its new Arctic policy – is not. (spacenews)
