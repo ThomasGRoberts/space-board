@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 3 | 13 | 26 |
+| breaking_defense | 2 | 3 | 14 | 27 |
 | spacenews | 5 | 13 | 15 | 31 |
 | nyt | 1 | 1 | 12 | 24 |
 
@@ -2274,3 +2274,4 @@
 - **May 30, 08:09 AM** - SpaceX wins $2.29B to speed Space Force’s LEO communications ‘backbone’ (breaking_defense)
 - **May 30, 08:44 AM** - SpaceX IPO Filing Reveals Favorable Terms for Elon Musk (nyt)
 - **May 30, 09:19 AM** - The Propulsion Imperative Behind Golden Dome (spacenews)
+- **May 30, 09:54 AM** - Dept. of Air Force ‘still working’ to sort space programs into acquisition portfolios: Ainsworth (breaking_defense)
