@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 3 | 13 | 26 |
-| spacenews | 0 | 8 | 12 | 29 |
+| spacenews | 0 | 8 | 13 | 30 |
 | nyt | 3 | 4 | 15 | 26 |
 
 # Shown Order
@@ -2290,3 +2290,4 @@
 - **May 30, 05:29 PM** - What’s Next for Blue Origin After Rocket Explosion (nyt)
 - **May 30, 06:03 PM** - Blue Origin Rocket Blows Up on Florida Launchpad During Test (nyt)
 - **May 30, 06:39 PM** - The Blue Micromoon Rises in Sunday’s Early Skies (nyt)
+- **May 30, 07:14 PM** - Space Force’s commercial gatekeeper offers a playbook for startups seeking defense business (spacenews)
