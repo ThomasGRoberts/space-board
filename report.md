@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 3 | 13 | 25 |
+| breaking_defense | 2 | 3 | 14 | 26 |
 | spacenews | 6 | 14 | 15 | 31 |
 | nyt | 1 | 1 | 12 | 24 |
 
@@ -2268,3 +2268,4 @@
 - **May 30, 04:39 AM** - SpaceX wins $4.16B Space Force contract to detect airborne moving targets (breaking_defense)
 - **May 30, 05:14 AM** - SpaceX’s Unconventional Corporate Arrangements Favor Elon Musk (nyt)
 - **May 30, 05:49 AM** - As geopolitics reshape space, SpinLaunch sees an opening (spacenews)
+- **May 30, 06:24 AM** - SPACECOM exploring tech for future offensive cislunar ops: Chief Scientist (breaking_defense)
