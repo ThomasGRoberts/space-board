@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 13 | 26 |
 | spacenews | 6 | 15 | 15 | 31 |
-| nyt | 1 | 1 | 12 | 23 |
+| nyt | 1 | 1 | 13 | 24 |
 
 # Shown Order
 
@@ -2263,3 +2263,4 @@
 - **May 30, 01:44 AM** - What Exactly Caused That Loud Boom in South Carolina? (nyt)
 - **May 30, 02:18 AM** - Northern Norway is ready to launch. EU Space Regulation — and its new Arctic policy – is not. (spacenews)
 - **May 30, 02:54 AM** - SpaceX wins $2.29B to speed Space Force’s LEO communications ‘backbone’ (breaking_defense)
+- **May 30, 03:29 AM** - In ‘For All Mankind,’ America Wins by Losing (nyt)
