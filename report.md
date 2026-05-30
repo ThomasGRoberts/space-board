@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 3 | 13 | 26 |
 | spacenews | 0 | 8 | 13 | 29 |
-| nyt | 3 | 4 | 14 | 26 |
+| nyt | 3 | 4 | 15 | 27 |
 
 # Shown Order
 
@@ -2292,3 +2292,4 @@
 - **May 30, 06:39 PM** - The Blue Micromoon Rises in Sunday’s Early Skies (nyt)
 - **May 30, 07:14 PM** - Space Force’s commercial gatekeeper offers a playbook for startups seeking defense business (spacenews)
 - **May 30, 07:49 PM** - Dept. of Air Force ‘still working’ to sort space programs into acquisition portfolios: Ainsworth (breaking_defense)
+- **May 30, 08:24 PM** - SpaceX IPO Filing Reveals Favorable Terms for Elon Musk (nyt)
