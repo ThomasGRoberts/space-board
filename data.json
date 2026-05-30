@@ -1,9 +1,121 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-05-29T00:04:35.509538+00:00",
-    "trigger_count": 1,
+    "last_run_datetime": "2026-05-30T00:04:37.597322+00:00",
+    "trigger_count": 2,
     "current_item_id": "53aa79c4792feda50b38ef70765da433",
     "data": [
+        {
+            "id": "65918cf4c14d0088af6d382e6ca9580b",
+            "source": "breaking_defense",
+            "text": "SpaceX wins $4.16B Space Force contract to detect airborne moving targets",
+            "source_link": "https://breakingdefense.com/2026/05/spacex-wins-4-16b-space-force-contract-to-detect-airborne-moving-targets/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-29T17:44:22.311871Z",
+            "shown_at": [
+                "2026-05-29T17:44:24.686895Z",
+                "2026-05-29T23:14:15.768565Z"
+            ]
+        },
+        {
+            "id": "3e186ebf5d7ae06493a9aade4c50bb32",
+            "source": "spacenews",
+            "text": "Space Force awards SpaceX $4.16 billion to build satellite network for airborne target tracking",
+            "source_link": "https://spacenews.com/space-force-awards-spacex-4-16-billion-to-build-satellite-network-for-airborne-target-tracking/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-29T17:09:14.393139Z",
+            "shown_at": [
+                "2026-05-29T17:09:16.031341Z"
+            ]
+        },
+        {
+            "id": "11127ba5c8e86ad217ba0921b198d810",
+            "source": "nyt",
+            "text": "What Exactly Caused That Loud Boom in South Carolina?",
+            "source_link": "https://www.nytimes.com/2026/05/29/us/south-carolina-sonic-boom.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-29T16:28:57.514878Z",
+            "shown_at": [
+                "2026-05-29T16:29:00.128307Z",
+                "2026-05-29T22:04:41.552900Z"
+            ]
+        },
+        {
+            "id": "b2def25bf48c5323b0b509e9a868fba9",
+            "source": "breaking_defense",
+            "text": "SPACECOM exploring tech for future offensive cislunar ops: Chief Scientist",
+            "source_link": "https://breakingdefense.com/2026/05/spacecom-exploring-tech-for-future-offensive-cislunar-ops-chief-scientist/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-29T15:53:49.178717Z",
+            "shown_at": [
+                "2026-05-29T15:53:50.030585Z",
+                "2026-05-29T21:29:05.181783Z"
+            ]
+        },
+        {
+            "id": "866c41b1abeee6ac19611a6303aec82d",
+            "source": "spacenews",
+            "text": "Space Force’s commercial gatekeeper offers a playbook for startups seeking defense business",
+            "source_link": "https://spacenews.com/space-forces-commercial-gatekeeper-offers-a-playbook-for-startups-seeking-defense-business/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-29T15:19:37.455242Z",
+            "shown_at": [
+                "2026-05-29T15:19:39.309165Z"
+            ]
+        },
+        {
+            "id": "12ba169e71a8dbd47d7e17e0c072e63b",
+            "source": "spacenews",
+            "text": "Bellatrix and TelePIX plan 2028 air-breathing VLEO imaging demonstration",
+            "source_link": "https://spacenews.com/bellatrix-and-telepix-plan-2028-air-breathing-vleo-imaging-demonstration/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-29T14:09:17.902498Z",
+            "shown_at": [
+                "2026-05-29T14:09:18.956945Z"
+            ]
+        },
+        {
+            "id": "d2ba3af66d67d2bf0b32576411abb41a",
+            "source": "spacenews",
+            "text": "Spatial data has become a weapon of war in the US-Iran war",
+            "source_link": "https://spacenews.com/spatial-data-has-become-a-weapon-of-war-in-the-us-iran-war/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-29T12:24:23.950628Z",
+            "shown_at": [
+                "2026-05-29T12:24:24.835293Z"
+            ]
+        },
+        {
+            "id": "4ba0b6af248bd47585e7932e9acfe74a",
+            "source": "spacenews",
+            "text": "China’s latest batch of new and reusable rockets are close to launch",
+            "source_link": "https://spacenews.com/chinas-latest-batch-of-new-and-reusable-rockets-are-close-to-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-29T10:04:32.409473Z",
+            "shown_at": [
+                "2026-05-29T10:04:34.805752Z"
+            ]
+        },
+        {
+            "id": "9b22c0688fbef5ef8492be814995bd76",
+            "source": "spacenews",
+            "text": "New Glenn rocket explodes on Cape Canaveral pad",
+            "source_link": "https://spacenews.com/new-glenn-rocket-explodes-on-cape-canaveral-pad/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-29T06:34:35.420035Z",
+            "shown_at": [
+                "2026-05-29T06:34:36.872393Z",
+                "2026-05-29T19:04:47.153806Z"
+            ]
+        },
         {
             "id": "4e4c3d163b8834dbc75fd9336ef9a6e4",
             "source": "spacenews",
@@ -7640,245 +7752,6 @@
                 "2026-04-03T19:59:16.860828Z",
                 "2026-04-04T15:19:12.691348Z",
                 "2026-04-05T02:59:23.396990Z"
-            ]
-        },
-        {
-            "id": "b8f9686ade64542b009f1f8843c38431",
-            "source": "spacenews",
-            "text": "Cast your vote for the best sci-fi spaceship and then watch debaters duke it out at Space Symposium",
-            "source_link": "https://spacenews.com/spaceship-smackdown-space-symposium-2026/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-31T23:14:20.235558Z",
-            "shown_at": [
-                "2026-03-31T23:14:21.608027Z",
-                "2026-04-01T03:54:22.874422Z",
-                "2026-04-04T05:59:01.187055Z",
-                "2026-04-05T01:49:19.747699Z"
-            ]
-        },
-        {
-            "id": "bc45f1121ce2a7837102c0b070091f4b",
-            "source": "nyt",
-            "text": "Why the Artemis II Astronauts Will Be Wearing Orange",
-            "source_link": "https://www.nytimes.com/2026/03/31/style/artemis-ii-spacesuits-orange-astronauts.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-31T22:04:33.930271Z",
-            "shown_at": [
-                "2026-03-31T22:04:35.094693Z",
-                "2026-04-03T07:04:29.611695Z",
-                "2026-04-04T15:54:16.327609Z",
-                "2026-04-05T04:09:06.714410Z",
-                "2026-04-05T17:08:59.892472Z"
-            ]
-        },
-        {
-            "id": "b5183ea6ca3ee119fe74e4a2191a3888",
-            "source": "spacenews",
-            "text": "Agentic AI: the future of space warfare",
-            "source_link": "https://spacenews.com/agentic-ai-the-future-of-space-warfare/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-31T13:59:26.318693Z",
-            "shown_at": [
-                "2026-03-31T13:59:27.474904Z",
-                "2026-04-03T06:29:09.879408Z"
-            ]
-        },
-        {
-            "id": "488441cdb14c639daf9bf5b63a2a603e",
-            "source": "spacenews",
-            "text": "Antaris™ Raises $28 Million Series A to Accelerate AI-Driven Space Missions",
-            "source_link": "https://spacenews.com/antaris-raises-28-million-series-a-to-accelerate-ai-driven-space-missions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-31T12:14:14.633292Z",
-            "shown_at": [
-                "2026-03-31T12:14:15.953893Z",
-                "2026-04-01T07:24:31.426295Z",
-                "2026-04-03T01:49:17.843710Z",
-                "2026-04-05T16:34:26.846395Z"
-            ]
-        },
-        {
-            "id": "4d545469edc0e482c7fc51a6cc42a050",
-            "source": "spacenews",
-            "text": "China targets 140 launches in 2026 amid commercial space surge",
-            "source_link": "https://spacenews.com/china-targets-140-launches-in-2026-amid-commercial-space-surge/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-31T11:04:33.497469Z",
-            "shown_at": [
-                "2026-03-31T11:04:34.396094Z"
-            ]
-        },
-        {
-            "id": "19e7d51cc057575d6d0bb13433ec71d3",
-            "source": "nyt",
-            "text": "In a Moment of Division, the Astronauts on the Artemis II Mission Hope to Inspire",
-            "source_link": "https://www.nytimes.com/2026/03/31/science/nasa-artemis-ii-mission-astronauts.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-31T09:54:28.939504Z",
-            "shown_at": [
-                "2026-03-31T11:39:05.012975Z",
-                "2026-04-05T07:39:17.261848Z"
-            ]
-        },
-        {
-            "id": "ec9eef762bae32dd562d2a41dfc04541",
-            "source": "nyt",
-            "text": "For Trump, the Artemis II Moon Mission Offers a Shot to Cement His Legacy",
-            "source_link": "https://www.nytimes.com/2026/03/31/us/politics/trump-artemis-ii-moon-mission.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-31T09:54:28.939436Z",
-            "shown_at": [
-                "2026-03-31T10:29:21.060377Z",
-                "2026-03-31T17:24:10.588178Z",
-                "2026-04-04T13:34:24.438702Z",
-                "2026-04-06T06:34:43.002276Z"
-            ]
-        },
-        {
-            "id": "83f113ab5c881c66675979a336169fde",
-            "source": "nyt",
-            "text": "First Canadian Astronaut Will Travel to the Moon Amid Fraying U.S.-Canada Relations",
-            "source_link": "https://www.nytimes.com/2026/03/31/world/canada/canada-astronaut-artemis-ii-mission-moon.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-31T09:54:28.939394Z",
-            "shown_at": [
-                "2026-03-31T09:54:29.978097Z",
-                "2026-03-31T16:14:15.376002Z",
-                "2026-04-01T11:29:24.294204Z",
-                "2026-04-03T09:24:15.618615Z",
-                "2026-04-05T05:19:21.240902Z"
-            ]
-        },
-        {
-            "id": "f9e5eb9f9aa572760aaba8c7c517e786",
-            "source": "spacenews",
-            "text": "Europe’s space sector faces power shift as funding grows",
-            "source_link": "https://spacenews.com/europes-space-sector-faces-power-shift-as-funding-grows/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-03-31T09:19:29.684592Z",
-            "shown_at": [
-                "2026-03-31T09:19:30.455008Z"
-            ]
-        },
-        {
-            "id": "9b22c0688fbef5ef8492be814995bd76",
-            "source": "spacenews",
-            "text": "New Glenn rocket explodes on Cape Canaveral pad",
-            "source_link": "https://spacenews.com/new-glenn-rocket-explodes-on-cape-canaveral-pad/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-29T06:34:35.420035Z",
-            "shown_at": [
-                "2026-05-29T06:34:36.872393Z",
-                "2026-05-29T19:04:47.153806Z"
-            ]
-        },
-        {
-            "id": "4ba0b6af248bd47585e7932e9acfe74a",
-            "source": "spacenews",
-            "text": "China’s latest batch of new and reusable rockets are close to launch",
-            "source_link": "https://spacenews.com/chinas-latest-batch-of-new-and-reusable-rockets-are-close-to-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-29T10:04:32.409473Z",
-            "shown_at": [
-                "2026-05-29T10:04:34.805752Z"
-            ]
-        },
-        {
-            "id": "d2ba3af66d67d2bf0b32576411abb41a",
-            "source": "spacenews",
-            "text": "Spatial data has become a weapon of war in the US-Iran war",
-            "source_link": "https://spacenews.com/spatial-data-has-become-a-weapon-of-war-in-the-us-iran-war/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-29T12:24:23.950628Z",
-            "shown_at": [
-                "2026-05-29T12:24:24.835293Z"
-            ]
-        },
-        {
-            "id": "12ba169e71a8dbd47d7e17e0c072e63b",
-            "source": "spacenews",
-            "text": "Bellatrix and TelePIX plan 2028 air-breathing VLEO imaging demonstration",
-            "source_link": "https://spacenews.com/bellatrix-and-telepix-plan-2028-air-breathing-vleo-imaging-demonstration/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-29T14:09:17.902498Z",
-            "shown_at": [
-                "2026-05-29T14:09:18.956945Z"
-            ]
-        },
-        {
-            "id": "866c41b1abeee6ac19611a6303aec82d",
-            "source": "spacenews",
-            "text": "Space Force’s commercial gatekeeper offers a playbook for startups seeking defense business",
-            "source_link": "https://spacenews.com/space-forces-commercial-gatekeeper-offers-a-playbook-for-startups-seeking-defense-business/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-29T15:19:37.455242Z",
-            "shown_at": [
-                "2026-05-29T15:19:39.309165Z"
-            ]
-        },
-        {
-            "id": "b2def25bf48c5323b0b509e9a868fba9",
-            "source": "breaking_defense",
-            "text": "SPACECOM exploring tech for future offensive cislunar ops: Chief Scientist",
-            "source_link": "https://breakingdefense.com/2026/05/spacecom-exploring-tech-for-future-offensive-cislunar-ops-chief-scientist/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-29T15:53:49.178717Z",
-            "shown_at": [
-                "2026-05-29T15:53:50.030585Z",
-                "2026-05-29T21:29:05.181783Z"
-            ]
-        },
-        {
-            "id": "11127ba5c8e86ad217ba0921b198d810",
-            "source": "nyt",
-            "text": "What Exactly Caused That Loud Boom in South Carolina?",
-            "source_link": "https://www.nytimes.com/2026/05/29/us/south-carolina-sonic-boom.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-29T16:28:57.514878Z",
-            "shown_at": [
-                "2026-05-29T16:29:00.128307Z",
-                "2026-05-29T22:04:41.552900Z"
-            ]
-        },
-        {
-            "id": "3e186ebf5d7ae06493a9aade4c50bb32",
-            "source": "spacenews",
-            "text": "Space Force awards SpaceX $4.16 billion to build satellite network for airborne target tracking",
-            "source_link": "https://spacenews.com/space-force-awards-spacex-4-16-billion-to-build-satellite-network-for-airborne-target-tracking/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-29T17:09:14.393139Z",
-            "shown_at": [
-                "2026-05-29T17:09:16.031341Z"
-            ]
-        },
-        {
-            "id": "65918cf4c14d0088af6d382e6ca9580b",
-            "source": "breaking_defense",
-            "text": "SpaceX wins $4.16B Space Force contract to detect airborne moving targets",
-            "source_link": "https://breakingdefense.com/2026/05/spacex-wins-4-16b-space-force-contract-to-detect-airborne-moving-targets/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-29T17:44:22.311871Z",
-            "shown_at": [
-                "2026-05-29T17:44:24.686895Z",
-                "2026-05-29T23:14:15.768565Z"
             ]
         }
     ]
