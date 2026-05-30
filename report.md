@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 3 | 13 | 26 |
+| breaking_defense | 2 | 3 | 14 | 27 |
 | spacenews | 3 | 12 | 14 | 31 |
 | nyt | 1 | 1 | 13 | 24 |
 
@@ -2280,3 +2280,4 @@
 - **May 30, 11:39 AM** - Dept. of Air Force ‘still working’ to sort space programs into acquisition portfolios: Ainsworth (breaking_defense)
 - **May 30, 12:14 PM** - A Fiery Visitor From Space Photo-Bombs an Erupting Volcano (nyt)
 - **May 30, 12:49 PM** - The surge in military budgets can help Europe’s entrepreneurial space sector — if spending speeds up (spacenews)
+- **May 30, 01:24 PM** - Dept. of Air Force ‘still working’ to sort space programs into acquisition portfolios: Ainsworth (breaking_defense)
