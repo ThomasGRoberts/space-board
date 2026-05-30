@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 3 | 13 | 26 |
+| breaking_defense | 2 | 3 | 14 | 27 |
 | spacenews | 2 | 11 | 14 | 31 |
 | nyt | 1 | 1 | 13 | 24 |
 
@@ -2283,3 +2283,4 @@
 - **May 30, 01:24 PM** - Dept. of Air Force ‘still working’ to sort space programs into acquisition portfolios: Ainsworth (breaking_defense)
 - **May 30, 01:58 PM** - A New Era of Exploring the Universe in Radio (nyt)
 - **May 30, 02:34 PM** - Open Cosmos’ CEO on what it takes to bring IoT to space (spacenews)
+- **May 30, 03:09 PM** - SpaceX wins $4.16B Space Force contract to detect airborne moving targets (breaking_defense)
