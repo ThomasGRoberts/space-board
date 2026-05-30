@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 3 | 13 | 25 |
+| breaking_defense | 2 | 3 | 14 | 26 |
 | spacenews | 6 | 15 | 15 | 31 |
 | nyt | 1 | 1 | 12 | 24 |
 
@@ -2265,3 +2265,4 @@
 - **May 30, 02:54 AM** - SpaceX wins $2.29B to speed Space Force’s LEO communications ‘backbone’ (breaking_defense)
 - **May 30, 03:29 AM** - In ‘For All Mankind,’ America Wins by Losing (nyt)
 - **May 30, 04:04 AM** - Space Force’s commercial gatekeeper offers a playbook for startups seeking defense business (spacenews)
+- **May 30, 04:39 AM** - SpaceX wins $4.16B Space Force contract to detect airborne moving targets (breaking_defense)
