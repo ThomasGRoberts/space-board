@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 3 | 13 | 26 |
-| spacenews | 1 | 10 | 13 | 30 |
+| spacenews | 1 | 10 | 14 | 31 |
 | nyt | 1 | 1 | 14 | 25 |
 
 # Shown Order
@@ -2285,3 +2285,4 @@
 - **May 30, 02:34 PM** - Open Cosmos’ CEO on what it takes to bring IoT to space (spacenews)
 - **May 30, 03:09 PM** - SpaceX wins $4.16B Space Force contract to detect airborne moving targets (breaking_defense)
 - **May 30, 03:44 PM** - A New Era of Exploring the Universe in Radio (nyt)
+- **May 30, 04:19 PM** - Kongsberg NanoAvionics sets sights on building and supporting sovereign constellations (spacenews)
