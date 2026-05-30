@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 2 | 13 | 26 |
-| spacenews | 1 | 8 | 14 | 29 |
-| nyt | 3 | 4 | 14 | 26 |
+| spacenews | 1 | 8 | 13 | 29 |
+| nyt | 3 | 4 | 15 | 27 |
 
 # Shown Order
 
@@ -2296,3 +2296,4 @@
 - **May 30, 08:59 PM** - Spatial data has become a weapon of war in the US-Iran war (spacenews)
 - **May 30, 09:34 PM** - Blue Origin gets national security launch task order hours before New Glenn explosion (spacenews)
 - **May 30, 10:09 PM** - HASC $1.15T defense policy bill takes aim at industrial base challenges (breaking_defense)
+- **May 30, 10:44 PM** - Blue Origin Rocket Blows Up on Florida Launchpad During Test (nyt)
