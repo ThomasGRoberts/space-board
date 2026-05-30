@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 13 | 25 |
-| spacenews | 6 | 15 | 15 | 31 |
+| spacenews | 6 | 15 | 16 | 32 |
 | nyt | 1 | 1 | 12 | 24 |
 
 # Shown Order
@@ -2258,3 +2258,4 @@
 - **May 29, 10:39 PM** - Shenzhou-23 crew arrives at Tiangong as China maps path to 2030 lunar landing (spacenews)
 - **May 29, 11:14 PM** - SpaceX wins $4.16B Space Force contract to detect airborne moving targets (breaking_defense)
 - **May 29, 11:54 PM** - A New Era of Exploring the Universe in Radio (nyt)
+- **May 30, 12:34 AM** - Starcloud orders Starlink lasers for orbital data center network (spacenews)
