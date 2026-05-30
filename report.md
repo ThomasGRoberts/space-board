@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 13 | 26 |
-| spacenews | 4 | 12 | 14 | 30 |
+| spacenews | 4 | 12 | 15 | 31 |
 | nyt | 1 | 1 | 13 | 25 |
 
 # Shown Order
@@ -2276,3 +2276,4 @@
 - **May 30, 09:19 AM** - The Propulsion Imperative Behind Golden Dome (spacenews)
 - **May 30, 09:54 AM** - Dept. of Air Force ‘still working’ to sort space programs into acquisition portfolios: Ainsworth (breaking_defense)
 - **May 30, 10:29 AM** - SpaceX’s Unconventional Corporate Arrangements Favor Elon Musk (nyt)
+- **May 30, 11:04 AM** - The Propulsion Imperative Behind Golden Dome (spacenews)
