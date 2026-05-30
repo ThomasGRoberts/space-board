@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 14 | 27 |
 | spacenews | 1 | 10 | 13 | 30 |
-| nyt | 1 | 1 | 13 | 24 |
+| nyt | 1 | 1 | 14 | 25 |
 
 # Shown Order
 
@@ -2284,3 +2284,4 @@
 - **May 30, 01:58 PM** - A New Era of Exploring the Universe in Radio (nyt)
 - **May 30, 02:34 PM** - Open Cosmos’ CEO on what it takes to bring IoT to space (spacenews)
 - **May 30, 03:09 PM** - SpaceX wins $4.16B Space Force contract to detect airborne moving targets (breaking_defense)
+- **May 30, 03:44 PM** - A New Era of Exploring the Universe in Radio (nyt)
