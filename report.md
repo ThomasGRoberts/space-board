@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 13 | 26 |
-| spacenews | 5 | 13 | 14 | 30 |
+| spacenews | 5 | 13 | 15 | 31 |
 | nyt | 1 | 1 | 13 | 25 |
 
 # Shown Order
@@ -2273,3 +2273,4 @@
 - **May 30, 07:34 AM** - Bellatrix and TelePIX plan 2028 air-breathing VLEO imaging demonstration (spacenews)
 - **May 30, 08:09 AM** - SpaceX wins $2.29B to speed Space Force’s LEO communications ‘backbone’ (breaking_defense)
 - **May 30, 08:44 AM** - SpaceX IPO Filing Reveals Favorable Terms for Elon Musk (nyt)
+- **May 30, 09:19 AM** - The Propulsion Imperative Behind Golden Dome (spacenews)
