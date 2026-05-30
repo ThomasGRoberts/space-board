@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 2 | 13 | 25 |
-| spacenews | 0 | 8 | 13 | 30 |
+| breaking_defense | 0 | 2 | 12 | 25 |
+| spacenews | 1 | 9 | 14 | 31 |
 | nyt | 3 | 4 | 15 | 26 |
 
 # Shown Order
@@ -2294,3 +2294,4 @@
 - **May 30, 07:49 PM** - Dept. of Air Force ‘still working’ to sort space programs into acquisition portfolios: Ainsworth (breaking_defense)
 - **May 30, 08:24 PM** - SpaceX IPO Filing Reveals Favorable Terms for Elon Musk (nyt)
 - **May 30, 08:59 PM** - Spatial data has become a weapon of war in the US-Iran war (spacenews)
+- **May 30, 09:34 PM** - Blue Origin gets national security launch task order hours before New Glenn explosion (spacenews)
