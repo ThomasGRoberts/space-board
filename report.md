@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 13 | 25 |
-| spacenews | 6 | 15 | 15 | 31 |
+| spacenews | 6 | 15 | 16 | 32 |
 | nyt | 1 | 1 | 12 | 24 |
 
 # Shown Order
@@ -2264,3 +2264,4 @@
 - **May 30, 02:18 AM** - Northern Norway is ready to launch. EU Space Regulation — and its new Arctic policy – is not. (spacenews)
 - **May 30, 02:54 AM** - SpaceX wins $2.29B to speed Space Force’s LEO communications ‘backbone’ (breaking_defense)
 - **May 30, 03:29 AM** - In ‘For All Mankind,’ America Wins by Losing (nyt)
+- **May 30, 04:04 AM** - Space Force’s commercial gatekeeper offers a playbook for startups seeking defense business (spacenews)
