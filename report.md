@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 13 | 26 |
 | spacenews | 6 | 15 | 15 | 31 |
-| nyt | 1 | 1 | 12 | 23 |
+| nyt | 1 | 1 | 13 | 24 |
 
 # Shown Order
 
@@ -2260,3 +2260,4 @@
 - **May 29, 11:54 PM** - A New Era of Exploring the Universe in Radio (nyt)
 - **May 30, 12:34 AM** - Starcloud orders Starlink lasers for orbital data center network (spacenews)
 - **May 30, 01:09 AM** - SpaceX wins $4.16B Space Force contract to detect airborne moving targets (breaking_defense)
+- **May 30, 01:44 AM** - What Exactly Caused That Loud Boom in South Carolina? (nyt)
