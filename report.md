@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 2 | 12 | 25 |
+| breaking_defense | 0 | 2 | 13 | 26 |
 | spacenews | 1 | 7 | 14 | 29 |
 | nyt | 3 | 4 | 15 | 27 |
 
@@ -2298,3 +2298,4 @@
 - **May 30, 10:09 PM** - HASC $1.15T defense policy bill takes aim at industrial base challenges (breaking_defense)
 - **May 30, 10:44 PM** - Blue Origin Rocket Blows Up on Florida Launchpad During Test (nyt)
 - **May 30, 11:19 PM** - Former Ukraine official calls for stricter restrictions on Russian use of Starlink (spacenews)
+- **May 30, 11:54 PM** - Dept. of Air Force ‘still working’ to sort space programs into acquisition portfolios: Ainsworth (breaking_defense)
