@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 3 | 14 | 26 |
 | spacenews | 5 | 13 | 14 | 30 |
-| nyt | 1 | 1 | 12 | 24 |
+| nyt | 1 | 1 | 13 | 25 |
 
 # Shown Order
 
@@ -2269,3 +2269,4 @@
 - **May 30, 05:14 AM** - SpaceX’s Unconventional Corporate Arrangements Favor Elon Musk (nyt)
 - **May 30, 05:49 AM** - As geopolitics reshape space, SpinLaunch sees an opening (spacenews)
 - **May 30, 06:24 AM** - SPACECOM exploring tech for future offensive cislunar ops: Chief Scientist (breaking_defense)
+- **May 30, 06:59 AM** - Where to See the Total Solar Eclipse on Aug. 12 (nyt)
