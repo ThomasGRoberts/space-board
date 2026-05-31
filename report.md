@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 14 | 28 |
-| nyt | 3 | 4 | 14 | 27 |
+| nyt | 3 | 4 | 15 | 28 |
 | breaking_defense | 0 | 2 | 13 | 26 |
 
 # Shown Order
@@ -2296,3 +2296,4 @@
 - **May 31, 05:44 AM** - In ‘For All Mankind,’ America Wins by Losing (nyt)
 - **May 31, 06:24 AM** - Space Force awards SpaceX $4.16 billion to build satellite network for airborne target tracking (spacenews)
 - **May 31, 06:59 AM** - SPACECOM exploring tech for future offensive cislunar ops: Chief Scientist (breaking_defense)
+- **May 31, 07:34 AM** - The Blue Micromoon Rises in Sunday’s Early Skies (nyt)
