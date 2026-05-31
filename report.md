@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 7 | 13 | 28 |
+| spacenews | 1 | 7 | 14 | 29 |
 | nyt | 3 | 4 | 15 | 27 |
 | breaking_defense | 0 | 2 | 13 | 26 |
 
@@ -2288,3 +2288,4 @@
 - **May 31, 01:04 AM** - Space Force awards SpaceX $4.16 billion to build satellite network for airborne target tracking (spacenews)
 - **May 31, 01:39 AM** - SpaceX wins $2.29B to speed Space Force’s LEO communications ‘backbone’ (breaking_defense)
 - **May 31, 02:14 AM** - SpaceX IPO Filing Reveals Favorable Terms for Elon Musk (nyt)
+- **May 31, 02:49 AM** - Chinese startup Mega Engine advances reusable staged-combustion rocket engine (spacenews)
