@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 6 | 14 | 28 |
 | nyt | 3 | 4 | 15 | 27 |
-| breaking_defense | 0 | 2 | 12 | 26 |
+| breaking_defense | 0 | 2 | 13 | 27 |
 
 # Shown Order
 
@@ -2298,3 +2298,4 @@
 - **May 31, 06:59 AM** - SPACECOM exploring tech for future offensive cislunar ops: Chief Scientist (breaking_defense)
 - **May 31, 07:34 AM** - The Blue Micromoon Rises in Sunday’s Early Skies (nyt)
 - **May 31, 08:09 AM** - Mars to Titan: the next rallying call? (spacenews)
+- **May 31, 08:44 AM** - Dept. of Air Force ‘still working’ to sort space programs into acquisition portfolios: Ainsworth (breaking_defense)
