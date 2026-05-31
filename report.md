@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 14 | 28 |
-| nyt | 3 | 4 | 15 | 27 |
-| breaking_defense | 0 | 2 | 12 | 26 |
+| nyt | 3 | 4 | 14 | 27 |
+| breaking_defense | 0 | 2 | 13 | 27 |
 
 # Shown Order
 
@@ -2307,3 +2307,4 @@
 - **May 31, 12:14 PM** - Despite ‘peak hype,’ orbital data centers for AI not yet ready for NatSec prime time (breaking_defense)
 - **May 31, 12:49 PM** - Where to See the Total Solar Eclipse on Aug. 12 (nyt)
 - **May 31, 01:24 PM** - Europe’s satellite spectrum proposal clouds SpaceX and Viasat plans (spacenews)
+- **May 31, 01:59 PM** - HASC $1.15T defense policy bill takes aim at industrial base challenges (breaking_defense)
