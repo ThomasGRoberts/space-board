@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 2 | 14 | 27 |
+| spacenews | 2 | 2 | 15 | 28 |
 | nyt | 0 | 3 | 14 | 28 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
@@ -2315,3 +2315,4 @@
 - **May 31, 04:54 PM** - Northern Norway is ready to launch. EU Space Regulation — and its new Arctic policy – is not. (spacenews)
 - **May 31, 05:29 PM** - Despite ‘peak hype,’ orbital data centers for AI not yet ready for NatSec prime time (breaking_defense)
 - **May 31, 06:04 PM** - What’s Next for Blue Origin After Rocket Explosion (nyt)
+- **May 31, 06:38 PM** - Starcloud’s path to 88,000 computing satellites (spacenews)
