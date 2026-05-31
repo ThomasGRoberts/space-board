@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 2 | 14 | 27 |
 | nyt | 3 | 3 | 15 | 28 |
-| breaking_defense | 0 | 1 | 12 | 26 |
+| breaking_defense | 0 | 1 | 13 | 27 |
 
 # Shown Order
 
@@ -2313,3 +2313,4 @@
 - **May 31, 03:44 PM** - SPACECOM exploring tech for future offensive cislunar ops: Chief Scientist (breaking_defense)
 - **May 31, 04:19 PM** - NASA’s Moon Base Plan Adds Two Rovers for Its Astronauts (nyt)
 - **May 31, 04:54 PM** - Northern Norway is ready to launch. EU Space Regulation — and its new Arctic policy – is not. (spacenews)
+- **May 31, 05:29 PM** - Despite ‘peak hype,’ orbital data centers for AI not yet ready for NatSec prime time (breaking_defense)
