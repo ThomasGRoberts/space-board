@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 14 | 29 |
 | nyt | 3 | 4 | 15 | 27 |
-| breaking_defense | 0 | 2 | 12 | 25 |
+| breaking_defense | 0 | 2 | 13 | 26 |
 
 # Shown Order
 
@@ -2286,3 +2286,4 @@
 - **May 30, 11:54 PM** - Dept. of Air Force ‘still working’ to sort space programs into acquisition portfolios: Ainsworth (breaking_defense)
 - **May 31, 12:29 AM** - SpaceX’s Unconventional Corporate Arrangements Favor Elon Musk (nyt)
 - **May 31, 01:04 AM** - Space Force awards SpaceX $4.16 billion to build satellite network for airborne target tracking (spacenews)
+- **May 31, 01:39 AM** - SpaceX wins $2.29B to speed Space Force’s LEO communications ‘backbone’ (breaking_defense)
