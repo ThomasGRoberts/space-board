@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 14 | 29 |
 | nyt | 3 | 4 | 15 | 27 |
-| breaking_defense | 0 | 2 | 12 | 25 |
+| breaking_defense | 0 | 2 | 13 | 26 |
 
 # Shown Order
 
@@ -2292,3 +2292,4 @@
 - **May 31, 03:24 AM** - Dept. of Air Force ‘still working’ to sort space programs into acquisition portfolios: Ainsworth (breaking_defense)
 - **May 31, 03:59 AM** - Where to See the Total Solar Eclipse on Aug. 12 (nyt)
 - **May 31, 04:34 AM** - Orbit Fab, Thales Alenia to study refueling for electric-propulsion satellites (spacenews)
+- **May 31, 05:09 AM** - Dept. of Air Force ‘still working’ to sort space programs into acquisition portfolios: Ainsworth (breaking_defense)
