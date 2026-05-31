@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 6 | 13 | 28 |
+| spacenews | 2 | 6 | 14 | 29 |
 | nyt | 3 | 4 | 15 | 27 |
 | breaking_defense | 0 | 2 | 13 | 26 |
 
@@ -2303,3 +2303,4 @@
 - **May 31, 09:54 AM** - FAA documents outline SpaceX plans for Starfall reentry vehicles (spacenews)
 - **May 31, 10:29 AM** - SpaceX wins $2.29B to speed Space Force’s LEO communications ‘backbone’ (breaking_defense)
 - **May 31, 11:04 AM** - Blue Origin Rocket Blows Up on Florida Launchpad During Test (nyt)
+- **May 31, 11:38 AM** - Spatial data has become a weapon of war in the US-Iran war (spacenews)
