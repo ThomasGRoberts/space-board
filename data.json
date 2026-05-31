@@ -1,9 +1,58 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-05-30T00:04:37.597322+00:00",
-    "trigger_count": 1,
+    "last_run_datetime": "2026-05-31T00:04:41.942059+00:00",
+    "trigger_count": 2,
     "current_item_id": "97a86e9ff8f96eca3f9016f29579a42d",
     "data": [
+        {
+            "id": "09209b5b77de1f55ceae9edd3187c0c9",
+            "source": "spacenews",
+            "text": "Blue Origin gets national security launch task order hours before New Glenn explosion",
+            "source_link": "https://spacenews.com/blue-origin-gets-national-security-launch-task-order-hours-before-new-glenn-explosion/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-30T21:34:17.105975Z",
+            "shown_at": [
+                "2026-05-30T21:34:18.520464Z"
+            ]
+        },
+        {
+            "id": "57bcd60528cc3bd28f1547011a94f062",
+            "source": "nyt",
+            "text": "The Blue Micromoon Rises in Sunday’s Early Skies",
+            "source_link": "https://www.nytimes.com/2026/05/30/science/blue-micromoon.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-30T17:29:12.268674Z",
+            "shown_at": [
+                "2026-05-30T18:39:11.380159Z"
+            ]
+        },
+        {
+            "id": "7eb0515187ef46d9035db14e72d578a1",
+            "source": "nyt",
+            "text": "Blue Origin Rocket Blows Up on Florida Launchpad During Test",
+            "source_link": "https://www.nytimes.com/2026/05/28/science/blue-origin-explosion-rocket.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-30T17:29:12.268644Z",
+            "shown_at": [
+                "2026-05-30T18:03:50.249374Z",
+                "2026-05-30T22:44:21.427434Z"
+            ]
+        },
+        {
+            "id": "dc669d5da554e90edec509e523b6b40c",
+            "source": "nyt",
+            "text": "What’s Next for Blue Origin After Rocket Explosion",
+            "source_link": "https://www.nytimes.com/2026/05/29/technology/blue-origin-amazon-rocket-explosion.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-30T17:29:12.268595Z",
+            "shown_at": [
+                "2026-05-30T17:29:15.257780Z"
+            ]
+        },
         {
             "id": "65918cf4c14d0088af6d382e6ca9580b",
             "source": "breaking_defense",
@@ -7729,114 +7778,6 @@
                 "2026-04-01T09:44:30.056756Z",
                 "2026-04-05T11:49:29.940654Z",
                 "2026-04-06T15:19:18.487295Z"
-            ]
-        },
-        {
-            "id": "b82332f5e2343207588551bb76564ae5",
-            "source": "nyt",
-            "text": "NASA’s Mission Back to the Moon",
-            "source_link": "https://www.nytimes.com/video/science/space/100000010788126/nasas-mission-back-to-the-moon.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-01T09:06:51.904492Z",
-            "shown_at": [
-                "2026-04-01T09:06:52.645177Z",
-                "2026-04-04T17:39:09.066380Z",
-                "2026-04-07T17:59:24.897718Z"
-            ]
-        },
-        {
-            "id": "cc32e2cc92ce686abdfe8dc91a58cce2",
-            "source": "spacenews",
-            "text": "Chinese startup tests flexible robotic arm in space for on-orbit servicing",
-            "source_link": "https://spacenews.com/chinese-startup-tests-flexible-robotic-arm-in-space-for-on-orbit-servicing/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-01T08:14:28.987626Z",
-            "shown_at": [
-                "2026-04-01T08:14:30.370729Z",
-                "2026-04-02T09:59:15.763701Z",
-                "2026-04-05T12:59:35.006731Z"
-            ]
-        },
-        {
-            "id": "055233610827e6ada3c32e0586dcd9ef",
-            "source": "nyt",
-            "text": "Meet the Astronauts of NASA’s Artemis II Moon Mission",
-            "source_link": "https://www.nytimes.com/2026/03/31/science/nasa-artemis-ii-mission-astronauts.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-01T03:19:19.061761Z",
-            "shown_at": [
-                "2026-04-01T03:19:19.916480Z",
-                "2026-04-03T16:29:04.445956Z",
-                "2026-04-06T22:39:10.456699Z",
-                "2026-04-07T16:49:27.845449Z"
-            ]
-        },
-        {
-            "id": "9b2b6d283804e902ee367edff41d735e",
-            "source": "spacenews",
-            "text": "Virgin Galactic expects commercial suborbital flights to resume late this year",
-            "source_link": "https://spacenews.com/virgin-galactic-expects-commercial-suborbital-flights-to-resume-late-this-year/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-01T01:34:21.649745Z",
-            "shown_at": [
-                "2026-04-01T01:34:22.373219Z",
-                "2026-04-03T08:49:02.248882Z",
-                "2026-04-03T19:59:16.860828Z",
-                "2026-04-04T15:19:12.691348Z",
-                "2026-04-05T02:59:23.396990Z"
-            ]
-        },
-        {
-            "id": "dc669d5da554e90edec509e523b6b40c",
-            "source": "nyt",
-            "text": "What’s Next for Blue Origin After Rocket Explosion",
-            "source_link": "https://www.nytimes.com/2026/05/29/technology/blue-origin-amazon-rocket-explosion.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-30T17:29:12.268595Z",
-            "shown_at": [
-                "2026-05-30T17:29:15.257780Z"
-            ]
-        },
-        {
-            "id": "7eb0515187ef46d9035db14e72d578a1",
-            "source": "nyt",
-            "text": "Blue Origin Rocket Blows Up on Florida Launchpad During Test",
-            "source_link": "https://www.nytimes.com/2026/05/28/science/blue-origin-explosion-rocket.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-30T17:29:12.268644Z",
-            "shown_at": [
-                "2026-05-30T18:03:50.249374Z",
-                "2026-05-30T22:44:21.427434Z"
-            ]
-        },
-        {
-            "id": "57bcd60528cc3bd28f1547011a94f062",
-            "source": "nyt",
-            "text": "The Blue Micromoon Rises in Sunday’s Early Skies",
-            "source_link": "https://www.nytimes.com/2026/05/30/science/blue-micromoon.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-30T17:29:12.268674Z",
-            "shown_at": [
-                "2026-05-30T18:39:11.380159Z"
-            ]
-        },
-        {
-            "id": "09209b5b77de1f55ceae9edd3187c0c9",
-            "source": "spacenews",
-            "text": "Blue Origin gets national security launch task order hours before New Glenn explosion",
-            "source_link": "https://spacenews.com/blue-origin-gets-national-security-launch-task-order-hours-before-new-glenn-explosion/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-30T21:34:17.105975Z",
-            "shown_at": [
-                "2026-05-30T21:34:18.520464Z"
             ]
         }
     ]

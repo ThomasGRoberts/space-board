@@ -2,16 +2,12 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 2 | 13 | 26 |
 | spacenews | 1 | 7 | 14 | 29 |
 | nyt | 3 | 4 | 14 | 27 |
+| breaking_defense | 0 | 2 | 13 | 26 |
 
 # Shown Order
 
-- **Apr 01, 01:34 AM** - Virgin Galactic expects commercial suborbital flights to resume late this year (spacenews)
-- **Apr 01, 03:19 AM** - Meet the Astronauts of NASA’s Artemis II Moon Mission (nyt)
-- **Apr 01, 08:14 AM** - Chinese startup tests flexible robotic arm in space for on-orbit servicing (spacenews)
-- **Apr 01, 09:06 AM** - NASA’s Mission Back to the Moon (nyt)
 - **Apr 01, 09:44 AM** - Vantor wins intelligence agency contract to monitor space objects (spacenews)
 - **Apr 01, 10:54 AM** - After three years, Artemis 2 astronauts ready to launch (spacenews)
 - **Apr 01, 01:29 PM** - Creating near-term lunar settlements: lessons from space history  (spacenews)
@@ -46,7 +42,6 @@
 - **Apr 02, 06:29 AM** - As NASA Sent Astronauts to the Moon, Some Rejoiced and Others Barely Noticed (nyt)
 - **Apr 02, 07:04 AM** - Artemis II Completes First Day of Its NASA Lunar Mission (nyt)
 - **Apr 02, 08:14 AM** - Christina Koch Will Be the First Female Astronaut to Journey Around the Moon (nyt)
-- **Apr 02, 09:59 AM** - Chinese startup tests flexible robotic arm in space for on-orbit servicing (spacenews)
 - **Apr 02, 10:43 AM** - Who Is Reid Wiseman, Commander of the Artemis II Moon Mission? (nyt)
 - **Apr 02, 11:49 AM** - Aspect Aerospace secures early funding to advance swarm-deployable VLEO satellites (spacenews)
 - **Apr 02, 02:10 PM** - Phantom Space buys thermal specialist to support orbital data center push (spacenews)
@@ -74,7 +69,6 @@
 - **Apr 03, 05:54 AM** - What China sees as NASA launches Artemis II. (nyt)
 - **Apr 03, 07:39 AM** - Aspect Aerospace secures early funding to advance swarm-deployable VLEO satellites (spacenews)
 - **Apr 03, 08:14 AM** - Live Updates: NASA Starts Fueling Rocket for Artemis II Moon Launch (nyt)
-- **Apr 03, 08:49 AM** - Virgin Galactic expects commercial suborbital flights to resume late this year (spacenews)
 - **Apr 03, 10:34 AM** - China’s commercial Tianlong-3 rocket fails on debut launch (spacenews)
 - **Apr 03, 11:09 AM** - Europe’s strategic autonomy in space will define its role in the ‘second space age’ (spacenews)
 - **Apr 03, 11:49 AM** - SpaceX and Amazon spar over satellite deployments (spacenews)
@@ -84,12 +78,10 @@
 - **Apr 03, 02:44 PM** - 58 Years After ‘Earthrise,’ NASA’s New Moonshot May Rediscover Earth (nyt)
 - **Apr 03, 03:19 PM** - Saltzman: Space ‘baked into’ modern combat operations (spacenews)
 - **Apr 03, 03:54 PM** - White House again proposes steep NASA budget cuts (spacenews)
-- **Apr 03, 04:29 PM** - Meet the Astronauts of NASA’s Artemis II Moon Mission (nyt)
 - **Apr 03, 05:04 PM** - NASA Unveils 1st Earth Photos From Artemis II Moon Mission: ‘You Look Beautiful.’ (nyt)
 - **Apr 03, 06:14 PM** - Artemis II Pilot Took a Test Drive on the Way to the Moon (nyt)
 - **Apr 03, 06:49 PM** - Italy’s Argotec plans to scale Florida satellite facility to meet rising US demand (spacenews)
 - **Apr 03, 07:24 PM** - Artemis II Pilot Test Drove the Orion Capsule on the Way to the Moon (nyt)
-- **Apr 03, 07:59 PM** - Virgin Galactic expects commercial suborbital flights to resume late this year (spacenews)
 - **Apr 03, 08:34 PM** - How iPhones Found Their Way Into Space (nyt)
 - **Apr 03, 09:09 PM** - NASA’s Artemis II Astronauts Took iPhones Into Space (nyt)
 - **Apr 03, 09:44 PM** - China’s commercial Tianlong-3 rocket fails on debut launch (spacenews)
@@ -113,9 +105,7 @@
 - **Apr 04, 12:24 PM** - Live Updates: NASA Starts Fueling Rocket for Artemis II Moon Launch (nyt)
 - **Apr 04, 12:59 PM** - Europe’s strategic autonomy in space will define its role in the ‘second space age’ (spacenews)
 - **Apr 04, 02:44 PM** - Live Updates: Artemis Astronauts Begin Suiting Up for Moon Launch (nyt)
-- **Apr 04, 03:19 PM** - Virgin Galactic expects commercial suborbital flights to resume late this year (spacenews)
 - **Apr 04, 05:04 PM** - Space Force budget would more than double in Trump’s $1.5 trillion defense plan (spacenews)
-- **Apr 04, 05:39 PM** - NASA’s Mission Back to the Moon (nyt)
 - **Apr 04, 07:24 PM** - SpaceX quietly files for big bang IPO (spacenews)
 - **Apr 04, 07:59 PM** - For the Superfans of Spaceflight, Artemis II Can’t Launch Soon Enough (nyt)
 - **Apr 04, 08:34 PM** - Atlas 5 launches Amazon Leo satellites (spacenews)
@@ -125,7 +115,6 @@
 - **Apr 04, 11:29 PM** - Italy’s Argotec plans to scale Florida satellite facility to meet rising US demand (spacenews)
 - **Apr 05, 12:04 AM** - What China sees as NASA launches Artemis II. (nyt)
 - **Apr 05, 01:14 AM** - For the Superfans of Spaceflight, Artemis II Can’t Launch Soon Enough (nyt)
-- **Apr 05, 02:59 AM** - Virgin Galactic expects commercial suborbital flights to resume late this year (spacenews)
 - **Apr 05, 03:34 AM** - NASA finalizes science plans for Artemis 2 lunar flyby (spacenews)
 - **Apr 05, 07:04 AM** - After three years, Artemis 2 astronauts ready to launch (spacenews)
 - **Apr 05, 08:54 AM** - NASA Unveils 1st Earth Photos From Artemis II Moon Mission: ‘You Look Beautiful.’ (nyt)
@@ -134,7 +123,6 @@
 - **Apr 05, 11:14 AM** - Christina Koch Will Be the First Female Astronaut to Journey Around the Moon (nyt)
 - **Apr 05, 11:49 AM** - Vantor wins intelligence agency contract to monitor space objects (spacenews)
 - **Apr 05, 12:24 PM** - Who Is Reid Wiseman, Commander of the Artemis II Moon Mission? (nyt)
-- **Apr 05, 12:59 PM** - Chinese startup tests flexible robotic arm in space for on-orbit servicing (spacenews)
 - **Apr 05, 01:34 PM** - How Scientifically Accurate Is ‘Project Hail Mary’? Experts Weigh In (nyt)
 - **Apr 05, 02:49 PM** - Live Updates: Artemis Astronauts Begin Suiting Up for Moon Launch (nyt)
 - **Apr 05, 03:59 PM** - How NASA Is Keeping the Astronauts Safe During the Artemis II Mission (nyt)
@@ -178,7 +166,6 @@
 - **Apr 06, 08:19 PM** - Moog Highlights Growing Satellite Bus Capabilities with Full‑Scale METEOR Reveal at Space Symposium (spacenews)
 - **Apr 06, 08:54 PM** - Exploring the Far Side of the Moon (nyt)
 - **Apr 06, 09:29 PM** - Artemis II Astronauts Name Moon Crater After Carroll, Reid Wiseman’s Late Wife (nyt)
-- **Apr 06, 10:39 PM** - Meet the Astronauts of NASA’s Artemis II Moon Mission (nyt)
 - **Apr 06, 11:14 PM** - The Dark Side of the Moon Is Really the Far Side (nyt)
 - **Apr 06, 11:49 PM** - Aspect Aerospace secures early funding to advance swarm-deployable VLEO satellites (spacenews)
 - **Apr 07, 12:24 AM** - Artemis II Pilot Test Drove the Orion Capsule on the Way to the Moon (nyt)
@@ -209,9 +196,7 @@
 - **Apr 07, 03:05 PM** - See First Photos From NASA’s Artemis II Moon Mission Capturing a Setting Earth and Eclipse (nyt)
 - **Apr 07, 03:39 PM** - NASA’s Artemis II Astronauts Spread ‘Moon Joy’ to the Public (nyt)
 - **Apr 07, 04:14 PM** - Italy’s Argotec plans to scale Florida satellite facility to meet rising US demand (spacenews)
-- **Apr 07, 04:49 PM** - Meet the Astronauts of NASA’s Artemis II Moon Mission (nyt)
 - **Apr 07, 05:24 PM** - FOSSA targets Japan’s defense market as larger smallsats expand capabilities (spacenews)
-- **Apr 07, 05:59 PM** - NASA’s Mission Back to the Moon (nyt)
 - **Apr 07, 06:34 PM** - Saltzman: Space ‘baked into’ modern combat operations (spacenews)
 - **Apr 07, 07:09 PM** - Who Made the Artemis II Rocket and Space Capsule? (nyt)
 - **Apr 07, 07:44 PM** - SpaceX and Amazon spar over satellite deployments (spacenews)
