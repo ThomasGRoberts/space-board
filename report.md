@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 14 | 29 |
-| nyt | 3 | 4 | 14 | 26 |
+| nyt | 3 | 4 | 15 | 27 |
 | breaking_defense | 0 | 2 | 13 | 26 |
 
 # Shown Order
@@ -2293,3 +2293,4 @@
 - **May 31, 03:59 AM** - Where to See the Total Solar Eclipse on Aug. 12 (nyt)
 - **May 31, 04:34 AM** - Orbit Fab, Thales Alenia to study refueling for electric-propulsion satellites (spacenews)
 - **May 31, 05:09 AM** - Dept. of Air Force ‘still working’ to sort space programs into acquisition portfolios: Ainsworth (breaking_defense)
+- **May 31, 05:44 AM** - In ‘For All Mankind,’ America Wins by Losing (nyt)
