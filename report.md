@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 5 | 13 | 27 |
+| spacenews | 2 | 5 | 14 | 28 |
 | nyt | 3 | 4 | 15 | 28 |
 | breaking_defense | 0 | 2 | 13 | 26 |
 
@@ -2306,3 +2306,4 @@
 - **May 31, 11:38 AM** - Spatial data has become a weapon of war in the US-Iran war (spacenews)
 - **May 31, 12:14 PM** - Despite ‘peak hype,’ orbital data centers for AI not yet ready for NatSec prime time (breaking_defense)
 - **May 31, 12:49 PM** - Where to See the Total Solar Eclipse on Aug. 12 (nyt)
+- **May 31, 01:24 PM** - Europe’s satellite spectrum proposal clouds SpaceX and Viasat plans (spacenews)
