@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 2 | 15 | 27 |
 | nyt | 0 | 3 | 13 | 28 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2316,3 +2316,4 @@
 - **May 31, 05:29 PM** - Despite ‘peak hype,’ orbital data centers for AI not yet ready for NatSec prime time (breaking_defense)
 - **May 31, 06:04 PM** - What’s Next for Blue Origin After Rocket Explosion (nyt)
 - **May 31, 06:38 PM** - Starcloud’s path to 88,000 computing satellites (spacenews)
+- **May 31, 07:14 PM** - Dept. of Air Force ‘still working’ to sort space programs into acquisition portfolios: Ainsworth (breaking_defense)
