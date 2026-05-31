@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 14 | 29 |
-| nyt | 3 | 4 | 14 | 26 |
+| nyt | 3 | 4 | 15 | 27 |
 | breaking_defense | 0 | 2 | 13 | 26 |
 
 # Shown Order
@@ -2284,3 +2284,4 @@
 - **May 30, 10:44 PM** - Blue Origin Rocket Blows Up on Florida Launchpad During Test (nyt)
 - **May 30, 11:19 PM** - Former Ukraine official calls for stricter restrictions on Russian use of Starlink (spacenews)
 - **May 30, 11:54 PM** - Dept. of Air Force ‘still working’ to sort space programs into acquisition portfolios: Ainsworth (breaking_defense)
+- **May 31, 12:29 AM** - SpaceX’s Unconventional Corporate Arrangements Favor Elon Musk (nyt)
