@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 6 | 14 | 28 |
 | nyt | 3 | 4 | 15 | 27 |
-| breaking_defense | 0 | 2 | 12 | 26 |
+| breaking_defense | 0 | 2 | 13 | 27 |
 
 # Shown Order
 
@@ -2301,3 +2301,4 @@
 - **May 31, 08:44 AM** - Dept. of Air Force ‘still working’ to sort space programs into acquisition portfolios: Ainsworth (breaking_defense)
 - **May 31, 09:19 AM** - What’s Next for Blue Origin After Rocket Explosion (nyt)
 - **May 31, 09:54 AM** - FAA documents outline SpaceX plans for Starfall reentry vehicles (spacenews)
+- **May 31, 10:29 AM** - SpaceX wins $2.29B to speed Space Force’s LEO communications ‘backbone’ (breaking_defense)
