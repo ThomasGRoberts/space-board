@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-05-31T00:04:41.942059+00:00",
-    "trigger_count": 6,
-    "current_item_id": "dc669d5da554e90edec509e523b6b40c",
+    "trigger_count": 0,
+    "current_item_id": "e1401d20895d5b988bde3e66f29b5dff",
     "data": [
         {
             "id": "09209b5b77de1f55ceae9edd3187c0c9",
@@ -7794,6 +7794,18 @@
                 "2026-04-01T09:44:30.056756Z",
                 "2026-04-05T11:49:29.940654Z",
                 "2026-04-06T15:19:18.487295Z"
+            ]
+        },
+        {
+            "id": "e1401d20895d5b988bde3e66f29b5dff",
+            "source": "spacenews",
+            "text": "FAA documents outline SpaceX plans for Starfall reentry vehicles",
+            "source_link": "https://spacenews.com/faa-documents-outline-spacex-plans-for-starfall-reentry-vehicles/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-31T09:54:08.980592Z",
+            "shown_at": [
+                "2026-05-31T09:54:09.657979Z"
             ]
         }
     ]
