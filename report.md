@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 14 | 27 |
-| nyt | 0 | 3 | 13 | 28 |
-| breaking_defense | 0 | 0 | 14 | 27 |
+| nyt | 0 | 3 | 14 | 29 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -2323,3 +2323,4 @@
 - **May 31, 09:34 PM** - SpaceX’s Unconventional Corporate Arrangements Favor Elon Musk (nyt)
 - **May 31, 10:09 PM** - NASA selects four companies for initial moon base awards (spacenews)
 - **May 31, 10:44 PM** - Epic Fury highlighted Space Force needs for distributed ops, EW sites (breaking_defense)
+- **May 31, 11:18 PM** - SpaceX IPO Filing Reveals Favorable Terms for Elon Musk (nyt)
