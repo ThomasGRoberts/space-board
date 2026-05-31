@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 3 | 14 | 27 |
 | nyt | 3 | 4 | 15 | 28 |
-| breaking_defense | 0 | 2 | 12 | 26 |
+| breaking_defense | 0 | 2 | 13 | 27 |
 
 # Shown Order
 
@@ -2310,3 +2310,4 @@
 - **May 31, 01:59 PM** - HASC $1.15T defense policy bill takes aim at industrial base challenges (breaking_defense)
 - **May 31, 02:34 PM** - What’s Next for Blue Origin After Rocket Explosion (nyt)
 - **May 31, 03:08 PM** - Starcloud’s path to 88,000 computing satellites (spacenews)
+- **May 31, 03:44 PM** - SPACECOM exploring tech for future offensive cislunar ops: Chief Scientist (breaking_defense)
