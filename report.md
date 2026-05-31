@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 2 | 14 | 27 |
+| spacenews | 2 | 2 | 15 | 28 |
 | nyt | 0 | 3 | 14 | 28 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
@@ -2318,3 +2318,4 @@
 - **May 31, 06:38 PM** - Starcloud’s path to 88,000 computing satellites (spacenews)
 - **May 31, 07:14 PM** - Dept. of Air Force ‘still working’ to sort space programs into acquisition portfolios: Ainsworth (breaking_defense)
 - **May 31, 07:49 PM** - SpaceX’s Unconventional Corporate Arrangements Favor Elon Musk (nyt)
+- **May 31, 08:24 PM** - Europe’s biggest space opportunity comes after launch (spacenews)
