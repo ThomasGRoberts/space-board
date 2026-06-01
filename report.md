@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 7 | 15 | 29 |
-| nyt | 0 | 0 | 12 | 26 |
+| spacenews | 5 | 7 | 15 | 30 |
+| nyt | 0 | 0 | 12 | 25 |
 | breaking_defense | 2 | 2 | 14 | 27 |
 
 # Shown Order
@@ -2353,3 +2353,4 @@
 - **Jun 01, 04:54 PM** - National security launch schedule not likely impacted by New Glenn disaster (breaking_defense)
 - **Jun 01, 05:29 PM** - NASA’s Moon Base Plan Adds Two Rovers for Its Astronauts (nyt)
 - **Jun 01, 06:04 PM** - Northrop Grumman partners with Apex for 2027 SBI demo (breaking_defense)
+- **Jun 01, 06:39 PM** - Virgin Galactic returns Unity to flight to prepare for next-generation spaceplane (spacenews)
