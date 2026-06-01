@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 7 | 15 | 29 |
-| nyt | 0 | 3 | 12 | 27 |
-| breaking_defense | 1 | 1 | 14 | 26 |
+| nyt | 0 | 0 | 13 | 27 |
+| breaking_defense | 1 | 1 | 13 | 26 |
 
 # Shown Order
 
@@ -2351,3 +2351,4 @@
 - **Jun 01, 03:44 PM** - Northrop Grumman partners with Apex on space-based interceptors for Golden Dome (spacenews)
 - **Jun 01, 04:19 PM** - Despite ‘peak hype,’ orbital data centers for AI not yet ready for NatSec prime time (breaking_defense)
 - **Jun 01, 04:54 PM** - National security launch schedule not likely impacted by New Glenn disaster (breaking_defense)
+- **Jun 01, 05:29 PM** - NASA’s Moon Base Plan Adds Two Rovers for Its Astronauts (nyt)
