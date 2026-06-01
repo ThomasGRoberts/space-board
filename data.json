@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-01T00:04:35.242916+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e038f08dfdb047a1ff638ae95287dcb0",
+    "trigger_count": 0,
+    "current_item_id": "971bdc5c4f8cc03a3b06077a02ca0418",
     "data": [
         {
             "id": "e1401d20895d5b988bde3e66f29b5dff",
@@ -7886,6 +7886,18 @@
             "fetched_datetime": "2026-06-01T14:34:48.631638Z",
             "shown_at": [
                 "2026-06-01T14:34:49.616416Z"
+            ]
+        },
+        {
+            "id": "971bdc5c4f8cc03a3b06077a02ca0418",
+            "source": "spacenews",
+            "text": "Northrop Grumman partners with Apex on space-based interceptors for Golden Dome",
+            "source_link": "https://spacenews.com/northrop-grumman-partners-with-apex-on-space-based-interceptors-for-golden-dome/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-01T15:44:25.775920Z",
+            "shown_at": [
+                "2026-06-01T15:44:29.266206Z"
             ]
         }
     ]
