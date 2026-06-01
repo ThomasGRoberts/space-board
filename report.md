@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 14 | 28 |
 | nyt | 0 | 3 | 14 | 28 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2325,3 +2325,4 @@
 - **Jun 01, 12:29 AM** - Epic Fury highlighted Space Force needs for distributed ops, EW sites (breaking_defense)
 - **Jun 01, 01:04 AM** - NASA’s Moon Base Plan Adds Two Rovers for Its Astronauts (nyt)
 - **Jun 01, 01:39 AM** - FAA documents outline SpaceX plans for Starfall reentry vehicles (spacenews)
+- **Jun 01, 02:14 AM** - SpaceX wins $4.16B Space Force contract to detect airborne moving targets (breaking_defense)
