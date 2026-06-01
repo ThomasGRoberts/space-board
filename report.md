@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 13 | 27 |
+| spacenews | 1 | 2 | 14 | 28 |
 | nyt | 0 | 3 | 14 | 29 |
-| breaking_defense | 0 | 0 | 14 | 26 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2324,3 +2324,4 @@
 - **May 31, 11:54 PM** - New Glenn rocket explodes on Cape Canaveral pad (spacenews)
 - **Jun 01, 12:29 AM** - Epic Fury highlighted Space Force needs for distributed ops, EW sites (breaking_defense)
 - **Jun 01, 01:04 AM** - NASA’s Moon Base Plan Adds Two Rovers for Its Astronauts (nyt)
+- **Jun 01, 01:39 AM** - FAA documents outline SpaceX plans for Starfall reentry vehicles (spacenews)
