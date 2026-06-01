@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 7 | 15 | 29 |
-| nyt | 0 | 0 | 13 | 26 |
-| breaking_defense | 2 | 2 | 13 | 26 |
+| nyt | 0 | 0 | 12 | 26 |
+| breaking_defense | 2 | 2 | 14 | 27 |
 
 # Shown Order
 
@@ -2355,3 +2355,4 @@
 - **Jun 01, 06:04 PM** - Northrop Grumman partners with Apex for 2027 SBI demo (breaking_defense)
 - **Jun 01, 06:39 PM** - Virgin Galactic returns Unity to flight to prepare for next-generation spaceplane (spacenews)
 - **Jun 01, 07:14 PM** - A Fiery Visitor From Space Photo-Bombs an Erupting Volcano (nyt)
+- **Jun 01, 07:54 PM** - Despite ‘peak hype,’ orbital data centers for AI not yet ready for NatSec prime time (breaking_defense)
