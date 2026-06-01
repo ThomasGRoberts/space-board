@@ -8,7 +8,6 @@
 
 # Shown Order
 
-- **Apr 01, 09:44 AM** - Vantor wins intelligence agency contract to monitor space objects (spacenews)
 - **Apr 01, 10:54 AM** - After three years, Artemis 2 astronauts ready to launch (spacenews)
 - **Apr 01, 01:29 PM** - Creating near-term lunar settlements: lessons from space history  (spacenews)
 - **Apr 01, 02:04 PM** - Artemis 2 fueling underway (spacenews)
@@ -121,7 +120,6 @@
 - **Apr 05, 09:29 AM** - China’s commercial Tianlong-3 rocket fails on debut launch (spacenews)
 - **Apr 05, 10:39 AM** - Creating near-term lunar settlements: lessons from space history  (spacenews)
 - **Apr 05, 11:14 AM** - Christina Koch Will Be the First Female Astronaut to Journey Around the Moon (nyt)
-- **Apr 05, 11:49 AM** - Vantor wins intelligence agency contract to monitor space objects (spacenews)
 - **Apr 05, 12:24 PM** - Who Is Reid Wiseman, Commander of the Artemis II Moon Mission? (nyt)
 - **Apr 05, 01:34 PM** - How Scientifically Accurate Is ‘Project Hail Mary’? Experts Weigh In (nyt)
 - **Apr 05, 02:49 PM** - Live Updates: Artemis Astronauts Begin Suiting Up for Moon Launch (nyt)
@@ -157,7 +155,6 @@
 - **Apr 06, 01:34 PM** - The moon base has a hardware plan. It needs a software strategy, too. (spacenews)
 - **Apr 06, 02:09 PM** - Seagate Space Signs MOU with Firefly Aerospace to Collaborate on Offshore Launch Infrastructure for Alpha (spacenews)
 - **Apr 06, 02:44 PM** - Artemis II Astronauts Will Set New Distance Record in Moon Flyby: What to Know (nyt)
-- **Apr 06, 03:19 PM** - Vantor wins intelligence agency contract to monitor space objects (spacenews)
 - **Apr 06, 03:54 PM** - As NASA Sent Astronauts to the Moon, Some Rejoiced and Others Barely Noticed (nyt)
 - **Apr 06, 05:04 PM** - How Scientifically Accurate Is ‘Project Hail Mary’? Experts Weigh In (nyt)
 - **Apr 06, 06:07 PM** - Here’s What Food the Artemis II Astronauts Will Eat in Space (nyt)

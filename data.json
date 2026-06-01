@@ -1,9 +1,21 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-05-31T00:04:41.942059+00:00",
-    "trigger_count": 1,
+    "last_run_datetime": "2026-06-01T00:04:35.242916+00:00",
+    "trigger_count": 2,
     "current_item_id": "9b22c0688fbef5ef8492be814995bd76",
     "data": [
+        {
+            "id": "e1401d20895d5b988bde3e66f29b5dff",
+            "source": "spacenews",
+            "text": "FAA documents outline SpaceX plans for Starfall reentry vehicles",
+            "source_link": "https://spacenews.com/faa-documents-outline-spacex-plans-for-starfall-reentry-vehicles/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-05-31T09:54:08.980592Z",
+            "shown_at": [
+                "2026-05-31T09:54:09.657979Z"
+            ]
+        },
         {
             "id": "09209b5b77de1f55ceae9edd3187c0c9",
             "source": "spacenews",
@@ -7804,32 +7816,6 @@
                 "2026-04-04T10:39:10.228126Z",
                 "2026-04-05T07:04:28.089041Z",
                 "2026-04-07T06:19:22.930237Z"
-            ]
-        },
-        {
-            "id": "dbe0a99015ef6cd81d56032f4fcfa30f",
-            "source": "spacenews",
-            "text": "Vantor wins intelligence agency contract to monitor space objects",
-            "source_link": "https://spacenews.com/vantor-wins-intelligence-agency-contract-to-monitor-space-objects/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-01T09:44:28.572570Z",
-            "shown_at": [
-                "2026-04-01T09:44:30.056756Z",
-                "2026-04-05T11:49:29.940654Z",
-                "2026-04-06T15:19:18.487295Z"
-            ]
-        },
-        {
-            "id": "e1401d20895d5b988bde3e66f29b5dff",
-            "source": "spacenews",
-            "text": "FAA documents outline SpaceX plans for Starfall reentry vehicles",
-            "source_link": "https://spacenews.com/faa-documents-outline-spacex-plans-for-starfall-reentry-vehicles/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-05-31T09:54:08.980592Z",
-            "shown_at": [
-                "2026-05-31T09:54:09.657979Z"
             ]
         }
     ]
