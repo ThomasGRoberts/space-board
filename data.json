@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-01T00:04:35.242916+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b2def25bf48c5323b0b509e9a868fba9",
+    "trigger_count": 0,
+    "current_item_id": "8653ab627b085d12b82b1f4b600fc866",
     "data": [
         {
             "id": "e1401d20895d5b988bde3e66f29b5dff",
@@ -7873,6 +7873,18 @@
             "fetched_datetime": "2026-06-01T11:05:07.391780Z",
             "shown_at": [
                 "2026-06-01T11:05:08.281411Z"
+            ]
+        },
+        {
+            "id": "8653ab627b085d12b82b1f4b600fc866",
+            "source": "spacenews",
+            "text": "Spaceport facility bonds are now law – and they fundamentally change space infrastructure finance",
+            "source_link": "https://spacenews.com/spaceport-facility-bonds-are-now-law-and-they-fundamentally-change-space-infrastructure-finance/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-01T14:34:48.631638Z",
+            "shown_at": [
+                "2026-06-01T14:34:49.616416Z"
             ]
         }
     ]
