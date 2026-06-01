@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-01T00:04:35.242916+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b3dd980b89f99811a146bde756188e2c",
+    "trigger_count": 0,
+    "current_item_id": "cdb5f4f933a21ad746f1dd0240c622cd",
     "data": [
         {
             "id": "e1401d20895d5b988bde3e66f29b5dff",
@@ -7833,6 +7833,27 @@
                 "2026-04-05T07:04:28.089041Z",
                 "2026-04-07T06:19:22.930237Z"
             ]
+        },
+        {
+            "id": "cdb5f4f933a21ad746f1dd0240c622cd",
+            "source": "spacenews",
+            "text": "New Glenn failure worsens constrained launch market",
+            "source_link": "https://spacenews.com/new-glenn-failure-worsens-constrained-launch-market/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-01T09:54:17.417146Z",
+            "shown_at": [
+                "2026-06-01T09:54:19.040772Z"
+            ]
+        },
+        {
+            "id": "12d481556ef694485598808fc9c546c9",
+            "source": "spacenews",
+            "text": "China launches test direct-to-device satellites for multiple projects",
+            "source_link": "https://spacenews.com/china-launches-test-direct-to-device-satellites-for-multiple-projects/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-06-01T09:54:17.417208Z"
         }
     ]
 }

@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 14 | 27 |
+| spacenews | 2 | 4 | 14 | 28 |
 | nyt | 0 | 3 | 13 | 28 |
-| breaking_defense | 0 | 0 | 14 | 27 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -2338,3 +2338,4 @@
 - **Jun 01, 08:09 AM** - What’s Next for Blue Origin After Rocket Explosion (nyt)
 - **Jun 01, 08:44 AM** - Europe’s biggest space opportunity comes after launch (spacenews)
 - **Jun 01, 09:19 AM** - HASC $1.15T defense policy bill takes aim at industrial base challenges (breaking_defense)
+- **Jun 01, 09:54 AM** - New Glenn failure worsens constrained launch market (spacenews)
