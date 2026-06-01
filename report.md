@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 5 | 15 | 29 |
-| nyt | 0 | 3 | 13 | 28 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| nyt | 0 | 3 | 13 | 27 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -2345,3 +2345,4 @@
 - **Jun 01, 12:14 PM** - Dept. of Air Force ‘still working’ to sort space programs into acquisition portfolios: Ainsworth (breaking_defense)
 - **Jun 01, 12:49 PM** - The surge in military budgets can help Europe’s entrepreneurial space sector — if spending speeds up (spacenews)
 - **Jun 01, 01:24 PM** - A Fiery Visitor From Space Photo-Bombs an Erupting Volcano (nyt)
+- **Jun 01, 01:59 PM** - SPACECOM exploring tech for future offensive cislunar ops: Chief Scientist (breaking_defense)
