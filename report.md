@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 6 | 15 | 29 |
+| spacenews | 5 | 6 | 15 | 28 |
 | nyt | 0 | 0 | 12 | 26 |
-| breaking_defense | 2 | 2 | 13 | 27 |
+| breaking_defense | 2 | 2 | 14 | 28 |
 
 # Shown Order
 
@@ -2361,3 +2361,4 @@
 - **Jun 01, 09:39 PM** - Northrop Grumman partners with Apex for 2027 SBI demo (breaking_defense)
 - **Jun 01, 10:14 PM** - Voyager wins DARPA contract for solid rocket propellant technology (spacenews)
 - **Jun 01, 10:49 PM** - Where to See the Total Solar Eclipse on Aug. 12 (nyt)
+- **Jun 01, 11:24 PM** - SpaceX wins $2.29B to speed Space Force’s LEO communications ‘backbone’ (breaking_defense)
