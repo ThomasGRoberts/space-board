@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 14 | 28 |
-| nyt | 0 | 3 | 14 | 28 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| nyt | 0 | 3 | 13 | 28 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2331,3 +2331,4 @@
 - **Jun 01, 03:59 AM** - SpaceX wins $4.16B Space Force contract to detect airborne moving targets (breaking_defense)
 - **Jun 01, 04:34 AM** - Where to See the Total Solar Eclipse on Aug. 12 (nyt)
 - **Jun 01, 05:09 AM** - Space Force awards SpaceX $4.16 billion to build satellite network for airborne target tracking (spacenews)
+- **Jun 01, 05:48 AM** - Epic Fury highlighted Space Force needs for distributed ops, EW sites (breaking_defense)
