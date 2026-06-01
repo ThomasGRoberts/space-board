@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-01T00:04:35.242916+00:00",
-    "trigger_count": 6,
-    "current_item_id": "cdb5f4f933a21ad746f1dd0240c622cd",
+    "trigger_count": 0,
+    "current_item_id": "12d481556ef694485598808fc9c546c9",
     "data": [
         {
             "id": "e1401d20895d5b988bde3e66f29b5dff",
@@ -7851,9 +7851,12 @@
             "source": "spacenews",
             "text": "China launches test direct-to-device satellites for multiple projects",
             "source_link": "https://spacenews.com/china-launches-test-direct-to-device-satellites-for-multiple-projects/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-06-01T09:54:17.417208Z"
+            "fetched_datetime": "2026-06-01T09:54:17.417208Z",
+            "shown_at": [
+                "2026-06-01T10:29:14.676376Z"
+            ]
         }
     ]
 }
