@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 14 | 28 |
 | nyt | 0 | 3 | 14 | 28 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2322,3 +2322,4 @@
 - **May 31, 10:44 PM** - Epic Fury highlighted Space Force needs for distributed ops, EW sites (breaking_defense)
 - **May 31, 11:18 PM** - SpaceX IPO Filing Reveals Favorable Terms for Elon Musk (nyt)
 - **May 31, 11:54 PM** - New Glenn rocket explodes on Cape Canaveral pad (spacenews)
+- **Jun 01, 12:29 AM** - Epic Fury highlighted Space Force needs for distributed ops, EW sites (breaking_defense)
