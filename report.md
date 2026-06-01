@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 14 | 28 |
 | nyt | 0 | 3 | 14 | 28 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2334,3 +2334,4 @@
 - **Jun 01, 05:48 AM** - Epic Fury highlighted Space Force needs for distributed ops, EW sites (breaking_defense)
 - **Jun 01, 06:24 AM** - What Exactly Caused That Loud Boom in South Carolina? (nyt)
 - **Jun 01, 06:59 AM** - Sitael Accelerates Growth in Space: New Missions, Industrial Capacity and a Trajectory Towards 2031 (spacenews)
+- **Jun 01, 07:34 AM** - Epic Fury highlighted Space Force needs for distributed ops, EW sites (breaking_defense)
