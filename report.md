@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 6 | 16 | 29 |
-| nyt | 0 | 3 | 12 | 27 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| spacenews | 4 | 6 | 15 | 29 |
+| nyt | 0 | 3 | 13 | 28 |
+| breaking_defense | 0 | 0 | 13 | 25 |
 
 # Shown Order
 
@@ -2347,3 +2347,4 @@
 - **Jun 01, 01:24 PM** - A Fiery Visitor From Space Photo-Bombs an Erupting Volcano (nyt)
 - **Jun 01, 01:59 PM** - SPACECOM exploring tech for future offensive cislunar ops: Chief Scientist (breaking_defense)
 - **Jun 01, 02:34 PM** - Spaceport facility bonds are now law – and they fundamentally change space infrastructure finance (spacenews)
+- **Jun 01, 03:09 PM** - Where to See the Total Solar Eclipse on Aug. 12 (nyt)
