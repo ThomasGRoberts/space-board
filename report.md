@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 5 | 16 | 29 |
-| nyt | 0 | 3 | 12 | 27 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| spacenews | 3 | 5 | 15 | 29 |
+| nyt | 0 | 3 | 13 | 28 |
+| breaking_defense | 0 | 0 | 13 | 25 |
 
 # Shown Order
 
@@ -2341,3 +2341,4 @@
 - **Jun 01, 09:54 AM** - New Glenn failure worsens constrained launch market (spacenews)
 - **Jun 01, 10:29 AM** - China launches test direct-to-device satellites for multiple projects (spacenews)
 - **Jun 01, 11:05 AM** - China conducts surprise launch of Long March 12B, delivers Qianfan satellites on debut flight (spacenews)
+- **Jun 01, 11:39 AM** - Blue Origin Rocket Blows Up on Florida Launchpad During Test (nyt)
