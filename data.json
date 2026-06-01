@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-01T00:04:35.242916+00:00",
-    "trigger_count": 6,
-    "current_item_id": "12d481556ef694485598808fc9c546c9",
+    "trigger_count": 0,
+    "current_item_id": "36b9350a125e46f3e0bbbe862456c3d1",
     "data": [
         {
             "id": "e1401d20895d5b988bde3e66f29b5dff",
@@ -7856,6 +7856,18 @@
             "fetched_datetime": "2026-06-01T09:54:17.417208Z",
             "shown_at": [
                 "2026-06-01T10:29:14.676376Z"
+            ]
+        },
+        {
+            "id": "36b9350a125e46f3e0bbbe862456c3d1",
+            "source": "spacenews",
+            "text": "China conducts surprise launch of Long March 12B, delivers Qianfan satellites on debut flight",
+            "source_link": "https://spacenews.com/china-conducts-surprise-launch-of-long-march-12b-delivers-qianfan-satellites-on-debut-flight/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-01T11:05:07.391780Z",
+            "shown_at": [
+                "2026-06-01T11:05:08.281411Z"
             ]
         }
     ]

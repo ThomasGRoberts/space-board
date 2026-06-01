@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 15 | 29 |
-| nyt | 0 | 3 | 13 | 27 |
+| spacenews | 3 | 5 | 16 | 29 |
+| nyt | 0 | 3 | 12 | 27 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2340,3 +2340,4 @@
 - **Jun 01, 09:19 AM** - HASC $1.15T defense policy bill takes aim at industrial base challenges (breaking_defense)
 - **Jun 01, 09:54 AM** - New Glenn failure worsens constrained launch market (spacenews)
 - **Jun 01, 10:29 AM** - China launches test direct-to-device satellites for multiple projects (spacenews)
+- **Jun 01, 11:05 AM** - China conducts surprise launch of Long March 12B, delivers Qianfan satellites on debut flight (spacenews)
