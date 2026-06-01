@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 14 | 28 |
 | nyt | 0 | 3 | 14 | 28 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2328,3 +2328,4 @@
 - **Jun 01, 02:14 AM** - SpaceX wins $4.16B Space Force contract to detect airborne moving targets (breaking_defense)
 - **Jun 01, 02:49 AM** - Where to See the Total Solar Eclipse on Aug. 12 (nyt)
 - **Jun 01, 03:24 AM** - European space industry watching SpaceX IPO plans (spacenews)
+- **Jun 01, 03:59 AM** - SpaceX wins $4.16B Space Force contract to detect airborne moving targets (breaking_defense)
