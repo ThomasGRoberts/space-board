@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 7 | 14 | 29 |
+| spacenews | 5 | 7 | 15 | 30 |
 | nyt | 0 | 0 | 12 | 25 |
 | breaking_defense | 2 | 2 | 14 | 27 |
 
@@ -2356,3 +2356,4 @@
 - **Jun 01, 06:39 PM** - Virgin Galactic returns Unity to flight to prepare for next-generation spaceplane (spacenews)
 - **Jun 01, 07:14 PM** - A Fiery Visitor From Space Photo-Bombs an Erupting Volcano (nyt)
 - **Jun 01, 07:54 PM** - Despite ‘peak hype,’ orbital data centers for AI not yet ready for NatSec prime time (breaking_defense)
+- **Jun 01, 08:29 PM** - Setting up a permanent lunar presence needs investment in biology (spacenews)
