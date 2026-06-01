@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 7 | 16 | 30 |
-| nyt | 0 | 3 | 13 | 27 |
-| breaking_defense | 0 | 0 | 12 | 25 |
+| spacenews | 5 | 7 | 16 | 29 |
+| nyt | 0 | 3 | 12 | 27 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2349,3 +2349,4 @@
 - **Jun 01, 02:34 PM** - Spaceport facility bonds are now law – and they fundamentally change space infrastructure finance (spacenews)
 - **Jun 01, 03:09 PM** - Where to See the Total Solar Eclipse on Aug. 12 (nyt)
 - **Jun 01, 03:44 PM** - Northrop Grumman partners with Apex on space-based interceptors for Golden Dome (spacenews)
+- **Jun 01, 04:19 PM** - Despite ‘peak hype,’ orbital data centers for AI not yet ready for NatSec prime time (breaking_defense)
