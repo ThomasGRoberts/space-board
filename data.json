@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-01T00:04:35.242916+00:00",
-    "trigger_count": 6,
-    "current_item_id": "fcbd5967fc3a1863f0794c3f2678ea62",
+    "trigger_count": 0,
+    "current_item_id": "e6f0edc880d2104218b53fe971968ea5",
     "data": [
         {
             "id": "e1401d20895d5b988bde3e66f29b5dff",
@@ -7912,6 +7912,18 @@
             "fetched_datetime": "2026-06-01T16:54:26.488788Z",
             "shown_at": [
                 "2026-06-01T16:54:29.447579Z"
+            ]
+        },
+        {
+            "id": "e6f0edc880d2104218b53fe971968ea5",
+            "source": "breaking_defense",
+            "text": "Northrop Grumman partners with Apex for 2027 SBI demo",
+            "source_link": "https://breakingdefense.com/2026/06/northrop-grumman-partners-with-apex-for-2027-sbi-demo/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-01T18:04:46.656014Z",
+            "shown_at": [
+                "2026-06-01T18:04:47.455746Z"
             ]
         }
     ]
