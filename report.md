@@ -2359,3 +2359,4 @@
 - **Jun 02, 12:19 PM** - Impulse Space raises $500 million (spacenews)
 - **Jun 02, 12:54 PM** - Voyager to acquire lunar lander developer Astrobotic (spacenews)
 - **Jun 02, 01:29 PM** - What’s Next for Blue Origin After Rocket Explosion (nyt)
+- **Jun 02, 02:04 PM** - SPACECOM exploring tech for future offensive cislunar ops: Chief Scientist (breaking_defense)
