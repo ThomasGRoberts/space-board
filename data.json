@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-02T00:04:33.518625+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b2def25bf48c5323b0b509e9a868fba9",
+    "trigger_count": 0,
+    "current_item_id": "4c071443747a1fc2fafa6c50cc5ba76d",
     "data": [
         {
             "id": "e6f0edc880d2104218b53fe971968ea5",
@@ -7910,6 +7910,27 @@
             "shown_at": [
                 "2026-06-02T12:54:20.818308Z"
             ]
+        },
+        {
+            "id": "4c071443747a1fc2fafa6c50cc5ba76d",
+            "source": "spacenews",
+            "text": "The importance of determining an equilibrium state for space traffic management",
+            "source_link": "https://spacenews.com/the-importance-of-determining-an-equilibrium-state-for-space-traffic-management/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-02T14:39:14.384275Z",
+            "shown_at": [
+                "2026-06-02T14:39:17.020208Z"
+            ]
+        },
+        {
+            "id": "46ca671cdf1b09b14dcfbeea720c87b8",
+            "source": "spacenews",
+            "text": "UK explores Vast space station mission for astronaut with physical disability",
+            "source_link": "https://spacenews.com/uk-explores-vast-space-station-mission-for-astronaut-with-physical-disability/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-06-02T14:39:14.384349Z"
         }
     ]
 }
