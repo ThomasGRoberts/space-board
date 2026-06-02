@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-02T00:04:33.518625+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7e0f303a8926800d40342f68ad3c08f8",
+    "trigger_count": 0,
+    "current_item_id": "8ce5ccc6fe35d0af5c693fa1da5a8d29",
     "data": [
         {
             "id": "e6f0edc880d2104218b53fe971968ea5",
@@ -7902,9 +7902,12 @@
             "source": "spacenews",
             "text": "Voyager to acquire lunar lander developer Astrobotic",
             "source_link": "https://spacenews.com/voyager-to-acquire-lunar-lander-developer-astrobotic/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-06-02T12:19:18.622019Z"
+            "fetched_datetime": "2026-06-02T12:19:18.622019Z",
+            "shown_at": [
+                "2026-06-02T12:54:20.818308Z"
+            ]
         }
     ]
 }
