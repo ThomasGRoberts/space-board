@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 2 | 13 | 27 |
+| breaking_defense | 2 | 2 | 14 | 28 |
 | spacenews | 6 | 7 | 16 | 29 |
 | nyt | 0 | 0 | 12 | 26 |
 
@@ -2347,3 +2347,4 @@
 - **Jun 02, 05:13 AM** - SpaceX wins $2.29B to speed Space Force’s LEO communications ‘backbone’ (breaking_defense)
 - **Jun 02, 05:49 AM** - Revolv Space enters in-orbit servicing market with Infinite Orbits deal (spacenews)
 - **Jun 02, 06:24 AM** - A New Era of Exploring the Universe in Radio (nyt)
+- **Jun 02, 06:59 AM** - HASC $1.15T defense policy bill takes aim at industrial base challenges (breaking_defense)
