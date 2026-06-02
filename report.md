@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 2 | 11 | 25 |
+| breaking_defense | 1 | 2 | 12 | 26 |
 | spacenews | 8 | 13 | 17 | 32 |
 | nyt | 0 | 0 | 12 | 24 |
 
@@ -2364,3 +2364,4 @@
 - **Jun 02, 03:14 PM** - UK explores Vast space station mission for astronaut with physical disability (spacenews)
 - **Jun 02, 03:49 PM** - What Exactly Caused That Loud Boom in South Carolina? (nyt)
 - **Jun 02, 04:24 PM** - Global SSA Market to Reach $61B as Governments Prioritize Space Security, Resilience, and Orbital Safety (spacenews)
+- **Jun 02, 04:59 PM** - SPACECOM exploring tech for future offensive cislunar ops: Chief Scientist (breaking_defense)
