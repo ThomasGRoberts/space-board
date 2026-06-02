@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 2 | 12 | 25 |
 | spacenews | 8 | 13 | 17 | 32 |
-| nyt | 0 | 0 | 11 | 24 |
+| nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -2368,3 +2368,4 @@
 - **Jun 02, 05:34 PM** - NASA’s Moon Base Plan Adds Two Rovers for Its Astronauts (nyt)
 - **Jun 02, 06:14 PM** - As geopolitics reshape space, SpinLaunch sees an opening (spacenews)
 - **Jun 02, 06:49 PM** - SPACECOM exploring tech for future offensive cislunar ops: Chief Scientist (breaking_defense)
+- **Jun 02, 07:24 PM** - What’s Next for Blue Origin After Rocket Explosion (nyt)
