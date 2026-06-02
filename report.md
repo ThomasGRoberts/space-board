@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 2 | 13 | 27 |
-| spacenews | 6 | 7 | 16 | 29 |
+| breaking_defense | 2 | 2 | 14 | 27 |
+| spacenews | 6 | 7 | 15 | 29 |
 | nyt | 0 | 0 | 12 | 26 |
 
 # Shown Order
@@ -2344,3 +2344,4 @@
 - **Jun 02, 03:29 AM** - National security launch schedule not likely impacted by New Glenn disaster (breaking_defense)
 - **Jun 02, 04:04 AM** - Northrop Grumman partners with Apex on space-based interceptors for Golden Dome (spacenews)
 - **Jun 02, 04:39 AM** - What Exactly Caused That Loud Boom in South Carolina? (nyt)
+- **Jun 02, 05:13 AM** - SpaceX wins $2.29B to speed Space Force’s LEO communications ‘backbone’ (breaking_defense)
