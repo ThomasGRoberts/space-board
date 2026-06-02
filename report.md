@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 13 | 26 |
-| spacenews | 8 | 12 | 16 | 31 |
-| nyt | 0 | 0 | 12 | 24 |
+| spacenews | 8 | 12 | 17 | 32 |
+| nyt | 0 | 0 | 11 | 24 |
 
 # Shown Order
 
@@ -2361,3 +2361,4 @@
 - **Jun 02, 01:29 PM** - What’s Next for Blue Origin After Rocket Explosion (nyt)
 - **Jun 02, 02:04 PM** - SPACECOM exploring tech for future offensive cislunar ops: Chief Scientist (breaking_defense)
 - **Jun 02, 02:39 PM** - The importance of determining an equilibrium state for space traffic management (spacenews)
+- **Jun 02, 03:14 PM** - UK explores Vast space station mission for astronaut with physical disability (spacenews)
