@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-02T00:04:33.518625+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a82c53d9137f929deb91989dff83e8b2",
+    "trigger_count": 0,
+    "current_item_id": "41018a3f0a3d1bec3aae0fa97abb9fc4",
     "data": [
         {
             "id": "e6f0edc880d2104218b53fe971968ea5",
@@ -7833,6 +7833,18 @@
                 "2026-04-01T16:59:24.314453Z",
                 "2026-04-03T04:44:16.944840Z",
                 "2026-04-07T10:24:30.239383Z"
+            ]
+        },
+        {
+            "id": "41018a3f0a3d1bec3aae0fa97abb9fc4",
+            "source": "spacenews",
+            "text": "France to fly two astronauts on Vast missions",
+            "source_link": "https://spacenews.com/france-to-fly-two-astronauts-on-vast-missions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-02T02:19:18.707546Z",
+            "shown_at": [
+                "2026-06-02T02:19:19.481045Z"
             ]
         }
     ]
