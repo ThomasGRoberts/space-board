@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-02T00:04:33.518625+00:00",
-    "trigger_count": 6,
-    "current_item_id": "182b5cd85901767e236764b36ffdbc25",
+    "trigger_count": 0,
+    "current_item_id": "23923c27086ecf86b123c9a3006b57a1",
     "data": [
         {
             "id": "e6f0edc880d2104218b53fe971968ea5",
@@ -7870,6 +7870,18 @@
             "fetched_datetime": "2026-06-02T08:14:25.172474Z",
             "shown_at": [
                 "2026-06-02T08:14:26.056855Z"
+            ]
+        },
+        {
+            "id": "23923c27086ecf86b123c9a3006b57a1",
+            "source": "spacenews",
+            "text": "Researchers call for regulations to protect low Earth orbit environment",
+            "source_link": "https://spacenews.com/researchers-call-for-regulations-to-protect-low-earth-orbit-environment/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-02T11:09:12.163246Z",
+            "shown_at": [
+                "2026-06-02T11:09:14.042721Z"
             ]
         }
     ]

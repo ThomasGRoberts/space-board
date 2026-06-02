@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 13 | 26 |
-| spacenews | 5 | 7 | 15 | 30 |
+| spacenews | 5 | 8 | 15 | 31 |
 | nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -2354,3 +2354,4 @@
 - **Jun 02, 09:24 AM** - Despite ‘peak hype,’ orbital data centers for AI not yet ready for NatSec prime time (breaking_defense)
 - **Jun 02, 09:59 AM** - Artemis 2 captured the world’s attention. It should change how we think about supply chains. (spacenews)
 - **Jun 02, 10:34 AM** - A Fiery Visitor From Space Photo-Bombs an Erupting Volcano (nyt)
+- **Jun 02, 11:09 AM** - Researchers call for regulations to protect low Earth orbit environment (spacenews)
