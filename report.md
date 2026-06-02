@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 2 | 13 | 27 |
-| spacenews | 6 | 7 | 16 | 29 |
+| breaking_defense | 2 | 2 | 14 | 27 |
+| spacenews | 6 | 7 | 15 | 29 |
 | nyt | 0 | 0 | 12 | 26 |
 
 # Shown Order
@@ -2341,3 +2341,4 @@
 - **Jun 02, 01:44 AM** - Sitael Accelerates Growth in Space: New Missions, Industrial Capacity and a Trajectory Towards 2031 (spacenews)
 - **Jun 02, 02:19 AM** - France to fly two astronauts on Vast missions (spacenews)
 - **Jun 02, 02:54 AM** - SpaceX’s Unconventional Corporate Arrangements Favor Elon Musk (nyt)
+- **Jun 02, 03:29 AM** - National security launch schedule not likely impacted by New Glenn disaster (breaking_defense)
