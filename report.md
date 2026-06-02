@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 2 | 11 | 25 |
-| spacenews | 8 | 13 | 17 | 32 |
+| spacenews | 8 | 13 | 18 | 33 |
 | nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
@@ -2366,3 +2366,4 @@
 - **Jun 02, 04:24 PM** - Global SSA Market to Reach $61B as Governments Prioritize Space Security, Resilience, and Orbital Safety (spacenews)
 - **Jun 02, 04:59 PM** - SPACECOM exploring tech for future offensive cislunar ops: Chief Scientist (breaking_defense)
 - **Jun 02, 05:34 PM** - NASA’s Moon Base Plan Adds Two Rovers for Its Astronauts (nyt)
+- **Jun 02, 06:14 PM** - As geopolitics reshape space, SpinLaunch sees an opening (spacenews)
