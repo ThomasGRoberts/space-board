@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-02T00:04:33.518625+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8653ab627b085d12b82b1f4b600fc866",
+    "trigger_count": 0,
+    "current_item_id": "1b8923dfb72cc8bc06aaea515ae2db1b",
     "data": [
         {
             "id": "e6f0edc880d2104218b53fe971968ea5",
@@ -7967,6 +7967,18 @@
             "fetched_datetime": "2026-06-02T21:44:30.594684Z",
             "shown_at": [
                 "2026-06-02T21:44:31.783577Z"
+            ]
+        },
+        {
+            "id": "1b8923dfb72cc8bc06aaea515ae2db1b",
+            "source": "spacenews",
+            "text": "NRO nominee says commercial space, AI are reshaping spy satellite agency",
+            "source_link": "https://spacenews.com/nro-nominee-says-commercial-space-ai-are-reshaping-spy-satellite-agency/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-02T22:54:02.243762Z",
+            "shown_at": [
+                "2026-06-02T22:54:04.585711Z"
             ]
         }
     ]
