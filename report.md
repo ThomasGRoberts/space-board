@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 13 | 26 |
 | spacenews | 7 | 8 | 16 | 30 |
-| nyt | 0 | 0 | 11 | 25 |
+| nyt | 0 | 0 | 12 | 26 |
 
 # Shown Order
 
@@ -2350,3 +2350,4 @@
 - **Jun 02, 06:59 AM** - HASC $1.15T defense policy bill takes aim at industrial base challenges (breaking_defense)
 - **Jun 02, 07:34 AM** - Chinese startup Mega Engine advances reusable staged-combustion rocket engine (spacenews)
 - **Jun 02, 08:14 AM** - NASA abandons ‘core module’ concept for commercial space station development (spacenews)
+- **Jun 02, 08:49 AM** - What Exactly Caused That Loud Boom in South Carolina? (nyt)
