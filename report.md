@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 2 | 12 | 25 |
 | spacenews | 8 | 13 | 17 | 32 |
-| nyt | 0 | 0 | 12 | 24 |
+| nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -2371,3 +2371,4 @@
 - **Jun 02, 07:24 PM** - What’s Next for Blue Origin After Rocket Explosion (nyt)
 - **Jun 02, 07:59 PM** - Setting up a permanent lunar presence needs investment in biology (spacenews)
 - **Jun 02, 08:34 PM** - National security launch schedule not likely impacted by New Glenn disaster (breaking_defense)
+- **Jun 02, 09:09 PM** - What Exactly Caused That Loud Boom in South Carolina? (nyt)
