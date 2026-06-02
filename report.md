@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 3 | 12 | 25 |
+| breaking_defense | 1 | 3 | 11 | 25 |
 | spacenews | 9 | 14 | 18 | 33 |
-| nyt | 0 | 0 | 11 | 23 |
+| nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
 
@@ -2375,3 +2375,4 @@
 - **Jun 02, 09:44 PM** - How AI is shaping the future of geospatial intelligence (breaking_defense)
 - **Jun 02, 10:19 PM** - Spaceport facility bonds are now law – and they fundamentally change space infrastructure finance (spacenews)
 - **Jun 02, 10:54 PM** - NRO nominee says commercial space, AI are reshaping spy satellite agency (spacenews)
+- **Jun 02, 11:29 PM** - Blue Origin Rocket Blows Up on Florida Launchpad During Test (nyt)
