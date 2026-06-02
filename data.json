@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-02T00:04:33.518625+00:00",
-    "trigger_count": 6,
-    "current_item_id": "11127ba5c8e86ad217ba0921b198d810",
+    "trigger_count": 0,
+    "current_item_id": "54fe1bd18c6069c84b916574324916ec",
     "data": [
         {
             "id": "e6f0edc880d2104218b53fe971968ea5",
@@ -7934,6 +7934,18 @@
             "fetched_datetime": "2026-06-02T14:39:14.384349Z",
             "shown_at": [
                 "2026-06-02T15:14:30.158356Z"
+            ]
+        },
+        {
+            "id": "54fe1bd18c6069c84b916574324916ec",
+            "source": "spacenews",
+            "text": "Global SSA Market to Reach $61B as Governments Prioritize Space Security, Resilience, and Orbital Safety",
+            "source_link": "https://spacenews.com/global-ssa-market-to-reach-61b-as-governments-prioritize-space-security-resilience-and-orbital-safety/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-02T16:24:39.748676Z",
+            "shown_at": [
+                "2026-06-02T16:24:40.820179Z"
             ]
         }
     ]
