@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 13 | 27 |
 | spacenews | 6 | 7 | 16 | 29 |
-| nyt | 0 | 0 | 11 | 25 |
+| nyt | 0 | 0 | 12 | 26 |
 
 # Shown Order
 
@@ -2340,3 +2340,4 @@
 - **Jun 02, 01:09 AM** - Northrop Grumman partners with Apex for 2027 SBI demo (breaking_defense)
 - **Jun 02, 01:44 AM** - Sitael Accelerates Growth in Space: New Missions, Industrial Capacity and a Trajectory Towards 2031 (spacenews)
 - **Jun 02, 02:19 AM** - France to fly two astronauts on Vast missions (spacenews)
+- **Jun 02, 02:54 AM** - SpaceX’s Unconventional Corporate Arrangements Favor Elon Musk (nyt)
