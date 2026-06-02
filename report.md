@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 2 | 11 | 25 |
+| breaking_defense | 0 | 2 | 12 | 26 |
 | spacenews | 8 | 13 | 17 | 32 |
 | nyt | 0 | 0 | 12 | 24 |
 
@@ -2370,3 +2370,4 @@
 - **Jun 02, 06:49 PM** - SPACECOM exploring tech for future offensive cislunar ops: Chief Scientist (breaking_defense)
 - **Jun 02, 07:24 PM** - What’s Next for Blue Origin After Rocket Explosion (nyt)
 - **Jun 02, 07:59 PM** - Setting up a permanent lunar presence needs investment in biology (spacenews)
+- **Jun 02, 08:34 PM** - National security launch schedule not likely impacted by New Glenn disaster (breaking_defense)
