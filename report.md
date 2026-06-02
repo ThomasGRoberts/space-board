@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 2 | 2 | 13 | 27 |
-| spacenews | 7 | 7 | 16 | 29 |
+| spacenews | 5 | 7 | 16 | 30 |
 | nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
@@ -2352,3 +2352,4 @@
 - **Jun 02, 08:14 AM** - NASA abandons ‘core module’ concept for commercial space station development (spacenews)
 - **Jun 02, 08:49 AM** - What Exactly Caused That Loud Boom in South Carolina? (nyt)
 - **Jun 02, 09:24 AM** - Despite ‘peak hype,’ orbital data centers for AI not yet ready for NatSec prime time (breaking_defense)
+- **Jun 02, 09:59 AM** - Artemis 2 captured the world’s attention. It should change how we think about supply chains. (spacenews)
