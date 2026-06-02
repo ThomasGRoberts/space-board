@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 2 | 12 | 25 |
 | spacenews | 8 | 13 | 17 | 32 |
-| nyt | 0 | 0 | 12 | 24 |
+| nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -2365,3 +2365,4 @@
 - **Jun 02, 03:49 PM** - What Exactly Caused That Loud Boom in South Carolina? (nyt)
 - **Jun 02, 04:24 PM** - Global SSA Market to Reach $61B as Governments Prioritize Space Security, Resilience, and Orbital Safety (spacenews)
 - **Jun 02, 04:59 PM** - SPACECOM exploring tech for future offensive cislunar ops: Chief Scientist (breaking_defense)
+- **Jun 02, 05:34 PM** - NASA’s Moon Base Plan Adds Two Rovers for Its Astronauts (nyt)
