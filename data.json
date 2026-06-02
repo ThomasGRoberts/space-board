@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-02T00:04:33.518625+00:00",
-    "trigger_count": 6,
-    "current_item_id": "aa6258b718ffe344dbddb22633656817",
+    "trigger_count": 0,
+    "current_item_id": "7e0f303a8926800d40342f68ad3c08f8",
     "data": [
         {
             "id": "e6f0edc880d2104218b53fe971968ea5",
@@ -7884,6 +7884,27 @@
             "shown_at": [
                 "2026-06-02T11:09:14.042721Z"
             ]
+        },
+        {
+            "id": "7e0f303a8926800d40342f68ad3c08f8",
+            "source": "spacenews",
+            "text": "Impulse Space raises $500 million",
+            "source_link": "https://spacenews.com/impulse-space-raises-500-million/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-02T12:19:18.621950Z",
+            "shown_at": [
+                "2026-06-02T12:19:21.529825Z"
+            ]
+        },
+        {
+            "id": "8ce5ccc6fe35d0af5c693fa1da5a8d29",
+            "source": "spacenews",
+            "text": "Voyager to acquire lunar lander developer Astrobotic",
+            "source_link": "https://spacenews.com/voyager-to-acquire-lunar-lander-developer-astrobotic/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-06-02T12:19:18.622019Z"
         }
     ]
 }

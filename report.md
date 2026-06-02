@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 2 | 2 | 14 | 26 |
-| spacenews | 5 | 8 | 15 | 30 |
+| breaking_defense | 2 | 2 | 13 | 26 |
+| spacenews | 7 | 10 | 16 | 31 |
 | nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
@@ -2356,3 +2356,4 @@
 - **Jun 02, 10:34 AM** - A Fiery Visitor From Space Photo-Bombs an Erupting Volcano (nyt)
 - **Jun 02, 11:09 AM** - Researchers call for regulations to protect low Earth orbit environment (spacenews)
 - **Jun 02, 11:44 AM** - SpaceX wins $2.29B to speed Space Force’s LEO communications ‘backbone’ (breaking_defense)
+- **Jun 02, 12:19 PM** - Impulse Space raises $500 million (spacenews)
