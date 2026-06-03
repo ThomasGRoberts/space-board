@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 14 | 16 | 32 |
+| spacenews | 7 | 14 | 17 | 33 |
 | breaking_defense | 1 | 3 | 12 | 25 |
 | nyt | 0 | 0 | 12 | 24 |
 
@@ -2355,3 +2355,4 @@
 - **Jun 03, 07:54 AM** - Virgin Galactic returns Unity to flight to prepare for next-generation spaceplane (spacenews)
 - **Jun 03, 08:29 AM** - What’s Next for Blue Origin After Rocket Explosion (nyt)
 - **Jun 03, 09:04 AM** - National security launch schedule not likely impacted by New Glenn disaster (breaking_defense)
+- **Jun 03, 09:39 AM** - Starcloud’s path to 88,000 computing satellites (spacenews)
