@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-03T00:04:38.457771+00:00",
-    "trigger_count": 6,
-    "current_item_id": "92ab0ee8074ab2219b16f57624c0f2e1",
+    "trigger_count": 0,
+    "current_item_id": "1e1353c294d55f5424a4f6d37d5489ff",
     "data": [
         {
             "id": "1b8923dfb72cc8bc06aaea515ae2db1b",
@@ -7904,6 +7904,18 @@
             "fetched_datetime": "2026-06-03T15:44:23.793520Z",
             "shown_at": [
                 "2026-06-03T15:44:24.979436Z"
+            ]
+        },
+        {
+            "id": "1e1353c294d55f5424a4f6d37d5489ff",
+            "source": "breaking_defense",
+            "text": "Army, J-7 to test new sensor with high-altitude balloon in coming days",
+            "source_link": "https://breakingdefense.com/2026/06/army-j-7-to-test-new-sensor-with-high-altitude-balloon-in-coming-days/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-03T16:19:33.728033Z",
+            "shown_at": [
+                "2026-06-03T16:19:35.969722Z"
             ]
         }
     ]
