@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 14 | 15 | 33 |
 | breaking_defense | 2 | 2 | 13 | 24 |
-| nyt | 0 | 0 | 12 | 24 |
+| nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
 
@@ -2373,3 +2373,4 @@
 - **Jun 03, 06:39 PM** - What’s Next for Blue Origin After Rocket Explosion (nyt)
 - **Jun 03, 07:14 PM** - After cooperation on SMILE mission, ESA and China chart parallel but separate paths (spacenews)
 - **Jun 03, 07:49 PM** - Dept. of Air Force ‘still working’ to sort space programs into acquisition portfolios: Ainsworth (breaking_defense)
+- **Jun 03, 08:24 PM** - Blue Origin Rocket Blows Up on Florida Launchpad During Test (nyt)
