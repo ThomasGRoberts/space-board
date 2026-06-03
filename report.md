@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 12 | 16 | 31 |
+| spacenews | 8 | 13 | 17 | 32 |
 | breaking_defense | 1 | 3 | 12 | 25 |
 | nyt | 0 | 0 | 12 | 25 |
 
@@ -2357,3 +2357,4 @@
 - **Jun 03, 09:04 AM** - National security launch schedule not likely impacted by New Glenn disaster (breaking_defense)
 - **Jun 03, 09:39 AM** - Starcloud’s path to 88,000 computing satellites (spacenews)
 - **Jun 03, 10:14 AM** - The Blue Micromoon Rises in Sunday’s Early Skies (nyt)
+- **Jun 03, 10:49 AM** - Blue Origin seeks to resume New Glenn launches by year’s end (spacenews)

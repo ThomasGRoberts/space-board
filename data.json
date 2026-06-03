@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-03T00:04:38.457771+00:00",
-    "trigger_count": 6,
-    "current_item_id": "57bcd60528cc3bd28f1547011a94f062",
+    "trigger_count": 0,
+    "current_item_id": "cfbd741cd8c0b79b0dcf308867b45324",
     "data": [
         {
             "id": "1b8923dfb72cc8bc06aaea515ae2db1b",
@@ -7851,6 +7851,18 @@
                 "2026-04-07T08:04:48.308939Z",
                 "2026-04-07T12:09:19.376697Z",
                 "2026-04-08T03:54:11.996045Z"
+            ]
+        },
+        {
+            "id": "cfbd741cd8c0b79b0dcf308867b45324",
+            "source": "spacenews",
+            "text": "Blue Origin seeks to resume New Glenn launches by year’s end",
+            "source_link": "https://spacenews.com/blue-origin-seeks-to-resume-new-glenn-launches-by-years-end/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-03T10:49:12.220099Z",
+            "shown_at": [
+                "2026-06-03T10:49:15.333009Z"
             ]
         }
     ]
