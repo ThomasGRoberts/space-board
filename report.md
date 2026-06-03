@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 15 | 15 | 33 |
-| breaking_defense | 1 | 2 | 12 | 24 |
+| spacenews | 6 | 15 | 16 | 34 |
+| breaking_defense | 1 | 2 | 12 | 23 |
 | nyt | 1 | 1 | 13 | 24 |
 
 # Shown Order
@@ -2378,3 +2378,4 @@
 - **Jun 03, 09:34 PM** - AST SpaceMobile sees New Glenn setback delaying initial commercial service into 2027 (spacenews)
 - **Jun 03, 10:09 PM** - SpaceX IPO to Be Largest Ever at $135 Share Price (nyt)
 - **Jun 03, 10:44 PM** - Northrop Grumman partners with Apex for 2027 SBI demo (breaking_defense)
+- **Jun 03, 11:24 PM** - Muon Space unveils Starship-class satellite platform for orbital data centers (spacenews)
