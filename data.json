@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-03T00:04:38.457771+00:00",
-    "trigger_count": 6,
-    "current_item_id": "bb8e5670fd963f0acdb0d21af22971fa",
+    "trigger_count": 0,
+    "current_item_id": "647be05ce63a84f8652bea1aa77e5f23",
     "data": [
         {
             "id": "1b8923dfb72cc8bc06aaea515ae2db1b",
@@ -7864,6 +7864,18 @@
             "fetched_datetime": "2026-06-03T10:49:12.220099Z",
             "shown_at": [
                 "2026-06-03T10:49:15.333009Z"
+            ]
+        },
+        {
+            "id": "647be05ce63a84f8652bea1aa77e5f23",
+            "source": "spacenews",
+            "text": "Muon Space unveils Starship-class satellite platform for orbital data centers",
+            "source_link": "https://spacenews.com/muon-space-unveils-starship-class-satellite-platform-for-orbital-data-centers/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-03T11:59:14.889151Z",
+            "shown_at": [
+                "2026-06-03T11:59:16.044692Z"
             ]
         }
     ]

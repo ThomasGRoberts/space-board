@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 12 | 16 | 31 |
+| spacenews | 8 | 13 | 17 | 32 |
 | breaking_defense | 1 | 3 | 12 | 26 |
 | nyt | 0 | 0 | 12 | 24 |
 
@@ -2359,3 +2359,4 @@
 - **Jun 03, 10:14 AM** - The Blue Micromoon Rises in Sunday’s Early Skies (nyt)
 - **Jun 03, 10:49 AM** - Blue Origin seeks to resume New Glenn launches by year’s end (spacenews)
 - **Jun 03, 11:24 AM** - How AI is shaping the future of geospatial intelligence (breaking_defense)
+- **Jun 03, 11:59 AM** - Muon Space unveils Starship-class satellite platform for orbital data centers (spacenews)
