@@ -1,9 +1,129 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-06-02T00:04:33.518625+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7eb0515187ef46d9035db14e72d578a1",
+    "last_run_datetime": "2026-06-03T00:04:38.457771+00:00",
+    "trigger_count": 0,
+    "current_item_id": "e4d13f9e5940e7db13b5f591e75a1b65",
     "data": [
+        {
+            "id": "1b8923dfb72cc8bc06aaea515ae2db1b",
+            "source": "spacenews",
+            "text": "NRO nominee says commercial space, AI are reshaping spy satellite agency",
+            "source_link": "https://spacenews.com/nro-nominee-says-commercial-space-ai-are-reshaping-spy-satellite-agency/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-02T22:54:02.243762Z",
+            "shown_at": [
+                "2026-06-02T22:54:04.585711Z"
+            ]
+        },
+        {
+            "id": "bb8e5670fd963f0acdb0d21af22971fa",
+            "source": "breaking_defense",
+            "text": "How AI is shaping the future of geospatial intelligence",
+            "source_link": "https://breakingdefense.com/2026/06/how-ai-is-shaping-the-future-of-geospatial-intelligence/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-02T21:44:30.594684Z",
+            "shown_at": [
+                "2026-06-02T21:44:31.783577Z"
+            ]
+        },
+        {
+            "id": "54fe1bd18c6069c84b916574324916ec",
+            "source": "spacenews",
+            "text": "Global SSA Market to Reach $61B as Governments Prioritize Space Security, Resilience, and Orbital Safety",
+            "source_link": "https://spacenews.com/global-ssa-market-to-reach-61b-as-governments-prioritize-space-security-resilience-and-orbital-safety/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-02T16:24:39.748676Z",
+            "shown_at": [
+                "2026-06-02T16:24:40.820179Z"
+            ]
+        },
+        {
+            "id": "46ca671cdf1b09b14dcfbeea720c87b8",
+            "source": "spacenews",
+            "text": "UK explores Vast space station mission for astronaut with physical disability",
+            "source_link": "https://spacenews.com/uk-explores-vast-space-station-mission-for-astronaut-with-physical-disability/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-02T14:39:14.384349Z",
+            "shown_at": [
+                "2026-06-02T15:14:30.158356Z"
+            ]
+        },
+        {
+            "id": "4c071443747a1fc2fafa6c50cc5ba76d",
+            "source": "spacenews",
+            "text": "The importance of determining an equilibrium state for space traffic management",
+            "source_link": "https://spacenews.com/the-importance-of-determining-an-equilibrium-state-for-space-traffic-management/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-02T14:39:14.384275Z",
+            "shown_at": [
+                "2026-06-02T14:39:17.020208Z"
+            ]
+        },
+        {
+            "id": "8ce5ccc6fe35d0af5c693fa1da5a8d29",
+            "source": "spacenews",
+            "text": "Voyager to acquire lunar lander developer Astrobotic",
+            "source_link": "https://spacenews.com/voyager-to-acquire-lunar-lander-developer-astrobotic/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-02T12:19:18.622019Z",
+            "shown_at": [
+                "2026-06-02T12:54:20.818308Z"
+            ]
+        },
+        {
+            "id": "7e0f303a8926800d40342f68ad3c08f8",
+            "source": "spacenews",
+            "text": "Impulse Space raises $500 million",
+            "source_link": "https://spacenews.com/impulse-space-raises-500-million/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-02T12:19:18.621950Z",
+            "shown_at": [
+                "2026-06-02T12:19:21.529825Z"
+            ]
+        },
+        {
+            "id": "23923c27086ecf86b123c9a3006b57a1",
+            "source": "spacenews",
+            "text": "Researchers call for regulations to protect low Earth orbit environment",
+            "source_link": "https://spacenews.com/researchers-call-for-regulations-to-protect-low-earth-orbit-environment/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-02T11:09:12.163246Z",
+            "shown_at": [
+                "2026-06-02T11:09:14.042721Z"
+            ]
+        },
+        {
+            "id": "b2d08749c223e5085480b74d07a9eb9d",
+            "source": "spacenews",
+            "text": "NASA abandons ‘core module’ concept for commercial space station development",
+            "source_link": "https://spacenews.com/nasa-abandons-core-module-concept-for-commercial-space-station-development/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-02T08:14:25.172474Z",
+            "shown_at": [
+                "2026-06-02T08:14:26.056855Z"
+            ]
+        },
+        {
+            "id": "41018a3f0a3d1bec3aae0fa97abb9fc4",
+            "source": "spacenews",
+            "text": "France to fly two astronauts on Vast missions",
+            "source_link": "https://spacenews.com/france-to-fly-two-astronauts-on-vast-missions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-02T02:19:18.707546Z",
+            "shown_at": [
+                "2026-06-02T02:19:19.481045Z"
+            ]
+        },
         {
             "id": "e6f0edc880d2104218b53fe971968ea5",
             "source": "breaking_defense",
@@ -347,7 +467,8 @@
                 "2026-05-31T22:44:21.350086Z",
                 "2026-06-01T00:29:07.902561Z",
                 "2026-06-01T05:48:59.221843Z",
-                "2026-06-01T07:34:21.139643Z"
+                "2026-06-01T07:34:21.139643Z",
+                "2026-06-03T00:04:43.533042Z"
             ]
         },
         {
@@ -7713,273 +7834,6 @@
                 "2026-04-07T08:04:48.308939Z",
                 "2026-04-07T12:09:19.376697Z",
                 "2026-04-08T03:54:11.996045Z"
-            ]
-        },
-        {
-            "id": "45ec07a47fcd309a487fc661eb8d7f9e",
-            "source": "nyt",
-            "text": "Who Made the Artemis II Rocket and Space Capsule?",
-            "source_link": "https://www.nytimes.com/2026/04/01/science/space/artemis-ii-rocket-space-capsule-boeing-lockheed-martin.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-01T20:34:32.090476Z",
-            "shown_at": [
-                "2026-04-01T21:44:23.327857Z",
-                "2026-04-07T19:09:16.238355Z",
-                "2026-04-07T20:54:32.390671Z"
-            ]
-        },
-        {
-            "id": "a698b8f6a7dabbba8a44116dd4486323",
-            "source": "nyt",
-            "text": "Live Updates: Artemis Astronauts Board Spacecraft for NASA Moon Launch",
-            "source_link": "https://www.nytimes.com/live/2026/04/01/science/moon-nasa-artemis-launch",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-01T20:34:32.090077Z",
-            "shown_at": [
-                "2026-04-01T20:34:33.498897Z"
-            ]
-        },
-        {
-            "id": "fc581a95facea66866f6dffae464c6b9",
-            "source": "spacenews",
-            "text": "Aspect Aerospace secures early funding to advance swarm-deployable VLEO satellites",
-            "source_link": "https://spacenews.com/aspect-aerospace-secures-early-funding-to-advance-swarm-deployable-vleo-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-01T18:44:17.891408Z",
-            "shown_at": [
-                "2026-04-01T22:19:12.546030Z",
-                "2026-04-02T11:49:18.417512Z",
-                "2026-04-03T07:39:15.038797Z",
-                "2026-04-06T04:49:22.185461Z",
-                "2026-04-06T23:49:13.672609Z",
-                "2026-04-07T21:28:59.939092Z"
-            ]
-        },
-        {
-            "id": "a715aceb4d8086cf267c578b501160d4",
-            "source": "spacenews",
-            "text": "Saltzman: Space ‘baked into’ modern combat operations",
-            "source_link": "https://spacenews.com/saltzman-space-baked-into-modern-combat-operations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-01T18:44:17.891365Z",
-            "shown_at": [
-                "2026-04-01T21:09:22.214694Z",
-                "2026-04-03T15:19:29.217490Z",
-                "2026-04-05T21:49:25.960139Z",
-                "2026-04-07T18:34:36.126220Z"
-            ]
-        },
-        {
-            "id": "2099c4b16592a3a44c78fe80ca92cc60",
-            "source": "spacenews",
-            "text": "Artemis 2’s (nearly) 10-day flight around the moon",
-            "source_link": "https://spacenews.com/artemis-2s-nearly-10-day-flight-around-the-moon/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-01T18:44:17.891315Z",
-            "shown_at": [
-                "2026-04-01T19:54:16.297170Z",
-                "2026-04-02T17:39:21.533695Z",
-                "2026-04-02T22:19:21.126761Z",
-                "2026-04-03T00:39:25.442819Z",
-                "2026-04-08T17:59:18.340876Z"
-            ]
-        },
-        {
-            "id": "f1f47633d6525de42d3123a95bef8205",
-            "source": "spacenews",
-            "text": "Teledyne forms dedicated space unit to capture rising demand",
-            "source_link": "https://spacenews.com/teledyne-forms-dedicated-space-unit-to-capture-rising-demand/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-01T18:44:17.891242Z",
-            "shown_at": [
-                "2026-04-01T18:44:19.118311Z",
-                "2026-04-03T04:09:27.791887Z",
-                "2026-04-04T00:04:43.954823Z",
-                "2026-04-04T08:19:12.880774Z",
-                "2026-04-06T03:04:49.148302Z"
-            ]
-        },
-        {
-            "id": "510ecfe342ed0e84d312751128ef0a07",
-            "source": "nyt",
-            "text": "How to Watch NASA’s Artemis II Moon Launch Online",
-            "source_link": "https://www.nytimes.com/2026/04/01/science/nasa-artemis-ii-moon-launch-how-to-watch.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-01T17:34:44.612217Z",
-            "shown_at": [
-                "2026-04-01T19:19:31.665128Z",
-                "2026-04-03T00:04:37.779575Z"
-            ]
-        },
-        {
-            "id": "666c3f65a51cb37ad52b1e80982069dc",
-            "source": "nyt",
-            "text": "Who Is Reid Wiseman, Commander of the Artemis II Moon Mission?",
-            "source_link": "https://www.nytimes.com/2026/04/01/science/space/reid-wiseman-artemis-ii-commander.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-01T17:34:44.612178Z",
-            "shown_at": [
-                "2026-04-01T18:09:18.826341Z",
-                "2026-04-02T10:43:20.329885Z",
-                "2026-04-05T12:24:17.954391Z"
-            ]
-        },
-        {
-            "id": "45026ec4148b00d4440bd329affe19ec",
-            "source": "nyt",
-            "text": "Live Updates: Artemis Astronauts Begin Suiting Up for Moon Launch",
-            "source_link": "https://www.nytimes.com/live/2026/04/01/science/moon-nasa-artemis-launch",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-01T17:34:44.611665Z",
-            "shown_at": [
-                "2026-04-01T17:34:45.952855Z",
-                "2026-04-04T04:14:16.161779Z",
-                "2026-04-04T14:44:48.650049Z",
-                "2026-04-04T21:09:16.457858Z",
-                "2026-04-05T14:49:12.308242Z"
-            ]
-        },
-        {
-            "id": "0509ac731b9e3cebe6451f6a430374cd",
-            "source": "nyt",
-            "text": "Meet the four astronauts of Artemis II.",
-            "source_link": "https://www.nytimes.com/live/2026/04/01/science/moon-nasa-artemis-launch/meet-the-four-astronauts-of-artemis-ii",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-01T14:39:42.555100Z",
-            "shown_at": [
-                "2026-04-01T16:59:24.314453Z",
-                "2026-04-03T04:44:16.944840Z",
-                "2026-04-07T10:24:30.239383Z"
-            ]
-        },
-        {
-            "id": "41018a3f0a3d1bec3aae0fa97abb9fc4",
-            "source": "spacenews",
-            "text": "France to fly two astronauts on Vast missions",
-            "source_link": "https://spacenews.com/france-to-fly-two-astronauts-on-vast-missions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-02T02:19:18.707546Z",
-            "shown_at": [
-                "2026-06-02T02:19:19.481045Z"
-            ]
-        },
-        {
-            "id": "b2d08749c223e5085480b74d07a9eb9d",
-            "source": "spacenews",
-            "text": "NASA abandons ‘core module’ concept for commercial space station development",
-            "source_link": "https://spacenews.com/nasa-abandons-core-module-concept-for-commercial-space-station-development/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-02T08:14:25.172474Z",
-            "shown_at": [
-                "2026-06-02T08:14:26.056855Z"
-            ]
-        },
-        {
-            "id": "23923c27086ecf86b123c9a3006b57a1",
-            "source": "spacenews",
-            "text": "Researchers call for regulations to protect low Earth orbit environment",
-            "source_link": "https://spacenews.com/researchers-call-for-regulations-to-protect-low-earth-orbit-environment/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-02T11:09:12.163246Z",
-            "shown_at": [
-                "2026-06-02T11:09:14.042721Z"
-            ]
-        },
-        {
-            "id": "7e0f303a8926800d40342f68ad3c08f8",
-            "source": "spacenews",
-            "text": "Impulse Space raises $500 million",
-            "source_link": "https://spacenews.com/impulse-space-raises-500-million/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-02T12:19:18.621950Z",
-            "shown_at": [
-                "2026-06-02T12:19:21.529825Z"
-            ]
-        },
-        {
-            "id": "8ce5ccc6fe35d0af5c693fa1da5a8d29",
-            "source": "spacenews",
-            "text": "Voyager to acquire lunar lander developer Astrobotic",
-            "source_link": "https://spacenews.com/voyager-to-acquire-lunar-lander-developer-astrobotic/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-02T12:19:18.622019Z",
-            "shown_at": [
-                "2026-06-02T12:54:20.818308Z"
-            ]
-        },
-        {
-            "id": "4c071443747a1fc2fafa6c50cc5ba76d",
-            "source": "spacenews",
-            "text": "The importance of determining an equilibrium state for space traffic management",
-            "source_link": "https://spacenews.com/the-importance-of-determining-an-equilibrium-state-for-space-traffic-management/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-02T14:39:14.384275Z",
-            "shown_at": [
-                "2026-06-02T14:39:17.020208Z"
-            ]
-        },
-        {
-            "id": "46ca671cdf1b09b14dcfbeea720c87b8",
-            "source": "spacenews",
-            "text": "UK explores Vast space station mission for astronaut with physical disability",
-            "source_link": "https://spacenews.com/uk-explores-vast-space-station-mission-for-astronaut-with-physical-disability/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-02T14:39:14.384349Z",
-            "shown_at": [
-                "2026-06-02T15:14:30.158356Z"
-            ]
-        },
-        {
-            "id": "54fe1bd18c6069c84b916574324916ec",
-            "source": "spacenews",
-            "text": "Global SSA Market to Reach $61B as Governments Prioritize Space Security, Resilience, and Orbital Safety",
-            "source_link": "https://spacenews.com/global-ssa-market-to-reach-61b-as-governments-prioritize-space-security-resilience-and-orbital-safety/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-02T16:24:39.748676Z",
-            "shown_at": [
-                "2026-06-02T16:24:40.820179Z"
-            ]
-        },
-        {
-            "id": "bb8e5670fd963f0acdb0d21af22971fa",
-            "source": "breaking_defense",
-            "text": "How AI is shaping the future of geospatial intelligence",
-            "source_link": "https://breakingdefense.com/2026/06/how-ai-is-shaping-the-future-of-geospatial-intelligence/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-02T21:44:30.594684Z",
-            "shown_at": [
-                "2026-06-02T21:44:31.783577Z"
-            ]
-        },
-        {
-            "id": "1b8923dfb72cc8bc06aaea515ae2db1b",
-            "source": "spacenews",
-            "text": "NRO nominee says commercial space, AI are reshaping spy satellite agency",
-            "source_link": "https://spacenews.com/nro-nominee-says-commercial-space-ai-are-reshaping-spy-satellite-agency/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-02T22:54:02.243762Z",
-            "shown_at": [
-                "2026-06-02T22:54:04.585711Z"
             ]
         }
     ]
