@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 14 | 16 | 33 |
-| breaking_defense | 2 | 2 | 12 | 24 |
+| breaking_defense | 2 | 2 | 13 | 25 |
 | nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
@@ -2372,3 +2372,4 @@
 - **Jun 03, 06:04 PM** - Epic Fury highlighted Space Force needs for distributed ops, EW sites (breaking_defense)
 - **Jun 03, 06:39 PM** - What’s Next for Blue Origin After Rocket Explosion (nyt)
 - **Jun 03, 07:14 PM** - After cooperation on SMILE mission, ESA and China chart parallel but separate paths (spacenews)
+- **Jun 03, 07:49 PM** - Dept. of Air Force ‘still working’ to sort space programs into acquisition portfolios: Ainsworth (breaking_defense)
