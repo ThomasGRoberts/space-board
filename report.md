@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 16 | 32 |
 | breaking_defense | 1 | 3 | 12 | 25 |
-| nyt | 0 | 0 | 12 | 24 |
+| nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
 
@@ -2356,3 +2356,4 @@
 - **Jun 03, 08:29 AM** - What’s Next for Blue Origin After Rocket Explosion (nyt)
 - **Jun 03, 09:04 AM** - National security launch schedule not likely impacted by New Glenn disaster (breaking_defense)
 - **Jun 03, 09:39 AM** - Starcloud’s path to 88,000 computing satellites (spacenews)
+- **Jun 03, 10:14 AM** - The Blue Micromoon Rises in Sunday’s Early Skies (nyt)
