@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-03T00:04:38.457771+00:00",
-    "trigger_count": 6,
-    "current_item_id": "dc669d5da554e90edec509e523b6b40c",
+    "trigger_count": 0,
+    "current_item_id": "cc6e6124a64084d7ddee0e24987a0dc7",
     "data": [
         {
             "id": "1b8923dfb72cc8bc06aaea515ae2db1b",
@@ -7920,6 +7920,18 @@
             "fetched_datetime": "2026-06-03T16:19:33.728033Z",
             "shown_at": [
                 "2026-06-03T16:19:35.969722Z"
+            ]
+        },
+        {
+            "id": "cc6e6124a64084d7ddee0e24987a0dc7",
+            "source": "spacenews",
+            "text": "After cooperation on SMILE mission, ESA and China chart parallel but separate paths",
+            "source_link": "https://spacenews.com/after-cooperation-on-smile-mission-esa-and-china-chart-parallel-but-separate-paths/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-03T19:14:27.373805Z",
+            "shown_at": [
+                "2026-06-03T19:14:28.129173Z"
             ]
         }
     ]
