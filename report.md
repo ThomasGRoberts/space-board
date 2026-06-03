@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 13 | 16 | 32 |
 | breaking_defense | 1 | 3 | 12 | 25 |
-| nyt | 0 | 0 | 12 | 24 |
+| nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
 
@@ -2360,3 +2360,4 @@
 - **Jun 03, 10:49 AM** - Blue Origin seeks to resume New Glenn launches by year’s end (spacenews)
 - **Jun 03, 11:24 AM** - How AI is shaping the future of geospatial intelligence (breaking_defense)
 - **Jun 03, 11:59 AM** - Muon Space unveils Starship-class satellite platform for orbital data centers (spacenews)
+- **Jun 03, 12:34 PM** - The Blue Micromoon Rises in Sunday’s Early Skies (nyt)
