@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 14 | 17 | 32 |
-| breaking_defense | 1 | 3 | 11 | 25 |
+| breaking_defense | 1 | 3 | 12 | 26 |
 | nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
@@ -2342,3 +2342,4 @@
 - **Jun 03, 12:04 AM** - Epic Fury highlighted Space Force needs for distributed ops, EW sites (breaking_defense)
 - **Jun 03, 12:39 AM** - European space industry warns EU Space Act could slow competitiveness (spacenews)
 - **Jun 03, 01:14 AM** - Blue Origin Rocket Blows Up on Florida Launchpad During Test (nyt)
+- **Jun 03, 01:49 AM** - SpaceX wins $4.16B Space Force contract to detect airborne moving targets (breaking_defense)
