@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 14 | 16 | 33 |
+| spacenews | 7 | 15 | 17 | 34 |
 | breaking_defense | 2 | 2 | 12 | 24 |
 | nyt | 0 | 0 | 12 | 24 |
 
@@ -2375,3 +2375,4 @@
 - **Jun 03, 07:49 PM** - Dept. of Air Force ‘still working’ to sort space programs into acquisition portfolios: Ainsworth (breaking_defense)
 - **Jun 03, 08:24 PM** - Blue Origin Rocket Blows Up on Florida Launchpad During Test (nyt)
 - **Jun 03, 08:59 PM** - UK explores Vast space station mission for astronaut with physical disability (spacenews)
+- **Jun 03, 09:34 PM** - AST SpaceMobile sees New Glenn setback delaying initial commercial service into 2027 (spacenews)

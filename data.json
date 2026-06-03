@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-03T00:04:38.457771+00:00",
-    "trigger_count": 6,
-    "current_item_id": "46ca671cdf1b09b14dcfbeea720c87b8",
+    "trigger_count": 0,
+    "current_item_id": "06cd249aa879531519681e43165ae13e",
     "data": [
         {
             "id": "1b8923dfb72cc8bc06aaea515ae2db1b",
@@ -7935,6 +7935,18 @@
             "fetched_datetime": "2026-06-03T19:14:27.373805Z",
             "shown_at": [
                 "2026-06-03T19:14:28.129173Z"
+            ]
+        },
+        {
+            "id": "06cd249aa879531519681e43165ae13e",
+            "source": "spacenews",
+            "text": "AST SpaceMobile sees New Glenn setback delaying initial commercial service into 2027",
+            "source_link": "https://spacenews.com/ast-spacemobile-sees-new-glenn-setback-delaying-initial-commercial-service-into-2027/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-03T21:34:45.261452Z",
+            "shown_at": [
+                "2026-06-03T21:34:46.156114Z"
             ]
         }
     ]
