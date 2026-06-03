@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 14 | 16 | 32 |
+| spacenews | 8 | 14 | 17 | 33 |
 | breaking_defense | 1 | 3 | 12 | 25 |
 | nyt | 0 | 0 | 12 | 24 |
 
@@ -2352,3 +2352,4 @@
 - **Jun 03, 06:04 AM** - Observable Space raises $90 million and wins Space Force contract for optical systems (spacenews)
 - **Jun 03, 06:39 AM** - The Blue Micromoon Rises in Sunday’s Early Skies (nyt)
 - **Jun 03, 07:19 AM** - Epic Fury highlighted Space Force needs for distributed ops, EW sites (breaking_defense)
+- **Jun 03, 07:54 AM** - Virgin Galactic returns Unity to flight to prepare for next-generation spaceplane (spacenews)
