@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 17 | 33 |
 | breaking_defense | 1 | 3 | 12 | 25 |
-| nyt | 0 | 0 | 11 | 23 |
+| nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
 
@@ -2347,3 +2347,4 @@
 - **Jun 03, 02:59 AM** - A Fiery Visitor From Space Photo-Bombs an Erupting Volcano (nyt)
 - **Jun 03, 03:39 AM** - Northrop Grumman partners with Apex for 2027 SBI demo (breaking_defense)
 - **Jun 03, 04:14 AM** - Bellatrix and TelePIX plan 2028 air-breathing VLEO imaging demonstration (spacenews)
+- **Jun 03, 04:49 AM** - What’s Next for Blue Origin After Rocket Explosion (nyt)
