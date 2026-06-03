@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 15 | 16 | 33 |
-| breaking_defense | 1 | 2 | 11 | 23 |
+| breaking_defense | 1 | 2 | 12 | 24 |
 | nyt | 1 | 1 | 13 | 25 |
 
 # Shown Order
@@ -2377,3 +2377,4 @@
 - **Jun 03, 08:59 PM** - UK explores Vast space station mission for astronaut with physical disability (spacenews)
 - **Jun 03, 09:34 PM** - AST SpaceMobile sees New Glenn setback delaying initial commercial service into 2027 (spacenews)
 - **Jun 03, 10:09 PM** - SpaceX IPO to Be Largest Ever at $135 Share Price (nyt)
+- **Jun 03, 10:44 PM** - Northrop Grumman partners with Apex for 2027 SBI demo (breaking_defense)
