@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 15 | 16 | 34 |
 | breaking_defense | 1 | 2 | 12 | 23 |
-| nyt | 1 | 1 | 12 | 24 |
+| nyt | 1 | 1 | 13 | 25 |
 
 # Shown Order
 
@@ -2379,3 +2379,4 @@
 - **Jun 03, 10:09 PM** - SpaceX IPO to Be Largest Ever at $135 Share Price (nyt)
 - **Jun 03, 10:44 PM** - Northrop Grumman partners with Apex for 2027 SBI demo (breaking_defense)
 - **Jun 03, 11:24 PM** - Muon Space unveils Starship-class satellite platform for orbital data centers (spacenews)
+- **Jun 03, 11:59 PM** - Blue Origin Rocket Blows Up on Florida Launchpad During Test (nyt)
