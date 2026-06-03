@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 15 | 31 |
+| spacenews | 7 | 14 | 16 | 32 |
 | breaking_defense | 1 | 3 | 12 | 25 |
 | nyt | 0 | 0 | 13 | 25 |
 
@@ -2361,3 +2361,4 @@
 - **Jun 03, 11:24 AM** - How AI is shaping the future of geospatial intelligence (breaking_defense)
 - **Jun 03, 11:59 AM** - Muon Space unveils Starship-class satellite platform for orbital data centers (spacenews)
 - **Jun 03, 12:34 PM** - The Blue Micromoon Rises in Sunday’s Early Skies (nyt)
+- **Jun 03, 01:14 PM** - Europe is rearming together — except in space (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-03T00:04:38.457771+00:00",
-    "trigger_count": 6,
-    "current_item_id": "57bcd60528cc3bd28f1547011a94f062",
+    "trigger_count": 0,
+    "current_item_id": "6f76f3b365db001580c3873e2a7ea45e",
     "data": [
         {
             "id": "1b8923dfb72cc8bc06aaea515ae2db1b",
@@ -7877,6 +7877,18 @@
             "fetched_datetime": "2026-06-03T11:59:14.889151Z",
             "shown_at": [
                 "2026-06-03T11:59:16.044692Z"
+            ]
+        },
+        {
+            "id": "6f76f3b365db001580c3873e2a7ea45e",
+            "source": "spacenews",
+            "text": "Europe is rearming together — except in space",
+            "source_link": "https://spacenews.com/europe-is-rearming-together-except-in-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-03T13:14:33.884860Z",
+            "shown_at": [
+                "2026-06-03T13:14:35.768491Z"
             ]
         }
     ]
