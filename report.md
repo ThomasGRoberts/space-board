@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 17 | 32 |
-| breaking_defense | 1 | 3 | 11 | 25 |
+| breaking_defense | 1 | 3 | 12 | 26 |
 | nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
@@ -2351,3 +2351,4 @@
 - **Jun 03, 05:29 AM** - National security launch schedule not likely impacted by New Glenn disaster (breaking_defense)
 - **Jun 03, 06:04 AM** - Observable Space raises $90 million and wins Space Force contract for optical systems (spacenews)
 - **Jun 03, 06:39 AM** - The Blue Micromoon Rises in Sunday’s Early Skies (nyt)
+- **Jun 03, 07:19 AM** - Epic Fury highlighted Space Force needs for distributed ops, EW sites (breaking_defense)
