@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 16 | 32 |
-| breaking_defense | 1 | 3 | 12 | 25 |
+| breaking_defense | 1 | 3 | 13 | 26 |
 | nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
@@ -2362,3 +2362,4 @@
 - **Jun 03, 11:59 AM** - Muon Space unveils Starship-class satellite platform for orbital data centers (spacenews)
 - **Jun 03, 12:34 PM** - The Blue Micromoon Rises in Sunday’s Early Skies (nyt)
 - **Jun 03, 01:14 PM** - Europe is rearming together — except in space (spacenews)
+- **Jun 03, 01:49 PM** - National security launch schedule not likely impacted by New Glenn disaster (breaking_defense)
