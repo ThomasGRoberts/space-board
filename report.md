@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 13 | 15 | 31 |
+| spacenews | 5 | 13 | 16 | 32 |
 | breaking_defense | 1 | 3 | 12 | 25 |
 | nyt | 0 | 0 | 13 | 25 |
 
@@ -2364,3 +2364,4 @@
 - **Jun 03, 01:14 PM** - Europe is rearming together — except in space (spacenews)
 - **Jun 03, 01:49 PM** - National security launch schedule not likely impacted by New Glenn disaster (breaking_defense)
 - **Jun 03, 02:29 PM** - The Blue Micromoon Rises in Sunday’s Early Skies (nyt)
+- **Jun 03, 03:05 PM** - Bellatrix and TelePIX plan 2028 air-breathing VLEO imaging demonstration (spacenews)
