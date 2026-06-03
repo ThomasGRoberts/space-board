@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 17 | 33 |
 | breaking_defense | 1 | 3 | 12 | 25 |
-| nyt | 0 | 0 | 12 | 23 |
+| nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
 
@@ -2344,3 +2344,4 @@
 - **Jun 03, 01:14 AM** - Blue Origin Rocket Blows Up on Florida Launchpad During Test (nyt)
 - **Jun 03, 01:49 AM** - SpaceX wins $4.16B Space Force contract to detect airborne moving targets (breaking_defense)
 - **Jun 03, 02:24 AM** - Artemis 2 captured the world’s attention. It should change how we think about supply chains. (spacenews)
+- **Jun 03, 02:59 AM** - A Fiery Visitor From Space Photo-Bombs an Erupting Volcano (nyt)
