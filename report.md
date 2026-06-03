@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 16 | 32 |
 | breaking_defense | 1 | 3 | 12 | 25 |
-| nyt | 0 | 0 | 12 | 24 |
+| nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
 
@@ -2363,3 +2363,4 @@
 - **Jun 03, 12:34 PM** - The Blue Micromoon Rises in Sunday’s Early Skies (nyt)
 - **Jun 03, 01:14 PM** - Europe is rearming together — except in space (spacenews)
 - **Jun 03, 01:49 PM** - National security launch schedule not likely impacted by New Glenn disaster (breaking_defense)
+- **Jun 03, 02:29 PM** - The Blue Micromoon Rises in Sunday’s Early Skies (nyt)
