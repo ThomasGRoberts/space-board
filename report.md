@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 13 | 15 | 32 |
+| spacenews | 5 | 13 | 16 | 33 |
 | breaking_defense | 2 | 3 | 12 | 24 |
-| nyt | 0 | 0 | 13 | 25 |
+| nyt | 0 | 0 | 13 | 24 |
 
 # Shown Order
 
@@ -2368,3 +2368,4 @@
 - **Jun 03, 03:44 PM** - Electronics manufacturer Murata to explore Xona satellite timing service for telecom, data centers (spacenews)
 - **Jun 03, 04:19 PM** - Army, J-7 to test new sensor with high-altitude balloon in coming days (breaking_defense)
 - **Jun 03, 04:54 PM** - What’s Next for Blue Origin After Rocket Explosion (nyt)
+- **Jun 03, 05:29 PM** - Voyager to acquire lunar lander developer Astrobotic (spacenews)
