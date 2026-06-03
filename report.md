@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 17 | 32 |
-| breaking_defense | 1 | 3 | 11 | 25 |
+| breaking_defense | 1 | 3 | 12 | 26 |
 | nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
@@ -2345,3 +2345,4 @@
 - **Jun 03, 01:49 AM** - SpaceX wins $4.16B Space Force contract to detect airborne moving targets (breaking_defense)
 - **Jun 03, 02:24 AM** - Artemis 2 captured the world’s attention. It should change how we think about supply chains. (spacenews)
 - **Jun 03, 02:59 AM** - A Fiery Visitor From Space Photo-Bombs an Erupting Volcano (nyt)
+- **Jun 03, 03:39 AM** - Northrop Grumman partners with Apex for 2027 SBI demo (breaking_defense)
