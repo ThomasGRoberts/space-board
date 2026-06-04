@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 12 | 24 |
-| spacenews | 8 | 16 | 16 | 33 |
-| breaking_defense | 1 | 2 | 12 | 24 |
+| spacenews | 8 | 16 | 17 | 34 |
+| breaking_defense | 1 | 2 | 12 | 23 |
 
 # Shown Order
 
@@ -2357,3 +2357,4 @@
 - **Jun 04, 03:29 AM** - SpaceX to raise at least $75 billion in IPO (spacenews)
 - **Jun 04, 04:04 AM** - What Exactly Caused That Loud Boom in South Carolina? (nyt)
 - **Jun 04, 04:39 AM** - SPACECOM exploring tech for future offensive cislunar ops: Chief Scientist (breaking_defense)
+- **Jun 04, 05:14 AM** - Researchers call for regulations to protect low Earth orbit environment (spacenews)
