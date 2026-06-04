@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 13 | 26 |
 | spacenews | 6 | 12 | 15 | 31 |
-| breaking_defense | 0 | 2 | 12 | 24 |
+| breaking_defense | 0 | 2 | 13 | 25 |
 
 # Shown Order
 
@@ -2381,3 +2381,4 @@
 - **Jun 04, 05:39 PM** - SPACECOM exploring tech for future offensive cislunar ops: Chief Scientist (breaking_defense)
 - **Jun 04, 06:14 PM** - China conducts surprise launch of Long March 12B, delivers Qianfan satellites on debut flight (spacenews)
 - **Jun 04, 06:49 PM** - Blue Origin Rocket Blows Up on Florida Launchpad During Test (nyt)
+- **Jun 04, 07:24 PM** - How AI is shaping the future of geospatial intelligence (breaking_defense)
