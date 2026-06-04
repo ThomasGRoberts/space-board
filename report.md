@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 12 | 24 |
-| spacenews | 8 | 16 | 17 | 34 |
+| nyt | 1 | 1 | 13 | 25 |
+| spacenews | 8 | 16 | 17 | 33 |
 | breaking_defense | 1 | 2 | 11 | 23 |
 
 # Shown Order
@@ -2361,3 +2361,4 @@
 - **Jun 04, 05:49 AM** - What Exactly Caused That Loud Boom in South Carolina? (nyt)
 - **Jun 04, 06:24 AM** - SPACECOM exploring tech for future offensive cislunar ops: Chief Scientist (breaking_defense)
 - **Jun 04, 06:59 AM** - UK explores Vast space station mission for astronaut with physical disability (spacenews)
+- **Jun 04, 07:34 AM** - What’s Next for Blue Origin After Rocket Explosion (nyt)
