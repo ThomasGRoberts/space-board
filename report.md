@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 13 | 26 |
+| nyt | 2 | 2 | 13 | 25 |
 | spacenews | 7 | 12 | 15 | 31 |
-| breaking_defense | 0 | 2 | 12 | 24 |
+| breaking_defense | 0 | 2 | 13 | 25 |
 
 # Shown Order
 
@@ -2378,3 +2378,4 @@
 - **Jun 04, 03:54 PM** - SPACECOM exploring tech for future offensive cislunar ops: Chief Scientist (breaking_defense)
 - **Jun 04, 04:29 PM** - AstroForge completes DeepSpace-2 spacecraft (spacenews)
 - **Jun 04, 05:04 PM** - SpaceX IPO to Be Largest Ever at $135 Share Price (nyt)
+- **Jun 04, 05:39 PM** - SPACECOM exploring tech for future offensive cislunar ops: Chief Scientist (breaking_defense)
