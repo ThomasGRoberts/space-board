@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 12 | 25 |
-| spacenews | 7 | 14 | 16 | 32 |
+| nyt | 2 | 2 | 13 | 26 |
+| spacenews | 7 | 12 | 16 | 31 |
 | breaking_defense | 1 | 2 | 12 | 24 |
 
 # Shown Order
@@ -2373,3 +2373,4 @@
 - **Jun 04, 12:59 PM** - The Blue Micromoon Rises in Sunday’s Early Skies (nyt)
 - **Jun 04, 01:34 PM** - Setting up a permanent lunar presence needs investment in biology (spacenews)
 - **Jun 04, 02:09 PM** - Epic Fury highlighted Space Force needs for distributed ops, EW sites (breaking_defense)
+- **Jun 04, 02:44 PM** - Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand (nyt)
