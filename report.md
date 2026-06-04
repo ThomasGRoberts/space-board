@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 13 | 25 |
-| spacenews | 8 | 15 | 16 | 33 |
+| spacenews | 9 | 16 | 17 | 33 |
 | breaking_defense | 1 | 2 | 11 | 23 |
 
 # Shown Order
@@ -2365,3 +2365,4 @@
 - **Jun 04, 08:09 AM** - How AI is shaping the future of geospatial intelligence (breaking_defense)
 - **Jun 04, 08:49 AM** - Europe is rearming together — except in space (spacenews)
 - **Jun 04, 09:29 AM** - SpaceX IPO to Be Largest Ever at $135 Share Price (nyt)
+- **Jun 04, 10:04 AM** - China builds institutional framework for space computing push (spacenews)

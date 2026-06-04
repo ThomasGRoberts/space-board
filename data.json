@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-04T00:04:45.328989+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b7a176dda7b89fc56c42aefac1f5ca59",
+    "trigger_count": 0,
+    "current_item_id": "b73a8255c30ec7113734daf4005e9c56",
     "data": [
         {
             "id": "b7a176dda7b89fc56c42aefac1f5ca59",
@@ -7881,6 +7881,18 @@
             "fetched_datetime": "2026-06-04T03:29:25.238945Z",
             "shown_at": [
                 "2026-06-04T03:29:26.593090Z"
+            ]
+        },
+        {
+            "id": "b73a8255c30ec7113734daf4005e9c56",
+            "source": "spacenews",
+            "text": "China builds institutional framework for space computing push",
+            "source_link": "https://spacenews.com/china-builds-institutional-framework-for-space-computing-push/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-04T10:04:55.085793Z",
+            "shown_at": [
+                "2026-06-04T10:04:55.825584Z"
             ]
         }
     ]
