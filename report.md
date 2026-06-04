@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 13 | 26 |
+| nyt | 2 | 2 | 13 | 25 |
 | spacenews | 6 | 12 | 15 | 31 |
-| breaking_defense | 1 | 2 | 12 | 24 |
+| breaking_defense | 1 | 2 | 13 | 25 |
 
 # Shown Order
 
@@ -2375,3 +2375,4 @@
 - **Jun 04, 02:09 PM** - Epic Fury highlighted Space Force needs for distributed ops, EW sites (breaking_defense)
 - **Jun 04, 02:44 PM** - Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand (nyt)
 - **Jun 04, 03:19 PM** - Muon Space unveils Starship-class satellite platform for orbital data centers (spacenews)
+- **Jun 04, 03:54 PM** - SPACECOM exploring tech for future offensive cislunar ops: Chief Scientist (breaking_defense)
