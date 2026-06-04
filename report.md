@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 13 | 26 |
-| spacenews | 7 | 14 | 15 | 31 |
+| nyt | 1 | 1 | 13 | 25 |
+| spacenews | 7 | 14 | 16 | 32 |
 | breaking_defense | 1 | 2 | 12 | 24 |
 
 # Shown Order
@@ -2371,3 +2371,4 @@
 - **Jun 04, 11:49 AM** - NASA working to streamline development of nuclear electric propulsion demo mission (spacenews)
 - **Jun 04, 12:24 PM** - SpaceX wins $4.16B Space Force contract to detect airborne moving targets (breaking_defense)
 - **Jun 04, 12:59 PM** - The Blue Micromoon Rises in Sunday’s Early Skies (nyt)
+- **Jun 04, 01:34 PM** - Setting up a permanent lunar presence needs investment in biology (spacenews)
