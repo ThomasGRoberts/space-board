@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 12 | 24 |
-| spacenews | 8 | 16 | 16 | 33 |
+| nyt | 1 | 1 | 13 | 25 |
+| spacenews | 8 | 15 | 16 | 32 |
 | breaking_defense | 1 | 2 | 12 | 24 |
 
 # Shown Order
@@ -2367,3 +2367,4 @@
 - **Jun 04, 09:29 AM** - SpaceX IPO to Be Largest Ever at $135 Share Price (nyt)
 - **Jun 04, 10:04 AM** - China builds institutional framework for space computing push (spacenews)
 - **Jun 04, 10:39 AM** - SPACECOM exploring tech for future offensive cislunar ops: Chief Scientist (breaking_defense)
+- **Jun 04, 11:14 AM** - SpaceX IPO to Be Largest Ever at $135 Share Price (nyt)
