@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 13 | 24 |
 | spacenews | 7 | 16 | 16 | 34 |
-| breaking_defense | 1 | 2 | 11 | 23 |
+| breaking_defense | 1 | 2 | 12 | 23 |
 
 # Shown Order
 
@@ -2350,3 +2350,4 @@
 - **Jun 03, 11:24 PM** - Muon Space unveils Starship-class satellite platform for orbital data centers (spacenews)
 - **Jun 03, 11:59 PM** - Blue Origin Rocket Blows Up on Florida Launchpad During Test (nyt)
 - **Jun 04, 12:34 AM** - NASA declares end to MAVEN Mars mission (spacenews)
+- **Jun 04, 01:09 AM** - National security launch schedule not likely impacted by New Glenn disaster (breaking_defense)
