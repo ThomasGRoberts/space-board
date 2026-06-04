@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 13 | 25 |
 | spacenews | 8 | 16 | 16 | 33 |
-| breaking_defense | 1 | 2 | 11 | 23 |
+| breaking_defense | 1 | 2 | 12 | 24 |
 
 # Shown Order
 
@@ -2362,3 +2362,4 @@
 - **Jun 04, 06:24 AM** - SPACECOM exploring tech for future offensive cislunar ops: Chief Scientist (breaking_defense)
 - **Jun 04, 06:59 AM** - UK explores Vast space station mission for astronaut with physical disability (spacenews)
 - **Jun 04, 07:34 AM** - What’s Next for Blue Origin After Rocket Explosion (nyt)
+- **Jun 04, 08:09 AM** - How AI is shaping the future of geospatial intelligence (breaking_defense)
