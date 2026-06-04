@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 13 | 25 |
+| nyt | 1 | 1 | 13 | 24 |
 | spacenews | 7 | 15 | 16 | 33 |
-| breaking_defense | 1 | 2 | 11 | 23 |
+| breaking_defense | 1 | 2 | 12 | 24 |
 
 # Shown Order
 
@@ -2353,3 +2353,4 @@
 - **Jun 04, 01:09 AM** - National security launch schedule not likely impacted by New Glenn disaster (breaking_defense)
 - **Jun 04, 01:44 AM** - SpaceX IPO to Be Largest Ever at $135 Share Price (nyt)
 - **Jun 04, 02:19 AM** - Space Force awards SpaceX $4.16 billion to build satellite network for airborne target tracking (spacenews)
+- **Jun 04, 02:54 AM** - SpaceX wins $4.16B Space Force contract to detect airborne moving targets (breaking_defense)
