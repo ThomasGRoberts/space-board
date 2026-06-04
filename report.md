@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 13 | 25 |
-| spacenews | 6 | 15 | 16 | 33 |
+| spacenews | 7 | 16 | 17 | 34 |
 | breaking_defense | 1 | 2 | 11 | 23 |
 
 # Shown Order
@@ -2349,3 +2349,4 @@
 - **Jun 03, 10:44 PM** - Northrop Grumman partners with Apex for 2027 SBI demo (breaking_defense)
 - **Jun 03, 11:24 PM** - Muon Space unveils Starship-class satellite platform for orbital data centers (spacenews)
 - **Jun 03, 11:59 PM** - Blue Origin Rocket Blows Up on Florida Launchpad During Test (nyt)
+- **Jun 04, 12:34 AM** - NASA declares end to MAVEN Mars mission (spacenews)

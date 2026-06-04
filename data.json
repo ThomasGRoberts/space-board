@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-04T00:04:45.328989+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7eb0515187ef46d9035db14e72d578a1",
+    "trigger_count": 0,
+    "current_item_id": "53855f9a5e2b4d174c58f6334e39b0de",
     "data": [
         {
             "id": "b7a176dda7b89fc56c42aefac1f5ca59",
@@ -7843,6 +7843,18 @@
                 "2026-04-04T06:34:34.719294Z",
                 "2026-04-04T08:54:17.845503Z",
                 "2026-04-05T00:04:41.010473Z"
+            ]
+        },
+        {
+            "id": "53855f9a5e2b4d174c58f6334e39b0de",
+            "source": "spacenews",
+            "text": "NASA declares end to MAVEN Mars mission",
+            "source_link": "https://spacenews.com/nasa-declares-end-to-maven-mars-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-04T00:34:28.584630Z",
+            "shown_at": [
+                "2026-06-04T00:34:29.584889Z"
             ]
         }
     ]
