@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 13 | 25 |
 | spacenews | 8 | 14 | 16 | 32 |
-| breaking_defense | 1 | 2 | 11 | 23 |
+| breaking_defense | 1 | 2 | 12 | 24 |
 
 # Shown Order
 
@@ -2369,3 +2369,4 @@
 - **Jun 04, 10:39 AM** - SPACECOM exploring tech for future offensive cislunar ops: Chief Scientist (breaking_defense)
 - **Jun 04, 11:14 AM** - SpaceX IPO to Be Largest Ever at $135 Share Price (nyt)
 - **Jun 04, 11:49 AM** - NASA working to streamline development of nuclear electric propulsion demo mission (spacenews)
+- **Jun 04, 12:24 PM** - SpaceX wins $4.16B Space Force contract to detect airborne moving targets (breaking_defense)
