@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 2 | 12 | 25 |
+| nyt | 2 | 2 | 13 | 26 |
 | spacenews | 6 | 12 | 16 | 31 |
-| breaking_defense | 0 | 2 | 12 | 25 |
+| breaking_defense | 0 | 2 | 12 | 24 |
 
 # Shown Order
 
@@ -2383,3 +2383,4 @@
 - **Jun 04, 06:49 PM** - Blue Origin Rocket Blows Up on Florida Launchpad During Test (nyt)
 - **Jun 04, 07:24 PM** - How AI is shaping the future of geospatial intelligence (breaking_defense)
 - **Jun 04, 07:59 PM** - NASA declares end to MAVEN Mars mission (spacenews)
+- **Jun 04, 08:34 PM** - What Exactly Caused That Loud Boom in South Carolina? (nyt)
