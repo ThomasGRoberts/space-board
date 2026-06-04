@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 12 | 24 |
 | spacenews | 9 | 16 | 17 | 33 |
-| breaking_defense | 1 | 2 | 11 | 23 |
+| breaking_defense | 1 | 2 | 12 | 24 |
 
 # Shown Order
 
@@ -2366,3 +2366,4 @@
 - **Jun 04, 08:49 AM** - Europe is rearming together — except in space (spacenews)
 - **Jun 04, 09:29 AM** - SpaceX IPO to Be Largest Ever at $135 Share Price (nyt)
 - **Jun 04, 10:04 AM** - China builds institutional framework for space computing push (spacenews)
+- **Jun 04, 10:39 AM** - SPACECOM exploring tech for future offensive cislunar ops: Chief Scientist (breaking_defense)
