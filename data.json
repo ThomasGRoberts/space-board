@@ -1,9 +1,106 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-06-03T00:04:38.457771+00:00",
-    "trigger_count": 0,
+    "last_run_datetime": "2026-06-04T00:04:45.328989+00:00",
+    "trigger_count": 1,
     "current_item_id": "7eb0515187ef46d9035db14e72d578a1",
     "data": [
+        {
+            "id": "b7a176dda7b89fc56c42aefac1f5ca59",
+            "source": "nyt",
+            "text": "SpaceX IPO to Be Largest Ever at $135 Share Price",
+            "source_link": "https://www.nytimes.com/2026/06/03/technology/spacex-ipo-pricing.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-03T22:09:15.468579Z",
+            "shown_at": [
+                "2026-06-03T22:09:18.928789Z"
+            ]
+        },
+        {
+            "id": "06cd249aa879531519681e43165ae13e",
+            "source": "spacenews",
+            "text": "AST SpaceMobile sees New Glenn setback delaying initial commercial service into 2027",
+            "source_link": "https://spacenews.com/ast-spacemobile-sees-new-glenn-setback-delaying-initial-commercial-service-into-2027/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-03T21:34:45.261452Z",
+            "shown_at": [
+                "2026-06-03T21:34:46.156114Z"
+            ]
+        },
+        {
+            "id": "cc6e6124a64084d7ddee0e24987a0dc7",
+            "source": "spacenews",
+            "text": "After cooperation on SMILE mission, ESA and China chart parallel but separate paths",
+            "source_link": "https://spacenews.com/after-cooperation-on-smile-mission-esa-and-china-chart-parallel-but-separate-paths/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-03T19:14:27.373805Z",
+            "shown_at": [
+                "2026-06-03T19:14:28.129173Z"
+            ]
+        },
+        {
+            "id": "1e1353c294d55f5424a4f6d37d5489ff",
+            "source": "breaking_defense",
+            "text": "Army, J-7 to test new sensor with high-altitude balloon in coming days",
+            "source_link": "https://breakingdefense.com/2026/06/army-j-7-to-test-new-sensor-with-high-altitude-balloon-in-coming-days/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-03T16:19:33.728033Z",
+            "shown_at": [
+                "2026-06-03T16:19:35.969722Z"
+            ]
+        },
+        {
+            "id": "92ab0ee8074ab2219b16f57624c0f2e1",
+            "source": "spacenews",
+            "text": "Electronics manufacturer Murata to explore Xona satellite timing service for telecom, data centers",
+            "source_link": "https://spacenews.com/electronics-manufacturer-murata-to-explore-xona-satellite-timing-service-for-telecom-data-centers/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-03T15:44:23.793520Z",
+            "shown_at": [
+                "2026-06-03T15:44:24.979436Z"
+            ]
+        },
+        {
+            "id": "6f76f3b365db001580c3873e2a7ea45e",
+            "source": "spacenews",
+            "text": "Europe is rearming together — except in space",
+            "source_link": "https://spacenews.com/europe-is-rearming-together-except-in-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-03T13:14:33.884860Z",
+            "shown_at": [
+                "2026-06-03T13:14:35.768491Z"
+            ]
+        },
+        {
+            "id": "647be05ce63a84f8652bea1aa77e5f23",
+            "source": "spacenews",
+            "text": "Muon Space unveils Starship-class satellite platform for orbital data centers",
+            "source_link": "https://spacenews.com/muon-space-unveils-starship-class-satellite-platform-for-orbital-data-centers/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-03T11:59:14.889151Z",
+            "shown_at": [
+                "2026-06-03T11:59:16.044692Z",
+                "2026-06-03T23:24:14.275323Z"
+            ]
+        },
+        {
+            "id": "cfbd741cd8c0b79b0dcf308867b45324",
+            "source": "spacenews",
+            "text": "Blue Origin seeks to resume New Glenn launches by year’s end",
+            "source_link": "https://spacenews.com/blue-origin-seeks-to-resume-new-glenn-launches-by-years-end/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-03T10:49:12.220099Z",
+            "shown_at": [
+                "2026-06-03T10:49:15.333009Z"
+            ]
+        },
         {
             "id": "1b8923dfb72cc8bc06aaea515ae2db1b",
             "source": "spacenews",
@@ -7746,222 +7843,6 @@
                 "2026-04-04T06:34:34.719294Z",
                 "2026-04-04T08:54:17.845503Z",
                 "2026-04-05T00:04:41.010473Z"
-            ]
-        },
-        {
-            "id": "d9e4cd2ac2ab03734fb9ad30a9b282ad",
-            "source": "nyt",
-            "text": "When Will NASA’s Artemis II Mission Reach the Moon?",
-            "source_link": "https://www.nytimes.com/2026/04/01/science/space/artemis-nasa-moon-how-long.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-02T02:24:18.399547Z",
-            "shown_at": [
-                "2026-04-02T02:59:13.892658Z",
-                "2026-04-05T21:14:07.829054Z"
-            ]
-        },
-        {
-            "id": "b5addaf8b0735ed13c02a03618831e28",
-            "source": "nyt",
-            "text": "Live Updates: NASA’s Artemis II Mission Begins Its 10-Day Lunar Journey",
-            "source_link": "https://www.nytimes.com/live/2026/04/01/science/moon-nasa-artemis-launch",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-02T02:24:18.399072Z",
-            "shown_at": [
-                "2026-04-02T02:24:19.259097Z",
-                "2026-04-03T13:34:27.660480Z",
-                "2026-04-04T01:54:17.459355Z",
-                "2026-04-04T11:14:24.046709Z",
-                "2026-04-05T18:19:20.721962Z"
-            ]
-        },
-        {
-            "id": "815769886ed0a6509c60ea72eba7bf8a",
-            "source": "spacenews",
-            "text": "SpaceX quietly files for big bang IPO",
-            "source_link": "https://spacenews.com/spacex-quietly-files-for-big-bang-ipo/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-01T23:28:57.186209Z",
-            "shown_at": [
-                "2026-04-02T00:39:27.273556Z",
-                "2026-04-04T19:24:21.144462Z",
-                "2026-04-06T05:59:25.792541Z"
-            ]
-        },
-        {
-            "id": "3eecd3aab0f75674ca82a9ce984aaa40",
-            "source": "spacenews",
-            "text": "Artemis 2 launches on first human mission to the moon in more than 50 years",
-            "source_link": "https://spacenews.com/artemis-2-launches-on-first-mission-to-the-moon-in-more-than-50-years/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-01T23:28:57.186140Z",
-            "shown_at": [
-                "2026-04-01T23:28:58.358250Z"
-            ]
-        },
-        {
-            "id": "eef8fd34c94ab81e827d67467a89c3b7",
-            "source": "nyt",
-            "text": "Victor Glover, the Artemis II Pilot, Will Be the First Black Astronaut to Circle the Moon",
-            "source_link": "https://www.nytimes.com/2026/04/01/science/victor-glover-artemis-ii-first-black-astronaut-moon.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-01T20:34:32.090603Z",
-            "shown_at": [
-                "2026-04-02T00:04:41.329329Z",
-                "2026-04-03T01:14:13.831128Z",
-                "2026-04-06T05:24:27.930761Z",
-                "2026-04-08T01:34:34.545465Z"
-            ]
-        },
-        {
-            "id": "6e37259c13584c69d2888ab89223443a",
-            "source": "nyt",
-            "text": "How NASA Is Keeping the Astronauts Safe During the Artemis II Mission",
-            "source_link": "https://www.nytimes.com/2026/04/01/science/nasa-artemis-ii-moon-astronauts-safety.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-01T20:34:32.090541Z",
-            "shown_at": [
-                "2026-04-02T01:14:15.905056Z",
-                "2026-04-05T15:59:20.419815Z",
-                "2026-04-06T07:44:13.490016Z"
-            ]
-        },
-        {
-            "id": "e0eec120cedc0e0b60e35570a201561c",
-            "source": "nyt",
-            "text": "Christina Koch Will Be the First Female Astronaut to Journey Around the Moon",
-            "source_link": "https://www.nytimes.com/2026/04/01/science/space/christina-koch-artemis-ii-astronaut-moon.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-01T20:34:32.090521Z",
-            "shown_at": [
-                "2026-04-02T01:49:28.656941Z",
-                "2026-04-02T08:14:15.588931Z",
-                "2026-04-02T21:44:19.067900Z",
-                "2026-04-04T00:39:07.586491Z",
-                "2026-04-04T03:04:43.602292Z",
-                "2026-04-05T11:14:25.002330Z"
-            ]
-        },
-        {
-            "id": "61f9040a905dd81472a06051207ea125",
-            "source": "nyt",
-            "text": "Jeremy Hansen, an Artemis II Astronaut, Is the First Canadian on a Crewed Moon Mission",
-            "source_link": "https://www.nytimes.com/2026/04/01/science/space/jeremy-hansen-artemis-ii-astronaut-canada.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-01T20:34:32.090501Z",
-            "shown_at": [
-                "2026-04-01T22:54:31.542425Z",
-                "2026-04-03T12:24:12.581736Z",
-                "2026-04-06T00:09:24.704808Z",
-                "2026-04-06T08:54:23.813441Z",
-                "2026-04-07T08:04:48.308939Z",
-                "2026-04-07T12:09:19.376697Z",
-                "2026-04-08T03:54:11.996045Z"
-            ]
-        },
-        {
-            "id": "cfbd741cd8c0b79b0dcf308867b45324",
-            "source": "spacenews",
-            "text": "Blue Origin seeks to resume New Glenn launches by year’s end",
-            "source_link": "https://spacenews.com/blue-origin-seeks-to-resume-new-glenn-launches-by-years-end/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-03T10:49:12.220099Z",
-            "shown_at": [
-                "2026-06-03T10:49:15.333009Z"
-            ]
-        },
-        {
-            "id": "647be05ce63a84f8652bea1aa77e5f23",
-            "source": "spacenews",
-            "text": "Muon Space unveils Starship-class satellite platform for orbital data centers",
-            "source_link": "https://spacenews.com/muon-space-unveils-starship-class-satellite-platform-for-orbital-data-centers/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-03T11:59:14.889151Z",
-            "shown_at": [
-                "2026-06-03T11:59:16.044692Z",
-                "2026-06-03T23:24:14.275323Z"
-            ]
-        },
-        {
-            "id": "6f76f3b365db001580c3873e2a7ea45e",
-            "source": "spacenews",
-            "text": "Europe is rearming together — except in space",
-            "source_link": "https://spacenews.com/europe-is-rearming-together-except-in-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-03T13:14:33.884860Z",
-            "shown_at": [
-                "2026-06-03T13:14:35.768491Z"
-            ]
-        },
-        {
-            "id": "92ab0ee8074ab2219b16f57624c0f2e1",
-            "source": "spacenews",
-            "text": "Electronics manufacturer Murata to explore Xona satellite timing service for telecom, data centers",
-            "source_link": "https://spacenews.com/electronics-manufacturer-murata-to-explore-xona-satellite-timing-service-for-telecom-data-centers/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-03T15:44:23.793520Z",
-            "shown_at": [
-                "2026-06-03T15:44:24.979436Z"
-            ]
-        },
-        {
-            "id": "1e1353c294d55f5424a4f6d37d5489ff",
-            "source": "breaking_defense",
-            "text": "Army, J-7 to test new sensor with high-altitude balloon in coming days",
-            "source_link": "https://breakingdefense.com/2026/06/army-j-7-to-test-new-sensor-with-high-altitude-balloon-in-coming-days/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-03T16:19:33.728033Z",
-            "shown_at": [
-                "2026-06-03T16:19:35.969722Z"
-            ]
-        },
-        {
-            "id": "cc6e6124a64084d7ddee0e24987a0dc7",
-            "source": "spacenews",
-            "text": "After cooperation on SMILE mission, ESA and China chart parallel but separate paths",
-            "source_link": "https://spacenews.com/after-cooperation-on-smile-mission-esa-and-china-chart-parallel-but-separate-paths/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-03T19:14:27.373805Z",
-            "shown_at": [
-                "2026-06-03T19:14:28.129173Z"
-            ]
-        },
-        {
-            "id": "06cd249aa879531519681e43165ae13e",
-            "source": "spacenews",
-            "text": "AST SpaceMobile sees New Glenn setback delaying initial commercial service into 2027",
-            "source_link": "https://spacenews.com/ast-spacemobile-sees-new-glenn-setback-delaying-initial-commercial-service-into-2027/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-03T21:34:45.261452Z",
-            "shown_at": [
-                "2026-06-03T21:34:46.156114Z"
-            ]
-        },
-        {
-            "id": "b7a176dda7b89fc56c42aefac1f5ca59",
-            "source": "nyt",
-            "text": "SpaceX IPO to Be Largest Ever at $135 Share Price",
-            "source_link": "https://www.nytimes.com/2026/06/03/technology/spacex-ipo-pricing.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-03T22:09:15.468579Z",
-            "shown_at": [
-                "2026-06-03T22:09:18.928789Z"
             ]
         }
     ]
