@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 12 | 24 |
-| spacenews | 7 | 16 | 16 | 34 |
+| nyt | 1 | 1 | 13 | 25 |
+| spacenews | 7 | 16 | 16 | 33 |
 | breaking_defense | 1 | 2 | 12 | 23 |
 
 # Shown Order
@@ -2351,3 +2351,4 @@
 - **Jun 03, 11:59 PM** - Blue Origin Rocket Blows Up on Florida Launchpad During Test (nyt)
 - **Jun 04, 12:34 AM** - NASA declares end to MAVEN Mars mission (spacenews)
 - **Jun 04, 01:09 AM** - National security launch schedule not likely impacted by New Glenn disaster (breaking_defense)
+- **Jun 04, 01:44 AM** - SpaceX IPO to Be Largest Ever at $135 Share Price (nyt)
