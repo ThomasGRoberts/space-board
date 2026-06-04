@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 13 | 25 |
-| spacenews | 6 | 12 | 15 | 31 |
+| spacenews | 6 | 12 | 16 | 31 |
 | breaking_defense | 0 | 2 | 12 | 25 |
 
 # Shown Order
@@ -2382,3 +2382,4 @@
 - **Jun 04, 06:14 PM** - China conducts surprise launch of Long March 12B, delivers Qianfan satellites on debut flight (spacenews)
 - **Jun 04, 06:49 PM** - Blue Origin Rocket Blows Up on Florida Launchpad During Test (nyt)
 - **Jun 04, 07:24 PM** - How AI is shaping the future of geospatial intelligence (breaking_defense)
+- **Jun 04, 07:59 PM** - NASA declares end to MAVEN Mars mission (spacenews)
