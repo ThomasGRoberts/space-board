@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-04T00:04:45.328989+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b7a176dda7b89fc56c42aefac1f5ca59",
+    "trigger_count": 0,
+    "current_item_id": "25e4d1e60394afb4f1e98cff971b95cf",
     "data": [
         {
             "id": "b7a176dda7b89fc56c42aefac1f5ca59",
@@ -7895,6 +7895,18 @@
             "fetched_datetime": "2026-06-04T10:04:55.085793Z",
             "shown_at": [
                 "2026-06-04T10:04:55.825584Z"
+            ]
+        },
+        {
+            "id": "25e4d1e60394afb4f1e98cff971b95cf",
+            "source": "spacenews",
+            "text": "NASA working to streamline development of nuclear electric propulsion demo mission",
+            "source_link": "https://spacenews.com/nasa-working-to-streamline-development-of-nuclear-electric-propulsion-demo-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-04T11:49:18.513591Z",
+            "shown_at": [
+                "2026-06-04T11:49:19.575076Z"
             ]
         }
     ]
