@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 2 | 13 | 25 |
-| spacenews | 5 | 12 | 14 | 31 |
-| breaking_defense | 0 | 2 | 13 | 25 |
+| spacenews | 5 | 12 | 15 | 32 |
+| breaking_defense | 0 | 1 | 13 | 24 |
 
 # Shown Order
 
@@ -2385,3 +2385,4 @@
 - **Jun 04, 07:59 PM** - NASA declares end to MAVEN Mars mission (spacenews)
 - **Jun 04, 08:34 PM** - What Exactly Caused That Loud Boom in South Carolina? (nyt)
 - **Jun 04, 09:14 PM** - SPACECOM exploring tech for future offensive cislunar ops: Chief Scientist (breaking_defense)
+- **Jun 04, 09:49 PM** - NRO nominee says commercial space, AI are reshaping spy satellite agency (spacenews)
