@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 1 | 12 | 24 |
+| nyt | 1 | 1 | 13 | 25 |
 | spacenews | 8 | 16 | 17 | 34 |
 | breaking_defense | 1 | 2 | 11 | 23 |
 
@@ -2355,3 +2355,4 @@
 - **Jun 04, 02:19 AM** - Space Force awards SpaceX $4.16 billion to build satellite network for airborne target tracking (spacenews)
 - **Jun 04, 02:54 AM** - SpaceX wins $4.16B Space Force contract to detect airborne moving targets (breaking_defense)
 - **Jun 04, 03:29 AM** - SpaceX to raise at least $75 billion in IPO (spacenews)
+- **Jun 04, 04:04 AM** - What Exactly Caused That Loud Boom in South Carolina? (nyt)
