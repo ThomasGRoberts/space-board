@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-04T00:04:45.328989+00:00",
-    "trigger_count": 6,
-    "current_item_id": "11127ba5c8e86ad217ba0921b198d810",
+    "trigger_count": 0,
+    "current_item_id": "3b1a7b5aaafb34335b107f79713abe60",
     "data": [
         {
             "id": "b7a176dda7b89fc56c42aefac1f5ca59",
@@ -7947,6 +7947,18 @@
             "fetched_datetime": "2026-06-04T16:29:32.258481Z",
             "shown_at": [
                 "2026-06-04T16:29:33.176189Z"
+            ]
+        },
+        {
+            "id": "3b1a7b5aaafb34335b107f79713abe60",
+            "source": "spacenews",
+            "text": "HASC NDAA markup challenges Space Force on satellite programs",
+            "source_link": "https://spacenews.com/hasc-ndaa-markup-challenges-space-force-on-satellite-programs/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-04T22:59:19.172579Z",
+            "shown_at": [
+                "2026-06-04T22:59:20.229979Z"
             ]
         }
     ]
