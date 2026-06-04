@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 2 | 13 | 25 |
 | spacenews | 6 | 12 | 15 | 31 |
-| breaking_defense | 0 | 1 | 12 | 24 |
+| breaking_defense | 0 | 1 | 13 | 25 |
 
 # Shown Order
 
@@ -2388,3 +2388,4 @@
 - **Jun 04, 09:49 PM** - NRO nominee says commercial space, AI are reshaping spy satellite agency (spacenews)
 - **Jun 04, 10:24 PM** - What Exactly Caused That Loud Boom in South Carolina? (nyt)
 - **Jun 04, 10:59 PM** - HASC NDAA markup challenges Space Force on satellite programs (spacenews)
+- **Jun 04, 11:33 PM** - Army, J-7 to test new sensor with high-altitude balloon in coming days (breaking_defense)
