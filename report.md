@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 14 | 16 | 32 |
-| nyt | 1 | 2 | 12 | 25 |
+| nyt | 1 | 2 | 13 | 26 |
 | breaking_defense | 0 | 1 | 12 | 24 |
 
 # Shown Order
@@ -2391,3 +2391,4 @@
 - **Jun 05, 10:44 AM** - How AI is shaping the future of geospatial intelligence (breaking_defense)
 - **Jun 05, 11:19 AM** - Bellatrix and TelePIX plan 2028 air-breathing VLEO imaging demonstration (spacenews)
 - **Jun 05, 11:54 AM** - Qianfan constellation deployment hits 200 satellites with Long March 8 and 6A launches (spacenews)
+- **Jun 05, 12:29 PM** - What Exactly Caused That Loud Boom in South Carolina? (nyt)
