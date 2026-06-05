@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 14 | 16 | 32 |
+| spacenews | 7 | 15 | 17 | 33 |
 | nyt | 1 | 2 | 12 | 25 |
 | breaking_defense | 0 | 1 | 12 | 24 |
 
@@ -2392,3 +2392,4 @@
 - **Jun 05, 11:19 AM** - Bellatrix and TelePIX plan 2028 air-breathing VLEO imaging demonstration (spacenews)
 - **Jun 05, 11:54 AM** - Qianfan constellation deployment hits 200 satellites with Long March 8 and 6A launches (spacenews)
 - **Jun 05, 12:29 PM** - What Exactly Caused That Loud Boom in South Carolina? (nyt)
+- **Jun 05, 01:05 PM** - Let’s build the moon base, but not lose sight of Mars (spacenews)
