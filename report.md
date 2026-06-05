@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 12 | 14 | 31 |
+| spacenews | 5 | 13 | 15 | 32 |
 | nyt | 1 | 2 | 13 | 25 |
 | breaking_defense | 0 | 1 | 13 | 25 |
 
@@ -2382,3 +2382,4 @@
 - **Jun 05, 05:29 AM** - What Exactly Caused That Loud Boom in South Carolina? (nyt)
 - **Jun 05, 06:04 AM** - UK explores Vast space station mission for astronaut with physical disability (spacenews)
 - **Jun 05, 06:39 AM** - SpaceX wins $4.16B Space Force contract to detect airborne moving targets (breaking_defense)
+- **Jun 05, 07:14 AM** - Axiom Space adds more than $175 million to funding round (spacenews)
