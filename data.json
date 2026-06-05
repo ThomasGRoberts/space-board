@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-05T00:04:26.044657+00:00",
-    "trigger_count": 6,
-    "current_item_id": "12ba169e71a8dbd47d7e17e0c072e63b",
+    "trigger_count": 0,
+    "current_item_id": "bf9de160dbffcc73dd0dc863c0da84a8",
     "data": [
         {
             "id": "3b1a7b5aaafb34335b107f79713abe60",
@@ -7917,6 +7917,18 @@
             "fetched_datetime": "2026-06-05T09:34:31.250584Z",
             "shown_at": [
                 "2026-06-05T09:34:31.919973Z"
+            ]
+        },
+        {
+            "id": "bf9de160dbffcc73dd0dc863c0da84a8",
+            "source": "spacenews",
+            "text": "Qianfan constellation deployment hits 200 satellites with Long March 8 and 6A launches",
+            "source_link": "https://spacenews.com/qianfan-constellation-deployment-hits-200-satellites-with-long-march-8-and-6a-launches/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-05T11:54:28.591247Z",
+            "shown_at": [
+                "2026-06-05T11:54:29.537090Z"
             ]
         }
     ]

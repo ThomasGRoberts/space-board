@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 14 | 15 | 32 |
+| spacenews | 6 | 15 | 16 | 33 |
 | nyt | 1 | 2 | 12 | 25 |
 | breaking_defense | 0 | 1 | 13 | 24 |
 
@@ -2390,3 +2390,4 @@
 - **Jun 05, 10:09 AM** - The Blue Micromoon Rises in Sunday’s Early Skies (nyt)
 - **Jun 05, 10:44 AM** - How AI is shaping the future of geospatial intelligence (breaking_defense)
 - **Jun 05, 11:19 AM** - Bellatrix and TelePIX plan 2028 air-breathing VLEO imaging demonstration (spacenews)
+- **Jun 05, 11:54 AM** - Qianfan constellation deployment hits 200 satellites with Long March 8 and 6A launches (spacenews)
