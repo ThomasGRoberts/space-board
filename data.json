@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-05T00:04:26.044657+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b2def25bf48c5323b0b509e9a868fba9",
+    "trigger_count": 0,
+    "current_item_id": "4062c3ae5d7dfdfce392deec1583cee3",
     "data": [
         {
             "id": "3b1a7b5aaafb34335b107f79713abe60",
@@ -7943,6 +7943,18 @@
             "fetched_datetime": "2026-06-05T13:04:59.306084Z",
             "shown_at": [
                 "2026-06-05T13:05:01.739937Z"
+            ]
+        },
+        {
+            "id": "4062c3ae5d7dfdfce392deec1583cee3",
+            "source": "spacenews",
+            "text": "Next Ariane 6 launch to carry 36 Amazon Leo satellites using upgraded boosters",
+            "source_link": "https://spacenews.com/next-ariane-6-launch-to-carry-36-amazon-leo-satellites-using-upgraded-boosters/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-05T14:14:39.797962Z",
+            "shown_at": [
+                "2026-06-05T14:14:41.611248Z"
             ]
         }
     ]

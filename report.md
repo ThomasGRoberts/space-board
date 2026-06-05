@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 14 | 16 | 32 |
+| spacenews | 8 | 15 | 17 | 33 |
 | nyt | 1 | 2 | 12 | 25 |
-| breaking_defense | 0 | 1 | 13 | 24 |
+| breaking_defense | 0 | 1 | 12 | 24 |
 
 # Shown Order
 
@@ -2394,3 +2394,4 @@
 - **Jun 05, 12:29 PM** - What Exactly Caused That Loud Boom in South Carolina? (nyt)
 - **Jun 05, 01:05 PM** - Let’s build the moon base, but not lose sight of Mars (spacenews)
 - **Jun 05, 01:39 PM** - SPACECOM exploring tech for future offensive cislunar ops: Chief Scientist (breaking_defense)
+- **Jun 05, 02:14 PM** - Next Ariane 6 launch to carry 36 Amazon Leo satellites using upgraded boosters (spacenews)
