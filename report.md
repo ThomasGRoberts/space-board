@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 14 | 15 | 31 |
-| nyt | 1 | 2 | 13 | 25 |
+| spacenews | 6 | 14 | 16 | 32 |
+| nyt | 1 | 2 | 12 | 25 |
 | breaking_defense | 0 | 1 | 13 | 25 |
 
 # Shown Order
@@ -2389,3 +2389,4 @@
 - **Jun 05, 09:34 AM** - Satellite maker Apex’s valuation rises to $2.3 billion after latest $200 million raise (spacenews)
 - **Jun 05, 10:09 AM** - The Blue Micromoon Rises in Sunday’s Early Skies (nyt)
 - **Jun 05, 10:44 AM** - How AI is shaping the future of geospatial intelligence (breaking_defense)
+- **Jun 05, 11:19 AM** - Bellatrix and TelePIX plan 2028 air-breathing VLEO imaging demonstration (spacenews)
