@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 13 | 15 | 31 |
 | nyt | 1 | 2 | 13 | 26 |
-| breaking_defense | 0 | 1 | 12 | 24 |
+| breaking_defense | 0 | 1 | 13 | 25 |
 
 # Shown Order
 
@@ -2384,3 +2384,4 @@
 - **Jun 05, 06:39 AM** - SpaceX wins $4.16B Space Force contract to detect airborne moving targets (breaking_defense)
 - **Jun 05, 07:14 AM** - Axiom Space adds more than $175 million to funding round (spacenews)
 - **Jun 05, 07:49 AM** - The Blue Micromoon Rises in Sunday’s Early Skies (nyt)
+- **Jun 05, 08:24 AM** - National security launch schedule not likely impacted by New Glenn disaster (breaking_defense)
