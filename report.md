@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 16 | 32 |
 | nyt | 0 | 2 | 12 | 25 |
-| breaking_defense | 0 | 1 | 12 | 24 |
+| breaking_defense | 0 | 1 | 13 | 25 |
 
 # Shown Order
 
@@ -2396,3 +2396,4 @@
 - **Jun 05, 01:39 PM** - SPACECOM exploring tech for future offensive cislunar ops: Chief Scientist (breaking_defense)
 - **Jun 05, 02:14 PM** - Next Ariane 6 launch to carry 36 Amazon Leo satellites using upgraded boosters (spacenews)
 - **Jun 05, 02:49 PM** - The Blue Micromoon Rises in Sunday’s Early Skies (nyt)
+- **Jun 05, 03:24 PM** - SpaceX wins $4.16B Space Force contract to detect airborne moving targets (breaking_defense)
