@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 17 | 32 |
+| spacenews | 9 | 16 | 17 | 33 |
 | nyt | 0 | 2 | 12 | 25 |
 | breaking_defense | 0 | 0 | 12 | 24 |
 
@@ -2401,3 +2401,4 @@
 - **Jun 05, 04:34 PM** - Astronauts briefly shelter in Dragon during ISS leak repair (spacenews)
 - **Jun 05, 05:09 PM** - The Blue Micromoon Rises in Sunday’s Early Skies (nyt)
 - **Jun 05, 05:44 PM** - Army, J-7 to test new sensor with high-altitude balloon in coming days (breaking_defense)
+- **Jun 05, 06:19 PM** - Leaf Space partners with D-Orbit and EnduroSat to test connectivity service (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-05T00:04:26.044657+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1e1353c294d55f5424a4f6d37d5489ff",
+    "trigger_count": 0,
+    "current_item_id": "c0e90c749c0729eb48ad75fb910aaa51",
     "data": [
         {
             "id": "3b1a7b5aaafb34335b107f79713abe60",
@@ -7972,6 +7972,18 @@
             "fetched_datetime": "2026-06-05T16:34:46.716571Z",
             "shown_at": [
                 "2026-06-05T16:34:47.629128Z"
+            ]
+        },
+        {
+            "id": "c0e90c749c0729eb48ad75fb910aaa51",
+            "source": "spacenews",
+            "text": "Leaf Space partners with D-Orbit and EnduroSat to test connectivity service",
+            "source_link": "https://spacenews.com/leaf-space-partners-with-d-orbit-and-endurosat-to-test-connectivity-service/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-05T18:19:12.791112Z",
+            "shown_at": [
+                "2026-06-05T18:19:13.743881Z"
             ]
         }
     ]
