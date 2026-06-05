@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 14 | 17 | 32 |
 | nyt | 0 | 1 | 12 | 25 |
-| breaking_defense | 0 | 0 | 12 | 24 |
+| breaking_defense | 0 | 0 | 13 | 25 |
 
 # Shown Order
 
@@ -2409,3 +2409,4 @@
 - **Jun 05, 09:13 PM** - How AI is shaping the future of geospatial intelligence (breaking_defense)
 - **Jun 05, 09:49 PM** - France to fly two astronauts on Vast missions (spacenews)
 - **Jun 05, 10:24 PM** - The Blue Micromoon Rises in Sunday’s Early Skies (nyt)
+- **Jun 05, 10:59 PM** - Northrop Grumman partners with Apex for 2027 SBI demo (breaking_defense)
