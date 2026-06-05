@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 12 | 15 | 31 |
-| nyt | 1 | 2 | 12 | 25 |
-| breaking_defense | 0 | 1 | 13 | 25 |
+| nyt | 1 | 2 | 13 | 26 |
+| breaking_defense | 0 | 1 | 13 | 24 |
 
 # Shown Order
 
@@ -2370,3 +2370,4 @@
 - **Jun 04, 10:24 PM** - What Exactly Caused That Loud Boom in South Carolina? (nyt)
 - **Jun 04, 10:59 PM** - HASC NDAA markup challenges Space Force on satellite programs (spacenews)
 - **Jun 04, 11:33 PM** - Army, J-7 to test new sensor with high-altitude balloon in coming days (breaking_defense)
+- **Jun 05, 12:08 AM** - SpaceX IPO to Be Largest Ever at $135 Share Price (nyt)
