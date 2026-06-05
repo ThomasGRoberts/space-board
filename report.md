@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 15 | 16 | 32 |
-| nyt | 1 | 2 | 12 | 25 |
+| spacenews | 6 | 15 | 15 | 32 |
+| nyt | 1 | 2 | 13 | 26 |
 | breaking_defense | 0 | 1 | 13 | 24 |
 
 # Shown Order
@@ -2387,3 +2387,4 @@
 - **Jun 05, 08:24 AM** - National security launch schedule not likely impacted by New Glenn disaster (breaking_defense)
 - **Jun 05, 08:59 AM** - The Exploration Company completes drop test of Nyx capsule (spacenews)
 - **Jun 05, 09:34 AM** - Satellite maker Apex’s valuation rises to $2.3 billion after latest $200 million raise (spacenews)
+- **Jun 05, 10:09 AM** - The Blue Micromoon Rises in Sunday’s Early Skies (nyt)
