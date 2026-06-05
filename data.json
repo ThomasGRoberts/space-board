@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-05T00:04:26.044657+00:00",
-    "trigger_count": 6,
-    "current_item_id": "708c24ff317be16032f2daf7e2b6d7dd",
+    "trigger_count": 0,
+    "current_item_id": "a0c726c24a8c4ed813b87e1c4b17570b",
     "data": [
         {
             "id": "3b1a7b5aaafb34335b107f79713abe60",
@@ -7958,6 +7958,18 @@
             "fetched_datetime": "2026-06-05T14:14:39.797962Z",
             "shown_at": [
                 "2026-06-05T14:14:41.611248Z"
+            ]
+        },
+        {
+            "id": "a0c726c24a8c4ed813b87e1c4b17570b",
+            "source": "spacenews",
+            "text": "Astronauts briefly shelter in Dragon during ISS leak repair",
+            "source_link": "https://spacenews.com/astronauts-briefly-shelter-in-dragon-during-iss-leak-repair/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-05T16:34:46.716571Z",
+            "shown_at": [
+                "2026-06-05T16:34:47.629128Z"
             ]
         }
     ]

@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 14 | 17 | 32 |
+| spacenews | 8 | 15 | 17 | 33 |
 | nyt | 0 | 2 | 12 | 25 |
 | breaking_defense | 0 | 0 | 12 | 24 |
 
@@ -2398,3 +2398,4 @@
 - **Jun 05, 02:49 PM** - The Blue Micromoon Rises in Sunday’s Early Skies (nyt)
 - **Jun 05, 03:24 PM** - SpaceX wins $4.16B Space Force contract to detect airborne moving targets (breaking_defense)
 - **Jun 05, 03:59 PM** - Satellite maker Apex’s valuation rises to $2.3 billion after latest $200 million raise (spacenews)
+- **Jun 05, 04:34 PM** - Astronauts briefly shelter in Dragon during ISS leak repair (spacenews)
