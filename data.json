@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-05T00:04:26.044657+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9cfaa13a2cb321b35077e8ddb9ff4f2a",
+    "trigger_count": 0,
+    "current_item_id": "708c24ff317be16032f2daf7e2b6d7dd",
     "data": [
         {
             "id": "3b1a7b5aaafb34335b107f79713abe60",
@@ -7902,6 +7902,18 @@
             "fetched_datetime": "2026-06-05T08:59:20.282257Z",
             "shown_at": [
                 "2026-06-05T08:59:21.649758Z"
+            ]
+        },
+        {
+            "id": "708c24ff317be16032f2daf7e2b6d7dd",
+            "source": "spacenews",
+            "text": "Satellite maker Apex’s valuation rises to $2.3 billion after latest $200 million raise",
+            "source_link": "https://spacenews.com/satellite-maker-apexs-valuation-rises-to-2-3-billion-after-latest-200-million-raise/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-05T09:34:31.250584Z",
+            "shown_at": [
+                "2026-06-05T09:34:31.919973Z"
             ]
         }
     ]
