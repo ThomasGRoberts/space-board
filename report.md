@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 15 | 31 |
 | nyt | 1 | 2 | 13 | 25 |
-| breaking_defense | 0 | 1 | 12 | 24 |
+| breaking_defense | 0 | 1 | 13 | 25 |
 
 # Shown Order
 
@@ -2375,3 +2375,4 @@
 - **Jun 05, 01:19 AM** - Northrop Grumman partners with Apex for 2027 SBI demo (breaking_defense)
 - **Jun 05, 01:54 AM** - SpaceX IPO to Be Largest Ever at $135 Share Price (nyt)
 - **Jun 05, 02:29 AM** - Northrop Grumman partners with Apex on space-based interceptors for Golden Dome (spacenews)
+- **Jun 05, 03:09 AM** - Northrop Grumman partners with Apex for 2027 SBI demo (breaking_defense)
