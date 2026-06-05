@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 12 | 15 | 31 |
 | nyt | 1 | 2 | 13 | 25 |
-| breaking_defense | 0 | 1 | 12 | 24 |
+| breaking_defense | 0 | 1 | 13 | 25 |
 
 # Shown Order
 
@@ -2372,3 +2372,4 @@
 - **Jun 04, 11:33 PM** - Army, J-7 to test new sensor with high-altitude balloon in coming days (breaking_defense)
 - **Jun 05, 12:08 AM** - SpaceX IPO to Be Largest Ever at $135 Share Price (nyt)
 - **Jun 05, 12:44 AM** - Space Force’s commercial gatekeeper offers a playbook for startups seeking defense business (spacenews)
+- **Jun 05, 01:19 AM** - Northrop Grumman partners with Apex for 2027 SBI demo (breaking_defense)
