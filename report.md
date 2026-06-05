@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 14 | 16 | 31 |
+| spacenews | 8 | 14 | 17 | 32 |
 | nyt | 0 | 2 | 12 | 25 |
 | breaking_defense | 0 | 1 | 12 | 25 |
 
@@ -2397,3 +2397,4 @@
 - **Jun 05, 02:14 PM** - Next Ariane 6 launch to carry 36 Amazon Leo satellites using upgraded boosters (spacenews)
 - **Jun 05, 02:49 PM** - The Blue Micromoon Rises in Sunday’s Early Skies (nyt)
 - **Jun 05, 03:24 PM** - SpaceX wins $4.16B Space Force contract to detect airborne moving targets (breaking_defense)
+- **Jun 05, 03:59 PM** - Satellite maker Apex’s valuation rises to $2.3 billion after latest $200 million raise (spacenews)
