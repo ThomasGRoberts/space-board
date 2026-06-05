@@ -2,19 +2,12 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 2 | 13 | 25 |
 | spacenews | 6 | 12 | 15 | 31 |
+| nyt | 1 | 2 | 12 | 25 |
 | breaking_defense | 0 | 1 | 13 | 25 |
 
 # Shown Order
 
-- **Apr 02, 03:34 AM** - What China sees as NASA launches Artemis II. (nyt)
-- **Apr 02, 04:09 AM** - For the Superfans of Spaceflight, Artemis II Can’t Launch Soon Enough (nyt)
-- **Apr 02, 04:44 AM** - Meet ‘Rise,’ Artemis II’s Adorable Zero-Gravity Indicator (nyt)
-- **Apr 02, 05:19 AM** - Highlights From the Launch of NASA’s Artemis II Moon Mission (nyt)
-- **Apr 02, 05:54 AM** - China’s Aiming for the Moon, and NASA Is Looking Over Its Shoulder (nyt)
-- **Apr 02, 06:29 AM** - As NASA Sent Astronauts to the Moon, Some Rejoiced and Others Barely Noticed (nyt)
-- **Apr 02, 07:04 AM** - Artemis II Completes First Day of Its NASA Lunar Mission (nyt)
 - **Apr 02, 02:10 PM** - Phantom Space buys thermal specialist to support orbital data center push (spacenews)
 - **Apr 02, 03:14 PM** - Artemis II Moon Mission: See the Launch, Photos and Video (nyt)
 - **Apr 02, 03:54 PM** - Relativity, Hermeus, Astrion and Divergent executives join Fortastra C-suite (spacenews)
@@ -22,10 +15,8 @@
 - **Apr 02, 06:14 PM** - Pentagon awards Raytheon $45 million for GPS ground system as program future is reassessed (spacenews)
 - **Apr 02, 07:59 PM** - Optical terminals still a bottleneck in Pentagon’s proliferated constellation (spacenews)
 - **Apr 02, 09:09 PM** - Former Sierra Space CEO Tom Vice to lead Astrion  (spacenews)
-- **Apr 03, 02:24 AM** - As NASA Sent Astronauts to the Moon, Some Rejoiced and Others Barely Noticed (nyt)
 - **Apr 03, 02:59 AM** - Artemis 2 heads to the moon (spacenews)
 - **Apr 03, 03:34 AM** - The Awe of a Moon Launch in an Age of Trump, Turmoil and Tribal Divisions (nyt)
-- **Apr 03, 05:54 AM** - What China sees as NASA launches Artemis II. (nyt)
 - **Apr 03, 10:34 AM** - China’s commercial Tianlong-3 rocket fails on debut launch (spacenews)
 - **Apr 03, 11:09 AM** - Europe’s strategic autonomy in space will define its role in the ‘second space age’ (spacenews)
 - **Apr 03, 11:49 AM** - SpaceX and Amazon spar over satellite deployments (spacenews)
@@ -40,20 +31,13 @@
 - **Apr 03, 10:19 PM** - The Awe of a Moon Launch in an Age of Trump, Turmoil and Tribal Divisions (nyt)
 - **Apr 03, 11:29 PM** - NASA’s Artemis II Astronauts Took iPhones Into Space (nyt)
 - **Apr 04, 01:19 AM** - Artemis 2 in good shape cruising towards the moon (spacenews)
-- **Apr 04, 05:24 AM** - Artemis II Completes First Day of Its NASA Lunar Mission (nyt)
-- **Apr 04, 06:34 AM** - What China sees as NASA launches Artemis II. (nyt)
-- **Apr 04, 08:54 AM** - What China sees as NASA launches Artemis II. (nyt)
 - **Apr 04, 09:29 AM** - How Scientifically Accurate Is ‘Project Hail Mary’? Experts Weigh In (nyt)
 - **Apr 04, 10:04 AM** - Houston Cheers on Artemis II Moon Mission, Reclaiming Its Place as ‘Space City’ (nyt)
 - **Apr 04, 12:59 PM** - Europe’s strategic autonomy in space will define its role in the ‘second space age’ (spacenews)
 - **Apr 04, 05:04 PM** - Space Force budget would more than double in Trump’s $1.5 trillion defense plan (spacenews)
-- **Apr 04, 07:59 PM** - For the Superfans of Spaceflight, Artemis II Can’t Launch Soon Enough (nyt)
 - **Apr 04, 08:34 PM** - Atlas 5 launches Amazon Leo satellites (spacenews)
 - **Apr 04, 09:44 PM** - Where Are NASA’s Artemis II Astronauts Now? Closer to the Moon Than Earth. (nyt)
-- **Apr 04, 10:54 PM** - For the Superfans of Spaceflight, Artemis II Can’t Launch Soon Enough (nyt)
 - **Apr 04, 11:29 PM** - Italy’s Argotec plans to scale Florida satellite facility to meet rising US demand (spacenews)
-- **Apr 05, 12:04 AM** - What China sees as NASA launches Artemis II. (nyt)
-- **Apr 05, 01:14 AM** - For the Superfans of Spaceflight, Artemis II Can’t Launch Soon Enough (nyt)
 - **Apr 05, 03:34 AM** - NASA finalizes science plans for Artemis 2 lunar flyby (spacenews)
 - **Apr 05, 08:54 AM** - NASA Unveils 1st Earth Photos From Artemis II Moon Mission: ‘You Look Beautiful.’ (nyt)
 - **Apr 05, 09:29 AM** - China’s commercial Tianlong-3 rocket fails on debut launch (spacenews)
@@ -75,7 +59,6 @@
 - **Apr 06, 01:34 PM** - The moon base has a hardware plan. It needs a software strategy, too. (spacenews)
 - **Apr 06, 02:09 PM** - Seagate Space Signs MOU with Firefly Aerospace to Collaborate on Offshore Launch Infrastructure for Alpha (spacenews)
 - **Apr 06, 02:44 PM** - Artemis II Astronauts Will Set New Distance Record in Moon Flyby: What to Know (nyt)
-- **Apr 06, 03:54 PM** - As NASA Sent Astronauts to the Moon, Some Rejoiced and Others Barely Noticed (nyt)
 - **Apr 06, 05:04 PM** - How Scientifically Accurate Is ‘Project Hail Mary’? Experts Weigh In (nyt)
 - **Apr 06, 06:07 PM** - Here’s What Food the Artemis II Astronauts Will Eat in Space (nyt)
 - **Apr 06, 07:09 PM** - FOSSA targets Japan’s defense market as larger smallsats expand capabilities (spacenews)
@@ -113,7 +96,6 @@
 - **Apr 07, 08:19 PM** - Hungary taps Northrop Grumman for first national geostationary communications satellite (spacenews)
 - **Apr 07, 10:04 PM** - Artemis II Moon Flyby: Crew, Timeline and What to Know (nyt)
 - **Apr 07, 10:39 PM** - Optical terminals still a bottleneck in Pentagon’s proliferated constellation (spacenews)
-- **Apr 07, 11:14 PM** - China’s Aiming for the Moon, and NASA Is Looking Over Its Shoulder (nyt)
 - **Apr 07, 11:49 PM** - White House again proposes steep NASA budget cuts (spacenews)
 - **Apr 08, 12:24 AM** - Artemis II Astronauts Get a Break After Journey Around the Moon (nyt)
 - **Apr 08, 12:59 AM** - Starfish Space raises more than $100 million (spacenews)
@@ -154,7 +136,6 @@
 - **Apr 09, 12:59 AM** - Isaacman defends NASA budget proposal despite steep cuts (spacenews)
 - **Apr 09, 01:34 AM** - See First Photos From NASA’s Artemis II Moon Mission Capturing a Setting Earth and Eclipse (nyt)
 - **Apr 09, 02:09 AM** - Hungary taps Northrop Grumman for first national geostationary communications satellite (spacenews)
-- **Apr 09, 02:49 AM** - As NASA Sent Astronauts to the Moon, Some Rejoiced and Others Barely Noticed (nyt)
 - **Apr 09, 03:24 AM** - Industry navigates NASA’s start-and-stop approach to commercial space stations (spacenews)
 - **Apr 09, 03:59 AM** - The Awe of a Moon Launch in an Age of Trump, Turmoil and Tribal Divisions (nyt)
 - **Apr 09, 04:34 AM** - Tracking the next SDA challenge (spacenews)
