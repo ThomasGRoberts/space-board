@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 14 | 17 | 31 |
+| spacenews | 9 | 14 | 18 | 32 |
 | nyt | 0 | 2 | 12 | 25 |
 | breaking_defense | 0 | 0 | 12 | 25 |
 
@@ -2407,3 +2407,4 @@
 - **Jun 05, 08:04 PM** - Blue Origin seeks to resume New Glenn launches by year’s end (spacenews)
 - **Jun 05, 08:39 PM** - The Blue Micromoon Rises in Sunday’s Early Skies (nyt)
 - **Jun 05, 09:13 PM** - How AI is shaping the future of geospatial intelligence (breaking_defense)
+- **Jun 05, 09:49 PM** - France to fly two astronauts on Vast missions (spacenews)
