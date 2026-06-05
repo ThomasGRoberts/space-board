@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 15 | 15 | 32 |
 | nyt | 1 | 2 | 13 | 25 |
-| breaking_defense | 0 | 1 | 13 | 24 |
+| breaking_defense | 0 | 1 | 13 | 25 |
 
 # Shown Order
 
@@ -2388,3 +2388,4 @@
 - **Jun 05, 08:59 AM** - The Exploration Company completes drop test of Nyx capsule (spacenews)
 - **Jun 05, 09:34 AM** - Satellite maker Apex’s valuation rises to $2.3 billion after latest $200 million raise (spacenews)
 - **Jun 05, 10:09 AM** - The Blue Micromoon Rises in Sunday’s Early Skies (nyt)
+- **Jun 05, 10:44 AM** - How AI is shaping the future of geospatial intelligence (breaking_defense)
