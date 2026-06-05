@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 15 | 17 | 32 |
 | nyt | 0 | 2 | 12 | 25 |
-| breaking_defense | 0 | 0 | 12 | 24 |
+| breaking_defense | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -2403,3 +2403,4 @@
 - **Jun 05, 05:44 PM** - Army, J-7 to test new sensor with high-altitude balloon in coming days (breaking_defense)
 - **Jun 05, 06:19 PM** - Leaf Space partners with D-Orbit and EnduroSat to test connectivity service (spacenews)
 - **Jun 05, 06:54 PM** - The Blue Micromoon Rises in Sunday’s Early Skies (nyt)
+- **Jun 05, 07:29 PM** - How AI is shaping the future of geospatial intelligence (breaking_defense)
