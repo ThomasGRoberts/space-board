@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-05T00:04:26.044657+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8c76800454ae57f64a5d93e1fccfa5b5",
+    "trigger_count": 0,
+    "current_item_id": "9cfaa13a2cb321b35077e8ddb9ff4f2a",
     "data": [
         {
             "id": "3b1a7b5aaafb34335b107f79713abe60",
@@ -7890,6 +7890,18 @@
             "fetched_datetime": "2026-06-05T07:14:25.643365Z",
             "shown_at": [
                 "2026-06-05T07:14:26.567337Z"
+            ]
+        },
+        {
+            "id": "9cfaa13a2cb321b35077e8ddb9ff4f2a",
+            "source": "spacenews",
+            "text": "The Exploration Company completes drop test of Nyx capsule",
+            "source_link": "https://spacenews.com/the-exploration-company-completes-drop-test-of-nyx-capsule/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-05T08:59:20.282257Z",
+            "shown_at": [
+                "2026-06-05T08:59:21.649758Z"
             ]
         }
     ]

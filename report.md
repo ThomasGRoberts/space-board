@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 13 | 14 | 31 |
+| spacenews | 6 | 14 | 15 | 32 |
 | nyt | 1 | 2 | 13 | 25 |
 | breaking_defense | 0 | 1 | 13 | 25 |
 
@@ -2385,3 +2385,4 @@
 - **Jun 05, 07:14 AM** - Axiom Space adds more than $175 million to funding round (spacenews)
 - **Jun 05, 07:49 AM** - The Blue Micromoon Rises in Sunday’s Early Skies (nyt)
 - **Jun 05, 08:24 AM** - National security launch schedule not likely impacted by New Glenn disaster (breaking_defense)
+- **Jun 05, 08:59 AM** - The Exploration Company completes drop test of Nyx capsule (spacenews)
