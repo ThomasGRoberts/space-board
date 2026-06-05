@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 12 | 14 | 31 |
-| nyt | 1 | 2 | 13 | 25 |
+| nyt | 1 | 2 | 14 | 26 |
 | breaking_defense | 0 | 1 | 13 | 25 |
 
 # Shown Order
@@ -2379,3 +2379,4 @@
 - **Jun 05, 03:44 AM** - The Blue Micromoon Rises in Sunday’s Early Skies (nyt)
 - **Jun 05, 04:19 AM** - UK explores Vast space station mission for astronaut with physical disability (spacenews)
 - **Jun 05, 04:54 AM** - SPACECOM exploring tech for future offensive cislunar ops: Chief Scientist (breaking_defense)
+- **Jun 05, 05:29 AM** - What Exactly Caused That Loud Boom in South Carolina? (nyt)
