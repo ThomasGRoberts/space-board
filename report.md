@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 13 | 16 | 31 |
+| spacenews | 8 | 13 | 17 | 32 |
 | nyt | 0 | 1 | 12 | 25 |
 | breaking_defense | 0 | 0 | 13 | 25 |
 
@@ -2400,3 +2400,4 @@
 - **Jun 05, 11:34 PM** - UK explores Vast space station mission for astronaut with physical disability (spacenews)
 - **Jun 06, 12:09 AM** - Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand (nyt)
 - **Jun 06, 12:43 AM** - How AI is shaping the future of geospatial intelligence (breaking_defense)
+- **Jun 06, 01:19 AM** - China conducts surprise launch of Long March 12B, delivers Qianfan satellites on debut flight (spacenews)
