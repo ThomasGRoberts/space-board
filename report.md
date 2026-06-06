@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 9 | 13 | 30 |
 | nyt | 0 | 0 | 14 | 26 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -2426,3 +2426,4 @@
 - **Jun 06, 02:49 PM** - Northrop Grumman partners with Apex for 2027 SBI demo (breaking_defense)
 - **Jun 06, 03:34 PM** - FAA documents outline SpaceX plans for Starfall reentry vehicles (spacenews)
 - **Jun 06, 04:09 PM** - Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand (nyt)
+- **Jun 06, 04:44 PM** - How AI is shaping the future of geospatial intelligence (breaking_defense)
