@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 10 | 14 | 31 |
 | nyt | 0 | 0 | 13 | 25 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -2436,3 +2436,4 @@
 - **Jun 06, 08:49 PM** - National security launch schedule not likely impacted by New Glenn disaster (breaking_defense)
 - **Jun 06, 09:24 PM** - Blue Origin seeks to resume New Glenn launches by year’s end (spacenews)
 - **Jun 06, 09:59 PM** - SpaceX IPO to Be Largest Ever at $135 Share Price (nyt)
+- **Jun 06, 10:34 PM** - Army, J-7 to test new sensor with high-altitude balloon in coming days (breaking_defense)
