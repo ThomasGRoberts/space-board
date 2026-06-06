@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 10 | 14 | 31 |
+| spacenews | 3 | 10 | 15 | 31 |
 | nyt | 0 | 1 | 13 | 25 |
-| breaking_defense | 0 | 0 | 14 | 26 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2421,3 +2421,4 @@
 - **Jun 06, 11:54 AM** - NASA declares end to MAVEN Mars mission (spacenews)
 - **Jun 06, 12:29 PM** - Blue Origin Rocket Blows Up on Florida Launchpad During Test (nyt)
 - **Jun 06, 01:04 PM** - Northrop Grumman partners with Apex for 2027 SBI demo (breaking_defense)
+- **Jun 06, 01:39 PM** - UK explores Vast space station mission for astronaut with physical disability (spacenews)
