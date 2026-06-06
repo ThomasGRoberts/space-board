@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 12 | 16 | 31 |
+| spacenews | 7 | 12 | 17 | 32 |
 | nyt | 0 | 1 | 12 | 25 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| breaking_defense | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -2412,3 +2412,4 @@
 - **Jun 06, 06:34 AM** - Astronauts briefly shelter in Dragon during ISS leak repair (spacenews)
 - **Jun 06, 07:09 AM** - SpaceX IPO to Be Largest Ever at $135 Share Price (nyt)
 - **Jun 06, 07:44 AM** - National security launch schedule not likely impacted by New Glenn disaster (breaking_defense)
+- **Jun 06, 08:24 AM** - China launches test direct-to-device satellites for multiple projects (spacenews)
