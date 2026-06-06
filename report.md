@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 9 | 13 | 30 |
+| spacenews | 1 | 9 | 14 | 31 |
 | nyt | 0 | 0 | 13 | 25 |
 | breaking_defense | 0 | 0 | 14 | 26 |
 
@@ -2427,3 +2427,4 @@
 - **Jun 06, 03:34 PM** - FAA documents outline SpaceX plans for Starfall reentry vehicles (spacenews)
 - **Jun 06, 04:09 PM** - Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand (nyt)
 - **Jun 06, 04:44 PM** - How AI is shaping the future of geospatial intelligence (breaking_defense)
+- **Jun 06, 05:19 PM** - Muon Space unveils Starship-class satellite platform for orbital data centers (spacenews)
