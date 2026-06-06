@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 11 | 15 | 31 |
+| spacenews | 5 | 10 | 16 | 31 |
 | nyt | 0 | 1 | 13 | 25 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
@@ -2418,3 +2418,4 @@
 - **Jun 06, 10:09 AM** - Researchers call for regulations to protect low Earth orbit environment (spacenews)
 - **Jun 06, 10:44 AM** - What’s Next for Blue Origin After Rocket Explosion (nyt)
 - **Jun 06, 11:19 AM** - How AI is shaping the future of geospatial intelligence (breaking_defense)
+- **Jun 06, 11:54 AM** - NASA declares end to MAVEN Mars mission (spacenews)
