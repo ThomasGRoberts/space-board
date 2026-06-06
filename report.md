@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 12 | 15 | 31 |
+| spacenews | 5 | 11 | 16 | 31 |
 | nyt | 0 | 1 | 13 | 25 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
@@ -2415,3 +2415,4 @@
 - **Jun 06, 08:24 AM** - China launches test direct-to-device satellites for multiple projects (spacenews)
 - **Jun 06, 08:59 AM** - SpaceX IPO to Be Largest Ever at $135 Share Price (nyt)
 - **Jun 06, 09:34 AM** - National security launch schedule not likely impacted by New Glenn disaster (breaking_defense)
+- **Jun 06, 10:09 AM** - Researchers call for regulations to protect low Earth orbit environment (spacenews)
