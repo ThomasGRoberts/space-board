@@ -3,19 +3,11 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 17 | 32 |
-| nyt | 0 | 1 | 12 | 25 |
+| nyt | 0 | 1 | 12 | 24 |
 | breaking_defense | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
-- **Apr 02, 02:10 PM** - Phantom Space buys thermal specialist to support orbital data center push (spacenews)
-- **Apr 02, 03:14 PM** - Artemis II Moon Mission: See the Launch, Photos and Video (nyt)
-- **Apr 02, 03:54 PM** - Relativity, Hermeus, Astrion and Divergent executives join Fortastra C-suite (spacenews)
-- **Apr 02, 04:29 PM** - Moog Technology Successfully Steers Artemis II Launch (spacenews)
-- **Apr 02, 06:14 PM** - Pentagon awards Raytheon $45 million for GPS ground system as program future is reassessed (spacenews)
-- **Apr 02, 07:59 PM** - Optical terminals still a bottleneck in Pentagon’s proliferated constellation (spacenews)
-- **Apr 02, 09:09 PM** - Former Sierra Space CEO Tom Vice to lead Astrion  (spacenews)
-- **Apr 03, 02:59 AM** - Artemis 2 heads to the moon (spacenews)
 - **Apr 03, 03:34 AM** - The Awe of a Moon Launch in an Age of Trump, Turmoil and Tribal Divisions (nyt)
 - **Apr 03, 10:34 AM** - China’s commercial Tianlong-3 rocket fails on debut launch (spacenews)
 - **Apr 03, 11:09 AM** - Europe’s strategic autonomy in space will define its role in the ‘second space age’ (spacenews)
@@ -82,7 +74,6 @@
 - **Apr 07, 08:39 AM** - Seagate Space Signs MOU with Firefly Aerospace to Collaborate on Offshore Launch Infrastructure for Alpha (spacenews)
 - **Apr 07, 09:14 AM** - Artemis II Astronauts Will Set New Distance Record in Moon Flyby: What to Know (nyt)
 - **Apr 07, 09:49 AM** - Artemis 2 ready to fly around the moon (spacenews)
-- **Apr 07, 10:59 AM** - Relativity, Hermeus, Astrion and Divergent executives join Fortastra C-suite (spacenews)
 - **Apr 07, 11:34 AM** - Earth observation operators push to deliver satellite images within minutes (spacenews)
 - **Apr 07, 12:44 PM** - Nominate space industry leaders for the 2026 SpaceNews Icon Awards (spacenews)
 - **Apr 07, 01:19 PM** - Starfish Space raises more than $100 million (spacenews)
@@ -95,17 +86,14 @@
 - **Apr 07, 07:44 PM** - SpaceX and Amazon spar over satellite deployments (spacenews)
 - **Apr 07, 08:19 PM** - Hungary taps Northrop Grumman for first national geostationary communications satellite (spacenews)
 - **Apr 07, 10:04 PM** - Artemis II Moon Flyby: Crew, Timeline and What to Know (nyt)
-- **Apr 07, 10:39 PM** - Optical terminals still a bottleneck in Pentagon’s proliferated constellation (spacenews)
 - **Apr 07, 11:49 PM** - White House again proposes steep NASA budget cuts (spacenews)
 - **Apr 08, 12:24 AM** - Artemis II Astronauts Get a Break After Journey Around the Moon (nyt)
 - **Apr 08, 12:59 AM** - Starfish Space raises more than $100 million (spacenews)
 - **Apr 08, 02:09 AM** - Hungary taps Northrop Grumman for first national geostationary communications satellite (spacenews)
 - **Apr 08, 02:44 AM** - Artemis II Moon Flyby: Crew, Timeline and What to Know (nyt)
-- **Apr 08, 03:19 AM** - Phantom Space buys thermal specialist to support orbital data center push (spacenews)
 - **Apr 08, 04:29 AM** - China’s commercial Tianlong-3 rocket fails on debut launch (spacenews)
 - **Apr 08, 05:04 AM** - Artemis II Moon Flyby: Crew, Timeline and What to Know (nyt)
 - **Apr 08, 06:14 AM** - Artemis II Astronauts Head Home After Historic Journey Around the Moon (nyt)
-- **Apr 08, 06:49 AM** - Phantom Space buys thermal specialist to support orbital data center push (spacenews)
 - **Apr 08, 07:24 AM** - Astroscale passes key design milestone for UK military space-tracking cubesats (spacenews)
 - **Apr 08, 07:59 AM** - Artemis II Astronauts Will Set New Distance Record in Moon Flyby: What to Know (nyt)
 - **Apr 08, 08:34 AM** - Inspection cubesat demo planned as first step toward orbital defense mothership (spacenews)
@@ -119,7 +107,6 @@
 - **Apr 08, 02:29 PM** - Tracking the next SDA challenge (spacenews)
 - **Apr 08, 03:04 PM** - Preparing for the next NASA budget battle (spacenews)
 - **Apr 08, 03:39 PM** - April 30: Opportunities for On-Orbit Computing (spacenews)
-- **Apr 08, 04:14 PM** - Artemis II Moon Mission: See the Launch, Photos and Video (nyt)
 - **Apr 08, 04:49 PM** - White House again proposes steep NASA budget cuts (spacenews)
 - **Apr 08, 05:24 PM** - Here’s What Food the Artemis II Astronauts Will Eat in Space (nyt)
 - **Apr 08, 06:34 PM** - The Awe of a Moon Launch in an Age of Trump, Turmoil and Tribal Divisions (nyt)

@@ -1,9 +1,106 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-06-05T00:04:26.044657+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2026-06-06T00:04:32.722918+00:00",
+    "trigger_count": 6,
     "current_item_id": "46ca671cdf1b09b14dcfbeea720c87b8",
     "data": [
+        {
+            "id": "c0e90c749c0729eb48ad75fb910aaa51",
+            "source": "spacenews",
+            "text": "Leaf Space partners with D-Orbit and EnduroSat to test connectivity service",
+            "source_link": "https://spacenews.com/leaf-space-partners-with-d-orbit-and-endurosat-to-test-connectivity-service/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-05T18:19:12.791112Z",
+            "shown_at": [
+                "2026-06-05T18:19:13.743881Z"
+            ]
+        },
+        {
+            "id": "a0c726c24a8c4ed813b87e1c4b17570b",
+            "source": "spacenews",
+            "text": "Astronauts briefly shelter in Dragon during ISS leak repair",
+            "source_link": "https://spacenews.com/astronauts-briefly-shelter-in-dragon-during-iss-leak-repair/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-05T16:34:46.716571Z",
+            "shown_at": [
+                "2026-06-05T16:34:47.629128Z"
+            ]
+        },
+        {
+            "id": "4062c3ae5d7dfdfce392deec1583cee3",
+            "source": "spacenews",
+            "text": "Next Ariane 6 launch to carry 36 Amazon Leo satellites using upgraded boosters",
+            "source_link": "https://spacenews.com/next-ariane-6-launch-to-carry-36-amazon-leo-satellites-using-upgraded-boosters/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-05T14:14:39.797962Z",
+            "shown_at": [
+                "2026-06-05T14:14:41.611248Z"
+            ]
+        },
+        {
+            "id": "c6c4696a00937e3e711896279c61c516",
+            "source": "spacenews",
+            "text": "Let’s build the moon base, but not lose sight of Mars",
+            "source_link": "https://spacenews.com/lets-build-the-moon-base-but-not-lose-sight-of-mars/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-05T13:04:59.306084Z",
+            "shown_at": [
+                "2026-06-05T13:05:01.739937Z"
+            ]
+        },
+        {
+            "id": "bf9de160dbffcc73dd0dc863c0da84a8",
+            "source": "spacenews",
+            "text": "Qianfan constellation deployment hits 200 satellites with Long March 8 and 6A launches",
+            "source_link": "https://spacenews.com/qianfan-constellation-deployment-hits-200-satellites-with-long-march-8-and-6a-launches/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-05T11:54:28.591247Z",
+            "shown_at": [
+                "2026-06-05T11:54:29.537090Z"
+            ]
+        },
+        {
+            "id": "708c24ff317be16032f2daf7e2b6d7dd",
+            "source": "spacenews",
+            "text": "Satellite maker Apex’s valuation rises to $2.3 billion after latest $200 million raise",
+            "source_link": "https://spacenews.com/satellite-maker-apexs-valuation-rises-to-2-3-billion-after-latest-200-million-raise/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-05T09:34:31.250584Z",
+            "shown_at": [
+                "2026-06-05T09:34:31.919973Z",
+                "2026-06-05T15:59:16.758433Z"
+            ]
+        },
+        {
+            "id": "9cfaa13a2cb321b35077e8ddb9ff4f2a",
+            "source": "spacenews",
+            "text": "The Exploration Company completes drop test of Nyx capsule",
+            "source_link": "https://spacenews.com/the-exploration-company-completes-drop-test-of-nyx-capsule/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-05T08:59:20.282257Z",
+            "shown_at": [
+                "2026-06-05T08:59:21.649758Z"
+            ]
+        },
+        {
+            "id": "368a0be8aa73369ac4f141288824ff60",
+            "source": "spacenews",
+            "text": "Axiom Space adds more than $175 million to funding round",
+            "source_link": "https://spacenews.com/axiom-space-adds-more-than-175-million-to-funding-round/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-05T07:14:25.643365Z",
+            "shown_at": [
+                "2026-06-05T07:14:26.567337Z"
+            ]
+        },
         {
             "id": "3b1a7b5aaafb34335b107f79713abe60",
             "source": "spacenews",
@@ -7795,204 +7892,6 @@
                 "2026-04-08T22:04:49.739936Z",
                 "2026-04-09T03:59:08.404595Z",
                 "2026-04-09T06:19:18.104296Z"
-            ]
-        },
-        {
-            "id": "2ebfae4accff91deb9397f44aa51cdcc",
-            "source": "spacenews",
-            "text": "Artemis 2 heads to the moon",
-            "source_link": "https://spacenews.com/artemis-2-heads-to-the-moon/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-03T02:59:32.320991Z",
-            "shown_at": [
-                "2026-04-03T02:59:33.198767Z"
-            ]
-        },
-        {
-            "id": "8a766d5f452b9560fafa5062857eaa72",
-            "source": "spacenews",
-            "text": "Former Sierra Space CEO Tom Vice to lead Astrion ",
-            "source_link": "https://spacenews.com/former-sierra-space-ceo-tom-vice-to-lead-astrion/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-02T21:09:14.263053Z",
-            "shown_at": [
-                "2026-04-02T21:09:15.425601Z"
-            ]
-        },
-        {
-            "id": "a21fd575cbe99bd3c09e3f12a0bd28a0",
-            "source": "spacenews",
-            "text": "Optical terminals still a bottleneck in Pentagon’s proliferated constellation",
-            "source_link": "https://spacenews.com/optical-terminals-still-a-bottleneck-in-pentagons-proliferated-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-02T19:59:12.446556Z",
-            "shown_at": [
-                "2026-04-02T19:59:13.711785Z",
-                "2026-04-07T22:39:20.705914Z"
-            ]
-        },
-        {
-            "id": "efc409fef4c4db9fa3bbf967aec3b907",
-            "source": "spacenews",
-            "text": "Pentagon awards Raytheon $45 million for GPS ground system as program future is reassessed",
-            "source_link": "https://spacenews.com/pentagon-awards-raytheon-45-million-for-gps-ground-system-as-program-future-is-reassessed/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-02T18:14:25.086393Z",
-            "shown_at": [
-                "2026-04-02T18:14:26.318263Z"
-            ]
-        },
-        {
-            "id": "cbddeeb733b6555410b32a359fb08404",
-            "source": "spacenews",
-            "text": "Moog Technology Successfully Steers Artemis II Launch",
-            "source_link": "https://spacenews.com/moog-technology-successfully-steers-artemis-ii-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-02T16:29:24.231974Z",
-            "shown_at": [
-                "2026-04-02T16:29:25.403214Z"
-            ]
-        },
-        {
-            "id": "1217d4dcb61b222f334b7a7844a1e8d0",
-            "source": "nyt",
-            "text": "Artemis II Moon Mission: See the Launch, Photos and Video",
-            "source_link": "https://www.nytimes.com/2026/04/02/science/space/artemis-nasa-astronauts-moon-launch-photos.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-02T15:14:23.633899Z",
-            "shown_at": [
-                "2026-04-02T15:14:24.419324Z",
-                "2026-04-08T16:14:28.163504Z"
-            ]
-        },
-        {
-            "id": "9fe3a79164d0f642705c0991ac60486e",
-            "source": "spacenews",
-            "text": "Relativity, Hermeus, Astrion and Divergent executives join Fortastra C-suite",
-            "source_link": "https://spacenews.com/relativity-hermeus-astrion-and-divergent-executives-join-fortastra-c-suite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-02T14:10:15.085735Z",
-            "shown_at": [
-                "2026-04-02T15:54:17.017473Z",
-                "2026-04-07T10:59:28.820644Z"
-            ]
-        },
-        {
-            "id": "3ee3f98080a3e02556042d651769d328",
-            "source": "spacenews",
-            "text": "Phantom Space buys thermal specialist to support orbital data center push",
-            "source_link": "https://spacenews.com/phantom-space-buys-thermal-specialist-to-support-orbital-data-center-push/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-02T14:10:15.085651Z",
-            "shown_at": [
-                "2026-04-02T14:10:16.286493Z",
-                "2026-04-08T03:19:24.909657Z",
-                "2026-04-08T06:49:18.684772Z"
-            ]
-        },
-        {
-            "id": "368a0be8aa73369ac4f141288824ff60",
-            "source": "spacenews",
-            "text": "Axiom Space adds more than $175 million to funding round",
-            "source_link": "https://spacenews.com/axiom-space-adds-more-than-175-million-to-funding-round/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-05T07:14:25.643365Z",
-            "shown_at": [
-                "2026-06-05T07:14:26.567337Z"
-            ]
-        },
-        {
-            "id": "9cfaa13a2cb321b35077e8ddb9ff4f2a",
-            "source": "spacenews",
-            "text": "The Exploration Company completes drop test of Nyx capsule",
-            "source_link": "https://spacenews.com/the-exploration-company-completes-drop-test-of-nyx-capsule/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-05T08:59:20.282257Z",
-            "shown_at": [
-                "2026-06-05T08:59:21.649758Z"
-            ]
-        },
-        {
-            "id": "708c24ff317be16032f2daf7e2b6d7dd",
-            "source": "spacenews",
-            "text": "Satellite maker Apex’s valuation rises to $2.3 billion after latest $200 million raise",
-            "source_link": "https://spacenews.com/satellite-maker-apexs-valuation-rises-to-2-3-billion-after-latest-200-million-raise/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-05T09:34:31.250584Z",
-            "shown_at": [
-                "2026-06-05T09:34:31.919973Z",
-                "2026-06-05T15:59:16.758433Z"
-            ]
-        },
-        {
-            "id": "bf9de160dbffcc73dd0dc863c0da84a8",
-            "source": "spacenews",
-            "text": "Qianfan constellation deployment hits 200 satellites with Long March 8 and 6A launches",
-            "source_link": "https://spacenews.com/qianfan-constellation-deployment-hits-200-satellites-with-long-march-8-and-6a-launches/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-05T11:54:28.591247Z",
-            "shown_at": [
-                "2026-06-05T11:54:29.537090Z"
-            ]
-        },
-        {
-            "id": "c6c4696a00937e3e711896279c61c516",
-            "source": "spacenews",
-            "text": "Let’s build the moon base, but not lose sight of Mars",
-            "source_link": "https://spacenews.com/lets-build-the-moon-base-but-not-lose-sight-of-mars/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-05T13:04:59.306084Z",
-            "shown_at": [
-                "2026-06-05T13:05:01.739937Z"
-            ]
-        },
-        {
-            "id": "4062c3ae5d7dfdfce392deec1583cee3",
-            "source": "spacenews",
-            "text": "Next Ariane 6 launch to carry 36 Amazon Leo satellites using upgraded boosters",
-            "source_link": "https://spacenews.com/next-ariane-6-launch-to-carry-36-amazon-leo-satellites-using-upgraded-boosters/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-05T14:14:39.797962Z",
-            "shown_at": [
-                "2026-06-05T14:14:41.611248Z"
-            ]
-        },
-        {
-            "id": "a0c726c24a8c4ed813b87e1c4b17570b",
-            "source": "spacenews",
-            "text": "Astronauts briefly shelter in Dragon during ISS leak repair",
-            "source_link": "https://spacenews.com/astronauts-briefly-shelter-in-dragon-during-iss-leak-repair/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-05T16:34:46.716571Z",
-            "shown_at": [
-                "2026-06-05T16:34:47.629128Z"
-            ]
-        },
-        {
-            "id": "c0e90c749c0729eb48ad75fb910aaa51",
-            "source": "spacenews",
-            "text": "Leaf Space partners with D-Orbit and EnduroSat to test connectivity service",
-            "source_link": "https://spacenews.com/leaf-space-partners-with-d-orbit-and-endurosat-to-test-connectivity-service/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-05T18:19:12.791112Z",
-            "shown_at": [
-                "2026-06-05T18:19:13.743881Z"
             ]
         }
     ]
