@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 13 | 17 | 31 |
 | nyt | 0 | 1 | 12 | 25 |
-| breaking_defense | 0 | 0 | 12 | 25 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2399,3 +2399,4 @@
 - **Jun 05, 10:59 PM** - Northrop Grumman partners with Apex for 2027 SBI demo (breaking_defense)
 - **Jun 05, 11:34 PM** - UK explores Vast space station mission for astronaut with physical disability (spacenews)
 - **Jun 06, 12:09 AM** - Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand (nyt)
+- **Jun 06, 12:43 AM** - How AI is shaping the future of geospatial intelligence (breaking_defense)
