@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 9 | 14 | 30 |
+| spacenews | 1 | 9 | 15 | 31 |
 | nyt | 0 | 0 | 13 | 25 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
@@ -2437,3 +2437,4 @@
 - **Jun 06, 09:24 PM** - Blue Origin seeks to resume New Glenn launches by year’s end (spacenews)
 - **Jun 06, 09:59 PM** - SpaceX IPO to Be Largest Ever at $135 Share Price (nyt)
 - **Jun 06, 10:34 PM** - Army, J-7 to test new sensor with high-altitude balloon in coming days (breaking_defense)
+- **Jun 06, 11:09 PM** - The Exploration Company completes drop test of Nyx capsule (spacenews)
