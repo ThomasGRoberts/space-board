@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 12 | 17 | 31 |
-| nyt | 0 | 1 | 12 | 25 |
+| nyt | 0 | 1 | 13 | 26 |
 | breaking_defense | 0 | 0 | 12 | 25 |
 
 # Shown Order
@@ -2407,3 +2407,4 @@
 - **Jun 06, 03:39 AM** - Blue Origin Rocket Blows Up on Florida Launchpad During Test (nyt)
 - **Jun 06, 04:14 AM** - Army, J-7 to test new sensor with high-altitude balloon in coming days (breaking_defense)
 - **Jun 06, 04:49 AM** - Global SSA Market to Reach $61B as Governments Prioritize Space Security, Resilience, and Orbital Safety (spacenews)
+- **Jun 06, 05:24 AM** - Blue Origin Rocket Blows Up on Florida Launchpad During Test (nyt)
