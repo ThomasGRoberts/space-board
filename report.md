@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 12 | 17 | 31 |
-| nyt | 0 | 1 | 12 | 25 |
+| nyt | 0 | 1 | 13 | 26 |
 | breaking_defense | 0 | 0 | 12 | 25 |
 
 # Shown Order
@@ -2410,3 +2410,4 @@
 - **Jun 06, 05:24 AM** - Blue Origin Rocket Blows Up on Florida Launchpad During Test (nyt)
 - **Jun 06, 05:59 AM** - National security launch schedule not likely impacted by New Glenn disaster (breaking_defense)
 - **Jun 06, 06:34 AM** - Astronauts briefly shelter in Dragon during ISS leak repair (spacenews)
+- **Jun 06, 07:09 AM** - SpaceX IPO to Be Largest Ever at $135 Share Price (nyt)
