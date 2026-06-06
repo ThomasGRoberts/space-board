@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 10 | 14 | 31 |
 | nyt | 0 | 0 | 13 | 25 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -2430,3 +2430,4 @@
 - **Jun 06, 05:19 PM** - Muon Space unveils Starship-class satellite platform for orbital data centers (spacenews)
 - **Jun 06, 05:54 PM** - NASA concerns about Russian repairs prompted ISS safe haven decision (spacenews)
 - **Jun 06, 06:29 PM** - SpaceX IPO to Be Largest Ever at $135 Share Price (nyt)
+- **Jun 06, 07:04 PM** - National security launch schedule not likely impacted by New Glenn disaster (breaking_defense)
