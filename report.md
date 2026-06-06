@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 13 | 17 | 31 |
 | nyt | 0 | 1 | 12 | 25 |
-| breaking_defense | 0 | 0 | 12 | 25 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2402,3 +2402,4 @@
 - **Jun 06, 12:43 AM** - How AI is shaping the future of geospatial intelligence (breaking_defense)
 - **Jun 06, 01:19 AM** - China conducts surprise launch of Long March 12B, delivers Qianfan satellites on debut flight (spacenews)
 - **Jun 06, 01:53 AM** - SpaceX IPO to Be Largest Ever at $135 Share Price (nyt)
+- **Jun 06, 02:29 AM** - Army, J-7 to test new sensor with high-altitude balloon in coming days (breaking_defense)
