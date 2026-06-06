@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 10 | 14 | 31 |
-| nyt | 0 | 0 | 13 | 25 |
+| nyt | 0 | 0 | 14 | 26 |
 | breaking_defense | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -2425,3 +2425,4 @@
 - **Jun 06, 02:14 PM** - Blue Origin Rocket Blows Up on Florida Launchpad During Test (nyt)
 - **Jun 06, 02:49 PM** - Northrop Grumman partners with Apex for 2027 SBI demo (breaking_defense)
 - **Jun 06, 03:34 PM** - FAA documents outline SpaceX plans for Starfall reentry vehicles (spacenews)
+- **Jun 06, 04:09 PM** - Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand (nyt)
