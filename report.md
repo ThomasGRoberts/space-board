@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 10 | 14 | 31 |
-| nyt | 0 | 0 | 13 | 25 |
+| nyt | 0 | 0 | 14 | 26 |
 | breaking_defense | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -2432,3 +2432,4 @@
 - **Jun 06, 06:29 PM** - SpaceX IPO to Be Largest Ever at $135 Share Price (nyt)
 - **Jun 06, 07:04 PM** - National security launch schedule not likely impacted by New Glenn disaster (breaking_defense)
 - **Jun 06, 07:39 PM** - HASC NDAA markup challenges Space Force on satellite programs (spacenews)
+- **Jun 06, 08:14 PM** - SpaceX IPO to Be Largest Ever at $135 Share Price (nyt)
