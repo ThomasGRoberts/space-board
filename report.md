@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 12 | 16 | 31 |
 | nyt | 0 | 1 | 13 | 25 |
-| breaking_defense | 0 | 0 | 12 | 25 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2411,3 +2411,4 @@
 - **Jun 06, 05:59 AM** - National security launch schedule not likely impacted by New Glenn disaster (breaking_defense)
 - **Jun 06, 06:34 AM** - Astronauts briefly shelter in Dragon during ISS leak repair (spacenews)
 - **Jun 06, 07:09 AM** - SpaceX IPO to Be Largest Ever at $135 Share Price (nyt)
+- **Jun 06, 07:44 AM** - National security launch schedule not likely impacted by New Glenn disaster (breaking_defense)
