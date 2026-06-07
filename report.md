@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 9 | 14 | 30 |
+| spacenews | 2 | 10 | 15 | 31 |
 | nyt | 0 | 0 | 13 | 25 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
@@ -2434,3 +2434,4 @@
 - **Jun 06, 11:09 PM** - The Exploration Company completes drop test of Nyx capsule (spacenews)
 - **Jun 06, 11:44 PM** - Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand (nyt)
 - **Jun 07, 12:19 AM** - Army, J-7 to test new sensor with high-altitude balloon in coming days (breaking_defense)
+- **Jun 07, 12:54 AM** - NASA interested in Hubble reboost if costs can be reduced (spacenews)
