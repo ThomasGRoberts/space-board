@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 10 | 14 | 31 |
 | nyt | 0 | 0 | 13 | 25 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -2436,3 +2436,4 @@
 - **Jun 07, 12:19 AM** - Army, J-7 to test new sensor with high-altitude balloon in coming days (breaking_defense)
 - **Jun 07, 12:54 AM** - NASA interested in Hubble reboost if costs can be reduced (spacenews)
 - **Jun 07, 01:34 AM** - Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand (nyt)
+- **Jun 07, 02:09 AM** - National security launch schedule not likely impacted by New Glenn disaster (breaking_defense)
