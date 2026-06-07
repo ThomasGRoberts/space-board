@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 4 | 13 | 28 |
+| spacenews | 3 | 4 | 14 | 29 |
 | nyt | 0 | 0 | 14 | 27 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
@@ -2472,3 +2472,4 @@
 - **Jun 07, 09:34 PM** - France to fly two astronauts on Vast missions (spacenews)
 - **Jun 07, 10:09 PM** - Army, J-7 to test new sensor with high-altitude balloon in coming days (breaking_defense)
 - **Jun 07, 10:44 PM** - SpaceX IPO to Be Largest Ever at $135 Share Price (nyt)
+- **Jun 07, 11:19 PM** - Blue Origin seeks to resume New Glenn launches by year’s end (spacenews)
