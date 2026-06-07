@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 9 | 14 | 30 |
 | nyt | 0 | 0 | 13 | 26 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -2445,3 +2445,4 @@
 - **Jun 07, 05:39 AM** - Northrop Grumman partners with Apex for 2027 SBI demo (breaking_defense)
 - **Jun 07, 06:14 AM** - The importance of determining an equilibrium state for space traffic management (spacenews)
 - **Jun 07, 06:49 AM** - SpaceX IPO to Be Largest Ever at $135 Share Price (nyt)
+- **Jun 07, 07:24 AM** - How AI is shaping the future of geospatial intelligence (breaking_defense)
