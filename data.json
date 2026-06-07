@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-07T00:04:40.362206+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e6f0edc880d2104218b53fe971968ea5",
+    "trigger_count": 0,
+    "current_item_id": "df90bc4997d4a95361a1b4c0b2e09ddc",
     "data": [
         {
             "id": "3cc224dcbd92c3d72f204bf843b632cf",
@@ -7957,6 +7957,18 @@
             "shown_at": [
                 "2026-06-07T00:54:15.935500Z",
                 "2026-06-07T09:49:25.805584Z"
+            ]
+        },
+        {
+            "id": "df90bc4997d4a95361a1b4c0b2e09ddc",
+            "source": "spacenews",
+            "text": "Rounding up the space unicorns",
+            "source_link": "https://spacenews.com/rounding-up-the-space-unicorns/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-07T11:34:33.313010Z",
+            "shown_at": [
+                "2026-06-07T11:34:34.069479Z"
             ]
         }
     ]
