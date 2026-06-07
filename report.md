@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 10 | 14 | 31 |
 | nyt | 0 | 0 | 13 | 25 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -2442,3 +2442,4 @@
 - **Jun 07, 03:54 AM** - How AI is shaping the future of geospatial intelligence (breaking_defense)
 - **Jun 07, 04:29 AM** - Impulse Space raises $500 million (spacenews)
 - **Jun 07, 05:04 AM** - Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand (nyt)
+- **Jun 07, 05:39 AM** - Northrop Grumman partners with Apex for 2027 SBI demo (breaking_defense)
