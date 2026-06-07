@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 7 | 14 | 30 |
-| nyt | 0 | 0 | 13 | 25 |
+| nyt | 0 | 0 | 14 | 26 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2450,3 +2450,4 @@
 - **Jun 07, 08:39 AM** - Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand (nyt)
 - **Jun 07, 09:14 AM** - How AI is shaping the future of geospatial intelligence (breaking_defense)
 - **Jun 07, 09:49 AM** - NASA interested in Hubble reboost if costs can be reduced (spacenews)
+- **Jun 07, 10:24 AM** - Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand (nyt)
