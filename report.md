@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 4 | 14 | 28 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 | breaking_defense | 0 | 0 | 13 | 27 |
 
 # Shown Order
@@ -2465,3 +2465,4 @@
 - **Jun 07, 05:29 PM** - Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand (nyt)
 - **Jun 07, 06:04 PM** - Spaceport facility bonds are now law – and they fundamentally change space infrastructure finance (spacenews)
 - **Jun 07, 06:39 PM** - Army, J-7 to test new sensor with high-altitude balloon in coming days (breaking_defense)
+- **Jun 07, 07:14 PM** - SpaceX IPO to Be Largest Ever at $135 Share Price (nyt)
