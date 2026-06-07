@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 7 | 14 | 29 |
 | nyt | 0 | 0 | 13 | 26 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2454,3 +2454,4 @@
 - **Jun 07, 10:59 AM** - Northrop Grumman partners with Apex for 2027 SBI demo (breaking_defense)
 - **Jun 07, 11:34 AM** - Rounding up the space unicorns (spacenews)
 - **Jun 07, 12:09 PM** - SpaceX IPO to Be Largest Ever at $135 Share Price (nyt)
+- **Jun 07, 12:44 PM** - Army, J-7 to test new sensor with high-altitude balloon in coming days (breaking_defense)
