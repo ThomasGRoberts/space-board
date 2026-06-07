@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 4 | 14 | 28 |
 | nyt | 0 | 0 | 13 | 27 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2467,3 +2467,4 @@
 - **Jun 07, 06:39 PM** - Army, J-7 to test new sensor with high-altitude balloon in coming days (breaking_defense)
 - **Jun 07, 07:14 PM** - SpaceX IPO to Be Largest Ever at $135 Share Price (nyt)
 - **Jun 07, 07:49 PM** - Leaf Space partners with D-Orbit and EnduroSat to test connectivity service (spacenews)
+- **Jun 07, 08:24 PM** - Northrop Grumman partners with Apex for 2027 SBI demo (breaking_defense)
