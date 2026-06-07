@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 4 | 13 | 28 |
+| spacenews | 3 | 4 | 14 | 29 |
 | nyt | 0 | 0 | 14 | 27 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
@@ -2469,3 +2469,4 @@
 - **Jun 07, 07:49 PM** - Leaf Space partners with D-Orbit and EnduroSat to test connectivity service (spacenews)
 - **Jun 07, 08:24 PM** - Northrop Grumman partners with Apex for 2027 SBI demo (breaking_defense)
 - **Jun 07, 08:59 PM** - Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand (nyt)
+- **Jun 07, 09:34 PM** - France to fly two astronauts on Vast missions (spacenews)
