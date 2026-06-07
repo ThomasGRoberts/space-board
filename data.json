@@ -1,9 +1,21 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-06-06T00:04:32.722918+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2026-06-07T00:04:40.362206+00:00",
+    "trigger_count": 4,
     "current_item_id": "a76d9f521adf64037dcd48f5ebfcc595",
     "data": [
+        {
+            "id": "3cc224dcbd92c3d72f204bf843b632cf",
+            "source": "spacenews",
+            "text": "NASA concerns about Russian repairs prompted ISS safe haven decision",
+            "source_link": "https://spacenews.com/nasa-concerns-about-russian-repairs-prompted-iss-safe-haven-decision/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-06T17:54:12.983017Z",
+            "shown_at": [
+                "2026-06-06T17:54:13.838885Z"
+            ]
+        },
         {
             "id": "c0e90c749c0729eb48ad75fb910aaa51",
             "source": "spacenews",
@@ -7915,35 +7927,6 @@
                 "2026-04-03T21:44:16.142634Z",
                 "2026-04-05T09:29:16.103689Z",
                 "2026-04-08T04:29:21.999703Z"
-            ]
-        },
-        {
-            "id": "2532dffb00d7b9fe6bf011c2dc2ab008",
-            "source": "nyt",
-            "text": "The Awe of a Moon Launch in an Age of Trump, Turmoil and Tribal Divisions",
-            "source_link": "https://www.nytimes.com/2026/04/02/us/politics/artemis-ii-launch-trump.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-03T03:34:19.808994Z",
-            "shown_at": [
-                "2026-04-03T03:34:20.657837Z",
-                "2026-04-03T22:19:15.675677Z",
-                "2026-04-08T18:34:48.604653Z",
-                "2026-04-08T22:04:49.739936Z",
-                "2026-04-09T03:59:08.404595Z",
-                "2026-04-09T06:19:18.104296Z"
-            ]
-        },
-        {
-            "id": "3cc224dcbd92c3d72f204bf843b632cf",
-            "source": "spacenews",
-            "text": "NASA concerns about Russian repairs prompted ISS safe haven decision",
-            "source_link": "https://spacenews.com/nasa-concerns-about-russian-repairs-prompted-iss-safe-haven-decision/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-06T17:54:12.983017Z",
-            "shown_at": [
-                "2026-06-06T17:54:13.838885Z"
             ]
         }
     ]
