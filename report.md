@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 4 | 14 | 28 |
 | nyt | 0 | 0 | 13 | 27 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2473,3 +2473,4 @@
 - **Jun 07, 10:09 PM** - Army, J-7 to test new sensor with high-altitude balloon in coming days (breaking_defense)
 - **Jun 07, 10:44 PM** - SpaceX IPO to Be Largest Ever at $135 Share Price (nyt)
 - **Jun 07, 11:19 PM** - Blue Origin seeks to resume New Glenn launches by year’s end (spacenews)
+- **Jun 07, 11:54 PM** - How AI is shaping the future of geospatial intelligence (breaking_defense)
