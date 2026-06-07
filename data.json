@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-07T00:04:40.362206+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a76d9f521adf64037dcd48f5ebfcc595",
+    "trigger_count": 0,
+    "current_item_id": "e9a9b74778fac3b5f3dae0538a806a12",
     "data": [
         {
             "id": "3cc224dcbd92c3d72f204bf843b632cf",
@@ -7973,6 +7973,18 @@
             "fetched_datetime": "2026-06-07T11:34:33.313010Z",
             "shown_at": [
                 "2026-06-07T11:34:34.069479Z"
+            ]
+        },
+        {
+            "id": "e9a9b74778fac3b5f3dae0538a806a12",
+            "source": "spacenews",
+            "text": "NASA to select new headquarters building by end of year",
+            "source_link": "https://spacenews.com/nasa-to-select-new-headquarters-building-by-end-of-year/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-07T14:29:11.610976Z",
+            "shown_at": [
+                "2026-06-07T14:29:13.485279Z"
             ]
         }
     ]

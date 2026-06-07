@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 5 | 14 | 28 |
+| spacenews | 4 | 6 | 15 | 29 |
 | nyt | 0 | 0 | 13 | 27 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
@@ -2457,3 +2457,4 @@
 - **Jun 07, 12:44 PM** - Army, J-7 to test new sensor with high-altitude balloon in coming days (breaking_defense)
 - **Jun 07, 01:19 PM** - China builds institutional framework for space computing push (spacenews)
 - **Jun 07, 01:53 PM** - Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand (nyt)
+- **Jun 07, 02:29 PM** - NASA to select new headquarters building by end of year (spacenews)
