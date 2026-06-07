@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 10 | 14 | 30 |
+| spacenews | 2 | 10 | 15 | 31 |
 | nyt | 0 | 0 | 13 | 25 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
@@ -2443,3 +2443,4 @@
 - **Jun 07, 04:29 AM** - Impulse Space raises $500 million (spacenews)
 - **Jun 07, 05:04 AM** - Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand (nyt)
 - **Jun 07, 05:39 AM** - Northrop Grumman partners with Apex for 2027 SBI demo (breaking_defense)
+- **Jun 07, 06:14 AM** - The importance of determining an equilibrium state for space traffic management (spacenews)
