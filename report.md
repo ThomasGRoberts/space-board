@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 4 | 14 | 28 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 14 | 27 |
 | breaking_defense | 0 | 0 | 13 | 27 |
 
 # Shown Order
@@ -2468,3 +2468,4 @@
 - **Jun 07, 07:14 PM** - SpaceX IPO to Be Largest Ever at $135 Share Price (nyt)
 - **Jun 07, 07:49 PM** - Leaf Space partners with D-Orbit and EnduroSat to test connectivity service (spacenews)
 - **Jun 07, 08:24 PM** - Northrop Grumman partners with Apex for 2027 SBI demo (breaking_defense)
+- **Jun 07, 08:59 PM** - Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand (nyt)
