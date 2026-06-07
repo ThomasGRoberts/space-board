@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 14 | 30 |
 | nyt | 0 | 0 | 13 | 26 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -2448,3 +2448,4 @@
 - **Jun 07, 07:24 AM** - How AI is shaping the future of geospatial intelligence (breaking_defense)
 - **Jun 07, 07:59 AM** - NASA declares end to MAVEN Mars mission (spacenews)
 - **Jun 07, 08:39 AM** - Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand (nyt)
+- **Jun 07, 09:14 AM** - How AI is shaping the future of geospatial intelligence (breaking_defense)
