@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 9 | 14 | 31 |
-| nyt | 0 | 0 | 13 | 25 |
+| nyt | 0 | 0 | 14 | 26 |
 | breaking_defense | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -2447,3 +2447,4 @@
 - **Jun 07, 06:49 AM** - SpaceX IPO to Be Largest Ever at $135 Share Price (nyt)
 - **Jun 07, 07:24 AM** - How AI is shaping the future of geospatial intelligence (breaking_defense)
 - **Jun 07, 07:59 AM** - NASA declares end to MAVEN Mars mission (spacenews)
+- **Jun 07, 08:39 AM** - Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand (nyt)
