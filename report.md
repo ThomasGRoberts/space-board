@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 7 | 15 | 30 |
+| spacenews | 5 | 8 | 16 | 31 |
 | nyt | 0 | 0 | 13 | 26 |
 | breaking_defense | 0 | 0 | 12 | 25 |
 
@@ -2484,3 +2484,4 @@
 - **Jun 08, 09:54 AM** - Army, J-7 to test new sensor with high-altitude balloon in coming days (breaking_defense)
 - **Jun 08, 10:29 AM** - Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand (nyt)
 - **Jun 08, 11:05 AM** - Speed as a Strategic Advantage in Border Monitoring (spacenews)
+- **Jun 08, 11:39 AM** - Axiom and Prada advance design of spacesuit (spacenews)
