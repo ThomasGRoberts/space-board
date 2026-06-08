@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 13 | 28 |
+| spacenews | 2 | 4 | 14 | 29 |
 | nyt | 0 | 0 | 14 | 27 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
@@ -2469,3 +2469,4 @@
 - **Jun 08, 01:04 AM** - HASC NDAA markup challenges Space Force on satellite programs (spacenews)
 - **Jun 08, 01:39 AM** - How AI is shaping the future of geospatial intelligence (breaking_defense)
 - **Jun 08, 02:15 AM** - SpaceX IPO to Be Largest Ever at $135 Share Price (nyt)
+- **Jun 08, 02:49 AM** - Global SSA Market to Reach $61B as Governments Prioritize Space Security, Resilience, and Orbital Safety (spacenews)
