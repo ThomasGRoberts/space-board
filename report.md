@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 4 | 14 | 28 |
+| spacenews | 2 | 4 | 14 | 29 |
 | nyt | 0 | 0 | 14 | 27 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
@@ -2475,3 +2475,4 @@
 - **Jun 08, 04:34 AM** - Global SSA Market to Reach $61B as Governments Prioritize Space Security, Resilience, and Orbital Safety (spacenews)
 - **Jun 08, 05:09 AM** - National security launch schedule not likely impacted by New Glenn disaster (breaking_defense)
 - **Jun 08, 05:44 AM** - Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand (nyt)
+- **Jun 08, 06:19 AM** - The Exploration Company completes drop test of Nyx capsule (spacenews)
