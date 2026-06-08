@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 11 | 17 | 31 |
+| spacenews | 8 | 11 | 18 | 32 |
 | nyt | 0 | 0 | 12 | 25 |
 | breaking_defense | 0 | 0 | 12 | 25 |
 
@@ -2503,3 +2503,4 @@
 - **Jun 08, 08:59 PM** - NASA to select new headquarters building by end of year (spacenews)
 - **Jun 08, 09:34 PM** - SpaceX IPO to Be Largest Ever at $135 Share Price (nyt)
 - **Jun 08, 10:09 PM** - How AI is shaping the future of geospatial intelligence (breaking_defense)
+- **Jun 08, 10:43 PM** - Blue Origin seeks to resume New Glenn launches by year’s end (spacenews)
