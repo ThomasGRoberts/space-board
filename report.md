@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 11 | 17 | 31 |
 | nyt | 0 | 0 | 12 | 25 |
-| breaking_defense | 0 | 0 | 12 | 25 |
+| breaking_defense | 0 | 0 | 12 | 26 |
 
 # Shown Order
 
@@ -2499,3 +2499,4 @@
 - **Jun 08, 06:39 PM** - HASC NDAA markup challenges Space Force on satellite programs (spacenews)
 - **Jun 08, 07:14 PM** - FCC lets Amazon Leo miss deployment deadline with temporary spectrum penalty (spacenews)
 - **Jun 08, 07:49 PM** - SpaceX IPO to Be Largest Ever at $135 Share Price (nyt)
+- **Jun 08, 08:24 PM** - Army, J-7 to test new sensor with high-altitude balloon in coming days (breaking_defense)
