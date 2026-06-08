@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 11 | 17 | 31 |
-| nyt | 0 | 0 | 11 | 25 |
+| nyt | 0 | 0 | 12 | 26 |
 | breaking_defense | 0 | 0 | 12 | 25 |
 
 # Shown Order
@@ -2491,3 +2491,4 @@
 - **Jun 08, 01:59 PM** - How AI is shaping the future of geospatial intelligence (breaking_defense)
 - **Jun 08, 02:34 PM** - Quantum Space to go public in SPAC deal (spacenews)
 - **Jun 08, 03:09 PM** - Russia is jamming GPS from space  (spacenews)
+- **Jun 08, 03:44 PM** - Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand (nyt)
