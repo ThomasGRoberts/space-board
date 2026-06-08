@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 11 | 16 | 31 |
 | nyt | 0 | 0 | 12 | 25 |
-| breaking_defense | 0 | 0 | 12 | 25 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2492,3 +2492,4 @@
 - **Jun 08, 02:34 PM** - Quantum Space to go public in SPAC deal (spacenews)
 - **Jun 08, 03:09 PM** - Russia is jamming GPS from space  (spacenews)
 - **Jun 08, 03:44 PM** - Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand (nyt)
+- **Jun 08, 04:19 PM** - Northrop Grumman partners with Apex for 2027 SBI demo (breaking_defense)
