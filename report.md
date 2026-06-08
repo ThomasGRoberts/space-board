@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 11 | 17 | 31 |
 | nyt | 0 | 0 | 12 | 25 |
-| breaking_defense | 0 | 0 | 12 | 25 |
+| breaking_defense | 0 | 0 | 12 | 26 |
 
 # Shown Order
 
@@ -2502,3 +2502,4 @@
 - **Jun 08, 08:24 PM** - Army, J-7 to test new sensor with high-altitude balloon in coming days (breaking_defense)
 - **Jun 08, 08:59 PM** - NASA to select new headquarters building by end of year (spacenews)
 - **Jun 08, 09:34 PM** - SpaceX IPO to Be Largest Ever at $135 Share Price (nyt)
+- **Jun 08, 10:09 PM** - How AI is shaping the future of geospatial intelligence (breaking_defense)
