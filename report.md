@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 9 | 16 | 30 |
 | nyt | 0 | 0 | 12 | 26 |
-| breaking_defense | 0 | 0 | 12 | 25 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2488,3 +2488,4 @@
 - **Jun 08, 12:14 PM** - How AI is shaping the future of geospatial intelligence (breaking_defense)
 - **Jun 08, 12:49 PM** - SpaceX IPO to Be Largest Ever at $135 Share Price (nyt)
 - **Jun 08, 01:24 PM** - WRC-27: the next arena for U.S.-China space competition (spacenews)
+- **Jun 08, 01:59 PM** - How AI is shaping the future of geospatial intelligence (breaking_defense)
