@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 11 | 18 | 31 |
-| nyt | 0 | 0 | 11 | 25 |
+| nyt | 0 | 0 | 12 | 26 |
 | breaking_defense | 0 | 0 | 12 | 25 |
 
 # Shown Order
@@ -2501,3 +2501,4 @@
 - **Jun 08, 07:49 PM** - SpaceX IPO to Be Largest Ever at $135 Share Price (nyt)
 - **Jun 08, 08:24 PM** - Army, J-7 to test new sensor with high-altitude balloon in coming days (breaking_defense)
 - **Jun 08, 08:59 PM** - NASA to select new headquarters building by end of year (spacenews)
+- **Jun 08, 09:34 PM** - SpaceX IPO to Be Largest Ever at $135 Share Price (nyt)
