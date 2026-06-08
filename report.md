@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 5 | 15 | 29 |
+| spacenews | 4 | 6 | 16 | 30 |
 | nyt | 0 | 0 | 13 | 26 |
 | breaking_defense | 0 | 0 | 12 | 26 |
 
@@ -2477,3 +2477,4 @@
 - **Jun 08, 05:44 AM** - Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand (nyt)
 - **Jun 08, 06:19 AM** - The Exploration Company completes drop test of Nyx capsule (spacenews)
 - **Jun 08, 06:58 AM** - OQ Technology plans direct-to-smartphone demo with cellular spectrum (spacenews)
+- **Jun 08, 07:34 AM** - UK startup NewOrbit raises $18.5 million in Series A round (spacenews)
