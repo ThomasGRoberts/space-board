@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 9 | 15 | 30 |
+| spacenews | 6 | 10 | 16 | 31 |
 | nyt | 0 | 0 | 12 | 25 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
@@ -2489,3 +2489,4 @@
 - **Jun 08, 12:49 PM** - SpaceX IPO to Be Largest Ever at $135 Share Price (nyt)
 - **Jun 08, 01:24 PM** - WRC-27: the next arena for U.S.-China space competition (spacenews)
 - **Jun 08, 01:59 PM** - How AI is shaping the future of geospatial intelligence (breaking_defense)
+- **Jun 08, 02:34 PM** - Quantum Space to go public in SPAC deal (spacenews)

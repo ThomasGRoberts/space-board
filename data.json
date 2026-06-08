@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-08T00:04:26.286738+00:00",
-    "trigger_count": 6,
-    "current_item_id": "bb8e5670fd963f0acdb0d21af22971fa",
+    "trigger_count": 0,
+    "current_item_id": "98cf3fab391cd0ab4b60add3236e5560",
     "data": [
         {
             "id": "e9a9b74778fac3b5f3dae0538a806a12",
@@ -8038,6 +8038,18 @@
             "fetched_datetime": "2026-06-08T13:24:40.595687Z",
             "shown_at": [
                 "2026-06-08T13:24:41.458595Z"
+            ]
+        },
+        {
+            "id": "98cf3fab391cd0ab4b60add3236e5560",
+            "source": "spacenews",
+            "text": "Quantum Space to go public in SPAC deal",
+            "source_link": "https://spacenews.com/quantum-space-to-go-public-in-spac-deal/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-08T14:34:48.704280Z",
+            "shown_at": [
+                "2026-06-08T14:34:49.504785Z"
             ]
         }
     ]
