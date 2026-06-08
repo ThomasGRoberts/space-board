@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 10 | 17 | 30 |
+| spacenews | 7 | 10 | 16 | 30 |
 | nyt | 0 | 0 | 12 | 26 |
-| breaking_defense | 0 | 0 | 12 | 25 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2495,3 +2495,4 @@
 - **Jun 08, 04:19 PM** - Northrop Grumman partners with Apex for 2027 SBI demo (breaking_defense)
 - **Jun 08, 04:54 PM** - Blue Origin seeks to resume New Glenn launches by year’s end (spacenews)
 - **Jun 08, 05:29 PM** - Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand (nyt)
+- **Jun 08, 06:04 PM** - Army, J-7 to test new sensor with high-altitude balloon in coming days (breaking_defense)
