@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 6 | 15 | 29 |
+| spacenews | 4 | 6 | 16 | 30 |
 | nyt | 0 | 0 | 13 | 26 |
 | breaking_defense | 0 | 0 | 12 | 26 |
 
@@ -2480,3 +2480,4 @@
 - **Jun 08, 07:34 AM** - UK startup NewOrbit raises $18.5 million in Series A round (spacenews)
 - **Jun 08, 08:09 AM** - Army, J-7 to test new sensor with high-altitude balloon in coming days (breaking_defense)
 - **Jun 08, 08:44 AM** - Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand (nyt)
+- **Jun 08, 09:19 AM** - The importance of determining an equilibrium state for space traffic management (spacenews)
