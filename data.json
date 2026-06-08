@@ -1,9 +1,46 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-06-07T00:04:40.362206+00:00",
-    "trigger_count": 1,
+    "last_run_datetime": "2026-06-08T00:04:26.286738+00:00",
+    "trigger_count": 2,
     "current_item_id": "bb8e5670fd963f0acdb0d21af22971fa",
     "data": [
+        {
+            "id": "e9a9b74778fac3b5f3dae0538a806a12",
+            "source": "spacenews",
+            "text": "NASA to select new headquarters building by end of year",
+            "source_link": "https://spacenews.com/nasa-to-select-new-headquarters-building-by-end-of-year/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-07T14:29:11.610976Z",
+            "shown_at": [
+                "2026-06-07T14:29:13.485279Z"
+            ]
+        },
+        {
+            "id": "df90bc4997d4a95361a1b4c0b2e09ddc",
+            "source": "spacenews",
+            "text": "Rounding up the space unicorns",
+            "source_link": "https://spacenews.com/rounding-up-the-space-unicorns/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-07T11:34:33.313010Z",
+            "shown_at": [
+                "2026-06-07T11:34:34.069479Z"
+            ]
+        },
+        {
+            "id": "a5d7308b2cd19fe03f1e82c8e962dbbf",
+            "source": "spacenews",
+            "text": "NASA interested in Hubble reboost if costs can be reduced",
+            "source_link": "https://spacenews.com/nasa-interested-in-hubble-reboost-if-costs-can-be-reduced/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-07T00:54:14.060064Z",
+            "shown_at": [
+                "2026-06-07T00:54:15.935500Z",
+                "2026-06-07T09:49:25.805584Z"
+            ]
+        },
         {
             "id": "3cc224dcbd92c3d72f204bf843b632cf",
             "source": "spacenews",
@@ -7922,85 +7959,6 @@
                 "2026-04-06T07:09:42.890289Z",
                 "2026-04-07T23:49:36.620598Z",
                 "2026-04-08T16:49:27.424875Z"
-            ]
-        },
-        {
-            "id": "37a712503039945a55a31f4dc8f8486e",
-            "source": "spacenews",
-            "text": "SpaceX and Amazon spar over satellite deployments",
-            "source_link": "https://spacenews.com/spacex-and-amazon-spar-over-satellite-deployments/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-03T11:49:01.450042Z",
-            "shown_at": [
-                "2026-04-03T11:49:03.037477Z",
-                "2026-04-07T19:44:26.642884Z"
-            ]
-        },
-        {
-            "id": "8b5429aa640ca4673026e1752d4dd6af",
-            "source": "spacenews",
-            "text": "Europe’s strategic autonomy in space will define its role in the ‘second space age’",
-            "source_link": "https://spacenews.com/europes-strategic-autonomy-in-space-will-define-its-role-in-the-second-space-age/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-03T11:09:17.123019Z",
-            "shown_at": [
-                "2026-04-03T11:09:18.980867Z",
-                "2026-04-04T12:59:17.483050Z",
-                "2026-04-07T00:59:24.708839Z"
-            ]
-        },
-        {
-            "id": "5e138bfdca80af636e8442273ede679e",
-            "source": "spacenews",
-            "text": "China’s commercial Tianlong-3 rocket fails on debut launch",
-            "source_link": "https://spacenews.com/chinas-commercial-tianlong-3-rocket-fails-on-debut-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-03T10:34:41.776626Z",
-            "shown_at": [
-                "2026-04-03T10:34:43.685160Z",
-                "2026-04-03T21:44:16.142634Z",
-                "2026-04-05T09:29:16.103689Z",
-                "2026-04-08T04:29:21.999703Z"
-            ]
-        },
-        {
-            "id": "a5d7308b2cd19fe03f1e82c8e962dbbf",
-            "source": "spacenews",
-            "text": "NASA interested in Hubble reboost if costs can be reduced",
-            "source_link": "https://spacenews.com/nasa-interested-in-hubble-reboost-if-costs-can-be-reduced/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-07T00:54:14.060064Z",
-            "shown_at": [
-                "2026-06-07T00:54:15.935500Z",
-                "2026-06-07T09:49:25.805584Z"
-            ]
-        },
-        {
-            "id": "df90bc4997d4a95361a1b4c0b2e09ddc",
-            "source": "spacenews",
-            "text": "Rounding up the space unicorns",
-            "source_link": "https://spacenews.com/rounding-up-the-space-unicorns/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-07T11:34:33.313010Z",
-            "shown_at": [
-                "2026-06-07T11:34:34.069479Z"
-            ]
-        },
-        {
-            "id": "e9a9b74778fac3b5f3dae0538a806a12",
-            "source": "spacenews",
-            "text": "NASA to select new headquarters building by end of year",
-            "source_link": "https://spacenews.com/nasa-to-select-new-headquarters-building-by-end-of-year/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-07T14:29:11.610976Z",
-            "shown_at": [
-                "2026-06-07T14:29:13.485279Z"
             ]
         }
     ]
