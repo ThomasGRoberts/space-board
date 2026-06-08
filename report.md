@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 11 | 18 | 31 |
-| nyt | 0 | 0 | 11 | 25 |
+| spacenews | 8 | 11 | 17 | 31 |
+| nyt | 0 | 0 | 12 | 26 |
 | breaking_defense | 0 | 0 | 12 | 25 |
 
 # Shown Order
@@ -2504,3 +2504,4 @@
 - **Jun 08, 09:34 PM** - SpaceX IPO to Be Largest Ever at $135 Share Price (nyt)
 - **Jun 08, 10:09 PM** - How AI is shaping the future of geospatial intelligence (breaking_defense)
 - **Jun 08, 10:43 PM** - Blue Origin seeks to resume New Glenn launches by year’s end (spacenews)
+- **Jun 08, 11:19 PM** - Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand (nyt)
