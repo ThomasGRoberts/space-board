@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-09T00:04:50.885450+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6b1b267d805a434ea2bc44716ad34f55",
+    "trigger_count": 0,
+    "current_item_id": "29979c6902cacf3ba8836a642ac96049",
     "data": [
         {
             "id": "cf36d5f0ace94c4cc0679bf19373b35f",
@@ -8077,9 +8077,12 @@
             "source": "nyt",
             "text": "How Does the Blue Origin Rocket Explosion affect NASA’s Moon Plans?",
             "source_link": "https://www.nytimes.com/2026/06/09/science/space/blue-origin-explosion-nasa-artemis-iii.html",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-06-09T14:44:45.651627Z"
+            "fetched_datetime": "2026-06-09T14:44:45.651627Z",
+            "shown_at": [
+                "2026-06-09T15:55:05.780183Z"
+            ]
         },
         {
             "id": "6c4a3a361394b277d57c635b4e8885b2",

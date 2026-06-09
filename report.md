@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 18 | 35 |
-| nyt | 3 | 3 | 11 | 23 |
+| nyt | 3 | 3 | 12 | 24 |
 | breaking_defense | 0 | 0 | 11 | 23 |
 
 # Shown Order
@@ -2500,3 +2500,4 @@
 - **Jun 09, 02:09 PM** - Iceye raises 1 billion euros to expand SAR satellite systems (spacenews)
 - **Jun 09, 02:44 PM** - Who gets to be a NASA astronaut? (nyt)
 - **Jun 09, 03:19 PM** - Warren AI™ Risk analysis engine Is now Live: Building The Risk Intelligence Infrastructure Layer for The Space Economy  (spacenews)
+- **Jun 09, 03:55 PM** - How Does the Blue Origin Rocket Explosion affect NASA’s Moon Plans? (nyt)
