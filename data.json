@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-09T00:04:50.885450+00:00",
-    "trigger_count": 6,
-    "current_item_id": "eb551f9a35d2a4b8b8684fa492f39813",
+    "trigger_count": 0,
+    "current_item_id": "daec9ddad223a9fda2a36797a9b5b472",
     "data": [
         {
             "id": "cf36d5f0ace94c4cc0679bf19373b35f",
@@ -8167,6 +8167,18 @@
             "shown": false,
             "type": "news",
             "fetched_datetime": "2026-06-09T17:04:55.878003Z"
+        },
+        {
+            "id": "daec9ddad223a9fda2a36797a9b5b472",
+            "source": "breaking_defense",
+            "text": "NRO funds BlackSky for new satellites, AI-optimized image detection system",
+            "source_link": "https://breakingdefense.com/2026/06/nro-funds-blacksky-for-new-satellites-ai-optimized-image-detection-system/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-09T18:14:22.464396Z",
+            "shown_at": [
+                "2026-06-09T18:14:23.292264Z"
+            ]
         }
     ]
 }

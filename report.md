@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 17 | 33 |
 | nyt | 9 | 9 | 14 | 26 |
-| breaking_defense | 0 | 0 | 9 | 22 |
+| breaking_defense | 1 | 1 | 10 | 23 |
 
 # Shown Order
 
@@ -2504,3 +2504,4 @@
 - **Jun 09, 04:29 PM** - What is the Orion spacecraft? (nyt)
 - **Jun 09, 05:04 PM** - NASA’s moon-base plans are off to a slow start. (nyt)
 - **Jun 09, 05:39 PM** - How Will the Artemis III Astronauts Train? (nyt)
+- **Jun 09, 06:14 PM** - NRO funds BlackSky for new satellites, AI-optimized image detection system (breaking_defense)
