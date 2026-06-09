@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 16 | 33 |
-| nyt | 9 | 9 | 15 | 27 |
+| nyt | 9 | 9 | 16 | 28 |
 | breaking_defense | 1 | 1 | 9 | 21 |
 
 # Shown Order
@@ -2508,3 +2508,4 @@
 - **Jun 09, 06:49 PM** - The Artemis II mission transfixed the nation. (nyt)
 - **Jun 09, 07:24 PM** - Artemis III Astronauts to Wear Prada Spacesuits (nyt)
 - **Jun 09, 07:59 PM** - NASA names crew for Artemis 3 mission to test lunar landers (spacenews)
+- **Jun 09, 08:34 PM** - Why is NASA going back to the moon? (nyt)

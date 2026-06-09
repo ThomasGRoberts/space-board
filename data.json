@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-09T00:04:50.885450+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a6885b8a2c9ab74314a69c3e121a50e0",
+    "trigger_count": 0,
+    "current_item_id": "ad68b051c527d729490b723104a6151a",
     "data": [
         {
             "id": "cf36d5f0ace94c4cc0679bf19373b35f",
@@ -8161,9 +8161,12 @@
             "source": "nyt",
             "text": "Why is NASA going back to the moon?",
             "source_link": "https://www.nytimes.com/live/2026/06/09/science/nasa-artemis-iii-astronauts/why-is-nasa-going-back-to-the-moon",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-06-09T17:04:55.877984Z"
+            "fetched_datetime": "2026-06-09T17:04:55.877984Z",
+            "shown_at": [
+                "2026-06-09T20:34:26.535991Z"
+            ]
         },
         {
             "id": "d2f52b70b41119d9c3e90c40ca3dca2b",
