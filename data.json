@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-09T00:04:50.885450+00:00",
-    "trigger_count": 6,
-    "current_item_id": "dcabb72735ffd93a44929e90cbc9c720",
+    "trigger_count": 0,
+    "current_item_id": "542574116215760d03722ddca758a32e",
     "data": [
         {
             "id": "cf36d5f0ace94c4cc0679bf19373b35f",
@@ -8017,9 +8017,12 @@
             "source": "spacenews",
             "text": "Let’s procure in-orbit services like Earth observation data and services",
             "source_link": "https://spacenews.com/lets-procure-in-orbit-services-like-earth-observation-data-and-services/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-06-09T11:14:23.671907Z"
+            "fetched_datetime": "2026-06-09T11:14:23.671907Z",
+            "shown_at": [
+                "2026-06-09T12:24:26.559673Z"
+            ]
         }
     ]
 }
