@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-09T00:04:50.885450+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6c4a3a361394b277d57c635b4e8885b2",
+    "trigger_count": 0,
+    "current_item_id": "e4f975a35112b0eccbacab3dbf7db3ab",
     "data": [
         {
             "id": "cf36d5f0ace94c4cc0679bf19373b35f",
@@ -8107,6 +8107,63 @@
             "shown_at": [
                 "2026-06-09T15:19:36.645375Z"
             ]
+        },
+        {
+            "id": "e4f975a35112b0eccbacab3dbf7db3ab",
+            "source": "nyt",
+            "text": "NASA’s moon-base plans are off to a slow start.",
+            "source_link": "https://www.nytimes.com/live/2026/06/09/science/nasa-artemis-iii-astronauts/nasa-moon-base",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-09T17:04:55.877891Z",
+            "shown_at": [
+                "2026-06-09T17:04:56.869094Z"
+            ]
+        },
+        {
+            "id": "eb551f9a35d2a4b8b8684fa492f39813",
+            "source": "nyt",
+            "text": "How Will the Artemis III Astronauts Train?",
+            "source_link": "https://www.nytimes.com/2026/06/09/science/space/artemis-iii-astronauts-training.html",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-06-09T17:04:55.877924Z"
+        },
+        {
+            "id": "28621afcebef49da8433848e74b59988",
+            "source": "nyt",
+            "text": "The Artemis II mission transfixed the nation.",
+            "source_link": "https://www.nytimes.com/live/2026/06/09/science/nasa-artemis-iii-astronauts/the-artemis-ii-mission-transfixed-the-nation",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-06-09T17:04:55.877946Z"
+        },
+        {
+            "id": "a418d7661d98e4be9ece479bffdafc74",
+            "source": "nyt",
+            "text": "Artemis III Astronauts to Wear Prada Spacesuits",
+            "source_link": "https://www.nytimes.com/2026/06/09/science/space/prada-axiom-lcvg-artemis-iii.html",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-06-09T17:04:55.877965Z"
+        },
+        {
+            "id": "ad68b051c527d729490b723104a6151a",
+            "source": "nyt",
+            "text": "Why is NASA going back to the moon?",
+            "source_link": "https://www.nytimes.com/live/2026/06/09/science/nasa-artemis-iii-astronauts/why-is-nasa-going-back-to-the-moon",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-06-09T17:04:55.877984Z"
+        },
+        {
+            "id": "d2f52b70b41119d9c3e90c40ca3dca2b",
+            "source": "nyt",
+            "text": "Remember Apollo 9? No? Have a Look at Artemis III.",
+            "source_link": "https://www.nytimes.com/2026/06/09/science/space/apollo-9-nasa.html",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-06-09T17:04:55.878003Z"
         }
     ]
 }

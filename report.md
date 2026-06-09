@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 17 | 34 |
-| nyt | 3 | 3 | 13 | 25 |
+| nyt | 9 | 9 | 14 | 26 |
 | breaking_defense | 0 | 0 | 10 | 22 |
 
 # Shown Order
@@ -2502,3 +2502,4 @@
 - **Jun 09, 03:19 PM** - Warren AI™ Risk analysis engine Is now Live: Building The Risk Intelligence Infrastructure Layer for The Space Economy  (spacenews)
 - **Jun 09, 03:55 PM** - How Does the Blue Origin Rocket Explosion affect NASA’s Moon Plans? (nyt)
 - **Jun 09, 04:29 PM** - What is the Orion spacecraft? (nyt)
+- **Jun 09, 05:04 PM** - NASA’s moon-base plans are off to a slow start. (nyt)
