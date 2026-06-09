@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 10 | 18 | 31 |
-| nyt | 0 | 0 | 11 | 25 |
+| nyt | 0 | 0 | 12 | 26 |
 | breaking_defense | 0 | 0 | 12 | 25 |
 
 # Shown Order
@@ -2484,3 +2484,4 @@
 - **Jun 09, 04:34 AM** - SpaceX IPO to Be Largest Ever at $135 Share Price (nyt)
 - **Jun 09, 05:09 AM** - Army, J-7 to test new sensor with high-altitude balloon in coming days (breaking_defense)
 - **Jun 09, 05:44 AM** - Astronauts briefly shelter in Dragon during ISS leak repair (spacenews)
+- **Jun 09, 06:19 AM** - Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand (nyt)
