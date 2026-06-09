@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-09T00:04:50.885450+00:00",
-    "trigger_count": 6,
-    "current_item_id": "28621afcebef49da8433848e74b59988",
+    "trigger_count": 0,
+    "current_item_id": "a418d7661d98e4be9ece479bffdafc74",
     "data": [
         {
             "id": "cf36d5f0ace94c4cc0679bf19373b35f",
@@ -8149,9 +8149,12 @@
             "source": "nyt",
             "text": "Artemis III Astronauts to Wear Prada Spacesuits",
             "source_link": "https://www.nytimes.com/2026/06/09/science/space/prada-axiom-lcvg-artemis-iii.html",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-06-09T17:04:55.877965Z"
+            "fetched_datetime": "2026-06-09T17:04:55.877965Z",
+            "shown_at": [
+                "2026-06-09T19:24:57.785856Z"
+            ]
         },
         {
             "id": "ad68b051c527d729490b723104a6151a",

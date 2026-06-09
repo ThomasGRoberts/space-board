@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 15 | 15 | 33 |
-| nyt | 9 | 9 | 15 | 26 |
+| nyt | 9 | 9 | 16 | 27 |
 | breaking_defense | 1 | 1 | 10 | 22 |
 
 # Shown Order
@@ -2506,3 +2506,4 @@
 - **Jun 09, 05:39 PM** - How Will the Artemis III Astronauts Train? (nyt)
 - **Jun 09, 06:14 PM** - NRO funds BlackSky for new satellites, AI-optimized image detection system (breaking_defense)
 - **Jun 09, 06:49 PM** - The Artemis II mission transfixed the nation. (nyt)
+- **Jun 09, 07:24 PM** - Artemis III Astronauts to Wear Prada Spacesuits (nyt)
