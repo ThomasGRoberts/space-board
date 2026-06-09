@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-09T00:04:50.885450+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a418d7661d98e4be9ece479bffdafc74",
+    "trigger_count": 0,
+    "current_item_id": "a6885b8a2c9ab74314a69c3e121a50e0",
     "data": [
         {
             "id": "cf36d5f0ace94c4cc0679bf19373b35f",
@@ -8184,6 +8184,18 @@
             "fetched_datetime": "2026-06-09T18:14:22.464396Z",
             "shown_at": [
                 "2026-06-09T18:14:23.292264Z"
+            ]
+        },
+        {
+            "id": "a6885b8a2c9ab74314a69c3e121a50e0",
+            "source": "spacenews",
+            "text": "NASA names crew for Artemis 3 mission to test lunar landers",
+            "source_link": "https://spacenews.com/nasa-names-crew-for-artemis-3-mission-to-test-lunar-landers/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-09T19:59:26.452328Z",
+            "shown_at": [
+                "2026-06-09T19:59:29.017615Z"
             ]
         }
     ]
