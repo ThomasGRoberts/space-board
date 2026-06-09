@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-09T00:04:50.885450+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1bcdb998e1906fad018f8b88e70ea47f",
+    "trigger_count": 0,
+    "current_item_id": "31de1281b510b790537b6a8de35cbb32",
     "data": [
         {
             "id": "cf36d5f0ace94c4cc0679bf19373b35f",
@@ -8233,9 +8233,12 @@
             "source": "nyt",
             "text": "Can NASA Really Land Astronauts on the Moon by 2028?",
             "source_link": "https://www.nytimes.com/2026/06/09/science/space/nasa-artemis-moon-landing.html",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-06-09T22:19:32.912526Z"
+            "fetched_datetime": "2026-06-09T22:19:32.912526Z",
+            "shown_at": [
+                "2026-06-09T22:53:58.496797Z"
+            ]
         }
     ]
 }
