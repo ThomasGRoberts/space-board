@@ -1,9 +1,105 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-06-08T00:04:26.286738+00:00",
-    "trigger_count": 1,
+    "last_run_datetime": "2026-06-09T00:04:50.885450+00:00",
+    "trigger_count": 2,
     "current_item_id": "bb8e5670fd963f0acdb0d21af22971fa",
     "data": [
+        {
+            "id": "cf36d5f0ace94c4cc0679bf19373b35f",
+            "source": "spacenews",
+            "text": "FCC lets Amazon Leo miss deployment deadline with temporary spectrum penalty",
+            "source_link": "https://spacenews.com/fcc-lets-amazon-leo-miss-deployment-deadline-with-temporary-spectrum-penalty/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-08T19:14:31.588336Z",
+            "shown_at": [
+                "2026-06-08T19:14:32.355536Z"
+            ]
+        },
+        {
+            "id": "47a12231c257bb6927986a5026e83da9",
+            "source": "spacenews",
+            "text": "Russia is jamming GPS from space ",
+            "source_link": "https://spacenews.com/russia-is-jamming-gps-from-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-08T15:09:47.243520Z",
+            "shown_at": [
+                "2026-06-08T15:09:48.207112Z"
+            ]
+        },
+        {
+            "id": "98cf3fab391cd0ab4b60add3236e5560",
+            "source": "spacenews",
+            "text": "Quantum Space to go public in SPAC deal",
+            "source_link": "https://spacenews.com/quantum-space-to-go-public-in-spac-deal/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-08T14:34:48.704280Z",
+            "shown_at": [
+                "2026-06-08T14:34:49.504785Z"
+            ]
+        },
+        {
+            "id": "9c0a02442f50d5d5122769bcf5e0ce6a",
+            "source": "spacenews",
+            "text": "WRC-27: the next arena for U.S.-China space competition",
+            "source_link": "https://spacenews.com/wrc-27-the-next-arena-for-u-s-china-space-competition/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-08T13:24:40.595687Z",
+            "shown_at": [
+                "2026-06-08T13:24:41.458595Z"
+            ]
+        },
+        {
+            "id": "525a82f5357ada7c825bff8216ebd83b",
+            "source": "spacenews",
+            "text": "Axiom and Prada advance design of spacesuit",
+            "source_link": "https://spacenews.com/axiom-and-prada-advance-design-of-spacesuit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-08T11:39:20.462707Z",
+            "shown_at": [
+                "2026-06-08T11:39:23.107789Z"
+            ]
+        },
+        {
+            "id": "cfe4238e39cdef25947763beba59c83a",
+            "source": "spacenews",
+            "text": "Speed as a Strategic Advantage in Border Monitoring",
+            "source_link": "https://spacenews.com/speed-as-a-strategic-advantage-in-border-monitoring/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-08T11:05:07.093227Z",
+            "shown_at": [
+                "2026-06-08T11:05:09.464557Z"
+            ]
+        },
+        {
+            "id": "bbd65cc2c3ca655753cb49ae65f73d7e",
+            "source": "spacenews",
+            "text": "UK startup NewOrbit raises $18.5 million in Series A round",
+            "source_link": "https://spacenews.com/uk-startup-neworbit-raises-18-5-million-in-series-a-round/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-08T07:34:31.035600Z",
+            "shown_at": [
+                "2026-06-08T07:34:32.457938Z"
+            ]
+        },
+        {
+            "id": "1679077eb5d3029b52296f3b357a7cb7",
+            "source": "spacenews",
+            "text": "OQ Technology plans direct-to-smartphone demo with cellular spectrum",
+            "source_link": "https://spacenews.com/oq-technology-plans-direct-to-smartphone-demo-with-cellular-spectrum/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-08T06:58:50.934529Z",
+            "shown_at": [
+                "2026-06-08T06:58:51.644018Z"
+            ]
+        },
         {
             "id": "e9a9b74778fac3b5f3dae0538a806a12",
             "source": "spacenews",
@@ -7872,222 +7968,6 @@
                 "2026-04-04T09:29:06.624452Z",
                 "2026-04-05T13:34:27.407672Z",
                 "2026-04-06T17:04:37.578296Z"
-            ]
-        },
-        {
-            "id": "69e19e1433ba9670b1e1b8f6e4e228f4",
-            "source": "spacenews",
-            "text": "Artemis 2 in good shape cruising towards the moon",
-            "source_link": "https://spacenews.com/artemis-2-in-good-shape-cruising-towards-the-moon/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-04T01:19:04.152311Z",
-            "shown_at": [
-                "2026-04-04T01:19:04.801512Z",
-                "2026-04-05T23:34:29.790715Z"
-            ]
-        },
-        {
-            "id": "aa8a23531fb90f52851ebf659e76c295",
-            "source": "nyt",
-            "text": "NASA’s Artemis II Astronauts Took iPhones Into Space",
-            "source_link": "https://www.nytimes.com/2026/04/03/technology/iphones-artemis-nasa.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-03T21:09:04.643702Z",
-            "shown_at": [
-                "2026-04-03T21:09:05.986873Z",
-                "2026-04-03T23:29:09.831891Z",
-                "2026-04-08T20:54:17.915130Z",
-                "2026-04-09T15:34:35.680167Z",
-                "2026-04-09T20:34:51.361545Z",
-                "2026-04-10T03:34:29.437469Z",
-                "2026-04-10T10:44:23.533714Z"
-            ]
-        },
-        {
-            "id": "b0d73ebfe5c00867769f5412f18d9998",
-            "source": "nyt",
-            "text": "How iPhones Found Their Way Into Space",
-            "source_link": "https://www.nytimes.com/2026/04/03/technology/iphones-artemis-nasa.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-03T20:34:26.971719Z",
-            "shown_at": [
-                "2026-04-03T20:34:28.406534Z"
-            ]
-        },
-        {
-            "id": "2d7b7104db32c74e83733c4e15293186",
-            "source": "nyt",
-            "text": "Artemis II Pilot Test Drove the Orion Capsule on the Way to the Moon",
-            "source_link": "https://www.nytimes.com/2026/04/03/science/nasa-artemis-ii-demonstration-moon-pilot.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-03T19:24:19.964968Z",
-            "shown_at": [
-                "2026-04-03T19:24:21.062415Z",
-                "2026-04-07T00:24:30.255079Z",
-                "2026-04-09T07:34:27.782562Z",
-                "2026-04-09T08:44:19.030818Z",
-                "2026-04-10T05:54:25.828950Z",
-                "2026-04-10T08:24:31.673704Z",
-                "2026-04-10T16:34:26.035369Z"
-            ]
-        },
-        {
-            "id": "b5a17034f2eaec624529e9ff062aff25",
-            "source": "spacenews",
-            "text": "Italy’s Argotec plans to scale Florida satellite facility to meet rising US demand",
-            "source_link": "https://spacenews.com/italys-argotec-plans-to-scale-florida-satellite-facility-to-meet-rising-us-demand/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-03T18:49:17.253004Z",
-            "shown_at": [
-                "2026-04-03T18:49:18.300466Z",
-                "2026-04-04T23:29:08.400570Z",
-                "2026-04-07T16:14:30.863272Z"
-            ]
-        },
-        {
-            "id": "9f4892d7f37fca5507bc188e85d0dc8d",
-            "source": "nyt",
-            "text": "Artemis II Pilot Took a Test Drive on the Way to the Moon",
-            "source_link": "https://www.nytimes.com/2026/04/03/science/nasa-artemis-ii-demonstration-moon-pilot.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-03T18:14:38.817067Z",
-            "shown_at": [
-                "2026-04-03T18:14:39.704729Z",
-                "2026-04-05T19:29:50.247344Z",
-                "2026-04-06T01:19:13.822727Z",
-                "2026-04-09T00:24:24.337004Z",
-                "2026-04-10T02:24:19.911975Z"
-            ]
-        },
-        {
-            "id": "3a5c263beb642f434b43fe9e84ccb210",
-            "source": "nyt",
-            "text": "NASA Unveils 1st Earth Photos From Artemis II Moon Mission: ‘You Look Beautiful.’",
-            "source_link": "https://www.nytimes.com/2026/04/03/science/nasa-artemis-moon-photos.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-03T17:04:44.725104Z",
-            "shown_at": [
-                "2026-04-03T17:04:46.193250Z",
-                "2026-04-05T08:54:14.574131Z",
-                "2026-04-10T07:14:23.005571Z"
-            ]
-        },
-        {
-            "id": "b831735b22dfa37ebb2d5766dbf1007b",
-            "source": "spacenews",
-            "text": "White House again proposes steep NASA budget cuts",
-            "source_link": "https://spacenews.com/white-house-again-proposes-steep-nasa-budget-cuts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-03T15:54:24.887072Z",
-            "shown_at": [
-                "2026-04-03T15:54:26.359924Z",
-                "2026-04-06T07:09:42.890289Z",
-                "2026-04-07T23:49:36.620598Z",
-                "2026-04-08T16:49:27.424875Z"
-            ]
-        },
-        {
-            "id": "1679077eb5d3029b52296f3b357a7cb7",
-            "source": "spacenews",
-            "text": "OQ Technology plans direct-to-smartphone demo with cellular spectrum",
-            "source_link": "https://spacenews.com/oq-technology-plans-direct-to-smartphone-demo-with-cellular-spectrum/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-08T06:58:50.934529Z",
-            "shown_at": [
-                "2026-06-08T06:58:51.644018Z"
-            ]
-        },
-        {
-            "id": "bbd65cc2c3ca655753cb49ae65f73d7e",
-            "source": "spacenews",
-            "text": "UK startup NewOrbit raises $18.5 million in Series A round",
-            "source_link": "https://spacenews.com/uk-startup-neworbit-raises-18-5-million-in-series-a-round/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-08T07:34:31.035600Z",
-            "shown_at": [
-                "2026-06-08T07:34:32.457938Z"
-            ]
-        },
-        {
-            "id": "cfe4238e39cdef25947763beba59c83a",
-            "source": "spacenews",
-            "text": "Speed as a Strategic Advantage in Border Monitoring",
-            "source_link": "https://spacenews.com/speed-as-a-strategic-advantage-in-border-monitoring/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-08T11:05:07.093227Z",
-            "shown_at": [
-                "2026-06-08T11:05:09.464557Z"
-            ]
-        },
-        {
-            "id": "525a82f5357ada7c825bff8216ebd83b",
-            "source": "spacenews",
-            "text": "Axiom and Prada advance design of spacesuit",
-            "source_link": "https://spacenews.com/axiom-and-prada-advance-design-of-spacesuit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-08T11:39:20.462707Z",
-            "shown_at": [
-                "2026-06-08T11:39:23.107789Z"
-            ]
-        },
-        {
-            "id": "9c0a02442f50d5d5122769bcf5e0ce6a",
-            "source": "spacenews",
-            "text": "WRC-27: the next arena for U.S.-China space competition",
-            "source_link": "https://spacenews.com/wrc-27-the-next-arena-for-u-s-china-space-competition/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-08T13:24:40.595687Z",
-            "shown_at": [
-                "2026-06-08T13:24:41.458595Z"
-            ]
-        },
-        {
-            "id": "98cf3fab391cd0ab4b60add3236e5560",
-            "source": "spacenews",
-            "text": "Quantum Space to go public in SPAC deal",
-            "source_link": "https://spacenews.com/quantum-space-to-go-public-in-spac-deal/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-08T14:34:48.704280Z",
-            "shown_at": [
-                "2026-06-08T14:34:49.504785Z"
-            ]
-        },
-        {
-            "id": "47a12231c257bb6927986a5026e83da9",
-            "source": "spacenews",
-            "text": "Russia is jamming GPS from space ",
-            "source_link": "https://spacenews.com/russia-is-jamming-gps-from-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-08T15:09:47.243520Z",
-            "shown_at": [
-                "2026-06-08T15:09:48.207112Z"
-            ]
-        },
-        {
-            "id": "cf36d5f0ace94c4cc0679bf19373b35f",
-            "source": "spacenews",
-            "text": "FCC lets Amazon Leo miss deployment deadline with temporary spectrum penalty",
-            "source_link": "https://spacenews.com/fcc-lets-amazon-leo-miss-deployment-deadline-with-temporary-spectrum-penalty/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-08T19:14:31.588336Z",
-            "shown_at": [
-                "2026-06-08T19:14:32.355536Z"
             ]
         }
     ]
