@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 10 | 16 | 32 |
-| nyt | 0 | 0 | 12 | 25 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| spacenews | 6 | 10 | 16 | 31 |
+| nyt | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -2490,3 +2490,4 @@
 - **Jun 09, 08:04 AM** - SpaceX IPO to Be Largest Ever at $135 Share Price (nyt)
 - **Jun 09, 08:44 AM** - How AI is shaping the future of geospatial intelligence (breaking_defense)
 - **Jun 09, 09:19 AM** - AstroForge completes DeepSpace-2 spacecraft (spacenews)
+- **Jun 09, 09:59 AM** - SpaceX IPO to Be Largest Ever at $135 Share Price (nyt)
