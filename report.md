@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 11 | 17 | 31 |
+| spacenews | 8 | 11 | 18 | 32 |
 | nyt | 0 | 0 | 12 | 25 |
 | breaking_defense | 0 | 0 | 12 | 25 |
 
@@ -2474,3 +2474,4 @@
 - **Jun 08, 10:43 PM** - Blue Origin seeks to resume New Glenn launches by year’s end (spacenews)
 - **Jun 08, 11:19 PM** - Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand (nyt)
 - **Jun 08, 11:54 PM** - How AI is shaping the future of geospatial intelligence (breaking_defense)
+- **Jun 09, 12:29 AM** - NRO nominee says commercial space, AI are reshaping spy satellite agency (spacenews)
