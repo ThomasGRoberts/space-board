@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 10 | 17 | 31 |
-| nyt | 0 | 0 | 12 | 25 |
+| spacenews | 8 | 10 | 18 | 32 |
+| nyt | 0 | 0 | 11 | 25 |
 | breaking_defense | 0 | 0 | 12 | 25 |
 
 # Shown Order
@@ -2483,3 +2483,4 @@
 - **Jun 09, 03:59 AM** - NASA interested in Hubble reboost if costs can be reduced (spacenews)
 - **Jun 09, 04:34 AM** - SpaceX IPO to Be Largest Ever at $135 Share Price (nyt)
 - **Jun 09, 05:09 AM** - Army, J-7 to test new sensor with high-altitude balloon in coming days (breaking_defense)
+- **Jun 09, 05:44 AM** - Astronauts briefly shelter in Dragon during ISS leak repair (spacenews)
