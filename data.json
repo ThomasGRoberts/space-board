@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-09T00:04:50.885450+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ad68b051c527d729490b723104a6151a",
+    "trigger_count": 0,
+    "current_item_id": "d2f52b70b41119d9c3e90c40ca3dca2b",
     "data": [
         {
             "id": "cf36d5f0ace94c4cc0679bf19373b35f",
@@ -8173,9 +8173,12 @@
             "source": "nyt",
             "text": "Remember Apollo 9? No? Have a Look at Artemis III.",
             "source_link": "https://www.nytimes.com/2026/06/09/science/space/apollo-9-nasa.html",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-06-09T17:04:55.878003Z"
+            "fetched_datetime": "2026-06-09T17:04:55.878003Z",
+            "shown_at": [
+                "2026-06-09T21:09:31.327616Z"
+            ]
         },
         {
             "id": "daec9ddad223a9fda2a36797a9b5b472",

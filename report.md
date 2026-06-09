@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 15 | 33 |
-| nyt | 9 | 9 | 16 | 27 |
+| nyt | 9 | 9 | 17 | 28 |
 | breaking_defense | 1 | 1 | 9 | 21 |
 
 # Shown Order
@@ -2509,3 +2509,4 @@
 - **Jun 09, 07:24 PM** - Artemis III Astronauts to Wear Prada Spacesuits (nyt)
 - **Jun 09, 07:59 PM** - NASA names crew for Artemis 3 mission to test lunar landers (spacenews)
 - **Jun 09, 08:34 PM** - Why is NASA going back to the moon? (nyt)
+- **Jun 09, 09:09 PM** - Remember Apollo 9? No? Have a Look at Artemis III. (nyt)
