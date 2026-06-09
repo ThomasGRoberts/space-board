@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 10 | 15 | 31 |
+| spacenews | 8 | 13 | 16 | 32 |
 | nyt | 0 | 0 | 12 | 25 |
 | breaking_defense | 0 | 0 | 13 | 25 |
 
@@ -2492,3 +2492,4 @@
 - **Jun 09, 09:19 AM** - AstroForge completes DeepSpace-2 spacecraft (spacenews)
 - **Jun 09, 09:59 AM** - SpaceX IPO to Be Largest Ever at $135 Share Price (nyt)
 - **Jun 09, 10:34 AM** - Army, J-7 to test new sensor with high-altitude balloon in coming days (breaking_defense)
+- **Jun 09, 11:14 AM** - Isar Aerospace raises 270 million euros for global launch expansion (spacenews)
