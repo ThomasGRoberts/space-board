@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-09T00:04:50.885450+00:00",
-    "trigger_count": 6,
-    "current_item_id": "daec9ddad223a9fda2a36797a9b5b472",
+    "trigger_count": 0,
+    "current_item_id": "28621afcebef49da8433848e74b59988",
     "data": [
         {
             "id": "cf36d5f0ace94c4cc0679bf19373b35f",
@@ -8137,9 +8137,12 @@
             "source": "nyt",
             "text": "The Artemis II mission transfixed the nation.",
             "source_link": "https://www.nytimes.com/live/2026/06/09/science/nasa-artemis-iii-astronauts/the-artemis-ii-mission-transfixed-the-nation",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-06-09T17:04:55.877946Z"
+            "fetched_datetime": "2026-06-09T17:04:55.877946Z",
+            "shown_at": [
+                "2026-06-09T18:49:32.425902Z"
+            ]
         },
         {
             "id": "a418d7661d98e4be9ece479bffdafc74",
