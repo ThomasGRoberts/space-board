@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-09T00:04:50.885450+00:00",
-    "trigger_count": 6,
-    "current_item_id": "88dc75985bd688e20644a6f28a9e719e",
+    "trigger_count": 0,
+    "current_item_id": "ff15419bdbca69697e7280e520ab1e5d",
     "data": [
         {
             "id": "cf36d5f0ace94c4cc0679bf19373b35f",
@@ -8053,9 +8053,12 @@
             "source": "spacenews",
             "text": "Iceye raises 1 billion euros to expand SAR satellite systems",
             "source_link": "https://spacenews.com/iceye-raises-1-billion-euros-to-expand-sar-satellite-systems/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-06-09T12:58:58.438035Z"
+            "fetched_datetime": "2026-06-09T12:58:58.438035Z",
+            "shown_at": [
+                "2026-06-09T14:09:15.743811Z"
+            ]
         }
     ]
 }

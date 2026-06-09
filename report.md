@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 15 | 18 | 34 |
+| spacenews | 9 | 15 | 19 | 35 |
 | nyt | 0 | 0 | 11 | 23 |
 | breaking_defense | 0 | 0 | 11 | 24 |
 
@@ -2497,3 +2497,4 @@
 - **Jun 09, 12:24 PM** - Let’s procure in-orbit services like Earth observation data and services (spacenews)
 - **Jun 09, 12:59 PM** - BlackSky to accelerate broad-area collection work under NRO contract modification (spacenews)
 - **Jun 09, 01:34 PM** - New Glenn forced an explosive rewrite for NASA’s plans to build a moon base (spacenews)
+- **Jun 09, 02:09 PM** - Iceye raises 1 billion euros to expand SAR satellite systems (spacenews)
