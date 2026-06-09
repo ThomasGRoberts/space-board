@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 14 | 17 | 34 |
+| spacenews | 8 | 15 | 18 | 35 |
 | nyt | 3 | 3 | 12 | 24 |
 | breaking_defense | 0 | 0 | 11 | 23 |
 
@@ -2499,3 +2499,4 @@
 - **Jun 09, 01:34 PM** - New Glenn forced an explosive rewrite for NASA’s plans to build a moon base (spacenews)
 - **Jun 09, 02:09 PM** - Iceye raises 1 billion euros to expand SAR satellite systems (spacenews)
 - **Jun 09, 02:44 PM** - Who gets to be a NASA astronaut? (nyt)
+- **Jun 09, 03:19 PM** - Warren AI™ Risk analysis engine Is now Live: Building The Risk Intelligence Infrastructure Layer for The Space Economy  (spacenews)
