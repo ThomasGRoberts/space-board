@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 10 | 18 | 31 |
-| nyt | 0 | 0 | 11 | 25 |
+| nyt | 0 | 0 | 12 | 26 |
 | breaking_defense | 0 | 0 | 12 | 25 |
 
 # Shown Order
@@ -2478,3 +2478,4 @@
 - **Jun 09, 01:04 AM** - Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand (nyt)
 - **Jun 09, 01:39 AM** - Army, J-7 to test new sensor with high-altitude balloon in coming days (breaking_defense)
 - **Jun 09, 02:14 AM** - NASA concerns about Russian repairs prompted ISS safe haven decision (spacenews)
+- **Jun 09, 02:49 AM** - Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand (nyt)
