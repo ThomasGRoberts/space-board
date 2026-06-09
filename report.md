@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 10 | 17 | 31 |
 | nyt | 0 | 0 | 12 | 25 |
-| breaking_defense | 0 | 0 | 12 | 25 |
+| breaking_defense | 0 | 0 | 12 | 26 |
 
 # Shown Order
 
@@ -2482,3 +2482,4 @@
 - **Jun 09, 03:24 AM** - How AI is shaping the future of geospatial intelligence (breaking_defense)
 - **Jun 09, 03:59 AM** - NASA interested in Hubble reboost if costs can be reduced (spacenews)
 - **Jun 09, 04:34 AM** - SpaceX IPO to Be Largest Ever at $135 Share Price (nyt)
+- **Jun 09, 05:09 AM** - Army, J-7 to test new sensor with high-altitude balloon in coming days (breaking_defense)
