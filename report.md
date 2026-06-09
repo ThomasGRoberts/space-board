@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 10 | 17 | 31 |
-| nyt | 0 | 0 | 12 | 25 |
-| breaking_defense | 0 | 0 | 12 | 26 |
+| spacenews | 8 | 10 | 18 | 32 |
+| nyt | 0 | 0 | 11 | 25 |
+| breaking_defense | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -2480,3 +2480,4 @@
 - **Jun 09, 02:14 AM** - NASA concerns about Russian repairs prompted ISS safe haven decision (spacenews)
 - **Jun 09, 02:49 AM** - Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand (nyt)
 - **Jun 09, 03:24 AM** - How AI is shaping the future of geospatial intelligence (breaking_defense)
+- **Jun 09, 03:59 AM** - NASA interested in Hubble reboost if costs can be reduced (spacenews)
