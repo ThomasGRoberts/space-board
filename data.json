@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-09T00:04:50.885450+00:00",
-    "trigger_count": 6,
-    "current_item_id": "542574116215760d03722ddca758a32e",
+    "trigger_count": 0,
+    "current_item_id": "7d36f92447e0880b7dcdb52bfff162f7",
     "data": [
         {
             "id": "cf36d5f0ace94c4cc0679bf19373b35f",
@@ -8023,6 +8023,36 @@
             "shown_at": [
                 "2026-06-09T12:24:26.559673Z"
             ]
+        },
+        {
+            "id": "7d36f92447e0880b7dcdb52bfff162f7",
+            "source": "spacenews",
+            "text": "BlackSky to accelerate broad-area collection work under NRO contract modification",
+            "source_link": "https://spacenews.com/blacksky-to-accelerate-broad-area-collection-work-under-nro-contract-modification/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-09T12:58:58.437963Z",
+            "shown_at": [
+                "2026-06-09T12:59:00.125096Z"
+            ]
+        },
+        {
+            "id": "88dc75985bd688e20644a6f28a9e719e",
+            "source": "spacenews",
+            "text": "New Glenn forced an explosive rewrite for NASA’s plans to build a moon base",
+            "source_link": "https://spacenews.com/new-glenn-forced-an-explosive-rewrite-for-nasas-plans-to-build-a-moon-base/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-06-09T12:58:58.438008Z"
+        },
+        {
+            "id": "ff15419bdbca69697e7280e520ab1e5d",
+            "source": "spacenews",
+            "text": "Iceye raises 1 billion euros to expand SAR satellite systems",
+            "source_link": "https://spacenews.com/iceye-raises-1-billion-euros-to-expand-sar-satellite-systems/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-06-09T12:58:58.438035Z"
         }
     ]
 }

@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 12 | 17 | 33 |
+| spacenews | 10 | 15 | 18 | 34 |
 | nyt | 0 | 0 | 11 | 24 |
 | breaking_defense | 0 | 0 | 12 | 24 |
 
@@ -2495,3 +2495,4 @@
 - **Jun 09, 11:14 AM** - Isar Aerospace raises 270 million euros for global launch expansion (spacenews)
 - **Jun 09, 11:49 AM** - Commercial launch providers shortlisted for China’s low-cost cargo spacecraft (spacenews)
 - **Jun 09, 12:24 PM** - Let’s procure in-orbit services like Earth observation data and services (spacenews)
+- **Jun 09, 12:59 PM** - BlackSky to accelerate broad-area collection work under NRO contract modification (spacenews)
