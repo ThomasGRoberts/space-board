@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 14 | 31 |
+| spacenews | 8 | 16 | 15 | 32 |
 | nyt | 11 | 11 | 17 | 29 |
 | breaking_defense | 2 | 2 | 9 | 21 |
 
@@ -2513,3 +2513,4 @@
 - **Jun 09, 09:44 PM** - Space Force contracts Viasat, Intelsat for first of new anti-jam communication sats (breaking_defense)
 - **Jun 09, 10:19 PM** - Meet the NASA Astronauts in the Artemis III 4-Person Crew (nyt)
 - **Jun 09, 10:53 PM** - Can NASA Really Land Astronauts on the Moon by 2028? (nyt)
+- **Jun 09, 11:29 PM** - FCC lets Amazon Leo miss deployment deadline with temporary spectrum penalty (spacenews)
