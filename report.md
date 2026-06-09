@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 10 | 18 | 32 |
-| nyt | 0 | 0 | 11 | 25 |
+| spacenews | 8 | 10 | 18 | 31 |
+| nyt | 0 | 0 | 12 | 26 |
 | breaking_defense | 0 | 0 | 12 | 25 |
 
 # Shown Order
@@ -2481,3 +2481,4 @@
 - **Jun 09, 02:49 AM** - Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand (nyt)
 - **Jun 09, 03:24 AM** - How AI is shaping the future of geospatial intelligence (breaking_defense)
 - **Jun 09, 03:59 AM** - NASA interested in Hubble reboost if costs can be reduced (spacenews)
+- **Jun 09, 04:34 AM** - SpaceX IPO to Be Largest Ever at $135 Share Price (nyt)
