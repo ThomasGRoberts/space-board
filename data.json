@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-09T00:04:50.885450+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ff15419bdbca69697e7280e520ab1e5d",
+    "trigger_count": 0,
+    "current_item_id": "8f1531c5095a96468ce9e4ddef619a37",
     "data": [
         {
             "id": "cf36d5f0ace94c4cc0679bf19373b35f",
@@ -8059,6 +8059,36 @@
             "shown_at": [
                 "2026-06-09T14:09:15.743811Z"
             ]
+        },
+        {
+            "id": "8f1531c5095a96468ce9e4ddef619a37",
+            "source": "nyt",
+            "text": "Who gets to be a NASA astronaut?",
+            "source_link": "https://www.nytimes.com/live/2026/06/09/science/nasa-artemis-iii-astronauts/who-gets-to-be-a-nasa-astronaut",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-09T14:44:45.651596Z",
+            "shown_at": [
+                "2026-06-09T14:44:47.960162Z"
+            ]
+        },
+        {
+            "id": "29979c6902cacf3ba8836a642ac96049",
+            "source": "nyt",
+            "text": "How Does the Blue Origin Rocket Explosion affect NASA’s Moon Plans?",
+            "source_link": "https://www.nytimes.com/2026/06/09/science/space/blue-origin-explosion-nasa-artemis-iii.html",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-06-09T14:44:45.651627Z"
+        },
+        {
+            "id": "6c4a3a361394b277d57c635b4e8885b2",
+            "source": "nyt",
+            "text": "What is the Orion spacecraft?",
+            "source_link": "https://www.nytimes.com/live/2026/06/09/science/nasa-artemis-iii-astronauts/what-is-the-orion-spacecraft",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-06-09T14:44:45.651646Z"
         }
     ]
 }
