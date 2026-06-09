@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 15 | 32 |
 | nyt | 9 | 9 | 16 | 28 |
-| breaking_defense | 1 | 1 | 9 | 21 |
+| breaking_defense | 2 | 2 | 10 | 22 |
 
 # Shown Order
 
@@ -2510,3 +2510,4 @@
 - **Jun 09, 07:59 PM** - NASA names crew for Artemis 3 mission to test lunar landers (spacenews)
 - **Jun 09, 08:34 PM** - Why is NASA going back to the moon? (nyt)
 - **Jun 09, 09:09 PM** - Remember Apollo 9? No? Have a Look at Artemis III. (nyt)
+- **Jun 09, 09:44 PM** - Space Force contracts Viasat, Intelsat for first of new anti-jam communication sats (breaking_defense)
