@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 4 | 13 | 12 | 28 |
+| nyt | 4 | 13 | 13 | 29 |
 | breaking_defense | 3 | 4 | 10 | 19 |
-| spacenews | 9 | 17 | 17 | 33 |
+| spacenews | 9 | 17 | 17 | 32 |
 
 # Shown Order
 
@@ -2461,3 +2461,4 @@
 - **Jun 10, 07:15 PM** - Let’s procure in-orbit services like Earth observation data and services (spacenews)
 - **Jun 10, 07:49 PM** - House appropriators back $55.5 billion Space Force budget, omit reconciliation funds (spacenews)
 - **Jun 10, 08:29 PM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
+- **Jun 10, 09:04 PM** - How Does the Blue Origin Rocket Explosion affect NASA’s Moon Plans? (nyt)
