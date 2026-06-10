@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-10T00:05:09.415471+00:00",
-    "trigger_count": 6,
-    "current_item_id": "565d3173d9be6f83f04a99e50723cd24",
+    "trigger_count": 0,
+    "current_item_id": "9f9f8584d9b85de7bbb30b231a1a32ec",
     "data": [
         {
             "id": "31de1281b510b790537b6a8de35cbb32",
@@ -8000,6 +8000,18 @@
             "fetched_datetime": "2026-06-10T13:54:25.697414Z",
             "shown_at": [
                 "2026-06-10T13:54:28.224867Z"
+            ]
+        },
+        {
+            "id": "9f9f8584d9b85de7bbb30b231a1a32ec",
+            "source": "spacenews",
+            "text": "UK startup Applied Atomics to enter US market with focus on military space mobility",
+            "source_link": "https://spacenews.com/uk-startup-applied-atomics-to-enter-us-market-with-focus-on-military-space-mobility/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-10T14:29:35.030023Z",
+            "shown_at": [
+                "2026-06-10T14:29:37.496321Z"
             ]
         }
     ]

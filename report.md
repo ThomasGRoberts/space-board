@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 11 | 11 | 17 | 28 |
 | breaking_defense | 2 | 2 | 9 | 20 |
-| spacenews | 7 | 16 | 14 | 33 |
+| spacenews | 8 | 17 | 15 | 34 |
 
 # Shown Order
 
@@ -2451,3 +2451,4 @@
 - **Jun 10, 12:39 PM** - LeoLabs deploys mobile space-tracking radar in Indo-Pacific  (spacenews)
 - **Jun 10, 01:14 PM** - Arkadia Space to supply thrusters for Reflex Aerospace satellite (spacenews)
 - **Jun 10, 01:54 PM** - Orbital raises $5 million to join orbital data center race (spacenews)
+- **Jun 10, 02:29 PM** - UK startup Applied Atomics to enter US market with focus on military space mobility (spacenews)
