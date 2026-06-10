@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 11 | 11 | 17 | 29 |
 | breaking_defense | 2 | 2 | 9 | 21 |
-| spacenews | 8 | 16 | 14 | 31 |
+| spacenews | 8 | 16 | 15 | 32 |
 
 # Shown Order
 
@@ -2429,3 +2429,4 @@
 - **Jun 09, 11:29 PM** - FCC lets Amazon Leo miss deployment deadline with temporary spectrum penalty (spacenews)
 - **Jun 10, 12:05 AM** - Space Force contracts Viasat, Intelsat for first of new anti-jam communication sats (breaking_defense)
 - **Jun 10, 12:44 AM** - Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand (nyt)
+- **Jun 10, 01:19 AM** - HASC NDAA markup challenges Space Force on satellite programs (spacenews)
