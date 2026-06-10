@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 4 | 13 | 14 | 28 |
+| nyt | 4 | 13 | 15 | 29 |
 | breaking_defense | 2 | 3 | 9 | 19 |
 | spacenews | 9 | 17 | 16 | 33 |
 
@@ -2457,3 +2457,4 @@
 - **Jun 10, 04:44 PM** - NASA’s moon-base plans are off to a slow start. (nyt)
 - **Jun 10, 05:24 PM** - NASA Crew-12 Commander Captures Snaky Southern Lights From Space Station (nyt)
 - **Jun 10, 05:59 PM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
+- **Jun 10, 06:34 PM** - Artemis Astronauts to Wear Prada Spacesuits (nyt)
