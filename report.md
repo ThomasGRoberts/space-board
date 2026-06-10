@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 13 | 10 | 28 |
+| nyt | 2 | 13 | 11 | 28 |
 | breaking_defense | 2 | 4 | 10 | 19 |
 | spacenews | 10 | 18 | 19 | 33 |
 
@@ -2465,3 +2465,4 @@
 - **Jun 10, 09:38 PM** - Quantum Space to go public in SPAC deal (spacenews)
 - **Jun 10, 10:14 PM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
 - **Jun 10, 10:49 PM** - Artemis 3 commander confident crew will be ready for 2027 mission (spacenews)
+- **Jun 10, 11:24 PM** - What is the Orion spacecraft? (nyt)
