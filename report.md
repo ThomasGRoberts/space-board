@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 11 | 11 | 17 | 29 |
 | breaking_defense | 2 | 2 | 9 | 21 |
-| spacenews | 8 | 16 | 14 | 31 |
+| spacenews | 8 | 16 | 15 | 32 |
 
 # Shown Order
 
@@ -2438,3 +2438,4 @@
 - **Jun 10, 04:54 AM** - Axiom Space adds more than $175 million to funding round (spacenews)
 - **Jun 10, 05:29 AM** - Space Force contracts Viasat, Intelsat for first of new anti-jam communication sats (breaking_defense)
 - **Jun 10, 06:05 AM** - NASA’s moon-base plans are off to a slow start. (nyt)
+- **Jun 10, 06:44 AM** - Let’s build the moon base, but not lose sight of Mars (spacenews)
