@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 11 | 11 | 17 | 28 |
 | breaking_defense | 2 | 2 | 9 | 21 |
-| spacenews | 6 | 15 | 14 | 32 |
+| spacenews | 7 | 16 | 15 | 33 |
 
 # Shown Order
 
@@ -2450,3 +2450,4 @@
 - **Jun 10, 12:04 PM** - Spaceport crunch reviving interest in sea-based launch (spacenews)
 - **Jun 10, 12:39 PM** - LeoLabs deploys mobile space-tracking radar in Indo-Pacific  (spacenews)
 - **Jun 10, 01:14 PM** - Arkadia Space to supply thrusters for Reflex Aerospace satellite (spacenews)
+- **Jun 10, 01:54 PM** - Orbital raises $5 million to join orbital data center race (spacenews)
