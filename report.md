@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 13 | 11 | 28 |
 | breaking_defense | 2 | 4 | 10 | 19 |
-| spacenews | 9 | 17 | 18 | 32 |
+| spacenews | 10 | 18 | 19 | 33 |
 
 # Shown Order
 
@@ -2464,3 +2464,4 @@
 - **Jun 10, 09:04 PM** - How Does the Blue Origin Rocket Explosion affect NASA’s Moon Plans? (nyt)
 - **Jun 10, 09:38 PM** - Quantum Space to go public in SPAC deal (spacenews)
 - **Jun 10, 10:14 PM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
+- **Jun 10, 10:49 PM** - Artemis 3 commander confident crew will be ready for 2027 mission (spacenews)

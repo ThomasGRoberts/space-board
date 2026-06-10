@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-10T00:05:09.415471+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e582b3de4daaf9ecf6d02b796297c771",
+    "trigger_count": 0,
+    "current_item_id": "0804cd2018bc38ea634a55819244e325",
     "data": [
         {
             "id": "31de1281b510b790537b6a8de35cbb32",
@@ -8101,6 +8101,18 @@
             "fetched_datetime": "2026-06-10T20:29:22.896884Z",
             "shown_at": [
                 "2026-06-10T20:29:24.358669Z"
+            ]
+        },
+        {
+            "id": "0804cd2018bc38ea634a55819244e325",
+            "source": "spacenews",
+            "text": "Artemis 3 commander confident crew will be ready for 2027 mission",
+            "source_link": "https://spacenews.com/artemis-3-commander-confident-crew-will-be-ready-for-2027-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-10T22:49:21.050381Z",
+            "shown_at": [
+                "2026-06-10T22:49:22.330687Z"
             ]
         }
     ]
