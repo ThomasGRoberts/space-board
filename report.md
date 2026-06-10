@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 11 | 11 | 17 | 29 |
 | breaking_defense | 2 | 2 | 9 | 22 |
-| spacenews | 6 | 13 | 14 | 30 |
+| spacenews | 7 | 14 | 15 | 31 |
 
 # Shown Order
 
@@ -2447,3 +2447,4 @@
 - **Jun 10, 10:14 AM** - NASA interested in Hubble reboost if costs can be reduced (spacenews)
 - **Jun 10, 10:54 AM** - Army, J-7 to test new sensor with high-altitude balloon in coming days (breaking_defense)
 - **Jun 10, 11:29 AM** - After the launch: Why Europe’s space ambitions depend on what comes next (spacenews)
+- **Jun 10, 12:04 PM** - Spaceport crunch reviving interest in sea-based launch (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-10T00:05:09.415471+00:00",
-    "trigger_count": 6,
-    "current_item_id": "4d10738f2334b3aae381d8050c5034d3",
+    "trigger_count": 0,
+    "current_item_id": "978c45ed6b976248c4b38ec970295258",
     "data": [
         {
             "id": "31de1281b510b790537b6a8de35cbb32",
@@ -7952,6 +7952,18 @@
             "fetched_datetime": "2026-06-10T11:29:22.311302Z",
             "shown_at": [
                 "2026-06-10T11:29:23.185369Z"
+            ]
+        },
+        {
+            "id": "978c45ed6b976248c4b38ec970295258",
+            "source": "spacenews",
+            "text": "Spaceport crunch reviving interest in sea-based launch",
+            "source_link": "https://spacenews.com/spaceport-crunch-reviving-interest-in-sea-based-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-10T12:04:51.993924Z",
+            "shown_at": [
+                "2026-06-10T12:04:55.332176Z"
             ]
         }
     ]
