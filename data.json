@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-10T00:05:09.415471+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a2229327eb7abb69084921a9830d58bb",
+    "trigger_count": 0,
+    "current_item_id": "97c92cc02be924bf11ecc56fafc398d0",
     "data": [
         {
             "id": "31de1281b510b790537b6a8de35cbb32",
@@ -8086,6 +8086,18 @@
             "fetched_datetime": "2026-06-10T19:49:30.712285Z",
             "shown_at": [
                 "2026-06-10T19:49:33.437010Z"
+            ]
+        },
+        {
+            "id": "97c92cc02be924bf11ecc56fafc398d0",
+            "source": "breaking_defense",
+            "text": "LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise",
+            "source_link": "https://breakingdefense.com/2026/06/leolabs-new-mobile-space-watch-radar-to-participate-in-valiant-shield-exercise/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-10T20:29:22.896884Z",
+            "shown_at": [
+                "2026-06-10T20:29:24.358669Z"
             ]
         }
     ]

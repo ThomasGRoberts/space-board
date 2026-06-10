@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 4 | 13 | 13 | 28 |
-| breaking_defense | 2 | 3 | 9 | 18 |
+| breaking_defense | 3 | 4 | 10 | 19 |
 | spacenews | 9 | 17 | 17 | 33 |
 
 # Shown Order
@@ -2460,3 +2460,4 @@
 - **Jun 10, 06:34 PM** - Artemis Astronauts to Wear Prada Spacesuits (nyt)
 - **Jun 10, 07:15 PM** - Let’s procure in-orbit services like Earth observation data and services (spacenews)
 - **Jun 10, 07:49 PM** - House appropriators back $55.5 billion Space Force budget, omit reconciliation funds (spacenews)
+- **Jun 10, 08:29 PM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
