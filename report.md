@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 4 | 13 | 14 | 29 |
 | breaking_defense | 2 | 3 | 9 | 19 |
-| spacenews | 9 | 17 | 16 | 32 |
+| spacenews | 9 | 16 | 17 | 32 |
 
 # Shown Order
 
@@ -2458,3 +2458,4 @@
 - **Jun 10, 05:24 PM** - NASA Crew-12 Commander Captures Snaky Southern Lights From Space Station (nyt)
 - **Jun 10, 05:59 PM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
 - **Jun 10, 06:34 PM** - Artemis Astronauts to Wear Prada Spacesuits (nyt)
+- **Jun 10, 07:15 PM** - Let’s procure in-orbit services like Earth observation data and services (spacenews)
