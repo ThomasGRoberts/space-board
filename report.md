@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 8 | 11 | 14 | 27 |
+| nyt | 8 | 11 | 15 | 28 |
 | breaking_defense | 2 | 2 | 9 | 19 |
 | spacenews | 9 | 17 | 16 | 34 |
 
@@ -2454,3 +2454,4 @@
 - **Jun 10, 02:29 PM** - UK startup Applied Atomics to enter US market with focus on military space mobility (spacenews)
 - **Jun 10, 03:05 PM** - Commercial Space Federation (CSF) Welcomes Two New Space Supply Chain Members (spacenews)
 - **Jun 10, 04:05 PM** - Spire to pursue space-based missile warning in partnership with German defense firm (spacenews)
+- **Jun 10, 04:44 PM** - NASA’s moon-base plans are off to a slow start. (nyt)
