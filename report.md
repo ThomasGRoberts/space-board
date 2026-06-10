@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 2 | 11 | 14 | 28 |
+| nyt | 4 | 13 | 15 | 29 |
 | breaking_defense | 2 | 2 | 9 | 19 |
 | spacenews | 9 | 17 | 16 | 33 |
 
@@ -2455,3 +2455,4 @@
 - **Jun 10, 03:05 PM** - Commercial Space Federation (CSF) Welcomes Two New Space Supply Chain Members (spacenews)
 - **Jun 10, 04:05 PM** - Spire to pursue space-based missile warning in partnership with German defense firm (spacenews)
 - **Jun 10, 04:44 PM** - NASA’s moon-base plans are off to a slow start. (nyt)
+- **Jun 10, 05:24 PM** - NASA Crew-12 Commander Captures Snaky Southern Lights From Space Station (nyt)
