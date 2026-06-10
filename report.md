@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 11 | 11 | 17 | 30 |
 | breaking_defense | 2 | 2 | 9 | 21 |
-| spacenews | 8 | 14 | 14 | 30 |
+| spacenews | 8 | 14 | 15 | 31 |
 
 # Shown Order
 
@@ -2444,3 +2444,4 @@
 - **Jun 10, 08:29 AM** - Axiom Space adds more than $175 million to funding round (spacenews)
 - **Jun 10, 09:04 AM** - Space Force contracts Viasat, Intelsat for first of new anti-jam communication sats (breaking_defense)
 - **Jun 10, 09:39 AM** - The Artemis II mission transfixed the nation. (nyt)
+- **Jun 10, 10:14 AM** - NASA interested in Hubble reboost if costs can be reduced (spacenews)
