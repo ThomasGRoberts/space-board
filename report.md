@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 11 | 11 | 17 | 29 |
-| breaking_defense | 2 | 2 | 8 | 20 |
+| breaking_defense | 2 | 2 | 9 | 21 |
 | spacenews | 8 | 16 | 15 | 32 |
 
 # Shown Order
@@ -2436,3 +2436,4 @@
 - **Jun 10, 03:39 AM** - Army, J-7 to test new sensor with high-altitude balloon in coming days (breaking_defense)
 - **Jun 10, 04:19 AM** - The Artemis II mission transfixed the nation. (nyt)
 - **Jun 10, 04:54 AM** - Axiom Space adds more than $175 million to funding round (spacenews)
+- **Jun 10, 05:29 AM** - Space Force contracts Viasat, Intelsat for first of new anti-jam communication sats (breaking_defense)
