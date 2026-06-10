@@ -1,9 +1,262 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-06-09T00:04:50.885450+00:00",
-    "trigger_count": 6,
-    "current_item_id": "cf36d5f0ace94c4cc0679bf19373b35f",
+    "last_run_datetime": "2026-06-10T00:05:09.415471+00:00",
+    "trigger_count": 0,
+    "current_item_id": "a91f45ec8805aff66a100c862d62073f",
     "data": [
+        {
+            "id": "31de1281b510b790537b6a8de35cbb32",
+            "source": "nyt",
+            "text": "Can NASA Really Land Astronauts on the Moon by 2028?",
+            "source_link": "https://www.nytimes.com/2026/06/09/science/space/nasa-artemis-moon-landing.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-09T22:19:32.912526Z",
+            "shown_at": [
+                "2026-06-09T22:53:58.496797Z"
+            ]
+        },
+        {
+            "id": "1bcdb998e1906fad018f8b88e70ea47f",
+            "source": "nyt",
+            "text": "Meet the NASA Astronauts in the Artemis III 4-Person Crew",
+            "source_link": "https://www.nytimes.com/2026/06/09/science/space/artemis-iii-astronauts-nasa-crew.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-09T22:19:32.912493Z",
+            "shown_at": [
+                "2026-06-09T22:19:35.157059Z"
+            ]
+        },
+        {
+            "id": "a91f45ec8805aff66a100c862d62073f",
+            "source": "breaking_defense",
+            "text": "Space Force contracts Viasat, Intelsat for first of new anti-jam communication sats",
+            "source_link": "https://breakingdefense.com/2026/06/space-force-contracts-viasat-intelsat-for-first-of-new-anti-jam-communication-sats/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-09T21:44:18.992707Z",
+            "shown_at": [
+                "2026-06-09T21:44:19.871034Z",
+                "2026-06-10T00:05:15.807627Z"
+            ]
+        },
+        {
+            "id": "a6885b8a2c9ab74314a69c3e121a50e0",
+            "source": "spacenews",
+            "text": "NASA names crew for Artemis 3 mission to test lunar landers",
+            "source_link": "https://spacenews.com/nasa-names-crew-for-artemis-3-mission-to-test-lunar-landers/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-09T19:59:26.452328Z",
+            "shown_at": [
+                "2026-06-09T19:59:29.017615Z"
+            ]
+        },
+        {
+            "id": "daec9ddad223a9fda2a36797a9b5b472",
+            "source": "breaking_defense",
+            "text": "NRO funds BlackSky for new satellites, AI-optimized image detection system",
+            "source_link": "https://breakingdefense.com/2026/06/nro-funds-blacksky-for-new-satellites-ai-optimized-image-detection-system/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-09T18:14:22.464396Z",
+            "shown_at": [
+                "2026-06-09T18:14:23.292264Z"
+            ]
+        },
+        {
+            "id": "d2f52b70b41119d9c3e90c40ca3dca2b",
+            "source": "nyt",
+            "text": "Remember Apollo 9? No? Have a Look at Artemis III.",
+            "source_link": "https://www.nytimes.com/2026/06/09/science/space/apollo-9-nasa.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-09T17:04:55.878003Z",
+            "shown_at": [
+                "2026-06-09T21:09:31.327616Z"
+            ]
+        },
+        {
+            "id": "ad68b051c527d729490b723104a6151a",
+            "source": "nyt",
+            "text": "Why is NASA going back to the moon?",
+            "source_link": "https://www.nytimes.com/live/2026/06/09/science/nasa-artemis-iii-astronauts/why-is-nasa-going-back-to-the-moon",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-09T17:04:55.877984Z",
+            "shown_at": [
+                "2026-06-09T20:34:26.535991Z"
+            ]
+        },
+        {
+            "id": "a418d7661d98e4be9ece479bffdafc74",
+            "source": "nyt",
+            "text": "Artemis III Astronauts to Wear Prada Spacesuits",
+            "source_link": "https://www.nytimes.com/2026/06/09/science/space/prada-axiom-lcvg-artemis-iii.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-09T17:04:55.877965Z",
+            "shown_at": [
+                "2026-06-09T19:24:57.785856Z"
+            ]
+        },
+        {
+            "id": "28621afcebef49da8433848e74b59988",
+            "source": "nyt",
+            "text": "The Artemis II mission transfixed the nation.",
+            "source_link": "https://www.nytimes.com/live/2026/06/09/science/nasa-artemis-iii-astronauts/the-artemis-ii-mission-transfixed-the-nation",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-09T17:04:55.877946Z",
+            "shown_at": [
+                "2026-06-09T18:49:32.425902Z"
+            ]
+        },
+        {
+            "id": "eb551f9a35d2a4b8b8684fa492f39813",
+            "source": "nyt",
+            "text": "How Will the Artemis III Astronauts Train?",
+            "source_link": "https://www.nytimes.com/2026/06/09/science/space/artemis-iii-astronauts-training.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-09T17:04:55.877924Z",
+            "shown_at": [
+                "2026-06-09T17:39:41.413320Z"
+            ]
+        },
+        {
+            "id": "e4f975a35112b0eccbacab3dbf7db3ab",
+            "source": "nyt",
+            "text": "NASA’s moon-base plans are off to a slow start.",
+            "source_link": "https://www.nytimes.com/live/2026/06/09/science/nasa-artemis-iii-astronauts/nasa-moon-base",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-09T17:04:55.877891Z",
+            "shown_at": [
+                "2026-06-09T17:04:56.869094Z"
+            ]
+        },
+        {
+            "id": "6b1b267d805a434ea2bc44716ad34f55",
+            "source": "spacenews",
+            "text": "Warren AI™ Risk analysis engine Is now Live: Building The Risk Intelligence Infrastructure Layer for The Space Economy ",
+            "source_link": "https://spacenews.com/warren-ai-risk-analysis-engine-is-now-live-building-the-risk-intelligence-infrastructure-layer-for-the-space-economy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-09T15:19:34.072166Z",
+            "shown_at": [
+                "2026-06-09T15:19:36.645375Z"
+            ]
+        },
+        {
+            "id": "6c4a3a361394b277d57c635b4e8885b2",
+            "source": "nyt",
+            "text": "What is the Orion spacecraft?",
+            "source_link": "https://www.nytimes.com/live/2026/06/09/science/nasa-artemis-iii-astronauts/what-is-the-orion-spacecraft",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-09T14:44:45.651646Z",
+            "shown_at": [
+                "2026-06-09T16:29:45.570017Z"
+            ]
+        },
+        {
+            "id": "29979c6902cacf3ba8836a642ac96049",
+            "source": "nyt",
+            "text": "How Does the Blue Origin Rocket Explosion affect NASA’s Moon Plans?",
+            "source_link": "https://www.nytimes.com/2026/06/09/science/space/blue-origin-explosion-nasa-artemis-iii.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-09T14:44:45.651627Z",
+            "shown_at": [
+                "2026-06-09T15:55:05.780183Z"
+            ]
+        },
+        {
+            "id": "8f1531c5095a96468ce9e4ddef619a37",
+            "source": "nyt",
+            "text": "Who gets to be a NASA astronaut?",
+            "source_link": "https://www.nytimes.com/live/2026/06/09/science/nasa-artemis-iii-astronauts/who-gets-to-be-a-nasa-astronaut",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-09T14:44:45.651596Z",
+            "shown_at": [
+                "2026-06-09T14:44:47.960162Z"
+            ]
+        },
+        {
+            "id": "ff15419bdbca69697e7280e520ab1e5d",
+            "source": "spacenews",
+            "text": "Iceye raises 1 billion euros to expand SAR satellite systems",
+            "source_link": "https://spacenews.com/iceye-raises-1-billion-euros-to-expand-sar-satellite-systems/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-09T12:58:58.438035Z",
+            "shown_at": [
+                "2026-06-09T14:09:15.743811Z"
+            ]
+        },
+        {
+            "id": "88dc75985bd688e20644a6f28a9e719e",
+            "source": "spacenews",
+            "text": "New Glenn forced an explosive rewrite for NASA’s plans to build a moon base",
+            "source_link": "https://spacenews.com/new-glenn-forced-an-explosive-rewrite-for-nasas-plans-to-build-a-moon-base/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-09T12:58:58.438008Z",
+            "shown_at": [
+                "2026-06-09T13:34:46.453526Z"
+            ]
+        },
+        {
+            "id": "7d36f92447e0880b7dcdb52bfff162f7",
+            "source": "spacenews",
+            "text": "BlackSky to accelerate broad-area collection work under NRO contract modification",
+            "source_link": "https://spacenews.com/blacksky-to-accelerate-broad-area-collection-work-under-nro-contract-modification/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-09T12:58:58.437963Z",
+            "shown_at": [
+                "2026-06-09T12:59:00.125096Z"
+            ]
+        },
+        {
+            "id": "542574116215760d03722ddca758a32e",
+            "source": "spacenews",
+            "text": "Let’s procure in-orbit services like Earth observation data and services",
+            "source_link": "https://spacenews.com/lets-procure-in-orbit-services-like-earth-observation-data-and-services/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-09T11:14:23.671907Z",
+            "shown_at": [
+                "2026-06-09T12:24:26.559673Z"
+            ]
+        },
+        {
+            "id": "dcabb72735ffd93a44929e90cbc9c720",
+            "source": "spacenews",
+            "text": "Commercial launch providers shortlisted for China’s low-cost cargo spacecraft",
+            "source_link": "https://spacenews.com/commercial-launch-providers-shortlisted-for-chinas-low-cost-cargo-spacecraft/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-09T11:14:23.671857Z",
+            "shown_at": [
+                "2026-06-09T11:49:03.926247Z"
+            ]
+        },
+        {
+            "id": "204fc28bca7254290c137c0bfaebca60",
+            "source": "spacenews",
+            "text": "Isar Aerospace raises 270 million euros for global launch expansion",
+            "source_link": "https://spacenews.com/isar-aerospace-raises-270-million-euros-for-global-launch-expansion/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-09T11:14:23.671784Z",
+            "shown_at": [
+                "2026-06-09T11:14:29.048086Z"
+            ]
+        },
         {
             "id": "cf36d5f0ace94c4cc0679bf19373b35f",
             "source": "spacenews",
@@ -7669,576 +7922,6 @@
                 "2026-04-10T13:39:17.585066Z",
                 "2026-04-12T14:54:12.311722Z",
                 "2026-04-13T08:29:12.982957Z"
-            ]
-        },
-        {
-            "id": "4e08aa64b98f2d2eb812dada969acf8e",
-            "source": "nyt",
-            "text": "Exploring the Far Side of the Moon",
-            "source_link": "https://www.nytimes.com/video/science/space/100000010788127/exploring-the-far-side-of-the-moon.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-06T20:54:13.821448Z",
-            "shown_at": [
-                "2026-04-06T20:54:15.202378Z",
-                "2026-04-07T03:19:18.772425Z",
-                "2026-04-07T14:29:19.129752Z",
-                "2026-04-11T20:39:24.231855Z",
-                "2026-04-12T06:44:08.978736Z",
-                "2026-04-12T07:54:05.183168Z",
-                "2026-04-13T18:39:22.003384Z"
-            ]
-        },
-        {
-            "id": "10129d4ea5386926d8c29900361f099d",
-            "source": "spacenews",
-            "text": "Moog Highlights Growing Satellite Bus Capabilities with Full‑Scale METEOR Reveal at Space Symposium",
-            "source_link": "https://spacenews.com/moog-highlights-growing-satellite-bus-capabilities-with-full-scale-meteor-reveal-at-space-symposium/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-06T20:19:38.430778Z",
-            "shown_at": [
-                "2026-04-06T20:19:39.451365Z",
-                "2026-04-11T13:34:34.185934Z",
-                "2026-04-11T20:04:40.498999Z",
-                "2026-04-12T01:19:30.425631Z"
-            ]
-        },
-        {
-            "id": "dcac182eda91a05dae26ecc7bc2b3f03",
-            "source": "nyt",
-            "text": "Artemis II Astronauts Set New Distance Record in Moon Flyby: What to Know",
-            "source_link": "https://www.nytimes.com/2026/04/06/science/artemis-2-lunar-moon-flyby-nasa-timeline.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-06T19:44:15.220340Z",
-            "shown_at": [
-                "2026-04-06T19:44:16.450830Z",
-                "2026-04-12T03:09:10.813925Z",
-                "2026-04-13T03:49:14.034746Z",
-                "2026-04-13T12:34:38.669927Z"
-            ]
-        },
-        {
-            "id": "7856d191d9cfc9052b476b6113e13a7e",
-            "source": "spacenews",
-            "text": "FOSSA targets Japan’s defense market as larger smallsats expand capabilities",
-            "source_link": "https://spacenews.com/fossa-targets-japans-defense-market-as-larger-smallsats-expand-capabilities/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-06T19:09:17.302683Z",
-            "shown_at": [
-                "2026-04-06T19:09:18.376645Z",
-                "2026-04-07T03:54:09.959807Z",
-                "2026-04-07T05:04:27.678730Z",
-                "2026-04-07T17:24:28.951540Z",
-                "2026-04-10T14:14:48.706818Z",
-                "2026-04-10T21:14:28.534903Z"
-            ]
-        },
-        {
-            "id": "3749674a8346e1a69b4ffaca80ffa7c7",
-            "source": "nyt",
-            "text": "Here’s What Food the Artemis II Astronauts Will Eat in Space",
-            "source_link": "https://www.nytimes.com/live/2026/04/06/science/nasa-artemis-ii-moon-lunar-flyby/this-is-the-artemis-ii-moon-menu",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-06T18:07:43.316756Z",
-            "shown_at": [
-                "2026-04-06T18:07:44.492153Z",
-                "2026-04-07T06:54:32.987576Z",
-                "2026-04-08T17:24:29.939681Z",
-                "2026-04-10T09:34:25.435858Z",
-                "2026-04-12T13:44:23.070102Z"
-            ]
-        },
-        {
-            "id": "586bffdafe0e5ecbb5cadd62a42782bc",
-            "source": "nyt",
-            "text": "Artemis II Astronauts Will Set New Distance Record in Moon Flyby: What to Know",
-            "source_link": "https://www.nytimes.com/2026/04/06/science/artemis-2-lunar-moon-flyby-nasa-timeline.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-06T14:44:32.380730Z",
-            "shown_at": [
-                "2026-04-06T14:44:33.530802Z",
-                "2026-04-07T09:14:33.435041Z",
-                "2026-04-08T07:59:23.876929Z",
-                "2026-04-10T14:49:27.992920Z",
-                "2026-04-11T02:29:20.778919Z",
-                "2026-04-11T12:59:15.289513Z",
-                "2026-04-11T17:04:36.083073Z"
-            ]
-        },
-        {
-            "id": "050423b260dcec88d902fe10df635b5f",
-            "source": "spacenews",
-            "text": "Seagate Space Signs MOU with Firefly Aerospace to Collaborate on Offshore Launch Infrastructure for Alpha",
-            "source_link": "https://spacenews.com/seagate-space-signs-mou-with-firefly-aerospace-to-collaborate-on-offshore-launch-infrastructure-for-alpha/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-06T13:34:29.242795Z",
-            "shown_at": [
-                "2026-04-06T14:09:17.680853Z",
-                "2026-04-07T08:39:23.543446Z",
-                "2026-04-12T22:34:46.554871Z"
-            ]
-        },
-        {
-            "id": "5aba10fe22480d02d4362e8f86747c0b",
-            "source": "spacenews",
-            "text": "The moon base has a hardware plan. It needs a software strategy, too.",
-            "source_link": "https://spacenews.com/the-moon-base-has-a-hardware-plan-it-needs-a-software-strategy-too/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-06T13:34:29.242716Z",
-            "shown_at": [
-                "2026-04-06T13:34:30.392282Z",
-                "2026-04-12T21:19:12.749178Z"
-            ]
-        },
-        {
-            "id": "e0abac67b82b4762568f7f32474af069",
-            "source": "spacenews",
-            "text": "Artemis 2 ready to fly around the moon",
-            "source_link": "https://spacenews.com/artemis-2-ready-to-fly-around-the-moon/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-06T11:49:14.791985Z",
-            "shown_at": [
-                "2026-04-06T12:24:30.210176Z",
-                "2026-04-07T09:49:15.757180Z",
-                "2026-04-08T21:29:29.857081Z",
-                "2026-04-08T22:39:13.549501Z",
-                "2026-04-09T05:44:23.460355Z",
-                "2026-04-10T11:19:18.149445Z",
-                "2026-04-10T23:34:35.419126Z",
-                "2026-04-11T15:54:25.909647Z",
-                "2026-04-13T09:04:51.644189Z"
-            ]
-        },
-        {
-            "id": "9f325cd6bdeaea8ebd8b48da3398ca7b",
-            "source": "spacenews",
-            "text": "Military space programs confront hidden supply constraints",
-            "source_link": "https://spacenews.com/military-space-confronts-hidden-supplier-constraints/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-06T11:49:14.791929Z",
-            "shown_at": [
-                "2026-04-06T11:49:15.986369Z",
-                "2026-04-09T21:09:02.118588Z"
-            ]
-        },
-        {
-            "id": "a37e1cb8ca448474cb63c974719fce25",
-            "source": "nyt",
-            "text": "NASA Families Don’t Go to the Moon, but They’re on the Mission, Too",
-            "source_link": "https://www.nytimes.com/2026/04/06/science/artemis-moon-nasa-families-astronauts.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-06T09:29:25.281855Z",
-            "shown_at": [
-                "2026-04-06T09:29:26.112894Z",
-                "2026-04-11T04:49:11.047916Z",
-                "2026-04-12T23:09:14.396181Z"
-            ]
-        },
-        {
-            "id": "0c229934d6e859b7d7002d003190cf37",
-            "source": "nyt",
-            "text": "Artemis II Moon Flyby: Crew, Timeline and What to Know",
-            "source_link": "https://www.nytimes.com/2026/04/06/science/artemis-2-lunar-moon-flyby-nasa-timeline.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-06T04:14:11.245157Z",
-            "shown_at": [
-                "2026-04-06T04:14:11.920423Z",
-                "2026-04-07T22:04:48.041480Z",
-                "2026-04-08T02:44:21.978173Z",
-                "2026-04-08T05:04:43.058659Z",
-                "2026-04-11T15:19:21.144144Z",
-                "2026-04-12T01:59:07.836049Z",
-                "2026-04-12T09:04:31.568068Z"
-            ]
-        },
-        {
-            "id": "5ee6b2a65da1e6dcf14ef8b713ddde1b",
-            "source": "nyt",
-            "text": "NASA Artemis II Astronauts Race Into Moon’s Embrace After Quiet Easter",
-            "source_link": "https://www.nytimes.com/2026/04/05/science/nasa-moon-artemis-day-5.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-06T02:29:14.799131Z",
-            "shown_at": [
-                "2026-04-06T02:29:15.838104Z",
-                "2026-04-10T20:39:16.913939Z"
-            ]
-        },
-        {
-            "id": "0ebd02d49b0f4c79577beb18181add52",
-            "source": "spacenews",
-            "text": "Isaacman defends NASA budget proposal despite steep cuts",
-            "source_link": "https://spacenews.com/isaacman-defends-nasa-budget-proposal-despite-steep-cuts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-05T22:24:17.075786Z",
-            "shown_at": [
-                "2026-04-05T22:24:18.297566Z",
-                "2026-04-06T01:54:31.149783Z",
-                "2026-04-07T07:29:29.624980Z",
-                "2026-04-09T00:59:29.013899Z",
-                "2026-04-10T00:39:23.258767Z"
-            ]
-        },
-        {
-            "id": "c46ce972697f9c8d7a9a18b943cdf169",
-            "source": "spacenews",
-            "text": "NASA stops work on SLS Mobile Launcher 2",
-            "source_link": "https://spacenews.com/nasa-stops-work-on-sls-mobile-launcher-2/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-05T20:39:14.279549Z",
-            "shown_at": [
-                "2026-04-05T20:39:15.557536Z",
-                "2026-04-06T10:04:48.928670Z",
-                "2026-04-10T07:49:17.960034Z"
-            ]
-        },
-        {
-            "id": "4b18a482283999695d3195141d93d169",
-            "source": "spacenews",
-            "text": "NASA finalizes science plans for Artemis 2 lunar flyby",
-            "source_link": "https://spacenews.com/nasa-finalizes-science-plans-for-artemis-2-lunar-flyby/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-05T03:34:26.937474Z",
-            "shown_at": [
-                "2026-04-05T03:34:27.673317Z",
-                "2026-04-10T04:09:18.425281Z"
-            ]
-        },
-        {
-            "id": "afe33731c0e86fe10be3218c578729bf",
-            "source": "nyt",
-            "text": "Where Are NASA’s Artemis II Astronauts Now? Closer to the Moon Than Earth.",
-            "source_link": "https://www.nytimes.com/2026/04/04/science/nasa-moon-artemis-day-4.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-04T21:44:12.060911Z",
-            "shown_at": [
-                "2026-04-04T21:44:13.083367Z",
-                "2026-04-08T19:44:41.017756Z",
-                "2026-04-08T23:14:33.811828Z",
-                "2026-04-09T22:54:17.885358Z",
-                "2026-04-11T03:39:29.474030Z",
-                "2026-04-11T07:44:11.862667Z",
-                "2026-04-11T18:14:34.851966Z"
-            ]
-        },
-        {
-            "id": "dc9a42222db9cc4ef244476cbfb27b4a",
-            "source": "spacenews",
-            "text": "Atlas 5 launches Amazon Leo satellites",
-            "source_link": "https://spacenews.com/atlas-5-launches-amazon-leo-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-04T20:34:24.179022Z",
-            "shown_at": [
-                "2026-04-04T20:34:25.329651Z",
-                "2026-04-07T02:09:19.171633Z"
-            ]
-        },
-        {
-            "id": "82828071d0f9b46621d6b8ee3b2cc95e",
-            "source": "spacenews",
-            "text": "Space Force budget would more than double in Trump’s $1.5 trillion defense plan",
-            "source_link": "https://spacenews.com/space-force-budget-would-more-than-double-in-trumps-1-5-trillion-defense-plan/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-04T17:04:28.601853Z",
-            "shown_at": [
-                "2026-04-04T17:04:29.772673Z",
-                "2026-04-05T18:54:09.743015Z",
-                "2026-04-11T08:19:14.306577Z"
-            ]
-        },
-        {
-            "id": "004d0301663ecd000938bd2c32d7b41c",
-            "source": "nyt",
-            "text": "Houston Cheers on Artemis II Moon Mission, Reclaiming Its Place as ‘Space City’",
-            "source_link": "https://www.nytimes.com/2026/04/04/us/artemis-ii-nasa-moon-houston-texas.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-04T09:29:05.965209Z",
-            "shown_at": [
-                "2026-04-04T10:04:35.678516Z"
-            ]
-        },
-        {
-            "id": "ecb21fffbe38057e041591fa6d130ce6",
-            "source": "nyt",
-            "text": "How Scientifically Accurate Is ‘Project Hail Mary’? Experts Weigh In",
-            "source_link": "https://www.nytimes.com/2026/04/04/movies/project-hail-mary-scientific-accuracy.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-04T09:29:05.965167Z",
-            "shown_at": [
-                "2026-04-04T09:29:06.624452Z",
-                "2026-04-05T13:34:27.407672Z",
-                "2026-04-06T17:04:37.578296Z"
-            ]
-        },
-        {
-            "id": "204fc28bca7254290c137c0bfaebca60",
-            "source": "spacenews",
-            "text": "Isar Aerospace raises 270 million euros for global launch expansion",
-            "source_link": "https://spacenews.com/isar-aerospace-raises-270-million-euros-for-global-launch-expansion/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-09T11:14:23.671784Z",
-            "shown_at": [
-                "2026-06-09T11:14:29.048086Z"
-            ]
-        },
-        {
-            "id": "dcabb72735ffd93a44929e90cbc9c720",
-            "source": "spacenews",
-            "text": "Commercial launch providers shortlisted for China’s low-cost cargo spacecraft",
-            "source_link": "https://spacenews.com/commercial-launch-providers-shortlisted-for-chinas-low-cost-cargo-spacecraft/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-09T11:14:23.671857Z",
-            "shown_at": [
-                "2026-06-09T11:49:03.926247Z"
-            ]
-        },
-        {
-            "id": "542574116215760d03722ddca758a32e",
-            "source": "spacenews",
-            "text": "Let’s procure in-orbit services like Earth observation data and services",
-            "source_link": "https://spacenews.com/lets-procure-in-orbit-services-like-earth-observation-data-and-services/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-09T11:14:23.671907Z",
-            "shown_at": [
-                "2026-06-09T12:24:26.559673Z"
-            ]
-        },
-        {
-            "id": "7d36f92447e0880b7dcdb52bfff162f7",
-            "source": "spacenews",
-            "text": "BlackSky to accelerate broad-area collection work under NRO contract modification",
-            "source_link": "https://spacenews.com/blacksky-to-accelerate-broad-area-collection-work-under-nro-contract-modification/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-09T12:58:58.437963Z",
-            "shown_at": [
-                "2026-06-09T12:59:00.125096Z"
-            ]
-        },
-        {
-            "id": "88dc75985bd688e20644a6f28a9e719e",
-            "source": "spacenews",
-            "text": "New Glenn forced an explosive rewrite for NASA’s plans to build a moon base",
-            "source_link": "https://spacenews.com/new-glenn-forced-an-explosive-rewrite-for-nasas-plans-to-build-a-moon-base/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-09T12:58:58.438008Z",
-            "shown_at": [
-                "2026-06-09T13:34:46.453526Z"
-            ]
-        },
-        {
-            "id": "ff15419bdbca69697e7280e520ab1e5d",
-            "source": "spacenews",
-            "text": "Iceye raises 1 billion euros to expand SAR satellite systems",
-            "source_link": "https://spacenews.com/iceye-raises-1-billion-euros-to-expand-sar-satellite-systems/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-09T12:58:58.438035Z",
-            "shown_at": [
-                "2026-06-09T14:09:15.743811Z"
-            ]
-        },
-        {
-            "id": "8f1531c5095a96468ce9e4ddef619a37",
-            "source": "nyt",
-            "text": "Who gets to be a NASA astronaut?",
-            "source_link": "https://www.nytimes.com/live/2026/06/09/science/nasa-artemis-iii-astronauts/who-gets-to-be-a-nasa-astronaut",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-09T14:44:45.651596Z",
-            "shown_at": [
-                "2026-06-09T14:44:47.960162Z"
-            ]
-        },
-        {
-            "id": "29979c6902cacf3ba8836a642ac96049",
-            "source": "nyt",
-            "text": "How Does the Blue Origin Rocket Explosion affect NASA’s Moon Plans?",
-            "source_link": "https://www.nytimes.com/2026/06/09/science/space/blue-origin-explosion-nasa-artemis-iii.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-09T14:44:45.651627Z",
-            "shown_at": [
-                "2026-06-09T15:55:05.780183Z"
-            ]
-        },
-        {
-            "id": "6c4a3a361394b277d57c635b4e8885b2",
-            "source": "nyt",
-            "text": "What is the Orion spacecraft?",
-            "source_link": "https://www.nytimes.com/live/2026/06/09/science/nasa-artemis-iii-astronauts/what-is-the-orion-spacecraft",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-09T14:44:45.651646Z",
-            "shown_at": [
-                "2026-06-09T16:29:45.570017Z"
-            ]
-        },
-        {
-            "id": "6b1b267d805a434ea2bc44716ad34f55",
-            "source": "spacenews",
-            "text": "Warren AI™ Risk analysis engine Is now Live: Building The Risk Intelligence Infrastructure Layer for The Space Economy ",
-            "source_link": "https://spacenews.com/warren-ai-risk-analysis-engine-is-now-live-building-the-risk-intelligence-infrastructure-layer-for-the-space-economy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-09T15:19:34.072166Z",
-            "shown_at": [
-                "2026-06-09T15:19:36.645375Z"
-            ]
-        },
-        {
-            "id": "e4f975a35112b0eccbacab3dbf7db3ab",
-            "source": "nyt",
-            "text": "NASA’s moon-base plans are off to a slow start.",
-            "source_link": "https://www.nytimes.com/live/2026/06/09/science/nasa-artemis-iii-astronauts/nasa-moon-base",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-09T17:04:55.877891Z",
-            "shown_at": [
-                "2026-06-09T17:04:56.869094Z"
-            ]
-        },
-        {
-            "id": "eb551f9a35d2a4b8b8684fa492f39813",
-            "source": "nyt",
-            "text": "How Will the Artemis III Astronauts Train?",
-            "source_link": "https://www.nytimes.com/2026/06/09/science/space/artemis-iii-astronauts-training.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-09T17:04:55.877924Z",
-            "shown_at": [
-                "2026-06-09T17:39:41.413320Z"
-            ]
-        },
-        {
-            "id": "28621afcebef49da8433848e74b59988",
-            "source": "nyt",
-            "text": "The Artemis II mission transfixed the nation.",
-            "source_link": "https://www.nytimes.com/live/2026/06/09/science/nasa-artemis-iii-astronauts/the-artemis-ii-mission-transfixed-the-nation",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-09T17:04:55.877946Z",
-            "shown_at": [
-                "2026-06-09T18:49:32.425902Z"
-            ]
-        },
-        {
-            "id": "a418d7661d98e4be9ece479bffdafc74",
-            "source": "nyt",
-            "text": "Artemis III Astronauts to Wear Prada Spacesuits",
-            "source_link": "https://www.nytimes.com/2026/06/09/science/space/prada-axiom-lcvg-artemis-iii.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-09T17:04:55.877965Z",
-            "shown_at": [
-                "2026-06-09T19:24:57.785856Z"
-            ]
-        },
-        {
-            "id": "ad68b051c527d729490b723104a6151a",
-            "source": "nyt",
-            "text": "Why is NASA going back to the moon?",
-            "source_link": "https://www.nytimes.com/live/2026/06/09/science/nasa-artemis-iii-astronauts/why-is-nasa-going-back-to-the-moon",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-09T17:04:55.877984Z",
-            "shown_at": [
-                "2026-06-09T20:34:26.535991Z"
-            ]
-        },
-        {
-            "id": "d2f52b70b41119d9c3e90c40ca3dca2b",
-            "source": "nyt",
-            "text": "Remember Apollo 9? No? Have a Look at Artemis III.",
-            "source_link": "https://www.nytimes.com/2026/06/09/science/space/apollo-9-nasa.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-09T17:04:55.878003Z",
-            "shown_at": [
-                "2026-06-09T21:09:31.327616Z"
-            ]
-        },
-        {
-            "id": "daec9ddad223a9fda2a36797a9b5b472",
-            "source": "breaking_defense",
-            "text": "NRO funds BlackSky for new satellites, AI-optimized image detection system",
-            "source_link": "https://breakingdefense.com/2026/06/nro-funds-blacksky-for-new-satellites-ai-optimized-image-detection-system/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-09T18:14:22.464396Z",
-            "shown_at": [
-                "2026-06-09T18:14:23.292264Z"
-            ]
-        },
-        {
-            "id": "a6885b8a2c9ab74314a69c3e121a50e0",
-            "source": "spacenews",
-            "text": "NASA names crew for Artemis 3 mission to test lunar landers",
-            "source_link": "https://spacenews.com/nasa-names-crew-for-artemis-3-mission-to-test-lunar-landers/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-09T19:59:26.452328Z",
-            "shown_at": [
-                "2026-06-09T19:59:29.017615Z"
-            ]
-        },
-        {
-            "id": "a91f45ec8805aff66a100c862d62073f",
-            "source": "breaking_defense",
-            "text": "Space Force contracts Viasat, Intelsat for first of new anti-jam communication sats",
-            "source_link": "https://breakingdefense.com/2026/06/space-force-contracts-viasat-intelsat-for-first-of-new-anti-jam-communication-sats/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-09T21:44:18.992707Z",
-            "shown_at": [
-                "2026-06-09T21:44:19.871034Z"
-            ]
-        },
-        {
-            "id": "1bcdb998e1906fad018f8b88e70ea47f",
-            "source": "nyt",
-            "text": "Meet the NASA Astronauts in the Artemis III 4-Person Crew",
-            "source_link": "https://www.nytimes.com/2026/06/09/science/space/artemis-iii-astronauts-nasa-crew.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-09T22:19:32.912493Z",
-            "shown_at": [
-                "2026-06-09T22:19:35.157059Z"
-            ]
-        },
-        {
-            "id": "31de1281b510b790537b6a8de35cbb32",
-            "source": "nyt",
-            "text": "Can NASA Really Land Astronauts on the Moon by 2028?",
-            "source_link": "https://www.nytimes.com/2026/06/09/science/space/nasa-artemis-moon-landing.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-09T22:19:32.912526Z",
-            "shown_at": [
-                "2026-06-09T22:53:58.496797Z"
             ]
         }
     ]
