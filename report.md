@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 8 | 11 | 16 | 28 |
 | breaking_defense | 2 | 2 | 9 | 20 |
-| spacenews | 8 | 16 | 15 | 33 |
+| spacenews | 10 | 18 | 16 | 34 |
 
 # Shown Order
 
@@ -2452,3 +2452,4 @@
 - **Jun 10, 01:14 PM** - Arkadia Space to supply thrusters for Reflex Aerospace satellite (spacenews)
 - **Jun 10, 01:54 PM** - Orbital raises $5 million to join orbital data center race (spacenews)
 - **Jun 10, 02:29 PM** - UK startup Applied Atomics to enter US market with focus on military space mobility (spacenews)
+- **Jun 10, 03:05 PM** - Commercial Space Federation (CSF) Welcomes Two New Space Supply Chain Members (spacenews)
