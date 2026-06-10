@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 11 | 11 | 17 | 29 |
 | breaking_defense | 2 | 2 | 9 | 21 |
-| spacenews | 7 | 14 | 14 | 31 |
+| spacenews | 9 | 16 | 15 | 32 |
 
 # Shown Order
 
@@ -2448,3 +2448,4 @@
 - **Jun 10, 10:54 AM** - Army, J-7 to test new sensor with high-altitude balloon in coming days (breaking_defense)
 - **Jun 10, 11:29 AM** - After the launch: Why Europe’s space ambitions depend on what comes next (spacenews)
 - **Jun 10, 12:04 PM** - Spaceport crunch reviving interest in sea-based launch (spacenews)
+- **Jun 10, 12:39 PM** - LeoLabs deploys mobile space-tracking radar in Indo-Pacific  (spacenews)
