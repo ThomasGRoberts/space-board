@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 2 | 13 | 11 | 28 |
-| breaking_defense | 2 | 4 | 10 | 19 |
+| breaking_defense | 2 | 4 | 11 | 19 |
 | spacenews | 10 | 18 | 18 | 33 |
 
 # Shown Order
@@ -2466,3 +2466,4 @@
 - **Jun 10, 10:14 PM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
 - **Jun 10, 10:49 PM** - Artemis 3 commander confident crew will be ready for 2027 mission (spacenews)
 - **Jun 10, 11:24 PM** - What is the Orion spacecraft? (nyt)
+- **Jun 10, 11:59 PM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
