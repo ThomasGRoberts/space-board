@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-10T00:05:09.415471+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e66fd9100d021c9fb7147b7b6c936f5c",
+    "trigger_count": 0,
+    "current_item_id": "e582b3de4daaf9ecf6d02b796297c771",
     "data": [
         {
             "id": "31de1281b510b790537b6a8de35cbb32",
@@ -8059,6 +8059,18 @@
             "shown": false,
             "type": "news",
             "fetched_datetime": "2026-06-10T17:24:19.843086Z"
+        },
+        {
+            "id": "e582b3de4daaf9ecf6d02b796297c771",
+            "source": "breaking_defense",
+            "text": "ICEYE, Rheinmetall form German joint venture for space-based ISR",
+            "source_link": "https://breakingdefense.com/2026/06/iceye-rhenmetall-form-german-joint-venture-for-space-based-isr/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-10T17:59:17.735130Z",
+            "shown_at": [
+                "2026-06-10T17:59:20.277016Z"
+            ]
         }
     ]
 }
