@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-11T00:04:49.974414+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a91f45ec8805aff66a100c862d62073f",
+    "trigger_count": 0,
+    "current_item_id": "00c7c537ca2964def6b8963f1eebb81a",
     "data": [
         {
             "id": "0804cd2018bc38ea634a55819244e325",
@@ -7920,6 +7920,18 @@
             "fetched_datetime": "2026-04-08T07:24:25.979140Z",
             "shown_at": [
                 "2026-04-08T07:24:26.604410Z"
+            ]
+        },
+        {
+            "id": "00c7c537ca2964def6b8963f1eebb81a",
+            "source": "spacenews",
+            "text": "Missile defense in the age of saturation warfare",
+            "source_link": "https://spacenews.com/missile-defense-in-the-age-of-saturation-warfare/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-11T11:14:11.639702Z",
+            "shown_at": [
+                "2026-06-11T11:14:14.079116Z"
             ]
         }
     ]

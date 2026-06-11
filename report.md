@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 18 | 18 | 33 |
+| spacenews | 11 | 19 | 19 | 34 |
 | breaking_defense | 2 | 4 | 10 | 19 |
 | nyt | 2 | 13 | 11 | 28 |
 
@@ -2426,3 +2426,4 @@
 - **Jun 11, 09:24 AM** - Quantum Space to go public in SPAC deal (spacenews)
 - **Jun 11, 09:59 AM** - NASA’s moon-base plans are off to a slow start. (nyt)
 - **Jun 11, 10:39 AM** - Space Force contracts Viasat, Intelsat for first of new anti-jam communication sats (breaking_defense)
+- **Jun 11, 11:14 AM** - Missile defense in the age of saturation warfare (spacenews)
