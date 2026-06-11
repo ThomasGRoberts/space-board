@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 18 | 18 | 32 |
+| spacenews | 10 | 18 | 19 | 33 |
 | breaking_defense | 2 | 4 | 10 | 19 |
 | nyt | 2 | 13 | 11 | 28 |
 
@@ -2417,3 +2417,4 @@
 - **Jun 11, 04:04 AM** - Let’s procure in-orbit services like Earth observation data and services (spacenews)
 - **Jun 11, 04:39 AM** - Why is NASA going back to the moon? (nyt)
 - **Jun 11, 05:14 AM** - Space Force contracts Viasat, Intelsat for first of new anti-jam communication sats (breaking_defense)
+- **Jun 11, 05:49 AM** - Qianfan constellation deployment hits 200 satellites with Long March 8 and 6A launches (spacenews)
