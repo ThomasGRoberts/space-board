@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 18 | 19 | 33 |
 | breaking_defense | 2 | 4 | 10 | 19 |
-| nyt | 2 | 13 | 10 | 28 |
+| nyt | 2 | 13 | 11 | 28 |
 
 # Shown Order
 
@@ -2415,3 +2415,4 @@
 - **Jun 11, 02:54 AM** - How Does the Blue Origin Rocket Explosion affect NASA’s Moon Plans? (nyt)
 - **Jun 11, 03:28 AM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
 - **Jun 11, 04:04 AM** - Let’s procure in-orbit services like Earth observation data and services (spacenews)
+- **Jun 11, 04:39 AM** - Why is NASA going back to the moon? (nyt)
