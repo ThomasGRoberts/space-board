@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 18 | 18 | 33 |
-| breaking_defense | 2 | 4 | 10 | 18 |
+| breaking_defense | 2 | 4 | 11 | 19 |
 | nyt | 2 | 13 | 11 | 28 |
 
 # Shown Order
@@ -2422,3 +2422,4 @@
 - **Jun 11, 06:59 AM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
 - **Jun 11, 07:34 AM** - OQ Technology plans direct-to-smartphone demo with cellular spectrum (spacenews)
 - **Jun 11, 08:13 AM** - Artemis III Astronauts to Wear Prada Spacesuits (nyt)
+- **Jun 11, 08:49 AM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
