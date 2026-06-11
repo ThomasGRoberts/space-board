@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 18 | 19 | 33 |
 | breaking_defense | 2 | 4 | 10 | 19 |
-| nyt | 2 | 13 | 10 | 28 |
+| nyt | 2 | 13 | 11 | 28 |
 
 # Shown Order
 
@@ -2412,3 +2412,4 @@
 - **Jun 11, 01:09 AM** - What is the Orion spacecraft? (nyt)
 - **Jun 11, 01:44 AM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
 - **Jun 11, 02:19 AM** - Next Ariane 6 launch to carry 36 Amazon Leo satellites using upgraded boosters (spacenews)
+- **Jun 11, 02:54 AM** - How Does the Blue Origin Rocket Explosion affect NASA’s Moon Plans? (nyt)
