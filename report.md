@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 21 | 18 | 36 |
-| breaking_defense | 0 | 3 | 11 | 21 |
-| nyt | 0 | 4 | 11 | 23 |
+| breaking_defense | 0 | 2 | 11 | 20 |
+| nyt | 1 | 5 | 12 | 24 |
 
 # Shown Order
 
@@ -2444,3 +2444,4 @@
 - **Jun 11, 08:04 PM** - Vandenberg offers new launch site for small and medium rockets (spacenews)
 - **Jun 11, 08:39 PM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
 - **Jun 11, 09:14 PM** - How Will the Artemis III Astronauts Train? (nyt)
+- **Jun 11, 09:49 PM** - Alan Hale, Sky Watcher Who Created a Comet Sensation, Dies at 68 (nyt)

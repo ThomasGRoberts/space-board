@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-11T00:04:49.974414+00:00",
-    "trigger_count": 6,
-    "current_item_id": "eb551f9a35d2a4b8b8684fa492f39813",
+    "trigger_count": 0,
+    "current_item_id": "936447716f0ed30960a056a1e69a42ff",
     "data": [
         {
             "id": "0804cd2018bc38ea634a55819244e325",
@@ -8059,6 +8059,18 @@
             "fetched_datetime": "2026-06-11T20:04:45.710137Z",
             "shown_at": [
                 "2026-06-11T20:04:48.645018Z"
+            ]
+        },
+        {
+            "id": "936447716f0ed30960a056a1e69a42ff",
+            "source": "nyt",
+            "text": "Alan Hale, Sky Watcher Who Created a Comet Sensation, Dies at 68",
+            "source_link": "https://www.nytimes.com/2026/06/11/science/space/alan-hale-dead.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-11T21:49:07.784831Z",
+            "shown_at": [
+                "2026-06-11T21:49:08.653946Z"
             ]
         }
     ]
