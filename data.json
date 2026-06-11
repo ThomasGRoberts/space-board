@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-11T00:04:49.974414+00:00",
-    "trigger_count": 6,
-    "current_item_id": "57a8327f2176ae03b6adc03ec7ee751c",
+    "trigger_count": 0,
+    "current_item_id": "98e82a1f7882bf6cd2f1863c39cfd137",
     "data": [
         {
             "id": "0804cd2018bc38ea634a55819244e325",
@@ -8019,6 +8019,18 @@
             "fetched_datetime": "2026-06-11T17:05:17.903463Z",
             "shown_at": [
                 "2026-06-11T17:05:20.344704Z"
+            ]
+        },
+        {
+            "id": "98e82a1f7882bf6cd2f1863c39cfd137",
+            "source": "spacenews",
+            "text": "ESA astronaut assignment on Artemis 3 part of negotiations on revised Artemis roles",
+            "source_link": "https://spacenews.com/esa-astronaut-assignment-on-artemis-3-part-of-negotiations-on-revised-artemis-roles/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-11T17:44:25.625460Z",
+            "shown_at": [
+                "2026-06-11T17:44:28.430488Z"
             ]
         }
     ]

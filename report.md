@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 19 | 18 | 34 |
+| spacenews | 11 | 20 | 19 | 35 |
 | breaking_defense | 2 | 4 | 11 | 20 |
-| nyt | 0 | 4 | 11 | 26 |
+| nyt | 0 | 4 | 11 | 25 |
 
 # Shown Order
 
@@ -2437,3 +2437,4 @@
 - **Jun 11, 03:54 PM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
 - **Jun 11, 04:29 PM** - Can NASA Really Land Astronauts on the Moon by 2028? (nyt)
 - **Jun 11, 05:05 PM** - HyImpulse signs letter of intent with Oman’s spaceport (spacenews)
+- **Jun 11, 05:44 PM** - ESA astronaut assignment on Artemis 3 part of negotiations on revised Artemis roles (spacenews)
