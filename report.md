@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 21 | 18 | 37 |
-| breaking_defense | 0 | 2 | 10 | 20 |
+| breaking_defense | 0 | 2 | 11 | 21 |
 | nyt | 1 | 3 | 12 | 22 |
 
 # Shown Order
@@ -2446,3 +2446,4 @@
 - **Jun 11, 09:14 PM** - How Will the Artemis III Astronauts Train? (nyt)
 - **Jun 11, 09:49 PM** - Alan Hale, Sky Watcher Who Created a Comet Sensation, Dies at 68 (nyt)
 - **Jun 11, 10:24 PM** - Quantum Space to go public in SPAC deal (spacenews)
+- **Jun 11, 10:59 PM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
