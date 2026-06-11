@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 16 | 18 | 33 |
+| spacenews | 11 | 17 | 19 | 33 |
 | breaking_defense | 2 | 4 | 10 | 19 |
 | nyt | 2 | 13 | 11 | 28 |
 
@@ -2430,3 +2430,4 @@
 - **Jun 11, 11:49 AM** - ESA awards contract for next-generation radar imaging satellites (spacenews)
 - **Jun 11, 12:24 PM** - Long March 5 launches classified satellite, Zhuque-2E lofts direct-to-device test sats (spacenews)
 - **Jun 11, 12:59 PM** - Open Cosmos seeks deadline extension for broadband constellation (spacenews)
+- **Jun 11, 01:34 PM** - GEO cancellations complicate space insurance recovery (spacenews)

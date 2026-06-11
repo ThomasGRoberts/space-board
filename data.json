@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-11T00:04:49.974414+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0d751c3b109e532b67dccd88c96aa4ed",
+    "trigger_count": 0,
+    "current_item_id": "dd72eee580a0684457bcd82ade633045",
     "data": [
         {
             "id": "0804cd2018bc38ea634a55819244e325",
@@ -7968,6 +7968,18 @@
             "fetched_datetime": "2026-06-11T12:59:14.667404Z",
             "shown_at": [
                 "2026-06-11T12:59:15.494381Z"
+            ]
+        },
+        {
+            "id": "dd72eee580a0684457bcd82ade633045",
+            "source": "spacenews",
+            "text": "GEO cancellations complicate space insurance recovery",
+            "source_link": "https://spacenews.com/geo-cancellations-complicate-space-insurance-recovery/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-11T13:34:51.566128Z",
+            "shown_at": [
+                "2026-06-11T13:34:52.567551Z"
             ]
         }
     ]
