@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 17 | 18 | 33 |
+| spacenews | 11 | 18 | 19 | 34 |
 | breaking_defense | 2 | 4 | 10 | 19 |
 | nyt | 2 | 13 | 11 | 28 |
 
@@ -2431,3 +2431,4 @@
 - **Jun 11, 12:24 PM** - Long March 5 launches classified satellite, Zhuque-2E lofts direct-to-device test sats (spacenews)
 - **Jun 11, 12:59 PM** - Open Cosmos seeks deadline extension for broadband constellation (spacenews)
 - **Jun 11, 01:34 PM** - GEO cancellations complicate space insurance recovery (spacenews)
+- **Jun 11, 02:09 PM** - K2 Space, Rocket Lab win key supplier roles in Space Force satcom program (spacenews)
