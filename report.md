@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 18 | 17 | 33 |
+| spacenews | 10 | 19 | 18 | 34 |
 | breaking_defense | 2 | 4 | 11 | 20 |
-| nyt | 2 | 10 | 12 | 27 |
+| nyt | 2 | 4 | 12 | 26 |
 
 # Shown Order
 
@@ -2436,3 +2436,4 @@
 - **Jun 11, 03:19 PM** - Tilebox Launches Verifiable AI Workflows for Satellite Data (spacenews)
 - **Jun 11, 03:54 PM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
 - **Jun 11, 04:29 PM** - Can NASA Really Land Astronauts on the Moon by 2028? (nyt)
+- **Jun 11, 05:05 PM** - HyImpulse signs letter of intent with Oman’s spaceport (spacenews)
