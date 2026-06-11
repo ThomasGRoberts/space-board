@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-11T00:04:49.974414+00:00",
-    "trigger_count": 6,
-    "current_item_id": "57501ca1fc22988ad77234f68739922f",
+    "trigger_count": 0,
+    "current_item_id": "0d751c3b109e532b67dccd88c96aa4ed",
     "data": [
         {
             "id": "0804cd2018bc38ea634a55819244e325",
@@ -7956,6 +7956,18 @@
             "fetched_datetime": "2026-06-11T11:49:25.676496Z",
             "shown_at": [
                 "2026-06-11T12:24:36.948049Z"
+            ]
+        },
+        {
+            "id": "0d751c3b109e532b67dccd88c96aa4ed",
+            "source": "spacenews",
+            "text": "Open Cosmos seeks deadline extension for broadband constellation",
+            "source_link": "https://spacenews.com/open-cosmos-seeks-deadline-extension-for-broadband-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-11T12:59:14.667404Z",
+            "shown_at": [
+                "2026-06-11T12:59:15.494381Z"
             ]
         }
     ]
