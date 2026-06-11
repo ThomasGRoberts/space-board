@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 18 | 18 | 33 |
-| breaking_defense | 2 | 4 | 10 | 19 |
+| breaking_defense | 2 | 4 | 11 | 20 |
 | nyt | 2 | 10 | 12 | 28 |
 
 # Shown Order
@@ -2434,3 +2434,4 @@
 - **Jun 11, 02:09 PM** - K2 Space, Rocket Lab win key supplier roles in Space Force satcom program (spacenews)
 - **Jun 11, 02:44 PM** - How Will the Artemis III Astronauts Train? (nyt)
 - **Jun 11, 03:19 PM** - Tilebox Launches Verifiable AI Workflows for Satellite Data (spacenews)
+- **Jun 11, 03:54 PM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
