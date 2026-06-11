@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-11T00:04:49.974414+00:00",
-    "trigger_count": 6,
-    "current_item_id": "eb551f9a35d2a4b8b8684fa492f39813",
+    "trigger_count": 0,
+    "current_item_id": "82fa43dd47f98c99301a0693d013de49",
     "data": [
         {
             "id": "0804cd2018bc38ea634a55819244e325",
@@ -7993,6 +7993,18 @@
             "fetched_datetime": "2026-06-11T14:09:09.386937Z",
             "shown_at": [
                 "2026-06-11T14:09:10.435210Z"
+            ]
+        },
+        {
+            "id": "82fa43dd47f98c99301a0693d013de49",
+            "source": "spacenews",
+            "text": "Tilebox Launches Verifiable AI Workflows for Satellite Data",
+            "source_link": "https://spacenews.com/tilebox-launches-verifiable-ai-workflows-for-satellite-data/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-11T15:19:42.554248Z",
+            "shown_at": [
+                "2026-06-11T15:19:43.464969Z"
             ]
         }
     ]

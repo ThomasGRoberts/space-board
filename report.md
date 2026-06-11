@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 18 | 17 | 33 |
+| spacenews | 9 | 18 | 18 | 33 |
 | breaking_defense | 2 | 4 | 10 | 19 |
 | nyt | 2 | 10 | 12 | 28 |
 
@@ -2433,3 +2433,4 @@
 - **Jun 11, 01:34 PM** - GEO cancellations complicate space insurance recovery (spacenews)
 - **Jun 11, 02:09 PM** - K2 Space, Rocket Lab win key supplier roles in Space Force satcom program (spacenews)
 - **Jun 11, 02:44 PM** - How Will the Artemis III Astronauts Train? (nyt)
+- **Jun 11, 03:19 PM** - Tilebox Launches Verifiable AI Workflows for Satellite Data (spacenews)
