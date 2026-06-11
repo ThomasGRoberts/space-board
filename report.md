@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 18 | 18 | 33 |
-| breaking_defense | 2 | 4 | 10 | 19 |
+| breaking_defense | 2 | 4 | 11 | 19 |
 | nyt | 2 | 13 | 11 | 28 |
 
 # Shown Order
@@ -2410,3 +2410,4 @@
 - **Jun 10, 11:59 PM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
 - **Jun 11, 12:35 AM** - New Glenn forced an explosive rewrite for NASA’s plans to build a moon base (spacenews)
 - **Jun 11, 01:09 AM** - What is the Orion spacecraft? (nyt)
+- **Jun 11, 01:44 AM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
