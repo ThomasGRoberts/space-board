@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 18 | 19 | 33 |
 | breaking_defense | 2 | 4 | 10 | 19 |
-| nyt | 2 | 13 | 10 | 28 |
+| nyt | 2 | 13 | 11 | 28 |
 
 # Shown Order
 
@@ -2424,3 +2424,4 @@
 - **Jun 11, 08:13 AM** - Artemis III Astronauts to Wear Prada Spacesuits (nyt)
 - **Jun 11, 08:49 AM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
 - **Jun 11, 09:24 AM** - Quantum Space to go public in SPAC deal (spacenews)
+- **Jun 11, 09:59 AM** - NASA’s moon-base plans are off to a slow start. (nyt)
