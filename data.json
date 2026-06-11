@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-11T00:04:49.974414+00:00",
-    "trigger_count": 6,
-    "current_item_id": "daec9ddad223a9fda2a36797a9b5b472",
+    "trigger_count": 0,
+    "current_item_id": "383e4f3e4d091f15fa3c51beed8ddecf",
     "data": [
         {
             "id": "0804cd2018bc38ea634a55819244e325",
@@ -8032,6 +8032,18 @@
             "fetched_datetime": "2026-06-11T17:44:25.625460Z",
             "shown_at": [
                 "2026-06-11T17:44:28.430488Z"
+            ]
+        },
+        {
+            "id": "383e4f3e4d091f15fa3c51beed8ddecf",
+            "source": "spacenews",
+            "text": "Senate NDAA backs plan to fold SDA, Space RCO into Space Force",
+            "source_link": "https://spacenews.com/senate-ndaa-backs-plan-to-fold-sda-space-rco-into-space-force/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-11T18:54:29.665541Z",
+            "shown_at": [
+                "2026-06-11T18:54:35.771327Z"
             ]
         }
     ]
