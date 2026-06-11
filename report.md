@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 18 | 19 | 33 |
 | breaking_defense | 2 | 4 | 10 | 19 |
-| nyt | 2 | 13 | 10 | 27 |
+| nyt | 2 | 13 | 11 | 28 |
 
 # Shown Order
 
@@ -2421,3 +2421,4 @@
 - **Jun 11, 06:24 AM** - Can NASA Really Land Astronauts on the Moon by 2028? (nyt)
 - **Jun 11, 06:59 AM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
 - **Jun 11, 07:34 AM** - OQ Technology plans direct-to-smartphone demo with cellular spectrum (spacenews)
+- **Jun 11, 08:13 AM** - Artemis III Astronauts to Wear Prada Spacesuits (nyt)
