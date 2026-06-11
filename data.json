@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-11T00:04:49.974414+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ca67165fa48654adb1e8f2ba71c2ba4a",
+    "trigger_count": 0,
+    "current_item_id": "57501ca1fc22988ad77234f68739922f",
     "data": [
         {
             "id": "0804cd2018bc38ea634a55819244e325",
@@ -7951,9 +7951,12 @@
             "source": "spacenews",
             "text": "Long March 5 launches classified satellite, Zhuque-2E lofts direct-to-device test sats",
             "source_link": "https://spacenews.com/long-march-5-launches-classified-satellite-zhuque-2e-lofts-direct-to-device-test-sats/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-06-11T11:49:25.676496Z"
+            "fetched_datetime": "2026-06-11T11:49:25.676496Z",
+            "shown_at": [
+                "2026-06-11T12:24:36.948049Z"
+            ]
         }
     ]
 }

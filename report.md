@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 18 | 18 | 33 |
+| spacenews | 11 | 18 | 19 | 33 |
 | breaking_defense | 2 | 4 | 10 | 19 |
 | nyt | 2 | 13 | 11 | 28 |
 
@@ -2428,3 +2428,4 @@
 - **Jun 11, 10:39 AM** - Space Force contracts Viasat, Intelsat for first of new anti-jam communication sats (breaking_defense)
 - **Jun 11, 11:14 AM** - Missile defense in the age of saturation warfare (spacenews)
 - **Jun 11, 11:49 AM** - ESA awards contract for next-generation radar imaging satellites (spacenews)
+- **Jun 11, 12:24 PM** - Long March 5 launches classified satellite, Zhuque-2E lofts direct-to-device test sats (spacenews)
