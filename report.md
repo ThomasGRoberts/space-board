@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 21 | 18 | 36 |
+| spacenews | 12 | 21 | 19 | 36 |
 | breaking_defense | 1 | 3 | 11 | 20 |
 | nyt | 0 | 4 | 11 | 24 |
 
@@ -2441,3 +2441,4 @@
 - **Jun 11, 06:19 PM** - NRO funds BlackSky for new satellites, AI-optimized image detection system (breaking_defense)
 - **Jun 11, 06:54 PM** - Senate NDAA backs plan to fold SDA, Space RCO into Space Force (spacenews)
 - **Jun 11, 07:29 PM** - Remember Apollo 9? No? Have a Look at Artemis III. (nyt)
+- **Jun 11, 08:04 PM** - Vandenberg offers new launch site for small and medium rockets (spacenews)

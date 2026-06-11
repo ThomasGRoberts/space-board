@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-11T00:04:49.974414+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d2f52b70b41119d9c3e90c40ca3dca2b",
+    "trigger_count": 0,
+    "current_item_id": "8869550a41cb30b1173414e96baca26d",
     "data": [
         {
             "id": "0804cd2018bc38ea634a55819244e325",
@@ -8045,6 +8045,18 @@
             "fetched_datetime": "2026-06-11T18:54:29.665541Z",
             "shown_at": [
                 "2026-06-11T18:54:35.771327Z"
+            ]
+        },
+        {
+            "id": "8869550a41cb30b1173414e96baca26d",
+            "source": "spacenews",
+            "text": "Vandenberg offers new launch site for small and medium rockets",
+            "source_link": "https://spacenews.com/vandenberg-offers-new-launch-site-for-small-and-medium-rockets/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-11T20:04:45.710137Z",
+            "shown_at": [
+                "2026-06-11T20:04:48.645018Z"
             ]
         }
     ]
