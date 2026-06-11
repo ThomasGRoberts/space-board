@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 21 | 19 | 36 |
-| breaking_defense | 0 | 3 | 10 | 20 |
-| nyt | 0 | 4 | 11 | 24 |
+| breaking_defense | 0 | 3 | 11 | 21 |
+| nyt | 0 | 4 | 11 | 23 |
 
 # Shown Order
 
@@ -2442,3 +2442,4 @@
 - **Jun 11, 06:54 PM** - Senate NDAA backs plan to fold SDA, Space RCO into Space Force (spacenews)
 - **Jun 11, 07:29 PM** - Remember Apollo 9? No? Have a Look at Artemis III. (nyt)
 - **Jun 11, 08:04 PM** - Vandenberg offers new launch site for small and medium rockets (spacenews)
+- **Jun 11, 08:39 PM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
