@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 18 | 18 | 33 |
 | breaking_defense | 2 | 4 | 10 | 19 |
-| nyt | 2 | 13 | 11 | 28 |
+| nyt | 2 | 13 | 12 | 29 |
 
 # Shown Order
 
@@ -2432,3 +2432,4 @@
 - **Jun 11, 12:59 PM** - Open Cosmos seeks deadline extension for broadband constellation (spacenews)
 - **Jun 11, 01:34 PM** - GEO cancellations complicate space insurance recovery (spacenews)
 - **Jun 11, 02:09 PM** - K2 Space, Rocket Lab win key supplier roles in Space Force satcom program (spacenews)
+- **Jun 11, 02:44 PM** - How Will the Artemis III Astronauts Train? (nyt)
