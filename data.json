@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-11T00:04:49.974414+00:00",
-    "trigger_count": 6,
-    "current_item_id": "00c7c537ca2964def6b8963f1eebb81a",
+    "trigger_count": 0,
+    "current_item_id": "ca67165fa48654adb1e8f2ba71c2ba4a",
     "data": [
         {
             "id": "0804cd2018bc38ea634a55819244e325",
@@ -7933,6 +7933,27 @@
             "shown_at": [
                 "2026-06-11T11:14:14.079116Z"
             ]
+        },
+        {
+            "id": "ca67165fa48654adb1e8f2ba71c2ba4a",
+            "source": "spacenews",
+            "text": "ESA awards contract for next-generation radar imaging satellites",
+            "source_link": "https://spacenews.com/esa-awards-contract-for-next-generation-radar-imaging-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-11T11:49:25.676433Z",
+            "shown_at": [
+                "2026-06-11T11:49:26.752915Z"
+            ]
+        },
+        {
+            "id": "57501ca1fc22988ad77234f68739922f",
+            "source": "spacenews",
+            "text": "Long March 5 launches classified satellite, Zhuque-2E lofts direct-to-device test sats",
+            "source_link": "https://spacenews.com/long-march-5-launches-classified-satellite-zhuque-2e-lofts-direct-to-device-test-sats/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-06-11T11:49:25.676496Z"
         }
     ]
 }
