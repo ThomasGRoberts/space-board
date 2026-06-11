@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 20 | 19 | 35 |
-| breaking_defense | 1 | 4 | 10 | 20 |
+| breaking_defense | 1 | 3 | 11 | 20 |
 | nyt | 0 | 4 | 11 | 25 |
 
 # Shown Order
@@ -2438,3 +2438,4 @@
 - **Jun 11, 04:29 PM** - Can NASA Really Land Astronauts on the Moon by 2028? (nyt)
 - **Jun 11, 05:05 PM** - HyImpulse signs letter of intent with Oman’s spaceport (spacenews)
 - **Jun 11, 05:44 PM** - ESA astronaut assignment on Artemis 3 part of negotiations on revised Artemis roles (spacenews)
+- **Jun 11, 06:19 PM** - NRO funds BlackSky for new satellites, AI-optimized image detection system (breaking_defense)
