@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 18 | 18 | 33 |
+| spacenews | 10 | 18 | 19 | 33 |
 | breaking_defense | 2 | 4 | 10 | 19 |
 | nyt | 2 | 13 | 11 | 28 |
 
@@ -2420,3 +2420,4 @@
 - **Jun 11, 05:49 AM** - Qianfan constellation deployment hits 200 satellites with Long March 8 and 6A launches (spacenews)
 - **Jun 11, 06:24 AM** - Can NASA Really Land Astronauts on the Moon by 2028? (nyt)
 - **Jun 11, 06:59 AM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
+- **Jun 11, 07:34 AM** - OQ Technology plans direct-to-smartphone demo with cellular spectrum (spacenews)
