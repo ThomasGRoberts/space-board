@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 12 | 21 | 19 | 36 |
 | breaking_defense | 1 | 3 | 11 | 20 |
-| nyt | 0 | 4 | 10 | 24 |
+| nyt | 0 | 4 | 11 | 24 |
 
 # Shown Order
 
@@ -2440,3 +2440,4 @@
 - **Jun 11, 05:44 PM** - ESA astronaut assignment on Artemis 3 part of negotiations on revised Artemis roles (spacenews)
 - **Jun 11, 06:19 PM** - NRO funds BlackSky for new satellites, AI-optimized image detection system (breaking_defense)
 - **Jun 11, 06:54 PM** - Senate NDAA backs plan to fold SDA, Space RCO into Space Force (spacenews)
+- **Jun 11, 07:29 PM** - Remember Apollo 9? No? Have a Look at Artemis III. (nyt)
