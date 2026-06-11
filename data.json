@@ -1,9 +1,179 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-06-10T00:05:09.415471+00:00",
-    "trigger_count": 0,
+    "last_run_datetime": "2026-06-11T00:04:49.974414+00:00",
+    "trigger_count": 1,
     "current_item_id": "97c92cc02be924bf11ecc56fafc398d0",
     "data": [
+        {
+            "id": "0804cd2018bc38ea634a55819244e325",
+            "source": "spacenews",
+            "text": "Artemis 3 commander confident crew will be ready for 2027 mission",
+            "source_link": "https://spacenews.com/artemis-3-commander-confident-crew-will-be-ready-for-2027-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-10T22:49:21.050381Z",
+            "shown_at": [
+                "2026-06-10T22:49:22.330687Z"
+            ]
+        },
+        {
+            "id": "97c92cc02be924bf11ecc56fafc398d0",
+            "source": "breaking_defense",
+            "text": "LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise",
+            "source_link": "https://breakingdefense.com/2026/06/leolabs-new-mobile-space-watch-radar-to-participate-in-valiant-shield-exercise/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-10T20:29:22.896884Z",
+            "shown_at": [
+                "2026-06-10T20:29:24.358669Z",
+                "2026-06-10T23:59:39.352164Z"
+            ]
+        },
+        {
+            "id": "a2229327eb7abb69084921a9830d58bb",
+            "source": "spacenews",
+            "text": "House appropriators back $55.5 billion Space Force budget, omit reconciliation funds",
+            "source_link": "https://spacenews.com/house-appropriators-back-55-5-billion-space-force-budget-omit-reconciliation-funds/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-10T19:49:30.712285Z",
+            "shown_at": [
+                "2026-06-10T19:49:33.437010Z"
+            ]
+        },
+        {
+            "id": "e582b3de4daaf9ecf6d02b796297c771",
+            "source": "breaking_defense",
+            "text": "ICEYE, Rheinmetall form German joint venture for space-based ISR",
+            "source_link": "https://breakingdefense.com/2026/06/iceye-rhenmetall-form-german-joint-venture-for-space-based-isr/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-10T17:59:17.735130Z",
+            "shown_at": [
+                "2026-06-10T17:59:20.277016Z",
+                "2026-06-10T22:14:08.642161Z"
+            ]
+        },
+        {
+            "id": "3a4377be6e2c4e8b2fe63ce8161a4507",
+            "source": "nyt",
+            "text": "Artemis Astronauts to Wear Prada Spacesuits",
+            "source_link": "https://www.nytimes.com/2026/06/09/science/space/prada-axiom-lcvg-artemis-iii.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-10T17:24:19.843086Z",
+            "shown_at": [
+                "2026-06-10T18:34:37.862941Z"
+            ]
+        },
+        {
+            "id": "e66fd9100d021c9fb7147b7b6c936f5c",
+            "source": "nyt",
+            "text": "NASA Crew-12 Commander Captures Snaky Southern Lights From Space Station",
+            "source_link": "https://www.nytimes.com/2026/06/10/science/jessica-meir-aurora-southern-lights-space-video.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-10T17:24:19.842530Z",
+            "shown_at": [
+                "2026-06-10T17:24:22.436888Z"
+            ]
+        },
+        {
+            "id": "ab20abc86b064b717fb4344e5317de51",
+            "source": "spacenews",
+            "text": "Spire to pursue space-based missile warning in partnership with German defense firm",
+            "source_link": "https://spacenews.com/spire-to-pursue-space-based-missile-warning-in-partnership-with-german-defense-firm/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-10T15:04:59.371700Z",
+            "shown_at": [
+                "2026-06-10T16:05:04.122762Z"
+            ]
+        },
+        {
+            "id": "7764cce6075c466a294fe0b41ce64e2d",
+            "source": "spacenews",
+            "text": "Commercial Space Federation (CSF) Welcomes Two New Space Supply Chain Members",
+            "source_link": "https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-space-supply-chain-members/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-10T15:04:59.371640Z",
+            "shown_at": [
+                "2026-06-10T15:05:02.021264Z"
+            ]
+        },
+        {
+            "id": "9f9f8584d9b85de7bbb30b231a1a32ec",
+            "source": "spacenews",
+            "text": "UK startup Applied Atomics to enter US market with focus on military space mobility",
+            "source_link": "https://spacenews.com/uk-startup-applied-atomics-to-enter-us-market-with-focus-on-military-space-mobility/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-10T14:29:35.030023Z",
+            "shown_at": [
+                "2026-06-10T14:29:37.496321Z"
+            ]
+        },
+        {
+            "id": "565d3173d9be6f83f04a99e50723cd24",
+            "source": "spacenews",
+            "text": "Orbital raises $5 million to join orbital data center race",
+            "source_link": "https://spacenews.com/orbital-raises-5-million-to-join-orbital-data-center-race/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-10T13:54:25.697414Z",
+            "shown_at": [
+                "2026-06-10T13:54:28.224867Z"
+            ]
+        },
+        {
+            "id": "8ae9e7d521b4884638e45cc0f21d25e6",
+            "source": "spacenews",
+            "text": "Arkadia Space to supply thrusters for Reflex Aerospace satellite",
+            "source_link": "https://spacenews.com/arkadia-space-to-supply-thrusters-for-reflex-aerospace-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-10T12:39:30.996294Z",
+            "shown_at": [
+                "2026-06-10T13:14:24.452370Z"
+            ]
+        },
+        {
+            "id": "59bf5f7fd63c45f6e7f98a88c8b9a261",
+            "source": "spacenews",
+            "text": "LeoLabs deploys mobile space-tracking radar in Indo-Pacific ",
+            "source_link": "https://spacenews.com/leolabs-deploys-mobile-space-tracking-radar-in-indo-pacific/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-10T12:39:30.996217Z",
+            "shown_at": [
+                "2026-06-10T12:39:32.934830Z"
+            ]
+        },
+        {
+            "id": "978c45ed6b976248c4b38ec970295258",
+            "source": "spacenews",
+            "text": "Spaceport crunch reviving interest in sea-based launch",
+            "source_link": "https://spacenews.com/spaceport-crunch-reviving-interest-in-sea-based-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-10T12:04:51.993924Z",
+            "shown_at": [
+                "2026-06-10T12:04:55.332176Z"
+            ]
+        },
+        {
+            "id": "4d10738f2334b3aae381d8050c5034d3",
+            "source": "spacenews",
+            "text": "After the launch: Why Europe’s space ambitions depend on what comes next",
+            "source_link": "https://spacenews.com/after-the-launch-why-europes-space-ambitions-depend-on-what-comes-next/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-10T11:29:22.311302Z",
+            "shown_at": [
+                "2026-06-10T11:29:23.185369Z"
+            ]
+        },
         {
             "id": "31de1281b510b790537b6a8de35cbb32",
             "source": "nyt",
@@ -7732,389 +7902,6 @@
             "fetched_datetime": "2026-04-08T07:24:25.979140Z",
             "shown_at": [
                 "2026-04-08T07:24:26.604410Z"
-            ]
-        },
-        {
-            "id": "12d948a906c28055761ddaf91936cc28",
-            "source": "nyt",
-            "text": "Artemis II Astronauts Get a Break After Journey Around the Moon",
-            "source_link": "https://www.nytimes.com/2026/04/07/science/artemis-2-moon-nasa-astronauts-crew.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-08T00:24:24.145287Z",
-            "shown_at": [
-                "2026-04-08T00:24:25.352547Z",
-                "2026-04-09T05:09:25.024158Z",
-                "2026-04-09T19:24:10.264016Z",
-                "2026-04-09T21:44:11.181469Z",
-                "2026-04-10T00:04:38.111485Z",
-                "2026-04-11T10:39:21.356584Z",
-                "2026-04-13T01:29:24.469625Z"
-            ]
-        },
-        {
-            "id": "ddea7014a4d6968000ddb6aae90c8c0e",
-            "source": "spacenews",
-            "text": "Hungary taps Northrop Grumman for first national geostationary communications satellite",
-            "source_link": "https://spacenews.com/hungary-taps-northrop-grumman-for-first-national-geostationary-communications-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-07T20:19:34.641103Z",
-            "shown_at": [
-                "2026-04-07T20:19:35.917351Z",
-                "2026-04-08T02:09:20.620305Z",
-                "2026-04-08T09:49:14.883818Z",
-                "2026-04-09T02:09:26.789070Z",
-                "2026-04-09T06:54:29.146990Z",
-                "2026-04-12T08:29:18.913351Z"
-            ]
-        },
-        {
-            "id": "ce9799cea652ce7af521069040e268a0",
-            "source": "nyt",
-            "text": "NASA’s Artemis II Astronauts Spread ‘Moon Joy’ to the Public",
-            "source_link": "https://www.nytimes.com/2026/04/07/science/nasa-artemis-ii-astronauts-moon-joy.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-07T15:39:17.415698Z",
-            "shown_at": [
-                "2026-04-07T15:39:19.068394Z",
-                "2026-04-11T21:49:23.113318Z",
-                "2026-04-12T11:24:11.666208Z",
-                "2026-04-12T20:44:20.064669Z",
-                "2026-04-14T05:09:19.471869Z"
-            ]
-        },
-        {
-            "id": "287b35ebbdf147d98be14c9077ade87f",
-            "source": "nyt",
-            "text": "See First Photos From NASA’s Artemis II Moon Mission Capturing a Setting Earth and Eclipse",
-            "source_link": "https://www.nytimes.com/2026/04/07/science/nasa-artemis-moon-flyby-photos.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-07T15:05:01.664456Z",
-            "shown_at": [
-                "2026-04-07T15:05:02.874362Z",
-                "2026-04-09T01:34:29.223176Z",
-                "2026-04-11T00:09:14.671337Z",
-                "2026-04-11T19:29:11.810371Z",
-                "2026-04-14T08:39:20.858895Z"
-            ]
-        },
-        {
-            "id": "41e39996ce2b119bb01af7e91e1216c2",
-            "source": "spacenews",
-            "text": "NASA’s new moon base project requires operational technology systems in space, but they are vulnerable.",
-            "source_link": "https://spacenews.com/nasas-new-moon-base-project-requires-operational-technology-systems-in-space-but-they-are-vulnerable/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-07T13:19:22.293776Z",
-            "shown_at": [
-                "2026-04-07T13:54:21.668261Z",
-                "2026-04-08T23:49:19.787718Z",
-                "2026-04-11T14:44:14.656408Z",
-                "2026-04-12T07:19:11.594499Z"
-            ]
-        },
-        {
-            "id": "f7b5c676b661db6918731c1bf0763dff",
-            "source": "spacenews",
-            "text": "Starfish Space raises more than $100 million",
-            "source_link": "https://spacenews.com/starfish-space-raises-more-than-100-million/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-07T13:19:22.293717Z",
-            "shown_at": [
-                "2026-04-07T13:19:23.303631Z",
-                "2026-04-08T00:59:24.784854Z"
-            ]
-        },
-        {
-            "id": "f135faf7a622446ffeef5229ce994f99",
-            "source": "spacenews",
-            "text": "Nominate space industry leaders for the 2026 SpaceNews Icon Awards",
-            "source_link": "https://spacenews.com/nominate-space-industry-leaders-for-the-2026-spacenews-icon-awards/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-07T12:44:40.250080Z",
-            "shown_at": [
-                "2026-04-07T12:44:42.031238Z",
-                "2026-04-14T09:14:23.026227Z"
-            ]
-        },
-        {
-            "id": "80baf54a6887987f5f831dbd59df7165",
-            "source": "spacenews",
-            "text": "Earth observation operators push to deliver satellite images within minutes",
-            "source_link": "https://spacenews.com/earth-observation-operators-push-to-deliver-satellite-images-within-minutes/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-07T11:34:34.511408Z",
-            "shown_at": [
-                "2026-04-07T11:34:36.649722Z",
-                "2026-04-09T14:59:18.463532Z",
-                "2026-04-13T02:04:38.575735Z"
-            ]
-        },
-        {
-            "id": "0a42349609997e93803ec90f1e98076e",
-            "source": "nyt",
-            "text": "Artemis II Astronauts Head Home After Historic Journey Around the Moon",
-            "source_link": "https://www.nytimes.com/2026/04/06/science/space/nasa-artemis-moon-flyby.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-07T05:39:08.441499Z",
-            "shown_at": [
-                "2026-04-07T05:39:09.173194Z",
-                "2026-04-08T06:14:48.197431Z",
-                "2026-04-11T08:54:12.770907Z",
-                "2026-04-13T16:04:57.058607Z"
-            ]
-        },
-        {
-            "id": "8c54743f8656b094070d0e666552c350",
-            "source": "nyt",
-            "text": "Trump Calls Artemis II Astronauts After Their Historic Journey Around the Moon",
-            "source_link": "https://www.nytimes.com/2026/04/07/us/politics/trump-nasa-artemis-astronauts-moon.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-07T04:29:13.433147Z",
-            "shown_at": [
-                "2026-04-07T04:29:14.175254Z",
-                "2026-04-10T22:59:12.017481Z",
-                "2026-04-12T04:19:04.056381Z",
-                "2026-04-12T12:34:30.211763Z"
-            ]
-        },
-        {
-            "id": "6659a22f493a4b6ca5fad687d2fee7c0",
-            "source": "spacenews",
-            "text": "Artemis 2 swings around the moon",
-            "source_link": "https://spacenews.com/artemis-2-swings-around-the-moon/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-07T02:44:26.232801Z",
-            "shown_at": [
-                "2026-04-07T02:44:27.116522Z",
-                "2026-04-10T01:49:13.287291Z",
-                "2026-04-14T01:04:38.502337Z"
-            ]
-        },
-        {
-            "id": "bdcc8cdddc97b22033675bca3e76b8ab",
-            "source": "nyt",
-            "text": "The first earthlings to the moon weren’t humans. They were tortoises.",
-            "source_link": "https://www.nytimes.com/live/2026/04/06/science/nasa-artemis-ii-moon-lunar-flyby/the-first-earthlings-to-the-moon-werent-humans-they-were-tortoises",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-07T01:34:23.307309Z",
-            "shown_at": [
-                "2026-04-07T01:34:24.023476Z",
-                "2026-04-11T06:34:21.200044Z",
-                "2026-04-12T17:14:17.422357Z",
-                "2026-04-12T18:24:15.776696Z",
-                "2026-04-12T21:54:13.009813Z",
-                "2026-04-13T00:19:23.578074Z",
-                "2026-04-13T09:39:14.146513Z",
-                "2026-04-13T10:49:20.335838Z"
-            ]
-        },
-        {
-            "id": "12a0f984f3f3b5319bf7725749587fe1",
-            "source": "nyt",
-            "text": "The Dark Side of the Moon Is Really the Far Side",
-            "source_link": "https://www.nytimes.com/2026/04/06/science/moon-dark-side-far-side.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-06T23:14:19.329429Z",
-            "shown_at": [
-                "2026-04-06T23:14:20.345999Z",
-                "2026-04-10T04:44:16.578268Z"
-            ]
-        },
-        {
-            "id": "1482f371711220fdd4ab4cec0194c3f7",
-            "source": "nyt",
-            "text": "Artemis II Astronauts Name Moon Crater After Carroll, Reid Wiseman’s Late Wife",
-            "source_link": "https://www.nytimes.com/2026/04/06/science/moon-crater-carroll-reid-wiseman.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-06T21:29:30.979661Z",
-            "shown_at": [
-                "2026-04-06T21:29:32.286077Z",
-                "2026-04-10T13:39:17.585066Z",
-                "2026-04-12T14:54:12.311722Z",
-                "2026-04-13T08:29:12.982957Z"
-            ]
-        },
-        {
-            "id": "4d10738f2334b3aae381d8050c5034d3",
-            "source": "spacenews",
-            "text": "After the launch: Why Europe’s space ambitions depend on what comes next",
-            "source_link": "https://spacenews.com/after-the-launch-why-europes-space-ambitions-depend-on-what-comes-next/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-10T11:29:22.311302Z",
-            "shown_at": [
-                "2026-06-10T11:29:23.185369Z"
-            ]
-        },
-        {
-            "id": "978c45ed6b976248c4b38ec970295258",
-            "source": "spacenews",
-            "text": "Spaceport crunch reviving interest in sea-based launch",
-            "source_link": "https://spacenews.com/spaceport-crunch-reviving-interest-in-sea-based-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-10T12:04:51.993924Z",
-            "shown_at": [
-                "2026-06-10T12:04:55.332176Z"
-            ]
-        },
-        {
-            "id": "59bf5f7fd63c45f6e7f98a88c8b9a261",
-            "source": "spacenews",
-            "text": "LeoLabs deploys mobile space-tracking radar in Indo-Pacific ",
-            "source_link": "https://spacenews.com/leolabs-deploys-mobile-space-tracking-radar-in-indo-pacific/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-10T12:39:30.996217Z",
-            "shown_at": [
-                "2026-06-10T12:39:32.934830Z"
-            ]
-        },
-        {
-            "id": "8ae9e7d521b4884638e45cc0f21d25e6",
-            "source": "spacenews",
-            "text": "Arkadia Space to supply thrusters for Reflex Aerospace satellite",
-            "source_link": "https://spacenews.com/arkadia-space-to-supply-thrusters-for-reflex-aerospace-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-10T12:39:30.996294Z",
-            "shown_at": [
-                "2026-06-10T13:14:24.452370Z"
-            ]
-        },
-        {
-            "id": "565d3173d9be6f83f04a99e50723cd24",
-            "source": "spacenews",
-            "text": "Orbital raises $5 million to join orbital data center race",
-            "source_link": "https://spacenews.com/orbital-raises-5-million-to-join-orbital-data-center-race/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-10T13:54:25.697414Z",
-            "shown_at": [
-                "2026-06-10T13:54:28.224867Z"
-            ]
-        },
-        {
-            "id": "9f9f8584d9b85de7bbb30b231a1a32ec",
-            "source": "spacenews",
-            "text": "UK startup Applied Atomics to enter US market with focus on military space mobility",
-            "source_link": "https://spacenews.com/uk-startup-applied-atomics-to-enter-us-market-with-focus-on-military-space-mobility/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-10T14:29:35.030023Z",
-            "shown_at": [
-                "2026-06-10T14:29:37.496321Z"
-            ]
-        },
-        {
-            "id": "7764cce6075c466a294fe0b41ce64e2d",
-            "source": "spacenews",
-            "text": "Commercial Space Federation (CSF) Welcomes Two New Space Supply Chain Members",
-            "source_link": "https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-space-supply-chain-members/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-10T15:04:59.371640Z",
-            "shown_at": [
-                "2026-06-10T15:05:02.021264Z"
-            ]
-        },
-        {
-            "id": "ab20abc86b064b717fb4344e5317de51",
-            "source": "spacenews",
-            "text": "Spire to pursue space-based missile warning in partnership with German defense firm",
-            "source_link": "https://spacenews.com/spire-to-pursue-space-based-missile-warning-in-partnership-with-german-defense-firm/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-10T15:04:59.371700Z",
-            "shown_at": [
-                "2026-06-10T16:05:04.122762Z"
-            ]
-        },
-        {
-            "id": "e66fd9100d021c9fb7147b7b6c936f5c",
-            "source": "nyt",
-            "text": "NASA Crew-12 Commander Captures Snaky Southern Lights From Space Station",
-            "source_link": "https://www.nytimes.com/2026/06/10/science/jessica-meir-aurora-southern-lights-space-video.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-10T17:24:19.842530Z",
-            "shown_at": [
-                "2026-06-10T17:24:22.436888Z"
-            ]
-        },
-        {
-            "id": "3a4377be6e2c4e8b2fe63ce8161a4507",
-            "source": "nyt",
-            "text": "Artemis Astronauts to Wear Prada Spacesuits",
-            "source_link": "https://www.nytimes.com/2026/06/09/science/space/prada-axiom-lcvg-artemis-iii.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-10T17:24:19.843086Z",
-            "shown_at": [
-                "2026-06-10T18:34:37.862941Z"
-            ]
-        },
-        {
-            "id": "e582b3de4daaf9ecf6d02b796297c771",
-            "source": "breaking_defense",
-            "text": "ICEYE, Rheinmetall form German joint venture for space-based ISR",
-            "source_link": "https://breakingdefense.com/2026/06/iceye-rhenmetall-form-german-joint-venture-for-space-based-isr/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-10T17:59:17.735130Z",
-            "shown_at": [
-                "2026-06-10T17:59:20.277016Z",
-                "2026-06-10T22:14:08.642161Z"
-            ]
-        },
-        {
-            "id": "a2229327eb7abb69084921a9830d58bb",
-            "source": "spacenews",
-            "text": "House appropriators back $55.5 billion Space Force budget, omit reconciliation funds",
-            "source_link": "https://spacenews.com/house-appropriators-back-55-5-billion-space-force-budget-omit-reconciliation-funds/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-10T19:49:30.712285Z",
-            "shown_at": [
-                "2026-06-10T19:49:33.437010Z"
-            ]
-        },
-        {
-            "id": "97c92cc02be924bf11ecc56fafc398d0",
-            "source": "breaking_defense",
-            "text": "LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise",
-            "source_link": "https://breakingdefense.com/2026/06/leolabs-new-mobile-space-watch-radar-to-participate-in-valiant-shield-exercise/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-10T20:29:22.896884Z",
-            "shown_at": [
-                "2026-06-10T20:29:24.358669Z",
-                "2026-06-10T23:59:39.352164Z"
-            ]
-        },
-        {
-            "id": "0804cd2018bc38ea634a55819244e325",
-            "source": "spacenews",
-            "text": "Artemis 3 commander confident crew will be ready for 2027 mission",
-            "source_link": "https://spacenews.com/artemis-3-commander-confident-crew-will-be-ready-for-2027-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-10T22:49:21.050381Z",
-            "shown_at": [
-                "2026-06-10T22:49:22.330687Z"
             ]
         }
     ]
