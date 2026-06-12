@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-12T00:05:03.049548+00:00",
-    "trigger_count": 6,
-    "current_item_id": "936447716f0ed30960a056a1e69a42ff",
+    "trigger_count": 0,
+    "current_item_id": "85fa85d7ed2cc1507b4c8c33836bc818",
     "data": [
         {
             "id": "936447716f0ed30960a056a1e69a42ff",
@@ -7909,6 +7909,18 @@
             "fetched_datetime": "2026-04-08T20:19:25.139100Z",
             "shown_at": [
                 "2026-04-08T20:19:26.706757Z"
+            ]
+        },
+        {
+            "id": "85fa85d7ed2cc1507b4c8c33836bc818",
+            "source": "spacenews",
+            "text": "AAC Clyde Space wins ESA contract to complete maritime-monitoring constellation",
+            "source_link": "https://spacenews.com/aac-clyde-space-wins-esa-contract-to-complete-maritime-monitoring-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-12T00:09:22.350522Z",
+            "shown_at": [
+                "2026-06-12T00:09:24.268712Z"
             ]
         }
     ]
