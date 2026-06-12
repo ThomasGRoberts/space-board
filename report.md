@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 3 | 12 | 23 |
 | spacenews | 12 | 22 | 18 | 37 |
-| breaking_defense | 0 | 2 | 10 | 20 |
+| breaking_defense | 0 | 2 | 11 | 21 |
 
 # Shown Order
 
@@ -2431,3 +2431,4 @@
 - **Jun 12, 07:49 AM** - Space Force contracts Viasat, Intelsat for first of new anti-jam communication sats (breaking_defense)
 - **Jun 12, 08:24 AM** - Can NASA Really Land Astronauts on the Moon by 2028? (nyt)
 - **Jun 12, 08:59 AM** - UK startup Applied Atomics to enter US market with focus on military space mobility (spacenews)
+- **Jun 12, 09:34 AM** - Space Force contracts Viasat, Intelsat for first of new anti-jam communication sats (breaking_defense)
