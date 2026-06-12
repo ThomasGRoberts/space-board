@@ -1,9 +1,154 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-06-11T00:04:49.974414+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2026-06-12T00:05:03.049548+00:00",
+    "trigger_count": 6,
     "current_item_id": "936447716f0ed30960a056a1e69a42ff",
     "data": [
+        {
+            "id": "936447716f0ed30960a056a1e69a42ff",
+            "source": "nyt",
+            "text": "Alan Hale, Sky Watcher Who Created a Comet Sensation, Dies at 68",
+            "source_link": "https://www.nytimes.com/2026/06/11/science/space/alan-hale-dead.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-11T21:49:07.784831Z",
+            "shown_at": [
+                "2026-06-11T21:49:08.653946Z",
+                "2026-06-11T23:34:26.546973Z"
+            ]
+        },
+        {
+            "id": "8869550a41cb30b1173414e96baca26d",
+            "source": "spacenews",
+            "text": "Vandenberg offers new launch site for small and medium rockets",
+            "source_link": "https://spacenews.com/vandenberg-offers-new-launch-site-for-small-and-medium-rockets/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-11T20:04:45.710137Z",
+            "shown_at": [
+                "2026-06-11T20:04:48.645018Z"
+            ]
+        },
+        {
+            "id": "383e4f3e4d091f15fa3c51beed8ddecf",
+            "source": "spacenews",
+            "text": "Senate NDAA backs plan to fold SDA, Space RCO into Space Force",
+            "source_link": "https://spacenews.com/senate-ndaa-backs-plan-to-fold-sda-space-rco-into-space-force/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-11T18:54:29.665541Z",
+            "shown_at": [
+                "2026-06-11T18:54:35.771327Z"
+            ]
+        },
+        {
+            "id": "98e82a1f7882bf6cd2f1863c39cfd137",
+            "source": "spacenews",
+            "text": "ESA astronaut assignment on Artemis 3 part of negotiations on revised Artemis roles",
+            "source_link": "https://spacenews.com/esa-astronaut-assignment-on-artemis-3-part-of-negotiations-on-revised-artemis-roles/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-11T17:44:25.625460Z",
+            "shown_at": [
+                "2026-06-11T17:44:28.430488Z"
+            ]
+        },
+        {
+            "id": "57a8327f2176ae03b6adc03ec7ee751c",
+            "source": "spacenews",
+            "text": "HyImpulse signs letter of intent with Oman’s spaceport",
+            "source_link": "https://spacenews.com/hyimpulse-signs-letter-of-intent-with-omans-spaceport/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-11T17:05:17.903463Z",
+            "shown_at": [
+                "2026-06-11T17:05:20.344704Z"
+            ]
+        },
+        {
+            "id": "82fa43dd47f98c99301a0693d013de49",
+            "source": "spacenews",
+            "text": "Tilebox Launches Verifiable AI Workflows for Satellite Data",
+            "source_link": "https://spacenews.com/tilebox-launches-verifiable-ai-workflows-for-satellite-data/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-11T15:19:42.554248Z",
+            "shown_at": [
+                "2026-06-11T15:19:43.464969Z"
+            ]
+        },
+        {
+            "id": "a12517b6ea00a6695cc92516b7a91c82",
+            "source": "spacenews",
+            "text": "K2 Space, Rocket Lab win key supplier roles in Space Force satcom program",
+            "source_link": "https://spacenews.com/k2-space-rocket-lab-win-key-supplier-roles-in-space-force-satcom-program/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-11T14:09:09.386937Z",
+            "shown_at": [
+                "2026-06-11T14:09:10.435210Z"
+            ]
+        },
+        {
+            "id": "dd72eee580a0684457bcd82ade633045",
+            "source": "spacenews",
+            "text": "GEO cancellations complicate space insurance recovery",
+            "source_link": "https://spacenews.com/geo-cancellations-complicate-space-insurance-recovery/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-11T13:34:51.566128Z",
+            "shown_at": [
+                "2026-06-11T13:34:52.567551Z"
+            ]
+        },
+        {
+            "id": "0d751c3b109e532b67dccd88c96aa4ed",
+            "source": "spacenews",
+            "text": "Open Cosmos seeks deadline extension for broadband constellation",
+            "source_link": "https://spacenews.com/open-cosmos-seeks-deadline-extension-for-broadband-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-11T12:59:14.667404Z",
+            "shown_at": [
+                "2026-06-11T12:59:15.494381Z"
+            ]
+        },
+        {
+            "id": "57501ca1fc22988ad77234f68739922f",
+            "source": "spacenews",
+            "text": "Long March 5 launches classified satellite, Zhuque-2E lofts direct-to-device test sats",
+            "source_link": "https://spacenews.com/long-march-5-launches-classified-satellite-zhuque-2e-lofts-direct-to-device-test-sats/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-11T11:49:25.676496Z",
+            "shown_at": [
+                "2026-06-11T12:24:36.948049Z"
+            ]
+        },
+        {
+            "id": "ca67165fa48654adb1e8f2ba71c2ba4a",
+            "source": "spacenews",
+            "text": "ESA awards contract for next-generation radar imaging satellites",
+            "source_link": "https://spacenews.com/esa-awards-contract-for-next-generation-radar-imaging-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-11T11:49:25.676433Z",
+            "shown_at": [
+                "2026-06-11T11:49:26.752915Z"
+            ]
+        },
+        {
+            "id": "00c7c537ca2964def6b8963f1eebb81a",
+            "source": "spacenews",
+            "text": "Missile defense in the age of saturation warfare",
+            "source_link": "https://spacenews.com/missile-defense-in-the-age-of-saturation-warfare/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-11T11:14:11.639702Z",
+            "shown_at": [
+                "2026-06-11T11:14:14.079116Z"
+            ]
+        },
         {
             "id": "0804cd2018bc38ea634a55819244e325",
             "source": "spacenews",
@@ -7764,316 +7909,6 @@
             "fetched_datetime": "2026-04-08T20:19:25.139100Z",
             "shown_at": [
                 "2026-04-08T20:19:26.706757Z"
-            ]
-        },
-        {
-            "id": "1f900f5c9f51c19b8a66e121f64131c2",
-            "source": "spacenews",
-            "text": "Space Sovereignty Is No Longer Optional",
-            "source_link": "https://spacenews.com/space-sovereignty-is-no-longer-optional/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-08T19:09:21.767607Z",
-            "shown_at": [
-                "2026-04-08T19:09:22.901603Z",
-                "2026-04-12T00:09:05.741467Z"
-            ]
-        },
-        {
-            "id": "d15d6ed4476a5ec576659c2dc93413ea",
-            "source": "spacenews",
-            "text": "April 30: Opportunities for On-Orbit Computing",
-            "source_link": "https://spacenews.com/opportunities-for-on-orbit-computing-event/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-08T15:39:37.224416Z",
-            "shown_at": [
-                "2026-04-08T15:39:38.793150Z",
-                "2026-04-12T14:19:17.459277Z"
-            ]
-        },
-        {
-            "id": "25db5ed4543496a21a14305d2a959223",
-            "source": "spacenews",
-            "text": "Preparing for the next NASA budget battle",
-            "source_link": "https://spacenews.com/preparing-for-the-next-nasa-budget-battle/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-08T14:29:15.611625Z",
-            "shown_at": [
-                "2026-04-08T15:04:54.324402Z",
-                "2026-04-11T18:54:18.071618Z"
-            ]
-        },
-        {
-            "id": "94d5568171e20af7f30745bf929f5b36",
-            "source": "spacenews",
-            "text": "Tracking the next SDA challenge",
-            "source_link": "https://spacenews.com/tracking-the-next-sda-challenge/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-08T14:29:15.611564Z",
-            "shown_at": [
-                "2026-04-08T14:29:16.733171Z",
-                "2026-04-09T04:34:34.918671Z",
-                "2026-04-09T19:59:15.746569Z"
-            ]
-        },
-        {
-            "id": "fdb238a30e71a80c3fedf05220d8ab69",
-            "source": "spacenews",
-            "text": "LeoLabs debuts space monitoring tool for military users",
-            "source_link": "https://spacenews.com/leolabs-debuts-space-monitoring-tool-for-military-users/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-08T13:19:21.276045Z",
-            "shown_at": [
-                "2026-04-08T13:54:28.085049Z"
-            ]
-        },
-        {
-            "id": "a4d35276359523cdeb0ec3fdb34f647b",
-            "source": "spacenews",
-            "text": "A lunar base or a lunar economy?",
-            "source_link": "https://spacenews.com/a-lunar-base-or-a-lunar-economy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-08T13:19:21.275986Z",
-            "shown_at": [
-                "2026-04-08T13:19:22.615736Z",
-                "2026-04-10T06:34:31.855182Z",
-                "2026-04-14T04:34:22.031969Z"
-            ]
-        },
-        {
-            "id": "1f817b781630a1c1a0e82d75368483e1",
-            "source": "spacenews",
-            "text": "Industry navigates NASA’s start-and-stop approach to commercial space stations",
-            "source_link": "https://spacenews.com/industry-navigates-nasas-start-and-stop-approach-to-commercial-space-stations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-08T12:44:14.554465Z",
-            "shown_at": [
-                "2026-04-08T12:44:16.507490Z",
-                "2026-04-09T03:24:15.306460Z",
-                "2026-04-11T00:44:04.718153Z",
-                "2026-04-12T03:44:29.085171Z",
-                "2026-04-13T05:34:27.559989Z",
-                "2026-04-13T06:44:12.807029Z"
-            ]
-        },
-        {
-            "id": "27c2be9eb80d5cb576d27feb8aa051fa",
-            "source": "spacenews",
-            "text": "Space security moves to forefront as threats to satellites spread",
-            "source_link": "https://spacenews.com/space-security-moves-to-forefront-as-threats-to-satellites-spread/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-08T10:24:22.849464Z",
-            "shown_at": [
-                "2026-04-08T11:34:35.800576Z",
-                "2026-04-09T08:09:16.170666Z",
-                "2026-04-12T04:54:15.076273Z"
-            ]
-        },
-        {
-            "id": "5e1f28b21ac0f1e6c52fe22612863047",
-            "source": "spacenews",
-            "text": "Capella Space wins $49 million contract for military communications satellite demo",
-            "source_link": "https://spacenews.com/capella-space-wins-49-million-contract-for-military-communications-satellite-demo/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-08T10:24:22.849420Z",
-            "shown_at": [
-                "2026-04-08T10:59:24.548841Z",
-                "2026-04-11T22:24:13.187093Z",
-                "2026-04-12T06:09:12.253146Z"
-            ]
-        },
-        {
-            "id": "c78cce88b85e6fc0bac959a98d2957a7",
-            "source": "spacenews",
-            "text": "Artemis 2 science gets underway as Orion begins its return trip",
-            "source_link": "https://spacenews.com/artemis-2-science-gets-underway-as-orion-begins-its-return-trip/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-08T10:24:22.849351Z",
-            "shown_at": [
-                "2026-04-08T10:24:24.089763Z",
-                "2026-04-09T23:29:08.475894Z",
-                "2026-04-10T20:04:43.951284Z",
-                "2026-04-11T12:24:33.580652Z",
-                "2026-04-13T10:14:24.067565Z"
-            ]
-        },
-        {
-            "id": "f8447f7f6ef8d002c21ac3e0fcac4661",
-            "source": "spacenews",
-            "text": "Inspection cubesat demo planned as first step toward orbital defense mothership",
-            "source_link": "https://spacenews.com/inspection-cubesat-demo-planned-as-first-step-toward-orbital-defense-mothership/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-08T08:34:30.744581Z",
-            "shown_at": [
-                "2026-04-08T08:34:31.541365Z",
-                "2026-04-11T17:39:00.700563Z"
-            ]
-        },
-        {
-            "id": "15020cac6003e612e044fda60723c576",
-            "source": "spacenews",
-            "text": "Astroscale passes key design milestone for UK military space-tracking cubesats",
-            "source_link": "https://spacenews.com/astroscale-passes-key-design-milestone-for-uk-military-space-tracking-cubesats/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-08T07:24:25.979140Z",
-            "shown_at": [
-                "2026-04-08T07:24:26.604410Z"
-            ]
-        },
-        {
-            "id": "00c7c537ca2964def6b8963f1eebb81a",
-            "source": "spacenews",
-            "text": "Missile defense in the age of saturation warfare",
-            "source_link": "https://spacenews.com/missile-defense-in-the-age-of-saturation-warfare/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-11T11:14:11.639702Z",
-            "shown_at": [
-                "2026-06-11T11:14:14.079116Z"
-            ]
-        },
-        {
-            "id": "ca67165fa48654adb1e8f2ba71c2ba4a",
-            "source": "spacenews",
-            "text": "ESA awards contract for next-generation radar imaging satellites",
-            "source_link": "https://spacenews.com/esa-awards-contract-for-next-generation-radar-imaging-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-11T11:49:25.676433Z",
-            "shown_at": [
-                "2026-06-11T11:49:26.752915Z"
-            ]
-        },
-        {
-            "id": "57501ca1fc22988ad77234f68739922f",
-            "source": "spacenews",
-            "text": "Long March 5 launches classified satellite, Zhuque-2E lofts direct-to-device test sats",
-            "source_link": "https://spacenews.com/long-march-5-launches-classified-satellite-zhuque-2e-lofts-direct-to-device-test-sats/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-11T11:49:25.676496Z",
-            "shown_at": [
-                "2026-06-11T12:24:36.948049Z"
-            ]
-        },
-        {
-            "id": "0d751c3b109e532b67dccd88c96aa4ed",
-            "source": "spacenews",
-            "text": "Open Cosmos seeks deadline extension for broadband constellation",
-            "source_link": "https://spacenews.com/open-cosmos-seeks-deadline-extension-for-broadband-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-11T12:59:14.667404Z",
-            "shown_at": [
-                "2026-06-11T12:59:15.494381Z"
-            ]
-        },
-        {
-            "id": "dd72eee580a0684457bcd82ade633045",
-            "source": "spacenews",
-            "text": "GEO cancellations complicate space insurance recovery",
-            "source_link": "https://spacenews.com/geo-cancellations-complicate-space-insurance-recovery/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-11T13:34:51.566128Z",
-            "shown_at": [
-                "2026-06-11T13:34:52.567551Z"
-            ]
-        },
-        {
-            "id": "a12517b6ea00a6695cc92516b7a91c82",
-            "source": "spacenews",
-            "text": "K2 Space, Rocket Lab win key supplier roles in Space Force satcom program",
-            "source_link": "https://spacenews.com/k2-space-rocket-lab-win-key-supplier-roles-in-space-force-satcom-program/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-11T14:09:09.386937Z",
-            "shown_at": [
-                "2026-06-11T14:09:10.435210Z"
-            ]
-        },
-        {
-            "id": "82fa43dd47f98c99301a0693d013de49",
-            "source": "spacenews",
-            "text": "Tilebox Launches Verifiable AI Workflows for Satellite Data",
-            "source_link": "https://spacenews.com/tilebox-launches-verifiable-ai-workflows-for-satellite-data/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-11T15:19:42.554248Z",
-            "shown_at": [
-                "2026-06-11T15:19:43.464969Z"
-            ]
-        },
-        {
-            "id": "57a8327f2176ae03b6adc03ec7ee751c",
-            "source": "spacenews",
-            "text": "HyImpulse signs letter of intent with Oman’s spaceport",
-            "source_link": "https://spacenews.com/hyimpulse-signs-letter-of-intent-with-omans-spaceport/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-11T17:05:17.903463Z",
-            "shown_at": [
-                "2026-06-11T17:05:20.344704Z"
-            ]
-        },
-        {
-            "id": "98e82a1f7882bf6cd2f1863c39cfd137",
-            "source": "spacenews",
-            "text": "ESA astronaut assignment on Artemis 3 part of negotiations on revised Artemis roles",
-            "source_link": "https://spacenews.com/esa-astronaut-assignment-on-artemis-3-part-of-negotiations-on-revised-artemis-roles/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-11T17:44:25.625460Z",
-            "shown_at": [
-                "2026-06-11T17:44:28.430488Z"
-            ]
-        },
-        {
-            "id": "383e4f3e4d091f15fa3c51beed8ddecf",
-            "source": "spacenews",
-            "text": "Senate NDAA backs plan to fold SDA, Space RCO into Space Force",
-            "source_link": "https://spacenews.com/senate-ndaa-backs-plan-to-fold-sda-space-rco-into-space-force/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-11T18:54:29.665541Z",
-            "shown_at": [
-                "2026-06-11T18:54:35.771327Z"
-            ]
-        },
-        {
-            "id": "8869550a41cb30b1173414e96baca26d",
-            "source": "spacenews",
-            "text": "Vandenberg offers new launch site for small and medium rockets",
-            "source_link": "https://spacenews.com/vandenberg-offers-new-launch-site-for-small-and-medium-rockets/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-11T20:04:45.710137Z",
-            "shown_at": [
-                "2026-06-11T20:04:48.645018Z"
-            ]
-        },
-        {
-            "id": "936447716f0ed30960a056a1e69a42ff",
-            "source": "nyt",
-            "text": "Alan Hale, Sky Watcher Who Created a Comet Sensation, Dies at 68",
-            "source_link": "https://www.nytimes.com/2026/06/11/science/space/alan-hale-dead.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-11T21:49:07.784831Z",
-            "shown_at": [
-                "2026-06-11T21:49:08.653946Z",
-                "2026-06-11T23:34:26.546973Z"
             ]
         }
     ]
