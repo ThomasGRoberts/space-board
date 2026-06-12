@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 3 | 13 | 24 |
 | spacenews | 9 | 20 | 16 | 35 |
-| breaking_defense | 0 | 2 | 11 | 21 |
+| breaking_defense | 0 | 2 | 12 | 22 |
 
 # Shown Order
 
@@ -2439,3 +2439,4 @@
 - **Jun 12, 12:34 PM** - H3 successfully returns to flight (spacenews)
 - **Jun 12, 01:08 PM** - All in on AI at Astra (spacenews)
 - **Jun 12, 01:44 PM** - How Will the Artemis III Astronauts Train? (nyt)
+- **Jun 12, 02:19 PM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
