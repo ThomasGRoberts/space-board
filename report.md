@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 13 | 24 |
-| spacenews | 6 | 17 | 15 | 34 |
+| spacenews | 6 | 17 | 16 | 35 |
 | breaking_defense | 0 | 1 | 12 | 23 |
 
 # Shown Order
@@ -2446,3 +2446,4 @@
 - **Jun 12, 04:39 PM** - Artemis 3 commander confident crew will be ready for 2027 mission (spacenews)
 - **Jun 12, 05:19 PM** - How Will the Artemis III Astronauts Train? (nyt)
 - **Jun 12, 05:54 PM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
+- **Jun 12, 06:29 PM** - AAC Clyde Space wins ESA contract to complete maritime-monitoring constellation (spacenews)
