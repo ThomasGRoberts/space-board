@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-12T00:05:03.049548+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e582b3de4daaf9ecf6d02b796297c771",
+    "trigger_count": 0,
+    "current_item_id": "a9588b8aeb020bedb267cbe1525ab678",
     "data": [
         {
             "id": "936447716f0ed30960a056a1e69a42ff",
@@ -7987,6 +7987,18 @@
             "fetched_datetime": "2026-06-12T13:08:49.364137Z",
             "shown_at": [
                 "2026-06-12T13:08:52.373834Z"
+            ]
+        },
+        {
+            "id": "a9588b8aeb020bedb267cbe1525ab678",
+            "source": "spacenews",
+            "text": "Astronomers fear orbital data centers will interfere with observations",
+            "source_link": "https://spacenews.com/astronomers-fear-orbital-data-centers-will-interfere-with-observations/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-12T20:14:35.435209Z",
+            "shown_at": [
+                "2026-06-12T20:14:37.978285Z"
             ]
         }
     ]
