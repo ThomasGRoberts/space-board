@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 3 | 12 | 23 |
 | spacenews | 12 | 22 | 18 | 37 |
-| breaking_defense | 0 | 2 | 10 | 20 |
+| breaking_defense | 0 | 2 | 11 | 21 |
 
 # Shown Order
 
@@ -2416,3 +2416,4 @@
 - **Jun 11, 10:59 PM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
 - **Jun 11, 11:34 PM** - Alan Hale, Sky Watcher Who Created a Comet Sensation, Dies at 68 (nyt)
 - **Jun 12, 12:09 AM** - AAC Clyde Space wins ESA contract to complete maritime-monitoring constellation (spacenews)
+- **Jun 12, 12:44 AM** - NRO funds BlackSky for new satellites, AI-optimized image detection system (breaking_defense)
