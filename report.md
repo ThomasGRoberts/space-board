@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 3 | 11 | 22 |
+| nyt | 1 | 3 | 12 | 23 |
 | spacenews | 13 | 23 | 19 | 37 |
-| breaking_defense | 0 | 2 | 11 | 21 |
+| breaking_defense | 0 | 2 | 10 | 21 |
 
 # Shown Order
 
@@ -2433,3 +2433,4 @@
 - **Jun 12, 08:59 AM** - UK startup Applied Atomics to enter US market with focus on military space mobility (spacenews)
 - **Jun 12, 09:34 AM** - Space Force contracts Viasat, Intelsat for first of new anti-jam communication sats (breaking_defense)
 - **Jun 12, 10:09 AM** - In aerospace, AI isn’t replacing workers. It’s filling a shortage (spacenews)
+- **Jun 12, 10:44 AM** - Artemis Astronauts to Wear Prada Spacesuits (nyt)
