@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 3 | 12 | 24 |
+| nyt | 1 | 3 | 13 | 25 |
 | spacenews | 7 | 17 | 16 | 34 |
 | breaking_defense | 0 | 2 | 12 | 23 |
 
@@ -2444,3 +2444,4 @@
 - **Jun 12, 03:29 PM** - Meet the NASA Astronauts in the Artemis III 4-Person Crew (nyt)
 - **Jun 12, 04:05 PM** - NRO funds BlackSky for new satellites, AI-optimized image detection system (breaking_defense)
 - **Jun 12, 04:39 PM** - Artemis 3 commander confident crew will be ready for 2027 mission (spacenews)
+- **Jun 12, 05:19 PM** - How Will the Artemis III Astronauts Train? (nyt)
