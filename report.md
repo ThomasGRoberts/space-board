@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 2 | 12 | 24 |
+| nyt | 1 | 2 | 13 | 25 |
 | spacenews | 7 | 18 | 16 | 34 |
 | breaking_defense | 0 | 0 | 12 | 23 |
 
@@ -2454,3 +2454,4 @@
 - **Jun 12, 09:24 PM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
 - **Jun 12, 09:59 PM** - SpaceX shares rise nearly 20% in historic IPO (spacenews)
 - **Jun 12, 10:34 PM** - NRO funds BlackSky for new satellites, AI-optimized image detection system (breaking_defense)
+- **Jun 12, 11:09 PM** - The Artemis II mission transfixed the nation. (nyt)
