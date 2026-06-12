@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 3 | 12 | 23 |
-| spacenews | 10 | 21 | 17 | 36 |
+| spacenews | 11 | 22 | 18 | 37 |
 | breaking_defense | 0 | 2 | 11 | 21 |
 
 # Shown Order
@@ -2436,3 +2436,4 @@
 - **Jun 12, 10:44 AM** - Artemis Astronauts to Wear Prada Spacesuits (nyt)
 - **Jun 12, 11:19 AM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
 - **Jun 12, 11:59 AM** - Axiom and Prada advance design of spacesuit (spacenews)
+- **Jun 12, 12:34 PM** - H3 successfully returns to flight (spacenews)
