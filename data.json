@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-12T00:05:03.049548+00:00",
-    "trigger_count": 6,
-    "current_item_id": "62550232a5a860f1507bcaa0ff247ed9",
+    "trigger_count": 0,
+    "current_item_id": "05e200e471efa213cf1ee4c4e40fd252",
     "data": [
         {
             "id": "936447716f0ed30960a056a1e69a42ff",
@@ -7964,6 +7964,18 @@
             "fetched_datetime": "2026-06-12T12:34:35.573381Z",
             "shown_at": [
                 "2026-06-12T12:34:36.617060Z"
+            ]
+        },
+        {
+            "id": "05e200e471efa213cf1ee4c4e40fd252",
+            "source": "spacenews",
+            "text": "All in on AI at Astra",
+            "source_link": "https://spacenews.com/all-in-on-ai-at-astra/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-12T13:08:49.364137Z",
+            "shown_at": [
+                "2026-06-12T13:08:52.373834Z"
             ]
         }
     ]
