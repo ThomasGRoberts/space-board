@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 3 | 12 | 24 |
-| spacenews | 9 | 19 | 16 | 34 |
+| spacenews | 9 | 19 | 17 | 35 |
 | breaking_defense | 0 | 2 | 12 | 22 |
 
 # Shown Order
@@ -2440,3 +2440,4 @@
 - **Jun 12, 01:08 PM** - All in on AI at Astra (spacenews)
 - **Jun 12, 01:44 PM** - How Will the Artemis III Astronauts Train? (nyt)
 - **Jun 12, 02:19 PM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
+- **Jun 12, 02:54 PM** - Astronauts briefly shelter in Dragon during ISS leak repair (spacenews)
