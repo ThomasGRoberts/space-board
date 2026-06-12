@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-12T00:05:03.049548+00:00",
-    "trigger_count": 6,
-    "current_item_id": "ac08ad550d3d6d0af5fbed4d2a73460a",
+    "trigger_count": 0,
+    "current_item_id": "9705103f84e392d78f2095bf7b77a4ea",
     "data": [
         {
             "id": "936447716f0ed30960a056a1e69a42ff",
@@ -8011,6 +8011,18 @@
             "fetched_datetime": "2026-06-12T20:50:00.174599Z",
             "shown_at": [
                 "2026-06-12T20:50:01.935100Z"
+            ]
+        },
+        {
+            "id": "9705103f84e392d78f2095bf7b77a4ea",
+            "source": "nyt",
+            "text": "SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut",
+            "source_link": "https://www.nytimes.com/2026/06/12/technology/spacex-ipo-journey.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-12T21:24:31.926306Z",
+            "shown_at": [
+                "2026-06-12T21:24:33.016870Z"
             ]
         }
     ]
