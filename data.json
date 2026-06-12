@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-12T00:05:03.049548+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9705103f84e392d78f2095bf7b77a4ea",
+    "trigger_count": 0,
+    "current_item_id": "ffd2bd0b03221dd465a32fa80d5e2c7b",
     "data": [
         {
             "id": "936447716f0ed30960a056a1e69a42ff",
@@ -8023,6 +8023,18 @@
             "fetched_datetime": "2026-06-12T21:24:31.926306Z",
             "shown_at": [
                 "2026-06-12T21:24:33.016870Z"
+            ]
+        },
+        {
+            "id": "ffd2bd0b03221dd465a32fa80d5e2c7b",
+            "source": "spacenews",
+            "text": "SpaceX shares rise nearly 20% in historic IPO",
+            "source_link": "https://spacenews.com/spacex-shares-rise-nearly-20-in-historic-ipo/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-12T21:59:14.784499Z",
+            "shown_at": [
+                "2026-06-12T21:59:16.129354Z"
             ]
         }
     ]
