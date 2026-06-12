@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 3 | 12 | 23 |
-| spacenews | 12 | 22 | 18 | 36 |
+| spacenews | 12 | 22 | 19 | 37 |
 | breaking_defense | 0 | 2 | 10 | 21 |
 
 # Shown Order
@@ -2430,3 +2430,4 @@
 - **Jun 12, 07:14 AM** - ESA awards contract for next-generation radar imaging satellites (spacenews)
 - **Jun 12, 07:49 AM** - Space Force contracts Viasat, Intelsat for first of new anti-jam communication sats (breaking_defense)
 - **Jun 12, 08:24 AM** - Can NASA Really Land Astronauts on the Moon by 2028? (nyt)
+- **Jun 12, 08:59 AM** - UK startup Applied Atomics to enter US market with focus on military space mobility (spacenews)
