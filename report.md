@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 3 | 12 | 23 |
+| nyt | 1 | 3 | 13 | 24 |
 | spacenews | 10 | 21 | 17 | 36 |
 | breaking_defense | 0 | 2 | 11 | 21 |
 
@@ -2438,3 +2438,4 @@
 - **Jun 12, 11:59 AM** - Axiom and Prada advance design of spacesuit (spacenews)
 - **Jun 12, 12:34 PM** - H3 successfully returns to flight (spacenews)
 - **Jun 12, 01:08 PM** - All in on AI at Astra (spacenews)
+- **Jun 12, 01:44 PM** - How Will the Artemis III Astronauts Train? (nyt)
