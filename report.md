@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 3 | 12 | 23 |
 | spacenews | 12 | 22 | 18 | 37 |
-| breaking_defense | 0 | 2 | 10 | 20 |
+| breaking_defense | 0 | 2 | 11 | 21 |
 
 # Shown Order
 
@@ -2428,3 +2428,4 @@
 - **Jun 12, 06:04 AM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
 - **Jun 12, 06:39 AM** - What is the Orion spacecraft? (nyt)
 - **Jun 12, 07:14 AM** - ESA awards contract for next-generation radar imaging satellites (spacenews)
+- **Jun 12, 07:49 AM** - Space Force contracts Viasat, Intelsat for first of new anti-jam communication sats (breaking_defense)
