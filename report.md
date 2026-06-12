@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 3 | 12 | 23 |
-| spacenews | 12 | 22 | 18 | 36 |
-| breaking_defense | 0 | 2 | 10 | 21 |
+| spacenews | 12 | 22 | 19 | 37 |
+| breaking_defense | 0 | 2 | 10 | 20 |
 
 # Shown Order
 
@@ -2421,3 +2421,4 @@
 - **Jun 12, 01:54 AM** - Satellite maker Apex’s valuation rises to $2.3 billion after latest $200 million raise (spacenews)
 - **Jun 12, 02:29 AM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
 - **Jun 12, 03:04 AM** - Who gets to be a NASA astronaut? (nyt)
+- **Jun 12, 03:44 AM** - AAC Clyde Space wins ESA contract to complete maritime-monitoring constellation (spacenews)
