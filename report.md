@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 3 | 12 | 23 |
-| spacenews | 12 | 22 | 18 | 36 |
+| spacenews | 12 | 22 | 19 | 37 |
 | breaking_defense | 0 | 2 | 10 | 21 |
 
 # Shown Order
@@ -2427,3 +2427,4 @@
 - **Jun 12, 05:29 AM** - UK startup Applied Atomics to enter US market with focus on military space mobility (spacenews)
 - **Jun 12, 06:04 AM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
 - **Jun 12, 06:39 AM** - What is the Orion spacecraft? (nyt)
+- **Jun 12, 07:14 AM** - ESA awards contract for next-generation radar imaging satellites (spacenews)
