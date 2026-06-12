@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 3 | 11 | 22 |
-| spacenews | 12 | 22 | 18 | 37 |
+| nyt | 1 | 3 | 12 | 23 |
+| spacenews | 12 | 22 | 18 | 36 |
 | breaking_defense | 0 | 2 | 11 | 21 |
 
 # Shown Order
@@ -2417,3 +2417,4 @@
 - **Jun 11, 11:34 PM** - Alan Hale, Sky Watcher Who Created a Comet Sensation, Dies at 68 (nyt)
 - **Jun 12, 12:09 AM** - AAC Clyde Space wins ESA contract to complete maritime-monitoring constellation (spacenews)
 - **Jun 12, 12:44 AM** - NRO funds BlackSky for new satellites, AI-optimized image detection system (breaking_defense)
+- **Jun 12, 01:19 AM** - How Does the Blue Origin Rocket Explosion affect NASA’s Moon Plans? (nyt)
