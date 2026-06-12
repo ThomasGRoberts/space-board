@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 1 | 13 | 24 |
-| spacenews | 5 | 17 | 15 | 34 |
+| spacenews | 6 | 18 | 16 | 35 |
 | breaking_defense | 0 | 0 | 12 | 23 |
 
 # Shown Order
@@ -2450,3 +2450,4 @@
 - **Jun 12, 07:05 PM** - Artemis Astronauts to Wear Prada Spacesuits (nyt)
 - **Jun 12, 07:39 PM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
 - **Jun 12, 08:14 PM** - Astronomers fear orbital data centers will interfere with observations (spacenews)
+- **Jun 12, 08:50 PM** - Avanti trims GEO exposure with Hylas-3 sale (spacenews)

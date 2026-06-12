@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-12T00:05:03.049548+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a9588b8aeb020bedb267cbe1525ab678",
+    "trigger_count": 0,
+    "current_item_id": "ac08ad550d3d6d0af5fbed4d2a73460a",
     "data": [
         {
             "id": "936447716f0ed30960a056a1e69a42ff",
@@ -7999,6 +7999,18 @@
             "fetched_datetime": "2026-06-12T20:14:35.435209Z",
             "shown_at": [
                 "2026-06-12T20:14:37.978285Z"
+            ]
+        },
+        {
+            "id": "ac08ad550d3d6d0af5fbed4d2a73460a",
+            "source": "spacenews",
+            "text": "Avanti trims GEO exposure with Hylas-3 sale",
+            "source_link": "https://spacenews.com/avanti-trims-geo-exposure-with-hylas-3-sale/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-12T20:50:00.174599Z",
+            "shown_at": [
+                "2026-06-12T20:50:01.935100Z"
             ]
         }
     ]
