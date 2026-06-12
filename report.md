@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 3 | 12 | 23 |
 | spacenews | 12 | 22 | 18 | 37 |
-| breaking_defense | 0 | 2 | 10 | 20 |
+| breaking_defense | 0 | 2 | 11 | 21 |
 
 # Shown Order
 
@@ -2425,3 +2425,4 @@
 - **Jun 12, 04:19 AM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
 - **Jun 12, 04:54 AM** - NASA Crew-12 Commander Captures Snaky Southern Lights From Space Station (nyt)
 - **Jun 12, 05:29 AM** - UK startup Applied Atomics to enter US market with focus on military space mobility (spacenews)
+- **Jun 12, 06:04 AM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
