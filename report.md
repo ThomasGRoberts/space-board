@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | nyt | 1 | 3 | 13 | 25 |
-| spacenews | 8 | 17 | 16 | 34 |
-| breaking_defense | 0 | 2 | 11 | 22 |
+| spacenews | 8 | 17 | 16 | 33 |
+| breaking_defense | 0 | 2 | 12 | 23 |
 
 # Shown Order
 
@@ -2442,3 +2442,4 @@
 - **Jun 12, 02:19 PM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
 - **Jun 12, 02:54 PM** - Astronauts briefly shelter in Dragon during ISS leak repair (spacenews)
 - **Jun 12, 03:29 PM** - Meet the NASA Astronauts in the Artemis III 4-Person Crew (nyt)
+- **Jun 12, 04:05 PM** - NRO funds BlackSky for new satellites, AI-optimized image detection system (breaking_defense)
