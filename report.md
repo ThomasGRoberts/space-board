@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| nyt | 1 | 3 | 11 | 22 |
+| nyt | 1 | 3 | 12 | 23 |
 | spacenews | 12 | 22 | 18 | 37 |
 | breaking_defense | 0 | 2 | 11 | 21 |
 
@@ -2423,3 +2423,4 @@
 - **Jun 12, 03:04 AM** - Who gets to be a NASA astronaut? (nyt)
 - **Jun 12, 03:44 AM** - AAC Clyde Space wins ESA contract to complete maritime-monitoring constellation (spacenews)
 - **Jun 12, 04:19 AM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
+- **Jun 12, 04:54 AM** - NASA Crew-12 Commander Captures Snaky Southern Lights From Space Station (nyt)
