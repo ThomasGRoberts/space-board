@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-12T00:05:03.049548+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a91f45ec8805aff66a100c862d62073f",
+    "trigger_count": 0,
+    "current_item_id": "0768829973127e74667c1bf29171a92b",
     "data": [
         {
             "id": "936447716f0ed30960a056a1e69a42ff",
@@ -7937,6 +7937,18 @@
             "shown_at": [
                 "2026-06-12T00:09:24.268712Z",
                 "2026-06-12T03:44:19.220691Z"
+            ]
+        },
+        {
+            "id": "0768829973127e74667c1bf29171a92b",
+            "source": "spacenews",
+            "text": "In aerospace, AI isn’t replacing workers. It’s filling a shortage",
+            "source_link": "https://spacenews.com/in-aerospace-ai-isnt-replacing-workers-its-filling-a-shortage/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-12T10:09:08.572282Z",
+            "shown_at": [
+                "2026-06-12T10:09:11.734282Z"
             ]
         }
     ]
