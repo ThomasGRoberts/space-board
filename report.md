@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 18 | 16 | 34 |
+| spacenews | 6 | 18 | 17 | 35 |
 | nyt | 1 | 2 | 12 | 24 |
 | breaking_defense | 0 | 0 | 12 | 23 |
 
@@ -2435,3 +2435,4 @@
 - **Jun 13, 04:59 AM** - Tilebox Launches Verifiable AI Workflows for Satellite Data (spacenews)
 - **Jun 13, 05:34 AM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
 - **Jun 13, 06:14 AM** - Who gets to be a NASA astronaut? (nyt)
+- **Jun 13, 06:49 AM** - Russia is jamming GPS from space  (spacenews)
