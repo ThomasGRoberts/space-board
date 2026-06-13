@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 14 | 14 | 32 |
 | nyt | 2 | 3 | 14 | 26 |
-| breaking_defense | 0 | 0 | 12 | 23 |
+| breaking_defense | 0 | 0 | 13 | 24 |
 
 # Shown Order
 
@@ -2446,3 +2446,4 @@
 - **Jun 13, 11:39 AM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
 - **Jun 13, 12:14 PM** - Avanti trims GEO exposure with Hylas-3 sale (spacenews)
 - **Jun 13, 12:49 PM** - What is the Orion spacecraft? (nyt)
+- **Jun 13, 01:24 PM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
