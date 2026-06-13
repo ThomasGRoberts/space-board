@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 18 | 16 | 34 |
+| spacenews | 6 | 18 | 17 | 35 |
 | nyt | 1 | 2 | 12 | 24 |
 | breaking_defense | 0 | 0 | 12 | 23 |
 
@@ -2426,3 +2426,4 @@
 - **Jun 12, 11:44 PM** - Iceye raises 1 billion euros to expand SAR satellite systems (spacenews)
 - **Jun 13, 12:19 AM** - Space Force contracts Viasat, Intelsat for first of new anti-jam communication sats (breaking_defense)
 - **Jun 13, 12:54 AM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
+- **Jun 13, 01:29 AM** - BlackSky to accelerate broad-area collection work under NRO contract modification (spacenews)
