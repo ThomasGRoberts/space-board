@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 18 | 16 | 34 |
+| spacenews | 6 | 18 | 17 | 35 |
 | nyt | 1 | 2 | 12 | 24 |
 | breaking_defense | 0 | 0 | 12 | 23 |
 
@@ -2432,3 +2432,4 @@
 - **Jun 13, 03:14 AM** - NASA to select new headquarters building by end of year (spacenews)
 - **Jun 13, 03:49 AM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
 - **Jun 13, 04:24 AM** - Can NASA Really Land Astronauts on the Moon by 2028? (nyt)
+- **Jun 13, 04:59 AM** - Tilebox Launches Verifiable AI Workflows for Satellite Data (spacenews)
