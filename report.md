@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 8 | 13 | 29 |
+| spacenews | 2 | 8 | 14 | 30 |
 | nyt | 2 | 3 | 14 | 27 |
 | breaking_defense | 0 | 0 | 13 | 25 |
 
@@ -2459,3 +2459,4 @@
 - **Jun 13, 07:14 PM** - House appropriators back $55.5 billion Space Force budget, omit reconciliation funds (spacenews)
 - **Jun 13, 07:49 PM** - How Will the Artemis III Astronauts Train? (nyt)
 - **Jun 13, 08:24 PM** - NRO funds BlackSky for new satellites, AI-optimized image detection system (breaking_defense)
+- **Jun 13, 09:04 PM** - GEO cancellations complicate space insurance recovery (spacenews)
