@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 8 | 14 | 30 |
-| nyt | 1 | 2 | 13 | 26 |
+| nyt | 1 | 2 | 14 | 27 |
 | breaking_defense | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -2463,3 +2463,4 @@
 - **Jun 13, 09:39 PM** - How Does the Blue Origin Rocket Explosion affect NASA’s Moon Plans? (nyt)
 - **Jun 13, 10:14 PM** - NRO funds BlackSky for new satellites, AI-optimized image detection system (breaking_defense)
 - **Jun 13, 10:49 PM** - Arkadia Space to supply thrusters for Reflex Aerospace satellite (spacenews)
+- **Jun 13, 11:24 PM** - The Artemis II mission transfixed the nation. (nyt)
