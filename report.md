@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 11 | 15 | 31 |
-| nyt | 2 | 3 | 13 | 26 |
+| nyt | 2 | 3 | 14 | 27 |
 | breaking_defense | 0 | 0 | 12 | 24 |
 
 # Shown Order
@@ -2451,3 +2451,4 @@
 - **Jun 13, 02:34 PM** - NASA’s moon-base plans are off to a slow start. (nyt)
 - **Jun 13, 03:09 PM** - Space Force contracts Viasat, Intelsat for first of new anti-jam communication sats (breaking_defense)
 - **Jun 13, 03:44 PM** - AAC Clyde Space wins ESA contract to complete maritime-monitoring constellation (spacenews)
+- **Jun 13, 04:19 PM** - NASA’s moon-base plans are off to a slow start. (nyt)
