@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 18 | 16 | 34 |
 | nyt | 2 | 3 | 13 | 25 |
-| breaking_defense | 0 | 0 | 11 | 22 |
+| breaking_defense | 0 | 0 | 12 | 23 |
 
 # Shown Order
 
@@ -2440,3 +2440,4 @@
 - **Jun 13, 07:59 AM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
 - **Jun 13, 08:34 AM** - Tilebox Launches Verifiable AI Workflows for Satellite Data (spacenews)
 - **Jun 13, 09:09 AM** - Can the Artemis III Mission Go on as Planned? (nyt)
+- **Jun 13, 09:44 AM** - NRO funds BlackSky for new satellites, AI-optimized image detection system (breaking_defense)
