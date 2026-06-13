@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 10 | 14 | 30 |
 | nyt | 2 | 3 | 14 | 27 |
-| breaking_defense | 0 | 0 | 12 | 24 |
+| breaking_defense | 0 | 0 | 13 | 25 |
 
 # Shown Order
 
@@ -2455,3 +2455,4 @@
 - **Jun 13, 04:54 PM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
 - **Jun 13, 05:29 PM** - Revised Artemis lunar lander plans take shape (spacenews)
 - **Jun 13, 06:04 PM** - Artemis Astronauts to Wear Prada Spacesuits (nyt)
+- **Jun 13, 06:39 PM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
