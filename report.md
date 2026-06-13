@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 18 | 16 | 35 |
 | nyt | 1 | 2 | 12 | 24 |
-| breaking_defense | 0 | 0 | 12 | 22 |
+| breaking_defense | 0 | 0 | 13 | 23 |
 
 # Shown Order
 
@@ -2433,3 +2433,4 @@
 - **Jun 13, 03:49 AM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
 - **Jun 13, 04:24 AM** - Can NASA Really Land Astronauts on the Moon by 2028? (nyt)
 - **Jun 13, 04:59 AM** - Tilebox Launches Verifiable AI Workflows for Satellite Data (spacenews)
+- **Jun 13, 05:34 AM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
