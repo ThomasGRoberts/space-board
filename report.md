@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 13 | 14 | 31 |
+| spacenews | 3 | 13 | 15 | 32 |
 | nyt | 2 | 3 | 13 | 26 |
 | breaking_defense | 0 | 0 | 13 | 24 |
 
@@ -2447,3 +2447,4 @@
 - **Jun 13, 12:14 PM** - Avanti trims GEO exposure with Hylas-3 sale (spacenews)
 - **Jun 13, 12:49 PM** - What is the Orion spacecraft? (nyt)
 - **Jun 13, 01:24 PM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
+- **Jun 13, 01:59 PM** - OQ Technology plans direct-to-smartphone demo with cellular spectrum (spacenews)
