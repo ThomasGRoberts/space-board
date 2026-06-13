@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 14 | 30 |
-| nyt | 1 | 3 | 13 | 26 |
+| nyt | 1 | 3 | 14 | 27 |
 | breaking_defense | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -2460,3 +2460,4 @@
 - **Jun 13, 07:49 PM** - How Will the Artemis III Astronauts Train? (nyt)
 - **Jun 13, 08:24 PM** - NRO funds BlackSky for new satellites, AI-optimized image detection system (breaking_defense)
 - **Jun 13, 09:04 PM** - GEO cancellations complicate space insurance recovery (spacenews)
+- **Jun 13, 09:39 PM** - How Does the Blue Origin Rocket Explosion affect NASA’s Moon Plans? (nyt)
