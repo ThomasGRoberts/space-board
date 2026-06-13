@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 15 | 15 | 33 |
-| nyt | 2 | 3 | 13 | 25 |
+| nyt | 2 | 3 | 14 | 26 |
 | breaking_defense | 0 | 0 | 12 | 23 |
 
 # Shown Order
@@ -2445,3 +2445,4 @@
 - **Jun 13, 11:04 AM** - Can the Artemis III Mission Go on as Planned? (nyt)
 - **Jun 13, 11:39 AM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
 - **Jun 13, 12:14 PM** - Avanti trims GEO exposure with Hylas-3 sale (spacenews)
+- **Jun 13, 12:49 PM** - What is the Orion spacecraft? (nyt)
