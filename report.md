@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 9 | 14 | 29 |
+| spacenews | 4 | 9 | 15 | 30 |
 | nyt | 2 | 3 | 13 | 27 |
 | breaking_defense | 0 | 0 | 13 | 25 |
 
@@ -2456,3 +2456,4 @@
 - **Jun 13, 05:29 PM** - Revised Artemis lunar lander plans take shape (spacenews)
 - **Jun 13, 06:04 PM** - Artemis Astronauts to Wear Prada Spacesuits (nyt)
 - **Jun 13, 06:39 PM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
+- **Jun 13, 07:14 PM** - House appropriators back $55.5 billion Space Force budget, omit reconciliation funds (spacenews)
