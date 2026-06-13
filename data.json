@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-13T00:04:48.230730+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e582b3de4daaf9ecf6d02b796297c771",
+    "trigger_count": 0,
+    "current_item_id": "50ace9687686a6eded3747cb2b84d01d",
     "data": [
         {
             "id": "ffd2bd0b03221dd465a32fa80d5e2c7b",
@@ -7958,6 +7958,18 @@
             "shown_at": [
                 "2026-06-13T09:09:20.646282Z",
                 "2026-06-13T11:04:29.892501Z"
+            ]
+        },
+        {
+            "id": "50ace9687686a6eded3747cb2b84d01d",
+            "source": "spacenews",
+            "text": "Revised Artemis lunar lander plans take shape",
+            "source_link": "https://spacenews.com/revised-artemis-lunar-lander-plans-take-shape/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-13T17:29:17.873374Z",
+            "shown_at": [
+                "2026-06-13T17:29:18.671532Z"
             ]
         }
     ]

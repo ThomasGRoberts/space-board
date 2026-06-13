@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 10 | 14 | 30 |
+| spacenews | 4 | 11 | 15 | 31 |
 | nyt | 2 | 3 | 13 | 26 |
 | breaking_defense | 0 | 0 | 13 | 25 |
 
@@ -2453,3 +2453,4 @@
 - **Jun 13, 03:44 PM** - AAC Clyde Space wins ESA contract to complete maritime-monitoring constellation (spacenews)
 - **Jun 13, 04:19 PM** - NASA’s moon-base plans are off to a slow start. (nyt)
 - **Jun 13, 04:54 PM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
+- **Jun 13, 05:29 PM** - Revised Artemis lunar lander plans take shape (spacenews)
