@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 17 | 16 | 34 |
 | nyt | 2 | 3 | 13 | 25 |
-| breaking_defense | 0 | 0 | 11 | 22 |
+| breaking_defense | 0 | 0 | 12 | 23 |
 
 # Shown Order
 
@@ -2443,3 +2443,4 @@
 - **Jun 13, 09:44 AM** - NRO funds BlackSky for new satellites, AI-optimized image detection system (breaking_defense)
 - **Jun 13, 10:22 AM** - OQ Technology plans direct-to-smartphone demo with cellular spectrum (spacenews)
 - **Jun 13, 11:04 AM** - Can the Artemis III Mission Go on as Planned? (nyt)
+- **Jun 13, 11:39 AM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
