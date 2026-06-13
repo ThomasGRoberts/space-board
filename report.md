@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 12 | 15 | 31 |
-| nyt | 2 | 3 | 13 | 26 |
+| nyt | 2 | 3 | 14 | 27 |
 | breaking_defense | 0 | 0 | 12 | 24 |
 
 # Shown Order
@@ -2448,3 +2448,4 @@
 - **Jun 13, 12:49 PM** - What is the Orion spacecraft? (nyt)
 - **Jun 13, 01:24 PM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
 - **Jun 13, 01:59 PM** - OQ Technology plans direct-to-smartphone demo with cellular spectrum (spacenews)
+- **Jun 13, 02:34 PM** - NASA’s moon-base plans are off to a slow start. (nyt)
