@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 8 | 13 | 30 |
 | nyt | 1 | 2 | 14 | 26 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -2461,3 +2461,4 @@
 - **Jun 13, 08:24 PM** - NRO funds BlackSky for new satellites, AI-optimized image detection system (breaking_defense)
 - **Jun 13, 09:04 PM** - GEO cancellations complicate space insurance recovery (spacenews)
 - **Jun 13, 09:39 PM** - How Does the Blue Origin Rocket Explosion affect NASA’s Moon Plans? (nyt)
+- **Jun 13, 10:14 PM** - NRO funds BlackSky for new satellites, AI-optimized image detection system (breaking_defense)
