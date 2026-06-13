@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-13T00:04:48.230730+00:00",
-    "trigger_count": 6,
-    "current_item_id": "82fa43dd47f98c99301a0693d013de49",
+    "trigger_count": 0,
+    "current_item_id": "8dd96aaae554966b2f7cbc5f69ff0bc2",
     "data": [
         {
             "id": "ffd2bd0b03221dd465a32fa80d5e2c7b",
@@ -7933,6 +7933,18 @@
                 "2026-04-14T07:29:19.107226Z",
                 "2026-04-15T03:24:09.701069Z",
                 "2026-04-16T10:54:30.695625Z"
+            ]
+        },
+        {
+            "id": "8dd96aaae554966b2f7cbc5f69ff0bc2",
+            "source": "nyt",
+            "text": "Can the Artemis III Mission Go on as Planned?",
+            "source_link": "https://www.nytimes.com/video/science/space/100000010943451/can-the-artemis-iii-mission-go-on-as-planned.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-13T09:09:19.996746Z",
+            "shown_at": [
+                "2026-06-13T09:09:20.646282Z"
             ]
         }
     ]
