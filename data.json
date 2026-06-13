@@ -1,9 +1,107 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-06-12T00:05:03.049548+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2026-06-13T00:04:48.230730+00:00",
+    "trigger_count": 4,
     "current_item_id": "ff15419bdbca69697e7280e520ab1e5d",
     "data": [
+        {
+            "id": "ffd2bd0b03221dd465a32fa80d5e2c7b",
+            "source": "spacenews",
+            "text": "SpaceX shares rise nearly 20% in historic IPO",
+            "source_link": "https://spacenews.com/spacex-shares-rise-nearly-20-in-historic-ipo/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-12T21:59:14.784499Z",
+            "shown_at": [
+                "2026-06-12T21:59:16.129354Z"
+            ]
+        },
+        {
+            "id": "9705103f84e392d78f2095bf7b77a4ea",
+            "source": "nyt",
+            "text": "SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut",
+            "source_link": "https://www.nytimes.com/2026/06/12/technology/spacex-ipo-journey.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-12T21:24:31.926306Z",
+            "shown_at": [
+                "2026-06-12T21:24:33.016870Z"
+            ]
+        },
+        {
+            "id": "ac08ad550d3d6d0af5fbed4d2a73460a",
+            "source": "spacenews",
+            "text": "Avanti trims GEO exposure with Hylas-3 sale",
+            "source_link": "https://spacenews.com/avanti-trims-geo-exposure-with-hylas-3-sale/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-12T20:50:00.174599Z",
+            "shown_at": [
+                "2026-06-12T20:50:01.935100Z"
+            ]
+        },
+        {
+            "id": "a9588b8aeb020bedb267cbe1525ab678",
+            "source": "spacenews",
+            "text": "Astronomers fear orbital data centers will interfere with observations",
+            "source_link": "https://spacenews.com/astronomers-fear-orbital-data-centers-will-interfere-with-observations/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-12T20:14:35.435209Z",
+            "shown_at": [
+                "2026-06-12T20:14:37.978285Z"
+            ]
+        },
+        {
+            "id": "05e200e471efa213cf1ee4c4e40fd252",
+            "source": "spacenews",
+            "text": "All in on AI at Astra",
+            "source_link": "https://spacenews.com/all-in-on-ai-at-astra/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-12T13:08:49.364137Z",
+            "shown_at": [
+                "2026-06-12T13:08:52.373834Z"
+            ]
+        },
+        {
+            "id": "62550232a5a860f1507bcaa0ff247ed9",
+            "source": "spacenews",
+            "text": "H3 successfully returns to flight",
+            "source_link": "https://spacenews.com/h3-successfully-returns-to-flight/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-12T12:34:35.573381Z",
+            "shown_at": [
+                "2026-06-12T12:34:36.617060Z"
+            ]
+        },
+        {
+            "id": "0768829973127e74667c1bf29171a92b",
+            "source": "spacenews",
+            "text": "In aerospace, AI isn’t replacing workers. It’s filling a shortage",
+            "source_link": "https://spacenews.com/in-aerospace-ai-isnt-replacing-workers-its-filling-a-shortage/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-12T10:09:08.572282Z",
+            "shown_at": [
+                "2026-06-12T10:09:11.734282Z"
+            ]
+        },
+        {
+            "id": "85fa85d7ed2cc1507b4c8c33836bc818",
+            "source": "spacenews",
+            "text": "AAC Clyde Space wins ESA contract to complete maritime-monitoring constellation",
+            "source_link": "https://spacenews.com/aac-clyde-space-wins-esa-contract-to-complete-maritime-monitoring-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-12T00:09:22.350522Z",
+            "shown_at": [
+                "2026-06-12T00:09:24.268712Z",
+                "2026-06-12T03:44:19.220691Z",
+                "2026-06-12T18:29:15.538304Z"
+            ]
+        },
         {
             "id": "936447716f0ed30960a056a1e69a42ff",
             "source": "nyt",
@@ -7820,224 +7918,6 @@
                 "2026-04-14T07:29:19.107226Z",
                 "2026-04-15T03:24:09.701069Z",
                 "2026-04-16T10:54:30.695625Z"
-            ]
-        },
-        {
-            "id": "5ae28379f69a202cc3a511d0a0f1603f",
-            "source": "spacenews",
-            "text": "Albedo prepares second VLEO mission for 2027 launch",
-            "source_link": "https://spacenews.com/albedo-prepares-second-vleo-mission-for-2027-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-09T12:14:15.433318Z",
-            "shown_at": [
-                "2026-04-09T12:49:24.708259Z"
-            ]
-        },
-        {
-            "id": "581fa946e0ffdc12f1d215b0cc0b093e",
-            "source": "spacenews",
-            "text": "Space Force taps 14 firms for $1.8 billion GEO surveillance program",
-            "source_link": "https://spacenews.com/space-force-taps-14-firms-for-1-8-billion-geo-surveillance-program/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-09T12:14:15.433265Z",
-            "shown_at": [
-                "2026-04-09T12:14:16.456301Z",
-                "2026-04-12T17:49:22.297152Z"
-            ]
-        },
-        {
-            "id": "ab59262bb0f3d790d52797dcc53dd1fc",
-            "source": "spacenews",
-            "text": "Vantor to expand imaging satellite fleet, adding smallsats to increase revisit rates",
-            "source_link": "https://spacenews.com/vantor-to-expand-imaging-satellite-fleet-adding-smallsats-to-increase-revisit-rates/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-09T10:29:16.886142Z",
-            "shown_at": [
-                "2026-04-09T11:39:14.669967Z",
-                "2026-04-10T05:19:28.133104Z",
-                "2026-04-10T08:59:04.322752Z",
-                "2026-04-12T23:44:19.727120Z"
-            ]
-        },
-        {
-            "id": "553d697f9a6d570b23650153715c6fee",
-            "source": "spacenews",
-            "text": "Lockheed Martin wins $105 million contract for GPS ground control system as OCX winds down",
-            "source_link": "https://spacenews.com/lockheed-martin-wins-105-million-contract-for-gps-ground-control-system-as-ocx-winds-down/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-09T10:29:16.886072Z",
-            "shown_at": [
-                "2026-04-09T10:29:18.614601Z",
-                "2026-04-11T07:09:20.755022Z",
-                "2026-04-12T02:34:18.205362Z"
-            ]
-        },
-        {
-            "id": "e7cf42e920f2259a18e5c7b5d1923db7",
-            "source": "nyt",
-            "text": "NASA Prepares for Artemis II Splashdown After Historic Moon Flyby",
-            "source_link": "https://www.nytimes.com/2026/04/09/science/space/nasa-artemis-moon-astronauts-return.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-09T09:54:20.568273Z",
-            "shown_at": [
-                "2026-04-09T11:04:54.767971Z",
-                "2026-04-11T22:59:13.619560Z",
-                "2026-04-13T04:59:14.668913Z",
-                "2026-04-14T01:39:06.490285Z",
-                "2026-04-15T02:14:20.208289Z",
-                "2026-04-15T05:44:12.393789Z"
-            ]
-        },
-        {
-            "id": "ce74ea9bd301bbd7b165b256736ac0c2",
-            "source": "nyt",
-            "text": "A Magazine for Earthlings Who Dream of Outer Space",
-            "source_link": "https://www.nytimes.com/2026/04/09/style/a-magazine-for-earthlings-who-dream-of-outer-space.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-09T09:54:20.568245Z",
-            "shown_at": [
-                "2026-04-09T09:54:21.684012Z",
-                "2026-04-10T01:14:11.490493Z",
-                "2026-04-13T07:19:30.060245Z",
-                "2026-04-13T23:19:19.404493Z",
-                "2026-04-14T00:29:15.709509Z",
-                "2026-04-15T06:54:16.222115Z",
-                "2026-04-15T17:24:33.435171Z",
-                "2026-04-15T20:54:15.048308Z",
-                "2026-04-16T06:14:18.700506Z",
-                "2026-04-16T08:34:33.996720Z",
-                "2026-04-16T09:44:25.692595Z"
-            ]
-        },
-        {
-            "id": "96ed4a72a2f16d718e67ab8ae26b2a96",
-            "source": "spacenews",
-            "text": "Apex to develop larger satellites for missile defense, space-based computing",
-            "source_link": "https://spacenews.com/apex-to-develop-larger-satellites-for-missile-defense-space-based-computing/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-09T09:19:23.863639Z",
-            "shown_at": [
-                "2026-04-09T09:19:24.578433Z",
-                "2026-04-10T10:09:30.082811Z",
-                "2026-04-11T21:14:26.402821Z",
-                "2026-04-12T13:09:14.061630Z"
-            ]
-        },
-        {
-            "id": "5770bcf00066aa6c09d9056426e74ac5",
-            "source": "spacenews",
-            "text": "Improved thresholds and SSA accuracy can reduce most satellite collision risk",
-            "source_link": "https://spacenews.com/improved-thresholds-and-ssa-accuracy-can-reduce-most-satellite-collision-risk/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-08T20:19:25.139100Z",
-            "shown_at": [
-                "2026-04-08T20:19:26.706757Z"
-            ]
-        },
-        {
-            "id": "85fa85d7ed2cc1507b4c8c33836bc818",
-            "source": "spacenews",
-            "text": "AAC Clyde Space wins ESA contract to complete maritime-monitoring constellation",
-            "source_link": "https://spacenews.com/aac-clyde-space-wins-esa-contract-to-complete-maritime-monitoring-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-12T00:09:22.350522Z",
-            "shown_at": [
-                "2026-06-12T00:09:24.268712Z",
-                "2026-06-12T03:44:19.220691Z",
-                "2026-06-12T18:29:15.538304Z"
-            ]
-        },
-        {
-            "id": "0768829973127e74667c1bf29171a92b",
-            "source": "spacenews",
-            "text": "In aerospace, AI isn’t replacing workers. It’s filling a shortage",
-            "source_link": "https://spacenews.com/in-aerospace-ai-isnt-replacing-workers-its-filling-a-shortage/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-12T10:09:08.572282Z",
-            "shown_at": [
-                "2026-06-12T10:09:11.734282Z"
-            ]
-        },
-        {
-            "id": "62550232a5a860f1507bcaa0ff247ed9",
-            "source": "spacenews",
-            "text": "H3 successfully returns to flight",
-            "source_link": "https://spacenews.com/h3-successfully-returns-to-flight/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-12T12:34:35.573381Z",
-            "shown_at": [
-                "2026-06-12T12:34:36.617060Z"
-            ]
-        },
-        {
-            "id": "05e200e471efa213cf1ee4c4e40fd252",
-            "source": "spacenews",
-            "text": "All in on AI at Astra",
-            "source_link": "https://spacenews.com/all-in-on-ai-at-astra/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-12T13:08:49.364137Z",
-            "shown_at": [
-                "2026-06-12T13:08:52.373834Z"
-            ]
-        },
-        {
-            "id": "a9588b8aeb020bedb267cbe1525ab678",
-            "source": "spacenews",
-            "text": "Astronomers fear orbital data centers will interfere with observations",
-            "source_link": "https://spacenews.com/astronomers-fear-orbital-data-centers-will-interfere-with-observations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-12T20:14:35.435209Z",
-            "shown_at": [
-                "2026-06-12T20:14:37.978285Z"
-            ]
-        },
-        {
-            "id": "ac08ad550d3d6d0af5fbed4d2a73460a",
-            "source": "spacenews",
-            "text": "Avanti trims GEO exposure with Hylas-3 sale",
-            "source_link": "https://spacenews.com/avanti-trims-geo-exposure-with-hylas-3-sale/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-12T20:50:00.174599Z",
-            "shown_at": [
-                "2026-06-12T20:50:01.935100Z"
-            ]
-        },
-        {
-            "id": "9705103f84e392d78f2095bf7b77a4ea",
-            "source": "nyt",
-            "text": "SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut",
-            "source_link": "https://www.nytimes.com/2026/06/12/technology/spacex-ipo-journey.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-12T21:24:31.926306Z",
-            "shown_at": [
-                "2026-06-12T21:24:33.016870Z"
-            ]
-        },
-        {
-            "id": "ffd2bd0b03221dd465a32fa80d5e2c7b",
-            "source": "spacenews",
-            "text": "SpaceX shares rise nearly 20% in historic IPO",
-            "source_link": "https://spacenews.com/spacex-shares-rise-nearly-20-in-historic-ipo/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-12T21:59:14.784499Z",
-            "shown_at": [
-                "2026-06-12T21:59:16.129354Z"
             ]
         }
     ]
