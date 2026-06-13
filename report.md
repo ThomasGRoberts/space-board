@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 18 | 16 | 35 |
 | nyt | 1 | 2 | 12 | 24 |
-| breaking_defense | 0 | 0 | 12 | 22 |
+| breaking_defense | 0 | 0 | 13 | 23 |
 
 # Shown Order
 
@@ -2436,3 +2436,4 @@
 - **Jun 13, 05:34 AM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
 - **Jun 13, 06:14 AM** - Who gets to be a NASA astronaut? (nyt)
 - **Jun 13, 06:49 AM** - Russia is jamming GPS from space  (spacenews)
+- **Jun 13, 07:24 AM** - NRO funds BlackSky for new satellites, AI-optimized image detection system (breaking_defense)
