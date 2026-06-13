@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 15 | 15 | 33 |
+| spacenews | 5 | 15 | 16 | 34 |
 | nyt | 2 | 3 | 13 | 25 |
 | breaking_defense | 0 | 0 | 12 | 23 |
 
@@ -2444,3 +2444,4 @@
 - **Jun 13, 10:22 AM** - OQ Technology plans direct-to-smartphone demo with cellular spectrum (spacenews)
 - **Jun 13, 11:04 AM** - Can the Artemis III Mission Go on as Planned? (nyt)
 - **Jun 13, 11:39 AM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
+- **Jun 13, 12:14 PM** - Avanti trims GEO exposure with Hylas-3 sale (spacenews)
