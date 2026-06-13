@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 18 | 16 | 35 |
 | nyt | 1 | 2 | 12 | 24 |
-| breaking_defense | 0 | 0 | 12 | 22 |
+| breaking_defense | 0 | 0 | 13 | 23 |
 
 # Shown Order
 
@@ -2427,3 +2427,4 @@
 - **Jun 13, 12:19 AM** - Space Force contracts Viasat, Intelsat for first of new anti-jam communication sats (breaking_defense)
 - **Jun 13, 12:54 AM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
 - **Jun 13, 01:29 AM** - BlackSky to accelerate broad-area collection work under NRO contract modification (spacenews)
+- **Jun 13, 02:04 AM** - NRO funds BlackSky for new satellites, AI-optimized image detection system (breaking_defense)
