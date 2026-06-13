@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 8 | 13 | 30 |
 | nyt | 1 | 2 | 14 | 26 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -2464,3 +2464,4 @@
 - **Jun 13, 10:14 PM** - NRO funds BlackSky for new satellites, AI-optimized image detection system (breaking_defense)
 - **Jun 13, 10:49 PM** - Arkadia Space to supply thrusters for Reflex Aerospace satellite (spacenews)
 - **Jun 13, 11:24 PM** - The Artemis II mission transfixed the nation. (nyt)
+- **Jun 13, 11:59 PM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
