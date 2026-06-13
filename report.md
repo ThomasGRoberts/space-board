@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 18 | 16 | 34 |
+| spacenews | 6 | 18 | 17 | 35 |
 | nyt | 1 | 2 | 12 | 24 |
 | breaking_defense | 0 | 0 | 12 | 23 |
 
@@ -2429,3 +2429,4 @@
 - **Jun 13, 01:29 AM** - BlackSky to accelerate broad-area collection work under NRO contract modification (spacenews)
 - **Jun 13, 02:04 AM** - NRO funds BlackSky for new satellites, AI-optimized image detection system (breaking_defense)
 - **Jun 13, 02:39 AM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
+- **Jun 13, 03:14 AM** - NASA to select new headquarters building by end of year (spacenews)
