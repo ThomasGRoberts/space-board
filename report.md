@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 7 | 14 | 30 |
-| nyt | 0 | 2 | 13 | 26 |
+| nyt | 0 | 2 | 14 | 27 |
 | breaking_defense | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -2474,3 +2474,4 @@
 - **Jun 14, 10:09 AM** - NASA’s moon-base plans are off to a slow start. (nyt)
 - **Jun 14, 10:44 AM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
 - **Jun 14, 11:19 AM** - FCC lets Amazon Leo miss deployment deadline with temporary spectrum penalty (spacenews)
+- **Jun 14, 11:54 AM** - Can the Artemis III Mission Go on as Planned? (nyt)
