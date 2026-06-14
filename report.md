@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 13 | 30 |
 | nyt | 1 | 2 | 14 | 26 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -2457,3 +2457,4 @@
 - **Jun 13, 11:59 PM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
 - **Jun 14, 12:35 AM** - OQ Technology plans direct-to-smartphone demo with cellular spectrum (spacenews)
 - **Jun 14, 01:14 AM** - NASA Crew-12 Commander Captures Snaky Southern Lights From Space Station (nyt)
+- **Jun 14, 01:49 AM** - Space Force contracts Viasat, Intelsat for first of new anti-jam communication sats (breaking_defense)
