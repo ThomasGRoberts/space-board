@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 5 | 13 | 28 |
+| spacenews | 2 | 5 | 14 | 29 |
 | nyt | 0 | 2 | 13 | 27 |
 | breaking_defense | 0 | 0 | 14 | 26 |
 
@@ -2482,3 +2482,4 @@
 - **Jun 14, 02:54 PM** - H3 successfully returns to flight (spacenews)
 - **Jun 14, 03:29 PM** - Alan Hale, Sky Watcher Who Created a Comet Sensation, Dies at 68 (nyt)
 - **Jun 14, 04:05 PM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
+- **Jun 14, 04:39 PM** - Axiom and Prada advance design of spacesuit (spacenews)
