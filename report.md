@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 13 | 30 |
 | nyt | 1 | 2 | 14 | 26 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -2463,3 +2463,4 @@
 - **Jun 14, 03:39 AM** - Space Force contracts Viasat, Intelsat for first of new anti-jam communication sats (breaking_defense)
 - **Jun 14, 04:14 AM** - Missile production push runs into solid rocket motor bottleneck (spacenews)
 - **Jun 14, 04:49 AM** - Can NASA Really Land Astronauts on the Moon by 2028? (nyt)
+- **Jun 14, 05:24 AM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
