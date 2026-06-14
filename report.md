@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 14 | 30 |
-| nyt | 1 | 2 | 13 | 26 |
+| nyt | 1 | 2 | 14 | 27 |
 | breaking_defense | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -2459,3 +2459,4 @@
 - **Jun 14, 01:14 AM** - NASA Crew-12 Commander Captures Snaky Southern Lights From Space Station (nyt)
 - **Jun 14, 01:49 AM** - Space Force contracts Viasat, Intelsat for first of new anti-jam communication sats (breaking_defense)
 - **Jun 14, 02:24 AM** - ESA astronaut assignment on Artemis 3 part of negotiations on revised Artemis roles (spacenews)
+- **Jun 14, 02:59 AM** - NASA’s moon-base plans are off to a slow start. (nyt)
