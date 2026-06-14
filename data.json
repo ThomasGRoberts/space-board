@@ -1,9 +1,34 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-06-13T00:04:48.230730+00:00",
-    "trigger_count": 0,
+    "last_run_datetime": "2026-06-14T00:04:52.001857+00:00",
+    "trigger_count": 1,
     "current_item_id": "e582b3de4daaf9ecf6d02b796297c771",
     "data": [
+        {
+            "id": "50ace9687686a6eded3747cb2b84d01d",
+            "source": "spacenews",
+            "text": "Revised Artemis lunar lander plans take shape",
+            "source_link": "https://spacenews.com/revised-artemis-lunar-lander-plans-take-shape/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-13T17:29:17.873374Z",
+            "shown_at": [
+                "2026-06-13T17:29:18.671532Z"
+            ]
+        },
+        {
+            "id": "8dd96aaae554966b2f7cbc5f69ff0bc2",
+            "source": "nyt",
+            "text": "Can the Artemis III Mission Go on as Planned?",
+            "source_link": "https://www.nytimes.com/video/science/space/100000010943451/can-the-artemis-iii-mission-go-on-as-planned.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-13T09:09:19.996746Z",
+            "shown_at": [
+                "2026-06-13T09:09:20.646282Z",
+                "2026-06-13T11:04:29.892501Z"
+            ]
+        },
         {
             "id": "ffd2bd0b03221dd465a32fa80d5e2c7b",
             "source": "spacenews",
@@ -7924,63 +7949,6 @@
                 "2026-04-10T02:59:30.774493Z",
                 "2026-04-11T10:04:29.535553Z",
                 "2026-04-12T09:39:24.671224Z"
-            ]
-        },
-        {
-            "id": "f97372882eb515a64b1c96be4a37b260",
-            "source": "spacenews",
-            "text": "China conducts pair of Long March launches for Thousand Sails and Guowang megaconstellations",
-            "source_link": "https://spacenews.com/china-conducts-pair-of-long-march-launches-for-thousand-sails-and-guowang-megaconstellations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-09T16:09:17.472909Z",
-            "shown_at": [
-                "2026-04-09T16:09:18.584711Z",
-                "2026-04-14T02:14:11.861660Z"
-            ]
-        },
-        {
-            "id": "ec7499e7f03d1ea8150e6c222fb34ebd",
-            "source": "nyt",
-            "text": "For Artemis II, Returning to Earth May Be the Most Dangerous Part of the Mission",
-            "source_link": "https://www.nytimes.com/2026/04/09/science/nasa-artemis-ii-earth-return-heat-shield.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-09T14:24:24.578101Z",
-            "shown_at": [
-                "2026-04-09T14:24:25.482164Z",
-                "2026-04-12T16:04:40.115386Z",
-                "2026-04-13T14:19:24.396994Z",
-                "2026-04-14T02:49:17.565890Z",
-                "2026-04-14T03:59:24.975465Z",
-                "2026-04-14T07:29:19.107226Z",
-                "2026-04-15T03:24:09.701069Z",
-                "2026-04-16T10:54:30.695625Z"
-            ]
-        },
-        {
-            "id": "8dd96aaae554966b2f7cbc5f69ff0bc2",
-            "source": "nyt",
-            "text": "Can the Artemis III Mission Go on as Planned?",
-            "source_link": "https://www.nytimes.com/video/science/space/100000010943451/can-the-artemis-iii-mission-go-on-as-planned.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-13T09:09:19.996746Z",
-            "shown_at": [
-                "2026-06-13T09:09:20.646282Z",
-                "2026-06-13T11:04:29.892501Z"
-            ]
-        },
-        {
-            "id": "50ace9687686a6eded3747cb2b84d01d",
-            "source": "spacenews",
-            "text": "Revised Artemis lunar lander plans take shape",
-            "source_link": "https://spacenews.com/revised-artemis-lunar-lander-plans-take-shape/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-13T17:29:17.873374Z",
-            "shown_at": [
-                "2026-06-13T17:29:18.671532Z"
             ]
         }
     ]
