@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 13 | 26 |
+| spacenews | 1 | 2 | 14 | 27 |
 | nyt | 0 | 1 | 13 | 27 |
 | breaking_defense | 0 | 0 | 14 | 27 |
 
@@ -2491,3 +2491,4 @@
 - **Jun 14, 08:19 PM** - House appropriators back $55.5 billion Space Force budget, omit reconciliation funds (spacenews)
 - **Jun 14, 08:54 PM** - Can NASA Really Land Astronauts on the Moon by 2028? (nyt)
 - **Jun 14, 09:29 PM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
+- **Jun 14, 10:04 PM** - HyImpulse signs letter of intent with Oman’s spaceport (spacenews)
