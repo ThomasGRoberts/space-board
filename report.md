@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 7 | 13 | 29 |
+| spacenews | 1 | 7 | 14 | 30 |
 | nyt | 1 | 2 | 14 | 26 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
@@ -2455,3 +2455,4 @@
 - **Jun 13, 10:49 PM** - Arkadia Space to supply thrusters for Reflex Aerospace satellite (spacenews)
 - **Jun 13, 11:24 PM** - The Artemis II mission transfixed the nation. (nyt)
 - **Jun 13, 11:59 PM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
+- **Jun 14, 12:35 AM** - OQ Technology plans direct-to-smartphone demo with cellular spectrum (spacenews)
