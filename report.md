@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 7 | 13 | 29 |
+| spacenews | 2 | 8 | 14 | 30 |
 | nyt | 1 | 2 | 14 | 26 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
@@ -2461,3 +2461,4 @@
 - **Jun 14, 02:24 AM** - ESA astronaut assignment on Artemis 3 part of negotiations on revised Artemis roles (spacenews)
 - **Jun 14, 02:59 AM** - NASA’s moon-base plans are off to a slow start. (nyt)
 - **Jun 14, 03:39 AM** - Space Force contracts Viasat, Intelsat for first of new anti-jam communication sats (breaking_defense)
+- **Jun 14, 04:14 AM** - Missile production push runs into solid rocket motor bottleneck (spacenews)

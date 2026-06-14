@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-14T00:04:52.001857+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a91f45ec8805aff66a100c862d62073f",
+    "trigger_count": 0,
+    "current_item_id": "48c1c8d026698f2ab5655a335fc6cf08",
     "data": [
         {
             "id": "50ace9687686a6eded3747cb2b84d01d",
@@ -7955,6 +7955,18 @@
                 "2026-04-10T02:59:30.774493Z",
                 "2026-04-11T10:04:29.535553Z",
                 "2026-04-12T09:39:24.671224Z"
+            ]
+        },
+        {
+            "id": "48c1c8d026698f2ab5655a335fc6cf08",
+            "source": "spacenews",
+            "text": "Missile production push runs into solid rocket motor bottleneck",
+            "source_link": "https://spacenews.com/missile-production-push-runs-into-solid-rocket-motor-bottleneck/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-14T04:14:35.587079Z",
+            "shown_at": [
+                "2026-06-14T04:14:36.341347Z"
             ]
         }
     ]
