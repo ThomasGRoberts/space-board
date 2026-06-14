@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 13 | 28 |
 | nyt | 0 | 2 | 14 | 27 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -2481,3 +2481,4 @@
 - **Jun 14, 02:19 PM** - Space Force contracts Viasat, Intelsat for first of new anti-jam communication sats (breaking_defense)
 - **Jun 14, 02:54 PM** - H3 successfully returns to flight (spacenews)
 - **Jun 14, 03:29 PM** - Alan Hale, Sky Watcher Who Created a Comet Sensation, Dies at 68 (nyt)
+- **Jun 14, 04:05 PM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
