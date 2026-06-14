@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 5 | 13 | 28 |
+| spacenews | 1 | 4 | 14 | 28 |
 | nyt | 0 | 2 | 13 | 27 |
 | breaking_defense | 0 | 0 | 14 | 26 |
 
@@ -2488,3 +2488,4 @@
 - **Jun 14, 06:29 PM** - HyImpulse signs letter of intent with Oman’s spaceport (spacenews)
 - **Jun 14, 07:04 PM** - Can NASA Really Land Astronauts on the Moon by 2028? (nyt)
 - **Jun 14, 07:44 PM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
+- **Jun 14, 08:19 PM** - House appropriators back $55.5 billion Space Force budget, omit reconciliation funds (spacenews)
