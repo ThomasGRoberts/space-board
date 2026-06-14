@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 14 | 28 |
-| nyt | 0 | 2 | 13 | 27 |
+| nyt | 0 | 2 | 14 | 28 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2480,3 +2480,4 @@
 - **Jun 14, 01:39 PM** - Artemis Astronauts to Wear Prada Spacesuits (nyt)
 - **Jun 14, 02:19 PM** - Space Force contracts Viasat, Intelsat for first of new anti-jam communication sats (breaking_defense)
 - **Jun 14, 02:54 PM** - H3 successfully returns to flight (spacenews)
+- **Jun 14, 03:29 PM** - Alan Hale, Sky Watcher Who Created a Comet Sensation, Dies at 68 (nyt)
