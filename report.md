@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 14 | 28 |
-| nyt | 0 | 2 | 13 | 27 |
+| nyt | 0 | 2 | 14 | 28 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2477,3 +2477,4 @@
 - **Jun 14, 11:54 AM** - Can the Artemis III Mission Go on as Planned? (nyt)
 - **Jun 14, 12:29 PM** - NRO funds BlackSky for new satellites, AI-optimized image detection system (breaking_defense)
 - **Jun 14, 01:05 PM** - Senate NDAA backs plan to fold SDA, Space RCO into Space Force (spacenews)
+- **Jun 14, 01:39 PM** - Artemis Astronauts to Wear Prada Spacesuits (nyt)
