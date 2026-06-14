@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 7 | 13 | 29 |
+| spacenews | 1 | 7 | 14 | 30 |
 | nyt | 1 | 2 | 14 | 26 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
@@ -2458,3 +2458,4 @@
 - **Jun 14, 12:35 AM** - OQ Technology plans direct-to-smartphone demo with cellular spectrum (spacenews)
 - **Jun 14, 01:14 AM** - NASA Crew-12 Commander Captures Snaky Southern Lights From Space Station (nyt)
 - **Jun 14, 01:49 AM** - Space Force contracts Viasat, Intelsat for first of new anti-jam communication sats (breaking_defense)
+- **Jun 14, 02:24 AM** - ESA astronaut assignment on Artemis 3 part of negotiations on revised Artemis roles (spacenews)
