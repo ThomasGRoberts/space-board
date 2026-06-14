@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 5 | 13 | 28 |
 | nyt | 0 | 2 | 14 | 27 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2484,3 +2484,4 @@
 - **Jun 14, 04:05 PM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
 - **Jun 14, 04:39 PM** - Axiom and Prada advance design of spacesuit (spacenews)
 - **Jun 14, 05:14 PM** - Can NASA Really Land Astronauts on the Moon by 2028? (nyt)
+- **Jun 14, 05:54 PM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
