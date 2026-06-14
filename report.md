@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 13 | 30 |
 | nyt | 1 | 2 | 14 | 26 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -2469,3 +2469,4 @@
 - **Jun 14, 07:09 AM** - Space Force contracts Viasat, Intelsat for first of new anti-jam communication sats (breaking_defense)
 - **Jun 14, 07:44 AM** - Spire to pursue space-based missile warning in partnership with German defense firm (spacenews)
 - **Jun 14, 08:19 AM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
+- **Jun 14, 08:59 AM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
