@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 7 | 13 | 29 |
 | nyt | 0 | 2 | 14 | 27 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -2472,3 +2472,4 @@
 - **Jun 14, 08:59 AM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
 - **Jun 14, 09:34 AM** - Avanti trims GEO exposure with Hylas-3 sale (spacenews)
 - **Jun 14, 10:09 AM** - NASA’s moon-base plans are off to a slow start. (nyt)
+- **Jun 14, 10:44 AM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
