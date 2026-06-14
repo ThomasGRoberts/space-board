@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 5 | 13 | 28 |
+| spacenews | 2 | 5 | 14 | 29 |
 | nyt | 0 | 2 | 13 | 27 |
 | breaking_defense | 0 | 0 | 14 | 26 |
 
@@ -2479,3 +2479,4 @@
 - **Jun 14, 01:05 PM** - Senate NDAA backs plan to fold SDA, Space RCO into Space Force (spacenews)
 - **Jun 14, 01:39 PM** - Artemis Astronauts to Wear Prada Spacesuits (nyt)
 - **Jun 14, 02:19 PM** - Space Force contracts Viasat, Intelsat for first of new anti-jam communication sats (breaking_defense)
+- **Jun 14, 02:54 PM** - H3 successfully returns to flight (spacenews)
