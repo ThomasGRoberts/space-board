@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 7 | 13 | 29 |
 | nyt | 0 | 2 | 14 | 27 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -2475,3 +2475,4 @@
 - **Jun 14, 10:44 AM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
 - **Jun 14, 11:19 AM** - FCC lets Amazon Leo miss deployment deadline with temporary spectrum penalty (spacenews)
 - **Jun 14, 11:54 AM** - Can the Artemis III Mission Go on as Planned? (nyt)
+- **Jun 14, 12:29 PM** - NRO funds BlackSky for new satellites, AI-optimized image detection system (breaking_defense)
