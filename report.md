@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 8 | 13 | 29 |
+| spacenews | 2 | 8 | 14 | 30 |
 | nyt | 1 | 2 | 14 | 26 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
@@ -2467,3 +2467,4 @@
 - **Jun 14, 05:59 AM** - Let’s procure in-orbit services like Earth observation data and services (spacenews)
 - **Jun 14, 06:34 AM** - What is the Orion spacecraft? (nyt)
 - **Jun 14, 07:09 AM** - Space Force contracts Viasat, Intelsat for first of new anti-jam communication sats (breaking_defense)
+- **Jun 14, 07:44 AM** - Spire to pursue space-based missile warning in partnership with German defense firm (spacenews)
