@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 14 | 30 |
-| nyt | 1 | 2 | 13 | 26 |
+| nyt | 1 | 2 | 14 | 27 |
 | breaking_defense | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -2468,3 +2468,4 @@
 - **Jun 14, 06:34 AM** - What is the Orion spacecraft? (nyt)
 - **Jun 14, 07:09 AM** - Space Force contracts Viasat, Intelsat for first of new anti-jam communication sats (breaking_defense)
 - **Jun 14, 07:44 AM** - Spire to pursue space-based missile warning in partnership with German defense firm (spacenews)
+- **Jun 14, 08:19 AM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
