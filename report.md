@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 5 | 13 | 28 |
 | nyt | 0 | 2 | 14 | 27 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2478,3 +2478,4 @@
 - **Jun 14, 12:29 PM** - NRO funds BlackSky for new satellites, AI-optimized image detection system (breaking_defense)
 - **Jun 14, 01:05 PM** - Senate NDAA backs plan to fold SDA, Space RCO into Space Force (spacenews)
 - **Jun 14, 01:39 PM** - Artemis Astronauts to Wear Prada Spacesuits (nyt)
+- **Jun 14, 02:19 PM** - Space Force contracts Viasat, Intelsat for first of new anti-jam communication sats (breaking_defense)
