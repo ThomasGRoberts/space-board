@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 8 | 14 | 30 |
-| nyt | 1 | 2 | 13 | 26 |
+| nyt | 1 | 2 | 14 | 27 |
 | breaking_defense | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -2465,3 +2465,4 @@
 - **Jun 14, 04:49 AM** - Can NASA Really Land Astronauts on the Moon by 2028? (nyt)
 - **Jun 14, 05:24 AM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
 - **Jun 14, 05:59 AM** - Let’s procure in-orbit services like Earth observation data and services (spacenews)
+- **Jun 14, 06:34 AM** - What is the Orion spacecraft? (nyt)
