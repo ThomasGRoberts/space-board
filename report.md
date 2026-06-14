@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 8 | 13 | 29 |
+| spacenews | 2 | 8 | 14 | 30 |
 | nyt | 0 | 2 | 13 | 26 |
-| breaking_defense | 0 | 0 | 14 | 26 |
+| breaking_defense | 0 | 0 | 14 | 25 |
 
 # Shown Order
 
@@ -2470,3 +2470,4 @@
 - **Jun 14, 07:44 AM** - Spire to pursue space-based missile warning in partnership with German defense firm (spacenews)
 - **Jun 14, 08:19 AM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
 - **Jun 14, 08:59 AM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
+- **Jun 14, 09:34 AM** - Avanti trims GEO exposure with Hylas-3 sale (spacenews)
