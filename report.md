@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 6 | 13 | 28 |
+| spacenews | 2 | 6 | 14 | 29 |
 | nyt | 0 | 2 | 13 | 27 |
 | breaking_defense | 0 | 0 | 14 | 26 |
 
@@ -2476,3 +2476,4 @@
 - **Jun 14, 11:19 AM** - FCC lets Amazon Leo miss deployment deadline with temporary spectrum penalty (spacenews)
 - **Jun 14, 11:54 AM** - Can the Artemis III Mission Go on as Planned? (nyt)
 - **Jun 14, 12:29 PM** - NRO funds BlackSky for new satellites, AI-optimized image detection system (breaking_defense)
+- **Jun 14, 01:05 PM** - Senate NDAA backs plan to fold SDA, Space RCO into Space Force (spacenews)
