@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 13 | 27 |
 | nyt | 0 | 1 | 14 | 27 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2493,3 +2493,4 @@
 - **Jun 14, 09:29 PM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
 - **Jun 14, 10:04 PM** - HyImpulse signs letter of intent with Oman’s spaceport (spacenews)
 - **Jun 14, 10:39 PM** - The Artemis II mission transfixed the nation. (nyt)
+- **Jun 14, 11:19 PM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
