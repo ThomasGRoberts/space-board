@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 7 | 13 | 30 |
 | nyt | 1 | 2 | 14 | 26 |
-| breaking_defense | 0 | 0 | 13 | 25 |
+| breaking_defense | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -2460,3 +2460,4 @@
 - **Jun 14, 01:49 AM** - Space Force contracts Viasat, Intelsat for first of new anti-jam communication sats (breaking_defense)
 - **Jun 14, 02:24 AM** - ESA astronaut assignment on Artemis 3 part of negotiations on revised Artemis roles (spacenews)
 - **Jun 14, 02:59 AM** - NASA’s moon-base plans are off to a slow start. (nyt)
+- **Jun 14, 03:39 AM** - Space Force contracts Viasat, Intelsat for first of new anti-jam communication sats (breaking_defense)
