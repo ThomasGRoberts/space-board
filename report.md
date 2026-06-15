@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 5 | 15 | 29 |
 | nyt | 0 | 0 | 13 | 26 |
-| breaking_defense | 0 | 0 | 12 | 25 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
 
@@ -2519,3 +2519,4 @@
 - **Jun 15, 03:14 PM** - NRO funds BlackSky for new satellites, AI-optimized image detection system (breaking_defense)
 - **Jun 15, 03:49 PM** - What is the Orion spacecraft? (nyt)
 - **Jun 15, 04:26 PM** - LeoLabs deploys mobile space-tracking radar in Indo-Pacific  (spacenews)
+- **Jun 15, 05:05 PM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
