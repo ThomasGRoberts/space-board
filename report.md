@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 14 | 27 |
-| nyt | 0 | 1 | 13 | 27 |
+| nyt | 0 | 1 | 14 | 28 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2497,3 +2497,4 @@
 - **Jun 15, 02:14 AM** - Can NASA Really Land Astronauts on the Moon by 2028? (nyt)
 - **Jun 15, 02:49 AM** - Space Force contracts Viasat, Intelsat for first of new anti-jam communication sats (breaking_defense)
 - **Jun 15, 03:24 AM** - Open Cosmos seeks deadline extension for broadband constellation (spacenews)
+- **Jun 15, 03:59 AM** - Artemis Astronauts to Wear Prada Spacesuits (nyt)
