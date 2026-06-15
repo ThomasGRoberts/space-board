@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 2 | 13 | 26 |
+| spacenews | 1 | 2 | 14 | 27 |
 | nyt | 0 | 1 | 13 | 27 |
 | breaking_defense | 0 | 0 | 14 | 27 |
 
@@ -2496,3 +2496,4 @@
 - **Jun 15, 01:39 AM** - Orbital raises $5 million to join orbital data center race (spacenews)
 - **Jun 15, 02:14 AM** - Can NASA Really Land Astronauts on the Moon by 2028? (nyt)
 - **Jun 15, 02:49 AM** - Space Force contracts Viasat, Intelsat for first of new anti-jam communication sats (breaking_defense)
+- **Jun 15, 03:24 AM** - Open Cosmos seeks deadline extension for broadband constellation (spacenews)
