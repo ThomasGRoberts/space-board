@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 4 | 15 | 28 |
+| spacenews | 3 | 4 | 16 | 29 |
 | nyt | 0 | 0 | 13 | 26 |
 | breaking_defense | 0 | 0 | 12 | 26 |
 
@@ -2524,3 +2524,4 @@
 - **Jun 15, 06:24 PM** - Vandenberg offers new launch site for small and medium rockets (spacenews)
 - **Jun 15, 06:59 PM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
 - **Jun 15, 07:34 PM** - Can NASA Really Land Astronauts on the Moon by 2028? (nyt)
+- **Jun 15, 08:09 PM** - ESA astronaut assignment on Artemis 3 part of negotiations on revised Artemis roles (spacenews)
