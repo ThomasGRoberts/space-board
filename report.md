@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 2 | 13 | 26 |
+| spacenews | 0 | 2 | 14 | 27 |
 | nyt | 0 | 1 | 13 | 27 |
 | breaking_defense | 0 | 0 | 14 | 27 |
 
@@ -2499,3 +2499,4 @@
 - **Jun 15, 03:24 AM** - Open Cosmos seeks deadline extension for broadband constellation (spacenews)
 - **Jun 15, 03:59 AM** - Artemis Astronauts to Wear Prada Spacesuits (nyt)
 - **Jun 15, 04:34 AM** - NRO funds BlackSky for new satellites, AI-optimized image detection system (breaking_defense)
+- **Jun 15, 05:09 AM** - Let’s procure in-orbit services like Earth observation data and services (spacenews)
