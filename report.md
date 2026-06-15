@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 2 | 13 | 27 |
 | nyt | 0 | 1 | 14 | 27 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2498,3 +2498,4 @@
 - **Jun 15, 02:49 AM** - Space Force contracts Viasat, Intelsat for first of new anti-jam communication sats (breaking_defense)
 - **Jun 15, 03:24 AM** - Open Cosmos seeks deadline extension for broadband constellation (spacenews)
 - **Jun 15, 03:59 AM** - Artemis Astronauts to Wear Prada Spacesuits (nyt)
+- **Jun 15, 04:34 AM** - NRO funds BlackSky for new satellites, AI-optimized image detection system (breaking_defense)
