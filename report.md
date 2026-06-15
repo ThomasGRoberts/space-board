@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 4 | 15 | 28 |
-| nyt | 0 | 0 | 12 | 26 |
+| nyt | 0 | 0 | 13 | 27 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
 # Shown Order
@@ -2520,3 +2520,4 @@
 - **Jun 15, 03:49 PM** - What is the Orion spacecraft? (nyt)
 - **Jun 15, 04:26 PM** - LeoLabs deploys mobile space-tracking radar in Indo-Pacific  (spacenews)
 - **Jun 15, 05:05 PM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
+- **Jun 15, 05:39 PM** - How Does the Blue Origin Rocket Explosion affect NASA’s Moon Plans? (nyt)
