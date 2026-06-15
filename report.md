@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 6 | 16 | 30 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 | breaking_defense | 0 | 0 | 12 | 25 |
 
 # Shown Order
@@ -2528,3 +2528,4 @@
 - **Jun 15, 08:44 PM** - Space Force orders two more GPS satellites from Lockheed Martin for $514 million (spacenews)
 - **Jun 15, 09:19 PM** - Gilat to buy Comtech satcoms business six years after failed merger (spacenews)
 - **Jun 15, 09:54 PM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
+- **Jun 15, 10:34 PM** - Who gets to be a NASA astronaut? (nyt)
