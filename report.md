@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 2 | 13 | 27 |
+| spacenews | 2 | 4 | 14 | 28 |
 | nyt | 0 | 0 | 14 | 27 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 
@@ -2513,3 +2513,4 @@
 - **Jun 15, 11:44 AM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
 - **Jun 15, 12:19 PM** - Spire to pursue space-based missile warning in partnership with German defense firm (spacenews)
 - **Jun 15, 12:54 PM** - How Will the Artemis III Astronauts Train? (nyt)
+- **Jun 15, 01:29 PM** - What’s the Best Way to Monetize Space Energy? (spacenews)

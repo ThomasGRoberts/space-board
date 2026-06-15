@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-15T00:04:45.768045+00:00",
-    "trigger_count": 6,
-    "current_item_id": "eb551f9a35d2a4b8b8684fa492f39813",
+    "trigger_count": 0,
+    "current_item_id": "8e5db043a666e791651f57d3e0ee5fee",
     "data": [
         {
             "id": "48c1c8d026698f2ab5655a335fc6cf08",
@@ -8008,6 +8008,27 @@
                 "2026-04-09T17:36:54.778019Z",
                 "2026-04-13T07:54:24.451038Z"
             ]
+        },
+        {
+            "id": "8e5db043a666e791651f57d3e0ee5fee",
+            "source": "spacenews",
+            "text": "What’s the Best Way to Monetize Space Energy?",
+            "source_link": "https://spacenews.com/whats-the-best-way-to-monetize-space-energy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-15T13:29:24.343664Z",
+            "shown_at": [
+                "2026-06-15T13:29:25.150189Z"
+            ]
+        },
+        {
+            "id": "9c56c78ed7fcc2a5494e855bf26a96a2",
+            "source": "spacenews",
+            "text": "Sustained maneuver has a propulsion problem",
+            "source_link": "https://spacenews.com/sustained-maneuver-has-a-propulsion-problem/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-06-15T13:29:24.343722Z"
         }
     ]
 }
