@@ -4,16 +4,14 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 2 | 14 | 27 |
 | nyt | 0 | 1 | 13 | 27 |
-| breaking_defense | 0 | 0 | 14 | 27 |
+| breaking_defense | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
-- **Apr 09, 04:44 PM** - A new kind of arsenal: commercial satellites (spacenews)
 - **Apr 09, 05:36 PM** - What returning to lunar space means for human health (spacenews)
 - **Apr 09, 06:14 PM** - Portal Space Systems raises $50 million to accelerate spacecraft development (spacenews)
 - **Apr 09, 06:49 PM** - PLD Space secures $35 million European Investment Bank loan for MIURA 5 launcher (spacenews)
 - **Apr 09, 10:19 PM** - PLD Space secures $35 million European Investment Bank loan for MIURA 5 launcher (spacenews)
-- **Apr 10, 02:59 AM** - A new kind of arsenal: commercial satellites (spacenews)
 - **Apr 10, 11:54 AM** - China’s Chang’e-7 arrives at spaceport for lunar south pole exploration mission (spacenews)
 - **Apr 10, 12:29 PM** - How and When to Watch NASA’s Artemis II Splash Down in Pacific Ocean (nyt)
 - **Apr 10, 01:04 PM** - NASA prepares for Artemis 2 return (spacenews)
@@ -33,7 +31,6 @@
 - **Apr 11, 05:24 AM** - Artemis II Splashdown Gives NASA Momentum in Renewed Moon Race (nyt)
 - **Apr 11, 05:59 AM** - HawkEye 360 files to go public (spacenews)
 - **Apr 11, 09:29 AM** - Another Giant Leap Reminds Us How Small We Are (nyt)
-- **Apr 11, 10:04 AM** - A new kind of arsenal: commercial satellites (spacenews)
 - **Apr 11, 11:14 AM** - HawkEye 360 files to go public (spacenews)
 - **Apr 11, 11:49 AM** - See Photos From All 10 Days of NASA’s Artemis II Moon Mission (nyt)
 - **Apr 11, 02:09 PM** - Artemis II Splashdown Gives NASA Momentum in Renewed Moon Race (nyt)
@@ -41,7 +38,6 @@
 - **Apr 11, 11:34 PM** - NASA’s Artemis II Astronauts Reunite With Friends and Family After 10-Day Moon Mission (nyt)
 - **Apr 12, 12:44 AM** - How and When to Watch NASA’s Artemis II Splash Down in Pacific Ocean (nyt)
 - **Apr 12, 05:34 AM** - See Photos From All 10 Days of NASA’s Artemis II Moon Mission (nyt)
-- **Apr 12, 09:39 AM** - A new kind of arsenal: commercial satellites (spacenews)
 - **Apr 12, 10:14 AM** - Another Giant Leap Reminds Us How Small We Are (nyt)
 - **Apr 12, 10:49 AM** - GSOA and Novaspace Launch the Space Industry Forum (SIF) 2026 in Singapore (spacenews)
 - **Apr 12, 11:59 AM** - Rocket Lab wins contract for three more iQPS launches (spacenews)
