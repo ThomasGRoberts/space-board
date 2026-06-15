@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-15T00:04:45.768045+00:00",
-    "trigger_count": 6,
-    "current_item_id": "98e82a1f7882bf6cd2f1863c39cfd137",
+    "trigger_count": 0,
+    "current_item_id": "fc91a847a1522daef6ad7e0d8c3862a4",
     "data": [
         {
             "id": "48c1c8d026698f2ab5655a335fc6cf08",
@@ -8052,6 +8052,18 @@
             "fetched_datetime": "2026-06-15T14:39:27.952335Z",
             "shown_at": [
                 "2026-06-15T14:39:28.699968Z"
+            ]
+        },
+        {
+            "id": "fc91a847a1522daef6ad7e0d8c3862a4",
+            "source": "spacenews",
+            "text": "Space Force orders two more GPS satellites from Lockheed Martin for $514 million",
+            "source_link": "https://spacenews.com/space-force-orders-two-more-gps-satellites-from-lockheed-martin-for-514-million/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-15T20:44:41.382892Z",
+            "shown_at": [
+                "2026-06-15T20:44:46.650916Z"
             ]
         }
     ]
