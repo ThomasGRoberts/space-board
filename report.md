@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 2 | 13 | 27 |
+| spacenews | 0 | 2 | 14 | 27 |
 | nyt | 0 | 1 | 13 | 27 |
 | breaking_defense | 0 | 0 | 14 | 27 |
 
@@ -2502,3 +2502,4 @@
 - **Jun 15, 05:09 AM** - Let’s procure in-orbit services like Earth observation data and services (spacenews)
 - **Jun 15, 05:44 AM** - The Artemis II mission transfixed the nation. (nyt)
 - **Jun 15, 06:19 AM** - Space Force contracts Viasat, Intelsat for first of new anti-jam communication sats (breaking_defense)
+- **Jun 15, 06:54 AM** - Senate NDAA backs plan to fold SDA, Space RCO into Space Force (spacenews)
