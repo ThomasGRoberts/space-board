@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 2 | 13 | 27 |
 | nyt | 0 | 0 | 14 | 27 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2507,3 +2507,4 @@
 - **Jun 15, 08:05 AM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
 - **Jun 15, 08:44 AM** - Let’s procure in-orbit services like Earth observation data and services (spacenews)
 - **Jun 15, 09:24 AM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
+- **Jun 15, 09:59 AM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
