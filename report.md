@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 2 | 13 | 27 |
-| nyt | 0 | 1 | 14 | 28 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| nyt | 0 | 1 | 14 | 27 |
+| breaking_defense | 0 | 0 | 14 | 27 |
 
 # Shown Order
 
@@ -2504,3 +2504,4 @@
 - **Jun 15, 06:19 AM** - Space Force contracts Viasat, Intelsat for first of new anti-jam communication sats (breaking_defense)
 - **Jun 15, 06:54 AM** - Senate NDAA backs plan to fold SDA, Space RCO into Space Force (spacenews)
 - **Jun 15, 07:29 AM** - Remember Apollo 9? No? Have a Look at Artemis III. (nyt)
+- **Jun 15, 08:05 AM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
