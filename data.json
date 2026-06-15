@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-15T00:04:45.768045+00:00",
-    "trigger_count": 6,
-    "current_item_id": "fc91a847a1522daef6ad7e0d8c3862a4",
+    "trigger_count": 0,
+    "current_item_id": "d74d9ce656f13bce8bb5dda0375a4d8e",
     "data": [
         {
             "id": "48c1c8d026698f2ab5655a335fc6cf08",
@@ -8064,6 +8064,18 @@
             "fetched_datetime": "2026-06-15T20:44:41.382892Z",
             "shown_at": [
                 "2026-06-15T20:44:46.650916Z"
+            ]
+        },
+        {
+            "id": "d74d9ce656f13bce8bb5dda0375a4d8e",
+            "source": "spacenews",
+            "text": "Gilat to buy Comtech satcoms business six years after failed merger",
+            "source_link": "https://spacenews.com/gilat-to-buy-comtech-satcoms-business-six-years-after-failed-merger/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-15T21:19:34.831564Z",
+            "shown_at": [
+                "2026-06-15T21:19:35.772616Z"
             ]
         }
     ]
