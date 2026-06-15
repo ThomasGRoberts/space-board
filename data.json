@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-15T00:04:45.768045+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8e5db043a666e791651f57d3e0ee5fee",
+    "trigger_count": 0,
+    "current_item_id": "9c56c78ed7fcc2a5494e855bf26a96a2",
     "data": [
         {
             "id": "48c1c8d026698f2ab5655a335fc6cf08",
@@ -8026,9 +8026,12 @@
             "source": "spacenews",
             "text": "Sustained maneuver has a propulsion problem",
             "source_link": "https://spacenews.com/sustained-maneuver-has-a-propulsion-problem/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-06-15T13:29:24.343722Z"
+            "fetched_datetime": "2026-06-15T13:29:24.343722Z",
+            "shown_at": [
+                "2026-06-15T14:04:59.814040Z"
+            ]
         }
     ]
 }
