@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 3 | 5 | 15 | 28 |
-| nyt | 0 | 0 | 13 | 27 |
+| spacenews | 3 | 5 | 16 | 29 |
+| nyt | 0 | 0 | 13 | 26 |
 | breaking_defense | 0 | 0 | 12 | 26 |
 
 # Shown Order
@@ -2518,3 +2518,4 @@
 - **Jun 15, 02:39 PM** - DARPA to explore ways to rapidly rebuild satellite networks if attacked (spacenews)
 - **Jun 15, 03:14 PM** - NRO funds BlackSky for new satellites, AI-optimized image detection system (breaking_defense)
 - **Jun 15, 03:49 PM** - What is the Orion spacecraft? (nyt)
+- **Jun 15, 04:26 PM** - LeoLabs deploys mobile space-tracking radar in Indo-Pacific  (spacenews)
