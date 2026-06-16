@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 5 | 17 | 30 |
 | nyt | 0 | 0 | 12 | 25 |
-| breaking_defense | 0 | 0 | 11 | 25 |
+| breaking_defense | 0 | 0 | 12 | 26 |
 
 # Shown Order
 
@@ -2534,3 +2534,4 @@
 - **Jun 16, 08:34 AM** - Space Force contracts Viasat, Intelsat for first of new anti-jam communication sats (breaking_defense)
 - **Jun 16, 09:09 AM** - How Will the Artemis III Astronauts Train? (nyt)
 - **Jun 16, 09:44 AM** - AAC Clyde Space wins ESA contract to complete maritime-monitoring constellation (spacenews)
+- **Jun 16, 10:19 AM** - Space Force contracts Viasat, Intelsat for first of new anti-jam communication sats (breaking_defense)
