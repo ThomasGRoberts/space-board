@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 9 | 17 | 32 |
+| spacenews | 8 | 10 | 18 | 33 |
 | nyt | 0 | 0 | 11 | 24 |
 | breaking_defense | 0 | 0 | 12 | 24 |
 
@@ -2541,3 +2541,4 @@
 - **Jun 16, 12:44 PM** - Meet the NASA Astronauts in the Artemis III 4-Person Crew (nyt)
 - **Jun 16, 01:19 PM** - A UN agency that works for US space (spacenews)
 - **Jun 16, 01:59 PM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
+- **Jun 16, 02:34 PM** - PiLogic partners with Air Force lab to test satellite fault-prediction software (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-16T00:04:56.586853+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e582b3de4daaf9ecf6d02b796297c771",
+    "trigger_count": 0,
+    "current_item_id": "decbb71aa5ac4c3ddb6db52ac65ecbe0",
     "data": [
         {
             "id": "d74d9ce656f13bce8bb5dda0375a4d8e",
@@ -8079,6 +8079,18 @@
             "fetched_datetime": "2026-06-16T13:19:35.251557Z",
             "shown_at": [
                 "2026-06-16T13:19:36.117554Z"
+            ]
+        },
+        {
+            "id": "decbb71aa5ac4c3ddb6db52ac65ecbe0",
+            "source": "spacenews",
+            "text": "PiLogic partners with Air Force lab to test satellite fault-prediction software",
+            "source_link": "https://spacenews.com/pilogic-partners-with-air-force-lab-to-test-satellite-fault-prediction-software/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-16T14:34:50.905068Z",
+            "shown_at": [
+                "2026-06-16T14:34:52.238283Z"
             ]
         }
     ]
