@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-16T00:04:56.586853+00:00",
-    "trigger_count": 6,
-    "current_item_id": "a91f45ec8805aff66a100c862d62073f",
+    "trigger_count": 0,
+    "current_item_id": "f03d639dd9810550a2d61bef080312d4",
     "data": [
         {
             "id": "d74d9ce656f13bce8bb5dda0375a4d8e",
@@ -8029,6 +8029,18 @@
                 "2026-04-12T00:44:03.670584Z",
                 "2026-04-15T23:49:15.087475Z",
                 "2026-04-16T07:24:17.281200Z"
+            ]
+        },
+        {
+            "id": "f03d639dd9810550a2d61bef080312d4",
+            "source": "spacenews",
+            "text": "Tianwen-2 makes series of burns on approach to asteroid, according to radio tracking ",
+            "source_link": "https://spacenews.com/tianwen-2-makes-series-of-burns-on-approach-to-asteroid-according-to-radio-tracking/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-16T10:54:40.044946Z",
+            "shown_at": [
+                "2026-06-16T10:54:41.020721Z"
             ]
         }
     ]
