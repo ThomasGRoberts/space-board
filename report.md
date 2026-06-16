@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 12 | 18 | 33 |
-| nyt | 0 | 0 | 11 | 23 |
+| nyt | 0 | 0 | 12 | 24 |
 | breaking_defense | 0 | 0 | 11 | 24 |
 
 # Shown Order
@@ -2546,3 +2546,4 @@
 - **Jun 16, 03:44 PM** - Katalyst Space raises $12 million for GEO servicing demo mission (spacenews)
 - **Jun 16, 04:19 PM** - The SpaceNews space unicorn tracker (spacenews)
 - **Jun 16, 04:54 PM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
+- **Jun 16, 05:29 PM** - Can the Artemis III Mission Go on as Planned? (nyt)
