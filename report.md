@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 5 | 16 | 30 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 | breaking_defense | 0 | 0 | 12 | 25 |
 
 # Shown Order
@@ -2532,3 +2532,4 @@
 - **Jun 16, 07:24 AM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
 - **Jun 16, 07:59 AM** - DARPA to explore ways to rapidly rebuild satellite networks if attacked (spacenews)
 - **Jun 16, 08:34 AM** - Space Force contracts Viasat, Intelsat for first of new anti-jam communication sats (breaking_defense)
+- **Jun 16, 09:09 AM** - How Will the Artemis III Astronauts Train? (nyt)
