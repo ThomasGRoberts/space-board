@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 12 | 18 | 33 |
 | nyt | 0 | 0 | 11 | 24 |
-| breaking_defense | 0 | 0 | 11 | 23 |
+| breaking_defense | 0 | 0 | 12 | 24 |
 
 # Shown Order
 
@@ -2545,3 +2545,4 @@
 - **Jun 16, 03:09 PM** - NASA’s moon-base plans are off to a slow start. (nyt)
 - **Jun 16, 03:44 PM** - Katalyst Space raises $12 million for GEO servicing demo mission (spacenews)
 - **Jun 16, 04:19 PM** - The SpaceNews space unicorn tracker (spacenews)
+- **Jun 16, 04:54 PM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
