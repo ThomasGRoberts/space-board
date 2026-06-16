@@ -4,17 +4,11 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 6 | 16 | 30 |
 | nyt | 0 | 0 | 12 | 25 |
-| breaking_defense | 0 | 0 | 12 | 26 |
+| breaking_defense | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
-- **Apr 09, 05:36 PM** - What returning to lunar space means for human health (spacenews)
-- **Apr 09, 06:14 PM** - Portal Space Systems raises $50 million to accelerate spacecraft development (spacenews)
-- **Apr 09, 06:49 PM** - PLD Space secures $35 million European Investment Bank loan for MIURA 5 launcher (spacenews)
-- **Apr 09, 10:19 PM** - PLD Space secures $35 million European Investment Bank loan for MIURA 5 launcher (spacenews)
-- **Apr 10, 11:54 AM** - China’s Chang’e-7 arrives at spaceport for lunar south pole exploration mission (spacenews)
 - **Apr 10, 12:29 PM** - How and When to Watch NASA’s Artemis II Splash Down in Pacific Ocean (nyt)
-- **Apr 10, 01:04 PM** - NASA prepares for Artemis 2 return (spacenews)
 - **Apr 10, 03:24 PM** - GSOA and Novaspace Launch the Space Industry Forum (SIF) 2026 in Singapore (spacenews)
 - **Apr 10, 03:59 PM** - Commerce Department budget proposal revives concerns about TraCSS (spacenews)
 - **Apr 10, 05:09 PM** - GSOA and Novaspace Launch the Space Industry Forum (SIF) 2026 in Singapore (spacenews)
@@ -26,8 +20,6 @@
 - **Apr 10, 10:24 PM** - Commerce Department budget proposal revives concerns about TraCSS (spacenews)
 - **Apr 11, 01:19 AM** - Moog Technology Keeps Artemis II Astronauts Safe During Historic Lunar Mission (spacenews)
 - **Apr 11, 01:54 AM** - Orion splashes down to successfully end Artemis 2 mission (spacenews)
-- **Apr 11, 03:04 AM** - NASA prepares for Artemis 2 return (spacenews)
-- **Apr 11, 04:14 AM** - NASA prepares for Artemis 2 return (spacenews)
 - **Apr 11, 05:24 AM** - Artemis II Splashdown Gives NASA Momentum in Renewed Moon Race (nyt)
 - **Apr 11, 05:59 AM** - HawkEye 360 files to go public (spacenews)
 - **Apr 11, 09:29 AM** - Another Giant Leap Reminds Us How Small We Are (nyt)
@@ -43,15 +35,12 @@
 - **Apr 12, 11:59 AM** - Rocket Lab wins contract for three more iQPS launches (spacenews)
 - **Apr 12, 03:29 PM** - Rocket Lab wins contract for three more iQPS launches (spacenews)
 - **Apr 12, 04:39 PM** - GSOA and Novaspace Launch the Space Industry Forum (SIF) 2026 in Singapore (spacenews)
-- **Apr 12, 06:59 PM** - NASA prepares for Artemis 2 return (spacenews)
 - **Apr 12, 07:34 PM** - See Photos From All 10 Days of NASA’s Artemis II Moon Mission (nyt)
-- **Apr 12, 08:09 PM** - PLD Space secures $35 million European Investment Bank loan for MIURA 5 launcher (spacenews)
 - **Apr 13, 12:54 AM** - Commerce Department budget proposal revives concerns about TraCSS (spacenews)
 - **Apr 13, 02:39 AM** - NASA’s Artemis II Astronauts Reunite With Friends and Family After 10-Day Moon Mission (nyt)
 - **Apr 13, 03:14 AM** - Spacety raises $190 million to scale satellite manufacturing, plans IPO (spacenews)
 - **Apr 13, 04:24 AM** - Sophia and Kepler to marry orbital compute with optical links (spacenews)
 - **Apr 13, 06:09 AM** - Artemis II Splashdown Gives NASA Momentum in Renewed Moon Race (nyt)
-- **Apr 13, 07:54 AM** - What returning to lunar space means for human health (spacenews)
 - **Apr 13, 11:24 AM** - Key Senate appropriator rejects proposed NASA budget cuts (spacenews)
 - **Apr 13, 11:58 AM** - Q&A: Building a broadband constellation for a contested space era (spacenews)
 - **Apr 13, 01:09 PM** - Atomic-6 unveils online marketplace for orbital data centers (spacenews)
@@ -68,11 +57,8 @@
 - **Apr 13, 09:34 PM** - Amazon reveals aviation antenna as LEO inflight connectivity race intensifies (spacenews)
 - **Apr 13, 10:09 PM** - Q&A: Heather Pringle on what to expect from Space Symposium (spacenews)
 - **Apr 13, 10:44 PM** - Washington agrees on space urgency, but not on how to deliver (spacenews)
-- **Apr 13, 11:54 PM** - Portal Space Systems raises $50 million to accelerate spacecraft development (spacenews)
 - **Apr 14, 03:24 AM** - President Trump signs legislation reauthorizing SBIR (spacenews)
-- **Apr 14, 05:44 AM** - China’s Chang’e-7 arrives at spaceport for lunar south pole exploration mission (spacenews)
 - **Apr 14, 06:19 AM** - Another Giant Leap Reminds Us How Small We Are (nyt)
-- **Apr 14, 06:54 AM** - NASA prepares for Artemis 2 return (spacenews)
 - **Apr 14, 08:04 AM** - GSOA and Novaspace Launch the Space Industry Forum (SIF) 2026 in Singapore (spacenews)
 - **Apr 14, 09:49 AM** - L3Harris investing upfront in bid for Golden Dome work (spacenews)
 - **Apr 14, 10:24 AM** - Jielong-3 launches internet test satellite, Kinetica-1 lofts 8 remote sensing sats (spacenews)

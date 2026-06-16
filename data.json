@@ -1,9 +1,69 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-06-15T00:04:45.768045+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2026-06-16T00:04:56.586853+00:00",
+    "trigger_count": 4,
     "current_item_id": "97c92cc02be924bf11ecc56fafc398d0",
     "data": [
+        {
+            "id": "d74d9ce656f13bce8bb5dda0375a4d8e",
+            "source": "spacenews",
+            "text": "Gilat to buy Comtech satcoms business six years after failed merger",
+            "source_link": "https://spacenews.com/gilat-to-buy-comtech-satcoms-business-six-years-after-failed-merger/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-15T21:19:34.831564Z",
+            "shown_at": [
+                "2026-06-15T21:19:35.772616Z"
+            ]
+        },
+        {
+            "id": "fc91a847a1522daef6ad7e0d8c3862a4",
+            "source": "spacenews",
+            "text": "Space Force orders two more GPS satellites from Lockheed Martin for $514 million",
+            "source_link": "https://spacenews.com/space-force-orders-two-more-gps-satellites-from-lockheed-martin-for-514-million/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-15T20:44:41.382892Z",
+            "shown_at": [
+                "2026-06-15T20:44:46.650916Z"
+            ]
+        },
+        {
+            "id": "3ee509a64b4269cac42fe41d0351be1b",
+            "source": "spacenews",
+            "text": "DARPA to explore ways to rapidly rebuild satellite networks if attacked",
+            "source_link": "https://spacenews.com/darpa-to-explore-ways-to-rapidly-rebuild-satellite-networks-if-attacked/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-15T14:39:27.952335Z",
+            "shown_at": [
+                "2026-06-15T14:39:28.699968Z"
+            ]
+        },
+        {
+            "id": "9c56c78ed7fcc2a5494e855bf26a96a2",
+            "source": "spacenews",
+            "text": "Sustained maneuver has a propulsion problem",
+            "source_link": "https://spacenews.com/sustained-maneuver-has-a-propulsion-problem/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-15T13:29:24.343722Z",
+            "shown_at": [
+                "2026-06-15T14:04:59.814040Z"
+            ]
+        },
+        {
+            "id": "8e5db043a666e791651f57d3e0ee5fee",
+            "source": "spacenews",
+            "text": "What’s the Best Way to Monetize Space Energy?",
+            "source_link": "https://spacenews.com/whats-the-best-way-to-monetize-space-energy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-15T13:29:24.343664Z",
+            "shown_at": [
+                "2026-06-15T13:29:25.150189Z"
+            ]
+        },
         {
             "id": "48c1c8d026698f2ab5655a335fc6cf08",
             "source": "spacenews",
@@ -7951,135 +8011,6 @@
                 "2026-04-12T00:44:03.670584Z",
                 "2026-04-15T23:49:15.087475Z",
                 "2026-04-16T07:24:17.281200Z"
-            ]
-        },
-        {
-            "id": "83e2816a8586f74abcc3cbbae72d46af",
-            "source": "spacenews",
-            "text": "NASA prepares for Artemis 2 return",
-            "source_link": "https://spacenews.com/nasa-prepares-for-artemis-2-return/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-10T11:54:17.530042Z",
-            "shown_at": [
-                "2026-04-10T13:04:47.642511Z",
-                "2026-04-11T03:04:33.695523Z",
-                "2026-04-11T04:14:15.559228Z",
-                "2026-04-12T18:59:07.096108Z",
-                "2026-04-14T06:54:24.371420Z"
-            ]
-        },
-        {
-            "id": "d3fa115d9c51aeaa118e419b25939de8",
-            "source": "spacenews",
-            "text": "China’s Chang’e-7 arrives at spaceport for lunar south pole exploration mission",
-            "source_link": "https://spacenews.com/chinas-change-7-arrives-at-spaceport-for-lunar-south-pole-exploration-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-10T11:54:17.529985Z",
-            "shown_at": [
-                "2026-04-10T11:54:18.364584Z",
-                "2026-04-14T05:44:22.551764Z"
-            ]
-        },
-        {
-            "id": "c9d3b7a8ee542dd37846f98a80e43044",
-            "source": "spacenews",
-            "text": "PLD Space secures $35 million European Investment Bank loan for MIURA 5 launcher",
-            "source_link": "https://spacenews.com/pld-space-secures-35-million-european-investment-bank-loan-for-miura-5-launcher/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-09T18:49:37.559032Z",
-            "shown_at": [
-                "2026-04-09T18:49:38.648943Z",
-                "2026-04-09T22:19:05.392847Z",
-                "2026-04-12T20:09:25.560572Z"
-            ]
-        },
-        {
-            "id": "92db2f3c81252b5c11b94c299d053401",
-            "source": "spacenews",
-            "text": "Portal Space Systems raises $50 million to accelerate spacecraft development",
-            "source_link": "https://spacenews.com/portal-space-systems-raises-50-million-to-accelerate-spacecraft-development/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-09T16:09:17.473131Z",
-            "shown_at": [
-                "2026-04-09T18:14:21.957120Z",
-                "2026-04-13T23:54:12.251554Z"
-            ]
-        },
-        {
-            "id": "3c613d9819f5b44ba1f378e623128016",
-            "source": "spacenews",
-            "text": "What returning to lunar space means for human health",
-            "source_link": "https://spacenews.com/what-returning-to-lunar-space-means-for-human-health/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-09T16:09:17.473072Z",
-            "shown_at": [
-                "2026-04-09T17:36:54.778019Z",
-                "2026-04-13T07:54:24.451038Z"
-            ]
-        },
-        {
-            "id": "8e5db043a666e791651f57d3e0ee5fee",
-            "source": "spacenews",
-            "text": "What’s the Best Way to Monetize Space Energy?",
-            "source_link": "https://spacenews.com/whats-the-best-way-to-monetize-space-energy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-15T13:29:24.343664Z",
-            "shown_at": [
-                "2026-06-15T13:29:25.150189Z"
-            ]
-        },
-        {
-            "id": "9c56c78ed7fcc2a5494e855bf26a96a2",
-            "source": "spacenews",
-            "text": "Sustained maneuver has a propulsion problem",
-            "source_link": "https://spacenews.com/sustained-maneuver-has-a-propulsion-problem/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-15T13:29:24.343722Z",
-            "shown_at": [
-                "2026-06-15T14:04:59.814040Z"
-            ]
-        },
-        {
-            "id": "3ee509a64b4269cac42fe41d0351be1b",
-            "source": "spacenews",
-            "text": "DARPA to explore ways to rapidly rebuild satellite networks if attacked",
-            "source_link": "https://spacenews.com/darpa-to-explore-ways-to-rapidly-rebuild-satellite-networks-if-attacked/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-15T14:39:27.952335Z",
-            "shown_at": [
-                "2026-06-15T14:39:28.699968Z"
-            ]
-        },
-        {
-            "id": "fc91a847a1522daef6ad7e0d8c3862a4",
-            "source": "spacenews",
-            "text": "Space Force orders two more GPS satellites from Lockheed Martin for $514 million",
-            "source_link": "https://spacenews.com/space-force-orders-two-more-gps-satellites-from-lockheed-martin-for-514-million/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-15T20:44:41.382892Z",
-            "shown_at": [
-                "2026-06-15T20:44:46.650916Z"
-            ]
-        },
-        {
-            "id": "d74d9ce656f13bce8bb5dda0375a4d8e",
-            "source": "spacenews",
-            "text": "Gilat to buy Comtech satcoms business six years after failed merger",
-            "source_link": "https://spacenews.com/gilat-to-buy-comtech-satcoms-business-six-years-after-failed-merger/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-15T21:19:34.831564Z",
-            "shown_at": [
-                "2026-06-15T21:19:35.772616Z"
             ]
         }
     ]
