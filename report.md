@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 11 | 18 | 33 |
+| spacenews | 9 | 12 | 19 | 34 |
 | nyt | 0 | 0 | 11 | 24 |
 | breaking_defense | 0 | 0 | 11 | 23 |
 
@@ -2544,3 +2544,4 @@
 - **Jun 16, 02:34 PM** - PiLogic partners with Air Force lab to test satellite fault-prediction software (spacenews)
 - **Jun 16, 03:09 PM** - NASA’s moon-base plans are off to a slow start. (nyt)
 - **Jun 16, 03:44 PM** - Katalyst Space raises $12 million for GEO servicing demo mission (spacenews)
+- **Jun 16, 04:19 PM** - The SpaceNews space unicorn tracker (spacenews)

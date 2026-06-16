@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-16T00:04:56.586853+00:00",
-    "trigger_count": 6,
-    "current_item_id": "acbcd7d7dbf7d6c305ef7e6972616107",
+    "trigger_count": 0,
+    "current_item_id": "6c978a8feaaf4a75935a067e58df8ca9",
     "data": [
         {
             "id": "d74d9ce656f13bce8bb5dda0375a4d8e",
@@ -8104,6 +8104,18 @@
             "fetched_datetime": "2026-06-16T15:44:40.670275Z",
             "shown_at": [
                 "2026-06-16T15:44:43.743806Z"
+            ]
+        },
+        {
+            "id": "6c978a8feaaf4a75935a067e58df8ca9",
+            "source": "spacenews",
+            "text": "The SpaceNews space unicorn tracker",
+            "source_link": "https://spacenews.com/space-unicorns-spacenews-billion-valuation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-16T16:19:46.540515Z",
+            "shown_at": [
+                "2026-06-16T16:19:47.516376Z"
             ]
         }
     ]
