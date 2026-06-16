@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-16T00:04:56.586853+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f03d639dd9810550a2d61bef080312d4",
+    "trigger_count": 0,
+    "current_item_id": "8752c2b12f05e318a9e2355023f0e44d",
     "data": [
         {
             "id": "d74d9ce656f13bce8bb5dda0375a4d8e",
@@ -8041,6 +8041,18 @@
             "fetched_datetime": "2026-06-16T10:54:40.044946Z",
             "shown_at": [
                 "2026-06-16T10:54:41.020721Z"
+            ]
+        },
+        {
+            "id": "8752c2b12f05e318a9e2355023f0e44d",
+            "source": "spacenews",
+            "text": "Deep Space Network antenna mishap blamed on poor training and procedures",
+            "source_link": "https://spacenews.com/deep-space-network-antenna-mishap-blamed-on-poor-training-and-procedures/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-16T11:29:38.228582Z",
+            "shown_at": [
+                "2026-06-16T11:29:39.229552Z"
             ]
         }
     ]

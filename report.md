@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 6 | 17 | 30 |
+| spacenews | 7 | 7 | 18 | 31 |
 | nyt | 0 | 0 | 11 | 25 |
 | breaking_defense | 0 | 0 | 12 | 25 |
 
@@ -2536,3 +2536,4 @@
 - **Jun 16, 09:44 AM** - AAC Clyde Space wins ESA contract to complete maritime-monitoring constellation (spacenews)
 - **Jun 16, 10:19 AM** - Space Force contracts Viasat, Intelsat for first of new anti-jam communication sats (breaking_defense)
 - **Jun 16, 10:54 AM** - Tianwen-2 makes series of burns on approach to asteroid, according to radio tracking  (spacenews)
+- **Jun 16, 11:29 AM** - Deep Space Network antenna mishap blamed on poor training and procedures (spacenews)
