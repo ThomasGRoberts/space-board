@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 6 | 16 | 30 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 | breaking_defense | 0 | 0 | 12 | 25 |
 
 # Shown Order
@@ -2520,3 +2520,4 @@
 - **Jun 16, 12:19 AM** - Remember Apollo 9? No? Have a Look at Artemis III. (nyt)
 - **Jun 16, 12:54 AM** - Spire to pursue space-based missile warning in partnership with German defense firm (spacenews)
 - **Jun 16, 01:29 AM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
+- **Jun 16, 02:04 AM** - NASA Crew-12 Commander Captures Snaky Southern Lights From Space Station (nyt)
