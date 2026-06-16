@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 9 | 18 | 32 |
 | nyt | 0 | 0 | 11 | 24 |
-| breaking_defense | 0 | 0 | 11 | 24 |
+| breaking_defense | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -2540,3 +2540,4 @@
 - **Jun 16, 12:05 PM** - Geospatial industry launches maritime initiative (spacenews)
 - **Jun 16, 12:44 PM** - Meet the NASA Astronauts in the Artemis III 4-Person Crew (nyt)
 - **Jun 16, 01:19 PM** - A UN agency that works for US space (spacenews)
+- **Jun 16, 01:59 PM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
