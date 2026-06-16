@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 5 | 16 | 29 |
+| spacenews | 5 | 5 | 17 | 30 |
 | nyt | 0 | 0 | 12 | 26 |
 | breaking_defense | 0 | 0 | 12 | 25 |
 
@@ -2527,3 +2527,4 @@
 - **Jun 16, 04:29 AM** - All in on AI at Astra (spacenews)
 - **Jun 16, 05:04 AM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
 - **Jun 16, 05:39 AM** - Alan Hale, Sky Watcher Who Created a Comet Sensation, Dies at 68 (nyt)
+- **Jun 16, 06:15 AM** - LeoLabs deploys mobile space-tracking radar in Indo-Pacific  (spacenews)
