@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 5 | 17 | 30 |
 | nyt | 0 | 0 | 12 | 25 |
-| breaking_defense | 0 | 0 | 11 | 25 |
+| breaking_defense | 0 | 0 | 12 | 26 |
 
 # Shown Order
 
@@ -2531,3 +2531,4 @@
 - **Jun 16, 06:49 AM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
 - **Jun 16, 07:24 AM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
 - **Jun 16, 07:59 AM** - DARPA to explore ways to rapidly rebuild satellite networks if attacked (spacenews)
+- **Jun 16, 08:34 AM** - Space Force contracts Viasat, Intelsat for first of new anti-jam communication sats (breaking_defense)
