@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 5 | 17 | 30 |
 | nyt | 0 | 0 | 12 | 25 |
-| breaking_defense | 0 | 0 | 11 | 25 |
+| breaking_defense | 0 | 0 | 12 | 26 |
 
 # Shown Order
 
@@ -2528,3 +2528,4 @@
 - **Jun 16, 05:04 AM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
 - **Jun 16, 05:39 AM** - Alan Hale, Sky Watcher Who Created a Comet Sensation, Dies at 68 (nyt)
 - **Jun 16, 06:15 AM** - LeoLabs deploys mobile space-tracking radar in Indo-Pacific  (spacenews)
+- **Jun 16, 06:49 AM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
