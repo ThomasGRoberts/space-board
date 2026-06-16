@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 14 | 18 | 35 |
 | nyt | 0 | 0 | 11 | 23 |
-| breaking_defense | 0 | 0 | 11 | 23 |
+| breaking_defense | 0 | 0 | 12 | 23 |
 
 # Shown Order
 
@@ -2553,3 +2553,4 @@
 - **Jun 16, 07:49 PM** - Can NASA Really Land Astronauts on the Moon by 2028? (nyt)
 - **Jun 16, 08:24 PM** - HyImpulse signs letter of intent with Oman’s spaceport (spacenews)
 - **Jun 16, 08:59 PM** - Astrobotic unveils Griffin-1 lunar lander (spacenews)
+- **Jun 16, 09:34 PM** - Space Force contracts Viasat, Intelsat for first of new anti-jam communication sats (breaking_defense)
