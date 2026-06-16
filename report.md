@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 6 | 16 | 30 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 | breaking_defense | 0 | 0 | 12 | 25 |
 
 # Shown Order
@@ -2523,3 +2523,4 @@
 - **Jun 16, 02:04 AM** - NASA Crew-12 Commander Captures Snaky Southern Lights From Space Station (nyt)
 - **Jun 16, 02:39 AM** - Let’s procure in-orbit services like Earth observation data and services (spacenews)
 - **Jun 16, 03:14 AM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
+- **Jun 16, 03:49 AM** - Why is NASA going back to the moon? (nyt)
