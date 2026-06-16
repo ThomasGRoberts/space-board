@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 13 | 18 | 33 |
+| spacenews | 10 | 13 | 19 | 34 |
 | nyt | 0 | 0 | 11 | 24 |
 | breaking_defense | 0 | 0 | 11 | 23 |
 
@@ -2551,3 +2551,4 @@
 - **Jun 16, 06:39 PM** - Swiss decision to not contribute to Copernicus tests program’s value model (spacenews)
 - **Jun 16, 07:14 PM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
 - **Jun 16, 07:49 PM** - Can NASA Really Land Astronauts on the Moon by 2028? (nyt)
+- **Jun 16, 08:24 PM** - HyImpulse signs letter of intent with Oman’s spaceport (spacenews)
