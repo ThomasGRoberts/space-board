@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 5 | 16 | 29 |
+| spacenews | 5 | 5 | 17 | 30 |
 | nyt | 0 | 0 | 12 | 26 |
 | breaking_defense | 0 | 0 | 12 | 25 |
 
@@ -2533,3 +2533,4 @@
 - **Jun 16, 07:59 AM** - DARPA to explore ways to rapidly rebuild satellite networks if attacked (spacenews)
 - **Jun 16, 08:34 AM** - Space Force contracts Viasat, Intelsat for first of new anti-jam communication sats (breaking_defense)
 - **Jun 16, 09:09 AM** - How Will the Artemis III Astronauts Train? (nyt)
+- **Jun 16, 09:44 AM** - AAC Clyde Space wins ESA contract to complete maritime-monitoring constellation (spacenews)
