@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 13 | 19 | 34 |
 | nyt | 0 | 0 | 11 | 23 |
-| breaking_defense | 0 | 0 | 10 | 23 |
+| breaking_defense | 0 | 0 | 11 | 24 |
 
 # Shown Order
 
@@ -2549,3 +2549,4 @@
 - **Jun 16, 05:29 PM** - Can the Artemis III Mission Go on as Planned? (nyt)
 - **Jun 16, 06:04 PM** - Space Force orders two more GPS satellites from Lockheed Martin for $514 million (spacenews)
 - **Jun 16, 06:39 PM** - Swiss decision to not contribute to Copernicus tests program’s value model (spacenews)
+- **Jun 16, 07:14 PM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
