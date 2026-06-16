@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 12 | 18 | 33 |
+| spacenews | 9 | 12 | 19 | 34 |
 | nyt | 0 | 0 | 11 | 24 |
 | breaking_defense | 0 | 0 | 11 | 23 |
 
@@ -2547,3 +2547,4 @@
 - **Jun 16, 04:19 PM** - The SpaceNews space unicorn tracker (spacenews)
 - **Jun 16, 04:54 PM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
 - **Jun 16, 05:29 PM** - Can the Artemis III Mission Go on as Planned? (nyt)
+- **Jun 16, 06:04 PM** - Space Force orders two more GPS satellites from Lockheed Martin for $514 million (spacenews)
