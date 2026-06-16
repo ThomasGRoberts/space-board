@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 14 | 18 | 34 |
-| nyt | 0 | 0 | 11 | 23 |
+| nyt | 0 | 0 | 12 | 24 |
 | breaking_defense | 0 | 0 | 11 | 23 |
 
 # Shown Order
@@ -2554,3 +2554,4 @@
 - **Jun 16, 08:24 PM** - HyImpulse signs letter of intent with Oman’s spaceport (spacenews)
 - **Jun 16, 08:59 PM** - Astrobotic unveils Griffin-1 lunar lander (spacenews)
 - **Jun 16, 09:34 PM** - Space Force contracts Viasat, Intelsat for first of new anti-jam communication sats (breaking_defense)
+- **Jun 16, 10:09 PM** - NASA Crew-12 Commander Captures Snaky Southern Lights From Space Station (nyt)
