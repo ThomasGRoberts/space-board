@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 7 | 18 | 31 |
+| spacenews | 8 | 8 | 19 | 32 |
 | nyt | 0 | 0 | 11 | 24 |
 | breaking_defense | 0 | 0 | 11 | 25 |
 
@@ -2537,3 +2537,4 @@
 - **Jun 16, 10:19 AM** - Space Force contracts Viasat, Intelsat for first of new anti-jam communication sats (breaking_defense)
 - **Jun 16, 10:54 AM** - Tianwen-2 makes series of burns on approach to asteroid, according to radio tracking  (spacenews)
 - **Jun 16, 11:29 AM** - Deep Space Network antenna mishap blamed on poor training and procedures (spacenews)
+- **Jun 16, 12:05 PM** - Geospatial industry launches maritime initiative (spacenews)
