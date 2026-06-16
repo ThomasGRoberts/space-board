@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 6 | 17 | 30 |
 | nyt | 0 | 0 | 12 | 25 |
-| breaking_defense | 0 | 0 | 11 | 25 |
+| breaking_defense | 0 | 0 | 12 | 26 |
 
 # Shown Order
 
@@ -2522,3 +2522,4 @@
 - **Jun 16, 01:29 AM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
 - **Jun 16, 02:04 AM** - NASA Crew-12 Commander Captures Snaky Southern Lights From Space Station (nyt)
 - **Jun 16, 02:39 AM** - Let’s procure in-orbit services like Earth observation data and services (spacenews)
+- **Jun 16, 03:14 AM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
