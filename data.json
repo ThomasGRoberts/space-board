@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-16T00:04:56.586853+00:00",
-    "trigger_count": 6,
-    "current_item_id": "57a8327f2176ae03b6adc03ec7ee751c",
+    "trigger_count": 0,
+    "current_item_id": "19433d25ec75e42f21ae4848cdc7bfdb",
     "data": [
         {
             "id": "d74d9ce656f13bce8bb5dda0375a4d8e",
@@ -8134,6 +8134,18 @@
             "fetched_datetime": "2026-06-16T18:39:29.702373Z",
             "shown_at": [
                 "2026-06-16T18:39:30.565600Z"
+            ]
+        },
+        {
+            "id": "19433d25ec75e42f21ae4848cdc7bfdb",
+            "source": "spacenews",
+            "text": "Astrobotic unveils Griffin-1 lunar lander",
+            "source_link": "https://spacenews.com/astrobotic-unveils-griffin-1-lunar-lander/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-16T20:59:26.593320Z",
+            "shown_at": [
+                "2026-06-16T20:59:29.969438Z"
             ]
         }
     ]
