@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-16T00:04:56.586853+00:00",
-    "trigger_count": 6,
-    "current_item_id": "fc91a847a1522daef6ad7e0d8c3862a4",
+    "trigger_count": 0,
+    "current_item_id": "7951d3e64c7c70da49789e01bceb796e",
     "data": [
         {
             "id": "d74d9ce656f13bce8bb5dda0375a4d8e",
@@ -8119,6 +8119,18 @@
             "fetched_datetime": "2026-06-16T16:19:46.540515Z",
             "shown_at": [
                 "2026-06-16T16:19:47.516376Z"
+            ]
+        },
+        {
+            "id": "7951d3e64c7c70da49789e01bceb796e",
+            "source": "spacenews",
+            "text": "Swiss decision to not contribute to Copernicus tests program’s value model",
+            "source_link": "https://spacenews.com/swiss-decision-to-not-contribute-to-copernicus-tests-programs-value-model/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-16T18:39:29.702373Z",
+            "shown_at": [
+                "2026-06-16T18:39:30.565600Z"
             ]
         }
     ]
