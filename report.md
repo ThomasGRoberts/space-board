@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 10 | 17 | 32 |
-| nyt | 0 | 0 | 11 | 24 |
+| nyt | 0 | 0 | 12 | 25 |
 | breaking_defense | 0 | 0 | 12 | 24 |
 
 # Shown Order
@@ -2542,3 +2542,4 @@
 - **Jun 16, 01:19 PM** - A UN agency that works for US space (spacenews)
 - **Jun 16, 01:59 PM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
 - **Jun 16, 02:34 PM** - PiLogic partners with Air Force lab to test satellite fault-prediction software (spacenews)
+- **Jun 16, 03:09 PM** - NASA’s moon-base plans are off to a slow start. (nyt)
