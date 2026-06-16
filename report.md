@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 5 | 17 | 30 |
 | nyt | 0 | 0 | 12 | 25 |
-| breaking_defense | 0 | 0 | 11 | 25 |
+| breaking_defense | 0 | 0 | 12 | 26 |
 
 # Shown Order
 
@@ -2525,3 +2525,4 @@
 - **Jun 16, 03:14 AM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
 - **Jun 16, 03:49 AM** - Why is NASA going back to the moon? (nyt)
 - **Jun 16, 04:29 AM** - All in on AI at Astra (spacenews)
+- **Jun 16, 05:04 AM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
