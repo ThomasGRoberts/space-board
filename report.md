@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 8 | 18 | 31 |
+| spacenews | 9 | 9 | 19 | 32 |
 | nyt | 0 | 0 | 11 | 25 |
 | breaking_defense | 0 | 0 | 11 | 24 |
 
@@ -2539,3 +2539,4 @@
 - **Jun 16, 11:29 AM** - Deep Space Network antenna mishap blamed on poor training and procedures (spacenews)
 - **Jun 16, 12:05 PM** - Geospatial industry launches maritime initiative (spacenews)
 - **Jun 16, 12:44 PM** - Meet the NASA Astronauts in the Artemis III 4-Person Crew (nyt)
+- **Jun 16, 01:19 PM** - A UN agency that works for US space (spacenews)
