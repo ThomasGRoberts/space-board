@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 14 | 18 | 35 |
 | nyt | 0 | 0 | 11 | 23 |
-| breaking_defense | 0 | 0 | 11 | 23 |
+| breaking_defense | 0 | 0 | 12 | 24 |
 
 # Shown Order
 
@@ -2556,3 +2556,4 @@
 - **Jun 16, 09:34 PM** - Space Force contracts Viasat, Intelsat for first of new anti-jam communication sats (breaking_defense)
 - **Jun 16, 10:09 PM** - NASA Crew-12 Commander Captures Snaky Southern Lights From Space Station (nyt)
 - **Jun 16, 10:44 PM** - Geospatial industry launches maritime initiative (spacenews)
+- **Jun 16, 11:19 PM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
