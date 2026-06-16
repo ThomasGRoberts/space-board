@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 5 | 16 | 30 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 13 | 26 |
 | breaking_defense | 0 | 0 | 12 | 25 |
 
 # Shown Order
@@ -2526,3 +2526,4 @@
 - **Jun 16, 03:49 AM** - Why is NASA going back to the moon? (nyt)
 - **Jun 16, 04:29 AM** - All in on AI at Astra (spacenews)
 - **Jun 16, 05:04 AM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
+- **Jun 16, 05:39 AM** - Alan Hale, Sky Watcher Who Created a Comet Sensation, Dies at 68 (nyt)
