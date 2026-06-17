@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-17T00:04:48.304651+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e3f2326433cdeff40e1577dd912e9fd9",
+    "trigger_count": 0,
+    "current_item_id": "be0ee1efd18fc7b28115eb8e15df7db8",
     "data": [
         {
             "id": "19433d25ec75e42f21ae4848cdc7bfdb",
@@ -8053,9 +8053,12 @@
             "source": "spacenews",
             "text": "Look Up and Skynopy partner on automated satellite collision avoidance service",
             "source_link": "https://spacenews.com/look-up-and-skynopy-partner-on-automated-satellite-collision-avoidance-service/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-06-17T11:49:35.556692Z"
+            "fetched_datetime": "2026-06-17T11:49:35.556692Z",
+            "shown_at": [
+                "2026-06-17T12:24:51.303233Z"
+            ]
         }
     ]
 }
