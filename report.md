@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 16 | 17 | 35 |
-| nyt | 0 | 0 | 11 | 22 |
+| nyt | 1 | 1 | 12 | 23 |
 | breaking_defense | 0 | 0 | 12 | 23 |
 
 # Shown Order
@@ -2537,3 +2537,4 @@
 - **Jun 17, 02:50 PM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
 - **Jun 17, 03:24 PM** - HyImpulse signs letter of intent with Oman’s spaceport (spacenews)
 - **Jun 17, 03:58 PM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
+- **Jun 17, 04:39 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)

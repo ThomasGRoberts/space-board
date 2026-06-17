@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-17T00:04:48.304651+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e582b3de4daaf9ecf6d02b796297c771",
+    "trigger_count": 0,
+    "current_item_id": "205a4ffa2ab95bf05386588a54941a7f",
     "data": [
         {
             "id": "19433d25ec75e42f21ae4848cdc7bfdb",
@@ -8086,6 +8086,18 @@
             "fetched_datetime": "2026-06-17T13:39:36.120976Z",
             "shown_at": [
                 "2026-06-17T13:39:37.937638Z"
+            ]
+        },
+        {
+            "id": "205a4ffa2ab95bf05386588a54941a7f",
+            "source": "nyt",
+            "text": "Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla",
+            "source_link": "https://www.nytimes.com/2026/06/17/business/spacex-tesla-merger-elon-musk.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-17T16:39:37.170601Z",
+            "shown_at": [
+                "2026-06-17T16:39:38.189841Z"
             ]
         }
     ]
