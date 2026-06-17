@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 16 | 18 | 36 |
-| nyt | 1 | 1 | 12 | 23 |
+| nyt | 1 | 1 | 13 | 24 |
 | breaking_defense | 0 | 0 | 10 | 22 |
 
 # Shown Order
@@ -2549,3 +2549,4 @@
 - **Jun 17, 09:59 PM** - HyImpulse signs letter of intent with Oman’s spaceport (spacenews)
 - **Jun 17, 10:34 PM** - Can the Artemis III Mission Go on as Planned? (nyt)
 - **Jun 17, 11:09 PM** - AAC Clyde Space wins ESA contract to complete maritime-monitoring constellation (spacenews)
+- **Jun 17, 11:44 PM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
