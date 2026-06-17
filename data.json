@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-17T00:04:48.304651+00:00",
-    "trigger_count": 6,
-    "current_item_id": "97c92cc02be924bf11ecc56fafc398d0",
+    "trigger_count": 0,
+    "current_item_id": "d6061fd8532a6c942c2653461e64bfb4",
     "data": [
         {
             "id": "19433d25ec75e42f21ae4848cdc7bfdb",
@@ -8006,6 +8006,18 @@
                 "2026-04-17T03:19:20.530918Z",
                 "2026-04-17T09:09:20.837520Z",
                 "2026-04-17T11:29:07.809952Z"
+            ]
+        },
+        {
+            "id": "d6061fd8532a6c942c2653461e64bfb4",
+            "source": "spacenews",
+            "text": "June 25:  Golden Dome: How Could Sensors Protect the United States?",
+            "source_link": "https://spacenews.com/golden-dome-sensors-event-june-25/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-17T01:49:35.651688Z",
+            "shown_at": [
+                "2026-06-17T01:49:36.558142Z"
             ]
         }
     ]

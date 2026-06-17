@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 14 | 18 | 34 |
+| spacenews | 10 | 15 | 19 | 35 |
 | nyt | 0 | 0 | 11 | 23 |
 | breaking_defense | 0 | 0 | 11 | 23 |
 
@@ -2512,3 +2512,4 @@
 - **Jun 16, 11:59 PM** - Artemis Astronauts to Wear Prada Spacesuits (nyt)
 - **Jun 17, 12:34 AM** - AAC Clyde Space wins ESA contract to complete maritime-monitoring constellation (spacenews)
 - **Jun 17, 01:09 AM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
+- **Jun 17, 01:49 AM** - June 25:  Golden Dome: How Could Sensors Protect the United States? (spacenews)
