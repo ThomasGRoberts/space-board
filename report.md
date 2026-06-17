@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 15 | 18 | 35 |
 | nyt | 0 | 0 | 11 | 23 |
-| breaking_defense | 0 | 0 | 11 | 22 |
+| breaking_defense | 0 | 0 | 12 | 23 |
 
 # Shown Order
 
@@ -2514,3 +2514,4 @@
 - **Jun 17, 01:09 AM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
 - **Jun 17, 01:49 AM** - June 25:  Golden Dome: How Could Sensors Protect the United States? (spacenews)
 - **Jun 17, 02:29 AM** - NASA Crew-12 Commander Captures Snaky Southern Lights From Space Station (nyt)
+- **Jun 17, 03:04 AM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
