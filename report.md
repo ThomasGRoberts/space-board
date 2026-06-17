@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 14 | 18 | 35 |
 | nyt | 0 | 0 | 11 | 23 |
-| breaking_defense | 0 | 0 | 11 | 22 |
+| breaking_defense | 0 | 0 | 12 | 23 |
 
 # Shown Order
 
@@ -2511,3 +2511,4 @@
 - **Jun 16, 11:19 PM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
 - **Jun 16, 11:59 PM** - Artemis Astronauts to Wear Prada Spacesuits (nyt)
 - **Jun 17, 12:34 AM** - AAC Clyde Space wins ESA contract to complete maritime-monitoring constellation (spacenews)
+- **Jun 17, 01:09 AM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
