@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 15 | 19 | 35 |
-| nyt | 0 | 0 | 10 | 22 |
+| nyt | 0 | 0 | 11 | 23 |
 | breaking_defense | 0 | 0 | 11 | 23 |
 
 # Shown Order
@@ -2516,3 +2516,4 @@
 - **Jun 17, 02:29 AM** - NASA Crew-12 Commander Captures Snaky Southern Lights From Space Station (nyt)
 - **Jun 17, 03:04 AM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
 - **Jun 17, 03:39 AM** - Astrobotic unveils Griffin-1 lunar lander (spacenews)
+- **Jun 17, 04:14 AM** - Can the Artemis III Mission Go on as Planned? (nyt)
