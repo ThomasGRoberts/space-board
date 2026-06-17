@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 16 | 18 | 35 |
-| nyt | 0 | 0 | 11 | 22 |
+| nyt | 0 | 0 | 12 | 23 |
 | breaking_defense | 0 | 0 | 11 | 23 |
 
 # Shown Order
@@ -2534,3 +2534,4 @@
 - **Jun 17, 12:59 PM** - China conducts 4 launches in 3 days, but silence follows Kuaizhou–11 launch (spacenews)
 - **Jun 17, 01:39 PM** - America’s next economic frontier is 240,000 miles away (spacenews)
 - **Jun 17, 02:15 PM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
+- **Jun 17, 02:50 PM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
