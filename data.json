@@ -1,9 +1,118 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-06-16T00:04:56.586853+00:00",
-    "trigger_count": 0,
+    "last_run_datetime": "2026-06-17T00:04:48.304651+00:00",
+    "trigger_count": 1,
     "current_item_id": "3a4377be6e2c4e8b2fe63ce8161a4507",
     "data": [
+        {
+            "id": "19433d25ec75e42f21ae4848cdc7bfdb",
+            "source": "spacenews",
+            "text": "Astrobotic unveils Griffin-1 lunar lander",
+            "source_link": "https://spacenews.com/astrobotic-unveils-griffin-1-lunar-lander/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-16T20:59:26.593320Z",
+            "shown_at": [
+                "2026-06-16T20:59:29.969438Z"
+            ]
+        },
+        {
+            "id": "7951d3e64c7c70da49789e01bceb796e",
+            "source": "spacenews",
+            "text": "Swiss decision to not contribute to Copernicus tests program’s value model",
+            "source_link": "https://spacenews.com/swiss-decision-to-not-contribute-to-copernicus-tests-programs-value-model/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-16T18:39:29.702373Z",
+            "shown_at": [
+                "2026-06-16T18:39:30.565600Z"
+            ]
+        },
+        {
+            "id": "6c978a8feaaf4a75935a067e58df8ca9",
+            "source": "spacenews",
+            "text": "The SpaceNews space unicorn tracker",
+            "source_link": "https://spacenews.com/space-unicorns-spacenews-billion-valuation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-16T16:19:46.540515Z",
+            "shown_at": [
+                "2026-06-16T16:19:47.516376Z"
+            ]
+        },
+        {
+            "id": "acbcd7d7dbf7d6c305ef7e6972616107",
+            "source": "spacenews",
+            "text": "Katalyst Space raises $12 million for GEO servicing demo mission",
+            "source_link": "https://spacenews.com/katalyst-space-raises-12-million-for-geo-servicing-demo-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-16T15:44:40.670275Z",
+            "shown_at": [
+                "2026-06-16T15:44:43.743806Z"
+            ]
+        },
+        {
+            "id": "decbb71aa5ac4c3ddb6db52ac65ecbe0",
+            "source": "spacenews",
+            "text": "PiLogic partners with Air Force lab to test satellite fault-prediction software",
+            "source_link": "https://spacenews.com/pilogic-partners-with-air-force-lab-to-test-satellite-fault-prediction-software/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-16T14:34:50.905068Z",
+            "shown_at": [
+                "2026-06-16T14:34:52.238283Z"
+            ]
+        },
+        {
+            "id": "6dacf7508927e782106e0c905f7b4596",
+            "source": "spacenews",
+            "text": "A UN agency that works for US space",
+            "source_link": "https://spacenews.com/a-un-agency-that-works-for-us-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-16T13:19:35.251557Z",
+            "shown_at": [
+                "2026-06-16T13:19:36.117554Z"
+            ]
+        },
+        {
+            "id": "893c9b77926d51f519cb24c0ac9f92c7",
+            "source": "spacenews",
+            "text": "Geospatial industry launches maritime initiative",
+            "source_link": "https://spacenews.com/geospatial-industry-launches-maritime-initiative/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-16T12:05:07.444458Z",
+            "shown_at": [
+                "2026-06-16T12:05:10.082954Z",
+                "2026-06-16T22:44:44.974892Z"
+            ]
+        },
+        {
+            "id": "8752c2b12f05e318a9e2355023f0e44d",
+            "source": "spacenews",
+            "text": "Deep Space Network antenna mishap blamed on poor training and procedures",
+            "source_link": "https://spacenews.com/deep-space-network-antenna-mishap-blamed-on-poor-training-and-procedures/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-16T11:29:38.228582Z",
+            "shown_at": [
+                "2026-06-16T11:29:39.229552Z"
+            ]
+        },
+        {
+            "id": "f03d639dd9810550a2d61bef080312d4",
+            "source": "spacenews",
+            "text": "Tianwen-2 makes series of burns on approach to asteroid, according to radio tracking ",
+            "source_link": "https://spacenews.com/tianwen-2-makes-series-of-burns-on-approach-to-asteroid-according-to-radio-tracking/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-16T10:54:40.044946Z",
+            "shown_at": [
+                "2026-06-16T10:54:41.020721Z"
+            ]
+        },
         {
             "id": "d74d9ce656f13bce8bb5dda0375a4d8e",
             "source": "spacenews",
@@ -7895,262 +8004,6 @@
                 "2026-04-17T03:19:20.530918Z",
                 "2026-04-17T09:09:20.837520Z",
                 "2026-04-17T11:29:07.809952Z"
-            ]
-        },
-        {
-            "id": "4bf0741ab3d97cd60d57b3a5069f601e",
-            "source": "spacenews",
-            "text": "Orion splashes down to successfully end Artemis 2 mission",
-            "source_link": "https://spacenews.com/orion-splashes-down-to-successfully-end-artemis-2-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-11T01:19:04.429072Z",
-            "shown_at": [
-                "2026-04-11T01:54:18.625971Z"
-            ]
-        },
-        {
-            "id": "1c746c13c7620961cda9608d6e1a2b09",
-            "source": "spacenews",
-            "text": "Moog Technology Keeps Artemis II Astronauts Safe During Historic Lunar Mission",
-            "source_link": "https://spacenews.com/moog-technology-keeps-artemis-ii-astronauts-safe-during-historic-lunar-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-11T01:19:04.429003Z",
-            "shown_at": [
-                "2026-04-11T01:19:05.383109Z",
-                "2026-04-17T20:14:28.475854Z"
-            ]
-        },
-        {
-            "id": "e020616ba58de19ff194b85b1af4cab6",
-            "source": "nyt",
-            "text": "NASA Artemis II Splashdown: Time, Live Stream and How to Watch Landing",
-            "source_link": "https://www.nytimes.com/2026/04/10/science/nasa-artemis-ii-splash-down-watch-time-stream.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-10T19:29:08.637459Z",
-            "shown_at": [
-                "2026-04-10T19:29:09.575651Z",
-                "2026-04-15T16:14:04.596970Z",
-                "2026-04-16T02:09:17.103105Z",
-                "2026-04-16T15:04:44.770608Z",
-                "2026-04-17T00:59:15.467399Z",
-                "2026-04-17T06:49:31.496958Z",
-                "2026-04-17T10:19:19.321671Z",
-                "2026-04-17T14:24:38.203310Z"
-            ]
-        },
-        {
-            "id": "fd0715942610ef8e2464dd87bec3cc5a",
-            "source": "nyt",
-            "text": "See Photos From All 10 Days of NASA’s Artemis II Moon Mission",
-            "source_link": "https://www.nytimes.com/2026/04/10/science/nasa-artemis-ii-moon-mission-photos-earth-eclipse.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-10T18:19:12.060345Z",
-            "shown_at": [
-                "2026-04-10T18:19:13.073040Z",
-                "2026-04-10T21:49:16.985419Z",
-                "2026-04-11T11:49:10.670085Z",
-                "2026-04-12T05:34:27.731173Z",
-                "2026-04-12T19:34:19.184687Z",
-                "2026-04-14T11:34:37.211272Z",
-                "2026-04-15T08:04:41.759718Z",
-                "2026-04-15T15:04:34.228164Z",
-                "2026-04-16T00:59:14.797543Z",
-                "2026-04-16T03:54:04.999498Z",
-                "2026-04-16T13:14:13.265239Z",
-                "2026-04-16T20:54:11.320119Z",
-                "2026-04-17T02:09:07.087906Z",
-                "2026-04-17T05:39:07.444637Z",
-                "2026-04-17T07:59:04.098140Z",
-                "2026-04-17T15:34:38.923837Z",
-                "2026-04-17T16:44:18.571423Z",
-                "2026-04-17T17:54:19.907737Z"
-            ]
-        },
-        {
-            "id": "dc6e3ec11f1da4e05b34ae6f65322a5e",
-            "source": "spacenews",
-            "text": "Spacety raises $190 million to scale satellite manufacturing, plans IPO",
-            "source_link": "https://spacenews.com/spacety-raises-190-million-to-scale-satellite-manufacturing-plans-ipo/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-10T17:44:19.351180Z",
-            "shown_at": [
-                "2026-04-10T18:54:23.338264Z",
-                "2026-04-13T03:14:17.758490Z"
-            ]
-        },
-        {
-            "id": "de480372fe95a1c8900c2dff3b324261",
-            "source": "spacenews",
-            "text": "HawkEye 360 files to go public",
-            "source_link": "https://spacenews.com/hawkeye-360-files-to-go-public/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-10T17:44:19.351123Z",
-            "shown_at": [
-                "2026-04-10T17:44:20.506401Z",
-                "2026-04-11T05:59:18.256751Z",
-                "2026-04-11T11:14:22.271975Z",
-                "2026-04-15T09:49:12.242771Z",
-                "2026-04-15T20:19:24.241952Z"
-            ]
-        },
-        {
-            "id": "24ff062e20626458883b7dfb94166e9d",
-            "source": "spacenews",
-            "text": "Commerce Department budget proposal revives concerns about TraCSS",
-            "source_link": "https://spacenews.com/commerce-department-budget-proposal-revives-concerns-about-tracss/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-10T15:24:24.938459Z",
-            "shown_at": [
-                "2026-04-10T15:59:21.450877Z",
-                "2026-04-10T22:24:26.353446Z",
-                "2026-04-13T00:54:31.213918Z"
-            ]
-        },
-        {
-            "id": "9919aa231f220defec457254a767c6c6",
-            "source": "spacenews",
-            "text": "GSOA and Novaspace Launch the Space Industry Forum (SIF) 2026 in Singapore",
-            "source_link": "https://spacenews.com/gsoa-and-novaspace-launch-the-space-industry-forum-sif-2026-in-singapore/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-10T15:24:24.938356Z",
-            "shown_at": [
-                "2026-04-10T15:24:25.579756Z",
-                "2026-04-10T17:09:05.130129Z",
-                "2026-04-12T10:49:20.944468Z",
-                "2026-04-12T16:39:16.103735Z",
-                "2026-04-14T08:04:41.544422Z"
-            ]
-        },
-        {
-            "id": "92350bc953392144ecd444cde8b626e9",
-            "source": "nyt",
-            "text": "How and When to Watch NASA’s Artemis II Splash Down in Pacific Ocean",
-            "source_link": "https://www.nytimes.com/2026/04/10/science/nasa-artemis-ii-splash-down-watch-time-stream.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-10T12:29:26.793890Z",
-            "shown_at": [
-                "2026-04-10T12:29:28.015821Z",
-                "2026-04-12T00:44:03.670584Z",
-                "2026-04-15T23:49:15.087475Z",
-                "2026-04-16T07:24:17.281200Z"
-            ]
-        },
-        {
-            "id": "f03d639dd9810550a2d61bef080312d4",
-            "source": "spacenews",
-            "text": "Tianwen-2 makes series of burns on approach to asteroid, according to radio tracking ",
-            "source_link": "https://spacenews.com/tianwen-2-makes-series-of-burns-on-approach-to-asteroid-according-to-radio-tracking/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-16T10:54:40.044946Z",
-            "shown_at": [
-                "2026-06-16T10:54:41.020721Z"
-            ]
-        },
-        {
-            "id": "8752c2b12f05e318a9e2355023f0e44d",
-            "source": "spacenews",
-            "text": "Deep Space Network antenna mishap blamed on poor training and procedures",
-            "source_link": "https://spacenews.com/deep-space-network-antenna-mishap-blamed-on-poor-training-and-procedures/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-16T11:29:38.228582Z",
-            "shown_at": [
-                "2026-06-16T11:29:39.229552Z"
-            ]
-        },
-        {
-            "id": "893c9b77926d51f519cb24c0ac9f92c7",
-            "source": "spacenews",
-            "text": "Geospatial industry launches maritime initiative",
-            "source_link": "https://spacenews.com/geospatial-industry-launches-maritime-initiative/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-16T12:05:07.444458Z",
-            "shown_at": [
-                "2026-06-16T12:05:10.082954Z",
-                "2026-06-16T22:44:44.974892Z"
-            ]
-        },
-        {
-            "id": "6dacf7508927e782106e0c905f7b4596",
-            "source": "spacenews",
-            "text": "A UN agency that works for US space",
-            "source_link": "https://spacenews.com/a-un-agency-that-works-for-us-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-16T13:19:35.251557Z",
-            "shown_at": [
-                "2026-06-16T13:19:36.117554Z"
-            ]
-        },
-        {
-            "id": "decbb71aa5ac4c3ddb6db52ac65ecbe0",
-            "source": "spacenews",
-            "text": "PiLogic partners with Air Force lab to test satellite fault-prediction software",
-            "source_link": "https://spacenews.com/pilogic-partners-with-air-force-lab-to-test-satellite-fault-prediction-software/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-16T14:34:50.905068Z",
-            "shown_at": [
-                "2026-06-16T14:34:52.238283Z"
-            ]
-        },
-        {
-            "id": "acbcd7d7dbf7d6c305ef7e6972616107",
-            "source": "spacenews",
-            "text": "Katalyst Space raises $12 million for GEO servicing demo mission",
-            "source_link": "https://spacenews.com/katalyst-space-raises-12-million-for-geo-servicing-demo-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-16T15:44:40.670275Z",
-            "shown_at": [
-                "2026-06-16T15:44:43.743806Z"
-            ]
-        },
-        {
-            "id": "6c978a8feaaf4a75935a067e58df8ca9",
-            "source": "spacenews",
-            "text": "The SpaceNews space unicorn tracker",
-            "source_link": "https://spacenews.com/space-unicorns-spacenews-billion-valuation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-16T16:19:46.540515Z",
-            "shown_at": [
-                "2026-06-16T16:19:47.516376Z"
-            ]
-        },
-        {
-            "id": "7951d3e64c7c70da49789e01bceb796e",
-            "source": "spacenews",
-            "text": "Swiss decision to not contribute to Copernicus tests program’s value model",
-            "source_link": "https://spacenews.com/swiss-decision-to-not-contribute-to-copernicus-tests-programs-value-model/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-16T18:39:29.702373Z",
-            "shown_at": [
-                "2026-06-16T18:39:30.565600Z"
-            ]
-        },
-        {
-            "id": "19433d25ec75e42f21ae4848cdc7bfdb",
-            "source": "spacenews",
-            "text": "Astrobotic unveils Griffin-1 lunar lander",
-            "source_link": "https://spacenews.com/astrobotic-unveils-griffin-1-lunar-lander/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-16T20:59:26.593320Z",
-            "shown_at": [
-                "2026-06-16T20:59:29.969438Z"
             ]
         }
     ]
