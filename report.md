@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 16 | 17 | 36 |
-| nyt | 1 | 1 | 11 | 22 |
+| spacenews | 7 | 16 | 17 | 35 |
+| nyt | 1 | 1 | 12 | 23 |
 | breaking_defense | 0 | 0 | 12 | 23 |
 
 # Shown Order
@@ -2540,3 +2540,4 @@
 - **Jun 17, 04:39 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 17, 05:14 PM** - GEO cancellations complicate space insurance recovery (spacenews)
 - **Jun 17, 05:49 PM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
+- **Jun 17, 06:24 PM** - Can the Artemis III Mission Go on as Planned? (nyt)
