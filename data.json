@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-17T00:04:48.304651+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9705103f84e392d78f2095bf7b77a4ea",
+    "trigger_count": 0,
+    "current_item_id": "e3f2326433cdeff40e1577dd912e9fd9",
     "data": [
         {
             "id": "19433d25ec75e42f21ae4848cdc7bfdb",
@@ -8035,6 +8035,27 @@
             "shown_at": [
                 "2026-06-17T01:49:36.558142Z"
             ]
+        },
+        {
+            "id": "e3f2326433cdeff40e1577dd912e9fd9",
+            "source": "spacenews",
+            "text": "Dawn Aerospace raises $25 million",
+            "source_link": "https://spacenews.com/dawn-aerospace-raises-25-million/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-17T11:49:35.556614Z",
+            "shown_at": [
+                "2026-06-17T11:49:36.493049Z"
+            ]
+        },
+        {
+            "id": "be0ee1efd18fc7b28115eb8e15df7db8",
+            "source": "spacenews",
+            "text": "Look Up and Skynopy partner on automated satellite collision avoidance service",
+            "source_link": "https://spacenews.com/look-up-and-skynopy-partner-on-automated-satellite-collision-avoidance-service/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-06-17T11:49:35.556692Z"
         }
     ]
 }
