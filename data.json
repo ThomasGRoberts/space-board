@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-17T00:04:48.304651+00:00",
-    "trigger_count": 6,
-    "current_item_id": "3d3d99614287b1f57144c1c3130d704e",
+    "trigger_count": 0,
+    "current_item_id": "264c3176d16c6b6de55bb9e45f465216",
     "data": [
         {
             "id": "19433d25ec75e42f21ae4848cdc7bfdb",
@@ -8070,6 +8070,18 @@
             "fetched_datetime": "2026-06-17T12:59:01.885049Z",
             "shown_at": [
                 "2026-06-17T12:59:04.225791Z"
+            ]
+        },
+        {
+            "id": "264c3176d16c6b6de55bb9e45f465216",
+            "source": "spacenews",
+            "text": "America’s next economic frontier is 240,000 miles away",
+            "source_link": "https://spacenews.com/americas-next-economic-frontier-is-240000-miles-away/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-17T13:39:36.120976Z",
+            "shown_at": [
+                "2026-06-17T13:39:37.937638Z"
             ]
         }
     ]

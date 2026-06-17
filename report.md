@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 16 | 18 | 37 |
+| spacenews | 10 | 17 | 19 | 37 |
 | nyt | 0 | 0 | 11 | 22 |
 | breaking_defense | 0 | 0 | 11 | 22 |
 
@@ -2532,3 +2532,4 @@
 - **Jun 17, 11:49 AM** - Dawn Aerospace raises $25 million (spacenews)
 - **Jun 17, 12:24 PM** - Look Up and Skynopy partner on automated satellite collision avoidance service (spacenews)
 - **Jun 17, 12:59 PM** - China conducts 4 launches in 3 days, but silence follows Kuaizhou–11 launch (spacenews)
+- **Jun 17, 01:39 PM** - America’s next economic frontier is 240,000 miles away (spacenews)
