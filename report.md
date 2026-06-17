@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 15 | 18 | 34 |
+| spacenews | 10 | 15 | 19 | 35 |
 | nyt | 0 | 0 | 11 | 23 |
 | breaking_defense | 0 | 0 | 11 | 23 |
 
@@ -2524,3 +2524,4 @@
 - **Jun 17, 07:09 AM** - Geospatial industry launches maritime initiative (spacenews)
 - **Jun 17, 07:44 AM** - NASA Crew-12 Commander Captures Snaky Southern Lights From Space Station (nyt)
 - **Jun 17, 08:19 AM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
+- **Jun 17, 08:54 AM** - H3 successfully returns to flight (spacenews)
