@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 15 | 18 | 35 |
 | nyt | 0 | 0 | 11 | 23 |
-| breaking_defense | 0 | 0 | 11 | 23 |
+| breaking_defense | 0 | 0 | 12 | 23 |
 
 # Shown Order
 
@@ -2526,3 +2526,4 @@
 - **Jun 17, 08:19 AM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
 - **Jun 17, 08:54 AM** - H3 successfully returns to flight (spacenews)
 - **Jun 17, 09:29 AM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
+- **Jun 17, 10:05 AM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
