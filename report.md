@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 16 | 17 | 35 |
+| spacenews | 7 | 16 | 18 | 36 |
 | nyt | 1 | 1 | 12 | 23 |
 | breaking_defense | 0 | 0 | 11 | 22 |
 
@@ -2546,3 +2546,4 @@
 - **Jun 17, 08:14 PM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
 - **Jun 17, 08:49 PM** - Relativity Space to privately develop Mars orbiter mission (spacenews)
 - **Jun 17, 09:24 PM** - Can the Artemis III Mission Go on as Planned? (nyt)
+- **Jun 17, 09:59 PM** - HyImpulse signs letter of intent with Oman’s spaceport (spacenews)
