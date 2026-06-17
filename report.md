@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 17 | 17 | 36 |
+| spacenews | 8 | 17 | 18 | 36 |
 | nyt | 1 | 1 | 11 | 22 |
 | breaking_defense | 0 | 0 | 12 | 23 |
 
@@ -2544,3 +2544,4 @@
 - **Jun 17, 07:05 PM** - The SpaceNews space unicorn tracker (spacenews)
 - **Jun 17, 07:39 PM** - Upgraded Ariane 6 launches Amazon Leo satellites (spacenews)
 - **Jun 17, 08:14 PM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
+- **Jun 17, 08:49 PM** - Relativity Space to privately develop Mars orbiter mission (spacenews)

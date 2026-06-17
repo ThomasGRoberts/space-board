@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-17T00:04:48.304651+00:00",
-    "trigger_count": 6,
-    "current_item_id": "97c92cc02be924bf11ecc56fafc398d0",
+    "trigger_count": 0,
+    "current_item_id": "bb4e8a977d2c744b64552028ee50d3c1",
     "data": [
         {
             "id": "19433d25ec75e42f21ae4848cdc7bfdb",
@@ -8115,6 +8115,18 @@
             "fetched_datetime": "2026-06-17T19:39:29.910194Z",
             "shown_at": [
                 "2026-06-17T19:39:32.674231Z"
+            ]
+        },
+        {
+            "id": "bb4e8a977d2c744b64552028ee50d3c1",
+            "source": "spacenews",
+            "text": "Relativity Space to privately develop Mars orbiter mission",
+            "source_link": "https://spacenews.com/relativity-space-to-privately-develop-mars-orbiter-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-17T20:49:25.923693Z",
+            "shown_at": [
+                "2026-06-17T20:49:26.924179Z"
             ]
         }
     ]
