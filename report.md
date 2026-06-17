@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 18 | 36 |
 | nyt | 0 | 0 | 11 | 22 |
-| breaking_defense | 0 | 0 | 11 | 22 |
+| breaking_defense | 0 | 0 | 12 | 23 |
 
 # Shown Order
 
@@ -2536,3 +2536,4 @@
 - **Jun 17, 02:15 PM** - LeoLab’s new, mobile space-watch radar to participate in Valiant Shield exercise (breaking_defense)
 - **Jun 17, 02:50 PM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
 - **Jun 17, 03:24 PM** - HyImpulse signs letter of intent with Oman’s spaceport (spacenews)
+- **Jun 17, 03:58 PM** - ICEYE, Rheinmetall form German joint venture for space-based ISR (breaking_defense)
