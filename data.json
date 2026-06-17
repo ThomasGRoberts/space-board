@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-17T00:04:48.304651+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6c978a8feaaf4a75935a067e58df8ca9",
+    "trigger_count": 0,
+    "current_item_id": "f7c7c185cbb77ca9535d2f6e591a4466",
     "data": [
         {
             "id": "19433d25ec75e42f21ae4848cdc7bfdb",
@@ -8102,6 +8102,18 @@
             "fetched_datetime": "2026-06-17T16:39:37.170601Z",
             "shown_at": [
                 "2026-06-17T16:39:38.189841Z"
+            ]
+        },
+        {
+            "id": "f7c7c185cbb77ca9535d2f6e591a4466",
+            "source": "spacenews",
+            "text": "Upgraded Ariane 6 launches Amazon Leo satellites",
+            "source_link": "https://spacenews.com/upgraded-ariane-6-launches-amazon-leo-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-17T19:39:29.910194Z",
+            "shown_at": [
+                "2026-06-17T19:39:32.674231Z"
             ]
         }
     ]
