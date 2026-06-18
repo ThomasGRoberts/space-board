@@ -1,9 +1,105 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-06-17T00:04:48.304651+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2026-06-18T00:05:12.411887+00:00",
+    "trigger_count": 4,
     "current_item_id": "9705103f84e392d78f2095bf7b77a4ea",
     "data": [
+        {
+            "id": "bb4e8a977d2c744b64552028ee50d3c1",
+            "source": "spacenews",
+            "text": "Relativity Space to privately develop Mars orbiter mission",
+            "source_link": "https://spacenews.com/relativity-space-to-privately-develop-mars-orbiter-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-17T20:49:25.923693Z",
+            "shown_at": [
+                "2026-06-17T20:49:26.924179Z"
+            ]
+        },
+        {
+            "id": "f7c7c185cbb77ca9535d2f6e591a4466",
+            "source": "spacenews",
+            "text": "Upgraded Ariane 6 launches Amazon Leo satellites",
+            "source_link": "https://spacenews.com/upgraded-ariane-6-launches-amazon-leo-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-17T19:39:29.910194Z",
+            "shown_at": [
+                "2026-06-17T19:39:32.674231Z"
+            ]
+        },
+        {
+            "id": "205a4ffa2ab95bf05386588a54941a7f",
+            "source": "nyt",
+            "text": "Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla",
+            "source_link": "https://www.nytimes.com/2026/06/17/business/spacex-tesla-merger-elon-musk.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-17T16:39:37.170601Z",
+            "shown_at": [
+                "2026-06-17T16:39:38.189841Z"
+            ]
+        },
+        {
+            "id": "264c3176d16c6b6de55bb9e45f465216",
+            "source": "spacenews",
+            "text": "America’s next economic frontier is 240,000 miles away",
+            "source_link": "https://spacenews.com/americas-next-economic-frontier-is-240000-miles-away/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-17T13:39:36.120976Z",
+            "shown_at": [
+                "2026-06-17T13:39:37.937638Z"
+            ]
+        },
+        {
+            "id": "3d3d99614287b1f57144c1c3130d704e",
+            "source": "spacenews",
+            "text": "China conducts 4 launches in 3 days, but silence follows Kuaizhou–11 launch",
+            "source_link": "https://spacenews.com/china-conducts-4-launches-in-3-days-but-silence-follows-kuaizhou-11-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-17T12:59:01.885049Z",
+            "shown_at": [
+                "2026-06-17T12:59:04.225791Z"
+            ]
+        },
+        {
+            "id": "be0ee1efd18fc7b28115eb8e15df7db8",
+            "source": "spacenews",
+            "text": "Look Up and Skynopy partner on automated satellite collision avoidance service",
+            "source_link": "https://spacenews.com/look-up-and-skynopy-partner-on-automated-satellite-collision-avoidance-service/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-17T11:49:35.556692Z",
+            "shown_at": [
+                "2026-06-17T12:24:51.303233Z"
+            ]
+        },
+        {
+            "id": "e3f2326433cdeff40e1577dd912e9fd9",
+            "source": "spacenews",
+            "text": "Dawn Aerospace raises $25 million",
+            "source_link": "https://spacenews.com/dawn-aerospace-raises-25-million/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-17T11:49:35.556614Z",
+            "shown_at": [
+                "2026-06-17T11:49:36.493049Z"
+            ]
+        },
+        {
+            "id": "d6061fd8532a6c942c2653461e64bfb4",
+            "source": "spacenews",
+            "text": "June 25:  Golden Dome: How Could Sensors Protect the United States?",
+            "source_link": "https://spacenews.com/golden-dome-sensors-event-june-25/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-17T01:49:35.651688Z",
+            "shown_at": [
+                "2026-06-17T01:49:36.558142Z"
+            ]
+        },
         {
             "id": "19433d25ec75e42f21ae4848cdc7bfdb",
             "source": "spacenews",
@@ -7909,229 +8005,6 @@
                 "2026-04-13T13:09:10.947878Z",
                 "2026-04-16T02:44:13.528542Z",
                 "2026-04-16T09:09:10.692643Z"
-            ]
-        },
-        {
-            "id": "3a1e760da91c198e6f5f98d0f7fa1e67",
-            "source": "spacenews",
-            "text": "Q&A: Building a broadband constellation for a contested space era",
-            "source_link": "https://spacenews.com/qa-building-a-broadband-constellation-for-a-contested-space-era/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-13T11:24:17.945528Z",
-            "shown_at": [
-                "2026-04-13T11:58:58.498509Z"
-            ]
-        },
-        {
-            "id": "61eb2317b18fd0ab50ed68c4d3a02e55",
-            "source": "spacenews",
-            "text": "Key Senate appropriator rejects proposed NASA budget cuts",
-            "source_link": "https://spacenews.com/key-senate-appropriator-rejects-proposed-nasa-budget-cuts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-13T11:24:17.945444Z",
-            "shown_at": [
-                "2026-04-13T11:24:18.874781Z"
-            ]
-        },
-        {
-            "id": "5476ff1a384eb705291e9c92e9d49a82",
-            "source": "spacenews",
-            "text": "Sophia and Kepler to marry orbital compute with optical links",
-            "source_link": "https://spacenews.com/sophia-and-kepler-to-marry-orbital-compute-with-optical-links/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-13T04:24:22.419807Z",
-            "shown_at": [
-                "2026-04-13T04:24:22.961516Z",
-                "2026-04-15T15:39:34.961062Z",
-                "2026-04-16T21:29:14.296393Z"
-            ]
-        },
-        {
-            "id": "d4537254c8e77c77c696fc374867ac4b",
-            "source": "spacenews",
-            "text": "Rocket Lab wins contract for three more iQPS launches",
-            "source_link": "https://spacenews.com/rocket-lab-wins-contract-for-three-more-iqps-launches/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-12T11:59:17.193941Z",
-            "shown_at": [
-                "2026-04-12T11:59:18.069103Z",
-                "2026-04-12T15:29:20.186715Z"
-            ]
-        },
-        {
-            "id": "3a92ac0df5fec901f39d9df938e022c1",
-            "source": "nyt",
-            "text": "NASA’s Artemis II Astronauts Reunite With Friends and Family After 10-Day Moon Mission",
-            "source_link": "https://www.nytimes.com/2026/04/11/science/nasa-artemis-moon-astronauts-houston.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-11T23:34:36.850043Z",
-            "shown_at": [
-                "2026-04-11T23:34:37.883471Z",
-                "2026-04-13T02:39:15.835592Z",
-                "2026-04-14T17:24:53.386867Z",
-                "2026-04-16T23:49:17.048469Z",
-                "2026-04-18T05:34:04.942949Z",
-                "2026-04-18T09:04:25.642138Z",
-                "2026-04-18T11:24:06.863170Z",
-                "2026-04-18T21:54:11.116767Z"
-            ]
-        },
-        {
-            "id": "f3406dbf0f8c42a61dda540eb0a9cc1f",
-            "source": "spacenews",
-            "text": "Falcon 9 launches Cygnus cargo spacecraft to the ISS",
-            "source_link": "https://spacenews.com/falcon-9-launches-cygnus-cargo-spacecraft-to-the-iss/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-11T16:29:07.156500Z",
-            "shown_at": [
-                "2026-04-11T16:29:08.222613Z"
-            ]
-        },
-        {
-            "id": "ddf4f8c16922f948cb29c131a3cac762",
-            "source": "nyt",
-            "text": "Another Giant Leap Reminds Us How Small We Are",
-            "source_link": "https://www.nytimes.com/2026/04/11/us/artemis-landing-splashdown-moon.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-11T09:29:12.332523Z",
-            "shown_at": [
-                "2026-04-11T09:29:12.965090Z",
-                "2026-04-12T10:14:33.157677Z",
-                "2026-04-14T06:19:11.870923Z",
-                "2026-04-15T09:14:08.427792Z",
-                "2026-04-15T12:44:25.719347Z",
-                "2026-04-17T04:29:27.253184Z",
-                "2026-04-17T13:14:22.252500Z",
-                "2026-04-17T19:39:22.371436Z",
-                "2026-04-18T02:04:49.164344Z",
-                "2026-04-18T03:14:09.279728Z",
-                "2026-04-18T04:24:12.275172Z"
-            ]
-        },
-        {
-            "id": "78108ff0d36f5c2abee19f11aef800cd",
-            "source": "nyt",
-            "text": "Artemis II Splashdown Gives NASA Momentum in Renewed Moon Race",
-            "source_link": "https://www.nytimes.com/2026/04/10/science/moon-astronauts-success.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-11T05:24:24.077807Z",
-            "shown_at": [
-                "2026-04-11T05:24:25.031199Z",
-                "2026-04-11T14:09:13.472922Z",
-                "2026-04-13T06:09:00.756816Z",
-                "2026-04-15T04:34:32.791104Z",
-                "2026-04-15T10:24:16.737484Z",
-                "2026-04-15T19:44:42.488701Z",
-                "2026-04-16T05:04:40.729557Z",
-                "2026-04-16T17:24:22.287254Z",
-                "2026-04-16T19:09:16.024656Z",
-                "2026-04-17T03:19:20.530918Z",
-                "2026-04-17T09:09:20.837520Z",
-                "2026-04-17T11:29:07.809952Z"
-            ]
-        },
-        {
-            "id": "d6061fd8532a6c942c2653461e64bfb4",
-            "source": "spacenews",
-            "text": "June 25:  Golden Dome: How Could Sensors Protect the United States?",
-            "source_link": "https://spacenews.com/golden-dome-sensors-event-june-25/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-17T01:49:35.651688Z",
-            "shown_at": [
-                "2026-06-17T01:49:36.558142Z"
-            ]
-        },
-        {
-            "id": "e3f2326433cdeff40e1577dd912e9fd9",
-            "source": "spacenews",
-            "text": "Dawn Aerospace raises $25 million",
-            "source_link": "https://spacenews.com/dawn-aerospace-raises-25-million/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-17T11:49:35.556614Z",
-            "shown_at": [
-                "2026-06-17T11:49:36.493049Z"
-            ]
-        },
-        {
-            "id": "be0ee1efd18fc7b28115eb8e15df7db8",
-            "source": "spacenews",
-            "text": "Look Up and Skynopy partner on automated satellite collision avoidance service",
-            "source_link": "https://spacenews.com/look-up-and-skynopy-partner-on-automated-satellite-collision-avoidance-service/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-17T11:49:35.556692Z",
-            "shown_at": [
-                "2026-06-17T12:24:51.303233Z"
-            ]
-        },
-        {
-            "id": "3d3d99614287b1f57144c1c3130d704e",
-            "source": "spacenews",
-            "text": "China conducts 4 launches in 3 days, but silence follows Kuaizhou–11 launch",
-            "source_link": "https://spacenews.com/china-conducts-4-launches-in-3-days-but-silence-follows-kuaizhou-11-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-17T12:59:01.885049Z",
-            "shown_at": [
-                "2026-06-17T12:59:04.225791Z"
-            ]
-        },
-        {
-            "id": "264c3176d16c6b6de55bb9e45f465216",
-            "source": "spacenews",
-            "text": "America’s next economic frontier is 240,000 miles away",
-            "source_link": "https://spacenews.com/americas-next-economic-frontier-is-240000-miles-away/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-17T13:39:36.120976Z",
-            "shown_at": [
-                "2026-06-17T13:39:37.937638Z"
-            ]
-        },
-        {
-            "id": "205a4ffa2ab95bf05386588a54941a7f",
-            "source": "nyt",
-            "text": "Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla",
-            "source_link": "https://www.nytimes.com/2026/06/17/business/spacex-tesla-merger-elon-musk.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-17T16:39:37.170601Z",
-            "shown_at": [
-                "2026-06-17T16:39:38.189841Z"
-            ]
-        },
-        {
-            "id": "f7c7c185cbb77ca9535d2f6e591a4466",
-            "source": "spacenews",
-            "text": "Upgraded Ariane 6 launches Amazon Leo satellites",
-            "source_link": "https://spacenews.com/upgraded-ariane-6-launches-amazon-leo-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-17T19:39:29.910194Z",
-            "shown_at": [
-                "2026-06-17T19:39:32.674231Z"
-            ]
-        },
-        {
-            "id": "bb4e8a977d2c744b64552028ee50d3c1",
-            "source": "spacenews",
-            "text": "Relativity Space to privately develop Mars orbiter mission",
-            "source_link": "https://spacenews.com/relativity-space-to-privately-develop-mars-orbiter-mission/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-17T20:49:25.923693Z",
-            "shown_at": [
-                "2026-06-17T20:49:26.924179Z"
             ]
         }
     ]
