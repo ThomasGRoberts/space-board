@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-18T00:05:12.411887+00:00",
-    "trigger_count": 6,
-    "current_item_id": "35a538ddb0aedde63053ddcdef9add55",
+    "trigger_count": 0,
+    "current_item_id": "5ce44e025c47885c5a5624044af0807e",
     "data": [
         {
             "id": "bb4e8a977d2c744b64552028ee50d3c1",
@@ -8123,6 +8123,18 @@
             "fetched_datetime": "2026-06-18T18:37:27.006384Z",
             "shown_at": [
                 "2026-06-18T18:37:28.775562Z"
+            ]
+        },
+        {
+            "id": "5ce44e025c47885c5a5624044af0807e",
+            "source": "spacenews",
+            "text": "EQT to acquire Exolaunch",
+            "source_link": "https://spacenews.com/eqt-to-acquire-exolaunch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-18T19:45:35.171180Z",
+            "shown_at": [
+                "2026-06-18T19:45:36.121778Z"
             ]
         }
     ]

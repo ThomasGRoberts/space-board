@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 15 | 22 | 39 |
+| spacenews | 9 | 16 | 22 | 40 |
 | nyt | 0 | 1 | 14 | 26 |
 | breaking_defense | 1 | 1 | 2 | 13 |
 
@@ -2541,3 +2541,4 @@
 - **Jun 18, 04:38 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 18, 05:34 PM** - Blue Origin begins rebuilding New Glenn pad (spacenews)
 - **Jun 18, 06:37 PM** - Space Force’s rapid acquisition office director moves to Air Force Nuclear Weapons Center (spacenews)
+- **Jun 18, 07:45 PM** - EQT to acquire Exolaunch (spacenews)
