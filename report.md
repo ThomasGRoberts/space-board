@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 16 | 19 | 38 |
-| nyt | 1 | 1 | 13 | 24 |
+| nyt | 1 | 1 | 14 | 25 |
 | breaking_defense | 0 | 0 | 8 | 19 |
 
 # Shown Order
@@ -2518,3 +2518,4 @@
 - **Jun 18, 02:39 AM** - All in on AI at Astra (spacenews)
 - **Jun 18, 03:14 AM** - Can the Artemis III Mission Go on as Planned? (nyt)
 - **Jun 18, 03:49 AM** - A UN agency that works for US space (spacenews)
+- **Jun 18, 04:24 AM** - Alan Hale, Sky Watcher Who Created a Comet Sensation, Dies at 68 (nyt)
