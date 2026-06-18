@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 16 | 20 | 38 |
+| spacenews | 6 | 16 | 21 | 39 |
 | nyt | 1 | 1 | 15 | 26 |
 | breaking_defense | 0 | 0 | 5 | 17 |
 
@@ -2525,3 +2525,4 @@
 - **Jun 18, 06:49 AM** - Can the Artemis III Mission Go on as Planned? (nyt)
 - **Jun 18, 07:24 AM** - ESA awards contract for next-generation radar imaging satellites (spacenews)
 - **Jun 18, 07:59 AM** - Alan Hale, Sky Watcher Who Created a Comet Sensation, Dies at 68 (nyt)
+- **Jun 18, 08:34 AM** - June 25:  Golden Dome: How Could Sensors Protect the United States? (spacenews)
