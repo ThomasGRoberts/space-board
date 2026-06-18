@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-18T00:05:12.411887+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d74d9ce656f13bce8bb5dda0375a4d8e",
+    "trigger_count": 0,
+    "current_item_id": "67377a4d4e29de38fc926f6a74d100b2",
     "data": [
         {
             "id": "bb4e8a977d2c744b64552028ee50d3c1",
@@ -8025,6 +8025,27 @@
                 "2026-04-16T02:44:13.528542Z",
                 "2026-04-16T09:09:10.692643Z"
             ]
+        },
+        {
+            "id": "67377a4d4e29de38fc926f6a74d100b2",
+            "source": "spacenews",
+            "text": "Blue Origin begins rebuilding New Glenn pad",
+            "source_link": "https://spacenews.com/blue-origin-begins-rebuilding-new-glenn-pad/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-18T11:29:33.146827Z",
+            "shown_at": [
+                "2026-06-18T11:29:33.964963Z"
+            ]
+        },
+        {
+            "id": "c9e312f9e840cb9dd3601f61a8428cb5",
+            "source": "spacenews",
+            "text": "Quantum Space wins Pentagon contract to develop orbital refueling spacecraft",
+            "source_link": "https://spacenews.com/quantum-space-wins-pentagon-contract-to-develop-orbital-refueling-spacecraft/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-06-18T11:29:33.146889Z"
         }
     ]
 }
