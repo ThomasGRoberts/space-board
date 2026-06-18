@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 17 | 21 | 40 |
+| spacenews | 7 | 17 | 22 | 41 |
 | nyt | 1 | 1 | 15 | 26 |
 | breaking_defense | 0 | 0 | 4 | 15 |
 
@@ -2533,3 +2533,4 @@
 - **Jun 18, 11:29 AM** - Blue Origin begins rebuilding New Glenn pad (spacenews)
 - **Jun 18, 12:05 PM** - Quantum Space wins Pentagon contract to develop orbital refueling spacecraft (spacenews)
 - **Jun 18, 12:39 PM** - Boeing demonstrates quantum protocol in payload set for 2027 launch (spacenews)
+- **Jun 18, 01:14 PM** - Swift reboost mission ready for launch (spacenews)

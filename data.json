@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-18T00:05:12.411887+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c9719752061a1d0f64b8e92d5eeb003e",
+    "trigger_count": 0,
+    "current_item_id": "2f452bdc0ccbf26735aa3c2a5ed80206",
     "data": [
         {
             "id": "bb4e8a977d2c744b64552028ee50d3c1",
@@ -8067,9 +8067,12 @@
             "source": "spacenews",
             "text": "Swift reboost mission ready for launch",
             "source_link": "https://spacenews.com/swift-reboost-mission-ready-for-launch/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-06-18T12:39:23.248091Z"
+            "fetched_datetime": "2026-06-18T12:39:23.248091Z",
+            "shown_at": [
+                "2026-06-18T13:14:41.519112Z"
+            ]
         }
     ]
 }
