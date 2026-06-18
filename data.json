@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-18T00:05:12.411887+00:00",
-    "trigger_count": 6,
-    "current_item_id": "67377a4d4e29de38fc926f6a74d100b2",
+    "trigger_count": 0,
+    "current_item_id": "c9e312f9e840cb9dd3601f61a8428cb5",
     "data": [
         {
             "id": "bb4e8a977d2c744b64552028ee50d3c1",
@@ -8043,9 +8043,12 @@
             "source": "spacenews",
             "text": "Quantum Space wins Pentagon contract to develop orbital refueling spacecraft",
             "source_link": "https://spacenews.com/quantum-space-wins-pentagon-contract-to-develop-orbital-refueling-spacecraft/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-06-18T11:29:33.146889Z"
+            "fetched_datetime": "2026-06-18T11:29:33.146889Z",
+            "shown_at": [
+                "2026-06-18T12:05:13.584362Z"
+            ]
         }
     ]
 }
