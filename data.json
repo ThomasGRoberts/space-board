@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-18T00:05:12.411887+00:00",
-    "trigger_count": 6,
-    "current_item_id": "67377a4d4e29de38fc926f6a74d100b2",
+    "trigger_count": 0,
+    "current_item_id": "35a538ddb0aedde63053ddcdef9add55",
     "data": [
         {
             "id": "bb4e8a977d2c744b64552028ee50d3c1",
@@ -8111,6 +8111,18 @@
             "fetched_datetime": "2026-06-18T16:38:46.073384Z",
             "shown_at": [
                 "2026-06-18T16:38:48.745602Z"
+            ]
+        },
+        {
+            "id": "35a538ddb0aedde63053ddcdef9add55",
+            "source": "spacenews",
+            "text": "Space Force’s rapid acquisition office director moves to Air Force Nuclear Weapons Center",
+            "source_link": "https://spacenews.com/space-forces-rapid-acquisition-office-director-moves-to-air-force-nuclear-weapons-center/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-18T18:37:27.006384Z",
+            "shown_at": [
+                "2026-06-18T18:37:28.775562Z"
             ]
         }
     ]

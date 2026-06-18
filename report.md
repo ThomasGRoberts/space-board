@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 22 | 39 |
-| nyt | 0 | 1 | 15 | 26 |
+| spacenews | 9 | 16 | 23 | 40 |
+| nyt | 0 | 1 | 14 | 26 |
 | breaking_defense | 1 | 1 | 2 | 14 |
 
 # Shown Order
@@ -2540,3 +2540,4 @@
 - **Jun 18, 03:39 PM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
 - **Jun 18, 04:38 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 18, 05:34 PM** - Blue Origin begins rebuilding New Glenn pad (spacenews)
+- **Jun 18, 06:37 PM** - Space Force’s rapid acquisition office director moves to Air Force Nuclear Weapons Center (spacenews)
