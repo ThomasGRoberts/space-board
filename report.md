@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 21 | 39 |
+| spacenews | 8 | 15 | 22 | 40 |
 | nyt | 0 | 1 | 15 | 26 |
 | breaking_defense | 1 | 1 | 3 | 14 |
 
@@ -2539,3 +2539,4 @@
 - **Jun 18, 02:59 PM** - Chinese startup Spark Space tests engine, raises funds for electric-pump rocket (spacenews)
 - **Jun 18, 03:39 PM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
 - **Jun 18, 04:38 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
+- **Jun 18, 05:34 PM** - Blue Origin begins rebuilding New Glenn pad (spacenews)
