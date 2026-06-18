@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 16 | 19 | 38 |
+| spacenews | 6 | 16 | 20 | 39 |
 | nyt | 1 | 1 | 14 | 25 |
 | breaking_defense | 0 | 0 | 7 | 18 |
 
@@ -2521,3 +2521,4 @@
 - **Jun 18, 04:24 AM** - Alan Hale, Sky Watcher Who Created a Comet Sensation, Dies at 68 (nyt)
 - **Jun 18, 04:59 AM** - The SpaceNews space unicorn tracker (spacenews)
 - **Jun 18, 05:34 AM** - Can the Artemis III Mission Go on as Planned? (nyt)
+- **Jun 18, 06:14 AM** - Deep Space Network antenna mishap blamed on poor training and procedures (spacenews)
