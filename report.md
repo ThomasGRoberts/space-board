@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 16 | 22 | 40 |
+| spacenews | 8 | 17 | 23 | 41 |
 | nyt | 1 | 1 | 15 | 27 |
 | breaking_defense | 0 | 0 | 3 | 14 |
 
@@ -2536,3 +2536,4 @@
 - **Jun 18, 01:14 PM** - Swift reboost mission ready for launch (spacenews)
 - **Jun 18, 01:49 PM** - What the satellite servicing economy can borrow from carbon credits (spacenews)
 - **Jun 18, 02:24 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
+- **Jun 18, 02:59 PM** - Chinese startup Spark Space tests engine, raises funds for electric-pump rocket (spacenews)
