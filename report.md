@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 22 | 39 |
 | nyt | 1 | 1 | 16 | 27 |
-| breaking_defense | 0 | 0 | 2 | 14 |
+| breaking_defense | 1 | 1 | 3 | 15 |
 
 # Shown Order
 
@@ -2538,3 +2538,4 @@
 - **Jun 18, 02:24 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 18, 02:59 PM** - Chinese startup Spark Space tests engine, raises funds for electric-pump rocket (spacenews)
 - **Jun 18, 03:39 PM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
+- **Jun 18, 04:38 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
