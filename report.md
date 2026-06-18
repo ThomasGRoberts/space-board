@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 15 | 21 | 39 |
+| spacenews | 8 | 17 | 22 | 40 |
 | nyt | 1 | 1 | 15 | 27 |
 | breaking_defense | 0 | 0 | 4 | 15 |
 
@@ -2532,3 +2532,4 @@
 - **Jun 18, 10:54 AM** - Gilat to buy Comtech satcoms business six years after failed merger (spacenews)
 - **Jun 18, 11:29 AM** - Blue Origin begins rebuilding New Glenn pad (spacenews)
 - **Jun 18, 12:05 PM** - Quantum Space wins Pentagon contract to develop orbital refueling spacecraft (spacenews)
+- **Jun 18, 12:39 PM** - Boeing demonstrates quantum protocol in payload set for 2027 launch (spacenews)
