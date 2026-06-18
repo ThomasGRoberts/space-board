@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-18T00:05:12.411887+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2f452bdc0ccbf26735aa3c2a5ed80206",
+    "trigger_count": 0,
+    "current_item_id": "0f43aa5ea2a97028762161befebfb731",
     "data": [
         {
             "id": "bb4e8a977d2c744b64552028ee50d3c1",
@@ -8072,6 +8072,18 @@
             "fetched_datetime": "2026-06-18T12:39:23.248091Z",
             "shown_at": [
                 "2026-06-18T13:14:41.519112Z"
+            ]
+        },
+        {
+            "id": "0f43aa5ea2a97028762161befebfb731",
+            "source": "spacenews",
+            "text": "What the satellite servicing economy can borrow from carbon credits",
+            "source_link": "https://spacenews.com/what-the-satellite-servicing-economy-can-borrow-from-carbon-credits/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-18T13:49:41.616574Z",
+            "shown_at": [
+                "2026-06-18T13:49:44.561375Z"
             ]
         }
     ]
