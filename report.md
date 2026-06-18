@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 16 | 19 | 38 |
-| nyt | 1 | 1 | 14 | 25 |
+| nyt | 1 | 1 | 15 | 26 |
 | breaking_defense | 0 | 0 | 7 | 18 |
 
 # Shown Order
@@ -2520,3 +2520,4 @@
 - **Jun 18, 03:49 AM** - A UN agency that works for US space (spacenews)
 - **Jun 18, 04:24 AM** - Alan Hale, Sky Watcher Who Created a Comet Sensation, Dies at 68 (nyt)
 - **Jun 18, 04:59 AM** - The SpaceNews space unicorn tracker (spacenews)
+- **Jun 18, 05:34 AM** - Can the Artemis III Mission Go on as Planned? (nyt)
