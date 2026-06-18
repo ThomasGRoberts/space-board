@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 16 | 18 | 37 |
+| spacenews | 6 | 16 | 19 | 38 |
 | nyt | 1 | 1 | 14 | 25 |
 | breaking_defense | 0 | 0 | 8 | 19 |
 
@@ -2517,3 +2517,4 @@
 - **Jun 18, 02:05 AM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
 - **Jun 18, 02:39 AM** - All in on AI at Astra (spacenews)
 - **Jun 18, 03:14 AM** - Can the Artemis III Mission Go on as Planned? (nyt)
+- **Jun 18, 03:49 AM** - A UN agency that works for US space (spacenews)
