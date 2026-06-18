@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 21 | 38 |
 | nyt | 0 | 1 | 14 | 26 |
-| breaking_defense | 1 | 1 | 1 | 13 |
+| breaking_defense | 1 | 1 | 2 | 13 |
 
 # Shown Order
 
@@ -2543,3 +2543,4 @@
 - **Jun 18, 06:37 PM** - Space Force’s rapid acquisition office director moves to Air Force Nuclear Weapons Center (spacenews)
 - **Jun 18, 07:45 PM** - EQT to acquire Exolaunch (spacenews)
 - **Jun 18, 08:50 PM** - Can the Artemis III Mission Go on as Planned? (nyt)
+- **Jun 18, 09:39 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
