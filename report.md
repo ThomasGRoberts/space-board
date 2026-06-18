@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 16 | 18 | 36 |
+| spacenews | 7 | 16 | 19 | 37 |
 | nyt | 1 | 1 | 13 | 24 |
 | breaking_defense | 0 | 0 | 9 | 21 |
 
@@ -2513,3 +2513,4 @@
 - **Jun 17, 11:44 PM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
 - **Jun 18, 12:19 AM** - Deep Space Network antenna mishap blamed on poor training and procedures (spacenews)
 - **Jun 18, 12:54 AM** - Alan Hale, Sky Watcher Who Created a Comet Sensation, Dies at 68 (nyt)
+- **Jun 18, 01:29 AM** - Vandenberg offers new launch site for small and medium rockets (spacenews)
