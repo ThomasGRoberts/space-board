@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 16 | 19 | 38 |
-| nyt | 1 | 1 | 15 | 26 |
+| spacenews | 6 | 16 | 20 | 39 |
+| nyt | 1 | 1 | 15 | 25 |
 | breaking_defense | 0 | 0 | 6 | 17 |
 
 # Shown Order
@@ -2523,3 +2523,4 @@
 - **Jun 18, 05:34 AM** - Can the Artemis III Mission Go on as Planned? (nyt)
 - **Jun 18, 06:14 AM** - Deep Space Network antenna mishap blamed on poor training and procedures (spacenews)
 - **Jun 18, 06:49 AM** - Can the Artemis III Mission Go on as Planned? (nyt)
+- **Jun 18, 07:24 AM** - ESA awards contract for next-generation radar imaging satellites (spacenews)
