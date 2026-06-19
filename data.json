@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-19T00:04:59.197037+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8dd96aaae554966b2f7cbc5f69ff0bc2",
+    "trigger_count": 0,
+    "current_item_id": "154d88b8033073e1c1165a14dd58e579",
     "data": [
         {
             "id": "5ce44e025c47885c5a5624044af0807e",
@@ -8094,6 +8094,18 @@
             "fetched_datetime": "2026-06-19T13:09:36.329032Z",
             "shown_at": [
                 "2026-06-19T13:09:37.546025Z"
+            ]
+        },
+        {
+            "id": "154d88b8033073e1c1165a14dd58e579",
+            "source": "spacenews",
+            "text": "Northrop Grumman says industry ready to scale solid rocket production, with longer contracts",
+            "source_link": "https://spacenews.com/northrop-grumman-says-industry-ready-to-scale-solid-rocket-production-with-longer-contracts/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-19T14:19:28.269140Z",
+            "shown_at": [
+                "2026-06-19T14:19:29.182892Z"
             ]
         }
     ]
