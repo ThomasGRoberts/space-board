@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 16 | 16 | 38 |
+| spacenews | 9 | 15 | 16 | 37 |
 | breaking_defense | 1 | 1 | 9 | 13 |
-| nyt | 0 | 1 | 10 | 25 |
+| nyt | 0 | 1 | 11 | 26 |
 
 # Shown Order
 
@@ -2544,3 +2544,4 @@
 - **Jun 19, 11:59 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 19, 12:34 PM** - NASA selects mission to study space weather interaction with Earth’s atmosphere (spacenews)
 - **Jun 19, 01:09 PM** - The MEO durability crisis: why LEO hardware will fail the new orbital economy  (spacenews)
+- **Jun 19, 01:44 PM** - Can the Artemis III Mission Go on as Planned? (nyt)
