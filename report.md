@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 15 | 17 | 38 |
-| breaking_defense | 1 | 1 | 8 | 12 |
+| breaking_defense | 1 | 1 | 9 | 13 |
 | nyt | 0 | 1 | 10 | 25 |
 
 # Shown Order
@@ -2541,3 +2541,4 @@
 - **Jun 19, 10:09 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 19, 10:49 AM** - Chinese university-led mission to study asteroid Apophis during close encounter with Earth (spacenews)
 - **Jun 19, 11:24 AM** - Mu-g Technologies enters the parabolic flight business (spacenews)
+- **Jun 19, 11:59 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
