@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-19T00:04:59.197037+00:00",
-    "trigger_count": 6,
-    "current_item_id": "04586d50fbc3b8d68456941203a18fab",
+    "trigger_count": 0,
+    "current_item_id": "7b977566721a541413ef86a8568af750",
     "data": [
         {
             "id": "5ce44e025c47885c5a5624044af0807e",
@@ -8063,9 +8063,12 @@
             "source": "spacenews",
             "text": "Mu-g Technologies enters the parabolic flight business",
             "source_link": "https://spacenews.com/mu-g-technologies-enters-the-parabolic-flight-business/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-06-19T10:49:22.961170Z"
+            "fetched_datetime": "2026-06-19T10:49:22.961170Z",
+            "shown_at": [
+                "2026-06-19T11:24:20.796618Z"
+            ]
         }
     ]
 }
