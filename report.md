@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 18 | 16 | 39 |
-| breaking_defense | 0 | 1 | 10 | 12 |
+| breaking_defense | 0 | 1 | 11 | 13 |
 | nyt | 0 | 0 | 11 | 25 |
 
 # Shown Order
@@ -2553,3 +2553,4 @@
 - **Jun 19, 05:14 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 19, 05:49 PM** - Sustained maneuver has a propulsion problem (spacenews)
 - **Jun 19, 06:24 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
+- **Jun 19, 06:59 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
