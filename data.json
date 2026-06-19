@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-19T00:04:59.197037+00:00",
-    "trigger_count": 6,
-    "current_item_id": "58c381d38092523dbe5368cb0353c5de",
+    "trigger_count": 0,
+    "current_item_id": "46f270d29ce3c7693386ab76c083c59b",
     "data": [
         {
             "id": "5ce44e025c47885c5a5624044af0807e",
@@ -8081,6 +8081,18 @@
             "fetched_datetime": "2026-06-19T12:34:35.713625Z",
             "shown_at": [
                 "2026-06-19T12:34:36.699165Z"
+            ]
+        },
+        {
+            "id": "46f270d29ce3c7693386ab76c083c59b",
+            "source": "spacenews",
+            "text": "The MEO durability crisis: why LEO hardware will fail the new orbital economy ",
+            "source_link": "https://spacenews.com/the-meo-durability-crisis-why-leo-hardware-will-fail-the-new-orbital-economy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-19T13:09:36.329032Z",
+            "shown_at": [
+                "2026-06-19T13:09:37.546025Z"
             ]
         }
     ]
