@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 18 | 38 |
 | breaking_defense | 1 | 1 | 6 | 13 |
-| nyt | 0 | 1 | 11 | 25 |
+| nyt | 0 | 1 | 12 | 26 |
 
 # Shown Order
 
@@ -2532,3 +2532,4 @@
 - **Jun 19, 04:44 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 19, 05:19 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 19, 05:54 AM** - Katalyst Space raises $12 million for GEO servicing demo mission (spacenews)
+- **Jun 19, 06:29 AM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
