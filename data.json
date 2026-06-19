@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-19T00:04:59.197037+00:00",
-    "trigger_count": 6,
-    "current_item_id": "11e111a266b6838379f7081d05f1639e",
+    "trigger_count": 0,
+    "current_item_id": "091d563fc5c4636dc2364cd3104b2167",
     "data": [
         {
             "id": "5ce44e025c47885c5a5624044af0807e",
@@ -8119,6 +8119,18 @@
             "fetched_datetime": "2026-06-19T14:54:38.418047Z",
             "shown_at": [
                 "2026-06-19T14:54:39.418488Z"
+            ]
+        },
+        {
+            "id": "091d563fc5c4636dc2364cd3104b2167",
+            "source": "spacenews",
+            "text": "MDA Space to buy Blue Canyon Technologies to gain foothold in U.S. market",
+            "source_link": "https://spacenews.com/mda-space-to-buy-blue-canyon-technologies-to-gain-foothold-in-u-s-market/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-19T16:04:50.857653Z",
+            "shown_at": [
+                "2026-06-19T16:04:52.118648Z"
             ]
         }
     ]

@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 17 | 16 | 38 |
+| spacenews | 10 | 18 | 17 | 39 |
 | breaking_defense | 1 | 1 | 10 | 12 |
 | nyt | 0 | 1 | 9 | 25 |
 
@@ -2548,3 +2548,4 @@
 - **Jun 19, 02:19 PM** - Northrop Grumman says industry ready to scale solid rocket production, with longer contracts (spacenews)
 - **Jun 19, 02:54 PM** - ElevationSpace Secures US $40 Million in Series B Funding, Bringing Total Raised to US $63.5 Million (spacenews)
 - **Jun 19, 03:29 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
+- **Jun 19, 04:04 PM** - MDA Space to buy Blue Canyon Technologies to gain foothold in U.S. market (spacenews)
