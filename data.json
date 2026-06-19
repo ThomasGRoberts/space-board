@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-19T00:04:59.197037+00:00",
-    "trigger_count": 6,
-    "current_item_id": "11e111a266b6838379f7081d05f1639e",
+    "trigger_count": 0,
+    "current_item_id": "58c381d38092523dbe5368cb0353c5de",
     "data": [
         {
             "id": "5ce44e025c47885c5a5624044af0807e",
@@ -8069,6 +8069,18 @@
             "fetched_datetime": "2026-06-19T10:49:22.961170Z",
             "shown_at": [
                 "2026-06-19T11:24:20.796618Z"
+            ]
+        },
+        {
+            "id": "58c381d38092523dbe5368cb0353c5de",
+            "source": "spacenews",
+            "text": "NASA selects mission to study space weather interaction with Earth’s atmosphere",
+            "source_link": "https://spacenews.com/nasa-selects-mission-to-study-space-weather-interaction-with-earths-atmosphere/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-19T12:34:35.713625Z",
+            "shown_at": [
+                "2026-06-19T12:34:36.699165Z"
             ]
         }
     ]
