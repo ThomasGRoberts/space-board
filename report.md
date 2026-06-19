@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 14 | 18 | 37 |
+| spacenews | 8 | 14 | 19 | 38 |
 | breaking_defense | 1 | 1 | 6 | 13 |
 | nyt | 0 | 1 | 11 | 26 |
 
@@ -2531,3 +2531,4 @@
 - **Jun 19, 04:09 AM** - Chinese startup Spark Space tests engine, raises funds for electric-pump rocket (spacenews)
 - **Jun 19, 04:44 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 19, 05:19 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
+- **Jun 19, 05:54 AM** - Katalyst Space raises $12 million for GEO servicing demo mission (spacenews)
