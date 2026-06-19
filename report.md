@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 19 | 38 |
 | breaking_defense | 1 | 1 | 4 | 13 |
-| nyt | 0 | 1 | 12 | 25 |
+| nyt | 0 | 1 | 13 | 26 |
 
 # Shown Order
 
@@ -2526,3 +2526,4 @@
 - **Jun 19, 01:14 AM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
 - **Jun 19, 01:49 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 19, 02:24 AM** - China conducts 4 launches in 3 days, but silence follows Kuaizhou–11 launch (spacenews)
+- **Jun 19, 02:58 AM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
