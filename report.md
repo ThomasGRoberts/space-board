@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 18 | 16 | 38 |
-| breaking_defense | 0 | 1 | 11 | 12 |
+| spacenews | 9 | 17 | 16 | 37 |
+| breaking_defense | 0 | 1 | 12 | 13 |
 | nyt | 0 | 0 | 12 | 26 |
 
 # Shown Order
@@ -2556,3 +2556,4 @@
 - **Jun 19, 06:59 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 19, 07:38 PM** - India’s Jio lays out sovereign LEO constellation plan ahead of IPO (spacenews)
 - **Jun 19, 08:14 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
+- **Jun 19, 08:49 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
