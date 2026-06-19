@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 17 | 17 | 38 |
+| spacenews | 9 | 17 | 17 | 37 |
 | breaking_defense | 0 | 1 | 11 | 13 |
-| nyt | 0 | 0 | 11 | 25 |
+| nyt | 0 | 0 | 12 | 26 |
 
 # Shown Order
 
@@ -2558,3 +2558,4 @@
 - **Jun 19, 08:14 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 19, 08:49 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 19, 09:24 PM** - DARPA to explore ways to rapidly rebuild satellite networks if attacked (spacenews)
+- **Jun 19, 09:59 PM** - Can the Artemis III Mission Go on as Planned? (nyt)
