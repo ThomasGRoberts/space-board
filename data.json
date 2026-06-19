@@ -1,9 +1,121 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-06-18T00:05:12.411887+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8dd96aaae554966b2f7cbc5f69ff0bc2",
+    "last_run_datetime": "2026-06-19T00:04:59.197037+00:00",
+    "trigger_count": 0,
+    "current_item_id": "11e111a266b6838379f7081d05f1639e",
     "data": [
+        {
+            "id": "5ce44e025c47885c5a5624044af0807e",
+            "source": "spacenews",
+            "text": "EQT to acquire Exolaunch",
+            "source_link": "https://spacenews.com/eqt-to-acquire-exolaunch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-18T19:45:35.171180Z",
+            "shown_at": [
+                "2026-06-18T19:45:36.121778Z",
+                "2026-06-18T22:47:43.966842Z"
+            ]
+        },
+        {
+            "id": "35a538ddb0aedde63053ddcdef9add55",
+            "source": "spacenews",
+            "text": "Space Force’s rapid acquisition office director moves to Air Force Nuclear Weapons Center",
+            "source_link": "https://spacenews.com/space-forces-rapid-acquisition-office-director-moves-to-air-force-nuclear-weapons-center/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-18T18:37:27.006384Z",
+            "shown_at": [
+                "2026-06-18T18:37:28.775562Z"
+            ]
+        },
+        {
+            "id": "11e111a266b6838379f7081d05f1639e",
+            "source": "breaking_defense",
+            "text": "Rheinmetall, Vantor plan joint ISR venture for Bundeswehr",
+            "source_link": "https://breakingdefense.com/2026/06/rheinmetall-vantor-plan-joint-isr-venture-for-bundeswehr/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-18T16:38:46.073384Z",
+            "shown_at": [
+                "2026-06-18T16:38:48.745602Z",
+                "2026-06-18T21:39:16.938904Z",
+                "2026-06-19T00:05:06.642607Z"
+            ]
+        },
+        {
+            "id": "131b5c677044662d9bd98521696f70de",
+            "source": "spacenews",
+            "text": "Chinese startup Spark Space tests engine, raises funds for electric-pump rocket",
+            "source_link": "https://spacenews.com/chinese-startup-spark-space-tests-engine-raises-funds-for-electric-pump-rocket/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-18T14:59:29.967388Z",
+            "shown_at": [
+                "2026-06-18T14:59:30.963376Z"
+            ]
+        },
+        {
+            "id": "0f43aa5ea2a97028762161befebfb731",
+            "source": "spacenews",
+            "text": "What the satellite servicing economy can borrow from carbon credits",
+            "source_link": "https://spacenews.com/what-the-satellite-servicing-economy-can-borrow-from-carbon-credits/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-18T13:49:41.616574Z",
+            "shown_at": [
+                "2026-06-18T13:49:44.561375Z"
+            ]
+        },
+        {
+            "id": "2f452bdc0ccbf26735aa3c2a5ed80206",
+            "source": "spacenews",
+            "text": "Swift reboost mission ready for launch",
+            "source_link": "https://spacenews.com/swift-reboost-mission-ready-for-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-18T12:39:23.248091Z",
+            "shown_at": [
+                "2026-06-18T13:14:41.519112Z"
+            ]
+        },
+        {
+            "id": "c9719752061a1d0f64b8e92d5eeb003e",
+            "source": "spacenews",
+            "text": "Boeing demonstrates quantum protocol in payload set for 2027 launch",
+            "source_link": "https://spacenews.com/boeing-demonstrates-quantum-protocol-in-payload-set-for-2027-launch/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-18T12:39:23.248031Z",
+            "shown_at": [
+                "2026-06-18T12:39:25.623424Z"
+            ]
+        },
+        {
+            "id": "c9e312f9e840cb9dd3601f61a8428cb5",
+            "source": "spacenews",
+            "text": "Quantum Space wins Pentagon contract to develop orbital refueling spacecraft",
+            "source_link": "https://spacenews.com/quantum-space-wins-pentagon-contract-to-develop-orbital-refueling-spacecraft/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-18T11:29:33.146889Z",
+            "shown_at": [
+                "2026-06-18T12:05:13.584362Z"
+            ]
+        },
+        {
+            "id": "67377a4d4e29de38fc926f6a74d100b2",
+            "source": "spacenews",
+            "text": "Blue Origin begins rebuilding New Glenn pad",
+            "source_link": "https://spacenews.com/blue-origin-begins-rebuilding-new-glenn-pad/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-18T11:29:33.146827Z",
+            "shown_at": [
+                "2026-06-18T11:29:33.964963Z",
+                "2026-06-18T17:34:56.086750Z"
+            ]
+        },
         {
             "id": "bb4e8a977d2c744b64552028ee50d3c1",
             "source": "spacenews",
@@ -7904,241 +8016,6 @@
                 "2026-04-19T06:38:52.754679Z",
                 "2026-04-19T13:04:45.220886Z",
                 "2026-04-19T17:49:18.768288Z"
-            ]
-        },
-        {
-            "id": "a95e72f5f3cfcf71efd52fedee9f3fc9",
-            "source": "spacenews",
-            "text": "Aerospace to support industry with government furnished talent",
-            "source_link": "https://spacenews.com/aerospace-to-support-industry-with-government-furnished-talent/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-13T19:14:22.123373Z",
-            "shown_at": [
-                "2026-04-13T19:49:07.638481Z",
-                "2026-04-16T04:29:21.273061Z",
-                "2026-04-18T06:09:07.365787Z"
-            ]
-        },
-        {
-            "id": "d9366021734968587743052ca4cac5ab",
-            "source": "spacenews",
-            "text": "Phantom Space eyes edge in orbital data race with thermal deal",
-            "source_link": "https://spacenews.com/phantom-space-eyes-edge-in-orbital-data-race-with-thermal-deal/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-13T19:14:22.123281Z",
-            "shown_at": [
-                "2026-04-13T19:14:23.877049Z"
-            ]
-        },
-        {
-            "id": "0e936879dc83352dc5dd4075ef3b13cf",
-            "source": "spacenews",
-            "text": "Near Real-Time Payload Data Delivery with SSC Space Go",
-            "source_link": "https://spacenews.com/near-real-time-payload-data-delivery-with-ssc-space-go/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-13T16:39:12.773044Z",
-            "shown_at": [
-                "2026-04-13T18:04:51.613956Z",
-                "2026-04-19T03:09:07.308944Z",
-                "2026-04-19T05:29:14.940564Z"
-            ]
-        },
-        {
-            "id": "b96efdc33bde29c374894f662245f963",
-            "source": "spacenews",
-            "text": "Gravitics targets 2027 flight test for ‘orbital carrier’ architecture",
-            "source_link": "https://spacenews.com/gravitics-targets-2027-flight-test-for-orbital-carrier-architecture/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-13T16:39:12.772998Z",
-            "shown_at": [
-                "2026-04-13T17:29:11.613373Z",
-                "2026-04-20T14:24:23.849224Z"
-            ]
-        },
-        {
-            "id": "f358402df9b20b4f10658305f08e558b",
-            "source": "spacenews",
-            "text": "Fueling test suggests imminent debut of China’s reusable Long March 10B rocket",
-            "source_link": "https://spacenews.com/fueling-test-suggests-imminent-debut-of-chinas-reusable-long-march-10b-rocket/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-13T16:39:12.772928Z",
-            "shown_at": [
-                "2026-04-13T16:39:13.456565Z",
-                "2026-04-17T03:54:33.762046Z"
-            ]
-        },
-        {
-            "id": "242213f0f8bc2ef8297a72ee2ab7ca8d",
-            "source": "spacenews",
-            "text": "Citra Space raises $15 million Series A to expand platform for identifying objects in orbit",
-            "source_link": "https://spacenews.com/citra-space-raises-15-million-series-a-to-expand-platform-for-identifying-objects-in-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-13T14:54:29.202825Z",
-            "shown_at": [
-                "2026-04-13T15:29:23.474769Z",
-                "2026-04-15T07:29:05.576341Z",
-                "2026-04-18T18:59:09.504920Z",
-                "2026-04-20T07:19:32.109501Z"
-            ]
-        },
-        {
-            "id": "ab37b1cbd3a107f229f4b78e83b46f8a",
-            "source": "spacenews",
-            "text": "Near real-time payload data delivery with SSC Space Go",
-            "source_link": "https://spacenews.com/near-real-time-payload-data-delivery-with-ssc-space-go/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-13T14:54:29.202742Z",
-            "shown_at": [
-                "2026-04-13T14:54:30.097876Z",
-                "2026-04-18T09:39:03.673101Z"
-            ]
-        },
-        {
-            "id": "bb31b97ec541d0330bf5ca19e14b7423",
-            "source": "spacenews",
-            "text": "Orbit is filling up fast. Now comes the awkward bit: pre-empting and handling a crisis.",
-            "source_link": "https://spacenews.com/orbit-is-filling-up-fast-now-comes-the-awkward-bit-pre-empting-and-handling-a-crisis/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-13T13:09:10.099906Z",
-            "shown_at": [
-                "2026-04-13T13:44:29.771473Z",
-                "2026-04-15T16:49:22.760862Z",
-                "2026-04-17T02:44:22.979961Z",
-                "2026-04-18T14:19:16.150644Z",
-                "2026-04-19T11:54:08.169230Z"
-            ]
-        },
-        {
-            "id": "d461b947d5afdf3e37600d6dc21b6608",
-            "source": "spacenews",
-            "text": "Atomic-6 unveils online marketplace for orbital data centers",
-            "source_link": "https://spacenews.com/atomic-6-unveils-online-marketplace-for-orbital-data-centers/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-13T13:09:10.099819Z",
-            "shown_at": [
-                "2026-04-13T13:09:10.947878Z",
-                "2026-04-16T02:44:13.528542Z",
-                "2026-04-16T09:09:10.692643Z"
-            ]
-        },
-        {
-            "id": "67377a4d4e29de38fc926f6a74d100b2",
-            "source": "spacenews",
-            "text": "Blue Origin begins rebuilding New Glenn pad",
-            "source_link": "https://spacenews.com/blue-origin-begins-rebuilding-new-glenn-pad/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-18T11:29:33.146827Z",
-            "shown_at": [
-                "2026-06-18T11:29:33.964963Z",
-                "2026-06-18T17:34:56.086750Z"
-            ]
-        },
-        {
-            "id": "c9e312f9e840cb9dd3601f61a8428cb5",
-            "source": "spacenews",
-            "text": "Quantum Space wins Pentagon contract to develop orbital refueling spacecraft",
-            "source_link": "https://spacenews.com/quantum-space-wins-pentagon-contract-to-develop-orbital-refueling-spacecraft/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-18T11:29:33.146889Z",
-            "shown_at": [
-                "2026-06-18T12:05:13.584362Z"
-            ]
-        },
-        {
-            "id": "c9719752061a1d0f64b8e92d5eeb003e",
-            "source": "spacenews",
-            "text": "Boeing demonstrates quantum protocol in payload set for 2027 launch",
-            "source_link": "https://spacenews.com/boeing-demonstrates-quantum-protocol-in-payload-set-for-2027-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-18T12:39:23.248031Z",
-            "shown_at": [
-                "2026-06-18T12:39:25.623424Z"
-            ]
-        },
-        {
-            "id": "2f452bdc0ccbf26735aa3c2a5ed80206",
-            "source": "spacenews",
-            "text": "Swift reboost mission ready for launch",
-            "source_link": "https://spacenews.com/swift-reboost-mission-ready-for-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-18T12:39:23.248091Z",
-            "shown_at": [
-                "2026-06-18T13:14:41.519112Z"
-            ]
-        },
-        {
-            "id": "0f43aa5ea2a97028762161befebfb731",
-            "source": "spacenews",
-            "text": "What the satellite servicing economy can borrow from carbon credits",
-            "source_link": "https://spacenews.com/what-the-satellite-servicing-economy-can-borrow-from-carbon-credits/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-18T13:49:41.616574Z",
-            "shown_at": [
-                "2026-06-18T13:49:44.561375Z"
-            ]
-        },
-        {
-            "id": "131b5c677044662d9bd98521696f70de",
-            "source": "spacenews",
-            "text": "Chinese startup Spark Space tests engine, raises funds for electric-pump rocket",
-            "source_link": "https://spacenews.com/chinese-startup-spark-space-tests-engine-raises-funds-for-electric-pump-rocket/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-18T14:59:29.967388Z",
-            "shown_at": [
-                "2026-06-18T14:59:30.963376Z"
-            ]
-        },
-        {
-            "id": "11e111a266b6838379f7081d05f1639e",
-            "source": "breaking_defense",
-            "text": "Rheinmetall, Vantor plan joint ISR venture for Bundeswehr",
-            "source_link": "https://breakingdefense.com/2026/06/rheinmetall-vantor-plan-joint-isr-venture-for-bundeswehr/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-18T16:38:46.073384Z",
-            "shown_at": [
-                "2026-06-18T16:38:48.745602Z",
-                "2026-06-18T21:39:16.938904Z"
-            ]
-        },
-        {
-            "id": "35a538ddb0aedde63053ddcdef9add55",
-            "source": "spacenews",
-            "text": "Space Force’s rapid acquisition office director moves to Air Force Nuclear Weapons Center",
-            "source_link": "https://spacenews.com/space-forces-rapid-acquisition-office-director-moves-to-air-force-nuclear-weapons-center/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-18T18:37:27.006384Z",
-            "shown_at": [
-                "2026-06-18T18:37:28.775562Z"
-            ]
-        },
-        {
-            "id": "5ce44e025c47885c5a5624044af0807e",
-            "source": "spacenews",
-            "text": "EQT to acquire Exolaunch",
-            "source_link": "https://spacenews.com/eqt-to-acquire-exolaunch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-18T19:45:35.171180Z",
-            "shown_at": [
-                "2026-06-18T19:45:36.121778Z",
-                "2026-06-18T22:47:43.966842Z"
             ]
         }
     ]
