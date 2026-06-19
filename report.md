@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 18 | 17 | 39 |
-| breaking_defense | 0 | 1 | 9 | 12 |
+| breaking_defense | 0 | 1 | 10 | 13 |
 | nyt | 0 | 0 | 10 | 25 |
 
 # Shown Order
@@ -2550,3 +2550,4 @@
 - **Jun 19, 03:29 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 19, 04:04 PM** - MDA Space to buy Blue Canyon Technologies to gain foothold in U.S. market (spacenews)
 - **Jun 19, 04:39 PM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
+- **Jun 19, 05:14 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
