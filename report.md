@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 19 | 38 |
+| spacenews | 8 | 15 | 20 | 38 |
 | breaking_defense | 1 | 1 | 3 | 13 |
 | nyt | 0 | 1 | 13 | 25 |
 
@@ -2522,3 +2522,4 @@
 - **Jun 18, 10:47 PM** - EQT to acquire Exolaunch (spacenews)
 - **Jun 18, 11:29 PM** - Can the Artemis III Mission Go on as Planned? (nyt)
 - **Jun 19, 12:05 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
+- **Jun 19, 12:39 AM** - EQT to acquire Exolaunch (spacenews)
