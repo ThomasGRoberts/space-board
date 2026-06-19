@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-19T00:04:59.197037+00:00",
-    "trigger_count": 6,
-    "current_item_id": "154d88b8033073e1c1165a14dd58e579",
+    "trigger_count": 0,
+    "current_item_id": "a4de28b0c1bc91442ee95ea4be7520e1",
     "data": [
         {
             "id": "5ce44e025c47885c5a5624044af0807e",
@@ -8106,6 +8106,18 @@
             "fetched_datetime": "2026-06-19T14:19:28.269140Z",
             "shown_at": [
                 "2026-06-19T14:19:29.182892Z"
+            ]
+        },
+        {
+            "id": "a4de28b0c1bc91442ee95ea4be7520e1",
+            "source": "spacenews",
+            "text": "ElevationSpace Secures US $40 Million in Series B Funding, Bringing Total Raised to US $63.5 Million",
+            "source_link": "https://spacenews.com/elevationspace-secures-us-40-million-in-series-b-funding-bringing-total-raised-to-us-63-5-million/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-19T14:54:38.418047Z",
+            "shown_at": [
+                "2026-06-19T14:54:39.418488Z"
             ]
         }
     ]
