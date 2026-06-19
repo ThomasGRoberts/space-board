@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 18 | 17 | 39 |
 | breaking_defense | 0 | 1 | 10 | 12 |
-| nyt | 0 | 0 | 10 | 25 |
+| nyt | 0 | 0 | 11 | 26 |
 
 # Shown Order
 
@@ -2552,3 +2552,4 @@
 - **Jun 19, 04:39 PM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
 - **Jun 19, 05:14 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 19, 05:49 PM** - Sustained maneuver has a propulsion problem (spacenews)
+- **Jun 19, 06:24 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
