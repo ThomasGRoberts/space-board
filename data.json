@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-19T00:04:59.197037+00:00",
-    "trigger_count": 6,
-    "current_item_id": "205a4ffa2ab95bf05386588a54941a7f",
+    "trigger_count": 0,
+    "current_item_id": "04586d50fbc3b8d68456941203a18fab",
     "data": [
         {
             "id": "5ce44e025c47885c5a5624044af0807e",
@@ -8045,6 +8045,27 @@
                 "2026-06-19T07:04:49.847172Z",
                 "2026-06-19T08:54:22.953551Z"
             ]
+        },
+        {
+            "id": "04586d50fbc3b8d68456941203a18fab",
+            "source": "spacenews",
+            "text": "Chinese university-led mission to study asteroid Apophis during close encounter with Earth",
+            "source_link": "https://spacenews.com/chinese-university-led-mission-to-study-asteroid-apophis-during-close-encounter-with-earth/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-19T10:49:22.961097Z",
+            "shown_at": [
+                "2026-06-19T10:49:23.869849Z"
+            ]
+        },
+        {
+            "id": "7b977566721a541413ef86a8568af750",
+            "source": "spacenews",
+            "text": "Mu-g Technologies enters the parabolic flight business",
+            "source_link": "https://spacenews.com/mu-g-technologies-enters-the-parabolic-flight-business/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-06-19T10:49:22.961170Z"
         }
     ]
 }

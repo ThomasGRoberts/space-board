@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 15 | 17 | 37 |
+| spacenews | 11 | 17 | 18 | 38 |
 | breaking_defense | 1 | 1 | 8 | 12 |
 | nyt | 0 | 1 | 10 | 26 |
 
@@ -2539,3 +2539,4 @@
 - **Jun 19, 08:54 AM** - Austrian propulsion startup joins sovereign space funding surge (spacenews)
 - **Jun 19, 09:29 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 19, 10:09 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
+- **Jun 19, 10:49 AM** - Chinese university-led mission to study asteroid Apophis during close encounter with Earth (spacenews)
