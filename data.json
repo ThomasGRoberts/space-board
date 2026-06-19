@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-19T00:04:59.197037+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9705103f84e392d78f2095bf7b77a4ea",
+    "trigger_count": 0,
+    "current_item_id": "7d850f3ba85b0a965ec884ba06f435c6",
     "data": [
         {
             "id": "5ce44e025c47885c5a5624044af0807e",
@@ -8027,6 +8027,18 @@
                 "2026-04-19T06:38:52.754679Z",
                 "2026-04-19T13:04:45.220886Z",
                 "2026-04-19T17:49:18.768288Z"
+            ]
+        },
+        {
+            "id": "7d850f3ba85b0a965ec884ba06f435c6",
+            "source": "spacenews",
+            "text": "Austrian propulsion startup joins sovereign space funding surge",
+            "source_link": "https://spacenews.com/austrian-propulsion-startup-joins-sovereign-space-funding-surge/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-19T07:04:48.659041Z",
+            "shown_at": [
+                "2026-06-19T07:04:49.847172Z"
             ]
         }
     ]

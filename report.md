@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 14 | 18 | 38 |
+| spacenews | 9 | 15 | 19 | 39 |
 | breaking_defense | 1 | 1 | 6 | 12 |
 | nyt | 0 | 1 | 11 | 26 |
 
@@ -2533,3 +2533,4 @@
 - **Jun 19, 05:19 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 19, 05:54 AM** - Katalyst Space raises $12 million for GEO servicing demo mission (spacenews)
 - **Jun 19, 06:29 AM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
+- **Jun 19, 07:04 AM** - Austrian propulsion startup joins sovereign space funding surge (spacenews)
