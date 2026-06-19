@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 15 | 17 | 38 |
-| breaking_defense | 1 | 1 | 8 | 13 |
-| nyt | 0 | 1 | 10 | 25 |
+| breaking_defense | 1 | 1 | 8 | 12 |
+| nyt | 0 | 1 | 11 | 26 |
 
 # Shown Order
 
@@ -2538,3 +2538,4 @@
 - **Jun 19, 08:19 AM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
 - **Jun 19, 08:54 AM** - Austrian propulsion startup joins sovereign space funding surge (spacenews)
 - **Jun 19, 09:29 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
+- **Jun 19, 10:09 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
