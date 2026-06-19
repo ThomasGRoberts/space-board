@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 17 | 17 | 37 |
 | breaking_defense | 0 | 1 | 12 | 14 |
-| nyt | 0 | 0 | 11 | 25 |
+| nyt | 0 | 0 | 12 | 26 |
 
 # Shown Order
 
@@ -2561,3 +2561,4 @@
 - **Jun 19, 09:59 PM** - Can the Artemis III Mission Go on as Planned? (nyt)
 - **Jun 19, 10:34 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 19, 11:09 PM** - June 25:  Golden Dome: How Could Sensors Protect the United States? (spacenews)
+- **Jun 19, 11:44 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
