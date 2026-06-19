@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 14 | 19 | 37 |
+| spacenews | 8 | 14 | 20 | 38 |
 | breaking_defense | 1 | 1 | 4 | 13 |
 | nyt | 0 | 1 | 12 | 26 |
 
@@ -2525,3 +2525,4 @@
 - **Jun 19, 12:39 AM** - EQT to acquire Exolaunch (spacenews)
 - **Jun 19, 01:14 AM** - SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut (nyt)
 - **Jun 19, 01:49 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
+- **Jun 19, 02:24 AM** - China conducts 4 launches in 3 days, but silence follows Kuaizhou–11 launch (spacenews)
