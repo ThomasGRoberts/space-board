@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 17 | 16 | 37 |
+| spacenews | 9 | 17 | 17 | 37 |
 | breaking_defense | 0 | 1 | 12 | 14 |
 | nyt | 0 | 0 | 12 | 25 |
 
@@ -2560,3 +2560,4 @@
 - **Jun 19, 09:24 PM** - DARPA to explore ways to rapidly rebuild satellite networks if attacked (spacenews)
 - **Jun 19, 09:59 PM** - Can the Artemis III Mission Go on as Planned? (nyt)
 - **Jun 19, 10:34 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
+- **Jun 19, 11:09 PM** - June 25:  Golden Dome: How Could Sensors Protect the United States? (spacenews)
