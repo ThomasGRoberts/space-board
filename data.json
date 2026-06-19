@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-19T00:04:59.197037+00:00",
-    "trigger_count": 6,
-    "current_item_id": "11e111a266b6838379f7081d05f1639e",
+    "trigger_count": 0,
+    "current_item_id": "a6b3044bdefe35ebdc650ad0e096b97e",
     "data": [
         {
             "id": "5ce44e025c47885c5a5624044af0807e",
@@ -8136,6 +8136,18 @@
             "fetched_datetime": "2026-06-19T16:04:50.857653Z",
             "shown_at": [
                 "2026-06-19T16:04:52.118648Z"
+            ]
+        },
+        {
+            "id": "a6b3044bdefe35ebdc650ad0e096b97e",
+            "source": "spacenews",
+            "text": "India’s Jio lays out sovereign LEO constellation plan ahead of IPO",
+            "source_link": "https://spacenews.com/indias-jio-lays-out-sovereign-leo-constellation-plan-ahead-of-ipo/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-19T19:38:52.440587Z",
+            "shown_at": [
+                "2026-06-19T19:38:54.516492Z"
             ]
         }
     ]
