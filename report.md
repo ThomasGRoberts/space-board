@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 17 | 17 | 35 |
-| breaking_defense | 0 | 1 | 11 | 17 |
-| nyt | 0 | 0 | 12 | 24 |
+| breaking_defense | 0 | 1 | 12 | 18 |
+| nyt | 0 | 0 | 12 | 23 |
 
 # Shown Order
 
@@ -2539,3 +2539,4 @@
 - **Jun 20, 03:54 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 20, 04:29 AM** - Look Up and Skynopy partner on automated satellite collision avoidance service (spacenews)
 - **Jun 20, 05:04 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
+- **Jun 20, 05:39 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
