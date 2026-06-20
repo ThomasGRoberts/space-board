@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 17 | 17 | 34 |
 | breaking_defense | 0 | 1 | 12 | 20 |
-| nyt | 0 | 0 | 11 | 21 |
+| nyt | 0 | 0 | 12 | 22 |
 
 # Shown Order
 
@@ -2547,3 +2547,4 @@
 - **Jun 20, 08:49 AM** - Can the Artemis III Mission Go on as Planned? (nyt)
 - **Jun 20, 09:25 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 20, 10:09 AM** - MDA Space to buy Blue Canyon Technologies to gain foothold in U.S. market (spacenews)
+- **Jun 20, 10:44 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
