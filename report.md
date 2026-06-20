@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 17 | 17 | 36 |
 | breaking_defense | 0 | 1 | 12 | 16 |
-| nyt | 0 | 0 | 11 | 24 |
+| nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
 
@@ -2535,3 +2535,4 @@
 - **Jun 20, 01:29 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 20, 02:05 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 20, 02:44 AM** - The SpaceNews space unicorn tracker (spacenews)
+- **Jun 20, 03:19 AM** - Can the Artemis III Mission Go on as Planned? (nyt)
