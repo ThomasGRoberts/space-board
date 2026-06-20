@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 17 | 17 | 34 |
 | breaking_defense | 0 | 1 | 12 | 19 |
-| nyt | 0 | 0 | 11 | 22 |
+| nyt | 0 | 0 | 12 | 23 |
 
 # Shown Order
 
@@ -2544,3 +2544,4 @@
 - **Jun 20, 06:59 AM** - Can the Artemis III Mission Go on as Planned? (nyt)
 - **Jun 20, 07:34 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 20, 08:14 AM** - Sustained maneuver has a propulsion problem (spacenews)
+- **Jun 20, 08:49 AM** - Can the Artemis III Mission Go on as Planned? (nyt)
