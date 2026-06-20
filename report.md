@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 13 | 14 | 30 |
+| spacenews | 4 | 13 | 15 | 31 |
 | breaking_defense | 0 | 1 | 13 | 22 |
 | nyt | 0 | 0 | 13 | 23 |
 
@@ -2552,3 +2552,4 @@
 - **Jun 20, 11:54 AM** - Tianwen-2 makes series of burns on approach to asteroid, according to radio tracking  (spacenews)
 - **Jun 20, 12:34 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 20, 01:09 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
+- **Jun 20, 01:44 PM** - Swift reboost mission ready for launch (spacenews)
