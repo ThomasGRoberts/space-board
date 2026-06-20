@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 17 | 16 | 35 |
+| spacenews | 9 | 17 | 17 | 35 |
 | breaking_defense | 0 | 1 | 12 | 18 |
 | nyt | 0 | 0 | 12 | 23 |
 
@@ -2540,3 +2540,4 @@
 - **Jun 20, 04:29 AM** - Look Up and Skynopy partner on automated satellite collision avoidance service (spacenews)
 - **Jun 20, 05:04 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 20, 05:39 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
+- **Jun 20, 06:14 AM** - ElevationSpace Secures US $40 Million in Series B Funding, Bringing Total Raised to US $63.5 Million (spacenews)
