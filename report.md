@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 17 | 16 | 36 |
+| spacenews | 9 | 17 | 17 | 37 |
 | breaking_defense | 0 | 1 | 12 | 15 |
-| nyt | 0 | 0 | 12 | 25 |
+| nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
 
@@ -2531,3 +2531,4 @@
 - **Jun 19, 11:09 PM** - June 25:  Golden Dome: How Could Sensors Protect the United States? (spacenews)
 - **Jun 19, 11:44 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 20, 12:19 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
+- **Jun 20, 12:54 AM** - China conducts 4 launches in 3 days, but silence follows Kuaizhou–11 launch (spacenews)
