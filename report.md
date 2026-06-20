@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 17 | 16 | 34 |
+| spacenews | 8 | 17 | 17 | 35 |
 | breaking_defense | 0 | 1 | 12 | 19 |
 | nyt | 0 | 0 | 12 | 22 |
 
@@ -2543,3 +2543,4 @@
 - **Jun 20, 06:14 AM** - ElevationSpace Secures US $40 Million in Series B Funding, Bringing Total Raised to US $63.5 Million (spacenews)
 - **Jun 20, 06:59 AM** - Can the Artemis III Mission Go on as Planned? (nyt)
 - **Jun 20, 07:34 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
+- **Jun 20, 08:14 AM** - Sustained maneuver has a propulsion problem (spacenews)
