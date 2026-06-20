@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 17 | 16 | 36 |
+| spacenews | 9 | 17 | 17 | 36 |
 | breaking_defense | 0 | 1 | 12 | 16 |
 | nyt | 0 | 0 | 12 | 24 |
 
@@ -2534,3 +2534,4 @@
 - **Jun 20, 12:54 AM** - China conducts 4 launches in 3 days, but silence follows Kuaizhou–11 launch (spacenews)
 - **Jun 20, 01:29 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 20, 02:05 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
+- **Jun 20, 02:44 AM** - The SpaceNews space unicorn tracker (spacenews)
