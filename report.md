@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 17 | 16 | 34 |
-| breaking_defense | 0 | 1 | 12 | 18 |
+| breaking_defense | 0 | 1 | 13 | 19 |
 | nyt | 0 | 0 | 12 | 23 |
 
 # Shown Order
@@ -2542,3 +2542,4 @@
 - **Jun 20, 05:39 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 20, 06:14 AM** - ElevationSpace Secures US $40 Million in Series B Funding, Bringing Total Raised to US $63.5 Million (spacenews)
 - **Jun 20, 06:59 AM** - Can the Artemis III Mission Go on as Planned? (nyt)
+- **Jun 20, 07:34 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
