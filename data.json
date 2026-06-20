@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-20T00:04:56.792916+00:00",
-    "trigger_count": 6,
-    "current_item_id": "205a4ffa2ab95bf05386588a54941a7f",
+    "trigger_count": 0,
+    "current_item_id": "bf1b0ad794684c6eb5ab2c3b159b4ce8",
     "data": [
         {
             "id": "a6b3044bdefe35ebdc650ad0e096b97e",
@@ -8057,6 +8057,18 @@
                 "2026-04-16T01:34:21.914794Z",
                 "2026-04-18T21:19:19.266755Z",
                 "2026-04-19T15:29:08.845987Z"
+            ]
+        },
+        {
+            "id": "bf1b0ad794684c6eb5ab2c3b159b4ce8",
+            "source": "spacenews",
+            "text": "Astrobotic says sale to Voyager will allow it to scale up",
+            "source_link": "https://spacenews.com/astrobotic-says-sale-to-voyager-will-allow-it-to-scale-up/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-20T20:09:12.920446Z",
+            "shown_at": [
+                "2026-06-20T20:09:13.941207Z"
             ]
         }
     ]

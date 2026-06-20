@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 9 | 13 | 29 |
+| spacenews | 1 | 10 | 14 | 30 |
 | breaking_defense | 0 | 0 | 13 | 24 |
 | nyt | 0 | 0 | 14 | 25 |
 
@@ -2563,3 +2563,4 @@
 - **Jun 20, 06:24 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 20, 06:59 PM** - Upgraded Ariane 6 launches Amazon Leo satellites (spacenews)
 - **Jun 20, 07:34 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
+- **Jun 20, 08:09 PM** - Astrobotic says sale to Voyager will allow it to scale up (spacenews)
