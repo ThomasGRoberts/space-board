@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 17 | 16 | 33 |
+| spacenews | 8 | 17 | 17 | 34 |
 | breaking_defense | 0 | 1 | 12 | 20 |
-| nyt | 0 | 0 | 12 | 22 |
+| nyt | 0 | 0 | 11 | 22 |
 
 # Shown Order
 
@@ -2546,3 +2546,4 @@
 - **Jun 20, 08:14 AM** - Sustained maneuver has a propulsion problem (spacenews)
 - **Jun 20, 08:49 AM** - Can the Artemis III Mission Go on as Planned? (nyt)
 - **Jun 20, 09:25 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
+- **Jun 20, 10:09 AM** - MDA Space to buy Blue Canyon Technologies to gain foothold in U.S. market (spacenews)
