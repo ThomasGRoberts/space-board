@@ -1,9 +1,118 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-06-19T00:04:59.197037+00:00",
-    "trigger_count": 3,
+    "last_run_datetime": "2026-06-20T00:04:56.792916+00:00",
+    "trigger_count": 4,
     "current_item_id": "205a4ffa2ab95bf05386588a54941a7f",
     "data": [
+        {
+            "id": "a6b3044bdefe35ebdc650ad0e096b97e",
+            "source": "spacenews",
+            "text": "India’s Jio lays out sovereign LEO constellation plan ahead of IPO",
+            "source_link": "https://spacenews.com/indias-jio-lays-out-sovereign-leo-constellation-plan-ahead-of-ipo/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-19T19:38:52.440587Z",
+            "shown_at": [
+                "2026-06-19T19:38:54.516492Z"
+            ]
+        },
+        {
+            "id": "091d563fc5c4636dc2364cd3104b2167",
+            "source": "spacenews",
+            "text": "MDA Space to buy Blue Canyon Technologies to gain foothold in U.S. market",
+            "source_link": "https://spacenews.com/mda-space-to-buy-blue-canyon-technologies-to-gain-foothold-in-u-s-market/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-19T16:04:50.857653Z",
+            "shown_at": [
+                "2026-06-19T16:04:52.118648Z"
+            ]
+        },
+        {
+            "id": "a4de28b0c1bc91442ee95ea4be7520e1",
+            "source": "spacenews",
+            "text": "ElevationSpace Secures US $40 Million in Series B Funding, Bringing Total Raised to US $63.5 Million",
+            "source_link": "https://spacenews.com/elevationspace-secures-us-40-million-in-series-b-funding-bringing-total-raised-to-us-63-5-million/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-19T14:54:38.418047Z",
+            "shown_at": [
+                "2026-06-19T14:54:39.418488Z"
+            ]
+        },
+        {
+            "id": "154d88b8033073e1c1165a14dd58e579",
+            "source": "spacenews",
+            "text": "Northrop Grumman says industry ready to scale solid rocket production, with longer contracts",
+            "source_link": "https://spacenews.com/northrop-grumman-says-industry-ready-to-scale-solid-rocket-production-with-longer-contracts/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-19T14:19:28.269140Z",
+            "shown_at": [
+                "2026-06-19T14:19:29.182892Z"
+            ]
+        },
+        {
+            "id": "46f270d29ce3c7693386ab76c083c59b",
+            "source": "spacenews",
+            "text": "The MEO durability crisis: why LEO hardware will fail the new orbital economy ",
+            "source_link": "https://spacenews.com/the-meo-durability-crisis-why-leo-hardware-will-fail-the-new-orbital-economy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-19T13:09:36.329032Z",
+            "shown_at": [
+                "2026-06-19T13:09:37.546025Z"
+            ]
+        },
+        {
+            "id": "58c381d38092523dbe5368cb0353c5de",
+            "source": "spacenews",
+            "text": "NASA selects mission to study space weather interaction with Earth’s atmosphere",
+            "source_link": "https://spacenews.com/nasa-selects-mission-to-study-space-weather-interaction-with-earths-atmosphere/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-19T12:34:35.713625Z",
+            "shown_at": [
+                "2026-06-19T12:34:36.699165Z"
+            ]
+        },
+        {
+            "id": "7b977566721a541413ef86a8568af750",
+            "source": "spacenews",
+            "text": "Mu-g Technologies enters the parabolic flight business",
+            "source_link": "https://spacenews.com/mu-g-technologies-enters-the-parabolic-flight-business/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-19T10:49:22.961170Z",
+            "shown_at": [
+                "2026-06-19T11:24:20.796618Z"
+            ]
+        },
+        {
+            "id": "04586d50fbc3b8d68456941203a18fab",
+            "source": "spacenews",
+            "text": "Chinese university-led mission to study asteroid Apophis during close encounter with Earth",
+            "source_link": "https://spacenews.com/chinese-university-led-mission-to-study-asteroid-apophis-during-close-encounter-with-earth/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-19T10:49:22.961097Z",
+            "shown_at": [
+                "2026-06-19T10:49:23.869849Z"
+            ]
+        },
+        {
+            "id": "7d850f3ba85b0a965ec884ba06f435c6",
+            "source": "spacenews",
+            "text": "Austrian propulsion startup joins sovereign space funding surge",
+            "source_link": "https://spacenews.com/austrian-propulsion-startup-joins-sovereign-space-funding-surge/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-19T07:04:48.659041Z",
+            "shown_at": [
+                "2026-06-19T07:04:49.847172Z",
+                "2026-06-19T08:54:22.953551Z"
+            ]
+        },
         {
             "id": "5ce44e025c47885c5a5624044af0807e",
             "source": "spacenews",
@@ -7915,246 +8024,6 @@
                 "2026-04-16T01:34:21.914794Z",
                 "2026-04-18T21:19:19.266755Z",
                 "2026-04-19T15:29:08.845987Z"
-            ]
-        },
-        {
-            "id": "626ab1596b8bfe1103e8028fa4950b53",
-            "source": "spacenews",
-            "text": "Tendeg Delivers First Antenna from New Industrial Production Facility, Targets 100+ Deployable Apertures Annually",
-            "source_link": "https://spacenews.com/tendeg-delivers-first-antenna-from-new-industrial-production-facility-targets-100-deployable-apertures-annually/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-14T10:59:04.633468Z",
-            "shown_at": [
-                "2026-04-14T10:59:05.498175Z",
-                "2026-04-17T06:14:15.158769Z",
-                "2026-04-17T18:29:33.521338Z",
-                "2026-04-18T11:59:02.167332Z",
-                "2026-04-20T00:19:10.011156Z",
-                "2026-04-21T03:49:16.845979Z",
-                "2026-04-21T09:49:20.068765Z"
-            ]
-        },
-        {
-            "id": "26196b1c1b60448ee974d59caad7e8ac",
-            "source": "spacenews",
-            "text": "Jielong-3 launches internet test satellite, Kinetica-1 lofts 8 remote sensing sats",
-            "source_link": "https://spacenews.com/jielong-3-launches-internet-test-satellite-kinetica-1-lofts-8-remote-sensing-sats/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-14T09:49:11.291564Z",
-            "shown_at": [
-                "2026-04-14T10:24:24.106961Z",
-                "2026-04-15T17:59:04.819605Z",
-                "2026-04-16T11:29:08.127512Z"
-            ]
-        },
-        {
-            "id": "c425b1ff5084a05d626bbffbe09715b4",
-            "source": "spacenews",
-            "text": "L3Harris investing upfront in bid for Golden Dome work",
-            "source_link": "https://spacenews.com/l3harris-investing-upfront-in-bid-for-golden-dome-work/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-14T09:49:11.291507Z",
-            "shown_at": [
-                "2026-04-14T09:49:11.939054Z"
-            ]
-        },
-        {
-            "id": "069d2d86c7256a16e207ab1e0b3b8e9a",
-            "source": "spacenews",
-            "text": "President Trump signs legislation reauthorizing SBIR",
-            "source_link": "https://spacenews.com/president-trump-signs-legislation-reauthorizing-sbir/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-14T03:24:17.442637Z",
-            "shown_at": [
-                "2026-04-14T03:24:18.390764Z",
-                "2026-04-16T15:39:20.171120Z",
-                "2026-04-18T02:39:01.348503Z",
-                "2026-04-19T07:49:13.979943Z"
-            ]
-        },
-        {
-            "id": "177aa1dae828c45c0e09107773e09b86",
-            "source": "spacenews",
-            "text": "Washington agrees on space urgency, but not on how to deliver",
-            "source_link": "https://spacenews.com/washington-agrees-on-space-urgency-but-not-on-how-to-deliver/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-13T22:44:11.426396Z",
-            "shown_at": [
-                "2026-04-13T22:44:12.719824Z",
-                "2026-04-18T00:19:18.621173Z"
-            ]
-        },
-        {
-            "id": "00280be968486fc1707a567b6a489538",
-            "source": "spacenews",
-            "text": "Q&A: Heather Pringle on what to expect from Space Symposium",
-            "source_link": "https://spacenews.com/qa-heather-pringle-on-what-to-expect-from-space-symposium/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-13T22:09:12.945175Z",
-            "shown_at": [
-                "2026-04-13T22:09:13.872479Z",
-                "2026-04-15T03:59:20.989093Z",
-                "2026-04-17T21:24:03.569408Z",
-                "2026-04-19T16:39:36.976808Z"
-            ]
-        },
-        {
-            "id": "c6dacda2caa8142f17bf96cfa40e507f",
-            "source": "spacenews",
-            "text": "Amazon reveals aviation antenna as LEO inflight connectivity race intensifies",
-            "source_link": "https://spacenews.com/amazon-reveals-aviation-antenna-as-leo-inflight-connectivity-race-intensifies/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-13T19:14:22.123483Z",
-            "shown_at": [
-                "2026-04-13T21:34:25.951588Z",
-                "2026-04-18T07:19:10.604776Z",
-                "2026-04-20T15:34:33.422108Z"
-            ]
-        },
-        {
-            "id": "c8658b706220355faf3aa53a09700cee",
-            "source": "spacenews",
-            "text": "The path to $50 billion in new space investment",
-            "source_link": "https://spacenews.com/the-path-to-50-billion-in-new-space-investment/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-13T19:14:22.123450Z",
-            "shown_at": [
-                "2026-04-13T20:59:21.540041Z",
-                "2026-04-18T22:29:10.761071Z"
-            ]
-        },
-        {
-            "id": "688f5715e5e30e829944c7843b80cfd9",
-            "source": "spacenews",
-            "text": "Spring fever pitch: Three questions to listen for this Space Symposium",
-            "source_link": "https://spacenews.com/spring-fever-pitch-three-questions-to-listen-for-this-space-symposium/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-13T19:14:22.123416Z",
-            "shown_at": [
-                "2026-04-13T20:24:29.337096Z",
-                "2026-04-17T00:24:22.176353Z",
-                "2026-04-18T08:29:09.310114Z",
-                "2026-04-19T06:38:52.754679Z",
-                "2026-04-19T13:04:45.220886Z",
-                "2026-04-19T17:49:18.768288Z"
-            ]
-        },
-        {
-            "id": "7d850f3ba85b0a965ec884ba06f435c6",
-            "source": "spacenews",
-            "text": "Austrian propulsion startup joins sovereign space funding surge",
-            "source_link": "https://spacenews.com/austrian-propulsion-startup-joins-sovereign-space-funding-surge/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-19T07:04:48.659041Z",
-            "shown_at": [
-                "2026-06-19T07:04:49.847172Z",
-                "2026-06-19T08:54:22.953551Z"
-            ]
-        },
-        {
-            "id": "04586d50fbc3b8d68456941203a18fab",
-            "source": "spacenews",
-            "text": "Chinese university-led mission to study asteroid Apophis during close encounter with Earth",
-            "source_link": "https://spacenews.com/chinese-university-led-mission-to-study-asteroid-apophis-during-close-encounter-with-earth/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-19T10:49:22.961097Z",
-            "shown_at": [
-                "2026-06-19T10:49:23.869849Z"
-            ]
-        },
-        {
-            "id": "7b977566721a541413ef86a8568af750",
-            "source": "spacenews",
-            "text": "Mu-g Technologies enters the parabolic flight business",
-            "source_link": "https://spacenews.com/mu-g-technologies-enters-the-parabolic-flight-business/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-19T10:49:22.961170Z",
-            "shown_at": [
-                "2026-06-19T11:24:20.796618Z"
-            ]
-        },
-        {
-            "id": "58c381d38092523dbe5368cb0353c5de",
-            "source": "spacenews",
-            "text": "NASA selects mission to study space weather interaction with Earth’s atmosphere",
-            "source_link": "https://spacenews.com/nasa-selects-mission-to-study-space-weather-interaction-with-earths-atmosphere/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-19T12:34:35.713625Z",
-            "shown_at": [
-                "2026-06-19T12:34:36.699165Z"
-            ]
-        },
-        {
-            "id": "46f270d29ce3c7693386ab76c083c59b",
-            "source": "spacenews",
-            "text": "The MEO durability crisis: why LEO hardware will fail the new orbital economy ",
-            "source_link": "https://spacenews.com/the-meo-durability-crisis-why-leo-hardware-will-fail-the-new-orbital-economy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-19T13:09:36.329032Z",
-            "shown_at": [
-                "2026-06-19T13:09:37.546025Z"
-            ]
-        },
-        {
-            "id": "154d88b8033073e1c1165a14dd58e579",
-            "source": "spacenews",
-            "text": "Northrop Grumman says industry ready to scale solid rocket production, with longer contracts",
-            "source_link": "https://spacenews.com/northrop-grumman-says-industry-ready-to-scale-solid-rocket-production-with-longer-contracts/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-19T14:19:28.269140Z",
-            "shown_at": [
-                "2026-06-19T14:19:29.182892Z"
-            ]
-        },
-        {
-            "id": "a4de28b0c1bc91442ee95ea4be7520e1",
-            "source": "spacenews",
-            "text": "ElevationSpace Secures US $40 Million in Series B Funding, Bringing Total Raised to US $63.5 Million",
-            "source_link": "https://spacenews.com/elevationspace-secures-us-40-million-in-series-b-funding-bringing-total-raised-to-us-63-5-million/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-19T14:54:38.418047Z",
-            "shown_at": [
-                "2026-06-19T14:54:39.418488Z"
-            ]
-        },
-        {
-            "id": "091d563fc5c4636dc2364cd3104b2167",
-            "source": "spacenews",
-            "text": "MDA Space to buy Blue Canyon Technologies to gain foothold in U.S. market",
-            "source_link": "https://spacenews.com/mda-space-to-buy-blue-canyon-technologies-to-gain-foothold-in-u-s-market/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-19T16:04:50.857653Z",
-            "shown_at": [
-                "2026-06-19T16:04:52.118648Z"
-            ]
-        },
-        {
-            "id": "a6b3044bdefe35ebdc650ad0e096b97e",
-            "source": "spacenews",
-            "text": "India’s Jio lays out sovereign LEO constellation plan ahead of IPO",
-            "source_link": "https://spacenews.com/indias-jio-lays-out-sovereign-leo-constellation-plan-ahead-of-ipo/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-19T19:38:52.440587Z",
-            "shown_at": [
-                "2026-06-19T19:38:54.516492Z"
             ]
         }
     ]
