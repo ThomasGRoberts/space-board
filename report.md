@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 11 | 13 | 30 |
-| breaking_defense | 0 | 1 | 13 | 23 |
-| nyt | 0 | 0 | 14 | 23 |
+| breaking_defense | 0 | 0 | 14 | 23 |
+| nyt | 0 | 0 | 13 | 23 |
 
 # Shown Order
 
@@ -2557,3 +2557,4 @@
 - **Jun 20, 02:54 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 20, 03:29 PM** - DARPA to explore ways to rapidly rebuild satellite networks if attacked (spacenews)
 - **Jun 20, 04:04 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
+- **Jun 20, 04:39 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
