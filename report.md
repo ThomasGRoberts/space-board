@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 10 | 14 | 30 |
 | breaking_defense | 0 | 0 | 13 | 25 |
-| nyt | 0 | 0 | 13 | 25 |
+| nyt | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -2576,3 +2576,4 @@
 - **Jun 21, 04:19 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 21, 04:59 AM** - Geospatial industry launches maritime initiative (spacenews)
 - **Jun 21, 05:34 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
+- **Jun 21, 06:09 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
