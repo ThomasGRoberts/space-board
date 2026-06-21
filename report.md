@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 3 | 14 | 27 |
-| breaking_defense | 0 | 0 | 13 | 27 |
+| spacenews | 1 | 3 | 14 | 28 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 14 | 27 |
 
 # Shown Order
@@ -2592,3 +2592,4 @@
 - **Jun 21, 01:49 PM** - Upgraded Ariane 6 launches Amazon Leo satellites (spacenews)
 - **Jun 21, 02:24 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 21, 02:59 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
+- **Jun 21, 03:34 PM** - MDA Space to buy Blue Canyon Technologies to gain foothold in U.S. market (spacenews)
