@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 7 | 13 | 29 |
-| breaking_defense | 0 | 0 | 13 | 26 |
+| spacenews | 1 | 7 | 14 | 30 |
+| breaking_defense | 0 | 0 | 13 | 25 |
 | nyt | 0 | 0 | 14 | 26 |
 
 # Shown Order
@@ -2586,3 +2586,4 @@
 - **Jun 21, 10:19 AM** - Chinese startup Spark Space tests engine, raises funds for electric-pump rocket (spacenews)
 - **Jun 21, 10:54 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 21, 11:29 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
+- **Jun 21, 12:04 PM** - Dawn Aerospace raises $25 million (spacenews)
