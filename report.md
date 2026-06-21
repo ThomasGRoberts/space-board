@@ -8,7 +8,6 @@
 
 # Shown Order
 
-- **Apr 14, 12:09 PM** - Ecliptic Enterprises and The Extraterrestrial Investment Company Announce Strategic Agreement (spacenews)
 - **Apr 14, 12:44 PM** - Axiom Space plans 2027 flight test of spacesuit (spacenews)
 - **Apr 14, 01:19 PM** - AI and geopolitics spur space investment surge (spacenews)
 - **Apr 14, 01:54 PM** - Eutelsat’s U.S. arm pitches hosted payloads deals on OneWeb satellites (spacenews)
@@ -48,7 +47,6 @@
 - **Apr 15, 10:38 PM** - Emerson Launches Innovative Software-Driven Method for High-Fidelity Aerospace RF Testing (spacenews)
 - **Apr 15, 11:14 PM** - The Infrastructure Layer U.S. Space Superiority Has Been Missing (spacenews)
 - **Apr 16, 12:24 AM** - Amazon buys Globalstar to catapult into direct-to-device race (spacenews)
-- **Apr 16, 01:34 AM** - Ecliptic Enterprises and The Extraterrestrial Investment Company Announce Strategic Agreement (spacenews)
 - **Apr 16, 03:19 AM** - Space Force reorg signals end of SDA as standalone agency (spacenews)
 - **Apr 16, 05:39 AM** - Novaspace and OGC Unveil the China Space Industry Intelligence Catalog (spacenews)
 - **Apr 16, 06:49 AM** - Kepler to lead interoperability tests for ESA’s HydRON optical relay network (spacenews)
@@ -106,7 +104,6 @@
 - **Apr 18, 07:34 PM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
 - **Apr 18, 08:09 PM** - Commercial Space Federation (CSF) Welcomes ispace-U.S. to Board of Directors (spacenews)
 - **Apr 18, 08:44 PM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
-- **Apr 18, 09:19 PM** - Ecliptic Enterprises and The Extraterrestrial Investment Company Announce Strategic Agreement (spacenews)
 - **Apr 18, 11:04 PM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
 - **Apr 18, 11:39 PM** - Archangel Lightworks Raises Over $13.5m In Series A Funding Round (spacenews)
 - **Apr 19, 12:14 AM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
@@ -129,7 +126,6 @@
 - **Apr 19, 01:44 PM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
 - **Apr 19, 02:19 PM** - Third New Glenn launch suffers upper stage malfunction (spacenews)
 - **Apr 19, 02:54 PM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
-- **Apr 19, 03:29 PM** - Ecliptic Enterprises and The Extraterrestrial Investment Company Announce Strategic Agreement (spacenews)
 - **Apr 19, 04:04 PM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
 - **Apr 19, 05:14 PM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
 - **Apr 19, 06:29 PM** - Space Force weighs Vulcan flights without solid boosters  (spacenews)

@@ -1,9 +1,21 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-06-20T00:04:56.792916+00:00",
-    "trigger_count": 4,
+    "last_run_datetime": "2026-06-21T00:04:57.136601+00:00",
+    "trigger_count": 5,
     "current_item_id": "0f43aa5ea2a97028762161befebfb731",
     "data": [
+        {
+            "id": "bf1b0ad794684c6eb5ab2c3b159b4ce8",
+            "source": "spacenews",
+            "text": "Astrobotic says sale to Voyager will allow it to scale up",
+            "source_link": "https://spacenews.com/astrobotic-says-sale-to-voyager-will-allow-it-to-scale-up/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-20T20:09:12.920446Z",
+            "shown_at": [
+                "2026-06-20T20:09:13.941207Z"
+            ]
+        },
         {
             "id": "a6b3044bdefe35ebdc650ad0e096b97e",
             "source": "spacenews",
@@ -8048,33 +8060,6 @@
             "fetched_datetime": "2026-04-14T12:09:28.301920Z",
             "shown_at": [
                 "2026-04-14T12:44:21.151524Z"
-            ]
-        },
-        {
-            "id": "6ccebffedfc410c2366fa18376f0e5ca",
-            "source": "spacenews",
-            "text": "Ecliptic Enterprises and The Extraterrestrial Investment Company Announce Strategic Agreement",
-            "source_link": "https://spacenews.com/ecliptic-enterprises-and-the-extraterrestrial-investment-company-extraterrestrial-announce-strategic-agreement/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-14T12:09:28.301840Z",
-            "shown_at": [
-                "2026-04-14T12:09:29.539245Z",
-                "2026-04-16T01:34:21.914794Z",
-                "2026-04-18T21:19:19.266755Z",
-                "2026-04-19T15:29:08.845987Z"
-            ]
-        },
-        {
-            "id": "bf1b0ad794684c6eb5ab2c3b159b4ce8",
-            "source": "spacenews",
-            "text": "Astrobotic says sale to Voyager will allow it to scale up",
-            "source_link": "https://spacenews.com/astrobotic-says-sale-to-voyager-will-allow-it-to-scale-up/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-20T20:09:12.920446Z",
-            "shown_at": [
-                "2026-06-20T20:09:13.941207Z"
             ]
         }
     ]
