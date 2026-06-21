@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 10 | 14 | 31 |
-| breaking_defense | 0 | 0 | 13 | 24 |
+| breaking_defense | 0 | 0 | 14 | 25 |
 | nyt | 0 | 0 | 13 | 25 |
 
 # Shown Order
@@ -2566,3 +2566,4 @@
 - **Jun 20, 10:29 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 20, 11:04 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 20, 11:39 PM** - What the satellite servicing economy can borrow from carbon credits (spacenews)
+- **Jun 21, 12:14 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
