@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 10 | 14 | 30 |
 | breaking_defense | 0 | 0 | 13 | 25 |
-| nyt | 0 | 0 | 13 | 25 |
+| nyt | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -2570,3 +2570,4 @@
 - **Jun 21, 12:49 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 21, 01:24 AM** - India’s Jio lays out sovereign LEO constellation plan ahead of IPO (spacenews)
 - **Jun 21, 01:59 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
+- **Jun 21, 02:34 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
