@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 1 | 10 | 13 | 30 |
+| spacenews | 1 | 10 | 14 | 31 |
 | breaking_defense | 0 | 0 | 13 | 25 |
 | nyt | 0 | 0 | 14 | 25 |
 
@@ -2577,3 +2577,4 @@
 - **Jun 21, 04:59 AM** - Geospatial industry launches maritime initiative (spacenews)
 - **Jun 21, 05:34 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 21, 06:09 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
+- **Jun 21, 06:44 AM** - Northrop Grumman says industry ready to scale solid rocket production, with longer contracts (spacenews)
