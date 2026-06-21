@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 9 | 14 | 30 |
 | breaking_defense | 0 | 0 | 13 | 25 |
-| nyt | 0 | 0 | 13 | 25 |
+| nyt | 0 | 0 | 14 | 26 |
 
 # Shown Order
 
@@ -2579,3 +2579,4 @@
 - **Jun 21, 06:09 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 21, 06:44 AM** - Northrop Grumman says industry ready to scale solid rocket production, with longer contracts (spacenews)
 - **Jun 21, 07:19 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
+- **Jun 21, 07:59 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
