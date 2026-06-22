@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 14 | 28 |
+| spacenews | 3 | 4 | 15 | 29 |
 | breaking_defense | 0 | 0 | 12 | 26 |
 | nyt | 0 | 0 | 13 | 26 |
 
@@ -2636,3 +2636,4 @@
 - **Jun 22, 04:19 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 22, 04:54 PM** - Northrop Grumman says industry ready to scale solid rocket production, with longer contracts (spacenews)
 - **Jun 22, 05:29 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
+- **Jun 22, 06:05 PM** - Chinese spaceplane releases object into orbit, according to commercial space surveillance (spacenews)

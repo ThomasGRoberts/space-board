@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-22T00:04:41.925168+00:00",
-    "trigger_count": 6,
-    "current_item_id": "205a4ffa2ab95bf05386588a54941a7f",
+    "trigger_count": 0,
+    "current_item_id": "73c96ebf950e64ba615a97f21ea5d0ad",
     "data": [
         {
             "id": "bf1b0ad794684c6eb5ab2c3b159b4ce8",
@@ -8152,6 +8152,18 @@
             "fetched_datetime": "2026-06-22T13:09:40.747357Z",
             "shown_at": [
                 "2026-06-22T13:09:41.744570Z"
+            ]
+        },
+        {
+            "id": "73c96ebf950e64ba615a97f21ea5d0ad",
+            "source": "spacenews",
+            "text": "Chinese spaceplane releases object into orbit, according to commercial space surveillance",
+            "source_link": "https://spacenews.com/chinese-spaceplane-releases-object-into-orbit-according-to-commercial-space-surveillance/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-22T18:05:09.014951Z",
+            "shown_at": [
+                "2026-06-22T18:05:11.460536Z"
             ]
         }
     ]
