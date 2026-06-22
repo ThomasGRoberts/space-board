@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 15 | 29 |
+| spacenews | 2 | 3 | 15 | 28 |
 | breaking_defense | 0 | 0 | 13 | 26 |
-| nyt | 0 | 0 | 12 | 26 |
+| nyt | 0 | 0 | 13 | 27 |
 
 # Shown Order
 
@@ -2629,3 +2629,4 @@
 - **Jun 22, 11:59 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 22, 12:34 PM** - Astroscale raises funding to support growth strategy (spacenews)
 - **Jun 22, 01:09 PM** - America is about to cede Africa’s space industry to China, and nobody’s talking about it. (spacenews)
+- **Jun 22, 01:44 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
