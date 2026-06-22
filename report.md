@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 3 | 14 | 28 |
+| spacenews | 2 | 3 | 15 | 29 |
 | breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 12 | 26 |
 
@@ -2631,3 +2631,4 @@
 - **Jun 22, 01:09 PM** - America is about to cede Africa’s space industry to China, and nobody’s talking about it. (spacenews)
 - **Jun 22, 01:44 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 22, 02:19 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
+- **Jun 22, 03:09 PM** - A UN agency that works for US space (spacenews)
