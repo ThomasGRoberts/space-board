@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-22T00:04:41.925168+00:00",
-    "trigger_count": 6,
-    "current_item_id": "11e111a266b6838379f7081d05f1639e",
+    "trigger_count": 0,
+    "current_item_id": "62692580e6b2cc37529b36a98506758d",
     "data": [
         {
             "id": "bf1b0ad794684c6eb5ab2c3b159b4ce8",
@@ -8168,6 +8168,18 @@
             "fetched_datetime": "2026-06-22T18:05:09.014951Z",
             "shown_at": [
                 "2026-06-22T18:05:11.460536Z"
+            ]
+        },
+        {
+            "id": "62692580e6b2cc37529b36a98506758d",
+            "source": "spacenews",
+            "text": "Rocket Lab launches satellite for U.S. Space Force Victus Haze responsive space exercise",
+            "source_link": "https://spacenews.com/rocket-lab-launches-satellite-for-u-s-space-force-victus-haze-responsive-space-exercise/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-22T20:59:34.523290Z",
+            "shown_at": [
+                "2026-06-22T20:59:35.459565Z"
             ]
         }
     ]
