@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 5 | 15 | 28 |
+| spacenews | 5 | 5 | 16 | 29 |
 | breaking_defense | 0 | 0 | 12 | 26 |
 | nyt | 0 | 0 | 13 | 26 |
 
@@ -2646,3 +2646,4 @@
 - **Jun 22, 10:09 PM** - Trump executive order directs NASA to plan quantum space applications (spacenews)
 - **Jun 22, 10:44 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 22, 11:19 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
+- **Jun 22, 11:54 PM** - Relativity Space to privately develop Mars orbiter mission (spacenews)
