@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-22T00:04:41.925168+00:00",
-    "trigger_count": 6,
-    "current_item_id": "eed0583237f57feaed543be3ea0830df",
+    "trigger_count": 0,
+    "current_item_id": "fb4f191b1254779751c25e34c3313139",
     "data": [
         {
             "id": "bf1b0ad794684c6eb5ab2c3b159b4ce8",
@@ -8133,6 +8133,18 @@
             "fetched_datetime": "2026-06-22T12:34:53.883477Z",
             "shown_at": [
                 "2026-06-22T12:34:54.636643Z"
+            ]
+        },
+        {
+            "id": "fb4f191b1254779751c25e34c3313139",
+            "source": "spacenews",
+            "text": "America is about to cede Africa’s space industry to China, and nobody’s talking about it.",
+            "source_link": "https://spacenews.com/america-is-about-to-cede-africas-space-industry-to-china-and-nobodys-talking-about-it/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-22T13:09:40.747357Z",
+            "shown_at": [
+                "2026-06-22T13:09:41.744570Z"
             ]
         }
     ]
