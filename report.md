@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 4 | 15 | 28 |
+| spacenews | 5 | 5 | 16 | 29 |
 | breaking_defense | 0 | 0 | 12 | 26 |
 | nyt | 0 | 0 | 13 | 26 |
 
@@ -2643,3 +2643,4 @@
 - **Jun 22, 08:24 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 22, 08:59 PM** - Rocket Lab launches satellite for U.S. Space Force Victus Haze responsive space exercise (spacenews)
 - **Jun 22, 09:34 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
+- **Jun 22, 10:09 PM** - Trump executive order directs NASA to plan quantum space applications (spacenews)

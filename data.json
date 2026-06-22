@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-22T00:04:41.925168+00:00",
-    "trigger_count": 6,
-    "current_item_id": "205a4ffa2ab95bf05386588a54941a7f",
+    "trigger_count": 0,
+    "current_item_id": "a3e01973cb4ee720590eba5e97523faf",
     "data": [
         {
             "id": "bf1b0ad794684c6eb5ab2c3b159b4ce8",
@@ -8181,6 +8181,18 @@
             "fetched_datetime": "2026-06-22T20:59:34.523290Z",
             "shown_at": [
                 "2026-06-22T20:59:35.459565Z"
+            ]
+        },
+        {
+            "id": "a3e01973cb4ee720590eba5e97523faf",
+            "source": "spacenews",
+            "text": "Trump executive order directs NASA to plan quantum space applications",
+            "source_link": "https://spacenews.com/trump-signs-executive-order-to-accelerate-quantum-space-infrastructure/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-22T22:09:14.605032Z",
+            "shown_at": [
+                "2026-06-22T22:09:15.531449Z"
             ]
         }
     ]
