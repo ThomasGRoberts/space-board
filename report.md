@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 8 | 17 | 31 |
 | breaking_defense | 0 | 0 | 12 | 25 |
-| nyt | 0 | 0 | 11 | 24 |
+| nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
 
@@ -2655,3 +2655,4 @@
 - **Jun 23, 09:59 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 23, 10:39 AM** - China appears to be developing 7-meter-diameter reusable rockets (spacenews)
 - **Jun 23, 11:14 AM** - Report: U.S. needs framework for responding to hostile acts in space (spacenews)
+- **Jun 23, 11:49 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
