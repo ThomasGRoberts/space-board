@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 6 | 16 | 30 |
-| breaking_defense | 0 | 0 | 12 | 25 |
+| breaking_defense | 0 | 0 | 13 | 26 |
 | nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
@@ -2640,3 +2640,4 @@
 - **Jun 23, 01:05 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 23, 01:39 AM** - The SpaceNews space unicorn tracker (spacenews)
 - **Jun 23, 02:14 AM** - NASA and Boeing still uncertain about when Starliner will return to flight (spacenews)
+- **Jun 23, 02:49 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
