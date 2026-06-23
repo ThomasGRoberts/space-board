@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-23T00:04:53.387211+00:00",
-    "trigger_count": 6,
-    "current_item_id": "11e111a266b6838379f7081d05f1639e",
+    "trigger_count": 0,
+    "current_item_id": "647fd3dbae9398bc516032633e4085f6",
     "data": [
         {
             "id": "a3e01973cb4ee720590eba5e97523faf",
@@ -8159,6 +8159,27 @@
                 "2026-06-23T02:14:42.127423Z",
                 "2026-06-23T03:59:30.640574Z"
             ]
+        },
+        {
+            "id": "647fd3dbae9398bc516032633e4085f6",
+            "source": "spacenews",
+            "text": "China appears to be developing 7-meter-diameter reusable rockets",
+            "source_link": "https://spacenews.com/china-appears-to-be-developing-7-meter-diameter-reusable-rockets/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-23T10:39:19.799175Z",
+            "shown_at": [
+                "2026-06-23T10:39:20.692461Z"
+            ]
+        },
+        {
+            "id": "c9dd3856299f01a489fa3078bc74e05b",
+            "source": "spacenews",
+            "text": "Report: U.S. needs framework for responding to hostile acts in space",
+            "source_link": "https://spacenews.com/report-u-s-needs-framework-for-responding-to-hostile-acts-in-space/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-06-23T10:39:19.799244Z"
         }
     ]
 }
