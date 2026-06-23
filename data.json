@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-23T00:04:53.387211+00:00",
-    "trigger_count": 6,
-    "current_item_id": "6c978a8feaaf4a75935a067e58df8ca9",
+    "trigger_count": 0,
+    "current_item_id": "67d59b94d7e42c09a1abe28b0aaca742",
     "data": [
         {
             "id": "a3e01973cb4ee720590eba5e97523faf",
@@ -8133,6 +8133,18 @@
                 "2026-04-14T15:39:36.023017Z",
                 "2026-04-17T07:24:16.978773Z",
                 "2026-04-18T23:39:19.611070Z"
+            ]
+        },
+        {
+            "id": "67d59b94d7e42c09a1abe28b0aaca742",
+            "source": "spacenews",
+            "text": "NASA and Boeing still uncertain about when Starliner will return to flight",
+            "source_link": "https://spacenews.com/nasa-and-boeing-still-uncertain-about-when-starliner-will-return-to-flight/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-23T02:14:41.195828Z",
+            "shown_at": [
+                "2026-06-23T02:14:42.127423Z"
             ]
         }
     ]
