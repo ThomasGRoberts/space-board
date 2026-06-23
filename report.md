@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 6 | 16 | 29 |
+| spacenews | 6 | 6 | 17 | 30 |
 | breaking_defense | 0 | 0 | 12 | 25 |
 | nyt | 0 | 0 | 12 | 26 |
 
@@ -2648,3 +2648,4 @@
 - **Jun 23, 05:49 AM** - NASA selects mission to study space weather interaction with Earth’s atmosphere (spacenews)
 - **Jun 23, 06:29 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 23, 07:04 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
+- **Jun 23, 07:39 AM** - America is about to cede Africa’s space industry to China, and nobody’s talking about it. (spacenews)
