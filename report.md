@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 10 | 16 | 31 |
+| spacenews | 8 | 10 | 17 | 32 |
 | breaking_defense | 0 | 0 | 12 | 25 |
 | nyt | 0 | 0 | 12 | 24 |
 
@@ -2661,3 +2661,4 @@
 - **Jun 23, 01:35 PM** - Loft Orbital to test AI models on spacecraft for Earth observation (spacenews)
 - **Jun 23, 02:14 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 23, 02:49 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
+- **Jun 23, 03:29 PM** - Astrobotic unveils Griffin-1 lunar lander (spacenews)
