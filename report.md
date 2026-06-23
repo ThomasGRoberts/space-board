@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 14 | 17 | 33 |
-| breaking_defense | 0 | 0 | 12 | 24 |
+| spacenews | 10 | 15 | 18 | 34 |
+| breaking_defense | 0 | 0 | 11 | 24 |
 | nyt | 0 | 0 | 11 | 23 |
 
 # Shown Order
@@ -2673,3 +2673,4 @@
 - **Jun 23, 08:59 PM** - Boeing demonstrates quantum protocol in payload set for 2027 launch (spacenews)
 - **Jun 23, 09:34 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 23, 10:09 PM** - Boeing wins $2 billion Space Force contract for communications satellites (spacenews)
+- **Jun 23, 10:44 PM** - NASA’s inspector general warns launch sites nearing capacity (spacenews)

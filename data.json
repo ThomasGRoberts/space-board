@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-23T00:04:53.387211+00:00",
-    "trigger_count": 6,
-    "current_item_id": "79d57feda83aa6c09f5a1a845ac6061d",
+    "trigger_count": 0,
+    "current_item_id": "5fe33cf1de927bca62e29f146e0e62ea",
     "data": [
         {
             "id": "a3e01973cb4ee720590eba5e97523faf",
@@ -8266,6 +8266,18 @@
             "fetched_datetime": "2026-06-23T22:09:10.472883Z",
             "shown_at": [
                 "2026-06-23T22:09:11.360758Z"
+            ]
+        },
+        {
+            "id": "5fe33cf1de927bca62e29f146e0e62ea",
+            "source": "spacenews",
+            "text": "NASA’s inspector general warns launch sites nearing capacity",
+            "source_link": "https://spacenews.com/nasas-inspector-general-warns-launch-sites-nearing-capacity/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-23T22:44:25.308135Z",
+            "shown_at": [
+                "2026-06-23T22:44:26.120862Z"
             ]
         }
     ]
