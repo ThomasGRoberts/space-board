@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 12 | 17 | 32 |
+| spacenews | 10 | 13 | 18 | 33 |
 | breaking_defense | 0 | 0 | 11 | 24 |
 | nyt | 0 | 0 | 12 | 24 |
 
@@ -2667,3 +2667,4 @@
 - **Jun 23, 05:24 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 23, 05:59 PM** - Ubotica raises $11 million to scale maritime-intelligence platform (spacenews)
 - **Jun 23, 06:34 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
+- **Jun 23, 07:09 PM** - Commercial Space Federation (CSF) Welcomes New Associate Member (spacenews)
