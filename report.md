@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 11 | 18 | 32 |
 | breaking_defense | 0 | 0 | 11 | 24 |
-| nyt | 0 | 0 | 11 | 24 |
+| nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
 
@@ -2663,3 +2663,4 @@
 - **Jun 23, 02:49 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 23, 03:29 PM** - Astrobotic unveils Griffin-1 lunar lander (spacenews)
 - **Jun 23, 04:05 PM** - Sophia selects Apex bus for on-orbit computing demonstration (spacenews)
+- **Jun 23, 04:44 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
