@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-23T00:04:53.387211+00:00",
-    "trigger_count": 6,
-    "current_item_id": "11e111a266b6838379f7081d05f1639e",
+    "trigger_count": 0,
+    "current_item_id": "d49288d55cc8cfbb84ceb9ba57481f0b",
     "data": [
         {
             "id": "a3e01973cb4ee720590eba5e97523faf",
@@ -8225,6 +8225,18 @@
             "fetched_datetime": "2026-06-23T16:05:23.120759Z",
             "shown_at": [
                 "2026-06-23T16:05:24.217402Z"
+            ]
+        },
+        {
+            "id": "d49288d55cc8cfbb84ceb9ba57481f0b",
+            "source": "spacenews",
+            "text": "Ubotica raises $11 million to scale maritime-intelligence platform",
+            "source_link": "https://spacenews.com/ubotica-raises-11-million-to-scale-maritime-intelligence-platform/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-23T17:59:35.550383Z",
+            "shown_at": [
+                "2026-06-23T17:59:38.864782Z"
             ]
         }
     ]
