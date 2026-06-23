@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-23T00:04:53.387211+00:00",
-    "trigger_count": 6,
-    "current_item_id": "11e111a266b6838379f7081d05f1639e",
+    "trigger_count": 0,
+    "current_item_id": "79d57feda83aa6c09f5a1a845ac6061d",
     "data": [
         {
             "id": "a3e01973cb4ee720590eba5e97523faf",
@@ -8254,6 +8254,18 @@
             "fetched_datetime": "2026-06-23T19:09:23.687711Z",
             "shown_at": [
                 "2026-06-23T19:09:24.743644Z"
+            ]
+        },
+        {
+            "id": "79d57feda83aa6c09f5a1a845ac6061d",
+            "source": "spacenews",
+            "text": "Boeing wins $2 billion Space Force contract for communications satellites",
+            "source_link": "https://spacenews.com/boeing-wins-2-billion-space-force-contract-for-communications-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-23T22:09:10.472883Z",
+            "shown_at": [
+                "2026-06-23T22:09:11.360758Z"
             ]
         }
     ]
