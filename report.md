@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 15 | 18 | 33 |
 | breaking_defense | 0 | 0 | 11 | 24 |
-| nyt | 0 | 0 | 11 | 23 |
+| nyt | 0 | 0 | 11 | 24 |
 
 # Shown Order
 
@@ -2674,3 +2674,4 @@
 - **Jun 23, 09:34 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 23, 10:09 PM** - Boeing wins $2 billion Space Force contract for communications satellites (spacenews)
 - **Jun 23, 10:44 PM** - NASA’s inspector general warns launch sites nearing capacity (spacenews)
+- **Jun 23, 11:19 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
