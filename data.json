@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-23T00:04:53.387211+00:00",
-    "trigger_count": 6,
-    "current_item_id": "205a4ffa2ab95bf05386588a54941a7f",
+    "trigger_count": 0,
+    "current_item_id": "0fe8ee44b572d453f69efecc07384794",
     "data": [
         {
             "id": "a3e01973cb4ee720590eba5e97523faf",
@@ -8183,6 +8183,18 @@
             "fetched_datetime": "2026-06-23T10:39:19.799244Z",
             "shown_at": [
                 "2026-06-23T11:14:44.224085Z"
+            ]
+        },
+        {
+            "id": "0fe8ee44b572d453f69efecc07384794",
+            "source": "spacenews",
+            "text": "Satellogic partners with SynMax to build intelligence services around upcoming Merlin constellation",
+            "source_link": "https://spacenews.com/satellogic-partners-with-synmax-to-build-intelligence-services-around-upcoming-merlin-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-23T12:23:43.485289Z",
+            "shown_at": [
+                "2026-06-23T12:23:44.839233Z"
             ]
         }
     ]
