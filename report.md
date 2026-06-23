@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 9 | 17 | 31 |
-| breaking_defense | 0 | 0 | 11 | 24 |
+| breaking_defense | 0 | 0 | 12 | 25 |
 | nyt | 0 | 0 | 12 | 25 |
 
 # Shown Order
@@ -2657,3 +2657,4 @@
 - **Jun 23, 11:14 AM** - Report: U.S. needs framework for responding to hostile acts in space (spacenews)
 - **Jun 23, 11:49 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 23, 12:23 PM** - Satellogic partners with SynMax to build intelligence services around upcoming Merlin constellation (spacenews)
+- **Jun 23, 12:59 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
