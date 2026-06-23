@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 9 | 16 | 31 |
+| spacenews | 8 | 10 | 17 | 32 |
 | breaking_defense | 0 | 0 | 12 | 25 |
 | nyt | 0 | 0 | 12 | 24 |
 
@@ -2658,3 +2658,4 @@
 - **Jun 23, 11:49 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 23, 12:23 PM** - Satellogic partners with SynMax to build intelligence services around upcoming Merlin constellation (spacenews)
 - **Jun 23, 12:59 PM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
+- **Jun 23, 01:35 PM** - Loft Orbital to test AI models on spacecraft for Earth observation (spacenews)

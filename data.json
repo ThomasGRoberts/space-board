@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-23T00:04:53.387211+00:00",
-    "trigger_count": 6,
-    "current_item_id": "11e111a266b6838379f7081d05f1639e",
+    "trigger_count": 0,
+    "current_item_id": "eb81e3dea4650ae8ec18218b4f1005e0",
     "data": [
         {
             "id": "a3e01973cb4ee720590eba5e97523faf",
@@ -8196,6 +8196,18 @@
             "fetched_datetime": "2026-06-23T12:23:43.485289Z",
             "shown_at": [
                 "2026-06-23T12:23:44.839233Z"
+            ]
+        },
+        {
+            "id": "eb81e3dea4650ae8ec18218b4f1005e0",
+            "source": "spacenews",
+            "text": "Loft Orbital to test AI models on spacecraft for Earth observation",
+            "source_link": "https://spacenews.com/loft-orbital-to-test-ai-models-on-spacecraft-for-earth-observation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-23T13:35:00.081203Z",
+            "shown_at": [
+                "2026-06-23T13:35:02.718018Z"
             ]
         }
     ]
