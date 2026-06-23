@@ -1,9 +1,69 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-06-22T00:04:41.925168+00:00",
-    "trigger_count": 1,
+    "last_run_datetime": "2026-06-23T00:04:53.387211+00:00",
+    "trigger_count": 2,
     "current_item_id": "bb4e8a977d2c744b64552028ee50d3c1",
     "data": [
+        {
+            "id": "a3e01973cb4ee720590eba5e97523faf",
+            "source": "spacenews",
+            "text": "Trump executive order directs NASA to plan quantum space applications",
+            "source_link": "https://spacenews.com/trump-signs-executive-order-to-accelerate-quantum-space-infrastructure/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-22T22:09:14.605032Z",
+            "shown_at": [
+                "2026-06-22T22:09:15.531449Z"
+            ]
+        },
+        {
+            "id": "62692580e6b2cc37529b36a98506758d",
+            "source": "spacenews",
+            "text": "Rocket Lab launches satellite for U.S. Space Force Victus Haze responsive space exercise",
+            "source_link": "https://spacenews.com/rocket-lab-launches-satellite-for-u-s-space-force-victus-haze-responsive-space-exercise/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-22T20:59:34.523290Z",
+            "shown_at": [
+                "2026-06-22T20:59:35.459565Z"
+            ]
+        },
+        {
+            "id": "73c96ebf950e64ba615a97f21ea5d0ad",
+            "source": "spacenews",
+            "text": "Chinese spaceplane releases object into orbit, according to commercial space surveillance",
+            "source_link": "https://spacenews.com/chinese-spaceplane-releases-object-into-orbit-according-to-commercial-space-surveillance/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-22T18:05:09.014951Z",
+            "shown_at": [
+                "2026-06-22T18:05:11.460536Z"
+            ]
+        },
+        {
+            "id": "fb4f191b1254779751c25e34c3313139",
+            "source": "spacenews",
+            "text": "America is about to cede Africa’s space industry to China, and nobody’s talking about it.",
+            "source_link": "https://spacenews.com/america-is-about-to-cede-africas-space-industry-to-china-and-nobodys-talking-about-it/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-22T13:09:40.747357Z",
+            "shown_at": [
+                "2026-06-22T13:09:41.744570Z"
+            ]
+        },
+        {
+            "id": "eed0583237f57feaed543be3ea0830df",
+            "source": "spacenews",
+            "text": "Astroscale raises funding to support growth strategy",
+            "source_link": "https://spacenews.com/astroscale-raises-funding-to-support-growth-strategy/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-22T12:34:53.883477Z",
+            "shown_at": [
+                "2026-06-22T12:34:54.636643Z"
+            ]
+        },
         {
             "id": "bf1b0ad794684c6eb5ab2c3b159b4ce8",
             "source": "spacenews",
@@ -8070,132 +8130,6 @@
                 "2026-04-14T15:39:36.023017Z",
                 "2026-04-17T07:24:16.978773Z",
                 "2026-04-18T23:39:19.611070Z"
-            ]
-        },
-        {
-            "id": "bd1179f59e6e99fefc0d73948b793d25",
-            "source": "spacenews",
-            "text": "Xoople and L3Harris team up to build satellites for ‘Earth AI’ ",
-            "source_link": "https://spacenews.com/xoople-and-l3harris-team-up-to-build-satellites-for-earth-ai/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-14T15:04:56.022101Z",
-            "shown_at": [
-                "2026-04-14T15:04:57.096836Z",
-                "2026-04-18T01:29:14.974300Z",
-                "2026-04-21T08:39:32.708188Z"
-            ]
-        },
-        {
-            "id": "c74537e7e2083f6de897230dc4c0a5fc",
-            "source": "spacenews",
-            "text": "Is COPUOS at a turning point? Governing space in a new era",
-            "source_link": "https://spacenews.com/is-copuos-at-a-turning-point-governing-space-in-a-new-era/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-14T13:54:24.764076Z",
-            "shown_at": [
-                "2026-04-14T14:29:25.128165Z",
-                "2026-04-15T08:39:26.875114Z",
-                "2026-04-20T06:09:16.449709Z"
-            ]
-        },
-        {
-            "id": "25c6e085aaa5febb00ae8cf31f02f830",
-            "source": "spacenews",
-            "text": "Eutelsat’s U.S. arm pitches hosted payloads deals on OneWeb satellites",
-            "source_link": "https://spacenews.com/eutelsats-u-s-arm-pitches-hosted-payloads-deals-on-oneweb-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-14T13:54:24.764017Z",
-            "shown_at": [
-                "2026-04-14T13:54:25.772790Z"
-            ]
-        },
-        {
-            "id": "43ae678178adb3bd20f0f1fd011799e0",
-            "source": "spacenews",
-            "text": "AI and geopolitics spur space investment surge",
-            "source_link": "https://spacenews.com/ai-and-geopolitics-spur-space-investment-surge/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-14T12:09:28.301970Z",
-            "shown_at": [
-                "2026-04-14T13:19:31.814729Z",
-                "2026-04-15T06:19:18.738155Z",
-                "2026-04-19T21:59:08.109932Z"
-            ]
-        },
-        {
-            "id": "826dccf13549419fe6c67349c859faf9",
-            "source": "spacenews",
-            "text": "Axiom Space plans 2027 flight test of spacesuit",
-            "source_link": "https://spacenews.com/axiom-space-plans-2027-flight-test-of-spacesuit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-14T12:09:28.301920Z",
-            "shown_at": [
-                "2026-04-14T12:44:21.151524Z"
-            ]
-        },
-        {
-            "id": "eed0583237f57feaed543be3ea0830df",
-            "source": "spacenews",
-            "text": "Astroscale raises funding to support growth strategy",
-            "source_link": "https://spacenews.com/astroscale-raises-funding-to-support-growth-strategy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-22T12:34:53.883477Z",
-            "shown_at": [
-                "2026-06-22T12:34:54.636643Z"
-            ]
-        },
-        {
-            "id": "fb4f191b1254779751c25e34c3313139",
-            "source": "spacenews",
-            "text": "America is about to cede Africa’s space industry to China, and nobody’s talking about it.",
-            "source_link": "https://spacenews.com/america-is-about-to-cede-africas-space-industry-to-china-and-nobodys-talking-about-it/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-22T13:09:40.747357Z",
-            "shown_at": [
-                "2026-06-22T13:09:41.744570Z"
-            ]
-        },
-        {
-            "id": "73c96ebf950e64ba615a97f21ea5d0ad",
-            "source": "spacenews",
-            "text": "Chinese spaceplane releases object into orbit, according to commercial space surveillance",
-            "source_link": "https://spacenews.com/chinese-spaceplane-releases-object-into-orbit-according-to-commercial-space-surveillance/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-22T18:05:09.014951Z",
-            "shown_at": [
-                "2026-06-22T18:05:11.460536Z"
-            ]
-        },
-        {
-            "id": "62692580e6b2cc37529b36a98506758d",
-            "source": "spacenews",
-            "text": "Rocket Lab launches satellite for U.S. Space Force Victus Haze responsive space exercise",
-            "source_link": "https://spacenews.com/rocket-lab-launches-satellite-for-u-s-space-force-victus-haze-responsive-space-exercise/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-22T20:59:34.523290Z",
-            "shown_at": [
-                "2026-06-22T20:59:35.459565Z"
-            ]
-        },
-        {
-            "id": "a3e01973cb4ee720590eba5e97523faf",
-            "source": "spacenews",
-            "text": "Trump executive order directs NASA to plan quantum space applications",
-            "source_link": "https://spacenews.com/trump-signs-executive-order-to-accelerate-quantum-space-infrastructure/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-22T22:09:14.605032Z",
-            "shown_at": [
-                "2026-06-22T22:09:15.531449Z"
             ]
         }
     ]

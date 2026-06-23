@@ -4,15 +4,10 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 5 | 16 | 29 |
 | breaking_defense | 0 | 0 | 12 | 26 |
-| nyt | 0 | 0 | 13 | 26 |
+| nyt | 0 | 0 | 12 | 26 |
 
 # Shown Order
 
-- **Apr 14, 12:44 PM** - Axiom Space plans 2027 flight test of spacesuit (spacenews)
-- **Apr 14, 01:19 PM** - AI and geopolitics spur space investment surge (spacenews)
-- **Apr 14, 01:54 PM** - Eutelsat’s U.S. arm pitches hosted payloads deals on OneWeb satellites (spacenews)
-- **Apr 14, 02:29 PM** - Is COPUOS at a turning point? Governing space in a new era (spacenews)
-- **Apr 14, 03:04 PM** - Xoople and L3Harris team up to build satellites for ‘Earth AI’  (spacenews)
 - **Apr 14, 03:39 PM** - Archangel Lightworks Raises Over $13.5m In Series A Funding Round (spacenews)
 - **Apr 14, 04:14 PM** - Amazon buys Globalstar to catapult into direct-to-device race (spacenews)
 - **Apr 14, 04:49 PM** - BAE Systems introduces Ascent™ spacecraft to support space superiority and exploration (spacenews)
@@ -32,8 +27,6 @@
 - **Apr 15, 01:39 AM** - Kepler to lead interoperability tests for ESA’s HydRON optical relay network (spacenews)
 - **Apr 15, 02:49 AM** - Defense firms unveil new satellite designs for orbital warfare (spacenews)
 - **Apr 15, 05:09 AM** - Defense firms unveil new satellite designs for orbital warfare (spacenews)
-- **Apr 15, 06:19 AM** - AI and geopolitics spur space investment surge (spacenews)
-- **Apr 15, 08:39 AM** - Is COPUOS at a turning point? Governing space in a new era (spacenews)
 - **Apr 15, 10:59 AM** - Q&A: Aerospace Corp flexes its data advantage (spacenews)
 - **Apr 15, 11:34 AM** - Turion Space raises $75 million to expand maneuverable satellite fleet (spacenews)
 - **Apr 15, 12:09 PM** - New Wireless Access Point, Camera, and Remote Interface Unit Join NASA Human Rated Class 1 Layer 3 Ethernet Switch Family (spacenews)
@@ -84,7 +77,6 @@
 - **Apr 17, 11:09 PM** - NorthStar to go public via SPAC to expand space-based SSA network (spacenews)
 - **Apr 17, 11:44 PM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
 - **Apr 18, 12:54 AM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
-- **Apr 18, 01:29 AM** - Xoople and L3Harris team up to build satellites for ‘Earth AI’  (spacenews)
 - **Apr 18, 03:49 AM** - The Infrastructure Layer U.S. Space Superiority Has Been Missing (spacenews)
 - **Apr 18, 04:59 AM** - Artemis 2 astronauts praise performance of Orion (spacenews)
 - **Apr 18, 06:44 AM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
@@ -134,7 +126,6 @@
 - **Apr 19, 08:14 PM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
 - **Apr 19, 08:49 PM** - Aethero developing Titan satellite to advance space-based data center ambitions (spacenews)
 - **Apr 19, 09:24 PM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
-- **Apr 19, 09:59 PM** - AI and geopolitics spur space investment surge (spacenews)
 - **Apr 19, 10:34 PM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
 - **Apr 19, 11:09 PM** - NASA selects Falcon Heavy to launch ESA Mars rover mission despite budget threat (spacenews)
 - **Apr 19, 11:44 PM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
@@ -147,7 +138,6 @@
 - **Apr 20, 04:24 AM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
 - **Apr 20, 04:59 AM** - Kepler to lead interoperability tests for ESA’s HydRON optical relay network (spacenews)
 - **Apr 20, 05:34 AM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
-- **Apr 20, 06:09 AM** - Is COPUOS at a turning point? Governing space in a new era (spacenews)
 - **Apr 20, 06:44 AM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
 - **Apr 20, 07:54 AM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
 - **Apr 20, 08:29 AM** - Taiwan floats shared satcom constellation amid calls for more space collaboration (spacenews)
@@ -188,7 +178,6 @@
 - **Apr 21, 06:54 AM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
 - **Apr 21, 07:29 AM** - Shenzhou-21 astronauts complete third spacewalk, mission extended by a month (spacenews)
 - **Apr 21, 08:04 AM** - ‘Earthset’ Is Captured on Video for First Time (nyt)
-- **Apr 21, 08:39 AM** - Xoople and L3Harris team up to build satellites for ‘Earth AI’  (spacenews)
 - **Apr 21, 09:14 AM** - ‘Earthset’ Is Captured on Video for First Time (nyt)
 - **Apr 21, 10:24 AM** - Falcon 9 launches final GPS 3 satellite into orbit for U.S. Space Force (spacenews)
 - **Apr 21, 10:59 AM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
