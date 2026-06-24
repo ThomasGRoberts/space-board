@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 11 | 20 | 17 | 35 |
 | breaking_defense | 2 | 2 | 12 | 24 |
-| nyt | 0 | 0 | 10 | 21 |
+| nyt | 0 | 0 | 11 | 22 |
 
 # Shown Order
 
@@ -2682,3 +2682,4 @@
 - **Jun 24, 02:29 PM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
 - **Jun 24, 03:04 PM** - York satellite demonstrates two-way UHF communications from low Earth orbit (spacenews)
 - **Jun 24, 03:39 PM** - How space weather could bust the AI boom (spacenews)
+- **Jun 24, 04:14 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
