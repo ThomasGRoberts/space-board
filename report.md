@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 18 | 17 | 34 |
-| breaking_defense | 0 | 0 | 11 | 23 |
+| spacenews | 10 | 17 | 17 | 33 |
+| breaking_defense | 1 | 1 | 12 | 24 |
 | nyt | 0 | 0 | 11 | 23 |
 
 # Shown Order
@@ -2677,3 +2677,4 @@
 - **Jun 24, 11:25 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 24, 12:05 PM** - SpaceX launches secretive Starfall reentry demo mission (spacenews)
 - **Jun 24, 12:39 PM** - Vantor selects BAE Systems to build next-generation imaging satellites (spacenews)
+- **Jun 24, 01:14 PM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
