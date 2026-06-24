@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 11 | 20 | 17 | 34 |
-| breaking_defense | 2 | 2 | 13 | 24 |
+| spacenews | 11 | 20 | 18 | 35 |
+| breaking_defense | 2 | 2 | 12 | 24 |
 | nyt | 0 | 0 | 10 | 22 |
 
 # Shown Order
@@ -2684,3 +2684,4 @@
 - **Jun 24, 03:39 PM** - How space weather could bust the AI boom (spacenews)
 - **Jun 24, 04:14 PM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 24, 04:49 PM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
+- **Jun 24, 05:24 PM** - Vantor selects BAE Systems to build next-generation imaging satellites (spacenews)
