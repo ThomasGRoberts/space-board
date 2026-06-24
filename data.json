@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-24T00:04:55.952939+00:00",
-    "trigger_count": 6,
-    "current_item_id": "11e111a266b6838379f7081d05f1639e",
+    "trigger_count": 0,
+    "current_item_id": "61aa996ab297f9d9560d11637b5c119f",
     "data": [
         {
             "id": "5fe33cf1de927bca62e29f146e0e62ea",
@@ -8177,6 +8177,18 @@
             "fetched_datetime": "2026-06-24T03:24:41.543906Z",
             "shown_at": [
                 "2026-06-24T03:24:42.388783Z"
+            ]
+        },
+        {
+            "id": "61aa996ab297f9d9560d11637b5c119f",
+            "source": "spacenews",
+            "text": "NGSO trade association launches without industry giant SpaceX",
+            "source_link": "https://spacenews.com/ngso-trade-association-launches-without-industry-giant-spacex/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-24T10:09:43.561205Z",
+            "shown_at": [
+                "2026-06-24T10:09:45.310130Z"
             ]
         }
     ]
