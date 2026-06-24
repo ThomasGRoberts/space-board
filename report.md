@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 17 | 17 | 34 |
 | breaking_defense | 0 | 0 | 11 | 23 |
-| nyt | 0 | 0 | 11 | 23 |
+| nyt | 0 | 0 | 12 | 24 |
 
 # Shown Order
 
@@ -2673,3 +2673,4 @@
 - **Jun 24, 08:59 AM** - Blue Origin begins rebuilding New Glenn pad (spacenews)
 - **Jun 24, 09:34 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 24, 10:09 AM** - NGSO trade association launches without industry giant SpaceX (spacenews)
+- **Jun 24, 10:49 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
