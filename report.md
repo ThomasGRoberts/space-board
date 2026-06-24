@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 19 | 17 | 35 |
+| spacenews | 10 | 20 | 18 | 36 |
 | breaking_defense | 2 | 2 | 14 | 25 |
 | nyt | 0 | 0 | 9 | 20 |
 
@@ -2688,3 +2688,4 @@
 - **Jun 24, 05:59 PM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
 - **Jun 24, 06:35 PM** - York satellite demonstrates two-way UHF communications from low Earth orbit (spacenews)
 - **Jun 24, 07:09 PM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
+- **Jun 24, 07:44 PM** - MDA Space wins contract for Radarsat replenishment satellite (spacenews)

@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-24T00:04:55.952939+00:00",
-    "trigger_count": 6,
-    "current_item_id": "475c4bad03dc8c430bd20feb67078509",
+    "trigger_count": 0,
+    "current_item_id": "f93a63779926d403fc304a5a1e9184be",
     "data": [
         {
             "id": "5fe33cf1de927bca62e29f146e0e62ea",
@@ -8281,6 +8281,18 @@
             "shown_at": [
                 "2026-06-24T14:29:22.755597Z",
                 "2026-06-24T16:49:36.452436Z"
+            ]
+        },
+        {
+            "id": "f93a63779926d403fc304a5a1e9184be",
+            "source": "spacenews",
+            "text": "MDA Space wins contract for Radarsat replenishment satellite",
+            "source_link": "https://spacenews.com/mda-space-wins-contract-for-radarsat-replenishment-satellite/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-24T19:44:34.809370Z",
+            "shown_at": [
+                "2026-06-24T19:44:35.534885Z"
             ]
         }
     ]
