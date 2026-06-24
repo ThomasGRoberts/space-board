@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-24T00:04:55.952939+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d00645ed52649a6d1ef49f33a235afef",
+    "trigger_count": 0,
+    "current_item_id": "2c6b8db2062d9a63bf2b132da610b103",
     "data": [
         {
             "id": "5fe33cf1de927bca62e29f146e0e62ea",
@@ -8258,6 +8258,18 @@
             "shown": false,
             "type": "news",
             "fetched_datetime": "2026-06-24T13:49:55.056941Z"
+        },
+        {
+            "id": "2c6b8db2062d9a63bf2b132da610b103",
+            "source": "breaking_defense",
+            "text": "We must ensure the next war is won, not lost, in space. That starts with acquisition.",
+            "source_link": "https://breakingdefense.com/2026/06/we-must-ensure-the-next-war-is-won-not-lost-in-space-that-starts-with-acquisition/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-24T14:29:21.937660Z",
+            "shown_at": [
+                "2026-06-24T14:29:22.755597Z"
+            ]
         }
     ]
 }
