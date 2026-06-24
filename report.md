@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 20 | 18 | 36 |
+| spacenews | 10 | 20 | 19 | 37 |
 | breaking_defense | 3 | 3 | 14 | 25 |
-| nyt | 0 | 0 | 8 | 19 |
+| nyt | 0 | 0 | 7 | 18 |
 
 # Shown Order
 
@@ -2694,3 +2694,4 @@
 - **Jun 24, 09:29 PM** - Space Force seeks fresh bidders for satellite-control antennas (spacenews)
 - **Jun 24, 10:04 PM** - Shield Space and ClearSpace partner to defend satellites from orbital threats (spacenews)
 - **Jun 24, 10:44 PM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
+- **Jun 24, 11:19 PM** - Blue Origin begins rebuilding New Glenn pad (spacenews)
