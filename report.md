@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 19 | 18 | 35 |
-| breaking_defense | 2 | 2 | 13 | 24 |
+| spacenews | 9 | 19 | 17 | 35 |
+| breaking_defense | 2 | 2 | 14 | 25 |
 | nyt | 0 | 0 | 9 | 21 |
 
 # Shown Order
@@ -2687,3 +2687,4 @@
 - **Jun 24, 05:24 PM** - Vantor selects BAE Systems to build next-generation imaging satellites (spacenews)
 - **Jun 24, 05:59 PM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
 - **Jun 24, 06:35 PM** - York satellite demonstrates two-way UHF communications from low Earth orbit (spacenews)
+- **Jun 24, 07:09 PM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
