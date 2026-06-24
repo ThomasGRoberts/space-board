@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 19 | 17 | 34 |
+| spacenews | 10 | 19 | 18 | 35 |
 | breaking_defense | 2 | 2 | 13 | 25 |
-| nyt | 0 | 0 | 10 | 21 |
+| nyt | 0 | 0 | 9 | 21 |
 
 # Shown Order
 
@@ -2686,3 +2686,4 @@
 - **Jun 24, 04:49 PM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
 - **Jun 24, 05:24 PM** - Vantor selects BAE Systems to build next-generation imaging satellites (spacenews)
 - **Jun 24, 05:59 PM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
+- **Jun 24, 06:35 PM** - York satellite demonstrates two-way UHF communications from low Earth orbit (spacenews)
