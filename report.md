@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 15 | 17 | 33 |
+| spacenews | 10 | 16 | 18 | 34 |
 | breaking_defense | 0 | 0 | 11 | 23 |
-| nyt | 0 | 0 | 12 | 24 |
+| nyt | 0 | 0 | 11 | 24 |
 
 # Shown Order
 
@@ -2661,3 +2661,4 @@
 - **Jun 24, 01:39 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 24, 02:14 AM** - Mu-g Technologies enters the parabolic flight business (spacenews)
 - **Jun 24, 02:49 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
+- **Jun 24, 03:24 AM** - OHB raises funding for expansion, acquisitions (spacenews)
