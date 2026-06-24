@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-24T00:04:55.952939+00:00",
-    "trigger_count": 6,
-    "current_item_id": "11e111a266b6838379f7081d05f1639e",
+    "trigger_count": 0,
+    "current_item_id": "55f8e8f05d0556f78035a81feb128652",
     "data": [
         {
             "id": "5fe33cf1de927bca62e29f146e0e62ea",
@@ -8191,6 +8191,18 @@
             "fetched_datetime": "2026-06-24T10:09:43.561205Z",
             "shown_at": [
                 "2026-06-24T10:09:45.310130Z"
+            ]
+        },
+        {
+            "id": "55f8e8f05d0556f78035a81feb128652",
+            "source": "spacenews",
+            "text": "SpaceX launches secretive Starfall reentry demo mission",
+            "source_link": "https://spacenews.com/spacex-launches-secretive-starfall-reentry-demo-mission/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-24T12:05:10.090876Z",
+            "shown_at": [
+                "2026-06-24T12:05:10.943066Z"
             ]
         }
     ]
