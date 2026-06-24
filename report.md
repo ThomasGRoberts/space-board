@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 16 | 17 | 33 |
+| spacenews | 10 | 16 | 18 | 34 |
 | breaking_defense | 0 | 0 | 11 | 23 |
 | nyt | 0 | 0 | 11 | 24 |
 
@@ -2670,3 +2670,4 @@
 - **Jun 24, 07:05 AM** - Relativity Space to privately develop Mars orbiter mission (spacenews)
 - **Jun 24, 07:44 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 24, 08:24 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
+- **Jun 24, 08:59 AM** - Blue Origin begins rebuilding New Glenn pad (spacenews)
