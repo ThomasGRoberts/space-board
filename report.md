@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 21 | 19 | 36 |
+| spacenews | 12 | 21 | 20 | 37 |
 | breaking_defense | 3 | 3 | 13 | 25 |
 | nyt | 0 | 0 | 8 | 19 |
 
@@ -2692,3 +2692,4 @@
 - **Jun 24, 08:19 PM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
 - **Jun 24, 08:54 PM** - Sophia selects Apex bus for on-orbit computing demonstration (spacenews)
 - **Jun 24, 09:29 PM** - Space Force seeks fresh bidders for satellite-control antennas (spacenews)
+- **Jun 24, 10:04 PM** - Shield Space and ClearSpace partner to defend satellites from orbital threats (spacenews)

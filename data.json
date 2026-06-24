@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-24T00:04:55.952939+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0257b13eb959c412f4c23ebc7a436331",
+    "trigger_count": 0,
+    "current_item_id": "2fc4c3499a1dd7494a02104ae8a498fb",
     "data": [
         {
             "id": "5fe33cf1de927bca62e29f146e0e62ea",
@@ -8325,9 +8325,12 @@
             "source": "spacenews",
             "text": "Shield Space and ClearSpace partner to defend satellites from orbital threats",
             "source_link": "https://spacenews.com/shield-space-and-clearspace-partner-to-defend-satellites-from-orbital-threats/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-06-24T21:29:31.746293Z"
+            "fetched_datetime": "2026-06-24T21:29:31.746293Z",
+            "shown_at": [
+                "2026-06-24T22:04:57.831249Z"
+            ]
         }
     ]
 }
