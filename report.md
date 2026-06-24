@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 20 | 18 | 35 |
+| spacenews | 10 | 20 | 19 | 36 |
 | breaking_defense | 3 | 3 | 14 | 25 |
 | nyt | 0 | 0 | 8 | 20 |
 
@@ -2690,3 +2690,4 @@
 - **Jun 24, 07:09 PM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
 - **Jun 24, 07:44 PM** - MDA Space wins contract for Radarsat replenishment satellite (spacenews)
 - **Jun 24, 08:19 PM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
+- **Jun 24, 08:54 PM** - Sophia selects Apex bus for on-orbit computing demonstration (spacenews)
