@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-24T00:04:55.952939+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f93a63779926d403fc304a5a1e9184be",
+    "trigger_count": 0,
+    "current_item_id": "e2bcb9689c4a35324fd2d4c9c593ece1",
     "data": [
         {
             "id": "5fe33cf1de927bca62e29f146e0e62ea",
@@ -8293,6 +8293,18 @@
             "fetched_datetime": "2026-06-24T19:44:34.809370Z",
             "shown_at": [
                 "2026-06-24T19:44:35.534885Z"
+            ]
+        },
+        {
+            "id": "e2bcb9689c4a35324fd2d4c9c593ece1",
+            "source": "breaking_defense",
+            "text": "Boeing wins $2B Space Force contract for 2 new MUOS satellites",
+            "source_link": "https://breakingdefense.com/2026/06/boeing-wins-2b-space-force-contract-for-2-new-muos-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-24T20:19:29.219397Z",
+            "shown_at": [
+                "2026-06-24T20:19:30.377280Z"
             ]
         }
     ]

@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 20 | 18 | 35 |
-| breaking_defense | 2 | 2 | 13 | 25 |
+| breaking_defense | 3 | 3 | 14 | 26 |
 | nyt | 0 | 0 | 9 | 20 |
 
 # Shown Order
@@ -2689,3 +2689,4 @@
 - **Jun 24, 06:35 PM** - York satellite demonstrates two-way UHF communications from low Earth orbit (spacenews)
 - **Jun 24, 07:09 PM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
 - **Jun 24, 07:44 PM** - MDA Space wins contract for Radarsat replenishment satellite (spacenews)
+- **Jun 24, 08:19 PM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
