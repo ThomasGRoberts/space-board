@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 12 | 20 | 17 | 34 |
+| spacenews | 12 | 20 | 18 | 35 |
 | breaking_defense | 2 | 2 | 12 | 24 |
 | nyt | 0 | 0 | 10 | 22 |
 
@@ -2680,3 +2680,4 @@
 - **Jun 24, 01:14 PM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
 - **Jun 24, 01:49 PM** - Vast signs additional partners for commercial space station microgravity research (spacenews)
 - **Jun 24, 02:29 PM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
+- **Jun 24, 03:04 PM** - York satellite demonstrates two-way UHF communications from low Earth orbit (spacenews)
