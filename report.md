@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 17 | 16 | 34 |
-| breaking_defense | 0 | 0 | 11 | 23 |
+| spacenews | 9 | 17 | 16 | 33 |
+| breaking_defense | 0 | 0 | 12 | 24 |
 | nyt | 0 | 0 | 12 | 23 |
 
 # Shown Order
@@ -2674,3 +2674,4 @@
 - **Jun 24, 09:34 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 24, 10:09 AM** - NGSO trade association launches without industry giant SpaceX (spacenews)
 - **Jun 24, 10:49 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
+- **Jun 24, 11:25 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
