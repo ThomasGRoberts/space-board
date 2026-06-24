@@ -1,9 +1,130 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-06-23T00:04:53.387211+00:00",
-    "trigger_count": 1,
+    "last_run_datetime": "2026-06-24T00:04:55.952939+00:00",
+    "trigger_count": 2,
     "current_item_id": "11e111a266b6838379f7081d05f1639e",
     "data": [
+        {
+            "id": "5fe33cf1de927bca62e29f146e0e62ea",
+            "source": "spacenews",
+            "text": "NASA’s inspector general warns launch sites nearing capacity",
+            "source_link": "https://spacenews.com/nasas-inspector-general-warns-launch-sites-nearing-capacity/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-23T22:44:25.308135Z",
+            "shown_at": [
+                "2026-06-23T22:44:26.120862Z"
+            ]
+        },
+        {
+            "id": "79d57feda83aa6c09f5a1a845ac6061d",
+            "source": "spacenews",
+            "text": "Boeing wins $2 billion Space Force contract for communications satellites",
+            "source_link": "https://spacenews.com/boeing-wins-2-billion-space-force-contract-for-communications-satellites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-23T22:09:10.472883Z",
+            "shown_at": [
+                "2026-06-23T22:09:11.360758Z"
+            ]
+        },
+        {
+            "id": "6e9eb6979633593576e03b0a01f84e57",
+            "source": "spacenews",
+            "text": "Commercial Space Federation (CSF) Welcomes New Associate Member",
+            "source_link": "https://spacenews.com/commercial-space-federation-csf-welcomes-new-associate-member/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-23T19:09:23.687711Z",
+            "shown_at": [
+                "2026-06-23T19:09:24.743644Z"
+            ]
+        },
+        {
+            "id": "d49288d55cc8cfbb84ceb9ba57481f0b",
+            "source": "spacenews",
+            "text": "Ubotica raises $11 million to scale maritime-intelligence platform",
+            "source_link": "https://spacenews.com/ubotica-raises-11-million-to-scale-maritime-intelligence-platform/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-23T17:59:35.550383Z",
+            "shown_at": [
+                "2026-06-23T17:59:38.864782Z"
+            ]
+        },
+        {
+            "id": "07dbcfb5d1b23f2313b7707f536f5169",
+            "source": "spacenews",
+            "text": "Sophia selects Apex bus for on-orbit computing demonstration",
+            "source_link": "https://spacenews.com/sophia-selects-apex-bus-for-on-orbit-computing-demonstration/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-23T16:05:23.120759Z",
+            "shown_at": [
+                "2026-06-23T16:05:24.217402Z"
+            ]
+        },
+        {
+            "id": "eb81e3dea4650ae8ec18218b4f1005e0",
+            "source": "spacenews",
+            "text": "Loft Orbital to test AI models on spacecraft for Earth observation",
+            "source_link": "https://spacenews.com/loft-orbital-to-test-ai-models-on-spacecraft-for-earth-observation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-23T13:35:00.081203Z",
+            "shown_at": [
+                "2026-06-23T13:35:02.718018Z"
+            ]
+        },
+        {
+            "id": "0fe8ee44b572d453f69efecc07384794",
+            "source": "spacenews",
+            "text": "Satellogic partners with SynMax to build intelligence services around upcoming Merlin constellation",
+            "source_link": "https://spacenews.com/satellogic-partners-with-synmax-to-build-intelligence-services-around-upcoming-merlin-constellation/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-23T12:23:43.485289Z",
+            "shown_at": [
+                "2026-06-23T12:23:44.839233Z"
+            ]
+        },
+        {
+            "id": "c9dd3856299f01a489fa3078bc74e05b",
+            "source": "spacenews",
+            "text": "Report: U.S. needs framework for responding to hostile acts in space",
+            "source_link": "https://spacenews.com/report-u-s-needs-framework-for-responding-to-hostile-acts-in-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-23T10:39:19.799244Z",
+            "shown_at": [
+                "2026-06-23T11:14:44.224085Z"
+            ]
+        },
+        {
+            "id": "647fd3dbae9398bc516032633e4085f6",
+            "source": "spacenews",
+            "text": "China appears to be developing 7-meter-diameter reusable rockets",
+            "source_link": "https://spacenews.com/china-appears-to-be-developing-7-meter-diameter-reusable-rockets/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-23T10:39:19.799175Z",
+            "shown_at": [
+                "2026-06-23T10:39:20.692461Z"
+            ]
+        },
+        {
+            "id": "67d59b94d7e42c09a1abe28b0aaca742",
+            "source": "spacenews",
+            "text": "NASA and Boeing still uncertain about when Starliner will return to flight",
+            "source_link": "https://spacenews.com/nasa-and-boeing-still-uncertain-about-when-starliner-will-return-to-flight/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-23T02:14:41.195828Z",
+            "shown_at": [
+                "2026-06-23T02:14:42.127423Z",
+                "2026-06-23T03:59:30.640574Z"
+            ]
+        },
         {
             "id": "a3e01973cb4ee720590eba5e97523faf",
             "source": "spacenews",
@@ -8029,257 +8150,6 @@
                 "2026-04-15T05:09:31.973972Z",
                 "2026-04-17T14:59:46.384655Z",
                 "2026-04-18T17:49:14.120710Z"
-            ]
-        },
-        {
-            "id": "da6e5281c35e21bc13eab1c17fcfc1eb",
-            "source": "spacenews",
-            "text": "White House releases space nuclear policy",
-            "source_link": "https://spacenews.com/white-house-releases-space-nuclear-policy/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-14T20:24:25.011343Z",
-            "shown_at": [
-                "2026-04-14T21:34:21.256490Z",
-                "2026-04-20T09:39:18.009929Z",
-                "2026-04-21T18:39:13.894297Z"
-            ]
-        },
-        {
-            "id": "98170746e1bd46abbe927fc53f458ebf",
-            "source": "spacenews",
-            "text": "Put science back in the driver’s seat",
-            "source_link": "https://spacenews.com/put-science-back-in-the-drivers-seat/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-14T20:24:25.011282Z",
-            "shown_at": [
-                "2026-04-14T20:59:23.574902Z",
-                "2026-04-20T03:49:18.432266Z"
-            ]
-        },
-        {
-            "id": "48bcb4decea78813cfe552cae8caf93f",
-            "source": "spacenews",
-            "text": "Seagate Space and Oceaneering Join Forces to Build the Future of Offshore Launch Infrastructure",
-            "source_link": "https://spacenews.com/seagate-space-and-oceaneering-join-forces-to-build-the-future-of-offshore-launch-infrastructure/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-14T20:24:25.011210Z",
-            "shown_at": [
-                "2026-04-14T20:24:26.032496Z",
-                "2026-04-20T23:09:02.111178Z"
-            ]
-        },
-        {
-            "id": "efb84ac0185e0aa9ba69da2bddc8ae76",
-            "source": "spacenews",
-            "text": "RTX’s Blue Canyon Technologies expands reaction wheel production capacity",
-            "source_link": "https://spacenews.com/rtxs-blue-canyon-technologies-expands-reaction-wheel-production-capacity/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-14T17:59:10.535957Z",
-            "shown_at": [
-                "2026-04-14T19:44:15.478602Z",
-                "2026-04-20T12:34:35.142730Z"
-            ]
-        },
-        {
-            "id": "4a4c62b54a61e921d4c90bc604d96b6e",
-            "source": "spacenews",
-            "text": "‘The show goes on:’ NASA looks beyond Artemis 2",
-            "source_link": "https://spacenews.com/the-show-goes-on-nasa-looks-beyond-artemis-2/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-14T17:59:10.535909Z",
-            "shown_at": [
-                "2026-04-14T19:09:30.785248Z"
-            ]
-        },
-        {
-            "id": "95d2061e7f90dc20ff9c26c5ff51b75a",
-            "source": "spacenews",
-            "text": "Q&A: Astronaut Linda Godwin on lessons learned from Artemis",
-            "source_link": "https://spacenews.com/qa-astronaut-linda-godwin-on-lessons-learned-from-artemis/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-14T17:59:10.535840Z",
-            "shown_at": [
-                "2026-04-14T18:34:35.237548Z",
-                "2026-04-17T13:49:33.500207Z",
-                "2026-04-20T17:54:30.658759Z"
-            ]
-        },
-        {
-            "id": "ad20c8ed490d8cb594d9f6bc129794e5",
-            "source": "spacenews",
-            "text": "Space Command pushes new warfighting model built on moving satellites",
-            "source_link": "https://spacenews.com/space-command-pushes-new-warfighting-model-built-on-moving-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-14T17:59:10.535764Z",
-            "shown_at": [
-                "2026-04-14T17:59:12.136229Z"
-            ]
-        },
-        {
-            "id": "b71335204985e7d3f3b003b0081241aa",
-            "source": "spacenews",
-            "text": "BAE Systems introduces Ascent™ spacecraft to support space superiority and exploration",
-            "source_link": "https://spacenews.com/bae-systems-introduces-ascent-spacecraft-to-support-space-superiority-and-exploration/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-14T15:04:56.022239Z",
-            "shown_at": [
-                "2026-04-14T16:49:11.052005Z"
-            ]
-        },
-        {
-            "id": "33f0a2331df4272a9a2b64fae4cf470d",
-            "source": "spacenews",
-            "text": "Amazon buys Globalstar to catapult into direct-to-device race",
-            "source_link": "https://spacenews.com/amazon-buys-globalstar-to-catapult-into-direct-to-device-race/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-14T15:04:56.022203Z",
-            "shown_at": [
-                "2026-04-14T16:14:21.939150Z",
-                "2026-04-16T00:24:23.473547Z"
-            ]
-        },
-        {
-            "id": "f37441e37f3fd87c40e4ac4634936e62",
-            "source": "spacenews",
-            "text": "Archangel Lightworks Raises Over $13.5m In Series A Funding Round",
-            "source_link": "https://spacenews.com/archangel-lightworks-raises-over-13-5m-in-series-a-funding-round/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-14T15:04:56.022160Z",
-            "shown_at": [
-                "2026-04-14T15:39:36.023017Z",
-                "2026-04-17T07:24:16.978773Z",
-                "2026-04-18T23:39:19.611070Z"
-            ]
-        },
-        {
-            "id": "67d59b94d7e42c09a1abe28b0aaca742",
-            "source": "spacenews",
-            "text": "NASA and Boeing still uncertain about when Starliner will return to flight",
-            "source_link": "https://spacenews.com/nasa-and-boeing-still-uncertain-about-when-starliner-will-return-to-flight/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-23T02:14:41.195828Z",
-            "shown_at": [
-                "2026-06-23T02:14:42.127423Z",
-                "2026-06-23T03:59:30.640574Z"
-            ]
-        },
-        {
-            "id": "647fd3dbae9398bc516032633e4085f6",
-            "source": "spacenews",
-            "text": "China appears to be developing 7-meter-diameter reusable rockets",
-            "source_link": "https://spacenews.com/china-appears-to-be-developing-7-meter-diameter-reusable-rockets/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-23T10:39:19.799175Z",
-            "shown_at": [
-                "2026-06-23T10:39:20.692461Z"
-            ]
-        },
-        {
-            "id": "c9dd3856299f01a489fa3078bc74e05b",
-            "source": "spacenews",
-            "text": "Report: U.S. needs framework for responding to hostile acts in space",
-            "source_link": "https://spacenews.com/report-u-s-needs-framework-for-responding-to-hostile-acts-in-space/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-23T10:39:19.799244Z",
-            "shown_at": [
-                "2026-06-23T11:14:44.224085Z"
-            ]
-        },
-        {
-            "id": "0fe8ee44b572d453f69efecc07384794",
-            "source": "spacenews",
-            "text": "Satellogic partners with SynMax to build intelligence services around upcoming Merlin constellation",
-            "source_link": "https://spacenews.com/satellogic-partners-with-synmax-to-build-intelligence-services-around-upcoming-merlin-constellation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-23T12:23:43.485289Z",
-            "shown_at": [
-                "2026-06-23T12:23:44.839233Z"
-            ]
-        },
-        {
-            "id": "eb81e3dea4650ae8ec18218b4f1005e0",
-            "source": "spacenews",
-            "text": "Loft Orbital to test AI models on spacecraft for Earth observation",
-            "source_link": "https://spacenews.com/loft-orbital-to-test-ai-models-on-spacecraft-for-earth-observation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-23T13:35:00.081203Z",
-            "shown_at": [
-                "2026-06-23T13:35:02.718018Z"
-            ]
-        },
-        {
-            "id": "07dbcfb5d1b23f2313b7707f536f5169",
-            "source": "spacenews",
-            "text": "Sophia selects Apex bus for on-orbit computing demonstration",
-            "source_link": "https://spacenews.com/sophia-selects-apex-bus-for-on-orbit-computing-demonstration/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-23T16:05:23.120759Z",
-            "shown_at": [
-                "2026-06-23T16:05:24.217402Z"
-            ]
-        },
-        {
-            "id": "d49288d55cc8cfbb84ceb9ba57481f0b",
-            "source": "spacenews",
-            "text": "Ubotica raises $11 million to scale maritime-intelligence platform",
-            "source_link": "https://spacenews.com/ubotica-raises-11-million-to-scale-maritime-intelligence-platform/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-23T17:59:35.550383Z",
-            "shown_at": [
-                "2026-06-23T17:59:38.864782Z"
-            ]
-        },
-        {
-            "id": "6e9eb6979633593576e03b0a01f84e57",
-            "source": "spacenews",
-            "text": "Commercial Space Federation (CSF) Welcomes New Associate Member",
-            "source_link": "https://spacenews.com/commercial-space-federation-csf-welcomes-new-associate-member/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-23T19:09:23.687711Z",
-            "shown_at": [
-                "2026-06-23T19:09:24.743644Z"
-            ]
-        },
-        {
-            "id": "79d57feda83aa6c09f5a1a845ac6061d",
-            "source": "spacenews",
-            "text": "Boeing wins $2 billion Space Force contract for communications satellites",
-            "source_link": "https://spacenews.com/boeing-wins-2-billion-space-force-contract-for-communications-satellites/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-23T22:09:10.472883Z",
-            "shown_at": [
-                "2026-06-23T22:09:11.360758Z"
-            ]
-        },
-        {
-            "id": "5fe33cf1de927bca62e29f146e0e62ea",
-            "source": "spacenews",
-            "text": "NASA’s inspector general warns launch sites nearing capacity",
-            "source_link": "https://spacenews.com/nasas-inspector-general-warns-launch-sites-nearing-capacity/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-23T22:44:25.308135Z",
-            "shown_at": [
-                "2026-06-23T22:44:26.120862Z"
             ]
         }
     ]
