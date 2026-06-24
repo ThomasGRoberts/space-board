@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 18 | 16 | 34 |
+| spacenews | 10 | 18 | 17 | 34 |
 | breaking_defense | 0 | 0 | 12 | 23 |
 | nyt | 0 | 0 | 11 | 23 |
 
@@ -2676,3 +2676,4 @@
 - **Jun 24, 10:49 AM** - Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla (nyt)
 - **Jun 24, 11:25 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 24, 12:05 PM** - SpaceX launches secretive Starfall reentry demo mission (spacenews)
+- **Jun 24, 12:39 PM** - Vantor selects BAE Systems to build next-generation imaging satellites (spacenews)
