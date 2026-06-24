@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 17 | 16 | 33 |
+| spacenews | 12 | 20 | 17 | 34 |
 | breaking_defense | 1 | 1 | 12 | 24 |
-| nyt | 0 | 0 | 11 | 23 |
+| nyt | 0 | 0 | 11 | 22 |
 
 # Shown Order
 
@@ -2678,3 +2678,4 @@
 - **Jun 24, 12:05 PM** - SpaceX launches secretive Starfall reentry demo mission (spacenews)
 - **Jun 24, 12:39 PM** - Vantor selects BAE Systems to build next-generation imaging satellites (spacenews)
 - **Jun 24, 01:14 PM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
+- **Jun 24, 01:49 PM** - Vast signs additional partners for commercial space station microgravity research (spacenews)
