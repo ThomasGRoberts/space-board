@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 17 | 20 | 39 |
-| breaking_defense | 0 | 3 | 18 | 32 |
+| breaking_defense | 1 | 4 | 19 | 32 |
 | nyt | 0 | 0 | 0 | 8 |
 
 # Shown Order
@@ -2694,3 +2694,4 @@
 - **Jun 25, 07:44 PM** - NASA and Boeing still uncertain about when Starliner will return to flight (spacenews)
 - **Jun 25, 08:24 PM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
 - **Jun 25, 08:59 PM** - Botswana signs the Artemis Accords (spacenews)
+- **Jun 25, 09:39 PM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)

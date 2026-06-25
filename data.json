@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-25T00:04:58.161120+00:00",
-    "trigger_count": 6,
-    "current_item_id": "98d366b1d0bdf8edc554a96447b8c8ff",
+    "trigger_count": 0,
+    "current_item_id": "9efe53b62f7ea72075227e3487d4a1ce",
     "data": [
         {
             "id": "2fc4c3499a1dd7494a02104ae8a498fb",
@@ -8243,6 +8243,18 @@
             "fetched_datetime": "2026-06-25T20:59:17.595359Z",
             "shown_at": [
                 "2026-06-25T20:59:18.286710Z"
+            ]
+        },
+        {
+            "id": "9efe53b62f7ea72075227e3487d4a1ce",
+            "source": "breaking_defense",
+            "text": "China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report",
+            "source_link": "https://breakingdefense.com/2026/06/china-dumping-more-rocket-bodies-in-space-endangering-low-earth-orbit-satellites-report/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-25T21:39:17.099744Z",
+            "shown_at": [
+                "2026-06-25T21:39:18.054432Z"
             ]
         }
     ]
