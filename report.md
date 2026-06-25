@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 19 | 21 | 38 |
-| breaking_defense | 3 | 3 | 16 | 27 |
-| nyt | 0 | 0 | 3 | 14 |
+| breaking_defense | 3 | 3 | 17 | 28 |
+| nyt | 0 | 0 | 2 | 14 |
 
 # Shown Order
 
@@ -2673,3 +2673,4 @@
 - **Jun 25, 06:35 AM** - Commercial Space Federation (CSF) Welcomes New Associate Member (spacenews)
 - **Jun 25, 07:15 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 25, 07:54 AM** - Commercial Space Federation (CSF) Welcomes New Associate Member (spacenews)
+- **Jun 25, 08:29 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
