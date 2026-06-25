@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 19 | 21 | 38 |
+| spacenews | 9 | 19 | 22 | 39 |
 | breaking_defense | 2 | 3 | 17 | 29 |
 | nyt | 0 | 0 | 1 | 12 |
 
@@ -2681,3 +2681,4 @@
 - **Jun 25, 11:35 AM** - House Appropriations Committee approves $55.5 billion for U.S. Space Force (spacenews)
 - **Jun 25, 12:09 PM** - Canceled NASA exploration projects suffered billions of dollars in overruns (spacenews)
 - **Jun 25, 12:49 PM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
+- **Jun 25, 01:24 PM** - How space weather could bust the AI boom (spacenews)
