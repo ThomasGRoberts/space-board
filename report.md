@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 17 | 21 | 39 |
-| breaking_defense | 1 | 3 | 18 | 31 |
+| breaking_defense | 1 | 3 | 19 | 32 |
 | nyt | 0 | 0 | 0 | 9 |
 
 # Shown Order
@@ -2690,3 +2690,4 @@
 - **Jun 25, 05:14 PM** - China appears to be developing 7-meter-diameter reusable rockets (spacenews)
 - **Jun 25, 05:54 PM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
 - **Jun 25, 06:34 PM** - Trump executive order directs NASA to plan quantum space applications (spacenews)
+- **Jun 25, 07:09 PM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
