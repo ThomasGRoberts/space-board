@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 16 | 21 | 39 |
+| spacenews | 7 | 17 | 21 | 40 |
 | breaking_defense | 0 | 3 | 18 | 32 |
 | nyt | 0 | 0 | 0 | 8 |
 
@@ -2693,3 +2693,4 @@
 - **Jun 25, 07:09 PM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
 - **Jun 25, 07:44 PM** - NASA and Boeing still uncertain about when Starliner will return to flight (spacenews)
 - **Jun 25, 08:24 PM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
+- **Jun 25, 08:59 PM** - Botswana signs the Artemis Accords (spacenews)
