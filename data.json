@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-25T00:04:58.161120+00:00",
-    "trigger_count": 6,
-    "current_item_id": "514fa8a5617ab2299ff0f1973fe66535",
+    "trigger_count": 0,
+    "current_item_id": "3b68a7ffd910ffdcc0c95227076e3244",
     "data": [
         {
             "id": "2fc4c3499a1dd7494a02104ae8a498fb",
@@ -8202,9 +8202,12 @@
             "source": "spacenews",
             "text": "Canceled NASA exploration projects suffered billions of dollars in overruns",
             "source_link": "https://spacenews.com/canceled-nasa-exploration-projects-suffered-billions-of-dollars-in-overruns/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-06-25T11:34:49.840698Z"
+            "fetched_datetime": "2026-06-25T11:34:49.840698Z",
+            "shown_at": [
+                "2026-06-25T12:09:37.510016Z"
+            ]
         }
     ]
 }
