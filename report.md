@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 18 | 21 | 37 |
+| spacenews | 11 | 20 | 22 | 38 |
 | breaking_defense | 3 | 3 | 17 | 29 |
 | nyt | 0 | 0 | 1 | 13 |
 
@@ -2678,3 +2678,4 @@
 - **Jun 25, 09:44 AM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
 - **Jun 25, 10:19 AM** - China schedules Long March 10B rocket launch and recovery attempt (spacenews)
 - **Jun 25, 10:54 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
+- **Jun 25, 11:35 AM** - House Appropriations Committee approves $55.5 billion for U.S. Space Force (spacenews)

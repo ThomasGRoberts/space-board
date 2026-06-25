@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-25T00:04:58.161120+00:00",
-    "trigger_count": 6,
-    "current_item_id": "11e111a266b6838379f7081d05f1639e",
+    "trigger_count": 0,
+    "current_item_id": "514fa8a5617ab2299ff0f1973fe66535",
     "data": [
         {
             "id": "2fc4c3499a1dd7494a02104ae8a498fb",
@@ -8184,6 +8184,27 @@
             "shown_at": [
                 "2026-06-25T10:19:44.793851Z"
             ]
+        },
+        {
+            "id": "514fa8a5617ab2299ff0f1973fe66535",
+            "source": "spacenews",
+            "text": "House Appropriations Committee approves $55.5 billion for U.S. Space Force",
+            "source_link": "https://spacenews.com/house-appropriations-committee-approves-55-5-billion-for-u-s-space-force/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-25T11:34:49.840611Z",
+            "shown_at": [
+                "2026-06-25T11:35:00.689263Z"
+            ]
+        },
+        {
+            "id": "3b68a7ffd910ffdcc0c95227076e3244",
+            "source": "spacenews",
+            "text": "Canceled NASA exploration projects suffered billions of dollars in overruns",
+            "source_link": "https://spacenews.com/canceled-nasa-exploration-projects-suffered-billions-of-dollars-in-overruns/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-06-25T11:34:49.840698Z"
         }
     ]
 }
