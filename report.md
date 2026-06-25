@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 18 | 21 | 38 |
-| breaking_defense | 1 | 3 | 18 | 30 |
+| breaking_defense | 1 | 3 | 19 | 31 |
 | nyt | 0 | 0 | 0 | 11 |
 
 # Shown Order
@@ -2686,3 +2686,4 @@
 - **Jun 25, 02:35 PM** - How space weather could bust the AI boom (spacenews)
 - **Jun 25, 03:29 PM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
 - **Jun 25, 04:04 PM** - Small satellite operators confront a bottleneck to space access (spacenews)
+- **Jun 25, 04:39 PM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
