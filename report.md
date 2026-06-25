@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 18 | 21 | 38 |
+| spacenews | 6 | 18 | 22 | 39 |
 | breaking_defense | 1 | 3 | 17 | 30 |
 | nyt | 0 | 0 | 1 | 11 |
 
@@ -2683,3 +2683,4 @@
 - **Jun 25, 12:49 PM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
 - **Jun 25, 01:24 PM** - How space weather could bust the AI boom (spacenews)
 - **Jun 25, 01:59 PM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
+- **Jun 25, 02:35 PM** - How space weather could bust the AI boom (spacenews)
