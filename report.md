@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 18 | 20 | 39 |
-| breaking_defense | 1 | 4 | 19 | 32 |
+| spacenews | 7 | 17 | 21 | 39 |
+| breaking_defense | 1 | 4 | 18 | 32 |
 | nyt | 0 | 0 | 0 | 8 |
 
 # Shown Order
@@ -2696,3 +2696,4 @@
 - **Jun 25, 08:59 PM** - Botswana signs the Artemis Accords (spacenews)
 - **Jun 25, 09:39 PM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
 - **Jun 25, 10:14 PM** - Weather Stream releases first light imagery from GEMS2 microwave radiometer (spacenews)
+- **Jun 25, 10:49 PM** - Space Force’s new MUOS satellites to use Boeing’s 702MP spacecraft platform (spacenews)

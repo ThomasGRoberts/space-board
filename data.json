@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-25T00:04:58.161120+00:00",
-    "trigger_count": 6,
-    "current_item_id": "13517b6911581346e832861e77ae1052",
+    "trigger_count": 0,
+    "current_item_id": "596b4d0c2c084fd02dfaed37d543fb5c",
     "data": [
         {
             "id": "2fc4c3499a1dd7494a02104ae8a498fb",
@@ -8274,9 +8274,12 @@
             "source": "spacenews",
             "text": "Space Force’s new MUOS satellites to use Boeing’s 702MP spacecraft platform",
             "source_link": "https://spacenews.com/space-forces-new-muos-satellites-to-use-boeings-702mp-spacecraft-platform/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-06-25T22:14:35.171987Z"
+            "fetched_datetime": "2026-06-25T22:14:35.171987Z",
+            "shown_at": [
+                "2026-06-25T22:49:35.327106Z"
+            ]
         }
     ]
 }
