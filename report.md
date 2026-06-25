@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 10 | 20 | 20 | 37 |
-| breaking_defense | 3 | 3 | 14 | 26 |
+| spacenews | 10 | 19 | 19 | 36 |
+| breaking_defense | 3 | 3 | 15 | 27 |
 | nyt | 0 | 0 | 6 | 17 |
 
 # Shown Order
@@ -2663,3 +2663,4 @@
 - **Jun 25, 12:35 AM** - Boeing demonstrates quantum protocol in payload set for 2027 launch (spacenews)
 - **Jun 25, 01:09 AM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
 - **Jun 25, 01:44 AM** - Vantor selects BAE Systems to build next-generation imaging satellites (spacenews)
+- **Jun 25, 02:19 AM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
