@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 19 | 20 | 38 |
+| spacenews | 9 | 20 | 21 | 39 |
 | breaking_defense | 3 | 3 | 17 | 28 |
 | nyt | 0 | 0 | 2 | 13 |
 
@@ -2676,3 +2676,4 @@
 - **Jun 25, 08:29 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
 - **Jun 25, 09:04 AM** - SpaceX launches secretive Starfall reentry demo mission (spacenews)
 - **Jun 25, 09:44 AM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
+- **Jun 25, 10:19 AM** - China schedules Long March 10B rocket launch and recovery attempt (spacenews)
