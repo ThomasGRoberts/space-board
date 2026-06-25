@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 19 | 20 | 38 |
-| breaking_defense | 3 | 3 | 15 | 27 |
+| spacenews | 9 | 19 | 20 | 37 |
+| breaking_defense | 3 | 3 | 16 | 28 |
 | nyt | 0 | 0 | 4 | 15 |
 
 # Shown Order
@@ -2669,3 +2669,4 @@
 - **Jun 25, 04:04 AM** - OHB raises funding for expansion, acquisitions (spacenews)
 - **Jun 25, 04:39 AM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
 - **Jun 25, 05:19 AM** - EQT to acquire Exolaunch (spacenews)
+- **Jun 25, 05:54 AM** - Rheinmetall, Vantor plan joint ISR venture for Bundeswehr (breaking_defense)
