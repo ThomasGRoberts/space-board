@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 18 | 21 | 38 |
+| spacenews | 7 | 18 | 22 | 39 |
 | breaking_defense | 1 | 3 | 18 | 31 |
 | nyt | 0 | 0 | 0 | 10 |
 
@@ -2687,3 +2687,4 @@
 - **Jun 25, 03:29 PM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
 - **Jun 25, 04:04 PM** - Small satellite operators confront a bottleneck to space access (spacenews)
 - **Jun 25, 04:39 PM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
+- **Jun 25, 05:14 PM** - China appears to be developing 7-meter-diameter reusable rockets (spacenews)
