@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-25T00:04:58.161120+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9efe53b62f7ea72075227e3487d4a1ce",
+    "trigger_count": 0,
+    "current_item_id": "13517b6911581346e832861e77ae1052",
     "data": [
         {
             "id": "2fc4c3499a1dd7494a02104ae8a498fb",
@@ -8256,6 +8256,27 @@
             "shown_at": [
                 "2026-06-25T21:39:18.054432Z"
             ]
+        },
+        {
+            "id": "13517b6911581346e832861e77ae1052",
+            "source": "spacenews",
+            "text": "Weather Stream releases first light imagery from GEMS2 microwave radiometer",
+            "source_link": "https://spacenews.com/weather-stream-releases-first-light-imagery-from-gems2-microwave-radiometer/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-25T22:14:35.171926Z",
+            "shown_at": [
+                "2026-06-25T22:14:37.992447Z"
+            ]
+        },
+        {
+            "id": "596b4d0c2c084fd02dfaed37d543fb5c",
+            "source": "spacenews",
+            "text": "Space Force’s new MUOS satellites to use Boeing’s 702MP spacecraft platform",
+            "source_link": "https://spacenews.com/space-forces-new-muos-satellites-to-use-boeings-702mp-spacecraft-platform/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-06-25T22:14:35.171987Z"
         }
     ]
 }
