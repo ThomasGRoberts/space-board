@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 19 | 20 | 37 |
-| breaking_defense | 3 | 3 | 15 | 27 |
-| nyt | 0 | 0 | 5 | 16 |
+| breaking_defense | 3 | 3 | 16 | 28 |
+| nyt | 0 | 0 | 4 | 16 |
 
 # Shown Order
 
@@ -2667,3 +2667,4 @@
 - **Jun 25, 02:54 AM** - Loft Orbital to test AI models on spacecraft for Earth observation (spacenews)
 - **Jun 25, 03:29 AM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
 - **Jun 25, 04:04 AM** - OHB raises funding for expansion, acquisitions (spacenews)
+- **Jun 25, 04:39 AM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
