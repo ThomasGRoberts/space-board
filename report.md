@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 14 | 21 | 42 |
+| spacenews | 7 | 14 | 22 | 43 |
 | breaking_defense | 1 | 2 | 17 | 35 |
 | nyt | 0 | 0 | 0 | 0 |
 
@@ -2711,3 +2711,4 @@
 - **Jun 26, 05:34 PM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
 - **Jun 26, 06:09 PM** - Report: U.S. needs framework for responding to hostile acts in space (spacenews)
 - **Jun 26, 06:44 PM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
+- **Jun 26, 07:19 PM** - House Appropriations Committee approves $55.5 billion for U.S. Space Force (spacenews)
