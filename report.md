@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 14 | 21 | 42 |
-| breaking_defense | 1 | 2 | 17 | 34 |
+| breaking_defense | 1 | 2 | 18 | 35 |
 | nyt | 0 | 0 | 0 | 1 |
 
 # Shown Order
@@ -2704,3 +2704,4 @@
 - **Jun 26, 01:14 PM** - ISS repair spacewalk highlights concerns about station health (spacenews)
 - **Jun 26, 02:04 PM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
 - **Jun 26, 02:39 PM** - Vantor selects BAE Systems to build next-generation imaging satellites (spacenews)
+- **Jun 26, 03:14 PM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
