@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 14 | 21 | 42 |
+| spacenews | 7 | 14 | 22 | 43 |
 | breaking_defense | 1 | 2 | 17 | 35 |
 | nyt | 0 | 0 | 0 | 0 |
 
@@ -2709,3 +2709,4 @@
 - **Jun 26, 04:24 PM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
 - **Jun 26, 04:59 PM** - Trump executive order directs NASA to plan quantum space applications (spacenews)
 - **Jun 26, 05:34 PM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
+- **Jun 26, 06:09 PM** - Report: U.S. needs framework for responding to hostile acts in space (spacenews)
