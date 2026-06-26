@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 17 | 21 | 41 |
+| spacenews | 8 | 17 | 22 | 42 |
 | breaking_defense | 1 | 4 | 18 | 34 |
 | nyt | 0 | 0 | 0 | 3 |
 
@@ -2691,3 +2691,4 @@
 - **Jun 26, 04:49 AM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
 - **Jun 26, 05:24 AM** - How space weather could bust the AI boom (spacenews)
 - **Jun 26, 05:59 AM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
+- **Jun 26, 06:34 AM** - India’s Jio lays out sovereign LEO constellation plan ahead of IPO (spacenews)
