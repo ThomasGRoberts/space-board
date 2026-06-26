@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 6 | 17 | 21 | 43 |
-| breaking_defense | 1 | 4 | 17 | 34 |
+| breaking_defense | 1 | 4 | 18 | 35 |
 | nyt | 0 | 0 | 0 | 1 |
 
 # Shown Order
@@ -2699,3 +2699,4 @@
 - **Jun 26, 09:49 AM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
 - **Jun 26, 10:29 AM** - Mu-g Technologies enters the parabolic flight business (spacenews)
 - **Jun 26, 11:05 AM** - Europe’s next security challenge is in orbit (spacenews)
+- **Jun 26, 11:49 AM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
