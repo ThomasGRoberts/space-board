@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-26T00:04:47.628989+00:00",
-    "trigger_count": 6,
-    "current_item_id": "514fa8a5617ab2299ff0f1973fe66535",
+    "trigger_count": 0,
+    "current_item_id": "424e38821a48fb8007cc3c8a82890c3b",
     "data": [
         {
             "id": "0b8519c9aeb263d233a666c403016635",
@@ -8241,6 +8241,18 @@
             "fetched_datetime": "2026-06-26T12:32:34.114921Z",
             "shown_at": [
                 "2026-06-26T13:14:34.214755Z"
+            ]
+        },
+        {
+            "id": "424e38821a48fb8007cc3c8a82890c3b",
+            "source": "spacenews",
+            "text": "Spain-backed fund joins FOSSA’s sovereign satellite communications push",
+            "source_link": "https://spacenews.com/spain-backed-fund-joins-fossas-sovereign-satellite-communications-push/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-26T21:09:07.401214Z",
+            "shown_at": [
+                "2026-06-26T21:09:08.255644Z"
             ]
         }
     ]
