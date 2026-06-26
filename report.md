@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 14 | 21 | 42 |
+| spacenews | 7 | 14 | 22 | 43 |
 | breaking_defense | 1 | 2 | 17 | 35 |
 | nyt | 0 | 0 | 0 | 0 |
 
@@ -2707,3 +2707,4 @@
 - **Jun 26, 03:14 PM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
 - **Jun 26, 03:49 PM** - NASA’s inspector general warns launch sites nearing capacity (spacenews)
 - **Jun 26, 04:24 PM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
+- **Jun 26, 04:59 PM** - Trump executive order directs NASA to plan quantum space applications (spacenews)
