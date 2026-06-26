@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 16 | 21 | 42 |
+| spacenews | 8 | 17 | 22 | 43 |
 | breaking_defense | 1 | 4 | 17 | 35 |
 | nyt | 0 | 0 | 0 | 1 |
 
@@ -2698,3 +2698,4 @@
 - **Jun 26, 09:09 AM** - Vantor selects BAE Systems to build next-generation imaging satellites (spacenews)
 - **Jun 26, 09:49 AM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
 - **Jun 26, 10:29 AM** - Mu-g Technologies enters the parabolic flight business (spacenews)
+- **Jun 26, 11:05 AM** - Europe’s next security challenge is in orbit (spacenews)

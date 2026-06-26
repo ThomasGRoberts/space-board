@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-26T00:04:47.628989+00:00",
-    "trigger_count": 6,
-    "current_item_id": "7b977566721a541413ef86a8568af750",
+    "trigger_count": 0,
+    "current_item_id": "7d34fe51626a186c2cf5a2a995439910",
     "data": [
         {
             "id": "0b8519c9aeb263d233a666c403016635",
@@ -8192,6 +8192,18 @@
                 "2026-04-19T04:19:15.212059Z",
                 "2026-04-22T05:14:19.963557Z",
                 "2026-04-22T22:09:07.657247Z"
+            ]
+        },
+        {
+            "id": "7d34fe51626a186c2cf5a2a995439910",
+            "source": "spacenews",
+            "text": "Europe’s next security challenge is in orbit",
+            "source_link": "https://spacenews.com/europes-next-security-challenge-is-in-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-26T11:05:24.347871Z",
+            "shown_at": [
+                "2026-06-26T11:05:27.363639Z"
             ]
         }
     ]
