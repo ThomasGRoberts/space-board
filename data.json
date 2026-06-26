@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-26T00:04:47.628989+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e1674b8824b1dd2fba1491618258c761",
+    "trigger_count": 0,
+    "current_item_id": "867fdc7afa51800180d31a99f9b0d6a8",
     "data": [
         {
             "id": "0b8519c9aeb263d233a666c403016635",
@@ -8224,9 +8224,12 @@
             "source": "spacenews",
             "text": "ISS repair spacewalk highlights concerns about station health",
             "source_link": "https://spacenews.com/iss-repair-spacewalk-highlights-concerns-about-station-health/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-06-26T12:32:34.114921Z"
+            "fetched_datetime": "2026-06-26T12:32:34.114921Z",
+            "shown_at": [
+                "2026-06-26T13:14:34.214755Z"
+            ]
         }
     ]
 }
