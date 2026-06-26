@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 14 | 21 | 42 |
+| spacenews | 8 | 14 | 21 | 43 |
 | breaking_defense | 1 | 2 | 17 | 34 |
 | nyt | 0 | 0 | 0 | 1 |
 
@@ -2703,3 +2703,4 @@
 - **Jun 26, 12:32 PM** - Starlink veterans launch startup to broaden megaconstellation ownership (spacenews)
 - **Jun 26, 01:14 PM** - ISS repair spacewalk highlights concerns about station health (spacenews)
 - **Jun 26, 02:04 PM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
+- **Jun 26, 02:39 PM** - Vantor selects BAE Systems to build next-generation imaging satellites (spacenews)
