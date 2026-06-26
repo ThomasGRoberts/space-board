@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 14 | 21 | 42 |
-| breaking_defense | 1 | 2 | 17 | 35 |
+| breaking_defense | 1 | 2 | 18 | 36 |
 | nyt | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2706,3 +2706,4 @@
 - **Jun 26, 02:39 PM** - Vantor selects BAE Systems to build next-generation imaging satellites (spacenews)
 - **Jun 26, 03:14 PM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
 - **Jun 26, 03:49 PM** - NASA’s inspector general warns launch sites nearing capacity (spacenews)
+- **Jun 26, 04:24 PM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
