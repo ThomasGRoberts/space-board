@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 6 | 13 | 22 | 42 |
-| breaking_defense | 0 | 1 | 17 | 35 |
+| spacenews | 6 | 13 | 21 | 42 |
+| breaking_defense | 0 | 1 | 18 | 36 |
 | nyt | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2717,3 +2717,4 @@
 - **Jun 26, 09:09 PM** - Spain-backed fund joins FOSSA’s sovereign satellite communications push (spacenews)
 - **Jun 26, 09:44 PM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
 - **Jun 26, 10:19 PM** - Rocket Lab launches 10th Synspective satellite (spacenews)
+- **Jun 26, 10:54 PM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
