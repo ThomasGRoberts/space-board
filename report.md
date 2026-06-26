@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 13 | 21 | 42 |
+| spacenews | 7 | 13 | 22 | 43 |
 | breaking_defense | 1 | 1 | 17 | 35 |
 | nyt | 0 | 0 | 0 | 0 |
 
@@ -2713,3 +2713,4 @@
 - **Jun 26, 06:44 PM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
 - **Jun 26, 07:19 PM** - House Appropriations Committee approves $55.5 billion for U.S. Space Force (spacenews)
 - **Jun 26, 07:54 PM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
+- **Jun 26, 08:34 PM** - House Appropriations Committee approves $55.5 billion for U.S. Space Force (spacenews)
