@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 17 | 21 | 42 |
-| breaking_defense | 1 | 4 | 18 | 34 |
+| breaking_defense | 1 | 4 | 18 | 35 |
 | nyt | 0 | 0 | 0 | 2 |
 
 # Shown Order
@@ -2694,3 +2694,4 @@
 - **Jun 26, 06:34 AM** - India’s Jio lays out sovereign LEO constellation plan ahead of IPO (spacenews)
 - **Jun 26, 07:09 AM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
 - **Jun 26, 07:49 AM** - NASA selects mission to study space weather interaction with Earth’s atmosphere (spacenews)
+- **Jun 26, 08:34 AM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
