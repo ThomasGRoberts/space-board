@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 17 | 21 | 41 |
-| breaking_defense | 1 | 4 | 17 | 33 |
+| breaking_defense | 1 | 4 | 18 | 34 |
 | nyt | 0 | 0 | 0 | 4 |
 
 # Shown Order
@@ -2688,3 +2688,4 @@
 - **Jun 26, 03:04 AM** - Vantor selects BAE Systems to build next-generation imaging satellites (spacenews)
 - **Jun 26, 03:39 AM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
 - **Jun 26, 04:14 AM** - Ubotica raises $11 million to scale maritime-intelligence platform (spacenews)
+- **Jun 26, 04:49 AM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
