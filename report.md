@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 18 | 20 | 40 |
+| spacenews | 8 | 18 | 21 | 41 |
 | breaking_defense | 1 | 4 | 18 | 32 |
 | nyt | 0 | 0 | 0 | 6 |
 
@@ -2683,3 +2683,4 @@
 - **Jun 26, 12:04 AM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
 - **Jun 26, 12:44 AM** - Northrop Grumman says industry ready to scale solid rocket production, with longer contracts (spacenews)
 - **Jun 26, 01:19 AM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
+- **Jun 26, 01:54 AM** - Ubotica raises $11 million to scale maritime-intelligence platform (spacenews)
