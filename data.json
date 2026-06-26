@@ -1,9 +1,117 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-06-25T00:04:58.161120+00:00",
-    "trigger_count": 6,
-    "current_item_id": "0b8519c9aeb263d233a666c403016635",
+    "last_run_datetime": "2026-06-26T00:04:47.628989+00:00",
+    "trigger_count": 0,
+    "current_item_id": "2c6b8db2062d9a63bf2b132da610b103",
     "data": [
+        {
+            "id": "0b8519c9aeb263d233a666c403016635",
+            "source": "spacenews",
+            "text": "Rocket Lab wins NASA award for three Electron launches",
+            "source_link": "https://spacenews.com/rocket-lab-wins-nasa-award-for-three-electron-launches/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-25T23:29:37.143948Z",
+            "shown_at": [
+                "2026-06-25T23:29:38.197420Z"
+            ]
+        },
+        {
+            "id": "596b4d0c2c084fd02dfaed37d543fb5c",
+            "source": "spacenews",
+            "text": "Space Force’s new MUOS satellites to use Boeing’s 702MP spacecraft platform",
+            "source_link": "https://spacenews.com/space-forces-new-muos-satellites-to-use-boeings-702mp-spacecraft-platform/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-25T22:14:35.171987Z",
+            "shown_at": [
+                "2026-06-25T22:49:35.327106Z"
+            ]
+        },
+        {
+            "id": "13517b6911581346e832861e77ae1052",
+            "source": "spacenews",
+            "text": "Weather Stream releases first light imagery from GEMS2 microwave radiometer",
+            "source_link": "https://spacenews.com/weather-stream-releases-first-light-imagery-from-gems2-microwave-radiometer/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-25T22:14:35.171926Z",
+            "shown_at": [
+                "2026-06-25T22:14:37.992447Z"
+            ]
+        },
+        {
+            "id": "9efe53b62f7ea72075227e3487d4a1ce",
+            "source": "breaking_defense",
+            "text": "China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report",
+            "source_link": "https://breakingdefense.com/2026/06/china-dumping-more-rocket-bodies-in-space-endangering-low-earth-orbit-satellites-report/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-25T21:39:17.099744Z",
+            "shown_at": [
+                "2026-06-25T21:39:18.054432Z"
+            ]
+        },
+        {
+            "id": "98d366b1d0bdf8edc554a96447b8c8ff",
+            "source": "spacenews",
+            "text": "Botswana signs the Artemis Accords",
+            "source_link": "https://spacenews.com/botswana-signs-the-artemis-accords/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-25T20:59:17.595359Z",
+            "shown_at": [
+                "2026-06-25T20:59:18.286710Z"
+            ]
+        },
+        {
+            "id": "5a8b276d36117dd6838fd8ac4544abc4",
+            "source": "spacenews",
+            "text": "Small satellite operators confront a bottleneck to space access",
+            "source_link": "https://spacenews.com/small-satellite-operators-confront-a-bottleneck-to-space-access/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-25T16:04:51.202327Z",
+            "shown_at": [
+                "2026-06-25T16:04:53.521264Z"
+            ]
+        },
+        {
+            "id": "3b68a7ffd910ffdcc0c95227076e3244",
+            "source": "spacenews",
+            "text": "Canceled NASA exploration projects suffered billions of dollars in overruns",
+            "source_link": "https://spacenews.com/canceled-nasa-exploration-projects-suffered-billions-of-dollars-in-overruns/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-25T11:34:49.840698Z",
+            "shown_at": [
+                "2026-06-25T12:09:37.510016Z"
+            ]
+        },
+        {
+            "id": "514fa8a5617ab2299ff0f1973fe66535",
+            "source": "spacenews",
+            "text": "House Appropriations Committee approves $55.5 billion for U.S. Space Force",
+            "source_link": "https://spacenews.com/house-appropriations-committee-approves-55-5-billion-for-u-s-space-force/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-25T11:34:49.840611Z",
+            "shown_at": [
+                "2026-06-25T11:35:00.689263Z"
+            ]
+        },
+        {
+            "id": "b7a59f85cf53a47b83853d0bedc5b701",
+            "source": "spacenews",
+            "text": "China schedules Long March 10B rocket launch and recovery attempt",
+            "source_link": "https://spacenews.com/china-schedules-long-march-10b-rocket-launch-and-recovery-attempt/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-25T10:19:43.759382Z",
+            "shown_at": [
+                "2026-06-25T10:19:44.793851Z"
+            ]
+        },
         {
             "id": "2fc4c3499a1dd7494a02104ae8a498fb",
             "source": "spacenews",
@@ -68,7 +176,8 @@
                 "2026-06-24T16:49:36.452436Z",
                 "2026-06-24T22:44:29.250455Z",
                 "2026-06-25T01:09:03.395299Z",
-                "2026-06-25T17:54:33.217404Z"
+                "2026-06-25T17:54:33.217404Z",
+                "2026-06-26T00:04:53.176197Z"
             ]
         },
         {
@@ -8066,231 +8175,6 @@
                 "2026-04-19T04:19:15.212059Z",
                 "2026-04-22T05:14:19.963557Z",
                 "2026-04-22T22:09:07.657247Z"
-            ]
-        },
-        {
-            "id": "c71073e9d85c729f5cb80bdd997ca08c",
-            "source": "spacenews",
-            "text": "Aethero orders Titan satellite to advance space-based data center ambitions",
-            "source_link": "https://spacenews.com/aethero-orders-titan-satellite-to-advance-space-based-data-center-ambitions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-16T12:04:48.195323Z",
-            "shown_at": [
-                "2026-04-16T12:39:19.488073Z",
-                "2026-04-22T03:51:23.601017Z"
-            ]
-        },
-        {
-            "id": "3353cf6b7a3e830e2dbb75c1add18714",
-            "source": "spacenews",
-            "text": "Voyager to fly private astronaut mission to ISS",
-            "source_link": "https://spacenews.com/voyager-to-fly-private-astronaut-mission-to-iss/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-16T12:04:48.195264Z",
-            "shown_at": [
-                "2026-04-16T12:04:49.733890Z",
-                "2026-04-22T23:24:15.603587Z"
-            ]
-        },
-        {
-            "id": "f619304135355b686c48fe9b27494206",
-            "source": "spacenews",
-            "text": "PlanetiQ secures $15 million Air Force STRATFI contract",
-            "source_link": "https://spacenews.com/planetiq-secures-15-million-air-force-stratfi-contract/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-16T10:19:33.912450Z",
-            "shown_at": [
-                "2026-04-16T10:19:35.348358Z"
-            ]
-        },
-        {
-            "id": "1bf96310fd377b889d6c0eb36f080b58",
-            "source": "spacenews",
-            "text": "Space Force reorg signals end of SDA as standalone agency",
-            "source_link": "https://spacenews.com/space-force-reorg-signals-end-of-sda-as-standalone-agency/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-16T03:19:06.352865Z",
-            "shown_at": [
-                "2026-04-16T03:19:07.204599Z"
-            ]
-        },
-        {
-            "id": "20d8e5cf3118a195fe9f8d03545e21dd",
-            "source": "spacenews",
-            "text": "The Infrastructure Layer U.S. Space Superiority Has Been Missing",
-            "source_link": "https://spacenews.com/the-infrastructure-layer-u-s-space-superiority-has-been-missing/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-15T21:29:10.049745Z",
-            "shown_at": [
-                "2026-04-15T23:14:09.125460Z",
-                "2026-04-18T03:49:17.507392Z"
-            ]
-        },
-        {
-            "id": "2e2611d58ab89dbe2cb4f27d3c0dc759",
-            "source": "spacenews",
-            "text": "Emerson Launches Innovative Software-Driven Method for High-Fidelity Aerospace RF Testing",
-            "source_link": "https://spacenews.com/emerson-launches-innovative-software-driven-method-for-high-fidelity-aerospace-rf-testing/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-15T21:29:10.049444Z",
-            "shown_at": [
-                "2026-04-15T22:38:56.600059Z"
-            ]
-        },
-        {
-            "id": "c844c2090bdd6b4f6de283485c788a56",
-            "source": "spacenews",
-            "text": "NASA seeks proposals for commercial TDRSS replacement",
-            "source_link": "https://spacenews.com/nasa-seeks-proposals-for-commercial-tdrss-replacement/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-15T21:29:10.049396Z",
-            "shown_at": [
-                "2026-04-15T22:04:43.436484Z",
-                "2026-04-16T07:59:31.245660Z",
-                "2026-04-18T15:29:15.045700Z",
-                "2026-04-19T01:59:08.600212Z",
-                "2026-04-19T19:39:08.802874Z"
-            ]
-        },
-        {
-            "id": "98152c3d6c05c4441e0f9b17cf53c55f",
-            "source": "spacenews",
-            "text": "Defining acquisition on a wartime footing",
-            "source_link": "https://spacenews.com/defining-acquisition-on-a-wartime-footing/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-15T21:29:10.049326Z",
-            "shown_at": [
-                "2026-04-15T21:29:10.702707Z",
-                "2026-04-21T00:19:21.173328Z"
-            ]
-        },
-        {
-            "id": "2f1ce65dd86f62e106eb4304a177e753",
-            "source": "spacenews",
-            "text": "Senators seek increased funding for NASA Mars missions",
-            "source_link": "https://spacenews.com/senators-seek-increased-funding-for-nasa-mars-missions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-15T18:34:39.907773Z",
-            "shown_at": [
-                "2026-04-15T19:09:28.802370Z",
-                "2026-04-19T00:49:00.596939Z"
-            ]
-        },
-        {
-            "id": "b7a59f85cf53a47b83853d0bedc5b701",
-            "source": "spacenews",
-            "text": "China schedules Long March 10B rocket launch and recovery attempt",
-            "source_link": "https://spacenews.com/china-schedules-long-march-10b-rocket-launch-and-recovery-attempt/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-25T10:19:43.759382Z",
-            "shown_at": [
-                "2026-06-25T10:19:44.793851Z"
-            ]
-        },
-        {
-            "id": "514fa8a5617ab2299ff0f1973fe66535",
-            "source": "spacenews",
-            "text": "House Appropriations Committee approves $55.5 billion for U.S. Space Force",
-            "source_link": "https://spacenews.com/house-appropriations-committee-approves-55-5-billion-for-u-s-space-force/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-25T11:34:49.840611Z",
-            "shown_at": [
-                "2026-06-25T11:35:00.689263Z"
-            ]
-        },
-        {
-            "id": "3b68a7ffd910ffdcc0c95227076e3244",
-            "source": "spacenews",
-            "text": "Canceled NASA exploration projects suffered billions of dollars in overruns",
-            "source_link": "https://spacenews.com/canceled-nasa-exploration-projects-suffered-billions-of-dollars-in-overruns/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-25T11:34:49.840698Z",
-            "shown_at": [
-                "2026-06-25T12:09:37.510016Z"
-            ]
-        },
-        {
-            "id": "5a8b276d36117dd6838fd8ac4544abc4",
-            "source": "spacenews",
-            "text": "Small satellite operators confront a bottleneck to space access",
-            "source_link": "https://spacenews.com/small-satellite-operators-confront-a-bottleneck-to-space-access/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-25T16:04:51.202327Z",
-            "shown_at": [
-                "2026-06-25T16:04:53.521264Z"
-            ]
-        },
-        {
-            "id": "98d366b1d0bdf8edc554a96447b8c8ff",
-            "source": "spacenews",
-            "text": "Botswana signs the Artemis Accords",
-            "source_link": "https://spacenews.com/botswana-signs-the-artemis-accords/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-25T20:59:17.595359Z",
-            "shown_at": [
-                "2026-06-25T20:59:18.286710Z"
-            ]
-        },
-        {
-            "id": "9efe53b62f7ea72075227e3487d4a1ce",
-            "source": "breaking_defense",
-            "text": "China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report",
-            "source_link": "https://breakingdefense.com/2026/06/china-dumping-more-rocket-bodies-in-space-endangering-low-earth-orbit-satellites-report/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-25T21:39:17.099744Z",
-            "shown_at": [
-                "2026-06-25T21:39:18.054432Z"
-            ]
-        },
-        {
-            "id": "13517b6911581346e832861e77ae1052",
-            "source": "spacenews",
-            "text": "Weather Stream releases first light imagery from GEMS2 microwave radiometer",
-            "source_link": "https://spacenews.com/weather-stream-releases-first-light-imagery-from-gems2-microwave-radiometer/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-25T22:14:35.171926Z",
-            "shown_at": [
-                "2026-06-25T22:14:37.992447Z"
-            ]
-        },
-        {
-            "id": "596b4d0c2c084fd02dfaed37d543fb5c",
-            "source": "spacenews",
-            "text": "Space Force’s new MUOS satellites to use Boeing’s 702MP spacecraft platform",
-            "source_link": "https://spacenews.com/space-forces-new-muos-satellites-to-use-boeings-702mp-spacecraft-platform/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-25T22:14:35.171987Z",
-            "shown_at": [
-                "2026-06-25T22:49:35.327106Z"
-            ]
-        },
-        {
-            "id": "0b8519c9aeb263d233a666c403016635",
-            "source": "spacenews",
-            "text": "Rocket Lab wins NASA award for three Electron launches",
-            "source_link": "https://spacenews.com/rocket-lab-wins-nasa-award-for-three-electron-launches/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-25T23:29:37.143948Z",
-            "shown_at": [
-                "2026-06-25T23:29:38.197420Z"
             ]
         }
     ]

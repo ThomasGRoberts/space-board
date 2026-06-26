@@ -3,21 +3,11 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 18 | 21 | 40 |
-| breaking_defense | 1 | 4 | 18 | 31 |
+| breaking_defense | 1 | 4 | 18 | 32 |
 | nyt | 0 | 0 | 0 | 7 |
 
 # Shown Order
 
-- **Apr 15, 07:09 PM** - Senators seek increased funding for NASA Mars missions (spacenews)
-- **Apr 15, 09:29 PM** - Defining acquisition on a wartime footing (spacenews)
-- **Apr 15, 10:04 PM** - NASA seeks proposals for commercial TDRSS replacement (spacenews)
-- **Apr 15, 10:38 PM** - Emerson Launches Innovative Software-Driven Method for High-Fidelity Aerospace RF Testing (spacenews)
-- **Apr 15, 11:14 PM** - The Infrastructure Layer U.S. Space Superiority Has Been Missing (spacenews)
-- **Apr 16, 03:19 AM** - Space Force reorg signals end of SDA as standalone agency (spacenews)
-- **Apr 16, 07:59 AM** - NASA seeks proposals for commercial TDRSS replacement (spacenews)
-- **Apr 16, 10:19 AM** - PlanetiQ secures $15 million Air Force STRATFI contract (spacenews)
-- **Apr 16, 12:04 PM** - Voyager to fly private astronaut mission to ISS (spacenews)
-- **Apr 16, 12:39 PM** - Aethero orders Titan satellite to advance space-based data center ambitions (spacenews)
 - **Apr 16, 01:54 PM** - Artemis 2 is a benchmark in our space exploration program — and it depends on steady NASA funding (spacenews)
 - **Apr 16, 02:29 PM** - Aethero developing Titan satellite to advance space-based data center ambitions (spacenews)
 - **Apr 16, 04:14 PM** - NASA seeks commercial and exploration links for new Earth science missions (spacenews)
@@ -43,7 +33,6 @@
 - **Apr 17, 11:09 PM** - NorthStar to go public via SPAC to expand space-based SSA network (spacenews)
 - **Apr 17, 11:44 PM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
 - **Apr 18, 12:54 AM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
-- **Apr 18, 03:49 AM** - The Infrastructure Layer U.S. Space Superiority Has Been Missing (spacenews)
 - **Apr 18, 04:59 AM** - Artemis 2 astronauts praise performance of Orion (spacenews)
 - **Apr 18, 06:44 AM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
 - **Apr 18, 07:53 AM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
@@ -51,7 +40,6 @@
 - **Apr 18, 12:34 PM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
 - **Apr 18, 01:44 PM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
 - **Apr 18, 02:54 PM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
-- **Apr 18, 03:29 PM** - NASA seeks proposals for commercial TDRSS replacement (spacenews)
 - **Apr 18, 04:04 PM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
 - **Apr 18, 04:39 PM** - Qingzhou prototype cargo spacecraft completes rendezvous tests in orbit  (spacenews)
 - **Apr 18, 05:14 PM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
@@ -60,9 +48,7 @@
 - **Apr 18, 08:44 PM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
 - **Apr 18, 11:04 PM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
 - **Apr 19, 12:14 AM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
-- **Apr 19, 12:49 AM** - Senators seek increased funding for NASA Mars missions (spacenews)
 - **Apr 19, 01:24 AM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
-- **Apr 19, 01:59 AM** - NASA seeks proposals for commercial TDRSS replacement (spacenews)
 - **Apr 19, 02:34 AM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
 - **Apr 19, 03:44 AM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
 - **Apr 19, 04:19 AM** - Artemis 2 is a benchmark in our space exploration program — and it depends on steady NASA funding (spacenews)
@@ -82,7 +68,6 @@
 - **Apr 19, 05:14 PM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
 - **Apr 19, 06:29 PM** - Space Force weighs Vulcan flights without solid boosters  (spacenews)
 - **Apr 19, 07:04 PM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
-- **Apr 19, 07:39 PM** - NASA seeks proposals for commercial TDRSS replacement (spacenews)
 - **Apr 19, 08:14 PM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
 - **Apr 19, 08:49 PM** - Aethero developing Titan satellite to advance space-based data center ambitions (spacenews)
 - **Apr 19, 09:24 PM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
@@ -115,7 +100,6 @@
 - **Apr 20, 09:58 PM** - Pentagon officially ends OCX program, citing risk and delays (spacenews)
 - **Apr 20, 10:34 PM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
 - **Apr 20, 11:44 PM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
-- **Apr 21, 12:19 AM** - Defining acquisition on a wartime footing (spacenews)
 - **Apr 21, 12:54 AM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
 - **Apr 21, 01:28 AM** - Taiwan floats shared satcom constellation amid calls for more space collaboration (spacenews)
 - **Apr 21, 02:04 AM** - ‘Earthset’ Is Captured on Video for First Time (nyt)
@@ -154,7 +138,6 @@
 - **Apr 22, 01:44 AM** - Artemis II Crew to Discuss NASA Moon Mission and Next Steps (nyt)
 - **Apr 22, 02:21 AM** - Northrop Grumman takes $71 million charge on Vulcan booster issue (spacenews)
 - **Apr 22, 03:04 AM** - Artemis II Crew Discusses NASA Moon Mission and Next Steps (nyt)
-- **Apr 22, 03:51 AM** - Aethero orders Titan satellite to advance space-based data center ambitions (spacenews)
 - **Apr 22, 04:30 AM** - Sightings of Meteors Surge, and Scientists Aren’t Sure Why (nyt)
 - **Apr 22, 05:14 AM** - Artemis 2 is a benchmark in our space exploration program — and it depends on steady NASA funding (spacenews)
 - **Apr 22, 05:49 AM** - ‘Earthset’ Is Captured on Video for First Time (nyt)
@@ -184,7 +167,6 @@
 - **Apr 22, 09:34 PM** - Musk’s SpaceX Goals Shift Ahead of Its I.P.O. (nyt)
 - **Apr 22, 10:09 PM** - Artemis 2 is a benchmark in our space exploration program — and it depends on steady NASA funding (spacenews)
 - **Apr 22, 10:49 PM** - Dark Skies and Dark Energy Converge in West Texas (nyt)
-- **Apr 22, 11:24 PM** - Voyager to fly private astronaut mission to ISS (spacenews)
 - **Apr 23, 12:04 AM** - Sightings of Meteors Surge, and Scientists Aren’t Sure Why (nyt)
 - **Apr 23, 12:39 AM** - Falcon 9 launches final GPS 3 satellite into orbit for U.S. Space Force (spacenews)
 - **Apr 23, 01:14 AM** - Where Are All These Meteors Coming From? (nyt)
@@ -2698,3 +2680,4 @@
 - **Jun 25, 10:14 PM** - Weather Stream releases first light imagery from GEMS2 microwave radiometer (spacenews)
 - **Jun 25, 10:49 PM** - Space Force’s new MUOS satellites to use Boeing’s 702MP spacecraft platform (spacenews)
 - **Jun 25, 11:29 PM** - Rocket Lab wins NASA award for three Electron launches (spacenews)
+- **Jun 26, 12:04 AM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
