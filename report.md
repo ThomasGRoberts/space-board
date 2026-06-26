@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 18 | 21 | 39 |
+| spacenews | 8 | 18 | 21 | 40 |
 | breaking_defense | 1 | 4 | 18 | 32 |
 | nyt | 0 | 0 | 0 | 7 |
 
@@ -2681,3 +2681,4 @@
 - **Jun 25, 10:49 PM** - Space Force’s new MUOS satellites to use Boeing’s 702MP spacecraft platform (spacenews)
 - **Jun 25, 11:29 PM** - Rocket Lab wins NASA award for three Electron launches (spacenews)
 - **Jun 26, 12:04 AM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
+- **Jun 26, 12:44 AM** - Northrop Grumman says industry ready to scale solid rocket production, with longer contracts (spacenews)
