@@ -2683,3 +2683,4 @@
 - **Jun 27, 06:04 AM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
 - **Jun 27, 06:39 AM** - OHB raises funding for expansion, acquisitions (spacenews)
 - **Jun 27, 07:14 AM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
+- **Jun 27, 07:54 AM** - House Appropriations Committee approves $55.5 billion for U.S. Space Force (spacenews)
