@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 13 | 21 | 42 |
+| spacenews | 5 | 13 | 22 | 42 |
 | breaking_defense | 0 | 1 | 18 | 36 |
 | nyt | 0 | 0 | 0 | 0 |
 
@@ -2675,3 +2675,4 @@
 - **Jun 27, 01:14 AM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
 - **Jun 27, 01:49 AM** - Chinese spaceplane releases object into orbit, according to commercial space surveillance (spacenews)
 - **Jun 27, 02:24 AM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
+- **Jun 27, 02:59 AM** - Rocket Lab launches satellite for U.S. Space Force Victus Haze responsive space exercise (spacenews)
