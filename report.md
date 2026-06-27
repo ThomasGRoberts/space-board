@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 9 | 20 | 42 |
+| spacenews | 2 | 9 | 21 | 42 |
 | breaking_defense | 0 | 1 | 20 | 37 |
 | nyt | 0 | 0 | 0 | 0 |
 
@@ -2703,3 +2703,4 @@
 - **Jun 27, 05:59 PM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
 - **Jun 27, 06:34 PM** - NASA’s inspector general warns launch sites nearing capacity (spacenews)
 - **Jun 27, 07:09 PM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
+- **Jun 27, 07:44 PM** - NASA’s inspector general warns launch sites nearing capacity (spacenews)
