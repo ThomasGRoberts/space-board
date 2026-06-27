@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 2 | 9 | 21 | 42 |
-| breaking_defense | 0 | 1 | 19 | 36 |
+| breaking_defense | 0 | 1 | 20 | 37 |
 | nyt | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2700,3 +2700,4 @@
 - **Jun 27, 04:14 PM** - Trump executive order directs NASA to plan quantum space applications (spacenews)
 - **Jun 27, 04:49 PM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
 - **Jun 27, 05:24 PM** - Astroscale raises funding to support growth strategy (spacenews)
+- **Jun 27, 05:59 PM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
