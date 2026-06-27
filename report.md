@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 5 | 20 | 41 |
-| breaking_defense | 0 | 0 | 20 | 38 |
+| breaking_defense | 0 | 0 | 21 | 39 |
 | nyt | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2710,3 +2710,4 @@
 - **Jun 27, 10:09 PM** - Weather Stream releases first light imagery from GEMS2 microwave radiometer (spacenews)
 - **Jun 27, 10:44 PM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
 - **Jun 27, 11:19 PM** - Canceled NASA exploration projects suffered billions of dollars in overruns (spacenews)
+- **Jun 27, 11:54 PM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
