@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 1 | 8 | 20 | 42 |
-| breaking_defense | 0 | 1 | 20 | 37 |
+| breaking_defense | 0 | 1 | 21 | 38 |
 | nyt | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2706,3 +2706,4 @@
 - **Jun 27, 07:44 PM** - NASA’s inspector general warns launch sites nearing capacity (spacenews)
 - **Jun 27, 08:19 PM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
 - **Jun 27, 08:54 PM** - Astroscale raises funding to support growth strategy (spacenews)
+- **Jun 27, 09:29 PM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
