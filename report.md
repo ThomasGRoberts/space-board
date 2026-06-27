@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 10 | 20 | 41 |
+| spacenews | 2 | 10 | 21 | 42 |
 | breaking_defense | 0 | 1 | 20 | 37 |
 | nyt | 0 | 0 | 0 | 0 |
 
@@ -2693,3 +2693,4 @@
 - **Jun 27, 12:09 PM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
 - **Jun 27, 12:44 PM** - Rocket Lab launches satellite for U.S. Space Force Victus Haze responsive space exercise (spacenews)
 - **Jun 27, 01:19 PM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
+- **Jun 27, 01:54 PM** - Vast signs additional partners for commercial space station microgravity research (spacenews)
