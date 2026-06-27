@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 13 | 21 | 42 |
-| breaking_defense | 0 | 1 | 18 | 35 |
+| breaking_defense | 0 | 1 | 18 | 36 |
 | nyt | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2678,3 +2678,4 @@
 - **Jun 27, 02:59 AM** - Rocket Lab launches satellite for U.S. Space Force Victus Haze responsive space exercise (spacenews)
 - **Jun 27, 03:34 AM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
 - **Jun 27, 04:14 AM** - Trump executive order directs NASA to plan quantum space applications (spacenews)
+- **Jun 27, 04:54 AM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
