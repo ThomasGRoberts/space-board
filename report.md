@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 6 | 20 | 42 |
-| breaking_defense | 0 | 0 | 20 | 37 |
+| breaking_defense | 0 | 0 | 21 | 38 |
 | nyt | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2708,3 +2708,4 @@
 - **Jun 27, 08:54 PM** - Astroscale raises funding to support growth strategy (spacenews)
 - **Jun 27, 09:29 PM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
 - **Jun 27, 10:09 PM** - Weather Stream releases first light imagery from GEMS2 microwave radiometer (spacenews)
+- **Jun 27, 10:44 PM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
