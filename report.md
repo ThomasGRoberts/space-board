@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 9 | 20 | 41 |
+| spacenews | 2 | 9 | 21 | 42 |
 | breaking_defense | 0 | 1 | 20 | 37 |
 | nyt | 0 | 0 | 0 | 0 |
 
@@ -2697,3 +2697,4 @@
 - **Jun 27, 02:29 PM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
 - **Jun 27, 03:05 PM** - SpaceX launches secretive Starfall reentry demo mission (spacenews)
 - **Jun 27, 03:39 PM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
+- **Jun 27, 04:14 PM** - Trump executive order directs NASA to plan quantum space applications (spacenews)
