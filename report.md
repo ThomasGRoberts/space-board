@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 13 | 21 | 42 |
+| spacenews | 5 | 13 | 22 | 42 |
 | breaking_defense | 0 | 1 | 18 | 36 |
 | nyt | 0 | 0 | 0 | 0 |
 
@@ -2685,3 +2685,4 @@
 - **Jun 27, 07:14 AM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
 - **Jun 27, 07:54 AM** - House Appropriations Committee approves $55.5 billion for U.S. Space Force (spacenews)
 - **Jun 27, 08:29 AM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
+- **Jun 27, 09:05 AM** - Rocket Lab wins NASA award for three Electron launches (spacenews)
