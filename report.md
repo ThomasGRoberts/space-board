@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 2 | 10 | 20 | 41 |
+| spacenews | 2 | 10 | 21 | 42 |
 | breaking_defense | 0 | 1 | 20 | 37 |
 | nyt | 0 | 0 | 0 | 0 |
 
@@ -2695,3 +2695,4 @@
 - **Jun 27, 01:19 PM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
 - **Jun 27, 01:54 PM** - Vast signs additional partners for commercial space station microgravity research (spacenews)
 - **Jun 27, 02:29 PM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
+- **Jun 27, 03:05 PM** - SpaceX launches secretive Starfall reentry demo mission (spacenews)
