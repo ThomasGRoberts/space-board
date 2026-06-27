@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 5 | 13 | 21 | 42 |
-| breaking_defense | 0 | 1 | 18 | 36 |
+| breaking_defense | 0 | 1 | 18 | 37 |
 | nyt | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2682,3 +2682,4 @@
 - **Jun 27, 05:29 AM** - Satellogic partners with SynMax to build intelligence services around upcoming Merlin constellation (spacenews)
 - **Jun 27, 06:04 AM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
 - **Jun 27, 06:39 AM** - OHB raises funding for expansion, acquisitions (spacenews)
+- **Jun 27, 07:14 AM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
