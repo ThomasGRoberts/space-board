@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 5 | 20 | 41 |
-| breaking_defense | 0 | 0 | 20 | 38 |
+| breaking_defense | 0 | 0 | 21 | 39 |
 | nyt | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2718,3 +2718,4 @@
 - **Jun 28, 02:49 AM** - NGSO trade association launches without industry giant SpaceX (spacenews)
 - **Jun 28, 03:24 AM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
 - **Jun 28, 03:59 AM** - Europe’s next security challenge is in orbit (spacenews)
+- **Jun 28, 04:39 AM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
