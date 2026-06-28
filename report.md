@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 2 | 20 | 41 |
-| breaking_defense | 0 | 0 | 20 | 39 |
+| breaking_defense | 0 | 0 | 21 | 40 |
 | nyt | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2734,3 +2734,4 @@
 - **Jun 28, 12:35 PM** - America is about to cede Africa’s space industry to China, and nobody’s talking about it. (spacenews)
 - **Jun 28, 01:09 PM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
 - **Jun 28, 01:44 PM** - York satellite demonstrates two-way UHF communications from low Earth orbit (spacenews)
+- **Jun 28, 02:19 PM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
