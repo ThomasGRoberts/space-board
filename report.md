@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 5 | 20 | 41 |
-| breaking_defense | 0 | 0 | 20 | 38 |
+| breaking_defense | 0 | 0 | 21 | 39 |
 | nyt | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2720,3 +2720,4 @@
 - **Jun 28, 03:59 AM** - Europe’s next security challenge is in orbit (spacenews)
 - **Jun 28, 04:39 AM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
 - **Jun 28, 05:14 AM** - Astroscale raises funding to support growth strategy (spacenews)
+- **Jun 28, 05:49 AM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
