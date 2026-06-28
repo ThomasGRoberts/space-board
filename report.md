@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 5 | 20 | 41 |
+| spacenews | 0 | 5 | 21 | 42 |
 | breaking_defense | 0 | 0 | 20 | 38 |
 | nyt | 0 | 0 | 0 | 0 |
 
@@ -2713,3 +2713,4 @@
 - **Jun 27, 11:54 PM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
 - **Jun 28, 12:29 AM** - Small satellite operators confront a bottleneck to space access (spacenews)
 - **Jun 28, 01:04 AM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
+- **Jun 28, 01:39 AM** - NASA’s inspector general warns launch sites nearing capacity (spacenews)
