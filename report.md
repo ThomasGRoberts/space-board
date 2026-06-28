@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 5 | 20 | 41 |
+| spacenews | 0 | 5 | 21 | 42 |
 | breaking_defense | 0 | 0 | 20 | 38 |
 | nyt | 0 | 0 | 0 | 0 |
 
@@ -2727,3 +2727,4 @@
 - **Jun 28, 08:09 AM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
 - **Jun 28, 08:54 AM** - Shield Space and ClearSpace partner to defend satellites from orbital threats (spacenews)
 - **Jun 28, 09:34 AM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
+- **Jun 28, 10:09 AM** - Shield Space and ClearSpace partner to defend satellites from orbital threats (spacenews)
