@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 5 | 20 | 41 |
-| breaking_defense | 0 | 0 | 20 | 38 |
+| breaking_defense | 0 | 0 | 21 | 39 |
 | nyt | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2712,3 +2712,4 @@
 - **Jun 27, 11:19 PM** - Canceled NASA exploration projects suffered billions of dollars in overruns (spacenews)
 - **Jun 27, 11:54 PM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
 - **Jun 28, 12:29 AM** - Small satellite operators confront a bottleneck to space access (spacenews)
+- **Jun 28, 01:04 AM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
