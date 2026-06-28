@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 2 | 20 | 40 |
+| spacenews | 0 | 2 | 21 | 41 |
 | breaking_defense | 0 | 0 | 20 | 40 |
 | nyt | 0 | 0 | 0 | 0 |
 
@@ -2741,3 +2741,4 @@
 - **Jun 28, 04:39 PM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
 - **Jun 28, 05:14 PM** - Vast signs additional partners for commercial space station microgravity research (spacenews)
 - **Jun 28, 05:48 PM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
+- **Jun 28, 06:24 PM** - ISS repair spacewalk highlights concerns about station health (spacenews)
