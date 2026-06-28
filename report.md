@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 2 | 20 | 40 |
+| spacenews | 0 | 2 | 21 | 41 |
 | breaking_defense | 0 | 0 | 20 | 40 |
 | nyt | 0 | 0 | 0 | 0 |
 
@@ -2743,3 +2743,4 @@
 - **Jun 28, 05:48 PM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
 - **Jun 28, 06:24 PM** - ISS repair spacewalk highlights concerns about station health (spacenews)
 - **Jun 28, 06:59 PM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
+- **Jun 28, 07:34 PM** - ISS repair spacewalk highlights concerns about station health (spacenews)
