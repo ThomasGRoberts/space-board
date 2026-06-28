@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 1 | 20 | 40 |
+| spacenews | 0 | 1 | 21 | 41 |
 | breaking_defense | 0 | 0 | 20 | 40 |
 | nyt | 0 | 0 | 0 | 0 |
 
@@ -2747,3 +2747,4 @@
 - **Jun 28, 08:09 PM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
 - **Jun 28, 08:44 PM** - Weather Stream releases first light imagery from GEMS2 microwave radiometer (spacenews)
 - **Jun 28, 09:19 PM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
+- **Jun 28, 09:54 PM** - Rocket Lab launches satellite for U.S. Space Force Victus Haze responsive space exercise (spacenews)
