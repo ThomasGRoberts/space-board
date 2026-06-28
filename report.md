@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 0 | 5 | 20 | 41 |
+| spacenews | 0 | 5 | 21 | 42 |
 | breaking_defense | 0 | 0 | 20 | 38 |
 | nyt | 0 | 0 | 0 | 0 |
 
@@ -2715,3 +2715,4 @@
 - **Jun 28, 01:04 AM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
 - **Jun 28, 01:39 AM** - NASA’s inspector general warns launch sites nearing capacity (spacenews)
 - **Jun 28, 02:14 AM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
+- **Jun 28, 02:49 AM** - NGSO trade association launches without industry giant SpaceX (spacenews)
