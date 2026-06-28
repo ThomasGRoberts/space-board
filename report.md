@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 0 | 20 | 40 |
-| breaking_defense | 0 | 0 | 20 | 40 |
+| breaking_defense | 0 | 0 | 21 | 41 |
 | nyt | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2750,3 +2750,4 @@
 - **Jun 28, 09:54 PM** - Rocket Lab launches satellite for U.S. Space Force Victus Haze responsive space exercise (spacenews)
 - **Jun 28, 10:29 PM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
 - **Jun 28, 11:04 PM** - Loft Orbital to test AI models on spacecraft for Earth observation (spacenews)
+- **Jun 28, 11:44 PM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
