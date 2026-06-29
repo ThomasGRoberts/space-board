@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 0 | 20 | 40 |
-| breaking_defense | 0 | 0 | 19 | 40 |
+| breaking_defense | 0 | 0 | 20 | 41 |
 | nyt | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2760,3 +2760,4 @@
 - **Jun 29, 04:05 AM** - Europe’s next security challenge is in orbit (spacenews)
 - **Jun 29, 04:44 AM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
 - **Jun 29, 05:19 AM** - Vantor selects BAE Systems to build next-generation imaging satellites (spacenews)
+- **Jun 29, 05:54 AM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
