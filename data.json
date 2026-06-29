@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-29T00:04:56.620638+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2c6b8db2062d9a63bf2b132da610b103",
+    "trigger_count": 0,
+    "current_item_id": "c880dfb0603054b58d798427d6208030",
     "data": [
         {
             "id": "85a83d632cf3d9458d3073c2c76be53e",
@@ -8322,6 +8322,18 @@
             "fetched_datetime": "2026-06-29T13:09:13.998343Z",
             "shown_at": [
                 "2026-06-29T13:09:17.132802Z"
+            ]
+        },
+        {
+            "id": "c880dfb0603054b58d798427d6208030",
+            "source": "spacenews",
+            "text": "Discovering the Universe – Astrophysics Flagship Space Observatories Offer Insights to Key Questions",
+            "source_link": "https://spacenews.com/discovering-the-universe-astrophysics-flagship-space-observatories-offer-insights-to-key-questions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-29T14:29:41.131427Z",
+            "shown_at": [
+                "2026-06-29T14:29:43.702304Z"
             ]
         }
     ]
