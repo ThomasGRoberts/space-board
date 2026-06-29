@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 8 | 20 | 40 |
 | breaking_defense | 0 | 0 | 18 | 38 |
-| nyt | 0 | 0 | 0 | 0 |
+| nyt | 1 | 1 | 1 | 1 |
 
 # Shown Order
 
@@ -2784,3 +2784,4 @@
 - **Jun 29, 07:19 PM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
 - **Jun 29, 07:54 PM** - NASA and Boeing still uncertain about when Starliner will return to flight (spacenews)
 - **Jun 29, 08:29 PM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
+- **Jun 29, 09:04 PM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)

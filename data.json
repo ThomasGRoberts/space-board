@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-29T00:04:56.620638+00:00",
-    "trigger_count": 6,
-    "current_item_id": "475c4bad03dc8c430bd20feb67078509",
+    "trigger_count": 0,
+    "current_item_id": "1861fd469bb4d3463ce51b50bdb6e7df",
     "data": [
         {
             "id": "85a83d632cf3d9458d3073c2c76be53e",
@@ -8366,6 +8366,18 @@
             "fetched_datetime": "2026-06-29T15:44:46.270899Z",
             "shown_at": [
                 "2026-06-29T16:24:41.573307Z"
+            ]
+        },
+        {
+            "id": "1861fd469bb4d3463ce51b50bdb6e7df",
+            "source": "nyt",
+            "text": "Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead",
+            "source_link": "https://www.nytimes.com/2026/06/29/world/middleeast/abdul-ahad-momand-dead.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-29T21:04:48.347531Z",
+            "shown_at": [
+                "2026-06-29T21:04:49.058902Z"
             ]
         }
     ]
