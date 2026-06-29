@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 0 | 20 | 40 |
-| breaking_defense | 0 | 0 | 20 | 40 |
+| breaking_defense | 0 | 0 | 21 | 41 |
 | nyt | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2754,3 +2754,4 @@
 - **Jun 29, 12:19 AM** - Vantor selects BAE Systems to build next-generation imaging satellites (spacenews)
 - **Jun 29, 01:05 AM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
 - **Jun 29, 01:39 AM** - China appears to be developing 7-meter-diameter reusable rockets (spacenews)
+- **Jun 29, 02:14 AM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
