@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-29T00:04:56.620638+00:00",
-    "trigger_count": 6,
-    "current_item_id": "475c4bad03dc8c430bd20feb67078509",
+    "trigger_count": 0,
+    "current_item_id": "b2dbceff17c1734ab1edd224ddfb1bb7",
     "data": [
         {
             "id": "85a83d632cf3d9458d3073c2c76be53e",
@@ -8284,6 +8284,18 @@
             "fetched_datetime": "2026-06-29T09:39:25.851772Z",
             "shown_at": [
                 "2026-06-29T09:39:26.526738Z"
+            ]
+        },
+        {
+            "id": "b2dbceff17c1734ab1edd224ddfb1bb7",
+            "source": "spacenews",
+            "text": "SatVu restarts commercial operations with HotSat-2",
+            "source_link": "https://spacenews.com/satvu-restarts-commercial-operations-with-hotsat-2/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-29T11:19:33.504387Z",
+            "shown_at": [
+                "2026-06-29T11:19:35.364870Z"
             ]
         }
     ]
