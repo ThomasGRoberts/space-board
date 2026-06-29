@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-29T00:04:56.620638+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d3d739d29c3aa589f0ebe213069e4184",
+    "trigger_count": 0,
+    "current_item_id": "cb1375b6acdabb69677d032d54e39f3d",
     "data": [
         {
             "id": "85a83d632cf3d9458d3073c2c76be53e",
@@ -8309,6 +8309,18 @@
             "fetched_datetime": "2026-06-29T12:34:54.735271Z",
             "shown_at": [
                 "2026-06-29T12:34:56.442053Z"
+            ]
+        },
+        {
+            "id": "cb1375b6acdabb69677d032d54e39f3d",
+            "source": "spacenews",
+            "text": "Quantum computing is about to become a national security problem in orbit",
+            "source_link": "https://spacenews.com/quantum-computing-is-about-to-become-a-national-security-problem-in-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-29T13:09:13.998343Z",
+            "shown_at": [
+                "2026-06-29T13:09:17.132802Z"
             ]
         }
     ]
