@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-29T00:04:56.620638+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1861fd469bb4d3463ce51b50bdb6e7df",
+    "trigger_count": 0,
+    "current_item_id": "9c7944b3aa9fa25dbbde354db923bf48",
     "data": [
         {
             "id": "85a83d632cf3d9458d3073c2c76be53e",
@@ -8378,6 +8378,18 @@
             "fetched_datetime": "2026-06-29T21:04:48.347531Z",
             "shown_at": [
                 "2026-06-29T21:04:49.058902Z"
+            ]
+        },
+        {
+            "id": "9c7944b3aa9fa25dbbde354db923bf48",
+            "source": "breaking_defense",
+            "text": "Rocket Lab to buy satellite communications firm Iridium",
+            "source_link": "https://breakingdefense.com/2026/06/rocket-lab-to-buy-satellite-communications-firm-iridium/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-29T21:39:26.995823Z",
+            "shown_at": [
+                "2026-06-29T21:39:28.078535Z"
             ]
         }
     ]

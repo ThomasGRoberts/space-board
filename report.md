@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 8 | 20 | 40 |
-| breaking_defense | 0 | 0 | 17 | 37 |
+| breaking_defense | 1 | 1 | 18 | 38 |
 | nyt | 1 | 1 | 1 | 1 |
 
 # Shown Order
@@ -2785,3 +2785,4 @@
 - **Jun 29, 07:54 PM** - NASA and Boeing still uncertain about when Starliner will return to flight (spacenews)
 - **Jun 29, 08:29 PM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
 - **Jun 29, 09:04 PM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
+- **Jun 29, 09:39 PM** - Rocket Lab to buy satellite communications firm Iridium (breaking_defense)
