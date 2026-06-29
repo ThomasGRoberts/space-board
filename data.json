@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-29T00:04:56.620638+00:00",
-    "trigger_count": 6,
-    "current_item_id": "bb9392ab343889a0cd8ef7b53569af50",
+    "trigger_count": 0,
+    "current_item_id": "d8e6e00e685d346bf757e03c762b43ac",
     "data": [
         {
             "id": "85a83d632cf3d9458d3073c2c76be53e",
@@ -8354,9 +8354,12 @@
             "source": "spacenews",
             "text": "Beck: Iridium acquisition the “logical next step” for Rocket Lab",
             "source_link": "https://spacenews.com/beck-iridium-acquisition-the-logical-next-step-for-rocket-lab/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-06-29T15:44:46.270899Z"
+            "fetched_datetime": "2026-06-29T15:44:46.270899Z",
+            "shown_at": [
+                "2026-06-29T16:24:41.573307Z"
+            ]
         }
     ]
 }

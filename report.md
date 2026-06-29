@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 8 | 20 | 40 |
+| spacenews | 8 | 8 | 21 | 41 |
 | breaking_defense | 0 | 0 | 18 | 38 |
 | nyt | 0 | 0 | 0 | 0 |
 
@@ -2776,3 +2776,4 @@
 - **Jun 29, 02:29 PM** - Discovering the Universe – Astrophysics Flagship Space Observatories Offer Insights to Key Questions (spacenews)
 - **Jun 29, 03:09 PM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
 - **Jun 29, 03:44 PM** - ESA to seek lunar mapping capability for Argonaut lander (spacenews)
+- **Jun 29, 04:24 PM** - Beck: Iridium acquisition the “logical next step” for Rocket Lab (spacenews)
