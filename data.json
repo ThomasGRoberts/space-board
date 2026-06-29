@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-29T00:04:56.620638+00:00",
-    "trigger_count": 6,
-    "current_item_id": "2c6b8db2062d9a63bf2b132da610b103",
+    "trigger_count": 0,
+    "current_item_id": "bb9392ab343889a0cd8ef7b53569af50",
     "data": [
         {
             "id": "85a83d632cf3d9458d3073c2c76be53e",
@@ -8336,6 +8336,27 @@
             "shown_at": [
                 "2026-06-29T14:29:43.702304Z"
             ]
+        },
+        {
+            "id": "bb9392ab343889a0cd8ef7b53569af50",
+            "source": "spacenews",
+            "text": "ESA to seek lunar mapping capability for Argonaut lander",
+            "source_link": "https://spacenews.com/esa-to-seek-lunar-mapping-capability-for-argonaut-lander/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-29T15:44:46.270844Z",
+            "shown_at": [
+                "2026-06-29T15:44:47.880744Z"
+            ]
+        },
+        {
+            "id": "d8e6e00e685d346bf757e03c762b43ac",
+            "source": "spacenews",
+            "text": "Beck: Iridium acquisition the “logical next step” for Rocket Lab",
+            "source_link": "https://spacenews.com/beck-iridium-acquisition-the-logical-next-step-for-rocket-lab/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-06-29T15:44:46.270899Z"
         }
     ]
 }
