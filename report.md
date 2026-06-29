@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 8 | 20 | 40 |
 | breaking_defense | 1 | 1 | 17 | 37 |
-| nyt | 1 | 1 | 1 | 1 |
+| nyt | 1 | 1 | 2 | 2 |
 
 # Shown Order
 
@@ -2787,3 +2787,4 @@
 - **Jun 29, 09:04 PM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
 - **Jun 29, 09:39 PM** - Rocket Lab to buy satellite communications firm Iridium (breaking_defense)
 - **Jun 29, 10:14 PM** - Vast signs additional partners for commercial space station microgravity research (spacenews)
+- **Jun 29, 10:54 PM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
