@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-29T00:04:56.620638+00:00",
-    "trigger_count": 6,
-    "current_item_id": "475c4bad03dc8c430bd20feb67078509",
+    "trigger_count": 0,
+    "current_item_id": "3ee32e24c70df1860b5546783a159251",
     "data": [
         {
             "id": "85a83d632cf3d9458d3073c2c76be53e",
@@ -8259,6 +8259,18 @@
             "fetched_datetime": "2026-04-16T18:34:27.471727Z",
             "shown_at": [
                 "2026-04-16T18:34:28.384320Z"
+            ]
+        },
+        {
+            "id": "3ee32e24c70df1860b5546783a159251",
+            "source": "spacenews",
+            "text": "China establishes VLEO industry alliance as satellites demonstrate sustained low-orbit operations",
+            "source_link": "https://spacenews.com/china-establishes-vleo-industry-alliance-as-satellites-demonstrate-sustained-low-orbit-operations/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-29T08:59:12.904528Z",
+            "shown_at": [
+                "2026-06-29T08:59:13.707665Z"
             ]
         }
     ]
