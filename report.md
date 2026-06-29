@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 3 | 20 | 40 |
-| breaking_defense | 0 | 0 | 19 | 39 |
+| breaking_defense | 0 | 0 | 20 | 40 |
 | nyt | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2769,3 +2769,4 @@
 - **Jun 29, 09:39 AM** - Craft Prospect selected for The Sunday Times Scotland Fast 50 (spacenews)
 - **Jun 29, 10:14 AM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
 - **Jun 29, 11:19 AM** - SatVu restarts commercial operations with HotSat-2 (spacenews)
+- **Jun 29, 11:54 AM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
