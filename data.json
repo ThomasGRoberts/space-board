@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-29T00:04:56.620638+00:00",
-    "trigger_count": 6,
-    "current_item_id": "475c4bad03dc8c430bd20feb67078509",
+    "trigger_count": 0,
+    "current_item_id": "d3d739d29c3aa589f0ebe213069e4184",
     "data": [
         {
             "id": "85a83d632cf3d9458d3073c2c76be53e",
@@ -8297,6 +8297,18 @@
             "fetched_datetime": "2026-06-29T11:19:33.504387Z",
             "shown_at": [
                 "2026-06-29T11:19:35.364870Z"
+            ]
+        },
+        {
+            "id": "d3d739d29c3aa589f0ebe213069e4184",
+            "source": "spacenews",
+            "text": "Rocket Lab to acquire Iridium",
+            "source_link": "https://spacenews.com/rocket-lab-to-acquire-iridium/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-29T12:34:54.735271Z",
+            "shown_at": [
+                "2026-06-29T12:34:56.442053Z"
             ]
         }
     ]
