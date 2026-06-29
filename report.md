@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 8 | 21 | 41 |
-| breaking_defense | 0 | 0 | 17 | 37 |
+| breaking_defense | 0 | 0 | 18 | 38 |
 | nyt | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2777,3 +2777,4 @@
 - **Jun 29, 03:09 PM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
 - **Jun 29, 03:44 PM** - ESA to seek lunar mapping capability for Argonaut lander (spacenews)
 - **Jun 29, 04:24 PM** - Beck: Iridium acquisition the “logical next step” for Rocket Lab (spacenews)
+- **Jun 29, 04:59 PM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
