@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 0 | 0 | 20 | 40 |
-| breaking_defense | 0 | 0 | 20 | 40 |
+| breaking_defense | 0 | 0 | 20 | 41 |
 | nyt | 0 | 0 | 0 | 0 |
 
 # Shown Order
@@ -2758,3 +2758,4 @@
 - **Jun 29, 02:49 AM** - Weather Stream releases first light imagery from GEMS2 microwave radiometer (spacenews)
 - **Jun 29, 03:24 AM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
 - **Jun 29, 04:05 AM** - Europe’s next security challenge is in orbit (spacenews)
+- **Jun 29, 04:44 AM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
