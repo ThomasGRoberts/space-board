@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 8 | 19 | 39 |
-| breaking_defense | 1 | 1 | 17 | 37 |
+| breaking_defense | 1 | 1 | 18 | 38 |
 | nyt | 1 | 1 | 2 | 2 |
 
 # Shown Order
@@ -2788,3 +2788,4 @@
 - **Jun 29, 09:39 PM** - Rocket Lab to buy satellite communications firm Iridium (breaking_defense)
 - **Jun 29, 10:14 PM** - Vast signs additional partners for commercial space station microgravity research (spacenews)
 - **Jun 29, 10:54 PM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
+- **Jun 29, 11:34 PM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
