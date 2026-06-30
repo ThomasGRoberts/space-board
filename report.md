@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 14 | 33 |
 | nyt | 1 | 1 | 8 | 8 |
-| spacenews | 6 | 10 | 15 | 35 |
+| spacenews | 8 | 12 | 16 | 36 |
 
 # Shown Order
 
@@ -2748,3 +2748,4 @@
 - **Jun 30, 10:44 AM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
 - **Jun 30, 11:35 AM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
 - **Jun 30, 12:09 PM** - Orbital files plans for 100,000 orbital data centers (spacenews)
+- **Jun 30, 01:06 PM** - Vast names Isakowitz as a senior adviser (spacenews)
