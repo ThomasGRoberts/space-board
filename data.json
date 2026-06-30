@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-30T00:05:00.242112+00:00",
-    "trigger_count": 6,
-    "current_item_id": "85a83d632cf3d9458d3073c2c76be53e",
+    "trigger_count": 0,
+    "current_item_id": "1562cb2acc77aade28aa8d50e024edf4",
     "data": [
         {
             "id": "9c7944b3aa9fa25dbbde354db923bf48",
@@ -8294,6 +8294,18 @@
             "fetched_datetime": "2026-06-30T13:06:10.311627Z",
             "shown_at": [
                 "2026-06-30T14:07:11.069207Z"
+            ]
+        },
+        {
+            "id": "1562cb2acc77aade28aa8d50e024edf4",
+            "source": "spacenews",
+            "text": "Matthew Williams Joins the Commercial Space Federation as Senior Advisor, National Security",
+            "source_link": "https://spacenews.com/matthew-williams-joins-the-commercial-space-federation-as-senior-advisor-national-security/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-30T18:35:42.826715Z",
+            "shown_at": [
+                "2026-06-30T18:35:45.083676Z"
             ]
         }
     ]

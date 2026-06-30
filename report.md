@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 12 | 30 |
 | nyt | 1 | 1 | 10 | 10 |
-| spacenews | 4 | 12 | 14 | 34 |
+| spacenews | 5 | 13 | 15 | 35 |
 
 # Shown Order
 
@@ -2756,3 +2756,4 @@
 - **Jun 30, 04:39 PM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
 - **Jun 30, 05:19 PM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
 - **Jun 30, 05:54 PM** - Rocket Lab launches 10th Synspective satellite (spacenews)
+- **Jun 30, 06:35 PM** - Matthew Williams Joins the Commercial Space Federation as Senior Advisor, National Security (spacenews)
