@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-30T00:05:00.242112+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1ef3d0b14a32cd3f98c1e526f4725212",
+    "trigger_count": 0,
+    "current_item_id": "b2512fc0cbfc1e48c00506d4833a56d4",
     "data": [
         {
             "id": "9c7944b3aa9fa25dbbde354db923bf48",
@@ -8283,9 +8283,12 @@
             "source": "spacenews",
             "text": "SSC Space, Firefly set 2028 target for first orbital launch from Sweden’s Esrange",
             "source_link": "https://spacenews.com/ssc-space-firefly-set-2028-target-for-first-orbital-launch-from-swedens-esrange/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-06-30T13:06:10.311627Z"
+            "fetched_datetime": "2026-06-30T13:06:10.311627Z",
+            "shown_at": [
+                "2026-06-30T14:07:11.069207Z"
+            ]
         }
     ]
 }
