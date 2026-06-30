@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 1 | 14 | 33 |
+| breaking_defense | 1 | 1 | 15 | 34 |
 | nyt | 1 | 1 | 8 | 8 |
 | spacenews | 6 | 9 | 15 | 35 |
 
@@ -2746,3 +2746,4 @@
 - **Jun 30, 09:11 AM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
 - **Jun 30, 09:54 AM** - Quantum computing is about to become a national security problem in orbit (spacenews)
 - **Jun 30, 10:44 AM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
+- **Jun 30, 11:35 AM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
