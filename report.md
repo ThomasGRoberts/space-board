@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 1 | 11 | 28 |
-| nyt | 0 | 1 | 10 | 12 |
+| nyt | 0 | 1 | 11 | 13 |
 | spacenews | 7 | 15 | 15 | 34 |
 
 # Shown Order
@@ -2764,3 +2764,4 @@
 - **Jun 30, 09:34 PM** - Orbital files plans for 100,000 orbital data centers (spacenews)
 - **Jun 30, 10:09 PM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
 - **Jun 30, 10:44 PM** - TechnoMile Recognized among Notable Vendors in Contract Lifecycle Management Platforms Landscape Report (spacenews)
+- **Jun 30, 11:24 PM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
