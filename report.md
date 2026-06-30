@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 15 | 35 |
 | nyt | 1 | 1 | 6 | 6 |
-| spacenews | 9 | 9 | 17 | 36 |
+| spacenews | 9 | 9 | 17 | 37 |
 
 # Shown Order
 
@@ -2741,3 +2741,4 @@
 - **Jun 30, 05:49 AM** - Study argues bigger launch vehicles may not always be better (spacenews)
 - **Jun 30, 06:24 AM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
 - **Jun 30, 06:59 AM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
+- **Jun 30, 07:49 AM** - SpaceX launches secretive Starfall reentry demo mission (spacenews)
