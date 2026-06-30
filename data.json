@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-30T00:05:00.242112+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1861fd469bb4d3463ce51b50bdb6e7df",
+    "trigger_count": 0,
+    "current_item_id": "be8295e6f578f57da46540778e2e44f7",
     "data": [
         {
             "id": "9c7944b3aa9fa25dbbde354db923bf48",
@@ -8336,6 +8336,18 @@
             "fetched_datetime": "2026-06-30T22:44:46.865689Z",
             "shown_at": [
                 "2026-06-30T22:44:47.802529Z"
+            ]
+        },
+        {
+            "id": "be8295e6f578f57da46540778e2e44f7",
+            "source": "spacenews",
+            "text": "NASA awards nearly $600 million in lunar lander missions",
+            "source_link": "https://spacenews.com/nasa-awards-nearly-600-million-in-lunar-lander-missions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-30T23:59:15.665056Z",
+            "shown_at": [
+                "2026-06-30T23:59:16.492305Z"
             ]
         }
     ]

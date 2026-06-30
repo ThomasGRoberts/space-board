@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 0 | 1 | 10 | 27 |
 | nyt | 0 | 1 | 11 | 13 |
-| spacenews | 7 | 15 | 15 | 34 |
+| spacenews | 8 | 16 | 16 | 35 |
 
 # Shown Order
 
@@ -2765,3 +2765,4 @@
 - **Jun 30, 10:09 PM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
 - **Jun 30, 10:44 PM** - TechnoMile Recognized among Notable Vendors in Contract Lifecycle Management Platforms Landscape Report (spacenews)
 - **Jun 30, 11:24 PM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
+- **Jun 30, 11:59 PM** - NASA awards nearly $600 million in lunar lander missions (spacenews)
