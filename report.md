@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 16 | 36 |
-| nyt | 1 | 1 | 3 | 3 |
+| nyt | 1 | 1 | 4 | 4 |
 | spacenews | 9 | 9 | 19 | 39 |
 
 # Shown Order
@@ -2733,3 +2733,4 @@
 - **Jun 30, 12:44 AM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
 - **Jun 30, 01:19 AM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
 - **Jun 30, 01:54 AM** - Study argues bigger launch vehicles may not always be better (spacenews)
+- **Jun 30, 02:29 AM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
