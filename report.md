@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 0 | 1 | 10 | 28 |
+| breaking_defense | 0 | 1 | 11 | 29 |
 | nyt | 0 | 1 | 11 | 12 |
 | spacenews | 6 | 14 | 15 | 34 |
 
@@ -2762,3 +2762,4 @@
 - **Jun 30, 08:24 PM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
 - **Jun 30, 08:59 PM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
 - **Jun 30, 09:34 PM** - Orbital files plans for 100,000 orbital data centers (spacenews)
+- **Jun 30, 10:09 PM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
