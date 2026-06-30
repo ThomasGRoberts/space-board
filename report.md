@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 1 | 16 | 36 |
+| breaking_defense | 1 | 1 | 17 | 37 |
 | nyt | 1 | 1 | 3 | 3 |
 | spacenews | 8 | 8 | 19 | 39 |
 
@@ -2731,3 +2731,4 @@
 - **Jun 29, 11:34 PM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
 - **Jun 30, 12:09 AM** - Europe’s next security challenge is in orbit (spacenews)
 - **Jun 30, 12:44 AM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
+- **Jun 30, 01:19 AM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
