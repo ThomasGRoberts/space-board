@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 13 | 31 |
-| nyt | 1 | 1 | 8 | 8 |
+| nyt | 1 | 1 | 9 | 9 |
 | spacenews | 6 | 12 | 15 | 36 |
 
 # Shown Order
@@ -2750,3 +2750,4 @@
 - **Jun 30, 12:09 PM** - Orbital files plans for 100,000 orbital data centers (spacenews)
 - **Jun 30, 01:06 PM** - Vast names Isakowitz as a senior adviser (spacenews)
 - **Jun 30, 02:07 PM** - SSC Space, Firefly set 2028 target for first orbital launch from Sweden’s Esrange (spacenews)
+- **Jun 30, 02:49 PM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
