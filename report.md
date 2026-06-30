@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 1 | 11 | 28 |
+| breaking_defense | 1 | 1 | 12 | 29 |
 | nyt | 1 | 1 | 11 | 11 |
 | spacenews | 6 | 14 | 14 | 35 |
 
@@ -2759,3 +2759,4 @@
 - **Jun 30, 06:35 PM** - Matthew Williams Joins the Commercial Space Federation as Senior Advisor, National Security (spacenews)
 - **Jun 30, 07:14 PM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
 - **Jun 30, 07:49 PM** - Space Force fields mobile satellite-jamming system  (spacenews)
+- **Jun 30, 08:24 PM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
