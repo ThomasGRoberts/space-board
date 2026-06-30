@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 17 | 37 |
 | nyt | 1 | 1 | 2 | 2 |
-| spacenews | 8 | 8 | 19 | 39 |
+| spacenews | 8 | 8 | 20 | 40 |
 
 # Shown Order
 
@@ -2729,3 +2729,4 @@
 - **Jun 29, 10:14 PM** - Vast signs additional partners for commercial space station microgravity research (spacenews)
 - **Jun 29, 10:54 PM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
 - **Jun 29, 11:34 PM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
+- **Jun 30, 12:09 AM** - Europe’s next security challenge is in orbit (spacenews)
