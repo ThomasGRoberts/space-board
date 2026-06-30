@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 1 | 12 | 30 |
+| breaking_defense | 1 | 1 | 13 | 31 |
 | nyt | 1 | 1 | 10 | 10 |
-| spacenews | 4 | 12 | 14 | 35 |
+| spacenews | 4 | 12 | 14 | 34 |
 
 # Shown Order
 
@@ -2754,3 +2754,4 @@
 - **Jun 30, 03:29 PM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
 - **Jun 30, 04:05 PM** - Rocket Lab wins NASA award for three Electron launches (spacenews)
 - **Jun 30, 04:39 PM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
+- **Jun 30, 05:19 PM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
