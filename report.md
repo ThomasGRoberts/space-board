@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 14 | 33 |
 | nyt | 1 | 1 | 8 | 8 |
-| spacenews | 6 | 9 | 15 | 35 |
+| spacenews | 7 | 10 | 16 | 36 |
 
 # Shown Order
 
@@ -2747,3 +2747,4 @@
 - **Jun 30, 09:54 AM** - Quantum computing is about to become a national security problem in orbit (spacenews)
 - **Jun 30, 10:44 AM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
 - **Jun 30, 11:35 AM** - We must ensure the next war is won, not lost, in space. That starts with acquisition. (breaking_defense)
+- **Jun 30, 12:09 PM** - Orbital files plans for 100,000 orbital data centers (spacenews)
