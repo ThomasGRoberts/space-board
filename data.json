@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-30T00:05:00.242112+00:00",
-    "trigger_count": 6,
-    "current_item_id": "1861fd469bb4d3463ce51b50bdb6e7df",
+    "trigger_count": 0,
+    "current_item_id": "d23d7c1911fb5c3aaec9d066e8f2ef90",
     "data": [
         {
             "id": "9c7944b3aa9fa25dbbde354db923bf48",
@@ -8307,6 +8307,18 @@
             "fetched_datetime": "2026-06-30T18:35:42.826715Z",
             "shown_at": [
                 "2026-06-30T18:35:45.083676Z"
+            ]
+        },
+        {
+            "id": "d23d7c1911fb5c3aaec9d066e8f2ef90",
+            "source": "spacenews",
+            "text": "Space Force fields mobile satellite-jamming system ",
+            "source_link": "https://spacenews.com/space-force-fields-mobile-satellite-jamming-system/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-30T19:49:33.469152Z",
+            "shown_at": [
+                "2026-06-30T19:49:35.458351Z"
             ]
         }
     ]

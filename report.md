@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 11 | 29 |
 | nyt | 1 | 1 | 11 | 11 |
-| spacenews | 5 | 13 | 14 | 34 |
+| spacenews | 6 | 14 | 15 | 35 |
 
 # Shown Order
 
@@ -2758,3 +2758,4 @@
 - **Jun 30, 05:54 PM** - Rocket Lab launches 10th Synspective satellite (spacenews)
 - **Jun 30, 06:35 PM** - Matthew Williams Joins the Commercial Space Federation as Senior Advisor, National Security (spacenews)
 - **Jun 30, 07:14 PM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
+- **Jun 30, 07:49 PM** - Space Force fields mobile satellite-jamming system  (spacenews)
