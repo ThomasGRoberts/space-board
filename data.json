@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-06-30T00:05:00.242112+00:00",
-    "trigger_count": 6,
-    "current_item_id": "475c4bad03dc8c430bd20feb67078509",
+    "trigger_count": 0,
+    "current_item_id": "a46cb17137603bdaf466db03e12d1804",
     "data": [
         {
             "id": "9c7944b3aa9fa25dbbde354db923bf48",
@@ -8226,6 +8226,18 @@
                 "2026-04-21T07:29:19.181448Z",
                 "2026-04-22T06:24:09.499218Z",
                 "2026-04-24T10:59:26.693644Z"
+            ]
+        },
+        {
+            "id": "a46cb17137603bdaf466db03e12d1804",
+            "source": "spacenews",
+            "text": "Study argues bigger launch vehicles may not always be better",
+            "source_link": "https://spacenews.com/study-argues-bigger-launch-vehicles-may-not-always-be-better/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-30T01:54:41.819318Z",
+            "shown_at": [
+                "2026-06-30T01:54:42.628225Z"
             ]
         }
     ]
