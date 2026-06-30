@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 15 | 34 |
 | nyt | 1 | 1 | 7 | 7 |
-| spacenews | 7 | 9 | 15 | 36 |
+| spacenews | 7 | 9 | 16 | 37 |
 
 # Shown Order
 
@@ -2744,3 +2744,4 @@
 - **Jun 30, 07:49 AM** - SpaceX launches secretive Starfall reentry demo mission (spacenews)
 - **Jun 30, 08:24 AM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
 - **Jun 30, 09:11 AM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
+- **Jun 30, 09:54 AM** - Quantum computing is about to become a national security problem in orbit (spacenews)
