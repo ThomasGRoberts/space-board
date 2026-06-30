@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 11 | 28 |
 | nyt | 0 | 1 | 11 | 12 |
-| spacenews | 6 | 14 | 14 | 34 |
+| spacenews | 6 | 14 | 15 | 35 |
 
 # Shown Order
 
@@ -2761,3 +2761,4 @@
 - **Jun 30, 07:49 PM** - Space Force fields mobile satellite-jamming system  (spacenews)
 - **Jun 30, 08:24 PM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
 - **Jun 30, 08:59 PM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
+- **Jun 30, 09:34 PM** - Orbital files plans for 100,000 orbital data centers (spacenews)
