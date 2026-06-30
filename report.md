@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | breaking_defense | 1 | 1 | 13 | 31 |
 | nyt | 1 | 1 | 9 | 9 |
-| spacenews | 4 | 12 | 14 | 35 |
+| spacenews | 4 | 12 | 15 | 35 |
 
 # Shown Order
 
@@ -2752,3 +2752,4 @@
 - **Jun 30, 02:07 PM** - SSC Space, Firefly set 2028 target for first orbital launch from Sweden’s Esrange (spacenews)
 - **Jun 30, 02:49 PM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
 - **Jun 30, 03:29 PM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
+- **Jun 30, 04:05 PM** - Rocket Lab wins NASA award for three Electron launches (spacenews)
