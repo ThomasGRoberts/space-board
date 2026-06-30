@@ -1,9 +1,130 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-06-29T00:04:56.620638+00:00",
-    "trigger_count": 5,
+    "last_run_datetime": "2026-06-30T00:05:00.242112+00:00",
+    "trigger_count": 6,
     "current_item_id": "475c4bad03dc8c430bd20feb67078509",
     "data": [
+        {
+            "id": "9c7944b3aa9fa25dbbde354db923bf48",
+            "source": "breaking_defense",
+            "text": "Rocket Lab to buy satellite communications firm Iridium",
+            "source_link": "https://breakingdefense.com/2026/06/rocket-lab-to-buy-satellite-communications-firm-iridium/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-29T21:39:26.995823Z",
+            "shown_at": [
+                "2026-06-29T21:39:28.078535Z"
+            ]
+        },
+        {
+            "id": "1861fd469bb4d3463ce51b50bdb6e7df",
+            "source": "nyt",
+            "text": "Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead",
+            "source_link": "https://www.nytimes.com/2026/06/29/world/middleeast/abdul-ahad-momand-dead.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-29T21:04:48.347531Z",
+            "shown_at": [
+                "2026-06-29T21:04:49.058902Z",
+                "2026-06-29T22:54:42.560137Z"
+            ]
+        },
+        {
+            "id": "d8e6e00e685d346bf757e03c762b43ac",
+            "source": "spacenews",
+            "text": "Beck: Iridium acquisition the “logical next step” for Rocket Lab",
+            "source_link": "https://spacenews.com/beck-iridium-acquisition-the-logical-next-step-for-rocket-lab/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-29T15:44:46.270899Z",
+            "shown_at": [
+                "2026-06-29T16:24:41.573307Z"
+            ]
+        },
+        {
+            "id": "bb9392ab343889a0cd8ef7b53569af50",
+            "source": "spacenews",
+            "text": "ESA to seek lunar mapping capability for Argonaut lander",
+            "source_link": "https://spacenews.com/esa-to-seek-lunar-mapping-capability-for-argonaut-lander/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-29T15:44:46.270844Z",
+            "shown_at": [
+                "2026-06-29T15:44:47.880744Z"
+            ]
+        },
+        {
+            "id": "c880dfb0603054b58d798427d6208030",
+            "source": "spacenews",
+            "text": "Discovering the Universe – Astrophysics Flagship Space Observatories Offer Insights to Key Questions",
+            "source_link": "https://spacenews.com/discovering-the-universe-astrophysics-flagship-space-observatories-offer-insights-to-key-questions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-29T14:29:41.131427Z",
+            "shown_at": [
+                "2026-06-29T14:29:43.702304Z"
+            ]
+        },
+        {
+            "id": "cb1375b6acdabb69677d032d54e39f3d",
+            "source": "spacenews",
+            "text": "Quantum computing is about to become a national security problem in orbit",
+            "source_link": "https://spacenews.com/quantum-computing-is-about-to-become-a-national-security-problem-in-orbit/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-29T13:09:13.998343Z",
+            "shown_at": [
+                "2026-06-29T13:09:17.132802Z"
+            ]
+        },
+        {
+            "id": "d3d739d29c3aa589f0ebe213069e4184",
+            "source": "spacenews",
+            "text": "Rocket Lab to acquire Iridium",
+            "source_link": "https://spacenews.com/rocket-lab-to-acquire-iridium/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-29T12:34:54.735271Z",
+            "shown_at": [
+                "2026-06-29T12:34:56.442053Z"
+            ]
+        },
+        {
+            "id": "b2dbceff17c1734ab1edd224ddfb1bb7",
+            "source": "spacenews",
+            "text": "SatVu restarts commercial operations with HotSat-2",
+            "source_link": "https://spacenews.com/satvu-restarts-commercial-operations-with-hotsat-2/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-29T11:19:33.504387Z",
+            "shown_at": [
+                "2026-06-29T11:19:35.364870Z"
+            ]
+        },
+        {
+            "id": "86b6eb9a7b0b622ef85be782565d9f55",
+            "source": "spacenews",
+            "text": "Craft Prospect selected for The Sunday Times Scotland Fast 50",
+            "source_link": "https://spacenews.com/craft-prospect-selected-for-the-sunday-times-scotland-fast-50/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-29T09:39:25.851772Z",
+            "shown_at": [
+                "2026-06-29T09:39:26.526738Z"
+            ]
+        },
+        {
+            "id": "3ee32e24c70df1860b5546783a159251",
+            "source": "spacenews",
+            "text": "China establishes VLEO industry alliance as satellites demonstrate sustained low-orbit operations",
+            "source_link": "https://spacenews.com/china-establishes-vleo-industry-alliance-as-satellites-demonstrate-sustained-low-orbit-operations/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-29T08:59:12.904528Z",
+            "shown_at": [
+                "2026-06-29T08:59:13.707665Z"
+            ]
+        },
         {
             "id": "85a83d632cf3d9458d3073c2c76be53e",
             "source": "spacenews",
@@ -8102,297 +8223,6 @@
                 "2026-04-21T07:29:19.181448Z",
                 "2026-04-22T06:24:09.499218Z",
                 "2026-04-24T10:59:26.693644Z"
-            ]
-        },
-        {
-            "id": "6fd69203771160147fc7b4ffb81d8fe4",
-            "source": "spacenews",
-            "text": "Artemis 2 astronauts praise performance of Orion",
-            "source_link": "https://spacenews.com/artemis-2-astronauts-praise-performance-of-orion/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-17T17:19:21.979603Z",
-            "shown_at": [
-                "2026-04-17T17:19:23.011267Z",
-                "2026-04-18T04:59:12.961674Z",
-                "2026-04-24T09:49:31.197778Z"
-            ]
-        },
-        {
-            "id": "70d59a5a67678262d21f725f3e69f65c",
-            "source": "spacenews",
-            "text": "D2D services are at risk of becoming too complicated and siloed",
-            "source_link": "https://spacenews.com/d2d-services-are-at-risk-of-becoming-too-complicated-and-siloed/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-17T12:04:51.010672Z",
-            "shown_at": [
-                "2026-04-17T12:39:12.112967Z"
-            ]
-        },
-        {
-            "id": "d6fdd15f4d299e02aa86c672237d5b19",
-            "source": "spacenews",
-            "text": "New EU Space Act draft seen as a step backward",
-            "source_link": "https://spacenews.com/new-eu-space-act-draft-seen-as-a-step-backward/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-17T12:04:51.010597Z",
-            "shown_at": [
-                "2026-04-17T12:04:51.788603Z"
-            ]
-        },
-        {
-            "id": "3a7bbaf834370a23865789aab92b445d",
-            "source": "spacenews",
-            "text": "Qingzhou prototype cargo spacecraft completes rendezvous tests in orbit ",
-            "source_link": "https://spacenews.com/qingzhou-prototype-cargo-spacecraft-completes-rendezvous-tests-in-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-17T09:44:16.093817Z",
-            "shown_at": [
-                "2026-04-17T09:44:16.780945Z",
-                "2026-04-18T16:39:17.730071Z"
-            ]
-        },
-        {
-            "id": "2a20467c3a5444dfd9900b36079b5324",
-            "source": "spacenews",
-            "text": "Countering missile threats ‘left of launch’",
-            "source_link": "https://spacenews.com/countering-missile-threats-left-of-launch/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-16T23:14:32.640812Z",
-            "shown_at": [
-                "2026-04-16T23:14:33.448015Z",
-                "2026-04-20T20:14:14.952895Z",
-                "2026-04-23T21:19:15.859074Z"
-            ]
-        },
-        {
-            "id": "4f2e2c03d847e3abc792f9b3a81fe115",
-            "source": "spacenews",
-            "text": "Companies make the case for commercial space station markets",
-            "source_link": "https://spacenews.com/companies-make-the-case-for-commercial-space-station-markets/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-16T22:04:49.281389Z",
-            "shown_at": [
-                "2026-04-16T22:39:12.522002Z",
-                "2026-04-17T05:04:32.315474Z"
-            ]
-        },
-        {
-            "id": "d069cd4e7567eb5ed4cd7a88974d3d84",
-            "source": "spacenews",
-            "text": "Taiwan floats shared satcom constellation amid calls for more space collaboration",
-            "source_link": "https://spacenews.com/taiwan-floats-shared-satcom-constellation-amid-calls-for-more-space-collaboration/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-16T22:04:49.281328Z",
-            "shown_at": [
-                "2026-04-16T22:04:50.169732Z",
-                "2026-04-17T08:34:31.016923Z",
-                "2026-04-20T08:29:18.650527Z",
-                "2026-04-21T01:28:46.520536Z",
-                "2026-04-23T20:09:14.423913Z"
-            ]
-        },
-        {
-            "id": "3b737315332cb158c1839d23804ea417",
-            "source": "spacenews",
-            "text": "Boeing and its subsidiary Millennium Space team on new mid-size satellite",
-            "source_link": "https://spacenews.com/boeing-and-its-subsidiary-millennium-space-team-on-new-mid-size-satellite/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-16T20:19:24.889640Z",
-            "shown_at": [
-                "2026-04-16T20:19:25.733363Z",
-                "2026-04-23T08:14:22.187680Z"
-            ]
-        },
-        {
-            "id": "b7600732b22f316aadda97b9bcb6eb73",
-            "source": "nyt",
-            "text": "Artemis II Crew Discusses NASA Moon Mission and Next Steps",
-            "source_link": "https://www.nytimes.com/2026/04/16/science/artemis-ii-astronauts-moon-mission-press-conference.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-16T19:44:06.716881Z",
-            "shown_at": [
-                "2026-04-16T19:44:07.485927Z",
-                "2026-04-17T21:59:00.592567Z",
-                "2026-04-18T06:44:25.049479Z",
-                "2026-04-18T12:34:24.249221Z",
-                "2026-04-18T13:44:25.234443Z",
-                "2026-04-18T16:04:31.907563Z",
-                "2026-04-18T18:24:12.561086Z",
-                "2026-04-18T19:34:08.400276Z",
-                "2026-04-18T20:44:27.876411Z",
-                "2026-04-18T23:04:28.592114Z",
-                "2026-04-19T03:44:03.734396Z",
-                "2026-04-19T04:54:21.232713Z",
-                "2026-04-19T07:14:08.453792Z",
-                "2026-04-19T12:29:16.514226Z",
-                "2026-04-19T13:44:19.417139Z",
-                "2026-04-19T16:04:41.717001Z",
-                "2026-04-19T17:14:11.629894Z",
-                "2026-04-19T20:14:17.855103Z",
-                "2026-04-19T22:34:10.118253Z",
-                "2026-04-19T23:44:26.381740Z",
-                "2026-04-20T02:04:16.136592Z",
-                "2026-04-20T03:14:35.612844Z",
-                "2026-04-20T05:34:15.564034Z",
-                "2026-04-20T09:04:43.902050Z",
-                "2026-04-20T11:59:14.234282Z",
-                "2026-04-20T13:49:24.740679Z",
-                "2026-04-20T14:59:17.490414Z",
-                "2026-04-20T18:29:12.414419Z",
-                "2026-04-21T03:14:04.072988Z",
-                "2026-04-21T04:24:07.795273Z",
-                "2026-04-21T05:34:37.115981Z",
-                "2026-04-21T06:54:51.373881Z",
-                "2026-04-21T10:59:11.991652Z",
-                "2026-04-21T16:49:21.774190Z",
-                "2026-04-21T20:29:09.076121Z",
-                "2026-04-21T23:24:25.547241Z",
-                "2026-04-22T00:34:39.174224Z",
-                "2026-04-22T03:04:32.770431Z",
-                "2026-04-22T16:19:10.981325Z",
-                "2026-04-23T14:49:34.520830Z"
-            ]
-        },
-        {
-            "id": "fadfb3f68cc245e71cc38130cba73e7a",
-            "source": "spacenews",
-            "text": "All Points signs agreement to build payload processing facilities at KSC",
-            "source_link": "https://spacenews.com/all-points-signs-agreement-to-build-payload-processing-facilities-at-ksc/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-16T18:34:27.471727Z",
-            "shown_at": [
-                "2026-04-16T18:34:28.384320Z"
-            ]
-        },
-        {
-            "id": "3ee32e24c70df1860b5546783a159251",
-            "source": "spacenews",
-            "text": "China establishes VLEO industry alliance as satellites demonstrate sustained low-orbit operations",
-            "source_link": "https://spacenews.com/china-establishes-vleo-industry-alliance-as-satellites-demonstrate-sustained-low-orbit-operations/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-29T08:59:12.904528Z",
-            "shown_at": [
-                "2026-06-29T08:59:13.707665Z"
-            ]
-        },
-        {
-            "id": "86b6eb9a7b0b622ef85be782565d9f55",
-            "source": "spacenews",
-            "text": "Craft Prospect selected for The Sunday Times Scotland Fast 50",
-            "source_link": "https://spacenews.com/craft-prospect-selected-for-the-sunday-times-scotland-fast-50/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-29T09:39:25.851772Z",
-            "shown_at": [
-                "2026-06-29T09:39:26.526738Z"
-            ]
-        },
-        {
-            "id": "b2dbceff17c1734ab1edd224ddfb1bb7",
-            "source": "spacenews",
-            "text": "SatVu restarts commercial operations with HotSat-2",
-            "source_link": "https://spacenews.com/satvu-restarts-commercial-operations-with-hotsat-2/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-29T11:19:33.504387Z",
-            "shown_at": [
-                "2026-06-29T11:19:35.364870Z"
-            ]
-        },
-        {
-            "id": "d3d739d29c3aa589f0ebe213069e4184",
-            "source": "spacenews",
-            "text": "Rocket Lab to acquire Iridium",
-            "source_link": "https://spacenews.com/rocket-lab-to-acquire-iridium/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-29T12:34:54.735271Z",
-            "shown_at": [
-                "2026-06-29T12:34:56.442053Z"
-            ]
-        },
-        {
-            "id": "cb1375b6acdabb69677d032d54e39f3d",
-            "source": "spacenews",
-            "text": "Quantum computing is about to become a national security problem in orbit",
-            "source_link": "https://spacenews.com/quantum-computing-is-about-to-become-a-national-security-problem-in-orbit/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-29T13:09:13.998343Z",
-            "shown_at": [
-                "2026-06-29T13:09:17.132802Z"
-            ]
-        },
-        {
-            "id": "c880dfb0603054b58d798427d6208030",
-            "source": "spacenews",
-            "text": "Discovering the Universe – Astrophysics Flagship Space Observatories Offer Insights to Key Questions",
-            "source_link": "https://spacenews.com/discovering-the-universe-astrophysics-flagship-space-observatories-offer-insights-to-key-questions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-29T14:29:41.131427Z",
-            "shown_at": [
-                "2026-06-29T14:29:43.702304Z"
-            ]
-        },
-        {
-            "id": "bb9392ab343889a0cd8ef7b53569af50",
-            "source": "spacenews",
-            "text": "ESA to seek lunar mapping capability for Argonaut lander",
-            "source_link": "https://spacenews.com/esa-to-seek-lunar-mapping-capability-for-argonaut-lander/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-29T15:44:46.270844Z",
-            "shown_at": [
-                "2026-06-29T15:44:47.880744Z"
-            ]
-        },
-        {
-            "id": "d8e6e00e685d346bf757e03c762b43ac",
-            "source": "spacenews",
-            "text": "Beck: Iridium acquisition the “logical next step” for Rocket Lab",
-            "source_link": "https://spacenews.com/beck-iridium-acquisition-the-logical-next-step-for-rocket-lab/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-29T15:44:46.270899Z",
-            "shown_at": [
-                "2026-06-29T16:24:41.573307Z"
-            ]
-        },
-        {
-            "id": "1861fd469bb4d3463ce51b50bdb6e7df",
-            "source": "nyt",
-            "text": "Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead",
-            "source_link": "https://www.nytimes.com/2026/06/29/world/middleeast/abdul-ahad-momand-dead.html",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-29T21:04:48.347531Z",
-            "shown_at": [
-                "2026-06-29T21:04:49.058902Z",
-                "2026-06-29T22:54:42.560137Z"
-            ]
-        },
-        {
-            "id": "9c7944b3aa9fa25dbbde354db923bf48",
-            "source": "breaking_defense",
-            "text": "Rocket Lab to buy satellite communications firm Iridium",
-            "source_link": "https://breakingdefense.com/2026/06/rocket-lab-to-buy-satellite-communications-firm-iridium/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-29T21:39:26.995823Z",
-            "shown_at": [
-                "2026-06-29T21:39:28.078535Z"
             ]
         }
     ]
