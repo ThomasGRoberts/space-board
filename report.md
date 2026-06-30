@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 1 | 16 | 36 |
+| breaking_defense | 1 | 1 | 16 | 35 |
 | nyt | 1 | 1 | 5 | 5 |
-| spacenews | 9 | 9 | 17 | 37 |
+| spacenews | 9 | 9 | 18 | 38 |
 
 # Shown Order
 
@@ -2738,3 +2738,4 @@
 - **Jun 30, 03:49 AM** - Vantor selects BAE Systems to build next-generation imaging satellites (spacenews)
 - **Jun 30, 04:39 AM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
 - **Jun 30, 05:14 AM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
+- **Jun 30, 05:49 AM** - Study argues bigger launch vehicles may not always be better (spacenews)
