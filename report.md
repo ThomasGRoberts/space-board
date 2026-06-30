@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 1 | 12 | 31 |
+| breaking_defense | 1 | 1 | 13 | 31 |
 | nyt | 1 | 1 | 9 | 9 |
 | spacenews | 6 | 12 | 15 | 35 |
 
@@ -2751,3 +2751,4 @@
 - **Jun 30, 01:06 PM** - Vast names Isakowitz as a senior adviser (spacenews)
 - **Jun 30, 02:07 PM** - SSC Space, Firefly set 2028 target for first orbital launch from Sweden’s Esrange (spacenews)
 - **Jun 30, 02:49 PM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
+- **Jun 30, 03:29 PM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
