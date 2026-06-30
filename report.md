@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| breaking_defense | 1 | 1 | 14 | 34 |
+| breaking_defense | 1 | 1 | 15 | 35 |
 | nyt | 1 | 1 | 7 | 7 |
 | spacenews | 8 | 9 | 16 | 36 |
 
@@ -2743,3 +2743,4 @@
 - **Jun 30, 06:59 AM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
 - **Jun 30, 07:49 AM** - SpaceX launches secretive Starfall reentry demo mission (spacenews)
 - **Jun 30, 08:24 AM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
+- **Jun 30, 09:11 AM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
