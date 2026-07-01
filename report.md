@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 14 | 16 | 30 |
-| breaking_defense | 0 | 1 | 8 | 19 |
+| breaking_defense | 0 | 1 | 9 | 20 |
 | nyt | 3 | 4 | 11 | 22 |
 
 # Shown Order
@@ -2771,3 +2771,4 @@
 - **Jul 01, 05:29 PM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
 - **Jul 01, 06:15 PM** - Curiosity, Perseverance and Now Promise? NASA May Send a Mars Rover to the Moon. (nyt)
 - **Jul 01, 06:49 PM** - Discovering the Universe – Astrophysics Flagship Space Observatories Offer Insights to Key Questions (spacenews)
+- **Jul 01, 07:33 PM** - Rocket Lab to buy satellite communications firm Iridium (breaking_defense)
