@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 16 | 16 | 31 |
-| breaking_defense | 1 | 1 | 8 | 19 |
+| breaking_defense | 1 | 1 | 9 | 20 |
 | nyt | 3 | 3 | 11 | 21 |
 
 # Shown Order
@@ -2777,3 +2777,4 @@
 - **Jul 01, 09:29 PM** - NASA Aims to Catch a Falling Space Telescope and Push It Back Up (nyt)
 - **Jul 01, 10:05 PM** - Botswana signs the Artemis Accords (spacenews)
 - **Jul 01, 10:39 PM** - Report links Starliner problems to overconfidence and unrealistic schedules (spacenews)
+- **Jul 01, 11:14 PM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
