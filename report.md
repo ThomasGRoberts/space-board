@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 15 | 34 |
-| breaking_defense | 0 | 1 | 10 | 27 |
+| breaking_defense | 0 | 1 | 11 | 28 |
 | nyt | 0 | 1 | 11 | 13 |
 
 # Shown Order
@@ -2744,3 +2744,4 @@
 - **Jun 30, 10:44 PM** - TechnoMile Recognized among Notable Vendors in Contract Lifecycle Management Platforms Landscape Report (spacenews)
 - **Jun 30, 11:24 PM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
 - **Jun 30, 11:59 PM** - NASA awards nearly $600 million in lunar lander missions (spacenews)
+- **Jul 01, 12:34 AM** - Rocket Lab to buy satellite communications firm Iridium (breaking_defense)
