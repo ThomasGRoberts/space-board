@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 14 | 17 | 31 |
-| breaking_defense | 0 | 1 | 7 | 20 |
+| breaking_defense | 0 | 1 | 8 | 21 |
 | nyt | 3 | 4 | 11 | 21 |
 
 # Shown Order
@@ -2768,3 +2768,4 @@
 - **Jul 01, 03:44 PM** - Latitude plans to conduct first launch from Oman (spacenews)
 - **Jul 01, 04:19 PM** - NASA Aims to Catch a Falling Space Telescope and Push It Back Up (nyt)
 - **Jul 01, 04:54 PM** - Unseen threats overhead: Drones endanger U.S. rocket launch sites (spacenews)
+- **Jul 01, 05:29 PM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
