@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-01T00:04:51.810574+00:00",
-    "trigger_count": 6,
-    "current_item_id": "8174463bd1e5ba7b5d568fcfab067f85",
+    "trigger_count": 0,
+    "current_item_id": "019869af4b4581b483a844391026edf1",
     "data": [
         {
             "id": "be8295e6f578f57da46540778e2e44f7",
@@ -8308,9 +8308,12 @@
             "source": "spacenews",
             "text": "Latitude plans to conduct first launch from Oman",
             "source_link": "https://spacenews.com/latitude-plans-to-conduct-first-launch-from-oman/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-07-01T12:45:53.200898Z"
+            "fetched_datetime": "2026-07-01T12:45:53.200898Z",
+            "shown_at": [
+                "2026-07-01T15:44:37.264327Z"
+            ]
         },
         {
             "id": "87c781bde7b5638820e36018e84a23c0",

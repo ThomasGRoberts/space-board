@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 15 | 16 | 31 |
+| spacenews | 9 | 15 | 17 | 32 |
 | breaking_defense | 0 | 1 | 8 | 21 |
 | nyt | 3 | 4 | 11 | 20 |
 
@@ -2765,3 +2765,4 @@
 - **Jul 01, 01:35 PM** - The Vera Rubin Telescope Begins Surveying Our Cosmos (nyt)
 - **Jul 01, 02:21 PM** - EchoStar’s satellite TV and wireless subsidiaries file for bankruptcy (spacenews)
 - **Jul 01, 03:05 PM** - Curiosity, Perseverance and Now Promise? NASA May Send a Mars Rover to the Moon. (nyt)
+- **Jul 01, 03:44 PM** - Latitude plans to conduct first launch from Oman (spacenews)
