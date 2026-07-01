@@ -1,9 +1,107 @@
 {
     "version": "2",
-    "last_run_datetime": "2026-06-30T00:05:00.242112+00:00",
-    "trigger_count": 0,
+    "last_run_datetime": "2026-07-01T00:04:51.810574+00:00",
+    "trigger_count": 1,
     "current_item_id": "be8295e6f578f57da46540778e2e44f7",
     "data": [
+        {
+            "id": "be8295e6f578f57da46540778e2e44f7",
+            "source": "spacenews",
+            "text": "NASA awards nearly $600 million in lunar lander missions",
+            "source_link": "https://spacenews.com/nasa-awards-nearly-600-million-in-lunar-lander-missions/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-30T23:59:15.665056Z",
+            "shown_at": [
+                "2026-06-30T23:59:16.492305Z"
+            ]
+        },
+        {
+            "id": "d742981ec206cfcd8b6672e5972c0ffb",
+            "source": "spacenews",
+            "text": "TechnoMile Recognized among Notable Vendors in Contract Lifecycle Management Platforms Landscape Report",
+            "source_link": "https://spacenews.com/technomile-recognized-among-notable-vendors-in-contract-lifecycle-management-platforms-landscape-report/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-30T22:44:46.865689Z",
+            "shown_at": [
+                "2026-06-30T22:44:47.802529Z"
+            ]
+        },
+        {
+            "id": "d23d7c1911fb5c3aaec9d066e8f2ef90",
+            "source": "spacenews",
+            "text": "Space Force fields mobile satellite-jamming system ",
+            "source_link": "https://spacenews.com/space-force-fields-mobile-satellite-jamming-system/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-30T19:49:33.469152Z",
+            "shown_at": [
+                "2026-06-30T19:49:35.458351Z"
+            ]
+        },
+        {
+            "id": "1562cb2acc77aade28aa8d50e024edf4",
+            "source": "spacenews",
+            "text": "Matthew Williams Joins the Commercial Space Federation as Senior Advisor, National Security",
+            "source_link": "https://spacenews.com/matthew-williams-joins-the-commercial-space-federation-as-senior-advisor-national-security/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-30T18:35:42.826715Z",
+            "shown_at": [
+                "2026-06-30T18:35:45.083676Z"
+            ]
+        },
+        {
+            "id": "b2512fc0cbfc1e48c00506d4833a56d4",
+            "source": "spacenews",
+            "text": "SSC Space, Firefly set 2028 target for first orbital launch from Sweden’s Esrange",
+            "source_link": "https://spacenews.com/ssc-space-firefly-set-2028-target-for-first-orbital-launch-from-swedens-esrange/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-30T13:06:10.311627Z",
+            "shown_at": [
+                "2026-06-30T14:07:11.069207Z"
+            ]
+        },
+        {
+            "id": "1ef3d0b14a32cd3f98c1e526f4725212",
+            "source": "spacenews",
+            "text": "Vast names Isakowitz as a senior adviser",
+            "source_link": "https://spacenews.com/vast-names-isakowitz-as-a-senior-adviser/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-30T13:06:10.311568Z",
+            "shown_at": [
+                "2026-06-30T13:06:11.864139Z"
+            ]
+        },
+        {
+            "id": "81b83a4bfdebe8fac848d039e4ea6cec",
+            "source": "spacenews",
+            "text": "Orbital files plans for 100,000 orbital data centers",
+            "source_link": "https://spacenews.com/orbital-files-plans-for-100000-orbital-data-centers/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-30T12:09:21.249844Z",
+            "shown_at": [
+                "2026-06-30T12:09:25.577565Z",
+                "2026-06-30T21:34:51.478296Z"
+            ]
+        },
+        {
+            "id": "a46cb17137603bdaf466db03e12d1804",
+            "source": "spacenews",
+            "text": "Study argues bigger launch vehicles may not always be better",
+            "source_link": "https://spacenews.com/study-argues-bigger-launch-vehicles-may-not-always-be-better/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-06-30T01:54:41.819318Z",
+            "shown_at": [
+                "2026-06-30T01:54:42.628225Z",
+                "2026-06-30T05:49:30.918283Z"
+            ]
+        },
         {
             "id": "9c7944b3aa9fa25dbbde354db923bf48",
             "source": "breaking_defense",
@@ -8140,214 +8238,6 @@
                 "2026-04-22T18:04:45.421125Z",
                 "2026-04-24T02:44:15.293480Z",
                 "2026-04-25T01:34:13.322621Z"
-            ]
-        },
-        {
-            "id": "22d9c6449adc8de0a35a9dbc7f98b78a",
-            "source": "spacenews",
-            "text": "In the wake of Artemis 2, America needs to consider the ‘why’ of its government space program",
-            "source_link": "https://spacenews.com/in-the-wake-of-artemis-2-america-needs-to-consider-the-why-of-its-government-space-program/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-20T13:09:17.489362Z",
-            "shown_at": [
-                "2026-04-20T13:09:18.431295Z",
-                "2026-04-25T00:24:20.239174Z"
-            ]
-        },
-        {
-            "id": "9dab7572e08e78fa7c92fee57e94f297",
-            "source": "spacenews",
-            "text": "China ramps up satellite production capacity amid constellation ambitions",
-            "source_link": "https://spacenews.com/china-ramps-up-satellite-production-capacity-amid-constellation-ambitions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-20T10:14:21.786779Z",
-            "shown_at": [
-                "2026-04-20T10:14:22.906755Z",
-                "2026-04-23T16:39:02.602258Z",
-                "2026-04-26T14:59:05.007133Z"
-            ]
-        },
-        {
-            "id": "d37551e74e2c8484995efb78129b7fca",
-            "source": "spacenews",
-            "text": "Space Force weighs Vulcan flights without solid boosters ",
-            "source_link": "https://spacenews.com/space-force-weighs-vulcan-flights-without-solid-boosters/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-19T18:29:03.790640Z",
-            "shown_at": [
-                "2026-04-19T18:29:04.744551Z",
-                "2026-04-21T23:59:05.376189Z",
-                "2026-04-23T17:49:32.022494Z"
-            ]
-        },
-        {
-            "id": "0cca73799357b98e18ab32c33dd379b9",
-            "source": "spacenews",
-            "text": "Third New Glenn launch suffers upper stage malfunction",
-            "source_link": "https://spacenews.com/third-new-glenn-launch-suffers-upper-stage-malfunction/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-19T14:19:18.025859Z",
-            "shown_at": [
-                "2026-04-19T14:19:19.014503Z",
-                "2026-04-21T16:14:25.187885Z"
-            ]
-        },
-        {
-            "id": "6e4638cbaf70fd8f27bf061667bbfc53",
-            "source": "spacenews",
-            "text": "Rhea Space Activity raises $6 million to develop GPS-free spacecraft navigation",
-            "source_link": "https://spacenews.com/rhea-space-activity-raises-6-million-to-develop-gps-free-spacecraft-navigation/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-19T10:44:17.080662Z",
-            "shown_at": [
-                "2026-04-19T10:44:17.882487Z",
-                "2026-04-24T17:24:15.492565Z"
-            ]
-        },
-        {
-            "id": "a2c4a26d11a8cc94a87cd7c4180838cd",
-            "source": "spacenews",
-            "text": "NorthStar to go public via SPAC to expand space-based SSA network",
-            "source_link": "https://spacenews.com/northstar-to-go-public-via-spac-to-expand-space-based-ssa-network/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-17T22:34:43.141392Z",
-            "shown_at": [
-                "2026-04-17T23:09:11.145337Z",
-                "2026-04-21T22:14:14.504031Z",
-                "2026-04-24T18:34:26.002906Z"
-            ]
-        },
-        {
-            "id": "33fa9114009e1a731e422f25cf90385e",
-            "source": "spacenews",
-            "text": "NASA selects Falcon Heavy to launch ESA Mars rover mission despite budget threat",
-            "source_link": "https://spacenews.com/nasa-selects-falcon-heavy-to-launch-esa-mars-rover-mission-despite-budget-threat/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-17T22:34:43.141313Z",
-            "shown_at": [
-                "2026-04-17T22:34:44.551874Z",
-                "2026-04-19T23:09:31.317772Z"
-            ]
-        },
-        {
-            "id": "b4b622d23718f39a6c47b8e36d9b0815",
-            "source": "spacenews",
-            "text": "Shenzhou-21 astronauts complete third spacewalk, mission extended by a month",
-            "source_link": "https://spacenews.com/shenzhou-21-astronauts-complete-third-spacewalk-mission-extended-by-a-month/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-04-17T19:04:44.706377Z",
-            "shown_at": [
-                "2026-04-17T19:04:45.756562Z",
-                "2026-04-21T04:59:11.677889Z",
-                "2026-04-21T07:29:19.181448Z",
-                "2026-04-22T06:24:09.499218Z",
-                "2026-04-24T10:59:26.693644Z"
-            ]
-        },
-        {
-            "id": "a46cb17137603bdaf466db03e12d1804",
-            "source": "spacenews",
-            "text": "Study argues bigger launch vehicles may not always be better",
-            "source_link": "https://spacenews.com/study-argues-bigger-launch-vehicles-may-not-always-be-better/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-30T01:54:41.819318Z",
-            "shown_at": [
-                "2026-06-30T01:54:42.628225Z",
-                "2026-06-30T05:49:30.918283Z"
-            ]
-        },
-        {
-            "id": "81b83a4bfdebe8fac848d039e4ea6cec",
-            "source": "spacenews",
-            "text": "Orbital files plans for 100,000 orbital data centers",
-            "source_link": "https://spacenews.com/orbital-files-plans-for-100000-orbital-data-centers/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-30T12:09:21.249844Z",
-            "shown_at": [
-                "2026-06-30T12:09:25.577565Z",
-                "2026-06-30T21:34:51.478296Z"
-            ]
-        },
-        {
-            "id": "1ef3d0b14a32cd3f98c1e526f4725212",
-            "source": "spacenews",
-            "text": "Vast names Isakowitz as a senior adviser",
-            "source_link": "https://spacenews.com/vast-names-isakowitz-as-a-senior-adviser/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-30T13:06:10.311568Z",
-            "shown_at": [
-                "2026-06-30T13:06:11.864139Z"
-            ]
-        },
-        {
-            "id": "b2512fc0cbfc1e48c00506d4833a56d4",
-            "source": "spacenews",
-            "text": "SSC Space, Firefly set 2028 target for first orbital launch from Sweden’s Esrange",
-            "source_link": "https://spacenews.com/ssc-space-firefly-set-2028-target-for-first-orbital-launch-from-swedens-esrange/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-30T13:06:10.311627Z",
-            "shown_at": [
-                "2026-06-30T14:07:11.069207Z"
-            ]
-        },
-        {
-            "id": "1562cb2acc77aade28aa8d50e024edf4",
-            "source": "spacenews",
-            "text": "Matthew Williams Joins the Commercial Space Federation as Senior Advisor, National Security",
-            "source_link": "https://spacenews.com/matthew-williams-joins-the-commercial-space-federation-as-senior-advisor-national-security/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-30T18:35:42.826715Z",
-            "shown_at": [
-                "2026-06-30T18:35:45.083676Z"
-            ]
-        },
-        {
-            "id": "d23d7c1911fb5c3aaec9d066e8f2ef90",
-            "source": "spacenews",
-            "text": "Space Force fields mobile satellite-jamming system ",
-            "source_link": "https://spacenews.com/space-force-fields-mobile-satellite-jamming-system/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-30T19:49:33.469152Z",
-            "shown_at": [
-                "2026-06-30T19:49:35.458351Z"
-            ]
-        },
-        {
-            "id": "d742981ec206cfcd8b6672e5972c0ffb",
-            "source": "spacenews",
-            "text": "TechnoMile Recognized among Notable Vendors in Contract Lifecycle Management Platforms Landscape Report",
-            "source_link": "https://spacenews.com/technomile-recognized-among-notable-vendors-in-contract-lifecycle-management-platforms-landscape-report/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-30T22:44:46.865689Z",
-            "shown_at": [
-                "2026-06-30T22:44:47.802529Z"
-            ]
-        },
-        {
-            "id": "be8295e6f578f57da46540778e2e44f7",
-            "source": "spacenews",
-            "text": "NASA awards nearly $600 million in lunar lander missions",
-            "source_link": "https://spacenews.com/nasa-awards-nearly-600-million-in-lunar-lander-missions/",
-            "shown": true,
-            "type": "news",
-            "fetched_datetime": "2026-06-30T23:59:15.665056Z",
-            "shown_at": [
-                "2026-06-30T23:59:16.492305Z"
             ]
         }
     ]
