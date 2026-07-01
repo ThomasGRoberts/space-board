@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 16 | 15 | 32 |
-| breaking_defense | 0 | 1 | 10 | 24 |
+| breaking_defense | 0 | 1 | 11 | 25 |
 | nyt | 0 | 1 | 10 | 17 |
 
 # Shown Order
@@ -2756,3 +2756,4 @@
 - **Jul 01, 06:29 AM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
 - **Jul 01, 07:04 AM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
 - **Jul 01, 07:39 AM** - Space Force fields mobile satellite-jamming system  (spacenews)
+- **Jul 01, 08:59 AM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
