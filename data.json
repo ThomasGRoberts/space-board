@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-01T00:04:51.810574+00:00",
-    "trigger_count": 6,
-    "current_item_id": "f18f51cd61964f31ae77747e081c6c60",
+    "trigger_count": 0,
+    "current_item_id": "bcab2cd20be3a34bfd56fdeb4d57558e",
     "data": [
         {
             "id": "be8295e6f578f57da46540778e2e44f7",
@@ -8349,6 +8349,18 @@
             "fetched_datetime": "2026-07-01T13:35:56.618082Z",
             "shown_at": [
                 "2026-07-01T16:19:31.908879Z"
+            ]
+        },
+        {
+            "id": "bcab2cd20be3a34bfd56fdeb4d57558e",
+            "source": "spacenews",
+            "text": "Unseen threats overhead: Drones endanger U.S. rocket launch sites",
+            "source_link": "https://spacenews.com/unseen-threats-overhead-drones-endanger-u-s-rocket-launch-sites/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-01T16:54:32.141369Z",
+            "shown_at": [
+                "2026-07-01T16:54:34.198308Z"
             ]
         }
     ]

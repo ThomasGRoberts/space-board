@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 13 | 16 | 30 |
+| spacenews | 10 | 14 | 17 | 31 |
 | breaking_defense | 0 | 1 | 8 | 21 |
 | nyt | 3 | 4 | 11 | 21 |
 
@@ -2767,3 +2767,4 @@
 - **Jul 01, 03:05 PM** - Curiosity, Perseverance and Now Promise? NASA May Send a Mars Rover to the Moon. (nyt)
 - **Jul 01, 03:44 PM** - Latitude plans to conduct first launch from Oman (spacenews)
 - **Jul 01, 04:19 PM** - NASA Aims to Catch a Falling Space Telescope and Push It Back Up (nyt)
+- **Jul 01, 04:54 PM** - Unseen threats overhead: Drones endanger U.S. rocket launch sites (spacenews)
