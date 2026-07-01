@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 15 | 16 | 31 |
 | breaking_defense | 0 | 1 | 9 | 22 |
-| nyt | 3 | 4 | 10 | 19 |
+| nyt | 3 | 4 | 11 | 20 |
 
 # Shown Order
 
@@ -2764,3 +2764,4 @@
 - **Jul 01, 12:45 PM** - Vantor offers up-to-date imagery with WorldView 3D (spacenews)
 - **Jul 01, 01:35 PM** - The Vera Rubin Telescope Begins Surveying Our Cosmos (nyt)
 - **Jul 01, 02:21 PM** - EchoStar’s satellite TV and wireless subsidiaries file for bankruptcy (spacenews)
+- **Jul 01, 03:05 PM** - Curiosity, Perseverance and Now Promise? NASA May Send a Mars Rover to the Moon. (nyt)
