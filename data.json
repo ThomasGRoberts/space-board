@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-01T00:04:51.810574+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b60dcd7a270027270c6c39836f9a7c9b",
+    "trigger_count": 0,
+    "current_item_id": "409550b1e10b6ed1b52024c6f80603a8",
     "data": [
         {
             "id": "be8295e6f578f57da46540778e2e44f7",
@@ -8278,6 +8278,36 @@
             "shown_at": [
                 "2026-07-01T11:54:57.362070Z"
             ]
+        },
+        {
+            "id": "409550b1e10b6ed1b52024c6f80603a8",
+            "source": "spacenews",
+            "text": "Vantor offers up-to-date imagery with WorldView 3D",
+            "source_link": "https://spacenews.com/vantor-offers-up-to-date-imagery-with-worldview-3d/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-01T12:45:53.200790Z",
+            "shown_at": [
+                "2026-07-01T12:45:54.045469Z"
+            ]
+        },
+        {
+            "id": "c0f7babf45229904eec0c414aedc814b",
+            "source": "spacenews",
+            "text": "EchoStar’s satellite TV and wireless subsidiaries file for bankruptcy",
+            "source_link": "https://spacenews.com/echostars-satellite-tv-and-wireless-subsidiaries-file-for-bankruptcy/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-07-01T12:45:53.200852Z"
+        },
+        {
+            "id": "019869af4b4581b483a844391026edf1",
+            "source": "spacenews",
+            "text": "Latitude plans to conduct first launch from Oman",
+            "source_link": "https://spacenews.com/latitude-plans-to-conduct-first-launch-from-oman/",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-07-01T12:45:53.200898Z"
         }
     ]
 }

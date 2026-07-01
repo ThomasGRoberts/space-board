@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 14 | 16 | 31 |
+| spacenews | 11 | 17 | 17 | 32 |
 | breaking_defense | 0 | 1 | 9 | 23 |
 | nyt | 0 | 1 | 10 | 18 |
 
@@ -2761,3 +2761,4 @@
 - **Jul 01, 10:19 AM** - Vantor selects BAE Systems to build next-generation imaging satellites (spacenews)
 - **Jul 01, 11:14 AM** - The SpaceX IPO tells one story. Here is the more important one. (spacenews)
 - **Jul 01, 11:54 AM** - Blue Origin outlines new launch pad approach as it pushes to return New Glenn to flight (spacenews)
+- **Jul 01, 12:45 PM** - Vantor offers up-to-date imagery with WorldView 3D (spacenews)
