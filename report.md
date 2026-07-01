@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 15 | 16 | 30 |
+| spacenews | 10 | 16 | 17 | 31 |
 | breaking_defense | 1 | 1 | 8 | 19 |
 | nyt | 3 | 3 | 11 | 22 |
 
@@ -2776,3 +2776,4 @@
 - **Jul 01, 08:54 PM** - Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO (breaking_defense)
 - **Jul 01, 09:29 PM** - NASA Aims to Catch a Falling Space Telescope and Push It Back Up (nyt)
 - **Jul 01, 10:05 PM** - Botswana signs the Artemis Accords (spacenews)
+- **Jul 01, 10:39 PM** - Report links Starliner problems to overconfidence and unrealistic schedules (spacenews)

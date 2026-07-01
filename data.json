@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-01T00:04:51.810574+00:00",
-    "trigger_count": 6,
-    "current_item_id": "98d366b1d0bdf8edc554a96447b8c8ff",
+    "trigger_count": 0,
+    "current_item_id": "52527c53f63e306ace27b52e54aaaa87",
     "data": [
         {
             "id": "be8295e6f578f57da46540778e2e44f7",
@@ -8391,6 +8391,18 @@
             "fetched_datetime": "2026-07-01T20:54:35.147715Z",
             "shown_at": [
                 "2026-07-01T20:54:36.694526Z"
+            ]
+        },
+        {
+            "id": "52527c53f63e306ace27b52e54aaaa87",
+            "source": "spacenews",
+            "text": "Report links Starliner problems to overconfidence and unrealistic schedules",
+            "source_link": "https://spacenews.com/report-links-starliner-problems-to-overconfidence-and-unrealistic-schedules/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-01T22:39:41.965935Z",
+            "shown_at": [
+                "2026-07-01T22:39:43.103118Z"
             ]
         }
     ]
