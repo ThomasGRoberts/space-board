@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 16 | 15 | 34 |
+| spacenews | 7 | 16 | 15 | 33 |
 | breaking_defense | 0 | 1 | 11 | 27 |
-| nyt | 0 | 1 | 10 | 14 |
+| nyt | 0 | 1 | 11 | 15 |
 
 # Shown Order
 
@@ -2748,3 +2748,4 @@
 - **Jul 01, 01:09 AM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
 - **Jul 01, 01:44 AM** - House Appropriations Committee approves $55.5 billion for U.S. Space Force (spacenews)
 - **Jul 01, 02:18 AM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
+- **Jul 01, 02:54 AM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
