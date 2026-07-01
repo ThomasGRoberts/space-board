@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-01T00:04:51.810574+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b594bcf9b6a5381fb72492156a22f96d",
+    "trigger_count": 0,
+    "current_item_id": "74354fecb97684415da9db55f6c3cc34",
     "data": [
         {
             "id": "be8295e6f578f57da46540778e2e44f7",
@@ -8377,6 +8377,18 @@
             "fetched_datetime": "2026-07-01T20:19:54.008562Z",
             "shown_at": [
                 "2026-07-01T20:19:55.005047Z"
+            ]
+        },
+        {
+            "id": "74354fecb97684415da9db55f6c3cc34",
+            "source": "breaking_defense",
+            "text": "Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO",
+            "source_link": "https://breakingdefense.com/2026/07/space-firm-vantor-expands-portfolio-as-it-tracks-geopolitical-shift-in-the-marketplace-ceo/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-01T20:54:35.147715Z",
+            "shown_at": [
+                "2026-07-01T20:54:36.694526Z"
             ]
         }
     ]

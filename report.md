@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 15 | 16 | 30 |
-| breaking_defense | 0 | 1 | 8 | 19 |
+| breaking_defense | 1 | 2 | 9 | 20 |
 | nyt | 3 | 4 | 11 | 22 |
 
 # Shown Order
@@ -2773,3 +2773,4 @@
 - **Jul 01, 06:49 PM** - Discovering the Universe – Astrophysics Flagship Space Observatories Offer Insights to Key Questions (spacenews)
 - **Jul 01, 07:33 PM** - Rocket Lab to buy satellite communications firm Iridium (breaking_defense)
 - **Jul 01, 08:19 PM** - FCC to vote on satellite licensing overhaul July 22 (spacenews)
+- **Jul 01, 08:54 PM** - Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO (breaking_defense)
