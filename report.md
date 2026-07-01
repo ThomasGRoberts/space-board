@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 16 | 16 | 31 |
 | breaking_defense | 0 | 1 | 9 | 23 |
-| nyt | 0 | 1 | 10 | 18 |
+| nyt | 3 | 4 | 11 | 19 |
 
 # Shown Order
 
@@ -2762,3 +2762,4 @@
 - **Jul 01, 11:14 AM** - The SpaceX IPO tells one story. Here is the more important one. (spacenews)
 - **Jul 01, 11:54 AM** - Blue Origin outlines new launch pad approach as it pushes to return New Glenn to flight (spacenews)
 - **Jul 01, 12:45 PM** - Vantor offers up-to-date imagery with WorldView 3D (spacenews)
+- **Jul 01, 01:35 PM** - The Vera Rubin Telescope Begins Surveying Our Cosmos (nyt)

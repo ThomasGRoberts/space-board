@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-01T00:04:51.810574+00:00",
-    "trigger_count": 6,
-    "current_item_id": "409550b1e10b6ed1b52024c6f80603a8",
+    "trigger_count": 0,
+    "current_item_id": "87c781bde7b5638820e36018e84a23c0",
     "data": [
         {
             "id": "be8295e6f578f57da46540778e2e44f7",
@@ -8308,6 +8308,36 @@
             "shown": false,
             "type": "news",
             "fetched_datetime": "2026-07-01T12:45:53.200898Z"
+        },
+        {
+            "id": "87c781bde7b5638820e36018e84a23c0",
+            "source": "nyt",
+            "text": "The Vera Rubin Telescope Begins Surveying Our Cosmos",
+            "source_link": "https://www.nytimes.com/2026/06/30/science/rubin-telescope.html",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-01T13:35:56.618017Z",
+            "shown_at": [
+                "2026-07-01T13:35:57.449410Z"
+            ]
+        },
+        {
+            "id": "8174463bd1e5ba7b5d568fcfab067f85",
+            "source": "nyt",
+            "text": "Curiosity, Perseverance and Now Promise? NASA May Send a Mars Rover to the Moon.",
+            "source_link": "https://www.nytimes.com/2026/06/30/science/nasa-moon-base-research.html",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-07-01T13:35:56.618055Z"
+        },
+        {
+            "id": "f18f51cd61964f31ae77747e081c6c60",
+            "source": "nyt",
+            "text": "NASA Aims to Catch a Falling Space Telescope and Push It Back Up",
+            "source_link": "https://www.nytimes.com/2026/06/29/science/nasa-falling-space-telescope-swift.html",
+            "shown": false,
+            "type": "news",
+            "fetched_datetime": "2026-07-01T13:35:56.618082Z"
         }
     ]
 }
