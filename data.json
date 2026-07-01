@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-01T00:04:51.810574+00:00",
-    "trigger_count": 6,
-    "current_item_id": "5016b3d20bc2555a6272628eed99cc19",
+    "trigger_count": 0,
+    "current_item_id": "b60dcd7a270027270c6c39836f9a7c9b",
     "data": [
         {
             "id": "be8295e6f578f57da46540778e2e44f7",
@@ -8265,6 +8265,18 @@
             "fetched_datetime": "2026-07-01T11:14:47.660208Z",
             "shown_at": [
                 "2026-07-01T11:14:48.709264Z"
+            ]
+        },
+        {
+            "id": "b60dcd7a270027270c6c39836f9a7c9b",
+            "source": "spacenews",
+            "text": "Blue Origin outlines new launch pad approach as it pushes to return New Glenn to flight",
+            "source_link": "https://spacenews.com/blue-origin-outlines-new-launch-pad-approach-as-it-pushes-to-return-new-glenn-to-flight/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-01T11:54:56.231271Z",
+            "shown_at": [
+                "2026-07-01T11:54:57.362070Z"
             ]
         }
     ]
