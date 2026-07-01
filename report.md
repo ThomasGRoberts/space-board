@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 16 | 15 | 33 |
-| breaking_defense | 0 | 1 | 10 | 25 |
+| spacenews | 7 | 16 | 15 | 32 |
+| breaking_defense | 0 | 1 | 11 | 26 |
 | nyt | 0 | 1 | 10 | 16 |
 
 # Shown Order
@@ -2753,3 +2753,4 @@
 - **Jul 01, 04:05 AM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
 - **Jul 01, 04:41 AM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
 - **Jul 01, 05:54 AM** - Rocket Lab wins NASA award for three Electron launches (spacenews)
+- **Jul 01, 06:29 AM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
