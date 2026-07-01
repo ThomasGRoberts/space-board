@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 15 | 15 | 31 |
 | breaking_defense | 0 | 1 | 10 | 25 |
-| nyt | 0 | 1 | 10 | 17 |
+| nyt | 0 | 1 | 11 | 18 |
 
 # Shown Order
 
@@ -2757,3 +2757,4 @@
 - **Jul 01, 07:04 AM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
 - **Jul 01, 07:39 AM** - Space Force fields mobile satellite-jamming system  (spacenews)
 - **Jul 01, 08:59 AM** - Boeing wins $2B Space Force contract for 2 new MUOS satellites (breaking_defense)
+- **Jul 01, 09:39 AM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
