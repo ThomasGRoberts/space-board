@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-01T00:04:51.810574+00:00",
-    "trigger_count": 6,
-    "current_item_id": "87c781bde7b5638820e36018e84a23c0",
+    "trigger_count": 0,
+    "current_item_id": "c0f7babf45229904eec0c414aedc814b",
     "data": [
         {
             "id": "be8295e6f578f57da46540778e2e44f7",
@@ -8296,9 +8296,12 @@
             "source": "spacenews",
             "text": "EchoStar’s satellite TV and wireless subsidiaries file for bankruptcy",
             "source_link": "https://spacenews.com/echostars-satellite-tv-and-wireless-subsidiaries-file-for-bankruptcy/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-07-01T12:45:53.200852Z"
+            "fetched_datetime": "2026-07-01T12:45:53.200852Z",
+            "shown_at": [
+                "2026-07-01T14:21:38.771698Z"
+            ]
         },
         {
             "id": "019869af4b4581b483a844391026edf1",

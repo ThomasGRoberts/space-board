@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 16 | 15 | 31 |
+| spacenews | 9 | 16 | 16 | 32 |
 | breaking_defense | 0 | 1 | 9 | 22 |
 | nyt | 3 | 4 | 11 | 19 |
 
@@ -2763,3 +2763,4 @@
 - **Jul 01, 11:54 AM** - Blue Origin outlines new launch pad approach as it pushes to return New Glenn to flight (spacenews)
 - **Jul 01, 12:45 PM** - Vantor offers up-to-date imagery with WorldView 3D (spacenews)
 - **Jul 01, 01:35 PM** - The Vera Rubin Telescope Begins Surveying Our Cosmos (nyt)
+- **Jul 01, 02:21 PM** - EchoStar’s satellite TV and wireless subsidiaries file for bankruptcy (spacenews)
