@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-01T00:04:51.810574+00:00",
-    "trigger_count": 6,
-    "current_item_id": "d18548b22241cd1eacdde3dcbdc0f5f3",
+    "trigger_count": 0,
+    "current_item_id": "5016b3d20bc2555a6272628eed99cc19",
     "data": [
         {
             "id": "be8295e6f578f57da46540778e2e44f7",
@@ -8253,6 +8253,18 @@
                 "2026-04-22T18:04:45.421125Z",
                 "2026-04-24T02:44:15.293480Z",
                 "2026-04-25T01:34:13.322621Z"
+            ]
+        },
+        {
+            "id": "5016b3d20bc2555a6272628eed99cc19",
+            "source": "spacenews",
+            "text": "The SpaceX IPO tells one story. Here is the more important one.",
+            "source_link": "https://spacenews.com/the-spacex-ipo-tells-one-story-here-is-the-more-important-one/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-01T11:14:47.660208Z",
+            "shown_at": [
+                "2026-07-01T11:14:48.709264Z"
             ]
         }
     ]
