@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-01T00:04:51.810574+00:00",
-    "trigger_count": 6,
-    "current_item_id": "9c7944b3aa9fa25dbbde354db923bf48",
+    "trigger_count": 0,
+    "current_item_id": "b594bcf9b6a5381fb72492156a22f96d",
     "data": [
         {
             "id": "be8295e6f578f57da46540778e2e44f7",
@@ -8365,6 +8365,18 @@
             "fetched_datetime": "2026-07-01T16:54:32.141369Z",
             "shown_at": [
                 "2026-07-01T16:54:34.198308Z"
+            ]
+        },
+        {
+            "id": "b594bcf9b6a5381fb72492156a22f96d",
+            "source": "spacenews",
+            "text": "FCC to vote on satellite licensing overhaul July 22",
+            "source_link": "https://spacenews.com/fcc-to-vote-on-satellite-licensing-overhaul-july-22/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-01T20:19:54.008562Z",
+            "shown_at": [
+                "2026-07-01T20:19:55.005047Z"
             ]
         }
     ]

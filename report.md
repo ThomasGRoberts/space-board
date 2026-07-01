@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 14 | 15 | 29 |
+| spacenews | 9 | 15 | 16 | 30 |
 | breaking_defense | 0 | 1 | 9 | 20 |
 | nyt | 3 | 4 | 11 | 22 |
 
@@ -2772,3 +2772,4 @@
 - **Jul 01, 06:15 PM** - Curiosity, Perseverance and Now Promise? NASA May Send a Mars Rover to the Moon. (nyt)
 - **Jul 01, 06:49 PM** - Discovering the Universe – Astrophysics Flagship Space Observatories Offer Insights to Key Questions (spacenews)
 - **Jul 01, 07:33 PM** - Rocket Lab to buy satellite communications firm Iridium (breaking_defense)
+- **Jul 01, 08:19 PM** - FCC to vote on satellite licensing overhaul July 22 (spacenews)
