@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-01T00:04:51.810574+00:00",
-    "trigger_count": 6,
-    "current_item_id": "019869af4b4581b483a844391026edf1",
+    "trigger_count": 0,
+    "current_item_id": "f18f51cd61964f31ae77747e081c6c60",
     "data": [
         {
             "id": "be8295e6f578f57da46540778e2e44f7",
@@ -8344,9 +8344,12 @@
             "source": "nyt",
             "text": "NASA Aims to Catch a Falling Space Telescope and Push It Back Up",
             "source_link": "https://www.nytimes.com/2026/06/29/science/nasa-falling-space-telescope-swift.html",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-07-01T13:35:56.618082Z"
+            "fetched_datetime": "2026-07-01T13:35:56.618082Z",
+            "shown_at": [
+                "2026-07-01T16:19:31.908879Z"
+            ]
         }
     ]
 }

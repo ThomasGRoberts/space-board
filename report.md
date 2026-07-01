@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 9 | 13 | 16 | 31 |
 | breaking_defense | 0 | 1 | 8 | 21 |
-| nyt | 3 | 4 | 11 | 20 |
+| nyt | 3 | 4 | 12 | 21 |
 
 # Shown Order
 
@@ -2766,3 +2766,4 @@
 - **Jul 01, 02:21 PM** - EchoStar’s satellite TV and wireless subsidiaries file for bankruptcy (spacenews)
 - **Jul 01, 03:05 PM** - Curiosity, Perseverance and Now Promise? NASA May Send a Mars Rover to the Moon. (nyt)
 - **Jul 01, 03:44 PM** - Latitude plans to conduct first launch from Oman (spacenews)
+- **Jul 01, 04:19 PM** - NASA Aims to Catch a Falling Space Telescope and Push It Back Up (nyt)
