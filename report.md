@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 9 | 14 | 15 | 29 |
+| spacenews | 9 | 14 | 16 | 30 |
 | breaking_defense | 0 | 1 | 8 | 20 |
 | nyt | 3 | 4 | 12 | 22 |
 
@@ -2770,3 +2770,4 @@
 - **Jul 01, 04:54 PM** - Unseen threats overhead: Drones endanger U.S. rocket launch sites (spacenews)
 - **Jul 01, 05:29 PM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
 - **Jul 01, 06:15 PM** - Curiosity, Perseverance and Now Promise? NASA May Send a Mars Rover to the Moon. (nyt)
+- **Jul 01, 06:49 PM** - Discovering the Universe – Astrophysics Flagship Space Observatories Offer Insights to Key Questions (spacenews)
