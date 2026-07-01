@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 7 | 16 | 15 | 34 |
-| breaking_defense | 0 | 1 | 10 | 26 |
+| spacenews | 7 | 16 | 15 | 33 |
+| breaking_defense | 0 | 1 | 11 | 27 |
 | nyt | 0 | 1 | 11 | 15 |
 
 # Shown Order
@@ -2750,3 +2750,4 @@
 - **Jul 01, 02:18 AM** - Built for another era, our air-and-missile-defense industrial base needs more builders (breaking_defense)
 - **Jul 01, 02:54 AM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
 - **Jul 01, 03:29 AM** - Orbital files plans for 100,000 orbital data centers (spacenews)
+- **Jul 01, 04:05 AM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
