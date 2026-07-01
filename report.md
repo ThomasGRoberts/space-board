@@ -3,8 +3,8 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 10 | 14 | 16 | 30 |
-| breaking_defense | 0 | 1 | 8 | 21 |
-| nyt | 3 | 4 | 11 | 21 |
+| breaking_defense | 0 | 1 | 8 | 20 |
+| nyt | 3 | 4 | 12 | 22 |
 
 # Shown Order
 
@@ -2769,3 +2769,4 @@
 - **Jul 01, 04:19 PM** - NASA Aims to Catch a Falling Space Telescope and Push It Back Up (nyt)
 - **Jul 01, 04:54 PM** - Unseen threats overhead: Drones endanger U.S. rocket launch sites (spacenews)
 - **Jul 01, 05:29 PM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
+- **Jul 01, 06:15 PM** - Curiosity, Perseverance and Now Promise? NASA May Send a Mars Rover to the Moon. (nyt)
