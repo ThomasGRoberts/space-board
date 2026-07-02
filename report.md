@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 3 | 13 | 12 | 29 |
 | breaking_defense | 1 | 1 | 11 | 19 |
-| nyt | 0 | 3 | 9 | 20 |
+| nyt | 0 | 3 | 10 | 21 |
 
 # Shown Order
 
@@ -2674,3 +2674,4 @@
 - **Jul 02, 03:06 PM** - NASA Aims to Catch a Falling Space Telescope and Push It Back Up (nyt)
 - **Jul 02, 03:49 PM** - Discovering the Universe – Astrophysics Flagship Space Observatories Offer Insights to Key Questions (spacenews)
 - **Jul 02, 04:29 PM** - Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO (breaking_defense)
+- **Jul 02, 05:05 PM** - Curiosity, Perseverance and Now Promise? NASA May Send a Mars Rover to the Moon. (nyt)
