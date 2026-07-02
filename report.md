@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 15 | 30 |
+| spacenews | 8 | 15 | 16 | 31 |
 | breaking_defense | 1 | 1 | 9 | 19 |
-| nyt | 3 | 3 | 11 | 22 |
+| nyt | 3 | 3 | 11 | 21 |
 
 # Shown Order
 
@@ -2662,3 +2662,4 @@
 - **Jul 02, 04:39 AM** - SatVu restarts commercial operations with HotSat-2 (spacenews)
 - **Jul 02, 05:14 AM** - Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO (breaking_defense)
 - **Jul 02, 05:49 AM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
+- **Jul 02, 06:25 AM** - Vantor offers up-to-date imagery with WorldView 3D (spacenews)
