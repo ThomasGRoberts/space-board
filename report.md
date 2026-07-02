@@ -2,8 +2,8 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 15 | 30 |
-| breaking_defense | 1 | 1 | 9 | 19 |
+| spacenews | 8 | 15 | 16 | 31 |
+| breaking_defense | 1 | 1 | 8 | 19 |
 | nyt | 3 | 3 | 11 | 21 |
 
 # Shown Order
@@ -2665,3 +2665,4 @@
 - **Jul 02, 06:25 AM** - Vantor offers up-to-date imagery with WorldView 3D (spacenews)
 - **Jul 02, 07:26 AM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
 - **Jul 02, 08:15 AM** - Curiosity, Perseverance and Now Promise? NASA May Send a Mars Rover to the Moon. (nyt)
+- **Jul 02, 09:01 AM** - FCC to vote on satellite licensing overhaul July 22 (spacenews)
