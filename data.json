@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-02T00:04:59.924282+00:00",
-    "trigger_count": 6,
-    "current_item_id": "c0e65cf291762bddd8db7e1cb3bb9765",
+    "trigger_count": 0,
+    "current_item_id": "25020e10f3500ede1d4757e366675c62",
     "data": [
         {
             "id": "52527c53f63e306ace27b52e54aaaa87",
@@ -8216,6 +8216,18 @@
             "fetched_datetime": "2026-07-02T20:16:11.701251Z",
             "shown_at": [
                 "2026-07-02T20:16:12.575103Z"
+            ]
+        },
+        {
+            "id": "25020e10f3500ede1d4757e366675c62",
+            "source": "spacenews",
+            "text": "Perovskite solar panel startup Verde Technologies shifts focus to space",
+            "source_link": "https://spacenews.com/perovskite-solar-panel-startup-verde-technologies-shifts-focus-to-space/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-02T21:34:50.931782Z",
+            "shown_at": [
+                "2026-07-02T21:34:54.348884Z"
             ]
         }
     ]

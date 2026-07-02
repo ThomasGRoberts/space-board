@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 13 | 12 | 28 |
+| spacenews | 5 | 14 | 13 | 28 |
 | breaking_defense | 1 | 2 | 9 | 18 |
-| nyt | 0 | 3 | 9 | 19 |
+| nyt | 0 | 3 | 8 | 19 |
 
 # Shown Order
 
@@ -2678,3 +2678,4 @@
 - **Jul 02, 07:24 PM** - Isar Aerospace to launch German-built Planet imaging satellite (spacenews)
 - **Jul 02, 08:16 PM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
 - **Jul 02, 08:59 PM** - Polish space tech company Sybilla Technologies secures funds to enter U.S. market (spacenews)
+- **Jul 02, 09:34 PM** - Perovskite solar panel startup Verde Technologies shifts focus to space (spacenews)
