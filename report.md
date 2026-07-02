@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 15 | 15 | 30 |
 | breaking_defense | 1 | 1 | 9 | 19 |
-| nyt | 3 | 3 | 10 | 21 |
+| nyt | 3 | 3 | 11 | 22 |
 
 # Shown Order
 
@@ -2664,3 +2664,4 @@
 - **Jul 02, 05:49 AM** - Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead (nyt)
 - **Jul 02, 06:25 AM** - Vantor offers up-to-date imagery with WorldView 3D (spacenews)
 - **Jul 02, 07:26 AM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
+- **Jul 02, 08:15 AM** - Curiosity, Perseverance and Now Promise? NASA May Send a Mars Rover to the Moon. (nyt)
