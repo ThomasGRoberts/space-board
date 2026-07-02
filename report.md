@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 13 | 13 | 29 |
 | breaking_defense | 1 | 1 | 10 | 19 |
-| nyt | 0 | 3 | 10 | 20 |
+| nyt | 0 | 3 | 10 | 21 |
 
 # Shown Order
 
@@ -2671,3 +2671,4 @@
 - **Jul 02, 12:34 PM** - The Vera Rubin Telescope Begins Surveying Our Cosmos (nyt)
 - **Jul 02, 01:10 PM** - Unseen threats overhead: Drones endanger U.S. rocket launch sites (spacenews)
 - **Jul 02, 01:59 PM** - Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO (breaking_defense)
+- **Jul 02, 03:06 PM** - NASA Aims to Catch a Falling Space Telescope and Push It Back Up (nyt)
