@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-02T00:04:59.924282+00:00",
-    "trigger_count": 6,
-    "current_item_id": "b594bcf9b6a5381fb72492156a22f96d",
+    "trigger_count": 0,
+    "current_item_id": "aa7636583419aa9bd202f6e32b997ac8",
     "data": [
         {
             "id": "52527c53f63e306ace27b52e54aaaa87",
@@ -8160,6 +8160,18 @@
                 "2026-04-22T02:21:07.894545Z",
                 "2026-04-22T08:44:20.844856Z",
                 "2026-04-27T09:54:24.964579Z"
+            ]
+        },
+        {
+            "id": "aa7636583419aa9bd202f6e32b997ac8",
+            "source": "spacenews",
+            "text": "Final Atlas 5 Amazon Leo mission launches",
+            "source_link": "https://spacenews.com/final-atlas-5-amazon-leo-mission-launches/",
+            "shown": true,
+            "type": "news",
+            "fetched_datetime": "2026-07-02T10:36:53.290914Z",
+            "shown_at": [
+                "2026-07-02T10:36:54.200272Z"
             ]
         }
     ]
