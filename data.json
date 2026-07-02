@@ -1,8 +1,8 @@
 {
     "version": "2",
     "last_run_datetime": "2026-07-02T00:04:59.924282+00:00",
-    "trigger_count": 6,
-    "current_item_id": "e06b30b5036f56bd71cd4f7a18693e31",
+    "trigger_count": 0,
+    "current_item_id": "c0e65cf291762bddd8db7e1cb3bb9765",
     "data": [
         {
             "id": "52527c53f63e306ace27b52e54aaaa87",
@@ -8199,9 +8199,12 @@
             "source": "spacenews",
             "text": "Polish space tech company Sybilla Technologies secures funds to enter U.S. market",
             "source_link": "https://spacenews.com/polish-space-tech-company-sybilla-technologies-secures-funds-to-enter-u-s-market/",
-            "shown": false,
+            "shown": true,
             "type": "news",
-            "fetched_datetime": "2026-07-02T19:24:55.076762Z"
+            "fetched_datetime": "2026-07-02T19:24:55.076762Z",
+            "shown_at": [
+                "2026-07-02T20:59:23.793139Z"
+            ]
         },
         {
             "id": "e06b30b5036f56bd71cd4f7a18693e31",

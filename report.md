@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 13 | 11 | 27 |
+| spacenews | 4 | 13 | 12 | 28 |
 | breaking_defense | 1 | 2 | 9 | 18 |
-| nyt | 0 | 3 | 9 | 20 |
+| nyt | 0 | 3 | 9 | 19 |
 
 # Shown Order
 
@@ -2677,3 +2677,4 @@
 - **Jul 02, 05:05 PM** - Curiosity, Perseverance and Now Promise? NASA May Send a Mars Rover to the Moon. (nyt)
 - **Jul 02, 07:24 PM** - Isar Aerospace to launch German-built Planet imaging satellite (spacenews)
 - **Jul 02, 08:16 PM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
+- **Jul 02, 08:59 PM** - Polish space tech company Sybilla Technologies secures funds to enter U.S. market (spacenews)
