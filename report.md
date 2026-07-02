@@ -4,7 +4,7 @@
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 7 | 15 | 14 | 30 |
 | breaking_defense | 1 | 1 | 9 | 18 |
-| nyt | 3 | 3 | 10 | 20 |
+| nyt | 3 | 3 | 11 | 21 |
 
 # Shown Order
 
@@ -2668,3 +2668,4 @@
 - **Jul 02, 09:01 AM** - FCC to vote on satellite licensing overhaul July 22 (spacenews)
 - **Jul 02, 10:36 AM** - Final Atlas 5 Amazon Leo mission launches (spacenews)
 - **Jul 02, 11:54 AM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
+- **Jul 02, 12:34 PM** - The Vera Rubin Telescope Begins Surveying Our Cosmos (nyt)
