@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 16 | 15 | 30 |
+| spacenews | 8 | 16 | 16 | 31 |
 | breaking_defense | 1 | 1 | 9 | 19 |
 | nyt | 3 | 3 | 11 | 22 |
 
@@ -2653,3 +2653,4 @@
 - **Jul 01, 10:39 PM** - Report links Starliner problems to overconfidence and unrealistic schedules (spacenews)
 - **Jul 01, 11:14 PM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
 - **Jul 01, 11:52 PM** - Curiosity, Perseverance and Now Promise? NASA May Send a Mars Rover to the Moon. (nyt)
+- **Jul 02, 12:29 AM** - Craft Prospect selected for The Sunday Times Scotland Fast 50 (spacenews)
