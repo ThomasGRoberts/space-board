@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 4 | 13 | 13 | 29 |
-| breaking_defense | 1 | 1 | 10 | 18 |
+| breaking_defense | 1 | 1 | 11 | 19 |
 | nyt | 0 | 3 | 9 | 21 |
 
 # Shown Order
@@ -2673,3 +2673,4 @@
 - **Jul 02, 01:59 PM** - Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO (breaking_defense)
 - **Jul 02, 03:06 PM** - NASA Aims to Catch a Falling Space Telescope and Push It Back Up (nyt)
 - **Jul 02, 03:49 PM** - Discovering the Universe – Astrophysics Flagship Space Observatories Offer Insights to Key Questions (spacenews)
+- **Jul 02, 04:29 PM** - Space firm Vantor expands portfolio as it tracks ‘geopolitical shift in the marketplace’: CEO (breaking_defense)
