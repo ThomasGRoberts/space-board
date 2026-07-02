@@ -2,9 +2,9 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 5 | 14 | 13 | 28 |
+| spacenews | 5 | 14 | 12 | 28 |
 | breaking_defense | 1 | 2 | 9 | 18 |
-| nyt | 0 | 3 | 8 | 19 |
+| nyt | 0 | 3 | 9 | 20 |
 
 # Shown Order
 
@@ -2679,3 +2679,4 @@
 - **Jul 02, 08:16 PM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
 - **Jul 02, 08:59 PM** - Polish space tech company Sybilla Technologies secures funds to enter U.S. market (spacenews)
 - **Jul 02, 09:34 PM** - Perovskite solar panel startup Verde Technologies shifts focus to space (spacenews)
+- **Jul 02, 10:09 PM** - The Vera Rubin Telescope Begins Surveying Our Cosmos (nyt)
