@@ -3,7 +3,7 @@
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
 | spacenews | 8 | 16 | 15 | 31 |
-| breaking_defense | 1 | 1 | 8 | 17 |
+| breaking_defense | 1 | 1 | 9 | 18 |
 | nyt | 3 | 3 | 10 | 20 |
 
 # Shown Order
@@ -2667,3 +2667,4 @@
 - **Jul 02, 08:15 AM** - Curiosity, Perseverance and Now Promise? NASA May Send a Mars Rover to the Moon. (nyt)
 - **Jul 02, 09:01 AM** - FCC to vote on satellite licensing overhaul July 22 (spacenews)
 - **Jul 02, 10:36 AM** - Final Atlas 5 Amazon Leo mission launches (spacenews)
+- **Jul 02, 11:54 AM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
