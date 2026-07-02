@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 8 | 15 | 15 | 30 |
+| spacenews | 8 | 15 | 16 | 31 |
 | breaking_defense | 1 | 1 | 8 | 19 |
 | nyt | 3 | 3 | 11 | 21 |
 
@@ -2656,3 +2656,4 @@
 - **Jul 02, 12:29 AM** - Craft Prospect selected for The Sunday Times Scotland Fast 50 (spacenews)
 - **Jul 02, 01:19 AM** - China dumping more rocket bodies in space, endangering low Earth orbit satellites: Report (breaking_defense)
 - **Jul 02, 02:09 AM** - The Vera Rubin Telescope Begins Surveying Our Cosmos (nyt)
+- **Jul 02, 02:44 AM** - Space Force fields mobile satellite-jamming system  (spacenews)
