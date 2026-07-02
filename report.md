@@ -2,7 +2,7 @@
 
 | Source | Fetched (Last 1 Day) | Fetched (Last 2 Days) | Shown (Last 1 Day) | Shown (Last 2 Days) |
 |--------|------------------|------------------|----------------|----------------|
-| spacenews | 4 | 13 | 11 | 27 |
+| spacenews | 4 | 13 | 12 | 28 |
 | breaking_defense | 1 | 2 | 9 | 18 |
 | nyt | 0 | 3 | 8 | 19 |
 
@@ -2681,3 +2681,4 @@
 - **Jul 02, 09:34 PM** - Perovskite solar panel startup Verde Technologies shifts focus to space (spacenews)
 - **Jul 02, 10:09 PM** - The Vera Rubin Telescope Begins Surveying Our Cosmos (nyt)
 - **Jul 02, 11:16 PM** - Pentagon continues to ‘struggle’ with key weapons development timelines: GAO (breaking_defense)
+- **Jul 02, 11:59 PM** - Isar Aerospace to launch German-built Planet imaging satellite (spacenews)
